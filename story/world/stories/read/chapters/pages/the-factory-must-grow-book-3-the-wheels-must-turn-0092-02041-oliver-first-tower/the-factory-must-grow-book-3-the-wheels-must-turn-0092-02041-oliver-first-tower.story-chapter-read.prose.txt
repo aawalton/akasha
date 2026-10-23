@@ -1,0 +1,131 @@
+Walls of blue fire blazed around Oliver.
+
+⟨Use Artifact⟩ made activating the System node quite trivial these days, and gave him the space needed for his mind to wander even while actively leveling up. Or not so much wander as wonder just how the hells Alyssa managed to find the ability to give herself substats in this whole process. He knew what would be needed to just barely start for something like that, and it would be by defining a rigorous model of what the soul was supposed to be imprinted with, fine-tuning it to ensure there weren't any unexpected side effects, and then making that an integrated portion of the leveling ritual!
+
+It wasn't fair that Alyssa could just do it. It was almost as bad as Clark's literal handwave-y approach to skills. Or was it worse, because that wasn't the point of the System? Or maybe he was just jealous. Perhaps it was a manifestation of her tactile arcanoception, which would make it somewhat better. Intuition might have oftentimes been seen as the most desirable form of mana sense due to its lack of obvious weaknesses, yet other forms had their own distinct advantages.
+
+The walls of fire that accompanied the leveling process began to die down, and the currents of mana likewise started to fade as his soul settled into its new shape.
+
+That was interesting. Then again, [Heart of Technology] did already make him somewhat android-like, so it shouldn't be too much of a surprise that at least some of its subskills would enable him to become a cyborg. It probably... Oliver absently shut down the System node, returning the new stat assignment crystal - the old one had gotten blown away in their last windstorm - to its newly-reinforced slot at the center of the array, and began to climb down the ladder.
+
+As soon as it was safe to take his eyes off the rickety construction, Oliver delved into both the Encyclopedia Systema articles and turned [Appraise] towards his own soul to try and get a better understanding of his new subskill.
+
+And... yeah. It definitely skewed heavily towards cyborg, interfacing his physical body with technology he used to augment it with. That was kind of neat. It also seemed a bit comparable to a ⟨Signature Spellbook⟩-type subskill, in that it focused on broadening capabilities, giving him a Skill-based connection to more types of magic than his Skill stat alone would suggest. Whatever he chose to enchant himself with would grow some combination of more advanced, more powerful, and more in-line with himself as they grew, much like a skill would.
+
+Very neat. It would probably be a pain to remove things, if it even proved possible at their current tech level, so he shouldn't just go around slapping every halfway-enchanted item he could find into his flesh. That did trigger certain 'wait forever for the right thing' instincts, but he could... probably fight those enough to get the skill used, because the sooner he installed something, the more it could grow on its own, and thereby the better it would be for him in the longer term.
+
+Oliver swung by First Forge as he passed by... well, what could probably more accurately be called his former workshop by now. The Bronzing Crucible was taking up a ton of space between itself and its intense magical vortexes around it. He kind of wished they'd been able to build it elsewhere, but he'd needed to draw on the Universal Refinery fairly heavily when [Cogniprint]ing some of the base enchantments, in a way that had necessitated physical proximity. He'd checked. Also, something about the wards in the workshop had made the test enchantments work way more effectively than outside its walls.
+
+It wasn't the biggest problem. There was still enough room around the edge to retrieve their iron sand as needed, though Alyssa's Blast furnace was nearing completion and would potentially make that semi-redundant. She was currently trying to integrate some magical flames in addition to the charcoal needed to actually create iron, and Henrietta had mentioned she wanted to incorporate some of the techniques they'd used in the Bronzing Crucible to improve the outflow of the furnaces. It mattered mostly because charcoal didn't naturally burn hot enough to melt iron, and forcing it had... drawbacks.
+
+In any case, the crucible hogging space in the First Forge didn't really matter matter. He could make a better one, anyway.
+
+He had already started work on a new workshop at the base of First Tower, now that his magic was a bit stronger and his enchantments a bit more sophisticated, so the vertical isolation didn't matter quite as much. Something about the nature of the magic here was making certain kinds of isolation wards much easier more cooperative than usual, and Oliver was happy to take advantage of not needing to climb forty meters on rickety ladders every day 'on his way to work.' Maybe it was a hint at the nature of this world's specific magic, maybe it was just how magic worked when there wasn't a ton of spellweaving going on. either way, he wasn't going to complain.
+
+Once he was properly satisfied that the Crucible was working on-schedule, with maybe another eight hours left before it reached target tin levels, Oliver moved on from the First Forge to climb down those forty meters of rickety ladders, and breathed a sigh of relief he hadn't realized he'd been holding as he moved out of direct line-of-sight to the smelter enchantment and its massive column of fire. He was glad it had been running so consistently lately, especially since it had become the focus for his fire conjuration broadcast glyph. He still didn't love the name the group had settled on, because for whatever reason the more correct 'local-referential glyphic library node' had never caught on. They'd even rejected calling it a LRGLN too!
+
+"Penny for your thoughts?" Alyssa asked him as he sat down in their common area. She was tending to her axes, tightening the bindings that helped to keep the head secure. Jacob was also there tending to his weapon, going through the stances he used to reconjure his [Frostblade].
+
+"What are you calling a penny?" Oliver was instantly suspicious. "Did the Commander make all of us pens, then tell you to give me one next time you saw me? So you gave it a stupid nickname to make a joke?"
+
+He didn't need [Perceive Emotion] to interpret Alyssa leaning back, crossing her arms, and glowering at him. "How? I was so proud of that one. And that was so specific, too! Did Clark tell you? He swore he wouldn't tell, oh I'm going to get him..."
+
+"You're just too predictable," Oliver shrugged. Also, he'd known that Henrietta was planning on making them all writing utensils as part of her ongoing 'get everyone basic gear' goal. "You keep ruining all of my naming schemes, after all. Which, actually, give me the pen first. Can't let you shortchange me."
+
+Alyssa grumbled, but felt around in her bag - itself another new inkling construct - for a moment, then tossed Oliver a small wand-like object. He ducked, covering his eyes, and somehow still finding his fingers closing around the object. It looked a bit like a fountain pen, or at least a calligraphic representation of one, and Oliver placed it on the seat next to him. He'd left his own bag by his new workshop, and the pen would be kept in there long-term.
+
+"Now spill."
+
+"I was thinking about how you always ruin my naming schemes. LRGLN clearly has no flaws whatsoever."
+
+"Lgluglusrn? Huh?" Alyssa seemed to be confused. "Ohhh. Your joke name for the broadcast glyphs."
+
+"Hey!" It had only half been a joke.
+
+"It's always refreshing to be reminded that you can be so, so wrong." Alyssa stroked her chin. "But now actually, spill. What's the new skill?"
+
+"One I was almost familiar with. ⟨Integrate⟩." Oliver quickly explained how the skill worked.
+
+"How many items do you believe the skill shall enable you to be connected to?" Jacob asked, a fresh sword gleaming at his waist as he walked up.
+
+"One per level, ish." Oliver shrugged. "A bit more if it's a really trivial enchantment, less if it's something big. I don't have the best grasp over what might count for each, though. I'll need to do some testing."
+
+"You should totally ⟨Integrate⟩ some of your new brackets," Alyssa said. "What if they let you fly?"
+
+"I'm definitely not using it on a second-gen placement bracket," Oliver immediately shut that down. "They're designed for easy creation and independent use, not actually efficacy. And anything I stick my soul into needs to at the very least work outside of [Order Mana] range."
+
+Not that ⟨Integrate⟩-ing a more custom placement bracket was completely out of the question, of course. The new ones were incredibly basic, but he did like some of the underlying logic a bit more. But when the newest model could only move in a single axis, and he needed to physically connect multiple together to regain three-dimensional navigation? Yeah, no.
+
+He did call one to hand, trying to see if the skill might give him any intuition what the end result might be even before he used it. The new placement brackets were completely flat, approximately the shape of an isosceles right triangle save that the two non-right corners had been clipped off. The rune that served as the heart of ninety percent of the enchantment gleamed in the eternal daylight, but mostly just looked like a glossy glyph on a mostly-matte piece of iron.
+
+If he used ⟨Use Artifact⟩ on it, that same glyph would glow the same color as his magimorphic lines and then propel the entire object in a decently straight trajectory. To regain the two-dimensional adjustments the first generation brackets had been baseline capable of, he'd need to put two of these brackets into a holder and connect them with a fairly basic linking enchantment. Fortunately, three dimensional adjustment was as easy as bolting on a third, and including rotation merely necessitated a fourth.
+
+That simplified-but-modular approach was the biggest change from before, though this version had two other benefits too. The first was that it could key off of certain leverage tiles to exert way more force than the first generation could, albeit only in a direction away from the hexagonal tiles, and the second was how it could vent off excess phlogiston via a crackle of light. That last upgrade was kind of niche, but its niche was 'using the placement brackets in part of a larger semi-stationary contraption,' like the ballistae or the Bronzing Crucible. Plus, because all of the hard work supporting that functionality had been done in the broadcast glyph, it didn't make the individual brackets any harder to make.
+
+Ahh... the broadcast glyphs. Definitely his best creation since the System node itself. His time spent digging into his glyphic dependencies had given him ideas as to how he could leverage [Order Mana] and [Scrollcast] in combination. The actual mechanism was genuinely so easy, little more than a constantly-maintained ⟨Use Artifact⟩ being channeled through a Magic Circle at the base of the System node.
+
+The System node, being something of a focal point for all of the mana in First Tower as it naturally cycled, then spread out his designs across the entire area, and allowed him to shortcut a full magic circle, with a primary central glyph and multiple secondary, supporting glyphs that modified the exact expression of said central glyph... into just the central glyph. Which would then act like it had all of the supporting magical infrastructure, because it was getting all of the needed magical 'information' from the local Tapestry. Which was itself being fed information from the System node.
+
+So instead of an active the sudden motion resulting from force coming in at a slight angle upon slippery ice Symbol - aka Slip - making the Force mana act in a means similar to its physical component and slightly reduce friction in practice, which is what it might do under 'normal' circumstances, it acted like the full motion slide enchantment Oliver had made, conjuring a small but steady amount of motion between two properly-prepared pieces of metal.
+
+It still had its limits, precisely because it was acting like the full enchantment was directly inscribed onto the object, right where the broadcast glyph itself was carved. So he needed the receiving glyph to still be carved onto an object matching his original design, for example. Because Slip, modified as it was by Earthquake, Falling Boulder, and Locomotive, was only designed for use on a flat metal bar instigating linear motion. He couldn't directly slap Slip on to a wheel and expect it to turn, for example. It would work just as well as any enchantment radically mismatched from the object it was on - which was to say, very poorly if not actively dangerous.
+
+"Might your staff make for an acceptable target?" Jacob asked. "It has been a steadfast companion for you for quite some time now."
+
+"....Mmmmaybe?" Oliver thought it over, once his mind had returned to the here and now. "I've been kind of thinking about upgrading it, though. It's served me well, but it's also showing some cracks both literal and metaphorical. I think I'd rather make something more at the edge of my current abilities and start with that. Also, that would be quite the thing to just start with, you know?"
+
+“Boo,” Alyssa cupped her hands around her mouth for emphasis. “Just send it. Live a little, bind a half-broken twig to your soul. This is a fantastic idea, definitely listen to me. I’m great at skills.”
+
+“Because clearly, nothing can ever go badly from reckless skill experimentation,” Oliver dryly shot back. “Remind me, how many times have you broken something while trying to get your ⟨Conflagrate⟩d ⟨Springlaunch⟩ working?”
+
+“Only once,” she crossed her arms.
+
+“Right, right. Because you have a safety skill, yes? And the one time was when you thought disabling ⟨Tumbling⟩ and ‘just sending it’ was the right way to go?”
+
+Alyssa flipped him off.
+
+"I want to at least talk with the Commander before I do anything drastic. Where... did you say where she was?"
+
+Jacob was the one to answer, "She is on a trip to Ironworks. The diggers there have once more perished."
+
+"Again?" Oliver blinked, "I thought the last time was just two or three days ago!"
+
+"It is apparent that we shall require superior defenses established there," Jacob confirmed. "It is my opinion that miniaturizing the ballista design, until it more resembles your Arcanalest or a typical crossbow, may be the most prudent."
+
+"Is anything that small going to be effective?" Oliver asked.
+
+"It shall," the [Frost Knight] nodded. "As our opponents are not sapient and predominantly do not possess healing magic or other means of rapid recovery, even bullets would prove quite injurious to them."
+
+"Mmmmm," Oliver hummed in agreement. "Right. I think I remember hearing something about that now."
+
+With his clockwork heart project dependent on bronze in more ways than one, Oliver spent the next few hours working in his IDE, reworking design prototypes for their weapons. Having bronze actually made a traditional crossbow way more viable, because bronze was incredibly elastic and could make for great springs. Wrought iron underwent plastic deformation far too easily to do the same, cast iron was too brittle to bend without breaking, and while copper was alright... bronze was way better. He was definitely riding the high of a new metal, but he didn't care.
+
+He was about halfway done when Henrietta finally returned, and once Oliver got his turn talking with the Commander and could explain his newest skill and the decisions that came with it, she answered almost immediately.
+
+"Test something small. Both physically and magically," her eyes began to rove around the area. "That way, you get a sense of what the changes will mean in a practical sense, you have an example to study, and you've got close to a null-state comparison point for any future binds you make. Making it small should also reduce any risks of permanent capacity usage or major bodily reworks."
+
+Oliver nodded. That made sense, though it did ask the question of, "So what should I pick?"
+
+"That is up to you," Henrietta looked back at him. "But perhaps one of the Light Crystals you've been making for the phlogiston radiators? I know you have some extra, and there are few enchantments so small, simple, and harmless as making something glow."
+
+...Fair enough.
+
+He still made sure to have Clark on standby when experimenting with a new skill that definitely interacted with his body. The Light Crystal he'd chosen was a slightly oblong sphere about the size of his thumbnail, glass tinged ever so slightly blue from copper contamination and with a small flat edge from where some of the glass had chipped off. It caught the light as he held it between his fingers, glimmering and suggesting the possibility of further, invisible cracks within its body. Physically, there had been more appealing ones, but this had been the one in the best magical shape, though maybe he should double-check to ensure there wasn't anything more....
+
+⟨Integrate⟩, he commanded before he could talk himself out of it. Then immediately regretted it. Then was distracted by his hand becoming incredibly cold.
+
+It didn't hurt. But he could definitely feel it as mana pulsed along his magimorphic lines, draining themselves of mana to climb past his skin, Technological lines creeping up each side of the glass bead like some weird combination of a net, virus, and progress bar. Then, the lines converged at the very top of the crystal, and with a pulse of light, dragged the spell focus inside his hand. His fingertips glowed extremely brightly, but that brightness then migrated down to the back of his hand, where it coalesced into a single very bright spot, and the Light Crystal shimmered back into existence half-embedded in his flesh.
+
+That... wasn't the most convenient place for a crystal. It would make wearing gloves annoying, but maybe he could move it later? He probably could, it would just be a matter of figuring out the right spell to do it. The heel of the palm would be far better if it needed to be on his hand, and he was used to having a spellbook repository implanted there anyway.
+
+A couple of offhanded comments from Alyssa made him try to prove her wrong, that rearranging bits of artifice in his flesh wouldn't be as easy as she was suggesting... but then they actually worked, and got the Light Crystal migrated to exactly where he'd wanted it before it fully settled. Unlike his previous implant, which had almost no visible manifestation, it now looked like the small nub-like protrusion where his hand met his wrist was simply made out of glowing blue stone.
+
+A bit of experimentation showed that Oliver could make the stone either glow or extinguish itself with nothing but a thought, and he quickly realized that he could make the rest of him glow, too. Granted, his default state was glowing just generally these days, but this was different. While his normal lines did kind of glow, enough to be visible in any lighting conditions but not illuminate anything else, now he could cast a really simple spell to get them to brighten either everywhere or focused on a certain part of him. There was some max luminosity, so he could make just his hand glow brighter than if he was illuminating his entire body, but none of it was that bright.
+
+He could make his eyes glow brightly enough to make it visible in daylight, but they rarely needed light, what with the whole lack of nighttime, so most of the benefits of self-illuminating vision were irrelevant.
+
+It was still fun though.
+
+But more importantly, it truly did help with figuring out some of the details of his newest subskill. There was still plenty to learn about, of course, but some strategy-talk with Henrietta had brought four primary candidates to the forefront of ⟨Integrate⟩ candidates: a more advanced Technological staff such as a Pillar of Industry , a clockwork heart which could become any number of immensely useful, some form of flying object to supplement his placement brackets with or more of a flight platform which he could use to personally defy gravity, or an attack wand or improved Arcanalest to give him better self-defense options.
+
+But no matter what he chose, something was abundantly clear: he needed to step up the quality of his creations, and of his tools. Bronze opened many doors for them, and it was time to use that.

@@ -1,0 +1,155 @@
+Alyssa cursed under her breath, then gave her welding wand a couple of thumps and shakes, trying to get it working again.
+
+Some part of the slender metal artifact's enchantment clicked into place, and Alyssa recast the spell to make it work, before changing her grip on it back to one she'd use for a pencil, and continued fusing the two steel beams together.
+
+⟨Blowtorch⟩
+
+This was the final bridge before the Ironworks, and Alyssa was so ready for it to be done. The needs of the Factory train were quite different from the basic tracks that the transport carts followed. Most notably that was in weight, because while the transport carts could carry five thousand kilos of iron ore, the carts themselves were just a few hundred pounds in weight, so some toppled trees and sturdy planks driven into the bud around a creekbed worked as a sufficient bridge-structure for them. But the traincar was more than a ton of solid steel when unloaded, and could carry as much iron as two hundred transport carts.
+
+Suffice to say, their ramshackle green wood and reed constructs that they'd made in the early days of The Factory weren't really built to carry a million kilos.
+
+Which is a wild thing to think, when we're just getting started. Alyssa idly mused as she fused two massive chunks of steel together. As Jacob said, any idiot could build something that wouldn't fall over, it only took an engineer to build something that would just barely work.
+
+Their bridges really weren't fancy. They - mainly Jacob, as the highest-Strength member of their team - would drive extra-long and pointed steel beams into The Jungle's soil on either side of whatever little gorge or creek or whatever was causing a problem that they couldn't just fill in with a bunch of rocks, pounding them into the ground until they hit something approximating bedrock, then they would cut off the excess, Alyssa would weld a bunch of other steel beams to make a flat and straight line connecting each side of the river. In some cases, there would be an extra structural pole in the middle of the bridge, but here Alyssa was just welding a large triangle in place for extra strength.
+
+It was monstrously inefficient when it came to steel. This one little bridge, crossing less water than Alyssa would say constituted a creek and spanning a smaller gap than she could have jumped at level zero and with no skills, used...
+
+Her eyes scanned across, counting. Twenty steel beams wide, two beams across, one across each end as a foundation another one in the middle to support it, then four extra-long beams for the central support, and four more for the foundational posts... fifty steel beams. Probably more like sixty, because of the extra-long beams. And each was a hundred and sixty kilos, which like sure, was definitely something she could move around without a ton of trouble thanks to her four Strength points, but also... it was still a lot of steel for something so tiny.
+
+Only Oliver was able to use the drill capable of boring a hole in solid steel, so she'd need to get him and have him work his magic before she came back, put the railway track in its place, then oversee and lend a hand to the spider-bots as they got the far side of the bridge started with graveling and track-laying. But hey! They were just a few hundred feet from the Ironworks, so their job would be done very soon, and then the traincar would start bringing back enormous loads of steel, which they would really need for their next task.
+
+Which was...
+
+Well, it was certainly something.
+
+Oliver had figured out that he could in fact use the super awesome zero-gravity cavern that Alyssa had found while... exploring, and had a basic sketch for a general-purpose assembler to be built in it. However, they would need to get stuff from First Tower to effectively The Geode on an automated basis for that to actually be worth anything, and if the few miles of distance that the Ironroad stretched had been an endeavor, they were easily looking at ten, twenty times that distance, plus like five hundred feet of elevation gain to get to Clifftop, and then some contraption or other to connect an actual underground cave with the aboveground, and uh...
+
+Well. Actually, no. She had no doubt that they could make it work. She would channel her inner Clark and just marvel at how competent... their Commander was, that she was so confident she could oversee such a grand construction. And also Oliver probably. He might help. Or something.
+
+There was a thunk, and Alyssa's head snapped up to the traincar, then over in the direction that the ballista mounted on it had fired. A dragon dropped from the trees, with its torso torn nearly in half slumped to the ground, the bolt responsible for its state nowhere to be seen.
+
+Those ballistae were terrifying.
+
+She'd actually tried to reload one manually, recently. She'd been accustomed to the wood and reed version, which while certainly strong, she could manage to pull the arms back for if she really put herself to it. But these? With coiled bronze arms as long as she was tall and a chain 'string?' She may as well have been pulling against a wall.
+
+The clank-clank of the clockwork heart reloading it really felt different with the fresh reminder of just how much power those things contained, and she made extra certain that her Force deflection stayed solid as she approached the traincar. Her eyes darted between the mounted weapons, making sure that none of them were tracking her, that no errant slip could cause the unfeeling, unthinking logic of metal and tension to loose something that would absolutely obliterate her faster than she could blink.
+
+It didn't matter that the weapons only tracked dragons these days, what mattered was that she liked having her insides stay there. Jacob's statements about heavy artillery had been making more sense as of late, as much as she kind of hated to admit it.
+
+But hesitance notwithstanding, she made it to the front of the train without incident, and flipped the manual override switch to get it trundling back to base. She didn't bother to wait, and tugged on her ⟨Illuminate⟩d [Leafstep] 'Lightspeed' combo to move a bit faster.
+
+Skating along the ground at racecar speeds was always such an exhilarating experience. It couldn't handle rugged terrain that well, but they had literally just reworked the Ironroad to be as smooth and straight as possible for the Factory train, making it an ideal place to go at top speed. Not that she could actually get to top speed before she hit the end of the road. Nor was she that certain if Lightspeed even had a top speed, because she'd yet to hit it.
+
+She went from deep in The Jungle to right at First Tower practically as fast as she could blink, which turned into frantically pulling herself to a stop just as fast. She felt she did pretty good at that, honestly, and the tumbling and somersaulting along the way was just added style.
+
+She dusted herself off with a quick flex of Air and Force mana, checked to make sure she didn't have any scrapes that Clark would need to tend to, and set off to find the Commander... only to realize she'd been at the Volcanic Crucible and was studying her with a bit of a skeptical eye.
+
+"Commander," Alyssa awkwardly saluted. "The final bridge is complete."
+
+"Ride," Henrietta returned. "Good save."
+
+Alyssa started studying the conveyor belt of iron ore leading to the lip of their steel smelter.
+
+Henrietta cleared her throat, and Alyssa returned her attention to where it was actually due. "I assume the car is back on its way as well? Good. Could you start preparing for a multi-day expedition to the no-gravity cavern? Smith has some ideas regarding its use, but has some notes about needed treatments that will definitely need to happen. So we'll be setting up a bit of a forward base, and once we get that set up, I and Smith can turn it into a proper Manufactorium."
+
+"The Ironroad line will need manual fill-in," Alyssa pointed out, just to be on the safe side. "Unless Ollie upgraded the bots while I wasn't looking again, I think it still needs us to put the rails on the bridge."
+
+"Yep," Henrietta confirmed. "I intend to do so while I set up ⟨Monitoring⟩ on it, but the reminder is appreciated. Take care of what you need to around here before you run off to set up our forward camp. Haleford should have a travel meal pack prepared for you, but I'm not entirely certain where he would have put it."
+
+"Eh, that's fine." Even if she didn't feel like asking Clark where he put it, which she may or may not, there was always [Rustlewind]. "What all do you want me to get set up for base camp there?"
+
+"I suspect we'll be spending a decent amount of time there, so we'll want some housing near... say, the mouth of the cavern? So maybe some bunks, a private area, probably a latrine if the digging isn't too bad. If you manage to find and tap a source of water, also a plus."
+
+"Sure," Alyssa nodded in thought. "Yeah. Alright. Might need a bit to make sure I remember all the stuff."
+
+Forward camps were very much the job of the Ranger, and it would be profoundly embarrassing if, even with all basic tools provided, she still couldn't do something that simple. "I might need to wait for a free cycle on Metalpress if I think of something we don't already have."
+
+Henrietta waved her hand. "Be my guest. Consider your assignment for the rest of the day to just be prep, if you want. This isn't really a rush, but the sooner we start the sooner we succeed. I just don't want to make you do multiple trips back and forth."
+
+Alright, what did she need to set up a forward camp?
+
+A more suitable axe, for one. She carried two axes and a hatchet with her just as a matter of course, but they weren't ideal for heavy construction work. They were... well, multipurpose tools. Her main axes both had handles nearly long enough to use them as walking sticks and sharp spikes opposing the main axe-head, allowing them to serve as hooks, climbing spikes, brush-clearing, and fill other similar roles. But because they were also her weapons, the blade was fairly small. At the same time, her hatchet had a blunt back and a very long front blade, and could serve as a hammer in a pinch, but why would she pinch herself if she didn't have to? What she really needed was more of a woodcutter's axe.
+
+Then probably a saw. Maybe she should see about nabbing the bucksaw Oliver had made a couple weeks back?
+
+She always had a knife on her in addition to her axes. But another one would be prudent.
+
+She should bring the staff she used for her instant-firing spell, pottery would be useful if she could find clay.
+
+Twine. She definitely needed twine.
+
+Firestarting materials wouldn't be needed thanks to [Ignite].
+
+And then...
+
+Oh, maybe a chisel? If she was going to be working partially underground, that might be prudent. And a blade-sharpener.
+
+Alyssa's attention was deflected slightly as she approached the First Hearth by the amount of racket Oliver was making. He, meanwhile, was distinctly preoccupied smacking a spider-bot rather vigorously, using his Pillar of Industry like a cudgel as he banged the sides and legs
+
+"You know, if you want to spar, I could... certainly help," Alyssa pretended to inspect her fingernails. "Or if you need to just destroy something, I'm sure we can find something more satisfying to smash up."
+
+"What?" Oliver looked up, eerily blue eye fixing on her for a moment, then flinched and hit the bot a couple more times. "Ah damnit." He paused and put a hand on the top of the machine, before giving it one last whack. Then he stepped back and spun his staff rapidly, chanting a spell. Some crackles and brief flashes of violet light emanated from inside the bot, and it slumped to the ground.
+
+He sighed.
+
+"Did I... interrupt something important?" Alyssa hesitantly asked.
+
+Oliver shrugged. "Just bad timing and a bit of bad luck. I was trying to reboot the bot, because it couldn't figure out where the brick pile was, and..." He looked meaningfully at it. "I got distracted at a fairly important moment."
+
+"Oh... sorry," Alyssa sheepishly apologized. She knew how much of a hassle it still was to make the bots, and even then she hadn't realized he was actually casting. "I didn't realize you were actually... doing something?"
+
+"Why would..." Oliver trailed off, and looked at the staff in his hand. "Actually, fair enough. I guess you probably haven't seen me reboot many bots, but percussive realignment is definitely one of of the weirder methods." He flicked his arm, and the metal rod shrank and folded itself into his body. "It's... fine. I certainly didn't expect this to happen," he absently kicked the new pile of scrap. "But I can probably scavenge most of the materials."
+
+"Fun?" Alyssa carefully tried. "So um, anyway. Can I steal your bucksaw?"
+
+"Sure? Probably?" Oliver shrugged. "Jacob uses it more than I do. You'd need to check with him to make sure he doesn't need it. Why?"
+
+"Making a forward base," Alyssa quickly explained. "Do any of those blade sharpeners work out in the field?"
+
+"The repair stones?" Oliver confirmed. "I mean, none of them are Networked, so they should work just fine, but I don't know if I've actually tested any of them outside the wards, so just be aware of that. Just make sure you don't use them on anything that isn't Attuned. [Unblemish] works best when the object it's working with knows its ideal state. Clark has managed to push it a bit, but I usually need to do some cleanup on anything he's sculpted."
+
+"No using it on the stuff I make out there, got it," Alyssa nodded. "And I just need to check - it still annoys you as much as it does me that Clark's cleaning skill has become the foundation for so much of our infrastructure?"
+
+"Magic is magic," Oliver said in a very balanced manner, then his shoulders drooped. "But also yes. I do console myself with the knowledge that's the only material manipulation Skill any of us come with, so it only makes sense that I've been using it a lot now that Metalpress and I'm finally getting to a level of tech I'm more comfortable with. Though also, it's really only visible because it's useful in a first-generation form. By sheer volume, I think it's probably your [Ignite] that has the most stuff built off it."
+
+"Oooh?" Alyssa perked up. "Do tell."
+
+"Actually, I take that back, it's not quite right."
+
+"That is not fair. Tell me!"
+
+Oliver waved a hand dismissively. "I was just thinking because it was used to create the First Flame, which then became the backbone of pretty much all of our infrastructure. But we're comparing it to [Unblemish] as it's used directly through me [Cogniprint]ing various forms into things. Which, in that case, would go to [Scrollcast] because I think I used that when making the Mana-Smoothing Ward that wound up as the foundation for basically everything after that... mmm, that or [Leafstep] because I also used that to create our force-pillows, and that's the root of its own little enchantment tech tree."
+
+"I'll... take it?" Alyssa pieced together what Oliver was saying. "I think. Oh, you talking about mana smoothing made me think, do we have anything useful for like, sanding down wood boards and that stuff? Wood smoothing, you know."
+
+"I don't think so?" Oliver squinted at nothing. "I usually recruit Clark if I want something particularly fine. I could probably toss something together in a couple hours though, if you're not in a rush."
+
+"Do... you have time for that?" Alyssa asked. "I thought you were pretty busy these days."
+
+"Mmmm... Probably not," he sighed. "It's too involved to be my evening task."
+
+"Eh, it doesn't matter that much. Do we have any small power drills or anything like that?"
+
+"Not that you can use," Oliver replied. "Most of our mechanical devices are Network-bound, and a bunch of them also need me to ⟨Use Artifact⟩ to get them working to any useful degree."
+
+"Frustrating," she noted. "Can I get you to run me a Metalpress kit? I want a woodcutter's axe, a chisel, and a mallet. Plus a better knife, a bunch of nails, and a couple of other things that I still need to think about. Oh, wedges for splitting logs into lumber."
+
+"Sure, the current batch will be done in," he flicked his fingers and consulted his System. "Bit less than an hour. If you can grab the broken bot and bring it with us as we head up to the First Forge, I can get started on some of the designs. You'll probably want to talk to Clark about getting them proper handles, though."
+
+"Yeah, sure." Dang, that thing was heavy. She grunted a bit as she shouldered the solid metal bot, but kept her balance as they made their way towards the Spire Elevator.
+
+"Oh, and if you're going to be gone for a few days or weeks," Oliver started.
+
+"I'm sure I'll be back for resupplies a couple of times."
+
+"Either way, if you won't be around here very much, I want to get a couple more measurements of you using ⟨Leaf on the Wind⟩. I really want to get some flight going, but I think I need a different weave than the basic one. I need do some checks to figure out what pattern it should be, and then hope it's nothing too crazy and that the Commander and I can either modify the current loom or make a new one, to get that working."
+
+"Yeah, hopefully you don't need to reinvent computers to get the loom doing what you want," Alyssa joked, then frowned. "Computers did come from looms, right?"
+
+"Via punch-card coding, yes," he confirmed. "But hopefully not. Even if I really prefer flight platforms to wings, being bound to gravity is even less preferable."
+
+"Yeah, all you poor people walking around the ground, like this is the Age of Oppression or something."
+
+"Showoff," Oliver accused her as she took a lengthy bound into the air. Not as high of one as she'd been aiming for, given the weight of her burden, but it was still enough.
+
+Guilty as charged, she supposed.

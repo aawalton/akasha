@@ -1,0 +1,151 @@
+"Well, this clearly isn't going to work." Henrietta sighed.
+
+"Oh come on, it isn't that bad," Alyssa responded, voice filled with false cheer.
+
+Henrietta eyed the younger woman, who immediately adopted an overly-contrite expression. "We just need to make Ollie have the bots last a hundred times longer outside our zones, or have Clark train your diggers to dig out perfectly rectangular holes at super evenly-spaced intervals, or get Jacob to... I dunno. Tap-dance until the earth submits to his will and carves out the tracks itself? Totally doable."
+
+"The entire point of this endeavor is to move away from both inkling and human labor, Ride."
+
+"I mean, I get that, but we can still use them to bridge the gap."
+
+Henrietta considered the point. Alyssa wasn't entirely wrong that getting infrastructure set up, which could subsequently be automated, was the kind of thing that more manual forms of labor were most suited for. They did as much every time they made a new machine, and baseline transportation like the Factory train was itself a kind of machine.
+
+However...
+
+"I believe we can accomplish this with our current tools," Henrietta settled. "And I would rather solve this problem now, while we're building out lines close to First Tower, rather than delay a properly automated setup until it's inconvenient for even us to work on it... more than it already is. It's not like we're abounding with free time. I don't think it'll be that challenging, anyway."
+
+Alyssa shrugged. "Sure. Anyway, anything more you want from me while I'm here, or should I go out for another crystal run?"
+
+Henrietta raised an eyebrow. "We're out already?"
+
+"Getting pretty low. Ollie's running through them like wildfire, and I can really only carry so many at once while maintaining any kind of mobility."
+
+"You already did your herb-foraging for Haleford?"
+
+"Yep. Wasn't able to find any ripe nocberries in range though, so unless you want me to spend some more time on that one... 'Kay, that's what I figured"
+
+"Just keep a feeler out for any on your Geode run," Henrietta settled for. Alyssa gave a quick salute, adjusted her backpack, and blasted upwards to land on the treetops and dash from view.
+
+Henrietta turned back to the trainline.
+
+The problem they were facing was a simple one: too many things could bump the train rails out of line, because they were just sitting unsecured on flat ground. Anything from dragons to inklings, even the transport carts still running on their own parallel track, but still managed to find ways to bump their sister rails off by just a a few dozen centimeters, and that would be enough to literally derail the train itself.
+
+The solution was a theoretically simple one: include railroad ties that the rails could be nailed to, holding them in place. The problems arose simply with implementation: because the rails themselves absolutely had to be sitting directly on something with strong support - in this case the ground - those railway ties had to be sub-grade, buried just far enough into the ground that their tops sat flush with the same surface supporting the rails. So, if they wanted the train to be sitting on the soil, they would need to dig out regular, well-shaped holes at regular intervals, and they just... didn't have that capability, right now.
+
+Her inklings weren't precise enough, and her understanding of Oliver's holograms was that they needed to be cast into the air, rather than the ground. Though she should probably double-check that was still accurate.
+
+She stepped around one of their guard-inklings as it pounced on an attacking dragon, and went off to find Smith.
+
+Their Artificer was fiddling with their spelloom when she approached.
+
+"Oh, hi Commander," he said as way of greeting. "Sorry, give me just a minute. If I don't swap out all the wheels in one go, the Attunement gets wonky."
+
+"Carry on," she made certain to explicitly give him leave, as he only sometimes noticed if she gave directives nonverbally. "Unless you could benefit from my assistance?"
+
+"Nah, I got..." he strained to pull out a pin, pulling on a pair of pliers with both hands. Then it came free, and he stumbled back. "It!"
+
+So, Henrietta just watched as he pulled off the various pulley wheels of the spelloom, placed them in a small wooden box that smelled like Force, and pulled out a second box that smelled like crackling electricity, using mostly identical pieces in that container to rebuild the parts of the spellcord-enchanting object he'd just disassembled. Then he took a rod of copper and hand-fed it through the machine, various smells emanating from the contraption as he did so, until it all clicked into place and began properly creating spellcord for what she assumed was their phlogiston radiator.
+
+Oliver briefly washed his hands in a nearby bowl of water, casting a spell she didn't recognize as he did so, and then sat down across from her.
+
+"What do you need?"
+
+"Your holograms. Can they work for removing objects or substances?" She asked directly.
+
+"As in, removing from a specific location?" he clarified. Henrietta indicated agreement, which he acknowledged, and then thought for a moment. "Not as they are now. I can probably create a 'Demolition' mode, though. Or maybe 'Mining'?"
+
+"Perhaps, but I want to make sure we don't have any better options first," she settled into her seat. "Have you made any updates to the Broadcast Network recently?"
+
+"Mmm..." Oliver hesitated. "I tinker with it pretty regularly. What's your most recent understanding of it?"
+
+Henrietta thought for a moment, trying to summarize her knowledge in a concise manner. "You've made a number of two-part enchantments, where one half is the logic of the enchantment, and the other half is the artifact it's enchanting. Then, to tie them together you've taken advantage of how an enormous amount of the mana in First Tower flows through the System node to extend how far those split enchantments can be from one another. If one of the connected artifacts leaves the range, which is our whole First Tower range, it immediately stops working. To offset that, you've made Network Caches that can absorb and then re-emit the needed information from the Network to keep nearby Networked objects functional."
+
+Oliver paused, tracing some objects in the air while he assessed her description, "Yeah, basically. Though the Network Caches don't just work on anything nearby, it needs to specifically be constrained by some form of appropriately warded housing or casing. I can't just create a... power pole out in the middle of nowhere that connects anything nearby, I'd have to create a room that works to be in-Network.
+
+"That's how the traincar works - it's a movable Network room, so the spider-bots can 'recharge' inside of it. They have their own Network Caches installed in their chassis that allow them to keep working even outside of the Network, but only for brief time periods."
+
+A thought occurred to Henrietta, "Would the train automatically return to First Tower if its Network Cache runs out of mana? Or would it just be stuck out in The Jungle because its cargo would never be fully offloaded?"
+
+A brief, thoughtful look of surprise passed over Oliver's face, his magimorphic lines turning slightly teal, "No, but it definitely should. I'll fix that... soon?"
+
+Henrietta waved him off, "Whenever works best for you. It's not urgent yet." She had a thought. "Could you create a secondary Broadcast Network just for the traincar itself? Maybe that just would keep the spider-bots running, so that we don't need to worry about it running out of power... okay, why's that?"
+
+Oliver had already started shaking his head before she was even halfway done. "To start, it's hardly a just. The spider-bots already are a fiendishly complicated set of enchantments, that I don't know how well I could replicate even if I tried. Also, most of the broadcast glyphs are used in the spider-bots. Thirdly, I'm also constantly updating them, and manually updating both places, which would definitely have separate bugs and other implementation oddities... no. And fourthly, the Broadcast Network is built on more than just the mana flow through the System node, it depends on it as a kind of magical engine. It doesn't have to be Significance-based, but making an engine out of a different element would require some redesigns and might not allow for smooth interconnection? Little less sure on that one. I also don't know for sure whether the fact the System node is, well, a System node, but I wouldn't be surprised if I find out there's some connection that I didn't realize I was depending on, like maybe the broadcast glyphs are kind of analogous to Skills."
+
+Henrietta blinked. "Alright." She trawled through what Oliver had said in her mind, looking for something she didn't understand in a discrete enough way to ask a question about. "Why couldn't you recreate the Network base enchantments? Isn't that exactly what [Cogniprint] is for? Duplicating existing patterns of magic?"
+
+"Well yeah. That's the only reason it even might be possible, but enchantments of that scale... they're built in place, basically. There's a lot of foundation work that was done to make it function at all, and moving that enchantment somewhere else would require me to re-design the foundation, which I can probably do but isn't definite because of the other things I said. It might also be intrinsically at odds with being mobile, but if I could miniaturize it or build out the supports for it with more advanced tech, that's different. Oh, and if we had... well, I've got a list."
+
+"Better technology means better magic," Henrietta summarized. "You might be able to do it, but not with what you've got at the moment." A thought occurred to her. "What if you were to ⟨Integrate⟩ a Network Cache? Might that help with recreating the source glyphs?"
+
+"It... maybe?" Oliver looked thoughtful. "It probably wouldn't take up a ton of space, I can give it a go and see what happens."
+
+They could revisit the topic in the future, then. "How do the holograms tie into the Network? I know you made a new broadcast glyph to support our hologram seeds, for the Metalpress, is that it or is there more to it?"
+
+"The holograms..." Oliver sucked in a breath. "They're tricky. In a way, they kind of run through me. I'm trying to get rid of that particular dependency such that they won't all break down if I leave the Network for more than... probably a few hours? Maybe a day? I'm not keen on trying. They're... kind of like a spell equivalent to the broadcast glyphs. The hologram is an image of that-which-is-not, and the bots create a divination of how-that-could-be, with the bot artifice then translating that divination into action."
+
+"How did you get them working outside the Network, then?" Henrietta asked. The railroad track hologram projectors very specifically made their images outside the traincar, after all.
+
+"By making the hologram projector, rather than the hologram itself, be the broadcaster of the instruction." Oliver shrugged. "It was a heck of a bodge, and I had to do a bunch of really ugly substitutions to make sure there was an appropriate offset, otherwise the bots kept trying to drop their item on the projector itself. But it works. Maybe when I install it into the Broadcast Network properly I'll figure out a better method."
+
+"And how did you get the projector to display a rail at the end of the current one? Did you figure out something that will help you with assembly?" Oliver had been struggling with getting the bots to be capable of assembling things, rather than just generally moving things to an appropriate area, because he couldn't include any kind of dynamic ordering in his holograms - if he tried to make a projection of a nail driven into a plank of wood, the bots might try to put the nail in first and then slide in a board from the side. It only got worse with more advanced assemblages, not least because the bots could only half account for gravity, and would therefore just try to build things from the top down, or from the bottom and top towards the middle, or any number of other things.
+
+"Not quite... but maybe," Oliver acknowledged. "I wasn't able to get the hologram to have a properly adjustable targeting, so what I came up with... It's kind of like mirroring. I'm casting an illusion of what existed behind, into the front."
+
+"I both do and don't understand that," she confessed.
+
+"Imagine a mirror placed right at the end of the train track," he held his index finger against his other hand's outstretched palm. "My hologram is effectively creating the mirror reflection of that train track," he moved his hands such that his two index fingers were touching. "It doesn't need to 'know' where any of the pieces are in its logic, except for the ways in which the projector has an offset... like I said, that was bodgy."
+
+"So... you can extend a pattern that already exists?"
+
+"So long as it's fine that each section of the pattern is the mirror image of the prior, probably? They also need to be physically continuous. So the rails work well, because we want them to be touching."
+
+"Could you do a multi-material hologram like that?" Henrietta asked, mulling over an idea. "Say, something that's both stone and wood."
+
+"I... think... so?" Oliver carefully said. "I don't know why it wouldn't work, but..." he chuckled in a very tired manner. "That's never stopped my stuff from malfunctioning in the past."
+
+"Could you make the hologram projectors turn on or off based on an external factor?"
+
+"I think so," he tapped his chin. "I had considered that for assembly protocols, but that was before I had the mirror design setup, so I had no way to adjust where the hologram was being projected to account for real-world deviation, and needing to make a completely new projector for literally every step of the project... wasn't going to happen. At least not then. Probably not now? I'd definitely need to Network it first."
+
+"I'm thinking about just having three stages," Henrietta reassured him. "One, to bring gravel up to a specific level. Two, to space wooden railroad ties at even distances while filling in all around them, and three, to get the rails placed on top of the ties. Maybe a fourth, for nails attaching the tracks to the ties."
+
+Oliver thought for a moment. "We couldn't do the nails, because they wouldn't have physical continuity between them. If we designed the tracks themselves to have spikes coming out the bottom though, and had some pre-drilled holes that those spikes could slip in to... that might work."
+
+"Getting the spikes driven into our tracks might be challenging," she mused. "It's hard enough just getting the rail working."
+
+"Shouldn't be too bad?" Oliver asked. "Just get a drop hammer set up to drive cold nails through hot steel. Not like we need to worry that much about blowout."
+
+"Hmm," Henrietta mused. "I may need to use you or Veeran for your expertise in that matter."
+
+"Also, you mentioned gravel." Oliver noted. "Where would that be coming from?"
+
+Henrietta smiled. "Honestly, getting rid of it is itself a bonus"
+
+They ended up making three new machines, and changed enough about the ironrollers that it probably counted as a fourth.
+
+The first was what Alyssa insisted on calling The Crushy. It was a... simple was the wrong word for it, but it was a straightforward rock crusher. Large stones, either Jungle Rock or, far more commonly, the tremendous amount of slag they had building up around their Volcanic Crucible, was fed into the top of a steel box. Inside the steel box, it fell into what could best be described as a funnel made of two rough steel plates. One steel plate was fixed entirely in place, while the other was attached to a fairly hefty flywheel slightly off-angle, and as a result effectively wiggled in place. Not that the wiggling was to be underestimated. The Crushy was powered by a clockwork heart nearly as big as the train's, and it was kind of intimidating to see Jacob toss a boulder twice his own size into the mouth of the machine and then watch it just be... broken down, as the two steel plates pushed together.
+
+The bottom of the 'funnel' was open to about the size they wanted their gravel, so once the rocks were properly crushed, they landed on a motion slide conveyor belt that carried them up and away from the intake box, dumping them in a gravel pile that initially spilled half outside First Tower until Oliver managed to extend the wards to include it fully. He'd also created a new type of gripper for his spider-bots, and started making their method of interaction modular, such that new bots could be easily outfitted with either grippy claws, or with a metal scoop that would have ironically made digging up dirt to insert railroad ties quite a bit easier, had they gone that route.
+
+They'd also reworked the ironrollers into a contraption that only required a steel beam to pass through exactly once to turn it into railway track, and cut the output rate from once per twenty minutes to once per five, and that was before a ton of optimizations they knew they could make. Their steel beam production would be their new bottleneck before long, but that wasn't going to improve until the Factory train line to Ironworks was complete.
+
+Which would be...
+
+Right now, they had eight transport carts making the trek from Ironworks to First Tower, each managing about one delivery per day of roughly five thousand kilos of hematite. Those were then refined to three thousand kilos of steel in their Volcanic Crucible, which was a lot, but even twenty four thousand kilos of steel per day vanished quite quickly when each one of their steel beams, corresponding to a single length of track, weighed a hundred and sixty kilos. So at full tilt, they could produce up to two hundred and fifty steel beams per day, corresponding to five hundred individual tracks, and with each track being four meters long, cut in half because they needed two per section, that was a maximum of five hundred meters of rail per day, or a minimum of three to four weeks of production.
+
+It would probably take longer than that, because the tracks weren't the only thing they were using iron and steel for, but a month wasn't bad at all. It also had the possibility of taking less time, thanks to their stockpiles of hematite, but... a month probably wasn't the worst estimate for the track-laying itself. Bridges would complicate that, though.
+
+In any case, at the end of the ironrollers was their second new machine, a new drop hammer. This one had a slot cut into its striking face, where a clockwork arm could insert a railway spike - currently being made in the Metalpress, but Henrietta had her eye on making a dedicated machine for its production - that would be rammed into glowing-hot metal with tremendous force at very predictable intervals.
+
+Except for when the machine got off-track, of course. Then anything could happen, but all of those paths ended with the steel in question being tossed back into the fires whence it was forged to destroy it. The track that was recognizable as such was spit out rather unceremoniously next to the First Forge, where some spider-bots would pick it up and bring it to a holding area where it could cool, then be loaded into the Factory train when the traincar was back in the station.
+
+The railway ties themselves were being made by an adjusted Lumbermill, which had gotten a second set of saws installed to allow for cutting square beams fifteen centimeters to a side instead of just flat boards. The wood was still dried all the same in the wood kiln, though Jacob had needed to adjust the intensity of the heating enchantment there to ensure the outside didn't scorch while the inside was still wet. He'd managed to do so just by tweaking some of the gearing ratios, which Henrietta found to be a tremendous sign that they were heading in a less Oliver-dependent direction.
+
+Once dried, the beams were fed into the third new machine - a chop saw - which cut off the beams into two-meter lengths, while simultaneously drilling holes for the railway spikes to fill. They weren't worried about holding the railroad down, after all. It just needed to not move side to side.
+
+All in all... having the Metalpress was absolutely fantastic, and the spider-bots were getting better and better at automatically moving parts and materials from one location to the next. Where once they needed to spend weeks hand-making every single gear, every single rod, every single plate needed for any contraption, now they just needed to ask Oliver to make some designs and send his familiar to the Metalpress for an hour or two, and then they had everything they'd need to make something new.
+
+Of course, there were still plenty of problems to be solved. Issues with the road being too high of a grade in some places, with spider-bots grabbing important pieces and running into the river for no apparent reason, with running eternally short on clockwork hearts to make... and they hadn't even gotten to their first bridge with the Factory train.
+
+But hey, they were really going places now.

@@ -1,0 +1,103 @@
+At long last, the Metalpress was complete, and automata were within his grasp.
+
+It was still a bit of a stretch, and would require practically every last trick, the culmination of every piece of magitechnological infrastructure he'd developed on this eternal wilderness of a world, but he could do it.
+
+It all started with the First Flame. That initial spark of power, the first bit of control humanity had exerted on this eternal wilderness of a world. It had been borne of cooperation and the System, as humanity once more claimed the power the Tyrants had so long ago tried to keep to keep to themselves and claim as theirs and theirs alone.
+
+Oliver had some grand plans, once upon a time, for what he might be able to turn it into. A mighty substance all on its own, heavy with Significance and Technology. He’d never truly gotten the opportunity to bring those plans to fruition, but those dreams had gotten him part of the way there. The early days, weeks, however long it had been, had seen him tending to the fire and slowly making it a beacon of Order, of Technology. It had been his first respite in this endless expanse of Nature, and it had formed the foundation for his Mana-Smoothing Ward, when he had turned Shelter into a place he could actually make magic happen.
+
+That Mana-Smoothing Ward had, with an infusion of Elemental Air distilled from Alyssa’s [Ranger of Far Lands] class affinity, become a Wind Wall Ward meant to reduce the insect inside, control the smoke of his First Flame, and generally make eking out a meager existence in a cave somewhat more bearable. He had then utilized that Wind Wall Ward to serve as the bellows for an Everflame Brazier, the beating heart of the enchantment responsible for keeping the First Flame burning perpetually, without need for Oliver’s constant tending.
+
+The Everflame Brazier was eventually ‘lost’ alongside Shelter as a whole, but in so doing had created Sally the firstflame salamander, which had eventually served to replace the First Flame itself in parts of the structure… circular dependencies were fun.
+
+But outside of that closed cycle, Oliver had then built his copper fire ring using the Everflame Brazier as an enchantment-source. That same copper fire ring was then integrated into First Tower's Kiln for the purpose of making bricks.
+
+From there, things got less straightforward.
+
+Going back a couple of steps to the Mana-Smoothing Ward, Oliver had also created his Staff of the New World from it, a magical tool meant to help with the purification and calming of mana. He had used that staff for... a great many things, most notably the System node. But he had also used it when first setting up First Tower for permanent habitation, in conjunction with Clark's [Unblemish], into their water pool, which they were to this very point using for fresh water.
+
+The purification of the water pool enchantment, combined with the fire of his copper fire ring and the other enchantments he had inlaid into their kiln, formed the basis for the Universal Refinery. That Universal Refinery itself, thanks to Oliver's [Order Mana] and incorporation with the System node that had later become reciprocal, formed the basis for the smelter enchantment they had originally used to process iron sand into actual wrought iron bars.
+
+But the smelter enchantment also had ties to the rest of Oliver's enchantments, most of which originated with the force-pillows he had made to improve the quality of their sleep. That had been effectively entirely based upon Alyssa's [Leafstep] - and was consequently the only magic which hadn't crashed when the Mana-Smoothing Ward had collapsed during the creation of the Junglewaste. That force-pillow enchantment had been crossed with the Fire conjuration of the copper fire ring to create the placement brackets, simple devices which could move via single-axis Force conjuration. He'd then adapted that into the motion slides, which conjured Force and therefore motion between two metal plates.
+
+The motion slides had been directly installed into first the ballistae, then adapted into an engine block. He'd also had a brief bit of time where he'd turned it into a full sliderail that would be easier to manufacture, but that had been mostly abandoned due to practical concerns - it needed to be a perfect rod, and that meant it couldn't actually be supported by anything. Eventually, he was planning on revisiting the idea, but for now the spellcord he had developed was better for mass production. Regardless, he had used the sliderail enchantment when making clockwork hearts in conjunction with the motion slide enchantment itself, creating a Drivegear that provided endless rotational motion for his clockwork hearts
+
+The motion slides had also been more directly integrated into various objects, like the engine block that had powered early transport carts, and the drop hammer design used both outside the Blast furnace and also in the smelter enchantment to concentrate Fire into a singular focus, making it key for the smelter enchantment's ability to imprint mass amounts of magic into specific points.
+
+The smelter enchantment had then become something of a central hub, being used for several things. First, the Blast furnace enchantment and the Catalytic Orb that had been used in the Bronzing Crucible. It had also been used to create the Window of Words and Winds, and that divination focus had combined with the smelter enchantment itself, the old Staff of the New World, the System node, the illusion disk, and of course [Order Mana] and [Scrollcast], then bound into place with [Cogniprint] and [Heart of Technology] into the Pillar of Industry.
+
+That Pillar of Industry was now the driving force behind Oliver's magical development, and his latest project, the spider-bot automata design, was directly tied to that Pillar. It was load bearing, as it were, with the clockwork constructs directly depending on it through the Broadcast Network sustained by the System node.
+
+The reason for that dependency was due to how he planned on controlling the bots - his holograms. Much like how he had the Metalpress designed to turn the image of an object into the object in reality, the spider-bots would have a directive to seek out 'unfilled' holograms, then seek out the object specified by the hologram, and physically move it to where the hologram was. It was a little bit unorthodox, but Oliver thought it would work well, and Henrietta agreed. The most instantaneous use-case would be moving around heavier things. If Oliver wanted a big lump of iron brought up to the Metalpress iron material node, he would just need to create a hologram of iron bars inside that material node, and the bots would bring the appropriate metal up.
+
+Not having to put human limbs near those things was a big plus, if nothing else. Should something go wrong, a machine could be rebuilt far more easily than an arm could be regrown.
+
+Once he got more permanent holograms solved, he could even use the bots to keep those material nodes topped up, completely removing the human element needed to keep the Metalpress stocked up. He'd still need to be involved for actually ordering Metalpress around, but progress!
+
+Another use he'd considered for the spider-bots and their hologram ordering system was resource gathering, either supplementing or replacing Henrietta's inklings.
+
+The idea there was if Oliver set up a hologram of 'hematite' above, say, a collection pit, the bots would swarm around looking for any pieces of hematite they could find, then place them on the hologram... where it would then fall into the pit, freeing the hologram up for the next bot.
+
+There were issues with that model, but those were implementation issues. Things like making sure the bots wouldn't get hematite from the pile they were making, etcetera.
+
+They would also be useful for relatively basic types of construction, things like making roads or laying tracks. More complicated creations, like brick walls or log cabin-style construction, might be workable, but would start running into... limitations. Like how the hologram couldn't have much information stored in it beyond 'what it should be like at the end.' It wouldn't have any information about the order in which things needed to be done, and he was doubtful that he could teach his spider-bots about gravity. So they might try to build a brick wall from the top down, which... obviously didn't work.
+
+And of course, that simplicity in instruction made the assembly of complex parts like the clockwork heart completely non-viable, but Oliver was sure he'd come up with something in due time. Even if the spider-bots didn't solve all of their problems, it solved enough, and made for an incredibly potent tool on their own. It was an excellent start.
+
+Of course, all of that depended on Oliver actually being able to make the spider-bots, and program complex 'seek and move' logic into them. He obviously thought it was feasible, but it was definitely going to be kind of tricky.
+
+His 'solution' to making the bots have logic and thoughts was a device - a family of devices, really - that he was calling a clockwork mind. It was based on a structure he had originally pioneered for the wood kiln, then adapted and refined for the Metalpress. The simple description was that it was a clockwork heart with divination powered engage-disengage switches. Those switches could then activate or deactivate certain other enchantment-disks, and change the behavior of the bot accordingly.
+
+So, in the case of the spider-bots, Oliver wanted them to have three states: Idle, Seeking, and Delivering. If a bot didn't detect an instruction, it would be Idle. If it had an instruction but wasn't carrying an object that its instruction corresponded to, it would be Seeking. If it was carrying the object for its instruction, it would be Delivering.
+
+Each of those states would then change the behavior of the bot's two actual functions: moving and grabbing. Grabbing would be on when Delivering, and off when Idle or Seeking, which just meant that whatever claw he wound up installing on the bot would only hold an object when it had an object within its grasp.
+
+Yes, he had foreseen the possible issue that arose from needing an object to be carried in order for the bot to grab anything. He was just dealing with it by defining 'within its grasp' as 'having the object within the claw' whether or not the claw was engaged. Basically, if it could hold the object, it counted as actually holding the object.
+
+Yes, that did introduce other issues. But he was dealing with very limited logic here, and this was effectively his first go at it, so it was better to keep it simple.
+
+Oliver glared at Alyssa for emphasis, who raised her hands. After a beat, he realized she was signaling that she was giving up her particular train of attack.
+
+The same logic, of allowing the state-change to also change whether the claw was open or closed, helped with fulfilling the order - if the instruction the bot was following was fulfilled, it would swap from Delivering to Idle, its grab would disengage, and the object would be released.
+
+Movement was a bit different, because in all cases the bot would need to be moving, and the state just changed where it moved. When Idle, it would move out of the way. When Seeking, it would move towards the subject of its instruction. And when Delivering, it would move towards the instruction itself.
+
+At least pathfinding was made fairly easy thanks to the combination of ⟨Inlay⟩ and Alyssa's [Rustlewind], especially the Light-tuned version. He'd initially thought it would require another clockwork mind to get working, and had been honestly kind of glad when he realized that the means he had been looking at wouldn't work. What he had instead was a different kind of conditional enchantment, namely a Proportional Control Enchantment, also known as a PCE or just a Modulator, which he had derived from his familiar-drone.
+
+The Modulator had a straightforward job: to make the output level of one stream of mana control the strength of a second enchantment. In this case, Oliver was using a primarily Knowledge-based enchantment to control a Force-based one. The Knowledge came from a central 'pathfinding crystal', enchanted via a broadcast glyph, which acted as a a simulator of sorts that took basic directions and utilized divination to figure out a set of parameters needed to reach a certain point, and specifically which parameter would be needed right now. Oliver wasn't able to refine it enough for all of the calculations to be done purely by the crystal, but fortunately he didn't have to. Instead, it was simply pathfinding along the trail of light which [Rustlewind] created, though Oliver was only having it project a trail for a couple of centimeters to avoid interference.
+
+It overall was kind of like reverse kinematics, but while that simply was about figuring out which angles would result in a set of fixed lengths reaching a specified point in space, this divination was about figuring out the real-time Knowledge needed to reach a specified outcome in the future.
+
+Reverse kinematics was the worst. Divination was the best.
+
+The output from the pathfinding crystal would pass through the Modulator, which was a specialized enchanted gear that 'transformed' the Knowledge into empowering the Force-powered Limb Driving Enchantment, or just the 'Driver.' The Driver, finally, had a simple job: push or pull two pieces of metal until they were a specified distance apart. It was like a spring, but one whose resting length could be controlled. That was also a wonderfully simple enchantment, one which Oliver was able to grab by applying his 'vary magical strength with rotational speed' technique pioneered in the wood kiln to his force-pillow enchantments.
+
+So information went in through the bot's sensors, passed into the clockwork mind, which determined which of the three states the bot would be in - Idle, Seeking, or Delivering. That state would engage or disengage the grabber, and change what the pathfinding crystal was looking for. The pathfinding crystal would feed Knowledge to the twelve Proportional Control Enchantments - two for each of six legs - which would in turn affect the Limb Driving Enchantments, and make the bot actually move.
+
+Oliver double-checked his automata designs. A chassis a bit smaller than his torso, where the clockwork mind would be installed and with six attachment points for each of the double-jointed legs. A two-pronged claw a bit larger than his own hand, with gears to ensure both sides would open or close in unison. And that... was basically it. The chassis, twelve leg segments, two claws, and a half-dozen gears for the claws, each tied in with the clockwork mind that controlled it all.
+
+That was still a comparatively large amount of moving parts, which meant a lot of things that could go wrong. Way, way too many things that could go wrong. Were he back home, with a fully featured workshop and extremely reliable machining tools, he would have made each part individually first and given them extensive testing to ensure that all of what he meant to do with them was working, and they didn't do anything he didn't mean for them to do, but now? Now he couldn't quite manage the exacting repeatability of enchantments needed to make separate test prototypes viable. He might get the legs perfectly dialed in, only to discover that something about the navigation system rendered the entire assembly nonfunctional.
+
+Not that really any of it was wholly new, it was all just adapted and assembled bits of tech from the rest of The Factory.
+
+Each of the four main parts of the bot's architecture - Movement, Interaction, Commands, and Navigation - already had their individual prototypes in existence. Movement was just a new means of working with his force-pillows. Interaction, a new rendition of his motion slides. Commands followed the exact same structure as both the wood kiln and the Metalpress, just with new state triggers. Navigation was the most novel, but it was a straightforward enough combination of his familiar and [Rustlewind].
+
+He was really glad that his leg design had bypassed the need to convey full clockwork motion down each limb, instead just directing streams of mana down prepared channels in each section. Yes, he still needed to have moving gears on those limbs, but they weren't load bearing in the same way, so they didn't require quite as many moving parts. And the less moving parts, the better.
+
+He frowned, realizing his current design technically made them robots rather than automata. He would need to be careful to not remind Alyssa of that technicality. Though she'd probably realize it on her own sooner or later.
+
+The Pressing of the individual parts was straightforward. Assembling it a little less so, but Oliver figured out a good way to use sliderail in a self-lubricated joint, which helped with keeping it together but mobile. Getting all of the individual architecture pieces was tricky, but Oliver managed it over the course of a solid day of work at the cost of only a few pinched fingers and a bit of blood.
+
+Then... it was assembled.
+
+The bot was in a dormant position, with its six legs tucked up right against its body and its knees roughly level with its head. For this first test, he just needed to test out the movement, so he very carefully extended his magic...
+
+⟨Use Artifact⟩
+
+A faint whine filled the air as the pieces energized, glyphs brightened and began to shed light, and the entire machine started clicking as the various metal parts began to engage with one another. The clockwork mind let out a tap-tap-tap as its gears engaged. A faint shudder passed through the entire machine, a quick screech of metal scraping against metal, and the bot, under Oliver's careful guidance, extended one leg. A brief puff of citrus scent filled the air, and glowing condensation started to cover the bottom leg-section he was controlling.
+
+Everything was stuttering and imprecise, but Oliver kept the mana behaving as he pushed more power into the repelling force-pads on the leg. Those glyphs glowed a brighter blue, and Oliver could sense the war between the Force trying to push them apart, and Force trying to keep them together. Those Forces came in fits and starts, with each taking their turns winning, but he got the limb extended, and situated in a little crevice in the rock so it wouldn't slide around.
+
+Then, the second leg. It went more smoothly than the first leg, and he got it extended outwards... and then the bot toppled over, ringing with metallic clangs that made Oliver jump.
+
+Well, it was a start.

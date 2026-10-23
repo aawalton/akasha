@@ -1,0 +1,101 @@
+Molten steel was very, very hot.
+
+Henrietta had kind of forgotten just how hot, but she was remembering more and more the longer she spent around their Blast furnace replacement.
+
+Even now, buried under several layers of inkling cloth, water-soaked fabric, and leather alike, wearing both a veil and safety goggles, she was still sweating immensely. The thermal mass which literal tons of molten metal presented, without proper heat-shielding PPE, a single Fire Resistance enchantment, or even a single Skill to dampen the overall blow... well, it was a lot. She had briefly been around metal foundries without full PPE, but that had been decades ago and apparently she'd forgotten that just because [Prima Corpora] was 'insufficient for combat' and 'not a replacement for safety standards,' that didn't mean the skill did nothing.
+
+Sparks constantly erupted from the mouth of the Volcanic Crucible, just like its namesake, and flows of molten metal and molten rock flowed down each side in perfect proportion with the hematite their motion slide conveyor belt delivered into their grand foundry. Those sparks carried with them a tremendous scent, elemental Lava and Metal intermingling with the mundane smell of burning metal and rock, and even filtered through the water-soaked veil that cast everything in a slightly fuzzy tint, brought her back to some very good and very bad days from long, long ago.
+
+Even if this was still on the smaller end of industrial magic, it was important to never forget the cardinal rule of heavy machinery, magic, and especially magical heavy machinery: Respect it. Make no sudden movements in any direction except away. Wear twice as much PPE than what was nominally needed. Don't stand anywhere close to anything which could be considered a 'splash zone.' And never, under any circumstances, think the thought 'yeah, this should be fine.'
+
+That respect was why she'd taken an extra week to work with Clark to build out what protective equipment she did have. Multiple types of leather and cloth, both ⟨Refine⟩d into something halfway decent, was just the first step. Clark had made clear glass, and Oliver had designed goggles to hold a pair of protective lenses more than a centimeter thick. That had been belted behind her head, and Clark then applied the tricks he'd figured out in making clear glass to making a sheer, gauzy version of their baseline threadvine cloth, which was a bit trickier to get fully soaked in water, but they'd gotten there eventually. No more relying on mere safety squints for eye protection for them.
+
+It was refreshing, how it had only taken them a few days to complete that project, and a lot of that had literally just been because their Weaving Hall was still in the 'constant issues' phase of new-machine deployment. Clark was scheming to make everyone new sets of clothing, and while Henrietta wasn't currently pressed for space in her Sketchbook, it was nice how much space she'd been able to reclaim since the Metalpress had come online and Clark had learned how to make leather. She expected even more to become obsolete in the coming days, but one step at a time.
+
+Right now, she still needed to get the Volcanic Crucible to be more useful.
+
+The literal magic of automatically reducing iron ore into steel was fantastic, but the quality of the steel fluctuated too much for a lot of magical applications and even some mundane ones. It also wasn't quite as Technology-Associated as Oliver wanted and needed for some of his magic, and of course they wanted it to output steel in a more useful form - which they'd decided would be square bars, ten centimeters a side and of undetermined length.
+
+All of that would be a relatively daunting prospect... if she didn't have an instruction manual.
+
+She glanced at the Window of Words and Winds clutched in her hand.
+
+With an annoyed flicker of magic, she closed away her Skill description. She knew what her magic did, she didn't need the divination magic of the tablet to always tell her what magic she was using. It was especially prone to doing so whenever she was using [Inscribe Documentation], and even if she understood the mechanisms behind it - the device didn't really have understanding per se, so it just output the 'strongest' divination result, and without proper direction that was either the holder's [Status] or their currently-used skill - that didn't make it less annoying.
+
+She fiddled with the tablet until it showed what she was actually looking for.
+
+She paged through some of the more technical details, which didn't really give her any kind of clarity on how the Crucible worked, but did provide her with a fair amount of direction for what to do. That process started with moving a set of torso-sized runestones Oliver had made out of Jungle Rock and copper after making some tweaks to Metalpress to make it partially compatible with stone, and filled a very straightforward job of using [Order Mana] to direct a specific type of mana in a single direction.
+
+Because the direction of the mana was tied to the orientation of the stone itself, it was something any of them could work with and adjust as needed. It also put less pressure on Oliver, who she still regularly needed to get after to ensure he wasn't overworking himself... again.
+
+Building their Factory and the portal with it would take years. A few extra hours a day weren't worth the burnout they might lead to.
+
+The runestones also were just kind of familiar to Henrietta. Even if they didn't quite work like the normal movable glyphs she worked with while doing alchemy, there was enough overlap that she was able to get a hang of controlling the Crucible over the course of a day.
+
+It was genuinely easy. All she needed to do was provide the magical signature of a certain metal - it probably didn't have to be metals, but it didn't have the ability to output anything else - and a pathway for that metal to flow along. Then, that metal would follow the pathway over the lip and down the channel she directed it towards. It was similar to conjuration and transmutation both, in a manner similar to but distinct from Oliver's hologram-instruction system.
+
+If the Crucible couldn't provide the metal she wanted - such as asking for aluminum - then no material would flow. If she wanted a specific carbon ratio, it would provide that carbon ratio for as long as it had enough carbon present in the cauldron, splitting its output proportional to the strength of each summoning present.
+
+Anything she didn't specify she wanted, was just dumped out with the slag in the back.
+
+It was like a combination of her metal-separating contraption they'd used to isolate tin from bronze, the Universal Refinery, and the Blast furnace itself, and Henrietta was growing suspicious that the local magic was 'learning' from them in some capacity. That wasn't really a testable hypothesis, but in the event she was right, certainly boded well for their Factory ambitions.
+
+Of course, she did have to give credit where it was due. The Window of Words and Winds, capable of providing effectively real-time monitoring of the Crucible, helped her to quickly check her work, and apparently somewhere along the way, she'd pushed herself and her magic more than expected, because by the end of that day she had a surprise waiting for her in her [Status].
+
+Oliver could do something similar via his Autonomous Divinations, but those required setup and faced their own limitations and challenges. Given the subskill description didn't mention a range limit, it was generally safe to assume that it wouldn't be much of a limiting factor.
+
+This will be useful for monitoring our outposts, she mused. If she could set up a display board showing whether their ballistae were in need of repair or reloading, they could respond faster, and hopefully wind up with fewer instances that required Henrietta to recreate their inklings. For now, Henrietta set up ⟨Monitoring⟩ on the Metalpress, to know when a batch had completed, and on their transport carts, to find out if they ran out of 'power' or otherwise broke down while along the Ironroad.
+
+Of course, she didn't let her magical surprise distract her too much from her actual job.
+
+With raw metal output secured, Henrietta's next step was to set up proper steel beam construction. With how easy it was to direct the flows of molten metal down the side of their Volcanic Crucible, it only took about a day to make an appropriate mold for their steel beam. She had tried to get a set of proper rollers to enable continuous output, but the heat management proved infeasible, so the necessarily metal rollers kept deforming or outright melting. Instead, she devised a bit of basic mana-logic that diverted the constant outflow of steel into one of four two-meter-long molds, each of which were treated to quickly cool their contents such that they could be physically emptied regularly.
+
+Two meters was short, but a hundred and sixty kilos of pure steel was already fairly hefty, and was about the limit of what two spider-bots working in tandem could lift and carry.
+
+Getting the bots to work together had taken Oliver three days of work, but he'd also used that time to create a better grasping mechanism for metal through a Supermagnet enchantment he'd installed into the Broadcast Network.
+
+He'd actually put those same Supermagnet enchantments to use with some placement brackets, and was even actively using them to transport a sheet of steel larger than he was from the ironrollers that had produced them, to the construction site of the Factory traincar. It looked a little precarious, because his leverage and therefore strength was dependent on him staying above a series of hexagonal levitation tiles resting on the ground. It was the same tech that they used in the Spire Elevator and to keep the Bronzing Crucible aloft and spinning, just applied in a new manner. Without them, Oliver simply didn't have the Power needed to telekinetically carry their supplies even with aid from [Order Mana].
+
+It also indicated they had enough of the levitation tiles to create an entire pathway, which was a good sign even if that represented the sum total of all the tiles they had... which Henrietta didn't actually know if that was the case.
+
+Nonetheless, he was able to bring it to the traincar without too much hassle, and he pinned it against the existing support framework, pulled out... a drill? When had he made that? It was fairly clearly powered by ⟨Use Artifact⟩, and was probably a mechanical cousin to the clockwork hearts. Henrietta lightly mused about the artifact while he used the drill to create holes in the metal plate, and was in the process of screwing in a number of bolts to keep it fixed in place when Henrietta stopped watching.
+
+In any case, the spider-bots would pick up the solidified bars of steel and bring them to their steel depot for cooling. The steel depot itself was physically just a metal roof propped up on metal posts, but Oliver had enchanted it with some hefty [Unblemish]-enhanced anti-Nature wards to prevent rust. There, the steel was allowed to rest and cool, until spider-bots claimed a section for some purpose, most commonly refilling the Metalpress or, the portion that Henrietta was currently working on, taking a beam to their ironrollers.
+
+The ironrollers were installed practically inside the smelter enchantment, and had previously been the machine they'd used to process iron into flat plates, but that job had been less important as of late thanks to the Metalpress, and had left the existing infrastructure easy to adjust and repurpose into thinning and thereby elongating their steel beams into railway track. That said, Henrietta had needed to create a second set of rollers, but half the work was half the work, and referencing the existing and functioning gearing system proved to be tremendously helpful. Of course, Oliver still proved necessary with some of the mechanics, but Henrietta had almost gotten there on her own.
+
+The railway track itself wasn't able to be too complicated, but too complicated was relative. The first half of her processing was simply a matter of thinning the beams until they were five centimeters thick on one dimension, while remaining ten centimeters tall, cleanly doubling its length.
+
+The substantially flattened bar was then fed into the new rollers, where the center of the bar was pressed off-line with the edges, and the edges were thinned and flattened out, creating a shape akin to an uppercase Omega - ᘯ. It was called Bridge rail, if [Inscribe Documentation] was to be believed, and it was just barely within what they could reliably create in a fully automatic manner.
+
+Turning four meter lengths of rail into a Factory trainline was its own challenge, but Henrietta believed they were fully up to the task. Incidentally, their own traincar was going to be instrumental in its own track creation.
+
+While Oliver had done fully custom glyph-work on the train car's enormous clockwork heart such that it wasn't dependent upon the Broadcast Network, it did still require a separate clockwork mind to be self-controlled, and therefore did still need a Network Cache to function properly. And because something about how the instruction holograms worked necessitated the back of the traincar to also be within the Network - Henrietta could generally understand how the system worked, but she hadn't yet sat Oliver down to get him to explain his latest developments in a way she could properly follow - spider-bots could work and be powered so long as they were inside the car.
+
+In order to actually keep the entire train car in-Network, Oliver had needed an absolutely massive Network Cache, made from a Geode shard larger than he was, which had taken both her and Alyssa combined several days to bring back from The Geode Cavern to First Tower.
+
+In any case, Oliver had also bodged together a hologram projector that could direct the spider-bots even outside of the normal Broadcast range, so long as the projector itself was entirely within the Network. And then, he'd installed an extra Network Cache into the spider-bots such that they could remember what they were doing and remain powered for... it varied, but usually less than a minute outside of the Network.
+
+All combined, they had set up their traincar such that it could carry spider-bots and railway tracks within its cargo hold, which was within the Broadcast Network, and then project instruction holograms of new lengths of track at the end of what was already there, and then the spider-bots could see that instruction, grab tracks, set them in place, then return to the Network for recharging and new directions. Then, if the car was empty of track, it would return to First Tower to refill.
+
+In that way, they could just... let it do its thing, for the most part. In some of the trickier sections, like any of the several bridges or during some of the turns, pretty much any of them could just ride along with the train and give the bots a hand, in whatever way was needed. But there were plenty of straight stretches, and they all - well, maybe not Clark and Oliver - knew where those difficult sections were already. It wouldn't be hard to estimate about how close they were to those sections, because each pair of railway tracks extended the current Factory trainline by another four meters.
+
+Out of ten to fifteen kilometers.
+
+Given the ironrollers took about an hour to process a steel beam into a new rail, and they needed two rails - four, if they wanted a complete loop rather than just a linear track, but that was a later-goal - they were looking at close to a year of just manufacturing time before the rail was completed. That said, Henrietta was pretty sure she could cut down the roller time to a half-hour with effectively no changes, and probably even further with some more substantive upgrades. And that wasn't even accounting for making more ironrollers to parallelize the construction, which she was also planning to do.
+
+Henrietta took off her heat-shield hood and wiped her forehead. Even just being by the smelter enchantment was plenty hot. But the day was coming to an end, the traincar needed a test, and they had a few dozen ties ready for installment. Why not give it a test?
+
+There were plenty of sketchy aspects of their first train deployment, but the thing Henrietta was most concerned about was the lack of foundation, because even though Ironroad was quite hard-packed dirt at this point, dirt wasn't much of a base.
+
+In theory they wouldn't need railroad ties, which they were avoiding because that would add a new layer of complexity they weren't really equipped for, because the wheels of the traincar were extra-large and designed to grip both sides of the track, re-aligning them every time the car ran down them. The shape of the track itself would also help with keeping it in place, and...
+
+Well, she and Oliver got everything needed for a live test set up that evening, and called it a night as the train began to rumble out of its station, spider-bots already moving to install rails going down the road.
+
+The first thing she did when getting up in the morning was to check her ⟨Monitoring⟩ paper pinned up on First Hearth's wall.
+
+...Metalpress: Manufacturing finishedIronworks: FunctioningVolcanic Crucible: Outputting slag, steelTraincar: Derailed...
+
+With a bit of a crestfallen heart, she walked over to the Ironroad, and saw... the train, tilting slightly to one side, with railroad ties lying just a few inches out of line. Spider-bots lay around it, motionless and completely unpowered. It was the least dramatic train derailment ever, but a train derailment nonetheless.
+
+Okay, so maybe they would need railroad ties.

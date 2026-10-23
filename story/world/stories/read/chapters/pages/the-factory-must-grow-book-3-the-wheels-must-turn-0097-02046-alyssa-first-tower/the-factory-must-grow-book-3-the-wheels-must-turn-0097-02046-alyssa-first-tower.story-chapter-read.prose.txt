@@ -1,0 +1,185 @@
+"So wait, this means I'm a mage, then?" Alyssa triumphantly crowed.
+
+Oliver gave off the most delightful lengthy sigh, then muttered something.
+
+"I'm sorry," Alyssa couldn't keep the smile off her face, "What was that."
+
+"I suppose, technically, it would be disingenuous for me to agree with any statement that would suggest you are not a non-mage." Oliver was more reluctant than any time she'd seen him being 'technically correct' about something. "And I suppose there is no higher form of magical education in the world."
+
+"Yes!" Alyssa backflipped in place, landing on one hand, then pushing herself back to upright with a dramatic happy-spin. "Victoryyyyyy at last."
+
+If she'd known that all it would take for Oliver to conclusively admit that she was a mage was approaching him with an idea for a spell that she had, and asking him for help with creating a magical focus that she would need to cast said spell.... well, she probably would have done exactly the same thing. But maybe like, given it a bit more priority?
+
+"I will need your presence at irregular intervals during the creation process," Oliver had flipped into enchanter-mode, his eyes flicking all over the place as he thought and probably consulted his System. "Even if ⟨Duplicast⟩ enables me to cast [Ignite], that does still necessitate your physical presence while you are at least partially engaging the skill."
+
+"What, you don't need me to try out the staff itself and tell you what feels off about it?"
+
+Oliver leveled a stare at her. "Alyssa. For all that I cannot in good conscience truly insist that you are not a mage when you are actively engaging in spell development, I am still an Archmage, a classed Artificer, and I have taught you literally everything you know about spellcasting. Make no mistake, you will need my help frequently while developing this spell."
+
+Alyssa felt a bit of the wind fall out of her sails, "Fine. I guess. So uh.... when do you think it'll be done by?"
+
+"That depends on the priority Henrietta gives me for it. I don't know if you've realized it, but I've been very busy recently."
+
+That was fair enough. Honestly, it felt like Alyssa had blinked and missed the industrial revolution. One measly three-day trip out to Coppermine, and by the time she got back there was a full-on magical elevator running up the side of the Spire. It was about a ten-foot by ten-foot square made of a solid plate of iron, and automatically went up to the top and then back again, connecting flushly with a pair of wooden tracks on both the top and bottom of the construct. Each of those tracks ran over a purpose-built bridge, and guided one of two very classic-looking minecarts as they trundled back and forth full of either copper or iron.
+
+Sure, on an intellectual level she'd known it was coming. But the simple sight was still something else. Glowing iron plates had been bolted into the sheer cliff face to help with the lifting, and it just looked... well, it looked like actual technology. When she'd left, they had a couple of random metal-refining stations - one of which she had even been responsible for - and when she came back, they had this.
+
+She was only a little stuck on that.
+
+"I believe my next project, after creating another pair of clockwork hearts, was to be mass-enchanting motion slides capable of generic pairing, to create something of a conveyor belt from the Ironworks drop-off to the Blast furnace," Oliver continued. "However, I would need to confirm with the Commander if that is what she wanted me to do, if she would want me to prioritize your focus creation, or something else which I was unaware of."
+
+"But my project would be so cool!"
+
+"It would. But we already possess the brick kiln, and so while instant firing of our pottery would indeed be quite useful, it is not removing human intervention from any stage of The Factory. If anything, it might be increasing it?"
+
+"But if I can figure out how to cast the spell, wouldn't you then be able to copy it and put it into an enchantment?" Alyssa poked.
+
+"You do present a compelling point. Should you be capable of instant-firing, it would need to be a very simple spell," he mused.
+
+"Hey!" Alyssa protested.
+
+"Hm? I was agreeing with you."
+
+Alyssa frowned. Okay, that might have been true. But like...
+
+"If you want to make your case to Henrietta, go and do that. There's a weird jitter in my floating light spell that I want to finish debugging before dinner."
+
+Curiosity finally got the better of her. "Why have you been focusing on those so much, anyway? It's not like we really need that much light, especially given how you're your own light source."
+
+He blinked. "Oh. Didn't I explain it?"
+
+She shrugged, "Maybe I was out that day."
+
+"I thought you were there," he shook his head. "Doesn't matter. I'm working on it as a means to develop my post-cast spell controls and directives. It's an endless sink of optimizations, and a floating light spell is about as trivial as I can make the actual payload, so most of the bugs should just come from the control mechanism."
+
+Alyssa perked up, "Are you making robots?"
+
+Oliver cocked his head. "If you didn't hear me initially talking about it, why... why would you think that's the case? There are so many different spells that which benefit from post-cast controls. And no. Technically, they'll be automatons."
+
+"Wait, you are?"
+
+"Eventually, yes! But we need to get a better production line for the hearts built first. Now shoo, I'm busy."
+
+Alyssa did get her staff, after a few days. It was made of one of the densest types of wood they'd yet found, so her staff was an incredibly solid chunk of reddish-purple wood, sanded to an astoundingly smooth finish. It wasn't slick or anything, but there was a kind of orange and yellow iridescence to its surface that was only visible when it was moving fast enough. It also was delightfully smooth to extend her arcanoception towards, and while the sensations it was providing her were a little dulled compared to other similar devices that she'd used before, it still felt great.
+
+She'd already given it a few practice swings, and she - with some help from Oliver, she didn't need him for everything - had sort of the bones of the spell down, and now it was just a matter of preparing herself for her first few test-casts. Oliver had already cast the spell but she wasn't about to let him steal her thunder. That didn't count. For reasons. She'd get it cast today, no doubt. "Held. Held. Held. Held. Held?"
+
+"The third one was the closest," Oliver said. From her perspective, she'd just repeated the exact same thing each time, the closest thing to variation being her more questioning tone at the end. "The last one was a lot closer to 'handedness,' which might be useful at some point."
+
+"I swear you're messing with me at this point. There's no way I said those any differently. It just can't..." she wasn't sure what it couldn't be, exactly.
+
+Oliver cocked his head. "Literally, held translates to 'hand,' and the conjugation needed to make it an adjective is predominantly tonal. Though yes, for unenhanced human senses they may sometimes be largely indistinguishable."
+
+Alyssa started. "Excuse me? I have better senses than you do right now." That was extra true, incidentally. She'd devoted her seventeenth level to Mind (Senses) in the hopes it would help her [Rustlewind] usage. Incidentally, it had, and much more than the point she'd put into Power for level 16 had. But the point remained, "There's no way you can pick up on a difference I can't."
+
+"I certainly can," Oliver responded, twisting his head and bending over a bit to look at... something. From her perspective, he was studying the air itself. "It's a matter of knowing what to listen for. However, there are instances when I can't audibly tell them apart, and at that point I just have to wholly depend on my arcanoception feedback to determine whether a word is being said properly."
+
+It took Alyssa a moment to process that. "Wait, are you cheating? You're not even using your ears?"
+
+"Of course I'm using my ears," Oliver seemed confused. "And how would that be cheating? Who am I cheating? I don't have [Microtune] to help me at the moment, so I'm doing the best I can."
+
+"So... held?" Alyssa decided getting back to their actual conversation was a better idea.
+
+"That's handedness again."
+
+She resisted the urge to sigh. "Held."
+
+"Good enough."
+
+"Okay..." Alyssa picked up the bowl they'd made for practice. "Let's give this a go."
+
+She cleared her throat, stared at the unfired clay for a moment, then started. Oliver backed away a bit to give her more space, and Alyssa started feeling out the bits of magic she needed to cast. Her staff helped with that, magnifying her ability to feel Technology and Fire, and she began working it into a kind of swirled state. "Fire. [Ignite]. Burn. Cook."
+
+One of the things she'd learned while preparing for this spell was that she couldn't just create the actual spell directly. Oliver mostly could when he was casting, but that was because [Scrollcast] was almost like the spell equivalent of a 3D printer. He gave it a design, made a few tweaks to ensure it came out properly, and then the skill translated whatever into an actual spell.
+
+...Which may well mean that what she was doing was more impressive, actually. If he just had his skill doing all the work. Sure, it was more sophisticated, but what she could do with [Leafstep] was also super sophisticated.
+
+But because her casting skills weren't anywhere near that fancy, she needed to instead do what amounted to building a magical kiln within the bowl she held, and then let the innate magical forces of the world do the hard work of actually firing the bowl into ceramic. So, not only was having the bowl in her hand useful from a targeting standpoint, it also helped her to monitor when the spell itself would be ready.
+
+"Transform held ceramic," she spared a glance at Oliver, who hadn't given the little flinch he normally did when she overly-mangled a word. "[Ignite] fire."
+
+She found that she also needed to rotate the bowl, and it felt like it was 'catching' the spell-threads, and accordingly tilted it like it was a satellite dish pointed at her other hand as it twisted the staff.
+
+She finished the spell, and the bowl heated up in her hand... then nothing.
+
+"Didn't accumulate enough," Oliver started to say, but Alyssa waved him off.
+
+"Yeah, I could tell."
+
+The next time, she mis-aimed the spell and caused a nearby bit of shrub to burst into flames. The time after that, she made the bowl briefly glow orange but not heat up at all. Her fourth attempt saw the bowl crack in half. After getting another bowl, she tried again.
+
+BANG
+
+It exploded.
+
+"Owwww," Alyssa gritted her teeth. A few shards of pottery were stuck in her hand, her palm had been fairly well pulverized, and it was possible that her ring finger had previously been longer than that? The pain wasn't unmanageable, but it was potent enough she needed to express it somehow. Some shards had hit her ink-clothing, but fortunately hadn't broken through.
+
+"That was... loud." Oliver's voice came, and Alyssa gave a bit of a pained and brief nod.
+
+"I'm going to find Clark now."
+
+"Oh. That's a good idea."
+
+Three days and several tries later, Alyssa had a truly hand-fired bowl in her grasp. No subskill had been earned, but Alyssa felt way more of a sense of accomplishment than she normally did when just unlocking a new subskill. That was easy, this required practice.
+
+Alyssa mentally narrowed her eyes at herself. That was a suspicious line of thought. She was a practical girl. She didn't care about practice, she just wanted results. Valuing the effort that went into something over the end result...
+
+Well. She could just ignore the thought and it would go away.
+
+Fortunately and unfortunately, nobody was around to witness her triumph. Clark's [Unblemish]-based healing left a kind of magical residue on the repaired flesh, and it both made everything feel off in the hand, magically speaking, as well as more straightforwardly interfering with any magic she sought to work. Not Clark's, fortunately, she wasn't in any danger of having permanent injuries, it was just uncomfortable to her mana sense and annoying to her magic practice. The few day break had resulted in Alyssa just trying to fit in halfhearted casting attempts when time allowed, and that meant everyone was off doing their own things.
+
+Alyssa figured out a good happy tune to whistle as she wandered over to the Blast furnace, where Henrietta, Oliver, and even Clark were milling around. Oliver was waving his hand around in a way that looked like he was directing his floating light, but she couldn't see it very well against the trickle of molten iron dripping out of the furnace. Clark had been crouching down, looking parallel to the ground, while Henrietta was consulting something on the divination tablet. Clark straightened up and brushed his hands off to wave at her.
+
+"Ride," Henrietta greeted her a moment later. "I take it you were successful?"
+
+"Yep!" She hoisted the bowl in her hand. "Worked great. Eventually. What are you guys checking out?"
+
+Oliver finally seemed to notice her presence, but it was Henrietta who answered. "We're looking to separate the iron and slag as they leave the furnace, to reduce that particular manual intervention."
+
+"Ah. Yeah, that would be nice. I tried getting them to sort mechanically, but..."
+
+"It is not a failing of yours, Ride."
+
+Alyssa shrugged. She hadn't really felt like it was. "So what's the idea?"
+
+"We intend to derive a solution from the means by which we extracted tin from bronze."
+
+"Except this one will be easier," Oliver added. "Because only one of the materials is a metal, so we can incorporate elemental-based filtering, in theory."
+
+"In theory?"
+
+"It's possible the slag might have remnant metal contamination. This isn't something I've worked with, and the Encyclopedia is being frustratingly vague as to whether this is an area where remnant elemental contamination is possible." Oliver glared at the air, presumably corresponding with a System window.
+
+"Ah," Alyssa vaguely agreed.
+
+"Nonetheless, we might need to create a new Blast furnace," Henrietta noted. "We're going to try to create an outflow-filter, but it might need to be more structural than just that."
+
+"That would be annoying," Alyssa shuddered. "And that would take so many bricks."
+
+The melting-chamber of the Blast furnace wound up being a lot smaller than the twenty-foot tower would imply. Large enough for a person to fit with some space - that much had been absolutely necessary given how part of its development had involved her or Oliver inside, doing some kind of mage-work - but not that much larger.
+
+"Though maybe it would be easier if we develop an instant-firing process with my new spell?" she suggested. "Or maybe figure out a way to get the heat-reflection spell within the clay itself?"
+
+"It would be nice to not have to forge and then install iron runes into a brick wall," Oliver mused. "But if I figure out a way to do mass-enchantment in a generic sense, it could work."
+
+"I believe I have what I need from you for the time being, Smith," Henrietta told him. "Are you capable of analyzing Ride's new spell to determine if you can [Cogniprint] it? A faster means of firing brick would be most helpful no matter how we create our filter."
+
+"I mean, I should be able to?" Oliver seemed a bit surprised. "The only reason I wasn't able to do it before was because I couldn't ⟨Duplicast⟩ [Ignite], cast the spell itself, and [Cogniprint] from both that and the other reference enchantments all at the same time."
+
+"Excellent. Go do so, if you please."
+
+"Has Henrietta seemed kind of off to you lately?" Alyssa asked Oliver, once they were far enough away that they wouldn't be overheard. The scraping noise of the metal scooping-bins that ran from the Ironroad to the top of the Blast furnace already made it unlikely, but it wasn't like she knew what Henrietta's stats were. And it would be rude to ask when not relevant to the conversation. "It just seems like... I dunno."
+
+"No?" Oliver replied. "She seems normal."
+
+"Ah, okay." Alyssa mentally shrugged. "I must just.... wait, why am I asking you for advice about how people are feeling?"
+
+"Likely, a lack of alternative individuals to ask."
+
+"That... wasn't meant to be answered."
+
+"And yet you asked."
+
+"Why are you like this? Stop. Don't answer that."
+
+Oliver's sidelong glance said far more than any words he might have used ever could.

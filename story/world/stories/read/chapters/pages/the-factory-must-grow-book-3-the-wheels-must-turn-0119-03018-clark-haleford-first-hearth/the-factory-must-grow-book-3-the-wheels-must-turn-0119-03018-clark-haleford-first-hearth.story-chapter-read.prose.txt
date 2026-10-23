@@ -1,0 +1,161 @@
+Clark wound some spellcord into one of their Drivegear blanks, keeping his hands busy while he kept an eye on the stove, and watched Oliver cackle appropriately as he had his new spider-bot skitter from place to place, moving a brick back and forth.
+
+It would go, bend its legs until its claw was around a brick where it sat on the ground, then pick up that brick. It sometimes had difficulty with picking it up, and Clark rooted for it whenever it did scramble a bit, but it always got there in the end, at which point it would walk over to the glowing blue brick hologram Oliver had placed close to himself, put it down, sometimes adjust it until there was basically no blue visible, and then walk to a very polite distance away, and wait for Oliver to tell it to do something new.
+
+Clark knew it was specifically his new spider-bot because the original was a pile of scraps over by Oliver's main workshop.
+
+That continued for a while, with Oliver doing lots of different tests and commands while he did things like having it move multiple bricks one after another, or move bricks up the side of the Spire a little way - that was really cool, watching how it would dig its little pointed feet into little cracks in the stone to clamber up, well, like a spider!
+
+Tully nuzzled up to Clark, and he was suddenly put in the impossible position of needing two hands to keep winding spellcord and needing to use a hand to give his best girl scritches. He eventually figured out a compromise where he pet Tully in moments when he did not require both hands to be fully on the gear to keep winding it. It might not have made her as happy as she would have liked, but it was the best Clark could manage.
+
+He also kept an eye on the clock which Jacob had made a few days ago, giving them a somewhat more steady source of time-tracking. Not that they used it for that much. All five of them had a fairly standard routine by now, and daily work concluded when they got to a good stopping point. But! Clark did have a gong he rang once only one person was left working, to help them keep track of the time.
+
+Alyssa, as was her style, dropped in from the sky with a bag stuffed full of scavenged plants for teas and food. She emptied the bag out on the counter and sorted her finds out based on whether they were meant for him or the Commander, whether they were for flavor or nutrition, and what kinds of flavor it seemed like they would provide.
+
+"Decent haul today," she mused. "And I don't think I'm going to get tired of just how much fun ⟨Gather⟩ makes it any time soon. Just ask for a thing and zwoop, straight to my hand. I even almost got it into the bag instead, but couldn't quite reach that far."
+
+She hooked her axes onto their usual hanging-spot and somersaulted to her usual chair. "Anything interesting happen while I was out?"
+
+Clark shook his head. "Warrior Veeran has continued his efforts to fortify the Junglewaste corridor, Commander Inq has been concluding her efforts to create a textile loom, and Oliver has been finishing the spider-bot template."
+
+"Eh. Fair enough." Alyssa held up a hand and muttered, "Roasted nuts."
+
+Air and Force mana intertwined with some clearly visible Light around Alyssa's forearm, and little glowing tendrils extended outwards from her fingers to the counter where the specified snack was cooling, and then yanked a handful of them through the air and to the Ranger's awaiting hand.
+
+So cool.
+
+Alyssa flicked one into the air and caught it in her mouth, crunching down, then adjusting and exhaling sharply. "Whoo. Hotter than I expected."
+
+"They are cooling, yes."
+
+"Ceramic bowl," she summoned, and the requested dish likewise flew off the stack of similar creations, towards the table, only to stutter in midair and fall to the ground, breaking as it did so.
+
+"Damnit," Alyssa withdrew into herself sheepishly as she started to stand. "It's trickier to ⟨Gather⟩ non-Wood objects, even when I've got it ⟨Illuminate⟩d, for whatever reason. I thought for sure I had it that time."
+
+"No matter, I can fix it," Clark waved off Alyssa as she went to gather up the pieces. He swooped in and picked up the shards, happy that they were for the most part large pieces, and put them off to the side. When dealing with something that had broken into multiple smaller things, Clark had found it worked best if he did a bit of 'normal' repair first. Here, that would mean taking a bit of wet clay to get the pieces stuck together, and only then using his magic to turn the raw clay into proper glue, and proper glue into just a part of the bowl. It worked even with some of their colorful glazes, not leaving a single blemish in the end.
+
+"Did something break?" Oliver asked as he wandered by. Alyssa very obviously hid herself, playing up her embarrassment, but Clark waved it off.
+
+"Nothing has broken permanently."
+
+"Unlike your bot!" Alyssa playfully jeered.
+
+"Things break," Oliver shrugged. "Though I have officially confirmed that my bot-control logic update means they'll no longer mistake Metalpress instructions for things that it should try to fulfill. I almost made it a boolean state, whether it should be a creation order or a movement one, but then I realized I might need more than two possible types of instruction, so I made it just an attribute of the hologram itself that could be pretty much anything. I haven't figured out what new things I might need, but the functionality is there... I needed to make the Broadcast Network enchantments a bit more complicated to support that, but hey at least I'll only be doing that the once per setting, right?"
+
+He sighed in a very exaggerated way, then put on a particular voice that Clark could tell was referencing something even if Clark was unable to tell what the reference was. "Patchnotes, release zero dot zero dot seventeen dot two. Spider-bots will no longer commit suicide by walking directly into active industrial equipment."
+
+Clark always felt like he was getting smarter every time he listened to Oliver, and it was really great.
+
+Oliver passed by the baskets filled with completed clockwork heart parts, grabbing pieces from them as he did so and giving them a quick inspection. He dropped down into his preferred seat, spread out his retrieved parts, and started assembling one of the devices. "Once I get a few more bots made, I really need to revisit automated assembly, both for this and for the bots. I've done a decent job of making the parts fairly plug-and-play, so the final bot chassis doesn't need that much attention from me... except for Attunement."
+
+"What of allowing us to place holograms?" Clark asked. He remembered that was something Oliver had been working on, but was less able to remember how successful he had been in that regard.
+
+"That's going less well," Oliver grimaced. "Though the Geode shards Alyssa's been bringing back have been showing some promise, and I might see about making prefab hologram templates, basically, that we can just pop down wherever we want something built as some kind of hologram projector. It'll only really work for things we want a lot of, but if I'm running around placing holograms a decent amount, hey that's that."
+
+Warrior Veeran trudged across the bridge, carrying something on his shoulder. Clark waved in greetings, and the Warrior responded with a tired wave of his own. Then, Clark struck his dinnertime gong, letting the bwooonnnggg alert the Commander that the day had largely concluded. Clark always loved doing that.
+
+Jacob got close before the gong finished ringing, but the thunk that sounded as he dropped the splintered and melted pile of wood and metal he'd been carrying on the ground. "Dragons got to one of the transport carts again."
+
+"Oh come on," Oliver protested. "This wasn't a problem before, and now we're at three days in a row?"
+
+Jacob shrugged. "The Commander's inklings have been less able to keep up with the dragons as they have been growing stronger."
+
+"We're going to run out of clockwork hearts at this rate," Oliver complained. "Not that we had too many to begin with, but I was really hoping I'd get to use more of them for the spider-bots."
+
+"I can make more!" Clark volunteered. "If you need me to. It has gotten so fast now that the Metalpress has been working!"
+
+"I suppose that's true. We're down to... what, two man-hours total?"
+
+Commander Inq, newly arrived to their hearth-area, looked up from the piece of cloth she'd been examining on her walk. "Clockwork heart production? Thanks to batching, the raw parts creation is down to about twenty minutes of intervention-necessary work, another twenty minutes to spellcord up all the pieces, on average fifteen minutes to assemble everything, and an average of five minutes for Attunement. So... about an hour."
+
+"Really?" Clark marveled. "An hour to create an artifact?"
+
+"That's batched," Oliver reminded him. "Things like the ironlathe... actually, we just need to set that up these days, don't we? The gearing is dialed in well enough it can consistently cut out the shafts. Um. It does take me about a full hour to Attune them at the very end, but I do that in sets of thirteen. The Metalpress doesn't do everything that quickly... but I just need to set up the hologram for it to do the parts for a dozen hearts even once the failure rate is accounted for... huh."
+
+Oliver blinked. "Now I'm almost surprised it takes a full hour. I really need to figure out an assembler of some kind, don't I?"
+
+"It's one of the largest hurdles left to full automation," Henrietta responded, then balled up her fabric and tossed it to Oliver. "Take a look at this and tell me what you think. I.... no, you say first."
+
+The cloth in question was a slight blue color, had a medium-density weave, and was about a foot square. It looked rather quaint, and the thread weight was completely mismatched for the size...
+
+Clark realized he was holding the cloth to the standards of his sister, and dismissed all those criticisms. It was cloth! Actual cloth! Made by them from the very start all the way to completion. That was so cool, and it meant the Commander had finished their power loom!
+
+"The Attunement is a bit weak," Oliver remarked. "Some parts seem like they barely have any Cloth Association? A good amount of Technology, though. I like this very much. Not quite wing material, but it's really close." He sounded a little surprised at that.
+
+"Stringing up the loom is likely to take a full day," Henrietta said. "But I'd like to get it working fully autonomously beyond that, like with the ironlathe."
+
+Oliver nodded thoughtfully. "I can probably help with that. Metalpress has given me a good source template for a 'steady function' spell, so minimizing the dropped threads should be doable."
+
+"Only if it doesn't take you very long," Commander Inq accepted her plate of food with a thankful nod. "Now that you've got the bots working, we can hopefully scale up. How long will it take you to build a new one?"
+
+Oliver mulled over the question while he chewed on his own food. He swallowed and answered, "Maybe comparable to the clockwork hearts? It's got a few more parts, but it's larger, so it should be less fiddly to get everything fully connected. And of course, it needs a heart itself."
+
+"So two, two and a half hours of work in total for a bot?"
+
+Oliver nodded. "I haven't gotten there quite yet though. My second one took me about a day in total, and I'm shaving off a bit more time here and there, but it's fiddly."
+
+"Ah," Henrietta paused. "So probably more like four hours, at least for a while."
+
+"If you say so."
+
+The Commander looked over at Warrior Veeran. "The stronger dragons - are they still able to be dissuaded by your ballistae?"
+
+Jacob thought for a moment. "There are very few which would not be instantly slain by an accurate hit. Hitting them is another matter."
+
+"Smith, do you suppose you could adapt your bot-control logic to likewise aim the ballistae?"
+
+"Yeah. Probably, anyway." Oliver paused, then apparently felt compelled to explain more. "Of course, I also just spent two weeks trying to get the controls working better, so I can't discount something weird going on."
+
+"That's fine. Unrelated question. How large of a clockwork heart do you think you can manage?"
+
+Oliver paused to muse. "I mean, it's going to mostly be limited by the Metalpress size. I can't do the Drivegear in multiple pieces, unlike everything else, so that would be the limiter. So probably... meter and a half diameter? My normal ones are about ten centimeters wide, do engineer-math to call that a ten-times diameter, a hundred times the volume. Though we could handmake it, I suppose..."
+
+A hundred times bigger than a person was already pretty big, Clark couldn't help but think. What had a heart a hundred times bigger than a human? That was like... a chihuahua to a human in size differences. He imagined a giant robot mech, five hundred feet tall. That was so big!
+
+"Twenty meters by ten meters by five meters, or thereabouts?" Henrietta confirmed, making Clark go cross-eyed trying to do the math on how big that was in normal amounts.
+
+Oliver squinted in thought. "Probably? It's not exactly a direct correlation of size. It could probably power one heck of a transport cart, at least."
+
+"I'm thinking trains."
+
+Oliver sucked in a breath. "....Yeah, probably. It wouldn't be massive, but I'm sure we can make it work."
+
+"I wish to verify," Jacob cut in, which Clark was happy for. "Are we considering armed and armored train cars to replace our existing Ironroad carts?"
+
+"Yeah," the Commander confirmed. "Probably fully metal? My next project is going to be focusing on the Volcanic Crucible, maybe see if we can't get some variable steel output for different purposes."
+
+"Eh, this wouldn't be that complicated," Oliver shrugged. "I doubt I'd need that much in the way of custom steels, not that we have a ton of ability to make new ones."
+
+The Commander shifted in a way that looked almost competitive? Clark was a little unsure, because he had never seen Commander Inq look competitive before now. "Oh, I think you might be surprised at just what I can do."
+
+"Okay," the Archmage agreed. "But sure. I want to make a few more spider-bots, then I can work on making a more train-sized clockwork heart. Plus the train itself."
+
+"Ride, Veeran," the Commander turned to them as well. "I want you to start looking into improving the Ironroad, preparing it for train tracks? If we're upgrading from wood to metal, that's going to need to affect our tracks, too."
+
+"Sure," Alyssa had been quiet, but had been clicking clockwork hearts together with her stellar Dexterity. "Not sure how much we can do if we don't know anything about the train. How big do the turns need to be, how strong do the bridges need to be, what are we going to do when the dragons eat the tracks and it derails the train..."
+
+"Why, Alyssa," Oliver said in mock surprise. Alyssa flopped her head over to look at him. "Are you thinking about things? I'm so proud of you."
+
+Alyssa paused, looked down at the metal spheroid in her hands, back up at Oliver, and stuck her tongue out at him. "Be happy that this is metal and too heavy to throw at you."
+
+"You are thinking about things!" Was Oliver's immediate response. "There's hope for you yet."
+
+"You're talking a lot of smack for someone in stick-smacking range."
+
+"And yet, there don't seem to be any sticks close enough for your smacking," Oliver said in a very self-satisfied way.
+
+"Reed stick," Alyssa commanded, raising her hand and letting magic flow out of it. The threads of mana she sent out wrapped around a nearby reed and tugged on it, pulling it to her hand. "You sure about that, wizzy?"
+
+Oliver rose to his feet to retreat, but Alyssa was just as quick on the draw, and the two of them ran off, Alyssa lightly tapping Oliver's arms and legs to keep up the incentive to run, without actually injuring him to spoil the game.
+
+Henrietta was momentarily conflicted about whether she should put a stop to the run, but settled back into her chair with a sigh, deciding that there was no true harm in their game.
+
+"Ah, to be young again," Jacob mused with a great deal of amusement.
+
+Clark cocked his head. Their Warrior, though he had been seventy, eighty years old before their Jump, had been given a new body in its mid-twenties, the same as the rest of them. "But... you are?"
+
+"Hmm," Jacob noted. "I suppose I am. And yet the energy of the youth remains ever fleeting and ephemeral, never to be recaptured."
+
+Clark nodded. That sounded really wise. He wondered what it meant, though.
+
+He'd figure it out eventually, probably.

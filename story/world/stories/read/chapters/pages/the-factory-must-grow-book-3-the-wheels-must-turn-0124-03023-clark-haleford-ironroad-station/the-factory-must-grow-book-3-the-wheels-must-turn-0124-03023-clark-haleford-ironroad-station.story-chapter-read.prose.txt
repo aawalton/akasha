@@ -1,0 +1,129 @@
+Clark just finished wrenching the last bolt of the newly-charged clockwork heart when Commander Inq came to fetch him. She lingered just far enough that he could tell she wished to speak with him, but not so close that he would feel obligated to give him her attention in lieu of his current task, and so once the transport cart he had been replacing the engine for went trundling down the newly-graveled Ironroad, and its old heart was sitting upon a charging station.
+
+Clark brushed off and [Unblemish]ed his hands, this time practicing his range, then gave Henrietta a wave. "Do you need my help, Commander?" He asked.
+
+"Good morning Haleford. Always excellent to see you."
+
+"And far more excellent to see you!" He replied, smiling. He'd already asked if she needed help, and it would be impolite to ask again immediately, even if he wanted to.
+
+"Do you have anything you need to get to?" She asked, and Clark shook his head.
+
+"Well, I do have other things to maintain, and food to make tonight," he clarified. "But I think that is not what you are referring to?"
+
+"You'd be right. How are your reshaping skills coming along?"
+
+"I have not yet managed to use [Unblemish] at a longer range," Clark answered. "And I have also been working to create illusions, yet I have not accomplished anything more than flashes of color while using my skill."
+
+He demonstrated what he meant by [Unblemish]ing the space in front of him to be red, only for it to instantly fall apart as the air all drifted apart away.
+
+"That's still quite impressive, Haleford," the Commander noted. "Very few have the patience and determination to work their skills the way you do."
+
+"Thank you," Clark gave a brief bow of acknowledgement. "You are quite impressive yourself."
+
+"Let's not get into that," Henrietta dismissed, and Clark briefly considered defying her direction to insist that no, she was duly impressive and deserved recognition for it, but set it aside for the time being. "I was more asking about your ability to make parts, Metalpress-style."
+
+"Oh," Clark considered for a moment. "I am not as capable without Oliver assisting me, but I can do something!."
+
+"That's fine. I just want to know if you can make and adjust gears without hologram assistance. If not, I might need to wait for Smith again, even though he already made the Logic Discs we need for this."
+
+"Oh, then yes," Clark nodded. While maintaining the mechanisms of the Factory, he had gotten much practice working with the more fiddly pieces of their mechanisms, including repairing gears that had teeth break off.
+
+"Excellent," Henrietta began to turn, indicating he should follow. "The Metalpress is currently busy making clockwork heart pieces, and I wish to remedy that."
+
+"How do you remedy our tools being used?" Clark wondered, as he hustled after her. Then turned back to grab his wrench, tuck it back in his bag, and hurry to catch back up to the Commander.
+
+What Henrietta had meant, Clark quickly found out, was that she wanted to make their Metalpress not need to make clockwork hearts. The artifact was best used for custom or limited-run parts, such as when they were trying to make a different machine not acting as the bottleneck for a separate production line, the Commander had explained.
+
+Currently, the Metalpress was being used to make long rods for the ironlathe, railway spikes for the Factory train, motion slide blanks, gears for all number of machines, discs that would eventually be used in their bot controls, the casing for their clockwork hearts, even some flat metal plates for things like the traincar, and all of those things competed for build space with the machine parts they really needed for proper growth and expansion. It sounded like a lot, and was a lot, and apparently was only mostly working because most of the things it made were quite small, so it could make many different things all at once.
+
+But now they were taking away a bunch of the work that it needed to do!
+
+The Commander had already created some steel rollers, next to their ironrollers... "Are we not concerned that the names might be confusing?" Clark asked. "I thought steel and iron were actually the same."
+
+"The ironrollers have been entirely devoted to the making of railway track," Henrietta pointed out, as they maneuvered some of the downstream machinery in place. "Though they were originally meant to roll wrought iron into sheets, they just... don't, any more. So I at least feel that having the new setup for creating metal plates having its own name will help there."
+
+"What about calling it the Platemaker, then?" Clark proposed. "As it is to make steel plates."
+
+"Works for me," Henrietta agreed. "Up a little higher?"
+
+Clark obliged, lifting the beam he held slightly as Henrietta consulted her level, a triangle of wood holding a plumb bob. "And... stop. Right there."
+
+Clark pulled on [Unblemish], removing the unsightly seam between his beam and the one right next to it and thereby welding the two pieces of steel in place.
+
+"Watch your head," the Commander noted, bringing a steel plate in from the top and setting it on the structure they had just made, four steel beams driven into the ground, connected by four other steel beams to create the basis for a new metal-presser, but one that would actually be used to press and stamp metal.
+
+They were working from the end, under the logic it would be easier to create something once they knew what the subsequent step of their Heartline Presses needed. So this press was going to put out one half of the clockwork heart casing, which they were also designing to be symmetrical to prevent needing two stamps. Specifically, it was going to put out a half-dome about five inches in diameter, with a rim about half an inch wide surrounding it. That rim would have four holes in it to hold bolts, as well as be bent into an arch at the front and back of the heart, to allow for the central driveshaft to get out. The face of it would also need a hole to allow the phlogiston radiator - phlogiston was such a fun word - to get rid of its light. Then, one last pair of small hole near the top of the dome, just large enough to allow the little switchy thing... the pawl! That was it. To insert the pivot-slash-holding rod for the pawl, which powered the Drivegear that turned the axle of the heart, which could then power anything outside of it!
+
+In order to press the metal, they needed a die. Those dies were negative-space pieces of steel that, when pushed together, would deform the discs of sheet metal they put into them appropriately. Obviously, the main thing they needed here was a sphere, so their bottom die had a half-sphere indented into the top of it, and the metal disc would be pushed into that by a matching half-sphere descending from above. Then, to make sure those discs were lined up in the right place, they had four rods sticking up from around the half-sphere indent, which the discs could be placed on.
+
+However, because that might cause the metal to tear instead of just deforming, they actually had a third part to their die, which was a thick ring that could also slot onto the four rods, and would press down on the disc first, also creating the little archway that the driving shaft would be coming out of and held in. Then the half-sphere would come down and press a flat piece of metal into a perfect dome. Then the press would come back up, and that half of the heart casing would be finished.
+
+That flat piece of metal was being moved by... not a spider-bot, but just a single arm of one, connected to the top frame of this final press. The entire press was actually kind of a bot, as a single clockwork mind controlled when the two different presses should go down or up, and then was controlling a manipulator arm to pull the new half dome out of the press, put it to the side, and then grab the next disc from the stack and put it into the press.
+
+It was really cool to watch.
+
+The step before that final one, then, became cutting out those discs. Doing that worked pretty much the same as the other press, in that it also had a clockwork heart turning some gears that turned a screw, and that screw pressed down two blocks of metal, one after the other. The first was just to hold the disc in place, and the second was to actually do the work needed.
+
+"I feel like we should see about making hydraulics, because that would make this so much easier," the Commander grumbled as she fiddled with the gearbox again. "That way we wouldn't need to worry about the first press breaking if it goes too far. If you could fix this such that it has one fewer tooth than it did before, Haleford," she requested as she handed him a broken gear. He complied, and she put the cogs back in place, then triggered the press to cut out their next test piece.
+
+Cutting was a lot like forming, except that they didn't do gentle edges encouraging the metal to bend in a particular way. Instead, here there was a very small circular divot for the blank disc to rest in, and under that divot were certain missing pieces that, if Clark were to stick his head between the two halves of the die - something he had no inclination to do - he could see the scrap-metal bin where it waited underneath. So the first press came down and held the disc in place with a thick metal plate that had its own cutouts, and then the second press came down with sharp-edged shapes that corresponded just to those cutouts, and poked holes in the metal. Specifically the viewing port, the four holes for bolts, and the small holes for the pawl's swivel-anchor point.
+
+By the time they finished that machine, Clark needed to go make dinner. And the next few days they did not work on it because the Commander needed to go out to Coppermine to replace the inklings there. And the day after that, Clark was busy healing Oliver's broken foot. But the day after that!
+
+Warrior Veeran was yawning as he ate his breakfast. He had woken up in the middle of the night... during the middle of their sleeping time, rather, to fight off a pair of dragons that would have surely menaced First Tower had he not dealt with them. To help cheer him up, Clark had taken it upon himself to fry some pseudowyvern eggs for his breakfast, rather than making him simply eat his normal fare. And it did smell delicious, Clark had to admit. Perhaps he should do this kind of thing more often? Tully begged at his feet for scraps, and maybe she would get something, but not yet.
+
+"Good morning, Oliver! How is your foot?" Clark asked as the Artificer meandered out of the sleeping hut. "Is it still feeling good?"
+
+"It's... fine..." Oliver mumbled. "That smells good. Is that for everyone?"
+
+"Just Veeran, sorry," Clark apologized, then explained a bit more.
+
+"So if I wake up in the middle of the night to deal with an urgent Factory issue, I get a fresh and hot breakfast the next morning?" Oliver fixated on.
+
+"Sure!" Clark had no problem agreeing to that. Sleep was incredibly important, and sacrificing it deserved an appropriate reward.
+
+"I will... keep that in mind."
+
+"Smith, Haleford, Veeran," the Commander greeted each of them in turn. "What daily plans are you all looking at?"
+
+"I think I can get back to helping you with the Heartline Presses," Clark volunteered. "I finished ⟨Refine⟩-ing all of the cloth you gave me yesterday."
+
+"Oh you did?" Oliver perked up. "That'll be useful. Oh, um. My plan for today is... well, I should figure out why the spider-bots keep throwing themselves off the Spire cliff. I need to run a new batch of Light Crystals and Network Caches. Then I need to change out the spelloom wheels, we're out of motion slide spellcord. I'll also need to make a new set of Logic Discs and pathfinding crystals, because I need to make replacements for those spider-bots that broke themselves. Plus I should do another batch of clockwork heart Attunement. I also wanted to look at the smelter enchantment, I think I noticed a bit of imbalance on it and I don't want it to spiral out of control. I was going to actually make more spider-bots today, but that's an all day thing for like two, and because of," he shook his formerly-broken foot for emphasis, "I didn't get the prep I needed done yesterday, so all my maintenance tasks got pushed to today and...."
+
+"That's... more than I was expecting, Smith." Henrietta said, a bit concerned. "You'll be able to do all of that today?"
+
+He shrugged. "If I'm lucky, and everything goes well."
+
+"So that would be a no," the Commander sighed. Oliver shrugged. "We really need to get some kind of Manufactorium set up, or at the very least we need to get you to teach someone else how to assemble the bots. Preferably the former. What was your hangup again?"
+
+"For the bots specifically?" Oliver confirmed, then carried on without waiting for an affirmation. "It's still the gravity issue. I can't get the existing bot logic to account for gravity, so when I have them try to assemble, say, the legs, I'll get one putting a leg in the right place, and then it just drops the leg before another bot inserts the pin that will keep it in place. And I can't create a jig to hold it all because certain later pieces of assembly require welding, and that requires that the leg can be moved and not against something metal."
+
+"And you can't float it, right?"
+
+"As far as implementation goes, it would be a pain and a half to keep placement brackets aligned and in place, doubly so without interfering with one another, and triply so because most of the things which would need to float are things that get added later in an unsecured manner, so I'd need to make the brackets practically as context-aware as the bots. And there's a bit of another problem, that it shares with the jig idea, in that the engineering for all of that would take so much time and it would definitely need lots of updating. If they're not tied into the hologram system, the constant tweaks I'm doing just wouldn't be able to be made that easily, and I'd need to completely remake the jig every time I wanted to make a mechanical change. Oh, and I'd be a little worried about the Limb Driving Enchantment shorting out from being around that strong of a Force artifact before it's fully Attuned?"
+
+Henrietta thought for a moment, "What about... a cousin to Metalpress, that instead of form transmuting base materials into a designated shape defined by a hologram, you had a hologram that pulled matching objects towards it, then held it in place? Like what the spider-bots do, just without the bot."
+
+"There is no shot I can make something that can hover arbitrary pieces. And there's the exposure problem again, where even if I could kinesis the pieces in place, it might break the legs. Too much power there. Also, I still wouldn't be able to control the order that parts came in, so it might have pins meant to lock a part in place show up before the part does, preventing that part from actually going in. Which is another problem with the jig idea, by the way, I just forgot to mention it before."
+
+"What if you had a default null-gravity room? And you just needed to lock the pieces in place in the absence of any external force? Could that work, and then you use something like the multi-stage assembly for the Factory train to first get all the big pieces in place, and only then set the lock-in pieces?"
+
+"I mean sure, if I had that it would be great," he grumbled. "It would also be awesome to have a nine-axis OCA and a class change-capable System node and a plasma cutter and..."
+
+"Ride found a cavern by The Geode without any gravity," Henrietta calmly cut Oliver off.
+
+Oliver's mouth closed with a clop. He blinked. "Right. That is a thing. Huh. Well.... Maybe. I'd need to see if I can bring it into the Network, but the traincar went well... Hm. I'll think about that today and do some sketches."
+
+"Right, that was a lot of discussion. Veeran?"
+
+Clark joined Henrietta where she'd been setting up the final few frameworks.
+
+The benefit of doing this from the end to the start, Clark reflected, was that they were getting easier and easier as they went along. These final, first two stages of the Heartline Presses simply were there to cut a fancy two meter by two meter square of steel into smaller squares, ten centimeters to a side. The first cut the square into twenty strips, and the second cut each of those twenty strips into twenty squares. Which meant each sheet would make four hundred squares, turning less than a single steel beam - the origin material for the Platemaker - into the casing for two hundred clockwork hearts, with scraps left over!
+
+"This is just so much," Clark remarked, as he welded together the last of the cutting edges. "Do we really need this many hearts? Oliver surely can't keep up with what he needs to do for all of this, right?"
+
+"Well," the Commander replied. "Having too much is nearly always better than having too little. But beyond that... we're getting closer to making the hearts completely automatically. And if Smith manages to think through his current problems with it, we might soon be making spider-bots almost entirely automatically. I think, as we continue to grow and expand... we might soon find ourselves thinking we have too few hearts."
+
+Clark didn't really have much to say about that. But he did really want to see it happen.
+
+Soon could hardly come soon enough.

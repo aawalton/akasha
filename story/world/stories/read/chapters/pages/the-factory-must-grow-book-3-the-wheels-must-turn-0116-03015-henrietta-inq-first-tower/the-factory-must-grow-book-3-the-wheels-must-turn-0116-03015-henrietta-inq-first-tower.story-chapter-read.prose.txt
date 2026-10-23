@@ -1,0 +1,171 @@
+"Alright, so we can all agree that this definitely has something to do with the local magic, right?" Henrietta asked, just to make sure there wasn't any disagreement on that matter.
+
+The sudden transformation of their Blast furnace into a 'Volcanic Crucible' - had been a complete surprise for all of them, even if not an entirely unwelcome one at this point. It had become effectively a new magical feature in First Tower, filled with liquid steel that seeped out one side while slag flowed out the other, at a conversion rate that looked close to perfect. So long as they kept dumping in hematite, steel would come out the other side.
+
+It didn't simplify that much, all told, because of the existing infrastructure they had to keep the Blast furnace running. But it was still quite convenient.
+
+It also raised a ton of questions, of course.
+
+"Oliver has made things that worked better than we expected before," Clark raised an objection. "Why are we certain that it did not happen here?"
+
+"Waaayyy too big of a difference," Oliver shook his head. "At best, I might get a last-minute chance to tie in a bit of unexpected Tapestry conditions to reinforce or slightly expand what I was doing. This is... not that."
+
+"It seems apparent that Smith's actions contributed to the event," Jacob added. "Yet he does not possess the power needed for such a thing on his lonesome."
+
+"There is also that, yes. I sparked something, and that something is clearly the local magic. Too complex for anything else."
+
+"I mean... I'd say skills are pretty complex, y'know?" Alyssa added.
+
+"Ride," Henrietta worked to snip the discussion off before it got too far, but while the Ranger did stop her interruption, she briefly spread her hands in protest. Which was fair, everyone else had gotten an opportunity to speak, so... Henrietta decided to answer it herself. "There are three stages of magical complexity."
+
+Oliver looked like he wanted to protest.
+
+"That are relevant to consider here."
+
+Oliver looked happier.
+
+"Casting, the System, and then Local Magics. Casting, which also includes what can be thought of as 'base' enchanting, is the simplest. It is directly interacting with magical elements to gain effects in-line with their Centers." She made eye contact with Alyssa. "You could think of it like physics. Relatively simple concepts, made complex by needing to make it do practical things in the real world. The System, so Skills, are a bit more complex. The underlying principles are broadly understood, we can predict a lot of what happens, but there's always the potential for some surprise bit of emergent complexity. Think of it like chemistry."
+
+Jacob stood up suddenly and darted off to the Ironroad, his [Frostblade] the form of an inordinately long boar-spear as he used the tooth of a dragon for ⟨Rimeforge⟩ purposes. Henrietta carried on with her explanation. In the unlikely situation Jacob needed assistance, he would say something. "Local Magics, of which include the Tyrants and the other spirits of home, are radically complex and can require immense study to understand what they even do, let alone how they work. It's biology. No amount of studying forces and tensile strength will tell you whether a bear will maul your face off when you poke it with a stick. This is a bit beyond how Skills are, which can be largely constrained by their primary elements, and instead is something entirely else."
+
+Alyssa shrunk back slightly. "I knew that..." she muttered half-believably.
+
+"So. With that firmly established, we can now all agree that this is local magic stuff, right?"
+
+"I mean yeah," Alyssa bounced back closer to her normal self. "It's the second time we've done some kind of weird magical stuff, triggered a ton of golden smoke, and left something radically transformed."
+
+"Something to do with alterations of form?" Oliver picked up on. "Hmm. We did see those dragons being conjured in the Junglewaste though. I don't know if I'd consider that an alteration of form."
+
+"Couldn't there be multiple types of magic?" Alyssa shot back.
+
+"That's so rare, though."
+
+"Most worlds have only one form of local magic, even if it may have variations within its expression," Henrietta clarified. "It is likely safe to assume all evidences we've seen are different facets of the same underlying system."
+
+"So what do we have that's been suspicious?" Alyssa prompted. "I suppose we also had... I dunno. The dragons eating the Ironroad?"
+
+"There were the vinebeasts," Jacob provided as he returned, his spear dissolving back into motes of magic. Henrietta was slightly unsure how he managed to pick up on the flow of the conversation so smoothly, but didn't let it bother her. "And the flowers and stone elementals at Ironworks. And the dragons themselves."
+
+"[Order Mana]," Oliver added. "That's been super weird, and it obviously kicked off all of this." He motioned at the Volcanic Crucible. "So it wouldn't surprise me if it's connected somehow."
+
+"Would it not be the landscape itself?" Clark postulated. "Warrior Veeran did describe that the wilderness had additional autonomy compared to that which he was accustomed to. Shelter became a series of caves, the Junglewaste is specifically a wasteland, and now we created a volcano within our own First Tower. In addition, there are many odd habitats and geographical features we have come across. Maybe territories are created and changed by certain things?"
+
+"That's..." Henrietta paused for thought. "Not impossible, I suppose. Veeran, your analysis?"
+
+"I cannot speak with any more certainty than I have thus far," he replied, and Henrietta inwardly winced for putting him on the spot.
+
+"Your skill, though. [Empowered Interdiction]... it spoke about you having a domain. Do you think that might be connected to it in some way?" She paused. "And Smith. Could you give us your Skill description for [Order Mana]?"
+
+"It doesn't say dominion, but I think the language is fairly similar?" she looked to Oliver for confirmation. She knew that the description for Skills could be limited, doubly so when they only really had Oliver's soul as a central processing hub for all System-related tasks.
+
+He nodded.
+
+"And Veeran, what have you found [Empowered Interdiction] to do for you?"
+
+"It augments my abilities to hear the Song, such that I may more readily be attuned to threats before they arrive, in addition to my physical and magical reaction speed, such that I am constantly capable of responding to those threats as they are presented. I believe there is more to discover within it, yet I am not as skilled as Ride in matters of Skill usage."
+
+Alyssa preened under the praise.
+
+Henrietta tapped her tongue against the inside of her mouth. "Have you tried using it away from First Tower?"
+
+"It functions even after I leave the confines."
+
+"Right," Henrietta nodded. "But if we think that First Tower is your domain, like how it's within Smith's authority, the skill functions when you're 'responding to dangers threatening it,' so I'm wondering if you can use it when defending, for example, the Ironroad."
+
+Jacob's expression turned thoughtful, and he nodded. "I shall investigate the possibility."
+
+"I have noticed that there are some weird micro-biomes at times," Alyssa pointed out. "Plus, like what Clark said, that beach that Jacob and Clark first washed up on. That was definitely a magical landscape. But some kind of local magic tied into territories, that... I guess conjure creatures suited for their ecosystem?"
+
+Oliver looked thoughtful, and Henrietta prodded him for his insight. "It sounds feasible to me. Smith, your assessment?"
+
+"It being some kind of territory magic makes sense, to the point I'm not sure what else it could be. A dragon swoops in, establishes its territory, and the landscape changes to reflect the dragon's ideal habitat. Then if the dragon leaves, the landscape starts conjuring dragons naturally, because they're underrepresented? Same way I conjure fire, by putting more Fire mana in an area than there is physical fire to reflect it."
+
+"Oh!" Clark brightened. "Maybe the tree that was making the vinebeasts was the territory-ruler of Shelter, and when Jacob killed it, he became the new ruler? And then it... changed to where his home was, which was... really rocky?"
+
+He petered out at the end a bit, but the overall logic seemed sound.
+
+"I dunno if that whole territory-claiming logic checks out for why we suddenly have a volcano," Alyssa pointed out.
+
+"It does put a bit of a wrinkle on the whole thing, yes," Henrietta acknowledged. "But the involvement of [Order Mana], if it is territory-related, coupled with the particularities of Smith's incantation-"
+
+"It is a perfectly standard spell architecture," he protested.
+
+"Poking bears with sticks, Smith," she reminded him. "It doesn't need to be dangerous in the abstract to be dangerous in-context. But I could understand a way in which the territory may interpret it as an order to become something akin to a volcano, and thus... we get our Volcanic Crucible. Do we want to go with that as our hypothesis for now? I know we've got our various ways of looking for proof, we can try to disprove it as we go along?"
+
+There was a bit of a muttered assent.
+
+"Anything else?"
+
+There was always more, of course. But they didn't spend too much longer on their morning meeting, The Factory ever demanding its due.
+
+Alyssa was on a Geode shard supply run. She didn't need assistance.
+
+Jacob and Clark were working on resetting bits of infrastructure that had broken around the Volcanic Crucible. They were doing fine.
+
+Oliver was working on his spider-bot. He... oh.
+
+"Actually, could you hold this for a minute?" he handed her one of the bot's legs. "I just need to real quickly..."
+
+The scent of motor oil, ozone, and waterfall spray flared up, and a bright light appeared at the periphery of Henrietta's vision. Oliver was using a new wand, dragging the tip of it along the metal body of the bot, and cutting a section open with it, then tinkering with some of the magic on the inside. Then, he sealed it all up again, signaled for her to put it down, and tucked the wand back into his belt.
+
+"New wand?" she idly asked when it seemed as though he wasn't too preoccupied.
+
+"Hm? Oh yeah," he pulled it - and three other similar ones - out. "I wanted some better tools, and the Metalpress makes the metalworking quick. The welding wands are mostly [Ignite]- especially ⟨Blowtorch⟩ and [Unblemish]-⟨Remake⟩, but the Metalpress itself and the Catalytic Orb cinched it together. Anyway..."
+
+He snatched up the Pillar of Industry and worked a pulse of magic through it, and the spider-bot shuddered and stood up. Oliver didn't say anything, instead just staring intently at the construct and flicking his fingers in a way that smelled like... lemons?
+
+After a minute of that, during which Henrietta mentally ran through her personal to-do list, the bot's clicking sped up dramatically, becoming a steady tic-tic-tic sound, and stood up to its full height of a meter and a half-ish. Then its legs flexed, and it widened its stance such that it was closer to waist height.
+
+Six legs, each at their own angle, each twitching slightly as the construct settled into a balanced equilibrium. The crystals set into the main body picked up an inner glow, and each little adjustment by the bot was accompanied by a hint of a magical crackle, plus a faint whiff of rubber.
+
+"Okay," Oliver whispered. "And then we go..."
+
+The tic-tic-tic became a bit more of a click-click-click, then a clank-clank-clank, and Oliver frowned, then pulled back his hand. "Okay, that's not good. Commander, could you..."
+
+It took five more rounds of further refinement before Oliver was satisfied, and for the tic-tic-tic to stay at that level even when he was actively engaging with the enchantment. But eventually it did, and Oliver, tilting his hand back and forth a bit like he was directing a marionette, got the bot to extend and retract its legs, getting it to shuffle forwards.
+
+None of the legs had any kind of turning capability, and were instead only able to bend at their base and the knee, and as such could only have a maximum of two legs stationary on the ground. The walk cycle was that four feet would stay on the ground, while the 'front' two feet would disengage. Then the bot would lean forwards until the two front legs were contacting the stone, raise its middle legs, lean forwards, re-engage the side legs, and then pull the back legs up to be directly under the main body.
+
+It was quite slow and seemed... substantially less than graceful.
+
+That impression only magnified when one of the legs got caught in a divot in the stone, jolting the entire body in a sudden turn, and the next leg lost its momentum, causing the entire bot to spin and start to topple over. A handle at the top suddenly glowed, and Henrietta recognized it as a placement bracket, and Oliver telekinetically dragged the construct back upright.
+
+He sighed.
+
+"You may have better luck if the legs could pivot back and forth?" Henrietta made a sweeping motion. "You'd get more motion out of each individual leg placement, which I think is your biggest challenge?"
+
+Oliver didn't respond for a moment, but then let loose another, larger sigh. "Yeah... Ugh. I was really hopeful I wouldn't need that. It pretty much doubles the number of Force controls, and I was trying to keep that down, but..."
+
+"If we can make ten thousand of something, we can make twenty thousand," Henrietta reassured him. "The point of The Factory is that our effort doesn't need to directly translate to output."
+
+"I know, it's just... agh. I'll need to completely rework the upper joint, because it won't be running off a static position on the main body, and I need to figure out a good pivoting system, and..." Oliver rubbed the sides of his face a bit. "Well. It needs to be done. I can take it from here though, I need to make some revisions."
+
+"I'm glad I could help?" She asked, a little uncertain she had helped. Oliver didn't acknowledge the inquiry, which Henrietta was fine with interpreting as him putting most of his focus on his project, and let him be.
+
+Henrietta stopped by the Metalpress to retrieve some of the newer parts created there, then hopped down the Spire to return to her Weaving Hall. A part of her wanted to immediately rush to the Volcanic Crucible and start doing alchemy there - she was confident she could do some impressive things with it - but she wanted to get their cloth production line up and running first, in the interest of not leaving half-finished projects absolutely everywhere.
+
+After the thick fog that occasionally rolled through The Jungle had wound up absolutely soaking some of her threadvines at the wrong step in the process, she'd ended up creating a mid-sized wooden building that Oliver had quickly protected with a simple Wind Wall Ward. That it kept the daylight off her fabrics was also... maybe good, maybe bad, but the darkness took a moment to adjust to regardless.
+
+Inside was a half-assembled loom. Well, more than half by volume. She'd gotten all of the larger parts put together, a mix between wood and metal that clearly looked like a loom, and how she was mostly working on getting the gearing and actual mechanics of the machine working.
+
+The basic idea behind a loom was simple. Two sets of threads made up the 'warp,' and each one had dozens to hundreds of individual strands, were held such that one was above the other in an alternating pattern, and a single thread - the weft - was passed between them. Then, the portions of the warp swapped position, so the original top was now on the bottom and vice versa. Then, the weft was passed back the other way between them, and the process was repeated.
+
+That created, well, a fabric. Threads overlapping in an over-under-over-under pattern, repeated for as many threads as were in the warp. Split the warp into two alternating parts of up and down, feed the weft through the middle, compress everything down.
+
+The loom's primary job was to hold the warp in position. To do that, looms utilized harnesses, each of which had hundreds of what was called a 'heddle.'
+
+A heddle was a fairly simple object - in Henrietta's loom, they took the form of a thin but long metal strip with a hole in the middle. A heddle had a single job - hold one strand of the warp. So, her hundreds of heddles were there to hold hundreds of warp-strands, and the gaps between each heddle was there to allow the other half of the warp through.
+
+Henrietta's two harnesses were just large rectangles, and Henrietta always thought looked a bit like two combs stuck together by their comb-tips, with the eye of a needle right where they joined up. But by moving one of the harnesses, Henrietta could move half of the warp simultaneously, and in so doing... weave.
+
+'All' that was required was setting up the gearing, such that the harnesses would swap places at a regular cadence, passing a mechanical shuttle trailing the weft-string between them between each swap, and compressing the threads down after the shuttle passed through but before the harnesses swapped.
+
+Which was to say, actually building the thing by hand was a lot more difficult than musing about its function or teaching a set of woodworkers and blacksmiths the mechanical principles underlying the design with several diagrams. The gearing alone was a nightmare, making sure that everything would run in sync... She had tremendous respect for Oliver and Jacob, who could do it so easily, and once again mentally reaffirmed her love of alchemy.
+
+But... she could soothe her frustrations about the machine with the thought that eventually they would automate it.
+
+How? She... didn't really know. But she was confident that Oliver would figure it out.
+
+It was essential that they not need to hand-make every machine required for making a portal. Hells, it was essential that they not need to personally design every machine required. All of that would need to be automated in due time, and so Henrietta needed to have faith that it would be automated in due time.
+
+They'd come a long way, yet they simultaneously had so, so far left to go.

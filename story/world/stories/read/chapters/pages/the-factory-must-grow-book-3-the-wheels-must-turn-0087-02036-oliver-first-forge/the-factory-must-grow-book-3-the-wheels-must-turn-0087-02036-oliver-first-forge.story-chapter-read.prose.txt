@@ -1,0 +1,137 @@
+There were three things that Oliver needed. Currently, anyway.
+
+The first was another level. Somehow, he'd not gotten an overall level from all of that nonsense with the dragons, so he still didn't know what subskill [Heart of Technology] would form once he had a skill slot open. He almost wanted to be annoyed at himself for that particular snafu, but realistically there was no way he could have predicted getting three new skills and subskills in a single day, let alone from a single crafting effort. He'd need to devote several levels towards Skill alone to give himself the leeway he apparently needed, which was mildly annoying but solvable.
+
+The second thing he needed was a good way to clear out phlogiston. That wasn't new, exactly, but it remained a semi-top priority. Given they were already going to be rebuilding a lot of their infrastructure, it would be better if he had a nice, easy engine block replacement. His current design was based off of a clockwork heart design he'd found in the Encyclopedia Systema, with its 'driving gear' being a modified ratchet.
+
+There would be a motion slide-based enchantment acting as the pawl - the piece of metal that 'clicked' into each step of the ratchet - with the other half of the enchantment being a part of the main ratcheting gear. He'd come up with a way to concentrate the phlogiston creation on one side or the other, but he needed some way to then disperse it without clogging up the rest of the device.
+
+The third thing he needed was to get this stupid turret design working. With the continued attack of the dragons, better defenses were a must. Oliver might have warded First Tower to ensure that all attacks came from a single direction, but that still meant they were going to be attacked a lot from that direction.
+
+Not that the ward was foolproof anyway... all he'd really done was enchant their defenses to also control the flow of elemental Hatred alongside the material gap it produced. It was honestly pretty easy thanks to [Order Mana], but would only serve to deflect creatures that were actively hostile to the main entrance. It could also be overpowered, but most normal creatures didn't have nearly enough Hatred for that to be a practical concern. More likely was that they wouldn't be hostile in quite the right way for the Hatred deflection to catch them. He'd only been able to draw on his own induced rage and a couple of quick calibrating divinations as a source, after all.
+
+The structure itself was easy, just an extension of the anti-Nature ward, the only wrinkle came with using a more abstract element which he didn't have a refined source for. He'd gotten rather comfortable using his teammates and their Classes as a mana source, only really stretching out with elements like Fire or Earth, which had fairly easy-to-approximate Centers. That the Hatred ward had worked so easily was... weird, but he wasn't complaining.
+
+Though, because the ward design was dependent on [Order Mana], there was only so many places Oliver could actually deploy it. It had been a mild surprise when he'd been able to use it around the Blast furnace, but he wasn't really complaining. It just meant he could focus on deploying other defenses in places where [Order Mana] couldn't reach. And with ⟨Inlay⟩ as a new tool in his toolbox, he was doing his best to make their primary defenses... better. Neither Jacob's [Sweeping Cut] nor Alyssa's ⟨Blowback⟩ were 'normal' ranged skills, but it should have been possible for Oliver to combine them in an enchantment into a ranged piercing attack of pure Force and Air.
+
+Not needing any physical ammo would be tremendous for their defenses, for obvious reasons. It just wasn't coming together. That one was a subskill for a movement skill and the other a melee attack metaskill definitely made things harder, but he was used to that being a kind of... minor brain teaser, figuring out the best way to integrate them, rather than an almost project-stopping barrier. Mud, twigs, and rocks did not an enchanting setup make...
+
+Where had that come from? He hadn't been bemoaning his lost tech in a while now. Maybe he was a bit short on sleep?
+
+Oliver rubbed his eyes at the thought. Even though he'd managed to remake their force-mattresses, the new ones hadn't seemed quite as nice as the originals. Of course, he'd also made them in a fraction of the time thanks to his ability to use [Order Mana], which was itself an awesome skill that if he could use it would probably make the turret design he was stuck on far easier.
+
+Okay, so maybe 'a reliable way to spread the influence area of [Order Mana]' was a fourth thing he needed. It certainly seemed to be connected with the spread of Technology in some way, because Oliver had recently been able to get it to work anywhere that had been... well, established. First Forge when First Tower had been invaded, only for it to spread back out once they'd built fortifications and wards, and then extend even further to the Blast furnace area when that was getting warded. Though while the Ironroad had portions of it that were warded, none of it allowed for [Order Mana]...
+
+After checking with Henrietta that there wasn't anything too much more urgent for him to work on, Oliver just started building. There was nothing better than physical prototypes to iterate with, and while it had started feeling a little weird to design mechanical things without Jacob's aid at the moment, their Warrior was needed elsewhere. Specifically the Ironroad, either guarding the entrance to First Tower from dragons, or making the trek to keep them supplied with bits of iron.
+
+There had actually been an issue with the smelter enchantment, where it hadn't been processing enough iron, and Oliver's clever heat-focusing enchantment had failed, causing all of the internal structure to soften, sag, or even melt. He'd managed to patch it together before it completely failed, but it had been a very sudden and stressful bit of maintenance. To hopefully keep it from happening again, a person-sized pool of water had been added to the system, which drained excess heat from the metal.
+
+Granted, Oliver didn't end up using a mechanical solution for his first ballista 2.0 prototypes. Instead, he used a design more inspired by his placement brackets re-crossed with a sliderail, that required direct magical control to function but could easily shoot rocks at devastating speeds. In addition to the prototype, Oliver made one extra full-sized model and then shrunk it down as much as he could. The two full-sized turrets wound up being mounted at the entrance to the Ironroad, meaning Oliver could now undertake guard duty. The small one, which bore a distinct resemblance to a crossbow, was still a bit heavy for Oliver's easy use, but a couple of placement brackets to carry it around meant that Oliver could use his 'Arcanalest' for self-defense.
+
+It mattered less to him than he'd honestly expected. Jacob, Alyssa, and Henrietta were all excellent fighters, and as such Oliver's current helplessness in that arena didn't impact much very often.
+
+What he was far more interested in was a couple of minor refinements to the shooting mechanism that he could translate into improvements for the mass-deployed ballistae, particularly in the stock.
+
+The ballista, as far as he was concerned, had two main parts - the stock, and the arms. The arms were where the power of the weapon resided, bundled reeds and wood pulled into tension, but the stock was the main body of the weapon, responsible for drawback and firing. The existing design worked by keeping a motion slide either in extremely tight contact or distinctly separated, such that the ammo could be drawn back and cocked and then released, all with a single mechanism.
+
+It was... simple, in a crude way. Everything was dedicated towards switching between those two modes, but because both the drawback and release were at complete odds - the tighter the contact and more absolute the separation, the better - it was a muddled mass of compromises and inconsistencies that Oliver almost couldn't believe he ever thought was acceptable.
+
+Overall, it meant that the mechanism bumped and rattled and took forever to reload, lost a ton of power on the release, and broke constantly.
+
+The new design separated the mechanical dog responsible for the contraption's movement into a draw and a 'pouch,' to borrow a term from slingshots. The ammo - be it a random rock or a claynade - would rest on a small wooden device mounted on a flatbar of iron, slotted into the newly redesigned wooden side-panels.
+
+By itself, that wasn't... that much of an improvement, because the slot was tight enough that the bar would constantly get stuck, except Oliver had used an [Unblemish]-derived polishing spell to effectively bypass a ton of tedious sanding and sealing. It wasn't very resilient, because the polish wore off easily, but due to the spell's [Unblemish] roots, it naturally worked with Clark's skill and that meant their Healer could just tap it and restore it to full functionality in seconds.
+
+The second improvement was... debatable as to whether it was worthy of being called an 'improvement.' Instead of using a long run of full motion slide along the bottom, Oliver instead created a rack - a linear gear. Unlike a typical rack, though, it didn't have very many teeth. Instead, it was closer to just another iron bar save for a few places sticking up just enough to have a ratcheting gear - acting as the 'pinion,' catch on it and pull it along.
+
+The pinion itself was part of one of Oliver's prototype clockwork hearts, specifically the drive-gear, which itself worked by having a motion slide slowly turn it one notch at a time. It was definitely more complicated than the original design, because all Oliver had really done was insert a gear between the motion slide dog and the pouch. But that complexity came with some advantages.
+
+The first was straightforward - buffered movement. Even if the motion slide momentarily lost contact with the pinion driving the ballista's rack and pinion gearing, the ratcheting nature of the gear ensured the weapon wouldn't fire prematurely. It might jump a handful of centimeters, but that was it. Also, the light decoupling meant that Oliver could have a different triggering mechanism.
+
+Instead of relying purely on the force the motion slide generated, Oliver was able to have a small pin lock into the rack-gear, tripping when the weapon needed to fire. Simultaneously, he'd disengage the primary motion slide, preventing the stuttering overdraw that plagued the prior model.
+
+Disengaging the motion slide had another benefit, too - dispersing the phlogiston the contraption built up. Some early prototypes and basic math suggested that the rack-gear's presence in the system might on its own be enough to disperse the buildup of the virtual self-pollution, but having the enchantment periodically rest would also suffice. With both in play, there was basically no concerns that the enchantment would fail randomly.
+
+Well. Fail randomly due to phlogiston, anyway.
+
+As a kind of separate benefit, making the clockwork heart problem connect to the ballista problem helped in its own way. It drastically cut down on the number of problems needed to be solved, and gave him a new angle to pursue solutions for those problems.
+
+He'd needed to make a bit of a jig for the rack-gear, but once he'd done so, making one wasn't... that bad, and Oliver looked at his first full prototype somewhat skeptically. It wasn't installed into an actual ballista yet, this was just the base mechanism, where he could see it with his own eyes and arcanoception and notice areas for improvement.
+
+Like how the motion slide didn't need to be at the top. It should work equally well on the side, around where the three would be on an old-style clock, which would make the contraption a bit more compact. It meshed with a ratcheting gear, held flush against the slightly-larger-than-palm-sized wheel by a bit of green wood. The ratcheting gear then acted as a pinion for the rack beneath it... and yes, good, there was always at least one tooth engaged at any given time. That rack then was attached to the pouch, and the pouch was fixed into the ballista stock by a completely blemish-less iron bar. Ammo would be loaded into the pouch, the pouch would be drawn back...
+
+Oh. He should figure out some way to reinforce the pinion mounting gear. That was going to be under a lot of pressure. The axle should probably be made out of iron, and maybe he could attach it to the stock using a similar polished-material setup as was used in the slide?
+
+In any case, when the pouch was fully drawn back, it would lock in a metal pin to hold the rack in place, and push the motion slide out of engagement. Then the triggering mechanism would slip the metal pin out, letting the rack slide freely, releasing the tension and shooting the weapon. At that point, the motion slide would re-engage, starting the process of reloading.
+
+Whoof. It objectively wasn't very complicated, yet it also was. The prorotype highlighted a dozen places that Oliver could improve the design, and two dozen other places he'd made a mistake that would need fixing.
+
+There were enough fiddly bits that he probably would need to make a new lathe, that was sure. The existing one was entirely spell-powered, but had been absolutely essential in creating rods straight enough for gearing.
+
+Points of improvement notwithstanding, the prototype was functional enough that it could be used for an actual deployment, so....
+
+Time to do the boring stuff.
+
+Delightfully, boring things didn't last forever.
+
+The new ballista got the same basic Force-tracking as the old ones, and was mounted alongside the manual-control turrets at the entryway to the Ironroad. That had itself gotten a bit of a makeover since he'd last seen it, with the barest hints of some ditches and walls produced with the intent of eventually becoming actual defenses.
+
+Oliver was quite pleased to see the gearing all working more or less as expected. It really was amazing how problems would seem to spring fully-formed the very instant something was put into real-world use, even when it was absolutely identical to the workshop or lab usage, but there weren't any catastrophic issues. Some of the wood was creaking a little more than Oliver would have preferred, but after adding an extra ward to the walls defending against flying shrapnel, he was more comfortable. The occasional much-louder THUNKs from firing was also slightly concerning, but it was probably fine?
+
+He had plenty of time to watch the auto-turret in use as he was rotated onto guard duty, which Henrietta had offhandedly mentioned was an intentional choice. He had to admit, it was a clever idea, but shooting dragons with the mounted turrets and his own Arcanalest - the latter was a bit tricky, because he needed to use a placement bracket to help him lift and move it, but he was slowly adjusting - could sometimes prove engrossing enough that he forgot to study the mechanisms of the automated turret.
+
+It turned more slowly than he would have liked - probably needed a smoother axle. It could stutter near the end of a draw cycle - he likely needed to improve his teething tolerances a bit more. The reloading mechanism kept jamming - he should figure out a better way to feed in ammo... and generally improve how the ammo worked too.
+
+Speaking of the ammo, it was fascinating seeing just how much phlogiston it got rid of.
+
+It was a little tricky to directly observe, because it wasn't 'visible' to his normal mana sense, but a few Autonomous Divinations he'd already set up for prototyping purposes gave some pretty neat estimates that clearly demonstrated how the imaginary waste product was being dispersed. Phlogiston wasn't really real... in a certain sense.
+
+The earliest uses of the word were from early chemical ideas regarding how fire worked, because before people knew about oxidization and atoms, one theory for why some things were flammable was because they contained an invisible fluid - phlogiston - that was released by burning, the flammability of a substance depended on its phlogiston content.
+
+Complete nonsense of course, but in the wake of The Binding Wars, the end of the Age of Oppression, and general merging of magical and mundane research disciplines, a staggering number of deprecated scientific and magical terms were repurposed to help with describing the new-to-most-of-the-world magical phenomena. And such was the fate of phlogiston.
+
+The term was also occasionally used by alchemists for mana contained within an object, but in engineering it referred to a combination of low-energy mana, uncontrollable disruption of the Tapestry, and a handful of other minor effects that interfered with future similar magic. It acted a bit like a fluid, but it wasn't a real thing in the way energy was. It was more like... Iceless cold, which was a lack of heat that nonetheless had certain properties.
+
+And usually, it wasn't an actual obstacle to working magic. Just something to take into consideration when designing long-term, particularly complex, or notably powerful effects, and something to spontaneously ruin the day of an enchanter who might not even remember that it was a thing. A ghost in the machine, the impossible-to-find bug. Just a tiny hiccup in performing the exact same magic in the exact same way constantly... which most spells didn't do anyway, as adjusting to the current state of the Tapestry was required when casting any spell. Even artifacts didn't tend to run into it unless they were locked away, but usually the limiter there was getting the appropriate mana into the enchantment more than getting the waste pollution out.
+
+The tricky thing with phlogiston was that it could never be gotten rid of with the same structure that had created it. While something like electricity needed a single complete system, with electrons flowing in one end and out the other, the waste-mana of phlogiston had to be conveyed on something new.
+
+Much like how a noisy bit of machinery could be quieted by either introducing something external - like a physical barrier to block the sound waves - or by pulling in something to directly cancel the sound by either being way louder or by being carefully tuned to cancel out the original's pressure ridges and troughs, phlogiston could be dealt with either tangentially by pulling in a new form of mana - like Air to refresh Fire-based phlogiston, or in-kind such as by building a chemical fire after conjuring a magical one.
+
+The latter was very clearly what was happening with the ballista. The Force being conjured by his motion slide was being 'used up' while deforming the wooden arms of the weapon, and when they sprung back and shot their ammo forward, that was new Force that could 'replace' what had been 'spent.' It was the same base principle as to how he shot the projectile at all, 'laundering' the conjuration through material physics, but it had proven way more effective at phlogiston dispersion than he would have ever expected. If he was to guess, it was probably because of how physically large the arms were, giving any phlogiston they absorbed a ton of volume to disperse in.
+
+Unfortunately, there weren't any real notes he could take from the ballista's phlogiston management into the design of the clockwork heart. It didn't even have a spring to start to buffer the Force conjuration, and he was trying to keep it compact to make it more useful.
+
+Oliver called up his Encyclopedia Systema article on the phenomenon, hopeful that rereading it for the twentieth time between taking shots at dragons might spark some idea for how to deal with its dispersion. It was Force-based, so movement would help... he needed something more general. 'A single-purpose enchantment locked away in a larger machine' was pretty much the time phlogiston was the biggest problem, so how could he handle it with what he had available to him?
+
+Well...
+
+What would it take to ⟨Inlay⟩ [Scrollcast] as a phlogiston dispersal spell?
+
+An image came to mind, of silver wire embedded in a circle, same as the last time he'd tried this... and right. Because it would be casting a spell, he'd need to deal with whatever waste the 'solution' enchantment would create. Which would itself require its own waste-management... repeat ad infinitum. A change of perspective was definitely needed.
+
+Phlogiston happened due to repetition. Too much of the same thing happening in the same place. Mana choking itself out, 'unwilling' to repeat what it was doing endlessly, threads falling out due to too many repeated stitches. Mana required a whole woven support network to function, and phlogiston was the house of cards collapsing as the same stitch in the Tapestry happened again and again. That was mixing metaphors, but ultimately what he needed was variation. Some secondary thing that could support and be supported by the Force of the motion slides.
+
+Light? He wondered. A lot of magical things glowed, it was one of the most common byproducts of magic being worked. The emission of color might meet the definition of a phlogiston offgassing that he was reading on his System window.
+
+Oliver reloaded his Arcanalest with a nearby rock, aimed it with the aid of his brackets, and fired with a ⟨Use Artifact⟩.
+
+Even without a string, the weapon was still shaped like a crossbow. The very tips of the arms briefly gleamed with a blue light that matched Oliver's own magimorphosis, and then the rock he'd loaded flew out with a crack, narrowly missing a flying dragon as the control he had over his brackets hitched. He pulled the pouch - an angled bit of metal more like a placement bracket than anything, dropped another ammo-rock down the barrel, and fired again. This time, he kept everything steady and shot the monster out of the air, where one of the landbound inklings pounced on it. Then, he used one of the manual-control ballista to shoot a dragon that looked a bit like a lion with a mane of tentacles instead of fur. It had no glow or gleam of any kind, just basic mechanical action.
+
+So okay, assuming his 'radiate phlogiston away as light' idea had any merit, that would require... crystal. Glass, realistically. The make-crystals-glow spell he'd used in Shelter would be a reliable bet in large part because he knew it could work for the purposes of sustaining other magic, and he'd already done a lot of the work required for this application.
+
+He pulled up his notes on the spell design, mentally translated it into an enchantment, and nodded.
+
+Then he pulled up his notes on the clockwork heart ratchet gear and grimaced. Unless he wanted to enchant every tooth of the ratchet gear individually, there was no way he could make one item do both things. The gear was being enchanted in its entirety, spreading through the metal and ensuring the edges were all enchanted. Trying to slip another enchantment in there was nigh impossible, and because he only had iron, there was no way he could make it... work.
+
+Unless he used copper.
+
+Oliver's mind flew, and he nearly missed shooting a couple of dragons as a result.
+
+Copper would solve most of his issues. Actually, it would solve... all of them?
+
+Bronze would be better, as it lent itself better to vast empires, but copper should be good enough. He could do something similar to what he'd done with the Window of Words and Winds to bond copper and glass together, and if he made his phlogiston radiator a spell-disc, it could be made separately from the main ratcheting gear of the clockwork heart and only inserted afterwards. That meant he could focus on doing batches of each instead of one more complicated enchantment. And it might even make future automated production even easier!
+
+Yeah. He liked this.
+
+They just needed copper, but that, at least, wasn’t his problem.

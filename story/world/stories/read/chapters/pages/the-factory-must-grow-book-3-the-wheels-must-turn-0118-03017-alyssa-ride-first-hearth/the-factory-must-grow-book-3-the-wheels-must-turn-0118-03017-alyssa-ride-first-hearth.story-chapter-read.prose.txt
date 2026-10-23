@@ -1,0 +1,195 @@
+"Crystals!" Alyssa called out, announcing her arrival back at the base, "Get your crystals here! Perfect for all woo-woo mage-magic needs and whatever nonsense phrases you need to say!"
+
+"I thought mages were great because you're one of them," Oliver eyed her as she set her overstuffed backpack down.
+
+"Crystals!" Alyssa declared, "Perfect for all of the most amazing of mages, to fulfill their highly critical and immensely awesome mage needs. As I was saying."
+
+Clark laughed, which didn't really count but still felt good.
+
+"Anyway. I took a bit of a different route this time, not really intentionally, it just kinda happened, you know?"
+
+"I can't say I do," Oliver ignorably replied.
+
+"Anyway, turns out there's another cavern with no gravity at all. You can walk on the walls, all the walls, but if you stop touching those walls, nothing pulls you back down. Feels really weird but made for a great napping place."
+
+Alyssa had been generally aware that gravity didn't always work the exact same way she was used to in Jump worlds, but actually seeing a place where everything was floating was awesome. Not that she'd been able to see that much, admittedly. It had been super dusty in there.
+
+"That sounds excellent!" Clark agreed.
+
+"Mhm," Oliver muttered agreement, clearly not listening given he hadn't said anything about it being cool. He was moving his little intangible ball of light around, and the spider-bot that he'd been working on for like, weeks now, followed after it.
+
+"Helloooo," she tried and failed to claim the attention due her discovery. Bah. She'd tell him again later, when she was giving Henrietta her debrief. "So... whatsup? You got the bot running around, I see."
+
+He'd been working on that for a while now, and Alyssa was just of the 'better him than me' mindset when it came to all that stuff. Fidgeting with a solid week with a plate of bronze just to realize you'd drawn a line two degrees off from where it should be... no thank you.
+
+"Nominally, the bot is working," Oliver's attention flitted back to her. "It is working," he corrected. "Every piece of the mechanism is functioning. The legs support it, the PCE is controlling the legs, the pathfinding crystal is controlling the PCE, and the clockwork mind is properly switching between modes. I have managed to get every individual part of the bot working."
+
+"Nice, nice," Alyssa agreed, eyes tracing the little intangible ball of light as it swished back and forth, the six-legged mechanical construct following just a few steps behind. "So can we start using them for stuff?"
+
+"Well..." Oliver hesitated. "I'm having what's hopefully one last hurdle to actually getting them useful. As you can see, I can get the bot to follow the light. If I make the light stop," Oliver demonstrated as he narrated his actions, "Then the bot will even switch over to its Delivering state... ignore how the bot just keeps opening and closing its claw, that's just because the light I'm using is acting as both the retrieval object and the instruction hologram, so it keeps switching between Seeking and Delivering because the order is never filled."
+
+"Uhuh."
+
+"But watch what happens when I request a rock," Oliver recalled the floating light, and it took up a position orbiting his wrist. Then he flicked two fingers in a way Alyssa had learned to associate with him directing his drone around. Nothing happened, and Oliver looked confused for a moment. "Right. It's running Metalpress." He frowned. "I hope I didn't just screw up the press."
+
+Oliver briefly got distracted casting some magic, and Alyssa draped herself over the counter where Clark was in the middle of chopping up some meat. He had a really big cleaver that honestly looked nicer than any knife she'd ever had. Well. Personal knives, anyway. Though the dark wooden handle and bronze rivets, plus the subtle pattern in the blade itself still looked awesome, and so long as 'actively enchanted' wasn't her bar... yeah. It was built more nicely than any knife, enchanted or not, that she'd ever had or even seen in person.
+
+"What's cooking?" she asked.
+
+"Roasted redwing, with a nocberry glaze and some of those potato-apple fruits you checked out!" Clark cheerfully answered. "I am hopeful that the similarities which nocberry has to tomato will go well with the potato-apples."
+
+"Coolio," Alyssa nodded, mentally thinking about the linguistic amusement that came with calling a fruit a potato-apple, when there were at least a couple languages where potatoes had 'apple' in their name. So... was this some kind of 'apple of the earth of the tree apple'? An appleearthapple. Applearthpple. Earthapplapplapple.
+
+Oliver seemed to have gotten a bit of his stuff working, so she hopped back over to him.
+
+"Okay. So the way I would tell the bot to move a brick to a specific spot is I cast a hologram of the brick at the place I want it. That's the instruction hologram. Then the bot should see that instruction, look for a corresponding physical object that pairs with the instruction, go over to the object, pick the object up, and bring the object to the instruction." Oliver said all of that without actually doing any magic, and the bot was just standing in roughly one spot, but was still moving a bit to... keep its balance, maybe?
+
+"So, you saw how it was moving with the light," Oliver asked, and Alyssa gave a small nod. Oliver kept staring at her.
+
+"What? Oh, uh. Yeah, I saw."
+
+"That's what it should look like. But, watch the bot. I make my hologram, and..."
+
+The magic flickered into being right in front of him, a blue rendition of a brick which was itself about ten feet away from them. Instantly, with absolutely zero hesitation, the spider-bot did an absolutely perfect front half of a backflip, instantly flinging itself over its own body in the direction of the brick and landing upside-down on the ground, its legs flailing in the air helplessly, like a turtle stuck on its back.
+
+It was all just so sudden and so unexpected that Alyssa burst out laughing, which earned her a glare from Oliver but she really couldn't care.
+
+"That was amazing. Ten out of ten, perfect belly-flop despite no flopping nor bellies involved. No notes."
+
+"But yeah," Oliver was substantially less amused. "That happens."
+
+"And it happens every time you involve a hologram?" Alyssa asked.
+
+"Yep. It's not always quite so instant, but..." He looked over to where the bot was wriggling, maybe making some amount of very slight progress towards the brick. "It always does it. The first time it actually broke a bunch of its mechanisms, because it wasn't built for it, but by now I've figured out how to make it a bit more resilient. And I need to flip it after each time, and it's heavy."
+
+"Eh, I'll get it," Alyssa preempted him and skipped over to the bot, picking it up and setting it back on its feet. Even though it had been docile while it was in her arms, as soon as she set it back down it tried to flip again, as Oliver hadn't dispelled the hologram yet. So instead, she picked it up - a little awkwardly, because even if four Strength was enough to handle the solid metal robot half her weight without undue effort, it wasn't enough to fully protect her from being knocked off-balance, and so she needed to compensate with her more than sufficient Dexterity.
+
+It just hung, motionless the entire time it was off the ground, which Alyssa found a bit odd. "Hey, how did this thing figure out where it's supposed to go again?"
+
+"The pathfinding crystal in its head," Oliver answered, swiping his hand and dismissing the hologram, letting Alyssa put the bot back on the ground. It skittered away from her, legs going clink-clink-clink as it did so. "It uses a divination enchantment to find the fastest route to its destination, and predicts how it needs to move to follow that route."
+
+"Uh huh," Alyssa acknowledged. "And if there isn't a route?"
+
+"Then the divination fails and the bot doesn't do anything. That's intentional, to prevent a bot physically incapable of fulfilling an instruction to get stuck trying to do it anyway."
+
+Alright, alright. "So what if there will be a route, but isn't right now?"
+
+"Like with the Spire Elevator, how it's technically not a route?" She hadn't been thinking that, but she'd take it. "I did think of that. The divination can predict how outside forces will influence things, at least to a minor extent. It needs to be regular behavior, something currently being exhibited in the present. Again, that's intentional because I want it to be able to adapt if the Spire Elevator breaks down."
+
+"Can it predict people?"
+
+Oliver shook his head. "Nah. Even without counting the anti-Fate interference the System can have, we're too complex for it to predict. We have agency, we're not just regular machines repeating the exact same things the exact same way with effectively identical effects."
+
+"Okay, okay. Can you switch the bot back to following your little light? I wanna see something."
+
+Oliver muttered an agreement and shrugged. "Sure I guess. Errriehuc ia tau..."
+
+The light pulled itself away from Oliver's wrist and flew closer to where Alyssa and the bot were. It flew around them a couple of times, and the bot didn't have any problems as it clattered along behind.
+
+Then it flew close to Alyssa, and she reached out her arm and just... lightly smacked the little ball of light, sending it careening towards the ground. The bot, without missing a beat, immediately did a frontflip, rolling a few times until it once again came to a rest perfectly on its back.
+
+Alyssa looked at Oliver triumphantly.
+
+"Io... damn it," Oliver sighed. "Just..." he groaned, then managed to catch up with Alyssa's logic. "It can't predict the fact that flipping upside-down will prevent it from getting closer. But I bet flipping upside down is the fastest way it has to get closer to the ground. [Appraise], and... let's see that logic, and why did it have to be that. Okay, that's... just, just lovely."
+
+"And that sounds like my cue to leave you to it," Alyssa snapped her fingers before she could somehow get snagged into whatever Oliver had clearly just discovered. She had done her part. "I'm gonna drop these crystals in your workshop for later, 'kay?"
+
+She fled before she got an answer.
+
+"Elbows up slightly more," Jacob nudged her arms such that they were parallel with the ground with the reed he was using as a staff, then stepped back and nodded.
+
+"Really?" She asked, skeptical. "This feels like it breaks my structure entirely. How am I supposed to put any kind of force into my blows when my arms are almost perpendicular to my spine?"
+
+"You will not fight in such a manner," he answered. "This is merely the start of the Stance. But it has its own structure."
+
+Everyone knew about Warrior's Stances. Well, everyone who knew how to fight, anyway. Some people liked to downplay them, like they were just pretentious names for proper footwork, while others talked about them in hushed whispers like they were some kind of omnipotent insta-kill power. But mostly, Alyssa had understood that it was the collective name for the not-quite-spells that having magic and being Homo primus granted them the ability to use.
+
+Punching ghosts or other intangible creatures was technically called Wind Stance, for example. Because it helped when fighting the wind, or something. And Bloodletting had some stance name, but hells if Alyssa could remember what it was. Probably Healer Stance or something like that, because it was about causing injuries that were more than flesh-deep, and in so doing prevented quick-healing creatures or shapeshifters from just closing up their wounds.
+
+She'd been under the impression that was... kind of it, as far as Stances went. Not that there weren't more, but that they were singular tactics useful for niche situations. She'd known one guy who claimed he knew a Stance that let him double-jump, but she was pretty sure that he'd just been using a Skill and pretending. Which was kind of the problem. It wasn't that Stances weren't cool, they were just... worse than Skills, for the most part? Like a cousin to casting, just without the cool factor of being a Mage.
+
+And then. Jacob had parried a freaking sandstorm and attributed said success to a Stance.
+
+So Alyssa figured it was time she try to pick up some new tricks. Was she spreading herself a bit thin, trying to expand her skill combos and learn casting and learn about industrial production capacity and now learn about Stances?
+
+Shut up, me.
+
+Nah. She was fine.
+
+"Are you paying attention again?" Jacob asked, and Alyssa hastily corrected her stance. Er, her Stance.
+
+"Yep! Sorry." She hid the embarrassment at her brief mind-wandering being noticed.
+
+"Good," Jacob didn't seem too annoyed, but Alyssa decided to not push it. Pure focus from here on out.
+
+...her nose was itchy.
+
+"I want you to concentrate Force in the tips of your fingers, right where it meets the haft of your axes. Ensure your pointer finger is extended out fully, such that it is flat against the haft."
+
+She did as she was told, turning her eyes towards her grip. There weren't... many situations where you wanted a finger other than a thumb to be flat against the hilt of a weapon - probably because it would be easy to break if something went wrong, but she had her hands roughly shoulder-width apart at shoulder height, and the head for each axe was roughly in line with where the other hand was.
+
+Concentrating Force mana was practically as easy as breathing at this point. Being the element Associated with motion, it was easy to nudge through base physical movement. Her particular flavor of mana sense had made it super easy, and definitely wasn't a crutch like some of her classmates had liked to say, and made it feel more like balancing something on her fingertip. Tricky at first, but it really was just a matter of getting used to it.
+
+"Hmm," Jacob mused, stroking his beard. "It is the wrong tone of Force. Try some different approaches."
+
+"Very helpful," Alyssa flatly replied, but dutifully pulled on her magic through muscle and soul twitches alike, doing the magical equivalent of rotating her torso while keeping her feet planted, and otherwise doing stuff until Jacob held up a hand.
+
+"That is correct."
+
+"I'll take your word for it?"
+
+"Do not settle for that. Keep it going, feel out the differences, and attempt to perceive the specific nature of the Force flowing through you."
+
+It took Alyssa a few minutes to figure out what he meant, and those minutes were non-continuous, because she kept losing whatever specific Force type Jacob was going for, and needed to fiddle around with herself until she got it back. Really, she was glad her non-specialized Dexterity was at twelve, because otherwise her joints would have definitely locked up a few times, but...
+
+"Oh. I think I feel it?"
+
+"Describe that which you sense," Jacob was sitting in a lotus position, staff across his legs, on a nearby rock.
+
+"It's... there's a current of Force running through my body. It's starting in my toes, going up my legs, doing... something weird in my torso, and then splitting into multiple currents? Like, I think there's some running into my head, but most of it's going through my arms and into my hands, then... into my weapon? Yeah. Definitely into the weapon. It's similar to how Bloodletting feels, but different. This Force is less like me enacting motion and more... how it feels when I'm on something moving really fast, but not myself moving."
+
+"Good. You are correct. You are accustomed to the chain of the body being the source of your leverage with your weapons," Jacob rose and paced around her. "The purpose of which is?"
+
+"To use the muscles of the entire body, not just the arms, in a blow."
+
+"Yes. This is similar. A Stance is built upon proper physical structure, but so too must your mana be structured appropriately. This leverage, against the immaterial world, can then be utilized to great effect. In some ways, you are not using Force, you are embodying it," he eyed her. "A proper Stance enables you to draw upon all the mana available to you, not simply that which is within your mana 'pool.'"
+
+"I'd say Oliver already beat you to the disdain for the terminology of a mana pool," Alyssa shrugged. "But really he just beat you to the rant. I learned long ago how wrong it is."
+
+"Good. Then you already know how much of a misnomer it is."
+
+"Yeah. Capacity is like... how much mana is you, not how much you hold. Everyone's soul is their personal reflection within the Tapestry, and what we use for spells and that kind of thing is... higher energy mana? Primed mana? I never did quite get that. I know the soul doesn't actually get bigger with Capacity."
+
+"Nor is it particularly relevant," Jacob dismissed. "But where the soul begins and your surroundings end can often be blurred. The System is a portion of the soul. Certain markings can be a part of the soul. Aura can enable your soul to explicitly co-opt that which is near you, but even without it, we constantly interact with the world around us, and in so doing we leave our mark upon it. And it, on us.
+
+"This is where the Song becomes relevant." He swept his staff along the ground in a graceful arc. "That is the wrong Force again."
+
+Alyssa muttered and returned to the stance. It was kind of awkward, but apparently it was important for her to hold it even while Jacob was lecturing her.
+
+"The Song is the dance we follow, the patterns we abide within, the culmination of efforts before us. It is the interplay and patterns which have come before and which exist now."
+
+Alyssa would have nodded if she wasn't worried about doing so messing up her Stance. When she'd been a little kid, it had been one of those elements, like Bread or Friendship or Wolf, that had a stupid-sounding name and as such nobody took seriously. She'd learned better eventually, particularly when she'd met a guy with a set of Song-based abilities that helped him develop pseudo-Skills in pretty much any mundane task through simple repetition and practice. Or have the fact he did a lot of push-ups help him with push-ups even beyond how it helped his body get better. It had been centered around some Skill along the lines of [Practice Makes Perfect], and he had practiced a lot of things.
+
+"The Song is not your friend, nor is it your foe. It simply is."
+
+Knowledge and Song would probably make for some killer divination classes, wouldn't they? She should ask Oliver.
+
+Jacob had somehow noticed her momentary lapse in concentration, and she drew back slightly at his stare... interrupting the flow of Force through her body and forcing her to shift slightly to get it back.
+
+"That Song is, however, one of your best tools to connect to that which is otherwise beyond you. When you are a part of the Song, who you are becomes more transcendent, a portion of a much larger system, and in so doing, far more capable of pulling power and mana along the metaphysical chain of the body, which you are currently experiencing with Force." He looked at her. "You are, as you are now, drawing in Force from the Song and propelling it through your body. Do not resist."
+
+"Don't resist what..." Alyssa had her own question answered as Jacob swept his body close to hers, and suddenly she was simply... following his lead. Like a dance where she didn't know the steps but could do them all anyway. Then their weapons got involved, and Alyssa got the truly weird sensation of having her body defending itself despite her brain not being at all engaged with what was going on.
+
+And then she was out, and she staggered to the side, chest heaving.
+
+"That..." she began.
+
+"That was the Song. The eternal dance. I pulled you into it, that you may gain a feel for what it entails. You did well, keeping time for much longer than I had anticipated."
+
+"That was me doing well?" She protested.
+
+"Yes," Jacob answered. "Now, are you prepared to do so again?"
+
+Alyssa pulled herself up, steadied her breathing, and started channeling Force through her again. Immediately, she started feeling better, the steady influx of mana she got from the local Tapestry redoubling and refreshing her body. She didn't join the Forerunner Program to pass up on cool new tricks, and she narrowed her eyes at her teacher.
+
+"Bring it."

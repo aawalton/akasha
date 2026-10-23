@@ -1,0 +1,117 @@
+[Order Mana], Oliver commanded.
+
+The skill echoed through his soul, the threads of Technology and Arcane which he could directly sense coiling around a complex web of other elements he had a more tenuous grasp on. The entire mix was more complex than he could readily follow, but he had used the skill often enough to know what it should do.
+
+It should expand outwards, casting a net into the surrounding Tapestry, then spinning itself into a tunnel-river, with tributaries all feeding into a central current. Then it would push forwards, creating a structure that bore superficial similarities to a leyline.
+
+This time, like all other trials where Oliver had used his most mysterious of skills outside of First Tower or certain portions of the Ironroad, the skill's structure stretched out into its web, then stretched, and stretched, and stretched... and then entirely fell apart.
+
+He sighed, then shook his head for Henrietta's sake, "No luck."
+
+Henrietta merely nodded. "Alright. Well, it was a bit of a long shot. Your familiar core is still working though? Good. And you got the ballista already working, right?"
+
+Oliver nodded, then nodded again. Whatever link [Heart of Technology] had formed with their first clockwork heart had kept it running even where it nominally shouldn't have, which was promising. And the enchantment he'd laid on one of the Drivegear sides had failed, which wasn't the best sign, but the newer models were using a different design thanks to their dependence on broadcast glyphs, so they'd be less likely to break. And they couldn't just replace the part with one of the newer Drivegears, because of that exact same reliance on broadcast glyphs.
+
+Henrietta hopped on the back of her big dragon, and extended an ink-flail down for Oliver to grab onto. He did so, and a moment later was yanked up as well. He settled into an intentionally-designed saddle-like spot between two of the creature's vertebrae, but as the megafauna tensed beneath him, preparing to launch into the air, Oliver realized something he'd forgotten.
+
+"Wait!"
+
+Instantly, the inkling stopped moving, and Henrietta turned back to look at him. "Is there a problem?"
+
+"Oh. Uh. No? I was just going to cast a windshield spell," Oliver suddenly wondered if he'd said something badly.
+
+"That would be a good idea, Smith. You're welcome to do so."
+
+It only took a few minutes, half of which was Oliver digging through his side-bag for the spell tablet he'd enchanted with a wind barrier pattern, and then they were on their way.
+
+This was, Oliver reflected, far more comfortable than the way out had been. The heavy whumph of the dragon's wing-flaps were muted, the wind wasn't burrowing its way into his eyes, and Henrietta's hair wasn't flapping every which way.
+
+Alyssa was still technically faster than riding the dragon, but by the time the commute was less than a half-hour, it was hard to care as much.
+
+Getting off the big dragon was quite a bit easier than getting on it had been. Henrietta landed a bit outside of First Tower's walls, next to a rock outcropping roughly level with the dragon's shoulder, and from there Oliver could shimmy off its spine and do a quick, scrabbling hop onto the ledge. From there, it wasn't a very long climb, with plenty of handholds and places to stand.
+
+Soon, he'd have a proper means of personal flight established and he wouldn't need to deal with it whatsoever, but he was having all kinds of trouble getting it working in practice. The second-generation placement brackets were able to lift far more than the first generation, and could even lift him, but they were also stringently limited to only operating above or near a ground-plate that they used for 'leverage.' It would be amusing if he made himself a flight platform before he was able to make wings, as the latter was far easier in the abstract, but required cloth with particular properties, and they didn't have any cloth. Though, he preferred flight platforms to wings anyway, it was if anything a benefit. Not that he had much time to make either, of course.
+
+Henrietta was still lingering when Oliver got back to ground level, making him expect she had some additional task for him, but instead she just walked away without a word. That was fine, the flight back had given him plenty of time to think, and he was ready to try some experiments.
+
+While their efforts to expand their magical infrastructure were going quite well, there was a fairly large hole in the bottom of it all: [Order Mana]. Without that skill, they didn't have broadcast glyphs. Without broadcast glyphs, they couldn't do single-rune enchantments. Without single-rune enchantments, it would take at least a day to do each of the multiple individual artifacts that went into a single clockwork heart. If each part of a clockwork heart took a day, making one would easily take a week. And they needed so, so many of them if they really wanted to get their Factory truly up and running. Transport carts alone, the current bedrock of their iron supply line, were going to take a really long time to individually build and assemble.
+
+The ability to apply an enchantment with a single symbol would probably also be vital to whatever fully automated enchantment method they came up with, but that was still in the future so... it already counted for other reasons.
+
+But. While on paper - papyrus, whatever - while on paper their clockwork hearts were limited to only operating in places where [Order Mana] worked, there was a very promising workaround which would probably be easier than reverse-engineering [Order Mana] and figuring out a way to reliably increase its range.
+
+Namely, a clockwork heart could make for an excellent fungible-abstraction spell target.
+
+That wasn't quite an official term, but Oliver felt it was perfectly descriptive of the idea. They were an interchangeable commodity - fungible - because they'd all been Attuned to be the same artifact. That didn't mean they were all identical, but they were magically standardized.
+
+The second part was that they represented an abstraction layer. Thanks to the way he'd built out its Attunement, it didn't really matter the exact means the motion happened. If he later developed a more efficient Drivegear which turned faster, with more torque, or utilized a different power source, he had a discrete thing called a clockwork heart that he could magically work with. That was where the spell target came in.
+
+It wasn't like a focus, designed to make all the mana it interacted with to change smoothly and with certain biases. Instead, it was more... sticky. Magic would affect it more easily, with greater effect, and with greater focus. Like splashing water into a funnel, more of the stuff got where it was supposed to.
+
+It wasn't really a happy accident, because he'd had this in mind as a backup plan even then, but that 'stickiness' could theoretically be leveraged into making it a kind of temporary battery. By devising a spell that packaged an extra-large amount of broadcast glyph-based mana, then casting it onto a clockwork heart, that mana would then linger in the heart even once it was removed from First Tower's influence and allow the artifact to keep working.
+
+In theory.
+
+There were a ton of unknowns around the broadcast glyphs, but... Oliver didn't really need to know everything beforehand in order to make use of it. But he was confident in his magic and that he would find some method to make it work. That the familiar core could function, presumably thanks to its connection to him, was an excellent sign.
+
+So, he was starting off with something he'd already devised: a spell to accelerate the heart.
+
+"I, Oliver Smith the [Erudite Enchanter], do speak and expect to be heard." He had a couple of wands he'd custom-made for this task tied to his forearms, allowing him to motion with them as required while not requiring dedicated and valuable finger-dexterity. They weren't the most secured, though, so he still needed to be careful to avoid flinging them into the distance and screwing up his cast... again. "For the heartbeat of industry does tick, yet forth comes the race. Behold, o ye clockwork heart, as thy beat and tempo are steady and sure. Awaken, sleeper! Behold, the time for action has come. Here, I come to support you. With my strength and my might, I rouse you and push you. May ye exemplify yourself, taking my foundation and moving forth with alacrity."
+
+He needed to actively sustain the spell to keep the acceleration effect going, but the drain wasn't too bad if he used [Order Mana] to supplement it.
+
+Of course, he couldn't actually use the skill for the next part of his test, which involved stepping off the earth bulwark designating the edge of First Tower, then taking a few steps into The Jungle itself. When he'd done this before without an active spell, the clockwork heart immediately stopped ticking. This time, it kept going for perhaps a second as the speed dramatically reduced. At that point, the spell simply started accumulating within the artifact's casing with a sensation that felt a bit like an ever-tightening spring.
+
+He dropped the spell, and the magic began to dissipate, and scrambled up the earthworks back into their base. The wards parted around him thanks to his lack of hostility, but he could still feel them as they did so, a kind of snooty sense of superiority looking down at him, but it passed as soon as it came. As soon as he was back inside, the clockwork heart briefly whirred as the pent-up magical effect unloaded nearly all at once, and then resumed its standard ticking pattern.
+
+That was a good sign. It meant the casing did cage even complex magical effects.
+
+For his next experiment, Oliver relocated to where the broadcast glyphs were installed at the base of the System node tower, and used [Order Mana] to direct a current of freshly-charged mana directly into the clockwork heart. The heart didn't change its tick-speed, but the magic holding it together did feel more robust. It didn't linger once he left the bounds of First Tower... because he was using [Order Mana]. He should have seen that one coming.
+
+His next attempt involved a quick spell synthesis between his tickspeed spell and the magic powering the broadcast glyph, replacing the baseline mana broadcast with a more directed spell. It was exhausting, but it did allow him to keep the spell going even outside First Tower. However, because he was only hand-broadcasting the motion slide enchantment, the phlogiston radiator didn't work, and the artifact very quickly got clogged with waste mana and ground to a halt.
+
+That in turn lead to a bit of a diversion wherein he wanted to create a generic spell template, which he could use to mimic the effects of any broadcast glyph.
+
+His 'first' - still requiring several tries and iterations to get right - design did work, but required him to directly use the broadcast glyph as a reference for [Scrollcast] and thereby forcing him to start atop the Spire. His 'second' version instead just required him to reference any of the receiving glyphs, so long as it was actively working. He wasn't able to figure out a version that he could just cast and make work, because broadcast glyphs were intrinsically tied to the reference node - the information needed for the enchantments to work simply didn't exist within the base symbol, and Oliver couldn't just magic up a full-on enchantment that easily.
+
+He did make a note for himself to try making a copy of the broadcasted enchantment and see if he could use it, which seemed promising but was definitely too much of a tangent. That would take a couple of days for what was a side project of a side project.
+
+But, with his new sustain-broadcast spell, Oliver could absolutely take a... he needed some mental way to refer to enchantments that were dependent on broadcast glyphs. Networked? Part of the Broadcast Network. That worked.
+
+His extend network spell allowed him to take Networked Artifacts outside of First Tower without issue beyond 'the mana cost...' and he forgot to extend the phlogiston radiator enchantment again. The heart sputtered out in less than a minute as the waste mana clogged up the enchantments.
+
+Okay, his new version of the extend network spell could be cast with a working artifact as a reference, and it would automatically copy all Network dependencies of the item into the active spell-construct, and then Oliver could take that artifact out of the network while keeping it working. He could also - after another version iteration - just copy dependencies, then leave the network, and get a different copy of the artifact running as well. The earlier version only worked on the exact same artifact he'd copied dependencies from thanks to an overly restrictive targeting selection. But that was in the past!
+
+Combining extend network with tickspeed up resulted in a clockwork heart-specific spell, but one which Oliver would be able to [Cogniprint] into a spell tablet which he could remove from the Broadcast Network but still retain full functionality. That he foresaw being useful in the future, when something inevitably broke down outside of the network and he'd need to go restart it. A single spell to cast, and one that didn't require a full clockwork heart to be on him at all times. But that was not his current task, and he needed to make sure he was happy with the spell design first anyway.
+
+The big problem with this first spell, which he was mentally calling chargeup, was that it still required his constant attention. If he [Order Mana]'d it, he could barely outpace the natural pace at which the clockwork heart just... did its thing.
+
+That led him down a bit of experimentation as to what would happen if he prevented the clockwork heart from moving - by separating the pawl from the Drivegear with a stick, in this case - the answer to which proved to be that mana did accumulate... but his phlogiston radiator wound up venting out anything appreciable. Why it hadn't done so for the tickspeed up spell was a bit of a mystery, but maybe he just hadn't put enough power into it.
+
+Though.... that was an idea.
+
+The phlogiston radiator worked by taking in Force phlogiston and transmuting it into Light. That process wasn't fully instantaneous, and was why the Light Crystal needed at least a few seconds when first starting or when disabled to reach its full glow or fully power off. That was because Crystal was really good at storing things. Could he make some kind of Power Crystals? Something to store a chargeup spell and release it over time.
+
+Yes, yes he could make Power Crystals. Just... not as he had initially planned. They were more like... memory caches than a proper power source. That was because his original idea of having them be a proper spell cast-over-time artifact didn't work, but a few redesigns later, and thanks to using Clark's ⟨Restore⟩ as a skill reference, it became far more straightforward. The basic idea was simple - Crystal was great at capturing mana, turning it into a structure which could later be used for other purposes. The Light Crystals used that property to pull in certain kinds of power - mostly Force phlogiston - and then 'buffer' it, acting like a capacitor and releasing that power again as Light.
+
+His ‘Power Crystals’ worked similarly, but he had imbued them with just a touch of [Cogniprint] and [Scrollcast] that allowed them to store information as well. By capturing the information accompanying the mana flowing into the crystal, and aggressively running ⟨Restore⟩ over that magic to keep its integrity up, the Power Crystals effectively acted as a mana capacitor, being charged with Broadcast Network-aligned mana, and then releasing it as its immediate environment lost that mana.
+
+So they weren't really power crystals, he supposed. They were more like... a memory buffer, that could carry generic instructions, to make sure his glyphs kept working the way they were supposed to. Network Caches. That worked for a name, and he adjusted his enchanting to ensure they showed up accordingly to [Appraise] and similar.
+
+They weren't super hard to make, at least. But it did require a new batch of glass to be created, which was a full-team endeavor, but that only took a few days to organize, and they also got a fresh batch of Light Crystals made, and they were running a bit low on those anyway.
+
+Those needed a housing of their own, a little thing of ceramic - prototyping ceramic enchantments was so much easier with their instant-firing kiln - and the enchantment was super easy. He made a dozen of them in a single hour, then used some bronze wire to attach it to the inside of the clockwork heart he was using as a prototype. Future versions would include a natural connection point, but this would do for now.
+
+Much like the status light he used in the phlogiston radiator, the Network Cache likewise glowed when it was full of mana, but this time it went from blue when full to red when depleted.
+
+And they worked! When charged, the clockwork hearts constrained the pseudo-Networked mana given off by the Network Caches within them, and the storage could be... well, Oliver hadn't figured out a cap to how much power they could store. There definitely was one, he just hadn't found it yet. It was at least on the order of hours, and was probably around a day, if his calculations for optimal performance and his estimations for how far from optimal they were.
+
+The reason he didn't know exactly was because the chargeup spell wasn't very... fast. It wasn't the most efficient spell to begin with, and when Oliver designed an enchantment for it to automatically charge any clockwork heart placed within it, it got even worse. Instead, to charge a clockwork heart the mechanism needed to be stalled, and then an extremely long process began of slowly charging up the Network Cache - by Oliver's experiments, two seconds of in-station charging resulted in one second of out-of-network operation. At least operation time in the Broadcast Network didn't consume charge from the Network Caches, but it still wasn't ideal.
+
+That two-to-one ratio meant they'd either need to build three times as many transport carts - the primary use-case he had in mind at the moment - as they nominally needed, or figure out some way to swap out fully charged hearts for any depleted ones they came back with.
+
+Hey, at least they had a solution, and Oliver was certain that over time he would come up with more and more effective enchantments for the charging stations. So it wasn't going to be like this forever.
+
+But still.
+
+Why were things so hard.

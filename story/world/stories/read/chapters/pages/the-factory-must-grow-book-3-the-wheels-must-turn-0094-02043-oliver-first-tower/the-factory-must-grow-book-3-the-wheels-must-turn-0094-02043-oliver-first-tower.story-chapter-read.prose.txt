@@ -1,0 +1,119 @@
+It was time.
+
+The one thing which every Artificer knew, was how to catapult a civilization from the iron age into the industrial age. It had admittedly come with a few assumptions, but with the clockwork heart looming before him, the industrial age was coming for them. He needed to be ready.
+
+The problem at the heart of the industrial age was a simple one, and an immensely common one. It was the problem which eternally plagued Artificers, Engineers, and Inventors of all kinds across all histories. The truth that simply making one thing wasn't enough. They were sculptures that may or may not have done something interesting, but were nonetheless nothing but novelties.
+
+Prototypes, parlor tricks, engineering samples, flashy and legendary artifacts of power. All immensely cool, all incredibly neat to see and study and create. But impractical. Irrelevant for a project of this scale.
+
+While an artist made one thing, engineers made a thousand. And the key to making a thousand of something?
+
+Precision.
+
+Oliver already had a fairly basic lathing tool from previous work, probably when he was making a set of wands at some point? Not that it mattered too much. It was a tiny little thing, a wooden fixture connected to a loose bow. To use it, he would loop the bow's string around the to-be-lathed object, then move the bow up and down such that the object would spin against the string, turning it semi-quickly and... well, working as a lathe. Needing to dedicate a hand to its use was annoying, so Oliver only tended to use it when he couldn't use a spell to spin his target.
+
+Which kept happening, annoyingly. He usually needed to turn his magic elsewhere, or just needed to devote more attention to whatever he was working on than he could spare when casting such a tricky spell.
+
+It was also annoying that it was a tricky spell, but.... he just didn't have the right reference material for [Scrollcast] to do most of the heavy lifting. The conjuration of rotational Force wasn't straightforward, after all. He'd need a radically different enchantment architecture to directly turn things. And as such, his spin-tool wasn't 'activate and forget' yet. With enough work, he could make something, but with enough work he could also just make... a normal lathe.
+
+And for that, he needed screws.
+
+Wood wasn't Oliver's favorite material to work with, but at least Jacob's assistance meant he didn't need to do it all himself. And in fact, he didn't even need to make Jacob do all the work.
+
+Because the machine he was actively building would help with that very process.
+
+Making external threads on a screw wasn't that difficult, all things considered. Sure, it wasn’t trivial, but they could make a wooden frame to hold a straight and round piece of wood in place with a diagonal strip exposed. Then, Jacob could cut a straight line into the diagonal strip, curving along the surface of the wood as he did so. Then, they would adjust the screw-blank until the end of Jacob’s previous cut became the starting point of the next cut, and in so doing they could create quite regular spirals up the side of the screw. From there, it was just a matter of deepening them, and that wasn’t hard.
+
+They weren't the most precise things, but that didn't matter too much for this first stage. But to make a nut, or something that a screw could otherwise easily twist through without sliding, the angles simply didn't play all that nicely with the human wrist, even with Dexterity in play.
+
+To accomplish that, they started with a hollowed-out cylinder of wood, large enough to hold Jacob's first wooden screw in place. It had originally been a branch a bit thinner than Oliver's arm, but they'd lathed it with Oliver's last lathe, making it perfectly smooth before they started carving screw-threads into it. It might have technically been a bolt, actually, on account of having no point, but Oliver had other things to focus on right now. Such as sliding the template screw into its cylinder. It wasn't quite snug, there was a fair amount of wiggle, and as such Oliver had enough play to adjust its exact orientation while he slid three sharpened dowels through pre-drilled holes in the cylinder. He had those bite into the screw threads, such that when the screw was turned, it also moved forward.
+
+At the end of that screw, he chiseled out a small slot, and into said slot inserted a somewhat smaller wooden dowel, so that when the screw turned so too did the dowel. In that dowel, he installed a metal cutting blade whose length he could adjust with just a bit of work. It was important that it wasn't simply friction-fit into its hole, so Oliver instead worked out a quick means of sliding thin pieces of wood underneath it, specifically from the side so that adding or removing them would be easy.
+
+Then, they affixed a wooden ring in line with their screwing contraption, with a hole large enough to accommodate the cutting blade. Overall, the machine meant that simply by turning the original wooden screw, it would work to cut an internally-threaded equivalent out of wood in line with it. They just needed to adjust the length of the cutting blade each time to keep things progressing without binding, which truly wasn't hard.
+
+Once they had one threaded nut, Oliver swapped the original hollowed cylinder for their new nut, to better improve precision and lessen the amount the screw could wobble as they were cutting, and then used that contraption to cut a more precise screw with an inverted nut-making machine.
+
+The resulting screw, cut more evenly than what Jacob had managed to do, was used to cut one additional nut for even more precision - and then another, because Oliver messed up with setting the blade at one point and wound up ruining it.
+
+Then came the metal versions.
+
+In comparison to wood, which could just naturally show up in cylindrical shapes and which could easily be hand-turned into relatively precise shapes, metal was... a lot harder to work with.
+
+The first iteration of their metal rods were about half as thick as Oliver's wrist and made of cast bronze that had then been forged and filed into a shape that was as close to straight as was humanly possible. Then, to get it just a bit closer, they soaked strips of animal hide in water and caked them with sand, then used those as makeshift sandpaper to try and smooth out the surface even more. Then, using Jacob's metal files and small plate-blocks of bronze, they created a pair of brackets perfectly sized for the metal rod to fit in. It could even turn within them, albeit with more friction than was comfortable if Oliver didn't frequently cast a motion slide-based spell on them for lubrication.
+
+And then, finally, they were ready to create a lathe.
+
+Lathes weren't that complicated a tool in theory. Much like how a pottery wheel enabled potters to create extremely round and symmetrical ceramic items, a lathe was also designed to make rotational symmetry far easier to come by. But cutting metal on a lathe required quite high rotational speeds, extremely steady cutting implements, and very little room for slack or wobble in the overall construction. Compromising on any of those things would make the end result markedly worse, so Oliver expected they'd need to do several iterative passes on the design before they got to the level of precision they'd truly need. But the screw was an excellent first piece. They would be using it to control the exact location of the tool post and therefore the cutting blade, and as such could very finely and consistently control the size of the end product. The cutting blade was firmly fastened to the tool post, which was connected to the lathe's carriage with their screw. The carriage was then resting on two very flat bars of metal directly attached to the lathe, and could be slid up and down its entire length.
+
+So, thanks to the most precise measurements they could make ensuring the carriage ran perfectly parallel to the spindle, which spun the metal, when they moved the carriage along the length of its run, it moved the tool post and corresponding cutting blade in only one dimension - lengthwise. So, by ensuring the cutting blade could not move through any means other than turning their screw, they could guarantee a very consistent metal rod would be produced.
+
+Overall, the lathe was about two meters long, shining bronze and gleaming iron, and probably weighed a literal ton. They'd set it up on a small patch of rock near the Blast furnace, off the Spire yet still a little ways from where their common area and sleeping hut were built. It had an outer support framework of iron bars making it chest-like in shape - twice as long as it was tall or wide - and a very basic internal structure.
+
+It was, after all, just the spindle and the carriage. Well, plus the bars the carriage was resting on, and the tailstock opposite the spindle to help keep any metal in place... But those were basically accessory parts to ensure that the spindle and carriage did their things properly, so did they really count as separate?
+
+The 'spindle' itself was also rather basic. In lieu of figuring out a complicated gripper mechanism, Oliver instead made a cylindrical cup out of iron a bit larger than the metal rods they were looking to refine, then enchanted it and some iron sand with an inversion of the motion slide enchantment. Combined, it could be worked via spell into functioning as a quite strong, albeit temporary, metal bond. It did consume the iron sand, rusting it away when the spell ended, but it wasn't like they were short on iron. Opposite the spindle, there was a metal spike that could be advanced or retracted via a screw-system, meant to keep the far end of the rod from wobbling.
+
+It was a tremendous pain to get all set up the first time. But it should get easier over time, when they had more screws, more precision-constructed rods, more precise everything to make moving the pieces more consistent, and stronger in their respective positions. Now, Oliver needed to figure out some way to hold every movable piece in place exactly where it was meant to be. The spike to help hold the rod in place, the socket meant to hold the spindle in place, even the carriage as it rested upon its metal rails.
+
+But finally, finally... the lathe was ready for use.
+
+And once they used the lathe, they could finish making the lathe. And once the lathe was made, they could make gearing and clockwork systems. And once they made those, they could automate the lathe and so, so much more. Fortunately, it for once wasn't that unbearable to get started. Because they had Jacob.
+
+All metals had a range of speeds which they cut best at, be it on a CNC machine, OCA, or indeed a lathe. The specific 'speeds and feeds' of any given project were monstrously complicated, and depended on the material being cut, of course, as well as the material of the cutter. The enchantments also played a role, obviously, and... actually. Oliver probably could ignore some of his usual constraints, given he wasn't working on high-end magical machinery. Certain speeds or even rotation patterns could have an impact on the final product's magical suitability for certain magical roles, but the lathe he was working on was mostly just mechanical.
+
+The fact he was working with wrought, rather than cast iron rods also would complicate things, but he couldn't find anything on how cast and wrought iron differed when lathed. Everything in the Encyclopedia Systema just said 'iron' despite the fact wrought iron was so much softer than cast iron... well, better that than trying to work with the extremely brittle carbon-rich stuff, and they could adjust when needed. So he was starting around four or five hundred rotations per minute.
+
+"You ready?" he asked Jacob.
+
+The warrior gave a brief nod, then started spinning the crank-handle they'd wrangled together.
+
+In the absence of viable gear-exchange ratios, the most viable option for their lathe was a direct-feed crank. For Oliver, that was completely untenable. He could maybe do ten, fifteen RPM on a good day for something like that. But for someone like Jacob, who was not only far more physically fit than Oliver was, but also had Strength as a major stat - with points assigned to it - and points in Dexterity to help with coordination...
+
+The clanking of imprecise parts clanging against one another swiftly became an underlying hum of metal clicking and clacking. Oliver, starting at the far end of the rod, carefully brought his cutting blade against the surface of the rod. There wasn't much of a screech, just a low scrape barely audible over the general noise of The Jungle, and a sudden buildup of dark grey powder against the cutting tool, then beyond. Then, once he was satisfied with the depth, he began to turn the screw which the cutting block was attached to. It wasn't... perfect, by any means. Without a precision rail to steady against, he knew this first rod wouldn't be perfectly straight, but it was better than what they had.
+
+Of course, they weren't able to do everything in one pass. Superhuman or not, Jacob still only had so much stamina, and so frequently needed to rest. But thanks to the absolute steadiness of the screw-positioned tool post meant they could take breaks, and it wasn't a problem. They weren't operating on nearly enough decimals of precision to concern themselves with temperature, humidity, phase of the moon - not that there was a moon to have phases here - or any of those other fiddly parameters. They could just spend a few minutes lathing, take a break, spend some more time lathing, repeat until Jacob needed more rest, then do something else until the next day.
+
+Jacob spent a lot of his time resting just filing gears into shape. Long-term, they were planning on figuring out a way to cast the gears in either bronze or iron, but as it stood it was better to just hand make them. Gearing ratios were incredibly important any time they wanted either additional power or extra speed, and while the latter was more important for their lathe, there were some general plans for both replacing their... primitive river-powered crane with something a bit more reliable, and made out of metal, and that would definitely benefit from extra torque. Also, lots of mass-manufacture techniques of fiddlier pieces would require a high-pressure press, and that very much would need every bit of mechanical advantage they could leverage.
+
+But while Jacob worked on that, Oliver split his attention somewhat. Jacob's latest subskill, ⟨Rimeforge⟩ enabled him to utilize any object he wished as a skill focus, with the chosen item altering the form and properties of the resultant [Frostblade]. It was almost casting-adjacent in some ways, but while the [Frost Knight] still needed to do a lot of trial and error to get a feel for its intricacies, there was one simple thing that would help a lot. Namely, developing a focus that made [Frostblade] perform exactly as normal, while being far easier to conjure. With Jacob's limited mana capacity and generation, that would actually let him have the spare mana to experiment with the weapon.
+
+So far, Oliver's biggest success was a reed, bronze, and glass sword which made it twice as easy to conjure the blade... but also required a steady supply of mana to keep active. Which kind of defeated the initial purpose.
+
+He was still working on figuring something out. ⟨Inlay⟩ kept pointing him at aluminum as an optimal material to make a non-actively maintained sword. Which yes, obviously would work, but Oliver didn't really need his subskill to tell him that and besides, aluminum simply was not available to them. But, the skill tended to point him at the simplest way to reach the point which its internal mechanisms could take charge, and right now it considered 'make a blade out of a solid hunk of aluminum' as the simplest, without taking into consideration the metal's non-availability. Which in his opinion was a bit of an oversight.
+
+He was confident he'd be able to get around it, though. By using the subskill in conjunction with [Appraise] - and the Window of Words and Winds if he could pry it away from Alyssa or Henrietta for long enough - he could quite rapidly check various wood types, low-magic plants, and similar sorts of things to see if they might work instead. He'd made some progress, but it was ongoing. Maybe with a few more levels or supplemental foci, he could get material lists better-tailored to the materials he actually had on-hand, existed in the area, or were already being created by their fledgling Factory.
+
+Anyway, the second main project he was working on was preparing the other pieces of a clockwork heart for final creation. They still needed their precision iron bar-stock, possibly case-hardened into steel afterwards, but there were a lot of pieces that went into even a 'simple' mechanical device. It needed a driving gear, obviously, and that Drivegear would need to be mounted somewhere. That 'somewhere' was going to be 'between two holes precision-drilled into the outer shell,' and it would be kept in place thanks to gears on each end of the shaft and two bronze stoppers just inside the outer shell.
+
+Incidentally, said outer shell also needed to be made. It had to be at least partially see-through, because the phlogiston radiator that would keep the Drivegear functioning needed to be able to radiate, and considering it was radiating light, that obviously meant light needed to be able to penetrate in and out. So, instead of being able to make a sphere just by hammering bronze, copper, or iron into shape, he would have to get creative. Leaving it open was technically an option, but in practice risked too much by leaving the internal mechanisms exposed. He might be able to bespell it to be lubricated, but the motion slide and Drivegear wouldn't interface properly if detritus got in the way.
+
+He would have liked to make it out of wire mesh, but drawing enough copper wire at a fine enough gauge and then weaving it into a mesh was... probably not happening quite yet. Wire-drawing alone was a process which having an engine with high mechanical advantage would be invaluable for. So instead, he had to settle for hand-smithing a bit of spare copper into a thick wire and then just creating a basic cage, attaching them to two perpendicularly-interlocking rings, which would also be used for the actual spinning shaft. Also on those rings, Oliver made sure to include a few smaller holes, which could be used for rivets or bolts and nuts to hold the clockwork heart permanently in place wherever it was affixed.
+
+By the time they had their precision-made iron rods, most of the remaining design was done. He'd used springy bronze folded over on itself to tension the motion slide against the Drivegear, with that central mechanism also the same size as the outer casing. However, unlike most of the Drivegears he'd made, the iron wheel had a bronze center, with no less than six glass beads spaced equidistant from the centermost point.
+
+Those six glass beads were the most important part of Oliver's phlogiston radiator, and he was leaving nothing to chance. Each one was as spherical as they could manage, and enchanted as they'd been created to function as a focus for light spells. They'd been inserted into their cast bronze casing while the latter was still molten, and carefully tended to with magic to ensure they didn't crack or shatter as the system set fast. Once it had been cooled, Oliver had carved a broadcast glyph reception array in conjunction with each of the six crystals.
+
+That broadcast glyph was paired to a magic circle inscribed into a meter-wide tablet, installed at the foot of the System node tower. That tablet, made mostly of clay but also utilizing unburnt ash, melted iron sand, and even a couple of the blue crystals they'd used in the System node itself, outlaid the magical processes which the Light Crystals would use to absorb Force phlogiston into itself, then expel it outwards to carry it anywhere the light touched.
+
+Oliver was maybe unduly pleased with the inbuilt status indicator he'd been able to build into that radiator. It had been a trick he'd learned in college, and just loved pulling out whenever he could. Because the amount of phlogiston passing through the light was directly connected to how much power the light radiated, it would already just naturally become brighter the more power it was trying to disperse. However, if he forced the light to stay at a constant perceived radiance, using himself and his eye as a template, something fun happened. Because the human eye was most sensitive to the color green, that wound up being the most efficient color to reach that baseline brightness. So, at low loads, the radiators would radiate out green light. However, as the amount of energy increased, more light would need to be released, and the color would naturally migrate to yellow and then red, which didn't look quite as bright to the human eye, but were low energy to compensate. At extremely high loads, it might display blue or purple... but that was unlikely to happen, and was obvious anyway. The green-to-red status indicator was the important bit, and he'd confirmed that it did work with this setup.
+
+Built-in status lights were awesome.
+
+They didn't need fasteners to attach the Drivegear to the iron rod it rotated upon. Just heating up the gear, letting the bronze expand, and then slipping the iron rod inside was sufficient. As the bronze shrunk again after cooling, it would grab on tightly to its iron shaft, permanently affixing them... unless they were operating at temperatures way outside of spec. Something else would probably break before it, in that case.
+
+The device gleamed. Shining, precision metal parts were held in perfect harmony. Magical treatments kept the annoying scrape of metal on metal down, and as Oliver finished casting the spells and Attunement needed to make it into a complete item. Normally, he wouldn't care quite this much about what would normally just be an early-stage prototype, but with the opportunities this world provided....
+
+"The mechanical heart does click, does whir, and does awaken. For this is the First Clockwork Heart, may it too be the first of many. This I do assert, this I do claim. A new type of thing has arrived, may the machines be such wondrous creations."
+
+Click.
+
+Tick.
+
+Tick.
+
+Tick.
+
+The green light came on, and Oliver's smile grew.
+
+[Appraise]

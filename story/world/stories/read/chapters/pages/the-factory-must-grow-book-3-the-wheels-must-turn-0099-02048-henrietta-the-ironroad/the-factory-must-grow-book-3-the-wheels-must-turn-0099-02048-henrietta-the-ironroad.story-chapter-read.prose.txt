@@ -1,0 +1,175 @@
+It was in some ways incredible just how smoothly things were going.
+
+When the biggest problems of the past few days were remaking the press-molds for the clockwork hearts, an emergency run to Ironworks after ballista ammo ran out, and a small steam explosion at the Bronzing Crucible, she considered herself lucky. Yes, it was a pain to repair the gearbox the Crucible used as its cycle-timer from all the molten bronze that had been flung everywhere, but it was far superior to the week before, when the air intake of their first Blast furnace had clogged and the main chamber had become wholly clogged with half-melted iron.
+
+If there was one bright side to that debacle, it had made committing to building a new Blast furnace with purification enchantments an easier pill to swallow, because they'd needed to effectively dismantle the old one. At least they'd been able to salvage a decent amount of material.
+
+It was also absolutely fantastic to get another transport cart running. Their new Blast furnace wound up being a decent bit larger than the old one, and could easily accommodate the higher throughput. It did have two dedicated output spouts, each at different heights to allow for the lighter molten rock that was slag to pour off the top of the denser molten metal, followed by a series of enchantments to further purify the iron, before it was just... poured out into the open air, where it was allowed to cool.
+
+It wasn't ideal, but it was also entirely functional, and as such was very low on Henrietta's list of refinements to make. Right now, they were having inklings moving the iron chunks into a miniature transport cart, and when it was full they would have to manually flip a lever that would send it trundling along its tracks to the Spire Elevator and to the First Forge and smelter enchantment. There, it was typically processed a little before being passed along to the ironrollers, which would, through a series of lathed heat-reflecting rolls, turn it into rods or plates. Iron bars or rails were still a work in progress.
+
+Nearer to the main 'gate,' they had two of the new Network Cache-including clockwork hearts charging. Swapping them out was a bit of a manual process, but by no means a difficult one. Any one of them could easily do it in less than an hour, and that time was steadily decreasing as they got practice. Clark could even use ⟨Restore⟩ to recharge them directly, but doing so was a very inefficient use of their Healer's time.
+
+Alyssa was working with the instant-firing kiln, tuning the physical distance between some of the components. It needed regular recalibration, and Alyssa had proven she had a knack for it. If they didn't recalibrate it, then the odds of a failed piece dramatically rose and they needed to only use fully dried ceramics. If it was properly calibrated, they could take a piece of wet clay straight from the pottery wheel and turn it into finished ceramic in ten minutes.
+
+Oliver and Jacob were working on an Attunement oven for motion slides. It wasn't enchanting them, it was just getting the iron 'used' to being in its new shape. They still didn't know how they'd pull off the automatic enchanting, but the more they could zero in on the enchanting precisely, the less work it was for Oliver in the meantime. They didn't have anywhere near the kinds of sophistication to do that automatically.
+
+It currently took Oliver about five hours to make a single clockwork heart, with an hour dedicated to each of the phlogiston radiator and Drivegear's enchantments alone. The creation of Network Caches and Light Crystals did take about a day with all five of them involved, but that single day also made fifty of each glass artifact, so it was low on a per-heart basis. Assuming normal failure rates, anyway. Most of the remaining time came with the final manual assembly and Attunement of the device, and that would be quite the undertaking to replace.
+
+Clark was getting a new Charcoal Furnace burning, while Tully and one of the sniffer inklings that tended to said furnaces were having a bit of a standoff near his feet.
+
+The Healer barked a few words of power as he stuck a runestone into the clay. While he hadn't quite taken to casting with the same gusto as Alyssa had, he had slowly developed various rituals for his more common tasks. He had some invocational phrases taught to him by Oliver, Henrietta had showed him some of the basics on how rune-block placement could work, Alyssa had given him some mana-stretching exercises, and Jacob had given him some tips for Song-based repetitions to overcome his general lack of flexibility when applying the things he had learned.
+
+That was the thing about Clark, Henrietta had noted. He wasn't inclined to make things complicated. Once he learned something that worked, he just wanted to get that working as best as he possibly could, rather than constantly looking to move onto the Next Thing. It was an admirable trait.
+
+"Hi Commander!" He greeted her. "Are you busy?"
+
+She was always busy.
+
+"Not particularly, Haleford," she responded. "Is there something you wished to speak about?"
+
+He shrugged, "It is a great day. Did you see that there was a squawkbird pair that built a nest near the Spire?"
+
+"I had not," Henrietta said. "You shall have to point it out to me."
+
+"Okay!" Clark looked around himself, "Though I should probably finish up here first?"
+
+Henrietta hid a smile, "There's no rush, Haleford. Show me when we're both in the area already."
+
+Clark nodded, then nodded more vigorously as he finished processing what she said. "Oh! And also, the pseudowyverns brought in a new herb today."
+
+"Did you have Ride check it for edibility?"
+
+"I did! She said it would be edible. But she also said that it might be worth looking at for alchemy reasons."
+
+"I'll have to take a look at that as well, then."
+
+They were slowly building up a bit of a repertoire of alchemically-interesting plants and animals. They could only go for metaphorically low-hanging fruit, and many of the more interesting alchemical uses for materials would require more sophisticated measuring tools than what the Window of Words and Winds and its constituent skills could provide. But low-hanging fruit could often be the sweetest, so they weren't ignoring anything. It was, however, incredibly painful to be slowly grinding dried leaves, mixing pastes, and carefully controlling exposure ratios to explore areas of reactivity that none of their divination capabilities were capable of naturally identifying.
+
+"It is so delightful," Clark idly commented.
+
+"What specifically?" Henrietta asked, pulling her mind back to the present and matching his gaze towards... First Tower? From this position, he could be talking about pretty much anything.
+
+"Look at all this!" Clark waved his hands. "All we have managed to do, in so short a time."
+
+The red rocks of the Spire dominated the landscape, its Elevator halfway up the climb. The pillar of fire of the smelter enchantment was steady against the sky, overlapping slightly with the System node tower. A pair of makeshift bridges crossing the Tower Stream. The Blast furnace lay behind the earthwork walls, a pile of iron ore just inside the First Tower area. A few inklings flapped and moved, the pseudowyverns and remnants of the brick-making project going this way and that. Henrietta had to agree, they had done a marvelous job with the limited materials available to them, in such a comparatively short period of time.
+
+"It really is impressive, isn't it," Henrietta agreed. "Though I do wish I had my alchemy. It would be such a tremendous boon if we had two sources of proper engineering on the team."
+
+She idly shoved away a thought that Mark probably would have already led the expeditionary team to a higher degree of mechanical complexity at this point. That wasn't true, her inklings were far better for labor-multiplication purposes than his dreamscapes. But simultaneously, he might well have made a better choice for a skill to keep. [Refined Calligraphy]... she could replicate that with soot and water, for inkling purposes. Though her technical skills were higher than his, it wasn't like she could actually leverage her expertise without a very different Class and Skills.
+
+"Are we not all proper engineers?" Clark sounded slightly wounded, and Henrietta silently cursed. That had not been intentional.
+
+"No, no..." she sighed, but wasn't sure what to say after that. "I'm just missing [Catalytic Alchemist], is all."
+
+"Oh. Well, is this not more fun, to work without your normal tools?"
+
+"I'm not here to have fun, unfortunately," she said with a bit of a smile. "I've got responsibilities."
+
+"So do I!" Clark brightly pointed out. "And I had different responsibilities too. But because you are the Commander, you can have fun and be responsible at the same time! Nobody can tell you that it is not allowable. And! I find engineering to be tremendously fun! You should do it more."
+
+"The Charcoal Furnaces?" she asked. "You find working on them fun?"
+
+"Oh, sure. Those too!" Clark nodded. "But I mean everything! When I asked Oliver what engineering is, he said that it is figuring out how to get what you want by using what you have. And I have been doing so much engineering! It is such a delightful puzzle, engineering meals, engineering kitchens, engineering charcoal. So satisfying." He made a happy little noise that made Henrietta smile.
+
+"I suppose you'd be right," Henrietta agreed. She was used to engineering happening well after every possible thing that could be known about a material was recorded. Then, it was just a matter of solving equations. Minimizing for constraints of time, of cost, of weight, anything and everything. But there was still that same fundamental enjoyment of putting a puzzle together when dealing with unknowns. It was a more dilute type of enjoyment, to be sure, but she could probably find it if she had the time.
+
+The amount of wrangling that went on with just four people was...
+
+Well, she'd have to think about ways to act as an engineer. For now, she decided to move along the conversation. "How are the runestones working out for you?"
+
+"Fantastic!"
+
+"I'm guessing you can see the mana flows they interact with?" Henrietta asked, eyeing out the pattern he'd outlined along the dome. She'd expected that she'd need to correct at least a few of his placements - for this application, it could be annoyingly finicky, and it had taken her months if not years to get good at it. But Clark had done not perfectly, but nonetheless quite good for how new he was at it. She wouldn't have expected his arcanoception to interact much with the elements they were invoking, but it still made enough sense.
+
+"Yeah!" Clark brightened, "I do not understand why they all get placed so randomly, but I can still see when it all clicks into place, and I love seeing how they affect things. The charcoal is way stronger and we get so much more of it!"
+
+"It only looks random because we're trying to emulate a single, larger rune," Henrietta started, then hesitated. She wasn't sure if that was the best way to describe it. Her grasp of the fundamental whys weren't the best to begin with, but she wanted to give a better answer than 'that's how you get the best resonance.' Well... she'd do her best. "So the stones need to be set in the right pattern to create constructive instead of destructive interference with one another. It's... do you remember what Smith was saying, about symbols being semi-fractal?"
+
+Clark thought for a moment, then shook his head.
+
+"Okay. So a fractal is... it's a shape that partially repeats as you look closer. Runes are technically infinitely detailed, and the ones drawn are just approximations."
+
+She paused. "No rune is drawn perfectly. We just get close."
+
+Clark nodded in understanding.
+
+"They can scale down forever, they can also scale up forever. With the proper placing of runes, we can make them all act like they're part of one big rune."
+
+Clark's face lit up. "Oh! So the runes are like the corners of a triangle."
+
+"Correct! Good job, Haleford." It was far, far more complicated than that in reality of course, but that was getting into detail Haleford didn't need. "You're providing an outline of the rune with the rune itself, so you don't need to... actually enchant the rune yourself. Because that's... already been done."
+
+"Commander?"
+
+"Carry on as you were, Haleford. I thought about something else while we were talking." She might not have without the discussion on engineering, but something about the spark of 'using what they had to get what they needed' had collided just right with another problem they were having with glyphs.
+
+"I was able to help you?" he brightly asked, and Henrietta gave an affirmative nod.
+
+A few flaps of her wings brought Henrietta to the top of the Spire. Oliver and Jacob had obviously been working on their attunement oven, but had apparently stepped away to get something, and Henrietta took the time to collect her thoughts, meandering to where the broadcast glyphs spread their mana. The air was heavy with scents of elemental conjuration, but she put that to the side as she looked over the runic constructs.
+
+Several smaller glyphs could be combined into one larger rune. By that logic, shouldn't one larger rune be able to be divided into several smaller glyphs? If Oliver could spend an hour - or even several - enchanting one large metal plate, and then they cut the plate up in such a way that it still preserved a magically-significant amount of the enchanted rune.... was there a way to do that while preserving the original magic? If one bout of enchanting could then go on to be the magical core for a dozen artifacts, that was a massive improvement in efficiency.
+
+Yes, it wasn't fully automated. But it would be a while until they could create a production line for their Light Crystals and Network Caches. It was going back to her prior goal of reducing human time. Maybe not to zero, but reducing it, and maybe by a lot.
+
+Oliver and Jacob had returned at that point, and after a brief exchange of greetings, Henrietta attempted to explain her idea.
+
+"I..." Oliver paused for an extended period of time, in the way he often would do when figuring out the best way to say something. "I believe the base principle is sound. I think something similar has been done before? Kaiazad illuistal."
+
+His eyes flicked across a few screens, and cast a few more control spells as he navigated his System. "I'm not seeing anything in the Encyclopedia, though I'm not that surprised. Making a larger symbol is harder than making smaller ones, so the idea of splitting one big one into several weaker, smaller ones isn't going to be much more than a curiosity."
+
+"I'm surprised nobody has done it, if it is possible," Henrietta mused.
+
+"Oh. I'm sure they have. But they haven't done it in a way that has moderate-confidence sourcing on the Encyclopedia Systema," Oliver blinked, then sounded slightly defensive. "I couldn't download the entire internet to my soul."
+
+"Are you able to give it a try?"
+
+Oliver shrugged. "Sure? Though I don't know how much time it would really save. If I'm going to be making a really big enchantment plate, I'm going to need to actually enchant the entire plate, and carve it and everything. I can't just do.... bigger strokes, and expect the same result. The amount which a symbol gets stronger from sheer size is minimal, and generally has more to do with how much detail can be included."
+
+"True," Henrietta agreed. "It's not like with alchemy, where you can just change the quantities and get smoothly shifting results."
+
+That triggered a thought in the back of Henrietta's mind, but it took her a minute to figure out what. Oliver must have been working through his own, similar thought process, because they spoke at the same time. "Glyph ink."
+
+They shared a look. Henrietta spoke first. "We don't have anything close enough to a proper alchemy setup to make magical inks."
+
+"But it does mean the idea would work."
+
+"Make a batch of... could it be generic?" Henrietta asked, "Just some kind of mana-resonant ink, let the symbol itself serve as the magical resonance?"
+
+Oliver shook his head, "No. We'd run into the Focus Exclusivity Principle. It having multiple outcomes would give far too much casting-weight towards whatever is applying it. So we'd basically need something capable of applying an enchantment."
+
+"Which if that were an option, we wouldn't even need to worry about this," Henrietta finished the thought. "Alright. So would a glyphic distillation work?"
+
+"You can do glyphic distillation?" Oliver asked in surprise. "I mean, probably. But I didn't know that was an option."
+
+"It isn't, but I'm trying to get a feel for what we need." Once she knew that, they could figure out how to get it with what they had. "How much flexibility do you have with your broadcast glyph selection? Could you choose something which exists in more abundance?"
+
+"I have... some flexibility. But not enough to push it to a 'clay of the riverbank' symbol, if that's what you're thinking of." Oliver paused. "Also, anything that exists in nature would probably have too much interference for the glyphs to work."
+
+"What about some of our refined materials?" Was Henrietta's next question. "If you made it resonant with smelted iron?"
+
+"Still an interference problem." Oliver shook his head. "I don't know..."
+
+Henrietta took a breath. Alright. Engineering. Big picture. They needed something magically resonant. They had lumber, bronze, iron, and clay. And copper. They did have copper as well. Copper was a good conductor. Better for electricity. Decent for magic. It could be drawn into wires quite well, though. They needed lines drawn for their glyphs. They could draw lines with a wire. "Could you make glyphs out of wire?"
+
+"That..." Oliver began, then frowned, "Huh. That might work? Only with certain glyphs, though. Nothing with variable stroke-size if it's going to be wire."
+
+There was a pause. Before Henrietta could come up with anything else, Oliver continued.
+
+"Hmm," He tilted his head back, obviously thinking through things. "I could be making the symbol out of the symbol itself, materially. We wouldn't need to distill the magical resonance of an object into an object, I'd just [Cogniprint] it as the material. It might be a bit tricky to pull off without any bespoke modifications to the wire, but I should be able to manage it while Attuning it into wire. I just make it... 'elevated platform' wire, then it should already be resonant when it's then twisted into an 'elevated platform' glyph."
+
+"Any concerns about FEP interactions? Whatever applies the wire won't usurp your magic, would it?"
+
+Oliver shook his head, "It shouldn't. Well, assuming I build it correctly. Each glyph would need its own application device... if it's defined purely analog through gears and whatnot, it shouldn't be an issue. Maybe if I make pins or hooks that the wire can loop around... straight-line, single-thickness glyphs.... probably works. It's not going to work for everything, but for my current glyphs.... yeah."
+
+Oliver trailed off into mutterings as he thought and sketched out ideas into his System, so Henrietta turned to Jacob. "We are capable of drawing wire, right?"
+
+Jacob responded with a nod. "We have yet to, but at the minimum coarse wire ought to be possible."
+
+Planning continued, but the rough pieces existed, and the course was clear.
+
+Using what they had, to get what they needed.
+
+It was a good motto.
+
+One she - and the rest of her team - could use.

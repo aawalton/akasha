@@ -1,0 +1,111 @@
+The Metalpress was going to be effectively unrecognizable.
+
+When Oliver had first made the machine, it had been a simple screw-turn design similar to old-time printing presses. Now, it was miscellaneous pieces of metal and wood spread around the leveled bit of the Spire it had been installed on. He had, when he started out, thought that he might be able to preserve much of the machine spirit of the original, giving him a bit of an advantage when it came to making what was objectively a somewhat complicated piece of kit.
+
+But now, four redesigns deep and multiple complete disassembles later, it was an open question whether any of the original machine spirit would remain at the end of everything, let alone whether it provided any worthwhile advantages.
+
+But alright. This time, for sure, he was going to make sure everything was set up right, and he was going to have a proper test of his latest design, and nothing would go wrong.
+
+He was facing the pillar of fire that was the smelter enchantment, and the five braziers that powered it. It was the beacon, the guiding light and forge through which tools could be tempered and reforged. It tied into the System node, which was the current linchpin of their magical infrastructure - both because it allowed them to level, and because it was the foundation upon which the broadcast glyphs were graven, thereby supporting the existence of the Broadcast Network. Then the Broadcast Network was itself the base Technology upon which their quick-assembly of artifacts was built upon.
+
+While not something he was particularly trying to exploit right now, there was some interesting potential to be explored with utilizing that Significance tie to later upgrade Metalpress with innate ⟨Inlay⟩ functionality...
+
+Nonetheless. To his front was industry, and to his back was invention.
+
+His invention representation was the Mirror of Invention, the mirror system from which he had originally distilled Illusion. It had been moved and modified, enchanted with a combination of elemental Illusion and [Unblemish] to keep it working as a mirror, as well as a window into possibility. Once he had the base Metalpress working, his intention was to turn it into a hologram projector, but that was a later project. For now, he just needed the magical foundation he'd put into it to ensure elemental flow was going in the right direction without needing to brute-force it with [Order Mana], which he'd discovered was incompatible with the Metalpress designs. Why? No idea. But he wanted this working.
+
+So from invention, passing through Metalpress, it then reached reality. Metalpress, therefore, could be made into a lens through which possibility became actualized.
+
+"And Technology is a progressive element, so the field is oriented in the direction of what will become technical," Oliver muttered to himself, holding a hand out with his thumb, pointer finger, and middle finger all perpendicular to one another while he triple-checked his logic. "So traversal needs to be done... right to left, because I'm trying to augment the Technology within the material. And the actual mana will flow upwards by default..."
+
+He then changed his hand such that he was giving a thumbs-up to nothing in particular, "Which means it will have a natural counterclockwise skew... so since I want to entrap the technological flow to the base of the screw..." he flipped his hand upside-down, "The screw needs to turn in clockwise, which is... standard. Righty tighty lefty loosey. So I need to make sure the screw is oriented so that..." he thought through it in his head. "It's angled down going to the left. Which..."
+
+Oliver frowned as he looked at the screw on the ground. He walked around it to the other side, confirming that no matter which end he stood on, the threads were going in the right direction.
+
+"...I'm lucky we did that in the right direction. Because yeah, obviously a screw isn't going to have a different pitch when it's upside-down. Okay. So then we have the screw, and..."
+
+Once he was more confident in his design and less confident in his skills as someone who knew basic magical or mathematical theory, Oliver directed his familiar-drone to hover on the far side of the Mirror of Invention, projecting a hologram of the revamped Metalpress design through the mirror system, resulting in Oliver's design flickering into existence... about a meter off the ground.
+
+Okay, let's try that again.
+
+The new Metalpress was to be a pyramid. Four pillars of bronze, each the thickness of Oliver's forearm, needed to be stuck directly into the ground at an angle, and they would converge towards a central point, but had a bronze platform and capstone two meters above the ground that would actually be responsible for connecting them and acting as the actual topper of the design.
+
+The capstone itself was actually the mechanism running the entire machine, and had a very complicated clockwork gearing system, most of which was magitech in the same way the wood kiln or his familiar-drone were in that they created a magical effect when rotating. That would be about half hidden, as it also needed actual bronze plates carved with plenty of rune-work, but it couldn't be inaccessible either, because maintenance. He'd probably see about slipping a placement bracket on the inside of the paneling to allow for telekinetic removal, because he couldn't put any kind of handles on the outside.
+
+The clockwork itself would also be a pain to get just right. It would be lowering a modified Network Cache into the design hologram of the desired piece - which was to be projected onto the 'build plate' below - and then slowly raising it. As it was raised, materials drawn from designated areas connected to the circle would be collected and form transmuted into the shape of the focus hologram.
+
+Basic logic in the clockwork would be responsible for knowing when to raise and lower the screw, as well as making sure certain parts of the machine only functioned when they were supposed to.
+
+But somehow, the clockwork capstone, with all of its logical clockwork, wasn't the part most intimidating to Oliver as far as his must-get-right instincts went. No, that honor went to the iron build plate at the base of the pyramid. Because that was where the primary Magic Circle for the artifact was to be set. It was designed in two parts, a 'feeder' ring on the outside, and a 'conforming' circle on the inside. The feeder section connected several material nodes located outside the Metalpress - iron, bronze, and copper for now, but with the potential to add others - to the conforming section that mirrored how supporting glyphs worked, allowing the material outside of the main Circle and indeed outside of the Metalpress in its entirety to 'overlap' with the center of the circle.
+
+The conforming section was kind of like an inverted anti-illusion enchantment, one which applied tremendous magical 'pressure' to any Illusions in its area, but was fundamentally incapable of actually breaking said illusions. That [Prince of Shining Streams] was a Light based Class helped tremendously, because Light had Associations with discovery, but it also had Associations with Illusion. Combined, Oliver was able to create an effect which created an intense magical aura right around a visual illusion, but in a way which only strengthened the Illusion instead of dispersing it. In practice, it meant anything which didn't line up perfectly with an illusion would have a tremendous amount of magic focused on it, directed so that it was pushed into the illusion itself.
+
+At right about two meters to a side, it certainly wasn't going to be the largest enchantment Oliver had made since the Jump - that honor was still claimed by various pieces of the System node - but it was probably going to be one of the more annoying ones to actually make, because he needed to make the entire thing out of spelloom-spun spellcord. Or at least, he needed to use enough of it that his Pillar of Industry wouldn't get mad.
+
+It would probably be fine, but hopefully he could figure out a better means of getting the copper wire to adhere to the iron plate than engraving the design into the iron, then melting the copper wire into said engraving somehow, while also preserving the magical information previously imbued into the wiring.
+
+He already had the spelloom making Forge-imbued wire in preparation, because he knew he'd be needing a lot of it. And he was using Forge specifically because it would help with the connection to the smelter enchantment the machine was so dependent upon, being the central glyph he had used in that and even the System node beyond it.
+
+The Magic Circle also needed to be sensitive to where the Network Cache the clockwork logic was raising and lowering was, because it needed to be turned on and off, and while he would absolutely be carving fail-safe switches into the logic, it wouldn't be great for the enchantment long-term if it was constantly in a 'reshape metal' mode. So, making the magic only be active while there was actually a part being made and the clockwork engaging properly was just common sense.
+
+The screw, of course, was monitoring for a hologram Illusion beneath it, the appearance of something which did not match the reality of its existence. When it found one, the clockwork engaged and pushed the Network Cache to induce malleability where an illusion existed. The circle, then, would only activate if fed an appropriate aura of malleability, at which point the feeder material nodes would... it wasn't superposition, but that was the easiest way to think of it. The material nodes would become quasi-present within Metalpress, and the pressure to conform created by the Circle would then push all of the materials into the parts of their hologram where they were supposed to go. It wasn't able to hold pieces aloft in midair or anything like that, but so long as he provided a basic amount of supports or just angled the hologram properly, it would in theory be able to make some decently complex constructs.
+
+Of course, a fascinating aspect of the construct was that the Metalpress didn't actually 'know' what it was making in any real sense. None of the pieces did. The hologram knew what it needed and in what places. The magic circle's parts individually knew to get specific materials from specific locations and then how to push materials into a hologram, and the screw knew how to lock-in a transmutation when it matched the hologram. And yet three blind, dumb components combined into an incredibly sophisticated machine that could turn raw materials into a theoretically infinite number of complex shapes.
+
+Technology was just the absolute best.
+
+And maybe it was FEP compliant after all? He doubted it. But whatever, he'd see soon enough.
+
+Round four of Metalpress-making wasn't much easier than the previous rounds. The pillars of metal, with a radius of about four centimeters and three meters long, were quite substantial. They were also quite needed to get an appropriately large build area, nearly four and a half square meters, but at least they were doable.
+
+Mostly thanks to Jacob, who had the Strength to make their weight effectively negligible. Each weighed a solid one hundred and twenty kilos, which was well beyond what Oliver could feasibly lift, but their [Frost Knight] could handle them like they were nothing. He used their clockwork-powered hammer by their Blast furnace, normally used in processing freshly-smelted iron into iron ingots, and forged a literal half-ton of iron into the four metal pillars they needed. It was heavy, exhausting work - Oliver felt tired just watching Jacob move around such a massive piece of metal, even if the man made it look no more difficult than making a nail - but they got it done.
+
+Lathing them proved to be... a challenge. They actually broke the ironlathe when they first tried to load the pillars onto them, which itself had required Oliver to create a larger chuck to simply hold the thing. They... limped through, though. Clark's newest skill showed its value again, as not only could he repair the metal as it was twisted out of shape, he could also be useful when making new custom parts.
+
+Erecting the pillars was its own adventure, but what ended up working the best was drilling a hole straight down into the Jungle rock of the Spire, inserting the iron pillars directly into those, and then having Clark ⟨Remake⟩ the stone to make it pliable while Jacob and Oliver pushed the pillar itself to the appropriate angle. At least making the gears was easy enough. Oliver could just get Clark to cast them into their appropriate shape with his Skill, saving hours if not days of tedious teeth-cutting per gear. All Oliver really needed to do afterwards was Attune them properly, making whatever fine-tune adjustments were needed at the point of actual deployment, and install them into the system.
+
+Once he had the machine working with ⟨Use Artifact⟩, where he could raise and lower the screw with just a thread of magic, Oliver installed the Network Cache at the end of the screw, making the turning screw act almost like a staff. Because his Network Caches were already designed to capture information contained within mana, it wasn't terribly difficult to modify one away from temporarily storing the Broadcast Network into capturing the difference in information between the hologram around it, and the reality of materials making it. When he finally got the crystal and hologram properly interfacing, there was a brief bit of a lightning show... and a need for healing. It was really good that Clark had gotten ⟨Remake⟩, because recovering from that already took a couple of days.
+
+Oliver tried to be more careful afterwards, but there was only so much that could be done.
+
+The magic circle was the last step, and Oliver worked on that piece by piece. First, he just wanted to get the hologram and crystal to acknowledge the presence of other materials. Then, he needed the hologram to be capable of communicating what material it needed. That was less challenging than it sounded thanks to his existing plan, because actual arbitrary material communication was beyond the scope of what he could do. However, he could 'tag' different parts of the hologram with metadata, and while that metadata visually made it look more like a certain material... to the limited extent that an all-blue hologram could show color differences anyway... to the magic, it just knew that if there was a part of the design tagged with 'iron,' that just meant it needed to go to the designated Iron material zone.
+
+It would be rather important that they kept those material zones filled with the right materials. It probably wouldn't go well if it tried to reshape reeds where iron was needed.
+
+"What if someone sticks their hand into the circle while the press is running?" Alyssa, wound up asking when she was home between cave-delves, and Oliver just kind of needed to... stop and stare at her for a moment.
+
+After a moment of grasping, Oliver gave the only answer he could think of. "Don't do that."
+
+"But that wasn't my question. Like, what would happen? Would their hand get used as a material as though it was iron, or what?" Why... why was Alyssa wondering what would happen if you stuck body parts into industrial machinery while it was running?
+
+"That's about the best-case scenario, yes. I'm serious. Don't do it."
+
+"Uhuh. But what if your Resistance is... really good? What then?"
+
+Oliver just blinked at her. "Alyssa. Someone with a hundred Resistance is, based on standard System theory, roughly one thousand times more durable than normal. That means they can take a high-powered piece of explosive artillery missile about as well as I could take a baseline human punch. That's shrugging off something on the order of a megajoule of energy, one million joules. That's the energy needed to lift one million newtons one meter, and one million newtons is the force exerted by something that weighs a hundred thousand kilos. That's a hundred and ten tons."
+
+The units didn't quite work that way, but Oliver needed to make a point, dangit.
+
+"Okay," Alyssa agreed. "I know, I've seen some videos of stat-specialists, and it's pretty impressive. But where are you going with this?"
+
+"A medium-duty hydraulic press, the sorts of things we had in abundance at my school's machine shops, and the kinds of thing you'll find everywhere in small fabrication and maintenance shops, or particularly dedicated hobbyists, might be able to exert two hundred tons of force."
+
+"Oh," Alyssa blinked, then looked down at her hands. "But this isn't a hydraulic press?"
+
+"Calculating force-equivalencies of transmutation is still a developing field," Oliver waved the comparison aside. "But we're a bit past the hobbyist grade with this thing. It's certainly not equivalent to some of the actually big metal presses, which can be fifteen, thirty, fifty, two hundred thousand tons of force, but it's definitely not nothing."
+
+"Alright," Alyssa blinked a few more times. "Got it. But like, I was just asking."
+
+"Don't mess with heavy machinery," Oliver concluded. "I don't care how high your stats are. They may as well be zero in the uncaring face of industry. The machine both doesn't know and doesn't care about the difference between metal and flesh."
+
+Anyway.
+
+Once he had the materials reacting, the final step was actually getting... everything to work together. He was most of the way there, and it was infuriating. But the materials weren't cohering properly, or only looked coherent. So he might get a cube of iron... that was full of hollow pockets. Or half-disintegrated the moment he tried to move it, as it turned out half of its material was grains of iron sand.
+
+Basically, he had something that could superficially replicate parts, but had no guarantees of internal structure. Which was frustrating, because he really needed proper consistency in that regard if this was to be a less hands-on process. He couldn't afford to [Appraise] and divine every part that was produced to ensure it didn't have major structural weaknesses that would cause a catastrophic failure.
+
+It was infuriating, because this was the kind of nonsense that ⟨Remake⟩ was specifically supposed to prevent. This was what he would have expected to have happen if he was working with just [Unblemish], not with a subskill specifically dedicated to removing internal impurities!
+
+It had to be something he was doing wrong, but Oliver couldn't figure out what it might be. But at least he was close.
+
+Oh so very close.

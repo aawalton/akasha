@@ -1,0 +1,101 @@
+Oliver was trying something a little bit new, and a little bit different.
+
+It made him nervous, of course, but he'd checked his theory over a dozen times and practiced its components at least twice that. Everything was built on principles he knew like the back of his hand, and he had plenty of room for error, plus he had a literal System node for his exclusive use to make it easier. It all should be very much within his capabilities, but he hadn't truly tested it... and thus, the nervousness.
+
+He'd been talking with Henrietta about means that they could create automata. Clockwork robots. Mechanical helpers, for lifting heavy objects, moving things from place to place, and even gathering base resources. Everything that the inklings were currently doing, and then some. Because, while the inklings were great, Henrietta had expressed they would be incredibly insufficient for The Factory as they moved forwards. Even once - if - Oliver figured out how to jury-rig class change functionality as a capability for their System, she was going to be prioritizing alchemy classes and Skills, rather than trying to regain her handful of summon-focused enhancers.
+
+And Oliver was quite glad for it. Magic from foreign worlds was potent, and could do things which the System could only dream of. But at the same time, they understood so little of how those magics worked, and were largely incapable of reproducing them. The System was an awe-inspiring piece of work, the greatest creation of the Blasphemous Emperor of Mankind - not that he didn't have help - but compared to the delicate grace of 'natural' magics, it was like comparing a rock to an armadillo.
+
+That uniqueness made other magics incredibly valuable, and also not something they could readily scale. They couldn't create an assembly line for inklings. They were, in the end, limited by their Commander's soul and the amplification the System provided to her other powers. And amplification of a single human, no matter how grand, was insufficient to replace an entire civilization. They needed something far more than that. They needed autonomous scaling. They needed automata, and automata automatically making more autonoma. Exponential scaling.
+
+Because to be sure, they would need the constructive capacity of an entire civilization. Rockets took modern industrial nations years to get right, and if making a portal was merely rocket science, it would be so much easier.
+
+After all, the base concepts behind rocket science weren't that complicated. They were basic kinematics. Throw something in one direction, the thrower gets moved in the other. Just replace 'throw' with 'propel outwards at ludicrously high speeds,' and make sure to account for air resistance, tensile strengths, heating and cooling of air being compressed by high speeds, the intense forces generated internal to the rocket, and millions of other variables that were usually ignored.
+
+Rocket science was made difficult by the details.
+
+Portal-making started difficult, and only went up from there. Interplanar navigation was fiendishly complicated, all kinds of higher-dimensional maths required for navigation that itself required incredibly sophisticated spells to be cast and carefully adjusted over an extended period of time, as well as the spells needed for interplanar breaching also being quite complicated and that was before the actual practicalities presented themselves. Lots of high-end casting equipment, well-trained mages, a prepared ritual site...
+
+Henrietta had talked about how they repurposed a kind of semi-dimension that helped make her other Expedition's portal easier to construct than the theoretical 'base,' but it was also generally true that new magics made portal-making easier. The portal fundamentals Oliver had imprinted in his head assumed absolutely nothing about any foreign magics that may be able to lend their aid, instead only relying on System fundamentals and base Tapestry physics. The native magic systems were more akin to biology, infinitely more complicated than anything manmade, and always full of designs, materials, and techniques which could be freely pilfered and crossed with the underlying mana-physics. Planes were inspired by birds, and even if birds were better at it in a lot of ways, they both flew using the same base principles of fluid dynamics.
+
+Maybe they'd be super lucky and the local magic, whenever they got to a level of sophistication that Oliver could properly identify it, would already innately lend itself to interplanar travel and the entire portal would be as easy as finding the right components, forging a knife sharp enough to cut through Realms, and immediately get them home. Realistically... they probably would have noticed if the local magic was like that. Most notably, the magic here regularly breached into other Realms, then there would be humans here, because humans were absolutely everywhere. Their absence if anything indicated that this world's magic might be somewhat hostile to interplanar travel, and that wasn't a fun thought, so Oliver pivoted back to ones that were!
+
+Brute-forcing a portal would require factories the size of cities capable of running themselves with no intervention from the five of them. A city-sized factory would need manpower proportional to a city. Which was millions of times more manpower than they had.
+
+So... automata!
+
+Oliver had a couple of designs roughly sketched out - he was considering a six-legged 'spider' chassis, and yes it did bug him that spider-bot designs were called despite having only six legs, especially because not all models included two additional manipulator arms, but it was still the correct terminology so he was kind of stuck with it unless he wanted to be even more wrong - for something he was pretty sure he could make, but that would need to be adapted depending on how his Pillar of Industry turned out.
+
+During the Age of Oppression, most mages needed to settle for comparatively few foci. Most would only have one or two proper staves over the course of their entire lives, and would need to settle for either very basic spells, or have a very specialized staff that only helped with a particular kind of magic.
+
+However, those days were in the past, so Mage schooling included ins and outs of all manner of staff types, what they were most suited for, and the base principles underlying their construction such that he could easily make a custom staff for incredibly specific purposes. He'd put those lessons to good use, creating all manner of disposable wands meant to help him with casting a single spell, or in the case of his Staff of the New World, a single type of spell.
+
+But that wasn’t what he was doing right now.
+
+Pillar staves were about halfway between a generalist and specialist staff type, and were best with... larger projects. They were still perfectly capable of detail-work, much the same way a sledgehammer could be used to drive finishing nails, but it was more about bold and impactful enchantments, capable of moving around a lot of mana. They were decisive tools, and many were physically imposing as well, with some - like the five-ton Pillar of Mountains Oliver had once seen in use at a mining operation - actually being too large to use by hand without a healthy amount of Strength points. Oliver wasn't going to be making any of those in the near future, though.
+
+The Pillar of Industry in particular was a Technology-first staff, with an additional bias towards Metal, Law, Song and Knowledge, designed to see through the completion of a project. It was a kind of staff he had a decent amount of practice with, was perfectly capable of generalist work, but really shone when trying to work with machines. It was meant to make the process of designing, creating, and controlling mechanical artifacts streamlined and smooth, each step flowing into the other.
+
+If anything, the design was too good at it - it was technically a 'parasitic' magical focus, something that only worked well with itself... and the things that it made.
+
+Which incidentally made it work great for Oliver. The Pillar of Industry accumulated magical 'inertia' as it was involved in the planning, creation, and control of its project, and so long as it was working on that project, it would only get better and better at filling the roles it was needed for - it was a bit Systemlike in that regard, and Oliver's would be even more than usual, but the core magical reaction was a Song-based transformation of Significance into Fate, pushing the past into the future - and trying to use it for anything else would become far more challenging.
+
+The final 'trick' with them was what counted as a 'project.' Unlike the normal complexities and counterintuitive aspects of magical definitions, this one was refreshing in its simplicity if frustrating in execution. Whatever he had just made needed to be directly involved in the creation of what he made next. He could use it to make an anvil, but then he'd need to use that anvil for the next 'stage' of the project. If he used the anvil to make a knife, that knife would need to be used in the creation of whatever came next, and so on and so forth.
+
+Once it built up sufficient inertia, it loosened up slightly... which was to say, he could then make things which directly related to past projects instead. Even things like repairs and replacements never fully counted as being a part of the 'project,' but so long as doing so was a fairly small portion of the Pillar's overall workload, there wasn't much danger of damaging it. Branching out with things made earlier was also possible, but needed to be done carefully.
+
+It was, overall, a finicky type of staff to work with, and in other situations, possibly not one that Oliver would want to weld to his soul.
+
+But they could not choose the situations they found themselves within, merely choose how they were to respond.
+
+Oliver was all in all, about halfway through construction at this point. Extensive divination on the subject had gotten Oliver to alter the way he had thus far used ⟨Integrate⟩ such that, instead of fully creating an Artifact and then attaching it to his Skill, he was using the skill at a pivotal moment during its creation, and then using the improved connection to finish working it into place. So right now, three pieces of the Pillar of Industry were at his feet in pieces. The center section was bronze, and either end was case hardened iron - which was really just steel.
+
+All three had various carvings, some of which were quite obviously Symbols, but there was also a curving spiral that ran across all three sections.
+
+Oliver didn't have a free level to work with yet, but he still started the leveling routine all the same, with the blue focusing crystal at his feet, as though he was going to claim an Aura point. As the blue flames roared to life around him, fueled by his ⟨Use Artifact⟩, he kept one eye on a System window and one eye on his surroundings.
+
+"Behold ye Tapestry! I am Oliver Smith the [Erudite Enchanter] and I am creating a foundation for myself, an engine of transformation which shall shake the pillars of the earth with its industriousness. "
+
+He carefully balanced the three pieces of the staff as he chanted, fighting through a rapidly drying throat - the blue flames of leveling may not have been as hot as flames their size should have been, but that didn't make them cool - as he felt for his soul expanding in the direction of 'connection.' Aura usually was a bridge between the soul and body, making the flesh more magical, but it was also useful for connecting the individual to the world. That was generally the accepted reason for why it could enhance raw appeal, but more relevantly for Oliver, it helped extend physical and magical stats to one's gear. Not that modern safety standards accepted stat enhancement from Resistance, but it at least helped with wear and tear!
+
+"As I walked the path, I cried out unto myself 'Lo! If I but possessed a staff to aid my steps. For this road is great and tough, and a steady companion would do me well.' And thereupon the roadside, my eyes thereby did spy a sturdy branch, sure of form and strong of heart. I stretched forth my hand thereupon and grasped it..."
+
+Once he felt his soul was in the appropriate orientation, Oliver triggered ⟨Integrate⟩ and carefully balanced his incantations to ensure the Skill acted as he wanted it to.
+
+"The blood of the earth below, the molten iron, shall bleed forth and be harnessed by forge and flame. The flows of this crucible of progress, this volcano of technological progress, shall construct itself a mountain to the heavens and beyond. The visages of the future shall shimmer and reflect the truth of What Shall Be, and the agents of its change shall enact its will. A grand machine of development, a mountain, a country, a nation...."
+
+He was barefoot on the clay-coated surface of the System node, and there was a brief moment wherein the magimorphosis lines extended out from him and into the node itself, which... wasn't what he wanted. A part of him wondered what would happen if he did try to fuse his soul with a massive and Significant tower, but the answer was so overwhelmingly 'nothing good' that he had no interest in trying.
+
+"Whichupon such occurrences, a failure to define a proper connection unto The Project shall be constituted a breach of Contract if and only if A, the Work is taken upon an object which has not been at any point previously been a portion of The Project, such as one whose creation was a prior Work. B, the Work is not seeking to create something substantially similar to the creation of a prior Work. These actions are to be considered a portion of maintenance or expansion, and their inclusion whithin the scope of The Project's work is to be assumed... "
+
+A bit more corralling later, Oliver's System window blinked, updating itself with three new rows.
+
+The skill connection was still forming, and Oliver quickly got his incantation into a stable state, then extinguished the flames as fast as he could. His mind was focused on its task, but he flicked his eyes up to see Alyssa land lightly on the edge of the System node, having used the extinguished flames as her sign. Oliver made sure he hadn't left anything, and carefully balanced the three staff-sections on his arms such that he stayed in direct skin contact with all of them the entire time. He took a brief moment to jostle them around when one started sticking to his skin, then skittered over to Alyssa.
+
+She scooped him up in her arms, then hopped off the side. They drifted at a bit of an angle, skirting around the edges of the smelter enchantment's pillar of fire, and she let him off right at the entrance to the First Forge. Oliver darted inside, set the two steel sections halfway into one of the lower-temperature furnaces, and affixed the bronze central section in a clamp. The entire time, he kept his connection to the sections alive and fresh through almost entirely mindless incantations.
+
+The ability to focus on something else while chanting wasn't a common one, but Oliver had no idea how someone could be an artificer without that particular skill. Well, the answer was usually going to be Skills. [Delay Spell] was really useful in many situations.
+
+The forge was mostly set up for what he needed, but the final few things he had needed to do still took long enough that the steel staff sections were just barely starting to glow. He grabbed a pair of tongs and grabbed the first one, pressing it into the bronze section with a bit of force. He'd theoretically lathed the two sections to fit just below 'snugly' when cool, but maybe he'd messed things up slightly.
+
+In the end, he needed to use a hammer to get the first section on, and carefully aligned the carved spiral-channel on each section so that they lined up. The other steel section went on much more smoothly, and Oliver actually put on gloves, scurrying around the massive Bronzing Crucible that took up most of First Forge's center to retrieve a thicker gauge of copper wire than what they used for most spellcord. He'd still enchanted it as though it was spellcord, because it was just a useful material overall, but it wasn't being put into the shape of any actual symbol, and with no broadcast glyph corresponding to it... probably wouldn't do much.
+
+The copper wire was wound up the staff's spiral, the still-hot metal allowing the copper to easily bend and form into place. Once it was fully in place, Oliver took a hammer and finished beating it such that it fully filled the groove.
+
+"The Pillar turns, on an eternal journey into the future. What begins roughly shall end precisely, and that which you design shall someday come to pass. This, thereby, is the promise and the task. To bring the future into the present, and to use the present as a foundation upon which to build the future..."
+
+Once the copper was firmly in place, he took the very tip of the wire, sticking out a bit, and bent it such that it could hold a Network Cache in place. It would have technically been better to do so on both ends, but that ran into the practical consideration that the Network Cache was just a piece of low-ish quality glass, and there was a pretty good chance Oliver would need to slam the Pillar of Industry into something made of metal or stone with a non-insignificant amount of force at some point, so... no glass.
+
+By the time Oliver's voice finally came to a halt, he had been talking for... hours, probably. Tiny sips of water, taken in brief moments of respite, gave way to gulping down practically a bucket's worth.
+
+The staff still wasn't done. He needed to send it through the lathe again, to get everything into a single perfectly continuous thickness and remove the tiny mismatches between the copper inlay and main staff, and the individual sections of the main staff....
+
+At least his Skill was taking. Thin blue lines had crept along its entire length in a very continuous manner, giving it a satisfyingly high-tech appearance, and his System acknowledged the change as well:
+
+Physically, it felt quite good, if he ignored how it kept pulling off bits of skin. A nice amount of heft, fairly well-balanced, and all of the joins were nice and tight. Magically...
+
+"I speak unto the Broadcast Network, and from the Broadcast Network unto the Tapestry. For I present a greetings, a simple thing which is my signature and my agreement, a test and a guarantee of function before the contract does fully manifest. The voice of the Pillar does call forth, and I do hereby hear..." Oliver trailed off. That should have been enough for...
+
+Hello World.
+
+Oliver smiled. Yeah. Magically, it was doing alright.

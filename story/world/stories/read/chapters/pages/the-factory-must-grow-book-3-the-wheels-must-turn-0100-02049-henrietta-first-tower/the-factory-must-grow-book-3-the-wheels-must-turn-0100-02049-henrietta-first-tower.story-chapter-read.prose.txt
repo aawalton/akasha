@@ -1,0 +1,139 @@
+"YEAAAAaaaaahhhh...." Alyssa's voice was lost to the winds as she rocketed into the sky, far above where they'd all gathered to watch her jump from the Spire.
+
+"It is really great that she can just go straight up now," Clark happily remarked. "I was always kinda worried that her ⟨Tumbling⟩ might not shield her fully from stone."
+
+"Yeah, well how many months did it take her to not instantly go sideways while doing her rocket-jump?" Oliver was a little less complimentary, but not so rude as to warrant an actual call-out from Henrietta.
+
+For her part, she was keeping her eyes fixed as the other woman got smaller, flames still trailing behind her. Jacob stood to her right, tapping his fingers on the hilt of his latest [Frostblade] focus. Oliver hadn't managed to solve the mana-drain issue, but he had bypassed it by making an artifact which made Jacob's conjuration time effectively nothing. Jacob still kept his main [Frostblade] conjured, but the backup enabled him to preserve less of an emergency reserve.
+
+For all that he was a mostly silent bastion witnessing Alyssa's latest accomplishment, she'd learned that the finger-tapping was an expression of anticipation of all things. Apparently, he wished he could be the one flying high into the air and... there it was.
+
+Alyssa reached the peak of her jump, and uncoiled from the cannonball shape she had been into more of a skydiving position. She zipped back and forth, easily controlling her descent and gliding on the magic of ⟨Leaf on the Wind⟩, her latest subskill. The horizontal gliding and slow-fall effect it provided were both powerful mobility tools, and Alyssa had been trying to get it right for some weeks now.
+
+After a few minutes, Alyssa drifted in with an impressive amount of style, swooping in from the cliffside and timing when her feet would hit the rock of the Spire almost perfectly, only a tiny stumble which Henrietta politely pretended to not notice. Clark gave her a full applause, Jacob a polite pair of claps, and Henrietta and Oliver both gave a "good job," albeit with fairly different tones.
+
+"Thank you, thank you," Alyssa bowed. "I know, I'm amazing."
+
+She really was. Alyssa had landed with a straightforward graceful movement skill and turned it into an entire fire-based combo system, borderline true powered flight, and made it look easy.
+
+Using what she has, to get what she needs. Alyssa may have loved to complain, but she knew what she was doing, acting as a skill engineer to get all the tools she would need as a Ranger. Rapid motion, basic combat, and strong survival capabilities.
+
+"How long will it take you to get to and from Coppermine at this point, Ride? Best estimate."
+
+"Oohh. Hmm. Honestly?" Alyssa thought for a few moments, "Less than a day for sure. I've got a couple things I want to try out to leverage this into a general super-speed subskill, and if either those work out or if I manage to give myself sustained jet power... a couple hours? If that works out really well, or it works out alright and I get some practice or get some tools, that might eventually go down to minutes."
+
+Previously, it took Alyssa about a day to get to or from Coppermine, so twice as fast to ten times as fast was quite good. They'd need world-spanning supply chains eventually for the portal, and Henrietta was very glad that Alyssa was regaining the kind of mobility she'd expect from a Ranger. The big dragon could make it in about a day and a half to two days each way, so replacing the inklings there would be quite the endeavor nonetheless.
+
+Fortunately, she didn't need to replace them terribly often, but there had been some signs of dragon activity lately, and if Alyssa could make a day trip out of restocking any ballistae they managed to set up out there... they'd be in a better position for when those particular landscape-destroyers did find their way out that far.
+
+Ironworks needed regular resupplies of inklings even now, and they'd built out fairly sizable wooden walls around the open pit, regularly reloaded the ballista there, and were even on-hand to fix issues as they arose. She had hoped that leaving a pair of big dragons would have been enough, but somehow it wasn't. Why it wasn't remained a mystery, because they'd never been around for one of the inkling-killing rampages, and only sometimes were her guard-inklings killed beforehand.
+
+It was a pain.
+
+Incidentally, the morning after Alyssa's demonstration, Henrietta found herself heading out to the Ironworks to resupply the ballista. It was less than a half-hour by dragonback, but if she wanted to, it was a little less than an hour of jogging now that the Ironroad was in a semi-final state. What had once been a full day's worth of work, beating back thick jungle foliage and navigating around all manner of obstacles, was now a simple ten, fifteen kilometer trip.
+
+Most of the ballista were simply firing rocks, at the moment. Claynades were in somewhat short supply due to Oliver's primary attention having turned elsewhere, but in the near future Henrietta hoped that they might be able to graduate to proper iron and wood ballista bolts. She looked around at the diggers, clawing away at the hematite everywhere and moving it to the exit pile at the start of the Ironroad.
+
+Swarms of inklings fighting off dragons and other wildlife patrolled the area, but a few were devoted to filling the transport carts with hematite ore, then giving the carts a bit of a push to trundle back to First Tower. They followed wooden tracks that these days only sometimes needed fixing, thanks to the constant patrol of inklings guarding the entire length of the Ironroad. It pushed through uneven terrain, crossed over streams, and finally made it to First Tower. There, the cart was unloaded - this time by a pair of clockwork-logic placement brackets which tilted the cart onto its side then righted it again - and was briefly inspected for damage before being sent out again. An increasing fraction of those carts also needed their clockwork hearts changed out with a fully charged model, but either way their loop would start again.
+
+The offloaded iron ore sat in a piled-up pit until one of a handful of metal scoops - moving via motion slides - took a relatively small amount and dropped it in the Blast furnace. That Blast furnace, powered through the dual magic of never letting it stop and a [Flamewind] enchantment, then melted the ore into molten iron and slag. The slag was then separated off through a combination of density and purification magic, and the iron was offloaded and allowed to solidify on its own. At that point, it was transported up the Spire Elevator to the smelter enchantment, where it would be cast into ingots and sometimes processed in a series of rollers into rods or plates.
+
+Henrietta found herself at the end of their primary iron supply line as Oliver was demonstrating the method he and Jacob had devised to draw out copper wire.
+
+It was, unsurprisingly, very similar to the process used to make iron rods. Metal wheels had been very precisely shaped using the ironlathe to have a small concave section right where it and an identical wheel would meet. Those two wheels would be running on the same clockwork heart, so they stayed in sync as a copper rod slightly larger than the paired concave sections would allow. But, the rod would be pinched and pushed through ever so slightly thinner than it had been a few moments earlier. Thinner and longer, too, so each subsequent set of rollers needed to move slightly faster than the ones before it.
+
+She knew that Jacob had spent no small amount of time getting that working, she was glad they'd figured it out. It was quite the feat of engineering. That stupid thought kept floating up at the most inconvenient times, and it was starting to get annoying. She turned her attention back to the actual situation at hand before she could get properly distracted.
+
+The process was repeated several times, with manual intervention breaks to anneal - heat and slowly cool - the copper before it could overstress and break. Those sections were also when Oliver worked his own magic, [Cogniprint]ing them with the essence of a specific glyph.
+
+The process took a while, and had a fair amount of overhead work, but it looked like Oliver could make a set of several spellcords at the exact same time, enchanting one while another was being passed through the rollers, while another was cooling in preparation for another pass. It was intensely manual, but from what this batch was turning out, half a day's work turning into enough material to create maybe twenty clockwork hearts? That was a good trade. It brought the time-per-heart from four or five to one, down to two and a half to one, literally halving the hands-on requirements and making most of the remaining time just the final assembly of the heart.
+
+That task couldn't be offloaded or shared, at least not beyond Oliver or Jacob, but that was due to entirely solvable constraints. It wasn't a magical process, that came afterwards. They just needed dexterous and intelligent hands on the job.
+
+She didn't stay to watch the entire process, of course. She needed to show Clark how to adjust the glyphstones around the Blast furnace to ensure the purification happened properly, then to cut down some trees for the Lumbermill. That in turn led her to getting Alyssa's assistance in making another transport cart. Then she needed to swap out the clockwork heart of an in-service cart with one that had been charged, giving her a few minutes to think.
+
+Her team was responding brilliantly to the situation at hand. So well, that she could barely keep up with it all. It wasn't a thought she would allow herself to get upset over, but simultaneously she couldn't just forever pretend that she was properly capable of leading the team. They all excelled in their respective tasks, turning literal mud and stone into all kinds of wonders while she, the leader, could barely get a to-do list that looked more than two days into the future without scrapping half of it.
+
+She refused to allow herself to feel like a fraud, she knew it was mostly just impostor syndrome, but that didn't remove the pressure she felt to do better. She'd been taking things one step at a time, and that was acceptable, even if it would be far better if she could be two steps ahead. She still wanted to be two steps ahead, to live up to that example which Mark had set for her, but maybe she was being unfair on herself.
+
+Her team had been absolutely stellar at very rarely bemoaning what they didn't have. It happened, of course. They were still human. And Henrietta wasn't a mind-reader, so she couldn't know if they were just hiding those feelings. But if she couldn't live up to the standard of Mark Lucid in her head, she could at least live up to the standards her actual team - some of whom were literally half her age - were setting before her.
+
+So, if they weren't going to complain about having mud and poor-quality iron as their main materials, Henrietta wasn't going to let herself complain about her personal mental shortcomings. She didn't have a mind that could foresee every problem they might encounter, so she needed to... work with what she had.
+
+She would let herself privately complain about the recurring thought.
+
+Alyssa ran off to investigate why the day's hippophant copper delivery was late, Clark requested her aid in moving some of the larger blocks of charcoal he'd created to the fuel-pile by the Blast furnace, Henrietta acted as temporary muscle for Oliver when Jacob was urgently called away to fight off a particularly ferocious dragon, performing a bit of a tricky hand-off maneuver to ensure the particular bit of wire they'd been working on stayed in tension while Oliver prepared the next roller.
+
+Clark needed his inkling knife replaced when he went to make dinner, which normally wouldn't be an issue, but they'd gone through all their spares and as such Henrietta needed to reconjure a full set of the tool. But because Alyssa hadn't gotten back yet from her mission, Henrietta couldn't dismiss and recreate all of her existing knives, so instead handed off her own knife while she flew a brief recon mission to see what was holding up Alyssa.
+
+Their Ranger was fine, of course. But apparently the hippophant had managed to get tangled up in a bunch of floating logs, and Alyssa was struggling to get it free. Henrietta solved the problem almost immediately because she could directly instruct her inkling on how to get free, and then they were back on their way to dinner.
+
+The knot in Henrietta's stomach only grew deeper as the days progressed, and she was quite glad that most of her team already had things that could keep them busy, and they didn't need her guidance. Objectively, she knew that they did need her. Wallowing in self-pity about being useless wasn't productive. They needed amplifiers to their muscle power... and to their brain power?
+
+That held promise. How could Henrietta use what she did have to act as strictly an enhancement, leverage to further empower her team in their specialties, without holding them back at all. All of them were far better than she was, than she ever could be, at what they did, and that was something she needed to preserve. They didn't have the luxury of being inefficient.
+
+Insisting that she was kept fully in the loop about everything definitely wasn't the way. She didn't have the mind needed for that, and even propping it up with points into Mind was inefficient. She needed to act as a multiplier, not a limiter. They had enough bottlenecks that Henrietta's mental capacity didn't need to be added to the list.
+
+A few days later, after a great deal of troubleshooting, they had their first spellcord-enchanted Artifact. It was a phlogiston radiator, the bronze on it not quite contrasting but still allowing the hand-wound copper wire to be quite visible.
+
+Oliver had needed to add a new broadcast glyph for it, and still needed to add new straight-line glyphs for Drivegears and their accompanying motion slide pawls, but the glyph he'd chosen for the phlogiston radiators bore a distinct resemblance to two seven-pointed asterisks with a shared line between them. According to him, it meant 'The radiant globe illuminated via the resistative exertion of lightning,' or more simply, 'lightbulb.'
+
+Oliver had added three new broadcast glyphs of purely straight-line symbols for the Drivegears, the motion slide pawls to accompany them, and the phlogiston radiator itself. Of those, the phlogiston radiator was the one they were first testing, and Henrietta looked at the glyph responsible for it with some curiosity. The lightbulb glyph might have been relatively straightforward, but it was still a challenge and Jacob had been hard at work figuring out how to translate that into something that they could assemble automatically.
+
+The symbol also had a specific way it needed to be written, but at least when hand-winding it, doing so wasn't particularly onerous. Doing so automatically would be harder, but they expected it to still be manageable. For the time being, Oliver spooled out the wire using a small piece of leather to keep a better grip on the wire. It might not have been thin enough to cut, but it was thin enough to be uncomfortable.
+
+The smell of the lightbulb glyph was omnipresent so long as she was in the Broadcast Network's range, but Henrietta could pick out the scent as being stronger around the enchanted coil of wire, and stronger still as Oliver wound the wire around each hook, back to the central spoke, then to the other spoke. As he finished, fastened the wire in place, and clipped the remainder off, the spell definitely got stronger.
+
+"Success?" She asked, mostly to prompt Oliver.
+
+"Yep!" Oliver happily agreed, then frowned slightly. "Hmm. It's not fully Attuned correctly. I... should fix that. Somehow."
+
+"Shall I try now?" She asked. They wanted to confirm that there wasn't something unusual with Oliver's many relevant skills that made the wire-application uniquely successful when he was doing it. The post-creation Attunement was a separate issue.
+
+"Be my guest," Oliver passed the coil of wire to her, nearly dropping the leather scrap it came with, then spent a few moments scrounging around for the other ready-for-wire phlogiston radiator. It had been in his bag.
+
+It worked equally well when Henrietta tried her hand at it, soft-confirming that the design really did just depend on the proper spellcord being twisted into the right shape.
+
+By the time Jacob had figured out a set of gearing that could do half the lightbulb glyph, it had become quite unfortunately clear that they didn't yet have a good way to automatically fasten the start of the wire to its metal nubs. Their clockwork sophistication wasn't anywhere near the ability to tie a knot, which was what they'd done for the test artifacts. They could have hand-fastened it... but just doing the wiring only took a few minutes, so the time savings were... debatable. So, Henrietta made the somewhat difficult call of canning the fully automated application, in favor of just having them personally wiring the devices.
+
+At least they'd made tremendous strides with the spellcord approach. Oliver would need to devote a day of work to restocking their wire supplies every so often... but any of them could apply the spellcord, and it was fairly easy and low-stake. The perfect type of activity to do during the off hours. Spools of wire and a pile of unfinished tools may have been inferior to a fully automated production line, but it was far superior to their previous method.
+
+It nonetheless felt like snatching defeat from the jaws of victory, to say that the literal last step shouldn't be done by a machine. But... realistically, there was going to be a lot of manual intervention anyway, as the blanks would have to be hand-loaded into the winding contraption, hand-unloaded, and probably deal with dozens and dozens of mechanical failures...
+
+It was a failure.
+
+She saw it coming, which was nice, but she couldn't let that distract her from the ways she'd contributed to the failure. Insisting that she should have seen it coming would be like insisting that they should just have better-quality clay. That wasn't a solution, it wasn't an option, and sure it would have been great if Mark were here, but they had her instead.
+
+"This is fun!" Clark's voice pulled her out of her thoughts as he wound wire around the spokes of a Drivegear. He wasn't loud, so she wasn't entirely sure what it had been, but it sounded like there was an ongoing development. Oliver and Clark were off to the side, the former showing the latter the proper procedure for making spellcord enchantments. "It is so fascinating watching everything come together as I wind it."
+
+"I know!" Oliver even echoed his enthusiasm, "The Commander's ideas worked out so well."
+
+Henrietta smiled. She didn't know how much credit she deserved, but simultaneously didn't want to interrupt them, let alone let them know that she was listening. All she'd done was provide a bit of a nudge and a bit of an idea. She'd just engineered the situation so that it worked out well.
+
+Then she frowned slightly at herself. She really wanted to strangle that intrusive thought about engineering, it was....
+
+Actually, maybe it was right after all. If Henrietta was trying to be objective about her strengths and weaknesses, she did feel like her capability to balance trade-offs and find novel solutions to things was one of her better attributes. It was a core skill of engineering, and she could actually think of a way to apply it as a manager. If she took that same approach to engineering social situations, then it would be her job to leverage her people against one another, performing group alchemy to make solutions appear.
+
+The role of an alchemist, then, would be to know the properties of her ingredients, and to improve the quality of those ingredients, before mixing them at the right time. Alchemy was a very hands-off discipline. It was setting up processes and then letting the materials take care of themselves. Why wouldn't people be the same way?
+
+So this would be... directing her people so that they knew where they were headed, keeping an eye on their progress, and letting them figure out the details. Then, if they had a problem, they could either come to her or she could go to them, and provide just a bit of a mix-up, connecting them to something or someone else that could help them along.
+
+She didn't need to be a military or company-style boss, she needed to be a central organizing hub. Someone to keep an eye on the big picture, keep them headed in the right direction, and keep things running as smoothly as she could. Keep things stable and ready to weather any kind of problem, because it was clearly impossible to predict what they would be ahead of time.
+
+Could her old Commander possibly have done a better job?
+
+Maybe. He'd done great with a more hierarchical structure during their Expedition.
+
+But Henrietta was tired. And she wasn't going to let worrying about that to keep her from what she needed to do.
+
+It didn't matter how good she was right now. If she believed that her team could in due time turn mud and sticks into an interdimensional portal, she could believe that she could become a slightly less terrible leader from wherever she was starting.
+
+A leader was what she needed, and she was what she had. Her team worked in iron and magic, in fire and stone. She might not be able to do alchemy yet, but that didn't stop her from being an engineer with her words, her ink, and her mind.
+
+After all, even starting from scratch, they could clearly make some truly impressive things.
+
+She couldn't, and wouldn't, ask for more.
+
+They were responsible not for the quality of what they were given, but the quality of what they made.
+
+And they had a Factory to build.

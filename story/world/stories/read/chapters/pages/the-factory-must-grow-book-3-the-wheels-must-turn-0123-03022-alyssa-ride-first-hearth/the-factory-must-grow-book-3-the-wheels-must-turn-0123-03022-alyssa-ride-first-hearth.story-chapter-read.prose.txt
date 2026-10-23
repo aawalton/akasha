@@ -1,0 +1,185 @@
+Alyssa stretched as she left the sleeping hut, squinting against the constant daylight of the outside. She had gotten back so late from her supply run... ugh. How the heck was Oliver going through Geode shards so fast? The obvious answer of 'turning them into Network Caches and Light Crystals, which were both needed in multiples to make each spider-bot' didn't count. Sure, there were more than a dozen of the slightly-freaky automata running around every which way, but... she wanted a better answer than that.
+
+In any case, it meant she needed to do runs all the way out to The Geode on... not quite a daily basis, but it felt like it! Like come on, he definitely wasn't using that many crystals.
+
+"Oh hey, it's the crystal-gobbler himself," she yawned as she slumped into her seat, "I got you your Geode shards, do you think they'll last you more than a daaaayy... what happened to your face?"
+
+Oliver looked up at her while she was talking, and the sight of one of his eyes being solid blue, rather than just kind of having a blue glow around the iris, was deeply disconcerting. Neither pupil nor iris was visible through it, and he even had a single, thick magimorphic line running dramatically across his brow like it was a scar.
+
+"That depends on how many of the ones you have brought me are suitable for purpose," Oliver answered, then paused. "Oh. You mean this?" He confirmed, tapping his eyeball without even a blink.
+
+Alyssa recoiled. "Please don't do that."
+
+Oliver ignored her, and continued rubbing his finger along his open eye, stroking it with an uncomfortable amount of force. "Maybe once I'm more used to it. It feels really weird, if you're curious. Actually, I'd be curious what your arcanoception might learn about it." He stuck his head forwards. "Just a bit of a tap. Don't worry, my sense of feeling through it is limited."
+
+"I am not going to go... tapping your eyeball, or whatever. And I reiterate, what the hells happened?"
+
+"I ⟨Integrate⟩d a Network Cache," he casually shrugged. "I was trying to get another non-contiguous merge, because I thought I'd been getting pretty good at those, and then schlorp, I've got a new eyeball."
+
+The shudder returned. "That is..." Disgusting? Cool? Deeply unsettling? It was something, that was certain.
+
+"Eh. It's got its ups and downs. I can still see through it just fine, and I'm pretty sure it's way less likely to be damaged or destroyed than my flesh eye. It does feel weird when I blink, though. Still adjusting to that."
+
+"D'you think you might adjust your goggles to be singular, then? Since you've already got the one eye protected?"
+
+He turned a deeply unsettling crystal eye towards her. "Once again, no amount of personal physical enhancement is an appropriate replacement for PPE."
+
+"Because you can't destructively test the upper bounds of your body's durability, except you totally could, and because PPE can be trivially replaced when damaged, as though we didn't have a Healer on hand." She rolled her eyes, even if she couldn't entirely disagree. "I know, I know."
+
+"It's genuinely impossible to be too protected," Oliver replied. "Side note, making proper PPE is a pain without access to any of the normal comfort-type enchantments I have to work with. In most cases, it's just a matter of it not being as, well, comfortable as usual, but my latest go at helmets is almost unusable because the glass keeps fogging up without the ability to fully regulate the air inside."
+
+"Mm. And you can't just, I dunno, set up the glass to [Unblemish] away any fogging why? Get a bit of self-repair in there too while you're at it."
+
+Oliver opened, then closed his mouth.
+
+Alyssa grinned widely. "Ha! You didn't think about it! Oh man, that is satisfying." She stretched again, this time into a victory pose.
+
+"I've been busy," Oliver dourly defended himself. "I'll... see if [Unblemish] will help. I would really like a good helmet, after all. Might be a couple weeks before I get a shot, though."
+
+"Yeah, yeah." Alyssa watched as Oliver kept poking at his eye. "Please stop doing that."
+
+"Maybe."
+
+Alyssa tried to look away, but found herself mostly unable to. "Did you at least get anything good from it?"
+
+"Eh. Not really," Oliver said between bites of food, reminding Alyssa that she still needed to grab breakfast, assuming she could find an appetite as she did so. "At a baseline, it gives me an eternal template I can use to [Cogniprint] new Network Caches, but it's not compatible with my current workflow so I doubt I'm going to use it unless I'm away from my workshop for an extended period of time. It also helps my arcanoception, sensing items that are Networked.... which I could already do, if I paid any amount of attention. It also default imprints my mana with all the Network information, so I can easily power Network-dependent items away from First Tower even without casting extend network or using ⟨Use Artifact⟩... but I have those, so it's kind of a wash. But at least it's not hard for me to remove the imprint, so it's not interfering with stuff. The biggest thing it does give is that I can basically... sense the signal strength directly? Bad metaphor, though. And I probably could have set up an Autonomous Divination to do the same, so..."
+
+"Signal strength?"
+
+"Like, I can tell how strong the Network is in an area through my arcanoception. It's not super relevant in most of First Tower, because all of it is quite strong, but it did help me figure out where the bounds of our base is 'expanding' to, where our little environment is leaking out, and that can be useful for planning extensions. Like the gravel pile, I could tell where was a good spot for that because the Network was already kind of permeating the area, and it was easy to ward up as a result."
+
+"Sure. I obviously knew what you meant," Alyssa nodded to herself. "I just wanted to make sure what I thought was the same as what you were thinking."
+
+Oliver frowned. "Isn't that... the definition of not knowing what I mean? Or am I missing something?"
+
+"You're definitely missing something."
+
+Oliver stared at her while she chewed through her breakfast, eventually breaking his silence by asking, "And what might that be?"
+
+Alyssa hummed noncommittally, just eating her food while Oliver sat there.
+
+"Okay, well while you're here and in no particular rush to run off somewhere," Alyssa tamped down on the spontaneous desire to ⟨Springlaunch⟩ off into The Jungle at Oliver's eventual words. "Do you want to see how I make my Network Caches?"
+
+"Why would I want that?" she asked. That was an Oliver job, she couldn't even do it if she wanted to.
+
+"Well, most mages would love to learn more about magic."
+
+"Point," Alyssa conceded.
+
+"But also, you keep bringing back shards that don't work for what I'm making, and learning what I'm looking for might make you more effective with it."
+
+"Better point."
+
+Oliver's crystal workshop was really neat. It was an actual building, made out of iron and bronze, a half-spherical dome on the Spire, positioned between the First Forge and the cliff edge. Getting in was a little awkward, requiring her to wedge herself through a narrow passageway between the outermost wall, and the far end of the same wall just like a foot further in. It was to avoid having an actual doorway, or something, but...
+
+"How do you get anything big in here?" she couldn't help but ask while shuffling awkwardly, partially bent over to follow the curve of the sphere.
+
+"I either don't, or I dismantle part of the wall and redo the enchantments on it afterwards," Oliver answered as he likewise shuffled in, a couple feet in front of her. "This workshop is pretty much focused on just the Light Crystals and Network Caches, and I don't often make big ones of those."
+
+After what felt like forever, she got inside the... "What do you call this place?"
+
+"I don't really have a name for it. Never was the most relevant?"
+
+"You said you mostly work on crystals here?"
+
+"Yeah, pretty much."
+
+"So... it's a Crystation?"
+
+"I am not naming my workshops after crabs," Oliver insisted. "If you have to call it something, call it my Crystal Refocuser, because that's what it is."
+
+"Sure, sure," Alyssa acknowledged. "It's a pretty cool Crystation. How does the lighting work?"
+
+There were no obvious Light Crystals anywhere inside, and with the entire building being a solid metal dome, there was obviously no daylight coming in from anywhere. And yet, it wasn't actually dark. It was a bit of a weird sensation, but if she looked at something, she then... saw it, with a slight initial delay like her eyes were adjusting or refocusing. She could tell exactly where things were, what they were, even what color they would be in more normal lighting, but it was also still entirely dark. It was also extremely cramped, full of all kinds of stuff from workbenches to foci to machines. From the center, two large machines stretched to the roof, and both of them had a number of pipes, or wires, or something extending from their central column to parts of the outside wall and to the floor, above Oliver's height but short enough that Alyssa would need to duck to avoid hitting them.
+
+Weirdest of all, everything was almost kind of semi-translucent? It wasn't the most clear, but there definitely were indistinct shapes behind even iron plates. And when she waved her hand in front of her face, it both looked ghostly and transparent, and left afterimages in its wake that hung in place for a moment or two before going away.
+
+"Oh. Have you never been in a darkless room before?" Oliver asked, seemingly surprised.
+
+"I have literally never heard those words used together before."
+
+"I suppose I'm not that surprised. It's needed for a few things, but mostly in a researcher or artificery sense, when there's something that needs to be made without any light exposure, but can't be fully automatic. It works by warding off all Shadow and Dark from the space, but not providing any sources of light. Lowercase-l light, not the element. Though also the element, I suppose," he mused. "Though I do need to make sure that the element is present, just not being actively produced, focused, or refreshed. Anyway. It stops you from being unable to see, in the same way Ice resistance can make you warmer. "
+
+"That's both cool and trippy," Alyssa honestly said. "How'd you pull this off? This is like, proper magic and I thought we weren't there yet."
+
+"Do you remember that Shadow ward we had in the early days of First Tower? The one that kept flip-flopping between blocking light and emitting it?"
+
+"Sure."
+
+"Well, these days it's permanently stuck in the light-mode, even though it's mostly structured to cast shadows. Never did figure out why, but full comprehension isn't strictly needed for [Cogniprint], so... I used it to build this." He waved vaguely at a section of the building that didn't look that special. "The Geode shards that I couldn't use for other purposes helped a good amount, actually."
+
+He walked over to the far side of the room, where Alyssa could see a bunch of crystals laid out on a table. She carefully followed, avoiding all of the other tables and workbenches that crowded the Crystation. Once they were both there, Oliver started pointing at a few crystals. "See these? This is what I'm looking for. See how it's kind of sparkly, even though there's no light for it to sparkle?"
+
+Alyssa looked at the crystal in question, which was about as thick as two of her fingers put together and cylindrical in shape, a very deep and vibrant green in color, though ,"Not even a hint of sparkle."
+
+Oliver changed the angle of the crystal, and then Alyssa did get a brief glimpse of, well, a sparkly gemstone. "Ah," she acknowledged. "How's that..."
+
+"So before I had them in here, I had exposed all of the crystals to the daylight for a few hours, making sure they all got very exposed to the brightness. Then, I bring them in here and let them sit 'overnight,' letting the magic of the room and this workbench drive away the current reality of lightlessness, so that I can do this inspection. I want crystals that are predisposed to trapping and redirecting Light, which is what the sparkle represents - a drop of Elemental Light yet to escape the confines of the crystal."
+
+"Dang. They can do that?"
+
+"The Geode shards are great for it, actually. About one in five pass the gleam test."
+
+Alyssa frowned. "What happens to the other four?"
+
+"Eh, I've got a bin for them. I can still use most of them for some things, but I don't really have time for that usually."
+
+"Hey!" Alyssa scoffed "I do a lot of work to get you this many crystals, and you just throw out eight of every ten I bring you?"
+
+"Well, I don't throw them out," Oliver lamely defended himself. "They just don't work for this process. Though it's not just eighty percent that fail. This is just step one."
+
+"That doesn't really make it better," she grumbled.
+
+"This is why I wanted to show you how it all works," Oliver pointed out with an unfortunate amount of logic. "I can't tell them apart through my arcanoception, but my elements aren't well suited for it and tactile is substantially more sensitive to those kinds of details. Divining them is possible, theoretically, but in practice I'd need purpose-built foci for that, and I don't have an abundance of time for that."
+
+It was always annoying when Oliver made logical points, because like, how was she supposed to refute his logic without also denigrating her own best form of mana sense?
+
+"Fine," she conceded. "Give me a set of ones that do work and ones that don't, and I'll try to feel them out."
+
+Oliver directed her towards the bins he used to hold each, and she began picking through the crystals in search of some kind of commonality in the magic. While she was doing that, Oliver finished looking through the other crystals, sorting them out into her bins, then grabbed a few of the ones that had passed, loaded them into a series of slots on the outside of a bronze cube, then put a slightly larger open-topped box of iron over the cube, put on a couple of bracers that had been hanging nearby, then grabbed a crystal wand and cast some spell which had very few words Alyssa could recognize.
+
+"Here, I'm flooding the crystals with particular types of Knowledge, to make sure they don't crack under the strain," he explained.
+
+"What, can some rocks not properly handle horrors beyond their comprehension, such that simply knowing things will kill them?" Alyssa joked.
+
+Oliver paused. "Kind of, yeah."
+
+Alyssa blinked. "Well. Alright then."
+
+She had a bit of an idea as to what feeling might correspond to the sparkles, but she needed a bit more practice to be sure. It wasn't uniformly present on every surface, but some of the crystals had a little patch of something that felt like the underside of a leaf, and that seemed promising. It was tricky, given she was trying to assess a quality based around Light, which wasn't one of her elements, so she had to rely on what little overlap her elements did have with what she was actually looking for. But something that, to Wood, felt like a light-collecting bit of mana, was probably a decent thing to check out.
+
+Oliver was fishing out broken crystal pieces from one of the slots in the bronze cube. "So at this point, I actually start working with the crystals. I need to work in multiples of eight, because my magic circle is seven-pointed, and each of the slots can hold any number of crystals, but all of them have to have something. This realigns the crystals in a way that makes them good for passing along energy, and is the last step that includes both the Caches and the Crystals."
+
+He removed a couple of topper pieces from a table near the center of the room, better-revealing a very intricate magical circle of bronze-inlaid clay in a roughly seven pointed star setup. At each of the points, as well as in the middle, a bowl carved into the clay itself was filled with crystals that looked distinctly sparkly even from this distance. Oliver pulled those out onto a tray, then placed new crystals in a pattern that aligned with the star shape he was working on.
+
+Then he replaced the table's topper, cast a spell, and Alyssa saw lightless brightness shine through the solid metal top of the table. "How's it doing that?" she asked.
+
+Oliver glanced up from where he was rubbing some of the crystals with a scrap of leather. "Oh. There aren't shadows in this room, so solid objects don't completely occlude things behind them. That particular circle runs mostly on its own, but involves actual light in the process, hence the lid. So the light is blocked, preventing it from spilling out and ruining any of the things that can't be exposed to light, but it also doesn't cast a shadow, so you can still kind of see it. Like how vampires work."
+
+"Can't say I've ever encountered a vampire," Alyssa admitted.
+
+"Neither have I, actually." Oliver agreed. "I just know it's basically the same mechanism. Anyway, those can stay in there as long as I want, they just need at least a few hours, so I don't worry about it that much. Over here..."
+
+He went over to a clay mound in the floor. "This is the bronze-melting kiln, and you wouldn't believe how tricky it was to make sure that no light would come out of it while also being fully contained inside of the building, so the airflow was a pain and..."
+
+"Do we need to worry about suffocating?"
+
+"Nah, this kind of phlogiston is perfectly breathable. It just interferes with Fire magic." He used a pair of tongs to extract a crucible full of molten bronze, set it at the center of yet another magic circle, this one a lot more like the ones he usually made with clean, straight lines and circles, grabbed a different set of tongs, then took one of the crystals from his current selection - he'd separated them into two bowls while rubbing some with leather - and briefly dipped it into the bronze, before setting it off to the side.
+
+"These are for the Network Caches," he explained. "They need Metal to work, so I choose crystals that are already a little rough, give them a bit of further scuffing with sand, and then try to make sure at least a bit of bronze sticks to them without causing them to crack."
+
+After every so many crystals, he put the crucible back, after placing a couple more pieces of bronze in it, and pull out a new one, until all of those crystals had been dipped and were resting.
+
+"While those cool off, I take the other crystals and submerge them in a pure-water bath," he narrated, pouring the entire bowl of crystals into a copper basin, "Cast a preparatory tempering spell, aiariz... prism ... show ... glow..."
+
+Alyssa didn't know most of the words he was using, but there were some she had been taught while first learning Light magic. She was also pretty certain that the leafy texture wasn't correct for the light capture 'attribute,' because she'd found another section more akin to pine needles that was easier to find and more prevalent in the successes, while also not being present whatsoever in the failures.
+
+"Then, I load them up into this," Oliver explained, while working with one of the two largest devices inside the Crystation, right in the middle and with a bunch of the metal... pipes, bars, whatever, extruding from it that kept forcing her to duck to move around. "Which is where most of the magic happens, but I've managed to simplify down into a singular spell. The Network Caches go in the other one," he added as an aside. "The structure of them both are pretty similar, where I'm taking something largely abundant and omnipresent in the outside and condensing it into a crystal, utilizing an existing version of the end-product as a template. I'm almost to the point where I don't need to reinforce the magic with my own [Cogniprint] in addition to what I've got ⟨Inlay⟩ed inside it, but I think I'll need [Cogniprint] to hit level 25 before it's strong enough for that."
+
+He finished loading the crystals into a box that made Alyssa think of a circuit breaker, with an inactive Light Crystal at the top and center of it. He closed the hatch, buckled it in place, then grabbed a wand-lever right above the box. "I always love this part. Let there be light."
+
+He yanked on the lever, and everything bent inwards. Not-light gathered on the inside of the pipes, and Alyssa briefly got a vision of the outside of the dome funneling light through the [Order Mana] channels she'd identified as pipes, then rushing into the crystals. But she was also inside the dome, and could see things behind her head, and through her fingers, and suddenly the crystal in her hand felt blue, and her clothes purple, and the air blue, and...
+
+Reality returned.
+
+"Ha!" Oliver let out a bark of light. "Flashes of insight are always so bracing. Anyway, I need to let that sit for a few minutes while everything normalizes. If you've got things you need to do, you can get to those. Otherwise, if you think you nee a bit more time feeling out the crystals, I will need you to move, because you're sitting on my ritual cleanup supplies, and I have a lot to do today."

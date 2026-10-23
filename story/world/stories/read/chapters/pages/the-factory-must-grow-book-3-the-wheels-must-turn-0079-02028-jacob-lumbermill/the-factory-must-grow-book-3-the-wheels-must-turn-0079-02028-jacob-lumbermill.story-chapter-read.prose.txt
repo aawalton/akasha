@@ -1,0 +1,119 @@
+The attack came swiftly.
+
+Since Veeran had noticed that a local predator was very clearly a deinonychus, he had constantly wondered which creatures they encountered were dinosaurs that had once lived on the ancient world, which belonged to other categories of animal known to the First Empire, and which were creatures unique to this new world they found themselves upon. It truly was a fascinating puzzle, one with no true capacity for answers at this time, yet one he could easily ponder for hours.
+
+Yet no matter how strange the creature, very few were capable of avoiding the telltale notes of Surprise and Force that forewarned of a sudden ambush. Though his ears weren't as keen as he was accustomed to, so too were his foes not as formidable as those he had long since mastered himself against.
+
+It made for a most excellent challenge, sufficient to encourage thought and care, yet not so great a challenge that failure was a true possibility. Enough to make him feel alive, not enough to risk death.
+
+The creature pounced with scarcely a whisper, even the Force it generated muffled as it reached Veeran's ear. Though his back had been facing it, Veeran had already been in Ambush Stance, and though he did not have enough time to truly spin, his [Frostblade] flicked up and behind him, meeting the unknown creature with a ⟨Piercing Strike⟩ and ⟨Sweeping Cut⟩ alike.
+
+When Veeran finished turning to face the creature, he found something almost akin to a griffin - a very feline body nearly as large as he was, covered with feathers that invited comparisons to an owl. The feathercat was dead, of course. It wasn't cleanly bisected, but his instinctive defense had removed a large portion of its head and much of its front right leg. Blood pooled around it, slowly soaking into the ground, and Veeran reluctantly nudged it out of the area he was attempting to do actual work in.
+
+It was somewhat novel to be attacked by a predator, in truth. Aside from the scalewolves which occasionally passed through as The Jungle's most numerous predator, nearly all of their prior clashes with wildlife had been with territorial herbivores. Though simultaneously, recently there had been more predator attacks than there had been in the first few months of the Expedition. Specifically, since he had begun work on the Lumbermill some days prior, he had been attacked once or twice each day. Discounting, of course, the endless barrage of insects.
+
+Veeran's assessment was that First Tower was perceived to be some kind of strange 'nest,' guarded by something odd and loud - the ballista firing claynades, which they did every so often - yet undeniably a point of interest. This caused some degree of attraction for the creatures in the area, and upon finding a lone human outside of their defended nest, they thought him easy prey.
+
+He was simply glad that it was him, and not Smith or Haleford, who was working outside the walls of First Tower. It was not as though their latest production line would be created very far from their home base, there simply was insufficient space within its walls, and it made more sense to utilize wooden boards for wall extensions than endless bundles of reeds, as their existing walls were.
+
+With the threat dealt with, Veeran returned to preparing the mill itself.
+
+The task was not terribly complicated. Smith's artificery had ensured that the most difficult portion of a sawmill - namely, how the saw would be moved - was already taken care of. A sawblade mounted between two motion slides, one equipped to move right and the other to move left, and with a tiny amount of switching similar to what was in use for the engine block pistons, he had a reciprocating saw that wasn't fast, but was certainly effective.
+
+He already had one such head saw set up between two knee-high benches, the blade itself set roughly four inches off the track which logs sat upon. That was sufficient to mostly take off one face of a log and render it flat. From there, the bottom four inches would be pulled aside, to be placed into the kiln.
+
+That was as far as he had managed to get thus far. His next challenge would be determining how the log was fed into the saw, as manual labor - which he had been relying on thus far - was obviously not acceptable.
+
+His solution came thanks to Smith, naturally. The artificer had produced additional sliderails for his technological development, yet had no immediate use for them. Veeran managed to craft for himself some spikes which could go atop the sliderail's carriage, that could dig into the underside of the log and push it forward at a steady rate.
+
+The force which the sliderail could produce was curious, as it could move seemingly any amount of mass, yet only if that mass was not affixed into or abut against anything too solid. The motion slide was capable of cutting into wood, so long as the saw it was attached to was sharp enough, yet it could not break rocks. Smith was delighted to speak at length as to the causes behind the phenomenon, and Veeran was happy to listen to the young man talk with such enthusiasm.
+
+He understood almost none of it, yet the conversation was nonetheless delightful. He scarcely needed any prompting to elucidate with nearly as much enthusiasm as when he was bickering with Ride. He could not truly match wits with the two children, but it was a source of endless joy to witness the pair constantly seeking to outwit the other in words and deed.
+
+Though regardless of how the device worked, or how wonderful it was to see their two youngest Expedition members get along so well, the sliderail made a perfect candidate for his impelling device. It would always push the log into the saw, yet never any further, giving the industrial blade ample time to make each of its mesmerizing cuts.
+
+Determining how to cause the sliderail, fixed so tightly as it was to its track, to backtrack and grab hold of a new log was the matter of some consternation, yet Veeran found a solution in simply creating a loop. Smith had needed to create additional sliderail for the purpose, something which Inq had approved without much delay - how wonderful a small team was - and Veeran had therefore been capable of creating the first stage of the Lumbermill.
+
+"The charcoal keeps getting crushed," Ride groused that evening as they sat around the kitchen-lounge Haleford had been building out. It was getting to be quite comfortable, in truth. Cushions, made of young reeds and filled with all manner of soft things ranging from feathers to other crushed reeds, had been the latest addition. Not all seats had them, yet they were eminently comfortable. Inferior to the force-pillow mattresses they slept on, of course, yet more convenient for casual usage.
+
+"This would be so much easier if we could just, you know, use a fire enchantment like the smelter does?" Ride finished. Veeran did have to agree. Given what the Ranger had said, it seemed oddly primitive for them to utilize charcoal instead of their fire enchantments, which were themselves capable of melting iron. Now that he was considering the matter, why did they not simply utilize the smelter enchantment to refine the ore into pure iron to begin with?
+
+There had to be some reason for the Universal Refinery to continue being in use, yet he could not fathom what it might have been. However, given the reactions of Smith and Inq alike, he was about to learn.
+
+"Wouldn't work," was all Smith said.
+
+"There has to be actual charcoal," Inq elaborated, "Coal would also work, or even aluminum powder, but just heat will never suffice."
+
+"Well-"
+
+"Under these conditions?" Inq stopped Smith's interjection. The younger man pondered the response, his lines pulsing a pale blue, as their Commander carried on, "I'm not counting laboratory experiments, and we're talking about the base reactions here, not transmutations."
+
+After a moment of silence, Inq turned back to Ride. "Chemically... okay. So iron ore is made out of hematite, which is the same thing as rust. Iron oxide, all that. Simply heating up the ore might cause the iron to break, but it would also make it immediately re-react with all of that oxygen right there for the taking. Burning the charcoal is so that there's a lot of carbon also looking for oxygen, that can intercept the oxygen before it bonds to the iron. That's why I mentioned aluminum powder. Rust and powdered aluminum makes..."
+
+"Thermite," Veeran supplied.
+
+"Indeed. Thermite. It functions by utilizing the rust as an oxidizer, and the charcoal works much the same. However, that alone doesn't make enough heat to melt the iron enough to free the oxygen, and as such we need the continuous fire to burn the charcoal as well."
+
+"Oh. Lovely. So we're always going to need charcoal to properly smelt the iron we get? You know that puts a pretty strong limit on how big these furnaces can get, right?"
+
+"Smith?"
+
+He shrugged. "Yeah, pretty much? The Universal Refinery works, but it's incredibly inefficient just as part of base principle. It's got more in common with electroplating than traditional smelting. I might be able to rig up something at some point, but I'll definitely need more than one kind of metal to make that work."
+
+"How are the gears going, now that you mention it?"
+
+Smith grimaced, "It would be easier if I could use multiple materials. I truly did not appreciate how useful that was for enchantments. Even just different kinds of steel could sometimes be enough, but we don't have a precise enough chemical output for me to get that complicated..."
+
+Yet perhaps with some luck, wood might provide that second element.
+
+Veeran's subsequent work included redesigning the entire head saw after it came to pass that a too-large log could pinch the sawblade hard enough that it simply ceased to move. Supposedly, the motion slides ought to have not been stopped by something so petty, but when Smith had requested to study the contraption to determine why they were being halted, Veeran had declined.
+
+The Archmage already had enough development and other tasks to attend to, and the solution was simple enough. Simply making the sawblade vertical instead of horizontal wholly removed the ability for the blade to be pinched by gravity.
+
+Not only did doing so cleanly resolve the issue, it likewise presented a new opportunity.
+
+Then, on account of realizing the missed opportunity that came with cutting off but one side of a log, Veeran created a second saw an arms-span, roughly three feet, apart from the first. In this way, he could create blocks of wood that were three feet wide, and then could turn them and create pillars of wood three feet square-on.
+
+Though not all trees were of that size, there was nonetheless an abundance of those which were. In truth, attempting to constrain their efforts to those trees which were merely a yard in diameter may prove problematic in the longer-term. Yet that was a problem which could easily be handled once said problems actually arose. Their saws were scarcely longer than that, and as such there was little that could be done to deal with it now.
+
+Pure, mid-quality iron such as that which they had to work with, simply was ill-suited to the kinds of stresses they subjected it to. Technique could naturally extend that tolerance, yet they lacked the Skills, tools, and spells to truly extract the most from their metal.
+
+"Yeah, it is annoying we don't have oil," Smith agreed. He was currently reloading their metal-cast trays with more iron powder, using a wooden scoop Veeran had carved for the purpose. "But when it comes to pure iron, water is better. Oil isn't really needed until the carbon content is... about sixty? For the rasps especially though, max hardness is what's best, once you've got the grooves cut in."
+
+"Perhaps I was incorrect, then. I had long believed that oil-quenching was superior in most if not all situations," Veeran noted. Though he'd had some experience working with metal - he found it incredibly advisable for anyone to familiarize themselves with the elements they preferred to work with in all their forms - little of it was on blacksmithing, and far more with machining parts. Yet with no CNC machines or FTEs across the entire world, his existing expertise was less applicable.
+
+"I mean... it is going to be better for a lot of things," Smith raised the form to eye level and shook it slightly to level out the black sand within, "General toughness is going to be better than pure hardness in most situations, and lessening the risk of the metal breaking is usually good. But when it comes to things like files and rasps, pure hardness is the most desirable. Also, not having the ability to provide different forms of tempering is annoying for sure. I knew we wouldn't have full potion-quenches for a while, but..."
+
+"Perhaps that is more akin to my thoughts," Veeran acknowledged. "It is fortunate that we possess such an excellent repairman in Haleford."
+
+"Hmmph," Smith sighed, "Sure. We can say that."
+
+"And yet he is." Veeran punctuated his statement with a somewhat unintentional screech of metal as he sharpened one of the teeth on his new sawblade, "That which his [Unblemish] may lack in medical capabilities, it more than accounts for such a weakness in its ability to repair, clean, and even refine that which it is used upon."
+
+"So long as you're Attuning the metal correctly," Smith conceded, "Did you want me to check any of it?"
+
+"I would be remiss to ever forego the opportunity for another to verify my work," Veeran pointed out. It was easy enough for him to alter the 'soul' of the metal as he sharpened it thanks to his Class' element, teaching the iron that it was now a metal sawblade and ought to return to that state instead of a block of iron, should it ever be presented with the opportunity.
+
+"Gimme just a minute," Smith was studying one of the metal trays. "I think I need to patch the enchantment on this one."
+
+He brought the box over to the far wall, and Veeran got to watch as the Artificer worked his magic. He brandished his staff, reed capped with copper, and the ticking of a clock began to fill the area. A series of magic circles inscribed into the wall glowed in turn, and the magimorphosis lines all across his body lit up brightly.
+
+His voice took on a booming, echoing quality as each syllable he pronounced resonated through the surroundings as though he had his own chorus. A faint breeze drifted through the workspace, a shimmer in the air enveloped the enchantment target, and the lines and glyphs chiseled into the box glowed orange and silver.
+
+After a few minutes, Smith was satisfied, and the slowly-building distortion in the area's light snapped back to normal alongside his voice. He pushed the staff to its rack on the wall through a sweeping arm-motion directing two of the iron placement brackets without even a second glance. They sang their own song of motion, but it was one that Veeran was quite familiar with.
+
+"Okay..." Smith set the iron box to the side and ventured to where Veeran was working, who readily handed off his active project to the subject expert.
+
+Smith began muttering to himself again, and though Veeran couldn't hear the effects of those words quite as distinctly as he had previously, there was still the echo of an echo that allowed him to perceive a vague impression of whispers.
+
+"Yeah, that's solid. Good job," Smith sounded impressed, and Veeran was pleased to learn his work passed the quality requirements of their Archmage-Artificer. "So what's this one for?"
+
+"Though the head saw is predominantly done, I now must create a means to cut the logs into boards, which we may then dry," Veeran answered. He also needed to design some kind of 'return log' functionality, that would feed cut logs back into the line, such that they could be squared off, but that was a challenge beyond him for the time being and was therefore taking advantage of his ability to work on a different portion of the same project while hoping inspiration would strike.
+
+Yet, perhaps even better than inspiration was the insight of a friend. Smith frowned, "Why not just cut the one log into boards, or at least proto-boards, all in one go? Put a ton of blades in parallel, each a decimeter apart, and make a bunch of cuts simultaneously. I don't think whatever kiln we'll end up building can handle anything too thick to start, so if we just make a bunch of boards, surely that would work?"
+
+"That may well work for my purposes," Veeran thought, certainly inspired, "Yet would such a device not require far more motion slides than we currently have made?"
+
+Smith paused, thinking about it. "I guess? So that might take a bit of time to make, but I guess you could also do something with gears and levers and... actually, the enchantment is probably going to be easier. I'll make a few extra when I get the chance."
+
+"I eagerly anticipate your work."

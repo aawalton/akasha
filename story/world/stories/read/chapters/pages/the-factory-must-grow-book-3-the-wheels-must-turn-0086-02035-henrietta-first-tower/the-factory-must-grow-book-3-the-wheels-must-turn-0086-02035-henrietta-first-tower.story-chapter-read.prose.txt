@@ -1,0 +1,155 @@
+Henrietta threw a boulder at the latest crowd of dragons, flattening them, and followed it up with a much smaller rock thrown by her actual hands at the one dragon she hadn't caught in the first go. It collided with a thunk, and the dragon fell to the ground, rolling down the slope.
+
+In the two-ish days since the dragonflood had begun, they hadn't seen any real abatement of the ongoing assault. There were definitely lulls, but they were always temporary. If anything, there might well be more dragons attacking now than there had been at the start, but they certainly weren't getting better at fighting them fast enough to keep up with their increasing weariness.
+
+What progress they had made was of limited usefulness. There were only so many dragons capable of flying, and as such the Spire was already quite defensive. Unfortunately, one side of the Spire was much more of a steep hill, and that allowed plenty of dragons up. Henrietta had been working on removing enough stone - it was a lot of boulders and disconnected rock, making it easier - to make it impossible for non-flying dragons to attack. But for now, all she'd accomplished was funneling all of the flightless dragons into a smaller area. It was absolutely necessary, but there was just far too much of a perimeter to fully protect.
+
+Jacob, for his part, was currently resting. When he wasn't, he was capable of single-handedly being the bulwark of their defenses, with Henrietta's inklings serving as a secondary line and protecting against the flying dragons while she continued to dig out the rocky debris. The bottom of First Tower, with its brick-kiln and sleeping hut, were entirely lost to the monsters, and they were just barely holding onto the top with its System node, smelter enchantment, and the First Forge. Even then, that most of the dragons weren't capable of sustained flight was the only reason they hadn't lost it yet. Also, while not all of the dragons could be driven off with a single landed attack any more, enough of them could that even Clark could usually drive off what stragglers made it past the remaining defenses.
+
+Getting that boy an attack skill had definitely jumped in priority. While his prodigious capabilities of leveling hadn't inherently translate to skill-earning ability, the whole team's efforts combined should be able to get the boy something.
+
+To her left, one of her scalewolf inklings tackled one of its brethren, sending them both down the hill in a tangle of black and bluish gray. To her far right, a pseudowyvern construct clawed at the eyes of what looked a bit like a toothtongue, just with a shorter tongue. It was eaten for the trouble, but it still gave Henrietta enough time to get over there and slam her flail into the creature's torso, launching it into The Jungle beyond.
+
+Someone approached. "Reporting back, ma'am."
+
+Alyssa's voice sounded tired, but Henrietta was incredibly relieved to hear it. They must have just gotten in, and if the rest of The Jungle was anything like what they were dealing with, it was probably nonstop fighting both here and back. That also made their trip out much faster than Henrietta had nominally expected, which was a pleasant surprise.
+
+A scalewolf inkling took her place as Henrietta retreated from the front, looking Alyssa up and down. She didn't look like she'd been in a fight for her life, merely disheveled and exhausted from a long run. Henrietta also caught a glimpse of Oliver, who looked confused as he was speaking to Clark.
+
+"Greetings, Ride. You succeeded, then?"
+
+"Yep," Alyssa was obviously fighting to stay mostly upright, which Henrietta could understand quite well. "Oliver managed to do the fixy-thing, we had a bit of a standoff with Sally the salamander, killed a few dragons, and then made it back."
+
+"Excellent. Go rest, once you awaken we can involve you within the defenses." Their ballistae were lost to the dragons, but with five people to spread the defense efforts again, Henrietta was confident that they'd reclaim ground quickly. Fighting off endless hordes of hostiles was the thing that all Forerunner Expeditions were prepared for, after all. Their low levels were a hindrance, not a prevention thereof.
+
+Alyssa saluted and bounded off towards the First Forge to find a comfortable place to recover, stumbling slightly as she did so.
+
+Henrietta glanced back at the battlefront, saw nothing that needed her intervention, and joined Clark and Oliver as they talked. They weren't far from Alyssa, but neither seemed inclined to interact at the moment.
+
+"...No, Clark, I'm saying that it was working, not that... Commander."
+
+"Is something the matter?"
+
+Oliver held out a small motion slide, "This. It's not working here. It was working before, but... it's not now? It seems to be acting a little differently than before, so it shouldn't just be that the Shelter base enchantment is broken again, but it's not... working."
+
+"So it was working when you were close, but it isn't working now?" Henrietta confirmed. Oliver nodded. "Is it a range issue?"
+
+"I would be surprised?" Oliver shrugged, "It shouldn't have worked at all before if there was some intrinsic range limitation, but back home there's still practical limits on how far out a reference enchantment can be before the magical connection, signal, reference, whatever just gets washed out in noise. Which is what most range limits are."
+
+"Could the dragons be causing interference?" Henrietta's mind was racing. She didn't need to figure out the exact cause, just ask Oliver the right questions to get him to figure it out. Not, of course, that doing so was materially easier.
+
+"I would have expected the interference to override the broken base enchantment, if that were the case."
+
+"But it's not impossible?"
+
+"It wouldn't be fundamentally incompatible with how magic works," Oliver shrugged. "It's just not how I would have expected it to play out."
+
+Henrietta grew quiet as she thought. Then she realized her thinking was better done out loud, and pulled Oliver's attention back to her. "Smith, correct me if I'm wrong at any point in this," she stilled, "Actually, before I start speculating, do you know what might be happening?"
+
+"Eh... no? The things I'd usually check to try and figure out what's happening aren't telling me anything useful."
+
+"Very well. So once again, inform me if I'm mistaken. But your motion slides, along with most of your other enchantments, are enchanted on a backbone of runes, yes?"
+
+"Glyphs. They're glyphs if they work in tandem, it's only a rune if they work in the absence of any other symbols meant to support their function."
+
+"Okay, and they're glyph-enchanted because they use references to other glyphs to function," she confirmed. "And they seem to be broken because those references are turning up blank. Like if you tried dissolving something using water instead of sulfuric acid ."
+
+Oliver looked a bit confused, so Henrietta clarified, "It's just being diluted, rather than reacting."
+
+That got the nod of affirmation.
+
+"And glyphs work because putting multiple highly magically-reactive things together tends to result in emergent phenomenon, they get volatile and try to do things."
+
+"No... Kind of?" Oliver was hesitant.
+
+"Do you have a better simple explanation?" she asked.
+
+"...No."
+
+"Then we'll stick with that for now. How do you send signals between enchantments? With your references, do you need to actively tether them together, and could you break an enchantment by breaking its connections?"
+
+"It's not really a signal," Oliver replied after a moment. "And they definitely can be interfered with, but that's not usually an issue. There are some spells and skills, like [Trace Dependencies], which can track them, but it's... How do I describe it. It's kind of like creating a temporary Association with a specific symbol, teaching it to the Tapestry, and then using that Association with another glyph. The symbol is being used symbolically to represent a situation, and a secondary glyph feeding into the main one is like temporarily adding additional context to the situation it represents. It's the same thing that makes Song, Name, or Rune pick up their connotations.
+
+"There's no direct connection though. And it's temporary, because there's all kinds of magical spill that wipe away any contextual Associations, especially other glyphs or just what the runes represent, but it's done in such a way that it doesn't... matter? Or no. It does matter, it's just that usually it's constantly being refreshed, and I realize now that I'm actually talking about something completely different, more about how interdependent glyphs work, rather than how I made the motion slides, which were made more by copy-pasting an existing enchantment, with all included context, and has no tie to the original whatsoever."
+
+"So the magic," Clark asked, "It gets reset by other magic. Does that mean that here, because we have all the magic, you can make that other magic last forever?"
+
+"That's... not what I said," Oliver sighed pointedly. "But... I suppose? I could see glyph transmission being stronger here for certain runes. Anything representing a natural phenomenon would have no chance, but for more artificial glyphs..."
+
+He trailed off.
+
+"Is that potentially what could be causing your issues, Smith?" Henrietta asked. She didn't want to derail what might well be a productive avenue of exploration, but they did rather need some defenses set up, and soon.
+
+He snapped back to attention, "I don't see how it really could be, that would be a reason that my designs would work better, if anything."
+
+"Very well," Henrietta nodded, "So, you have a base enchantment that you just fixed, which should be providing key functionality to the rest of your infrastructure. But it isn't, despite the fact the magical principles it's built on should be stronger here, if anything?"
+
+"Maybe it just doesn't want to work here?" Alyssa had moved to be a bit closer at some point, probably to eavesdrop on high-level magic shop talk without seeming like she was overhearing, but her urge to interject had overtaken her. "It's magic, after all. Why couldn't it just only work inside of Shelter, but now that you're here it doesn't do anything?"
+
+"No," Oliver shut it down. "This isn't the Age of Oppression. We understand how magic works. Yes, some pieces of magic do need a distinct framework to exist in, but neither Shelter nor the motion slides operate on that axis. I'm not an idiot, I know how to make standalone tools."
+
+"Says the guy whose tools broke randomly because something ten miles away had a rock land on it a bit too hard."
+
+"Is there some reason it couldn't be magical interference of some form from the dragons?" Henrietta intervened. The particular brand of... encouragement of excellence that Oliver and Alyssa engaged in wasn't liable to be helpful here. "Or the desert between us and your magical source? That does seem to be the most likely to me."
+
+Oliver sighed, "No... it could be that. But I just... really, really wouldn't have expected things to break the way they did if that were the case."
+
+"Assuming it is that, can you fix it?"
+
+"I could create a new Mana-Smoothing Ward, probably, and try to intercept the referential enchantments that way. But it wouldn't be fast, because I'd need to get really specific with the enchantments."
+
+"Even with your better tools?"
+
+Oliver nodded. "It's not a matter of quality, but of specificity. It's like trying to hand-make an identical wood carving. It's easy to carve wood, but it's hard to carve two pieces of wood the exact same way. I can do it, even improve it, but it will just take time."
+
+"Isn't that what your [Cogniprint] excels at?" She asked.
+
+"It is, but I don't have a copy of the enchantment itself."
+
+Henrietta raised an eyebrow, "I thought that was precisely what your staff was."
+
+"No, it..." Oliver stopped and truly contemplated what she'd said. "Huh."
+
+Henrietta's attention was grabbed by a muscular dragon forcing its way through her inkling line with a roar. Without a word, she flung herself backwards on her tendrils, grabbed the dragon in question with four of the ink-flails, and hurled it like a bowling ball at more dragons stalking up the hill.
+
+She stayed there for a bit longer, dealing with the incursion until she had the opportunity to replace her lost inklings and return to where the three kids were talking.
+
+"What have you determined?" she asked.
+
+Oliver frowned, "I've determined that [Order Mana] has stopped working out here. It does work in the First Forge, though. Which is all kinds of confusing."
+
+"Can you use the staff to replace the Shelter wards, or not?" Henrietta was probably being a little short, but they had wasted enough time. This needed to be solved.
+
+"I think so. [Order Mana] would have helped a lot though. But I think if I ⟨Inlay⟩ [Cogniprint], I can make it work."
+
+"Do it. Do whatever you need to get things working, then work on building out defenses. Stretch our iron as far as you can, I don't know how long it'll be until we get more." Henrietta spotted a small flock of dragons coming in from the river, and she had to leave.
+
+Henrietta missed most of the subsequent deployment of the new ward scheme, preoccupied as she was with defending First Tower. She definitely didn't miss the flash of light flooding scent of pungent oil and incense that accompanied its completion. Nor did she miss how that seemed to reduce the number of dragons attacking them. It wasn't immediate, and it was difficult to track exactly how much of an assault they were under, but there was absolutely an inflection point in there.
+
+Curious.
+
+Now, a reduced rate of attack still meant that there were still plenty of dragons attacking them, but it was less a never-ending current and more a matter of waves. Perhaps the dragons had found another target to focus their efforts upon, but Henrietta doubted it. There was something going on, whether a disrupted cycle of nature or some kind of 'immune response' to Technology... not knowing was frustrating.
+
+However, as defenses were created, they settled into a bit of a new normal, and Henrietta could start thinking more objectively. Their ballistae had been a solid start, but had the fatal flaw of having broken when they actually needed them. How they would handle that long-term was... unclear. But for the time being, they had managed to reclaim the ground-level part of First Tower. Alyssa and Jacob managed to beat back the dragons long enough for Henrietta and Oliver to create an earthwork and wooden wall, a trench directly next to a sheer and hard-packed clay embankment, making it infeasible for any land-based dragons to attack them from The Jungle. Atop those, Oliver had laid a very basic defensive ward that discouraged airborne attacks as well.
+
+The end result was a half-decent defense that wouldn't withstand any determined assault, but would redirect anyone who tried to attack First Tower - including the Spire - into a particular path. The path in question was a newly rebuilt bridge across the Tower Stream, now made out of solid wooden posts and incredibly sturdy wooden boards instead of woven reeds. That led directly into the Blast furnace area, which would in due time have a similar setup for its defenses, this time leading onto the Ironroad.
+
+Everything still stank of Ash, of course. They had lost... a lot, in the draconic attack. But the System node was working again without any particular risk of permanent destabilization, the smelter enchantment had been restarted and upgraded, and First Forge had never even stuttered. Oliver's [Order Mana] was working again, which they were back to assuming was due to the skill requiring some baseline amount of Order in an area to function. Some of the broken artifacts, like Oliver's test motion slides, had started working again as well, but not all of them, and it wasn't simply a matter of damage. Hopefully they figured out what was happening eventually, but for now they didn't have any idea.
+
+As far as wider damage went, while the Blast furnace, Charcoal Furnaces, Lumbermill, and the Ironworks had all been damaged beyond repair... two of those were still under construction anyway, the Ironworks itself was just a hole in the ground, and while the Ironroad damage was significant its felled trees hadn't grown back, meaning what they needed was mostly a matter of repairing the road surface and guidance track.
+
+That left Lumbermill as the only true loss, but it was acceptable. A couple of weeks setback was minor.
+
+The morale blow was the main thing Henrietta needed to worry about. They'd survived, yes, which was the cause of minor celebration, but it wasn't a true accomplishment. They were Forerunners, surviving a mere tide of wild beasts was well within their capabilities even at low levels. That they had done so while defending their base was an accomplishment, but that was inevitably balanced against all that which they hadn't saved.
+
+Jacob and Clark were difficult to get a proper read on, as both approached every situation with the exact same face. Alyssa was quite frustrated at needing to restart her work on the Blast furnace, but it seemed to be a surface level frustration. Or perhaps it was a genuine frustration, and she simply handled it by complaining loudly. Oliver was, much to her surprise, probably the one handling it the best of them all, but that was because he'd gotten new tools to work with, and was practically eager to rebuild everything.
+
+⟨Inlay⟩ was a very potent subskill, radically enhancing Oliver's ability to create skill enchantments. Doing so was still a fairly labor-intensive process, of course - the sorts of stage displays where someone would simply touch an object and imbue it with magic were usually more showmanship than actual enchanting - because it could only be used on an appropriate target. But, an 'appropriate target' was far easier to create than a full artifact, and it gave Oliver a keen sense of what would be required for said given target. Combined, Oliver could usually create an ⟨Inlay⟩d item with only a day's worth of work or instantly know that something wouldn't work.
+
+Oliver's other major new tool wasn't, in fact, ⟨Duplicast⟩. While very practical, it hadn't granted their group any new capabilities, just made old things easier. Instead, it was Oliver's discovery that he could ⟨Inlay⟩ his [Order Mana] to supercharge his contextual 'broadcast glyphs,' creating a reference magic circle that - Oliver insisted that 'broadcast' was the wrong term, but hadn't provided a better one - broadcasted the enchantment to the entire area.
+
+In practice, that meant he could create a single enchantment in iron, clay, or wood at the base of the System node tower and then use that enchantment with only a single rune. It was technically just a time saver, and the fact it only worked in [Order Mana] zones was a restriction, but quantity was its own kind of quality, and the ability to create dozens of similar artifacts - such as motion slides - in a single day was... revolutionary.
+
+Best of all, it enabled Henrietta to create artifacts on her own, using [Refined Calligraphy] for rune-drawing. The objects still needed to be created - by Oliver, usually - so it wasn't practical yet, but the potential was immense. An ⟨Inlay⟩d [Refined Calligraphy] artifact automatically enchanting items prepared via some other automated process would be ludicrously potent. It also couldn't yet be deployed at scale, because the easiest ⟨Inlay⟩ for it required glass, but by the time they'd need it that certainly wouldn't be an issue.
+
+Though the smell of Ash lingered still, the scent of potential overwhelmed it.

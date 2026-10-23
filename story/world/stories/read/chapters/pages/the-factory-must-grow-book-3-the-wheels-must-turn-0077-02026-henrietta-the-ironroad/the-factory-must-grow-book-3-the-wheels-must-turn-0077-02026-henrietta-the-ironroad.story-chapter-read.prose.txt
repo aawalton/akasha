@@ -1,0 +1,161 @@
+"So why am I the one here? Wouldn't it make more sense for Oliver or Clark to be doing... this stuff?"
+
+Henrietta sighed. Alyssa could definitely be a hard worker when she wanted to be, but if she felt she was being assigned 'busywork' the Ranger tended to get restless. "Smith is most commonly preoccupied with his existing tasks, as he is the only one capable of true enchantment-work. Haleford will assist you with the construction once he has successfully taught the sniffers how to maintain the Charcoal Furnaces. As shall Veeran, Smith, and myself when the appropriate times arise. However, for the initial development phase, your Skills and casting abilities make you more equipped than either of them for this purpose."
+
+Alyssa brightened up a bit at that, and Henrietta nodded to herself. Her theory that the woman mostly needed to feel uniquely capable, and felt threatened when she was presented with competition, seemed to be accurate. Whether it was more arrogance or low self-esteem was still an open question, but not Henrietta's concern quite as of yet.
+
+"I'm aware that you've focused more on Fire-based spells, and comparatively little on the elements of [Ranger of Far Lands]. However, in this your aerokinesis will be of greater use, though naturally your pyrokinetic capabilities will be naturally synergistic with the design."
+
+"Yeah... so what, you just want me to be standing at the base of the Blast furnace and acting as a human bellows? Didn't Oliver literally make a bellows enchantment even back when we were at Shelter?"
+
+He had. But if Henrietta assigned him this job, she'd be delaying the sliderail development even more, and would probably take far longer with each iteration as he meticulously predicted and created custom enchantments for each alteration he wanted to make to the furnace design. His Skills weren't advanced enough for the kind of flexible, on-the-fly freeform adjustment of output that she was certain Alyssa could do.
+
+Also, she wanted Alyssa to develop her project-leading skills. The young woman was bright enough to learn, she simply needed to direct that focus towards something more productive than thinking of creative ways to annoy her teammates.
+
+"You'll do a better job faster than him," Henrietta decided to phrase it. She didn't want to denigrate Oliver just to encourage Alyssa. "It will also be better for your Skills than his."
+
+Skills and skills, really.
+
+"Now that's true. It's just weird to think about me working on industrial output instead of Oliver."
+
+"You can ask him for assistance with the design if you want, but he has his own work to focus on. And you shall have my assistance in this, though not-full time. I believe you can accomplish it, given the base principle is simple enough."
+
+"A mixture of ore and charcoal, yeah." Alyssa looked unusually thoughtful as she spoke. "Then blow a ton of air through it to get it burning hot. It needs to have the ability to have constant inflow, and separate outflows for iron and all the waste stuff."
+
+"Slag and what will likely be pig iron, yes." Henrietta nodded.
+
+"So I guess we just... make it, and then go from there?"
+
+It was going to be different to work with Alyssa than Oliver, she could already tell. But Henrietta was glad that the Ranger seemed to be taking it seriously.
+
+"So it's going to make rock... and if it's hot enough, molten iron I guess? How hot will this get?"
+
+Henrietta spontaneously decided to occupy more of a 'silent mentor' role, let Alyssa figure things out on her own. Questions towards nothing in particular wouldn't be answered, specific asks that were directed towards her would be.
+
+"I mean, it's got to be the iron, right? It's metal, and metal is heavier than rock. Will this make lava? Could it get hot enough to melt rock? And then if it's going to be constantly in use, then it needs to be a tower that can mix in both charcoal and the ores..."
+
+Henrietta was fairly certain that Alyssa's initial design wouldn't work.
+
+It was close, but the Ranger had decided, based on some half-remembered implementation of Oliver's Shelter Copper Furnace, to have molten iron flow out of the bottom of the furnace, and then the lighter lava she would produce would flow out the side. That was fine, but they'd be separated by a U-shaped siphon that would be... constantly filled with molten iron, apparently. So that the 'lava' wouldn't be heavy enough to displace all the iron, and as such only iron would flow out of that particular outflow.
+
+The idea that the iron might solidify, clogging the outflow as it sat in the siphon, hadn't seemed to occur to her.
+
+Still, whether or not it worked, Henrietta had resolved herself to simply supporting Alyssa. A good leader was supposed to lift up their underlings, and she vaguely remembered some advice being given about allowing their underlings to fail, just so they would learn that lesson personally. It had occasionally seemed harsh, but she was starting to see the use-case.
+
+After all, how something failed could be far more informative than simply knowing that something failed, and Henrietta certainly didn't know which of the dozen obvious failure points would be most problematic.
+
+They at least had a steady supply of their roughshod bricks, though less of a stockpile than might be generally expected. Practically all of their projects used the bricks in some form. Oliver's smelter enchantment, Universal Refinery, and workshop all had bricks heavily involved in their construction, portions of the Ironroad were brick-reinforced, and of course Clark's kitchen-dining lounge room had brick walls and floors. One more demand on their supply might cause them to run a bit short at times, but if that happened... they were probably past due when it came to analyzing that particular system for inefficiencies.
+
+She left Alyssa to her brick-laying, creating something that looked a lot like the System node tower in miniature, to see how the others were doing.
+
+Clark was the closest, as both the Blast furnace and the Ironroad were on the far side of the river from the rest of First Tower. He was next to one of his Charcoal Furnaces, currently billowing out vast plumes of smoke, surrounded by black creatures and constructs.
+
+His petalfur... Tully, that was it, was very curiously regarding the new group of inklings she'd made. The sniffers were actually a bit smaller than the fox-like creature, and bore a decent resemblance to dodos, of all things. They waddled around like ducks, could fly short distances, and were surprisingly deft with their claws when it came to manipulating their surroundings. In lieu of beaks, they had very dinosaur-like snouts with a mix of sharp and blunt teeth that suggested an omnivorous diet.
+
+Tully was apparently so occupied with examining the constructs that it didn't notice Henrietta's approach until she was practically on top of them, and with a small yelp the critter dove into the shadows beneath a nearby log and vanished.
+
+Clark looked back at where his pet had disappeared, then greeted Henrietta with a smile, "Commander!"
+
+"Haleford. Do you need anything from me at this time?"
+
+He shook his head, "Nope! These things are great! Surprisingly smart, too. Oh! And I figured something out!"
+
+He bent over, poking around the base of his Furnace, and withdrew a half-burned and still smoldering stick from the pile. He waved his hand over the end and a small burst of Water filled the air, extinguishing the glowing embers at the end. He'd gotten much better at cantrips lately, it seemed. Extinguishing fire... well, actually could be a function of a full [Unblemish]. Henrietta could understand how that might work.
+
+Apparently, that wasn't even what he wanted to demonstrate, as he took a dynamic pose while holding out the piece of firewood, "Watch!"
+
+With a flourish, Clark swept his hand downwards, fully activating his skill as he did so. As his hand passed over the wood, what had been fresh wood turned black and cracked, transmuting to match the charcoal present at the once-burning end. "Ta-da!"
+
+He'd figured out transmutation! "Well done, Haleford!" She didn't even need to emphasize her approval, and he subtly preened under the praise. "That's a very impressive step. Have you gotten any subskills for it?"
+
+"Oliver said I hadn't," he shook his head, "But [Unblemish] is now level twenty two!"
+
+Henrietta truly didn't understand the boy's leveling pace. Yes, all of them were leveling much faster than normal - Oliver said it had to do with a combination of the uninhabited world and an increased ease in regaining lost levels on account of being familiar with their toolkit - but Clark managing to consistently earn more than a level per week to his main skill was...
+
+Well, it was impressive. Most people never capped out their Skills, their levels usually landing in the forty to fifty range for their most-used types of magic, and Clark was on track to hit the level cap in less than two years. Even adjusting for when his levels inevitably slowed, he'd definitely cap it before they made it back home. Hells, given he was leveling twice as fast as any of them - he'd recently hit an astounding level twenty nine, while the rest of them were in the twelve to fifteen range - so he might well reach max Class level in just a few years.
+
+"Keep practicing, then. A few points in Skill might help it along, as well."
+
+"Okay!"
+
+"And don't forget that I can tweak the sniffers more if you need me to." She'd had to change their behavior a fair bit to make them trainable, but altering the 'personality notes' was only one of the many tools she had in her arsenal. Making any changes was trickier than she was used to without a supplemental skill, but she'd made it work before and could make it work again.
+
+"I will!"
+
+He turned back to teaching his creatures about the difference between smoke types. She doubted that the sniffers could understand him, but if it worked, it worked. She needed to be more comfortable with people making mistakes. They weren't under incredible pressure, and at the moment that was a good thing.
+
+Her next check-in was with Jacob, of course. He had set up a woodworking bench, and was putting a lot more effort into the replacement cart than she'd expected. Reeds, lumber, and branches alike were being used, and the cart itself which was starting to bear a decently strong resemblance to a stereotypical minecart.
+
+A handful of saws and chisels were visible underneath the half-brick, half-wood bench, and the faint whiff of Arcane and Technology signaled that the anti-Nature ward Oliver had built around it was still active.
+
+Jacob saw her approaching, but the only sign of that was a very brief acknowledgement. He was fixated on a board on his bench, using his hands to measure distances. Henrietta didn't want to interrupt, and as such waited until he'd marked his next cut using his saw.
+
+"Any difficulty?"
+
+Jacob didn't look away from his ongoing work, "Non-trivial, yet reasonable."
+
+"You're equipped?"
+
+"Save for nails."
+
+That was fair. They didn't have terribly many of those, given they had to be handmade. Wooden or reed spikes were more commonly used, but wouldn't work here. While Jacob was more likely to make the metal nails these days than Oliver, their Artificer had been occupying their primary workshop effectively nonstop, so Jacob hadn't had many opportunities to restock.
+
+"But you can manage?" She wanted to confirm.
+
+"I can."
+
+"Inform me if you need help," she said for her farewell, and Jacob provided a brief nod before making another marking-cut on the same board.
+
+Oliver was the next on her list, but even a brief look made it clear disturbing him was going to be more detrimental than helpful. He was pacing around, his hands flitting in a number of spells as he interacted with his System, probably designing and redesigning the sliderails to be more useful.
+
+She'd check on him later.
+
+Henrietta had two free skill slots, which was too many.
+
+Even if she hadn't firmly settled on picking up ⟨Amanuensis⟩ yet, there were still plenty of other subskills for [Refined Calligraphy] which would prove useful. Or, if she wanted to be a bit more adventurous, new skills altogether.
+
+She wasn't as versed with System theory as Oliver was, but she did have a decent understanding about her elements. Card pertained to random or semi-random systems, Rune to symbology, and Shadow to the legacies left behind - literally, the shadows cast by others. Naturally, they combined into [Master Inkscribe], a Class interested with the written word.
+
+Given their current status, most of it wasn't as useful as it could have been. It was designed - inasmuch any Class was designed - to assist artists, poets, calligraphers, and manual scribes. If the System had been dispersed before the rise of computers, no doubt it would have been more intensely explored for skills that were these days redundant.
+
+Still... why not try to develop some of those uses herself?
+
+Practically speaking, she was limited in her ability to earn skills to the overlap between her class elements and her Sketchbook. The artscape sat right past the edge of what the System 'saw,' so the magic she did with it under normal circumstances wasn't crystallized and optimized into a typical Skill. But she could use it to manipulate her own magic in certain ways that the System would acknowledge. It was the difference between using a robotic arm to draw a picture, and having a robotic arm grab a person's arm, making them draw the picture themselves. Only the latter made the person 'count' as the artist, and the System used a more sophisticated application of that very concept to 'install' Skills on people back home.
+
+Effectively, it pushed and prodded the soul until it spit out magic, then imprinted the cast magic onto the soul as 'a thing the soul could do.'
+
+Fortunately, artscapes in general had a lot in common with elemental Shadow, which gave her an excellent starting point for her endeavors. The magic native to her other Expedition's world had been largely dependent on experiences and creativity, accumulating impressions of the world as you lived it and presenting opportunities for those with it to process and express those impressions in unique ways. Her expression was nearly as physical as they got, allowing her to recreate 'simple' things - apparently entire living creatures were 'simple,' which she disagreed with but took keen advantage of - she had encountered. Most of the time, they were far more ephemeral, such as Mark's 'dreamscape' allowing him to relive scenarios within his dreams to gain new information or for the purposes of practicing and rehearsing.
+
+Elizabeth had her map, Halvor had his canvas, Cara her blueprints, Noctis his Realm... all different ways of re-presenting reality in a processed and unique way.
+
+Which was what had led Henrietta down her current path of investigation. Her Sketchbook couldn't handle words, it was a pictographic representation of reality held in abeyance after she subsumed something's Shadow - its impact upon the world - which she could later reproduce to have a largely-identical Shadow of her own. Language wasn't part of that Shadow. But she could, and frequently did, alter the 'words' describing the Sketch to alter the inkling she eventually created.
+
+She usually messed with her Sketches once they'd been subsumed. That was the easiest and - generally - most useful way to approach it. The sorts of things she worked with were rarely so unique as to suffer if she, for example, took an entire pseudowyvern and then erased everything but the wings, instead of just subsuming the wings.
+
+But she could do it.
+
+The things that they 'needed' were incredibly varied. They needed materials, they needed tools, they needed practice, they needed information. Everyone worked better when they knew what they were doing. It was why Alyssa had her [Rustlewind], why Oliver had [Appraise]. And as their leader and as a scribe, not an alchemist, Henrietta could leverage her own strengths towards a new way to learn about the world. Shadow and Rune could tell grand stories when given the chance, and she just needed to provide it.
+
+She got a bit of practice before jumping into the full attempt. She Subsumed half of a reed. Then only the leaves from a branch. Then only the green parts of a piece of wood. Then she Subsumed the color red from a rock.
+
+That last one was odd, because her Subsuming an object didn't destroy it. It just repurposed its Shadow, making it so that the object could no longer have an effect on the world. It was possible for the thing to recover, but usually only under 'normal circumstances.' Living creatures would regain their Shadow by living, inanimate objects would do so by being involved in situations they might normally be in. And Henrietta... didn't really have a use for 'the color red' in her Sketchbook. Without other inks or some kind of subskill, her creations would all be purely black. But it did make the target rock look like it was in grayscale without compromising on anything else like structural integrity.
+
+Next, she practiced half Subsuming things. Pulling on their Shadows, but not taking them outright. She even practiced on her hand. The sensation might not have been pleasant, but it wasn't painful either.
+
+Once she was confident in her capacity to half-Subsume objects and Subsume only portions of a thing, she put them together. Temporarily stretching a small part of a thing's Shadow, then allowing it to return to normal.
+
+And finally, she did it to her hand.
+
+Her right hand was held on a piece of paper, fingers splayed while she took her left hand and situated it directly atop, fingertips brushing the back of her right hand. Then she activated her magic, starting to Subsume...
+
+Just the magic. The impression I leave on the Tapestry around me, the most Significant pieces of my Shadow, right at the very surface.
+
+She physically withdrew her left hand, and her right hand felt a bit like a rubber band was being stretched, pulling it off the page. Then, she quickly inverted the attempts to Subsume her hand, pushing the same way she'd pulled, and her right hand hit the paper with a thud.
+
+Henrietta's soul tossed and turned, reacting to whatever had just impacted it, but she dismissed its panic. Instead, she turned to the paper, where her latest skill had done its job. It was a little sparse and currently redundant with what Oliver could provide, but what it promised...
+
+[Master Inkscribe] 13Shadow, Rune, CardDexterity 10, Mind 9, Capacity 6, Skill 5, Aura 4, Recovery 2, Cohesion 2, Strength 0, Resistance 0, Power 0[Refined Calligraphy], [Inscribe Documentation]
+
+It promised a new source of information. A duty that she could handle in Oliver's stead, and a new avenue for growth, mastery, and knowledge - that greatest of all forms of power.
+
+She smiled. Things were going well.

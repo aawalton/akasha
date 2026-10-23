@@ -1,0 +1,143 @@
+Arcanoception was a funny thing.
+
+It was practically mandatory to have, more important than any other technical or academic capability present in the modern day. To not have it was to be all but blind to half of reality, especially the uses of one's own class, and yet it was easier to bestow sight upon someone who had been born blind than it was to give them arcanoception.
+
+While the System could grant incredible magical capabilities with the effective snap of a finger, nobody had ever figured out how to grant nonspecific mana sense in general, let alone in a simple way. Certain divination spells existed that could somewhat bridge the gap, but they weren't arcanoception. They tended to only detect certain kinds of mana - such as how [Detect Magic] could help someone determine the presence and shape of Arcane mana - or only could detect the physical or metaphysical objects they targeted, as with [Detect Poison]. Those skills could still be useful, particularly at high levels, but most of their use came from having some amount of insight into an element that was important, but too far from the user's Class to be sensed normally. And half the time, they either worked better with or almost required arcanoception to even function.
+
+Fortunately, arcanoception was absolutely a teachable skill, but it was a skill in the traditional way - purely a matter of instruction and practice. Most people developed theirs as a teenager, and what form it took was arguably the most important choice in life.
+
+Sometimes, it wasn't even really a choice. As souls pushed and pulled on the Tapestry around them, they could 'feel' it, and that 'feeling' could then be trained to feed into the human brain to help with the perception of mana. And once the connection was made... it couldn't really be changed.
+
+Though, that wasn't entirely true. There were examples and stories of people who had lost their arcanoception through accidents or deliberate effort, those who had tied a second sense into the perception, and so forth, but it was practically permanent even if it wasn't precisely so.
+
+Regardless, once the 'choice' - something which wasn't even a fully conscious decision, though there certainly were ways to influence the outcome - was made, how the individual would interact with mana for practically their entire life was largely set. Henrietta had intentionally gone for scent, a relatively uncommon choice, because even as a teenager she'd known she wanted to be an alchemist.
+
+Sight was the most common choice, albeit occasionally difficult to get, and it provided the generally most generic experience of mana. Good for precision at long distances, great for quick estimation, and easy to parse. It also had the highest chance of accidentally obscuring something important in the physical world, but that was a trade-off most people were happy to make.
+
+Touch and hearing were usually only pursued if there was a specific use-case in mind. Not that they couldn't be generally useful, and all forms of arcanoception revealed different details in the workings of elements, but it just wasn't common to try for them on a whim. They had distinct strengths and weaknesses, and were harder to 'turn off' in areas of high magic.
+
+Scent... was the worst for that. Earplugs and thick clothing could be used to deaden the other scents, but so long as Henrietta was breathing, she'd smell magic. She couldn't even use most normal filters or stored-air tanks to get around it, from her experience. Why? She didn't entirely know. Most scent-based arcanoception could filter the air and block the mana, the same way a sight-based one could hold up their hand to block it, but she was lucky enough to smell things through obstructions. Whether that was good luck or bad luck depended on the situation. But better senses, a function of the Mind stat, helped when it came to filtering out 'unimportant' sensory input, but it only went so far.
+
+Intuition-type arcanoception, sometimes called 'pure' arcanoception and often seen as the pinnacle of mana senses, was practically the exact inverse. It was also the hardest to develop by a substantial degree, to the point that most people didn't even try... which itself probably contributed to the overall scarcity.
+
+But those who did manage it had an incredible degree of flexibility that came from having a new sense, one which could be trained separately from any physical sense save perhaps proprioception, with its own limitations and specialties, unblocked by most physical barriers and with the capacity to wholly and trivially focus on pieces of magic that did interest them, shutting out in totality any background mana they didn't want to pay attention to.
+
+Which probably explained how Oliver could stand to be in his Workshop so continuously.
+
+The smell of Fire and Metal was practically overwhelming, and Henrietta had to continuously fight back the instinct to cough as Oliver walked her through some of the technical challenges he was having.
+
+It didn't used to be this bad, surely? She'd been up here before. She'd been here when the smelter enchantment had first been activated. She'd been up here recently, even! But sometime in the past couple of weeks, it seemed like the combined scent had permeated absolutely everything. It also might have been worse inside the workshop, inside the forge, than outside despite the fact Oliver's wards absolutely would work to block environmental mana from getting inside.
+
+Finally, she couldn't hold it back any more, and she let out an enormous sneeze. Even tucked into her elbow, it was loud enough that Oliver took a step back.
+
+"Commander?"
+
+"I'm fine, Smith. Might we be able to take it outside? Also, if you could repeat a bit of what you were saying, I'm having a bit of trouble focusing on your words."
+
+Outside the open-to-the-sky forge, Henrietta took a deep breath of fresh air. It still carried a spicy scent that caused her nose to itch, but it was better than it had been a few moments prior. "Now that I have a slightly clearer head, I'm going to guess that it's intentionally skewed more to forgelike elements inside?"
+
+"I... oh. Yeah, those are high levels," Oliver flicked his eyes across unseen Status screens. "Honestly, I didn't notice."
+
+So her first instinct was right.
+
+"I tried upgrading the wards not that long ago, using one of those blue crystals as a focus. I... guess it worked really well? It must have started trapping most of the mana released by the Refinery and my general work? I should..." he paused. "I should assess whether it's more of a benefit or detriment to my work in there and adapt accordingly."
+
+Oliver nodded, clearly thinking through things in his own head. "I do use this mostly as a forge. Having it be a specialized workshop could be useful in the longer term, and with our expansion of production lines, having more specialized workshops would be more useful than one unified one... yeah, okay. I, Oliver Smith the [Erudite Enchanter]... the voice calling out to identify... turtle resting upon another turtle.... First ..!"
+
+"First Forge?" Henrietta guessed at the translation.
+
+"It's a forge, it's at First Tower," Oliver shrugged, "I don't need to be fancy with naming things here. It's a small wonder that Name even has enough throughput to do anything here. I think we might have brought it with us?"
+
+Elements were theoretically omnicosmological, but they didn't always resonate in all places. Elemental Dark had been outright absent back home before one of the earlier Expeditions had brought it back. Well, 'brought it back.' The local magic resonated with the element in a strong enough way that even once that team had returned the element had come with them. It had seeped into the environment since then, naturally conjuring enough of itself to keep spreading and naturalizing like a nonbiological lichen. The element had... probably existed in their Tapestry even before then, just lying 'dormant' without the right conditions to express itself, but that sort of thing was hard to prove. It was also likely that it had been there the entire time, but it had gone undiscovered until they knew exactly what to look for.
+
+With no intelligent life on this world, it was entirely feasible that they were the first things that had Association with Thought, Name, Law, Technology, and more. Only time would tell whether that had any particular effects on this world, but the odds of those changes appearing before they returned and being distinctly notable separate from all the changes the portal and the First Empire of Humanity would bring with them was low.
+
+Then again, perhaps this world might end up as a bit more nature preserve-like, thanks to its lack of existing civilization? They couldn't afford to go light on the world to try and protect its ecosystem, but it would be nice if they could preserve some of the world's immense natural characteristics.
+
+Needing to worry about conservation was such a lofty goal compared to where they were, though.
+
+Henrietta returned her attention to Oliver, who was studying the First Forge with a keen eye and what smelled like a bit of divination. "I'll let that settle for a bit, then keep going at the ward development. This might make it easier to do some of what you're asking?"
+
+"So how much can you simplify these glyphs and still have it just barely work?" Henrietta asked, turning Oliver's latest sliderail prototype over in her hands. The metal wasn't quite circular anymore, more of an I-beam shape, and the rings were now more like discs with a stamp cut out of them. The top was formed reasonably tightly to the shape of the sliderail, but there was a pie-shaped wedge taken out of the bottom where the middle, support section of the I-beam would go.
+
+Right about where the slidering would have encountered the main rail, the same repeating 'S'-shaped River glyph repeated endlessly, stamped into each side of the rail, and instead of being two discrete enchantments, the rail now completed the ring's enchantment by acting as a... she thought it was a secondary glyph. The nature of her runistry studies had shifted somewhat since her [Inscribe Documentation] acquisition, but that sounded right enough.
+
+"This much," Oliver flatly replied. "It took me ages just to break the circular design and get this working, and half of what I ended up needing was an incredibly consistent glyph-track. I needed to wipe and restart an entire section because I added two strokes in the wrong order, which shouldn't have broken it all, and yet here we are."
+
+That was probably more hostility than Henrietta wanted Oliver to have at this stage of the development. But she didn't really know how to defuse it, and as such hoped that moving the conversation along would help.
+
+"I'm glad you were able to get it working, then. Could you demonstrate?"
+
+Oliver shrugged and set the sliderail up between two bench-like stacks of bricks. Then, he lifted up one end to slip the slidedisc on, and it began a bit of a rattly start-and-stop progression across the metal.
+
+"I can't get the tolerances tight enough," he said apologetically, "So it keeps pushing itself off the surface every chance it gets, which is what causes the stutters."
+
+"What if you load it with weight?" Henrietta mused, "See what it's like under load."
+
+That took Oliver a minute to figure out a good setup, but he ultimately settled on a basket full of rocks dangling below the disc. However, when he put that on, the entire contraption let out such an awful groaning and squeaking sound that Oliver flinched hard enough to knock the whole thing off its perch.
+
+That led to a brief detour when one of the loaded rocks landed on Oliver's foot, broke through the reeds on top of his shoe, and left three of his toes bloody and maybe-broken. Fortunately, Clark hadn't been very far, and that particular misadventure didn't leave any lasting scars.
+
+"That could have gone worse," Henrietta remarked as she watched Clark head back down the ladders connecting the top of the Spire to the rest of First Tower.
+
+"Could have gone better, too," Oliver grouched. "It's supposed to act like it's friction-free. Why didn't you? I hold before me..."
+
+Henrietta didn't catch most of the Artificer's muttered divination, and instead waited until he seemed satisfied - or dissatisfied with an air of resolution, anyway - before she prodded him again. Idly, she wondered how many levels her newest Skill would require before it could act as semi-freeform divination. Appraisal-type Skills, which [Inscribe Documentation] certainly was, could become fairly powerful as they grew.
+
+It wasn't there yet, though. She was still in the early stages of learning all of its base functions and quirks.
+
+Everything should be working correctly?" Oliver sounded perplexed, "I couldn't figure out why it's failing at its most basic job of friction-free transit. Logistically, I have a suspicion it might be the result of me trying to make this act as a strong track for the disc to slide along while also making them basically frictionless, but that's just a guess. It would be kind of like the magic grinding gears against itself."
+
+Mass-producible automated transit was starting to slide into the 'too advanced for right now' category, it seemed. That was unfortunate, but they could make do. Some adjustments to their existing crane could do the job of pulling iron up to the smelter enchantment, once the Blast furnace was done. Actually, it could do the job now, assuming Jacob's deployment of the repaired transport cart was working.
+
+The transport cart and the mention of gears started to stir something in the back of Henrietta's mind, though.
+
+"What about a gearbox? Could you create some kind of enchanted clockwork which we could attach to an external object, such as how the engine block works."
+
+"A non-piston version of the engine blocks?" Oliver mused. "I... it would definitely require enough advanced tooling I could probably automate the non-enchantment parts without much more trouble than making it in the first place."
+
+That... could either be good or bad. Henrietta wasn't sure.
+
+"Making tools that small would be hard," he continued.
+
+"It doesn't have to be small," she countered.
+
+"Gear-teething would be easier to create than pistons," Oliver carried on as though she hadn't said anything. "Rack and pinion style, yeah. But that would require that the rack could slide back without causing the pinion to also reverse course... Oh, it would need to disengage. How would it reset? The tolerance is too high to do what we're doing with the pistons..."
+
+"Why couldn't you make two gears simply turn against one another?" Henrietta asked. She expected the answer to be fairly something simple yet informative, but Oliver froze.
+
+"That..."
+
+"The motion needs to just happen relative to the other part of the enchantment, right? If you have two gears pushing against one another, they'll both move relative to each other. Can you take advantage of that?"
+
+"No, no. I understand," Oliver nodded, then closed his eyes in thought and muttered to himself. "Though the point of gears is that the point of contact doesn't move, there is still motion on a layer beyond that..."
+
+Hopefully that would lead to some level of breakthrough. "Notify me if you need any assistance, Smith?"
+
+She decided to interpret the faint nod he gave as an intentional mark of agreement instead of an unconscious part of his brainstorming.
+
+She swung by the others as they worked on their respective tasks, providing the assistance they required at the time. That ended up being materials for both Clark and Alyssa, which was easy enough to accommodate.
+
+Jacob didn't require anything, as he was performing maintenance on the mechanical devices that ran Ironworks and trying to improve the fill-station for their new cart. He would need a new task soon, and Henrietta wasn't entirely certain where to place him. It wasn't a lack of capability or need, though, simply of priority.
+
+From what Oliver had said a few times, having a new supply of metal would be useful, but Alyssa hadn't managed to find copper in the nearby Jungle, so Henrietta wanted her to earn a few more [Rustlewind] levels before pushing for that again.
+
+Charcoal was already ongoing, paper wasn't that important to get in mass quantities, concrete... would be useful, but was probably a bit ambitious at the moment. At the quantities Henrietta expected them to be able to produce at the start, they might as well just use their existing roughshod bricks. They needed better tools to scale everything up... lumber?
+
+Lumber would be good. Having something that they could build buildings and furniture out of with greater ease than weaving reeds together, and with a faster volume-production than bricks or concrete would make for a good second production line.
+
+She could also have him work on replacing or upgrading their crane. Their existing one was fine, but it would be good to have something a bit more robust, capable of carrying more materials....
+
+No, they would want wood for that. Lumber would supplement their existing reed constructs with substantial strength, and them with making something that could carry multiple buckets full of either hematite or, once their Blast furnace was operational, pig iron up to the top of the Spire where it could be processed into Oliver's billets. Their current one had weight limits that could easily be met by bricks, never mind metal.
+
+So, the main stages of lumber production would be... harvesting, drying, and cutting. Potentially not in that order. None of them would be easy, that was for certain. An alchemical method of drying wood floated to the top of Henrietta's mind, but she waved it aside. The material requirements for it were impractical at the moment, so a kiln approach would likely be superior. They already had all of the individual tools needed for it - namely fire, wind, and bricks.
+
+Should I put Alyssa on that?
+
+No, the benefit of moving her to a project that she might technically be slightly better at were outweighed by the project-transfer loss, and it wasn't as though Jacob would be better at making Blast furnaces than her.
+
+She would have Jacob start on the lumber mill, then. There were plenty of trees in the Jungle and Henrietta and Jacob could both harvest them fairly easily, and having boards would make the construction of their kiln easier.
+
+She'd learned from her experiences setting up their iron production. And while she didn't think she was about to set up lumber perfectly, she could at least set it up better. And the next one after that better again, until they truly knew what they were doing. Figuring things out, one step at a time, until they were experts.
+
+And... maybe that was, in the end, what being a good leader was all about.

@@ -1,0 +1,93 @@
+There was a part of Oliver that was coming around on the whole 'uninhabited world' thing.
+
+Yes, an uninhabited world didn't have anyone who he could collaborate with or offload other work to... but it also meant that there were no other people that he had to take into consideration, beyond his four teammates. Who were pretty much always on-board with whatever he wanted.
+
+So, they had all the steel they could make, no worrying about resource rights or appropriate allotments or political considerations, a bunch of things that he'd been prepped for that the Expedition would normally need to wrangle.
+
+But now that Oliver had some robotic minions to boss around, the downside of needing to do absolutely everything by hand was... starting to fall by the wayside some. Sure, his tools were a bit limited, but also were they really?
+
+First, he had himself.
+
+[Status]
+
+He'd removed his Achievements from his hotbar not that long ago, because he just... hadn't been getting any. He probably needed a better System framework, or an add-on, to capture the random floating twists of mana which could attach themselves to his soul but weren't really Skills. His Significance just wasn't sticky enough, or something. Maybe he just hadn't done anything magically notable enough... but that seemed kind of unlikely. Maybe the local magic was interfering?
+
+His base stats were the most foundational part of who he was. They outlined how capable he was at all manner of tasks, and was a marked improvement over where he'd been originally. With four Dexterity, he had roughly eight times better bodily control than he had before the Jump. But most of his points had gone into his Mind, Aura, and Skill. As the Major Stats of [Erudite Enchanter], any free points assigned there would be twice as effective, and he just... needed them all?
+
+Granted, he probably had been a bit overzealous with them. Did he really need his Mind to be almost thirty times baseline? Yeah, it was helpful, but he also had notes and IDEs and divinations to do most of what the Mind stat already could do. He wasn't hyper-dependent on his senses, needing bullet-time reaction speed, or trying to juggle a thousand numbers in his head simultaneously... but also, it wasn't like he disliked being able to work through tricky problems faster.
+
+Skill was the main one where he'd over-invested, but that was primarily fueled by a desire to not lose another Skill acquisition to insufficient slots.
+
+His three fully on-class Skills, [Appraise], [Scrollcast], and [Cogniprint], mainly served as a potent loop of gaining Knowledge - both the element and the general concept - and using that Knowledge to create spells and artifacts, which he could then use as the basis for new spells and artifacts, each time getting more robust, sophisticated, and powerful. [Order Mana] made that much easier, allowing him to more easily distill magical effects, and preserve and amplify what he already had. And [Heart of Technology] was mostly passive, but by ⟨Integrate⟩-ing various artifacts, he could more feasibly create certain trickier magical effects, like the intelligence his familiar core displayed.
+
+He did plan on taking more objects into his soul, but he wasn't in a tremendous rush to do so. He wanted to get The Factory in a really solid state first, because the sooner they got exponential growth going, the better. And a few extra weeks of automatically assembled spider-bots vastly outweighed the benefits he might see with spending those weeks making a flight platform or a better weapon for himself. Alyssa and Jacob already were masters of mobility and combat, he was better off being a master of manufacturing.
+
+And right now, that looked like upgrading his hologram system. Because he had the basic infrastructure in place, and now that he'd had a few days to work with it and figure out some of the hitches in its implementation, and also because they were preparing to make a train connecting First Tower with the Ironworks. Right now, his bots instantly sought out their instruction-object, and if they couldn't find an instruction-object...
+
+Well, in practice they tended to wander around randomly, permanently stuck on the instruction until he manually intervened. Oliver was putting off implementing any kind of 'claim' system, where a bot would send a message to a hologram to get it to stop requesting its object, in the interest of not having multiple bots all trying to do the exact same thing at the exact same time.
+
+It wouldn't be the end of the world, because they could handle both canceled orders and other things getting in their way, but it was the kind of basic problem that could prove tremendously problematic in the long term. Especially if a bot had some kind of malfunction with its sensors, and as such was unable to ever find its object, he might end up with a situation where the bots permanently errored out and also blocked any other bot from following that particular instruction.
+
+He didn't really have the ability to fully solve either problem, but he could make those problems less of an issue by making his existing logic more complex!
+
+He'd already upgraded his holograms to include logic signifying whether they were a 'Create'-type hologram or a 'Move'-type hologram, to prevent his spider-bots from trying to bring completed parts into the Metalpress while it was running, and when doing so he'd had the foresight to include a framework for more command types to be added.
+
+So, he added a 'Supply' type, which was like the Move-type, except the bots would go to a location designated as a 'supply point' for the searched-for object, and if they couldn't find a supply point for the requested object - whether because he hadn't made one, or because they were unable to find a route - they would default to a particular point by First Hearth, where Oliver could see them, debug, and possibly reboot them.
+
+Those supply points came with the added benefit of making the bots not just grab the closest brick, or whatever, when he wanted them to build a brick wall. He'd run into that issue a couple of times, and while he did have workarounds, this was a much more elegant solution to that.
+
+He also tinkered with adding a 'Target'-type hologram, which he could direct weapons to track and 'fulfill' an order by launching its ammo at the Target... but he relatively quickly realized he didn't have a way to create those holograms automatically. He had created hologram projectors from his Pillar of Industry and familiar-drone for the Metalpress, which cast Create holograms for some of their more commonly made parts. But that had heavily utilized [Order Mana] and wound up being completely stationary by sheer necessity. In both size and sensitivity to Tapestry conditions.
+
+So instead of overcomplicating things, Oliver borrowed from his Proportional Control Enchantment design from the spider-bots and tuned them to turn towards Dragon mana. It was the calamity's creatures they were really concerned about, rather than the random wilderness creatures they'd been contending with in the early days, so that specialization just made sense.
+
+Firing was likewise connected to Dragon presence, so it would start firing at anything sufficiently powerful or close... probably. His testing left some things to be desired.
+
+But then, finally, he was ready to build the train car... or not.
+
+He blinked at Clark, his brain blearily trying to process the latest thing that had gone wrong, while they'd been forming their extremely large Drivegear.
+
+"Sorry, could you say that again? What is wrong with the Metalpress?"
+
+"I thought our Metalpress was solid iron," Alyssa said, around a mouthful of food.
+
+"It's got some bronze and crystal in it too," Oliver corrected. "And some ceramics, I guess. But yes. You are effectively right."
+
+"Yet it's bleeding." She asked, probably incredulously.
+
+"A small crack in one of the support pillars is dripping blood, yes."
+
+"Not oil, not water, blood." At least her disbelief was fairly easy to pick up on.
+
+"Blood. Not sure what kind. It's red blood, but I don't know much beyond that. Honestly, if it were oil I might just leave it and build a new Metalpress. A steady trickle of oil that we could exploit or maybe expand would be worth the temporary loss of our metal-forming capabilities."
+
+"How are you not weirded out by this?"
+
+Oliver shrugged. "It's probably my blood. Whether or not it's being sourced from my body, I don't know. It's not dripping fast enough for me to be that worried about blood loss. But that would make the most sense. Alternatively, maybe some bird or whatever landed in the circle, and it's its blood. I don't have the gear I'd need to diagnose beyond that. Though if it were my blood, I could probably pick up on the Technology in it... eh. My arcanoception isn't a good type for figuring that out, and I don't think making the Commander taste unknown blood just to satisfy my curiosity is worth it."
+
+"Why is it better if it's your blood? Do you know what's going on?"
+
+"Not a clue. This one is going to be a pain and three halves to figure out, because nothing it's working with is anywhere close to one of the Blood elements. But a friend of mine in college once spent two weeks trying to figure out what happened to the room he and his teammembers were working on their Applied Orb Optics class project in, because it seemingly vanished from existence for everywhere but some of the highly-warded records of the college, and the memories of anyone not born on a Tuesday. And trying to divine anything about it caused mouse bones to spontaneously appear on a nearby flat surface spelling out rhyming riddles whose answer usually had something to do with the divination performed."
+
+"Oh."
+
+"Yeah, that was neat." Oliver smiled. "The bio department was really interested in the mouse bones, because they were from some endangered species, or maybe an extinct one? I don't remember exactly."
+
+"What... what was the problem?"
+
+"No idea," Oliver reminisced. "The room reappeared the morning after the new moon, and nothing like that ever happened again. They had to push hard to get that project done in time, because they lost half a month to it."
+
+"I had a failed potion once blow up in my face and turn my hair into chocolate," Henrietta added in. "And it wasn't even good chocolate."
+
+"So yeah," Oliver pointed to Henrietta briefly. "Sometimes... weird stuff happens. And I don't really have the time to really dive into the hows. I just hope it doesn't break anything long-term."
+
+Alyssa seemed either satisfied or baffled into silence, and either worked just fine for Oliver.
+
+It only took Oliver a couple days to get the Metalpress back to normal, and once he did, he finally got to start building out the Factory traincar.
+
+This first one wasn't going to be anything too crazy, he'd decided. A wheelbase right around two meters, four meters tall, and ten meters long should be more than capable of being powered by his ten-times clockwork heart design. He made the primary support structure with the aid of Jacob, enormous steel beams creating a boxcar design.
+
+About half of the top would be open to facilitate loading at Ironworks, the back would be able to open to facilitate unloading at First Tower, and the storage container didn't occupy the entire traincar. Instead, the frontmost section was dedicated to the actual power and guidance system. He was still working on the exact design, but a large Geode shard converted into a Network Cache seemed like a necessity, much like a supersized version of the transport carts he was designing this off of.
+
+The train's logic wasn't super complicated. If it was full, it would move forward until it was at First Tower, where it could be unloaded. If it was empty, it would move forward until it was at Ironworks, and could be loaded.
+
+As for the tracks to get the car between them... well, he could only trust that his team was getting that done appropriately.

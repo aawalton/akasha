@@ -1,0 +1,117 @@
+It was incredibly fortunate that the dragons were so easily diverted.
+
+Much like their larger forerunner that had attacked the top of the Spire, the latest rendition of 'similar creatures repeatedly throwing themselves at their defenses' usually only needed a single good attack to be persuaded to turn their attention elsewhere. They wanted easy prey, it seemed. So whether one of Jacob's [Frostblade] strikes was lethal or not, regardless of if Henrietta's ink-flail sent them sprawling or simply gave them a good thwack, landing an attack of any real strength was sufficient to convince their current attackers to leave them alone.
+
+But unlike their previous experiences with similar attacks - the vinebeasts at Shelter, and the tide of flowers at Ironworks - the dragons displayed an incredible amount of variation between individuals. Size was the most obvious distinction, as they ranged from the size of a butterfly to the size of a horse, but color, body type, speed, and overall appearance all could be wildly different between individuals. The only things they really even had in common was an incredible stench of Dragon mana, adherence to a six-limbed body plan, and an insatiable drive to consume.
+
+If given even the slightest chance, the dragons would single in on... basically anything they'd built, and attempt to devour it. That could be the dirt road under their feet, the fallen trees lining it, the Blast furnace, the bridge back to First Tower, or of course Henrietta or Jacob themselves. Or Clark, but he was stationed on the top of the Spire, and for whatever reason even the airborne dragons were staying fairly close to the ground.
+
+A tiny dragon with four wings and two claws about the size of Henrietta's hand attempted to land on her arm. She knew from experience that trying to swat it was futile, so she instead swiped her bicep with an ink-laden fingertip and conjured her 'tree trunk' inkling. Whether the dragon was splattered against the suddenly-materializing construct, or simply launched away, she didn't know, but it at least got rid of it.
+
+Not one to waste a creation, the summoned log was bound up in coils of ink-flail and thrown at a scalewolf bounding forth from the treeline. Her aim wasn't quite true, but she was close enough to firmly crush the interloping monster. It also managed to smack another airborne dragon out of the sky as it flew, but that was more incidental than anything.
+
+A bit further down the newly pothole-ridden Ironroad, a dragon about the size of a cat and bearing a resemblance to a gargoyle landed on one of Clark's Charcoal Furnaces, its claws inflicted a kind of glowing rot that cause the fired-mud exterior to flake away into energy, which it then consumed. Henrietta took advantage of the brief reprieve brought by killing the scalewolf so quickly and conjured a new set of pseudowyverns and directed them to defend the road, two of which instantly swooped onto the furnace-eating dragon and chased it off.
+
+It would be really great to have those turrets now, Henrietta bitterly thought before she crushed that particular impulse. Focusing on what wasn't working was unproductive.
+
+She focused instead on darting forward, letting her mind enter a minor Mind-forced flow state. It wasn't as potent as she was accustomed to, but it was more than enough to let her ink-flails snap out and drive away the veritable swarm of dragons that had accumulated since her guard inklings had died. It was quite fortunate that the dragons had a fairly crude, mostly-physical form of consumption, because it let her constantly resummon dispersed conjurations. Fighting humans, at least ones with modern weapons or training, attacked more than mere biology. That mostly affected healing, but for her inklings put them on a form of 'recovery cooldown,' and she really didn't have the mental bandwith needed to fix them manually.
+
+But, now that Oliver no longer needed her direct presence for his work, she could probably devote a lot more of her energy to replenishing their inkling defenders. Though actually…
+
+Henrietta darted out to the fallen scalewolf and subsumed it. She'd need something larger to draw on if she wanted to summon it, but that... actually that might be harder than usual, with how much paper had blown away in the windstorm. Or no, she could just grab a piece from her drying station. Those were held down by rocks, they'd still be there if a dragon hadn't eaten it.
+
+The pseudowyverns would suffice to defend this section of the Ironroad for at least a few minutes, and as such she bounded over the - damaged and decaying - bridge. Jacob was at the base of First Tower, keeping more dragons at bay. His movements were small and economical but quick, conserving as much energy and mana as he could by relying on muscle power. He'd dart from place to place, throw rocks, and was using a reed pole in his off-hand, all to keep him fighting at a sustainable pace to outlast... however long this might take. Previously, the attacks had tapered off over time, suggesting some kind of limit to the monster-wave spawning mechanism. The flowers and vinebeasts had both been so much lesser, though. Hopefully that meant this attack wouldn't take days or weeks to subside like those had.
+
+Henrietta didn't speak to Jacob, instead heading directly to her paper-press and creating seventeen - the skill had leveled again, quite fortunate - full sized scalewolves that she was able to direct into a patrol. They had limits and obviously couldn't fly, but in conjunction with the pseudowyverns, it would at least take pressure off of them.
+
+It was a few hours later, with no sign of relief in sight, when Alyssa reported that Oliver had news.
+
+As Henrietta folded her wings away, Oliver looked up from where he was holding his tablet in both hands, crouching over a piece of the Universal Refinery enchantment that had been carved into the base of the First Forge's wall.
+
+"Commander," he greeted her, but she pushed through to the actual point.
+
+"You found something?" She got a better look at the tablet as he stood up. It was remarkably sleek for how she knew it had been produced, though that ultimately wasn't saying too much, as it still looked incredibly handmade. The copper backing was covered with circuitboard-like Parengelic runes that pulsed in time with Oliver's own magimorphosis, a rounded but slightly rough lip all along the edge providing a convenient grip. The screen itself was a deep blue in color, save for two vaguely eye-shaped white discolorations abstractly staring back at her. Actually, she got the distinct impression that they were staring at her, but that particular train of thought wasn't useful right now. She also got a glimpse of writing, in both Magespeech and more traditional human script.
+
+"Yeah. So, you know how my skills work by copying an existing pattern in something else? [Erudite Enchanter] is a class about studying, copying, and re-implementing the collective work of other mages, and as such it benefits greatly from having existing magic to work with."
+
+Henrietta nodded.
+
+"Well, that's what I've been doing. Not counting tools that I make for the exclusive purpose of making a single other enchantment, which is mostly just my wands, I've only created two enchantments that are... source enchantments. Only derived from Skills. Those being our force-pillows, and the Mana-Smoothing Ward I made back at Shelter."
+
+"Really?" Henrietta wasn't entirely sure she found that so surprising. Probably the incredible diversity of effects he'd produced, and the fact he had somehow made all of that from just, what, a generic Tapestry dampener and a magical spring. "Walk me through it. How did you make the Refinery?"
+
+"The flames were referenced from the copper fire ring we have installed in the brick kiln. The purification is templated from our drinking water pool, and both of them were tied together from the Staff of the New World. The Staff was also used quite heavily in the water pool, while the copper fire ring was built using my Everflame Brazier, which came from the Wind Wall Ward I had installed in Shelter using the Mana-Smoothing Ward as a base," he quickly rattled off.
+
+"Really," Henrietta mentally frowned at how much like a broken record she sounded like, but that was quite a bit of information to try and process all at once. She supposed she could see how each individual step made sense, but that was still quite the progression in not much time at all. "Oh, but this is more like using one as reference notes for the next. So you copy over a particularly successful piece of your fire conjuration from the Brazier to the ring, but they don't actually retain a connection."
+
+"Well..." Oliver replied in a tone that helped explain a lot. "Yes and no? There is interlinking between the enchantments. I just created a full glyphic network between the smelter enchantment and the System node, but magic naturally flows between enchantments. The copper fire ring was actually made as more like an extension of the Everflame Brazier, a directly subordinate enchantment which relied on the parent for power. "
+
+"That's some impressive range," Henrietta mused, "And does that imply the Brazier is still working back at whatever is left of Shelter?"
+
+"Well that's the thing," Oliver looked back down at his tablet. "It doesn't have that much range. Or at least it shouldn't. I don't know why the fire ring has been working before now, but I'd just never questioned it because why would I? It was working."
+
+"Understandable. Continue."
+
+"If I would have thought about it, I would have assumed I somehow stuck a bit more fire-ness into it than I anticipated, because sometimes magic can just do that, especially with how crude of tools I used to build it. It introduces variation to the end product. But now..."
+
+"Did something happen to Shelter?" Henrietta paused, "More than had already happened, anyway. "
+
+"Well maybe. I don't think destroying the enchantment should really cause these issues. A reference enchantment being destroyed causes some very particular, very distinct and easy to diagnose and solve problems. Well, comparatively anyway. But what I'm seeing is more of a... buried reference? The enchantment is working properly, but according to this-" he waved the tablet in the air, "And my own Skill, of course, I apparently buried some kind of photosensitive conditional into the base enchantment."
+
+"Photosensitive... it's light-dependent?" A thought crossed Henrietta's mind, "Is that what was causing the problems with the Shadow ward back when we were building the System node?"
+
+"You'd think," he grumbled. "But no. That was different. And as you can see," he waved at the sky, "There's still light. So what I think is happening is that the Shelter wards are being thrust into darkness for... apparently the first time. How that's possible, I have no idea. But somehow, that is causing a very base level of all enchantments built using them - which is basically everything, I'll point out, except for like, the force-pillows and the claynades - to just randomly stop working. Without malfunctioning."
+
+"I assume you'll need to investigate it in person to diagnose and possibly fix it?"
+
+"I..." Oliver blinked, then scowled in a very resigned way. "Yeah... yeah, I suppose I will need to do that, won't I? I suppose I should head out as soon as I can, right?"
+
+"It would be preferable, but I think the benefits to you sleeping first would outweigh that. Though before that, did you have anything interesting occur during the creation of your tablet?"
+
+"A... few things," he confessed. "Two new subskills and a failed skill acquisition. Once I level and get a point in Skill, I expect to get another subskill."
+
+"Is that normal?" Henrietta began.
+
+"Which part?" Oliver asked before she could clarify exactly that.
+
+"Getting two subskills certainly isn't, but gaining a skill failing and then... waiting around?"
+
+"It's not," the Artificer confirmed. "It's... definitely very weird. It should have either pushed through and given me the skill anyway, probably inflicting a level penalty to all my skills until I got enough slots, or just failed and stayed failed. That it worked out like this means it... I guess whatever it is is still trying to give me a skill, some kind of ongoing connection effect."
+
+"To the tablet?"
+
+He shrugged.
+
+"Are your new subskills familiar to you?"
+
+"Oh, yeah. I picked up ⟨Duplicast⟩ and ⟨Inlay⟩. Maximum relevancy... I can easily cast spells based on the skills any of us have, or I can integrate those skills into an enchantment... a lot easier. I won't need all of that," he waved vaguely at the retrofitted smelter enchantment, "in lots of situations any more."
+
+"That is excellent to hear, Smith. Congratulations. I would advise sleeping up here, if you can, but once you're rested you and," she raised her voice slightly to catch Alyssa's attention, "Ride! Can depart for Shelter. Figure out what you need, fix what you can, and try to not take too long while we keep things together on our side."
+
+"What?" Alyssa asked, then seemed to process what Henrietta had said, "Right! Yes, Commander. Rest, then travel."
+
+"Just make sure you stay focused on the tower," Oliver said. "The rest of it I can rebuild, but I don't know how I might recreate that."
+
+Henrietta nodded, "May I see the tablet while you rest? It ought to function for all three of us on account of having our spells Inlaid into it, yes?"
+
+Oliver shrugged and handed over the focus, "Yeah, though I designed it for [Appraise] specifically, so I don't know how it might work for you. You... do know how to use a focus with a skill, right?"
+
+"I do."
+
+"Good," he absently nodded. "I learned to stop assuming things."
+
+"Understandable, now go rest."
+
+He and Alyssa saluted and wandered off to find some halfway comfortable rock to nap on, while Henrietta returned to the battlefield below with the Window of Words and Winds in tow. With her inklings deployed as their primary combatants, she didn't need to devote her full attention to protecting their creations, and instead began to toy with the focus Oliver had made. To her mild surprise, it was quite easy to use and it didn't even require invoking her own skill to get some basic feedback from it, like her current Status. If anything, it defaulted to that configuration, impurities within the deep blue screen twisting into legible letters.
+
+The eye-shaped discolorations made some portions slightly difficult to read, but simply knowing generally what the screen should be displaying helped her get past it. Unfortunately, trying to get it to display anything else was a bit more frustrating. It absolutely could, and the screen would randomly flash to acting like a window, or displaying random other views of the back of Henrietta's head, an arrow pointing in seemingly random directions.
+
+It was only once she started using her [Inscribe Documentation] through the device that things became easier to use. As soon as the skill was invoked, the view stabilized, white letters once again forming out of discolorations in the glass. Then she realized that it wasn't that stable, instead oscillating between two outputs. It took her a minute to figure out how to flex her skill to make it display one or the other, but once she had she was quite pleased with the result.
+
+She needed to set the 'Window of Words and Winds' aside for a few minutes to deal with a dragon that was ignoring the pseudowyverns guarding the Ironroad. A few wallops with her ink-flail sent it running, and then a moment of consideration saw Henrietta chasing it down and breaking its neck. She definitely didn't want that one coming back, its scales were practically as tough as stone.
+
+In response to that, she spread out her scalewolf and pseudowyvern inklings a bit more, letting them compliment one another rather than being deployed in different areas. Then, because she could, she also deployed diggers. They were too slow to be particularly effective combatants, but they were at least meat-shields, and easily replaced should any of the dragons attack them instead of the scenery.
+
+Why did the dragons focus so much on their human-made areas, anyway? Had they annoyed some half-sapient spirit of nature who was now sending its agents to punish them for their blight upon the woodland? That would be... odd, for a few reasons, but not impossible. If that were the case, it would lend some credence to the idea that the Calamity had happened some time ago. That shouldn't be the case, but if they had somehow gotten a delayed Jump Nucleus signal, and the Calamity was aggressive nature...
+
+Well, there wasn't much actionable to be done. She had dragons to kill.

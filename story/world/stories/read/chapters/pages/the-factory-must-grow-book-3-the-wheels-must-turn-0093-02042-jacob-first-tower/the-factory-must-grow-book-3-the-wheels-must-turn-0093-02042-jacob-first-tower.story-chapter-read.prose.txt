@@ -1,0 +1,123 @@
+Veeran studied his latest [Frostblade] conjuration with a careful eye. He always did so, with inspecting the quality of his weapon effectively a portion of the ritual utilized to summon it, yet this time was not mere caution which drove his actions.
+
+Lately, Smith had been working with him as to improve the versatility of his blade, attempt to expand the singular weapon-conjuration skill into something capable of creating saws, axes, chisels, and more besides. In order to accomplish that, the Archmage had advised him on a number of alternative Magespeech phrases which he might invoke in place of or in addition to his standard chants. Alas, Veeran's soul-scars prevented him from properly experimenting with the chants, as it took days for his mana to recover enough to recast the skill each time and he could scarcely afford a miscast.
+
+Fortunately, [Frost Knight]'s baseline five Capacity provided sufficient margins that Veeran could resummon the blade should it be broken, or utilize his subskills as required. Were that not the case, defending First Tower would be a substantially more fraught endeavor or necessitate the diversion of important stat points towards it.
+
+Veeran concluded his inspection with the determination that once again, his attempted alterations had done little more than spend more mana than strictly required. A disappointing yet typical result, yet by no means a cause to abandon the project. It was a far too useful end-goal to set aside, and he additionally sought methods that felt more in-tune with his preferred method of subskill acquisition.
+
+Even that had undergone some refinements, thoughts occurring to Veeran as his younger and more magically-inclined compatriots had jostled and butted heads over the various ways that magic could be harnessed. It was a sight that Battlemage Isegon would have adored, he knew. Young people, nobleborn and commoner alike, forging their own paths through the broken shards of divinity so many wars had been fought over. And now, they all feasted upon the harvest. Men and women who would have lived and died in ignorance or slavery to their 'fate,' each grasping for more, taking that which they could claim and always capable of bettering themselves.
+
+It was a wonderful sight.
+
+His preferred method of practicing magic was most akin to Commander Inq's, he felt. Certainly, he could hear the faintest similarities in the ways they approached their problems. Inq truly was an alchemist, a meticulous planner and careful organizer as she arrayed her tools before her. Then, once all was prepared, she produced a blinding explosion of light and magnificence until something wondrous remained at the end. Ride was nearly her opposite, constantly iterating upon the same set of tools, feeling it out based on her own judgement until she found something of interest. Similar in his own way, Haleford simply practiced without end, a nigh-inexhaustible morale turned towards an incredibly difficult task. Then Smith, of course, was a natural composer as he sang and plucked the strings of reality to form harmonies that sounded both spontaneous and incredibly practiced.
+
+Though Veeran had given his own magical capabilities a fair amount of thought previously, he still found himself learning much more than he would have thought possible about his own understanding of magic and how to work with it. It seemed as though the lack of a guiding System, stripping away all but the barest forms of magic, had helped him to reconnect with himself in a way he hadn't even realized was missing. But now, in addition to the sounds which magic made around him, he could... almost feel it. It was like a burbling spring within him, fresh and pure water attempting to rush forth, become vast rivers capable of carving mountains, rejoin the ocean, sustain life. And, much like water, that mana always sought to take the easiest route to its destination.
+
+The means by which Veeran had found he could most reliably work magic, therefore, was when the world around him already understood what he was about to do. When he was deep within a groove, when the outcome of his actions were inevitable. At that point, he could unleash the spring within him, and the water would rush down the path before him, acting to fulfill his destiny. For him, that groove most easily formed when in combat. The inevitable demise of his foes always made for such an excellent channel that his mana could utilize in place of him, whether it be to greatly empower a sword-strike that 'ought' to fell its target, or to hasten along the demise of thousands of lesser foes.
+
+To practice new words and trial new actions taken within his ritual felt wrong to him for now, yet in time perhaps he could carve an appropriate groove within himself that his magic may yet follow suit.
+
+That the [Frostblade] demonstrated no alterations to its normal form was evidence of that temporary incompatibility, yet Veeran would reforge it too in due time. It was a pity, all told. He had rather hoped that he might have at least refined the weapon into a single-bladed form, that he could at least utilize it as a draw knife the next time he had a similar project.
+
+For Veeran was making a file.
+
+Twelve files, in truth. It was simpler to create multiple files simultaneously for multiple reasons, but the chronologically first reason was ensuring the files he produced would be flat. He had begun with one of their iron billets, making them as close to their final shape - six triangular, two flat, four square - as he possibly could with heat and hammers alone. Then, each surface was carefully and slowly rendered flat through simple abrasion.
+
+Iron could sharpen itself, and so too could iron 'sand' iron. Rubbing together two pieces of wrought iron, easily sourced from their Universal Refinery, would remove material from each surface equally, and in so doing smooth out both surfaces simultaneously. However, that did not guarantee that the two pieces would be flat. It would be entirely possible for them to develop a convex-concave relationship if only compared to one another. However, by introducing a third surface into the abrasion, it precluded that possibility, as it was effectively impossible for the common plane between three - or more - surfaces to be anything but flat.
+
+With twelve discrete objects and forty-two faces to work with, Veeran needed to ensure that all faces were adequately rotated between, but that was a comparatively minor task. Fortunately, he had been able to develop a jig to do the actual abrasion work automatically. It had simply been a piece of wood with slots for the files to fit in, then connected to a motion slide piston, that drew the metal surfaces against one another for extended periods of time.
+
+Once those extended periods of time were finished, he had been left with flat, smooth surfaces. They had too many scratches to work as a mirror, but shone nonetheless.
+
+Now, Veeran had the blank file firmly bound upon a block before him, with a chisel and a hammer in his hands. The chisel was merely tolerable - and was the tool he had been hoping to replace with a form-altered [Frostblade] - but it had been case-hardened and enchanted to cut into metal, as well as lay the groundwork for later tempering and Attunement of the file. It was a slightly bluish color, rang softly of a noise reminiscent to Veeran of armor-piercing, and would serve its purpose.
+
+Veeran angled the chisel blade a small amount, such that it would bite into the metal to form a lightly diagonal line across the tool's face. He also tilted it back slightly, to create an appropriate rake angle for the file's tooth. Then, with a sharp tap from a hammer, he cut the first line into the softer metal below. The next lines went fairly quickly, though not without their own troubles as the chisel kept catching, presumably due to friction, on the blank face of the file. To ensure a mostly-consistent angle and spacing, he simply utilized the previous tooth as a guide for the subsequent one, pulling the chisel up until it could rest against displaced metal and giving it another tap.
+
+By the time he completed a single face of his first file, it looked almost like the side profile of a tiny saw. Repeated teeth across the entire length of the blade, each one scarcely a millimeter in depth. Yet for some of his files, that was but half of the work, as he needed to repeat the entire process with a cross-angle, creating a cross-hatch pattern that would prove more useful in certain situations. He was uncertain whether a single cut or double cut design would be more effective, so he gave some of his file faces a second pass with a mirrored angle for experimentation purposes.
+
+Each file's face required hundreds of teeth, doubled for the cross-cuts, and as such the process was far from quick. Yet it was not challenging either, and thereby in due time Veeran completed his file sets.
+
+However, there was a simple truth that a file not harder than that which it sought to file simply was not a useful file. Therefore, hardening of the iron would be necessary.
+
+Wrought iron, the name given to the eponymous metal when it was lacking all carbon, was soft and pliable. Cast iron, the name given to iron when it had large amounts of carbon, was hard and brittle. It was typically challenging to go from one or the other, or the even more challenging state of creating steel, where pliability and hardness met perfectly into mankind's greatest tool. Nonetheless, one fairly simple means of adding a great deal of carbon into an already-forged piece of wrought iron was known as case hardening.
+
+Inq and Smith had spoken to him in regards to its nature. While typically dependent upon a much more pastelike mixture of charcoal, flour, and possibly other substances, the charcoal was the source of carbon and thereby the most important component. The only potential binder which they had available to them was clay, and Veeran had been disinclined to utilize too much of it, lest it interfere with the carbon-rich environment the iron files would have preferred. So instead of doing so, he ground pure charcoal into a powder and mixed it with water to create a slurry, then poured the resulting mixture into wet-clay cylinders. Into that charcoal slurry, Veeran then inserted his files handle-side down, causing excess liquid to flow out.
+
+That had all been done the day before, and now the charcoal slurry had dried out, leaving his files now stuck firmly in charcoal. Not all of them were perfect, yet instead of adding more charcoal slurry to those files, he instead packed them full of dry charcoal dust, and then sealed over the top of each case either by pinching the clay case shut if it were still pliable, or by adding a small amount of fresh clay if it were not.
+
+Haleford then dried the clay the remaining way with his skills, and Veeran placed the file-cases into a charcoal brazier fire.
+
+After a few hours passed, he removed the file-cases from their fire with a pair of tongs, and cracked open the casings with a hammer. Reddish-gray clay cracked aside, and black charcoal clung to the files, but predominantly fell off as he quenched the still red-hot files with a basin of water. Once Ride returned, he got her assistance in tempering the metal. While Smith had created some flame enchantments, Veeran found that he preferred the flexibility and skill of having their Ranger utilize her ⟨Blowtorch⟩. The final files were then Attuned into their final shape, and given to Haleford such that he could [Unblemish] them into truly pristine condition.
+
+Alas, there was a brief interruption before Veeran could leverage his files for their intended purpose.
+
+The dragon was the largest they'd seen yet.
+
+Though it was winged, it gave no indication of being flight-capable. Instead, it held its wings out above it and to its sides, making its already incredible size seem that much more impressive as it roared a challenge and beat its wings, causing great currents of wind to kick up dust and even smaller sticks from the Ironroad into a cloud around it. Not that it managed to obscure it... even slightly. Its four gnarled, scaly legs were already twice Veeran's own height, and the lowest point of its stocky, lumbering main body was just past the point Veeran could brush it with his fingertips.
+
+Its head was rather crocodilian in nature, a long and flat snout bristling with fangs, but it was on the end of a rather elongated neck, currently held aloft some twenty, thirty feet above the ground.
+
+For this fight, Veeran did not intend to begin with his [Frostblade]. Instead, he hefted a spear - little more than an iron point upon a wooden shaft - and waited for the creature to advance. It did so mere moments later, a comparatively empty threat display from a creature that outmassed him hundreds of times over. Curious. Was it attempting to... run him off? Did it somehow perceive him to be an equal? With their size disparity, the dragon may as well have been a lion seeking to intimidate a weasel.
+
+Veeran responded to the threat display with his own claws.
+
+Proper tactics for Giant Stance dictated pressing forwards, constantly whittling down the target with a number of attacks against its weak points, crippling and wounding it until something could deliver the final blow. It was also meant to be used in conjunction with other warriors, but Veeran was unworried. Though Smith's ballistae had failed to do much of anything against the creature due to its sheer size, the ammunition it utilized was not a proper weapon, merely parting flesh from flesh.
+
+The dragon began to lower its head, and though the dust it had kicked up remained airborne, Veeran was undeterred. The notes of a new Song began to resound, this encounter turning into something more of an art.
+
+As he was charging directly towards one of its legs, the dragon brought up its foreclaw to attempt to ward him off. Raw reaction speed rarely played a key role in a duel between equals - the speed at which most attacks could travel made any amount of dodging more a matter of prediction than reflexes - yet this dragon was no equal. With Veeran's Mind resharpened by the System and his focus turned towards his reactions, the dragon may as well have been moving through water. Claws, each one the size of his entire arm, ripped through the air. The attempted attack, for all that Veeran was able to avoid it without much difficulty, highlighted that the 'back' of the creature's front knee did indeed have much thinner scales.
+
+That 'back' of the knee already faced Veeran, and the thinner, more flexible scales there deformed and wrinkled as it tried to swipe or step on him, but while Veeran was far slower than he was accustomed to, it still posed little threat. He passed his spear to his left hand and briefly drew his [Frostblade], utilizing ⟨Sweeping Cut⟩ to open up an initial wound in the dragon's hide, dark red-black blood beginning to run down the nearby limb. The sudden attack also caused the dragon to involuntarily lower that side of itself, exposing it all the better to Veeran's spear.
+
+He drove the iron weapon-tip into the dragon's vulnerable flesh, and subsequently had the weapon suddenly jerked out of his grip as the monster spasmed. At least it hadn't struck him.
+
+Veeran briefly crossed underneath the creature's torso - a dangerous position, should it decide to simply drop on him - and dragged his blade against the creature's underbelly. With no structure behind the attack, it did no more than skitter across the scaly surface, but it did feed into the Song he was weaving with his actions. First blood had gone to him, and by keeping up the offensive, the momentum of the fight remained with him.
+
+The music whistled in Veeran's ears, a magical symphony that spoke of the story of this fight. A battle of wits and weapons, a gnat fighting a giant.
+
+[Frostblade] skittered against the creature's hide once again, and the tune began to shift. Mere swords would be insufficient to take down a titan of this size. The sword was a weapon for a duel. It was an instrument of death against humans, the Song reminded him. It could not fell this beast. Yet it could perhaps be utilized in more minor ways, a tool meant to prepare the way for others. It would work best for that purpose.
+
+So be it.
+
+The creature's uninjured foreleg sought to crush Veeran underfoot, and he cast his mind ahead. He could leave his [Frostblade] here, momentarily still its movement while he darted aside, leaving it as a massive spike in the creature's foot. It had the potential to work, even work well. The resonant notes of Veeran's spear hung just as heavy in the air as it did the dragon's other leg. Yet no, that song went poorly. It became a song of defeat, of the soldier being stripped of his weapons before his demise. Alternatively, the blade might shatter, or fall over, or simply fail to penetrate the beast in any meaningful form. That Song was better for Veeran in due time, yet it would be a hard-fought victory.
+
+No.
+
+Veeran took the blade with him as he leaped aside, looked the dragon in its cold, reptilian eyes, and threw himself into the music.
+
+The dragon roared and postured, its every missed attack and lunge tearing up massive chunks of the ground. Its steps were slow, inelegant, yet with the might to shake the earth. Yet Veeran had it trapped within this dance, and thus it was his partner.
+
+The symphonies kept a tight beat, a punishing tempo that challenged Veeran far more than the simple physical threat which loomed before him. There was little echo to the Warrior's Stances which Veeran practiced upon this world, the Songs he was singing new to the ears of the forest around him, yet were potent nonetheless as the new audience absorbed it all. He breathed easily, his heart pounding in the incredible rush that was combat. His eyes and ears were sharp, his wits tested, and his body felt absolutely fantastic. He had thought himself skilled at the Stances the last time his form had been in the prime of its life, yet with more than half a century of experience since that day, he could truly feel the ways in which he had grown since.
+
+The dragon swung its head down, trying to bite him, and Veeran stepped beneath its elongated snout. It kept turning, trying to swallow Veeran in a single bite, yet he moved with the alacrity of a snowflake drifting from the sky. Though it precluded any more than a mere skim of his sword-point along the tough scales by its neck, the Song guided the outcome from far before the dragon had even thought to bite him.
+
+While the Song did nominally favor the dragon, as it would require but a singular strike to emerge victorious from their deadly dance to Veeran's three, Veeran felt no fear. He had dealt with far mightier, far more intimidating beasts and Tyrants when he had been far less experienced. Though [Frost Knight] felt like ill-fitting shoes in this fight compared to the elegance of the [Bladedancer], it was if anything enjoyable, highlighting new ways in which he could hear the ebb and flow of the melee's melody.
+
+Dust still choked the air, forcing Veeran to step back into the treeline for a moment to cough and clear his eyes as they watered. The Song began to fade as Veeran's participation and conduction of it waned, yet he needn't have waited long as the dragon charged him.
+
+With little time to properly plan, Veeran darted off to the side. Smaller trees splintered as the dragon crashed through them, though it didn't seem inclined to test itself against some of The Jungle's larger behemoths, even if here mostly lacked those. An opening did present itself as a tree half-fell, looming over the side of the dragon yet catching on the branches of its neighbor. Veeran flicked his blade upwards, unleashing a combination of ⟨Piercing Strike⟩ and ⟨Sweeping Cut⟩ to sever the branches it creaked and groaned underneath.
+
+To his mild surprise, the tree fell and landed directly on the top of the dragon's head, cutting off its roar into a bit of a confused whimper, and from how the Song changed he could tell that it had counted as the second of his three required strikes.
+
+Then, the dragon recovered and it dashed forward with surprising speed. Tree trunks splintered and cracked underneath its incredible bulk. It seemed to be enraged, uncaring of the damage it was undoubtedly doing to its own body in the process.
+
+He had no time to run out of the way. The dragon was enormous, and at the speed it was going, flinging himself to the side would simply result in him being crushed. Not that it stopped him from trying, but when the enormous clawed feet came down on him, he struck out with the intent to delay. He wound up losing his [Frostblade] while severing one of the dragon's toes, and found himself rolling in the dirt with one of the dragon's claws in his grasp.
+
+Alas, from the uninterrupted tempo of the Song, that particular chaotic engagement had not counted as assistance from his [Frostblade] in delivering a definitive blow. That proved awkward, considering he no longer had his blade. It had broken, crushed and shattered beneath the multiple tons of draconic claws it had effectively parried. It seemed some improvisation was necessary.
+
+This time, when the dragon once again charged him in its blind rage, Veeran did not seek to dodge. Instead, he planted his feet, stared down the megafauna, and shifted his weight to drive the Song towards its conclusion.
+
+The Song reached its crescendo. The fatal blow hung, heavy and poignant in the air, mantling Veeran and demanding that he act now, making the third assisted-by-[Frostblade] strike. Were it not likewise empowering him, the Song would have sputtered out, and yet now he was presented with the perfect opportunity.
+
+He ducked underneath and around the dragon's voracious maw, bypassing the thick scales of its head as his target firmed itself in his mind.
+
+Veeran gripped his stolen claw. It was already longer than his forearm, a weapon unto its own right possibly capable of striking a final blow were it not for the Song's insistence that [Frostblade] assist it, and the lack of leverage to properly drive it into the beast's flesh. And so, Veeran used his Skill, channeling his mana as best as he could into and through it as a focus. With a triumphant chorus, ice was conjured within his grasp, displacing the claw as a spear-haft three times Veeran's own height manifested, which Veeran leveraged against the ground and drove deep into the dragon's throat.
+
+⟨Rimeforge⟩
+
+With a dying gurgle and one final spasm that tore up the Ironroad that much more, the dragon collapsed. The ground shook as the titan crashed to the forest floor, leaving Veeran standing triumphant... still under his draconic foe. The torso loomed over him, and Veeran could make direct eye contact with the dragon, even as the light rapidly faded from behind it. The [Frostblade] spear was buried somewhere underneath several tons of scaled meat, and Veeran was wary of his chances of retrieving it, had it even survived. It would have been preferable, to be certain - he would not be capable of summoning another [Frostblade] for a handful of days, and being disarmed was not desirable - but he certainly wasn't capable of doing so on his own.
+
+Perhaps Commander Inq could move it for him, as he assumed she would be turning this creature into one of her inklings.
+
+Nonetheless, that was a problem for the future, and as the rush of battle faded, Veeran dusted himself off, gave a polite salute to Smith, and returned to his work.

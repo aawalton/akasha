@@ -1,0 +1,103 @@
+"Smith," Henrietta held back a sigh, "What sort of device could possibly present a better opportunity for your ⟨Integrate⟩ testing?"
+
+"I just... I want to make sure it's good before I go sticking pieces of my soul in it, you know? The odds of us ever building up the technology to safely remove a piece of spiritual cybernetics is basically nonexistant."
+
+"In which case, you can remove it once we return to the Empire," she pointed out, "Assuming it doesn't prove so useful you wouldn't want to be parted from it. And given our current understanding that Integration should allow its target to grow in effectiveness over time, something basic but with so much magical potential it shows up in an [Appraise] description, I don't think you have a better target. Look, we even discussed you bonding to a clockwork heart earlier, and this is liable to be one of the very best targets for the skill."
+
+"But we'll need to build another one if I do that..." he protested.
+
+"Smith," this time she couldn't hold back the sigh. "You would need to do so anyway. And it will likely still be usable in some form even after you integrate it. Even if the things you learned from moving the Light Crystal don't work out and it does get drawn into your body, I'm confident you could use it as a spell-focus for something that could mechanically drive a device in an easier manner. And if it doesn't, it would probably remain fully usable for all our purposes afterwards, and might even gain extra functions."
+
+Oliver still hesitated, and while Henrietta didn't want to pressure him into making a permanent decision, even one he'd already largely assessed was a good idea, Alyssa had far fewer compunctions.
+
+"Just do it, wizzy!" she called out between laps. Oliver began to protest, but she'd already passed by the common area and was about a quarter of the way up the Spire. Once at the top, she launched herself off and flew across the entirety of First Tower, landing near the Lumbermill in her efforts to get a gliding-style subskill.
+
+"Unless you think I should do it? As a mage, I love doing magical experiments with my own body!" She called out on her second run.
+
+"I can...." Oliver grumbled, then narrowed his eyes. "That is not what mages do!"
+
+His glare followed the fast-moving Ranger as she ran, climbed, and jumped, until his expression softened and he sighed. "You think I should?" he asked Henrietta.
+
+She nodded.
+
+Oliver changed his grip on the clockwork heart, bringing it more up to his eye level, and the scent of motor oil briefly filled the air. The magimorphic lines on Oliver's body crept out past his fingertips, the green light on the inside grew brighter and slightly more turquoise, and the click-click-click noise the device was making sped up before fading into more of a hum. The shell casing shifted and twisted, folding and unfolding with the strips trying to crawl up Oliver's arm, but the Artificer fought it every step of the way, until it folded back in on itself, and Oliver relaxed. His hand was bleeding a bit, but he didn't seem to mind.
+
+"That was stressful. A familiar core?" Oliver wondered aloud, then blinked as his eyes flicked to the side. "Another level already? That was Clark levels of fast. Faster, even."
+
+"The ⟨Integration⟩ must be fairly Significant," Henrietta mused. "Though it would not surprise me if portions of The Factory are being magically attributed to you."
+
+"No, that would... actually, there isn't much with an origination offset, is there? Huh."
+
+"May I take a look at your artifact?" She asked, before Oliver could sidetrack them onto something else, or the Artificer wandered away.
+
+With the former clockwork heart in one hand and the Window of Words and Winds in her other, Henrietta only needed to do a bit of finagling to get the latter to properly cooperate. She was getting better, but there was still work to be done.
+
+[Inscribe Documentation]
+
+A sparser description than Henrietta had expected, but not an unwelcome one. She quickly jumped over to her todo lists and added 'make a familiar' to Oliver's tasks, to keep herself from forgetting, and handed the core back to Oliver, showing him the item description as she did so.
+
+"That basically matches what I saw," Oliver nodded.
+
+"Good. Do you have any concerns utilizing it on a temporary basis as we industrialize?"
+
+Oliver shook his head.
+
+"Excellent. Now, we've made a single clockwork heart by hand, I want us to move to making them automatically," she held up a hand to forestall Oliver's incoming protestation, which he'd already opened his mouth for. "Yes, I know that making them entirely automatic is beyond us right now, and even our supply lines for iron and copper still require intervention, but I want to get those even more automated both as well. My question to you, then, is just whether you have any immediate concerns you want me to keep in mind when I'm making a plan. Also, I want to know how involved in that plan-making you want to be. I figured that you would rather be building than planning, but..."
+
+Oliver was vigorously nodding his head.
+
+"Okay. I'm glad my instincts were right. As always, let me know if you do think of something, or if my plans seem wildly infeasible, okay?"
+
+Oliver gave a brief nod.
+
+"Oh, and if you see Veeran, send him my way. You have things to work on?"
+
+"Always, Commander."
+
+"Very good. Dismissed. Oh, Smith," she was forced to immediately take back her dismissal, but Oliver turned back inquisitively. "Good job, with the clockwork heart and congratulations on the familiar core."
+
+Oliver gave a bit of an awkward acceptance smile and slunk away, leaving Henrietta to her planning.
+
+A clockwork heart was a bit of a complicated artifact, magically speaking. It was a fungible spell target, which meant spells could target and affect it directly, and it provided an endless amount of rotational motion sufficient to drive a singular clockwork automaton of appropriate size. In theory, that their clockwork hearts were roughly the same size as a human heart indicated it could be utilized in human-scale automata, but she didn't expect the theory to hold true in practice. Still, even if it couldn't power a train, it could definitely power a transport cart, the Lumbermill saws, and pretty much anything human-scale, which was what they needed right now.
+
+Fortunately, the artifact was comparatively simple from a mechanical perspective. A Drivegear on an iron rod, a motion slide pawl, an outer frame to hold everything together, and two bronze clips to hold the iron rod in place. Once all the pieces were together, assembly was the work of minutes, and while the final Attunement castings were more involved than that, it could be done in batches.
+
+Because that was her strategy right now. If something couldn't feasibly be done by a mindless tool, figure out a way to spread an identical amount of work across multiple items. Their ironlathe was an excellent example - the nearly two-meter long rods it output were twelve times longer than the clockwork hearts needed, so one rod could be used for a dozen hearts. However, even with those batches, there was much to be done to decrease the amount of human time required, and that was also an area to improve. The bigger the batches, the less human intervention per batch, the more they could scale their production up, and up, and up.
+
+Right now, the process for making a clockwork heart went thus:
+
+Copper was harvested by inklings at Coppermine, and was transported by hippophant inklings down the First River on a daily basis. Once it reached First Tower, someone - usually Clark - would briefly hand-sorted to remove rocks, loaded onto their water-powered crane and lifted to the top of the Spire. Then, it was moved to the Bronzing Crucible, where it was transmuted into bronze. That bronze was then cast into ingots for later use.
+
+Trees were felled, usually by Henrietta. Some of that wood was sent to Lumbermill for processing into rough-cut boards, but the majority wound up being passed on to Clark, who created large piles - though with the size of some of their trees, a single section of the trunk might be a single pile - and burned it in their Charcoal Furnaces, which was maintained by sniffer inklings until the wood was appropriately carbonized. That was then broken up and used to feed their Blast furnace and smelter enchantment.
+
+Iron was mined by digger inklings at the Ironworks, then was transported via transport cart with a hefty inkling guard down the Ironroad, until it reached First Tower. Then, it would be unloaded from the transport cart and into their singular Blast furnace, where it would be smelted and be released into a large basin. Someone, usually either Henrietta or Alyssa, would push a decent amount of slag off the top and into an ever-growing pile of gravel, before they let the rest cool. The iron would crack and fragment as it cooled, and the pieces would then be stacked off to the side.
+
+Rocks were gathered by pseudowyvern inklings from around First Tower and dropped off in the Universal Refinery. There, the ubiquitous red stone was processed into a lot of very pure sand, and small amounts of wrought iron to accompany the cast iron their Blast furnace would normally produce. That sand was, through a group effort of everyone and utilizing the smelter enchantment, melted into glass suitable for subsequent enchantment as Light Crystals.
+
+Once the glass was cooled, Oliver would then enchant them accordingly. The completed light crystals were then inserted into bronze, cast and cleaned up into the form of a phlogiston radiator, and then enchanted accordingly. Thanks to the broadcast glyphs, that enchantment was easy and only took Oliver about an hour to create. He couldn't quite do multiple at the same time, but doing several in one go was more efficient.
+
+Iron, from either the Blast furnace or Universal Refinery, would be worked by either Oliver or Jacob. Some of it would be made into a thick disc and subsequently a ratcheting gear, as well as an accompanying pawl. Then, Oliver would enchant them with the motion slide functionality it required, another hour-long process thanks to the broadcast glyphs. At that point, the Drivegear would be slightly heated, and the phlogiston radiator cooled, until the latter could be inserted into the former, such that when they returned to normal temperatures they would be stuck together quite tightly.
+
+Iron would also be worked into a long rod shape, which had taken multiple days the first time, but they'd made several at this point, each of which represented about a day's worth of work. That iron rod would then be loaded onto the ironlathe and slowly brought into machine-level perfection. Then, Oliver would quickly imbue it with a motion slide-based lubrication effect, and it would be cut to length. That length of iron rod would then be inserted into a heated completed Drivegear such that its bronze disc expanded, positioned carefully, then allowed to cool once more.
+
+Bronze ingots were also taken and cast into a bit of a disc-shape, then over the course of several hours hammer-forged into a dome shape, with a cutout to allow light out. It also had a couple of supplemental pieces forged to attach to said casing for attaching the Drivegear pawl, a small piece of forged and folded bronze acting as a spring, and a mount for the driveshaft to rest in. Oliver would then actually attach the pawl, cast a lingering anti-Nature ward over the device to cut down on rusting, insert the iron driveshaft into the casing, and use some small bronze rods - more like thick wire, really - to keep the casing together.
+
+Only then would Oliver actually work his final bits of magic to turn the miscellaneously crafted and enchanted pieces into a unified Artifact, then pass it to Clark to [Unblemish] it to check for defects.
+
+Not including tasks for the raw materials like harvesting trees, feeding the Blast furnace, and doing touch-up whenever dragons broke some part of the Ironroad, a single clockwork heart took about two and a half primary days of work, spread across all of them. With a full primary day corresponding to about ten hours, that meant their starting point was twenty five hours of dedicated and skilled work to create one of the artifacts.
+
+The first and easiest changes were already being done - the second clockwork heart had been installed into the ironlathe, removing the need for Jacob to manually power it. He and Oliver were currently working on creating gearing to automatically move the cutting tool along the entire length of the rod, such that the process wouldn't need constant manual oversight, just someone to change the cutting depth after each pass. Combined, that took out about a day of work, but that day was to create the parts for twelve hearts, so in truth it only reduced the work by an hour each.
+
+The forging was what really took the most time, both for the outer casing and the Drivegear, and she had Clark experimenting with actually casting their cast iron. If they could make the directly from Blast furnace iron without needing to work the excess carbon out first, that would cut out nearly a full day of work. Similarly, if they could make the casing via a single step, that would also cut a good ten hours out of the manufacturing.
+
+And fortunately, they'd progressed enough in their technological advancement to make single-step manufacturing possible. The key was screws, of course. With several hours of work on the lathe, Jacob managed to create a long iron screw, and then case-hardened it into basic steel. That screw was then used as the central component in a new metal press, arranged in such a way that when an external handle was turned, the screw turned and pressed down with far more pressure than what was required to simply turn the external handle.
+
+Of course, no amount of pressure was useful if it couldn't be harnessed. To accomplish that, they created - via a combination of sculpting clay and bronzecasting - metal blocks that, when pressed together, had a negative space exactly the shape of the parts they were trying to make. Then, after enchanting the metal blocks with the same effect that was in use for the smelter enchantment to reflect instead of absorbing heat, they could load the two blocks - dies, as they were called - into the Metalpress, insert a piece of hot bronze roughly the right size and shape, compress the two blocks together, and then allow it to cool under pressure.
+
+After working through a few bugs with the die and hot metal fusing together, the heat-reflection effect preventing the pressed metal from cooling, they started getting actually decent outputs. They still had plenty of issues, of course. The metal would warp and become unusable as the casings cooled. Sometimes the metal flowed weirdly and the press left weird gaps in the final piece. Sometimes they put too much metal in, and the press couldn't fully deploy. They did make sure to include a kind of pressure relief hole for excess metal to come out of, but that could also result in hot metal randomly bursting out of the dies, which was suboptimal.
+
+But it worked, and that was what mattered.
+
+Twenty-five hours had become fourteen. Clockwork hearts had been installed in the lathe, in the Metalpress, even in the Bronzing Crucible.
+
+The Factory ticked along, one new heart at a time.

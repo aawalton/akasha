@@ -1,0 +1,259 @@
+Why wasn't it working?
+
+Why wasn't it working?
+
+"Work, you hells-chained pieces of junk," Oliver hissed.
+
+⟨Use Artifact⟩. ⟨Use Artifact⟩. Use. Artifact.
+
+The magic was flowing, his skill was responding, but the placement bracket still wasn't doing anything.
+
+[Status]? Skills.
+
+Why wasn't it working.
+
+He'd picked up spiritual monitoring for his most recent level - sixteen - as a basic safety precaution against some spiritual injuries... and to help with debugging an incredibly annoying enchantment. It hadn't helped. But right now, he sorely wanted more detail than he'd set his Autonomous Divination 2 up to provide....
+
+"Go! Go!" A bit of shouting momentarily pulled Oliver out of his focus, but he didn't let it distract him after he confirmed he was neither in danger nor the one being yelled at.
+
+⟨Use Artifact⟩
+
+Waiting a few seconds hadn't fixed the issue.
+
+Did the battle-thing cause the enchantment to reset in some way? Non-ephem magic rarely rebooted per se, and the placement brackets were quite decidedly carved enchantments, but something he hadn't anticipated was going on.
+
+Oliver felt some amount of frustration bubbling up. It was substantial enough he couldn't prevent it, and he wouldn't be surprised if it was exacerbated by or was exacerbating some degree of mental scarring from their... traumatic Jump. But, he could offset it long enough to let his self-preservation finally take priority.
+
+A roar from up above helpfully informed Oliver where the action was taking place, and he scooped up a placement bracket from the ground and ran into The Jungle. Once sheltered by the trees, and hopeful that the windstorm would have cleared out any dangerous dinos and other beasts from the area, Oliver looked up to see the ongoing battle.
+
+A dragon, looking a bit like a rocky statue glowing cherry-red from heat and not much larger than an elephant, kept weaving back and forth with the exceptional agility oft associated with its family. It seemed to mostly be dodging a number of thrown rocks, but Oliver also was able to see fairly large plumes of fire.
+
+He was sure Alyssa's fire blasts against the ambiguously-burning monster were tremendously helpful.
+
+A brief line of light flashed against the front of the dragon, cleaving open a line of white-hot... magma? A line of white-hot something that spilled forth to seal the wound Jacob had just dealt. The dragon roared with pain, and a moment later turned toward Oliver and started flying towards him.
+
+Oliver scrambled into a small hollow in a nearby tree and pulled himself into a small ball. Overhead, he felt the Dragon radiating from the sky as the creature soared upstream, and fortunately didn't stop. He breathed a sigh of relief, and turned his attention towards his placement bracket as he meandered back towards the wreckage of First Tower.
+
+[Appraise]
+
+Oliver grit his teeth. The enchantment hadn't broken. But it wasn't working. So what was going on?
+
+"Oliver Smith the [Erudite Enchanter] asks and does expect the world to answer. The artifact held within his grasp has ceased to work due to a failure of an enchantment. It possesses no fault, no absence, and its..." A bit of a sputtering sensation on the edge of Oliver's arcanoception came to his attention, and his breath caught in his throat as he looked at the brick kiln.
+
+His Autonomous Divination for the kiln popped up, which both did and didn't make things better. Apparently, it wasn't just his placement brackets that had failed. There must have been something more fundamental that had gone wrong, and it wasn't obvious what.
+
+"Are you well, Smith?" Jacob asked.
+
+"I am frustrated," Oliver carefully measured his response. "Some or possibly all of my enchantments have stopped working, and I cannot determine why or how."
+
+"Did you see that dragon, though?" Alyssa literally dropped in. "It was all swoosh, and I blasted it with fire, and then Jacob did his slash and... huh?"
+
+Alyssa mercifully got distracted by something else, and Oliver cycled through his creations to figure out what was and wasn't working. On the forest floor, the brick kiln was broken, the placement brackets as well, and so were the motion slides he could find to test. His force-pillows weren't broken. The Shadow ward on the sleeping hut wasn't doing anything. His Staff of the New World was... half working? It was working inconsistently, and while Oliver couldn't figure out what was causing it to break, he had figured out what it felt like when it was about to fail and could avoid triggering it.
+
+Unfortunately, that hadn't helped with any of the other diagnosis.
+
+The claynades still were primed, and while the ballista could still turn, their motion slide reload mechanism was broken... so in practice they were completely broken.
+
+Up top wasn't much better. The Universal Refinery had stopped burning, but the smelter enchantment was half working, specifically the half responsible for concentrating the flames. Unfortunately, the part of the enchantment he could use to adjust the magic was nonresponsive and it was too hot for him to get close enough to directly manipulate it. Some of his sliderail prototypes were still working. The First Tower's Foundation Wards were fluctuating wildly, barely flickering above functional, and while the System node was still working, the magic gave off a general sense of 'if it's breathed on too hard it will all collapse.'
+
+Which was just... great. Absolutely fantastic.
+
+"And half of them seem to still be working just fine. They don't give off the slightest indication that there's any malfunction or fluctuation in what they're putting out in any way except the fact they just aren't working. The only ones that are obviously different are my staff and the sliderails that are working, and I just... agh."
+
+"And your divinations aren't returning anything?" she asked.
+
+Oliver wrinkled his nose, "Kind of. Technically they are. But like... whatever is going on, I don't know what it is. So it makes it tricky to diagnose. If I knew what the problem was, I could definitely divine the solution. But there's literal infinite things that could be going wrong, and I can't divine them all."
+
+He smacked his staff against the ground for a satisfying crack. "And because I can't figure out any angle that actually reveals that there's a problem, there's no thread for me to pull."
+
+"Not even with the staff and the rail?" The Commander asked, "You said that they do show signs of being different?"
+
+"They'll fluctuate randomly in function, and I can sense the enchantment... turning off and on, basically? But when I try to divine what's causing it to turn on or off, I mostly get responses of 'it isn't.' I've had my staff disable when I spin it clockwise too many times without spinning it counterclockwise, when I go into one of our shelters, when I leave one of our shelters, when I walk away from a fire, when I hold the top of the staff..."
+
+"And there are no connections between the actions? I would've thought that there is some unifying magical rule between those."
+
+"There's too many," Oliver sighed, "It's obviously some kind of second or third-order influence that is causing these malfunctions, and there's practically an infinite number of possible things that might be responsible."
+
+"How could you narrow down the possibilities?" She asked him.
+
+"I... could level my [Appraise] somewhat?" he sheepishly asked. It had been mostly neglected lately in lieu of what had seemed at the time to be higher priority tasks. Right now, he wished he'd put a higher emphasis on his primary source of novel information. Not counting divination, anyway.
+
+"You don't have any way to give yourself a temporary level boost?" Henrietta prompted, making Oliver reassess what he might be able to do.
+
+"Like making a focus?" He mused. "I guess I could do... something?"
+
+He hadn't done many novel artifacts lately, either, for what once again felt like shaky reasons under Henrietta's steely gaze. But when he was just doing base iteration and a lot pf repetitive enchanting work, [Cogniprint] worked just fine by using existing items as templates, so he didn't need to create specialized casting foci for his work, and so... he just hadn't.
+
+But he could. Though the most iconic source of bonus levels was a class with multiple instances of the same element, augmenting skill usage with various casting elements - chants, gestures, foci, materials - was the most common. Most of the time, the degree of boost it provided was... small. A few flicked fingers to enhance a [Fireball] would be far less than a level's worth of effectiveness, a short chant and a handful of glyphs provided by a holographic rune-projector might provide two or three effective levels at most.
+
+But if he wanted to get the... ten, fifteen levels he'd need for [Appraise] to gain actual debug readouts, Oliver would need to go a bit more involved than supplementing the main skill with a casual divination.
+
+His eyes flicked up towards Henrietta.
+
+[Appraise]
+
+"Do you remember what Alyssa's [Rustlewind] was at?" he asked.
+
+"Level ten, last I checked with her," Henrietta replied. "Why?"
+
+"I'm thinking about creating a focus for my [Appraise], and I think the only way I could really get it strong enough for our purposes, I'll need to pull in other sources of magical information. I'll need to... let me think."
+
+Henrietta waited.
+
+"And she put a point in Aura not that long ago, right?"
+
+"She did take your advice to do so, yes," Henrietta confirmed, and a plan began to pull itself together in Oliver's mind.
+
+"Glass. I definitely need glass. And I'll need to take some of those blue crystals we have left over from the System node. And some copper. And... probably more, but I don't think we can spend long enough gathering the other things I'd like for this to work?"
+
+"All of that is doable. Does the glass need to be clear?"
+
+Oliver shook his head, mind racing, "No. I just need to make sure it winds up in the right shape afterwards."
+
+Oliver had really underestimated how quickly things could come together when all five of them had a singular focus.
+
+The smelter enchantment was in heavy use, because they needed some really high temperatures to melt glass - quartz actually melted at a higher temperature than iron itself, and the sand the Universal Refinery produced was pure silicon dioxide - and because it was still working, while corresponding to what he was trying to do.
+
+The pentagonal enchantment was largely unchanged, though. Oliver was mostly just adding to it, creating a tri-point enchantment that connected the smelter to the System node. It had been a bit nerve-wracking to work on the latter, but the reason he'd done it was because he could make his new addition also stabilize the tower's fragile enchantment.
+
+Each of the three new points were made of fresh clay delivered by Henrietta, flattened by Jacob, flash-dried by Alyssa, and smoothed out by Clark. From there, Oliver carved a fairly basic enchantment into each. It wasn't hard, because he could reference the System node's glyphs, and all he was really doing was creating tethers for the node-smelter network to more easily interface with three people simultaneously.
+
+Though he hadn't really planned it as such, the overlapping Crucible glyph made everything flow... well, incredibly well. They practically jumped at the opportunity to connect, and though Oliver wouldn't have quite as much support as he might normally prefer...
+
+He glanced at Jacob, who was using his [Frostblade] to level out wet clay.
+
+Oliver had learned that sometimes he needed to just go for it.
+
+It was incredibly hot up here. Even though the sky was now clogged with dark clouds, so the bright light wasn't quite as oppressive as he'd gotten used to, the smelter enchantment was still running at nearly full strength, and with how much fire it was handling...
+
+Oliver was just glad he didn't need to play coy around the smelter enchantment itself. Sure, any enchantment with more power than a human could reasonably directly control was dangerous and needed to be worked around, it was close to a pure Fire enchantment, and Fire was an element that humanity had long since mastered and tamed. There were countless spells and techniques for working around Fire without getting burned, and Oliver was able to make use of... well, a couple of them.
+
+Something caught Oliver's attention, and he looked up from where he was laying his enchantment to see Jacob hanging onto one of Henrietta's ink-flails as the latter flew off the Spire. If there was any noise, Oliver couldn't hear it over the wind and flames he was working near. He took a few steps towards the edge to see what was happening, but Alyssa rushed up to him and held him back.
+
+"Nope, don't worry about that," she told him.
+
+Oliver glared at the [Ranger of Far Lands]. "Excuse me?"
+
+"Boss's orders," she continued. "You're to stay focused on your stuff, I'm supposed to stay focused on the glass-melting bits, and we let them take care of the d-sssstuff."
+
+Did Alyssa just self-censor? He was kind of surprised that she'd hold her language back when their Commander wasn't around. He wasn't quite convinced, and tried to take a step forwards, only to be prevented by Alyssa's arm.
+
+"I'm serious. Keep working, we need to get this working fast."
+
+Well now he was kind of worried. But he tried to put that aside as he returned to working on his circle.
+
+By the time he finished, Alyssa seemed to be satisfied with her work, and she bounded over, confirmed that he was ready so fast it left his head vaguely spinning, then leaped down off the Spire.
+
+A minute later, she was back with Henrietta.
+
+"Smith, you're prepared?"
+
+"I... think so? What's going on?"
+
+"Worry about that in a minute. Let's get you your artifact, okay? Just go as fast as you can while being safe."
+
+That very much didn't help him stop worrying, but he trusted his Commander. Some pieces of knowledge very much could interfere with magic in all kinds of ways, so Oliver fought back the part of him that wanted to know what was going on, directed Alyssa and Henrietta to their respective points of the circle, and began his cast.
+
+First, calibration. He'd calibrated the individual circles as he'd carved them, but all three together might have weird misbalances that... well, he couldn't correct them, but he could at least account for them in what came next.
+
+[Scrollcast]
+
+"The Tapestry shall hear my voice and feel my presence. For I am Oliver Smith the [Erudite Enchanter], and I stand upon the crossroads of a beacon of fire and iron and a spear piercing the heavens. I declare my name and my title, establishing my legacy and lending my weight and guiding hand unto the ebbs and flows of this world. My Shadow does stretch forth, and within my hand I do demand an echo and a greetings. The two words in my native tongue, a single word within the language of magic. Return to me that which I seek, acknowledgement of this tool I have assembled for the purposes of imprinting these questions upon artifacts great and small, and you may rest once more."
+
+Okay, so there were a few peculiarities, but it was nothing he couldn't compensate for.
+
+[Scrollcast] [Cogniprint]
+
+"I, Oliver Smith, do stand as observer and as shaper. For the [Erudite Enchanter] is not one to sit idly as the world passes by, allowing it to go unobserved, unrecorded, and unchanged." Oliver's plan wasn't that complicated, conceptually. Yeah, they'd only have one shot at it, but that was going to be true for anything given their time constraints.
+
+The primary goal of the System was to uplift humanity and freed them from the shackles of the Tyrants. To put their fate back into their hands instead of leaving it in the grasp of entities who thought of humans at best as interesting sycophants for their own ego, and at worst as objects to be toyed with, prodded at, used for their own amusement in all manner of horrendous ways, and as proxies for their petty squabbles. The most obvious way that manifested was in the Classes it granted, of course. But it also acted to uplift humanity in a much more practical way.
+
+Aura was the bridge stat, connecting the body to the soul, magic made physical and the physical made magical. It enabled stats like Resistance to extend to the user's clothing, made casting with physical motions easier, and helped leave impressions of the soul in what they worked with. Incredibly important for enchanting. But it also went the other way. Taking points in Aura imbued the body with magic and left it changed. It lessened blemishes, improved symmetry, helped cleanse deep-seated biological issues, and generally reshaped Homo sapiens into Homo primus in a thousand different ways.
+
+That change went deep, Aura helping every part of the System touch every other part. A trace of every stat, every skill, all Achievements and mana produced could be found in every cell of the body.
+
+"Behold, I give of myself. My being, my blood, my life. See within it the record of all I have accomplished. Behold, as the [Erudite Enchanter] seeks to learn much and teach it all, leaving the world enlightened for their efforts."
+
+There was a slightly tricky moment as Oliver suddenly needed to use his hands to loosen a knot of mana while cutting a gash in the side of his hand, but he made it work. The knife they were using wasn't as sharp as ones he preferred, so it hurt more than he was used to, but he was able to account for the flinch. From there, he carefully knelt down and allowed the side of his palm to bleed a few drops onto the box of sand that had been placed there. It was possible to use blood from places other than the hand in many situations, but blood drawn from the hand had more associations with elemental Hand, and they didn't have either the medical equipment or error margins to forego that particular annoyance.
+
+But while IVs were generally nicer... Oliver would make for a very poor Archmage if he couldn't handle a little incision on his hand while casting.
+
+Clark retrieved the box, then moved around the circle to where Henrietta stood, eyes sharp and at keen attention for everything going on. She took the same knife and repeated the process, allowing a bit of her own blood to drip onto the sand.
+
+Blood was one of the most magically potent substances in existence. Not so much in the 'power' sense, but just in the sheer number of elements Associated with it in one form or another. Not only that, there were at least four elements - Plague, Blood, Bloodline, and Bloodshed - whose Center was just directly 'actual physical blood' in one form or another, so intertwined that generations of mages across several worlds had thought they were all one incredibly complex and weird element. But right now, the one that Oliver cared about was elemental Bloodline, an impression of 'that which was,' also known as Family magic, and the element most invoked for things like forensics and blood oaths.
+
+Alyssa also gave her blood to the sand, and Oliver moved on to the next stage of casting.
+
+"Behold, as the [Master Inkscribe] records their doings, writ in the blood which remembers all and spelled forth in the runes which translate reality for our benefit. Behold, as the [Ranger of Far Lands] goes forth, out to learn all and to hear what the winds and the trees do whisper, that they may translate and seek forth the grand and subtle alike."
+
+An inkling sacrificed itself to push the tray into the middle of the smelter enchantment, where it could sit and stay as Oliver continued his casting. The 'tray' was an unfired roughshod brick that he had carved out into a sacrificial mold, and on the bottom there was some scrapped copper he'd hammered into a rough plate, with a few mounds of white sand layered atop that.
+
+Oliver had enchanted the sand as he'd laid it down as well, hopefully reducing its melting point to something slightly less than the 1600 degrees C it normally was, with a trio of the blue crystals placed in the mixture and enchanted in their own way. He was fairly certain that the crystals had a higher melting temperature than glass, but neither his or Henrietta's Identify-type skills were skewed towards minerals, and that made it harder to, well, identify.
+
+The overall theory, then, was that the copper would melt and stay at the bottom, the sand would melt and float at the top, and the three crystals would remain solid and anchor the enchantment in place. Those anchors would be what Oliver would focus their blood-resonance into, creating a focus point where all three of their skills could hook into. Once that happened, Oliver could weave the connecting threads into something more advanced... but that was a later problem, right now he just needed to get the crystals to accept the blood component Associated with their respective divination skills.
+
+"May this beholding be captured within the crystals as I command. May a memory, a record, and image of this sight be held as a lens by which the world itself may be studied and interpreted. I create a tablet, a window into the world beyond, a glimpse at the Tapestry of reality. May the winds whisper to it, may the knowledge spread, may the runes grant insight."
+
+Oliver could sense the tablet, deep inside the smelter, twitch and shudder as his magic entwined with it. He became vaguely aware of the lines on his arms pulsing with grand power, and he could feel the magic he was working with. The braziers around him burned, the clouds overhead loomed, the winds tore and struck at his hands, yet Oliver stood unbowed. The machines and the technology, the clouds casting their shadows, the winds carrying air far afield, all of it was his.
+
+The world around him waited for... something. He didn't know what. Anticipation built up, a great pressure wave preparing to be released, all pivoting off of his actions, on how he cast his spell. But... what was it waiting on?
+
+Oliver was directly working with over a dozen elements - three for each of them, then Metal, Fire, and Crystal for the tablet itself, Bloodline and Significance and - and each of those dozen had their own Associations with elements beyond them, and those elements had their own Associations, and on and on the complex interweaving of magic formed into an infinitely complex whole. It could be pending practically anything, and Oliver tentatively tried out a few different things, feeling out how the mana around him responded.
+
+That degree of experimentation didn't work quite as nicely with what he was already working with, but Oliver didn't need to worry too much about that, because -
+
+Well, because that, basically. Having his System back and properly integrated with his arcanoception meant he was getting all kinds of alerts for subtle interactions he might otherwise have missed, or at least not noticed ahead of time. It was quite nice, not having to scramble to put out fires via incoherent casting, the Arcane equivalent of percussive maintenance. Just smack it with a hammer a few times and hope whatever got stuck worked its way out. Though, knowing about failure points ahead of time could sometimes be even more frantic, scrambling to prevent a dozen possible issues, but his success rate was way higher with System aid.
+
+It wasn't that he was unable to notice the pending catastrophe - the alerts relied on his senses, so by definition it couldn't notice anything he wasn't able to, and he knew the charts it used like the back of his hand - but studying the mana flows around him took focus, while having his Autonomous Divination warn him didn't.
+
+A few more alerts also popped up, noting that a Shadow thread was about to unravel, an Earth fluctuation was going to interpose itself in a current of Air and divert it, and that a Bloodline thread was trying to latch on to a passing mote of Wood and corrupt both.
+
+"As Fire rises, carried by the shims and drafts of Air, the permafrost of the Earth does cling to its Ice, hiding in the Shadow of the grasses. Yet the Legacy does stand above it, charging forth unimpeded and proud upon its greatest hunt." Oliver used the errant Earth to bind the Shadow, diverting the Ice to tie them together. The Fire he pulled away towards the Air, compounding them with one another - the Air feeding the Fire, and the Fire exiting and causing the Air to rise - to give them enough energy to burn away the threatening Wood. The Wood, then, was set to rejuvenate from his extra Earth mana, regrowing and then halting from the Ice mana he'd just imbued into the Earth.
+
+"Yet upon its hunt, the Blood does find its place. A lair, a home, a den, a place from which it may call its own." Oliver began to redirect the errant strings of Bloodline, when the mana pressure around him suddenly burst. Though it caught him off-guard by the suddenness, Oliver had his metaphorical finger on [Order Mana] to tame it into a more demure, easily controlled form. He used the skill and-
+
+Darkness.
+
+Interesting. He didn't get casting visions very often. They were once thought to have religious significance, the idea being that they were divine revelation visited upon Heroes on the eve of something grand happening, intended to guide them along their path. In the modern day, it was more understood to be more akin to natural divination - a lot of mana collapsed on a soul, and the soul then picked through it, overriding other senses until it finished hallucinating. It would usually have true information in it, but that was simply a consequence of the Tapestry reflecting reality.
+
+In any case, suddenly being beset with hallucinations would generally be quite bad news for the spell he was currently casting... but even if he didn't usually get casting visions, that didn't mean he didn't know how to deal with them. His arcanoception was, ironically, mostly unaffected, and as such he could keep casting if he wanted to. It would be a bit trickier to cast blind and deaf... or he could take advantage of the mana collapse and redirect the divination patterns inherent to it into his divination focus.
+
+He went with the latter. If the Tapestry wanted to help him, he really couldn't afford to decline it.
+
+"Lo, as the world does describe itself, may its words be written with runes of ink, whispered by leaves swaying in the breeze, known by the artifice thus created at our hands. For as the world binds us all, so to do I bind the souls of Oliver Smith, Henrietta Inq, and Alyssa Ride. May their blood bind them, may their magic tie them, may their minds be opened in unison. We are the masters of our own destiny, our eyes shall be opened where we look and closed when we look away. We behold the world upon which we stand, masters of it, let it not master us."
+
+Light returned to Oliver's eyes as he pushed the mana-collapse onward, through the enchantment and into the tablet they were creating.
+
+Oh good.
+
+Oliver hadn't exactly been counting on getting a new subskill for his current creation, but it did make it a lot easier. He'd made a few tweaks to the setup to make skill-earning a bit more likely, but just overall, he wasn't likely to get much better odds of getting a skill than working with a supplement to the System node, hand-casting a spell within the strict confines of a powerful focus he'd made...
+
+And it was even ⟨Duplicast⟩! He knew the subskill quite well, having been a favorite of his before the Jump. Its effect was simple, but potent - it allowed him to use magic being cast by another person for his [Scrollcast] reference. So if someone near him was casting a spell, so could he. But what had made it particularly useful for him was how he could use it to duplicate skills from other people.
+
+He'd need either a ton more Cohesion or a dedicated skill or subskill if he wanted to directly use other people as walking spellbooks, freely utilizing their skills as templates, but the ability to copy skills in active use was quite useful, for rituals especially. Without ⟨Duplicast⟩, he would need to spend some more time weaving those threads into a rope, which he could use to tug more solidly on each of their souls and create a kind of resonance that would trace the facets of their Systems into the tablet he was crafting. But with the subskill...
+
+Oliver gently loosened his existing spell, extricating himself from the mass of magic to give him a small break. "The knowledge of the world is thereby the world itself, steady and unchanging. The stones are forever, changed in form across eons by the thoughts of the world itself, the wind and waves forming a tapestry by which all of reality does hear the symphony."
+
+And... there was the opening. He put the spellform into a bit of a self-sustaining loop by disentangling himself right as the 'symphony' he'd directed it towards began its 'chorus,' repeating a bit of itself and strengthening that particular thread. Knowing when and how to take breaks when casting was an essential skill for any professional mage, but it was tricky to do without dedicated supports for it. Oliver didn't have those, so what he'd done was more like juggling a bunch of balls and throwing them all really high into the air to grab a moment of reprieve before everything came crashing down again.
+
+He did wipe his sweaty and bloody hands off on his tunic, though. He took a few deep breaths, cleared his throat, and raised his hands to catch his magic once again.
+
+[Scrollcast] ⟨Duplicast⟩ [Cogniprint]
+
+"And I, its conductor, do hereby command the strings of reality to play at my tune."
+
+With a subskill helping, the casting went smooth. He needed to work around Alyssa occasionally using a non-[Rustlewind] skill to help the glass along, but that was fine. He knew it would happen, and had set things up accordingly.
+
+It was so nice having a bit of flex room in his casting. That had been miserable before the System had been in place, when he couldn't preplan his spells and didn't have the Cohesion needed for his mana to behave even without physical direction. Because here and now, working with grand artifacts and imbuing the System into objects.
+
+"For I have spoken. I invoke the breath of the wind and the wisdom of the forest, the might of the arcane and the purpose of order, the books of paper and the runes that contain such knowledge. I bind the spirits, interrogating them for their insight, and hereby create a window into their world. For I am Oliver Smith, and my purpose is to learn. Speak, you tongues of fire, and sing of the legends which have formed you. There may be no sun in the sky, yet I create a beacon of my own, a codex of knowledge to illuminate and chase away the darkness of ignorance, a bountiful harvest from a wasteland."
+
+The magic he was delicately weaving took on a mind of its own, spiraling into the very center of the smelter enchantment like water down a drain. A densely packed spiderweb of magic blossomed in the center of the column of fire... which had become blue at some point. Alright then.
+
+He spared a couple of glances towards his full System notifications, but couldn't give them the full attention they deserved quite yet. He tried to signal to Henrietta to pull the tablet-tray out of the fire, and she somehow interpreted his wild flailing correctly. An ink-flail sacrificed itself, piercing the boundaries of the magic circles around them, diving into the flames, and extracting the nearly glowing pottery with its payload of molten glass.
+
+Then, their Commander was gone, dashing away and diving off the Spire to return to whatever was down below. Hopefully he could find out what was going on now?
+
+He still needed to look at the tablet first. There was still some work needed to truly finalize it, and at least some of it needed to be done while it was still hot. He took a steps, got extremely dizzy, nearly fell over, and then he was being supported by Clark and gently set down on the ground. A water flagon was pressed into his hands, and he heard a voice tell him to "Drink first, then you may say what is on your mind."
+
+While Oliver usually made a habit of not doing what random voices told him to do, 'drink water' did sound a... bit like a good idea. And he could deal with the rest later.

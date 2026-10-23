@@ -1,0 +1,131 @@
+Oliver was torn between three distinct feelings about Clark's latest subskill.
+
+The first was sheer excitement at getting a genuine form transmutation skill that he could work with.
+
+The second was professional awe at his teammate managing to leverage a cleaning skill into a form transmutation one.
+
+The third was sheer indignant annoyance that Clark somehow managed to gaslight his cleaning skill into giving him form transmutation.
+
+Yes, he knew how the elemental theory worked out. Water and Hero were both fairly change-based elements, and so the skill didn't even need to get fancy to do the thing. They'd already leveraged that exact principle in their bronzemaking. But like... It was Clark. It just...
+
+Sigh.
+
+"Is something the matter?" The source of Oliver's annoyance annoyingly spoke up, being all annoyingly... whatever.
+
+"Everything's fine, Clark." Really, this was a triumph of the System if anything, and further evidence of the First Empire of Humanity's stance that everyone deserved magic, and that mortals deserved to shape their own destiny, without preconceptions as to who was worthy of the honor. But also, Alyssa becoming a mage was bad enough. At least there was absolutely no way to interpret Clark's latest magical advancements as anything resembling wizardry. "Can I get the reference again?"
+
+The magic bloomed around Clark's hand, and Oliver quickly ⟨Duplicast⟩ it, feeding that magic to [Cogniprint] and ⟨Inlay⟩ in turn. The latter helped to quicken his mind and his fingers, and interacted with a finally-functional Autonomous Divination pipeline he was working to set up to translate that into an actual design. That design, then, was fed into his System IDE, and gave him a three-dimensional view of the enchantment details he'd need.
+
+Oliver then quickly filled in a mechanical design that seemed doable with their current level of development, contemplating what he needed to add, when Clark's voice broke him out of his concentration.
+
+"Will they need something to hold them up?"
+
+"What?"
+
+Clark pointed at... the design in Oliver's system, which at the moment was just three enchanted pulley wheels with none of the support needed for those to actually... be there.
+
+He blinked. That... shouldn't have been visible. His System was a personal interface, which included his notes, and as such weren't something that other people could see. In elemental parlance, it was a Dream, not an Illusion. But... Clark could. It wasn't just a matter of his arcanoception doing something weird, because it both would have been apparent long ago and because Oliver could also see it.
+
+It was still on his System, and then there was a life-sized equivalent of it a few feet away. Oliver quickly made a change to it in the IDE, and the double also changed in real-time, and... Oh. Well, that was kind of embarrassing for multiple reasons. Both the fact that his new familiar-drone was projecting the IDE contents as a hologram without him realizing... and the fact he didn't instantly realize what was going on when he saw it. In his defense, he hadn't cast anything even remotely close to an Illusion spell, the familiar had just... done that.
+
+Not that he was complaining by any means. Trying to create complex holograms by hard-casting with the Pillar of Industry was entirely doable, but so, so tedious and accordingly prone to mistakes. But the ability to just... export his System-created designs into a projection form via his Familiar was absolutely astounding, and not only made this much easier but also cut short an entire toolset of illusion-casting he thought he'd need to make. He'd designed the drone with a use like this in mind, but he'd expected that any hologram would require a full spell first, so this... was way better than expected.
+
+Thank you, ⟨Integrate⟩.
+
+He flexed ⟨Use Artifact⟩, directing the drone to reposition itself with more precision than non-Skill commands could muster, then idly answered Clark while he started making a bunch of changes to the design. "It does, yeah. I was... not expecting you to see that, actually. I was just getting started..."
+
+*And now I feel self-conscious about how I'm making this stuff. It's like someone looking over my shoulder at a screen but somehow so much worse.
+
+"Each of these will actually need three supports, and those supports each need to be machine-precision rods enchanted like staves. A fairly basic enchantment, at least, but that's still going to be... nine? Yeah, nine. Three individual spinning points. See, if I... Oh. Oops."
+
+The hologram flickered and crashed.
+
+"I wasn't expecting that. One moment..."
+
+What followed was a fairly speedy debugging run-through, undoing his changes and redoing them more slowly, coupled with some divination - both Automated and more manual - that got Oliver his answer in just a couple minutes.
+
+Ah, okay. That actually makes a kind of sense.
+
+The drone could only project so many objects at once, specifically six. That was... quite annoying, as he'd just gotten into his mind that he wouldn't need to make many supporting tools to actually enable his hologram-blueprints. But ⟨Integrate⟩ was supposed to improve over time, so that limit should gradually increase, and in the meantime he'd already noted a couple of ways he could work around the limitation.
+
+The most immediate remediation was fairly simple. The drone could only project a finite number of discrete objects, but he could group his 'objects' in such a way to keep below that limit. That did make a bunch of his other tools more annoying to use, because he was effectively saving a number of different files and then compositing them together, but he didn't have to use the hologram projection itself when making all of his edits.
+
+Even if it was tremendously useful for that purpose.
+
+He adjusted his diagram such that each pulley was its own item and re-projected the project file.
+
+Then, using Clark as his sounding board to make sure everything sounded right to his own ears, he started looking through the design and properly analyzing all of his hasty decisions. There was no way the [Prince of Shining Streams] would understand what he was saying, but he could sometimes ask useful questions. "I'm going to feed in a copper rod here, and while everything will be suffused with your ⟨Remake⟩, this is going to be the place where that's most true. It will stretch out the copper rod like it's putty, starting to turn it into wire. That wire will then be fed to this pulley, which is going to be where [Cogniprint] does most of its work, making the wire receptive to enchanting. Then, it will be passed here," Oliver pointed to the final pulley system, which was spatially directly above the very first one but was going to be supported on its own distinct tripod. "Which will have a [Refined Calligraphy]-based enchantment to imbue a specific glyph into the wire, making spellcord. Then, that spellcord will... be collected on a spindle off to the side, I guess."
+
+Oliver was glad he'd done the walkthrough. He was initially thinking about passing the wire back through the system, where it would have [Cogniprint] lock in the recently imbued glyphic structure and then a ⟨Remake⟩ pass to fix any flaws it might have picked up, but... he was stretching out the rod into a wire. Each of the pulleys would need to be running at different speeds, because different parts of the wire itself would be doing just that as well. So no doubling up on the pulleys.
+
+He quickly added one last pulley to the system to ease it on to a winding spindle. To get it started, he'd need to manually feed the wire through, but that wasn't too bad. It might cause some issues, but the benefit of having a lot of spellcord being made without his direct involvement was... pretty big. The trick was that he would ⟨Integrate⟩ it, because based on how the Pillar of Industry had turned out, that would cover over a myriad of technically-lacking aspects. The way his familiar-drone was acting was just further indication the plan would work.
+
+Though... it was pretty big.
+
+Never absorb an energy field bigger than your head, and all that, he mused. They didn't have the buffer for things to go drastically wrong.
+
+Oliver worked to shrink the spellcord-loom down as much as he could. Welding his soul to an immobile contraption bigger than he was seemed unwise. It wound up being much easier after Clark asked why he didn't just directly interact with the hologram his drone was projecting... leading Oliver to adapt his System-based IDE controls such that they aligned with the actual hologram. It wasn't to the level where he could just reach out and 'touch' the projection to change its design - at least, not yet - but it still helped.
+
+That did necessitate him dismissing parts of the hologram while he worked on the sub-file which was each wheel system, but it was only a little frustrating. Oliver could probably go for two weeks before it became unbearable!
+
+He was wrong. He was sick of it within the day.
+
+With the holograms alone, the projection would just crash randomly. Sometimes, it seemed like it was something which he had done that triggered it. Other times, it just did it and he had no idea why. That wasn't always the worst... except that sometimes it would also delete the file it was projecting. If there was some kind of bright side, the fact he could only do six items - oh, except for one time when he realized that it was projecting a seven-object file, and when he tried to replicate the experience not only was it unable to, the file he'd originally noticed it on couldn't replicate the event.
+
+Still, even losing a file with only six objects was still a pain, because it could be kind of fiddly to get things back exactly the way they had been before, and if it wasn't from the top level file, the minute differences in the components could change the magical balance of the whole contraption enough that he would need to start from scratch with divining and adjusting the top-level magic.
+
+Oh, and his System was getting almost cluttered from the number of model files he was making.
+
+He looked up from [Calligraphic Inlay Relay v 3.2 - final adjusted for failure actually done for real this time THIS ONE 2.1 (adjusting for deletion edition)] after triple-checking that its pulley wheel was actually situated on its axle this time, then zoomed out his design all the way to the very top.
+
+The larger project hummed into existence, a faint chirp sound emanating from the drone as it complied, and Oliver set up his Autonomous Divination to incorporate the local Tapestry, feeding the information he could glean into his mana simulations... okay. Finally, he was back to where it had been before he'd lost a corrupted file.
+
+He sat down and just... rubbed his face for a minute. Then laid back and stared at the sky. Birds were flying overhead. Birds were cool. They didn't have to deal with buggy files, or hardware integration of a System somehow causing ephem failures. They could just wing through the sky, without a care in the world... oh, that one just got snatched out of the air by a dragon.
+
+Maybe being a human was alright after all.
+
+Also, was that over First Tower? The wards should have deflected that dragon... ugh, I'm going to need to double-check that they're still holding up along the fringes aren't I? Or maybe the dragon not having active hostility when it entered would suffice... would predatory hunger be deflected by the Hatred ward? It has to right? Otherwise it wouldn't deflect them under normal circumstances. Does the barrier have a height limit? I suppose it probably does. But is it really that low?
+
+A bzzt sound pulled Oliver out of his head, and he turned his gaze over to where his drone... was no longer projecting the project hologram.
+
+Damn every Tyrant, Io included.
+
+Okay. The hologram projection might finally, actually... potentially. Possibly. Could be working. If he was lucky.
+
+He'd needed to make a ton of changes to how his System handled IDE files, because how his drone was accessing them was not at all a designed access route. It had been slipped in as something somewhere between an external focus-peripheral and a superuser with more perms than Oliver. And he'd built the dang thing as a graduation thesis.
+
+The most notable change was that he'd given the drone its own 'user account' on the personal computer running entirely in Oliver's soul. He didn't want to just give it read-only access, because in the course of his tinkering he'd figured out good ways to manipulate the hologram that made certain design tasks easier than on his base Status interface. So instead, he gave it very selective access to a single project file that could be updated or manipulated, but was actually a mirror of the actual file in Oliver's System. Any changes would have to be manually saved over to the master data file, so random crashes and deletions shouldn't cost him anything important any more.
+
+Of course, just because he got the holograms working, that didn't mean that the spellcord production was simple.
+
+There were troubles with making the pulley wheels on the ironlathe, with incorporating the smelter enchantment's structure into Clark's ⟨Remake⟩ and ⟨Retouch⟩, with getting a proper [Refined Calligraphy] ⟨Inlay⟩ set up, with getting an appropriate turn-speed for the collection spindle... It had also just randomly not worked for several attempts, until one time when he tried enchanting in Etheric instead of Parengelic while shirtless in the First Forge, his familiar-drone propped up on the wall projecting its plan-hologram instead of hovering with its flight gear.... he had no idea which if any of those things had fixed it, but he made sure to replicate all of those conditions whenever he needed to work on it.
+
+It took a bit of time, basically. But with each improvement... and near-complete redesign, he learned more about his materials, figured out better ways to get things locked and loaded, and refined the design such that by the time it was actually working, it was about torso-sized and compact enough there were only a few angles you could see clearly to the other side. In part because he had wound up needing to more than double the number of pulley wheels to get the appropriate amount of broadcast glyph-saturation that he actually needed on the spellcord.
+
+Best of all, it still counted as him creating the spellcord, even though it only took swapping out a couple of pieces to change what glyph it would imbue its wire with.
+
+"I will admit, I do not understand how you managed that," Henrietta cut in to his excited descriptions. "I was under the impression that the Focus Exclusivity Principle largely prevented such... modular alterations. A complex machine which is activated by an individual ought to have the casting attributed to the machine, not the one pulling the lever."
+
+"There's... nuance." Oliver scratched his head slightly. "And it's not black and white anyway. The more generalized the machine, and the more work it does, rather than the user, the more attribution can drift. It's not strictly one or the other anyway, casting credit can absolutely be split across multiple entities. With this, because I made the entire machine, it just runs with no alteration or variance, and I need to actually disassemble part of the machine, swap out some parts, and then do a bit of re-Attunement means it would probably still be credited to me... if the [Heart of Technology] connection didn't just make the entire thing count as an extension of my soul anyway."
+
+"Hmm. Are the Metalpress changes you're working on going to act similarly?"
+
+Oliver immediately shook his head. "No. That's... almost a textbook example of the FEP in action. Making a form transmutation machine with arbitrary outputs is... very much not a single-purpose device with the ability to retrofit it."
+
+"Even though you will still be casting?"
+
+Oliver shrugged. "Honestly, given how well my familiar has been working, I might not even be casting, and that's before we get to any other layers of abstraction I might add. But even if I was, I'm just casting a spell to command a machine that's doing the actual work, I'm not skillfully positioning things to use a tool. It's the same reason I don't expect to get any credit from what our automata do once I get a spider-bot working. Even though I made it, a generalist tool that can act on its own is magically its own entity, and its machine spirit is considered the responsible one for any magic it then works."
+
+"I believe I gain credit for what my inklings do," the Commander countered.
+
+Oliver shrugged. "I don't know enough about your magic to know why that may be, if it is at all. I could make random guesses, but... oh. One moment"
+
+Autonomous Divination was a lifesaver. Even if it earned a glare on account of what it was currently telling him, knowing that something had happened immediately was the infinitely more preferable alternative to things just silently breaking. Unfortunately, it was currently up by the smelter enchantment - the general aura which the tech-based pillar of flame exuded was an excellent background for the spinning of spellcord - and Oliver didn't really want to climb all the way up, or wait for a cycle of the Spire Elevator, just to see what had happened.
+
+Admittedly, part of that reluctance was exactly because he finally had an alternative.
+
+Go up to the top and look at First Forge.
+
+A mental command akin to Skill usage was all his familiar-drone needed to spin up its flight-gear and zoom up the cliff face with a clicking whir. Nudging Autonomous Divination brought up a more sophisticated program, and then Oliver had a System interface window showing him what his drone could see. He didn't know exactly how far he could get from his drone and still have his scry-on-familiar program work, but it did seem like the Broadcast Network helped with transmitting it.
+
+The drone made good time, and Oliver sighed when through its eye he saw that the wire had broken. That was going to be a pain to reset. He scarfed down his last bits of food, excused himself, and trudged over to the elevator. The work was never done.
