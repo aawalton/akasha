@@ -1,0 +1,225 @@
+Adult (uncommon) Wyvern has been killed.
+
+Arcane Power Strike has increased to level 4.
+
+New Skill Earned: Immutable Metal.
+
+Adult (rare) Frost Wyvern has been killed.
+
+Your class Dragon Rider has increased to level 5.
+
+New Skill available.
+
+Caleb ignored the notifications as he ran to Kelia who had collapsed in a heap after landing the killing blow. Hastily he pulled his constitution ingot from himself and used his Imperium to rip Grisim’s from his belt pouch, and he pressed them into his wife’s hands.
+
+“Use these,” he insisted. “Bog, start a fire!”
+
+The dragon, who was already glowing with heat, simply walked over and sat near Kelia, afraid to get too close and harm her.
+
+“I’m okay,” Kelia said weakly. “Its not so bad.”
+
+“How is it not so bad?!” Caleb demanded, not sure if he was calling her a liar or looking for an explanation.
+
+“It was just really cold, but I’m fine. Really. My… mother,” Kelia said, letting the last word drop.
+
+They’d never really discussed it, but it wasn’t exactly a secret. Caleb had been fairly certain the rumors about her mother being part Frigidi were at least partially true, but it had never mattered to him, so he’d never asked, lest Kelia think he cared one way or the other.
+
+Whatever her mother’s heritage, it seemed that it saved her daughter’s life as she’d jus taken the full brunt of the frost breath relatively unharmed.
+
+“But you’ve never been immune to the cold before,” Caleb said, looking now for an explanation.
+
+“I don’t know,” she said, “No more questions. I’m so cold.”
+
+He pulled his breastplate off and held her close as the heat of his dragon warmed them both.
+
+“Impietor curse these stupid birds!” Grisim yellowed from behind when it became clear his sister in law wasn’t dying. “I didn’t level!”
+
+***
+
+Once confident Kelia wasn’t about to die on him, Caleb moved to make her comfortable in sheltered outcropping that was the wyverns’ nest. Within this outcropping saw a massive nest—made more from branches and logs than sticks and leaves within which sat a wyvern egg.
+
+Well, what good judgement told them all was a wyvern egg. None of them had ever seen one, but the large egg the size of Kelia’s torso couldn’t likely be much else.
+
+They briefly debated eating it, but decided against it. The empire was in the village and they’d likely pay them handsomely for it. The army did employ wyvern riders and if this one took after its cold-aspected parent, this would be doubly valuable.
+
+While the boys had come unprepared to spend the night, Avis caught them a few rabbits, dropping them before Caleb with disdain. The bird apparently didn’t like that her master was dependent on the filthy Caleb, and to be honest, Caleb didn’t like it either. He was used to Kelia taking care of his own negligence to his health, and being the one to take care of her felt backwards.
+
+Then he felt a bit shameful at that, and tried to push the thought aside.
+
+“Caleb!” Grisim’s voice called urgently from outside the cavern. “Come look at this.”
+
+Caleb ran out, half expecting this to be a joke on his brother’s part. Grisim wasn’t the best actor but he seemed to have a skill that increased his proficiency in all things two fold when pranking his brother.
+
+Unfortunately, the call wasn’t a joke, and Caleb immediately saw what the problem was.
+
+A snow storm was blowing into their village down the valley of the ice volcanoes. While normally a blizzard was no strange occurrence, this one was coming from the wrong direction. Natural blizzards were storms bellowing in from the south west that chilled as they rose into the mountains. This one was heading in from the north east, out of the glacial basin. There was only one thing that could cause this—at least that the brothers knew, and much like the wyvern egg it was a safe bet.
+
+“The Frigidi are attacked,” Caleb said, somehow certain this was somehow his fault.
+
+They ran back inside to tell Kelia, and she quickly scrawled a note onto Avis’ leg and sent her home to warn the village.
+
+“We have to go,” Caleb told Kelia.
+
+“I can’t,” she told him. “I’m not dying, but I wont be able to keep up with you two. I’m exhausted.”
+
+Caleb knew the truth to her words and didn’t argue it.
+
+“Take this,” she said, handing him her ingot of +2 constitution. “It will be more use for you against their ice magic than strength.”
+
+Caleb didn’t protest, and suddenly felt bad once more that she was the one trying to take care of him.
+
+He reshuffled his stat boosting equipment until he had a +6 to constitution and a +2 to strength, only realizing then that he’d leveled, allocating his stats to his mental ones across the board. He noted that his capacity for stat enhancements had increased to 9 from 8, and quick math suggested that the boost really was simply one tenth of your total attributes.
+
+Grisim and Caleb emptied their bags of everything but what they’d need, and began their mad dash home.
+
+As Caleb ran, he reviewed his recent level up, pulling the notifications back up and then reviewing his screen.
+
+Caleb Kavilson  Class: Dragon Rider Level 5         Human
+
+Abilities
+
+Strength             11(8 + 3)
+
+Agility                  8
+
+Constitution      14(8 + 6)
+
+Perception         22
+
+Willpower          22
+
+Acuity   22
+
+Resource            Capacity             Current
+
+Stamina              165        150
+
+Stamina Regen  1.31 per min
+
+Mana                  291.55                 204
+
+Mana Regen      4.71 per min
+
+Ambient Mana High
+
+Active Skills                      Rarity                  Level     Source
+
+Mana Manipulation       Uncommon       20          Bloodline
+
+Arcane Power Attack     Uncommon       4            Self
+
+Dragon Bond                   Rare                    8            Class
+
+Imperium Metallorum  Rare                    11          Affinity (Metal)
+
+Imperium Ventorum     Uncommon       11          Affinity (Wind)
+
+Vortex                               Uncommon       2            Affinity (Wind)
+
+Immutable Metal           Uncommon       1            Bloodline
+
+Passive Skills                    Rarity                  Level     Source
+
+Magical Perception        Uncommon       5            Bloodline
+
+Dragon Bond                   Rare                    8            Class
+
+Iron Will                            Uncommon       1            Achievement
+
+Traits                                 Source
+
+Caeli Soul           -             Bloodline
+
+Wind Affinity     Major   Bloodline
+
+Metal Affinity    Major   Class
+
+Equipment
+
+Item                                                               Aspect                Quality
+
+Dissonant Steel Spear                                Dissonant          Journeyman
+
+Smithing Hammer                                       Cold (poor)        Expert
+
+Cold Steel Barbute of Strength                 Cold (minor)      Journeyman
+
+Meta Steel Breastplate of Constitution Metal (minor)   Novice
+
+Cold Steel Ingot                                           Cold (minor)      Journeyman
+
+Achievements
+
+Iron Will
+
+He had a new class skill available for hitting level 5, but before he could pick that he wanted to see his latest skill, though he suspected he knew what it did and the implications were huge.
+
+Immutable metal: Use your willpower to reinforce metal and prevent it from deforming. This skill improves in efficiency with willpower, acuity, and your level in this skill.
+
+This skill was the codification by the system of all his work earlier in improving his quenching technique. He’d developed the technique in smithing, and then when he’d used it to slay an essence-bearing creature, he’d been granted the skill. Even with the pressing matters at hand, he was eager to see how much of the quenching steel he could use now, aided as he would be by the system in maintaining the integrity of the part.
+
+Next look checked the notification.
+
+New Skill available.
+
+Quick Strike: Use stamina to strike faster. Increases damage based on agility and your skill in this level.
+
+Mounted Warrior: You draw on your mount’s stamina to fuel yourself. Allows you to use your mounts resourced to activate your own skills. More effects are unlocked at higher levels of this skill.
+
+Resist Aspect (metal): Gain the same resistance your dragon companion has.
+
+These choices were interesting. None of them were immediately helpful, but still, they were interesting. Not Quick Strike though, that was a complete waste.
+
+Mounted Warrior had implications for when Bog was larger and for the short term. The skill had no mention of Caleb needing to actually be riding Bog for the benefits to work, though he suspected the sharing would be limited if they weren’t touching. This could potentially let him work for even longer in the forge—though he’d need to learn how to actively draw upon his stamina. As it was he could already work all day. With this, he could work all day at a higher rate.
+
+The Resist Aspect (metal) though called to Caleb in a way he couldn’t articulate. The description was short, the name simple, but the implications great. Resist metal. He didn’t know what the mechanics of resisting metal would be, but he knew this would be invaluable.
+
+He almost picked it then before he considered. He’d never fought enemies wearing or using metal of any kind outside of training.
+
+Do I need this? I want it, but when will I fight men?
+
+The Frigidi he was running to face now didn’t use steel, they fought with steel strengthened ice.
+
+He ran with Grisim, thinking it over, and even asked his brother’s opinion who gave some surprisingly sound advice.
+
+“Do you think you could figure out the sharing thing or resistance on their own?”
+
+Caleb thought about it, and quickly probed his bond with Bog—who they were running along side, not wanting to face a horde of Frigidi without their iron dragon—decided quickly that the bond as it was offered no insight into the skill.
+
+Then he considered the resit metal. He’d sort of already done that with Immutable Metal.
+
+Could I do the same but with myself?
+
+That seemed much more likely. So, taking his brother’s advice to heart, he pushed aside the skill that called to him, vowing to figure it out himself before he was inevitably re offered it at level 10, and selected Mounted Warrior.
+
+As they run he experimented with the skill, manipulating his mana pool and then trying to pull some from Bog. At first there was no discernable difference or link between them. Caleb felt that same l lack in their bond as he had when his brother had asked. When Bog stepped closer in their job through the wilderness however and their mana pools overlapped. Normally Caleb had a dim awareness of his mana pool. He could perceive all mana if he had his skill active, but his mana pool was different. It was a part of him. The mana within was passively being pulled in by his acuity and held there by his willpower. Caleb always had a sense for this constant subconscious effort that his status screen conveniently gave numbers too, but if he tried to guess he would be very close to those numbers just from this vague sensation.
+
+Caleb suddenly felt access to a much larger pool though if the normal pool he sensed felt like his fingers, nimbly under his control this mana was like stickers tied to them. He could still manipulate it, b ut it was crude. The mana would only be useful for directly fueling skills
+
+But… Caleb felt there was the potential for it to be more.
+
+Then Caleb did something ill conceived. He felt for Bog’s stamina and found it through the same connection, and when he next brought his foot down for a step activated Arcane Power Attack using only stamina from Bog. To get this to work, he had to visualize his step as a stomp
+
+Stamina fueled strength flooded Caleb’s foot and he flew into the air two meters, crashing in a roll on the rocky soil, only saved from serious harm by his helm, breastplate, and system enhanced constitution.
+
+“Ow,” Caleb said from the ground.
+
+Grisim spun around looking for danger as Bog, who’d sensed Caleb’s action through their bond had to stop his loping run as he too rolled up in a ball, only his was out of laughter at Caleb’s stupid choice.
+
+“What is it?!” Grisim said, still on high alert.
+
+“Did you know you can use Power Attack to jump… poorly?” Caleb said as he got to his feet.
+
+“Yes,” Grisim said, understanding now and in that understanding becoming the smug older brother once more. “And we are specifically told not to use it that way because its too hard to control.”
+
+“Yeah, maybe I should have asked first,” Caleb said.
+
+He tended to forget that his brother had been initialized a full two years longer than him and actually took the training seriously. It was widely expected that Grisim would one day be the highest leveled member of the community—though it would require him going out into the wider empire to achieve it.
+
+They slowed their pace up as they grew closer to the village. They hadn’t been going more than a job to allow Bog to keep up, and now they slowed even that to keep the noise down. The storm was up ahead, and Caleb felt its unnatural state through his Wind Affinity. It as like the wind was angry. I wanted to be free but it was being pulled back into the storm where it spun around in the cold, held to work by people with an aspect that only just gave them some small Imperium over it.
+
+When the crested the cliff to the village, they were met by a wall of white. The storm Caleb had felt lay out before them, a white mass of swirling snow with a clear delineating line where the storm began and ended. The storm didn’t cover the whole village, but from what they could see, it covered all the villagers. The town had a small keep in the center, provisioned with enough grain, firewood and a well to see to the villagers needs for a few weeks should some disaster strike.
+
+Avis’ warning had come just in time. Caleb scanned the area of village covered only with a layer of snow and not a storm, and saw no signs of battle. Distantly over the howl of the wind of the captured storm, Caleb could hear the ring of steel on the Frigidi’s ice.
+
+“What do we do?” Grisim asked.
