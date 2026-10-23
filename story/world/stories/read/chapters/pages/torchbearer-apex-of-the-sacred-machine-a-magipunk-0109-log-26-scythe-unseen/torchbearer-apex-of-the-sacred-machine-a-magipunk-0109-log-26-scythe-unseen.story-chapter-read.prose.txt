@@ -1,0 +1,173 @@
+{Loading…}{Loaded.}
+
+[>>Now replaying: Log 2.6 - Scythe Unseen]
+
+Date: 10.9.175 AA / 4404 LTCLocation: UNNAMED_DOMAIN(LARES)
+
+Remaining Logic: 1120 LB
+
+//We’ve waited for this launch for years. What’s one more day?////Have you thought this through, Sam? Do you even know who your allies are?//
+
+[>>DATA CORRUPTED]
+
+The next morning—after a hearty breakfast costing me a bunch of LB—I stood on the porch, hands on the railing, eyes trained on the forest edge. Chris joined me a second later, and after petting them briefly, I pushed off and straightened my back. Arx was fully buttoned up and Pharus sat in its holster, awaiting the turmoil I was about to unleash on our little paradise. Come to think of it, Ardor was one of the few programs that didn’t have some sort of physical manifestation yet, but perhaps that was about to change.
+
+“Ready?” I asked, eyes still locked on the trees. There was no sign of trouble yet.
+
+“Beep,” Chris said, following my gaze, their scarf floating in an innocent breeze.
+
+“Alright. Let’s do it.”
+
+I took in a deep breath and savored the notes of grass and wet wood lingering in the morning breeze. The air was cold and wet with dew, shocking my mind fully awake as it rushed through my sinuses. There was clarity in every thought, intent in every movement, a far cry from the frantic, desperate Wishes I had to utter in Zephyro’s Domain. Closing my eyes, I focused on the idea of sight, knowing, and information.
+
+When the soft echo of a bell grew in my soul, I welcomed it and stoked its desire to be heard, carefully guiding it toward thoughts of Ardor—vision and ambition manifest.
+
+Then I exhaled, and it began.
+
+{[Ardor, Visionary Ambition] - v. 1.4: REQUIRES 600 LB}[You are tr)(ng t0 adv4nce ARDOR.exe to version 1.4! Doing so will require {600 LB} and likely result in increased capabilities in either [NULL], [Target Device Analysis], or [Personal Domain File Analysis]. The following update will require {900 LB} and most likely result in [UNKNOWN].Do you want to proceed?][Y/N]
+
+The Logic rushed from my lips, eager to shape and create. I, on the other hand, just wanted to curl up until this day was over. Seriously? I was running the most sophisticated digital recreation of the real world on the planet, but updating a piece of software was reduced to a friggin game of chance? Sure, it was better than just blindly praying for the right upgrade as before, but I would have loved the same amount of control I had when I first created Cura, the program that allowed me to interface with the real world. Either way, if wishes were horses, beggars would ride. I didn’t want to risk losing the precious Logic I had already invested, and I needed the upgrade either way, so I just told memOS Yes and got it over with.
+
+{CONSUMED LOGIC - 600 LB}{AVAILABLE LOGIC - 470 LB}
+
+The Logic poured into my eyes and turned my world blue for an instant, then—having done its work—it shot into the sky as a pillar of cyan light. At the same time, as the mighty roar of a temple bell rushed over the clearing and into the forest, more information materialized in my mind.
+
+{[Ardor, Visionary Ambition] - v. 1.4 - Interface Driver Solution} (G1/T1)A suite of subroutines designed to gather information from devices directly connected to or remotely interfacing with the local system, as well as render the collected information in virtual-metaphoric realities.
+
+Features:
+
+.6 - calculates an estimate of targeted systems’ overall capabilities.1.1 - After a period of computationally intensive scanning, provides a more detailed estimation of the target system’s capabilities. Causes [LOW-HIGH] CPU load, depending on the complexity of the target system.1.4 - Allows for active scanning of currently selected file path and adjacent files up to [ONE] layer in the current directory. This requires a [HIGH] computational effort.
+
+Required CPU load: Passive 5% at current CPU quality.Required RAM: 15 LKB}
+
+{Memory: 100/100 LKB RAM}
+
+My vision was still tinged a bright shade of blue, an afterimage of the blinding pillar of Logic I had unleashed, but that wasn’t my biggest problem. Whatever it meant to be able to scan a file path, it was absolutely not the upgrade I needed. Perhaps I could have focused more. Perhaps I had relied too much on memOS. Perhaps I needed to… With an effort of will both monumental and soothing, I forced my jaw to relax and told myself I’d do better next time.
+
+With my hand on Pharus’ grip, I blinked until the world returned to its normal colors. To my side, Chris tensed, their own eyes pinned to where the Logic had shot into the sky, tearing a hole through a couple of clouds.
+
+Option one had been a dud. That left option two.
+
+“Did it work?” I asked Chris.
+
+“Beep?” they replied, as unsure as me.
+
+Moments passed between biting my tongue and chewing my lips and I was about to call off the entire thing and go hunting again when finally, things went right.
+
+-<>NEXUS<>- {Incoming connection request from [5] clients.}{Handshaking…\}{>>Done.}{Authenticating…\}{>>Done.}{Awaiting response…\}{>>Accepted.}{5 new clients connected.}
+
+“Yes!” I hissed in triumph and slapped my hand onto the balustrade.
+
+“Beep!”
+
+Then, of course, things had to go too right.
+
+{Incoming connection request from [11] clients.}The tale has been illicitly lifted; should you spot it on Amazon, report the violation.{Handshaking…\}{>>Done.}{Authenticating…\}{>>Done.}{Awaiting response…\}{>>Accepted.}{11 new clients connected.}
+
+“Oh come on!” Just when I had started to celebrate, too! I took a deep breath and pinched my nose, forcing myself to relax. It didn’t matter. I could do this. Besides, my father used to say: “Viel Feind, viel Ehr”, which meant “Many enemies, much honor,” and was the sort of militaristic slogan you could only spout if you were born in southern Germany, a chemistry teacher, or occasionally sarcastic. Luckily, my father had combined all three criteria, and I’d always found the phrase oddly motivational.
+
+“Alright,” I sighed. “Let’s hurry up and wait for our Lunch to come to us.”
+
+“Beep,” Chris agreed and placed themselves in convenient petting distance, meaning convenient for them. I had to take a couple of steps before I could actually reach their exposed belly.
+
+And so, we waited.
+
+And waited.
+
+And waited.
+
+Half an hour later I popped back into the house to grab volume 1 of Nexus’ documentation and began leaving through it idly, trying to find out why things were taking so long.
+
+An hour after that, I received the first notification I hadn’t expected.
+
+[>>user [ForReal] has disconnected.]
+
+Had it gotten bored? Didn’t know where to go? There were still 15 Ferals connected, not counting the ones already in my Domain when I woke up, so I wasn’t too concerned. The most worrying idea I could come up with was that they fought each other on their way here, which meant they’d get significantly stronger before they arrived at my doorstep. If only I could absorb a Feral’s Logic with the same efficiency as they did when they devoured each other. They barely lost a couple of percentage points in the transfer, while my efficiency hovered at around 10%.
+
+With a resigned sigh, I shook my head and went back to reading. Another hour later, the same thing happened again.
+
+[>>user [8261761II1] has disconnected.]
+
+And again.
+
+[>>user [SYNCHOPHANT] has disconnected.]
+
+And again.
+
+[>>user [Fifteen-six] has disconnected.]
+
+{2 new clients connected.}
+
+I snapped the book shut and got up, trying to loosen my muscles after sitting on the floor for so long.
+
+“I swear, the first thing I’ll buy after this stunt pays off is some patio furniture.”
+
+“Beep,” Chris said, as if they hadn’t had a comfortable resting place on my lap. Then again, their scarf was all knotted up and had to untangle itself while they gave their face a cat-wash.
+
+“When you’re done, can you tell me what’s going on with all these disconnects?” I asked.
+
+“Mwoop”, they said, trying to undo a tangle in the scarf with their teeth. I bent down and helped them, which they appreciated enough to kindly allow me to have to pet them again.
+
+“No seriously. One or two Ferals disconnecting is fine, but three? And one after another? Is that still normal?” At least there were some more coming to replace the ones we lost.
+
+[>>user [Liar_Mouth] has disconnected.]
+
+[>>user [Sm ash02ra] has disconnected.]
+
+“Okay, no, that can’t be normal. I’m going to check it out. You coming?”
+
+“Beep!” Chris said, jumping onto the balustrade. Their proud pose combined with their scarf made them look like a little superhero.
+
+“Then let’s go,” I said, and we made our way to the forest’s edge.
+
+We paced ourselves as we crossed the hundred-or-so meters of meadow between the house and the forest, tense and ready in case of sudden danger. Apart from the wind rustling through the underbrush, however, I neither saw nor heard anything out of the ordinary.
+
+That changed when the next notification popped into my mind.
+
+[>>user [Flay-four] has disconnected.]
+
+{1 new client connected.}
+
+The same second the words appeared, there was another rustle in the underbrush, then silence. Chris and I froze at once and in that absence of sound or movement, things I just read about clicked into place. A trickle of ice flowed into my limbs.
+
+“Chris…?” I asked, evenly, slowly.
+
+“Beep…” came their equally cautious reply.
+
+“So in Zephyro’s Domain, Ardor allowed me to see the Ferals when he couldn’t, right?”
+
+“Beep…?” Chris said.
+
+“Was that because of the program itself, or because we were still connected to the Bunker’s sensor array?”
+
+“Boop!” Chris spat, in the best approximation of a curse I’d ever heard from a cat, boop or meow.
+
+“Fuck!” I agreed in much the same tone, and then a lot of things happened in rapid succession.
+
+First, I pulled Pharus out of its sheath and Chris began hovering, radiating a gentle cyan glow as their scarf began drawing an arcane pattern into the air. Then a bunch of code started flowing through the back of my mind, more feeling of tense anxiety than actual thought, while I remembered my encounter with the stag, and how the hounds had popped into existence just after I strained to understand what scared the stag.
+
+“Fuck, fuck, fuck,” I hissed through gritted teeth and unlocked Pharus’ head. Still dormant, it fell into the grass, while I made sure Arx was properly buttoned up. As my fingers adjusted the collar, I squinted hard at the underbrush, praying that Chris and I were wrong and right at the same time. Then my CPU use skyrocketed and after a few breathless moments of pure focus, reality shifted.
+
+{CPU Load: ▲▲▲ 99%}{Core Temp: ▲▲▲ 70° C}
+
+The world turned shades of blue, and precise strokes of bright cyan outlined each object. It wasn’t like in the movies my ex made me watch on earth, where the tacticool night vision goggles had grain and film lines running through your vision. It wasn’t even like a cellphone filter. For an exhausting instant, the way I saw the world changed, as a pulse of pure Logic swept over the land and revealed what lay hidden.
+
+Then the moment passed, as quickly as it had come, and what remained were a couple of empty red outlines about a dozen steps deeper into the forest, stalking toward us.
+
+I didn’t waste time asking Chris if they saw the threat, just grabbed them and tugged them under my arm as I turned and ran toward the house. I never asked them if they had any electronic warfare capabilities, but I sure as fuck wasn’t going to risk fighting a bunch of invisible Ferals while I didn’t know for certain.
+
+They struggled against my grip, however, no matter how much I told them to keep still, and when I was halfway to the house, they managed to wriggle free. After a disapproving look in my direction, they took off toward the porch and were through the door before I even had time to blink.
+
+“Okay…” I mumbled, with only a little passive-aggressive edge as I spun back around. “Sorry for being worried, I guess.”
+
+Before I could get my bearings, however, I received two more notifications.
+
+[>>user [dew-8] has disconnected.]
+
+[>>user [dew-al-E.T.] has disconnected.]
+
+{1 new client connected.}
+
+At the same time, the red outlines Ardor had tagged flickered and vanished, right at the edge of the clearing.
+
+“What the fuck…?”

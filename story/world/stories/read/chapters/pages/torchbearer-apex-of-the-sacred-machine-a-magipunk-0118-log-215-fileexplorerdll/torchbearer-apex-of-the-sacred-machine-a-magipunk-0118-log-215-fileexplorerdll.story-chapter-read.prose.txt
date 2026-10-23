@@ -1,0 +1,129 @@
+{Loading…}{Loaded.}
+
+[>>Now replaying: Log 2.15 - file_explorer.dll]
+
+Date: 18.9.175 AA / 4404 LTCLocation: UNNAMED_DOMAIN(LARES)Remaining Logic: 1700 LB
+
+//Transparency, inspection, adaptation. You can’t have one without the other two. Without transparency and careful inspection, any adaptation would lead to disaster.//
+
+//Clarifying your vision of yourself is hard work. Sometimes, it is easier to see beyond, first.//
+
+[>>DATA CORRUPTED]
+
+The next morning, I woke with a start. I’d dreamed of brushing my teeth, but when I looked up and smiled at the mirror, my teeth had begun falling out one by one. Fangs grew in their place, turning my smile into a rage-filled mockery of joy. Then my face had split apart and my skin peeled back like the world’s most hideous pupa, ripping itself open to reveal my innermost self. The dream had ended before I could get a good look at what lurked underneath, but I caught flashes of wet, oozing crimson and vermilion lightning. I was lucky enough to not remember much more, but one thing had seared itself into my memory like a brand: The eyes staring back at me from the mirror had been burning with the hatred of a thousand dying suns.
+
+“Doesn’t take a genius to know how that nightmare sneaked into my skull,” I yawned, stretching.
+
+Beside me, Chris had woken up and mirrored me, their tiny mouth popping open to reveal rows of sharp teeth and a tongue languidly unfurling itself.
+
+Then their mouth snapped closed.
+
+“Beep.”
+
+“Morning,” I replied, and swung my legs out of bed. The nightmare was already fading into tattered cobwebs, but the image of my own eyes blazing back at me remained like a bloodstain in a tapestry.
+
+With a shake of my head, I went straight to the kitchen and got some breakfast (avocado toast with fresh roasted tomatoes, a great deal, even at 50 LB). After I was done—and Chris sufficiently mollified with belly scratches—I changed into my combat gear and headed for the door without checking myself over. There was no time. It was going to be a busy day.
+
+“Beep?” Chris dashed out the door before I could close it, their scarf fluttering out of the way just in time.
+
+“Oh, you’re coming?”
+
+“Boop. Beep?”
+
+“Oh, I forgot to tell you about the plan.”
+
+“Beep.”
+
+I kneeled down and petted the pouty puss. Luckily for me, my peace offering was accepted.
+
+“Nothing special on that front, actually,” I said, scratching their furry chin so well they almost toppled over in delight. “Same plan as before. Upgrade something, snipe Ferals at the edge of the meadow, and return with a net profit.”
+
+They squinted a little and pulled their head away from my palm. “Boop.”
+
+“If we’re lucky, this time will be the last. Once I get a map upgrade, things will be significantly easier.”
+
+But Chris still pouted and evaded my hand.
+
+“I know,” I sighed. “But as much as I wish it were otherwise, there really isn’t much of a choice. Unless you want us to starve, of course.”
+
+“…Boop.” Finally, they gave in.
+
+I scratched them one more time, then got up. “Besides, between the meadow and the recent upgrades, I think we’ll be good.” I didn’t mention all the things that could go wrong. I could get thee wrong upgrade, Latirae could switch up her tactics, the Ferals could have gotten too strong overnight… The possibilities of me getting fucked over were manifold.
+
+But Chris already knew, otherwise they wouldn’t have tried to hold me back. Besides, everything I’d said was true. I’d come too far to stop, and it would take more than a bunch of rabid mechano-animals for me to be stopped.
+
+As long as I had enough Logic, I would keep going.
+
+{[Ardor, Visionary Ambition] - v. 1.63: REQUIRES 900 LB}[You are trying to #dv(nce ARDOR.exe to v3rsi0n 1.63! Doing so will require {900 LB} and likely result in increased capabilities in either [NULL], [Target Device Analysis], or [Personal Domain File Analysis]. The following update will require {1200 LB} and most likely result in [UNKNOWN].Do you want to proceed?][Y/N]
+
+{AVAILABLE LOGIC - 1650 LB}
+
+Sure, this was a bit of a conundrum. I only had enough Logic for one try. If it whiffed, and I didn’t get the map I needed, I would need to build an even bigger buffer before the next rank, just to be safe. In the meantime, I’d have to upgrade my entire catalog one by one, trying to save up enough Logic while the process got riskier by the day. Not only did every kilometer the kids traveled further north increase the strength of the Ferals I’d have to face, I also had no guarantee I’d be able to keep outscaling them. Further, Latirae was still connected to my Domain, and it was only a matter of time before she found a way to do some real damage.
+
+Even if she didn’t just power up until she could waltz straight into my home and kill me in my sleep, she’d siphon off far too much Logic. I’d stay stuck in here until the Ferals got too strong, or I simply starved. In that case, all hope for Zephyro’s people would die with me.
+
+That thought should probably have made me angry, but I told myself I’d burn that bridge once I got to it, and tried to let it go.
+
+It took me more than a couple of deep breaths to settle my mind, but eventually, the early morning quiet that rested on and around my new home did its part. I stepped off the porch and as I did, I filled my lungs with cold, calm air. It washed away the last few specks of sleep and fed a faint confidence that flickered to life inside of me and soon outshone whatever few doubts remained.
+
+Perhaps the upgrade would whiff.
+
+Perhaps I would have to keep trying.
+
+But whatever may come, I’d be ready for it.
+
+I would return to give new life to Zephyro’s Domain, and with his people, I would forge the dream my friends and I had shared into reality.
+
+My Wish thrummed deep inside of me. Its power washed out from my core and drove away the cold. It seemed approving, almost. As if it recognized the glimmer of truth I felt in those words.
+
+I closed my eyes, smiled, and focused on the future. Then I exhaled, and even before the bell had finished its toll, I knew I had what I needed.
+
+{CONSUMED LOGIC - 900 LB}{AVAILABLE LOGIC - 750 LB}
+
+{[Ardor, Visionary Ambition] - v. 1.6 - Interface Driver Solution} (G1/T1)}
+
+{A suite of subroutines designed to gather information from devices directly connected to or remotely interfacing with the local system, as well as render the collected information in virtual-metaphoric realities.
+
+Features:
+
+.6 - calculates an estimate of targeted systems’ overall capabilities.
+
+1.1 - After a period of computationally intensive scanning, provides a more detailed estimation of the target system’s capabilities. Causes [LOW-HIGH] CPU load, depending on the complexity of the target system.
+
+1.4 - Allows for active scanning of currently selected file path and adjacent files up to [ONE] layer in the current directory. This requires a [HIGH] computational effort.
+
+1.6 - Now scans the connected system in its entirety, providing high-level information about the location of currently active processes.
+
+Required CPU load: Passive 5% at current CPU quality.Required RAM: 25 LKB}
+
+{Memory: 150/200 LKB RAM}
+
+The Logic I’d spent on the advancement flickered before my eyes like moisture in cold air, then slowly faded from sight as my world turned a bright blue once more. For a moment, I was immersed in cyan as a low roar built in my ears and my CPU load skyrocketed. The wave that broke away from me when that distant rush reached its crescendo was the biggest pulse Ardor had ever produced. It was strangely intricate as well. Usually, Ardor’s light left behind a very faint afterimage of thin lines, connecting to resemble large cubes that vanished as soon as they’d come. This wave drew a grid over the entire world and erected complex, shifting scaffoldings not just of what was, but what could be, possibly had been, or maybe existed right now. The light drew arcane diagrams into the sky, provided illegible data on the languid movement of clouds, and sketched a trajectory of the sun and the moon from now till the end of eternity.
+
+It was beautiful.
+
+Two walls of blazing cyan numbers rushed in from the north and from the east. It felt as if the world should have trembled at their force, but when they intersected right where I stood, I felt nothing more than a slight tingle. Goosebumps ran from my fingertips to my shoulders, and I shuddered before the inexorable sublimity of it all.
+
+Then the scan swept past, and slowly, the grandeur faded.
+
+In its place settled an awareness, an instinctive knowledge about the location of every object in my Domain. I wasn’t surprised to find the place was huge, but it was still startling to find out exactly how huge. My house stood in the center of my world, and from there, the place stretched on for dozens of kilometers in each direction. I could have walked in a straight line for two days or even more and not reached a border.
+
+My house was also the only building standing in the entire Domain. Peruti, the place where I’d met Chris for the first time,  laid about a day’s walk to the west in the real world. Wexler, capital of the eponymous kingdom, was about two to three days to the northeast.
+
+In my Domain, their place was inhabited only by dense forest and an empty field, respectively. There was no trace of civilization to be found except for my home, and not a single human soul except for me. I didn’t worry about it too much, though. By now I’d read enough documentation to understand that a Domain was more allegorical than a direct representation of the Real. Zephyro’s Domain had been a giant city in a desert, for example, while the bunker it had represented hid between snow-capped mountains.
+
+So while I was alone for now, there was no reason to think of my Domain as a lonely prison.
+
+Not when it could be a canvas instead.
+
+Finally, Ardor’s scan finished and the last few details of my Domain’s topography settled into place in my mind. Then came the part I had been waiting for. I didn’t have any time to waste before the next batch of Ferals connected, so I pulsed Ardor without much fanfare. Another, much smaller and faster wall of cyan rushed outward from my position. I was still close to my house, so I knew there couldn’t be any Ferals around, but I got the impression Ardor’s wave traveled to the ends of my Domain in under ten seconds, then bounced off the edge, and returned. For the brief second it touched me before vanishing, I saw the world cast into stark blue contrast, and countless diagrams and equations filled the air once again. The moment faded as quickly as it had come, but it left me with a brief clarity of purpose. Drawn by instinct, my eyes traveled up into the sky.
+
+A small dark cloud had gathered in the far north, crackling with red lightning. I double checked, and yes, there were only three clients connected still. Me, Chris, and the Feral. This lonely little cloud could only mean one thing, then. A smile crept over my face and my eyebrows rose in excitement. That quiet glee didn’t fade even after checking my CPU load and finding out that the cost for a deep scan like this was significantly higher than a normal pulse.
+
+It was ridiculous. Even as a massive havoc of Ferals connected to my Domain, a feeling of safety settled over my shoulders like a warm blanket. If anything, my excitement grew. This was the last time I’d have to do this dance. Sure, the upgrade hadn’t given me the tactical real-time map I had been hoping for, but what I got instead did the job just fine. My future was no longer uncertain.
+
+So it was with certainty, not fear, that I watched the pillar of crimson light I’d been both dreading and hoping for shoot into the sky. It was farther away than I had hoped, but closer than I feared, about halfway between me and the mass of clouds that signified the havoc of Ferals connecting in the far north. The first of them began drifting toward the light not a second later, as if drawn in by a gathering tornado. Even in the soothing cyan twilight it seemed an ominous portent, a storm threating to swallow the entire world.
+
+My smile grew just shy of frantic, but I didn’t care.
+
+It was time to reap a whirlwind.

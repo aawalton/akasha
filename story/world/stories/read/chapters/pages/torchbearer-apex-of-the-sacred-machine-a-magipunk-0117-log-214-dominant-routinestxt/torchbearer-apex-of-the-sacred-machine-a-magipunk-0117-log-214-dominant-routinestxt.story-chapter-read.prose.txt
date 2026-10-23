@@ -1,0 +1,147 @@
+{Loading…}{Loaded.}[>>Now replaying: Log 2.14 - dominant routines.txt]Date: 17.9.175 AA / 4404 LTCLocation: UNNAMED_DOMAIN(LARES)Remaining Logic: 1800 LB//Sometimes you just have to think things through// //Tell me, Chieftain, what is best in life?//// “What are you going to do after your Abi, Samantha?” “Little princess is going to be a queen, obviously.”“Yeah, or drive fancy British cars or something, not a peasant job like the rest of us.”“As if she could afford that!” “…Actually, I was thinking about going into business…”“Yeah sure, princess. And then you woke up. Come on, let’s go. Let the dream queen rule her kingdom.”“Heh, dream queen. Nice.” //[>>DATA CORRUPTED]
+
+Over the next few days, I settled into a routine. In the morning, after a healthy breakfast, I’d put on my armor, grab Pharus, and head out to do some damage. Then, I’d advance whichever item was next on my list and deal with the consequences.
+
+As predictable as a bad punchline from a love-struck coworker, Latirae would show up somewhere close by, far more Ferals than I could handle would connect, and I’d rush toward the flare the crimson lady projected before she could start absorbing her kindred. I’d whip Pharus at her, she’d look at me as if I’d called her mom a whore, and then she would vanish without a trace. Not even pulsing Ardor constantly would reveal her again until the next day, but seeing as she wasn’t growing in power anymore, I had bigger problems to worry about.
+
+I was still sleeping with one eye open, though. She was smart and capable enough to disengage when a stronger foe attacked her, and that was not someone you wanted sneaking around your house at night, even if you had self-defense-flowers growing in your front yard.
+
+It wasn’t exactly a comfortable life, but there were no catastrophes either, which I could appreciate. I’d been worried that once we went further north, I’d quickly fall behind in power compared to the local Ferals. But that wasn’t the case at all.
+
+Every day things got a little easier thanks to my accumulating upgrades, and every day I returned home with more and more Logic. That meant more, and better upgrades, and the cycle continued. The new CPU alone made a big difference. That wasn’t to say that Arx’s upgrade was any less valuable, however.
+
+{{SAINTECH Beta 2 2500X 2-Core Processor} (Gen 1, T2)}{[Arx, A Saint’s Terrified Embrace] v. 1.2.9 - Network Security System} (G1/T1){A simple Network Security System automatically monitoring incoming requests and data packages. Repeated requests or advanced methods of forcing system access cause [HIGH] increase in CPU load. Sufficiently sophisticated attacks or brute force attacks of sufficient strength will bypass this program entirely. Automatic shutoff at [85 °C] core temperature.Features:v. 1.2.9 Was: Repeated requests or advanced methods of forcing system access cause a [HIGH] increase in CPU load. Now:[MEDIUM]Required CPU load: Varies, min. 5% at current CPU quality.Required RAM: 25 LKB}
+
+My armored coat had slimmed down a little and now sported a high collar that protected my lower face. The lower portion had parted a hand’s breadth and allowed for easier movement, and yet the armor always seemed to dutifully move between my flesh and any tooth, claw, or dangerous substance.
+
+To be honest, I felt a bit badass wearing this new version, and couldn’t wait until I got enough Logic to upgrade it again. I’d never tell Chris, though, considering the cat had developed a habit of preening through the living room whenever I put the coat on. From the way they whipped their scarf behind them, they might be a bit jealous. (Or maybe they’d just learned I’d pick them up and pet them if they acted like a tiny, mysterious superhero. Either way, I petted them so much I was worried I’d get callouses.)
+
+But as I returned home on the evening of the third day, two things were like drops of vermouth in my drink of abundance.
+
+For one, Nexus’ upgrade had done nothing for me.
+
+{[Nexus, The Tyrant’s Edict] v. 1.2 - Connectivity Array}{Utilizing Logic-enhanced data-packaging, Nexus creates an array-network between the host system and a theoretically infinite number of client systems. While there is virtually no cost for maintaining any given connection, in reality the number of connections is limited by a) the CPU of the relay host’s hardware. For each client, data needs to be fetched, computed, rendered, and re-distributed in real time according to the particular circumstances of any given request. This cost scales exponentially due to entropic-complex stressors arising from connections between each client system, as well as the relay host. This cost can be taken over by the client system, at the cost of slightly decreased effectiveness. b) the bandwidth available in the network, with limitations similar to the above.Features:1.0 - The Array host assumes the function of a VPN server, allowing clients connected to the array to access any pseudophysical reality the host is currently accessing. This requires administrator rights or equivalent permissions.1.2 - Nexus now provides a log of Client Names, their IP address, and duration of their connection.Required CPU load: Varies, min 3% at current CPU quality.Required RAM: 40 LKB}
+
+{Memory: 140/200 LKB RAM}
+
+Sure, I now had a list of all previous clients, but it was just a bunch of names, along with dates during which they’d been actively connected. It was the first real dud I’d drawn out of the upgrade lottery, and it sucked. Now that I knew my upgrades could go wrong to this degree, the joy of looking forward to a new upgrade was tinged with an anxious note. What if the next major upgrade to Ardor would just give me Instagram filters or something?
+
+I was doing okay for now, but I’d have to save up for a few days again if this next upgrade whiffed, and I didn’t know how much longer I had before the kids reached their destination.
+
+That was the other thing that worried me. Pina hadn’t called me for more than eight days now. Sure, I hadn’t expected the girl to become my bestie and have nice chats over breakfast every morning, but not knowing what was going on outside of my little world sucked. I felt blind, and even worse, I had no idea where we were heading, and how much time I had left to escape if we were heading for Mage Lord territory.
+
+Heck, I just missed talking.
+
+So after a quick dinner (lamb roast with potatoes and a tomato sauce), I grabbed Chris, settled on the couch, and just talked to them for a while. It was… alright. Chris was an absolute gem, sure, but there was something lacking talking to someone who could just respond in beeps and boops.
+
+Once I ran out of things to say, I tried to fall asleep for a while, but I’d tried to accommodate Chris who wanted me in a particular spot, and so I somehow ended up in a stupidly uncomfortable position. Besides, lacking any sort of blanket except for a tiny cat, it was also far too cold for any meaningful rest.
+
+I could have tossed the kitten off my lap and just went to bed, of course, but I doubted I’d be able to sleep either way. Despite my worry and fatigue, I was still running high on hope and adrenaline.
+
+I was so close.
+
+If my plan worked, barring an eventual hardware failure (which I could hopefully prevent with my Wish), I’d be practically immortal soon. That wasn’t big news in and of itself. When I still had a body, I had advanced some medicine as far as I could, just to see what would happen. I’d worked on it for over half a year, injecting several months’ worth of my Wish into what had eventually become a syringe.
+
+Then, when it wouldn’t budge any further, I’d injected myself with what we later came to call the Regenerative Suite. According to Chris, it had been a cocktail of nanobots that were just supposed to repair my skin, but they did their job far too well. Over the span of a couple of days, my body reverted to its peak state at around age 28 as the Suite repaired the very essence of my DNA and accelerated my metabolism. The energy consumption alone should have killed me, but despite a constant feeling of hunger, I’d felt better than ever. That had been freaky enough, but when I cut myself in a training accident a week later and my skin had re-knit itself in a matter of seconds, we all knew I’d stumbled onto something special.
+
+I had been planning to make a Regen Suite for all of my friends, but each required about two months’ worth of my Wish and regular, careful advancement. I only got a handful done before we headed out for Veltruvia, and never handed them out. Besides, while underway, we’d found out that Witchfire could disrupt the Suite, and that rendered Project Idunn more of a vanity project than anything else. As much as we all wanted to see a young Underbrook in action, advancing a hundred rifles to defend our city had been more important.
+
+Still, because of the Regenerative Suite forced me to, I’d long since come to terms with immortality, and what it entailed.
+
+But after I’d learned Project Iron Light had split my mind from my body and stuck it in a laptop, I’d briefly wondered if I was truly ageless anymore, even if I knew for sure I was far from immortal. Hardware aged, right? So would I age with it? What if I never found better hardware, or a way to fix the laptop? I’d come full circle, and realizing my days might be numbered once more, I’d missed the idea of having enough time to eventually do everything I could ever want.
+
+Now that I was close to that point again, I couldn’t help but feel elated.
+
+The question was just: What would I do with all the time in the world?
+
+Up until a couple of days ago, I would have simply said ‘take revenge.’ Now, however, I knew that revenge came at a cost, and that it wouldn’t be me who’d be paying it. Instead, it would be people like Zephyro, Kasha, or my brave apostles who’d pick up the tab. People close to me, whom I cared about, and whom I was doomed to outlive.
+
+It would be so much easier if it would be me to reap my just rewards. I’d play stupid games and win stupid prizes, and perhaps the world would be better off for it.
+
+I thought about all the lives I’d touched and how my presence had changed them. Then I wondered how they would have played out if I hadn’t been there. Eventually, it all came back to stumbling into a bar in a stain of a town called Peruti, and meeting Chris. Without them, I would never have become the woman I was today. Hell, without them, I’d probably be dead.
+
+I didn’t really have a goal at all. Sure, there was naked survival first, and getting back to Earth second. And yes, I’d clung to those goals for more than a year before I understood that people like me don’t get to go home again. By then, however, I’d found something I never had back on Earth, either in Germany or the States.
+
+Friends. True friends.
+
+Chris, Olre and Patti each had saved my ass several times by that point. More importantly, they’d stuck with me through good times and bad. I’d done the same for them, and that created a bond I wouldn’t have traded for anything in the world. Certainly not for a return ticket to a world where I’d have to continue running into the glass ceiling for a shot at a position that didn’t matter. Not if there was still so much to be done on Tobes. The decision to stay had been made the moment I had come to understand that—like my friends—I had a debt to pay for the power I received.
+
+This new world of mine would never be perfect, but I’d be damned if I let it stay as atrocious as it was: a society trapped in perpetual feudalism that broke the poor and the weak, and bolstered the rich and powerful. Mage Lords living like despotic Gods for all eternity, and no one rising up to face them. Anyone with an ability that came close to Mind Magic simply being burned at the stake. And that had only been the tip of the crappy iceberg.
+
+So I’d traveled the world and found more people like Chris, Olre, Patti and myself. Outsiders, beset by a desire for change on a fundamental level, and particular talents. Eventually, I’d done what I do best, and built a team. We swore an oath to each other we’d resolve the injustices of the world, or die trying.
+
+Then they fulfilled the wrong part of that oath, and I’d thrown every last scrap of Wish I could scrounge up into a last-ditch attempt to make it right. Neither Chris nor I believed we could really bring our friends back, but we’d tried, anyway.
+
+We tried everything, and failed every time.
+
+From that point onward, it hadn’t been about saving the world anymore. Just revenge. As much as Chris and I lied to ourselves about it, Project Iron Light hadn’t been the benevolent miracle we wanted it to be from the beginning. It was a weapon of mass domination, a machine that might see us become the death of worlds as easily as it might make us their savior.
+
+Those were past Sam’s plans, though. I wasn’t her anymore, and no longer wanted to be her, either.
+
+But if I stripped away all the anger, what remained of my ambition?
+
+Sure, I could still change the world. But what good would a changed world be without my friends to live in it?
+
+I was thinking too far ahead. I didn’t have a sustainable source of Logic yet, after all, and besides, I could just figure out what to do once I got to that point. Either way, I’d promised Zephyro I’d return to save his people, and I couldn’t do that while I was stuck in a piece of 150-year-old hardware.
+
+So the plan was simple, even if it wasn’t easy.
+
+First, I’d figure out a way to advance my hardware to get some mobility, then search for my body until I found it. Then, I’d work on a way to get out of this thing. Hell, maybe I didn’t even need to. With enough Logic, I could just make myself a body.
+
+One way or another, I’d find a way to get out of the laptop, return to the bunker, and revive Zephyro’s Domain. That would keep me busy for a long while. From there, I could stay with Zephyro’s people and help them rebuild, but there was more to do. I’d have to try to find the real Chris and find out what the hell happened with Project Iron Light, how deep the Damage went, and what we could do about it. Maybe we could kill a couple of Mage Lords on the way for old time’s sake, if any of the fuckers were still alive somehow.
+
+I had a lot to do. More than enough for two lifetimes, if not three, and I hadn’t even begun. But while I was equally excited and scared to see how the World had changed, and was definitely rearing to go on solving its issues, there was one truth that was hard to admit to myself.
+
+Before any grand plans of world tours and/or domination, I’d need to fulfill my promises, and Zephyro wasn’t the only one I’d promised to help.
+
+A young woman, almost a girl still, lies crumpled on the dirty concrete floor. She’s crying red, hopeless tears out of empty sockets, and channels all her desperation into a silent, sputtering prayer. A prayer to me.In front of the girl, half trying to cower into her, half trying to defend her, is a young boy wearing a jacket several sizes too large. Courage and fear are warring in his eyes, but the sudden onset of responsibility has frozen him in place.Another girl—younger than the first—holds a wound oozing with her blood. Despair, hatred and hope have thrown their veils over her gaze, and in her hand a baton crackles with purple Witchfire. “Show us who you really are…”
+
+The kids… I hoped they were alright. I tried telling myself that I didn’t care about them beyond the fact that they were shlepping me around the Little Forest, but was too well aware I was lying to myself. In truth, I was trying to ignore them because they made everything so god damn complicated.
+
+Not only had I promised Pina I’d keep them safe, I was also sure she would fry me without batting an eye if she knew what I was planning. That was assuming she was still close by. I didn’t even know if she’d taken me with her. She promised she would, sure, but to her the laptop was a cursed artifact at best, and the prison of the evil ‘Witch Queen’ at worst. Both statements were factually true, even if I didn’t agree with the connotations, and Pina did have a Hexbreaker baton, as well as a palpable hatred for anything tech-related.
+
+The older girl, Voni, was on the other side of the spectrum. She prayed to me as if I were some sort of goddess that could solve all her issues. The thought of carrying that responsibility again made my stomach jump through nauseating twists and turns. I’d already let her get hurt on my watch once, and I shuddered to think about doing it again. In a bitter twist of irony, she was both literally and figuratively blind to the fact that I’d been with her all along. Still, if she ever found out who, or what Pina was carrying around in a tote bag, there was a chance she’d never let me go.
+
+The young boy that traveled with them, Tin, was an unknown variable. He seemed to be a capable medic. After all, he used some sort of technologically advanced medicine to stitch the two girls back together. Still, beyond that and the fact that he’d been scared as shitless as any 10-year-old boy should have been, I knew nothing about him. Well, I knew that he couldn’t fight to save his life, but he was so young. He shouldn’t have to fight.
+
+If I hadn’t fucked up Project Iron Light, maybe he wouldn’t have to.
+
+But that line of reasoning wouldn’t help me.
+
+Ultimately, I decided to spend my time trapped under Chris doing something useful, so I figured out how the giant TV on the other side of the room worked. It was an extension of Cura, as indicated by the logo on the bottom of the screen, which gave me enough of a hint. Cura’s menu was definitely one of the more confusing ones, full of arcane innuendo and weird double meaning. Nevertheless, I eventually managed to find the controls I had been looking for.
+
+For the next couple of hours, I watched the video General Turret had given me. I tried to tell myself that except for reading more documentation, it was the only thing I could do to pass the time. That was obviously a lie. I could have at least tried to go to bed, cat or no cat.
+
+And yet, I watched the video twice and slaved over every detail. I told myself I wanted to understand who the fuck my would-be-jailers were, what the fuck was going on with these kids, and what the fuck happened to the world. It helped me to take my mind off of things, and I gladly delved as deeply into all the questions I could think of.
+
+What had changed in my absence to make it possible for two girls—obviously sisters—to turn into an Adherent and a Conservationist, respectively? Even if that was a thing now, why were they still hanging out together? Sure, they obviously loved each other, but back in the day, that would’ve been unthinkable. The Conservationists did something weird to their followers. Even though we never figured out exactly what it was, it turned them into remorseless killing machines as soon as they spotted even a spark of electricity.
+
+Last but not least, how did Tin fit into everything? They treated him like a little brother, but why would they drag their little brother into a bunker inside of a mountain? How had they found the bunker in the first place? Why were they running from the Takers? Who were the Takers? Why were they giant dicks? Why could they shackle machines? Why could the kids shackle machines? Why were there Ferals everywhere? Why the fuck were there Ferals to begin with?
+
+That last question led me even further down the rabbit hole. What had gone wrong with Project Iron Light? Where was Chris? Where was my real body, and where was I now?
+
+I knew way too little about my current situation. There had been no sign of Pina since I arrived in my Domain. Maybe she’d left me in the Bunker. To be fair, if I had been in her shoes, I didn’t know if I would have wanted to carry a sentient, cursed artifact around with me, either. Yeah, it was definitely possible she’d just dumped the laptop as soon as she could. Even that would still be the most generous thing a conservationist would ever have done for me.
+
+I now had more questions buzzing in my skull than when I’d begun watching the video, but at least I’d gotten a pretty solid understanding of the dynamic between the kids. That would be important when Pina deigned to contact me again. If she ever did.
+
+Still, even though I’d tried to tell myself each of the brats was irritating in one way or another, I couldn’t help but feel connected to them, and not just in the literal sense.
+
+Voni obviously adored the “Salvatrix”. Sure, seeing the way she’d acted after she realized where they’d ended up had been extremely uncomfortable, but that could potentially be helpful. I wondered how she would react if she ever met the real me, though. Would she continue on like an awestruck puppy, or would she snap out of it? In the brief time we fought together, she’d been a force to be reckoned with, and that was definitely something I could use. Even Zurne would have had issues beating her. But that had been before she’d lost her eyes. The last time I’d seen her, she’d tried to hold it together as best as she could, but no one would last forever after a disaster like that. Even if she had more willpower than anyone I’d ever met, she was still blind, which meant she couldn’t help me even if she wanted.
+
+On the other side of that spectrum was Tin. He was—to phrase it gently—very inexperienced. As I noted earlier, it was clear he’d been scared and wasn’t a fighter at all, and yet he’d stayed and tried to do the right thing. I could respect that, but I still didn’t know enough about him to figure out what would he do if he found out who I was. Sure, he might help me if I managed to contact him somehow and found something I could offer him in exchange. But might just as well rat me out to Pina because he got scared the weird machine was talking to him.
+
+Negotiations skills or no, if Pina decided I was a threat, I wouldn’t be able to talk myself out of it. That girl had an angry streak a mile wide, and if she thought I so much as twitched in the wrong direction, she would end me in a heartbeat.
+
+I couldn’t just dismiss my would-be-jailer as a crazy teenager that I should ignore, however. Maybe it was just Stockholm Syndrome, but a helpless note seemed to lurk under all her self-righteous fury. She reminded me of myself in some way. A very uncomfortable way, sure, but I couldn’t deny that I could relate to her.
+
+Time would tell if she was really just the scared kid I thought she was, or the crazed fanatic I feared she could become. Either way, next time she called—if she ever called—I’d know more.
+
+We could talk, at least. I had saved her life, after all. That had to be worth something.
+
+With a sigh, I finally grabbed Chris and pulled them off of my chest. As expected, they protested by way of extended claws digging into my shirt, but I soldiered through, even if the cat looked at me as if I was murdering them. With the—at least in Chris’s view—dastardly, heinous deed done, I decided I might as well go on a crime spree and take a shower before bed.
+
+The shower was cold again, and no amount of waiting made it get warmer, so I bit the bullet and got over with it as quickly as possible.
+
+When I emerged, I briefly glanced over my cold, shivering body in the mirror, then covered my face with a towel and dried myself off on the way back into the bedroom.
+
+This time, my pillow was warm and soft against my cool skin, and I was half asleep before Chris hopped in to join me. The last thing I remembered before I dozed off was them walking all over my face, but even that didn’t stop the dreams from taking me.

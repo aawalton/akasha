@@ -1,0 +1,157 @@
+{Loading…}{Loaded.}
+
+[>>Now replaying: Log 2.4 - Promises//The innocent Caress]
+
+Date: 10.9.175 AA / 4404 LTCLocation: UNNAMED_DOMAIN(LARES)
+
+Remaining Logic: 390 LB
+
+//Stay with me for a while longer?//
+
+//I can’t.//
+
+[>>DATA CORRUPTED]
+
+The morning of the next day, I set my breakfast bowl down with enthusiastic determination.
+
+“No more procrastination, Chris,” I said around the last mouthful of yogurt with berries and honey. I should have been worried about how fast I got used to having the equivalent of an eldritch cyber-virus as a cook, but I had enough on my plate and Chris would warn me if anything was off.
+
+Besides, I had figured out the solution to my problem.
+
+“You remember how I told you I was afraid of flying into a rage again?” I picked up Chris and cradled them in my arms.
+
+They’d waited for me on the porch as I came home yesterday evening, and I’d gone on a bit of a rant, explaining my thoughts. Just like the “real” Chris, they were a really good sounding board, and I was going to take full advantage of that.
+
+“Beep?”
+
+“The solution is obvious,” I said with a sly, if insecure, grin. “I should just not!”
+
+“Beeep?” Chris asked, clearly skeptical as they raised one feline eyebrow, which I was pretty sure was a thing normal cats couldn’t do.
+
+“I know,” I said, grin slipping a little further. “But maybe it really is as easy as flicking off a switch. I mean, it’s my decision if I follow those angry thoughts, right?”
+
+“Beep!”
+
+“So it’s in my control, and I trust myself, god damnit, which means there’s nothing to be afraid of, and ergo: nothing to procrastinate over.”
+
+Chris still looked at me skeptically.
+
+“I can do this!” I insisted, and started petting them in earnest.
+
+“Beep,” said Chris, and began purring. It sounded a little like a CD-ROM drive spinning up.
+
+A couple of minutes of petting later, I had dumped them on the couch and let the familiar weight of Arx’s security encase me as I pushed my arms into its sleeves while walking out the door. As I closed it behind me and the early morning chill hit my face, Pharus’ holster tapped against my leg, like a gentle reminder that it was always there for me should I need it.
+
+“Alright, just stay calm and carry on, Princess,” I whispered to myself, a memory of my mom’s British accent comforting me as I strode into the forest.
+
+The trek through the forest was as arduous as I remembered from the real world. You had to watch your feet to not get tangled up in the underbrush, while minding your head to not slam your face into a low-hanging branch, all the while being on the lookout for potential non-flora-related threats.
+
+Nevertheless, my hunt turned into a monotonous slog long before the sun reached its zenith, and I began wishing I had some music to while away the time, not that it would have been a good idea. It’s so much easier to ambush someone whose headphones are blasting away all other sound. Still, there had been many times after my reincarnation when I would have killed for a smartphone, an MP3 player, or even a Walkman. Later, my friends had been there to drive away the dreariness, but at the beginning of my journey, it had just been me, alone with my thoughts. At some point, when the homesickness grew beyond anything I’d ever felt, I would have given my left leg to break the endless sameness of travel.
+
+But as it had been, it was again. Alone except for the trees, there was nothing to do but try and pay attention to an empty forest. When that stopped working, I began thinking about the Domain itself. What did it mean that even the crude footpaths I’d come to expect were missing, let alone the single, overgrown road connecting Peruti to the outside world? Was it a representation of how data traveled here, like in Zephyro’s Domain? If so, why did I struggle to get anywhere? Shouldn’t my Domain be much smaller than his, and easier to traverse? Thinking of which, why was it so hard to find the goddamn Ferals? This was my Domain, damnit. Shouldn’t I know what happened in here?
+
+As noon approached without having found as much as a single flake of Logic, I decided I needed to ask Chris to build ourselves some sort of tracker, because this was getting ridiculous. Just to be sure, I checked if there even were any Ferals connected.
+
+-<>NEXUS<>-{12 clients connected.}
+
+At least I wasn’t completely wasting my time. The list had definitely changed from yesterday, however. The fox Feral with the weird name was no longer on there, and a couple of others had connected. That meant that I had a statistically higher chance of finding some prey, which was good, but it also meant that even a 20% increase in Feral density didn’t make hunting easy enough to be sustainable unless the Ferals in question held absurd amounts of Logic. I briefly remembered the giant Feral that devoured the spire on the Plaza and the absurd amount of people it had taken to kill it. There was also the Shackled Zephyro killed inside the palace. Even the Vizier with all his power struggled to finally bring her down.
+
+There was no Vizier as backup here, no Zephyro to keep me safe.
+
+The cold grip of fear coalesced in my stomach, but I managed to wrestle it down. Worrying about it wouldn’t help. If anything of that power level—Shackled or Feral—connected to my Domain right now, I was toast anyhow. Determined to stick with the plan, and to explore a different direction of my Domain tomorrow, I was turning back toward my house when a glimmer of incandescent metal caught the corner of my eye.
+
+I’d come to know Ferals as savage beasts, mouths frothing with viral Logic and misshapen bodies crackling with malicious code, but the Feral I encountered at this moment made me rethink everything I thought I knew.
+
+Where other Ferals were mostly black, bodies outlined in jagged, rusty edges, this one was pure, sleek silver. Where other Ferals moved haphazardly, their every motion fueled by crackling red lightning, this one’s movements were languid and flowed like pure Logic. Where other Ferals were predators, chthonic amalgamations of greed and murderous intent, this one resembled a stag, a halcyon statue shaped in reverence to Art Deco and everything right in the world. It glimmered in the afternoon sun, completely unaware of my presence as it came to a rest in a small glade and unfurled its antlers. They whirred quietly as they extended and spread apart, then bloomed into dozens of solar panels glimmering in hundreds of colors.
+
+The stag shook its neck and finally came to rest. A second later, Logic began to coalesce around it like morning dew and swirled into the panels atop its head. Then its eyes started to glow the purest cyan, and I could have spent the entire day standing there, just watching it.
+
+Reality, however, had other plans.
+
+[Shiny_rare][DPM filesize: XXX LKB][>>Calculate exact filesize?]
+
+I blinked with both eyebrows raised, both at the silly name and the insane amount of Logic it possessed. If I was reading Ardor’s notification right, the stag had up to 1 megabyte of Logic available. It wasn’t the highest readout I’d ever seen, and Ardor’s low tier made it unpredictable at the best of times, but it was definitely more than a couple of wolves’ worth in Zephyro’s Domain. Bracing myself against the exhaustion to follow, I willed Ardor to perform a detailed scan.
+
+{CPU Load: ▲ 85%}{Core Temp: ▲ 62° C}
+
+[Shiny_rare][DPM filesize: 430 LKB]
+
+It took nearly a full second until Ardor was done calculating, but fortunately, my CPU was up to the task by now. Coupled with my earlier leisurely pace, that meant I didn’t even break a sweat.
+
+Until I realized that the stag was worth over 400 LB.
+
+If I killed it.
+
+My hand trembled as it crept toward Pharus, but even though my fingers wrapped around the handle, I couldn’t bring myself to draw my weapon. I imagined what would follow; heavy blows breaking silver skin, dark metal crashing bright panels, flames burning until those noble eyes dimmed.
+
+My fingers twitched on cold steel. Enough Logic to sustain myself for nine days, right there in front of me. I knew what I had to do. I knew I was being sentimental. And yet, just when I started to berate myself for hesitating, my mind stilled. It was a cold, uncomfortable silence, frozen right at the cusp of a decision that I would regret either way. Kill one of the most beautiful things I had ever seen and hate myself for it, or risk starving to death?
+
+In all my lives, I fought mages, wizards, griphons, and dragons, and yet, the struggle it took to pull my hand away from Pharus seemed much harder a battle than any other I remembered. There would be more Ferals. There would be more Logic. But if I killed this magnificent creature, I’d have to live with that decision for the rest of my life. I’d always be a woman who got what she wanted and didn’t care about the cost, and I didn’t want to be that woman.
+
+Exhaling a shaky breath, I forced my hand to rest on my knee instead and lost myself in watching the Logic swirl around the Feral in a lazy spiral. Cyan sparkles reflected off silver skin, and sunlight bounced off of its panel array, dappling the dark underbrush. It was as if a small galaxy unfurled in front of me, with cyan stars twinkling in a blue nebula twisting around a silver sun. With each minute that passed, I calmed down further. With each minute that passed, I wished I could stay here forever, and just watch the stag graze on Logic.
+
+With each minute, it was easier to push away the thoughts that insisted I should kill it and be done with it.
+
+There would be other Ferals. There would be more Logic.
+
+My breath evened out and I let out a quiet sigh just as a deep growl echoed from several throats on the other side of the glade.
+
+My eyes snapped up just as the stag’s head twisted away from me, toward the noise.
+
+Whatever it was, it couldn’t be friendly, because the grazer’s antlers immediately started to retract, but I couldn’t get a good look at the new threat because the stag’s body was in the way. I silently dropped to a knee to peer through the gap between its legs, but couldn’t see anything in the thick underbrush. Only when I strained myself to the limit, eyes narrowing to slits did I catch a whisper of movement.
+
+{CPU Load: ▲ 92%}{Core Temp: ▲ 68° C}
+
+A second later a bunch of Ferals appeared as if from nowhere. They must have been attracted by the Logic…
+
+I grimaced, both at the sudden danger and to relax the muscles in my face. The beasts were as stark a contrast to shiny_rare as I could imagine, a violent mix of bloodhounds, the weird military robot dogs I remembered from Earth, and a mechanized sawmill. Their bodies were short, stunted, and gunmetal black, their jowls replaced by rotary saws, and their tails fitted with a ridge of electrified nails and a hammerhead spike at the end. As all Ferals I’d seen before the stag, their eyes shone a deep red, and red lighting arced between them.
+
+[Blood_Hound_Gang1][DPM filesize: <XX LKB][>>Calculate exact filesize?]
+
+Without bothering to analyze their filesize, my hand shot to Pharus and pulled it from its sheath. I would not let these assholes harm this majestic creature, and if it was the last thing I did. To not give myself away, I didn’t ignite the Torch but released the head, twisted it free of the handle, and let the chain roll free.
+
+The tiny jingle of chains was enough, however. The stag’s head snapped toward me, its eyes narrowing as it focused on Pharus. Then, with its antlers finally folded together, it backed away from me, toward the ravenous predators.
+
+“No, no, no! Stay, I want to help!” I pleaded as I carefully inched out of the underbrush. The Stag took another step backward, and I gritted my teeth in frustration. The damn thing thought I was here to kill it, too, and had probably run some sort of threat assessment on my ridiculously large DPM. Normally, I wouldn’t have minded. I’d been stared at in fear too often to let it get to me. As it was though, I couldn’t find a good angle of attack. Every time I thought I had a clear shot and got ready to ignite Pharus, I had to imagine what would happen if I hit the stag instead. The hatred that roared behind those possibilities made me pause in terror and kept Pharus cold.
+
+The bloodhounds didn’t let the chance slip by and rushed in. The sound of buzzsaws digging into metal filled the glade, and the stag screamed in pain. It tried to get away, but its moment of distraction had cost it its chance to flee. The other Ferals swarmed it and dug into its skin, the electric current running between them intensifying.
+
+Spitting a curse, I rushed toward the fight. Pharus’ head rested in my right hand, the chain wrapped around my arm with practiced ease. It kept spooling out of the flashlight casing, far longer than it had any right to be.
+
+The second the stag saw me coming closer, it turned to me, inadvertently putting its body between the predators and myself, even as they continued to mangle its hindquarters and moved on to its belly.
+
+“Stop being dumb!” I yelled, frantic, but that just caused the stag to jump backward in an awkward hop, and when it landed, its legs finally gave in and it collapsed with a desperate cry. The Ferals didn’t let their chance pass and went for the kill, digging deep into its belly and tearing at its throat before I could close the distance.
+
+All the while, the stag stared at me, its eyes flickering in a desperate plea for mercy. I could not tell what kind. Again my thumb inched towards Pharus’ ignition, but my mind kept conjuring images of this beautiful beast going up in a roar of blue flame, chilling me to the bone and freezing my hand in place. Helpless, I unwound the chain from my arm and tried to scare the Bloodhounds away with some wild swings so I could get a clear line of fire, but they were too smart. Every time I got too close, they disengaged, brought the stag’s frantically thrashing body between them and me, and resumed their bloody feast.
+
+It would have been easy to just throw all caution to the wind and summon the rage I knew was still smoldering within me, but I had promised myself I wouldn’t be that woman anymore. I realized too late that it had been too long since I fought without that fury boiling in my veins. That I had to re-learn to fight without its blazing guidance.
+
+In a last, desperate attempt to save the stag, I forced my mind to rush through my options, but without anger blinding me of their dangers, each one seemed more ridiculous than the last. When clarity finally came, it was as welcome as it was too late. I was frozen in fear and the only way of breaking the spell was to take the first idea that came to mind and act.
+
+I yelled to steel my shaky determination as I lunged forward. I swung Pharus like a whip while still mid-air, but while the chain’s cold steel hit clear and broke a Bloodhound’s metal skin, it was too late. With a fading crackle and a hiss that sounded like a sigh, the Stag’s eyes flickered once more. Then they went out, and Logic erupted from its wounds.
+
+“Fuck!” My voice was a long, drawn-out wail as I rushed toward the Ferals that had dared to make the world just that much darker. There were five of them, electricity sparking between their bodies as they started to spread out around me. There was a hint of fear in their movement, but maybe they either had no self-preservation instinct, or their recent kill had made them bold, because they didn’t run.
+
+I stood motionless, too busy trying to reign in my fury at what had happened. As they closed their circle, the current that ran between them arced toward me, red lightning striking my armor.
+
+{CPU Load: ▲ 85%}{Core Temp: ▲ 78° C}
+
+I just let it happen, trembling as my emotions fought over my heart. The salt of my tears coated my lips, and the Ferals began to close in, but all I could do was shiver with barely suppressed rage. When they began to draw in the Logic spilling from the corpse of their prey, however, I had enough.
+
+My thumb flicked the switch, and Pharus burst into cyan flames.
+
+I blurred into motion the second I began screaming. I didn’t stop until I’d spent all of my strength and the last of them was dead. Standing in carnage, I panted with exhaustion. Before long, each breath turned into a gruesome, wet sob.
+
+I should have acted sooner. With my arms burning after the exertion of pummeling the Ferals to death, I kneeled next to the stag and mourned its beauty. Its Logic hadn’t started to evaporate yet and pooled around me like a lake of tears.
+
+A lake of tears? God, I was pathetic. It was just a machine. I knew I shouldn’t be so emotional about it. I shouldn’t—
+
+With another, much weaker cry of frustration, I shoved my burgeoning anger down. I knew where it would lead, and didn’t want to go there. Not anymore. And yet it was so hard to let go and that terrified me. Cyan light cascaded from my limbs like water as I emerged from the depths. I got up to shaky feet and flicked off Pharus, then stuffed it into its holster. The stag’s Logic sparkled around me like a galaxy bereft of its star, trailing my movements like cosmic mist. It almost felt as though it was begging me not to let the death of its Host be in vain.
+
+I worked my jaw with lips pressed to a thin line, fighting with my demons. It was harder than I thought, but ultimately, I made a decision, and took a deep breath. The Logic flowed into me with a sense of almost childlike happiness that clashed with the lingering guilt tormenting me.
+
+I was appalled at first, but I also sensed that perhaps there was wisdom in its innocence, even if I couldn’t quite grasp it yet.
+
+For now, the innocent caress of the Logic was enough to remind me of the promises I’d made.
+
+{INCOMING LOGIC - 630 LB}{AVAILABLE LOGIC - 1120 LB}

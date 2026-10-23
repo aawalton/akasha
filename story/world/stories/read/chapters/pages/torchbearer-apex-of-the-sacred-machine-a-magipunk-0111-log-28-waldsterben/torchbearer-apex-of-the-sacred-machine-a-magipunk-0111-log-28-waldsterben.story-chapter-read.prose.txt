@@ -1,0 +1,137 @@
+{Loading…}{Loaded.}
+
+[>>Now replaying: Log 2.8 - Waldsterben]
+
+Date: 10.9.175 AA / 4404 LTCLocation: UNNAMED_DOMAIN(LARES)Remaining Logic: 900 LB
+
+//There's a reason why so many of Grimm's fairy tales take place in the forest. Early Germanic culture still had a deep grip on society in these times, and the forest hadn't been a place for fun hikes and leisure for long. No, for the majority of German memory, the Forest was a place where you went to die.//
+
+[>>DATA CORRUPTED]
+
+I sank against one of the few trees still standing, taking deep, desperate gulps of air as I absorbed the Logic. Not a meter in front of me, the last Feral stopped twitching, and I allowed myself a weak celebratory groan as finally, the hateful red glow in his eyes winked out.
+
+{INCOMING LOGIC - 78 LB}{AVAILABLE LOGIC - 978 LB}
+
+“God, fuck…” I said, wiping the sweat from my brow, then licking my salty, cracked lips.
+
+The forest surrounding me was an absolute mess. Broken trees as far as the eye could see, burned patches of foliage dotted the landscape, and a wide, muddy field stretched all around me, littered with the corpses of Ferals large and small. They’d kept coming all afternoon, with the three I’d spotted a few hours ago being just the first ones to arrive. I weakly nudged the last one I’d killed with my boot to make sure it was dead, and thankfully, there was no reaction.
+
+Finally, it was truly over. I thought about pulsing Ardor another time to be certain, but I’d already done that twice since the fight ended, and so many other times over the last few hours. Turns out, the outline Ardor gave me faded after a while, which I would have loved to know before it happened. Nevertheless, it felt like another pulse would probably melt my CPU.
+
+As my eyes wandered upward, I found my readouts flickering in the canopy.
+
+{CPU Load: — 65%}{Core Temp: ▼ 91° C}
+
+[DPM integrity]▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱ 52% ▲
+
+“Fuck,” I whispered again and forced myself to my feet. Scan or not, I wasn’t safe here, needed to get back to the house. My steps were a little wobbly, though. Mostly because my left leg was still bleeding from several wounds where a mutated stapler/snake mix had gone to town. Still, even walking—hobbling— at a brisk pace didn’t make my leg hurt as much as the hole in my right shoulder. Or the burn on my left tit for that matter. That was an awkward combination of wounds to be sure. I couldn’t even reach up to the gaping cut without my elbow grazing the burned section of skin and making my vision turn all blurry.
+
+I’d tried to conserve CPU load as much as possible—even keeping Pharus disabled the entire fight—but I couldn’t dodge everything and there was no one to save me if I made a mistake.
+
+A part of me that sounded suspiciously like Olre tried telling me that was all my fault, but I pushed that thought down. It wouldn’t help me, and even as I struggled to put one foot in front of the other, I found that I could instead focus on the fact that I had survived. I still missed my friends, but I wasn’t ever going to replace them. Knowing that I could do this, that I could stand on my own, filled me with a vague sense of melancholic hope. It ached somewhere around my heart, like a wound scabbed over.
+
+I tried not to think about it too much. Luckily, my real wounds were hurting plenty enough to distract me. God, but why on my fucking tit. A couple of centimeters lower and I would have lost a nipple. I grimaced at the thought of how much that would hurt.
+
+Of course, I could have spent some Logic to heal myself, but I would rather depend on memOS passive regeneration to patch me up. I’d killed dozens of Ferals, but I was still almost 200 LB in the red compared to where I had started. Pumping the stuff into wounds that could heal on their own would only sink the cost of this little experiment even deeper into folly.
+
+The trek to my clearing took longer than I anticipated—I must have been drawn deeper into the wood during the fight—, but I managed to stay vigilant. I meticulously pulsed Ardor once I cooled down enough to do so without disabling Arx. The fox hadn’t disconnected, so I knew it was still out there somewhere, waiting for me to slip up. Not that there couldn’t be others, too.
+
+Turns out, plenty of things are going to try to kill you in your own home if you are dumb enough to open your doors wide and invite in a bunch of murderous machines.
+
+With a sigh, I forced myself to stop berating myself and forged onward. However, a couple of steps later, I lifted my head and finally caught a glimpse of home gleaming between the trees.
+
+It was glorious, almost as if the clearing was calling to me. The meadow luxuriated in the golden light of the evening sun. The windows of my house glinted invitingly in shades of yellow and orange, promising warmth. To think I’d ever call this damn place home after everything that had happened between trees just like these. Weird how places could stay the same, and still change in your mind.
+
+“This place has changed…” Zurne says.“No it hasn’t,” Jirrie says with a chuckle. “Same shithole as before, you just have higher standards.”“I’m pretty sure last time we were here, they didn’t have the city gate locked and crossbows aimed at us,” I say with a sardonic smirk. It’s all I can manage after weeks of ceaseless retreat.Tuyk and Dezin chuckle weakly, Underbrook and Iruli stay quiet, and the silence stretches into a void that we all want Stax to fill, but he isn’t here anymore.“Anyway,” I say to break the silence. “Dezin, let’s go and parley. Tell them we need that food, or we’re fucked.”“As long as you let me do the talking,” he says, adjusting his leather armor. “I think I can manage to present that a bit more… eloquently.”That gets a chuckle out of everyone, and I suppress the urge to throw him an annoyed glance. He should be standing behind me, not try to undermine me in front of…No. They are my friends. It’s just my nerves. There’s too much stress. I just hope we make it home before I snap like an old, dry bow pulled too taut.
+
+A dry twig snapped behind me, and I froze in place as the memory vanished. When I whirled around a split second later, I was not surprised to see the Fox coming at me in a dead-on sprint.
+
+Of course it followed me. I didn’t even wish it hadn’t. But as I set my feet into the uneven forest ground and readied Pharus, I just wished I could be wrong every once in a while. My temperature had dropped considerably, but because I had been pulsing Ardor the entire way back, it wasn’t as low as I would have wanted.
+
+{CPU Load: — 60%}{Core Temp: ▼ 81° C}▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱ 55% ▲
+
+Considering the fox’ DPM size, I had one hit, perhaps two, and then I’d take some real damage. Damage that I couldn’t afford, not just Logic-wise. Life-wise, too.
+
+Pharus’ grip felt slick in my palms as the Fox dashed closer. I’d kept the head of the flail attached. This wasn’t the time to risk snatching the chain between some branches, leaving me wide open. I played with the idea of igniting the Torch, but that wouldn’t do anything but burn my precious heat. Against a Feral of that size I wouldn’t bet on a sudden burst of strength being enough to take it out. I had to pace myself. Win by attrition. As my eyes narrowed, my tongue darted out and licked the salt from my lips.
+
+Then the Feral was within pouncing distance. In general, all Ferals all pounced. They loved pouncing.
+
+Except this one. It kept running, and where I had expected an attack from up high, it came in low. Its razor-edged teeth dug into Arx at shin-height and only an awkward overhead attack forced it to let go. I grunted as I twisted to not accidentally hit myself, but that put my entire weight on my wounded leg. I crumbled with a suppressed scream and barely had the time to blink tears of pain from my eyes before the damn beast was on me again, this time lunging straight for my face.
+
+I swung, my shoulder and chest protesting at the sudden burst of motion, but I managed to bury the Torch deep in the fox’s side. The attack repelled the beast with explosive force, sending it tumbling through the air until it landed in a rolling heap of bestial blades. Even so, the amount of energy I had to put into the attack, was the drop that made my CPU boil over, and Arx disabled itself to stop me from melting my proverbial heart.
+
+{CPU Load: ▲▲ 82%}{Core Temp: ▲ 85° C}▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱ 55% ▲{[Arx, A Saint’s Terrified Embrace] HAS BEEN DISABLED.}
+
+Clinging to every combat drill Stax had ever forced me to undergo, I refused to fall into panic. Movement. I needed to be able to move. I used the second the Feral needed to regain its senses to push myself to my feet, suppressing a scream of pain. It wasn’t the fastest, or the most stable, but I managed. I even had a chance to stumble another few meters in my Domain’s direction before the beast started charging again.
+
+This time, I held Pharus low, and just as I had predicted, the Feral jumped. I allowed a weary smile to cross my lips as the angry amalgamation of black steel and red lighting jumped straight for my face. Then I whirled my Torch upward and straight into its unarmored underside. The blow let it lurch in the air and I immediately dropped into a crouch. My shoulder screamed in pain when I had to use my arm to steady myself, but I didn’t let myself collapse completely, even as the Feral screeched a finger’s breadth over my head. Its back claw dug into my scalp, coming away with a bit of my hair and a lot of blood.
+
+{CPU Load: ▲▲ 86%}{Core Temp: ▲ 86° C}▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱ 42% ▼
+
+I grimaced in pain as I felt my hair matt to my head and the unreal sensation of my skull being exposed, but I didn’t stop. I didn’t know how injured the Fox was, but no matter how much Logic it had, I wasn’t going to risk my life for it. Again the thought of healing myself rushed through my mind, and for a second, I almost gave in. Even so, I had the feeling it would cost me much more Logic than the Fox would be worth. I hadn’t scanned it, but I was confident that it couldn’t be that much stronger than me. Had I been uninjured, this fight of ours might even have been fair. But as it was, its weakness only meant that it was worth far less Logic than I needed.
+
+And that meant I only had one way out of this mess.
+
+I lurched toward the clearing, praying to anything out there that might listen that whatever or whoever had ripped the Ferals the other day to shreds was still there. The edge of the meadow came closer with each painful step, and my vision began to narrow. I shook my head and yanked my focus back just in time to hear the dangerous screeching of blades behind me. I tossed myself forward and to the side. The Feral had probably tried to knock me over, but without a willing target, its attack brought it to a sliding halt. I rolled to my hale side and came face to face with the damn thing. It was so close, I could feel the red electricity crackling in its wounds arching over, searing burning holes into my coat.
+
+It growled victoriously as it opened its hideous maw and spinning row after spinning row of rusty blades shot toward me.
+
+No.
+
+I would not go down like this.
+
+With a last, desperate howl, I grabbed its maw with my good hand and pushed it away. The jagged black metal edges of the Ferals frame cut deep, shredding through my gloves in an instant and cutting into my palm.
+
+With the last of my strength, I grabbed Pharus with my free hand and put everything I had into the next strike. The Weapon ignited with a blazing roar and even under the agony in my hand, I felt the Feral stiffen. Then I swept it at its forelegs and an explosion of blue fire consumed my vision.
+
+{CPU Load: ▲▲ 99%}{Core Temp: ▲▲▲ 92° C} ⚠⚠▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱ 35% ⚠ ▼▼▼
+
+[>>PROCESSES BY USER A-Ring-A-Ding-Ding-Screech ARE NOW HIGHLIGHTED]
+
+I didn’t wait for my sight to return, just rolled away and crawled in what I hoped was the right direction. Turned out I had been right. Shortly after I switched off Pharus again to preserve heat, the bright darkness cleared from my eyes and I beheld my home. As the last of the cyan stars clouding my vision cleared and the ringing in my ears subsided, I shouldered against a tree to push myself up.
+
+“—can do this…” I hissed. This wasn’t the end. This couldn’t be the end. I wouldn’t let it. Not while there were promises to keep. Not while I still had resources available. Even so, at this point, my adrenaline-fevered mind had equated using even a byte of Logic with utter defeat. I wouldn’t let the damn Feral have it. I needed it. I didn’t even know for what. I just needed it.
+
+“I won’t…” I growled, taking one step while the sound of metal rearranging itself echoed through the trees.
+
+“Let you…” another step.
+
+“…Have it!” I yelled as I stumbled out of the forest and onto the meadow. Gritting my teeth against the agony of what I was going to do, I broke into something that could have been a sprint, had I been hale. As it was, it was a mad, lurching dash that bought me a couple of meters before I collapsed, and my body refused to move any further. My heart was hammering in my chest so violently I could feel its movement in my throat, blood seeped over my brow and into my right eye, and the earthy smell of grass mixed with that of copper and sweat.
+
+My lungs heaved violent gasps of air, desperately trying to cool me down, and the second I began coughing, I pushed. If I had enough energy to cough, I had enough energy to roll over and get to my knees. Then to my feet. Another coughing fit. Almost ruined my progress. I swayed, dangerously close to collapsing again. Then, still panting, I steadied and lifted Pharus before even looking up.
+
+The Feral was trying to hide in the underbrush, but I could see its cyan outline clearly, thanks to Pharus’ mark. Unlike Ardor’s, this one didn’t seem to fade.
+
+A mad smirk tugged at my lips as the machine whirred hungrily a few steps away from the forest edge, but I didn’t let it surface. No need to let it know I could see it.
+
+Besides, I hadn’t won yet, and death was only a couple of hits away. Then the machine launched itself forward in a burst of greed, and my attention narrowed to a pinprick of murderous black and red. The beast broke out of the underbrush in less than a second. Its metallic feet closed the gap between us with manic speed.
+
+I stood unmoving, Torch ready to strike. Would it work? What if it didn’t? I’d have to use hundreds if not thousands of LB to patch myself up and win this fight. I wouldn’t even have enough Logic to repeat this dumb stunt and call more Ferals. I’d starve before the week was out.
+
+The Feral raced closer, closer, closer, and just when it ducked to pounce, I put all my energy into a last swing and—
+
+[>>user [A-Ring-A-Ding-Ding-Screech] has disconnected.]
+
+The Feral exploded into a hundred pieces of gore and shrapnel. It was too quick for me to try to take cover, but before any of the giblets could hit me, they changed, morphing into cyan crystals that vanished in the evening sun.
+
+I lamely let Pharus’ swing come to an end.
+
+“What the actual fuck?” I whispered, as befuddled as I was relieved. Everything had happened in less than a second, leaving me disoriented. Careful not to strain any of my wounds, I turned around to find whatever had killed the beast. I’d hoped to at least catch a glance of whoever saved me, but...
+
+Nothing.
+
+All I could see was an empty meadow and a few clouds lazing in the golden hour. I exerted myself and pulsed Ardor, but even that didn’t reveal either friend or foe. There was no trace of the Logic the Feral should have left behind, either.
+
+It wasn’t just invisible, then, it was gone.
+
+Again.
+
+I checked my own Logic reserves to see if this was some feature of Lares I didn’t know about. Maybe my Domain had killed the Feral and absorbed the Logic automatically? But no. My overall Logic count hadn’t changed.
+
+{AVAILABLE LOGIC - 978 LB}
+
+I frowned as I awkwardly put Pharus back in its holster. As I limped home, questions upon questions bounced around in my head. What just happened? Where did all the Logic go? If not me, who or what killed that Feral?
+
+While the idea that an unknown, invisible force could just nuke stuff to pieces in my Domain didn’t make me feel very safe, one question felt more urgent than all the others:
+
+Both plan A and B had failed. What was I going to do now?

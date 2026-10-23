@@ -1,0 +1,131 @@
+{Loading…}{Loaded.}
+
+[>>Now replaying: Log 2.11 - You Can Not Burn Your Dread]
+
+Date: 13.9.175 AA / 4404 LTCLocation: UNNAMED_DOMAIN(LARES)Remaining Logic: 728 LB
+
+//Phobos was not a particularly prominent God in Greek mythology, acting mostly as attendant to his father, Ares, alongside his brother, Deimos. Nevertheless, the Spartans were said to have worshipped Phobos, as they believed that fear was a positive force that held the state together.//
+
+[>>DATA CORRUPTED]
+
+As the pulsing ache in my hand reminded me, restoring my DPM was the first order of business. It still felt weird to use my Wish on myself, and if I was being honest with myself, I was still terrified of the idea, but it had to be done. There were Ferals to kill and Logic to be gained, and running back into that slaughterhouse with only one hand was absolute insanity.
+
+So I closed my eyes, pushed through the clenching feeling in my stomach, and inhaled deeply. As soon as I heard the faint echo of a bell in the rush of air, I held it in my awareness, let it grow until my soul shook with its sound, then released it down my left arm.
+
+{CONSUMED LOGIC - 300 LB}{AVAILABLE LOGIC - 428 LB}
+
+As if the vibrations spread from my soul to my body, my hand started thrumming with an unheard resonance. Then there were a series of cracks—more felt than heard—and for a second, the dull pain intensified, then faded like a sigh. When I opened my eyes again and held up my palm, it was still glowing blue, a bright contrast to the red outlines of the fiends waiting for me beneath the trees.
+
+Except they weren’t really waiting for me. Even though their crimson silhouettes were already dimming like sunlight at the late edge of dusk, it was easy to see they had decided to just start the party without me. Even though they tried to disguise it as hungry wandering along the treeline, the smaller Ferals had banded together and were encircling the bigger machines. They—being smarter and stronger—had seen through the maneuver and connected into loose groups of two to three to defend themselves. The scene felt like air before a late summer storm, charged with static, desperate to ground itself in violent brilliance.
+
+I spat another curse. Then, even though I could already feel that I still had to cool down for quite a while before I could join the fray again, I checked my status.
+
+{CPU Load: ▼ 63%}{Core Temp: ▼ 80° C}
+
+[DPM integrity]▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ 100%
+
+Seventy. I decided I’d be able to go back in at seventy degrees. I should have waited longer, just relaxed and waited for my temperature to drop as low as possible, but the fight between the Ferals had me worried. Without me to focus on, what had started out as posturing quickly devolved into isolated skirmishes, then into all-out warfare. In the span of less than another minute, the forest filled with the sounds of metal grinding against metal and a dazzling array of colors spilling out between quivering trunks.
+
+-<>NEXUS<>-{27 clients connected.}
+
+Each time crimson lighting punctuated another Feral’s life, I grew more uneasy. It wasn’t just that the fuckers were claiming Logic that I was banking on; they were also growing stronger in the process. So I spent the next couple of minutes fretting and querying Nexus. The number of connected clients dropped every time the readout rushed through my mind, far faster than my temperature was falling.
+
+-<>NEXUS<>-{24 clients connected.}
+
+Trying to distract myself, I pondered the weird pixie I’d fought earlier. So far, all Ferals I’d seen had been some weird mix of animal and machine. The Shackled had been more humanoid, but I’d never asked myself why that was. It had been easy to just ignore their humanity, hidden under thick layers of red polygons. Even when their shell cracked to reveal the crazed minds within, I didn’t exactly have time to worry about the moral implications of killing them, even if a century of war hadn’t seared the notion of mercy out of my soul like a white-hot sword cauterizing a weeping wound.
+
+This pixie, however, clearly had been close to evolving into something almost human-like. I wondered what would have happened if it had gotten just a couple of Kilobytes of Logic more. Would it have become another Zephyro? A Kasha? Or would it just have been another twisted template to pull a red shell over and made to obey commands?
+
+As far as thoughts to distract myself from worrying went, that line of thinking definitely wasn’t a winner. Like a cold light in the dark depths of the sea, these thoughts attracted increasingly worrying kin.
+
+Had I just killed a child?
+
+Had I just proved the Mage Lords right?
+
+Was I really the Tyrant Divine, just out for more power?
+
+Was I really as horrible as they said?
+
+-<>NEXUS<>-{20 clients connected.}
+
+I gritted my teeth, but the thoughts wouldn’t go away. To do something, anything, I decided to get up and lure more machines into the meadow. I needed to get rid of as many as I could, otherwise, the chain reaction would spiral out of control, and I’d be killing Ferals until the end of time.
+
+Not the worst thing, for sure. I even wished I had a calling device that was always active, because it would allow me to not waste Logic on upgrades I didn’t need. I could just wake up every morning, head to the forest, and lose myself in the fight without thinking.
+
+A deep, distant sound like a foghorn echoed through the forest. It came in waves, each one mixing with the one that came before until it crescendoed and never stopped as a particularly bright blaze of lighting threw the meadow in a stark relief of vermilion.
+
+Then the numbers went up.
+
+-<>NEXUS<>-{Incoming connection request from [2] clients.}
+
+{Handshaking…\}{>>Done.}
+
+{Authenticating…\}{>>Done.}
+
+{Awaiting response…\}{>>Accepted.}
+
+{5 new clients connected.}{25 clients connected.}
+
+A quiet anxiety twinged in my chest, mingled with the brimming self-loathing that I refused to let take root there. The number of Ferals connecting had dwindled to a trickle, then stopped completely almost an hour ago. While it was possible that more Ferals were connecting after I used the Logic to repair myself, a far more ominous realization began to dawn on me.
+
+Then a pillar of scarlet shot into the sky, piercing the gathering clouds. Without wasting breath on a curse, I grabbed Pharus, got up, and ran toward the light as fast as I could.
+
+{6 new clients connected.}{32 clients connected.}
+
+No, no, no, no… Each word underlaid a footfall, and I used this rising worry as a springboard and ran even faster.
+
+{10 new clients connected.}{42 clients connected.}
+
+I crashed into the forest and chaos engulfed me. Beams of light seared wood, missed swings showered me with dirt erupting from their impact point. In the distance, small flames began to lick at the underbrush, and after a flash of horrifying visions of my entire Domain ablaze, I made a quick detour to kill a small beetle with flamethrowers underneath its wings. I almost left the Logic behind, but couldn’t risk it, so I drew it in impatiently, eyes still fixed on the monumental beam of red.
+
+{5 new clients connected.}{47 clients connected.}
+
+My feet burst into motion the second the last drop of Logic had been stored in my soul. I didn’t bother killing any other Ferals, just went straight for the light. Its glare was blinding, and the closer I got, the hotter the world became. Trees and foliage smoldered all around me, their leaves browning and curling up, ready to burst into flame at any moment.
+
+I dodged around a smoking tree trunk and finally reached the base of the light. Despite myself, I came to a stumbling halt as the situation began to sink in.
+
+The beacon’s light was blindingly bright, and yet a strange, shifting shape deep inside of it invited you to stare into its depths. It undulated somewhere between human and beast, utterly mesmerizing in its bizarre allure. With tremendous effort, I finally managed to break my eyes away and look around.
+
+The ground around the pillar had been charred black and left completely devoid of life. It was also littered with the corpses of Ferals. As I watched, another two Ferals burst into the devastation, crazed and slavering. They didn’t even hesitate, just threw themselves forward and into the light with almost joyous greed. Their bodies disintegrated the second they touched the light, their Logic vanished instantly, and the heat flared, washing over me and seeping into my skin and mind.
+
+Before I could stop myself, I’d taken another step forward. Every fiber of my being yearned for the warmth promised by that pillar, promising eternal light and the eternal safety of complete unity. Another step, and Pharus was in my hand. Another, and it ignited. Another, and somehow I’d already reached the light and when I held my Torch, blazing, into this beautiful, red pillar that sheltered the beginnings of perfection, it flared even brighter.
+
+{5 new clients connected.}{49 clients connected.}
+
+{CPU Load: ▼ 30%}{Core Temp: ▲▲▲ 79° C}
+
+Arx was smoldering under the heat, but I barely felt it. That was a problem. I wanted more of that warmth. I wanted to step into the light, to become whole again. But even this far from that wonderful, divine light, Arx’s fabric was already smoldering, and I didn’t want to leave it behind. My fingers ran over the collar and—
+
+My fingers are running over her collarbone, up her neck and chin. Patti smiles down at me, brushing her fingers through my hair. It’s summer, and we’re sitting underneath a tree in the courtyard. I’m warm and everything is soft and comfortable and just feels so… good.Patti’s unknowable smile widens just a fraction, which increases its mystery a thousandfold.“What?” I laugh.“Comfortable?” There’s a groove in her dimples I haven’t noticed before. Satisfied, perhaps? Hopeful? Content?“How could I not be?”“There’s a lot of stuff going on, still,” she says and cocks her head.I don’t mind, trace the outline of her jaw with my index finger.“Yeah, but that’s for the Salvatrix to figure out.”One of her eyebrows rises, and she gently grabs my wrist, holding my hand against her cheek. “Oh, wait, isn’t that you? Do I have the wrong woman in my lap?”“A joke? From Patturelia, the Tradeweaver’s own kin, destined for somber greatness? Do I have my head in the wrong lap?”“Depends on who you are. I decided I am not Patturelia right now. Just Patti.”I laugh, and can’t remember the last time I felt so unburdened and careless, so free, even as Patti’s free arm snakes around me, pulls me up, and holds me tight.“It’s that easy, is it?” My smile slips just a little, even as I am trying to keep the joke going.But Patti, as always, notices, and puts her finger on my lips.“Yes, it is.”I bite the fingertip. Gently. She’s still using milkfat for her skincare routine.Around the digit I mumble, “Then I’m just Sam.”Patti arches her eyebrow even higher, and her smile blossoms into its hitherto unseen true radiance.“Hi Sam. I’m Patti.”Then I close my eyes and—
+
+{CPU Load: ▼ 29%}{Core Temp: ▲▲▲ 84° C}
+
+I stood a meter or so before a blazing monument to destruction. As something grotesque shifted inside of the crimson fire, an unnatural heat raged against my skin. It was close to searing through Arx’s protective layers. I took another step back and flicked off Pharus, terrified of the idea that I could make the pillar surge again, like before, and get swallowed by its glare. Then I backed off further until the heat became manageable and I was able to think this through.
+
+Still reeling, I could only watch as another group of Ferals dashed past me and into the bonfire. Their Logic crackled and turned crimson, then vanished into the flaring vortex of unbridled fury. As it did, the creature inside bent and broke in increasingly painful looking ways, only to be reforged in the fires of its own beacon, and I knew then and there I would have to put it out of its misery. If not for the Logic it was collecting, or to stop its evolution into whatever avatar of wanton destruction it was going to become, then to stem the ever-swelling tide of Ferals suddenly connecting to my Domain.
+
+I’d missed a couple of readouts, it seemed.
+
+{55 new clients connected.}{144 clients connected.}
+
+Luckily, it would take them some time to get here, as new clients always entered a Domain on the outskirts, but it wouldn’t be long now before this would completely spiral out of control. I had to stop the cycle of growing stronger to summon more fiends to consume to get stronger, or else this thing would completely swallow my Domain within the day, murder meadow or not.
+
+The question was just how?
+
+I looked at Pharus, silently terrified of accidentally fueling the pillar again, and wished Zephyro was here. He’d shoot the thing with a beam of moonlight and we’d be done with it. But he was dead, and I was on my own. I had to fix this myself, right then and there. My mind raced over the few tools I had available, and within a split second, I came to a rushed conclusion and began unwrapping Pharus’ chain from my arm.
+
+Holding its shaft in a white-knuckled grip, I began swinging the flail over my head as fast as I could. Despite my dread, I wished I could ignite it, reach for the fury that would make it hit that much harder. But the second the thought crystallized, I shied away from it like a child touching a hot stove.
+
+It would just make everything worse. As it was, I barely had enough reach to hit the figure inside the torrent of flames. If the pillar flared, it would devour me on the spot.
+
+{61 new clients connected.}{215 clients connected.}
+
+So I threw all caution to the wind and dove forward, Pharus circling overhead with increasing momentum. I thought I yelled or screamed, but I couldn’t be quite sure. Despite the heat radiating from the crimson beam, icy shivers ran over my spine. Yet, I did not stop moving, devoted myself to this single strike.
+
+Two steps away from the radius of the light, I released Pharus. One step, I dug in my heels to slow down. With face was almost touching the blinding glare, I came to a halt and watched Pharus dive deep, deep into the consuming radiance. The heat was almost unbearable, but I didn’t give in, didn’t flinch. I needed every link of chain available. Even then, it was a close call.
+
+The chain rattled as it shot forward, then pulled taut. The force of my attack pulled my hand into the light and searing heat instantly began melting the flesh from my bones as a dull shock ran up my arm. The pain didn’t last longer than a split second, and at first I believed my nerves had just been incinerated in an instant, but then the brightness faded, and the pillar collapsed into flickering motes of crimson.
+
+It left behind nothing but a wide circle of destruction, ash, and a lone figure in its center. She was staring at Pharus, but then her gaze traveled along its chain, up my arm, and met my eyes. And when her head lifted, and I finally saw her face, I recoiled.
+
+[Latirae, Lament of Intolerable Obfuscation][<-Regressive Version Control->][DPM filesize: ????][>>Embrace?]

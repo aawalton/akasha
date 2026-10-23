@@ -1,0 +1,291 @@
+{Loading…}{Loaded.}[>>Now replaying: Log 2.24 - airdrop.app]Date: 19.9.175 AA / 4404 LTCLocation: Samantha’s DomainRemaining Logic: 9635 LB//Flying used to be different. Remember when you were allowed to bring your own bottles of water on board? When kids were allowed to sit in the cockpit? When they served actual food that deserved the name? We would just smoke a nice pipe in the back, and no one cared!////Man-made flight might have brought a divided world closer together, but did little to unify it.////Don’t call me Shirley.//[>>DATA CORRUPTED]
+
+I was starving, so while Chris ran diagnostics on Nexus, I asked the fridge for a quick bite to eat. Half an hour later, I stooped to protect my head as I entered the helicopter. It hadn’t been tampered with as far as we could tell. Still, I asked my partner in crime to stay behind and hold the fort. I couldn’t risk their safety on a cursory scan and a gut feeling.
+
+Fortunately, they had agreed immediately. Either they were still scared of straying too far away from the house, or they were mad because I’d made them skip dinner and thus they would never forgive me every again. The moment I sat on the leather seat, however, however, I couldn’t help but think Chris would have loved it in here. Like nexus’ bike version, the helicopter was ridiculously comfortable. I could practically feel my jaw unclench as the luxurious cushions supported me in just the right places, and the lush interior soothed my overwhelmed senses. Hell, I was pretty sure it even had a minibar.
+
+In an effort not to make Chris too jealous and incur even more feline wrath, I gave them a quick thumbs-up and a chagrined smile, then pulled the door shut. I caught a glance of them waving back with their scarf just before they vanished behind sleek, polished gunmetal. As the subtle growl of the door’s frame rolling over its guiding rails ended with a mechanical clunk, a menu settled into my mind.
+
+{Nexus.[>>Nexus ready for transfer.][>>Please select target system.]>>1. (&^H9270->>2. Nah-nya>>3. QIBWEK4BS>>…}
+
+I scrolled through the list for a while. There was a surprisingly large number of Domains to choose from, but fortunately, Nexus allowed me to filter for criteria such as distance, signal strength, and approximate size. After fiddling with the setting for a few seconds, I reduced the list to a single possibility, which I selected.
+
+{[>>You have selected: Adan_Boom_Box.][>>You are connecting to a new Domain: DJ’s Domain.][>>No login credentials available for target host.][>>Target host is accepting connections from [ALL] sources.][>>Warning! You are attempting to connect to a public network. Unless you recognize all the computers on the network (for example, you’re in a coffee shop or airport), memOS does not recommend trusting this connection.][>>Ardor was unable to scan this connection. Connecting to this Domain might pose a security risk.][>>Execution of programs on this Domain might be limited by the Domain administrator.][>>Do you trust this Domain?](Y/N)}
+
+As the information seeped into my mind, I deflated with a heavy sigh.
+
+“War ja wieder klar…”
+
+I hadn’t it expected to be easy, of course, but to see it written in blue and black was still a blow to my cushion-supported composure. It didn’t take a senior SecOps specialist to know that you shouldn’t connect your devices to open, Domains. Even less so if you didn’t know who else had access, you were pretty certain the Domain had at least one virus, and especially not if your network security system gave you a warning as detailed as this one.
+
+But there was nothing for it. There were Mage Lords to kill and Bodies to reclaim, but for that I needed help. And if I wanted to make sure my only three options got home safe, the Domain had to be cleansed.
+
+Debt to power… I thought to myself as I massaged the bridge of my nose and accepted the prompt. The helicopter’s engine began its spin-up sequence and filled the cabin with a low whine as I settled back into my seat.
+
+Meanwhile, Nexus fed me more information.
+
+[>>Acknowledged.] [>>(DJ’s Domain) has been added to your list of trusted Domains. Would you like to connect to this Domain now?](Y/N)[Y][>>Ok.][>>Connecting…]
+
+Not for a second did I doubt that I would find Latirae at my destination. The Crimson Lady wanted my Domain, and the Music Box was in her way. Not that I doubted that if given the chance, she would devour the Box’s Domain as well, or any other for that matter. She was a ravenous menace that sought only destruction, and now that I had so very helpfully provided her with a means of travel, all the worlds were her oysters.
+
+Ironically, the very fact that the Domain she was targeting was a semi-shackled mess might work out to my advantage. Latirae was many things, including powerful and cunning, but every time she’d shown up, she’d stood out like an intern at a wine mixer. One way or another, her extravagant nature would draw attention, which—besides making her easy to find—would slow her down enough for me to catch up. If I was lucky, she’d even cleared a landing zone that I could use. I had no idea what a Shackled Domain might look like, but it certainly wouldn’t be a quaint little town with a municipal airport.
+
+[>>Connected.][>>Please confirm initialization of data transfer.]
+
+(Y/N)[Y]
+
+A soft jolt ran through the cabin as the helicopter lifted off, and I settled in for the flight. Through the window, I could see my Domain getting smaller and smaller, until we passed through a thick layer of clouds that I could have sworn hadn’t been there when I boarded. Once the clouds cradled us in a thick layer of white, the whine of the engine intensified. Nexus, or whatever program was piloting it, was clearly comfortable flying at breakneck speeds without visuals.
+
+At first, that thought made me anxious, but then I remembered that there was little chance of crashing into other aircraft in a digital network, and forced myself to relax. The moment I managed to drop my shoulders and unclench my jaw, however, I felt a heavy weariness come over me. It was only natural, I supposed, given what had happened in the last 24 hours.
+
+I’d started the day by fixing my porch, had a nerve-wrecking call with a surprisingly tender Pina, advanced my router into a bike, and then a helicopter, drove around the entire width of my Domain in minutes, killed a bunch of Ferals, and finally found out a possibly eldritch super-virus I thought I’d killed was still threatening my life, as well as the lives of three children I suddenly found myself having to care for.
+
+That was enough for months of action, let alone a single day. Now, cradled in a comfortable seat and surrounded by nothing but clouds, it seemed my adrenaline had finally run out. I tried to stay awake and plan ahead, but I might as well have tried to run a kingdom on my own.
+
+Before long, the monotone buzzing of helicopter blades cut my last tether to the waking world.
+
+God, but I needed the break.
+
+[>>Alert!][>>Detected idle state in DPM/MIND/COGNITION/SOUL: {Simulacrum}][>>Traumatic personality stasis imminent! Hark! The Ego Death/The eternal stillness of memory.][>>Employing sanity-preserving countermeasures.][>>Searching records] {See.}[>>No relevant records found]{Remember to remember.}{SCANNING PRE-LOG MEMORY}{REMEFZSFING…}{REMEMBERING}[>>Now replaying memories]
+
+Date: 13th of January, 1993Location: Daxberg, Mömbris Municipality, Bavaria, Germany. [>>Replaying Memory]
+
+It is dark. The clouds have already gone to sleep.
+
+There’s a crash, metal scraping against the asphalt, and a loud yelp; more surprised than painful. For now.
+
+I slam the brakes on my bike and almost crash myself as the wheels slide on the frozen road.
+
+“Tina?” I ask, voice quivering, and she whimpers, so she’s still alive. That’s good.
+
+I try to look behind me, but the bike is in the way, so I let it drop to the wet, half-frozen snow. I see my friend lying in a heap and hurry to her side, and even though I am trying to be careful, I slip more than once before I finally fall by her side. Riding our bikes was my idea. There was no way Papa would have driven me, and I really wanted to go to the city with Tina. So I asked her if she wanted to ride with me.
+
+So selfish! I could have gone alone, and now she was hurt and probably she had her arm broken or maybe even her neck and she would never walk again and it was all my fault and I—
+
+Tina groans and rolls over. There’s red on a white canvas, shimmering in the light of the rising moon. So much blood! Okay, actually, not that much, but more than I have ever seen in my life!
+
+“I’m okay, Sam,” she says, and looks up at me with wide eyes. She pronounces it ‘Säm’, German, like my father, which is one reason why I always liked her.
+
+“Does it hurt?” I ask, because nothing else comes to mind and I feel like talking will help.
+
+She just shakes her head, but I get closer anyhow, trying to make out where the blood is coming from. It’s hard to see anything. She groans again and fumbles with her anorak, trying to find something in one of her pockets.
+
+“Don’t move,” I tell her because that’s the thing people always say in the books, but she ignores me, until I grab her hand to keep her still and search her pockets myself. I come away with a small, pocket flashlight. The kind with a small crank that you have to turn to power it. The snow muffles all sound, but the silent whir of the trafo stirs in the dark, and soon we are surrounded by a small island of light.
+
+Tina’s wound isn’t all that deep, just an ugly scrape on her knee. I try not to look at it and focus on her face instead. It’s much prettier, anyway.
+
+Then she tries to get up. She gets about 10 percent of the way before she winces in pain and stumbles. She falls forward, on top of me, pushing me into the snow.
+
+“Scheisse,” she says, and I feel my face grow hot.
+
+“Princesses don’t talk like that,” I blurt out, and immediately regret how much I sound like my mom.
+
+“Yeah they do. Especially with no princes around,” she tries to joke, but I can tell she’s still in pain. It’s written in the corners of her eyes, and the furrow of her brow, and the subtle quiver of her mouth.
+
+I begin to feel really weird, and there are a lot of thoughts in my head that make very little sense, so I gently push her to the side, get up, then offer her my hand. She takes it without hesitation, and I carefully pull her up.
+
+Tina chuckles and drapes her arm over my shoulders to support herself. She’s definitely limping, and her front wheel is bent, but when I rewind the tiny blue flashlight to guide our way, its light falls on the Mömbritz village sign almost immediately.
+
+“Great,” she says with a bit of chargrin. “Trashed my bike only five meters away from home.”
+
+It’s true. She lives close. Something clenches in my stomach.
+
+“At least we don’t have to walk far.” I say. It sounds forced, but I don’t know why, until I realize I had looked forward to being her prince, even if just for a short while.
+
+So selfish!
+
+[>>Detected ongoing idle state in THE SOUL][>>Traumatic personality stasis persistent][>>Employing sanity-enhancing countermeasures][>>Searching records][>>all relevant records found]{SCANNING PRE-LOG MEMORY}{REMEFZSFING…}{REMEMBERING}
+
+Date: 20th of August, 2020Location: Jack in the Box, Corner of Strathern St. & Vineland Ave, Sun Valley, CA, United States of America. [>>Replaying Memory]
+
+“Look, I’m telling you I will be back in a month. If it can’t wait until then, someone else will have to handle it.”
+
+I wrestle with my desire to hang up then and there. It’s twenty minutes past midnight, I’m running on nothing but caffeinated soda and surprisingly delicious fries, and the assembled members of the startup I’m here to coach are giving me tired smiles that make me think they’re about done with my shit.
+
+And yet, you don’t hang up on your boss when he wants to discuss a three-billion-Euro merger. Not even if he makes you talk in German so you look like an ass in front of the others.
+
+“Alright,” Holger says, and doesn’t sound like it’s alright at all. “No, no, you’re right. I’ll get Stephan to do it.”
+
+With a barely suppressed sigh that feels dangerously close to a scream, I run my hand over my face.
+
+“Dagger?”
+
+“Not Stephan,” I press between gritted teeth. “He’s just going to… he still needs practice. Send it over, I’ll do it.”
+
+“Oh no, I couldn’t! You’re on your holidays, yes?”
+
+I could correct him. I could tell him that coaching a startup through its first round of investments is not exactly leisure time. But the entire team is sitting around me, watching me talk, and even if I’m talking German, I don’t want to call my experience with them anything but a genuine pleasure.
+
+I give them a quick smirk and an eye roll, indicating the call is about to wrap up.
+
+“What time is it over there, anyway?” Holger asks, and I realize I almost lost track of the conversation.
+
+“Not that late, really.”
+
+“Tut-tut, Dagger! You’re lying to me again. I know it’s past midnight! Why aren’t you taking the time off? You are close to Hollywood! Go to a club, seduce a movie star!”
+
+“Just send me the files, Holger,” I say, carefully scraping past the edge of abrasiveness.
+
+“Are you sure? What about your vacation?” He asks the question as if he really cares about me taking my time off.
+
+“Yeah. Of course. Don’t worry about it.”
+
+“That’s my girl! But don’t spend too much time on it, you hear? I want you to relax.”
+
+“Sure,” I manage not to grunt the word. “Look, I gotta go, Holger. Bis später, ja?”
+
+“Enjoy your vacation, Dagger.”
+
+I carefully press the red “end call” button and put the phone on the table as slowly as I can. Otherwise, I might have thrown it, then screamed, or cried, or both, and that would be unprofessional to the highest degree. I let my hand rest on the phone for a quiet second, to feel its fading heat.
+
+Richard looks at me, then the others, then at me again.
+
+“Hey Sam? The guys and I talked, and…”
+
+Shit, shit, shit. He knows a little German, right? How much did he understand? Have I been too unprofessional? I’m sure I pulled some faces at the very least. I should have gone outside to take the call. I really don’t want them to see that side of me. They have shown me so much patience and respect, more than I have ever experienced anywhere else. And now, they probably think I’m not making them my priority, even though they are paying out of the ass for me to be here.
+
+“Oh, don’t worry,” I say, forcing a smile. “This won’t slow me down.”
+
+He looks at me, confused, and to my right, Suyash makes a sound that might have been a giggle. When I throw a glance in his direction, however, he’s carefully studying the menu over the counter.
+
+“Yeah, of course not,” Richard says, drawing my attention back to him. He’s frowning as he lets the words hang in the air for a second, but before I can say anything, he leans forward. “It’s not your performance I’m worried about. You’re doing absolutely amazing. It’s how you spend your time.”
+
+“I’d never bill you those hours!” I protest.
+
+Suyash nearly chokes on his Mountain Dew. He manages to only spew a little over the table while he’s trying to stop coughing.
+
+Richard looks at me as though I were speaking in tongues, and helplessly motions for Ivan, his CTO, to take over.
+
+He’s a tall man with a big presence to match. If I had been racist, I would have described him as having that Russian intensity. I’m probably the only person in the entire restaurant who can hold his gaze.
+
+“Have you thought about joining us? We have a position open.”
+
+“What position?” I ask.
+
+“Coup.”
+
+“Huh?” I ask.
+
+“Coup!” He repeats, as if that made things clearer.
+
+Richard groans. “Ivan. For the last time. It’s pronounced see oh oh.”
+
+“Huh?” I ask.
+
+“Thank you,” Ivan drawls. “But I prefer it my way.”
+
+“Okay Ivan, you really need to stop quoting that movie,” Suyash chimes in. He’s wiping the table with a napkin, cleaning his spit take.
+
+“Huh?” I ask. Again.
+
+Then it sinks in.
+
+“The Nick Cage one. The one where he plays the arms smuggler. You know, Lord of W—” Suyash pauses his wiping to stare at me. “Jesus, Sam! Are you crying?”
+
+[>>Detected ongoing ideal state of the mind][>>Traumatic personality stasis prominent][>>Employing sanity-saving countermeasures][>>Searching records…][>>Relevant records found]{SCANNING PRE-LOG MEMORY}{REMEFZSFING…}{REMEMBERING}
+
+Date: 19.10.25 AA / 4254 LTCLocation: Unspecified Cave. Three days of foot travel east of Trader’s Rest.[>>Replaying Memory]
+
+I don’t know how they found us. I don’t know what I have done to deserve this anguish. I don’t know why Zurne, the youngest of us, has to go before me.
+
+I am hungry and tired, having shared my power armor with the others over the last couple of weeks to save on food. Olre usually skips his turn, says he’s scared of needles, but everyone knows he still doesn’t trust tech as much as the rest of us. Lorelye had her turn yesterday, and as usual, I had to stop her from driving the power core to its limits. Today it was supposed to be Zurne’s night. He is the newest in our group, only joined during the march on Veltruvia. As our retreat began, he was the one who complained the loudest at first, but after weeks of traveling with us, he’s simmered down. I was pretty sure he just got quiet because he was as tired as the rest of us, but sometimes I wondered.
+
+Now I will never know.
+
+The armor is gone, shattered to pieces by a powerful hexbreaker array. Zurne’s lower body has gone with it. I have a Regen Suite, and he doesn’t, but I can’t give it to him and I feel useless and like giving up.
+
+There is fire everywhere, and Lorelye’s manic laugh fills the air. The sound battles against screams of pain and confusion, and it’s winning. I barely pay it any attention, straining as I am to hear Zurne’s dying words so I can sear them into my heart. Anything to use up this burning anguish. Anything to make it go away.
+
+“Invisible… They…”
+
+“We know. Lory’s got it handled.”
+
+He swallows. I know it’s the last time. He looks at me as though he just realized that, too. There are words bubbling on his lips, but he shakes his head, intent on taking them to his grave.
+
+“Say it,” I urge him. I need to hear, so I will never forget.
+
+“I am so sorry…” he says, and I want to scream, but I press my lips together so hard it hurts. Not that it hurts enough. It never does.
+
+“I am so sorry for being so selfish,” are Zurne’s last words.
+
+I rest his lifeless torso next to the fire. To keep him warm. He needs to be warm. He needs to rest.
+
+Then I get to my feet and ignite my Torch because someone has to make this damn screaming stop.
+
+Later, Lorelye cleans the blood of her chakrams, but her eyes never leave Zurne’s remains by the fire. Not even a hint of a smile remains on her face as she sheathes her weapons, walks over to the kid, and pushes him into the flames. There is a certain rigor to her motions, a barely restrained spasm, and I recognize it from earlier. She’s doing all she can not to laugh as the flames engulf our last companion.
+
+Then she gets up, still shaking and schooling her features with so much effort it pains me to look at, and wraps me in a hug.
+
+If my heart were still a place where emotions could live, I probably would have been surprised. Then again, it is logical. We are alone, after all. Olre has been taken. Earlier, in the fight. At the start, really. Probably to wherever Underbrook and the others are held. If I were honest with myself, I’d know they aren’t alive anymore, so I keep lying to myself and wrap my arms around Lorelye a little tighter. It’s no good. Touching her reminds me that I will have to let Patti know that I allowed her brother get tortured to death.
+
+Eventually, the assassin disentangles herself, and her eyes find mine, intense as always. Her grin widens so much, I am sure it hurts.
+
+“You are going to get revenge, yes?”
+
+“Yeah.”
+
+“Promise, Torchbearer. Promise me you will make them pay for what they did to us, no matter what.”
+
+“I promise.”
+
+Lorelye barks a laugh, loud and wild and raw.
+
+“Good. Don’t break it. The promise! I will have to kill you!”
+
+She laughs again. After a few seconds of that, the laughter crescendos into screams and she breaks, and for the first time since I have known her, I witness Lorelye crying. She keeps laughing, of course, but the tears are streaming down her face, nevertheless. I guess everyone has their limits, and no mask outlives a friendship uncracked.
+
+So I pull her close again, and she lets it happen.
+
+After all, there is no one left to witness her painful sobs, or how they finally shatter her facade to pieces.
+
+A moment before I opened my eyes, I remembered dreaming.
+
+I remembered dreaming of making friends.
+
+I remembered dreaming of losing them.
+
+Then the muted roar of rotor blades rose in my awareness like an oncoming storm, and its looming presence chased all dreams from my mind. After a few tired blinks, my eyes focused and I saw that at some point during my nap, we had risen above the clouds.
+
+Instinctively, I knew that we had crossed the digital border between our Domains, even before a readout manifested in my conscience. Through the black frame of the window, I watched as we sunk into an endless expanse of white.
+
+Unlike before, the information didn’t feel like being typed into my brain with a keyboard, or even a typewriter. As the words drifted in, left an impression, and went, I thought I heard music; a lonely soliloquy played in front of an open window in a street beyond sight.
+
+There were words there, information living in the silence between the notes, but no matter how much I strained, I couldn’t grasp it. Fortunately, I had memOS for that. There was a spark of activity, and then the soothing rattle of a mechanical keyboard underlaid the song, giving it meaning.
+
+[>>Attention GUEST. You are now entering DJ’s Domain.][>>Welcome to Musington Dale. >>This is a groovy Domain, so don’t cause no trouble, alright?{AMMENDMENT BY ORDER OF [REDACTED FOR DOMAIN SECURITY]
+
+The owner of this Domain does not believe in violence. Local jurisdiction applies to all GUESTS and USERS.
+
+MDPD.crpt has detected and restricted the following programs:Pharus.exe (c.f. 1.1: Electronic Warfare Suites)
+
+-As a GUEST, you may not install software of any kind on other devices without their prior consent.
+
+Nexus.exe (c.f. 4.2.: Data Transfer)-As a GUEST, you may not invite third parties to this Domain.-As a GUEST, you may not incorporate third parties into arrays.
+
+Ardor.exe (c.f. 4.1.: Access to Databases)-As a GUEST, you may not scan other devices connected to this Domain.-As a GUEST, you may not access the directory of this Domain.
+
+Lares.exe (c.f. 6.: Domain Sovereignty)-As a GUEST, you may not alter this Domain’s Pseudophysical reality.
+
+Cura.exe (c.f. 9.: External Communications)-As a GUEST, you may not overlay this Domain’s Pseudophysical reality with your own. You may alter your own Render of this Domain, except for illegal purposes.-As a GUEST, you may not access this Device’s external sensors.-As a GUEST, you may only access limited bandwidth on LAWRENCE.
+
+Oris.exe (c.f. 15.: Energy generation, consumption.)-By decree of the acting mayor, all {LOGIC} is being rationed. -Local authorities have the sole right to confiscate and redistribute {LOGIC} within this Domain.-Bypassing this law, attempts to bypass this law, or the suspicion of bypassing this law in any way, shape, or form are punishable by up to {ENDLESS} years of imprisonment, {DPM ERASURE}, or {WORSE.} }
+
+>>Parties are [CANCELED UNTIL FURTHER NOTICE.] Come find us at [REDACTED FOR DOMAIN SECURITY] and have a good time!
+
+>> If you got any problems at all, just talk to some of the cats on the neighborhood watch, alright? They’ll get you sorted.
+
+>>Enjoy your visit in Musington Dale, homey. Stay as long as you like.]
+
+Alright, this could have been a lot worse. It had been obvious that I, as an unauthorized user, wouldn’t be able to just do whatever I wanted in this place. Still, while there were a few odd implications in the message that I would have to check for myself once I landed, at a glance, it seemed as though I could probably make this work.
+
+Pharus being restricted sucked in an of itself, but there was something something about the wording that gave me pause. It hadn’t said anything about electronic warfare being banned, just installing software. That meant I wouldn’t be able to mark enemies, which would be annoying, but not an insurmountable problem. Even if this change rendered Pharus unuseable, there had been no mention of Manus, after all.
+
+The rationing of the Logic was the bigger problem. I never assumed I’d be able to make a fortune here, considering how this Domain was the likely culprit for the no-Logic zone on my lawn. To be honest, I thought I wouldn’t be able to get any Logic at all, and have to make frequent trips back home. This was still bad, but more annoying than anything.
+
+There had been a brief moment of panic when I read Nexus was being restricted. Since I wasn’t currently plummeting to my death, however, the restrictions weren’t absolute. That gave me another clue as to the nature of the restrictions. It seemed that unless something was banned explicitly, it worked as usual, but time would have to put that theory to the test.
+
+I tilted my head, frowning as I skimmed through the message again. This wasn’t exactly a warm welcome, but it was far from the most hostile I’d ever received. If anything, it almost read like a public service announcement, the kind you’d find on posters at the airport. ‘Don’t bring foreign fruit or plants into our country!’—That sort of thing. I’d expected something different from a Shackled Domain. A lot more tortured screaming, for starters.
+
+That left me with one question as the helicopter sank deeper into the clouds.
+
+What would a Shackled Domain even look like?

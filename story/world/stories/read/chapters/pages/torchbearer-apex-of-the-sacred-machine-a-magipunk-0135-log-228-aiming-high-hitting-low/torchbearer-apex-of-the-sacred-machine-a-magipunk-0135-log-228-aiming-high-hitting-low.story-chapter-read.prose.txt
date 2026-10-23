@@ -1,0 +1,141 @@
+{Loading…}{Loaded.}
+
+[>>Now replaying: Log 2.28 - Aiming high, hitting low]
+
+Date: 20.9.175 AA / 4404 LTCLocation: DJ’s Domain // Musington Dale NorthRemaining Logic: 6635 LB
+
+//Gotta aim for higher love—//
+
+//If at first you don’t succeed…//
+
+[>>DATA CORRUPTED]
+
+With a radiance so bright nary a trace of blue remained, the force of my advancement washed the shadows from the twisted, broken architecture of the Breach. Latirae’s beacon flared in response, and I could feel her draw redoubling.
+
+I cursed, spared a quick glance at Manus, now shaped like a large revolver, then holstered it and dashed in the direction of the crimson beacon.
+
+I didn’t know if it was instinct, or an undiscovered subroutine, but I could tell that despite Latirae’s efforts, my own draw was as significant as hers. Unfortunately, that meant that not ten seconds after the bellsong of my Wish had faded, the first Feral dashed around a corner ahead. And it had brought friends.
+
+So far, so stressfully mundane. These were definitely not the Ferals I remembered, though.
+
+I’d expected the usual. Mutated animals, some cybernetic parts, perhaps a few more esoteric monsters. Maybe a guy or two wearing a suit of orange crystal.
+
+I certainly was not expecting fucking Zombies. And they weren’t even the slow kind, either. Within seconds of spotting the first one, a dozen humanoid figures had poured out of nearby alleyways and were charging toward me at ridiculous speeds. As they came closer, gruesome details revealed themselves. Their skin was sloughing off their muscles where they still clung to their bones. The muscles themselves were torn and ragged, spilling out of wounds that should have made movement impossible. A sinister red glow shone from within their mangled bodies. It glared at me from behind empty eyes, roiled hungrily from their savage mouths, and screamed from dozens of gruesome tears in their flesh. The light clung to their injuries, holding their desecrated corpses together for one last act of cruel devoration, while it screamed whispered promises that just by taking a little bit more, they might become whole.
+
+As I pulled Manus from its holster, I tried Ardor to check which one I should focus on, but it only returned an error message. That was a shame, but in the end, it didn’t matter.
+
+They all had to die anyway.
+
+There was only time to briefly admire Manus’ sleek new form and to make sure all six chambers were loaded, then I aimed it toward the enemy. I was still far from a gun expert, but considering the size of its barrel, I thought it wise to hold the revolver in both hands, square my shoulders, and set my feet. It would render me immobile, but that was still better than having the recoil knock a few pounds of metal into my face.
+
+I took my time to aim at the first Feral. There was no need to lead the target. It was charging straight at me, both eyes and mouth wide with crazed hunger. When I pulled the trigger, Manus’ muzzle flashed bright blue, it barked an echoing bang, and split second later a plume of Logic exploded from the zombie’s chest. The impact knocked it off its feet and launched it through the air for several meters. It landed on its back, where it slid another meter. Then the damn thing tried to get up again, so I shot it two more times. With growing relief, I noticed that despite the size of its barrel and ammunition, Manus’ recoil was far easier to handle than I’d assumed. Sure, every shot spiked my CPU usage, using pure strength to compensate for the recoil (my system had stenciled the readout onto the top of the gun,) but if a little sweat meant I could run while shooting, I’d take it.
+
+Fortunately, while reloading wasn’t simple, at least it was easy. First, I cracked the gun open, and the spent casings ejected, trailing cyan smoke. Then I breathed into my free hand, and manifested six fresh bullets, conveniently arranged in a sort of cylinder. After that, all that was left to do was jamming them into the gun and snapping it closed. As with Manus’ last iteration, it took me a couple of tries to get into the groove, but when it clicked, it clicked. Within two iterations, I was able reload on the move, albeit clumsily. That bought me just enough time to smoothen the process without getting distracted by rotting teeth tearing at my face.
+
+As routine kicked in, my movements became more fluid, and soon I was able to dance around the edges of the Havoc, and just in time. Hitting the damn fuckers was harder than it seemed. Why did they have to be so fast? There was little risk of missing completely, at least. If it hadn’t been for my acrobatics, I would have been buried in Techno-Zombies in less than a minute. Fortunately, their herdlike behavior meant they clustered up nice and tight for me, and before long I found myself shooting terrifying fish in a ruined barrel.
+
+It took either one headshot or two to three body shots before they died, however, and therein laid the problem. In my hurry to keep from getting mobbed, I struggled to hit the same target twice in a row, let alone land headshots reliably, and those extra bullets tallied up quickly. After a couple of reloads, I vowed to add a shooting range to my Domain as soon as I got out of here. As it was however, I was burning through my Logic reserves faster than a startup spent VC funding.
+
+Even with a ludicrous burn rate, however, I still wasn’t killing the Ferals fast enough to break through their push. Less than a minute had passed since I’d challenged Latirae’s call, and I was already drowning in a tide of the cyber-undead. There was no telling how many Zombies still stood between me and the Crimson Lady, and without any idea how many Ferals had connected at our combined calls, it was hard to tell my odds of reaching her before she sneaked away. If she escaped, I’d be stuck in this damn Domain, waiting for her to send wave after wave of rabid zombies while I starved to death. I didn’t even have a place to stay, and I hated sleeping in hotels.
+
+I’d have to push through, and for that, I’d need more ammo.
+
+The Ferals I killed at the start of the battle had begun to dissolve into pools of neon-blue blood. It resembled mud more than water, all sticky and slimy, yet radiating the usual power nonetheless. The Zombies paid it no attention, though. Perhaps compared to the Logic I’d just pumped into the aether, it was like sand under their feet. Perhaps they were as disgusted as I, and hoped I’d make for a cleaner meal. Unfortunately, I couldn’t afford to be as picky. Waste not, want not, and all that.
+
+With a burst of speed, I drew the Havoc away from the pools of Logic. When they were all clustered up, I vaulted over the remains of a wall and through a ruined house, then dashed back the way I’d come. I began pulling as soon as I came into range of the Logic. Before my will made the blue liquid so much as twitch in my direction, however, a warning stenciled itself across my awareness.
+
+[You do not have sufficient permissions to access this resource. Please contact a local administrator for permissions and/or sanctions.]
+
+I cursed as I dove behind a corner to reload my gun. As my fingers danced through the increasingly familiar motions, I tried not to think about the quarter thousand LB I just spent.
+
+Damn, but not being able to harvest Logic in here threw a big, nasty wrench into my plans. I was scared to do the math, but it was obvious that without a way to refill my rapidly dwindling reserves, I’d be dead in the water before too long.
+
+So the next time I raised my gun, I took the time to aim properly. Another loud bang echoed through the street, and a zombie’s head exploded in a satisfying shower of gore and cyan light. I tried to repeat my feat, but the zombies had already closed in, and I had to reposition if I didn’t want to end up as a snack.
+
+The next minute was spent running and gunning. The more time passed, the bigger the havoc became. The bigger the havoc, the faster I had to go to not get surrounded. The faster I went, the worse my aim became. Finally, when a zombie tried to jump-tackle me from atop a ruined car, there was no time to aim at all. I just raised Manus and emptied the gun as quickly as I could in a desperate attempt to avoid getting pinned.
+
+The first shot missed, but the next two hit the zombie in the chest and arrested her momentum. She hit the top of the car in a heap of sludgy Logic and broken limbs, but I didn’t even have time to make sure I’d killed her. This wasn’t working at all.
+
+With a curse, I stopped in place, and reloaded one more time. After weeks of risking my life in melee combat, I’d hoped to take a safer, more calculated approach. It seemed I wouldn’t be able to avoid a bruised, scraped, and gore-covered future, after all. Not if I didn’t want to bankrupt myself.
+
+Oh well. Manus wasn’t the only recent addition to my arsenal, and like the bulk of my programs, the other upgrade had been designed to get me through the exact situation I just found myself in.
+
+As the zombies closed in, I willed Simulacrum to activate. With a sudden spike of CPU load, blue fire blossomed all over my body. When I strode to meet the horde, the flame washed off my shoulders to form a flickering, hazy, clone. It followed me into battle without question.
+
+Even thought the Ferals wasted no time to try and bury me, Simulacrum worked even better than I remembered. Now that I could pay attention on learning how the program worked, my appreciation actually grew by the second.
+
+In short, it was the best sort of decoy, but that wasn’t all. There was something about its blue glow that must have been the equivalent of catnip to Ferals. While some of the stronger zombies managed to resist my bright shadow’s allure, the bulk of the Ferals focused on it like a bunch of shareholders focuses on a PowerPoint slide with a red number on it. Unfortunately, my copy could only withstand so much punishment, requiring me to reform it with another burst of CPU every once in a while. Still, every claw that slashed through cyan flames was one that didn’t slash through my coat, skin, and/or flesh. As a result, my readouts stayed surprisingly low even as I waded through a meat grinder of cybernetically enhanced Zombies.
+
+[DPM integrity]▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ 100%
+
+{CPU Load: ▲ 65%}{Core Temp: ▲ 71° C}
+
+As I dodged a rotting arm that swept through a freshly reformed Simulacrum, I shifted Manus into my left hand and pulled Pharus out of its holster. There was barely enough time to register its form in this Domain (still a flashlight, but old-school) before I had to use it to cave in the skull of the charging zombie. Cyan blood shot out of its ears, mouth, and eyes, as its head deformed around my weapon, spattering my clothes with sticky, bright-blue gunk.
+
+Great.
+
+In the few minutes that followed, I tried to remember how to use ranged weaponry in close-quarters combat. I could draw on the time I’d spent fighting entire armies in my power armor, but bringing a gun to a fistfight wasn’t the same as firing a wrist-mounted plasma launcher at a dragon. Hand-eye coordination also wasn’t nearly as easy without a magitech heads-up display and thaumaturgic targeting solutions. I remembered the basics well enough, though. Soon, I was dodging and blocking strikes with my Torch while blasting heads with Manus, and while I dearly missed my plastisteel armor, Arx was more than a decent replacement. Better in most ways, really. Lighter, for one, even though I still wasn’t used to seeing cloth withstand claws that could slice a streetlight apart. Simulacrum also kept proving invaluable, and even though stronger Ferals seemed to be able to rip their attention away from it if I left them alive for long enough, the new program reliably kept the chaff off my back.
+
+Beyond that, I began to realize some untapped potential in my cyan shadow after a few minutes in close combat. Because it followed my every movement like a time-displaced clone, my opponents’ movements became far more predictable. It was as though we were fighting in a future only I could see, while my enemies lagged behind by a few crucial heartbeats. There was more here, I knew, especially after some upgrades. But even as it was, it gave me an invaluable edge, which I seized without hesitation.
+
+Being able to predict the Ferals’ movement allowed me to decimate their numbers with quick, precise blows with the Torch. With the breathers that bought me, I tried to take down larger zombies with Manus before they could come close enough to disperse my Simulacrum. This strategy soon paid devastating dividends, and I tore through the havoc like cold revenge incarnate, and quickly gained ground.
+
+Getting closer to my targets had definitely helped my aim. I landed most shots now, but as always when fighting Ferals, the first ones to arrive were also the ones with the lightest DPM. Within another couple of minutes, bigger, heavier, and uglier zombies joined the horde, and they took an increasingly ridiculous amount of shots to kill. When I emptied an entire magazine’s (Clip’s? Chamber’s?) worth of bullets into a particularly big zombie without it going down, I knew I had to change tacks, even before the Feral blew apart Simulacrum’s shadow in a single blow.
+
+While the number of enemies was nothing compared to the apocalyptic hordes I’d survived in my Domain, there were still more than enough to overwhelm me. Using Manus as a finisher was fine in theory, but even up close and with every shot landing, it took far too long, and was far too costly. If I kept going like this, not only would Latirae slip away for sure, I’d also go broke before I was done with this Havoc.
+
+I was just about to retreat to holster Manus and take a more methodical approach with Pharus when I noticed that Latirae’s signal had begun to dim. I cursed and holstered Manus, anyway. There was no way I would make it through the Havoc in time without going broke.
+
+As the pillar was about to vanish completely, however, I decapitated a zombie that had tried to bite into my fuzzy cyan clone. As its head tore from its shoulders, the impact jolted my grip, and my thumb grazed the button on Pharus’ handle.
+
+If I played it safe now, I’d miss my chance. In this Domain, I’d never be this strong again, and Latirae never this weak. The change in her patterns had to mean she was desperate, and I had just updated Manus. Chances were that she wouldn’t be able to survive six shots in rapid succession, and even if she did, she wouldn’t know where to run.
+
+I just needed to reach her in time. That meant updating my RAM, which was overdue anyway, but I also needed more power that wouldn’t cost me an arm and a leg to use. I gripped Pharus tighter, and only wasted a quick thought on what had happened last time I’d ignited it with Latirae close by. Success would be worth the risk.
+
+Besides, she was powerful, but she was just a Feral. Mindless and greedy. She always answered a call for a call. Every second she stayed, trying to wrest Logic form me meant more time to bring her down.
+
+I inhaled and focused on my frustration. She had almost ruined two Domains and threatened the lives of countless people, chief among them three kids I’d promised to protect. My Wish churned, an ocean of power meeting molten fury. I screamed defiance, and as cyan light pierced the sky and righteous bellsong swept over the Havoc, the Logic went to work.
+
+{CONSUMED LOGIC - 900 LB}{AVAILABLE LOGIC - 5735 LB}
+
+{Memory: 200 LKB RAM} (G1/T1)IS NOW {Memory: 500 LKB RAM} (G1/T2)
+
+{CONSUMED LOGIC - 1200 LB}{AVAILABLE LOGIC - 4535 LB}
+
+{[Pharus, Wrath of the Torchbearer] v. 1.5 - Electronic Warfare Suite (G1/T2)}IS NOW{[Pharus, Wrath of the Torchbearer] v. 1.79 - Electronic Warfare Suite (G1/T3)}
+
+{[Pharus, Wrath of the Torchbearer] v. 1.79 - Electronic Warfare Suite (G1/T3){A simple Electronic Warfare Suite designed to breach targeted computer systems. The strength of the attack determines CPU load, with more frequent or sophisticated attacks requiring more computing power. Updating this program expands the library of electronic warfare routines, increasing attack potency.
+
+Required CPU load: Varies, min. 5% at current CPU quality.
+
+Required RAM: 35 LKB
+
+>>Patch Notes:1.79 - Updating this program further decreases the file size of the signature payload, allowing for faster application and less strain on the host CPU.}}
+
+{Memory: 205/500 LKB RAM}
+
+Even though it would have been satisfying to sweep the Torch through a horde of Zombies, I didn’t extend Pharus before igniting it. As hot as my anger may still have boiled in my heart, I didn’t have a death wish. A horde of empowered Ferals of this caliber would have spelled trouble even with Manus and Pharus at hand, and my RAM and CPU advanced to their current levels.
+
+Unfortunately, I was right to be cautious. Latirae’s pillar hadn’t reappeared, and I’d already gotten my hopes up, but the second the flames projected by the flashlight hit the nearest zombie, a flash of red sparked in the distance. Before I could even blink, my would-be victim’s skin crackled with lightning, and he’d dodged my blow.
+
+He didn’t dodge two rounds of Manus to his chest, but my frustration reached levels usually reserved for calls with my ex boss. All that precious Logic I’d spent, and I still wouldn’t be able to reach the goddamn crimson Lady in time. I had to step back as I wrestled with the urge to extend Pharus anyway and lay into the horde. Why not simply let it all out, for once?
+
+I wished I had the time to pinch the bridge of my nose. Or maybe cry a little in frustration. Or both. Both sounded good. Maybe I could also have some hot chocolate and a cozy blanket. Maybe Chris could sit on my lap, and I’d read a nice book. Oh! Or watch a show! I’d love to watch a show.
+
+I greeted the horde of Zombies with a hearty choice of expletives. They didn’t even have the decency to feign empathy, just murderous hunger, so I fanned Manus’ hammer, unloading indiscriminately. I scored three headshots out of six, which was nowhere near as good as a bowl of popcorn and an episode of Shark Tank, but took the edge off my frustration either way.
+
+With my thoughts calmed a little, however, I realized that I had just paid more than a day’s worth of resources, and forced myself to holster Manus. Instead, I kicked a zombie away and thumbed the button that would extend Pharus.
+
+To my surprise, the long flashlight came apart in the middle instead of the head. A quick twist left me with two cylinders of metal, connected by a length of chain.
+
+“Willst du mich eigentlich verarschen…?”
+
+Nunchucks. This fucking Domain had turned Pharus into goddamn flashlight nunchucks.
+
+At least the new chain extended and constricted at will, which allowed me to vent my frustration to my heart’s content.
+
+Several grueling minutes later, I reached the site of Latirae’s call, and immediately knew I was too late. Aside from even more Ferals—all pushing in my direction with rapacious glee—there was nothing left but a charred crater, dominating the haggard ruins of a city block.
+
+“Fuck!” I cursed again, blasting two holes into a hulking Zombie trying to grab me in a bear hug. It staggered until I stabbed the blunt end of my Torch into its chest with enough force to shatter ribs and crush hearts. It was dead before it hit the ground. Seeing the Logic gush out of its wounds just soured my mood even more. I was down thousands of LB, and I had absolutely nothing to show for it.
+
+To keep my thoughts from spiraling, I told myself that it wasn’t as though my time had been wasted. The Havoc had needed to be culled either way. Still, it stung. I emptied the remaining chambers into the charging horde to score two kills, then swung Pharus to create some room to reload yet again. Before the empty shells had come to a clinking rest, I’d already slammed Manus’ barrel back up and resumed the dance.

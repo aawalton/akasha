@@ -1,0 +1,157 @@
+{Loading…}{Loaded.}
+
+[>>Now replaying: Log 2.17 - Logical Countermeasures]Date: 18.9.175 AA / 4404 LTCLocation: UNNAMED_DOMAIN(LARES)Remaining Logic: 810 LB
+
+//Fighting Fire with fire is, in many ways, the only logical approach.//
+
+[>>DATA CORRUPTED]
+
+The dark incursion of steel and flesh undulated as if it were alive, twitching and spasming as it grasped toward my home. Still more Ferals poured from the forest and ran to their doom, only to make way for stronger abominations, that got just a little farther…
+
+But the stream was beginning to ebb. Soon, the beasts would begin to merge again, and eventually birth a horror I couldn’t beat.
+
+My recess was over, and it hadn’t been nearly long enough.
+
+{CPU Load: ▼ 62%}{Core Temp: ▼ 79° C}
+
+I wished I could take just a few more minutes to recover, but I couldn’t risk it. The invisible force defending my home was still working, but only barely. It didn’t matter how or why it worked, if the kids had some artifact that kept them safe, or it was some hidden, intrinsic ability of my Domain. Either way, if it broke, all of us would die.
+
+I didn’t know why I still needed to sleep, but I did, and there was no way Pina alone could stem the tide of machines every night and march during the day. Eventually, she would collapse, and Tin and Voni would be defenseless, except for me, and eventually I, too, would break. I still didn’t want to get attached, but the fact of the matter was that the way things were now, I needed them as much as they needed me if we wanted to survive.
+
+Not that they would ever know that unless Pina pulled her Hexbreaker baton out of her ass and gave me a goddamn call. Then again, what was I going to tell her? Oops, I tried to get strong enough to get the hell away from you, and I accidentally broke whatever force was keeping you safe?
+
+My finger itched toward the button that would ignite Pharus, but I restrained myself. All getting angry would do was make mistakes, and I didn’t want to be a woman that let others pay for her mistakes. Not ever again.
+
+So I wrapped my fingers firmly around the handle and took a deep breath, then assessed the situation once more.
+
+While the Ferals’ advance had stalled, the strength of the few that did push forward still was enough to keep the breach alive. As my eyes swept over the gathering havoc, a vision of a stampede flashed through my mind. In an instant, I imagined hundreds of much stronger monsters surging toward the house, driven forward by the only thing they feared: hordes of their own kind, even stronger and more nightmarish than themselves.
+
+Their focused assault would overload what little strength the protections could still muster. We would be defenseless before what came next; A tsunami of creatures able to drive terror into flesh and machine alike, cresting over my Domain, and crashing over three children in the Real.
+
+I couldn’t let that happen.
+
+{CPU Load: ▼ 51%}{Core Temp: ▼ 76° C}
+
+No more respite.
+
+With Pharus held low and my armor frayed at its edges, I dashed back into the fray.
+
+As was to be expected, the Ferals that had survived the reckoning of their vanguard were strong enough to give me trouble, despite my upgraded CPU and Arx. I could handle a couple at once, but three was pushing it. At times, even one was enough to make me work for it. They took several hits before they died, and worse, they didn’t even yield any Logic. While their corpses remained littered on the churned mud that used to be a meadow, their Essence still dissipated into thin air before I could try to absorb it.
+
+It was like the world’s worst gardening service, taking my money and still not taking care of the trash on my lawn. Though, I corrected myself, that was hardly fair. I would be long dead without my invisible security service. Even as irregular as its attacks had become, it was still invaluable, thinning out the havoc so I could keep up my advance.
+
+Still, they could at least have left me a little. I was taking far more hits than before, and each one smarted like a motherfucker. I had no doubt that a few days ago, I wouldn’t have stood a chance against these models. Not only were they smarter, faster, stronger, their designs had also changed dramatically. Whereas the earlier Ferals mostly had resembled regular (if mutated) woodland animals, the ones I was facing now increasingly resembled creatures straight from Grimm’s Tales.
+
+Werewolves—more animal than person, more machine than flesh—darted over the blackened scar like ninjas in one of those Asian cartoons, and they were my smallest problem. They were strong and quick, sure, but not as big as the tree-monsters shambling out of the forest behind them, or as nimble as the fucking clouds of pixies trying to swarm me at every opportunity.
+
+I let the meadow deal with as many Ferals as possible and took care of whatever remained, never forgetting my goal, always pushing forward. Finally, after dodging one tree’s lumbering swing and hamstringing them with a two-handed strike that left splinters flying everywhere, I arrived at the edge of the forest, and immediately knew I was fucked.
+
+It was clear I’d have enough work for days, long before Ardor even hit the edges of my Domain. In the twilight of dusk, the forest glowed neon red as far as the eye could see. When the pulse returned, it carried even darker portents.
+
+With a pained grimace and no hesitation, I pushed on, even as the havoc began rushing toward me like water into an open drain.
+
+The next hours were measured in flashes of red, strobing pain, and the hectic blinking of critical alerts. Arx gave up about twenty minutes into the fight, but I had no such luxury. I managed to absorb most of the Logic before the Ferals could and so raised my available LB to frankly absurd amounts, but I also expended it at a ludicrous rate. With Arx offline, pumping a steady stream of Logic into every wound I took was my only way to stay alive.
+
+It was one of the most dangerous gambits I had ever taken in all of my lives. If too many Ferals could hit me before I could heal, or if the flow of Logic cut off for any of the thousands of reasons I could imagine, I was dead. It was a nerve-wracking, exhausting, maddeningly delicate balance at the precipice of my doom, and yet I could find no other solution.
+
+Each strike I took was another chance for the defenses to regain their strength, and without it, I would never fulfill my promises.
+
+I couldn’t give up.
+
+After the second hour, the Ferals began to merge. I tried wading through to the first cluster I saw, but it was simply impossible. There were dozens of machines between me and the savage pile of Ferals tearing into each other. I’d never get there in time. So I prayed that the meadow had enough time to muster itself, feinted, then dashed out of the woods.
+
+As I had predicted, the Ferals followed me immediately. As I had hoped, invisible explosions tore them apart immediately. As I had feared, still far too many of them survived.
+
+After pumping another 400 LB into my most worrying wounds with a silent curse, I skirted the edge of the forest until I found the closest spot to the gathering amalgamation, then dashed straight back in. I made it just in time to crash Pharus into the roiling mass so that it died before it could finish forming. However, the Ferals witnessing the carnage backed off in fear, then started looking at each other with growing hunger.
+
+“Fucking no you fucking won’t, you fucking fucks,” I breathed, sweat dripping from my chin.
+
+{CPU Load: ▲ 95%}{Core Temp: ▲ 89° C ⚠}
+
+But even as I put all my reserves to bear to break up the gathering circle, I knew it was over. The remaining Ferals were far too smart to fight me head on. Why risk it, when there were so many morsels around that were so much easier to kill? I, on the other hand, was nearing my absolute limit. Even though the ridiculous amount of Logic I kept cycling through my body healed my wounds in seconds, it did nothing to combat my mounting fatigue. Simply put, if I kept fighting here, I would die of exhaustion, and that wouldn’t accomplish anything.
+
+I finished off a couple of Ferals that looked like a mystical frog and a grenade launcher had made ugly babies, then began my retreat. My heart ached as I saw more and more Ferals start to fight among themselves. Why couldn’t I absorb Logic as efficiently as they could from each other? There was no point in bitching about it, not that I still had energy left to bitch.
+
+The one upside was that my efforts had worked. I couldn’t be sure, but I thought the black scar on the meadow had already shrunk considerably as I stumbled over it. When I finally collapsed in a heap, I managed to gather enough strength to prop myself up on my elbows, just in time to witness another Feral corpse disintegrate.
+
+I let myself fall to my back and focused on taking deep, steady breaths, and took a moment to check my Logic reserves.
+
+{AVAILABLE LOGIC - 4214 LB}
+
+Holy crap, but that was a lot of Logic.
+
+Even with the meadow repairing itself, there was no guarantee it would be able to handle something as dangerous as the Hunger in Zephyro’s Domain. And yet, it was only a matter of time until “natural” selection would breed a Feral of that caliber, and it would run rampant in my Domain. Perhaps Latirae would fight and consume it, but if anything, that would only increase my problems.
+
+No, I needed to stop them from fighting each other.
+
+And there was only one way I knew how to do that.
+
+By reminding them of the reason they had come here to begin with.
+
+With surprise and relief still mingling in my heart, I did something reckless and stupid.
+
+On my next breath, I pulled my attention toward that eternal sound echoing deep in my soul. It was deep, and wide, and louder than I had ever heard it before. And yet, its might was not overpowering at all. If anything, this was the careful might of the wind roaring through the forest, rustling a thousand times a thousand leaves to remind the ancient trees of its power, yet harming not a single sapling.
+
+Then I released my lungful of Logic and conjured a tempest.
+
+Please, let it work, please, let it work…
+
+{CONSUMED LOGIC - 1200 LB}{AVAILABLE LOGIC - 3014 LB}
+
+As I kept panting, the cyan motes that hung in the air above my lips vanished, and as the last one disappeared, a pillar of pure blue and white erupted skyward and pierced the clouds.
+
+Then, a bell rung, slow and stern, warning the world of the coming storm.
+
+{SAINTECH Beta 1 2500X 2-Core ProcessorIS NOWSAINTECH Beta 2 4500X 2-Core Processor (Generation 1, T3)}
+
+I closed my eyes.
+
+My new CPU went to work, and I released more Logic into my wounds so memOS and Simulacrum wouldn’t hog resources for passive regeneration. As usual, losing that much Logic hurt more than the wounds I repaired, but the fear of having fucked up hurt even more. But I’d made my choice, and now all I could do was to wait and hope for the best.
+
+My reasoning was that between Latirae and me, we already had called in every Feral for miles around. There simply weren’t any more to connect now, and even if there were, they would be too late.
+
+But I also knew that I could be very, very wrong. I still didn’t know exactly how distances compared between my Domain and the Real. The kids might have noticed the Ferals and taken shelter while I worked to keep them safe, but just as well, they could have kept moving, unaware of the hidden war I was fighting in here.
+
+For fuck’s sake, Pina. Open the goddamn computer and talk to me!
+
+I gritted my teeth and got up. The deed was done. Now the only thing that remained was to face the consequences. I was already cool enough to flirt with Arx’ threshold, which I attributed to my new CPU doing overtime, so I pulsed Ardor to reorient myself.
+
+The world flashed blue, and a dome of cyan spread out far and wide, then returned to me. Once my vision returned to normal, there were good news and bad news.
+
+The good news was that my plan had worked. No new Ferals seemed to be connecting at the moment, and the ones already close by were completely ignoring each other.
+
+The bad news was that they also ignored all common sense and were charging toward me.
+
+While that hadn’t been exactly what I wanted, there was little use crying about it. I hefted my weapon, stepped into the deadlands, and welcomed the fray.
+
+By putting myself between the beasts and the house, I managed to buffer the brunt of their onslaught, but it came at a steep price. I’d barely had the time to cool down, so Arx shut down only a few minutes after the fight began. Now each drop of blood the machines scored took with it a part of quiet hope. I was so close to coming out of this skirmish with enough Logic to keep myself going for weeks, and now it all threatened to come crashing down. It was enough to ignite a spark of anger inside my heart, but I pushed it down, telling myself over and over that this would be the last time I’d have to fight like this.
+
+And against all odds, that promise of safety pushed me to new heights. I was so close.
+
+So I kept fighting. Feral after Feral fell before Pharus’ might. Blood spattered and oil gushed, metal crunched and bent, and red electricity surged erratically between bodies broken and alive.
+
+Eventually, however, the Logic cost kept mounting, so I had to retreat. Once more, the Ferals followed without hesitation the moment I stepped back onto the grass, and once more, the slaughter began in earnest. The defenses had regained enough power to shoot in a steady rhythm again, and so the frontier stayed stable. I allowed myself to rest, hands on my knees, breaths heaving while I surveyed the battlefield.
+
+My new CPU had been far more effective than I thought. I was pretty sure I was able to overpower foes within a second that would have taken me a minute before, all thanks to my new strength, and so I’d torn a decent chunk out of the remaining enemy forces. I checked my readouts, and to my relief, only a handful of Ferals had connected after my most recent pulse. I had been right. My last Wish had called all Ferals for miles, and it seemed there were none left close enough for my Logic to attract.
+
+It would have been much easier to be happy about that if all those Ferals hadn’t already been inside my Domain.
+
+I quickly checked my status, then surveyed the Havoc once more.
+
+{CPU Load: ▼▼ 38%}{Core Temp: ⚠ ▼ 86° C}[DPM integrity]▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱ 62% ▼{AVAILABLE LOGIC - 910 LB}
+
+While my condition was surprisingly good, considering I’d just slaughtered thousands of horrible amalgamations of wild beasts and killer robots, the status of the battlefield was sobering. There were still so many Ferals left.
+
+Worse, the pull of my last advancement seemed to dull. Instead of dashing to their deaths in their craving for my Logic reach me, more and more machines held back at the edge of the treeline. Soon, they would begin to merge again, and this time, there was no way for me to interrupt them. Even with all the kills I had racked up and my lure fading, entire waves of monsters kept crashing into our defenses. There were less of them, sure, but the ones that remained were much stronger. In fact, the dark breach had begun to expand again not a moment after I darted back.
+
+How could I get out of this? The biggest problem was that I couldn’t gain more Logic as long as I had to fight in the scar. I had enough left for an upgrade, maybe two, but then I’d have absolutely nothing left to heal myself, let alone keep the laptop powered. Doing a quick count, I also knew pushing through to get to the forest again was also impossible.
+
+It seemed as if my only options were to either let the Ferals in the back gather their strength, gamble the rest of my Logic on one more upgrade, or to try one last push that would most likely get me killed.
+
+So I was racking my brain, trying to figure out a solution, when a glimmer of indigo at the edge of the trees caught my eye.
+
+I must have overlooked her before, lost in the fight. But once I’d spotted her, it was impossible to pull my eyes off of the crimson lady.
+
+Even as her body shifted in gruesomely violent ways, Latirae stood tall and regal.
+
+And when she noticed she had my undivided attention, she smiled.

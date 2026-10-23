@@ -1,0 +1,129 @@
+{Loading…}{Loaded.}
+
+[>>Now replaying: Log 2.12 - Emergent Properties.pdf]
+
+Date: 13.9.175 AA / 4404 LTCLocation: UNNAMED_DOMAIN(LARES)Remaining Logic: 428 LB
+
+//Many games have what we call emergent properties, i.e. properties that only manifest as the object is being observed or interacted with. This is also the root of the phenomenon called emergent gameplay, which—//
+
+[>>DATA CORRUPTED]
+
+The figure at the center of the devastation—although misshapen and barely human at all—wore an expression I recognized far too well. Boundless, desperate, all-consuming anger rippled over her skin, made it slouch and sag and fall away like slag, only to be replaced by more red-hot meat. That alone would have been enough to make me want to run and never look back, but beside the fact that I couldn’t afford to let that much Logic go, one other thing made me stay.
+
+Her eyes—burning like hateful, dying suns—sweltered with an emotion I’d never thought I’d see on a Feral.
+
+Betrayal.
+
+The hurt in her gaze cut so deep, it sliced straight through my mind and into my heart. It lingered there, staring straight through me as if I were made of so much molten glass, studying me, analyzing my deepest desire and making me feel seen in the best and worst possible ways at the same time. For a brief, agonizing second, the woman—no, Feral—in front of me was me, until her face split apart again.
+
+She rose like hot air off of broken concrete. She undulated, shimmered, twisted, solidified, longed, hated. She opened her mouth. She spoke not a single word, but the hurt in the silence was enough to make me want to retch. I pulled back Pharus. She disappeared. I breathed for the first time in minutes. Something crunched behind me, and I snapped back to reality.
+
+Spinning around in one smooth motion, I lashed out blindly and Pharus connected with a Feral in mid-air. It dropped to the floor, and I was on it in a still-aching heartbeat. My strikes were calm, methodical. I clung to my mace like a raft in a storm. My mind kept combining what had just happened into dozens of different explanations, but none of them fit. I kept fighting, and after I brought the mace down with a final crunch, I absorbed the Logic with the same mindless efficiency, then searched for more prey.
+
+{INCOMING LOGIC - 25 LB}{AVAILABLE LOGIC - 455 LB}
+
+I shouldn’t be distracting myself. I should have thought things through, worked to understand the implications of what just happened. But I couldn’t afford to. There were still Ferals around, and even if not, the second wave would hit soon. Or maybe later? I’d lost all sense of time.
+
+I lost myself in the flow, just kept fighting any Ferals that came close. And come close, they did. I didn’t even need to pulse Ardor anymore. With most of the strongest machines apparently having walked into the light, the rest was a slaughter. Machine after machine rushed at me with as little thought as I spent putting them down.
+
+Only when I was done, standing in the middle of the burned-out clearing with heaving breaths, did I realize how stupid I’d been. I immediately clamped down on the thought before I could start berating myself. What I’d done was necessary, and it had given me the time I needed to sort things into categories I could begin to understand.
+
+Besides, it hadn’t been for nothing.
+
+{CPU Load: ▼ 82%}{Core Temp: ▼ 86° C}[DPM integrity]▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱ 89%{AVAILABLE LOGIC - 565 LB}
+
+I didn’t rest on my laurels, though. Arx had gone down a while ago, and despite the fact that I’d gotten out of this mess with only a couple of scratches, I wasn’t planning on sticking around and risking my life, especially after having gotten what I needed. I’d lost track of all the connection notifications during the fight, so the crimson Feral might still be out there, somewhere.
+
+-<>NEXUS<>-{201 clients connected.}
+
+With a twinge of worry, I decided to pulse Ardor instead of hoping I’d get my temperature under control before the bulk of the Ferals arrived. A wave of blue surged over the barren wasteland around me, and while it didn’t reveal any hidden enemies nearby, I was pretty sure I saw a bunch of red outlines flashing deeper in the forest. Even a quick glimpse told me that in my current state, I had much to lose, and very little to gain.
+
+Yeah, it definitely was time to go.
+
+I turned back toward my own clearing and began running. On the way there, the implications of what just happened finally started to catch up. Instead of an overwhelming assault, however, the facts slotted into place like TV Dinners into a freezer. The Feral that had escaped me earlier was clearly highly intelligent, adaptable, and dangerous. I’d only ever seen a readout like hers once before, back when Zephyro and I fought the eldritch abomination that had almost devoured his entire Domain.
+
+The same eldritch abomination I was pretty sure I’d turned into my fridge, somehow.
+
+Shuddering, I pushed the thought aside and instead focused on the fact that I’d begun calling the Feral her. It was constantly shifting faces, so why would I do that? The answer was as simple as it was unsettling; in an eerie, almost otherworldly way, she reminded me of myself. While I was pretty sure that was by intent—probably some sort of defensive mutation that made you less likely to attack her—I couldn’t help but wonder if maybe it wasn’t. There was something about the timing of her grand appearance that gave me pause, even though I couldn’t put my finger on why. Something told me it couldn’t have been a coincidence, but maybe I was just annoyed that I hadn’t been able to kill her, and she got away with a huge chunk of Logic.
+
+As I wove through the forest, I racked my brain trying to figure out how I could make sure that wouldn’t happen again. The meadow provided me a safe spot to retreat to, but if the Ferals lost interest, they’d just turn on each other again, which was the last thing I wanted. That way lay mutations, Logic loss, and more Ferals than I could handle. I just wished I understood how these things worked, and not for the first time. Hell, I didn’t even know where they were all coming from. And why did they have to be like the worst kind of developer, unable to focus on a goal unless you dangled it in front of th—
+
+“We need to get down there,” Zurne says.I can almost feel how everyone around me is trying to not roll their eyes. We all want to head to the village below, rest at the Inn, buy some nice food and a bed for the night. But we can’t.“Will tell the Mages where we are,” Underbrook says, speaking for everyone. His usual silence has gotten heavy since the start of our retreat, but somehow he’s the one reigning in Zurne in Stax’ absence. With middling success.“Not if they can’t,” Zurne says, with the dangerous edge of starvation.Everyone looks at me. As if I knew what to do. As if I wouldn’t get them all killed. I want to say something, but every time I blink, I see a field of white fletchings, speckled with blood, eyes that stopped dancing, and my concentration breaks. So I stay quiet, and hate how I am failing them.Lorelye of all people speaks up with a grin. “Can’t just kill them all, kid. I appreciate the enthusiasm for the art, but—““That’s not what I meant!” He twists and stares daggers at the assassin, not noticing how she has to fight to keep her smile carefree. “Olre can just make them forget.”The narrative has been taken without authorization; if you see it on Amazon, report the incident.In the silence that follows, a first snowflake hits my cheek.“What?!” The kid shrugs. “We all know he’s a Mind Mage. Why keep pretending?”I’m about to tell him just how badly he stepped out of line when Olre puts a hand on my shoulder. His touch burns, even through the armor.“That’s not how it works. I can’t make people forget, same as Sam can’t make plants grow.”Everyone is quiet for a while, and the silence is hungry, tired, and lonely.“Then we—” Zurne trembles with the effort to restrain himself, but even he knows that there are words you can’t take back.Besides, the burden of this decision isn’t his to carry. It’s mine.
+
+I groaned in frustration, ducked under a low-hanging branch, and broke into the clearing. The proper one, lush and green, with my house in the center, not the one that was basically just a charred crater. My steps slowed and I wiped the sweat off my forehead, then I turned and readied Pharus. A quick glance skyward told me that it was approaching late afternoon. A glance at the treeline and another pulse of ardor told me I’d be here well into the night.
+
+Dozens upon dozens of Ferals padded through the underbrush, snapping and growling at each other to establish a pecking order before they’d even seized their prey.
+
+I wondered if they could even understand that I was anything but prey, or if the draw of the Logic blinded them until it would be too late. Either way, this was not the time for pity or remorse. Zurne hadn’t said it out loud back then, but it was true; they couldn’t call in more of their ilk if they were all dead.
+
+My finger itched on the button that would ignite Pharus, but I couldn’t afford another wildfire. I didn’t know what would happen if the meadow caught fire and my home went up in smoke, but I definitely didn’t want to find out. Either way, it didn’t matter. Burning or not, Pharus would get the job done in the end.
+
+{CPU Load: ▼ 41%}{Core Temp: ▼ 82° C}{[Arx, A Saint’s Terrified Embrace] IS NOW ACTIVE.}[DPM integrity]▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱ 82%
+
+I strode toward the waiting havoc of Ferals with the flail dangling from my grip, and the chain wrapped halfway around my arm. Then I stepped past the tree line, and hell broke loose.
+
+The Ferals nearly overwhelmed me several times, but with the meadow to my back, I managed to keep things under control. Whenever my temperature rose to critical levels, I retreated into its protection. While that meant I often had to stand there panting and watch Logic I desperately needed to go up in smoke, my DPM stayed untouched, and in the hour that had passed, it even managed to regenerate to a healthy 83% up from 82.
+
+Meanwhile, the numbers of Ferals had thinned considerably, and it wasn’t as if I hadn’t gotten anything out of it, either.
+
+-<>NEXUS<>-{169 clients connected.}
+
+{AVAILABLE LOGIC - 730 LB}
+
+In fact, I felt pretty good about my progress. So good, in fact, that once the bulk of the Ferals arrived and threatened to drown me in numbers, I didn’t hesitate to withdraw.
+
+It took me a while, but eventually, I found the ideal spot to stand on; Close enough to let the Ferals’ greed drive them into a frenzy, but not so close they could harm me. As I watched them get obliterated one after the other, I unwrapped Pharus from my arm. The chain slid back into its flashlight casing without much of an effort, and the head twisted neatly into place. If I hadn’t known what the Torch was capable of, I would never have thought it to be more than a tool to guide you through the dark. My gloved hand ran over its surface, and even through layers of protective shielding, I could feel the buzz of Pharus’ potential belying its simple design.
+
+It was a good weapon, but as I watched the Ferals climb over themselves to rush to their death, I couldn’t help but wish I had a ranged option as well. I’d never be as good as Lorelye, but I wasn’t a bad shot at all. I’d collected a plethora of sidearms of all calibers and sizes throughout the ages, even though I’d never gotten as attached to any of them as to my Torch. They were useful, and not just because I could toss them to my friends without risking incinerating them on the spot. Still, no matter the shape, caliber or size, guns had never felt quite right to me, bows were too cumbersome, and crossbows far too slow.
+
+Pharus slid into its holster with satisfying ease. I checked my Logic reserves again, and when a smile began tugging at my lips, I did nothing to suppress it. I’d come out of this whole fiasco with more Logic than I’d put in, and only a few minor scrapes to boot!
+
+I’d done it!
+
+Most importantly, though, I’d done it on my own.
+
+No anger, no dead friends, no regrets.
+
+A particularly fast Feral got a little bit closer than the others and showered me in gore as it exploded into a thousand pieces, but I didn’t care. I wasn’t quick enough to absorb its Logic, but that didn’t matter either. A tingling sensation spread through my limbs, and it took me a moment to realize what I was feeling.
+
+Relief.
+
+Ever since those days at the gates of Veltruvia, everything I’d touched had gone to shit, somehow. First the Retreat, then Novus Apex, then Project Iron Light, and finally Zephyro’s Domain. It had just been one disaster after another, culminating in the deaths of everyone I even dared to let close. Through all of it, there had just been a single constant: me. I’d clutched people close to “protect” them when all that did was drown them in the undercurrent of my hate.
+
+That wasn’t the person I wanted to be anymore.
+
+No one I cared for would get hurt because of me ever again.
+
+Despite the invisible explosions, more and more Ferals came close enough to swipe at me, so I took another step back. At first, I was concerned, but then I remembered it was to be expected. The strongest Ferals were the slowest, so they came last, which meant the threat the Ferals posed only increased as time went on. Their numbers were dropping steadily, but a quick check of Nexus told me there were still more than a hundred remaining. A part of me wanted to call it a day and head back to the house. It was getting late in the afternoon, and I was feeling a little peckish. If I didn’t keep close enough, though, the Ferals would start to merge again. So for now, there was nothing I could do but dance forward and back to keep them on my scent, and wait.
+
+Wait and think.
+
+This bait-and-switch method worked surprisingly well, even if it was dangerous. I still wanted to get a better map to not have to lure unsustainable amounts of Ferals into my Domain. While the potential Logic gain was greater, realistically I could only kill a bunch of weaker Ferals before being forced to retreat.
+
+Also, after all was said and done I’d only just broken even, and it was only a matter of time until I’d run out of things to upgrade. With Chris at my side, the initial investment wasn’t an unsolvable problem, though. My assistant could probably toss together some programs that I could advance for cheap, which would net insane ROIs.
+
+Even if it turned out that I needed bigger upgrades to lure in more Ferals, with every upgrade I’d grow more powerful, making it more likely to survive bigger waves. In theory, I didn’t even need to upgrade Ardor anymore as long as I had Arx and Pharus. Still, I didn’t want to overspecialize and end up trapped, fighting against enemies I could no longer trace. It would be best to go slow, spread out my investments.
+
+If I was careful and kept doing what I’d done today (preferably without releasing another Uber-Feral into the wild), it was only a matter of time until I’d score that map upgrade, which hopefully would trivialize the entire process. If I knew where all the Wild Ferals stalked about in my Domain, I wouldn’t need to paint a giant target on my forehead to get them to come to me.
+
+Something flashed red in my peripheral vision, and I carefully dodged a swipe from a Feral that had gotten too close before the Meadow could blast it to pieces.
+
+I glanced around, and the absurdity of the situation hit me again. The clearing was as beautiful as ever, grass swaying in a gentle evening breeze, where it should have been littered with hundreds of corpses. The Ferals had gone absolutely insane with greed and fury and kept pouring out of the forest in unprecedented numbers. The unseen explosions kept coming, however, so I wasn’t too concerned.
+
+Time was on my side.
+
+Fortunately, the surge of Ferals began to die down shortly after that, and the increasing lack of distorted howls and mechanical screams pulled me out of my thoughts and back onto the meadow.
+
+It was startling to find that I’d backed up some fifteen to twenty paces from where I’d originally planned to make my stand. Either whatever entity protected my home had grown exhausted, or over time, the Ferals had just become strong enough to make it further than their weaker brethren. I sincerely hoped it was the latter. The Ferals that rushed me toward the end had been some of the fastest I’d ever seen, but I hadn’t had the time or resources to check their true DPM size.
+
+One way or another, that was a problem for future Sam to think about. When I could be sure the onslaught was really over, I pulsed Ardor and carefully watched its cyan halo rush over the dark forest. I made a mental note of each vermilion blip, then cross-referenced the readout Nexus was happy to provide.
+
+-<>NEXUS<>-{16 clients connected.}
+
+I only saw thirteen Ferals hiding in the bushes, however. Even if Chris and myself made up one connection each, that meant there was one more Feral out there somewhere. Either it was smart enough to hide away, or its DPM was so massive that even after hours of travel, it hadn’t arrived yet. Both options were concerning in their own way.
+
+Nexus didn’t prove to be helpful because it was still overloaded, but at least I knew it couldn’t be the crimson Feral. If it had been her, she would have started calling more Ferals immediately, trying to get stronger.
+
+In the end, it didn’t matter if a single Feral survived somewhere. They couldn’t attack me at night, and—I thought with a grin—they couldn’t grow if they had nothing to feed on.
+
+I pulled Pharus out of its holster and went to work.

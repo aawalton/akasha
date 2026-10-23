@@ -1,0 +1,333 @@
+{Loading…}{Loaded.}
+
+[>>Now replaying: Log 2.23 - ᚱæið.zip]
+
+Date: 19.9.175 AA / 4404 LTCLocation: Samantha’s DomainRemaining Logic: 10653 LB
+
+//Whoever said the journey is more important than the destination has never hiked up a mountain to eat Apfelstrudel.//
+
+[>>DATA CORRUPTED]
+
+I stood on the porch, at the steps leading down to the ruined battlefield, watching the last sunlight vanishing behind the horizon. My heart beat calmly in my chest, forging a decision in cold determination.
+
+I’d read Nexus’ documentation often enough at this point to know that I wasn’t able to connect to random networks, yet. Not that I couldn’t connect to other Domains. Otherwise, I would never have woken up in the first place, or worse, been stuck in eternal darkness forever.
+
+The issue was that I couldn’t connect to what I didn’t know was there. I had Redtooth, but that just provided a bunch of open ports for others to connect to. Chris had cobbled together a network scanner, of course, but that would only work after I connected to a network.
+
+Whatever I needed to advance for that, I’d need to do it soon, before the kids started moving, and more Ferals came into range. I’d promised Pina I’d keep them safe, and I would do everything I could to keep that promise, but my Domain was huge. If Ferals came at us from too many sides, I wouldn’t have any option but to sit at home and wait for them to come to us. Without the Music Box, that would introduce a risk I’d rather not take. What if a Feral slipped past me, and went for the kids?
+
+The time to act was now.
+
+I didn’t even have to search for the Logic thrumming inside my soul. It quivered at the tip of my tongue, ready to fly at my command.
+
+{[Nexus, The Tyrant’s Edict] - v. 1.49: REQUIRES 900 LB}[You are trying to 4dvnc3 Nexus.exe to \/ers1on 1.49! Doing so will require {900 LB} and likely result in either [NULL], [increased data transfer speed], [enhanced connection features], or [boosted signal strength]. A subsequent update will require {1200 LB} and most likely result in {another one of the above}.Do you want to proceed?][Y/N]
+
+With my mind still trying to catch up to my heart, I exhaled.
+
+The Domain shuddered under the sound of my Wish. It was as though a single, powerful bell had rung, and as pale blue light gathered around me and cast the floor boards in stark relief, I briefly worried that I would blast a hole in the awning over the porch.
+
+When the Logic finally erupted from my core, however, it rushed straight through the ceiling without so much as leaving a smudge on the wood paint. That didn’t mean that my body didn’t vibrate with power, or that the ground didn’t shake with the soul-shaping sound of my advancement.
+
+At the crescendo of it all, a flash of energy drew my eye to the front door. A bright light coalesced inside the house, coming from atop the doorframe, where I’d hung the router that represented Nexus.
+
+With one last glance over my shoulder, I walked back to the door and opened it, only to be greeted by the cyan glare of change. I didn’t bother shielding my eyes. This light would not harm me. Instead, I stepped inside, turned and stared at the outline of the router as I waited for the advancement to complete.
+
+Hidden in cyan glow, the box shifted, flattened, and expanded, the outlines of its antennae splitting twice. Eventually, the light faded and revealed a router that looked flatter, and more modern than before. Each of Nexus’ four corners sported a thin metal rod pointing away from its center, but instead of looking archaic, these antennae made the device look more powerful, more rugged, as if ready for heavy industrial use.
+
+{[Nexus, The Tyrant’s Edict] v. 1.49 - Connectivity Array (G1/T2)}{Utilizing Logic-enhanced data-packaging, Nexus creates an array-network between the host system and a theoretically infinite number of client systems. While there is virtually no cost for maintaining any given connection, in reality the number of connections is limited by
+
+a) the CPU of the relay host’s hardware, as for each client data needs to be fetched, computed, rendered, and re-distributed in real time according to the particular circumstances of any given request. This cost scales exponentially due to entropic-complex stressors arising from connections between each client system, as well as the relay host.
+
+b) the bandwidth available in the client network device, with limitations similar to the above.
+
+Features:
+
+1.0 - The Array host assumes the function of a VPN server, allowing clients connected to the array to access any pseudophysical reality the host is currently accessing. This requires administrator rights or equivalent permissions.
+
+1.2 - Nexus now provides a log of Client Names, their IP address, and duration of their connection.
+
+1.49 - Nexus is now able to condense the DPM of the host system with far more efficiency, allowing for faster data transfer speeds.Required CPU load: Varies, 3-10% at current CPU quality.Required RAM: 45 LKB}{Memory: 190/200 LKB RAM}
+
+{CONSUMED LOGIC - 900 LB}{AVAILABLE LOGIC - 10053 LB}
+
+I read in the message, rubbing my forehead. It wouldn’t have been true to say I felt disappointed. If I understood it right, it would make traveling around my Domain a lot faster. That was a great upgrade to have, and it surely would come in handy in the future. Come to think of it, having that handy yesterday have saved me a lot of grief, but there was little use crying over spilled milk. If anything, it would make dealing with what came next that much easier.
+
+{8 new clients connected.}{6 new clients connected.}{28 new clients connected.}{…}
+
+The decision whether to clean those up, or immediately try again and deal with all of them at once was a tough one. I had been hoping I’d get a way to access a Domain on the first try, of course. By now I’d figured that the more Logic I spent, the larger the disturbance, and the bigger the havoc of Ferals that followed its radiant call. What if the next upgrade didn’t hit either? Or the one after that? What if I ran out of Logic, trying to find a breakthrough that would never come?
+
+My uncertainty opened the door for doubt, and it wasted no time trying to creep its way into my heart. I’d been very confident in promising Pina I could save their device, and I was sure that in theory, I could, but there were a thousand things that could go wrong. I’d only just begun mastering the Wish during Project Iron Light. Even compared to that, I barely had any idea what I was doing with the Logic. Sure, a lot of the concept translated, but the stuff was twice as slippery and three times as willful.
+
+On top of that, several assumptions I’d made didn’t seem so certain, now that I thought about them. Maybe the Music Box didn’t have a Domain. Maybe Nexus was the wrong tool, and I needed something else entirely. Maybe there wasn’t even a way to remove the Shackle at all.
+
+But as my worry grew, and I felt the rage rise in response, I clamped down on both with cold efficiency.
+
+I had committed to the task. Asking myself if I could do it didn’t matter, only when. No matter how long it took to get where I wanted, the Logic hadn’t led me astray so far, and I certainly had enough of a stockpile to experiment with. Far more than enough to try twice in a row, and reduce the time spent between iterations. I was strong enough to kill whatever basic version of Ferals that threw themselves at me, and even though I didn’t know exactly how fast Nexus’ new upgrade could get me to the border of my Domain, just being faster meant I could hopefully deal with the monsters before they banded together.
+
+As for whether Nexus was the right program to advance, I could always rely on Chris to slap me in the face if I were completely off the mark.
+
+Oh. Yeah.
+
+I didn’t need to decide everything on my own. I wasn’t alone.
+
+It was a brief moment of grateful embarrassment, but it passed before I found Chris. Not that I had to search for long. The cat lay on the topmost tower of their scratching post, watching my progress with intense blue eyes.
+
+“Nexus again?” I asked without preamble.
+
+“Beep!” Chris said with a slow blink, their scarf fluttering with approval.
+
+I nodded back. Alright, magic tech cat definitely knew their stuff. No more waffling around.
+
+A slow inhalation later, another readout flowed into my conscience.
+
+{[Nexus, The Tyrant’s Edict] - v. 1.83: REQUIRES 1200 LB}[You are trying to a&v*&e Nexus.exe to vers10n 1.83! Doing so will require {1200 LB} and likely result in either [NULL], [increased data transfer speed], [enhanced connection features], or [boosted signal strength]. A subsequent update will require {3000 LB} and most likely result in [UNKNOWN].Do you want to proceed?][Y/N]
+
+Hopefully, this time I’d get it done correctly. There had to be a strategy to this, a way to not have to gamble every time I advanced something, but if there was, I hadn’t found it yet.
+
+“That’s because you’ve never even been close to good enough, Sam,” Olre whispers into my ear. He takes the knife and—
+
+“Oh, shut the fuck up already!”
+
+Now this guy showed up again? Right when things had been going so well?!
+
+I gritted my teeth to still my trembling hands. When I realized what I was doing, though, I forced myself to relax and released the grasp on the Logic. I didn’t have the time to rush this, and I certainly didn’t have time to waste on fucking Olre.
+
+Fuck him. Seriously, fuck him. I might not be “good enough”, but I was doing my damn best.
+
+After a series of murderous fantasies had come and gone—the self-loathing that drove them dispersed like ground fog by a couple of slow, steady exhalations—I squared my shoulders, stretched my neck, and tried again.
+
+Another breath, this one sharp and clear as morning dew.
+
+Air rushed into my lungs where it intertwined with cold will and Logic alike to form a mixture more potent than benzine and sweeter than liquid nitrous.
+
+In but seconds, my heart shuddered with the force of the Wish, and the world shook with it. It felt like standing inside a bell being struck with a sledgehammer, and sounded about the same. An endlessly rising note of pure potential, heralding unknowable portents. For a brief moment, reality smelled of fading petrichor, then hearthfire, then midsummer love. It made me remember a brighter world, where salvation and peace hadn’t just been possible, but a certainty.
+
+Then I exhaled, and the world went white.
+
+No.
+
+Not white.
+
+Cyan blue, just so intense that it was hard to tell the difference.
+
+I tried shielding my eyes, but the brightness was everywhere, intense beyond sight.
+
+{[Nexus, The Tyrant’s Edict] v. 1.83 - Connectivity Array (G1/T3)}{Utilizing Logic-enhanced data-packaging, Nexus creates an array-network between the host system and a theoretically infinite number of client systems. While there is virtually no cost for maintaining any given connection, in reality the number of connections is limited by
+
+a) the CPU of the relay host’s hardware, as for each client data needs to be fetched, computed, rendered, and re-distributed in real time according to the particular circumstances of any given request. This cost scales exponentially due to entropic-complex stressors arising from connections between each client system, as well as the relay host.
+
+b) the bandwidth available in the client network device, with limitations similar to the above.
+
+Features:1.0 - The Array host assumes the function of a VPN server, allowing clients connected to the array to access any pseudophysical reality the host is currently accessing. This requires administrator rights or equivalent permissions.
+
+1.2 - Nexus now provides a log of Client Names, their IP address, and duration of their connection.
+
+1.49 - Nexus is now able to condense the DPM of the host system with far more efficiency, allowing for faster data transfer speeds.
+
+1.83 - Now allows for outbound traffic to other connected systems.
+
+{Et ecce, illa bellum fecit in regionibus longinquis, et sanguinem effudit in terris alienis. Et cum consummatum esset, flevit.}
+
+Required CPU load: Varies, 3-10% at current CPU quality.Required RAM: 50 LKB}{Memory: 195/200 LKB RAM}
+
+{CONSUMED LOGIC - 1200 LB}{AVAILABLE LOGIC - 8853 LB}
+
+As the last line of text resonated in my mind, the light faded. I blinked furiously, trying to clear the afterimages out of my vision, but even so, nothing seemed to have changed. I shot up and into the hallway, trying to look at Nexus. But there was only a blank wall where it had hung before.
+
+Before I had time to worry about it, though, a number of readouts flashed into my mind.
+
+{18 new clients connected.}{22 new clients connected.}{10 new clients connected.}{…}
+
+I cursed, torn between trying to find where Nexus had ended up and going out there to kill the invaders. In the end, however, it wasn’t really a contest. On the one hand, there were a bunch of robots trying to kill children who trusted me with their life, and on the other was the equivalent of unpacking a present. Nexus clearly still worked. What it looked like after the upgrade wasn’t as important as saving literal lives.
+
+Without further hesitation, I opened the door, pulsing Ardor for a deep scan.
+
+Before the cyan grid had even fully materialized, however, I’d already turned toward the clothes rack and pulled Arx off its hook. There was no time to waste. Pharus and Manus’ holsters slapped against my hips as I pulled the coat over my shoulders, the weapons within inert, but ready. It was probably not good gun safety to leave a loaded shotgun next to the front door, but I liked being prepared. If I had been worried about Chris, given the skill level of their human namesake, I would have reminded they didn’t have thumbs.
+
+The scan returned just as I fixed the last clasp on Arx and memOS told me it was fully operational. So, walking out while adjusting the high collar, I scanned the horizon for signs of trouble.
+
+It was bad.
+
+Not terrible, but bad.
+
+I’d hoped that the Ferals would arrive in one big group from the north as usual, but apparently, the kids had made good progress over the last 24 hours. I was now staring at Ferals coming from three cardinal directions; West, North, and East. At least the south was clear, but given the obscene amount of corpses still littering my lawn, and the fact that we were traveling north, that didn’t come as a big surprise.
+
+Again, it struck me that the Logic had given me a tool I needed before I knew I needed it. Until a few minutes ago, there would have been no way I could have stopped every Feral before they came too close for comfort. Now, however, I’d been given the perfect solution to that problem.
+
+It was time to see if Nexus’ first upgrade was up to snuff.
+
+There was no time to read the documentation, but there hadn’t been time to read Pharus’ documentation either, so I did exactly what I’d done back then and acted on instinct.
+
+I raised my hand before me, arm outstretched as if I was pushing open a door, and willed the program to activate.
+
+[//run nexus.exe -c -t]
+
+My body shuddered, and light erupted from my palm, hundreds of beams of cyan tracing the air and leaving behind glowing lines of bright blue light. When the wireframe completed, it flashed for just a split second, and the fading light left behind the most beautiful motorcycle I’d ever seen.
+
+I wasn’t a fan of motorcycles. On earth, I’d always thought they were dangerous, noisy, and uncomfortable. Sure, I’d gotten a driver’s license when one of my boyfriends asked me to, but then he broke up, and I never ended up using it.
+
+But when I beheld the engine that was Nexus, I understood why people liked them so much at once. The vehicle was all flowing, rounded lines, from the front wheel’s soft blue glow to the sharp red glare of the rear light. It wasn’t even running yet, but still it seemed to thrum with barely contained power, itching to convert its potential energy to pure speed. Bright patterns of white circuitry rippled from front to back in a slow, steady beat. It sped up as I approached, until it pulsed to an unheard, almost anxious rhythm. But when I ran my finger over the fuel tank and the front light ignited like a beacon, casting away the darkness, the goosebumps running over my arms made me understand.
+
+This wasn’t agitation or anxiety.
+
+It was pure anticipation.
+
+I swung my leg over the seat. The cushion molded itself to accommodate my body, and the world held its breath.
+
+{Nexus
+
+{Hail}
+
+[>>Pre-firing pseudophysical geometry compensation engine…]{Connection}
+
+[>>Ready.]{Year}
+
+[>>Understanding destination…]{Journey}
+
+[>>Realizing itinerary…]{Ice}
+
+[>>Intertwining Hyperlogical Reality Alteration API…]{Sun}
+
+[>>Done.]{The Unfathomable Divine}
+
+[>>Initialize?]
+
+[Y/N]}
+
+The handlebars shifted forward, pulling me deeper into the seat. Fans whirred to life, and capacitors charged themselves to a high-pitched whine.
+
+The engine sparked to life. There was no roar, no shaking, just the quiet stillness of a tendon pulled taut. My stomach met the smooth metal of the bike and, just by virtue of that touch, its silent power coursed through my core.
+
+I cranked the throttle, and the bike shot forward.
+
+The wind rushed over my head, whipping Arx' coattails into a frenzy. The sound of rushing air was deafening, but I paid it no mind. The acceleration never ceased, and I only felt the immense power coursing through the motorcycle, only heard the determined hum of the engine crescendo to a high-pitched whine. My world narrowed down to a pinprick before we even reached the edge of the forest, and by the time the trees drew close enough to touch, it was too late to worry about crashing into them.
+
+Not that I needed to worry. The forest parted before me like a crowd, trees bowing as they scooted aside, making way for the owner of their Domain with solemn piety. The bike’s wheels should have shuddered apart on the rough terrain, but roots and rocks alike simply shifted, intertwining into something as smooth as concrete.
+
+The world itself forged a path for me, west, toward the forming storm.
+
+Lightning flared at my destination, guiding the way. I cranked the throttle open even further. The force of the acceleration pulled at my arms and pressed my legs against the footrests hard enough to make my knees protest. I paid it no mind, focused entirely on my goal. By the time my body had adjusted, I had already crossed 90% of the distance.
+
+Ahead, the trees parted to reveal a wide field. A natural one, this time, not a charred conflagration growing around a pillar of crimson. There was another forest in the distance, but it seemed off, somehow, as if partially hidden by a heat haze.
+
+Up in the sky, it wasn’t as though the world just ended at a black wall, either. By all signs, it seemed to stretch on into the distance forever. But there was something uncanny about it, an intense feeling of wrongness that couldn’t be explained by the unnatural symmetry of mountains looming in the distance.
+
+I had arrived at the end of my Domain.
+
+So, even though the edge was still hundreds of meters away, I hit the brakes to not overshoot my destination. At the speed I was going, it was better to be safe than sorry, especially since I didn’t know what would happen once I reached the edge. Maybe I would slam into an invisible wall, or I’d simply get deleted, or worse. Either way, I wasn’t in a hurry to find out, and came to a gradual stop about a hundred meters away from the forest.
+
+{Nexus[>>Destination reached.][>>Time elapsed: 49.721 ms]{Terminus.}}
+
+Not even a minute had passed since I’d started the engine. The thought that just a week ago, I had spent an entire day just to walk half as far made me want to laugh and cry at the same time.
+
+My right hand was still wrapped around the throttle as if it belonged there and nowhere else, so I pulled Pharus out of its holster with my left and put one leg on the floor to stabilize the idling bike. A quick glance upward to check the position of the clouds and Ardor pulsed at my command. A wave of cyan rippled over the world and revealed no less than ten Ferals. None of their readouts returned with a DPM larger than a handful of kilobytes. Only three of them even had three digits.
+
+Again, I didn’t know if laughing would have meant I’d gone insane. A three-digit Feral would have had me for breakfast just last week. Now, I couldn’t even use Manus on them without wasting Logic.
+
+In the end, I settled on an amused snort and a quick, disbelieving shake of my head, then I twisted the throttle and raced to meet the invaders.
+
+I made such quick work of the Ferals that when I found myself in the middle of their corpses, I was still mentally preparing for a battle that was already over. I’d come to expect waves and waves of weaker Ferals throwing themselves at me in a ceaseless struggle, but now, I actually had to get off of Nexus because I was too fast. Because of my sheer speed, the first blow completely obliterated the Feral I’d swung at, but then I had already rushed already past and the Ferals were out of reach. Turning the bike around had taken longer than just hopping off and killing the remaining beasts with nine precise strikes.
+
+It was almost disappointing.
+
+Realizing what I was thinking, I scoffed. Just this morning I’d have given my left arm to harvest Logic without getting swarmed, and now I was blazing through them so quickly that I felt bored?
+
+I pulsed Ardor for another deep scan as I inhaled, absorbing the Logic left of the havoc.
+
+{INCOMING LOGIC - 582 LB}{AVAILABLE LOGIC - 9735 LB}
+
+My mind settled as I marveled at the five-figure Logic count. Sure, things weren’t ideal, but at least I wasn’t in danger of starvation anymore. Plus, I had a clear path forward: Repair the Music Box, keep the kids safe until they got home, find someone who could help me find Chris, and then go from there. Sure, it was barely a plan, and things could go wrong, but that would always be the case. If anything, a little tidbit Pina had let slip kept my spirits up. Their family descended from soldiers who had fought for the Republic.
+
+When I pulsed Ardor once more, just to be safe, and it returned with nothing but news about a clear sky, and peace in my Domain, except for the two other groups I already knew about. No more hidden threats. No more invisible enemies. No avalanche of Ferals trying to overrun my Domain.
+
+An odd sensation overcame me then, just as I turned the bike around and set course back toward home. It felt a bit like vertigo, as if I was falling up into the endless warmth of the deep oranges and blackish blues above. The world itself bowed gently to my will, and no obstacle stood in my way.
+
+There was no threat. Things would turn out fine, eventually, and I was alright.
+
+I felt free. Safe, I realized. In a weird twist of irony, I hadn’t felt like that for a long time, and so it was as if I was dissolving into this infinity of possibilities. That was what was bothering me. I felt too good.
+
+When I’d gotten off Nexus to fight, the bike had faded into a cyan lattice. Summoning it again almost took longer than the fight had, scavenging Logic included, but I certainly wasn’t going to complain. After saddling up, I waited for a second scan to finish just to be safe, then gunned the power. G-forces pushed me into the seat, but Nexus quickly alleviated the pressure as we rocketed north, toward the second cluster of storm clouds massing in the clear sky.
+
+The headwinds should probably have overwhelmed my facial muscles or torn me off the bike entirely. Instead, all I felt was the soft comfort of the saddle, the silent power of the engine, and a growing smile.
+
+It caressed my lips, and I nurtured it, reveling in how uncomfortably unfamiliar it felt. A bit like taking off a cask after a broken bone had healed, a bit like touching fresh skin left after a burn. Relieved and open and happy, even if a little scared.
+
+I found that with a quick mental command, I could make Nexus give me a countdown to my destination. As the milliseconds rushed by, I already imagined what I could do with the time I was saving. I could plan my trip to the Shackled Domain. I could prepare. I could make decisions not out of hotheaded rage, but rational calculation.
+
+While the wind didn’t whip at my face, it was definitely chilly, and as I rode through the forest at breakneck speed, I found myself wishing I’d worn thicker clothes underneath Arx. I would have pulled the coat tighter, if I had trusted myself to take my hands off of the handlebars and—
+
+There was a massive flash of red to my right. Expecting an explosion, my head whipped around just in time to notice that this was not the angry orange glow of fire, but something far more sinister. A lance of crimson faded where it had speared the sky in the center of the Domain.
+
+[[Latirae, Lament of Intolerable Obfuscation] disconnected.]
+
+Oh… Shit.
+
+Oh no, no, no! How could that be?! I shot her! I shot her twice, in the face, and kicked her lifeless corpse!
+
+…The lifeless corpse of a digital shapeshifter.
+
+She’d never actually died had she?
+
+Oh fuck, oh fuck!
+
+How could I have been so blind? Mowing through the Ferals, I’d gotten so used to the disconnect notifications that I’d begun to zone them out. When I shot the Crimson Lady, my mind must have filled in the gap.
+
+…I’d just believed what I wanted to believe.
+
+Just as in that moment, it was so tempting to think that this readout meant she just… left. But if two lives of strife had taught me anything, it was that I’d never be that lucky.
+
+No, her disconnecting wasn’t good at all. While she had been connected to my Domain, I at least had her under control. She was dangers, true, but also somewhat predictable. While her means might have changed as often as she changed her face, her end would always stay the same. She wanted to take control of my Domain and feed on the Logic within.
+
+Now, I could only hope that her goal had changed. Latirae didn’t have a body in the Real. I never seemed to know enough about my strange new reality, but I knew that in order to have a Domain, you needed hardware to run it on. If she disconnected from my Domain, she must have connected to another.
+
+And if her goal hadn’t changed, I had a very bad feeling about which Domain she’d chosen as her new home.
+
+My destination approached, and as I engaged the brakes, implications rattled through my mind. What if Latirae called in more Ferals now? I wouldn’t even know until it was too late. What if she managed to swarm the Shackled Domain and break it entirely? What if she managed to take it for herself? The kids wouldn’t even know what hit them.
+
+I had to find a way to kill this bitch for good, fix the Music Box, and in the meantime, I couldn’t let a single Feral through. Pina might have begun to trust me, but that trust was a fragile sprout, easy to cut down. I’d warned her that there were Ferals I couldn’t fight, but if she saw another havoc approaching, there was no doubt she’d make good on her promise and kill me.
+
+Worry about the kids, anger at myself, a distant, quiet fear for my own life; as the bike came to a halt, I shoved them all down.
+
+I could probably spend days puzzling over the Crimson Lady’s motives, or lament my fate but it wouldn’t change a thing. It all boiled down to one thing; she was my enemy, and she was probably messing with the Music Box, so I had to find a way to stop her.
+
+The Ferals I found, at least, were even weaker than the last bunch. They were so weak that they didn’t even have scanners. Without ever realizing how much they’d tried to bite off, they threw themselves at me without a second thought.
+
+I dispatched them without bothering to get off my bike, absorbed their Logic, and cranked the throttle wide open. Nexus calculated the route in less than a second, and then we were blazing toward the last pack of Ferals in the east. I wanted to head home, to check on Chris and the Fridge to see if they were alright, but I had to finish what I started first. Luckily, it didn’t take me long.
+
+I encountered that last Havoc not even halfway between the eastern border and my house, almost still at the edge of my Domain, where Pharus made quick mincemetal out of them.
+
+God, but this bike was fast.
+
+After absorbing the Logic, I directed it homeward and cranked the throttle. The motor whined first, but then it hummed reassuringly, reminding me once more not to give in to the fear. I had everything I needed. I wasn’t helpless. I wasn’t vulnerable. I was in control.
+
+My bike came to a slow stop in front of my home. It was 17:29, not even five minutes after I’d left. The house still looked the same, and I sighed in relief when I saw Chris was waiting for me on the Porch. I swung myself out of the saddle and adjusted my coat, then drove a hand through my hair.
+
+“You alright?” I asked, just to be sure.
+
+“Beep,” the cat said with a nod.
+
+“Where?” was the only thing left to say, and the cat didn’t waste time on words, either.
+
+Chris dashed inside, straight through the hallway, and I followed close behind. When I found them pawing at the back door, I grabbed them and pulled it open.
+
+With a protesting cat tucked under my arm, I stepped outside, but the second my foot hit the gravel beyond the door, I froze.
+
+Not in fear or despair, but awe.
+
+I’d checked the back of the house when I first arrived in my Domain, and it had looked exactly as I expected. Lots of grass, trees in the distance. It had been the same clearing as in front of the house, nothing remarkable about it.
+
+Now, however, I stared at a vista of equal parts impossible and awesome. High cliffs cradled a small patch of dense forest in their midst, and in their center laid a perfectly even square of black steel. Four dark spikes emerged at an angle from each corner of the platform, stretching away from its center.
+
+There, parked in the center of a huge letter H that had been spray-painted onto the smooth surface of the landing pad, a sleek black helicopter stood ready and waiting.
+
+Lines of cyan power ran from each of the four spikes toward the aircraft in a slow rhythm, coursing through hundreds of channels that looked like circuitry. Every time the power soared through the sled and into the helicopter, the pattern repeated on its slick form, running from its smooth nose all the way to its tail rotor, where a signal lamp flashed bright azure.
+
+Chris struggled out of my arms and scampered over to the vehicle, inspecting it thoroughly. It had four doors, indicating its design as a passenger craft. Sure enough, when I tried to open the cockpit, the doors wouldn’t give, but the rear doors slid open on hydraulic hinges as easily as velvet curtains. The interior was understated, sleek, and modern, just how I’d liked my offices back on earth. In fact, if anything, the helicopter reminded me of the impossibly large office in my attic. Because of its smaller size, however, the interior didn’t feel as ominous while retaining its razor-sharp edge. The only exception was the cockpit. Barred by a sheet of glass so dark it might have been onyx, there was absolutely no way of knowing what or who was in there.
+
+I didn’t want to take a seat, not without checking the rest of the aircraft. For all I knew, Latirae had left me a surprise or two. Still, just running my hand over the soft cushions was enough to imagine how traveling in this beautiful machine would feel.
+
+Powerful, dangerous, confident.
+
+For the lack of a better word: sexy.
+
+I couldn’t wait to try it.

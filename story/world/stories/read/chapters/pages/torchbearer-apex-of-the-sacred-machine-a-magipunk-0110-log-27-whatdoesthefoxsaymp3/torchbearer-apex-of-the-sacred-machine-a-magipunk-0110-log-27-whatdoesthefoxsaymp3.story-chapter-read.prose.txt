@@ -1,0 +1,189 @@
+{Loading…}{Loaded.}
+
+[>>Now replaying: Log 2.7 - whatdoesthefoxsay.mp3]
+
+Date: 10.9.175 AA / 4404 LTCLocation: UNNAMED_DOMAIN(LARES)Remaining Logic: 470 LB
+
+//Turn that shit off.//
+
+//What would you do if you had invented a term and everyone went about using it willy-nilly? You’d sue them, is what!//
+
+[>>DATA CORRUPTED]
+
+I only wasted a second watching the hidden Ferals’ outline flicker out of existence before I sprinted toward their last known location. I was fully aware I could be running into a trap, but I needed their Logic if I wanted to survive. The problem was that I didn’t see any Logic. Following everything I knew from my time in Zephyro’s Domain, I was sure that even if I didn’t see the Ferals themselves, I should at least be able to see the Logic they left behind. When I was sure I was close enough and blindly willed the Logic toward me, however, nothing happened.
+
+Still running with concern throbbing in my chest, I strained to find the Feral’s remains. This time, I didn’t need to exert myself, though. The moment I came close enough, the beasts materialized out of thin air. Well, what was left of them at least.
+
+The remains looked as if either a rocket launcher, a cannon, or something equally ridiculous had hit them just as they stepped past the natural border between meadow and forest. Hell, I couldn’t even find enough giblets to piece together what the beasts could have looked like before they met their end. There was oil and blood everywhere, and indistinguishable chunks of metal and meat were sizzling in the grass. There was no impact crater, however.
+
+Still, one thing was for certain: I didn’t have the oomph to do that sort of damage.
+
+But then, who—or what—did, and how did they kill stuff in my Domain?
+
+“Chris?” I said without thinking, still used to their presence in Zephyro’s Domain.
+
+Beep! Their voice echoed in my mind. It felt oddly comforting and familiar, plus it stopped me from feeling like an idiot for talking to myself.
+
+“Do you know if Lares has some sort of defensive feature?”
+
+Boop.
+
+“So you don’t know?”
+
+Beep.
+
+“Fuck.”
+
+Beep.
+
+That meant I’d have to read that documentation as well, but I didn’t have the time to mope about it. At least the kids were safe. If Pina had picked me up. It grated on me that I could do nothing but hope, but unfortunately, there was nothing I could do about it.
+
+As I carefully let my eyes sweep over the surrounding forest, one more idea came to mind.
+
+“Hey, can you check if there is something weird going on with Zephyro’s sword?” I asked Chris, voice low.
+
+Beep! they replied, then, after a second or two, Boop.
+
+“So, no weird floating around, glowing, or other hints that he’s protecting us from…” I wanted to say beyond the grave, but he didn’t have one. He just collapsed with his Domain, as the last of his people disconnected into safety and left no one to render Zephyro’s DPM.
+
+Boop. Chris said, interrupting my thoughts, and I bit my lip to regain focus. I didn’t have time for grief. Not right now.
+
+“Alright,” I said, voice soft with the remnants of regret. “Thanks, Chris.”
+
+Beep.
+
+It took me another second or so to pull my mind out of the past and back into the present. With my shoulders relaxing and shrugging off the guilt, my thoughts sharpened once more. I needed that Logic, and there was one last thing I hadn’t tried yet.
+
+I focused as I had done before, and felt the same pressure building between my temples. I gritted my teeth against the exhaustion, panted once, twice, and then Ardor bathed the world in blue once more. Disappointingly, even a thorough scan didn’t reveal any leftover Logic, which was concerning but not as much as the stark red outlines of five additional Ferals that popped into existence maybe twenty meters ahead of me.
+
+{CPU Load: ▲▲▲ 99%}{Core Temp: ▲▲▲ 75° C}
+
+“Thank God…” I said as I straightened. Pharus had been trailing behind me as I ran, and I pulled it closer to wrap its chain around my forearm. “At least I get to test a couple of theories.”
+
+With those words, I entered the forest, sprinting straight toward the red outlines. The idea of fighting five Ferals without knowing their exact strength scared me, of course. It would have scared any sane person. But it didn’t scare me more than the possibility of facing a slow, inevitable battle against starvation.
+
+When I came close enough, it only took a minor effort to reveal the Ferals. A brief moment of concentration filled their outlines with chthonic amalgamations of flesh and dark steel. The red lines stayed, however, both making it easier to spot the beasts in the thick foliage, which I appreciated, and making them look even more menacing, which I did not.
+
+A quick glance—using Ardor’s primary function—however, dispelled my concerns. The strongest of them had a two-digit LKB rating to their name, and the rest ranged in the single digits. I didn’t even bother scanning them as they prowled toward me, snarling unnatural growls from mechanical throats, and neither did I bother to ignite Pharus.
+
+They must have sensed my confidence. Their approach slowed as they came closer, and their growls quieted, but that pre-battle tension didn’t leave my muscles and mind. My heart began racing, alternating between anticipation of the kill and having solved my problem, and the electric caution drilled into me by hundreds of battles. No trace of anger, though, just tense determination.
+
+It felt as if being spun like a thread, so when the first Feral—a weird mix between centipede and subterranean drill—lunged to snap at me from behind, I almost welcomed it. My tension unspooled like an anchor winch, and I dropped into a battle calm that Stax would have envied.
+
+I jerked my foot away and turned in the same motion, bringing Pharus down on the insect's back. It crunched, and when I pulled my weapon away for another swing, it left a fist-sized indentation in the monster’s metal carapace. Logic gushed from the wound, signaling the Feral’s death as much as its camera eyes ceasing their movement.
+
+Instead of hitting it again, I pirouetted into an overhead smash that took out another Feral trying to sneak up behind me. It died in an instant, and so it continued. Each time I brought Pharus down, another enemy crumbled, and ultimately, I stood alone in an almost perfect circle of dead machines, with my prize wafting cyan against my boots.
+
+It was almost disappointing.
+
+{CPU Load: ▼ 61%}{Core Temp: ▼ 74° C}
+
+With the danger gone, my adrenaline released its grip on my thoughts, and I flicked Pharus to clean it of some dark liquid, either machine oil or corrupted blood. Then I inhaled to draw the Logic into me.
+
+[>>[Five] users have disconnected.]
+
+{1 new client connected.}
+
+{INCOMING LOGIC - 51 LB}{AVAILABLE LOGIC - 521 LB}
+
+“Well, that’s not good…” I said, scratching the back of my head. Considering I’d spent 600 LB to call them here, I wasn’t even close to breaking even. Perhaps the other Ferals who’d died earlier carried more Logic, but there was no way to tell. I dimly remembered Zephyro talking about something like this, however. In his Domain at least, the weakest Ferals arrived first because their DPM had a smaller filesize, which allowed them to travel faster, I guessed? I still didn’t know how you could travel faster with a smaller Personality Matrix, but potentially move faster with a larger one. All that stuff made very little sense to me.
+
+[>>[Two] users have disconnected.]
+
+{1 new client connected.}
+
+“Chris, can you filter these notifications, please?” I asked, flicking Pharus one more time before returning it to its sheath. “I need to think for a second.”
+
+Beep.
+
+“Thanks,” I said, my thoughts already somewhere else.
+
+One way or another, Plan B was a failure. I didn’t draw in enemies strong enough to—
+
+{CPU Load: ▲▲▲ 99%}{Core Temp: ▲▲▲ 79° C}
+
+Something hit me in the back with enough force to send me crashing through a tree ahead of me. For a second, the world was nothing but pain, splinters, sawdust, and the grim awareness that I had dropped my guard. That would have never happened to me when I was still in my human body, but I also had power armor with a thaumatechnological 360° detection suite.
+
+However, I didn’t have time to berate myself any further, or even to wait for my body to stop hurting all over. So I rolled to the side and pushed myself up instead, already willing energy into Ardor. The pulse released a split second after I got to my feet and jumped back. At the very same moment, something large and invisible crashed into the spot I’d lain just a second ago.
+
+{CPU Load: ▲▲▲ 99%}{Core Temp: ▲▲▲ 83° C}
+
+Again, the world turned blue for a moment, and the outlines of not one, but two large Ferals seared themselves into my vision. Not willing to repeat my earlier mistake, I threw a hurried glance over my shoulder, and my heart sank when I found another Monster sprinting straight toward me. I barely had to register its form before it lunged and I had to twist away to avoid getting knocked down again. As I whirled around, I unlocked Pharus and spun it in a wide circle to buy myself some time to collect my scattered thoughts.
+
+As always, when the world caught me unaware these days, violent flashes of memory tried to pull me into a mindless panic. Even so, the reassuringly familiar grip of my weapon’s handle, interwoven with the intuitively assertive rattling of its chain, kept me in the here and now. Before the flail’s head completed the complex pattern I drew around myself, I had soothed my fears and calmed my mind. With serenity came clarity of mind, and a quick effort of will made the Ferals fully visible.
+
+[H4xxl3r][DPM filesize: XX LKB][>>Calculate exact filesize?]
+
+[Jet_Printer_00231][DPM filesize: XX LKB][>>Calculate exact filesize?]
+
+If the last couple of Ferals had gone with more of a heavy machinery theme, these were taken out of a late 80s office. Lots of yellowed plastic and big, protruding buttons that someone had slapped onto the chassis of oversized toy robots, then instilled them with a healthy dose of murderous intent. One looked more canine and clearly used its gaping shredder maw to attack, but the other—the printer—left me absolutely clueless. It was slow and clunky, and if it hadn’t been glowing an ominous red from every gap on its plastic body, I would have assumed it to be another grazer, like the shiny rare.
+
+God damnit, why couldn’t any of these things be identical? At least they weren’t too big of a threat, only two digits into the kilobytes.
+
+I pushed the thought away and, after making sure both machines were adequately cowed, I spun and faced something that looked like someone had drawn a caricature of a fox over the bastard lovechild between a V8 engine and an angry blender.
+
+[A-Ring-A-Ding-Ding-Screech][DPM filesize: >XXX LKB][>>Calculate exact filesize?]
+
+I fucking had to go and jinx it, didn’t I? Feeling more annoyed than anything, if only to distract myself from the rising anxiety, I tried to position myself so that I could keep all three Ferals in my field of vision. The forest floor was still littered with the splinters of the tree the Ferals had launched me through, and with my core temperature at a crispy 83°C, Arx let me know that it was close to shutting down at regular intervals. Not the best position I’d ever fought out of, but not the worst, either.
+
+I caught myself wishing any of my friends were here, including Zephyro, but the thought felt more exasperated than afraid. Unless that fox was closer to four digits than three, I probably had a decent chance in a fair fight, especially on my home turf. The only issue was that three against one was hardly fair, so my attention snapped to the two weaker Ferals again. They kept a respectful distance from the amalgamation of whirring blades that was the fox, which told me they weren’t in the same pack at least. I was tempted to scan both of the office drones to see how strong they were, but I couldn’t risk Arx overheating, even if my core temperature was already dropping steadily.
+
+{CPU Load: — 61%}{Core Temp: ▼ 80° C}
+
+Only one thing to do, then.
+
+Hit them hard and fast.
+
+I shot forward, Pharus’ chain flying ahead in a tight arc. I’d been aiming for the printer to reduce the number of unknown variables in the fight, but shredder-face jumped in the way, trying to snatch Pharus’ head out of the air. Remembering the last time a Feral disarmed me, I whipped it back just in time. I let it draw an elegant arc that I hoped would serve double duty, and keep the fox back, too.
+
+But I needn’t have bothered. The stronger Feral, in all its hideous and sharp-angled glory, kept its distance on its own. It released a short burst of metallic screeching that almost sounded like speech, and while I had no idea what the fox said, it backed off slowly and vanished into the thick foliage. I wasn’t dumb enough to think it had actually fled, but its temporary retreat gave me the opening I needed.
+
+Without having to worry about an angry canine made of blenders jumping my back, dealing with the two rabid office drones was an easy task. They must have sensed the same because their earlier threatening bluster faded, replaced by a hesitant retreat. I couldn’t allow them to escape, however. Not only were they dangerous, they also held the key to my survival.
+
+I grabbed Pharus by the chain and whirled it over my head, quickly building momentum. Just when the printer twitched, I let go, and the head of the flail shot forward. Again, the shredder tried to interject, but this time I had planned for it. The second it began to move, I grabbed the chain again and yanked Pharus back in a horizontal arc that ended square in the shredder’s side with even more momentum than the initial attack.
+
+Plastic cracked and metal bent as my weapon collided with the machine’s plating, but while the attack drove the Feral back a couple of steps and red sparks crackled all over its body, it wasn’t dead. A shimmer of red ran over it, and its wounds began to knit themselves together slowly.
+
+I wasn’t going to give it the time it needed.
+
+Just when I was about to head in for the kill, however, the feral printer revealed its hand. There was no warning but a soft click and whir, but high on adrenaline as I was, that proved to be enough. Instead of launching myself forward as I had planned, I awkwardly pirouetted away as a thin beam of pure black pierced straight through my original trajectory. When it hit a tree a couple of steps away, it withered and crumbled to a fine black dust.
+
+“Jesus fucking Christ…” I hissed, already a little out of breath, but that was enough time wasted. I flung Pharus against the Shredder once more to buy myself the second I needed to close the distance between me and the printer. As I raced toward the Feral with my weapon rebounding off its companion, there was nothing to do but pray that it had to reload that attack.
+
+Fortunately, it seemed that it did. Unfortunately, it could also shoot razor-sharp slices of paper that I should have dodged, but I was running out of time. Barreling through the torrent of projectiles and begging Arx to hold on, I got into melee range just as my CPU hit the temperature threshold.
+
+{CPU Load: ▲▲▲ 91%}{Core Temp: ▲▲ 85° C}
+
+{[Arx, A Saint’s Terrified Embrace] HAS BEEN DISABLED.}
+
+I was almost disappointed when my first overhead strike crashed straight through the plastic that made up the printer’s shell. The wound sparked once, then exploded into Logic, which I immediately absorbed. While meant a second with my back turned toward the remaining machine, I couldn’t risk either it (or the fox) snatching the stuff away.
+
+[>>user [Jet_Printer_00231] has disconnected.]
+
+{INCOMING LOGIC - 85 LB}{AVAILABLE LOGIC - 606 LB}
+
+Out of instinct, I tumbled to the side while the Logic still flowed into me. It proved to be the right call, as it meant I easily dodged the shredder’s attack. Arx was offline while my CPU cooled down, which meant I needed to be extra careful. My DPM could probably take a few hits, but out here in the wild, I’d have to repair it using Logic. That would pull me even deeper into the minus, and I couldn’t afford that if I wanted to survive.
+
+Fortunately, the Feral wasn’t in any shape to fight. Where before it seemed hesitant, now it showed clear signs of fear. The wound I’d inflicted earlier had already closed, but it was still obvious I’d done some significant damage. Loud, grinding barks of tearing metal escaped its throat as it tried to threaten me, but it was already walking backward. While that might have seemed pitiful to the Sam I’d been shortly after the plane crash, I was not that woman anymore and didn’t want to become her again, either.
+
+More than anything, I wanted to live, so mercy was not something I could afford, especially not with the fox stalking still skulking around. So I made its end quick and as painless as possible.
+
+{INCOMING LOGIC - 94 LB}{AVAILABLE LOGIC - 700 LB}
+
+I split my focus between drawing in the Logic and charging up Ardor. It felt like it took ages to force the program to respond. I could practically feel my CPU protesting against the strain. My heart thrummed in my chest as my breath came in ragged, short bursts, and my inner monologue turned into a monotonous, squeaky pleasepleasepleaseplease. I squinted, then shut my eyes completely when the last wisps of Logic sank into my soul, giving all I had to Ardor.
+
+{CPU Load: ▲▲▲ 99%}{Core Temp: ▲▲ 88° C}
+
+A couple of breathless seconds later, it pulsed, and my eyes flew open to behold an azure world. I whipped my head around so frantically that sweat sprayed off my brow. However, while thankfully, I could find no trace of the fox, I immediately spotted three more Ferals stalking through the forest. And obviously, they were heading straight toward me.
+
+“Ach, Ficken…” I cursed in German, exasperation slowly overtaking my fear. How much bad luck could a girl have? Still, I calmed myself, and despite the lingering terror, I pushed down the urge to flee. It would have been a dumb idea. These were predators, made to hunt. But I didn’t need to run. Not if I could boot them out of my Domain instead.
+
+“Chris? Turn off Nexus, please.” I was panting and nearly trembling with exhaustion and fear, and yet, I couldn’t help but be proud of myself. I could have fallen back into fury, but instead I had remembered that I was queen of this place, and that queens ruled absolute.
+
+Beep.
+
+[>>ERROR: nexus.exe is currently in use by [10+] processes and can not be terminated.][>>Please terminate all processes to proceed.]
+
+Boop.
+
+“Ach verfluchte Drecksscheisse, Mann!”

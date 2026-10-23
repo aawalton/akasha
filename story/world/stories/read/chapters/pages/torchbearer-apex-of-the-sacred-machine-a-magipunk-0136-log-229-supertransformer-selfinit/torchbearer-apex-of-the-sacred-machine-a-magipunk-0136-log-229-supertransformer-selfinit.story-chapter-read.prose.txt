@@ -1,0 +1,119 @@
+{Loading…}{Loaded.}
+
+[>>Now replaying: Log 2.29 - super(Transformer, self).__init__()]Date: 20.9.175 AA / 4404 LTCLocation: Dj’s Domain // Musington Dale NorthRemaining Logic: 4205 LB
+
+//You can achieve a lot if you steer your attention correctly//
+
+//Extraordinary circumstances require extraordinary change//
+
+//Two steps forward, one step back//
+
+[>>DATA CORRUPTED]
+
+Less than an hour, and another couple of reloads and a minor heal later, the last Zombie collapsed in a shower of cyan gore. I flicked Pharus to clear away chunks of rotting flesh and charred circuitry, then found a clean-ish spot on Arx to wipe it down. Even though I wasn’t satisfied with the results, I reassembled the Torch and stowed it in its holster. Usually, the act of cleaning my weapon after a fight allowed me to clear my head, but this time, my thoughts kept circling around what had gone wrong.
+
+Ferals were a lot like private equity funds. I had yet to find one that didn’t come running when they heard the whisper of currency being spent, but Latirae had definitely learned from her mistakes. I needed to stop thinking of Latirae as yet another mindless monster. Being honest with myself, the odds of success had never been great, but if I had made any mistake, it definitely had been hoping Latirae would hang around to taunt me, as she’d done in the past. That had been before I’d advanced Manus and shot her in the head. Why would she ever stick around for a second round of that? I certainly wouldn’t, and she was still wearing my face, after all.
+
+Questions of faces and intelligence aside, however, I’d definitely come out of the encounter worse for wear. The silver lining was that it was unlikely this entire scenario had been laid out specifically to trap me. There was no way for the Crimson Lady to tell if I was even in town, and the random, remote location of her call, as well as her erratic behavior, spoke of desperation more than careful planning. I hadn’t accomplished my primary objective, and still spent a ton of resources that I wasn’t able to recoup.
+
+I wistfully swept my eyes over the cyan-wreathed battlefield one last time, then turned toward the city center and began walking. It was tempting to think I hadn’t achieved anything and that this had been a giant waste of time and resources, but that was something Olre would say, and I was done with that asshole. I’d stopped a massive attack on the town and potentially bought myself a lot of goodwill, once people heard of it. It was a good first step, and that would have to be enough for now.
+
+As I left the battlefield behind, I checked Realtime and found it in synch with Domaintime. Convenient, but also concerning. It was way past midnight already, which meant Pina’s call was coming up in a few hours, and I didn’t know where I’d find the time to prep for that meeting.
+
+I tsk’d at myself as I stepped over a fallen lamppost. Prepping for a meeting with a teenager. I was far too tired for this shit. Pina wasn’t a shareholder—not really—and my Logic reserves weren’t some sort runway fund. The thought of Pina in a suit, flipping through a portfolio, brow furrowed in concentration, made me snort with wry amusement. Actually, though… thinking about my situation like that might help.
+
+How would I approach my current circumstances if this trip weren’t an adventure, but a venture? The steps I’d have to take came to mind easy enough, even after all this time. I’d gone through them often enough, after all. I’d tried the fast, easy, unplanned, and expensive way, and it had failed. Now it was time to shift my mindset from murdering zombies to long-term planning, and so I’d have to get my objectives and key results straight. Afterward, I could go from there.
+
+So, as my boots left an ephemeral trail on ash-covered, cracked asphalt, I began shifting priorities in my head.
+
+The ultimate goal was to keep the kids safe. Or, well, getting out of the laptop, but I needed them to be safe so I could do that. Objective, check. What about the key results? Also easy. Neither my DPM, nor my Logic could bottom out. Breaking it down further, the first step to achieving that goal was to kill Latirae, even if that was just a short-term solution. If the kids reached “home”—wherever that was—without the Music Box repaired, Voni would get exiled, and Pina would sell me to the Mage Lords.
+
+I briefly tried to numerize that as a key result, but it didn’t work. Writing “0/1 Voni in exile” just seemed callous, and binary key results were useless, anyway.
+
+Another objective, then. Get this Domain unshackled within 14 days. Key results? Keep as many of its people alive as possible, while reducing the amount of Ferals and gang members roaming the streets to zero.
+
+A smirk tugged at the corner of my lips. As weird as it felt to look at a matter of life-and-death with a quaint little management toolkit, it worked. At least I thought it did. I might just have been exhausted and unaware that I’d entered that strange 4AM mind space where everything was kinda funny.
+
+So, unbound by matters as trivial as propriety or a sense of adequacy, I did what any reasonable startup entrepreneur would do.
+
+I made a spreadsheet.
+
+Except that memOS had no spreadsheet program, so I had to hack it together in a text editor I dug up somewhere with far more concentration and effort than I should have. I definitely needed an upgrade for memOS, but when queried for the cost, it returned a staggering 5700 LB price tag. No way. Not in this economy.
+
+So I carefully made my way around a smoldering car, and just called up the damn text editor. The result was serviceable enough, anyway.
+
+{SAINTECH Ventures GmbH & Co. KG
+
+>OKRs - Q4/175<
+
+Company Vision:Get the CEO out of the CTO’s laptopA case of literary theft: this tale is not rightfully on Amazon; if you see it, report the violation.
+
+Objective 1:Keep the kids, and yourself, alive
+
+Key Results:-[3/3] employees/kids alive by EOQ-DPM must not reach [0]-Logic must not reach [0]-Energy must not reach [0]-Bonus: “Kids” must not exceed [3]
+
+Objective 2:Cleanse a small American town of organized crime (and zombies) to increase investment synergies with teenage Conservationists
+
+Key Results:-Ferals in Musington Cove must be [0] by 3.9.175-Cracked Gang members in Musington Cove must be [0] by 3.9.175-Citizens alive in Musington Cove must not fall below [10.000]}
+
+I chuckled, determined to show the fruits of my labor to Chris when I got back home. The original Chris would have loved this, and I thought their feline clone might enjoy it as well.
+
+My amusement stayed with me for a few more minutes, but ultimately it melted beneath the blind stare of burned-out windows. As I made my way through the destroyed houses, I poured those molten remains of my joy into a crucible of solid will, where it set into cold determination.
+
+Latirae was gone for the moment, and I had no way of finding her. That left only one avenue of progress. Repairing the Music Box would require getting rid of the Shackle strangling this community. That meant finding the mayor and finding out why he let the Shackle run rampant, or killing the gang leader of the Cracked and cutting off supply. I just had no idea where to find either. Finding the gang boss seemed easy, at least at first glance. If I caught one of the gang members, Pharus would tickle the location of their hideout out of him. If it were that simple, however, someone else would have thought of it before. So there had to be reasons why it didn’t work, even if I was sure they didn’t have as much practice as I, or my commitment to getting things done.
+
+That left the harder option of finding the mayor and getting him back into power. While I couldn’t be sure, I assumed that to take over a Domain, a Shackle had to do something to the Music Box’s core process. Kill him, probably, then take his place. The Shackled in Zephyro’s Domain had certainly spared no expense trying to get their filthy hands on him. They had been connected as external clients, however, trying to infect Zephyr’s cluster from without. In this Domain, the Shackle was obviously connected to the Cracked gang, who clearly weren’t external agents. Was that because the Domain had already been infected, or because of the way it had been infected?
+
+God, I missed Zephyro. He could probably tell me what was happening, even though I’d need Kasha to translate for me. There weren’t many things I wouldn’t give just to hear him weave a convoluted techno-magical metaphor Kasha and I could untangle together. The past was the past, however, and no place for the living. In the here and now, I needed to be on guard. Last time, things had gotten far too close, far too often.
+
+Not that being aware of the danger would help if I fell asleep on my feet. The nap on the heli hadn’t been nearly enough shut-eye, and after the fight and all the information I’d gathered, I desperately needed a safe place to crash for the night.
+
+As I wove my way through the debris of Musington Cove North, a bright line had appeared on the eastern horizon and turned the black of the sky a deep blue. A few birds arrayed themselves on tangled overhead power lines and began their morning orchestra.
+
+Okay, minor change of plans. I should think about a place to crash for the day. There had to be a decent hotel in this town. They certainly seemed to get enough visitors, which still seemed weird to me. How did that even work? Why would it even work? What could a Bluetooth speaker ever gain from inviting guests from other devices? The moment I thought of the question, the answer became obvious, and I rubbed my forehead. This was all so fucked up.
+
+After allowing myself a few seconds of rubbing my eyes, I slapped my cheeks to force myself back awake. While I wanted nothing more than to bury myself in a soft bed, I needed to stay alert. So long as Latirae was alive, it didn’t matter where I slept, as long as it was close to Musington North.
+
+How to kill her was another problem. Perhaps I could try to push through to her during the next assault, but that would mean letting a large number of Ferals slip past me. Best case, Pina would get pissed. Worst case, the remaining defenders of the city would get overwhelmed completely, and the kids would die.
+
+Besides, I needed to keep advancing my systems if I wanted to distract the Ferals from the rest of town. But that required Logic I didn’t have, unless I went back to my own Domain to hunt, which I couldn’t until Latirae was dead.
+
+Fucking catch-22.
+
+Something needed to change. But what?
+
+I spent the rest of the long trip back pondering my theoretical options. Taking the bike would have been faster, sure, but in the end I was glad I hadn’t. Even though I was tired to the bone and craving the soft caress of my mattress, I had needed the time to think. By the time I stepped into the glaring floodlights of the barricade, I had my thoughts sorted, and my priorities straight.
+
+I must have presented a surreal sight.
+
+A woman walks out of a charred no-man’s-land, clad in a dark blue trench coat covered with neon blood. She’s got traces of the stuff smeared on her face, even matting her curly hair. No weapon’s visible except for a flashlight clanging against her hip. Under the floodlights, her body casts dozens of shadows, deep and mysterious. As she approaches, they shift and stretch, all the way back into the burning dark she came from.
+
+In short, exactly the vibe I wanted.
+
+Unfortunately, there was no big gate for me to throw open dramatically, just a small sallying port covered by a rusty truck. Still, I made it work, strode through the light to vanish into the shadows pooling at the base of the barricade. They moved the truck for me without a word, which was great, because hollering ‘Sorry? Hey!? Yeah! Could you let me in please?!’ would have been a death knell for the persona I was trying to cultivate.
+
+I still hated wearing masks, but when life gives you glowing zombie viscera, you either complain, or learn how to use it. You wear it like makeup; You don a persona of the kind of person who commands respect, if not adoration. Someone dangerous, someone you want to have on your side when the shadows get deep and the nights get long. A woman you could pay to walk the dark in your stead, to slay it with light.
+
+An adventurer.
+
+A mercenary.
+
+A Torchbearer.
+
+When I emerged from the tunnel, I was no longer a lone, lost woman trying not to fail, but a professional you wanted to hire if you expected the best. Inwardly, it amazed me how well that role still fit. It had been centuries since I’d worn it last, and yet, sliding into the mindset had been nearly effortless.
+
+My feeling did not betray me, either. Wide-eyed thugs greeted me as I came forth. They tried to cover up their fear—albeit inexpertly—with fragile bravado, bewildered curiosity, and, of course, greed not yet turned rapacious. Their guns gleamed a bland silver under the streetlights, the dark void of their muzzles ordering me to freeze. I, however, kept walking.
+
+It was a tense moment, an invisible struggle between my icy confidence and their hot-headed desire to prove the power they believed they had. Once all their posturing amounted to nothing, however, the Cracked lowered their weapons sheepishly. One after the other, they made way for me. One of them dropped their cigarette, and I made sure that my boot ground it to ash as I passed.
+
+After all, there weren’t just Cracked about. While about half the people manning the walls wore the telltale orange accessories of their gang (clashing with police blues far more often than I cared for) the other half were just people. There was a mishmash of people of all ages, genders, and color. Unlike the Cracked, they wore no uniform to speak of, unless you counted haphazard weaponry and that particular look of the defiant; desperate determination that belied inevitabilities not yet accepted.
+
+They were the source of the only problem that remained. Even though the role I’d slipped on protected me from the guns of the Cracked, it didn’t offer me much protection from the looks coming from the rest of the crowd. Suspicion, gratitude, respect, admiration, hope. Each expression worse than the other, their implied demands crashed against the confidence I projected and pushed me further away from them.
+
+Nothing about the persona I’d chosen had changed in all these years.
+
+I told myself that it didn’t matter. It had to be done.
+
+But still, as ever, it was cold at the top.
+
+So, trying not to meet the eyes of those nascent believers, I forged a path through the crowd, silent as a winter sunrise. The Cracked who shuffled their feet and coughed quietly, however, I didn’t pay another thought. I wasn’t looking for the people who did, but the ones who decided what to do, and walking among their people with weapons drawn and my head held high was a sure-fire way to get them to come to me. Already rumors of what I’d done passed from hesitant lips to curious ears. Whoever was in charge, they couldn’t let this challenge go unanswered.

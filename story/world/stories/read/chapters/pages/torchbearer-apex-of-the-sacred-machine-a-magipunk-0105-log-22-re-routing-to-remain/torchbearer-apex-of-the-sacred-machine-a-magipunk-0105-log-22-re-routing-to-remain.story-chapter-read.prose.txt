@@ -1,0 +1,143 @@
+{Loading…}{Loaded.}
+
+[>>Now replaying: Log 2.2 - Re-routing to Remain]
+
+Date: 9.9.175 AA / 4404 LTCLocation: UNNAMED_DOMAIN(LARES)
+
+//Have you heard of the Japanese culture around the hikkomori, the shut-in? Someone so afraid of all that pain, out there in the world, that they’d much rather stay inside and never come out?//
+
+[>>DATA CORRUPTED]
+
+“Alright Chris,” I asked my feline companion after I joined them in the kitchen. “Are you up to being my soundboard for a second?”
+
+“Beep?” they asked, their scarf waving curiously in an unfelt wind as they finished their last bits of raw meat.
+
+“I figured I’d discuss my ideas with you, and you tell me if they’re feasible.”
+
+“Beep!”
+
+“Can we sit on the couch for that, or is that still off-limits?” I batted my eyelids at them.
+
+There was a calculating pause, heavy with silent judgment.
+
+“I’ll pet you?”
+
+I was definitely not above trying to bribe the judge, the jury, and the executioner. Sue me.
+
+“…beep.” Their slitted eyes were gleaming with begrudging approval.
+
+“Okay, great!”
+
+As I headed over to the couch, Chris followed me, licking their muzzle clean of blood. When I sat down, they hopped onto my lap, curled into a ball, and watched me with large, glowing cyan eyes. When I didn’t begin petting them immediately to adjust the pillows, I felt ten sharp claws dig through my jeans. Hurriedly, I paid my dues as I spoke.
+
+“So, I was hoping that Pina would just contact me first chance she got, right?” I asked.
+
+“Beep!” Chris agreed.
+
+“But it’s been almost two days.”
+
+“Boop?!”
+
+“Exactly. Why wouldn’t she? I mean, sure, there are a couple of reasons. She’s on the run from a nefarious group, her best friend or sister just got blinded by some nightmarish machine, and she’s part of a religious group that still seems to brainwash its followers into thinking all technology is evil. That being said, though, I think I did a pretty good job of proving my worth, didn’t I?”
+
+“Beep!” Chris agreed.
+
+“Right?!” I said, vindicated, and scritched Chris’ head as a reward. Had to reinforce good behavior, after all. “So why the fuck will she not call me?!”
+
+“Beep.” There was a pause, barely filled with the sound of cloth rustling as I adjusted my position.
+
+A minute later, when I was comfortable, and the silence became anything but, I sighed.
+
+“…I just hope they’re okay,” I said quietly, and began petting Chris in earnest. They purred like an old CD-ROM drive, but eventually, they dug their claws into my thigh, and I squinted in pain.
+
+“I know, I know.” I was procrastinating a little, rehashing what we already knew. “We have to get out there and get some Logic, somehow. Hence, the plan.”
+
+Their claws retracted, which probably meant I was on the right track.
+
+“Since the Ferals aren’t knocking at the front door, and I didn’t get a message that they disconnected yet, they are probably hiding out in the forest. That’s an issue, because I have no fucking clue where that might be, and I still don’t know how big this place is, either. I am getting some vague sense from memOS that’s telling me it’s big, but I don’t know how big. No scale of reference, you know? I also have no idea if the Domain maps the real world one to one.”
+
+“Boop,” Chris interjected, and I raised an eyebrow.
+
+“You mean it doesn’t?”
+
+“Beep.”
+
+I pointed out the window. “So if I walk in that direction for a couple of days, I won’t reach Wexler?”
+
+“Boop?” Chris said, shrugging their little shoulders.
+
+“So I might, but you don’t know?”
+
+“Beep.”
+
+“Wait, then what did you mean?”
+
+“…beep?”
+
+“You really need a speech module, you know that, right?” I sighed and resumed petting them.
+
+“Boop,” the little cat purred, and after rolling my eyes, I got back to the main topic.
+
+“Anyway, the Ferals are out there, and I know this place is big, so the immediate plan is to go exploring. Get the lay of the land, and if we’re lucky, catch a Feral and harvest its Logic. I’m just hoping I’m strong enough to defeat whatever we find.”
+
+I paused, frowning. “Actually, without Cura active, how am I even supposed to find any Ferals? In Zephyro’s Domain it was easy because the open Bunker network was so large, with so many open ports in his network, the fuckers just kept sneaking in. But I don’t have that network anymore. How are Ferals going to connect to this Domain?”
+
+Without looking, Chris’ scarf unfurled and pointed at the router that hung above the front door, next to the blade and gauntlet I’d just mounted.
+
+“Right. Nexus. Makes sense.”
+
+“Beep.”
+
+“So, first things first,” I said, getting up (making Chris get up, too, despite their protests) and headed for the ladder I still hadn’t packed away. When I climbed the last rung, I tapped the router with a single finger. With a gentle thrum, the edges of the hardware started glowing with a soft cyan light.
+
+{NEXUS.}If you discover this tale on Amazon, be aware that it has been unlawfully taken from Royal Road. Please report it.{>>Resuming operations…}{Done.}{>>Setting parameters…}{>>Done.}{>>NEXUS OPERATIONAL.}
+
+Only when I turned back to smile at Chris did I realize I had no idea what I had just done, or how I knew to do it. God, but I hated and loved this place at the same time.
+
+Chris seemed to understand my bewilderment and decided to either take some work off my shoulders or add to my confusion. You never knew with them. Whatever the reason for their help, their long scarf unfolded from its neat bow and twisted into itself, quickly forming fractal shapes that lasted less than a heartbeat. Finally, Chris’ eyes flashed blue, and another readout chimed in my conscious.
+
+[//sudo nexus.exe -set broadcast 1][>>Now broadcasting Domain presence to ALL nearby devices.][//sudo nexus.exe -set auto_permissions @nwscan #new_entity $guest][>>Nexus is now assigning new users found nearby the initial rank of “Guest”][//sudo nexus.exe -set permissions guest connect 1][>>Nexus is now admitting all users of rank ‘Guest’ or higher to the Domain.][>>Warning: ‘Nexus’ is a public network. No passive network scanner found. This network may be unsecured and represent potential harm to your device. Please contact a Network administrator for more information.]
+
+-<>NEXUS<>- {Incoming connection request from [Blood_Hound_Gang], [Gr4zer], [Shiny_rare], Capr34_4lb4], [EIGHT-SEVEN-FOUR], and [DAX]}{Handshaking…\}{>>Done.}{Authenticating…\}{>>Done.}{Awaiting response…\}{>>Accepted.}{8 clients connected.}
+
+[>>Warning: Domain Size exceeds parameters.][>>Nexus is unable to list details on connected devices.]
+
+And just like that, my vacation was over.
+
+It would have been just my luck if all the Ferals that just connected to my Domain spawned in my kitchen, but for once life wasn’t trying to screw me over. A couple of tense minutes passed, but nothing happened except for Chris pitter-pattering to the kitchen and having an afternoon snack.
+
+On the one hand, that was good. If Ferals could just manifest in my house, it wouldn’t be safe to leave Nexus running, and I hadn’t found a way to be selective in its connections yet. On the other hand, it meant I’d have to leave the house if I wanted to find whatever had just connected to my Domain.
+
+“Well, it was fun while it lasted,” I said as I packed the toolbox and stowed it somewhere in the kitchen. I would need a place to store all the knickknacks I bought. Perhaps I could repurpose one of the rooms downstairs and…
+
+I grimaced, realizing I was procrastinating again.
+
+One way or another, the more I thought about leaving the house, the more uneasy I felt, in that subtle way that makes you think nothing is wrong and makes you procrastinate to ignore it until it boils over and you yell at your boyfriend for leaving the toilet seat up.
+
+A forest, somewhere a couple of days’ worth of travel away from Veltruvia. Zurne faces Underbrook, his awkwardly youthful frame dwarfed by the taller, older man. Even so, he’s not backing down.A campfire a couple of steps away casts the scene in twitching firelight. Iruli’s there, somewhere, tending to the flames so we’re at least warm tonight. We’re missing the rest of our friends. Dearly.“Not really about that, is it?” Underbrook asks, his expression calm as he studies Zurne’s face. Our youngest friend is still seething after blowing up into the tall man’s face. Although I understand his frustration, I agree with Underbrook.“He took the last damn jerky! That was mine!” Zurne insists, determined to dig his own grave.“Zurne?” I ask, and his head jerks in my direction. For a second it looks as if he wants to throw something in my face, too, but a raised eyebrow from my side shatters that plan of his.“Yeah?” he grumbles.“Stop being a little bitch?”He gapes like a fish on dry land and unlike Underbrook, who manages to hide his smirk in his massive beard, I can’t help but chuckle at his expression.Just as he’s about to launch into a tirade that he will regret later, Underbrook’s palm comes to rest on his shoulder. I can almost feel it myself. Heavy, powerful, immovable. When Underbrook grabs you, you know you are either about to die, or that nothing in the world will ever cause you harm as long as he is there. In this moment, it’s the latter.“Boy. Not about the jerky, is it?”Zurne’s hands flex and it looks like he’s trying to shrug off Underbrook’s hand, but you might as well try to shrug off a mountain. If he wants you to pause and think, you pause and think. Otherwise, you’ll spend a long time not going anywhere with his hand on your shoulder.The kid chews his lips, but finally, the tension leaves his body and he sighs. “I’m just hungry, is all.”“Hangry, yeah?” I say with a grin and am about to suggest I get him something else, but Underbrook shoots me a look that makes me pause. His hand never leaves Zurne’s shoulder, but I can’t figure out why for the life of me. Didn’t we get the reason? Shouldn’t we move on?“Hungry doesn’t make you insult my ma,” Underbrook says, and there’s no threat or vitriol there. Just careful curiosity, laced with the strong suggestion to better think again. He’s right. Zurne is a hothead, but no one would ever say what he said about Underbrook’s mother, hotheaded, hangry, or hale.Again Zurne trembles, and with a start, I realize I understand how he feels. He’s struggling hard through the discomfort of facing yourself and finding yourself wanting. It fucking sucks, and I hate it every time Patti makes me do it.“How long will supplies last?” he asks in the end, and the mood turns somber.“We’ll make do,” I say. “If push comes to shove, we can always go to a village and barter.”“And leave another one of us behind?” Zurne asks, and my hand twitches with the sudden impulse to slap him across the face. How dare he? Doesn’t he know that—“Hey, calm down there, jerky boy,” Lorelye interjects from over at the campfire, which makes us all chuckle, even Zurne.For a second, Underbrook looks as if he wants to push the issue, but I guess even he’s still too raw from losing a friend. In the end, we decide to give in to the artificial mirth and leave harsher truths unspoken.
+
+The memory ended like a book snapping shut, leaving me frozen mid-step. I wasn’t dumb. I knew some arcane subroutine in memOS had decided that this scene was important to what I was thinking. Even so, I’d be damned if I knew what Zurne’s fight with Underbrook had to do with anything, besides being about hunger. Underbrook always got things done once he set his mind to them, and Zurne the farthest from being a procrastinator that was humanly possible, often to his detriment.
+
+Instead of thinking about it for hours on end, I scoffed and forced myself to take the last couple of steps to the bedroom, where I changed into the dark combat fatigues that came with my wardrobe. As I put on the unfamiliar clothes and regarded myself in the mirror, the memory began to fade, slowly covered by other thoughts, like a lawn by autumn leaves. Still, I couldn’t shake the vague feeling of haunting resonance it had left me with.
+
+I was still thinking about it when I fastened my boots and checked myself in the mirror. The clothes were baggy, dark, and utilitarian. Lots of camo print, which reminded me of Voni’s jacket, and lots of pockets which reminded me of Tin, and so I began thinking of the kids again, wondering if they were alright. A couple of minutes later I found myself back in the living room, trying to get the giant TV to work, when Chris walked up to me, said “Boop,” as stern as anyone can say such a thing, and their scarf gestured toward the door pointedly.
+
+“I’m doing it again, aren’t I?” I asked.
+
+“Beep,” Chris replied, unamused.
+
+Massaging my temples, I let out a long breath. I really didn’t want to go out there and leave the small amount of peace I’d managed to claim for myself behind. I wanted to sit on the couch, pull a blanket over my head, and pretend things would work out well even without me doing anything. Surely, once Pina calmed down a little, she’d just feed me Logic…
+
+I grimaced, suddenly painfully aware of my delusions. I was an idiot, trying to rely on a bunch of pubescent children to solve problems that I couldn’t even begin to understand. I was going to fuck it up again. I was—
+
+No! No. With a sharp breath, I barely managed to catch myself before I fell back into old patterns. Getting angry wouldn’t get me anywhere. Being that woman—angry at the world and furious at herself—had cost me everything, and I’d paid dearly for the lessons that finally allowed me to leave that old, vengeful husk of a woman behind. Too dearly.
+
+I slapped my cheeks with both hands, trying to coax some clarity into my thoughts. I had to get out there and earn my keep, or I’d starve. After all, I didn’t know how long my supplies would last and…
+
+“Not really about that, is it?”
+
+And then it all clicked.
+
+I wasn’t scared to leave the house.
+
+I was scared of what I’d have to do before I left.

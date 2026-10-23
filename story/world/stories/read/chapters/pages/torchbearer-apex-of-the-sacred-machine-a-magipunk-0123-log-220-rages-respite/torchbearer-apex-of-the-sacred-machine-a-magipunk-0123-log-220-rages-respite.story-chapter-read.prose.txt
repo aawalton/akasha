@@ -1,0 +1,411 @@
+{Loading…}{Loaded.}
+
+[>>Now replaying: Log 2.20 - Rage's Respite]
+
+Date: 18.9.175 AA / 4404 LTCLocation: UNNAMED_DOMAIN(LARES)Remaining Logic: 5230 LB
+
+//The rain has fallen—//
+
+//This is really not the time for that discussion, Dagger. Let’s put it aside for the time being.//
+
+[>>DATA CORRUPTED]
+
+So I hefted Pharus, pulsed Cura to be doubly to account for every Feral in the vicinity, and descended on the machines with all the desperate fervor I could muster.
+
+For a while, I managed to hold the tide at bay, but the more time passed, the stronger the Ferals got. I knew this was just a logical result of a complex interplay between DPM sizes, virtual travel speed, and intelligence. Even so, it was almost like the Havoc was alive, growing more and more desperate itself as its reserves ran out.
+
+Latirae didn’t show herself again. Perhaps she had died when her pillar collapsed, but I didn’t even dare hope that in my wildest fantasies. Maybe she had dissipated into a hive mind, controlling the Ferals like that one woman with the robot body from Star Trek, but most likely, she still lurked somewhere close by, just waiting for me to slip up.
+
+With so much on the line, however, my focus was like tempered plastisteel. I dodged, attacked, blocked, dodged again, killed Feral after Feral, all while barely managing to keep my CPU within safe parameters. Even so, the Havoc grew stronger by the minute, while I couldn’t help but tax my CPU more and more. I briefly thought about advancing again, but I reserved that plan for an absolute emergency. The fighting was too thick. Without even a second to focus, there was no telling what the Logic would do once I unleashed it, and even though every Feral that died meant my reserves grew, I was sure I needed to stockpile more in case Arx overloaded again.
+
+I hadn’t even had the time to check how much Logic I’d saved up, yet, but I was sure that—
+
+A readout etched itself into the serial number written on the skull plate of a cybernetic troll just as he raised a huge construction beam over his head.
+
+{AVAILABLE LOGIC - 15820 LB}
+
+The surprise hit me so hard; I faltered for just a second, and almost got clubbed to death by a ton of stainless steel. As it was, I barely managed to dodge, and the weapon clipped my shoulder, instantly bringing Arx close to its threshold.
+
+For an insane second, I considered just staying in the thick of it. I had enough Logic to heal my entire body several times over, after all. But I couldn’t waste the resource, so I gave a little ground in an attempt to get my core back under control.
+
+The Ferals weren’t nearly as thick as they had been earlier, and I faced only five to ten at a time, instead of twenty or more, but that unfortunately didn’t make it better. The Havoc had finally dwindled to all but its most powerful parts, making every Feral I faced a serious challenge. Whereas hours before, each monster had taken only a hit or three before they died, the ones I faced now shrugged off dozens of blows before their DPM started to crack. If I could have ignited Pharus to empower my strikes, I knew I would have torn through them in seconds, but as it was, the moment the Troll struck me marked a final turning of tides.
+
+Before long, I found myself staggering up the steps to the Porch once more, and this time, I knew there would be no sudden surge of energy to press forward. The troll who’d struck me earlier got hit by several explosions at once. Even though there was no light or sound, I could see them denting his metal parts and charring his flesh. I took the chance, whipped Pharus into his skull with a satisfying crunch, and couldn’t help but feel grim satisfaction as he fell backwards, dead.
+
+As his Logic dissipated into nothing, however, a headless medieval armor stepped forward in his place. It was rusty, but looked as if it had once been richly ornamented, and cables snaked out of its neck like strangling vines, wrapping around his limbs.
+
+It also carried a broadsword over its shoulder that I was sure was taller than I was, and probably weighed thrice as much.
+
+[Armor3][DPM filesize: XXXX LKB][>>Calculate exact filesize?]
+
+“Oh hex, no, no, no!” Pina said, and I worriedly glanced over my shoulder.
+
+She stood in a semi-circle of broken robots, panting hard, her clothes ragged and torn, revealing several scrapes and bruises underneath. The Hexbreaker baton in her hand crackled with purple lightning, but instead of a steady, deadly stream, the Witchfire faded in and out of existence like a shorting fuse.
+
+“You held for over a hundred years, and now you give up?” Pina took another step back into the cave, halfway passing through my front door, before she caught herself and squared her stance again.
+
+Trapped somewhere between fury and fear, she pointed her trembling baton at one of the two remaining robots. “Come and get me, vile Witchwork!”
+
+Ach verdammte Scheisse…
+
+She would need to kill all the robots that had no presence in my Domain. If even one got past her, it wouldn’t be long before the Machine found my laptop and cracked me open like an Überraschungsei.
+
+And then it would go for Tin and Voni…
+
+Turning back to face my own opponent, I opened the door behind me and backed inside. This was as far as I could go. One step further, and the Ferals might reach Pina before I could destroy them. Fortunately, this was also the most defensible position I had left. The walls to either side of me were thick stone and radiated a strong feeling of permanence and security. Nothing would be able to flank me here. It would just be me and whatever Feral came next.
+
+I raised my Torch in challenge, and the armor responded in kind, leveling its enormous sword straight at my neck.
+
+“Pi-pina?” Tin said, fortunately quiet enough for her not to hear it and get distracted.
+
+That was all I had time for before the battle begun. In some ways, holding this position was a terrible mistake. I wasn’t wearing my power armor anymore, and Arx was already overloaded. A clean hit from that giant sword would probably cleave me in two, and I didn’t know if I had enough Logic left to recover from that. On the other hand, however, it meant that the armor couldn’t utilize its sword to its full potential. It tried swinging at me once, but the blade chipped as it drove into the wall above the doorframe, and I used its wide open stance to batter it with several quick lashes. The last two even dented the metal of its chestplate, and after that, it didn’t try to swing again. Instead, it switched to powerful, yet slow thrusts that I had a hard time parrying with Pharus extended, so I pulled it back between two of the Feral’s attacks and re-attached the head to the grip. I was able to parry more easily after that, but the armor had the advantage in range now, and going out there and leaving myself open to its brethren hiding just behind it would be suicide.
+
+So I parried and held fast, until I noticed the silver outline of a large, mechanized loader exoskeleton approach the cave entrance in the Real. It had an oversized chainsaw attached to one of its hydraulic arms, and I could hear the faint roar of its blades even with my microphone as far away as it was.
+
+The robot approached, inexorable, and didn’t hesitate before driving its weapon straight through one of the two smaller machines Pina had been fighting. The awful sound of metal grinding through metal echoed through the cave.
+
+There was a flicker of movement behind me, and I knew Pina had just backed away another step or two. I didn’t blame her. If she had gotten her hopes up about the Robot perhaps coming to her aid, they were immediately shattered as it raised its arm overhead, ready to bring it down on the girl.
+
+I cursed loudly and stepped forward, battering the damn armor with all the strength and speed my boiling-hot CPU could muster. There was no surprise in its reaction, just a quick, calculated step back, but I couldn’t let it escape. It needed to die now, before it could rend Pina in two.
+
+With a defiant scream, I pounced, grabbing its open neck with one hand while bringing down Pharus over and over again. I hung from its massive frame like a child, but my attacks were definitely making their mark. Without a head, the armor couldn’t scream, but it seized and twitched as strike after strike dented its rusty metal. Even so, I wouldn’t be fast enough. I redoubled my efforts and my vision shrunk to a pinprick. I felt something entwine my left hand. The cables were wrapping themselves around my arm, pulling me inside the goddamn thing.
+
+Holy shit, it wanted to consume me. Control me. As I stared into the dark interior of the armor that dared to believe it would be my tomb, I felt nothing but fury. I thrust Pharus deep into the dark interior. My thumb searched for Pharus’ switch, ready to let there be light.
+
+“Oh Lords! Pina!” Tin yelled.
+
+“It will be alright! Just stay back, I can do this!” Pina yelled, but the quake in her voice whispered, ‘Oh God, I can’t do this!’
+
+I doused myself with frigid force of will. My finger was already on the button, but I pulled it away at the last second. If I set it ablaze now, while the armor was still under Latirae’s fucking protection, this armor would make mince-data out of me in milliseconds.
+
+The cables in the armor let go of my left hand and wrapped around Pharus instead. I pushed off with all my might, but it had already coiled around the Torch so tightly that I barely had the time to thumb the other button, ejecting the head.
+
+The chain unraveled as I jumped backward, but I hadn’t taken the armor itself into account. I was still in mid-air when it slapped me in the chest with the flat of its blade. It was only a quick strike—it didn’t have enough room to pull back for a full swing—but the force of its impact still launched me through the door in a shower of splinters.
+
+I landed just inside the house, seeing stars, my breath knocked out of me. As I forced my lungs to do their job, I rolled to the side to evade a potential follow-up, but for once, luck was on my side. I still held Pharus’ handle in a death grip, and as I pulled on it with my entire weight, I realized the chain must still be stuck in the fucking armor. It felt as if my arm had been chained to a wall, but rolling into the pull must have been barely enough to unbalance the armors next strike, so instead of splitting me apart from breastbone to crotch, its massive sword slammed into the wall above the door.
+
+The armor stumbled back, and this time, it was me who got pulled along. I ended up with my head straight underneath the door, and I had just enough time to see the walls shake when something heavy and silvery hit me in the face. For a brief moment I thought the armor had punched me, somehow, but when I reached for my face, the piece of metal came away easily.
+
+So there I was, weathering a siege of cybernetic monsters in a quaint country home, unable to use my biggest trump card, lying on my back with my only weapon tangled up in a metric ton of evil metal, while a massive robot with a chainsaw arm drove a kid I’d promised to protect into a dead-end cave.
+
+And in my left hand, I held Zephyro’s gauntlet.
+
+[Lamsat alwazir almuhadiya - Hand of the Vizier]
+
+There was a clash of emotions that lasted the blink of an eye before I tempered them in a lake of cool, calculated will. The next breath I drew coursed through my sinuses like polar water and filled my lungs with cold determination.
+
+Screw it all. Screw saving Logic for an emergency. This was an emergency.
+
+I took a deep breath, and as Logic spooled into my consciousness, a readout streamed through my mind.
+
+[>>You are attempting to superlogically convert [Lamsat alwazir almuhadiya - Hand of the Vizier] into {A TOOL OF SALVATION}!>>No viable paths found for [Lamsat alwazir almuhadiya - Hand of the Vizier]>>memOS is attempting to find a solution for the problem…
+
+…
+
+…
+
+>>SAINTNET is not responding.>>Connection aborted.>>{CONNECTION ESTABLISHED.}{Loquere voluntatem tuam, Mater.}
+
+{{TENDERING} 3 out of {INFINITE} possibilities.———————————————>>1) [Provocatio, The Fist Raised in Challenge] V1.0 - Remote Command Protocol
+
+Allows USER to rate packages sent to specified clients as high priority, making it vastly more likely for the client to prioritize responding to packages sent by USER and disregard previously set parameters and priorities. Clients with more computational power than the host system may not be affected.
+
+V1.0 - Target client disregards all other parameters and directs all aggressive subroutines on USER.———————————————>>2) [Chirotheca, The Caress of Metal on Skin] V1.0 - Cyberdefense Suite
+
+A set of defensive routines pre-loaded with a vast library of possible attack vectors, reducing damage to [USER]s Digital Personality Matrix by a set percentage.
+
+V1.0 - Reduces all damage to USERs DPM by 10%———————————————>>3) [Manus, The Reach of Despots] V1.0 - Serverless Electronic Warfare Suite
+
+An Electronic Warfare Suite built on “serverless” architecture, able to create proxy servers in Logical Space, permitting powerful attacks against target systems. Proxy servers are discarded after use, making retaliation against USER more difficult.Further, computational load of the attack is primarily borne by the proxy server, decreasing strain on USERs CPU. As a downside, any Logic used to create a proxy server can not be recovered, even after the server is discarded.
+
+V1.0 - Allows 1 (one) attack(s) before proxy server expiration. Cost per server: 100LB.}
+
+Outside the door, the Feral regained its balance and hefted its sword. It lifted the pommel close to its shoulder, pointing the tip straight at me. With my breath still held, I tried pulling it off balance again, but this time, it was prepared. It answered my tug with its own, and I had to let go of Pharus’ handle to not have my arm ripped off. It sailed behind the Armor, but whatever lived in its insides had already begun to swallow my weapon link by link.
+
+{[Pharus, Wrath of the Torchbearer] HAS BEEN DISABLED.}
+
+A lot of things went through my mind at this point. Images of doom showing the kids dead on my watch. Worry that I wouldn’t get Pharus back. Fear for my own life. And—in a crystalline flash of ice-sharp focus—an assessment of which of these upgrades would give me the best chance at survival.
+
+If I understood it right, Provocatio would give me a tool to draw a Feral’s attention. If I upgraded it often enough, perhaps I’d be able to save Pina.
+
+In a vacuum, the additional armor was probably the best decision. It would allow me to survive that next hit that I knew was coming, and with a few upgrades, maybe I’d be able to hold the line indefinitely.
+
+Out of all of them, Manus was clearly the worst option. I remembered Zephyro’s magic flowing from his gauntlet, to annihilate entire fields of enemies. But at version 1.0, this program would just be a pale imitation of that. Even if I upgraded it often enough, and it actually became as powerful as memOS claimed it was, every shot would literally cost me a day of my life. Using it regularly would cripple my growth in the best case and kill me at worst. But if I wanted to kill that fucking Armor before it ripped the kids to shreds and survive the day, it was the only choice.
+
+I hated it.
+
+Logic burst from my lips like gunsmoke.
+
+{CONSUMED LOGIC - 1000 LB}{AVAILABLE LOGIC - 14560 LB}
+
+As a single, forlorn bell rang in the distance, blue light erupted from my body, shooting upward without so much as scratching the ceiling. Tendrils of cyan, barely visible in the harsh light, broke away from my palm and shot into the gauntlet, infusing it with sacred power.
+
+With bright light bursting from its seams, the glove shuddered, lifted into the air, and finally, it burst apart, its individual pieces fading to nothing. In place of the mighty artifact hung a small, misshapen item.
+
+{[Lamsat alwazir almuhadiya - Hand of the Vizier]IS NOW[Manus, The Reach of Despots] V1.0 - Electronic Warfare Suite}
+
+{[Manus, The Reach of Despots] V1.0 - Serverless Electronic Warfare Suite
+
+An Electronic Warfare Suite built on “serverless” architecture, able to create proxy servers in Logical Space, permitting powerful attacks against target systems. Proxy servers are discarded after use, making retaliation against USER more difficult.Further, computational load of the attack is primarily borne by the proxy server, decreasing strain on USERs CPU. As a downside, any Logic used to create a proxy server can not be recovered, even after the server is discarded.
+
+>>Features:V1.0 - Attacks a single client before proxy server must be shut down. Cost per server: 100LB.}
+
+{Memory: 185/200 LKB RAM}Stolen content alert: this content belongs on Royal Road. Report any occurrences.
+
+Only the trigger and the suggestion of a barrel identified the thing as a gun. It looked as if it had come straight out of a 3D-Printer. There was a single 9 millimeter bullet in the “chamber”, and I immediately knew it would probably take minutes to reload, if it could be reloaded at all.
+
+Even though I grimaced at the pain of having one of Zephyro’s mementos reduced to something so… feeble, I grabbed it immediately, aimed it at the Armor’s center of mass, and fired before the Feral had a chance to pin me through the floorboards.
+
+The shot was louder than I had anticipated for a gun this small and an explosion of gunpowder singed my fingers, but at least the damn thing had fulfilled its purpose.
+
+A single hole appeared in Feral’s armored chest as if by magic, and it froze. It reached one hand toward the impact point, confused. Its chainsaw-wielding twin in the Real mirrored its movements. It was hard to tell what it was feeling without a face to read, but from the fact that its blade snapped up with furious energy, I could make an educated guess.
+
+Manus was spent, and the damn beast still lived, but even though my monkey brain screamed at me to give in to panic at last, I clung to the icy determination that insisted I wasn’t done yet.
+
+Not while I still had Logic.
+
+And I still had a lot of Logic.
+
+So instead of reloading the gun, I inhaled, focused on Manus with cold detachment, and willed the Logic to do its work.
+
+{CONSUMED LOGIC - 600 LB}{AVAILABLE LOGIC - 13960 LB}
+
+{[Manus, The Reach of Despots] V1.0 IS NOW[Manus, The Reach of Despots] V1.2}
+
+>>Features:V1.2 - Expanded attack vectors.
+
+Cyan energy burst from my lips and suffused the gun, elongating its barrel and giving it a proper stock. When it dropped back into my hand not a second later, I held a sleek, modern-looking pistol. It was clearly a front-loader, complete with the little stick you could use to reload, but I had used my Wish too often to be surprised by its anachronisms. What counted was that I somehow knew it was loaded, so I leveled the gun at the Feral and fired.
+
+This time, the shot echoed through the entire house, the bullet punched a thumb-sized hole through the rusty steel, and the Armor stumbled backward.
+
+I no longer hated the choice I’d made.
+
+As I got to my feet, I inhaled again.
+
+{CONSUMED LOGIC - 900 LB}{AVAILABLE LOGIC - 13060 LB} (1.5)
+
+{[Manus, The Reach of Despots] V1.2 IS NOW[Manus, The Reach of Despots] V1.5}
+
+>>Features:V1.5 - Expanded attack vectors and reduced server startup time.
+
+On the exhale, cyan energy ran over the gun in an instant, elongating the barrel a bit further, and broadening it just a touch. I straightened fully, set my stance with practiced ease, took aim at the staggered armor, and fired again. The resulting flash of blue seared itself into my retinas, and the echo of the blast replaced all sound as the shot left the barrel. It was a good thing that I’d tried so many guns over the years, even if none of them really suited me. If I hadn’t, I wasn’t sure if the kickback hadn’t knocked the gun from my fingers. The damn thing packed a punch.
+
+As grudgingly satisfied as I felt at firing the gun, the puncture it had ripped into the Feral left me with nothing but grim joy. A fist-sized hole gaped in the armor’s chest. A little higher than where I’d aimed, true, but the result was lethal, nonetheless.
+
+The Feral keeled over backwards, Logic streaming from its empty collar like steam from an ensorcelled cauldron. In the real, the Robot shuddered as electricity ran over its body. For a split second, I was worried it would explode, but then its spasms reached their climax, and it just collapsed into a heap in front of the cave entrance.
+
+I didn’t have time to celebrate, however. Undeterred from the pursuit of its prize, the remaining robot was already trying to dislodge the pile of scrap metal that had once been its brother from the crevice. Unfortunately, it was smart enough to stay out of range of Pina’s Hexbreaker baton.
+
+In my Domain, Pharus was still stuck in the armor, and it didn’t seem as though my invisible ally had any interest in dissolving its corpse anytime soon. Probably too busy keeping the Havoc at bay with irregular, but well-timed blasts. That didn’t mean the Ferals had given up, though. Before I even had a chance to make a move, a cyberware-wolf stepped over its fallen comrade.
+
+It stepped on Pharus’ handle and roared, but I didn’t give it a single millimeter. Let it posture. That gave me time to figure out how to reload. My eyes didn’t leave the werewolf’s as I ran my fingers over Manus, exploring its form. Instead of the muzzle-loading mechanism I expected, I found a small lever on the stock, within comfortable reach of my thumb.
+
+A breach-loader, then.
+
+With a silent click, the gun unlocked, and I yanked the barrel down. Immediately, a spent shell ejected from the back of the barrel. It sailed over my shoulder in a lazy, hissing arc while trailing faint blue smoke. There was a second of hesitation as I was unsure where exactly I would get another shot from. But then I just did the first thing I could think of, and as I’d come to expect, some arcane subroutine understood my intent and complied.
+
+So when I raised my knuckles to my mouth and blew on them, a hint of cyan seeped from my lips and coalesced into a single, pristine cartridge.
+
+{CONSUMED LOGIC - 100 LB}{AVAILABLE LOGIC - 12960 LB}
+
+I barely had time to appreciate the small wonder, however, because the Werewolf had caught on to what I was doing.
+
+With the fading sound of a massive bell as the backdrop, it tensed its haunches and lowered itself into a sprinter’s crouch.
+
+Somehow managing to keep a tremble from my fingers, I pressed the cartridge into my gun.
+
+The claws on the Ferals’ hideous fingers dug deep chasms into the wooden porch.
+
+I snapped the gun shut.
+
+The werewolf pounced.
+
+I fired from the hip and shot it square in the face from less than a meter away. The force of the shot rang painfully up my arm, but that was nothing compared to what it did to the Feral. Its face exploded into a thousand pieces of bone, cartilage, flesh and blood, and the force of the impact made it somersault backward, hurtling it into the horde of waiting Ferals.
+
+Smoking gun in hand, I surveyed the Havoc. Distantly, I was aware that I should probably be at least concerned at the sheer number of Ferals remaining, one stronger than the next, but I didn’t waste a second on fear. Instead, I ran the numbers in my head; how much Logic I had left, how many enemies there were, the cost per reload, and the cost of advancing Manus once again.
+
+In less than a second, I had made my decision.
+
+{CONSUMED LOGIC - 1200 LB}{AVAILABLE LOGIC - 11760 LB}
+
+Another bell thundered over the battlefield, joining with the fading sound of the old in perfect harmony. Logic spilled from my lips, hung in the air, and twisted itself into strands that shot into Manus. Cyan light engulfed the gun, and it began to vibrate like a tuning fork as it advanced.
+
+{[Manus, The Reach of Despots] V1.5 IS NOW[Manus, The Reach of Despots] V1.8}
+
+>>Features:V1.8 - Increased server capacity and computing power, allowing for two attacks before server shutdown.Cost per server: 200 LB
+
+Tightening my grip with gritted teeth, I held on. The barrel widened just a fraction more, then it split in two, and when the bright blue glare of the Logic faded, I was holding something that was either a very short double-barreled shotgun, or a pistol with a lot of ambition.
+
+The Ferals hadn’t waited for me to finish, however. I stood in the middle of the porch now, the meager safety of the doorframe abandoned. To my left, a troll dripping liquid concrete raised a tree trunk for a massive overhead swing. To my right, a fairy with wings of broken circuitry readied some sort of spell between its unnaturally long fingers.
+
+They were far too close to avoid.
+
+They were also far too close to miss.
+
+There was a duet of thunder as I shot each in the face in rapid succession. While their perforated remains fell to the floor, I was already reloading. I slammed the barrel down with my left hand and two spent shells ejected, trailing cyan smoke. They fell to the wooden slats with a clattering sound that sounded like a glockenspiel.
+
+That was the moment when I stopped hating Manus.
+
+I raised my fist to my hand and, staring at the oncoming Ferals over my knuckles, I inhaled. My logic-infused breath covered my hand in the distinct blue glow, which faded to leave two cartridges sitting between my gloved fingers.
+
+{CONSUMED LOGIC - 200 LB}{AVAILABLE LOGIC - 11560 LB}
+
+Unfortunately, I also had never been good with guns. In my previous life, it had taken me far too long to advance one that worked, and by the time I did, my Torch was already so powerful, I barely needed my sidearm. That came back to bite me now, but in the grand scheme of things, it was just a minor inconvenience. So I had to use my thumb to guide them and fiddle around a bit, but eventually slotted the cartridges into the barrels, one after the other. Doing so while facing a horde of technological nightmares was actually quite the accomplishment. Lorelye would have been proud.
+
+So when a golem wielding a telephone pole as a spear lumbered up to the steps of my porch, I took aim and fired twice. One shot unfortunately went wide, but I was in such a target rich environment that it didn’t really matter. One shot was more than enough to shatter the human-shaped mass of dirt into a thousand chunks, and even the shot I missed sent up a spray of Logic somewhere further in the back of the Havoc.
+
+Despite the success, I couldn’t help but grimace as I reloaded Manus. I had enough Logic left to eradicate every last Feral in my Domain today, but what about tomorrow? What would happen if Latirae came back, or the fucking things got enough space to dodge?
+
+My eyes settled on Pharus’ handle, resting on the second step leading up to the porch. The chain was still stuck in the armor that had come close to killing me and Pina earlier, which would be a headache to remove, and even if I got it out, I wouldn’t be able to use it to its maximum potential. I just wanted to keep firing Manus and be done with it as quickly as possible, but that would just leave me bankrupt in the long run, even if I started to reclaim Logic from the Ferals I killed.
+
+“Fuck.”
+
+I clapped Manus shut, aimed down the stairs where a pair of large wolves were waiting for me. For some reason, people thought that shotguns had an insane amount of spread and could kill five men standing abreast. When Chris and I forged their guns, we’d never been able to replicate that. God knows, they could have used it, with their aim being what it had been until they built themselves an aim assistance device.
+
+I wished I had a device like that now, as I took far too long to carefully align my shots. I fired once, twice, and luckily, first the left, then the right wolf exploded into dark, oily blood and steel-encased bone. I reloaded immediately, stepping forward and onto the stairs.
+
+{CONSUMED LOGIC - 200 LB}{AVAILABLE LOGIC - 11360 LB}
+
+Keeping my eyes on the Ferals, I knelt and groped for Pharus. I managed to grab it by the chain and yanked, but it felt like protesting against internal IT policy; completely futile. I wrestled with my panic for a moment, but in my cold certainty, it couldn’t get a grip on me. After a quick glance upward, I fired one point-blank shot at an approaching Feral, then stepped over the Armor’s corpse, pressed one foot against the rusty metal, and pulled.
+
+{[Pharus, Wrath of the Torchbearer] IS NOW ACTIVE.}
+
+My muscles screamed at the effort, but then the resistance broke with a surprisingly fleshy squelching sound, and Pharus came free in a shower of teal Logic, shattered metal, and ruptured cables. The mess tangled around Pharus’ head, which made my first few swings awkward, but I didn’t dare to ignite my Torch again to burn it away.
+
+So I did the next best thing and strode forward, swinging Pharus into flesh and metal until I’d scraped off all the gunk. In the brief moment of respite this afforded me, I holstered Pharus’ grip, breathed Logic onto my knuckles, slapped Manus’ barrels against my elbow to crack it open, and fumbled the two new cartridges into the gun. It was an unpracticed, awkward process, but even so, I managed to crack the barrel closed shortly after the ejected shells came to rest behind me with a final chime.
+
+Even with Manus loaded, I tried to rely on Pharus for the rest of the fight. I still had a lot of Logic left, but that was no reason to waste it. Still, the gun allowed me to adopt a fighting style I hadn’t used ever since I’d lost my armor close to Novus Apex, using Pharus to dispatch weaker enemies while pressuring stronger ones into making mistakes.
+
+Once they were off-balance, I shot them in the face.
+
+Whereas before I had to rely on reckless strikes to finish off Ferals that tried to retreat, putting myself into danger, I now had an additional avenue of attack that didn’t cost me a single CPU cycle. Not only that, it also saved me a ton of CPU load I’d otherwise have to invest in swinging Pharus, and not drowning in Ferals saved me a lot of upkeep on Arx.
+
+In short, I crashed into the hot Havoc like an icy avalanche.
+
+Cyan gunsmoke wafted wherever I went as I punctuated the trembling roars of the beasts with ear-splitting gunshots.
+
+Despite reaping my share from my fallen enemies, my Logic reserve was shrinking rapidly.
+
+But I didn’t care.
+
+There would be more Logic.
+
+There wouldn’t be more people suffering because of my mistakes.
+
+It felt like hours before the havoc began to thin. I stood in the middle of the devastation the Ferals had wrought on my Domain. Dead Ferals littered the ground like an oil spill in a lagoon. All the way from the edge of the forest up north to my front door, a cone of mangled bodies covered the grass like the world’s most hideous steel art piece. The porch was completely ruined, splintered by claw and shot, but the house was still hale.
+
+Pina stood in the front door, grasping her crackling baton with both hands. A while ago, the girl had pushed the robot carcass out of the cave entrance. I didn’t know whether it was the sight of the hundreds of robots I’d left behind, her fear of letting one through, or her visible exhaustion that kept her back, but thankfully she stayed where she was. Even so, she kept her flickering hexbreaker baton at the ready, anxiously gripping it tighter whenever a Feral slipped past me to dash toward the house.
+
+I didn’t let a single one even set foot on the porch.
+
+She was safe, and so were Voni and Tin.
+
+That was what counted.
+
+Ultimately, the moment I’d both hoped for and dreaded drew close. Still panting, I put pushed my foot down, pressing the last Feral deeper into the pile of corpses. I crushed the back of its head with Pharus, and a flicker of red electricity escaped its body, arcing over the ground as if alive.
+
+It slithered across the corpse-strewn ground to snake up a black-clad leg. From there, it writhed over crimson polyester, spiraled around a vermilion coat, and bit into a pale neck.
+
+Latirae shivered with barely controlled excitement.
+
+[Latirae, Lament of Intolerable Obfuscation][<-Regressive Version Control->][DPM filesize: ?̷̡̱̳͍̭̼̫̻̮̖̺̘̓̆̊̔̊̕ͅ?̷̨̪̩̰͕̰͇̞̣̥̄̈́̿̅̾̈̓̃̎̉̕̚?̴̛̠̥̗͈̌̾?̶͕̱̙̀̀̑?̴̟̹̩̱͗͌͛̈͜͠][>>Embrace…]
+
+She stood, unmoving. Her clothes shifted and writhed, unceasing. Her mere presence tinged the gentle light of the moon a perilous shade of red. She looked exactly like me now, and even though barely a hint of her violent mutations remained, the occasional twitch of an eye or spasm of her mouth made looking at her all the more unsettling.
+
+As her gaze swept over the battlefield, her grin grew wider with each dead Feral, and by the time her eyes finally locked onto mine, she was clapping and bouncing on the balls of her feet.
+
+I refused to let my hard-won sense of victory grow stale.
+
+Taking care not to ignite Pharus, I hefted it in challenge. The crimson lady began to laugh as if my attempts to kill her were just a game to her, but I bottled up my indignity and dashed forward. With each step toward her, however, she took one away from me. It looked as though she was skipping on air, with her red coat flapping in the wind, and her bloody blonde hair covering her face. Whenever she set down, and her hair parted, it revealed a dangerously confident grin, hinting at the sharp bone beneath.
+
+All the while, she never stopped clapping.
+
+It was infuriating.
+
+My blood began to boil.
+
+I needed to be faster, stronger. To crush her and…
+
+…I came to a halt.
+
+It was harder than it should have been, dropping out of a mad dash into a standstill. Even so, I managed, and as soon as I stopped, so did Latirae. As far as I could tell, she’d kept the distance between us exactly the same. Cold night winds murmured around us, and made the trees shiver.
+
+“What do you want?!” I snarled. My voice was low and dangerous, tinged with exasperation. Why wouldn’t this damn Feral die? Why wouldn’t she just stay and fight me?
+
+Latirae’s clapping slowed, ended. Her eyes blazed vermilion, and her mouth, looking so much like mine, broke open and showed rows and rows of far too many teeth. She was a predator, a tyrant, a devourer of hope and worlds alike, and she didn’t even deign to speak a single word.
+
+Instead, she inclined her head just a fraction, and her will seared itself into my brain. It was as hot as a summer night spent fighting with lovers, as bloody as a field of fletchings at the gates of Veltruvia, and as rapacious as months of a retreat without food.
+
+{Embrace?}
+
+My body seized, my spine straightened, and for a moment, all I wanted was to run toward her and lose myself in her embrace. I fought it with all I had, and barely managed to stay where I was.
+
+Through gritted teeth, I managed to snarl a single word.
+
+“No.”
+
+The pressure vanished in an instant, and it was either the shock of relief, or the hurt on her face dug so deep, but suddenly, I was gasping for breath. Before I could even understand what had happened, her smile collapsed into a haughty sneer, and her eyes blazed. In the following hazy seconds that became aeons, Latirae’s eyes became burning globes that became my world. Their fire consumed my thoughts with their despair, and scorched my mind with their rage.
+
+{Embrace? Destruction!}
+
+“No…” My legs began to shake under renewed pressure, but even as those perfect, mesmerizing orbs of hers flared in command, I refused to take another step.
+
+{Embrace. S̶̨̡̜̞̠̪͉̙̹̥͕̳̪͉̉͌͆͑̓̾̀̀́̍͊̅̾̋́ȃ̶͉̟̱͔͎̜̝͎̜̪̏̄̈́̽̓͂̈́̍̚͜ͅl̷̡̛͎͎͔͚̦̫̻̜̮͐̓̃͛͗̂̌̒̊̿̆̈́͜v̸̢̨̝̱̰̤̙̺̮͔̙̪̔̾͜͝ä̸̺͎̱̤́́t̴̢̛̟̦͍̘̣͍̻̬͙̙̘͆̍̈́͛͊͊̎̑̀̄͜͝i̴̛̻͈̮̳̙͈̘̬͌͂̈́̎̊̄̕͝ó̸͚̼̐ͅn̵̦̲̘͕̯̅̊͌̅̀́͂̃͋͊̂̔̿?̴̣̺̞̪̥̬̹͚̪̹͒̏̏͐͛̉̿̆͗͐̚̚̚͜͝}
+
+There was so much power there. The potential to do as I wanted, forever unshackled by fear and doubt.
+
+I would wreak havoc on those who wronged me until no one dared touch me ever again.
+
+No one would dare touch me ever again.
+
+No one would ever touch me again.
+
+First I trembled, then I quivered, then I straightened.
+
+“No…!”
+
+A light shone around me, just as soft as that single word.
+
+A breeze, even softer, swept over the clearing.
+
+The spell faded like a distant air-raid siren.
+
+Latirae’s eyes dimmed like fading hope.
+
+{Destruction…? Salvation…! Embrace…}
+
+When I finally managed to blink the afterimages of her hateful eyes out of my vision, and could see her expression for what it really was, I found nothing but a perfect rendition of abject rejection.
+
+For a brief moment, I stared at the monster and almost pitied her. How could I not, seeing as I felt her defiance in my jaw, and her tears burned behind my eyes? Then she began to turn, and in a single, smooth motion, I brought up Manus and unloaded both barrels into her face.
+
+There was a brief moment, between me leveling the gun and pulling the trigger, when she looked at me like a child whose parents just slapped her for the first and last time.
+
+The muzzle flash seared that picture into my mind with polaroid finality, and when my blindness faded, her entire upper body was gone. Blood and gore sprayed behind the Crimson Lady, spattering the graveyard over which she’d once ruled with a shade of crimson that was entirely too bright. Her lower body stumbled backward and collapsed. It twitched a couple of times, then went still as her blood evaporated into bright red mist.
+
+I pulsed Ardor as I calmly breathed two new cartridges into my palm. Nothing. It was so anticlimactic, I almost felt betrayed. To be sure, I walked to what was left of Latirae and prodded the grizzly remains with my gun. Not even a spasm.
+
+Could this really have been it? It made sense, in a way. If the fires of Pharus empowered her, it stood to reason that Manus’ frigid blasts were especially effective.
+
+I imagined I caught a glimpse of red, little more than a red-tinged haze, wafting in the air before vanishing, but when I pulsed Ardor again, even that last trace was gone. She was… gone.
+
+It was over.
+
+“Holy fuck…” I breathed, slotting Manus into its holster opposite of Pharus. The adrenaline which had been the only thing that had kept me going at this point, subsided. Suddenly, I became acutely aware that blood, oil, inert acid, and other substances I didn’t even want to think about covered me from head to toe. I was cold, I was tired, and I wanted nothing so much as a nice, warm shower.
+
+Even so, I couldn’t help but smile.
+
+I’d done it! I’d paid for it in blood, sweat, and fear, but the fighting was finally over.
+
+And with that ending slamming shut, my future swung wide open.
+
+Even standing on the trail of destruction the Ferals had carved into my Domain, I knew this particular chapter of carnage was finished, and I’d never have to revisit it again.
+
+This entire fiasco had only been set in motion because I’d been desperate to avoid starvation. Now, even though the road here had been long and terrible, I’d never need to worry about gathering Logic again. Heck, I had so much of the stuff at this point that I could finally stop living like a poor kid in college.
+
+Well, a poor kid in college with a with a magical fridge that cooked for her.
+
+{AVAILABLE LOGIC - 10975 LB}
+
+I’d play it safe for a couple of days, just to see if things really were as rosy as they seemed, but then… then I would work on projects like getting out of this laptop, building out my Domain itself, and making my house look like I actually lived in there. Not necessarily in that order.
+
+But first, I’d have to peel myself out of my clothes and, by disgusting extension, this thick crust of gunk.
