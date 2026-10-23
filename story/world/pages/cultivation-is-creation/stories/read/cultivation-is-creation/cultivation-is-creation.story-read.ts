@@ -1,0 +1,42 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const cultivationIsCreation = {
+  id: "01a16974-8b7f-73a5-876c-e2a9b22358d0",
+  type: "page-type/story-read",
+  slug: "cultivation-is-creation",
+  author: "Kynan",
+  following: false,
+  unit: "unit/words",
+  title: "Cultivation is Creation",
+  world: "world/cultivation-is-creation",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "100432",
+      externalLink: "https://www.royalroad.com/fiction/100432/cultivation-is-creation",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Portal Fantasy / Isekai",
+    "Time Loop",
+    "Progression",
+    "Wuxia",
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Cultivation",
+    "Male Lead",
+    "Martial Arts",
+    "Reincarnation",
+    "Secret Identity",
+    "Slice of Life",
+    "Time Travel",
+  ],
+  publicationStatus: "ongoing",
+  readLater: true,
+  createdAt: "2026-10-23T15:50:07.999Z",
+  updatedAt: "2026-10-23T15:50:07.999Z",
+} as const satisfies StoryRead
