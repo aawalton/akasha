@@ -1,0 +1,105 @@
+“Yeah, what’s up?” Archie asked, confused slightly by Bralmir stopping him from beginning his trials to unlock his D-Grade Profession.
+
+“You have a few misconceptions about Forging that I wish to address before you go on and take your trials,” Bralmir said, getting a confused look from Archie.
+
+“What do you mean?” Archie asked. “Am I not adjusting the temperature of the forge right to reach their critical points properly? Or hammering weirdly?”
+
+“No, no,” Bralmir dismissed. “You’re improving in those areas just fine on your own.”
+
+“What I am referring to is what you know about forging,” Bralmir finished, but upon getting a confused look on Archie’s face, he explained what he meant. “Knowledge on the types of techniques you could use in forging.”
+
+Archie tilted his head, confused. “I mean… I hit hot metal with my hammer until it takes shape into the thing I want it to? Isn’t that all there is to it?”
+
+Bralmir gave him a flat look. “I’m gonna pretend you didn’t just say that and not kick you off my spaceship.”
+
+“…Forging isn’t just about brute force and swinging a hammer until something looks like a blade. It’s about understanding and what techniques to use to get what you need out of a metal,” he said pointedly, his voice shifting into lecture mode.
+
+Archie leaned back slightly, his brows knitting as he asked, “Like controlling the temperature of a forge?”
+
+“Exactly,” Bralmir nodded. “Forging techniques are often categorized by the heat you apply to the metal. There’s hot forging, which you’re most familiar with, it is done by heating a metal it its critical point and keeping it there until the metal becomes glowing red. When that happens, the metal becomes soft, which makes it a lot easier to shape while also refining the internal grain structure of the metal.”
+
+“Then there’s warm forging,” Bralmir continued. “Which is done below the recrystallization point but still far above room temperature, depending on how much heat the metal can take. The heated metal isn’t soft like in hot forging, but it’s pliable enough to work without cracking. It’s mostly used when you want a better surface finish.”
+
+Archie nodded slowly, taking his words to heart.
+
+“And cold forging,” Bralmir said, folding his arms across his chest, “is done entirely at or very near room temperature. This requires quite a bit of strength to do so, but in return, the strength and durability of the metal would be enhanced, especially when infusing it with mana. However, unlike what you think, it is a technique that is good for creating smaller bits and bobs such as bolts, fasteners, and the like.”
+
+“But, if it makes the metal stronger and more durable, why would I stop there? Why not use cold forging to make swords and armor?” Archie said, squinting a bit. “Why just use it to create smaller pieces?”
+
+Bralmir gave a short, knowing grunt. “Because strength alone isn’t everything, Archie. Cold forging hardens the metal, sure, but it also makes it more brittle the more you push it. For small parts, that’s fine. They’re compact. Less risk of stress fractures. But for something like a sword? Or a breastplate? That brittleness could be the end of either you or anyone who wields the weapons, tools, and equipment you make.”
+
+With nary a thought, the lounge they were in seamlessly transformed into a forging room with the sole exception of the sofa they were sitting on remaining as it is. Standing up from the sofa and reaching for a thick steel rod from a nearby rack, he held it in front of Archie
+
+“Imagine swinging a blade hardened too far through cold forging. You might get one good strike before it snaps in half under its own rigidity. You want toughness in a weapon, flexibility that can absorb and rebound force, not just brute strength.”
+
+Archie frowned, slowly nodding, getting up from the sofa, barely batting an eye at the sudden change in environment. “So, cold forging’s more for precision and durability in little parts, not full weapons. Warm forging is for when you want decent shape retention, smoother surface finishes, and fewer internal stresses without sacrificing too much strength or flexibility. It’s useful when you’re crafting something with detailed contours or tight dimensional tolerances, parts that’ll be fitted together with others.”
+
+Archie folded his arms, mentally filing the new pieces of knowledge he was being given. “And hot forging is best when I need to shape large or complex items such as blades, armor, and bigger tools. It’s more forgiving with the metal, lets me do more without cracking it.”
+
+“Exactly,” Bralmir said with a proud nod. “Hot forging allows for drastic shape changes and much better structural refinement.”
+
+“But that’s just temperature. There’s still the matter of how you shape the metal,” he said while motioning for Archie to follow him.
+
+He gestured at a nearby array of forged samples lined along a nanite-created workbench.
+
+Bralmir tapped a thick finger against one of the forged pieces on the workbench, a long rod with flattened ends. “This is what you’ve mostly done so far: open forging. You hammer the metal directly, letting it flow wherever the force sends it. It’s flexible, adaptable, and useful when working without molds or constraints.”
+
+He moved to the next piece, which was a slightly shorter rod, but with a noticeably thicker end. “This one was done using upset forging. That’s when you force the metal to bulge outward by compressing it along its length. Useful when you need to strengthen one end of a rod, like for the tops of a crossbow bolt or a camping stake.”
+
+“I assume this is done with the part of the metal you want to compress is at a high temperature, meaning that I’ll be using hot forging, and in order to compress it, I press the cold end on the anvil and hammer it from above, directly onto the molten red top part?”
+
+“Exactly,” Bralmir nodded before pointing to what looked to Archie like a five-by-three-inch cube welded seamlessly into the side foot of the anvil. “But you can also use the upsetting shelf on the anvil if the rod you’re hammering or whatever thing it is you’re upsetting makes it awkward for you to hammer with your small human arms while it's atop the anvil.”
+
+Ignoring the jab, Archie then asked, “Would you then press the molten red part onto the upsetting shelf and hammer it from the opposite end that faces you?”
+
+“Yes,” Bralmir nodded once more before adding, “With your Basic Workshop – Blacksmith and the Obsidiansteel Anvil you have inside it, just as how it's able to shift between its heavy-duty and precision states, it should be able to from an upsetting shelf by the sides of its base if you want it to.”
+
+Bralmir stepped away from the workbench. “Now, technique and temperature aside, now there’s just one last final major concept for you to grasp before beginning your trials.”
+
+Archie followed, brows furrowed. “There’s more?”
+
+“There’s always more,” Bralmir said with a short chuckle. “You’re forgetting an important component to the forging process,” he said while turning and walking toward a thick metal block embedded into the floor, with grooves, holes, and indentations lining its surface. He slapped his embered bark hands against it as he began explaining, “Forging doesn’t stop once the shape’s made. You also need to know how you treat it after you place down your hammer.”
+
+“Like cooling it down?” Archie asked. “With water and oil?”
+
+Bralmir gave an approving grunt. “Exactly. Once you’ve forged the shape, the final stages of forging begins. There’s normalizing, annealing, quenching, tempering… each one changes the structure of the metal on a deeper level. This, to be honest, is where you really need to pay attention, as you truly don’t know the difference between judging by what I saw when watching you forge on Fractal and trying to change up the way you treated your crafts after they’ve been shaped.”
+
+He grabbed a narrow bar from a nearby rack and bent it slightly, then tossed it to Archie. “That one’s been annealed. After forging, we let it cool slowly in a controlled environment. That softens the metal, relieves internal stresses, and makes it easier to machine or grind down later.”
+
+Archie flexed the bar in his hands, feeling how easily it bent despite its thickness. “So, it’s intentionally softened?”
+
+“Right,” Bralmir nodded. “Annealing is what you do when you want the metal to relax. After heating it past its recrystallization point and shaping it, you let it cool slowly, either by deactivating your Forgesmith’s Flame and letting the metal sit inside as the temperature inside it slowly drops, or by burying it in an insulating medium like sand or ash. Anything that keeps the cooling even and gradual.”
+
+He stepped over to another sample and picked it up, a chunkier bar with a bluish tint around the edges. “Normalizing is all about refining the grain structure of the metal, evening it out. You heat the metal, then let it cool in open air. That lets the internal structure reset itself, getting rid of inconsistencies from uneven heating during forging.”
+
+Archie raised an eyebrow. “And what’s stopping us from doing both. Can I not just anneal the metal, then reheat it, then normalize it?”
+
+“You can,” Bralmir said, handing him the new bar. “Some metals allow you to do so without losing any of the benefits that either could give you. But a vast majority of metals would either turn brittle or just end up with the downsides of both techniques instead of the strengths.”
+
+Archie turned the bar in his hand, noticing the smoothness compared to the previous one. “What about quenching? That’s just dunking it in water or oil, right?”
+
+“Or brine. Or even inert gases, depending on the material,” Bralmir replied. “Quenching is for locking in hardness. You heat the metal to a specific point, usually just above the transformation temperature, then cool it rapidly. This freezes the structure of the metal in a hard but stressed state.”
+
+He motioned to a third bar, a much thinner one with sides that were sharper along one edge. “Run your finger across its edge and tell me what you think.”
+
+Doing so, Archie then said, “It's… sharp?”
+
+“And brittle,” Bralmir said. “You could crack that just by dropping it. That’s why we don’t stop at quenching metals, we temper them afterward.”
+
+Archie looked up. “So that’s when you reheat it again?”
+
+“Exactly. You temper by reheating the quenched metal to a lower temperature, somewhere below its critical point. The longer and hotter you go, the more stress you relieve. The goal is to reduce brittleness without losing all the hardness you just gained.”
+
+He held up two fingers. “Say you’re making a sword. You’d quench to harden the edge, then temper to stop it from shattering the first time it hits a shield. How you temper affects everything, the blade’s flexibility, edge retention, even how well it channels mana after you’ve imbued it with your own as you hammered it.”
+
+Bralmir lowered his hand and turned to Archie expectantly. “So then, let’s hear it. Say you just quenched a new sword. What would you do next?”
+
+Archie ran a thumb along the sharp, thin bar in his hand again, his gaze distant with thought.
+
+“I’d temper it,” he began slowly, lifting his head to meet Bralmir’s eyes. “I’d reheat the blade below its critical point, just enough to ease some of the stress locked in from the quenching. How long and how hot depends on what I want the sword for.”
+
+He glanced back down at the bar. “If it’s a sword meant to slice and dice like normal, I’d keep the temperature low and keep it under flame for a shorter period. But if I want to be able to deflect other swords or slightly heavier weapons, I’d temper longer or at a slightly higher temperature to give it more resilience.”
+
+Bralmir said nothing for a moment. Then he exhaled through his nose, which to Archie sounded like the hiss of a cooling ingot in water.
+
+“Good,” he said simply. “Just keep that in mind, all that I’ve told you when you forge from now on and when you attempt the Trials given to you.”
