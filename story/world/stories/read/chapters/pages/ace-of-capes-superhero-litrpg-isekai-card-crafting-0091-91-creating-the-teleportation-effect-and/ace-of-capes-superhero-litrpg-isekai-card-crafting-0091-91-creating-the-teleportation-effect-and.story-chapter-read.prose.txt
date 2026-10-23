@@ -1,0 +1,259 @@
+It had taken Lexie several days and a lot of scouring to create this teleportation-like effect. It was difficult enough to find cards to combine, but then they also had to be a part of the same deck. That was a tall order to ask.
+
+She'd gone through almost a hundred decks, sketching out several of their card pathways before discarding whatever idea she had as unfeasible.
+
+At a point, it had felt like what she wanted was practically impossible and Lexie felt like giving up a bunch of times.
+
+Lucky, or unluckily, for her, 'giving up' simply wasn’t in her vocabulary, and between receiving acceptances from academies, she had nothing but time. So she kept going.
+
+Finally, after what felt like ages, she found a combo that just might work.
+
+The three cards Lexie was going to use were all from the Runner’s Deck.
+
+The first card was called <Carry Your Carry On>. It was a card that helped marathoners carry smaller vital items like water and snacks alongside any part of their body during their practice runs. Instead of leaving it in their inventory, and having to stop and pull it out, the item would be with them however long the effect lasted (45 seconds). People used this card sparingly to eat or drink handless while running by literally having a snack or bottle floating in front of their mouths.
+
+The second card was called <Milestone Marker>. It was an ability card used to place checkpoints at different distances and it would relay how much time it took to reach that checkpoint. The card specifically also had mechanisms that would announce when you were at the halfway point of a predetermined distance and it could calculate your heart rate and fatigue at that point, and all other stuff that Lexie didn’t need but a marathoner probably would. It was an interesting card, because it continued recording information even while it was off, and automatically activated at each checkpoint. It could do this because most of the skill was passive and so there was very little mana drain from the skill.
+
+The third card Lexie had was called <Second Wind>. Like its name suggested, it helped carry you over the finish line, by giving a slight wind boost that alleviated fatigue and the effects of gravity. Of course, the effect only worked for about 100 meters so runners typically used it at the very end of their runs.
+
+Here was how Lexie decided to combine them. <Carry Your Carry On> was a useful card but it only worked for small objects and not humans. Nevertheless, it had a pretty nifty OR node that Lexie combined with another OR node in <Second Wind> that then identified the object as a human. The combination of both cards gave a wind boost to the human object that would essentially carry them through the air for a hundred meters, but Lexie had added a convoluted combination with <Milestone Marker> that could make the combo activate every 100 meters until the last milestone is reached.
+
+So in theory, she would activate the milestone marker at the entrance of the dungeon before Tate left her to go deeper. Even after it was deactivated, the passive skill of the card should still be in play and it should send her updates every 100 meters of Tate's position and condition. Then if the dungeon was about to close, and Tate wasn't moving fast enough (or if Lexie sensed that he was in danger), she would activate the rest of the combo which would instantly hit him with a speed boost, reducing his fatigue and pulling him every 100 meters back in her direction until he reached her.
+
+It was a good idea that took her two days to map out.
+
+Now, to see if it would work.
+
+Lexie glanced around them. There wasn’t that much space in this little alley but they would have to make it work. She needed Tate to be at least 300 meters away to test out the true strength of the skill.
+
+“Go over there, across the street by that tree,” she told him. “And stay there.”
+
+Tate shook his head. “Lexie–”
+
+“Hurry,” she said. “Before my Uncle gets back.”
+
+Tate sighed but indulged her. He whistled as he walked and Lexie took a deep breath and materialized the three cards in her hand.
+
+This would be complicated, to say the least. She could hurt herself if she wasn’t careful. So far she'd arranged everything perfectly, but once the combo was activated there would constant drain on her mana until it was done. She could see about bringing the generator with her and trying to somehow link the card to that via a land card, but for now, she was going to try with just her personal mana.
+
+There was also the potential to damage the card pathways or hers.
+
+She ran the calculations in her head again, imagining the logic trees, and then took another deep breath. Her palms were sweaty, her heart racing. She was nervous about this and her inherent doubt told her she was making a mistake. It wouldn’t work.
+
+But if it did…it would be pretty amazing.
+
+When Tate was in place, he called out, “You ready?”
+
+“Uh-huh.”
+
+Her nerves must have shown in her voice because he added, “You know this is completely unnecessary right? And you don’t have to do this.”
+
+“You let me decide what I do and do not have to do." She tried to sound firm but her voice shook again. She took another deep breath.
+
+Okay. Enough stalling. Nothing to it. It either works or it doesn’t. Sometimes you have to risk it to get the biscuit.
+
+Lexie decided she would just try the combo for now, to save time. She closed her eyes, descending deep into her meditation for the black hole method. She began activation of the first card, <Milestone Marker>, and then partial activation of <Carry Your Carry On>. She laced them together, directing her mana slowly and carefully through the paths. She pushed at both <OR> nodes simultaneously and they resisted for only a second before they snapped in place.
+
+Lexie’s heart jumped and her fingers clenched. Good. At least that worked. One more to go.
+
+While holding the mana in place for the other two pathways, she began activation of <Second Wind>. She was using up almost all her mana here and she took a deep breath so as not to panic. She combined the AND node with one on <Carry Your Carry On> and then looped back toward the activation nodes, bringing them closer to the <Milestone Marker> activation node.
+
+That was how she was making the mechanism repeat every 100 miles, feeding into each other to prevent waste, until her mana was about to run out during which the effect would cut off automatically thanks to card safety rules. This part was the most difficult. She'd never tried to adjust an activation node before and they were hard to move around without shutting off automatically.
+
+The trick was to get the two so close together and use osmosis and the blackhole method to create a three-way bridge between the three cards.
+
+It took a lot out of her, all her concentration and just about everything else. Her muscles ached and her breathing ratched in her chest. Her mind twinged but then it finally happened.
+
+Everything snapped in place and Lexie nearly collapsed to the ground.
+
+“Lexie!” she heard someone call out, or maybe several someones, but she yelled out, “Don’t move!”
+
+She waited, making sure everything was still in place before she opened her eyes. Tate's eyes were wide and worried. Behind her, Lexie also heard the door open as Wes and the boys ran out of Isaac’s building asking if she was okay. But she kept her attention on Tate, targeting him.
+
+She hesitated a second before completing the triple activation. She stared at Tate in concentration. Something on her face started to make Tate nervous.
+
+“Are you sure this isn’t going to cause any major–” The words ended in a cutout scream as Lexie completed activation and Tate was suddenly yanked forward. He landed right at the first 100-meter checkpoint. It was a rough landing as the phantom hand pretty much just dropped him and he landed on his butt with a thud.
+
+Before he could catch his breath the mechanism kicked in again and yanked him to the second checkpoint which was right in front of Lexie. Again, he was dropped on his ass.
+
+“Damn it, Lexie.” He groaned. He rolled over to rub his butt. “Jesus Christ, a warning next time.”
+
+“Sorry,” Lexie said but she was smiling, unable to hide her elation. She couldn’t believe that actually worked. Well, she could believe it seeing as how her calculations were perfect, but a part of her still thought that she would mess up somewhere or wouldn’t be able to pull off something that complex.
+
+But apparently, she did.
+
+She was exhausted though and swayed on her feet. Oliver rushed and caught her before she fell. “You okay Lexie?”
+
+“Uh-huh,” she said and straightened on shaky legs. Her head hurt but she wandered over to Tate with a huge smile on her face. She was about to help him up but he rose on his own, dusting the seat of his pants.
+
+“So,” he said, eyeing her smile with a growing grin of his own. “Is that a yes to my proposal?”
+
+She cocked her head. “It’s a probably.” I just need to make a few tweaks here and there, especially with the landing mechanism and then we should be good to go.
+
+“Dude you proposed?!” Wes’ voice sounded stupefied and more than a little alarmed.
+
+“Damn that was fast,” Oliver piped in.
+
+“Her uncle is gonna kill us.”
+
+Neither Lexie nor Tate bothered to correct them, too happy with themselves. After Oliver and the boys decided to give them some more privacy, Lexie asked, “When are we going?”
+
+“How does tomorrow sound?” he said.
+
+“So soon?” she asked and he nodded.
+
+“They just got done mining a dungeon in Fairwick. Still has about a few days to elapse so not particularly dangerous.”
+
+“Tomorrow morning?” Lexie asked and Tate shook his head.
+
+“I have business in the morning.”
+
+Lexie nodded, but in the end, she couldn’t resist inquiring, “Legal business?”
+
+He gave her a wry look.
+
+“Just asking.”
+
+“I’m not doing anything illegal,” he said
+
+“Except for that one thing.”
+
+“Yeah, except that. But apart from that, I'm just finding stuff for people and selling it at a reasonable price. Is that so wrong?
+
+Lexie blew out a breath. “Your mechs. How does your friend infuse them with mana?”
+
+“That's for me to know and for you to hopefully never find out.”
+
+“I’m good at finding things out.”
+
+“I’m better at hiding them.”
+
+“Well, you should know that extensive use of mechs can weaken your natural muscles and cause pathway damage. And if you keep using mana or strength potions, your heart will explode. You know that right?”
+
+He smirked at her indulgently as though she were a kid who just said something naive. He also shook his head and said, “Ask me something.”
+
+She frowned. “I just did.”
+
+“No, I mean ask me something else. Something about…you know….”
+
+"The ISTS?” she mentioned and he nodded.
+
+Ah. So he wants to drop a hint.
+
+"Will they really soul-terminate us if we disclose too much?" Lexie asked. "I mean we already know each other’s affiliation with them. Why haven't they terminated us already?”
+
+He struggled with how to answer that.
+
+“It's not so much the act of revealing that leads to the termination,” he said. “It’s probably the effect of what that disclosure can cause.”
+
+Ah. That made more sense. “So as long as whatever we tell each other doesn’t lead to disaster then we’re fine to talk about it?”
+
+He made a face. “It’s not that simple. Sometimes we don’t always know what line to cross that will lead to unintended consequences. It’s not as easy as saying ‘don’t say this’ and ‘don’t say that’. The only way to know for sure is a complete non-disclosure.”
+
+She sighed. “Alright, but sometimes it's not intentional. We're bound to figure out some things if we meet each other.”
+
+“Which is exactly why we weren’t supposed to meet each other.” He kicked at the grass with the scruff of his boot. “We were supposed to stay far away from each other, and we’re probably not supposed to be talking to each other like this. Our presence here in this world is an anomaly. We're things they haven’t completely factored in yet. It could make everything better or it could make it worse.”
+
+“Which means…” Her brain worked and she realized all the clues that she hadn’t noticed before, the fact that Aiden had been marked as a super-villain in her brother's texts when he was just a villain here, and how many people that Logan had mentioned that she hadn’t met or didn’t seem to exist yet.
+
+She brought her hand over her mouth. “Oh my God. The story is already done, isn’t it?” Her brain whipped wildly following the expression on Tate’s face. “The video game…the one that my brother was playing. It tells the complete story of what happened here, right? And how everything ends? And we’re…we've been transported into the past to change things?”
+
+He smiled grimly. “Obviously, I cannot confirm or deny that. But that could possibly be the case.”
+
+“And so…we’re supposed to change things for the better,” she asked. “To get the good ending?”
+
+“I don’t know if there is a good ending,” he said.
+
+She squinted at him. “You know how it ends, don’t you?”
+
+“And this is probably where I should stop talking. I just got a warning from my guide. If I could say more, I would…” He thought about it. “I don’t have to tell you that you cannot share this with anyone, right? I’m serious Lexie. Not a single soul.” His eyes were meaningful, boring into hers and she heard the subtext of what he wasn’t saying. Especially not your father.
+
+Lexie nodded. “Of course. I won't share it with anyone. But I have another question. What if the bad stuff still happens even if it has nothing to do with us? Or what if I kick a stone and a butterfly effect leads to the end of the world? Do I get punished for that?"
+
+“Everything else has been accounted for in the first playthrough," he said. “And they've calculated most of the 'butterfly effect' like instances. You don't get punished for certain things, but you might get punished for knowingly going against the rules." He bit his lip and she thought he would end there but he continued, "We’re essentially agents of chaos placed into the story to create a different end. We don't know what that end is yet, or why we were chosen but the Lead Developers know."
+
+"Lead Developers in the ISTS?"
+
+He nodded. "We're supposed to be given a purpose and then launched into the vast Universe to find our way. That's it. But there's such a thing as too much chaos. And us talking about this can cause too much chaos. Understand?”
+
+She nodded. "But how come I didn't get a guide?"
+
+"That...I don't know," he said. "I'll look into it, ask  my guide."
+
+"Is he, or she, or they here right now?"
+
+"Yes and no." He ran his hand through his hair, while hers was brushed around her face by the wind. She had so many thoughts running through her mind it was difficult to focus on just one. Now it made sense why she couldn't disclose her association with the ISTS, why the ISTS lady had been shocked about what Lexie knew. She wasn't supposed to be here asking questions about the super secret project runners, but apparently, her questions hadn't raised enough red flags to end in her soul termination yet.
+
+Hopefully, Tate would find out why Lexie didn't get a guide. Because that was bugging her.
+
+Your purpose will find you. What was her purpose? So far she'd kinda thought it was about Aiden and how he’d become a supervillain. She'd thought her purpose was about keeping him from succumbing to grief and destroying the world as a result. She could see him completely losing it and possibly losing his soul to Naem, who would then use Aiden as an agent of mass destruction.
+
+So maybe her presence was supposed to stop that. She was supposed to stay alive.
+
+That felt so...superficial though. It felt like there was more to the story.
+
+Lexie also thought her purpose might also have to do with making card magic for mundanes. It couldn't be a coincidence that one of the first things she'd thought about when she arrived was how to make healing cards. She'd been plopped here right when Evan’s disease got out of hand. If the system knew her enough, then it would have known the best way to get her to arrive at that goal, creating healing cards for mundanes, would be for her to see the suffering of others. In that way, her purpose had found her. It would also explain how it felt like something was leading her in a direction, as much as she had free will.
+
+So her having two affixations, was that part of the plan or her going against the plan?
+
+She thought about it and decided it was the latter. She'd been affixed before she awakened, and that had to be the original plan. She was supposed to be a [Card User Hero] as ridiculous as it was. Her getting the [Researcher] role in addition had to have not been part of the plan.
+
+Which meant that her purpose probably had nothing to do with creating cards for mundanes. There was something else she was missing.
+
+Lexie bit her lip, sinking deeper in thought until Tate said, “If you think any harder, your brain will explode.”
+
+She sighed. “Sorry, it’s just you gave me a lot to think about.” Still, it didn’t make sense why he couldn’t tell her straightforwardly what was going on. If the whole thing about keeping a secret from the ISTS was about the effect it caused, then her ignorance didn’t make sense as being part of the plan. So wouldn't they want him to tell her? Since she and Tate had already met and the ISTS hadn’t soul-terminated any of them, what did it matter if Tate told her more about what they were supposed to be doing? Or would that ruin his purpose?
+
+So much was still unclear to her about this whole thing.
+
+"And that’s only the beginning,” Tate said. “I’ll give you even more after you ace your first dungeon.”
+
+Lexie felt apprehension tighten her stomach. Even though she was as prepared as she was going to get she was still nervous about facing her first dungeon. Every single story her uncle had told her echoed in her head, and a part of her was scared she wouldn't come out.
+
+"Are you backing out?” he seemed genuinely worried that she would.
+
+She shook her head. “No. I’m not backing out.”
+
+***
+
+Lexie’s home was quiet when she got back, which was just fine because her thoughts were pretty loud.
+
+Rather than going up to her room when she arrived, she went to the living room instead and sat down, breathing deeply in an attempt to organize her thoughts. She stared around the room, wondering where the vaguely unsettled feeling she was experiencing was coming from.
+
+Suddenly, she started hearing noises from outside, faint at first but then louder. It sounded like shuffling feet, muttered words, and ….singing.
+
+She frowned and got up from her seat, peeking out the window. On the lonely lane back to her home, Frank and Aiden walked. Well, Frank was walking, and Aiden was stumbling and leaning largely on Frank who was bearing his weight as well as he could.
+
+"Dad!" Lexie rushed to open the door, hurrying out to the porch.
+
+“Alright buddy,” Frank was saying. “You’re okay.”
+
+“The roses they bloom…” Aiden continued wailing his song. "In the mountains up high… That's where you should rest, my dear, with a lullaby…”
+
+“What happened?” Lexie asked as Frank struggled to bring Aiden up the stairs. She went over to help him and as she wrapped her around her dad's waist, the strong scent of alcohol hit her.
+
+“Well, I was on patrol you know," Frank started. "Looking out for that demon when your dad came to talk to me. Told me not to worry about it because he had taken care of it. I could tell that he was feeling a little down in the dumps, so I invited him home with me to talk about it. I wanted him to loosen up a little, so I gave him a drink."
+
+“Alcohol?” she inquired.
+
+“Nooo,” he said in the most unbelievable denial ever uttered to mankind. When they reached the door, Lexie opened it and Frank put his thumb and index finger less than an inch apart. “Maybe I put a tiny bit of something in his tea. Just to help him relax. Who knew he was such a lightweight?”
+
+Aiden chose then to increase his tone and sing, “And the sunflowers! They always bloom in Nirvana!"
+
+"Jeez,” Lexie said and they struggled to get him on the couch. As Frank went to get him some water, she fetched the blanket from the basket near the fireplace and brought it to cover him.
+
+As she did, he stared at her with a half-lidded gaze.
+
+“Lara,” he whispered.
+
+“It’s not Lara, Dad. It's Lexie." She arranged the blanket on top of him.
+
+“Lara, I swear I’ll come get you,” he said as if she hadn't spoken. "I won’t leave you in that nightmare forever. I’ll get you out of there. Wait for me, okay?"
+
+Lexie glanced back at her father, tension tightening in her chest, feeling it crack.
+
+I knew it. He's up to something.
+
+Lexie had initially thought that Naem was here solely to help Aiden break his bands, but when Aiden had easily admitted it, a part of her thought he'd only done so as misdirection. He'd given her a partial truth to hide a deeper, more worrisome truth. His drunk words now nudged her mind, suspicion growing until it clouded everything. The full story clicked in place and it horrified her.
+
+Aiden might be trying to repeat his crime.
