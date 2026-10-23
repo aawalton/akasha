@@ -1,0 +1,213 @@
+Lieutenant Amelia Parker walked around the front of her dropship, nestled inside the Radiant Descent’s primary hangar bay on its umbilical housing.
+
+She ran her hand along the smooth metal surface, her eyes scanning for any forgotten fittings the flight crew might have left behind. Satisfied with the exterior, she moved to the rear ramp and boarded the vehicle.
+
+Inside, the drop bay was lined with two rows of seats bolted to the interior bulkhead. Amelia made her way to a panel and checked the cabin status readout, confirming that all the needed consumables for the marines were in order and working properly.
+
+Everything read green.
+
+Despite the positive readout, she moved to do a manual check, moving down the aisle, tugging at each seat, checking consumable tanks and the ready gear, and making sure the power armor suit clamps weren’t fracked.
+
+A flight tech popped out of the cockpit, eyebrow raised. “Already checked those out. Didn’t you see the readout?”
+
+Amelia shrugged. “Doesn’t hurt to give everything a look over.”
+
+The tech handed her a tablet. “Really, the sensors are great. No need to doubt them, or we wouldn’t be here.”
+
+She signed off on the check and handed the tablet back. “I’m pretty confident in my bird, but a jerked feed line means a dead marine if it gets bumpy and we get vacuumed. Sensors can’t tell the difference between tight and tight enough.”
+
+The tech shrugged. “Well, I’m getting off shift. She’s all yours, Lieutenant.”
+
+Amelia waved him off and strode into the cockpit and settled into the pilot’s seat. Her fingers danced across the controls, initiating the pre-flight check sequence. Each system lit up green on her display, but she wasn’t satisfied yet.
+
+She keyed the comm. “Flight ops, this is Lieutenant Parker. Requesting permission for a spool-up test.”
+
+A crackle, then: “Lieutenant, is there a problem we’re unaware of?”
+
+“Negative, flight ops. Just got word there might be action soon. Want to ensure we’re ready to roll at a moment’s notice.”
+
+Silence stretched for a few seconds. Finally, the comm chirped. “Permission granted, Lieutenant. But keep those deck clamps engaged. We don’t need any unscheduled departures today.”
+
+“Roger that. Wasn’t planning on taking her for a joyride.”
+
+She flipped a series of switches and buttons. Those, in turn, activated a myriad array of automatic systems and the shuttle’s fusion generator hummed to life, power surging through the craft. She disconnected the umbilical, relying solely on the shuttle’s internal systems.
+
+The cockpit view screen flickered, shifting to full diagnostic mode. Amelia leaned forward, her eyes darting across the readouts. Coolant levels steady, fuel flow optimal, power distribution nominal. She watched the diagram intently as each system came online, conduits lighting up one by one.
+
+A small smile tugged at her lips. Every system synced up without a hitch.
+
+She cleared her throat. “CEF, run the standard ten-minute idle-response check. Flag anything out of spec.”
+
+[Affirmative: Initiating standard check protocol.]
+
+With a satisfied nod, Amelia pulled out her personal tablet. The familiar grid of minesweeper filled the screen. She tapped away while doing the mental math, tiles revealing themselves with no unfortunate surprises.
+
+Halfway through the check, a sharp hiss pierced the air and the cockpit door slammed shut behind her with a metallic clang. Her tablet clattered to the floor.
+
+“CEF, what went wrong?” She scanned the readouts. Automatic response to pressure drop.
+
+Something like that inside the Descent’s sealed hangar bay spelled trouble.
+
+[Analysis: All self-systems operating within normal parameters. No internal malfunctions detected.]
+
+She ran through an abbreviated sequence to bring up the external video feeds. Her cockpit came to life—sea of yellow and orange filled the screen.
+
+Flames were in the process of engulfing the hangar until suddenly the entire atmosphere was sucked out, along with a shuttle careening across the deck. It tumbled into open space.
+
+“Awh fuck,” Amelia muttered. “Someone didn’t have their clamps fully engaged.”
+
+[Alert: Priority one general quarters issued. Recommend immediate report to assigned location.]
+
+Amelia shook her head. “Not going anywhere, CEF. We’re already buttoned up in here.”
+
+She focused on aborting the self-test and brought the shuttle’s systems online for real. That didn’t take long—she knew when to abbreviate things. Drop shuttle ready, she keyed the comm. “This is Pinpoint Actual, bird going hot, please advise.”
+
+Static crackled through the speakers. She repeated the call. Finally, a panicked voice cut through.
+
+“Pinpoint Actual, standby for further instructions!”
+
+Amelia’s jaw clenched as she surveyed the chaos unfolding beyond the cockpit. The hangar was silent for a moment. Personnel slowly began to pick themselves up from wherever they had been tossed, skinsuits singed black.
+
+A few seconds later, the flight crews began to scramble like ants on a disturbed hill. Her eyes darted to the diagnostics display. All systems green. Whatever had rocked the hangar hadn’t touched her bird. Small mercies.
+
+The Radiant Descent’s lights flickered, then plunged the hangar into darkness. Amelia’s breath caught in her throat. This was worse than a fire. She wasn’t even sure what could make the lights go out so absolutely. There were supposed to be at least three levels of emergency backup lights.
+
+“CEF, what the hell is going on out there?”
+
+[Analysis: Insufficient data. Ship-wide systems offline. Unable to access external feeds.]
+
+Amelia’s jaw clenched. At least the antimatter reactor hadn’t breached. She’d be space dust if it had.
+
+A chill ran down her spine as she pulled up the navigation display. The numbers didn’t make sense. She blinked, hoping it was an error.
+
+“CEF, confirm our trajectory.”
+
+[Confirmed: Current trajectory is suborbital. Atmospheric insertion in approximately 11 minutes, 42 seconds.]
+
+“Shit,” Amelia muttered. Starships weren’t built for atmospheric entry. This was beyond wrong.
+
+[Alert: Priority one abandon ship order issued by Captain.]
+
+Amelia’s stomach dropped. Through the hangar’s energy field, she glimpsed the planet looming larger. The ship was tumbling, debris spinning past the opening.
+
+“CEF, is this normal?” she asked, her voice tight with a shaky laugh.
+
+[Notice: Elevated stress levels detected. This unit can recommend several pharmacological options to assist-]
+
+“I know I’m stressed,” Amelia snapped. “It’s been a hell of a Monday so far.”
+
+She watched escape pods streak towards the planet, her fingers drumming an anxious rhythm on the console.
+
+[Analysis complete: Unknown energy anomaly impacted ship’s defensive field. Resulting cascade failure has destabilized antimatter-fusion reactor. All magnetic systems compromised. Current trajectory confirms Captain’s abandon ship order.]
+
+Amelia reached for the comm just as Marines poured into the bay, making beelines for the other shuttles spooling up around her. She pulled up a manifest—no passengers scheduled. FUBAR. They were going to evacuate her in an empty bird?
+
+She glanced between the chaos in the hangar and her instrument panels. Not everyone had a clear destination, and a growing knot of personnel huddled near the center of the bay. Organized groups streamed toward the other dropships, but too many were left behind.
+
+The ship lurched violently. Amelia’s harness dug into her shoulders as she was thrown forward. Outside, bodies tumbled across the deck. A twisted piece of hull plating drifted lazily out of the artificial gravity, spinning end over end into the void.
+
+Amelia’s mouth went dry. There was no time to piece together what had gone wrong. The Radiant Descent was living up to its name in the worst possible way.
+
+She flipped the switch for the rear ramp. Hydraulics whirred to life as the hatch opened. The external comm controls lit up green, and she snatched up the mic.
+
+“Oi, you lost groundies!” Her voice boomed through the hangar. “I have space. Get your asses over here!”
+
+Amelia toggled the external lights, flashing them in a rapid sequence. The huddled group’s heads snapped toward her shuttle. For a heartbeat, they stood frozen. Then, as one, they surged forward.
+
+The deck beneath them shuddered. No longer intermittent, the vibrations grew constant, intensifying steadily. Amelia’s gaze flicked to the readouts. They needed to leave. Now.
+
+Her hands flew across the console, prepping for emergency launch. One last step remained—disengaging the hangar interlock.
+
+“Come on,” she muttered. “Move your asses!”
+
+Another hull section shot forward, visible through the hangar exit, smashing into a departing shuttle, sending an expanding cloud of gas and debris flying in every direction. The artificial gravity inside the hangar curved those downward into the hull plating, but things were getting worse.
+
+The Radiant Descent’s structural integrity was failing in ways that defied explanation. Magnetic fields didn’t hold starships together. Why was everything falling apart?
+
+Her eyes darted to the video feed of the drop compartment. The marines were arriving and strapping in, at least those with power armor. Others were in skinsuits and did their best to strap down to something.
+
+More than half were still outside, though. Amelia snatched up the mic and her voice boomed again through the external speakers.
+
+“Move it, people! This isn’t Sunday!”
+
+The encouragement wasn’t needed as a brilliant blue sheet of energy sliced through the hangar’s far wall, carving through the ship’s hull like it was made of paper. Amelia’s breath caught in her throat as she watched as the entire forward section of the Radiant Descent began to drift away.
+
+“Holy shit,” she whispered, the reality of their situation sinking in. This was why the ship was falling apart. They were being sliced into pieces by some weird blue light.
+
+Another wave of energy tore through the hangar, ten meters from the first strike. Amelia flinched as a nearby dropship erupted in a ball of flame, debris pinging off her shuttle’s hull.
+
+Her hand flew to the commlink. “Control, this is Pinpoint Actual. Requesting immediate emergency clearance for evac. Do you copy?”
+
+Static crackled through the speakers. Amelia’s heart raced as she repeated the call, desperation creeping into her voice. Still, no response came.
+
+She overrode the emergency release warning then glanced back at the compartment. “CEF, count?”
+
+[Informative: Thirty passengers have embarked.]
+
+The ship was rated for twenty, but life-support would do double that with zero-margin.
+
+Another energy wave sliced through the hangar, closer this time. Her eyes narrowed. The slices were evenly spaced, and she thought she had the timing. Three more hits and they’d be toast. She throttled up, the dropship lifting off the deck plates with a lurch.
+
+A frantic pounding echoed from the cockpit door. She ignored it, her focus laser-sharp on the task at hand. The marines could pound all they wanted; that door wasn’t opening until they were clear.
+
+She watched, muscles tense, as the last stragglers sprinted towards them. Four more squeezed in, then six. Two more were still running, desperation etched on their faces. Amelia’s fingers hovered over the hatch controls. Wait... wait...
+
+Now.
+
+The hatch began to close. Panicked shouts erupted from the compartment behind her. Amelia blocked them out, maneuvering the dropship backwards. The two marines’ eyes widened as the ship barreled towards them. At the last second, they leapt, fingers catching the rising hatch.
+
+She didn’t wait to see if they made it. She slammed the throttle forward, the dropship rocketing out of the disintegrating hangar. Another energy wave sliced through the space they’d occupied.
+
+The Radiant Descent fell away behind them, great chunks of hull peeling off. A single, shaky breath escaped her throat. They weren’t safe yet, but at least they were space-borne.
+
+[Alert: Atmospheric entry imminent. Recommend immediate course correction.]
+
+Amelia’s eyes snapped to the navigation display. “Shit,” she muttered, yanking the controls to adjust their trajectory. Reaction control thrusters spun to orient the shuttle’s main drive radial out.
+
+The orbital trajectory calculations flashed on the screen, confirming her suspicions. A knot formed in her stomach—they barely had enough reaction mass to reach high orbit and rendezvous with the Horizon Ascendant.
+
+“Damn,” she muttered, teeth clenched. Dropships weren’t built for orbital maneuvering. They were meant for planet fall. She activated the external feed to check the Radiant Descent, and duplicated them to the passenger compartment so the groundies could get a view as well.
+
+A massive, ethereal blue hand hovered over the remaining rear section of the ship, blue tendrils pouring out from it to snap toward the ship’s hull, each one slashing a neat chunk of the ship off.
+
+She mentally tried to calculate where the reactors were from what was left when the video went white. Something had sliced into anti-matter containment, converting the area into energy.
+
+Her shuttle was just far enough away to be clear, but they needed to avoid the area and get moving. Catching a stray cluster of anti-particles wouldn’t be fun.
+
+[Notice: Priority upload of telemetry and video feeds to command initiated.]
+
+“Yeah, that makes sense,” Amelia mumbled, her focus locked on the controls as she began correcting their course. The reaction drive hummed to life, pushing them forward.
+
+A blue hand materialized in the space ahead of them, and she reflexively pivoted the ship to avoid smashing into it. A tendril chased after them, before another obstacle materialized, and then another.
+
+Amelia’s heart leapt into her throat. There wasn’t time for panic, muscle memory took over as she fired the RCS in heavy spurts to avoid whatever the fuck it was. Sweat beaded on her forehead as the field of blue energy thickened.
+
+[Warning: Incoming energy anomaly detected!]
+
+The dropship bucked and weaved, but there was no way to avoid all of them. One of them appeared head on while a dozen others closed in from other directions. A brilliant flash filled the cockpit.
+
+Instead of the expected explosion, darkness enveloped her. Every system went dead, including the shuttle artificial gravity, leaving her floating in her seat’s harness.
+
+The silence was deafening, broken only by the muffled pounding from the drop bay. She reached for the emergency power switch, her fingers finding nothing but dead circuits.
+
+“That’s not possible,” she muttered, fumbling in the darkness. Her skinsuit’s systems hummed as she fingered the battery at her collar. What killed ships, but not life support suits?
+
+“CEF, what’s the full-power loss procedure?”
+
+[Recommendation: Utilize backup power for system reboot.]
+
+Amelia huffed, frustration building. “And when the backup’s out too?”
+
+[Protocol: Engage tertiary emergency lighting backup to reboot primary backup systems.]
+
+“For fuck’s sake,” Amelia growled, hands clenching into fists. “What if that’s gone dark as well?”
+
+[Suggestion: Request assistance from a qualified systems engineer to diagnose and resolve the issue.]
+
+If she took the time to breathe, let panic take hold, or thought about it too much, she was going to be a wreck. She still had several years left on her commission.
+
+So she stood up, maintaining a handhold on the ceiling grips as she moved around. The pounding on the cockpit door grew more insistent. She fumbled for the manual release, muscles straining against the hydraulic pressure.
+
+The door hissed open, revealing a tangle of limbs and panicked faces. Amelia fixed them with a level stare.
+
+“Anyone here a qualified dropship systems engineer?”
