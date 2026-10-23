@@ -22,11 +22,11 @@ export const sabrinaCarpenter = {
       source: "spotify",
       externalId: "74KM79TiuVKeVCqs8QtB0B",
       externalLink: "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B",
-      lastSyncedAt: "2026-09-17",
+      lastSyncedAt: "2026-10-23",
     },
   ],
   title: "Sabrina Carpenter",
   genre: ["pop", "dance-pop", "electropop"],
   createdAt: "2026-09-03T16:04:08.684Z",
-  updatedAt: "2026-09-21T19:44:25.000Z",
+  updatedAt: "2026-10-23T13:57:00.201Z",
 } as const satisfies Artist
