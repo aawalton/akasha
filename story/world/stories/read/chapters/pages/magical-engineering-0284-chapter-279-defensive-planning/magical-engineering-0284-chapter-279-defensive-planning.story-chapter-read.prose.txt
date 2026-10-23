@@ -1,0 +1,133 @@
+Dave
+
+“We can’t leave Alexandria unguarded, that’s just a non-starter. At the very least, Timon has to stay here,” I said.
+
+After the realization of what we may be facing and just how many people we’d need for it, Pryte and I had met up with Karlinovo for a deeper discussion on our defenses. The idea of so many of us being away at one time had me deeply terrified. If anything like the jester invasion happened again, we had to have a way to stop it.
+
+“The defensive towers are much more functional than they were before, and this time I won’t be trapped in the Antarctic dungeon. I’m not sure this is as dangerous as you think it is,” Karlinovo replied.
+
+“Are you sure you and Timon would be enough to handle running them?” Pryte asked, giving Karlinovo a discerning look.
+
+“Sure? Of course not. At the rate we keep making enemies, who the hell knows what might attack? But I’m no longer quite so behind on the developments of the Spiral in my absence,” he replied, with a strangely knowing smile.
+
+“I assume that means your meeting with Henjen went well, then?” Pryte asked.
+
+“Yes, but you will understand if I won’t voice exactly what we discussed. I don’t fully trust even my precautions quite yet for that,” he answered.
+
+I looked at Pryte, who gave me a nod of understanding, and pulled up the soul chat.
+
+Dave: What did you discuss with Henjen? And I kind of would have liked to meet him.
+
+Karlinovo: You were busy recovering from your soul battles. Eventually, we will need to find a way to rescue the old fool. He’s off to do something insane.
+
+Maud: Henjen? Is that the guy from all the books on magic?
+
+Elody: He is, and I briefly met him when he was here as well. Why would we need to rescue him? He seemed fine when I met him.
+
+Karlinovo: He was fine. That’s just the problem. He has gotten it in his head that just because I’ve returned it means he’s safe to pursue other incredibly unlikely and dangerous things.
+
+Elody: Such as?
+
+Karlinovo: The idiot thinks it’s the perfect time for an expedition to the Old Spiral in search of Thykle.
+
+Elody: I have no idea who that is.
+
+Rabyn: The archmage?
+
+Karlinovo: Interesting. I would not have thought any of you had any idea who he was. He was barely part of Spiral politics by the time of my death. He was ancient when he taught Henjen.
+
+Rabyn: I don’t really know much beyond the name. There was a book in my family’s private collection that mentioned some of his strange chaos magic.
+
+Karlinovo: Add that to the list of things I want to find then. I assume you have no copies of Thykle’s work in the archives, Elody?
+
+Elody: Not that I am aware of. It is, of course, possible he is referred to somewhere, especially if he was Henjen’s teacher, but I personally can’t recall ever seeing a note on an archmage named Thykle.
+
+Dave: Wait, there’s something here beyond just the Old Spiral talk, isn’t there? If Thykle is an archmage, and especially if he’s Henjen’s teacher, how is he missing from the archives? I’ve read at least a dozen books by Henjen, and I can’t recall a single mention of the man.
+
+Karlinovo: Yes, the suppression of his name and work was already well alive before my untimely death. I’m not at all surprised it continued.
+
+Connie: Gramps has one of his books. I saw the name once.
+
+Karlinovo: Does he? Now that is news. So that potentially leaves two books out there that aren’t yet in my possession.
+
+Connie: I don’t remember what the title was, but yeah, it’s in his office.
+
+Karlinovo: Connie, one day we will have to visit him. At least locating that book should be easier than Rabyn’s lost copy.
+
+Dave: While I entirely agree, back to the other point. Are you sure Henjen is heading for the Old Spiral? And if so, how is he getting in? I was under the impression that it wasn’t possible.
+
+Karlinovo: Impossible and extremely difficult are two very different things. There have been claims before of people finding their way through. I’m not sure how many I’d consider believable, considering they returned alive, but there is something to them. The big mystery of what happened to the Old Spiral and what is actually known at the top levels in the current one is something that has tantalized people as long as I’ve been around.
+
+Rabyn: I would caution against assuming anything is impossible, either.
+
+Karlinovo: Yes, I agree. But I believe we have moved far away from the initial question Dave wanted to know.
+
+Dave: I’m not complaining, the new information is interesting, but yes. What exactly did Henjen want to discuss?
+
+Karlinovo: Some of it, I think, was to verify I really was me, but most of it was to give me what Thykle had left for me. I haven’t had time to go through all of it yet, but there are some very interesting breakdowns on mana orb creation and fusion that I’ve never seen discussed elsewhere. I can already see why some of this information would be suppressed. We will have to see how it applies to my experiment with Dave. I already suspect Thykle had some ideas here.
+
+Dave: Let me know what you find. I’d be glad to understand more about myself.
+
+Corey: As would I. But I believe my existence in this experiment has pushed it well past any bounds or expectations you had initially, Karlinovo.
+
+Karlinovo: Just a bit, yes.
+
+I closed out of the chat window after waiting a few seconds for anything new. Nothing had come. We had another mysterious name to add to our pile, though I wasn’t sure this actually grew it all that much. In truth, it connected a few other things we hadn’t put together yet.
+
+There was something with the Old Spiral, which we already suspected, but now we knew others were having the same thoughts. Toss in Thykle’s research being suppressed before Karlinovo’s, and we had a longer history of research being hidden away. Was it possible that there was a connection that ran through everything we were experiencing?
+
+If there was, hopefully it wasn’t anything directly running through Earth or me. Though the existence of Sanquar made me doubt we’d get that lucky. We were fully embroiled in whatever was happening, whether we liked it or even understood it.
+
+“Walk me through it again. How do the towers now respond to an attack?” I said, wanting to make sure I knew about any of the upgrades that had been installed. At least I could have my questions answered about this.
+
+“Using the imbuing mana orbs we could get a hold of, plus what the Reltleons had on hand, we stitched a stronger mana flow through the tunnels below the city, as you know. Well, that mana flow is now working as a full detection field for the city. Everyone’s mana signatures have been recorded, and if anyone not matching them attempts to enter the city, an alert is generated,” Karlinovo started.
+
+“Where do those alerts go?” I asked. This part was new.
+
+“Right now, it goes to just the console here, but it’s manned one hundred percent of the time. In the future, I want to find a way to use the System’s messaging network to give us these alerts directly. It should be possible,” he continued.
+
+“How does this work for mana beasts? I feel like we’d have to create a ton of false positives,” Pryte chimed in.
+
+“We do. That’s an ongoing issue, but the secondary scans look at how strong their cores are. The towers then disregard anything below a certain threshold. Now this obviously creates a secondary problem, as you can guess. Anyone just appearing here isn’t going to trigger the defenses correctly, and anyone who can shield themselves to an extent to fool them will get through as well,” Karlinovo explained.
+
+“But I’m guessing we already have a giant problem if we are being targeted by those types of people,” I replied.
+
+I had heard enough stories by now of what some of the bigger factions were capable of. They had fighters that could easily destroy our entire city without breaking a sweat. And considering how long it had taken me to just survive far enough in first floor of the simulation against a fighter of that caliber, that was just reality we had to live with and hope we didn’t cause.
+
+“Correct. Once the alert is triggered, the nearest tower does a deeper scan and gets us our data. This is where we can tell if the general city alert needs to go up or not. But if it’s deemed a threat by the towers or whoever is on monitor duty, that’s when the suppression field is attempted to be placed over the intruder.”
+
+“We have enough mana flow for a full suppression field?” Pryte asked, shocked.
+
+“No, not remotely. It just suppresses the mana flow in that area, making it much harder for them to draw on any ambient mana. It won’t do anything to stop what they already have and generate on their own. But that’s just the first step. From there, a series of further defense measures go into effect based on the types of mana and the number of enemies that have been detected. I can’t really give an exact scenario of how this plays out beyond that overview,” Karlinovo finished.
+
+“Does this track anyone coming through the gate?” Pryte asked.
+
+“No, same problem with appearing. Though again, being able to override the gate from their end means we already have a bigger problem than we are likely able to handle.”
+
+“Alright, and then from there the Reltleon forces move to engage, while whatever channelers we still have here back them up, and you alert us to what’s happening?” I asked, nodding as I spoke. I already knew the answers here. We had gone over this part recently as we worked to determine which of the city residents were willing to fight now that forming cores was becoming much more possible.
+
+“In theory,” Pryte answered, cutting off any further speech from Karlinovo on the topic. “We can’t stay scared forever of another jester attack. Not that I’m suggesting you would ever skip this chance at the Twinoge’s homeworld, but the Spiral can be a cruel place. No matter how hard you try, Dave, we will be subject to at least some of that cruelty.”
+
+“I know. I just don’t like it.” I, in fact, hated it. As comfortable as I appeared with all of this. I still wasn’t. The jester attack forced some realizations on me about the future and what I had to do. But I still didn’t feel like someone who should be in charge of any of this.
+
+“Realistically, do we actually think someone is going to use the competition as a distraction to attack? It seems like a poor idea considering how much power is behind putting it on,” Karlinovo asked.
+
+“No. I actually don’t expect we are going to have any real issues during it back here. I do think there is something going on with the competition itself that we don’t understand yet. But whatever that is, I have no idea. And I doubt we will learn anything more until the event starts,” Pryte replied with a shrug.
+
+“When we win this, what happens?” That was a question I had been avoiding voicing for awhile.
+
+Not because it implied I was sure we’d figure out how to save Twinoge’s world, no, that was just unearned bravado. What I really meant by it was how much attention were we about to get? We were already dealing with nonstop shit from the amount we had now, and that was before we Korl showed up.
+
+Once he woke up, and we really learned how bad the jester infestation was, who knows what we’d have to deal with? Did I need to start examining everyone we went up against for any soul knots? Would I even be able to tell the difference between one from a jester or something else?
+
+“Our star really starts to rise, and what all comes with that, given what we suspect is going on, I’m not sure it’s something I can predict. There will be a lot more eyes on us than there already are.” Pryte’s answer did nothing at all to reassure me.
+
+“Eventually, someone is going to pick up on me as well. We will need to be ready to come out ahead of that when it happens. Whatever number of enemies I had before are likely still hanging around in their corners of the Spiral. Plus, I probably just inherited some of Henjen’s,” Karlinovo added, stroking his beard as he spoke.
+
+“Well, more things for all of us to handle when we get there. But hey, at least we get to handle this all together, right?” The smile on my face on that last rhetorical question was genuine.
+
+I had started this all alone, and it had been miserable. Without the brothers, I’m not sure I’d have ever made it anywhere. But this had grown into so much more now, and people were relying on me, especially those two. I was glad to call so many new people my friends and family.
+
+Carrots, giant carrots, who could have ever expected them to be the experts on a vegetable stew? The problem with recreating any of their best dishes is the great hunt. On most worlds, radishes are grown, not chased through a barren wilderness in the depths of winter. Surprisingly, though, you can substitute these for the crimson mushrooms of the water expanses.
+
+100 Recipes for Your Core by Jordan Hamsy
