@@ -1,0 +1,169 @@
+8-No Jail will ever hold me
+
+4/1/5/4353 M.A.C - Niwut - Early Afternoon
+
+Alright, time to experiment!
+
+Doro closed the door to his father's workshop as he headed to the large counter and took a seat.
+
+Better try the Abilities that don't cost much energy first. [Matter Analysis] seems like a good place to start.
+
+Doro picked up a lump of unprocessed iron ore from his father's stock and placed it in front of him.
+
+Let's see what this is made of.
+
+Doro put his hand onto the lump and waited for a few seconds.
+
+Nothing happened.
+
+Huh, how do I put my energy in there?
+
+Doro attempted to sense his energy to send it in, but he could only barely perceive it.
+
+Maybe the only reason I was able to control that pebble so easily before was because of [Somatic Support]... Do I need to meditate and train until I can sense my energy before I can use it? Like some sort of monk? Nah, someone would have told me something like that.
+
+Doro pondered over the issue for a few minutes before he came up with an Idea.
+
+Maybe it's like when I display my sigil, I just need to think about the name of my ability and focus on it. I mean Abilities are supposed to be easy to use but hard to master. Well, I've got nothing to lose by trying it.
+
+Doro put his hand on the lump again and focused on his Ability.
+
+[Matter Analysis]
+
+Doro could sense his energy flowing into the lump of ore, but could not affect its flow. As if it had a mind of its own, the energy circulated through the ore before returning to Doro. As the energy reentered his body, a mild pain radiated throughout his head as bits of information hit him all at once.
+
+What the hell? What is this gibberish?
+
+The bits of information slowly started coalescing into something Doro could understand and the pain in his head gradually died down.
+
+There was no writing appearing on his palm, but Doro felt that he now knew the information, as if he had just read it.
+
+Hematite (Fe2O3)
+
+Iron 67% Oxygen 32%
+
+Impurities: Silicon <1%
+
+Doro could have delved deeper into the information he had received, and he felt that he could have used his knowledge to extrapolate more out of it, but he decided this was enough for now.
+
+Alright, as long as I am familiar with the elemental or mineral structure, the Ability translates the information automatically.
+
+Content with his first experiment, Doro felt ready to move on to the next Ability. He wanted to check his energy levels, to make sure that he had not spent any, but he didn't have a solid enough grasp to sense it and confirm.
+
+Damn, I was hoping I could figure out what the variables for the energy costs of some of my abilities are, but If I can't get a good sense of my energy expenditure...Maybe I'm missing something... but Dad is KO'd and Mom is busy so I can't ask anyone for now. I'll just have a bit of fun this afternoon and ask tonight.
+
+Doro decided to test out his [Inorganic Kinesis] using his [Somatic Support].
+
+I might not be able to study the expenditure of my other Abilities for now, but this one should be doable.
+
+Doro had surmised that since [Somatic Support] allowed to replace energy expenditure with physical exertion, he should be able to judge the increase, or decrease, in expenditure by the change in physical strain. Doro picked up the piece of hematite in his left hand and held it out in front of him. He then made a small lifting motion with his right hand and the hematite started floating.
+
+Hold for a little. Alright, my arm is getting more tired from the strain, but the weight isn't increasing. So the relationship between the duration and expenditure should be constant. Keeping something aloft for one minute should cost sixty times more energy than keeping the same item up for one second.
+
+Doro then picked the hematite up with his right hand normally to see if the effort needed was the same as when using his skill. Doro decided that the ore was maybe slightly lighter when lifting it normally, but if it was, the difference was so small that it didn't matter at this scale.
+
+I'll just consider the input and the output to be roughly equal for now.
+
+The next test Doro performed was to check if the elevation was a factor. He floated the ore at different heights and held it there for a few seconds at a time. He was getting ready to write it off as a factor until he tried levitating the ore higher than his head.
+
+Huh? It is starting to become incrementally heavier. But why not from the start? Why only after a certain height?
+
+Doro thought over the issue for a minute or two and came up with a possible explanation. To test it out, he repeated the same test horizontally, starting with the ore a foot behind him.
+
+Ahah! Called it!
+
+The ore had grown lighter as it floated closer to him and then grew heavier as it gained some distance. He tested it out for a few more minutes and got a better feel for the effect of range on expenditure.
+
+So when the object is approximately ten feet away from me, it feels twice as heavy, and at twenty feet, it feels like three times its weight. Every foot of distance results in a non-compounding expenditure increase of ten percent. The distance seems to be calculated as the shortest route between the object and the nearest part of my body.
+
+Doro felt it was safe to assume that the weight of the object would also affect expenditure accordingly, and decided it would be a waste to test it out for now.
+
+How am I going to test the expenditure of motion though? I already felt that the weight increased depending on the speed at which I was moving the ore, but without having numerical values for the expenditure and velocity, I don't think I can come up with a working equation...
+
+Feeling like he was reaching the limits of what he could test without spending energy, Doro decided to move on to the last test he could think of for his [Inorganic Kinesis].
+
+Time to try to move stuff with just my mind and energy.
+
+Two trips to dampen his father's towel and two bells later, Doro was staring intently at the unmoving ore. He had run out of patience a while ago but stubbornly refused to give up.
+
+I need a different approach, this is not doing anything.
+
+Doro blinked as an idea popped into his head. He decided that if he could not figure out how to initiate it without using motions, he might be able to sustain it once he had gotten it started. As he made his attempt, he managed to slowly transition from using his muscles to using his energy. It took a few seconds but Doro was eventually able to let his hand rest while keeping the ore aloft. He let it drop after another few seconds, so as not to expend too much energy, not knowing how long he could have kept up before his meager store of energy ran out.
+
+I can work on initiating it with only my mind later, no reason I can't use training wheels for a bit. I've got to make a decision now though. Do I try [Phase Transition] or my Synthesist Abilities? I'm fairly sure that I don't have enough energy to test out both more than maybe a tiny bit.
+
+After mulling it over, Doro decided that he could try out his Synthesist Abilities with his father present, and he could just have some fun with [phase transition] until his energy ran out.
+
+I did promise Sarima a reward and I feel bad for the state Dad is in, so I could make him something too. Time to bust out my knowledge of modern contraptions and make both of them something useful. If I can figure out [Phase Transition], I should be able to make something quite decent considering it would let me cold-work metals and bypass melding.
+
+Doro thought of a few useful things he could potentially make but most of them required things he didn't have on hand or needed overly precise components.
+
+I'd need to come up with a way to make a perfect sphere for a ball-point pen, but I could maybe make a fountain pen. Not sure I could make a good one though, the tip needs to be very precise. Also, I'm fairly sure fountain pens are already a thing here but are just expensive. I don't have any metals suited for making springs, so anything needing those is out. Oh, I could make a modernized chemistry set for Dad by improving some of his old glassware. A few test tubes, a couple of beakers, and a simple condenser. Well, I'll go one item at a time in case I run out of energy.
+
+Doro felt that he had come upon a great idea until he remembered Sarima.
+
+Yeah, that won't work for her. Something for a student or a merchant? I could make a pocket abacus, but that's a bit lame. I'm not sure I could pull off a scale overnight, if it needed to be accurate, and it would be too bulky... Oh! I could make a ring binder. Would be useful for her studies and she could have fun decorating it. I can make a nice wooden one with simple hinges since I don't have any Soft plastics for the casing. All I need to make is three long, thin metal plates with hinges and to fit four split rings on the center plate. I don't need to make any special mechanism if I'm okay with the rings being open whenever the binder is. I can always improve it later. Then all I'll need to finish it off is a decent piece of wood for the casing.
+
+Now with a plan, Doro went about his father's workshop to gather the materials he needed. He found a small crate filled with damaged vials and beakers that his father had retired from service over the years and picked a few of the most damaged ones. He then went to a shelf with multiple vials and used [Matter Analysis] on a few until he came across what he was hoping to find.
+
+Ha! I knew Dad would probably have some form of Boron Oxide for his ceramic glazes, with this I can improve the glass and make it into borosilicate glass. Might need to try out my [Compound Synthesis] sooner than planned. Alright now for the stuff I'll need to make the binder.
+
+Doro then picked out a small steel ingot, choosing one of the milder types of steel his father had in store, hoping it would make his Ability more energy efficient. He then retrieved a rolling pin and a knife from the kitchen before placing all his gathered loot onto the counter.
+
+Which should I start with? The binder is a bit more complicated from an engineering standpoint but probably simpler when it comes to using my Ability. Probably best to start with it. Now I just need to figure out how to soften the ingot and then I can use the rolling pin to flatten it.
+
+Doro put his hand on the steel ingot and tried to will energy into it. The energy circulated and returned, bringing back information with it.
+
+Damn, I just went and used [Matter Analysis] automatically. Let's try this again. This time I'll actively try to think about [Phase Transition].
+
+Doro tried to move the energy from his body into the metal whilst focusing on his Ability. This time, he could feel a strange sensation growing through his body. The energy that permeated his body had been flowing slowly and his attempts at moving it had thus far been fruitless. Now, the flow began speeding up and flowing out as if a small breach had opened on the surface of his palm. He could sense the energy rapidly entering the steel and diffusing itself through the material. Doro stopped imbuing the ingot after he felt a significant decrease in his energy levels.
+
+Can't tell exactly how much, but if I started with ten energy when I was full, I think I put somewhere between two and three points into the metal. It doesn't look as though the energy is dissipating, or at least not quickly, and it isn't circulating like when I use [Matter Analysis].
+
+Studying the arrangement of the energy, Doro noticed that it didn't diffuse itself uniformly. The energy seemed to gather itself into a multitude of tiny densely packed nodes, each linked by lines of energy. It reminded him of lattice structures and molecular models but the nodes were about the size of rice grains and were distributed evenly throughout.
+
+It kind of looks like 3D graph paper with little balls at the intersection. Much too big to represent molecular structure though. Probably a framework like those in 3D modeling or graphic design software. If that's correct then maybe I can...
+
+Doro followed his hunch and focused on one of the outermost nodes in the framework. He then started directing energy into the lines connecting the node to the rest of the framework. Expecting the same amount of difficulty he'd had when trying to move the energy within his own body, Doro was surprised when a large portion of the energy in the node instantly flooded the bonds and broke them apart. As a result, a small portion of the ore containing the node started slowly dribbling down the side of the solid metal clump. As it made its way down, the energy in the node steadily decreased and ran out by the time it had made it approximately halfway. As the node ran out of energy new lines reached out from the closest nodes and locked it in place. Doro then felt a small movement in the framework as some energy diffused back into the emptied node until it reached equilibrium again.
+
+Ok, that was pretty cool. Now, let's see if I can control the output a little better and just make the metal soft by allowing a smaller flow of energy into the bonds...
+
+Oh nice! It's like some of those metal clays they use for shaping jewelry.
+
+Ooh, With a bit more energy it becomes more viscous, kinda like tar or slime, but less sticky.
+
+Doro Continued experimenting with the flow on single nodes for a little while to get a better handle on his control without expending too much of the infused energy. By the time he felt ready to try and affect the whole framework at once, the ore's surface had become a misshapen mess and reminded Doro of microwave-related YouTube videos he had seen.
+
+Oh crap, with Meg, Emi, and I all dead, there is no one left to take care of the brand channel. I hope Dad and Uncle Marc figured something out. I know I can never go back, but it would be nice to know that they managed to get on with life after our deaths. Mom probably got over it rather quickly with the support of her new family, and Uncle Marc has Aunt Sally to lean on, but I hope Dad got on fine without me.
+
+Doro spent a couple of minutes in a melancholic mood, imagining how the people he had left behind on Earth fared over the last nine years. Ben's father, Jason, had been an extreme sports athlete throughout the 1990s, during his early twenties. He had been a rather successful pro surfer, skater, and snowboarder but had also traveled a lot to participate in extreme cross-country marathons or to find beautiful and remote locations for base jumping and other such activities. He had hired his indoorsy older brother as his manager on the condition that they would travel together and that he would act as his cameraman.
+
+It was on one of these many trips that Ben's parents had met, according to what his father had told him. Jason and Marc had gone down to South Africa for a month to prepare for, and compete in, a Pro surfing competition in the winter of 2000. He had met Ben's mother Amara there while she was on holiday between semesters of her last year at the University of Johannesburg. They had enjoyed the southern hemisphere equivalent of a summer fling over the winter and parted ways amiably when the two brothers returned to California after the event. Unbeknownst to his father, Amara had given birth to Ben nine months later.
+
+Amara's father was a powerful banker from a well-established family and didn't approve of Jason, seeing him as an athlete on the tail end of his career, and thus not a good enough prospect for his daughter. However, by the time Ben was four, his grandfather had found a good match for Amara among the financial elite of Johannesburg, and Ben had become a potential obstacle to his plan. After being convinced by her father, Amara took Ben to Los Angeles to meet his father at his place in Venice Beach. Three days later, she returned to South Africa alone leaving Ben with a confused and panicked Jason.
+
+Luckily for the pair, Marc and his wife Sally agreed to help and merged their households. They had gotten married and had a child of their own who was only a few months older than Ben. After a few months, Jason decided to retire because he hadn't felt right taking long trips and large risks with Ben waiting at home. He, Mark, and Sally then used some of their savings to start up a brand of custom-made outdoor sporting equipment for professionals and skilled enthusiasts. The early years had been touch and go but Ben had a lot of fun with his new family despite their finances being often strained as their brand was being established. Being in California, Ben didn't get the worst treatment that the USA could offer to children of mixed heritage. Considering the complicated history of his country of birth on this particular issue, he had not felt worse off, aside from being somewhat ridiculed by other children due to his accent for the first few years, that is.
+
+By the time Ben and Megan had become teenagers, the brand had stabilized, thanks to Jason's old connections and the quality of their products. The company grew and they hired a few more people to work on the manufacture and bought an old factory that they converted into a dedicated workshop. They hadn't really become famous at large but they were becoming well-known in professional circles.
+
+Ben and Megan had then gone off to university and met Emi. The three of them had become fast friends and by the end of their first year, they had come up with an idea. The three of them started a YouTube channel to try and spread the family brand. Ben would do the research, get the gear sorted, and organize their travels. Megan did stunts and on-the-field demos. Emi would film, edit the footage, and compose the musical tracks on her PC. At first, they only made promotional music videos for the brand and it worked pretty well, but over the years his cousin Megan got a fan following and the videos started becoming more character-centered as the videos took more of a v-log documentary style. Ben and Emi had started getting involved in the videos as well, to give different perspectives. By 2024, they had managed to gather over 1 million subscribers and had even been invited to collaborate with Megan's favorite channel, Yes Theory. Their effort had brought a new market to the brand and it had been picking up in popularity with amateurs.
+
+Ahh, Meg must be so mad we died before the collab since she had a huge crush on that Swedish/French dude. Well, that's enough reminiscing for now. I still have things to do.
+
+Doro took a deep breath to clear his mind and then inspected the lump of ore once again. He noticed that the amount of energy in each node had decreased a bit since the last time he had checked. Between what he had used during his experiments, and what was naturally lost over time, only about half of the energy he had invested remained.
+
+I can't really tell how much just dissipated and how much I used. I'll have to come up with some experiments to figure out the dispersion rate of infused energy. For now, let's try to soften all the bonds at once.
+
+Doro concentrated on the lump in front of him and tried to activate all the nodes at once, starting with a very slow flow. All the nodes activated and slowly fed energy into their bonds. With everything going according to plan, Doro slowly increased the flow until the metal had an unfired-clay-like consistency.
+
+Ok, I can probably keep it in this state for around a minute with the energy that remains, better get moving.
+
+Doro put the lump of unprocessed ore aside and retrieved an ingot of steel before infusing it with energy. He picked up the rolling pin he had prepared beforehand, activated the energy he had invested, and quickly flattened the ingot into a quarter-inch thick sheet. He then carefully used the knife he had set aside to cut out the components needed for the binder. Doro finished his last incision as the last remnants of energy were expended causing the metal to instantly return to a solid state.
+
+Great! That pretty much worked as expected. I need to spend a tiny bit more energy to turn a couple of those strips into pins for the hinges, and into rings, but that should be negligible.
+
+Doro spent the next few minutes rolling some of the strips into cylinders and bending them into their required shapes before proceeding to assembly. Once he was done, Doro looked down at the mechanism he had made with pride.
+
+Not bad! If I dare say so myself. No way I could have done that without a few power tools and a lot of specialized equipment back on Earth. Now I just need to get some decent wood for the covers and attach them. My energy feels roughly three-quarters full so I'll switch to making the glassware for now and go ask Mom for the wood when I run out.
+
+Doro set aside the components he had just finished shaping, having done all he could for now, and turned his attention to his other project.
