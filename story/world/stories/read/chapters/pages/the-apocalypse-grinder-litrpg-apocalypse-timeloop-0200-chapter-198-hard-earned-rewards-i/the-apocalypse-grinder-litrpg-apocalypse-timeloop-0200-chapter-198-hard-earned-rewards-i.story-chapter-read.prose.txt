@@ -1,0 +1,213 @@
+You have killed [Ragar’vath the Soulstealer - BOSS][Goblin Chief Shaman Lv.60]!
+
++26 Bronze Credits
+
++601 Copper Credits
+
++19 [Stamina IV] Mastery
+
++21 [Mana IV] Mastery
+
++11 [Health III] Mastery
+
++21 [Pain III] Mastery
+
++22 [Sword III] Mastery
+
++11 [Spear II] Mastery
+
++7 [Anti-Magic] Mastery
+
++4 [Grappling] Mastery
+
++9 [Breathing] Mastery
+
++Bone Charm Lv.60 (Rare)
+
++Corrupted Soul-Twisting Bone Staff Lv.60 (Epic)
+
++Boss Shard Lv.60 (Energy)
+
++Boss Shard Lv.60 (Soul)
+
+You have leveled up to Lv.47!
+
+…
+
+You have leveled up to Lv.61!
+
+You have been restored x4!
+
++75 Vitality
+
++75 Endurance
+
++30 Wisdom
+
++30 Intelligence
+
++45 Acuity
+
++1290 Free Stat Points
+
+The rewards were good. An epic weapon that wouldn’t be much use to Ronan unless it benefited all of his spellcasting and not just anything voodoo or curse-related. However, the two boss shards and all the levels were amazing. Not to mention that he was getting a class evolution on top of that.
+
+Congratulations for reaching Lv.50!
+
+You have reached the first threshold for your class! Class will evolve…
+
+…
+
+Congratulations, you have cleared Stage 5 of the tutorial!
+
+You have been granted access to the gladiator system! You may forgo the chance to return to your homeworld in exchange for greater prospects of advancement elsewhere in integrated space. Be warned, the path of the gladiator is one that not many survive, but those who do, emerge as some of the greatest warriors in the multiverse.
+
++96 Bronze Credits
+
++625 Copper Credits
+
++Thesaurus of the Trillion Traits (Rare)
+
++Skill Upgrade Shard (Rare) x5
+
+Congratulations challenger, you have completed all stages of the tutorial! Your accomplishments ring out through the reaches of the system and you have been deemed worthy.
+
+Tutorial Assessment — [Ronan Steele]:
+
+Difficulty: Harder
+
+Kill Rating: B-
+
+Speed Rating: C-
+
+Boss Rating: B
+
+Accomplishment Rating: B+
+
+Overall Rating: B
+
+For clearing the tutorial at [Harder] difficulty with a [B] rating, you receive the following rewards:
+
++40 Free Stat Points
+
++57 Bronze Credits
+
++975 Copper Credits
+
++Endless Treasury Token (Rare) x3
+
++Skill Upgrade Shard (Rare) x1
+
++Rift Key (Rare)
+
+Will you accept the offer to become a Gladiator?
+
+Ronan hadn’t even considered that not going back to New Earth—as he was calling his home planet now—was even something the system could offer. Now that the offer was presented to him, he didn’t need to think about it.
+
+There were no risks involved, not in the long-term at least. The path of the gladiator, as the system called this new opportunity, might be deadly, but death was only a stopping point for Ronan and not the final destination.
+
+Please stand by for transport to the Gladiator Staging Platform!
+
+Transport will begin in 180 seconds!
+
+180…
+
+With three minutes to sort himself out before he was taken on this new journey, it was time to use up his rewards. The consumables could wait, as his personal strength took priority.
+
+Ronan decided he would choose his class evolution before he invested his free stat points. In all likelihood he would only be taking the basic evolution dao child again, as he doubted anything better would have come up since the last time he reached level 50—his last iteration.
+
+Congratulations for reaching Lv.50!
+
+You have reached the first threshold for your class! Class will evolve…
+
+You have not unlocked any special evolutions due to your achievements
+
+You have not unlocked any special evolutions due to your heritage
+
+You have not unlocked any special evolutions due to your race
+
+You have not unlocked any special evolutions due to alternative methods
+
+Please select a class evolution from the following:
+
+Dao Child (Mythical)
+
+Blessed by the Grand Dao, you are a child of providence. Talented in the arts of cultivation, you know the true path to perfection in this cosmos lies not in the plethora of skills and masteries available to challengers, but the cultivation of oneself. Mind, body, energy, and soul. Four gardens, each of which must be cultivated if one wishes to reach the pinnacle. You have embraced your destiny, tending to the four paths with care. Continue reaching for the heavens and grasp the Dao.
+
+Cultivation talent x3.25
+
+Cultivation benefits are 70% more effective
+
+You are more likely to receive slightly better cultivation arts, and items that benefit your cultivation, or from your cultivation, from endless treasury tokens
+
+You are able to comprehend lesser daos with far more clarity, and greater daos no longer elude you
+
++135 Free Stat Points on level up
+
+Unlock requirements:
+
+Challenger possesses the class [Dao Child (Legendary)]
+
+Challenger has all four cultivation paths beyond the first threshold at Lv.100 or below
+
+As Ronan had suspected there was only the one option available to him. Still, receiving the mythical evolution at level 50 instead of 100 was a big improvement. It meant there was still room to evolve at level 100 and potentially reach the next tier of classes. In other words, he might be able to get himself another chronos merit.
+
+As he’d reached level 61, there were plenty of stats from the evolution waiting to be infused. He had earned almost 3000 just from that one battle. Defeating bosses was a profitable endeavour.
+
+You have selected [Dao Child (Mythical)] as your class evolution!
+
+Initiating class infusion…
+
+He was ready for the pain, and while he suffered, he was able to endure it without complaint.
+
+Infusion complete!
+
+Your class has evolved from [Dao Child (Legendary)] to [Dao Child (Mythical)]!
+
+Bonus stats for evolution have been retroactively applied
+
+3000 stat points was a hell of a lot. He wasn’t sure he’d ever had this much to spend in a single moment. Sure, he’d reached a far greater total in his previous iteration and even in some iterations before that, but not in one go.
+
+With his current combat style being a blend of magic and melee weapon use, he felt that his previous distribution was still mostly optimal. However, he’d often found himself bottoming out in mana and even stamina, despite the fact he had skills to restore his stamina mid-battle.
+
+He decided he would also make a big investment in regeneration. The stat seemed to work more effectively the more points he had in it. Some kind of exponential function at play.
+
+He spent almost two thirds of his stat points among those six major stats—strength, agility, dexterity, wisdom, intelligence, and regeneration. Then he distributed the rest of his free points into the other stats in an even split. The rounding errors went into luck. Perhaps it would help him get better drops from the consumable items he was about to use.
+
+Before that, he decided he would use the skill upgrade shards. It was the first time he’d received rare shards and that was a momentous occasion. Taking another of his skills to epic rarity was a big increase in power and would be a tough decision. He had 6 shards, thanks to the double drop, which meant he might even be able to choose from a wider range than with just 5.
+
+Skills available for evolution:
+
+Light Manipulation [Cost: 6 Skill Upgrade Shards (Rare)]
+
+Cure Affliction [Cost: 5 Skill Upgrade Shards (Rare)]
+
+Mighty Strength [Cost: 6 Skill Upgrade Shards (Rare)]
+
+There were only three skills for him to choose from. He wasn’t sure if learn through suffering had been excluded because it cost more than 6 shards to upgrade or because it wasn’t possible to upgrade it due to the fact it was a class skill bound through the skillbound ring. He wasn’t going to try and save up and find another shard just to find out. That would risk not using this upgrade if he was killed prematurely. He couldn’t allow that to happen.
+
+The choice was fairly obvious. He hadn’t used light manipulation much since he’d acquired it, but that didn’t necessarily mean it wasn’t worth upgrading. It could become a more powerful form of elemental manipulation if upgraded rather than just staying the same. Cure affliction was in a similar boat. Would it mutate and become a more powerful healing spell that he could then use sorcery to duplicate?
+
+His mind had gone immediately to mighty strength. With the sheer quantity of stat points he was earning in his iterations at this point the stat-boosting skills were easily the best ones he possessed, apart from his combat skills.
+
+Strength was also the most direct influence on his ability to punch, stab, and smash the crap out of his enemies. Getting more of it for free was a no-brainer decision.
+
+Ultimately, more powerful healing could give him better longevity, but he had the ability to come back from the dead every time he was killed. It didn’t seem worth the upgrade.
+
+Light manipulation was tempting, but frankly he didn’t have the experience with the skill to know if he would just be wasting the shards. In the end, it always came back to stats.
+
+[Skill Upgrade Shard (Rare)] x6 has been consumed!
+
+[Mighty Strength (Rare)] is evolving…
+
+[Mighty Strength (Rare)] has evolved into [Mighty Strength (Epic)]!
+
+Mighty Strength (Epic): Gain +1 to strength for every 5 points of strength you possess. Does not include stat bonuses.
+
+Ronan was slightly miffed that only two points had been shaved off. Rather than bigger jumps, it seemed that the stat boosting skills seemed to taper off as their rarities increased. Then again, that made a lot of sense from a balancing perspective.
+
+If they just kept increasing, he could get one of the stat-boosting skils to a point that investing just one point into the stat would give him more than one for free thanks to the skill. That would be absurd.
+
+Then again, the system is fucking absurd so I wouldn’t be surprised if there were higher rarity versions of the stat-boosting skills which did exactly that, he thought to himself.
+
+All that was left now were the other consumables. Four endless treasury tokens, one thesaurus of the trillion traits, and one myriad skills tome from stage 4. All of them were rare, with the exception of the one legendary token, and he was looking forward to seeing what he would get.

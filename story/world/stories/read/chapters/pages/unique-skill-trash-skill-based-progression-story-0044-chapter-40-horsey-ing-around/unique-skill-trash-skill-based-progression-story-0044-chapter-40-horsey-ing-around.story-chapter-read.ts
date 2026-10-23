@@ -20,5 +20,7 @@ export const uniqueSkillTrashSkillBasedProgressionStory0044Chapter40HorseyIngAro
     },
   ],
   createdAt: "2026-10-22T16:49:20.256Z",
-  updatedAt: "2026-10-22T16:49:20.256Z",
+  updatedAt: "2026-10-23T02:48:09.345Z",
+  ownProgress: 2463,
+  progressedAt: "2026-10-23T02:48:09.345Z",
 } as const satisfies StoryChapterRead

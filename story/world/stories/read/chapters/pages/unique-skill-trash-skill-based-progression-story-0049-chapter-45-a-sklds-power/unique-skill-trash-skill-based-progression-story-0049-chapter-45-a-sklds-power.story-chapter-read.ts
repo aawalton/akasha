@@ -20,5 +20,7 @@ export const uniqueSkillTrashSkillBasedProgressionStory0049Chapter45ASkldsPower 
     },
   ],
   createdAt: "2026-10-22T16:49:20.256Z",
-  updatedAt: "2026-10-22T16:49:20.256Z",
+  updatedAt: "2026-10-23T02:48:09.345Z",
+  ownProgress: 1866,
+  progressedAt: "2026-10-23T02:48:09.345Z",
 } as const satisfies StoryChapterRead

@@ -1,0 +1,139 @@
+Name: Ronan Steele
+
+Race: Human (F)
+
+Heritage: Reverberating Chronosphere (Current Iteration: 50) +
+
+Level: 61
+
+Class: Dao Child (Mythical)
+
+Sub-Class 1: Sorcerer (Uncommon)
+
+Fortune: 214 Bronze Credits, 587 Copper Credits
+
+[Stats] +
+
+Health: 6711/6711
+
+Stamina: 6775/6775
+
+Mana: 19515/19515
+
+Vitality: 319
+
+Endurance: 329.88
+
+Wisdom: 927.54
+
+Regeneration: 179.14
+
+Resistance: 190.89
+
+Strength: 838.66
+
+Agility: 843.44
+
+Intelligence: 935
+
+Dexterity: 834.81
+
+Acuity: 375
+
+Tenacity: 220.52
+
+Luck: 230
+
+Charisma: 183.64
+
+Available Points: 0
+
+[Traits]
+
+[Legendary]
+
+Fate Alignment (Personal)
+
+[Epic]
+
+Luminous Nerves (Mutative), Luck is a Skill (Meta), Dual Mind (Mutative), MTP Mitochondrial Shift (Evolutionary)
+
+[Rare]
+
+Mineral Skeleton (Mutative), Berserk Cultivation Body (Mutative), Animal Prescience (Evolutionary), Manasynthetic (Evolutionary), Shard Reprocessor (Mutative)
+
+[Skills]
+
+[Universal]
+
+Unified Language Adaptation
+
+[Legendary]
+
+Reality Defying Cultivation (Class), Three Thousand Dao, One Destiny (Class)
+
+[Epic]
+
+Reverberating Path (Blessing), Surging Strikes, Ethereal Slash, Mighty Strength, Weapons Expert - Ranged, Enchant - Explosion, Artful Accumulation
+
+[Rare]
+
+Learn Through Suffering (Cla5?), Light Manipulation, Arcane Piercing Strike, Cure Affliction, Limitless Luck, Voracious Vitality, Resonant Regeneration, Ductile Dexterity, Enhanced Acuity, Unlimited Tenacity, Pressure Cutter
+
+[Uncommon]
+
+Critical Tempo, Potent Wisdom, Dust Bomb, Treasure Hunter, Relentless Training, Weapons Expert - Melee, Gust, Counter-Parry, Suture Wound, Stone Grip, Flash Fear, Calculation, Quintessential Charisma, Repair, Critical Experience, Conversion Cultivation, Dispel, Exceptional Palate, Magic Strike, Lightning Strike, Conjure Weapon, Accumulating Agility, Rampant Resistance, Fertility Sight, Summon Insect, Blueprint Manual, Intuitive Intelligence
+
+[Common]
+
+Vital Surge, Magic Money, Excessive Endurance, Eagle Eye, Quick Forage, Negotiation, Freeloader, Fast Grow, Creative Connection, Idle Cultivation
+
+[Mastery]
+
+Pugilist II 5/100, Mana IV 51/100, Sword III 38/100, Shield I 1/100, Staff II 2/100, Spear III 36/100, Stamina IV 62/100, Pain III 27/100, Anti-Magic 14/100, Perception II 6/100, Leadership 1/100, Stealth 1/100, Grappling 14/100, Club I 3/100, Critical I 37/100, Momentum II 1/100, Health III 21/100, Breath 11/100, Meditation 1/100, Mace III 5/100, Crafting 1/100, Dagger I 17/100, Throwing Knife 1/100, Sickle 3/100, Knuckleduster 5/100, Pan 1/100, Hammer I 3/100
+
+[Cultivation]
+
+Mind: Agate ★ (31.9%) [Seven Silent Clarities (Legendary) 1.1%]
+
+Body: Copper ★ (0.1%) [Diamondback Gorilla (Rare), 23.6%]
+
+Energy: Pulsing ★ (0%) [Nine Mouths Delta (Uncommon), 93.2%]
+
+Soul: Orange ★ (2.7%)
+
+[Blessings]
+
+Blessing of Chronos (Boundless), Minor Blessing of the Temporal Obelisk (Unique), Tellen Mark of the Guardian Initiate (Epic), Minor Blessing of the Chronos Forge (Unique)
+
+[Mutations]
+
++129% Mental resistance, +49% Magical damage resistance, +268% Physical damage resistance, +157% Toxicant resistance, +41% Exsanguination resistance, +69.57% Energy absorption efficiency, +217.49% All-Damage resistance, +1.2% Soul damage resistance
+
+[Hard work bears fruit]
+
+Bloodstained Berry (5/50 Vitality)
+
+Marathon Melon (11/50 Endurance)
+
+Apple of Wisdom (0/50 Wisdom)
+
+???
+
+Staunch Lemon (5/50 Resistance)
+
+Power Pomegranate (22/50 Strength)
+
+Kiwi of Quickness (37/50 Agility)
+
+Orange of Intelligence (5/50 Intelligence)
+
+Dexterous Date (28/50 Dexterity)
+
+Apricot of Acuity (10/50 Acuity)
+
+Tenacious Tomato (31/50 Tenacity)
+
+Lucky Banana (2/50 Luck)
+
+Majestic Mango (5/50 Charisma)

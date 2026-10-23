@@ -1,0 +1,109 @@
+While the shaman saw him launching the swirling mass of chaotic mana at it, Ronan’s throwing knife distraction meant it couldn’t take proper evasive manoeuvres. It was caught up casting its voodoo and Ronan knew his rainbow bomb would strike true.
+
+Colour drained from the world as the spell exploded against the shaman. It had raised its staff to block despite the fact it was casting. If he’d interrupted its spell as well as hurting it that was even better.
+
+Ronan wasn’t going to count on that fact, however, hence why he was rushing towards Ragar’vath with a conjured shortsword in hand. The world slowly returned to vibrancy as the blast faded. Ronan saw a purple spark through the cloud of swirling mana and immediately threw himself to the side.
+
+A twisting arc of insidious mana ripped through the air he’d been standing in a moment earlier. The tendril of purple split into a dozen smaller tendrils that seemed to scratch through the air in search of him. The spell faded a moment later, the mana being sucked back into the shaman’s staff.
+
+Ronan stared at Ragar’vath’s twisted visage. The shaman was infuriated, his spell having torn into its flesh and left burning marks. Ronan grimaced as he saw the greying flesh where his spell had damaged the shaman.
+
+It wasn’t as much damage as he’d hoped for but the fact that a single spell could hurt the boss that much was a great sign. They stared each other down after testing one another. Both knew they could hurt the other, but the goblin chief had the zombified champion to fight for him.
+
+The shaman’s staff still crackled with purple mana. Whatever magic it was using had yet to run its course. Ronan didn’t want to get hit, but damage during a boss fight was inevitable.
+
+He realised that taking down the shaman wouldn’t be easy. As he watched, Ragar’vath ran a hand over its wounds, green voodoo glowing where the blackened palm passed and healing its wounds. Nothing short of an overwhelming killing blow would be enough to take the bastard down.
+
+That changed his strategy. Ronan looked right, seeing Zagbar approach. The zombified champion was a nuisance that would get in the way of the battle between Ronan and his main opponent. He could kill it first and then focus all of his attention on the shaman chief.
+
+He launched a few more mana bolts and throwing knives at the shaman, hoping to distract it long enough to engage and take down Zagbar. He felt it was unlikely to last until his victory but he only needed thirty seconds or so.
+
+He pulled a spear from his inventory. Its level was low but it would suit his purposes better. He crouched low and activated stone grip as well as vital surge. He would need every ounce of strength he possessed to take Zagbar down before it could fight back.
+
+Ronan charged forward, somewhat missing his juggernaut class skills. His own speed was sufficient here, though. He exploded into a low charge, spear thrusting out in front of him, faster than his body.
+
+The tip of the spear glowed blue as he activated magic strike and arcane piercing strike. He wanted to stack as many skills as he possibly could into this one strike to ensure Zagbar did not rise again.
+
+The zombified champion reacted, raising its broadsword to deflect the incoming strike. Ronan had a sudden idea. He used dispel as his thrust continued.
+
+Zagbar completely froze mid slash. Ronan’s spear soared right past its extended blade, piercing the champion’s skull. He activated surging strikes as the blow connected.
+
+The first spear-strike blew a hole in the zombie’s face, sending chunks of grey flesh flying outwards. The second deepened it, ripping apart the monster’s skull as Ronan grunted in exertion. The third blow pierced all the way through its brain, destroying the last vestiges of the mini-boss’ consciousness—if it even had one as a zombie.
+
+It was only on the fourth spear-strike that Zagbar finally fell. Before Ronan even reached the threshold for dealing a critical hit via critical tempo, the mini-boss’ undead form had been destroyed.
+
+You have killed [Zagbar the Bloodthirsty - MINI BOSS][Zombified Hobgoblin Champion Lv.45]!
+
++26 Bronze Credits
+
++70 Copper Credits
+
++1 [Mana IV] Mastery
+
++5 [Stamina IV] Mastery
+
++11 [Spear III] Mastery
+
++Decayed Hobgoblin Fingers (Uncommon)
+
++Mini-Boss Shard Lv.45 (Body)
+
+You have leveled up to Lv.45!
+
+You have leveled up to Lv.46!
+
++10 Vitality
+
++10 Endurance
+
++4 Wisdom
+
++4 Intelligence
+
++6 Acuity
+
++172 Free Stat Points
+
+Ronan suddenly felt a subtle stinging pain near the base of his spine. He whirled around as Zagbar’s corpse dropped to the ground for the second time, seeing a tendril of purple magic that was attached to his skin, leading back to the shaman’s staff.
+
+Ragar’vath cackled with delight, seeing that its spell had successfully struck Ronan. Using dispel was enough to dislodge the tendril of purple magic, but Ronan still felt a faint sting from his back. He turned to face the shaman fully, able to give the boss monster his full attention now that its undead puppet was defeated.
+
+Ragar’vath didn’t seem bothered that Ronan had broken the connection of its spell, which was worrying. The shaman wasn’t immediately going on the attack, either, so Ronan used the brief moment to pull up the hit notification and see how much health that one strike had stolen from him.
+
+You have been hit by [Ragar’vath the Soulstealer - BOSS][Goblin Chief Shaman Lv.60]!
+
+-87 Health [Draining]
+
+You are [Life-Leeched]!
+
+-5 Health / second
+
+-1 Mana / second
+
+The actual damage from the spell wasn’t that impactful, but the life-draining effect was nasty. For now it would barely make a dent in Ronan’s health points, but if enough similar effects stacked up he wouldn’t last long against the shaman boss.
+
+Now that he was able to completely focus on the goblin chief, that shouldn’t be an issue. Dispel wasn’t that expensive a skill and he was ready to use it to its full effect to keep himself safe. A mana drain on top of a health drain was not something he wished to be affected with more than once.
+
+Ragar’vath fired off another spell, though this time it was formed of red magic. Ronan didn’t quite understand goblin shaman voodoo yet, and didn’t know the differences between the spells, but he knew he didn’t want to be hit with any of them. He used dispel, struggling at first as more mana than he expected was poured into the skill.
+
+However, it eventually tore the spell apart. The red mana faded into the air, but a portion of it was sucked back into the shaman’s staff.
+
+Ronan guessed red might be some sort of direct offensive magic, but he’d seen a shaman use a red spell as a berserking buff on other goblins in the past. The purple was new, while anything green was likely to be a healing spell.
+
+The shaman fired off a few more spells while Ronan was figuring out how to best take the boss down. Dispelling them grew a little easier as he figured out the shaman’s targeting patterns and the best ways of taking the spells apart.
+
+Ronan dashed forwards in a gap between two spells and thrust his spear at the boss. He wasn’t holding back, using arcane piercing strike and magic strike from the get-go. The strike wasn’t particularly fast, which allowed the shaman to deflect it with its staff. However, the spear’s tip still bit deep into its shoulder, piercing the goblin chief’s leathery hide with ease.
+
+Seeing that he could deal sufficient damage to the boss calmed Ronan a little. This was not a losing battle, only a tricky one. As he tried to twist the spear and pull it back, the shaman suddenly tensed its shoulder and jerked it backwards.
+
+Stone grip allowed Ronan to keep hold of his weapon, but that would pull him closer to the boss and whatever counter-attack it had in mind. He let the spear fall through his fingers and leapt backwards right as a three-pronged tendril of purple voodoo tore through the space he’d been occupying.
+
+Ragar’vath roared, infuriated at its continued failure to strike him. It suddenly closed its eyes and slammed the butt of its bone staff into the ground. The same black smoke from before started to rise from its body, but Ronan couldn’t simply run.
+
+He decided to strike first.
+
+He cursed upon realising there wasn’t another spear in his inventory. Instead he opted for a longsword. The blade was chipped, but it would have to do.
+
+Without delay he used arcane piercing strike and magic strike, lunging towards the goblin chief shaman and stabbing at its heart. He wanted to take it down with a single well-timed blow.
+
+When he was just halfway to the shaman, the black smoke suddenly convalesced around its blackened fingers, twisting and whirling into strange shapes before darting straight at Ronan’s face. There was no time to dodge. He would have to engage the spell head-on.

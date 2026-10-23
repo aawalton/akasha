@@ -1,0 +1,103 @@
+Ronan was within striking distance, and was momentarily stunned by the casual deflection. However, it didn’t stop him from lunging forwards and thrusting his longsword at the Grathen soldier’s chest.
+
+Thin veins of luminescent white shot down its arm. It snapped into the path of his blade, the flesh colliding with the steel and not giving an inch. What the hell was that device? Some kind of enhancement? Ronan wanted to know how it allowed the soldier to hold out against him with how high his stats were.
+
+When he withdrew his blade, he saw the soldier’s uniform had been cut and there was a faint trickle of blood dripping from its sleeve. At the very least, it wasn’t immune to damage—just stronger than a moment before.
+
+He launched another mana bolt and then rushed in to engage once more. The soldier deflected it with ease, but left itself open for another thrust. While it managed to block that, Ronan was unrelenting. He followed every blocked or parried strike with another, never giving his opponent a moment to catch its breath.
+
+At one point it even managed to slip past his blade and punch him in the chest. The force was greater than he’d been expecting and he stumbled slightly. A moment later he’d recovered and gone back on the assault. He noticed the white glow getting weaker over time, and pressed even harder.
+
+After one particularly powerful downwards slash, the glow completely stuttered out for a fraction of a second. The alien’s eyes went wide. Ronan stepped forwards and plunged his sword through its heart, killing it instantly.
+
+You have killed [Grolik 76 - Grathen Lieutenant Lv.57]!
+
++12 Bronze Credits
+
++213 Copper Credits
+
++19 [Mana IV] Mastery
+
++11 [Stamina IV] Mastery
+
++1 [Health III] Mastery
+
++6 [Sword III] Mastery
+
++Torn Grathen Federation Lt. Uniform (Uncommon)
+
++Ceremonial Dagger Lv.52 (Common)
+
+You have leveled up to Lv.64!
+
+You have leveled up to Lv.65!
+
++10 Vitality
+
++10 Endurance
+
++4 Wisdom
+
++4 Intelligence
+
++6 Acuity
+
++282 Free Stat Points
+
+Ronan distributed the stat points immediately, not needing to think about it much. He was following the same distribution. He did note that he could probably hold off on wisdom a little—20,000 mana was plenty.
+
+Searching the dead soldier’s corpse, he couldn’t find any signs of the device it had used to temporarily increase its power. There were traces of burning in its flesh, but the white glow was gone. Annoying, but not the end of the world.
+
+During his fight through the compounds, he had grabbed a few of the soldiers to interrogate. He’d learned more than he had from the first Grathen he’d spoken with, but it was still barely enough to work with. Being able to interrogate one of the two lieutenants would have been useful, but there was no opportunity to capture one due to how they had fought.
+
+He knew that this military compound was basically just a guard outpost meant to watch the outskirts of the nearby Kayir. The logistics city was an important location on this planet as it was where all the food and resources were brought in via spaceship and then distributed out to the other cities.
+
+It was also where anything that was mined or harvested on this world was delivered so that it could be taken to other worlds in the Grathen Federation. As to what resources in particular they were gathering here, he hadn’t been able to ascertain that information. The soldiers mostly knew about the military movements, rather than the logistics of the place.
+
+His next step was clear. It was time to head for the city. This time, he wanted to try and keep a low profile. He was sure the massacre here and the huge portal in the compound he’d started in would be discovered soon, but before that point he wanted to blend in and learn more about this world he was supposed to conquer.
+
+To that end, he took the uniform he’d received as a loot drop from the second lieutenant he killed and put it on. The damage wasn’t ideal, but it should at least get him inside the city, at which point he could figure out a better disguise.
+
+The main issue wasn’t his clothing, but rather his skin and facial features. The Grathen had grey skin, a far cry from his yellow-ish tan. Not only that, but they had blue hair and pointed ears, as well as blue sclera. Ronan couldn’t replicate that.
+
+He decided to just wrap some torn fabric from another uniform around his face, only exposing a little of his eyes. He just had to hope no one called him out on it. Luckily the uniform included gloves to cover his hands. With his universal translation skill, he should be able to pass for a local.
+
+Ronan was about to head down the hill towards the city in the distance, which just looked like a hexagonally-plated bubble with a few visible buildings inside, when he felt a familiar feeling from inside the final compound. Realising he’d not yet entered, he blasted open the gate with a rainbow bomb and a kick. When he made it inside, a smile appeared on his face.
+
+Rising from the centre of the otherwise unremarkable grey floor was a monolithic pillar of stone. The colouration was similar to the material of the compound but rougher. Ronan guessed it was the natural form of the material, but the sensation the pillar gave off was almost identical to that of the tree from the top of the boss tower back on his homeworld.
+
+It was a pillar.
+
+Approaching it with caution, Ronan wasn’t attacked or hit with any kind of automatic defences. He gingerly reached out a hand and placed it against the pillar, unsure what to expect. He shouldn’t have been surprised by what happened.
+
+This pillar is currently 100% claimed by another faction, you will need to purge this claim before you can stake your own!
+
+ERROR!
+
+You must be part of a faction to fight this claim…
+
+Create faction?
+
+Ronan frowned. He had hoped that his previous faction might last through iterations. It was a naive wish, apparently. He accepted nonetheless, knowing it was his only option if he wanted to complete the invasion.
+
+@#!/>-!%
+
+The screech of his heritage bursting into action made him stumble momentarily. He hadn’t been ready for it to intervene here, but was pleasantly surprised and a little curious.
+
+Descendant has already established a faction in previous iterations. Previous factions members are too far from descendant to be restored! Faction will be restored with 1 member!
+
+Faction [Chronos] has been established and bound to descendant [Ronan Steele]!
+
+This pillar is currently 100% claimed by another faction, you will need to purge this claim before you can stake your own!
+
+Estimated time until claim is purged: 6 Hours, 19 Minutes, 58 Seconds
+
+Estimated time until claim is purged and pillar is claimed: 7 Hours, 4 Minutes, 12 Seconds
+
+WARNING: If you leave the pillar zone, your attempt to claim the pillar will freeze. Please remain inside the pillar zone until you have claimed it!
+
+Interesting… Ronan paused to think about the implications of the faction being re-established rather than permanently linked to him through iterations. If he was in close enough proximity to the people who had formerly been members, would they randomly get joined to his faction without their consent? What kind of information would they gain due to that?
+
+He wanted to try it out right away and find out, but that was impossible until at least his next iteration. He would also have to force himself to drop down to a lower difficulty tutorial again, but it was worth doing so just to find out what happened.
+
+The pillar would take a long time to claim, but he felt it would be worth it. Gaining a foothold in this world, especially one so close to his incursion portal, was beneficial. He just hoped it wouldn’t notify the faction when he stole it…
