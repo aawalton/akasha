@@ -1,0 +1,263 @@
+For some reason, the Squiggles laudatory message was followed by a long string of symbols that Charlemagne could make neither heads nor tails of.
+
+Note: Errors Encountered During Skill Fusion Process
+
+Creating Diagnostic Log
+
+Processing
+
+Log Creation Complete
+
+Archiving Log Per Standing Directive
+
+Processing
+
+Log Archived to Omnistore Theta Epsilon Alpha
+
+Displaying Redacted Log Per Standing Directive
+
+Processing
+
+Redaction Complete
+
+Processing
+
+Log Display Successful.  See Below
+
+//Skill Fusion Commencing
+
+//Importing System.Binaries.Skill
+
+//Importing System.Binaries.Organic.CarbonBase
+
+//Importing System.Binaries.Aberrant
+
+//Enumerating Skill Fusions Given Input Array [Flame Physique, Ember Shield, Veins of Lava]
+
+//Searching…
+
+//0 Results Returned
+
+//Removing Safeguards
+
+//0 Results Returned
+
+//Admin Override Accepted
+
+//1 Results Returned
+
+//Analyzing Base User Compatibility For Each Result
+
+//Highest Compatibility .004
+
+//Error: Compatibility Too Low
+
+//Removing Safeguards
+
+//Compatibility Accepted
+
+//Initiating Skill Fusion
+
+//Removing Deprecated Skills
+
+//Warning: Deprecated Skill (Veins of Fire) Interdependency Noted
+
+//Additional System Cost Approved
+
+//Stabilizing User
+
+//Deprecated Skills Removed
+
+//Initiating Skill Infusion (Inferno’s Embrace)
+
+//Synergy Detected: Ember Core Skill
+
+//Procedure Halted
+
+//Error: User Should Not Possess Ember Core Skill
+
+//Error Logged for Higher Function Review of Screening Protocol
+
+//Updating Base Compatibility
+
+//Highest Compatibility .02
+
+//Synergy Detected: Mana Surgery Skill
+
+//Error: User Should Not Possess Mana Surgery Skill
+
+//Error Logged for Higher Function Review of Screening Protocol
+
+//Updating Base Compatibility
+
+//Highest Compatibility .025
+
+//Synergy Detected: Unknown
+
+//Searching Records
+
+//0 Results Returned
+
+//Searching Full User History
+
+//Achievement Bit Bleach Detected
+
+//Further Search Limited to Avoid Memory Contamination
+
+//Error Logged for Higher Function Review of Screening Protocol
+
+//Error Log Deleted per Standing Directive
+
+//Updating Base Compatibility
+
+//Highest Compatibility .028
+
+//Resuming Skill Infusion (Inferno’s Embrace)
+
+//Warning: Insufficient Compatibility for Full Infusion
+
+//Analyzing Available Resources
+
+//Expropriating User’s Mana
+
+//Infusion 20 percent complete
+
+//Infusion 40 percent complete
+
+//Infusion 60 percent complete
+
+//User’s Mana Exhausted
+
+//Analyzing Available Resources
+
+//Expropriating User’s Lifeforce
+
+//Infusion 80 percent complete
+
+//Infusion 100 percent complete
+
+//Activating Skill
+
+//Error: User’s Durability Insufficient for Skill Activation
+
+//Activation Process Halted
+
+//Error Logged for Higher Function Review of Screening Protocol
+
+//Admin Override Accepted
+
+//Activating Skill
+
+//Skill Activation Successful
+
+Log Display Complete
+
+The strange and confusing message was followed by several that Charlemagne was more familiar with.
+
+Congratulations: You have earned the Achievement (Watch out for the huggers!).  You are among the first fifty users to unlock an Embrace-type Skill.  Attributes are 25 percent more effective.
+
+Congratulations: You have undergone body tempering.  Due to the acquisition of an Embrace-type Skill, all attributes are more effective.  Effectiveness increase will scale with your Inferno's Embrace Skill level.  Future tempering with thermal energy will be increasingly more difficult.  Try beating yourself with a fireproof stick for further results!
+
+Congratulations: You have undergone soul tempering.  Due to the acquisition of an Embrace-type Skill, your soul is now significantly more resistant to all forms of damage.  Minor to Moderate damage to your soul will heal minutely faster.  Pro tip: don't let your soul get hurt.
+
+The rooster slowly rose to his feet as he studied the changes to his physique.  The white speckles that had previously graced his black feathers had turned to a cherry red, giving his plumage the appearance of smoldering coals that were ready to flare to life once fed.  His beak had once again grown slightly longer, and, while he couldn’t see them, his comb and wattles had grown to become even more majestic.  Their color had also changed to match the cherry red that now speckled his body.
+
+But those weren’t the most important changes.  Reaching out with his mana sense, the rooster couldn’t help but notice that everything around him felt less substantial, while the glowing essence that composed his very soul felt far more tangible than before.  Cycling mana through his Ember Core allowed Charlemagne to spot additional boons granted by the powerful Advanced Skill.  His mana encountered almost no resistance as it travelled through the rebuilt channels that mimicked his flesh and blood circulatory system.  Each mote of mana was able to do its assigned task more efficiently and to better effect, allowing him to operate at full power in even mana-poor environments.
+
+Beyond replicating and improving upon the effects of Veins of Lava, Inferno’s Embrace also covered the functions of Flame Physique.  But it did so much more than just that.  Beyond providing a pressurized envelope and a convenient means of sharing mana between the rooster’s Ember Core and his outer defenses, the new Advanced Skill also imbued the rooster’s flesh with the power of fire.  His muscles were more explosive, his blood boiled with barely restrained power, and his bones now contained deep wells of heat that could be tapped to provide a burst of extra power.  Even his perception and reflexes were enhanced by the total body upgrade.
+
+The portion of the Skill that replaced Ember Shield received perhaps the most straightforward upgrade.  Charlemagne’s body radiated waves of superheated mana that formed a protective barrier that extended just a bit beyond his feathers.  With a thought, however, he could extend or retract the barrier and even adjust the intensity of the heat it gave off.  Even better, his awareness was partially extended into this barrier.  Objects that were hotter or colder than the shielding impinged on his consciousness.  Finding that it was difficult to get a handle on the entire room, the rooster pulled the shield tight to his body, reducing the extraneous sensations to a minimum.
+
+Having finally finished with absorbing the information passed along by the Squiggles and testing out his newest Skill, Charlemagne returned his attention to his handler, who had been attempting to get his attention for some time.
+
+“Bawk.”
+
+“Well, now you pay attention to me!  You’ve just been standing there staring off into space for quite a while now.  And just look at this office!  It’s even more of a mess now than it was a few minutes ago.  Everything is getting scorched!”
+
+The rooster took a quick look around at the various surfaces and furniture inside the office.  Sure enough, his flames had left black marks everywhere.  But that wasn’t Charlemagne’s problem.  The being behind the desk should have invested in more durable surroundings if it was concerned about damage.
+
+“Bawk,” he objected.
+
+“Well, that’s all well and good, but I’m going to have to have someone come in and clean all this up, which is bound to take forever.  You have no idea how hard it is to find good help in this particular dimension.  And then there will be questions, paperwork, uggg, what a hassle.  Any chance I could get you to fill out the damage forms for me?”
+
+“Bawk?”
+
+“No, that would be an exercise in futility, wouldn’t it.  And, of course, we’re now out of time.  I need to send you onward to the Elite System Games within the next four minutes or we’ll miss our window.  I need you to remember two things.  One, you need to explain things to the Party Members that you’re leaving behind before you just disappear…I would hate to have to explain this myself, and, frankly, I shouldn’t have to.  This is your decision and your Party, not mine.  But, before you say goodbye, you have to promise to REMEMBER to spend your Shop Points.  You still have a lot left and there will be plenty of time to spend them once you get settled in at the Elite Games.  Can you promise me that?”
+
+“Bawk, bawk,” the rooster pooh-poohed.
+
+“Fine.  I’ll take your word on that.  Hurry up and say goodbye to those you’re about to leave behind.  I would suppose that you’ve already made the rest of your arrangements, but I sincerely doubt you had any arrangements to make in the first place.”
+
+Charlemagne began the process of piecing together what he wanted to convey to the Party members that he was leaving behind.  It was still fairly difficult for him to convey anything complex over the Party Chat, but that was not a concern for him.  The issue was that he could tell he was forgetting something, but he wasn’t exactly sure what that something was.
+
+“Two minutes and then you’re gone,” his handler warned.
+
+“Bawk,” the rooster complained, his train of thought completely derailed.
+
+Another minute passed as Charlemagne tried to remember what it was he wanted to say to his Party, particularly Ndiogou.
+
+“One minute left!”  A red circle suddenly appeared on the creature’s desk and began pulsing.
+
+The rooster was startled out of deep concentration, thankfully shaking loose the very thing that he was trying to remember from his subconscious.  The message he needed to convey was too important for him to be annoyed at the other creature’s rude interruptions.  Finally, with about fifteen seconds left, he sent the message.
+
+“All right, I hope you’re ready, because we’re out of time,” the strange-looking creature announced before pressing the now rapidly flashing red circle with an appendage.
+
+The entire world fell out from under Charlemagne.
+
+Ndiogou, Sirius, and Phatagin had, by mutual agreement, taken a long break once they all realized that Charlemagne was otherwise occupied, careful to avoid using the Party Chat lest he discover their slacking.  With only a few hours to go until the start of the second event, they had returned to their dormitory to rest and discuss strategy.
+
+It was Sirius who took the lead on this, her natural pack instinct urging her to collaborate closely with the others.  Ndiogou, who was used to both group and solo adventuring, chimed in often.  Phatagin, who had just died several times in a row during the Individual Battle Simulation before he could forfeit, was grumpy and did not contribute much.  When he did, it was to express his opinion on random details that did not really matter.  After talking for a while and then spending some time decompressing, which meant showers for Ndiogou and Sirius and a quick nap for Phatagin, the party members started growing anxious: Charlemagne still hadn’t returned and the next event would start soon.  Sirius tried to calm down the other two.
+
+“Well, we’ve already explored what we’re going to do if Charlemagne gets disqualified again, right?  Our teamwork during the last event wasn’t bad, but we need to keep working on the fundamentals.  Especially not getting in each other’s lines of sight and attack.  That’s not something that we can talk through…trust me, I know from experience.  The only way for a pack to get good at hunting together is to hunt together.  The only way that we’re going to get a lot better at fighting together is to fight together.  We made some good gains in the Simulation, true, but a few hours of practice aren’t going to make us a well-oiled joint.  Time and experience is what we need.
+
+“And what of Charlemagne,” Ndiogou asked, even though they had already discussed this.
+
+“What about him?  He’s basically like a force of nature at this point.  If he’s around, then we let him do his thing.  If not, then we stick together and determine our best play.  Maybe that’s to defend until he can handle the threat, maybe it’s going to be to take up the offensive.  But we need to use our brains and communicate.  Remember, “no plan survives being trampled by a buffalo.”
+
+“Hey, humans have a similar saying, I think,” Ndiogou said with a chuckle.  “But I think I like yours better.”
+
+“Your mother has a similar saying,” grumbled the pangolin from his tree hole.
+
+“What have I told you about insulting mothers?” Sirius growled.
+
+The argument was on the verge of escalating when a familiar voice broke out over the Party Chat.
+
+“Bawk, bawwk, bawak, bawk!”
+
+Stunned silence followed for a moment.  Then the three all yelled at each other and Charlemagne at once.
+
+“What do you mean you’re taking me with you?!”
+
+“What do you mean by ‘protect my farm’?!  It’s in America!”
+
+“Why are you taking him and not me!  Take me instead!”
+
+“WHAT IS HAPPENING!” the trio concluded as one.
+
+There was a long pause before the rooster repeated himself.
+
+“Bawk, bawwk, bawak, bawk!”
+
+Then Phatagin disappeared, leaving a very confused canine and human together in the dormitory.
+
+“Well, that was not how I expected my day to go,” Ndiogou said with a sigh.  “How am I going to get across the Atlantic to protect that maniac’s farm?  Maybe if I pray to Brett, he’ll hear me?”
+
+Sirius looked around, still confused by the pangolin’s sudden disappearance.
+
+“When Charlemagne said he was going to these ‘Elite Systemic Games’ and taking Phatagin, I didn’t think he meant like right then.  I figured it would be after we were done here, didn’t you?”
+
+“I don’t know what to think,” the human responded, still fixated on the seemingly impossible task he’d just been handed.  “All I know is that if Charlemagne comes back and his farm is gone, he might just destroy the Earth.”
+
+Sirius chuckled.
+
+“No, I’m serious,” Ndiogou retorted.
+
+“No, I’m Sirius,” the canine laughed.
+
+“We’re going to get slaughtered in the second event, too,” Ndiogou added.
+
+That wiped the grin clean off Sirius’ muzzle.
+
+“Hey, yeah, that’s not fair.  How are we supposed to compete?”
+
+As if on cue, the System chose that moment to deliver a message to the two remaining Party Members.

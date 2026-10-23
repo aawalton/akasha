@@ -1,0 +1,79 @@
+The neutronium doors to the President’s chambers slammed open as Fellissa stormed out.  Brett watched the feline depart, appearing both composed and regal despite his rather shabby attire.  The façade quickly crumbled once the doors swung back into position and the magnetic locks engaged, leaving the President of God alone for the first time in quite a while.  Opening a hidden recess in the ruined wall, Brett removed a flask and a highball glass made of solid gold.  He poured himself a stiff drink and then slid down the wall into a seated position.
+
+Looking around the completely trashed office, the President sighed and held the highball glass up to his forehead for a few seconds before downing the entire drink in one gulp.  He let out another long sigh, then poured himself another round.
+
+“What am I going to do with her,” Brett asked himself as he sipped at his drink.  It wasn’t the property damage that was the issue here: the President had the resources to replace anything Fellissa destroyed without even noticing the loss, and the damage this time around looked a lot worse than it actually was.  No, the problem was that one day Fellissa would make an attempt to trash the President’s chambers in front of someone else and he would be forced to restrain her.  That outcome would be…suboptimal, for a number of reasons.
+
+The human deity wished that, just once, Fellissa would choose to be reasonable.  Even Grimfalk, that barely sentient dolt, was better at controlling his temper.  Although to be fair, that probably had more to do with his power ranking than self-control.
+
+Thinking about the power rankings brought the President’s thoughts around to the System, and why GOD had decided to implement it.  The thirst for power was such an ugly thing, he mused.  It made otherwise rational deities do things that were against their nature.  He had originally been against the implementation of the System for several reasons.  The first, and most important, was that humanity was crushing it in the Great Game of Life.  Brett reckoned that he would come out on top even if the entirety of GOD attacked him at the same time.  Sure, he would struggle a bit, but his powers were vast and his reserves deep.  And, at the end of the day, he could always just retreat to his demiplane to recover if he started getting overwhelmed.
+
+Brett shook his head to clear it and returned to thinking about the System.  Yes, he had been against it at first, but the weaker members of GOD had been seized by the idea.  It was actually a bit odd in retrospect how quickly the proposal had been socialized: usually, major changes took a few centuries of debate before they gained popular support.  Regardless of how support for the System had spread so rapidly, once it became clear that the majority of deities were in favor of implementing the System in some form or fashion, Brett got on board with the idea.  This was not because he believed it would benefit humanity; it was so that he could better influence the details.  And, after he put his thumb on the scale, humanity had gotten a pretty sweet deal: a huge starting Achievement, faster skill progression, and an entire tradeskill subsystem ripe for abuse by those with opposable thumbs.
+
+Even so, it was a bit galling that humanity had to start over as somewhat equal to all the lesser species.  Humans didn’t have natural weapons or armor, so they had been dependent on their wits and tools to reign supreme over the Earth.  To say that this had given the species a slow start was an understatement: humanity had struggled to carve out a niche for most of their existence and had almost been wiped out several times in the past.  But once the species had passed a certain threshold of intelligence and accumulated knowledge, the tables had turned.  Rapidly.  Within a few short millennia, humans had conquered the natural world, dragging their favorite species along with them.  Cats and dogs were the biggest winners, of course, but others also profited: cows, sheep, pigs, chickens, goats, and many others.  Even the lowly chinchilla had benefited from humanity’s largesse.
+
+But not anymore.
+
+Now there was little need for pets, especially ones that might develop the ability to kill their owners and were heavily incentivized to do so.  Even worse was the possibility that a high-level yet still microscopic organism might invade and puppet the seemingly harmless animal before attempting to tackle its owner.  While Brett had spent many long hours in negotiations with the deities that represented the most dangerous strains of bacteria and viruses, the principles of fairness imposed by the System meant that every immunocompromised person had died a horrible death soon after the System’s integration.  It would be years, if not longer, until magic-based vaccines were available, despite the best efforts of humanity’s top minds.
+
+Brett’s thoughts wandered from ideas involving mana to the rooster who wielded it so naturally before moving on to think of the Champion’s Patron, Grimfalk.  He took a long drink and thought back to his last encounter with the theropod.  The old lizard had been pretty tight-lipped, or whatever the expression was for a being that lacked lips, but what he didn’t share was equally important.  It hadn’t escaped the human deity’s notice that Grimfalk hadn’t shared the fact that Charlemagne’s destruction of the asteroid had earned his Patron an Achievement.  Brett knew this because he too had said nothing when he saw the System’s message, choosing to wait until he and Canius were alone to discuss the ramifications.
+
+This led Brett’s mental journey back around full circle to Fellissa.  The feline had not reacted well to the news that Brett and Canius had grown stronger without her.  She was further incensed by the order to leave Charlemagne alone until the truce expired and to cease all predation of hens in the rooster’s vicinity.  But what really sent her into a rage was the news that Canius would be monitoring her and her subjects to ensure compliance with the truce.  Not only had she trashed the President’s chambers (again), she had also threatened to reveal to GOD under oath that Brett had used a forbidden template to enhance a Champion.  Even though the human deity knew that Fellissa was just blowing off steam, the threat was still annoying.
+
+He sighed again, wondering for the millionth time why humans held such a strong affinity for felines.
+
+As he poured himself a third drink, the door chimed.  President Brett pulled himself off the floor, stashed the booze, and prepared to welcome his guest.
+
+“Ah, Rogier, please come in.  Pardon the mess, the celebration got a bit out of hand.”
+
+“You had a party in here?  And it’s already over?”  the deity of European badgers asked, clearly perplexed.
+
+“Ah, well, lots of things to do, you know?  I had to kick everyone out to get some work done.  It was just a small spur-of-the-moment thing, you know.  I would have invited you, but I knew that you were still working on that update.”
+
+“Indeed,” Rogier answered as he stepped into the President’s chambers, his eyes darting all over as he assessed the damage.  “The emergency patch required significant effort but served as a valuable dry run for future incidents.  Anyway, we were ready to push the test branch to production, so I had to deprecate our last-minute changes and roll back the test server to the previous iteration.  None of the asteroid code ever touched production.”
+
+“I have no idea what that means,” the human deity smiled.  “But it sounds like you’ve got it under control.”
+
+“Yes, yes.  But that’s not the important part,” the badger deity almost whispered as he stepped forward.  “While I was in the code, trying to figure out how to get rid of the asteroid with the fewest changes, I noticed something strange.”
+
+“What did you notice?” President Brett asked, his own voice lowering to match Rogier’s volume.
+
+“The asteroid wasn’t going to slam into the Earth if it wasn’t destroyed.  It had…some other purpose.”
+
+Brett’s eyes widened.
+
+“What was it going to do then?” he demanded.
+
+“I don’t know.  The code there is so complex it might take me years to untangle everything.  It was auto generated by the System itself.”
+
+“Keep at it,” Brett commanded.  “But do it quietly.”
+
+Charlemagne descended toward the destination marked by his Quest, an enormous facility that was located in what used to be Sussex County, Delaware.  The rooster neither knew nor cared what the area was called…all he could think about was settling down.
+
+The aftermath of the asteroid’s destruction had been a whirlwind of activity once everyone was back to fighting shape.  Ndiogou had tried to set off on his own before being told in no uncertain terms by Sirius that he was not going alone.  The ensuing debate was ended by Charlemagne, who simply glared at the human until he relented.  After determining that they would travel as a group or not at all, the Party rested for a full day before Phatagin was ready to set out.
+
+The rooster had once again consented to carrying the rest of the Party, but this time the other three rode in style: Charlemagne created a basket made from mana for them to hang out in.  It was wide enough for Ndiogou to stretch out and take a nap, which he promptly did.  A few birds attempted to intercept the quartet but none of them were able to catch the oversized rooster, who simply engaged his Afterburner Skill whenever something got too close.
+
+Flying at such breakneck speeds was exhilarating.  Sirius stuck her head out of the basket and let her tongue flap free in the wind as they flew at speeds just below Mach 1.  It only took a bit over an hour to reach what used to be the capital of Niger, which straddled the aptly named Niger River.  Ndiogou directed Charlemagne to land well outside the city and asked the Party to wait while he investigated.  He was gone for a few hours.  Sirius and Phatagin just napped the day away, but Charlemagne was restless.  He could sense there were a few hens in the area.
+
+Ndiogou returned just as the rooster was about to wander off with a strange expression on his face.  He had an oddly shaped bundle with him, which turned out to be a younger male human that had been knocked unconscious.  The three non-human Champions watched as the Blind Hunter first revived and then interrogated his captive.  Once Ndiogou was satisfied that the other human had told him everything, Charlemagne had a nice snack.  Then the four Champions made a plan.
+
+“We need to go in at night to keep as many innocents out of it as possible,” the Blind Hunter had argued.
+
+“Bawk?” Charlemagne asked, confused.
+
+“It means those who haven’t done anything wrong,” Sirius, the Red Fang, answered helpfully.
+
+The rooster counter-proposed that they should attack at dawn.  It was, he argued, far more appropriate than staying up late.  The vote was one versus three.  Charlemagne won.
+
+The thoughts of the ensuing raid filled Charlemagne’s heart as he finally spotted his destination, a cluster of long white and grey buildings that stuck out from the surrounding dark-green clumps of trees and soft-green fields like a sore thumb.  He circled once before going in for a landing to make sure that there weren’t any major threats.  Then, he landed.
+
+There was a human standing out in front of one of the buildings, his right hand raised to ward off the warm afternoon sun.  The Squiggles had forewarned Charlemagne that this would be the case, and asked the rooster not to kill him on sight.  After his experiences with Ndiogou, the rooster was willing to give some humans the chance to prove their usefulness.  And this one had the potential to be very useful, very useful indeed.
+
+“I’m Mahlon Miller, the Hen Whisperer,” the human said, extending his hand for a moment before realizing his faux pas.
+
+Charlemagne, remembering the lesson in something called “etiquette” that Ndiogou had taught him, tugged on a few threads of mana, causing his top hat to levitate for a moment before falling back gently onto his head.
+
+“Bawk,” he said.
+
+“Well, I appreciate that,” the human said.  “Come, let me introduce you to your flock.”
