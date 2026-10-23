@@ -1,0 +1,207 @@
+Warden.
+
+The pseudonym carried far too much weight for how often it was used. Wallace was the first to explain it — voice even, methodical as always — that Warden wasn’t a person but a title passed down among smugglers, hoarders, and information brokers. A mask, not a face. Someone wore it whenever they wanted to vanish behind a convenient name, and right now that mask was standing between us and the truth buried inside the ledger.
+
+The black book lay on the table between us, faintly gleaming under the low lamp. Paper shouldn’t gleam, but it did — a thin shimmer, almost oily, like Glimmer’s residue had soaked through its fibers. I hated touching it. Every time my fingers brushed the surface, the chill crept up my arm, the same way it had the night we seized it.
+
+“Let’s summarize,” I muttered, half to myself. “We’ve got the product. We’ve got Dullgave’s buyers. And we’ve got a ciphered ledger that might as well be written in the tongue of angels. Until we crack this, we’re blind.”
+
+No one argued.
+
+The room was filled with motion but very little progress. Ten idly kicked one of her iron balls from foot to foot, the rhythm of metal on stone sharp enough to make my teeth ache. “What do you think the triangles mean?” she asked, eyes scanning the coded page. “Paid, unpaid, dead, friendly? Something boring like that?”
+
+“None of those,” V said from his perch on the corner of the desk. He was tossing a small steel ball into the air, catching it again without looking. “See the sequence? Triangles come between letter runs, not at the end. That’s not a mark, it’s structure — punctuation, or spacing. Maybe a line break.”
+
+Cordelia finally looked up from her notebook. “Or phonetic pauses,” she murmured. “If the code’s meant to be read aloud, the triangles could denote breath marks or inflection.”
+
+Wallace blinked. “A spoken cipher? That would require the writer to be present for decoding.”
+
+“Or their voice recorded,” Cordelia said. “That’s why we can’t brute-force it.”
+
+Ten sighed. “Or it’s all just nonsense to make us feel stupid.”
+
+Across the table, Fractal had both knees pulled up to her chest, her gloss hovering beside her like an obedient pet. Gin lounged above her head, flipping through holographic channels of what looked suspiciously like a puzzle game. The pair hummed the same melody under their breath — badly.
+
+I pinched the bridge of my nose. “Fractal. Working hard, are we?”
+
+“I am!” she said brightly. “Cross-referencing aliases through the Ballet registry!”
+
+“And the music?”
+
+She blinked innocently. “Keeps me focused.”
+
+Gin’s grin widened. “We’re multitasking, boss.”
+
+“Right.” I exhaled, turning back to the table.
+
+At least Fally was being productive. She sat beside me, legs crossed neatly, her own gloss open to a dozen cascading data sheets. Every few seconds she swiped through them, marking, linking, filtering. Her composure was infuriating — calm, meticulous, and effortlessly beautiful even in exhaustion.
+
+“How many hits so far?” I asked her quietly.
+
+“Eighty-three,” she replied. “But they aren’t clean. Someone’s been deliberately inflating the alias count. Half of these ‘Wardens’ don’t exist.” She tapped one of the screens, revealing a scatter of mismatched registry signatures. “See? Same creation date, different users. Fake.”
+
+“Flooding the record,” I said. “Someone’s hiding the real one in a crowd.”
+
+“Exactly.” Her brow furrowed. “But they made one mistake. The falsified entries all share a structural anomaly in their data — identical encryption tags. It’s subtle, but consistent.”
+
+“Meaning?” Wallace leaned forward.
+
+“Meaning someone’s copying the same encryption pattern each time they fabricate a new identity. It’s like… handwriting.”
+
+I smiled faintly. “Their fingerprint.”
+
+Fally nodded. “And it points back to a single origin. Whoever’s been masking themselves as Warden didn’t bother to alter their core signature.”
+
+Sven rubbed his chin. “That level of encryption’s no joke. Whoever this is, they’re operating above ground. Network-linked, sanctioned, or both.”
+
+“So we find that origin,” I said, “and we find the real Warden.”
+
+Cordelia frowned. “Easier said than done. You’d need permission to access the registry cluster, and you know how the courts react when you touch their archives.”
+
+“Then we don’t ask permission.”
+
+That earned me a few looks.
+
+“Alexander,” Wallace said carefully, “breaching the Network is treason.”
+
+“So is selling Glimmer under false sanction,” I countered. “If Warden’s laundering their shipments through sanctioned channels, we’re already dancing the noose. I’d rather be the one holding the rope.”
+
+V let out a low whistle. “And they call me reckless.”
+
+Fally smiled faintly at that. “He’s not reckless,” she said. “He’s thorough.”
+
+“Thoroughly reckless,” V muttered.
+
+Her hand brushed mine under the table — subtle, grounding. It was enough to keep my temper from spilling further.
+
+Hours crawled by. The light dimmed, replaced by the bluish hue of our screens. Cordelia muttered numbers and syllables like incantations. Wallace had taken to scribbling formulae in ink. Ten snored on the couch, one arm dangling off the edge.
+
+Fally stayed awake beside me, quiet but relentless. Her fingers flew over the display, cross-linking registry code after code, discarding duplicates until finally, she froze.
+
+“Wait.”
+
+Everyone’s heads lifted.
+
+“What?” I asked.
+
+She didn’t answer immediately, only zoomed in on the pattern. The screen lit up with a string of glyphs that pulsed faintly in deep azure light. “There,” she said softly. “The anomaly repeats in the same format — five years apart, across multiple registries. Not a new alias. A designation.”
+
+I leaned closer. “What’s it say?”
+
+“‘Warden of Blue Silk.’”
+
+Wallace sat up straight. “Blue Silk? That’s not just a name. It’s a route.”
+
+I nodded slowly. “The Blue Silk Route. One of the original smuggling lines before the Ballet became formalized. It ran straight through the old trade tunnels under Emberlight.”
+
+“Meaning our Warden isn’t some petty broker,” Fally murmured. “He’s the supply chain’s architect.”
+
+The silence that followed was heavy, charged.
+
+“So all of this—” Sven gestured to the book, the code, the aliases “—leads to him.”
+
+“Or to whoever inherited his title,” I said. “But yes. We’ve found our thread.”
+
+Fally smiled tiredly, a small triumph flickering in her eyes. “Knew we’d get there.”
+
+“Don’t sound so smug,” I muttered, though I couldn’t help but return the smile. “We still have to pull it.”
+
+***
+
+Later, when the others had drifted away—to rest, to fidget, to drown their worries in idle busywork—the room finally settled into a softer quiet. The hum of the monitors was steady and low, like the pulse of something alive beneath our feet. The ledger still glowed faintly on the desk, its light a cool shimmer that caught in Fallias’s hair, painting the strands in shades of silver and ghostlight.
+
+She leaned back and stretched, a motion so natural it made the worn leather of her coat creak faintly. “You know,” she said, voice carrying the kind of wry amusement that was more dangerous than anger, “for someone who pretends not to care about politics, you’re knee-deep in treason.”
+
+I huffed out a sound that was almost a laugh. “Occupational hazard.”
+
+She arched a brow, tilting her head toward me. “You could delegate more.”
+
+“To who?” I asked, though we both knew it was less a question and more a defense.
+
+Her lips curved, not quite into a smile. “You trust us enough to bleed with us, but not enough to let us carry the load.”
+
+I didn’t answer. The silence between us stretched, filling with the faint buzz of the screens and the whisper of rain beginning to trace its way down the windowpanes. She sighed softly and shifted closer, the brush of her shoulder against mine a small, grounding thing.
+
+“You’ll burn yourself out before Warden even notices you exist,” she murmured.
+
+“Better me than one of you.”
+
+She made a small sound in her throat—half disbelief, half fondness. “That’s not how this works, Alex.”
+
+Her tone wasn’t scolding. It was soft, like a hand cupping a flame to keep it from going out. I didn’t meet her eyes right away. Instead, I looked toward the window. Beyond it, the city’s glow pulsed faintly at the horizon, as though the world itself was breathing in slow, tired rhythms.
+
+“Someone has to play the fool,” I said, quieter now. “May as well be me.”
+
+Fallias didn’t respond at first. When she finally did, her voice was gentler still. “Then I’ll play the fool beside you.”
+
+I turned to look at her—and for a moment, everything else fell away. The ledger, the encrypted pages, the schemes we’d built from scraps of rumor and desperation—all of it dissolved into the hush between us.
+
+Her face was half-lit by the monitor’s glow, half-shadowed by her hair. The faint freckles at the bridge of her nose caught the light like constellations. Her eyes, bright with something unspoken, lingered on me with a steadiness that felt heavier than words.
+
+“You don’t have to,” I said.
+
+“I know,” she replied. “But I want to.”
+
+Her voice carried that quiet conviction that always undid me—not a plea, not even a promise, just truth, plain and certain.
+
+I hadn’t realized how close we were until then. The space between us had vanished without warning. I could see the reflection of the city’s lights dancing across her eyes, could feel the warmth of her breath against my cheek. She smelled faintly of rain and smoke and the faint metallic tang of the Glimmer she handled earlier.
+
+“I thought you didn’t believe in doing foolish things,” I murmured.
+
+“I don’t,” she said, and the corner of her mouth tilted upward. “Except for you.”
+
+That drew a laugh out of me—soft, breathless, almost disbelieving. I wasn’t used to being someone’s exception. The sound seemed to amuse her, because her hand came up, brushing against my arm in a gesture that felt both casual and deliberate. Her fingers traced idle lines along my sleeve, pausing over the ink stain near my wrist.
+
+“You never let yourself stop,” she said quietly. “You keep moving, even when no one’s chasing you.”
+
+“Maybe I’m just not used to standing still.”
+
+“Maybe you’re afraid of what you’ll feel if you do.”
+
+That one hit deeper than I expected. The silence that followed wasn’t awkward—it was charged, heavy with something neither of us dared name.
+
+Her hand lingered on my arm, and when I didn’t move away, she tilted her head, studying me. “You always look like you’re holding the world together with paper and string,” she whispered. “Do you ever get tired of pretending you can?”
+
+“Every day.”
+
+“Then stop pretending. Just… for a little while.”
+
+It wasn’t a command. It was an invitation. And it unraveled me more effectively than any spell could.
+
+The hum of the monitors faded to a distant thrum. The glow of the ledger bathed the room in pale gold. I felt her fingers trace the edge of my jaw, light enough that I might have imagined it if not for the warmth it left behind. My breath caught. She noticed, of course. Fallias always noticed.
+
+Her smile softened. “You don’t have to think right now.”
+
+“That’s all I know how to do.”
+
+“Then I’ll help you forget.”
+
+The words weren’t followed by a kiss, not quite. She leaned in just enough that the distance between us became a whisper of air, her forehead resting against mine. The simple contact sent a rush through me that no victory ever had.
+
+We stayed like that, breathing the same air, the world outside reduced to a slow heartbeat. I could feel her pulse against my skin, steady and real, grounding me in the moment. It wasn’t about desire, not entirely—it was about the quiet recognition that we’d both been running from something, and for once, we’d found the same place to stop.
+
+Her voice broke the silence, low and steady. “You don’t always have to save everyone, Alex.”
+
+I managed a faint smile. “Then what would I do with myself?”
+
+“Maybe learn how to be saved, once in a while.”
+
+The words lingered between us. I didn’t know if I could promise that, but I wanted to try—if only because she’d said it like it mattered.
+
+Outside, thunder rolled softly over the horizon. The rain had grown heavier, sliding down the glass in long, trembling lines. The city lights refracted through them, scattering gold and violet across the floor.
+
+Fallias shifted closer, her hand still resting lightly on my arm. Her voice was barely a whisper. “You always chase the impossible. Maybe that’s why I…”
+
+She stopped herself, and the pause said more than the words she didn’t finish.
+
+I turned, just enough that our eyes met again. For a heartbeat, the room was all breath and heartbeat and unspoken truth.
+
+“Maybe that’s why you what?” I asked softly.
+
+She smiled—a real one this time, quiet and a little shy. “Maybe that’s why I stay.”
+
+I wanted to say something clever, something that would defuse the tight ache building in my chest. But all I could do was watch her, and think that for the first time in a long time, the idea of staying didn’t sound like surrender.
+
+The shimmer of Glimmer’s light reflected off her eyes, and I thought, if Warden was watching us now, I hoped he was afraid. Because whatever game he was playing, he couldn’t understand this—this fragile, defiant stillness between two people who had stopped pretending they were unbreakable.
+
+We had found something worth fighting for. And I wasn’t planning to let it go.

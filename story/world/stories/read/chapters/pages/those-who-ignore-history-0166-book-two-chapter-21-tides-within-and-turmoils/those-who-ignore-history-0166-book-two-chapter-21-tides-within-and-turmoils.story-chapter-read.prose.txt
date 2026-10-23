@@ -1,0 +1,119 @@
+“Nah. Fractal isn’t the one…right now anyway.” Sven exhaled, the sound thin with effort. “We…don’t know.”
+
+“What. Do. You. Mean.” I felt each syllable scrape out of me like flint. This was the part of the job I hated: the thin, wet line between “we have enough” and “we have nothing.” “Okay. So…what do we know?”
+
+“We have the ledger,” Wallace said. He pushed his palms together, fingers steepled in that way of his that always made him look older and wiser than anyone had a right to be. “It’s just—” His shoulders shrugged the rest of it away. “We don’t know who holds the encryption. We don’t have the key.”
+
+Silence sank in for a beat, heavy and reproachful. The maids had dimmed the lanterns; Cordelia kept her hands folded over a book she wasn’t reading. Basarioel snoozed in his travel bag, a small black lump of restless feathers. The tea in my cup had gone cool. I stared at the rim.
+
+“So,” I said, striving for neutral but failing, “we have a ledger. It is effectively ciphers and riddles without the key. It is useless on its own, about a waning gold coin of debt, and more experience in Ember’s Cup betting rings. Progress.”
+
+V shrugged with that maddening calm of his. “Sounds about right.”
+
+Sven’s pen tapped the pad like a metronome. “Not entirely useless. We have indices, timestamps, transaction hashes. The ledger’s format suggests a custom cipher—not off-the-shelf Bast-grade encryption. It has signatures that cross-validate with three transaction nodes. If we can compromise one node’s authenticity, we get a crumb. If we combine crumbs, we reconstruct a skeleton.”
+
+“Cryptography poetry,” Ten said, and the bite in her voice said she’d rather be breaking ribs than codes. She kept her training ball balanced on her toe, a private ritual.
+
+Cordelia leaned forward, gaze sharp. “Whoever encrypted it used operational security. They wanted deniability. That means the key-holder—Warden, Moniker, whichever alias—controls more than product. They control movement, distribution schedules, perhaps upstream patronage. If we rush, we trigger a purge and lose the trail. We have to be surgical.”
+
+“Then we need someone on the inside,” Fractal said, simple as a bell. Her wings shivered under her cloak. “Someone who can smuggle us a key piece without lights and screaming.”
+
+“Or we entice the key-holder out,” V added. “Set a trap where they think they’re meeting a buyer. Make the missing ledger piece the bait.”
+
+Wallace’s brow furrowed. “Both options put us at risk—but in different registers. Entice and you risk violent exposure. Infiltrate and you risk detection by the house security. The Blue Ballet is watched. We know this. Their staff run checks on faces and balances. A misstep could make the Queen’s involvement public.”
+
+My mouth tasted metal. Mother’s ledger had been delivered precisely because Mother wanted quiet. The queen’s intelligence did not play public theater. Any broad move would be measured, and measured twice. I did not want Mother to look at the mess we’d made and decide the easiest way to clean it was to burn the house and everyone in it.
+
+“Sven,” I said, trying to pull a plan into the light with the patience of a man trying to draw a map blindfolded. “What are the crumbs you can coax from the ledger that don’t need the whole key?”
+
+Sven’s shoulders tightened. “Account aliases, payment cadence, three recurring timestamps that line up with Ember’s Cup nights, and one token signature attached to a carrier line. If we can physically intercept a runner—someone who moves glimmer crates from Blue Ballet’s back storeroom to the west quay warehouse—we can lift a copy of the manifest in transit. That manifest might not be encrypted or it might be less rigorously applied. People are lazy with physical paper when the ledger is the real security.”
+
+“Runners are risky,” Ten muttered. “Faster to smash and grab. But a smash and grab in the Blue Ballet backrooms is a different kind of scream.”
+
+Fractal’s face lit with a tiny, wicked grin. “I can be small. I can be unnoticed. I can be perched on rafters. I can follow a box and peck for a tag.”
+
+“Small can be helpful.” I thought of Basarioel nestled warm in my bag. “But we need redundancy. We need signal coverage. V, can you give us blind spots on the network long enough for a runner lift? Two minutes? Three?”
+
+V toyed with a salt flake and spun it between two fingers. “Two minutes. Maybe three if Wallace provides a physical disruption—something that forces their guards to reroute. But there’s a cost. I can’t make the world stop looking and keep my hands clean.”
+
+Wallace’s mouth tightened. “If I divert the guards, I’ll be visible. You all know what kind of eyes the Blue Ballet hires. They train their security to not be impressed. If they find me, the story will escalate.”
+
+Cordelia’s voice was the piece that cut the tension into workable pieces. “We need misdirection without sacrifice. We create noise in one district, a small fight staged to siphon personnel from the storeroom, while a runner—planted by Fractal—carries a manifest tag that is a decoy. That decoy will have a traceable signature. Sven uses it to triangulate the node, and V shadows the transfer. If the decoy is grabbed, we do a secondary extraction at the quay on an expected schedule. If Warden tries to change routes, then we know they are monitoring. It’s controlled.”
+
+“Controlled sounds lovely,” Ten said. “Who does the staging?”
+
+“I do,” Fractal said, all bright feathers and quieter teeth. “I can slip the bouncer a quarrel and make the rest look like a lover’s spat. They never expect the thing in the rafters to be the problem.”
+
+Sven sketched a flow on his pad, quick lines connecting names to times. “We’ll need funds to bribe low-level staff for the night. We can siphon from my account and yours—” he gestured to me— “but it’s small sums. Jasmine could front a contingency in a way that doesn’t show as mine.”
+
+“Call Jasmine,” I said. Saying it felt like calling in an old favor from a pirate who owed me more than I could list. The idea of Jasmine and her picaresque routes made something in my chest both hopeful and terrified.
+
+“We also need a fallback if the ledger is a decoy,” Cordelia warned. “Dullgave’s operation is brazen; brazen means it has backers. If the backers are nobles, we open a political hornet’s nest. This is why we’re surgical. We take the runner, follow the manifest, and bring evidence to Mother. Let Mother move the pieces that require more than we can. She orchestrates politically. We do the dirty work.”
+
+Wallace nodded once. “We move at dusk in two days. That gives Sven time to try passive decryption heuristics, gives Fractal a day to scope staff movements, and gives V time to practice the network holes.”
+
+Ten cracked her knuckles. “And when do I get to beat somebody up?”
+
+“After we secure the manifest and confirm a line,” I said. “If there’s a fight, you’ll be paid in fury.”
+
+A plan is a brittle thing, marred by the unexpected. But plans are also anchors. I felt steadier as we layered contingencies, as we divided tasks into strengths, as we appointed responsibility.
+
+Fractal hopped to her feet, tapping her talon like a cymbal. “I like the rafters.”
+
+Cordelia gave me a small, almost invisible nod. “Keep Mother informed. Once we have the manifest, do not act. Hand it to her. She is the lever that can open the right doors without burning everything down.”
+
+Sven folded his pad and stood, the motion decisive. “I’ll start on the heuristics. I’ll look for implementation patterns. If we can guess the nonce used in the cipher, we can brute a segment. Ten, help Fractal set the stage. Wallace, ready barriers. V, prepare your gap. Alex—”
+
+He looked at me like a man passing a torch. “You find Jasmine. Secure the contingency bank. We’ll mobilize when our nodes are validated.”
+
+I felt more than the weight of the spear on my chest. I felt the eyes of everyone in the room: Ten’s impatient spark, Cordelia’s calculating calm, Fractal’s mischievous loyalty, Sven’s nervous diligence, Wallace’s steady steadiness, V’s dangerous delight. Basarioel ruffled in his bag as if to say, I am with you.
+
+“Fine.” I said, one word and handful of iron. “I’ll contact Jasmine. I’ll keep Mother on loop. We do this clean. We do this controlled. We find Warden.”
+
+V’s grin was crooked. “We find Warden and see what he truly guards.”
+
+I drank the cooled tea, not because it tasted good but because action made thirst a smaller thing. Outside, Everis Hills kept its quiet; inside, a ragged, stubborn band prepared to cut a line through a web.
+
+***
+
+A shimmer of light rippled across the scrying mirror — a pool of black glass suspended in a frame of bone and gold. The reflection didn’t show the room it sat in; it showed Alexander and his team, gathered around a rickety table in some dim-lit parlor of Liria’s inner ring. They looked tired. Frustrated. Almost pitiful.
+
+Around the mirror stood six figures — cloaked, but not anonymous. Each was marked by a subtle insignia of rank or trade; an enameled brooch, a jeweled ring, a polished pauldron. The air was heavy with incense and quiet judgment.
+
+“Pathetic,” murmured the figure at the head of the table. His voice was smooth as oil and just as poisonous. “The boy plays at espionage, but he’s still counting copper like a beggar. Tell me — does he truly not suspect he’s being watched?”
+
+“He’s cautious,” said another, a woman with thin silver wire coiled around her fingers. “But not paranoid enough. The gloss records are cleverly masked, I’ll grant that, yet even with his encryption, it’s still child’s play to trace.”
+
+The first speaker chuckled, tapping a gloved finger on the edge of the mirror. “He treats this like a game of dice. Ember’s Cup? Truly? Dullgave was never meant to be bait for an actual investigation, yet here our little Walker burns his own coin trying to play hero.”
+
+A third figure — older, stooped, his voice gravelly — leaned closer to the glass. “At least he’s predictable. He thinks like a soldier, not an operative. He’ll confront Dullgave directly before he’s ready. We’ll know where to strike by then.”
+
+Another voice, sharp and reedy, cut in. “Assuming he lives that long. Dullgave may be stupidly brazen, but he’s protected. The Blue Ballet’s security has ties that even our hands can’t easily unbind. The Baron’s arrogance might actually serve him for once.”
+
+The woman with the silver wire smiled thinly. “Unless we intervene.”
+
+The leader tilted his head slightly. “No. Not yet. Let the boy learn the taste of failure. It’ll temper him. Mother wants him sharpened, not coddled.”
+
+That name hung heavy in the room — Mother. Even here, among agents who could sway the fate of cities with a single whisper, the codename carried weight.
+
+“She’s overestimating him,” said the old man. “His reports are sloppy. His team’s coordination, worse. The psyker — Cordelia, yes? — she’s competent, but emotional. The gun mage relies too heavily on triplication. And the convict… Ten, was it? She’s unstable.”
+
+“She’s dangerous,” corrected the reedy voice. “And therefore useful. If he can command her loyalty, he might actually be worth the resources we’ve spent grooming him.”
+
+“Grooming?” sneered another. “You mean testing. He’s a trial run. The Duarte name opens doors, but that bloodline is no guarantee of quality. His Arte is interesting — Paper Control, wasn’t it? — but it’s fragile. Poetic, yes. Practical? No.”
+
+The leader waved a dismissive hand, the gesture elegant and final. “His Arte is evolving. And so is he. He survived Danatallion’s Halls, which is more than can be said of ninety percent of Walkers. If nothing else, he’s stubborn.”
+
+“Stubborn doesn’t make him smart.”
+
+“No,” the leader said softly, “but it keeps him alive long enough for us to make him useful.”
+
+The room fell quiet. Only the soft hum of the scrying mirror filled the silence. In its surface, Alexander rubbed at his temples, muttering something about losing three more games before realizing he couldn’t afford another wager. His team looked ready to collapse.
+
+“He’s learning the hard way,” murmured the silver-wire woman. “The others will see him as a fool — but failure makes for excellent camouflage.”
+
+A smirk crept beneath the leader’s hood. “Precisely. While Dullgave feeds on arrogance, the boy starves on humility. It’s a perfect contrast. When the Baron falls, no one will suspect that the incompetent Walker was the knife.”
+
+A faint cough from the old man. “If he even manages the kill.”
+
+“He will,” said the leader simply. “Because he must.”
