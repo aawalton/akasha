@@ -1,0 +1,383 @@
+Not much time had passed since she'd left her original position.
+
+KiAera sat like a loaf on a patch of sun-warmed stone, her back resting against a crooked tree whose leaves shimmered faintly under an unfamiliar sun. It should have been peaceful. Almost was. But the silence here never felt complete; the wind carried whispers through the branches, little teases that sounded suspiciously like laughter.
+
+In front of her rested GamaGen, its dark cover etched with silver sigils that writhed if she looked too long. The book was heavy in her paws, colder than the day deserved. Its raven symbol was dull, like it was sleeping. Or sulking. Hard to tell with magical, quasi-sentient tomes.
+
+She flipped through its brittle pages anyway, letting them slip against her fingertips. Sometimes words swam up from the yellowed parchment before she properly focused—ghostly lines, tales of monstrous lineages, footnotes scrawled in crabbed script. Then came the diagrams. Detailed, dizzying arrays of claws, wings, strange limbs that pulsed with painted luminescence. An entire bestiary of nightmares. The heading above one table caught her eye:
+
+Zeldritch Attribute Chart
+
+#
+
+Attribute
+
+Summarized Description & Examples
+
+1
+
+Plant
+
+Flora magic & gardening. Dryads, treants, vine monsters.
+
+2
+
+Aqua
+
+Water beasts & waves. Merfolk, kelpies, krakens.
+
+3
+
+Fire
+
+Flames & heat. Phoenixes, salamanders, lava giants.
+
+4
+
+Voltage
+
+Lightning & speed. Thunderbirds, storm spirits.
+
+5
+
+Wind
+
+Air & flight. Sylphs, air elementals, birbs.
+
+6
+
+Ore
+
+Stone & crystals. Golems, gem-beings, dwarves.
+
+7
+
+Metal
+
+Machines & steel. Iron golems, robots, constructs.
+
+8
+
+Terra
+
+Earth & terrain. Earth elementals, terraformers.
+
+9
+
+Relic
+
+Ancient artifacts. Guardians, gargoyles, cursed relics.
+
+10
+
+Deino
+
+Dino & dragon. Tyrannosaurs, drakes, wyverns.
+
+11
+
+Brawl
+
+Meat-and-potatoes fighting. Ogres, giants, fighters.
+
+12
+
+Sound
+
+Sonic power. Sirens, banshees, sound elementals.
+
+13
+
+Hazard
+
+Toxic & radiation. Poison beasts, radioactive mutts.
+
+14
+
+Psion
+
+Mind control & telekinesis. Telepaths, flayers.
+
+15
+
+Grim
+
+Dark magic & fear. Shades, necromancers, undead.
+
+16
+
+Evil
+
+Corruption & curses. Gremlins, demons, infernal overlords.
+
+17
+
+Spatial
+
+Warp & teleport. Voidwalkers, dimension hoppers.
+
+18
+
+Chaos
+
+Random & reality warp. Tricksters, maniacs, berserkers.
+
+19
+
+Phantom
+
+Ghost & spooks. Wraiths, specters.
+
+20
+
+Cryptic
+
+Myths & riddles. Sphinxes, fairies, Chupacabra, genies.
+
+21
+
+Glacial
+
+Ice & cold. Frost giants, winter spirits.
+
+22
+
+Beast
+
+Primal & animal. Werewolves, feral creatures.
+
+23
+
+Xensect
+
+Insects and bugs. Giant moths, giant beetles, neon dragonflies.
+
+24
+
+Celestial
+
+Divine & cosmic. Angels, astral knights, solar creatures.
+
+If only she could bottle all of this up, drag it back to her world and drop it into a symposium. Watch the biologists and mythographers throttle each other over whose field it belonged to. The thought almost made her smile.
+
+She thumbed through a few more pages. GamaGen had plenty of dense listings on creature biology, elemental convergence theories, even scribbled folk stories—like someone had tried to compile a monster bestiary and local fairy tales in the same breath. It was messy and deeply fascinating. The kind of thing she could've lost weeks to, had the circumstances been friendlier.
+
+Because, honestly, she freakin' loved patterns and data. As a student, she'd pored over comparative anatomy charts, learning why certain mammals shared hip structures or how fish gills mirrored primitive lungs. That neat alignment of cause and effect soothed her. She turned the next page and was halfway into a detailed account of Deino-class predators—first on massive reptiles—and then to a Dilophosaurus-like creature known as Ilosphat—when a low hum cut through the forest.
+
+But it wasn't just the breeze; this had weight and vibration. Her teeth even buzzed a little. Her reverie shattered completely when a shadow sliced overhead. Instinctively, she slammed GamaGen shut. In that instant, the sudden hush was complete as the chirping of birds or bugs, whatever passed for them here, fell eerily silent. Her skin crawled as if charged with static.
+
+Then she heard it again. A flutter that was too deep, too heavy. But then she spotted shadows moving in a distinctly intentional way, accompanied by a droning hum so low it rattled her fur.
+
+She slowly lifted her gaze.
+
+Above her loomed a creature that might've been a dragonfly in the same sense that a tiger was still a "cat." For sure, its eyes gleamed with faceted malice, and its wings buzzed in gorgeous, rippling sheets so large they warped the air around them. While she struggled to figure out how to proceed, the sigil between her brows lit up with an interface that she desperately wished would disappear.
+
+␥␥␥ ␥␥␥ // ␥␥␥ ␥␥␥
+
+Creature: Drartdeedol
+
+— Species: Drartdeedol
+
+{Dragonfly Monster}
+
+— Evolution Stage: [Fledgling]
+
+— Variance Grade: [Common]
+
+— APeX: [29] Units
+
+— Attributes: [Xensect], [Wind]
+
+— Disposition: [Predator], ["Usually" Docile]
+
+␥␥␥ ␥␥␥ // ␥␥␥ ␥␥␥
+
+"[Xensect] attribute", her mind provided, clinging to the terrible analysis as a lifeline. That would place it at #23 on the chart: a neon death-bug, six feet long, probably loaded with who-knew-what metabolic toxins. However, that may not have been the case if the stats indicated no [Hazard] attribute—at least not yet. Did it mean this creature was harmless? Or were the calculations skewed by her limited knowledge of these beings? She hoped that "usually" meant docile was the truth rather than a sick joke.
+
+Forcing herself to breathe, she tried to suppress the fear squeezing her gut. The darn thing still wanted to hover above her, its multifaceted eyes reflecting her tiny frame back at her.
+
+It spun lazily in the air, its wings fluttering with a rhythm that mimicked a hum she could almost feel battering her bones. Although, if she had to be honest, there was something unnervingly enchanting about the way it paced the air, gliding effortlessly as if caught in its own world, unbothered by her presence—or perhaps, drawn to it.
+
+The interface continued to flicker in her peripheral vision with every second she spent frozen in place. She almost wanted to reach for GamaGen again, but she wasn't sure if that would help. What assistance could that book possibly provide in a moment of such visceral uncertainty?
+
+"Okay, KiAera," she murmured to herself, hoping her voice would anchor her, "just... assess the situation."
+
+The hum deepened; it spiraled around her position like a soft tempest. The creature seemed to perceive her, slowly tilting its head (or whatever served as its equivalent) as if gauging her intentions. Her heart raced. "Maybe if I stay still and don't act threatening, it'll... it won't see me as prey."
+
+She shifted her weight slightly, just enough to feel the stone beneath her. The Drartdeedol's wings flickered in response. KiAera's gaze darted to the tree behind her, an uninviting option if she needed a quick escape.
+
+But maybe if it was indeed "usually docile," what if it was more curious than hungry? She recalled snippets of her studies about creatures that, when faced with an unknown entity, would sometimes approach rather than attack.
+
+"Alright, here goes," she whispered. Taking a deep breath, she raised her paw slowly, palm up, in what she hoped was a non-threatening gesture. "I'm not going to hurt you. I just... just want peace, okay?"
+
+Yet the Drartdeedol merely swiveled, its gaze half-lidding into a focused stare, one that sent rivulets of unease racing down her spine. Just as she thought it would dart forward, it suddenly buzzed higher.
+
+Then, in a flash, it darted away into the thick canopy above, leaving her in stunned silence, the air vibrating from its departure. KiAera instinctively swiped a hand across her brow, feeling a bead of sweat. She took a moment to gather her thoughts, leaning back against the crooked tree as she tried to calm her racing heart.
+
+What had just happened?
+
+Had the creature sensed something about her, or was it simply bored? The thought sent a prickling sensation throughout her body as she hugged GamaGen closer. Oddly enough, it was giving off a soft, greyish glow that dimmed after the Drartdeedol's flight. She almost thought she heard it whisper her name. Or maybe it was just her imagination.
+
+But that was impossible. The book couldn't talk. Or could it? She thought back to all the times she felt the book respond to her emotions. Could GamaGen perceive the energy around her?
+
+She glanced over her shoulder, half-expecting to see the Drartdeedol return, but nothing loomed above her. Only the sunlight filtering through leaves, creepily blue and dappled.
+
+Determined to regain her focus and not let the encounter spiral into her worries, she flipped open GamaGen again. The pages whispered under her touch as she sifted through the sections, searching for anything that might explain the Drartdeedol's behavior. Maybe it had been a fluke; maybe physical proximity to it had triggered something within her.
+
+"What do you have for me?" she said as her fingers ran quickly down the pages filled with sketches of the creature. They were somehow materializing before her, animated with a life of their own, and she could swear she saw the wings of the Drartdeedol flicker loosely on the page.
+
+Drartdeedol
+
+— Habitat: Forest regions with abundant flora.
+
+— Diet: Omnivorous; primarily feeds on nectar and small insects, but has been known to occasionally consume larger prey in a pinch.
+
+— Behavior: Generally solitary, exhibiting territorial tendencies during mating seasons. Known for playful aerial displays that can intimidate foes.
+
+The commentary felt oddly intimate, more like a friend sharing secrets than a cold, scientific analysis. Her heart began to calm as she resumed burying herself in the data, eager to learn as much as she could about the creature.
+
+As she read on, a paragraph stood out:
+
+Social Interaction and Curiosity: The Drartdeedol often engages in playful behavior with other species, observing them from a distance. They can sense emotional energy and will react based on the perceived intentions. They possess a remarkable ability to communicate through vibrations, which could explain their humming behavior when interacting with potential companions… or targets.
+
+"So it was sensing me," she mouthed. Perhaps her gentle approach had calmed whatever primal instinct told it to be wary.
+
+⎾Partially true, Miss KiAera... I had a gentle talk with our young friend,⏌ the book said. ⎾Unfortunately, the lad did get spooked when he felt my presence…⏌
+
+"Well, that's fortunate that you did..."
+
+She took a moment to process what she had just heard, then raised the book closer to her face. "Wait, did you just speak?"
+
+She expected GamaGen to respond with a clever quip to her disbelief. Instead, a sketch of a raven flickered onto the page she was viewing, appearing like an icon. The voice of the book hummed in her mind.
+
+⎾Indeed, I can. Though my words may not be as substantial as those of your kind, I am imbued with a consciousness that allows me to convey thoughts... and feelings.⏌
+
+"So you're actually more than just a book! You can understand me! Don't tell me you're some type of advanced AI or—"
+
+⎾Understanding is merely a formality, dear KiAera. It is emotion that shapes perception. I sensed your trepidation as the Drartdeedol approached, and it compelled me to interject. Your well-being is always my priority.⏌
+
+Then the bird on the page became animated and wagged its wing toward her in a scolding fashion. ⎾And no, I am nothing like those artificial constructs of your world. I am bound to the essence of the knowledge contained within me— a vessel of stories, truths, and mysteries. That is my purpose.⏌
+
+Her mouth gaped slightly as she grappled with the implications of this revelation. "You mean, you've been aware of me all along? The way I feel, what I think…" Her thoughts raced, spiraling into a whirlwind of questions. "Why didn't you ever say anything before?"
+
+⎾I had not deemed it necessary.⏌
+
+Just that simple remark, and a flicker of aggravation burned in her chest. But she kept her cool.
+
+"Then what about that creature? Was it really curious? Or was it sizing me up?" she pressed, feeling emboldened.
+
+⎾Curiosity often masks predatory intent, but in this case, I believe it was genuine wonder. It perceived your energy, your emotions—it sought to communicate rather than attack. Now, if only we could harness that connection into something more concrete...⏌
+
+Suddenly introspective, she hesitated to ask. "What do you mean by 'harness'? Are you suggesting I could actually... communicate with it? Or are you implying…?"
+
+⎾If you concentrate on attuning your energy, you may be able to resonate with the Drartdeedol or any creature that possesses an awareness akin to it. It will take practice, but it's possible.⏌
+
+It did sound like he was implying something beyond her scope. "So, are you going to stick to that cryptic act, or do you think you could give me a straightforward guide?"
+
+The bird on the page appeared amused, its beak curling into a smile.
+
+⎾Vagueness can often be a useful tool, dear KiAera. The universe thrives on layers of meaning, and clarity sometimes holds a weight that truth cannot bear. After all, it is the questions that lead to discovery.⏌
+
+"Right, but how am I supposed to discover anything if you keep dancing around the answers?" She rubbed her forehead. "I mean, this is a lot to take in. You're telling me I can connect with a dragonfly monster and sense its emotions? It feels...almost impossible."
+
+⎾ "And what a marvelous adventure that is.❞ ⏌
+
+It was almost as if the book was coaxing her to embrace the peculiarities of her situation, nudging her forward instead of pulling her back. If she didn't know any better, she might as well have tossed it.
+
+She huffed, crossing her arms in mock frustration. Though a smile tugged at her lips. "Great. So more riddles, then. Just what I needed."
+
+As she turned another page, seeking reprieve from GamaGen's raven. A strange comfort washed over her as she read an excerpt about Drartdeedols and their ability to detect energies, both magical and emotional. They weren't just predators; they were scavengers of sensory impressions, often drawn to new and exhilarating sources of energy.
+
+The descriptions acknowledged their striking beauty but cautioned against underestimating them. Quick, agile, and capable of a stunning range of tricks, they served as both predators and protectors of their territories. However, still no mention of any harmful capabilities.
+
+"Okay, that's interesting," KiAera murmured, her heart starting to settle. Maybe her initial fear had been unfounded. If the Drartdeedol was attracted to her for her energy rather than a predatory instinct, then there was hope for a peaceful cohabitation. But then, as she continued to read, another passage caught her eye, this one detailing the creature's unique social behaviors.
+
+They didn't just hunt in isolation; they thrived in colonies. And if the fledglings were in search of something stimulating, she was reminded that trouble could follow if the colony sensed anything amiss.
+
+Her brows furrowed. Was she prepared to deal with a potential swarm? Her fur bristled slightly as she glanced up at the sky and the treetops, expecting to see swarms of the iridescent creatures returning. Before panic could set in, she spotted a flash of movement overhead. Her breath caught as another one appeared, blitzing past the trees in zigzags.
+
+The dragonfly creature twisted in midair, its abdomen arching down as if ready to strike. But then it dipped suddenly, zipping past her—toward a shape darting between tree roots. A kobold. Or something close to it. KiAera recognized the coarse fur and big eyes from one of the bestiary pages. Kobolbo: fledgling, cryptic, half-feral. And her [Insight] had acquired its details in that moment to affirm its details.
+
+꒰ᐢ. .ᐢ꒱꒰ᐢ. .ᐢ꒱꒰ᐢ. .ᐢ꒱
+
+Creature: Kobolbo
+
+{Kobold monster}
+
+APeX: [30 Units]
+
+Attributes: [Brawl] [Cryptic]
+
+Variant Grade: [Common]
+
+Evolution Stage: [Fledgling]
+
+꒰ᐢ. .ᐢ꒱꒰ᐢ. .ᐢ꒱꒰ᐢ. .ᐢ꒱
+
+The kobold's back was turned, and it was clutching something wrapped in rough moss. But then its ears raised taut, and its head slowly turned. In that instant, the creature's eyes bulged with panic, its paws half outstretched as if to offer the bundle in sacrifice.
+
+For a moment, KiAera almost expected subtitles to pop up.
+
+[Do you wish to intervene? Y/N]
+
+Her own instincts didn't wait for conscious consent.
+
+The dragonfly lunged, mandibles opening with a wet snap. The Kobolbo shrieked, zigzagging wildly, its feet kicking up dirt.
+
+She, meanwhile, didn't think or even plan by pulling a Mirage. Her instincts flooded her mind, and she had already pounced. She twisted, the [Spectral Flame] at her tail tip unfurling in a dark flicker.
+
+With a sharp exhale, she directed it. The fire wasn't hot. It was cold, so cold it burned backward, leaving the air tingling like dry ice. It splashed across the dragonfly's abdomen in a burst of ghostly blue. The creature let out a chittering screech and lurched skyward, vanishing into the canopy in a frenzied clatter of wings.
+
+The Kobolbo collapsed in a heap, chest heaving. After a beat, it scrambled upright and scampered toward her. KiAera tensed, fingers itching near her claws. But the creature only dropped onto its knees, hands pressing together in some sloppy gesture of thanks. Its beady eyes sparkled, damp with relief.
+
+She wasn't sure how to respond, only to wave her paw. "Uh, hi. Are you okay?"
+
+The kobold blinked. Then it practically melted into relief, tail thumping the ground. Its voice cracked as it warbled, "Brave Merekit! Saved poor Kobolbo! Many thanks, many thanks!"
+
+KiAera felt her ears twitch high, embarrassingly pleased despite herself. "Yeah, don't mention it," she said, offering a wry grin. "Just… watch your step next time. Those bugs don't exactly hand out warnings."
+
+It bobbed its head so hard its oversized snout almost dragged the rest of it down. "Yes, yes! Grateful! Very—"
+
+Then it lunged.
+
+She didn't even process it at first—just felt coarse paws clamp around her ears, yanking them downward so abruptly it made her vision burst in little white fireworks.
+
+"Ow— hey! What are you—"
+
+The kobold planted a foot on her back like a hunter propping up his kill. "Kobolbo claim Merekit! Tiny, meaty bunny-thing is Kobolbo's prize!" it announced with ridiculous triumph. "I'll present to clan as pet!"
+
+She was raised by the creature. Her long Merekit ears stretched out, caught like twin handles. The creature yanked her close, chittering happily. Then, with the nonchalance of a seasoned hunter claiming its rabbit dinner, it slung her over its shoulder.
+
+She was so startled she didn't even resist. This was her life now? Claimed by a raccoon-lizard? She opened her mouth to protest.
+
+And the universe decided she didn't have enough problems.
+
+A shriek tore through the canopy. The same dragonfly crashed back into view—this time trailing not only burn scars but an entire entourage. Apparently having decided that if it couldn't eat the kobold alone, it'd bring reinforcements.
+
+Behind it spilled three slinking shapes, all frills and hunger, the exact silhouette from the GamaGen sketches she'd studied: Ilosphats. Deino and Hazard attributes, which means spit or breath weapons, maybe flammable venom—great. She saw their stats:
+
+꒰ᐢ. .ᐢ꒱꒰ᐢ. .ᐢ꒱꒰ᐢ. .ᐢ꒱
+
+Creature: Ilosphat
+
+{Dilophosaurus monster}
+
+Attributes: [Deino] [Hazard]
+
+Variant Grade: [Common]
+
+Evolution Stage: [Fledgling]
+
+꒰ᐢ. .ᐢ꒱꒰ᐢ. .ᐢ꒱꒰ᐢ. .ᐢ꒱
+
+The dragonfly screeched again, shattering her focus. It sped toward them, claws flailing, and to her horror, the Ilosphats charged right after it—only to seem to catch the scent of easier prey.
+
+Her and the kobold; and the creature squeaked in terror. It spun on its heel, clutching her by the ears like a precious loaf of bread, and bolted. As her surroundings blurred, she watched the monsters advance in crisp, terrifying detail, all sharp crests and open jaws, saliva already sizzling against the forest floor.
+
+"...Are you seeing this?" she asked GamaGen.
+
+No response from the book. But the kobold's claws tightened, making her wince. "No refunds on trades!" it said, voice cracking high enough to make her flinch.
+
+And of course this was how it would start. Not a research expedition. Not a methodical ecological survey like she'd always imagined for herself. No. Just a ridiculous, backwoods hostage situation with a kobold claiming her by the ears while murder-lizards stampeded straight for them.
+
+It would have almost been funny, if not for the way the Ilosphats' eyes locked onto her in a cold and certain manner.

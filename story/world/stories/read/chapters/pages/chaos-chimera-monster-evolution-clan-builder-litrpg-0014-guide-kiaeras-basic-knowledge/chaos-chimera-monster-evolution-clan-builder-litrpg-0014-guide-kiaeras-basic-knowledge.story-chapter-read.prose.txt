@@ -1,0 +1,5 @@
+Rule: Monsters can only consume crystals based upon their rank. I.e: Fledgling can only consume any blue crystals.
+
+Consumption: Eat (consume) crystals to gain units/APUs—up to 10% of your current APeX per cycle.
+
+How to Rise Through Ranks: Most Zeldritch starts at Common and can climb through these grades by meeting specific conditions—battles won, crystals consumed, rites survived, or special quests completed. The higher the grade, the fewer their numbers and the greater their might.
