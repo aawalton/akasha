@@ -1,0 +1,79 @@
+Nicolai’s longer term strategy was highly reliant on the Assembler, and thus he and the Modules had been deeply considering how to make best use of it—its capabilities, and its limitations.
+
+It was not a city factory. Those could sprawl for kilometres, packed with specialised machinery to produce truly sophisticated goods. The Assembler was a smaller cousin, limited in scope. Even so, it could do a great deal—construction supplies, tools, weapons, explosives, materials processing, and robotics.
+
+Fortunately, the vats had been full, thus the first batch of bots. The stone here was rich with iron ore. That alone was enough to sustain production, as iron, turned into steel, was the primary component of new bots. The mining bots had been expanding the mine with steady efficiency, dragging raw rock back to the Assembler’s grinders.
+
+Processing was key. At first the Assembler had relied on its own internal processors to refine the ore, but Nicolai had now upgraded it. The Assembler came with templates for attachment parts, which once created could be attached to expand its capabilities. In this case, he’d ordered to machine to produce external processors—two large industrial attachments for chewing through the rock and ore the mining bots dumped into it. Built and slotted into place on the back of the Assembler, they had greatly increased how quickly ore could be refined. This did not include Oma crystals, which had to be dealt with separately.
+
+The iron ore gave him bulk metal in endless supply. Alongside the iron came silica; quartz and sand trapped in the stone. That gave him glass, silicon, and ceramics. Small amounts of copper, tin, lead, and zinc appeared often enough to keep the stores topped up.
+
+But there were gaps. Polymers and rubber, needed for insulation, seals, casings, and flexible parts, came from organics, not stone. High-grade copper and gold were vital for electronics, as iron made a poor conductor and would corrode over time. He possessed copper which would do for the majority of uses, but it would be nice to have a small amount of gold for the most complex parts. Rare earth elements were necessary for magnets, optics, processors, and high-end alloys. They existed in trace quantities, but the Assembler didn’t have the capability to refine them, not without the addition of a weighty, expensive new processor which Nicolai wasn’t sure would be worth the investment. Petrochemicals were needed for fuels, lubricants, and plastics.
+
+These limitations had ramifications on what he could produce. Guns were easy, being mostly metal. Ammunition was more problematic. Most of a bullet and its casing were typically made from copper, zinc, and lead. All present in large enough amounts. But propellant, even something as simple as the smokeless powder of the 21st century, couldn’t be made from rock and ore. It was typically based on nitrocellulose, which required organics. Robots, of which he wanted to create a large number and variety, needed insulated wiring, rubber seals, and plastics. Currently, the Assembler had an almost full vat of organics to draw on, but that wouldn’t last forever.
+
+The Trade Link would solve those issues. He could buy bulk packs of raw materials—crates of polymer, organic slurries, powder packs, bags of rare earth pellets—ready to dump into the vats. So long as he was able to reliably visit the Trade Link every week, and ensured he didn’t run out of funds, the Assembler would never need to cease operations.
+
+As to not running out of money, the Assembler held the solution to that, too. He would sell the simpler items the Assembler could produce, which, due to the quirks of what the Trade Link made available, would still sell for a very good price.
+
+Anti-materiel rifles capable of semi-auto fire would be almost entirely metal, and he’d sell them for a high price. Assault rifles made in the Assembler—also largely metal—could be sold for say, 10,000 rather than the 20,000 the Trade Link demanded, which would ensure people were eager to purchase from him. The metal and small amounts of polymer needed to produce one would cost him very little.
+
+He would likely see about selling robotics, too, for much, much higher prices. Those would require some of the rarer materials, but considering the price he would be able to buy those materials at the Trade Link, and the price he’d sell the bots for, it would be well worth it.
+
+He would reinvest those funds into the rarer materials. And thus, it would all function as a wondrous, extremely profitable circle.
+
+This was primarily possible because of the odd balancing act Heaven seemed to be performing with what it made available at the Trade Link. There were no droids, no gundrones or gundogs. The only attacking drones were hunter-killer drones, which were very expensive and single use. Nicolai felt that was likely the point. Heaven was wary of making it possible for those from Earth to start building armies of bots to fight for them. If that was the case, whoever or whatever oversaw things had made quite a blunder by allowing him to seize an Assembler.
+
+There was only one real issue. The fact that this time, he would be selling powerful weapons to people who might end up using them on him. This had also occurred in the castle, but as he’d mostly sold pump-action shotguns and SMGs, which hadn’t been overly threatening, it hadn’t been such a risk. But a group of Earthers shooting at him with semi-auto anti-materiel rifles and sending out combat bots would not be easy to deal with.
+
+Cyberwarfare was convinced this was manageable through the use of backdoors in any robots. It was unlikely most people would change the software he preloaded them with. Not everyone possessed his own AI enhanced capabilities, and setting up effective software for bots was easier said than done. He could say for near certainty that very few would be able to create something better than what he’d load them with. That being the case, some kind of hidden access which he’d be able to utilise, could be sneakily installed.
+
+The semi-auto anti-material rifles, being purely mechanical in nature, weren’t something he could install a proper backdoor into. There was no software in them for the backdoor to be attached to. But, perhaps something could be hidden within them. A small, battery-powered piston, connected to a tiny Local receiver, could be primed to activate upon receiving a Local command, and brick up the weapon. That would be quite easily discovered by someone who knew what they were doing taking it apart, however, which would cause damage to his reputation.
+
+No, he decided. A backdoor placed in a bot would be almost impossible for someone to discover, but a small component in a gun, which clearly had no need to be there, was the opposite—inevitable it would be found. And when that happened, people would start looking much more carefully at anything else he’d sold them.
+
+As to Oma crystals, the other item the bots mined, and which he and the Modules had tweaked their software to ensure they properly recognised, he was planning to make a separate processor. It would use scanners to identify what was crystal and what was rock—as when the mining bots hewed it from the wall, there was always large amount of rock attached to the crystal. He’d seen the undead back in the castle separate it with the simple process of having hundreds of skeletons using chisels and hammers. He planned on making a processor that would use a combination of micro-cutters, water jets, and directed ultrasonic vibrations to separate the rock from the crystal.
+
+However, that was taking some time to work out, and would be quite slow and expensive to create, too. The big processors he’d attached to the Assembler were much more simple. One of them dealt with iron ore, which could be treated much more roughly than Oma crystals, and the other one just crushed everything smaller then fed it into the Assemblers own, sophisticated processors.
+
+For now, he was fine with separating the crystals out manually. He saw little reason to make nice spherical shapes out of them. When Cultivating here, he would simply use large chunks of raw crystal, and when out in the field, he was thinking that rectangular shapes—the size of three to four standardly shaped crystals—would be good. Those could handily slot into magazine holsters, of which he had numerous free-floating groupings available, for attaching to his skin suit and tactical harness wherever desired.
+
+###
+
+Both Nicolai and Cyberwarfare were increasingly interested in Intent. One of the Memory Discs went into detail on it, and as he’d read through, he’d realised that mastering it could be very, very useful.
+
+There were two layers to Intent. The first, he’d already been making use of. Intent could be read through the thoughts and emotions leaking from someone’s Soul or mind, and also through the Aura. When those thoughts and emotions leaked, they would create tiny, almost indecipherable ripples.
+
+Killing Intent was one of the strongest forms, which would create the largest of these tiny ripples. Thus it was the easiest to sense, and one could even use it as a kind of weapon. A way to destabilise an enemy’s mental state, by powerfully emanating Killing Intent and thus giving them a sense of oppression and threat.
+
+He’d used this before, though he hadn’t realised what it was at the time. Back in the castle there had been a time where he fought four Tier 1 Cyborgs. When one of them had shot at him from a distance with a sniper, he’d been able to detect the surges in killing intent just as the man went to pull the trigger. It transpired the Darkness Module made him better able to sense these tiny ripples, which was why he’d been able to do this instinctively.
+
+Now, he and Cyberwarfare were making a more focused study. This was aided by the discovery that, by mentally separating a little, he and Cyberwarfare were able to act as—almost—separate beings, and play games of Intent trickery on one another.
+
+Nicolai held his hand out over the middle of the table. To his left, was a pistol. To his right, a knife. He had already decided which one he was going to pick up.
+
+Which will it be? he asked Cyberwarfare.
+
+The pistol.
+
+Nicolai picked up the pistol, and sighed. Cyberwarfare had gotten it right every single time for the last twenty minutes. Likewise, his success rate had become just as flawless. This isn’t working anymore. We’re too closely connected. Even trying to be separate, something still makes it across.
+
+Cyberwarfare, glum, agreed with him.
+
+At first Nicolai had thought their efforts would be stymied there, but a solution had quickly become apparent, and first tests showed promising results.
+
+Cyberware, placed into the Infiltrator and controlling its Soul and Soul Sense, was effectively another person. Close enough, at any rate. With that, they were able to practise games of Intent against one another properly. Psychology was son also brought into these games, as it too expressed interest in the area.
+
+Nicolai found himself hard matched against the pair. Cyberwarfare would work on defence—aiming to conceal the leakages of “true” intent that could be read by another. Simultaneously, Psychology took the role of offence. It worked to generate alternate intent, which gave the impression they were plotting something entirely different to their true aim.
+
+With this split process they were very effective. Nicolai knew he was unusually skilled in this domain, as it was an offshoot of something he had always focused on. He had always known that predicting an opponents actions was one of the simplest yet most effective ways to win any kind of engagement, and centuries of practise, plus, perhaps, the Dark Gift, had given him a level of almost preternatural skill.
+
+Due to this, he was still able to roughly match the pair in the games of prediction he played with them. But he did so in a different manner. Together, their ability to conceal and alter Intent was practically flawless—better than his own. But he was able to predict at a rate higher than chance, because he looked to other factors. He considered what he knew of them, from their long time spent together. He imagined he was them and thought what they would pick. Thus, he didn’t even need to try and read their intent, which ultimately was fruitless anywhere as they were simply too skilled at hiding and altering it.
+
+In contrast, they predicted him at a rate over chance, because his own Intent was slightly shoddy. He knew he was very good compared to most, but he didn’t have that level of almost completely flawlessness that the Modules were capable of.
+
+This bothered him only slightly. Ultimately, in times where this sort of thing was most crucial, would be working together, him and the Modules merged into one. Thus, if anything it was good that all of them excelled in different areas. It meant that when merged they would be perfect.
+
+Joined in with this was Simulations, who focused on something similar though related. Its focus was on the idea of altering the shape of his Soul, or the shape of the bots Soul. The area where they had failed, back in the Phantom City, and a Cultivator had been able to recognise Nicolai even though he attempted to disguise himself.
+
+With the ability to separate via the Infiltrator, Simulations was able to improve rapidly. Alas, there still seemed to be some limits on its ability to shift the outward appearance of a Soul, which upset it greatly. Nicolai and the others consoled it, saying that there must be specific tricks to it that Cultivators had learned over time. They would learn those tricks.

@@ -1,0 +1,129 @@
+Nicolai stepped out of the portal into his base in a state of alert, holding his assault rifle ready as he scanned the dimly lit cave room, Soul Sense spreading to peer around the Assembler.
+
+His wariness had no basis. He hadn’t noticed anything or sensed anything. It was simply protocol to check anywhere he came into. Even if that place was a cave into which he’d blown up the only entrance.
+
+Some might have said that if he believed there was no reason for suspicion, then it was simply a waste of time. Nicolai disagreed. There was no point in having a protocol and taking obsessive measures to protect himself if he didn’t do so every time. All it would take was being off guard one time, and a bit of bad luck, and his life would be over.
+
+So, he thoroughly swept the place with eyes and cameras, sonar and Soul Sense, leaving nowhere unchecked. He even looked inside the Assembler, as much as possible. He’d done this even during his quick trips back from the city. Only once assured that no one and nothing had somehow got into here while he’d been away, did he get started.
+
+His first move was simply to satisfy his curiosity. While at the Slayer’s Guild he’d realised it had been a long time since he’d properly looked at his Mark. Now, he stripped off his skinsuit glove and had a look.
+
+The Mark was significantly altered from when he’d first gained it. The city on a cloud, with a shining eye floating above it, was his original Mark. But it had been joined numerous additional symbols, spreading wide to use the entire back of his hand as a canvas. A pair of symbols below the city, one of which showed a telescope, and the other a map with a cross marked on it, signified his PathFinder and TreasureFinder. To the right of these was a smith’s hammer, wrapped in chains. The titan’s debt. To the left of the eye there was a dagger driven through a piece of paper with some writing on it. After a moment puzzling over it, he guessed that it signified his Claim on Paxolnaz’s True Name. To the left of the city, below the Claim symbol, was a tiny stylised II with the letter HTM underneath, and an I with BCM below. Level 2 Human Tech Market, and level 1 basic Cultivation Market. To the right of the floating city there was another floating city, though much smaller. His access to the Phantom City, perhaps? Crossing over all of this was a large sword, denoting him as a Slayer.
+
+He raised his eyebrows. He should have checked this earlier. The Mark was very revealing. He absolutely needed to keep it hidden, and if he saw others showing off their own… it was certainly worth angling for some decent pictures.
+
+Within the Assembler’s primary construction bay there were four robots, waiting silently. Two of them were mining bots, and the other two were construction bots. They had been preloaded with standard software, but Nicolai connected to the four and with the aid of the Modules made some minor alterations and additions. Nothing overly major, he just wanted to make sure the mining bots would be able to recognise Oma crystals, and also made the bots software somewhat more sophisticated and capable.
+
+The bots trundled out of the bay, and Nicolai glanced them over as they came. Both the mining and construction bots were quite similar in size and shape. This was because for most bots, the Assembler had a base template.
+
+In this case, the bots had identical bottom parts. From a thick circular base sprouted four thick metal legs, crab-like, to allow them to easily move over various surfaces. Each leg also had some extendable rods, to help the bots brace and anchor themselves. From this base sprouted an upper part, capable of rotating through 360 degrees.
+
+The construction bots appeared slightly more complex on the top, with various available tools including a crane setup, excavator, hauling compartment, cutters, welders, manipulators big and small, nozzles for precisely applying bonding materials, and so on. They were general purpose and though not specialised for any singular job, could in return do just about anything reasonably well.
+
+The mining bots were simpler. At the front they had one large, extending drill-arm for chewing through rock, which could also shift into an excavating mode, and on the back was a large bin for dumping mined materials. More specific in purpose, they were very good at mining and not much else.
+
+The Modules set the bots to work. Simulations especially was quite keen on the task. This ability to split focus on various different things at once was one of the main benefits of the modular setup GRECKON had gone with for Zero-Twelve.
+
+The Assembler hummed back to life, its primary bay working to produce the necessary building materials the bots would need. Meanwhile, the bots themselves moved to their tasks. One mining bot extended its stabilisation rods then its drill arm and began crunching its way through a portion of the cave that was more constrained, filled with stalagmites. Meanwhile the other got to work widening the crack where a security door would be installed. The construction bots worked to prepare the area; smoothing out the floor, squaring off the walls and ceiling.
+
+While the Modules and the bots focused on that, Nicolai turned his own focus to his anti-material rifle, the M99. He had some modifications in mind for it.
+
+After disassembling the M99 as much as possible, Nicolai placed the various pieces he’d turned it into into the Assembler’s large hand-held item bay. Also placed in with it were a few small items he’d purchased from the Trade Link, for this purpose.
+
+He connected to the Assembler via Link, taking manual control of the process. Not something normally attempted by humans, but Nicolai wasn’t normal. He didn’t trust the Assembler’s own programming to do this job as he desired—it followed pre-programmed recipes when creating items, and when doing custom work was supposed to be guided by an AI. Typically Assemblers were used at outposts in hazardous areas, and such outposts would be governed by competent AGI’s.
+
+In this case Nicolai served that role. He observed what was happening via the Assembler’s internal cameras and sensors.
+
+Within the bay a laser cutter set to work on the M99’s receiver. Once finished cutting the new slots and holes it then made some minor alterations to what he’d purchased. That done, the various manipulators and welding irons began the process of welding everything together. It was precise work, but the Assembler came with precise tools. Finally, the finishing touches.
+
+The whole process took less than twenty minutes. While it was occurring, Nicolai also had the other bay make some other items. When all was completed, he rose and moved to open the bays up.
+
+He retrieved his modified M99 from the larger bay, and a number of custom-made 10 round magazines from the other. During this time the primary bay had also created a simple chair and a large, sturdy steel table, which one of the construction bots had placed in the area he’d earmarked for a workstation, so he carried the M99 and magazines over there. There he held the M99 up and slotted one of the magazines into the magazine well it now possessed.
+
+A smile creased his face as it slotted smoothly into the gun, the freshly installed magazine pin and lever clicking into position. He gazed at the smooth metal and imagined the carnage it would unleash on his enemies. Almost unfair.
+
+It had become apparent to Nicolai that Heaven was taking some measures to ensure the inevitable conflict between Cultivators and Earthborn was relatively balanced. Measures such as paying attention to what it made available in Trade Links, and ensuring nothing too powerful was sold.
+
+That, he believed, was why only bolt-action anti-material rifles were available from his Level 2 Marketplace. He’d experienced how effective the gun was against shields already, but its major issue was the slow fire rate and need to manually cycle.
+
+Now, this M99 was a recoil-operated, semi-automatic monster capable of firing ten .50 calibre rounds in under five seconds. His mind roved back through time, to when Zhang Hao, that Tier 2 he’d encountered in the jungle, had chased him as he fled toward the Inheritance.
+
+The Tier 2 and his cohort had formed up behind a large, shared shield as they pursued him. He’d shot at it and noted that the shield had definitely been affected by the M99’s powerful rounds, but with the anti-material rifle’s slow rate of fire they had been able to repair it faster than he could damage it.
+
+Were he to have had the newly modified M99 to use against that same shield, he suspected he would have gotten through quite easily. If he were put in such a situation now, it might be a better pick than the laser.
+
+Due to the fact he’d been under the cover of trees, having to shoot through leaves and branches, plus quite distant, a Lasrgun would have taken time to do significant damage. It would burn people and set them on fire, but would struggle to secure a kill. It was at its greatest effectiveness at a closer range and with nothing between it and the target.
+
+The M99, on the other hand, would instantly kill anyone it hit if they didn’t have some kind of protection, and now it was semi-auto it would be able to rapidly chew through shields.
+
+He set it aside, laying it carefully on the newly created solid-steel table, and the Angelic Blade—now removed from its sheath of spirit-dampening cloth—went beside it.
+
+Looking at them thoughtfully, he decided they fit well together. Similar in size and menace. One for close, one for far.
+
+Some impulse made him retrieve the Lasrgun from his storage, and he put it below the anti-material rifle, to the left.
+
+A moment later he placed his assault rifle to the right of that. Finally, as a bit of an afterthought, he retrieved his rapier and placed it between the Angelic Blade and the anti-material rifle, then lastly his pistol which he put by the assault rifle. He spent a moment shifting them minutely around the table, squaring the weapons to one another, increasing obsessive. His brow tightened with focus and the Modules aided him, performing minute calculations to work out the exact spacing between the edges of the tables and the weapons and the spaces between the weapons and suddenly—with a relief that was mountainous in scope, rising and collapsing over him—he knew they were positioned correctly.
+
+Then he stared at all the solid, reliable, perfect weapons, a faint smile on his face.
+
+Beth would say you were being weird, standing here alone, staring at your weapons, said the Mask idly, breaking him from his trance.
+
+Nicolai stared around, wide-eyed, feeling suddenly judged, before his eyes caught on the wonderful harmony resting on the table and the calm rolled over him again. He smiled. ‘She probably would.’ After a moment’s thought he added: ‘Perhaps I am weird. I like how they look. So what?’
+
+And Jo would say—
+
+‘I know what she would say.’ His eyes narrowed. She would feel sorry for him. She’d always been so quick to decide he was deserving of sympathy. Like he hadn’t chosen this for himself, like it wasn’t what he wanted, like he should be desirous of the same things as everyone else. As though there was something weird and sad about gazing in simple admiration at beautiful, perfect, precious weapons.
+
+With the Mask’s words he almost felt as though she were beside him, staring at him with those eyes that seemed to penetrate so deep. Turning him transparent, digging into him, seeking to know him in a way that could not be permitted.
+
+He felt a strange prickling, and stared at the back of his arm. Looking closely, he realised the hairs were raising. Some odd physical reaction he wasn’t sure he’d ever encountered before. At that moment, he was unable to work out what it meant.
+
+‘We’re away from all that, now,’ he said, lowering his arm. ‘Forget about them.’
+
+I won’t.
+
+‘Fine.’ He snapped. Hearing the budding anger in his own voice, he shifted his shoulders in the most casual and unconcerned of shrugs. ‘That is your role.’ He told himself he was feeling remarkably calm and mentally balanced these days. He ran an absent finger over the spine of the Angelic Blade, eyes closed, feeling its energy tickling against his Soul.
+
+When his eyes opened they were met, once more, with the beautiful sight of all those weapons arrayed exactingly on the table before him, and his smile returned.
+
+It seemed to him then that the positioning of the weapons communicated to him in a secret language, a language without words or symbols, a language based purely on shape.
+
+The weapons were all square to one another, fitting into the space on the table with harmonious order. Their placement seemed somehow connected to him, a representation of his own mind. He felt almost that he could feel them, that they were a part of him. Everything was exactly where it should be.
+
+No madman could have arranged them all so well, and some tiny tension released within him at that realisation. No, he was completely and seamlessly sane, the fact of the weapons being so well arranged told him so. Though, now he felt a sudden worry at the idea of moving them. If he were to touch the weapons and disturb their perfect order, would his mind become disturbed in turn? Could the effect feed back?
+
+He took a breathe and reassured himself. No, they were just weapons. Certainly. But even so, they represented him and they told him that he was totally fine. He waited for the Mask to comment, but it abstained. For some reason he had the impression it was biting its metaphorical tongue.
+
+He dismissed it from his thoughts. Based on what the Person at the Information Guild had said, as time passed his… condition would only grow less manageable, the dark growing in power just as he did. But for now, for now he was calm, and he was sure that he was as sane as he was able to be.
+
+He opened the spiritually sealed bag and quickly took out one of the Symbiotes, closing it before others could try to escape.
+
+It was the Phantom Clawer Symbiote, which, as one might’ve expected, was a floating claw. He immediately held the weight of his Soul Sense down on it, suppressing it before it could try to attack.
+
+He would break in the Phantom Clawer first, then the Spectral Mantis. They were the rarest and most valuable of the Symbiotes that comprised the Spectral Claw. The other ones were more common, and more replaceable.
+
+That included a Long Stick Insect Symbiote, which was designed to extend the range of a specific Art. The Phantom Clawer went in the hand Node, the Spectral form in the forearm Node, and the Long Stick Insect went in the shoulder Node.
+
+The remaining five Symbiotes were more familiar to him. It was the full finger set, something he’d already hoped to complete. He had two duplicate Symbiotes, a new Grasping and Repulsive Finger. He would break those in, too, and put them in his other hand, once he had a Node there.
+
+Accompanying the familiar Grasping and Repulsive, there was a Sliding Finger, which could move objects left-and-right, a Lifting Finger, which could move objects up or down, and an Anchoring Thumb, which held objects still. Like the Grasping and Repulsive, they could also be used on heavier things to instead apply movement to himself. Or in the case of the Anchoring Thumb, hold himself still.
+
+This allowed for the other property of the Spectral Claw. It wasn’t just a powerful weapon. It also acted like a gigantic hand, extended on a long, long arm. With it he’d be able to slingshot himself around, as he had with the Grasping Finger, but in an omnidirectional and more powerful manner.
+
+As always, he settled into a cross-legged pose and held the Symbiote between his palms, his Soul Sense flexing, and then he struck. The Symbiote held firm. It still retained Jian’s will, spitefully left inside as a petty barrier against him. They were all like that. It simply meant the Symbiotes would all be difficult to break-in.
+
+While Nicolai launched his first attacks at the Symbiote, he was reminded of one of the last times he’d been settled on the floor of a “safe place,” working to break-in a Symbiote. Back in the castle he’d always had Kleos, and later Maric, too, resting on a table to the side. There had existed a kind of quiet companionship between them. Especially him and Kleos, who had been his companion for so much of his time in this world.
+
+While most of his attention focused on the Symbiote he was trying to break-in, the Mask plucked at the small distracted part of him and together, they wondered whether the heads had gotten out of the Coffin yet. He found himself hoping that Kleos was doing well.
+
+###
+
+By astonishing coincidence, at that very moment atop the endless rubble of a broken castle, many miles of sweaty jungle away from Nicolai, something was stirring.
+
+It was the Coffin, a great rectangular box of black stone, and it was dragging itself out of the rubble via a flickering field of energy.
+
+It had received a great rush of energy when the Castle Core died, which had allowed it to regain some old functions. One of those had allowed it to recognise that the beings inside of it would be trapped if it opened. It had been gradually working to unbury itself for days, and now, at last, the job was done.
+
+With a spiritual sigh of relief, the complex web of Symbiotes and will that had been infused into the Coffin relaxed and died. Oma and spirit vented quietly into the Aura.
+
+The lid unsealed, and scraped open. A strange dark vapour poured out, leaking into the sunny day and the fresh air. The vapour was quickly followed by two heads, coughing and cursing.

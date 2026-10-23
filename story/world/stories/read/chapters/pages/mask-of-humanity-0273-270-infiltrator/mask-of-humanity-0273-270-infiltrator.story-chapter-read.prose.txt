@@ -1,0 +1,69 @@
+Nicolai’s new Cultivation cubby, finally complete, was a room rather than a cramped cubby. Concrete walls, ceiling, and floor, all lined with detailed ritual scrawlings by the construction bots. He’d also gone a step further compared to the old cubby, where he’d simply had metal sheets affixed to the walls with the rituals scrawled on, turned outwards to prevent them from being damaged.
+
+Now it was more solid. There was a layer of metal sheeting with the rituals set into the walls, floors, ceilings. Then a layer of fast-setting concrete. Then another set of ritual sheeting. Then one more layer of fast-setting concrete. With this, he should ensure it was all but impossible for ripples to escape, no matter how intense. This same setup was what he intended to place over all the walls, ceiling and floor of his entire base, once it was all properly squared.
+
+He put a new, thicker sleeping matt inside. Perhaps he would even use this as his bedroom, since the ritual scrawls he’d created would also block Aura-based methods of detection. Thinking on the bedroom idea further, he considered the door. It was simply a large, thick steel door, which now had a lock which could be engaged and disengaged over Local (and a hidden failsafe manual method of unlocking it, from either side).
+
+With some changes, the door could also be made to blend with the wall. That’d be handy as he could be hidden and safe in here even if people broke into his home, able to prepare to spring out in ambush. As a place from which no spiritual emissions would emerge it would thus be a good hiding spot in the event Cultivators got into his home. So long as he wasn’t broadcasting over local, the thick stone would also keep him safe from a quick scan by invading Earthborn. Considering that, he decided to setup a console system that would connect via wires to the cameras he setup throughout his base. That way he could monitor outside without using Local
+
+The only issue was that of air. If he could work out a way to allow fresh air—and ideally, fresh Aura—into the bolthole, while also ensuring it maintained that perfect seal which would allow no Aura ripples out, it would be absolutely perfect. Perhaps a multi-stage ventilator system involving airlocks that open in succession? An entrance and exit?
+
+The idea held merit. Aura ripples would only go so far, and only bounce so many times, before becoming inert. If they were passed through airlocks lined with ritual scrawls built to absorb such ripples, then that old air could be—in a way—scrubbed of ripples before being vented and switched for free. A future, larger setup would be necessary to bring fresh air into his base as a whole, once he lined all the walls with rituals. He gave Simulations the job of drawing up the designs for the Assembler, which it accepted without much interest. It, and the other Modules, were far more interested in the newly created bot.
+
+Over the past few days, Nicolai and the Modules had worked to create and perfect the bot’s new form, alongside performing more tests and fixing its software.
+
+The software changes were completed fairly rapidly. He and the Modules successfully tidied up its broken coding and overlaid a new control layer, allowing the bot to be directed in the more typical manner. However, they deliberately design it so that the Soul-based method always took precedence. If Modules were inside, they retained superior control. This acted as a safeguard, which was necessary.
+
+After all, the change meant that while Nicolai would have the benefit of being able to remotely control it even when no Modules were within it (though this control would just be the movement of its body and use of its guns, not its Soul), a risk was introduced. Now, it could be hacked into by others. With the precedence of the Soul-based control method, they ensured that if any Modules were inside it, or placed inside of it after the fact, then the attempted control of a hacker would be defeated.
+
+The creation of its new body was a slower process. Once that was complete and put together, Nicolai began the operation: transplant the Node and Soul into the new form.
+
+He was sat at his primary workbench, and the Assembler bot was beside him. On the table before rested the new shell for the Node and Soul to be placed in. The necessary tools were spread neatly over the table around it.
+
+Bending down, he worked to remove out the Node, plus the battery and processor that it was most closely intertwined with. This required the use of a disc-saw and pliers. It felt like an odd mix between surgery and maintenance.
+
+The moment he finished cutting the most crucial parts away and pulled them free, the Soul that had been spread throughout the old body began to die. However, the part that was around the Node was fine. Nicolai moved the processor, Node, and battery over into the new form, which was far smaller than the old—roughly the size of a backpack. Within this new shell most of the components were already in place, and he was able to slot the processor into the spot that had been made for it, hooking it up to the wires that would link it to the rest of the machine.
+
+The battery remained partly outside, because it was too large to fit. After giving the Node and Soul time to settle a little, he carefully removed the original battery. This was delicate work, as the Node was touching on that battery. This removal saw the loss of another chunk of Soul, but what was left seemed fine. He placed in a new battery, one that was small and powerful to suit this far smaller form, which covered the Node and processor. He believed it was best for the Node to touch on the battery, which could be considered its “heart”.
+
+From there he fed the Node Oma, and its Soul grew. Cyberwarfare, Threat analysis and Aiming slipped inside, and directed the Soul to focus on growing into the battery. Once it had finished spreading into the new battery, infusing it, he cut the processor away.
+
+At this point the process could go in different ways. They believed that the scrambled code within may be crucial for the function of the Soul. If not, he’d replace it with a better processor. The Modules immediately reported issues, which proved the original processor was necessary. So, Nicolai put the processor into a different part of the machine, which was thought of as its head. The processor made the most sense to take on Brain Nodes, but that wouldn’t work if it was too close to the Heart Node.
+
+This shell was designed with consideration of Nodes. It had a system which was purely there to circulate air through mechanical parts that were not dissimilar to small mechanical lungs. The hope was that these two parts would be ideal places for the growing of lung Nodes.
+
+Within in the bot were also two small parts which acted to boost the efficiency of the installed battery—the bot’s version of kidneys. It also had a “stomach area” and spine. The stomach area was designed to receive things like Yin-Yang Rotation Orbs, which had been quite a challenge to come up with, using the limited capabilities of the Assembler. He’d wanted to ensure it had mechanical parts which served true, useful functions, while also being similar in function to the organs into which humans put Nodes. The limbs at least had been easy.
+
+Nicolai retrieved a metal cover he’d set to the side, then screwed it into place, covering up the bot’s innards.
+
+That done he sat back as the bot came alive. The Soul based method of control didn’t yet work perfectly, because the Soul needed to regrow most of itself and infuse this new form. But the Modules within were able to control it with the software method, put in for remote control.
+
+The bot’s legs twisted and then it flipped itself upright. Its body was mostly a flat rectangular shape, with a pair of powerful legs on either end which could rotate up or down. Accompanying these, were two more pairs of manipulators on its top side, which were more complex—gripping parts and weaponry. Clicking across the desk, one of those manipulators now reached out, grasping an Oma crystals from a waiting bag.
+
+There were a number of places on the bot where it had concave, half-sphere shaped slots. Moving swiftly, the bot made use of those slots, beginning to slot Oma crystals into itself. With each one pressed in, there came a click as a small locking mechanism moved to grip them and keep them held tight. Guided by the Modules, who pulled on the Oma located in the nearest of the Oma crystals holders, the Soul drew Oma and used it to grow, infusing the bot.
+
+This would take time, and Nicolai moved his Yin-Yang Rotation Symbiote his hand then started generating orbs while he remained in his seat. The bot shouldn’t need his help, but he wanted to stay near just in case something happened. While forming a Yin-Yang Rotation Orb he gazed down at the bot, a smile on his face.
+
+Its form was quite basic for now, but intended to be upgraded and refined over time. It was modelled on what was known as an Infiltrator. On Earth, infiltrators were small, backpack-sized bots—highly sophisticated, autonomous units capable of functioning as scouts, saboteurs, and even assassins against softer targets. Controlled by a true sentient AI—less capable than a killbot but still formidable—an infiltrator could carry small but powerful weaponry, field potent Cyberwarfare systems, employ active camouflage, and use advanced sensors. Its compact size allowed it to slip into places larger bots or humans could not, gradually working its way deep into a protected area to reach its target.
+
+Nicolai felt this form would be ideal for the bot, especially once it had grown a full suite of Nodes. Once that was done, he could typically wear it as a backpack. That would be like having a permanent Cultivator ally riding on his back, augmenting his own spiritual capabilities.
+
+In the future, he hoped to make it capable of hiding itself spiritually, ideally to the point where even a cultivator probing with Soul Sense wouldn’t detect it as spiritual in nature. Used in this way, it would always come as a surprise.
+
+Then, when necessary, he could remove it and send it off to perform typical Infiltrator activities under the Modules’ control. Having it ride on his back most of the time was also reassuring. He didn’t like the idea of the Modules being in a separate form away from him for long. What if he found himself with need for them? Keeping the bot close would ensure they could move back and forth quickly.
+
+Though small, the bot’s form was covered in ports and connectors. Nicolai planned to create multiple add-ons, modular parts, and even entire mech-suits that the bot could be slotted into. As they would be artificial, the Modules would be able to control any external parts through a hardware link.
+
+These external parts could have their own software and remote capabilities, for use even when not connected to the Infiltrator. Then, when it was connected, its hardware connection could override everything else, making those parts immune to hacking.
+
+Another benefit of not being spiritual in nature, was that these external parts could theoretically be stored in his storage Symbiote, though a large enough one might struggle to fit.
+
+The fact that the bot could operate separately but still be guided by the Modules made this role very promising. If facing a severe threat, he could simply slot the bot into a mech-suit based on a combat bot, allowing it to wield heavy armaments. In such a case, the Module-controlled bot would be far more capable and intelligent than a standard Assembler combat bot—in effect, a true AI, which was normally impossible with the hardware limitations of Assembler-manufactured machines.
+
+In the future, he was thinking of buying an actual Infiltrator from the Trade Link. He had yet to see anything of the sort available, but perhaps at the next level of the human market it would appear. If so, he could transplant the bot’s Node and Soul into the new form. A real Infiltrator would undoubtedly surpass his Assembler-made version, and he could open it up to customise it, ensuring it was still a good fit to contain Nodes.
+
+Even so, this Assembler-made Infiltrator was still quite capable. It was armed with a silenced, subsonic pistol-like weapon—quieter even than a typical silenced pistol—and a basic laser, which he hoped to upgrade via Trade Link purchases.
+
+It lacked active camouflage for now; the Assembler wasn’t sophisticated enough to produce such a system, and he doubted any shimmer-poncho wrapping he could make would be worth the effort. Still, this was another area where the Trade Link could provide.
+
+He wasn’t wasteful with the bot’s original form, either. The Assembler rebuilt it into a construction bot, then began work on the bot’s first mech-suit—based on a heavy combat bot frame, with a space in its protected centre for the Infiltrator to be placed. When not required, the Assembler-made combat bot could still function independently, armed with the standard software for such machines.

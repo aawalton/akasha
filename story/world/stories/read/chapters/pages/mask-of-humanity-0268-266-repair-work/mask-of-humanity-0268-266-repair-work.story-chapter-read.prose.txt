@@ -1,0 +1,147 @@
+Nicolai was forced to cut short his lengthy Rotation-Orb-making-and Tournament-perusal-session early, before seeing the ultimate victor of Tournament Two, when one of the construction bots became damaged. A chunk of rock had fallen from a wall it’d been working on, and a manipulator and some minor components were broken.
+
+By now, he had a total of four Miners and four Constructors. The damaged one was Constructor number 3. He’d given construction bots the identifier of A, thus this was bot A3. Miners he’d dubbed as B’s. When he started on Combat Bots, they’d be C’s.
+
+He could have put A3 into the Assembler for repairs, but he opted to do the fixes himself. The stated reason being he wanted to gain some hands-on experience with Assembler designed bots, though perhaps he’d also just enjoyed himself so much making things recently that he wanted to do a little more. Regardless, in the future he planned to bring some bots out on excursions with him, and thus being familiar with repairing Assembler-type bots with his own hands would be useful.
+
+Emerging from his cubby, Nicolai paused to stretch. It was pleasant to be out of the cramped space, and to look upon the progress of his forming home.
+
+The floor was now a single flat plane of concrete. Three of the walls were smooth and squared, though the ceiling still needed some work. A filtration system had been created by the Assembler and installed above it, disbursed to vent its exhaust through the cracks after filtering until it was a unobtrusive as possible. The bots had finished draining the water in the pool into large vats, to one side of the room, and the mining bots were making a start on digging into the Oma crystal veins there. Already a tidy pile of crystal filled a bin to the side.
+
+He took the damaged bot to the centre of his working area, between the tables, and considered it. The damage was mostly in its left manipulator, which was its secondary, built for lighter, more versatile use. The other arm had the bigger tools, the hammer, drill, and so on. The damaged one was actually shaped a lot like a large human hand, more for holding and moving things. Two of the fingers were bent out of position, and some of the components in it were damaged.
+
+The bot’s fingers were fairly simple. He considered whether they could be jerry-rigged, and found a workable solution to make them sort-of function by twisting them back into position. After implementing the solution, he found the bots functionality decently restored. He only did that to see if it actually worked, however, and after that he simply unscrewed the hand, removed the damaged fingers, and replaced them with newly forged ones from the Assembler.
+
+That done he set to work on the more difficult problem. The hand had a magnet set into it, which the bot used in the event it wanted to pick up and use a tool. The magnet was fairly weak, just there to help it easily grab stuff, as well as ensuring that anything it did pick up would easily slot and lock into place.
+
+He couldn’t quite work out why that was damaged, and opted to simply push his Soul Sense into it. With that, he was able to view its internals in detail. He found this quite interesting, and ended up pressing almost all of his Soul Sense inside. After a few minutes nosing around and seeing what the bot looked like from within, he got focused on the actual damaged portion—though left his Soul Sense inside so as to have a better overall feel for it.
+
+The damage seemed to be in the unit powering the magnet. There was just a tiny piece of wiring that had gotten disconnected, but it was quite deep inside and he’d have to do a lot of disassembling to get to it.
+
+This, then, was a problem he could solve more simply. He opted to utilise the Floatation Ant, happy to find its uses to be so varied. With its minor, weak telekinesis, he was able to simply press the wire back into place, reseating it and tightening its connector.
+
+Alas, for some reason the magnet didn’t actually switch on. As he was puzzling over it, Cyberwarfare got involved.
+
+You know, we could make this magnet quite a bit more powerful, said the Module.
+
+How’s that?
+
+The Module suggested a few changes, mostly in terms of software, with increasing excitement. Nicolai noted that none of these changes actually solved the original problem. Still, soon the other Modules jumped in, too. After looking into the bot’s software, they all felt it could be improved.
+
+What followed was several minutes of rapid reprogramming. Nicolai just let them get on with it. They believed they could make the bot significantly smarter and more capable, and he saw no problems with that. If this worked out, he could see about implementing their further upgraded software for all the bots. This wasn’t even the first time they’d done this, but this time they were especially excited about the job. In his view, random spurts of excited interest from the Modules were well worth harnessing. Even Psychology was taking part. Only Legal stood on the sidelines, from whence it issued nervous warnings. Tampering with Assembler Bot software is prohibited! We do not possess the necessary licenses to legitimise these changes! Its language, at first typically formal, turned looser as its desperation grew. GRECKON would be very upset about this! Guys… guys?
+
+They ended up altering it so its software was somewhat based on their own. A modular system. They didn’t go so far as to actually copy any of their own programming. Of course, the software wouldn’t run on hardware so much more basic than Zero-Twelve’s, but they set it up in a similar way, changing it so as to be heavily based on how they ran. In other words, quite a bit more efficient than the norm. At least, that was most of the changes. It turned out that the bot now also had two entirely new programs, one called “Mask” and the other called “Dark,” both made by Psychology. So far as Nicolai could tell, the Dark program was there solely to gibber randomly about killing things, and the Mask program was there to say “Maybe we shouldn’t kill this thing.” When questioned about this Psychology just laughed.
+
+At length, the original problem with the magnet was repaired. The bot turned on and operated just fine, in fact with noticeable improvements. Still far from true sentience, but the bot could deal with more comprehensive problems, ran faster and more efficiently. They kept a template of their implemented changes, too, to easily copy over to other bots.
+
+Making an AI truly sentient was a difficult business. It requires a complex system of programming into a piece of highly-advanced hardware. Through this process sentient AI’s were “grown.” Assembler bots did not possess anything like the required hardware to host a sentient AI.
+
+Nor, of course, did Nicolai. Threat Analysis and Cyberwarfare had woken within him when he first installed a BSI and Network Link. The idea of running sentient AI of such basic brain implants was frankly ludicrous. He and the Modules suspected the reason the Modules functioned was because of whatever the Great Eye, the Controller, had done when itpulled them from Zero-Twelve and into his remade human body. He also believed it may have something to do with him now having Soul. He wasn’t sure what would have happened if he’d gained hardware, before becoming a Cultivator and gaining a Soul. Perhaps, if a bot had a Soul, AI sentience would be possible even with limited hardware.
+
+These thoughts spinning idly around his skull, Nicolai gazed at the bot. An idea had occurred, and as he considered it he felt rising interest from the Modules. They were wholly on board.
+
+Why stop here? Why not see how far they could go, what else could be done? He didn’t want to create a sentient AI. Something like that could be difficult to manage. But he was interested in the idea of a bot with a Soul.
+
+He glanced at the knife into which he’d placed a Node the other day. He’d been checking on it and had found that the Node was gradually collapsing. It had no Soul and nothing to tend for it, and certainly was not how one created an Artifact or Imbued.
+
+But what if the bot had a Node? It, too, should begin a slow collapse, but perhaps it was possible to create some kind of Soul for that Node? A very small, very localised and thoughtless “Soul.”
+
+He and the Modules had no idea if this was possible, but it seemed worth a try. He put a hand against the bot and sent his Soul Sense into it. Meanwhile he reached for an Oma crystal.
+
+After finding the bots central power system, which also had a ventilation system for cooling, he began to construct a Node. That would be the best place, if it worked, as the Node would be able to harvest Oma from the air running through the ventilation system. He had no idea if this would work or not, but he liked the idea of creating bots with Node systems and spirits. They could end up being very capable, if it turned out to be possible.
+
+While his Soul worked to build a Node within it, he and the Modules were also focused on another spiritual matter.
+
+What if they tore free a small piece of their Soul? His, and the Modules, which also had tiny Souls, and sent all this to live within the bot, around the Node being formed?
+
+There was a degree of worry to all this. He knew one of the Rules of Heaven. It stated that cloning was forbidden. But what if this was not a clone, but just a bot with an empty Soul and a Node?
+
+Initially he’d just been doing this out of curiosity, but as he worked it seemed more and more like this could actually lead somewhere, and the process drew him in. Somewhere along the line he’d altered the process of his Node building, where he’d been creating a Minor Node. Now he was forming a Major Node.
+
+An hour later the Node was complete. While it was finished and finalising, he was forced to remain connected to it, spiritually. He had to feed it a supply of Oma, otherwise it would detonate. He did so, while activating the Yin-Yang Rotation Symbiote and sending six stored orbs over to the Node.
+
+They entered and worked without issue, finalising the Node. At the same moment he cut free a portion of his Soul, one that held a bundle—a portion of himself, and a portion of all the Modules. They had attempted to “clean” this Soul and make it of pure Soul-stuff.
+
+He threw it all into the bot at the same time, around its Node, and gave it a spiritual kick.
+
+His eyes widened as, observing closely, he saw the cleaned Soul-piece latch onto the Node. Then, drinking of the Oma within it, it began slowly to spread.
+
+The bot suddenly switched off, going dead.
+
+He gazed at it, unsure.
+
+An explosive Aura ripple burst out and crashed into him, briefly stunning him, and the bot reactivated. But now it was humming loudly, something within it letting out a deafening screech that did not sound good at all.
+
+The Modules immediately attempted to control it over Local, but its software had gone into total disarray.
+
+By then Nicolai was between the fizzing, shifting bot and the Assembler. He’d formed a Skin Shield and held out his Sheltering Glove toward it.
+
+If the bot blew up, he wanted to make sure the Assembler suffered as little damage as possible. But the humming and screeching had calmed, now it was just sitting there, letting out ripples. It was letting out spiritual pulses, like something alive, it was—
+
+He experienced a sudden pressure, a weight of regard. Something was watching him. Something was angered by him. Red panes of light flickered through his new home, come and gone in an instant, then his Mark buzzed and hissed and burned at his hand. He snarled at the sudden pain, staring at the Mark. It felt as though the gold had become acid that was melting a hole in him. But he saw no smoke nor melting flesh. Just felt the agony pulsing from his hand.
+
+From it sprung the largest notification he’d yet seen, one that split apart into a hundred copies that were strewn angrily across the room, each blinking the same furious message at him.
+
+You have violated Heavenly Law.
+
+Rule broken; Creation of an artificial-spiritual hybrid lifeform.
+
+Your actions have incurred Tribulation.
+
+Suffer.
+
+The notifications vanished and the room was as before. It seemed strangely dark with the loss of all those golden panes. Legal gibbered madly about how it had told them, how it had been sure there would be consequences.
+
+Oma poured through his body, into every Symbiote he held. The Spectral Claw flared into life before him and he peered around, waiting. He needed the Blade. His eyes found it, there leaning against the workstation where he’d put it while working on the bot. The fact that after his obsession over keeping it close, now in his moment of need it was not in his hand caused him to release a brief giggle of manic laughter.
+
+He reached for it with the Claw but just as he got a grip on it, something erupted from the ceiling above him.
+
+He only saw it as a blur through Soul Sense, something red and angular like a bolt of lightning, had no time to react as it lanced down and spiked into his body, into his Soul.
+
+Nicolai collapsed, flopping bonelessly to the ground. His jaw caught the stone first with a numbing, jarring buzz that filled his eyes with water, but at the same time the shock seemed to shake him from the brief paralysis.
+
+The Modules screamed that something was tearing through his insides. Through the buzz of pain and whirl of black-red confusion his world had become he felt his Soul tearing. His Nodes began to crumble; one of his lung Nodes burst, then his windpipe. Symbiotes died. The pain tore into his stomach, his liver Node. It felt like a fire inside of him, burning all he’d made, burning all he’d earned.
+
+Frantic, he and the Modules tried to force it out. His Soul contracted and pushed on it, but it simply shifted, moved with him. He tried to reach into himself with Soul Sense, grab at it, but his spiritual fingers slipped off.
+
+The Dark poured through him, the Thrill and the Mask and the Modules, all that he was forged instantly into one; the most perfect Zero-Twelve state of his new existence. The pain and panic of his body was instantly muted. Threat Analysis and Aiming identified the location of the invader. Simulations predicted its future movement.
+
+The Spectral Claw circled around behind him, formed a fist, and he slammed it into his own back, down and to the side. The air burst from his lungs and his Soul spasmed, but he felt the invader shift. He struck again, and filaments of red emerged from his chest and stomach. He grabbed at them with his hands where claws were forming, built by the Dark and Cyberwarfare, and he caught at the filaments, seized them and pulled. Dragging with teeth gritted tight he felt it tearing its way out of him. The Spectral Claw, moving purely in response to his mind and Soul Sense, hit again.
+
+The pain was immense but overwrit by the pure satisfaction of ripping it out of him. Snarling, grinning, he flexed and pulled and ripped. After a few more Heimlich-maneuver-like spiritual punches in the back, the thing was out enough that he brought the Spectral Claw around to aid his hands, dragging on the jagged mess of red energy coming out of him. His hands and his Soul Sense and the Spectral Claw all gripped and pulled and with a sudden burst, it came free. A thing of angry red energy writhing in his grasp, sinking hooks into his arm, trying to dig back into him.
+
+Nicolai gripped it tight with the Spectral Claw and hurled it away, sending it tumbling across the room. He rose, smoke rolling off his skin, blood pooling from the tears inside of him, coming up to fill his mouth. He coughed and spat blood, then briefly twisted to suck from the Rejuvenating Orb on his shoulder as he watched it.
+
+It was a pillar of crackling red light. Thick lines of energy rising from the ground to the ceiling, all sharp and spiked. Where it met ground and ceiling lines of angry red crawled over the stone. Towards the top of the pillar stark white light poured from triangular eye-holes and a jagged, gaping mouth, seeming like portals into a world of white-hot fire.
+
+It stared at him for a moment, and he sensed, insomuch as he could sense anything from it, something like surprise. But already it was gathering itself and he knew it was preparing to lunge, eager to get back into him and finish the job.
+
+Nicolai felt his insides knitting together, at least a little. He pulled away from the Rejuvenating Orb’s funnel, spat more salty blood, and knew he could not allow this thing to get into him a second time. The Modules, looking at the damage and read-outs from his BIS, told him he’d been lucky to survive the first time, and it had already taken all he had to throw it from him once. He needed to deal with it.
+
+It launched itself at him, the pillar roaring forward across the stone. He reached with the Spectral Claw, and the red energy darted, tried to dodge. But he read it easily, Simulations predicting its future. It was fast, very fast, but not fast enough. He caught it out the air and his teeth clenched in a vicious grin as he squeezed, the claws digging.
+
+But the creature didn’t die, the energy hissed and spat and tore at the Claw, and he felt an ache in his Soul, down his arm, as it damaged the Art and the Soul Sense guiding it. He even felt a pain from the Symbiotes within his Nodes, and was confronted by the horrifying possibility that this thing might cause some kind of backlash, through the Art, that may destroy them. He smashed it into the wall but it only got free, bounced and came for him.
+
+He plucked it from the air once more and this time pressed it against the wall, held it there even as it damaged him, and now he darted sideways, towards the Blade. He slid around the bot which had caused all this, still sitting there humming and buzzing, its Soul Sense shifting and rippling.
+
+The handle-covering portion of the Blade’s sheath popped off when he gave an order over Local, just as he’d designed it to do, and he seized it, drew it in a blur from its main sheath. The Blade wormed tighter into his grasp and clicked into his mind, the missing piece. A flare of will and it activated, came alive and whispered with hunger. The enemy broke free from the Spectral Claw but that was no longer a problem.
+
+Nicolai had the Blade in his left, bionic hand, and the Spectral Claw snapped back to hover close to his right. As he crept toward the spectre, he was ready.
+
+The red energy skittered at a wide angle, circling him just as he circled it, ready to spring. He sensed its thought, its desire. Simple, unrelenting hatred for him and all that he was, a need to ruin him. Nicola took that hate and reflected it straight back.
+
+He turned, sliced, and the Blade caught it as it lunged for him. Activated, the Blade hissed, its own energy reaching and tearing at the spirit. The spirit was sliced in half with a sound like ice breaking. But the two halves didn’t stop moving, and he didn’t sense it die.
+
+He raised his right hand and the Spectral Claw lunged, catching at one of the halves and dashing it against the ground. The portion of spirit wriggled and ripped its way free in time to catch the other one coming toward it, and the two shimmered and twisted and reformed into one.
+
+Nicolai danced across the room. He flicked his wrist and caught it just as it joined back together with another slice that halved it once more. The blade spun a circle, came back and sliced one of the halves again, into another half, but they kept on moving.
+
+The larger part had fell against the Assembler, and it was digging, worming its way inside, disappearing into it. His eyes shot wide. He knew how to heal his body and his Soul. He knew how to create new Nodes to replace those which had been damaged or broken. He could buy or find more Symbiotes. But repairing the Assembler was a more difficult matter. Much of it would be easy to repair. But some parts, deep inside, were irreplaceable. If they were damaged, the Assembler would become thirty tons of useless metal.
+
+Nicolai launched himself forward, reaching with the Spectral Claw, and seized at the part tunnelling into the Assembler, sinking the claws into it just before it could disappear wholly inside. He wrenched it out with a tearing of metal and hurled it to a corner of the room, and felt something within him unclench as he saw it come free, saw the Assembler had only suffered minor damage.
+
+Then he regarded the pieces of the being which had invaded his new home, his face stretched into a sneer of fury. This thing isn’t dying. It had been sent to ruin what he had made. His body, his Assembler, his still unfinished base. It was a punishment from Heaven and it did not die to normal methods.
+
+It must be some kind of spirit or demon. Some embodiment of entropy. Nicolai had been learning about these things, from the knowledge about the Black Gift. It was a related area, as the Black Gift meant he was liable to be afflicted by such beings.
+
+Against beings like this, that could not be killed through normal means, there were still methods. He had been reading about them. In this case, he needed to try and Seal it. He had never done such a task before, was only a novice in this arena, but it was his only chance.
