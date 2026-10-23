@@ -1,0 +1,283 @@
+Aurelion had been examining the changes in himself after connecting to my divine power when I realized he wasn’t carrying any weapons. The dark steel armor he wore clearly suggested a warrior-type Angel, yet he had nothing equipped.
+
+Perhaps he is a battle mage and relies on magic. I just hope he won’t drain too much of my divinity…
+
+Just imagining that I might have created a leech sent a shiver through me. If I had to supply him with my own divinity simply for him to exist…
+
+If the only way to earn Divinity Points is by hunting powerful creatures and gaining new believers, then I might be in trouble.
+
+The worry wasn’t only about Aurelion relying on me. With my believers being Velmoryns, a race that was likely among the rarest in the mortal world, I would eventually reach a point where gaining Divinity Points became difficult. My only option would be hunting powerful creatures for Soul Essences.
+
+Alright, I’m getting ahead of myself. Let’s first see what Aurelion can do, then worry about Divinity Points later.
+
+~ Status Window ~
+
+General Information
+
+Name:
+
+Aurelion
+
+Rank:
+
+Silver
+
+Race:
+
+Angel
+
+Age:
+
+6 Months
+
+Status:
+
+Elevated
+
+God:
+
+Verde
+
+Title:
+
+Lord’s Emissary
+
+Purpose:
+
+Verde’s Aegis
+
+Radiance:
+
+Mixed
+
+Attributes
+
+Physical Traits
+
+Name:
+
+Value:
+
+Strength:
+
+215
+
+Dexterity:
+
+183
+
+Agility:
+
+171
+
+Constitution:
+
+302
+
+Endurance:
+
+254
+
+Fortitude:
+
+232
+
+Mental Traits
+
+Name:
+
+Value:
+
+Intelligence:
+
+103
+
+Wisdom:
+
+87
+
+Perception:
+
+154
+
+Insight:
+
+3
+
+Willpower:
+
+196
+
+Empathy:
+
+100
+
+Divinity
+
+Name:
+
+Value:
+
+Capacity:
+
+27
+
+Control:
+
+13
+
+Recovery:
+
+3
+
+Reliance:
+
+1
+
+Total: 2071
+
+Skills
+
+Name:
+
+Value:
+
+Aegis
+
+Intermediate
+
+Obey the One
+
+Absolute
+
+Divine Kingdom
+
+Basic
+
+Reaper
+
+Absolute
+
+Glaivebound
+
+Unique
+
+For once, I was genuinely pleased by what I was seeing. Even if several things still seemed confusing, I felt certain that my improved Guidance would give me the full information this time, and I wouldn’t be left with more questions than I started with.
+
+[Aurelion]
+
+Your Angel was not born with many skills, because his purpose, protecting his god, centers on strength rather than shaping or commanding divinity. This path allows him to survive on 1 Divinity Point per month, and since he naturally regenerates 3, he can sustain himself without drawing from his god at all.
+
+He carries the title Lord’s Emissary. The title allows immediate teleportation within 3 meters of any of your believers or any relic bound to you.
+
+Skills:
+
+Aegis - Creates a protective barrier for 2 seconds, reducing all incoming damage to 1%. Cost: 2 Divinity Points. Cooldown: 1 minute.
+
+Divine Kingdom - Aurelion may pull a being into your dominion, but only with your explicit permission. He may exile them freely. Inside the dominion he cannot force contracts or alter anything without your will. Cost: 1 Divinity Point.
+
+Reaper - Grants the ability to reap the souls of those who act against the teachings of his god. Against such targets, all physical attributes increase by 20%. Reaped souls automatically convert into divinity unless intentionally preserved.
+
+Glaivebound - Aurelion has sworn never to wield any weapon besides a glaive. Upon activation, he gains +50% Strength, Dexterity, and Agility. Duration: 3 minutes. Cooldown: 1 hour. Aurelion requires at least a Mythic-tier glaive; lower tiers cannot withstand him. Mythic-tier weapons impose a –10% penalty to Strength, Dexterity, and Agility. No penalties apply if the weapon is Relic-tier or Celestial-tier.
+
+I was overjoyed. Not only was Aurelion able to sustain himself, but he was also another means of gaining Divinity Points. Yet that wasn’t what impressed me the most. While he didn’t possess many skills, a 50% boost to Agility, Strength, and Dexterity was absurdly strong, especially when paired with his already impressive physical attributes.
+
+But why is his Insight so low? Everything else is remarkable, but his Insight feels out of place.
+
+“Lord,” he called me. “The Elf who was in your kingdom. She woke while you were in slumber, and when she saw me, she began to cry.”
+
+Oh right… Karla.
+
+In all the excitement I had forgotten about her, or rather, I had been too occupied with everything else.
+
+“After that,” Aurelion continued, his wings twitching faintly, “the pressure of your kingdom became too much for her without your support. And since my connection to you, my Liege, had not yet formed, I could not help her endure it. So I returned her to the mortal realm and then met the priestess. She required guidance.”
+
+“Well done,” I said, relieved that Karla was safe. “Aurelion, do you have a weapon?”
+
+“No, my King,” he replied firmly. His feathers shifted, and I noticed that whenever something troubled him, or whenever he feared disappointing me, his wings twitched.
+
+I suspected as much…
+
+I had hoped he might be able to manifest a weapon from divinity or possess a Veilspace of his own.
+
+How am I supposed to get him a glaive? And not just any glaive, but one at Relic or Celestial tier?
+
+I wasn’t foolish enough to think I could forge such a weapon. Even a mortal blacksmith had already dismissed my creation, and I doubted Gundir could create Mythic-tier equipment, let alone Relics or Celestials that sounded as though they belonged to the world of deities.
+
+Aurelion lacking a glaive was a serious limitation. When the day came for the Night God to enter my forest, I would need Aurelion to fight at full strength, and losing a fifty-percent boost to his core physical attributes would be far too costly.
+
+So I activated Guidance.
+
+[To gain Mythic-tier or above weapons, you must commission a divine blacksmith. You may find them by visiting the Pantheon.]
+
+Of course I would need to visit the Pantheon…
+
+Ever since waking up, every path seemed to lead toward it. But I had other matters to settle before stepping into that place. I had been gone for six entire months. Even if Aurelion had handled the immediate issues, my absence would still have consequences. And above all, I was worried about the basilisk and Avenor. If my slumber had affected them as well, they would be in far worse condition than I had been, since neither lived in a realm where an Angel could care for them.
+
+I immediately willed the Window to appear before me and shifted it to where the basilisk was.
+
+The giant snake was inside a wide underground burrow. It had clearly shaped the place into a nest and was curled there comfortably. I reached toward it, trying to sense whether it was unconscious or simply asleep.
+
+“Basssilissssk… ssssleep,” it hissed into my mind.
+
+I froze. The basilisk was not only unharmed, but capable of grasping my intent and responding to it. I had never checked our connection before because its mind had always been too primitive to communicate. But my assumption that it would eventually develop into something closer to sentience proved correct.
+
+“Are you able to understand…” I began, wanting to test its intelligence, but the basilisk cut me off.
+
+“Bassssilisssk… ssssleep,” it hissed again and shifted its massive body as though settling more comfortably now that it had dismissed the annoying voice in its head.
+
+Only then did I notice the eggs beneath its coiled form. Two enormous eggs with green droplet-shaped spots rested under the serpent’s vast body. The basilisk, which I had assumed was male, turned out to be female, or at least capable of laying eggs.
+
+[The basilisk you created has the ability to reproduce by itself. However, the probability that its progeny will be connected to you and inherit its characteristics is less than 1%.]
+
+I liked the new Guidance. For the first time, I truly felt like a god instead of a charlatan pretending to understand things.
+
+There was no point observing the basilisk any longer, so I shifted the Window to Avenor. He was in the forest with Aria. They lay on one of the massive branches of a tall tree, their bodies tied securely to it with ropes. This was a method Velmoryns often used when forced to spend the night away from shelter.
+
+I tried reaching for him, checking if our connection had restored, but I found no thread that would allow me to speak to him. Only the one that let me inspect his mind remained, and it was more vivid than before.
+
+“Aria, are you asleep?” Avenor whispered. The rope pinning him to the branch didn’t allow him to raise his head enough to see her, though she lay opposite him, her head facing his.
+
+She did not respond.
+
+“I know you’re awake. I was just trying to be polite,” Avenor laughed, no longer bothering to whisper.
+
+“Then why even ask?” Aria sighed.
+
+“I told you. I was trying to be polite.”
+
+“What do you want?” Aria asked flatly.
+
+Avenor hesitated. The silence stretched long enough for Aria to lift her head slightly and glance at him.
+
+“Aria, while we’re away… will you teach me magic?”
+
+“Why the sudden interest?” Aria returned the question, still flat but noticeably more lively.
+
+“I figured that knowing magic is necessary in our world,” Avenor said after a small pause. “I can’t rely on you all the time. I know I will never become an archmage, even imagining that is absurd, but I might be able to learn simple spells.”
+
+“What is an archmage, Avenor?”
+
+“Hmm… someone very powerful. A mage who can change the fate of wars by themselves,” Avenor explained, then slapped a mosquito that had been feeding on the tip of his nose.
+
+“Oh…” Aria murmured, falling silent. She stared up at the small opening between the dense branches where the clear night sky showed through, filled with countless stars. She considered Avenor’s words for a moment before speaking again.
+
+“Avenor… sometimes the things you say and the way you speak… it sounds as though you don’t belong to our world.” She paused, checking his reaction. When none came, she continued. “I never believed that story about you losing your memory. I don’t believe it now.”
+
+“Then why agree to travel with me?”
+
+“Because I wouldn’t have been allowed to leave the tribe without you,” Aria chuckled softly. “And… because I trust you.”
+
+“You trust me?”
+
+“Despite how shamelessly you have lied to me,” Aria added quickly. “And to answer your request… yes, I will teach you magic.”
+
+Their conversation was no longer interesting to me. After confirming that Avenor was fine and that Aria showed no concern about the lie she had clearly uncovered, I shifted my attention back to my realm.
+
+“Aurelion,” I called. “I’ll be busy for a while, and I will trust the Velmoryns to you.”
+
+He dropped to one knee the same instant my voice reached him and struck his closed fist against his chest. The impact rang through his armor with a heavy metallic thud, like a blacksmith hammering impurities out of heated iron.
+
+I couldn’t help a small smile before tension overwhelmed me as I prepared for the one thing that genuinely scared me.
+
+I was about to enter the world of gods.
