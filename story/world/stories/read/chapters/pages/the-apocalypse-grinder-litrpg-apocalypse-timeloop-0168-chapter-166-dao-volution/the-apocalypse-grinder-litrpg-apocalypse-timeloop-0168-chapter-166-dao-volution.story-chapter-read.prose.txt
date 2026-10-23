@@ -1,0 +1,237 @@
+Ronan stared at the notification, ensuring he didn’t miss a single detail. He was hopeful about this one, a chronos merit on the line, but he was sure that whatever dao child evolved into would be spectacular, even if it was the same rarity.
+
+Congratulations for reaching Lv.50!
+
+You have reached the first threshold for your class! Class will evolve…
+
+You have not unlocked any special evolutions due to your achievements
+
+You have not unlocked any special evolutions due to your heritage
+
+You have not unlocked any special evolutions due to your race
+
+You have not unlocked any special evolutions due to alternative methods
+
+Please select a class evolution from the following:
+
+Dao Child (Legendary)
+
+Blessed by the Grand Dao, you are a child of providence. Talented in the arts of cultivation, you know the true path to perfection in this cosmos lies not in the plethora of skills and masteries available to challengers, but the cultivation of oneself. Mind, body, energy, and soul. Four gardens, each of which must be cultivated if one wishes to reach the pinnacle. Embrace your destiny as a chosen child of the cosmos.
+
+Cultivation talent x2.5
+
+Cultivation benefits are 60% more effective
+
+You are more likely to receive cultivation arts, and items that benefit your cultivation, or from your cultivation, from endless treasury tokens
+
++95 Free Stat Points on level up
+
+Unlock requirements:
+
+Challenger possesses the class [Dao Child (Legendary)]
+
+This wasn’t even an evolution in the sense that juggernaut to unrelenting juggernaut had been. It was exactly the same class.
+
+Admittedly the stat points and boosts that the class provided had increased by a small amount, but that was all that had changed. Then again, Ronan had to admit he hadn’t done much to warrant going beyond the current rarity.
+
+You have selected [Dao Child (Legendary)] as your class evolution!
+
+Initiating class infusion…
+
+The pain wasn’t nearly as bad as when he’d first chosen the class. The intensity of the pain probably had something to do with how much it was changing him.
+
+Infusion complete!
+
+Your class has evolved from [Dao Child (Legendary)] to [Dao Child (Legendary)]!
+
+Bonus stats for class have been retroactively applied
+
+Sitting beside the disintegrating corpse of the mini-boss, Ronan took out the mind-aspected shard and began to cultivate. There was no use saving resources when his next target was the boss.
+
+It took about half an hour for him to reach the next realm, but another ten minutes after that to fully absorb the shard. He pushed a little way towards reaching the first threshold in crystalline mind cultivation.
+
+Congratulations! Your hard work and effort have allowed you to reach the fifth realm of Crystalline Mind Cultivation!
+
+Crystalline Mind Cultivation has advanced from [Quartz ★★★★] to [Quartz ★★★★★]!
+
+Mental damage resistance +15%
+
+Efficacy of wisdom, dexterity, acuity, and charisma +25%
+
+Shaking the remainder of the shard dust from between his fingers, Ronan stood up. Vulparis had vanished, the mana that its body turned into reabsorbed by the world. The fact that even back on his own planet corpses turned into mana was strange to get used to. He’d thought it was a feature of the tutorial, but it seemed it was actually what happened once creatures interacted with mana. Or something along those lines.
+
+Ronan stepped to the side, in perfect control of his footwork as the eight-tailed fox flew through the air in front of him. His conjured shortsword cut through the air and the orange fur in a single fluid sweep, bisecting the monster.
+
+The two halves of the corpse thudded into the tiles, its guts spilling across the dirty floor. It was one of many, the final enemy on the final floor of the boss’ tower, by Ronan’s account.
+
+You have killed [Eight-Tailed Fox Lv.82-87]x6 and [Elite Eight-Tailed Fox Lv.83]!
+
++49 Bronze Credits
+
++382 Copper Credits
+
++17 [Dagger] Mastery
+
++2 [Dagger I] Mastery
+
++11 [Sword II] Mastery
+
++4 [Grappling] Mastery
+
++7 [Mana III] Mastery
+
++14 [Stamina III] Mastery
+
++4 [Perception I] Mastery
+
++2 [Pain I] Mastery
+
++6 [Health II] Mastery
+
++Fox Fur (Uncommon) x7
+
+You have leveled up to Lv.81!
+
+You have leveled up to Lv.82!
+
+You have leveled up to Lv.83!
+
+You have leveled up to Lv.84!
+
+You have leveled up to Lv.85!
+
+You have leveled up to Lv.86!
+
+You have leveled up to Lv.87!
+
+You have leveled up to Lv.88!
+
+You have been restored x8!
+
++8 Vitality
+
++8 Endurance
+
++16 Wisdom
+
++16 Intelligence
+
++24 Acuity
+
++776 Free Stat Points
+
+You have reached the mastery cap for [Dagger]!
+
+Dagger has evolved to Dagger I!
+
+When successfully striking with a dagger, gain an extra 5% chance to deal a critical hit. All secondary effects applied from dagger strikes have a 1% chance to become cascading effects.
+
+Gaining a tier in dagger mastery before reaching Veloxis was a great buff. While he wasn’t sure he would even trigger either of the procs it offered, even the off chance of doing so increased his chances of victory even further.
+
+Before entering the final floor Ronan pulled up his status to invest his free stat points. Reading through everything he’d acquired, he was shocked at the incredible quantity of stats, but also the progress he’d made in every other area. Things had changed since he was struggling to brawl a lesser goblin.
+
+Name: Ronan Steele
+
+Race: Human (G)
+
+Heritage: Reverberating Chronosphere (Current Iteration: 49) +
+
+Level: 88
+
+Class: Dao Child (Legendary)
+
+Sub-Class 1: Sorcerer (Uncommon)
+
+Fortune: 396 Bronze Credits, 857 Copper Credits
+
+[Stats] +
+
+Health: 7844/7844
+
+Stamina: 7801/7801
+
+Mana: 28228/28228
+
+Vitality: 370
+
+Endurance: 376.88 (+25)
+
+Wisdom: 1331.54
+
+Regeneration: 269.14
+
+Resistance: 280.89 (+28)
+
+Strength: 1166.66 (+166)
+
+Agility: 1156.44 (+115)
+
+Intelligence: 1339 (+133)
+
+Dexterity: 271.81
+
+Acuity: 547 (+36)
+
+Tenacity: 289.52
+
+Luck: 267 (+17)
+
+Charisma: 273.64 (+27)
+
+Available Points: 0
+
+[Traits]
+
+[Legendary]
+
+Fate Alignment (Personal)
+
+[Rare]
+
+Mineral Skeleton (Mutative), Berserk Cultivation Body (Mutative), Animal Prescience (Evolutionary), Manasynthetic (Evolutionary)
+
+[Skills]
+
+[Universal]
+
+Unified Language Adaptation
+
+[Epic]
+
+Reverberating Path (Blessing), Surging Strikes, Ethereal Slash
+
+[Rare]
+
+Learn Through Suffering (Cla5?), Light Manipulation, Arcane Piercing Strike (NEW), Cure Affliction (NEW), Mighty Strength (NEW)
+
+[Uncommon]
+
+Critical Tempo, Potent Wisdom, Dust Bomb, Treasure Hunter, Relentless Training, Weapons Expert - Melee, Gust, Counter-Parry, Suture Wound, Stone, Grip, Flash Fear, Calculation, Quintessential Charisma, Repair, Critical Experience, Conversion Cultivation, Dispel, Exceptional Palate, Magic Strike, Lightning Strike, Conjure Weapon, Accumulating Agility, Rampant Resistance (NEW), Fertility Sight (NEW), Summon Insect (NEW), Blueprint Manual (NEW), Intuitive Intelligence (NEW)
+
+[Common]
+
+Vital Surge, Magic Money, Excessive Endurance, Eagle Eye, Quick Forage, Negotiation, Enhanced Acuity, Freeloader, Limitless Luck, Fast Grow (NEW), Creative Connection (NEW)
+
+[Mastery]
+
+Pugilist II 11/100, Mana III 26/100, Sword II 3/100, Shield I 1/100, Staff II 4/100, Spear II 2/100, Stamina III 36/100, Pain II 5/100, Anti-Magic 12/100, Perception I 14/100, Leadership 2/100, Stealth 1/100, Grappling 11/100, Club I 9/100, Critical 28/100, Momentum II 3/100, Health II 13/100, Breath 1/100, Meditation 1/100, Mace II 2/100, Crafting 1/100, Dagger I 2/100, Throwing Knife 2/100, Sickle 6/100, Knuckleduster 12/100, Pan 1/100
+
+[Cultivation]
+
+Mind: Quartz ★★★★★ (21.7%)
+
+Body: Copper ★ (2.6%) [Diamondback Gorilla (Rare), 13.8%]
+
+Energy: Pulsing ★ (0%) [Nine Mouths Delta (Uncommon), 87.4%]
+
+Soul: Red ★★★★ (3.9%)
+
+[Blessings]
+
+Blessing of Chronos (Boundless), Minor Blessing of the Temporal Obelisk (Unique), Tellen Mark of the Guardian Initiate (Epic), Minor Blessing of the Chronos Forge (Unique)
+
+[Mutations]
+
++129% Mental resistance, +49% Magical damage resistance, +170% Physical damage resistance, +157% Toxicant resistance, +41% Exsanguination resistance, +69.57% Energy absorption efficiency, +217.49% All-Damage resistance, +1.2% Soul damage resistance
+
+Confident in his strength and abilities, Ronan pushed open the door that led to the top floor of the boss’ tower. It was time to confront the diminutive yet devastatingly lethal fox who’d kept him from claiming the sector until now. Whatever lay beyond the impassable boundaries that kept them locked into this part of the ruined city would unfold before him, and he would find out what the next phase of the integration was.

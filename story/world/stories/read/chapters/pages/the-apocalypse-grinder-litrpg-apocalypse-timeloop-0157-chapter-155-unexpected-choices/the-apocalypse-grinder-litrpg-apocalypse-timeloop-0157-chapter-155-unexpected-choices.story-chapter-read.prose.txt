@@ -1,0 +1,123 @@
+The first of the final two classes Ronan had noted down was a strange one. It dealt with things he still didn’t understand, and at a glance the class seemed weak, considering it carried the epic rarity.
+
+Seer (Epic)
+
+Peering into the future, you divine what fate has in store for you. Even for the most powerful diviners, there are aspects of the cosmos that remain hidden behind an unbreakable veil, but when it comes to the small stuff, you can shift course to ensure that lady luck smiles upon you.
+
+Efficacy of luck +25%
+
+Gain mastery over all luck and fate-based masteries minutely faster
+
+All divination and future-sight abilities are 30% more powerful and have their costs reduced by 25%
+
++7 Acuity, +16 Luck, +5 Free Stat Points on level up
+
+Receive Class Skill [Fortune Favours the Bold (Epic)] on class selection
+
+Receive Class Skill [Divination of the Seer (Epic)] on class selection
+
+Unlock requirements:
+
+Challenger has a fate-based personal trait
+
+Challenger has at least one luck-based skill
+
+Challenger has at least one trait or skill that involves a future-sight component
+
+When it came to the requirements for unlocking this particular class, Ronan had been confused about how he met them. It took a little thought to reach the answers, but they made sense once he’d reached them.
+
+His personal trait was obvious. It literally had ‘fate’ in the name. As for the luck-based skill, Ronan realised he actually had more than one, if his suspicions were correct. Both critical tempo and critical experience relied on critical hits, which were a form of luck. Perhaps critical tempo wouldn’t count as it wasn’t chance-based, but the latter certainly did.
+
+The hardest part to figure out was which of his traits or skills gave him future-sight. He wasn’t aware of being able to do such a thing at all, so it had stumped him. In the end, the fact it specified traits had given him the clue he needed. Animal prescience.
+
+That trait had been subtly helping him in combat ever since he earned it, though the feelings and sensations it gave were so subtle that Ronan rarely realised they were even being transmitted. Half the time his body probably acted on the information before his brain could realise he was getting it.
+
+Frankly he felt the class itself was pretty crap.
+
+It being epic and providing a large number of stat points was a positive, but the fact that they were limited to luck and acuity held it back somewhat. There was a large number of free stat points that he could assign as he pleased, but it was definitely not a class that would be suitable for combat. He wondered how anyone taking this class would complete the tutorial…
+
+The class skills did sound interesting, enough that he wanted to take the class at least once—if only to find out what it did. The luck efficacy boost might also allow him to earn some incredible items that he could take advantage of with his heritage.
+
+All of the first five classes paled in comparison to the sixth on the list. This last class was so incredible that Ronan almost took it right away. However, he knew now, after so many deaths, that there was truly no rush. If he’d unlocked it, it would be there every single iteration. Not to mention he had another plan this time. Anyway, onto the class and how obscenely powerful it was.
+
+Dao Child (Legendary)
+
+Blessed by the Grand Dao, you are a child of providence. Talented in the arts of cultivation, you know the true path to perfection in this cosmos lies not in the plethora of skills and masteries available to challengers, but the cultivation of oneself. Mind, body, energy, and soul. Four gardens, each of which must be cultivated if one wishes to reach the pinnacle. Embrace your destiny as a chosen child of the cosmos.
+
+Cultivation talent x2
+
+Cultivation benefits are 50% more effective
+
+You are more likely to receive cultivation arts, and items that benefit your cultivation, or from your cultivation, from endless treasury tokens
+
++80 Free Stat Points on level up
+
+Receive Class Skill [Reality Defying Cultivation (Legendary)] on class selection
+
+Receive Class Skill [Three Thousand Dao, One Destiny (Legendary)] on class selection
+
+Unlock requirements:
+
+Challenger has all cultivation paths at the fifth realm or higher at level 10
+
+Challenger has at least one cultivation path beyond the first threshold (sixth realm) at level 10
+
+Challenger possesses at least one cultivation art
+
+Challenger has at least one cultivation-related skill
+
+Challenger has at least one cultivation-related trait
+
+Not only were the requirements for this one utterly obscene, but the benefits were equally overpowered. To reach the levels of cultivation that Ronan had at his level had only been possible because of his heritage. How anyone in the damned universe could do so without that advantage didn’t bear thinking about.
+
+Not to mention the skill, trait, and cultivation art requirements. He would have needed to be born with a cultivation-plated spoon in his mouth. Then again, the name of the class did imply it required talent at a relatively young age. Dao Child.
+
+Ronan still wanted to just take this class right now. Not only would taking it immediately grant him an extra chronos merit for achieving a legendary class, but it had the potential to evolve into a class one step higher when he hit level 50. That was a potential two chronos merits in the bag.
+
+Despite the allure of further enhancements, he had a plan, and he was going to stick to it. Depending on how it went, he might only need one or two iterations to finish the plan, then he could take this class and see how far he could push himself.
+
+Doubled cultivation talent on top of all his existing bonuses would allow him to push all four cultivation paths over the first threshold at the very least. Going to the seventh or even eighth realm might be possible given enough time. And time was all he had in excess.
+
+Having seen the incredible power that was on offer, just a single thought and a painful infusion away, Ronan resisted the temptation and scrolled all the way back up the expansive list of classes. Then he made his selection.
+
+You have selected [Healer (Common)] as your class!
+
+Initiating class infusion…
+
+While it might have been an anti-climax, there was a great reason for selecting healer. Having mastered the mana bolt entirely without the system’s assistance, Ronan realised he’d been neglecting a very important aspect of, not just magic, but existing in this sort of world—the ability to heal himself.
+
+Relying on the system’s restorations each time he leveled up had become a bad habit. A habit that his increasing reliance on became a real weakness as he gradually increased the difficulty of his tutorial and those restorations came less and less often. Obtaining a few medicine-related skills had been his first wake-up call, but reassessing sorcery had been the final slap around the head.
+
+Ronan needed a method of self-sustenance. Now that he knew how to adapt spells, it was time to find out what the healer class offered and how he could steal it for himself.
+
+The infusion was relatively painless, at least in comparison to the agonising infusions he’d experienced with other, rarer classes.
+
+Class infusion complete! You have become a [Healer (Common)]!
+
+You have received the class skill [Minor Heal (Common)]!
+
+Minor Heal (Common): Using the power of magic, heal physical wounds, unseen maladies, and even internal damage to yourself and your allies. (Cost: 3 Mana per health point restored + Variable cost based on negative effects purged via healing).
+
+Bonus stats for class have been retroactively applied
+
+Ronan had actually forgotten what the stats even were for the healer class. Not very good given that it was a common class, but they would certainly be suited to the task. He pulled up the class description for good measure.
+
+Healer (Common)
+
+Healers are gifted in the art of restoration, able to use their mana to heal wounds, both seen and unseen.
+
+Gain a minor boost to efficacy of healing spells
+
+Gain a minor boost to mana regeneration
+
++1 Wisdom, +1 Regeneration, +1 Acuity, +1 Charisma on level up
+
+Receive Class Skill [Minor Heal (Common)] on class selection
+
+It was mostly magical stats with some regeneration and charisma thrown in. Looking back with the experience he’d gained, the regeneration and acuity made a lot more sense than they had the first time he’d read the descriptions of the seven basic classes. Ronan still didn’t understand why healers needed charisma. Bedside manner, perhaps.
+
+As he was level 16, he’d immediately gained 6 levels worth of the healer stats. The increase to his wisdom and acuity was fairly minor given that sorcery already boosted them, but the regeneration and charisma gains were noticeable.
+
+His class locked in, Ronan took a look around the forest just to make sure that no goblins had snuck up on him while he was busy. Thankfully it seemed like they were giving him a wide berth or he’d simply been lucky.
+
+There was one more task for him to complete before he sought out the enemies for stage 3. It was time to use his rare endless treasury tokens and find out what items he’d have to help him on his first attempt of the harder difficulty tutorial.

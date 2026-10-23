@@ -1,0 +1,187 @@
+First of all, Ronan wanted to check his status. Technically it didn’t exist when he was here, but his heritage had complete access to it and so he could view what it ‘theoretically’ would look like at level 0. A weird loophole, but beneficial nonetheless.
+
+It was far easier to analyse things when he didn’t have to worry about killing a suddenly-spawned goblin while racing through his lengthy status. Especially as he might need to consider fusing or upgrading some more of his skills soon enough.
+
+That was one decision where rushing could prove catastrophic.
+
+Name: Ronan Steele
+
+Race: Human (G)
+
+Heritage: Reverberating Chronosphere (Current Iteration: 41) +
+
+Level: 0
+
+Class: None
+
+Sub-Class 1: Sorcerer (Uncommon)
+
+Fortune: 0
+
+[Stats] +
+
+Health: 111/111
+
+Stamina: 234/234
+
+Mana: 72/72
+
+Vitality: 9
+
+Endurance: 13.88
+
+Wisdom: 5.54
+
+Regeneration: 4.14
+
+Resistance: 10.89
+
+Strength: 16.66 (+1)
+
+Agility: 6.44
+
+Intelligence: 8
+
+Dexterity: 6.81
+
+Acuity: 7
+
+Tenacity: 14.52
+
+Luck: 2
+
+Charisma: 3.64
+
+Available Points: 0
+
+[Traits]
+
+[Legendary]
+
+Fate Alignment (Personal)
+
+[Rare]
+
+Mineral Skeleton (Mutative), Berserk Cultivation Body (Mutative), Animal Prescience (Evolutionary), Manasynthetic (Evolutionary)
+
+[Skills]
+
+[Universal]
+
+Unified Language Adaptation
+
+[Epic]
+
+Reverberating Path (Blessing), Surging Strikes, Ethereal Slash (NEW)
+
+[Rare]
+
+Learn Through Suffering (Cla5?), Light Manipulation (NEW)
+
+[Uncommon]
+
+Critical Tempo, Mighty Strength, Potent Wisdom, Dust Bomb, Treasure Hunter, Relentless Training, Weapons Expert - Melee, Gust, Counter-Parry, Suture Wound, Stone, Grip, Flash Fear, Calculation, Quintessential Charisma, Repair, Critical Experience, Conversion Cultivation (NEW), Dispel (NEW), Exceptional Palate (NEW), Magic Strike, Lightning Strike (NEW), Conjure Weapon (NEW), Accumulating Agility (NEW)
+
+[Common]
+
+Vital Surge, Magic Money, Excessive Endurance, Eagle Eye, Quick Forage, Negotiation, Enhanced Acuity, Freeloader, Limitless Luck
+
+[Mastery]
+
+Pugilist II 17/100, Mana III 19/100, Sword II 2/100, Shield I 1/100, Staff II 9/100, Spear II 12/100, Stamina III 9/100, Pain II 13/100, Anti-Magic 29/100, Perception I 18/100, Leadership 5/100, Stealth 1/100, Grappling 9/100, Club I 25/100, Critical 17/100, Momentum II 7/100, Health II 5/100, Breath 3/100, Meditation 4/100, Mace II 7/100 (NEW), Crafting 2/100 (NEW), Dagger 11/100 (NEW), Throwing Knife 5/100 (NEW), Sickle 15/100 (NEW), Knuckleduster 18/100 (NEW), Pan 3/100 (NEW)
+
+[Cultivation]
+
+Mind: Quartz ★★★ (0.4%)
+
+Body: Stone ★★ (0.2%)
+
+Energy: Pulsing ★ (0%) [Nine Mouths Delta (Uncommon), 87.4%]
+
+Soul: Red ★★★★ (3.9%)
+
+[Blessings]
+
+Blessing of Chronos (Boundless), Minor Blessing of the Temporal Obelisk (Unique), Tellen Mark of the Guardian Initiate (Epic), Minor Blessing of the Chronos Forge (Unique)
+
+[Mutations]
+
++129% Mental resistance, +49% Magical damage resistance, +170% Physical damage resistance, +157% Toxicant resistance, +41% Exsanguination resistance, +69.57% Energy absorption efficiency (NEW), 217.49% All-Damage resistance (NEW), Soul damage resistance 1.2% (NEW)
+
+There was a hell of a lot of new information to sift through. A lot of it wasn’t that important—he wouldn’t use many of the new masteries regularly, that was for sure.
+
+However, much of it was incredibly important to take note of. During a fight there were a thousand and one ways Ronan could take down his opponents and knowing when to use each method at his disposal was key to winning more often.
+
+That went doubly so when it came to fights that he was at a disadvantage, such as when he faced Veloxis the Dreamweaver. When the time came to kill the boss for the first time, he wanted everything to go perfectly. Or at the very least, smoothly.
+
+His base stats were incredible. Many of them were still below the threshold of what a peak human could achieve, which he’d placed around 10 points in a given stat. However, plenty of his stats had gone beyond that, into the superhuman category.
+
+If he was to return to the normal difficulty tutorial now, he would breeze through it without much difficulty. Even Magriz’al wouldn’t pose much of a challenge.
+
+The plus sign besides his stats allowed Ronan to bring up a menu that showed his progress in hard work bears fruit. It was a useful addition to help him keep track of his base stats compared to those gained from fruits, even though the end result was the same.
+
+[Hard work bears fruit]
+
+???
+
+???
+
+Apple of Wisdom (0/10 Wisdom)
+
+???
+
+Staunch Lemon (0/10 Resistance)
+
+???
+
+Kiwi of Quickness (5/10 Agility)
+
+Orange of Intelligence (0/10 Intelligence)
+
+Dexterous Date (5/10 Dexterity)
+
+???
+
+???
+
+Lucky Banana (0/10 Luck)
+
+???
+
+Ronan had felt he was doing quite well with his fruit collection, but this drove reality home. He was barely even halfway through discovering them all. He needed to up his endless treasury game.
+
+Having appraised his gains, Ronan felt mostly ready to move on to his next challenge. It was time to take on the next difficulty of the tutorial, whatever it may be.
+
+As much as he wanted to rush headfirst into it, there were just a couple of things he needed to try before he did so. Not that he wouldn’t be able to test things in a harder difficulty, but it would be far simpler to do so on normal difficulty and just reset when he’d figured out what he needed to.
+
+His list of experiments wasn’t that long, but could take a decent chunk of iterations. They would mostly be short, so it wasn’t a big deal.
+
+Find out what happens when double-stacking sorcerer; see if he could push past the 10 point limit of fruits by going to 9 and then consuming a fortified fruit; utilise the nine mouths delta art, but with mana circulation while practicing sorcery to see if anything happens; try to randomly mimic spells to create sorcerer magic.
+
+Some could be accomplished in a single iteration, while others required fortune to be on his side. Maybe I can tip the scales in my favour with some heavy luck investment? Ronan wondered.
+
+He also wanted to see if he could forge some new skills or alloy his existing ones. That was better approached after his experiments, however, as he should have quite a few more skills under his belt to use, either as fuel or reagents. There was also the chance of obtaining more stat-boosting skills and drawing closer to his goal of creating an ultimate all-stat boosting skill.
+
+With nothing left to keep him in the ancestral grounds, Ronan threw one final look at the towering obsidian obelisk and the twisting spires of the chronos forge before preparing himself for some grinding.
+
+Beginning a new iteration, please stand by…
+
+As it turned out, his heritage was a real killjoy. Having selected sorcerer as his sub-class, it was no longer offered to him as a class option when he hit level 10. His first experiment complete, Ronan went through the rest of the hard difficulty tutorial annoyed, smashing anything that got in his way into smithereens using a club he’d obtained from a treasury drop.
+
+On the plus side, he did obtain a brand new type of stat fruit this iteration! That was the highlight; a thin silver lining to a colossal stormcloud.
+
+The fruit was called a bloodstained berry—fortified, in this instance—and it provided a plus 5 to vitality. The extra health was a great safety net, but he would have preferred to get one of his more useful stats. Nonetheless, he had infinite opportunities to do so and this was only the first experimental run.
+
+And the fruit really was the single highlight. The skill he obtained that run was perhaps the worst one he’d obtained to date.
+
+It was called ‘serious scribe’ and it made his handwriting exceptionally neat as well as allowing him to write much faster than before. Agility and dexterity literally already do that for me! Why do I need such a useless skill? Ronan inwardly cursed when he received it.
+
+He killed himself before going through the stress of stage 4. It just wasn’t worth it when he had better things to do. This iteration had pissed him off.
+
+The next iteration was far better. Ronan wanted to try and use the nine mouths delta mystic energy art, but instead of cultivating with it, he wanted to use the nine-stream circulation pattern with his own mana, rather than shard energy. The idea had come to him while he was cultivating and there was no harm in giving it a go.
+
+He’d be quite disappointed if it didn’t work, but it wouldn’t be the end of the world. He began to cycle his mana as usual after killing the goblin warrior in stage 1. After completing three cycles with the regular flow, he mimicked the splitting delta form of the art. There was resistance from his mana. It didn’t want to split.
+
+However, through sheer tenacity and brute force he was able to split his mana into three separate streams on the eighth cycle. That might have seemed like a rather pointless accomplishment, but the proof was in the pudding—he still only used a single point of mana, yet was able to create three separate streams of energy. And the change wasn’t simply aesthetic. When he began attempting to form structures above his palm, he found that the split-stream of mana was far more stable. The sphere of mana he created with it lasted about two-point-five times longer than a sphere created with his mana cycled in the regular pattern.
+
+By that point the two minute timer ran out and he was forced to move on to the next stage, but he couldn’t have been happier. His sorcery was advancing in leaps and bounds and soon he might be able to actually recreate a spell—or possibly create one of his own.

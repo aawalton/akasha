@@ -1,0 +1,225 @@
+Whirling to face the new arrival, Ronan conjured a shortsword in his right hand and formed a mana bolt in his left. The panic was overkill, as there was only a solitary goblin rogue staring back at him, hatred burning in its gaze.
+
+Without waiting for another moment, the rogue rushed towards him. Seeing its slaughtered kin had clearly driven it wild, as goblins were wont to do. That worked fine for Ronan.
+
+Unleashing the mana bolt into its face, he jumped forwards and drove the shortsword through its heart a moment after the explosion dissipated. A twin chime followed.
+
+Pulling up that kill notification, he was satisfied to see that he’d gained yet another level. Not only that, but the second message informed him that he had actually completed stage 2.
+
+You have killed [Goblin Rogue Lv.14]!
+
++132 Copper Credits
+
++3 [Mana III] Mastery
+
++5 [Sword II] Mastery
+
++1 [Stamina III] Mastery
+
++Goblin Toes (Common)
+
++Goblin Bracers Lv.14 (Common)
+
+You have leveled up to Lv.16!
+
++1 Vitality
+
++1 Endurance
+
++2 Wisdom
+
++2 Intelligence
+
++3 Acuity
+
++2 Free Stat Points
+
+Congratulations, you have cleared Stage 2 of the tutorial!
+
++435 Copper Credits
+
++Endless Treasury Token (Rare) x2
+
+Stage 3 begins now!
+
+It also reminded him that he had a class change pending. He’d ignored it in the middle of the fight, with the adrenaline racing, but now that he had real confirmation he was done with stage 2 he was ready to perform the infusion.
+
+First he did want to have a look at some of the interesting classes he’d unlocked access to. The full list was exhaustive already, but most of them weren’t worth pursuing—either they were like one he’d already used but worse, or simply not beneficial whatsoever.
+
+Congratulations for reaching Lv. 10!
+
+You have unlocked Class Selection!
+
+You have unlocked 23 special classes due to your achievements
+
+You have not unlocked any special classes due to your heritage
+
+You have not unlocked any special classes due to your race
+
+You have unlocked 5 special classes due to alternative methods
+
+Please select a class from the following:
+
+Fighter (Common)
+
+Mage (Common)
+
+Rogue (Common)
+
+Healer (Common)
+
+Tinkerer (Common)
+
+Ranger (Common)
+
+Defender (Common)
+
+Knight (Uncommon)
+
+Martial Artist (Uncommon)
+
+…
+
+Juggernaut (Rare)
+
+Weapons Master (Rare)
+
+…
+
+Lord of War (Rare)
+
+Wizard (Rare)
+
+Perfectionist (Rare)
+
+…
+
+Energy Manipulator (Epic)
+
+Seer (Epic)
+
+Dao Child (Legendary)
+
+While there were more classes than he was noting, the six Ronan picked out were either interesting from a theoretical point of view or were classes he wanted to explore in future iterations. The first of those was rather basic, but demonstrated a pattern that may continue into higher ranked classes.
+
+Lord of War (Rare)
+
+With overwhelming might and strategic insight, the lord of war dominates his foes. Possessed of a mastery over all weapons, there is no tactic or scenario that can possibly catch him off guard. If the field is battle, make sure you stand on his side, for those arrayed against the lord will find themselves filled with terror as he begins his work.
+
+Gain mastery over all weapons minutely faster.
+
+Body cultivation talent x2, all other cultivation talents x0.5
+
+Weapon switching from the inventory is instantaneous and seamless. You are able to wield weapons up to 25 levels above your own without penalties.
+
++2 Endurance, +6 Strength, +1 Tenacity, +6 Free Stat Points on level up
+
+Receive Class Skill [Battlefield Control (Rare)] on class selection
+
+Receive Class Skill [Strategy Switch (Rare)] on class selection
+
+Unlock requirements:
+
+Challenger has at least 10 weapon masteries unlocked, with at least 5 of those being tier I or higher
+
+Challenger has tempered body cultivation at 3rd realm or higher
+
+Challenger has a strength stat equal to or greater than their current level
+
+A while back Ronan had unlocked the weapons master class, which seemed to be an inferior version of the lord of war class. Both required him to possess a certain number of weapon-based masteries, along with a slew of other requirements, while also boosting those particular attributes.
+
+In a future iteration he would definitely be picking lord of war. Spending some time to develop all of his weapon masteries to higher tiers and unlocking the bonuses they offered was well worth the time investment.
+
+This class also showed that there were likely higher rarity classes he could unlock for either discovering more weapon masteries, or bringing the ones he already possessed to higher tiers at level 10. He wondered if there was an elite version of this class for having 10 masteries at tier I, II, or even III.
+
+The next class on the list was similar, in that it was also seemingly an evolution of a weaker class. However, it was an evolution of one of the original seven classes as far as Ronan could tell.
+
+Wizard (Rare)
+
+You are no mere apprentice. Having already mastered mana to a greater degree than the average mage, you also possess a number of magical skills with which to display your talent in wizardry. Everyone is running the same race, but your starting point is further along the route.
+
+Gain mastery over mana faster than usual
+
+Energy and mind cultivation talent x1.5, body cultivation talent x0.5
+
+When using a myriad skills tome, you will always receive a skill related to mana or magic
+
++5 Wisdom, +4 Intelligence, +3 Acuity on level up
+
+Receive Class Skill [Elemental Aspecting (Rare)] on class selection
+
+Receive Class Skill [Mana Bolt (Rare)] on class selection
+
+Receive Class Skill [Mana Barrier (Rare)] on class selection
+
+Unlock requirements:
+
+Challenger has Mana mastery at tier II or higher
+
+Challenger has Mystic Energy cultivation at 3rd realm or higher
+
+Challenger possesses at least 5 magic-based skills
+
+While it wasn’t possible to see the descriptions of class skills before choosing any given class, Ronan could guess what the wizard skills did without much difficulty. Mana bolt he’d already encountered, while mana barrier was clearly a magical shield. As for elemental aspecting, that was trickier, but still relatively self-explanatory; he suspected it would allow shifting other magic skills to a specific element.
+
+Creating a fireball from mana bolt or a barrier of water with the mana barrier skill sounded like the sort of thing that would be possible. The wizard class was interesting, but more for what it showed him about magic, than as a path he actually wished to follow.
+
+Sorcery was his chosen route to magical mastery, so he would no longer be letting the system corrupt his understanding. Not to say he wouldn’t take the lessons that simply knowing of the class offered, but he doubted it was worth his time leveling up. Especially as it was only rare.
+
+The third was the last rare class on his list of noteworthy classes. The name had seemed rather boring, but the class description piqued Ronan’s interest.
+
+Perfectionist (Rare)
+
+There are many who chase higher rarity skills, higher realms of cultivation, or ever greater levels in their pursuit of power. You shun those imperfect, hasty paths in favour of true refinement; the mastery of oneself, the world, and all that falls within those bounds.
+
+The threshold for unlocking new masteries is minutely lower.
+
+Gain progress in all masteries infinitesimally faster.
+
++21 Free Stat Points on level up
+
+Unlock requirements:
+
+Challenger has at least 25 masteries unlocked at level 10
+
+Challenger has at least 9 masteries at tier I or higher at level 10
+
+Challenger has at least 4 masteries at tier II or higher at level 10
+
+Challenger has at least 1 mastery at tier III or higher at level 10
+
+Of all the classes that Ronan had unlocked until now, perfectionist was the most interesting by far. To begin with, it gave him the most stat points per level of any rare class. More than that, all of those stat points were his to do with as he pleased, without any forced assignment.
+
+That wasn’t mentioning the debuff it had, in that the class did not grant him a single skill upon selection. No class skills, no regular skills.
+
+The tradeoff for that was the increased stat point count, and he suspected the fact that it gave a flat boost to every single mastery in existence—an absolutely absurd boon—played a large part in that as well. If nothing else, Ronan would certainly try this class a few times simply to see what random masteries he might gain, that he hadn’t quite breached the threshold for in the past.
+
+Moving onto the first epic class, things got a lot spicier. While Ronan had possessed an epic class before—unrelenting juggernaut—he’d never had the option to do so from level 10. The 40 levels of stat gain before first evolution and the better benefits would make all the difference.
+
+Energy Manipulator (Epic)
+
+All forms of energy are equal. Many great minds have posited this theory, some going further than others in their proofs. You have taken the first steps down this path, mastering multiple forms of energy manipulation despite your meagre level. How far will you tread on this endless road?
+
+Gain mastery over all forms of energy faster than usual.
+
+Mystic Energy cultivation talent x3, all other cultivation talent x0.8
+
+You are able to spend one other form of energy, aside from those a skill’s cost calls for, to replace the named forms of energy, up to 25% of the total cost of the skill.
+
++11 Vitality, +11 Endurance, +11 Wisdom on level up
+
+Receive Class Skill [Efficient Energy (Epic)] on class selection
+
+Unlock requirements:
+
+Challenger has 3 energy-based masteries at tier II or higher
+
+Challenger has Mystic Energy cultivation at the first threshold (sixth realm) or higher
+
+Weirdly, this class was less stringent in its requirements than something like perfectionist, as there were no level limits in the requirements. However, Ronan suspected the increased rarity was down to the fact that achieving the requirements was ridiculously hard for anyone who didn’t have his heritage, even if they were level 50 or perhaps 100.
+
+Gaining triple mystic energy cultivation talent for a few iterations might help him push it even further than he’d already reached. Having hit the first threshold, moving the progress forwards had become excessively difficult.
+
+With only one class skill, he had to assume it was a powerful one, but the lack of any free stat points did put him off the class a bit. Even so, all the investment going to his resources wasn’t bad, he just enjoyed having some freedom of choice in how he developed.
+
+While the first four noteworthy classes were all hard to unlock and provided interesting benefits or unlocked new avenues of thought, things began to get truly groundbreaking when it came to the final two on his list.

@@ -1,0 +1,201 @@
+You have killed [Tharaxes - BOSS][Hobgoblin Lich-Lord Lv.51]!
+
++13 Bronze Credits
+
++44 Copper Credits
+
++14 [Sword II] Mastery
+
++5 [Stamina III] Mastery
+
++9 [Momentum II] Mastery
+
++32 [Anti-Magic] Mastery
+
++3 [Pain II] Mastery
+
++9 [Health II] Mastery
+
++5 [Mana III] Mastery
+
++11 [Critical] Mastery
+
++Pyroclastic Storm Focus Lv.51 (Rare)
+
++Spark of the Undead (Rare)
+
++Boss Shard Lv.51 (Soul)
+
++Boss Shard Lv.51 (Energy)
+
+You have leveled up to Lv.44!
+
+…
+
+You have leveled up to Lv.50!
+
+You have been restored x3!
+
++7 Vitality
+
++35 Endurance
+
++14 Wisdom
+
++14 Resistance
+
++28 Strength
+
++14 Intelligence
+
++21 Acuity
+
++28 Tenacity
+
++21 Free Stat Points
+
+Congratulations for reaching Lv.50!
+
+You have reached the first threshold for your class! Class will evolve…
+
+…
+
+Congratulations, you have cleared Stage 4 of the tutorial!
+
+All basic system functions have been unlocked! Access will be restored once you exit the tutorial.
+
++11 Bronze Credits
+
++700 Copper Credits
+
++Myriad Skills Tome (Uncommon)
+
++Endless Treasury Token (Epic)
+
+Congratulations challenger, you have completed all stages of the tutorial! Your accomplishments ring out through the reaches of the system and you have been deemed worthy.
+
+Tutorial Assessment — [Ronan Steele]:
+
+Difficulty: Hard
+
+Kill Rating: B+
+
+Speed Rating: B
+
+Boss Rating: S-
+
+Accomplishment Rating: S-
+
+Overall Rating: A
+
+For clearing the tutorial at [Hard] difficulty with a [A] rating, you receive the following rewards:
+
++35 Free Stat Points
+
++23 Bronze Credits
+
++400 Copper Credits
+
++Endless Treasury Token (Uncommon) x3
+
++Skill Upgrade Shard (Uncommon) x3
+
++Rift Key (Uncommon)
+
+Please stand by for transport back to Planet 2.48e11E…
+
+Transport will begin in 120 seconds!
+
+120…
+
+There had been a brief moment, after the stage 4 completion notification, where Ronan feared he would be taken to a fifth stage. However, the hard difficulty tutorial kept the number of trials the same, and it was only the difficulty that had ramped up.
+
+Not only were the base rewards for completion much better, but Ronan had earned himself a far higher grade on his first hard difficulty tutorial completion than he had the first time he completed the normal difficulty tutorial. The bonus rewards for that were fantastic—even netting him a few more skill upgrade shards.
+
+Not only that, but the doubled timer after each stage continued even though the tutorial was complete. That had interesting implications, not only regarding higher difficulty tutorial completionists being held back for longer, but also about giving ‘better’ challengers more time to use their rewards and prepare to return home.
+
+“Holy shit, Ronan, that was amazing! You’re a scary dude. I’m glad you’re in our squad,” Howard exclaimed, pulling him into a bearhug once the shock of victory wore off.
+
+All of the summoned undead under Tharaxes’ command had perished along with the boss. Ronan wasn’t sure if that was how necromancy worked everywhere, or if it was simply how the tutorial managed things. He didn’t want to face a necromancer outside of the tutorial and think he was safe once he took out the major threat, only to get killed from behind by a summon that hadn’t fallen with its master.
+
+Once he’d extricated himself from Howard, Alyssa gave him a hug too, and Jenna bounded over with a big grin on her face. “You need to show me that anti-magic trick. I want to figure it out. I’m sure I can.”
+
+“Right. I’ll show you a few times, but first I want to go over the loot. There’s a lot to read,” he replied, waving her away.
+
+Jenna was a talented mage, but Ronan wasn’t sure she was talented enough for sorcery. Even so, there was no harm showing her the skill. This wasn’t a permanent timeline, as far as he was aware, but the moment he started treating other people as disposable was the moment he stepped onto a very slippery slope. Hell, I’m probably already near the top of that slope, he thought to himself, looking back on a few of his messier iterations.
+
+First things first, Ronan evolved his class. He still only had the one evolution for juggernaut—unrelenting juggernaut. It was a basic evolution, but powerful. He had hoped for an evolution to sorcerer, as well, but unfortunately it didn’t happen.
+
+That threw him for a loop. Will all my sub-classes be prevented from evolving at the regular milestones, or is it only sorcerer? The system warned that it was a class beyond its purview, and even though I gained class skills that helped with magic, perhaps there is no evolutionary path except to master magic on my own terms…
+
+There was nothing he could do about it while stuck in the tutorial for another minute and a half, so he simply moved on to what he could solve. Assigning his free stat points was simple, copying the distribution he’d previously used.
+
+Having completed the hard difficulty tutorial, Ronan wanted to spend the rest of this iteration exploring the sector, to see if anything had changed now that he was coming from a different tutorial. Would he still encounter Lord Rockmore’s men, and the foxes? How would those interactions differ?
+
+He had dozens of questions, but they could only be answered once he left the tutorial.
+
+[Myriad Skills Tome (Uncommon)] has been consumed!
+
+You have received the skill [Exceptional Palate (Uncommon)]!
+
+Exceptional Palate (Uncommon): This skill transforms the palate of the user so that they are able to pair flavours with near-perfect precision. May cause excessive sensitivity to harsh flavours.
+
+His latest skill was interesting. Perhaps one of the first examples of a skill that he felt had almost zero combat potential. Despite that, Ronan still enjoyed obtaining it. Eating was one of life’s greatest pleasures, and while his current mode of existence had somewhat negated that need, he now had a way of preparing incredible food for himself when he did eventually get a chance to take a break from fighting.
+
+[Endless Treasury Token (Uncommon)] has been consumed x3!
+
+You have received [Lesser Mana Potion (Uncommon)] x5!
+
+Lesser Mana Potion (Uncommon)
+
+A poorly mixed potion that restores the user’s mana over time. Restores 5 mana per minute for 30 minutes.
+
+You have received [Fortified Dexterous Date (Uncommon)]!
+
+Fortified Dexterous Date (Uncommon)
+
+Rich and sweet fruits with soft and chewy flesh that improve fine motor control and hand-eye coordination. This variant received more energy while growing, and gives joints far greater flexibility.
+
++5 Dexterity
+
+You have received [Nine Mouths Delta Mystic Energy Art (Uncommon)]!
+
+Nine Mouths Delta Mystic Energy Art (Uncommon)
+
+This mystic energy cultivation art was created by a crocodile that evolved to sapience, who used its formative experiences in the Nine Mouths Delta to create a method that surpassed that of the average cultivator. By circulating shard energy through nine pathways, before returning to one, the delta is formed.
+
+This was one of the first times that opening the endless treasury had left Ronan stumped. And it wasn’t because of the cultivation art.
+
+In fact, the cultivation method was something he had expected to show up at some point. The system even hinted as such. A second stat fruit in a single iteration was a great bonus, too, and the dexterous date tasted like a rich mouthful of caramel.
+
+No, what left Ronan bamboozled was receiving some mana potions. Something as ordinary as a potion is what he would have expected as one of his first item pulls, but it had taken over 40 iterations to receive them once.
+
+In any case, it was a curious new discovery and he would make sure to use them before he died this time around. The regeneration rate they provided wasn’t much better than his natural regeneration after the stats he’d gained, but doubling it for 30 minutes was still fantastic.
+
+He wasn’t sure how the manual was going to work, so he saved it to use when he left the tutorial and could spend a few hours alone. Ronan didn’t want to waste the opportunity to learn a more efficient cultivation method.
+
+As for the upgrade shards, he could use them right away. Ronan dismantled the uncommon shards into common ones, obtaining 9 of them. That meant he might get the opportunity to upgrade any of his common skills, and not just the cheapest ones, like the last time he’d received the uncommon upgrade shards.
+
+Skills available for evolution:
+
+Magic Strike [Cost: 8 Skill Upgrade Shards (Common)]
+
+Vital Surge [Cost: 5 Skill Upgrade Shards (Common)]
+
+Magic Money [Cost: 5 Skill Upgrade Shards (Common)]
+
+Excessive Endurance [Cost: 6 Skill Upgrade Shards (Common)]
+
+Eagle Eye [Cost: 5 Skill Upgrade Shards (Common)]
+
+Quick Forage [Cost: 5 Skill Upgrade Shards (Common)]
+
+Negotiation [Cost: 5 Skill Upgrade Shards (Common)]
+
+Enhanced Acuity [Cost: 6 Skill Upgrade Shards (Common)]
+
+Freeloader [Cost: 7 Skill Upgrade Shards (Common)]
+
+Limitless Luck [Cost: 8 Skill Upgrade Shards (Common)]
+
+That he would be wasting at least one of the shards no matter which option he picked irked Ronan, but there was nothing to be done about it. The choice was tough. He briefly considered limitless luck—luck had proven to be a powerful stat. In the end though, he went with one of his oldest and most useful skills. It was time to give magic strike a much-needed makeover.

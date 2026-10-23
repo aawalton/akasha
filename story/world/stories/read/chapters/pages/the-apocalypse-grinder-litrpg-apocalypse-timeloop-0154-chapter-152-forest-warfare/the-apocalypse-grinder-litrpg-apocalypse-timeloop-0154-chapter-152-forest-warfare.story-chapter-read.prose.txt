@@ -1,0 +1,151 @@
+Listening intently and doing his best to fade into the background of the forest, Ronan watched the fog in the direction he’d heard the crunching leaves. In his hand he gripped his conjured dagger, ready to strike at a moment’s notice.
+
+The first monster broke through the mist. Gnarled legs, roughly-hewn leather armour covering its entire body, and a sword and shield held in its stubby hands. One of his oldest friends in this new world.
+
+A goblin.
+
+Another one stepped out behind the first, this one also armour-clad, but with a bow held in its hands and a quiver on its back. Ronan waited another moment to see if there would be a third, but it seemed it was just the two goblins.
+
+They hadn’t noticed him, which meant he had the opportunity to strike first. They were in front of him, but with how he was pressed against the tree they might not see him even when they walked past.
+
+[Goblin Warrior Lv.6]
+
+[Goblin Rogue Lv.6]
+
+Their levels weren’t an issue and their classes were standard. Even so, he was well aware that not only was he at a level disadvantage, but in this difficulty he would likely get restored even less than in hard difficulty. Wounds were a bad trophy to collect.
+
+Breathing softly to ensure he made as little sound as possible, he waited for the perfect moment to strike. The two goblins seemed to be wandering without a specific goal. The warrior passed his tree, coming fully into view.
+
+A slight turn of its head to the right and it would spot Ronan. If that happened he was ready to strike instantly. However, it would be better to take out the archer first, so he remained patient.
+
+The warrior never looked his way. Two seconds later the archer appeared. Unfortunately it seemed that the rogue was more observant than its companion. The creature’s head was on a swivel, turning left to observe the forest as it walked past the tree.
+
+As its head began to turn in his direction, Ronan made his move.
+
+Leaping from his spot against the tree, he crossed the distance between himself and the goblin rogue in less than a second. The creature’s head snapped right at the sound. It was too late.
+
+Blood spurted into the air as his magic dagger pierced the side of its neck. Pressing a foot against the goblin’s spine, Ronan shoved it forwards into the confused warrior, ripping out the dagger to seal the deal.
+
+You have killed [Goblin Rogue Lv.6]!
+
++28 Copper Credits
+
++6 [Dagger] Mastery
+
++1 [Stamina III] Mastery
+
++7 [Stealth] Mastery
+
++3 [Perception I] Mastery
+
++Goblin Toes (Common)
+
+You have leveled up to Lv.1!
+
+You have leveled up to Lv.2!
+
+You have leveled up to Lv.3!
+
+You have leveled up to Lv.4!
+
+You have leveled up to Lv.5!
+
+You have leveled up to Lv.6!
+
+You have leveled up to Lv.7!
+
+You have been restored x2!
+
++7 Vitality
+
++7 Endurance
+
++14 Wisdom
+
++14 Intelligence
+
++21 Acuity
+
++14 Free Stat Points
+
+A single kill had put Ronan into a position of strength. The warrior stumbled as the corpse of its kin crashed against it. The goblin screeched in fury at Ronan while recovering its balance. However, Ronan was a higher level than the warrior now. There was nothing for him to fear.
+
+With enough distance between them, Ronan didn’t need to get his hands dirty. He pushed mana towards his hand, forming a mana bolt in a little over a second, before flicking it right at the warrior.
+
+The ugly monster barely had time to utter another syllable before the bolt struck it right in the face. In a gory spray of blood, bone, and brain, the goblin’s head exploded.
+
+You have killed [Goblin Warrior Lv.6]!
+
++27 Copper Credits
+
++1 [Mana III] Mastery
+
++4 [Stealth] Mastery
+
++Goblin Toes (Common)
+
++Worn Shortsword Lv.6 (Common)
+
+You have leveled up to Lv.8!
+
++1 Vitality
+
++1 Endurance
+
++2 Wisdom
+
++2 Intelligence
+
++3 Acuity
+
++2 Free Stat Points
+
+Congratulations, you have cleared Stage 1 of the tutorial!
+
+[Inventory] access has been granted at minimum functionality. Improve inventory metrics by spending system credits or through other approved means. Open inventory through mental, verbal, or spiritual command.
+
++213 Copper Credits
+
++Myriad Skills Tome (Rare)
+
+Stage 2 begins now!
+
+Ronan was about to brush the message away, already knowing its contents, when he suddenly noticed the final line. It had changed.
+
+In all his previous tutorials he would get a countdown before being transported to the next stage. Begins now? What the hell, does that mean I’m— His thoughts were cut short as an odd wave of energy pulsed through the forest.
+
+Expecting to be yanked into the void as always happened between stages, Ronan was left perplexed when the sensation passed and he was still standing in the forest. A few seconds later he was still there. He had to accept that the system had flipped its own rules upside down.
+
+The battlefield had changed and he would have to adapt, or die.
+
+It seemed that in the harder difficulty tutorial there was no changing environments between stages, but rather an expansion of the same scenario. Ronan pondered the implications as he continued moving through the forest, keeping his guard up for more goblins.
+
+After travelling for five minutes or so without encountering a single monster, he became confused. Deciding against further aimless wandering, he found a comfortable looking tree and sat at its base. For completing stage 1 he had earned his usual reward, only it had been upgraded a notch.
+
+Taking out the myriad skills tome, Ronan ran a hand over the cover. It looked functionally identical to the other rarities of tome, but there was a faint blue glow hanging over the book, whereas the uncommon tomes shimmered with a green hue, and the common without any sparkle at all.
+
+Not wanting to get caught while resting, he used the tome right away. His only rare skill at the moment was learn through suffering, and that had been cheesed from the adaptive martial artist class. This opening of a myriad skills tome would provide him with his first ‘real’ rare skill.
+
+As the pages flipped over one by one, his anticipation grew. As the book stopped at the central page, a blue burst of light lit up the clearing. When it faded, the myriad skills tome had been replaced by a system message.
+
+[Myriad Skills Tome (Rare)] has been consumed!
+
+You have received the skill [Arcane Piercing Strike (Rare)]!
+
+Arcane Piercing Strike (Rare): Combining a deft application of mana with a physical weapon, this skill enables the user to bypass a portion of their target’s armour, dealing lethal damage. Must be used in conjunction with a weapon capable of piercing damage. (Cost: 25 Mana + 40 Stamina + 2.5% Max Mana)
+
+Similar in nature to his other ‘strike’ skills, but geared more towards assassination than frontal assaults. Even so, Ronan suspected it would come in handy against heavily armoured opponents. If he’d had this skill against the elite death knight cataphract, for example, the battle would have ended far sooner.
+
+He doubted this was an example of a pinnacle rare skill, but he was more than satisfied to receive a useful combat skill instead of a utility skill, or even worse, a skill that was useless. Having used his tome, Ronan stood back up and listened for enemies while observing his surroundings.
+
+No goblins had snuck up on him while he was resting, which meant he would need to seek them out himself. Unfortunately quick forage was only for finding plants and other edible things, not monsters. Otherwise he would have been able to track his foes. Actually, a tracking skill would be neat. I’m not much of an outdoorsman, so I think accepting the system’s help there is fine, he thought to himself.
+
+Unfortunately that wasn’t something he could rectify right away. Or by choice. He could learn a little about how to track goblins simply by doing what he was doing right now. It would add up slowly over time, but he doubted it would compare to having a dedicated skill for tracking.
+
+Given that stage 1 had consisted of a pair of goblins, seemingly wandering without purpose, Ronan tried to think about what this stage might consist of. That the environment hadn’t changed was a major clue.
+
+Thus far, all of the tutorials had been lairs or dungeons of some kind. This one was bound to follow that trend, even if in a different manner.
+
+A village or fortress in the forest, perhaps? Will all four stages be here? Ronan sighed at the lack of variety. I thought I’d escaped the goblins, what with the lich theme, but I suppose Tharaxes was still a goblin at its core. I’ll look for signs of civilization while staying on my guard. Not sure what a goblin settlement would look like, though…
+
+Chatter drifted on the breeze, scratching at his ears. Garbled sounds, faint, but definitively goblin-like. They came from his left, so Ronan hid behind a tree, then looked in that direction.
