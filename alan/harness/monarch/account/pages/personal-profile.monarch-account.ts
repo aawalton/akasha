@@ -8,11 +8,11 @@ export const personalProfile = {
   definition: "money the family has, sitting in a checking account",
   monarchId: "148836305531181242",
   accountDisplayName: "Personal Profile",
-  currentBalance: 89.15,
+  currentBalance: 131.15,
   accountType: "depository",
   asset: true,
   accountActive: true,
   accountHidden: false,
   createdAt: "2026-09-03T03:39:10.888Z",
-  updatedAt: "2026-10-18T06:19:13.690Z",
+  updatedAt: "2026-10-23T06:23:49.807Z",
 } as const satisfies MonarchAccount
