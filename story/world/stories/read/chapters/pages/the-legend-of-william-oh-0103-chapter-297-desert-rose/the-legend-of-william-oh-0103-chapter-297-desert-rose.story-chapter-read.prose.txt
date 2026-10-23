@@ -1,0 +1,327 @@
+Brianna delivered several crates full of Relics from Akul the next morning, relayed from team to team to make it to the 10th Floor in a single night.
+
+Will got cooking.
+
+He suspected that his vassals and his Stronghold would be used against him, but he couldn’t be absolutely sure how.
+
+So Will needed a couple specific affixes, for things like resisting curses, and a smattering of more general affixes, like simple damage resistance.
+
+Lover’s Ring (x2)
+
++4 Resistance
+
++4 Focus
+
+Damage and debuffs taken are split between the wearer of this ring and its counterpart, weighted by the Resistance and Focus of the pair, respectively.
+
+User is notified when their counterpart is damaged or debuffed, and they are given the distance and direction.
+
+Excellent addition to the mix. Will thought. Paired Lover’s rings were hard to come by, so they could only get the one set. Will would add them during the final mix to the two different Relics and that way all citizens would be considered as wearing both pieces of the set.
+
+That being said, is it gonna make some kind of damage resonance and make them explode? Will paused for a moment, picturing everyone in the entire Stronghold exploding the instant someone got a papercut.
+
+If you threw Frederick Wyrd’s damage-loop Build into the mix, that certainly might happen.
+
+…No, it wouldn’t do that. There’s no damage amplifier. But just in case, I should probably add a damage sink to prevent infinite combos. Or just ditch the Lover’s rings.
+
+…am I just being paranoid? Will liked the idea of his citizens being able to resist damage and debuffs, and knowing when and where other citizens were in danger, but creating any kind of link between them was just asking for someone to exploit it somehow.
+
+After thinking about it for a minute, Will decided he was going in circles. There was always an exploit of some kind, and his citizens would be safer with the effect in place. He would just have to add some safeguards against someone trying to take advantage.
+
+Safeguard #1: Not telling a damn person about it.
+
+Safeguard #2: Damage sinks and breakpoints built into the Relics. Anything that could decrease the amount of damage received on each jump, or dump it all at once into something else if it would wind up going infinite.
+
+After a bit of searching, Will found both of those things.
+
+Chain shirt of Protection
+
++4 Resistance
+
+25% damage reduction.
+
+Having a few of these mixed in would make it so that damage was reduced with each jump, rather than boosted.
+
+Sacrificial Plate
+
++4 Strength,
+
++5 Resistance
+
+When damage above the lethal amount is dealt to the wearer, that damage is instead done to Sacrificial Plate, destroying it.
+
+The sacrificial plate was what Will thought of a ‘breakpoint’. The relic in the Helping Hand would destroy itself before it could become a link in any kind of infinite damage loop able to explode someone.
+
+First thing’s first, I need to know check what percentage of the affix is retained in Helping Hand with something disposable, and whether people will notice.
+
+Ring of the Protector
+
++2 Strength
+
++3 Resistance
+
++2 Focus
+
++25% to Tank Archetype Abilities.
+
+Will tossed the Ring of the Protector to the Helping Hand.
+
+The skeletal hand came to life and snatched the ring out of the air with surprising dexterity. The ivory flesh flooded with Miasma in an intricate pattern that seemed to be an echo of the ring’s miasma, like a repeating pattern created in oil paint had been smeared from the fingers down to the wrist.
+
+Where the wrist of the hand met with the altar, a pattern of miasma bloomed and spread through the air, filling the vault in a heartbeat.
+
+Will blinked a couple times and the pattern settled into the background, becoming the natural state of being, similar to Loth’s Draconic Domain.
+
+Will checked the hand.
+
+Helping Hand (left)
+
++2 Strength
+
++3 Resistance
+
++2 Focus
+
++1.25% to Tank Archetype Abilities.
+
+So it appears Helping Hands retain five percent of the original affix. I can work with that. Just need bigger numbers going in. Should be easy enough with Sourdough. But first we have to check and see if anyone noticed.
+
+Will dashed out of his tower and hoofed it over to the town hall, slipping past a line of Climbers consulting the clerks with various paperwork and poking his head into the Logistician’s office.
+
+The Major speed boost was in effect and Will could see Badur’s hand blurring over his documents, sheets of paper moving from his inbox to the outgoing in fractions of a second.
+
+Knock knock.
+
+Will knocked on the door frame as he leaned into the office.
+
+“Eh?” Badur adjusted his glasses as he looked up.
+
+“Anything weird happen in the last few minutes?” Will asked, not wanting to lead the conversation by being too specific.
+
+“A Climber named Horvus stepped on a nail and got sent to the field hospital. A bunch of farmers are purchasing plots of land through the Town Hall so we’re swamped.
+
+“Purchasing how?” Will asked.
+
+“They pay us upfront a tiny amount for the land, we tax small portion of the crop, and most importantly, we get Influence from XP generated by their labor.”
+
+“Really?” Will asked, losing focus on the Helping Hands experiment. “How much?”
+
+“Maybe a dozen Influence per farm per year.”
+
+Will clicked his tongue.
+
+Sure, when he had several thousand farms stretching from horizon to horizon like Akul, that would be a significant amount, but at the moment, it meant nearly nothing to him.
+
+Wait a second.
+
+“Does that value go up with the size of the parcel?”
+
+“It’s related to output, but output and size are linked, so,” Badur shrugged.
+
+Huh. That’s interesting. It seems like a compensation for establishing enough farms to cut down on monster spawns.
+
+Typically monsters spawned outside the farms and then pushed in. If Will’s farms eventually dominated the landscape that would eat into Jorn’s ability to generate Influence. Jorn had to cover a huge amount of acreage to make nearly a thousand influence per day. That same amount as farmland would probably generate…six hundred?
+
+Interesting.
+
+“Nothing else happened?” Will asked.
+
+“No, not really,” Badur shrugged, adjusted his glasses and returned to his work. “Also, what time is it?”
+
+“Noon.” Will said.
+
+“STILL!?” Badur demanded.
+
+“Your damned ‘Major speed boost’ is a curse!” Badur spat, pointing a feather quill at him.
+
+It really warmed Will’s heart to see the stick-thin spineless busy-body that used to end every sentence with a deferential ‘milord’ snarling at him.
+
+Stress will do that to people.
+
+“I’ll see what we can do to tweak the workload,” Will replied. “How’re things going with Polly.”
+
+“By the end of an eight hour workday, it feels like I haven’t seen Polly in a week, and she’s starting to think I’m clingy.”
+
+“Well, you two married yet?” Will asked with a sly grin and wiggling eyebrows, intending to tease Badur.
+
+“Last year. There was a ceremony.”
+
+“Seriously?”
+
+“Yes, milord. You didn’t receive an invitation.”
+
+“How rude!” Will gasped. He didn’t want to be invited, but it would’ve been inappropriate not to invite his Lord.
+
+“I did send you one via the post as was appropriate. I then received it and turned it down on your behalf.”
+
+“Do you go through my mail?” Will asked.
+
+“Yes, milord.” Badur pointed at a massive stack of letters on his desk. “Most of it is people trying to defraud you somehow.”
+
+Will stared at the stack of letters that seemed to carry with them an ominous aura of drudgery.
+
+“…keep it up.” Will gave Badur a thumb’s-up. “And get yourself a watch. Take eight-hour shifts under the speed boost and take the rest of the days off if you like.”
+
+“Eight hours on, twenty-three hours off, eh?” Badur said, rubbing his chin. “I could do that. Or maybe some kind of split shift schedule, eight on, eleven off. Or if I could sleep on the job…”
+
+Will’s brows raised at the man who had literally borrowed a half inch of space from a wagon considering using the Major Speed boost of the Town Hall to catch up on sleep, essentially embezzling work-hours.
+
+I’m so proud of him.
+
+Will wiped the manly tear away and went back to his experiment, listening to the word on the street and consulting with the heads of various departments around the Stronghold.
+
+If anyone had noticed a 1.25% boost to their Tank Abilities in their Status, nobody was talking about it. and if anyone had seen anything, everyone would be talking about it.
+
+Another side effect of being a frontier town.
+
+Excellent. Maybe it’s because the Phantom Hands are so naturally sneaky.
+
+Will went back to his vault and got to work making the matching set of Lover’s rings as powerful as he possibly could, equipping the Ring of Explosive Doughmaking and putting them through four iterations of Sourdough over the course of an hour, consuming an obscene amount of Relics over the course of four iterations of Sourdough, twice over.
+
+More than four iterations saw drastically diminishing returns, at which point it no longer made any sense to keep going.
+
+The result of dipping into Will’s massive fund at Akul’s Exchange Hall:
+
+Huh, the rings changed shape. Will thought as he inspected the two rings.
+
+The color had reddened a bit, taking on a copperish hue, with a rose stamped into the center of the simple ruddy gold band.
+
+Will had baked the two Lover’s rings last, putting them together in the exact same blend of Relic ash. If he had made them separately, he was worried that they would no longer be paired. He could’ve gotten more effects if he had baked them separately, but It wasn’t worth losing their pairing.
+
+The Desert Rose (X2)
+
++15 Strength
+
++32 Resistance
+
++13 Kinesthetics
+
++18 Acuity
+
++30 Focus
+
+These paired rings tell the tale of a tragic love that bloomed in adversity. While worn, This Relic hides itself and causes Physical, Mental, energy-based, causal, and Ability-based Bindings to be slowly worn away. Aids in escaping grapples, adhesives, engulfing attacks, resisting slow debuffs, and allows the wearer to fit through significantly narrower spaces than they might’ve otherwise. Scales with Focus.
+
+347% Damage reduction*
+
+120% less food and water consumed*
+
++300% potency to Artisan, Mining, and Production type Abilities
+
++250% resistance to disease, curse, charm effects, Blackmail, Social Anxiety, poison, paralysis, indigestion, adverse environmental conditions.*
+
+Damage dealt to the wearer is partially offloaded to the one who wears the matching ring, weighted by Resistance.
+
+Damage that would exceed all resistances and be lethal to one or both users is instead directed to the rings, destroying both.
+
+Excess Charge regen not used by one wearer may be consumed to heal the other, as appropriate.
+
+*Resistance over 100% does not exist, there is a diminishing curve as the resistance approaches 100%. Resistance over 100% is primary illustrative for the purposes of calculating the outcome when the effect is split or debuffs are applied.
+
+The ingredients included a couple Rings of Total Freedom, Protection-Suffix Relics, dozens of debuff-resistance Relics, a rare healing Relic, starvation survival equipment, and high-end crafter gear, as a bonus to his workers.
+
+In fact, if the Helping Hands were ever discovered, Will could say that the Helping Hand was only for boosting the effectiveness of his crafters. That was the lie he was going to stick with, anyway.
+
+Besides, Will wanted to get some use out of it while it was operational.
+
+Will paused, inspecting the ring.
+
+Gods, I want to hold onto these. They’re so damn good!
+
+And expensive. The cost of commissioning all the specialists of the Burned Stronghold and getting them to the 10th Floor was less than the cost of the two Rings of Total Freedom he’d added to the mix, let alone all the other stuff.
+
+Then again, I didn’t have to pay much for the kid’s Sacrifices, since I hunted the rarest pieces myself.
+
+At the thought of hunting…
+
+..I wonder what Jorn would like as a reward for the first month on the job? Necromancer Bow?
+
+The kid was delivering a river of desert Relics and Sacrifices to Will’s Vault, and had already paid for himself a thousand times over.
+
+Many of the desert relics had made their way into the Desert Rose, which…made sense, now that Will thought about it.
+
+Will turned his attention back to the Helping Hands, studying the one that was clutching the Tank archetype ring.
+
+Will mentally nudged the Altar, indicating that he’d like to sacrifice a new Relic.
+
+Crunch.
+
+The Altar squeezed down on the tank archetype ring, reducing it to dust before opening back up, ready to catch a new Sacrifice, the former one drifting to coat the altar in a fine layer of depleted Relic dust.
+
+Will sighed, unable to stop himself from imagining himself literally throwing money onto a pyre and cackling as it burned.
+
+He still had traces of his lingering poverty mindset from five years ago.
+
+Will tossed the Desert Rose
+
+The left skeletal hand snatched the ring out of the air.
+
+Will tossed the other.
+
+The Right hand did the same.
+
+Will rocked back on his heels as a wave of miasma rolled over him from the two altars, far more dense and potent than when he had placed the sacrificial ring.
+
+…and then the Altars vanished, hiding themselves like the Ring of Total Freedom.
+
+Will knew where they were though, placing his hand on the altar and Inspecting it.
+
+The Desert Rose
+
++15 Strength
+
++32 Resistance
+
++13 Kinesthetics
+
++18 Acuity
+
++30 Focus
+
+These paired rings tell the tale of a tragic love that bloomed in adversity. While worn, This Relic hides itself and causes Physical, Mental, energy-based, causal, and Ability-based Bindings to be glacially worn away. Slightly aids in escaping grapples, adhesives, engulfing attacks, resisting slow debuffs, and allows the wearer to fit through marginally narrower spaces than they might’ve otherwise. Scales with Focus.
+
+17.35% Damage reduction
+
+6% less food and water consumed
+
++15% potency to Artisan, Mining, and Production type Abilities
+
++12.5% resistance to disease, curse, charm effects, Blackmail, Social Anxiety, poison, paralysis, indigestion, adverse environmental conditions.
+
+A miniscule amount of damage dealt to the wearer is partially offloaded to the one who wears the matching ring, weighted by Resistance.
+
+Damage that would exceed all resistances and be lethal to one or more users is instead directed to the rings, destroying both.
+
+Excess Charge regen not used by one wearer may be consumed to trigger miniscule healing on another, as appropriate.
+
+Will blew out a deep breath. Qualifying words like ‘miniscule’ and ‘marginally’ had been added in front of any of the non-numerical descriptions, and the numbers…
+
+It was damned painful to see those magnificent Affixes diminished to one-twentieth of their original potency, but Will had to remind himself that the effect was spread to several thousand people.
+
+The overall effect was over a hundred times more potent than one person wearing it.
+
+You know… Will had a mean thought.
+
+What if I made a pair of items that gave the wearer a curse aura, and the ability to absorb and reflect curses? If someone tried to sneak in without me knowing, they would weaken and die in a matter of days or even minutes depending on the strength, and the citizens themselves would have no idea, since they would be entirely unaffected.
+
+…Except we get non-citizen visitors all the time to resupply and purchase their Advanced Class, so that would be a little too indiscriminate.
+
+…I still kind of want to try making one. It could be an excellent offensive option, making each and every citizen into a weapon.
+
+Ethical? Probably not. But effective.
+
+I Would need to get more Curse relics from the 13th Floor to make an offensive Helping Hands set.
+
+Will stroked his chin in thought for a moment before Badur stormed through the door.
+
+“Milord, did you do something?” Badur demanded, scanning the seemingly empty room.
+
+“Why, did something happen?” Will asked, deliberately avoiding looking where the two altars had hidden themselves thanks to the effects of the Ring of Total Freedom
+
+“Some of June’s subordinates wounds healed by themselves, and our crafters are reporting their Abilities are acting strange. I did some math that shows they got a roughly thirty percent increase to their Abilities, but it’s not showing up on their Status, so I was-“
+
+“I purchased a Crafting boost from The Tower that boosts Crafting Abilities and heals minor wounds within the Stronghold. Skinned knuckles, needle-pokes, minor lacerations and the like. The kind you get when you work with your hands. It’s a Lord-specific Upgrade I got because I have Sourdough.”
+
+“Is that what happened?” Badur asked, eyes narrowed in suspicion.
+
+“That’s what you’re going to tell everyone,” Will replied, deadpan.

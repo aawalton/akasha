@@ -1,0 +1,253 @@
+Having seen the potential of the Rogue Archetype, Marksman has commissioned several dozen of them, with a focus on bypassing Carrie Envar’s Blockades and Abilities that can remove a Climber’s kit in the middle of a fight, and countermeasures thereof.
+
+William Oh has demonstrated that at high levels, a missing single Relic will end the fight as quickly as a blade through the heart.
+
+What follows are my observations of the most successful commissioned Rogue Class for this purpose, the Elusive Smuggler.
+
+Elusive Smuggler
+
+Sacrifices: Springstep cutter, Hoarding Natter, Mirage Rabbit.
+
+Stats per level: 1 Strength, 2 Resistance, 3 Kinesthetics, 3 Acuity, 2Focus
+
+Themes: Dimensional storage, illusion, mobility.
+
+Jessica chose mobility and dimensional Storage Abilities as her primaries as instructed, Light Step and Smuggler’s Hideaway.
+
+Right from the beginning, Smuggler’s Hideaway had drastically more storage space than William Oh’s Phantom Hand is reputed to have, measuring 1 cubic foot per point of Acuity, which is 1728 times more spacious than William Oh’s estimated one cubic inch per Acuity, according to our calculations.
+
+On the other hand, Items inside do not maintain their velocity when released, and Jessica must touch the object in question to store it. There is no manifestation of an eidolon to act on her behalf, and the maximum upgrade slots for the Ability are three.
+
+William Oh’s Ability, while drastically lower in storage, is much higher in upgrade potential and flexibility.
+
+Tested on a lower-level Climber, Jessica was able to use Smugglers Hideaway to remove their Kit. With some experimentation, we were able to determine that the Ability is Acuity resisted by Focus. It is presumed that William Oh has a similar stat check when he removes Kit.
+
+*Note: find or create Relics that boost Focus-Acuity contests specifically.
+
+Currently we are going through different upgrades for her primaries, with an eye towards improving Smuggler’s Hideaway’s focus on stealing and replacing kit.
+
+*(I.E. range, potency, speed.)
+
+It occurred to Dave that if someone can take kit off a person, why not replace it with a cursed Relic in the same move?
+
+This ability to hotswap the opponent’s gear should prove incredibly disruptive against other Climbers and open up applications in both opposing Carrie Envar’s blockade across The Tower, as well as law enforcement on the local level.
+
+This kit-stealing focus will also prove useful if the Burning Court set is as malignant as William Oh warned my Lord it was.
+
+***Loth the Luminary***
+
+Perched by the side of the sap spring, Loth idly scanned her new buckler with conflicted emotions.
+
+Scaled Buckler
+
+8 Strength
+
+16 Resistance
+
+12 Kinesthetics
+
+8 Acuity
+
+15 Focus
+
+Attacks blocked by Scaled Buckler have their energy drained. Scales with Resistance.
+
+Active, 5 Charges:
+
+Unleash a powerful blast of air to repel your foes.
+
+Dragonkind Set:
+
+Master of your Domain grants allies within range resistance to hunger, aging, and damage. Scales with Focus.
+
+(1 item)
+
+The Saturation rate of Master of Your Domain increases by 5000%
+
+(2 items)
+
+Master of Your Domain passively applies the effects of Sinister Lure.
+
+(3 items)
+
+The Active ability is so-so, and passive is as expected for a shield.
+
+There were better items Loth could’ve gotten for her Off-hand Relic. Something with beast master effects or an enhancement to AOEs…
+
+But. The set bonus was impossible to pass up.
+
+The saturation rate is increased by fifty times? That’s outrageous.
+
+Draconic Domain, now combined with Master of the Vivarium, applied its effects along with the effects of secondary and tertiary Abilities in an AOE as appropriate, but it only seized control of the surroundings and recreated active effects at a certain speed.
+
+It didn’t absorb spillover Charge like they’d anticipated, but it’s saturation rate was tied directly to Focus.
+
+Loth’s focus was good, but Draconic Domain was originally supposed to be a defensive stockpiling skill, intended to allow a Climber to mimic a Dragon’s ability to claim an area and store active abilities inside it. It was slow.
+
+It only allowed a few direct active abilities per hour, and the rest were passive effects.
+
+Fifty times the saturation rate allowed Loth to have over ten thousand effective Resistance solely when determining the responsiveness and recharge rate of Master of Your Domain.
+
+The improvement to minion durability and the ability to cast Sinister Lure as a cantrip were welcome, but not as amazing.
+
+“I remember you,” Carrie Envar said as she arrived behind Loth “Third Floor. Oilton. And the Third round of the tournament, right? You ‘lost’ to Nephir after destroying him mentally and physically.”
+
+“That’s right.” Loth replied, turning her attention to the Lord. “I’m surprised you remember.”
+
+“Your match made an impression. You’re nearly three feet taller than just a few years ago, though. I almost didn’t recognize you. Did you have a growth spurt or something?” Carrie asked.
+
+“Qualitative upgrade to a racial Ability, actually.”
+
+Carrie cocked her head. “I’ve never heard of such a thing.”
+
+“Humans don’t really have much use for it.” Loth replied.
+
+“What are you doing here?” Carrie asked, crouching down to study where a stream of freshly-matured funnelweb Curse-weavers were marching down to the spring and taking a drink before the failures drowned themselves by the thousands.
+
+Why is she even talking to me? Was the Lord sizing up the mercenary she’d hired to keep the Floor safe or was it something more sinister?
+
+“I’m trying to recreate the Devourer of Worlds.” Loth said, tossing out a big reveal to gauge her reaction.
+
+“I see, that’s- what?”
+
+She almost brushed past it because she was more interested in steering the conversation towards a pre-determined end. She wants something.
+
+That wasn’t inherently good or bad, it just was.
+
+“I’m recreating the circumstances that created The Devourer of Worlds. Properly under my control, of course.”
+
+“Any luck?”
+
+Loth held up her arm where there was a small patch of mutant spiders perched, passively waiting for instructions.
+
+“I’ve got a dozen or so breeders with similar mutations.” Loth said. “But not to worry. I haven’t allowed any of them to make themselves intelligent or gain a consciousness, therefore they are no more a threat to you than a sheathed blade.”
+
+The unspoken implication was that they could be un-sheathed at Loth’s command.
+
+“…Do you plan on becoming a Lord, Loth?” Carrie got to the point.
+
+Ah. I see.
+
+“Scouting me to join your cartel?” Loth asked.
+
+“Someone has to, those old men must be blind to have missed you.”
+
+Loth chuckled, studying the spiders on her wrist.
+
+“If you make yourself small enough, giants don’t even know you exist, until they start dying.” Loth said. “What happened with The Devourer of Worlds was a case study.”
+
+“Well, you’ve gotten a lot bigger recently,” Carrie said, the meaning both literal and figurative.
+
+I suppose I have. There was no way none of the other Lords hadn’t gotten word of a kobold capable of soloing the upper Floors.
+
+Will’s chaos and Carrie Envar’s cartel have been a smokescreen, but Will’s slowed down and Carrie has reached an uneasy truce with the old blood. Attention is bound to return to me.
+
+A solitary kobold with an interesting Class, alone and unsupported. Easy prey for Lords looking to kidnap a talented Vassal. Seems like I’m being underestimated.
+
+“I do plan on becoming a Lord. Most likely on the 15th floor.”
+
+“There’s nothing there but blood and misery.” Carrie said with a frown.
+
+“My kin will like that well enough,” Loth said.
+
+“Huh. I suppose. Why not the 12th Floor, then?” Carrie asked.
+
+“While it’s true that Kobolds enjoy the underground, getting enough food on the 12th Floor would be a challenge. There’s nothing but stone every direction and Zodiac would charge me through the nose for food.”
+
+“And I wouldn’t? Carrie asked, cocking her head.
+
+“There’s plenty of food on the 15th Floor,” Loth said.
+
+Carrie’s expression flattened, her skin paling at the implication that they would eat the 15th floor.
+
+“Kobolds pride themselves on not being picky eaters.” Loth said.
+
+“Huh. And what would you do with all that power?” Carrie asked.
+
+“Climb higher.” Loth said. “Until I can unravel the true nature of The Tower. By climbing alongside Will, I believe I can achieve that.”
+
+“Have you known him long?” Carrie asked.
+
+“About half my life.” Loth replied.
+
+“Is he still trying planning to keep climbing? I need to figure out a way to pin Will down. Mybe with a marriage proposal?” Carrie mused, thumbing her chin.
+
+Loth’s brows rose as she watched Carrie think. There was no love behind that contemplative gaze, only advantages and disadvantages.
+
+“I don’t think Brianna would like that.” Loth said.
+
+“No way, those two are dating?”
+
+Loth nodded.
+
+“Huh. Well, I suppose I’ll have to adjust my strategy.”
+
+“I don’t think you’ll be able to stop him from moving on, only delay it a while. Sooner or later, he’ll accomplish what he set out to do. It’s one of my favorite things about him.”
+
+Carrie gave Loth a long, weighing stare, most likely determining what ‘box’ Loth fit into. Enemy, Ally, Hindrance, etc.
+
+“Well, if you need any assistance getting supplies up to your Stronghold, I’m always willing to cut you a good deal, given the help with the Devourer of Worlds.” Carrie said, offering her hand.
+
+I guess I’m ‘neutral’ in her book, Loth thought, taking Carrie’s hand, half-expecting a backstab. Carrie’s black parasite didn’t lunge out and bite into Loth’s hand, so Loth considered it a win for everyone involved.
+
+Four Floors below and several weeks later, Will was reading a letter sent by Carrie Envar, sent from Akul.
+
+Hey Will.
+
+Marksman just made overtures about backing my claim on the Burned Stronghold after he takes it from you. He didn’t phrase it so directly as that, but that was the gist of the conversation. All he wants me to do is choke off supplies to your Stronghold until it crumbles around you and make sure you can’t retreat up into Zodiac’s Floor.
+
+I told him that if I could pull that off, I would’ve done it already, and in response he let slip that he’s planning to do something pretty nasty involving your kit.
+
+If you want more detailed information or a more enthusiastic double cross…
+
+Pay me.
+
+Will sat there and reread the brief message over and over again, looking for key details, but the brevity of the letter had effectively prevented any unwanted information from leaking out.
+
+The only key information was this:
+
+First, Carrie and Marksman had allegedly discussed an arrangement that split his territory between them.
+
+Will would have to confirm a few things in order to trust that Carrie wasn’t making it up in order to pit him against Marksman so she could comb through the wreckage.
+
+And second, Marksman allegedly had some way to dick with his kit.
+
+There’s only a handful of major ways to mess with someone’s kit.  You could steal it off of them, break it, or in very rare cases, you could curse it.
+
+The most likely one is that they looked for a way to steal someone’s kit.
+
+Will weighed heavily in their minds recently, so it made sense that they might’ve looked for a way to recreate Phantom Hand’s ability to steal Relics, if for no other reason than to develop a hard counter.
+
+So judging from this letter I should be cautious about having my own strongest move turned against me, Will thought, rubbing his chin as he recalled his conversation with the late Baron Akul.
+
+The old Lord had told Will that countermeasures would be developed against his Class, and he would always be just one step ahead of being rendered obsolete.
+
+It’s fascinating to see it in action. He was one hundred percent right.
+
+Will sat and considered for a moment.
+
+I need some more information about whether or not Carrie Envar actually met Marksman on the fifth Floor. Corroborating evidence to support that there was a meeting at all would lend weight to her assertion that Marksman is plotting against me.
+
+Well…there was that thing with Ash, where he tried to frame the Church of Granesh for sabotaging the Church of Holdna, hoping that I would take the bait and get myself embroiled in a war that would benefit him regardless of who won.
+
+Marksman hadn’t done a single thing since then, and Will was starting to think the man had the patience to wait until he could draw his opponents into battles they couldn’t win.
+
+Who do I know on the 5th Floor that can help with…Ah!
+
+Will pulled out a piece of paper, and began writing, marvelling at how much better his penmanship had gotten. Titan’s Grasp helped, of course, causing the pen to move on it’s own with the deftness of his thoughts. Once he’d transcribed it, he’d send it straight down with Brianna.
+
+Hey Jason, I’d like to ask a favor. Recently I-
+
+“Letter for you, milord,” Badur said, the dark-skinned slender man offering Will a letter stamped with the crest of Akul as its origin.
+
+Frowning, Will opened it.
+
+Hey, Will, Jason here. For some reason I just got the sudden urge to write to you. Maybe it was because I saw Carrie Envar and that Marksman guy acting all chummy…
+
+Will scanned the rest of the letter, giving a soft chuckle.
+
+“He really is a prophet.”
+
+Now I need to figure out if Carrie is planning on triple crossing me.
+
+Gods I hate politics.

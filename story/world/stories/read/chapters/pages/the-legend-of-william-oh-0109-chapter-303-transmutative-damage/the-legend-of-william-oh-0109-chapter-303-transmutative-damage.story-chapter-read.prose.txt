@@ -1,0 +1,339 @@
+The pale grey spreading across Jorn’s back gave Will pause.
+
+“Huh.”
+
+“What?” Jorn asked, trying to look over his own shoulder. “What is it?”
+
+You’re probably gonna die, Will thought.
+
+“Relax. Loth and I got this,” Will said instead, his mind churning furiously.
+
+I need to raise his chances of surviving. Something that can act as life support.
+
+“Got any healing, anti-curse, or lifesteal relics?” Will asked Loth.
+
+“Anti-curse?” Jorn demanded.
+
+“Relax.” Will said, preventing Jorn from standing up.
+
+“Healing Relics are rare, but I did find some thematic Relics among the ashes of the monsters we killed. None that fit Jorn perfectly, though.
+
+We need more time, Will thought, watching the patch of ossified skin spreading outwards.
+
+It wasn’t the skin that worried Will, though. It was the spread through the internal organs, below the skin. He could see the curse perforating through Jorn’s Class, which was doing it’s best to resist, but having a difficult time.
+
+Will could cut the less important skin away all day and regrow it with potions, but there was a limit to the amount of internals Will could carve away before Jorn’s body just died from shock.
+
+Manifest.
+
+Ring Of Explosive Doughmaking (X13.05)
+
++112 Strength
+
++421 Resistance
+
++79 Focus
+
++281% potency of Brewing and baking Abilities.
+
+Creates ideal environmental conditions for brewing and baking Abilities, such as temperature, moisture, pressure, etc.
+
+Baking and Brewing performed by the wearer is substantially hastened, without compromising quality.
+
+Wearer creates, purifies, and mixes powdered ingredients much more quickly and thoroughly.
+
+Scales with Resistance.
+
+“Here.” Will manifested the ring of Explosive Doughmaking and swapped it out on Jorn’s finger, replacing the necromancer ring that Will had made for him.
+
+Jorn’s Focus dropped precipitously, but his Resistance soared.
+
+Will watched as the layers of chain link miasmatic structures that formed his Resistance doubled and redoubled thanks to the ring.
+
+Suddenly the curse that was chewing through his body in a matter of minutes had slowed down drastically.
+
+Now it would take several hours.
+
+Of course, this makes it harder to cut the cursed parts out.
+
+Jorn was now roughly as tough as Blessed Steel, which would mean that operating on him was now out of the question.
+
+Damn. They would need to take the time they’d bought and come up with a plan, then take off the ring long enough to quickly cut out the curse and then reapply the ring.
+
+Alternating between those two things, I might be able to save him.
+
+Will did a check of his potions. He only had five and if Jorn was hogging the ring of explosive doughmaking, he couldn’t get them back instantly either.
+
+Losing proposition if I only have five potions and have to wait a few hours to geth them back. If I’m going to operate on him, I need the ring myself so I can use as many potions as I need.
+
+I need those Relics. If I can cook something up that can sub in for the Ring of Explosive Doughmaking, then I can use the ring. Except while I’m using the ring to make it’s replacement, he won’t have it.
+
+“How many Relics did we get from that fight?” Will asked.
+
+“Three.” Loth replied, holding up a bone wand, a bone bracelet and a leathery cloak with veins. “I’m still looking for more.”
+
+Shit. I need more time. Gotta find some more relics and cook up something that can solve this.
+
+How can I buy time, buy time…Oh!
+
+Dimensional Storage.
+
+Will took out the seldom-used Mirror of Inversion, replacing his primary weapon with the cursed tool.
+
+Mirror of Inversion
+
++2 Strength
+
++5 Resistance
+
++4 Kinesthetics
+
++8 Acuity
+
++6 Focus
+
+Capture image: 10 Charges.
+
+Point the mirror at the target and capture their image. Until the end of the duration, the target’s sense of direction is inverted. The target’s state is set, and they are immune to both positive and negative effects until Capture Image expires. Duration Scales with Acuity.
+
+“Okay Jorn. Me and Loth need to do some set up. Once we do that, I’m pretty sure we can fix you. In the meantime I’m going to put you in a form of stasis okay? It’s going to make all your senses inverted. Best way to avoid getting sick is to lie still and don’t move. Not even your eyes, okay? In fact you should probably close your eyes.”
+
+“Okay?” Jorn said.
+
+Alright.
+
+Will slipped the ring of Explosive Doughmaking off Jorn and immediately used the mirror.
+
+Capture Image.
+
+310 Charges Remaining.
+
+“!driew si siht ,HO”, Jorn groaned in surprise as soon as the debuff landed.
+
+“That bought us some time.” Will said, standing before turning his attention to Loth.
+
+“I’m not sure if it’s a poison or a curse, but Resistance seems to be effective against it, but even raising it to five hundred wasn’t enough to reverse the trend. It’s gradually consuming him.”
+
+“Why aren’t you sure which one it is?” Loth asked.
+
+“Because it’s acting on his miasmatic structures directly like a curse, but Resistance is resisting it rather than Focus. Like a poison.”
+
+“Hmm…” Loth rubbed her chin for a moment before tossing Will the bone bracelet. “This is the kind of Relics we’re looking at here.”
+
+Bracelet of Marrow.
+
++4 Strength
+
++15 Resistance
+
+User restores blood loss significantly faster than they would otherwise. Bleeding effects end significantly faster than they would otherwise. Scales with Resistance.
+
++30% potency to Blood-based Abilities
+
+That beserker would’ve liked this.
+
+“Well, at least I should be able to raise his Resistance with this.” Will mused. Nothing that gives control over bones or resistance to curses and poison?”
+
+“No, but it’s not outside the realm of possibility for this Floor. The themes seem to be meat, blood, and bone,” Loth said, tossing Will the bone wand.
+
+The Meatwand
+
++ 5 Resistance
+
++3 Focus
+
+1 Charge: Clash of flesh
+
+If the user’s Resistance is higher than the targets, deal transmutative damage to the target. Otherwise deals transmutative damage to the caster. Damage scales with difference in Resistance.
+
+A ranged attack Ability for Tanks, Will thought.
+
+“Transmutative damage?” Will asked, his attention catching on the damage-type he’d never seen before.
+
+“My guess?” Loth asked, glancing down at Jorn. “Probably that. Being converted to a lump of flesh or bone.”
+
+“Let’s test it,” Will said. “If that is transmutative damage, that would explain why Resistance works against it, since it’s a damage type. If that’s the case, maybe we can find a Relic specifically to resist or heal that damage type on this Floor.”
+
+“Mm..” Loth nodded. “How much time do we have on the mirror?”
+
+“A little over six minutes per cast.”
+
+The two of them both did some mental math. How much Focus did it take to restore ten Charge every six minutes?
+
+One and two thirds Charge per minute. Since Focus was charges per week, one simply had to multiply seven by twenty-four to get hourly charge, and another sixty to see the required amount for a charge each minute.
+
+Oh great, a little over sixteen thousand Focus at the current rate in order to keep him under permanently. We could lower that number with higher Acuity, but it would still be in the thousands. We just can’t make that much Charge.
+
+It would take several days to get back to somewhere that had a decent healer. Zodiac might have one.
+
+I could afford to send one person, but I need enough for two or more. And leaving Loth behind here would be very dangerous for her.
+
+“So even splitting the load, we can’t keep him in stasis permanently.” Will mused. Their combined Focus was nowhere near sixteen thousand, after all.
+
+Maybe if Jorn got some levels? No, if four hundred Resistance didn’t stop it, what use would another two do? Then again…every little bit counts.
+
+Loth and Will sifted through the ashes of their recent battle, unearthing another half-dozen Relics, but none of them gave them the resistance to Transmutative damage that they were looking for.
+
+At the end of the six minutes, Will knelt beside Jorn.
+
+“How you feeling?”
+
+“That sucked.” Jorn said, eyes closed.
+
+“We’re gonna do it a couple more times. It’s gonna be fine. Can you do me a favor?”
+
+“Eh?” Jorn asked.
+
+“Take a deep breath.”
+
+Will converted all the Influence they’d gained since heading out into a Quest for Jorn.
+
+Assigning Quest: Take a deep breath
+
+3800000 XP
+
+Jorn took a deep breath and Will saw him gain a level.
+
+The rough grey patch of bone spreading across his back momentarily retreated as Jorn’s Class reshuffled itself slightly, his stats changing as he hit level 55.
+
+Will even saw the Primary Slot form in Jorn’s brain.
+
+But he was more interested in the fact that gaining a level had pushed the bone back, ever-so slightly.
+
+Capture Image.
+
+310 Charges Remaining.
+
+Will put Jorn’s image into the mirror again then returned to Loth.
+
+“I have an idea.” Will said.
+
+“Shoot.” Loth replied.
+
+“Class advancement.” Will said. “Nothing alters the miasma inside your body like Class Advancement. If there’s no amount of Resistance that can reverse the changes being made inside his body, maybe we can get the System to do it for us.”
+
+“And what if he dies while unconscious?”
+
+“Well then he dies in his sleep instead of being afraid.” Will replied.
+
+“…Alright. Let’s do it.”
+
+Naturally they weren’t planning on trusting Class advancement to do all the work for them.
+
+The plan was this:
+
+Keep Jorn suspended while they gather together any Relic they could find that enhanced Resistance and/or reversed transmutative damage.
+
+Will would combine the defensive Relics with the Ring of Explosive doughmaking slotted, then Will would sacrifice the Relic to his second Phantom Hand, then Manifest it and put it on Jorn as necessary.
+
+Once they had the relics they wanted, have Jorn start his Class advancement.
+
+While he was out, then they would cut out any of the corrupted portions they could reach, so that The System only had to flush out the small lingering portions inside Jorn rather than large swaths of his flesh.
+
+Hopefully, that would work.
+
+I really…REALLY don’t want to tell Lily I got her friend killed the first time we went out together, Will thought as he frantically sifted through blue embers, looking for more of the Relics native to this accursed meat-plane.
+
+Eventually they gave up on transmutative damage resistance. Will and Loth were able to confirm using the wand against some of her bugs that it was indeed transmutative damage effecting Jorn, but the Floor’s Relics seemed to mostly be for inflicting it, and not resisting it.
+
+Which was a bitch.
+
+After selecting for Relics with high Resistance and any kind of bonus to healing or damage resistance, Will ended up with the Escharotic Cloak.
+
+“Loth…”
+
+“Yes?” Loth asked, glancing up at Will inspecting the leather cloak with the heartbeat visible through the large red veins travelling through it.
+
+“What does Escharotic mean?” Will asked.
+
+“Spell it.”
+
+Will did so.
+
+“Escharotic means something that produces an eschar, which is a fancy word for a particularly large scab that might form from a deep wound or burn.”
+
+Will glanced back at the skin-cloak.
+
+“Yeah, that makes sense.”
+
+Escharotic Cloak
+
++12 Strength
+
++35 Resistance
+
++8 Kinesthetics
+
++4 Acuity
+
++15 Focus
+
++6% Lifesteal
+
++15% Damage reduction
+
++10% Potency to Blood, Flesh, and Bone Abilities.
+
+Any wound that the cloak covers will gradually be transferred to the surface of the cloak as a scab, speeding healing as a result. Scabs picked off the cloak may be used to inflict those wounds on other targets, but will damage the cloak.
+
+The cloak gradually heals scabs on it’s surface over time. Too many severe injuries will kill the cloak.
+
+Scales with Resistance.
+
+Do you wish to sacrifice Escharotic Cloak to Phantom Hands?
+
+Yes.
+
+Will felt a shudder go through his body as his right hand ring finger popped viscerally, making the hair stand up on his right arm.
+
+Once it was over, Will checked it’s stats inside Phantom Hand.
+
+Escharotic Cloak (X13.05)
+
++156 Strength
+
++456 Resistance
+
++104 Kinesthetics
+
++4 Acuity
+
++195 Focus
+
++78% Lifesteal
+
++195% Damage reduction
+
++130% Potency to Blood, Flesh, and Bone Abilities.
+
+Any wound that the cloak covers will be transferred to the surface of the cloak as a scab, speeding healing as a result. Scabs picked off the cloak may be used to inflict those wounds on other targets, but will damage the cloak.
+
+The cloak gradually heals scabs on its surface over time. Too many severe injuries will kill the cloak.
+
+Scales with Resistance.
+
+“Yeah, this’ll work.” Will mused.
+
+They couldn’t have him wear it while they were operating, but if they put it on him between operations, it would effectively freeze the progression of the transmutation and drastically speed up healing. It might even take on some of the burden of the transmutative damage in his inner organs.
+
+Will threw the strangely warm living cloak over his shoulder, trying to ignore the faint heartbeat as he knelt beside Jorn, rousing him as the mirror of inversion debuff expired.
+
+“Hey Jorn.” Will said, jostling his shoulder to let him know he was there.
+
+“I don’t feel so good.” Jorn groaned, eyes still closed.
+
+“We’re gonna start trying to get the poison out of your body, but we need you to hold still for it. Could you do me a favor and take your Class Advancement?” Will asked.
+
+“Why?” Jorn asked, peering up at Will with a single suspicious side-eye.
+
+“Because it’s gonna be painful and invasive.” Will gave a half-truth with a shrug. “We’ve got the right equipment. I’m 100% positive you won’t die.”
+
+Will wasn’t actually 100% positive, but what good would saying that do?
+
+“It’s just not gonna be pleasant. At all. I think you’d rather be asleep.”
+
+“That’s fair.”
+
+Jorn closed his eyes, and Will could see something click in his Class as he began the Trial.
+
+“Okay, he’s out, let’s get started,” Will said, cutting off Jorn’s shirt.
