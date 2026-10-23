@@ -204,12 +204,13 @@ export function trackEdits(args: {
   readonly edit: Editing
 }): Edited {
   const edits: Asking[] = []
-  const carried = new Set<string>()
+  const before = new Map<string, Value | undefined>()
   let tracked = 0
   let filed = 0
   for (const track of args.album.tracks.items) {
     const slug = trackSlugFor(args.tracks, args.releaseSlug, track)
-    carried.add(slug)
+    const was = args.tracks.held.get(slug)
+    if (!before.has(slug)) before.set(slug, was)
     const song = songForTrack(args.filing, args.artistSlug, track.name)
     if (song !== null && song.values !== null) {
       edits.push(args.edit(SONG, song.slug, song.values))
@@ -220,13 +221,31 @@ export function trackEdits(args: {
       song: song === null ? null : song.slug,
       slug,
       track,
-      was: args.tracks.held.get(slug) ?? {},
+      was: was ?? {},
       artists: args.tracks.artists,
     })
     args.tracks.held.set(slug, values)
-    edits.push(args.edit(TRACK, slug, values))
     tracked += 1
   }
-  args.tracks.byRelease.set(args.releaseSlug, carried.size)
+  for (const [slug, was] of before) {
+    const values = args.tracks.held.get(slug)
+    if (values === undefined || (was !== undefined && sameValues(was, values))) continue
+    edits.push(args.edit(TRACK, slug, values))
+  }
+  args.tracks.byRelease.set(args.releaseSlug, before.size)
   return { edits, tracked, filed }
+}
+
+function canonical(held: unknown): unknown {
+  if (Array.isArray(held)) return held.map(canonical)
+  if (held === null || typeof held !== "object") return held
+  return Object.fromEntries(
+    Object.keys(held)
+      .toSorted()
+      .map((key) => [key, canonical((held as Record<string, unknown>)[key])])
+  )
+}
+
+function sameValues(was: Value, now: Value): boolean {
+  return JSON.stringify(canonical(was)) === JSON.stringify(canonical(now))
 }
