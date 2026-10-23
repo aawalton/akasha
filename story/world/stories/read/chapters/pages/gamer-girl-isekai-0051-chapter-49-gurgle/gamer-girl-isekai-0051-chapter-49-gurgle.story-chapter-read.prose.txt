@@ -1,0 +1,93 @@
+As Emma saw it, her primary shortcoming in combat so far was actual ability to kill people. That was quite a strange flaw to admit, she had to say, considering that she was the only person she knew able to melt rock by looking at it, but it was nonetheless an issue that had plagued her. She had more raw power now, enough that she was actually nervous about testing out weapons on a wooden ship, but Emma had no guarantee that she wouldn’t run into enemies stronger still than the ones she’d fought so far.
+
+Her makeshift shotgun had been promising, to start with. So she gave that a bit more love. Emma experimented with range at first, and was deeply annoyed to see that it was ridiculously limited even with her innovation of using stone cores for her projectiles. It just wasn’t dense enough. Emma gave another go to conjuring other materials, but found that those limits remained unchanged. And without something heavier, like iron or—dare she hope—lead, it just wouldn’t be possible to make bullets with any great staying power in the air.
+
+That didn’t mean she couldn’t optimize what she had already, at least.
+
+Emma experimented with different shapes for her projectiles, and found immediate limitations in actually keeping the fucking things facing the right direction. Making her shot into darts certainly left them more aerodynamic…from one direction. That lasted about as long as they took to flip around and face the wind sidelong rather than forwards, presenting more, not less, surface area relative to mass, and slowing down all the more. Worse, flying inconsistently. A few failed efforts where she did nothing more than vomit out a spray of haphazard, vaguely-pointy glowing darts into the ocean at an effectively random trajectory convinced her that she needed a better way of doing it.
+
+The solution ended up coming from one of her more recently developed powers. Emma could use conditional triggers, nothing as complex as “stop all of these darts from flipping around” or anything—she’d need to personally infuse each one of them with the effect for that and taking thirty seconds between each shot just wasn’t practical—but there were less directly, more clumsy, nonetheless effective solutions at her disposal.
+
+By infusing the walls of her weapon with magic and setting them to repel anything that touched them, she was able to knock herself down and send the darts flying out even more unexpectedly. Okay, new solution. Emma enchanted the walls of her weapon to have everything inside them spinning and flatten them out on contact. Nudging darts just enough to leave their trajectory straighter, and starting the barrel out thinner and more cramped to ensure that the projectiles had plenty of opportunity to touch it before they finally left.
+
+It took some doing, some fucking around with the precise details of everything, but before long Emma had successfully managed to make a weapon which would consistently send a blast of conjured darts out in the same direction, at high speeds and with a pretty damned good grouping.
+
+To experiment, she conjured a few floating platforms of solid energy in the ocean and let them drift away behind her. Space magic gave Emma instinctive knowledge of their distances, and testing showed that she could reliably hit the torso-sized targets from as far as thirty metres. At ten metres or less, she would regularly be getting just about every dart in a single shot to impact them. This was shown quite satisfyingly in testing when the targets just sort of came apart and disintegrated into the waves.
+
+So Emma’s crowd control ability was perfected, at least within the limits of what she could do now. What else?
+
+Of course, anti-armour!
+
+She’d gotten a fair amount of success by firing that bigger projectile before, but Emma found herself worrying nonetheless that she just wasn’t living up to her killing potential. What could enhance it?
+
+Conditional triggers, it turned out, could not. Those drew from the same power source as Emma’s Energy abilities did, meaning that if she dedicated X power to activating under certain circumstances then, while that power was still readied to do so, everything else she did with Energy would be forced to work with -X power. Even if the conditional trigger was not actively seeing use. At best she could avoid an outright loss by making the trigger apply perfectly to her projectile, but that was just making the thing needlessly complicated
+
+Good for multitasking already-complex systems, not good for throwing as much kinetic energy behind a single big rock as she could manage. And it was the latter Emma needed here.
+
+Fortunately, she did discover a few other opportunities for improvement while she was at it. Shelling the projectile in her hardened energy left it connected to her magic, and Emma could transfer new effects to that energy from afar. She played with that, discovering the limit of needing line of sight but little else, and so started toying with continuing to funnel kinetic energy into it over a distance.
+
+As it happened, that worked quite well. But Emma didn’t want to just have an attack that killed enemies from afar, especially given, as she found with yet more experimentation, her magic just…wasn’t very good at hitting things from extreme range. Lighter-than-water projectiles simply weren’t suited for that. This was where the conditional triggers came into use.
+
+Emma conjured a locking mechanism of hardened energy to hold her projectile in place, reinforcing it with Matter to strengthen it. Then she applied Force, of course, and Energy. The hardened energy strained and flexed, and eventually broke. When it did, the semi-elastic construct snapped back and Emma’s conditional trigger compounded the elastic transfer with yet more conjured energy. All while Force magic left the whole thing gaining speed over distance.
+
+It was, essentially, no more complicated than an extremely powerful crossbow, minus a few details. Emma was disappointed not to hear any supersonic cracks, but not surprised. Her disappointment disappeared also when she saw the projectile hitting water and realised it was displacing cubic metres per hit despite its own volume being a scant few thousandths of that.
+
+Maybe not supersonic, but it was definitely as fast as a slower bullet. Emma let herself take a break, satisfied with having invented what was essentially mediaeval cannonry without the noise.
+
+By then, Emma had been aboard the ship for only two weeks. The changes had come to her rapidly and satisfyingly, but they didn’t stop there. Slowed, sure, but didn’t stop. She kept practicing, kept uncovering new things about her abilities, and kept strengthening.
+
+Fundaments:
+
+Energy 3, Matter 3, Force 3, Entropy 1, Cognition 3, Space 1, Time 1
+
+Crafts:
+
+Alchemy 1, Talismans 2, Enchanting 1, Animacy 1,
+
+Cores:
+
+Attunement 17, Mastery 9
+
+Energy 3 apparently let Emma amplify external sources of energy. She could turn a burning piece of wood into a very large, very brief fireball—brief, because the sheer heat quickly consumed the rest of it—while her own punches could be raised to almost-not-shit levels. In theory she could’ve been striking much harder, but Emma’s enhancing the energy didn’t actually make her body any tougher, and doubling or tripling their power already left her limbs with an eerie amount of aching at their joints.
+
+Matter 3 meant Emma could now, and this was the really exciting part, conjure metals. Shit ones, she had to admit. Emma tried for steel and got iron, not good iron, either, as she found out by asking some of the pirates. They were all very interested by how she’d gotten it, and Emma just shrugged and said wizard stuff. If there was one advantage to this new world, it was that people would ignore literally any suspect thing they witnessed once told it was the stuff of magic.
+
+Another good thing was that shit iron was still iron. Emma’s projectiles became far longer-ranged as she more or less doubled their density within an instant, and, combined with her dart shapes, Emma found she could accurately hit the torso-sized targets at a distance of about two hundred metres.
+
+Then there was Force 3. This was perhaps the simplest improvement on Emma’s previous powers, but nonetheless a great one. She could apply Force effects in any direction she wanted. Not just send things away from her, Emma could drag them back, up, to the side, whatever she pleased. She put this to the test immediately by tapping Sade Lanakila on her shoulder and watching as the woman fell screaming and thrashing up into the sky, halting only after dozens of metres’ ascent before plummeting down hard into the ocean.
+
+Emma got quite the talking-to after that, but it was worth it. Both to see how powerful her new powers exactly were…And just because it was funny as hell.
+
+“You’ve been busy.” Aexilica told her as she approached one morning, leaning on the railing beside Emma. Emma had been busy, in fairness, something about a long voyage with nothing to do had spurred her magic-training on into ever more intense lengths.
+
+“So have you.” She noted, recalling the almost obsessive way in which Aexilica had been training with the others, too. Lanakila and Haruki had been her sparring partners of choice. The former weirded Emma out, seemingly wanting nothing more in life than to die in an epic battle. The latter, though, was about the perfect trainer. Calm, always, clinical. Between the two of them and their impressively superhuman physical abilities, Aexilica had improved a lot too.
+
+“What?” Aexilica frowned at Emma’s response, confusing her now, and then sighed. “Oh, you think—no I’m not talking about you improving your magic. I mean…Him.”
+
+She nodded overboard, to the section beside the ship where Vari the Idiot was currently thrashing around constrained by energy with his head held underwater. Emma grinned.
+
+“He stole all of our money, so I figured I’d have a bit of fun with him while the trip continued. Every few minutes I let him come up for air, let him get his breath back, then dunk him again. I’ve been trying to invent a way for my magic to do it automatically, timing the intervals out itself, but that’s tricky with such complicated motions.”
+
+“I wasn’t asking for an explanation.” Aexilica told her, looking, for some reason, more exasperated than anything. That actually stung a bit.
+
+“Do you have any idea how hard I worked on this?” Emma frowned.
+
+“On torturing someone.” Aexilica replied.
+
+“Oh it’s not torture.” Emma waved a dismissive hand. “It’s…Uh, enhanced criticism.”
+
+Aexilica just stood there, blinking and staring for a few moments, then sighed again.
+
+“Food’s out on the table soon, I’ve been sent to get you for it…And Vari.”
+
+“Ugh.” Emma quickly hefted the Sculd back up onto the deck and took a few moments to enjoy the sight of him gasping and convulsing against the hardwood.
+
+“Grubb.” She told him, before heading down below decks. Aexilica and he came with her.
+
+Emma was getting used to ship-food. Horrible, but true. Stale biscuits, salted meat, the works. Her only pleasant surprise was the dried fruit on the menu. That was, granted, a very pleasant surprise, as Emma knew what scurvy looked like and was rather fond of not having her teeth fall out with the gums still attached.
+
+But what really struck her about the communal meals was…Well, the community. The Storm-Eye crew argued, and bickered, and joked and jibed at each other like some big…
+
+Not family, not that, but…Something in the same direction as one. The most striking part of it, though, was how Aexilica had started to join in. Only a few weeks, and she already seemed fully at ease with everyone while Emma still mostly kept to herself and Vari, for some reason, sniffled and shivered during every meal.
+
+Emma watched her friend’s smiling face, and felt something stirr in her belly at the sight of it. She wasn’t sure what.
