@@ -1,0 +1,341 @@
+Clara examined the tools laid out before her on the brightly lit workshop surface. She didn’t know the names of more than half of them, but had a solid conceptualisation of how she wanted them to be modified. Minutes earlier, security personnel dressed in grey overalls had taken the elevator back up to Admin Sec to pillage the security stations for riot gear. They had returned with a group of Admin Sec personnel who had followed O’Neil’s radio messages to meet at the elevator, and two duffel bags full of truncheons and tasers. One man also carried an armload of armoured vests and shields. Clara wasn’t sure how useful the armour would be against the shadow demon, but she instructed them to return upstairs to gather as much as they could. The feeling of armoured padding might give them a confidence boost, and looking at the civilians-turned-soldiers around her, she could tell they needed it.
+
+“Gabriel,” Clara radioed. “Update me on the civilian quarters.”
+
+“It seems that the vault inhabitants have started burning their possessions to ward off the shadows.” His voice crackled on her radio. “They’re using flashlights too, just as my message instructs. They are aware that help is coming, or at least, they should be. The speaker system is still working, but they all seem to be hiding. The shadow is… well, it has taken over the main room. The civilians have taken to their dorms.”
+
+“Amend the message,” Clara said. “Add that rescue will be coming shortly, but any survivors who can’t find shelter should try to come here, to the workshop area on Level Two.”
+
+“Amendment received,” Gabriel radioed. “Over and out.”
+
+“Just over,” Clara said. “Stay on the line.”
+
+Clara observed the room. She had set Andy and Gary to guard the workshop’s main exit. Two more of the rifle-armed revolutionaries were posted beside each of the workshop’s two windows, looking out into a small tunnel which acted as a buffer between them and the massive Hydroponics warehouse. Slowly, a trickle of Hydroponics staff joined them, each dressed in pastel green overalls, however as of yet, they hadn’t received any survivors from deeper levels of the vault. Hopefully, the amendment to Gabriel’s message would change that.
+
+At one end of the tunnel outside was the vault’s main elevator shaft, which ran between every layer of the vault; at the opposite end was an entryway into Hydroponics. The lights were all on, nothing buzzed or flickered. Clara listened out for the elevator doors in the tunnel beyond. Any moment now, survivors from habitation might start coming up to meet them.
+
+Currently, their group consisted of thirty-two vault dwellers, mostly new arrivals: personnel from Admin Sec and Hydroponics. They huddled together in groups, eyes bright like frightened deer. Some talked loudly about the horrors they had witnessed, rambling about escaping the vault at all costs; others slouched on the floor mutely, expressions glazed over, eyes elsewhere. Among them, they had three trained mechanics dressed in yellow overalls. Clara gathered them up and explained to them her vision for the weapon modifications.
+
+“Turn up the power. Make them brighter. Can the taser be set to discharge an electrical burst, rather than plug the spikes into a target and transfer a shock? I don’t think that will work against the shadow demon.”
+
+“Demon?” the mechanic blanched, her eyes drifting to the workshop’s doorway, which was guarded by Andy and Gary’s soldiers.
+
+“The intruding… entity,” Clara corrected. “Can the weapons be modified?”
+
+The other mechanic noded. “I think so. The stun battens can be overcharged, however they’ll be subject to malfunction and low battery life.”
+
+“That’s fine. We don’t plan on staging a pitched battle. What about the taser?”
+
+“I’m not sure,” he said.
+
+“It could work,” the female mechanic said as her eyes drifted back to Clara’s face, and back to reality. “Disable the safety fuses and fit a pulse modulation circuit.”
+
+“Yep,” Clara nodded without understanding half of it. “That sounds good. Do it. Hurry.”
+
+Clara pointed at a group of rifle-armed revolutionaries who were standing apart from the other survivors, surveying them with suspicion. “You lot, help them. Do whatever they say.” One of the revolutionaries, a tall older man whose belly inflated his pink overalls, stepped towards the mechanics, rifle poised across his chest, finger on the trigger. Clara put a hand on his chest to stop him and readjusted the strap so that it slung diagonally over his shoulder, then swivelled the gun around to his backside. He scowled down at her as she dressed his gear, but didn’t utter a word of complaint. Clara patted him on the shoulder once she finished. “It’ll be there if you need it, now focus on helping them.”
+
+O’Neil returned from a room adjacent to the workshop, carrying three unusual rifles in his arms. The experimental shock weaponry housed a battery unit where the magazine would normally be. Red and white wires coiled down the barrel, visible beneath a yellow hard-plastic mesh casing. More wires were plugged into nodes on an exposed circuit board, fixed into the stock behind the trigger. They looked rough, but O’Neil vouched that they would work, and began explaining their design to the mechanics.
+
+Clara left them to work, strolling across the wide workshop floor towards where Andy guarded the workshop’s exit closest to Hydroponics. The workshop ceiling was a little taller than in the rest of the vault to accommodate a network of ventilation pipes which, once activated, would suck toxic fumes up from the workstations and pump them through tunnels to the surface. Clara had already asked Gabriel if they were large enough to crawl through, but after inspecting the vault’s schematics, he’d replied in negative. Apparently, a couple people could squeeze into them, but with an entire vault to evacuate, the tunnels would get clogged, people would be trapped. It would be a slaughter.
+
+Pushing the morbid thoughts from her mind, she approached the vault security wearing white overalls with a blue trim, and addressed their leader. “How’s it going Gary? How are the Level Three team doing?” Clara was dialled into the same radio channels as Gary, she had heard the same radio chatter from the forward security team attempting to establish a bulkhead in the main elevator entrance in Habitation Sec. But something drove her to ask the older man for an update anyway.
+
+“They have secured the elevator,” Gary said. “They’re using a couple hand-held spotlights from Hydroponics to light it up.”
+
+“Have they engaged the entity?” Clara asked. She knew the answer, but she wanted to hear him say it.
+
+“No. Not yet. It’s grim down there, apparently.”
+
+“We’ll back them up soon. Keep on that channel. Inform me if something changes.”
+
+“Yes Honcho.”
+
+Clara paused. “Okay, sure.”
+
+“Sis.” Andy slouched against a wall, two assault rifles at his side. “What are we doing here?”
+
+“Modifying the shock weaponry to fight that thing.”
+
+“No, I mean here generally?”
+
+“Helping these people evacuate.”
+
+Andy glanced around the room. “Okay, why?”
+
+“Because they need our help.”
+
+“Shouldn’t we just leave? I’ve got a rucksack full of ammo.”
+
+“They’re our employer,” Clara said, framing it in a way that might satisfy him. “Think of it like that.”
+
+Andy raised an eyebrow, then turned to Gary and held his hand out to shake. “Andrew Mercy-Mercenary. Glad to do business. I hear you’ve got a problem with shadow demons tearing people to shreds?” He whistled. “That’s an expensive job.”
+
+“Andy,” Clara waved him over. Peeling away from the wall, he walked with her out of earshot from the vault dwellers. “What’s your problem?”
+
+“My problem?” he said. “I don’t have a problem.”
+
+“We let that thing in here. We’re responsible.”
+
+“Really, are you sure?”
+
+“You said so yourself, you said it oozed out of you.”
+
+“Yeah but that doesn’t prove anything.”
+
+“It’s not-”
+
+“It was just a feeling I had,” Andy interrupted. “Maybe I was wrong. A shadow, underground? Doesn’t sound uncommon.”
+
+Clara shook her head. “It’s not a coincidence is it? The day we arrive, it starts killing them all.”
+
+Andy bowed his head.
+
+“It doesn’t matter how much we’re getting paid, okay,” Clara said. “Some things are more important.”
+
+“We could just leave, cut our losses.”
+
+“Are you afraid, Andy?”
+
+He paused. Clara hadn’t expected that. She searched his face for emotion, but it wasn’t fear. Apprehension? It was hard to tell.
+
+“If you wanna risk your life, then sure, let’s do it,” he said. “I don’t really see the point though.”
+
+“The point is, if we can kill that thing and help this society establish itself on the surface, they’ll be allies for life. Employees for life. We’ll still be able to pillage the vault, or use the technology to build infrastructure for the vault dwellers on the surface. A lot of good can come of this still. It’s not too late to salvage the situation.”
+
+“Pun intended?” he said.
+
+“Andy, pelase.”
+
+He was silent. Clara knew that he’d follow her anywhere, that he trusted her. She knew he loved her as well, though he had strange ways of showing it. At times, when he was briefly sober, he’d open up, and they could have a normal conversation on the road, or over a meal in a safehouse. With the kindness he sometimes showed her, it was easy to forget sometimes just how little compassion Andy possessed for the rest of humanity.
+
+“They’re scared,” she continued. “You know why? They think that that thing is stronger than us. They’ve never met Augmented people before, they don’t know what we’re capable of.” She smiled. “They don’t know what you’re capable of.”
+
+The corner of Andy’s lip twitched. Using the barrel of one assault rifle, he brushed his fringe out of his face.
+
+“I think we ought to show them what a real merc looks like.” Clara lowered her brow, grinning conspiratorially. “Put on a bit of a show, you know?”
+
+“Alright, whatever you say Honcho supreme. I’ll keep guarding the boring door.”
+
+Clara took a breath. She had gotten caught up playing commander with the vault dwellers, she had forgotten the very basics. Andy wasn’t a soldier. It was useless pushing him into play like a pawn. Besides, they were equals. It was wrong of her to order him around. “No, do your own thing. Whatever you think is best. But don’t headbut anyone else, please.”
+
+“No guarantees,” he winked.
+
+As Andy walked away, an idea occurred to her. “Hold on.” Clara unstrapped her wrist terminal. “Slip this on first.”
+
+“Okay. Why?”
+
+“I want to see if you have any tricks we can use.”
+
+“Oh, what, shooting’s not good enough for you anymore?”
+
+“Just come here,” Clara said, grabbing his wrist and slipping the device on. “Stop wriggling.”
+
+The terminal’s conductive module synchronised against Andy’s skin, displaying a written list of his Augmentation’s abilities. Nothing had changed within his Marksman delineation, however in place of Hitman was a new delineation: Predator, which possessed a new enhancement module.
+
+Delineation: Predator
+
+Predator Intuition: Driven by ancient urges, the Gunslinger’s senses are enhanced to detect and stalk prey, smell fear and vulnerability, and hone composure before striking.
+
+“You having fun?” Andy asked.
+
+“Your Hitman delineation has changed. I didn’t know that was possible.”
+
+“Oh yeah. And…?”
+
+“Well, it’s called Predator now, and you’ve gained a new module.”
+
+“Predator?” Andy wrinkled his nose.
+
+“What? You don’t like it?”
+
+“It makes it sound like I hang around near schools.”
+
+Clara snorted. “Look,” she pointed. “Detect and stalk prey. Have you noticed any changes?”
+
+“No,” Andy tried to pull away, but Clara held his wrist.
+
+“There’s something else,” she said, scrolling to the bottom of the list and reading aloud. “Mutation synthesis complete.”
+
+“Oh yeah?” he said unenthusiastically. “Can you edit the names from there?”
+
+“Why don’t you ask your AI?”
+
+“Eh. Already tried that.”
+
+“Focus,” Clara tapped the screen. “Mutation synthesis complete. It didn’t say that a couple days ago, did it?”
+
+Andy shrugged.
+
+“Has something changed?”
+
+Andy turned away from her. “No,” he said, then paused. “Maybe.”
+
+“Someone’s coming,” one of the window guards shouted, pointing to the main elevator shaft in the tunnel outside.
+
+“Maybe what?” Clara said.
+
+Andy nodded towards the elevator shaft outside. “Should probably see to that.”
+
+Reluctantly, Clara unstrapped the terminal and slipped it back on her wrist, running over to the guard’s side. Gary opened the door into the tunnel and sallied out with his revolutionary soldiers. Clara watched them run past each window outside as they caught up to the group of survivors and helped them into the workshop bay. Six adults and two children entered, bloodied and panting. They collapsed to the floor. A woman clutched her child, nestling the young boy’s face into her shoulder. Clara’s heart twanged like a struck chord. Her chest tightened, it was difficult to breathe. She’d done this. She.
+
+Other survivors gathered around the newcomers, offering them canteens of water and first aid. Clara turned away and returned to the engineers at the worktops, seeking something to distract her from their pain.
+
+The three vault dwellers in yellow overalls were taking apart the equipment, instructing their helpers sorting through parts and preparing tools for use. Clara knew it was too soon to ask for an update, so she held her tongue, not wanting to distract them from their work.
+
+“Gabriel,” she radioed. “Any update?”
+
+“Not particularly,” he said, isolating his response through her radio only. “However, I finished fixing up my gnome figurine that I showed you and-”
+
+“Can you see the group in Hab Sec?” she interrupted. “Do you have eyes?”
+
+“Not quite,” he said. “Some of the cameras have stopped working. They may be linked to the circuitry of the lights.”
+
+“Any other abnormalities?”
+
+“Erm, you’ll have to be more specific.”
+
+“Like doors opening. Computers turning on and off? Electronics playing up besides the lights?” Something about their conversation brought back a hazy memory. Somebody had said that recently… Who was it? Clara tried to focus on what it was, but it escaped her.
+
+“No, just the cameras.”
+
+“Good, tell me if that changes. What can you see of the elevator in Hab-sec? Is there anyone outside it?”
+
+“There’s a camera around a corner, but it’s blocked from view by something, I can’t tell what, and there’s one in the distance, but it’s very blurry.”
+
+“Have you detected any disturbances on any vault levels other than Hab Sec and Hydroponics Sec?”
+
+The radio feed paused. “No, I don’t think so.”
+
+“Such as fluctuations in electrical current, destabilisation in the vault’s power systems?”
+
+Gabriel stammered. “I know that it may not appear as such, however, I am only one man, Clara, I cannot observe everything all at once, and I haven't had the time to write a programme to do that for me.”
+
+“Okay, sorry, you’re right. Focus on keeping the lights on in Hydro and Hab. Make sure the vault door is ready to open when we’re ready to leave. Keep an eye out for anything unusual and update me in five.”
+
+Clara’s mind raced like a machine pushed into its top gear. Had she missed any details? She went through her plan in her head again, although it was painfully simple. A lot of factors hinged on modifying the security weapons to work against the shadow demon. Once that was done, she could draw up something more concrete.
+
+“Erm,” Gabriel buzzed. “Might I ask, what is it you’re working on there?”
+
+“The weapons?” Clara asked, searching the workshop for a security camera, wondering where the techie was observing her from. “We’re modifying them so that they emit brighter lights.”
+
+“Can you send me the model numbers? I may be able to help?”
+
+“Sure, do you have a second transceiver though? I could do one better?”
+
+“My software enables me to split transmissions however I please.”
+
+“Good.” Clara raised her voice to address the room. “Who has a radio they’re not using?”
+
+Two people approached her, one of Gary’s white-overall soldiers and a woman who had just arrived from Admin Sec. Clara took the woman’s radio, but let the soldier keep his. “Use a closed channel,” she explained to the mechanic, handing over the radio. “My technician is on the other end. He’s a very smart man. He hacked this vault. Listen to his advice.”
+
+As soon as the two radios were synced up, Gabriel and the engineers engaged in a slew of technical jargon over the airwaves. Thankfully, due to Gabriel’s second transceiver, he and the mechanic could communicate on a separate channel to the one she had already established, ensuring that she maintained their open line.
+
+Clara left the techies to their devices, assessing the room. Things were running relatively smoothly in spite of the air of fear, teetering on frenzy. Her plan was coming to fruition, but it wouldn’t take much to de-stabalise the survivors. Currently, only a minority of them were armed with weapons that could damage the shadow demon. If they were attacked now, how long would they hold their positions and fight before succumbing to blind panic? She’d been on the other end of it before, as a child, but now somehow, due to circumstance, they were all relying on her to come up with a plan. Clara glanced at a frightened child, cowering in her mother’s arms. Her lips moved, and though Clara couldn’t hear her voice over the clamour, she knew the words; they had been her own. “What’s happening? Why? Why? Are we going to die?”
+
+The doors leading to Admin Sec elevator opened, and a group strolled in. “Didn’t expect to see me, did you?” a man announced. He was heading a group of three others, all of them wearing stripy white and black overalls, accompanied by two of Gary’s rifle-armed revolutionaries. Clara hadn’t noticed the revolutionary’s departure, she wondered how long they’d been gone, and who these new arrivals were.
+
+O’Neil stepped forward to meet their arrival. At first, Clara expected them to clasp hands, but something about the mood was off. The remaining soldiers under O’Neil’s command gathered to his side, and the two groups stood off. Clara’s eyes flickered to Gary; he was watching the situation intently from across the room, eyes on the back of O’Neil’s head, both hands on his rifle.
+
+“Yeah,” O’Niel said. “Cause you should be fuckin’ dead.”
+
+“You wanna take a shot?” The man in stripy overalls pounded his chest. His back was arched, his knees were bent. His posture was terrible, Clara recognised from having seen prisoners before.
+
+O’Neil stood his ground. “I’ll fuckin’ kill you now if you jeopardise the safety of this vault.”
+
+“Good job you’ve been doing keeping it safe.”
+
+“Hey,” Clara barked, sensing the situation getting out of hand quickly. “Who are you?” she addressed the newcomer.
+
+The man looked her up and down. “Who the fuck are you?”
+
+“Clara. It’s lovely to meet you. Do you mind?”
+
+“No, I don't mind. I’ve been locked in the box for god knows how long. How long’s it been, O'Neil?”
+
+“Not long enough,” the officer replied. O’Neil’s small entourage of security personnel echoed his sentiment, spitting “traitor” and “scum” at the newcomers.
+
+Clara clapped her hands, discharging a flicker of energy as she did so. Several survivors in the room yelped at the small explosive sound. “I’m new here, so I don’t know the history of events. By the sounds of it, the two of you have some personal matters to work out. I’d prefer it if you waited until we were all on the surface to do so. Frankly, I’m bored of it already.”
+
+“Who’s this bitch?” the ex-con said.
+
+Clara snorted as her blood pressure spiked. What she wanted to say was “I’m the bitch that’s gonna blow you apart with this here shotgun if you don’t shut up and listen to reason.” But what she really said was “I’m a mercenary. I’ve taken control of your vault’s systems and… You know what, someone else catch up this gentlemen on events. I don’t have time for it.”
+
+Clara observed the room. There were a lot of politics at work that she didn’t understand and didn’t have time to learn. It was all completely irrelevant to their survival. Her evacuation plans would never work if she couldn’t keep the vault dwellers from arguing amongst themselves. The more survivors who found their way to the workshop bay, the harder it would be for her to keep them focussed. She needed them to be a united force, and she had an idea how.
+
+Ushering Gary and O’Neil to a private corner, Clara watched the men in silence, preparing what she wanted to say. O’Neil stood beside her, keeping an eye over the room. His shoulders were fixed back, his chin held high, exuding an air of confidence which didn’t rely on the merit of the situation. The vault which he had been tasked to protect had been invaded, compromised by an unknown murderous force, his people slaughtered, friend and family missing in the dark; his squad in the workshop was now outnumbered by the revolutionaries ten to three and outgunned besides. Without Clara's intervention, they may well have executed him and his men on the spot. Despite all of that, his expression remained stern, implausibly in control.
+
+Gary, on the other hand, wilted with exhaustion. His face was soft, his eyes passively wild like a prey animal scanning for the dark hunter. Clearly, he was in shock, but currently, he was in control. The other revolutionaries looked likewise, they weren’t trained soldiers, selected for their abilities. They were simply vault dwellers, technologically mollycoddled and sheltered from the carnage of the cataclysm above, with an added sprinkle of fanaticism. Despite that, they were the members of survivors with heavy weaponry.
+
+“What do you want?” Gary asked her.
+
+“Sit down,” she said, pointing to a tall stool beside the workshop table. He and O’Neil took a seat opposite one another. “I’m glad that the two of you have accepted me to lead this evacuation mission. I have the best resources, knowledge, and between me and Andy, we can kill that thing.”
+
+“Your advice is welcome,” O’Neil nodded. “Can’t fault you so far, young lady.”
+
+“But I can fault you,” Clara said, giving time for the words to sink in. “I need you two to work together. I shouldn’t really have to say that really, should I? It’s obvious.”
+
+Gary bowed his head, but O’Neil looked at Clara unfaltering. Clara tried to read his expression. His air of authority had intertwined with arrogance. Clearly, he felt that he had done nothing wrong.
+
+“Control your soldiers,” Clara told him. It must have struck a nerve, because the stocky officer lowered his gaze. “And for God’s sake talk to one another. I don’t care what happened six hours ago before we arrived, or a week, or a month, or nine years. Right now, you’re fighting to survive. Get in gear. Unite. Control your people,” Clara addressed Gary. “No bickering. I won’t tolerate it.”
+
+Gary scowled. “This goes a lot deeper than you know. Those prisoners were locked up just for speaking out against-”
+
+“Andy and I can leave right now, if you’d like, let you get on with your little revolution. We can close the vault doors behind us, and lock you down here to sort out your differences.” She sighed. “We’re offering you our help. No… actually, we’re offering you our services. You’re our employer now, both of you, as representatives of this vault. We’re your mercenaries, we’re here to do a job. Don’t get in the way.” Clara rose from the workbench. “Once we’ve finished modifying the shock weaponry, we’re going to move out as a unit. Gary, supervise the redistribution of ballistic weapons. There’s no point your revolutionaries having all of the firepower. How many of them are even trained to shoot a gun?”
+
+Gary’s expression sank. “We won’t just submit-”
+
+“That’s not what I’m asking you to do,” Clara said. “Distribute the rifles evenly. Gather into teams. Get ready to move out.”
+
+“Teams of six,” O’Neil said. “Works best in the corridors.”
+
+Gary nodded along. “Okay.”
+
+“Those who can fight, gather them up. These two of you are in charge of making the teams. Only people who are trained to use rifles get to carry them. I don’t want guns going off behind me in these corridors because someone’s trigger happy or frightened. Also, each team should be armed with a variety of weaponry. Rifles, batons, tasers. We’re not sure yet what exactly will work best against the demon.”
+
+“We can do that,” O’Neil said, fixing Gary with a look. “Right? Happy to share?”
+
+“Um, yeah. No issue.”
+
+“Good,” Clara said. “Am I right in thinking there’s one main elevator in the vault?”
+
+“Yeah,” O’Neil said. “The main elevator shaft connects every level. Then there’s two more shorter elevators, the one we used to come from Admin Sec to the workshop, and one on the other end of this level which goes down from Hydroponics to the kitchens in Habitation Sec.”
+
+“Okay, so the main elevator will be the fastest method of escape?”
+
+“Affirmative.”
+
+“How long does it take to travel to the top from Habitation Sector?”
+
+O’Neil paused, looking at Gary for confirmation. “About a minute?”
+
+“About that,” Gary said.
+
+“Okay, so two minutes to travel from Hab to Admin sec and back?”
+
+“That’s right.”
+
+“That’s pretty slow,” Clara said. “Okay. What I want is to post teams of soldiers at the main elevator entrance on levels one, two and three. We’ll use the Hydroponics level as a stop-off point for evacuees. That way, we’ll have to wait less time for the elevator to travel back down to Habitation Sector with each new load of civilians. Plus, the elevator will be ready quicker if the soldiers guarding Habitation Sec need to retreat.”
+
+“That makes sense,” O’Neil said.
+
+“What about the people who can’t fight?” Gary asked.
+
+“They’ll go to Admin Sec. Seems to be the safest place in the vault currently. Gary, I want you to be in charge of that. Once we have the modified shock weaponry, send a team of six people you trust to escort them upstairs.”
+
+“Okay.”
+
+“We play it by ear,” Clara continued. “O’Neil, I’ll want you to go down to Level Three. Help people escape. Think you can do that?”
+
+“Just waiting for the yellow-jackets to give me a shock rifle.”
+
+“Andy and I will remain here, ready to support either level when necessary. Survival takes precedent,” she continued, driving her point home while she had them both listening and agreeing on something. “The two of you have had it pretty good down here in this vault for a while, whether you know it or not. So, let me be the first to officially welcome you to the apocalypses. Get your shit together. You won’t have a second chance.”
+
+“Hey Clara,” Andy called from across the room. “Checkov’s deodorant can.”
+
+Clara patted the workbench to conclude the meeting and turned to Andy, trying to spot what he was pointing at amongst the storage rack of workshop supplies. “What?”
+
+“Remember that deodorant I used with a lighter to burn those plants a few weeks ago?”
+
+“Erm, yeah.”
+
+Andy hefted a canister off the shelf. There were two more beside it, each painted red with warnings messages written on their surface. “Reckon this is flammable?”
