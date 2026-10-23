@@ -19,7 +19,7 @@ type Seen = {
   readonly ms: number
 }
 
-export type Troubling = {
+type Troubling = {
   readonly answered: (at: number, ms: number) => undefined
   readonly held: (at: number, ms: number) => undefined
   readonly troubles: (at: number, heldMb: number) => readonly string[]
