@@ -1,5 +1,7 @@
 import {
+  keyOf,
   refusalsOf,
+  type Stated,
   statedBy,
 } from "akasha/check/code/pages/identifier-names-one-page/identifier-names-one-page.check-code.decision.code.ts"
 import type { Carried } from "akasha/check/code/pages/relation-resolves/relation-resolves.check-code.decision.code.ts"
@@ -22,8 +24,14 @@ function carriedIn(commit: Commit): readonly Carried[] {
   return found
 }
 
+function sharedIn(stated: readonly Stated[]): readonly Stated[] {
+  const held = new Map<string, number>()
+  for (const one of stated) held.set(keyOf(one), (held.get(keyOf(one)) ?? 0) + 1)
+  return stated.filter((one) => (held.get(keyOf(one)) ?? 0) > 1)
+}
+
 export function identifierNamesOnePage(root: string): readonly Judged[] {
   const commit = commitIn(root)
   const stated = statedBy(carriedIn(commit), identifyingFrom(commit.index.sourceIn()))
-  return refusalsOf(stated, commit.index.listedNamed)
+  return refusalsOf(sharedIn(stated), commit.index.listedNamed)
 }

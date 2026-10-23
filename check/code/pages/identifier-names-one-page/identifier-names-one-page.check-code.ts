@@ -51,6 +51,15 @@ export const identifierNamesOnePage = {
       statement: "Two pages in one change with one value are refused.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An audit carries every page, so it asks the index only for a key two pages state.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "An index entry no page states is judged by the check that the index is level.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No page outside the change is opened to be judged.",
     },
@@ -63,5 +72,5 @@ export const identifierNamesOnePage = {
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 45 },
   createdAt: "2026-08-29T21:39:18.192Z",
-  updatedAt: "2026-09-19T04:48:48.000Z",
+  updatedAt: "2026-10-23T00:04:18.329Z",
 } as const satisfies CheckCode
