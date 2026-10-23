@@ -1,0 +1,61 @@
+Kivamus snorted, glancing at the captain. “That isn’t even half of it." He looked back at the blacksmith. "Anyway, you'll have to keep examining the bars regularly during the process, and once the proper conditions have been reached—as written in that sheet—you will remove the heat. Afterward, we’ll have to let it cool for another two weeks."
+
+Hudan let out a short laugh. “You were right, then!"
+
+Cedoron frowned, still studying the drawing. “That’s a really long process… and a lot of fuel, too. I hope it’s worth all that trouble."
+
+“It will be, trust me on that,” Kivamus said firmly. “Like I said earlier, this is only the beginning. Once we’ve made enough steel to build the Bessemer converter—and once we’ve got a good stock of pig iron to feed into it regularly—we’ll be able to make large batches of steel in a third of an hour. Of course, the loading of iron into the converter, and pouring the melted steel into molds will take much longer, but it's still much, much faster than the process we need to use.”
+
+The blacksmith looked at him in wonder. "That's really way too fast!"
+
+Hudan looked curious. "Why is it so fast anyway?"
+
+Kivamus glanced at the captain with a chuckle, knowing that he barely understood anything about the process, but he encouraged curiosity and a spirit of inquiry in everyone, which would be a good thing for Tiranat in the long run. "It can do it that fast because the converter uses coke and its design is very efficient, which allows it to melt the iron completely—something which this furnace we're making simply can't do."
+
+"Hmm... That makes sense," Hudan nodded sagely, making the other guards snicker nearby, although it only took a single glare from the captain to shut them up.
+
+"Wait," Cedoron interrupted, "did you just say that this converter will melt the iron completely?"
+
+Kivamus nodded, recalling that the technology to make cast iron—that is, melting the iron completely and casting it into molds—was only introduced in Europe in the 15th century on Earth for casting cannons and their round shots, even if it may have been used earlier in other locations. So far he had seen that the Kingdom of Reslinor was similar to medieval Europe in technology level, which meant the process of making cast-iron was not something common here, even if other places in this world might have discovered it already. Or maybe not, he had no way to know for sure.
+
+He explained, "Yes, that's one of the reasons which makes the Bessemer converter so efficient." He grinned, thinking of modern methods of making steel on earth. "In fact, I know of a way which is much better than even that method, and another way which is a lot better than that second method, but we have a long, long way to go before we can reach there. Still, making the converter is our next target after we get the furnace working properly."
+
+Cedoron nodded slowly. “I have absolutely no idea how you know about so many things which I can't even imagine, but you’re right. It’ll be worth going through all this to make the slow-working furnace, if we can eventually make steel that fast with that converter.” He paused for a while, scratching his chin. “Earlier, you said that pig iron has too much carbon, and wrought iron doesn’t have enough, while steel has just the right amount of it. So, if we’re using wrought iron to make steel, does that mean the iron’s going to absorb some carbon during the process to turn into steel?"
+
+Kivamus looked proudly at the smith, seeing how far Cedoron had come by now even though he only got a little time to explain about these things to others. “Exactly. The Bessemer converter works by removing carbon from pig iron, while the cementation process adds carbon to wrought iron. They do the same thing in reverse, and reach the middle ground of mild steel, which is what we need here."
+
+He added, "So in the furnace we’re building, the iron will slowly absorb carbon from the charcoal. When it's ready after three weeks, those bars will turn into an intermediate form of steel. That will be better than what we're using, but it just needs one more step to reach the final product, since that intermediate product won’t be uniform enough yet to be used practically. So it'll need just a little more work after that."
+
+Cedoron straightened eagerly. “Tell me what needs doing. I’ll handle it."
+
+“You’ll need to cut the bars into shorter lengths and bind them with each other,” Kivamus explained. “Then heat them in the forge and weld them together. After that, cut and weld them again. Then again. Do this process three to four times, and we'll get a good quality of steel here. I know it’s tedious work, but the more you repeat it, the more uniform the steel becomes. But no need to do it more than four times, since the gains are minor after that, and it could lose too much carbon. Once all that’s done, the steel we'll obtain will be much more uniform and suitable for all our uses."
+
+“That’s fine,” Cedoron said. “If it helps us build this Bessemer converter later—or to make the lathe parts you want—it’s worth every bit of trouble. This welding process is easy enough, so my apprentices can manage it by themselves. But will this steel be easy to work with? Will it even be of the same quality as that made by that converter you mentioned? Or will it be weaker?"
+
+“No, it’ll be just as good,” Kivamus replied. “You can forge the steel just like wrought iron—file it, shape it, weld it and so on. Once it's ready, you can forge it into the gears and complex parts we need for the lathe, then use a file to brush off any excess fragments and achieve the exact shape we need."
+
+“Oh, that's good to know,” Cedoron said with a nod. “Then I’ll have the boys help with it as well. Of course, I’ll check each steel component of the lathe by myself and will confirm that it matches the dimensions in the blueprint."
+
+“Perfect,” Kivamus said. “I’ll tell Duvas to send you some extra hands tomorrow so they can start building the furnace from the fire-clay. Just make sure they follow the measurements on the drawing correctly. Even after attending Gorsazo's classes for a few months, hardly a few of them can read anything. So you'll need to be there until it's ready."
+
+“Of course,” Cedoron said. "I'll get it done."
+
+“One last thing,” Kivamus added. “Once the steel-making furnace is ready, use the same crew to build another furnace nearby—which is called a beehive oven because of its shape and it'll be used to turn coal into coke. The full design’s on the back of that second blueprint, along with its dimensions. It’s also quite simple to make and manage, but again, it's slow work. So better to start early."
+
+"How does it work?" Cedoron asked. "Coke is also mostly carbon, just like coal, so the process can't be similar to making steel since we aren't adding anything in it."
+
+Kivamus explained, "Think of it like baking bread—the outer layer burns and heats the inner layers, driving off the impurities until what’s left is pure fuel—using a process called destructive distillation. You can leave the details to me, but in short, coal will be heaped inside it, and the furnace will be sealed with clay, leaving only a small air vent near the top. Once it gets hot enough, the impurities will turn into gas and start burning, providing more heat for the remaining coal, and soon what's left will be purified coke."
+
+He continued, "That coke will burn much hotter and cleaner than coal and will help every step of smithing. Once that's ready, you can stop making more charcoal and just use coke instead." He tried to think if there was anything he had left out. "Just remember that everything related to smithing—the cementation furnace, the beehive oven, the triphammer, and later a new forge—will be built on the far bank of the stream. The near side will only be for carpentry stuff and the sawmill. The workers can't be allowed to mix up any of these, since that would easily ignite the wood and the sawdust spread around on the near side, if it comes close to the burning gases and sparks from the furnaces."
+
+“I understand,” Cedoron said. He looked toward the forge, where the light of the glowing fire flickered on the walls. “It’s already late in the afternoon, so I’ll have the laborers work on it starting tomorrow morning. It will occupy a lot of my own working hours, but until Darora wants me to make the iron components for the next scorpion, I can spare the time for this."
+
+“Good,” Kivamus said, standing up. “Then carry on. You’ve got plenty of work to do."
+
+Cedoron dipped his head respectfully, then turned back to the smithy, shouting orders at his apprentices before his voice was lost again in the din of the forge.
+
+Kivamus watched for a while—the steady rhythm of hammers, the flare of sparks, the low hum of men at work—then turned to Hudan. “Let’s head back.”
+
+The guard captain nodded, and the two of them, as well as the other guards walked away from the heat and noise toward the quieter dirt road leading to the manor.
+
+Kivamus noticed the coal miners they had pulled from the mine and told to break up the huts and shacks and clear the ground of the village were hard at work on their way to the manor. It wouldn't be long before that was done too. Hopefully the sawmill would be ready soon, and they could start making more housing soon.

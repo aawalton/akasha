@@ -1,0 +1,53 @@
+Kivamus explained, "There’s a machine I've wanted to build since winter. I'd even started its blueprint in the past, but we had so many other things at a higher priority that it kept getting pushed back. If I sit with it for a week, I think I can finish all the remaining details. Once the machine is built, it will be something that will revolutionize crafting anything small and precise—first in woodworking, later in iron parts too."
+
+Duvas frowned. “What are you even talking about?”
+
+“It's something we call a lathe,” Kivamus answered. “But to do it right, we’ll need a better version of iron than what we’re using now—steel. After seeing the Tuilas' plate armor up close, I’m sure some blacksmith in southern Reslinor already makes it, which means it will be easier than I thought it would be. I’ll speak with Cedoron about how we can produce steel here. As soon as it is available even in a small quantity, we will use it to make the necessary metal parts for the lathe. We will also need some gauges to measure the parts accurately. Vernier calipers will be simple enough to make in the start with steel, and later we'll build a micrometer." He grinned. "That caliper can measure dimensions more accurately than the width of a human hair, while the micrometer is 20 times more precise than that."
+
+Duvas looked wary. "Frankly, that's insane... I've never even heard of such a thing."
+
+"You'll see when it's ready." Kivamus pointed lightly at the table as if lining pieces up. “Once we have a working wood lathe, a single carpenter can do the work of at least half a dozen of 'em, if not even more. But it will have another benefit apart from increasing their productivity—which is much improved accuracy and precision. So the lathe will also help us in making the crossbows and other such things more redundant to failure, since accurate parts are what make field repair possible."
+
+He explained, "For example, every crossbow may look the same to the eye, but each piece is just a little different. That's normal when crafting everything by hand. So when a part breaks, you can’t swap in another; you have to carve a new one to fit, which takes precious time of the carpenters. But with a lathe preset to fixed measurements, its accuracy and precision will ensure that the parts come off in the same size every single time. That means interchangeable pieces. Think of it this way—if a guard knows any particular part tends to break easily, let's say the trigger, he'll just keep a spare and replace the part easily by himself. Field repair becomes ‘pull the bad part out, push the good part in,’ not ‘walk it back to the workshop and beg Darora for an hour.’”
+
+Duvas’ snorted after hearing that, but he still looked doubtful. “And this single machine does all that?”
+
+“It does it by precise turning, but you'll see when it's ready,” Kivamus said. “You've seen a potter's wheel, right?"
+
+The majordomo nodded. "Yeah. The village potter uses it every day."
+
+"The lathe is basically an advanced version of that, and it will increase the productivity of small scale and intricate carpentry just as much as the sawmill is going to do for the large scale wood cutting and shaping. Once these machines are ready, Darora and his apprentices will be able to craft the parts of crossbows and scorpions—stocks, shafts, triggers, pulleys, gears and so on—much, much faster, while Taniok and his own men will be able to make planks, beams, posts, and other such large things just as fast. The carpenters will stop losing their precious working hours to tedious manual shaping."
+
+Kivamus glanced toward the window, thinking ahead. “When we can make steel, we’ll build a simple metal-cutting version of a lathe too. That'll let Cedoron shape iron parts to pre-fixed measurements instead of by eye and hammer. Then the iron work becomes easily repeatable—screws that always match their nuts, axles that fit their bearings the first time, pulleys and small gears that don’t have to be refiled for an hour to run true. Working together, Darora's men can make standard-sized hafts for spears, shovels, trowels, hammers, pickaxes and the like, while Cedoron's men will make the standardized iron parts in a single try without wasting time by needing to recheck whether the haft fits the spearhead and so on. Just imagine this machine increasing the productivity of every wood and metal worker by 5 to 10 times easily.”
+
+"It does sound incredible..." Duvas rubbed his jaw. “How will you power this... lathe? Will it need a pair of nodors to turn it? Or a water wheel?”
+
+“Only human power, to start,” Kivamus replied. “A simple up and down movement of a treadle under the carpenter’s feet will move a crankshaft on the side of the lathe, which'll turn the spindle—the rotating part. If it needs more torque and less speed, we add a pair of reduction gears between the crank and the spindle. If it needs more speed, we change the ratio the other way. In the future, it will even help us in making the iron components for the cloth making machines. A lathe won't be easy to build the first time, but I think we can do it soon with what we have.”
+
+However, Kivamus realized that all the cloth making machines—the cotton gin, spinning jenny and the power loom—would need a better power source. Human or animal power simply wouldn't do it. For that he wanted to make a steam engine by the end of the year at most. However, making precise cylinders, pistons and other parts for the steam engine wouldn't be possible if everything was forged and shaped manually. It wouldn't even seal properly in that case. So they needed machine tools—lathes first, then the rest. The lathe was the door to the others. When they had both, it would be possible to make steam engines in the future.
+
+Ideally, the lathe also needed a better power source like a steam engine, but that needed a lathe to be built first. It was a catch-22 situation. So they would have to make do with human power in the beginning.
+
+He traced an invisible loop in the air. “Later on, when we have made a steam engine here, we can use that to run the lathes. But we don’t have to wait for that. A foot-powered spindle will still give us the precision we’re missing and will allow Darora and his apprentices to make everything much faster and accurate. Steam engine will be the next logical step.”
+
+Duvas blinked. "Steam...engine...?"
+
+“That’s a much, much better source of power than a water wheel,” Kivamus explained. “And it will run on coal, which we have in abundance. The reservoir already gives us power at the dam through the water wheel for running the sawmill and the triphammer, but water doesn’t go everywhere. However, just a small steam engine near the workshops would let us run a triphammer or a drill where we need it. Even a simple one changes what we can build. But we can’t cut a good cylinder or shaft for that unless we first have a tool that makes round parts to size. So—lathe first.”
+
+The majordomo shook his head. “I don't understand any of those technical terms but you’re telling me this one machine will solve crossbows, scorpion parts, and half the repair work headaches in the village?”
+
+“Well, it won’t replace human hands,” Kivamus shrugged, “but it’ll still multiply everyone's productivity. Darora and the apprentices will stop wasting time trying to match a curve by eye, since the lathe works on pre-fixed sizes. It means even a junior apprentice can produce usable pieces with a simple jig instead of a skilled carpenter who needs years of practice. Once we set all the dimensions, the next dozen pieces come out the same. That’s what turns a day of shaping into a breezy hour's work.”
+
+He let the next steps line up in his head. In the future he could even design a duplicating lathe for producing the simpler wooden parts much faster, and with barely any manual input—like the stocks for crossbows and scorpions, and in the future, for guns. Blanchard lathe had revolutionized the process of making gun stocks in the 19th century on earth, and it could easily do the same in this world.
+
+Duvas frowned. "All that sounds too complicated... I am already getting a headache hearing these new terms."
+
+Kivamus chuckled. "I'll manage the technical side, although it's easy enough when you think of it step-by-step. Step one—finish the blueprint with proper measurements for the wood lathe. Step two—speak with Cedoron about small-batch steel. We don’t need much to start: the spindle, bearings, tool rest hardware, and a few shafts. That'll do for now. Step three—have Darora and an apprentice build a strong wooden bed and frame while Cedoron and his boys forge and harden the steel bits. Step four—assemble, test, and set up measuring gauges so the pieces it makes stay consistent. Once the lathe is running, we'll standardize the critical crossbow parts and easily keep bins of spares.”
+
+Duvas’s eyes narrowed a little. “And the lathe will really let a single carpenter do the work of—what did you say—half a dozen?”
+
+“Likely more, in most tasks,” Kivamus said. “Although not in everything. But for turned parts, it will.”
+
+He looked at the ledger stacked on the side table. “It'll also help us in arming the village faster. Once we standardize scorpion parts, the next one wouldn’t take 20 days. We'll bring the time down—10 days, then less—as the workers get used to the machine. Same with crossbows. The trigger assembly becomes 5 pieces made to one set of sizes, not 5 guesses, hoping they would fit together—and if they don't, then spending hours making them fit. We are making two crossbows a week right now, but with a lathe, we could make a new one every day. Just think how much it would change everything.”
+
+“It certainly would." Duvas glanced toward the long table where some blueprints were spread out, then back to Kivamus. "But you've been working so hard on the cloth-making machines you’ve been sketching. Are you really going to postpone them?”

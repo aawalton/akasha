@@ -1,0 +1,65 @@
+The blacksmith leaned forward, resting his elbows on his knees. “About steel… You know, when my father was alive and we lived near Ulriga, he used to work at a big smithy inside the city. They made plate armor for knights there. That had to be steel, I think.”
+
+Kivamus nodded. “I saw the armor of Tuilas from up close. It was definitely steel. And now we need to make it here.”
+
+Cedoron rubbed the back of his neck. “I’ve always wanted to work with steel. Heard it’s stronger and tougher in every way. Never thought I’d get the chance in Tiranat, though.”
+
+“You will, soon enough,” Kivamus said with a smile. “And on much more, in time. Anyway, before I tell you about steel, do you remember what I'd told you about carbon?”
+
+“Sure. You said that it’s a small particle which is found in everything that lives." The blacksmith snorted, "I guess that's why whenever Leah overcooks the food—whether it's plant-based or meat—it turns into something black which looks suspiciously similar to charcoal powder... She can sew any cloth or leather which has been torn in a jiffy, but she can't cook anything worth a copper! Just don't tell her I said that!"
+
+Kivamus and the guards laughed loudly hearing about the young maid who lived with Cedoron, while also working at the manor during daytime.
+
+Hudan spoke up while still trying to control his laugh, "That must be the reason Madam Nerida only gives her the sewing tasks at the manor, instead of telling her to cook."
+
+"Perhaps..." The blacksmith chuckled before he looked at Kivamus. "More relevant for a smith, you said that this carbon is found in a big amount in coal and even more in charcoal.”
+
+Kivamus nodded. “Right. And coke—which is a purified form of coal—has an even higher carbon content. The more carbon in the fuel, the hotter and cleaner it burns.”
+
+Cedoron scratched his smooth chin. “So that's why we have to use charcoal when we need some good heat for forging. Coal’s fine for heating up the iron for small tasks, but it's not nearly enough for forging or shaping. It’s cheaply supplied to us by the manor, though, so we save the charcoal when we can, since it takes a really long time to produce and needs an apprentice working on it full-time to make it.”
+
+"That's true." Kivamus leaned back against the wooden wall behind the bench. “Coming back to the topic, there are two main types of iron—wrought iron and pig iron." He was omitting cast-iron here, since the bloomeries in this world, or at least in this kingdom, didn't produce enough heat to melt iron ore completely, or to cast it into, well... cast-iron.
+
+He continued, "Wrought iron has almost no carbon, so it's malleable—soft and easy to shape. On the other hand, pig iron has too much of it, so it’s too hard and brittle to forge into tools. That's why we need to make steel, since its carbon content sits between the two. More carbon than wrought iron means steel is much stronger than it, but it doesn't have nearly as much carbon as pig-iron, which would prevent bending or shaping it.”
+
+Cedoron nodded. “Yeah, you had explained about this in the past. The ingots we buy from Cinran—which are actually brought there from Ulriga—are wrought iron. It’s what every smith wants for his forging work. Hmm... So that's the reason the knights get their plate armor made from steel, even though that armor costs way too much. Steel makes it much stronger, so it can withstand most strikes from any common iron sword.”
+
+“Exactly," Kivamus agreed. "Wrought iron has been strong enough for most of our purposes until now, but we need to use steel to further improve the quality of our weapons and tools—which will also make them last longer—and also for the lathe components you need to make. Once you are making the iron components of crossbows from steel, the weaker parts will stop breaking again and again, which will save your time instead of you forging those parts again to fit that particular crossbow. Same for spearheads, and later in the scorpion parts."
+
+"True that," Cedoron quipped. "So how do we make steel?"
+
+Kivamus sighed. "To produce steel in a large quantity, we'll need pig iron first. Since we can't buy it easily in southern Reslinor, that means building a blast furnace to smelt iron ore directly into pig iron.”
+
+He looked into the distance. “If we could produce pig iron here, we could then use something called a Bessemer converter to turn the pig iron into steel. This method is also fast and cheap compared to other methods—perfect for making steel in bulk. In particular, it will produce the general purpose steel known as mild steel. The Bessemer converter would also let us make all kinds of special steel alloys in the future—each one meant for a different purpose—which mild steel just isn't suitable for.”
+
+Cedoron grinned. "I can hardly wait to use steel. It sounds so interesting to work with!"
+
+"That it is, but..." Kivamus paused, shaking his head. “But we’re nowhere near that level yet. With our resources and manpower we simply cannot make a blast furnace right now, and we don't even have a good source of iron ore so far—or the funds to buy it. We can't even afford to spare enough iron to make the Bessemer converter at the moment. We need that iron for other tasks—like making mining tools and weapons. Apart from that, we'll also need to produce coke here for both of those steps for making steel in bulk. While we can do that with our current resources—and we'll even do it soon to improve the efficiency of your forge in the future—it wouldn't really help us until we can make a blast furnace and a Bessemer converter."
+
+The blacksmith’s grin faded, replaced by a thoughtful frown.
+
+“My target,” Kivamus said, “is to reach that stage and achieve those capabilities in the coming year. It won't be easy, but we’ll get there step by step."
+
+Cedoron nodded slowly. “I’ll be waiting eagerly for that day, but what do you want to do right now? You wouldn't have come to me unless you had a plan.”
+
+Kivamus nodded. “Yes. I do have a plan that fits our current capabilities. What we have plenty of right now is wrought iron—and we can use that to make steel through what’s called the cementation process. It’s a very slow and time taking process compared to the methods I mentioned before, but it’s within reach for us."
+
+He gestured loosely toward the forge, where sparks were still flying from the apprentices’ work. “We'll build a new furnace for it with the fire-clay the diggers had gathered from the eastern hills when they were digging there to build the dam. Once we’re making steel regularly this way, our target will be to produce more steel than we require for our current needs. That surplus will be stored for later—eventually reaching enough to build the Bessemer converter in the future. The blast furnace will be built once we secure a steady and cheap source of iron ore. Once we have both of them ready, our bulk steel-making capacity will exceed anything you can imagine right now." He smiled faintly. “Of course, we’ll need to spend a lot of gold to build all that, but leave that part to me."
+
+"Of course," Cedoron nodded, his thick arms folded over his greasy apron. “So about this cementation process—how exactly does it work? Will it turn our ingots directly into steel? The same kind they use for plate armor?"
+
+“Not directly,” Kivamus said. “Firstly you’ll have to forge the ingots into long iron bars. And you’ll also need to produce much more charcoal than usual for this to work."
+
+Cedoron grunted. “That'll be time-consuming but sounds easy enough. I’ll put one apprentice on bar-making and another on charcoal. It will occupy them full-time, but this is important."
+
+“Good. You can hire more workers if you need.” Kivamus unrolled a big sheet of paper and handed it to him. The drawing was clean and detailed the cross-section of the furnace. “You’ll make the furnace from fire-clay following this design. It won’t be too large—our current supply of iron doesn’t justify it—but it's not a good idea to build it here inside the village for many reasons. So we’ll place it on the far side of the eastern stream, close to where the triphammer will stand. Duvas will assign you some extra workers for this construction. Once it’s built, light a fire inside and let it bake solid before we can use it for the cementation process."
+
+Cedoron glanced over the blueprint, tracing the sketched lines with his thumb, while trying his best not to make the big sheet of paper dirty. “I was at the stream yesterday, and I saw there’s plenty of room on both banks. You chose the site for the dam very well, milord."
+
+“I had to travel for a good distance to find such a superb spot,” Kivamus grinned. “The stream narrows just upstream of where the dam is located now, which made it easy to build the reservoir there. But just downstream of the dam, the stream bends southward and the hills are spaced much wider. Perfect for making furnaces and running machines with water power. So, how long will it take?"
+
+The blacksmith paused for a while. “I think we can make the clay furnace in two days or so if we have enough hands. Baking it will take another few days. What's the next step?"
+
+“When the furnace is ready for use,” Kivamus said, handing over a second, smaller sheet of paper, “you’ll place layers of iron bars and charcoal inside the furnace, alternating them until it's nearly full. The top layer must be charcoal, then it'll be sealed with fire-clay to make it airtight—that is, to keep out any air until the process is complete. You have to keep in mind that bars shouldn’t be too thick, but even then, you’ll need to heat the furnace for at least a week. I've written about the full process in this sheet."
+
+Hudan, standing nearby with arms crossed, gave a low whistle. “A week? That’s a long time!"
