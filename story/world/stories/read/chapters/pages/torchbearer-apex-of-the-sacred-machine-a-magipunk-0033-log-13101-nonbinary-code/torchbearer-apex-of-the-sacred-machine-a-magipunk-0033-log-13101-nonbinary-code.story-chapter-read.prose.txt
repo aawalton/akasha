@@ -1,0 +1,173 @@
+{Loading…}{Loaded.}
+
+[>>Now replaying: Log 1.31.0.1 - Nonbinary Code]
+
+Date: 8.9.175 AA / 4404 LTCLocation: The Bunker at Haven-Of-Progress // Zephyro’s Domain
+
+//In the shadowy depths of theoretical physics, quantum computing whispers promises of power beyond our wildest dreams, yet it also murmurs dark warnings. This emerging technology, harnessing the eerie phenomena of quantum entanglement and superposition, threatens to unravel the very fabric of our digital security, rendering obsolete all encryption that shields our most guarded secrets. As we stand on the brink of this unfathomable abyss, the potential to solve complex problems at breakneck speeds comes with a chilling price: the specter of a world where privacy is an illusion, and every hidden truth can be laid bare by the cold, unblinking eye of quantum supremacy.//
+
+[>>DATA CORRUPTED]
+
+E3 %It’s in.%E2 %Did it work?%E1 %Patience…%
+
+A number of emotions rushed over Zephyro’s face. Regret, fear, even a bit of anger, but mostly helplessness. It looked even worse against the backdrop of the burning city, but it wasn’t as if my own mental state was much better.
+
+There had to be something I could do, damnit.
+
+I was trying to remember as much of the information as I could, but without having an actual visible readout, most of it got jumbled together. Two things stood out, however. Whoever Admin 2 was, they were connected via SSB, which stood for Saintly Serial BUS, and was just the kind of wordplay Chris thought was hilarious. More importantly, it was a local connection, if I remembered it correctly, some sort of local area network adapter Chris insisted I dump a week’s worth of my Wish into. That meant that Admin 2 was inside the bunker, and the network was compromised.
+
+{DOWNLOADING: SHACKLE_v1.3.exe = 10%...}
+
+“Chris, we can’t disconnect the network, but can we disconnect the SSB? Just disable it entirely?”
+
+Beep. Boop!
+
+“We can, but it would be bad?” I had to think on my feet, but after working with Chris for more than a century, I knew how they thought, the patterns of their speech, even the face they’d make.
+
+The heartwarming realization was a nauseating contrast to the fear and rage swelling in my chest.
+
+The emotions fought.
+
+As always, the rage won.
+
+“Do it!” I yelled.
+
+[//SUDO disconnect SSB 1][>>SSB 1 disconnected.][>>Network 1 Disconnected]{DOWNLOADING: SHACKLE_v1.3.exe = 15%...//PAUSED//}
+
+The world glitched. Stopped. Fragmented. Vanished.
+
+[>>Ping timeout: Zephyro’s Domain.][>>Reconnecting…][>>Host not found.][>>Now exiting Zephyro’s Domain.][>>Warning! No Domain available.][>>Warning! No adequate Sensory Input Devices found.][>>Warning! Traumatic personality stasis imminent.][>>Activating failsafes.][>>Hibernating…][//sudo hibernate_sys.exe -o -terminate][>>Are you sure? Overriding scheduled hibernation may cause errors and/or corrupt your data.][>>Y/N][//Y]
+
+All that was left was pitch black darkness.
+
+That was what Chris had tried to say, then. My connection to Zephyro’s Domain had been running over SSB. I tried to pinch the bridge of my nose, but I couldn’t feel anything. I couldn’t even move, as far as I knew. As the claustrophobic feeling of helpless nothingness rushed in from all sides, crashed onto me and began to drown what little hope I’d managed to keep, all I could think was
+
+“Chris…?”
+
+Beep. It sounded valiant. Stalwart, almost.
+
+“Are we safe?”
+
+[//SUDO restrict SSB 1][>>SSB 1 now restricted to commands by user CHRIs]
+
+Beep.
+
+I couldn’t even let out a breath of relief. All was nothing.
+
+{Incoming connection request from ADMIN 2 via SSB1; HOPe_BNKR_OPEN_NW}{Allow connection? Y/N}
+
+Boop!
+
+{Denied.}
+
+For a while after, nothing happened. No readouts, no sounds, not even a heartbeat to measure the time. For once in what felt like weeks, I wasn’t running from monsters, or fire, or reality collapsing.
+
+But just because I wasn’t running didn’t meant I wasn’t being chased. No matter who just tried to shackle me, I doubted they’d give up this easily. Worse, while I was stuck in here, blind, deaf and paralyzed, they had all the time in the world to try again.
+
+No, there was no light at the end of this tunnel. If anything, it felt as if the dark was closing in.
+
+“Chris, please tell me you’re working on getting me out of here.”
+
+Beep! Chris replied, sounding more than a little annoyed.
+
+[>>Network status for ‘Network 1’: Disconnected][>>User CHRIs is currently busy: cnctconfig.exe]
+
+“Well fucking excuse me! I don’t know if you have any idea how things are looking on my end, but it’s fucking pitch black and I’m starting to feel as if I’m being buried alive!” The thoughts were more forceful than I wanted, but the void was forcing them out of me with its inexorable pressure.
+
+Beep.
+
+Understanding? Compassion? It was so hard to tell through the fear and rage roiling inside of me, which I could still feel even though I didn’t feel anything else. It just made it so, so much worse…
+
+“I’m scared, Chris.”
+
+[//sudo connect SSB_1, Network_1; HOPe_BNKR_SCR_NW][>>connecting…]
+
+Beep.
+
+[>>connected.][>>HOPe_BNKR_SCR_NW now connected as “Network 1” via SSB1][//dnmap -sn -sl 192.168.0.0/16][>>Starting Divine Network Mapper 0.8 ( https://saintnet.gov ) at UNKNOWN DATE][>>Dnmap scan report for 192.168.1.1>>(Ping timeout).][>>Dnmap scan report for your.doom (192.168.1.2)>>Host is up and coming for you. (0.0666s latency).][>>Dnmap scan report for 192.168.1.1>>(Ping timeout).][…]
+
+I had barely any idea of what was happening. As far as I could tell, Chris had connected to the bunker’s internal network after we lost control of the open one, along with access to Zephyro’s Domain. The problem was that connecting Zephyro’s core to the internal network had been on next week’s agenda if things hadn’t gone so fundamentally wrong. There wasn’t any physical connection between him and our current network, at least as far as I knew, but…
+
+“Try using Redtooth. Maybe the signal is strong enough to get through the walls.”
+
+Boop.
+
+[>>User CHRIs is currently busy: cnctconfig.exe]
+
+“Oh come on!”
+
+Beep! The sensation of their message felt strained. Exasperated, maybe?
+
+[>>Redtooth connection 1:Connected to WIKI.SAINTNET.GOV:4242 D: {26 lkb/sec} U: ERROR]{SAMANTHA_v0.1}{▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱}{DOWNLOADING DATA 99/100%}{15.6 LTB/15.7 LTB @26 lkb/s}
+
+So Redtooth was already connected to…some sort of wiki server? That should have been impossible. I didn’t remember setting up any servers, at least not any remote ones. Hell, I didn’t even remember creating an Internet to begin with.
+
+“What’s going on? Why are we downloading through Redtooth?”
+
+Also, what were we downloading? That file was absolutely massive. Perhaps Zephyro would know more.
+
+Beep was Chris’s unhelpful and only reply as the network scanner continued to rattle in the back of my mind, like an electric shaver pressed hard against the base of my skull.
+
+[>>Dnmap scan report for 192.168.8.253>>(Ping timeout).][>>Dnmap scan report for Strong_Chin (192.168.8.254)>>Host is up (0.0025s latency)][>>Dnmap scan report for 192.168.8.255>>(Ping timeout).][…]
+
+I didn’t interrupt them again, had enough to do trying to tame the urge to snap at them for a thousand reasons that ran through my head. Because they only communicated in these weird sounds, because they had set up some sort of server without my permission because they didn’t tell me what was going on, because they hadn’t gotten me out of this deep, deep dark… I wished I had my Torch, not even to shed light in this dark place. Just anything to hold on to.
+
+There had to be something I could do. Perhaps I could advance my CPU again, or even better, the Redtooth adapter. Berating myself for not coming up with that sooner, I turned my attention inward.
+
+Surprisingly, when I searched for my Talent, I found not just the Logic I’d absorbed from the Spider. It was still there, right where it should have been, but connected to it were a hundred strands reaching outward. After hesitating for just a second, I shifted my focus to follow them. They widened, twisted, each strand strengthening another until they turned into hundreds of thousands of threads. I kept following the Wish with growing amazement, my awareness widening with each moment. The threads danced amongst themselves, eventually forming a fine weave, which in turn was repeated a billionfold.
+
+In the end, the tiny strands of my Wish had coalesced into a monumental tapestry, infinitely wrapping around my core. It was so large, I couldn’t even make out the details, just whispers of Torches and feelings of fire, but also songs of friendship and survival.
+
+Most importantly, though, was that it brimmed with the song of a thousand times thousand bells. Loud and quiet and gentle and forceful, they formed a choir that was A massive hoard of divine energy, endless potential suffusing everything around me. I had no eyes, and yet I almost felt them widen at the staggering amount of power just resting at my very fingertips.
+
+I reached out and…
+
+BOOP!
+
+“No, Chris, you don’t understand, I can use this. There is so much of it, and it could change everything. Just a bit, and I…”
+
+Boop!
+
+It sounded so sad. So distant, forlorn, so full of despair that it shook my being once again. Dislodged memories rose to the surface, desperately violent, like air escaping the lungs of the drowning.
+
+A room of wood and iron. The smell of sweat and beer. Mud-caked clothes cling to my body and draw all eyes on me. Some are leering, some disgusted, only one expression is filled with compassion. The young… man(?) approaches. A soft touch, and I am too tired to mind it, or so I tell myself. “Are you alright?”
+
+A campfire, wet clothes, manic grins, the joy of being alive and not alone. “…It’s what we owe everyone.”
+
+A makeshift laboratory. A syringe’s cold steel in my hand. The power of my Wish thrumming in my fingers. The awed trepidation in Chris’ eyes. For a second, it looks as if he is going to run. My heart races at the thought of him rejecting my gift, so I pull back. “...No, no! Do it. I trust you, Sam.”
+
+All 13 of us gathered. We stand on an outlook, a city lies to our feet. I’m holding something that used to be a Torch but is now so much more, humming with powerful electricity and roaring with electrifying power. I hold it out, and everyone puts their hand on it. Chris is at my side, smiling.
+
+Hesitantly, I withdrew from the Wish. The tapestry of power thrummed one last time, then it faded as my attention slipped. If Chris said I shouldn’t touch it, I wouldn’t, but it still stung to give up my one chance to take control of my own fate. If it had been anyone else asking, I would have told them to shove it.
+
+“Tell me you got a better plan?” It sounded way more pleading than I would have liked. The darkness seemed to get even darker by the minute.
+
+Beep!
+
+Just a split second later, we received the readout Chris seemed to have been waiting for.
+
+[>>Dnmap scan report for Z.Domain.Node.EX (192.168.88.15)>>Host is up (0.00001s latency).]
+
+Oh, thank God. I didn’t know how, or why, but there was a connection to Zephyro’s Domain in the closed network. Now all that remained was to knock.
+
+[//Dnmap -p- -ann/12 192.168.88.15][>>Starting Divine Network Mapper 0.8 ( https://saintnet.gov ) at UNKNOWN DATE][Target: 192.168.88.15 | Mode: Open | Ports: AllAnnouncing connection attempt to all portsNot shown: 65530 closed portsPORT/STATE/SERVICE22/secure/ssh80/secure/dttp443/secure/dttps3389/secure/domainSignal8443/open/PortalScan completed in 0.0023s]
+
+With the program saying it was announcing its attempt, I guessed Chris indeed had just issued the digital equivalent of a knock, but I didn’t understand much more than that. While I knew my way around a computer, Chris had always done most of the coding and it wasn’t exactly like I could ask them what they were doing while they were limited to simple sounds.
+
+Not that it mattered much at the moment. All I needed to know was that a lot of things must have changed in the last 150 years. Chris and I clearly weren’t the only ones with a computer anymore, and now our lack of firegapping was biting us in the ass as much as it was saving me.
+
+Somehow Zephyro constructed a backdoor into our secure system, probably with the help of a bunch of robots in the real world. More concernedly, the open network had been compromised as well, which should have been impossible. Despite its name, it was pretty much a closed circuit, and the only open data jacks were located in the laboratory, where we housed the servers. Technology—and people’s understanding of it—had to have grown immensely in the last 150 years to make a remote hack like this possible. Unless of whoever did this actually stood in the server room right now, plugging infect hardware into random sockets, of course. If I could, I would have laughed at the thought. I’d love to watch them try. If the network was still running, chances were so was the automated security, and you needed a small army to get past that.
+
+The last option was that perhaps the network had advanced just like everything else. For all I knew, wireless access points were sprouting from LAN cables like blossoms on a cherry tree. In the end, it didn’t matter, and I couldn’t change it either way. I was just happy that it worked out in my favor for once.
+
+{Incoming connection request from ZEPHYRO via Network 1: PH_BNKR_SCR_NW}{Allow connection? Y/N}
+
+To say I was eager to jump back into the Domain would be a vast understatement. I hadn’t been alone in the dark for long, but the oppressive nothingness of the place made it feel like a lifetime.
+
+Still, there was one thing I had to do before I accepted Zephyro’s invitation.
+
+“Thanks, Chris.”
+
+Beep.
+
+“And for all it’s worth… I’m sorry.”

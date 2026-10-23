@@ -1,0 +1,151 @@
+{Loading…}{Loaded.}
+
+[>>Now replaying: Log 1.9 - The Fear, the Weight, the Name]
+
+Date: ErrorLocation: Zephyro’s Domain?
+
+//Do not be scared of what lies under the mountain, child. It can feast on your fear, and so you must n—//
+
+//There is a town called Paradise Roots, hidden where Americana is more than just a whispered myth of old//
+
+[>>DATA CORRUPTED]
+
+E2 %Urgh… Fine. Here, Tin, take the witchlight. Maybe you can find a way out.%E3 %Really?%E2 %Yeah.%E3 %But…%E2 %Just take it. I don’t like the cursed thing anyway.%E1 %Stay on the table, though! I don’t want that machine to get any ideas.%E3 %Sure.%E2 %You can see everything from here, anyway.%
+
+“Zephyro? Scared of me?” I asked Kasha who was still walking next to me, even though she had lowered her hand and was nervously fumbling with the butt of her crossbow. I wondered if she even noticed.
+
+I scoffed. “He can probably break me in half if he wants to. Why would he be scared of me?” If this had been the real world, and I had my armor and Torch, things would have been different of course. This was a Dream, though, and obviously, the caster had made damn sure I didn’t have my power available. Not that it would stop me from fighting if push came to shove, but if I died, I would waste a lot of time.
+
+Also, as much as I didn’t want to admit it, I didn’t know how much more of this I could take before my doubt swallowed me whole and I began to believe the lies.
+
+“Sure…” Kasha said. “But you see… how can I say this?”
+
+“Plainly,” I said, voice flat.
+
+“You have a bit of a reputation, Sultana,” Kasha said, and I didn’t miss that she’d slipped back into honorifics.
+
+I sighed. “I know, and it’s a bit annoying to get gawked at all the time, but that’s the price of progress, I guess. I’m the figurehead, the face we show the world for people to fixate on so that my friends can work in peace.”
+
+“That’s… I was talking about your titles.”
+
+“Which one?” I asked with a scoff. “Torchbearer?” That was always the one I minded the least. It was a little poetic but apt, and I was carrying a torch everywhere. Or at least something that had been a torch, a long time ago. “Don’t tell me it’s Salvatrix. That one is so damn pompous.”
+
+When Kasha didn’t say anything, I sighed.
+
+“One of the other ones? Witch Queen?” Say what you wanted about the Mage Lords, but they knew how to run a PR campaign. “Mageslayer? That one I deserve, true, but they had it coming.”
+
+Kasha shook her head, slowly. “I think you don’t remember them, and maybe we shouldn’t—“
+
+“No, go on. Not knowing won’t help me.”
+
+“Well,” Kasha fretted. It was weird to see her fumbling her words after giving Zephyro lip as often as she had in the last hour. “There are those you mentioned, but also…”
+
+“The Butcher of Wexler.”
+
+“We won’t be able to hold that line, Sam,” Lorelye says, uncharacteristically stern. “Not while they are getting supplied by that city. We need to retreat and make a deal.”“Or,” I say, “We can raze that damn city to the ground and salt the fields.”
+
+“The Devouring Flame.”
+
+“…take everyone else to the temple. Tell them it’s so they can pray, or something. Get Zurne and Tuyk to help you, make sure no one escapes.”
+
+“Tyrant Divine.”
+
+“…the citizens,” Patti says with tears in her eyes.“Screw them. Screw them all. This city will not fall, we will not surrender, and I am never going to give in to their fucking demands.”
+
+With each word spoken, my entire body grew colder. With each word remembered, my heart hammered harder in my chest. Try as I might, I could remember nothing but these snippets, nothing of what happened before or after. Grappling with that sensation, my mind split in two. I remembered saying those things and yet was certain I never said them. I gritted my teeth, struggling with what was real. On the one hand, nothing of what I just remembered could be true. I wasn’t—couldn’t be that sort of person. On the other, the memories sizzled in my mind, rendered in violently realistic ultrahigh resolution, and it took all I had to make myself believe they were lies. Just lies. They never happened.
+
+“Ah,” I croaked. “Those titles.” I didn’t have to fake wrestling with my anger, trying to keep control. Kasha didn’t say anything, and I was relatively certain she wanted to keep her distance from me.
+
+Eventually, I managed to work my way through the feeling, focusing on what was real to me. My friends, the treaty, waking up, getting through this.
+
+“They called me worse,” I said flippantly. That much was true, and it would keep the conversation going.
+
+To my concern, Kasha’s relief was obvious. Her shoulders slumped and she even closed her eyes for a deep breath before her usual grin returned.
+
+“Like what?”
+
+“Dumb Bitch?”
+
+Kasha giggled. “You should hear some of the insults we use. They are hard to translate, and the Vizier shouldn’t hear me speaking them out loud, but once this is all over, we should have tea.”
+
+“Definitely,” I said, and to my surprise, it felt a bit sad to realize that that would never happen. Once the Dream was over, I would never see her, or Zephyro again. I would have liked to sit on some rooftop terrace with this young woman with a penchant for giving the finger to authority, drinking tea, and talking about this or that.
+
+“Wait, you just said translate, and earlier you mentioned your script,” I said.
+
+“Indeed?” Kasha said.
+
+“But I don’t speak Arabic. How is it that I understand you?” And more importantly, how the hell was this entire Dream ripped straight out of a 1001-Nights-meets-RoboCop? I’d never even watched science fiction on Earth, besides a couple of staples, and my knowledge of Arabic didn’t go beyond ordering a Kebap at the corner Imbiss and a couple of swear words you were bound to pick up living in Berlin.
+
+“What’s Arabic?” Kasha asked, pulling me out of my thoughts.
+
+“Your… language? Zephyro swears in it, sometimes.”
+
+“Ah, the holy tongue. The Vizier would want me to say they are divine words that form our soul, but…” she leaned in conspiratorially and pitched her voice to a stage whisper. “It’s the programming language of our source code.”
+
+She grinned as I raised my eyebrows. Programming in Arabic? Weirdly, the stranger things got, the more sense they made. Probably crossed some wires during the formation of the Dream.
+
+“And you can understand us,” Kasha went on in her normal voice, “Because everyone here speaks the same language. We just exchange information.”
+
+We were approaching the Gate, and now that we were getting closer, we encountered more and more people. Just some lonely stragglers at first, but more followed quickly, streaming out of the side streets and rushing for the safety of the city walls. That made sense. The outskirts were probably more densely populated closer to the city center. I just wondered why I hadn’t appeared even closer, why we had to trek down here all the way from the mountain.
+
+“Wait,” I said, frowning. “If this is just a… computer simulation?” Just play along…
+
+“A Domain? Yes.”
+
+“Then how the hell did I get here? What happened after I finished that project?” a split second after the words were out, I immediately regretted them. Questioning dream logic was how you ended up in the middle of a mob of zombies, submerged in acid, or burned at the stake. All just to wake up and try again.
+
+Kasha opened her mouth to respond, then closed it again.
+
+“You created us, Sultana,” Zephyro said. He’d slowed down a little and we caught up to him. He was still cradling the little girl in his arms, stroking her back. Her large eyes were getting a bit heavy, but she was fighting to stay awake.
+
+“Remember, if you will, the history of the city I showed you. Building it all, the Palace, the houses, the spires, it began the moment you finished your great design.”
+
+“No, it’s alright,” I said, trying to steer the conversation out of waters that could potentially break the Dream, but Kasha stepped up.
+
+“She wants to know how she ended up here, Vizier,” she clarified.
+
+“Ah, Sultana, a thousand apologies to you. I spoke of summoning you before, but perhaps it would be more accurate to say I awoke you from your slumber. You see, As the records tell us, the Miracle taxed you greatly, and to recuperate, you fell into a deep slumber while the Blessing seeped into the world.”
+
+The city kept growing in front of us. There had to be millions of houses behind those walls, and at least half as many in the outskirts. The gate loomed before us, a giant construction of whitened stone and heavy wood, easily five times as tall as me, and ten times as wide. A crowd had gathered in front of it, despite it being wide open.
+
+“To my shame, I do not know how much time passed between the completion of your design and the first days of my vigil, only that it must have been a few years at the very least. Still, being so close to the holy site where you slept, I am certain I was one of the first to awaken. The Old Guard existed before me of course. Even so, I could not enter the palace and so wouldn’t learn about them for a long time yet, much less about any Ferals or Shackled. To my knowledge, I was alone, faced with many choices, but one singular goal: to ensure your safety, Sultana. For you have created us, and there is nothing else I can think of to repay the gift of life.
+
+“It is with this goal in mind that I created my city and my people both, and may they stand by your side forever. However, when it became obvious that our time of peaceful prosperity was over, I deliberated long and hard, but eventually came to the decision that I would need to wake you. With the Blessing at your command, you would be able to replenish our numbers, and even if that wouldn’t be the case, you would be far safer in the Domain than anywhere else in the world.”
+
+I had my own opinions about that, of course, but considering the girl in his arms and Kasha walking beside us, it wasn’t the right moment to start an argument.
+
+We’d finally reached the gate, and Zephyro spread his arms, indicating the gathered crowd. One by one, they turned to look at us. At me. I’d never been comfortable with this sort of attention, but in this moment, the feeling that pulled at my gut was almost oppressive.
+
+It probably would have felt far worse if Alimah hadn’t yawned loudly into the silence, and everyone chuckled, then continued to talk among each other.
+
+“It is alright, Ali-sifai. You can go to sleep,” Zephyro said.
+
+This time, I caught what she replied. “But you need me! I want to help.”
+
+Zephyro pulled the girl away a little and gave her a smile unlike any I’d seen before. It was proud and as bright as the midday sun. It was as wide as the tranquil dunes on a calm summer night and just as warm.
+
+“You are so brave!” he said, and meant it. Every fiber of my being told me so. “But I have Alkashafa-14 to help me, too. And look, even the Sultana has awoken to keep us safe.” He pointed at me, and I gave the kid an awkward wave when she beamed at me. “Now, you go ahead and sleep. When you wake again, the world will be different. You’ll see.”
+
+At that, the girl frowned, but then she nodded and vanished in the blink of an eye.
+
+I didn’t know what to make of that, but nobody else batted an eye, so I tried to not let my surprise show.
+
+“It humbles me that my people are this brave,” Zephyro said, voice low and brow furrowed. “And I worry that I alone will not be enough to defend them. As I mentioned before, I am this city’s only defender, and— ow!”
+
+Kasha had swatted him on the arm and raised both eyebrows. “I beg your pardon.”
+
+“The only defender properly equipped for war,” Zephyro amended. “The Militia and our Scouts will undoubtedly be valuable beyond belief, but I worry that even together we might not be enough. Who knows how many Ferals are out there.”
+
+“What about the Old Guard?” I asked.
+
+“Ah, Sultana, they would not heed our summons—“
+
+“They are not connected to our network, you mean,” Kasha said, obviously still peeved.
+
+Zephyro grimaced, but nodded. “Indeed.”
+
+“We’ll get it done,” I said, looking over the assembled crowd. There were no children among them, but apart from that, they were as varied as I would expect any throng of people to be. Some were old, some young, some men, some women, and even a couple where I couldn’t be quite sure. They reminded me of Chris, and not for the first time I wondered how they were doing. If they were going to come back so that I could apologize for being a major stupid bitch.
+
+As I watched them, the people began to turn to face me again. This time, I endured their hopeful stares, even though they began to sink to their knees, and the weight of their expectations threatened to crush me.
+
+“We’ll get it done,” I said again, forcing myself to believe it.

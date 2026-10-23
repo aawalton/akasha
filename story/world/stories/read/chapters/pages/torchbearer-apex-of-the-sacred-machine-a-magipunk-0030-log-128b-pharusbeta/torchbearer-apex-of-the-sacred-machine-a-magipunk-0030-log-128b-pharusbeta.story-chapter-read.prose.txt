@@ -1,0 +1,205 @@
+{Loading…}{Loaded.}
+
+[>>Now replaying: Log 1.28.b - Pharus_beta]
+
+Date: 8.9.175 AA / 4404 LTCLocation: The Bunker at Haven-Of-Progress // Zephyro’s Domain
+
+//Jan 1 — 1796. This day — my first on the light-house — I make this entry in my Diary, as agreed on with De Grät. As regularly as I can keep the journal, I will — but there is no telling what may happen to a man all alone as I am — I may get sick, or worse ..... So far well! The cutter had a narrow escape — but why dwell on that, since I am here, all safe?//
+
+//Pharos was a small island located on the western edge of the Nile Delta. In 332 BC Alexander the Great founded the city of Alexandria on an isthmus opposite Pharos. […] The etymology of “Pharos” is uncertain. The word became generalized in modern Greek (φάρος ‘fáros’), and was borrowed by Italian and Spanish (‘faro’) and French (‘phare’).//
+
+[>>DATA CORRUPTED]
+
+E2 %…You can’t be serious.%E1 %Why not? Maybe it can help us repair the Music Box.%E2 %Ugh, fine. Tin, how many do we have left?”%E3 %Two.%
+
+We’d been making our way over the rooftops for about half an hour when our luck finally broke.
+
+I was about to take a particularly difficult jump when I saw a long, hairy leg poke over the side of the roof to my right. Instead of waiting to find out what fresh abomination was trying to kill me now, I made a mad dash for the gap ahead, jumped, and grunted as my fingers dug into the edge of the roof, and my body slammed against the side of the house.
+
+When Zephyro grabbed my arm to pull me up, I wheezed “They are catching up,” and the Vizier didn’t even hesitate to ask what I meant.
+
+“How many?”
+
+Scrambling onto the rooftop, I risked a glance over my shoulder and saw the spider was already skittering our way.
+
+“At least one,” I said, and quickly scanned the way ahead.
+
+Except that there was none. We stood on a roof about 15 meters wide and 20 meters long, with a small penthouse hiding the stairway down. To our left and right there was nothing but a long drop down, and ahead, the next roof was significantly higher than the one we stood on. While Zephyro would probably be able to boost me up, that would take some time that we didn’t have. Behind me, the Feral had already made it to the gap, and before I could even warn Zephyro, the damn thing jumped, effortlessly digging the sharp tips of its legs into the stone below us.
+
+“Can’t run,” I grunted, fumbling the broken scepter out of its makeshift holster. It had been slapping painfully against my thighs the entire way, and I’d often pondered just tossing it, but now I was glad I still had it with me.
+
+I backed away, toward the middle of the roof, pulling Zephyro with me by the arm.
+
+He followed without protest and when we reached the center, and I raised my scepter, he brought his back to mine. We moved with practiced ease, as if this was the most natural thing in the world, and we’d been doing it for ages.
+
+“What is it, Sultana?” Zephyro asked. “What are we facing?”
+
+The spider pulled itself onto the roof with that disgusting flowing movement typical of their kind. It approached with predatory ease, its eight eyes focused on me. The burning city around us reflected in metal parts welded to its body, a stark contrast to the twitching hair that covered the rest.
+
+We both froze, but our shadows danced around each other to the insane rhythm of the fire. The spider clicked its mandibles, and electricity arced between them with a threatening crackle.
+
+“Spider, 1 meter tall, looks like it's mechanically augmented or something.”
+
+“How many eyes? Anything out of the ordinary?”
+
+“Eight, and besides some metal parts, nothing.”
+
+“That is good, but we need to move. We are still outside the range of the inner watchtowers, Sultana, and I won’t be able to aid you.”
+
+“We can’t run without it catching us, and besides, how hard can it be to kill a single spider?” The Feral chittered, and I retreated slowly, pressing back against the Vizier.
+
+“Of course, Sultana. In the Real, nothing compares to your might. In worlds like mine, however, you are incapable of damaging—“
+
+“I’m pretty fucking sure I am going to hit them with a fucking heavy scepter, Zephyro. That should do some damage, shouldn’t it?” I blinked at the sudden heat in my words, but I didn’t have the time to apologize. The spider was closing in.
+
+“Ah, Sultana, that is true, but while you are swinging an object, you are not attacking. As much as it pains me to admit it, the scepter is a mere ornament, not even connected to a device in the Real!”
+
+In a sudden move, he rolled his body around mine to put himself in front of me and swung his sword. It was a good attempt and told a lot about his intuition, but the spider hissed and reared up, dodging the blind swing with frustrating ease.
+
+I didn’t even know spiders could get up on their hind legs like that. Huh. Learn something new every day, I guessed.
+
+“Alright fine! But if ‘swinging objects’ doesn’t do anything, then why are you swinging your sword?!” I asked.
+
+“Because it is not just a sword,” he said, taking a step forward, stabbing blindly and missing once more. He thought better of it then, keeping his weapon close in a guarding stance. “I am in truth not swinging, but attacking.”
+
+The spider tensed, and I said “Now!”
+
+Zephyro launched a series of quick strikes, and one of them clipped the spider in the leg as it jumped. Hissing, the Feral landed in a heap, but got up and danced aside before the follow-up could kill it. Zephyro kept pressing forward, but the spider had begun inching around him, its injured leg curled against its side as it moved.
+
+“Clean hit, on the leg, but stop for now! It’s circling around,” I said, and Zephyro fell back, weapon at the ready.
+
+Our joint attack had worked well, but still, I couldn’t relax. Something was up. Despite what Zephyro had said about Ferals being jealous and solitary, these assholes seemed to be pack predators.
+
+I used my body to guide the Vizier’s, keeping him facing toward the spider. It was harder than it sounded because I had to periodically check if the beast had moved, while also making sure nothing was approaching from my side either.
+
+“Are you sure you can’t give me your sword?” I asked.
+
+“I could, Sultana, but you are not strong enough. While you resided in the Real, I have no doubt your skills were great, but in this Domain, trying to wield my sword is yet impossible.”
+
+Just then, the spider came close to the little stairway enclosure and climbed onto its roof in the blink of an eye. It tensed.
+
+“Sword, now!” I said, holding out my hand.
+
+To his credit, Zephyro did not hesitate and immediately dropped it into my waiting fingers.
+
+It felt like my hand nearly broke as the damn thing smacked against my palm. I grunted in pain as the weapon crashed into the ground like it weighed fifteen metric tons. It actually left a small crater in the sandstone.
+
+{INCOMING DATA TRANSFER FROM: ZEPHYRO}{[ALQAMAR FAWQ ALQASR, the Blade of the Vizier] v.3.1 - Electronic Warfare Suite}{Estimated added CPU load: 5600%}{RAM required: 15 LMB}{Estimated time remaining for transfer via REDTOOTH 1 at 0.05 LB/s = 18641351hr, 06min, 40s}{TRANSFER ABORTED}
+
+“Fuck!” I snarled, surprised. The spider pounced. If I hadn’t been pulled down by the weight of Zephyro’s weapon, it would have landed straight on my head. As it was, it overshot, and as it passed over me, I dropped to my back and gave the spider a strong kick. It was a lucky hit, sending the Feral sailing over the heads of two more spiders that just finished climbing over the side of the building.
+
+I hated it when my intuition was right.
+
+The two Ferals closed in, eying me hungrily. As far as I could tell, they didn’t even spare a glance at Zephyro, who should have registered as the far greater threat. How were they even finding us? It wasn’t as if Zephyro and I had been singing marching songs as we moved over the rooftops, and I doubted they had some sort of advanced network scanner, whatever that would even look like in this world.
+
+Then something twitched against my chest, like a loaded die pulled across the baccarat table by a strong magnet.
+
+Ah shit!
+
+The cube.
+
+With all the running, and the distraction of my Torch bruising my thighs, I’d forgotten all about it. I thought about tossing it away as far as I could but ultimately decided against it. There was no guarantee they’d run after it instead of us, and even if they did, they’d just come back faster and stronger.
+
+So I gritted my teeth and said, “Two more, in front of you.”
+
+In a smooth roll, Zephyro dove to the ground, grabbed his sword as if it didn’t weigh more than a letter opener, and came back up in a fighting stance.
+
+“Should we run?” Zephyro asked again.
+
+“That won’t work. There’s two more now, and they’re far too quick,” I said. I pulled him with me, to slowly retreat towards the edge of the roof opposite from the Ferals.
+
+When the first Feral I’d managed to kick away climbed back up as if nothing had happened, I cursed and grabbed the scepter tighter. Its wooden handle felt so familiar in my hands…
+
+My first night on Tobes. The clearing. I’m still wearing nothing but that fucking gown, either tradition or cruel joke, and there’s nothing else between me and the Wolves approaching me. They’re huge, far bigger than TV makes you think they are. I snatch up a stick and hold it in front of me like a rapier but with none of the grace of a fencer.Then there is that sound, again, at the worst possible moment. As that bell in my head grows louder and louder, I am increasingly desperate to shut it out until I finally give in and it flows out of me and into the stick and changes the wood in a torrential rush of divine power. In an instant, the stick goes through hundreds of variations of what the concept of a stick could be until it finally bursts into flames.
+
+The concept…!
+
+I grabbed the Torch-scepter tighter, focusing on the concept of power and authority.
+
+I took a deep breath…
+
+{INSUFFICIENT LB}
+
+Fuck, fuck, fuck!
+
+The spider to my left pounced, straight at my chest, and this time, I wasn’t quick enough to dodge. The creature slammed into me, sending both of us flying. I hit the roof, back first and I slid another half meter with the damn insect trying to jam its electric mandibles into my eyes. One hand holding it back despite its hair cutting my palm, one hand scrambling for purchase, I barely managed to avoid the drop to the alley below. Using our leftover momentum, I rolled on top of the Feral and hit it with my scepter, just out of reflex.
+
+It did nothing. The Feral didn’t even seem to notice. The cube inched out of my robes, bathing both of us in blue light. I could hear the other spider approaching behind us, and—
+
+The cube!
+
+I grabbed it with my free hand before it could fall onto the spider, and held it close. The cuts on my hand soaked it in blood.
+
+I had no idea how to open this thing. I had no idea how any of this worked.
+
+So I trusted my instincts and instead of trying to break the cube open, I imagined breathing it in.
+
+With a gentle chime, it evaporated.
+
+Sank into my skin.
+
+The sound of a bell filled the empty corners of my soul.
+
+{INCOMING LOGIC - 50 LB}{AVAILABLE LOGIC - 52 LB}
+
+Euphoria hit me like a sugar rush. The spider clicked its electric mandibles, wriggled its legs, and almost speared me with one of them. I rolled off of it, barely avoiding one of the others as it pounced for my back. The insects crashed together, spitting and hissing at each other.
+
+At first, I thought they would separate again immediately to focus back on me, but they kept biting into each other’s carapace. Shit, they were probably trying to devour one another’s Logic. So much for pack predators.
+
+From the corner of my eyes, I saw the remaining spider advance on Zephyro. He had no way to defend himself. The spider pounced, and they went down in a heap. The vizier yelled something I didn’t understand.
+
+To my side, one of the spiders had gotten the upper hand on the other and incapacitated it by breaking something vital inside its foe’s metal carapace. Without even wasting another second, the Feral turned to me and skittered closer on half-broken legs.
+
+My side hurt from where I had hit the hot stone of the rooftop. I took a deep breath. Zephyro yelled again. I didn’t have time to listen. I shut out everything. Everything but the scepter. It was impossible to clear my head. Didn’t have time.
+
+But it was all too much. The abyss inside me opened up wide, and swallowed me whole.
+
+My friends were gone and the city was on fire, and I was just one lonely woman, no, a lonely girl, so powerless, so endlessly powerless, and I couldn’t do anything right even if I try.
+
+It was so dark. So cold. I should just give up.
+
+Even as I kept struggling against the spider, all I could see was black, black hairs that would cut me, black liquid that would seep into my mouth to drown me.
+
+Everything was dark.
+
+Except for one spark.
+
+There was just one spark there, at the heart of darkness, where the black becomes so unbearable, so dense that it breaks itself in endless circles. It offered light, and relief.
+
+It promised to keep me safe from that endless black, to it pull me out of the abyss, and I reached for it without thinking.
+
+My anger flared into a bright fire, consuming almost every other thought.
+
+I focused on power, authority, might.
+
+Power, authority, might, and rage.
+
+I roared.
+
+{YOU HAVE CONSUMED 30 LB}{AVAILABLE LOGIC - 22 LB}
+
+An eternal bell echoed over the rooftops. It was more than sound, a tangible thing pushing aside smoke and dust and embers and flattening the flames for but an ephemeral moment.
+
+In the span of that imperious noise, the broken scepter in my hand advanced. It rose into the air while gears and capacitors sprouted from the handle as it turned into a hilt. It straightened with the sound of trees growing and metal bending, the inexorable murmur of time advancing. The upper part of the Torch—a stylized iron cage around a flame made of gold—widened into a bulbous shape, and a small screen appeared where it met the handle. Two buttons materialized just slightly atop the hilt, where my thumb could easily reach them. Another shift rippled over the scepter, streamlining cage and metal flames into a unified whole. Rugged leather wrapped itself around the handle.
+
+The Torch looked regal, authoritative. Golden details gripped dark ebony.
+
+It looked dangerous, sinister. Flames of iron writhed around a spiked metal cage.
+
+It dropped back into my palm.
+
+My fingers fit around the handle perfectly.
+
+{AUTHORITY_DOODAD_1 IS NOW [Pharus, Temper of the Torchbearer] v.01 - Electronic Warfare Suite}{NOW RUNNING: [Pharus, Temper of the Torchbearer] v.01 - Electronic Warfare Suite - CPU: varies, RAM: 3 LKB}
+
+{Available RAM: 0 LKB, DOWN FROM 3}
+
+With rage-borne strength, I pushed myself to my knees.
+
+The spider hissed, electricity crackling between its mandibles.
+
+My grip tightened around the symbol of my power.
+
+The spider pounced.
+
+A dark burst of teal flame erupted from the tip of my Torch, incinerating the Feral while it still hung in mid-air.

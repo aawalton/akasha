@@ -1,0 +1,187 @@
+{Loading…}{Loaded.}
+
+[>>Now replaying: Log 1.40.15.Ω - C://XV/The Devil/Lucifer]
+
+Date: 8.9.175 AA / 4404 LTCLocation: The Bunker at Haven-Of-Progress // Zephyro’s Domain
+
+[//reverse CaBd15.pZc]
+
+//Lucifer wasn’t always a bad name, you know? In Latin fero lucis (or luci-fer) literally meant “Bringer of light”, probably a fanciful translation of the Hebrew word for “Morning-Star”.//
+
+//15 - The Devil (Reversed) meaning: independence, release, reclaiming power, reclaiming control, freedom, revelation, liberty, righteousness//
+
+[>>poGarYty rIverseO]
+
+[>>DATA CORRUPTED]
+
+E1 %She disappeared for a while after that, and the world went back to how it had been%E2 %There were rumors about her terrorizing the seas, but no one could say for sure.%E1 %Many years later, after she vanished, explorers found an island with many wonders the Torchbearer had built. Among them was a lighthouse so grand, it still shines to this day, guiding the path for all boats on that ocean.%E3 %Oh, I heard of that one! The Forbidden Island!%E1 %Yes, exactly. The signal from that lighthouse makes crossing the Sea of Pernost much easier.%E3 %But if it helps the ships, why is it called Forbidden Island?”E2 %Because countless Machines live on it, and they shoot everyone and everything that gets too close. Does that sound like something a Saint would build?%
+
+{memos 95 - Release_ver: REQUIRES 300 LB}
+
+Okay, that was new, helpful, and fucking annoying. Sure, maybe I hadn’t exactly needed it, but why hadn’t that been a feature before? Seriously, it was like Chris was making the entire thing up as we went along.
+
+Actually, maybe they were. The notifications I had received had been steadily improving while I was in here. They were focusing on whatever was needed, and left out the unimportant stuff, even if I wished I’d get a bit more info every once in a while.
+
+But then I imagined my complete hardware readout hammering into my brain every time I changed something. I actually flinched at the mere thought. Not only would that be incredibly uncomfortable, but it would also distract me from the action and take up unnecessary space. Just imagine the time it would take to read through all of that every single time, just to find one minor change! Nobody had the time for that.
+
+Anyway, 300 LB was far outside my budget.
+
+That brought me almost back to square one. I wished my friends were here. They’d know what to do, and I’d listen and laugh and feel a little dumb for not asking them sooner.
+
+I looked at Zephyro and felt a little dumb for not asking him sooner.
+
+“If you were me, and able to improve any component or program you had, which one would you pick?”
+
+“Your soul-container, Sultana,” Zephyro said without missing a beat. “Though I would prefer if you didn’t call them programs, I believe you would call it your Personality matrix.”
+
+“You’re insane!” I said before I could even think about how to respond. The last time I had tried to advance someone, they—
+
+Goosebumps raced down my arms, followed by searing warmth as my hands began to tremble. I clenched them into fists. That wouldn’t happen to me. Zephyro wouldn’t even suggest it if he thought it could be harmful. Or perhaps he was going to betray me? Perhaps he—
+
+I squeezed my eyes shut until the doubts went back to their hideous little holes. All, except for the one I could never get rid of: This can’t continue.
+
+When I opened my eyes again, Zephyro was looking at me, worried.
+
+“What?!” I asked, unable to contain the heat.
+
+I took a deep breath, felt it tingle in my mouth, then let it out again.
+
+“Sorry,” I said instead. “I…” Another sigh. “I’m still struggling.”
+
+“How could you not be, Sultana?” Zephyro replied, as compassionate as I wished I could be. “Should you wish to unburden yourself—“
+
+“Not really, no,” I said. “I mean, I appreciate it, but we have more important things to do than listen to me whine.” I noticed how bitter that sounded, but the words were already out, and I couldn’t take them back.
+
+“As you wish, Sultana,” Zephyro said. Again, understanding, but not apologetic, like a man who knew his intentions were good, and that was all that mattered. The envy almost swallowed me whole.
+
+“Why do you think I should upgrade my DPM?” I asked.
+
+“Because it will offer you more direct survivability, Sultana. Your Soul-Container, your core, is the one thing we urge all of our children to invest most of their blessing into. You may not get stronger this way, or more skilled, but should you die, neither your strength nor your skill would matter.”
+
+“Makes sense,” I said, still feeling aggravated at everything and nothing. I just wished he would have changed his mind, or that his reasoning had some flaw that would allow me to pick another aspect to advance.
+
+“You are aware I have a firewall, right?” I asked, annoyed at the building tension in my chest. “That would keep me safe, too.”
+
+“It will, Sultana, but there is a reason only very few of us possess armor like yours. It is a powerful Talent to have, but potentially disastrous if you do not have enough Vigor to sustain its use.”
+
+I had learned that the hard way already.
+
+“So you’re saying it’s better to, um…” I fumbled for a metaphor, annoyed at having to jump through additional hoops. “…upgrade my health instead of my armor?”
+
+“Indeed, Sultana,” Zephyro said, and his quiet smile was vindicating at least. He would never make me speak like he wanted to, but while there was a loud part inside of me saying I should just barrel through and ignore his feelings, it was obviously important to him, and it felt good to be accommodating. It almost made me believe I was a nice person who deserved his friendship.
+
+I frowned. Where did that thought come fro—
+
+“Alright fuck, fine. I’ll use your goddamn they/them pronouns,” I groan.“And you won’t bitch about it every single time!” Chris says, finger on my chest, tears of rage in his eyes. ...Their eyes? Fuck!“…fine,” I grumble, and when I open my arms, he…. No, they fall into my embrace. It takes me a second to calm down enough to notice he… no… they are crying. I want to be upset, want to grumble about how rethinking every single damn time will be so much effort, how unnatural it feels, and so much more. But as his—No, damnit, their sobs of relief soak through my dress, all of that somehow feels so much less important than just holding hi—them.It almost makes me believe I deserve them in my life.
+
+I closed my eyes and smiled at the memory. I had—
+
+Novus Apex is turning to ashes before my eyes.“You didn’t deserve her,” Olre snarls, twisting the knife. “You deserved none of us, you cowardly, selfish bi—“
+
+The second memory, amplified by the entire force of Olre’s Gift, and his intense, unending, seething hatred, rolled over me like an avalanche. I gritted my teeth and managed to keep walking, but it took me considerable effort to get my mind back on track. With my jaw clenched, I focused on the concept of my DPM.
+
+I had work to do.
+
+{SAINTECH DPM v0.2.5: REQUIRES 30 LB}
+
+And yet, when the soft chime of the readout soared through my mind, I hesitated. This was a bad idea, wasn’t it? I should just advance something else. Zephyro would keep me safe… unless he was incapacitated.
+
+For the time it takes a twig to snap underfoot, I was back in that bandit camp 161 years ago, reliving the second and last time I used my Wish on a living being.
+
+My sword lies to the side. Hands press me into the mud, my cheek sinks into the wet dirt.I scream, terrified of how angry I am, and angry about how terrified I feel.The leader squats in my field of vision, obvious in his taunting desire.I writhe as my panic takes my reason.My hand touches his leg.The Wish explodes from my lips, surges like a meltwater torrent. The man before me writhes as my power takes his humanity. I still think of him as a man, even long after his screams are no longer human. The hands holding me tremble, then slip away when his fourth mouth rips itself open and starts speaking.“The Torch lights the endless sky it points the way for them and for you I will do anything and everyone will come and rejoice for the flame will nourish you with its heat will scorch your bones free of sin…”
+
+I suppressed a shudder and let my mind weaken its frightened death grip on my DPM. This was a terrible idea. Maybe I should just save up my Logic for when I needed it. It wasn’t that far to the palace anymore, and—
+
+Coward.
+
+I gritted my teeth.
+
+Shut up, Olre.
+
+Why? So you can be weak again, and get us all killed? You promised to keep us safe, but so far, I’m really not seeing anything worth writing home about. You need to be better than this, Torchbearer. You need to finally become the ruler you keep pretending to be. So do your fucking job and take control!
+
+I clenched my fists, thought of resistance and perseverance. Of momentum and inertia. Of that endless, roaring stream of fire that would always give me strength and wash me clean of weakness.
+
+Patti’s hand rests on my cheek, and I’m still wondering why she can’t be angry for once. It would be far easier to handle than her goddamn compassion.“You can’t do this,” she says. “That’s not who you are.”“But maybe it’s who I need to be,” I say, and hate the doubt shivering in my words.“Says who?”“Everyone, I guess.”“Well, what do you say, Sam? Do you want to become that person?”I open my mouth to answer, but I can’t.“Who do you want to be, Sam?”
+
+If only I hadn’t listened to Patti. I could have killed them all. She would still have been alive, and Stax and Lorelye and Olre and everyone else. I would have kept them safe. I would have kept control. I would have saved my people and my friends, and they’d still be around.
+
+No, fuck it. I didn’t need to know who I wanted to be.
+
+Not if I could be what I needed to be instead.
+
+I took a deep breath, willing the Logic to be quiet.
+
+It was this push of frenzied determination, this innocent little attempt to rein in who I was, that began the spiral.
+
+Who is the wielder, and who is the weapon, Sam?
+
+I am!
+
+The Logic erupted from my lungs.
+
+{CONSUMED LOGIC - 30 LB}{AVAILABLE LOGIC - 172 LB}
+
+{SAINTECH DPM v0.1IS NOWSAINTECH DPM v.025 BETA}{Memory: 16/20 LKB RAM}
+
+The sound of the bell rang through the streets with the force of a 500.000 Watt concert speaker. Dust exploded away from me in a whirlwind. Zephyro spun to face me. He looked as if he wanted to slap me across the face, pick me up and carry me away, and sink to his knees in reverent supplication, all at the same time.
+
+I was still on the exhale, my shock squeezing the air from my lungs. Before I could stop it, another chunk of my Logic slipped through my mind and into my core.
+
+No, no, no, stop! STOP!
+
+{CONSUMED LOGIC - 60 LB}{AVAILABLE LOGIC - 112 LB}{SAINTECH DPM v.025 BETAIS NOWSAINTECH DPM v.069 ALPHA}{Memory: 17.5/20 LKB RAM}
+
+Another knell mixed with the first, their resonance intermingling and crashing against each other. The ground under my feet shook. My clothes whipped around me, and Zephyro stumbled back, his yelling lost in the cacophony. He had to lean into the torrent to not get pushed against a wall. The wind whipped the fires away so strongly that it robbed them of their oxygen and left blazing infernos extinguished in an instant. Housefronts cracked, shattered, and collapsed under the constant pressure building within and around me.
+
+NO!
+
+“Well?” Patti asks, her eyes searching for something locked away deep inside of mine.“I don’t know!” I yell, unable to bear the comfort any longer.
+
+I must have said the words out loud because more Logic broke free of my lungs. It didn’t fade or leave, hovered around my body like the memory of an embrace, or a funeral shroud.
+
+{CONSUMED LOGIC - 90 LB}{AVAILABLE LOGIC - 22 LB}{SAINTECH DPM v.069 ALPHAIS NOWSAINTECH DPM v.9}{Memory: 20/20 LKB RAM}
+
+A third bell joined just as the first one started to fade. It was softer, distant. It filled the silence between the other two with a haunting, hollow sound that slipped into cracks and crevices and pushed in deep, ceaselessly looking for a place where a soul would hide in the dark.
+
+I noticed I was still screaming. The world glitched around me, structures re-forming themselves into half-realized, impossible nightmares. Windows like mouths blind to the eye, stairs leading into nothing, reaching up into the empty sky like fingers clawing for help. The mosaic below our feet, showing my Torch in intricate detail, cracked. Behind us, the arch crumbled and rose again as a towering monstrosity of obsidian and flesh and cables. The bells tolled and tolled and the world changed and changed and Zephyro was on the floor and it was all my fault and I would never be in control ever again. I fell to my knees, screaming in impotent rage, brilliant blue light coalescing around me.
+
+{INSUFFICIENT LOGIC}
+
+The Logic around me surged to a glare, thrummed once, twice, and then a pillar of cyan light erupted from my chest and shot into the sky, washing over the entire world. The city glitched again, shattered, broke.
+
+As the last decibel of the third bell faded, the world, bathed in blue, re-formed into what it had been before I lost control.
+
+The nightmare was over.
+
+“Shhh, Sam. It’s okay,” Patti says as she’s rubbing my back. “We’ll figure it out.”
+
+I fell forward, braced myself, and the sharp stones of the cracked mosaic jabbed into my palms.
+
+“Fuck!“ I whispered, and I didn’t even know who I was talking to. Stax? Patti? Olre?
+
+Stax’s eyes danced eternally in my mind, his smile almost lost to time.
+
+“You can’t be angry all the time. It’s a great tool, but also a drug. Use it too often, and you become the sword. And when you are a sword, everything looks like an enemy.So wield your anger. Do not let it wield you.”
+
+His words hadn’t even registered before Olre drowned him out.
+
+“You can not show them any weakness. Once they see you’re weak, they will take everything from you. Take charge, Sam, before someone else takes charge of you.”
+
+“FUCK!”
+
+I slammed my fist down in the middle of the Torch on the mosaic, sending stones clattering away. A few shards glinted in the emerging firelight and read
+
+[DPM integrity]▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱ 99%
+
+My hand was bleeding. Someone touched my shoulder and I flinched, whirling around. It was the Vizier.
+
+“Fuck, I didn’t mean to, Zephyro, I—” I cut myself off, my lips pinched to a thin line, my balled firsts shaking.
+
+“I know, Sultana. I know.” His eyes dripped compassion like honey and I wished I could be weak enough to just drown myself in them.
+
+Instead, I turned away and after a moment, I hit the damn mosaic again. Harder, this time. My knuckles split open and the cracks running through the emblem widened, a spiderweb of regret.
+
+[DPM integrity]▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱ 98%
+
+“Well, if they didn’t know where we were, they fucking well know now,” I spat.With my stomach tying itself into a Gordian knot, I pushed myself to my feet. I didn’t dare look at Zephyro. The shame was just too much.The Vizier didn’t say a single word, though, just let his reassuring presence do the talking.He was good at it, too. His calm presence was almost nauseating as it clashed with my fury at myself.But even his composure did little to calm the torrent that raged inside me. That was fortunate, because I had to keep it alive to move on.After all, without the anger, who would I even be?

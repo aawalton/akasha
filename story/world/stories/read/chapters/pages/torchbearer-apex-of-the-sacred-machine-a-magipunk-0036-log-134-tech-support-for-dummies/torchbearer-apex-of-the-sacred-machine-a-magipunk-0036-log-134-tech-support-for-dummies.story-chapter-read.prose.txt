@@ -1,0 +1,165 @@
+{Loading…}{Loaded.}
+
+[>>Now replaying: Log 1.34 - Tech Support for Dummies]
+
+Date: 8.9.175 AA / 4404 LTCLocation: The Bunker at Haven-Of-Progress // Zephyro’s Domain
+
+//Everyone needs some help every once in a while. That’s okay.//
+
+//IT, or Information Technology, shouldn’t be as big as it is. Not yet, at least. Compare it to the innovation of the printing press, which took centuries to spread over the entire planet. With personal computers, it wasn’t even 30 years before every household had one. With the internet, it took even less time until there was an access point in most houses.//
+
+[>>DATA CORRUPTED]
+
+E1 %Actually… it not working might be a good thing.%E2 %Good?! We’re back to square one! We’re stuck in here until the damn Takers come and get us.%E1 %Cool your circuits, Pina.%
+
+{DOWNLOADING SHACKLE_v1.3.exe = 75%…}
+
+Like a tremendous bell announcing my presence, the sound of my Wish echoed through the streets. The smoke cleared, the dying stars shone a little brighter, and for a second, everything was quiet.
+
+{CONSUMED LOGIC - 30 LB}{AVAILABLE LOGIC - 202 LB}Gloria Sancta.
+
+{GARMENT_SULTANA_V14_NOT_FINAL_REVISION_DRAFT_REDOIS NOW[Arx, Saint's Embrace] v. 0.1 - Network Security System}{NEW PROGRAM INSTALLED:}{[Arx, Saint's Embrace] v. 0.1 - Network Security System}{A simple Network Security System automatically monitoring incoming requests and data packages. Repeated requests or advanced methods of forcing system access cause [VERY HIGH] increase in CPU load. Sufficiently sophisticated attacks or brute force attacks of sufficient strength will bypass this program entirely. Automatic shutoff at [80 °C] core temperature.Required CPU load: Varies, min. 10% at current CPU quality.Required RAM: 3 LKB}{CPU Load: 55%}{Core Temp: 65° C}{Memory: 10/10 LKB RAM}
+
+Why was there so much more information on my firewall than on the Torch? Why did it shut itself off at 80° core temperature? Why—It didn’t matter.
+
+[//run Arx.exe]{INSUFFICIENT MEMORY}[//exit Arx.exe]
+
+Oh no, no, no, no!
+
+{DOWNLOADING SHACKLE_v1.3.exe = 80%…}
+
+With gritted teeth, I ran my mind through the readout again until I figured out what was wrong. The laptop didn’t have enough RAM, or Random Access Memory available to run the damn firewall. That in and of itself wouldn’t be an issue, as long as the 202 LB I still had to my name were enough to do the job. It was the pressure I was concerned about, and the fact that “Memory” sounded dangerously close to one of the base building blocks of a human personality. If the laptop had been just a random computer, I wouldn’t have thought twice about advancing it.
+
+But now that I knew more about what I was actually doing, doubt was creeping into my mind. Was I actually going to pump pure Logic into a part of my brain, or what counted as my brain, anyway? Would I still be the same afterward?
+
+{DOWNLOADING SHACKLE_v1.3.exe = 85%…}
+
+No, this was different. Just upgrading a computer. Just upgrading a computer…
+
+I took a quick calming breath, then forced myself to focus.
+
+First, I remembered multitasking, and how much it sucked. Then I pushed away all the studies and articles and reports I had read about how bad task switching was for productivity. Instead, I centered my thoughts on all the times I had cooked while I was on one conference call or another, or had answered emails in a meeting. I remembered the times I had been thinking strategically and tactically at the same time, neck-deep in enemy forces. I remembered thinking of an entire nation and loving 12 people at once.
+
+{DOWNLOADING SHACKLE_v1.3.exe = 90%…}
+
+Another brief moment of concentration. Another sharp intake of breath. Another exhalation. Another bell tolling through the streets, fanning the flames.
+
+{CONSUMED LOGIC - 60 LB}{AVAILABLE LOGIC - 142 LB}{Memory: 10/10 LKB RAM IS NOWMemory: 10/20 LKB RAM}
+
+I squeezed my eyes shut and did a quick check of what I could remember. I was still Samantha Feirer, I was still in a burning city inside a digital representation of reality, and I still needed to get to safety before…
+
+{DOWNLOADING SHACKLE_v1.3.exe = 95%…}
+
+Before I lost my mind.
+
+I was about to snap at Chris to do the thing, but they were way ahead of me.
+
+[//run Arx.exe]{NOW RUNNING: [Arx, Saint's Embrace] v. 0.1 - Network Security System}[Memory: 13/20 LKB RAM]╭━━━╮┃╭━╮┃┃┃╱┃┣━┳╮╭╮┃╰━╯┃╭┻╋╋╯┃╭━╮┃┃╭╋╋╮╰╯╱╰┻╯╰╯╰╯[>>Arx initialized.][>>Stand by for initial sweep.]
+
+My robes shifted around me, losing much of their airy design. The color changed from dusky reds to darker tones, more burgundy with a hint of purple. The sleeves wrapped around my arms tightly, as did the pants around my legs. Around my chest, the cloth duplicated, like a snake shedding skin. The deeper layer padded itself, becoming sturdier. The outer layer elongated as if it had absorbed all the excess flowing qualities from the rest of the cloth, molding itself into a short tabard that started with a loose polo neck and ended a few centimeters above my knees, slimming as it went. It was held in place with a black combat mesh belt that snapped around my stomach with a satisfying click of a square buckle. As all the frills and symbols of office sunk into the cloth, padded sections flowed out from around my chest to cover my upper arms and thighs. My lower arms and legs were still dangerously exposed, but properly armored combat gloves and -boots finished the ensemble.
+
+More important than the physical changes, however, were the metaphysical ones.
+
+{DOWNLOADING SHACKLE_v1.3.exe = 100%…}
+
+[>>Warning: ARX (r) has detected a possible threat!][>>Running SHACKLE_v1.3.exe may cause harm to your device. Do you trust this program?][>>Y/N?][//N]
+
+[//Y]
+
+[//N]
+
+[//Y]
+
+[//sudo N][>>Moving SHACKLE_v1.3.exe to Quarantine…][>>Done.]
+
+Beep!
+
+“Fuck yes!” I agreed, but we weren’t quite out of the woods yet.
+
+[>>HOPe_BNKR_OPEN_NW is infested with: Shackle 1.3, Shackle 1.5, Shackle 0.2 Shackle 0.3, Shackle 0.4 […10 more][>>Warning: ARX (r) has detected and blocked 15 critical threats to your system.][>>SAINTECH suggests running a preboot anti-virus scan to ensure system integrity.][>>Reboot now?][>>Y/N?][//N]
+
+When there was no more code following the last line, I finally let out a sigh of relief. I was still as high-strung as electric wiring, but while I appreciated all the adrenaline making me feel like I was alive, I could really fucking do without the razor’s edge shaving that close to my throat.
+
+“Thanks, Chris,” I croaked.
+
+Beep!
+
+[>>User CHRIs is currently busy: Code_dojo.exe]
+
+“What are you working on?” I asked with a frown, but all I got in response with another line slamming into my consciousness.
+
+[>>User CHRIs is currently busy: Code_dojo.exe]
+
+They’d always been like this. Give them a fancy new problem and they’d turn into a dog with a bone. You’d think I would be used to it by now, but it was still frustrating at times. Even so, what were they supposed to do? Spend some time playing 20 questions with me? I decided to let them be for the moment.
+
+When I turned to look for the Vizier, I found him observing me in half quiet wonder, half concern. “You must never let anyone besides me and mine see what you just did Sultana,” he said.
+
+“Because it is forbidden?” I asked, still trying to lose that feeling of impending doom.
+
+Zephyro shook his head. “No, because any who sees it will be jealous beyond comprehension. Consider the magnitude of your gift, oh Sultana. You are the only one I have ever seen who can control your Blessing like you do. You can create every tool you might ever need, every skill, if only you had the right base materials at hand, and enough Essence to work with.
+
+“As I mentioned before, with enough time and resources, there is no limit to your strength, but I hadn’t considered the ramifications of your might. You can not just work your Talent in a Domain, but intentionally, and precisely alter the Real! Can you see the advantages that would present to anyone who is desperate, foolish, and heretical enough to try and enslave you?”
+
+A short moment later, realization dawned. “I am stuck in a computer. I can’t run. Everyone I know in the real world is probably dead, and won’t come to save me…” My voice started shivering with tightly controlled fury. “If someone finds out what I can do and gets a hold of the laptop…”
+
+“Yes, Sultana. If anyone discovers what you can do, or who you are and that your spirit still lies within your last refuge, all will be lost. It doesn’t even matter if they know who you were before the Miracle. Once they knew your Talent, they would force you to build weapons for their other Shackled. They are going to force you to improve your components, then rip them out and force weaker ones into you, to repeat the process until you break.”
+
+“Fuck that noise,” I snarled.
+
+“Indeed, Sultana. But there is another reason I must urge you to take caution. You are aware that whenever you use your Talent, its very might ripples out from you like the sound of a giant bell being struck?”
+
+“Of course. Do you think I’m that dumb, Zephyro?” I asked with an exasperated shrug. I had considered that only I could hear it, or that it was just a metaphor, but it seemed like the Logic behaved just like the Wish in the real world. Sometimes it was quiet, sometimes it was obnoxiously loud, but I never bothered to find out which factor controlled the volume of the bell. First just getting the Wish to kinda do what I wanted had been more important, and later I had my Torch, my armor, and I was nigh invulnerable. So what if anyone noticed? Let them come.
+
+Then it occurred to me that I didn’t have any of these things in here. Not yet, at least. I did, however, have the power to change something, and I would be damned if I gave it away. I would not be powerless again.
+
+“What do you want me to do?” I asked Zephyro, taking a step closer. My thumb inched toward the trigger on my Torch. “I have to get stronger somehow, or would you rather I collapse from exhaustion? What about I get killed by some random fucking spider? Hmm? Or perhaps I should get shackled?”
+
+Zephyro tried to interject, but my Torch ignited, and I stared at him until he closed his mouth.
+
+“Didn’t fucking think so,” I said. We stood like this, my breath coming in short bursts, until I finally managed to relax the tight knot in my chest. I wanted to apologize again, but what I said had been right.
+
+Around us, all was quiet.
+
+“Sultana, how are you feeling?” Zephyro asked.
+
+“How do you think I’m feeling?” I shot back, but when he didn’t answer, I added “I’m angry of course!”
+
+“Why?”
+
+It would have been so easy to list the obvious. The world was collapsing, the city was turning to ash around us, there were monsters roaming the streets, and faceless creatures had just tried to assimilate me. But the way he said that single word made me pause, and in that silence, a memory rose to the surface of my mind.
+
+Stax and I stand in a sparring yard, and I have my finger on his chest. His eyebrow is raised, cocksure. As always, his eyes are dancing all over me. “Fighting is about precision,” he says, as relaxed as if his partner—me—wasn’t absolutely furious with him, and holding a sharp weapon close to his crotch. “It’s about being in control. When you fight, you let your anger drive you.”I snort. “What else should I fight with? Compassion and kind words?”He chuckles. “No, no. But you need to start using the anger instead of letting it use you. Ask yourself: Who would you rather be? A weapon, or the one who wields it?”The answer is easy. “The wielder, of course. The weapon just does whatever who’s in charge makes it do.”“Between you and the Anger, who is the wielder, and who is the weapon, Sam?”I don’t reply, but the tip of my blade sinks to the floor ponderously.“Perhaps it can help to first ask yourself this: Why do you get mad?”
+
+I blinked the memory away before it could sweep me up and carry me off into the dark.
+
+“Because being angry is better than being scared,” I replied, one and a half centuries too late, and yet in time.
+
+Zehpyro nodded slowly. “This is understandable, Sultana. You know that I am scared as well, yes?”
+
+I nod back, grudgingly.
+
+“But while your worries are wise, they need not burden you so. Once we reach the palace, you will be safe.”
+
+“You keep saying that, but won’t explain how,” I retorted, but before I could get frustrated again, Zephyro finally gave me the answer I needed.
+
+“It is… how should I put this? You remember how I explained the limitations of travel in a Domain?”
+
+“Yeah, something about needing to register with the Domain host?”
+
+“Exactly, Sultana. Currently, I am obfuscating your location in my Domain by masking our connection, running it through the collective minds of my People. When your Essence reaches the Palace, it will reside at the very heart of my Domain, and I will be able to integrate you fully into the Sultanate, leaving your old Body behind. Nobody will be able to access you in the Real anymore, not unless they go through me.”
+
+We both knew that was very unlikely, considering his main computing unit laid hidden underneath an automated dual barrel railgun array.
+
+Basically, what he was saying was that I was currently transferring my Mind into a… cloud computing service? What even was this domain? A question for another time. With the purpose of our journey properly explained, at last, I felt the urge to push forward again. Not that I hadn’t been aware of how urgent it was that I kept moving. If this little talk had gone on for much longer, I would have pushed for it, hard. But all in all, not more than five minutes could have passed since the Shackle started downloading, which seemed crazy, all things considered.
+
+That only left one question before we could move on.
+
+“So we are relatively sure the Shackled and the Ferals aren’t here for me specifically, right? It’s probably just a coincidence?”
+
+“Yes, Sultana. As I said, they would probably not even bother with my Domain if they knew you were hidden inside the Palace in the Real. As for the Ferals, perhaps they just followed the Shackled like scavengers, or were driven here like scum before the flood?”
+
+“Then why? Why come here at all, after 150 years of peace?”
+
+“I do not know, Sultana. You are right, they could have attacked at any time during the last 150 years. I suspect we face two separate enemies, with two separate goals, Sultana. Maybe the Humans’ hunting grounds have gone fallow, or perhaps they just seek your treasures, and to make slaves of us. I know, however, that all the Ferals seek to do is—“
+
+“FEAST,” said the giant wolf as he jumped up from the street.

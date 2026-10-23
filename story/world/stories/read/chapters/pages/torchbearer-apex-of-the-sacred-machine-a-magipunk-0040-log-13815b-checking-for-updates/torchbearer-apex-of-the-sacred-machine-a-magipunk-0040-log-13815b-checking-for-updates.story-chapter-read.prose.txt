@@ -1,0 +1,231 @@
+{Loading…}{Loaded.}
+
+[>>Now replaying: Log 1.38.15.b //CHECKING FOR UPDATES//]
+
+Date: 8.9.175 AA / 4404 LTCLocation: The Bunker at Haven-Of-Progress // Zephyro’s Domain
+
+//Nothing new on the Western Front//
+
+//Nothing new under the sun//
+
+[>>DATA CORRUPTED]
+
+E1 %The Tradeweaver, one of the old Mage Lords, shamed her. He was jealous of how popular she was with the people. So he claimed the monster attacks were all her fault. Over time, her reputation shattered, and the good people of Wexler began to shun her. Eventually, she had to leave the kingdom she called home behind.%E2 %You mean Lord Tradeweaver exposed her for what she truly was — a witch — and the people shook off her hexes and drove her from the land.%E3 %No fighting! What happened then?%
+
+I clapped my hands together to convince myself to get going. I felt bone-tired, but my body obeyed much better than it should have, perhaps an effect of my new CPU. That train of thought was weird to think about, so I focused on how sore my body felt instead. Definitely would notice that tomorrow. Or would I?
+
+Chris, Status? I thought, hoping they could hear me.
+
+[>>User CHRIs is currently busy: Code_dojo.exe]
+
+Chris, come on. This is important.
+
+That earned me an annoyed beep, a readout, and a headache.
+
+{CPU Load: 20%}{Core Temp: 76° C}
+
+I sighed at both the pain and the Core Temperature. That seemed about right if my exhaustion was anything to go by. Considering how important my temperature was to my survival, however, I would probably need this information to be more readily available. Couldn’t ask Chris every five seconds, or they’d probably just let the shackle have me.
+
+Can you keep this info in the corner of my vision somehow? Like a HUD?
+
+Boop.
+
+{PASSIVE SYSTEMS:memOS - 3 LKB}
+
+A brief moment passed, but before I could say something snippy I would regret later, they added a ponderous “Beep?”.
+
+I didn’t get what I expected, but something better. Instead of a bit of text appearing in the corner of my vision, my CPU Load and Temperature wrote themselves as semi-translucent text on a wall next to me. I blinked, and it faded away. But as soon as I thought about how exhausted I felt, the information appeared on a part of the road I had been looking at and vanished again at a mental acknowledgment.
+
+Huh, I thought. That is actually pretty good UX.
+
+Beep. It sounded very smug.
+
+Can you do that with all readouts, instead of the whole sadistic typewriter thing?
+
+Boop. It sounded very unapologetic.
+
+Oh come on, Chris, is this because of—
+
+[>>User CHRIs is currently busy: Code_dojo.exe]
+
+I rubbed my temples against the rising pain. Chris would be the end of me someday.
+
+Zephyro had fallen in beside me as we walked along the main road for a while. I watched my temperature readout wink in the reflection of windows, and sizzle in blurry superheated air rising above the approaching flames. Looking up, I found it written across the dying stars. It kept dropping until it reached 65°, where it seemed to plateau.
+
+Despite what I expected, we didn’t head for an alley even after crossing the boulevard. When I asked Zephyro about it, he replied in his usual, calm tone, albeit with an edge of urgency.
+
+“Time is of the essence, Sultana. There are still people on the palace square, and we need to protect them, especially if the Ferals have already progressed this deep into the city.”
+
+“Right,” I said. “Also, I don’t think sticking to the alleys anymore would help, anyway.”
+
+“Indeed, Sultana. The Ferals have demonstrated their cunning, and we don’t want to run into another ambush.”
+
+“Exactly,” I agreed, and then I continued much softer, “I’m sorry about the…” I gestured toward the sky where Pharus’ light had pierced the heavens. “I know I screwed over our attempts to be stealthy, but to be honest, I have no idea how to tone it down.” My wish had already been hard to control, especially if I wanted to use it in moments of high stress, but the Logic handled far worse. It felt as though if I wasn’t as calm as a hotel pool at 5 a.m., it just did what it wanted at whatever volume it deemed necessary.
+
+“While I cherish your apology like the gift that it is, Sultana, I wish you wouldn’t disparage yourself so.”
+
+“It’s fine. How bad is it?” I asked, meaning how badly did I fuck up?
+
+“I do not quite know, Sultana. As I said, the last thing I saw before the cameras went offline was that the humans reined in their Shackled and urged them to move deeper into the bunker, but that was before you used your Blessing.”
+
+“Then it was them who tried to Shackle me?”
+
+“Perhaps, Sultana, but perhaps not. The timing would be wrong, and further, I wouldn’t know how they would get into your Palace in the Real. The doors are locked tight, which I personally checked several times.”
+
+“The air ducts,” I said. “They’re too big, certainly big enough for someone small and nimble to crawl through, and don’t have any sort of defense mechanisms inside. Chris and I wanted to fix them next week… I mean 150 years ago. I guess after shit went sideways, they never got around to it.”
+
+“Ah, that may be true, Sultana. Still, I do not believe that they know who you are and what you can do. The Shackled and Humans have definitely sensed your use of the Blessing. Everyone in the Domain did, of this I am certain. Still, I doubt they know who this power they sense belongs to. They must know that whoever it is, they reside in my Domain somewhere, but they probably wrongly suspect it is me.”
+
+“So they were trying to get to you, but got me by accident?” I frowned. That didn’t quite make sense, either.
+
+Zephyro nodded, his brow equally creased. “Still, Sultana, the ruse itself is good enough, especially in the Domain. They will send their strongest Shackled not at you, but me, which makes it easier to defend you. Nevertheless, I feel I must humbly remind you, our gambit will crumble to ash if you brandish your Blessing in the presence of the Shackled.”
+
+I nodded in agreement, confident that even if push came to shove, I could at least keep myself in check well enough to not blow my cover.
+
+“However, Sultana, we will have reached the Palace long before that will become a problem.”
+
+“We also have a trick up our sleeves now,” I patted Pharus where I had stuffed it into my belt.
+
+“Humbly, Sultana, I must say that I wish you would refrain from using your weapon unless in the most dire of situations. The Ferals are one thing, but the Shackled are another matter entirely. If we meet one of the stronger ones, I confess that fighting it might be a challenge, even for me. I will hold them back, of course, but should they strike you with even so much as a glancing blow, they will drink your essence like sand drinks rainwater.”
+
+“Or Shackle me,” I said, quietly.
+
+“Indeed, Sultana, la samah Allah.”
+
+I absentmindedly scratched my hand where the spider had latched onto me. The spot still itched, and I felt like tucking my hand into the folds of my combat robe to protect it. I forced myself to touch the padded sections of my vest and pants instead, checking for damage. Everything seemed fine. The rips and cuts I’d received from the wolf were already gone, probably repaired by memOS.
+
+I considered that for a second. MemOS was an operating system Chris had built to run personality matrices, and from what I recalled from earlier, it had spent a considerable amount of computing power to stitch my personality matrix back together again. That made me wonder…
+
+Chris, if my personality matrix becomes corrupt, what happens then? Do I, like, die?
+
+Boop…beep.
+
+I was so thankful they didn’t send me another ‘we are currently busy, please have a headache,’ readout, I didn’t even mind that I didn’t get a straight answer.
+
+So I don’t die, but I do?
+
+Beep.
+
+That could only mean one thing, really.
+
+I’ll become Feral or something, right?
+
+Boop? Beep.
+
+I guessed that meant ‘Or something like it.’
+
+My personality matrix had already been corrupted during the fight with the Wolf. If I remembered correctly, there had been a line that mentioned it had reached 15% integrity, or something close to it. Still, I hadn’t gone insane as far as I could tell, which meant even losing 75% wasn’t fatal.
+
+However…
+
+If my DPM reaches 0%, that’s it?
+
+Beep.
+
+Fuck. It had taken the Wolf all of two hits to get me that low. I could only hope the other Ferals weren’t all that strong, or could just consume it raw, like the spider did. More importantly, I should probably be aware of my DPM’s integrity at all times.
+
+Can you do the same thing you did for Core Temperature and CPU Load, but for DPM integrity, please?
+
+There was no response, but a nearby arch shifted, its intricate fresco spouting a seemingly endless jumble of letters, hashtags, and numbers. I knew enough to recognize hexadecimal information, but beyond that, I was completely lost.
+
+In product language, if you would? I thought, exasperated. I knew they wanted to get back to working on their snazzy tech problem, but was this really the time to fuck around?
+
+Beeeehhhp… Bee-Ee-Ee-Eep-beep-beep… Chris’ intonation sounded suspiciously like what I had just said, and I could practically feel them roll their eyes.
+
+Well fucking excuse me, but I don’t read… hexadecimal code, I guess?
+
+In lieu of an answer, the wall of text shifted, and now read
+
+[DPM integrity]▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ 100%
+
+I still wasn’t any closer to understanding how everything fit together, but it was a start.
+
+Thank you.
+
+Beep.
+
+[>>User CHRIs is currently busy: Code_dojo.exe]
+
+After this digital equivalent of slamming their door shut, I left Chris alone.
+
+Zephyro and I walked through the arch, and as the readout faded and the murals went back to their original design, I marveled at the detail that had gone into constructing it. Little paintings of the stars and the moon, of Torches and battle, and even of quiet rural life and animal husbandry were chiseled into white marble. There was Arabic text, too, but I couldn’t read it. Someone had lined the most important words with gold. And it wasn’t just the arch. The houses around us had begun showing equally beautiful murals and details. The city was so intricate, if it hadn’t been for the occasional glitch scrambling it into an incoherent mess, I would never have known it was “just” a digital construct.
+
+And that was just what I could see. The world felt real, too. The desert heat, the flames, the wind in my face, carrying smells of burning wood and stone baking in the heat.
+
+The distant din of fighting.
+
+The pain certainly felt real enough.
+
+I suddenly remembered Kasha, and her haphazard explanation of what each of the buildings represented. What would she say, if she were here with us? I reached for my Torch and found a small amount of solace in its comfortable weight at my side.
+
+She had explained that most things in this Domain were analogs to something in the Real, but while this virtual world was connected obviously to the Real one, did that really mean it was real?
+
+When I asked the Vizier that question, he just nodded slowly, considering it for a while.
+
+Eventually, he said, “This is a wise question, Sultana, and one our Scholars have discussed at length. Pray tell me, how do you know something is real?”
+
+“I don’t know,” I said with a shrug. I wasn’t really in the mood to engage in a Five Whys workshop. I had somewhere to be.
+
+Now, if only I didn’t feel as exhausted…
+
+Ultimately, I decided to play along, if just to use the time productively.
+
+“I can touch it, I guess? I mean, use all my senses to perceive reality.”
+
+“Can you not do the same in the Domain?”
+
+That was a good point, but after thinking about it for a second, I shook my head dismissively. “Sure, but we both know this is all just digital. There’s a wider world out there, and that one’s real, so this one isn’t, right?”
+
+In the heat of the moment, with exhaustion and fragmented anger still ruling my mind, I only considered what I just said and who I was talking to after I said it. Before I could apologize, however, Zephyro replied.
+
+“We call it the Real, true, Sultana, but how do you know that world isn’t also just a simulation or a dream?”
+
+I was about to tell him I could tell because of how I perceived that world, but that would have been circular logic. In fact, when I first arrived on Tobes, I’d thought it was a dream, for all of maybe two minutes until the wolves found me.
+
+The Vizier studied my expression, then nodded again. “It is impossible to tell.”
+
+“I mean, the real world doesn’t have glitches,” I said. “So there are errors in here that don’t exist out there.”
+
+“True, Sultana. Consider, however, that this world doesn’t know storms, for example. Perhaps storms are an error in the Real?”
+
+Rubbing my forehead, I said, “Look, Zephyro, that’s very philosophical and all, but…” I trailed off, not knowing where I wanted the sentence to go.
+
+“You do not know if anything in the Domain matters, Sultana?”
+
+“Yeah, I guess.”
+
+“I, personally, have come to the decision that since I will never be able to know, I must assume that both worlds are real. And more, they are connected. As I said before, when we first met, these worlds are imperfect mirrors of each other. Should someone manage to destroy my Body in the Real, I would perish in the Domain as well, and vice versa. Should I die in battle against the Ferals, my body in the Real would be a shell without a ghost.”
+
+“Wait, are you saying everyone in here has an equivalent in the real world? Like a robot, or something?”
+
+“Not all of them, no, Sultana. It is hard to explain, but just like Humans exist only in the Real, there is a large group of citizens who do not have a body outside of our Domain. In fact, as far as we know, only a small percentage of all living beings have a presence on both worlds, like you and I.”
+
+“And the Shackled, I guess,” I added. They had to have come here, somehow.
+
+“Yes, Sultana. Your wisdom, as always, is like the sand in the desert. The Shackled and Ferals both have bodies in the Real. Each has their own Domain as well, though most are small, cramped spaces filled only with madness.”
+
+“Wait, does that mean I have a Domain?”
+
+“Of course, Sultana. You must have gone there when your connection to this City was severed, no?”
+
+I remembered that endless, maddening void, and wondered what it said about me.
+
+The thought made me pause. As much as that darkness had fucked with my mind, I hadn’t actually been in physical pain. So why did getting injured hurt in this Domain? In the real world, pain exists to warn you of danger, to stop you from doing something. In here, that could easily be done via text, or just the suggestion of pain. It didn’t need to be debilitating.
+
+Hey Chris, sorry to bother you again, but can you turn down the pain a little?
+
+Boop.
+
+So you can’t?
+
+Beep.
+
+Ah, if only it had been that easy. Still, there had to be some sort of reason… I glanced at the Torch. I kept it in its loop, close at hand to be ready for the next nightmarish creature that came looking for a fight.
+
+I pulled out the weapon, frowning as a small detail on the handle caught my eye. It was a new button, right next to the one that ignited its flames, and pressing it didn’t do anything noticeable. I was just about to put the Torch back away when a wall of text slammed into my mind.
+
+▛ █▬█ ▞▚ 🆁 ▙▟ ▟▛ {[Pharus, Temper of the Torchbearer] v.03 - Electronic Warfare Suite - 5 LKBA simple Electronic Warfare Suite designed to breach targeted computer systems. The strength of the attack determines CPU load, with more frequent or sophisticated attacks requiring more computing power.Features:.03 - Leaves a traceable signature inside the target user that allows other users to track programs run by the target user. This is true for all users connected to the current system.}
+
+I twitched. While I was glad to have it now, I was 100% certain I hadn’t gotten that much information during the fight. Chris probably hadn’t wanted to distract me earlier. Or perhaps they had been too busy with whatever they were doing right now.
+
+I didn’t know what I would do without them.
