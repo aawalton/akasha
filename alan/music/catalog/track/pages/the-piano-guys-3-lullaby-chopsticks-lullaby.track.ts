@@ -6,7 +6,10 @@ export const thePianoGuys3LullabyChopsticksLullaby = {
   slug: "the-piano-guys-3-lullaby-chopsticks-lullaby",
   ownLength: 3.7903,
   ownProgress: 3.7903,
-  partOfCollections: ["release/the-piano-guys-3-lullaby"],
+  partOfCollections: [
+    "release/the-piano-guys-3-lullaby",
+    "release/the-piano-guys-music-to-read-to",
+  ],
   status: "completed",
   unit: "unit/minutes",
   title: "Chopsticks Lullaby",
@@ -23,7 +26,14 @@ export const thePianoGuys3LullabyChopsticksLullaby = {
       externalId: "1eAhoZnCqxk1sQpptsJWAT",
       externalLink: "https://open.spotify.com/track/1eAhoZnCqxk1sQpptsJWAT",
     },
+    {
+      release: "release/the-piano-guys-music-to-read-to",
+      discNumber: 1,
+      position: 12,
+      externalId: "3UCT1XBy8O9GTZLzl60zl0",
+      externalLink: "https://open.spotify.com/track/3UCT1XBy8O9GTZLzl60zl0",
+    },
   ],
   createdAt: "2026-09-17T13:50:15.942Z",
-  updatedAt: "2026-09-24T20:01:24.000Z",
+  updatedAt: "2026-10-23T13:57:14.919Z",
 } as const satisfies Track

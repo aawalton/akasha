@@ -23,7 +23,7 @@ export const thePianoGuys = {
       source: "spotify",
       externalId: "0jW6R8CVyVohuUJVcuweDI",
       externalLink: "https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI",
-      lastSyncedAt: "2026-09-17",
+      lastSyncedAt: "2026-10-23",
     },
   ],
   title: "The Piano Guys",
@@ -35,5 +35,5 @@ export const thePianoGuys = {
     "instrumental",
   ],
   createdAt: "2026-09-03T16:04:08.684Z",
-  updatedAt: "2026-09-21T19:44:25.000Z",
+  updatedAt: "2026-10-23T13:57:14.919Z",
 } as const satisfies Artist

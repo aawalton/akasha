@@ -11,6 +11,7 @@ export const thePianoGuys3LullabyClairDeLune = {
     "release/the-piano-guys-classical-for-studying",
     "release/the-piano-guys-peaceful-summer-nights",
     "release/the-piano-guys-relaxing-piano",
+    "release/the-piano-guys-music-to-read-to",
   ],
   status: "completed",
   unit: "unit/minutes",
@@ -36,6 +37,13 @@ export const thePianoGuys3LullabyClairDeLune = {
       externalLink: "https://open.spotify.com/track/0SiGnQTvxTOh8QsuV1DOQm",
     },
     {
+      release: "release/the-piano-guys-music-to-read-to",
+      discNumber: 1,
+      position: 1,
+      externalId: "58EcP4wBUwphVYrW4Dw8B0",
+      externalLink: "https://open.spotify.com/track/58EcP4wBUwphVYrW4Dw8B0",
+    },
+    {
       release: "release/the-piano-guys-peaceful-summer-nights",
       discNumber: 1,
       position: 3,
@@ -51,5 +59,5 @@ export const thePianoGuys3LullabyClairDeLune = {
     },
   ],
   createdAt: "2026-09-17T13:50:15.912Z",
-  updatedAt: "2026-09-24T20:01:24.000Z",
+  updatedAt: "2026-10-23T13:57:14.919Z",
 } as const satisfies Track

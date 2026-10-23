@@ -12,6 +12,7 @@ export const thePianoGuys3ChillIWillAlwaysLoveYou = {
     "release/the-piano-guys-3-wedding-season",
     "release/the-piano-guys-autumn-on-piano",
     "release/the-piano-guys-relaxing-piano",
+    "release/the-piano-guys-music-to-read-to",
   ],
   status: "completed",
   unit: "unit/minutes",
@@ -51,6 +52,13 @@ export const thePianoGuys3ChillIWillAlwaysLoveYou = {
       externalLink: "https://open.spotify.com/track/58fyf25PDHSVGY0ZI4EEWv",
     },
     {
+      release: "release/the-piano-guys-music-to-read-to",
+      discNumber: 1,
+      position: 2,
+      externalId: "0Apo1CvxPHRsXC6GTmqMys",
+      externalLink: "https://open.spotify.com/track/0Apo1CvxPHRsXC6GTmqMys",
+    },
+    {
       release: "release/the-piano-guys-relaxing-piano",
       discNumber: 1,
       position: 9,
@@ -59,5 +67,5 @@ export const thePianoGuys3ChillIWillAlwaysLoveYou = {
     },
   ],
   createdAt: "2026-09-17T13:50:16.854Z",
-  updatedAt: "2026-09-24T20:01:24.000Z",
+  updatedAt: "2026-10-23T13:57:14.919Z",
 } as const satisfies Track

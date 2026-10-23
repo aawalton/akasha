@@ -6,7 +6,10 @@ export const thePianoGuysRelaxingPianoUnsungHero = {
   slug: "the-piano-guys-relaxing-piano-unsung-hero",
   ownLength: 3.7426666666666666,
   ownProgress: 0,
-  partOfCollections: ["release/the-piano-guys-relaxing-piano"],
+  partOfCollections: [
+    "release/the-piano-guys-relaxing-piano",
+    "release/the-piano-guys-3-unsung-hero",
+  ],
   status: "not-started",
   unit: "unit/minutes",
   title: "Unsung Hero",
@@ -17,6 +20,13 @@ export const thePianoGuysRelaxingPianoUnsungHero = {
   song: "song/the-piano-guys-unsung-hero",
   carriedBy: [
     {
+      release: "release/the-piano-guys-3-unsung-hero",
+      discNumber: 1,
+      position: 1,
+      externalId: "2ldkfdLbMh8BSncVjkH2z8",
+      externalLink: "https://open.spotify.com/track/2ldkfdLbMh8BSncVjkH2z8",
+    },
+    {
       release: "release/the-piano-guys-relaxing-piano",
       discNumber: 1,
       position: 6,
@@ -25,5 +35,5 @@ export const thePianoGuysRelaxingPianoUnsungHero = {
     },
   ],
   createdAt: "2026-09-17T13:50:11.202Z",
-  updatedAt: "2026-09-24T20:01:46.000Z",
+  updatedAt: "2026-10-23T13:57:14.919Z",
 } as const satisfies Track

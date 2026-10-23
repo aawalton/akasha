@@ -12,6 +12,7 @@ export const thePianoGuys3LoveMeLikeIAmLastTime = {
     "release/the-piano-guys-classical-for-studying",
     "release/the-piano-guys-peaceful-summer-nights",
     "release/the-piano-guys-relaxing-piano",
+    "release/the-piano-guys-music-to-read-to",
   ],
   status: "completed",
   unit: "unit/minutes",
@@ -44,6 +45,13 @@ export const thePianoGuys3LoveMeLikeIAmLastTime = {
       externalLink: "https://open.spotify.com/track/1dflLSbY53IcGQWEnL4Zy1",
     },
     {
+      release: "release/the-piano-guys-music-to-read-to",
+      discNumber: 1,
+      position: 6,
+      externalId: "2VodFhGadKBFaMX2jfc2al",
+      externalLink: "https://open.spotify.com/track/2VodFhGadKBFaMX2jfc2al",
+    },
+    {
       release: "release/the-piano-guys-peaceful-summer-nights",
       discNumber: 1,
       position: 2,
@@ -59,5 +67,5 @@ export const thePianoGuys3LoveMeLikeIAmLastTime = {
     },
   ],
   createdAt: "2026-09-17T13:50:21.517Z",
-  updatedAt: "2026-09-24T20:01:24.000Z",
+  updatedAt: "2026-10-23T13:57:14.919Z",
 } as const satisfies Track

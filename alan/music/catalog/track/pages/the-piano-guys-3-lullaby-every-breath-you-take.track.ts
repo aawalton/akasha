@@ -10,6 +10,7 @@ export const thePianoGuys3LullabyEveryBreathYouTake = {
     "release/the-piano-guys-3-lullaby",
     "release/the-piano-guys-3-wedding-season",
     "release/the-piano-guys-autumn-on-piano",
+    "release/the-piano-guys-music-to-read-to",
   ],
   status: "completed",
   unit: "unit/minutes",
@@ -41,7 +42,14 @@ export const thePianoGuys3LullabyEveryBreathYouTake = {
       externalId: "5OvCeYiBG0maA4xyyIZ2YD",
       externalLink: "https://open.spotify.com/track/5OvCeYiBG0maA4xyyIZ2YD",
     },
+    {
+      release: "release/the-piano-guys-music-to-read-to",
+      discNumber: 1,
+      position: 5,
+      externalId: "6ojcJ8G3UiinaHykb2IYty",
+      externalLink: "https://open.spotify.com/track/6ojcJ8G3UiinaHykb2IYty",
+    },
   ],
   createdAt: "2026-09-17T13:50:16.013Z",
-  updatedAt: "2026-09-24T20:01:24.000Z",
+  updatedAt: "2026-10-23T13:57:14.919Z",
 } as const satisfies Track

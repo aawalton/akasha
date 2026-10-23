@@ -10,6 +10,7 @@ export const thePianoGuys3Unstoppable2EveningPrayer = {
     "release/the-piano-guys-3-unstoppable-2",
     "release/the-piano-guys-classical-for-studying",
     "release/the-piano-guys-peaceful-summer-nights",
+    "release/the-piano-guys-music-to-read-to",
   ],
   status: "completed",
   unit: "unit/minutes",
@@ -35,6 +36,13 @@ export const thePianoGuys3Unstoppable2EveningPrayer = {
       externalLink: "https://open.spotify.com/track/2EM9Qggei4WFtGDbyRIbIi",
     },
     {
+      release: "release/the-piano-guys-music-to-read-to",
+      discNumber: 1,
+      position: 10,
+      externalId: "1qb7uYNJGIkVlE316aGvS7",
+      externalLink: "https://open.spotify.com/track/1qb7uYNJGIkVlE316aGvS7",
+    },
+    {
       release: "release/the-piano-guys-peaceful-summer-nights",
       discNumber: 1,
       position: 4,
@@ -43,5 +51,5 @@ export const thePianoGuys3Unstoppable2EveningPrayer = {
     },
   ],
   createdAt: "2026-09-17T13:50:22.920Z",
-  updatedAt: "2026-09-24T20:01:46.000Z",
+  updatedAt: "2026-10-23T13:57:14.919Z",
 } as const satisfies Track

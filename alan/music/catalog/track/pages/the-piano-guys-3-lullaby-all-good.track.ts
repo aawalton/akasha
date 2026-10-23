@@ -10,6 +10,7 @@ export const thePianoGuys3LullabyAllGood = {
     "release/the-piano-guys-3-lullaby",
     "release/the-piano-guys-peaceful-summer-nights",
     "release/the-piano-guys-relaxing-piano",
+    "release/the-piano-guys-music-to-read-to",
   ],
   status: "completed",
   unit: "unit/minutes",
@@ -28,6 +29,13 @@ export const thePianoGuys3LullabyAllGood = {
       externalLink: "https://open.spotify.com/track/2CVE8Vku4ZCs1Dv0BUHzQW",
     },
     {
+      release: "release/the-piano-guys-music-to-read-to",
+      discNumber: 1,
+      position: 11,
+      externalId: "6qXDxDsmDLz8eU22WXdtZG",
+      externalLink: "https://open.spotify.com/track/6qXDxDsmDLz8eU22WXdtZG",
+    },
+    {
       release: "release/the-piano-guys-peaceful-summer-nights",
       discNumber: 1,
       position: 7,
@@ -43,5 +51,5 @@ export const thePianoGuys3LullabyAllGood = {
     },
   ],
   createdAt: "2026-09-17T13:50:15.978Z",
-  updatedAt: "2026-09-24T20:01:24.000Z",
+  updatedAt: "2026-10-23T13:57:14.919Z",
 } as const satisfies Track

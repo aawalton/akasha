@@ -11,6 +11,8 @@ export const thePianoGuysAutumnOnPianoShapeOfMyHeart = {
     "release/the-piano-guys-classical-for-studying",
     "release/the-piano-guys-peaceful-summer-nights",
     "release/the-piano-guys-relaxing-piano",
+    "release/the-piano-guys-music-to-read-to",
+    "release/the-piano-guys-3-unsung-hero",
   ],
   status: "not-started",
   unit: "unit/minutes",
@@ -21,6 +23,13 @@ export const thePianoGuysAutumnOnPianoShapeOfMyHeart = {
   trackKey: "shapeofmyheart|0jW6R8CVyVohuUJVcuweDI|305618",
   song: "song/the-piano-guys-shape-of-my-heart",
   carriedBy: [
+    {
+      release: "release/the-piano-guys-3-unsung-hero",
+      discNumber: 1,
+      position: 2,
+      externalId: "3GPsfBIP1qWOpfIl55Np9r",
+      externalLink: "https://open.spotify.com/track/3GPsfBIP1qWOpfIl55Np9r",
+    },
     {
       release: "release/the-piano-guys-autumn-on-piano",
       discNumber: 1,
@@ -34,6 +43,13 @@ export const thePianoGuysAutumnOnPianoShapeOfMyHeart = {
       position: 13,
       externalId: "3yqkxelLeIqbCPAIqlhpcN",
       externalLink: "https://open.spotify.com/track/3yqkxelLeIqbCPAIqlhpcN",
+    },
+    {
+      release: "release/the-piano-guys-music-to-read-to",
+      discNumber: 1,
+      position: 4,
+      externalId: "12LXnVSTW3w3UUgpul5jHh",
+      externalLink: "https://open.spotify.com/track/12LXnVSTW3w3UUgpul5jHh",
     },
     {
       release: "release/the-piano-guys-peaceful-summer-nights",
@@ -51,5 +67,5 @@ export const thePianoGuysAutumnOnPianoShapeOfMyHeart = {
     },
   ],
   createdAt: "2026-09-17T13:50:08.324Z",
-  updatedAt: "2026-09-24T20:01:46.000Z",
+  updatedAt: "2026-10-23T13:57:14.919Z",
 } as const satisfies Track

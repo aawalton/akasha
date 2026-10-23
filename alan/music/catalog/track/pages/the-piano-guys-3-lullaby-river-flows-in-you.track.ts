@@ -9,6 +9,7 @@ export const thePianoGuys3LullabyRiverFlowsInYou = {
   partOfCollections: [
     "release/the-piano-guys-3-lullaby",
     "release/the-piano-guys-3-wedding-season",
+    "release/the-piano-guys-music-to-read-to",
   ],
   status: "completed",
   unit: "unit/minutes",
@@ -33,7 +34,14 @@ export const thePianoGuys3LullabyRiverFlowsInYou = {
       externalId: "3n9bwVYmldkNFKF9JBLG2l",
       externalLink: "https://open.spotify.com/track/3n9bwVYmldkNFKF9JBLG2l",
     },
+    {
+      release: "release/the-piano-guys-music-to-read-to",
+      discNumber: 1,
+      position: 7,
+      externalId: "4FM0iN0OO43stPabnUGYz4",
+      externalLink: "https://open.spotify.com/track/4FM0iN0OO43stPabnUGYz4",
+    },
   ],
   createdAt: "2026-09-17T13:50:16.081Z",
-  updatedAt: "2026-09-24T20:01:24.000Z",
+  updatedAt: "2026-10-23T13:57:14.919Z",
 } as const satisfies Track

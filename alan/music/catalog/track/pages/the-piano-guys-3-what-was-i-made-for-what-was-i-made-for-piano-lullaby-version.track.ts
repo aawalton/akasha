@@ -12,10 +12,11 @@ export const thePianoGuys3WhatWasIMadeForWhatWasIMadeForPianoLullabyVersion = {
     "release/the-piano-guys-classical-for-studying",
     "release/the-piano-guys-peaceful-summer-nights",
     "release/the-piano-guys-relaxing-piano",
+    "release/the-piano-guys-music-to-read-to",
   ],
   status: "completed",
   unit: "unit/minutes",
-  title: "What Was I Made For? (Piano Lullaby Version)",
+  title: "What Was I Made For? - Piano Lullaby Version",
   trackType: "version",
   explicit: false,
   trackArtist: [{ artist: "artist/the-piano-guys" }],
@@ -44,6 +45,13 @@ export const thePianoGuys3WhatWasIMadeForWhatWasIMadeForPianoLullabyVersion = {
       externalLink: "https://open.spotify.com/track/7cnczRdL6Nj5fb5OpBRc1T",
     },
     {
+      release: "release/the-piano-guys-music-to-read-to",
+      discNumber: 1,
+      position: 8,
+      externalId: "0oidEsqcPuu9mXz8jZB4lG",
+      externalLink: "https://open.spotify.com/track/0oidEsqcPuu9mXz8jZB4lG",
+    },
+    {
       release: "release/the-piano-guys-peaceful-summer-nights",
       discNumber: 1,
       position: 12,
@@ -59,5 +67,5 @@ export const thePianoGuys3WhatWasIMadeForWhatWasIMadeForPianoLullabyVersion = {
     },
   ],
   createdAt: "2026-09-17T13:50:17.841Z",
-  updatedAt: "2026-09-24T20:01:46.000Z",
+  updatedAt: "2026-10-23T13:57:14.919Z",
 } as const satisfies Track
