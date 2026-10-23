@@ -1,0 +1,113 @@
+"Smith!" The Commander's voice pierced the background din and even Oliver's own hearing protection, causing him to look up. She was approaching him, motioning wildly... not a bad guess that she wanted to talk to him.
+
+He sighed, and set down the metal plate he'd been maneuvering into place, instead conducting the placement brackets holding it up to gently allow it to the ground below. He dusted his hands off, using a quick [Scrollcast] to cleanse his hands, referencing an [Unblemish]-based spell tablet he kept on his belt to do so. Without water to work with it wasn't going to properly purify his hands in an arcane sense, but that probably wouldn't matter for this quick talk with the Commander.
+
+He shifted his mind out of construction-assembly mode and into 'people' mode, vaguely hoping he wouldn't forget...
+
+Dangit.
+
+"Commander," he finally greeted her. He was glad she was patient enough that she let him wrap up whatever he was actively working on before she expected a response, and Oliver briefly considered whether that would have extended into fully installing the plate, but that would take quite some time before he was
+
+"Sorry, I didn't mean to interrupt you," she began, but Oliver quickly dissuaded her concern so she continued. "The new traincar is going well, I take it?"
+
+He nodded. With them immediately pivoting to running a rail line through the Junglewaste, Oliver had just kept their existing traincar as-is, what with it serving as a deployment platform for spider-bots. That had already started the first little bits of building out the new train line, under heavy guard from Jacob. So that meant they needed to make a new traincar for the Ironroad line, which had been Oliver's most recent project. He'd compromised with this particular design - he still used a non-Networked and giant clockwork heart to power it, but because this wasn't tasked with extending the Network, he could get away with a clockwork mind the size of a spider-bot's, looking just to see whether it was full or empty, in a station or not, and flipping an appropriate lever.
+
+He still needed to make the defenses and... Right, Henrietta had asked him something. "It's going fine. I kept expecting my welding wand to break, but it's held up well so far."
+
+"I'm glad to hear that," she acknowledged. "I'm preparing to head out in the next couple of hours, so it'll just be you and Haleford manning First Tower. I've refreshed the inkling defenders, so you have a full compliment of three big dragons and twenty-four scalewolves."
+
+Oliver nodded. The reminder was appreciated, even if not particularly needed - Jacob was frequently outside, acting as a guard for the track laying spider-bots, but he wasn't so far away that he couldn't rush back if his [Empowered Interdiction] indicated danger was at hand. Still, they were objectively less defended, and it was important for them to be cognizant of such. It would have been nice to have even more inkling defenders, but more was not always better - especially for the big dragons, which tended to get in everything's way on account of being the size of the Volcanic Crucible.
+
+"That's in a couple hours though," Oliver noted. "Is there something now you want me to look at?"
+
+"Just something I considered while preparing, and wanted to get you thinking about," she started, and Oliver waited for a few moments before realizing she was probably waiting for him to motion for her to continue, which he subsequently did. "It's going to be a while before we have a full train connection between here and there, and we'll probably have our... I think you said it was called a manufactorium?"
+
+It was technically an archaic and fanciful name for a place where things were assembled, but Oliver liked it, so he nodded.
+
+"The Manufactorium should be functional long before the train ever gets there, not to mention how we'll get it up to Clifftop in general. So I want you to think about ways we could have a proper supply line between here and there, without any infrastructure."
+
+"By definition, any supply lines would be infrastructure."
+
+Henrietta paused. "That's fair. But do you understand what I'm getting at? If we have some autonomous means of getting supplies from here to arbitrary locations, or vice versa, even if it's got serious limitations of some form, it would enable us to get external bases running a lot sooner. I'm not saying it has to be this, but you've been tinkering with flight magic lately... could you make an aerial drone of some kind that can be sent out for supply purposes?"
+
+"The skies aren't exactly safe," Oliver pointed out. "We'd probably lose a fair few just from animal attacks."
+
+"I doubt we'd entrust anything too valuable to them for that very purpose. But some minor defenses ought to be possible, to dissuade them."
+
+"Fair. Yeah... yeah," Oliver nodded. As logistics were becoming more of a thing, work done now to give them a solid foundation and standards would pay off exponentially down the road. "I'll see what I can do. I'm going to finish the new Ironroad traincar first though, because otherwise we'll run out of iron ore uncomfortably soon. I was planning on giving helmets a solid go, but I can pivot?"
+
+"Do whatever you deem most important," Henrietta agreed. "I just wanted to get you thinking about this. But if helmets are liable to take you more than a week, I would like you to focus on logistics first."
+
+Oliver fumbled through giving a thumbs up in response. "Anything else?"
+
+"I believe that is all, unless you had something for me."
+
+He didn't, and Henrietta flew off a minute later, letting Oliver get back to his traincar making. He spun up his magic again, directed his placement brackets to connect to their steel plates with a satisfying clunk, and brought them back in place. Then, he passed off the mental overhead of holding the brackets in place to his familiar - a new development but hardly an unwelcome one - and pulled a stepladder over to start welding the steel in place.
+
+If he was lucky, he'd get the structure finished by the end of the day.
+
+Oliver watched as the new traincar lumbered off to Ironworks, While he couldn't help but half expect one of the many, many failsafes to trigger and cause the metal contraption to reverse course and return to the depot, nothing like that had happened by the time Oliver got antsy and felt the need to start working on something new.
+
+Then he paused, because Henrietta was away and therefore hadn't been able to set up ⟨Monitoring⟩ on the car, meaning if it did break down Oliver would have no way of knowing unless he saw it actually pull in to the 'station' before it left again. And given he'd set things up such that a spider-bot should replace its Network Cache automatically, meaning no manual intervention would be needed before it could leave again, the odds of him missing it were quite good.
+
+He tried to study the Ironpile, eyeing how much raw iron ore they had presently, but he didn't expect to have that good of an idea if it changed... an Autonomous Divination it was, then.
+
+Oliver dipped over to his nearest handwashing basin, cleansed some lingering arcane pollutants, pulled out an orb and wand he usually used for these kinds of things. He held his wand between his middle and ring finger, tapped it twice against the orb, then interlaced his fingers around the wand as he began to cast. "Behold, I am the [Erudite Enchanter] Oliver Smith, and my eyes are bright and my grasp absolute. I have cause to learn about this place, and the means by which to do it. For I hold my hand aloft, and shall not lower it before its due has come. While I wait not for times far in the future, my soul hereby raises its hand, taking the baton I have passed unto it within itself, and shall lower its reach that I may know about it deep within my soul the exact instant the train does return."
+
+The thread of magic remained, as much as Oliver itched to close it off, but the sensation quickly faded as it blended in with the dozens of other alerts he had set up. This one was honestly quite tame, because it was just a time-delayed alarm that he passed off to Autonomous Divination just because it was the quickest and easiest to do.
+
+When he replaced his wand in its pocket, he made sure to orient it point up. It going point down wouldn't break the spell, his System was handling that, but it would add some potential complications and maybe jinx the train's return. No point in making it harder than it had to, he had plenty of difficulty to go around.
+
+While Oliver did want to work on his helmet first, when he went to the Metalpress to get its parts manufactured, he realized the enchantment had malfunctioned, ruining the current batch of motion slide blanks it was making. He sighed, recalibrated the hologram projector to do a repeat batch, fixed the broken enchantment, and scooped up the broken pieces of iron, dropping them in a scrap bucket for a spider-bot to empty into the Volcanic Crucible for recycling.
+
+Since clearly making his helmet wasn't going to happen right now... clearly, the only reasonable thing to do now was to work on flight magic.
+
+Woe is me, he thought with a smile.
+
+Flight was one of those most primal of magical desires. Even if he'd never been the sort of person to be absolutely obsessed with it, like Alyssa was - freefall made him lightheaded - he could still enjoy certain types of flight. And just because his preferred form of Z-axis movement came with a flight platform, that didn't mean he didn't know how to make other types of flight, even from scratch.
+
+Unfortunately, making a proper flight effect from true nothing wasn't really something they could do at the moment - powerful electromagnets inducing levitation were the strongest basis for his [Cogniprint] to key off - but he didn't need to do it from scratch, thanks to [Leafstep]. Specifically, ⟨Leaf on the Wind⟩. It was a slow fall effect, and slow fall effects allowed any half-decent enchanter or mage to break mundane lift equations in... not half, that wasn't violent enough. 'Absolutely annihilate,' perhaps.
+
+All fixed-wing aircraft flew thanks to magic. Even in the Age of Oppression, when most engineers had absolutely no idea about the Tapestry and only took into account atomic models of the universe, they still took advantage of the increased speed and decreased pressure which a properly-shaped wing could produce above it, even if they didn't fully understand why it happened. Adding mana to the picture made it obvious, though - a proper wing functioned as a kind of 'second ground', creating a small bubble of extra-airy Air directly above it. Those Associations cause the wind directly above the wing to move faster and be less dense, creating the physical Force known as lift.
+
+And because Oliver lived post-oppression, he knew all kinds of tricks to enhance the 'false ground' Associations of a wing, though that didn't always make figuring out the right balance of Earth mana to include easy. Too much and the false ground would become too real, increasing its drag and mass and making it want to stay stationary. Too little, and he wasn't getting any real benefit.
+
+But that was where a slow fall was so great! Doubly so with a slow fall intended for gliding. Oliver could cut the influence of gravity on his aircraft by a literal order of magnitude just by ⟨Inlay⟩ing the subskill into some appropriate fabric, and he had a solid run of that flycloth already proofed for more clothing purposes.
+
+He still had a bit of fun taking and unrolling just a little bit, barely a square meter's worth, and jumping off a ledge partway up the Spire, then gently gliding down afterwards, before he got into the serious business of doing Artificer work.
+
+He wasn't working blindly by any means. He figured a delivery glider ought to be within his capabilities - nothing too complicated, but a reasonably lightweight wooden frame with flycloth wings, probably something vaguely 'T' shaped, but with a tailfin at the back. Because this would be by definition be something that regularly left the Broadcast Network, he didn't want to make it too crazily dependent on broadcast glyphs. He almost certainly wouldn't be able to avoid it entirely, but the smaller of a volume he could cram everything that did require it, the better, because his Network Caches lost power directly correlating with how large of a space they needed to keep powered.
+
+Well, okay. It also lost charge when dealing with particularly potent or complex enchantments, and it wasn't really volume that cost it so much as it was surface area, which indicated he was losing a lot of potential charge to something akin to radiation, but keeping things physically smaller would usually help with both of those things.
+
+To help with the volume problem, Oliver would want to run steering and propulsion off the same enchantment, and he was fairly certain he could do so with an air propulsion spell running over the wings, so long as he made the enchantment capable of running on either side of the glider independently. No need to worry about tailflaps or any mechanical parts, that way. Increase power to both to go up, cut off power to both to descend, and do imbalanced amounts of power to turn.
+
+It almost perfectly mapped from his spider-bot control logic, but in some ways even better. He could omit the clockwork mind, bot grabber - mm, no, he needed some way to carry cargo, but the grabber probably wouldn't be needed... just some kind of gripper that could be activated or deactivated by something external would suffice. He should make a standard size for 'Factory crates,' once again borrowing the magic of abstraction to enable the glider to carry anything that fit within whatever box he designed.
+
+That could be a project for once he had something in the air.
+
+Oliver sketched out a design in his IDE for the delivery glider. They were fairly supply constrained on flycloth, what with the Weaving Hall only producing so much fabric per day. Sure, currently it could be monopolized by flycloth patterns, but that could change at effectively any point. And the enchanting process to actually ⟨Inlay⟩ it with [Leafstep] was lengthy and involved, so overall it was unlikely that they'd have ton of them flying around.
+
+That meant it was in his best interests to design it from the start to have a quick and easy reload and reset process. Though really, that was probably best practice anyway because easier maintenance would be easier to automate and...
+
+That was a tangent. But still worth considering.
+
+Oliver worked through various sketches in his IDE. From what he could tell, the pathfinding crystal might actually work better with this design than it did with the spider-bots, mostly because it was so strongly based off of [Rustlewind], itself a Wood, Air, and Force skill. That meant his Modulators for the glider propulsion system were so simple Oliver half expected he'd be able to fold their function entirely into the latter by the time he had a working prototype. [Rustlewind] found a path, and [Leafstep] followed it.
+
+Oh, he should see if Alyssa's ⟨Gather⟩ subskill would make this work even better the next time he had a chance to copy it down.
+
+He wouldn't be able to rely on his standard pathing logic, though. That was Broadcast Network dependent, and for now the best thing Oliver could think of as a replacement would be some kind of powerful homing beacon placed wherever the glider was supposed to fly... and some way to ensure it flew to the right one.
+
+Oliver made a note of that particular failing, tossed together a basic prototype with a two meter wingspan and exceedingly slapdash and crude navigation logic... and it worked!
+
+Well, once the standard suite of stupid mistakes were past him, anyway. But those didn't count. What did count was the several house he spent wandering around looking for the right kind of wood to use, because apparently it was going to be picky on him, and he only managed to figure out the right lumber after he stopped asking his divination about "That tree which yearns for the sky" which was effectively all of them and started asking instead about "That tree which yearns to fly."
+
+He didn't know for certain what made the wood he'd wound up with suitable for the glider... but he suspected it had something to do with it having been felled by powerful winds. He couldn't tell if it had been Alyssa experimenting with her Skills, or perhaps some scavenged wood from the massive windstorm that had struck them when the Junglewaste had been created, but he really hoped it was a matter of harvesting method rather than something more finicky.
+
+Though, the question did arise as to how he planned on getting the delivery glider airborne to begin with. [Leafstep] very clearly worked best when the user was already in motion, and keep moving wasn't the same as start moving, doubly so when it came to aircraft.
+
+But...
+
+Oliver watched as one of their ballista fired, absolutely annihilating a dragon that had gotten too close.
+
+He suspected he might like the answer.
