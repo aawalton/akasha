@@ -1,0 +1,317 @@
+Chapter 35
+
+The Flying Monkey
+
+Loading Participant Profile…
+
+User Profile:
+
+Name: Joseph Sullivan (Participant No. 4,432,444)
+
+Race: Human
+
+Discipline: Spellcaster
+
+Class: Currently Unavailable
+
+Level: 11
+
+Health Points (HP): 70 [Current: 70]
+
+Mana Points (MP): 5 [Current: 5]
+
+Stamina: 80 [Current: 80]
+
+User Statistics:
+
+PHYSICAL STATISTICS:
+
+Strength: 19
+
+Dexterity: 12 [+9 from Equipped Items]
+
+Constitution: 8
+
+MAGICAL STATISTICS:
+
+Intelligence: 3
+
+Willpower: 8 [+6 from Equipped Items]
+
+Spirit: 1
+
+Loading Participant Profile…
+
+User Profile:
+
+Name: Clyde Richmond (Participant No. 928)
+
+Race: Human
+
+Discipline: Harvester
+
+Class: Currently Unavailable
+
+Level: 10
+
+Health Points (HP): 95 [Current: 95]
+
+Mana Points (MP): 15 [Current: 15]
+
+Stamina: 60 [Current: 60]
+
+User Statistics:
+
+PHYSICAL STATISTICS:
+
+Strength: 5
+
+Dexterity: 10
+
+Constitution: 8 [+2 from Equipped Items]
+
+MAGICAL STATISTICS:
+
+Intelligence: 5
+
+Willpower: 10 [+4 from Equipped Items]
+
+Spirit: 2
+
+Loading Participant Profile…
+
+User Profile:
+
+Name: Veronica Sampietro (Participant No. 6,010,689)
+
+Race: Human
+
+Discipline: Warrior
+
+Class: Currently Unavailable
+
+Level: 9
+
+Health Points (HP): 180 [Current: 180]
+
+Mana Points (MP): 10 [Current: 10]
+
+Stamina: 50 [Current: 50]
+
+User Statistics:
+
+PHYSICAL STATISTICS:
+
+Strength: 10 [+2 from Equipped Items]
+
+Dexterity: 4
+
+Constitution: 20 [+5 from Equipped Items]
+
+MAGICAL STATISTICS:
+
+Intelligence: 4
+
+Willpower: 3
+
+Spirit: 1
+
+Loading Ally Profile…
+
+User Profile:
+
+Name: Jelly Boy
+
+Race: Blue Slime (Ooze)
+
+Discipline: Harvester
+
+Class: Currently Unavailable
+
+Level: 8
+
+Health Points (HP): 75 [Current: 75]
+
+Mana Points (MP): 18 [Current: 18]
+
+Stamina: 11 [Current: 11]
+
+User Statistics:
+
+PHYSICAL STATISTICS:
+
+Strength: 2
+
+Dexterity: 2
+
+Constitution: 8
+
+MAGICAL STATISTICS:
+
+Intelligence: 8
+
+Willpower: 8
+
+Spirit: 3
+
+“So, you received a Spell that lets you learn more Spells,” Veronica says slowly, narrowing her eyes across the table at me like I just told her I eat my own toenails for power. “From Monsters?”
+
+I nod, mid-sip of my beer. It’s a light, if slightly bland, lager. Bokarala Bar is a hole-in-the-wall bar tucked away in Tremont. Sticky floor. Wobbly chairs. No door on the only bathroom. The sign above the bathroom reads “No Sex in Restroom. Restroom Specifically for Urinating and Doing Cocaine.” A dart board randomly placed in the back corner.
+
+Veronica leans in, resting her elbows on the table. Her voice drops. “Does that include Jelly Boy?”
+
+From inside my backpack—propped safely on the chair beside me—bzzzzt. A wet, satisfied gurgle follows. He’s still digesting the complimentary bar peanuts I offered him. He seems to like them, too.
+
+I look down. The backpack wiggles. I look back up.
+
+“Er, pretty much…” I say. “And I’m not sure if it’ll work with Jelly Boy, but I’m definitely going to try.”
+
+“You’re going to spell-leech your own pet.” She sounds impressed. Or horrified. Hard to tell with Veronica. Her face always reads like she’s considering whether or not to stab someone; an expression that lacks any sense of patience.
+
+Behind her, Clyde lines up another shot at the dartboard. The guy’s got a level of focus like a retired sniper playing lawn darts at a family reunion. A soft thunk echoes every few seconds. He’s not even missing the bullseye anymore. I wonder if he was always that good at darts, or if it was a byproduct of his access to the System.
+
+We’d made it out of the arctic-like Realm with no issue after the Naked Sasquatch bailed us out.
+
+The Exit Gate was still where we left it. We’d downed healing potions like we couldn’t get enough of the stuff. Enough to smooth out the bruises and close the wounds. Most importantly, our Guild-issued coats were intact. No rips, no bloodstains. Nothing that should raise any obvious questions.
+
+Stepping through the Gate felt like crawling out of a freezer into a sauna. One second you’re in otherworldly winter hellscape, the next you’re standing in a sterilized temporary booth, blinking like you just got abducted by aliens and dropped in a DMV. We turned in our extracted material and went through the exit scans without issue.
+
+So, we did what all responsible, traumatized adventurers do after surviving a combat-heavy, reality-bending field op: we went to the bar.
+
+“I don’t think spell leeching is really the right way to describe it,” I say, lifting one finger like I’m about to give a lecture. “It’s more like… magical estate planning. A gift.”
+
+Veronica stares at me, unblinking. Clyde snorts from the dartboard.
+
+I sigh, lean back in my chair, and open my HUD with a flick of my eyes. A familiar notification pulses to life in my vision. I read the notification and Spell description again.
+
+You have learned a new Spell!
+
+[New Spell: Pact of the Novice Scribe]
+
+Pact of the Novice Scribe (Ritual Spell – Level 1)
+
+Casting Time: 1 minute
+
+Mana Cost: The Spell expends 100% of the User’s Maximum Mana (if current Mana is less than 100%, the Spell will Fail) and will require an equal amount of Mana from the other participant in the Spell.
+
+Range: Touch
+
+Duration: Permanent
+
+Description: The spellcaster can enter into a one-time pact with a willing target Monster. The Monster will bestow a magical ability using a facsimile of its own innate abilities. The spellcaster will receive a single spell or ability. If a spell, the spell will be a Cantrip or a Level 1 Spell. The Spell or Ability received depends on the nature of the target Monster. This Spell may only target the same Monster once, even if such attempt is not successful. This spell will automatically fail if the targeted Monster is incompatible or does not have sufficient Mana. The target Monster does not need to know any Spells for this Spell to work.
+
+I minimize the screen and glance down at my backpack.
+
+It burps.
+
+Jelly Boy is technically a Monster. He’d also probably be a willing participant in the Spell. It all begs the question: what kind of Spell would I receive from Jelly Boy? A consumption-based Spell? The ability to turn my bones to gelatin? The possibilities were endless. In any case, I look forward to finding out later.
+
+More importantly, with the Pact of the Novice Scribe spell under my belt, I successfully completed my Quest and avoided the fucking Decay debuff. The System seemed to really favor fucked up do-or-die timeline styled penalties and it was beginning to really get under my skin.
+
+QUEST UPDATE (The Fundamentals of Magic 101): You have satisfied the requirements of this Quest. Congratulations!
+
+You have taken steps on becoming the true embodiment of magic.
+
+You have avoided all penalties for failing to complete the Quest’s primary Objective.
+
+QUEST UPDATE (The Fundamentals of Magic 101): You have successfully completed a Hidden Objective! You have obtained a method of dependably obtaining additional pieces of magical knowledge and spellcraft.
+
+REWARD: Magical Tome (Mana (Force) Blast).
+
+I summoned my Quest update message and read it one more time. Hidden Objectives? It’s a fascinating new piece of information and how the System’s Quests function. But I can’t help to feel that it leaves the door open for Hidden Penalties. And that’s a thought that brings me a lot of dread. More variables. More uncertainty. It’s what I would refer to back in my finance job as a ‘known unknown.’ You could account for it, but not entirely.
+
+“And,” I say. “It’s not the only Spell I obtained today.”
+
+Veronica almost spits out her beer. “What?”
+
+Clyde stops his dart-throwing to turn around and lock eyes with me. “The Quest gave you another Spell?”
+
+I just nod, taking a long pull of my beer.
+
+“Anything good? Please tell me it’s a healing spell. Or at least some form of magical armor,” he says. He picks up his glass of whiskey and takes a small sip.
+
+“I think it’s an offensive spell. It’s called ‘force blast’.”
+
+Clyde sighs. He sets down his glass and picks the darts back up. “Well, if I walked out of today’s Gate with any conclusion, it’s that we need our Classes,” he says. He throws a dart.
+
+Thunk! Bullseye.
+
+“Almost as much as we need a healer, but that can wait. Our little informal party will be more desirable if we have our Classes.” Another dart.
+
+Thunk! Bullseye, again.
+
+“Would you guys be okay with using our Bronze tickets sooner than later?” He turns back towards me and Veronica. Without looking, he fires his third and last dart.
+
+Thunk!
+
+“I’m ready,” Veronica says. “I know we mentioned Level 10 before, but I think we get our Classes and handle whatever the Gate throws at us. Unlike most people, we’ll have each other. That has to be an advantage.”
+
+She looks to me with her dark eyes. Those eyes are dark steel, edged with a question: “And you?”
+
+I swallow hard before downing the last of my beer. I’ve been ready to tackle the Bronze Gate. But am I ready to put others in danger? Is it too soon for Veronica and Jelly Boy to enter the Gate?
+
+They did help protect your sorry ass during the Ritual.
+
+I lock onto Veronica’s gaze. “Let’s do it.”
+
+Her expression softens to a wide grin. “You know, confidence looks pretty good on you.”
+
+My cheeks catch on fire and I cough, breaking our gaze and averting my eyes to somewhere, anywhere else. They find the dartboard.
+
+All three darts are perfectly pinned to the bullseye.
+
+POV: The Imp
+
+Later that night…
+
+Chicago, Illinois
+
+The Imp stretches its leathery wings wide, riding a warm updraft rising from the cracked pavement below. The Chicago skyline looms around it like jagged teeth, the strange steel-and-glass towers glittering like a maw filled with luminescent fangs. These towers were different than the ones the Imp was used to perching atop in his own Realm. He had grown to like them.
+
+The night air is thick with the scent of humans. Lots of humans.
+
+Delicious.
+
+Below, the city pulses with noise. Car horns. Sirens. The dull, percussive thump of music echoing from bar patios. Somewhere, someone screams. Not the good kind of scream—the kind of screams his Master’s victims emit—but one of those mundane, boring screams. Human drama of one kind or another.
+
+The Imp doesn’t care.
+
+Its yellow eyes flick down. There she is. The Master’s target.
+
+The woman steps out of her office building like she always does, heels clicking on the sidewalk like the ticking of a countdown. She’s late, as usual. Overworked, looking exhausted. She adjusts her purse strap and turns right, toward the river, before making another turn. Past the little coffee shop. Then a left, over a bridge.
+
+The Imp has seen her do this every night for a week. Watching from rooftops. From gutters. From beneath cars. It knows her gait, the way she hums tunelessly under her breath, the pattern of her footsteps. Humans are nothing if not predictable. It’s almost sad. Six days of the week, the woman doesn’t deviate from the routine journey between the office building and her apartment.
+
+Tonight, though? Tonight is different.
+
+Tonight, she doesn’t make it home.
+
+Tonight, she is transformed by violence.
+
+A sacrifice.
+
+A step in a greater design that her pathetic little meat-brain can’t even begin to comprehend. In the end, she will be nothing but another stepping stone for the Master. The woman has access to the same source of power as the Master, but she’s weak. No match for the Imp and his brethren.
+
+The Imp’s talons grip the railing of a rooftop bar where drunk human mingle over cocktails, snapping pictures with their small devices. It sits beside a pigeon who doesn’t acknowledge it. The bird can’t see him. Neither can the humans. Most animals can’t. Unless he wants them to.
+
+The Imp considers reaching over and snapping its neck just for the hell of it. Maybe taking the pigeon for a light snack? Yes, a little snack won’t hurt. And the Master never lets them take a bite out of their victims. No matter how tasty they look…
+
+But no. Focus.
+
+He must be professional. That’s what the Master always says. A professional, yes…
+
+The other Imps are already in position. Four of them clinging to the shadows of the space between the two buildings that the woman always uses as a short cut, approximately a block away from her apartment. They’re pressed like nightmares into the cracks of the brick walls. Two more up on the fire escape, gnawing on something that used to be a raccoon. One hanging upside down from a rusted pipe, swaying silently in anticipation.
+
+Their Master watches through their eyes. He likes to watch. The link pulses in the back of the Imp’s skull like a static-filled whisper, full of hunger and command. Tonight, the Master is particularly eager. It’s our last night. Tomorrow, we leave this city, his Master had said.
+
+The signal comes.
+
+A surge of intent fills the Imp’s mind.
+
+Begin.
+
+The Imp’s eyes gleam. It stretches its wings again. Flaps once. The pigeon startles—finally sensing something, perhaps the air shifting, or the sudden drop in barometric pressure, or maybe just death’s proximity.
+
+The Imp dives from the railing, talons extended, hunger gnawing at its belly.
+
+Tonight, the blood spills early. And the city doesn’t even blink.

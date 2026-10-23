@@ -1,0 +1,235 @@
+Chapter 17
+
+How to Win Friends & Level Up, Part II (Tools for the Job)
+
+I pull my car up to the location, double-checking my phone to make sure I’m at the right place.
+
+Yup.
+
+A storage facility in the middle of nowhere.
+
+Secure Storage, the giant, sun-faded yellow sign reads, with the even dumber slogan: “Your Stuff, Our Lock!”
+
+I turn into the church parking lot next door and find a spot. Seems like most of the crew is already on site. I put the car in park, letting out a slow breath. Outside, the sky is a dreary gray, the kind that makes everything feel three shades shittier than it actually is. The only thing moving is the occasional gust of wind sending plastic bags and loose gravel tumbling across the asphalt. It’s probably going to rain soon.
+
+I glance at the storage facility itself. Rows of squat, metal buildings stretch down the long driveway, painted in that particular shade of depressing beige that every storage unit seems legally required to have.
+
+This is definitely the place.
+
+I kill the engine, unbuckle, and grab my backpack from the passenger seat. It’s loaded with the barebones safety equipment issued by the Cleveland Municipal System Association when I got my License—neon yellow safety vest, white hard hat, a plastic pair of safety goggles, and thick gloves.
+
+I also brought my own personal purchase: a small baton tucked into the side pocket. Because after what happened last time—getting stuck face-to-face with monsters and no survival tool outside a couple of cantrips? Yeah, no way in hell am I going into a Gate empty-handed ever again. In hindsight, I still wonder what had been going through my head that day. I guess I lost what little sense of rationality I had when faced with my impending doom… You can still learn a lot about yourself, Joe.
+
+I step out of the car, gravel crunching under my Lumberjack Boots, which I’ve pre-equipped. The look is only completed by my jeans and beaded white tank top. Nothing fancy, but it gets the job done. And no one mentioned anything about a dress code for these jobs.
+
+It’s crazy to think how fast all of this happened.
+
+Two days ago, I was still an unemployed, basement-dwelling ex-finance bro with no direction.
+
+Then, I scanned that QR code.
+
+That very afternoon, I went downtown, filled out the paperwork, and got my official System User’s License.
+
+They had me list my Discipline—Spellcaster.
+
+Class? None.
+
+Level? 4.
+
+They ran a quick test to verify my numbers using the cutting edge technology licensed from Bellerophon—then boom. Like the Gates, most jurisdictions used a similar ranking system for System User Licenses, using a variety of criteria (largely Level and Stats) to sort users from weakest—Rank E—to strongest—Rank S. Because I was only Level 4, I was granted a Rank E License, which determined which Gate Jobs I was qualified for.
+
+I paid the nominal fee and they printed my license on the spot.
+
+One online application later, and I was officially a Municipal Guild Freelancer.
+
+And now, just over forty-eight hours after I had turned down a steady job in finance, here I am—standing outside some run-down storage facility, about to enter my first guild-sanctioned Gate.
+
+I exhale, rolling my shoulders.
+
+The plan is simple: take on as many jobs as possible. Grind XP. Level up.
+
+And, once I’m strong enough? I’ll use my Bronze Gate Ticket.
+
+Unlike these Guild-supervised jobs, which are staffed up the wazoo with teams of System users and other safety precautions, the Bronze Gate required to obtain one’s Class is a solo venture. A one-way ticket to whatever hellscape awaits me beyond.
+
+And if I want to survive? I need to be ready.
+
+I slam the car door shut and sling my backpack over one shoulder. The strap digs into my collarbone, but I barely notice.
+
+This is it. First job. First real step forward. And I’ve already decided—I’m not walking in half-assed. If I have something that makes me stronger, I’m using it.
+
+I pull up my Inventory, which I’ve largely cleared out, leaving the miscellaneous junk back at home. I immediately see what I am looking for.
+
+Spell Enhancement Potion.
+
+I withdraw it with a thought, and the vial materializes in my hand, filled with a thick, slightly glowing liquid.
+
+I hesitate for half a second. I haven’t taken a potion yet, and the thought of pouring a foreign substance from a different dimension down my throat gives me pause.
+
+Screw it.
+
+I pop the top and down it in one gulp.
+
+The taste hits me immediately—warm, almost syrupy—the flavor weirdly reminds me of prickly pear. Huh. Didn’t expect that.
+
+Before I can really savor it, the vial dissolves in my grip, breaking into a thousand tiny pixelated motes of light. A pulse rips through my skull, deep and resonant, like someone plucking a harp string inside my brain.
+
+A System notification flares in my vision.
+
+[You have consumed a Spell Enhancement Potion. Please select one Spell to enhance.]
+
+Oh.
+
+I glance over my Spells.
+
+A whole two to pick from.
+
+Light and Wizard’s Hand.
+
+I have no idea what “enhancement” actually means. Will enhancing the Light cantrip just give me a bigger ball of light, or will I suddenly be able to shoot laser beams from my fingertips? It’s too damn vague… There’s no way of knowing for certain.
+
+I mentally tap Wizard’s Hand.
+
+Another pulse, this one softer, spreading like ripples across my thoughts. The System menu shifts, presenting a new set of options:
+
+Select the nature of your Spell Enhancement:
+
+OPTION 1: [Twin-casted Spell]
+
+[Description: Each casting of this Spell will double the output of the Spell, with each output generated by the Spell being at half strength. Each casting of Wizard’s Hand will generate two Wizard’s Hands. This does not increase the Mana cost of the Spell. This does not change the limit of active castings of this Spell.]
+
+The first option is already interesting. Each casting of Wizard’s Hand would summon two of the spectral hands. In total, I could have five at one time with the use of my wand. Still, what good did having access to five hands do me? It wasn’t like there were going to be heavy kettlebells laying around waiting to crush unintending monsters.
+
+OPTION 2: [Increased Finesse]
+
+[Description: The Spell has higher Finesse capabilities. The strength and weight limit of your Wizard’s Hand will be diminished by 50% but the Finesse capabilities of your Wizard’s Hand will be increased by 50%, allowing each hand to accomplish more specific tasks.]
+
+This option is better than the first one. I imagine a Wizard’s Hand capable of maybe holding a knife, or picking locks.
+
+OPTION 3: [Increased Range]
+
+[Description: Doubles the current range of the Spell. Wizard’s Hand will be able to move up to 60 feet away from you.]
+
+Simple, but a definite downgrade from the first two.
+
+OPTION 4: [Add Element]
+
+[Description: Imbue the Spell with an elemental affinity of your choice. Wizard’s Hand will gain traits and characteristics associated with the chosen elemental affinity. Note that altering the Spell’s elemental affinity may result in additional changes to the Spell.]
+
+OPTION 5: [Alter Source]
+
+[Description: Alter the source of your Spell. Currently, Wizard’s Hand is fueled by you mental magic and directly corresponds to Intelligence as your spellcasting Statistic. You may select a different Statistic to act as the source of this Spell’s casting. Note that altering the Source of a Spell may result in additional changes.]
+
+I freeze. Then, a wide grin spreads across my face.
+
+That last one. That’s the one and I know it almost instantly. My Intelligence?
+
+A whopping 1!
+
+Garbage. Absolute dumpster fire.
+
+But my Strength?
+
+Higher than everything else. And by a wide margin too!
+
+If I can switch Wizard’s Hand to run on Strength instead of Intelligence…
+
+I select it.
+
+My brain is instantly met with another pulse. My vision flashes, quickly correcting itself only to be flooded with a barrage of notifications.
+
+[Spell Enhancement initiated…]
+
+Ding!
+
+[Wizard’s Hand has been successfully enhanced!]
+
+[Wizard’s Hand Source has been changed from Intelligence to Strength!]
+
+[Wizard’s Hand Finesse Capabilities have been lowered by 50%.]
+
+[Wizard’s Hand is now capable of physically attacking a target.]
+
+I stare at the notification. Then I read it again. The grin on my stupid mug spreads even wider.
+
+Holy shit. This is huge.
+
+Before, Wizard’s Hand was basically a glorified invisible butler. A parlor trick for picking up stuff across the room when I didn’t feel like getting off the couch.
+
+Now?
+
+Now I have a floating fist of destruction.
+
+Yeah, it’s still basic. Definitely not nearly as cool as an elemental affinity would have been. No mystical bullshit for me, sadly. But I can punch things . . . from up to thirty feet away!
+
+That’s a game changer. Let a gobblin try and scratch at my shoulders now!
+
+My phone vibrates in my pocket, reminding me that I’m supposed to be on the job site. I close out of my System interface and powerwalk to the entrance point for the Gate’s site.
+
+The job site is surrounded by barricades—concrete blocks and metal fencing, draped with big red signs reading AUTHORIZED PERSONNEL ONLY, SYSTEM-ENHANCED WORKSITE, DO NOT ENTER WITHOUT PROPER PPE, each in bold, aggressive letters.
+
+I double-check my phone. Just on time!
+
+Stepping closer, I see the full operation in motion. Men and women in yellow safety vests move about the site going about a variety of tasks. Approaching the entrance, I can see the faint, bluish glow of the Gate.
+
+Standing just inside the entrance is a man in a neon yellow vest thrown over a button-down shirt and a pair of worn blue jeans. His hard hat is tilted slightly back on his head, goggles resting on the brim. He’s older, gray at the temples, with a weathered face that says he’s seen a lot of dumb shit and has zero patience for any more. A clipboard in one hand. A pen in the other.
+
+As I step up, he barely looks up from his clipboard before asking, “How may I help you, young man?”
+
+“I’m here to report for work, sir!” I say, grinning wide. And weirdly enough, I mean it. Damn. Is this what it felt like to smile—really smile? It’s been too long.
+
+It’s the first real grin I’ve had in . . . hell, I don’t even know how long.
+
+The man raises an eyebrow, smirks. “Excited now, are ya?”
+
+“First time on the job.” I scratch the back of my head. “It might be the nerves, actually.”
+
+He chuckles. “Don’t worry, pretty common to have some nerves on your first job. This is all still so damn new, we’ve got plenty of newbies on each job.” He gives me a reassuring smile. “License, please.”
+
+I pull my Municipal System License from my pocket and hand it over. The old man examines the holographic card carefully, then glances down at his clipboard.
+
+“Ah, yes. Joseph Sullivan. Extraction Team.” He looks me up and down. “With muscles like those, we could've used you in Staging.”
+
+Every Gate Job runs with four distinct teams.
+
+The first on-site? The Security Team. Security’s easy to spot—big guys in black tactical gear, holding a variety of out-of-place looking weapons. I see one man in Security Team uniform wielding a spear as he patrols the perimeter of the Gate site. They’re here to handle anything that breaches the Gate and keep civilians from wandering in and getting themselves turned into paste. Mobs on the Earth-side, that’s their job.
+
+The Staging Team quickly follows. They busy themselves setting up the barrier—a glowing hexagonal dome that shimmers faintly in the air, directly around the Gate’s entrance. They also handle the physical barriers around the larger job site. Staging’s got a tent city going, with folding tables, computer stations, and enough coffee cups to drown an office intern.
+
+Once they’re done, the Exploration Team arrives. The golden boys. The real deal. Their sole job is to enter the Gate and clear the Dungeons within, clearing a path for the fourth and final team.
+
+That’s where I come in.
+
+The Extraction Team.
+
+Not as sexy. Not as action-packed. But we’re still the only other team that actually enters the Gate. Exploration Team spots were always in high-demand and granted to only the most qualified candidates. I didn’t have a shot at the position. Not yet, at least. But Extraction positions were always available. Extraction was grunt work—all the danger and risk involved with entering the Gate, but none of the prestige. We’re the ones who go in after the Exploration Team and haul back the valuable materials from the other side.
+
+That’s why they told me to bring a backpack.
+
+Inventories have limited slots. And an Extraction Team keeps their Inventories as empty as possible to stack as much loot as they can carry.
+
+I have no idea what to say to the man’s comment, so I just laugh nervously.
+
+“Well, anyway,” he continues, “Extraction is getting prepped to enter the Gate. Go ahead and join them over there for the debriefing.” He gestures toward a gathering group near a massive, blue-glowing portal. Guards and workers surround it, monitoring equipment and keeping a close watch on the swirling void of not-Earth beyond.
+
+“And make sure you gear up!” he adds, handing my license back. He points to the signs on the fence. “Site rules. We don’t need OSHA coming in and busting our balls here.”
+
+“Uh, yes sir!...” I say, taking back my license and making my way toward the group.
+
+The closer I get, the more real it all becomes. The portal is massive, a pulsing, shifting rift in the air, like someone stabbed reality and forgot to stitch it back up. It hums with energy, a low, vibrating thrum that I feel in my chest.
+
+I step to the side, dropping my backpack to grab my safety vest and hard hat when—
+
+What. The. Hell.
+
+I freeze.
+
+My backpack shifts. I crouch down, slowly unzipping my backpack. Carefully, I open the backpack, but already know what I’m going to find inside.
+
+A light blue slime wriggles within, looking up at me and blinking its massive, happy eyes.
+
+It jiggles. It vibrates.
+
+Blorp!
+
+“JELLY BOY?!”

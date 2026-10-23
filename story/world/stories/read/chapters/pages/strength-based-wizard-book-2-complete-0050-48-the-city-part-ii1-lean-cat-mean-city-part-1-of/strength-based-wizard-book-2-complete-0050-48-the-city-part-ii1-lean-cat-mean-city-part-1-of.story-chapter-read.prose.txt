@@ -1,0 +1,125 @@
+Chapter 48
+
+The City, Part II.1 (Lean Cat, Mean City; Part I of II)
+
+Three new menacing strangers leisurely make their way down the alley, accompanied by the clack, clack, clack of the polished wooden cane held in the hand of the middle of the three.
+
+My eyes focus on the two flanking figures. These guys are tall, long-limbed, all angled bones and predator grace. Their ears taper to precise points, twitching slightly as if capturing minute sounds and changes in the air. Their features are sharp—sculpted like glass blades—and every movement drips with the grace of jaguars.
+
+The one is shorter than the others—about a head shorter than me. Chestnut hair slicked back into a smooth wave that flows from behind his head and the back of the hat he’s wearing—a wide-brimmed and pointed hat that looks a lot like mine. If mine wasn’t so shitty, that is. His hat is a plum-colored velvet and pristine, save for a line of stitches running along its front like a scar. He’s got lightly tanned skin, like he actually gets sun, and pale blue eyes practically glow from the shadows painting his face beneath the brim of his hat. His clothing is too fine for alleyway business: deep plum coat, gold buttons, tailored to within an inch.
+
+He leans on his polished cane with a calm menace.
+
+The other two flank him like matching bookends. One has ash-blond hair in a tight braid, the other obsidian black tied back in a short knot. They wear long coats, dark and practical, with gear that says bounty hunter more than noble prick. Their expressions are practiced boredom with a hint of “we will definitely kick your teeth in because it’s our job… But we’ll enjoy it too.”
+
+“Well, well, well,” says the one in the middle, his voice a slow drawl dipped in condescension. “A human off its leash.”
+
+The two on either side of him snigger.
+
+My grip on Jelly Boy tightens.
+
+“Not looking for any trouble, guys,” I say. “Just cutting through. My friends are literally on the other side of this cut-through. Like, thirty steps. You want to walk with me? Cool. You want to just let me through? Also cool.”
+
+No answer. Just the sound of boots scuffing against damp cobblestone.
+
+Behind me, I feel the pressure. A big, heavy presence. Right, I think. Can’t forget about the big fucker behind me.
+
+The shorter elf raises an eyebrow, clearly confused that I seemed to understand him and could even speak back to him in his own tongue. He quickly tames his facial expression, eyes darkening as he takes me in—truly takes me in, for the first time.
+
+“Interesting. Well then,” says the little elf, tapping his cane against the stone. “Maybe you can answer a question, friend. What’s with the... outfit?” His eyes roam over me with theatrical distaste, hovering on my cursed jorts. “I’ve never seen a tunic such as that… And what are those markings stitched onto it? The pants are… very revealing. And everything else?... Are you dressing up like a mage? As a joke?”
+
+I don’t respond.
+
+He continues. “You know, it is highly disrespectful to poke fun at mages. We do not take kindly to mockery.”
+
+Prickles run down my arms, and the hairs on the back of my neck stand on end again as I sense the presence at my back closing in.
+
+I drop Jelly Boy, who lands on the cobblestones with a thud-splort, flattening like a splattered jelly pancake. He immediately reforms into his vaguely blob-shaped self, giving a little “glorp” of excitement. He’s ready for a fight.
+
+I’m ready too and don’t hesitate.
+
+I clench my fists, squeeze my biceps and cast Wizard’s Fist—twice.
+
+My Stamina bar dips again, twice as Lefty and Righty arrive in two puffs of silvery mist, hovering over my shoulders like the haunted hands of a deceased bareknuckle boxing champion. They’re big, spectral, veiny things. Slightly translucent, glowing faintly blue, each the size of a beach ball with fingers like sausages.
+
+“Oooh,” the elf sneers. “Seems like you know a cantrip or two after all. Interesting… Wizard’s Hand? What are you going do with that? Hold my cane for me while I teach you a lesson in civility?”
+
+More laughter from his two goons. But the big guy behind me is getting too close, and I’ve had enough.
+
+I snap a mental command.
+
+Lefty flies forward and slaps the tall elf on the right. A full-on, open-palmed bitch slap that sends his head twisting like a bobblehead after an earthquake. Righty lunges for the second one, catching him with a meaty cross that shatters his stupid grin on contact.
+
+I spin on my heels.
+
+The big guy behind me throws a haymaker, or maybe tried to grab me—slow, wide, telegraphed like a city bus.
+
+I duck low, arms wide in an improvised crucifix pose before slamming my fists together. I trigger Mana (Force) Blast.
+
+A wave of pure kinetic energy erupts from my knuckles. It’s like shoving a jet engine into my elbows and sending two invisible fists into his gut at mach speed. The big guy lifts off the ground with a satisfying whoomp and slams down hard ten feet back, coughing like he swallowed a cowbell.
+
+“What the hell!?” yells one of the elves, holding his face as Lefty gears up for round two.
+
+But then the short elf steps forward, cane pointed at me, face twisted in something nastier than anger—disdain.
+
+“Enough of this,” he spits. A whisper—a quick incantation—escapes his lips. I feel a buzz in the alley air between us.
+
+The elf’s spell hits me like a bucket of ice water straight to the prefrontal cortex.
+
+You have been hit with the [Mums the Word] Spell.
+
+Your Willpower failed Resisting the Spell.
+
+You are now under the effect of [Silence].
+
+DEBUFF: SILENCE
+
+[Description: Target is under the effect of Silence. This status effect dispels all active Spells requiring any verbal component under the Target’s concentration or control. Target voice is disabled for 3 minutes.]
+
+'What the fuck,' I say. Or would have said, if my voice worked. Nothing comes out and the feeling of not being able to speak is immediately terrifying.
+
+I glance up, panicking at the thought of Lefty and Righty being dispelled (again). But the spectral hands are still there, putting an ass-whooping on the elves.
+
+The mage seems just as surprised as me, which is only sweet when Righty clocks him right in the face with a quick jab. The mage's head cocks back, blood spurting from his nostrils. His hand flies to his face, "What the..." He glares at me with watering eyes and raises his cane towards me again.
+
+The air quakes.
+
+Jelly Boy stretches up, extending a pseudopod as though to shield me from a bullet—but he’s too slow.
+
+You've got to be shitting me! I'm hit with another freezing blast. It’s not pain, not exactly. More like someone vacuumed out my thoughts and replaced them with freezer burn. My mouth goes dry. Lefty and Righty fizzle into nothing like popped soap bubbles, just as they are mid-swing.
+
+You have been hit with the [Spell-breaker] Skill.
+
+Your Willpower failed Resisting the Spell.
+
+You are now under the effect of [Spell-Lock].
+
+DEBUFF: Spell-Lock.
+
+[Description: Target is Spell-Locked. All Spellcasting abilities innate to the Target are locked behind magical bindings, temporarily sealing all magic at the source. All active Spells are immediately dispelled and Target loses access to all Spellcasting for 30 seconds.]
+
+“Are you serious?” I silently mutter. “Does everyone in these Gates have a ‘shut Joe down’ button?” And this guy has two different disabling abilities! I silently curse the System, who apparently decided to nerf the hell out of spellcasting.
+
+My mind races but I don’t have time for a plan, or a prolonged 2-on-3 fight. I snatch Jelly Boy back into my arms. He wiggles, confused but eager.
+
+And then I charge.
+
+The alley twists with chaos before me—curses, footsteps, a clatter of metal as the two tall elves draw blades. The short elf raises his cane again and his hat—that fancy stitched thing—splits open down the front.
+
+Inside is a mouth. And inside that is fire.
+
+Fantastic. I bite off a swear as I urgently wrap my mind around there being a fire-breathing hat.
+
+I yank the flashbang from my Inventory—one of Jelly Boy’s recent party tricks—and drop it at my feet.
+
+FWOMP!
+
+A blinding burst of white light fills the alley. I shield my eyes, bull my way through one of the taller elves, and run.
+
+Boots pounding against stone, heart jackhammering, I explode out the far end of the alley like a sweaty cannonball, breathing hard, vision swimming.
+
+People turn to stare. I don’t care. I’m already putting distance between me and whatever the hell just happened back there.
+
+Jelly Boy jiggles in my arms, surprisingly cheerful.
+
+“Yeah,” I mouth between breaths. “Next time, you do the talking. Let’s find Clyde and Veronica.”
