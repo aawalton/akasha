@@ -20,5 +20,7 @@ export const uniqueSkillTrashSkillBasedProgressionStory0127Chapter115TheHardWay 
     },
   ],
   createdAt: "2026-10-22T16:49:32.049Z",
-  updatedAt: "2026-10-22T16:49:32.049Z",
+  updatedAt: "2026-10-23T16:45:10.319Z",
+  ownProgress: 2287,
+  progressedAt: "2026-10-23T16:45:10.319Z",
 } as const satisfies StoryChapterRead
