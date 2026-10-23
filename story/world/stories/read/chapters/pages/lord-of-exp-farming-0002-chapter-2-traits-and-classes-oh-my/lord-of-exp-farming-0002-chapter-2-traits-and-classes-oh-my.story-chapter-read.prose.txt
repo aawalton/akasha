@@ -1,0 +1,129 @@
+The technology affinity had three associated Traits.
+
+The first that he read helped one better recall tech related designs and schematics. The second improved one’s learning of newly encountered technology. But when he looked at the third, it actually gave him something to think about.
+
+Trait: Tech SavvyDescription: Improves the intuitive understanding of machinery, electronics, and technology in general. Has a moderately better effect for smaller but more complicated machines.Benefits: +2 bonus to Wisdom and Intelligence.
+
+Assuming we’re on some other planet or alternate universe, phone calls won’t work. But since magic exists, it might be possible to somehow tap into that to get them working again. And if picking this kind of Trait also gives me a similar kind of Class, I might have the ability to make that happen. But should I really make such a big decision just based on that? Jordan asked himself.
+
+When on an alien world, he did believe that communication was key. There were only a couple dozen total strangers next to him. With how the System said that he’d been designated as just part of one group, other people were likely separated into similar groups.
+
+Was the grouping totally random, or was it based on distances from where they were before? Jordan didn’t recognize anyone near him, but it wasn’t as if he’d been paying attention to those around him at the mall.
+
+If their groups and their current location had anything to do with their positions on Earth, then Adam and Leo might not be too far from him. But his parents lived across the state from him, so who knew where they would even be. And if their starting positions were entirely randomized, then finding them would be an almost impossible shot in the dark.
+
+Establishing the means to contact his friends and family was an important thing. And if he could help the others do the same, then they actually had a chance of being able to organize with the other groups.
+
+Jordan just wished that he was able to speak and strategize with the other people around him. If they had the time to work together to explore their options, then they might be able to make the ideal team for both their own survival and finding their loved ones.
+
+Yet maybe that idea of reliance on what others did was the exact reason why the System kept them separated like this. Forced to just make their own decisions without the input of anyone else.
+
+The young man carefully considered the choice for a few more minutes. But in the end, he followed what both his heart and gut felt was right for him.
+
+Tech Savvy has been selected.Warning!This is the user’s final chance to go back and change their Trait selection. After this point will be the viewing of potential Classes. Would you like to go back?
+
+Jordan allowed himself another minute to consider it, just to make sure. But after that, he still felt confident in his choice and confirmed it.
+
+User’s E Grade Trait has now been finalized.Initializing list of available Classes.
+
+A new screen then appeared before the young man. But unlike the previous with its hundreds of various Traits, this one was much, much shorter. In fact, there were only two options. Yet it quickly became apparent that this wasn’t quite the Class selection he had been expecting.
+
+Within the System, one may have up to two Classes. A main Class selected now at E Grade, and should the user reach it, a Subclass upon achieving D Grade. For Classes, there are two types: Battle and Trade.
+
+Battle Classes focus on one being able to defend themselves and defeat their opponents. Their primary means of progression is through the killing of enemies to gain Experience Points and climb in Level.
+
+Trade Classes have little to no capabilities for combat. They instead put their focus toward building, crafting, and other activities. Their means of progression and earning of Experience Points is through the creation of the mentioned works.
+
+The user may select either type to be their main Class. Then later on at D Grade, they will select the other as their Subclass. Upon final selection, it will be impossible for the user to ever change which one is their main Class or Subclass.
+
+Would you like to view the available options for Battle or Trade Classes?
+
+Now this is… something, Jordan thought to himself. Presented with this unexpected choice had more or less thrown his early thinking for a loop. One would probably make it more likely for him to enact his plan with the phones to establish a means of communication.
+
+But if the System went out of its way to make combat a key feature, then who knew how important that’d be. When on a foreign world like this, any potential threats were complete unknowns. However, would the local wildlife be the only threat?
+
+Jordan didn’t like the thought of it, but one had to be pragmatic. In any game that allowed it, PvP would always thrive. It’d be naive to think that if the System rewarded the act of killing, there wouldn’t be people who jumped at the chance.
+
+There were already plenty of serial killers out there in the world who never needed a reward. So if there was an added incentive while on a planet where the governments and laws of old didn’t exist anymore… yeah, things could get bad really fast.
+
+He couldn’t even say with 100% certainty if the people surrounding him wouldn’t try something dangerous. And even if they got lucky enough to not have a wannabe murderer in the making, there was still the threat of other groups and just what creatures might be around.
+
+Jordan ultimately decided that making contact with his loved ones wouldn’t mean jack if he died before finding them again. The power to protect himself had to come first. So with that firmly in mind, he had the System give him the Battle Classes.
+
+With his choice made, it moved onto a new pop-up. This screen was also rather short compared to the Trait list, as there were just a total of six options present.
+
+The list of available Classes were largely what one would actually expect to see as the basic choices in an RPG. The first option was Warrior, then followed by Archer, Rogue, Healer, and Mage.
+
+But at the very end, there was one that stood out and caught Jordan’s attention. It was clearly the option added there by his choice of Trait. So he quickly willed to have its details appear.
+
+Class: Combat EngineerDescription: While on the frontlines of conflict, one has little time to focus on perfecting their craft. This Class focuses on still being able to utilize their engineering prowess for the machines of war, but while also having the power to effectively hold their own in battle.Benefits: +1 bonus to Wisdom and Intelligence per Level.
+
+Class Resource:If you spot this story on Amazon, know that it has been stolen. Report the violation.Description: The Combat Engineer uses Tech Points, or TP, to utilize its Class Skills. Formulas: The user’s total TP pool is calculated as a base of 10 + (Intelligence x 0.20) + (Wisdom x 0.10), rounded to the nearest whole number. The user’s regeneration of TP per minute is calculated as a base of 0.50 + (Wisdom x 0.10) + (Intelligence x 0.05), rounded to the nearest hundredth.
+
+New Class Skills acquired:Active:Skill: Summon Air Drone Grade: E1Scaling: Wisdom, IntelligenceDescription: Create an autonomous battle drone to temporarily fight by the user’s side. Base Cost: 3 TP per cast, 6 TP per minute to sustain.
+
+Skill: OverchargeGrade: E1Scaling: WisdomDescription: Push a piece of technological equipment past its usual limits and enhance its performance for a short time. Base Cost: 1 TP per cast.
+
+Skill: ZapGrade: E1Scaling: Intelligence Description: Conjure a small bolt of electricity to shock an enemy. Base Cost: 2 TP per cast.
+
+Passive:Skill: TinkerGrade: E1Scaling: Intelligence, WisdomDescription: Increases the user’s ability to modify existing machines and create their own.
+
+New General Skill acquired:
+
+Active:Skill: AppraiseGrade: E5Scaling: LevelDescription: View basic info about a target creature or object.Base Cost: N/A
+
+He scanned through each of the available Skills. It really was like he’d just been plopped into some RPG video game. The System even provided a formulaic breakdown for his Tech Points.
+
+Though it hadn’t actually provided him with the means to actually see his Intelligence or Wisdom yet. But just as he was about to ask about that after finishing his reading of the Skills, the System proved to be way ahead of him.
+
+Warning!This is the user’s final chance to go back and change their Class selection. After this point will be the viewing of one’s Status and the completion of the tutorial. Would you like to go back?Note: As part of the Class selection process, the user will be given a set of starting equipment for their Class upon completion of this tutorial.
+
+Jordan thought about it for a moment, and then affirmed that yes, he actually would like to go back. If the option was there, then why not take it and at least see what else was available. There’d be no harm in it, at the very least.
+
+To his surprise, it actually didn’t just send him back to the Class choices. Instead it went a step beyond that and to the first decision between the Battle Classes or the Trades. Now curious, Jordan went ahead and selected the other option just to see what it was all about.
+
+Like the combat Classes, the first few choices seemed like standards for the kinds of crafting you’d see in a video game. There was a Blacksmith, Mason, Alchemist, and Enchanter. Though of those, Mason didn’t seem to fall into that standard. But then just like before, there was a clearly tech-themed Class toward the end. So that was of course the first one he looked at.
+
+Class: Artificer Description: To some, technology is the greatest and most fulfilling of crafts precisely because of its added complexity. This Class focuses on aspiring to reach the technical skill needed to create all kinds of technology, with a specialization on drones. They are able utilize their engineering prowess to create recreational devices, but can also effectively build the very machines that are used in wars. Benefits: +1 bonus to Wisdom and Intelligence per Level.
+
+Active:Skill: Build DroneGrade: E1Scaling: Wisdom, IntelligenceDescription: Craft a type of drone from a set of starter recipes for various kinds of tasks. The type and resources required depend on the model and quality of the chosen recipe. Base Cost: Varies
+
+The rest of the available Skills were more of the same. Similar to that of the combat version, but changed to revolve around someone who actually wanted to sit around and just spend their time on building. Which in retrospect, should have been expected.
+
+A part of Jordan wanted to just impulsively rush back to Combat Engineer and pick it. While the Mage would have fulfilled the boyhood dream of casting magic, being able to summon his own battle drone just sounded way too appealing. But for now, he’d remain patient and at least see what all the other Classes had to offer him.
+
+Yet in terms of cutting out the number of choices, he quickly noped the entire list of Trades. While the idea of just working on his own craft was nice, Jordan was still certain about his decision to focus on self-defense. So with that, he went back to the Battle Class list and started to go through the others.
+
+And yeah, even after looking through them all, his vote was still for the Combat Engineer. While the Mage had proved a formidable secondary pick, he ultimately still wanted to use the tech Skills to work on his phone.
+
+That and having a summonable drone to fight for him just sounded a bit cooler than basic spell-based Skills the Mage offered. Now completely comfortable with his pick after having explored his other options, he affirmed his choice in the Combat Engineer.
+
+Choices have been finalized. The user’s Status is now ready.
+
+General Info:Name: Jordan JoynerSpecies: Human (Earth)Guild: N/A
+
+System Info:Class: Combat Engineer Subclass: N/ATraits: Tech SavvyTitles: Initial MergerLevel: 1 EXP: 0/100Grade: E
+
+Resources:Tech Points: 16/16Tech Points Regen: 3.60/Min
+
+Stats:Strength: 13Dexterity: 16Vitality: 18Endurance: 15Intelligence: 22Wisdom: 20Will: 14Free Points: 0General Skills:Active: Appraise-E5Class Skills:Active: Summon Air Drone-E1Active: Zap-E1Active: Overcharge-E1Passive: Tinker-E1
+
+With that, one last screen appeared. Jordan quickly scanned what the System had called his Status. When his eyes landed on the Species first near the top, an immediate thought popped into his head? If Earth was just meant to show his home planet, when why was it in the same line? Was it to imply that they were actually others of the human race not from Earth?
+
+It did say that we were now going to join a wider multiverse. So that has to be the reason, right? It’s the only thing that makes sense for why it’s listed that way, Jordan thought.
+
+The next major thing of note was part of a Subclass listed as not available. But there wasn’t too much of a mystery there with what the System explained before about Classes. The only big question was about the Guild, yet he also had a pretty good guess about what it meant, judging from the name. Beside that, everything else was more or less what one could expect from an RPG.
+
+Alright, guess that’s it then. So what happens now, when will I be able to move? Jordan then went ahead and willed for the Status screen to be dismissed.
+
+User’s basic tutorial is now completed.Please stand by as the rest of your universe finalizes their selections.
+
+As soon as he read through the pop-up, Jordan’s vision became blurred. A part of him felt that time was still passing as the minutes went by. However, a different part of his consciousness was certain that only a single instant ended up passing by. Yet just as quickly as it came, the distortion to his sense of time was back to normal.
+
+“Woah!” Jordan yelled as he suddenly found himself falling to his hands and knees. For a few seconds, he was completely disoriented as all his physical sensations returned at once. The same thing seemed to be happening to those within his group.
+
+Some took it better than others, however, as several people also threw up. Only a few actually managed to remain standing, though even they still looked visibly woozy.
+
+But before anyone could really find their bearings, the System decided that it apparently wasn’t done with them quite yet. Because even though their tutorial was now finished, another screen then popped up.
+
+New Quests Acquired:
