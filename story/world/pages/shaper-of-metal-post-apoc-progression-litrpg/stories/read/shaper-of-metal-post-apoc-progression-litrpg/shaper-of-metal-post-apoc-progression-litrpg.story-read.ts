@@ -1,0 +1,46 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const shaperOfMetalPostApocProgressionLitrpg = {
+  id: "01a167be-aee5-7393-b943-7f60b3371e5b",
+  type: "page-type/story-read",
+  slug: "shaper-of-metal-post-apoc-progression-litrpg",
+  author: "RainHarlow",
+  following: false,
+  unit: "unit/words",
+  title: "Shaper of Metal Post-Apoc Progression LitRPG",
+  world: "world/shaper-of-metal-post-apoc-progression-litrpg",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "110252",
+      externalLink:
+        "https://www.royalroad.com/fiction/110252/shaper-of-metal-post-apoc-progression-litrpg",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Urban Fantasy",
+    "Progression",
+    "Post Apocalyptic",
+    "Super Heroes",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Psychological",
+    "Apocalypse",
+    "First Contact",
+    "Genetically Engineered",
+    "Low Fantasy",
+    "Male Lead",
+    "Slice of Life",
+    "Soft Sci-fi",
+    "Strategy",
+    "Strong Lead",
+    "Supernatural",
+    "War and Military",
+  ],
+  readLater: true,
+  createdAt: "2026-10-23T07:51:52.293Z",
+  updatedAt: "2026-10-23T07:51:52.293Z",
+} as const satisfies StoryRead
