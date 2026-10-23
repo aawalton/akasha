@@ -1,0 +1,45 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const talesOfTheEndlessEmpireLitrpgApocalypse = {
+  id: "01a16899-7a1b-7dfd-a037-a45a8c3bc43c",
+  type: "page-type/story-read",
+  slug: "tales-of-the-endless-empire-litrpg-apocalypse",
+  author: "The Curator",
+  following: false,
+  unit: "unit/words",
+  title: "Tales of the Endless Empire [LitRPG Apocalypse]",
+  world: "world/tales-of-the-endless-empire-litrpg-apocalypse",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "95818",
+      externalLink:
+        "https://www.royalroad.com/fiction/95818/tales-of-the-endless-empire-litrpg-apocalypse",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Portal Fantasy / Isekai",
+    "Progression",
+    "Post Apocalyptic",
+    "Anti-Hero Lead",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Mystery",
+    "Attractive Lead",
+    "Cultivation",
+    "GameLit",
+    "High Fantasy",
+    "Kingdom Building",
+    "Magic",
+    "Male Lead",
+    "Strong Lead",
+    "Supernatural",
+  ],
+  publicationStatus: "ongoing",
+  readLater: true,
+  createdAt: "2026-10-23T11:50:51.163Z",
+  updatedAt: "2026-10-23T11:50:51.163Z",
+} as const satisfies StoryRead
