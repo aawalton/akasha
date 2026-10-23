@@ -1,0 +1,309 @@
+“I guess I should start from the beginning,” Pryce said, looking up at the four dragons. “No one knows for sure, but humans have existed for at least 50,000 years.”
+
+«Wait, I am confused,» Devotion said after Fathom echoed Pryce’s statement. «A clan of humans must have counted the years, but then why are they uncertain about that?»
+
+Fathom translated this question, then added, “Dragons usually teach hatchlings about events that have happened in the last 1,000 years, anything older than that would be a special event, like a very strong earthquake or eruption.”
+
+“Makes sense,” Pryce nodded. “And the others can’t understand how we determined that value yet, but I’ve taught you enough for you to understand, ready?”
+
+Fathom nodded, eyes rapt with attention.
+
+“Most of the nitrogen in the air is called nitrogen-14, because we add up the 7 protons and 7 neutrons to get 14 – there’s 7 electrons too, but those aren’t counted because they’re very light. The important part is that the energy of the sunlight turns a bit of the nitrogen-14 into carbon-14, which has 6 protons, 8 neutrons, and 6 electrons. This carbon-14 will float around and be absorbed by all living things until they die.”
+
+[Nitrogen14 => Carbon14 diagram]
+
+Fathom blinked, then cocked his head. “How does nitrogen-14 turn into carbon-14? Where did the proton and electron go, and why is there an extra neutron?”
+
+“Good question. Sometimes the sun can emit very powerful photons, which can knock neutrons out of atoms. These loose neutrons can hit the atom of nitrogen-14 and knock out one proton while the neutron itself stays behind – the electron is lost because the loss of the proton makes the atom positive, and it gets rid of the electron to make itself neutral.”
+
+“I…think I understand most of this,” Fathom said. “But what does this have to do with measuring the age of the human species?”
+
+“Because in 5730 years, half of carbon-14 will always turn back into nitrogen-14. This means we can see how much carbon-14 is left in an old bone and compare it to a new bone, and that will tell us how much time has passed since the owner of the bone died.” Pryce paused, aware that this was a bit overwhelming. “Does that make sense?”
+
+“...how does carbon-14 turn back into nitrogen-14? Is it because of sunlight knocking one neutron away? The proton could come from a nitrogen-14 atom that turned into a carbon-14 atom, and the electron would be gained in the same way.”
+
+Pryce blinked. “That’s actually a really good guess, but it’s a bit more complicated than that. It turns out neutrons can turn into a proton, electron, and something called an antineutrino. This process is called beta-minus decay, because it releases a negative electron. There’s a reverse reaction called beta-plus decay, which is where a proton becomes a neutron, neutrino, and positron. Neutrinos are basically positive antineutrinos, and electrons are negative positrons.”
+
+“Antineutrino? Positron? You didn’t explain any of this earlier; I thought you said everything was only made of protons, electrons, and neutrons?” Fathom groused, his eyes narrowing indignantly.
+
+“That’s true, but neutrinos and antineutrinos don’t make up anything, they just fly around. Positrons don’t make up anything either, though the reason for that is much more complicated. I don’t know much more than this, if it makes you feel any better,” Pryce said consolingly.
+
+“Not really,” Fathom chuffed. “And why did you say at least 50,000 years? Why can’t you get a better number using this method?”
+
+“After 50,000 years there’s not enough carbon-14 to measure,” Pryce shrugged. “Similar processes happen to other elements, but we’re still figuring those out.”
+
+Fathom sighed and turned to face the three impatient dragons. “...how do I explain this to them?” He asked in an oddly despairing tone.
+
+“You can think of it like…heat,” Pryce suggested. “Imagine if you heated up a rock using the sun. If you took the rock into a cave, it would cool down. By knowing how quickly the rock cools, you could determine how long the rock has been out of the sun even if you weren’t there when it happened.”
+
+“That helps me understand, but it won’t help for them; heat doesn’t last years.”
+
+“Just say sunlight changes things in the air, and when those things are absorbed by life it starts to change back very slowly.”
+
+Fathom gave a dissatisfied rumble, but did what Pryce suggested.
+
+«Is that all? He seemed to say a lot more than that,» Fortitude asked skeptically.
+
+«It is very complicated, he taught me other things earlier which let me understand, at least a little,” Fathom sighed. «This is only the simple version.»
+
+«Can you not teach us what he taught you?” Celeste asked.
+
+«That took a whole day, and we are supposed to be talking about human history today, remember?»
+
+Celeste and Fortitude seemed as if they would have rather pursued this line of questioning, but Devotion cut in, saying, «It does not really matter if they are 5,000 or 50,000 years old. Have him tell us about their history.»
+
+“First, let me say that I’m not a history expert, so feel free to ask about anything, but there’s a good chance I won’t know it,” Pryce warned, glancing down at his prepared notes. He went on to explain how humans once lived as wandering hunter-gatherers, until farming was invented about ten thousand years ago. “This meant humans had to live in one place, because all the food was grown in one place.”
+
+«You stopped hunting?» Devotion asked, a note of disapproval in her voice.
+
+“No, we still hunted, but we also captured animals and grew food for them, so we could make our own source of meat. Most animals are also bigger and stronger than humans, so we used them to do work for us too.”
+
+The three dragons looked askance at this, which wasn’t a surprise. It was hardly in line with ‘proper’ hunting ideals that dragons so seemed to value, and he couldn’t imagine that they thought kindly of using others for labor as well.
+
+«I suppose it makes sense, if they are so weak,» Celeste shrugged.
+
+«Just because it makes sense does not mean it should be done,» Devotion grumbled, though Pryce was relieved that she didn’t have any vehement objections to make.
+
+«I should have asked this earlier, but these animals, could they speak like humans or dragons?» Fortitude asked, her tone uncharacteristically dire.
+
+“No, there are none, why?” He asked a second before realizing her implication. “Ah, you meant to ask if we made other intelligent animals do work for us.” She nodded, seemingly satisfied with his answer. Pryce was a little uncomfortable lying by omission, but it had been hundreds of years since slavery was practiced, so he didn’t think it prudent to bring it up.
+
+The next thing he described was the concept of a city. “Like I said earlier, farming made it so people lived in bigger groups called towns. These groups of people didn’t have to spend as much time making food, so they could focus on learning things, like learning how to create pottery and art,” Pryce said, gesturing to Fortitude. “Thanks to farming, humans began to invent more technologies, and we eventually built very large towns, which are called cities.”
+
+“How many human…in one town? How many humans in one city?” Celeste asked, her English still a little stilted.
+
+“Small towns only had a few tens of people, bigger towns had maybe a few thousand. Cities have tens of thousands, and the ones that exist today have millions of people.”
+
+«I still cannot imagine millions of these creatures; it must look like an ocean,» Devotion grumbled.
+
+“She’s not wrong,” Pryce said, suppressing a shudder. The government had decided to make him something of a public figure for his part in ending the plague, and he had been encouraged to give a few speeches to several oversized crowds. He had loathed being paraded around like a hero for his failures, but he could not deny that it had a positive effect upon the public’s interest in scientific research. “Anyway, there were many cities that lived and died over the next few thousand years, and progress was pretty slow for the most part. Sometimes things like diseases ended up killing many millions of humans, so we often ended up losing progress.”
+
+«Sounds complicated,» Fortitude noted. «Does your land also have volcanoes? I imagine those are dangerous if you cannot fly.»
+
+Pryce nodded and confirmed her suspicions. “There were two very large volcanic eruptions that killed many people, but the last one was almost a thousand years ago. Other things like earthquakes and tsunamis are also very dangerous.” He thought about mentioning meteors, but the last one in recorded history had fallen into the ocean several thousand years ago. This incident was believed to have birthed a monstrous wave of water a hundred meters tall, but that was getting off track.
+
+“Nevermind about that, here’s the important part: almost a thousand years ago, there were four groups of cities called kingdoms who were always fighting each other because they wanted what the others had.” The dragons seemed to have no problem accepting this, so he went on to say, “This all ended when one kingdom – whose people were called the English – defeated all the others, which resulted in the beginning of the English empire.”
+
+“English? That is the name of your language,” Celeste noted.
+
+“Yes, the language the English spoke became the language everyone spoke. There are still other languages, but very few people know how to speak them, and almost everyone knows how to speak English.” Pryce was privately glad they didn’t ask him to elaborate on the specifics of what ‘defeating’ entailed, though he was fairly certain they wouldn’t have much of an issue with open conflict.
+
+“Good, that means I don’t have to learn another language,” Fathom said, sighing in relief – a sentiment Pryce felt wholeheartedly.
+
+Now it was time to tell them about modern history, but first he had to explain how humans referred to the years. “Humans refer to the year that the empire was established as year 0; years that came before and after that date are referred to as ‘Before Establishment’ and ‘After Establishment’.”
+
+“That is convenient,” Fathom noted. “This way the numbers won’t change from year to year.”
+
+“Yeah, I’m amazed that you can remember all those changing numbers,” Pryce said, shaking his head.
+
+Fathom shrugged dismissively. “It’s not hard. You can just remember ‘this thing happened 100 years ago when I was hatched’, then add your age.”
+
+Well that was interesting. Pryce wondered if they would have counted the years in a more familiar fashion if they had a definitive moment to use as a baseline, but he filed that thought away when he realized the dragons waiting expectantly.
+
+Celeste tilted her head upon hearing the translation. «How many years has it been since the empire was created?»
+
+“Nine-hundred-and-fifty years ago. In other words, humans say that this year is 950 AE.” Celeste looked like she wanted to ask another question, so Pryce held up his hand to stop her. “Let me finish talking, then you can ask any other questions that you have, alright?”
+
+Celeste paused for a moment, then nodded reluctantly.
+
+“Alright, back to the kingdoms; each kingdom was controlled by one person called the king, and everyone has to do what he wants.”
+
+«Why do millions of people obey one person?» Devotion asked, again confused by the concept of human leadership. «What happens if that king is a terrible person?»
+
+“Well, that’s kind of what happened. The English empire lasted until the year 624 AE, when he angered the people so much that they killed him. This caused the empire to fall apart, and it turned into two groups of cities that we call ‘countries’, which exist in the north and south of the Mainland.”
+
+“Countries? Not kingdoms?” Celeste asked.
+
+“Yes, people were tired of being told what to do by a king, so they gave power to a group of people instead,” Pryce explained. “These groups of cities working together were called countries, and not kingdoms.”
+
+«So complicated,” Devotion snorted. «You humans sound like you care too much about what others think; you should just do whatever you want.»
+
+“If we did, then nothing would work,” Pryce said, scratching his head as he wondered how to explain this. “We would be here for many days if I tried to explain how cities work, so you’ll have to trust me that there are reasons why these things happen.”
+
+“Can you teach me later?” Celeste asked earnestly.
+
+“Maybe?” Pryce said, hoping the subject wouldn’t be too boring for her. “I could try, but it would have to wait until the three of you can speak English as well as your father can.” Seeing Celeste nod, he continued his history lesson. “Back to the countries; the northern one was called Aquilo, while the southern one was called Auster. These two countries were at peace for a few years, but the lands in the north were cold, so the people who lived there weren’t able to grow as much food as the ones who lived in the south. This was the heart of the conflict that started a Great War in 890 AE, which lasted for eight long years.”
+
+Fathom cocked his head. “Ah, right, humans only have one heart. Does ‘heart of the conflict’ mean the main thing that caused the conflict?”
+
+“Yeah, sorry, it’s hard not to use expressions,” Pryce said apologetically, and resisted the urge to ask if dragons had an equivalent expression.
+
+«How can a fight last eight years?» Devotion asked, baffled by the idea. «What did the ‘Great War’ look like?»
+
+“It lasted so long because war is complicated – too complicated to explain easily – but war is basically hundreds of thousands of humans fighting against another group of hundreds of thousands humans,” Pryce said. This was a rather inaccurate image, but it was the most practical explanation he could offer at the moment. “And I can’t say I know what it looked like, because it ended in the year 898, and I was born in the year 900, so I’ve never seen war myself.”
+
+“...Who won?” Celeste prompted after a moment’s silence.
+
+“Ah. No one.” He had almost forgotten to mention that. “The end of the war began in 897, when an earthquake caused a tidal wave that killed a lot of people; including the leaders of the human soldiers.” Technically only the southern general had died as a result of the natural disaster. His northern counterpart had been a staunch supporter of the war, and had been killed amidst the chaos and confusion. No culprit had ever been found, but it was a popular theory that he had been killed by one or more of his own men.
+
+“The war ended because the leaders died?” Fathom asked.
+
+“Yes, a lot of soldiers were tired of the war by then, and they wanted to go home to help their families who were hurt or killed by the disaster. It was unsteady at first, but the two countries began to help each other, and a few years later they eventually combined to become one big country we call the Mainland.” The merging was a long and complicated process, but that was the long and short of it. To be more specific, the two countries had officially become provinces, and had retained their former names, but that was getting into more detail than he needed to convey.
+
+«Is that it? Did anything else important happen in the next 52 years?» Fortitude inquired.
+
+“A lot happened, but those were mostly discoveries and inventions. With no war going on, it was a lot easier for people to focus on other things.”
+
+“Discoveries?” Celeste asked, butting in.
+
+“Later,” Pryce smiled. He was starting to wish there were several of him so they could take turns explaining everything. “One of the most important things I wanted to talk about are the beliefs of humans. Do dragons have any stories about how the world was made?”
+
+Devotion shook her head. «I have heard many, but no one knows-»
+
+«I have one!» Fortitude interrupted, looking quite excited. «I think volcanoes are proof that inside the world is a vast amount of liquid rock, which leaks into the ocean to make islands. Am I right?»
+
+“She said she thinks volcanoes are proof that the inside of the world is liquid rock,” Fathom said, sounding doubtful but curious to hear what Pryce would say.
+
+Devotion snorted. «I told you before that makes no sense-»
+
+“That’s pretty close, actually,” Pryce said. “We’re pretty sure the inside of the earth is made of liquid rock, though we recently discovered that the very center of the Earth is solid, not liquid.” Jane Callan had been the geologist who had developed this theory, which elegantly explained the strange ‘echoes’ of minor quakes that modern seismographs had detected.
+
+…she had also been a fellow crewmember, as well as one of the four who had certainly drowned in the ocean.
+
+«Why is it solid? Is it not hot?» Fortitude asked, snapping Pryce out of his thoughts.
+
+Pryce suppressed a sigh, and smiled at Fortitude. “Things can be solids if they’re exposed to enough pressure, even if it’s normally hot enough to be a liquid. The same can be done in reverse; in fact, I can show you how water can turn into a gas if you lower the pressure.”
+
+“Like when you make medicine, you make liquid water become solid?” Celeste asked. It took Pryce a moment to puzzle out her meaning, but it seemed she was confused how he turned the liquid solution into a powder.
+
+“Good question, and you’re almost right. That tool I used lowers the pressure by taking the air out, so the water becomes a gas and leaves behind the things that aren’t water.”
+
+Celeste tilted her head and eventually nodded, satisfied by the explanation. «Why did you ask about ‘stories about how the world was made’? Do humans have these?» she asked her father.
+
+“That’s right,” Pryce nodded. “Humans have always been asking questions that we could never answer. How the world was created? What happens after death? What is the purpose in life? Those are the kinds of questions humans asked a long time ago, and someone created stories that answered these questions; even if they had no proof.”
+
+«But…why?» Devotion asked, blinking in confusion. «Is there a need to know those answers? Those questions either have obvious answers or just cannot be answered.»
+
+“They’re obvious? What are they, then?” Pryce asked, amused. He felt like he had a pretty good idea of what answers they would give.
+
+«We do not know how the world was created, but knowing would not change anything. What happens after death is what happens before one is hatched, the purpose of life is to live,» Fortitude said succinctly, and the others seemed to have no issue with these answers.
+
+“I guess humans are just different,” Pryce shrugged. “Most people wouldn’t be satisfied with those answers – wait, was that part about the egg literal?” he asked Fathom.
+
+“What do you mean?”
+
+“Is she saying that dead dragons become new eggs?” Pryce asked.
+
+“Of course not,” Fathom snorted, looking at him in an odd way. “She is saying that after death there is nothing, just like how there is nothing before someone becomes an egg. I told you this before; dragon lives are like flames.”
+
+“Okay, I just wanted to make sure she wasn’t saying something new.”
+
+Fathom paused, then said, “Wait, what you said doesn’t make any sense; how would a dead dragon become an egg? Is that something else humans believe in?” he asked ludicrously.
+
+“...yes?” Pryce said, knowing how bizarre the concept of reincarnation sounded to someone unfamiliar with the concept.
+
+“That doesn’t make any sense at all, your population grows; where would the new people even come from?”
+
+“I never said I believed in it,” Pryce said defensively.
+
+“How many people believe in this?” Fathom asked, eyes narrowed dubiously.
+
+“It’s called reincarnation, and maybe…20 percent?”
+
+“Ten million. Ten million humans believe in this.”
+
+“Yeah, okay, I get that it sounds ridiculous, but there’s a good reason why people want to believe in this-” Fathom snorted, skeptical of this. “-people really don’t like dying, so it’s nice to think that you might get another chance to live after death, another life to fix mistakes.”
+
+«What is he saying?» Fortitude asked plaintively, and Fathom’s translation resulted in many similar sentiments – much to Pryce’s consternation.
+
+«Maybe it is because they live such short lives,» Fortitude mused once most of her incredulity had passed.
+
+«I feel a little bad for them,» Devotion admitted while Celeste glanced at him with a sympathetic air.
+
+“Might as well explain everything,” Pryce sighed, feeling slightly nettled by their pity. “Old stories that explain the world are called religions, and there are two big ones: Unaism and Rotaism. The first has one god, while the second has two gods.”
+
+“You haven’t explained gods to them yet,” Fathom reminded.
+
+“Oh, right.” Pryce paused for several seconds as he glanced at his notes. He hadn’t done a very good job conveying the concept to Fathom all those days ago. He would have preferred to skip this subject, but it was better to get it over with now than to explain it later at an inconvenient moment. “People think gods are the ones who created the world. There are old stories of people seeing or talking to gods, but none of them have any real proof that gods exist.”
+
+«Then why do humans think they exist at all?» Devotion asked.
+
+«It is easier if you stop asking those kinds of questions; humans are just weird,» Fathom muttered.
+
+Pryce ignored them. “Like I said earlier, the two biggest religions are Unaism and Rotaism. Unaism is the belief that there is only one god named Una, and she created-”
+
+“She?” Fathom interrupted.
+
+“Una is supposed to be female, since she’s the mother-creator of all things,” Pryce explained. “Now as I was saying, Unaism focuses on the ‘oneness’ of things, as it states that Una created one sun, one earth, and one island for one people – humans – to live upon.”
+
+“What about our island? Or the bigger one to the west?” Fathom asked.
+
+“Humans only learned about them eight years ago, so Unaism never mentioned any. A few people weren’t happy about the satellite imagery since it contradicted their god, while others just believed that Una might have created other lands after making ours.”
+
+«It sounds interesting, even if it makes no sense,» Fortitude noted. «I would not mind listening to the entire story one day.»
+
+“We could do that later,” Pryce said. It wasn’t a very endearing prospect, but he wouldn’t object to it if they had the time. “But in short, Unaism tells its believers to treat others like you would treat yourself, and to take care of what you have.”
+
+“How many people believe in this?” Fathom asked.
+
+“A hundred years ago it was probably close to 50%, but now it’s closer to 20%, I think.”
+
+“That is a lot of humans. Do people who believe in Unaism not fight each other? Even in wars?”
+
+“Well…if they obeyed its teachings, then yes, but it’s like your rules; sometimes people don’t follow them.”
+
+Fathom gave an unimpressed huff before turning to translate for the others.
+
+«It sounds annoying, having something to tell you how to act,» Devotion snorted. «Why does each person not just decide for themselves?»
+
+“Again, that’s complicated,” Pryce shrugged. “I think that’s as much as I can say about Unaism, so let’s move onto Rotaism, which is a bit more complicated.”
+
+“Great,” Fathom muttered.
+
+“Rotaism says that the universe began with the birth of two gods, one male and one female. These two gods worked together to create the stars, the sun, and the earth. However, when the time came for them to create life, they began to argue. Linea, the god who was born first, argued that they should not make intelligent creatures, while Rota, the god who was born second, argued for the opposite. In the end, they agreed to create one intelligent animal – humans – to see what would happen.” Pryce stopped, and took a much-needed breath. “Linea and Rota were also believed to take turns watching humanity as the sun and moon, but people stopped believing in that as our science progressed.” Modern-day adherents considered it a metaphorical representation rather than a literal one.
+
+Celeste rumbled, contemplative. «If gods can be things like the sun and moon…I think I understand them a little better. Humans use gods to explain things they do not understand.»
+
+«Humans seem quite…imaginative,» Fortitude said, sounding vaguely like she might be trying to be polite.
+
+«It seems this ‘god’ forgot to mention us dragons,» Devotion said drily.
+
+“Like I said before, these stories were made thousands of years before any human met a dragon,” Pryce said apologetically; it was somewhat mortifying to tell another species about how humans made themselves the ‘chosen people’ of god or gods. “One thing I should mention is that Rota and Linea are supposed to have created other islands for humanity to find, so it’s gotten more popular in the last eight years. Right now I’d say about 25% of the population believes in it.”
+
+“Can you elaborate on what these gods are like?” Fathom asked. “It sounds more interesting to have two gods than one god.”
+
+“Sure,” Pryce said. “Rota and Linea are two opposites; Rota creates life, and Linea creates death. Without death there is no life, and vice versa. It is believed that Rota wishes for humans to learn and grow, and for us to explore the world that he made for us, while Linea tests us with pain and suffering.”
+
+“Was Rota the female god?” Fathom asked, and Pryce nodded. “It is…ironic. Rota wanted humans to learn more things, but when they learned what the moon was, they stopped believing it was her.”
+
+“I never thought about it like that, but…yeah, I guess so.”
+
+«Wait, what about what happens after death?» Celeste asked.
+
+“Ah. Sorry, I almost forgot to talk about that. Unaism says good people go to a place called heaven after death, and bad people go to hell after death. Heaven is a good place because there are good people, and hell is a bad place because there are bad people,” he explained. “Rotaism says that people who die get reincarnated, and are born as something else.”
+
+All the dragons blinked, bemused by these concepts.
+
+«I…am not sure which questions I should be asking,» Celeste said, a look of consternation in her eyes.
+
+«Maybe it is better if we learn about this later,» Fathom said, which was the first time Pryce had ever heard him say anything of the sort.
+
+«I feel like I do not understand,» Devotion said, flicking her spines once Fathom translated for her. «These stories are all very bizarre. Would it not have been a better use of time for us to learn your speech?»
+
+“It’s important because these stories are very important to humans, and these beliefs tell them how to live their lives. I just wanted to teach you about the basics so you won’t be surprised when someone mentions religion, and to ask you not to be insulting,” Pryce said, though he had his doubts as to whether or not this plea would be heeded. “Fortitude and Celeste seemed interested in this, so I thought I would teach about it first. We can spend the rest of the day improving your English, unless you’d like to stop for today,” he offered.
+
+«Yes, thank you for fulfilling my request – even if this was not what I expected,» Fortitude said. “And I want…learn English,” she said, flattening her spines when she couldn’t finish her sentence without using Draconic. «But I am hungry; we can start with those lessons after I go hunting.»
+
+Pryce was about to ask how she could go hunting, but then he closed his mouth, feeling a little stupid – of course she could hunt, she still had four working limbs, after all. Five if he counted the tail.
+
+“Alright, we’ll get started once you all get something to eat.”
+
+[JOURNAL ENTRY]
+
+Day 88,
+
+I’m not sure if I did a good job summarizing human history, but it can’t be helped. Hopefully that won’t cause any problems later.
+
+I find it interesting how dragons don’t even seem to consider the possibility of a higher power. It seems to be a fundamental difference in their mentality – they seem to be perfectly content without a ‘why’, and instead focus on the ‘how’, but it doesn’t seem to make sense considering how curious they are.
+
+One additional factor I should take into account: humans live in large groups.
+
+Studies in pack-forming animals show that there tends to be a maximum size to groups, which when exceeded cause it to break apart into two separate factions. Humans are something of an exemption to this rule, and it is speculated that religions and ideologies were the factors that allowed humans to live in groups of thousands rather than mere hundreds. The supposed reason for this is that faith allowed many humans to work together, whereas common interests limited to material goals only lasted so long.
+
+This has another benefit; a stranger could – in only a few words – communicate to another that they share the same values and beliefs, establishing trust and the possibility of future cooperation.
+
+And as far as I know, dragons never needed to do anything like this.
+
+This supports my hypothesis, but a sample size of two isn’t exactly enough for a theory. I’ve got no way to test it, so it’s something to think about later.
+
+We’ll be focusing on teaching the three of them English for the next few days. Hopefully nothing too crazy happens.

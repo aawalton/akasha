@@ -1,0 +1,145 @@
+[Day 71]
+
+“This is…a lot of things,” Fathom said, peering into the cargo hold curiously. Pryce had cleared up a good portion of the hold to make a workspace so that Fathom could see what he was doing, though he was careful not to place anything too irreplaceable within reach of the dragon’s muzzle. “Very complicated.”
+
+“Yes, these are all things I need to make penicillin,” Pryce said, hauling the last jug of mold broth into the hold.
+
+“How do you take the antibiotic out from the mold broth?” Fathom asked, the past week having made his English very nearly fluent.
+
+“This is really complicated,” Pryce warned.
+
+“Really?” Fathom echoed, questioning.
+
+“Oh, that means something like ‘very much’, but it can also mean doing something that is true, like how I cannot ‘really’ do science if I do not have equipment like this,” Pryce explained with some difficulty. He was introducing Fathom to more casual language, but that was also more difficult to teach as its rules were much looser than formal language.
+
+“You are saying you cannot really do science without equipment, because science without equipment is like false science?” Fathom asked.
+
+“Yeah, that’s right,” Pryce said with a nod. “I can explain what I’m doing here, but I can’t teach you everything yet,” he forewarned.
+
+“I think I can understand this if you explain it,” Fathom rumbled confidently, clearly doubtful that there was that much beyond his comprehension at this point.
+
+Pryce smirked as he gestured at the apparatus he had set up. “Mold-broth goes here, and it mixes with something called phosphoric acid, that drips down onto the amyl acetate, the stuff that goes over the edge is penicillin-rich solution, then that gets mixed with an alkali buffer - specifically ammonia and ammonium chloride. The stuff that goes on the bottom is concentrated penicillin-rich solution, which I will pour over activated carbon which will clean the solution, and then I filter that to get a liquid that has a lot of penicillin.”[1]
+
+“That is…a lot of new words,” Fathom said delicately.
+
+“I can try to teach you about this, if you want,” Pryce offered.
+
+The dragon snorted in mock exasperation at this. “You will do that anyway, even if I don’t want to learn.”
+
+“Yes, but you do, don't you?” Pryce asked with a knowing smile.
+
+“...Just tell me what phos-phoric acid does,” Fathom grumbled in defeat, resting his head on the floor in preparation for a long explanation.
+
+“What is that?” Fathom asked, bringing his head up so quickly that his horns clanked against the ceiling.
+
+“This is mercury, it’s a metal that’s a liquid at room temperature,” Pryce said, swirling the dense metal around the glass jar. “I would let you play with this, but it’s actually poisonous.”
+
+“Metal can be poisonous? Do humans eat metal?” Fathom asked, confused by both the liquid metal and the warning.
+
+“No, it’s poisonous to breathe and touch,” Pryce said, checking to make sure his PPE was all still on and secure. “If you breathe or touch too much mercury, you will become insane and die slowly and painfully.”
+
+“Then why do you have this?” Fathom asked in alarm, pulling his head back a little.
+
+“It’s useful. This glass thing is called a Sprengel pump, it can take the air out of a container.” The pump was an elegant device made purely of glass and rubber fittings. With it, he could easily suck the air out of a glass vessel just by pouring mercury into the reservoir at the top, which siphoned mercury through a narrow U-shaped tube that branched off to connect to the glass vessel. The drops of falling mercury would trap air between them, slowly but steadily pulling air out of the tube and container. This process could create pressures as low as one one-hundred-millionth of an atmosphere inside the glass vessel – very nearly a vacuum.
+
+The device was primarily used to create vacuum tubes and lightbulbs, but Pryce used it to lower the pressure so much that any liquids in the solution would vaporize, leaving behind relatively pure penicillin powder.
+
+“Air pressure is like the weight of air, it is high near the ground and low if you fly up,” Pryce said.
+
+“Yes, I can feel air pressure change if I fly very high up,” Fathom said, nodding in understanding. “But why do you want to take out air?”
+
+“If air pressure is low, liquids like water will become gas more easily. Remember how the soup had bubbles? That’s because the soup is boiling, which means the soup is becoming a gas. For water to boil, it needs to be at 100 degrees Centragrade. If you try to make it hotter, it will boil faster, but not get hotter. It’s easier to show you,” Pryce said, seeing that Fathom looked a bit confused.
+
+“You can see water in here, right? I’ll take the air out of this glass container, and it will start boiling.” He set up the Sprengel pump, then occupied himself with other tasks while the pump worked. Almost half an hour later, Fathom watched with wide eyes as the water inside the beaker began to bubble.
+
+“See?” Pryce said, touching the glass. “Water is boiling without being hot. If we wait longer, the water will all go away.”
+
+“Yes, this is very interesting,” Fathom said, eyes still glued to the water that seemed to be bubbling by itself. “Some animals fly very high up, but they do not boil, do you know why?”
+
+“Good question, we use ‘pascals’ as units of pressure, but it’s easier to understand if we use ‘atmospheres’ as a unit. This means one atmosphere is the pressure you’re feeling right now. The room temperature right now is around 20 degrees Centragrade, and for water to boil at 20 degrees the air pressure has to be around 0.01 atmospheres. That means there has to be 100 times less air than normal. Even if some animal can fly 10 kilometers up[2] – which I don’t think they can – the air pressure would be around 0.25 or 0.3 atmospheres, which is much higher than 0.01.”
+
+“What is a Pascal? How high do you have to be for water to boil like this?” Fathom asked, pointing at the bubbling beaker with his snout.
+
+“A pascal is a unit of pressure using other units, and it means one newton over a square meter. You remember newtons, right?”
+
+“Yes, of course,” Fathom snorted. “One newton is kilogram times meter per second squared.”
+
+“Good, a pascal is the force of one newton over a square meter, and a kilopascal is one thousand pascals. One atmosphere of pressure has 202 kilopascals[3],” Pryce explained. “And I’m not sure about how high you have to be for water to boil at room temperature, but it’s at least 20 kilometers. You don’t need to know these yet, I can explain more later,” Pryce reassured after Fathom spent a few minutes silently considering these numbers.
+
+“I think I understand a little, but if there is so much pressure, why are things not…?” Fathom asked, trailing off as he pulled his head back to pantomime crushing something between his claws.
+
+“Why are things not crushed? That’s a good question. Take this piece of paper,” Pryce said, ripping out a sheet from his notebook, which Fathom delicately pinched between the tips of his talons. “Now crush it with two hands, like this,” Pryce said, placing the sheet between his palms as if he were praying.
+
+“But I can’t crush this,” Fathom objected without even trying.
+
+“Yes, but why?” Pryce asked invitingly.
+
+“Because I am pushing on both sides-” Fathom said, then paused in realization. “Things are not crushed because air is on both sides?”
+
+“Yep,” Pryce said, smiling as he collected the mercury that had dripped out into the collection jar. “Do you want to look at the mercury up close?” He asked before he poured it back into the reservoir. “I promise it’s safe,” he added upon seeing Fathom hesitantly pull his head back, his sense of curiosity clearly at war with his sense of danger.
+
+The dragon nodded a second later, and Pryce poured a little of the mercury into a small container before clamping it shut. He held the jar up to Fathom and shook it lightly so that the dragon could see the beads of liquid metal splitting apart and merging together. The dragon was deeply captivated by the unnatural sight, and Pryce was a little sorry that he couldn’t give some away without it being a health risk.
+
+Eventually he had to go back to work, much to Fathom’s visible disappointment.
+
+[JOURNAL ENTRY]
+
+Day 71,
+
+I’ve begun the process of extracting and concentrating penicillin today, and explained the process as well as I could to Fathom, who watched as I worked. Using the Sprengel pump I was able to dehydrate the filtered and concentrated penicillin to get 10.31 grams of familiar brownish powder, which I washed with an ether to further purify it. I don’t have the equipment to test the purity, but it resembles what I created back home and the pH is neutral, so the bases and acids have either been neutralized or washed away. I’m reasonably confident this is safe to use, and I’ve stored what I created in a waterproof test tube inside of a waterproof metal flask, which I submerged under a rock in the cave river.
+
+I obtained a yield of 1.02 grams per liter of broth, which is lower than I hoped but expected given the suboptimal equipment I have.
+
+Fathom did some more gliding; he’s gotten a lot more adept at it with practice and recovery, and can land gently almost every time now. He didn’t exert himself for very long today, probably so that he doesn’t strain himself too much before tomorrow’s flight.
+
+[JOURNAL ENTRY]
+
+Day 72,
+
+Fathom tried to take off from the ground today, but again he failed to gain much elevation before switching into a glide out of exhaustion. It seems that taking off is indeed much harder than flying or gliding, but he did manage it, at least for a short time. Fathom insisted on trying one more time after a short break, which I reluctantly allowed. He did do better that time, though not by very much.
+
+Just to be safe, I suggested that he hold onto the ground and flap his wings as hard as he could, but he shot that down quickly by informing me that he could not use his full range of motion on the ground, as his wings would hit the stone beneath him.
+
+More interestingly, Fathom told me that dragons used all of their limbs to fly, and that flexing the muscles in the legs and arms helps power the wings. It certainly sounds efficient, as it makes what would otherwise be ‘dead weight’ not so. The structure of their muscles and tendons must be very interesting, it’s a shame there’s no way for me to inspect them without causing injury.
+
+I was able to process a lot more of the mold-broth today now that I’ve set up all the required equipment and chemicals, allowing me to produce 50.73 grams of penicillin. I’ve begun growing new batches in the old containers, of course.
+
+[JOURNAL ENTRY]
+
+Day 73,
+
+Fathom gained more elevation than he was able to yesterday, though he still held himself back as he promised he would. His wing bone seems to have regained enough strength that it doesn’t hinder his flight – an amazingly fast recovery time. Aerial maneuvers would be another story, of course, but regardless I think it should be completely healed in another two or three weeks.
+
+He’s been spending more time sleeping with how much exercise he’s been doing, but that’s hardly surprising. I’ve been trying to practice Draconic in my mind, but that is much easier said than done.
+
+Used up the rest of the first batch of mold-broth to produce 33.84 grams of penicillin, now I wait for the second batch to ferment.
+
+[Day 74]
+
+“Aren’t you going to exercise?” Pryce asked Fathom, who had been sunning himself for several hours now.
+
+“Tomorrow,” Fathom said shortly.
+
+“Why? Did you hurt yourself yesterday?” Pryce asked, a little concerned. The dragon usually didn’t need any encouragement to exert himself, at least when it came to flying.
+
+“No, I am resting today because I want to fly tomorrow,” Fathom clarified, turning his head to frown at Pryce.
+
+“Oh okay,” Pryce said, relieved. “But haven’t you already been flying?”
+
+“That’s not really flying,” the dragon said as he rolled his eyes – a gesture he had only recently picked up. “Tomorrow I will really fly,” he said, with particular emphasis on the adverb.
+
+“Well…that’s okay, I guess, but you’re not going to fly like you’re in a fight, right?” Pryce asked sternly.
+
+“I said I will fly, not fly like I’m in a fight,” Fathom grumbled shortly, turning his head back around to nap.
+
+Pryce raised an eyebrow at this uncharacteristically ill-tempered behavior. He was about to say something when he noticed that Fathom’s tail was lashing…anxiously? There wasn’t anything he could say without falsely raising Fathom’s hopes, so he held his tongue and turned to write today’s journal entry.
+
+[JOURNAL ENTRY]
+
+Day 74,
+
+Fathom plans to test himself tomorrow, and I think his wing has healed well enough to allow it. He’s already proven he can take off (a little), which is the most strenuous part of flying, so I don’t think a little more exertion would hurt.
+
+He hasn’t been reckless at all either, so I think he can be trusted to judge his own limits at this point.
+
+Fathom was a little cranky today; I’m pretty sure he’s nervous…I don’t blame him. He’s been injured for a long time, and tomorrow he will find out if he can truly fly again.
