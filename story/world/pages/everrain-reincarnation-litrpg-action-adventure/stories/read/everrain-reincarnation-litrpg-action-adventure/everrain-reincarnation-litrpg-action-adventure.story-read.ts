@@ -1,0 +1,46 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const everrainReincarnationLitrpgActionAdventure = {
+  id: "01a16939-b546-75f7-917c-fe4f7b90c4ec",
+  type: "page-type/story-read",
+  slug: "everrain-reincarnation-litrpg-action-adventure",
+  author: "Optimystic",
+  following: false,
+  unit: "unit/words",
+  title: "Everrain Reincarnation [LitRPG, action, adventure]",
+  world: "world/everrain-reincarnation-litrpg-action-adventure",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "102425",
+      externalLink:
+        "https://www.royalroad.com/fiction/102425/everrain-reincarnation-litrpg-action-adventure",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Portal Fantasy / Isekai",
+    "Time Loop",
+    "Progression",
+    "Martial Arts",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Mystery",
+    "Dungeon Crawler",
+    "Grimdark",
+    "High Fantasy",
+    "Magic",
+    "Male Lead",
+    "Reincarnation",
+    "Secret Identity",
+    "Strong Lead",
+    "Supernatural",
+    "Time Travel",
+  ],
+  publicationStatus: "completed",
+  readLater: true,
+  createdAt: "2026-10-23T14:45:52.070Z",
+  updatedAt: "2026-10-23T14:45:52.070Z",
+} as const satisfies StoryRead
