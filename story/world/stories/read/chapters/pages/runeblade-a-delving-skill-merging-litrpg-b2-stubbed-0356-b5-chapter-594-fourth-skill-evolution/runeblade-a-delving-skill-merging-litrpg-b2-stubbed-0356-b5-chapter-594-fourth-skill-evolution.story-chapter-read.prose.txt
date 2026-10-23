@@ -1,0 +1,257 @@
+Leaning against the base of a tree, Kaius felt his early exhaustion  flee away from him. How could he feel tired when he had a Skill evolution waiting?
+
+It was an important one: Mystic’s Rend. The Skill was one of the best ways he had to utilise his free mana that regenerated over the course of a fight. More than that, it filled a vital role in his bladework. The concussive blasts it left were brilliant for leaving wounds on softer targets, and the Arcane Blight affliction was incredibly useful for wearing down the defenses of tougher foes.
+
+The Skill was already heroic, so there was a decent chance that he could be offered to keep the skill as it was — albeit with an increase in power and ability for reaching the second tier. Regardless, whatever he was offered would be hard pressed to match what he already had.
+
+There were a couple of things he really needed from the skill. He didn’t really want it to be some overwhelmingly powerful finisher attack — he already had VOS for that, and more importantly Kenva and Ianmus were far better suited for those sorts of abilities, considering they had far more opportunity to prepare them from the backline.
+
+Kaius scratched his chin, mulling it over. He was only half aware of his team scattered nearby, each of them similarly lost in thought.
+
+He needed something that was not too expensive, so that he could use it reliably, that was focused on consistent, single-target damage. That would be perfect. Of course, if it could help with armour too, that was even better — but Mercurial Reversal also did a fantastic job of punching through his enemies defenses, so it wouldn’t be the end of the world if his options lacked that.
+
+He longed to dive right in, but Kaius knew that it was important to discuss with his team. They all had important choices to make: Ianmus was upgrading his healing Skill, Kenva her Rangers Potency, which was her primary self-enhancement Skill, and Porkchop was upgrading his Warden’s Maw, his bite Skill — one of his two that were direct damage skills.
+
+If anything, his teammates' evolutions would be even more important than his own. Kenva and Ianmus both had Heroic classes now, and Ianmus had switched the focus of his spellcasting to Keyseals. Even Porkchop had shifted the focus of his Class to that of a vanguard, rather than being a bastion.
+
+He focused on his friends. Ianmus was still flat on his back, laying on the ground beside Porkchop, while Kenva had gotten back to her feet. She paced back and forth, her eyes glazed over as she scanned her status.
+
+“What are we all aiming for?” Kaius asked. “I figure it best if we’re all on the same page — never know if something will change how we need to fight.”
+
+Porkchop let out a full-throated chuckle as he lifted his head from his paws. “A strong bite skill — nothing fancy.”
+
+That wasn’t much of a surprise. While Porkchop was by no means a simple fighter, the role of his Maw was: ripping chunks out of any enemy that was enough of a fool to get too close.
+
+“Spoken like a true barbarian,” Ianmus said with a chuckle. The mage pushed himself up from where he had been laying flat on the ground.. “Though, I must admit that my choice is just as simple. A dedicated healing keyseal. It’ll be far too useful to pass up, and this is my best chance to get one. It’s almost too useful — It’s still a bit out of my reach to maintain three of the things under fire, and a healing seal would be a certain pick ninety percent of the time.”
+
+“Think you’ll be able to do it before the end of the tier?” Kenva asked him.
+
+“Oh, yes, definitely," Ianmus replied. “Maybe by Gold? A little earlier, even? It seems to be largely reliant on my Willpower, though my Intelligence definitely helps as well. I suspect it would be easier if my Skills were lower rarity.”
+
+Kaius nodded at the mages explanation — that was more than workable. Hopefully his friend’s capabilities would continue to develop at the same pace, but Kaius suspected that working up to four keyseals would take some time. Every branch of magic had its benefits and drawbacks, and keyseals definitely won on the drawn out staying power front — but holding so much active magic must be exhausting on the man’s Will.
+
+“What about you, Kaius?” Porkchop asked, stretching out on the grass.
+
+He shrugged. “Mostly looking for a cost effective way to utilise free mana — I doubt there will be any drastic pivots, considering that my first and second tier classes are directly linked to the same Order.”
+
+“I think I might see more drastic changes,” Kenva replied. “Ranger’s Potency is…basic. It’s a physical enhancement, but it most affects how fast I can draw. I can see the evolution going both ways — either some sort of enhancement to my archery, or a general body boost.”
+
+“Hoping for the first?” Kaius asked.
+
+Kenva was already a devastatingly lethal ranger, and he could see a bad thing in her having even more options.
+
+Kenva’s brow furrowed, frowning in thought. “I’m not too sure, really. I’m going to have to wait and see what the options will be. Obviously, more combat flexibility is good, but I'm really starting to see the value of a more broad base. I don’t want to get too specialised — not with the sort of monsters we face.”
+
+That…was probably wise. Kaius could admit that he often took for granted how flexible his own build was — and Kenva had taken a few nasty hits in their more recent fights. Something that would let her either avoid or survive those would be more than beneficial.
+
+“Okay, conversation’s done. Can we check our skills now?” Porkchop said, his ears flicking impatiently.
+
+Kaius laughed. “Go on.”
+
+He didn’t hold himself back from his own temptation, pulling up his waiting selection.
+
+**Ding! Class Skill available for Selection!**
+
+Mystic’s Rend:
+
+Class Skill - Tier II
+
+Affinity: Arcane, Martial
+
+Type: Spellsword, Armament Technique, Slash
+
+Selection Available!
+
+Heroic
+
+The mystic is quiet, but they are not meek. Those that would attempt to cavort with the forbidden, or grasp what should be left fallow and forgotten, will quickly find themselves sundered by threads of the Arcane, woven into a volatile edge. Ruination upon those that forgo the wisdom of their betters.
+
+Tier I:
+
+This skill allows the user to weave a gossamer-thin edge of purified mana along their weapon. This edge will detonate outwards shortly after cutting a target—a small shaped explosion that will inflict ruin upon their enemies and leave the user untouched. Inherently destructive and unstable, contact with the skill leaves Arcane Blight in its wake. This affliction causes everything it touches to degrade—slightly aiding in piercing defenses and corroding flesh.
+
+Once formed, the arcane edge of Mystic’s Rend will last for fifteen seconds before fading. The skill may be dismissed earlier at will, though it will linger for some time as it safely dissipates.
+
+Causes affliction: Arcane Blight
+
+Cost: 60 mana
+
+Tier II:
+
+Upon reaching the second tier, the Skill’s edge of refined arcane stabilises, honing the user’s blade for an extended period of time. This effect scales moderately. Anything cut by the edge of Mystic’s Rend is subject to Arcane Blight. At will, the user may detonate this arcane edge for a powerful shaped explosion.
+
+Scaling of Arcane Blight is improved from moderate to reasonable.
+
+Cost: Increased to 600 mana
+
+Each level significantly increases the size and force of the shaped detonation.
+
+Each level reasonably  increases the corrosive and armour-penetrating effects of Arcane Blight.
+
+Each level moderately increases the destructive power of the arcane edge.
+
+Each level slightly increases the length of time the skill persists.
+
+Every 50 levels the stability and efficiency of the skill grows, allowing an additional slash.
+
+….
+
+Dissolution Edge:
+
+Class Skill - Tier II
+
+Affinity: Arcane, Martial
+
+Type: Spellsword, Armament Technique, Weapon Enhancement
+
+Selection Available!
+
+Heroic
+
+Steel begets the flame of the wise, which begets ruin in turn. These flames are capricious; they need a tight leash to be bound to the path of war. We start with embers, for a pyre cares not for the flesh it reaves. But never fear its cutting shards! Grant those glittering fractures power over your mind, and you will struggle to stoke the inferno, and revel in its fury.
+
+Tier I:
+
+This skill floods the user’s blade with arcane mana, summoning a flame of ever-fracturing shards. Caustic and destructive, this flame eats away at everything it touches; a hungry ruin that tears through armour and flesh alike.
+
+Cost: 100 mana/second
+
+Tier II:
+
+The flames of arcane dissolution can now be stoked higher at will,  drastically increasing their size and potency, and their maximum cost of mana per second.
+
+Cost: 100-1000 mana/second
+
+Each level significantly increases potency of the arcane flames.
+
+Each level significantly increases corrosive and armour penetrating capabilities of the flames.
+
+Kaius leaned back into the treetrunk behind him, smiling at his options in satisfaction.
+
+As he’d suspected, an unchanged Mystic Rend was indeed an option. It was even a compelling one. With its ascension to the second tier, he would no longer have to rely on the explosive arcane detonation for the skills extra damage. Instead, it seemed like the magical edge of his blade would make every attack with his sword more lethal — plus, he didn’t lose the detonation either, and the affliction was strengthened.
+
+On the other hand, the cost went up. Rather significantly. That was not ideal, not in the slightest. Even with his rather high mana regeneration it would take him more than three and a half minutes to recover enough energy to use the skill once. That was a lifetime in battle. Sure, the timeframe would shrink as he continued to grow through the tier — but was it worth it?
+
+The other option, Dissolution Edge, had its own drawbacks too  — though it seemed plenty potent. It seemed far more focused on direct damage than Mystic’s Rend, though it lacked the utility of Arcane Blight and was missing the explosive detonation.
+
+And yet… it seemed plenty powerful. The scaling on it was potent, and it directly stated that the arcane flames would still have anti-armour properties. Most importantly, its cost was scalable. That made it attractive. If he had plenty of free mana available, he could ramp it up high, or tone it down if he had little to spare and just needed a bit of an edge.
+
+“Everyone done?” Ianmus said, interrupting his thoughts. “I got my healing skill — the Keyseal of the Weeping Saint — but I thought I’d run over the spell choices, since it’ll impact all of us.”
+
+“Yep,” Kaius replied, as Kenva and Porkchop blinked away their notifications. “What have you got for us?”
+
+“Well, there’s plenty of options — but I thought I'd stick to the essentials for now. Cover our bases evenly. I wanted to pick a ranged health restoration spell, and a potent wound rejuvenating one — there’s options for both in each tier. I was leaning towards picking Revitalising Droplet for the first tier, and Dolmor’s Triage for the second.”
+
+“What do they do?” Porkchop asked, shifting to look at the mage.
+
+“Revitalising Droplet is pretty basic — pick a target within a few hundred strides, and a solar droplet falls on them from above, restoring health. It’s cheap, quick, has good range, and doesn’t require me to actually hit you with a beam, so obstructions don't matter.”
+
+“And Triage?” Kaius asked. The Droplet spell did sound good, but he’d caught the way the mage shuffled a little as he’d mentioned the second tier spell.
+
+“It’s strong, but it has limitations. It will create a healing circle on the ground which will rapidly rejuvenate injuries and work to stabilise any one within. But it’s anyone, and the location of the spell is fixed. From the description, it could well save our life at some point, but I can't really just drop it on you and Porkchop in the middle of a battle — it’ll just heal our enemies too.”
+
+That was tricky.
+
+“I say take it. We already talked about this — Kaius and I have strong self-healing skills anyway, and those will only continue to get stronger as we grow. You and Kenva on the other hand, are far more fragile. The spell healing anything matters far less for the two of you.”
+
+“He has a point,” Kenva agreed. “Besides, think about how useful this Skill would have been during the siege of Deadacre? It’s going to be invaluable in any situation where we are fortifying a position, or defending a settlement — especially since it’s a damn keyseal and you could keep pumping them out every so often without worrying about running out of mana.”
+
+Kaius agreed with both his teammates' points — the spell sounded too useful, even with the drawbacks.
+
+“What about you, Kenva?”
+
+The ranger grinned. “Called it perfectly. I can pick between Typhonic Volley, which will let me fire a lot of arrows very quickly — and the second tier effect will let me mirror any other archery skills I use at the same time onto my later shots.”
+
+Kaius blinked — that sounded strong. Even a single shot of Bare thy Heart or Howl of the North Wind was a devastating thing. What would happen if she fired multiple in quick succession? Even if it drained her dry, the simple volume of power that she would be able to dish out was hard to deny.
+
+“And the other?” he asked.
+
+“Dryadic Wreath,” she replied. “As strong as Typhonic Volley sounds, I think this is the right choice. It’ll strengthen me physically, and make my basic arrow shots more powerful, so it still adds to my damage output and will help to keep me alive. More importantly, it also makes me tougher and will give me a resistance to nature, poison, and venom affinities while it’s active.”
+
+Kenva trailed off, as if she had more to say but decided against it. Ianmus raised his brow at her.
+
+“And?”
+
+She scowled. “And it summons an actual wreath that sounds like it will look nice.”
+
+Kaius laughed, slapping his leg. “That is a terrible reason to pick a skill.”
+
+“Everything else about it is good!”
+
+“Still!” Kaius said, grinning.
+
+“Says the man who picked Stormlash because he thought it would look cool.”
+
+“Hey! I had plenty of valid reasons to pick it!”
+
+Kenva jutted her finger toward him. “I knew it! Hypocrite!”
+
+He just grinned. “Terrible decision making aside, I can choose to keep going with Mystic’s Rend, or I can pick Dissolution Edge. I think I'll switch — Rend will cost a flat six hundred mana, while Edge is a hundred to a thousand, which is much more flexible.”
+
+“Reasonable, considering how much you tie up in your spells. My pick is pretty straight forward like I'd hoped. Beast of the Line. When I use it to bite someone, it’ll summon the head of another beastknight to mirror the attack from another angle. Second tier strengthens the bite itself. It’s cheaper than the other option, and seems like it’ll be good for taking our enemies off guard or exploiting openings. The First and Final Weapon sounds good too, but it really is expensive, even if it is a little stronger.”
+
+That did sound good. Especially if the copy attacked from outside of his target's line of sight. It could make them think they were being pincered by an enemy they hadn’t noticed — and their reaction to that would give him and Porkchop plenty of openings to exploit.
+
+After chatting about it for a few minutes longer, they were all convinced they were making the right choices. One by one, they locked them in — eyes going glassy as the System flooded their souls with mutagenic power.
+
+Kaius went last. A few moments after the process had finished, he popped to his feet.
+
+“Well then, should we get moving? We can try these out once we find a bit of a better place to make camp.”
+
+Laughing as his friends all but launched upwards, he took the opportunity to check over his Skill growth from their battle over the helix tree’s sap.
+
+**Ding! Class Skill Notifications Consolidated!**
+
+** Infused Glyph of Drakthar has reached level 291 > 292!**
+
+…
+
+**Hellblade Investiture has reached level 246 > 249!**
+
+…
+
+**Infused Glyph of Felmenia has reached level 239 > 241!**
+
+…
+
+**Mystic’s Rend > Dissolution Edge has reached level 200 > 201!**
+
+…
+
+**Runeblade Hymnfocus has reached level 185 > 186!**
+
+**Ding! General Skill Notifications Consolidated!**
+
+**Rapid Adaptation has reached level 294 > 297!**
+
+…
+
+**Liturgical Bladeform: Primus Ordo has reached level 312 > 313!**
+
+…
+
+**Seargent’s Insight has reached level 271 > 273!**
+
+…
+
+**Tempered By Dissonance has reached level 267 > 269!**
+
+…
+
+**Truesight has reached level 292 > 293**
+
+…
+
+**Spellblade’s Harmonic Control has reached level 275 > 277 **
+
+…
+
+**Greater Regeneration has reached level 298 > 300!**
+
+…
+
+**Moment of Flow has reached level 256 > 258!**
+
+…
+
+**Brotherhood of Ichor and Animus has reached level 282 > 284!**
