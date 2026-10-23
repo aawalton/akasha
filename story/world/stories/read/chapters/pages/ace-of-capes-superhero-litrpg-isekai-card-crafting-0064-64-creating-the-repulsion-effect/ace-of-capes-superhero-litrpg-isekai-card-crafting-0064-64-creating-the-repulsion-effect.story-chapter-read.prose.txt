@@ -1,0 +1,199 @@
+About thirty minutes later, after Xena left, Lexie went back to observing her notes.
+
+“Now, where was I?” she muttered. “Oh, that’s right. Figuring out how to factor in other people like Xena into the magnetic repulsion.” She was trying to find the simplest solution to a complex problem.
+
+Creating the repulsion effect in the first place wasn't an easy or particularly intuitive feat. It had only come to her through months of practicing and experimenting till she finally learned that combining some facets of <Easy Clean Up> and <Shut Up and Dance> could create the repulsion skill, but she had to skip and link nodes in a weird zig-zag manner.
+
+<Easy Clean Up> was an effect card that sent things back to their last known origin and <Shut Up and Dance> was an ability and effect card that had a mirroring attribute that was used to ensure that all the people involved in the usage of the skill were doing the same choreography.
+
+So essentially what Lexie had to do was take the series of nodes that created that mirroring function, and delink it from a choreography. She used the delinked node to link to the 'back to sender' function of the <Easy Clean Up> card. So the combination of the cards would essentially mirror the magnetic pull (rather than a choreography) sent by the target and it would then send it back at the target, which would then make it confront their magnetic field. As the 'like' poles were brought in close contact, it would then create the repulsion force that sent Lexie flying away from them, breaking their hold on her.
+
+The problem was that linking it in such a manner didn't allow for anyone else to be included in the effect. Though the <Shut Up and Dance> contained a collective function that held multiple targets, including Xena as one of them would send her back with the boys and not forward with Lexie.
+
+And there was simply no way to connect the two cards in such a way that both Lexie and Xena would be pushed in the same direction unless she somehow found a way to establish a point of contact with Xena and make her part of her magnetic field.
+
+But how? Was there such a thing as a link card that could link them? Or could she steal a linking function from another card?
+
+What card had a linking function between two people?
+
+<Charades Champion> did. So did <Handy Helper> and <Fairest of Them All>. But the first two had their linking function as multiple interconnections which would be complicated to disentangle, and <Fairest of them All> required her to be linking to someone less attractive than her for it to work, and in no world was that true for Xena.
+
+Plus again, she wasn't confident that she could handle a combination of more than two cards. That might be asking too much of her mana control.
+
+She might want to consider tweaking her current approach slightly and changing up one of the cards for the repulsion skill to another.
+
+She took a look at her deck again. The two things she needed for repulsion to work was a mirroring function and a function that would reflect whatever was mirrored back at the sender.
+
+The latter could only be done by the <Easy Clean Up> card.
+
+But on second thought, two cards could achieve the former. The <Shut Up and Dance> Card, but also, to a subtler degree, the <All Eyes on Me> could do it too, if she got creative. <All Eyes on Me> didn't work in the same way as <Shut Up and Dance> where there was a defined target. <All Eyes on Me> would target anyone who was looking at her, sending them away from her. But Xena would still get caught up in it if she happened to be looking at Lexie at that time. So how did she prevent that?
+
+She muttered and did the calculations on her study pad while opening up her system tab to analyze the pathway makeup of <All Eyes on Me>.
+
+After the activation node, was a detection node, then an OR function that extended to multiple other node branches which likely was used to detect just how many people were paying attention to Lexie.
+
+Of course, it wasn’t that easy to tell and there were several other nodes attached to fine-tune that function, but Lexie had enough experience at this point to get the basics of it. There was also a debuff node that had been used to reduce the effect, as well as an experimental buffer node that could be used to increase it. And then an AND function at the end of the logic tree that seemed a little extraneous as part of a search function.
+
+That would be the best place to branch out from, to create a link to another. Maybe she could revise the card to do just that.
+
+But with revising cards, you had to keep it very simple, and right now the simplest thing she could do was to have the effect not target those in closest proximity with her. So if she and Xena were running in the same direction, close to each other, the card would not target her.
+
+In theory.
+
+Lexie still had to check if it would actually work.
+
+She began jotting down likely functions and logic trees that could possibly be amended to make that. It got big and complicated and she wasn’t sure how long she worked for but when she received a sudden text message, her back hurt, her neck was stiff and she could hear Aiden calling from downstairs in the kitchen.
+
+“Lex!” he said. “I’m home!”
+
+“Coming,” Lexie responded but she decided to read the message before she left.
+
+Unknown: LEXIEE! I NEED HELP.
+
+She frowned. It was from a foreign number that she’d never seen before.
+
+Lexie: Who is this?
+
+Unknown: It's Doyle.
+
+Lexie: Oh. Hey Doyle. Did Xena give you my number?
+
+Doyle: Xena? No, that girl scares the crap out of me. I got it from Dewie
+
+Lexie: Ah, that makes more sense. What’s up?
+
+Doyle: I need to know who you think is going to win the Top Dog versus Firebringer match. Abernathy's gonna put money down on Firebringer and so is Chris but I think they’re both wrong and underestimating Top Dog.
+
+Lexie thought about it and then typed back. Maybe, but the Firebringers are no joke. Did you see that video of Torin fighting his trainer? He was very good. And I’ve met his brother Theo before and he could probably torch down the entire arena if he wanted to.
+
+Doyle: Torin Firebringer isn't allowed to use fire powers on his opponents. That would make it too dangerous.
+
+Lexie: Still, Firebringers are not sleazes at non-fiery combat either.
+
+Doyle: So you think he’ll win?
+
+Lexie: I'm not sure. On one hand, the Firebringers seem to have raw power and they've probably been training their whole lives. On the other hand, I'll never count Top Dog out on anything.
+
+Doyle: Damn it. Now, I feel like TD is doomed. The Firebringer wiped the floor with everyone in Prelims too.
+
+Lexie: I think Torin has a good chance of winning. But Top Dog also has a way of pulling through, like he did with that Conrad match. So I don't know. I wouldn’t bet one way or the other if I were you.
+
+Doyle: But I have to bet. I already said I would and if I don't I'll have to pay the wager forfeit fee!
+
+Lexie: You won't have to pay it if neither of the boys bet. And they won't bet.
+
+Doyle: Abernathy says he will.
+
+Lexie: He’s bluffing. I guarantee he won't. They're just waiting for you to be the one to back out first so that you're the one who pays the fee. It's like a game of chicken. Just pretend like you're going to bet on Top Dog and I guarantee you at least one of them will drop it.
+
+Doyle: Okay, I’ll try that. Thanks!
+
+Lexie: No problem!
+
+Done with that communication, and thankfully not receiving any more charisma points, Lexie finally bounced down the stairs and went to meet her father in the process of putting on his apron.
+
+“Need my help?” she asked.
+
+“No honeybee. I just like having you around.”
+
+She smiled but she walked in to help him anyway. She picked up the green beans he’d set in a bowl of water and began to peel them, with a not-so-great technique that snapped too much of the top off. Nevertheless, Aiden merely grinned fondly and shook his head.
+
+“So,” he said. “How is it going? With school selection that is.”
+
+“I think I’ll attend Arcadia,” she said. “At least I’m putting it down as my first choice. Donington is nice but it's too far away for me. Arcadia has a good program, they don't require too many extracurriculars, and it’s close enough that I don't have to do boarding school and can commute from home. And still live with you.”
+
+“Oh, that’s nice,” Aiden answered casually, but he couldn’t quite hide his beaming pleasure. He was practically radiating with it. She knew that Aiden wouldn’t want her to be too far away and she didn’t want to be far away from him either.
+
+This was home.
+
+But also everything she’d said about Arcadia was true. Even with their smaller research budget, they were undoubtedly the best option. Plus, Elvira was also there, and easily accessible on campus.
+
+Speaking of Elvira, Lexie should ask her about the <Handy Helper> card. Last they spoke, Elvira told her that she could get Lexie a willing creature to sign the contract. There were apparently tons of butler creatures from the Fae planet whose hands the card could summon to do specific acts. Lexie was looking forward to signing and trying it out finally.
+
+But Elvira hadn’t called in over two weeks because she was busy studying for an important exam. But that should be over by now, right?
+
+“Have you picked your starter deck yet?” Aiden asked.
+
+Lexie shook her head. She’d spent a few hours scrolling through possible decks but none of them still called to her. She was probably going to have to mix-and-match. “Which one should I pick if I just want to be a scholar?”
+
+He mulled over it. “Anyone is good for that I suppose. Although, as a scholar, you should probably pay more attention to blank cards.”
+
+“Blank cards?” Of course. Why hasn't she thought about that? A blank card was like the cards that Aiden had bought her, a card that had the mechanics but did not have any of the functions yet. Blank slates that could be differentiated into any number of cards could and then activated, once they were programmed with their functions and attained all the proper approvals. They were mostly used for practicing card crafting in your third and fourth years of the research college, and they were also really expensive. Lexie had seen them recently while scrolling down the long list of decks she could choose from, but she ignored them
+
+“You get a hefty discount on your starter deck,” Aiden said. “I was thinking that you could take advantage of that discount to outfit them with a few blank cards. That way you have something to use and practice creating cards of your own.”
+
+“Huh,” she said. “I hadn’t thought of that.” Now that she knew it was an option though, she would consider it. On the other hand, she didn't want her entire deck only filled up with blank cards. It might still be a while before she managed to make a useful, powerful card of her own, and the way a starter deck worked, made it more difficult to use cards that weren’t in the deck. It was like while it buffed activation speed on cards in the starter deck, it debuffed the speed on the others until you leveled the deck up. So essentially, you were required to master those cards before you could move on to others. That was why most people only managed to use a handful of decks in their lifetime. It was basically a sneaky method of system sub-affixation which is precisely why Lexie was taking her time with picking a starter deck.
+
+She sighed. So many decisions to make. So little time.
+
+And then she remembered something that she’d meant to ask her Dad but always forgot.
+
+“Oh by the way,” she said. “You don’t happen to have any internships open, do you? One that a kid my age could do?”
+
+“Why? You want to intern for me?” He gave her an amused look and she shook her head.
+
+“No. My friend Abernathy might want to though. I’m not sure because I never asked him, because I didn’t want to get his hopes up in case it wasn’t feasible. But I think he wanted to be a scholar too. And he’s super smart. Possibly the third smartest person in our class. But he didn’t get any ranking so he’s mundane. I wanted to know if there was something he could do as a mundane that would guarantee him a good scholarly career once he was done with school, like maybe as a TA or something.”
+
+“Hmm.” My dad paused in the process of pulling a pan from the top shelf and scratched his chin. “Alright. I’ll see what I can do.”
+
+“Thanks,” she said.
+
+He gave her a secretive smile. “Oh and when you called this friend of yours the third smartest person in your class, would that make you the smartest?”
+
+“No, that would be Mya. She ranked number one for our year group last semester.” And Lexie was number two but only because she had spent most of her time that semester messing with card magic rather than dedicatedly studying. And even then, Mya only passed her in history and politics by a few points. “She’s super smart and super hardworking. She’ll do great things I bet.”
+
+“Hmm, how gracious.” Aiden turned away and that was when Lexie finally let the smile spread across her lips.
+
+Ha. And that’s how you do the fake humility thing, Aiden.
+
+After they had left the beans to boil and the chicken to roast, the pair hung out on the couch, with Aiden grading papers on his pad, and Lexie lost in thought.
+
+The TV was on but neither of them paid attention to the sound droning in the background, some news about a robbery foiled by the [Heroes].
+
+This reminded Lexie of the second thing she wanted to tell Aiden, although she did it a tad more carefully.
+
+“Oh also, Dewie invited us–as in Xena and me–to a congratulatory dinner his family is hosting. Because he awakened as an S-Class magic user with a C-Class mental component.”
+
+“Oh, how nice.”
+
+“Yeah." And now came the tough part. “But the Firebringers will be there. His cousins.”
+
+The only indication that Aiden had heard the news was the slight pause in his fingers as he scrolled down the pad.
+
+“Stella Firebringer will probably be there too," Lexie completed.
+
+“Probably,” he said and once again, his voice gave little hint as to what he was thinking.
+
+“Is it going to be a problem?”
+
+He shook his head. “I don’t think so. Stella’s problem was mostly with me and a little bit with your mother but none of it will extend to you.”
+
+Lexie sighed. “Okay, this secretiveness is killing me. Can you just tell me what their fallout was about? I’m eleven now, practically an adult. I mean if I can make life-changing decisions about my career path, then I’m old enough to hear about this fight.”
+
+Aiden was quiet for so long that she didn’t think he would say anything. But then he finally admitted, “The long and short of it is, your mother didn’t agree with the way the [Heroes] were running things. Prominent [Heroes] were fighting some of Vacek's mandates and this fight was led by Stella’s father, who was staunchly against Vacek overly restricting the jurisdiction and powers of [Heroes]. Lara was on Vacek’s side, and Stella was caught in the middle of her family and her best friend. It led to this big blowout argument between the two women and Lara swore to use her connections to stop Stella's father from ousting Vacek. Stella's parents died soon after during a disaster rescue mission and I don’t think Stella ever forgave your mother for making their last days so tough.”
+
+"Oh," Lexie said. That was actually kind of sad on both sides. Although Lexie would have probably sided with her mother on this. "You sure Stella won't hate me for that too?"
+
+Aiden smiled sadly. "No. You won’t remember this but Stella came to your mother's funeral. According to Max and Emma, who were there, the two of you spoke for a long time. She even told you that you could go live with them if you wanted."
+
+"Really?"
+
+"Yes. But you chose to stay and wait for me to get out of jail instead. Stella didn't let it go though. She pushed for custody of you still, but I pushed back and that’s part of why we have that enmity. I won and sort of not-so-nicely asked her to stay away from you.” He winced. “It was a childish decision made out of anger and possessiveness, but I was also worried because being associated with her might put a target on your back too."
+
+Lexie nodded. The Firebingers probably had many villainous enemies which was partially why their children trained so hard.
+
+“Anyway, I don’t think she’s ever forgiven me for it."
+
+Lexie nodded and digested the words. And then she responded, "I kind of get why she's upset, to be honest. But I’m glad I picked you though. Even if she’s the most famous [Hero] in the world.”
+
+He grinned back. "I'm glad you picked me too."
+
+"I won’t get a charisma point from meeting with her right?" Lexie joked. "Hers won't leak off on me?"
+
+"No," Aiden laughed. "Charisma points only come from doing something that earns trust. Of course, being endearing helps."
+
+You could get charisma points for being adorable? She was doomed.
+
+The rest of the night was restful, spent relaxing in front of the TV.
+
+And it certainly did not prepare Lexie at all for the disaster that would come tomorrow.

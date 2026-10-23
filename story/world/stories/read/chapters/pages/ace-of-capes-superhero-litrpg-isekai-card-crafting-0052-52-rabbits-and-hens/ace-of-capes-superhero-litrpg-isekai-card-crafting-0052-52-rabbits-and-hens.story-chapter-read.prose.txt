@@ -1,0 +1,303 @@
+Lexie sat cross-legged in front of the low living room table, with her pad in front of her, while her father paced like a university professor. He looked the part too, with his tweed suit and hair brushed back and jelled to hold. But his dapper attire was mostly because he had an interview later today. It was simply a formality, Elvira said, but the board had to meet him in person and make sure he wasn’t a murderous psycho like some of them thought he was.
+
+Now why they chose to even interview a potential murderous psycho in the first place was the thing Lexie couldn't figure out. They must be desperate or something.
+
+Either way, Lexie was happy about it since it made her father happy.
+
+Aiden was in good spirits today and maybe that was why he had an extra bounce in his step as he spoke.
+
+“Today is just going to be a brief overview of everything you would need to create a card,” he said, brandishing his finger. “Once we’re done, I’ll give you an assignment to do on your own. A test of sorts. The practicals will begin when you’ve sufficiently passed that. Alright?”
+
+“Got it,” Lexie said, nodding. She was sure she would ace it. She was, after all, fantastic at tests.
+
+“Good. Now to make a card, there are a few things you need to consider; first, the material. Then the power source. And then the mechanism. For the material, we already managed to secure some practice cards but just to briefly touch on that, most cards are made out of Fae crystals that have been pressed and shaped accordingly.”
+
+“Are they much different from regular crystals?” Lexie asked.
+
+“Yes. These crystals are often mined from level five dungeons and above, which makes them a little bit expensive. That's part of the reason why you don’t see people making cards willy-nilly unless they’re part of a dedicated card program or card companies who can afford to provide those materials. Luckily for you, someone owed me a favor so I was able to get it at a discount."
+
+Lexie nodded.
+
+“Now the second reason why not just anyone can make a card is because card creation requires mana to power it. Since most card mages are typically B or C-ranked, they don’t necessarily have the power necessary. Usually, Card Research Centers and Card Companies rent mana generators powered by wells or occasionally they solicit higher-ranked mages who will power the creation of the card. But since you can’t do any of that right now…I have Elvira looking into getting you some access to a mini generator. Her family might have one that you can access. It won’t be very powerful, and it won’t be as intuitive as if you were using your own mana but it will work for now."
+
+“Thank you,” Lexie said. She could see how much effort it had taken him to arrange all this so she didn’t take it for granted.
+
+“Now the third thing, and what we’re going to focus on today, is the mechanism of card creation. That can be split into three parts. Intent, purpose, and Path. Intent as I explained to you yesterday, is about trying to figure out how the Fae perceive a certain skill and what it was intended for. That then informs your purpose of making the card. Which then informs the mechanism of the card action. So one thing feeds into the next.
+
+“Out of these three things, the mechanism is the easiest to figure out, once you have the other two down. Card action works by a series of nodes and logic gates, using different functions that lead to another. The most popular nodes are the combination node, the exclusion node, a buff and debuff node, and so on and so forth. But again, you can’t get to this point until you understand and can properly translate intent.”
+
+Lexie nodded. She knew a little about logic gates from high school physics so she didn’t think that creating the pathways themselves would be difficult. But the way Aiden spoke about it, the ‘intent’ thing seemed to be a limiting factor.
+
+“Okay,” Aiden said. “Now for your assignment for today, I was able to get my hand on a portion of the translated Fae script that was used to create one of your cards. I want you to read it, and see if you can decipher the intent from what you’re reading. And tell me which card it was used for."
+
+He transferred the note to her via the system and as it appeared on her interface, Lexie read it out loud:
+
+From hole, the rabbit fled,
+
+It's home, a harried shed
+
+Its heart, a dancing sparrow
+
+Its soul too large for the arrow
+
+Lexie frowned. “Is it a poem or a riddle?”
+
+"It's both." Aiden smiled. “Most Fae language even translated is literally, and metaphorically, a riddle to us. They understand us a lot more than we understand them and communication is part of that. The Fae communicate in stories and riddles most of the time, but when they visit Earth, they’ve learned to use to brief, and to-the-point human language, which is considered juvenile and lowbrow in Fae planet. We’ll go into Fae culture later as I feel that might be helpful for you. But for now, I want you to focus on this for most of the day.”
+
+Lexie looked at the note again and sighed. She liked puzzles, so it followed that she should like riddles too. But for some reason, this one bugged her. Nevertheless, she would figure it out. She just hoped it wasn't one of those artistic types of riddles where the meaning was whatever you wanted it to be, or whatever you could convince your English Lit teacher that it was. That would irritate her.
+
+Lexie couldn’t figure it out. She even tried searching it up on the NET, hoping something would come up but nothing did. And then she'd tried to treat it like a thought exercise, looking at the riddle from a literary angle.
+
+The poem excerpt was about the rabbit running from something so it was scared? The word fled certainly suggested it. Or maybe not? Maybe it was just running because its house crumbled. Or maybe it was happy and that's why it's heart was dancing?
+
+Maybe that the soul too large for the arrow meant that it couldn't be killed so maybe it had found some power of some kind and was rejoicing in its new found freedom? Also the way it spoke about its soul and heart so that would lead her to believe that the 'home' might be figurative? It might be just be referring to its body.
+
+But what did any of that have to do with her cards?
+
+Dancing heart...maybe <Shut Up and Dance>?
+
+A rabbit running. So <Hustle and Shuffle>?
+
+Or if the rabbit was truly rejoicing because it had found help or something then maybe <Handy Helper>?
+
+Darn, this was harder than she thought it would be. It really could be anything and she couldn't tell anything with those four lines alone.
+
+But Aiden seemed to think that she should.
+
+After getting a headache reading it over so many times, she decided to take a break so she could look at it with fresh eyes later.
+
+During her break she worked on the frog card. The <Hopping Around> card was another source of her frustration that afternoon. Creature cards, she discovered, were more complicated than ability or effect cards, because of their shape and because they had way more deactivation sensors which were more sensitive to triggers. She supposed it made sense.
+
+With ability and effect cards, one only had to worry about one facet, which was the action being done. But even with low-powered creature cards, Lexie had to worry about both the action and the creature doing it. So if she mangled up the creature. Card fail. Accidentally activate only one leg to backflip. Card fail. Push a node that makes the creature do something creatures typically can't. Card fail.
+
+It was annoying.
+
+Sure, she could activate it easily if she did everything exactly as she was supposed to but this wasn't about that. This was about trying to make the card more useful damn it.
+
+So when the bell rang, she was really not in the mood for it. She was annoyed and determined to hunker down and figure out a way to skip nodes, which was hard because the logic tree branches were so intertwined, skipping one node might mean skipping another more vital node which then triggered deactivation. But then the doorbell came again and again, and Lexie thought maybe it was someone with an emergency.
+
+Maybe a dungeon opened up again. The [Heroes] had destroyed the underground dungeon and were currently investigating any other potential dungeons in Hovelton. They were using some kind of scanner to go over to the ground to test for dungeon activity, and so far they'd come up with nothing. According to Emma, Mr. Lochlan was super pissed about everything at the last town meeting because his land had been confiscated and dug up and no one was paying for it. And even worse, he was mad that Max had been released and had faced no repercussions from what he did except for a missed dungeon season which Max continuously complained about to anyone who would listen.
+
+Anyway, Lexie was worried that maybe the [Heroes] had found another dungeon and they were here to warn her about it.
+
+“Coming.” Lexie flounced down the stairs and across the living room to the door. She peeked through the hole before she opened up in case it was an ax murderer or a ghoul or–
+
+“Dewie?”
+
+She instantly unlatched and pulled open the door to see her friend standing there. His bowlcut was mussed around his head, wisps flying about. His glasses were fogged over, and sweat dripped from his forehead. He was panting and also carrying what looked to be a school bag full of trinkets.
+
+He gave her a tentative smile. “Hello. Did you know that your doorbell rings twice at a go instead of once? That’s strange. Also, I saw a flying piranha in the lake on the way here. You shouldn't swim there anytime soon."
+
+“Dewie what are you doing here?’”
+
+“I ran away.”
+
+Lexie's heart caught. “From home?’
+
+“No. From pre-awakening classes.” He shrugged. "I’ll be twelve in a few months. I don’t think it’s going to happen but my mother insists on it.”
+
+“Oh, okay.” She didn't know what to make of that.
+
+“I ran away and took the train to Hovelton. I asked the sheriff station where you live and they directed me here.”
+
+And they weren’t bothered by a strange kid wandering around, asking? Then again this was Hovelton and strange things happened all the time. Plus Ernie and Roger were, like her father mentioned, very lazy.
+
+“Not that I’m not happy to see you Dewie. Because I am...”
+
+He grinned.
+
+“But you can’t just take off somewhere strange without telling your parents. That’s dangerous.”
+
+He frowned. “But you and Xena do it all the time.”
+
+“Yeah but…” Lexie didn't have a defense to that, only a guilty feeling in her stomach as she remembered her and Xena talking in the group chat about how she would sneak off to deadrooms and how Xena would sneak off to take cool pictures.
+
+Poor Dewie, she thought. We’re a bad influence.
+
+“Besides,” he continued, shrugging the backpack off his shoulder. “I had something I wanted to give you.”
+
+“What is it?” Curiosity beat back her guilt
+
+He didn’t answer, searching for it in his backpack, and then pulled out a pad. Lexie immediately got a notification for inventory transfer, that said Tickets from Dewie.
+
+She opened it up and emitted a loud dramatic gasp.
+
+“Dewie, you didn’t.”
+
+He grinned even wider. “Do you like them?”
+
+“Like them… I...” Lexie choked on the words. She didn’t even know what to say, didn't have words to voice out the excitement that was bubbling up inside her.
+
+Dewie had sent her not one, but two tickets to watch the Top Dog versus Conrad Grace rematch that would take place in just a couple of days. And they were fantastic tickets too, in a booth of all things.
+
+I’ll be able to see the fight in person. With no holographic screen and no highlights. I'll be so close to the arena that I'll be able to smell the grass and feel the energy.
+
+“Dewie, how did you even get tickets this late?”
+
+“They cost a lot,” he said. “Like a lot, a lot. But I had money saved up. Birthday money, allowance, some from my grandmother’s funeral. There was only a two-person booth left available so you and Xena can go.”
+
+“What? You don’t want to come?”
+
+He shook his head. “No. I don’t know anything about fighters or tournaments. I would be lost. You would have more fun with Xena.”
+
+“Oh my God, Dewie.” Lexie walked forward and impulsively hugged the boy. She felt his body stiffen at first, and she thought she’d done the wrong thing, but then his hands came out and patted her back awkwardly. Then she understood that he probably just wasn’t used to hugs. She hadn't been either until coming to Hovelton.
+
+“Thank you so much Dewie.” She pulled back and grinned at him. “But you know you didn’t have to stage a full-blown prison break just to give me these tickets. You could have just messaged them to me.”
+
+“Yes but…” He chewed his lip. “Xena came to your house yesterday. I wanted to come too.”
+
+Lexie shook her head and smiled. She figured as much. “Alright then. Come in.”
+
+Lexie gave Dewie the very short, yet elaborate tour of their small cottage–Dewie insisted everything looked nice– and then they went up to the bedroom to video call Xena, and tell her about the ticket.
+
+She screamed for what felt like five minutes straight.
+
+“Are you insane Dewie?” she gasped. “How….how on Earth did you even buy those?”
+
+“With credits,” he said like it was obvious, and Xena didn’t even roll her eyes. She just took it on the chin, with a nod that said, 'Yeah I deserved that one.’ Lexie smiled because it was nice to see Xena be the victim of someone else's sarcasm for a change, even though she was pretty sure Dewie's was unintentional. And it was payback for Xena’s balloon animals comment at their first meeting.
+
+“Do you know how expensive those are?” Xena asked next.
+
+“Of course. I bought them.”
+
+Ha. Dewie: 2. Xena: 0.
+
+Xena wasn't even mad. She was too busy squeeing about the tickets and then she sobered up.
+
+“Aw man, the two of you are going to have so much fun and I'm going to be eating my jacket out of envy."
+
+“But you and Lexie are going,” Dewie said to which Xena frowned.
+
+“Why would I be going? You bought the tickets.”
+
+“Yeah, but the two of you would enjoy it much more than I would.”
+
+“Well yeah, but I can’t allow that. I can’t in good conscience let us go without you.”
+
+“She’s right,” Lexie said. “I would just feel bad the whole time.”
+
+“I don’t see why," Dewie said.
+
+“No, the two of you go. I’ll be at home," Xena said.
+
+“But it’s you that needs to go, Xena," Lexie said. "Conrad lost his last three matches against Kane, Mr. Amazing, and Lobolobo. This might be Conrad's last match if he doesn't win. This match means more to you than it means to me."
+
+“Yeah, but it’s your birthday present. It doesn’t make sense for you to not go.”
+
+“You two go,” Dewie said again.
+
+“No,” Lexie and Xena said in unison.
+
+And then it went around in circles until Lexie finally realized, “Guys. I think I might have a way we can all go. But keep in mind, it’s not entirely legal.”
+
+They both turned to her.
+
+“I’m listening,” Xena said.
+
+Lexie told them very briefly what the plan would be and by the time she was done, Xena had an intrigued look on her face, but Dewie looked slightly disturbed.
+
+“I don't know,” he said. “I’m not sure I can pull that off.”
+
+“Sure you can Dewie,” Lexie said with an encouraging smile. “You just have to sell it and make it believable.”
+
+“And think of how much fun we’re going to have when you pull it off,” Xena said, grinning even wider. “It’ll be great.”
+
+A tentative smile turned the corner of Dewie's lips and he looked between Lexie and Xena who were both staring at him intensely with near-maniacal smiles on their lips.
+
+“Welcome to the dark side, Dewie,” Lexie said. “We often have cookies.”
+
+Phase I of the plan began the next day. On Lexie’s end, this phase was called buttering her dad up. The problem was that it was really hard to do and not for the reason one might expect.
+
+She didn’t know what to do to gain favors from Aiden. He never really asked her to do anything, not even chores, and of course, Lexie had selfishly neglected to even offer to pick up any. And he’d always seemed happy to do it and had never asked her for anything at all. So she didn’t know what he wanted for her.
+
+It wasn’t good grades. It wasn’t even really good behavior because he didn't even seem to mind her mischief all that much. So what did he want from her exactly? How could she earn brownie points?
+
+She truly had no clue.
+
+But she decided to start with the chores and work her way up. She got up early that morning and started cleaning the house. It was already mostly clean. Aiden was a tidy person by nature and so was Lexie. So she only dusted the tables, turned on the vacuum for the floors, and went around wiping the various books that he had on his shelf.
+
+By the time he came downstairs, she turned to him smiling.
+
+"Good morning, Father."
+
+Aiden shot her a bemused look. “Lexie. What are you doing up so early?”
+
+“Wondering what you want for breakfast.”
+
+“What?”
+
+“I mean I’m not a great cook, but I thought maybe the sentimental value would make up for it.”
+
+Her father frowned. “You want to cook for me?”
+
+Lexie nodded. “Something simple like an omelet or toast. Something I can’t easily ruin. And also I want to clean the house for next week.”
+
+His eyes narrowed in suspicion. "Why?”
+
+“To bribe you of course.” Despite the plan that Lexie had laid out for Xena and Dewie with their parents, she had chosen to go the honest route with Aiden. It was the only way. He would see right through any lie she was able to concoct on short notice.
+
+Besides, she didn't like lying to him, especially since she'd promised not to do it again.
+
+But just because she couldn’t lie to him didn’t mean she couldn't manipulate him with the truth.
+
+“Xena and I want to go and see this match in Moulding. Dewie got us tickets. I want you to let us go.”
+
+“Lexie, Moulding is a long trip."
+
+"I know. And I know it will take you away from work, but I had some money saved up and we can take care of the transportation. I just want your permission to go.”
+
+Aiden cocked his head. “I’m surprised you’re asking me so plainly in the first place.”
+
+“Yeah. I didn’t know if I should. I kinda briefly entertained this plan where Xena and I would go to Dewie’s house, sneak out and take the train to Mulding, and then lie that we were all sleeping over at Dewie's. But that seemed really dangerous and unwise even for me. Beides, we had a deal. No more lying.”
+
+Aiden sighed. "You’ll need an adult to go with you."
+
+“Xena is going to ask Emma if she can get the day off. Apparently she’s due it. I know you used up all your off-days for my birthday and also things will be very hectic with college starting.” He had a meeting this very morning on their campus to discuss his duties and work out with his parole officer if teaching a class would be breaking cult leader laws.
+
+Plus she also knew Aiden would be very uncomfortable in a crowd like those at the stadium. While Indigo had been friendly, they didn't know what kind of mixed bag they would get in Moulding, whether it would be people who remembered Aiden more as a [Hero] or a [Villain]. Lexie didn't want to take the chance and make her dad uncomfortable.
+
+“So,” Lexie asked. “What’s the verdict?”
+
+Aiden mused on it. "And if I said no, will you attempt to sneak out?"
+
+Lexie thought about it and then gave him an honest answer. “No. I would be salty and mad and will probably sulk for at least a month. But I will keep my word.”
+
+He seemed a little impressed by her honesty. Aiden exhaled. “I guess I don't have a good reason to say no.”
+
+“Yay!” She jumped into his arms and hugged him tight.
+
+“Just be careful,” he said, hugging her back. “I’ll see if I can talk Max into going with you too for security.”
+
+“Alright,” Lexie beamed. If that was what it took, she would even call in her favor with Max herself.
+
+Later that evening she texted in the group chat.
+
+Lexie: THE HEN IS IN THE HENHOUSE
+
+Xena: Huh?
+
+Lexie: I dunno. Something my Uncle Max said a few days ago, and seemed happy while saying it. I think it means 'mission accomplished'.
+
+Xena: Mission accomplished for me too.
+
+It was a few more hours before they got Dewie's response.
+
+Dewie: The hen is in my henhouse as well.
+
+The trip began early the next morning.
+
+Emma was so happy to see Xena making friends that she didn’t mind accompanying them on their outing. She even wore a long bright yellow dress for the event. Max was less happy but he was there and that was all that was important.
+
+They took the six-hour train to Moulding and during most of it, Lexie and Xena chattered on about their theories of what would happen in the match, while Dewie listened on and tried to educate himself as quickly as possible.
+
+And once they got off, they walked to the packed stadium already swarming out with people streaming in through the forcefield in multiple spaced out single file lines almost venturing into the street.
+
+Lexie spotted a few people wearing Top Dog T-shirts, and others were wearing cute eighties T's with the words 'Conrad Coolcats' printed on the front.
+
+Lexie and Xena immediately began a contest, counting how many of each competitor's shirts they could find in the line and at the end, Lexie smugly pointed out that Top Dog had more fans than Conrad.
+
+Xena of course argued the point that it was too soon to tell and they needed to get into the arena first.
+
+It was while Lexie was preparing her rebuttal that she swung around and saw the one thing that soured her mood for the afternoon.
+
+Hawaiian-shirt man from the [Hero] party was also here.
