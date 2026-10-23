@@ -1,0 +1,171 @@
+Redmane’s feet hit the cobblestones on the tradesmen’s district in a dead sprint.
+
+This part of town had become a battleground between two factions. Agneszka’s stitched horrors and Pavel’s black powder wielding beastmen. The townsfolk who hadn’t fled from this place had been blown apart by musket balls or shrapnel, or dragged away to wherever Agneszka crafted her horrors.
+
+He could take advantage of that. But first, he smelled a bonus to his armaments nearby. On Smith Street.
+
+A pack of beastmen were foolish enough to exist in his way, but he’d come around the corner so fast they barely had time to ready their weapons before he was on top of them. Blunderbusses and beastman bones snapped like twigs. A single strained cry escaped one of them. Another managed to fire his weapon up into the air.
+
+Redmane paused over their carcasses. He could smell the smithies up ahead, wanted to keep moving. But better to eat the ones at his feet now, in case anything unfriendly came calling while he was having lunch.
+
+Corpus: 3994
+
+They were an appetizer.
+
+The rest of the bill of fare was down the street.
+
+Redmane took Mason Street to Smith Street, and found himself on a narrow avenue lined on either side by the storefronts of general purpose blacksmiths and ironmongers, with a weaponsmith’s shop and an armorer facing each other at the opposite end of the street. Those would be last.
+
+The first courses for lunch, then, would be nails, bolts, rivets, fittings, hinges, fenceposts, sheet metal, bands for wheels and barrels, ingots of iron and steel, spools of wire, and every other kind of general hardware.
+
+Then came the meat. Which was to say, racks upon racks of weapons and armor.
+
+Armor +10Armor +11Armor +12
+
+At the end of his meal, Redmane found himself a little dismayed at how much metal he had to consume to gain three more points of Armor. And his weapons hadn’t increased in damage at all. At least now they were equal, twelve each. Perhaps they would advance together next time.
+
+He’d have to find sources of higher quality metal. But that was a problem for another time.
+
+Presently he stood at the center of a territorial dispute.
+
+So, whom to eliminate first. The stitcher or the powder keg.
+
+Redmane chose the stitcher. If her creations were any indication, she was the more loathsome of the two.
+
+He closed his eyes and, for a moment, returned to a bird’s eye view of the tradesmen’s district.
+
+Smith Street ran from north to south. The nearest intersection was Mason Street, which began by traveling east and west, but wound down the hill and ended up going south. At the bottom of the bend another skirmish between beastmen and stitched horrors raged in the street. There were a few other small battles taking place in the general area. The farther south Redmane looked, the more stitched and less beastmen he saw.
+
+Which meant Agneszka’s lair was to the south somewhere.
+
+Redmane opened his eyes, left the armorer’s shop and took to the rooftops to travel. This way there was less of a chance he’d turn a corner and be caught in the teeth of a clash between the two factions.
+
+No telling what they would do. Perhaps they would forget their enmity for a moment and focus on him.
+
+If he absolutely had to fight, he’d prefer to wait until one side was either severely weakened or vanquished.
+
+Up ahead he spied a Stitched Spider patrolling down the street by itself.
+
+Now that he knew what to do with the bastards, it wasn’t so intimidating.
+
+Redmane crouched down and followed it along the rooftops, closing in slowly, taking care to avoid making noise. It had keen senses, he knew that much from his first encounter with one. And at present he didn’t want to spend the last of his Gnosis on a few seconds of Stalk.
+
+It did spot him.
+
+But only after he’d leapt from the roof, descending like a lion from above. His shadow had fallen over its head as it twisted around to look up and show him a snarl.
+
+Redmane landed on its back, dug in deep with a claw, and as it bucked and screamed he snapped off one of its arms with a single bite.
+
+The improved bite felt good. Brutally fast. It closed like a steel trap.
+
+The Spider’s remaining three weapon arms crackled as their joints reversed orientation, so that they could hack and stab at Redmane as he gnawed them off at the root, one at a time, soaking the damage indifferently. He disarmed it much faster than the first, with minimal injuries, and the rest was a snack.
+
+Corpus: 4307
+
+This one was as unsatisfying as the first, but at least he hadn’t been as badly wounded beforehand.
+
+Redmane looked up. He heard the sound of paws pelting over cobblestone at a full run.
+
+Four monsters bounded around the corner, each the size of a man but down on all fours like a dog. Indeed, that was the way they had been stitched. With the joints of their arms and legs inverted, the skin crudely stretched over their emaciated forms. The heads were built from the skulls of men and hounds fused together. They had pleading human eyes, and maws of jagged teeth.
+
+Stitchwork StalkerMonster Type: Undead (Horror)Level 30
+
+Despite their unnatural construction, they had the instincts of a pack. They were on Redmane the instant he rose from the remains of the Stitched Spider, one lunging in from the right, one from the left, one straight ahead, and one leapt into the air to descend on Redmane from above.
+
+But Redmane, too, had the celerity of a hound.
+
+With a bite, he snatched the leaping hound right out of the air.
+
+His right claw blasted the head of a hound into shreds of flesh and stitching.
+
+His left struck beneath the belly, tearing out the innards, letting them spill to the street.
+
+Only one was left unscathed in that first instant of violence. It bit down on Redmane’s hip, making him grimace as he felt jaws grinding against his femur.
+
+Even as it growled and gnawed on Redmane’s leg as if to sever it, its human eyes rolled upward in his direction, staring as if silently begging for mercy.
+
+Redmane raised a claw, and ended its misery.
+
+Level Up
+
+Level 36 —> Level 37
+
+Quality Points awaiting allocation: 1
+
+— Skill Rank Up
+
+Beast SpeechCommon Class Skill (Hunter)Rank 2 - Evolution PossiblePassive
+
+(Rank 1) Allows the Imbued to comprehend and verbally communicate with animals. Regardless of its natural level of intelligence, an animal may provide information about nearby locations and creatures, limited to whatever they can perceive or have perceived in the recent past. The Imbued may attempt to persuade a beast to perform small favors for him, and the probability of success is modified by the Hunter's level.
+
+(Rank 2) The Imbued may call out in the voice of a specific type of animal. This call mystically summons creatures of the chosen type. Since each type of animal has a different call, the Imbued may only call to a single species at a time.
+
+All such animals within earshot are summoned, and while the Hunter has no further control over the beasts who answer, the animals who do are favorably disposed toward him and are willing to listen to his requests.—
+
+On impulse he thought he’d buy Might again, but he decided against it. Grace instead, this time. It would be good if his speed matched his strength at some point.
+
+Grace 12 —>13
+
+As for the Skill Rank, could he make use of it right now…
+
+More eyes in the air would be good. But his own were better. He could see through their eyes as if they were his, because they were. Normal beasts wouldn’t provide such a view.
+
+Which is not to say they couldn’t be useful in other ways.
+
+He took a moment to consider what kind of animal to call.
+
+Dogs would do, but with most of the townsfolk turned feral, most of them were likely eaten by now. Cats could have gotten away, perhaps. There were certain to be at least a few of those.
+
+But rats. Those would be more numerous still. Rats were much better at hiding. And they knew all about hidden places.
+
+He lifted his face to the sky and called out in the language of rats, in squeaks, chirps and hisses.
+
+Something about it felt so familiar. It felt as though the Skill were deep inside him somewhere, but in a place he couldn’t see or touch.
+
+Regardless, it didn’t take the rats long to answer.
+
+The answer began near instantly, a faint hissing which steadily grew in volume as the rats amassed on street corners, crawling out of holes and under door frames and down storm drains. In mere moments Redmane stood before a swarm of chittering rats. They formed into a crescent shape around him, hundreds of eyes gazing up at him curiously.
+
+It speaks, they seemed to say as one. But why does it call us.
+
+I seek the one who makes these, said Redmane, and he pointed to the shredded remains of the Stitched Stalkers at his feet. I’m going to slay her.
+
+A shiver went through the mass of rats at the mention of the stitcher.
+
+If you lead me to her lair, I will destroy her and all her creations, said Redmane.
+
+The rats seemed to talk amongst themselves. Redmane could vaguely make out what was being said, but there were so many voices it was difficult to be sure.
+
+We can lead you there, but we won’t go in, said the rats.
+
+Acceptable. Show me the the way, and I will attend to the rest.
+
+The rats turned and surged toward the street on the left, as if the whole of them were a mass of liquid. Redmane followed, and to his surprise he found they were not leading him toward Tailor Street. They moved to the edge of the tradesmen’s district and proceeded south, trickling along the edges of houses and shops, flowing around corners.
+
+Redmane kept an eye on his surroundings as he followed them. An errant bomb or stitched hound would be most unwelcome then.
+
+He encountered no such guardians on his way. But when they arrived, he discovered why.
+
+All the guardians were guarding the building. The Undertaker’s place of business.
+
+A pack of Stitchwork Stalkers patrolled the street corner ahead with their heads low, sniffing around, their crazed human eyes darting this way and that. Upon the roof of the building were two Stitchwork Spiders. And in front of the doors stood a hulking creature, in the vague shape of a man but twice as tall, with long limbs made of sheets of thickly corded muscle stitched together. At the ends of its arms, in the place of hands, were round clubs made of a conglomeration of fused bones. Its head was that of a normal man, albeit a dead one. Its frowning rictus was comically tiny on its tall, freakishly muscled frame.
+
+Stitchwork SentinelMonster Type: Undead (Horror)Level 40
+
+Redmane took cover out of view, and considered the situation for a moment.
+
+There were ways he could divert the attention of these things. Separate them from each other, so each threat could be dispatched one at a time.
+
+But perhaps it would be sweeter if Agneszka the Stitcher knew fear before she perished under his claws.
+
+Perhaps she should know what hunted her.
+
+I thank you, he said to the rats. Soon there will be carrion aplenty down in the stitcher’s lair.
+
+The rats chittered gratefully and dispersed.
+
+Then Redmane came around the corner and strode toward the Undertaker’s shop in plain view.
+
+Stitchwork Stalkers growled and lowered their heads. The two Spiders on the roof wheeled around, shrieking and clambering down the walls. The brutish Sentinel turned its perpetually frowning head toward the intruder and let out a wail of protest, slamming its calcified fists on the cobblestone road like a grotesque parody of an ape.
+
+Redmane snarled, and charged.

@@ -1,0 +1,159 @@
+The narrow road beyond the drawbridge of Häerz Castle, which wound a few miles in a southron direction through Barograd, was walled in on either side by dark trees. They were tall and thick of trunk, and the way they twisted against each other made Redmane imagine they were engaged in a savage battle with each other, albeit one frozen in time.
+
+Perhaps the Blight affected even the trees.
+
+No sooner did he step off of the road and into the forest did the System send a message into his mind.
+
+You have entered Zone: Midva Forest (Rank 1)Tasks:
+
+1. Slay Umber, Rock Warg Alpha2. Slay Brigand Chief Dragunov3. Slay Grandmother Gruu
+
+Tasks Completed: 0/3
+
+The sun was only beginning to peer over the horizon, but under the dense canopy of the trees it may as well have been the dead of night. Redmane moved with care, slow and quiet, senses alert to any signs of life around him, hostile or otherwise.
+
+It felt familiar. He thought he’d lived in this forest once, a long time ago. The scent of the air, the ruddy color of the leaves, always red or orange regardless of season, the morning chatter of the birds. These things called to a hazy place in his mind he couldn’t quite pinpoint.
+
+But there were more important things to do this morning than try to reminisce. Redmane had hunting to do.
+
+And there was much ground to cover. Midva Forest completely encircled the steep hills Häerz Castle was built upon, and stretched all the way north to the foothills of the Skalla Mountains, to the east and west and south for dozens of leagues, Barograd resting right at its southron edge. The forest provided much natural protection to the castle. Even before the Blight it was known as an ancient, wild place, full of strange presences that spooked the common folk.
+
+Perhaps those things may not have existed before, but they did now.
+
+A twig snapped nearby. Redmane crouched and zeroed in on the spot the noise came from.
+
+He heard growling, an unfamiliar kind. Redmane knew the voices of beasts generally, even moreso now that he possessed Beast Speech, but this one he couldn’t decipher. Which meant it was no beast, it was a Monster.
+
+Seeing it confirmed his suspicion.
+
+A squirrel scampered across the grass and up a tree, and the thing that pursued it ran on two skinny legs and grasped at it with two equally skinny arms. Its body was round like a melon, a glossy red in color, and it had no eyes, ears or nose.  a maw of gleaming white teeth, irregularly shaped. Redmane thought it looked like a small child’s rendition of a monster come to life.
+
+Gruu GrubMonster Type: GruuLevel 15
+
+The Gruu tried to climb after the squirrel but its fingers couldn’t find purchase on the bark of the tree. It slid down onto the dirt and growled its frustration, looking up in the direction of the branches even though it lacked eyes.
+
+[Gruu] Marked as Prey
+
+Redmane made his selection in silence, and then crept toward the Grub with Stalk.
+
+His feet were sure and silent even without the assistance of the Skill, but with it he may as well have been entirely invisible. He advanced slowly, until he was well within pouncing distance, and went in for the kill.
+
+The Gruu bleated in surprise as Redmane caught it in one claw, yanked it off its little feet, and then a gurgling screech as he took a hearty bite of its flesh. It tried to free itself from his grasp, pushing with its frail arms. And then there was a splat of red from its back, as batlike wings erupted from it and began frantically flapping.
+
+But Redmane had it, and wasn’t letting go. The Gruu became his first snack of the morning.
+
+Corpus: 897
+
+Not much at all. But it was an easy catch. If he could Stalk and catch these things one by one, he could build up a healthy stock of Corpus before it was time for a serious fight.
+
+But something was happening inside his body. His stomach lurched uncomfortably. His snack was moving around in there, rippling and quivering. He belched, and it was loud and forceful. Then for a moment he found himself dizzy.
+
+Redmane staggered a few paces, caught himself by leaning against the trunk of a tree. Its bark was cool and smooth, it seemed to sap a little of the heat out of his face, in a mildly soothing kind of way.
+
+— Skill Rank Up
+
+OmnivoreBloodline Skill [Monstrous]Rank 3 - Evolution PossiblePassive
+
+(Rank 0) The Monster derives sustenance from anything, and its digestion produces no waste. Its teeth and jaws can chew through most substances with sustained effort.
+
+(Rank 1) The Monster's consumption of flesh restores its Corpus, and consumption of magic restores its Gnosis. All caps for Corpus and Gnosis, regardless of source, are removed.
+
+(Rank 2) The consumption of refined metals will permanently increase the Monster's Armor and the damage of its physical natural weapons, such as claws, bite, horns, talons or spines. Damage and Armor gains are proportionate to the quantity and purity of metals consumed.
+
+(Rank 3) When the Monster consumes the flesh of a creature possessing a Skill, it will adopt that Skill as its own at Rank 1. If the creature possesses multiple Skills, the Monster will acquire that creature's highest Ranked Skill. If the creature possesses more than one Skill tied for highest Rank, the Monster acquires them all.
+
+Skills obtained in this way increase in Rank by whatever process the Monster gains in power, if any.—
+
+So… That was why…
+
+— Monster Skill Learned
+
+Carnivorous MetamorphBloodline Skill [Monstrous (Gruu)]Rank 1Active - 10 Gnosis per adaptation
+
+The Monster is capable of changing form to mimic the natural qualities of any creatures it has previously eaten, to include attacks, defenses, environmental adaptations, and modes of stealth, perception and movement.
+
+It can grow such things as scales, tails, insulating fur, forms of natural camouflage, venom sacs, fangs, quills and specialized organs such as gills or wings.
+
+The Monster also acquires an instinctual understanding of how such adaptations are utilized by their own kind, conferring a level of aptitude equal to that of a young adult specimen of said species.
+
+Upon learning this Skill, the Monster will possess an inner ‘library’ of adaptations that will grow as it consumes the flesh of eaten creatures.
+
+Adaptations are permanent, unless dismissed by the Monster.—
+
+His vision was still a bit blurry.
+
+He supposed he was part Gruu now.
+
+Or more accurately, he could do what they could do. He could do what any Monster could do, so long as he ate them. The possibilities almost bowled him over. Luckily he stood braced against a tree.
+
+Rustling of grass caught his ear.
+
+He turned to see a trio of angry Gruu running at him, snapping their jaws and growling loudly.
+
+Gruu GrubMonster Type: GruuLevel 15
+
+He shook off his disorientation and snarled back, brandishing Morholt’s axe.
+
+In the midst of their charge, they all sprouted the same sort of bat wings the first Gruu had tried to grow. Then they took to the air and swooped down on him as one.
+
+Redmane slashed with the axe, making a horizonal arc of razor sharp steel in the space right in front of him. The single blow cleaved through all three of their small round bodies, and they fell to the grass in chunks.
+
+He fell upon them after, devouring them in two big bites each.
+
+Corpus: 972
+
+More rustling. More growling. From a different direction this time.
+
+Now there were twelve of them.
+
+Some were already in flight mode. Others were down on all fours, running at him like dogs. Redmane noticed a few of them were slightly larger than their mates. Those ones had little clawed hands that looked like they could actually climb trees and pierce flesh, unlike the first one he’d encountered.
+
+Again he swiped Morholt’s axe across the space in front of him. Gruu let out gurgling cries as the blade chopped them apart, but there were many more than he could slay in one stroke. The eight who remained swarmed over him, biting him everywhere, the grip of their twiggy limbs surprisingly stubborn.
+
+Their bites hurt too. A lot.
+
+Redmane staggered around, trying to flick them off his arms, kick his legs to shake them loose, to no avail. He had to drop the axe, grab hold of them one at a time and either bite them back or smash them against the trunks of trees or stomp on them and make them splatter like tomatoes. By the time he’d finished the whole lot of them, they had chewed off a dismaying amount of Corpus.
+
+And more might be coming. He’d have to eat as quickly as he could.
+
+Corpus: 772
+
+From the north came a cacophonous growling and trampling of foliage.
+
+How many were there this time. Eighteen? Twenty four? He couldn’t count them fast enough to know for sure. Letting them swarm over him would not be an option this time. They would eat right through his Corpus. He had to do this defensively. Somehow…
+
+He glanced at the tree next to him. Hmm.
+
+Gruu crashed through the grass and brush, a little horde of them, rapidly growing closer.
+
+No time to think of a better idea. Redmane leapt up into the tree.
+
+Here on its branches they’d have to come to him. The winged ones first. To his delight they did as he predicted, the bat-Gruu flapping toward his perch before their mates could catch up. Many of the ones who followed simply hopped up and down at the base of the tree, trying in vain to climb it and growling frustratedly, seemingly ignorant of the power of their own Skill. The Gruu didn’t seem like they were especially bright.
+
+But the ones who were capable of climbing did so. The flyers still reached Redmane first, making him swipe at them with his axe, careful to keep himself securely balanced on the tree. He felt gratitude toward the fine smith who forged this weapon. It was light in his hands, swift and accurate despite its size. Its head cleaved Gruu bodies straight down the middle, vertically, horizontally, diagonally, sending their pieces falling to the forest floor two and three at a time.
+
+The climbers reached him then. He kicked the first one off the tree and it screamed comically as it fell. Then two more came after him. He caught one with a kick, the other latched onto his leg and bit hard. Pain flared in his calf, making him growl. Three more climbers were close to reaching him.
+
+Redmane snatched the Gruu off his leg, pitched him off into the forest and it too screamed off into the distance.  before the next group reached him he looked for the nearest neighboring branch, spotted it and leapt.
+
+He landed, but it cracked alarmingly under his weight.
+
+He looked and leapt again, an instant before the branch lurched and fell, and the new branch held him. For the moment.
+
+Which began a running battle across the treetops. Redmane stopped and struck flying Gruu or climbing Gruu once or twice and hopped to the next landing spot, one after another. Fortunately there were an abundance of tree limbs with which to traverse this gnarled old forest. The horde scrambled after him the forest floor, composed of those Gruu either too weak or too simple minded to transform themselves.
+
+But if he fell to the forest floor, it wouldn’t matter how simple they were. He’d be easy meat.
+
+Wearing a suit of metal armor didn’t seem like such a bad idea  then. Unless the Gruu could eat through that too. With the way Redmane’s own Skill worked, and the look of that sea of jagged toothy maws below him, there was no telling.
+
+This mobile skirmishing kept arousing more and more packs of Gruu from all over the area. Redmane found that he could fend off the flyers and the climbers easily enough by remaining on the move, but eventually he would have to find a way to deal with the growing horde below him. In a more frantic moment of imagination, he visualized leaping down there and trying to devour Gruu as they tried to devour him, to increase his Corpus as quickly as possible as they chewed it off.
+
+He’d likely lose that race. It was one mouth versus hundreds.
+
+And then came a stomping. And a growl much louder and deeper than he’d heard before.
+
+From around the trunk of a mighty tree came an eight foot tall Gruu. Its crimson body was humanoid in shape, its limbs long and powerful. A strong tail flicked behind it, and great draconic pinions extended from its back. Its head was a veiny sphere dominated by one single facial feature, a maw of jagged, shiny teeth.
+
+Great GruuMonster Type: GruuLevel 24
+
+Oh, hells.

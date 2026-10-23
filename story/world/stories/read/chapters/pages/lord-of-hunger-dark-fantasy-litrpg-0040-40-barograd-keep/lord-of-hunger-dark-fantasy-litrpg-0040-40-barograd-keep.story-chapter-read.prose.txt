@@ -1,0 +1,331 @@
+Redmane strode down the broad street leading from Church Town to Barograd Keep with his followers behind him.
+
+There was the Justiciar Vella, her careworn garments and wild hair giving her the look of the beastmen she’d infiltrated. As she walked along behind Redmane she stuck her pinky in her ear and twisted it, flicked away some wax.
+
+Next to her, flanking Redmane on the opposite side, were her Coterie mates, Radovid and Irina. The Warrior and Magister had their weapons in hand, and their eyes on the Keep ahead.
+
+Behind them came a throng of hundreds of beastmen, shepherded by two red robed cultists of Kraal who sang the Dirge of the Devourer to keep them enthralled.
+
+The throng grew as they made their way down the avenue, roving packs of low level beastmen drawn in by the Dirge to join in the shuffling crowd. By the time they reached the walls of the Keep, they numbered well over a thousand.
+
+The portcullis was down, and the watchtowers over it were manned by two musket wielding beastmen wearing steel helms and breastplates. Redmane could see the tension in their eyes. He smelled the scent of fear on the air.
+
+“Go fetch your master,” he called up to them. “Tell him Redmane comes to claim what is his.”
+
+“Our master says fuck off,” one of the watchmen yelled back.
+
+They raised and braced their firearms.
+
+A shard of emerald Gnosis streaked from the tip of Irina’s staff, leaving a sizzling hole in the center of a watchman’s helmet.
+
+Vella whipped out a sling, whirled and loosed a shiny rock, and there was an audible ping as it knocked the other one down.
+
+Redmane made a mental note to keep people with ranged attacks around.
+
+With those two handled, he walked up to the portcullis, crouched down and grasped the cold iron bars with a wide grip.
+
+It was time to find out what 45 Might could do.
+
+His arms and shoulders flexed solidly. He felt his feet press flat to the cobblestones. He set his jaw and concentrated, willed his arms to move, his heartbeat thundering in his ears…
+
+And it moved.
+
+He was lifting it. It was easier than he thought it would be.
+
+Slowly and steadily he rose from his crouch, taking the portcullis with him, until at last he held it at chest level, knees still slightly bent. He took a deep breath and then shoved straight up with all his strength, sending the portcullis crashing up into its housing. There was a clamor of broken mechanisms inside the gatehouse.
+
+It was stuck. Perfect.
+
+Redmane walked through the gatehouse, the Imbued a few paces behind him and the horde of beastmen pouring in afterward.
+
+The ensuing skirmish was brief.
+
+There were more guards posted along the Keep’s walls, and a few in the small courtyard itself, but none were a match for the wave of hostility that met them. Radovid cleaved bodies in two with his great blade, Irina sniped the ones up on high, Vella drew a curved dagger with a wickedly serrated blade and ripped into them with wild aggression.
+
+The ones who didn’t fall to the Imbued were swarmed over by beastmen under the cultists’ thrall.
+
+Much as he enjoyed getting his claws wet, Redmane had to admit that henchmen were a fine thing to have.
+
+The front doors of the Keep blasted open, and the Burgomaster emerged into the courtyard with two of his personal guard.
+
+Burgomaster SigvarMonster Type: CorruptedLevel 52
+
+Veteran GuardMonster Type: CorruptedLevel 50
+
+The Burgomaster Sigvar was a burly man. In his armor he was nearly a head taller than Redmane, and half again as wide, with a breastplate fitted for his routund belly. A plume of red horsehair flowed from the top of his visored helm, and he wore the livery of House Morholt on a white tabard over his breastplate. In his hands he held a great two handed hammer.
+
+“What is this,” said the Burgomaster, his eyes on the red robed cultists behind Redmane, and the throng they commanded. Likely the only people he recognized. “Has that weasel Pietr betrayed me.”
+
+I never liked him, said Pietr.
+
+Am I going to have to get used to you speaking to me unexpectedly, said Redmane.
+
+If you don’t mind, my lord. I do know a few useful things.
+
+Tell me about them later, said Redmane.
+
+As you wish.
+
+“His cult recognizes me as their rightful lord,” said Redmane. “You can do the same if you like.”
+
+The Burgomaster scoffed.
+
+“You can rest in piss,” he said, and he hefted his hammer in both hands.
+
+Radovid, Irina, Vella and all the beastmen readied themselves.
+
+Redmane raised his hand, shook his head, and they stood down.
+
+“You and me,” he said to Sigvar.
+
+The crowd receded into the rough shape of a ring. Sigvar’s two guards looked to their leader, and the Burgomaster gave them a nod to step aside.
+
+Then he strode into the center of the impromptu arena, a tower of steel with hammer in hand.
+
+A growl rumbled in Redmane’s throat.
+
+Burgomaster Sigvar broke out into a run toward him.
+
+Redmane crouched.
+
+The armored beastman bellowed a battle cry, raised his hammer high overhead to end it in a single blow, the inertia of his charge and the sheer mass of the man making him something akin to a human siege engine, a battering ram that could burst braced doors into a shower of splinters.
+
+Redmane slid to the side at the last instant.
+
+Four clawmarks rent along the side of Sigvar’s breastplate, and fresh blood oozed from the wound.
+
+Bleeding (4)
+
+Bloodthirst took effect immediately.
+
+Redmane felt twitchier. Full of energy. Intensely focused on the scent of the Burgomaster’s blood.
+
+Sigvar grunted, turned to swing a horizontal blow. His hammer whistled through the air like a boulder flung from a catapault.
+
+Redmane dipped beneath it and tore two chunks out of his armored leg.
+
+Bleeding (12)
+
+The Burgomaster retreated a few steps, hobbled, his feral eyes ablaze inside the visor of his steel helm.
+
+“You’re a little slow,” said Redmane.
+
+Sigvar growled. “I’ll pound your skull flat against these stones, mongrel.”
+
+“Come and try it.”
+
+The Burgomaster willed his leg into proper function, and with a roar he barreled forward with an overhead swing.
+
+Redmane’s hair and ragged cloak trailed behind as he dodged left, like a bullfighter. His claw swept across the back of Sigvar’s breastplate, tore through it as if it were cloth.
+
+His opponent was so sluggish...
+
+Either Sigvar was moving in slow motion, or Bloodlust simply stretched out Redmane’s perception of time.
+
+Again he struck twice, when before he could only have struck once.
+
+Bleeding (20)
+
+Sigvar let out an anguished roar and turned around quickly, trying to catch Redmane on the backswing.
+
+He ducked, clawed across the Morholt tabard stretched over the Burgomaster’s steel clad belly.
+
+Bleeding (24)
+
+“That heraldry was offensive to my sight,” he said.
+
+Sigvar shoved Redmane back and raised his hammer for another blow.
+
+Too slow, again.
+
+This time Redmane kicked Sigvar square in the belly. The ball of his foot rang that rounded breastplate like a bell, and sent the bleeding Burgomaster staggering backward, only to fall flat on his behind.
+
+Vella laughed.
+
+Irina gave her a reproachful look, and the Justiciar rolled her eyes.
+
+Burgomaster Sigvar breathed in heavy gasps. Sheets of blood ran down his armor, which had been rent in so many places.
+
+Redmane waited patiently for the man to get to his feet, grasp the handle of his hammer tight and advance once more.
+
+He had enough room to break into another charge.
+
+Redmane watched Sivgar thunder toward him, again raising his hammer high. Only this time he suspected the Burgomaster knew he had no chance. He simply wanted to die fighting.
+
+He could respect that. Were he in the same situation, that’s what he would want too.
+
+Sigvar swung his hammer.
+
+Redmane swung his claw.
+
+An overhand claw, which swept diagonally from top right to bottom left, shoulder to hip. It cleaved through the haft of Sivgar’s warhammer, through his helmet and gorget, through his neck, most of his right vambrace and forearm, and a generous portion of his shoulder.
+
+Burgomaster Sigvar’s head popped off, and the rest fell into two pieces.
+
+It wasn’t the cleanest separation. The two parts were still connected by a flap of blood soaked skin and steel. But the exposed muscles and organs were a neat cross section of beastman anatomy.
+
+Burgomaster Sigvar SlainTasks Completed: 5/5Level Up
+
+Level 53 —> 54
+
+Zone Tasks CompletedCleared Zone: Barograd
+
+Level Up
+
+Level 54 —> Level 55
+
+Quality Points awaiting allocation: 2
+
+This Zone will be integrated into the domain of House Redmane
+
+Redmane slid the two points into Fortitude.
+
+Fortitude 38 —> 40
+
+And then a cheer erupted from the beastmen, their cultist shepherds, and Vella.
+
+Irina bowed to Redmane with a solemn smile.
+
+Radovid did so as well, though his bow was stiff and no expression shone on his face.
+
+Redmane wondered if the Imbued would someday become a problem.
+
+Dicentis Lar Tathvaal was out for a stroll on the upper streets of Taracon.
+
+He passed through a park that smelled of jasmine, with artfully manicured hedges and a central fountain sculpted from flawless white marble. The garden stood in the shadow of the Governess’s tower, which stretched up into the sky to match the peaks of the gray mountaintops to the east.
+
+There were many such gardens and towers in the city, though none quite as grand as hers. Local Imbued often gawked at the dizzying height of the tower the first time they laid eyes on it. Taracon’s architecture was like nothing the people of Volos had ever seen before, or likely would see anywhere else.
+
+It was a pale imitation of Numantia itself.
+
+The city at the heart of all worlds. The nexus of a power so vast none had stood against it and survived in thousands of years of conquest.
+
+Lar Tathvaal longed to return, but not as a mere assistant.
+
+As a Primogen. Standing at the head of his own Scion Family.
+
+Making his way up the ladder to the Triarchy itself. The highest power in the universe. A state the gods of these backwater worlds couldn’t even begin to imagine in their wildest dreams.
+
+Ambition was a common virtue in men. Even moreso in Numantians, so many of whom glimpsed the heights they could aspire to, and Lar Tathvaal found himself to be no exception.
+
+Lar had a seat on the bench in front of the fountain, leaned back and folded his arms as he watched and listened to the trickling water.
+
+Mecia Porsena presented his first significant obstacle.
+
+His family had arranged for him to spend his post academy years in her service, to get a feel for the empire, to see a few of the colony worlds with his own eyes. So far they were unremarkable in every way. Boring. Pitiable, even. To think that so many lived and died in such a sorry state.
+
+But Mecia Porsena didn’t seem to share in his contempt, or at least she didn’t show it. She didn’t show much emotion at all. She was like an automaton, a thing which existed only to follow orders and mind the rules. How such an unimaginative creature ended up Governess was beyond him.
+
+Or perhaps not. Perhaps her lack of imagination was precisely why they trusted her.
+
+His fate rested in her hands, which didn’t sit well with him. There was no term limit on these sorts of appointments. She could keep him in her employ, managing little worlds of mud like this one, for centuries.
+
+He had to either escape her or destroy her.
+
+The former option seemed safer, to be certain, but there weren’t many options along that route which wouldn’t tarnish his career somehow. He could simply neglect his duties, for example, force her hand, make her dismiss him and choose another Dicentis from the poor fools coming out of academy.
+
+But such things were remembered when the time for real promotions came.
+
+Paradoxically, destruction seemed the safer course.
+
+It wouldn’t be difficult, if the right tools could be found. Mecia Porsena was rigid, inflexible. It was her strength but also her weakness.
+
+He had to create a problem ill-suited to her mind. Something her rigidity would not survive.
+
+A System message interrupted his thinking.
+
+It was Caius, one of his Quaestors.
+
+His eyebrow rose. Caius knew not to bother him personally unless it was something important.
+
+He accepted the message, and a translucent blue image of Caius appeared before him.
+
+“Lord Speaker,” he said. “We have received our first Pharos message from a Faction out in the provinces.”
+
+“Ah, very good. Thank you for notifying me.”
+
+Caius smiled nervously. “The Imbued in question said he had an urgent message for the Governess herself.”
+
+Lar’s eyes narrowed. “Oh? Have you received this message?”
+
+“We have not, Lord Speaker. The Imbued insisted he speak to her directly.”
+
+Lar let out a laugh. “I like his audacity.”
+
+“What would you like us to do?”
+
+He thought about it a moment, rubbed his chin.
+
+“Send him through to me.”
+
+“At once.”
+
+Caius vanished. A few moments passed, and a new phantom appeared. This man’s hair was thinning, white at the temples, and his face had begun to wrinkle with age. He wore a blue robe under a white cloak trimmed in silver, the uniform of a low level Magister.
+
+He looked upset. Stressed. He kept glancing off to the side, as if watching out for someone.
+
+“Hello there,” said Lar. “You speak to Lar Tathvaal, Dicentis of Mecia Porsena. May I have your name?”
+
+“It’s Helmold Brecht, Lord Speaker. I must speak to the Governess at once.”
+
+Lar smirked. “Well I’m afraid this is as far as you get, Magister. You may give me your message and the Governess shall review it at her earliest convenience.”
+
+If at all.
+
+Helmold Brecht frowned. He was wringing his hands.
+
+Clearly he did not want to leave the message with Lar. But the Dicentis wasn’t going to give him any choice in the matter.
+
+“So be it,” said Helmold, and he smiled a sheepish smile which did not reach his eyes. “I have information which may explain the origin of this Blight, and I’m afraid it’s quite dire. I hesitate to utter such a blasphemy, but the System itself may be compromised. Something has been awakened which could consume this whole world.”
+
+Lar Tathvaal’s eyebrows rose, and he grinned and leaned forward, suddenly intrigued.
+
+“Do explain, Magister…”
+
+It was the dawn of the fourth day, and Häerz Castle was only a few hours hike from Barograd on the main road.
+
+Redmane walked in silence, alongside Radovid, Irina and Vella. The twins had ultimately agreed to join House Redmane, despite some lingering reluctance from Radovid.
+
+The Kraal cultists and beastmen weren’t capable of joining the Faction, as they were Monsters. And he knew the folk he’d rescued in Midva Forest wouldn’t be thrilled to see them again, so for the time being he told them to remain in Barograd until called for.
+
+Even without the cult and their thralls, the roster of House Redmane was robust. Six imbued, not including Redmane, and the list of Classless was now much longer than Letha and Kale, all of the Midva Forest refugees were in as well. Altogether House Redmane was fifty some souls.
+
+Despite all the unpleasant memories, Redmane found himself a little excited to be returning to the castle.
+
+Perhaps because he was its master now.
+
+He wondered if that strange seed had sprouted yet.
+
+His answer came when they crested the hill hiding the castle’s gatehouse. The drawbridge was down and the gates were open, and inside there was…
+
+A forest.
+
+Not simply a forest, a primeval, wild forest, full of vibrant colors. Tall trees stretched up over the inner walls, visible even from where they stood on the outside.
+
+Vella stopped next to Redmane, cocked an eyebrow, put her hands on her hips. “Castle been vacant a while eh?”
+
+Redmane shook his head no. Confusion evident on his face.
+
+He strode through the gatehouse into the castle yard and came face to face with a passing Flora. Like most of her other bodies, she wore the simple dress and apron of a kitchen maid, her verdigris hair flowing freely down her shoulders.
+
+They saw each other.
+
+It wasn’t her beauty that made him freeze. Nor recognition, in the usual sense.
+
+He didn’t remember her.
+
+It was something deeper than memory.
+
+It was as if the image of her standing there conjured a dream in his mind, a heavenly one. Trying to 'remember' felt like trying to explain its vividness out loud in dull, feeble words. Impossible. A gap language could not bridge.
+
+Evidently the green haired girl was experiencing a similar sense of recognition, because the stunned expression on her face mirrored his exactly.
+
+But she recovered from it first.
+
+Flora smiled, took the hem of her dress in hand and curtsied.
+
+“Thou must be Redmane. Welcome home, my Lord.”
+
+END BOOK ONE
+
+BOOK TWO TOMORROW!

@@ -1,0 +1,201 @@
+Redmane checked the description of the Skill to refresh his memory.
+
+— SpawnBloodline Skill [Monstrous (Gruu)]Rank 1Active - Variable Cost
+
+The Monster is able to spawn smaller creatures out of its own flesh, which are commonly used as assistants and spies.
+
+Each Spawn begins its existence with whatever quantity of Corpus and Gnosis its master chooses to bestow upon it. The master must also bestow the Spawn with its modes of defense, respiration, perception and movement. The Monster may utilize any traits it has gained from use of the Carnivorous Metamorph Skill for this purpose.
+
+The Spawn may also be granted any Skill the master knows, at a cost of 50 additional Corpus per Skill. If the Skill bestowed has a Gnosis cost, the Monster must bestow it with a supply of Gnosis with which to activate the Skill.
+
+The Monster may give the Spawn simple commands, which it will carry out autonomously to the best of its ability. At will, the Monster may borrow the senses of the Spawn, seeing through its eyes as if it were the Monster’s own. During this time the Monster is insensate with regard to its own surroundings.
+
+The Spawn remains under the Monster's absolute command at all times, and can be called back and re-absorbed into the master's body, at which time the master will regain whatever Corpus and Gnosis the Spawn possessed at the time of re-absorption.—
+
+Nothing in the description said he could only make one Spawn at a time.
+
+It did say that he could only borrow its senses one at a time. But if he had a number of them out there moving and looking about, he could, in theory, cycle between them all.
+
+He could be in several places at once.
+
+And best of all, the Skill cost Corpus to use. He actually had some of that.
+
+Redmane crouched down and closed his eyes, focused on the Skill. In his mind’s eye he saw the Skill as a point of smoky red light surrounded by a cloud of images. The forms of beasts, birds, aquatic things. A catalog of all the life forms of Midva Forest, where the Gruu had consumed everything in sight indiscriminately.
+
+And he’d eaten the Gruu. Taken their Skill. Now their library of forms was his as well.
+
+For this task, he chose flying forms. Small, short winged birds that could cover ground quickly.
+
+Redmane had four adversaries to find, so he began with four little birds.
+
+Corpus: 3567
+
+He held out his hand, palm up, and a blister formed upon it and ballooned out until it split, revealing a small red bird with golden eyes. He sent this one flapping off to the far side of the river, to scout out the keep. The next one he sent to the far side of the river as well, and then two more to flit around on his side of the river.
+
+Four little birds, one for each quadrant. He closed his eyes, felt them moving through space as if parts of his own body were out there. Which they were, he supposed. It would take some getting used to.
+
+The first places to check would be the keep and the church, for Burgomaster Sigvar and the High Priest of Kraal, Pietr. As for the other two, Redmane wasn’t sure where to begin. Someone called “Agnezska the Stitcher” could be a tailor, or a surgeon, or simply a lunatic who enjoyed stitching things together. If the “Stitched Spider” he dispatched was any indication, it would be the latter case. “Powder Keg Pavel” could be at the keep with the Burgomaster, or he could be somewhere else. In a tradesmen’s district perhaps, assuming the town had one of those.
+
+Redmane patrolled Barograd from above, patiently switching between four bird’s eye views.
+
+It was eerily quiet.
+
+Under normal circumstances he imagined the town would be alive with noise and activity. Music, conversation, the sights and sounds of people at work in the early hours of the morning.
+
+There were people. But they weren’t doing what people do.
+
+They crouched over dead bodies in the street, chewing mouthfuls of bloody flesh.
+
+They shambled through alleyways, sniffing around for a hint of fresh food.
+
+They gathered on street corners and squares, kneeling on the stones, bowed before priests of Kraal as they delivered droning sermons in some ancient language Redmane couldn’t understand, but still sort of recognized for some reason.
+
+It all felt familiar.
+
+A snatch of conversation caught his ear.
+
+He directed his attention to the bird who heard it. At the moment it perched on the limb of a young, slender tree, looking down at a congregation of townsfolk at a small park. They listened to a priest of Kraal telling a story in the common tongue.
+
+Redmane realized one of the townspeople, a dark haired young woman in furs, had a System icon.
+
+— Vella VaiClass: JusticiarArchetype: InvestigatorFaction: NoneLevel: 26—
+
+Vella. A member of Valtr and Vengarl’s Coterie. They had mentioned her.
+
+She did sort of look like she’d crawled out of a cave. But the look suited the situation. All of the townsfolk in attendance looked feral.
+
+The priest of Kraal who stood over them was also clad in furs, though his had been soaked in red dye. Around his neck he wore the holy symbol he’d seen at the encampment back in Midva Forest.
+
+“From across the sea came the golden haired conquerers,” the priest held out his arm dramatically, as if to conjure the mental image of ships arriving on the shore at the end of his outstretched hand. He spoke in a booming, commanding voice. The moment Redmane heard it, he presumed his cultist comrades had chosen him to give sermons for that reason alone.
+
+“They put us to the sword. They burned our homes and our villages. They slew our gods and desecrated them, and gave us to their own gods, the gods with no love for this land and its people. The gods with no heart, no affection, no compassion, no mercy. Only the cruel laws of the conqueror; what was yours is now mine, what you treasured we defile, we shall do as we please with your lives, for there shall be no punishments for us and no deliverance for you.
+
+“And we who denied these gods were cast out. They called us ‘heretic!’ We who dared resist, they shackled us in chains and called us ‘slave!’
+
+“And lo, our wise mothers, the witches of the Sielwood, they beheld the plight of our people and brought forth salvation.
+
+“The eldest of the witches of the Sielwood was called Nasiene, and in her wisdom she had ingratiated herself to the king and his court, provided medicines to heal his ailing son, and given good counsel to him in times of uncertainty. But in her heart she kept concealed her righteous malice, her heartbreak for the suffering of the men of Volos.
+
+“Now it happened that the king, who was called Kraal, had put the final surviving rebels to the sword, and at last he looked out over a field of thousands of corpses and he said to us, ‘I have made peace.’
+
+“And the witch Nasiene, who sensed that the time for revenge was nigh, counseled the king. To him she said, ‘O, Great King, thou shouldst commemorate thy victory with a feast. A banquet for thy court. Deep within the forest there lay a great beast, a god of old, who resteth in everlasting slumber.
+
+“’O, Great King,’ said she. ‘Gather thy hunters and slay the beast. Sow thy fields with its blood. Hold a grand banquet with thy knights and thy bannermen, so that all who had a hand in the glorious unification of thy kingdom may partake of its bounty.
+
+“And the king did as Nasiene counseled. He mustered his hunters and ventured into the dark wood. And there he found a great crimson beast, slumbering on a bed of green flowers. It woke only as the spear of King Kraal pierced his heart, and even then the great beast merely sighed as if remembering a pleasant dream.
+
+“The King and his hunters returned with their bounty. And as Nasiene counseled, he sowed his fields with its blood and served its flesh at his table, at a great banquet for all his loyal men.
+
+“Somewhere, deep in the dark of the Sielwood, Nasiene smiled…
+
+“And then the curse of Hunger was upon them. Upon all the sons and daughters of King Kraal, and all his knights and lords, and all his golden haired kin from across the sea and all their progeny. A curse of Hunger fell upon land, upon the conquerors of the land, upon the defilers and the desecrators of the land.
+
+“King Kraal, being the mightiest of all the men at the grand banquet, slew his lords and knights, his loyal followers, and their wives and their children and the castle servants as well. He consumed them all, but his Hunger would not be sated.
+
+“He stalked through the streets of his own city, slaying and devouring every man, woman, child and beast, but his Hunger would not be sated.
+
+“He swept across his own conquered lands in the form of a great, ever growing beast, consuming all, but Kraal the Devourer’s Hunger would not be sated.”
+
+The priest of Kraal stretched out his arms to the sky, as if pleading with an unseen figure above them all.
+
+“The time is nigh for his return!” said the priest. “The time is upon us! Kraal the Devourer returneth! He comes now, to liberate us all, to join us all within his flesh!
+
+“No more shall there be a Prince and a Peasant!
+
+“No more shall there be a Master and a Slave!
+
+“No more shall there be Predator and Prey!
+
+“All shall be devoured! All shall be united! All shall be conjoined!”
+
+Redmane took a moment to process what he had heard.
+
+He’d had dreams like this. Images which resembled scenes this priest had described.
+
+But he was no King. No “Devourer.” Until two days ago, he was Little Redcap.
+
+Perhaps he’d overheard this story sometime before, and it caught his imagination. The cooks and kitchen maids at Häerz Castle passed the time making all kinds of small talk. He’d overheard many things over the years. Even Aric Morholt enjoyed hearing folk tales down in the kitchen, though only incidentally. Aric came down there for two reasons primarily, to pilfer fresh pastries and abuse Little Redcap.
+
+Redmane shrugged. He’d heard it before. It was as good an explanation as he’d get at the moment.
+
+For the moment he turned his attention to other areas of the town.
+
+He switched to the mind of another bird, one on his side of the river. No sooner did he did so did the sound of an explosion disturb the morning’s relative silence.
+
+He wheeled around and flew in the direction of the sound. It came from the east, a cluster of buildings on a broad hilltop crisscrossed with narrow streets.
+
+Redmane noticed the names of these streets, marked with signs at their intersections. Tanner’s Street, Smith Street, Thatcher’s Street, Mason Street, Carpenter Street, and so forth.
+
+Half a dozen Beastmen stood at one end of Mason Street, lobbing bombs and shooting black powder firearms at an advancing trio of Stitchwork Spiders. They were stopping between shots to reload their rifles in teams of two, while others harried the shrieking Spiders with hurled projectiles to keep them back. So far it was working. The Spiders didn’t respond well to detonations in their faces, it made them flail about and backpedal, knock into each other in a tangle of excessive limbs.
+
+Redmane noticed the beastmen wore a powder keg patch on their cloaks.
+
+So the minions of Pavel and Agneszka didn’t get along. Splendid.
+
+His eyes darted back to that street sign.
+
+Mason Street intersected with Smith Street.
+
+A street of smithies…
+
+A street with lots of metal to eat, in other words.
+
+Redmane opened his eyes and leapt off the wall, landed on a rooftop and broke into a bounding sprint toward Smith Street.
+
+- - - -
+
+For once, Governess Mecia was pleased with her subordinates’ punctuality.
+
+Lar Tathvaal had briskly left her offices and just as briskly returned, with her Praetor in tow. Jarel Craith did not look pleased to have been escorted by Lar, nor did he seem to appreciate the Dicentis’s continued presence in the room. But Mecia did not dismiss him, and it was not his place to do so himself.
+
+“Now tell me,” she said to Jarel. “What have you learned from your assassins.”
+
+Jarel Craith bowed deeply. “Their endeavor was a success. The target was a demigod of low rank, a bear spirit of little consequence. It had no known worshipers or children that we could identify. Apparently it had been living in solitude for some time, in the vicinity of a place called Häerz Castle. We presented the being with our usual offer, it refused, and so we dispatched a Sicarius Coterie to eliminate it.”
+
+Mecia nodded along. “And that’s all? No complications? No unusual circumstances?”
+
+The corners of Jarel’s eyes tightened. He pressed his lips together for a moment, swallowed.
+
+“There was, Governess.”
+
+“Go on…”
+
+Jarel fixed his vision on the map behind Mecia’s shoulder, so as not to meet her gaze while he spoke. “One of the Sicari was killed in the struggle, and its remains were not recovered.”
+
+“That’s peculiar. Do we know why?”
+
+“My Sicari report that the battle took place at the banks of an underground river. The body fell into the river and disappeared, and the search for it has, as of yet, been unsuccessful.”
+
+The Governess steepled her fingers.
+
+The Blight of Corruption in this land had something to do with the heredity of its people. Their descent from these Five Heroes, and their wives, all of them daughters of the King Sencis Karalis.
+
+Recently, a Sicarius Coterie lost one of their number dealing with a local problem, and the body was not recovered.
+
+How did these things fit together?
+
+Did they fit together at all?
+
+She looked at Jarel Craith and Lar Tathvaal. The former appeared to be making mental preparations for his execution. The latter looked as though he were enjoying a private joke.
+
+“What do you two make of this,” she said.
+
+“I do not yet have enough information to answer definitively, Governess,” said Jarel, his voice tight. “But I will do my utmost to uncover the truth of it.”
+
+“And you?” she asked Lar.
+
+The Dicentis smirked and shrugged. “Perhaps these things are related to each other, perhaps not. Causes don’t interest me as much as possibilities, Governess. In truth this could be a positive development.”
+
+“Do explain how the degradation of an entire population to a state of beasthood is a positive development.”
+
+“More Monsters means more potential Imbued. A chance to forge a robust domain, stocked with powerful subjects. I say we open the Astral Bridge to all, and allow Imbued to enter from the rest of the Empire. Offer an attractive reward to any Faction willing to part with a few of its own Coteries, and you recover the costs immediately on the other side with a swiftly cleared Blight and a glut of well-leveled and grateful Imbued at your beck and call.”
+
+Mecia sighed. “We’re supposed to be investigating the roots of the problem.”
+
+“We already have the problem,” said Lar. “Why not investigate how to make the most of it?”
+
+Mecia closed her eyes. Rubbed the bridge of her nose with her thumb and forefinger.
+
+“Just get out of my office, both of you.”
+
+Jarel Craith turned on his heel and strode out of the Governess’s office with a quickness. Lar Tathvaal bowed to her, smiling sardonically, and sauntered out after him.
