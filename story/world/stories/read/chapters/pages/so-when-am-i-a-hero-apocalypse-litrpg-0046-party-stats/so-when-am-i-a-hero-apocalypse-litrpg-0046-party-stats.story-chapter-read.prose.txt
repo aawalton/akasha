@@ -1,0 +1,563 @@
+HELEN: LEVEL 12
+
+Health
+
+34
+
+Stamina
+
+78
+
+Strength
+
+5
+
+Fortitude (with +3 armor)
+
+12
+
+Dexterity (with +12 class)
+
+34
+
+Wits
+
+7
+
+Resolve
+
+15
+
+Charm
+
+5
+
+CLASS TRAITS
+
+CLASS BONUSES
+
+EQUIPMENT
+
+EQUIPPED
+
+Hooded Jacket
+
+TOP
+
+Fortitude: 3
+
+Silent Step Proficiency +3
+
+Changes contrast
+
+Uncommon Traveler's Boots
+
+SHOES
+
+Enhanced speed
+
+Common Twin Daggers
+
+WEAPON
+
+Bleeding Slash, Crippling Wound
+
+Thigh sheathes
+
+ITEM
+
+Holds daggers
+
+Uncommon Thief's Blade
+
+WEAPON
+
+Bleeding Slash, Toxic Stab, Double Toxin
+
+Common Scian
+
+WEAPON
+
+Bleeding Slash, Strengthened Riposte
+
+UNEQUIPPED
+
+Common Cloak
+
+ACCESSORY
+
+Mild insulation
+
+Common Sword x2
+
+WEAPON
+
+Bleeding Slash, Crippling Wound
+
+Common Staff
+
+WEAPON
+
+Magic Blast, Magic Wave
+
+ITEM INVENTORY
+
+Crippling Spikes Trap
+
+1
+
+Lesser Stamina Draught (+30)
+
+2
+
+Lesser Sleep Draught
+
+1
+
+Lesser Liquid Fire
+
+1
+
+Wits Draught (+5)
+
+1
+
+Lesser Health Draught (+30)
+
+1
+
+LUCI: LEVEL 12
+
+Health
+
+38
+
+Stamina
+
+76
+
+Strength
+
+2
+
+Fortitude (with +5 armor)
+
+14
+
+Dexterity (with +12 class)
+
+33
+
+Wits
+
+6
+
+Resolve
+
+10
+
+Charm (with +5 armor)
+
+20
+
+CLASS TRAITS
+
+CLASS BONUSES
+
+Night Watcher
+
+ROGUE
+
+Saving Hit: Do 20% more damage on the first hit to an enemy targeting another party member.
+
+Iron of Scythia
+
+ARCHER
+
+Public Order: Do 20% more damage from a distance (at least 5m or more).
+
+Cultist of the Mystic Fire
+
+SORCERER
+
+Fire Piercer: Ignore 25% of an enemy's fire resistance.
+
+New York Yank
+
+FIGHTER
+
+Strike Out: 50% chance to recover lost stamina after missing a melee hit.
+
+Mountain Man
+
+ROGUE
+
+Trading Post: Sell consumables and accessories looted from enemies for 20% more.
+
+Soldier of Cer
+
+FIGHTER
+
+Child's Grace: A killing blow will knock you down to 1 HP instead of 0.
+
+Call of the Matriarch (Chicago)
+
+POWER
+
+Beckon allies within a 1km radius. Allies receive a 25% speed boost as long as they are heading in your direction.
+
+EQUIPMENT
+
+EQUIPPED
+
+Chainmail Top
+
+TOP
+
+Fortitude: 5
+
+Charm: 5
+
+Common Recurve Bow
+
+WEAPON
+
+Long Shot, Piercing Shot
+
+Bow Sash
+
+ACCESSORY
+
+Holds bow
+
+Common Quiver
+
+ACCESSORY
+
+Holds up to 12 arrows
+
+UNEQUIPPED
+
+Common Halberd
+
+WEAPON
+
+Bleeding Slash, Fortified Block
+
+ITEM INVENTORY
+
+Poison Cloud
+
+1
+
+Lesser Stamina Draught (+30)
+
+1
+
+Lesser Health Draught (+30)
+
+2
+
+Wits Draught (+5)
+
+1
+
+ELIAS: LEVEL 12
+
+Health
+
+50
+
+Stamina
+
+22
+
+Strength (with +12 class)
+
+35
+
+Fortitude (with +6 armor)
+
+20
+
+Dexterity
+
+6
+
+Wits
+
+8
+
+Resolve
+
+8
+
+Charm (with +1 armor)
+
+4
+
+CLASS TRAITS
+
+CLASS BONUSES
+
+Skeptic
+
+SUPPORT
+
+Identify common and uncommon items.
+
+Varangian Guard
+
+TANK
+
+Palace Pillager: Earn 20% more coins from fallen enemies when intoxicated.
+
+Marathon Man
+
+ROGUE
+
+Mad Dash: Lose 50% less stamina when running or jumping during or within 5 minutes of combat.
+
+Jaguar Knight
+
+TANK
+
+Protect the Elite: Intercepting an attack aimed for a teammate costs no stamina.
+
+Tijuana Tornado
+
+TANK
+
+Punching Bag: Take 10% less physical damage.
+
+Secutor of Rome
+
+TANK
+
+Emperor's Reprieve: 50% more resolve for 5 seconds after suffering a critical hit.
+
+Mountain Man
+
+ROGUE
+
+Trading Post: Sell consumables and accessories looted from enemies for 20% more.
+
+Call of the Matriarch (Chicago)
+
+POWER
+
+Beckon allies within a 1km radius. Allies receive a 25% speed boost as long as they are heading in your direction.
+
+EQUIPMENT
+
+EQUIPPED
+
+Flannel shirt
+
+TOP
+
+Fortitude: 5
+
+Resistance to elements
+
+Ability to quick-dry
+
+Double-headed battleaxe
+
+WEAPON
+
+Bleeding Slash, Fortified Block
+
+Metal prosthetic
+
+ACCESSORY
+
+Fortitude: 1
+
+Rustic Breeches
+
+PANTS
+
+Charm: 1
+
+ITEM INVENTORY
+
+IN INVENTORY
+
+Crippling Spikes Trap
+
+1
+
+Lesser Stamina Draught (+30)
+
+1
+
+Lesser Health Draught (+30)
+
+2
+
+Wits Draught (+5)
+
+1
+
+CARRIED
+
+Ink jar
+
+1
+
+Fountain pen
+
+1
+
+Scrolls
+
+2
+
+Herbs, roots, powders, liquids
+
+?
+
+RON: LEVEL 11
+
+Health
+
+80
+
+Stamina
+
+22
+
+Strength
+
+13
+
+Fortitude (w/ +11 class, +3 armor)
+
+35
+
+Dexterity
+
+6
+
+Wits
+
+3
+
+Resolve (w/ +3 armor)
+
+16
+
+Charm
+
+4
+
+CLASS TRAITS
+
+CLASS BONUSES
+
+Rastafari
+
+TANK
+
+Holy Bliss: Go to sleep intoxicated to gain 2x well-rested effect
+
+Desert Rock Star
+
+SUPPORT/
+
+TANK
+
+High Note: 20% physical damage reduction while playing music.
+
+New York Yank
+
+FIGHTER
+
+Strike Out: 50% chance to recover lost stamina after missing a melee hit.
+
+Tijuana Tornado
+
+TANK
+
+Punching Bag: Take 20% less physical damage within 5 seconds of a previous attack.
+
+Mountain Man
+
+ROGUE
+
+Trading Post: Sell consumables and accessories looted from enemies for 20% more.
+
+Call of the Matriarch (Chicago)
+
+POWER
+
+Beckon allies within a 1km radius. Allies receive a 25% speed boost as long as they are heading in your direction.
+
+EQUIPMENT
+
+EQUIPPED
+
+Leather Vest
+
+TOP
+
+Fortitude: 3
+
+Resolve: 3
+
+Reinforced Gittern
+
+WEAPON
+
+Sweet Serenade, Bash
+
+Gittern strap
+
+ACCESSORY
+
+Holds gittern
+
+Common Halberd
+
+WEAPON
+
+Bleeding Slash, Fortified Block
+
+UNEQUIPPED
+
+Common Halberd
+
+WEAPON
+
+Bleeding Slash, Fortified Block
+
+ITEM INVENTORY
+
+Lesser Stamina Draught
+
+1
+
+Lesser Health Draught
+
+1
+
+STAT DESCRIPTIONS
+
+Health: Measures how much damage you can withstand before death. Your mobility is not impaired until you reach 0 - wherein death will occur. Physical abilities may, however, be affected by status ailments, limb loss, blood loss, navigational hazards, and general demeanor.
+
+Stamina: Measures how much stress you can endure before you are temporarily downed. Each exerted effort and ability (aside from sorcery-based abilities) costs stamina. Again, your mobility is not impaired until you reach 0, in which case you will collapse. In this state, you will be unable to move or perform non-sorcery-based abilities until enough stamina points have been restored.
+
+Strength: Measures physical prowess. Affects your ability to exert physical influence on the world, such as pushing, pulling, lifting, and hitting. Required to unlock the full potential of strength-based weapons and abilities.
+
+Fortitude: Measures endurance and defensive aptitude. Affects your ability to withstand damage. Required to unlock the full potential of defense-based gear and abilities.
+
+Dexterity: Measures digital agility, accuracy, and balance. Affects your ability to move nimbly through the world. Required to unlock the full potential of dexterity-based weapons and abilities.
+
+Wits: Measures mental acuity. Affects your ability to apply sorcery and withstand sorcery. Required to unlock the full potential of sorcery-based weapons and abilities.
+
+Resolve: Measures resilience. Affects your ability to regenerate health and stamina as well as your ability to resist status ailments. Also affects your ability to withstand charm and trickery.
+
+Charm: Measures social influence. Affects your ability to haggle, negotiate, command, persuade, and deceive.
+
+[Earning 10 levels in an attribute awards another +3 proficiency to associated skills.]
