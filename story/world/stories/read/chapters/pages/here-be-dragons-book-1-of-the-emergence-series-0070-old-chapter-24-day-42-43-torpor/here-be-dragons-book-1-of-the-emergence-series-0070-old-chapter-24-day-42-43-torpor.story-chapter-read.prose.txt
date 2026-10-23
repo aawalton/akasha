@@ -1,0 +1,159 @@
+[JOURNAL ENTRY]
+
+Day 42,
+
+Apologies for the gap in entries, I will add these pages to my journal as I do not have it on my person at the moment. Please refer to the mission log entries for the events leading up to this point in time, this journal is for my personal thoughts.
+
+On day 40 I did not write an entry as I was honestly quite devastated by the destruction of the chronometer, which is admittedly a rather flimsy excuse given the recent events.
+
+On day 41, Fathom immediately tried to give me his own most valued treasure upon learning the chronometer had great personal value to me – the treasure in question being an iridescent ammonite fossil given by Abyss, his deceased mate.
+
+I believe dragons have a very strong sense of honor, or at least Fathom does. Whatever they deem permissible may not be precisely moral or ethical by human standards, but when something conflicts with their beliefs they do not falter, as evidenced by how he attempted to repay me for accidentally breaking his promise. It is quite an admirable trait if the entire species shares it, though I must wonder what is it that motivates Pathogen? Fathom obviously hates him because he got Abyss killed, but why did he fight Fathom to begin with? Did it start as a normal conflict?
+
+Fathom said that Pathogen was disappointed that he was not dead, and that any dragon who finds a deceased individual can claim their belongings. Finders keepers, I suppose.
+
+Pathogen obviously wants Fathom dead but does not want to challenge him in a death-fight. I assume that death by infection after a fight is something of a loophole in the draconic rule of not killing one another, though I’m not sure if any of them are actively exploiting it. Fathom did say Pathogen had challenged him many times but under the condition that neither harm the other too badly, this all does seem to point to Pathogen hoping Fathom would receive a fatal infection from one of those fights.
+
+Fathom also once said that dragons think dead animals make other animals sick, which while not entirely correct is true enough; any dragon could literally dirty their talons to increase the likelihood of them inflicting an infection upon their opponent.
+
+I cannot ask Fathom about this as he is still asleep, he did say he could sleep for 2 or 3 days, so I’m not worried yet.
+
+I worked on Fathom’s wounds from approximately noon of day 41 to the late morning of day 42, and by the time I woke up the sun was setting. I applied some more ointment and attempted to pour some water into his mouth, but he either did not drink any or drank so little as to be imperceptible.
+
+The most important things right now are hydration, nutrition, and antibiotics to prevent infection, especially as Pathogen might have intentionally tried to infect Fathom. Seeing as the latter two are not an option, I have poured 20 grams of a penicillin-water solution into his mouth in hopes that he can absorb some of it without imbibing any of it (a value obtained by scaling up the human dose/bodyweight ratio up to Fathom’s 4590 kilograms)
+
+With nothing else to do, I took Fathom’s temperature (by sticking the thermometer between his teeth and lips so that he couldn’t unconsciously bite or swallow it) measuring 31.45 degrees Centragrade[1], high for a human.
+
+I also attempted to listen to his heart rate, but the two extra hearts made things difficult. Still, I moved the stethoscope around until the beating was the loudest, and I recorded an average value of 30 bpm. The other two smaller hearts beat with the same frequency as the hydrogen heart, at 5 bpm. I’m not sure if this is mere coincidence or not, but I don’t have enough data for speculation.
+
+Respiratory rate was a slow 4 bpm, but that is not unexpected given the fact that his lungs are massive. His pupils also appear responsive enough, though I can only eyeball estimate it.
+
+I regret not recording Fathom’s body temperature and heart rate, but what’s done is done. I monitor these values and see how things change from here.
+
+I cleaned up the blood and grime left behind by Fathom’s wounds when the sun rose, though I obviously could not clean the floor under the dragon. Cleaning the cave and medical equipment ended up taking almost all day. I considered keeping some of the blood to study under a microscope back at the ship later, but it’s all contaminated anyway. I’ll just ask Fathom for a fresh sample when I need it.
+
+Speaking of going back to the ship, I’m pretty much stranded here until Fathom recovers, since going into the forest is basically a death sentence. If Fathom’s condition worsens, I may have to start making plans…
+
+Note: I’ve decided to name the heart rates major, upper minor, lower minor, and hydrogen, for reasons that I believe are self-explanatory.
+
+P.S. No significant change in Fathom’s vital signs throughout the day.
+
+Day 43,
+
+Vitals signs, sunrise:
+
+Respiratory rate: 5 bpmTemperature: 31.78 degrees[2]Major heart rate: 33 bpmUpper minor heart rate: 6 bpmLower minor heart rate: 6 bpmHydrogen heart rate: 5 bpmPupil dilation: Responsive
+
+Fathom has still not awoken, though his vitals are rising. This could mean he is beginning to wake up, but it could also be the beginning of a fever.
+
+Vitals signs, noon:
+
+Respiratory rate: 5.5 bpmTemperature: 31.93 degrees[3]Major HR: 35 bpmUpper minor HR: 6 bpmLower minor HR: 6 bpmHydrogen HR: 5 bpmPupil dilation: Responsive
+
+Pryce looked up from his journal, his brow creased with worry as he observed the slumbering dragon.
+
+At 33 degrees Centragrade it was advised to seek medical attention immediately.
+
+At 34.5 degrees Centragrade the brain began to suffer damage from the heat, and while Fathom was not human, Pryce was hard pressed to imagine that their biochemistry was different enough to avoid that consequence.
+
+He’d pressed his palm against the dragon’s scales to see if they felt warmer, but they had always felt warm – while it was technically true that the scales were warm, they were also a great insulator. Pryce could press his palm against the scale Fathom had given him and it would still feel warm, because it was bouncing the heat from his palm back at him.
+
+He wasn’t sure why the scales were such great insulators, the weather was warm, so wouldn’t heat dissipation be important?
+
+Pryce pulled his palm away and – he paused, noticing some odd movement. The hide seemed looser than before. He experimentally palpated one of the scales, and it indeed shifted more than normal, enough to shift past the overlap between scales and expose the rough skin beneath.
+
+That was fascinating, did their skin loosen to help dissipate heat?
+
+Pryce continued to observe Fathom, and in the next few hours the dragon’s scales began to lift up a little, just enough to give him a somewhat fluffed up appearance. A closer inspection showed that most of the scales were anchored by flesh, but perhaps a centimeter of scale around the rim was free to lift upwards much like human goosebumps – except it was not a vestigial function.
+
+He had some water left, so he climbed atop the dragon to pour water over the dragon’s torso to try and lower his body temperature. Then he realized it was probably more effective to use wet rags, so that was what he did next. It was a ridiculous sight to see a dragon with wet rags draped over his head and neck, but there wasn’t much else he could do if Fathom wouldn’t wake up.
+
+Pryce searched the rest of the caves and was surprised to find one that had a small stream running through it, so at least that was one problem solved. He spent the rest of that day ferrying water from the stream to the trough, then sanitizing it as he did before.
+
+Vitals signs, sunset:
+
+Respiratory rate: 6 bpmTemperature: 32.03 degrees[4]Major HR: 36 bpmUpper minor HR: 7 bpmLower minor HR: 7 bpmHydrogen HR: 5 bpmPupil dilation: Responsive
+
+Pryce rubbed his eyes, unsure of what to do. Fathom wasn’t drinking, and there was no other way to administer antibiotics except through the topical ointment, which he had used up today.
+
+His efforts to help cool him down seemed to have helped a little, but it only slowed down the rate of increase if at all.
+
+There wasn’t anything else he could think of to help. All he had was penicillin V, which was taken orally. Tests had shown limited effectiveness in humans if it were injected, and it wasn’t as if he had the materials to convert the pill into a saline solution either.
+
+If only he had some penicillin G, then he could give Fathom an intravenous injection. The ship didn’t store any penicillin G because it broke down after 5 days at room temperature[5], and the ship didn’t have a freezer as an electrical generator was not deemed to be a critical piece of hardware on this preliminary expedition.
+
+Pryce sighed, kneeling down to take Fathom temperature again just to see if it changed from the twenty-odd minutes since the last measurement.
+
+“What arre yoou doing?” Fathom slurred, eyelids slowly sliding open before his nictitating membranes slid to the side.
+
+“You’re awake?!” Pryce cried.
+
+“No, I am sleeping,” Fathom grumbled, lifting his head and hissing in pain as he did so.
+
+“Don’t move your wing!” Pryce snapped urgently. “I fixed your wing, but if you move it wrong now, you’ll never fly again!”
+
+Fathom slowly swiveled his head around to look upon his wings, where a patchwork of bandages and tape sat beneath the chain binding his left wing closed. The dragon instinctively shifted his wing against the chain, but quickly calmed upon hearing the human’s words.
+
+“How are you feeling?” Pryce asked.
+
+“Much pain, very warm,” Fathom wheezed, forcing himself up with a great effort.
+
+“Stop that, you’re going to rip open your wounds!”
+
+“I need to make things go outside my body,” Fathom grunted drily.
+
+“Oh…right, but be careful and use as little strength as you can.”
+
+Pryce prepared a dose of penicillin while Fathom was busy, mixing 20 grams of penicillin and some liters of water into the wooden bucket. “Drink this,” he said when the dragon returned. “This is penicillin, it will taste bad, but it will kill infection.”
+
+“Why does human medicine make pain?” Fathom whined.
+
+“Just drink it, even human children can drink this,” Pryce said, hoping to goad the dragon’s pride.
+
+Fathom huffed, but quickly drank the chalky liquid, then immediately drank from the clean water from the trough.
+
+“Good,” Pryce said. “You will need to drink this every 6 hours, sun set now, so drink some one or two hours before sun rises.”
+
+Fathom simply groaned in response, slumping into a dejected pile of scales.
+
+Pryce smiled, with Fathom conscious, things were looking up.
+
+Some questioning revealed that Fathom had a moderately sized store of what resembled smoked meats that he had made in case he was too injured to hunt. Pryce encouraged him to eat these despite his lack of appetite so that his body had the energy to fight off the infection.
+
+Pryce didn’t think these smoked meats were safe for human consumption, so he stuck with his dwindling supply of rations. He’d run out tomorrow, but he could try hunting some of the local wildlife; Fathom did say there was a population of blue lizards around somewhere.
+
+“Go to sleep, you need to not move to be healthy,” Pryce told the restless dragon.
+
+“I…want to use talons on my scales,” Fathom said, flexing said digits against the floor.
+
+“What does that – oh, your wounds itch,” Pryce said in realization. “Don’t scratch them, you’ll open them.”
+
+“Everything opens my wounds,” Fathom muttered, lashing his tail irritably – it was one of the few parts of his body that was free of injuries.
+
+Pryce sighed, sitting up from his pile of rags. “Where does it itch most?”
+
+He spent the next half hour scratching the areas around the wounds with his sanitized hands, and Fathom rumbled appreciatively whenever he scratched a bit of loose skin that was normally beneath scales.
+
+“Are you less itchy now?” Pryce asked, flexing his strained fingers.
+
+“Yes,” Fathom mumbled contentedly, sounding half-asleep.
+
+“What do you say…?” Pryce asked expectantly.
+
+“…What?”
+
+“What do you say when someone helps you?”
+
+“…thank you,” Fathom muttered.
+
+“Good.”
+
+“…And thank you for…helping me heal,” the dragon mumbled unexpectedly.
+
+“Oh, um…you’re welcome,” Pryce said, caught off guard by this extra nicety.
+
+“What is…welcome?” Fathom mumbled drowsily.
+
+“’You’re welcome’ is something you say to someone who said, ‘thank you’,” Pryce explained.
+
+But the dragon was already fast asleep.

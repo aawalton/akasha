@@ -1,0 +1,239 @@
+Supplementary Information
+
+Planetary Information:
+
+Planet
+
+Alt-Earth (In Real Units)
+
+Earth
+
+Mass
+
+4.77×1024 kg
+
+5.97×1024 kg
+
+Radius
+
+6371 km
+
+6371 km
+
+Gravity
+
+7.85 m/s2 (80% Earth gravity)
+
+9.81 m/s2
+
+Day
+
+24 hours
+
+24 hours
+
+Magnetic field
+
+20,000 - 55,000 nT
+
+25,000 - 65,000 nT
+
+Distance from sun
+
+1.1 AU (163.823 million km)
+
+1 AU (148.93 million km)
+
+Intensity of Energy received from Sun
+
+1124 W/m2
+
+1360 W/m2
+
+Atmospheric Pressure
+
+2 atm, 202.6 kPa
+
+1 atm, 101.3 kPa
+
+Atmospheric Composition
+
+85.92% Nitrogen13.31% Oxygen0.745% Argon0.015% CO2 & trace gasses
+
+78.08% Nitrogen20.95% Oxygen0.93% Argon0.04% CO2 & trace gasses
+
+Average Temperature
+
+18.1°C
+
+13.9°C
+
+Scientific Units:
+
+1 meter was Initially defined as 1/10,000 of the distance from equator to north pole, it was redefined to a physical bar of platinum-iridium alloy.(In the process of being updated to a constant number of wavelengths emitted by an excited noble gas)
+
+1 kilogram was initially defined as 1 liter (dm3) of water at max density.Currently defined as a mass of platinum-iridium alloy.
+
+NOTE: Mass =/= weightSince gravity is 80% earth gravity, 100 kg on a scale will show 80 kg.100 kg is still 100 kg on this planet, it just weighs less.
+
+World Map:
+
+Satellite Imagery:
+
+Ship layout:
+
+e·mer·gence
+
+(Definitions by Oxford Languages)
+
+(Definition by Wikipedia)
+
+The Horizon – a great seafaring vessel built by humanity with the purpose of exploring another continent. The ship had set sail with a crew of forty brilliant individuals poised to do what no one had done before.
+
+Twenty days later, only one remained.
+
+Doctor Alexander Pryce wracked his mind as he attempted to recall what little he had learned, but none of his training had told him how hard it was to stop a ship.
+
+The Horizon plowed through the waves with a tranquil ease that belied the severity of the situation. Why wasn't the ship slowing down? He'd already killed the engines minutes ago – did the ship just have so much momentum, or was it caught in some invisible current?
+
+Landing was of course a trivial task for a competent crew led by an experienced captain, but he was neither of those things; he hadn’t realized that something as simple as stopping might prove to be an issue.
+
+His periodic glances towards the west showed that he was close enough to see what appeared to be crabs on the pale sandy beach. Given time he would have taken note of the snow-capped mountains that towered above the forest, but in his current situation he only had time to register that there appeared to be no rocks or boulders on the beach that would threaten the hull of the ship. That was good, but he needed to find a way to slow the ship down.
+
+He could drop one of the anchors, but what if it snapped? For a moment he was torn by indecision, but damage to an anchor was far more preferable than damage to the hull. The ship was designed to withstand great punishment, and it had survived a hurricane of unprecedented strength along with a few leviathan attacks, but it was not designed to plow headlong into a beach.
+
+Decision made, he rushed to the nearest small anchor and wrenched open the lever that kept it raised. The chains rattled against each other in a sharp cacophony as each chain dragged its neighbor into the ocean, and after a few seconds –
+
+Pryce staggered as the chains snapped taut, killing the ship’s forward motion. In one instant the links were straining, and in the next they snapped free. Heavy iron links as thick as his wrist cracked against the hull of the ship, and soon afterwards Pryce was knocked off his feet before he could even think to assess the damage. The Horizon groaned as it hit the beach, its bow burrowing deep into the fine sand as the great vessel came to a halt.
+
+Once the ship ceased its movement, Pryce grit his teeth and forced himself up, his wrists a little strained but otherwise unharmed from the impact. Pryce limped his way to the bow and leaned over the side of the bulwark to inspect the hull. No visible damage, though the sand had covered the bottom of the ship, so he would not be able to see any damage from this vantage point. He mentally berated himself for wasting time in indulging his curiosity; he should’ve gone straight to the cargo hold to check for leaks.
+
+Pryce moved as quickly as he could to the bowels of the ship, which was to say he limped at the pace of a brisk walk. His body was far from recovered from its recent ordeals, and he quickly found himself gasping for breath.
+
+When he arrived at the lowest level of the ship he performed a thorough inspection of the hull, bow first. After an hour of tedious and tiring work he was greatly relieved to confirm the absence of any holes in the hull.
+
+If there had been any…well, it was good that there were none. The steel hull was three centimeters thick, having been designed to survive anything the oceans or the leviathans could throw at it, but if it was breached then repairs would be an extremely difficult task. For small leaks, the ship had a number of rubber plates that could be slapped onto the inside or outside of the hull using an adhesive, but he was grateful that they would not need to be used.
+
+Countless other concerns flooded to the forefront of his mind as he sat recovering, suffocating any remaining relief he felt. Pryce grimly recalled the series of disasters that befell the crew: The unknown, virulent, and untreatable disease that had ravaged the crew was followed by several leviathan attacks. It was almost unsurprising when the barometer plummeted, the diminished crew unable to properly prepare the ship for a monster of a hurricane.
+
+The weakened seamen were able to furl the sails and batten down the hatches, but some had not made it back below decks before the waves had swept them off. The remaining crew took shelter inside the cabins along with a supply of drinking water and imperishable foods to last a week, trusting in the thick steel hull to protect them.
+
+Instead, it became their casket.
+
+Titanic waves tossed The Horizon like it was a child’s toy in a bathtub, her incredibly sturdy design weathered the storm, but her sick and weakened crew did not.
+
+Except Pryce.
+
+He had been debilitated with seasickness a few days into the journey, meaning he had barely left his room at all. Out of caution he had worn a respiratory mask to protect his weakened body, which may have saved his life. By the time he had begun to recover from his seasickness he was one of the few showing no symptoms of the unknown disease – and as time passed, he became the sole uninfected crewman. Doctor Seibert had ordered all crewmembers to begin wearing masks and gloves at the first sign of illness, though it was likely too late by that point.
+
+As if that weren’t enough, a monstrous hurricane fell upon the crew, further worsening their condition. The constant crash of waves thrashed the entire ship, making eating, drinking, and sleeping an ordeal even for one not battling an illness.
+
+It was due to luck that he survived at all.
+
+He stared down the empty corridor of the ship, then down at his trembling hands. His vision blurred.
+
+Luck.
+
+Pryce opened the inside door, then turned the two heavy cranks to the ‘open’ position, and the hatch began to ponderously swing open along the hinge at the bottom. The ship’s crane had been used to load the ship’s cargo, so it was the primary method of unloading the ship as well. The very convenient device had been torn off sometime during the storm and was currently lying somewhere on the bottom of the ocean.
+
+He stepped onto the beach in the evening sun, his face set and grim. The beach looked normal enough, the trees along the beach appeared to be relatively normal, which was nice to see. He even saw some coconut palms, which supported the theory that the plants weren’t native to the Mainland.
+
+Aside from the fairly normal looking crabs that scuttled across the sand he saw no other creatures, and the sky was completely clear with a few wisps of cloud floating around.
+
+All in all, it looked quite familiar, which was reassuring at least.
+
+As for his location, he had no way of changing it. Even if he could steer the ship with any confidence, it had less than half the remaining fuel. He had decided to let down the anchors to ensure the ship wouldn’t drift away anytime soon.
+
+This beach would be his home for the foreseeable future, and now…
+
+It was time to bury his crewmates.
+
+His friends.
+
+The risk management team had taken a hurricane into account, and the fact that The Horizon survived at all proved they did a great job, especially given that no one had expected a storm the size of the one they had encountered. Were they common in this part of the world? Pryce dearly hoped it was just an anomaly.
+
+To deal with a hurricane, every crewman had modified hammocks that would in theory let them weather the storm, though the crew jokingly nicknamed them “cocoons” instead. They probably did their job well, protecting the crew from being thrown repeatedly into opposite walls by the waves, though the inhabitants had to inevitably leave to eat, drink, or to use the head.
+
+It was because of this that most of the crewmen had died in their cocoons, likely killed by the unidentified illness. Some may have been too sick to eat or drink, though Pryce had neither the time nor the stomach to perform autopsies on his friends.
+
+He was abundantly cautious and made sure to always wear protective medical equipment whenever he was outside of his room, and double checked everything again when he inspected the bodies of his comrades.
+
+Captain Williams seemed to have died early into the storm, judging by the…state of the body. He was a good captain, and Pryce took what little solace he could in the fact that he had not suffered very long. The rest of the officers were in a similar condition, they’d been exposed to the elements and were working the hardest, and the illness affected them most severely.
+
+Doctor Seibert was a brilliant medical practitioner; she and Pryce were the two head physicians on the ship. Her corpse showed little signs of decay, though the rigor mortis was no longer present. She had likely died a day or two ago.
+
+The other members of the crew were in varying states of decay, though on average they were less advanced than the seamen. A handful of men along with Mr. Russo, the cook, were found in various places outside of their quarters. Pryce guessed they had stumbled outside for one reason or another, and were unable to make it back to their rooms before perishing. A few bodies had severe bruising; they may have lost their footing as the ship was tossed about.
+
+Though Pryce had searched the entire ship, several men and women were unaccounted for. They weren’t seamen, so they should’ve been below decks when the storm struck. Perhaps they had gone out on deck and were swept into the ocean, delirious from sleep deprivation. He briefly wondered if they had any chance of survival, but soon discarded such hopes; it simply wasn’t possible for a human to survive being swept overboard in the midst of a hurricane.
+
+Seeking a distraction from the gruesome task, he deliberated over the illness that decimated the crew. Something didn’t add up; diseases were almost never so fatal, and the symptoms didn’t match up to anything anyone had ever seen before. It was almost like it made the infected individual more susceptible to the effects of seasickness, which could have weakened the body until the disease proved fatal.
+
+Pryce had little to support this theory, but it was the most sensible one he could think of.
+
+As he was moving the bodies, he noticed the cocoons were oddly colored, they had dark markings on them. Mold?
+
+Realization and nausea struck him at once. Fungal infections were immune to the effects of antibiotics, and they would thrive in dark, potentially damp areas of the ship, like the crew’s quarters. There might have even been some other pathogen that infected the crew at the same time, exacerbating the symptoms.
+
+If the disease had been fungal in nature, then there was nothing anyone could have done. Fungal infections were notoriously difficult to treat. Ultimately, there was nothing he could have done.
+
+Pryce wasn’t sure how he should have felt about that.
+
+As he worked, a grim question occurred to him: where was he going to bury the bodies? It was a question that needed answering, however unpleasant it may be.
+
+The ship had pygmy pigs and chickens aboard for livestock, though many had not survived. Much of the animal feed had spilled, but that didn’t make it inedible, and fortunately they got their water from rubber nipples else the contents would have been spilled by troughs long ago. In the end, 4 out of 6 pigs had died, along with 7 of the 12 chickens. All of the males had died, so he wouldn’t be breeding any more of them, but that wasn’t much of a concern.
+
+Disposing of the dead livestock was as simple and as strenuous as leaving the partially decayed pigs and chickens out on the beach, but that wouldn’t do for his crew.
+
+He couldn’t bury them in the dirt, that would take weeks of digging by himself and the bodies would all rapidly decay in that time. Sand was much more feasible, though there was the risk of the winds unearthing the graves one day. Either way, that was something he would worry about later though; the sun had just gone down.
+
+He swayed on his feet as a wave of exhaustion hit him; he had almost forgotten that he was still malnourished and sleep deprived.
+
+In the galley he made himself a simple soup with some dried herbs, onions, potatoes, and dried meats. His stomach had not had solid foods in it for days now, so he would have to start off with only drinking the broth, no matter how much he felt like tearing into the not-quite-tender boiled salt beef.
+
+The simple soup was easily the most delicious thing he’d ever eaten, though the lack of solid food was somewhat unsatisfying. Pryce knew the effects malnourishment had on the brain and body, though he had never experienced it himself; he could probably eat anything even remotely edible and still find it delicious.
+
+Once he’d finished three bowls of broth his hunger was finally sated, and suddenly he became extremely exhausted. He left the galley for his room, though not without giving the vegetables and meat in the stew a longing glance.
+
+Pryce stumbled to his room, already half asleep, but when he opened the door to his room he was suddenly torn from his stupor. The small room was a mess – the stench of dried vomit permeated the air, and for a moment he was back in the storm again, being tossed around like a ragdoll. Then he started, and remembered where he was; he was not in the storm, and the floor was not moving beneath him.
+
+He slammed the door shut and fled from the room. He was hyperventilating, he realized, and with difficulty he was able to force his breathing to slow.
+
+He glanced at the door – his door – one more time, and left.
+
+In the end he decided to take the room of the first man to die on their journey, a seaman by the name of Henry. He was jovial and well-liked, but his guileless nature led to his demise when he fell overboard. The ropes weren’t cast out in time, and despite several seamen watching him, not a single one saw what finally pulled him under. The tragedy had sobered the crew considerably, and everyone took their duties with even greater dedication afterwards.
+
+Henry’s room was empty and clean, his belongings long since stored in the cargo hold for his family, if he had any. Pryce set up a relatively clean hammock and settled into it, then groaned and forced himself back up when he realized he forgot to take his latitude. If he didn’t read it now, he’d have to take a reading tomorrow night…tempting, but his curiosity won over his exhaustion.
+
+Pryce lit a lantern, grumbling and muttering profanities while limping down the hallways and climbing ladders until he was out on the deck of the ship. He quickly sighted the North Star and jotted the latitude in his notebook, and made four more observations for accuracy’s sake.
+
+Average reading: 15.4° North.[1] He had half of his proper location now, and by noon tomorrow he would have his exact coordinates.
+
+Pryce entered the wheelhouse, where he knew the biggest map on the ship was located. Despite the dim lighting in the room, he knew the image there well enough that he could see it as clearly as if it were in broad daylight.
+
+It was a symbol of humanity’s achievement, as well one of hope. He was sure there wasn’t a single human adult in existence who hadn't seen this image.
+
+Now it was almost mocking him; he had once dreamed to be one of the first humans to step foot on this foreign land, and now he was the first and only one to do so – with no way of returning.
+
+He had his latitude, and really there was only one possible place for him to be: the east coast, but for the sake of clarity he held off on marking his position until he calculated his longitude.
+
+Pryce walked back outside with a heavy heart, and took a deep breath before looking up at the bright moon in the twilight sky. It was somewhere between the waxing crescent and quarter–moon phases, though the shadowed section of the moon was higher, almost on top of the natural satellite – different from the familiar slanted shadow. He’d known that this effect had been long since calculated mathematically, but to see it in person was something else entirely. Pryce stared for a full minute at the beautifully familiar-yet-not sky before him, wishing that it was a sight he could’ve shared with the crew.
+
+For a moment he allowed himself to indulge in the fantasy that he was simply taking a breath of fresh air while they all slept belowdecks, but no matter how dearly he wished otherwise, the reality was he was alone here on this beach, his only company being The Horizon herself and the pigs –
+
+Pryce quickly leaned over the bulwark; two of the pigs were missing. He could see his own footprints leading up to it, but no pigs. It wasn’t surprising for the old carcasses to have been scavenged, but so quickly, with no trace left behind?
+
+He went back down to the ramp leading to the beach, arming himself with a hunting rifle with a magazine of six 12 mm bullets – the highest caliber available, and a machete. Several minutes later he stood before the door and cracked it open by a hair, then waited.
+
+Five seconds. Ten. Twenty. Thirty. His breathing and pulse slowed, but remained steady at a rate significantly higher than normal.
+
+No sound other than the waves, he slowly pushed the door open and stepped outside, rifle first. The beach was empty. No sign of the pigs, though the chickens were untouched. Pryce slowly made his way to where he remembered setting down the animals, keeping his eyes trained on the forest about fifty meters from his position. He knelt down, keeping his rifle up and examined the sand beneath him.
+
+There were no footprints or tracks, or at least any that he could tell belonged to an animal familiar to him. No, that wasn’t quite right, there was one track; a single long furrow of sand, one fainter than the other. The sand around him was also distributed oddly, it looked like…what did it look like? The sand seemed to have formed twin swirls. It was almost like the vortices that sometimes appeared in the wake of a ship, he realized.
+
+A strange dragging track, with no footprints. That meant a creature capable of flight had picked the pigs off the ground. Not only that, but the long furrow – was it left by a dragging tail? If true, that indicated the creature had only completed a single pass.
+
+Something that could fly and carry two pigs at once, each creature weighing in at about a hundred kilograms.
+
+*Clunk*
+
+Pryce cranked the ramp back up, pulled the levers that locked it back into place, and then locked the door for good measure. He resolutely limped all the way back to his new room, where he promptly collapsed onto the hammock, where exhaustion saved him from a fitful and restless sleep.

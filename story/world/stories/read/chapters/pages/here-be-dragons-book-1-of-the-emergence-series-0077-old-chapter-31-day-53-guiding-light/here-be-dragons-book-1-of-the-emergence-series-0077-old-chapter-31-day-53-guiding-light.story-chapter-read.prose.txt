@@ -1,0 +1,251 @@
+Pryce decided to teach Fathom more about light while they were on the subject, but he had to introduce some other concepts.
+
+"You know that sound has speed, right?"
+
+"Yes, sound go very fast," Fathom nodded.
+
+"How did dragons learn this?" Pryce asked, curious.
+
+"If one dragon roars and another dragon far away roars back, then there is some time between roars. This will not happen if sound goes very very fast."
+
+"What do you think sound is?" Pryce probed, ignoring the amusing thought of two dragons baffled by the minor time delay in their communications.
+
+"Sound is..." Fathom sighed. "Do you need to ask me things? Can you not just tell me?"
+
+"This is like trade, you give me your guess, I give you answer."
+
+"You said humans give information, not trade information," huffed the dragon.
+
+"Humans can do both, and you don't learn as good if I just tell you answer. I want to see what you think."
+
+Fathom rumbled in thought for a moment, then answered, "I think sound is not particle, like light. Some dragons think sound is like wind, but wind sometimes go fast, sometimes go slow," he spoke out loud slowly to gauge Pryce’s reaction.
+
+"Keep going," Pryce encouraged, stone-faced as to not give away any hints.
+
+"Sound is not like ocean wave either, some wave go fast, some wave go slow, and speed of sound in water is much faster," Fathom said experimentally.
+
+"Wait how do you know speed of sound is faster in water?" Pryce asked.
+
+"We go underwater, hear sounds go very fast," Fathom stated obviously.
+
+"...Right, but you float on water, how do dragons go under water?”
+
+“How do you think we go underwater?” Fathom asked snidely.
+
+Pryce chuckled, supposing that was fair. “You can grab rocks and sink, but why do you go underwater? To hunt?”
+
+“…Yes,” Fathom grumbled, sounding a little disappointed that Pryce had guessed correctly so quickly. “I do not know what sound is, is sound like ocean waves?”
+
+“Close enough," Pryce shrugged. "Sounds are very much like ocean waves, so we call them sound waves, but they are not the same.”
+
+“Dragons think speed of sound is maybe around 300 or 400 meters per second, is this right?” Fathom asked.
+
+“340 meters per second, did they measure the speed of sound by roaring?” Pryce asked, wondering if they used a visual cue to time the events.
+
+“Yes, one dragon roar and lift wings at same time, another dragon far away measures beats, but sound is very fast, hard to measure.”
+
+“That makes sense,” Pryce said, then smiled. “How fast do you think light is?"
+
+“Light…has speed?” Fathom blinked. “Light does not reach thing in zero seconds?”
+
+“No, when a number is so big that it does not end, it is called ‘infinite’, and the speed of light is not infinite,” Pryce explained. An astronomer centuries ago had found proof that the speed of light was finite when he realized the eclipses of the Jovian moons occurred sooner when Earth was closer, and later when Earth was further away. It made sense that dragons wouldn’t know the speed of light was finite, because it was so fast that they had no cause to believe it was anything but instantaneous.
+
+“Do you want to guess how we measured the speed of light?” Pryce asked amusedly. “I’ll give you a hint, which is like help; we used mirrors.”
+
+“Mirrors…” Fathom muttered. “Did you use two mirrors to make light go long distance?”
+
+“Good idea, but one human measured light over 100 years ago. We did not have very strong light at that time, and light gets weaker every time it hits a mirror.”
+
+“Strong light?” Fathom asked.
+
+“Yes, we have machines that make light much stronger than lantern light or fire light,” Pryce explained. They hadn’t brought any on the ship because those devices were less reliable and required refined fuels, but the technology was not new. He also remembered that limestone could be made into lime, which shone very brightly when heated to high temperatures. Perhaps Fathom could help him with that experiment later.
+
+“Do you want me to tell you?” Pryce asked five minutes later.
+
+“No,” Fathom grunted stubbornly as he absently scratched lines into the ground.
+
+“Do you want a hint?”
+
+“…”
+
+Pryce took the prideful silence as an affirmative. “I’ll give you a hint, light hits a mirror three times, and only one mirror is moving.”
+
+Fathom gave no indication that he heard, save for stopping all movement. “One mirror is moving…” He muttered, then pushed himself upwards with marginally less difficulty than he had a day ago. “You stay here,” the dragon said, and returned a minute later with the mirror Pryce had given him.
+
+Fathom was moving around more easily now, and Pryce didn’t think the stitches were going to rip at this point in the healing process, so he let the dragon get what little exercise he could for now.
+
+The mirror seemed rather small when held in Fathom’s talons, and the dragon immediately used it to reflect a beam of sunlight across the ground. His eyes tracked the spot of light easily, even as he pivoted the mirror faster and faster.
+
+Fathom mumbled something in his native tongue that Pryce could not understand, except for the word ‘mirror’.
+
+“You said light hits a mirror three times, how many mirrors does the light hit?” He asked half an hour later, frustrated enough to ask for a hint.
+
+“Two,” Pryce said, wondering in amazement if he was actually figuring it out.
+
+“If I move this mirror into sun, sunlight will hit mirror and go there,” Fathom said, gesturing a projected path. “If I have another mirror there, light will come back, then you can use time difference to measure speed of light?”
+
+“When light hits a mirror, that is called ‘reflect’. Your idea is good, but light is too fast, this idea will not work.”
+
+Fathom pondered this for a few moments, then proposed, “What if I spin mirror very fast, light hit first mirror and reflect to second mirror, when light come back and hit mirror, mirror is spinning, so light will reflect in different direction?”
+
+“Yes!” Pryce cheered, arms spread. “This is how we measure light,” he said, showing the excited dragon his drawing of the setup.
+
+Fathom couldn’t read yet, so Pryce had to explain which parts of the diagram represented the mirrors and light, and how the left diagram occurred before the right diagram.
+
+“There will be a small light here,” He said, tapping on the + in the right diagram. “We know how fast the mirror spins, so we can know how much time has passed since light hit the first mirror. That time is how much time it takes for light to travel this distance,” Pryce traced the path from mirror #1, to mirror #2, back to mirror #1, and then finally to the + sign.
+
+Later iterations of this experiment were a bit more complicated and more accurate, but the core principle was the same.
+
+“…How far is plus-word from where light start?” Fathom asked.
+
+“I don’t remember, but light is very fast. Distance from mirror #1 to mirror #2 is probably over a kilometer, and distance from where the light starts and where the light ends is probably less than a centimeter, even if the mirror is spinning hundreds of times per second.”
+
+“I think I understand…” Fathom trailed off, before bracing himself to ask, “how fast is light?”
+
+“The speed of light is around 299,800 kilometers per second[1].”
+
+“T-two-hundred-ninety-nine thousand kilometers per second?” Fathom choked. “This is two-hundred-ninety-nine million meters per second? Not per minute? Or hour?”
+
+“Really fast, isn’t it?” Pryce said, crossing his arms nostalgically as he remembered being in awe at the sheer speed of light when he had first learned it long ago. “Light from the moon goes to Earth in 1.2 or 1.33 seconds.”
+
+“Light…yes, if light speed is not infinite, then…sunlight takes time to go to Earth!” Fathom exclaimed, spines rising in dawning realization. “How much time for sunlight to go to Earth?” He asked before Pryce could say anything.
+
+“…I was going to teach you how humans find distance between sun and Earth first,” Pryce sighed. “But if you want to know right now, it takes sunlight 9 minutes to reach Earth at the soonest, and 9 minutes 18 seconds at the latest. That means Earth is 161 million kilometers to 167 million kilometers away from the sun.”
+
+“…but if sun is very far away, then it is-”
+
+“Very big, yes,” Pryce finished for him. “The sun has a diameter of 1.4 million kilometers.”
+
+“I…cannot understand this,” Fathom said faintly. “The diameter of the sun is more than 109 times bigger than the diameter of Earth?”
+
+“…yes,” Pryce confirmed after a moment’s thought.
+
+Fathom took a deep, long breath, slumping as he did so.
+
+“Are you okay…?” Pryce asked.
+
+Fathom tilted his head from side to side, something Pryce learned was the draconic equivalent of a disheartened shrug. “Dragons fight for thousands of years, we gain treasures, trade treasures, and some of us have eggs…but we do not know things. We do not know size and distance of moon and sun, we do not know what sound and light is,” He hung his head despondently. “All we know is that sun is fire.”
+
+“Well…” Pryce was forced to awkwardly admit that the sun was not a giant ball of fire.
+
+“What.”
+
+“Humans think the sun was fire too, for long time. But we do science and know that Earth is more than one billion years old, so sun cannot be burning. If sun was burning, the fire would die in a few thousand years.”
+
+“One billion years,” Fathom echoed, devoid of inflection.
+
+“Ah…um…” Pryce stammered, not having intended to let that slip.
+
+“The sun is not burning, dragons are not like the sun?”
+
+“Well…the sun is made of hydrogen, is that better?” Pryce asked weakly.
+
+Fathom continued to stare blankly, so Pryce took that as a ‘no’.
+
+“The sun is made of hydrogen that is very hot, hydrogen flames are around 1,700 degrees Centragrade[1], but the sun is around 4,500 degrees Centragrade[2],” Pryce tried to see if this would cheer him up.
+
+The dragon perked up a little at this, so Pryce elaborated. “You remember how we have solid, liquid, gas? If solid gets hotter, it becomes liquid. If liquid gets hotter, it becomes gas. If gas gets hotter, it becomes plasma. The sun is made of hydrogen that is plasma.”
+
+“Sun is like…more fire than fire?” Fathom said, looking cheered by this piece of information.
+
+“It is much hotter than fire,” Pryce nodded.
+
+“That is…good. Better than what I think before,” Fathom said.
+
+“Past tense of think is ‘thought’,” Pryce corrected. That one had been bugging him for a while, but there never seemed like a good time to bring it up.
+
+Fathom flicked his spines in annoyance. “Past tense of think is not thinked? English is stupid.”
+
+“Yes, I know,” Pryce said drily. “Also, don’t feel bad about dragons not learning anything, humans are the same, we spend thousands of years learning very slowly and learning very little.” Fathom looked surprised at this, so Pryce added, “Well, humans fight each other too. A lot,” he confessed. “Probably more than dragons,” he added, which drew a skeptical gaze from Fathom.
+
+“Humans fight?” Fathom asked, inspecting Pryce’s comparatively diminutive frame with a doubtful eye.
+
+“Yes, we fight. Even if we are very small, we fight a lot. Before I was born, there was a big fight, we call big fights wars. Hundreds of thousands of humans fight each other, and many millions of people die.” Those millions of deaths were technically a result of famine borne of war, but it was still the root cause.
+
+“Millions die?” Fathom hissed, aghast. “Why do humans fight?”
+
+“Humans fight for territory, for treasures, and because one group of humans think another group of humans is bad, or that they think differently.”
+
+“Think differently?” Fathom asked, confused by this last item.
+
+Pryce hummed for a moment as he wondered how to explain ‘religion’.
+
+“When something is true, it is a fact, but if someone only thinks something is true, it is a belief. Beliefs can be right or wrong, and humans have many different beliefs. Some humans believe in things that explain what made the world, or things that explain what happens to someone after death.”
+
+“What?” Fathom asked, looking torn between which of the two statements to ask about first. “There is a thing that happens after death?”
+
+“Well, no, or at least I don’t know,” Pryce shrugged. “Science cannot find anything that happens after death. All science knows is that when someone dies, they are gone.”
+
+“Yes, this make sense, dragons…believe life is like fire. We believe when someone dies, it is like how a fire dies; it is gone….am I using this word right?”
+
+“Yes, that’s right,” Pryce nodded, unsurprised. Humans placed a great meaning in fire, and they couldn’t even breathe it.
+
+“Then…what made the world?” Fathom asked, looking uncertain at this vague notion.
+
+“Many people believe in things called ‘gods’, and they think that these gods created everything,” Pryce explained, and quickly added before Fathom could ask, “Gods are not in this world, you cannot see or hear them, but humans believe in them anyway.”
+
+“I do not understand any of this,” Fathom grumbled discontentedly. “Dragons believe what we see; no one believes they know who created the world, and we do not care if someone thinks different. Why do people fight because of belief?” Fathom asked, tilting his head nearly sideways in confusion.
+
+“I don’t really know,” Pryce shrugged, smiling sadly. “But maybe I shouldn’t have mentioned beliefs; most wars were fought because people wanted more territory, more treasures, or more power.”
+
+“That makes more sense, but what is power?”
+
+“Power is hard to explain,” Pryce hummed, “Power is anything that lets you do things. People who are strong, or people who know many things, or people who have many things can all have power.”
+
+“…in your journal, you said ‘don’t blindly trust them either; we can be not great sometimes.’ What is ‘blindly’ and ‘great’?”
+
+Pryce was used to the dragon’s amazing memory by now, but he couldn't help but be impressed – and a little envious – no matter how many times the dragon demonstrated it. “Blind is when someone cannot see, like if they have scars on their eyes. Great means very good, or very big, or a lot.” Fathom shuddered upon hearing the former, blinking his own eyes sympathetically.
+
+“You mean…humans do bad things?” Fathom guessed.
+
+“Sometimes. Some humans are very good, some humans are very bad. Most humans are okay.”
+
+“If some humans are not very good, why do you want to help them so much?” Fathom asked, confused.
+
+“…I need new words. ‘Chance’ is the word for the time to do something, and ‘deserve’ means someone should have something.” Pryce said, wishing he had explained this word earlier. “I think every person deserves the chance to be good.”
+
+“Deserve…this is a strange thing. What can people deserve?”
+
+“Well, humans have lots of things we think people deserve to have, the more important ones are things like ‘freedom’, which means no one can make you stay in one place, or do what you do not want to do.”
+
+“Humans think you should have ‘freedom’, but will kill others because they think differently?” Fathom asked, perplexed by this contradiction.
+
+“There haven’t been any wars since I was born, and freedoms are a…young belief,” Pryce said, struggling to explain these complex concepts. “Dragons protect eggs, right?” He asked, changing tactics.
+
+“Yes, why?”
+
+“So you think the egg deserves to hatch?”
+
+“…yes, I think I understand ‘deserve’ now,” Fathom said slowly. “But egg is not a dragon. Dragons do not think other dragons deserve things.”
+
+“What about honor? If you make trade, you think the other dragon deserves to keep the thing? Do you think a dragon that wins a fight deserves treasure?”
+
+“Yes, yes, I understand now,” Fathom grumbled irritably. “So ‘blindly trust’ means ‘always trust’?”
+
+“Yes, that’s right. Humans can have many different beliefs, and many people are not like me; they will be scared by you, because you are strong and different.” Fathom seemed to take this more as a compliment than anything, so Pryce added, “Please be careful. If I am not there to explain that you are not dangerous, then other humans might try to shoot you with a rifle.” He withheld the information that dragons were mostly depicted positively in most myths and legends, being benevolent and sometimes divine beings, but it was better for Fathom to be cautious than to surprise a group of humans and get himself shot.
+
+“…I understand,” the dragon grumbled seriously, much less enthused by this unpleasant possibility. “If many humans are scared of things that are different, then why are you different from them?”
+
+Pryce scratched his neck, unsure if he even really knew the answer. “I was more curious than I was afraid of you, I guess.”
+
+“Yes, it was confusing, but it makes sense now,” Fathom noted offhandedly, confusing Pryce until he clarified, “When I first met you, you seemed scared, and I was not sure why you came closer instead of running away,” The dragon yawned widely, his jaws opening to nearly a right angle.
+
+Pryce stifled his own yawn to say, “I will go hunt something, you can go to sleep now.”
+
+“Go hunt, and be careful,” Fathom murmured, tucking his head under his right wing to go to sleep.
+
+[JOURNAL ENTRY]
+
+Day 53,
+
+Fathom appears to be mostly recovered from the fever, and his wounds are healing well. I should be able to take the stitches out on the morning of day 56, as planned.
+
+I both learned and taught much today. I'm not sure if Fathom really understood what I said about humans, but I can’t blame him for that. It would be difficult to perceive a sapient race the size of my arm to be a violent one.
+
+I think I’ll teach him about – damnit, I forgot to ask him about the second type of flame he used in his fight against Pathogen. Fathom’s asleep now, so I’ll pester him about it tomorrow. Come to think of it, ‘breathe fire’ isn’t a very accurate term. They’re definitely not inhaling it, so perhaps I should refer to it as ‘expelling fire’.
+
+Speaking of the dragon, the glutton is rapidly depleting all the soup stock I have. I both anticipate and dread the day he gets to eat some quality human cuisine.
+
+Vitals signs, sunrise of Day 53:
+
+Respiratory rate: 6 bpmTemperature: 30.76 degrees[3]Major HR: 33 bpmUpper minor HR: 5 bpmLower minor HR: 5 bpmHydrogen HR: 5 bpmPupil dilation: Responsive

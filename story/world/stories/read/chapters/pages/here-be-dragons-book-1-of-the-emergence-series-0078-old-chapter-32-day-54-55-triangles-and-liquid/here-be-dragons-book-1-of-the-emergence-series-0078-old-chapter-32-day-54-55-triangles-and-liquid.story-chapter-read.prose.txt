@@ -1,0 +1,259 @@
+Fathom heaved a sigh of great relief when Pryce informed him that this was the last day he had to take any medicine. Though this happy mood was immediately ruined by Pryce cheerfully presenting him his fourth-last dosage.
+
+“I want to talk about your fight with Pathogen,” Pryce said after Fathom had finished choking down the concoction. Normally they sat outside to get some fresh air, but today they took shelter from the pouring rain inside of Fathom’s home. “You use a different type of fire than hydrogen fire.”
+
+“Yes?” Fathom said, tossing his head as if he could shake off the bitter taste of medicine.
+
+“And you didn’t tell me?!” Pryce asked incredulously.
+
+“…I forgot,” Fathom said a little sheepishly. “That fire is called liquid fire.”
+
+“You were far away when I saw you use it, so I did not see it very well. What can you tell me about liquid fire?”
+
+“It’s…liquid fire,” Fathom said, sounding like he was asked to justify the purpose of his talons. “We can mix liquid fire and hydrogen to start liquid fire, using spark. We use this to fight other dragons, a dragon can only use liquid fire one long time or some short times.”
+
+“I see,” Pryce said, a little disappointed by the lack of information, but he’d expected as much. The liquid fuel was probably some complex mixture of chemicals, and even if he could determine its composition that task would be of little importance.
+
+“Do you have anything you wanted to ask?” Pryce queried, glancing out the mouth of the cave to see that the rain had not let up.
+
+“Yes, you did not say how you find the distance of the sun.”
+
+“Oh, that’s easy. Kinda,” Pryce amended. “Remember how we used the same triangles to measure distance between Earth and moon? We do the same thing, but we draw a triangle like this,” Pryce explained, sketching the diagram on his notepad while Fathom watched curiously.
+
+“Hypotenuse is the longest length, the adjacent is the length closest to the angle we are looking at, and the opposite is the only one left,” Pryce explained. “This symbol here is theta, and this is theta-one. Theta is the symbol for angle, which we can measure easily. We have angle and distance from Earth to moon, so we can make a second triangle that has the same angles, but with different lengths. I don’t remember what theta-one is, but if it was 89 degrees then we would get a triangle like this:
+
+“The number you get from dividing hypotenuse by adjacent has to be 0.0175 when the angle is 89 degrees. Humans calculate many numbers and write them down,” Pryce said, showing Fathom his trig tables. “All triangles with the same angles will have the same numbers when you divide the same type of length by the same type of length. Now, we have the value for adjacent/hypotenuse for our second triangle, so we can do the same thing we did to find the length between the Earth and the moon.”
+
+He had to explain the written mathematical notation, but Fathom grasped them all easily, as expected.
+
+“So, if our angle is 89 degrees, we get a distance from sun to Earth of 21,714,286 kilometers, that means the angle that the other humans measured is higher than 89. I do not remember which number it was,” Pryce said apologetically.
+
+“…humans like triangles very much,” Fathom muttered, eliciting a chuckle from Pryce.
+
+“Triangles are very useful in math,” Pryce replied.
+
+“You can do this with all triangles?” Fathom asked thoughtfully.
+
+“No, only triangles that have one angle that is 90 degrees, those are called right angles,” Pryce said, pointing at the diagram. “We can only draw a right triangle when the moon is half full.”
+
+“I understand, can you do other triangles now?”
+
+Pryce showed Fathom several more examples by using randomly drawn triangles, showing how he could calculate any length or angle of an unknown triangle so long as he had the right information.
+
+“Sine is the name of the ratio you get when you divide opposite by hypotenuse, cosine is the name of the ratio you get when you divide adjacent by hypotenuse, and tangent is the name of the ratio you get when you divide opposite over adjacent.”
+
+“Makes sense,” Fathom said easily.
+
+Pryce raised an eyebrow, then drew up a problem for Fathom to solve.
+
+“Yes, that’s the right answer,” Pryce confirmed, impressed.
+
+The dragon solved the practice problem Pryce sketched into the sand with ease, only stopping to clarify a number that Pryce had drawn a little sloppily. It seemed the hardest part for him to do was to read the tiny tables in Pryce’s handbook, and even that only took a second to read with his eyesight.
+
+“Are all dragons good at math like you?” Pryce asked, wondering when he would have to start teaching Fathom calculus.
+
+“Maybe? We use math to trade things, and not for this, but it is just multiplication and division,” Fathom said casually. “Is this hard math?” He asked, preening as he did so.
+
+“Not hard, but not easy. Human children learn this when they are…ten or twelve years old?” Pryce said, scratching his head. He wasn’t sure if the curriculum had changed much since his early days.
+
+“When are human children adults?” Fathom asked.
+
+“When they’re 18 or 20 years old,” Pryce answered.
+
+“This is old,” Fathom said, flicking his spines in mild surprise. “Humans do not live long, I thought you maybe become adult in less years.”
+
+Pryce shrugged. ”Yeah, it is pretty old. Humans take a very long time to become adults, most animals take less than 5 years. We think children needing so many years to grow up is one reason why humans live together, so we can protect and help each other.”
+
+Fathom hummed, probably thinking about how different this was to the draconic way of child-rearing.
+
+“Do hatchlings see any adult dragons? Other than their parents, I mean.”
+
+“If parents trade or fight with other dragons, yes,” Fathom said, lifting his spines in what seemed to be an approximation of a shrug. The dragon was still unable to shift his wings properly, and the restriction seemed to be getting on his nerves.
+
+“I can take the chain off for a little bit if you do not move your wing,” Pryce offered.
+
+Fathom stared at his wing longingly for a few moments, but he eventually declined. “I want my wing to heal good,” he said stoutly, impressing Pryce.
+
+Then he ducked his head a little awkwardly to ask, “...my wing is itchy, can you help scratch?”
+
+[JOURNAL ENTRY]
+
+Day 54,
+
+It rained hard most of the day today, so I taught Fathom some more math inside his cave home. He grasped trigonometry with ease, which makes me wonder what level of math would make him struggle? I’ve only used simple calculus these past few years to model the half-life of drugs…maybe I should brush up.
+
+He slept most of the day today, not because he’s sick, but apparently rainy weather makes dragons drowsy. It’s not hard to imagine why that is; some humans have that same instinct.
+
+I’m going to need something to occupy Fathom with while his wing bone heals. His appetite is returning with a vengeance, and I can’t keep up. I wonder if he can hunt on the ground? If not, I can feed him food from the ship; there was originally enough food to feed a crew of 40 for 2 months. Even if it doesn’t taste very good, it should be enough to last him awhile.
+
+I’ve been thinking about the future lately, long-term plans and the like. I don’t know what to expect, but I’ll need Fathom’s help either way.
+
+Vitals signs, sunrise of Day 54:
+
+Respiratory rate: 6 bpmA case of theft: this story is not rightfully on Amazon; if you spot it, report the violation.Temperature: 30.74 degrees[1]Major HR: 30 bpmUpper minor HR: 5 bpmLower minor HR: 5 bpmHydrogen HR: 5 bpmPupil dilation: Responsive
+
+Note: Now that he’s mostly recovered, I’ve decided to compile Fathom’s vital signs in a separate notebook so that further measurements do not clutter this journal.
+
+[Day 55]
+
+“I have an important question,” Pryce prompted. He’d spent yesterday afternoon and this morning teaching Fathom how to use more past tenses, hopefully that would make this conversation easier.
+
+“Ask,” Fathom invited, tilting his head curiously.
+
+“What do you want to do in the future?”
+
+“Future?” Fathom asked, looking a bit lost at this vague question. “I want to fly,” he said candidly, glancing at his wing.
+
+“After that.”
+
+“I want to kill Pathogen,” Fathom said, in that same casual tone.
+
+“...have you killed any dragons before?” Pryce ventured. Human history may be a bloody one, but that didn’t mean he would support a quest for vengeance.
+
+“...No,” Fathom admitted reluctantly. “I beat many dragons, killed many animals, but have not killed dragons.”
+
+“Do you need to kill Pathogen?”
+
+“Very much yes!” Fathom said, flicking his spines irritably. “This is obvious.”
+
+“...do you think Pathogen will come back and try to kill you?” Pryce asked.
+
+“No, he is like a raptor - a coward,” he amended, using the new word Pryce had taught him. “He usually only fights small fights, the last fight was strange.”
+
+“I think I know why he does small fights, but I’m not sure,” Pryce confessed.
+
+“I just told you, it is because he is a coward,” Fathom huffed dismissively.
+
+“I think he was trying to give you an infection.”
+
+Fathom blinked at this concise summary.
+
+“Think about it, he knows Abyss died from a small scratch. Infection is caused by bacteria, so if he makes his talons dirty, he can give someone an infection.”
+
+“But…he hurt me before, I did not get an infection like this in the past,” Fathom said, slow and uncertain.
+
+“Once you get better from an infection, your body knows how to fight that type of bacteria, and you will not get very sick next time that bacteria goes into your body. This is called immunity,” Pryce explained. “Sometimes people get infected by a type of bacteria that is like another stronger type. When they get better, the body knows how to fight both types of bacteria.”
+
+“This is interesting, but why are you explaining this?” Fathom asked.
+
+“Pathogen doesn’t know what he’s doing, I think he’s just fighting you with bacteria on his claws and wanting you to get infected. Maybe you were already immune to the type of bacteria that he was trying to infect you with, but I don’t know,” Pryce speculated.
+
+Fathom did not answer, silently mulling this over until Pryce asked, “How many dragons die of infection?”
+
+“Most of the time less than ten dragons die in one year, but I do not know how many is from infection. Maybe half of deaths is from death-fights?”
+
+“What happens if a dragon is killed by another dragon when they are not in a death-fight?” Pryce asked.
+
+“This is complicated, sometimes dragon make big mistake or small mistake. If it is a small mistake, that dragon will be…not honored? But if one dragon tries hard to kill another dragon, they need to fly to the ocean and not come back.” Fathom said grimly.
+
+“Not honored is ‘dishonored’,” Pryce said, a little appalled but not surprised either. “If dragons make one dragon fly away and not come back, that is exile. The dragons that fly over the ocean and do not come back die, yes?”
+
+“Probably yes, but…” Fathom trailed off.
+
+“But what? Do some dragons believe in the big island I show you?” Pryce guessed.
+
+“Y-yes? How did you know that?” Fathom asked, eyes widening in surprise.
+
+“I remember you wanted to fly to that island,” Pryce shrugged.
+
+“...yes, I remember now, that feel like a long time ago,” Fathom noted.
+
+“Yeah, it does,” Pryce nodded in agreement. That was what, day 29? 30? Less than a month ago, and it had already seemed like years.
+
+“Dragons…believe in this island, some say that exiled dragons go there, or that dragons come from that island many thousands of years ago.”
+
+“Is this island good or bad?” Pryce asked, wondering if this landmass was perceived as a sort of mythical paradise.
+
+“This island is very good, dragons always want more land,” Fathom said wistfully.
+
+“It won’t be hard to go there, once more humans come,” Pryce said offhandedly. “That island is much closer than the mainland.”
+
+Fathom snorted in amusement. “For dragons, saying ‘It won’t be hard to go there’ is like saying ‘it won’t be hard to go to the moon’.”
+
+“So, this island is somewhere dragons want to go to, right?” Pryce asked, returning to the subject of his concern.
+
+“Yes, very much. Why are you asking?” Fathom asked curiously.
+
+“I was thinking about the future,” Pryce said cautiously. This could be a rather sensitive topic if taken the wrong way. “We humans did not know dragons were here, but I know this now, so we cannot use this island as territory. I am thinking that in the future, humans can help dragons go to the big island, then dragons can help humans live there!” Pryce said, gesturing excitedly.
+
+Fathom stared downwards, silent.
+
+“What’s wrong?” Pryce asked. He’d expected the dragon to be a lot more excited.
+
+“This is good, but…” Fathom trailed off, visibly struggling to find the right words. “I do not know what other dragons will think about…humans,” he said awkwardly, apparently trying to avoid giving offense.
+
+“Even if I give them shiny things?” Pryce asked, raising an eyebrow.
+
+“This will help, but I don’t know what they will think about humans, maybe they will attack,” Fathom confessed.
+
+“Then why didn’t you attack me?” Pryce asked. What Fathom had mentioned was a possibility he had considered, but he had also hoped that Fathom wasn’t an outlier among his kind.
+
+“I see you when your ship come here, and I see you from high up in the sky. You make hole in sand, then fall into hole,” the dragon chuffed in amusement at the memory, making Pryce flush with embarrassment. Fathom quickly sobered, falling silent before asking, “Did you try to make hole in sand for your…friends?”
+
+“...yes,” Pryce confirmed.
+
+“I…thought maybe you dig to find something, I thought maybe I can try to find that thing first,” Fathom recalled.
+
+“Why didn’t you?” Pryce asked. It certainly would have been a little terrifying to find the grave miraculously finished the day after he failed to complete it.
+
+“I thought about it more, and you did not look like you were trying to find something; you looked like you just wanted to dig sand, and that was…confusing,” Fathom explained. “Then, later you try to move your many friends into the river, and I think I know why you dig hole.”
+
+“I see,” Pryce said, low.
+
+“I wanted to learn more things about you, so I helped you,” Fathom said.
+
+“And you don’t think other dragons will want to learn about humans? Or want to go to the other island?”
+
+“...yes, they will,” Fathom admitted with a sigh. “But if many dragons attack you, I cannot protect you.”
+
+“We’ll think about it later, maybe we can talk to dragons you think will like humans first,” Pryce said, touched by Fathom’s concern. ”Moving bodies under earth is called ‘bury’. Do dragons bury dead dragons?” He asked, moving onto another topic.
+
+“No, if the dead dragon has family or friends, they use wood to burn the dead dragon,” Fathom said solemnly.
+
+With fire being so important to dragons it was hardly surprising to Pryce that they would cremate the dead. “What happens if they don’t have family or friends?”
+
+“All dragons have family,” Fathom dismissed, but then he remembered something to add, “If they are dishonored, then maybe no one will burn their body, but someone will always want their bones.”
+
+“Their bones?” Pryce asked, surprised.
+
+“Bones are strong, useful,” Fathom explained, which did make a macabre sort of sense. Pryce hadn’t seen any bones identifiable as a dragon’s, though he supposed Fathom simply never had the chance to acquire any given his past.
+
+“Do dragons take bones of loved ones?” Pryce asked, wondering if this was done as a sort of insult. “Friends and family that they like, I mean,” Pryce amended upon seeing Fathom’s confused expression.
+
+“Yes, all dragon bones are useful. What does ‘loved ones’ mean?”
+
+“When someone likes someone else very much, they are loved. Usually this means friends and family.”
+
+Fathom nodded, then asked, “Humans have metal, you do not use bones, right?”
+
+“No, we don’t,” Pryce answered, shaking his head. “Humans all bury their dead, sometimes they burn them, and…we rarely bury them in the oceans,” he said.
+
+“It is not good, to bury someone in the oceans?” Fathom asked; he was getting better at interpreting human emotions, and he had perceived Pryce’s slight discomfort upon mentioning the last burial method.
+
+“Most people…want to be buried when they die,” Pryce said. “I tried, but I failed.”
+
+Fathom was silent for a few moments. “…but I should have helped you dig a hole,” he eventually rumbled.
+
+Pryce shook his head. “It’s okay, I did everything I could, right?” He asked, a sad smile on his face.
+
+“Good, you are getting better,” Fathom said, affectionately chuffing the human’s hair with a jet of warm air.
+
+Pryce tried to comb his hair back into place, but soon abandoned this futile effort. It was getting long and unruly without anyone to cut it, but it wasn’t as if anyone was around to appreciate his hypothetically well-kempt hair.
+
+“Yes, and you are getting better too,” Pryce said. “I can take out your stitches tomorrow.”
+
+Fathom settled down on his bed and made a wordless crooning noise of joy at the thought of regaining some of his mobility. Pryce wasn’t entirely sure what he was going to do in order to occupy the restless dragon, but he was certain the two of them would never run out of things to talk about.
+
+[JOURNAL ENTRY]
+
+Day 55,
+
+I brought up the topic of future plans to Fathom, and he seemed a bit skeptical that dragons would cooperate with humans, but I think it’s doable.
+
+I need to gain a neutral opinion before the next ship arrives, that way I can ensure that no hostilities break out.
+
+The Horizon was intended to return in 2 months, but everyone knew extenuating circumstances could change things. The people back home probably wouldn’t really start worrying until 3 months had passed, so the soonest I would expect the ship’s arrival would be day 100.
+
+Sounds like a lot of time, but Fathom’s going to need another month at least to heal his broken wing, so I’m on something of a tight timeframe. I’ll - or rather, we, will need to do all the preparations and planning we can while Fathom recovers.
+
+Hopefully once I remove Fathom’s stitches he can move well enough to escort me to the ship, then I can listen to the radio in case they send something via morse-code.

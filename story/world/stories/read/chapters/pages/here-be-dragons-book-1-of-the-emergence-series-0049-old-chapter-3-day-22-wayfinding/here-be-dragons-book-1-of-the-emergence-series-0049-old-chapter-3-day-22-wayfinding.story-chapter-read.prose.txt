@@ -1,0 +1,169 @@
+Pryce woke up and winced. He was definitely in worse condition than yesterday…maybe he should’ve waited for his body to have fully recovered before he started exerting himself so much. What was he doing again…?
+
+…Right, the burial pit. He rubbed his eyes as he began to fully awaken. No convenient solutions had come to mind despite his hopes, save for perhaps shoring up the slopes of sand with panels of metal in the cargo hold, but that would still be extremely difficult. The pit would likely take him weeks to finish by himself, which was far too slow.
+
+He slowly and painfully forced himself out of bed anyway; there were still things he could do, even if he had to focus on recovery.
+
+First, he noticed that the sun wasn’t high in the sky yet, so it was still morning at least. That was good, he allowed himself to take his time to stretch for about half an hour. When he was done his body still ached in protest, but at least he wasn’t as stiff as a board.
+
+When he was done, he went and prepared more stew in the galley. His stomach grumbled at his past self’s laziness while the stew bubbled away merrily.
+
+Pryce killed the fire after a few minutes, stretched some more while the stew simmered and cooled, then he served himself a bowlful of his first hot, truly solid meal. He slightly burnt his tongue in his haste, but Pryce couldn't bring himself to care.
+
+The experience reminded him of better days spent at the lab where he’d begin and end his days with a simple stew, and for a moment he could close his eyes and pretend he was back home, the likelihood of seeing friends and family a certainty rather than a mere fantasy.
+
+Eventually he opened his eyes and returned to reality. Sitting up from the chair with a groan, he left the galley to gather a sheet of paper, a pencil, and the sextant.
+
+­Pryce stumbled his way to the deck of the ship and took a reading with the sextant, waited five minutes, and then sighted the sun again. It was higher now, which was good. That meant it wasn’t noon yet, all he had to do was keep taking readings until the sun started going lower, then he’d know what time noon was. He’d need to write down his observations and – Pryce smacked himself in the forehead for his carelessness; he’d forgotten to retrieve his chronometer.
+
+Groaning and occasionally grunting in pain, Pryce made his way down and into his original quarters. He took a few seconds to brace himself for the familiar sight, and opened the door. Fortunately the smell had waned since last time, and he was only moderately uncomfortable to be back in his original room. He quickly opened a cabinet and took out his small chest of personal belongings, and slowly lugged it back to his new room, taking great care with the contents of the chest.
+
+Once inside the room he sat on his knees, gently laying the chest onto the floor. He neatly moved aside various personal items for later use, then carefully retrieved a bundle of spare clothing from the center of the chest. Unwrapping the bundle revealed a simple but sturdy wooden box.
+
+The latches on the box opened with a satisfying click, and the hinges smoothly swung open to show a shining metal chronometer sitting on the softly padded interior of the box, its face hidden by an engraved steel shell.
+
+Mk. 10 Wright Marine Chronometer
+
+Beneath the model number was a number that was visibly carved by hand:
+
+542,639
+
+Pryce turned it over and ran a thumb over the engraved words on the backside of the cover.
+
+For A. Pryce
+
+He looked at the familiar words, then closed his eyes and held the chronometer against his forehead for a few moments before pocketing it.
+
+For most of history, determining longitude at sea to any degree of accuracy was simply impossible. Doing so required accurate timekeeping, and while pendulum clocks were accurate enough, they were useless on the open ocean.
+
+Max Wright solved that problem over a decade ago with the invention of the Mk. 7 Chronometer. In fact, he had further improved upon the Mk. 7 design until he created the Mk. 9 Chronometer which sat in the wheelhouse – that brilliant device only lost a third of a second per day. His own Mk. 10 had similar timekeeping accuracy, but was small enough to fit in the palm of his hand.
+
+Thanks to that invention, all he needed to know in order to determine his longitude was the time of noon, and that was easily discerned using the sextant.
+
+Pryce also had the longwave radio receiver sitting out on the deck; it had a large battery that would receive and amplify the signals sent out from the mainland.
+
+He wasn’t an expert in electronics, but he knew the basic principles on which it operated; Longwave radio waves were simply very long electromagnetic waves, they had very little energy compared to wavelengths like visible light, and they carried much less information than shorter wavelengths of light could. He had heard an analogy saying that it was similar to how writing in large font might make something legible from a greater distance, but that also means being able to write less information on the same sheet of paper.
+
+Why use longwaves at all then? Because they had the advantage of range.
+
+Conventional transmitters and receivers could only operate if they had a line-of-sight, which meant a range of about 6 kilometers until the curvature of the Earth blocked the signal if one were transmitting and receiving at ground level. Taller radio towers meant more range, nothing like what they needed for this expedition.
+
+The key was that longwave radio signals could bounce off of the ionosphere. Overland tests had shown an easily detectable signal from a distance of over 2,000 kilometers, but any more than that was all theoretical guesswork. Since this method of timekeeping couldn’t be relied upon, it was meant to be used as a backup in case the chronometer failed.
+
+He planned on using both methods, and if they gave him wildly different results, then something was very, very wrong. He didn’t even know what could possibly account for that.
+
+An hour or so of tediously recording one observation per minute later, Pryce had determined the time of noon to be approximately 5:31 pm central time. Every hour of difference between noontime between two given locations meant 15 degrees of longitudinal separation, so calculating longitude was as easy as multiplying hours by 15.
+
+He’d done all of this calculation before when determining his location after the hurricane had passed, so it only took a minute of scribbling calculations for him to determine his coordinates and uncertainty:
+
+15.40 ± 0.05° N82.75 ± 0.25° W
+
+The uncertainty for longitude in latitude in more tangible units were 6 km and 22 km, respectively – too small to be of consequence considering the resolution of his map.
+
+The radio signal should arrive 5 hours 31 minutes before noon, as the mainland was in the east and their ‘noon’ would have occurred at 6:29 AM for Pryce. He’d have to wake up early tomorrow to check and see if the results agreed with one another.
+
+Knowing his location was a trivial amount of progress, but Pryce relished the feeling anyway as he made his way to the wheelhouse. Opening the door, he was greeted with the great map pinned against the back of the room.
+
+It was all over the newspapers at the time of its capture and retrieval. Even so, it never ceased to inspire wonder in him that humanity could now send satellites into space…only in fairly low orbit, but it was exciting nonetheless. He remembered the long-held dream of countless people that they would be part of the generation to venture out from their homeland and explore the rest of the world.
+
+His excitement faltered as he recalled what should have been, what things would have been if only the circumstances were only a little different.
+
+Captain Williams would have thrown a celebratory party when they’d made landfall, and the seamen would’ve given him a headache with their cheering. Seibert would’ve tried to remain stoic, but she’d crack a smile when no one was watching. The engineers and scientists, Pryce included, would’ve been impatient to go and make new discoveries on this foreign land, probably naming it after themselves despite Pryce’s protests against such a ridiculous practice.
+
+None of it would ever happen now.
+
+Pryce huffed in frustration, he needed to stop thinking about the past. There was nothing he could do for the dead now, except his very best to do what they had died for.
+
+After double-checking his math, he drew a small X on the map to denote his location. He probably should have waited to confirm his longitude before drawing on the main map, but at that moment he felt like he needed to see some progress, no matter how small.
+
+Resolutely concentrating on his current situation, Pryce remembered that the Horizon had been blown off course, but not too badly. He had attempted to use the least amount of fuel possible to make landfall, and had done a reasonably good job considering the circumstances. If another expedition were sent after them, they would attempt to make landfall on the east side of the island, at a latitude of 22.5 degrees north – where the Horizon was originally slated to land.
+
+Pryce knew that there was a second, better ship under construction that was planned to launch soon after their return, but that ship was on track to launch a year after the start of their journey. He had no way of knowing how their disappearance would affect the launch date, it might cause them to send it out earlier for a rescue attempt, or it might delay the construction, but surely it wouldn’t cause the cancellation of the program? Rich tycoons had sponsored the project that built The Horizon – more out of a thirst for fame and fortune than scientific curiosity, but money was money. None of that would change with the disappearance of a single ship.
+
+Or so he told himself. There was no hope for him if rescue wasn’t a possibility, and certainly no chance of him sailing back to the mainland; that was impossible even for a seasoned sailor, let alone an untrained man.
+
+The propellers were only meant to support the sails, subpar wind and lower than expected efficiency meant there was about a third of the fuel left; nowhere near enough to get back under most conditions, he would need great winds and currents on his side for any chance at survival. Anything less than that meant he’d be stuck in the middle of the ocean until he ran out of food or water.
+
+Looking back on the map with his location marked out, he wasn’t sure what to think of his position. This island – he should name it sometime soon – was very elongated, though with no discernible shape or pattern to it.
+
+The satellite imagery was far too low-resolution to determine anything other than the shape of the island, and he definitely could not determine the locations of rivers or lakes from it. Despite this, the knowledge of his position gave him a starting point for him to formulate his plans.
+
+Next, he went to the globe in the room; it would have less distortion than the map. Pryce put a pin on his current coordinates, measured the distance between it and the port where The Horizon had begun her journey, then scaled it up. If he wanted to calculate it mathematically, he could’ve used the Haversine formula…but to hell with that trigonometric mess, a simple measurement would be more than sufficient for his needs.
+
+He scribbled out his answer and sighed. He was about nine thousand kilometers from home…the furthest any human had ever been. It was something he knew already, of course, but putting a number to it made his isolation all the more tangible.
+
+Pushing away his desolation, he thought about what he needed to do right now, and everything came down to him not knowing enough. He knew nothing in regard to the island’s climate, environment, or wildlife, so that would be one of his foremost concerns.
+
+It was time to perform some wildlife observation.
+
+Pryce sat down on a chair on the deck of the ship, rifle leaning against the wall of the ship and camera at the ready. He had placed two of the dead chickens at the treeline where predators like the ones responsible for the ‘dinosaur’ tracks might feel safe, and yet still be visible from his position.
+
+He scanned the trees with his binoculars, looking as far into the forest as he could…and waited.
+
+Several hours later Pryce had only recorded sightings of a few birds. The wing structure of the birds on this island seemed different, they flapped in a strange, almost undulating way, though he hadn’t seen any of them long enough to get a close look. The birds were always flying, and there was no chance of him shooting one down at this distance. On one occasion a bird had landed on a branch, but Pryce didn’t bother bringing up his rifle, he didn’t want to scare off any more dangerous predators from approaching.
+
+It was getting close to sunset now, and Pryce wasn’t sure if his bait was going to work. For some reason what scant wildlife he had seen were completely ignoring the chicken. Maybe some instinct to avoid rotten flesh? Perhaps he would stake down a live chicken tomorrow, though he only had five of them left.
+
+He pondered the problem while he waited and watched. He occasionally used the binoculars to try and peer deep into the forests. Though he was able to see some distance into the trees, he still never saw anything of note.
+
+Soon afterwards the sun had set, and he would have no chance of seeing anything at night, even with the moon bright above in the sky.
+
+Sighing as he pushed himself up from his chair, Pryce collected his blank sheet of notes and equipment in case it rained, leaving the pen and binoculars on the deck. Before he turned away, he noticed something floating out of the corner of his eye and turned to stare at it.
+
+It was a floating sphere, earthen-hued, and about twelve centimeters in diameter.
+
+Pryce ran to the side of the ship, leaning over the bulwark to catch the object. Of course, in most situations it was foolish to touch a foreign lifeform, but this was something that he recognized – a spore pod. These bizarre objects were occasionally discovered by random individuals, and for most of human history they were shrouded in mystery, often being the object of superstition. None of the discovered pods had successfully reproduced until it was placed in a greenhouse, the apparently suitable environment allowing it to grow into a bizarre fungus that bore a superficial resemblance to a short, stout tree. Despite this breakthrough, none of the specimens seemed particularly healthy; few produced viable pods, and none produced pods that could float, because none of them were filled with hydrogen gas that its progenitor had.
+
+He paced excitedly; this island must be the native land of these pods! The weather was warm like the interior of a greenhouse, so if he looked around – there was another, and another! The sun had set, but the moonlight distinctly outlined the many pods ascending from their fungal stalks to the night sky, far faster than the one he had caught. Why wasn’t this one floating? Perhaps it was an older one, or defective somehow.
+
+Pryce smiled for the first time since making landfall, if only for a moment. He gently released the spore pod, letting it float along the beach, and went to sleep with a lighter heart.
+
+[JOURNAL ENTRY]
+
+Day 22,
+
+Due to unfortunate circumstances, I have neglected to maintain my habit of writing in my personal journal since the start of the journey. I have written in great detail in another notebook, while this journal will contain my personal thoughts. I have included a short summary the events of days prior to my landfall for future reference.
+
+Day 1: I conversed with various members of the crew while performing routine checks on their physical health, and took samples from the ocean to study.
+
+Day 2: Regretfully, Sailor Henry fell overboard on this day and was unable to be recovered. Spirits were far lower after this event, though most dedicated themselves further to maintaining discipline. I can only hope to do the same.
+
+Day 3: I fell violently ill to seasickness for a week after this day, and remained in my cabin for that duration. The information regarding following events was obtained from Dr. Siebert and Captain William’s meticulous notes.(First leviathan attack. This one was minor, only lightly denting the hull before fleeing)
+
+Day 4: Several crewmen began to show symptoms of respiratory infection in addition to irritating rash on the skin. Patients treated with antibiotics.
+
+Day 5-6: Antibiotic treatment ineffective. More began to show signs of this unidentified illness. The first infected patients began to show symptoms of seasickness (Including individuals who had never experienced seasickness in their life) while the initial symptoms intensified in severity.
+
+Day 7: Most severely ill crewmen were quarantined. Engineer Taylor died due to prior minor respiratory complications exacerbated by the illness. Seibert suspected the cause of illness to be fungal in nature. Symptoms of illness include extreme nausea, vomiting, and cold sweat along with mild-to-moderate dermatitis.(Second leviathan attack, worse than the first, but no holes in the ship.)
+
+Day 8: Symptoms continued to intensify, and my seasickness began to abate. Crewmen John, William, and Dale passed away from the illness.
+
+Day 9: Symptoms continued to intensify, I felt somewhat recovered on this day.(A third leviathan was spotted, but scared off with acoustic grenades before any damage was done)
+
+Day 10: Nearly all crew were showing symptoms of illness when the hurricane struck. Ship was prepared for the storm and thus only suffered minor damage in addition to the cargo crane breaking off. Crew quarantined themselves for the remainder of the storm.
+
+Day 11-19: Symptoms presumably worsened throughout the hurricane.
+
+Day 20: The storm ended early this morning, and I regained my senses after nearly 17 days of uninterrupted seasickness. Soon afterwards I discovered that the entirety of the rest of the crew were deceased. I used the sextant and chronometer to determine my coordinates, and by chance the Horizon was only a hundred or so kilometers from the closest part of the island.
+
+The evidence left behind by the creature who took the pigs concerns me greatly, an airborne creature capable of lifting away ~200 kilograms of pig truly strains the imagination, but I cannot imagine an alternate possibility. I can only imagine what kind of creature could be responsible for such a feat, I hope it is not too hostile.
+
+I determined my latitude using the north star: 15.40 ± 0.05° N
+
+Day 21: As embarrassing as it is to admit, I almost died on this day while digging a grave on the beach for the crew. I have heard of others being buried before, but I didn’t think it would happen to me. I have to be more careful.
+
+Soon after my mishap, I made another unsettling discovery: The prints of a large bipedal creature – 30 centimeters in length, 15 centimeters in width, and with two long digits ending in large talons. The prints came from deeper in the treeline, and stopped around the border before heading back. I believe I saw something move out of the corner of my eye after I escaped from the sand pit, and that something is watching me.
+
+Things are not going well, to say the least.
+
+Day 22: Today I determined my coordinates:
+
+15.40 ± 0.05° N82.75 ± 0.25° W
+
+I have resolved to spend the next few days recovering; my health has not been the same since day 1 of this expedition, and I need to be at my best for whatever may come. That is not to say I am doing nothing; I have cleaned the livestock pens and spent the day attempting to learn more of the island’s wildlife – most notably the creature who took the pigs and the bipedal creature who left the tracks near the beach.Unfortunately I saw no creatures today with the exception of some birds, though they did not land where I could have a clear visual. I had left a dead chicken as bait, but it was left undisturbed throughout the day. Odd, I had expected at least some scavengers.
+
+Despite the failure, I did make one important discovery; this island is the source of the Spore Pods! Or at least capable of supporting their growth, it’s entirely possible they are native to the larger landmass in the south.
+
+As for other forms of life, I have only seen beach trees that greatly resemble the ones on the mainland, as well as a few familiar looking coconut trees and crabs. I have not studied either of these yet, so I cannot say for certain how similar they are to the ones on the mainland. The coconut trees in particular are interesting, the seeds must have floated across the ocean…though I have no idea how to determine where they originated from.
+
+I will attempt to use a live chicken as bait tomorrow, hopefully I can find the creature responsible for the ominous tracks.
