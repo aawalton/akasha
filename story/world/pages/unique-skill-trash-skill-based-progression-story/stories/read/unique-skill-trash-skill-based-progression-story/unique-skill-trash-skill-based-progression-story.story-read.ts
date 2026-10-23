@@ -36,7 +36,7 @@ export const uniqueSkillTrashSkillBasedProgressionStory = {
     "Supernatural",
   ],
   publicationStatus: "ongoing",
-  readLater: true,
+  readLater: false,
   createdAt: "2026-10-22T16:49:13.804Z",
-  updatedAt: "2026-10-22T23:48:58.433Z",
+  updatedAt: "2026-10-23T00:49:00.046Z",
 } as const satisfies StoryRead

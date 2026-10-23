@@ -20,5 +20,7 @@ export const uniqueSkillTrashSkillBasedProgressionStory0030Chapter28TheFixIsIn =
     },
   ],
   createdAt: "2026-10-22T16:49:20.256Z",
-  updatedAt: "2026-10-22T16:49:20.256Z",
+  updatedAt: "2026-10-23T00:49:00.046Z",
+  ownProgress: 3264,
+  progressedAt: "2026-10-23T00:49:00.046Z",
 } as const satisfies StoryChapterRead

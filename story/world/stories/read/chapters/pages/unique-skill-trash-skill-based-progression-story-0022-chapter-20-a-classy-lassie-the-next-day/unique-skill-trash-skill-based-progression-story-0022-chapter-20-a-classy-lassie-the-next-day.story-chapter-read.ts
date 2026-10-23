@@ -20,5 +20,7 @@ export const uniqueSkillTrashSkillBasedProgressionStory0022Chapter20AClassyLassi
     },
   ],
   createdAt: "2026-10-22T16:49:20.256Z",
-  updatedAt: "2026-10-22T16:49:20.256Z",
+  updatedAt: "2026-10-23T00:49:00.046Z",
+  ownProgress: 2280,
+  progressedAt: "2026-10-23T00:49:00.046Z",
 } as const satisfies StoryChapterRead
