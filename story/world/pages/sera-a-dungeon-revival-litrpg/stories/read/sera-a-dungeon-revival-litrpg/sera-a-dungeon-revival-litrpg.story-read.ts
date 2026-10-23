@@ -1,0 +1,40 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const seraADungeonRevivalLitrpg = {
+  id: "01a166de-33d6-7ece-8930-76b730f74d9f",
+  type: "page-type/story-read",
+  slug: "sera-a-dungeon-revival-litrpg",
+  author: "MizarCaph",
+  following: false,
+  unit: "unit/words",
+  title: "Sera - A Dungeon Revival LitRPG",
+  world: "world/sera-a-dungeon-revival-litrpg",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "89525",
+      externalLink: "https://www.royalroad.com/fiction/89525/sera-a-dungeon-revival-litrpg",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Progression",
+    "Villainous Lead",
+    "Strategy",
+    "Non-Human Lead",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Attractive Lead",
+    "Dungeon Core",
+    "Female Lead",
+    "High Fantasy",
+    "Magic",
+    "Strong Lead",
+  ],
+  publicationStatus: "completed",
+  readLater: true,
+  createdAt: "2026-10-23T03:46:40.726Z",
+  updatedAt: "2026-10-23T03:46:40.726Z",
+} as const satisfies StoryRead
