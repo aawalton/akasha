@@ -1,9 +1,10 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
 import {
   indexOver,
   readingAt,
   readingOver,
 } from "akasha/command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"
+import { readingEnded } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import { COOLDOWN_SECONDS } from "akasha/infrastructure/service/akasha-service/modules/deploy-choosing/deploy-choosing.module.code.ts"
 import type { Subject } from "akasha/infrastructure/service/akasha-service/modules/deploy-subject-listing/deploy-subject-listing.module.code.ts"
 import {
@@ -15,7 +16,11 @@ import {
 import { pagesAt } from "akasha/page/index/modules/commit-surface/commit-surface.module.code.ts"
 import { readingNone } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 
+afterAll(readingEnded)
+
 const ROOT = process.cwd()
+
+const UNREAD = readingOver([], () => null, indexOver(readingNone()))
 
 const NOWHERE = "0000000000000000000000000000000000000000"
 
@@ -49,12 +54,12 @@ test("a commit git resolves has the moment it was made", () => {
 
 test("a service nothing has put up wants a deploy", () => {
   const one = subject("web-app", "temper-web")
-  expect(wantsIn(ROOT, one, null, readingAt(ROOT, "HEAD"), changingIn(ROOT, "HEAD"))).toBe(true)
+  expect(wantsIn(ROOT, one, null, UNREAD, changingIn(ROOT, "HEAD"))).toBe(true)
 })
 
 test("a service put up at the same commit wants nothing", () => {
   const one = subject("web-app", "temper-web")
-  expect(wantsIn(ROOT, one, "HEAD", readingAt(ROOT, "HEAD"), changingIn(ROOT, "HEAD"))).toBe(false)
+  expect(wantsIn(ROOT, one, "HEAD", UNREAD, changingIn(ROOT, "HEAD"))).toBe(false)
 })
 
 test("what a service is built from is seeded from the pages its commit's reading carries", () => {
