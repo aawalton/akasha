@@ -1,0 +1,195 @@
+Information abruptly appeared above each of the three items, anchored in the air on his HUD. Despite the small size and lightness of the text, he found that he could still read it perfectly. An effect of the System, most likely.
+
+Name: Enchanted Bedroll of Improved Restoration
+
+Type: Item
+
+Quality: Uncommon
+
+Tier: Beginner
+
+Requirement: None
+
+Description: Bedrolls are the bread and butter of any would-be adventurer, providing a nice and accessible means to take your rest no matter where you are. Enchanted bedrolls are especially treasured for their useful properties on long travels.
+
+Effects: Using this bedroll to sleep for 5 or more hours will result in a full rest, allowing you to triple your healing during whatever time you spend sleeping after the first 5 hours. This buff will persist for an hour after waking up so long as you remain in a location deemed safe or remain in the bedroll and do not leave it.
+
+“Okay,” he said with a nod. “Not bad, actually. That will probably come in handy. What about the bag?” He turned to that next and started to read the text that leaped out for his consumption.
+
+Name: Enchanted Vrelken-Hide Satchel
+
+Type: Container
+
+Quality: Uncommon
+
+Tier: Beginner
+
+Requirement: None
+
+Description: This Satchel is made from skinned and tanned Vrelken-Hide, allowing it to weather a considerable amount of punishment and stay insulated from environment infiltration. Satchels like these are integral for any would-be Adventurer.
+
+Effects: This bag has a maximum carrying capacity of 10 kilograms and is fastened by a spelled lock. Items within the bag are rendered immune to damage until removed, or until the bag is severely damaged or destroyed. Only the registered owner of the bag, or persons they authorise, may open or close this bag.
+
+He noticed immediately the benefits of the bag, but more than that he noticed its design. It was built like a laptop carry case, with a single strap designed to loop over the head and shoulder so the bag could sit on the opposite hip. It was one of his favourite designs, ironically enough, and Aurelian felt immediate satisfaction after reading its information. A good container would likely make a lot of his future problems much easier to manage. The worth of a magical bag in any adventure could not be underestimated.
+
+Finally, his eyes moved to the sword, and this he reached out to pick up as he examined it. It was the thing he was, with no surprise, the most interested in.
+
+Name: Elysean Squire’s Blade
+
+Type: Elysean Longsword
+
+Rarity: Rare
+
+Tier: Novice
+
+Requirement: Reclaimer’s Blessing
+
+Description: A weapon whose origins and forging process are lost to memory. Its edge will never dull, its blade will never rust, and it can withstand tremendous punishment.
+
+Special Effects: This blade can be bonded to a single wielder by blood, making it extremely difficult to steal and allowing the owner to summon it to hand over the course of 10 heartbeats for 30 mana in the event it is lost.
+
+Aurelian raised his eyebrows and gripped the wrapped hilt of the weapon, pulling it from the dark leather of its sheath and staring at it in interest. It was shaped much akin to the traditional bastard sword, with a cruciform cross guard and a wide, solid hilt able to be held in one or two hands. Where it deviated, however, was the design of the blade. As opposed to the usual style of conservative design, the Elysean blade was easily 6 centimetres wide, with a fuller down its length inlaid with several runic designs that Aurelian had no hope of identifying.
+
+Most interesting of all was the fact that the blade didn’t even seem to be made wholly of metal, or at least not any metal he was used to. The edges of the blade seemed to glimmer faintly as he examined it, catching and reflecting the light in such a way as to almost appear crystalline. Even the main body of the blade appeared slightly off to him, as if the metal was not quite settled on what colour it wanted to be. That in itself was… perplexing, but he chalked it up to ‘ancient dead race shenanigans’.
+
+Unable to help himself, Aurelian stood up and with careful motions took a few experimental swings with the sword. As if waiting for the cue, a System chime erupted in his head and he immediately overbalanced, dropping the weapon in the process and dancing away from it where it clanged loudly into the marble flooring. By reflex he looked around to see if anyone in the empty room had seen him, and then followed that by groaning at his own anxious stupidity.
+
+He was very, very much alone.
+
+Irritated but not entirely surprised, Aurelian took a moment to review the prompt.
+
+Congratulations, Aurelian Lucis Imperius!
+
+You have met the requirements to unlock the skill Longsword Mastery (C)!
+
+This skill allows you to wield weapons of this type with greater and greater levels of competency and lethality, and is also crucial to gaining access to more powerful weapons within this discipline.
+
+Practice yields improvement, Reclaimer!
+
+Aurelian dismissed the prompt after reading it over twice, and as he did so felt the beginnings of an idea percolating within his mind. The System had inferred quite directly that raising his new skill would make him more effective with his weapon. In most scenarios, learning to use a sword required active trial and error in combat, but he was in a world controlled by a—hopefully at least—logical System matrix.
+
+By that standard… Well, the last line stuck with him; ‘Practice yields improvement’. Did that mean that flailing around wildly would eventually lead to greater competency? There was only one way to find out.
+
+The sword was retrieved carefully a moment later, and Aurelian considered it in silence. “Bonding it, huh?” he mused quietly, before looking down at one of his bare hands, and then to the sword. “Hard to practise with a cut hand, and I have no idea how much blood you’d need… Maybe just before I sleep. I can take advantage of the bedroll that way, huh?”
+
+All he needed now was a way to train. He stared at the sword as he thought about it, pondering the metal absently while also running over possibilities in his mind. Attacking his bedroll or satchel was out of the question, and even though the weapon could theoretically stand up to being hit against the stone wall, all it took was one bad ricochet or flawed grip and he could take out his own eye or worse. What he needed was something like a rote, repetitive— “A Kata!” he said with a left-handed finger snap.
+
+Katas he was familiar with, thanks to a relatively overachieving amount of martial arts in his formative and teenage years. He was rusty as all hell, and had no actual weapons training to speak of, but he’d read about and watched enough movies about sword katas that he could probably create something relatively acceptable with what he had to hand.
+
+Yeah, Kata sounds good. It’ll give me something to do, as well.
+
+Satisfied with his decision, Aurelian turned and—while maintaining a careful hold on the weapon—dragged over his new bedroll to a more open point in the large room. Eyeing it for a moment, he moved it again a little bit further out and then nodded to himself in satisfaction. Next, he walked over and grabbed the satchel, carrying it in and depositing it roughly two metres below the bedroll, closer to the shafts of light coming in from the ruined ceiling.
+
+Finally, he retrieved the forgotten sword sheath and moved over to an area two metres above his bedroll, as reckoned by the shape of the room. This he deposited closer to the closed door, with its side facing the door and its length facing the wall.
+
+“If nothing else, it’s a good foundation…” Aurelian said while he moved towards the satchel, and then regarded his impromptu training course.
+
+The idea behind it was simple: he’d weave through the training course between the different items like a figure eight with an extra end, and practice slashes, stabs, and parries as he remembered them from Earth’s popular culture. The aim was to, hopefully, gain levels in his Longsword Mastery skill and perhaps even some of his Attributes, though he wasn’t entirely sure which ones would benefit outside of Strength and Endurance. Those two alone, however, would be worth it.
+
+Aurelian drew in a deep breath to relax himself as he took position, placing both hands on his new sword and glancing down to make sure he had a solid stance. He pushed out his feet until they were a little over a shoulder-width apart, and then shifted until he felt stable and comfortable. “This is going to be weird with a taller body, too…” he muttered to himself, already feeling the ominous thread of anxiety rising up within him. “You got this… you got this…” he self-assured quietly, and then started the course before he could overthink it further.
+
+Almost immediately he had to stop himself from fumbling the blade, his grip too loose with his left hand and far too tight with his right. Only dumb luck saved him from dropping the sword, and perhaps a little bit of healthy caution. The moment he reoriented himself, however, he froze.
+
+A chime had sounded.
+
+Longsword Mastery is now Level 2!
+
+Aurelian abruptly burst into a massive grin, his eyes reading the message with glee. “Now that’s what I’m talking about!” he trumpeted while his spirit soared and he reaffirmed his grip on the sword. “Thirty seconds in and already a level up? Awesome.” The gamer in him was absolutely giddy at the development, and he was mentally launching himself into the air when he thought about it. Outwardly however he maintained focus on what he was doing, double-checked his stance, and started to move once more.
+
+When next he walked through the practice alternating his movements between strikes, slashes, stabs, and parries; it took a full rotation before the chime sounded again, and informed him he’d hit level 3 in Longsword Mastery. Aurelian took it in stride the second time though, and after pausing to double check himself again following the notification’s distraction, he resumed his careful and rote movement.
+
+Aurelian quickly lost himself in the practice.
+
+Minutes raced by as he grew more and more comfortable with the weapon in his hands. His level ups were certainly not quick, and even at what he estimated to be close to the one-hour mark, he’d only barely hit level 5. He could feel the requirements for each advancement increasing drastically, like losing water weight when first working out: the initial gains were easy, but it was the true progress that was daunting.
+
+He only loosely realised he didn’t feel thirsty, nor hungry.
+
+It was something he’d puzzle over later.
+
+Over and over, he repeated the course, alternating his footwork at times to match sudden changes in his pattern of motion. He avoided taking breaks where possible, tracking his depleting stamina and slowing down only enough so it could refill when he truly began to feel tired, after which he’d start into it again. His Longsword Mastery wasn’t the only beneficiary however, as his Strength, Endurance, and Dexterity all enjoyed minor increases during his katas.
+
+The first hour bled into three, at which point he began introducing spins and twists within the movement. He did so carefully at first so as to avoid any injury, but steadily increased the changes with speed and potency as he practised. The System rewarded him for the variance, and he also found his confidence and comfort increasing alongside his capability. As three hours bled into five, the sword began to feel less like a blunt—so to speak—instrument and more like the precision tool it truly was.
+
+When he estimated he’d bled over into the six-hour mark, Aurelian allowed himself to rest.
+
+He moved over to where the bedroll lay upon the stone and sat down on top of its coiled-up body, his sword on his knees and a sheen of clean sweat on his arms, face, and along his body under the clothes. With more instinct than active thought, he brought up and reviewed his progress.
+
+Longsword Mastery is now Level 3!
+
+…
+
+Longsword Mastery is now Level 9!
+
+Pain Tolerance is now Level 2!
+
+…
+
+Pain Tolerance is now Level 5!
+
+Strength has risen to 15!
+
+…
+
+Strength has risen to 17!
+
+Dexterity has risen to 9!
+
+…
+
+Dexterity has risen to 11!
+
+Endurance has risen to 7!
+
+…
+
+Endurance has risen to 12!
+
+Aurelian’s body felt subtly stronger, and more physically capable. He also found himself able to move for longer, and handle more and more exertion. His ability to withstand the stamina requirements of the training had risen, just as he’d assumed, in balance with his exertions over time. Movements which at the first hour would have beggared him of energy and resources, he could do almost three times in succession by the end before he truly felt the hit to his stamina.
+
+The biggest change had been his ability to withstand the soreness of his hands and the calluses forming on them as a result of his training. It had levelled his Pain Tolerance four times in the six hours, and while that seemed relatively small, he could already feel the results in the ease with which he held the blade despite his healing sores.
+
+“Progression is so fast here…” he murmured in quiet wonder while staring down at hands that already seemed firmer, and arms that already seemed ever-so-slightly more defined. “I can feel the changes to my body. Man that’s crazy.”
+
+His levels in Longsword Mastery had continued to rise relatively steadily, in fact, until hitting level 9. Something about it felt… gated. It was hard to put his finger on, but in many games he’d played it was often the first ten levels that were the hardest, or the most basic; at which point a player—or in his case, a person—was able to advance to the next ‘tier’ of proficiency. Perhaps those games had something in common with the Realms.
+
+“Let’s see how I’m looking now, eh?” He said before calling up his character sheet and analysing it intently.
+
+Name: Aurelian Lucis Imperius
+
+Temper: Untempered (Beginner)
+
+Level: 2 | Race: Elysean (L) | Origin: Nephilim (L) | Gender: Male | Zodiac: Dragon (L)
+
+Health: 140 | Mana: 57 | Stamina: 50
+
+STR: 17 | AGI: 8 | DEX: 11 | VIT: 14 | END: 12 | INT: 14 | PER: 11 | WIL: 15 | CHA: 8
+
+Mind Skills: Revelate (E) 1
+
+Body Skills: Pain Tolerance (UC) 5 | Longsword Mastery (C) 9
+
+No Spirit Skills
+
+Traits: None
+
+Titles: Elysean Reclaimer (U)
+
+Languages: Common | Elysean | Draconic
+
+0% to Level 3
+
+You have 1 Skill Point Available!
+
+“Interesting… I have a Temper level, and… Mind, Body, and Spirit huh? Sounds like some sort of Daoist—” He blinked. “Wait… Tempering? TEMPERING?” His jaw dropped. “Oh fuck, am I a Cultivator?” His eyes widened and he let out a shout of glee. “Holy shit I’m a cultivator! YES!” A moment of rapturous excitement gripped him, and he imagined himself standing in excessively ostentatious robes, tattooed with twining dragons, and lecturing some evil little young masters on why they would amount to nothing, while subsequently crushing all their cruel mentors into the dirt for the fun of it.
+
+Then the moment passed, and he shook his head. “This just keeps getting better…” he said with a grin before refocusing on the actual reason he’d pulled up his character sheet: his skill progression.
+
+“I wonder if I can even hit level 10 doing this…” he mused quietly, eyeing his available skill point. He was tempted to use it, but it felt like it might be a waste unless he truly needed to. First, he had to figure out if he could break the level 10 threshold with repetition, practice, and grit.
+
+A quick glance at his stamina bar told him there was only one way to find out.
+
+After that, he would probably think about finding food and water.
+
+But first skills called to him, and he had to answer.
+
+Aurelian grinned, stood up, and went to work.

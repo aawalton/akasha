@@ -22,6 +22,7 @@
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/arcane-zoologist-the-dragons-chosen-progfan-magic/arcane-zoologist-the-dragons-chosen-progfan-magic.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/architect-of-souls-spear-warrior-magic-crafting/architect-of-souls-spear-warrior-magic-crafting.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/arkendrithyst/arkendrithyst.world.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/ascension-games-a-litrpg-apocalypse-game-show/ascension-games-a-litrpg-apocalypse-game-show.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/ascension-of-the-primalist-a-tamer-class-litrpg/ascension-of-the-primalist-a-tamer-class-litrpg.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/august-intruder-sol-progression-fantasy/august-intruder-sol-progression-fantasy.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/aura-farming-apocalypse-litrpg-stubbed/aura-farming-apocalypse-litrpg-stubbed.world.ts","typed":true,"deferred":false}
@@ -207,6 +208,7 @@
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/reborn-as-a-demonic-tree/reborn-as-a-demonic-tree.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/reborn-as-a-one-celled-organism-fantasy/reborn-as-a-one-celled-organism-fantasy.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/reborn-healer-litrpg-isekai-b1-stubbed/reborn-healer-litrpg-isekai-b1-stubbed.world.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/reclaimer-litrpg-portal-fantasy/reclaimer-litrpg-portal-fantasy.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/reforged-from-ruin-eldritch-xianxia-cultivation/reforged-from-ruin-eldritch-xianxia-cultivation.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/reincarnated-as-a-brewer-against-my-better-judgement/reincarnated-as-a-brewer-against-my-better-judgement.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/reincarnated-as-a-castle-litrpg-kingdom-building/reincarnated-as-a-castle-litrpg-kingdom-building.world.ts","typed":true,"deferred":false}

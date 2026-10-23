@@ -1,0 +1,251 @@
+Romulus charged out of the chapel with Roderick hot on his heels, cleared the chapel steps in a single leap, and sprinted between the communal hall and housing blocks. His sabatons shrieked across the blood-slicked compound stones of the courtyard with a screech of metal as he turned in the center of the courtyard. As he did, he glanced at the new updates in the bottom-left of his vision.
+
+You are suffering from [Censured]!
+
+Hemoforce regeneration has been suppressed.
+
+Radiant wounds will inflict 15 Hemoforce damage per second.
+
+Remaining Duration: 00:08
+
+Congratulations, you have leveled a skill!
+
+Your [Pain Tolerance] Skill is now Novice 8!
+
+Hilarious, Romulus thought sourly.
+
+A quick glance at his hemoforce showed 7,265 / 8,200, meaning Roderick’s area-of-effect magic had already cost him almost a tenth of his health, and with a glancing blow at that. With his health regeneration impeded, that only meant that taking a direct hit from Roderick was not an option.
+
+Romulus spun when he stopped in the heart of the courtyard proper, spotting the Paladin raging after him with his warhammer held aloft. Roderick’s eyes darted as he approached, and he took in the carnage and bloody evidence of Romulus’ rampage with a mix of grief and fury, eyes moving from one corpse to the next before settling back onto Romulus.
+
+“You monster! They were innocents!”
+
+“Collateral damage,” Romulus countered, his right hand tightening on Lightsbane’s hilt. “It happens. I doubt you’ve lost much sleep over the various ‘apostates’ you’ve killed, Roderick.”
+
+“They were holy servants of Hyperion!” the Paladin thundered in rage.
+
+“They were Experience,” Romulus said as his mind raced, feeding hemoforce into his Sanguimancy to manipulate the blood around them. “And now, they’re ammunition.”
+
+The words were designed to shake Roderick’s composure, though the ease with which he reduced the dead to resources disturbed Romulus far less than it should have—something he was only distantly aware of.
+
+Roderick’s face twisted in response to the taunt, and Romulus thrust his left hand forward, forging the surrounding blood into a fusillade of crimson spears to hurl at the Paladin, while keeping an eye on the drain on his health. He was still suffering from the burns inflicted by Roderick’s radiant hammer strike, but perhaps—
+
+A bellow left Roderick as the blood-spears surged toward him, and a shockwave of radiance exploded from his body, turning the blood inert before impact and sending it splashing to the ground or burning it from existence where it met his armor. Romulus’ eyes widened in alarm, and he saw a spiral of golden light ripple along Roderick’s warplate, followed by a flicker of golden energy threading back toward the chapel, before it vanished.
+
+Well, that’s interesting.
+
+Romulus had little time to dwell on it, however, as Roderick advanced on him immediately—swinging his warhammer in fury and forcing Romulus to throw himself backward to avoid another heavy strike, which smashed apart the courtyard’s stones in a detonation of shrapnel and another wave of radiant fire, the edge of which caught Romulus and sent another searing flare of agony through his body. [Pain Tolerance] dulled the agony enough to keep it from immobilizing him, but it still hurt.
+
+[Censured] has been refreshed!
+
+Hemoforce regeneration has been suppressed.
+
+Radiant wounds will inflict 15 Hemoforce damage per second.
+
+Remaining Duration: 00:15
+
+Oh, that’s just fucking unfair!
+
+Another quick glance at his hemoforce showed another 500 points of damage, dropping him to 6,765 with ticking damage equivalent to 15 points of burning per second. With another fifteen seconds of burning damage ahead of him, [Censured] would drag him toward 6,500 before his regeneration returned. That was, in a word, bad.
+
+“Hey, Mortarius!” Romulus called while ignoring Roderick’s look of angry confusion. “A little advice would be great!”
+
+Mortarius manifested a moment later nearby, standing with his hands clasped behind him and a look of supreme exasperation on his features, while Romulus scrambled away from Roderick, thankful for his superior speed as he stayed well away from the hulking Paladin.
+
+“You are fighting him without remembering your core lessons, Romulus.”
+
+“Skip the lecture, Morty!” Romulus retorted while activating his Sanguimancy and slicking the stones to try to trip up Roderick, who cursed mid-charge and adjusted his footing with another roar of outrage at Romulus’ sacrilege. “Give me the version that helps me survive!”
+
+“Precision over spectacle,” Mortarius said immediately, looking from Romulus to Roderick with an expression of pure disdain. “This brute is stronger than you, and Light is your antithesis. You cannot overpower him. Win through precision, Romulus.”
+
+“Helpful!” Romulus groused while Roderick thundered toward him.
+
+You are no longer suffering from [Censured]!
+
+Hemoforce regeneration is once again active!
+
+“Face me, you cowardly leech!” the Paladin roared. “Cease prattling at the air!”
+
+“I’m working on that part!” Romulus shot back and ducked forward under an air-distorting swing of Roderick’s warhammer, slashing Lightsbane at the Paladin’s knees from behind while rolling ignobly away and scrambling to his feet. Roderick snarled at the strike against the joints of his armor, and Romulus thought he’d managed to make an impact—right before the wounds abruptly sealed with a flash of golden-white radiance, and that same golden cord flickered into being again, connecting to Roderick from the chapel.
+
+Romulus narrowed his eyes at the sight and his attention snapped back toward the chapel, where the golden cord had originated and faded thereafter.
+
+The Priestess.
+
+With a flex of will, Romulus brought up his [Party Chat] and fired off a swift message to Kate while Roderick turned toward him with another snarl of hatred.
+
+Romulus: The Priestess is sustaining the Paladin. Null her.
+
+Kate: Working on it!
+
+Satisfaction flickered across his mind, and Romulus closed the [Party Chat] screen with another twitch of intent, refocusing on the immediate problem of the rampaging Paladin bearing down on him. Roderick stormed forward with his hammer held low, the head of the weapon sparking with radiant fire as he hefted it for another swing.
+
+In response, Romulus pulled on his hemoforce and conjured three [Dark Lance]s in rapid succession, sending the first toward Roderick’s face and the other two toward his knees.
+
+The Paladin raised his hammer in response and caught the first against the broad head of the sanctified weapon, detonating the spellform’s dark mana in a burst of black-purple power. The second struck his left cuisses when he twisted, and the third skimmed along his right greave before embedding itself in the stone behind him with a crack of masonry.
+
+The cuisses and greave strikes did little more than slow Roderick’s advance, but that was enough for Romulus to hurl himself sideways and avoid the hammer when it swept through the space his chest had occupied moments earlier.
+
+“Stop running, you coward!” Roderick snarled as he swung.
+
+“Stop hitting so fucking hard!” Romulus shot back while scrambling away from the radiant burst.
+
+Lightsbane pulsed in enthusiastic agreement with Romulus, and the Autarch felt his lips twitch despite the circumstances. Trust the sentient runeblade to be unexpectedly witty. Focusing on the fight thereafter, he drew a narrow strand of blood from the stones and manipulated it with his Sanguimancy, drawing it taut around Roderick’s leading ankle.
+
+Golden fire started to erode the construct almost immediately, burning through the dark mana sustaining it, but not before the Paladin’s stride caught and his balance failed for a few precious heartbeats.
+
+Romulus took the opportunity immediately and surged in, willing his greathelm to appear as he moved.
+
+“Enough with your petty—”
+
+Romulus cut Roderick off by affirming a two-handed grip on Lightsbane and stabbing the runeblade toward the gap beneath Roderick’s left pauldron, pushing every iota of his Strength Attribute into the strike.
+
+The Revenant Runeblade struck chainmail, punched through, and sank several centimeters into the Paladin’s flesh before Roderick twisted away with a furious roar. Hot blood spilled across Lightsbane, which pulsed with savage pleasure, and Romulus saw the sword drink the vitae greedily.
+
+Then the haft of Roderick’s hammer slammed into the side of Romulus’s greathelm.
+
+Between one second and the next, the world became a screaming blur of stone, blood, and golden light.
+
+Romulus hit the courtyard hard enough to bounce even in his warplate, rolled twice, and came to an abrupt and painful halt against the low wall surrounding the compound. His vision fractured into black-and-white spots, and [Pain Tolerance] was the only reason the collision did not leave him curled helplessly against the wall. His Sanguine physiology was already beginning to repair the damage, but the world continued to wobble and spin around him with sickening unsteadiness.
+
+You are suffering from [Concussed]!
+
+Move Speed and Perception are reduced by 10%!
+
+Remaining Duration: 00:12
+
+“Sonuvabitch…” Romulus slurred, stabbing Lightsbane into the stonework to push himself upright and using the wall to steady himself. “That fucking hurt!”
+
+Still dazed, he directed his attention across the courtyard to where Roderick was still standing, his left arm hanging limp from the savage blow Romulus had dealt with Lightsbane. The concussion was already healing, thanks to the lack of [Censured] affecting his regeneration, and Romulus’ vision cleared steadily while he watched the Paladin’s body abruptly ignite.
+
+The golden cord flared once again with brilliance, and the wound in Roderick’s shoulder blazed; the blood flow reversed, and the savaged flesh knitted itself together beneath the sundered chainmail as if the wound had never happened.
+
+Romulus glared at the sight, his recovering mind growing incredulous.
+
+“That is absolute bullshit.”
+
+“That is to be expected,” Mortarius said blithely from where he now stood beside Romulus.
+
+“I opened a wound,” Romulus said while gesturing angrily with Lightsbane, “and I may as well have tickled the bastard!”
+
+Lightsbane pulsed with a mix of empathy and outrage of its own, which was vindicating.
+
+“You did,” the former Revenant-King agreed mercilessly. “Now open it again. And then again. And then as many times as needed. His Priestess cannot sustain such expenditure in Light Mana indefinitely; she is not an Autarch. The Paladin, certainly, cannot.”
+
+“That sounds suspiciously like attrition, Mortarius.”
+
+“It is strategy,” the specter countered flatly. “A marked improvement, I may add, over whatever bumbling foolery you were using before.”
+
+“You’re such a di—”
+
+Roderick interrupted the impromptu pep talk, if one could call it that, with a low growl at the exact moment that Romulus’ concussion status vanished and his vision snapped back into focus. This time, there was less blind fury and zealous overconfidence in the Paladin’s charge. Evidently, Roderick had recognized the danger of Romulus’ weapon and abilities and had shortened his loping stride while keeping his hammer between himself and Lightsbane.
+
+Grief for the slain still blazed within his hateful gaze, but discipline had forced its way through the fury.
+
+Okay. That’s not great.
+
+Romulus pushed himself off the wall and circled left, not toward the open courtyard again, but toward the ruined communal hall and away from the chapel. He kept Lightsbane low before him, catalyzing his [Dark Mana Channeling] to create two more [Dark Lance]s and holding them beside himself. The drain on his hemoforce was less than ideal, but he had more than enough to sustain them long enough to matter.
+
+His regeneration was still prolific, but the difference between natural regeneration and the colossal damage the Paladin could inflict remained deeply concerning.
+
+“You cannot escape your judgment, leech,” Roderick said with a grim steadiness that Romulus found far more concerning than the earlier bellowing. “Hyperion sees you. His Light will burn away any shadow within which you try to cower.”
+
+Mortarius sighed, invisible to Roderick, as if listening to something he’d heard too many times.
+
+Romulus, meanwhile, gave Roderick a grim smile. “I’m not fleeing, asshole. I’m kiting.”
+
+Roderick’s expression twisted with confusion at the term.
+
+Both [Dark Lance]s exploded forward a second later, the moment both fighters left the chapel’s sightline.
+
+One came from Roderick’s left and the other from above, forcing the Paladin to lift his hammer instinctively and turn his body to meet them. He destroyed the first with a burst of Hyperian radiance, but the second struck the side of his neck—a glancing blow only—and tore a shallow line through his flesh before the golden aura burned the spellform to nothingness.
+
+That, however, was all Romulus needed.
+
+He reached out immediately with his Sanguimancy, caught the thread of blood before Sara’s magic could easily reabsorb it, and put the full might of his hemoforce into pulling.
+
+Roderick staggered and gasped in pain and shock when the shallow wound opened wider by the force of the exsanguination, and Romulus felt the connection to the Paladin’s vitae snap into place like a hair-thin wire becoming a rope. The binding was faint and difficult to hold beneath the blaze of Roderick’s aura, but it was there. Romulus curled his left hand into a fist and activated [Blood Drain] without reservation, watching his hemoforce fall at an alarming rate of a hundred points per second while the lifeblood started to flood from Roderick’s neck in defiance of the radiance trying to heal it.
+
+The golden cord blazed into visibility three seconds later as Roderick staggered desperately backward.
+
+For several heartbeats, the two powers fought—Dark Mana against Light Mana—for dominion over the Paladin’s next breath.
+
+Romulus could feel Sara’s power pushing against his, forcing the torn flesh closed and dragging the escaping blood backward. His hemoforce was plummeting rapidly, but he couldn’t relent. Instead, Romulus bared his fangs in a snarl and advanced toward Roderick to shorten the connection distance, taking a calculated risk instead of keeping his distance.
+
+The Paladin slammed his left hand against the wound desperately, and then light exploded from under his palm. The golden cord flared with sun-like brilliance, and Romulus’ [Blood Drain] shattered, its cohesion obliterated.
+
+The backlash hit him like a hammer inside his skull.
+
+Romulus staggered backward with a formless curse and released [Blood Drain]’s warped remnants, narrowly managing to have the wherewithal to throw himself bodily to the side when Roderick abruptly accelerated toward him with a one-handed sweep of his hammer. The head of the weapon missed Romulus by bare inches, but the radiance around it clipped his cloak and set the material alight with divine fire.
+
+Romulus flung his left hand out to throw a messy wave of blood at Roderick with a desperate use of Sanguimancy and scrambled away, slapping at the flames clinging to his cloak with the same hand thereafter, while Lightsbane pulsed an urgent warning.
+
+“I know!” he said to the sword, tearing the burning section of cloak free and tossing it aside angrily, before catalyzing his Sanguimancy once more to begin gathering blood. “I’m working on it, Bane!”
+
+“You speak to your weapon as well as the empty air,” Roderick said mockingly while the blood under his left palm finally ceased flowing. “The Forsaken Lady’s madness has claimed you quickly, Vampire.”
+
+“I’m a Sanguine, you jackass!” Romulus shot back, while focusing on his Sanguimancy. “And for the record, I might be crazy, but my imaginary friends give amazing advice!”
+
+Mortarius, in the periphery of Romulus’s vision, looked offended.
+
+Instead of responding, Roderick charged again.
+
+Romulus stopped retreating when he did.
+
+Instead, he waited until the last possible moment, while Lightsbane pulsed increasingly alarmed warnings, and watched the hammer rise while the muscles in Roderick’s shoulders bunched beneath the Paladin’s warplate. When the Hyperian Knight committed to the overhead strike, Romulus used every scrap of gathered blood and expelled it in a narrow, high-pressure crescent.
+
+He didn’t aim for Roderick himself.
+
+He aimed at the paving stones directly ahead of the Paladin’s falling foot.
+
+The moment the blood-arc impacted, the paving exploded in a burst of shrapnel and misting blood. Roderick’s sabaton plunged into the sudden gap a second later, his leg wrenching sideways from the unexpected landing and his descending strike smashing into the stone to Romulus’ right. Radiant energy erupted in a dome from the impact point, obliterating stonework and igniting the air—but Romulus was already gone.
+
+Every iota of his Agility and new Sanguine mobility propelled him to the left, around the momentarily impeded side of the Paladin’s body, and he swung Lightsbane two-handed with a roar.
+
+The Revenant Runeblade slashed through the back of Roderick’s right knee in an explosion of light-mana-meeting-dark-mana that flung Romulus backward—thankfully without [Censured]—and drew a howl of agony from the Paladin.
+
+Roderick flailed reactively toward him with the hammer, but Romulus was already out of reach. In response, he focused on the savaged leg and catalyzed his Sanguimancy in the same second.
+
+[Blood Drain] latched onto the wound with voracious hunger.
+
+The Paladin’s leg collapsed immediately beneath him, and the golden cord blazed to life in the same moment, while Romulus’ eyes narrowed on the Paladin. The tether became radiant while Romulus poured his rapidly depleting hemoforce into sustaining the flow of blood, yet the ruined flesh was already knitting as he worked. Desperation warred with panic in Romulus’ mind, and he began to think of what in the hell he was going to do when Roderick got back up—only for a sudden, piercing female cry to shatter the night from the chapel.
+
+Finally!
+
+The golden cord vanished an instant later, not flickering or fading, but abruptly disappearing from one second to the next, and Roderick’s eyes widened as his own furnace-bright aura guttered away with it, collapsing into a thin corona that barely clung to his armor.
+
+“Sara!”
+
+The Paladin instinctively turned toward the chapel and away from Romulus, desperately trying to move toward it, and the Autarch did not hesitate.
+
+[Blood Drain] redoubled in force before Roderick had taken three steps, and he tore every available drop of vitae from the wound behind Roderick’s knee, savaging the injury and forcing it to explode open. The violent extraction buckled the Paladin’s half-healed leg entirely and wrenched him backward, while Romulus surged toward him.
+
+Lightsbane pulsed with darkly triumphant, savage delight as Romulus closed in on Roderick.
+
+The Paladin bellowed something unintelligible and swung his hammer toward Romulus with his remaining strength, but Romulus was prepared. He dropped beneath the hammer swing, slid at full speed on his knees with a scream of warplate skidding along stone, and came up behind the Paladin before he could recover.
+
+His left arm locked around Roderick’s throat immediately, and Lightsbane punched through the Paladin’s center mass from behind in a spray of viscera, piercing armor, flesh, and bone, while Romulus slammed his fangs into Roderick’s exposed neck. The residual Light Mana in Roderick’s blood scorched his tongue like liquid sunlight, but the Thirst overrode all other concerns as hot vitae flooded Romulus with energy.
+
+Roderick spasmed under Romulus’ dual assault, and the hammer crashed into the stones as the Paladin’s fingers lost function. His breath came out raggedly, and he spoke while crashing to his knees under Romulus’ grip.
+
+“You…” the Paladin rasped, blood spilling over his lips. “You will… lose…”
+
+Romulus tore his fangs free, his hemoforce greatly replenished, and licked his lips while ripping Lightsbane out of the Paladin’s spine.
+
+“Probably,” he agreed without a quip. “But not tonight.”
+
+Roderick collapsed face-first onto the blood-slick stones with a thud, and Lightsbane vibrated with ecstasy in Romulus’ hands. The blood coating it drew itself into the blade, leaving the weapon pristine and pulsing along its runic markings while the Paladin lay dead on the cobblestones.
+
+For one brief, glorious moment, silence claimed the courtyard once more.
+
+“Well, that’s that taken care of,” Romulus said with satisfaction.
+
+“Oh?” Mortarius asked mildly. “And yet, you are still in Combat.”
+
+Romulus blinked in confusion a moment before the Chapel abruptly exploded with radiance, momentarily illuminating the night as golden-white fire blasted through every window and tore the open doors from their hinges, hurling burning timber, shattered glass, and warped stone across the compound. The force of the eruption threw Romulus backward, and he stabbed Lightsbane into the stone to avoid tumbling, but it wasn’t the sound of the explosion that cut through the roar of the radiance.
+
+It was Kate screaming.
+
+“Kay!”
+
+Before Mortarius could do more than call a warning, Romulus sprinted toward the fire.

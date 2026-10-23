@@ -1,0 +1,279 @@
+The [Combat Mode] sword icon on Romulus’s HUD faded only after the doors to the Necropolis slammed shut behind him, Kate, Bonnie, and the still-unconscious Sara, over whom a hovering System message appeared, identifying her as [Hostile Combatant—Captured] and ending the enemy proximity condition of [Combat Mode].
+
+Their travel through Blackstone’s streets had been a harried affair, with both Romulus and Kate relying on Bonnie’s convincing—if mildly exuberant—performance to usher them through the checkpoints blocking their path back to the citadel. Things had almost taken a dangerous turn when a member of the royal garrison had intercepted them, but Bonnie had managed to convince the woman that arguing with someone under direct orders from a Warden of Blackstone was an ill-conceived venture, and the royal knight had—not without suspicion—relented after being assured she could seek Captain Argent for an explanation.
+
+Thus, less than an hour after they departed the compound, their party of five—when including Sara and Mortarius—entered the silent hallways of the Necropolis and left the chaos of Blackstone behind them. The specter himself finally permitted Bonnie to see him, as well, drawing a startled glance of alarm from the former guardswoman-turned-Thrall.
+
+Before Romulus could do more than sigh in relief, of course, the System immediately decided to inform him precisely what he’d reaped through his actions, unloading the alerts that [Combat Mode] had blocked until that moment.
+
+Congratulations, you have learned a new skill!
+
+Skill Name: Combat Feeding
+
+Skill Type: Active – Trigger
+
+Skill Rarity: Rare
+
+Skill Function: You have learned to feed upon a hostile target without surrendering awareness of the battle surrounding you. While feeding in combat, penalties to Perception, mobility, and your defensive capability are reduced by a percentage matching your Skill level.
+
+Skill Level: Novice 1
+
+Skill Description: Combat Feeding is the most basic and critical element of a Sanguine Revenant’s ability to sustain themselves during brutal warfare and is an integral part of their survivability in a world determined to eliminate them. By mastering this skill, a Sanguine Revenant can become a true predator of the night.
+
+Current Reduction: 1%
+
+Congratulations, you have learned a new Spellform!
+
+Spellform Name: Blood Lance
+
+Spellform Type: Offensive – Piercing
+
+Spellform Rarity: Rare
+
+Spellform Cost: 30 Hemoforce to create, 3 HPS to hold in reserve
+
+Spellform Function: You are able to create lances of blood from available vitae within your proximity, hardening them into tangible and devastating weapons capable of piercing even the heaviest of warplate if correctly aimed.
+
+[Dark Mana Channeling] has increased from Novice 7 to Novice 9!
+
+[Sanguimancy] has increased from Novice 5 to Novice 9!
+
+[Swordsmanship] has increased from Novice 15 to Novice 18!
+
+[Perception] has increased from Novice 10 to Novice 12!
+
+[Pain Tolerance] has increased from Novice 8 to Novice 10!
+
+[Sanguine Body] has increased from Novice 8 to Novice 10!
+
+You have slain six Novice-Rank Hyperian Attendants!
+
+You have gained 1,050 Experience!
+
+[Lightsbane, Retribution of the Dark Lady] has gained 6 [Essence]!
+
+You have slain three Initiate-Rank Hyperian Attendants!
+
+You have gained 780 Experience!
+
+Rank Difference Detected! Experience Gain x 2!
+
+[Lightsbane, Retribution of the Dark Lady] has gained 3 [Essence]!
+
+You have slain Roderick Vayne, a level 80 Human!
+
+You have gained 800 Experience!
+
+Rank Difference Detected! Experience Gain x 8!
+
+[Lightsbane, Retribution of the Dark Lady] has gained 1 [Essence]!
+
+[Lightsbane, Retribution of the Dark Lady] has gained 10 [Essence]!
+
+Evolution Threshold Reached!
+
+13 out of 10 required [Essence] Acquired!
+
+Tier 2 — Second Evolution: Potency
+
+3 Excess [Essence] will be carried forward.
+
+Lightsbane vibrated in its sheath at his hip at the notification, and Romulus drew the Revenant Runeblade on instinct as its crimson runes ignited, erupting into black flames that spread across the blade in a wave of transformation. The runes themselves multiplied, extending further along the center of the blade while the dark steel deepened in hue, seeming less like metal and more like solidified void-metal wrought into the form of a weapon. The crossguard thickened subtly, its skull-adornment became more detailed and visibly menacing, and the razor edges of the weapon acquired a faint crimson line that seemed to pulse in time with the runeblade’s vibrating satisfaction.
+
+“Congrats, Bane,” Romulus said warmly, receiving a thrilled vibration in response.
+
+“It is your turn, Romulus,” Mortarius interjected before Romulus could think to [Examine] his weapon’s changes. “I have held back your advancement until now, but it is growing more difficult with every moment. Are you ready?”
+
+Romulus glanced up at the spectral king and then sheathed Lightsbane and nodded.
+
+“Held back? Never mind, I’ll ask after. Hit me,” he said simply, while Kate—in his periphery—was squinting at the air and reading her own alerts with subtly widening eyes.
+
+SYSTEM MESSAGE
+
+Achievement Earned: [Paladin Breaker]
+
+You have defeated a Specialist-Rank Paladin while more than sixty levels below your opponent, despite suffering from the direct magical antithesis of your Race and Mana alignment.
+
+Your victory was achieved through tactical superiority, exploitation of terrain, and the erasure of your opponent’s strategic and tactical advantages.
+
+Rewards:
+
++ Experience: 1,500
+
++ Title: [Paladin Breaker]
+
++ Title Function: You gain 5% resistance to Light Mana and inflict 5% additional damage against Paladins and other Light-aligned martial combatants.
+
+SYSTEM MESSAGE
+
+Level Up x 5
+
+You have reached Level 24!
+
+You have 25 Attribute Points to Allocate!
+
+Would you like to allocate your Points now?
+
+YES
+
+NO
+
+Black fire erupted across Romulus’s body before he could do more than clench his jaw, and his back spasmed at the energy suffusing his Eidos, forcing him to groan through his teeth as power rolled through him in a wave of pressure. His muscles locked in response to the now-familiar collision of pain and pleasure racing through his nerves, and his back arched against the infusion while five levels of accumulated growth assailed him at once.
+
+Romulus was loosely aware of Kate abruptly undergoing the same process nearby as her body similarly erupted into obsidian flame, and he found himself panting after the process completed on him, looking immediately toward where Mortarius stood watching him thoughtfully.
+
+“So, what you said earlier. Did you suppress my Experience and the excess alerts?”
+
+“Only the Experience,” the former Revenant-King said calmly. “The System held back the alerts themselves when Roderick returned within [Combat Mode] range, and I suppressed your advancement to spare you the distraction. They would have scattered your focus against Roderick. You wielded your gains against my Skeletal minions well enough, but against an enemy of Roderick’s caliber, it could have been a fatal opening. You are welcome.”
+
+“Are you able to suppress my advancement whenever you want?” Romulus asked warily.
+
+“No,” Mortarius said firmly. “Outside my specific circumstances, that would be a violation of the System. It is only because you are still a Novice, and because I am soulbound to you through the armor you inherited, by my own volition as your teacher, guide, and advisor. Once you gain another level and reach Initiate, your Eidos will be too powerful for me to easily constrain your advancement. This was likely the last time I would be able to perform such a feat.”
+
+Romulus considered the specter’s words and then nodded in acceptance as his response, because Mortarius was not entirely wrong, then turned to Kate, who was panting, flushed, and gripping the side of the litter following her level up.
+
+“How come yours didn’t trigger earlier?”
+
+“I suppressed hers through your connection,” Mortarius answered. “She is bound to you, as the Autarch. My connection to you allows me to interface with her own System connection in smaller ways. With her new advancement, however, that ability has been rendered inert.”
+
+“That explains it,” Romulus said, glancing back at Mortarius, and then looking once more at Kate. “Feels weird, right?”
+
+“Sure,” Kate replied breathlessly, blowing some crimson hair from her jade green eyes while her cheeks remained flushed, “weird. That’s a word for it, D—Lulu.”
+
+“What did you get?” he asked her, ignoring the correction, and then spoke again before she could. “Wait, never mind, tell me after we figure out where we’re going to put the Priestess.”
+
+Kate joined him in glancing back at the subtly stirring Sara and nodded immediately.
+
+“Uh, milord?” Bonnie asked. “Where to? I dunno how t’navigate this place.”
+
+Romulus glanced at Bonnie in consideration and then turned to Mortarius. “Could you lead us to the most humane cells in which she can be nullified and contained?” he asked carefully. “I’m not interested in keeping her like a show-prize. We’ll just imprison her somewhere that nulls her powers.”
+
+“An unconventional choice for a Priestess of Hyperion,” Mortarius observed.
+
+“Call it a remnant of conscience,” Romulus replied after a moment. “I won’t lie and say that her being a woman isn’t influencing me, because it is, but primarily I just don’t think I need to debase my prisoners. Not until they’ve earned it. She might have done something I’d want to rip her apart for if the fight had continued, yeah, but I can’t presume that to be absolutely the case without clear evidence. I don’t know if she would have spared me or not. It’s probably highly unlikely, I know, but I’m not going to be an absolutist like Hyperion. Lilith’s Faith is about cause and effect—and she didn’t do anything to earn my immediate wrath just yet. Fighting me when I slaughtered her entire compound isn’t exactly an unhinged reaction.”
+
+“Still the chivalrous do-gooder,” Kate put in brightly, though her voice held approval.
+
+“That is a rational position to take,” Mortarius said after a moment of consideration, “but be wary that it does not metastasize into a hero complex, Romulus. The Dark Faith is, indeed, about lawful order inasmuch as cause and effect, and we are not absolutists like the Light Faith, but do not let your sense of morality cloud your willingness to do what may eventually be necessary. In this instance, your judgment is sound, but guard yourself against allowing sentiment to cloud your decisions in future.”
+
+Lightsbane, afterward, pulsed against his side in ostensible support for the notion.
+
+“I know, Mortarius. I’m not that naïve, I’m just not interested in becoming Minority Report,” Romulus replied firmly while patting the runeblade to reassure it. “For now, she goes into containment as an enemy combatant alone, not someone who’s truly earned my hatred. If that changes, we’ll reevaluate.”
+
+Mortarius observed him for a moment longer and finally inclined his head.
+
+“As you wish, Revenant-King,” the former Autarch said neutrally. “Follow me.”
+
+Romulus, Kate, Bonnie, and the unconscious Sara followed in Mortarius’ wake thereafter as the specter set off, and Bonnie leaned toward Romulus and Kate while they strode through the Necropolis’s expansive halls, her eyes darting toward the burning blue torches and gothic architecture.
+
+“He’s a mite prickly, milord, milady.”
+
+Kate smiled wryly at Bonnie and shrugged. “He’s old,” she said simply.
+
+“He’s from a different era,” Romulus explained more seriously. “In Mortarius’ time, the war between the Divinarchs was not so abstract as it is now. He reigned over an Empire of the Dark Faith, Bonnie, and ranked among Crowned Powers. To him, Sara Lightspeaker is an enemy to be destroyed first, a calculable risk second, a source of intelligence third, and a woman only after all those considerations.”
+
+“Sounds terrifyin’,” Bonnie admitted.
+
+“And hot,” Kate added under her breath unabashedly.
+
+“He was,” Romulus agreed with Bonnie while giving Kate an exasperated look. “Which is why he is so valuable as my teacher.”
+
+“Lulu, these gains are crazy,” Kate said instead of acknowledging his look. “I started tonight at level five, with one hundred and eighty Experience, and between the two people I sniped in the courtyard, I got forty-six experience. Four of the Squires were Initiates, so I scored three hundred and seventy-six for all of those. Elin and Gareth, the other two Squires, were both Adepts, so that netted me four hundred and twenty-four experience after the rank adjustments. That’s crazy.”
+
+“Gareth counted as your kill?” Romulus asked. “The one who died to the explosion?”
+
+“My [Null Arrow] caused the magical feedback that killed him,” Kate explained, “so apparently the System decided I deserved the credit for my unparalleled genius.” She looked pleased with herself after she said it and waggled her eyebrows at him. “It was morally questionable, I suppose, but still awesome. It felt like we farmed a dungeon.”
+
+“So that brings your total to eight hundred and forty-six? That’s pretty solid, especially without the [Prodigy] boost.”
+
+“I know! I’m Level ten now, and I’ve got twenty-five points to spend! And that’s not even the best part, get this…”
+
+Her eyes unfocused for a moment, and she swiped at the air as she opened something only she could see, then spoke once more.
+
+“‘Achievement Earned: Against All Odds. While below level ten, you defeated six trained combatants between thirty-five and forty-nine Levels above you, strategically overwhelmed a coordinated five-to-one formation, and neutralized a Priestess of Hyperion within the God of Light’s own holy site. You defeated the chapel’s defenders without direct combat assistance from your Liege and succeeded in slaying four enemies of your goddess in unfavorable open combat conditions while leaving the Priestess of her nemesis incapacitated.’”
+
+Kate’s eyes darted to him gleefully while he listened and then returned to what was undoubtedly a System screen.
+
+“The System awarded me with a bonus three thousand Experience, and a title called [One-Woman Army], which permanently reduces my Stamina costs by ten percent, and it also grants me martial, stealth, and mobility Skill growth gains of twenty-five percent whenever I’m outnumbered three-to-one or more.”
+
+Romulus raised his eyebrows while his best friend gave him an insufferably pleased look.
+
+“My title is so much cooler than yours,” she preened.
+
+Romulus snorted out loud. “I got [Paladin Breaker].”
+
+“Yeah, but cracking light-stick tin-cans isn’t as cool as being a [One-Woman Army], Romulus.”
+
+“Agree to disagree,” he said airily, while Kate laughed at him.
+
+Their journey through the Necropolis proceeded from there for several more minutes, and Kate wisely drew her bow with an arrow nocked but uninfused just in case Sara awoke prematurely. Despite showing signs of stirring, the Priestess remained beyond consciousness, and Mortarius theorized—when asked—that it was due to Mana feedback from her efforts in the chapel. She had, in the specter’s diagnosis, massively overtaxed her own capabilities and was suffering a low form of Mana backlash; one that would pass, but which rendered her largely insensate for an extended period.
+
+When they eventually reached the cell Mortarius had chosen, which was itself connected to the palatial throne room through a gated corridor, Romulus asked Bonnie to carry Sara into her new, temporary home.
+
+The cells themselves were more than the bare cages Romulus had stereotypically expected and appeared more akin to small domiciles. Five of them lined the room Mortarius led them to, each one approximately five meters wide, three meters long, six meters high, and equipped with a bed, washbasin with active water-producing enchantments, a screened bathing area, and a screened lavatory. The door to each cell and its corridor-facing wall were made of tightly packed black stone bars, each one red-runed with enchantments that would prove unpleasant if touched by the inhabitant, according to Mortarius.
+
+When Bonnie carefully placed Sara on the bed, Mortarius instructed Kate in how to apply the red-runed dark steel bands waiting within, guiding her in locking them on Sara’s wrists and invoking their power with Dark Mana while Romulus watched.
+
+“Why aren’t there chains connecting the bands?” he asked while Mortarius watched Kate.
+
+“Because the effect does not require excessive prohibition,” the specter explained. “If we had taken her to one of the less forgiving cells, she could have been chained—if we had taken her to the maximum security or death row cells, she could have been bound to the wall entirely. These cells were primarily used for those of my Court who broke laws that required incarceration as penance, not strictly punishment. This is the best we can offer her, in terms of what you asked. The bands will null her magic, and the corridor-facing bars of the cell will reinforce the effect of the bands.”
+
+“Can she still pray?” Kate asked while she worked.
+
+“Yes,” Mortarius said. “It would take far more than a cell to stop her praying to Hyperion, or him hearing those prayers. This is a cell for mortals; it cannot sever the connection to one’s Divinarch. Besides, it would have been a poor site of penance if my Court could not pray to the Dark Lady and receive answer in kind while nulled.”
+
+“Fair enough,” Romulus said without further complaint, watching Kate finish the activation and step back with a satisfied look. She’d made sure to shackle Sara under the sleeves of her robes, to allow her to remove the clothing if she desired. “We’ll need to get her a change of clothes, though.”
+
+“That will not be easily done with Bonnie likely compromised,” Mortarius said while they stepped out of the cell and shut the door behind them. “The Wardens will also be looking for new faces in Blackstone. The city is immense, but its population is a fraction of what it could hold. Katherine will likely be recognized if she attempts to venture out without careful preparation.”
+
+Before Romulus could reply, a new System alert appeared before him.
+
+SYSTEM MESSAGE
+
+Quest Updated: Return of the Revenant-King
+
+You have successfully neutralized two of the targets issued to you by Mortarius, and succeeded in advancing your quest ahead of the pending Hyperian Crusade.
+
+Seek out your last target before time runs out!
+
+Time Remaining: 151 Hours, 36 Minutes
+
+Targets:
+
++ Sara Lightspeaker, Priestess of Hyperion [Captured]
+
++ Roderick Vayne, Paladin of Hyperion [Killed]
+
++ Isolde Argent, Blackstone Warden Captain
+
+Difficulty: B
+
+Success: Neutralize All Targets
+
+Failure: Time Expires
+
+Rewards: Various
+
+Romulus scanned the text on the screen in silence and then smiled in satisfaction.
+
+“Well, looks like I was right,” he said victoriously. “The System counts capturing Sara as neutralizing her. That’s two down, and one to go.”
+
+“So that just leaves the hot Warden lady?” Kate asked lightly.
+
+“Yep,” Romulus said in a pleased tone. “And once Isolde is taken care of, we’re set.”
+
+“You are forgetting something, however,” Mortarius put in before Kate could do more than nod in understanding. “Your Thrallbond with Bonnie will expire by tomorrow evening. You must decide what to do with her, Romulus.”
+
+Bonnie glanced at the specter in silence, and then turned to Romulus, who understood immediately what Mortarius meant: if he didn’t make the bond with Bonnie permanent, she would die once the twenty-four-hour period passed. He scanned the former guardswoman silently in consideration and remembered that she had not only come back for them—she had done so while also then being instrumental in their safe return. Her value as a Thrall in the infiltration or spying sense was, strictly speaking, voided now that her cover was almost certainly blown—but Lilith was a goddess of Order, not just Death, Sin, and Darkness.
+
+She was also the living embodiment of cause and effect, precisely as Romulus had already invoked. He could discard Bonnie, using her compulsion to dismiss her loyalty, but that felt… wrong. Even if she wasn’t a real person, even if she was just an NPC, the reality was that she had saved their lives at least twice that night. It would be wrong, in Romulus’s eyes, to fail to reward that kind of loyalty.
+
+“You’re right,” he said after a moment. “I’ll take care of it now.”
+
+Bonnie glanced between the three of them nervously before speaking. “Milord?”
+
+“Cause and effect, Bonnie Gray,” Romulus said with a faint smile. “You earned your life through service, and I am suddenly in need of someone to watch the cells.”
+
+Kate grinned beside him, and Romulus felt his Hemoforce ripple with preparation.
+
+“So,” he asked wryly, “how would you like to be my first permanent Thrall?”

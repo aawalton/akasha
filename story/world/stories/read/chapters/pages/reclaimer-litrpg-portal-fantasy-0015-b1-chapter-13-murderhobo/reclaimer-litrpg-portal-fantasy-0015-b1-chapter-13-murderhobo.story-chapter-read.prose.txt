@@ -1,0 +1,349 @@
+Aurelian sat cross-legged on the floor with his eyes trained on the myriad of items spread out before him, having liberated both the black bag and wooden chest—at which point both had vanished—of their bounties and placed them out gently on the floor, while being mindful of his improved strength and dexterity. Two potions, an elixir, an essence drought, and two pouches with varying amounts of gold.
+
+“First things first, the potions.”
+
+Revelate!
+
+Name: Minor Health Potion
+
+Type: Potion
+
+Quality: Common
+
+Description: This Health Potion restores between 80 and 120 Health on consumption, and increases Health regeneration x10 for 10 seconds afterward.
+
+Aurelian whistled in appreciation when he read the information, and nodded his head in satisfaction. That would be useful moving forward. He had no frame of reference for how common or rare potions were, and even his Revelate skill didn’t shed light on it. He would need to consult a denizen of the Realms with the knowledge he needed, though that would have to happen when he actually met someone.
+
+He glanced at the remains of the skeletons.
+
+Someone that wasn’t undead or trying to murder him, at least.
+
+Aurelian turned his attention back to his items and looked to the elixir next.
+
+Revelate!
+
+Name: Elixir
+
+Type: Potion
+
+Quality: Common
+
+Description: This Elixir restores the Health, Mana, and Stamina of its imbiber by 500 points on consumption, and increases all regeneration x10 for 10 seconds afterward.
+
+“Now that is a potion,” Aurelian said in an awed voice, staring at the strange stormy grey liquid sitting innocuously within the round-bottomed flask. Every bottle so far that he’d witnessed had borne the same shape and design, with an elongated neck and flared-out base. It was a strangely comforting hearkening to old tales and memories of fantasy from Earth, which only helped put Aurelian at a strange amount of ease.
+
+The Elixir would end up being critical to his survival down the line, he surmised.
+
+He thought back to the fight, and how important it would be to have consistent healing. The moment he did however, realisation crashed into him like a freight train and his hands slammed into his face in mortification.
+
+He had forgotten to set the Leech nature for his Runesword.
+
+“I am such a twat,” he groaned into his palms while he shook his head. “Stupid, stupid, STUPID!”
+
+A few more seconds of internalised criticism followed and then Aurelian resolved to fix the problem then and there. He had no means of using mana as of yet, and his stamina was already in a healthy place as long as he maintained vigilance over its depletion. The only resource that he had no way to properly sustain—outside of his now finite supply of potions—was also his most critical one.
+
+The choice was immediate.
+
+Aurelian placed his right hand onto his sword hilt over his shoulder and focused.
+
+You have opted to assign a new Leech type.
+
+Current Leech: None
+
+Leech Choices: Health, Mana, Stamina
+
+Which Leech type do you wish to select?
+
+Health. Aurelian thought firmly while he stared at the waiting text.
+
+Congratulations, you have successfully assigned a new Leech type!
+
+Your [Elysean Reclaimer’s Crest] will now Leech 10% of the damage you deal as Health!
+
+Aurelian sighed at his own stupidity, again, while releasing the blade, and then looked back to the bottles on the floor. He thought of the potion he’d already consumed and frowned in thought. Would he have needed to do so if he’d had the Leech active? Would the damage he’d been dealing have been enough?
+
+In point of fact, how much damage had he been dealing?
+
+It was hard to establish an understanding of his limits if he didn’t know even that much.
+
+His eyes flicked across his HUD, and he found his combat log.
+
+“I should have done this earlier…” he muttered before mentally triggering the readback.
+
+You have kicked [Reanimated Anointed Knight] for 0 damage!
+
+You have slashed [Reanimated Anointed Knight] for critical damage!
+
+You have gained Experience!
+
+You have slashed [Reanimated Anointed Knight] for critical damage!
+
+You have gained Experience!
+
+You have slashed [Reanimated Anointed Knight] for critical damage!
+
+You have gained Experience!
+
+[Reanimated Anointed Knight] has clawed you for 27 damage!
+
+You are affected by [Condition: Bleeding (Minor)]!
+
+You have hit [Reanimated Anointed Knight] with [Clay Pot] for 0 damage!
+
+You have hit [Reanimated Anointed Knight] with [Ancient Steel Dagger] for 0 damage!
+
+You have…
+
+It continued on in a deluge of information, and the pattern that emerged was one that Aurelian quickly realised hinted at something… strange.
+
+No action he had taken—even striking with the pommel of his blade—had made a dent in the skeletons, or the ‘Reanimated Anointed Knights’ as the System identified them. Not even their own ignored weapons when thrown as debris or impediment had so much as shaved off a health point.
+
+Yet the moment he’d struck with his Runesword’s blade, and only the blade itself, he had done critical damage. His eyes drifted over to the remnants of the now-redead—was that the term?—knights and he chewed on his lip in thought.
+
+The only logical possibility was that the interaction between the undead and his blade was special somehow, in that it appeared to ignore whatever resistances or power kept them immune to normal forms of damage. He also remembered, clearly, the way they had articulated his race as if it had personally and deeply offended them.
+
+And the wail of the first of them to rise, which in hindsight may have been more of a literal call to arms than he’d imagined.
+
+Investigation is now Level 5!
+
+Aurelian waved away the notification absently and peered up at the roof to think.
+
+The skeletons hated Elyseans, or at least held some sort of enmity towards them. He was an Elysean. His blade was a special sort of Elysean weapon, specifically due to his Reclaimer title… and then there was the System Override when the first message had attempted to reward him for defeating the skeletons. It had specifically taken note of his race and title before augmenting the rewards. Which meant…
+
+“...I am in way over my head,” he concluded with an imagined ‘womp womp’.
+
+Sighing again and shrugging it off, Aurelian put aside the mystery of the skeletons and his interactions with them and focused on the remaining pieces of loot. His eyes alighted on the Essence Draught, as it had been called, and noted the difference in design. Firstly, the interior liquid seemed to burn with its own radiance, dancing with eddies of gold and silver and a myriad of other colours that seemed to draw in his eyes.
+
+Secondly, and perhaps most importantly, the bottle itself just looked cool.
+
+It was a clear glass, but with runic patterns reminiscent of his empty Soulforce Ignition flask and a definite trend towards a kind of esoteric elegance.
+
+Without waiting any longer to admire it, he sought its details.
+
+Revelate!
+
+Name: Body Essence Draught (Uninfused)
+
+Type: Essence Draught
+
+Quality: Epic
+
+Description: Essence Draughts are used in conjunction with skills that breach a new threshold, and allow the user to Infuse a skill when used. This draught has been designed for a Body Skill and is currently lacking the infusion of materials required to catalyse it.
+
+Aurelian frowned at the information.
+
+The System had given him an Essence Draught but hadn’t supplied anything in the way of a catalyst. That seemed oddly inconsistent for a System which, despite his own gripes, was usually quite exacting in the things it provided—and their usefulness. Either the System was hiccupping worse than when it had to override itself, due to what appeared to be extenuating circumstances around his existence—all of which was mildly terrifying on an existential level—or he simply lacked the information that would make the solution obvious.
+
+“Lacking materials… that can’t mean just anything, it has to be something specific…”
+
+Aurelian grimaced and ran his hand through his hair. It would need to wait until later, he supposed, and after gleaning more information. For the moment, it was just another mystery that he couldn’t solve.
+
+That list was growing steadily, and it was becoming harder to ignore how truly ignorant he was. Perhaps there was a library to be found in the building where he could spend hours staring at languages he couldn’t comprehend, all in the hope his higher intelligence would reveal unto him the secrets of their workings.
+
+That was how most Murderhobos did it, after all.
+
+“Ha… Murderhobo…” he chuckled. “Nice.”
+
+Aurelian put the Essence Draught from his mind while his mirth trailed off and instead focused on the last of the items on the floor, reaching out to grab the less full of the two bags and spill out a few of the coins. They clinked and jingled as they spilled out, rolling onto the flare with glinting, beautiful shimmers of flawless and polished gold. A regal crown was stamped onto one side, while the other held a crest with a stylised 'E’ that he couldn’t place.
+
+“I have no concept of currency here,” he said to the coins as he reached out to pick one up. “But you’re either worth a lot, or very little at all. I suppose we can find out together, hm?”
+
+When the inanimate object failed to respond to him, Aurelian chose not to take offence and instead slid the coins back into their pouches. He had no idea how centimetre-thick coins were contained in their hundreds within the pouches, but he wasn’t about to question the System’s logic. Not when it meant he wasn’t forced to find other ways to lug them around.
+
+Although…
+
+Revelate!
+
+Name: Vrelken-Hide Coin Purse
+
+Type: Container
+
+Quality: Uncommon
+
+Description: Coin Purses are the core of any denizen’s belongings and offer a convenient and useful way to carry currency within the Realms. All coins placed within only show their weight when prompted. This coin purse has a maximum capacity of 500 coins.
+
+“Well, that explains it,” he said casually while redoing the laces of the opened purse, and then picked up both.
+
+It was time to get moving.
+
+Both purses were placed in his satchel, along with the potion bottles, elixir, and essence draught. The empty potion bottle was collected as well for another container with which to store water, and then he did up the satchel. The moment he did, he also noticed that the clinking and jangling of different bits and pieces was immediately muted.
+
+Useful.
+
+Aurelian stood up with a smooth flex of his strengthened legs and double-checked he had everything.
+
+“Sword, satchel, and bedroll all accounted for,” he said out loud in order to be certain, while looking around the room. He had left a lot of destruction in his wake, and there was little of value to salvage. On a whim he collected some of the smaller bladed weapons like the daggers or throwing knives and slotted them into his belt as carefully as he could, wary of cutting himself or his pants.
+
+“These might be useful later…”
+
+With eight disposable weapons upon his person and his worldly possessions in hand, so to speak; Aurelian took one last look around the room and then made his way to the exit.
+
+If he took the time to very intentionally step on several of the once-again-lifeless anointed knight skulls on the way, well, who could blame him?
+
+He emerged into the corridor outside very differently than when he’d entered. He felt… confident. More sure of himself. Where before what lurked beyond had seemed daunting, intimidating and even spooky; now it simply seemed interesting—an adventure waiting to happen!
+
+His logical mind told him it was his Iron Will keeping him calm, in tandem with his increased intelligence and greater perception; both of which allowed him to observe and process what he was seeing with far greater clarity and comfort.
+
+His emotional mind, however, was just happy he wasn’t actively frightened anymore.
+
+Being constantly scared in a world of monsters, mana, and insane Systems sucked.
+
+Aurelian stepped forward and proceeded along the corridor towards the intersection at a light jog, both to loosen himself up after his alterations and to test the celerity and responsiveness of his upgraded body. The moment he started working his new muscles, he immediately noticed the difference, and a smile spread across his features.
+
+He felt good. Really good.
+
+Aurelian put on some speed and the intersection approached far more quickly, especially given how fast he could move without draining stamina, when compared to his initial experiments. He momentarily considered returning to his place of origin, and perhaps looking into the idea of launching himself up to try to climb out onto the roof… but even with his enhanced strength and agility, he doubted that was a feasible option.
+
+When he’d grown even stronger, though… then he’d definitely look into it.
+
+Aurelian turned the corner at the intersection and increased his pace.
+
+Murals and articulated runic patterns caught his eye as he sped up to a light run, and though he catalogued them with a memory that he found to be greatly improved—not quite photographic but certainly much more reliable—in both function and capacity; he had no immediate intention to stop and examine them.
+
+He wanted to move. More than that, he wanted to explore.
+
+Aurelian’s gaze turned upward when he approached, and passed through, brilliant shafts of golden warmth—and he noted the dome-like shape of the glass skylight far above. It would have been easily forty metres in diameter, and let in the sun and his first sights of a brilliant blue, cloudless sky. At least that much was the same.
+
+It was a small reassurance to ease a day of hitherto stupefying madness.
+
+Exploration is now Level 4!
+
+Aurelian’s journey took him past the shaft of light and along the hallway proper once more. Walls, stained glass windows, and murals passed him by while he ran along the expanse of corridor. When the first signs of conflict came into view, however, he finally began to slow; dropping down to a light jog, a walk, and then at last a complete halt.
+
+All around the corridor on both sides and even along the middle was a chaotic line of battle. Here and there skeletal remains littered the hallway like some kind of macabre anatomical exhibit. Swords, pikes, shields, bows, and even what looked like staves and wands—the last of which piqued his interest quite a lot—were either discarded beside bodies, or embedded within what had once been wounded flesh, but was now little more than ruined armour and off-white bones.
+
+Aurelian let his eyes roam across the expanse of the dead, but didn’t draw his Runesword immediately. He spent time taking it all in and carefully marking the positions of the dead that had white or what looked to have once been white plate armour, and those that had coloured—faded or not—attire and adornment. The former were likely part of whatever faction the ‘Anointed’ hailed from, and his recent encounter told him they were the most likely to react to his presence.
+
+Investigation is now Level 6!
+
+While mapping out locations, likely attack vectors, and possible avenues of advantage he felt a kind of… stirring in his mind.
+
+Aurelian’s eyes drifted along a subconscious course, drawn almost like a magnet towards his right. His gaze settled on a small area close to him and comfortably far away from any Anointed remains. He approached carefully, moving to where a group of dead with time-worn and moth-eaten dark robes appeared to have died to the bone-shattering crossbow quarrels embedded in their chests.
+
+While he closed the distance, he maintained a constant glance between them and the other corpses in the hallway. He would not be caught unawares again if he could avoid it, and procedural approaches worked best for such.
+
+When he was close enough to touch the remains, he bent down carefully while watching the skeletons warily for any sign of movement or reaction, and only allowing himself a small amount of relaxation after he placed his hand on a jutting rib cage and absolutely nothing happened.
+
+He waited a solid minute just to be certain.
+
+Aurelian allowed himself to focus more on what he was doing after that, and searched for the odd sense of resonance he’d felt and subsequently followed to the corpses. The dead appeared to have been spellcasters of some sort—based purely on their attire and the staves and wands lying nearby—and had all been clustered in a rough semicircle near to the wall. Their formation, if it could be called that, almost seemed protective in some way, almost as if they’d been trying to restrict access to something.
+
+A quick glance around, however, showed only the corridor and nothing else.
+
+Aurelian turned back to the skeletons and frowned while he moved, peering at one of the remains nearer to the middle and almost shielded by the ones in front of it. He glanced back at the skeletal battle line again, and then turned his attention once more to the new discovery. Careful movement allowed him to shift himself around the corpse immediately before him, and he approached the same small cluster from behind instead.
+
+His quarry turned out to be a skeleton of smaller size, with elongated finger bones and far sharper teeth in its mouth, which itself was also slightly enlarged. A small pair of tusks even seemed to be protruding from its lower jaw, which marked them as some sort of… orcoid ? Goblinoid? It was difficult for Aurelian to discern.
+
+His university hadn’t offered ‘anatomy of mythical creatures’ as a course, after all.
+
+Investigation is now Level 7!
+
+Aurelian’s focus drifted from the anatomical structure of the creature, and his mythological shots in the dark, to where its right hand was balled up beneath it. He raised his eyebrows curiously upon finding that, and peered at it carefully.
+
+“Now that’s interesting…” he murmured to himself, just before reaching out carefully and shifting the skeleton. He braced himself for danger while he did so, eyes glancing up at the diminutive creature’s skull, the skulls of those around it, and the line of battle. He waited for another full count of sixty seconds to be safe and only then, when nothing happened, did he look back to his point of interest.
+
+The small creature’s remains were easy enough to shift thanks to his strength, though the bones were shockingly dense and heavy. Likely a result of a paradoxically high investment in vitality, if he had to hazard a semi-educated guess using his own experiences. He wondered what that looked like in terms of carbon percentages, and then dismissed the errant thought.
+
+It really wasn’t the time for postulation on the System’s means of anatomical alteration.
+
+With the skeletal remains rolled over, Aurelian reached out and gently gripped the fingers, attempting to loosen their hold on whatever was held within. His eyes caught the glint of red beneath the bones, and he grew even more curious. The resonance he felt seemed to increase as well, both in strength and a kind of palpable urgency, as if to tell him he was on the right track.
+
+Careful to try to avoid breaking the creature’s joints, Aurelian tried to pry open the tightly gripped fingers with painstaking care, and only broke two digits in the process.
+
+He winced at each one, and his blood ran cold at the ‘crack’ of snapping bone.
+
+Some instinctive part of him knew that sound was just not nice.
+
+“Sorry about that,” he said to the skeleton, while he looked to see where a red gem, at least based on a cursory observation, had rolled from its grip and had come to a rest on the marble flooring to glint up at him. “Now let’s see what you were holdi—?”
+
+The moment he touched the ‘gem’, his vision went black.
+
+“Damn it, there’s too many!” a voice shouted at his side, drawing his gaze up to the proud, frustrated features of a handsome elf while screams of the dying and clashing steel resounded from up ahead. “They’re going to break through!”
+
+“That can’t happen!” he heard himself respond, his voice feminine and high-pitched. “The Imperatrix’s plan depends on us keeping them out!”
+
+“We have no other choice then!” a third voice called from his right, its speaker a middle-aged man with a friar’s cut. “We’ll have to collapse the entrance.”
+
+“Are you insane?!” a fourth voice shot back from up ahead, belonging to a large female orc of all things. “That would ruin the Imperatrix’s plan just as we—Urk!”
+
+Her body jerked when something slammed into it, and a voice from nearby screamed ‘Crossbows!’ in alarm. Too late in the warning, he watched the orcess  stagger backward as two more bolts punched into her body and she dropped to her knees.
+
+“Egthala!” he heard himself cry out in despair. “No! NO! This can’t be—Althair!”
+
+At his side the elf had been knocked off his feet with two large, cruel looking steel quarrels punched through his chest. He was barely breathing.
+
+“We have to do it, Tarixi! We can’t let them gain access to the—Arghh!” the human slammed back against the wall when a crossbow bolt smashed into his shoulder, and then ejected a ball of flame from his left hand. Screams sounded in reply. “You know… You know what you have to do, Tarixi. Do it. For all of the oth—!” his words cut off when a bolt punched into his throat, and he slid slowly to the ground.
+
+Aurelian felt himself staring at the dying human in horror, and then a great heat welling up within him. In front of him two more quarrels impacted the kneeling form of the orcess, and she at last released her final breath. Rage, pain, and desperation welled up inside Aurelian, and he felt it as an incandescent fury. A building inferno of less and loathing. “Why?” he heard himself demand amid quiet sobs. “Why did it have to come to this? All of you… You Godsworn bastards… ALL OF YOU CAN BURN! IGNIS ULTIMA!”
+
+He threw his arms wide in the same moment as a quarrel finally found its way into his chest, and all but blasted him off of his feet from the impact force.
+
+It was too late.
+
+His grief had been unleashed in a cascade of immolation that flash-boiled sweat and blood, and cooked everyone around in their armour. Friend and foe alike were consumed, though the flames all but ignored armour, clothes, and weapons. It was an elegant spell, a targeted spell.
+
+Something he knew even, as he died, would be forgotten; like all the rest of the knowledge the thrice-accursed zealots had already destroyed.
+
+He felt his life fading while his flames tore apart the battlefield, infecting and annihilating the flesh of his enemies and allies alike.
+
+“Forgive… me…” he said while his breath started to fade. “This is… all… I can… do…”
+
+A final surge of energy coalesced through his body, and he felt the power of his Soulforce rumble a final time, taking his blood and spinning it into a Memory Gem within the grip of his hand. He rolled over with what strength he had left, tucking it under his dying body.
+
+“Find… us…” he begged against the marble floor of his once-home. “Avenge… us… Rec… lai… mer…”
+
+He felt his life end.
+
+Aurelian snapped back to reality with a heave of breath, his hands immediately dragging themselves along his chest in search of the crossbow quarrel that had killed him—
+
+He froze.
+
+Iron Will roared to life within his mind, slamming down steely blocks of mental fortitude and helping him master himself.
+
+He was not dead. He was alive.
+
+He was not Tarixi, he was Aurelian.
+
+He was not a goblin, he was an Elysean.
+
+He was not injured. It had been… a memory? A vividly horrifying, lived-through memory. He could still smell the blood, the fear, the scent of burning flesh… his eyes roved over the silent corpse of the little goblin, and he felt a mix of awe, pity, and fear wash through his mind.
+
+She had possessed incredible power. Even the memory of it, loose as it was, tickled something within his mind. He felt… aware of himself in a way he hadn’t been before. Aware of his Core, of his body, and of the conduits of power that threaded through him like small rivers of light hidden from view.
+
+Congratulations, Aurelian Lucis Imperius!
+
+You have met the requirements to unlock the skill Ma%̷͕́!̷̰̒!̸͕̪͆͘ ̵͚̐C̵̠̉h̶̟̿à̷̡/̶̪͌/̵͓͖͠3̶̗̝̓̒#̵͍̈́̉!̴̈́̈͜1̶̻͑̕6̵̯́̿ ̷̦̆(̵̼̑͐Ù̸̪C̵͍̋)̵̭̍͑!̴͉̜̽͠
+
+Mana Channelling is the foundational requirement for all spellcasters in learning their craft. It allows a denizen of the Realms to properly cycle and build the man̴̞̰̄n̷͓̑̊n̵͑̐͜n̴̘͑̋ă̵̲ ̴͇̏w̵͔̤͆͌í̷̤̕t̴͈̖̚ḧ̵̪́i̴͉͍͘ṉ̵̎ ̴̱̿͝ṯ̷̻̀h̷̙̮̀̉ě̶̦̯̌i̸͂͜r̵̪̂ ̴̻̺͐c̵̳̱̀0̶̰̣̈́͑/̶̡̯̓/̶̝͙̇̒/̴̢͎̈́̾/̵̭͖͆$̵̭̅̆#̴̮̇̈#̶̛̺̂ͅs̴̆̎͜,̷̼̎ ̴̧̺̈́$̷͎̍%̷̟̱͘%̷̹̖͛͝&̷̯̕͜/̸̫͈͗/̶͇͌̓/̴̰̲̈́̈́-̵̹͋-̶͕̠͛-̴̨̿
+
+ERROR
+
+BLOODLINE DETECTED: ELYSEAN
+
+BLOODLINE SUPERSEDES ALL OTHER BLOODLINES
+
+SYSTEM OVERRIDE IN PROGRESS
+
+STANDBY
+
+. . .
+
+Congratulations, Aurelian Lucis Imperius!
+
+You have met the requirements to unlock the skill Mana Control (R)!
+
+Mana Control is the next stage of Mana Channelling, and allows you to not merely cycle the magic in your body, but control and guide its progress. Through the use of Mana Control, many wise and powerful spellcasters have strengthened and empowered their bodies to better make use of their Cores. By gaining this skill, you have taken a prodigious step on the path towards mastering spellcraft!
+
+The mysteries of magic await, Reclaimer!
+
+Aurelian exhaled in shocked surprise when he felt his awareness of the mana in his body settle on him, and was stunned at how potent he suddenly felt. He could track and mark each and every vein within him, or at least he knew he had the ability to. What he was feeling in the moment was more akin to a sense of minor-level enlightenment, allowing him to become aware of a resource he had never exploited or even fully understood the existence of.
+
+It was… incredible.
+
+“Thank you, Tarixi,” he said while giving the gem a smile.
+
+“You are welcome, Reclaimer,” a high-pitched feminine voice replied.
+
+Aurelian turned to his side, and the projected ghost of the dead Goblin smiled.
+
+“Oh,” he said in a nonplussed voice. “Fuck.”
