@@ -1,0 +1,109 @@
+"So why isn't that resulting in a new subskill for her?" Henrietta asked, watching as Alyssa gleefully torched flowers by the hundred. The end result of Alyssa's first magic lessons had been her figuring out a Fireball-like spell that worked most of the time, and she was putting to great use.
+
+"Et-eli-sih-cal, not e-tell-ysh-cal," the Artificer muttered under his breath, his eyes fixed on their Ranger. "Stop trying to brute-force it, volume won't change the problems you're having, you kindergarten chanter. You third-lab back corner pantomimer. You caveman-level caster. Ooh, look at me. Alyssa make fire, me twist skill and call it a spell. Stop butchering the grammar, you incompetent-"
+
+"Smith."
+
+Oliver startled, apparently entirely engrossed in his private criticism of the Ranger. "Did you ask something?"
+
+Henrietta suppressed a sigh. She wasn't the happiest with her resolution for Oliver and Alyssa's little fight - in retrospect, she should have had both of them cool of a fair bit more before having them reconcile via magic lesson - but these were the things she still needed to learn to be a good leader. It definitely seemed to have cheered Alyssa up substantially, and while Oliver wasn't always the easiest to read, there didn't seem to be any real heat behind his complaints.
+
+If anything, he seemed to be glad that someone else was taking a deeper interest in magic, and it was mostly just lingering grouchiness that was causing him to be unhappy at all.
+
+Hmm, if I have time, I ought to try to develop my own traditional magical abilities. It wasn't something she had much time for - casting was a skill that demanded ludicrous amounts of time to progress what broadly amounted to party tricks - but it might prove useful and would almost certainly help Oliver's mood, to have more people who deeply understood the sorts of technical work he was always immersed in.
+
+Right now though, he was still waiting for her question, and Henrietta repeated it, "Skills and subskills, when earned manually, are gotten by doing magic. Why hasn't she gotten a new skill for it, or has she without realizing it? Conjuring flames with my inklings has gotten me skill offers before."
+
+Oliver looked hesitant, mulling over his response before finally replying, "It's... a combination of it not really being a new subskill, and the same reason I don't get a new skill every time I cast a spell. She's using a combination of her [Leafstep] subskills and [Ignite]'s ⟨Conflagrate⟩ for the core, and with ⟨Conflagrate⟩ being a meta-skill to begin with, that obviously won't grant a new skill.
+
+"Skills are... an expression of who you are, as far as the Tapestry is concerned. The kinds of magic which you have 'authority over,' which define your relationship with the arcane. Spellcasting doesn't result in a new skill every time, because casting will simply be attributed to whatever skill was used for the casting, and it will gain 'experience.' Significance. Levels. Whatever you want to think of it as. Doing something that's out of the scope of an existing skill will open up a new avenue for what kind of magic you are 'capable of,' and that gives a new skill or subskill. She might get something at some point, but I don't know if it would be a subskill, skill, or what kind of each it might be."
+
+That did make sense, except for... "Yet my inklings. I don't have a skill for those, and most things I do with my Sketchbook don't result in skills."
+
+"The working hypothesis is that those forms of magic are accounted for in a way other than skills, which the System can't see clearly. Theoretically, they should at least appear as Achievements, but they... don't," Oliver shrugged, "Getting firsthand experience with that is part of why I signed up in the first place. It's hard to pin down a veteran Forerunner for more than quick tests, so our knowledge is limited."
+
+It didn't take very long after that for Alyssa and Jacob to clear out the flowers and stone elementals that had infested their Ironworks, with Henrietta only needing to directly intervene and protect Oliver a couple of times, and they moved on to their actual purpose - installing the first ballista as a form of automated defense.
+
+The contraption itself was an eclectic mix of rickety and overbuilt, reeds lashed together as best as they could manage using papyrus, vines, and rope. Yet simultaneously, whiffs of Force drifted off it, with the reload, trigger, and aiming systems all dependent on that particular element.
+
+Not that she could think of a different element for those to be based off. Perhaps elemental Space for the aiming, but the others were too motion-oriented for anything else to make sense. All together, it was larger than Henrietta and weighed perhaps a hundred kilos. It would roughly track with anything that moved, and fire at anything big that moved, or moved too quickly.
+
+Granted, the tracking itself could be easily foiled. Moving slowly enough was the most straightforward method, but Alyssa and Jacob each had methods of rendering themselves invisible to the Force-based targeting. Oliver could use his skills to directly assume control over the device to make it not fire at him or aim away from him. That just left herself and Clark as the only ones who needed to be more than mildly careful around the weapons. That wouldn't be too great of an issue - Henrietta was more than confident she could handle the ceramic fragmentation bombs they were loaded with even if taken by surprise - if not for her digger inklings, and the fact that they were absolutely large enough to be shot at.
+
+The interim solution was to simply confine the ballista turret's range of fire such that it couldn't shoot inwards, and therefore the inklings would be entirely safe so long as they stayed within the Ironworks. The downside of that approach was that they'd need three more turrets to actually defend the pit mine, but Oliver estimated, and Henrietta translated his estimate to, that he'd only need a week or two to make that many. He'd no doubt refine it and make the overall thing far better during that time as well, just as a natural byproduct of building it several times. It was definitely overcomplicated in some areas, and undercomplicated in others, and now it was just a matter of figuring out which area was which.
+
+Jacob was set to wait at the Ironworks for the first day to ensure that nothing with the turret went too badly, and to see what kinds of threats they were dealing with that had killed all of her inklings last time. Alyssa was nominally better at stealth but much worse at patience, and in case the ballista had any malfunctions, Jacob knew what to do better than Alyssa would anyway.
+
+They'd be setting up a little shelter-blind area as well. Nothing major, no enchantments or anything, just enough of a place for Jacob to relax and stay out of immediate sight-lines. But that would only come after they had the turret set up, which was... tricky.
+
+The core was obviously the winding mechanism, which used a motion slide to draw back the ballista's 'ammo pouch.' Attached to that was a pair of strong ropes, in turn connected to bundles of reeds under tension that served as the weapon's limbs. The limbs were themselves attached to a central iron pivot which was also attached to the winding mechanism, combining into a very basic crossbow.
+
+The pivot itself was what the entire weapon swiveled on and housed the targeting enchantment, and was the only thing connecting the top half to the section which was actually being bound to the tree stump they'd selected to function as their support. Unfortunately, it couldn't be separated to make placing it any easier, and would probably rust into uselessness after a few months unless they figured out a good source of lubrication. The enchantment could work through a thin bit of rust, but nothing structural.
+
+Finally, there was the trigger. That was simply a metal wedge that took a certain amount of Force - which could be approximated with momentum in this context - before it spontaneously moved, which would loose the pouch and make the thing fire.
+
+Of course, a crossbow with no ammo was absolutely useless, but to take care of that particular hurdle, Jacob had created a hopper-chute out of reeds, that could hold a dozen or so of their 'claynades' at once. Not many shots, but they also didn't have very much of the ammo yet. Henrietta was building up the things needed for her to get ⟨Amanuensis⟩, and had decided that getting something working was better than waiting for everything to be perfect.
+
+That it inadvertently applied a bit of time pressure to her subskill earning was somewhat suboptimal. But, the worst thing that could happen was that they'd just lose some development, which truly wasn't that bad. So long as everything worked, they were golden. Or perhaps iron.
+
+Testing the ballista wasn't the most complicated, and - after Oliver finished manually controlling it during some initial warmups - mostly involved Henrietta conjuring inklings or throwing large-ish objects around and making sure that the turret shot its claynades with enough accuracy. Perfect accuracy was unrealistic, but the hope was that the sudden sound would chase off anything that got too close even if it didn't hit.
+
+The flowers, which were still trickling in, were a bit of an exception, but there the point was to blast them off whatever animated clump of plants they were dragging around. Only time would tell if that was all they'd need, but it was at the very least a start.
+
+The limited ammo-capacity of the turret was likewise an issue, and something they'd need to solve eventually, but with her and Jacob taking regular trips back out to the Ironworks until Henrietta found a good beast of burden to make the trip instead, they could restock it as required.
+
+Of course, once they did have a beast of burden making the trip - something that needed to happen sooner rather than later - they'd need to figure out a better way of making sure the turrets were fed, because the entire point of having automated defenses was that it wouldn't need constant tending-to.
+
+Granted, given how much everything was creaking and shifting as they test-fired the ballista now that it was in place... this clearly wasn't a permanent solution.
+
+One problem at a time.
+
+It was a maddening balance, trying to look far enough forward to anticipate problems before they actually arose while also needing to be flexible enough to adapt to the new challenges that arose. At least she had an attainable, if admittedly rather nebulous goal of getting them a fully-functional factory feeding them basic materials.
+
+Right now, the list of what a 'proper factory' needed to provide them included iron, glass, concrete, lumber, cloth, and copper. No doubt, that list would grow immensely over time, but those things were at least materials which had some understandable path forwards for.
+
+"Am we clear to head back?" Alyssa asked. "Us mages need to get back to doing important things, like yelling loudly into the air and twiddling our thumbs aggressively."
+
+"You are not a mage," Oliver cut in.
+
+"I suppose I do have more important things to do than that," Alyssa conceded. "Which makes me better!"
+
+"That is not what I said!"
+
+Henrietta suppressed a sigh. She never knew when to intervene between the two of them. Stopping them from bickering altogether would probably be outright counterproductive, but there clearly was some degree that was too far, she just didn't know where that point was.
+
+She didn't even have anyone else that she could vaguely base her reactions off. Jacob found the entire dynamic hilarious, and Clark... well, he was too Clark about the whole thing. At least they were being somewhat mature about it, and were able to work together even when actively fighting. She was fairly certain that even the two of them didn't know how they felt about one another, but she wasn't about to risk upsetting the tenuous balance they'd struck by trying to poke around in their relationship.
+
+"Yes," Henrietta finally said, to head off another squabble, "The two of you can head back. Veeran and I can finish off what's needed here, and I'll be behind you soon enough. You know what you're doing?"
+
+Nods from both of them and quick salutes, then Alyssa scooped Oliver up in her arms and bounded away. Alyssa's ⟨Springlaunch⟩ made her the undeniably fastest member of their group, even when moderately burdened, and her acquisition of ⟨Tumbling⟩ made it safe enough for her to carry Oliver at full-speed. Combined, it had become distinctly more advantageous for Alyssa to function as Oliver's porter over Henrietta.
+
+Now, why they had chosen a princess carry style was a mystery, but...
+
+Henrietta shook her head and turned back to the Ironworks. Her digger inklings had started work again, their claws - each the size of her hand - tearing into the soil and loose rock which the hematite was embedded in. It wasn't the fastest by any means, but it wasn't their resource bottleneck yet, so she couldn't care that much.
+
+Keep moving, keep iterating, keep improving.
+
+After making certain that things would keep working without her - though Jacob could simply say when he returned if anything too bad happened, and she could make the trek out... again. It was difficult to measure distances, but it seemed like it was somewhere around ten kilometers in a straight line from First Tower, which was... possible, given the rough terrain, for her to travel back and forth in a single day.
+
+It was still fairly tiring, even with aid from her inkling constructs, but even with sections being cleared out of underbrush, the terrain was just so rough. Her wings weren't equipped for particularly long-distance flight, which left her navigating through the wilderness on her ink-flails like so many tentacles.
+
+After she confirmed that Jacob would be alright, she set off on her way with half her flails carrying baskets full of ore. It was probably enough to keep the Universal Refinery running for perhaps a day at maximum capacity, which was incidentally quite comparable to how much Jacob was able to carry. If her tendrils were stronger and had better endurance, she could potentially take more... but it was fine.
+
+They wanted a better transit system than one of them physically carrying things, anyway.
+
+The next few days passed by fairly quickly. With an abundance of iron, Oliver continued building out his workshop and even built them some additional tools - hooked knives for reed harvesting, a saw for tree-felling, a pair of hatchets for Alyssa, and a cooking grill for Clark, which the man started using with gusto.
+
+Clark had also gotten his own fire enchantment, and a bit of a basic kitchen setup, and the improvements to the general morale - including Henrietta's own - made her realize that she really should have prioritized it far sooner.
+
+Jacob had returned with a half-ton of iron ore and a list of improvements that needed to be made to the next generation of ballistae, which Oliver had taken to with gusto. In the interest of superior testing, the next two turrets that Oliver made wound up being mounted by the walls of First Tower. They were quite different from the ones at the Ironworks, though, in that they weren't automated defenses but instead manually fired. They still reloaded automatically, a process which Oliver could speed up when he was present, but they wouldn't fire unless a string was pulled. Or, again, if Oliver personally triggered them.
+
+Unsurprisingly, their primary purpose was to help Oliver defend himself and Clark when their more combat-oriented teammates were out and about. It wasn't much, but it should be enough against wildlife and it was a great deal better than nothing. Their secondary purpose was as dedicated prototypes for Oliver to firsthand see the ways the design failed over time to iterate upon.
+
+Alyssa was in and out constantly, going on two-day expeditions in various directions to find a deposit of copper. She hadn't found anything yet, but the range she could cover with her [Rustlewind] kept growing, and there had to be something for the droopnoses to develop such a robust cupric skeleton. Secondarily, she was also trying to find "a creature of sturdy back and robust strength," which could be repurposed into a beast of burden... and somehow hadn't found one yet.
+
+In the meantime, Henrietta directed her attention mostly at creating a road to the Ironworks. For now, that was simply a matter of clearing out trees and underbrush, the latter of which was frequently done by Jacob with his ⟨Sweeping Cut⟩.
+
+Once there was a decently straight shot to the Ironworks, then would come leveling out the ground, creating a dirt road that would hopefully quarter the time it took to traverse the distance. But, well.
+
+One step at a time.

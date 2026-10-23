@@ -1,0 +1,125 @@
+Oliver placed his blue Capstone Gem half-embedded in the clay which the Myself glyph was carved into and prodded the setup with his mana, wielding his Staff of the New World to focus the tower's output of Technology and Significance onto the gem.
+
+The amount of mana that was on hand was... honestly pitiful compared to some of what he'd done before, but far more than he'd ever tried to control with stats this low. His grasp on the spell shuddered momentarily, and the Tapestry was slow to respond, but with some effort culminating in him slamming his staff into the platform, he got it working. The Myself shuddered to his arcanoception, then stabilized.
+
+Of course, now he had mana flowing everywhere, because he hadn't put in the directional glyphs yet. It was, he had to admit, more than a little uncomfortable to be working with live enchantments, but his first task was to install safety checks to ensure that nothing catastrophic happened. Especially given this was a soul enchantment, meant to soften the very essence he utilized to control magic... nope. He was taking no chances.
+
+But first, he needed to make sure that the mana flows weren't doing anything too weird. The secondary glyphs that he was going to be working on would drown out any other sources of mana-flow oddities from the moment the first glyph was carved, but that wouldn't change the underlying issues, but instead hide them until he was halfway through the enchantment and then suddenly cause an enormous problem that would have to be resolved before any more progress could be made.
+
+He almost thought there wasn't anything, but right as he started to turn his attention elsewhere, the mana sputtered for a moment, defocusing and then recovering on the edge of his attention. It was gone by the time he was able to give it his fully attention, prompting a frown. He'd already started thinking about the next step, why did it need to finally have an issue now?
+
+Oliver discarded the temptation to simply let it be and deal with it later, and took a closer look at the binding runes funneling mana into the crystal. Nothing was obviously wrong there, so he looked at the crystal itself. That was working fine as well, but...
+
+He narrowed his eyes. The crystal seemed to be getting slightly less charged with mana as time went on. In most circumstances, he'd dismiss it as his imagination, but when debugging it was important to investigate all hunches.
+
+There it was! Okay, it definitely wasn't his imagination. So for whatever reason, the crystal was becoming disenchanted as he went along... was it leaky, losing mana from somewhere? Well. It was losing lots of mana from everywhere. A rough gem hand-placed on an askew tower did not a perfect enchantment make. Was it losing more than it was supposed to?
+
+But it losing mana should just reduce the amount being pulled out of the gem at the top, not cause it to periodically lose focus. So something deeper had to be going on.
+
+Eventually, he was able to track it down. Unplanned by him, the Myself was pulling mana into itself, instead of simply getting mana pushed through it by the crystal. That meant the crystal wasn't the one dictating its exit-flow rate, and as such the draw being slightly higher than the supply resulted in exactly what he saw - the crystal slowly being drained of mana until it dipped below a critical point needed for base functionality, at which point it would reset itself. Basically, it was constantly rebooting. Which wasn't ideal for a number of reasons.
+
+Fortunately, it was an easy enough fix. Practically, there was absolutely nothing that he needed to do any different, he just needed to ensure that one of Myself's secondary glyphs restricted its ability to pull mana into itself. Which he could do as part of the safety conditions he had beep preparing to add.
+
+All he needed to do was to utilize a slightly different tone for his Gate glyph. Instead of having it simply be a basic switch, he'd need to make it more of a gradual control, limiting how much mana the Myself drew in. All he needed was a limiter on the 'fully on' end of the spectrum to still limit how much mana could be let through and...
+
+Hmm. If the tower got to be more powerful over time, which was a thing that could absolutely happen even if he did nothing, then he'd be losing out on free power for the enchantment if he did some kind of hard limiter... and a hard-number limiter would be limited by how well he could figure out how fast the mana was coming through, and that was essentially not happening. Plus, artificially holding back mana that wanted to move could result in... bad things happening.
+
+Okay. So instead of a hard limit, he'd set up that secondary glyph to reference a glyph in the binding focus circle beneath the gem. By doing that, he could ensure that the amount of mana let through by Myself never exceeded what was first being channeled into the gem, which it wouldn't anyway because of the losses in the crystal... eighty percent of it. Eighty-three. Eyeballing it, it looked like the crystal didn't have a loss factor of more than a sixth, so that's what he'd use.
+
+He enchanted the glyph and cast a spell limiting the mana flow, cutting the flow of mana down to a tenth of what it had been a few minutes prior, and he sagged with relief as his soul suddenly relaxed, no longer channeling a ton of mana into the surroundings.
+
+Oliver paused. He hadn't noticed when his soul had started serving as the focus for the mana passing through it, but that was good in that it indicated his foundation for the spell was rock solid, in that it immediately directed the mana, as directed, through Myself. Himself. Grammar.
+
+It also made him relieved he'd managed to get the Gate installed when he did, because even properly managed mana flows were unhealthy to be in long-term, let alone directing a powerful one through his soul. At least it had been mostly Technology and Significance, both of which his soul already was well accustomed to. Still an uncomfortable thought.
+
+If he looked for it, he could still feel the slight trickle of power entering his soul, but he couldn't tell where it went from there. Presumably it was either metabolized or naturally processed in some other way, and not something to worry about yet.
+
+With the Gate functioning properly, Oliver moved on first to create release conditionals for the flow of mana. He used his Staff of the New World to tweak the supplementary glyphs for the Gate, setting it to 'monitor' for Fire mana by creating a release glyph that would require Fire to actually connect into the Gate. It was fortunate just how much Fire had tied into his initial Mana-Smoothing Ward at Shelter, because it made an excellent conduit for his enchantment now. Easy to make but in short supply for the local Tapestry, and thanks to his staff, trivial to monitor for.
+
+I can just use Fire for all that, he decided somewhat spur-of-the-moment. Anywhere that he needed a conditional, it would be done by setting a 'watcher' for Fire mana, and they could be activated by ensuring Fire mana brushed a particular part of the enchantment. That was something he could pretty trivially spoof while using his staff, and whatever the end ritual needed to be, it would just need to include lighting a fire in a couple of braziers first.
+
+Next, he needed to ensure the mana went where he wanted it to. That was accomplished by first creating an attraction glyph in the appropriate direction, then supplements to direct that mana into the Forge glyph. Trying to figure out how to get the mana to split properly after the Forge was harder than he'd expected, because he'd remembered somewhat last-minute that exa-circle glyphs weren't something he could really use. Normally, they weren't an issue because, well, normally he had a lot more advanced tools to work with, things that could more stringently define what would or wouldn't be included in the circle. But here, he would be lucky to not have his circle be slightly oblong on its own, and exa-circle glyphs would only exacerbate that problem.
+
+Magic circles didn't have to be circular, despite the name, but they worked far better when they were, and he didn't have the control needed to do anything fancy right now. Besides, his circles were already occupying most of the open space, so there wasn't enough room outside the circles for an exa-circle glyph.
+
+All that meant he couldn't create a 'stop' for the mana, creating an outer wall which the current could break against and flow around, but instead he'd need to get a bit more creative. Oliver tapped his inscribing stylus against his chin as he thought. Treating mana as a fluid was a go-to tactic, because it was really easy to set up mana controls that allowed for that, but without a reliable way to alter the behavior of mana, like he had done for his force-pillows, that wasn't really an option.
+
+He could delve into metaphor, try and charge the mana with a duty... no, that wouldn't do it. And he didn't have a good template for it, anyway. Maybe he could add an attractor to try and pull the mana back before it reached the edge, as though he was sloping the entire thing towards the center? No, that would likely pull mana out in cases where he did want it going through the edge.
+
+What about treating it as energy? He could maybe utilize a form of Fire behavior to have it burn down a 'fuse' that was the runes along the edge - or to utilize a slightly different metaphor, he could make the outer layer of runes really conductive, as though he was building an electrical circuit. That would pretty strongly limit his flexibility when actually making the outer ring, which he didn't like.
+
+A thread, then? It was really easy to get mana to behave as a thread - 'spellweaving' and the Tapestry were called such for a good reason. And it was a pattern he'd already leaned into with his Mana-Smoothing Ward and therefore his Staff of the New World, making it a readily-accessible option with just a bit of tweaking.
+
+What he could do then was set up a continuous loop of mana being pulled into and out of the Myself, and pull it tight against the outer edge by setting up another mana-repulsion layer just inside the outer circle, where the primary glyphs would have their subsidiary circles. Yeah, he liked how this would work.
+
+Though... if he treated the mana as a single continuous item, then that would change how it interacted with the glyphs themselves. That wasn't exactly a problem, but it was a complication. Specifically, it would make it much harder to set up because each glyph would directly impact every other glyph, rather than just indirectly.
+
+Perhaps a chain, instead? Discrete links of mana bound together. He really liked that, actually. If he could make each 'link' be a distinct amount of mana, he could more precisely control how much power ran through the circle, and thereby better limit how many stat points could be assigned at once, bypassing his concern that stat point assignments might be all or nothing. Meanwhile, the direct connection would also grant him a bit more leeway in how much he could twist the mana with his glyphs, making the thing easier overall.
+
+It would be harder than simply doing a constant stream, but he managed to figure out the appropriate modifications to both the [Scrollcast] and [Cogniprint] to make it work.
+
+A small group of glyphs bound the behavior of his mana, and soon thereafter he had a thin line of mana pulling against his soul as it ran constantly through him, into the enchantment, then back into him. It felt like someone was dragging a string through the color blue in his mind, but it worked, and that's what was important.
+
+Of course, now he had to make sure that his mana actually went through the enchantment like it was supposed to. He tried a few different approaches to no avail, but hit on an idea when looking at the other crystals Alyssa had found while near Shelter. They were a bunch of different colors, and at least three different kinds of minerals altogether. There weren't a ton, either, just a couple fists-worth, but... yeah, he could make it work.
+
+Not all of the crystals were appropriate for what he wanted, but he picked out the seventeen he liked the most and gave each of them a quick enchantment to, "Hold fast and know the might of the mana which gives you life, that you may resist and impede the passage of all else. You shall be a bastion, a shining jewel upon a tower, holding at bay all the mana of the world and of the chains binding you in place alike."
+
+Once done, he started pulling the mana-chain taut, slowly growing the loop by moving a crystal out by a few centimeters, stabilizing the current, and then moving to the next load-bearing one. Each primary rune got one, both for the Myself circle as well as the Magic and Body circles. Of course, there were overlaps, and the Myself rune already had the Capstone Gem that he tweaked to fulfill the same role, but by the end of it he had a complete loop of mana around the Myself circle.
+
+Simply forcing the mana to pass through all ten glyphs was having a bit of an impact, but not enough of one and not in the way he wanted, so from there Oliver started working on the supplemental circles of the primary glyphs - still technically secondary glyphs to Myself, just a different kind.
+
+Forge was first, of course. This was in many ways the most critical part of the entire creation, because this was where the mana - fresh from his soul and still slightly connected - was given its first 'instructions,' twisted in a way that sparked the act of reshaping and creation. It wasn't an accident that it was directly mirrored by Masterwork, because everything in-between was just what was involved.
+
+But he was getting ahead of himself. Forge was the foundation. This was a refinery and a smithy in one, the tip of the Spear aimed at the heavens. The eternal light definitely played a factor, both in the way it provided energy and ensured everything stayed honest.
+
+It also made the intensive work of carving glyphs into hardened clay that much tougher. The constant wind kept him from overheating, but Oliver still needed to take a few minutes to breathe as his hand suddenly cramped up. Some lingering remnant of taking a shard of brick through the hand, probably. [Prince of Shining Streams] didn't have much ability to treat wounds that weren't obvious, and apparently subtle muscle damage didn't count.
+
+A jar of water was drained, a few bites of food were eaten, and a couple minutes of talking to Henrietta about his progress - not as much as he'd hoped, which Henrietta said she was alright with. Oliver thought he might even believe her.
+
+But he couldn't stay away from the mana for too long. He couldn't turn the mana completely off, because that would break the enchantment-thread - the thought prompted Oliver to make a quick detour to also define a minimum amount of mana that had to be allowed through the Gate - but leaving mana before it was fully leashed and defined was a 'bad idea.'
+
+That was how you got Dragons.
+
+After Forge came Bind, and here Oliver found he already had half his work done for him. Making the mana act like a chain meant that Myself was already bound to the tower, their present and future tied to the enchantment. They were even surrounded and pulled tight by the magic, and while he hadn't exactly been thinking of that at the time, he wasn't going to complain.
+
+Paragon was next, and Oliver kind of cheated for that one. Because only five people would ever be using this tower, and by the time they'd be changing their classes he'd be well beyond this crude enchantment, he was able to just hard-code them in by identifying their classes, five supplementary glyph-clusters dedicated to defining the pinnacle of what [Erudite Enchanter]s, [Master Inkscribe]s, [Frost Knight]s, [Ranger of Far Lands]...s, and a [Prince of Shining Streams] should be.
+
+Magic had an entire circle dedicated to it, and that meant it was a bit different. While the entire enchantment was important, it also needed to have the capability of focus, narrowing down the effect of the rituals to look at a single stat.
+
+At this point, Oliver needed to figure out how he was going to control the overall enchantment. What if someone wanted to do multiple stats at a single time? How would they properly convey how many they wanted in each?
+
+Jacob was actually the one who provided an answer, when Oliver went down to sleep for the night - which was itself a massively nerve-wracking experience, but he'd managed by leaving his Staff of the New World as a surrogate for himself, just something to keep the mana in place and running.
+
+Doing so had given him the opportunity to express his dilemma, and how he didn't really like any of his options - not that he really had that many good options, he was just overall struggling - but the [Frost Knight] had just asked, "Why not limit it to a single level at a time? Even should the ritual take an hour, levels do not come so often as to be an issue, and you have expressed that the tricks we might normally attempt while leveling won't be possible with this."
+
+It was logic that was difficult to argue with, and after mulling it over that 'night,' Oliver ultimately did go with exactly that. Accordingly, the stat one wanted to select would be marked by placing a specifically-enchanted smaller crystal on the glyph representing the stat that was supposed to be increased. It might be a little awkward avoiding it if trying to perform the ritual - which was already looking to be fairly physically demanding - with the crystal in the Aura slot, right where the user was supposed to be standing, it was probably fine.
+
+Body underwent a similar process, though much faster because Oliver already had an example to work from. He just needed to make sure that the mana had the appropriate associations with the parts of the soul responsible for each stat, rather than trying to bind the level-up to the body itself. Given they would only be doing a single level at a time with no substats, there would be no way to get Aura to properly mediate the 'magicification' of corporeal flesh, and some rather unpleasant forms of magimorphosis - the technical term for one's body being reshaped by their magic - would be almost guaranteed as a result.
+
+Neither the Body or Magic circles were set up quite the same way as the Myself circle. For those, he was far more willing to let the mana simply flow out in every direction, and those would end up being the primary vents for the mana currents produced by the tower... except for the stat-determining crystal, which would act as a catalyzing focus and repository for the mana, pulling the soul appropriately as it did so.
+
+It was going to be a pain to figure out a ritual that didn't break the crystal after it was done, but if he couldn't... well, it probably wouldn't be that hard for Alyssa to find some more rocks.
+
+Spell, by contrast, was far simpler. Well, it was for now, anyway. It would be the glyph which served as the bulwark for all of the last minute changes and debugging he'd inevitably need to do. Spell was the sacrificial glyph because it was, for obvious reasons, the glyph that would interact the most with the actual ritual designed to use the enchantment. Plus, it was a glyph with intense Arcane associations, meaning Oliver could quite easily ensure it was functioning as-expected.
+
+Strike was almost the opposite in that regard, but it still wasn't particularly complicated. This was going to be responsible for the actual soul-deformation which solidified into a stat point at the end of the process. Again because of the ritual, it mattered less the exact means by which it would Strike the soul, and more that it was able to do so in a very consistent manner, with comprehensible-to-him cause and effect for why and how it would change. That would let him alter the ritual around it, for the patterns necessary to induce the stat growth.
+
+When Oliver started working on Story, he started noticing that he felt a bit... weird? The mana was still flowing through him as expected, but the Tapestry around him started to feel a little distorted and kind of melt-y. The sensation went away if he left the circles, which was weird, but given he could change the 'texture' of the change by plucking at the mana-chain bound to the enchantment, it seemed likely that it was just a weird side effect of working on a live enchantment which was actively going through himself. Even when it was working, the System node wasn't intended to be actively channeled through someone for multiple days on end, and that was basically what he was doing.
+
+Maybe this would be good for his levels?
+
+Whereas Bind drew from the enchantment-work he'd already done in the System node, Summit - fitting, for the glyph directly opposite of Bind, though not something he'd been able to plan - drew from the Tower's foundation wards. He'd incidentally drawn a bit on the Spear of the foundation earlier, when working with Forge, and Oliver went back to accomplish much the same thing with a slightly different mechanism, such that he could have Summit be the sole focus of the Spear, the leading point that started the charge for everything else.
+
+As he finished off the glyph, a sudden weight started pressing down on him, and though he staggered he kept to his feet. An electric crackle seemed to fill the air forebodingly, and Oliver wiped off a bit of sweat from his brow. Then he frowned, went down to wash himself off, and came back feeling substantially more refreshed and with far less murky lingering mana on him that seemed to be reacting with the enchantment-work he was doing.
+
+Masterwork was so close to the end Oliver could practically taste it. This truly was the culmination of everything, and for all that the mana buckled and fought him every step of the way, he was able to pin down the unruly traces. Fittingly, Masterwork also represented his masterwork, finally getting everything narrowed down and precisely in place.
+
+"I am Oliver Smith the [Erudite Enchanter]. Behold, for I come at you with the might of the Arcane, the surety of Technology, and the Knowledge of billions before me. This is my triumph, the seat of my victory, and the first steps to true dominion!"
+
+Oliver struck the central glyph with his staff at the same instant his chant came to a close, and the fluttering ripples of mana shook and then were still, compressed into a potent yet steady current of mana blasting into, through, out, and back into him.
+
+At last, he'd tamed Nature. He had brought chaos to heel, he had overcome the world itself, and he had forged a triumph of modern engineering in the middle of the woods with nothing but his wits.
+
+I Myself have become triumphant, he thought, eyes fixed on the sky above, Let this stand as a monument to the might of human ingenuity and tenacity, how no matter how you may fight us, we will prevail.
+
+Then a surge of magic gathered around him, the Gate burst open with a sudden snap that Oliver felt in his soul, and magic flowed out in a cloud of golden smoke billowing into the sky.

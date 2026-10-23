@@ -1,0 +1,171 @@
+"Woah," Smith said, without even the slightest attempt to hide his awe at the battleground that was their future iron mine. The lines along his body even began to turn teal, mirroring the boy's emotions.
+
+Veeran did suppose that for one of his age, newly released from schooling, the torn up soil of the battleground was liable to be rather intimidating. The stone elemental had managed to fell a few trees before Veeran had felled it in turn, and the new vinebeasts had disturbed a substantial degree of soil. When combined with the efforts he and Commander Inq had levied towards clearing the area of plant life both before and after the initial wave of floral enemies, he could understand the reaction.
+
+Then again, perhaps he was responding to Veeran having cleared out what elementals had accumulated since he had departed for First Tower. ⟨Sweeping Cut⟩ made quick work of anything that weak, the whistling blade of energy it produced ideal for, fittingly, sweeping up such groups of extraordinarily weak enemies.
+
+Not that it mattered overmuch either way. There was work to be done.
+
+"Are you prepared to move on?" Veeran asked as politely as he could, working to preempt the Archmage before he could become distracted, or overly focused upon anything else.
+
+"Oh! Oh, yeah," Smith tore his gaze away from the clearing and back to Veeran. "Sorry, remind me what threat these things pose? They seem way too weak to meaningfully stop mining. They might be annoying, like walking over a carpet of bugs, but they're just flowers."
+
+"Setting aside the means by which complacency is a slow and insidious killer, their ability to animate foliage presents enough of a threat that they must be dealt with," Veeran simply outlined. While he often preferred to allow his pupils to come to their own conclusions, keeping Smith focused on the physical present was enough of a challenge without making it harder. "Fire seems as though it may be the optimal approach - yet I see that you disagree."
+
+Smith was shaking his head so vigorously he looked akin to a dog seeking to dry itself off after a swim. "No. Definitely, absolutely not. I'm not putting Fire into a weapon in the middle of a forest and making it automatic enough that it can be completely unattended. Any appreciable amount of magical fire, that separated from me, is practically begging for a tide of elemental Dragon to swoop in and burn everything to the ground."
+
+"I suppose I shall trust your judgement in such matters," Veeran conceded. Medics and armorers were the two kinds of people you never wanted to annoy. Once upon a time, when Veeran had been younger, 'commanding officers' had been upon that list, but subsequently migrated to the list of 'people always worth annoying.'
+
+As Smith seemed more intent on studying the ground than explaining his thoughts, Veeran prompted him again, "Do you have any alternative suggestions?"
+
+"It being against swarms makes it really hard," Smith said, twitching as he thought. "Walls definitely won't work?"
+
+"Not with their demonstrated ability to climb over things."
+
+"Could we just blow them away? I might be able to do something regarding over pressurizing the interior of the works, it's already going to need some billows enchantments eventually...."
+
+"It will be important that the flowers are destroyed, yes." Veeran confirmed. "Anything which simply moves them will simply result in their numbers accumulating, not reducing, which considering the danger they present only expresses itself at high numbers, it will not be viable."
+
+"Passive defenses in general won't work then, it needs to be something active," Smith rubbed his head in thought. "Can't do walls. Pits wouldn't do it either, they'd just get filled in. Buckshot cannons come to mind, but I don't have any way to really create those."
+
+Veeran peered at the metal brackets that Smith had brought with him, each of them humming softly with the potential for rapid and forceful movement. "Do you not?" He asked, pointing out the devices.
+
+Smith's face underwent a few interesting stages of thought. "I... maybe. Maybe. These definitely wouldn't work for the purpose. Conjured Force doesn't tend to work as well as most people assume it would for things like railguns. Conjured momentum isn't properly conserved. There generally needs to be at least one stage of indirection to make it work. So... I suppose if I created a launcher that simply propelled the buckshot, then that might work. But then where would the buckshot come from and how would I aim it?"
+
+"You are certain you cannot simply utilize fire? It does seem like the truly most straightforward option."
+
+"I really, really can't express enough how bad of an idea it is to leave a fire weapon running unattended," Smith's face twisted into a combination of hesitation and revulsion.
+
+"I was all but certain I had experienced it myself," Veeran noted, "But perhaps I was mistaken. I do not fault you for your caution. It simply seems as though fire is the most certain way to deal with such small, floral creatures."
+
+"Well, to be clear. It's possible, I just can't do it right now."
+
+Veeran's instincts warred with one another. It was incredibly important that their enemies were dealt with utilizing the most effective means they had at their disposal. Yet the risk of an unstoppable wildfire consuming everything had to be properly addressed. It was a pity that Smith was unable or unwilling to replicate whatever combination of things he had done to make their kiln, or their initial copper smelter with its First Flame ignition, be safe to utilize.
+
+"What of water?" Veeran asked. "A moat would be safe?"
+
+"It would... but would that take care of the flowers? Also, wouldn't that risk flooding the mine itself?"
+
+"No, I suppose you may be correct. Well, consider that which you can, I shall continue with what I am capable of, and perhaps one of us shall determine something more suitable before Commander Inq arrives and we shall need to implement our solution."
+
+The flowers, much to his relief, were not an overwhelming threat. Instead, they came predominantly in waves of a few hundred every hour or so, with a small trickle of additional floral elementals between those times. That they also predominantly came from a single direction made the task Veeran had taken of clearing them out consistently made it that much simpler.
+
+However, the flowers were not the only threat that began investigating their Ironworks. At two separate times, a scalewolf approached. Though it struck Veeran as odd that the beasts were roaming alone, rather than in a pack, he nonetheless felt fortunate that it was quite simple to dispatch them.
+
+Not everything was quite so fortunate, as despite a few conversations, Smith never quite managed to determine an optimal method of dealing with the creatures before their Commander could arrive. The scalewolves had further complicated things, confirming that not all of their defenses needed to be directed at simply tiny enemies.
+
+"What's the status?" she asked Veeran, folding her wings away into a mantle with practiced ease as she landed.
+
+"Not as advanced as I would have hoped, Commander." Veeran began, before explaining come of the difficulties they'd been facing. By the time he was finishing up, she had a very contemplative look on her face.
+
+"So, in summary, we need something that's capable of dealing with enemies both large and small, cannot involve particularly potent magic - particularly not Fire based - needs to be consistent enough that it can handle an unending wave of flowers, powerful enough to handle waves of flowers, and can pivot to handling larger creatures as well?"
+
+"That would be accurate."
+
+"Alright. Smith!" she motioned for the Artificer, "Come over here."
+
+"Yes, Commander?"
+
+"I take it to understand you're a bit stuck," the boy nodded. "Alright. My first instinct is a potion, of course. But we don't have that as an option. So I'm going to run through a few ideas I've got that come to mind and you tell me whether you think you could make them. Not if you think they're a good idea, just if you can make them."
+
+"I really, really can't stress enough how bad of an idea fire is-" Smith began, but Inq stopped him.
+
+"Not looking at fire. But you've got your bracers, and I saw what you did to that boulder. Can you make a repulsion field that strong?"
+
+Smith looked very embarrassed for a moment, his lines pulsing a purplish-blue, before responding. "No. I don't have anything strong enough. I needed to use [Order Mana] for that, and it doesn't work out here."
+
+"Show me?"
+
+Smith looked around for a moment before picking up a rock from the surroundings. He activated a skill that sounded of wind chimes, placed one hand against one of his brackets, and started chanting. After a few moments, the rock started floating a few inches above his palm. Then, he activated a new skill, and despite the sound of a deep gong ringing out, the rock did absolutely nothing different. He stopped chanting, and the rock fell back into his palm.
+
+"It doesn't work away from First Tower. And no, it's not just a matter of Technology prevalence, I checked."
+
+"You checked here?"
+
+Smith nodded, pointing over to one of the places he'd been experimenting earlier in the day.
+
+"Very well," Inq continued, "Nonmagical fire perimeter?"
+
+Smith hesitated, "Probably not?"
+
+"Can you make something blow up?"
+
+"I said I'm not doing fire-"
+
+"Yes or no, Smith."
+
+"Yes."
+
+"Can you make something blow up without involving fire? Something that even if Dragon gets involved, there's no risk of it spreading?"
+
+"I... should be able to?"
+
+"Could you make it about this size?" the Commander held up her clenched fist.
+
+Smith nodded. "I don't have any way to launch them, though. I don't have any Force enchantments for a railgun. I could maybe make something capable of a very low-level force output consistently, but even that would be...hard?"
+
+"Yes, that is the issue. But I imagine we might be able to utilize my inklings as bombers of sorts. It's just a matter of having them deliver it."
+
+The Commander continued speaking, and while Veeran continued to listen, his mind was turning over itself. He wasn't entirely certain what Commander Inq was envisioning, but he sensed that it was the sort of clever scheme which officers so often liked to come up with, that completely misapplied the tools at hand.
+
+No disrespect intended to the Commander, of course. But those who worked in paper and magic usually sought to solve all of their issues with said tools, and not even be aware of the other options available to them. The two of them were both undeniably far smarter and more intelligent than Veeran ever had been and ever would be.
+
+He had been straightforward and simplistic more than half a century ago, when he'd snuck his way onto the enlistment rolls to mete out vengeance for the wrongs spirits had inflicted upon humanity during the first two Binding Wars and before, and even with his subsequent deployment and experiences, that had never truly changed.
+
+Some of his former peers, were they here in place of him, would no doubt have instantly seen the solution to all of their problems. But Veeran was none of them, he was only himself, and therefore he could only slowly think through the options while his more educated counterparts schemed out something that surely would not work in reality.
+
+Yet, if Smith was capable of creating something that could constantly output force, then perhaps that could be leveraged? Something that could accumulate force put into it, t hen release it in one go... a spring cannon of some kind? What weapons might utilize a spring? They were still quite limited in their technology, what kinds of primitive weapons utilized a spring? When were springs first invented? Could they even make a spring?
+
+The realization dawned on Veeran in a moment of clarity, and he waited for a moment to share his thought. He'd been paying enough attention to know that it hadn't been proposed, and they were instead discussing details on how to create a 'nest' for pseudowyvern inklings to withdraw grenades from and... drop them on the flowers?
+
+"What about some kind of attractive enchantment to the grenades?" the Commander was asking. "Something that could keep it stuck to the side of a scalewolf in case the timing is off some?"
+
+"Not with it being made entirely out of clay," Smith responded. "I suppose I might be able to have a second layer of wet clay and try to alter that somehow... but then we may as well just go back to the pitch idea."
+
+"Which means we ought to simply revisit the detonation-by-force method," the Commander mused.
+
+"Definitely not. The amount of force that could be generated by being dropped is definitely going to be less than the force which it's likely to undergo simply being jostled around in transit. Though I guess if there was some kind of primer..."
+
+"Pardon me," Veeran interjected. "But what if it were delivered with more force than simply dropping it from some height?"
+
+"Can't even be that much height, or else the inklings would just miss," Smith grumbled. "But no, again, I can't do railguns. The magical methods are more like a direct force cannon than anything as self-contained as the electromagnet ones, which we just don't have the sophistication needed for..." he started muttering.
+
+Commander Inq simply regarded him with curiosity, "What are you envisioning, Veeran?"
+
+"Would a crossbow work? It could be more akin to a slingshot, if the quarrels may be too difficult to accomplish. But were you to launch the bombs in such a manner, surely they would strike with sufficient force to immediately detonate, without requiring so much sensitivity as to risk premature explosions?"
+
+"That... Smith?"
+
+"It would... I would... It..." he looked conflicted for some time. "Maybe, I guess yes kind of? Oh! I could even do tracking via a Force spell! Make it look at the greatest source of Force within its range... I don't know how I'd trigger it though."
+
+"I could imagine something regarding quantity of Force causing it to trigger, that way anything large or moving quickly would get shot at. Motion-activated turret."
+
+Veeran paused, "Would that not be unduly hazardous?"
+
+"Eh," Oliver shrugged, "I'm sure I can figure something out. I will need to be in my actual workshop to make the crossbow, though."
+
+"Very well," the Commander acknowledged, "I'll get the mines started, and then we can return to First Tower for work. Veeran, I trust you know what to do?"
+
+He saluted in agreement.
+
+Commander Inq's chosen inklings, which she was simply calling diggers, reminded Veeran of bear-sized saber-toothed moles save that their hide was a mixture of feathers and scales instead of fur. With powerful incisors inset upon a tough and bony face and long, flat claws capable of even tearing through stone, they quickly began the process of creating a strip mine in the middle of the forest even as their creator left them alone.
+
+The ten giant creatures piled up the soil near the edge, then began upturning stone. They didn't have any particular way to sort out the high-value from low-value ore quite yet, so Veeran simply worked to pick out the chunks which sounded the most Metallic and placed them in baskets. The entire time, of course, he also was killing off flowers and even another scalewolf - the number of them he was seeing was beginning to be worrisome - but eventually he got two baskets quite full of metal ore, and after a... tolerable night's sleep - it would perhaps be beneficial for them to create more of the mattresses for deployment at outer posts should this become a common occurrence - it was time for him to deliver them to Oliver for use.
+
+Attempting to carry it simply within his hands was unquestionably a lost cause, but he had come with the knowledge of that being the case. They had lashed together a large bundle of sturdy reeds into a sort of carrying pole, a yoke which could balance the load across his shoulders. Though it wasn't the most comfortable, it did enable Veeran to carry approximately a half-ton of ore in a sustainable manner, without even needing to release his grip upon his sword.
+
+Though such a heavy burden was entirely manageable for Veeran, it did nonetheless result in the ground being far too soft for him in many places, his feet simply sinking into the soil, and forced him to alter his chosen path a few times as he steadily walked back to First Tower. Fortunately, nothing chose to assault him during his journey, which he viewed as a good sign.
+
+The path itself was less ideal, of course, but he had already cleared much of it on his trek out to the Ironworks with Smith, meaning it was both easy to see and fairly simple to follow. It nonetheless proved far more challenging than previously, simply due the load he was carrying.
+
+Nonetheless, he managed to make it back without entirely collapsing from exhaustion, though it took him most of a day to accomplish.
+
+Since Smith had created a new set of mattresses in the wake of a prior one breaking, sleeping schedules had mostly realigned, though Veeran found that he had arrived during a 'night.' Nonetheless, he knew enough in regards to how Smith's Universal Refinery functioned as to load it with iron ore prior to going to sleep himself.
+
+Veeran woke up late, unsurprisingly so considering how much after the others he had slept, but following a quick wash and breaking of fast, he joined Smith in his workshop to assist him in his creation of a weapon. Apparently, he had been specifically requested.
+
+Much to his surprise, Smith had already managed to create a solid working core for the crossbow, with a strip of metal and a flat bar that, when in contact with one another, always moved in a single direction. When slotted into a reed, it stayed in-line well enough that they had a mechanism to cock a crossbow.
+
+"And... that's where I'm at," Smith had said with a shrug. "I've got some mechanical ideas, like the strip dropping down to release the bar - they need to be in physical contact to have any effect whatsoever - but I need some assistance with fine-tuning things. Which is where I hope you can assist."
+
+"But of course," Veeran confirmed. "Shall we begin?"

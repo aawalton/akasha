@@ -1,0 +1,133 @@
+Wakefulness didn't come easily for Oliver. He was trapped in the midst of some dream that he could barely even remember, and for all that his mind was fitful it refused to give way into something more coherent, something more real, something true. Flickers of Dragonfire danced at the edge of his awareness, burning away vines and metal alike, consuming everything he'd ever built and everything he could ever build.
+
+When consciousness finally returned, it wasn't pleasant. His entire body hurt and felt vaguely on fire, and his mind was foggy and likewise wracked with pain. He... thought he remembered things? He'd made the System node, and then there was an explosion of mana that turned into Dragon mana, and he'd fought it back and gotten his System working!
+
+As if conjured by his thoughts, which it very well might have been, Oliver found himself beset with notifications, crowding around his mind until his headache returned, and he all but automatically cast the dismissal spell for them. He'd track them down again when he was ready, he just needed his...
+
+[Status]
+
+A very faint headache accompanied the command, but it seemed to be mostly related to his mind being sore than the blindingly sharp pains that he'd felt when his System had been broken. It took a moment for him to get any response, but once it did, the false-light of the System bloomed behind his eyelids.
+
+Hmm. Well, it was still a bit barebones, but was still endlessly preferable to what he had before. Achievements and Conditions were both grayed out, and he assumed the reason why he didn't have any Alerts was because he'd just dismissed them all... he'd need to reconfigure that, it seemed. His Tools also being blank was a bit more concerning, but a brief glance at his Settings confirmed that was mostly just because most of his normal Tools were inactive or otherwise inaccessible.
+
+Well, other than Notes, anyway. He'd probably want to make that a part of his quick-access set later. Too much hassle to do on a whim, and he wanted to see how his stats turned out after his...
+
+Dragon mana flickered all around him, threatening to overwhelm him if he didn't contain it.
+
+His... somewhat hasty leveling. Oliver shuddered. He did not want to go through that again, but he had the sinking feeling that it was just the start. Why elemental Dragon had suddenly appeared was still a bit of a mystery to him, and until he could diagnose and eliminate the cause, he'd need to be exceptionally careful with any decently-sized enchantment.
+
+With a flick of his finger and a tremor of magic, Oliver queried his level - which was somehow already at nine, absolutely ludicrous for just a few months of work.
+
+Huh. That was... actually better than he was expecting? It looked like he'd split his nine free points effectively half and half, with five going to Cohesion and four going to Aura. Aura, of course, was a Major Stat for [Erudite Enchanter] and as such got doubled effectiveness from the free point leveling granted. He could probably activate a couple of his more personal System mods then... but he was getting a bit ahead of himself.
+
+He didn't really expect himself to have gotten any weird sub-stats, but he still pulled up the detailed views for Mind and Cohesion, just for peace of mind. The entire Expedition had been an exercise in things not working how he'd expected them to, after all.
+
+Okay, that was good. He'd probably have a much easier time casting now that his mana was more Cohesive. Robustness and potency were both fairly major effects which the stat improved, which the more focused substat of Control that he'd gotten as a part of his Class base stats... didn't.
+
+Skills next, then.
+
+Wait, what?
+
+Oliver stared at his skills list with some confusion. [Heart of Technology]? How the... what the hells?
+
+He remembered getting ⟨Use Artifact⟩ and [Order Mana], and both of those made a certain amount of sense. Sure, he'd never heard of [Order Mana], but the System was not only full of skills that met that description, it was flexible enough to categorize new spells it had never encountered before. But he did know [Heart of Technology], and exactly what was needed to get it.
+
+Each Class was made out of three elements. Or perhaps it might be more accurate to say that three elements made a class. When appropriately endowed with varying forms of magic, the soul naturally began to express magical capabilities. The stronger the soul, the stronger the magic, and the type of magic was determined by the elements the soul was attuned to. With three elements, there was enough definition that the overlap between the elements easily manifested as proclivities - stats - and comparatively trivially could be used to power and control the more complex magics of skills.
+
+The System, therefore, had been made as a means to install magic directly into anyone's soul, to be a truly egalitarian and equal form of power by pushing that natural potential into highly intuitive and naturally optimized skills. While not fully developed until the The Second Binding War, and not widely deployed until after the Third and Last, it had proved instrumental in ensuring the triumph of humanity in those wars. No longer was robust power limited to those with the blood of Tyrants running through their veins, or those who fell at their feet for mere scraps of their gifts.
+
+It was, admittedly, not exactly trivial to install the System on people, so it was still being fully rolled out in some places back home and only barely seeing deployment in the worlds the First Empire of Humanity had expanded to. But it was safe and reliable and thereby was the only way in which someone could develop true magical potential through any means other than inheritance or Allosmos itself.
+
+Now, because the System developers were incredibly clever and talented, they'd managed to figure out a way to double or even triple up on a single element. Double-element classes mostly worked the same as any other class, with byplay between their two elements resulting in emergent magical powers, save that magic of the doubled element was dramatically strengthened.
+
+Specifically, it gave a level bonus to skills of the appropriate element, rather than a level penalty like one would experience after changing their class away from the elements needed to support their skills.
+
+But all three elements being identical always resulted in the exact same thing, a Connection-type class which focused on developing the bond between an individual and their chosen element. For Elemental Technology, that was the [Technurge] class, and its base and most signature skill was... [Heart of Technology].
+
+I am still an [Erudite Enchanter], right? His eyes flicked towards where his Class was displayed and expanded it.
+
+3 Mind + 2 memory, This tale has been pilfered from Royal Road. If found on Amazon, kindly file a report.8 Skill, 1 Capacity, 2 Generation, 0 Cohesion + 4 control
+
+Okay... so then what was going on?
+
+Oliver ignored how half the page was missing - normally, there would be a long, long list of other classes he could change to, but right now he didn't have the setup needed for it, so it didn't show any others as being available. If he wanted, though...
+
+Oliver summoned his options and skimmed towards the relevant section referring to his 'addons.'
+
+With 4 Aura devoted to keeping his [Status] running at its current level, Oliver would need another three levels and to put them all into his Aura if he wanted to unlock Reclassing 1, that would help him swap his affinities to match something with an overwhelming amount of environmental presence. Though that might require Leveling? It functioned like a more sophisticated version of the System node he'd made, and between that and its frustrating lack of prerequisite documentation...
+
+Oliver mentally cursed himself for his prior organizational skills, or lack thereof. It looked like this was based on some level of prerequisite - Autonomous Divination 1 he knew for a fact would be needed to be gotten before any of the Monitoring could be activated... though now that he was looking at it, there were a few Monitoring options not listed there, and where was Autonomous Divination 2?
+
+Gah.
+
+Well, it didn't matter that much. He'd reconfigure himself to add Multimedia Notes, Autonomous Divination, and the Encyclopedia Systema when he got the opportunity. The spells to do so weren't hard, and didn't really require much of all beyond a specialized wand which he could [Cogniprint] from his own soul.
+
+Though I will probably need the System node in practice, for both tje wards and its direct assistance he mused. What was I doing again?
+
+Oh right, being confused by [Heart of Technology]. He tried pulling up the description, only to be met with an alert.
+
+Ah... right. The System didn't tend to actually know that much about Skills and Classes innately. It just utilized established information to explain skills, list out subskills, and so forth. He'd need to get his local copy running again for that to work. For now, he'd just have to remember off the top of his head that it... increased Generation for Technology mana, that much was certain. Um. [Heart of Fire] provided Fire resistance, maybe something like that?
+
+It didn't really matter. It was effectively a passive skill, one of the very few, so he didn't really need to know exactly what it did to benefit from it. He'd look it up later, alongside [Order Mana] assuming that was a known Skill.
+
+He did idly wonder whether he could already enable the Encyclopedia Systema. He did have two unspecialized points in Mind, which was what it required, but that was from his base stats, which tended to be a lot less flexible than the free points earned from leveling.
+
+The method he'd used for his local OS didn't exactly consume or monopolize the skill points assigned to them, so he'd nominally get normal usage from his Aura and Mind, but it still might not work with base stats. The base functionality definitely worked with class base stats, because he'd explicitly tested that, but odds of things not working how he wanted them to was high.
+
+Not that needing one level and getting more points to Mind would be too bad, he noted.
+
+He might also want to get Spiritual Condition Monitoring active, though. That would give his System better insight into the status of his magic and soul, which could be useful for helping him pace himself, detect various non-physical maladies, and help him with gauging his mana levels and impact on and to the surroundings. Given how much the Nature around him scraped his soul raw, that could actually be more useful than normal.
+
+Oliver frowned. He didn't actually feel the Nature on him now. He cracked open an eye. Oh. He was inside the sleeping hut. That did explain some things. How long had he been out?
+
+Long enough for that, it looks like, Oliver noted as he realized that his hands didn't look how they were supposed to. He ran a finger over his arm, feeling for any bumps but not noticing anything. The thin, glowing lines and patterning - oh so similar to Parengelic symbols or a circuit board's connections - were entirely flush with his skin. The pulses twitched and changed as he moved, too, and Oliver groaned.
+
+Off to the side, a bit of movement caught his eye, a flash of light as someone exited the hut. He sat up, trying to get a better look around, but it seemed as though he was currently all alone.
+
+Which left him alone with his thoughts and an extremely bad case of magimorphosis. It had advanced so, so far too! That... was just great.
+
+Some people really liked magimorphosis, and deliberately folded mana into their Aura, souls, and bodies in order to gain the minor magical benefits it could provide, or even just the cosmetic effects of having their hair look like fire or crackle with lightning... but those people were very rarely mages. He'd need to completely rework several of his spells to account for the fact his base nature had changed and become incorporated with what could only be Elemental Technology.
+
+It was workable, at the very least. The principle wasn't that different from how casting changed after a class swap, but souls tended to be filtered through skills and could be held back at inappropriate times. The body, on the other hand, was constantly used. Now, every time he twitched his fingers or spun his staff, it would be wholly unavoidable that some amount of Technology was getting entwined with the outcome, making the entire thing more mechanical and artificial and precise and controlled and...
+
+Okay, maybe this wasn't so bad after all?
+
+The major reason why magimorphosis was generally seen as a bad thing was because it made collaboration and cross-referencing work so, so much harder. It was an absolutely enormous change in the dynamic of casting, akin to being an entirely different species. Like a dasna or wendal trying to use human magic, when they didn't even have fingers. Or like missing an arm and trying to cast that way, and given how many people tended to need to work together in order to advance the field of spellcrafting, that was a huge deal.
+
+But here, on this world of endless wilderness and no other humans anywhere, he was already working effectively on his own. The Tapestry was alien enough, and the rest of his team not spell-savvy enough, that he'd already need to make all of his own spells, so why not lean into the changes?
+
+Oliver's brain happily provided several good reasons to not do so, but he pushed them to the side. He still remembered Jacob yelling at him to just go for it, to not worry about the differences and unknown, but if something seemed like it might work for him that he should just lean into it commensurate with the reward.
+
+Or at least, that's what the veteran had probably been saying. It was advice that had worked out, though. And it was something that he really should try to make himself do. A bit more spontaneity, a bit less perfectionism.
+
+Did he expect this resolution and desire to last more than two days? Not in the slightest. But 'learning how to loosen up' was more or less a major contribution to his decision to come on this Jump, and this was an opportunity.
+
+Also, his magimorphosis was probably the source of his [Heart of Technology] skill, now that he'd connected the dots. He didn't know the exact byplay that had lead to its manifestation, but it seemed to pretty obviously be the culprit. And, because he was off-class from [Technurge], that would be why he had a level penalty towards it.
+
+How does level zero interact with passive skills? He found himself suddenly wondering. Level penalties were largely the result of the soul missing portions of the required magic to cast a skill and thereby weakening the overall result. How much it would weaken depended on the skill and the elements.
+
+[Fireball], for instance, was a Fire and Force-based skill, and as such one that could be picked up by any class which had both elements. But if someone with the skill then changed to a class that didn't have both elements, it came with a level penalty. It might only be three to five levels if it was away from Force, but it could be ten to twenty if the new Class didn't have Fire as one of its elements.
+
+It didn't stop the skill from being used, most of the time. But it became distinctly weaker, as the signature-spell mechanisms which skills relied on needed to do a lot more work to compensate for the missing elements.
+
+That was why it was only a penalty rather than an outright removal or block, and was the base mechanism behind cross-class skills. Though, if a skill level dropped below 1, that meant the skill was no longer capable of supporting itself, and needed some external aid - such as a focus or chant - or some alternative source of bonus levels to even be used.
+
+But because [Heart of Technology] was a passive skill, that meant it wasn't truly cast or 'used' in the traditional sense, so....
+
+Figure it out as I go along, Oliver forced himself to think.
+
+"Smith?" Henrietta's voice pulled Oliver out of his introspection. His Commander sat down on a bunk next to his, barely visible in the darkness of the hut, "How are you feeling?"
+
+"Not terribly," he responded after a moment of consideration. He waved his glowing arm to illustrate as he continued, "This isn't great, and my limbs feel sore, but I am distinctly not insane, didn't have my soul get burned to a husk, and I got a few new skills out of the deal."
+
+"Excellent to hear. Now, I didn't mean to jump to business quite this fast, but you mentioned skills. I take it that means our attempt was a success, and your System is functional?"
+
+"Oh? Yeah, everything's functioning. My System is a bit slow but mostly great, the circle did its job, and everything is working as it should. Well. I still need to do some configuration, a bunch of my old settings and decisions don't make quite so much sense now."
+
+"Glad to hear it. Walk us through how to use it, and you can get your System all set up," Henrietta paused, "Once you get some food and drink."
+
+"What do you mean? I'm fine. I want to get going, that's way more-"
+
+Oliver's stomach interrupted him with an exceptionally loud growl, apparently summoned by the thought of food.
+
+Okay, maybe breakfast would be good.

@@ -1,0 +1,125 @@
+It had been an absolutely miserable day.
+
+The hut's shade enchantment still wasn't working, he'd lost at least a day or two's worth of work on the tower, and also every one of their combat-capable team members were out of commission for long enough that if another fourgle came to try and turn his lovely tower into a nest, they wouldn't be able to chase it off.
+
+Also, it wasn't great having them all be injured. That, of course, was the main reason he wasn't fond of Alyssa, Henrietta, and Jacob all being wounded. Especially when their absolute joke of a healer could barely do anything to put them back together. He'd been about as useful as a bandage and some stitches.
+
+It also irked Oliver the way in which Clark's skill was literally a handwave, and how their Healer treated it that way. It was disrespectful to the designers of the skill and to all of the engineers who had refined the Class system to simply wave your hand and treat it as nothing more than a bit of magic that just happened, and could just do things because you wanted it to hard enough.
+
+Well. Okay, in fairness to Clark... if he had to be fair, which he really didn't feel like. But in fairness, a lot of very clever people had put a lot of work into the System to make it that easy to use. A truly meritocratic form of magic, completely separate from birthright and designed to empower anyone, regardless of their proclivities. That someone like Clark could be such a... powerful mage, without understanding basically anything about how the magic worked or all the ways countless engineers had sculpted the magitech residing in their souls into an optimal state for intuitive usage.
+
+He supposed that the normal narrative that skills were just the natural byproduct of three elemental affinities residing within the same soul didn't help. And it wasn't like that was wrong, per se, but he didn't like anything that glossed over that much incredible engineering as being a thing that 'just happened.' It got you to take things for granted, and that was how you got people like Clark not paying any attention to his class when going on a violent intraplanar teleport and winding up with a single cleaning skill on the other side of it.
+
+Oliver had needed to ignore most of the healing that happened thanks to the absolutely inane rambling that Clark always spewed, but coming back to this stupid malfunctioning enchantment wasn't helping.
+
+He'd even recreated the enchantment on a test tablet, and it still wasn't working! It had worked the exact same as the broken hut ward, and [Appraise] had even called it a Primitive Prototype Light Enchantment, though he hadn't needed magical confirmation to see that it was doing the exact opposite of what it was supposed to.
+
+Doing so had burned an entire wand, too. He at least could make them without too much trouble these days, mostly thanks to his Staff of the New World, but it was another drag on his time he really didn't need to balance. He'd already just discovered that the kiln was slowly malfunctioning, and he needed to come up with a patch enchantment he could toss in there after this firing was done in order to keep the copper fire ring from wearing itself out and catching on fire at some point.
+
+At least that would probably be an easy fix, because there was just a loop of Fire Mana that kept feeding into itself rather than properly meshing into the flame conjuration, but it wasn't strong enough to cause any kind of buildup. Instead, the excess Fire simply bled out the 'sides' of the stream, exposing the neighboring sections of the enchantment to Fire in a direction they weren't built for, a disruption that was backing up all the way to the glyphs responsible and threatening to re-orient them.
+
+To fix it, he'd just toss a Clay tablet designed to create a mini-flame conjuration into the kiln's flame-cavern, then poke it around with a stick until it sat next to the malfunctioning bit of magic. It would siphon off the loop to create flames separate from the rest of the enchantment, and while it would lose efficiency it would gain longevity.
+
+It wouldn't be work to be proud of, but it would be work that worked, and that's what Oliver needed.
+
+Stop daydreaming about easier problems, he admonished himself. Not that he could really help it. He'd spent what, four or five days trying to figure out what was wrong with this thing? And all he'd really determined was that the Day glyph definitely was the problem, and also definitely was written correctly.
+
+But it would at least have made marginal sense if his attempts to recreate the Shadow ward had worked as it should have. But no, it glowed just as surely as the hut had before he'd shut that off.
+
+How the heck did a glyph change its function so utterly?
+
+If they'd been back home, Oliver would have blamed a dependency of some kind, a malfunctioning enchantment associated with Day that managed to act as a kind of subsidiary, a glyph which unintentionally affected something it wasn't supposed to. It was the mark of either a sloppy enchantment or a ludicrously powerful one to have that kind of effect, and nothing on this world was strong enough to have that kind of an effect here.
+
+Even the tower, which was - or at least had been, before that stupid fourgle had scattered bricks and disrupted Oliver's work - wouldn't be strong enough to passively interfere with his Day, and he didn't think he'd even used a Day that could be responsible in the foundation wards to begin with. Which only really left a drastic change in the Tapestry, one which dramatically altered the types of mana that the Day was able to interact with, as a candidate.
+
+But something like that would be so incredibly obvious, and he'd absolutely notice it, and... he really should have just started with divinations to directly confirm.
+
+He was going to be so mad if this worked.
+
+[Scrollcast]
+
+"I speak to the flows of the world, calling out to the Tapestry that it may whisper the words I seek to hear. Within this land of eternal sun, whoops."
+
+That was just a rookie mistake. The divination absolutely unraveled with his misspeak, because there was no resonance for 'sun' within the Tapestry. It wasn't properly meaningless, and divinations absolutely could utilize hypothetical language, but saying Sun when the objectively correct word was Day when divination was designed to help him feel out 'truth' insofar as the Tapestry saw it really only had one outcome.
+
+Let's try this again. [Scrollcast]
+
+"I converse with the world, its ebbs and flows within the grand Tapestry that unites us all as I seek answers of its nature. For it is eternally day here within this grand forest, wait what?"
+
+Oliver looked around. They'd only taken down like, a dozen trees at most! This was absolutely still a forest. They were next to the river in the forest, and that was still a part of the forest! The hells did this stupid divination think it was doing, getting disrupted when he said he was in a forest?
+
+"I call out and await a response from the Tapestry, speaking with the world as I seek to understand it better. Within this eternal day, this land of Wood and Earth stands eternal," Okay, apparently 'Wood and Earth' was a fine descriptor of the forest, despite Forest essentially being exactly that. Whatever. The double 'Eternal' didn't do him much favors, and was mostly a byproduct of him not really expecting Wood and Earth to work, and the cadence and structure of the vocalizations not lending itself to any of the myriad other words he would have rather used. "The creatures who call this place home find rest within the Darkness, the comforting chill and peaceful air of a place without Light. This day has lasted since time immemorial, and.... what?"
+
+He was certain that previous divinations he'd used had said that the day had lasted for as long as the Tapestry remembered, but maybe he'd used the wrong kind of day before? Or maybe he'd just flubbed some portion of the divination other than the most recent word. That double Eternal could potentially be to blame.
+
+[Scrollcast]
+
+"I speak to the Tapestry, beseeching its memory. This land has never felt the touch of Darkness. This land has always felt the touch of Light. What the heck is the difference?" Oliver took a breath and recast, "The Tapestry still speaks to me of its memory. Shadows have caressed this land yet never fully obscured it, and the memory of its Light stretches back into ages past."
+
+Another collapse. He frowned. At this rate, the number of divinations he was casting was going to start interfering with themselves. He'd already sensed the Tapestry getting a bit feisty, but at least the fact he kept casting the same divination meant he could basically piggyback on his recent casts, making each one faster and easier. "The Tapestry's memory is open to me. This land has never been caressed by the Darkness. This land has been but scarcely glimpsed by shadow and never fully obscured by it. This land has been in eternal day from the very beginning. What. The actual. Hells. That was the same thing! Why did that work?"
+
+Okay. He was probably getting distracted, and definitely off-track. There was clearly something weird going on with the idea of 'Day' here, possibly due to the whole lack-of-sun thing.
+
+Oliver glared at the clay tablet that had started all of this, the Day carved into the surface sitting there, mocking him. He picked it up and studied it, then frowned. Was its light getting... dimmer?
+
+The tablet flickered suddenly, then became pitch-black as Darkness enveloped it.
+
+Oliver looked at the enchantment. Traced his fingers along the glyphs carved into it. Sensed the ways in which the mana flowed and how the tablet now was a... Primitive Prototype Darkness Enchantment
+
+He could scream.
+
+Oliver set a brick down with perhaps a bit too much force, sending wet clay smooshing out the sides where it contacted the neighboring bricks. This was one of the very, very few times wherein something working could actually make things worse.
+
+Because he didn't know what he'd done to get the Shadow ward working again. He didn't know if he'd done anything to get it working again. Maybe, this world had some invisible day/night cycle that lasted several weeks in the 'day' side, then four days on the 'night' side, only to return to 'day' afterwards... all without having any impact on anything except for some specific enchantments.
+
+But whatever it was, it sure as heck was potent, because when he'd re-activated the hut's wards, it was dark inside it once again, same as it had been before it had start to act weird to begin with! The fact the remaining wards were completely functional in all normal ways didn't help either.
+
+It was the worst kind of fix. There was very obviously something going on that he couldn't make any sense of, and he didn't like it. Not that there was anything he could do without risking the whole thing breaking, and with half their team with a distinct need for bed rest... functioning now outweighed functioning later.
+
+So instead, he'd gone to rebuild what the fourgle had knocked over. Several bricks had been lost, others had been broken, but most had survived and simply been knocked over. While the inklings were working away at making more bricks, Oliver suddenly had a much larger supply than he had before the hut had broken... and an equivalent amount of additional work to do.
+
+More, really, because of the lost bricks.
+
+Oliver forced himself to not think of it. He was just... so tired of this. Of building things by hand. Of sleeping in a hut made out of reeds with a malfunctioning darkness enchantment. Of eating bland soups made by an idiot healer. Of feeling the sensation of Nature scraping up against his magic every time he cast. His arcanoception didn't have a tactile component, fortunately, because he imagined it would feel like sandpaper against every one of his spells.
+
+But he was building his tower, one brick at a time. And once the tower was built, he could level up. And when he could level up, he could fix his System. And when he fixed his System, he could get new skills. And when he could get new skills, he could get something that would help him not have to build an entire tower by hand.
+
+He was a wizard, a graduated and freshly certified Archmage, and while no archmage worth their glyphs was above getting their hands dirty, they really should only have to do so with interesting things. Not slopping more mud between rough bricks as they built their tower from the ground up by themselves by hand.
+
+Should I ask for help? he mused, not for the first time and likely not for the last. It would make it faster. It would absolutely go faster with more hands putting bricks down. For the most part, there wasn't anything special about the bricks being placed. There was special stuff going on with the magic circles he was inscribing between each layer of the bricks, but none of those took that long. Placing bricks wasn't so hard that his teammates - maybe even including Clark - couldn't pick it up if he showed them how, assuming they didn't already know. Sure, he'd need to pre-temper the bricks with the final stage of his magic, but with his staff, doing so had become almost trivial.
+
+But if he did, then what was his role? He was basically useless already, what kind of an Artificer would he be if he needed help with something this basic?
+
+No, that's a bad reason. I'm emotional and annoyed. Meditate and recenter.
+
+Oliver sat in the middle of the runic circle in the foundations, feeling the reassuring swell of Technology around him, and carefully breathed in and out. He was, after all, a wizard. He was the master of himself and his surroundings, a tamer of the elements. Passion would not overwhelm him, no sooner than he would allow Fire to burn him. Best of all, he didn't even need a spell to do the former. Just a bit of patience and mental discipline.
+
+He was an Artificer, an enchanter, a wizard, and an engineer. None of those people were expected to be able to exist on their own. Artificers needed people mining for resources, enchanters needed others gathering rare reagents, wizards needed entire crowds of people to get them all the foci and materials they needed, and an engineer was never expected to build everything themselves.
+
+Even here and now, they were all focused on getting this tower built. His teammates were already helping him with everything, between Henrietta making her inkling, Jacob fighting off creatures, Alyssa gathering food, and Clark purifying water and cooking. Then, all four were involved in the brick-relay to get him his materials. So, why did he keep rejecting the notion that they would help him?
+
+A bit deeper, then. He whispered a few mental divinations, looking for places within his mind that were uniquely entwined with Passion, and came up somewhat surprisingly empty. Apparently Knowledge's associations with Thought were tenuous enough, and mental self-divination delicate enough, that his bare-hand divinations wouldn't be useful for his personal diagnosis.
+
+Oh. That was probably it, wasn't it? He was still feeling broken, and had the idea that he needed to fix himself lodged somewhere within his mind. That he wasn't a real archmage, his certification a scam, unless he could claw himself back from nothing entirely on his own. It was either that or that for some reason he had some notion that the notion that the tower, rather than the bricks, was uniquely 'his,' and thereby needed his attention and his attention alone. But that was absurd. He wasn't expected to build a tower on his lonesome. Archmage or not, wizard or not, broken or not, he was a human. Humans weren't meant to work on their lonesome. They got together and accomplished wonders, not toughing out everything on their own.
+
+That settled it. Once his teammates were actually recovered, he'd have them help him with the actual tower construction, the bricklaying and clay-smearing. But he wouldn't bother them until then.
+
+His mind renewed and refocused, Oliver took a drink of water - even without a sun, being out in the light for extended periods of time still caused overheating - and renewed his efforts at finishing out this brick layer. Just one, then he'd see about getting whatever help he could.
+
+With newfound motivation came newfound energy, and the bricks quickly fell into position... probably. He didn't know how long it had actually taken, but it felt fast.
+
+With a layer of bricks done, Oliver smeared a thin layer of clay across the top of all of them, then felt out a few key locations through a combination of [Appraise] and his own arcanoception to imbue glyphs.
+
+The purpose of the glyphs was fairly straightforward. Because he wanted a System node at the top of the tower, he needed to ensure there was an appropriate Tapestry, rich in a particular composite of Technology and Significance. Technology was, of course, order and development. Significance, meanwhile, was more about associations in a very pure sense. The ties which made all magic possible, the things which had happened, and were a part of its history, defining its future.
+
+Those two elements were the core of the System. Significance for power, Technology for control. Combined, they gave anyone nigh-infinite potential, and control over how that potential manifested. While the System had originally been created as a means for anyone regardless of birth to have an equal ability to claim and practice magic, these days it was so, so much more than that.
+
+And he was so close to getting it all back. He just needed levels, and with the levels would come Aura, and with Aura would come all of his System mods. The ability to call up [Status]. The ability to trigger spells, get auto-divinations... all of it. All of it would come. He just needed a framework upon which they could be built.
+
+And for that, he needed to ensure that the Technology didn't cannibalize the Significance entirely for itself, or vice versa! The former was more likely, though. There wasn't that much Significance mana to be found here. Pretty much all of it was actually being generated by the enchantment and prominence of the tower itself, from what he could vaguely make out. The Technology was doing great, though. The kiln had been spitting out bricks already associating with Technology, and barely needed any coaxing to have the appropriate mana flow through them, creating a current and container within the walls, a... signal flare of sorts, of the mana of structure and order jetting into the sky.
+
+Well, I suppose that probably answers why the fourgle attacked. It saw something it liked.
+
+The Technology, guided by the runes in the tower, wrapped around the Significance and, in a method that borrowed from what Oliver had picked up working on the pillows, shaped the Significance in a Technology-behaving conjuration. It was a place where Significance went to be molded and shaped, to be forged and smelted, and crafted into something new.
+
+And with every brick he placed, they got one step closer.

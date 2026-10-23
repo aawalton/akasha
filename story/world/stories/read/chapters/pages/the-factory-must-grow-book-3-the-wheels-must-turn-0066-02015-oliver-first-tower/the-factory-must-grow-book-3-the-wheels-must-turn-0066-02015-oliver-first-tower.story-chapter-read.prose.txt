@@ -1,0 +1,133 @@
+"So the first thing to know about being a mage," Oliver said, resigned to his fate. "Is that spells work nothing like skills."
+
+Alyssa's insistence on her being a mage - which she wasn't - had gotten loud and went on long enough that Henrietta had gotten involved, much to Oliver's mortification. Not that it had stopped Alyssa from pushing the subject, until Henrietta eventually settled the disagreement by saying that Oliver should just settle the debate by teaching Alyssa a bit of magery.
+
+He'd resisted, in large part because he had far better things to do with his time, but Henrietta had followed up with the fact that she wanted to brush up a bit on some of her theoretical foundations as well, and that he didn't need to do much.
+
+He'd still pushed back, but Henrietta had pointed out that he could use the opportunity to explain to Alyssa exactly why she wasn't a caster, talk about the history of pre-System magic, and that she would make Alyssa sit and actually listen to the whole thing as an initial 'first lesson' on magery. So long as he covered a tiny amount of practical stuff, taught Alyssa a few words of Magespeech that she could use to fine-tune her skill combos, it was fine.
+
+And... well, he still wasn't happy about it. But he did enjoy talking about the System, so.... Here he was, giving a 'spellcasting 101' explanation to most of his teammates.
+
+"Spells are a specific byproduct of leveraging specific natural phenomena against one another, creating an ephemeral machine which will do something. What that something is, is entirely separate from you. When a spell is cast, it is cast and there's nothing more that you can do with it. If the caster wants to leverage any kind of control over the result, then the spell needs to have been built with that form of control in mind. You can't steer a bike if it doesn't have handlebars, and you can't steer a Fireball if you didn't include aiming parameters in its construction. It's more likely to just crash."
+
+Clark had raised his hand, but Oliver ignored him. He wished he had a pointer that he could smack against a blackboard, but had to make do with simply imagining it as he paced back and forth.
+
+"A skill, meanwhile, is a part of your soul. It's a part of you, and that means it's subjected to all of the things which make you... you. It is a conversation between your mind and soul, and the reality around you, working to compromise between what you want to do and what it would naturally do. It’s a complex and incredibly sophisticated machine, one that can adjust in power and scope over time just like a living creature, but at its very base level, it is a machine operating on the same mechanisms as a spell, much like how a see-saw and your arm are both levers.
+
+"A skill may be used to construct a spell, but it is not a spell, much like how you might use your hands to build a weapon, but your fists aren't actually a weapon."
+
+"Spoken like a nerd," Alyssa said.
+
+"Ride," Henrietta said immediately.
+
+"What? I wanna get to the interesting stuff."
+
+"It's been five minutes."
+
+"Out of what, an hour? If this is going to actually turn into anything useful, then at least some of that needs to be actionable."
+
+"If you don't want me to teach you, I can certainly stop." Oliver pointed out.
+
+"Now, I didn't say that." Alyssa replied.
+
+"You... did, though."
+
+"Ranger Ride is listening and ready to learn, oh Archmage Smith!"
+
+Oliver rubbed his forehead. At least Clark had the good sense to remain quiet about all of his inane thoughts.
+
+"Arguably, the first and most basic spell is creating a talisman," he continued after a few moments. "Even during the Age of Oppression, when the whims of the Tyrants dictated far more in regards to how the Tapestry acted than the natural forces which ought to reign supreme, they lacked the care and capacity to alter the means at which reality functioned on its most basic levels. Accordingly, very simple machines - spells - could still work even for Homo sapiens without a drop of spirit's blood in their ancestry. Symbols, carved in such a way that their patterns resonated with elemental Rune, could act as a proxy for the object which the symbol represented, and in so doing were the first forms of magic worked by actual humans. Even if we might call it closer to enchanting these days."
+
+"My family owns an antique goblet from back then," Clark said. "It is formed of blown glass but has a rune carved in the bottom and can cure many poisons."
+
+"Probably a Noxic Unicorn Horn symbol," Oliver instinctively speculated. "It was a popular enchantment, cleansing poisons from things that touched it as though it were actual unicorn horn. Though it technically isn't a talisman, which were usually more... 'wear this carved rock for a bit of luck,' to varying degrees of actual function and varying types of luck. True runes are limited like that, and are very rarely useful as a result. There simply isn't enough nuance in them."
+
+"So what annoying, nerdy distinction are you making to be pedantic about saying runes aren't useful? Because I know you're trying to trap me," Alyssa said, much to Oliver's disappointment.
+
+He sighed, "Symbols are the generic term for 'shapes that resonate with elemental Rune,' with runes being a shape that produces a magical effect on its own, whereas a glyph produces an effect in conjunction with other glyphs."
+
+Alyssa narrowed her eyes at him, "You phrased that funny. Did you out-pedant yourself and are now trying to hide it?"
+
+"Ride," Henrietta warned.
+
+Dangit, when did Alyssa start paying attention? Oliver's desire for correctness warred with his desire to be right, and correctness won out, "There's no upper bound for what counts as a 'rune.' An entire magic circle, composed of many glyphs, is technically considered a rune - hence 'runic circle' - if it produces an effect. The actual term for 'a single symbol that produces a magical effect' is a sign, which are indeed very limited in usefulness. Symbols simply cause the Tapestry, in particular a specific element to act as though it's directly interacting with something that isn't present. The Magespeech languages are defined by which element they predominantly interact with, and the meaning of a symbol is the thing it emulates. Candleflame, which is Parengelic, emulates 'the flame of a tall candle deliberately lit through means which involve no manipulation of the Tapestry, burning unimpeded and smokelessly, providing light to that which it touches as the sole source of illumination beheld by the eyes which first created it.' It's usually translated as 'Candleflame' for simplicity, and out of acknowledgement that actually making the rune usually won't go that far in-depth."
+
+Clark wiggled the fingers of his raised hand, and Oliver decided he couldn't ignore it any more. "Yes?"
+
+"Are runes not written? But you said the word soshitsmin and that is somehow the same?"
+
+"Shotisamin is the pronunciation for the glyph, which means that it can evoke much the same reaction in the Tapestry as the written form, but because written and spoken use different processes to exist, they can have different trickle-down effects with how they interact with other elements. There's a relatively simple derivation that can be done to figure out the written or spoken form if you already have the other, to preempt that question. Also, both are technically approximations. Symbols are theoretically fractal, infinitely complex as you study them closer, so no real Symbol is entirely perfect."
+
+"How does saying or carving random words and symbols translate to magic, though?"
+
+"Same way anything does," Oliver shrugged, "With intentionality and careful construction. Three trees and two rocks may not do much if they're all just laying next to each other, but when you combine them in the right way, they become a trebuchet. That's where the skill of casting and the art of Magespeech comes into play, knowing all of the connotations and meanings of a given set of words such that you can string them into something meaningful. 'Pink holler gorilla' is meaningless, but 'Yell if you see a pink gorilla' does mean something, and the Tapestry is always listening. Of course, the actual effect of those two sentences are the same if no pink gorillas show up, and the same thing happens with Magespeech. Then from there, you start adding in the effects of foci and the ways in which gestures change things, being grateful to the Emperor for the changes he oversaw to make humanity more magically inclined as a whole and thereby capable of resonating with magic innately and thereby making our constructions far more adaptive and resilient…"
+
+Alyssa nodded, and Oliver hoped that it was with the realization she was way out of her league and that she was acknowledging it before going back to running around the woods. Unfortunately... "Okay, so where should I start?"
+
+Oliver got Alyssa set up with a handful of words in Pyric - the Fire language - that might be useful when it came to sculpting the output of her flames. Without a casting skill, she wouldn't be able to do very much, but it might be useful in providing a bit more structure to her skills. Normally, chants didn't do a whole lot in conjunction with a skill, because skills were far more robust than the currents of mana usually manipulated by spellcasting, but what Alyssa was doing was riding the edge of what could be considered skill usage versus just casting, and if she loosened her 'grip' in a few ways, there were some people who could 'skillcast,' though they usually had a skill to enable that and...
+
+He was getting distracted again.
+
+"Yeah? I could probably do that. I'd need to tinker a bit, but I could probably do them as strictly runic."
+
+While the original mages were constrained to only the basic results of their runes, Oliver tended to prefer a slightly blended approach with [Cogniprint]. The skill was about conveying and imprinting patterns in the Tapestry onto a physical object, so he could use the glyphs as ‘support pillars’ of a sort, then weave the magic to actually implement it around them.
+
+Henrietta, however, wanted him to make a design only out of runes, no additional finishing-work to tie it all together, "And then you wanted to know if there was a skill that would work for helping you copy the design for better mass-production, hmm."
+
+Oliver scanned through the Encyclopedia Systema. It would need to be a Rune and Shadow skills, nothing too sophisticated, preferably something with practical data instead of just simulations, could be used as a meta-skill... Ah, there was one.
+
+"I think this should work with your [Refined Calligraphy]?" he mused, before explaining the skill.
+
+"It is possible," Henrietta confirmed. "Though I would prefer if it were somewhat more directly useful for copying runes. This sounds like it would be more of a skill that could eventually work for me. Some kind of [Amanuensis] skill, potentially? That's what the subskill I'd normally use for this is called, but I'm hopeful that there's some skill which might be easier to get."
+
+Oliver muttered a few more navigation and searching spells, fingers flicking as he paged through the options before shaking his head. "There's some stuff which might work, but they're closer to my style of skills. There are some Illusion-Rune skills too, but... I'm not finding anything that does what you want from level one."
+
+Henrietta sighed, "That's what I was worried about. I suppose I'll just have to go for ⟨Amanuensis⟩ itself. I'll do some exercises with my inkling subsuming to get ready."
+
+Oliver nodded, "Not a bad idea. I'll whip up something basic that you can use for the initial earning, too. No need to go for the full claynade when just trying to get a subskill."
+
+"Good idea. Thank you."
+
+The 'claynades,' which were the creation that had sparked the entire discussion for mass-producing an enchanted item, were little balls made out of fired clay and enchanted with a simple design derived from his force-pillows, just inverted. Instead of projecting a field of Force outside of them, the claynades captured Force. It made them a bit weird to move and feel, because they didn't move exactly as normal ballistic physics would suggest, but not so much that it really mattered. The important bit was that the little spheres needed to be unbroken to do their job, and as such when they cracked - such as if they impacted something decently solid traveling at a decently high speed, to use a random example - all of their banked Force was released in a concussive wave.
+
+They weren't good weapons all things considered, as they were dangerous enough to injure anyone who they exploded next to but not dangerous to definitely kill their target. They were unstable enough to risk going off prematurely, but not so finely tuned as to definitely go off when they were supposed to.
+
+But ultimately, this first generation was just meant to scare off nosy predators and kill some flowers without any humans around, and Oliver was pretty confident in their ability to do that.
+
+Maybe re-engineering them as exclusively runic would help with some of the issues with their design. Or, they might make it worse. In the long term, he'd need to create something that could automatically enchant things, but enchantments that could create enchantments could be... tricky.
+
+Theoretically, it wasn't hard. By a certain definition, all wards were enchantments that made enchantments, because they were singular magical things that imbued another thing with magic. That the magical effects were wholly dependent on being within the ward's area of effect was irrelevant, plenty of 'normal' enchantments only functioned within specific areas anyway. Also, plenty of wards did things like leaving a magical tracer on someone, which was absolutely a form of enchantment.
+
+Maybe it's more accurate to say that an artifact creating another artifact is the tricky thing, Oliver mused. It still wasn't intrinsically challenging, no more than creating any artifact was. Lightboxes technically were artifact-creation artifacts, as they created a small easy-to-control magical construct and then enchanted it with levitation and light-shedding capabilities. That was doubly true for the ones which used motes of dust as 'nucleation sites' for the magical construct. And those weren't that hard to make with the proper tools.
+
+As were magnetizers, he supposed. But he'd need to invent electricity first, because even though magnets were decisively related to Elemental Technology, nobody had managed to figure out how to create a permanent magnet without using either an existing, physical magnet or Elemental Lightning. Even a magnetic field created via [Magnetize] and applied during manufacturing wouldn't do it.
+
+It was a shame he couldn't do a printing press for runes. While the pattern was intrinsically resonant with elemental Rune, and didn't need a person drawing it or anything like that, how the pattern was made was part of the pattern. Properly imprinting symbols on an item, therefore, required step-by-step assembly, done one piece at a time. Now, those properly-imprinted symbols could be far better than anything a human could ever do, but he didn't have an Orbital Carving Array or any ability to make one at this stage. A couple placement brackets were nothing on the scale of proper industrial tools.
+
+Well. At least I don't have to deal with the Focus Exclusivity Principle, Oliver chuckled slightly. I don't have any skills which would vary based whether I or the machine spirit is the caster.
+
+He should investigate what sorts of lasting magical effects he could induce in his materials given his current tools. If he made something single-purpose, it should work just as well if not better than his hammer for laying enchantments, and there was bound to be something that could happen semi-autonomously, and that would definitely help Henrietta out.
+
+[Order Mana] might be useful there, somehow, he was no closer to figuring out how the skill fully worked, but he was definitely getting more used to it.
+
+Of course, all of that musing didn't bring him any closer to figuring out how he wanted to help Henrietta get her ⟨Amanuensis⟩ subskill. The best bet would be to figure out an appropriate magical sign, a single symbol which had an obvious magical effect. It didn't need to be complex... just something that glowed, perhaps? It didn't even need to conjure the light, just gather or reflect it somehow.
+
+Oliver brandished his Staff of the New World. When he used [Order Mana] on its own and separated out elements in its area of effect, he'd found that he could use his first real focus to a decent level of effect, referencing its mana-taming effect to magnify the effects of his newest skill, creating a small area within which he could cast basic single-element spells by bending the already-present mana in the area to his will.
+
+[Order Mana] [Scrollcast]
+
+"I beseech the Tapestry that it would hear the words of Oliver Smith, the [Erudite Enchanter]. The light which falls upon this place does strike the ground, and it provides no nourishment to greenery, for there is none in this place. May it instead instead instead... gather unto itself, that it may be preserved for a later time which is more appropriate for its use," It really was getting easier to use magic around First Tower. It was amazing how much he could push back Nature with such basic precautions, he didn't even need his workshop! "Within my left hand, may a sphere of purest Light be accumulated, and it shall be held within its temporary home. From my left hand, I do therefore place it atop the Staff of this New World, that blazing beacon of progress and possibility, that the two may meet and be harmonious until such a time that the light may find its true purpose."
+
+The top of Oliver's staff began glowing with power, gently shedding some of the light it had collected with a radiance slightly brighter than simple reflection could imply. It wasn't a harsh light, but it did help him get a better gauge for what he could do for Henrietta's skill, and also help him feel out more directly what an elemental battery would take... admittedly this was exclusively without runes, but it should still be illuminating for the reverse scenario.
+
+"That was so cool!" Clark exclaimed, nearly causing Oliver to drop his staff in surprise. He hadn't noticed the [Prince of Shining Streams] sneak up on him. "When will I be able to do that?"
+
+"You... already can glow," Oliver pointed out. One of Clark's class elements was Light, and he knew the guy could use cantrips.
+
+"But that is obviously inferior to casting it with spells," Clark replied, to which Oliver couldn't help but disagree. Skills were far more sophisticated than spells. "Because spells can do anything. Is that not why you taught me the means you use to cast? Nobody had done so for me before, so you must believe in my capabilities."
+
+Well. He'd mostly done it to show off why Clark needed to respect his skills more, but considering Alyssa was currently shadowboxing while butchering the pronunciation of 'flame which leaps from the top of a bonfire and strikes something held too close' to the point it almost sounded like she was saying adventurous kitten...
+
+"I believe in them more than Alyssa's right now."
+
+Clark seemed far more delighted by that response than Oliver had intended, but ah well. He had other things to worry about.

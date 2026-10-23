@@ -1,0 +1,99 @@
+Oliver had been eating when Alyssa made her return from Shelter, in about the least climactic way possible. Henrietta had been flying out to the far side of the river every few hours to see if she'd made it back, and this time their Commander simply returned with the woman wrapped in her ink-flail, gently letting the [Ranger of Far Lands] down next to the cooking hearth, where she slumped to the ground.
+
+It was interesting how much they'd gravitated to the side of the brick kiln as the de facto 'center' of their little camp. It wasn't for the heat, that much was certain - unless they'd just gotten out of the shower, the natural air temperature was just below what he found absolutely ideal, so being this close to a constantly-running furnace brought them more than a few degrees above comfort.
+
+Alyssa definitely didn't look like she needed any extra heat, though. She limply lay on the ground, hair splayed out around her head across the well-compacted soil, and panted.
+
+"Are you well?" Clark asked, prompting Henrietta to speak up on Alyssa's behalf.
+
+"She caught me just as I was flying by. I suppose she must have seen me going by and didn't want to wait for my next pass."
+
+Alyssa made some motion, her body all limp and noodly, then didn't elaborate whatsoever. Oliver waited a moment to see if anyone was going to ask additional questions, then when they didn't, brought up his own. "Were you successful?"
+
+"Yeah..." Alyssa said softly, then sent her hand rooting around her bag, pulling out a semi-opaque blue gemstone right about the perfect size. She flicked her wrist, throwing the rock at Oliver. He managed to dodge it, but then had to go scrounging for where it had fallen a few feet behind him. "Do you know what it is?"
+
+"No," Oliver replied, looking over the jewel. It was distinctly translucent, with light clearly making its way all the way through the stone, but it was only transparent right around the edges, with the interior full of bulges and patterns that gave the impression of rippling water, but water that had frosted over with ice. It was slightly oblong and decidedly lumpy, but it was much smoother and cleaner than he'd expected.
+
+"Does that mean it's some kind of super special and awesome rare treasure that will function as the cornerstone of all of our magic and help us figure out what magic this world has to offer?" Alyssa immediately followed up with, and Oliver gave her an askance look in response.
+
+"No? It just means I'm not a gemologist. And that [Appraise] is too broken and low-level to identify nonmagical objects."
+
+"Oh. So will it work?"
+
+"Probably. I don't see anything that would prevent it from working. But too much depends on things I can't properly tell in advance. Once I finish breakfast, I'll give it a try."
+
+"Mmmm. This ground is really comfy, I'm going to nap now."
+
+Oliver frowned, "Shouldn't she be freshly awake?"
+
+"It's possible she ran through her night, if she didn't want to sleep on the ground for whatever reason."
+
+Oliver cocked an eyebrow at the woman actively nodding off on the ground. "Ah yes, I see she was very successful."
+
+The Tower hadn't turned out quite as well as Oliver had hoped it would. The act of firing the clay to strengthen it and turn it all permanent had indeed worked to give it sufficient structure that it would last for years, but the uncontrolled flames that resulted from 'light a bunch of things on fire inside of it and let it burn' had wreaked all kinds of havoc on the magical integrity of his wards.
+
+They still... worked, at least. Technology was still accumulating in the foundation and being piped up into the air, entwining with Significance into the rough pattern he'd wanted, but Oliver's idle dreams about the whole thing being practically ready-made for his enchantment hadn't happened. That was why he was on the outside of the tower, incidentally. He'd originally wanted it to be an interior setting, because you could control more variables there, but while the Technology was still focused on the capstone of the entire tower, it was curling upwards instead of down like he'd wanted it to.
+
+Which had necessitated this whole complicated setup, where he'd created a platform out of reeds and then layered Clay on top of that, all of which was exposed to all of the elements. So, so much of his work in creating a controlled environment had simply evaporated, and it was only the knowledge of just how much work had gone into this tower that kept him from wanting to tear it all down and start over.
+
+Because these were absolutely not ideal spellcasting conditions. The wind whipped at his arms, making him not only fight to keep his movements as precise as they needed to be, but also meant that a never-ending stream of Air and Storm would interrupt any mana constructs he made.
+
+At least the Nature was successfully being held at bay. Yes, it seeped in through the cracks a little bit, so he couldn't just entirely ignore it, but it was a minor enough effect that even a single point in Cohesion could blow right past it. Not that he had a point in Cohesion, but it still made a good measure.
+
+I never thought I'd be sad about having my Cohesion points focused on Control to the expense of resiliency, he grumbled.
+
+Still, it was manageable. He'd already prepped the platform with a handful of enchanted copper totems that he could replicate his Mana-Smoothing Ward onto, and the crystal would take it the rest of the way. Unfortunately, he couldn't set it up beforehand, because it was halfway between foundation and part of the overall node. He'd be drawing from his Staff of the New World and overlaying it with the Crystal-centric runic circles he'd prepared on the platform, something only possible thanks to his growing level in [Cogniprint].
+
+Elemental Crystal was really good at 'locking in' changes, and not only would that be useful in the creation of the System node by lending its weight to the permanence that was a level-up, but also by helping him create an area that was magically separated from the surrounding area. That would not only improve the seal against Nature, but it would also largely cut out the Storm intrusions, because Elemental Storm didn't really form in small areas... naturally, anyway. It was entirely possible to induce a thunderstorm in a bottle, but he wasn't making high-grade magical equipment quite yet.
+
+Or desk toys, for that matter.
+
+Air would still be an issue, because the wind wouldn't be blocked by his Crystal shell, but... well, most spells worked fine when exposed to Air mana by sheer necessity.
+
+He'd learned from his experience with the foundation wards and the Shadow ward on the hut, and only had a very rough magic circle - well, technically three magic circles - currently etched into the clay platform. Frequently, when working with three circles with a single effect, they'd all be overlapping each other like a classical venn diagram, with whatever was to be effected in the area in which all three overlapped. But instead of that, Oliver had set two circles such that they barely touched on the edges, just enough for a singular glyph - Estuivii - to be a part of them both. Then, around that overlapping point he'd drawn his third circle, positioned such that it drew upon the other two circles - utilizing Ecrucal and Troiash - as a combination of reference, subsidiary, and modification glyphs.
+
+The primary glyph was Estuivii, 'my own existence,' or Myself, because that was the primary thing that would be affected by the ritual. Ecrucal, 'this body of mine' was the primary glyph to his left, and Troiash, which could be literally translated as 'a vibrating strand' but he'd deemed to be the optimal glyph to utilize for Magic to his right. Body, Myself, and Magic. Those were the three glyphs around which he'd be creating his node.
+
+This would absolutely be the most challenging thing he'd made since the Jump, and he wiped away a palmful of sweat before his grip on the Staff of the New World in his hand could be affected. He was, if he was being honest with himself, already preparing for a partial failure. Specifically, there was enough rough work that he didn't know if he could be very precise with stat distribution, and they might end up with a System node wherein it was absolutely possible to level up... but if you did so, all of your stat points could only be assigned to a single stat. So if you had three unassigned levels, all three would have to go to Aura, or to Dexterity, or to Cohesion individually, rather than one to each like you might prefer.
+
+Bad Oliver. Stop planning to fail.
+
+It was, nonetheless, the most complicated part of the whole node, that modulation of power. The rest of it... well, it wasn't simple, but it was all utilizing principles that he was well familiar with, and with them still having some measure of their Systems in place, something that he was confident he could do.
+
+Probably.
+
+He could definitely do this, and any thoughts to the contrary were just wasted.
+
+Oliver set down the blue gem and paced around the inert magical circles he'd prepared, making sure that all of the logic still checked out. Because the end result was far, far more complicated than simply moving mana around, so too was the logic required for the actual enchantment.
+
+It was a bit like his force-pillows, but more complicated. He needed the existing Technology/Significance spell to be moved in a specific pattern through what was effectively a bunch of subsidiary enchantments, each of which would modify the flows of mana into the shape he wanted.
+
+At its core, this enchantment was about making the soul mutable, like a furnace heating up metal until it became malleable. Once it was malleable, the user would need to undertake a certain ritual in accordance with the stat they'd want increased, that started stretching their soul in the right way. The enchantment would help that bit of stretching, making it even easier and more precise than doing it 'freehand' even discounting the malleability that made it possible. Then, it would hold that stretching in place while 'quenching' the soul, tempering the new stat point permanently in place.
+
+Back home, the advanced System nodes could instantly flash-forge your soul in accordance with its earned potential at range, entirely painlessly, and with nothing more than a literal click of a button. His... wasn't going to be that advanced, but it functioned according to the same principle. As you progressed through life, you accumulated Significance. The more you pushed yourself and the greater your impact on your surroundings, the more Significant you were, and your soul 'remembered' that. Well, more like the more change you imparted onto the world, the more smudges of the world your soul picked up and thereby could grow... but that was more complicated than he needed for this.
+
+As your Significance grew, so too did your potential. There was some complication there, because potential was technically more of Fate's thing, and Fate and Significance were antitheses, but he was getting off-track again and he really didn't want to spend a week just reviewing his logic involved in his basic enchantment outline. That potential resided around the soul, not really doing much under most circumstances. The System changed that, by integrating that potential into the soul and making it far more tangible, making you more dexterous, stronger, smarter, more magical, any of that.
+
+Oh yes, 'Experience is what you get by doing impressive things and the System can make it into levels' absolutely doesn't oversimplify and sweep over the truly impressive amount of work that the original engineers did, Oliver bitterly thought, Oh, absolutely not. Doesn't make you just assume that obviously that's how it works, doesn't... focus.
+
+In any case, the enchantment was mainly meant to bathe and massage the soul into becoming more pliable, with the stat-specific enhancements being a bit of a natural outcropping of that thanks to how the soul worked. So that was what he needed to focus on.
+
+Myself. The centermost glyph, and the mana would gush forth from there first, newly filtered by the Capstone Gem and instantly primed to work with the person performing the ritual. From there, the mana would flow forwards, drawn by Forge, the first of ten primary glyphs of the main circle. At that point, the stream would split to each direction.
+
+To the right, it would pass through Bind, Magic, Spell, and Story, then at last into Masterwork, the last glyph before it returned to Myself. In total, the glyphs could be read as, 'For I forge myself, binding the magic for my spells to be supreme that I may reach the exultation that is unreachable save for the work of my own self.'
+
+To the left, it would instead circle through Paragon, Body, Strike, and Summit before rejoining into the Masterwork and Myself glyphs, forming an enchantment of 'For I forge myself, a paragon of physical might such that all I strike may be eclipsed by my masterful journey devoted to myself.'
+
+Taken as a whole, there were a bunch of different ways that it could be read, but Oliver was most fond of 'The creation of paragon selves, striving for the peak of their potential, their legends begin here within this enchantment whose magic binds their tempering.'
+
+By comparison, the two lesser Body and Magic circles were boring and rote, but only because they were fairly standard fare for stat-based System enchantments. Each only had six glyphs, one for each stat - Aura was represented by Myself, as the overlap point.
+
+He'd probably need to adjust the exact glyphs somewhat as he went along, but so far he had Bind for Generation, Crystal for Cohesion, Controller for Skill, Lightning for Power, and Spell for Capacity. That one sounded a bit weird when he used the same translation that he had for the Myself circle, but that specific Spell was more accurately 'the spoken word which shakes the heavens,' so overall it read as 'As was the word which brought the lightning to heel, so do I bind unto myself a crown of magic.'
+
+For the Body, he had Paragon for Dexterity, River for Recovery, Spark for Mind, Stone for Strength, and Summit for Resistance. All combined, that gave him 'May my body be a triumphal existence, a volcanic strength within me that erupts with almighty strength.'
+
+He checked through a few more reads, like the perimeter melded circle of 'The crucible which unshackles the rushing legacy for the one who masters fire and approaches like an avalanche, reaching their utmost mastery, their excellence unparalleled.'
+
+While Oliver did note a few areas that might prove a bit tricky, he still liked the overall shape of the enchantment. Each glyph that the magic passed through would leave its own 'imprint' into the whole, tying in different forms of associations, new ways in which the magic would catch and 'drag' on reality. It was his job to make sure that by the time the mana had been fully filtered through the enchantment, it did what he needed it to.
+
+But that, Oliver contemplated as he studied the gem Alyssa had brought him, would be the real trick.

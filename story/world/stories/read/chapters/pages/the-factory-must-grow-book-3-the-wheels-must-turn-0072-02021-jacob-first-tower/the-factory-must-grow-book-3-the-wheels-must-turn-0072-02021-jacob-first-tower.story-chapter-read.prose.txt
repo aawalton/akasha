@@ -1,0 +1,147 @@
+Smith practically radiated with pride as he and Veeran watched iron ingots move down the motion slide rail, only for the expression to morph into a bit of a flinch as they fell off the end and landed with a clanging clatter on the ground.
+
+"Should we... do something better with that?" he asked.
+
+Veeran considered the question, "If it is bothersome to you, it is liable to be worthwhile."
+
+"It'll probably also help with the longevity for the... slide boxes?" Smith sounded uncertain, "Did we ever figure out what we were going to call the molds?"
+
+Veeran shook his head, "We did not. Though would not calling them simply the molds suffice?"
+
+"I guess so. I'm mostly glad it's working, maybe we could add a stop at the end? Each one of those is... ten centimeters wide, maybe? If we added a stop to the end... then it might just get pushed off or buckle or something like that. Hmmm. "
+
+"Would a pair of reeds positioned such that they extend the rail suffice? They could either function as storage racks or as a ramp to the ground." It was quite enjoyable to work with Smith, the boy was full of grand ideas, yet like so many of that particular persuasion, he was liable to take longer than necessary to find the simple solutions. Though even that was oft a strength, as it indicated thorough consideration of all options, not merely grasping for that which was within arm's reach.
+
+"I like the storage rack idea," Smith nodded, the lines on his face brightening and dimming as he stroked his chin, "I can lash something like that together quickly enough, and make it longer than the number of molds we have in total."
+
+He drummed his fingers along his other arm, "I'll work on that tonight, after the main workday is done."
+
+With the variation in their respective workloads and how much effort each of their tasks might consume on a given day, there wasn't a set 'work schedule' to any real sense. However, after months of working, all five of them had found something moderately sustainable. Though there was little in the way of proper days without work, tasks were broadly divided into two categories - main work, and light work. 'Main work' consisted of tasks akin to Veeran's porting of iron ore from the Ironworks back to First Tower, and Smith's construction-work. Light work consisted of assignments such as Veeran assisting Smith's construction efforts, Smith creating more claynades, Ride learning magic, Haleford cooking, Inq working on her magic and on paper and cloth, and so forth.
+
+Balancing the types of work being done was naturally a constant challenge, yet it was eminently possible.
+
+"Are you considering some construction in particular for the rest of the day, then?" Veeran asked. Inq had given him a short list of what Smith ought to focus on, but he was uncertain what kind of authority or how strongly he ought to redirect their Artificer should he decide to pursue a design that wasn't being prioritized.
+
+Fortunately, such would not be tested at this time, "I'm... not really sure? I wouldn't mind making a new staff now that I've got plenty of iron, but I might want to instead refine my placement brackets? Or make some tools to help me make them..."
+
+"What of transit to the Ironworks?" Veeran suggested.
+
+Smith paused. "Is the Commander really that far along? I thought she still had more ways to go before she even got the trees cleared en route, let alone leveling it and all that before we could even consider a rail line."
+
+"It presents no particular harm to begin designing beforehand," Veeran reminded him, "And the specifics for the enchantment may yet inform the means by which the path is smoothed."
+
+"...We don't have nearly enough iron, do we?"
+
+"To create a motion slide the length of the six-mile Ironroad? We do not, and it is for that purpose which we must iterate and design."
+
+Inq herself had seemingly dismissed alternate approaches, but Veeran was not so quick to cast the possibilities. While he certainly could spend every second or third day carrying rocks across rough terrain, he... would have preferred to not, and any alternative was therefore of substantial interest to him. With pack animals all but a complete lost cause, a mechanical solution was all that remained open as a solution.
+
+"How would we do it with less metal, though?"
+
+Veeran wasn't entirely certain what he may have been missing, as to him the solution seemed quite simple. However, as he was not an enchanter and had nothing but respect for the profession, it was clear that there was something he was missing from his perspective.
+
+"Could you not simply loop a motion slide around on itself?" He asked, "We already possess a two-part enchantment which creates motion against itself, could it not be leveraged into a self-propelled wheel which pushes a cart along a given track?"
+
+"No, that..." Smith thought for a moment, "No? But because... no. No. Yeah, no. Okay. Hmmm. No, no."
+
+He carried on muttering to himself for a few moments before finally refocusing on Veeran. "No, it doesn't work like that."
+
+Veeran waited, and Smith found his words after a few more moments. "Ultimately, the motion slides work based on... movement? I'm trying to figure out how to explain this properly. Um, okay, phlogiston buildup. Enchantments and conjurations create a kind of 'theoretical pollution' which can interfere with themselves. There's a lot of ways that phlogiston can be dealt with. But the motion slides handle it by moving the source of pollution onward, so it never gets the opportunity to clog up the enchantment. It's a bit more complicated than that, but having it under constant use would require a fundamentally different, much more complicated enchantment to be involved."
+
+"Could that not be solved by having a singular portion of the inner or outer rim be enchanted?" Veeran responded, "Such that the enchantment is not under constant stress?"
+
+"That... would help, but not enough," Smith thought for a moment, "I'm simplifying how phlogiston behaves, and there's other problems as well. Honestly, the more important issue would be that the motion slides are an anattenuated monovectored relativistic conjuration... they make linear motion, which can't be used to make rotational motion."
+
+That seemed odd to Veeran, yet he assumed that Smith was at minimum not incorrect regarding the magic he himself had worked. He did resolve to ask more of the magical differences between linear and rotational motion, as it was not a concept he was personally familiar with, but such a question would be a distraction from their present purpose.
+
+"Why can it not be used to create rotational motion? Does the track we have created within the smelter only function on account of us returning the devices to the start by ourselves?"
+
+Smith squinted, "Yes? Kind of? Okay, not really, but also... Yeah, that does help. The main problem I was thinking of is more pertaining to the lack of persistent momentum from conjuration, it can't really spin something, and the object itself needs to be moving. And before you ask, no, it doesn't work quite well enough that I could use the reference frame of the cart against the ground as 'moving.' It's... relativistic motion. It's relative to itself. The two halves of the enchantment need to actually move against each other, produce reactionary force that way. It is possible to create Force enchantments that don't work like that, but I would need better materials... or way better tools, to build anything like that. Right now, it's like trying to pick up a box you're sitting in with only your arms."
+
+"Very well. However, I wish to confirm that it is possible for repeated movement to be accomplished?"
+
+"Yeah, obviously. That was a core part of the motion slide, that it could self-reset the ballistae. It... sure. We'll say for now that some external force needs to get involved to 'reset' the motion of the enchantment. So could... no."
+
+Veeran motioned for Smith to continue. When the Artificer did not do so, he cleared his throat, "What will not function?"
+
+"I can't... do an inner wheel and an outer wheel, with the two enchantments switching off which is active. That's a combination of the phlogiston issue and the rotational motion issue. It would result in buildup of magical detritus for something that practically interferes with itself."
+
+"I understand," Veeran lied, "What of a piston? Could such a design function?"
+
+"No, it..." Smith paused. "Huh. Would that work? I definitely can do linear motion, and a piston is all about translating linear motion into rotational motion..."
+
+He muttered to himself for a few moments, and Veeran took those moments to work a cramped shoulder muscle loose. He idly toyed with his [Frostblade] as it hung at his waist on a loop of reed rope, merely waiting for Smith to return to the present conversation. Intelligent persons, as seen with both Smith and Ride, could often be lost in their own thoughts, and while as a young man Veeran had been impatient with such individuals, he had spent many years learning that allowing them to work through their conclusions was frequently the best approach. At most, he would be needed to act as a signpost back to reality.
+
+That particular duty wasn't needed at this time, however.
+
+"Do you have something in mind?" Smith asked. "We could use the drop hammer as a basis, but I don't think that we could do the full disengagement-movement thing, it's too finicky and dependent on the contraption being still most of the time."
+
+"Perhaps a multiple-cycle engine? It would be required nonetheless, yet perhaps there is some ways in which a piston being retracted could be forced utilizing the alternate pistons."
+
+"Worth a try, I suppose."
+
+Veeran was unsurprised when his suggestion proved a failure. Smith had, fortunately, been able to create a prototype version of the engine which he powered with a spell once they had the physical design semi-finalized. As a result, there wasn't an especially large amount of time wasted to developing it.
+
+The object itself was simply two boards of wood with slats chiseled out of it to fit four sets of motion slides. Each of those motion slides was then connected, via a pivoting rod, to the prototype 'axle.' In theory, as a single motion slide was pushed up, it would grant a half-turn to the axle. Then, it would be pushed back down as the other pistons overpowered the base motion slide enchantment at a three-to-one ratio and reset it.
+
+In practice, and in retrospect obviously, the entire motor stalled almost instantly once one piston was fully extended, another was fully retracted, and the other two were each attempting to retract or extend simultaneously.
+
+Unfortunately, by that point Smith - as well as Veeran - was exhausted from both the design and construction work, and they ceased work on it for the day.
+
+The following day, Veeran ventured to retrieve more ore from the Ironworks, appreciating the tremendous amount of work which Commander Inq had put into the road leading there the entire journey. It may not have been finished, and the ground was full of up and down bumps of soil, but a mostly-straight trip, with bridges over most of the streams and cleared-out thorn patches made the entire trip almost too easy. He gave their Commander the most respectful salute he could manage when he passed her, though the entire time he remained on edge in preparation for the attack that would surely come.
+
+Even though the flower assault upon the Ironworks had subsided, and Veeran was eminently suspicious in regards to the absent pressure from their surroundings, he had learned his lesson from the last time he had dealt with vinebeasts ceasing a regular attack on a location. No matter what his concerns were, they needed to contend with the possible destruction of miles upon miles of woodland in a wild magic storm to risk the preparatory strike.
+
+Ultimately, his concerns were not so severe, and he therefore stayed his blade.
+
+It did nothing to comfort him, for they were in hostile territory. Yet even what creatures had crossed his path - including a lone deinonychus - failed to attack him. It was clearly a calm before a storm, yet what the storm might have been... he could not say.
+
+The quiet remained unsettling.
+
+Nonetheless, by the time he returned to the First Tower, Smith had created a prototype mechanical switch - a simple contraption which utilizing nothing more than pieces of iron, could change between two different states.
+
+The design was similar to the ballistae loading mechanism, wherein the motion slide was either pressed tightly together or allowed to be slightly loose, yet was designed using more metal parts to account for a much higher degree of tension within the system. At full extension, the switch 'clicked' out of full engagement, and was kept separated by a small metal protrusion until it fully retracted, at which point it returned to engagement and extended once again.
+
+Smith's current design utilized gravity to reset the switch, causing the mechanism to click and whir with mechanical satisfaction so long as he maintained the spell powering it.
+
+"I think it is a most excellent design," Veeran answered Smith's previous question. "It does not contain many areas which could fail, and it wholly fulfills its purpose."
+
+Smith smiled at that, "Nice. Could you help me with the next three?"
+
+Veeran nodded, and the work continued.
+
+"Well," Smith noted, "It's rattly, but it works. And... we did it. Thanks for the help."
+
+In Veeran's estimation, Smith was far undervaluing the sheer incredulity of what he had created. It could technically be said that he assisted the Artificer, in that he occasionally provided nudges of advice and aided the boy in remaining focused upon the overall task instead of over-focusing on some offshoot project that stemmed off from what he had been working on. The physical assistance he provided was insignificant enough as to not even be a factor. He'd merely sped up the process in such matters.
+
+"It truly was your creation," Veeran encouraged him, "I merely provided an extra set of hands."
+
+"You have enough experience with mechanical things that you helped me head off so many false starts. Plus, you know, it was your idea."
+
+"It was but the smallest of suggestions, one you surely would have considered shortly."
+
+"Yeah yeah, you're both super humble," Ride cut in, "Now quit patting each other on the back so hard that you might knock each other out, and actually test the darn thing!"
+
+Their transport cart was far from impressive in appearance. Four wooden wheels supported the boat Veeran and Haleford had made some weeks prior, with the 'engine block' a literal block of wood attached to the underside, a metal axle extending from it and mere inches later inserted into the reed axle which actually supported the wheels. There was little ability to see the machinery inside, yet Veeran could hear it consistently humming as the Force within siphoned off motion from the surroundings to go, albeit at a very reduced pace.
+
+Smith had predicted that with the cart actually moving, the enchantment would become more effective, yet while the wheels were slightly above the ground, the rate at which they turned was quite slow.
+
+Though, even if it wasn't the fastest, as they allowed the front wheels of the cart to contact the ground, and it began to rumble forth... Veeran found himself nearly smiling.
+
+It was a well-missed sensation.
+
+With the transport cart actually functional, efforts to allow the Ironroad to support it redoubled in effort. Commander Inq cleared out the final section of trees between First Tower and the Ironworks one day, and immediately started working on smoothing the ground along the way. Veeran assisted with that, as the kids put their heads together on creating a guiding-rail system to allow the cart to rattle along unguided.
+
+Somehow, those two efforts concluded nearly simultaneously, and a few very long days afterwards, Veeran found himself riding in the cart as it rattled and clanked down the road. Its front wheels, the ones propelled by the motion slide engine block, were kept on-course by a simple wood guidance system, with the back wheels left loose to follow as best as it was capable of.
+
+It certainly was not quiet, yet it was not noisy in the ways that a wounded or dying animal was, and therefore did not appear to attract any unwelcome attention upon its inaugural journey. The entire trip was substantially longer than it would have taken Veeran to simply walk to the Ironworks, but speed was certainly not the priority in the cart's creation. He instead attempted to meditate, to calm his broken and fractured soul as it traveled through these wild lands, to comparatively minor success.
+
+At the end of the track, the cart was lifted upon a small ramp until the front wheels were left suspended off the ground. As the diggers filled the cart with iron ore, though, the balance of the cart shifted until the front wheels once again contacted the ground, and the device creaked and rattled as it began its return journey.
+
+Technically, the engine block had a reverse function - a single lever could, through processes that Veeran simply could not understand despite having been the one who built it, change the drive from going forward to going backwards - but they had elected not to use it in favor of simply creating a loop-track.
+
+That was a combination of both desiring the front wheels to always be the ones powered and the ones dedicated to steering, and the desire to have the track be capable of carrying multiple transport carts on it simultaneously, doubling or even more the amount of iron ore it could convey.
+
+As Veeran walked alongside the cart, ensuring that nothing unexpected happened upon this first trip it made, the smile he had felt within him finally came to pass, making itself known to The Jungle around him.
+
+Truly, mankind could accomplish great things given the barest opportunity.

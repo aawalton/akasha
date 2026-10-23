@@ -1,0 +1,135 @@
+Oliver was practically floating, humming to himself as he glided along his workshop.
+
+With mostly circular brick walls - save for a very exciting inclusion in one side - and a painstakingly smooth and level floor, it was physically pleasing to work in, and the complete absence of rain or even night meant he could easily leave the roof off with no negative repercussions. In order to keep bugs out, the entire thing had been suffused with an exceptionally aggressive anti-Nature ward, and also used a couple of extra crystals to block the occasional gusts of wind the top of First Tower's Spire were subject to.
+
+It had been remarkably easy, in no small part thanks to his newest skill. Though there was still a lot about [Order Mana] that he was still trying to figure out, he wasn't about to let that stop him from using it. Not that he wasn't nervous about using it when he didn't understand it well enough, but his resolution to just do things hadn't crumbled away quite yet.
+
+And there were limitations he didn't fully understand. The skill worked to wildly different degrees depending on where he was, which shouldn't have been a thing. There definitely were skills that had varying effects based on where you used them - a skill like [Gust of Wind] obviously didn't work in a vacuum because it didn't conjure anything - but it wasn't like he'd done some wide-area wardwork over the the entirety of First Tower that [Order Mana] could be bouncing off, and yet it only worked there. It rapidly lost power outside of the reed walls, with even just a few strides rendering it completely useless.
+
+He had tons of theories, from it somehow involving the still-mysterious magic of the world they were on, to it being incredibly vulnerable to Nature in some subtle way he couldn't pick up on, or it somehow having a completely inane requirement like 'must be within a certain distance from the System node,' but none had any definitive evidence for them. So, he was just treating the overall skill as somewhat unreliable and trying to not be too dependent on it.
+
+Though that desire was... hard, because the skill was great.
+
+The primary use for [Order Mana] was as a meta-skill. When he was casting a spell, he could use the skill to enhance his normal control with a bunch of mana from the surroundings, effectively increasing his Power with the limit that he could only supplant with quantities of mana that were actually present in the environment. It did a lot more to empower spells that worked with Air than Ice, because basically the only source of Ice mana in the area was Jacob.
+
+But it was its secondary use-case that was far more practical for Oliver. If he used the skill on its own, it... well, it ordered mana. It separated out the different streams of mana in a small-ish area around Oliver, letting him more easily pick out sources of interference and gauging the relative quantities of different mana sources. That was moderately useful, but the real trick came when using it a second time, after splitting the streams. Because that let him fix that stream in place, creating a sort of micro-scale leyline that lasted for days.
+
+Back at Shelter, he'd needed to do an elaborate ritual-cast and some creative workarounds to direct the stream of Technology mana produced by his First Flame - which he was still sad had been lost during the wild magic storm that had also wiped out their first campsite, and he was putting off scrounging for scraps from the copper fire ring that had once been connected to it for fear he might ruin it forever - into the wards it powered. But now, he could do something superior to that with just a couple seconds of work. Sure, he needed to refresh it every so often, but certain types of mana - like Technology, which he used the most often - lasted way longer than others, so it wasn't that bad. Not that it should have been surprising, that Order mana would work well with [Order Mana], but...
+
+The two modes could even be somewhat combined, because the separated streams made certain types of casting markedly easier, and if the end effect of his spell was a temporary but sustained current of a certain kind of mana, he could just... stick it in place.
+
+Actually, is it really fair to think of it as the secondary use-case? It does have an actual direct effect on the Tapestry, unlike the meta-skill application. Really, the 'primary' effect is more just a particular use-case of the secondary...
+
+Regardless, combining both uses was actually how he'd created the billows for his newest smelter! [Order Mana] to pick out the threads of Air mana present, a quick [Scrollcast] with his Staff of the New World, and then another use of [Order Mana] to seal it all off. The end result? A perpetual breeze up the chimney-like construction that was just inside the walls of Oliver's workshop, pulling in fresh air from the bottom and pushing the exhaust up and away from where it could affect him.
+
+He'd... not originally done it exactly that way, but [Order Mana] had proven to be quite up to the task of simply extending an existing stream of mana beyond its initial configuration, and given the stench of brimstone he'd otherwise been subject to, he was glad that it did work that way. Pyrite, also known as fool's gold, was an alloy of iron that Alyssa had managed to retrieve from the rocky wasteland-ish that Shelter had once sat upon, and it was absolutely full of sulfur - the chemical compound was literally iron sulfide - so as he tried to smelt the golden crystals... the smell had turned distinctly unpleasant, and he was happy to not have to deal with it now.
+
+Regardless, he was quite happy that his attempt at smelting iron seemed to be doing something. He'd given it a couple of different tries since Alyssa had returned with a basket full of pyrite, but none had done much. Now, however, he'd layered charcoal and crushed pyrite in alternating layers, ignited it, and let it burn. Every so often, he'd needed to clear away the slag that dripped out of the bottom of the furnace, but it seemed to be going good!
+
+He just needed to wait, but fortunately he had lots of things to do in his workshop, refining little bits of mana here and there, creating tables and benches, he was a busy guy! Even with Henrietta mostly taking over the pottery-making and Clark taking lead on the charcoal development, there was always, always work to be done.
+
+Unfortunately, Oliver needed to break his chimney to get the iron out.
+
+It was quite the sad state of affairs, but the block of iron was quite solid - ironic, considering how many pits and holes it had in it - and the clay chimney it was in had to go. Fortunately, not too many of the bricks that were in it broke, just the clay plaster Oliver had used, but he was already thinking of better ways to build it next time he needed one. Though with his current project, that might not be for a while.
+
+The metal itself had cooled, fortunately, leaving an iron bloom that was full of absolutely terrible quality iron. It was crumbly, fell apart at the slightest bit of disturbance, would be absolutely impossible to work into something viable for any level of infrastructure...
+
+And was absolutely perfect for his purposes.
+
+Forerunner Expeditions underwent Allosmos into all kinds of different worlds, of all kinds of varying technological levels. That said, the vast majority of them were pre-industrial Iron Age worlds, because... something to do with population densities. With his new workshop, and this batch of bloom steel, never mind that it was so full of sulfur it was good for literally nothing, Oliver could finally start his actual job.
+
+Creating wonders.
+
+Yeah, he'd lost the skills and the gear that would make this trivial, but he had some ideas to make it work with [Order Mana] that would be fun to try out. It didn't matter that most of what he could do would be strictly dependent on him and him alone to function, he was the only one using them. He just needed a bit of leverage to catapult himself forwards in tech, and alongside him would come everyone else, and then he could make things that didn't need him and then he would succeed.
+
+Best of all, because he'd only just eaten and slept, Henrietta wouldn't be interrupting him any time soon!
+
+In service of that goal, Oliver had used half-sized bricks to create what looked a bit like an open fireplace a few feet off the ground. It was built into the wall of his workshop, with the outside featuring an upward-facing maw that led into a spacious interior, and had several bricks placed slightly apart from one another in a form of crude grate. The inside, as the primary 'furnace chamber' of his refinery, was covered in both glyphs and the sooty remnants of the smoke from firing the clay he'd used as plaster and mortar.
+
+On the top was a smokestack, one with a bit of a slant in it to limit sky-exposure, but otherwise a fairly standard chimney.
+
+On the rear of the refinery, the inside of his workshop, Oliver had created several containers near the floor, each the size of a brick and each directly underneath a slit in the brickwork about a centimeter wide. That was for the output. Above them, hidden from view, was a series of clay triangles acting a bit like a pegboard.
+
+And the pig iron goes there, Oliver thought as he lugged the biggest chunk of impure metal into the front. It would, once everything was working, be capable of rendering almost anything put into it into its base materials - based on both chemical and magical elements. Considering all he really wanted right now was iron, the Center for elemental Metal, that would be plenty good for him. It could also only support a dozen discrete outlets, with anything he didn't specifically tune it for simply being released as exhaust - Oh wait.
+
+Oliver quickly whipped up a separate wind enchantment to whisk the smoke up and away from him, in case anything like lead or mercury ever wound up inside it. While he didn't need to worry about insanity like the wizards and alchemists of old as a Homo primus, the elements did tend to change the way certain spells acted if they were too present in the body.
+
+But for now, that should only be iron being produced. He could maybe, maybe coax sulfur out of it if he really tried? It wasn't particularly close to any elemental Centers. Maybe Steam ? That or plain old Fire, but that stood a chance of interfering with the Refinery itself, which used lots of fire to work.
+
+The challenge with this enchantment was that he only knew how to make it with iron specifically, and ideally iron that he could work on an anvil beforehand. But... he didn't have that. So he was going to have to make do, and make the very first output batch of his "Universal Refinery" also be involved in the formation of that selfsame Refinery.
+
+That was, incidentally, why he'd needed to smelt the pyrite into iron to begin with. While the Refinery he was making now could and would be useful for directly turning pyrite into iron ingots, he wouldn't have been able to make the spell-slash-enchantment work properly with it. But once it was done, Henrietta would be able to send her spare pseudowyvern inklings to gather pyrite crystals - or anything else really - and toss it into the refinery, and out would come pure iron.
+
+Oliver glanced at the red rocks everywhere around them. Huh. Could he extract iron directly from that?
+
+I mean, probably? But that would take so long... might be a good way to get a supply of silicon, though. It shouldn't be that hard to get a Sand filter going, extract pure silicate sand.
+
+The ability to create glass would be huge. But that was something to investigate after he had the Refinery running, and could run some experiments with efficacy, efficiency, and so forth. One step at a time, and all that.
+
+Oliver cleared his throat, took a sip of water, adjusted his grip on his staff, and began to speak.
+
+[Scrollcast]
+
+"May the Tapestry hear my voice and know that I am Oliver Smith, the [Erudite Enchanter], and that I have much to say and much to do. My voice is the blood of iron, my hands the grip of the Arcane as it brushes against this world, leaving its indelible mark on the surroundings."
+
+With a spin of his staff and a reinforcement from [Order Mana], Oliver coaxed forth magical patterns he'd prepared in the walls of the workshop around him, directing them to focus in the Refinery.
+
+"The crashing waves. The crumbling stone. The questing root, which burrows through solid rock. Nothing in the world is forever, all is transient, and all is change. Before the glimpses of the world before me, I don't like that! Yet the forms they live in now are those in which they ought to remain, standing firm like the mighty trees of centuries past."
+
+Oliver dispelled the working he was spinning up, as he noticed the wake of the mana start to wear quite strongly at the warding and even structure of his workshop walls. He assessed the damage - nothing too bad, he'd stopped it fast enough that the only casualty was a bit of cosmetic damage near the floor.
+
+He fixed that up, and quickly weaved a few reinforcement wards into the walls, making them more permanent fixtures - [Order Mana] was a lifesaver - before retrying the enchantment.
+
+[Scrollcast]
+
+"I am Oliver Smith, the [Erudite Enchanter], and I speak to the Tapestry with voice of iron and..." he managed to navigate the opening without much trouble, and redoubled his focus as he came to the trickier bits, "All shall pass, all shall change, for this world is transient and impermanent. For now comes the changing of the age, and the Age of Humanity has begun. Through kindling sparks and barest embers, our torch is beginning to be lit. May we be an everlasting beacon against the darkness, a bastion of civility and surety amidst destruction." Hmm. That was an interesting bit of phrasing, but it had felt right. Casting was kind of like juggling three flutes and trying to play different songs on each to appease an enormous crowd which could either be happy or sad, and were just barely easier to read the expressions of than actual humans.
+
+"In this task and charge, we take the stones from beneath our feet, the crystals from their grand pedestals, and unleash fire and brimstone in the taming of that which surrounds us. For our wrath is mighty, yet our creations are beautiful."
+
+A sudden wave of foul-smelling dust invaded his lungs, and Oliver coughed.
+
+Unlike a few weeks prior, Oliver was dealing within much broader safety margins. Higher stats, a better skill level, and most of all actual gear meant that a single cough wasn't enough to drastically mess up any particular casting, so long as adequate safety precautions were taken, but this wasn't just a single cough. As Oliver tried to get a breath of fresh air, the stench and dust seemed to follow him. He was able to croak out a quick "And in this beauty there is stillness and in stillness patience, for the growth of something is beautiful and mighty in all its forms."
+
+Doing so allowed him to 'pause' the spell, setting the churning patterns of mana in something of a slow and stable loop, and Oliver spent the next few minutes coughing and trying to rid the sudden dust plume from the workshop, eventually managing it by a combination of [Order Mana] and [Scrollcast] to copy and redirect the wind wards into a full-scale sweep of the workspace, a ferocious gust of wind completely replacing the air in the space and leaving it all less dusty than it probably had ever been.
+
+Insofar as Oliver could ascertain, the issue had lay with a sudden gust of wind as it whipped over the top of the Spire. While Oliver's enchantments had stopped the wind itself from bothering him, something with the warding hadn't properly blocked out the dust from settling on top of him from above. That had meant he'd taken a huge plume of clay, charcoal, iron, and sulfur dust directly to the face, and revealed something that a roof might well actually help with.
+
+He'd... need to think about it. The natural lighting was nice and simple. Anything artificial would need to be carefully considered, whether it was just a mundane torch or an actual lightbox.
+
+For now, he had a Refiner to make!
+
+[Scrollcast]
+
+"The [Erudite Enchanter] Oliver Smith does speak, and the Tapestry does listen. For the wonder of my creations is breathtaking, and the elegance of my solutions are easily matched. For in this! I! Say! Let there be Fire. May the inferno come and consume, may the brimstone be burnt away, leaving naught but the ultimate corpse of stars within the Void, the foundational metal of Metal, the stablest substance of them all. Let there be Iron. Let there be heat, let there be light. May the flames glow brightly, may the smelters run hot, and may the lifeblood of technology beat its steadfast heart and pump the gleaming metal in the ways which it finds pleasing.
+
+"From this forge a foundation shall be laid. The purest metal, all impurities scoured from it, shall form the solid surface upon which magnificence shall be created. Behold my call, heed my words, bend before my design and follow my patterns. Before you is a river of utmost potential, and I shall form you into something grand, for such is your fate. Now come, depart from your kin, be with your own, present yourself unto me. For this hearth shall be the home from which blades are forged, keystones crafted, and staves grown. Behold me, as the earth beholds you."
+
+[Cogniprint], he added in.
+
+There was a faint gleam of blue shining through the walls, and a faint hazy shimmer appearing above the chimney. He drew on the copper fire ring within the brick-kiln below indirectly, its own presence relayed by a temporary enchantment halfway up the cliffside. The flames were fueled by him though, the first tool of any mage acting in the service of Technology.
+
+His heart beat fast, and the gleaming lines along his skin pulsed and flickered almost like a flame of their own. A faint purplish hue spread across his fingers, and the arcs his hands took as he weaved his spell and his enchantment began to leave the faintest echoes of glyphs in their wake. His [Heart of Technology] was acting on its own volition, granting its weight to what he was doing.
+
+Well, no need to leave a stone unturned. [Order Mana].
+
+Oliver's entire being sang. Technology flowed from his Heart and his hands, which was then neatly Ordered according to its own type, plucked and spun in an intricate Casting weave, and Imprinted into the bricks before him. The central furnace was the heart of it all, of course, but only the first part. He needed to open up channels for the materials he did want to travel downwards, and then separate out. There was a bit of mechanical separation going on, a series of pegs embedded in the wall, but it was only magic - courtesy mostly of [Order Mana] that actually ensured things went where they were supposed to.
+
+As he went along, the Refinery began picking up more and more of the heavy lifting. ⟨Use Artifact⟩ showed its worth there, as he could simply activate the device and leave the bulk of his attention and casting capability to focus elsewhere. That was of course further aided by another use of [Order Mana] to power it all, lessening the drain on him by offloading it to his surroundings. It drew in a hefty amount of mana, mostly Technology and Fire, but it was a sustainable draw.
+
+He could have maybe made it a bit bigger without running into issues, but the added margin meant he wouldn't need to worry about overdrawing on the Tapestry with other ward-type creations. Mana wasn't used up per se in enchantments, but it could be... exhausted. Drained of its potential energy, like water let through a dam.
+
+His voice rang out clear and true, as the minutes flew by and he ever so slowly began to slow down. But he wasn't about to just stop. No, he needed to close things properly, actually finish what he was doing.
+
+"May the world change. May the world make way. For the Age of Humanity has come, and with us we bring such transformations. May the Metals be brought forth with their own kind, and the Sands be brought forth with theirs. May the Air and the Waters part, the Earth granting its due to the Fire, for the Technology has come, and may its Knowledge be rendered as its due. For I Am Oliver Smith, and in this place and in this time, thus is my Decree."
+
+A trickle of iron grains had made their way into the trough Oliver had designated for it. It wasn't a ton, perhaps as much as his thumb, but he didn't mind. Walking outside the workshop, to the input of the Refiner, brought a smile to his face. All along the inside, lines of glowing blue iron filled in every crevasse he wanted and a few he hadn't anticipated but seemed good to have.
+
+It wasn't perfect. Already, his eyes could pick out a few places that could use some touch-up, some repair, some refinement. But ultimately, only one thing mattered.
+
+[Appraise]
+
+Well. Maybe two things mattered.
+
+Oliver's grin only grew wider as he tossed a spare piece of pyrite into the glowing blue entrance, and immensely enjoyed watching as the light brightened. By the time he'd made it around to the other side, a new trickle of iron had joined the first one, giving him even more pure iron and proving that he had an endless amount of the stuff, so long as he kept feeding it material.
+
+It seemed like he was wrong. There was a third thing that mattered after all.

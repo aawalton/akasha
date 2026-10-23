@@ -1,0 +1,163 @@
+"Okay, that's fine," Oliver finally conceded.
+
+Henrietta started, "Really? What, why?"
+
+"Why what? You asked me to do something in my capability, and as my Commander, you have the authority to direct my projects and goals in the service of our mission goals," Oliver shrugged. It wasn't complicated. "I just... wanted to make sure you knew what I was capable of first. "
+
+"It was the same ask the entire time, Smith."
+
+"It truly wasn't. Automating enchantment creation is absolutely beyond my current capabilities. It's not quite to the point that each motion slide I make is truly artisan, but it takes far too much precise work and adjustment to ever make it completely automatic, never mind how complicated the enchantment-stamp would be."
+
+"There has to be some part of the process which you can make a machine do the hard parts for."
+
+"Pretty sure there is, and that's why I agreed to it."
+
+Henrietta's arm twitched. "Do you need anything else from me, or are you able to work on that for now?"
+
+Oliver nodded, then hesitated, "I did notice we haven't gotten today's iron cart yet. Could you- oh, okay."
+
+Even without [Perceive Emotion], he could understand what a nod meant.
+
+"Ride is already investigating."
+
+"Then... I think I'm good?"
+
+Henrietta bade her farewell and took off, while Oliver turned back to his workshop, mind turning over the problem he had been presented with.
+
+With a few flicks of his fingers and magic, Oliver called his staff to his hand and moved his chair to the center of the room, where he thought best. Then, as he returned the placement brackets to where they were stored, he wasn't paying quite enough attention and knocked over a rack of them, causing half of them to fall on the ground with a ton of painfully loud clanging.
+
+It rattled his concentration enough that he wasn't able to reset it all up with just his magic, so after a few minutes of trying he sighed, got up, used his hands to fix everything, then returned to his seat. As soon as he sat down, he realized he'd left his staff by the placement bracket racks, and after a brief moment considering whether he wanted to magic it back to his hand, he realized that thinking about it any more would just take longer than getting up, grabbing the staff, and sitting back down.
+
+Once the Staff of the New World was back in his hand, he could think better.
+
+So. Mass production of motion slides. That was... tricky. They hadn't been made with mass production in mind. They hadn't been designed with much of anything in mind, really, beyond 'how to adapt a placement bracket such that I don't need to be directly involved.' As a result, the corresponding enchantment had been... messy. That they all worked roughly the same was more a reflection of him continuing to work on a given piece until it worked 'within tolerance' of what he'd been used to.
+
+The engine block had been a small nightmare ensuring that all the pieces were operating within a certain tolerance level, and he wouldn't be surprised if it tore itself to shreds one day. If he wanted to create something that could be mass produced, it needed to use some kind of... intrinsic limiter. Something that acted as a kind of 'buffer' for any natural variance within the materials he was using.
+
+Like how in cooking, water always boiled at 100 degrees C, so that could be used as a constant measuring point. It didn't matter how hot the fire underneath it was, because anything being boiled was exposed to something that was a constant temperature.
+
+So, he needed to figure out some way to create a Force-conjuring device made out of pure or nearly-pure iron, with machine-stop type precision to make it incredibly replicable and scalable… there was no way.
+
+But… he might be able to make a prototype? Some kind of proof-of-concept. And he did love a challenge like that.
+
+Hmm… how could I create something that works like a motion slide in the fastest and simplest way possible?
+
+Fastest for him, too. If there was some process which might take a day to complete but he only needed to initialize it and them pick it up at the end, the day didn’t count. So minimize man-hours.
+
+That... needed to start with completely redesigning the current enchantment. Which was, honestly, fine. His current design was a semi-mangled rendition of his placement bracket enchantment, which itself had been made by bodging the enchantments for his force-pillows and the copper fire ring powering the brick kiln together. Redesigning it would let him account for a lot of the practical realities he'd learned for which enchantments were easier or harder to make out of pure iron and the primitive tools he had available to him.
+
+Make the tools to make the tools... he mused, then shook his head. No, one generation of specialization at most. He'd allow himself to make some generic tools as he developed out the specialized tools for fast production, but that would be it. No advanced tooling. That would help him stay within scope, and hopefully keep him focused. Intentional but artificial limits to encourage creativity was a powerful thing, but Oliver was already struggling with his actual limits.
+
+Focus.
+
+Hmm. Would he let 'a new skill' or 'a new subskill' be counted as a generic tool? It would be a bit of a task to try and get them. Unlike Jacob, Henrietta, or... apparently Alyssa could, he wasn't able to just wrap mana into itself and have a new skill brand itself into his soul. He didn't entirely understand how they did it, honestly. Whenever he went for new skills, he always needed partial assistance from something outside, whether it was simply choosing a new skill through the System, or otherwise using a smaller and more focused enchantment to temporarily grant himself new magic, which the System would then incorporate and finalize.
+
+The end result was that he could get new skills even now, but he'd need to design a very particular kind of focus for it, and would that count as being first or second generation tech for his constraint. It was complicated and hard, and he'd yet to actually find anything which really justified it, because that was also a big and scary commitment, but in this case....
+
+The skill would be a generic tool, but it required a specialized tool to get it, and the specialized tool would probably need more generic tools to make, and he just answered his own question.
+
+So no new skills, probably.
+
+It wasn't a hard limit, but it was probably better that he didn't allow himself to factor in some skill that he didn't already have, in case he somehow got something unexpected.
+
+Still don't know how [Order Mana] is supposed to work... It wasn't in the Encyclopedia Systema, and even with extra levels it still only worked within the walls of First Tower.
+
+His focus was apparently very shot today, so Oliver turned his thoughts even further inward as he meditated, recentering himself on the concept of Force enchantments.
+
+His force-pillows worked by repelling one object from another, and his placement brackets worked on a sort of magical 'conservation of motion' principle, utilizing an existing amount of movement - Oliver's hands and fingers - and magnified those through Force conjuration into a much larger amount of movement.
+
+The motion slide, in turn, worked by 'preserving motion' between two objects, plus a tiny kick to start the motion in the first place. They repelled one another similar to the force-pillows, but that repulsion was directed perpendicular to the normal axis before it was preserved, resulting in the steady speed of the two pieces. There wasn't anything fundamentally different between the two pieces, though they weren't identical - or even symmetrical - but either side could move if the other one was fixed in place.
+
+He... could probably decouple that, though. If he could make the two parts of his new enchantment more distinct in purpose, such that one was always the one that could move and the other one just functioned as what it moved across, it would be a lot easier to ensure consistency in the 'track' than in the 'wheel.'
+
+Perhaps a rod-and-ring combination? Pretty much no matter what he settled on, having the circular base form would be a tremendous aid to the design... yeah, that would work.
+
+The track would obviously be the rod, the ring as the wheel, and so long as the enchantment's 'power' came through the ring, because far fewer of those would be needed than the rods they would slide on, he could still handmake those. So... offloading as much complexity as possible to the ring, at least for now, and then the rod could be made simple and mass-producible.
+
+Oh, that way he could also do more advanced rings in the future! He just needed to make a rod-rail that was flexible enough for future usage...
+
+Oh! And with the ring-rod system for his... sliderails, then he didn't need to worry about much precision with the Force conjuring, because so long as it mostly was going in the right direction, the sheer strength of iron would keep it together. It would mean that the new design couldn't be used for the ballista or more engine blocks though... he could figure out something based on them.
+
+So, he was making two different enchantments.
+
+Oliver pulled up his IDE and started sketching out a few designs. Keeping it to iron-only was hard, because while the Center for elemental Metal was quite good for Force enchantments, he was getting a lot of experience in all the ways it wasn't perfect. Most of it honestly came down to the problems with only using a single material for enchantment in general. Enchantments were all about getting mana to interact in distinct ways to cohesively produce a single result, but when all of his materials were pure iron, there was an entire dimension missing from his toolkit.
+
+But after some amount of iteration, Oliver decided that he liked River as the core for the rod. It beat out Tread in large part just because... well, it was a simpler Symbol to produce. Tread might have technically been better, but no decision existed in a vacuum.
+
+Besides, rivers were also highways before highways, included motion simply as part of their existence, and could easily stretch on nigh-infinitely. It wasn't a bad choice by any means. And while it was possible that there might be some amount of interference from Tower Stream and First River, but 'the ever-flowing river, calm and tame enough to pull along all manner of machines and goods as the lifeblood of trade' was a bit of a... Technological take on rivers that worked well for Oliver and was nicely distinct.
+
+He'd also chosen it because its Symbol could 'tile' nicely. Even though mathematically all Symbols could be modeled as fractals, they frequently didn't look very self-similar. However, River not only looked fractal, it had an overall structure that looked a bit like a reversed 'S.' So, he could connect one end to the next, and create a spiral shape around the rod without a discrete beginning or end.
+
+He minimized the ring enchantment for the moment. He wanted to make sure the rod was possible before making that, and so...
+
+Oliver heated his forge, borrowing a bit of Fire from the smelter enchantment to make it go faster, and drew out one of his iron billets into a rod. It wasn't a particularly large rod, about as thick as his pointer finger and as long as his forearm, but it worked as a proof of concept.
+
+Once he had his rod - a process that already had Oliver thinking about the kinds of tools he could make for it to go faster - he started enchanting it. It was a bit tricky, because he needed two hands to chisel the repeating rune pattern into the side of it and he needed to both hold the rod in place and regularly rotate it to ensure his River rune spiralled around the thing appropriately, but he made it work eventually.
+
+It just required a new set of tongs that he would have absolutely needed to make for something at some point anyway. That wasn't a wasted day at all.
+
+Though technically optimal, Oliver simply didn't have the Capacity to run [Cogniprint] the entire time he was carving the River, and instead needed to selectively activate it at certain points, laying the foundation for now, when he was doing the final enchantment.
+
+While the magic definitely was working decently well, there was a lot of loose threads that needed to be corralled, the River kept wanting to breach its banks, and of course he needed to coax the Rune construct that was River into a more-correct state.
+
+With the rod held in his left hand and his Staff in the right, a spare force-pillow, placement bracket, and motion slide each positioned around him, Oliver took a drink of water, cleared his throat, and began to work.
+
+[Cogniprint]
+
+"I am Oliver Smith, the [Erudite Enchanter], and I make my way forth into the Tapestry with my name and purpose thusly defined. For as I exist, and as this rod exists, I do hereby name it my rod and my river, my stream and my slide, my wand which..."
+
+Hmm, don't like that. Fortunately, he could still recover it.
+
+"I use as an extension of myself. For it serves as a strong trail, a road by which much can travel. Though the waters come and go, the river stands everlasting. That which is above seeks to move to that which is low, and so surely does the ring for this rod seek to travel down its stream. Here is the chain and the link, the rope and the trail. It is focused and unbranching, solitary in its purpose..."
+
+The full enchantment only took a couple minutes to apply, but some portions of the enchantment just did not want to settle down. And though Oliver didn't want to get too hopeful, it looked like the responsible sections of the enchantment were pieces of River that weren't happy that it started and ended. That was good at least, if he was supposed to be making a lot of these all at once, he could simply link up one section to the next and only need to tuck everything into place for the start and end of the rod.
+
+That... might cause some issues if the rods weren't laid down in series, but that was probably a wholly surmountable challenge.
+
+By the time he finished, Oliver definitely felt a distinct current of Force mana both traveling up the length of his rod and staying completely in place, almost like an arcanoceptive illusion. Each end of the rod sparked and fluttered a bit, but... proof of concept.
+
+Once he had it made, Oliver set it to the side and started working on the ring.
+
+It was a substantially more complicated enchantment in many ways, but in the interest of maximizing compatibility with the sliderail rod, Oliver had eventually settled on a Branch glyph, though in-context it might be more accurate to call it a Boat glyph. Magically and abstractly speaking, he was trying to simulate the way in which a branch might fall off a tree and drift down a river until it was carried to the ocean.
+
+Technically, he wasn't even going to inscribe Branch on the ring. Because it was hollow, he couldn't directly carve the glyph into the ring that he was working out of glowing iron. Instead, he'd need to create a couple of so-called 'projection glyphs' that would act as the equivalent to the central glyph, just not actually in the center.
+
+It sounded a lot more complicated than it really was, honestly. While it wasn't exactly trivial to balance all of the other enchantments he needed the ring to have around the projection glyphs, symbol inference happened all the time with more complicated enchantments. It was kind of like creating a ‘standing wave’ in the Tapestry, and while he didn’t have a calculator, he did have access to all the needed formulae to do the math by hand thanks to the Encyclopedia Systema and his Notes provided unlimited scratch paper.
+
+He did underestimate how hard it would be to set up an inferred Symbol when he only had a single type of material to work with, but he managed it with some effort. He actually got the math right on his second attempt, but ended up recalculating it five times after that when his test enchantment failed the first time.
+
+That had been annoying, but it was fine.
+
+Now, even though Branch was the central glyph in this enchantment, it wasn't actually going to be the part doing most of the work. It was more like... the dog. The focus, the catch, the interface, whatever. It was what would enable the rest of his Force conjuration to be done in reference to and pushing against his River-enchanted rod.
+
+The Force conjuration was being handled by a trio of more-detailed secondary glyphs, mainly Fall, Float, and Race. Those three, alongside a solitary Path, were acting as the primary modifiers for Branch. Fall, Float, and Race, as a conjuration glyph, worked to focus as much Force as possible into a small space. 'All that comes down, all which goes up, all which seeks to get somewhere else,' 'be it unintentional, passive, or done with purpose,' 'shall be used to eternally rush forth, rise up, and return.'
+
+He couldn't claim that much credit for the triplicate effect, those three glyphs were slightly famous in certain circles for being an extremely solid core for weekend-project Force enchants. They were mostly used for desk toys and decorations, things which were supposed to be constantly moving without any real maintenance, but they had enough kick that he could turn them into something better.
+
+That was largely what the Path was for, turning the repeated and semi-aimless Force needed for marbles that launched themselves into a hopper that reloaded the launcher into a single-direction magical ratchet. 'The way in which many have wandered with and without purpose, yet never lingering' was acting as a motion rectifier, only allowing movement in a single direction and theoretically redirecting backwards motion into the forward direction.
+
+And that was... about as good as he could get.
+
+Oliver finished enchanting the ring with a bit of a tired sigh. He'd pushed himself to try and finish it before the day ended, and he probably had it working? This would be the third time he thought he'd been done, only to notice that something stupid had been left out, but now...
+
+He set the ring on the ground and placed the rod within it.
+
+Nothing happened.
+
+Oliver frowned and shook the rod, rattling the ring against the metal. If this still wasn't working, then...
+
+A bit of a tinny rattle started up, a bit like a repeating bell, as the ring started to climb up the rod.
+
+Oliver smiled. He had his new generation of sliderail created. Now, it was just a matter of figuring out how quickly he could make it.
+
+"That is so cool."
+
+Oliver started so badly he nearly fell over. "Gah! Clark! Ahhh. Uh. Um. Uh. How long have you been there?"
+
+"I am uncertain," Clark replied, "I was sent to retrieve you, yet you were so preoccupied with your magic, and your magic looked so cool to watch that I am uncertain how long I have been studying it."
+
+That wasn't reassuring.
+
+"You were... sent to retrieve me?"
+
+"Yes! Come on, Commander Inq wishes to speak with us."

@@ -1,0 +1,161 @@
+There really had to be a better way to do this, but Oliver wasn't sure what it might be.
+
+Because he wasn't able to make a flame hot enough to outright melt iron, in order to turn the iron sand which the Universal Refinery produced into billets that he could actually forge, Oliver was forced to go through a very tricky series of steps wherein he took a scoop full of the iron sand, poured it into a bit of a mold on his anvil, and heated it with a spell as he hammered it. That got it to a solid but fragile state, at which point he could stick the billet directly into his forge and heat it up enough that he could forge it into something appropriately solid, and then put it onto the pile.
+
+Every step of the process was trickier than it first sounded, too. Not only did he need to be certain to not fuse the grains of iron to the anvil itself, he needed to not break the initial billet, needed to not lose too many grains, needed to make sure that the billet was solid... at least the spell he was using to heat the iron was one he'd made certain to get plenty of practice with.
+
+Most of the time, he used a skill for it - he favored the Fire, Technology, and Metal [Inductive Forge] - but he'd made certain to learn and master a spell equivalent in preparation for his Forerunner Expedition. The skill was better, of course, but he'd also learned a very simple spell, so it was hardly a surprise.
+
+He really wished that he could make stronger fire with it, though. He'd even tried! But he encountered even more problems with that. His Power and Cohesion were both too low to make fire that intense, and the finite nature of human capability was where teamwork and enchanting should come into play, but well...
+
+He'd been able to solve the problems with the copper in his design melting, with insufficient airflow causing the enchantment to choke out on its own phlogiston, with the enchantment consuming more Fire mana than it could reliably access, but he wasn't able to figure out why after more than a few minutes the flames cooled down and started changing colors, or why the physical ring he made it in would start vibrating randomly and kill its own function, or how the glyphs might spontaneously invert and stop working, or why it sometimes let out a screech loud enough it actively interfered with his casting....
+
+It was always something. Every time he'd tried making an enchantment strong enough to actually melt iron, something stopped him. It wasn't impossible in theory, but it certainly seemed to be beyond his current capabilities.
+
+With Power as a minor stat for [Erudite Enchanter], he probably wasn't going to manage to do it completely 'by hand' any time soon, and he wasn't really even trying that hard. He'd hit level twelve not long ago, and put another point in Aura to support Autonomous Divination 2. His eleventh level had gone to Generation, because he had using his magic for a lot of things lately, and even with [Heart of Technology], he was feeling a bit wrung-out.
+
+Idly, he wondered if the First Flame of Man might have been any assistance. He'd been prepping it to be a strongly Technological creation, something that could be a bastion of industry, but it had been lost alongside Shelter to a wild magic storm. If only that hadn't been innate proof that he was on the right track, because if the fire weren't strongly magical it would have never spawned a salamander.
+
+Clark had floated the idea at one point that maybe the First Flame was still alive, in a manner of speaking, inside the creature, but Oliver was... skeptical. It wasn't wholly impossible, but magic was rarely so convenient, and even if it was, it was impossible to say what time within a living elemental might have done to his poor little fire.
+
+Besides, he consoled himself, It's not like I have the setup needed to make it truly a First Flame of Man. That would take a bunch of alchemical refining that we just don't have the setup for.
+
+Perhaps, once they were a bit more settled, he could give it a try. But for now, he'd have to make do. He just needed to get enough power for his enchantment somehow... or he could try working with charcoal? They did have enough for at least a few experiments...
+
+What's the melting point of iron again, Oliver mused, pulling up the oft-referenced entry in the Encyclopedia Systema. Okay, fifteen thirty eight degrees C, and then you get charcoal burning at... eleven hundred degrees C. Wouldn't work anyway, okay. Did I already look that up and figure that out earlier?
+
+Oliver rubbed his temples. Being stuck on a single problem for this long tended to make his head hurt, and cause all of the things he'd figured out and was thinking about and might try eventually all blend together. If he was better at note-taking, that wouldn't be an issue, but he... wasn't.
+
+But yes. Charcoal was unlikely to work for him. He couldn't really do a blast furnace design either, because that required the fuel mixed with the iron to be strong enough to withstand literal tons of ore on top of it.
+
+"I just need some way to generate enough heat," he told the pseudowyvern inkling perched next to the Universal Refinery. "But charcoal can't get hot enough, and I don't have enough magic Power to melt it on my own, though even if I could melt it, then I'd need to be there the entire time... unless I used [Order Mana]."
+
+Could that work? The spells needed to conjure fire were dead simple. Alyssa had been able to cast one, albeit with his help, and she wasn't a mage. And [Order Mana].... also could boost his effective Power by drawing mana in from the environment. But there wasn't very much Fire mana around. Sure, there was some, both evidenced by and thanks to the number of fire enchantments they had going around, but there wasn't anywhere close to enough to make his spells that strong.
+
+He was pretty sure he'd tried that.
+
+But, he could make there be more Fire.
+
+Oliver called his staff to hand with a quick yank on the placement bracket behind it, and walked out of his workshop with his mind racing. There was still plenty of room on the top of the Spire, between the Tower itself and his workshop. And it was overall quite opportune for casting magic, with most of the chaos that was the forest floor tens of meters below, even if it wasn't as good as the System node tower itself.
+
+But, it still would work quite well for a large enchantment. Larger than he normally thought of himself capable of creating, because he'd never really had high Power. It wasn't needed for the scales he usually found himself working at, but that was a mental trap that he really needed to break himself out of. He was working with Big Magic now, and he had just the tool for it.
+
+He'd do something with five primary-ring glyphs, Fire liked fives. The central glyph... it would be tempting to do this as flame-based, but the point of the enchantment wasn't actually going to be fire related, it was going to be about smelting iron into universal truths, foundations. Fortunately, Parengelic had a lot of glyphs that worked well for creating raw materials.
+
+He'd go with 'the red-hot ingot resting upon the anvil,' because while he wasn't anywhere close to the point that types of iron were something he cared about, but if he had the opportunity to skew towards a natural 'universal potential' enchantment, why wouldn't he?
+
+In any case, he'd have the Ingot supported by... Crucible, Forge, Bonfire, Firing in the 'pottery' sense, and 'Cast,' which was just as much a play on words in Magespeech as it was in English.
+
+"Within this smelter, I do hereby create a great signal which shall stand forever as a testament to magic, so far so good. Not sure I love the order though.... Behold, a grand pillar of fire, the trial which shall transform... the trial which shall create something grand. Okay, that one's better."
+
+Diagrams and designs swam in front of Oliver's eyes, first simply metaphorically and then literally as he used his notes to actually design out the circles he was brainstorming.
+
+That subsequently sent him down a rabbit hole to integrate a development environment into his Notes, and he was pleasantly surprised to rediscover that with his existing setup, enabling the IDE would only take a single point of Aura - he already had one to spare - and one quick trip to the System node later, he was rapidly prototyping various designs until he had something he liked.
+
+Now, it was just a matter of creating it.
+
+It took Oliver nearly a week before he finished building the smelter enchantment, and it was none too soon. It hadn't been that much busier than a normal week, but it just felt so much longer without him being able to devote much time to his latest project. Most of the time he had been able to devote to it had ended up being wasted, incidentally, because it turned out that using pottery for some of the required glyphstones made the entire enchantment not work.
+
+The specific reason why was a bit of a mystery still, but Oliver had managed to get a workaround in the form of stone tablets inscribed with what he needed. Carving them in with hammer and chisel had taken... a while, but Henrietta had been able to help him with some of it.
+
+Now, though, his 'priority fix' list had finally shrunk to a manageable size, and he could continue to progress on what he actually wanted to do.
+
+Let's see. The new ballista has been made and deployed, so the Ironworks are fully defended from all the creatures that have already stopped harrassing it, the kitchen fire enchantment is burning again, the drifting mana thread in the System node base has been realigned, Alyssa's new shepherd's axe is complete.
+
+She'd broken her old hatchet in a fight against a scalewolf.
+
+The force-pillows are no longer doing that annoying thing where they start buzzing randomly, the Staff of the New World has been repaired, the droopy bit of the Universal Refinery shouldn't get any worse with extended use...
+
+Yeah. That was pretty much everything else pressing. Now, he could get back to the smelter enchantment without any interruptions... probably.
+
+There were just a couple of final structural changes he needed to make before he could install his prepared iron tablets and do the last bit of fine-tuning... and thanks to his placement brackets, he didn't even need help for it!
+
+He still made sure to stand well back from where he was working, though. He'd learned his lesson.
+
+Dozens of placement brackets supported a rectangular slab of stone - some research trawling through the Encyclopedia Systema's history articles had revealed a genuinely basic spell that could be used for carving sandstone into blocks - and gently lowered it into place at the center of the enchantment area, while Oliver kept an eye on the mana flows around it with the aid of his [Status].
+
+Not all of the brackets were calibrated the exact same, so it was an absolute pain trying to keep it all balanced, but Oliver was... managing.
+
+Crunch.
+
+...more or less.
+
+Fortunately, before Oliver could get too mentally sidetracked by what could have been close enough to his slab that would make a crunching noise, the readings on his Autonomous Divination spiked in a promising way. It still ended up requiring a bit more manual adjustment, twisting the block such that it sat a bit more level and turned slightly counterclockwise, but once he'd done so and supported it with stacked rocks, it was... acceptable.
+
+Given he was dealing with a ten-ton slab of stone, half a meter thick and two and a half meters square, he'd take 'acceptable.'
+
+He did need to make more refinements to the brackets, though. Needing thirty of them just to lift less than three cubic meters of building material was... annoying. But it was also objectively very good that he was capable of that much. The Force conjuration needed to be stronger, for one... and if he could somehow get the brackets to conjure the Force such that it innately applied to the object itself rather than the brackets, that would help a lot with the inertial issues he was running into, and...
+
+He made a couple of quick notes that he knew he probably was never going to really check, then hopped up on top of the central slab and verified his readings with some manual divination. Then, it was just a matter of getting the ritual started.
+
+Five bonfires were lit in the supporting ring, each fueled by charcoal and plenty capable of being fed continuously. They shouldn't need refills more than every couple hours... hopefully the inklings could take care of that.
+
+After he got the primary ritual working. 'Automating' that wouldn't be hard, he'd just need to create fireproof slides. Right now, he had a smelter to create. The Staff of the New World came up, then clacked against the stone.
+
+[Scrollcast]
+
+"Behold. I am Oliver Smith, the [Erudite Enchanter], and I do hereby establish the fires of industry. Grand beacons have been lit, lighting the way unto a workshop of flame and iron. Within this crucible, I hereby forge a place that the bricks of progress may be developed as ingots of iron, cast from the dust wrenched from the stones as they have been pulled from the earth..."
+
+Oliver swept his hand and dispelled his working. That could have gone better, but he'd been stuck trying to maintain a single magical clause via an extended chant, which was starting to interfere with other portions of the spell.
+
+He turned seventy-two degrees to his left, orienting himself against the Forge glyph instead of the Bonfire. Then, he activated [Scrollcast] again and frowned as he idly stirred at the currents of the Tapestry. No, that wouldn't do.
+
+[Order Mana], he commanded, five times in a row. Each time, he spun up a faint current of mana, pulling Fire from the lit bonfires towards the center.
+
+That's better, he idly thought. Then, he quickly wove a mana-smoothing effect around himself to ease some of the Nature turbulence that pervaded everything, and added a Technology enchantment to the stone beneath his feet. That one wasn't really meant to do that much beyond just keep the Nature at bay, he'd need to do other work if he wanted the ingots to be properly 'attuned' to their new shape... he'd see whether it fit neatly into the initial casting, or if it would be more of a tempering step.
+
+[Scrollcast] [Cogniprint]
+
+"Oliver Smith does speak, the words of the [Erudite Enchanter] enveloping the spire, and the world listens." Casting with his System online was such a pleasant experience compared to what he'd been stuck with at first. Yeah, things weren't as seamlessly integrated as he preferred, but having a few markers took so much of the guesswork out of things. It was like having a metronome when playing an instrument. Not required by any means, but still. Quite helpful.
+
+Right now, the Fire levels were a bit lower and more scattered than he wanted, and he needed to entwine them more with Technology, which would serve as a bridgepoint to Metal. He also should try to bring in a bit of Lava if he could, but that one seemed a bit far-fetched.
+
+"The forges are lit, the craftsman awaits materials. The fires of industry roar and blaze, yet the foundations have not been laid. Bricks shall be required, and the bricks shall be cast here. These five fires do thereby light the path forwards, as five become one and one pierces the sky. May the rivers of iron flow forth, the power flow and peak, a mountain of power hereby called to bear for something grand, for something for the future and for advancement."
+
+Okay, that was looking good. Fire levels were about where he wanted them, and there was a decent amount of synchronization between it and the Technology. Metal was still lagging a bit, but that was acceptable.
+
+"The sparks fly as iron is rendered into the bricks of the future. Ingots created shall light the way into the next age as surely as a bonfire, for for for..." Oliver's attention was split and then splintered as his eyes traced out the mana-level divination outputs. That fire was spiking hard, and...
+
+Oh no.
+
+Oliver ran.
+
+He kept his grip on his staff, but tucked his head in as he sprinted towards his workshop. He managed to not completely drop the incantation, but wrapping up the spell definitely was... rushed. "For the advancements come, an onrushing flood of development running forth and sweeping aside all else!"
+
+WHOOSH
+
+The sound of rushing wind overtook him the moment the magic tied off, and Oliver could feel as the five beacons all combined into one extra-large flame, constructively interfering with one another to a degree he hadn't anticipated. He tripped on some stones and nearly went sprawling, but instead managed to turn around and sat down hard... right next to Henrietta.
+
+Behind him, the flames looked almost like a sinc function, with waves of fire coalescing into a giant spike of blue heat stretching and almost blending into the cloudless sky.
+
+"Commander," Oliver greeted, now that he was certain he wasn't about to burn himself to a crisp. "I didn't see you arrive."
+
+"It seemed prudent to ensure you stayed safe," Henrietta replied. "Is that working as you expected?"
+
+"Better than I expected, if anything. I still need to confirm some things, but it seems like it turned out really well."
+
+"Seems as though it might be tricky to cast iron there, though," she pointed out. "What with the enormous column of flame with no way to get iron inside of it."
+
+Oops.
+
+"I did have a plan for that!" Oliver defended himself.
+
+"I see," Henrietta replied, and Oliver was suddenly uncertain whether she was being sincere. 'I see' was one of those phrases that was normally really meaningful, but without [Perceive Emotion], Oliver had no idea what the meaning was. Unfortunately, her next words didn't help. "And what was that plan?"
+
+"I was going to...." Oliver wracked his brain in order to remember, whispering a basic divination to try and recall while also skimming through his note titles, trying to see what might be applicable. "I forget. But I did think of it! I... might have assumed it would be a bit tamer when I was coming up with ideas, though."
+
+"Don't worry about it too much," Henrietta reassured him. "We'll come up with something."
+
+Oliver sighed, looking at the pillar of flames. "I really could have done this better."
+
+"Probably," Henrietta agreed, "But that doesn't matter. What matters is that we keep moving, keep building, and keep progressing."
+
+"Should I turn the flames off?"
+
+"Can you?"
+
+"I think so," Oliver shrugged, "At the very least I should be able to deactivate the enchantment, just from a magical standpoint anyway."
+
+"And that won't cause issues?" Henrietta confirmed, "No oddities with deactivation and turning it back on. I know you had some flames that were sensitive about that before."
+
+"I don't know," he sighed. "But I think we're going to find out."

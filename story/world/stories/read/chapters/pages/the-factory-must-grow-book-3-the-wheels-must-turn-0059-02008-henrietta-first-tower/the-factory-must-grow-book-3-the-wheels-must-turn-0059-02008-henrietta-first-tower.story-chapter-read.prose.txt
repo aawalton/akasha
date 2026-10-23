@@ -1,0 +1,173 @@
+Things were looking up, but Henrietta was still stressed.
+
+It was hard not to be optimistic, as Henrietta examined the output of Oliver's Universal Refinery. Sand and iron, from nothing but rocks. Yes, Oliver needed to be on-hand to maintain it and ensure that it kept working - a few minor issues had cropped up, none of which had taken the Artificer more than a couple minutes to patch - but if the Everflame Brazier had been impressive, this was genuinely amazing.
+
+Oliver himself had downplayed it, stating that it was no less than what his job entailed, but Henrietta was no less impressed. She understood the theory behind it well enough - this kind of elemental separation was very much alchemy - but she was still amazed to see something made out of roughshod bricks and iron that had been refined by the very device it was in.
+
+Because it was capable of processing the omnipresent Jungle Rock, Henrietta could trivially instruct a single inkling to keep it perpetually stocked. In this case, she'd repurposed one of the brick-moving inklings to gather random loose rocks from the area. Eventually, they might run into issues, but... there was a lot of loose rock.
+
+The primary limitation was simply throughput. A fist-sized chunk of rock, which she estimated was about a kilo in weight, took roughly an hour to be rendered down fully. About half of the mass was simply lost to the process, with most of the output simply being fine pink quartz sand, but they also got a steady trickle of sand-like black iron, maybe... eighty grams or so?
+
+Less than one-tenth of the feeder mass wasn't great, but it was still absolutely massive for them. Eighty grams per hour was almost two kilos a day, and that would be enough to get all of them outfitted with proper metal tools in no time. That could be accelerated even faster if they used pyrite, which was processed far faster and yielded substantially more iron. They'd only been able to test with a few crystals, so their estimates were a bit less precise, but a kilo of it only took a few minutes to process, and spit out more than a quarter of that in iron. No sand, but that was only to be expected.
+
+That meant, if they could supply it, the Universal Refinery could produce three kilos of iron per hour, or seventy-five kilos per day. It was an extraordinary amount, matched only by the three hundred kilos of stone it would need to process.
+
+Though... they could probably manage that much, now that Henrietta was working out some of the numbers. Pyrite was fairly dense, so if they could source it, that would be... maybe a wheelbarrow's worth per day for the refinery, which wasn't that much.
+
+Except for the difficulty sourcing it. Alyssa had, when revisiting Shelter, said that it wasn't too hard to find pyrite, but it wasn't enormously abundant either. They would need some inklings on solid pyrite-gathering duty, which might be tricky to set up, and then actually transporting it all...
+
+It could probably be done. Alyssa and Jacob might not have found a viable water route from Shelter to First Tower, but that wasn't strictly needed. With iron to make tools, they could create wheeled carts far more easily, and a manual delivery of the supplies might not be so bad....
+
+It might serve as a stopgap, but Henrietta doubted that they'd need it. Iron wasn't that rare, and given how much hematite simply existed in the rocks and soil around them, there were bound to be good veins of iron ore for them to extract. With luck, they'd even be right alongside a river and could therefore simply ship them down on the barges Clark and Jacob had devised without any sort of dramatic overland trek first.
+
+Henrietta had needed to revise some of her ideas for the production lines they were trying to set up, to better take advantage of the Refinery. It was a shame it couldn't be easily duplicated across multiple places, but Oliver had been quite vocal about how infeasible that would be. Yet, for all that it was providing them with nearly as much metal every few days as what had they'd been able to gather total until this point, it wasn't enough.
+
+The fundamental problem they were dealing with was one of scale. Two kilos of iron may be an impressive amount on a personal level, but Henrietta couldn't afford to think on a personal level. If they were going to make a portal, she needed to think like a civilization.
+
+Talks with Oliver were... frequently less than productive. He tended to shut down if she presented him with questions that were too broad-ranging, which wasn't ideal, but she could make it work.
+
+After all, she did still generally know how to make a portal. An extra four decades of technical development might have refined the strategy, but the broad strokes were still the same. And she knew that they would need to find a lot of rare magical components, synthesize a number of advanced materials, and manufacture some very very complicated devices. She kept going back and forth on how directly her plans should end with the portal itself, and right now she was trending towards 'focus on it later.'
+
+Even a normal Jump involved a lot of technological advancement, industrializing the locals and the creation of high-tech devices. But here, where they'd need to replace the hundreds to thousands of people who normally existed in the creation of anything with fully automated setup, it was going to require something beyond even that.
+
+So in short, two kilos a day was a mere first step. They'd need to leverage that meager amount into something better and easier to upscale.
+
+With Alyssa's recent success in getting the [Rustlewind] skill, she'd been out searching for a solid and reliable source of iron ore. Once she managed that, Henrietta would have her find some creature whose inkling could be used to dig up that iron ore. There was bound to be something. The steps after that depended too much on where the iron ore was found, but mostly came down to setting up a supply route from there to First Tower. If the Universal Refinery could accept pyrite, it could accept raw hematite and process it far faster than mere rock.
+
+But they had time. Time where she didn't have anything she was directly working on.
+
+Alright, how can I get ahead of everything?
+
+There was a fundamental truism of leadership, one that was core to human nature, in that decisions took time and effort to make. That was, after all, the entire point of having a designated leader. It was her role to corral five intensely weird and unique humans - for there was no such thing as a normal and average human - into productive roles. If she was good at leadership, then doing so would be simple and she could instantly assess the most effective use of everyone under her command at all times and direct them accordingly.
+
+The simple fact it had taken her several days to realize that Oliver was probably overqualified for figuring out how to make charcoal was evidence she was not good at leadership.
+
+So she needed to compensate for that.
+
+Now, part of the problem was that she had predominantly been reactive, Henrietta decided. She'd been thrown off-balance by the unexpected nature of the Jump, and while she certainly wasn't going to fault herself for that, it was the reality of the situation. She'd needed to react to their circumstances because not reacting would have gotten them all killed. She'd needed to react to being in the wilderness, react to having Shelter destroyed, react to the vinebeast attacks, and react to Oliver's issues when building the System node.
+
+But when she was being reactive, she was making decisions in real-time, and that led to more delay for worse decisions. If she wanted to present herself as a competent leader, she would need to start being proactive. If she could predict the problems they would encounter before they actually came to pass, she could instantly react with a decision that had far more consideration behind it.
+
+So, what did being proactive mean in this situation? With the benefit of retrospect, having Clark working on charcoal was a form of proactivity, because they didn't need it quite yet. But that was giving herself too much credit, it had simply been a premature decision.
+
+The boats were likely also premature. The simple fact the boat Jacob and Clark had made wasn't in use was evidence enough to that. They didn't have enough things that needed transportation long distance to warrant it.
+
+Henrietta frowned. The boats weren't in use yet, but maybe that was a matter of proactivity? Creating something before it was needed was exactly what she was trying to get herself to do. What would be the proper distinction?
+
+She didn't have a great answer, but the sound of metal striking metal drifting over to her from Oliver's workshop gave her a mediocre one: if something that would be 'eventually' useful was substantially worked on prior to a new tool that would have made the prior work far easier. Iron tools would have made Jacob and Clark's work far easier and likely higher-quality as well, to say nothing of the additional options it would present.
+
+A distinction had to be made that if the consequences for failure were more than merely wasted time, precautions were warranted. Basic safety measures were never wasted effort, because it was impossible to predict when an accident would strike.
+
+But, with that in mind, what could she do proactively?
+
+Her mind stayed fixed firmly on 'iron.' The more iron they had, the better. With her inklings gathering the food they needed, progress became the most important, and right now increasing the rate they produced iron was the best way to go. She still wanted to make a fully autonomous and self-improving supply line, a true multiplier to their capabilities, and this gave them a solid foothold in that direction.
+
+So, suppose Alyssa came back and reported an iron vein directly up Tower Stream, where they could just load boats up with hematite and let them float down the stream? That was effectively the best-case scenario.
+
+Well, they would need boats. Boats strong enough to carry appreciable amounts or iron ore in them. Those boats would need to be a lot sturdier than what they had now.
+
+No, she realized. We need barrels.
+
+Or at the very least, something like barrels. Something watertight but capable of floating even when loaded down with iron. Something that was less likely to sink if it got rocked. But alright, barrels. Those could probably be made out of reeds.
+
+But how would they get the barrels, once Jacob or whoever had designed them?
+
+That level of craftsmanship was... beyond her inklings. She had limits to how crafty she could make them, and those limits were expressed in her brick-moving inkling, with its multiple places it took and placed items over the course of extended periods of time. 'Handcraft a barrel' simply wouldn't work.
+
+She couldn't imagine that they could automate the production of barrels, certainly not to the volume they would no doubt require. They would have to re-use them, then. And that meant she'd need to devise a system for transporting barrels back up the river.
+
+Rivers, famously, only flowed in one direction, and that meant she couldn't just toss the barrels back in the river and have them return to the iron mine. There would need to be an overland traversal.
+
+Ironically, that simplified things for her. It meant that no matter what, there would need to be some form of overland physical conveyance from First Tower to the iron mine, and it was no longer dependent on a river route. Fortunately, her inklings worked excellently for that, all she would need is some rather large creature capable of carrying additional weight - not a difficult task - and some form of harness to attach a basket to them in a simple way.
+
+Then, they would need to have a route to travel on. Cutting through the wilderness might take some time, but they could...
+
+No, that wouldn't be necessary. A more winding road would suffice to begin with. Alyssa and Jacob could surely trailblaze a route for the packbeasts to follow. Some method to clear-cut a straight road could come later.
+
+Of course, having her inklings traveling unaccompanied through thick jungle wilderness opened them up to predation. They were still animals of sorts, and even if they wouldn't be edible prey, that might not stop certain predators from hunting them, or aggressive herbivores from trying to drive them off.
+
+Jacob could deal with that, probably. She'd speak to him shortly, get his opinion on the matter. There was also the possibility of her creating some kind of guard dog to accompany them, or otherwise deal with these hypothetical animal attacks in some other way.... that was definitely a Jacob conversation.
+
+The creation of a road between First Tower and the iron mine would be a good goal, though. As soon as they had a location, they could turn their ongoing supply of roughshod bricks towards building a proper-ish road. Once they had a road, they could make carts, and that would increase the shipping rate even more.
+
+Alright, this was coming together into a plan.
+
+A road back to Shelter might be worth considering, but that was of secondary importance. They didn't have a dire need for any resources from there, unless it turned out that they did in fact need pyrite because of a lack of alternative iron sources. Eventually, its supply of crystals would prove too alluring to ignore, but that was still a ways off.
+
+In fact, it might not even be needed for even longer. If she pointed Oliver towards glassmaking, utilizing the sand created by processing Jungle Rock, then certain basic uses of material crystal could be offset by glass. Plus the opportunities provided by glass for things like alchemy equipment, glasses, better lighting, and so forth. None of those were very pressing, but they might be nice to have. Perhaps if she had some spare time, she'd put her own skills in the field to work, but she would likely need Oliver's assistance in making the tools for it. She'd never made her own glassblowing studio, so it would be an adventure, but she knew they could manage it. Getting some of the temperatures might be a challenge, without any of the fluxes normally used to reduce the melting point of quartz, but magic could smooth over that particular difficulty.
+
+It would be more relevant if they were working on System things, as Crystal was an important element in both computers and their [Status]es, but mostly she'd just make sure to remind Oliver that glass was likely an option for his tool-making, and leave it at that.
+
+There were also some alchemic rituals to create cement out of sand which might be put to use, and Henrietta thought she might be able to manage one predominantly with copper. Concrete would be very useful to Oliver, both as a building material and as a very Technological type of stone. However, it was also possible that cement could be found and harvested around here. Perhaps after iron was more established, they could look into it.
+
+Henrietta nodded to herself. Wood was another material they'd want to get in good quantity, but the seasoning requirements meant it would either be a long-term solution or would necessitate some new means of drying out wood. Still something to get started on soon, of course, but a secondary priority.
+
+For now, she needed to think about how to get baskets to and from a mine.
+
+Henrietta brushed off her hands and unfurled her wings. With a few strong beats, she rose into the sky and alighted on top of the Spire, setting down just a few strides from Oliver's workshop. The ting of metal striking metal had calmed down, replaced by the murmur of voices, and as she rounded the corner Oliver trailed off from his prior conversation as soon as he saw her.
+
+Jacob turned a moment later, and started to rise to his feet, "Commander Inq-"
+
+"No need to rise," she tried - unsuccessfully - to stop him. "I have some questions for you, though."
+
+She grabbed herself one of the crude reed stools in the workshop and sat down. "Smith, you may either listen in or return to what you were working on, your option."
+
+"I wasn't doing anything time-sensitive," Oliver shrugged. "But making a first set of tongs is hard."
+
+"Didn't you learn how before coming?" Henrietta asked, somewhat surprised. Yes, the teambuilding period had been cut short, but they should all have had full training on the skills required for their respective roles well completed before they were even assembled into a team to begin with. And if she had learned how to make tongs without using another set of tongs when her skills as an alchemist were barely connected, Oliver absolutely should have known how.
+
+"I did, but..." he motioned at his surroundings, "I need other tools to make tongs, and I need tongs to make other tools. I was trying to work with Jacob on ideas for making an iron hammer with just copper tools, and then I could use that to..."
+
+Henrietta raised a hand to forestall him, "If you want my assistance later, we can talk. But we digress. Veeran."
+
+The Warrior inclined his head in a 'continue' motion, and Henrietta did so, "I'm preparing for an overland route connecting here to whatever iron mine Ride ends up finding. I anticipate utilizing inkling beasts of burden, laden with baskets. What are your first thoughts?"
+
+She tried to not say any more than needed, in case she infected him with her biases. Jacob clearly took the question seriously, silently contemplating for a few minutes and briefly leaving the workshop to look at The Jungle. Henrietta followed, with Oliver trailing somewhat curiously behind her.
+
+"The terrain is rough," was the first thing Jacob said. "It may be less of an issue for your and myselves to our stats, to say nothing of Ranger Ride's capabilities, yet your inklings retain the physical capabilities of their templates, yes?"
+
+"Predominantly so, yes," Henrietta confirmed. Especially with her current material constraints and lack of support skills. "However, they'd be native to the area, couldn't they already navigate?"
+
+Jacob shook his head, "All supply chains are more fragile than you expect. My experience lies mostly with far more advanced supply chains than some summons with bags slung over them, but even teleportation and flying trains are far more easily disrupted than you could ever imagine. "
+
+Henrietta sighed and rubbed her forehead, "Alright. So, rough terrain. I don't quite understand, but in the interest of staying focused, I'll move on to your suggestions."
+
+"Most creatures do not move with purpose, Commander," Jacob elaborated anyway, "When they do, it is done towards areas that they can immediately or easily reach. When you try to push them to move between specific locations, a number of considerations you or I would never foresee instantly come to the forefront."
+
+"Trailblazing, then? We spend some time clearing out fallen debris, clearing bushes, what?"
+
+"Bridges as well. When they are hauling supplies, we wouldn't want them going up and down unduly. And of course, the more rough terrain they cross, the more trouble they'll run into with creatures. How reliably can your creatures navigate?"
+
+"More than you might expect, less than I always hope," Henrietta answered, "Defining their behavior as simply traveling between two points should be manageable, and they'll do it quite well if slowly."
+
+"Good. Then, we need to consider any attacks they may suffer from wildlife."
+
+"What do you propose?"
+
+"Predicting how wild animals might react can be challenging. However, my advice would be for us to rigorously defend the first few shipments, and then adjust from there depending on what kind of response we see. Perhaps the supply chain will require constant guarding or walls along the entire length, perhaps it would require nothing."
+
+Henrietta held back a sigh. That was still being reactive. She wanted to be ready with the solution when the problem arose.
+
+"I could..." Oliver started eagerly, then trailed off, "No. No, I can't"
+
+"Can't what, Smith?"
+
+"Well, I wasn't thinking well enough and was thinking about how I would do it if we were back home, and for that I would create a ward on the road itself to repel hostility. But I don't have any good access to Peace now, never mind how I could create the road. And then I thought about how else I might fight off a bunch of predators, and what came to mind was lightning towers, but I don't think I could manage that."
+
+"You think you can create artillery?" Jacob asked, hopeful.
+
+"Well, no. Well, yes. But no. But I could-"
+
+"Smith," Henrietta stopped him, "I appreciate the initiative. But focus on your tongs for right now. Once you have those, you were going to work on..."
+
+Henrietta was embarrassed to realize that she'd forgotten what Oliver had told her. Fortunately, he didn't seem to notice and simply filled in the word.
+
+"Placement brackets."
+
+"Yes, placement brackets. Focus on those, if they remain the tool that will help you the most."
+
+"[Scrollcast] has gotten to a high enough level that I should be able to power and control them with just ⟨Use Artifact⟩," Oliver began to explain. Normally, she'd let him talk, because he did well when getting the opportunity to express himself, but...
+
+Actually, why not? Clark was asleep, Alyssa was out looking for an iron ore vein, and Jacob was already engaged in the conversation. And who knew what ideas might naturally spawn from the discussion.
+
+And so, Henrietta simply listened and enjoyed herself.

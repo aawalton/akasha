@@ -1,0 +1,137 @@
+Oliver looked over his latest batch of pillow prototypes with a mix of resignation and hope. Resignation, because he really didn’t want to have to do another round of iteration, and hope because he hadn’t lost any tablets to the kiln this time, so he at least wouldn’t need to redo any designs.
+
+It would have been substantially less bothersome if he’d had a better way of telling why so many of the tablets just entirely failed to work. Was it because the underlying design was flawed? Because he’d made a mistake somewhere in the structure, like forgetting a transitional rune or misaligning the angle between two others? Or was it because his hand had slipped at a critical point and rendered a critical part inoperable? Normally he used [Appraise] for that kind of thing, but not only was it even more broken than his creations… debugging information didn’t really come about until level 20 or so. The best he was getting right now was a simple ‘nonfunctional’ impression informing him that he wasn’t messing up the activation spells.
+
+He dodged around the inkling unloading more bricks from the kiln – whose success percentage was ticking up over time just like he’d hoped – and piled his tablets into a basket, then started climbing up the series of ladders to the top of the rock spire.
+
+While one end was still set aside to Oliver’s ongoing efforts to lay the foundation for the actual System Node Tower, he’d set up a mass-enchanting workstation on the other end of the stone after he spent half a day giving finishing enchantments to his first batch of pillows. Officially, its primary purpose would be to enchant the bricks used in the tower, but he’d made it far earlier than he would have needed for just that, and made it a bit more general than strictly needed.
+
+It wasn’t that much more work, and the pending tasks he had been putting off by doing the extra work weren’t that important. They had water, they had shelter, they had food. Now, they would be getting sleep. And wasn’t that what was truly important?
+
+Oliver made a few adjustments to the circle in accordance with a daily shift in the Tapestry’s texture, then laid the tablets in position and began his work.
+
+[Cogniprint]
+
+The finishing enchantment – was this technically a temper? Or a sealant? He hadn’t worked with clay professionally enough to know the right term. Glazing, perhaps? No, that was done before firing... Eh, it didn’t really matter – was at least pretty straightforward, and didn’t need a wand to pull off. It did require full-body movement in the form he was using it, but it fortunately didn’t need to be quite as precise as the main work.
+
+While quite the oversimplification, Oliver had always thought about this stage as the part where the enchantment was ‘locked in,’ in this instance correcting for any minor deviations that had happened during manufacture, re-tightening places where the magic had gotten loose, and generally setting things up that the activation spell didn’t break or alter the underlying mechanics.
+
+There was more to it as well, but most of it wasn’t especially applicable at the moment. He kept it in, though, because he did not need to create more problems for himself by trying to be clever right now. Modifying your finisher was something you did when working with niche interactions, digging into the specific elemental interactions to make certain that everything worked in extremely specific ways.
+
+He finished up the ritual enchanting and inspected the resulting tablets. Nearly all of them were quite obviously flawed in some way, but the ones he was able to get a sense of seemed like they were functional, so... yay?
+
+With an armload of freshly-enchanted tablets, Oliver retreated down the ladders once again, bringing them to his bunk and setting them roughly where they’d be functional. He’d designed the enchantments to work there, after all, and while technically he ran the risk of overtuning the pillows, he was just trying to do a proof of concept, and it wasn’t like it would be difficult to adjust the enchantments for his teammate’s bunks would be hard anyway.
+
+So it doesn’t matter if I overtune it to the point of becoming as immobile as a wardstone. This isn’t lab, this is the real world.
+
+...Which is supposedly where overtuning is worst. But it’s not in this situation, so I can stop thinking about it.
+
+But what if I overtune it in a way that does matter? Then I guess I could just deal with it then. Henrietta had been talking to Oliver about not getting so stuck on something small that he didn’t do the big thing it was a part of, and this felt like it qualified.
+
+There wasn’t anyone in the hut at this time, and Oliver’s darkness enchantments didn’t dim out the eternal daylight so much that he couldn’t see anything.
+
+He set down his basket full of tablets with a bit of a clatter, then pulled out the first tablet. Oliver got the impression of a bit of motion... wasn't helpful, all of them were Force based... and turning, and flowing...
+
+Okay, this was one of the water ones.
+
+[Scrollcast]
+
+“I speak to the flowing stream that once ran above this tablet, that it could remember that which it once functioned as a part of and imprint that memory upon the world once again. May the waters of force burst forth as unto a spring, that those who seek rest may have their heads lifted upon the phantom waters...”
+
+As he spoke, Oliver’s fingers flew, tracing patterns in the air and flickering into the appropriate sub-spells as he drew upon the whorls in the item, illuminating the interior with faint flashes of light. Not all of those flickers were intentional, forcing him to adjust the rest of his casting correspondingly, but he felt the magic of the tablet he was pulling on click into place, sink into the artifact, then bubble forth just as he’d designed it to.
+
+He drew his casting to a close by directing a wisp of blue light to drift onto the exact center of the tablet, where it sank into the surface and caused the graven runes to illuminate. If this worked, he’d need to change the functionality to prevent the glow, but at this stage in the process it was really helpful for debugging.
+
+He extended his hand hesitantly, running his fingers across the woven-reed surface the tablet was resting upon, and then feeling the sudden change as liquid-like force interposed itself between his skin and the rough surface below. Just like his last trial, it definitely was working on a basic level, and for all that it was a slightly odd shape for a mundane pillow, it would work if only…
+
+Oliver stopped touching the force lightly and instead started putting actual pressure against the force construct. It bowed easily underneath his fingers, giving him hope for a split second – and then the clay tablet fragmented under the pressure, and Oliver thought he might have caught a brief flicker of diagnostic light as the internal structure tore itself apart.
+
+“Mmmm,” he narrowed his eyes, “Probably won’t work then.”
+
+If he was right about what was happening, the entire pillow was all trying to stay a fixed distance away from the object it was projected from. However, because he was also trying to make the force be fluid and capable of moving, actually displacing any part of the pillow’s surface was akin to driving a chisel directly into the fired clay. That it had outright fractured at such a light touch meant it was probably also enhancing his touch, effectively turning a faint pressure into something strong enough to annihilate clay.
+
+“Take heed, the library of my mind, and inscribe within the memorial of experiments to undertake in the future to investigate further the potential for a monodirectional breakaway piece of clay by overlaying Water behavior upon a Force enchantment.”
+
+Memory spells weren't especially popular, given how well the System could fill that particular role. And without a Skill or enough Mind points to accompany it, his Knowledge-storing spells would only work if he consciously tried to record and retrieve a given piece of information... but the ability to store Knowledge or memories directly within one's own mind was frequently useful nonetheless. Now, when he actually got around to testing this out, would this particular enchantment almost certainly prove inferior to existing alternatives for basically every use case? Probably. Especially given how much work it had been for such a basic result. But, you never knew.
+
+The other Water tablets met similar fates, each breaking in technically different ways but all meeting the same fate when too much pressure was applied. There might be room to experiment with those later, if he didn’t come up with anything better. Because it did work, the pottery just wasn’t strong enough to hold itself together.
+
+The ones based on soft clay were strong enough, but they were just regular force, without any give. Considering the exact same result had happened with every one of his ‘soft clay’ type effects, it was probably a fundamental problem. Or, at least, it was a problem with the ways he was approaching the issue altogether. Unless he truly had no further leads, he was probably just going to not include more Earth-based tablets in the next batch.
+
+The first ‘sand’ tablet didn’t work at first. It definitely lit up, and Oliver could trace where the Fire mana was generated and entwined with the Earth mana of the overall series. After that, it became a bit harder to trace exactly what the mana was doing.
+
+It was absolutely some of the easiest mana sensing he'd done since the Jump. Arcane-based arcanoception meant he had a very solid grasp over everything and anything that manipulated the threads of the Tapestry, with his Technology arcanoception bringing an enchantment especially into practically crystal-clear focus.
+
+Not that he saw it, but same idea.
+
+But easiest didn't mean... that much, ultimately. While he could sense the magic of the enchantments with incredible fidelity - adjusting for his unenhanced senses at least - he was still only able to see half the equation. While he could confirm that the Arcane and Technology involved was doing what he had expected it to, that didn't mean it was affecting the other mana in the way he wanted it to.
+
+But he could still sense it somewhat. Some elements, like Fire and Metal, were a lot easier to detect because their tighter Associations with elements he could sense made their presence more noticeable to him. Like how tossing a handful of grass into a slight breeze was better for 'seeing' the wind than doing so with a rock, but throwing grass into a deep hole would be far less useful than a pebble in determining how deep it was.
+
+Practically speaking, Metal, Rune, and Force were all relatively easy for Oliver to track, but Water and Sand were… harder. It was hard enough for him to tell if Sand mana was doing anything, let alone subtle differences in how it was acting. That would change as his sensory toolset was built out, both in the quantity and quality of spells he had available to him as well as measuring devices, but early days, and he needed to stop dwelling on all the things he didn’t have.
+
+It looked like it was doing something, feeding into the tablet, and – oh shoot, was that Fire building up?
+
+Oliver swept the tablet off the reed mat just as a wisp of smoke began to curl upwards, revealing a section of charred-black reed mat that perfectly aligned with where the tablet had been sitting. Even the brief contact it had with his skin had also hurt, but he couldn’t just leave it sitting on the floor either.
+
+He fumbled for something that would work as a tool, and his hand alighted on a wand that had burned out but not crumbled, and he sent the clay tablet skittering across the floor, and it bounced off the wall near where the door was. He rushed over there and knocked it out of the open entrance as well, and watched it fall to the ground. Before he could actually get down to break it with a rock or something though, a fairly central rune cluster exploded in a shower of black sparks, rendering the entire thing useless.
+
+Someone – it sounded like Henrietta – shouted something that Oliver assumed was about whether he was alright. He responded with a general platitude and returned to his bunk, lying down for a moment to give his racing heart a chance to settle down.
+
+That’s one danger of overtuning, I suppose. I have to test in place, and not in a fireproof enchanting hood.
+
+The sudden nature of… everything meant he hadn’t gotten a great chance to actually study and figure out what exactly went wrong, but Oliver felt like he had a good idea as to why the tablet which involved a simulated Fire-based transmutation might suddenly heat up.
+
+Even though he kept a metaphorical eye out for a similar result as he kept running through his Sand tablets, he was apparently fortunate enough to have only experienced that particular issue on his very first try. Instead, he got to deal with the way half of them straight-up didn’t work for whatever reason, one shattered at his touch like the water ones, and the rest just didn’t shift as he wanted them to. Instead, they were just as solid as the clay ones… so failures in their own way. He'd been hopeful when he managed to set up a semi-transmutation station for purifying their water, but emulating an alchemical reaction was firmly beyond his means right now.
+
+The ones intended to mimic magnets technically worked, but he found them actually pretty useless for putting his head on them… and also they were incredibly finicky, acting much like a magnet in how much it tended to repulse everything around it.
+
+Hang on, he thought when poking around the latest test magnet-pillow. Why does this allow my hand to get closer or further away but the Waters all insist on a fixed distance?
+
+Because it absolutely was possible to have Force be at a non-fixed distance, but if that really was what was happening with regards to the water enchantment – though he could be wrong – then it stood to reason he might be able to combine the magnet and water models into something that worked for him?
+
+Actually….
+
+One pillow he’d attempted to make utilizing Air as a model for the Force wholly didn’t work, but that was simply because he couldn’t feel any appreciable force when moving his hand, his head, or anything else near the tablet. There was occasionally a feeling of faint pressure, and Oliver could sense that the enchantment was working, it just didn’t actually do anything in practice.
+
+That definitely meant the Force wasn’t limited to a strict distance away. Because he could sense the Force against his hand, and knew what it was supposed to feel like from the functional ones – they weren’t much better, they created a bumpy and roiling surface that would just knock anything he put on it around randomly, buffeting it from every angle in a way he might have felt useful were he trying to make a massage chair – he made a note – but in this case was literally worse than nothing.
+
+But the Force construct with the nonfunctional one… that was interesting.
+
+It was pretty clearly something going wrong with the actual enchantment, and it didn’t take Oliver that long to figure out what it was.
+
+He’d made a mistake when actually carving the enchantment. Specifically, one of the runes in a linking cluster between the Air and Force was malformed in such a way that it harmed the entire cluster, so the amount of mana the item could push around was drastically throttled. As a result, there wasn’t actually any force behind the Force, with it trying and constantly failing to push against Oliver’s hand and failing every time.
+
+Or wait, no that wasn’t quite right. He couldn’t fully push it against the clay tablet without resistance, his fingers stopped a centimeter away from the enchanted material. Past that he felt increasing, almost springy resistance.
+
+Huh. That might just work.
+
+He quickly spun up a divination, trying to get some answers regarding what was going on. Malfunctioning runes could be tricky to replicate intentionally, but if he could replicate the increasing resistance with proximity in the water variant, then he might actually be able to succeed in his goal! He wasn’t sure what force that flowed like water but felt springy might feel like, but he was sure as heck going to find out.
+
+He still had a couple of tablets left to try, but after confirming that they didn’t have anything interesting for him, Oliver deactivated the final tablet with a bit too much eagerness that accidentally resulted in him burning out the outermost circle of runes, and swept both tablets and broken pottery shards into his basket, then out into the daylight for proper study and replication.
+
+He’d need to do something, either speaking to Henrietta or removing the brick kiln’s door, to make sure that he could get his next batch of tests in with the next full firing, but he was so close to a true breakthrough he could almost taste it.
+
+After he ruined the second tablet with his eagerness – pressing too hard with his compass and shearing off a chunk of clay as a result – Oliver took an actual moment to calm down. After all, even if this worked, then it would still only be a prototype. It would probably still be uncomfortable, would have weird bugs that needed to be worked out, and probably would spontaneously fail after a few days even in the best-case scenario in a way that would definitely interrupt his sleep.
+
+But on the other hand, he was about to get a pillow.
+
+If it worked. Which it totally would. He had a good feeling about this one.
+
+Also, he was making a dozen of them because he had enough material and there were six variations he wanted to try, and each of those needed two attempts to account for simple manufacturing error and…
+
+Force magic made up the core of the enchantment, same as all the ones he’d been doing. Oliver had gotten pretty good at basically-freehanding the designs needed, he felt, even if they were still far rougher than he would have preferred. But now he had a better idea as to what the absolute dealbreaker errors were, versus those which didn’t really matter or would result in some niche effect. Messing up the Riverbed glyph wouldn’t break the enchantment even if he really screwed it up, but it would cause additional strain in the surrounding structure and lead to a shorter lifespan. By contrast, if the angles on his Pool runes were off by more than five degrees, it would behave as a magical capacitor, soaking up all of the threads that tried to route through it… and then, because it wasn’t actually a capacitor, it would overload and cause a catastrophic downstream failure that would fragment the overall tablet.
+
+He’d figured those out in his first trials, and he was thankfully mostly past that.
+
+Into the core force enchantment, Oliver overlaid the behavior of water mana, the ways in which it flowed and conformed to its surroundings, but also the ways in which it bubbled up from a source, how it served as part of the medium of exchange in the bodies of anything with blood, and a thousand other quirks of the element. He didn’t have the control needed to constrain it, so the entire element served as a template.
+
+No doubt, that would result in some weird emergent behaviors later, but he was so close he just couldn’t care.
+
+The force and water entwined, creating a chaotic mess that Oliver struggled to get a solid grasp on, but if he’d done it right – and he was familiar enough with this enchantment that he was unlikely to have screwed it up that much – then all he needed to do was to alter some of the regulating enchantment, tweaking a few glyphs in small ways that would dampen the flow of Force mana as it sprung forth from the tablet, keeping it from being at full force in a way that was dependent on distance, rather than time.
+
+Considering he was trying six different permutations of the same idea, surely one would work, right?
+
+Oliver laid down to sleep two days later with mixed emotions. One emotion was that of sore relief, at the ways in which his head was gently cradled in a way that certainly rivaled the comfort of normal pillows, if not outright exceeding them. The other emotion was triumph, that his enchantment had worked, and he’d clawed his way one step closer to proper domination.
+
+He slept well that night.

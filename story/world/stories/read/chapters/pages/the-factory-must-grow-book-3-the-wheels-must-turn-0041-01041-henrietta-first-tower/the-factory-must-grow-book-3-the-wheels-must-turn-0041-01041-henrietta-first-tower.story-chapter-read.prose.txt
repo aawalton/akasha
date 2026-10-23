@@ -1,0 +1,157 @@
+"The problem is, my best guess right now," Oliver explained, "is that for some reason, the ward kind of... ran out of Shadow? But that doesn't really make sense. Nothing obviously has broken, but as you can tell, it's not doing what it's supposed to."
+
+"So you think you might have introduced some kind of elemental storage into the enchantment somewhere?" Henrietta asked, "And so instead of simply blocking out the light, it was storing it to create Shadow. And now it reached capacity, so it's all emptying out at once? Wouldn't it just stop working?"
+
+"I really don't know. That's one of the many problems with that theory. I would expect it to just stop working instead of inverting, but here we are."
+
+Henrietta got the vague impression of Oliver waving his hand at the hut, but the light it was giving off, with the two of them slightly hunched underneath the hut's floor, was bright enough she couldn't see him clearly.
+
+"I've exhausted all of my easy checks and a bunch of my harder ones, I've traced out the actual mana flows, all of the sections of the Shadow ward are still working, but by the time it actually gets to acting..."
+
+"You're at your wits end and am hoping I can help."
+
+"Yeah. I figure at worst you can familiar for me, but I think I'm not misremembering that you were the Artificer for your Expedition? So you'd know this."
+
+"I think this is a bit beyond me, but I can try." It was a bit... embarrassing, if she was being honest, to admit she wasn't going to be that much help with a runic problem. [Master Inkscribe] was a class of Rune, Shadow, and Card, but she'd always been more of an alchemist than any kind of glyph-worker. [Master Inkscribe] wasn't even close to her primary class, but it had a good base stat distribution and ensured she'd never be without the ability to create inklings.
+
+Still, she was trying to be a good leader. And it was important for a leader to be forthright about their capabilities and limitations with their subordinates. She expected them to be clear and honest with her, and she would return the favor.
+
+But, there wasn't anything that could be done about it. She did know runistry, but she was rusty. Even then, it had usually been in the service of something greater, and she usually had [Intuit Runes] or the Encyclopedia Systema to reference. Basic and reliable tools meant to help augment her alchemy, rather than as the end product itself. It certainly didn't help that her chosen form of arcanoception was the least spatially precise. It was absolutely essential for advanced potion-making, but in situations when you weren't trying to pick out the faint presence of specific forms of compound mana in a very magical substance, its weaknesses really showed themselves.
+
+"Okay," Oliver started explaining, pointing to the center of the runic circle. "So the central glyph is xynton, or 'the darkness following the dusk of the last day,' AKA Eternal Night. Now, because this is supposed to be easy, I have that Night only supported by three prime modifiers."
+
+"Do you mean an inner circle?" Henrietta was following along well enough so far, but she didn't want to just assume that prime modifiers were just another word for the convention she was used to.
+
+Oliver paused, and Henrietta realized she couldn't really parse his expression due to the glare from the hut.
+
+"Also, do you want to continue this somewhere that isn't blinding?"
+
+"Technically, an inner circle is different from a prime modifier. An inner circle is its own glyphic construct, and there's a lot more interplay between the individual glyphs. Glyphs in a prime modifier are..." Oliver paused, and as much as Henrietta was normally inclined to let him explain himself, she gently nudged him.
+
+"Do you want to finish explaining somewhere a bit more comfortable to stand or sit?"
+
+"Oh, yeah," he looked back at the underside of the hut, as though reminding himself about the glyphs carved into the reeds there. "We can go. That would be a good idea."
+
+They relocated slightly, getting nearer to the brick foundry. Henrietta found her eyes momentarily drawn to her inkling as it retrieved more clay from the riverbed. Its pot had a crack in it, she noticed. That would need to be replaced soon, but it was still able to fill brick molds so it wasn't an especially high priority. Sleep was far more important.
+
+"So," Oliver restarted, "The entire thing is written in Parengelic."
+
+"Really? That's Technological Magespeech, right? Why not... Umbric, isn't it?" Henrietta immediately was curious, but realized a bit too late she was directing Oliver down a tangent that might not have been important.
+
+"I'm more comfortable with Parengelic," he replied, "I know Umbric, but it's not a form of Magespeech I'm that fluent in. I could have used it, of course, but I've been tending to skew towards Parengelic for most of my runes because it's easier for me to build. Ironically, though something I probably should have expected, the fact that Technology is so absent from everything around here means I don't need to account for any sorts of fluctuation in the base input. Even with all of the development we've been doing, it basically rounds to zero interference. Also, Umbric isn't great for wards. Shadow-primary enchantments use Shadow mana, after all, and having something be so easily suppressed isn't what you look for in something long-lasting."
+
+"But mostly it's the familiarity thing?" she confirmed.
+
+"Yeah. I know how to use Parengelic, inside and out. Or so I thought," he glared at the radiant sleeping hut again, though it quickly turned into a squint. "Anyway, there's so many ongoing issues with... everything, really, that it's better for me to use something I'm more familiar with than something technically better suited for it. It hurts efficiency, but I have been trying to do what you said, in try to get things working before I get them perfect."
+
+"From my perspective, you've been doing quite well at that. Good job, by the way. Not certain if I've said that explicitly, but I've seen you adapting and I'm quite proud of you."
+
+Oliver poorly hid his preening at the praise, but quickly turned back to what he'd been scratching out in the dirt. "Anyway, this was written in Parengelic, so it functions accordingly. Distance to a glyph impacts its influential strength, larger runes can support more power, and mathematical relationships are quite important. So, my prime modifiers of esli, kaujick, and lxyic — rest, wall, and day respectively — have corresponding levels of impact on the Night."
+
+As he spoke, Oliver indicated the corresponding sections on the mockup circle in the dirt, and Henrietta immediately spotted a potential problem.
+
+"Do you think that it might have gotten inverted?" she asked, "If I'm following, you tried to make the Night be a Wall from the Day to allow for Rest. But now, it's acting as a Wall for the Night, keeping it away from the place of Rest with abundant Daylight."
+
+Oliver perked up, "Okay, so I'm not crazy. Yes, basically. I do think that's what happened. But what's driving me absolutely insane is figuring out what caused the inversion. Everything is still working exactly as I want it to, but when the enchantment finally gets passed through the Night, it comes out backwards! And that's why it seems like the glyph just somehow... ran out of Darkness? Because Night is the only glyph that's acting weirdly, as best as I can tell."
+
+"What about Day? What's a more verbose description of its name?"
+
+"Daybright sunshine across a desert. I specifically chose that one over kyxic, which is more along the lines of 'the time from dawn to dusk' because I didn't know whether the associations might get screwy when the Tapestry isn't used to having the light go away at times."
+
+"What if it is?"
+
+"It is used to having the light go away?"
+
+Henrietta nodded.
+
+"It isn't... at least, it's not got much in the way of an impression in the Tapestry that I could spot with some divination. There's very few temporal cycles I've been able to identify, and I think a lot of them have to do with stuff that's just likely to happen periodically, rather than anything periodic. Giant storms, for example. Occasional massive monsters, and the cycle of life and death."
+
+"You did mention that," Henrietta acknowledged. "What about spatially variant? We've been making changes around here, and I know you said that everything we've been doing has been all but entirely irrelevant to the presence of Technology, what about other elements? The inklings were conjured with a Shadow-based skill, is that going to interfere with this, given you specified that your Day is operating under the logic it will never get dark?"
+
+"They shouldn't," Oliver replied with a frown, "The form of Shadow involved in those is more akin to an echo or footsteps than physical darkness."
+
+"Only to an extent," Henrietta clarified, "Normal ink and writing is in a reverberation-level phase, but my inklings are living beings, and artscapes as a whole are fairly Shadow-heavy."
+
+Oliver looked at the hut and shook his head, "It still shouldn't be enough to cause this kind of inversion. But I guess I'll check it out to make sure?"
+
+"If that doesn't work, what about any supporting glyphs that Day is using? Could any of them be thrown off by excess Shadow?"
+
+"Again, it really shouldn't, but those even less so. The amount of patterning in the Tapestry for the endless day is really strong, even a giant blanket of Darkness or Shadow shouldn't change enough to override the natural patterns."
+
+"You're still going to test it, right?" she confirmed, "The word 'should' is one of those words that's all too tempting to use even when you shouldn't."
+
+Oliver grinned slightly at the joke, then his gaze grew distant as he thought about something. Henrietta waited for a minute to see if he would say anything, but before she could make any comments about it, he just stood up and meandered over to the hut while muttering under his breath.
+
+Apparently they were done. Alright then. Henrietta fought down a bit of an urge to scold him for just suddenly ignoring her, because that would be counterproductive and not the sort of thing a good leader would do when their underling was very clearly deep in thought and doing their job well.
+
+Instead, she hung around for a couple more minutes to make sure Oliver wouldn't need her for anything else. After he left the hut area to retrieve a wand from his workshop, she felt confident enough to leave him be. If he wanted her, he could find her.
+
+It did leave Henrietta marginally without a job, though. Jacob was sleeping in one of their 'mud tents,' Clark was cooking, Alyssa was out hunting, and of course Oliver was working on debugging.
+
+Well, that just meant she could spend some time working on the brick-making factory. That particular brand of material alchemy was far closer to what she was comfortable with than warding, so she could probably manage some substantial improvements without a ton of difficulty. Earlier, she'd been focused on making and training the inklings in their roles, but she really had no excuse for why she had never done extensive work on Oliver's portions.
+
+The single largest thing that Henrietta could tell might positively impact their brick yield, she concluded, would be the addition of grog. Why it was called that, she didn't know, just that it was.
+
+Grog, being finely ground fired clay, was at least something they had no shortage of raw material for. All of their truly staggering numbers of failed bricks had just been sitting around, and it needed to stop collecting and start becoming dust.
+
+Were they at a higher level of sophistication, there were all kinds of things that could be done to get even better forms of grog, but just like every other form of alchemy, crude approximations still worked. That was something she liked about the field. Enchantments were all well and good, but if something wasn't set up perfectly, everything tended to fail. Alchemy, meanwhile, was much more continuous. A bad glyph in a runic ward might entirely invert the effect. A bad ingredient within alchemy would just lessen its effect.
+
+For all that she did her best to divert Oliver back onto paths less fixated on all of what they didn't have, it wasn't as though Henrietta herself didn't understand the annoyance.
+
+Regardless, simple bricks only required simple grog, and all she needed to do was come up with some way to break down failed bricks, then mix that into the clay being pulled up from the riverbed.
+
+Henrietta might have had enough space left in her sketchbook to create an inkling dedicated to grinding down bricks, but doing so would require overriding either her wings or her ink-flail, and probably compromise the inklings already working in the factory. She'd had to provide a lot of detail into their intended behavioral patterns, and she was running thin. Her inklings always worked best when they were close to their originals, but at least behavioral modifications generally didn't require special ink to manifest.
+
+A grindstone, then? It certainly would work to grind fired clay into grog, assuming she could make one. But she'd need to create some kind of perpendicular gear-exchange in order to harvest the power of the river. Or, she could just build it out over the current, but that hardly seemed easier.
+
+A grindstone might not even be the best option. They were designed with small kernels in mind, not half-bricks. She'd need something more like a shredder, surely.
+
+Perhaps a millstone turned on its side, so it was more akin to a roller than a grindstone? If she was able to carve some teeth into it, it would be like a large gear, to better grab onto the bricks.
+
+No, then it would leave pebbles rather than dust. Which, she supposed, would be where a grindstone would come into place. This would need to be a multi-step process, and that meant this would be a more involved project than something she could easily pull together on her own.
+
+But, she supposed, it didn't hurt to give it a try, get the basics set up, and only once she'd reached her limits would she fall back to delegating it to her underlings.
+
+Creating the millstones ended up being far easier than Henrietta had expected. The giant spire their camp had been set up next to had lots of rocks that had fallen off over the ages, and all Henrietta had needed to do was to find a couple that were flat on one side and roughly equal sizes, then demarcate a circle on each with her [Refined Calligraphy], add a couple of runes to 'separate' the two sides of the circle magically, and then apply some classic blunt force to break the rocks into shape.
+
+The end result wasn't particularly pretty or precise, but she didn't care that much. She made a pair of holes in the slightly-smaller stone with the same technique, one square hole in the middle for the axle, and a smaller hole slightly off-center to accept crushed-up bricks.
+
+From there, she embedded the bottom millstone in the ground through additional application of brute force — her tendril barely strong enough to make it work — and realized slightly belatedly that she needed to create another hole in the middle of that one to ensure that the top and bottom stayed appropriately aligned.
+
+At that point, she commandeered some help from Jacob to create a drive axle out of wood, rather than reeds to get the additional torsioning strength necessary for the thing to survive a substantial amount of time. She hadn't forgotten the failure of the crane, and wasn't confident in the reeds' ability to withstand that much force over such a long period of time.
+
+As Jacob worked on carving a sturdy and large branch into an appropriate shape, Henrietta worked close to him in order to get his opinion on the mechanical function necessary to get the Grog-mill working.
+
+The final construction was a bit odd-looking, but actually worked, much to Henrietta's delight.
+
+They'd created a second water wheel in the interest of not interfering with the crane, this one with the benefit of knowing all the little things they'd done wrong with the first. It wasn't nearly as far submerged in the river but was a fair bit larger, and its drive shaft was supported by several reed structures, each of which was little more than an 'x' shape that the primary axle could rest within.
+
+That drive shaft connected to a decently-large vertical gear made out of wood. They'd tried utilizing reeds, but hadn't been able to bend it into a full circle. It was possible that their attempts to steam the reeds had been flawed... well, they were definitely flawed, but it was definitely unclear whether the reason for their failure was due to their setup or due to the inherent contradiction of having a reed tough enough for mechanical stress also being flexible enough to bend into a full circle.
+
+Regardless, they'd managed it with a tree trunk, simply by finding a mostly-round tree trunk, trimming it into a full circle, then hollowing out the inside. Initially, they were just going to carve away everything but the 'spokes' of a wheel, but after a small accident wrecked a fairly key spoke, they'd replaced all the spokes with reeds inserted into holes they'd drilled out of the wood.
+
+The drill they'd used had actually been made out of some of their meager supply of copper, but considering how much use it had already been getting, Henrietta deemed it well worth the cost in both materials and Oliver's time. Oliver, for his part, had managed to cut off the blinding glow of the hut, but had yet to actually fix the enchantments on the hut they needed to make it a properly habitable shelter.
+
+On the outside of the wooden wheel, they'd drilled out more holes spaced regularly and fairly close together, then inserted a reed dowel into each one, creating a basic sort of gear. That gear then enmeshed with another similar gear attached to the top of the grindstone's axle.
+
+That second gear, of course, turned the topmost grindstone, which was able to turn small-ish pieces of broken pottery into finely ground grog, which simply ejected itself onto the ground surrounding the millstone.
+
+They'd used a bundle of twigs to brush away all the loose soil from the surrounding area, leaving only hard-packed dirt for the grog to collect on.
+
+In order to actually feed the Grog-mill, Henrietta had needed to edit her inklings to, in addition to harvesting clay from the riverbed and transporting bricks around, to also scoop up grog from the area around the mill, but also to break up failed bricks into small pieces and feed it into the grog-mill.
+
+It cut into each of their efficiency, but it should result in a far higher success rate of created bricks, and thereby improve the overall process.
+
+There had been a few hiccups, to be sure. The brick-moving inkling had kept getting in the way of the clay-harvesting inkling at first, plus it kept interfering with the machinery, so Henrietta had created a ramp-slash funnel out of reeds that extended a ways away from the grindstone which the inkling had been directed to put the pottery shards into instead.
+
+That had the bonus of acting as a hopper and keeping the clay fragments on-track with the grindstone... at least, once they'd created a better containment situation that didn't allow pottery to spill all over the place. Of course, the clay rubble kept jamming in the space between the hopper and the ingress hole for the millstone and thereby breaking the hopper, but Henrietta was confident that it was just an implementation detail and would get fixed after the... fifth or sixth revision.
+
+From now.
+
+It was a work in progress.
+
+She'd already noted several other improvements to make to the mechanism, and had begun to sympathize with Oliver's desire to make everything he needed to absolutely perfectly. However, if she was to be a good leader, she couldn't be a hypocrite, so she reluctantly let it be in exchange for shifting over to her other duties. She did make some time to upgrade their brick-molds, at least. With the kiln now working, they could utilize fired ceramic molds instead of the two-stick method Oliver had devised, which helped with both the consistency of the bricks and slowed the gradual loss of the molds.
+
+It definitely was painful to go from fun mechanical-tinkering to playing peacemaker between Alyssa and Oliver again, but nobody ever said leadership was easy.
+
+At least, no good leader ever said that. And she wasn't about to stop pretending over something so trivial.

@@ -1,0 +1,153 @@
+Oliver did end up deactivating his smelter enchantment, much to Henrietta’s relief. It wasn’t just that it was an enormous column of fire blazing into the sky completely unfiltered, which was already incredibly unsafe. It was also that a completely unshielded column of fire made half the Spire quite uncomfortable to be on from sheer temperature alone.
+
+It had been awesome to witness, of course. Industrial-scale magic was breathtaking, and even though Oliver's enchantment had been on the smaller end of such things, it still scratched the same itch.
+
+Even with the magic now dormant, it left the entire Spire reeking of Fire magic with an undertone of Technology and Arcane, to no particular surprise. There wasn't much visual sign the beacon had been lit, but that didn't really matter.
+
+She wrenched her attention away from the ritual site and back to where Jacob and Oliver were discussing something.
+
+"I suppose?" Oliver mused. "I was loosely thinking that I could just use stone, but it would probably be more reliable to do that."
+
+"Would you require my assistance?" Jacob asked.
+
+Oliver considered... whatever it was for a few moments, then shook his head, "No. Well. Maybe. Trying to use Ice would be an exercise in futility, but using you as a source for Metal might not go amiss... I'll try it without, first."
+
+Henrietta hid a frown as she tried to figure out what exactly they were discussing, and whether it was something she ought to provide contributions for.
+
+"It would also probably make the rest of it easier," Oliver mused, "Especially if I do a structural-stability enchantment rather than a cooling enchantment, the box would still convey heat to the iron inside, and that would help melt all of the sand into an ingot. And with it being metal instead of stone, I could just make small boxes that can be moved around, rather than needing to build everything around a central melting pot."
+
+Ah. They were discussing the mold that they'd be casting the ingots in. It couldn't be made of reeds or wood for incredibly obvious reasons, which left pottery, stone, and metal as the only other options. Pottery was probably too fragile, stone sounded like it would be too bulky, so that just left iron... to hold molten iron in. At least it sounded like Oliver's magic could bridge that gap.
+
+Oliver tapped his fingers in thought, then switched to muttering a spell as he interacted with his System. "Alright, yeah. There's a few different enchantments that I can use... looks like I'll need to make a few extra, none of these will handle constant exposure to heat very well, but that's fine. But how can I get them replaced..."
+
+"Don't worry about that for now," Henrietta cut into Oliver's musing. "Externalities like that can be retrofitted in, or handled via an inkling, or just done by hand as needed. Start with the core function, and build out from there."
+
+Was she being hypocritical? She definitely tried to think about how broad-scale goals would be met and lace them all together in the planning stages. 'Focus on one problem at a time' was contrary to what she was trying to do herself.
+
+No, Henrietta decided. Different projects need to be approached differently.
+
+Henrietta didn't have very much to contribute as the men kept talking. Fortunately, Jacob seemed to be comfortable working with Oliver, keeping their Artificer on-task just as well if not better than Henrietta herself could.
+
+Was... that a bad-leader thing? As a manager, it should be her job to draw the most out of her underlings. Was making someone else do 'her' job a matter of her shirking her duties?
+
+No, I'm being ridiculous again.
+
+The more people that could do a job, the better. Jacob wasn't always free, but he seemed to enjoy having a purely mental and discussion-oriented way to contribute while recovering from hauling a ton of stone back from the Ironworks, and he was probably feeling less stress on account of being the main source of defenses now that they had the ballistae to assist.
+
+After a bit of time, Jacob and Oliver jointly decided to head down to the main area of First Tower, at the base of the Spire. The Universal Refinery was a bit loud for Jacob, and Oliver wanted to be slightly cooler. Henrietta followed along, listening in on their discussions for how best to implement the motion slides as a conveyor belt that could bring the molds into the smelter enchantment flames and out again... while not allowing the iron rails it would slide on to melt.
+
+"What if you were capable of focusing said heat into the iron we seek to smelt?" Jacob asked.
+
+"That... well, I'd need to figure out a different enchantment, but that should be possible in theory? Doing it in solid iron is the real trick."
+
+"Isn't heat just movement on a really small scale?" Clark asked, looking up as he whittled a new chair leg. "Can't you just Force it out of the way?"
+
+Oliver looked conflicted, tongue-tied as he tried to explain the difference, and Henrietta decided to step in with what she thought he was going to say. "Yes, and no. Chemically, heat is just subatomic kinetic energy, but they interact with mana differently. Trying to interact with micro-scale magic... or macro-scale magic for that matter, usually requires different and advanced enchantments which we don't have."
+
+"That, yes. Basically, no, we can't and it doesn't work like that," Oliver probably didn't mean to sound harsh, but Henrietta still winced internally slightly.
+
+"Oh, okay." Clark went back to his knife, and Henrietta moved her chair over closer. The petalfur coiled around his stool perked up slightly as she approached, then settled back into its nap. The critter's fur gleamed thanks to Clark's adoption of the fox-like animal, and it really was remarkable how calm it was around them.
+
+"Do you want to learn more?" she asked. "If you've got questions about how elements work, I know better than Oliver does. You don't need to feel bad about interrupting him."
+
+"I would never dream of interrupting you either!" Clark softly exclaimed.
+
+She shook her head, "I'm just getting some practice in, don't worry about me. So, you curious?"
+
+"Of course," he happily agreed.
+
+"To simplify somewhat," Henrietta tried to not distract the others as they strategized, "elements act on a human scale. Why they do this is one of the biggest open questions in physics, but that's just how it is."
+
+"Why?"
+
+"I just..." Henrietta cut off the instinctual 'I just said we didn't know.' What he was probably looking for was her thoughts on the subject, just a tiny bit deeper inquiry than what he would have otherwise. Also, it was relevant to their discussion. "Personally, I ascribe to a bit of an observer-bias theory. We see the elements that interact on a human scale, because elements which don't interact on a human level, we can't see. Now, there are elements which correspond to things drastically outside of human scale, but they get odd. Most of the time, incredibly tiny objects correspond to elemental Steam and incomprehensibly vast things are elemental Cosmic."
+
+"Oh, is that why [Unfathomable Master] is Water, Cosmic, and Hero? Because of how big the ocean is?"
+
+"Probably. Water and Cosmic definitely could include oceans within their remit. I'm not familiar enough with the class to say for sure, though."
+
+Clark nodded contentedly, which Henrietta counted as a win. Their Healer may have been eternally upbeat, but she didn't want to put his seemingly-unlimited good spirit to the test if she didn't have to. He went back to his whittling project humming a bit of an upbeat tune, and Henrietta returned to her preparatory exercises for earning ⟨Amanuensis⟩.
+
+It was mostly developing the appropriate muscle memory at this point, so she allowed her mind to wander as she did so.
+
+Oliver was getting close to an automated sand-to-ingot conversion factory, and the next step there would be making it capable of accepting iron ore directly. If they could then replace the Universal Refinery, preferably with something that didn't lose half of what they put into it, then they'd have a way to directly turn iron ore into iron ingots, and that... was at least halfway to their current goal.
+
+Many of Jacob's days were taken up with simply walking back and forth from the Ironworks, transporting that iron ore, and he was helping Oliver in his spare time. She really hoped they could find a good way to replace him soon, and she was starting to get somewhat incredulous as to just how few appropriate pack animals there were in the area.
+
+Alyssa had supposedly been all but incapable of finding anything other than the hippophant that lived in the First River, but it also seemed to be largely aquatic and definitely not ideal for long-range hauling of things outside of a river as a result. She'd also yet to find a copper deposit worth harvesting, which was her primary seeking target at the moment, but at least they had a decent lay of the land around First Tower now.
+
+It was jungle, of course. Lots and lots of trees. Soon she might have Alyssa go on a longer-range scouting mission just to find out how far The Jungle stretched, but that didn't have as much immediate utility as copper would.
+
+Clark, meanwhile, was doing a wonderful job keeping everything together. He made food, refined designs for creating charcoal, kept their main living area tidy, and was tidying up the kitchen area such that it was actually becoming pleasant to spend time there. Henrietta also thought that he might be trying to make an actual stone living building, which sounded quite lovely. She'd have to direct Oliver to assist with that the next time the Artificer had a spare moment.
+
+When the smelter was next initiated, everything was substantially... neater. Stone blocks had been carved from the Spire and arranged in a circular wall around the braziers, leaving gaps everywhere that more charcoal would need to be added. The charcoal itself could be refilled quickly and easily by an inkling or simply using a metal chute, though only three had a chute installed at this point.
+
+Two iron rails ran through the smelter enchantment, motion slide enchantments on the top, and an enchantment that referenced both the motion slides and the smelter directly to 'push' all of the heat those rails experienced into the molds filled with iron sand. The molds, of course, were enchanted to focus and magnify the effects of heat and melting into their contents, which would help with the formation of the ingots themselves.
+
+But unfortunately, despite all of that, the smelter wasn't working quite right. The ingots it was producing were crumbly and infirm, as well as not being quite magically suited for forging. And magical attunement was a big deal, especially for anything which Clark might end up maintaining. Cleaning and healing spells referenced their target's 'known existence,' so a block of iron that thought it 'should' be a bunch of grains of iron was 'fixed' into the latter state. Of course, Attunement and its ilk the sort of discipline that could form the basis of an entire career, and none of them were an expert at it.
+
+Clark had exuberantly declared that he could 'teach' his [Unblemish] to function as a skill that could reshape objects instead of simply cleaning them, and...
+
+Well. Oliver had been quite vocal about it not working like that, but Henrietta was less certain. Between her existing knowledge of the System and her discussions with Oliver about the subject, she did think it was probably possible to do with the aid of a subskill. It might well be possible without that, simply based on elemental theory. Water was an element of change, Hero was about being an agent or fulcrum of grand transformations, and Light did have some connections to 'new and shiny' things. It was all but certain that [Prince of Shining Streams] would have some skills able to Attune objects to a new shape, so a subskill for a cleaning skill should likewise be in reach.
+
+Not that it mattered that much. The point of this setup was to create an automated source of refined iron, something which could be parallelized and scaled up arbitrarily as they continued to expand. Inserting Clark into the process was entirely counter to that. But that was an ongoing point of research, with Oliver working to devise something that would work while the rest of them continued on as they were.
+
+"And I think I might have been able to catch a glimpse of more lands on the other side of the water?" Alyssa reported. "But there was a bit of a haze, so it could have just been a mirage."
+
+Henrietta nodded, before wrenching another log off to the side of the Ironroad. "And the Shelter?"
+
+"It's still there, I think. It seems to have been pretty much entirely... eaten by the cliff, though?"
+
+"Eaten?"
+
+The Ranger shrugged, "It's the only way I can describe it. The rock has kept on rising, and the river is running through a tunnel now. I tried going up a little ways, but couldn't manage without any of my torches going out from the water."
+
+"You were safe, though?"
+
+"Obviously," Alyssa flippantly answered, and Henrietta once again weighed whether or not the Ranger's disrespectful attitude was worthy of some kind of scolding or discipline. It hadn't been that much of a problem lately, but it was hard to say how much of that was because of how much time Alyssa was spending away from the rest of them, and how much was because the Ranger was actually improving.
+
+Fortunately, she seemed to realize that Henrietta wanted more than a dismissive one-word answer, "⟨Tumbling⟩ will keep me from breaking my neck, and I can almost use it as a straight-up lifejacket. I can wrap a thin bubble of air around me, which helps with buoyancy."
+
+"Good."
+
+"There are some other tunnels too, but I wasn't able to get too deep in those, and I wasn't confident enough in my ability to get out again to explore too deeply." That was an odd bit of humility for the other woman, but before Henrietta could wonder about it too much, Alyssa explained herself. "There's not much in the way of plant life down there, which both [Rustlewind] and my mana sense rely on for backtracking."
+
+"Understandable," Henrietta drove a mid-sized tree into the soft ground, forming a pylon. Into that pylon, she carved a hole and angled it into a smaller tree, already held parallel to the ground. That smaller tree then got its own combo of hole and branch-in-hole to lock everything in place. About ten feet away, she repeated the process, creating the framework for a bridge across a small stream.
+
+It wasn't anything too sophisticated, but every bridge she put up saved Jacob a ton of hassle, and made the Ironroad that much better for the future. As she started putting the cross-struts in place to turn a structure into a path, she finally responded to Alyssa.
+
+"Very well. See if you can get Oliver to teach you a light-casting spell, or if you can twist your [Ignite] into producing Light rather than Fire. Failing that, I'm certain that Smith can enchant you a flashlight or lantern of some kind, which wouldn't go out underwater. Once you've got that, reroute underground. I want you to look a bit more around Shelter to see if we can't figure out what's going on with all of that, and maybe also take a look at that one cave you mentioned some weeks back."
+
+"Following the above versus below hunch?"
+
+"We're stable enough to start actually investigating the local magic and calamity. So far, we've got trees, day and night, and darkness to investigate. Looking in the bowels of the earth is hardly the worst place we could be looking."
+
+"An underworld seems unlikely," Alyssa pointed out.
+
+"Material Realm worlds frequently look like foam on cosmological scales," Henrietta shrugged, "It's less a question of whether there exists another world beneath our feet, and more a question as to whether it's directly connected to us or if there's a light-year of bedrock separating us."
+
+"And if it's connected to this world in any meaningful way."
+
+"Only one way to find out."
+
+Alyssa nodded reluctantly, "Okay. Do you want me to go now, or..."
+
+Henrietta waved aside the suggestion as she placed more half-logs into place on the bridge with her ink-flails. "No. It's not high priority, so take at least a couple of days to prepare first. Practice your skills some, get a source of magical light, help Haleford with some of his building. Maybe take a peek at what Smith's been working on, try to learn a bit more about fire magic."
+
+Alyssa perked up, and Henrietta realized she should probably clarify that, "But don't bother him. He and Jacob have been busy, so don't drag them away from their work."
+
+"I never bother them," Alyssa mumbled, obviously not actually believing what she said. Henrietta didn't bother belaboring the point and dismissed the Ranger, who bounded down the road like a bouncy ball.
+
+Once Henrietta returned to First Tower, she quickly checked in on Alyssa and Clark, as the two were doing some preparatory work for a stone-block 'living room.' They didn't need any help, so Henrietta next went to check on where Oliver and Jacob were working on...
+
+"It's a drop hammer!" Oliver jubilantly explained as she studied the contraption. "Or at least, it will be."
+
+"This will be a motion slide," Jacob pointed to a straight section, "It shall carry the weight up to the top until it stops against this latch."
+
+"And that latch will be connected to a little dip in the conveyor rails, so whenever a billet is in the right place in the smelter," Oliver mimed striking his palm with his fist, "The hammer will drop, which will be enchanted to Attune what it hits into being a billet of iron. Then it'll slide back to the incline, and be lifted back up, ready for the next one"
+
+"And this will work?"
+
+Oliver shrugged, "I think I've managed to figure out a persistent spell that only requires a single hammer-blow. I might need to reapply it every so often, but it should work."
+
+It was better than what they had before, and she'd learned to trust Oliver when it came to this sort of thing. And when she looked at how far they'd come, it was hard to not be optimistic.

@@ -1,0 +1,161 @@
+Somehow, things were actually working.
+
+Fixing the misaligned Tree had taken only a single try, thanks to the very same Snowbank glyph that had been causing him problems. With a bit of improvisation, Oliver had been able to [Scrollcast] a spell utilizing the Snowbank as an active focus in order to ‘melt’ the clay in the glyph’s immediate proximity while leaving the glyph itself as a fixed point.
+
+The resulting situation was… slightly messy, but Oliver had quickly woven together a spell that created a slight repulsive force between glyphs and applied it to the Snowbank and Tree. However, because only Tree was affected by the softened clay, it had taken just a bit of coaxing to get it drifting far enough away from Snowbank that it stopped modifying the latter and started acting as a modifier for the overall main Spear glyph.
+
+Of course, that just had resulted in the Tree getting too close to the Telescope on the other side and started to modify that instead. Fortunately, the thawed-clay spell hadn’t fully faded yet, so he was able to still adjust the Tree positioning via another repulsion spell added to Telescope.
+
+That worked to push it out of modifying that, but had in concert with the already-extant repulsion nearly pushed the Tree fully out of the inner circle, and to fix that had required another repulsion spell, only for that to push it too close to the central Spear and almost entirely usurp role of the entire inner ring into itself, at least until he’d added another minor glyph interceding and making it count as further out in the ring, but that managed to just push it back into modifying the Snowbank and...
+
+Oliver was really starting to doubt the limits of his mental strength, as he tried to perfectly dial in the repulsion strength of the surrounding glyphs. This should not have required this level of millimeter-level precision, and yet here he was.
+
+If there was a bright side to this whole situation, it was that he'd somehow gotten familiar enough with the feel of that particular section of the enchantment to instantly identify when it was out of alignment. Though that only made it all the more annoying when it would very clearly pulse in place for a split second, and before he could stop the glyph from moving, it just drifted right back out, with him helpless to stop it. The transmutation would wear off at some point, and it took him at least thirty seconds to cast a new glyph-repulsion spell.
+
+A lot of very fiddly adjustments later, Oliver still hadn’t managed to wholly fix the disruption in the enchantment’s flow, but it had done a lot to improve it. The next improvement had come when Oliver found that he had made a mistake in Tree’s neighboring Telescope. Specifically, in Telescope’s own subservient circle, where an inner-ring glyph meant to help focus the ‘power of distant things’ into usable information had accidentally been replaced with one that was more appropriate for piercing the disguises of adversaries.
+
+In the process of fixing that, Oliver had discovered that Telescope’s expected associations weren’t quite the same in this new world, where there was no nighttime. Well, the associations were the same, but they just acted really differently when there wasn't a regular influx of Elemental Shadow sweeping across the landscape, and when Elemental Celestial was all but nonexistent and...
+
+Regardless, he also somewhat belatedly realized he should have been treating it as more based on the glyph’s ‘eyes of an eagle’ translation, because this world didn’t have actual telescopes. It wasn’t the biggest deal, because Parengelic glyphs weren’t human ideas given form, but rather a linguistic model of the natural world’s own proclivities.
+
+Telescope was simply so translated because its glyph pertained to seeing far and seeing well, in ways that closely mirrored human experiences with telescopes upending societal convention and providing informational disparity in conflicts. That didn’t go away just because this world didn’t have experience with telescopes, but just like the lack of nighttime affected its actual interactions with the world, there were certain connotations and patterns within the Tapestry that had been molded by the presence or absence of human activity, and they were absent here. So, treating it as a more biological and nonhuman glyph would probably have been more effective.
+
+He couldn’t fix it now, unfortunately. While it wasn’t a part of the circle that had been cast with copper, too much of the overall foundation would need to be redone if he were to make that structural of an alteration, but if he was lucky it wouldn’t matter too much in this instance? He’d need to keep it in mind for the future though, and possibly retest a lot of more advanced enchantments, because there was a lot more different about this world than a simple over-prevalence of Nature and dearth of Technology in the Tapestry.
+
+So, Oliver just compensated for it as best as he could and moved on. The circle was rough enough overall that practically everything needed some level of fine-tuning, though the degrees to which he could actually fix it up to an optimal state varied.
+
+"Everything going alright there?" Henrietta asked him, and Oliver cracked an eye open to see her standing over him.
+
+"I'm fine," he groaned, "Just letting my brain rest. When everything settled first try, I was kind of hopeful that meant I did everything correct. But really, it just means I hadn't messed up too badly."
+
+"That's life," Henrietta extended him a hand, and Oliver took it after a half-second of deliberation, letting his Commander help him to his feet.
+
+"Did you want something?" he guessed.
+
+"Not exactly," Henrietta responded. "We managed to get the crane fixed, and I wanted to see if you'd made any progress. But it looks like you haven't really?"
+
+"I've made lots of progress!" Oliver protested, "Just because it doesn't involve hauling around heavy bricks like a brute doesn't mean that-"
+
+Henrietta held up a hand to forestall him, "Woah, calm down Smith. I used the wrong word. I didn't mean to imply you'd just been lying here napping the whole time."
+
+"Oh," Oliver dialed back on his upcoming rant, "Well... yeah. I've been trying to get the foundation working properly."
+
+"And I'm sure you've been doing an excellent job. Do you need any help from me?"
+
+Oliver hesitated. "I don't think so?" he eventually settled on, "At least, not magically. My mana's close to drained but I still have some in me, and the rest of it is figuring out if there are any more mistakes in the circle... that I can fix, anyway. I'm not about to go and build a custom tool just to diagnose and fix a single issue, as you commanded."
+
+"Good lad," Henretta nodded, "I also wanted to let you know Haleford is nearly done with some fresh food, we had a really big fish snag itself in our river blocker earlier and it's enough for all of us to eat."
+
+"Ooh. That's going to be nice," Oliver tapped his leg. They'd been eating a lot of droopnose lately, and while it was far better than scalewolf, it hadn't been properly fresh for a couple of days now, and there was only so much samey soup and tough jerky he could realistically choke down before it just became unbearable.
+
+He'd probably head down relatively soon if fresh fish was going to be showing up, even if it was probably just going to be a soup. He didn't really delight in heading down all the ladders, maybe he'd be able to somehow hitch a ride on the crane? Or wait, that had just broken. But wait, it was fixed now, so maybe he could use it, "Actually, what happened with the crane?"
+
+"The catchment at the bottom splintered. Where the waterwheel met the rope spool, and you could either slide it in or out?" Henrietta was also making some vague hand motions, though Oliver couldn't quite parse what she was trying to convey with them. He did know the object in question though, so he nodded.
+
+"Yeah, that," Henrietta continued, "The reed we had there was too thin for the amount of pressure that was going to be on it, and it broke. We put a stronger one in its place, and reinforced it to hopefully prevent a repeat incident."
+
+"Do you need me to reinforce any of it?" Oliver asked, "It's all a bunch of cylinders, so it shouldn't be that hard. Maybe a day or two?"
+
+"The whole thing or just the one reed that broke this time?"
+
+If I were to create it as a larger system, then I could probably do the hard work only one time, and then do more referential enchantments, so it would definitely be faster to do the entire unit as one than it would be to do each piece individually. Though I'd want to make the primary reference not the most important piece. Actually, it should be an Ideal Form, just sitting next to it. I really should start getting a Form Library set up. That's besides the point now, though, and the two-day estimate was made by doubling my reasonable estimate, so if things went well I could probably do the entire thing in just two days, couldn't I?
+
+Henrietta abruptly cut off Oliver's musings, "I think we'll be fine. If it keeps happening, then I'll reevaluate if that's the best way for you to be spending your time."
+
+"But it really wouldn't take that long," Oliver protested. "There's all sorts of time-saving measures I could do to deploy it to the whole thing."
+
+"Don't worry about it, Smith. This is something we can get working on our own."
+
+"Are you sure, though? It really could-"
+
+"Entirely."
+
+"...Alright."
+
+They'd reached the edge of the spire, and Oliver carefully inched towards the edge, where he could grab the rickety reed ladder dropping a good twenty feet to a narrow ledge, where he could then get on the next ladder, and...
+
+I hate this thing.
+
+Henrietta gave him a small salute, then unfurled her ink wings from where they were wrapped around her shoulders and simply hopped off the edge, quickly dropping out of sight.
+
+Oliver sighed, and began the climb down.
+
+Dinner - Oliver was pretty sure it was dinner for him at least, though it might have been breakfast for Clark.
+
+Wait, no. Clark's the cook. He can't be fresh out of bed if he was making food, right? Or am I misremembering when exactly he sleeps? Is it Jacob who gets up at this time? No, it has to be Jacob who got up recently, Clark sleeps just a few hours after I get up.
+
+Whatever. The meal was decent. Oliver was once again reminded as to why people had fought literal wars over access to various kinds of spices, because boiled fish with a bunch of random wild plants that Alyssa had identified as not being poisonous was absolutely not doing much for him.
+
+Though I don't know if I'd literally kill someone for salt about now. That still seems excessive.
+
+It hadn't taken him nearly as long as he'd expected to readjust to having bowls, which was somewhat unfortunate. He'd hoped that getting a private bowl and even a spoon would result in him being grateful for at least a few weeks, but it hadn't been that long yet... had it? How long had it been?
+
+"How long have we been here?" he suddenly blurted out, concerned.Jacob and Alyssa, who had previously been talking to one another on the far side of the cooking pot, paused and looked at him.
+
+"Forty one days," Jacob answered. "Assuming you refer to a single day as a period wherein most of us sleep, which I am assuming is twenty four hours but I'm not certain that it is. I believe all of us have slept a slightly different number of times, but an even forty is the number of times we ought to have slept."
+
+"That seems so..."
+
+Long? Short? Exactly what I'd expect?
+
+"It's not that bad," Henrietta pitched in, "For our conditions, I'd say we're doing quite well. My other Expedition took almost three years to slay the vampire lord we'd been summoned for, and it took another five years to get the surviving kingdoms sufficiently on-board with our goal of getting home that we were even able to get started."
+
+"But once you started, you had all that manpower helping you."
+
+"And hindering us. Never underestimate how much politics can get in the way of things. Now, that's not to say that people aren't helpful, because they are, but don't make the mistake of thinking that more people will be better in every situation."
+
+"Psshhh, I don't think there's any worry that Oliver would think that," Alyssa pitched in, "I think half the time he feels as though five is too many for him."
+
+Oliver narrowed his eyes, "Not true. Anyway, there's only four of you."
+
+"Oh my, how the great Artificer has fallen, he can't even count to five. Look, I've got one finger for each of us. One, two, three, four, five. Five of us."
+
+Oliver's eyes glimmered. "What a coincidence, I've got a finger just for you too!"
+
+Jacob burst out... laughing. That was laughter. Alyssa's reaction was entirely incomprehensible, but was hopefully indicative of her being in on the joke. Henrietta kept herself composed, and she crossed her arms in disapproval. Clark also started laughing, Oliver was pretty sure. It sounded a lot like Jacob, but it was subdued enough it could have been something else.
+
+"Smith."
+
+"Yeah yeah, I'll be nice," Oliver nominally apologized as Henrietta rebuked him, but inside he was still smiling.
+
+Alyssa said something else, but Oliver loudly slurped the last of his soup from its bowl in an attempt to overpower her voice. It worked well enough.
+
+"Anyway!" he declared, before Alyssa could get a chance to follow up with something snarky, "I think I'm going to sleep a bit earlier today. Goodnight, all."
+
+His magical bed awaited.
+
+Though technically the roughshod bricks were coming a bit more slowly than they'd initially planned, as they were trying to give their crane a bit of a break and make sure they didn't overload and break it immediately, they were still coming on average faster than Oliver could lay them.
+
+He was starting to feel a little less happy with how their brick-making factory was working now that he had to deal with the output en masse, but the bricks weren't so uneven as to be impossible. They were just uneven enough to be a pain to build with.
+
+In lieu of true mortar, Oliver was using wet clay to hold the bricks in place, as well as covering the inside and outside of the tower. However, because he didn't trust the bricks to have enough strength to go as high as he wanted it, Oliver was also building out the bottom with five concentric rows of bricks. Over time, that would be reduced to four, then three, two, and finally one, giving the walls a tapered thickness.
+
+Pure architecture wasn't Oliver's specialty, but he knew what he was doing overall. The problem was, as always, the lack of modern materials and building techniques. How much weight could fired clay support? He had no idea! Some of his divinations were telling him that non-alchemical bricks could support something like two hundred thousand kilograms... but he was fairly certain those values were based on were modern bricks, ones made out of specially formulated clay and perfectly baked for constructions that really required the purest Earth-Mana substances you could get. It was unlikely that what he'd made would be capable of supporting even half of that, so he was playing it safe.
+
+He could only hope that he wasn't playing it too safe with his tapered brick-stacking, because this was going to take...
+
+Twenty-ish meters circumference, each brick is a half meter in length, that's forty bricks per ring. Five rings means two hundred bricks per layer, and if it takes me about a minute per brick on average then each layer will take about three hours, call it four because I'll also need to do a basic circle after each layer.
+
+The magic circles on each layer of the tower were going to be a pain, he already knew. In any context other than the one he was currently in, it would be an absurd amount of overbuilding to the point it risked backfiring. But here, where he had essentially no control over anything except the enchantments itself... yeah, he needed them.
+
+He'd also need to enchant the inside and outside surfaces, all to prep the building for the actual workshop and System node at the very top. The Significance he'd need might come about on its own, but even with the increased height he'd still need to coax it into place.
+
+Oh, and if they wanted to use this as a shelter, which they might want to do? He wasn't clear on that. There had been some talk, but they also had their hut... whatever. If it was the plan, then they'd also need extra enchantments to help support that, but at least he wouldn't need to really modify the individual magic circle rings would to support that, thanks to their overlap with the basic enchantments needed for a wizard's tower.
+
+But, he'd estimate that the additional magical work to support the tower would only take an hour per layer. So four hours per layer meant three or four layers per day, and each layer was about ten centimeters tall, plus a bit more for the clay-mortar, then he was looking at a meter every three days on average, and while he didn't know exactly how tall the tower would need to be - that would be mostly determined by environmental conditions interacting with his enchantments in ways he had no way to predict right now - but ten, twenty meters might be sufficient?
+
+And it'll get faster as I do fewer rings and get better at bricklaying, he noted, then soured, but that will probably be offset by the difficulty of working at higher elevations.
+
+He might be able to cheat a bit on the scaffolding by making it inside the tower, come to think of it. Making proto-floors by embedding the reeds inside the wall would be a bit risky, in case he made the whole thing collapse, but long-term it would be useful, because they could use those as anchor points for the eventual floors. It was a bit of a shame they wouldn’t be able to use the exact scaffolding he put up as the final floors too, they were planning on lighting a massive fire inside the tower when he was done to fire the whole thing and strengthen it.
+
+Which I'll have to keep in mind with the enchantments, Oliver mused. That would make it more challenging, because he'd need to make the rings functional enough that he could take the appropriate measurements to make sure the tower would be tall enough, but he'd need to account for the entire tower being fired and thereby undergoing a massive change after he applied his enchantments. That would require accounting for both the potential of broken rings as well as the fundamental change the surviving ones would experience.
+
+Still not the worst, Oliver would have rubbed his chin were it not for the wet clay covering his hands. So instead he scraped off the clay on the brick he'd just placed, then rubbed his chin in thought.
+
+Ech. He really didn't like how a beard felt on him. He tried to pluck a few hairs, to mixed results, but it didn't make enough of a difference.
+
+But if everything worked roughly how he thought it might, then the tower would take, oh, thirty to sixty days?
+
+That was... just as long as they'd already spent on this world, but he'd work twice as long if it meant he'd be getting his System working again.
+
+Now he just needed to hope he didn't run into any major interruptions. And hope hadn't just jinxed himself by thinking that.
