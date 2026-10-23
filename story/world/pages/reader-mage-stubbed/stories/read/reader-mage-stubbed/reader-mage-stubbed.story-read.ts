@@ -1,0 +1,42 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const readerMageStubbed = {
+  id: "01a1663d-3dc8-7035-9209-b7a072008416",
+  type: "page-type/story-read",
+  slug: "reader-mage-stubbed",
+  author: "A Random Turtle",
+  following: false,
+  unit: "unit/words",
+  title: "Reader Mage-Stubbed",
+  world: "world/reader-mage-stubbed",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "129589",
+      externalLink: "https://www.royalroad.com/fiction/129589/reader-mage-stubbed",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Progression",
+    "Male Lead",
+    "Slice of Life",
+    "Drama",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Competing Love Interest",
+    "Dungeon Crawler",
+    "GameLit",
+    "Local Protagonist",
+    "Low Fantasy",
+    "Magic",
+    "Romance Subplot",
+    "School Life",
+    "Tower",
+  ],
+  readLater: true,
+  createdAt: "2026-10-23T00:50:51.976Z",
+  updatedAt: "2026-10-23T00:50:51.976Z",
+} as const satisfies StoryRead
