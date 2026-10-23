@@ -1,0 +1,143 @@
+Overnight, Dizzi helps write up a list of known champions. Some of it can be researched, but newer champions aren’t in the history books. I wish Zyneth were still here—he seemed very knowledgeable on the gods, so I imagine he would have known many of their champions. I’ve tried asking Echo as well, and she’s given me some, but notes [The database may be out of date,] so who knows how reliable any of her information might be—in fact, I suspect some information is being intentionally gated from Travelers. At least we have the names of Lorata’s champions: Zeyaelid, an arachnoid, and Teranu, a dryad. I fear the list is woefully incomplete, however.
+
+Mirzayael and I pour over the names as we sit down for lunch in the dining hall’s head meal circle.
+
+“It seems they all have one to three champions,” she remarks. There are about twenty names on our champion list. Unfortunately, there are forty-one known gods, which means we probably only have a quarter of all the champion names. At least we have all the names of the gods—well, all the known names. Shirasil implied some gods might fly off the radar, like Blair.
+
+I grimace. But this is the best we’ve got at the moment.
+
+“We’ll need to ensure all the councilors learn this list,” I say. “Everyone who knows how to use the throne. Ideally, I’ll be able to identify the unknown champions and gods with a Check, but I can’t be everywhere at once. And if someone finds one of these names on the surveillance spell’s list, they’ll need to manually add them to the Filtered list.”
+
+I’ve already got Echo to copy the list of names captured by the surveillance spell and cross reference them to our growing list of champions and gods. She’ll alert me if an unexpected guest shows up. I’ve expanded the surveillance spell’s range to be larger than that of the city, so we at least may have a head’s up before they make it to the barrier. But I can’t have the fate of the city rest entirely on me. It’s likely I’ll be a primary target, and if I become incapacitated, the others need to be able to protect the city without my help.
+
+Mirzayael sighs through her nose. “It is a good start at least. It’s not a perfect system, but we know there is a way to bar the gods from our kingdom.” Her hard expression softens. “It’s tragic Fyreneth was never able to see its design complete.”
+
+I nod sympathetically. By now, I’ve sorted through and delivered a large pile of spell circle pieces to Broken Tower. Dizzi has helped where she can, but given her night shift she’s mostly left it to Chert and other artificing helpers to sort through the rocks. They’ve fit a couple together like tiny clumps of a ten-thousand piece puzzle, but they suspect most of the broken rocks aren’t related to the watchtower’s spell at all. Not to mention, even the bits they’ve started to fix reinforce Dizzi’s previous assumption: the spell circle was never actually finished in the first place. How would the course of history shifted if Fyreneth had been able to complete and activate her city’s defenses before Lorata attacked?
+
+I suppose it does no good thinking about such things now. All we can do is look to the future and try to ensure her work was not done in vain.
+
+I’ve hardly touched my breakfast when a jubilant voice calls across the hall, and I startle out of my thoughts.
+
+“Fyre!” Kanin waves at me, hurrying over. “I’ve got someone I’d like you to meet!”
+
+I perk up. A new Traveler, perhaps? Alongside Kanin and Aquenno, there’s a new person I don’t recognize. An elf with warm brown skin and white hair.
+
+However, when I Check the woman with him, she doesn’t appear to be connected to the System.
+
+[Name: Noli]
+
+[Species: Elf]
+
+[Class: Woodland Ranger]
+
+[Level: 33]
+
+[HP: 125/125]
+
+[Mana: 100/100]
+
+“This is Noli,” Kanin unnecessarily says. He signs the words at the same time. “She’s my friend.”
+
+Noli… the name is familiar. Ah, yes. I believe she was the other soul who had been separated from her body when Kanin first fell into this world. The two of them went on an adventure together, and Kanin eventually was able to help reunite her soul to her body—a goal he was never able to achieve for himself.
+
+I hold out my hands to clasp Noli’s as she sits down in the circle with the rest of us. “So you’re the one I’ve heard so much about! Kanin thinks highly of you.”
+
+At my words, Noli glances toward Kanin. He begins to sign again, this time repeating my words.
+
+Oh. “Oh!” Since she wasn’t a lamia, it didn’t occur to me that the signing was for her benefit. I hurriedly start to pat down my pockets. “Wait—I have a—one moment. Now where did I put…”
+
+I feel Mirzayael’s mirth in my mind. She retrieves an emerald green translation stone from one of her bags. “You had me hold onto it because your pockets were too small, remember?”
+
+“Thank you, dear.” I guiltily accept the amulet, slipping its chain over my head. “What would I do without you?”
+
+“Carry your own bag, probably,” Mirzayael teases.
+
+I press a bit of mana into the relic, and the stone begins to glow. “Is this working? I saw one in use and I just had to—Oh! Amazing.”
+
+Green light spills out of the stone, projecting a pair of ghostly hands into the air in front of me, which begin signing my words.
+
+Noli’s eyes light up. “It does indeed work,” she signs. Then she turns to Kanin. “Oh, but, now she can’t understand me.”
+
+I shake my head when she looks back, tapping my temple. “I’ve got a translator of my own up here, so I can understand you just fine.”
+
+“Fyre’s also a Traveler,” Kanin explains to his friend.
+
+“So many!” Noli excitedly shakes his knee. “I’m so happy you’ve been able to meet some.”
+
+I can’t help but smile at Noli’s enthusiasm. She’s such an amusing contrast to Kanin’s dry sarcasm. I’m glad he had someone like her around to accompany him through the hardest portion of his journey.
+
+“And you helped facilitate this meeting, didn’t you?” Noli asks, turning to Aquenno.
+
+The nereid seems caught off guard to have been included in the conversation. “Yes, I suppose,” Aquenno replies with signs. Mirzayael is the only one present who doesn’t understand Common Signs—or lacks a mental interpreter named Echo—but she’s able to borrow an understanding of the conversation from my mind.
+
+“Lord Blair had me track Kanin down to deliver the time and date of the arranged meeting.” Aquenno huffs. “I found him at a Gods’ Tournament if you can believe it. Ridiculously rash.”
+
+Noli laughs. “Yes he does tend to make, ah, bold decisions, doesn’t he?”
+
+“Hey,” Kanin half-heartedly objects. “I’m right here.”
+
+Noli gives a helpless shrug, and Aqunno grunts in a way that might be mistaken for a laugh. It’s impressive how she’s managed to integrate herself into this group with only a handful of words. One of those people that’s hard not to like, I imagine.
+
+Mirzayael and I tuck away our notes on the gods and champions for now, and I simply relax into the comfort of friendly conversation. Noli informs me Kanin already gave her a brief tour of the Fortress, and she had the pleasure of meeting Ollie, which I’m somewhat sad to have missed. Ollie loves it when new visitors take interest in him. Noli draws Aquenno into the conversation, and I’m surprised to find him and Kanin engaging in friendly banter; I guess the two have finally started to warm up to each other in the weeks they’ve spent together. Noli’s sunny disposition and the casual chatter makes it easy to forget about the looming threat of the gods for a time.
+
+And then I’m rather rudely reminded when a notification pings in my Interface.
+
+It’s from the Contact List. I mentally open up the message, and the warmth of the present conversation bleeds away.
+
+[L: Six days.]
+
+Kanin has also paused, and his head swivels my way. Seems like he got the same message.
+
+“What is it?” Mirzayael asks, noticing the dip in my mood.
+
+“Shirasil,” I tell her. “He’s picked a date for when he’ll be opening a portal for Kanin. Six days from now. Which means Kanin will want to make his move before then.”
+
+Mirzayael takes this news in stride. In fact, I think I detect an undertone of anticipation. “I see.”
+
+I give her a curious look. “You’re looking forward to this? Even knowing it will almost certainly draw the attention of the gods?”
+
+“It was going to happen eventually, one way or another,” Mirzayael says. “At least this way, we get to decide when and how it happens. We can prepare for it.”
+
+“I’m not sure what more we can do,” I admit.
+
+“Well I have plenty of ideas.” Mirzayael quirks a subtle smile at me. “You think I’d stop being paranoid and making contingency plans just because you showed up?”
+
+I mentally chuckle. “That would be rather out of character for you.” Though I’m curious as to why she hasn’t brought up these contingency plans of hers before now. I should have known she had something in her back pocket when she allowed Kanin to continue planning his heist. “What do you have in mind?”
+
+Mirzayael gives me a sly smile.
+
+“Woah,” Kanin remarks, gesturing at Mirzayael. “You’re smiling. You almost never smile. What are you planning?”
+
+Her attention shifts to him, and her lips peel back, revealing her teeth in an unsettling grin. “Violence.”
+
+He really should have seen that one coming.
+
+“What?!” I exclaim, craning my head in Mirzayael’s direction.
+
+Yequariel tutts. “Please hold still, Lord Fyre.”
+
+I bite my tongue, keeping my arms out as the tailor confirms my measurements.
+
+Mirzayael, who is also standing nearby and being attended to by several of Yequariel’s apprentices, doesn’t react. “Is it such a big deal? You personally know all involved.”
+
+“Of course it’s a big deal,” I object, worrying my cheek. “Psionic Links are just so… intimate.”
+
+Mirzayael still doesn’t seem to understand my objection. “Is it any of the individuals? We’re both friends with Dizzi and Nek, but our relationship with Torim is more formal.”
+
+“It’s not that,” I object. “They’re all wonderful people. It’s just…” I don’t even know how to articulate it. It’s clear there’s something lost between our cultures here that Mirzayael doesn’t see anything odd about her request. “Are you sure you’d be okay sharing a mind with those three for the rest of your life?”
+
+“Of course,” she easily replies. “I already share a mind with you, Ollie, and the Dungeon Core. It has been an adjustment, to be sure, but not a bad one. And the benefits have made themselves apparent many times over. If we’re to prepare for a siege, then we need to use every advantage at our disposal.”
+
+I understand where she’s coming from—I really do. Ensuring that all of the city’s leaders can instantaneously communicate with each other would be an incredible asset. It would let me look through their eyes and hear through their ears, and effectively be there, with them, using the Dungeon Core to protect anyone who might need protecting. It will help us find champions or gods and get them added to the Filter more quickly.
+
+But Psionic Link is permanent. Dizzi, Nek, and Torim, would be tied to our minds for the rest of our lives. Is that fair to them? I’m certain all three would readily agree to it—Dizzi out of curiosity, and the men out of a sense of duty. But once the clash with the gods is over, they’ll live with this connection the rest of their lives.
+
+“You can always shut the connection off,” Mirzayael says. “Put up mental walls to prevent too much from bleeding through.”
+
+“Clearly I can’t,” I half-heartedly tease. Though I’ve all but stopped trying to keep any of my thoughts from Mirzayael. Still…
+
+“At least let me think about it,” I reply as Yequariel spins me around to fix more fabric around my center. “This isn’t a decision to be made lightly.”
+
+“Of course,” Mirzayael agrees. “Though try not to take too long. We only have a few days left.”
+
+She doesn’t need to remind me. The clock has been ticking in my head since Shirasil sent that message.

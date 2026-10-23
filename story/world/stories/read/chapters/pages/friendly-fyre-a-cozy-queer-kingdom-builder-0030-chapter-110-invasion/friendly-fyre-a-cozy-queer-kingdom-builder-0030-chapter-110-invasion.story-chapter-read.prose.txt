@@ -1,0 +1,227 @@
+The memory of skeletons in a cave flashes through my mind. The breastplate with Lorata’s Eye on it. Her dead champions, buried with what had almost certainly been the body of Fyreneth, before magic coopted her remains to give me a new life.
+
+And here we are, a thousand years later, about to face off once more. I desperately hope history is not about to repeat itself.
+
+“Careful,” I tell Mirzayael, but she’s already heard my thoughts, and her mind flares with eager fury.
+
+“I have waited for this moment my entire life,” she replies.
+
+The words chill me. “He’s old. He’s bound to be much stronger than us. Stronger than anyone we’ve faced.” Save perhaps Blair and Shirasil.
+
+Of course, Mirzayael already knows this. She’s not delusional about the power of Lorata’s champions. But she’s nothing if not determined, and the fierce protectiveness she now feels for our home and people outshines the strength of any emotion I’ve ever felt from her. She’ll die for this city.
+
+Exactly what I’m afraid of.
+
+“We don’t have to fight,” I remind her, still blasting through the hallways. The throne room is just ahead. “This is why we fixed the watchtowers.”
+
+“Of course,” Mirzayael agrees. But she says nothing more.
+
+I reach out to Ollie next, sensing that he’s not yet asleep. “Ollie? Are you out flying?”
+
+“HEY, FYRE!” he happily greets me. “NO, I’M IN MY LAIR. NOLI IS TEACHING ME SIGN LANGUAGE! WELL, A COUPLE WORDS. IT’S HARD WITH DRAGON CLAWS.”
+
+“Good,” I think, trying to keep my thoughts steady and unalarmed. It sounds like his Role Requirement hasn’t triggered, either, which is a good sign. “Stay there.”
+
+“WHY?” he asks, a hint of suspicion creeping into his mind. “WHAT’S GOING ON?”
+
+“Just an unexpected visitor,” I reply. “Just stay with Noli. I’ll tell you more later.”
+
+“OKAY,” he says, sounding very suspicious now. I guess I didn’t do as good of a job hiding my concern as I would have liked. But as we reach the archway leading into the throne room, I have more immediate problems to worry about.
+
+Mirzayael bursts into the room just ahead of me, slamming the butt of her spear onto the floor with a sharp metallic ring. If her abrupt entrance hadn’t gotten the champion’s attention, that certainly did.
+
+“Outsiders,” she calls, her voice full of steely conviction. “You are trespassing in my Fortress.”
+
+Outsiders. Plural?
+
+I finally catch up, skidding to a halt behind Mirzayael and flaring my wings to slow down and remain upright. Two people in the room turn to face us with cool looks.
+
+The first is a dhampyr, which I’d noticed on the Core’s Map. The second is a dryad, who hadn’t shown up on the Map, but even as I lay eyes on him, I’m certain he’s Teranu, Lorata’s champion.
+
+The dhampyr is dressed in dark clothes, though the golden eye motif that adorns his attire does not escape me. The dryad, meanwhile, is dressed in striking green and gold robes, and I’m surprised to find he’s not wearing the eye emblems of Lorata. Who are these people? Did I horribly misjudge this situation?
+
+I Check them both.
+
+[Name: Mura Tal]
+
+[Title: Champion]
+
+[Species: Dhampyr]
+
+[Class: Umbral Stalker]
+
+[Level: 45]
+
+[HP: 250/250]
+
+[Mana: 2100/2100]
+
+[Allegiance: Lorata]
+
+He’s another champion, as I feared. Low level, like Aquenno. Did Lorata take a new one amidst the Gods Tournaments?
+
+I’m barely given a second to digest this before Teranu’s stats demand my full attention.
+
+[Name: Teranu]
+
+[Title: God]
+
+[Class: Fate Weaver]
+
+[Level: 100]
+
+[Mana: 9710/10,000]
+
+[HP: 10,000/10,000]
+
+[Role: The Faithful Bulwark]
+
+Teranu is a god? But his name—did I mix something up? I don’t understand.
+
+I’m too confused to remember to be scared. At least, not until Mura Tal speaks.
+
+“Your fortress?” he says, repeating Mirzayael’s words. “You must be the queen, then.”
+
+[Your stats have been identified.]
+
+“No,” Teranu says, his gaze locking on me. “It’s the harpy.”
+
+The god and champion are standing between us and the throne. Do they know the Dungeon Core is hidden within? Are they here for it, or me?
+
+The Dungeon Core’s presence hovers over me; it’s also focused on Teranu. On the grain of familiarity buried in his chest. Can it eat it? It wants to eat it.
+
+Not yet, I think. Though I’m not above letting it try as a last resort.
+
+“We are both queens of this Fortress,” Mirzayael replies, lowering her spear so I’m behind it. “What business do you have with us?”
+
+“Mirzayael,” I mentally caution. But she knows what we’re dealing with—I’m sharing everything I learn about the two with her.
+
+“The harpy is a Traveler,” Teranu tells the dhampyr. “I wouldn’t be surprised if she’s the one wielding the remnant as well. I can sense it’s around here somewhere. Close, I think.”
+
+He doesn’t know it’s in the throne. Shirasil had honed right in on it the first time he entered this room. That’s something, at any rate.
+
+“I do not appreciate being ignored,” Mirzayael snaps, drawing the attention of the god and champion. “Nor do I appreciate trespassers. You will leave our city at once.”
+
+Mura Tal sneers. “You have no idea who you’re talking to, do you?”
+
+Mirzayael points her spear at him. “You are Lorata’s champion.” She moves it to point at Teranu next. “And you are a god. And neither of you are welcome.”
+
+The dhampyr’s brows shoot up in surprise—his reaction would be amusing if the room wasn’t all so tense. Teranu continues to regard both of us, eerily quiet.
+
+“Then—then if you know who we are, you should know it’s unwise to speak to us this way,” Mura Tal says, recovering.
+
+Mirzayael’s expression doesn’t change, but I can feel a vindictive amusement in her mind. “This one I could take.”
+
+“But you can’t take on a god,” I remind her.
+
+“No,” she agrees. “We have the Watchtowers for that.”
+
+“I don’t suppose this could be resolved peacefully?” I ask aloud. I’m not hopeful, but it doesn’t hurt to try. It also buys me a few moments to reach into the Dungeon Core’s interface and start readying the Fortress’s defense systems. And since our two guests have now been logged by the Survailance spell, I add Mura Tal and Teranu to the barrier’s Keep-Out list while I’m at it.
+
+“That depends,” Teranu says. “Will you peacefully come with us?”
+
+Mirzayael’s temper flares. “She’s not going anywhere.”
+
+“I see,” Teranu says, passive. “There you have it, then.” He turns to Mura Tal. “I’ll be taking my leave to report to Lorata. It would be safer for you to retrieve the remnant. Do you have any refiners on hand?”
+
+“One,” the champion replies.
+
+Teranu holds out a hand, and Mura Tal accepts what appear to be a couple small, black marbles. Refiner. Where have I heard that before? I think Kanin and Shirasil were discussing it at one point—used to trap remnants. That’s not a good sign.
+
+Teranu glances back at me with a bored look. “Can you handle things here? Or should I send for Zeyaelid?”
+
+“That won’t be necessary,” Mura Tal snaps.
+
+Zeyaelid. Lorata’s other champion—or at least, I assume so, but I appear to have been wrong about Teranu. Did Echo give me faulty information?
+
+Regardless of the dhampyr’s declaration, it seems prudent to me to secure the Fortress before any new friends show up.
+
+Ollie’s presence resurfaces in my mind. “FYRE?”
+
+“Is your Role activating?” I ask as Mura Tal begins to stride toward us.
+
+“YES.” Fear tinges his mind. “ARE YOU OKAY?”
+
+I squeeze a hand into a fist. Threatening me is one thing, but now their presence here is hurting my boy. I think I’ve granted them more than enough grace at this point.
+
+Besides. I’ve always been curious if the Dungeon Core could actually eat a god.
+
+“Don’t worry,” I tell Ollie, reinforcing my words with confidence and reassurance. “The threat will be neutralized soon.”
+
+Okay, Core, I think, turning my attention to the Dungeon Core. It perks up. You’ve been very patient for me. That snack you’ve been wanting to eat inside this god? Go for it.
+
+The Dungeon Core can’t eat things that are alive. I’m not sure it will be able to eat whatever’s inside the gods, either. But the fact that it can detect something in them tells me that whatever this foreign body is, it isn’t bound to the same rules as living matter.
+
+The Core gleefully accepts my request, its presence immediately bearing down on Teranu and reaching for the treat buried within him. The god flinches, visibly startled, and glances quickly around the room. Mura Tal doesn’t appear to notice, continuing to stalk toward Mirzayael and I.
+
+“Do it,” Mir says.
+
+Mura Tal takes this as an invitation, and he grins, sprinting toward us. But the command wasn’t for him: I activate the Greater Barrier spell.
+
+Teranu whirls on the throne as it lights up with fiery orange magic. He manages one step in its direction before the Dungeon Core punches a stalagmite of stone into his chest.
+
+It doesn’t puncture the skin, but it does slam him back into a wall, cracking the stone. Mura Tal glances toward the noise, and that’s when Mirzayael strikes.
+
+She’s a blur of movement, and Mura Tal barely summons a sword of light to block her spear before it lands true.
+
+The Dungeon Core keeps up its onslaught on the god, gleefully stabbing stone toward his chest in an effort to get at the snack that resides within. Teranu has recovered from the initial surprise, blocking the rock spikes with his bare hands which shatter the stone.
+
+Meanwhile, my mind is running a mile a minute, ensuring all the spells are interfaced and activating properly. In addition to the Greater Barrier spell and Detection spell, Dizzi and Mirzayael designed a warning system to deploy dozens of Mirzayael’s silk spiders. I activate this network as well, sending the messengers out to skitter through the streets and warn everyone to seek shelter: this is not a drill.
+
+“Mir, outside!” I call, already circling toward the closest balcony. She wordlessly complies, beginning to circle around the room as she spars with the dhampyr.
+
+And she’s holding her own, too. Those sparring matches with Kanin and Ink must be paying off. Mura Tal is level 45 while Mirzayael is ten levels lower, but she’s managing to block every attack he throws her way. Though, I notice, she’s not given the opportunity to return any counterattacks of her own.
+
+The Dungeon Core is certainly keeping Teranu busy, but its spikes of stone are ineffective. With a disappointed sigh, it finally decides to stop playing with its food.
+
+The floor and ceiling abruptly slam together, and the god vanishes. The Core gleefully burrows forward—then pauses in confusion. It draws the mangled remains of the floor and ceiling apart to reveal nothing but cracked rock and broken tiles.
+
+I can’t sense the god anymore, either. He must have retreated somewhere outside the Core’s range for now. And from his last words, he was planning to report to Lorata.
+
+I take a steadying breath as the weight of the moment finally catches up with me. So this is really happening. The conflict we’ve all been planning for. It wasn’t Kanin’s planned jailbreak that ended up revealing us, afterall.
+
+My heart skips a beat. Kanin! He’s still out there, somewhere in the Drifting Isles, working on his spell circle. Which means Dizzi is out there, too.
+
+Outside, the night sky turns red as the barrier begins to encircle the city. I hurry out onto the balcony, turning the Dungeon Core’s attention to Mura Tal now that Teranu is gone. The Core pouts, having missed out on its snack, but reaches out to slam the ceiling and floor together once more.
+
+Wait! I cry, stopping it. Mura Tal and Mirzayael are locked in close combat—I don’t trust the Core not to hurt Mir as well.
+
+The Dungeon Core exudes irritation. I keep telling it so many different things! It is confusing. And it never got its snack!
+
+I know, I think, frowning in worry as I watch the two dance. Could I help, or would I only get in the way? I could wait for an opening—
+
+Mirzayael lets out a cry as the champion’s sword bites into her side.
+
+“Mir!” Flames erupt from my hands as I blast toward the fight. At the same time, the Dungeon Core reacts to my thoughts as fast as I can think them. It manifests a boulder behind the champion from its Inventory, and as Mirzayael collapses to the ground, Mura Tal pausing to stand over her, we plow the stone into the champion’s back.
+
+The rock slams into the dhampyr like a bowling ball, throwing him out of the palace. The champion pinwheels through the air for several spins before hovering to a stop, holding a hand to his chest with a snarl.
+
+“You will pay for this,” he says, staggering upright. “Lorata’s will cannot be de—”
+
+The barrier finishes forming over the city, sealing shut with a pulse of magic. The wave of power rushes past me, ruffling my clothes, but when it meets Mura Tal, it’s anything but intangible. The magic crashes into him like a wave, and in the blink of an eye he’s gone, ejected from the force field and out into the night.
+
+I’m given a fraction of a second to feel relieved that our attack was angled correctly. We only barely got him clear of the palace, so no structures were between him and the barrier when it finished activating.
+
+The relief is short lived.
+
+“Mirzayael!” I cut my fires, dropping to her side as panic flutters within me. “Are you—”
+
+“I’m fine,” she insists, a hand pressed to her side. Black ichor sticks to her fingers when she checks the wound. “The armor blocked most of it. Nothing a healer can’t fix.”
+
+I suspect she’s downplaying the amount of pain she’s in—she’s certainly holding it back from me mentally—but I keep a careful watch on her HP stat. It’s missing a few points, but far less than I feared. The numbers hold stable enough to convince me that she’s telling the truth and the wound isn’t life threatening. I let out a breath, my heart still hammering from the adrenaline.
+
+“I’ll call for Opal,” I tell her, mind racing. “We need to gather the councilors and—oh god, Dizzi!” I glance back to where the champion vanished, but I can no longer see him. “We have to warn her about the champion!”
+
+This is my fault. Why didn’t I agree to Mirzayael’s request sooner? If we’d formed a Psionic Link, I could reach her in an instant—
+
+Mirzayael puts a hand on my shoulder. “Calm down. We’ve prepared for this. We’ll figure something out.”
+
+The weight of Mirzayael’s hand is grounding. I take in a shaky breath and let it out. Don’t panic, Fyre. Keep a clear head. You have options.
+
+Options, options…
+
+I snap my fingers as I realize I do have a way to instantly communicate with Dizzi. Well, indirectly.
+
+I quickly open the Chat interface and find Kanin’s name. Most urgent info first:
+
+Hide! I tell him.

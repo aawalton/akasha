@@ -1,0 +1,263 @@
+I land on the windowsill of the Broken Tower’s top floor, summoning a Spark to light the dark room. Parts of the floor are carved with ancient spell lines, and there are charcoal and chalk markings on the blank, flat portions. The room looks much cleaner than I had expected; in fact, as I look closer, I can see where new swaths of stone have been installed—including much of the ceiling and wall. I carefully step down into the room, testing the floor, but it seems sturdy and reinforced.
+
+The charcoal markings are filling in the missing portions of the spell circle, whereas the chalk are notes and speculation about certain marks or runes. Even with Dizzi filling in the gaps, the circle isn’t complete. Probably less than a third of the original circle is left.
+
+Check, I think.
+
+[An incomplete spell circle,] Echo supplies.
+
+I snort. Very helpful. I take out Dizzi’s telestone and channel my magic into it, the markings on the rock lighting up orange. “Dizzi, can you hear this?”
+
+While I wait for a response, I tiptoe around the room, careful not to disrupt any of the markings on the floor. Dizzi said she thought its purpose was to make some sort of field. There must be more we can puzzle out together.
+
+The telestone blinks, and then Dizzi’s voice comes through. “Fyre! You’re using my rocky-talky! Yay!”
+
+I smile to myself. “Can you meet me up at Broken Tower? Urgently.”
+
+“Yes! Absolutely. I’m literally dropping everything right this second.”
+
+The sound of something metal clanging on the floor resounds through the telestone.
+
+“Oops. That’s probably fine. Be there in a jiff!”
+
+I tuck the telestone away and crouch down by the spell circle, my wings spreading slightly to keep my balance. I run the Spark around a section of the circle, Checking whatever undamaged Runes Echo can decipher. Many are linkage runes, used to designate the relationship between different runes, but some are basic runes I can read without Echo’s help. Pul refers to an area. Zet is used for reversing something…
+
+I’ve barely started to study them before the flap of harpy wings reaches me, and a gust of wind blows through the open window.
+
+“Sorry!” Dizzi cries, hopping across the room as she slows down and tries not to mess up any of the markings on the floor. “I’m not late, am I? I came as fast as I could!”
+
+“Thirty seconds?” I look up at her with a raised eyebrow. “Entirely unacceptable.”
+
+Dizzi giggles, crouching down at my side. “So what are we looking at, chief?”
+
+“Tell me again what you know about the circle,” I say. “But also point out any runes you don’t know. I want an explanation for every part of the spell you drew in, and why you think those markings or runes are correct. Additionally, tell me what the blank spots represent, why you’ve left them blank, and what we need to learn to fill in what is supposed to go there.”
+
+“Oh, is that all?” Dizzi teases. But she turns a serious look onto the spell circle and starts walking me through it.
+
+She taps a handful of runes near the outside of the circle, both carved in stone, and ones she’s drawn into the blank portions of stone.
+
+“We’ve seen this on the other watchtower spell circles, so we’re pretty confident the same markings go here. They’re defining the dimensions of the Fortress, which is to say, the area that the spell applies to.” She points across the spell circle, tracing a hexagram prescribed within the outer circle. “Same for these lines. These arcs, over here, we were able to extrapolate from bits of the original spell circle. I’m ninety-eight percent sure those ones are correct, but it does use more guesswork than those runes.”
+
+Dizzi goes on to point out and explain more of the portions of the circle she’s already filled in. I Check each of these runes as she explains, and from my knowledge of spell theory—which is far inferior to hers—it all checks out.
+
+“So as I said before, we know this spell enacts a field throughout the Fortress,” she continues. “The Greater Barrier spell only creates a shell around the area of the Fortress; the Weapons system creates a beam of energy that targets a specific individual. Meanwhile, this spell uses similar runes for the surveillance spell, which is why we know this one also creates a field, or at least, applies to everything within the area of the Fortress.”
+
+“What about this rune?” I ask, going back to Zet.
+
+“That’s an interesting one,” Dizzi says. “It’s usually used to invert the intention of something. So if you made a barrier spell to keep things out, adding Zet into the design would keep things in. But in this case, from what we can see of the nearby runes that haven’t been destroyed, Zet isn’t targeting the intent of the spell, but is rather targeting whatever goes here.” She points to a blank area. “And this spot isn’t blank because we replaced a missing section of rock. It’s blank because it’s the original rock, but whatever was supposed to go here, Fyreneth never added it.”
+
+I hum to myself. “What is the spell doing with whatever comes out of Zet and the missing piece?”
+
+“We don’t know for sure,” Dizzi admits. “But based on what we’ve got, I think it was designed to create a field of this Zetted target.”
+
+“An anti-field,” I muse.
+
+Dizzi tips her head. “Yeah, that’s a good way to think about it. But anti what? Gods?”
+
+“Maybe,” I consider. “But we already have spells that keep out the gods. Was this just for redundancy? Or was there something else she was trying to block or counter?”
+
+My instincts tell me redundancy isn’t the answer. Shirasil pointed me back toward this spell for a reason. It must be important. What was Fyreneth onto?
+
+Dizzi sighs. “Shame she ran out of time before she could finish it.”
+
+“Or she didn’t know how,” I muse.
+
+Dizzi taps a claw against the stone in thought. “Why wouldn’t you know how to finish your own spell circle design?”
+
+I’d made the remark offhandedly, just to pose another explanation for why something might be incomplete. But Dizzi’s question sparks a memory from another life.
+
+One thing we had to take into consideration with the airplanes I helped design was the potential for radio communications to be jammed. This is typically done by emitting a signal on the same wavelength as the incoming communication to effectively cancel the signal out. But in order to do that, you needed to know what frequency the signal was on.
+
+“The wavelength,” I say, realization dawning on me. “She didn’t know what wavelength to target.”
+
+Dizzi tilts her head like a bird. “Wavelength?”
+
+“Not literally,” I clarify, turning back to the circle. “But it’s the same idea. Fyre was trying to cancel out an incoming signal. Equal but opposite. Only, she didn’t know the exact shape of the thing she needed to cancel. That’s what she was missing.”
+
+“But what was she trying to cancel?” Dizzi asks.
+
+I look up at her. “If I had to guess? The System.”
+
+Dizzi stares at me for a moment before her eyes go as wide as her goggles. “But that would—oh. Oh! Fyre that would be amazing!” Just as suddenly, her excitement turns into a concentrated frown. “But that doesn’t help us if we don’t know the spell circuit that interfaces with the System, either. And there’s no way that spell network would be small enough to fit in Fyreneth’s circle, anyway.”
+
+“Perhaps,” I agree. “But I don’t think we need the complete spell network. We just need the portion that broadcasts the magic. The spell’s wavelength, as it were.”
+
+Dizzi snaps her fingers, shaking a claw at me with a grin. “That’s genius! But unless Echo’s willing to tell you what that is…”
+
+I shake my head. “Echo won’t provide spell circle designs: she’ll only identify the function of spell circles I can already see. However, I believe there is a way to find the designs for the spell that Fyreneth was missing. I just need to confirm my theory, first.”
+
+Dizzi ruffles her feathers in excitement. “How?”
+
+I open the Contact interface and send a message to Kanin.
+
+[Fyre: I need a favor.]
+
+Since Kanin never got a chance to look over Ollie’s armor collection, I invite him to meet me in the boy’s room while we talk. The least I can do is make good on my earlier promise when I’m about to ask something far greater of him.
+
+I also send a message to Sandro while I’m at it. If my theory is correct, then he will have a role to play in this, too.
+
+Ollie is more than happy for the company. Sandro shows up in the midst of me explaining to Ollie what Kanin is looking for, and the elf looks significantly less excited to be there.
+
+“Is everything okay?” Sandro asks, his cloak rippling nervously as Ollie bounds off to tidy up his collection of armor. “You didn’t explain what you needed.”
+
+“That’s because I need to confirm a couple things with Kanin, first,” I explain. Sandro hardly looks mollified. “Have you had much of a chance to chat with Kanin?”
+
+Sandro shrugs. “We’ve spoken a couple times. Mostly the Shroud tries to keep its distance.”
+
+I smile gently. “You shouldn’t let the Shroud dictate what you do.”
+
+“I know.” He lowers his gaze, embarrassed. “Sometimes it’s just easier. And…”
+
+“...And?” I prompt when he doesn’t finish the thought.
+
+Sandro rubs the back of his neck. “I know it’s not his fault. But his form—that shadow of his—it’s kind of unsettling. Sorry.”
+
+I do understand what he means. Since getting back from the Heavens, Kanin’s form has been much less humanoid than before. I think it means he’s getting more comfortable with his body, but it also means Ink is no longer obscured beneath his clothes. Perhaps the other Travelers are new enough that Kanin is no more strange than anything else in this world. But for someone with a remnant, the presence of Ink is keenly felt.
+
+“No need to apologize,” I assure him. “The instinct is understandable. The important thing is that you understand it’s not a reflection of his character. Actually, I think if you spent more time with him I think you’d grow used to his remnant’s company rather quickly. It’s more human than you think.”
+
+Sandro appears dubious. “Wasn’t he planning to leave soon?”
+
+“He is,” I admit. Perhaps very soon.
+
+Ollie, who has been busy shuffling about his room, comes bounding back to us from the front entrance. “FYRE! GUESS WHAT KANIN SAID?” He doesn’t wait for me to guess. “HE SAID I COULD MAKE ICE HANDS LIKE HE COULD SO I COULD HOLD THINGS AND SIGN! DO YOU THINK I COULD MAKE A GIANT ROBOT OUT OF ICE?”
+
+I chuckle. “Kanin’s arrived, I take it?”
+
+“OH.” Ollie looks over his shoulder. “YEAH I ACCIDENTALLY LEFT HIM BEHIND.”
+
+He’s not far, though. Kanin joins us with a wave, his form already looking a little more humanoid. He’s fitted pieces of glass in among the void like bones, but I’d stop before calling it a full skeleton. He’s still floating more than walking.
+
+“Attuning ice to use as tools is a wonderful idea,” I tell Ollie. I should have thought of it before now, really, but my immaterial affinities don’t allow for Attunement, so it’s easy to forget physical affinities are so distinct. “Let’s talk with Gardi about it later—they also have an ice affinity. Maybe they could teach you.”
+
+“YAY, MAGIC!” Ollie cries, his tail thumping against the ground.
+
+I turn to Kanin. “Thank you for coming. I assume you’d still like to browse Ollie’s collection of armor?”
+
+“Er, yeah, sure,” he says. “Did you want to talk about something, first?”
+
+“I was thinking we could perhaps feed two birds with one scone,” I say. “If you don’t mind being in two places at once. Specifically, it was Ink I want to test a theory with.”
+
+The collection of glass and shadows that’s acting as Kanin’s head tips to the side. “Sure.” A moment later, a partially formed glass body blinks into existence next to him, likely pulled from his Inventory. I watch in fascination as bits of void lash about the body like ligaments and tendons, then Kanin moves his translator from his current body to the second one. He sends that one over to Ollie, while the original remains with us. I know he’s fully capable of multitasking, thanks to Ink’s ability to split its attention, but it’s still captivating to watch.
+
+“Lead the way, Ollie,” his second body says.
+
+The boy happily guides him away as if a glass man splitting in two was the most normal thing in the world. I head to the other side of the cavern, looking for a more private corner to converse with Kanin and Sandro.
+
+“Right,” I say, stopping behind a collection of boulders. Sandro stops off to one side, not so subtly placing me in between himself and Kanin. “First off, Ink, I’d like for you to surround me.”
+
+Kanin freezes for a moment—all of his glass and void coming to a very literal standstill—before he stutters into motion once more.
+
+“Uh… what?” he signs.
+
+“All around,” I say, gesturing about myself. “A sphere, if that shape is easiest. As sealed as you can manage.”
+
+“That’s… a lot of trust to place in Ink,” Kanin signs. Sandro nods rapidly along to this before abruptly stopping, probably realizing Kanin can see him.
+
+“Do you not trust it?” I ask Kanin. “Do you think it would hurt me?”
+
+“No,” he signs hesitantly. After a pause, he continues with more conviction. “No, I don’t think it will hurt you. I trust it that much.”
+
+“Then that’s that.” I gesture for Ink to go ahead as Sandro stares with wide-eyed horror. “Ink, if you please. I only need a few seconds to test my theory.”
+
+“Is this strictly necessary?” Kanin asks.
+
+I pause to consider it. “No, not necessary. If you really are that uncomfortable, we don’t have to. But it would be extremely helpful in confirming or refuting my theory.”
+
+After another moment, Kanin nods his head, and then the void flows away from him like creeping oil.
+
+Despite my bravado, I admit that the way Ink encircles my body summons a flicker of nervousness within me. I can feel the Dungeon Core watching over my shoulder, extremely suspicious of Ink, but still obeying my command to not attempt to eat it. (I doubt that would end well for either remnant.) Ollie’s Role isn’t activating, though: I’m in no danger.
+
+The void surrounds me in a loop that makes me think of a black hole’s accretion disk. Then it flattens itself out and drips both up and down, like black paint covering the surface of some invisible, intangible sphere. Ink really is a fitting name for this creature.
+
+The last thing I see before the last flicker of light is sealed away is Sandro’s worried face.
+
+Inside doesn’t feel any different from outside. Perhaps the air is a bit more still, the Isle’s breeze blocked by Ink’s void. But on the surface, I don’t detect anything significant has changed.
+
+I Check my surroundings.
+
+[Check̶,] Echo says, a faint, static edge to her voice. [The remna̷n̵t labeled “Ink.”]
+
+A rush of adrenaline runs through me in a hot wave, and a small exclamation escapes my lips. Did I imagine that? Was it real?
+
+I try something else. Opening my Contact interface with Sandro, I send him a quick message.
+
+[F̵yr̷e: This is a test.]
+
+A moment later he responds.
+
+[Sandro: Okay?]
+
+I grin. It worked! The smallest glitch—the tiniest hint of interference. But that’s all I needed.
+
+“Alright,” I call, gently patting my void enclosure. The material feels like a non-newtonian fluid. “That’s all I needed. Thank you!”
+
+Light pours in as Ink obligingly peels away, flowing back over to Kanin as Sandro lets out an un-subtle sigh of relief.
+
+“So, you going to tell me what that was about?” Kanin asks as Ink settles about his form.
+
+“Of course,” I say. “You’ve mentioned before how Ink’s connection to you sometimes interferes with the System. I wanted to test this interference: Is it due to the magical connection you have, or are remnants more like a… hm, let’s say, a magical Faraday Cage.”
+
+When this gets no reaction from Kanin, Sandro speaks up. “What does that mean?”
+
+Ah, right. “Faraday cages block electromagnetic fields. Radio waves, for instance. So I wanted to test if Ink’s interference worked in a similar manner: is it physically blocking the magic of the System, or is it, say, just garbling the message before it can be processed? And it seems it really is more of a field! This confirms a theory I’ve had about how the System works. The fact that Ink surrounding me caused slight interference when I accessed the System means that the System truly is a complex network of magic which casts a field that encompasses the entire planet!”
+
+Neither of the men appear sufficiently impressed by this revelation, but I suspect they just don’t understand the implications quite yet.
+
+“Was that the favor you were going to ask me for?” Kanin asks.
+
+“In part.” Though I actually have a far bigger favor in mind. “But there’s still one more thing I need to check. If it’s not too much, would you allow me to examine Anika’s refiner.”
+
+This seems to catch Kanin by surprise. It’s hard to read an expressionless man, but Ink betrays some of Kanin’s reactions with its erratic ripples. “Anika? What are you going to do?”
+
+“Nothing but Check her,” I assure him. “You don’t even need to hand her over. I can just look.”
+
+“Sure,” he signs. Then he adds. “I do trust you, you know. I know you wouldn’t do anything to hurt her. Or anyone, really.”
+
+I’m not sure that’s entirely true, but it is true that I try to avoid violence whenever possible. Mirzayael would assure me it’s good that people assume I’m a complete pacifist; it means they underestimate me.
+
+It also means they never saw me in the battle with Jorria.
+
+Kanin holds out two disembodied glass hands—a different pair from the one he’s using to sign. A small, black marble abruptly appears in them, cupped carefully in his grasp. He holds it like he’s holding the most fragile blossom in existence. I suppose it is a heavy burden to hold one’s soul within your hands.
+
+I Check the refiner.
+
+[Refiner,] Echo dutifully explains. [Occupied.]
+
+I push her for more information. How does the refiner keep the remnant restrained?
+
+Echo almost seems to hesitate, as if unsure if this is a question she should answer. But Blair unlocked more of my permissions, and it seems that’s enough.
+
+[The spell network of the refiner contains the remnant by creating a spatial distortion to limit the reach of the remnant’s influence on its surroundings.]
+
+Of course! Void magic is linked to spatial abilities—which is why Kanin and Ink were able to displace the Travelers out of their prisons and create portals to the Heavens in the first place. Of course void magic would be involved in trapping such powerful, magical entities in such a small capsule. Warping space means you don’t have to create an impenetrable enclosure; instead, you just keep it from reaching the edge of its cage.
+
+And this only reinforced my idea with the Broken Tower. It’s exactly what we need—or rather, the opposite of what we need.
+
+“Thank you,” I say, stepping back. “That’s all I needed to see.”
+
+Kanin closes his palms around the refiner, and when he opens them again, the sphere has vanished. “Was that the favor, then?”
+
+“That was just confirming my theory so the favor I had to ask wouldn’t be in vain,” I admit with a guilty smile. “You see, without divulging too much information, I am working on a spell that should protect our city from the entire pantheon.”
+
+“Really?” Kanin asks, and Sandro’s eyebrows lift in surprise. “You can do that?”
+
+“Hopefully,” I say. “But I’m missing a component. To go back to the radio interference analogy, think of it like the System’s frequency. I know it’s emitting a signal on some wavelength, but I don’t know which one.”
+
+“And you think I can help with that?” he asks, clearly skeptical. “I’m not exactly the sciencey type.”
+
+“No,” I agree, “but I have a friend who is. And I believe the answer I’m looking for can be found somewhere inside his notes.”
+
+“Notes?” he repeats. But he seems to catch on even as he asks. “Oh!”
+
+“This is the favor I need to ask of you, Kanin,” I say. “Slip out of the city before the pantheon arrives, get to Shirasil’s notes, and return the refiner’s spell network design to me as soon as you possibly can.”
+
+He shakes his head. “This is—I mean, of course. Of course I want to help. But aren’t I better suited here? The pantheon doesn’t know I’m still free. I could help in the fight with the gods.”
+
+“If this works, we won’t need to fight at all,” I assure him. “And the gods not knowing you’re free is exactly the reason I need you to go; only you know where Shirasil’s notes are, and no one will be looking for you.”
+
+“But,” he objects, “but it might take weeks to even find his notes!”
+
+“Don’t worry,” I assure him. “I’ve got a plan to stall for time. And you can cut the return trip by flying the notes back to us.” My gaze shifts to Sandro. “Which is why Sandro will be going with you.”
+
+No one says anything for a moment. Then Sandro and Kanin simultaneously ask, “What?”
