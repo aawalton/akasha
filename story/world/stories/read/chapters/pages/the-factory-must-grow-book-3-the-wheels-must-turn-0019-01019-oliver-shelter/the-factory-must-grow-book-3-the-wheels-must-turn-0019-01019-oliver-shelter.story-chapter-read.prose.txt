@@ -1,0 +1,185 @@
+“So, do you need help figuring out how to use skills without saying their names as well? I know you had trouble where your System was broken, but I know how it works pretty well at this point, I’d be able to help you with it. ”
+
+Oliver paused to look at Clark incredulously.
+
+“No… No, I don’t. I know how to use my skills without System assistance.”
+
+“Oh you do? That’s so cool! Man, all of you guys are so good at all this stuff.”
+
+Sure, they were the good ones, and it wasn’t just that Clark was just spoon-fed sixty levels because of who his parents were to the point where he never needed to put any actual thought towards using his freaking skills.
+
+Or anything else, for that matter.
+
+That really only left Oliver with a single question, which he asked as his shovel bit into the clay-heavy soil and extracted another chunk of dirt, “Why would you think I can’t use skills?”
+
+“Well because you’re, you know, a mage. You've got basically every skill that exists right at your fingertips.”
+
+“That’s not how it works.”
+
+“Oh, okay. I just figured it was magic.”
+
+“No, it’s… Oh, actually stop going out there, we want to go down about a meter. And please, stop flinging dirt everywhere?”
+
+Clark didn’t seem to hear the latter part of Oliver’s request, but he did stop digging outwards and started digging down.
+
+Oliver’s current plan – subject to change, because there were too many unknowns involved – was to dig a pit and utilize the walls of that pit as part of the walls for the overall smelter. He’d provide small air feeder-holes to keep the flame enchantment working, but he’d route them next to the primary heating chamber, thereby pre-heating the air as it was drawn in. The chimney, meanwhile, would double as the intake for the bones and any copper ores they managed to find.
+
+It was annoying he couldn’t do something fully sealed, but the flames his enchantment made were almost entirely normal flames, requiring oxygen to burn. They didn’t require fuel, being a conjured flame instead of a chemical one. Magical flames didn’t exist because something was being burned, they existed because that was simply what should be there. Just like any other enchantment, a flame enchantment functioned by pulling on the tapestry in a way that produced desirable results, which in this case meant pulling on the Fire mana in the Tapestry and concentrating it into a single location until that Fire created flames. In that, it was technically a basic form of Conjuration.
+
+While there were immensely sophisticated ways of conjuring that he couldn’t take advantage of here, each with their own advantages and drawbacks, in all cases a fairly simple rule applied. The more hostile the environment for conjuring, the more mana was required before the element itself would manifest. Conjuring fire into the middle of an existing flame? Exceptionally easy. Conjuring fire underwater or in a vacuum? Exceptionally difficult, to the point of being impossible for him here and now.
+
+It didn't help that the Fire mana around here was so thin, anyway. The number of campfires they'd had running had raised the amount slightly, but not to the point where any random mana accumulation effect would start fires. But so long as he could keep the Fire mana that was escaping the enchantment less than what the flames themselves were creating, he could still make it work.
+
+But in order to accomplish that, he'd need to make sure that his flames were creating plenty of mana. And to do that, he’d need to create an environment as conducive to flames as reasonably possible, and that unfortunately meant fresh air. It didn’t matter that the conjured fire didn’t even consume the oxygen it was exposed to. It was still a fire, and as such it needed the same things fires did. Generally, that particular dichotomy was modeled as the flames producing phlogiston, where too much of it would suffocate the fire just as surely as anything else.
+
+Ergo, proper ventilation.
+
+“So why can’t you just magic away the dirt?” Clark asked again, and Oliver sighed.
+
+“I don’t have the gear needed for it.”
+
+“Why do you need gear? I’ve seen mages that work for my family cast earth-moving spells.”
+
+“Well, those would probably have been skills. Because skills usually don’t require gear.”
+
+“But yours do?”
+
+“Okay. Technically skills can require gear,” he conceded with some exasperation, "Even putting aside the stuff involved in using a skill with a negative effective level, a [Sundering Blow] will need a weapon to be channeled through. A [Technoknight] will have most of their skills related to their power armor. There's an enormous amount of variation in skills, and casting skills aren't fundamentally different from any other skill. It's just that they focus on influencing mana directly, something that usually doesn't have as dramatic an effect on the physical world unless you use it to cast a spell. Which could be as simple as activating a focus."
+
+“Are you sure? Because I-”
+
+“Yes I’m sure. I know how my own class works, thank you very much.”
+
+“Well my cousins were mages, but they didn’t need materials.”
+
+Oliver grunted as he piled up another shovelful of earth, then planted his shovel in the ground and looked at the [Prince of Shining Streams]. “Well. They were either misleading you, and weren't actually mages. Or, they had their materials somewhere you couldn't see.”
+
+He tapped the back of his hand, "It's pretty common for serious mages to have a focus be a part of their body in some way. It can cause issues, sure, but for spells you cast all the time it's worth it. Before the Jump, I had a handful of enchanting and casting libraries implanted, and a ton of glyphs meant to support the kinds of magic I do a lot of."
+
+Oliver paused for a moment, thinking. He supposed technically you didn't need a focus for mage skills if you had enough of them. [Silent Casting] and [Stilled Casting] were named as such for a reason, and though few people used them for those reasons, you definitely could. Magic, after all, worked by manipulating the threads of mana in the Tapestry through direct and indirect means. It didn't really care how you manipulated it, so long as the end result was what you were going for.
+
+Skills drew upon your innate magic, the three elements which made up your Class, to directly enact change on the physical world. Spells were cast by pulling on the threads of the Tapestry themselves, utilizing the existing physics of elements - mostly Associations, where two types of mana acted on one another directly - to indirectly create the desired effect. It traded simplicity for versatility, and all manner of skills existed to make that process easier. Theoretically, someone could cast without a skill or focus, much like how theoretically it was possible to build an entire house with nothing but a knife and a ton of wood... it was just, in practice, you wanted supplemental skills to make it easier.
+
+And if you extended that far enough, with enough different casting skills...
+
+The simpler answer was just that Clark had misunderstood what he'd seen, of course. Though it was technically incorrect, and he tried to figure out how best to phrase the distinction. Before he could do so, the other man continued.
+
+"That is incredibly awesome," Clark replied. "But if you need materials, why even have the skills? Why not just use a wand?"
+
+"Lots of reasons," Oliver replied, "But the most straightforward answer is that it's much easier to create a focus that's applicable for a casting skill than it is to make a focus that anyone can cast with. And even then, unless we're talking about an incredibly specialized wand, I can usually get a lot more flexibility out of it than the average person, because I can manipulate the flows of mana outside the focus."
+
+"So why not make a spell that can poof away all this dirt?"
+
+"Because that would be harder than just digging this hole," Oliver snapped back, "I don't know if you've noticed, but we don't exactly have very many options for creating magical items right now. And the options we do have are currently dependent on us digging this hole."
+
+He grabbed his shovel and continuing to excavate out the future furnace. “Also, be careful when digging here, I’m trying to define the outer walls of the furnace, and if you break up the soil here it’ll make it much harder.”
+
+“Oh okay. So you're trying to make a staff? When that happens, will you be able to just poof away the dirt?”
+
+Oliver just sighed and ignored the bothersome noble, given he could actually do that here, instead focusing on how much his muscles were burning. He wasn’t out of shape in this body, but he wasn’t in shape either, and they were digging out a fair bit of dirt. It was a circle roughly a meter in diameter, and half a meter down, and that meant they were excavating roughly half a cubic meter of soil.
+
+At least the digging itself was manageable, if you ignored how bad the shovels they were using were. The soil had comparatively few rocks of any particular size in it, and most of the roots they encountered were thin enough to be easily sliced through with their inkling shovels. They only encountered one larger tree root, and that was removed fairly quickly with some assistance from Jacob.
+
+They only needed to stop once for a vinebeast attack, which Oliver appreciated. This time, it struck when Alyssa was out foraging, but Henrietta and Jacob combined were able to dispatch it quickly enough. It did wound Jacob somewhat, but it was just a fairly shallow cut that Clark was able to [Unblemish] away.
+
+As for the furnace itself, that was going somewhat less than stellar. He just couldn’t figure out a good way to deal with all the slag their burning of bones would produce. He’d never needed to make a smelter personally, after all, but all of the designs he’d memorized assumed that he’d have sufficient access to either mechanical or sorcerous means of purifying the metal, something that they just didn’t have the sophistication for at this time. He couldn’t even really invent the proper means of separation, because those would all require metal, which was exactly what the furnace was meant for!
+
+It was an annoying loop.
+
+He was also very loath to just try different things, because if he messed it up once, then he’d be stuck with it and/or have so much work to build it a second time. So he really needed to get it right, or at least mostly right, his first real attempt. Minor things could be wrong, like maybe if he learned it would be more effective to have the drainage hole for the copper at a different angle or something like that, but the core needed to be as close to perfect as he could manage.
+
+“So what are you stuck on?” Henrietta asked, causing Oliver to jump. “You’ve been sitting in your hole for at least an hour, scratching into the dirt with your stick. What’s wrong?”
+
+“Just thinking.”
+
+“I know. But it would be better if you were doing, so I want to get you to that stage faster.”
+
+“I just need to think,” Oliver desperately tried to shoo away his Commander without being insubordinate or without losing the slowly-coalescing idea in his mind.
+
+“And two heads are better than one. What are you trying to do, Smith?”
+
+That served as the death knell for Oliver’s focus, and his half-coherent idea evaporated like shadows at daybreak. He sighed and stood up, “Well, I was trying to figure out a way to get rid of the slag, but whatever idea I was working with just broke.”
+
+Henrietta waved him down, “Sit back down. We can talk it through together. Familiar me. Unless you need a break, then go get food or water, whatever you need.”
+
+That wasn’t a bad idea, so Oliver grabbed some of each. Their living situation was slowly improving while he wasn’t looking, as they’d gotten some small gourds capable of serving as canteens and lined up all ready for consumption. Their food, meanwhile, had stabilized into a small pile of fruit and some dried meat hanging on a stick. Oliver had never cared too much for food beyond whether or not he could eat it to get nourishment, but this… wasn’t great.
+
+He chewed on a tough piece of droopnose jerky as he sat back down in the furnace pit, where Henrietta was still waiting for him.
+
+“So,” she began, “What’s your issue?”
+
+“Getting the slag out of the copper. It’ll be lighter than the copper itself, so it’s not possible to empty it before getting the copper out, but if I just have a hole at the bottom of the basin then it would get clogged up by the slag whenever the copper empties out.”
+
+“I don’t see the issue?”
+
+“Well, I need to be able to get the slag out of the copper. It would be floating on the top, and we won’t have anything strong enough to survive being dipped into molten copper. Not when all of our tools will be made out of copper or wood. And that’s not even accounting for what would happen if we find actual copper ore, which would produce just so much slag.”
+
+Henrietta looked at him, “Okay. But why do you need to empty the slag?”
+
+“Because… we’re trying to refine the copper while also melting it? It’s a necessary part of the process.”
+
+The Commander shook her head, “I understand that. But you said that the slag will be lighter than the copper, so if you put a hole at the bottom of whatever melting pot you make, then it would only come out after any copper was completely emptied, right?”
+
+“But it wouldn’t empty, and we need to empty it somehow. We can’t just let the slag stay in the furnace.”
+
+“Why not? Are you planning on using this furnace forever?”
+
+“Yes? I don’t like making things that will break.”
+
+“Well,” Henrietta gestured at their surroundings, “I imagine we’ll get ourselves nicer foundry materials than this at some point. Do you think that’ll take a year?”
+
+“No?”
+
+“Oh really? What about six months?”
+
+“Maybe? I don’t actually know about the one-year thing,” Oliver backpedaled slightly. He was just blindly guessing, he didn’t want to be held to his mind’s first impulses.
+
+“That’s fine. Let’s say six months before we’re in a remarkably better situation than we are right now. Probably less than that before you decide to make a second smelter. Just make this one with an expected lifespan of six months. Even if we aren’t in a drastically better situation by then, we’ll certainly be better enough, our skills marginally higher-level, and we can either make a new furnace when this one stops working, or take this one apart and clean it out properly.”
+
+“But…” Oliver protested, “That’s not right. That’s not how you do things. And what if the slag overflows whatever container I make?”
+
+“It is now. And in that case, just dig out a larger container underneath it that the overflow can fall into.”
+
+“But won’t that waste copper?”
+
+“Will it?”
+
+“I don’t know,” Oliver pleaded with his Commander, “But that’s the problem.”
+
+“Okay, one way to find out,” she prodded him. “So get to it.”
+
+Oliver let out a low whine, and Henrietta laughed.
+
+Oliver packed clay in from the enormous pile of dirt they’d accumulated while digging out the furnace’s pit. After thinking about a few small-scale models, Oliver realized that he’d pulled out far more soil than was strictly needed… but at the same time, he wanted the internal structure to be far more tightly-packed than the soil naturally was, so maybe it wasn’t an actual issue.
+
+He did need to dig out a bit more on the ‘front’ of the furnace, so the copper could have somewhere to drain to, but that was a manageable issue. What was a bit harder to deal with was how he was going to create the roof for the structure… but he was hopeful that his idea of bending a bunch of flexible branches into a support, then coating it with clay would work.
+
+The inside was his focus for now, and Oliver carefully created a ‘ramp’ of packed clay leading from the back to the front of the furnace. As he did so, he made sure to leave a small tunnel running around the entire perimeter that he could feed his copper into for his magical feeder circle, with air-supplying reeds installed in the ground just right outside of it.
+
+Once that ramp was completed, Oliver moved on to the outflow. It was at the very bottom of the ramp, and he built up additional clay on either side of it to divert the copper into it, and it was a hole the size of his fist sloped slightly downward into an excavated pit. The idea was that it could have enough room to fit at least basic molds there, or once they had additional containers capable of holding the molten copper, it could be filled up there.
+
+Because it didn’t really require external power, they would just leave the furnace running at all times, keeping any copper already in there molten and ready for use.
+
+With the outflow completed, Oliver’s next step was to create the flame enchantment. That, at least, was fairly simple. Thanks to his brazier, he already had a massive amount of the work done, and he was able to reference the existing fire-sustaining magic with his new work. It... might also improve if he refined the First Flame? That one he was less certain of, but it was possible.
+
+The end result used up most of his remaining copper, but by keeping it only three centimeters wide and flattening it as much as he could – a process that was made much simpler with the aid of Jacob’s System-enhanced Strength and a couple of flat rocks – he was able to literally stretch it far enough that it worked.
+
+He did have to compromise in literally every aspect except for the strength of the flames. Once it started, it wasn’t turning off, it probably wouldn’t last more than a few months before needing complete replacement, and the amount of abuse that the copper could take before it deformed and potentially failed catastrophically was…
+
+Well, at least it wasn’t a very strong enchantment. Not that it would be an excuse that any enchanter’s safety certification would accept. But they weren’t here, and Henrietta had insisted. Fortunately, it was going to be buried pretty well in the ground, because if it got bumped too hard it might well explode. He had initially planned on adding some kind of access hatch that would let him reach the magic circle after he finished the furnace, and while that was still somewhat required just to activate the dang thing, he’d be sealing it up tight afterwards.
+
+Hopefully he didn’t regret that decision, but he’d much rather regret sealing it than not sealing it. Even low-power enchantments, when they went bad, could be quite dangerous. Each time he tested it while making the thing – just because it was simple didn’t mean he could get it right first try – he stood as far back as he possibly could and flinched with every activation. ‘As far back as he possibly could’ really wasn’t very far when it came down to his maximum casting range, and the activation spell he needed to use required him to practically be touching it without modifying it. And without a dedicated skill like [Displace Origin] or one of [Scrollcast]’s subskills - ⟨Farcasting⟩ and ⟨Use Artifact⟩ both came to mind - it wasn’t easy to modify.
+
+But it didn’t blow up in his face too badly. The worst outcome he had in testing was when he’d incorrectly compensated for how much the Tapestry would sway in response to the pressures he was putting it under, and instead of a constant ring of flames it produced a sizable fwomph of fire before giving out. He didn't have his eyebrows back yet, but if he did, he probably would have lost them then.
+
+But eventually he got all the bugs hammered out, the copper appropriately fed through the tunnels he’d prepared for it, and Oliver started building out the rest of the furnace. This part, at least, was wonderfully simple in comparison to the brain-bending he’d just undertaken trying to get the fire enchantment to work. He piled up clay as high as he could, then created and used a framework made out of reeds – the smaller ones were delightfully flexible, for all that the older ones were incredibly strong – and used that to support the clay he made the dome out of. The theory was that the same fire that would melt the copper would also fire the clay, hardening it and making it a substantially more effective building material than the mere hard-packed dirt it basically was at the moment. Well. Magical hard-packed dirt, because he'd weaved a few Technology wards into it to help it keep together as well as refine the copper magically.
+
+Once the dome was complete, Oliver added the chimney. It didn’t stick that far out of the ground, but it would help to guide the airflow on its way out as well as serve as the ingress point for all new copper samples. It let out at the top of the copper basin ‘ramp’ he’d made, with enough room for something twice the size of his fist to fit into the main basin, where the copper could melt and everything else could burn off.
+
+It was ugly, it was dangerous, it was undoubtedly full of all kinds of issues that would make it break within weeks if not days, and it was so, so far from Oliver’s best work.
+
+But when he got the flames lit – stuffing the hole he’d used to access it with a large flat rock and then packing in a substantial amount of clay to keep it closed – and loaded up with the bones of droopnoses, Oliver couldn’t help but feel satisfied.
+
+The satisfaction was short-lived. An unexpected column of flame burst out of the ground through one of the air supply pipes, and Oliver had to scramble to fix it before anything nearby caught on fire. That, and the subsequent rush of running around patching up a bunch of cracks that were forming in the furnace’s roof, took so long to resolve that Oliver actually missed the first dribbles of copper leaking out from around the flat rock they were using to theoretically hold the copper in. Still, the confirmation that the furnace was at least somewhat working wasn’t enough to revive the sense of satisfaction.
+
+There was just always more to be done.

@@ -1,0 +1,187 @@
+The wands had stopped exploding!
+
+As far as Oliver was concerned, he was doing absolutely fantastic at this point. He’d already done his time as feeling like an absolute failure, passed through the frustration, and had emerged into complete serenity in the face of dozens, maybe even hundreds of failures?
+
+Sawdust and splinters littered the waterline next to their shelter, but in his hand he finally – finally – held a completed wand. He'd needed to refine his basic setup at least three times over, and ended up needing to work with Henrietta to refine a magic circle that would support his creation of the tool. That had been... really, truly awful, and he hoped he wouldn't need to do much more of that until he got a skill to smooth over the collaboration.
+
+Not that there was anything wrong with her, it was just that... well, trying to enchant anything with someone else at the exact same time was an exercise in frustration even at the best of times. They had managed to break the process down into two stages, eventually, and that had in turn gotten him a halfway-decent circle that he was then able to utilize as a template for [Scrollcast]... oh, and that's when he'd learned that not only was being in nature instead of a workshop making his casting specifically harder, it also made enchanting wands specifically harder.
+
+The reason, as best as he could tell, was a particular aspect of Technology echoing through the Tapestry that interacted with tools, and being on a world with no tools whatsoever...
+
+Yeah. It didn't go well.
+
+Even once he'd divined the issue, it had taken Oliver a fair bit of time to figure out how to compensate for it correctly. But he had done it in the end! And could probably do it way faster in the future. A smooth cylinder of wood, slightly thicker at the base and tapering to a point at the top, a few glimmers of magic wrapping around it, and polished to a smooth finish.
+
+[Appraise]
+
+He realized a split second too late that his normal celebratory appraisal wasn't a good idea, just in time for a blinding headache to slam into him and make him nearly drop his newly-made wand.
+
+Once the pain had subsided, Oliver instead slowed down, meditated to center himself, and allowed his arcanoception to slowly infiltrate the item he'd created. Only then did he lightly allow himself to tug on [Appraise], more akin to checking the indicator light than switching the thing on, and learned that he'd managed to make a Basic Primitive Wand of Crude Warding.
+
+Oof.
+
+Basic and primitive? Ouch. It was obviously fair, and while a level one [Appraise] wasn’t able to get into that level of detail, he’d be surprised if it even managed to last through all of the wards he wanted to set up. Crude wards, at that. Though he still felt proud he’d managed this much from literally nothing.
+
+So, first things first, he needed to get the First Flame's Technology output flowing towards the wall so he could start getting the wards set up. A mana-smoothing ward was probably the best description of what he'd first be making, something to keep the Nature at bay, as well as providing a framework for all subsequent enchantments.
+
+Normally, the creation of a new wand would spark off a full gamut of testing as Oliver verified that everything worked the way he expected, testing it in various ways and getting accustomed to its unique peculiarities. But… Oliver personally doubted that this wand would survive that much testing. Even if he just let it sit unattended for too long, he was pretty sure he’d come back to find it in pieces, or transformed into solid moss, or on fire. The enchantments he’d laid on it were not especially robust.
+
+...yeah. They were really, really bad. And now, he wasn't sure if he could actually trust the wand he'd made. Sure, [Appraise] said it was a wand. That meant it was a wand. But if the wand started bucking and turning and stirring the Tapestry in ways he wasn't expecting, that would be extremely bad. Worse-case scenarios included extinguishing the First Flame this all depended on, accidentally creating Dragon mana, or blowing his hand off.
+
+So... he really did need to test it. Something small, that he could easily keep under control even if the wand broke halfway through, but still actually acted on the Tapestry and enchanted something in an easily-confirmable manner....
+
+So, a test was in order. A test that Oliver couldn’t help but smile at. It was tradition, after all, for new enchanters to first create a very specific, but very basic enchantment. All he needed was to find a suitable target…
+
+A few minutes of searching brought Oliver to a flat and smooth rock right where the creek met the pond, the perfect skipping rock were it not the size of a plate. Though his hand still hurt to use, he held the rock in his right hand at a forty-five degree angle, half in the shade and half out, and began to fill it with power.
+
+With his wand in his left hand – held loosely but not too loosely – he flicked it up into the air.
+
+[Cogniprint]
+
+“May the Tapestry hear my voice and know I am here as I invoke these rites. I am Oliver Smith, the [Erudite Enchanter]. I claim this stone as my own, and seek to petition that it hears me and knows me.”
+
+Up, down, flick and twirl into Hectavor’s spiral into zigzag, skating the tip a hair’s breadth from the stone tablet. The wand flew perfectly, and Oliver could feel the magic seep into the rock, twist itself and....
+
+Nothing.
+
+Well. That wasn’t… dangit.
+
+Oliver rubbed his head. I’m an idiot.
+
+Hectavor’s spiral obviously wouldn’t work here. That particular wand motion relied on not only a bit of proper preparation when making a wand that he hadn’t done, but it also worked to invoke an existing pattern within a focus, which he obviously didn’t have. He just got so excited about his idea that he hadn't considered how absolutely non-trivial it would be to do in the abstract.
+
+But this is going to be annoying, he mused. Hectavor’s casting library was an immensely standardized casting reference, and he’d used it as a base for most of his enchantments. In preparation for the Jump, he’d even gotten a crystal inscribed with the Hectavoran library embedded into the side of his wrist, but that obviously hadn’t survived.
+
+Because none of it had.
+
+Oliver let out a shuddering sigh. Should he just... not? Figure out some easier route to test his wand? There had to be something other than the traditional divination broadcast message that would be easier to pull off without a spellbook or library. Just roll over and figure out something else to do, because he couldn't do it. in the middle of the wilderness, because he was so far out of his Element, because he was just so broken that...
+
+No. Oliver's eyes shot open and glared at the stone in front of him.
+
+He refused to let a bunch of stupid trees get the better of him. He was a human, a proud citizen of the First Empire of Humanity, and he was an enchanter. No matter what stood in his way, be they dragons or Tyrants or nature itself, he was the one to laugh at the absurd and craft wondrous impossibilities with his own two hands. No doubts, no regrets.
+
+[Cogniprint]
+
+“May the Tapestry hear my voice and know of my presence! I am Oliver Smith, the [Erudite Enchanter]. I call unto you in the present, declaring my name and my title that you may learn of my person and learn of my prowess. From the depths of the Void I come, carrying with me the legacy of my people, who have mastered their world and begin to seek grander challenges. I shall cast a long Shadow, the first of which shall be my legacy left imprinted upon yourg gaaaa…”
+
+Oliver hastily dismissed the built-up tangles of mana with a basic counterspell, waving his hand and using a brief pulse of mana to tie off the loose ends into a null-spell. That had been... anticlimactic.
+
+“My legacy left imprinted upon yourg,” he tried, and frowned. “My legacy left imprinted upon yourg. Legacy left on yourg. Left yourg. Left. Yourg. Why can I not pronounce this?”
+
+It wasn’t even a weird tonal or rhythmic thing! He was just managing to majorly flub the basic syllables involved.
+
+He ran through a brief set of vocal exercises to warm up and identify what was going on, and managed to absolutely butcher it as he did so.
+
+“Smith?” Henrietta asked, coming into their little shelter. “Are you alright?”
+
+“I think I’m fine,” he honestly responded. “I’m just having an absolute nightmare thaying. Thaying. Saying. Saying words properly. Apparently all languages now, not just Magespeech.”
+
+“How long have you been working?” she asked.
+
+“Hm? I can keep going, if that’s what you’re asking.”
+
+“How long?”
+
+“I mean… I keep getting distracted when I need to feed the fire, but off and on since I woke up? So… maybe an hour or two?”
+
+The commander crossed her arms, which probably indicated she was annoyed at him. “It’s been six hours that you’ve been in your little bubble.”
+
+“It hasn’t been that long…” he protested, “...right?”
+
+“It has. And you haven’t eaten, unless you’ve caught a fish and cooked it without me noticing. Have you drank anything either?”
+
+Oliver looked off to the side.
+
+“Go get some water. I’ll cook you some fish. I know you’re being very diligent and dedicated to getting us to a good baseline, and I know the situation must be weighing on you, but you do need to take care of yourself.”
+
+Yes… he thought, I’ve been working hard, and not just playing with magic all day to the point I forget to take care of myself. That’s definitely what’s going on. I am a respectable, wise, and mysterious Archmage, and don’t forget it.
+
+“Smith,” Henrietta caught his attention.
+
+“Yes, Commander?”
+
+“Take the compliment.”
+
+“Yes, Commander.”
+
+Can she read my mind?
+
+Oliver waited a moment to see if she’d respond to his internal musing again.
+
+Okay, probably not. Or maybe she just knew that I’d think that and then I’d...
+
+Oliver did have to admit, he felt much better after stretching his legs for a bit, getting some food – fish again, but now with some kind of fruit that looked like a black currant but tasted like if a pineapple was a tomato as a side – and some water, his body felt substantially less like it was stuffed full of cotton and dragged across sandpaper. His mana... well, it still felt like it was freshly sandpapered from the Nature around him, but there was only one thing he could do about that.
+
+“Left your. My legacy left imprinted upon your own memories, called upon for all to see. Oh yeah, we’re back.”
+
+“That is excellent to hear,” Henrietta replied from her normal position sitting on the leaning trees. Oliver wasn’t entirely sure what she was doing, but it seemed like it was magical in some form. “Please, don’t blow yourself up.”
+
+That was a joke, right? He was pretty sure it was a joke, but he wasn’t certain.
+
+He decided to play it safe. “Yes, Commander!”
+
+Oliver turned back to his wand – was it starting to deteriorate already? It shouldn’t have been that fast, especially given how he'd kept it within arm's reach, but he couldn’t tell if the instability in the enchantment had gotten worse in the intervening time.
+
+This time, he made sure to run through a few variations of the incantation before he started enchanting. It was just warm-up, really. Not that it would do anything without his object to be enchanted, let alone without using [Cogniprint], and without actually plucking the threads of mana he couldn’t know exactly what his incantation would be. He could guess, but at a certain point you just had to go.
+
+Well, nothing to it. His patriotic fervor had waned, perhaps, but the core of insolence it had ignited was just as strong.
+
+[Cogniprint]
+
+“May the Tapestry hear my voice and know of my presence. I am Oliver Smith, the [Erudite Enchanter]. I speak with my voice in the here and now, declaring my name and my title that you may know of myself and learn of my prowess. From the depths of the Void I come, carrying with me the legacy of my people, who have mastered their world and begin to seek grander challenges. I shall cast a long Shadow, the first of which shall be my legacy left imprinted upon the stone hewn from your mountains.”
+
+Breathe, pace yourself, stay on beat. Don’t let the sudden dryness in the back of your throat cause you to trip over your words or to cause your voice to crack. Twirl the wand ten times clockwise, flick up, flick right, clockwise seven times, flick right, ten more twirls, right again, three twirls, right again, left four times, twirl the wand once counterclockwise, then flick down. Right, clockwise twice...
+
+“The Greetings I bear is simple, two words in my native tongue expressed as a single word within your lexicon. Return unto me that which I seek, acknowledgment that you have heard me and you may rest once more."
+
+It took a moment, the magic rustling through the slate of stone he was using as a medium, twisting itself into words that he could understand as a reply and passing through his arcanoception into a simple message. Were he someone else, he would perhaps see or hear the words, but for him there was nothing quite like the surety of knowing that which the magic sought to tell him.
+
+Hello world.
+
+A triumphant, almost-manic grin spread across Oliver’s face. He had done it. He’d created a proper enchantment with absolutely no reference, his first real try, and with a wand he’d made out of a twig and a dream.
+
+“I’m so good at this,” he grinned, happily hugging his wand.
+
+It chose that moment to burst into flames.
+
+“...the words I wish for you to speak, then you may return to that which you were once again.” Oliver finished, a fair bit of time later. His new wand danced at his mud-covered fingertips, narrowly finishing on the proper beat, a sharp staccato sound ringing out on his work-slate.
+
+Hello world, his enchantment echoed. He was getting good at that, if he thought so himself. It had only taken him three tries to make a new wand, and he was pretty sure it wasn’t about to blow up in his face again.
+
+Oliver waited.
+
+After a moment, when he confirmed he hadn’t just jinxed himself, he sighed in relief and allowed himself a smile. You never knew with these fiddly, barely-stable enchantments. Anything could set them off.
+
+However, after several minutes with no explosions, he allowed himself a bit of relief. There was a bit of feedback inside the wand, a bit of blowback from actually casting the spell, but it was slight enough to be a nonfactor. Next time, he'd be able to reduce it even more, until he could eventually cast Hello World without any negative repercussions for the wand itself.
+
+Still, he had a task to do, and not much more time to waste.
+
+[Scrollcast]
+
+"I speak unto the First Flame, ye torch leading the way unto grand technology, and direct you towards the wall. There, you shall fill your role as the first bastion against the wilds beyond." He managed to attach a 'thread' of Technology to the end of his wand, and he somewhat-painfully tapped his fingers against the back of his hand to get the right sudden staccato stop that was best served with a dedicated tool.
+
+Still, slightly-sloppy casting notwithstanding, the spell he was trying to cast was really simple, and thanks to his Hello World spell, he knew the exact peculiarities to be aware of when doing so. It only took a few minutes before the flow of Technology was strong enough to actually start building magic around. As a bonus, the persistent spell was starting to create minute traces of Arcane on its own, though it wasn't past the 'might just be my imagination' phase yet.
+
+[Cogniprint]
+
+His string of success ran low, unfortunately. The moment he actually tried to turn his attention to his true task, of warding the Shelter wall such that it would defend them against the depredations of Nature, he encountered stiff resistance.
+
+“May the Tapestry hear my voice and know of my presence. I am Oliver Smith, the [Erudite Enchanter]. I petition you, oh grand pillar of the forest, home to countless creatures.”
+
+It was like the wall was fighting him, and the little headway he was able to make with creating a Wall out of the wall was almost immediately undone when a billow of neon-blue smoke erupted from the wood. As soon as it touched his skin, a burst of mental static flooded his mind, and he nearly lost full control of the spell.
+
+That would have been bad, but cutting off a spell that had started getting unruly was so instinctual Oliver didn't even realize he'd done it until afterwards, when the bits of Arcane began to seep away. Fortunately, the current of Technology persisted, but nothing was going to be easy, he could already tell.
+
+He emerged once again from the ‘inside,’ waving away the remaining wisps of blue smoke, and encountered Henrietta, who he assumed would want to know what had just happened.
+
+“It's going alright,” he reported, with maybe a bit more optimism than he actually felt, “I was able to cast my spells, but the enchantment didn't work. I'm wondering if there's something strange about the wood here that I need to piece together before I can get a solid ward placed on it. I'm able to get started, though I might need Alyssa's help for some of my next steps... whenever she gets back.”
+
+“Good to hear. And well-timed, too.”
+
+“Why’s that?”
+
+“Well, if I’m not mistaken, then we should have-” Henrietta was cut off by a blur dropping in from the sky right between the two of them.
+
+Alyssa stood up in an intensely over-exaggerated show that Oliver thought might indicate pain?
+
+“I’m back. Did you miss me?”

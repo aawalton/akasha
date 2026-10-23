@@ -1,0 +1,113 @@
+The ward really should have been working.
+
+The First Flame kept burning steadily, radiating elemental Technology like a balm to Oliver's wounded soul. That radiation, thanks to Oliver's machinations, was predominantly directed towards the woven-wood wall on the side of Shelter, and focused at one spot in particular, the centerpoint of a runic circle that Oliver had created that would work to create the standing Mana-smoothing ward he so desperately needed.
+
+And in theory, it should already be working.
+
+Ignoring the exceptions to basically every part of the definition, wards were the most specialized form of enchantment, designed to do a single thing in a single place for a finite amount of time. They didn't move, didn't change, and effectively existed to enact a persistent magical effect on a place, or a thing in that place. They worked by creating changes in the Tapestry through means great and small, adjusted until you got the result you wanted.
+
+There wasn't a Location element, no type of mana which was inherently different based on where you were. Spatial magic was the closest to that particular effect, but wasn't quite the same. Still, that didn't mean that magic wasn't incredibly sensitive to location. The Tapestry's exact composition and structure was constantly changing, both from place to place as well as over time. That was why spellcasting was so delicate, if you blindly performed the same motions and said the same words each time, you could end up with wildly different results because in summer, yanking as hard as you could on the threads of elemental Ice might get you enough power to freeze a cup of water, but if you tried to yank just as hard on Ice while in the middle of a blizzard... you might end up as an ice statue.
+
+In that way, wards were like spells. Unlike other enchantments, which sought to be reliable in their function through things like Attunement or a high degree of self-sufficiency, wards simply embraced the variance and were custom-built for the time and place they were designed. That did mean that wards tended to break down over time, but there were countermeasures for that which Oliver absolutely intended to implement...
+
+But first he needed to get the dang thing working at all.
+
+He was creating a runic circle, a set of glyphs all working in concert in a circular pattern to accomplish a discrete magical effect. It wasn't his preferred means of enchanting, but it was a straightforward and reliable one, simple to understand afterwards and something that Henrietta might be able to do herself.
+
+Still, while they were easy to understand, they were very hard to figure out. All runic circles centered around a central glyph, the primary glyph, which dictated how the rest of the circle acted. That primary glyph was then influenced by secondary glyphs, each of which could be in the center of their own runic circle. However, this time he was keeping it simple. He had five secondary glyphs, and none of them were modified any further.
+
+Oliver's primary glyph for this was Shelter, and the stream of Technology struck it as he expected, filtered as it radiated out through the secondary glyphs of Wall, Structure, Nature, Rest, and Foundry. Passing through each of those glyphs then influenced the mana further, pulling certain aspects of the Tapestry to the forefront and pushing others to the back, and it then went out from there into the wall of wood... But no matter what, it just wasn't 'taking.' The pieces fit together, they just didn't work.
+
+It was like he was creating a piece of furniture, and he had all of the pieces of wood perfectly shaped, and they all fit together as they should, it just fell apart instead of holding together.
+
+Hm.
+
+That... might be it, actually? His [Cogniprint] was basically designed to function on singular items, particularly foci and scrolls and the like, and he was leaning a lot on it here... so maybe it wasn't able to 'take' to the overall Shelter because it didn't have the proper hooks needed for his Technology-based skill to interact with it. Then, no wonder the wall of branches wasn't able to do anything, it wasn't a shelter for his wards to take place in. He'd need to somehow define the entire area underneath this natural rock archway into a cohesive 'place,' a single item insofar as his magic was concerned.
+
+The first thing Oliver could think of as a solution was trying to somehow bastardize Attunement into working on an entire mostly-natural 'building.' Then he realized he was being a bit silly, buildings underwent Dedication, which... actually yeah, that basically was Attunement on a large scale. But that required a lengthy ritual with lots of ingredients and specialized foci... or not, because this was going to be a kind of 'home,' and that meant he'd be better off with a Bread magic ritual to create a hearth... but bread was also inaccessible. Dang. Ironically, what he was doing was a kind of Dedication ritual, but the Technology ward he was making needed Technology to work, and...
+
+Okay. What about a more traditional spell? The rock around here was really red, which... didn't mean much to him. Maybe it meant there was a lot of iron in it? He didn't really know geology that well. Stone could be tricky to work with, because it only sometimes had Associations to elemental Earth. Rocks and stones, other than crystals and gems anyway, didn't have their own element, they just generally interacted with other elements as they saw fit.
+
+Oliver scratched his chin, and suddenly found himself acutely aware that he was getting scruffy, and that derailed his thoughts for a bit. He hated the sensation of hair growing on his face. He could almost tolerate it on the top of his head, but the complication that could arise with it in various rituals meant he usually kept himself shaved... but that wasn't an option right now.
+
+He fruitlessly tried to pluck some of the hairs from his chin, but they weren't long enough for him to get a proper grip on them. Maybe if his fingernails were longer...
+
+He forcefully put thoughts of his encroaching beard out of his mind lest it distracted him. He didn't have many options, and realistically the only thing he could do would to cast a spell with a wand. Hmm.
+
+It was a bit of a conundrum. A big part of why he needed the sheltering ward was so that he could have a workshop, so that he could make a good wand. But he needed a wand to make the shelter... and this was exactly why he had so much difficulty getting anywhere.
+
+Maybe if he thought about it like a foundation? He needed a foundation that he could build the structure of his mana-smoothing ward on, which would then enable him to build out more things beyond that, which would eventually help him create his wand.
+
+Okay, he should start with the mana types that his teammates had, and figure out if any of them made something workable. Henrietta had Shadow, Card, and Rune... he'd need some of those later, but they weren't helpful now. Alyssa had Wood, Air, and Force. Her help with Wood had gotten him this far, and he'd want her involvement later because he wanted to create a wind-based enchantment. Clark had Light, Water, and Hero. Hero... no, that wouldn't work for him. Jacob, though, was Ice, Force, and Metal... that might do it.
+
+Metal paired excellently with Technology, and it also meshed rather well with Wood and Earth, and if the rocks around here did contain iron then all the better. Okay, so metal. He could create a Metal-based foundation for this place... he'd need some kind of actual metal, that much was certain, and then he'd need a wand dedicated towards working with the element.
+
+A wand was a form of magical focus, the most basic magical focus really. Its role was to translate motion and patterns - which were predominantly Associated with Force and Song - to something else. In this case, that something else would be elemental Metal, probably alongside a bit of elemental Technology for good measure.
+
+Okay. But this wand would need to be a bit more sophisticated than the wands he had been making, most of which were generically Associated with Arcane. Because even when dealing with an element he could directly sense and manipulate thanks to [Scrollcast], having a tool made it much easier.
+
+But in addition to the absolute base functionality of his new wand, he'd need to make sure it didn't burn out spontaneously. Ideally, it wouldn't burn out at all, but that was unrealistic for his current capabilities. But what he could do was to create a wand that only was magically charged when he was using it, because even just thinking about it, the Dedication ritual was going to happen in multiple parts, during which time he couldn't be making the wands again and again.
+
+Maybe like a focus, or sort of like a template of a wand which he could 'complete' by using [Scrollcast]?
+
+That could work. A focus with no actual power, but more like a magical mold that he could finish-slash-fill when he went to use it, but before then would be a mostly-inert piece of wood. Well, not that it would actually be anything like an actually inert piece of wood, but he could probably make it exist in a sort of low-power mode?
+
+There were many issues with that idea, but Oliver felt like it might be worth a try. Now, what kind of enchantment would best support it?
+
+He could use a more typical enchantment structure, sort of like what he’d been using lately, but even if that sort of thing didn’t require a lot more fine-tuning than what he wanted, it was designed to be constantly ‘on,’ always a potent tool of power that simply wasn’t always in use.
+
+Some kind of fuse was the first thing that came to Oliver’s mind. Something that he could ‘ignite’ with an application of [Cogniprint], and then once the ‘fireworks’ started, he could use it for however few minutes he got with his wand before it exploded. It wasn't an awful initial framework, but it would definitely require multiple wands to be created, which wasn't ideal.
+
+What about as a seed? If he made the wand as only a part of a larger whole, possibly reinforcing the idea by physically reducing the size of the wand itself, he might be able to have the wood function more of a ‘core’ and set up a sort of… expanded magical baton? Making it physically tangible would probably be excessive, but he might be able to make the wood itself just the handle. That would leave the construction as somewhere between a spell-to-make-a-wand and a wand itself. That would be tricky to make it work for Metal, though. It would naturally skew towards Arcane hard.
+
+The third idea came from him staring at their fire pit. He could make the wood as more of a piece of tinder than as a traditional focus. If he built the runic structure off a foundation of amplification, then it couldn’t do anything until it had something to amplify. It would be single-use by its inherent nature, but it came with the possibility of being the most effective of his three concepts, because he could use fire-treating as a sort of additional processing step. It wasn’t going to get full First Flame of Man benefits – and Oliver really hoped they’d managed to beat out Clark and Jacob’s campfire so that it would maximally effective – because he just didn’t have the alchemical setup needed to properly consecrate their firepit into something that magically potent, but it would… probably still do something?
+
+Regardless, it wasn’t like he was directly choosing between the three ideas. None of them were really going to be easy, not with the absolute lack of a setup he was working with, but there was only one way to find out if they were possible, and that was to actually try it out!
+
+He was just going to make basic wands at first. He still needed to figure out how he'd make a Metal-focused wand, and that was a complication he didn't need to juggle while also experimenting with atypical wand setups. These would all be basic Arcane wands, and that was fine.
+
+He was lightly experimenting and making sure he could make anything, too, because he wasn't using actual wood-wood for these wands. Trying to source branches had proven somewhat harder than it really should have been. Instead, he was utilizing a type of sturdy river reed that grew nearby. It reminded him a lot of bamboo, strong and tall, just without any of the individual notches normally on that particular plant. It wasn't quite as good as actual wood, but it was very symmetrical and circular and consistent, so Oliver was all told loving it.
+
+He even had an abundance, because the others were using it as a material to make things like baskets and bunks, and to weave in the shelter wall to make it sturdier and stronger, and to make a hut separate from the main Shelter to eventually give them a different place to sleep, because their sleeping schedules were starting to diverge and Oliver needed to spend most of his waking hours in what was slowly becoming more workshop-like.
+
+None of that directly mattered to Oliver though, and it was stuff they could do without him, so he mostly stayed focused on trying out different wand-making methods instead.
+
+First up was his ‘fuse’ method. To accomplish this, Oliver worked out two runic arrays that were fully separated, each individually doing little more than monitoring Force and Arcane respectively. It would only be when a third runic enchantment was activated, connecting the two ends, that any appreciable amount of power would start to flow, translating Force into Arcane by harnessing the energy of the former and, to oversimplify, shoving it into the latter.
+
+Given what Oliver could eyeball once the Crude Latent Primitive Wand of Basic Casting was finished, the separate runic enchantments wouldn’t last forever, but at the same time, there was little chance it would sit around for days without him using it.
+
+The ‘seed’ method relied on being a template for another wand. It was, more or less, a single-use focus whose only purpose was to make a wand out of pure Arcane energies. That one took him twice as long to get working as his fuse model, and once he did… he was disappointed.
+
+Yes, it looked properly modern, with a blue-gold wand shimmering into existence in the space beyond the hand-sized chunk of wood nestled in Oliver’s hand, but it just was kinda bad at being a wand. He didn’t have the tools needed to indirectly create an enchantment, and the best thing that he could say about it was that it did indeed interact with Arcane mana in the surroundings… but it didn't seem to be doing so selectively in any sense. He gave it a quick flick to see what it would do, and... yep, that didn't seem like it made manipulating the Tapestry any easier.
+
+Ah well, that was why he tried these things out.
+
+Finally, his ‘tinder’ method involved burning any remaining bark from the wood off in the campfire, and then structuring the runes such that they contained no excess mana beyond what was strictly needed to maintain the runes present. It was only once he activated [Cogniprint] that the runes themselves actually did anything, amplifying themselves into a proper enchantment.
+
+And promptly exploding in a sharp retort, filling Oliver’s hand with splinters.
+
+At least Clark was able to quickly heal the lightly mangled palm of his hand, so it didn’t slow him down too much.
+
+Huh, [Unblemish] isn't a half-bad healing spell, Oliver mused, It actually erased the history of the wound, not just the physical damage. If that had been something more like [Knit Flesh], there'd be a lot more interference going on. It was a pity the healer it's attached to is such an idiot, but at least the skill itself was good.
+
+With a bit more study of the wood involved, Oliver concluded that he was officially trying to get too fancy. The fact that he didn’t have the wherewithal at the moment to do anything cool was really starting to bother him, but at least they were about to take the first steps towards fixing that!
+
+With the fuse-wand design as the only one that actually worked, Oliver continued refining the base idea the following day. He would have liked to somehow make the fuse able to be paused, so that the timer only counted down when he was actually casting... but that seemed beyond his abilities at the moment.
+
+He'd just need to make extras. Once he got the final prototypes working, anyway. He was so close, everything was aligned. He'd just need to use Jacob as a reference for some of the ritual design... and figure out why the heck his wands had suddenly stopped working.
+
+“...Then this Myself rune is meant to serve as the overlap between the wand’s existence and the caster’s existence, which is what initiates the connection. That’s what ignites the linear script connecting the twin circles. Once that’s activated, power will flow from one side to the other, because Force spreads out, but the Technology, or Metal on the actual thing, will stay where it is.”
+
+“And that's not what you're seeing?” Henrietta asked.
+
+"No. The Force tries to run down this pathway here," Oliver pointed out the proper place, "But it gets blocked when running through the Myself. And I'm not sure what's going on around it that's causing the issue."
+
+"You mentioned that the Myself was an issue when you were performing Identify World, right? Might that be the problem?"
+
+"It shouldn't be. It was a fairly key glyph in some of the earlier revisions, and I wasn't having any real problems then," He worked a quick bit of enchantment to patch the mana flow as to avoid the Estuivii. It wouldn't work as a wand, but it would do to demonstrate how the problem was deeper than simply utilizing an imperative on the runic structure. "See, when I bypass the Myself, it stops... on the Spark... just like it's supposed to. Okay, what the heck."
+
+Henrietta tapped his shoulder, "Well, at least you now have an idea as to what needs fixing."
+
+"Barely," Oliver groaned, then started poking at his enchantment. "Why did you..."
+
+He didn't get much further than that, however, before a commotion outside drew his attention. Alyssa burst from the treeline, arms waving in alarm, "Incoming!"

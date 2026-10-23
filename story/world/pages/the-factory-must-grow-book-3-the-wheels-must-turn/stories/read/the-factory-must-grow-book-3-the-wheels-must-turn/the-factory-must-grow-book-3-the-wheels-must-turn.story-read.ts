@@ -1,0 +1,45 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const theFactoryMustGrowBook3TheWheelsMustTurn = {
+  id: "01a1674b-fd77-7d62-b635-39492e5024f3",
+  type: "page-type/story-read",
+  slug: "the-factory-must-grow-book-3-the-wheels-must-turn",
+  author: "NorskDaedalus",
+  following: false,
+  unit: "unit/words",
+  title: "The Factory Must Grow - [Book 3: The Wheels Must Turn]",
+  world: "world/the-factory-must-grow-book-3-the-wheels-must-turn",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "117021",
+      externalLink:
+        "https://www.royalroad.com/fiction/117021/the-factory-must-grow-book-3-the-wheels-must-turn",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Portal Fantasy / Isekai",
+    "Progression",
+    "Strategy",
+    "Multiple Lead Characters",
+    "Adventure",
+    "Fantasy",
+    "Sci-fi",
+    "Crafting",
+    "GameLit",
+    "Genetically Engineered",
+    "High Fantasy",
+    "Magic",
+    "Magitech",
+    "Modern Knowledge",
+    "Soft Sci-fi",
+    "Survival",
+    "Technologically Engineered",
+  ],
+  publicationStatus: "ongoing",
+  readLater: true,
+  createdAt: "2026-10-23T05:46:35.767Z",
+  updatedAt: "2026-10-23T05:46:35.767Z",
+} as const satisfies StoryRead

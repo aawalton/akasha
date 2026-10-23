@@ -1,0 +1,111 @@
+Oliver... had to admit he was feeling better, after getting some rest.
+
+He hadn't slept that well, because of course he hadn't, there was no real chance of that, but doing very little of anything had gotten his mind reorganized and reprioritized in ways he really wasn't about to admit to. Because as useful as it had been, it had also been miserably boring.
+
+And with his mandated break out of the way... he could go back to fixing the copper furnace. Because it was broken again. Well, not that broken, but another fairly large crack had opened on its top, both venting out enormous amounts of heat and distinctly impacting how effectively the magical refinement was working.
+
+Through his arcanoception, Oliver could tell exactly how much it was impacting things, and... yeah, it wasn't great. So now he was slathering more mud on while whispering a spell to get the wards working again. [Scrollcast] was fantastic at repairs, because it was just applying the same pattern to the object it was already on. Yeah, you needed a functional version to copy from, but eh. It worked for him here and now, so he was going to be happy.
+
+Hopefully, that happiness would carry him through his hesitancy at making his staff. He really, really didn't feel ready to make it. But Henrietta had ordered it so, and so his staff he would make.
+
+The important thing was just making sure it was made right. As effectively large wands - in the same sense as how a sword was a large knife - there was tremendous variation in the most iconic and ubiquitous tool of mages across history. And much like wands, they ran the entire spectrum from single-purpose foci meant to allow for the casting of a single spell with ease second only to Skill usage... not counting auto-casters, which were just something completely different, to raw toolboxes meant to interact with the Tapestry in ways and with precision that nobody could ever hope to accomplish barehanded.
+
+The staff he was going to make was far more on the 'single-purpose tool' end of the spectrum than he usually went for. He needed something that could work as a portable workshop, something to protect him from the ravages of Nature, and from which he could copy a ward much like the one currently encompassing Shelter.
+
+Because he was modeling his staff off of the Shelter Mana-Smoothing Wards, the staff would need to follow similar-ish construction techniques and invoke the same elements. It would require a foundation of Metal, a primary barrier of Wood, created through a very special Fire. To accomplish that, he'd need the staff itself to be made out of a plant material - either wood or reed, practically speaking - but with a core of copper, and probably heavily involving the First Flame from his Everflame Brazier somewhere along the way.
+
+It didn't take him long to assemble his materials and tools. That was just a simple fact of life, when you had this little. It didn't look like much, with just a handful of reeds - which he'd decided on after realizing he had no real woodworking tools - the two remaining Metal wand blanks, a few sharp rocks, his chisel and mallet, all sitting in Shelter next to the Everflame Brazier.
+
+It at least didn't take too long to come up with a plan, but executing on that plan...
+
+The first step was going to be to make his copper core. Oliver needed his staff to be at least one and a quarter meters long, but a meter and a half would be preferable. At two meters, it would be taller than him and that made things awkward, but otherwise longer and larger was better.
+
+The problem was getting a copper core that long. The metal was pretty ductile, but not to the point he could draw it out into a wire effectively by hand. Doing it with a smithy would be trivial... if he had a smithy. But he didn't, and he needed a copper rod, so the only way he really saw that happening... was by casting it.
+
+Considering he wanted it to fill a reed, the obvious solution was to cast it directly into a reed of comparable size to the one he'd make the final staff out of, right? Well, the ideal case would be casting the copper directly into the final staff directly, but he was positive he wouldn't be able to make the reed casing survive that. It would catch on fire, burn through, possibly break, any number of things.
+
+That said, he didn't really expect casting the copper into the reed mold to go that much better either. Casting copper was infamously difficult, something he'd been experiencing firsthand a fair bit as of late, but trying to cast a long, thin rod was... going to be on another level.
+
+Still, there was only one way to really learn what would or wouldn't work. So, he made sure that the furnace was loaded with a decent amount of copper ready to be poured out, shoved a reed into the ground right below the downspout, took several steps back, and let the copper flow.
+
+He instantly flinched back from a loud crack, and a few drops of molten copper went flying, fortunately missing him and splattering on the rocks and soil with a hiss. The explosion knocked the sluice he was using to control the copper clean off, and Oliver wasn't able to do anything but watch as the entire furnace emptied itself out, lighting the reed on fire and repeatedly popping as, presumably, water flash-boiled and created small steam explosions.
+
+By the time everything had settled down, there wasn't enough left of the reed for Oliver to confirm his suspicions that the moment the molten copper had touched it, it had split apart like a firecracker... but it was clear that he'd need a different approach.
+
+Oliver replaced the sluice, accidentally burned himself on the still-hot copper, got his resulting burn mostly healed - apparently part of it didn't count as a 'blemish,' because it was a not-quite blister whose main visual impact was making a part of his finger look slightly shinier than the rest of it? - Tossed as much copper as he could gather back into the furnace to let it remelt, and examined his next steps.
+
+Hmmm. The problem there had been the reed itself. He'd mostly expected the fact it probably wouldn't cast cleanly thanks to water in the plant boiling, but he'd expected that to result in a rough cast, not a grenade. Rookie mistake, really.
+
+But if he didn't include the reed, then... maybe that would work?
+
+Oliver poked around their collection of reeds. In general, the thinner the reed, the more flexible it was, whereas the thicker ones were stronger and sturdier. The diameter he was hoping for was right about when the reeds started being properly stiff, which meant that the interior diameter was quite bendy.
+
+That made his initial idea, of jamming an appropriately-sized reed into the ground to create a mold somewhat impractical, but what he settled on instead was only jamming the reed slightly into the ground, leaning it directly against the copper's outflow spout, and then building up copper around it, such that he created a casing around the reed.
+
+That took a little bit of work, but he got it eventually. Unfortunately, it made it really tricky to get the reed he was using back out, with it being right next to the furnace... but he got it eventually, mostly thanks to the exact same flexibility he'd previously been stymied by.
+
+That attempt... went better, he could say that much. But it didn't give him the rod he needed. The copper cooled instantly on contact with the clay, clogging the rod at its very start and preventing any more from flowing inside.
+
+That was fine, he still wasn't expecting most of these to work.
+
+His next attempt was similar, but he removed the top half of the clay mold - finding that it had partially collapsed when removing the reed anyway - and simply allowed the copper to flow down the divot.
+
+That one didn't work because the copper wanted to flow faster than the divot would allow it, and it spilled over the sides.
+
+His next iteration was to slow the rate of outflow for the copper as it came out... which just resulted in the copper bunching up at the top again.
+
+He tried a half-dozen other variations over the next couple of days, each one failing in their own way... until he tried two attempts in quick succession, and found that when the clay - which had hardened in a semi-fired state - was still hot from one trial, the copper managed to flow well enough it flowed down almost the entire rod.
+
+Oliver was startled enough that he almost didn't close the sluice fast enough, and there was definitely extra spillage, but nothing he couldn't clean up easily enough. The rod itself was also kind of rough, with lots of little, jagged pieces of copper sticking off it in various angles from where the copper had settled into the casting mold's cracks. Without gloves, that meant he needed to be extra-careful. And he... mostly succeeded in being careful. He did get a few cuts on his fingers, but they were all quite minor
+
+He was vaguely aware that Henrietta had been figuring out a means by which they could tan leather... hopefully she'd succeed soon and be able to make him some gloves or something.
+
+With his rough and pitted rod made, though, Oliver was able to use some rocks to start cold-forging it into a slightly more appealing form. The copper was soft enough that a well-placed rock absolutely could dent it, but if he hammered at it for too long the metal started to crack... which was annoying, but he could anneal it - heat it up slightly then let it cool - to make it malleable again.
+
+By the time he was finished, he had a very obviously hand-forged metal rod about a meter and a half in length, and a couple centimeters in diameter. It wasn't physically strong - while hefty, Oliver had accidentally bent it by hand at one point, and if he held it on one end the far end wobbled slightly - but Oliver had woven enough magic into it, [Cogniprint]ed from the Shelter wards that magically it was exceedingly robust.
+
+Because nothing was easy, Oliver struggled somewhat getting it into the length of reed that he'd selected to use with his staff, but compared to everything else it was almost trivial. Of course, the moment he managed to successfully get the rod all the way through the reed - it stuck out on each end slightly, which wasn't intentional but he could use it - then it suddenly seemed like it was too loose, and it kept rattling around and threatening to fall out.
+
+He fixed that particular problem by heating up the tip of the copper in the Everflame Brazier, adjusting the flame such that it was as focused as he could manage. It wasn't quite on the level of a blowtorch, but it was still pretty hot and concentrated. After propping it up and letting it sit in the fire for a few minutes, long enough for the copper to get heated but not long enough for the reed to do anything but start to smoke slightly, Oliver took the entire thing and hammered the tip onto a flat rock, creating a flattened end-cap pressed up against the bottom of the staff, and an extra-long piece sticking out of the top.
+
+He cast a few more divinations and studied the flow of mana around it a bit more, trying to figure out how best to deal with it. He could cut it off, but that seemed somewhat shortsighted. There were all kinds of situations that might present themselves as he was actually enchanting the staff, and it would be better to have the extra metal for those than to eliminate all potential solutions that would benefit from extra copper.
+
+Still, he bent the copper slightly to help keep the rod in place as he began working with it.
+
+[Cogiprint]
+
+"This staff is the cornerstone!" he declared, "Behold the works of Oliver Smith the [Erudite Enchanter] and know what shall come about through its presence."
+
+He'd already managed to tie the copper foundational wards into the metal core of his staff, but he renewed the ties to act almost as wires connecting the magic around him into a far more portable state.
+
+The staff wasn't going to be some perfect, portable wardstone or anything like that. Heck, on its own it practically wouldn't do anything. It was a casting focus, built by [Cogniprint] for use with itself and [Scrollcast] in the interest of producing more places like Shelter, little enclaves where Technology beat Nature, which he could utilize as a structure and foundation for building other wards.
+
+"With this rod, I shall shepherd the Tapestry to create quiet places to rest, to expand, and to build. With this staff, I will turn light into darkness, cold into warmth, and chaos into order. The seeds of an empire shall be sown with the turn of my wrist, and the way paved for the power and might of humanity."
+
+Hmm. It wasn't taking quite as well as he would have wanted. The staff should have been an excellent receptacle for the copied enchantment, because it was made of the same things as Shelter, magically speaking. Metal at the base, wood as a wall, stone... oh. It was missing stone.
+
+Oliver spun the staff in a slow circle as he continued his incantation. He used [Scrollcast] to hook into the circulating Technology mana flowing along the walls, and locked it in as he tried to figure out how to properly incorporate stone...
+
+Well, this was where the extra length of copper would be useful. Oliver bent down and found a stone fragment on the ground about the size of two fingers put together, then, still keeping his skills active and the threads of mana slowly entwining with the staff, set the rock at the very top of the staff and bent the copper around the rock, holding it slightly in place while he figured out how to better secure it.
+
+"This rock, claimed from the ground within this Shelter, shall be the first stone laid. Reed drawn from water, metal drawn from fire, stone drawn from earth. These three I do combine, these three I do claim. May the spark of magic it ignites act as a rushing river, forming a mountain upon which great things may yet be built."
+
+A bit of careful maneuvering with the Everflame Brazier later, the stone was very securely held at the head of the staff, and Oliver's casting was coming to a close. It hadn't needed a constant incantation, but his voice was still starting to get sore nonetheless.
+
+"I name you the Staff of the New World, for you are of this new world and shall shepherd in a new world of your own. A beacon of progress, a torch of innovation, a rod of technology. Hear your name and know yourself!"
+
+Oliver slammed the copper-clad bottom of the staff into a rock, and sparks flew. His face lit up.
+
+"Be anointed in flame and spell, remade in your own image as a reflection of all that has been made and all that shall be formed."
+
+Oliver wove the final 'tempering' with a [Scrollcast], and he could feel as magic seeped into the staff, so much that he was almost worried it might prove too much for the still-primitive focus to handle.
+
+A purplish-blue flame engulfed the staff, heatless yet furiously burning patterns into the Staff of the New World, clean lines etching themselves along its length and pulsing slightly as it interfaced with Oliver's magic and settled into its place. The symbols he'd carved into the reed lit up brilliantly for a brief moment before fading into a mere glimmer.
+
+With a broad smile, Oliver spun his staff and felt the way it cut through the Tapestry, the threads it pulled upon and those which it didn't. It was solid, far better than the wands he'd been making do with thus far, and a fully capable tool for what he'd be needing. Nothing complicated, but very good in its simplicity.
+
+[Scrollcast]
+
+"Behold! The Staff of the New World declares its presence and might in the hands of Oliver Smith the [Erudite Enchanter]. Be greeted and provide a greeting in response, a simple phrase of exchange said many times before." Oliver used his test-cast, drawing upon the echoes of his previous casts to make the spell easier... not that he really needed it, the magic all but leapt to task as he brought it to heel. His working sank into the Tapestry, then recombined, and he grinned as it responded.
+
+Hello World.
