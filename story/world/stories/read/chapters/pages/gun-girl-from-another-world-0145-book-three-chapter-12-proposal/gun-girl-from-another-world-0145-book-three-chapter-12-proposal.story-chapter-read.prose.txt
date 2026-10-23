@@ -1,0 +1,57 @@
+Chapter 12
+
+Proposal
+
+My job is to design an engineering solution for a client that effectively addresses their goals, realizes their desires, and conforms to their budget. I might be sitting in an underground park in a fantasy world, and my client might be a quasi-sapient crystal ball, but those are superficial differences from what I’d done for a living back on Earth. So I’m approaching it with exactly the same methodical process that I’ve used dozens of times before.
+
+First, I have to identify and outline precisely what the client’s goals, desires, and budget actually are. That will set the guardrails for the entire project going forward. Many brilliant engineers skip this step, thinking that it will be easy to keep in mind or that these things are flexible, only to end up significantly outside the objective and lose the bid.
+
+So that’s the first sheet of paper I start writing on, after labeling it, “Objectives.” I wish I was working with a notebook, but this is what I have. I’ll have to carefully keep it in order and bind it later. Or maybe not. It’s entirely possible I’ll have to let the core absorb this copy, or significant quantities of it.
+
+With that thought, I quickly grab a new spell that will create a second copy of what I’m writing, tracing over “Objectives” again to get it started. It’s sorta going to be like writing on carbon paper, and it’ll make the essential task of keeping records much easier.
+
+The project, then, is a comprehensive wing expansion following the remodeling of the main building as a reception center and entertainment lounge. The goal is to create a complete facility dedicated to curating the desired customer experience in accordance with company standards and policy. The client has stressed that, while many competitors rely on the industry standard of confrontational design strategies, this facility should emphasize cooperative approaches to developing constructive solutions.
+
+… It really is a very stereotypical mistake that the core fell into. CEO gets a big, grand idea for the future of the company, thinks the vision itself is sufficient for direction, and decides to cut costs by doing it all in-house. Then realizes after the damage is done that he should have sought professional advice from the outset and only succeeded in making the job an even bigger and more expensive headache.
+
+When I get to the budget, the first thing I include is the rough square acreage of the dungeon's domain. It's a helpfully exact measurement of precisely how much space we have to work with. The client has already plotted out the land, so that's a major logistical headache and delay averted immediately. I do disagree with the placement, however, so I also include a geographical map of the surrounding area, points of concern, the outline of the current domain, and an alternate plan for the expansion that would see it occupying an unused area of wilderness without actually changing its entrance location.
+
+Of course, the actual financial budget is a horse of a different color.
+
+Land is basically a simple trinary. Once you figure out how much of it you need, you either have it, can get it, or neither. That last answer is the worst one to get back, because it means that the ideal solution is off the table and you’re going back to the drawing board to crunch some way more difficult numbers, but at the end of the day, those really are the only three possibilities. Finances, on the other hand, are a logistical scale with extremely tight tolerances.
+
+It’s even worse when you start operating internationally. The novice thinks it’s just a matter of plugging the currency into a conversion calculator, but the real math isn’t on currency. It’s on culture. An American CEO will look at a hundred-thousand dollars of overflow and give it all the thought of a rounding error. A Japanese one will see personal betrayal by a dishonorable foreigner, but will come back to you every time if you give him everything he wants and still keep it under budget. Do the same for the American, and he’ll think you shortchanged him somewhere.
+
+There is every reason to keep that same principle in mind here. The dungeon core may not have a personality or culture in the same sense as a human executive of another country, but it has issues, limits, and objectives. Failure to consider those things could see my plan rejected.
+
+What are those concerns? I start a column of short notes off to the side, labeled “C.C.” - Cultural Considerations. The first thing I write under that label is, “Behave Yourself.” That is currently a primary guiding principle for the dungeon’s operations, and it has a general understanding of what that means. It may not have a full comprehension of the larger impact, but it understands that behaving means being socially constructive. If I can’t stress how my project plan emphasizes that responsibility, it’s liable to shut me straight out. If only for that reason alone, the entry gets an underline for emphasis.
+
+What else? It’s a safe assumption that the core wants to grow, though that may not necessarily mean physical growth. Growth in energy harvesting and data input may suffice. It’s entirely possible that the exhaustive process of actually expanding isn’t so much desirable as it is an avenue of last resort: If a dungeon isn’t getting any feedback, it goes looking for it. Since the dungeon is effectively a closed system on its own, if it had the bad misfortune to manifest in the middle of nowhere or doesn’t know what to produce to get people interested in it, the only tool in its arsenal is expansion until that status changes. But wrestling ever-increasing quantities of spacetime from the possessive claws of physics must take exponential levels of energy. There’s no way it’s a positive return on its own.
+
+Yeah, I don’t expect I’ll have any issues convincing it that the financial growth of more and new clientele is the superior kind of growth, as that’s probably exactly what it’s already thinking. But that brings me to a point I’ve been putting off because of how much harder it is to put into this Terran frame of reference: What is the actual form of the financial system we’re dealing with, here? What is that currency conversion calculation?
+
+The simple, obvious, and terribly incomplete answer is energy. It’s incomplete, though, because it doesn’t actually say anything. All economic systems are ultimately just about energy. Tins, dollars, rupees, gil, they’re all just arbitrary units of measurement for energy. The investment of energy and resources - themselves purchased with more energy - is what determines the dollars and cents of a product. When you put a dollar sign next to something, all you’re really saying is that’s how much you value the energy that produced it. This is why mass production, industrialization, and automation make things so much cheaper, because the amount of energy required, both personal and literal, drops faster than a rock in ten times gravity.
+
+The problem is that there’s a reason we come up with such units of measurement, and it has absolutely nothing to do with the Terran compulsive obsession with the ways of Galileo: “Measure what is measurable, and make measurable what is not so.” No, it’s because effective planning requires resources to be quantifiable. If you don’t know how much energy you have to work with, you don’t know how much work you can get done, and even if you have an accurate measurement of the volume of that energy, it’s still useless if you don’t have a clear definition of how much a given segment of that volume can accomplish.
+
+Money serves as a universal metric across all energy sources, providing a single value that any enterprise can understand and use as a shorthand for supply and expenditures. But a dungeon core has no comprehension of such a system and no way to communicate its own resource allocation. That means I have to come up with it all by myself.
+
+Fortunately, I’m in the ideal place to do that kind of math. As Yorin said, the Forest Cavern is one of the best-understood dungeons in the empire. A little math can take into consideration the original geographical size of the dungeon, minus the domain, and compare that to what it normally produced with that energy. I can then compare that to the size of the domain to get an idea of the energy capabilities of that space if expansion occurs.
+
+Of course, this doesn’t give me an exact value for all of the individual components, like X quantity of stone, Y bushels of herbs, or Z numbers of monsters of a particular size, but it provides a much clearer idea of what is possible within these values. That will have to be good enough.
+
+It also gives me an idea of how much Angel costs, which I make a note of.
+
+The one other thing I have to keep in mind is the language barrier, that culmination of cultural constructs, social expectations, and personal comprehension that is so much broader than just using the literally correct word. I’ve already been bitten once by a miscommunication with this particular client, so I have to make doubly sure we’re each making ourselves crystal clear.
+
+With my outline of considerations complete, I go over its bulleted, organized lists one more time, then set it firmly to my side, not in the way of continuing my work, but never more than a glance distant. Ayre would probably scold me for spending the time to prepare an actual such list when we’re already on a timer, but that’s the kind of haste that leads to engineering disasters. We’re always on a timer of some sort, and nothing is more costly than an avoidable mistake. The time spent creating a guidance sheet is the most powerful time-saving tool in my arsenal.
+
+I pause in my work to look over at my best friend, since I'd let myself think of him anyway. He and Korrigan absolutely have the harder job, but I find myself envying them regardless. They're working together, interacting with one another, and struggling to work through their obstacles, them and Angel. Even Kyuuga's nearby, watching the show as he helps himself to the park's vegetable spread.
+
+Meanwhile, I'm over here, in a corner by myself, scribbling away like I'm going to be late on a homework assignment and don't have time to play with the other kids. It hits me where it hurts, because I've legitimately had nights like that. Passing exams, getting the research paper just right, burning the midnight oil to finish a proposal before a deadline ... Becoming an engineer isn't easy, and I had to turn down a lot of outings with friends. Bowling, skating, shopping, school dances. Sometimes, there's just not enough time to have fun.
+
+But this is one of those times. If I don't put my all into this, and get it finished in time, all of their hard work will be meaningless. Lives are on the line, for all of us, and the best thing I can do is respect the hard work they're putting in by doing nothing less for my own part.
+
+I reach over and grab a stalk of arcana bok choy, taking a big bite out of it. Whatever its effects, they don't really matter. The crunch helps me concentrate ... and it gets the taste of Purple Sludge out of my mouth.
+
+I've had my little break. It's time to get back to work.

@@ -1,0 +1,115 @@
+Chapter 21
+
+Bomb
+
+When we head back to the first event room and take the eastern door, we find ourselves in another empty room. There’s no vista this time, just a room with the stone lights and angelic statues, with one door to the north.
+
+Ayre looks around the virtually empty room. “... Really? Just another connecting room?”
+
+“Unlikely,” I reply. “I didn’t provide any code for joint rooms.” I make my way over to the eastern wall and run my hand over the bricks. “Do these bricks look off to anyone else?”
+
+“They look like regular stone bricks to me,” the archer replies. “Why? What seems off about them?”
+
+I go back and forth with my hand between the bricks in the middle and the wall to either side of them. “They’re a little further out than the others. All the other walls are flush. This section’s not.” I take a few steps back and tilt my head a bit, one hand holding my chin while the other arm is crossed under my chest. “In fact, it almost looks …”
+
+Kyuuga, Korrigan, and Ayre are all staring at me expectantly. “... Yes?” the elf prompts.
+
+I point to the wall section. “Korrigan, bomb it.”
+
+Ayre’s protest is immediate. “Remmi, dungeon walls are inviolate!”
+
+“Well, then, we’re not going to have to worry about the ceiling coming down on our heads if I’m wrong, will we?” I reply.
+
+But Ayre crosses his arms with a tilt of those hips that makes his tunic flare out like a skirt that would almost be scandalous if it weren’t for the ramie linen shorts he wears like athletic spats underneath. “You’re going to need a better explanation than that this time. If you’re wrong, the heat and force of the backblast could be the most damaging thing in this dungeon.”
+
+“Fine,” I agree and turn my attention from the wall to the elf. “This is a tutorial dungeon, which means its primary purpose is to teach important skills for dungeon-culling. One of the most critical skills for that is situational awareness, which the dungeon can test in one of two ways: Puzzles and secrets. A secret door is spawned when one room doesn’t spawn a door, but an adjoining room does. The door still has to go somewhere, but one side simply doesn’t have one. The sealed entrance, then, is usually unlocked by completing something in that room, but if a room spawned without any events, otherwise known as a safe room, then nothing can exist to unlock it.”
+
+Korrigan tilts her head between us. “So if it can’t be unlocked, it has to be hidden?”
+
+“Exactly,” I confirm, “or it could use a key stored somewhere else. This early on, though, it would be really hard to fit a key in somewhere, so I’ll bet the algorithm defaulted to hidden.” I motion again to the wall. “A span about the size of a door frame isn’t level with the surrounding wall there, and if you look at the brick pattern, it doesn’t match the rest of the wall. That’s typical of a door frame that has been bricked over after the rest of the wall was constructed, because the surrounding bricks were already cut to stop at the frame.”
+
+That makes Ayre bulge one cheek out as his eyes go the other way while he processes that. Then the eyes roll back toward the wall again to see it in a new light. “Alright, that’s pretty solid reasoning. But we do it from the doorway.”
+
+I nod back in immediate agreement as I hold up my index finger. “First rule of demolition, safety first!”
+
+He frowns a bit at that. “Somehow, I feel like that might be the one first rule you follow the least.”
+
+I’m already heading back to the doorway we came through so that I can’t see how much nobody believes my reply. “Oh, please, I’m always paying attention to safety!”
+
+We fall back to the doorway, shoulders against the frame as we’re all peering in to see what happens. Korrigan moves into the opening and trains her staff on the section of bricks. The incantation for an explosion is a bit different than the one for a firebolt because it involves more complex elemental interaction, but in short order, the small orb launches from her staff like a stone from a sling and collides with the far wall.
+
+The blast has us pulling back into the cover of the other room as I grab the little mage and yoink her with us. Ayre wasn’t kidding about the recoil. It feels like nearly all of the force came back at us, with only the air itself providing friction to slow it down. The raw physics on display of the inviolate architecture of even a weak dungeon like this one …
+
+… It’s really pumping me up for the thermobaric experiments! Until this moment, it was just theory based on the concept of inviolation, but as the hot air rushes past us, some part of it has stopped being “just theory” and become certain reality.
+
+I catch Ayre giving me a suspicious look out of the corner of my eye and replace my absolutely in no way manic expression with a bright smile. I consider that my best friend only gives an eye roll to be a definite improvement over the normal reaction of acting like I’ve made some terribly worse expression.
+
+We step back into the room once the heat settles, and I immediately grin and give a fist pump. “Somebody pick up the phone, because I called it!”
+
+They’re staring at me again instead of the newly revealed perfect doorway, as if it had been there like that all along. I know that look, but I can’t really say I’m surprised that the phrase translated as utter nonsense for them.
+
+Nobody says anything about it, though. Maybe they can tell by my response that it doesn’t need to be said. Instead, Korrigan steps toward the new eastern doorway and looks up at me.
+
+“Are we going that way?” she asks.
+
+But I shake my head with a wave of my hand. “Nope. It’s important we know it’s here for the map, but once you pick a direction to go for navigation, it’s critical to stick to it! Otherwise, you would have to remember where you stopped, which just increases your chances of getting lost. We’ve solved this room, so we know all of its secrets and can safely come back through. Since the dungeon run won’t reset until we finish, every room we do so with is a step on a safe path back!”
+
+That makes the little oni frown in thought. “I don’t think this place is dangerous enough for us to need an escape route …”
+
+“For us, no,” Ayre agrees, coming to my aid, “but if we were a Bronze-rank party with no real experience with dungeons, a secured rear could be the difference between being able to fall back and adapt and ending up in over our heads. This is intended as a training exercise, after all, so we should do our best to think of it in those terms.”
+
+That makes sense to the mage, and once she’s updated her map, we pass by the revealed secret doorway to head north again.
+
+The new room, however, gives us pause yet again.
+
+“... Is this another safe room?” Ayre asks. “Are you rubbing off on me, Remmi, or am I right to be on edge at three of them in a row?”
+
+The room before us is built of stone, like all of them before, but it’s laid out like a cottage dining room. On the wall, there’s a tapestry reproducing the balcony vista from before, and there’s a hearth with a warm, crackling fireplace. In the middle of the room is a heavy, stone table surrounded by wooden chairs, with a bowl of caramel apples placed at the center. There’s only one other exit, a simple door to the east.
+
+I step forward and drum my fingers on the edge of the table as I take it all in. “Normally, I’d say yes, but a safe room has more or less a one-in-three chance of spawning, so it’s completely plausible in a randomly-generated set for several to appear consecutively. And non-safe rooms are never going to be particularly subtle about it. The larger problem is that safe rooms count toward the maximum number of rooms the dungeon is allowed to generate, but not to the minimum number of rooms required before the boss room can spawn. In a very real sense, every safe room we reach is a room that fails to move us toward the end of the dungeon, while simultaneously exhausting the number of potential breaks we can encounter later.”
+
+“In other words,” the elf summarizes, “every safe room early on is one that we can’t hope for later.”
+
+“Exactly,” I nod.
+
+He sighs, placing his hands on his hips with a shake of his head. “Well, at least they’re short. We can cut through them quickly.” He’s already starting for the door. “Get it marked down, Korrigan, and then we can keep moving.”
+
+“Hold on,” I say, causing them all to pause in their tracks. “Just because it’s a safe room, that doesn’t mean there’s nothing we need to do.”
+
+Korrigan, Kyuuga, and Ayre all share worried, but very confused, glances. “What do we need to do?” the oni is the one to ask.
+
+And I reach into the bowl, scoop up an apple, and toss it her way. “Snack, of course.”
+
+Ayre is already rolling his eyes. “Remmi, we don’t need the rest! It’s time better spent moving!”
+
+“It’s not about needing rest,” I correct my friend as I continue passing the apples out like a juggler with an underhand toss. “This place is recreating my candy apples! It’s about time I find out if it’s doing them justice.”
+
+Once we finish getting our munchies on - the dungeon did a serviceable job at imitating my recipe, but I still think my apples are sweeter - we head out again, and it doesn’t take long to come to the conclusion that we may have chosen the long way around. We only head north a little longer before a series of dead ends drives us far further south than we started at, suggesting the layout has something of an axe-head shape.
+
+The dungeon has a significant number of encounters, especially on the route we selected, but we also hit a fair few puzzle rooms. Some of them are just puzzle rooms, while many have both a puzzle and monsters. There are lever puzzles, pattern puzzles, and hidden switch puzzles. One even required us to haul a pot of water across three rooms that wouldn’t stop spawning monsters until we used it to douse a fire surrounding the necessary switch! If my outfit were green and I had a sword, I would have looked every bit the courageous explorer on that one!
+
+After a brief hook west and a little more south, we encounter a door - to our left - more ornate than any we’ve encountered so far, except for that at the very entrance. Here, too, the angelic harpies beckon us toward a doorway that looks every bit as heavy as the one that closed us in here.
+
+“I don’t need to be Hero Remmi to guess that’s the door to the Dungeon Lord,” Korrigan observes gravely. “And it’s to our left. Does that mean we go through?”
+
+“We can,” I confirm as I check my ammunition count - the last room was a double-decker of rats and goblins, not the undead sort, thankfully, but still soaking up more than a few rounds. “The dungeon hasn’t been terribly hard on us in anything but length, but that’s largely because we outlevel it so much.”
+
+I tilt my head and tap my chin in second thought. “Actually, now that I think about it, this would have been a really harsh endurance run regardless of our stats. The fact that I can carry thousands of arrows and bullets, plus plenty of stuff to keep your mana up, has probably been doing more to keep us going than any level advantage. If nothing else, it’s been another bold line on a ledger of how consumable-heavy we currently are. Any other similar party, even of the same level, would have long since been reduced to knife work.”
+
+“In that case, if we’re sticking to that mindset,” Ayre contributes, “we probably shouldn’t be heading right into the final room. How many rooms do we have left?”
+
+Korrigan pulls her map out and pours her attention over it for a few long moments. “Well, there are at least four left to fill in the spaces we went around, then one to the west of the last room, and besides the boss room, this room has exits to the west and south, so that’s at least seven.”
+
+I do a quick room count myself as I look over her shoulder. “Hmm, no, that’s all of them. We may not know what’s in them, but we’ve seen enough to fill out all of the remaining rooms on the map.”
+
+Ayre looks, too, but frowns. “How can you be sure? There’s nothing keeping half of those from having even more rooms connected to them.”
+
+“But there is,” I insist with a grin and a finger up in the air. “To prevent a runaway memory error, I put a hard limit on the maximum number of rooms the dungeon could generate, remember? And it looks like it rolled the absolute maximum! Not counting the entry hall and the boss room, those seven rooms would bring us up to twenty-four rooms. It’s impossible for there to be any more than these!”
+
+The elf thinks that over, tapping a slender finger against a plush, peach lip just enough to smush it a little. “Then we could clear them out pretty quickly to completely clear the map if we’re confident, or we could poke around for one final safe room to make sure we’re as topped off as possible before the dungeon lord.”
+
+“Either way, then, we’re not heading right for the boss,” I say as I head for the southern door. “In that case, let’s see what’s behind Door Number Two!”
+
+And when I throw it open, I’m hit with an immediate aroma of creamy vanilla and cinnamon from a cheerfully steamy bowl of pale yellow.
+
+“Score!” I shout. “Safe room right by the boss, and it’s got custard!”
