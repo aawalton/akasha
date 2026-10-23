@@ -1,0 +1,235 @@
+Sancha and Ares named the little golem "Tolo" and even though Hogg never brought the golem to life again, the two of them still brought him up in a lot of their conversations going forward. They were hoping that it would end up as another of Brin's household servants like Bedelia or Jeeves. Brin thought faceless Tolo was kind of creepy, but apparently he was the only one. Sancha and Ares found Tolo far less menacing than Jeeves.
+
+Brin expected that the Cobol's rebellion would start soon now that Vitor's secret had been revealed, but nothing happened that week, or the next, and pretty soon Brin found himself living an ordinary school life, completely devoid of any more monster attacks or assassination attempts. He still felt like he'd just arrived at the Tower, even after three months had gone by.
+
+It was easy to forget the storm hanging over them when there were so many other things to occupy his attention. First, there was crafting to do. He assembled the pieces for a staff and began scribing the enchantments under Lumina's and Hogg's supervision, but his lack of experience made it slow going. He spent some time in the glass shop, improving his recipes and trying out different things he found here and there in the Tower. The [Stone Mages] in the Earth Circle had ideas on how to make rock stronger, and some of it applied to glass, mostly along the lines of alchemical treatments that could be applied after he'd formed its final shape.
+
+He'd also found a book in the library of the Circle of Illusions that detailed how to use light magic to improve the quality of glass. It had to be done while the silica sand was melting, which meant that Brin was back to making glass the regular way to get the best results. But now his glass was easily the equivalent of the chandelier he'd taken in Canibri. It glimmered like diamonds and took to his magic extremely well, whether he was moving the glass itself or using it as a focus for his Light.
+
+There were System rewards, too, of course.
+
+[Shape Glass] 50 -> 55
+
+[Summon Glass] 33 -> 35
+
+Marksi surprised Brin by sticking with him in the workshop every time he went there. He fetched Brin’s tools, monitored the heat with his more powerful senses, and let Brin know when he was using too much magic or too little. He also liked to create little glass statues of his own, using his laser breath to melt the glass. It wasn’t ever as good as the things Brin could make, but he supported the attempts with his full enthusiasm. It was good to see Marksi out and trying new things.
+
+Marksi also spent a lot of time in the garden under the Tower. He was insistent that a powerful dragon like him would never do something as mundane as picking weeds or watering seeds, but he came home with dirty claws more often than not. Brin figured that Almenesh’s reminder that the mother of all dragons was named “Gardener” had more of an impact than Marksi would admit.
+
+Brin’s experiments with [Transmute to Glass] only had a small improvement. It was going to be a while before it really came in handy for his crafting, but he made sure to practice it a little every day just so that it would get there eventually. In the short term, the most useful thing about it was that it could add an extra bit of pain to his laser attacks. The laser beam was already giving the required amount of heat and light, so he'd in essence get a free bonus: He'd be turning people's insides to glass after burning them. In theory. He hadn't gotten a chance to test it in battle yet, but it worked against wooden targets.
+
+[Transmute to Glass] 16 -> 20
+
+The majority of his gains came from [Commune with the Elements]. The continued lessons with Lumina helped him reliably turn daylight into Mana. When he combined that with the gains from [Amplified Casting], he could create illusions that created a feedback loop that made him think he might never need to use a Mana potion again, assuming the sun was in the sky.
+
+[Commune with the Elements] 1 -> 20
+
+With so many other things going on, he didn't spend as much time in the Circle of Illusions as he would've liked, but with the time he did have, he was able to get more lessons in how to use and repair Lightminds. He was able to get Badger to vicariously diagnose Hogg's Lightmind and fix the worst of the damage, for which Hogg was extremely grateful. It wasn't a perfect solution, though. Without light magic, Hogg's Lightmind would continue to degrade. He couldn't use Brin's glass Lightmind without glass magic, but they were hopeful he'd be able to get something custom enchanted that would activate with his Hard Light. The biggest difficulty there was that he was the only known user of Hard Light, and he didn't want to tell anyone that didn't already know.
+
+Fire, on the other hand, made a great progress. He could use it in duels without revealing his Light magic, and it was faster than glass. Just running Fire magic through his existing illusion spells gave him a few levels.
+
+[Summon Light through Glass] 63 -> 69
+
+[Summon Sound through Glass] 44 -> 46
+
+[Summon Fire through Glass] 8 -> 20
+
+He let Ares schedule some duels for him with the most eager of the other students, and he was pleased to know he wasn't completely behind on that front. [Fire Mages] were fast, but with Brin's own Fire and his Split Minds, he could often catch and dispel attacking fireballs while summoning glass javelins they had no defense for. [Air Mages] were hit or miss; they were just as fast as Fire and could often create barriers that he had a hard time cracking. He rarely dueled [Earth Mages]. They were too slow, like everyone said, but if he let them ramp up, they often overwhelmed him just by the virtue of the volume of the element they could push at him.
+
+[Water Mages] should've been a challenge. They had the flexibility of [Air Mages] and an element that hit harder. But Brin learned early on that he had an ace against them in the form of molten glass. It was more expensive than regular glass so he rarely used it, but when he flung a blob of lava at a shield of water, it exploded with devastating effectiveness. The [Water Mage] was forced to waste all their Mana trying to keep their water-turned-steam in place while the molten glass cooled.
+
+It would be even more effective against fleshy bodies, if a little cruel, and he hadn’t tested it yet. He almost hoped there would be another outbreak of undead so he could see how they dealt with blobs of molten glass that stuck to them like tar. True, molten glass wasn't naturally sticky, but that's what the Language was for.
+
+Magic was his fastest growing attribute, of course, closely followed by Mental Control, but he forced a half-hour workout into his morning schedule, just to make sure the Curse wouldn't drain any more of his Vitality than it already had. But even that problem was slowly solving itself.
+
+Strength +1
+
+Dexterity +2
+
+Vitality +1
+
+Magic +20
+
+Mental Control +15
+
+Will +5
+
+[Scarred, but Healing] rate: 458% -> 556%
+
+[The Death Curse of the Great Witch Arnarra] -85% Vitality -> -78% Vitality
+
+[Recovery] 21 -> 30
+
+[Poison Resistance] 15 -> 16
+
+If all of that wasn’t enough, there was also the Cult of Tenerer. Tim guided him through the life of Tenerer and the history of Nhamanshal and then Ithmal. He taught him the barest of the beginnings on how ancient Nhamanshalian technology worked, but Brin at least gained enough proficiency that Tim trusted a Cantoby in his hands. He even allowed Brin to purchase one, on order from the greater Cult’s hidden headquarters out in the countryside somewhere. Brin chose one that worked on gemstones, and it was a complete gamechanger for keeping the [Transmutationist's] working area clean and free of dust. They had to disguise what it was and how it worked, of course, but no one was fazed by the idea that Brin had obtained an enchanted tool that no one else but Hogg was allowed to borrow or use. [Mages] were touchy that way.
+
+Despite how much work he had on his plate, he also spent a guilt-inducing amount of time messing around with his friends. When he wasn't spending his afternoons with Sancha and Ares, it was weekends with Sion and Rhun. Once in a while, it was on something useful, like his business dealing with Sion, duels with Ares, or crafting with Sancha. He passed the safety quiz to get into the Earth Circle with a perfect score, and she'd been extremely knowledgeable about the crafting tools available and how to use them.
+
+But mostly they just hung out. Ares took them to [Illusionist] movies, Sancha liked to attend concerts and operas, Brin dragged them back to the fourteenth floor whenever he could to search for the ghost.
+
+More often than not, they just wandered the halls chatting about whatever fresh drama was going on with Vitor or Guoncal, but once in a while the ghost would make an appearance.
+
+When it did, it was always up for a game of chase or hide and seek. Marksi was pretty good at coming up with activities that would lure the ghost in and get it to have fun.
+
+They were limited in what they could do, because the ghost didn't seem to be able to move anything physically, just change the light and affect the temperature. That lasted until Ares posited the idea that the ghost could be able to learn to touch things with the same Authority control that Hogg used. The ghost must've overheard him, because that same day it started to be able to pick up small objects, and join them in playing with some marbles that Brin summoned.
+
+He always kept his Wyrd-senses attuned to it when it showed, and the more time he spent with it, the more he was sure that it didn't even know what it was. It was learning along with the rest of them.
+
+That lasted until the other students searching for the ghost gave it a name. Someone came up with the idea that it was the ghost of a young girl named Cecildis Lemaire, who'd died in the Tower along with her mother. They'd both drowned, in an accident involving an Aquarium on the floor where [Archmage] Elpidio's garden now sat.
+
+Brin dismissed those ideas at first, since he'd never gotten the sense that the ghost had a gender. But just in case, the next time he saw it he probed it with a beam of light and through the Wyrd got the strong impression that yes, it was female.
+
+That threw all of his theories right into the garbage. If it had a gender then it was either alive, or it was the echo of something that had at one point been alive. Now he didn't know what it was. All he knew for sure was that it was there, and it was getting stronger.
+
+That wasn't his only ongoing investigation. He also had to track down everyone that Monica had told about her Mind powers. That was a tricky situation, because no one liked talking about Mind magic, and he couldn't figure out who Monica might've told without spreading the secret even further.
+
+It was Bia who came through for him on that front. Once he told her what he wanted to do, she immediately agreed to help. "Why not? I get to help you avoid doing something you think is wrong, and I get to deny the Fire faction a valuable tool. This is an absolute win!"
+
+Monica had gone first to [Weaver] Taxia, who Brin thought might be in charge of the Circle of Fate. Bia assured him that she wouldn't need to be sworn to silence and Brin believed her. Monica had also told her roommate, who'd been the one to tell Bia. And so the chase began.
+
+The roommate had been all too happy to sign Brin's non-disclosure agreement in exchange for a silver capital, and she'd revealed that the other three roommates also knew, and she'd told three people besides.
+
+Brin and Bia cornered those eight ladies, and received five more names. The last of those was a [Grower] named Alicia, and she admitted that she'd figured out that Brin was giving away silver for the secret that she held, so she'd hurried and told ten of her friends before Brin could get to her so that he'd have to pay all of them as well.
+
+It took three months and thirty silver capitals to finally close the circle, and only Bia's quick reflexes and ability to ferret a secret out of someone from two floors away kept it from going even further than that. But he'd done it. Everyone who knew had been accounted for, and Brin didn't think anyone would break his agreement. If the threat of a lawsuit didn't deter them, the threat of Lumina's wrath certainly would.
+
+The last person on his list was Monica herself. So after classes, he set off to go find her at her dorm.
+
+The walk was short but pleasant. Nearest among the Tower’s outbuildings was the married student housing. Three rows of cheery townhomes stood surrounding a small park that was always full of the screams and laughter of very young children.
+
+Then walking past that, he reached the single women’s dorms. It was a drab, short, two-story apartment building where they packed the Tower's students in like sardines. He'd almost forgotten that these dormitories were even there at all; most of the students lived at home. Brin was too rich to live on campus, and Ares was too poor. Sancha might have been in the middle, but her family didn’t dare allow her that much license. For someone in her position, even the hint of scandal would be ruinous.
+
+Brin used Invisibility to enter the building and march up to the second floor, but had to let it drop when he got to the door. He knocked.
+
+One of Monica's roommates opened the door, but he could see that Monica was inside as well. The door opened to a common living room, kitchen and dining area, and it was about as messy as he'd expect from a bunch of teenagers living away from home for the first time.
+
+"Would you mind if I talked to Monica alone?" asked Brin.
+
+The roommate who opened the door leaned down to a curtsy. "Not at all, Lord Mistaken."
+
+Monica looked to her roommates in fear. "What? No! This is the women's–"
+
+But they were already exiting the apartment, no doubt already understanding what Brin was here for.
+
+“Absolutely not!” Monica insisted.
+
+Brin stepped inside. He briefly felt a struggle in the Wyrd as Monica tried to assert her authority over thread to tug at his hair. She failed, of course, and there was nothing else for her to touch. He was wearing Perris's leather today.
+
+"S-stay back!" Monica stumbled backwards. She began to unravel the sleeves of her dress, possibly to use as a weapon, but she wasn't as good at it as Myra had been at fourteen, and it looked more like fray than any kind of weapon.
+
+"I mean you no harm," said Brin. He didn't like playing the part of a horror movie monster, and his lessons with Martin had taught him that the irritation he was feeling was causing [Terrifying] to grow even stronger. He tried to push it down, and put as much calm in his voice as possible. "I just want to talk."
+
+She gave up on her thread and started pulling open drawers. She must not have used the kitchen much, because it wasn't until the third drawer that she found a knife.
+
+"Stop that," said Brin, and the sound of his upset voice made her drop the knife in panic. "Think about it. All of your roommates saw us alone together right now. If I wanted to kill you, literally any other time would be better."
+
+"Then... then you won't mind if I..." Monica withdrew a knotted ball of thread from her pocket.
+
+"If you what?" Brin asked, confused.
+
+She began to pull on the threads as if untying the knot, and the ball smoothed out into a flat section, which she hid with the back of her hand. Whatever she saw surprised her. She tied it into a knot again, then unraveled it twice more.
+
+Brin gathered she was doing some kind of Fate reading, and it didn't look good because at the last one the strength left her legs and she sat on the ground, hand on her mouth. "Then I... I'm not going to die?"
+
+Monica broke down in tears.
+
+Brin honestly preferred the fear, but this was probably a good sign. If she'd been reading her death in her Fate for the past few months and now finally it changed, he supposed she had a pretty good reason for the breakdown.
+
+It went on rather long, and he wasn't the best person for this. He got her a glass of water, a summoned glass so he wouldn't have to search their shelves, and had her seated in a chair at their little dining table, which was still covered with dirty dishes.
+
+"How?" she asked.
+
+"I had to close the loop," said Brin. He rattled off the list of people that she'd told, choosing to omit the long list of people her roommates had told.
+
+She nodded, eyes still red. "Taxia knows, too. And Martin. Neither will tell."
+
+He believed her about Martin, and would take her word for it with Taxia. He was pretty sure [Weaver] Taxia was the leader of the Circle of Fate, and you didn't survive that long as a fortune teller without knowing how to keep a secret.
+
+"Will you accept my Oath now?" she asked, looking cowed and solemn.
+
+"I don't want to. I thought we'd do this instead," said Brin, and withdrew some paperwork he'd prepared from his storage ring.
+
+He made her take the time to read it, but it was basically a lot of complicated language that said that if her Mind powers were ever again revealed, she would be required to swear an Oath of fealty to him.
+
+"Sign all three copies, please. One will stay with you, one with me, and one will be held in the First Bank of Steamshield," said Brin.
+
+"So it still comes down to an Oath?" asked Monica.
+
+"I thought that would be a suitable deterrent to getting yourself caught again," said Brin.
+
+"It will," she promised.
+
+"And if you do get caught, you can show that contract to prove you've already been claimed," said Brin.
+
+"Ah."
+
+"It's the best I could do," said Brin.
+
+"It's more than I could ever have expected," said Monica. He noticed that she didn't go so far as to thank him. He didn't expect it. Yes, he'd likely saved her life, but even without the Oath, she was directly under his thumb now, and she knew it.
+
+"I'm going to leave Steamshield. For a week or more. I don't want to be here for the Tower Festival," said Monica.
+
+Every year, the Tower did an open house, the one time a year where commoners could freely enter the Tower. The various factions and Circles did different things to entertain them. Some gave out candy and gifts to children, some put on shows, and some made games or activities. Even the Circle of Illusions was getting involved, and Brin had been part of planning the game in the labyrinth. The original plan had been to fight illusionary monsters with swords of light, but Brin had convinced them to alter it to shooting monsters with beams of light. He'd neglected to share his word for <Laser>, but they could get a pretty good beam even without it.
+
+"Why? What's going to happen at the festival?" Brin asked.
+
+"A lot! Many threads of Fate converge or diverge that day. As you'd expect from a grand festival on a major holiday, but for me, it's all too much," said Monica. She paused. "While I'm at it, I'm sure you know all about... I mean, how long has it been since your last reading?"
+
+Brin shook his head. "I don't have a good history with [Weavers]. No offence."
+
+"But other people are reading your Fate. Not knowing what they see puts you at a disadvantage."
+
+Brin knew he was being stubborn. Not going out of his way to talk to a fortune teller was one thing, but refusing one who was right here was another. "What do you see?"
+
+She pulled out her knotted ball of thread again, and began to pull. Even without her using one hand to block the view, he couldn't make much of the colors or shapes that presented itself. "Today your energy is ebbing. This isn't alarming; it's part of the natural cycle. Take the day to rest. It isn't a good day for inspiring enthusiasm in others."
+
+"Ok," said Brin. He didn't actually mind horoscopes or the like; it was a fun game to play, but he wasn't in the mood for it right now.
+
+"You will soon meet a family member you haven't seen in a while. Or perhaps ever? And. I'm sure you know this, but romance between you and anyone at this Tower younger than twenty years will fail."
+
+"You're right, I knew that," said Brin.
+
+"Everyone does," she said with a smirk, the first sort of smile he'd seen on her.
+
+"What do you mean?"
+
+"Well, you didn't think all those ladies were really in love with you, did you?" asked Monica.
+
+"Of course not," said Brin. "They're in like with me at best."
+
+"They know you'll never reciprocate, so that makes you safe to flirt with. By stalking you, they can avoid the men they don't like and inflame the jealousy of the ones they do. They're using you," she said.
+
+Brin smiled. "I'm the safe one? Oh, that's awesome! Thanks for telling me, Monica."
+
+"My pleasure," said Monica, though she was no longer smiling. She seemed a little disappointed that this news hadn't broken his heart.
+
+"Honestly, I think I just like the attention," Brin admitted. "Pretty strange thing to find out about yourself this late in life, but there it is."
+
+"You're late in life? You shouldn't be saying that to a woman who is unmarried at nineteen," Monica said crossly.
+
+“I guess not.” He turned to go. “Then if there isn’t anything else...”
+
+Monica grabbed his wrist. “Wait. Your Fate changed. Just now. Someone has made a decision.”
+
+“Who?”
+
+She shook her head. “You should get back to the Tower fast. Run. You should run.”
+
+Brin wanted to say he didn’t take much stock in [Weaver’s] tales, but that wasn’t true. Tawna had screwed his entire life up with how accurate her predictions had been. He didn’t think Monica was on this level, but better safe than sorry.
+
+He ran. Thankfully, the Curse had retreated enough that a simple dash across the grounds wasn’t even enough to wind him, though he ended up sweating more than he would like.
+
+When he reached the Tower, he wasn’t sure where to go or who to look for. Probably Hogg? He walked towards him on the way, but stopped when a man in pristine livery in the colors of the king stepped into his path.
+
+“Brin isu Yambul,” said the [Herald].
+
+“That’s me.”
+
+“On behalf of His Majesty, King Lancarote, I summon you. I am instructed to relay this message, ‘Tell him he’s not in trouble. A quick chat to clear the air.’”
+
+Brin’s entire body went cold. He’d nearly ruined everything talking to a princess. He was not ready for a king. He opened his mouth twice before he found his voice and said, “Do I have time to get changed?”
+
+The [Herald] smiled, mouth open, the way you smile when someone you don’t like asks the stupidest question you’ve ever heard. “Of course! Or I could run back and tell His Majesty that you’re busy.”
+
+Brin gulped. “I’ll go now.”
