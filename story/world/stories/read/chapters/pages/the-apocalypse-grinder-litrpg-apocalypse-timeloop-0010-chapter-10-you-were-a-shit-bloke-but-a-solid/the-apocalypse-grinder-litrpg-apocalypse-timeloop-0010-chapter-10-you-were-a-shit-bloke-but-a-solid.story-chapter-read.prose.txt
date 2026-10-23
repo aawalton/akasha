@@ -1,0 +1,137 @@
+Ronan stood over the rapidly dissipating corpse of the goblin shaman. It was the highest level monster he’d ever killed. It was easy.
+
+The same couldn’t be said for the five lesser goblin archers and the first sneering goblin shaman that stood at the opposite end of the fifteen by fifteen metre stone brick dungeon. Ronan’s heart, lungs, and belly burned with vengeful rage as he glared at the six disgusting, gnarled bastards.
+
+In Ronan’s eyes, these hideous and vile creatures were lower than wild dogs. It wouldn’t strain his conscience to slaughter them. Unfortunately, he would need to reach them first.
+
+That was a task easier said than done. While a single goblin archer could only fire so many arrows, five of them made quite the battery.
+
+Luckily for Ronan, he was no longer unguarded. He had a goblin buckler to protect his vitals from the sailing arrows as he charged forward.
+
+An insidious purple glow fell over his body as another curse of slowness was cast upon Ronan by the shaman. He felt the heaviness in his limbs dragging him down like shackles.
+
+Despite that, Ronan made quick progress. He’d been steadily pouring his free stat points into agility. The Ronan who stumbled against a single lesser goblin would have been long dead by now, but he was already a changed man. A warrior.
+
+Or perhaps a beast. He no longer cared. If it gave him the strength to kill the goblins he would become a monster just like them.
+
+You have been hit by [Lesser Goblin Archer Lv.8]!
+
+-8 Health [Piercing]
+
+You are [Bleeding]!
+
+-2 Health / second
+
+You have been hit by [Lesser Goblin Archer Lv.10]!
+
+-12 Health [Piercing]
+
+You are [Bleeding]!
+
+-3 Health / second
+
+You have been hit by [Lesser Goblin Archer Lv.9]!
+
+-15 Health [Piercing]
+
+You are [Bleeding]!
+
+-4 Health / second
+
+Notifications flashed in his vision like falling rain as arrows pierce the parts of his body that were unprotected. Ronan mentally willed them away as he drew closer to the goblins.
+
+When he was only a few steps away the goblin shaman screeched something while waving its crooked bone staff. The two lowest levelled goblins stared at each other and then glared at Ronan.
+
+They screeched and charged at him, tossing their bows aside as they drew daggers sheathed at their waists. Ronan grunted as he planted his feet into the stone floor.
+
+The first goblin yelled a garbled battle cry as it slammed against the shield, stabbing its dagger wildly around the edges. Another arrow pierced his shin, but Ronan barely felt its sting.
+
+He pulled back the buckler as the second goblin reached him. Before he had two of the ugly little pricks stabbing at his guts, he lunged forward and smashed the iron cap of the shield into the first archer’s nose.
+
+It connected with a satisfying crunch. Seeing the goblin’s blood spurt out made Ronan smile, but it was only the beginning of the battle.
+
+He followed the shield bash with a lightning fast kick to its groin that made it squeal. The creature fell to its knees but Ronan was unable to finish it off as its companion lunged forward to stab him in the torso.
+
+He dodged the strike but an arrow pierced him in the shoulder. He spared a glance at his health bar, realising he was being a little wasteful with his vitality.
+
+Health: 68/130
+
+While he’d gained a lot of health points through his level ups, it did not make him immortal. Yet, he was more than twice as hard to kill as the moment he’d been thrown into this shitty tutorial. And twice as good at killing goblins.
+
+No, he thought to himself as he smashed the shield against the other goblin’s chest, I’m at least three times better at pounding these ugly green gits to death.
+
+Another arrow struck him in the arm as he was mid bash, making his arm lock up. The goblin took advantage of that to stab him in the ribs.
+
+You have been hit by [Lesser Goblin Archer Lv.9]!
+
+-6 Health [Piercing]
+
+You are [Bleeding]!
+
+-1 Health / second
+
+You have been hit by [Lesser Goblin Archer Lv.6]!
+
+-11 Health [Piercing]
+
+You are [Bleeding]!
+
+-2 Health / second
+
+With a roar of pain Ronan unleashed a furious barrage of strikes against the goblin. It stabbed at him weakly, but its head was caved in before it could land another hit.
+
+He ignored the kill notification, whirring on the second archer as it snuck up on him. It had been screeching loudly, a poor attempt at an ambush.
+
+Ronan leaned to the left as the goblin slashed its dagger at his guts. The goblin snarled and ripped the blade upwards to catch his chin, but instead found a rounded iron stud buried in its ear.
+
+The broken eardrum squelched as he tore the shield out. The goblin squealed like a pig as he smashed his fist into its gut.
+
+It doubled over and he gripped the shield in two hands, bringing it down like the blade of a guillotine on the ugly monster’s neck. With a snap, he was rewarded with another kill.
+
+Health: 29/130
+
+Those had been the lowest level goblins of the bunch. They weren’t enough to provide him with the sweet rejuvenation of another level up.
+
+Ronan glared defiantly at the cackling shaman as it raised its bone staff once more. A red glow shimmered across the remaining archers. Two of them had arrows nocked and pointed at his head.
+
+There were only a few paces between Ronan and his foes. He wasn’t sure he could kill one before he bled out. Two and a half seconds were all he had left.
+
+With a desperate yell he twisted his spine as far as it would go, the shield held in his outstretched hand. An arrow thudded into his hip and he bit his lip.
+
+You have been hit by [Lesser Goblin Archer Lv.8]!
+
+-9 Health [Piercing]
+
+You are [Bleeding]!
+
+-2 Health / second
+
+Iron exploded in his mouth as he grunted, unleashing the pent up force as he launched the shield at the cackling goblins with the force of a cannon. It had barely left his hands when he stomped the ground, cracking stone as he burst forth like a missile in its wake.
+
+The first goblin archer died before it knew what happened. Ronan’s shield smashed into the side of its head after he shattered its bow. The crunch of its skull against the stone bricks began the final second of his life—a feeling that was becoming too familiar for his comfort.
+
+He span on his feet, raising his knee to his chest and then exploding outwards like a loosed spring. The goblin screeched as he caved in its chest, but it stayed on its feet.
+
+He heard a whoosh of air and ducked, every sense stretched to its limit. The movement of the air, the shifting of feet, the vibrations of the stone. He wasn’t omnipotent, but endlessly dancing the line between life and death had already begun carving a warrior from the former office worker.
+
+His spine curled back on itself. The shaman’s swinging staff of bone would’ve shattered his skull. Instead it broke the third archer’s arm with a sickening crunch and a piggish squeal.
+
+Health: 8/130
+
+Ronan had gathered quite early on that while bleeding damage was displayed as a single number, it did not drain in chunks after each second. Instead it gradually dripped away. He imagined it would be a torturous way to die if one was poisoned and alone.
+
+These little green fuckers had made him into a loner. Keith’s body still lay on the other side of the room, mangled and bloody. Ronan snarled and planted his back foot before his hips twisted with the weight of an unrelenting savage behind them.
+
+Flame ripped into his gut as the goblin’s dagger sunk into his flesh. The burn twisted Ronan’s face into a grimace, but it was a weak thrust.
+
+At the same moment his fist buried itself in the goblin’s chest. It was already caved in from his shield bash. His punch broke flesh, ribs bursting through green skin with a squelch.
+
+Without checking the notification that blared in his blurring vision, Ronan knew he had earned himself a second wind. Life filled every inch of his veins, flowing from an unseen place.
+
+He didn’t know what mystical power the system used to restore his broken and battered body each time he leveled up, but he was grateful for it. With this power, he would deliver justice to the final two goblin bastards.
+
+When he turned on the goblin shaman and the final lesser goblin archer, he found the former with bloodshot eyes as it screeched and hissed with garbled words that resembled no language he’d ever heard, while the latter writhed and convulsed as its eyes rolled back into its head.
+
+So far the shaman had used a spell to buff the strength of the goblins, the curse of slowness, and the strange green shimmering magic. This wasn’t any of them.
+
+Whatever it was trying to accomplish, Ronan wasn’t going to stand by and allow the shaman to have its way. With a vengeful battle cry imbued with his rage and desire to slaughter his foes, he charged.

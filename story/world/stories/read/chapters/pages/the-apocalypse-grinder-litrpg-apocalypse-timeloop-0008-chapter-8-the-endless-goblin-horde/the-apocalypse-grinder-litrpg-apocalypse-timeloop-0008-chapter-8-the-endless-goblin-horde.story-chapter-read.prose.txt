@@ -1,0 +1,181 @@
+Ronan was caught off guard by the sudden appearance of a third lesser goblin warrior. He’d been standing right beside the archway bearing the sword and shield symbol when he’d slaughtered the lv.5 warrior and caught in his wordless exchange with the archer.
+
+He snapped the arrow’s shaft and ripped the tip from the back of his shoulder, wincing as he did so. Ronan spared a brief glance at the hit notification and the rewards for killing the goblin, frowning when he realised he hadn’t levelled up.
+
+You have been hit by [Lesser Goblin Archer Lv.6]!
+
+-12 Health [Piercing]
+
+You are [Bleeding]!
+
+-2 Health / second
+
+Ronan realised that bleeding damage was a real problem in this stage. The other stages had been fine, as he could push his way through to finish the enemies off.
+
+Here however, with the powerful shaman controlling the battlefield and far too many goblins to mindlessly pound to death, he would need to ensure he took as few arrows as possible.
+
+That was easier said than done. The new archer loosed an arrow alongside the first and he was forced to weave around them both.
+
+You have killed [Lesser Goblin Warrior Lv.5]!
+
++6 Copper Credits
+
++1 [Pugilist] Mastery
+
++1 [Shield] Mastery
+
++Lesser Goblin Ears (Common)
+
+He dismissed the kill notification and narrowed his eyes. With the number of goblins and their steadily increasing levels—the new archer was lv.7 and the new warrior the same, confirming his theory—he might be able to stay alive through constant levelling.
+
+That wasn’t a perfect plan, as it would slowly become harder to gain experience, but it would have to be enough. He dodged the new goblin’s sword thrust and returned with a heavy kick to its shield.
+
+He heard a satisfying crunch the next instant and turned to see Keith straddling a dead goblin, the monster’s own sword clutched in Keith’s hands as he panted heavily. He had a wild grin on his face as he turned to Ronan.
+
+“Did you see that? I fucked that little goblin up,” he wheezed.
+
+“Nice one, Keith. Now do that again about five or six times and we might just live through this,” Ronan replied, grunting as he dodged another sword slash and a whistling arrow.
+
+He was glad he’d made the decision to invest all his free stat points into agility. It was really starting to pay off.
+
+As he’d suspected from the beginning, the real trick to fighting was to get hit the least while hitting the other guy—or in this case, goblin—the most. Simple as.
+
+With the addition of the goblin greaves, his kicks packed a hefty punch. Each one sent the warrior staggering back. However, this one was the highest levelled warrior so far and withstood the blows staunchly.
+
+Unfortunately for it, Ronan and Keith only had a single opponent now. They combined forces and unleashed blow after blow on the warrior until it was just a crumpled pile of green flesh.
+
+Keith yelped as an arrow struck his thigh. Suddenly a purple glow fell over both of them and another goblin appeared from the warrior archway.
+
+You have killed [Lesser Goblin Warrior Lv.7]!
+
++8 Copper Credits
+
++2 [Pugilist] Mastery
+
++1 [Shield] Mastery
+
++Lesser Goblin Ears (Common)
+
+You have leveled up to Lv.4!
+
+You have been restored!
+
++1 Vitality
+
++1 Endurance
+
++1 Free Stat Point
+
+You have been inflicted with [Curse of Slowness] by [Goblin Shaman Lv.10]!
+
+[Lesser Goblin Warrior Lv.8]
+
+Ronan felt the soothing wave of healing wash over his body as the level up restored him to perfect health. He’d taken a few arrows while bringing down the warrior and his health had begun to tick down worryingly fast.
+
+Keith also leveled up, healing him from the crippling shot to his thigh, among other cuts and bruises. Ronan didn’t even think and tossed the free stat point into agility as he rolled to the right.
+
+The lesser goblin warrior’s sword clanged against the stone tiles and it screeched in annoyance. Instead of striking at Ronan again, it charged at the kneeling Keith, raising its blade once more.
+
+Keith threw himself away but the sword still caught his calf, carving a deep wound across the flesh. The man cried out in pain as the goblin cackled.
+
+Ronan frowned. That should’ve been easy to avoid. The shaman’s curse of slowness was insidious. Even as he thought that another purple glow fell over their bodies.
+
+You have been inflicted with [Curse of Slowness] by [Goblin Shaman Lv.10]!
+
+[Curse of Slowness] stacks with itself, amplifying the existing effects!
+
+Ronan cursed. He raced towards the goblin warrior, ducking as another arrow whistled towards him. As he stood up yet another arrow struck him in the forearm.
+
+You have been hit by [Lesser Goblin Archer Lv.7]!
+
+-8 Health [Piercing]
+
+You are [Bleeding]!
+
+-1 Health / second
+
+Glancing upwards he saw that there were now four goblin archers standing around the shaman, all cackling spitefully. He clenched his jaw and crossed the rest of the distance between himself and the warrior.
+
+It was already swinging its blade again as Keith struggled to his feet. Ronan threw himself between the two and caught the sword on his forearm.
+
+Blood trickled from the wound, but the goblin’s eyes went wide as Ronan reached out and clenched its skull in his palms. It squealed like a stuck pig as he squeezed with all his strength.
+
+The goblin’s hard head resisted the force. It kicked and clawed at him, drawing blood with every scratch. He ignored it, smashing a knee into its gut.
+
+It fell limp a second before its head burst in a shower of blood and brains. An arrow whizzed through the red mist and struck Ronan in the chest.
+
+You have been hit by [Lesser Goblin Archer Lv.9]!
+
+-19 Health [Piercing]
+
+You are [Bleeding]!
+
+-4 Health / second
+
+He stumbled backwards coughing blood and blinded by gore. He wiped the remnants of the dead goblin away along with the kill notification that distracted him.
+
+You have killed [Lesser Goblin Warrior Lv.8]!
+
++11 Copper Credits
+
++2 [Pugilist] Mastery
+
++Lesser Goblin Ears (Common)
+
+How the fuck are we supposed to beat this stage? he inwardly cursed the system. Even if I had a professional cage fighter as a partner instead of Keith, I don’t think we could take all these little pricks down.
+
+The fifth warrior had already spawned while he was fighting. It glanced at the corpses of its brothers strewn across the tiles and hesitated.
+
+A red glow fell over its body as the shaman screeched an order at it. Despite the nervousness written on its face it advanced towards Ronan.
+
+The situation was grim. However, a faint spark of hope had revealed itself in the darkest moment of the challenge.
+
+As the fifth lesser goblin warrior spawned, the arch bearing the sword and shield symbol rumbled. An iron portcullis slammed down into the ground, sealing it shut.
+
+Five lesser goblin warriors. Was that the limit of the challenge? Ronan had worried that it might summon infinite goblins, but it seemed he didn’t have to fear such monstrous odds.
+
+This was only the normal difficulty of the tutorial, after all. He wondered what sort of madman would dare to take on the next level. There had to be some bastard crazy enough out there in the world.
+
+If they survived, how bloody strong would they be? He couldn’t follow that line of thinking for long, the constant twang of bows snapping him back to attention.
+
+Arrows whizzed across the room in a hail of death. Avoiding them all was impossible. Keith did an admirable job but he was being peppered with them.
+
+Even the healing of the last level up wasn’t enough to save them. Another portcullis slammed shut behind the goblin archers as the fifth one walked out to join the ranged attackers.
+
+They now had a clear end goal in sight. With that, Ronan felt his strength surge anew as he rushed to face the final goblin warrior.
+
+He eyed the archway that the shaman had come through, noticing that it was still open. Were they to face five of that impossibly tricky bastard? Surely not…
+
+He couldn’t think about that. The lesser goblin warrior was five levels above him and he found himself matched in strength.
+
+Ronan won out in speed though, which allowed him to eventually land a devastating kick to the goblin’s gut. It doubled over with a screech.
+
+It recovered fast, its arm lancing towards him in a killing thrust. Ronan saw it coming and dodged to the side, grabbing the goblin’s skinny arm and smashing his flat palm against its elbow.
+
+A piercing screech rang in his ears as the goblin’s bone snapped in half and pierced through the inside of its elbow. He pulled, ripping its forearm cleanly from its bicep.
+
+In a display of primal savagery, he stabbed the lesser goblin warrior through the throat with its own radius bone. It died choking on its own blood.
+
+You have killed [Lesser Goblin Warrior Lv.9]!
+
++12 Copper Credits
+
++3 [Pugilist] Mastery
+
++1 [Spear] Mastery
+
++Lesser Goblin Ears (Common)
+
++Goblin Buckler Lv.9 (Common)
+
+You have leveled up to Lv.5!
+
+You have been restored!
+
++1 Vitality
+
++1 Endurance
+
++1 Free Stat Point
+
+Ronan heard the sudden whistle of an arrow. Raising his eyes he saw it was flying right at his head. If it struck it would kill him on the spot, or soon after. He panicked for a moment, then his eyes went wide as he glanced at the notification hovering in his vision.
