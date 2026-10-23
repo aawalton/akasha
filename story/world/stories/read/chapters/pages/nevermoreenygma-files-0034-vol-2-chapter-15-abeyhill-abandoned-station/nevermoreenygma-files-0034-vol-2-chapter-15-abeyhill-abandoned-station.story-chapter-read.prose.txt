@@ -1,0 +1,103 @@
+Chapter Fifteen Abeyhill Abandoned Station
+
+Grant sighed and stubbed out his cigarette in the pocket ashtray. "Shit," he said angrily. "Seriously there's nothing at all?"
+
+"Nope. Nothing at all," Stuart nodded, as he finished running a fingerprint and particle reader across the driver and passenger seats.
+
+The reader projected a holographic image of the IDs of everyone who had ever touched the vehicle. Nothing out of the ordinary jumped out, and all the IDs came from members of the police forensic teams. Grant had hoped that one of the IDs might give them some insight into who had taken Sil Moore's body. The vehicle's security cameras had been disabled as well, and the last recording was from the time the two fakers had boarded the vehicle several hours earlier.
+
+The detective turned away from Stuart and walked a few feet to the ambulance near where the two forensics, who had been found passed out in the van, were being treated. Fortunately they had no injuries beyond the shock of what happened. Be that as it may, at least it was something to be happy about, even though the criminals had fled with the body.
+
+Still, Grant couldn't shake the feeling that something wasn't quite right about the whole thing. If indeed those who had stole the body were the same ones who murdered the girl, they had gone no further than putting out of action the two forensic experts found in their apartments first, and then lulling the other two to sleep with the grenade. The profile didn't quite fit. Or there was something else that was escaping.
+
+"Gentlemen, are you sure you didn't get to see anything else from the attackers?" Grant asked them both, as a medic checked the vision of one of them.
+
+"No Inspector, it was all too quick," one of them said.
+
+"I think we got a few blocks away from the building, when we heard the front sliding window open and saw something fall out of it."
+
+"Then we heard a detonation, light and smoke. That's the last thing I remember."
+
+"Me too," said his partner. "Then we woke up to the shaking of the constables who found us."
+
+"Inspector, these men need rest, they're still in shock," the paramedic interjected.
+
+"All right," Grant said, sighing and walked to the other side where a couple of policemen were looking at some footprints on the flattened grass. "Any luck around here?"
+
+"No, sir. Too much grass. But, whatever vehicle was here, must have been here for quite some time judging by the indentations in the mud and the crushed plants."
+
+That was bad enough. In another time it would have been easy to follow the vehicle's tracks because of the type of tire on the ground and pavement. But the place was devoid of almost any security and an out-of-line vehicle could easily disappear on the magnetized road. Running a reverse parameter to detect out-of-line vehicles was an option, but everything was happening so fast that it was likely the criminals would be out of town by then.
+
+Grant walked back to where Stuart stood snorting. The redhead fey was in the back of the van, scanning the edges of the doors and the interior, but he didn't find any unknown prints, or that would fit into the database profiles of known criminals. The body bag also had a tracking device, apparently the thieves had also taken care to disable it at some point.
+
+Another forensic scientist was in the back of the van, checking the remains of the grenade tube and looked at Stuart. "Excuse me? Can you look at this?"
+
+Stuart looked at him, twitching his ears. "What's it?" he asked.
+
+"Sorry if I'm wrong. But this is one of yours, isn't it?" the forensic asked, holding up the grenade tube.
+
+Stuart looked at it quizzically and walked over, climbing into the back. The black perforated grenade tube was semi-destroyed, but on one side several numbers could be read, along with a distinctive sign Stuart knew all too well.
+
+"Oh, shit. Yeah. It's of defense division manufacture," he said and ran his scanner over the numbers.
+
+Almost instantly some numbers and technical information regarding the device popped up. The stun grenade was a non-lethal weapon, though it differed from its older counterparts. Incapacitation was assured for someone who was not wearing an outfit to deflect the sound wave, caused by the explosion, or a mask to counteract the effect of the smoke. But that was not what caught Stuart's attention. What caught his attention was the red color that appeared in the inventory, where the grenade was located. It appeared to have gone missing the previous year, along with other weapons during an operation in Turkey. Stuart quickly looked up the information about it the, and his eyes widened when he saw the date and the name of the Dark Event where it had disappeared.
+
+[AsharISin]
+
+"Let them pull my ears," he said in surprise. This thing disappeared in the mission against the guardian of the Other Side. How is it connected to these guys?"
+
+Stuart scrolled through the supply reports on the mission in Turkey and there he found that the part of the arsenal to which the grenade had belonged had disappeared from a tactical armor-truck, later found abandoned several kilometers from where the battle had taken place. There was no report of who had stolen the vehicle, which belonged to one of Nevermore's agents on the scene. Stuart clicked his tongue in disgust. Maybe he could have found a clue, but he didn't blame the fact that it wasn't in the report either. He'd heard that case had been a headache for the authorities.
+
+"Anything interesting?" Grant asked, snapping him out of his thoughts.
+
+"I feel a little bad about this," Stuart replied, pointing to the grenade.
+
+"Why?"
+
+"It's ours. It's part of an arsenal that went missing last year in another country."
+
+Grant frowned. "You people don't have tracking for those?"
+
+"Deactivated."
+
+"We're back to square one."
+
+"Yep," Stuart admitted in disgust, getting out of the van and taking off his latex gloves.
+
+It was well past midnight, and he had been going back and forth all day with his team. He wouldn't admit it, but he felt tired. He stepped back a bit and watched the police do their job while on his Neurowire he rechecked all the data they had gathered over the course of the evening. Something was slipping away. Nothing is perfect, there has to be a thread that is tying this all together.
+
+Stuart went through all of Sil's data one more time. The lack of Neurowire compromised too much of what they might know, but there had to be some way to find out what was going on. Why had the girl made all those adjustments to her body? And why exactly had she put obsolete memory databanks in her vertebrae? Stuart ran down the list of information that was in the banks. He was going to have enough for weeks with the encrypted information.
+
+As he looked at the list. He noticed something he had almost forgotten.
+
+Of all the applications Sil had used, there was one in particular that had no firmware security. And what was more, it was the only one that was green at the time. When he had checked earlier, it appeared offline along with all the others.
+
+Affinator. What is this thing?
+
+It was a little strange that this application appeared activated. The central control of all applications that could be installed on the Neurowire depended solely on the root directories. Unless a user indicated for some special reason that they wanted to leave control somewhere else outside of the central core. Sil had external memory banks, it was just possible that she didn't want to overload her Neurowire with applications due to the amount of data she was processing. Without the head, that application should not be green.
+
+Stuart poked around in the controls, looking for the reason why and, after a couple of minutes, he found something else. The ping of the signal with the coordinates, where the application had just been activated, only an hour earlier.
+
+[DNEXXGR454323. 55°59'21.00" N, 3°11'5.72" W]
+
+"We've got them!!!" shouted Stuart, unable to contain his joy.
+
+Grant, just a few feet away, gave a gasp that made him drop his new cigarette. "What? What happened?"
+
+"These guys, they have activated a subroutine of one of the applications the victim was using?"
+
+Grant was unaware of what Stuart had been doing and looked at him in surprise. "Can you trace it?"
+
+"I already did. It's an abandoned harbor near a park, and there's an old lighthouse. It's two miles from here."
+
+"They're very close. Did you say abandoned harbor? North of here?"
+
+"Yep."
+
+"What are you waiting for? Let's go!" Grant exclaimed and then looked at the coppers on the scene. "I need backup to go to another location? Who's coming?"
+
+A few police officers looked at him and raised their hands. There were six officers in all, counting him and Stuart. Grant informed headquarters, and ordered them to activate their bulletproof vests. They didn't know what they might encounter.
+
+Stuart climbed into the front this time and looked at Grant. The old detective looked at him and smiled. "Here we go."
+
+They were both unaware that just a few hundred yards away from them, the other team was trying to catch the fantastic pup made of mirrors.

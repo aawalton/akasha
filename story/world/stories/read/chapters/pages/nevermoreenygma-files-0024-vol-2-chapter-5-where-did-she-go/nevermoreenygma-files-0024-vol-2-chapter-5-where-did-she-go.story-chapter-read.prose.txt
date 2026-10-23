@@ -1,0 +1,269 @@
+Chapter Five
+
+Where did she go?
+
+"There's nothing," Zi said, disappointed.
+
+After a couple of minutes of fiddling with the Neurowire, and with the tablet, Jim Stuart managed to crack the configuration system Sil Moore had in the apartment and return the mirror to its real size.
+
+The fake mirror at the other side also disappeared from the room, but they found no decapitating ninja assassin behind it either.
+
+"They must have used a distortion to get it into the room. This thing is bigger than the door," Philip snort.
+
+"Do you want me to deactivate the SSD as well?" Stuart asked the forensic team.
+
+"We already have all the measurements and holographic scenarios," said the forensic coodinator. "But it's not convenient. We've already had problems with cases like this with altered spaces. If you miss one piece of evidence then you'll get blamed and none of the evidence will hold up in court."
+
+"Yes. That's happened to us too," Philip admitted.
+
+"With MAPs emission, it's not safe to have an open distortion space. There is a danger of molecular decohesion," Zi pointed out.
+
+"That's right. That's what I've just been told," Walter Grant said, reentering the room. He spent the last few minutes talking to his superiors and he just received another message from the headquarters. "We can't. The City Council, on the recommendation of SIGN, Nevermore Station Staff, and three other security agencies, recommended that the SDD be deactivated immediately, once evidence collection is complete. The people in the Parliament don't want to take any chances with that MAP stuff."
+
+"Well, good for it, we just finished that," the forensic coordinator said.
+
+"Yeah… but. Make backups of all the virtual scenarios," Grant ordered.
+
+The forensics team looked at him. The young woman who was in charge of the drones also looked at him. "Sir, do you want us to do another extra sweep?"
+
+"Yes, please," Grant said. "I know it's a pain in the arse, but we'd better be sure. Once we close the SDD the scene will be completely modified."
+
+"Yes, sir," the coordinator said, and went back to giving orders to the entire evidence team.
+
+The new drone sweep took another half hour. In that time the forensics team catalogued the evidence that was placed in heat-sealed containers and cross-referenced the data with the different locations of each item. They were then placed in special evidence cases, which could store everything collected in a small space, no bigger than a briefcase, as the cases and mobile labs had a fractal compression mode.
+
+"Shin would have liked this one. He's a field study maniac," Zi said.
+
+"Shin? What about Mai? Chances are if you told her this had to do with anything to do with dance and music, she'd slip through Virg's fingers and we'd have her here in no time."
+
+"I guess you two heard about Kazakhstan, right?" Stuart asked.
+
+"It has been all over the news…" Zi sighed.
+
+"What was it this time?"
+
+"We don't know," Philip replied. The truth is that no one has much idea what happened, a matter classified as national security.
+
+Grant, who was close enough, pretended to check on the team as he listened intently to the conversation. Although he didn't hear anything else.
+
+Zi, who realized that Grant was listening in, sent a message in a direct chat window to Stuart. [You say another word and I'll rip your ears off... don't you realize they're listening in?]
+
+[It's not like it's a secret. You said it. It's all over the news.]
+
+Philip was the one who jumped into the chat window. [The only thing the public knows is that it was an accident and that Nevermore is providing assistance. Not that there were two of our people involved. Please keep working]
+
+[What's our boss thinking?] Stuart said.
+
+[There were no casualties, that's at least something.] Zi remarked.
+
+[Work, work, boys,] Philip snapped, calling a halt to the matter.
+
+Grant gave up on picking up any more of the conversation, when the forensic coordinator and the medical examiner approached and informed him that they were going to move the body to the van, and from there to MCIT. The evidence gathering was over and so was the new sweep of the drones re-scanning the site.
+
+After placing special bags on the limbs, Sil Moore's headless body was carefully placed into the special body bag with handles. Closed, sealed and labeled to be opened by the MCIT morgue medical examiner. Unfortunately they would have to use the stairs to get the body bag down, as the elevator was still out of service. They activated an extra layer of invisible metamaterial from the bag that helped hide the bulk of the body, that helped not to raise the stress level on the streets.
+
+"Your agents are going to work with ours, right?" Grant asked.
+
+"Yeah, sure. Those are the orders," Philip affirmed.
+
+"Do you want me to split up the teams, or can you come with me?"
+
+"Here we go," Philip said and then looked at his partner. "Zi, you coming down?"
+
+"I'll be there in a little while," she instructed him. She was with a couple of other FRT techs and one of the forensic graphic artists, who was in charge of recording the entire scene. "They're still doing the last MAP decay measurements before shut down the SSD."
+
+"I'm going downstairs with the inspector."
+
+As they descended the stairs, with those in charge of removing the body, Grant spoke. "How do you want to do this?"
+
+"Our techs can examine the samples and yours can do the double check. Or the other way around. At the moment we are most interested in studying the presence of the MAPs, and why they were in the room," Philip said.
+
+"What do you think this was?"
+
+"Honestly, I have no idea yet. It's the first time I've seen a body decapitated like that. But I have no doubt it's a Dark Event. At first I thought it might just be domestic violence, but the presence of the MAPs changes everything. This could have to do with some kind of event that we don't know about and someone has beaten us to it."
+
+"They may have wanted to steal some information that this girl had. Whatever information she may have been moving was interrupted when they cut off the head. Without the NW we don't know what it could have been."
+
+"She worked with the station's security systems. The possibility that they may have wanted to steal some information regarding the subway city transportation systems is something that can't be ruled out."
+
+Grant paused and looked at him. "Do you think this is the work of terrorists?" he asked.
+
+"It's a little early to think that, but it can't be ruled out. Why, what do you think?"
+
+"I was talking to some of the neighbors, and the coppers passed on to me the conversations they had with the residents. This girl had no enemies, no bad dealings with anyone. At the moment we don't have any suspects. And in case this was something related to terrorists we should notify TACPOL."
+
+"From the network data, her stress levels were always at an acceptable level as well. No altercations with the police, or any allegations that she was being harassed either."
+
+"Except, for those times when she turned off her NW."
+
+"Do you think she was hiding something?" Philip asked.
+
+"I don't know. I think we can rule out cash robbery or theft of personal items. Apparently that's all in order. If they wanted to steal the money it would have been a lot easier, they would have done it yesterday. Whoever did this was looking for impact, wanted attention."
+
+"Well, I'd say they succeeded on that."
+
+"There's that data she was transmitting to the portable units too."
+
+"Yes. At the moment that's the only strong lead we have. Although we're going to have to wait for digital forensics and techs until they tell us what she was doing with that data… or what it means."
+
+"I think it's going to be a long night," Grant sighed.
+
+Zi looked toward the door. The voices of her partner and the inspector had been lost to the lower floors. There were barely eight people left in the room. Two of the forensic acousticians who were studying Sil's custom parametric acustic chambers, two cops at the door, Zi, Stuart, and a couple of the other FRT techs.
+
+The technician with the strange antenna on his forehead and wide mouth approached her. "Ma'am. Decay levels are in acceptable range to shut down the SDD. "His voice sounded somewhat metallic, though there was no sign of any implants or anything similar.
+
+"Are you absolutely sure there's nothing wrong with shutting down the SDD? I don't want half the building disappearing with us in it."
+
+"It's safe, ma'am."
+
+"Okay, well that's where we're going then," Stuart said.
+
+Zi didn't get to notice, but the two policemen moved as far away from the door as possible. The forensic acousticians backed away as well.
+
+Stuart typed some commands into the room's cracked control program. The room slowly began to recede in length and width, as the extra windows disappeared. Luckily there was nothing unexpected. Stuart wasn't going to admit it, but he had worked up a sweat trying to get the parameters to run the program right. Like the acousticians, he was still amazed at the complexity of the program routines that Sil Moore had developed. There were much easier ways to do it, but the young woman had written the processing codes from scratch.
+
+"Well, that's it?" Zi asked.
+
+"That's it," another of the FRT techs said.
+
+"How anticlimactic." Stuart pointed out.
+
+"I'm glad it's anticlimactic. What did you expect? Explosions?" Zi asked.
+
+Stuart seemed to have it in for her. "You know I wasn't going to admit it, but you're not at all what I was told. I thought you had changed. And I don't want to pass up this opportunity to tell you that."
+
+Zi raised an eyebrow. "Excuse me?"
+
+"I know who you are. You were in the FRT Unicorn before you became a special agent, right?"
+
+"Yes, anyone can know that."
+
+"You don't remember me?" Stuart asked.
+
+"Sorry, your face doesn't ring a bell."
+
+"Sixteen years ago we were on a joint operation. You almost blew my brains out with your rifle," Stuart growled pointing an accusing finger at her.
+
+"I remember a lot of operations," Zi lied. She remembered the operation Jim Stuart was referring to, and even recognized it as soon as she entered the place. Although her memories of the event she had were a little different.
+
+"The invasion of polar tarantulas in Norway? Does that ring a bell? Do you remember it?"
+
+Zi, changed her usual poker expression and feigned surprise. "Ohh! Yes, of course. Now I remember you. You're the ass who blew up an entire warehouse of hazardous materials, because you panicked and the EXFIL was delayed for fifteen minutes."
+
+"I was still green, I was in a panic."
+
+"You'd had six months of training on the island. And if I hadn't shot, you would have been dinner for one of those spiders." Zi changed to a more menacing expression and approached Stuart. "And remember I'm your superior, point your finger back at me again, and I'll bury it in your ass."
+
+Stuart squinted at her, but said nothing more, merely grumbling to himself.
+
+The FRT member with the antenna on his forehead approached Zi and looked at her with doubtful eyes. "Ma'am, can I ask you something?"
+
+"Yes, sure."
+
+Zi, looked at him, and rechecked his ID. The fey's name was Portman and, like her, he didn't have a last name. Some feys preferred to simply have a first name without a last name, although some members chose a last name as extra identification.
+
+Portman approached Zi and whispered. "I apologize if I'm wrong but do you by any chance suffer from Crossroads Syndrome?"
+
+"How do you know?" Zi asked, surprised, raising an eyebrow.
+
+"Chief Stuart suffers from it too."
+
+Zi turned to look at Stuart. He looked at her in surprise too, but only added, "Well it still doesn't take away from the fact that she almost blew my head off."
+
+"That explains why I never liked him," she sighed and folded her arms. "Still, how did you know?"
+
+Portman pointed to his antenna. "I'm half empath," he said, smiling with his outsized mouth.
+
+***
+
+"One, two, three!" Said one of the coroners and they carefully lifted Sil's body into the back of the van, closing the double doors afterwards.
+
+The people on the streets, with the exception of the residents of the building, had been slowly disappearing. The cops in charge of guarding the holographic barrier deactivated them, at which Stan and fake Ann looked at each other and smiled. It had been a piece of cake. They had a couple of forensics guys in the back riding with them, but that wasn't going to be a problem.
+
+Ann started the vehicle and without further ado the two thieves drove away from the scene, getting lost among the other vehicles on the road.
+
+Grant and Philip, without suspecting anything, stood for a few seconds as they watched the van drive away.
+
+"Your agents have that special van for analysis, don't they?" Grant asked.
+
+"Yes, but the protocols say that in case of MAP and other types of dangerous particles any analysis must be carried out under in laboratories without any kind of distortion. Compression does not affect that, since it is another type, but a distortion can cause some unforeseen. It hasn't happened more than a couple of times, but that's still what the protocols says." Philip admitted.
+
+The forensics and FRT members meanwhile were loading their instruments into the appropriate vehicles and a burly special surveillance robot had arrived on the scene. It was to be the one that would be stationed at the entrance to the room to guard the crime scene once everyone had left.
+
+Because of what had happened, it was determined that for the next forty-eight hours no one would go up to the floors as a security measure. A force shield was being put up by another team to protect the site in case of any unexpected events. During that time the residents would be divided into groups and moved to the buildings across the street.
+
+The city council would bear the costs of the inconvenience, so at least the occupants would have no complaints about it.
+
+Philip communicated with Zi. "Are you coming down? We'd almost have to go with the forensics team."
+
+[We're already finishing up here,] Zi reported.
+
+The sixth floor team was already finishing packing up, ready to leave. Meanwhile Zi and Stuart continued talking. Now, that they both knew that the reason they disliked each other had nothing to do with their personalities, had somewhat relieved the tension in the room. It was simply a side effect that some feys contracted on the Other Side. A kind of involuntary animosity that some feys felt for others like them. There was not much data about what produced it, since their memory was erased once they returned to earth. It could be something from the Other Side or something more instinctive. But, even so, it was uncommon, and the cases discovered were too few to reach definitive conclusions about the strange phenomenon.
+
+Stuart looked at Zi, behind his back. "I wasn't expecting an apology, it's just that when I saw you walk in the door I remembered that day."
+
+"I apologize if I caused you any trauma."
+
+"It's just a bad memory. I didn't like that training mission, I don't like spiders."
+
+"Ninety percent of the population of Norway is with you on that."
+
+As they spoke, Zi examined the mirror once more. Now that she could see it as it really was, she was struck by the frame. It was really old. She looked at it from behind and was surprised to see that it had some engravings on it as well.
+
+"Can you tell what year it's from?"
+
+"The what?" Stuart asked without turning around.
+
+"The mirror," Zi said, running her hand across the glass.
+
+"They already took samples from it and pulled a holographic model. I'm sure we'll find out later."
+
+She approached the glass, and saw that it didn't appear to have a single crack or flaw in the reflective laminate underneath. "It's got to be a few centuries old, but it's well preserved."
+
+"According to her neighbor's testimony she had bought it a couple of days ago," said one of the policemen at the door.
+
+"What a pity," said the forensic scientist of the drones, as she arranged them in their respective suitcases.
+
+"It's a little strange that the day after she bought it she turns out to be dead, isn't it?" Stuart asked. "We have a history of cursed mirrors."
+
+"She said she got it from an antique shop," the copper said.
+
+"Huh..." Stuart said. "Something that old is a little silly to use it in activities like this."
+
+"This girl knew what she was doing, she had layers of security to keep it from being broken by acoustics even," said an acustic tech.
+
+"What about that?"
+
+"It's pretty good. It's a special acoustic vault, the sound in the room must have sounded like it was in a concert hall."
+
+"Hey, sniper girl," Stuart said, turning to look at Zi. "What do you think... huh?"
+
+Stuart turned completely around and rummaged around the room for the special agent. She was no longer in front of the mirror. If she had moved, she had moved very quickly and without causing any sound with her footsteps.
+
+"Where did she go?" Stuart asked.
+
+The cops, and the other people, looked around the room, but Zi wasn't there. The cops hadn't seen her walk through the door. The bathroom and kitchen, with the lights on, didn't show her there either.
+
+If Stuart remembered correctly, Zi had no special skills other than being an exceptional sniper. So he could rule out that she could make herself invisible, that she had her optical camouflage activated, was another option.
+
+"Agent Zi?" Portman asked, scanning the room.
+
+"Are you there?" Stuart asked, over the chat.
+
+“Uh-oh,” Zi said, tapping on the glass.
+
+In front of her were all the people in the room, but this time on the opposite side from how she was seeing it in the mirror just seconds before. She wasn't seeing the reflection, it was the real image.
+
+"I'm here," she said, raising her voice slightly. No one responded, so she activated her voice in the chat window with Stuart. [I'm here. Can't you see me?]
+
+"Where? Are you playing hide and seek?" Stuart asked.
+
+[Oh, no.]
+
+She didn't know how it happened.
+
+In front of her, behind the glass, the image of people looking for her in the room. She could see the edges of the mirror, the bottom edge connected to the floor, but the surface where the mirror should have been leaning against the wall did not. That part was pitch black, the windows and the wall had disappeared. Behind her, the same image she saw through the glass, the same colors, but it was the opposite reflection. And what was stranger, she had not realized at what moment it had happened, but her own image was not reflected.
+
+She touched the glass again to make sure, but she had no more doubts.
+
+Somehow, she was inside the mirror.
