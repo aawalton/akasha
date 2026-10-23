@@ -1,0 +1,179 @@
+Ok, so let’s think about this in order, Reivyn relaxed and settled in for some contemplation. Drowning and/or suffocation drains Health based on percentages and across a period of time. It exponentially increases the longer the time goes on, and one will lose consciousness upon losing 50% of their Health.
+
+Ok, that all makes sense. So what are contributing factors? Vitality increases the duration before one reaches the point of losing Health that one can hold their breath. Vitality directly affects Health and works with Strength to determine Stamina. So far so good.
+
+Vitality affects the time intervals that one loses Health, but it’s marginal according to dad. Health percentage loss is the same for everyone. So all things equal, someone with a higher Vitality will take longer to reach the point of suffocation and the time intervals will be slightly larger, but they’ll still lose Health at the same percentage per time interval.
+
+It’s possible to mitigate these factors with Skills. Breath Control affects the time intervals. There’s probably another Skill that reduces the percentage loss of Health per interval, too.
+
+So now, let’s ignore the superhuman aspects of Stats and Skills: What leads to suffocation or drowning? Loss of oxygen. It’s possible to train to hold one’s breath outside of Stats and Skills, based on my past life’s memories, but even the best in the world can only do so for a relatively short period of time.
+
+So what do Stats and Skills do? Vitality obviously takes the place of mundane training. It increases the efficiency of one’s body, but it doesn’t replace oxygen. Skill can amplify that in multiple ways.
+
+Reivyn used logic to work through the problem, first laying out everything he understood about the problem and extrapolating obvious information from the known facts. He sat and thought about the differences between life with Stats and Skills versus life without.
+
+What do people without a System use to prolong their time underwater? Outside of reaching the peak physical capacity of their bodies, they use diving equipment. So, what is diving equipment? It’s a portable oxygen tank.
+
+Ok. I think I’m onto something here… What is oxygen at its fundamental level? It’s a resource. What resources are available to us with a System other than Stats and Skills? Obviously our Health, Stamina, Mana, and Qi pools.
+
+Ok. Ok. I think I see where this is going. Drowning and suffocating directly affect the Health Pool. Where does Stamina come into play? Swimming and Breath Control are obviously physical activities, so I would think Stamina would play a role in there somewhere. Does it just determine for how long we can do a physical activity? But holding one’s breath doesn’t seem to be in there…
+
+That’s not how Stamina works. I know for a fact that Stamina can be used manually to activate Skills.
+
+Reivyn felt like he’d been struck by lightning. Thinking about Stamina and manually using it to activate Skills seemed to open the world in front of him.
+
+So Stamina is obviously an under-utilized resource. What happens if I manually use my Stamina to keep myself going? It’s like we’re diving with an oxygen tank on our backs but we’re not breathing from it. We have this huge resource available to us, but we’re not using it.
+
+So first, have to figure out how to use Stamina as a proper resource.
+
+Reivyn felt like he had figured out the crux of the issue. Now he just needed to experiment with how to get it to work. He already had experience manually using his Stamina to activate a Skill. He had done so the first time while fighting the Dullahan in the Revenant Dungeon solo.
+
+It seems like figuring out how to actively use one’s Stamina is actually the first step in learning how to manually activate Skills. If that’s the case, it seems like I skipped a step.
+
+Reivyn chuckled to himself over the thought of jumping ahead, but he suddenly stopped and a thoughtful expression appeared on his face.
+
+Wait a second… Dad told me that people generally don’t even try to figure out how to manually use their Skills until they’re around the fourth Tier for the most part, and this Dungeon is a Tier 4 Dungeon…
+
+The Illusions cast by the Sirens are also suspect. They weren’t things we would all get caught up in. Instead, they were tangential to something we desire. If we ran into real, thinking Sirens in the real world, there’s no way they wouldn’t try to show us an Illusion that isn’t exactly what we desire…
+
+But that’s not what the Dungeons are. They’re just shadows of the monsters in the real world. It’s controlled by the System…
+
+Reivyn’s eyes widened in comprehension.
+
+Are these Dungeons designed to teach us? Dungeons are fatal to those who aren’t properly prepared or don’t take it seriously, but they’re not death traps. The encounter with the Sirens was enough to provide an appropriate challenge. If the System altered the encounter with the intent to defeat us, it would have been much more difficult.
+
+The timing of the challenge of the Hard Mode is also around the time people start experimenting with their Stamina and Skill control. Are there other Dungeons that subtly introduce the Delvers to concepts instead of just existing in a vacuum?
+
+This deserves further investigation. There might be literature on the subject somewhere, too. I’ll have to talk to my dad and see if he’s run across any written theories. He found out about the Weapons Prodigy Skill through an ancient text, after all. What else has he read?
+
+If it’s true that Dungeons are designed and altered by the System with intent… That opens up an entirely new view on the System as a whole. Everyone just believes the System is a representation of our growth and experiences, but if it takes an active role in affecting people…
+
+What is The System? And if it’s not just a representation of ourselves… Where did it come from? I don’t think anyone’s actually even seriously asked that question, or if they have, it’s not widely known.
+
+Reivyn had more questions now than when he had begun, though they weren’t related to his initial query. He still felt like he had figured out the right direction to go for activating Hard Mode. Now he just needed to experiment and see if he had a way to prolong his breath through manually using his Stamina.
+
+If it worked, though, it would mean the implications of his thought process could also be true. He didn’t know what to think about the System being much more involved than anyone thought.
+
+At that time, his door opened and Refix walked in. At first, Refix tried to be quiet, not wanting to disturb his son, but he looked up and found Reivyn watching him, so he stopped being cautious and just walked over to his bed.
+
+“Something the matter, son?” Refix asked.
+
+“Dad, what is the System?” Reivyn asked.
+
+Refix was taken aback. He had clearly not expected that question, especially since he knew Reivyn’s intention was to think about finding a way to reach the fourth floor with a single breath.
+
+“Well… it’s basically a representation of the denizens of the Realm,” Refix answered. “It’s even been argued that monsters and other creatures have access to the System, too. We know for a fact that other sapient races have access to the System, so why wouldn’t they?”
+
+“So it’s just a representation of us?” Reivyn frowned.
+
+“No,” Refix shook his head. “We know it’s not. It’s also a gatekeeper. Think about it. Tiers one through three all receive a monthly summary of your activities and provide you Experience Points toward your Level. What are Experience Points? It’s a form of energy. So where does that energy come from during a monthly evaluation? Hmm?”
+
+Reivyn tilted his head to the side as he thought about the question. He nodded his head as he understood what his father was getting at.
+
+“The System is the gatekeeper to Experience. Experience is energy. Therefore, the System has the ability to manipulate energy as well as provide us with our Status.”
+
+“Ok, but that only makes the question more complicated,” Reivyn argued. “We just saw the System actively adjust a Dungeon in real time to cater to our strength and provide us a challenge. So that means the System can make decisions, not just arbitrarily provide us information and energy.
+
+“So is the System sentient? Is it controlled by someone or something? I also know for a fact that the System associated with the Abyss Realm is completely different. That’s evidence that each Realm has their own, separate System.”
+
+“Son, I have no idea,” Refix held his hands out helplessly. “This is way above my pay grade.”
+
+“You’ve read ancient texts about Skills and whatnot. Have you ever come across anything on the System itself?”
+
+“There weren’t any in the ones I read. I’m sure they exist, but I didn’t exactly have the time to peruse everything available to me at the time. My research was abruptly cut short.”
+
+“Hmm, speaking of ancient texts and Dungeons, we know that some Dungeons represent a time period from the past. Do you think a Dungeon exists with a library containing ancient text somewhere in the Realm?”
+
+“More than likely,” Refix nodded his head. “It’s almost an absolute certainty, actually. We’d just have to find it.”
+
+“When we get back to Wispan, I would appreciate it if you sent your subordinates out to investigate the question,” Reivyn said. “I’m sure there will be information available through the Adventurer’s Guild.”
+
+“Sure, but what’s with the sudden interest in the System itself? I thought you were thinking about how to activate the Hard Mode of the Dungeon?”
+
+“Well, yeah, but I’m pretty sure I figured that out,” Reivyn answered. “I’m pretty sure we just have to manually use our Stamina as a resource to replace oxygen.”
+
+Refix smiled at his son.
+
+“That’s exactly what I thought,” Refix said. “So how did that lead you onto your current quest?”
+
+“I was thinking about the Siren encounter and how the System changed it to provide us a challenge but didn’t outright decimate us. Think about it. Would a Siren encountered in the real world hit us with illusions that are only close to what we desire, or would they give us visions of exactly what we desire?”
+
+“It would be the latter. They’re not going to hold back in trying to kill us.”
+
+“Exactly,” Reivyn nodded his head. “You also have told me that ambitious Adventurers don’t experiment with manual control of their Skills until Tier 4. This is a Tier 4 Dungeon, and activating Hard Mode requires us to manually use our Stamina. That’s the first step in manually activating a Skill.
+
+“The activation method for Hard Mode, the timing of it relative to the Tier of the Dungeon and the Tier of the Delvers, plus the meddling of the System all led me to the question: What is the System?”
+
+“Hmm, I can see how that could lead you there,” Refix said.
+
+“I have another one for you, then,” Reivyn said. Refix indicated for his son to proceed. “Where did the System come from?”
+
+“What do you mean?” Refix frowned. “It’s always been there.”
+
+“Has it? How do you know?”
+
+“Its very existence and the fact that its always been around for as long as we can see.”
+
+“Ok,” Reivyn nodded his head. His eyes dropped to the bed his father was sitting on. “Where did that bed come from? All the evidence we have on hand is that it’s always been there. I mean, as soon as we got the room, it was here. As much as we know, it’s always been there.”
+
+“I see your point,” Refix said, stroking his chin. “That’s another question without an answer, and we’d have to go back as far as history allows, basically, to find out.”
+
+“Hence the question about finding a Dungeon with a library,” Reivyn said. “If there’s a library that has ancient texts relative to the Dungeon itself, and the Dungeon is also ancient, then we might be able to get a clue.”
+
+“Alright, you’ve convinced me,” Refix chuckled. “I’ll send a team out to investigate when we get back. You have to keep in mind, though, that there’s no centralized headquarters to the Adventurer’s Guild. They’re all decentralized and independent.
+
+“That being said, you might also be able to leverage The Church of Light with your status as a Friend of the Church. They probably have access to some pretty ancient records, and they actually do have a centralized headquarters. All the major religions do, though I don’t know where it is. I’m sure the local priests will be able to tell you.”
+
+“That sounds like a good idea,” Reivyn nodded. “If you hadn’t said anything, I might have forgotten about them. Speaking of, I still have an amulet from the Revenant Dungeon in my storage pouch that I need them to appraise. It’s probably nothing because it’s Dungeon Loot, but it might provide information on what the Revenant Dungeon is a shadow of from the real world.”
+
+“Sounds good. Now, do you need help in figuring out how to manually use your Stamina? I can come up with a training program for you.” Refix had a gleam in his eye talking about training.
+
+Reivyn just laughed and shook his head.
+
+“No, I want to try and figure this out on my own, first,” he said. “In fact, I’ve already manually activated a Skill before, so I think I already have a handle on it. I just need some practice and to see if it really will act as an alternate resource to oxygen.”
+
+A sudden knock on the door brought the conversation to an end. They had basically said everything they needed to, anyway, so Reivyn stood up and answered the door. He already knew that Kefira stood on the other side with Serilla standing behind her. She had a platter of food held in her hands.
+
+“I hope I’m not interrupting,” Kefira said after Reivyn opened the door. “I was on my way back to my room when I heard voices, so I assumed you were done with your thinking.”
+
+“Yes, I think I have it figured out for now,” Reivyn nodded. He stepped aside and held his hand up, indicating for Kefira and Serilla to enter. “Come on in. It looks like you brought enough food for all four of us.”
+
+“Of course,” Kefira flashed a smile. “I couldn’t ignore my future father-in-law, after all. It would be terribly rude to eat in front of him without offering him anything.”
+
+“That’s sweet of you,” Refix said with a smile. He looked at Reivyn. “I know I said I wasn’t ready to be a grandparent, but when’s the wedding, already? You can’t let this one get away.”
+
+“Dad!” Reivyn rolled his eyes as Kefira’s face went scarlet. “Do you have to word it in the most embarrassing way?”
+
+“Of course! I’m your father. That’s my job.” Refix winked. “What kind of a world is it where a father can’t even embarrass his own son and future daughter-in-law? I don’t want to live in such a world.”
+
+“Anyway,” Kefira studiously ignored Refix’s words as she marched into the room and set the platter down.
+
+“Anyway… what?” Refix asked, still smiling at Kefira and Reivyn’s discomfort.
+
+“I was just trying to politely move the conversation on,” Kefira said.
+
+“Why? I’m emotionally invested in the topic,” Refix said. “Let’s talk about it. How many kids do you want? Boys or girls?”
+
+“How ever many I’m blessed with,” Kefira said.
+
+“Ooh, good answer,” Refix chuckled.
+
+“As to boys or girls, I don’t really have a preference. Preferably at least one of each.”
+
+Reivyn nodded his head in agreement.
+
+“That would be ideal, but it’s fine if it doesn’t turn out that way.”
+
+“Have you thought about names?” Refix continued to ask as he sat down and served himself from the platter. “You can’t ask me to honestly believe you don’t have a list of names already. That was one of the first things Ameliyn hounded me about back in the day. She had dozens of potential names picked out already.”
+
+“There may or may not be a list, but I think this is a bit early for this conversation,” Kefira rebuffed him.
+
+Refix laughed while trying to politely keep his mouth closed around a bit of grilled fish. The main ingredients for most meals in the coastal town were obviously sourced from the sea.
+
+“Alright, alright. I’ll stop teasing you,” Refix relented. “Thanks for the meal. Feel free to take Reivyn with you when you’re done. You kids can do what you want while I come up with the training regimen.”
+
+“You’re welcome,” Kefira graciously nodded her head to Refix.
+
+The meal was enjoyable, and the group laughed and joked with each other for several minutes as they enjoyed the seafood. Once they were done and tidied up, Kefira grabbed Reivyn’s hand and dragged him to the door.
+
+“Come on,” Kefira said. “Let’s go for a walk. We can also figure out what we’re going to do over the next couple of days while we rest and relax.”
