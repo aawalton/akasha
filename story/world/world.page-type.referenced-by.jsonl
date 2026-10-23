@@ -42,6 +42,7 @@
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/book-1-complete-to-devour-the-crawling-gods-eldritch/book-1-complete-to-devour-the-crawling-gods-eldritch.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/bookbound-bunny/bookbound-bunny.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/born-for-the-apocalypse-a-daopcalypse-litrpg-book/born-for-the-apocalypse-a-daopcalypse-litrpg-book.world.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/boundless-cultivation-isekai-progression-fantasy/boundless-cultivation-isekai-progression-fantasy.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/bow-magus-stealth-archer-litrpg/bow-magus-stealth-archer-litrpg.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/brand-of-the-bloodheir-an-assassin-progression/brand-of-the-bloodheir-an-assassin-progression.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/breaker-of-horizons/breaker-of-horizons.world.ts","typed":true,"deferred":false}
@@ -282,6 +283,7 @@
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/the-good-guys/the-good-guys.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/the-grand-weave/the-grand-weave.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/the-idle-epoch/the-idle-epoch.world.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/the-impeccable-adventure-of-the-reluctant-dungeon/the-impeccable-adventure-of-the-reluctant-dungeon.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/the-jade-shadows-must-die-cultivation-litrpg/the-jade-shadows-must-die-cultivation-litrpg.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/the-lamp-that-no-longer-shines-an-action-comedy/the-lamp-that-no-longer-shines-an-action-comedy.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/the-legend-of-randidly-ghosthound/the-legend-of-randidly-ghosthound.world.ts","typed":true,"deferred":false}
