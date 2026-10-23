@@ -1,0 +1,201 @@
+The waiter lurks over the table. It’s a 50s-style American diner but lit in some kind of hazy dark blue hue, like an L.A. nightclub. Whatever vibe they’re aiming for, it seems like a good place to wallow. It makes it difficult to see the waiter’s features. He’s just this shadow looming over my cushy corner booth, tapping his pencil on a notebook with a clear level of irritation. I’m assuming he’s got an internal HUD like the rest of us, so the notebook is just for show, like his polka dot apron.
+
+“So how many shots of liquor count as one drink voucher?” I ask.
+
+“Again,” he says. He’s a gorilla, by the way. “So long as it fits in the glass of your choice, that’s one drink voucher. You can get whatever you want in there.”
+
+“What’s your biggest glass?”
+
+“A pint.”
+
+“And you have every type of alcohol.”
+
+“We have a synthesizer. Whatever alcohol has ever existed in your world, you can have.”
+
+“Then I want a pint glass, and I want one third of the glass to be grapefruit soda and the rest of it to be Patrón tequila. And if possible, make it ice-cold without actually adding ice.”
+
+“Uh-huh,” he says, jotting nothing down. “Anything to eat?”
+
+“No. Wait. Do you have fries?”
+
+“We have a synthesizer.”
+
+“How much for a side of fries then?”
+
+“5 gips.”
+
+“Is everything 5 gips?” I ask, remembering the price of the train.
+
+“No.”
+
+I slink deeper into the booth. “Then I will have fries.”
+
+Inventory item removed: (1) Drink VoucherInventory item removed: 5gWallet: 890g
+
+A minute later, a drink with entirely too much tequila sits in front of me, beads of condensation sweating off the glass. A basket of fries drops next to it. Resting my head on the table, I poke at a fry.
+
+Maybe my stomach was bigger than my stomach. Or… Wait. Oh, whatever. My brain hurts. I can’t believe today is still the same day the world ended. It feels like it’s been weeks. Or forever. Or an hour. What day is it anyway? Tuesday? Wednesday? Time has lost all meaning.
+
+At the end of the table is a thin white bar, like an old iPhone dock. Apparently this is the elusive Index. I swing my arm over, nearly knocking over my glass, and prod the device until I find a button. A light zips upward and unfolds into a floating holographic screen.
+
+Huh. I move the white bar closer. I can’t pick it up off the table, but it moves easily. The screen comes with it.
+
+At the top of the screen, it says, “Hello, Helen Gables!” Who knows how it knows, but they have teleportation and laundry microwaves, so I’m not going to question it.
+
+Whatever information the Index harbors is blocked by a pop-up announcing that, in honor of the apocalypse, all movie tickets are half-off. The sale ends at 19:00. “Come and strike while the iron’s hot!”
+
+There are movie theaters? Who in the world would be in the mood to see a movie?
+
+I swipe the pop-up away with a flick of my wrist. Beneath it is a collage of floating windows and a righthand sidebar listing a series of available tabs: Search, Inbox, Amenity and Resource Bookings, Media Library, Map and City Directory, Resident Directory, Personal Profile, and Settings.
+
+I don’t know why they can’t have all of this available on our HUDs. At the same time, it does feel rather nice to have the screen floating in actual 3D space. Either way, it’s a lot to rifle through, so windows first.
+
+First and most prominent is a window labeled World News which, judging by the photo of some unfamiliar hominin in some unfamiliar landscape, is about the Volese Assimilation. Someday, I may care about those assholes, but today is not that day.
+
+Next to that window is another called History and Lore with three tabs: one for Earth, one for Handor, and one for Loxilil. Given the descriptions for the classes I’ve discovered, I doubt their version of our history is refined and rich in nuance. For all I know, they just loaded it all off of Wikipedia. Again, it might be fun to peruse that later, as well as whatever inaccurate tales they have on the other two planets.
+
+Below those two windows are a few smaller ones filled with shopping advertisements and city highlights. And finally there’s a medium-sized window that simply says HELP.
+
+I tap that one.
+
+A scrollable list of contents appears containing items like Attribute Descriptions, Abilities and Skills, Navigation, and Equipment.
+
+Finally.
+
+I chug down at least a double shot’s worth of my drink, plop a fry into my mouth, and click on the attribute descriptions.
+
+Health: Measures how much damage you can withstand before death. Your mobility is not impaired until you reach 0 - wherein death will occur. Physical abilities may, however, be affected by status ailments, limb loss, blood loss, navigational hazards, and general demeanor.
+
+Stamina: Measures how much stress you can endure before you are temporarily downed. Each exerted effort and ability (aside from sorcery-based abilities) costs stamina. Again, your mobility is not impaired until you reach 0, in which case you will collapse. In this state, you will be unable to move or perform non-sorcery-based abilities until enough stamina points have been restored.
+
+Strength: Measures physical prowess. Affects your ability to exert physical influence on the world, such as pushing, pulling, lifting, and hitting. Required to unlock the full potential of strength-based weapons and abilities.
+
+Fortitude: Measures endurance and defensive aptitude. Affects your ability to withstand damage. Required to unlock the full potential of defense-based gear and abilities.
+
+Dexterity: Measures digital agility, accuracy, and balance. Affects your ability to move nimbly through the world. Required to unlock the full potential of dexterity-based weapons and abilities.
+
+Wits: Measures mental acuity. Affects your ability to apply sorcery and withstand sorcery. Required to unlock the full potential of sorcery-based weapons and abilities.
+
+Resolve: Measures resilience. Affects your ability to regenerate health and stamina as well as your ability to resist status ailments. Also affects your ability to withstand charm and trickery.
+
+Charm: Measures social influence. Affects your ability to haggle, negotiate, command, persuade, and deceive.
+
+[Earning 10 levels in an attribute awards another +3 proficiency to associated skills. Adjustments will be reflected in your Skill Proficiencies tab]
+
+Hmm. They’re still rather vague. Not that I was hoping for a wall of numbers. Math is more of an Elias thing. It seems like if you want to be any good in combat, you need to focus on at least one of the top four attributes. Saying that, it would be advantageous for at least one of our party members to drop points into the Charm attribute. It’s always good to have a sweet-talker in the group.
+
+It’s interesting that there doesn’t seem to be a resource pertaining to sorcery, or at least there’s no attribute regarding its regeneration. However sorcery is regulated, it must be through a different system.
+
+My neural synapses are still misfiring from the Meet & Greet, so I make a mental note to check out the rest of the system particulars later. For now, I close the window.
+
+In the lower righthand corner of the screen, the time reads 14:55. Luci must be with Elias now. No messages in my inbox though.
+
+I reach over to check out my Personal Profile. Another window pops up.
+
+Your personal profile is available in detail via the Index. Do you allow this console to access this information? Permission will be rescinded upon exiting this console.
+
+Oh, now they ask for permission. Despite the temptation to choose “No” out of pure pettiness, I pick “Yes”.
+
+The next thing I know, I’m staring at a 3D model of myself, in all my Crossfit glory. When I swipe a finger across my body, the model spins.
+
+Not gonna lie. My ass looks good. Actually my hips and waist are kind of banging too. Turns out forgetting to eat on a day to day basis does wonders for one’s figure. I think it’s possible that adding points to my dexterity gave my muscles a good tune-up too. I don’t remember looking this toned.
+
+The rest of me is meh. It’s clear - at least to me, anyways - that I haven’t bothered with my hair or skincare for a while. My frazzled brown hair is still air-drying in choppy waves over my shoulder. My pale face has this shamefully oily sheen that will likely never see powder or foundation again. There’s a ghostly glint on my nose - a nose, by the way, that I’ve always felt is too long.
+
+At least I’ve got a long face to match. It’s a simple face. No cheekbones. No real brow. There’s nothing wrong with it, but there’s nothing dynamic or intriguing about it either. God forbid anything take away from my glinting ghost nose. I’m like a Botticelli oil painting that refuses to dry.
+
+To the left is a list of menu items. They’re just a repeat of what I already have available on my HUD: Status, Equipment, Inventory, and Quest Log.
+
+At the bottom is a glowing box that reads “Class Options.” Is that where I choose my class? Am I ready? I mean, I’m quite sure I know what I want, but that kind of commitment is a lot to ask of a girl. This class will define my chances of survival and my potential as a party member for the foreseeable future. Possibly the remainder of my life.
+
+There’s also weapon choice to consider. That mousy game designer said weapons come with their own abilities too. If I’m going to be smart about this, I should check out a weapon’s shop first to see exactly what he’s talking about.
+
+Okay. So, I’ll look through my available classes, visit the weapon store, then make a choice that hopefully doesn’t seal my fate as one of the first portal-hopping participants to die.
+
+With a tap of my finger, the list of my discovered classes appears. There’s an extension tab next to each one, allegedly providing more details.
+
+FIGHTER CLASSES
+
+Satsuma Striker: A dueling class best suited for challenging high level enemies and countering sorcery classes.Machete Mambi: A high-impact class utilizing burst skills for those who prefer to hit first and hit hard.
+
+ROGUE CLASSES
+
+Sicarii: A swift class utilizing trickery and fast feet to take down the enemy unseen.Night Watcher: A keen-eyed class with the ability to scout for and disarm enemies.Black Hand: A cutthroat class best suited for combat against other participants.
+
+RANGER CLASSES
+
+Mountain Man: A saboteur class heavy on preparation and traps.
+
+SORCERER CLASSES
+
+Cultist of the Mystic Fire: A dynamic class that employs a scorched-earth policy.
+
+TANK CLASSES
+
+Varangian Guard: A stalwart class for those who prefer simple, straight-forward combat.
+
+Well, tanking and PVP are off the table. Tanking, because I don’t like it. And PVP because I’m not a sadist. I hadn’t really considered having to fight other participants. Given human nature, I guess it’s inevitable. Still, I’m not choosing a class that’s clearly meant for hunting people down.
+
+Satsuma Striker sounds too narrowly focused, although being able to counter magic could be useful. The original description, as I remember it, strongly hinted that it’s a dumb choice. And Mountain Man just isn’t happening. It requires patience and preparation. So… no.
+
+That leaves Machete Mambi, Sicarii, Night Watcher, and Cultist of the Mystic Fire.
+
+I click on Machete Mambi first. While I’m not sure I like the sound of a fighter class, it did give me that ¡A Degüello! double-slash bonus which helped me successfully chop of a teammate’s leg, so I feel like I owe it a glance.
+
+MACHETE MAMBI
+
+Traits:
+
+- An additional +1 to either strength or dexterity per level (works retroactively)- +1 Jump Skill Proficiency per 2 levels- +35% damage with slashing weapons- -25% damage with sorcery-based weapons
+
+Level 5 Ability:Burst Leap: Jump to a targeted enemy’s location within 5m.
+
+Level 15 Ability:Homeland: Any enemy that enters within a 1m radius of you has a 10% chance to get Stunned for .2 seconds per level.
+
+[Participants will develop more abilities at advanced levels]
+
+Jump and stun. Nice. However it may be a little too “in your face” for my tastes. Until today, I had no idea what my combat style would be. Now, reflecting on every fight I’ve had over the last few hours, I feel like I’m more of an opportunistic fighter. I wait for my shot, and I take it. Still, I can definitely see the potential in taking a more offensive stance.
+
+SICARII
+
+Traits:An additional +1 to dexterity per level (works retroactively)- +1 Silent Step Skill Proficiency per 2 levels- +1 Sleight of Hand Skill Proficiency per 2 levels- +25% damage with one-handed or dual-wielded weapons- -50% damage with two-handed weapons
+
+Level 5 Ability:Shadowstep: Teleport behind an enemy within 3m. You may return to the original location within 10 seconds.
+
+Level 15 Ability:Unseen: Grant invisibility to yourself and nearby party members. Invisibility is lost upon damage or an ability is performed. Lasts 1 second per level. May be used twice a day.
+
+Okay, this one is pretty badass, though I do wonder if I have the discipline for it.
+
+I glance through Night Watcher and realize instantly that it’s intended for teamwork only. While I’m likely to stay in a party, I’m not ruling out the chance that I’ll have to solo. So that’s a no from me.
+
+And last but not least:
+
+CULTIST OF THE MYSTIC FIRE
+
+Traits:- An additional +1 to wits per level (works retroactively)- +1 Reading Skill Proficiency per 2 levels- +25% fire damage when armed with a fire-based weapon- Immune to fire
+
+Level 5 Ability:Fire Cast: Coat your weapon in fire.
+
+Level 15 Ability:Living Flame: Transform into an invulnerable flame for .5 seconds per level. Cooldown is 10 minutes.
+
+I can see what they mean by having a “scorched earth policy.” As tempting as it is to turn into fire, I’m guessing there’d be a lot of collateral. For now, I’ll put it in my back pocket.
+
+Flicking back to the main screen, I throw back another few gulps of my drink. That’s, what, three shots in fifteen minutes? I’ve done worse. Still, without food, I’m feeling the buzz. My body vibrates beneath a cozy warm blanket of blissful distance.
+
+It’d be nice, wouldn’t it, to just stay snug in my corner booth, eyes slitted like a purring cat beneath the hazy blue light. No more city. No more preparation. No more thinking about what horrors tomorrow might bring. Sure, there’s a gorilla in a frilly apron staring me down from behind the counter, but I can ignore him well enough.
+
+With a little alcohol in my system, this morning feels miles away. What a relief it was when the world crumbled around me. In those first few minutes, life was rich with simplicity. All pretense stripped away. For once, we were all on the same page. Life was hell. The monsters were real. Every man for himself.
+
+How did it change so quickly?
+
+Right. Luci. And I suppose, Elias. Even Ron. Shit, I hope he doesn’t sleep through his orientation. Not like he’d understand a word of it anyhow.
+
+It’s a foreign feeling, that itch of conscience. I thought I’d squished that damn cricket years ago. Now Jiminy’s chirping in my ear, singing about stars and obligations. Did you know the original Pinocchio killed the cricket with a hammer? Same vibes, buddy. Same vibes.
+
+I don’t owe them anything. I did what Luci asked: I got her to her family’s house. Then I did what Elias asked: I got her through the portal. Job done. I’ve won my prize. I can nurse my ridiculous drink and enjoy the boozy bliss of solitude.
+
+And yet. And yet…
+
+It’s 15:10 now. Still no messages from Luci. I wonder if she’s stopped by the hotel?
+
+With a sigh, I turn off the Index and scooch gracelessly out of the booth. Then, grabbing a fistful of fries, I head out, leaving my glass half-full behind me.

@@ -1,0 +1,201 @@
+Beneath our feet, there’s a rhythmic clatter as small squares of cobblestone pop out of the earth and land in waves, forming one line of road after another. To our right and left, houses materialize in pieces. Timber studs sprout from the ground with the sound of strained wooden creaks. Stones clack as they drop from nowhere to create the walls, and patches of thatch grow into sloped rooves.
+
+Soon, there are countless dwellings. Chimneys rise from the tops, and peaty smoke wafts in the air.
+
+In the distance, the buildings grow taller: some two-stories, others as tall as three or four. Church bells ring as a steeple shimmers into view, the stone blanketed in golden light. A banner marking what I assume is a market square waves in the breeze.
+
+Then, people appear. Window shutters fling open, and a frumpy woman leans out to ring out a wet cloth onto the cobblestone. A donkey brays. A man lugging sacks of who-knows-what nearly barrels into us and gasps some very Irish-y sounding swear.
+
+Luci grins. “Okay, that was awesome.”
+
+1.
+
+Quest Updated! COURIER OF THE ISLEYou have arrived in the town of Glasbaile where Lord Cathal resides.
+
+Objectives:- Gain entry into town: Complete - Acquire a token of entrance: Complete- Return or deliver the letter: In Progress
+
+2.
+
+Quest Updated! OVER THE RIVER: CompleteYou have successfully escorted Éogan to the town of Glasbaile.
+
+Rewards: 50 XP, Uncommon Weapon (to be rewarded)
+
+3.
+
+Title(s) Earned:Budding Adventurer: Discover your first town.Reward: 50g
+
+“Rock on! I leveled up!” announces Ron.
+
+Luci high fives him. “Me too. We’re all Level 9 now, right?”
+
+Éogan, skulking behind us, pokes Luci on the arm. Unfastening the sheathe from his cinch, he hands her the weapon. “For bringing me to Glasbaile. And well, for not leaving me behind. I well deserved it.”
+
+“Oh, thanks. And yeah, you did.” She takes the sheathe, turns it over in her palm, and then offers it to me. “You’re the dagger person. Want it?”
+
+“I won’t say no.”
+
+I draw the dagger half-way from its sheathe. At first, I expect it to glisten green with obvious poison enchantments, but it looks and feels rather ordinary. It’s a stubby, broad, double-sided blade about half the length of my other weapons. Not great for ongoing hand-to-hand combat, but the poison will make a terrific opener nonetheless.
+
+Weapon Acquired!
+
+Uncommon Poison DaggerA lightweight one-handed slashing weapon with a replenishing poison blade.
+
+Dexterity Requirement: 20
+
+Level 1 Ability(s):Bleeding Slash: Attack and inflict bleeding on an enemy.Toxic Stab: Once an hour, attack and poison an enemy. Poisoned enemies grow sluggish and leak 5 HP over .5 seconds per level.
+
+Level 10 Ability(s):Double Toxins: Once an hour, attack and poison two consecutive enemies within ten seconds.
+
+“Alright, time to hit the town!” I say, buckling the sheathe to my thigh strap. “First, proper pants for Elias. Then sleep. Wait. Then beer. Then sleep.”
+
+“And dinner,” adds Ron. “Dinner. Beer. Sleep.”
+
+“Good call.”
+
+Just a little ways down the road, a pair of men in matching tunics and padded coifs look in our direction, both carrying halberds. Definitely town guards. Shit, we haven’t done anything wrong yet, have we?
+
+Behind us, Éogan throws the hood of his mantle over his brow. Then, without so much as a look back, he ducks down a nearby alley and disappears around the corner.
+
+“Well, bye to you too,” Luci scoffs. “So rude.”
+
+“Not a fan of authority I guess.”
+
+Muttering something to one another, the guards continue their patrol.
+
+We move down the road toward what appears to be its natural center. Needless to say, we get quite a few stares. Some people seem a little perturbed, likely due to our very un-15th century-Catholic appearances, but most of the looks we get I’d interpret as tired curiosity. Just a few sneaking glances stolen beneath droopy eyelids. If I had to guess, this wasn’t the first time they’d seen outsiders appearing in their town. It makes me wonder if the other parties already made it. The monster blood and river water soaking our clothes can’t be helping.
+
+That or, once again, this is a game, and it wouldn’t be very fun to arrive in a new region only to be arrested as weirdos every time.
+
+On the way, I spot several hand-drawn posters depicting a sharp-nosed, sharp-chinned man with a conniving smirk and a shadowy hood. The sorcerer we’ve heard about, no doubt. Below the picture is written “WARNING! Report to guards on sight.” There are also a few posters with differing portraits of men and women, all looking smugly evil. No doubt the artists took some liberties.
+
+“Whoa, check this out,” Luci says, her voice low.
+
+She taps on a sketch of a particularly familiar face. It’s a cute kid, about Luci’s age, with deep-set eyes, tousled hair, and a smug scowl. Next to him is a younger girl with curly locks and a similarly smug frown.
+
+“‘Éogan and Afric,’” reads Luci.
+
+“Damn,” I say. “What do you think lands a kid on a wanted poster?”
+
+“And also like, why would he wanna come back?”
+
+Ten minutes later, we make it to the town center. The market square isn’t nearly as crowded as I expected. You know, in the books and movies, they’re always vibrant and bustling with activity. Not to say the market doesn’t have a little life in it. Stalls shadowed by sagging awnings sell an array of goods from textiles to pottery to fruits and baked goods. A few dozen merchants, customers, and general layabouts haggle and mingle, creating a light murmur. A trio of tired minstrels lazily play near the central well, but no one seems to be paying attention.
+
+Bordering the square is a blacksmith, a few shops, and an inn. At the very tail-end of the square stands a distinct stone building with arched windows and banners that designate it as something serious and official. Probably a town hall. Or a jail. Maybe both. Again, I don’t know how medieval Ireland works.
+
+Strangely, about a quarter of the buildings lining the square are in ruins. Just charred timber frames and piles of rubble. Someone or something burned them down. Perhaps that’s why the market isn’t all that active.
+
+“Oh hey, look!” exclaims Luci.
+
+Skipping across the square, she stops at a wide wooden board mounted on a post with tattered strips of parchment nailed haphazardly across it.
+
+TASK BOARD
+
+[Each town contains a bulletin that lists various tasks requested by its residents. Tasks are intended to be completed while attending to other quests. As such, completed tasks only offer small rewards, such as XP and/or common items. All tasks are considered accepted by the participants whether they have read the bulletin or not. Tasks may be completed by multiple parties.]
+
+BUG HUNT: Giant rove beetles have infested the basements and cellars of Glasbaile. Kill 10 Dearg-a-Daol. Reward: 50xp
+
+LOVER’S NECKLACE: Lir has lost a necklace he desires to give to his betrothed. Find and return the Charm of Aebh. Reward: 250g
+
+BREWER’S LAMENT: Innkeep Erc requires bog myrtle to spice his ales. Collect and return 10 sprigs of bog myrtle. Reward: 30xp
+
+And the list goes on. As we’re perusing the list, I realize we’re being watched. Only mildly so, like in a ‘hey, that guy’s not wearing pants’ kinda way. Still, it’s hard not to feel paranoid. We got a washed up crossfit fanatic, a bit of inaccurate renaissance cosplay, a lumberjack, and a pantsless rockstar all spattered in blood. Blending in is not our strong suit.
+
+Luci notices my expression and surveys the square. “Should we be like… more in costume? I feel like people are staring.”
+
+“Nah, I’m sure it’s fine,” I reply. “We can take ‘em.”
+
+Saying that, we head into a shop to buy Elias’ some new slacks - if anything because he won’t stop eyebrow-pouting. That’s what I’m calling it from now on. He doesn’t frown; his eyebrows do. And his forehead grows an extra set of wrinkles. It’s annoying.
+
+Lucky for us, it seems like the in-game currency - gips - remains universal across regions. I hadn’t even considered it might be an issue.
+
+“It is perfectly good cloth, sir,” the vendor says. “Fine linen. Won’t tear. Washes well.”
+
+Draped over the counter is an undyed shin-length tunic. It has a V-neck with sleeves that hang all the way down to the bottom hem, and a leather cord to cinch it at the waist. Like what Jesus would wear.
+
+“You don’t have trousers,” says Elias flatly.
+
+“Come on, Tío Elias.” Luci smiles. “I think you’d look great in a tunic.”
+
+“A leine,” corrects the vendor. “If you’d like a vest or a mantle, we have those as well. We also have them for the lady.”
+
+A notification comes into view.
+
+Did you know?The Irish léine was an ankle-length or shin-length linen tunic that was common to both men and women for many centuries. However, in 1537, King Henry VIII banned the leine in an attempt to remove the influence of native Irish clothing from England.
+
+“The hell? Did anyone else get that?”
+
+Luci’s smile widens. “We can match!”
+
+Elias rubs his temple. “Oh. Dios.”
+
+The vendor stares at Luci for a moment, as though he only just noticed her. Then, his gaze grows long, and he shakes his head as he gestures again to the clothing draped over the counter. “Well, if you’re opposed, perhaps you’d like to try this léine.”
+
+“The dress you were just attempting to sell me?” Elias questions.
+
+“I’m sorry?”
+
+“I said I didn’t want this.”
+
+“You did?” The vendor blinks. “Of course, you did. We also have trousers available.”
+
+“Yes, trousers would be preferable,” Elias replies curtly.
+
+He looks back at me, brow furrowed. I shrug. Maybe the tailor’s just tired. I can’t imagine there’s much activity in these parts.
+
+“Ah. Follow me then. We will get your measurements and see what we can do.”
+
+Elias follows the vendor into the rear of the store and into another room. A minute later, he returns in a pair of pants reminiscent of a Renaissance-faire: baggy on the thighs and then banded with string from the knee down to the ankle. Honestly, I think he looks great. Although I have to admit the red flannel shirt doesn’t really fit the look.
+
+Luci bursts into giggles. “Love the fit, Tío.”
+
+Elias grunts and shoves Ron’s pants toward him.
+
+“Those will be 500g,” the vendor says.
+
+Elias gapes. “I can’t afford that.”
+
+I nudge Luci. “Haggle,” I whisper.
+
+“Oh. Uh, 300g!” she says.
+
+“That’s far too low.”
+
+“400g then.”
+
+“Well. Perhaps 450…”
+
+“400,” she repeats firmly.
+
+The vendor holds Luci’s gaze. Then, with a sigh, he relents. “400g it is.”
+
+She pumps her fist. “Yes! I mean, yeah, that works.”
+
+“Good work, Luce.”
+
+Elias leans toward me. “Helen, I don’t have 400.”
+
+“That’s okay. We’ll split it.”
+
+“Sure, man,” answers Ron as he buttons up his pants.
+
+Luci gives a wink. She gestures to the vendor. “Can you split it four ways, please?”
+
+Inventory item removed: 100gWallet: 284g
+
+“You’re certain?” says Elias.
+
+I laugh. “As much as I’d love to see you in full biblical-ware, you’d be complaining the whole time.”
+
+“I would not,” he huffs.
+
+“You’re complaining right now. I can see it in your eyebrows. Besides, your axe’ll get caught in the sleeves. It’s all wrong.”
+
+“Well. Thank you then.”
+
+“No problem. If pants are our biggest concern, we’re doing good.”
+
+Elias gives a polite nod to the vendor and opens the door for us. In file, we head outside and back into the market square…
+
+…and directly into an ambush.
+
+“Well, shit.”

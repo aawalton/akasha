@@ -1,0 +1,121 @@
+Once Phinny gives me the low-down on all the weapons and accessories I could buy, I finally manage to break away from the conversation and head off to spend my hard-earned blood money.
+
+To the surprise of absolutely no one who knows me, I’ve always hated shopping. I like picking things out and trying them on, but when it comes to the actual swipe of a credit card, I just can’t make the jump. For some reason, I can’t seem to imagine myself with any particular item. I’ll see a nice blender, think “I want that blender,” and then try to picture the blender in my kitchen and… nope, can’t do it. I’m sure there’s some psychological reason for it. Maybe I don’t think I deserve nice things. Or maybe it’s just too much effort.
+
+Whatever the case may be, shopping sucks.
+
+So I try to make it quick. As it turns out, there are countless places to buy weapons and gear, from small boutiques to giant outlet stores. I choose the nearest one. And, just my luck, it’s the giant kind, aptly named The Armory. It’s like an REI or any other athletic or sportswear store: an oversized room with lofty ceilings and exposed piping, choked with racks upon racks of gear. A few other survivors shuffle through the aisles, heads down, itching for just as much company as I am.
+
+I’ve got 900 gips to spend. Only the most basic weapons are in my price range: axes, hatchets, daggers, longbows - all rather medieval-looking. There’s an aisle with more modern-day weapons, like bowie knives and compound bows, though they’re too expensive for me at the moment. There’s a notable absence of guns and explosives. Apparently those are off the table, both here and in the field. Phinny just said they don’t like them but wouldn’t explain who they were.
+
+I pick up a hatchet, and a description appears in front of me.
+
+Common HatchetA lightweight one-handed slashing weapon
+
+Dexterity Requirement: 10
+
+Level 1 Ability(s):Bleeding Slash: Attack and inflict bleeding on an enemy.Throw: Throw the hatchet into an enemy.
+
+Level 10 Ability(s):Ferocious (Passive): With every attack, increase attack speed. Speed maxes out at five consecutive attacks.
+
+[Rarer weapons may offer more abilities at advanced levels]
+
+A broad-shouldered saleswoman wandering the aisles tells me that since the store is in the Novice District, all of the weapons available are “common” quality, requiring only the bare minimum when it comes to attribute levels. And while the stores in the Adventurer’s District have better gear and weapons, the real prizes are out in the field.
+
+As an example, she points to an illuminated glass case behind the front desk. Inside is a bedazzled sword, a floating orb, and an ornate ring bracelet draped over a mannequin hand. A trio of decals labels them as “Smiting Sword of the Howling Prince,” “Holy Bishop’s Cradle,” and “Witch’s Tears.” I can’t examine them, and they’re not for sale. They’re purely for enticement only. And lemme tell ya: It’s working.
+
+“So what’s the attribute minimum for that?” I ask, pointing at the sword.
+
+“Strength of 150. So you’d need to be ‘round level 50. ‘Course you can cheat your stats with armor and the like, but you probably won’t be stacking every point into strength either. So, yeah, Level 50 thereabouts.”
+
+“And if I don’t have that requirement?”
+
+She looks me up and down. “For a weapon like this, your twig arms pro’ly couldn’t even lift it. And if you could, the damage would be somewhere ‘round 10% of its potential. You really want to match the stat.”
+
+“So what would you say is better: One big hit with strength at 150 or being able to do a lot of hits with dexterity at 150?”
+
+“As long as you got yourself the appropriate weapon, anythin’ goes. Just a matter of style. ‘Course when it comes to adventurin’ and the like, it’s good to have some mix-and-match in the party. ‘Case you need to lift a boulder or sneak around.”
+
+“Makes sense.”
+
+Seeing as I still need to decide on a class, I take note of a few favorites and head out.
+
+Next, I drop by an item and accessory store. It’s a quaint, homey little place made of timber and hand-cut stone. An old-fashioned nook straight out of Diagon Alley called The Handy Whosits. Inside, it smells of woodsmoke and apple cider. Wooden shelves line the walls and a single table runs down the middle, overflowing with baubles and trinkets. Baubles. I don’t think I’ve ever said that word before. It seems appropriate for a place like this.
+
+As I browse, I strip off my hoodie. The place is cozy and exceedingly hot, like someone’s stoking a furnace in the back. I need to reserve the money I’ve got for a weapon, though I’m pretty sure I can use my vouchers here, so I walk over to the front desk and ring the service bell. A hunched old lady shuffles out of a back room.
+
+“Oh, a customer. You must be one of them Earth kind,” she says in a casual alien drawl.
+
+“That’s me. I have some vouchers. A trap voucher and one for a slashing accessory.”
+
+“Sure thing, sweetheart. You know what you’re looking for?”
+
+“Not a bit.”
+
+“Well, then for the trap, I’d suggest a Crippling Spikes Trap. More agile than a snare, less prone for trouble than something barbed. It’s just a line of tiny spikes. Sticks ‘em right through the boot. Or paw. Whatever you’re fighting. Inflicts a Crippling status, meaning they move slow ‘til they heal, which most ‘em don’t.”
+
+She says this in the same sweet, nurturing tone as a grandmother teaching crochet.
+
+“Yeah, okay. I’ll take that then.”
+
+Inventory item removed: (1) Trap VoucherInventory item added: (1) Cripping Spikes Trap
+
+“When you want to use it, just aim your peepers where you want it to go and think about it,” she explains. “It’ll pop out of your inventory and set itself up in a second or two. Once it’s down, there ain’t nothing you can do to reverse it unless you got yourself a Disarm Trap ability. So make sure you got your mind set.”
+
+“What if I just want to look at it?” I ask. “You know, just take the spikes out of my inventory for… reasons or whatever.”
+
+“That ain’t how inventories work.”
+
+“Right. So. How do they work?”
+
+“Mechanically? No effin’ clue. Functionally, you can put vouchers, certificates, draughts, traps, weapons, armor, and other such lootables in there. If you want to use ‘em and wear ‘em and whatnot, just give ‘em a thought. Haven’t used ‘em myself but they say draughts give you a nice fuzzy feeling, so you’ll know when they’re working.”
+
+“And nothing else can go in there?”
+
+“Nope. Nothing. No furniture. No vehicles. No cats. Not even food. It’s gotta be part of the game system and it’s gotta be an item they’ve decided is right for the inventory.”
+
+“Okay.” It’s really hot in here. I realize I’ve been fanning myself with my shirt this entire time. The old woman seems perfectly content, her veiny fingers laced elegantly together against the desk. “I also have a voucher for a slashing accessory.”
+
+“Mm-hmm. Nothing here in the Novice District is all that special, but anything you get outside of here’ll have a level requirement you can’t match. So, you can either grab something’ that’ll give you a teeny boost now or wait ‘til later.”
+
+“Um...”
+
+“It’s a lot to handle on your first day, I know. Let me tell you about the accessories that meet the voucher’s requirements. We got two. A headband that increases your attack speed by .1 seconds with any slashing weapon and a ring that has a 10% chance to poison. If it was me, I’d wait a spell. Things get pricey as you advance, and those vouchers are good for any expense.”
+
+“Can I use a voucher and sell the item back?”
+
+“You could, but you’d get a fraction of the price. Best to only sell items you really have no use for.”
+
+Given I have no idea what I’m doing, I decide to follow the woman’s advice. Thanking her, I leave and head to the next place, an apothecary that turns out to be a very small, very clinical round room with a man just perched on a metal stool in the center. After a brief exchange, another two sets of text appear.
+
+Inventory items removed: (1) Lesser Stamina Draught VoucherInventory item added: (1) Lesser Stamina Draught
+
+Inventory items removed: (2) Lesser Liquid Fire VoucherInventory item added: (2) Lesser Liquid Fire
+
+There’s no item description beyond the title. The man says I can throw it to make fire. Sounds simple enough.
+
+As I head back onto the street, I glance in the upper right corner to bring up the time. It’s 16:25. So I have about half an hour left.
+
+I sigh. Fatigue is setting in again, status ailment and all. Even if I put aside the monster hunting and teammate chopping, there hasn’t been a single day in the last two years that I’ve done as much as I’ve done today.
+
+Usually, on my days off, I would call a trip to the pharmacy a win. As in, I could shower or I could go to the pharmacy. There was no doing both. Two of the jobs I attempted to hold over the last couple of years weren’t too wild about that notion, but eventually I found a part-time gig at an art store with a rotational staff of the young, the broke, the high and the filthy. So we got along. My student debt from my first year in law school wasn’t too keen on it though.
+
+Okay. I can do this. Just one more place to go.
+
+My feet drag along the pavement to the final stop, an apparel store called Wisecracker. Inside, it feels like a middle-aged shop that’s trying to be hip, full of posters and graphic tees with sayings like “2 L33T 4 U” and “Will Trade Loot For Pie.”
+
+There’s no one else inside. I give the salesperson a withering glare which I hope translates to whatever planet he’s from. Who knows whether the Volese Assimilation guys get to choose their Pharos gig, but I’d still rather not chat up someone associated with - I check the nearest poster - a vintage painting of a toking goose saying “Good Vibes.”
+
+The voucher I earned for killing an enemy five levels higher than me just says “Clothing,” so price isn’t an issue. After noting the selection, I bail pretty quickly. Maybe there’s a less Hot Topics-y store somewhere. If I have to upgrade my “Nice Snatch” shirt for a “Froggy Style” tee with +2 fortitude, I’m going to cry.
+
+As I step out of the store, a message appears.
+
+Quest Updated!NEW HORIZONS: CompleteWhat a wonderful feeling it is to settle into a new home. Before your visa days expire, please ensure that you’ve selected a class and a region. We hope you’ve enjoyed exploring the wonderful city of Pharos and wish you good luck on your upcoming sojourns.
+
+Rewards: 100xp
+
+Another notification immediately follows.
+
+Level up! You are now Level 8. Exp to next level: 55/80Attribute points available: 9
+
+Well, hell. Maybe shopping isn’t so bad afterall.
