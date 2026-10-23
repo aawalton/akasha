@@ -1,0 +1,415 @@
+Zeldritzon [Cycle 32] - Morning
+
+Current Location:
+
+‎[Crystal Village: Underground Training Tower]
+
+␥␥␥␥␥␥
+
+Gilbud's eyes widened. "Whoa, that's insane! But... is it that simple, yo?"
+
+"Not quite, but we'll work through it. Just remember that as your stats go up, you'll become more resilient in battle. But we also need to balance this with your other parameters. You told me you wanted to be our supportive shield, right? We should also consider your WIL for stronger buffs."
+
+"Yo! Right! Can I really boost my WIL too?" He was eager now, fully invested in the idea of growth.
+
+"Absolutely. You have potential there."
+
+"Okay, but how do we start? I don't have that much points for the other stats, right?"
+
+"Well..."
+
+␥␥␥
+
+[Status Analysis] Gilbud the Plelepun
+
+Faux Nym: [Gilbud]
+
+Species: [Plelepun]
+
+Evolution: Awaiting Confirmation…
+
+Alt Species Name: "Tunnel Elephant Calf"
+
+Dominions: [Revise] [Generalist]
+
+APeX: [32,695 Units]
+
+Attributes: [Terra]
+
+Evolution Stage: [Fledgling]
+
+Current Variant Grade: [Uncommon]
+
+⟪ [Zeldritch Class] ⟫
+
+- [Architect]
+
+Description: This means he built things. Gilbud was fantastic at it. The kid was smart, and he could be a smart aleck sometimes, but he was a gentle giant. He constructed half of the Crystal Village, and I'm sure he could demolish it to prove a point.
+
+- [Trapmaster]
+
+Description: Believe it or not, this class is for those that are superb at crafting traps. In Gilbud's case, he'll have you fall into a tunnel, which will collapse. Then you're stuck in the various mechanisms that trigger within that collapsed tunnel. Those tunnels will be your literal downfall.
+
+⟪ [Zeldritch Traits] ⟫
+
+- [Momentous Muncher]:
+
+[Description]: He eats like a glutton. In all seriousness, this trait boosts the effectiveness of the crystals he consumes. The multiplier ranges from as small as 10% of the crystal's value to a significant fivefold increase in his consumption. Gilbud was no fighter, but if you understood how his APeX (power level) could have been so high… you may have guessed correctly.
+
+⟪ [Parameter Ratings] ⟫
+
+- STR: 8
+
+- DEF: 8
+
+- FPWR: 6
+
+- WIL: 8
+
+- RES: 8
+
+- SPD: 5
+
+␥␥␥
+
+"Let's start with the basics," I extended a paw. A shimmer of [Fire] flickered to life and danced around my paws, modulating into a soft flame. "I want to test your endurance against elemental energy." I winked, "Don't worry—no burns today."
+
+He laughed. "You sure know how to keep it interesting, Ki!"
+
+I molded the flame into a ball, shifting the [Fire] attribute to represent a gentle warmth rather than an aggressive inferno. "Now, Gilbud, I need you to channel your own energy. Focus on your natural resilience. When I release this, I want you to brace yourself and see how long you can hold the energy in check without succumbing to it."
+
+With that, I shot the fireball toward him, careful to maintain control over its intensity. It impacted against his bulk, radiating warmth that expanded into a soft glow surrounding him.
+
+"Whoa! I'm on fire!"
+
+He bellowed, surprised but instinctively bracing against the heat. The flames didn't scorch; they wrapped around him like a comforting embrace, testing his fortitude without threatening his well-being. I could see the gears turning in his mind as he concentrated, harnessing his own elemental energy.
+
+"Now, use your natural energy to create a barrier! Push back against the flames with your mana!" I instructed, adjusting the intensity of my fire to match his output.
+
+Gilbud huffed, determination etched on his face. I could sense his strength expanding. His core energy began to pulse, and I watched as he summoned an earthy aura—an innate defense comprised of his elemental connection to the ground.
+
+He pushed the aura against the flames. I maintained the shroud of fire at the same level as his power. It resisted, but his [DEF], [WIL], and [RES] increased several points, just as I expected.
+
+␥␥␥
+
+[Status] Gilbud's
+
+Stored AP: [613]
+
+Current APeX: [32,695 Units]
+
+[Raw Parameters]:
+
+STR: [910]
+
+DEF: [910] → [950]
+
+FPWR: [400]
+
+WIL: [1050] → [1080]
+
+RES: [600] → [630]
+
+SPD: [400]
+
+Max Parameter Cap: [32,695]
+
+Note: Total cannot surpass max APeX
+
+␥␥␥
+
+We continued our session for another hour, focusing on increasing his stats in [STR], [WIL], [RES], and [SPD]. For slower creatures like the Plelepun, raising speed had a greater impact on casting speed and reaction time than agility.
+
+Don't worry, I also benefited from our training.
+
+I developed my [FPWR], [WIL], [RES], and [SPD].
+
+␥␥␥
+
+[Status] KiAera's
+
+Stored AP: [55,323]
+
+Current APeX: ["651,161" Units]
+
+[Raw Parameters]:
+
+STR: [3000]
+
+DEF: [3030]
+
+FPWR: [3000] → [5000]
+
+WIL: [3300] → [5300]
+
+RES: [3066] → [5066]
+
+SPD: [3300] → [5300]
+
+Max Parameter Cap: [651,161]
+
+Note: Total cannot surpass max APeX
+
+␥␥␥
+
+Doing so took a significant toll on the resources of the Underground Facility, rapidly depleting the crystals that powered the entire operation. The impact was starkly evident as seen on the display.
+
+⟪ [Underground Training Tower: Upkeep] ⟫
+
+Crystal Vault: 360,405 {❖C}
+
+⟪ -8000 ❖C ⟫
+
+New Crystal Vault Value: 352,405 {❖C}
+
+Despite this daunting setback, I took some comfort in knowing that Oath and Dime's team were already out on a crystal forage run. Their efforts would hopefully help mitigate the depletion.
+
+In the meantime, my [WIL] and [RES] had seen improvement through our meditation practices, which forced us to endure the chamber's challenging mana environment.
+
+It was a demanding process that required intense focus and resilience. Like sitting in a compressed tank, we gradually increased the difficulty multiplier in the Willpower and Resist training rooms, pushing our limits and strengthening our resolve.
+
+My [FPWR] and [SPD] improved simply by firing attacks at Gilbud. With a maniac's laugh, I purposefully missed him while playfully chasing him around the room. I gave him a head start… and a heads-up, which helped the panicked calf's [SPD]. It was like killing two birds with one stone.
+
+This also benefited me, as I was channeling my inner predator to ensure he could gain a true sense of the battlefield. However, my goal was to never put him in actual combat or danger. If it became unavoidable, I wanted him to understand the importance of self-preservation. We did not have many great fighters like Jalkra's faction did.
+
+As much as I wanted to take on the fights solo, I was unsure of the tournament's rules. If we were to face Jalkra, and perhaps the entirety of DreaGoth's top monsters, with the formidable prowess they wielded, I had to ensure that Gilbud and the others could hold their own.
+
+The idea of him stepping into the fray was daunting, but I fervently believed in the strength we could cultivate together. This training session was just the beginning.
+
+"Here's a [Mud Slide] attack!" Gilbud cried out.
+
+I saw him riding atop the wave of mud. The chamber had become a mountainous terrain. The earth in the transformed room slid toward me, and I was determined not to let his love for mud get on my fur.
+
+I remained afloat and gestured with my paw. The fire I conjured morphed into a wall of crystal entangled with plant roots. Gilbud's [Mud Slide] crashed into the wall. I gestured again, causing my wall to stretch outward to contain the flood.
+
+I had thwarted his ambitious attack, yet Gilbud was no longer in his position.
+
+My ears twitched as I sensed his presence beneath the surface of the field. Pillars of rock and soil erupted from the ground. With ease, I twirled around them with majestic grace. I glanced to the side, only to find Gilbud digging through the wall.
+
+I pointed my paw toward his location and fired a [FireSphere] at it. The sphere detonated, and I quickly realized I had fallen for a decoy. I was impressed by his cunning strategy.
+
+The real Gilbud emerged from the ceiling, sending mud flying in all directions.
+
+"Too slow, Ki!" he burrowed back into his hideout. He was embracing his newfound abilities with the boldness of a child discovering a hidden world for the first time.
+
+My ears perked up, and I grinned at his success. "Nice move! You've been working on your stealth, I see."
+
+I saw him again from below. Upper body exposed. He chuckled, shaking off loose particles of dirt like a dog fresh from a bath.
+
+"Yeah! The [Trapmaster] class is getting real fun! But how about you? I thought I had you there, yo!"
+
+I chuckled back, admiring his spirit. "You did well, but I've trained against all sorts of combatants and traps. I'm always ready for surprises.”
+
+"Yo! Alright, alright, but now it's my turn! I want to try something bigger!"
+
+I raised an eyebrow, curious about what he had in store.
+
+"Alright, give it your best shot. But I won't let you have the last laugh this time!"
+
+I incinerated all the mud in the room before I continued. "Just remember to focus on control more than power. You want to build your skills, not destroy the chamber."
+
+Determined, I focused my energy, channeling a more potent flame. The air around me crackled with heat and cold as I decided to turn up the intensity a notch. The walls of the chamber flickered with sunlight as my fire transformed into a blazing inferno.
+
+"Feel that, Gilbud? That's what you'll face in a real battle if you don't keep your wits about you!"
+
+His eyes widened, but he didn't retreat. Instead, he squared his shoulders and planted his feet firmly against the trembling earth.
+
+"Yeah? I can take it!" he replied, stomping down.
+
+The ground responded to his [Quake]—ridges and bumps forming around him as he funneled his energy into the earth, channeling it into a defensive structure. Roots and rocks intertwined, creating a protective enclave that shielded him from what was to come. The result was the skill [Terra Wall].
+
+"Alright, let's see how strong that shield really is!"
+
+I launched the firestorm toward him, but he stood his ground, drawing strength from the earth and summoning a thick barrier of mud and stone. The fiery tempest struck, exploding upon contact with his makeshift shield.
+
+The heat radiated outward, but I was careful not to overdo it. I wanted to test his resilience, not turn him into a sizzling Plelepun pancake. Sweat trickled down his brow as he grunted with effort, struggling to maintain his defensive stance.
+
+Gradually, the flames started to wane, and a smoky haze filled the air. When it cleared, I could see the outline of his protective structure, still standing but visibly scorched around the edges.
+
+"Not bad, huh?" Gilbud puffed, breathing heavily.
+
+"Impressive," I smiled.
+
+We wrapped up our training, both exhilarated, with Gilbud feeling only exertion. Looking at the adjusted status board, I felt delighted with pride.
+
+␥␥␥
+
+[Status] Gilbud's
+
+Stored AP: [613]
+
+Current APeX: [32,695 Units]
+
+[Raw Parameters]:
+
+STR: [910] → [3210]
+
+DEF: [950] → [9480]
+
+FPWR: [400]
+
+WIL: [1080] → [3400]
+
+RES: [630] → [820]
+
+SPD: [400] → [1650]
+
+Max Parameter Cap: [32,695]
+
+Note: Total cannot surpass max APeX
+
+␥␥␥
+
+My back was turned to Gilbud as I allowed him to rest. I began to tend to my own status and allocate my points. The holographic status screen presented me with options for distributing them.
+
+Where would I get the best benefits from these points? I didn't need much [STR], as I wasn't much of a physical brawler. [DEF] didn't seem too vital for me either; I had nimbleness. Though it would help against rare attacks that might hit me.
+
+I had my sights set on increasing [FPWR], [WIL], and [SPD]. I had already focused on those parameters, so it wouldn't hurt to maximize them.
+
+␥␥␥
+
+[Status] KiAera's
+
+Stored AP: [55,323] → [25,323]
+
+⟪ -30,000 AP ⟫
+
+Current APeX: ["651,161" Units]
+
+[Raw Parameters]:
+
+STR: [3000] → [5000]
+
+DEF: [3030] → [5030]
+
+FPWR: [5500] → [14500]
+
+WIL: [3600] → [9600]
+
+RES: [5455] → [6455]
+
+SPD: [5480] → [15480]
+
+Max Parameter Cap: [651,161]
+
+Note: Total cannot surpass max APeX
+
+␥␥␥
+
+My heart raced as I confirmed my adjustments. I keened my focus particularly on my newly heightened [FPWR]. I would need to be careful with this amount—I didn't want to accidentally set the entire Underground Training Tower ablaze.
+
+But [WIL] would hopefully assist with that control. That was the purpose of the parameter, or so I was told.
+
+"Ugh…"
+
+I heard a groan from behind. It came from Gilbud.
+
+"Yo… feeling weird, KiAera."
+
+␥␥␥
+
+[Status] Gilbud's
+
+⟪ Variant Grade Evolution ⟫
+
+[Uncommon] → [Rare]
+
+␥␥␥
+
+I hovered toward him, my face etched with concern as I begun to reach out with a ribbon appendage.
+
+He groaned again. I stopped with a startle when his form glowed. An interface appeared before me as I saw what was happening to him.
+
+␥␥␥
+
+[Status] Gilbud's
+
+⟪ Alter Evolution Available ⟫
+
+Species: Taplaipun
+
+Attributes: [Terra] [Psion]
+
+Description: Dream Eater Zeldritchmon. It resembles a tapir with clouds for hind limbs. It floats and feeds on dreams. Nightmares are sour. But maybe that was a preference.
+
+Requirements met: [3000 WIL]
+
+␥␥␥
+
+[Alter Evolution] referred to an alternate breed. It was a form of slide evolution. Gilbud was undoubtedly undergoing this transformation and was waiting for me to confirm it.
+
+Gilbud's eyes flickered open, a look of fatigue tempered by excitement. He had pushed himself hard today. But a bright smile broke across his face despite the beads of sweat that clung to his hide.
+
+"Yo, I can really feel it! I've never felt this strong before. Well, maybe I have, but right now it feels different."
+
+I nodded, genuinely impressed by his progress. "Yeah. You've made remarkable strides today."
+
+He looked up at me, his eyes sparkling with hope.
+
+"Do you really think so? So what are we waiting for? I want to see this evolution through!"
+
+My gaze lingered on him as I thought: You already were strong. This was only the start for my little digger. "Plus, who else can turn mud and dirt into tactical advantages?"
+
+I smiled at his eagerness, knowing this moment marked a crucial turning point for him.
+
+"Alright, Gilbud. Let's do this!" I pressed my paw against the interface before us, ready to initiate the process.
+
+␥␥␥
+
+[Initiating Alter Evolution...]
+
+␥␥␥
+
+The energy around Gilbud shifted. It wrapped around him like a cocoon, propelling him into the [Taplaipun] form. The light intensified.
+
+"Yo! It's happening!"
+
+His form began to take shape, elongating and blending with the clouds. The essence of his previous self was being transformed into something extraordinary. Finally, with a dazzling flash, the cocoon shattered, sending brilliant sparks of light through the air.
+
+␥␥␥
+
+[Alter Evolution Complete!]
+
+Species: [Plelepun] → [Taplaipun]
+
+Attributes: [Terra] [Psion]
+
+Description: Dream Eater Zeldritchmon. It resembles a tapir with clouds for hind limbs. It floats and feeds on dreams. Nightmares are sour, like candy.
+
+New Skills Unlocked: [Cloud Cover], [Cleanse], [Dreamwalker], [Tranquil Mind], [Flabbergast]
+
+␥␥␥
+
+I could perceive the aura of his Psion abilities before it shrouded around him. As the light faded, I could see the results of the transformation: Gilbud now stood before me, a majestic Taplaipun.
+
+His body was sleek, and his limbs seemed to float gracefully above the ground, the cloud-like structures that formed his lower half giving him a cherubic appearance.
+
+␥␥␥
+
+[Status] Gilbud's
+
+Stored AP: [613]
+
+Current APeX: [32,695 Units]
+
+[Raw Parameters]:
+
+STR: [400] ⟪ [Shift] ⟫
+
+DEF: [9480]
+
+FPWR: [3210] ⟪ [New] ⟫
+
+WIL: [3400]
+
+RES: [820]
+
+SPD: [1650]
+
+Max Parameter Cap: [32,695]
+
+Note: Total cannot surpass max APeX
+
+␥␥␥
+
+Surprisingly, his [Parameters] shifted, adjusting to his new form. A fascinating development. Perhaps it would serve as a useful reference for everyone else in the future

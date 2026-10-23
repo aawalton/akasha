@@ -1,0 +1,321 @@
+␥␥␥
+
+[Alter Evolution Complete!]
+
+Species: [Plelepun] → [Taplaipun]
+
+Attributes: [Terra] [Psion]
+
+Description: Dream Eater Zeldritchmon. It resembles a tapir with clouds for hind limbs. It floats and feeds on dreams. Nightmares are sour, like candy.
+
+New Skills Unlocked: [Cloud Cover], [Cleanse], [Dreamwalker], [Tranquil Mind], [Flabbergast]
+
+␥␥␥
+
+␥␥␥
+
+[Status] Gilbud's
+
+Stored AP: [613]
+
+Current APeX: [32,695 Units]
+
+[Parameters]:
+
+STR: [400] ⟪ [Shift] ⟫
+
+DEF: [9480]
+
+FPWR: [3210] ⟪ [New] ⟫
+
+WIL: [3400]
+
+RES: [820]
+
+SPD: [1650]
+
+Max Parameter Cap: [32,695]
+
+Note: Total cannot surpass max APeX
+
+␥␥␥
+
+"Yo..." he looked down at himself in awe. "I feel amazing! Ki, look at me!" He swished his cloud-like lower-limbs, testing his new form.
+
+"You look incredible!" I exclaimed, genuinely impressed. "And it seems like you have new abilities at your disposal."
+
+"What do you think these new skills do? I can feel the power surging through me!"
+
+I peered closely at the interface that still hovered in front of us, absorbing the details.
+
+"Let's see what they can do. First up, you have [Cloud Cover]. This ability could allow you to create a protective vapor. Oh this one's neat: it's effective against most magic attacks."
+
+␥␥␥
+
+⟪ [Cloud Cover] ⟫
+
+Description: With a wink and a puff, you summon a shroud of clouds that not only hides you from prying eyes but also gives unwelcome spells the ol' misty misdirection. Incoming magical attacks? The longer you stay incognito depends on your [WIL] and just how hard those spells try to rain on your parade!
+
+␥␥␥
+
+"This could be a game-changer for you! You can use it to shield yourself or our teammates from powerful spells."
+
+"Yo! What else do I have?!"
+
+I scrolled through the list. "Next up is [Cleanse]. This skill allows you to remove negative status effects from yourself or allies. A great support ability."
+
+␥␥␥
+
+⟪ [Cleanse] ⟫
+
+Description: Removes debuffs and negative statuses from the target, restoring them to their optimal condition. It can also purify any harmful effects inflicted by nightmares or illusions.
+
+␥␥␥
+
+Gilbud nodded appreciatively. "I could help you and the others out in tough spots!"
+
+"Exactly. Now let's go through the next one. [Dreamwalker] allows you to enter the dreams of others. You can influence their nightmares and even gather information from their subconscious!"
+
+␥␥␥
+
+⟪ [Dreamwalker] ⟫
+
+Description: Grants the ability to enter and navigate the dreams of other beings. While inside a dream, you can manipulate the dreamscape, influence the dreamer's emotions, and extract secrets buried deep within their subconscious. It's like being a therapist, magician, and nosy neighbor all rolled into one—don't forget to bring snacks!
+
+␥␥␥
+
+"Yo... that sounds both amazing and kind of spooky!" Gilbud said, wiggling his ears. "But it could help us understand our enemies better!"
+
+"Absolutely! Next is [Tranquil Mind]. This skill enhances your concentration and grants you resistance against mental attacks. It can also help you maintain calm in chaotic situations."
+
+␥␥␥
+
+⟪ [Tranquil Mind] ⟫
+
+Description: You are the sky. Everything else—it's just the weather. Boosts mental clarity and focus—this provides a temporary increase to [WIL] and [RES], offering resistance against mind-altering effects. It enhances decision-making speed and accuracy during stressful situations.
+
+␥␥␥
+
+"Yo! I'm always getting flustered in battle! I like that!" He grinned with enthusiasm before furrowing his brow at the last skill. "But what's [Flabbergast]? That sounds funny."
+
+"Looks like an offensive ability. It's a light mental strike that can astonish or confuse your enemies. Oh boy. Looks like something up your alley."
+
+␥␥␥
+
+⟪ [Flabbergast] ⟫
+
+Description: A sudden burst of overwhelming surprise that momentarily stupefies the target. Remember: If they're too busy being flabbergasted, they can't focus on you!
+
+␥␥␥
+
+Gilbud's eyes sparkled with mischief. "So, I can shock them into submission and then hit them with my coolest moves! This is going to be epic!"
+
+I couldn't help but stifle a laugh at his enthusiasm. "You're going to be a great asset, Gilbud. Just be careful targeting your friends."
+
+"Let's go train more! I want to see how these skills work in action!"
+
+A moment later, a fluffy cloud enveloped his form, transforming his visibility into a soft mist. I could barely make out his silhouette.
+
+Impressed, I called out, "Looks good! Now let's see how long you can maintain it before I can pinpoint you!"
+
+He giggled in the cloud, and I could see hints of his excitement as he floated around the room.
+
+"Yo, Ki! I feel like I'm drifting on a dream, yo!"
+
+I focused my mind, honing in on his presence. Utilizing my sensory abilities, I tried to perceive any disturbances in the air. "You may be elusive, but I can still feel you!"
+
+Suddenly, the cloud split apart, and he shot out like an arrow, flinging himself toward me with tremendous speed. "Surprise attack!" he hollered as he attempted to land a playful tackle.
+
+I sidestepped as I felt the [Flabbergast] hit my mind. Just as it hit, I felt a momentary tickling sensation in my mind, but the effect was negligible. It had absolutely no effect on me whatsoever, probably because of my [WIL], [RES], or the high-level [Mental Resilience] I possessed.
+
+I turned.
+
+Gilbud spun awkwardly in the air, clearly not accustomed to the levitation of his alternate form.
+
+I gave him a gentle tap to help him adjust his balance, and he landed with a soft thud on the ground.
+
+"Yo!" he shook his head. "This floating thing is going to take some getting used to."
+
+I chuckled. "You'll figure it out. It's all about finding your center of gravity again, just in a different form."
+
+"Okay, okay. Let's try that again."
+
+He grinned, a playful spark igniting in his eyes.
+
+His cloud cover enveloped him once more, and he started drifting around the chamber like a ghost. I could catch flashes of his form moving through the mist, but I decided to push myself a bit further.
+
+"Alright, let's see if you can take me off guard this time!" I called out, standing confidently with my paws planted wide. I concentrated, preparing myself for whatever he was planning.
+
+Silence enveloped the room for a moment. Then, without warning, he burst out of the mist, launching straight for me once again.
+
+I felt it—subtle but present. He had buffed himself with [Tranquil Mind].
+
+He swerved at the last second. The next thing I knew, a wall of stone shattered in front of me.
+
+He attempted to blind me with the rubble.
+
+This time, I anticipated his attack. I sidestepped, but instead of dodging completely, I shifted my weight to catch him. His eyes widened in surprise as I redirected his momentum, guiding him gently to the floor.
+
+"Gotcha!" I laughed.
+
+He looked up at me, grinning widely despite being pinned beneath my paw. "You're good, Ki! I like that!"
+
+I released him, and he rolled back to his feet, shaking off the experience. The gleeful twinkle in his eye told me he was enjoying this exhilarating exchange.
+
+He puffed out his chest proudly. "I'm like a... a mud magician or something!"
+
+I chuckled softly. "A muddy magician, perhaps."
+
+A thoughtful expression crossed his face.
+
+"Okay, okay, maybe I need a different tactic. What if I try to confuse you with a combo of my skills?"
+
+After he said that, a new interface flickered into view before me. It radiated from my Chimera's Mark, which he would not have been able to see. However, I discovered something intriguing.
+
+␥␥␥
+
+[Status] Gilbud's
+
+⟪ Alter Evolution Accesible ⟫
+
+[Plelepun] ← or → [Taplaipun] ⟪ Current ⟫
+
+␥␥␥
+
+"Gilbud. Could you focus on becoming a Plelepun again? I want to see what happens."
+
+Gilbud blinked, his enthusiasm momentarily dimmed by confusion. "You mean... go back? But why? I just got to be a Taplaipun, yo!"
+
+"I want to see how your abilities might shift if you revert. It could provide insights into your skills and options!"
+
+He considered this for a moment, tilting his head in thought. "Alright! If you think it'll help, I'm in! Let's see what this Plelepun can do again!"
+
+His consideration initiated the reversion.
+
+␥␥␥
+
+[Initiating Alter Reversion...]
+
+␥␥␥
+
+Gilbud was enveloped in a swirl of silver and earth tones. I watched as his form began to shift, the clouds dissipating and morphing. The glow radiated until, with a final burst of energy, he landed lightly on the ground, now matching his previous form.
+
+␥␥␥
+
+[Alter Reversion Complete!]
+
+Species: [Taplaipun] → [Plelepun]
+
+Attributes: [Terra] [Psion]
+
+New Skills Unlocked: [Pun Pulse], [Tremor Pulse], [Muddy Mirage]
+
+␥␥␥
+
+⟪ [Pun Pulse] ⟫
+
+Description: A quick pulse of earth energy that creates small tremors, causing damage to the target. But with a pun for the senses! Affected foes may find themselves momentarily distracted by the internal vibrations.
+
+␥␥␥
+
+I grinned, witnessing the return of Gilbud's familiar state. He shook off the remnants of his transformation, a disappointed look crossing his face. "Yo… I kind of liked floating."
+
+Another interface hit me again. Today just seemed like a day of constant revelations. This time, though, it was about Gilbud's actual evolution into the [Emergent] form.
+
+The [Terrelepun] it mentioned.
+
+␥␥␥
+
+[Status] Gilbud's
+
+⟪ [E]-Stage Evolution Available ⟫
+
+Species: Terrelepun
+
+Attributes: [Terra] [Psion]
+
+Description: Earth-Digging Elephant Zeldritchmon. It resembles an elephant with earthen patterns and reinforced ears. The ears are tough and resemble shields. It is armored with dirt. Its tusks are capable of spinning into drills.
+
+Requirements met:
+
+- [APeX] needed: 6800
+
+- [Cycles] in existence: 34
+
+- [Tunnels Created] in total: 680
+
+␥␥␥
+
+"Gilbud! You can evolve again! Just look at this!" I pointed out the details to him.
+
+His eyes widened as he scanned the information, his earlier disappointment melting away. "Yo! A Terrelepun?! Seriously? That sounds awesome!"
+
+His expression fell neutral—almost deadpan. "No, I'm good."
+
+"Wait, what? Why not?" I exclaimed, confused by his sudden lack of enthusiasm.
+
+Gilbud shrugged, his ear flaps flopping comically. "Yo… I mean, I just got a new form. I want to enjoy being a Plelepun before I think about evolving again."
+
+I raised an eyebrow, understanding but acknowledging there was more to the rejection of the evolution. "I won't push. Want to tell me why?"
+
+He shook his head. "Yo, sorry. This is a bit personal, Ki…"
+
+His voice was very quiet when he continued. "I don't want to transform if PleleJade is no longer here…"
+
+"PleleJade?"
+
+The name slipped through his lips with a weight that pulled at my heartstrings, like a forgotten melody returning to the forefront of my mind.
+
+"Who is she?" I prompted gently, hoping to coax him into sharing more.
+
+Gilbud's gaze shifted downward, his ears drooping slightly as he uttered the name. "Yeah, PleleJade. She was my best friend, and we went through so much together. She always believed in me and pushed me to build. Losing her and Mr. Develepun to those predators in the subterranean depths… it changed everything."
+
+My heart sank at the mention of his friend and mentor. I had heard whispers of the predatory dangers lurking beneath the surface— the Burscourge—but I had never learned the details. "I'm so sorry, Gilbud. I didn't realize she meant so much to you."
+
+He swallowed hard, his voice barely above a whisper.
+
+"PleleJade was like a sister to me, yo. She was a Plelepun too. We had dreams of evolving together, becoming stronger, exploring the world side by side. But when she was taken, it felt like all those dreams shattered."
+
+He poked a tunnel into the ground and stared down into it. "I can't help but feel that if I evolve again, it would somehow mean I'm moving on… as if I'm forgetting her."
+
+I stepped closer to him, placing a comforting paw on his shoulder. "Gilbud, you can honor her memory every step of the way, regardless of your form. You aren't leaving her behind by evolving. You're carrying her spirit with you into every new adventure."
+
+He looked up at me, eyes glistening with unshed tears.
+
+"But what if it doesn't feel the same, yo? What if I lose the part of me that she loved?"
+
+"You won't lose that part, trust me. You're the same Gilbud who can turn mud and dirt into tactical advantages. You carry her legacy in how you fight, how you look out for others, and how you stand up in the face of danger. Evolving is just another chapter in your story."
+
+He nodded slowly, the conflict swirling within him. "I get what you're saying, Ki. It's just… hard. I still think I need time to process everything, yo."
+
+"Of course. Take all the time you need," I assured him, appreciating his emotional weight.
+
+"There's no rush. We can train as Plelepun for now, and when you're ready, we can revisit the idea of becoming a Terrelepun."
+
+Gilbud smiled faintly, though the sadness remained in his eyes. "Thanks, Ki. I really needed to hear that. I guess I was just afraid of losing the bond we had. But I want to make them proud... somehow."
+
+"And you will."
+
+Suddenly, my communicator buzzed, a notification lighting up on the screen embedded in the band on my wrist. I swiped it open.
+
+␥␥␥
+
+⟪ Incoming Transmission: Oath ⟫
+
+␥␥␥
+
+"KiAera, you there? We finish forage run!"
+
+I blinked with excitement, quickly replying, "Yes! We just wrapped up training. Did you find anything valuable?"
+
+"Incredible stuff! Oath's team came across massive quartz vein! Managed to extract some rare gems in new dungeon. The Crystal Vault will look much healthier after we deposit these."
+
+Gilbud perked up. "Yo! That's awesome! If we're lucky, we might be able to cover the upkeep!"
+
+Oath continued with an adorable nod.
+
+"Oath has more news. Wasp guests tagged along with team. They bring their construction crew… and a girlie Gilbud."
+
+"She green."
+
+Gilbud shuddered, then said, "Yo… Oath, repeat that again."

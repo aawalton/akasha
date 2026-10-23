@@ -1,0 +1,239 @@
+Zeldritzon [Cycle 32] - Morning
+
+Current Location:
+
+‎[Crystal Shelter: Underground Training Tower]
+
+␥␥␥␥␥␥
+
+␥␥␥␥␥␥
+
+⟪ [Revenue & Upkeep] ⟫
+
+␥␥␥␥␥␥
+
+Crystal Vault: 362,405 {❖C}
+
+⟪ +163,451 ⟫
+
+Crystal Upkeep: 189,911 {❖C} per cycle
+
+Cycle 31's Crystal Collection: 55,451 {❖C}
+
+␥␥␥␥
+
+⟪ [Notes] ⟫
+
+- {❖C} means Crystal Credits
+
+- The Crystal Vault and Collection represent the total accumulation of all crystal assets.
+
+- The amount is calculated based on the total of the blue, green, orange, and other crystals that have been foraged.
+
+- Monsters must consume 1/100th of their APeX (power level) to survive. Consequences begin on the 10th cycle without consumption.
+
+- This is the Crystal Upkeep that must be maintained. This total is calculated from all the monsters members of the Chimera Crew.
+
+␥␥␥␥␥␥
+
+After our brief clash with Zesza's forces, we took the necessary time to regroup and formalize what would become the [Chimera-Zespzap Alliance] of UvoSath. It was strange, in a way—shaking hands, or stingers, with enemies just days after trading blows. But diplomacy often comes stitched with bruises…
+
+…And a generous payment of [108,000] {❖C} from our kind Zespzaps.
+
+Zest was the first to be assigned—a decision that, to no one's surprise, generated a few sparks of its own. Literal ones.
+
+It made sense. Zespzap, being creatures of the [Voltage] attribute, were naturally drawn to electric energy, and Zest radiated with it. He was more than just compatible; he was magnetic to them. The moment the delegation arrived, two wasp-women began orbiting him like charged particles. They didn't even try to hide it.
+
+Seemed like Queen Zesza IX had… preferences.
+
+"I know. You're disgruntled. Sorry, Zest," I told him quietly. He didn't answer, but his antlers gave off a quick crimson snap. One of the wasps giggled. The other hissed at me—territorial already.
+
+He didn't speak when she did that, but the snap of his antlers said more than words. I'd thrown him into a hive of suitors and politics, and I wasn't sure if he'd come back the same.
+
+I kept my tone steady. "Maintain the peace. At all costs. You can do this."
+
+He nodded. Then they led him away—escorting him toward the hive's inner sanctum with the kind of reverence usually reserved for divine artifacts. Or offerings.
+
+I hoped he'd forgive me later. Zest was grim, focused—a true companion in battle—but he'd always known that his nature would draw attention from the [Voltage]-kind. He was lightning incarnate. The Zespzap couldn't resist.
+
+That wasn't even the biggest shock of the day.
+
+Queen Zesza, in what she called a gesture of "sincere alliance," handed over her only son. Just like that. Wrapped in honey-woven armor and crowned in chitin-gold. I was stunned, and I wasn't the only one.
+
+Back on Earth, bees and wasps didn't have princes. They had drones. Disposable, directionless. But here? The Zespzap only had one male of true lineage: the Hive-Prince. And unlike Earth's analogs, the Hive-Prince wasn't some accident of nature—he was the result of a rare and violent ascension.
+
+I didn't want to go into the details. No one needed that imagery. But I had learned the truth. Hive-Princes were born from the union of a Queen and a Hive-King—a warrior who had survived countless trials, endured the agony of evolution, and proven himself worthy of choosing his mate. Hive-Kings were rare. Legends, even among the Zespzap. They earned their freedom, their own hives, and the right to select a Queen.
+
+That made the boy a legacy. A promise. And a responsibility.
+
+I didn't know if this was a gift, a burden, or a trap. Was it an olive branch, or a pawn dropped onto our board? No Queen gives up her heir without cause. But I accepted him. Just as Zesza accepted the alliance. For now.
+
+Without further delays—by the very next morning, the Chimera Crew's training sessions were already underway. Our focus: the tournament in seven days.
+
+I checked my status—to study, to improve. Once I understood where I stood, I'd begin assessing the others.
+
+␥␥␥
+
+[Status] KiAera's
+
+Creature: [Merecritt] — [Meremecritt (D)]
+
+Innate: [Human]
+
+Age: 320 Cycles (25)
+
+Dominions: [Revise] [Virtuoso]
+
+APeX: ["651,161" Units]
+
+Limit Cap (APeX): [79,200,000 Units]
+
+Attributes: [Fire] [Beast] [AltRe:]
+
+Evolution Stage: [Dominant]
+
+Current Variant Grade: [Unique] ☆
+
+Active Transformation: [None] [Dormant State]
+
+Alter Evolution: [None]
+
+Possible Transformations (Alternative Modes): [Feral Form]
+
+␥␥␥
+
+Refresher for myself: Creature was self-explanatory. Not every Merecritt was a Meremecritt—but all Meremecritts belonged to the Merecritt species. The form I'd reached was one of the [Dominant]-stage evolutions of the species, meaning I had hit a major milestone few others did.
+
+As I flipped through another tab, I noticed my [Alter Evolution] slot was empty. That caught my attention.
+
+According to GamaGen's docs, [Alter Evolution]—also known as [Slide Evolution]—lets Zeldritchmon like me shift sideways into a different species entirely, while staying at the same power level. Kind of like a class change, not a level-up. Think of when I transformed from a Mearcritt into a Pluffcritt—both were Merecritt evolutions, both at [Emergent] stage. I could shift between them freely… if I had access to both.
+
+In theory, if I unlocked a third form, I could jump to that as well, no restrictions. Slide Evolutions don't require de-leveling. Just the right access.
+
+But in this case? No dice. My current form—Meremecritt—seemed to be a [Unique] branch of the Dominant-stage line. One-of-a-kind. Meaning? I was locked in. No slide, no alternate paths. Stuck.
+
+Unless I Devolved.
+
+I could do that manually if I focused. So I did. A breath in… a breath out… and just because I felt like it, I de-evolved back to [Mearcritt].
+
+[New Status Update…]
+
+␥␥␥
+
+[Status] KiAera's
+
+Creature: [Merecritt] — [Mearcritt (E)]
+
+Innate: [Human]
+
+Age: 320 Cycles (25)
+
+Dominions: [Revise] [Virtuoso]
+
+APeX: ["325,580" Units]
+
+Attributes: [Fire] [Beast] [AltRe:]
+
+Evolution Stage: [Emergent]
+
+Current Variant Grade: [Unique] ☆
+
+Active Transformation: [None] [Dormant State]
+
+Alter Evolution:
+
+– [Pluffcritt]
+
+Possible Transformations (Alternative Modes):
+
+– [Feral Form]
+
+␥␥␥
+
+Devolving cut my power in half—that's the usual cost. It's not always a bad move, though. Sometimes, the lower form offers better strategy or access to special Alter Evolutions. In my case? Pluffcritt might have offered more defensive advantages, true. But honestly? I suspected my Dominant-stage had just as much resilience—maybe more. I hadn't been forced to test that yet.
+
+So I reverted again—back to [Dominant].
+
+I noticed that when I downgraded to my [E] form; it was like being an overfilled balloon—taut, straining, swelling to the edge of bursting. Yet every few moments, it'd ease—only to swell again. A cycle of pressure and false relief.
+
+But in my Dominant form, everything felt aligned. Like I had room to breathe again.
+
+␥␥␥
+
+[Status] KiAera's
+
+Dominions: [Revise] [Virtuoso]
+
+␥␥␥
+
+My primary [Dominion] was [Revise], a specialized path that let me rewrite the elemental properties of my abilities—particularly [Fire]. It meant my flames weren't bound to burn one way. I could tweak their temperature, texture, behavior, even their elemental type.
+
+That flexibility expanded even more after I evolved into a [Unique]-grade. That's when a third attribute slot unlocked—marked by a strange new term: [AltRe:].
+
+At first, I wasn't sure what it meant. Altered Resonance, maybe? Whatever the full form was, the idea was clear: this slot let me remap or alter one of my elemental affinities—an ability likely tied to the creative power of my [Revise] and [Virtuoso] synergy.
+
+So I did what I always do when I don't understand something: I tested it.
+
+Inside a secluded chamber, I summoned my HUD and focused on the [AltRe:] slot. A menu appeared—less like a list and more like a palette. Only six options were available—not the full 24 elements I'd learned existed. Just the ones I had earned through combat, bonding, or exposure.
+
+⟪ [Select an Attribute] ⟫
+
+- [Ore]
+
+- [Glacial]
+
+- [Wind]
+
+- [Plant]
+
+- [Deino]
+
+- [Voltage]
+
+[Voltage]. That was new. A perfect test.
+
+I selected it. The change was immediate.
+
+␥␥␥
+
+[Status] KiAera's
+
+Attributes: [Fire] [Beast] [AltRe: Voltage]
+
+␥␥␥
+
+I focused. Flame sparked between my paws… and turned into blue lightning. I laughed—genuinely delighted. I glanced at a nearby training pillar and raised my hand.
+
+[Spectral Lightning].
+
+The attack streaked out. The pillar melted before it even collapsed. That wasn't just electricity—it was superheated plasma. Could I rival Zest now? Hard to say—I hadn't seen him fight since his Rite. But with this? Maybe. Or at least imitate his tricks.
+
+Then came the real fun. I cycled through the other attributes, testing their behavior one by one.
+
+I tried switching to [Ore]. Immediately, the ground responded. Like Oath, I could pull crystal formations from the sediment, shaping them into jagged spikes or defensive walls. I turned toward the rubble from the last test, and with a little focus, had the fragments orbiting me like moons around a planet. A flick of the wrist sent them shooting into the wall like shrapnel darts.
+
+[Glacial] returned me to my default frost mode. My [Spectral Flame] shifted cold, then colder, until it became [Spectral Frost]—ice fire, slow-burning, lingering like frostbite. I could freeze enemies and objects from a distance until they shattered.
+
+[Deino] altered my form slightly. I looked… draconic. A fae-dragon hybrid. Small, still cute, but with sharper edges: scales, claws, fangs. Every slash left ghostly afterimages: phantom claws that cut even without direct contact.
+
+[Wind] made my body lighter. Faster. I twirled through the air and fired off techniques like [Spectral Wind], [Whirlwind], and [Slice] while airborne and elegant.
+
+And then there was [Plant]—my favorite. It started with small pellets. I'd toss them, and they'd sprout—into vines, tree trunks, massive bamboos, or even beanstalks tall enough to surprise a giant. Best of all? I could animate them.
+
+That's when I made a new discovery.
+
+My [Virtuoso] Dominion wasn't just about switching elements. It let me combine them.
+
+Most creatures could only wield one attribute at a time—maybe two, if their form allowed. But [Virtuoso] made me different. It didn't follow a fixed script. It let me compose, mix and match, like painting with light.
+
+So I combined [Ore] and [Plant].
+
+The result? A handful of fluffy, bear-sized golems. Animated stone wrapped in living vines, shaped in the image of my old [Pluffcritt] form. They were adorable, but more importantly, they were durable.
+
+I struck one with a high-impact [MereEar Punch]. The golem cracked, but within seconds, the damage began to regenerate. Stone reforging, vines regrowing. Their defense was impressive.
+
+However, when I hit one with [Fire] or [Glacial], it didn't recover. The combined heat and cold disrupted the synergy, leaving nothing behind to mend. Burned vines and frozen rock don’t rebuild themselves.
+
+Still… what I had now was powerful. Adaptable and strategic.
+
+With [Virtuoso] guiding my hands, I could customize my combat style for any opponent, any environment. And this was just the beginning.

@@ -1,0 +1,453 @@
+Zeldritzon [Cycle 32] - Morning
+
+Current Location:
+
+‎[Crystal Village: Underground Training Tower]
+
+␥␥␥␥␥␥
+
+⟪ [Upgrade Notes]:
+
+- In light of the partially completed establishment of the Council of the Crystal Shelter, the Crystal Shelter has officially been renamed the "Crystal Village."
+
+- Reason: The shelter's radius has greatly expanded alongside the construction of various buildings.
+
+- Votes were cast by Councilmen Nex, Zest, Viz, Gilbud, and Saptal.
+
+- Votes were cast by Councilwomen Loa, Skadi, Oath, Perl, and Tailza.
+
+- A vote was cast by Councilchild Liozel. There was 100% agreement to change the name, with Nex grumbling about how ridiculous the change was. ⟫
+
+I had a hunch it wasn't just [AltRe:] doing the heavy lifting. My [Virtuoso] Dominion was the key—it was what let me wield elemental energy like an artist with a palette. And my [Unique] variation was the engine—the source that allowed me to make it work.
+
+␥␥␥
+
+[Status] KiAera's
+
+Creature: [Merecritt] — [Meremecritt (D)]
+
+Innate: [Human]
+
+Age: 320 Cycles (25)
+
+Dominions: [Revise] [Virtuoso]
+
+APeX: ["651,161" Units]
+
+Limit Cap (APeX): [79,200,000 Units]
+
+Attributes: [Fire] [Beast] [AltRe:]
+
+Evolution Stage: [Dominant]
+
+Current Variant Grade: [Unique] ☆
+
+Active Transformation: [None] [Dormant State]
+
+␥␥␥
+
+Most creatures could channel one attribute at a time, maybe two if their evolution line allowed it. But [Virtuoso] gave me creative control, letting me blend, layer, and combine attributes in ways that weren't standard. That's how I could pair [Ore] and [Plant] together—turning rubble and seeds into animated golems. I wasn't just mimicking other element users… I was composing something new.
+
+Most Dominions were structured—rigid, really. Fixed techniques. Predictable outputs. Especially if the monster fell under the [Generalist] type. [Generalists] were stable, balanced, and versatile—but they followed rules. One attribute at a time. No blending. No creative combinations.
+
+But I wasn't a [Generalist]. I was [Virtuoso]. That changed everything.
+
+[Virtuoso] was rare and experimental by nature. It rewarded improvisation, letting me merge elemental effects rather than just toggle between them. With it, I could combine [Plant] and [Ore] to create stone-vine golems, or hybridize flame and ice to craft spectral frostfire. Things a [Generalist] couldn't even attempt.
+
+A monster could only be either [Generalist] or [Virtuoso]—never both. It was a core classification, like choosing a path of logic versus art. But beneath that, all monsters had access to a second layer of Dominions:
+
+- [Revise] – to rewrite and alter elemental properties
+
+- [Perceive] – for enhanced senses and awareness
+
+- [Disrupt] – to break or nullify opposing powers
+
+- [Manifest] – for conjuring solid energy or constructs
+
+- [Augment] – to boost physical stats or allies
+
+- [Unleash] – to tap into raw, aggressive power
+
+Every monster specialized in one of these secondary Dominions, but could use the rest in limited forms. Kind of like having one dominant instinct and several backup reflexes.
+
+For me, [Virtuoso] was my path, and [Revise] was my specialty. That's why I could reshape my flames, remix my attributes, and make things no other Merecritt—or Zeldritchmon—should logically be able to.
+
+I guess that concludes that part. So far, this had been what I learned about my new abilities.
+
+I returned somewhere quieter—more internal. I had work to do.
+
+It was time to allocate the points I'd been sitting on for far too long. AP particles—accumulated from battles, growth, survival. I'd hoarded them without meaning to. So much had happened lately that I'd forgotten about them completely.
+
+Honestly? I used to think they didn't matter much. That raw instincts, good tactics, and my Dominions carried me just fine. But with the tournament looming? Yeah. That thinking had to change.
+
+The last time I touched my stats was... what, back during the Fluzzerbrats incident?
+
+␥␥␥
+
+[Status] KiAera's
+
+Stored AP: [55,323]
+
+Current APeX: ["651,161" Units]
+
+[Parameters]:
+
+STR: [3000]
+
+DEF: [3030]
+
+FPWR: [3000]
+
+WIL: [3300]
+
+RES: [3066]
+
+SPD: [3300]
+
+Max Parameter Cap: [651,161]
+
+Note: Total cannot surpass max APeX
+
+␥␥␥
+
+I blinked at the numbers. I hadn't even realized how much of this had gone untouched. Maybe some of it was auto-assigned when I evolved? Either way, it didn't matter. Not now. Because these stats did matter—a lot more than I used to believe.
+
+In Zeldritzon, stats worked like a game system. But one rooted in biology and logic. Every fight was a formula: power versus resistance, speed versus reflex. How hard you hit, how well you endured—it all came down to this framework.
+
+I started to reframe it mentally:
+
+- Dominions determined how I manipulated elemental or metaphysical power.
+
+- Attributes were what elements I could channel.
+
+- And Parameters? They were the raw math behind everything else—the numbers that decided how much punishment I could take, how fast I could move, and how hard I could hit.
+
+Say an [Unique] enemy with a power level near mine—around [650,000] APeX—landed a clean hit. With no bonuses from techniques or traits, I'd still be able to take it. It'd hurt, sure. But my DEF parameter would soften the impact. The gap in power between [651,161] and their attack would make the difference between getting knocked flat… or staying on my feet.
+
+But there was more going on under the hood. Before spending my AP, I had to remember how the Stat Rating system worked.
+
+Every creature in Zeldritzon has what's called a Stat Rating for each parameter: STR, DEF, FPWR, WIL, RES, and SPD. These Ratings act as multipliers. They define how efficiently a monster uses its raw stat points.
+
+This was how they worked. Each stat has a Rating that boosts its effectiveness:
+
+Stat
+
+Description
+
+STR
+
+Physical attack power
+
+DEF
+
+Physical durability and resistance
+
+FPWR
+
+Energy/magical/spell power
+
+WIL
+
+Mental willpower and resistance
+
+RES
+
+Resistance to status effects/ailments
+
+SPD
+
+Speed, reaction time, agility
+
+A creature with a [Rating] of 8 in DEF gets an 8% performance boost in that stat. That means my [3030] DEF doesn't just hit like 3030—it functions more like [3272].
+
+It was why two monsters with identical APeX totals can perform very differently in combat. Species matters. Evolution matters.
+
+These Ratings are determined by your species and evolution stage. You can't just train them higher. They're locked unless you evolve—or change breeds entirely through an Alter Evolution.
+
+For reference, here was where I stood now:
+
+Stat
+
+Rating
+
+Raw Value
+
+Effective Value
+
+STR
+
+8
+
+3000
+
+3240
+
+DEF
+
+8
+
+3030
+
+3272
+
+FPWR
+
+11
+
+3000
+
+3330
+
+WIL
+
+11
+
+3300*2.5
+
+9158
+
+RES
+
+9
+
+3066*2.5
+
+8355
+
+SPD
+
+10
+
+3300
+
+3630
+
+For comparison, the average Minokaurbo—like Mina in her [Emergent]-stage—has this layout (as a [Common]-variant):
+
+- STR: 9
+
+- DEF: 8
+
+- FPWR: 5
+
+- WIL: 6
+
+- RES: 8
+
+- SPD: 6
+
+Like I said. These stat Ratings are set in stone for each species. They only increase with evolutionary upgrades or when shifting to a different creature form through [Alter Evolution]. The absolute max cap for any stat Rating is [25]—which, let's be honest, is practically myth-tier.
+
+In battle, these ratings create natural rules. If Mina's SPD Rating was a [6] and mine was a [10], then I was just flat-out faster—no debate. Zeldritzonian law favors the higher Rating. It makes combat intuitive, grounded. Balanced.
+
+GamaGen, the architect of this world, clearly believed in realism within chaos. Every system, even the supernatural ones, had physics beneath them. That was why a fae-beast like me could outpace a brute like Dominus.
+
+Archliorex forms weren't built for speed. Their average SPD Rating? Around [8]. Respectable, but not elite. They were tanks and wrecking balls, not missiles (except for their roars). Their true advantage was offense—base STR and FPWR for a [Common]-grade Archliorex sat comfortably at [13].
+
+Though honestly, the idea of an elephant-type monster breaking the sound barrier was both hilarious… and a little horrifying.
+
+That was when the monster—not the speed aspect—pushed the double doors open with his trunk. My adoring elephant calf monster, Gilbud.
+
+␥␥␥
+
+[Status Analysis] Gilbud the Plelepun
+
+Faux Nym: [Gilbud]
+
+Species: [Plelepun]
+
+Evolution: Awaiting Confirmation…
+
+Alt Species Name: "Tunnel Elephant Calf"
+
+Dominions: [Revise] [Generalist]
+
+APeX: [32,695 Units]
+
+Attributes: [Terra]
+
+Evolution Stage: [Fledgling]
+
+Current Variant Grade: [Uncommon]
+
+⟪ [Zeldritch Class] ⟫
+
+- [Architect]
+
+Description: This means he built things. Gilbud was fantastic at it. The kid was smart, and he could be a smart aleck sometimes, but he was a gentle giant. He constructed half of the Crystal Village, and I'm sure he could demolish it to prove a point.
+
+- [Trapmaster]
+
+Description: Believe it or not, this class is for those that are superb at crafting traps. In Gilbud's case, he'll have you fall into a tunnel, which will collapse. Then you're stuck in the various mechanisms that trigger within that collapsed tunnel. Those tunnels will be your literal downfall.
+
+⟪ [Zeldritch Traits] ⟫
+
+- [Momentous Muncher]:
+
+[Description]: He eats like a glutton. In all seriousness, this trait boosts the effectiveness of the crystals he consumes. The multiplier ranges from as small as 10% of the crystal's value to a significant fivefold increase in his consumption. Gilbud was no fighter, but if you understood how his APeX (power level) could have been so high… you may have guessed correctly.
+
+␥␥␥
+
+Had I found my first subject? I humored myself, but without the jokes. He would suffice as my first pupil. He had it coming.
+
+"Gilbud, you arrived just in time."
+
+"Yo, KiAera! How's your sess been so far?"
+
+"Not too shabby. Care to train with me?"
+
+"Yo! You're not serious, right? How would I even compare to you, sis?"
+
+"We don't compare. We improve. That's our crew motto, remember?"
+
+He scratched his head with his trunk, a display of incredulousness mixed with excitement.
+
+"Yeah, I remember, yo. But you're on a whole different level! You've got the whole [Dominant] [Virtuoso] thing going for you, and I'm just some silly [Uncommon] Plelepun."
+
+I grinned, drawing up my energy in anticipation.
+
+"Exactly! The journey isn't about comparison; it's about growth. You've got your own strengths, and I am here to help you uncover them. We both have our paths; let's make them shine."
+
+Gilbud's eyes lit up, a sparkle of determination glimmering through. "Alright then! What do you have in mind?"
+
+First I gave his parameter stats a check. To see where he could improve.
+
+Stat
+
+Rating
+
+Raw Value
+
+Effective Value
+
+STR
+
+8
+
+910
+
+983
+
+DEF
+
+8
+
+910
+
+983
+
+FPWR
+
+6
+
+400
+
+424
+
+WIL
+
+8
+
+1050
+
+1134
+
+RES
+
+6
+
+600
+
+636
+
+SPD
+
+5
+
+400
+
+420
+
+Striping his stats down to the bare minimum—bare bones without modifiers—this was how it looked. He wouldn't be able to see it because it seemed my Chimera's Mark granted me this unique [Insight].
+
+␥␥␥
+
+[Status] Gilbud's
+
+Stored AP: [613]
+
+Current APeX: [32,695 Units]
+
+[Parameters]:
+
+STR: [910]
+
+DEF: [910]
+
+FPWR: [400]
+
+WIL: [1050]
+
+RES: [600]
+
+SPD: [400]
+
+Max Parameter Cap: [32,695]
+
+Note: Total cannot surpass max APeX
+
+␥␥␥
+
+He had a total of [4,270] points already assigned to his parameters. This meant he had room to potentially assign [28,425] points to his stats. If he had them.
+
+"Alright, Gilbud, let's start by assessing what you've got and where we can make some real gains," I said, pacing back and forth, the excitement bubbling inside me as I focused on my new pupil.
+
+"First things first—what kind of role do you want to play in the upcoming tournament? Do you want to be defensive, offensive, or more of a support role?"
+
+He thought for a moment, tilting his head, causing his large, floppy ears to sway.
+
+"Yo... I mean, I'm not really made for fighting like you are. I think... I'd like to be more of a support, you know, or a builder. Maybe I could help others with defensive buffs or something, yo."
+
+I nodded, a plan already forming in my mind. "Okay! Let's enhance your defensive capabilities and support role. We can work on maximizing your DEF first, and then we'll look at your WIL to help with crowd control and buffs."
+
+"Sounds good, but how do we do that?"
+
+"Easy! You have a good amount of stored AP to allocate as you see fit. Let's start with your DEF. You currently have a DEF of 910, which is already solid, but we can push that much higher."
+
+I pulled up the numbers in my mind, calculating quickly. "If we invest 10,000 AP into DEF, that'll give you a new raw value of 10,910. With your DEF Rating of 8, that will boost your effective value to about 11,854."
+
+Gilbud picked up my whispering. He gestured for me to slow down, as if I had suddenly grown two heads. He seemed to be processing what I had told him but gave me a perplexed look. I understood why he would.
+
+"Where are these numbers and terms coming from, Ki?"
+
+I chuckled, realizing I might have been throwing too much info at him too quickly. "I guess I'm just a bit excited to share all this new knowledge. It's like a toolkit for growth, you know? Every figure and stat means something in our world. It's a way to unlock your potential!"
+
+I took a moment—and a few books—to get him up to speed. Gilbud read too—he always did—while resting his head against my shoulder.
+
+Gilbud's ears perked up as he absorbed my words, yet his expression remained confused but interested. "So… you're telling me those numbers are like… what, a guide to how strong I can get?"
+
+"Exactly!" I beamed at him.
+
+"Think of it like building a structure. The stronger your foundation, the taller and more resilient your building can be. By allocating your AP in the right way, we can reinforce that foundation. Let's say if we build you up defensively, you can absorb hits and stay in the fight longer. Plus, with your [Architect] capabilities, you could really turn the tide of battle without ever stepping into the front lines yourself!"
+
+His eyes widened with realization. "So I can help others be stronger too, huh? That's kinda awesome! But what if I just… get all jacked in DEF? What if I can't keep up with the others, yo?"
+
+"Good question! That's why balance is important."
+
+We agreed that that if we just loaded him up on [DEF], we'd risk leaving him vulnerable in other areas.
+
+"You want to be able to move around and help out, right? That means we need to make sure your SPD and WIL don't fall behind too much."
+
+A smile broke through Gilbud's face.
+
+"Yo, I get it! So, we'll make me a beefy brick while keeping my brain sharp?"
+
+"Yep! You'll be our very own fortress."
+
+I paused, refraining from mentioning that he would be second to Oath; I didn't want to bruise his ego. I let my gaze drift over the stats once more. "Let's allocate enough AP to raise your DEF, then we can consider increasing your STR, WIL, and SPD slightly as well."
+
+After a few moments, I shared my plan.
+
+"Let's invest 10,000 AP into your DEF, which will give you that sturdy backbone. After we handle that, we can put another 5,000 into WIL to boost your ability to manifest buffs and community spells, and finally, we can throw 3,000 into STR and SPD to give you a little more nimbleness."
+
+Gilbud's trunk swayed eagerly. "Yo! Let's do it!"

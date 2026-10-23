@@ -1,0 +1,341 @@
+Zeldritzon [Cycle 39] - Afternoon
+
+Current Location:
+
+‎[DreaGoth: Gladia Coliseum]
+
+␥␥␥␥␥␥
+
+␥␥␥␥␥␥
+
+⟪ [Revenue & Upkeep] ⟫
+
+Crystal Vault: 3,884,103 → 2,884,103 {❖C}
+
+⟪ -1,000,000 ⟫
+
+Crystal Upkeep: 664,688 {❖C} per cycle
+
+Cycle 33 → 39's Crystal Collection: 3,238,950 {❖C}
+
+␥␥␥␥
+
+The trip into DreaGoth's airspace went without incident. Lairica kept us on course, and the crew stayed sharp. No mists reached for us, and no hostile forces tried to intercept. That was the only good thing I could say about the place.
+
+The terrain below was worse up close—cracked black stone with pockets of mist curling through every gap. No sign of life worth noting, just a few withered patches of pale grass clinging to the ground like they were too stubborn to die.
+
+In the distance, I saw it. The colosseum.
+
+It was massive, even from here. A perfect ring of dark stone, reinforced with jagged spires that looked like they’d been pulled straight from the mountains. Each tower was lined with banners from the factions participating. The structure took up nearly the entire horizon, its shadow cutting across the land like a border.
+
+Something else caught my attention. Far beyond, moving in from the east, there was an airship. A large one that shared a resemblance to a pirate ship. The style was familiar—brutal metal plating, crimson markings, spiked hull.
+
+It belonged to Jalkra, the Oni Warlord. His clan's sigil was painted across the flag and its front.
+
+The ship was already lowering toward the colosseum's private docking platforms. If Jalkra was here early, that meant his fighters were already getting into position.
+
+We were still closing in when I saw what was happening around the arena. Monsters.
+
+Thousands of them. Different shapes, sizes, species—some towering over the others, some barely coming up to a knee.
+
+They crowded the pathways and open areas, swarming in and out of makeshift camps. Merchants had set up stalls, banners were being waved, and the noise was constant. The sound carried all the way up to the Fortress—cheers, shouts, and the kind of deep roars you only hear when predators are excited.
+
+This wasn't just a tournament. It was an event for all of DreaGoth's monsters, maybe even some from beyond its borders. The sheer number of spectators made it clear: this wasn't going to be a quiet affair.
+
+[LAIRICA]: "Docking procedures will begin shortly. Hold your positions until I bring us down."
+
+I stayed at the front platform, watching the colosseum grow larger in the view. We were next.
+
+The Crystal Fortress began its descent. The hum of the engines deepened into a slow rumble as the entire village shifted downward. The wind coming up from below carried the scent of ash and cold stone.
+
+The docking platforms on the colosseum's outer ring came into view—giant slabs of reinforced black metal, each with its own set of chains and anchors large enough to secure airships bigger than ours. I counted at least seven platforms already occupied.
+
+"Hmph. Of course he's in a rush."
+
+Mina pointed out with a tilt of her head. I followed the direction of her horn's ire.
+
+Jalkra's ship was parked on the far end, its boarding ramps already extended. I could see members of his clan disembarking. Among them were tall, horned figures in armor that looked like it had been forged for war, not ceremony. They didn't waste time; they moved straight toward the colosseum gates in a disciplined line.
+
+We were directed toward a vacant platform on the west side. Lairica adjusted our position with precise movements, rotating the Fortress until we were perfectly aligned with the docking clamps.
+
+[LAIRICA]: "Final approach. Brace for contact."
+
+The landing was smooth. The clamps engaged with a loud metallic snap, locking us in place. Heavy chains tightened around the base structures, and a set of crystal anchors activated beneath us, syncing our own power with the colosseum's systems.
+
+From here, the noise of the crowd was much louder. The platform below was packed with monsters of every kind—spectators, arena staff, guards, and merchants all moving in controlled chaos. Bright flags and banners snapped in the wind, each representing a different faction.
+
+The air was thick with the sound of shouting, laughter, and the occasional challenge roar from somewhere in the mass.
+
+Loa leaned over the railing beside me. "Looks like everyone showed up."
+
+"Good," I said, scanning the crowd. "That means they'll all see us win."
+
+Lairica's voice came through one last time.
+
+[LAIRICA]: "Docking complete. You may disembark when ready. The colosseum staff will direct you to the preparation halls. It seems that your host is the Sovereign IX of DreaGoth…"
+
+I recalled she was the one who proclaimed herself as the Shuten Doji. I never met this significant figure in person. But I did know she was equal in status to Szylla, another member of the Sovereign IX.
+
+I turned to the crew. "Alright. Gather your gear. We're going in."
+
+The tournament was no longer something on the horizon. It was right in front of us.
+
+"Lairica activate the shield dome around the village once we step out. I acknowledge that it'll burn over a million {❖C}."
+
+Liozel began to approach me. I met T-Rex kitten halfway, then gave a pat on his shoulder.
+
+"You'll stay here with the crew that aren't participating. They'll be depending on you, Lio."
+
+"But big sis, Ki, I want—" I hugged him, which got him to quiet down.
+
+"No matter what happens, you're to remain here. You're safety is the utmost priority for me just like the others."
+
+My paw brushed behind a stray hair over his eye. "You've grown…"
+
+We held each other's gaze for a moment before Scarbol placed his hand on my shoulder.
+
+"Boss, it's about time we head inside. It appears that the Doji's maidens are awaiting us."
+
+I looked upward to him. But he wasn't just Scarbol anymore. The new figure before me was now Bizcarbol, a fusion between Scarbol and Zolrak. It was the only way to free Scarbol from his petrification—Lairica had informed me about this cure to counteract Violet's [Stone Gaze]. Zolrak had volunteered himself in for the process to save his close friend.
+
+␥␥␥
+
+[Status] Bizcarbol's
+
+Creature: [Kolkobalt (E)]
+
+Faux [Nym]: Bizcarbol the Kolkobalt
+
+Titles:
+
+- "Chimera Crew Captain"
+
+- "Captain of Blue-Striped Kobold Division"
+
+Alt Species Name: "Draconic Kobold"
+
+Dominions: [Augment] [Generalist]
+
+APeX: [858,450 Units]
+
+Attributes: [Brawl] [Cryptic]
+
+Evolution Stage: [Emergent]
+
+Current Variant Grade: [Rare] (Fusion)
+
+␥␥␥
+
+␥␥␥
+
+[Combat Status]
+
+Stored AP: [0]
+
+Current APeX: [858,450 Units]
+
+[Raw Parameters]:
+
+STR: [252,000] ⟪
+
+DEF: [242,000]
+
+FPWR: [1,000]
+
+WIL: [10,000]
+
+RES: [243,000] ⟪
+
+SPD: [121,000]
+
+Max Parameter Cap: [858,450]
+
+Note: Total cannot surpass max APeX
+
+␥␥␥
+
+After that brief analysis, I shook off the slight startle of looking at him. I was still not used to the fusion that might have been permanent.
+
+With that, I gathered my thoughts and began to depart as the fore of the group. Once descended the ramp, we were approached by a group of oni woman adorned kimonos.
+
+The one of at the front caught my attention. She was lithe but tall in stature, though the large sword holstered on her back belied her compact frame. She gave us a slight bow, then smiled.
+
+"Greetings, KiAera of the Chimera Crew. We will be your guides. I am Roarka. A servant sentinel of Sovereign Crueltal."
+
+␥␥␥
+
+[Status] Roarka's
+
+Creature: [Onitaurbo (D)]
+
+Titles:
+
+- "Sentinel Sergeant"
+
+- "Crueltal's Servant"
+
+Alt Species Name: "Oni Zeldrimon"
+
+Dominions: [Augment] [Generalist]
+
+APeX: [1,113,000 Units]
+
+Attributes: [Brawl]
+
+Evolution Stage: [Dominant]
+
+Current Variant Grade: [Rare]
+
+␥␥␥
+
+I responded in kind, with a curtsy.
+
+Roarka blushed and the sentinels behind her whispered amongst each other. My ears managed to catch one of them mutter, "Cute."
+
+It appeared they were enamored by beastly-fae form.
+
+Mina stepped up, and I almost wanted to make an audible groan as she grinned, then went and sized up Roarka.
+
+"Looks like this auntie got a promotion!"
+
+Roarka raised a brow; her expression remained stern as she scrutinized Mina. However, the flash of recognition in her eyes was a fire of disbelief.
+
+"By venerable Crueltal's name! You're mini Mina! You've grown since we last met!" Her expression shifted into a sneer. "Still the same darn misfit as I remember. I thought you'd be with Jalkra's group? Why are you with these monfolks?"
+
+Mina gave her a casual shrug. "Not with that fiend anymore. That floating critter there is my boss now." She thrusted a thumb back at me as though I were a mere object of little importance.
+
+"Guess you could say I'm with the winning team now."
+
+Roarka's eyes flickered between Mina and me, her initial wariness fading into a begrudging respect. Her tone turned serious, a contrast to the levity that had filled the air moments before.
+
+"I see. You never cease to surprise me, Mina. But be mindful, this tournament holds many dangers, not just in the arena."
+
+"Don't worry, we can handle ourselves," I assured her as I hovered forward. "We're not here just to compete; we're here to prove ourselves."
+
+Roarka nodded, her demeanor softening slightly as she stepped aside.
+
+"Well, then follow me. The preparation halls are this way. You'll want to arrive promptly; the opening ceremonies are about to begin."
+
+The sentinels fell in line behind her, creating a protective barrier as we navigated through the throngs of eagerly awaiting spectators.
+
+Monsters of all kinds called out to each other, their voices mixing into a cacophony of excitement and anticipation. The vibrant colors of their various factions painted the scene like a chaotic masterpiece, flags waving and sounds of laughter and challenge ringing out.
+
+As we approached the colosseum's entrance, I couldn't shake the feeling of being under scrutiny. The gazes of many creatures settled upon us, some filled with admiration, others laced with envy or malice. This tournament would not only showcase our strength but also serve as a stage for alliances and rivalries to form.
+
+"Stay alert," I whispered to my crew, keeping my senses sharp. "It's not just about winning; we need to watch our backs. As much as they may cheer, there are those who would rather see us fail."
+
+Mina chimed in, "Let them try. They'll find that we're not so easily toppled."
+
+She flashed a grin, her confidence infectious despite the ominous atmosphere.
+
+We entered the grand halls of the colosseum, the sheer size of the inner chambers overwhelming. High vaulted ceilings loomed above us, adorned with carvings depicting past champions and great battles.
+
+Roarka led us to a section reserved for competitors, flanked by banners that represented different teams. I examined each one, searching for any familiar sigils or faces that might pose a challenge.
+
+My focus sharpened, and I felt my heart rate quicken with the thrill of recognition when I saw MereShaman floating into the chamber.
+
+␥␥␥
+
+[Status] MereShaman's
+
+Creature: [Meresamacritt (D)]
+
+Titles:
+
+- "Merecritt Shaman"
+
+- "Won't Read: 13 Other Unnecessary Titles…"
+
+Alt Species Name: "Sage Critter Zeldrimon"
+
+Dominions: [Manifest] [Virtuoso]
+
+APeX: ["2,500,000" Units]
+
+Attributes: [Psion] [Spatial] [Beast]
+
+Evolution Stage: [Dominant]
+
+Current Variant Grade: [Alpha] [Scion]
+
+␥␥␥
+
+"Oh stars…" Skadi was the first to become alert as she spotted her uncle across the room.
+
+"Ki…!" She began with a hiss, then whispered. "That's my Unkie Omenore. Why is he here? Skaditty think he's here to drag me back to the settlement."
+
+Her ears folded against her head to exhibit her concern—a contrast to her usual cheerful self. So I gave her a gentle pat to ease her mind.
+
+"Or perhaps he's competing in this tournament as well? Though that is odd in its own right."
+
+My gaze trailed to the gray-furred Merecritt beside MereShaman. He had the appearance like a rabbit-like ferret—a badger?—but there was a subtle hint of darkness radiating from his aura. It was hidden so well that I could've missed it.
+
+"Skadi… you know that guy?"
+
+Her eyes' sparkled when she keened on the Merecritt I mentioned. "Oh, marvelous! That's Razecritt! He was one of my litter buddies!"
+
+␥␥␥
+
+[Status] Razecritt
+
+Creature: [Merazcritt (D)]
+
+Titles:
+
+- "Hunt Captain"
+
+Alt Species Name: "Mere Critter Zeldrimon"
+
+Dominions: [Unleash] [Virtuoso]
+
+APeX: [2,862,000 Units]
+
+Attributes: [Grim] [Beast]
+
+Evolution Stage: [Dominant]
+
+Current Variant Grade: [Elite]
+
+␥␥␥
+
+The said Merecritt's ears perked up at Skadi calling his name. His eyes fell on us, and it looked as though he had a smirk on his face. He even had body language that suggested he was considering getting the MereShaman's attention.
+
+Instead, he stalked toward us with a handsome smile on his face, much like a dog that had just been praised. He exuded a dazzling charm.
+
+"Hello, ladies," he said, dipping his head once.
+
+"Ladies, huh?" I folded my arms across my chest.
+
+Now up close, I got a better look at him, and the realization hit that he was quite large and toned for a Merecritt. Somehow, I could tell that beneath all that adorable fluff, he had a significant build. The fact that he dwarfed both Skadi and me was notable. This guy was probably a renowned warrior of our species.
+
+"Razie! It's been so long!" Skadi nuzzled her nose against his. Razecritt reciprocated the gesture with the same energy. Skadi then looked over at me. "This is KiAera! She's like a cool sister friend to Skaditty!"
+
+Razecritt looked up at me, his voice deep and dulcet for a creature that could have been mistaken for a plushie.
+
+"Well, well. You're a unique beauty. I take it you're the one that Omenore— ahem—our divine MereShaman had been complaining about during his ascension rite?"
+
+Razecritt's gaze lingered on me for just a fraction too long, the kind of look that weighed and measured in equal parts. There was no hostility in it, but there was something else—an appraisal, like a predator taking the scent of new territory.
+
+"Depends on what he told you," I replied, keeping my tone light but my posture firm. "If it was flattering, I might believe him. If it wasn't…" I decided to play along by motioning my ribbons in a sway of intimidation, as I let the sentence hang.
+
+That handsome grin of his twitched upward. "Flattering? Hah. He used more… colorful terms. But you wouldn't be here if there wasn't truth to the tales."
+
+Skadi beamed between us like this was some joyous reunion instead of a conversation laced with the scent of tension.
+
+"Razie's the best hunter in the settlement! He once chased a dreadclaw through the mists for three days without sleeping—"
+
+"And caught it," Razecritt added smoothly. "Though I doubt you came here to trade hunting stories."
+
+His eyes flicked toward the far end of the hall, where Omenore was speaking with a cloaked figure I didn't recognize. Even from here, I could feel the MereShaman's presence—a heavy, coiled thing, restrained but always pressing outward, like a storm just behind the clouds.
+
+Razecritt was still smiling at me like this was all a warm-up to a better punchline when a familiar, overly dramatic voice boomed from across the preparation hall.
+
+"Ahhh! There you are, my champion-in-training! My fated comrade in glorious victory!"
+
+The crowd near the middle of the hall actually parted for him—not because they were intimidated, but because no one wanted to risk getting hit by a sweep of those heavy golden ears.
+
+Omenore, the MereShaman, floated in on his gleaming orb like some sort of miniature parade float, every bit as pompous as I remembered. His skull mask tilted upward slightly as though the ceiling itself should be honored by his presence.
+
+His head then lowered as he shot his gaze at Skadi.
+
+"You—" he pointed a paw at her like she'd just committed a cosmic crime— "left the Merecritt settlement. Without. Permission."

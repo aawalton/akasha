@@ -1,0 +1,429 @@
+Zeldritzon [Cycle 32] - Morning
+
+Current Location:
+
+‎[Crystal Village: Underground Training Tower]
+
+␥␥␥␥␥␥
+
+In all the intrigue I had about evolution, Gilbud shrank down to his original size, returning to his [Fledgling] Plelepun form, looking quite triumphant.
+
+"Yo! It looks like I could will it!" He emphasized "could" and waved his trunk in elation.
+
+I gave him a pat on the head.
+
+"Seems like you're most true to yourself as a Plelepun." Though I didn't admit aloud how much cuter he was in that form.
+
+Gilbud gave me a nuzzle before turning to deliver his instructions to the Zespzaps. They were going to construct another building, creating more housing for the monsters in the village.
+
+As Gilbud left my side, a light breeze rolled in from the north—tinged with a strange scent. A faint electric tang, like ozone after a thunderstorm.
+
+In addition, there were whispers among some of the wasps. I ignored them then.
+
+I resumed watching Gilbud as he met up with Emerapun, and they quickly got caught up in conversation. I had a strange feeling that something was off with Emerapun…
+
+I shrugged the thought off, deciding to check the status of the crew's training.
+
+"Let's see everyone's progress..."
+
+I waved my paw, and the interface appeared.
+
+Shimmer!
+
+[Training Session Progress!]
+
+I scanned the progress report for my monster crewmates and made some simple annotations on their growth so far based on the status screens I analyzed. My gaze hovered over the contact list to access their stats.
+
+The default organization was alphabetical. [F] and [E] indicated their evolution stage. I scrolled down with a swipe.
+
+␥␥␥
+
+[A]
+
+Amber the Leagleap (E)
+
+[B]
+
+Beta Osseod (F)
+
+[C]
+
+Cello the Kobolbo (F)
+
+Crestella Skadicritt (F)
+
+[D]
+
+Delta Osseod (F)
+
+Dime the Dideinofern (E)
+
+[E]
+
+"Emerapun" the Plelepun (F) ⟪ [Construct] ⟫
+
+[G]
+
+Gilbud the Plelepun (F)
+
+Gulli the Kobolbo (F)
+
+[H]
+
+Hull the Kobolbo (F)
+
+[I]
+
+Ilak the Kobolbo (F)
+
+[J]
+
+Julgi the Kobolbo (F)
+
+[K]
+
+[x20] Kolkobalts (E)
+
+Kyrawl the Skyrawsoar (E)
+
+[L]
+
+Liozel the Liorex (F)
+
+Loa the Lowatengu (E)
+
+Loop the Kobolbo (F)
+
+[M]
+
+Mina the Minokaurbo (E)
+
+Mu Osseod (F)
+
+[N]
+
+Nex the Nexburst (E)
+
+Nu Osseod (F)
+
+[O]
+
+Oath the Orselith (E)
+
+Ollie the Kobolbo (F)
+
+[P]
+
+Perl the Perlachime (E)
+
+Pi Osseod (F)
+
+[R]
+
+Rox the Nexburst (E)
+
+Ryla the Kobolbo (F)
+
+[S]
+
+Saptal the Saploom (E)
+
+Sapshorla the Saploom (E)
+
+Scarbol the Kolkobalt (E) ⟪ [Inactive] ⟫
+
+[T]
+
+Tailza the Kobolbo (F)
+
+[V]
+
+Viz the Nexburst (E)
+
+[Z]
+
+Zazeke the Ezespzap (E)
+
+Zest the Doomzorvus (E)
+
+Zolrak the Kobolbo (F)
+
+␥␥␥
+
+Saptal and Sapshorla had evolved into [Emergents]. That brewed questions in my head.
+
+As I reflected on the situation, my mind wandered back to something Liozel had said. He mentioned that he played a crucial role in Saptal and Sapshorla's evolution, acting as a bridge between them and me while I was away. Essentially, he had become the catalyst that triggered their development in my absence.
+
+The mystery of how that worked perplexed me, though I didn't want to dwell on the matter for too long. The three of them were fine now, and that mattered more to me than anything else.
+
+My gaze shifted to the time displayed on my own interface. The wallpaper featured a photo of me with the Chimera Crew team, with Liozel cradled in my arms. In bold blue letters, the time read [33:58]. Thirty-three hours had passed, with 58 minutes indicating that about 34 hours out of the UvoSath's 96 had elapsed.
+
+That was fantastic for us.
+
+However, the Underground Training Tower has drained more of our resources. Without GamaGen, the discounts were nonexistent. The conversion rate remained at 1:1.
+
+⟪ [Underground Training Tower: Upkeep] ⟫
+
+Crystal Vault: 645,153 {❖C}
+
+⟪ -13,150 ❖C ⟫
+
+New Crystal Vault Value: 632,003 {❖C}
+
+Beforehand Oath and Dime's team had brought back crystals from their expeditions. Oath told me she'd discovered a new dungeon. It had been abandoned, oddly picked clean. No signs of wildlife, only faint scorched trails along the rock walls. That alone made me want to scout it myself
+
+I jotted down in my notes to explore it. Though Oath was more than sufficient to handle it, I always preferred to see things firsthand. There was something about being in the thick of it that provided insights no report could fully capture.
+
+I leaned back, revolving the details in my mind while considering the next moves for the crew.
+
+Amber would likely be ready for a tough encounter soon in the upcoming tournament, especially with the enhancements we had achieved together. The additional [WIL] would grant her more versatility in utilizing her abilities without the constant worry of running out of MP mid-battle, and the boost in [DEF] might offer a better chance of survival in skirmishes.
+
+I scrolled through the training logs again, noting the differences in their fighting styles and abilities. Each team member complemented the others like pieces of a puzzle.
+
+␥␥␥
+
+[Status Analysis] Dime the Dideinofern
+
+Faux Nym: [Dime]
+
+Species: [Dimetfern] — [Dideinofern]
+
+Alt Species Name: "Dimetrodon Monster"
+
+Dominions: [Unleash] [Generalist]
+
+APeX: [86,985 Units]
+
+MP: [10,696 / 10,696] + [Reserve: 150]
+
+Attributes: [Plant] [Relic] [Wind]
+
+Evolution Stage: [Emergent]
+
+Current Variant Grade: [Uncommon]
+
+␥
+
+⟪ [Zeldritch Class] ⟫
+
+- [Sharpshooter]
+
+⟪ [Parameter Ratings] ⟫
+
+- STR: 8
+
+- DEF: 6
+
+- FPWR: 9
+
+- WIL: 2
+
+- RES: 4
+
+- SPD: 6
+
+␥␥␥
+
+Dime had shown steady growth as well, morphing into a strong contender with decent defensive skills.
+
+␥␥␥
+
+[Combat Status] Dime's
+
+Stored AP: [1840]
+
+Current APeX: [86,985 Units]
+
+[Raw Parameters]:
+
+STR: [9650]
+
+DEF: [9500]
+
+FPWR: [21500]
+
+WIL: [1800]
+
+RES: [1800]
+
+SPD: [6930]
+
+Max Parameter Cap: [86,985]
+
+Note: Total cannot surpass max APeX
+
+␥␥␥
+
+Perhaps I could orchestrate a training session where Amber and Dime could fight alongside each other, learning to work as a cohesive unit.
+
+I smiled as I did just that.
+
+Slash! Clash! Clash! Whirl!
+
+The rambunctious collision were enough to redirect my attention. I went ahead to check out the origin of the noise.
+
+I spotted the reason. In the [Speed] chamber, Nex was in the midst of combat against his brother, Viz. The two bat monsters were slicing through the air at supersonic speeds, causing strong gusts to sweep through the area.
+
+The boys seemed to be enjoying themselves.
+
+But it wasn't just them training in the room.
+
+On the other side were Skadi and Rox, who were enacting a mock drill of a predator hunting its prey. Rox was the predator, swooping down to snatch up Skadi. Skadi, like her usual bubbly self, giggled as she evaded Rox's dives. Rox wore a small smile as she chased her pink friend.
+
+Their laughter and shouts created a lively atmosphere. It warmed my heart. When Rox and Skadi noticed me, I gave them a wave.
+
+I left them to their own devices as I made my way out of the Underground Training Tower.
+
+Half the day had passed, and plenty of daylight hours remained. The weather was good. Gilbud had evolved, and I was proud of him. However, before I decided to continue the training session for myself, I planned to pay "Emerapun" a visit.
+
+I found her among the construction team of Zespzap wasps. Her team was molding a wasp-nest palace for Zazeke. I still disapproved of its construction. It took a bit of convincing for me to accept it. After some consideration, I allowed it.
+
+My requirements were simple: that it wouldn't outscale the other buildings in Crystal Village. That its layout and design would match the aesthetic of our village. Overall, just that it wouldn't stand out too much. If those requirements weren't met, I would demolish it myself.
+
+I recalled the conversation I had with Zazeke.
+
+"Surely, Madam KiAera won't—"
+
+I interrupted Zazeke with a wave of my paw. "That's final. These terms are the only way for you to have your nest built."
+
+That sparked a flicker of electricity—probably annoyance—to crackle from Zazeke's wings. Nonetheless, the wasp prince gave me a prompt nod and proceeded to relay the orders to his construction team.
+
+While they were bustling around the field, I hovered toward Emerapun.
+
+"Hey, would it be fine for us to talk? Privately, please."
+
+The elephant calf monster greeted me with a smile and a sway of her trunk. "Sure, Miss KiAera! You're not going to bury me or anything?"
+
+She let out a soft chime of laughter.
+
+I chuckled softly, shaking my head. "No, nothing like that. I promise." I motioned for her to follow me a little further away from the construction site where the wasps were diligently working.
+
+In the distance, I noticed a few Zespzaps buzzing erratically in the sky. They weren't ours.
+
+I narrowed my eyes but said nothing. Probably strays from a neighboring hive.
+
+Once we were at a safe distance nearby a cliff, I turned to face Emerapun, her gentle eyes meeting mine.
+
+"I see you've been involved with the construction a lot lately. Are you still finding time for your own skill development?"
+
+Emerapun nodded enthusiastically, her ears flapping slightly as she spoke. "Oh yes! I've been practicing my [Lumbering Charge]. I can now knock over logs and small structures with ease—"
+
+"You're not who you say you are."
+
+That led to Emerapun to freeze for a second. She was quick to shake it off with another laugh.
+
+"That's silly, I'm Emerapun! Who else could I be?"
+
+She almost said the last part quieter.
+
+"Sorry. I'm usually not one that meddle into matters like this. But I know you're not just that."
+
+I pressed with the statement as I gave a glance over Emerapun's shoulder. I could feel another energy signature not too far from here. The strings tethered to Emerapun were mana-based. It was as if she were puppeteered.
+
+I recognized that Emerapun may have been a construct. A type of golem.
+
+"Why are you hiding your identity from Gilbud… Jaejade?"
+
+Emerapun's eyes widened in surprise, betraying the calm demeanor she had tried to maintain. For a moment, she hesitated, her trunk curling slightly as she took a step back.
+
+The tension thickened the air around us.
+
+"Jaejade? I… I don't understand what you mean, KiAera," she stammered, her voice wavering slightly.
+
+I took a deep breath, adjusting my stance. This was delicate territory. "You don't need to hide anything from me. I saw the way you interacted with Gilbud. You care for him, and there's more to your connection."
+
+Her ears drooped a little, and I could see the gears turning in her head, weighing her options.
+
+I pressed on gently, "If you're a construct, a golem of sorts, then why not just reveal your true self?"
+
+Emerapun looked at the ground, and I could feel a surge of emotions rolling off her. There were layers of conflict beneath her surface—desire for acceptance, fear of rejection, and perhaps a form of guilt.
+
+"Miss KiAera," she began slowly. Her voice remained steady but was laced with a hint of trepidation, "I didn't mean to deceive anyone. It's just... complicated."
+
+I leaned in closer, my ears perked up, listening intently. "Complicated how?"
+
+Emerapun went silent. Her eyes dulled, as if she had deactivated. The tendrils connected to her dissipated. Moments later, a shudder in the ground caught my attention.
+
+Another elephant calf monster—a Plelepun—popped her head out from the earth. She looked different from Emerapun, who still stood before me.
+
+I realized that she was indeed Jaejade, the other Plelepun that Gilbud had been longing for. She was a real monster in the flesh, unlike the construct.
+
+"Shoot, the jig is up, jo."
+
+Jaejade emerged fully from the ground, her texture resembling that of rich earth, with vibrant flowers blooming along her back.
+
+She looked at her counterpart, hesitation etched across her face. Her gaze fell on the Emerapun construct, which had now become as still as a statue.
+
+"Jo… You're not going to tell Gilbud that I'm here," Jaejade gestured toward the direction of the construction site where Gilbud was energetically chatting with the wasps.
+
+I glanced between Jaejade and Emerapun, piecing together the mystery of their identities.
+
+"What do you mean you don't want Gilbud to know? He deserves to know the truth, doesn't he?"
+
+Jaejade shifted nervously as she took a deep breath.
+
+"Jo! You don't understand. I've been hiding from him to protect him. This construct—Emerapun—was created to fill the void I left behind. When I was separated from him, I thought it would be easier for him to move on if he thought I was gone forever. If he sees me…"
+
+Her voice trailed off, but the implication hung heavily in the air.
+
+Emerapun blinked, her eyes returning to their usual brightness.
+
+"But I was meant to help him! I thought if I could replicate the bond you two had, I could keep him happy while you were away," she chimed in, her voice more confident now that her secret was out.
+
+I furrowed my brow. "But don't you see? Truth is more powerful than any illusion. Gilbud has the right to make his own choices. He's not just going to forget about you because of her presence."
+
+The tension grew palpable as Jaejade looked at Emerapun, the two of them locked in a silent exchange. I could sense the struggle between them; Jaejade wanted to protect Gilbud from the pain of their separation, while Emerapun seemed genuinely fond of him, yearning to nurture and support.
+
+Finally, Jaejade sighed, her shoulders drooping. "I just didn't want him to feel torn between two of us. And now that you know, what happens next?"
+
+I crossed my arms, weighing the options. "We need to tell Gilbud the truth. He deserves to know both of you. It's not fair to keep either of you in the dark."
+
+Emerapun nodded in agreement. "I want him to know I care for him, and that I'm here to support him! If he has to choose, then so be it, but he should at least hear both sides."
+
+Jaejade hesitated, her brow furrowing in deep thought. "But what if he sees this as betrayal, jo? What if he feels like I abandoned him? I can't bear the thought of him being hurt again."
+
+I stepped closer to her, softening my gaze. "Jaejade, hiding won'tt protect him. It will only breed confusion and resentment down the line. Gilbud is stronger than that. He deserves honesty, and so do you."
+
+Emerapun chimed in.
+
+"And I truly believe he will understand. He has a good heart. I've seen the way he lights up when he talks about you, Jaejade. He hasn't forgotten, and he won't resent you for being gone. He's just been waiting for closure."
+
+A glimmer of hope sparked in Jaejade's eyes, but the fear still lingered. "What if he can't accept me as I am now? He might think I rushed back, that I didn't care enough to find a way to return sooner."
+
+"Then show him you care now," I urged.
+
+My tone became supportive. "Let him see your resolve. If he sees your sincerity, he will understand. You have a chance to rebuild what was lost, but only if you are honest with him."
+
+After a moment of silence, Jaejade took a deep breath.
+
+"You're right. I can't keep running from my past. If anything, I owe it to him to face it." She glanced at Emerapun, who smiled encouragingly. "And you, too. You deserve to shine, just like he deserves to know who truly loves him."
+
+Emerapun's eyes sparkled. "Let's go together then! We can face this as a team."
+
+Jaejade nodded, steeling herself. "All right. But what if he gets upset with both of us?"
+
+I reassured them with a paw placed on their shoulders.
+
+"If he does, we'll handle it together. Let's be prepared for whatever happens next."
+
+As we made our way back towards the construction site, I glanced at Jaejade. "You know him better than anyone. What do you think he will need to hear?"
+
+"I think he'll want to know I'm here because I am his dear friend, jo. I want him to understand that my absence didn'tt mean I didn't care. It was because I was afraid of hurting him more than I already had."
+
+We approached the bustling area where Gilbud was busy chatting with Zazeke.
+
+Suddenly, I heard a commotion from the sky. There were at least two hundred Zespzaps present, none of which wore the Chimera Crew insignia. They all appeared to be warrior types.
+
+More noise hummed from the construction site.
+
+Curious, I turned my head and spotted the source of the uproar. The Zespzap wasps were buzzing loudly, locked in a fierce clash. One of the wasps had accidentally knocked over a pile of glittering wood fiber they had been temporarily storing. Shiny shards scattered everywhere, glinting in the sunlight.
+
+I reacted with a [MereSwiftness] dash as Zazeke flung himself toward Gilbud. His sharp stinger was sheathed like a lightning blade, and I feared his intentions weren't good.
+
+Was this a mutiny? Had I been mistaken about him?
+
+From the skies, the voices rang out again in unison.
+
+"We, the Black Hornets, have arrived! Tear them all apart!"
+
+And just like that, everything we built teetered on collapse.

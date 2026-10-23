@@ -1,0 +1,215 @@
+Zeldritzon [Cycle 39] - Afternoon
+
+Current Location:
+
+‎[Crystal Village: Glades]
+
+␥␥␥␥␥␥
+
+␥␥␥␥␥␥
+
+⟪ [Revenue & Upkeep] ⟫
+
+Crystal Vault: 645,153 → 3,884,103 {❖C}
+
+⟪ +3,238,950 ⟫
+
+Crystal Upkeep: 664,688 {❖C} per cycle
+
+Cycle 33 → 39's Crystal Collection: 3,238,950 {❖C}
+
+␥␥␥␥
+
+⟪ [Notes] ⟫
+
+- {❖C} means Crystal Credits
+
+- The Crystal Vault and Collection represent the total accumulation of all crystal assets.
+
+- The amount is calculated based on the total of the blue, green, orange, and other crystals that have been foraged.
+
+- Monsters must consume 1/100th of their APeX (power level) to survive. Consequences begin on the 10th cycle without consumption.
+
+- This is the Crystal Upkeep that must be maintained. This total is calculated from all the monsters members of the Chimera Crew.
+
+␥␥␥␥␥␥
+
+Seven days had passed since the incident with Blatt. The days had gone smoothly since the attack and the assassination attempt on my life; all in the name of keeping me from participating in the tournament. I had lived up to my expectations as a [Unique] monster.
+
+Despite that peace, my crew and I still faced frequent attacks from Fluzzerscreech's forces. I had never seen that fly's face in person. She must not have had the heart to carry out a personal attack herself. She might've feared me after Blatt's defeat. And thanks to Loa's intell about Fluzzerscreech's maneuvers, we were capable of tackling her tricky tactics.
+
+Now I had to finalize the preparations to save Denji and Diantha. I might also have to deal with Jalkra himself, who had taken the personal responsibility of rescuing his child and wife. I respected that decision, although neither of us had much choice in preventing our factions from fighting each other.
+
+The twin suns blazed overhead on a bright dawn afternoon. I hovered toward the place where the rest of my crewmates waited. They had already packed and rested, ready for our departure to DreaGoth, the location of the arena where the tournament would take place.
+
+We would not travel afoot or by any non-magical means. We would take the entire Crystal Village into the sky in the style of a Flying Fortress. This became possible because of a peculiar entity that had remained dormant for eons, dwelling in the depths of the Underground Training Tower. I had convinced Lairica, the Chief Controller of the UTT, to help us.
+
+She may have been just an orb, but she was a joy to talk to, like a friendly older lady with a lifetime of experience. The talks we shared were not important now, but my gratitude toward her was immense. Lairica had agreed to help us reach the tournament in less than a day.
+
+The only problem was the set of terms she had attached to our agreement. That was set for later.
+
+I decided to check my current status to evaluate my progress after my eventful spar with both Zest and Nex this morning.
+
+␥␥␥
+
+[Status] KiAera's
+
+Creature: [Merecritt] — [Meremecritt (D)]
+
+Innate: [Human]
+
+Age: 390 Cycles (25)
+
+Dominions: [Revise] [Virtuoso]
+
+APeX: ["1,515,000" Units]
+
+Limit Cap (APeX): [96,525,000 Units]
+
+[MP: 261,500 / 261,500] + [Reserve: 690,000]
+
+Attributes: [Fire] [Beast] [AltRe:]
+
+Evolution Stage: [Dominant]
+
+Current Variant Grade: [Unique] ☆
+
+Active Transformation: [None] [Dormant State]
+
+Alter Evolution:
+
+– [None]
+
+Possible Transformations (Alternative Modes):
+
+– [Feral Form]
+
+␥␥␥
+
+␥␥␥
+
+[Combat Status]
+
+Stored AP: [3,995]
+
+Current APeX: ["1,515,000" Units]
+
+[Raw Parameters]:
+
+STR: [50,000]
+
+DEF: [50,000]
+
+FPWR: [400,000] ⟪
+
+WIL: [412,000] ⟪
+
+RES: [115,000]
+
+SPD: [413,000] ⟪
+
+Max Parameter Cap: [1,515,000]
+
+Note: Total cannot surpass max APeX
+
+␥␥␥
+
+They had made a fuss about getting in one last practice session, eager to test themselves against me.
+
+Both of them held their ground well. I felt proud of them.
+
+In fact, I felt proud of every member of my crew. We were going to win. I would not allow my companions to be wiped out, not by Jalkra and not by Violet, who had instigated this harrowing mess.
+
+It was also time to contact Gilbud through the Village's instant communication network. We could speak with each other again despite the absence of GamaGen.
+
+Lairica had granted us that privilege, even though she despised him. Yet beneath the layers of her mechanical, glowing core, I believed she still saw him as an old friend—although more of a friendly rival. She respected him nonetheless.
+
+His loss still saddened me, but I knew we had to keep moving forward. He would have wanted that.
+
+[KIAERA (me)]: "Gilbud. Are you and Jaejade set for us to take off?"
+
+There was a pause before Gilbud's face appeared on the other side of the feed.
+
+[GILBUD]: "Yo! We've just finished our last earthen touch on the terrain. We should be safe to launch!"
+
+The elephant calf monster saluted me with an enthusiastic wave of his trunk. His best friend Jaejade was in the background. She was prompt to give me a wave as well. Earlier I'd tasked to reinforce the entire perimeter of the village for a safe launch.
+
+I nodded back in response. That meant we were safe to take off. With that I allowed my thoughts to search out Lairica.
+
+Her orb-like silhouette appeared before me on the interface.
+
+Her presence was connected to the communication system. It felt heavy as I listened to her speak. She had an otherworldly power. Her voice had an ethereal, echoing lilt.
+
+"Marvelous. There is no need to tell me anything. I sense the boundaries are secure. We will depart shortly. Remember our agreement."
+
+She resumed the conversation, boasting her precognitive capabilities. "By the way, this will cost you nearly one million {❖C} for the one way trip to DreaGoth."
+
+Her statement carried that same matter-of-fact finality she always used when dropping prices like anvils from the heavens. A lesser soul might have winced. I did not—at least, not outwardly.
+
+Internally, my Crystal Vault shivered in its ledger. Nearly a million {❖C}… for a single trip. It was a fair reminder that flying a village was not the same as booking passage on some rickety sky barge. This was the work of an ancient engine, a living relic of power that could carry all of us safely over leagues of contested territory.
+
+[KIAERA]: "You'll have your payment, Lairica. I keep my word."
+
+A warm hum vibrated through the crystal before my gaze, her version of an approving nod.
+
+[LAIRICA]: "I know you do. That is why I agreed to this… and why I will not ask for more than the price already set. Although—" She let the syllable stretch like she was savoring it. "—my terms, as I said, are not purely financial."
+
+Her voice lingered like a candle flame in a draft. The "other" part of our deal remained unsaid, but present, hanging between us like a coiled thread I dared not tug just yet.
+
+I glanced across the Glade. My crew had assembled near the Launch Point—Zest twirling his lighting in impatient loops, Nex sitting with that perfect stillness that somehow made even the air lean away from him.
+
+The others were tightening packs, checking supplies, whispering to one another with the subdued thrill of knowing that in a few moments, the ground beneath their feet would no longer be ground at all.
+
+The twin suns had shifted higher, their light spilling over the Crystal Village's towers and walkways, turning them into ribbons of white-gold fire. This would be the last time it touched them while they were fixed to the earth.
+
+The comm feed dimmed as Lairica receded from my immediate awareness, but her parting words still resonated: Remember our agreement.
+
+I took one last look at the vault readings flickering in my mind's eye, then closed them with a thought. Money was just numbers until you spent it; after today, they'd be history.
+
+What mattered now was getting to DreaGoth in one piece—and making sure that when we arrived, we were not just another name on Violet's casualty list.
+
+I stepped forward, the hum of the awakening Fortress thrumming faintly through the ground, like a heartbeat too large for the land to hold.
+
+It was time.
+
+The ground beneath my feet began to sing. Not in a pleasant, band-at-a-concert kind of way—more like the deep, resonating chord of a mountain remembering it could move if it wanted to.
+
+Faint blue motes lifted from the crystal-lined streets, swirling upward like curious fireflies. The air had that strange, anticipatory thickness that always precedes something monumental… or catastrophic.
+
+"KiAera," Zest called from the far platform, his grin just shy of feral, "is this thing actually going to fly? Or are we about to dig the largest crater in UvoSath's history?"
+
+I gave him my best confident-leader stare—half reassurance, half "don't jinx it."
+
+"Relax, Zest. The Crystal Fortress will fly. She's got character, class, and just enough structural integrity to not kill us."
+
+"Crystal Fortress?" Nex's brow ticked upward as he strapped his bandanna.
+
+"Yes," I said without hesitation.
+
+"If I'm going to spend nearly a million {❖C} for the trip, she deserves a title worthy of my financial heartbreak."
+
+That got a ripple of laughter from the crew, breaking the tension just enough for me to notice how alive UvoSath looked in this moment. The blue-leafed canopy beyond the Glades would be missed.
+
+We were leaving all that behind.
+
+The hum became a rumble, the kind that shook the marrow, and beneath the Glade's crystal foundation, ancient mechanisms groaned awake.
+
+Lairica's voice wove through the vibration:
+
+[LAIRICA]: "Crystal Fortress… acceptable. Prepare yourselves. When I ascend, UvoSath will fall away quickly."
+
+She wasn't wrong. A low lurch pulled at my stomach as the first pulse of lift sent the ground—our village—into the air. The platform swayed slightly as entire spires shifted, the immense weight no longer pressed into soil but suspended by power drawn from the Fortress's core.
+
+The lush blues of UvoSath began to shrink below us, forests becoming brushstrokes, rivers becoming threads of glimmering glass. Beyond the border's edge stretched the gray vastness of what awaited—DreaGoth.
+
+It was a different world entirely.
+
+No color thrived there. What vegetation existed clung in skeletal, pallid forms. The ground was a scabbed expanse of blackened ridges and yawning fissures, stitched together by curling mists that seemed more sentient than the terrain itself. The skies were dim, despite the twin suns, as though some vast curtain of shadow had been pulled over the region.
+
+From up here, it looked like UvoSath's vibrant forests had been burned through with a cruel hand, leaving only void and nightmare in its place.
+
+The crew grew quieter the farther we rose. Even Nex stopped his banter with his siblings.
+
+[LAIRICA]: "You have one day to reach the arena. You will rest in shifts. And… do not stare too long into the mists of DreaGoth. They do not stare idly back."
+
+The Crystal Fortress shuddered once more, then leveled into steady flight. It became an airborne jewel gliding from paradise into the waiting jaws of something much less kind.

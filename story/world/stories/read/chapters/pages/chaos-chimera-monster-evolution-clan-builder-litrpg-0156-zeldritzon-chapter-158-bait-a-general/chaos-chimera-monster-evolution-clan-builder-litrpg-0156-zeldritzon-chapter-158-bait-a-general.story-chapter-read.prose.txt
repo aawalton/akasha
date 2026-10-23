@@ -1,0 +1,323 @@
+The enemy general stood before me. She was already positioned in a combat stance that made me uneasy. As if she were an expert practitioner of karate.
+
+Her form, however, was sharper. More refined. And unlike any I had encountered before.
+
+That sounded ridiculous because she was a praying mantis, for goodness' sake.
+
+But my eyes weren't deceived. Nor were my senses. She was different from the rest; there was a substantial amount of experience that emanated from her presence alone.
+
+She moved like a martial artist.
+
+It reminded me of the likes of Jalkra. I recalled how his status was like when I first fought him in DreaGoth. It was meant to give me an indicator of comparison.
+
+␥␥␥
+
+[Status Analysis] Jalkra the Minokaurbo
+
+Faux Nym: [Jalkra]
+
+Titles: "Crimson Bull", "Chaos Scion", "Warlord"
+
+Species: [Oni Minokaurbo]
+
+Alt Species Name: "Oni Minotaur Zeldritchmon"
+
+APeX: [331,103 Units]
+
+Attributes: [Brawl] [Chaos]
+
+Evolution Stage: [Emergent]
+
+Current Variant Grade: [Elite]
+
+Dominions: [Augment] [Unleash] [Virtuoso]
+
+␥
+
+⟪ [Parameter Ratings] ⟫
+
+- STR: 14
+
+- DEF: 11
+
+- FPWR: 8
+
+- WIL: 8
+
+- RES: 9
+
+- SPD: 6
+
+[Combat Status] Jalkra's
+
+Stored AP: [Inaccessible]
+
+Recorded APeX: [331,103 Units]
+
+[Raw Parameters]:
+
+STR: [140,000] ⟪
+
+DEF: [140,000] ⟪
+
+FPWR: [10,000]
+
+WIL: [10,000]
+
+RES: [10,000]
+
+SPD: [20,000]
+
+Max Parameter Cap: [331,103]
+
+Note: Total cannot surpass max APeX
+
+␥␥␥
+
+That man was a freak of nature. A true [Boss]-type monster. I wasn't prepared for him then.
+
+I analyzed Blatt's status again.
+
+␥␥␥
+
+[Status Analysis] General Blatt Knif
+
+Courtesy Name: [Blatt Knif]
+
+Titles: "Queen of Mantids", "General of Mantids"
+
+Species: [Mantipraiye]
+
+Alt Species Name: "Blade Mantis Zeldritchmon"
+
+APeX: [993,859 Units]
+
+Attributes: [Xensect] [Metal] [Relic]
+
+Evolution Stage: [Dominant]
+
+Current Variant Grade: [Elite]
+
+Dominions: [Augment] [Perceive] [Virtuoso]
+
+␥␥␥
+
+But there was far more to her than that section of the screen—it was absurd.
+
+␥␥␥
+
+⟪ [Parameter Ratings] ⟫
+
+- STR: 13
+
+- DEF: 9
+
+- FPWR: 3
+
+- WIL: 6
+
+- RES: 11
+
+- SPD: 9
+
+[Combat Status] Blatt Knif's
+
+Stored AP: [Inaccessible]
+
+Current APeX: [993,859 Units]
+
+[Raw Parameters]:
+
+STR: [225,000] ⟪
+
+DEF: [100,000]
+
+FPWR: [100]
+
+WIL: [50,000]
+
+RES: [220,000] ⟪
+
+SPD: [220,000] ⟪
+
+Max Parameter Cap: [993,859]
+
+Note: Total cannot surpass max APeX
+
+␥␥␥
+
+After analyzing her I realized… She was not just powerful. She was a perfected beast.
+
+I could struggle against this one due to how her parameters were built.
+
+And the most unsettling part was not the glint of her sickles or the carapace that shimmered like jade-tinted steel. It was the silence she carried, the patience in her stance, the readiness of her form—it all signaled an apex predator who did not fear death.
+
+Blatt Knif did not posture. She waited for me to make the first move.
+
+"Your gaze is keen. You see it, don't you? The form. The balance."
+
+I didn't answer, not yet. I kept my ribbons coiled, held close to my body, scanning for any flinch, any pulse of energy. She was inviting me toward her.
+
+[Blatt Knif's [Lure Pheromone] has been activated.]
+
+I felt nearly transfixed, a moth drawn to a flame.
+
+[The ailment has been canceled out by KiAera's willpower and high resistance level.]
+
+[Blatt Knif's [Lure Pheromone] skill resisted.]
+
+I was relieved that Blatt's charm didn't work on me. Thanks to the combination of my [WIL] and [RES]. That lure skill had a ridiculous TECH power of [8100] but my parameters kept it in check.
+
+␥␥␥
+
+[Combat Status] KiAera's
+
+Stored AP: [33,844]
+
+Current APeX: ["859,338" Units]
+
+[Raw Parameters]:
+
+STR: [5000]
+
+DEF: [5030]
+
+FPWR: [14500] ⟪
+
+WIL: [9600] ⟪
+
+RES: [6455]
+
+SPD: [15480] ⟪
+
+Max Parameter Cap: [859,338]
+
+Note: Total cannot surpass max APeX
+
+␥␥␥
+
+"Did you just…"
+
+Her voice resonated with authority, wrapped in a melody that suggested both danger and allure.
+
+"You are strong, but strength alone will not win this battle. It is your mind I seek to unravel, your spirit to ensnare. Will you dance with me, or will you stand there like a statue?"
+
+The challenge hung in the air, thick as the caution that dictated I should not act recklessly. But I wouldn't let her see how her words unsettled me.
+
+I took a deep breath, centering myself. It was time to show her what I was capable of. Though I was curious about her motives.
+
+"You work for Fluzzerscreech?"
+
+"With," she emphasized.
+
+"What is your purpose here besides picking a fight?"
+
+I did not expect a response. She surprised me with one.
+
+"The foremost concern of Blatt is the search for a worthy opponent. Blatt is not thrilled about carrying out the plan to capture you to achieve victory. It is through the Grimgore Warlock's scheme that we hope to at least subdue you."
+
+Her scythe arms raised as she allowed the silence to linger for a moment.
+
+"Fluzzerscreech insisted that if the worst-case scenario occurs, I am to assassinate you before your participation in the tournament of the Arcanum, where the strongest of our kind will gather. A mere shadow should not overshadow the brilliance of a queen, after all."
+
+"That means a lot of our lives are riding on this," I muttered, keenly aware of how the fates of many were entwined in this affair. I couldn't allow myself to be a pawn in some grand scheme, especially not one orchestrated by the likes of Fluzzerscreech or the Grimgore Warlock.
+
+I took a step forward, my ribbons unfurling subtly.
+
+"And you think you can take me down? Just because you carry titles and come with experience doesn't mean this will be easy."
+
+Blatt Knif's mandibles clicked, a sound that resonated with both amusement and annoyance.
+
+"Cute. But do not mistake my words for arrogance; I merely speak the truth. Your name echoes through the ranks, but it's not your fame that I seek—it's your potential. I can feel it, a raw power simmering beneath your surface. It yearns for release, for a purpose."
+
+With each word she spoke, her aura grew more imposing, and I could sense the weight of her resolve. The battlefield felt like it was warping, drawing an invisible line between us that seemed to pulse with anticipation.
+
+The distortion had been produced by the power that each of us emitted.
+
+However, I couldn't let her sway my thoughts.
+
+"Your purpose is wasted on me. I refuse to be another trophy in your collection."
+
+"Refusal is not an option here."
+
+She lunged, her lithe body darting forward with impossible speed, scythes raised and poised to strike. I reacted instinctively, uncoiling my ribbons to create a defensive barrier just in time.
+
+[Ribbon Barrier] cast!
+
+Screech!
+
+The collision sent a shockwave through the air, the sound echoing as if thunder had cracked above us. I had expected strength, but the precision behind her attacks was breathtaking.
+
+Each strike was calculated, aimed not just at me but to test the limits of my defenses.
+
+As I fought to keep the ribbons steady, I quickly analyzed her movements.
+
+Each flick of her scythe appeared almost a dance as she shifted effortlessly from one stance to another. I had to adapt quickly; the space between us could easily become a graveyard if I faltered.
+
+Blatt exclaimed, "Good, hold your ground!"
+
+There was a hint of fervor igniting in her voice.
+
+"Let's see how long you can withstand my [Onslaught]!"
+
+With that, she unleashed a flurry of attacks, each one more intense than the last, her sickles carving through the air with deadly accuracy.
+
+I maneuvered, twisting my ribbons to catch her blows, redirecting them with each deflection, but I could feel the strain beginning to build.
+
+There was no time for hesitation. I had to channel my own counteroffensive!
+
+Our limbs crossed then crashed in a stalemate. She had the superiority in strength; I had the advantage in mobility.
+
+Once I grasped that, I launched myself at her and proceeded with a flurry of movement designed to distract and confuse.
+
+These maneuvers became bursts of [MereSwitftness] and [Spectral Acceleration].
+
+My form darted like lightning, aiming to keep her off balance, but she anticipated my every maneuver as if we had rehearsed this moment a thousand times.
+
+My ribbons cut through the air as deadly arcs. She executed a perfect counter, her sickle-like appendages slicing through the air mere inches from my side.
+
+The air split with the force as I barely managed to dodge it, the tip of her weapon barely grazing my skin, sending a shiver down my spine.
+
+I saw her eyes gleam with predatory glee.
+
+"Impressive. But your speed is no match for my precision."
+
+I backed off to create distance between us. Fortunately, she did not pursue, and I felt elated that she had not.
+
+"You're using a form of structured combat," I observed aloud, measuring the tempo of her footwork. "That's not instinct. That's technique."
+
+"Correct." Her mandibles curved upward into what could only be described as a warrior's smile. "[Mantikata]. The philosophy of the strike."
+
+She took a step forward. And in that step, she made her intention clear by giving me a purposeful bow, crossing her forelimbs in prayer.
+
+She raised her head.
+
+"This art was born among the primal mantids of the Xulthrune region, before the Queen's empire ever rose. We honed it not merely for war, but to sharpen the soul through combat. Each motion is prayer. Each strike is truth."
+
+And she could have cleaved me in two if I weren't careful. I remained mindful of how the air she cut still shimmered with distortion.
+
+Like real mantis shrimps, she was a 'one-cut' kill type of fighter.
+
+I had to think fast. The layers of her combat philosophy were starting to wrap around me like a complex net.
+
+"That's noble," I said, trying to buy myself some time while also gauging her response. "But a noble cause won't spare your life if you underestimate me."
+
+Blatt tilted her head, her antennae twitching with perceptible excitement.
+
+"Underestimate you? You might surprise me yet, but I assure you, nothing will hold back the fury of a mantis trained in Mantikata."
+
+Before I could retort, she launched herself forward again, weaving a path through the air with a grace that seemed almost ethereal.
+
+This time, however, I was prepared. Channeling the energy from deep within, I enhanced my speed with everything I had, both instinct and training melding into one.
+
+I shifted sideways to have my [Spectral Flames] and ribbons whip out to intercept as she struck. I felt her sickles barely grazing the edges of my waist as I deflected, redirecting her momentum.
+
+Time to switch things up.
+
+I flew upward into the air.
+
+Blatt unfurled her wings and gave chase. She looked like she took the bait as we flew away from the Crystal Village.
+
+"You flee, little fae? Blatt thought you were a warrior of great prestige!"
+
+"Fleeing isn't quite the word for this," I countered, using the air currents to gain altitude. My ribbons trailed behind me, glowing with a soft luminescence as I readied my next move.

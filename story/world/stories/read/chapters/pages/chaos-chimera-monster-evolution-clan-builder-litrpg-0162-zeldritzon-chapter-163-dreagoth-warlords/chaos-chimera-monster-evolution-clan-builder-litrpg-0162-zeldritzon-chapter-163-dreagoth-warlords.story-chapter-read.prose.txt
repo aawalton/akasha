@@ -1,0 +1,281 @@
+The receptionist continued chatting up Zazeke like he was a king. Suddenly, I felt a disturbance when a rumble of commotion brewed through the hall, drawing everyone's attention.
+
+An imposing figure broke through the crowd, striding with an air of authority. It was a towering ogre, big and bloated, with fierce orange markings across his arms and log-sized limbs. The massive fellow didn't have eyes but the brute was certainly aware of his surroundings.
+
+My [Insight] registered him as Barren Bash the Barbrute.
+
+␥␥␥
+
+[Status] Barren Bash
+
+Creature: [Barbrute (D)]
+
+Titles:
+
+- "Barbrute Boss"
+
+- "Warlord of DreaGoth"
+
+Alt Species Name: "Ogre-Goblin Brute"
+
+Dominions: [Disrupt] [Virtuoso]
+
+APeX: [4,449,000 Units]
+
+Attributes: [Hazard], [Brawl], [Evil]
+
+Evolution Stage: [Dominant]
+
+Current Variant Grade: [Elite]
+
+␥␥␥
+
+␥␥␥
+
+[Combat Status]
+
+Stored AP: [Access Denied]
+
+Current APeX: [4,449,000 Units]
+
+[Raw Parameters]:
+
+STR: [2,449,000] ⟪
+
+DEF: [1,000,000]
+
+FPWR: [0]
+
+WIL: [0]
+
+RES: [1,000,000] ⟪
+
+SPD: [0]
+
+Max Parameter Cap: [4,449,000]
+
+Note: Total cannot surpass max APeX
+
+␥␥␥
+
+"Pardon me, little fairy beast," he said to me.
+
+His eyeless gaze fell on me. His smell wasn't too unpleasant. Although it smelt of stale meat masked by earthen musk. I didn't expect him to take a kneel when he began to inspect me. "Oh! Barren Bash almost mistaken little creature as minuscule problem. But it appears he is mistaken. You smell fearsome. He thinks you could be worth the challenge."
+
+I raised a brow. "You're not bad yourself, Bash. Though I know better than to introduce myself to you. You're one of his guys."
+
+I knew from Loa that he worked alongside the Grimgore Warlock. That meant he was a serious threat to me. The Warlock's lot was seeking to capture me, but I wasn't going to let them claim me— not without me clawing back fiercely.
+
+Barren Bash dug into his ear, appearing nonchalant. His attention snapped to the goblin receptionist.
+
+"Oh, ho! If it isn't cousin Gim!"
+
+"We're not cousins, Bash…"
+
+The blind-ogre ignored him. "I believe Warlock already registered Bash to tournament? Bash arrived late after climbing wrong mountain. I smashed dreadpede's head on the way here. Here is fine souvenir for hardworking brethren!"
+
+I observed as Barren Bash presented the detached head of an enormous centipede creature. At first I had mistakened it for a whip. Its cracked, crumbled form looked like it'd been crushed by barehands.
+
+Gim the Goblin let out an exasperated sigh.
+
+"You bring this to my workplace again and I swear I'll have the janitors feed you to the Core."
+
+Bash dropped the dreadpede head onto the counter with a meaty thud, sending a puff of dust and the unmistakable stench of monster guts into the air.
+
+A few nearby competitors recoiled, they whispered lowly, but I still caught their unsettled words.
+
+"…Dredpedes are among the fiercest Dominants…"
+
+"He managed to tear that thing apart with his hands. Ridiculous. But that's the Barren for you."
+
+"It takes a significant amount of force just to crack their formidable defenses. I heard their chitin were nigh-impenetrable!"
+
+"Especially against blunt force…"
+
+Zazeke pinched his mandibles shut and fluttered a step back; Mina muttered something under her breath that I was pretty sure was an insult involving ogre hygiene.
+
+"Is gift," Bash rumbled, his voice like two boulders grinding together. "Gim always liked souvenirs from Bash's adventures. Keeps you remembering family."
+
+Gim pinched the bridge of his nose—impressive, considering goblin noses are basically little bumps—and muttered, "Family is supposed to send letters. Or coins. Not the severed heads of apex pests."
+
+Bash ignored the complaint and leaned his bulk against the counter. The wood gave a creak that sounded like it was reconsidering its life choices. "So. Bash here for big tournament. Bash hears it will be fun this year. Tag-fight. Bash hopes Bash smashes little bird people."
+
+Amber and Loa's feathers ruffled like they'd just been challenged directly.
+
+I crossed my arms. "And what about me? Am I on your smash list?"
+
+He grinned—or at least, the jagged tear in his face that passed for a grin widened.
+
+"Maybe. Bash likes to leave dessert for later."
+
+The ogre-goblin's tone was casual, but there was weight in it. Not just a threat, but a promise. And the way his nostrils flared, breathing in the air around me, told me he'd remember my scent long after today.
+
+"Go on, Gim," Bash said, tossing a warped token onto the counter. "Make Bash official. Bash doesn't want to miss opening fight."
+
+Gim scribbled something down while muttering about health hazards and sanitation codes. The crystal behind him pulsed once before swallowing Bash's token glow into its depths.
+
+Somewhere in the Core's radiant heart, the threads of our fates were probably being knotted together. And I had the sinking feeling that sooner or later, mine and Bash's might tighten into a noose.
+
+We were about to turn around when another terrible figure made its stride toward us. I never met him in person before, but the way Zest's antlers sparked, and his hooves scrapped the floor was considerable enough for me to wave for Oath to usher him out of the lobby.
+
+Just before things became… explosive.
+
+"Vaine…!"
+
+␥␥␥
+
+[Status] Venerable Vaine
+
+Creature: [Vilosphat (D)]
+
+Titles:
+
+- "Venerable Vaine"
+
+- "Warlord of DreaGoth"
+
+- "Lord of the Ilosphats"
+
+Alt Species Name: "Hazard Dilophosaurus"
+
+Dominions: [Manifest] [Virtuoso]
+
+APeX: [5,553,000 Units]
+
+Attributes: [Hazard], [Deino]
+
+Evolution Stage: [Dominant]
+
+Current Variant Grade: [Elite]
+
+␥␥␥
+
+␥␥␥
+
+[Combat Status]
+
+Stored AP: [Access Denied]
+
+Current APeX: [5,553,000 Units]
+
+[Raw Parameters]:
+
+STR: [530,000]
+
+DEF: [530,000]
+
+FPWR: [1,000,000] ⟪
+
+WIL: [530,000]
+
+RES: [1,000,000] ⟪
+
+SPD: [1,530,000] ⟪
+
+Max Parameter Cap: [5,553,000]
+
+Note: Total cannot surpass max APeX
+
+␥␥␥
+
+Zest needed the space from this reptilian beast.
+
+Vaine was regal and tall for a Dilophosaurus-like monster. This purple and gold scaled monster stalking toward us was infamously known as the Venerable Vaine.
+
+He gave off a hazardous aura of nobility, but it wasn't the snobby type. More like: 'I am an [Elite] fighter, and I would prefer not to dirty my claws—but if you force me, I'll make certain you regret it.'
+
+His every step was deliberate, precisely the sort of movement you give when you're making sure everyone in the room notices your grace. And that unnatural mix of purple and gold in his scales didn't just scream rarity—it whispered that the colors had been earned, not gifted. He stopped precisely three paces from me and gave a gentleman's bow in a slow, practiced motion.
+
+"Ah. The Chimera Crew. The esteemed KiAera, I presume?"
+
+The tone was warm. The smile—not so much. But of course he knew me.
+
+A creature like him didn't attend events blind. Rumor said his Dominion wasn't just [Manifest]: it was political manifestation, a knack for drawing out alliances or rivalries with terrifying precision. He'd been called the most dangerous of DreaGoth's five warlords not because he sliced skulls—though he could—but because he knew exactly whose skulls to crush and when to do it.
+
+His twin crests raised elegantly, catching the lobby's lamplight like polished gold crowns. His eyes bore into mine with curious anticipation.
+
+"That would be me," I said evenly, not bothering to return the bow. "And you must be the Venerable Vaine—unless there's another giant lizard with better posture than a royal envoy."
+
+His lips curved just enough to suggest amusement. "Your reputation precedes you. The Warlock's… interest in your whereabouts is not without cause."
+
+A few of my crew tensed at that, and I caught Loa's fingers flexing inside her sleeves. Warning me to proceed cautiously.
+
+Vaine dipped his head again slightly, as though I'd just passed some invisible etiquette test. "Then you will know that I am not one to waste time with hollow threats or petty posturing. The tournament is a proving ground, not a battlefield. At least… until the finals."
+
+His voice held a calm certainty, like he was reciting a fact carved in stone.
+
+Behind me, I felt Zest's agitation again in the prickle of static that brushed my skin. His antlers sparked again, faint red flickers in the corner of my vision. I could hear the scrape of his hoof as he shifted his weight, ready to challenge or defend if needed. I waved a subtle hand toward Oath.
+
+She understood immediately, slipping toward him and guiding him away with a light touch on his neck. He went reluctantly, but his tension told me his instincts weren't wrong—Vaine was worth watching.
+
+Vaine's gaze followed the motion just long enough to let me know he'd noticed. Then he returned his attention to me. "Your roster is impressive. Wide in scope, diverse in skill… but such breadth can be a weakness in the wrong hands."
+
+"Good thing they're in mine."
+
+His frilled crests twitched—maybe amusement, maybe assessment. "We will see. I have no doubt the Core will pit our paths close together. It does love the spectacle of predator meeting predator."
+
+He took one step closer, the faint scent of ozone curling into the air around him. "When that moment comes, KiAera… I will not hesitate."
+
+I met his gaze without flinching. "Neither will I."
+
+Vaine resumed after a smirk cracked on his lips. He spoke smooth, the kind that could sell you a peace treaty with one breath and declare war with the next.
+
+"The arena will determine the value of your claim to the title of leader. Until then, our… professional differences can remain sheathed."
+
+"That's generous… But the Warlock's people aren't exactly famous for keeping their claws sheathed."
+
+Vaine's gaze lingered on me in a way that made my skin prickle. It wasn't not lust, not even malice, but the exact attention a predator gives when deciding which part of the prey to bite first.
+
+"Then you will find me an exception," he said, stepping aside with a flourish of his claw. "For now."
+
+Before I could reply, Bash—still looming nearby like a slab of living siege equipment—snorted. "Vaine talks too much. Bash says let Core decide. Bash smashes whoever Core throws."
+
+Vaine's frilled crests twitched, but his smile remained intact. "And you'll still be out of breath by the time I'm finished."
+
+The tension between them was thick enough to trip over, but Gim the Goblin cut through it with a sharp ahem.
+
+"If you two are done planning your love letters, I have a tournament to finish registering."
+
+Vaine inclined his head toward me, a gesture that might have been respect—or simply acknowledgment of a future inevitable. Then, without another word, he turned and strode toward the registration desk. Gim the Goblin stiffened like someone bracing for a tax audit, already shuffling papers in preparation.
+
+Vaine slid his token forward with the grace of a diplomat handing over state documents. The crystal pulsed again—stronger this time—its glow deepening, as though savoring the addition of two Apex predators into the mix.
+
+A ripple went through the room. Everyone present could feel it: the Core looked like it was nearly full. And once it was, the matchups would be decided.
+
+I couldn't shake the thought that the Core, for all its supposed impartiality, was enjoying this far too much.
+
+Vaine straightened from his bow, giving me a look that was neither threat nor kindness. "I'll look forward to our conversation when it takes place on the sands, KiAera. Preferably when it matters most."
+
+He turned and strode away, the crowd parting for him in wary silence. Bash's gaze followed him with open disdain.
+
+I exhaled slowly, feeling the shift in the air. Two warlords of DreaGoth in the same lobby as my crew—and both had marked me in their own way.
+
+I barely noticed the tall figure brushing past me. I recognized him as the cloaked figure who had been conversing with MereShaman a few moments ago. "I believe I arrived at the right time. My friend was a bit nervous—doesn't like crowds—so I brought his coin. That's problematic, eh?"
+
+He held up a couple of coins between his clawed fingers.
+
+My inspection of his frame was quick: Lean, muscular, and with digitigrade legs, he was probably a werewolf. That was his silhouette, but I couldn't see his face beneath the hood.
+
+He rubbed the back of his head sheepishly, which contrasted significantly with the mysterious vibe he had given off earlier. However, his presence felt familiar, as if I had met him before. I struggled to identify him; he was suppressing it exceptionally well.
+
+Gim frowned, only to shake his head in frustration.
+
+"Just hand them over. You and the Rat King are going to be later than a slug on a hot day if you keep talking."
+
+The cloaked figure huffed but complied, tapping the registration coins onto the counter with a light jingle. The sound rang through the lobby, creating an echo that felt almost ominous.
+
+"Hey!" Bash exclaimed, leaning closer and inspecting the coins with the scrutiny of a hawk zeroing in on a field mouse.
+
+"What sort of insipid currency you bring? Bash smells more than just vibes here."
+
+The werewolf shrugged under his cloak, his voice maintaining a casual tone. "Just a little good luck chant before the entrance. Hopefully, it'll help me take down a few knuckleheads in the ring."
+
+"I'll crush wolfman," Bash cracked his knuckles like rolling thunder.
+
+The werewolf hesitated, clearly unsure how to interpret Bash's words. I noticed how he glanced around, taking in the crowd and their evident unease. "You sure? It's not like I'm looking for trouble here. But maybe you've seen my other friend—wait, not seen… you can't see—she's a Kitsune—"
+
+The Core thrummed again, louder this time, and the goblin receptionist muttered, "All right… that's the last of 'em."
+
+The crystal flared, brighter and brighter, until the light veined across its surface in branching arcs—threads weaving themselves into names, names into match-ups, match-ups into the beginnings of a war disguised as sport.
+
+And there, etched in living light for all to see, the bracket began to take shape.
