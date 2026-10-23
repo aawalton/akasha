@@ -1,0 +1,207 @@
+“A technique evolution gem,” Rix repeated.
+
+Kokuryu nodded and reached into the pocket of his robe, bringing out a slim red shard of crystal about the length of his index finger. Its surface was rough and uneven and it gave off a faint glow that seemed to roll up and down its length, as though there was something trapped inside.
+
+“A bigger corporation would give you a new technique directly at this point,” Kokuryu said, “but the truth is, our library is quite small. Wellspring Antiquities, the corporation mostly exists as a front to mask our more illicit endeavors. As such, we don’t really need a lot of tools from the System. We have a few Nova-tier techniques that we own the exclusive license to, but the mana demands would be too much for you at this stage.”
+
+He held up the crystal. “But this allows us to get around that. We purchased this from Keystone Martial Archive. They’re a corporation who specialize in augmenting the Paths of those who rely mostly on common techniques. They have a curated library of higher rarity versions of common techniques, which can be accessed using these gems.”
+
+“Are they able to take them away?” Rix asked. “Or will my choice be mine forever like my current techniques?”
+
+Kokuryu smiled. “Yours forever. It’s built into the purchase price.”
+
+Rix grinned back at him. “Thank you. I really appreciate it.”
+
+Kokuryu gave a dismissive wave. “We are more than happy to invest in a promising disciple. Especially if that disciple is the son of Zao Mei and Zao Roshon.”
+
+A hint of reverence entered the man’s voice as he said that. Rix still hadn’t totally wrapped his head around the truth about his parents, but it was clear Kokuryu held them in great esteem.
+
+The man handed him the crystal. Rix held it up to the light to inspect it.
+
+“How does it work?” Rix asked.
+
+“When you’re ready, you just have to channel some mana into it to activate it. The System will then assess your current pool of techniques and offer whatever it deems to be suitable upgrades from within the allowed pool. I was warned that the System’s options can be a little mysterious. Often, the choices are not as simple as a direct, linear upgrade. The more powerful versions of many common techniques are owned by others. That’s not to say what you’re offered won’t be strong, but they might be functionally slightly different. With your [Force Hammer] for example, you might be offered an array of other more powerful force attacks, rather than an explicitly overhead attack.”
+
+“But it won’t be something like an ice attack, right?” Rix asked.
+
+“Right. At its heart, it’s still an upgrade, which means it will be adding to the technique shape of the original. A force technique and an ice technique are so fundamentally different that it’s incompatible.”
+
+“Fair enough,” Rix said. “I can work with that.” While his current toolset had been haphazardly assembled, it had worked for him so far, and he was happy to continue finding his own Path. “Do I lose the technique I’m upgrading?”
+
+Kokuryu shook his head. “The baseline functionality will still be there. If you do want to use the older version, you should intuitively be able summon it by only filling the shape to the level you currently do.”
+
+“Excellent,” Rix replied. Depending on what he was offered, there may not be any reason to ever go back to the older version, but it was good to know he had the option.
+
+“Any advice?” he asked the older man.
+
+Kokuryu considered him for a few moments. “Remember that you are in a unique position. The System is not the sum of your power. Choose something that supports you holistically, rather than thinking like a Martial Soul.”
+
+Rix nodded. It was good advice.
+
+Drawing a deep breath, he reached for his mana and pushed it into the gem. Almost immediately, the shard dissolved in his hands in a flash of light. He felt a rush of energy shoot up through his hand and course through him to strike the spot at the center of his skull that he commonly associated with his mind’s eye. Opening his System display, he saw a new notification.
+
+[Techniques: Evolution available. Select from available options?]
+
+As he’d done when selecting his original techniques, he concentrated on the prompt and the text shifted, revealing a list of new choices. They were grouped under each of his three existing techniques. As Kokuryu had warned, it wasn’t a huge list.
+
+[Wind Blade Evolutions:
+
+Razor’s Edge (Rare): Remove air resistance around your weapon to increase speed and greatly increase sharpness (Cost: 30 mana to activate, 5 mana per second to maintain)
+
+Storm Wreath (Rare): Spin your staff to generate a chaotic sphere of wind that deflects projectiles and damages nearby enemies (Cost: 40 mana to activate, 15 mana per second to maintain)
+
+Gale Barrage (Uncommon): Dash forward and unleash three rapid, wind-enhanced strikes in the span of a single heartbeat (Cost: 40 mana)]
+
+[Force Hammer Evolutions:
+
+Gravimetric Bind (Rare): Deliver a blow that increases the target's personal gravity for 5 seconds, drastically slowing their movement (Cost: 45 mana)
+
+Impact Hoard (Rare): Absorb kinetic energy from incoming blows for 2 seconds to release a retaliatory strike with accumulated force (Cost: 40 mana to activate, 10 mana per hit absorbed)
+
+Tremor Lance (Uncommon): Thrust your weapon to project a condensed line of force up to 10 feet that ignores armor plating (Cost: 50 mana)]
+
+[Sunspot Evolutions:Blinding Smite (Uncommon): Imbue your weapon with condensed radiance that explodes on contact and lasts 10 seconds. Your eyes are unaffected by light created by this technique (Cost: 50 mana)
+
+Luminous Echo (Rare): Emit a powerful flash of light while creating an illusory clone of yourself. The clone will follow your mental directions, but has no tangible mass and will explode in a blinding flash when struck. Your eyes are unaffected by light created by this technique (Cost: 50 mana)
+
+Solar Aegis (Rare): Condense light into a floating solid plate imbued with force that blocks physical attacks before shattering into a blinding flare (Cost: 50 mana)]
+
+He ruled out a few immediately. [Storm Wreath] and [Impact Hoard] were both interesting defensive options, but neither of them really felt like him. Perhaps repelling projectiles would be useful later in his journey, but spine-throwing fadeborn aside, that just wasn’t a huge concern for him right now. Similarly, [Impact Hoard] sounded nice in theory, but it also felt like the payoff would be extremely predictable — something else to be easily dodged with any kind of dash. [Blinding Smite] he also set aside because it felt just too similar to [Sunspot].
+
+Everything else had some definite merit. [Razor’s Edge] felt like a straight upgrade to [Wind Blade]. There were a lot of times over his journey where a stronger cutting edge would have helped him.
+
+[Gale Barrage] seemed like Luna’s [Falcon Slash] and [Wind Dash] rolled into one, which would be a potent offensive tool. It would also add some unexpected movement to his toolset.
+
+The other two [Force Hammer] options were also appealing. [Tremor Lance] basically felt like [Force Hammer] but with more direct ranged application, while [Gravimetric Bind] would potentially let him set up for some devastating combos.
+
+But the one that really caught his eye was [Luminous Echo]. On the surface it didn’t seem as directly impactful as some of the others, but he’d felt that way about [Sunspot] at first, and it had saved him on multiple occasions.
+
+The other options would enhance the things he already did well. That was a totally legitimate path, and it was hard to deny the appeal of simply doing a ton more damage. But if he really thought it through, that direction felt somewhat redundant for him. He was already working on his lethality and survivability along multiple other axes. Not only was he going to continue opening cultivation gates, which would enhance the power of his strikes and the speed of his movements, but he also had the newfound capability to further empower his System techniques using qi. As appealing as [Tremor Lance] was, he already had a more powerful [Force Hammer], assuming he could stand the mental backlash of mixing resources.
+
+[Luminous Echo], on the other hand, was something different. Of all the techniques on the list, it was the one that added most to his toolset. His time as a Martial Soul had taught him numerous lessons, but one key learning was that fights were about more than raw strength. Whether it was using [Wind Blade] to pry plates off the armored behemoth, or setting location traps using [Sunspot] during his Spark-tier fade fight, he’d triumphed numerous times by finding creative applications of the things at his disposal. He didn’t yet know how he might use a technique like [Luminous Echo], but it seemed like it would offer plenty of options for expression.
+
+It also felt most in alignment with Kokuryu’s advice. It was a choice that would let him fight in new ways and enhance both his sources of power.
+
+Despite a growing sense of confidence, he didn’t rush into the decision. Instead, he reviewed his options once more. Of the others, [Gravimetric Bind] called to him most. It, too, opened some new doors. It was a form of physical hindrance, which was something he didn’t really possess. Also, the notion of taking his familiarity with the force aspect in the direction of a concept like gravity resonated deeply with him. But that was looking a little too far into the future. He needed to stay grounded. [Gravimetric Bind] was still, at the end of the day, another attack, and that just wasn’t as useful to him as something more unique.
+
+He mentally selected [Luminous Echo] and felt the technique settle over his mind. Calling up his System display, his techniques now read:
+
+[Techniques:
+
+Wind Blade (Mid)
+
+Force Hammer (Mid)
+
+Luminous Echo (Low) - Evolved from Sunspot]
+
+“I’ve made my choice. [Luminous Echo].”
+
+Kokuryu gave an approving nod. “That was one that caught my eye when I asked Keystone what options you would have. Seeing the way you use [Sunspot] in the ring, I’m not surprised.”
+
+Rix felt an unexpected swell of emotion. When he’d walked through Spiritlock’s doors and been given his System stone, he’d been disappointed by the common techniques on offer. They made him feel less-than, like a boy playing at being a Martial Soul. But now he had something rare to call his own.
+
+“Thank you again,” Rix said, meeting his benefactor’s eyes. “This must have been expensive. I’m not sure how I can ever repay you.”
+
+Kokuryu chuckled. “You can pay me back by getting out of here.”
+
+“I’ll do my best,” Rix said.
+
+Kokuryu tapped the table. “Well, I believe our time is nearly up. I’ll endeavor to get you those things we discussed. And I’ll call a sponsor meeting with you each week during the arena so we can continue to plot. It will look suspicious, but given our timeline, I’m not sure we can afford to be careful.”
+
+“That all sounds good,” Rix replied.
+
+The Wellspring representative stood, shooting him a knowing little smile. “I’ll make sure to stay in the stands and see how that new technique serves you.”
+
+Rix’s eyes widened slightly. He’d all but forgotten that he’d be fighting shortly. Testing a new technique in live combat wasn’t typically the wisest choice, but there wasn’t really anything on the line, so why not?
+
+He said farewell, and made his way back to the stands. Luna raised a questioning eyebrow as he took his seat next to her.
+
+“Good progress,” he said quietly. “I’ll tell you more in private.” He grinned. “Though there is one thing I can show off in public.”
+
+She narrowed her eyes. “I’m not sure I like all this ‘getting stronger’ you’re doing lately. It’s upsetting the natural order.”
+
+“That’s just what someone who’s afraid of me catching up would say,” he replied.
+
+The day wore on. Rix paid attention to the first few Whisper duels, but the novelty of the event had worn off by now. There were still some impressive fighters in the lower bracket, but months spent around such battles had normalized them, and he found his focus wandering.
+
+Not wanting to waste the time, he decided to continue working on the Torrential Cycle. Being surrounded by people added a degree of challenge, but any practice was better than none.
+
+So strongly was he concentrating, Luna had to nudge him when his name was called or he’d have missed his fight entirely.
+
+Shaking himself from his reverie, he made his way down to the ring and summoned his weapon. It might have been his imagination, but the transition of stepping through the protective array felt different as a Spark. The weight of it was heavier, denser.
+
+“In the Steel Corner,” the Ringmaster bellowed, his voice amplified by mana, “a man whose weapon strikes like a falling mountain. Give it up for Kaelen, the Iron Tide!”
+
+Kaelen was a wall of a man, wielding a two-handed morningstar that looked heavy enough to anchor a ship. He didn’t posture or preen; he simply stared at Rix with the bored intensity of a butcher eyeing a side of beef. Rix had seen him fight before. He was a Low Spark, like Rix himself, though that rank belied how dangerous he was. He relied on overwhelming momentum, turning his body into a pendulum that smashed through his opponents’ defenses.
+
+“And in the Spirit Corner!” the Ringmaster continued. “Proof that even the hardest soil can yield a deadly harvest. He’s shed his Whisper skin to reveal the Spark beneath...Zao Rixian!”
+
+Rix stepped forward and raised his weapon, receiving a surprisingly loud cheer from both the prisoners and general public alike. Perhaps he should have expected it. People did love an underdog.
+
+“Combatants, ready! Fight!”
+
+Kaelen didn’t waste a second. He surged forward, the spiked iron ball of his weapon whistling a low, deadly note as he swung it in a horizontal arc.
+
+Rix ducked, feeling the wind of the passing weapon ruffle his hair. He countered with a quick jab of his staff to the big man’s ribs, but Kaelen’s mantle absorbed the blow with a crackle of blue energy, and he barely flinched. He used the momentum of his miss to spin, bringing the morningstar back around in a crushing overhead smash.
+
+Rix managed to bring his staff up in a two-handed block, bracing his stance and invoking his Mountain Gate. Even with his body burning qi, the impact shuddered through his bones, rattling his teeth.
+
+He danced back, creating space. Under normal circumstances, he’d probably test his opponent a little more, trying to find a weakness he could expose with [Sunspot] or a well-placed use of qi. But he had something new, and he was desperate to see how it functioned.
+
+Rix reached for the new shape in his mind. It felt familiar, yet wildly more complex, demanding a specific, bifurcated flow of mana that Sunspot never had. He didn’t know exactly what to expect, but he trusted the shape.
+
+Thrusting his hand forward, he activated [Luminous Echo].
+
+A sphere of blinding white light detonated between them. It was like several [Sunspots] in one.
+
+When the light cleared, Kaelen blinked. He stepped forward, ready to strike, but then he froze.
+
+Where previously he’d had one opponent, now he had two.
+
+Rix stood to the left, staff raised. His echo stood to the right, coiled to spring.
+
+For a split second, he was just as disoriented as Kaelen. There was something uncanny about standing next to a doppelganger. To Rix’s eye, the echo was a flawless recreation, right down to the wear on his robes and the turn of his mouth.
+
+Then there was the technique itself. Triggering it had led to a jarring expansion of his awareness. He couldn’t see out of the echo’s eyes, but he did have a sense of the position of its body in space. It was a strange sensation, like he’d suddenly grown a new limb with no muscle memory.
+
+Okay, he thought, testing the connection. Let’s see what you can do.
+
+He willed the echo to move. It responded instantly, mirroring his intent. Rix stepped left; the echo stepped right. They circled Kaelen in opposite directions.
+
+Kaelen’s confusion only lasted a moment. He roared and swung at the echo.
+
+Rix pushed a mental command: Dodge.
+
+The echo dropped under the morningstar with perfect fluidity. It felt strange to pilot something outside his own skin. There was a drag on his mental focus that he wasn’t used to, but the responsiveness was undeniable.
+
+Kaelen overcommitted to the swing, and Rix — the real Rix — stepped in, landing a sharp crack to Kaelen’s kidney.
+
+Kaelen spun, swinging wildly at him, but Rix sent the echo feinting in from the other side, causing the man to flinch and pull his blow. Though the echo didn’t actually try to connect, it was enough to disrupt his opponent’s rhythm.
+
+Rix grinned. They danced around the big man, a chaotic duet of feints and strikes. Every time Kaelen focused on Rix, the echo acted aggressively. Every time he swatted at the echo, Rix punished him. It was a shell game, and Kaelen was losing.
+
+But the echo couldn’t do damage, and soon enough Kaelen realized that only one of them could actually physically connect. The big man decided to stop playing. He ignored Rix’s poke and turned fully toward the echo, raising the morningstar high.
+
+Perfect.
+
+Rix planted his feet and willed the echo to do the same.
+
+Take it.
+
+The morningstar smashed into the echo’s shoulder.
+
+Instead of a crunch of bone, there was a sharp crack of discharged mana. The clone detonated. A second, violent flash of light exploded point-blank in Kaelen’s face.
+
+The man howled, blinded and overextended, his weapon burying itself in the dirt where the illusion had stood. Rix knew from watching him in the past that he didn’t have a movement technique.
+
+Rix didn’t waste the window. The slight mental fuzz of controlling the clone vanished, snapping his focus back to singular clarity. He poured a sliver of qi into his Mountain Gate — just enough to add a little juice to the blow — and pivoted his staff.
+
+He unleashed [Force Hammer] directly into Kaelen’s exposed side.
+
+The impact was thunderous. Kaelen’s mantle shattered instantly, and the force lifted the massive man off his feet, sending him tumbling across the sand. He tried to rise, wheezing, clutching his ribs, but Rix opened his throat with a [Wind Blade].
+
+“Winner!” the Ringmaster cried.
+
+Rix lowered his weapon, adrenaline humming in his veins. The technique definitely had its uses. He probably wouldn’t get away with using it as a blatant distraction again, given the entire prison had just seen him do it, but he already had other ideas about other ways to deploy it.
+
+All in all, he was happy with his choice.
