@@ -1,0 +1,117 @@
+The next day, Shawn got to work, with every sketch he'd accrued from consultation with his handbook, and laid out the assembly drawing. Varrick peered at the design on the board in simple outlining.
+
+“So, this is the milling machine.” His tone carried a hint of amusement. "Your catch-all to manufacturing?"
+
+“Yep.” He had taken a sip of herbal tea that was in supply, and enjoyed that almost too hot liquid, with a hint of sweetness from the local honey. “With our gestalts, we’re making it in record time. Garrett we've got here, for precision cutting and lathe work. That new guy helped me filter out impurities in the metal. What was his name, Joslin?”
+
+“That’s him, I've used him to refine my metal.” Varrick gazed at the board, while Claire worked on chemicals to break down some other items in the ore, with a sample of copper coming along nicely. Regia peered at the board, with her focus on the gears.
+
+“Why the reduction? This is high gear reduction.”
+
+“Precision cutting. We want repeatable results and low tolerance parts. We also need a cooling system as we speed up cutting.” He pointed to a pressurized system he had in mind that they could use from the steam engine systems they had in a few places to jet water. He still needed to make pumps, but that would take a while to make proper motors. Though, the Etteria also had electric potential, as Claire had pointed out. Immense potential.
+
+“What's our end goal?”
+
+He pointed to the sample items. “We can make almost anything with the lathe and milling machine. Plus, we also have metal presses here. Some chemical processes might be out of my knowledge base, but…we’re upgrading stuff. Chiefly, the rifles, and armor. That reed fiber you guys have? It's like Kevlar, but naturally grown.”
+
+“It's tough to work with,” Regia complained. “We tried using it before for armor. It doesn't work against alchemical rounds, we couldn’t get it to work.”
+
+“Energy distribution is the solution. Kevlar weave is layered and stitched together, with the fibers cross-laid over each other to prevent penetration and build on its strength. It distributes the blow over a wider area. Armor inserts go inside the pockets.” Regia seemed to like that idea.
+
+“But why do we need the milling machine?”
+
+“We need automated machines to create weave from the reed fiber. We also need to grow more of that river reed. A lot more. which means I need precision parts to make use of it, at high speed. Consider us on a clock, with Revarik slow rolling his army of doom up here."
+
+“More armor would be helpful against the zealots. Less so, against overpowered gestalt users. At least The river banks near here are choked with the reeds” Telga commented. “Glad we can put it to use. But what about the rifles?”
+
+“We need sources of the chemicals Claire identified. For one: gunpowder, and other items to combine with that alchemist gel. Either one by itself works well, but when combined? They pack a punch.” He glanced at that still-present scorch mark by Varrick’s stone bench, where the testing had produced dramatic results.
+
+“And the rifles will use the new rounds you prototyped?” Telga pressed.
+
+He gestured to the partially finished reloading bench. He didn't have proper brass casings yet, but a thin steel sheet might be usable in a pinch. And they had tons of iron from the local source. “We need solutions when gestalts are tapped out. Magical weapons and firearms sound like a great backup: quickly produced, and they give us a range and tech advantage over Revarik. But we need to mass produce. We need more people to do it, and we need secrecy.”
+
+“Sounds decent. Revarik hasn't bothered getting around to the mass use of firearms. Only a few people on this whole planet are crafty enough to make them reliably, and most of them are in Valtiria,” Garrett offered. “Regia, you were there in the core world. I read the report after you got back. They were still using crossbows?”
+
+“Or other magical projectiles,” she shuddered and rubbed at a thin patch of feathers on her arm that Shawn suspected was a scar. “Based on what you've said, Shawn? We're somewhere between nineteenth and twentieth-century firearms, in your analog.”
+
+“The differences in tech are subtle. Mass production, ease of use, recoil management, and accuracy. Each can be fine tuned. We just need something reliable, good enough to offer distinct advantages, enough stopping power for monsters, and can be made without supply issues.” On paper, they sounded easy to solve. But at scale? That would be a challenge.
+
+“All big problems to solve,” Telga cautioned. “I am getting fed up with Celes over in the capital. Let's get this set up and get to work, and then, we'll make a road trip. We need more people to pull this off, and I need you to demonstrate, Shawn.”
+
+“Done.” It was nice to get everyone on the same page. “Regia, we've got machines to make. Varrick, get that steel and mithril cranking at full blast, keep us supplied. At least with your gestalt, we can get the base material ready, and shape forgings with little difficulty. Meantime, I need someone to help me make magical versions of these rifles. We have a ton of runic grade Etteria to use, thanks to our discovery in the mine.”
+
+Garrett nodded proudly. “It'll last a while if we're using it that way. You sure that's what you want to use it for?”
+
+“Revarik has the numbers. But we have knowledge, and iron will,” Shawn grinned. “I’d say that makes it an even fight.” Even so, he still had plenty of work that wasn't fun.
+
+Making involute gears for precision engineering, given what was on hand was a giant pain in the ass.
+
+Shawn mostly worked out how to do this using pattern tracing, then using his force barrier to create a layer to protect the material hub he didn't want to cut. Claire had also prepared a water slurry using some gritty particles from varying sources–sand, and even crushed garnet that someone generously donated.
+
+Regia gritted her beak while she used one hand to draw water from the reservoir. With her other hand, she focused the water spray into a high-pressure, narrow jet of water that cut through the steel gear. With a little practice, they were able to cut the shape in with incredible precision. Shawn didn't need gears for high speed, high loads–at least, not yet.
+
+Automobiles and reconstructing his beater Honda were a long way off.
+
+Regia's face twisted in discomfort after a while. “Shawn, I’m gonna hit burnout.” Her wings were shaking, and despite their efforts to keep dry, they were soaked at the bench that Shawn had set up outside. “We need to take a break.” She positioned her hand with a brace to keep the jet of water aimed in one direction. It was surprisingly effective.
+
+His own hand was shaking by holding the force barrier up, constantly taking kinetic impact from the jet. The last chunk of metal was cut now, and he nodded. “Alright, that was good. We're set on this last one.”
+
+Regia nodded as the water jet cut out, and she flexed her hand gently, panting softly. “Damn, you are focused, you know that? How many is that?”
+
+He glanced at the pile of steel gears that needed a polish pass. “Enough for now. I need to properly set up the lathe with gearing to do threads and worm gears. Bevel gears and other stuff will take a while, but it’s doable. That milling machine is getting closer.”
+
+Two days had gone by. Varrick had kept the forge going nonstop, barely stopping to rest. The steel he produced was of decent quality, too. For such a small setup, they were making good time. Shawn had already used the last of the plate and sheet metal to form the frame of the milling machine. It wouldn't be a Bridgeport milling machine, but it would be close.
+
+“Hey, you two look like drowned birds!” Claire called out as she tossed rough threaded towels to both of them. Shawn felt like he'd been sandblasted, despite the protective aprons. “So how's it going?”
+
+“We have gears. Assuming I did not fail on my drafting skills, those should work.” He pointed to the pile of completed components, including a few other pieces requiring precision cutting. Luckily they had a bandsaw he could hook up to the steam boiler through a coupling shaft for bigger pieces.
+
+“You two look exhausted," Claire emphasized.
+
+“We are.” Regia still wore a contented smile on her face. “Hopefully we don't need to do this once we have this thing running.”
+
+“I prefer my water cutters to be sourced from machines. The feathered ones tire out,” Shawn quipped, and she gave him a playful shove. “What about your little chemical experiment, Claire?
+
+“Still working.” She showed them a small glass vial. “This is an alchemical acid I was able to make, with Varrick’s help. The Etteria seems to be resistant to regular acids. It also doesn't dissolve readily with everything I've tested, so far. But I'm sure I can make a chemical battery out of it.”
+
+“Just don't give yourself a gestalt by mistake.” She flipped him a finger in response.
+
+“This isn't amateur hour, Shawn. After what happened to you, and what we know now? I’m less likely than ever to want that. Sorry Halsey,” she added hastily.
+
+No offense taken.
+
+“She understands,” Shawn relayed. “Alright, I need a bath to scour all this grit out of my feathers. Ugh. I know we made progress, but this was messy.”
+
+“Says the man who blew up a Thunderhead and got showered in little chunky bits,” Regia added with a grin as she dried her feathers, which poofed out comically.
+
+“That only happened once.” He scrubbed his arms with the towel. “Okay, first, food. Then, one last project for the day.”
+
+They returned to the smithy an hour later, with Shawn bringing out all the assembled pieces. Varrick looked impressed by the metalwork when he arrayed them on the table. “Now, we need to make these smooth. The hydro cutter that Regia can use certainly works, and better yet, she can absorb water that has particulates in it, without incident. But we need to polish these a bit.”
+
+“Isn’t this a little obsessive?” Varrick asked as he palmed one, and ran a finger across the surface. “Hmm, not bad. I think I can work on these.”
+
+While he worked on smoothing out the imperfections, Shawn turned to the incomplete frame then showed the teeth on the slides, and gestured to Regia. "So, the idea is, that you turn the cranks, and the cutter head will follow a linear path. You can adjust the piece in the fixture, here,” he added as he pointed to a vice with degrees marked off to every half degree, “To cut angles better. I also need to work on the tilt, which will be similarly done.”
+
+“Still planning on making this contraption work for rifles?"
+
+"Yeah. but our current rifles are inefficient." He kept thinking what weapon would be the best choice, and what features to put into it. A bolt action was still a step-up from the lever actions, and semi-automatics were possible, along with full automatic. But, gas porting and durable materials for sustained fire would require some trial and error, and more gunsmith experts.
+
+May I suggest the M2 Browning machine gun, a weapon perfectly suited to destroying anything unlucky enough to be in front of it?
+
+Shawn laughed softly, with Regia letting out a sigh. "Maybe you should invent a means to get Halsey talking to us directly."
+
+"I think that's above my pay grade for the moment." The absurdity of using a heavy machine gun to take down monsters seemed excessive...but the ursina had proven resistant to bullets, and it was likely far from the worst they'd face. He just didn't know how the hell they were supposed to lug around forty kilos of gun--wait, only thirty kilos, given the gravity reduction.
+
+Even so, the idea was tempting. Shawn tapped the schematic for emphasis. “We still need the logistics of a lot of other things. But yeah, precision engineering will be needed to get these weapons to a level that they’re effective.”
+
+The ursina and the tunnel viper had shrugged off immense damage. They needed to continue to upgrade with magical munitions, or a way to channel gestalts to projectiles. “Telga showed me that rune work can be engraved on weapons to improve their effectiveness. I want to do the same but with bullets. I want to hit harder and use specialized ammo to hit something with whatever it’s weak against. And I know that runic work is an immense skill–handiwork is the limiting factor, she told me.”
+
+“Yep. but, how’s that play out, here?”
+
+“We’ll make it so we can do precision milling. We’re going to make the best damn runes on this planet," Shawn answered.
+
+She grinned at this idea. “I like where this is going!”
+
+“Revarik won’t.” He couldn’t help but smile at this one. “Why make a dozen failed runes by hand, when you only need to do it once, with precision and accuracy?” His test on the gear line moved the chuck laterally back and forth. The crank nearby was locked in with a key and slot arrangement, and with a simple screw, it was now secured.
+
+One step closer.

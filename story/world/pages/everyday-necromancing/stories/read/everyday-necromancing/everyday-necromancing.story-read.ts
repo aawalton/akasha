@@ -1,0 +1,41 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const everydayNecromancing = {
+  id: "01a16903-2f27-74f3-b902-ab3c430f0271",
+  type: "page-type/story-read",
+  slug: "everyday-necromancing",
+  author: "Skippit",
+  following: false,
+  unit: "unit/words",
+  title: "Everyday Necromancing",
+  world: "world/everyday-necromancing",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "102070",
+      externalLink: "https://www.royalroad.com/fiction/102070/everyday-necromancing",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Reincarnation",
+    "Urban Fantasy",
+    "Progression",
+    "Anti-Hero Lead",
+    "Action",
+    "Comedy",
+    "Fantasy",
+    "Sci-fi",
+    "Artificial Intelligence",
+    "Cyberpunk",
+    "Magic",
+    "Male Lead",
+    "Soft Sci-fi",
+    "Strategy",
+    "Supernatural",
+  ],
+  readLater: true,
+  createdAt: "2026-10-23T13:46:18.791Z",
+  updatedAt: "2026-10-23T13:46:18.791Z",
+} as const satisfies StoryRead

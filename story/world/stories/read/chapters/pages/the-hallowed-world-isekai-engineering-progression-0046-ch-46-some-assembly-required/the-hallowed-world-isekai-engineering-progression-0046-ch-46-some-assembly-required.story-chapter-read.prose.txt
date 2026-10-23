@@ -1,0 +1,101 @@
+Two more days of industrious work went by.
+
+Shawn finally allowed himself a soft smile when he tallied the steady pace of progress in that time. He had a new drive to complete this task because Varrick had finished processing the metal ore. Piles of prepared ingots were now present in the smithy, awaiting preparation into something usable.
+
+“Claire, got anything on that etteria battery?” he asked, and grunted softly. His current task was forming a steel sheet into shape using one of the metal presses. A quick check later indicated it was a perfect ninety-degree corner.
+
+“I had to get creative. But, I think I have something that works and produces a current. It started electrolyzing water,” Claire added with a proud smile. “Do we have enough copper windings for the motor?”
+
+“Barely.” He finished using the folded metal and attached it to the casing enclosure for the back paneling. The base was finished and serviceable–even if he’d improvised on a few items. A lack of proper fasteners meant weldments, press fits, and impromptu rivets. “We also need to come up with a speed control.”
+
+“Shawn, let’s focus on getting it to run at one speed, alright? Keep it simple until you work out basic circuitry again! The best we can do is maybe throttle the energy flow.” She did have a point, and he had a few ideas on how to make that happen.
+
+He had a simple rig set up for creating the copper windings for the drill motor. To say it was ugly was an understatement. But it would be functional. Garrett attended to pulling the wire through a simple die. Once he had enough wire, he followed Shawn’s instructions on looping the wire around the magnet. It was a spectacle to watch Garrett work, with his fine motor controls. But, he also had his curiosity about the end goal.
+
+“I don’t get it. Why has no one ever made a motor in Valtiria like this?” Garrett asked casually.
+
+“Why bother when arcane energy is there? Mind you, I’ve only seen a handful of gestalts, and they make any tech we have back on Earth seem tame by comparison.” Shawn didn’t quite spell out that warfare was still disturbingly efficient. “We don’t have bountiful etteria or other magical sources, so we have to get creative. Plus, we have steam boilers, and the current from the water wheel as another generator source.”
+
+“Maybe we should just buy it,” Claire proposed. Shawn dug a few claws into his palm.
+
+“A demonic bird god is tearing apart the world from the inside, outwards. Hell, people should give us stuff to increase our collective survival rate. Telga, what’s the deal with this Celes you mentioned?”
+
+“She’s the current queen of Valtiria Prime. And very keen on plugging her fingers into her ear crests and pretending all is well.” Telga rolled her eyes at this, like this wasn’t uncommon. “You know, when I had enough power to melt a city with light beams, I really should have done some renovation work on her throne room.. During business hours.”
+
+Regia cackled madly in response as she helped cut through some thin sheets, having gotten good at using her hydro cutter ability to cut precision pieces, and this time, without the shielding barrier from Shawn. “Oh, so you admit to the tendencies of wanting to be a mad goddess?”
+
+“Oh, get off your high roost,” Telga clucked with a growl to her words. “That sets a bad example for the rest of us Radiants.”
+
+“Have you…I dunno, warned them that Revarik could come after them and snag their powers, and memories to further aid in his campaign to dominate and enslave?” Shawn asked. “Seeing that you kept some information withheld before…”
+
+“No. I warned them to give him a wide berth and that we needed to fight together to stop him. I was promptly ignored. I wouldn’t mind Lasher getting his soul extracted violently, though. Waste of power, that one, and his personal hobbies are…deplorable.” Shawn had a feeling that this guy was trouble. And trouble tended to find them of late.
+
+“Kinda sounds like we’re boned,” Claire complained, but continued to tighten more fasteners. The frame was almost complete. Shawn knew this machine would weigh about half a ton or more, so they picked a spot and levelled it before building. “Look, allow me to poke a hole in this idea that we gear up a small army–somehow–and beat a numerically superior foe. These plans we have are a distraction, right?”
+
+“We need to kill Revarik for this to end,” Shawn stated adamantly. “Telga, you said you burned a contingency to get back home. How?”
+
+“We…had a secret teleport back to Valitira,” she replied uneasily. “It was part of our escape plan, should things not go well. Which, they didn’t.”
+
+“And he used that device to pull your etteria out of your body. Didn’t he?” Shawn asked, setting down his tools to gaze at her. “That’s how he did it?”
+
+“He partially succeeded. His ‘golden general’ was the one doing the extracting; he didn’t have the balls to do it to me himself. Just like I suppose he had this woman do the same thing to Halsey,” Telga fumed, claws gripping the piece she was working–it turned out, having a light-based energy power was great for cutting metal sheets to size.
+
+“You mentioned her before.” Shawn pointed to Regia, snapping his fingers as if this was important. “I know we spoke earlier, and that it…can’t be her. But what do we know about her?”
+
+Telga considered his query for a moment. “She’s a human woman, hiding in black armor. There was something distinctly unwell with her, the way she talked in a deadened, monotone voice. Like all the energy in her life was gone.” She rubbed easily at where he presumed her Etteria core was. “Regia distracted them long enough for the surviving team to break in. It came at a price. I grabbed those two primal crystals on the way out the door…before I lit that whole gods-damned laboratory ablaze.”
+
+Shawn saw she was gripping the sheet metal so tightly, a drip of blood was visible on one of her fingers. Varrick took notice and pulled the sheet gently from her hand–she didn’t protest, but rubbed her hand and grabbed a scrap cloth to cover the injury. Shawn could see the way her gaze softened when she saw Varrick, she appreciated the gesture.
+
+I’m not surprised she chose him. Varrick is dependable.
+
+You knew him? From before?
+
+I did. He’s a good man. And my sister needs someone like that in her life. I know he had a child and a wife, from before. But…I don’t know all the details of what happened, in-between.
+
+Shawn tried to ponder that. Varrick had been tight-beaked about his past. No amount of casual conversation had given him or Claire much information to go on. His guess, after the first few efforts, was that Varrick was sitting on his own pile of trauma, too.
+
+It seemed to be a recurring theme around here.
+
+“What are you thinking, Shawn?” Telga asked softly.
+
+“We need a path to the core world. Revarik doesn’t strike me as one to expose himself to danger unless he’s got a show of force. That’s why he didn’t show up at the sanctuary to kill you himself. I think there’s a vulnerability in his gestalt.”
+
+She tilted her head at this for a moment. “Regia had it right earlier. Use of his gestalt is severely taxing. It’s the only thing that truly limits it. It used to be he would borrow other gestalts. Temporarily, mind you. Now, it allows him to control the etteria in others’ bodies, but I think it has to be a willing connection. I don’t know the specifics. I know that he overused it once, and it almost killed him, when we were younger.”
+
+The work continued, and eventually, Shawn placed in what would be the motor, with wires trailing unconnected down the machine, where he fed them through a small drilled hole. Afterward, he checked the bolts for tightness.
+
+He gave a wayward glance at the untested battery prototype. The fact that he got the lathes working to make simple bolts reliably was immensely helpful…if a little slow-going. Getting electric power again would open countless doors for advancement.
+
+He’d have to build a factory someday–assuming they lived long enough to entertain such notions.
+
+“You wanna do the honors?” Claire asked him as she handed him the wire pair. The battery wasn’t complicated–it was just a tank of etteria-infused, conductive fluid that looked almost like a gel, with two different metal plates acting as the anode and cathode, plus a divider in the middle. “The battery wasn’t that hard. But we should be able to test this thing out. We can work on a throttle in a bit.”
+
+Shawn put on a pair of gloves for safety. He doubted he would get shocked, and in theory, this should work. He connected one wire threaded onto a loop to the terminal–it was just a screwed-in bolt attached to the plate. He held his breath as he connected the other, and a spark emerged.
+
+The motor spun to life with a whir of mechanical energy present, and he shouted in triumph. “Hell yes!” he roared, and threw his hand into the air, unable to contain his excitement. “Now it feels like we’re getting somewhere!”
+
+Regia shared in the excitement, and they all exchanged high-fives. Even Varrick and Telga shared in the excitement by giving each other a quick hug. Shawn was focused on an empty chuck that would connect to the gear mesh that drove the spindle, and temporarily disconnected the wire. The machine slowly spun down; he took a note to make a quick friction brake as an add-on, later.
+
+He wanted to see how much power was behind this drill. If his estimate on the coils was right, along with the battery's theoretical charge, it should be about half a horsepower.
+
+A piece of precut wood was their first test, and after reconnecting the wire to get the machine to spin to life, he turned the simple crank to lower the drill cutter, using the fluted bits that Varrick had produced earlier. Upon contact with the plank, small chips of wood flaked off. Shawn smiled proudly, watching the shavings fly off. With another test, he turned the crank to move the base laterally to the right. He went slowly, to avoid overburdening the untested piece, and continued to cut the wood without issue, and the flat-end cutter produced a fine pile of shavings and a finely defined trench.
+
+With a few more settings, he moved the base from the center, and cut a small circle by rotating the base, one of the things he’d insisted they be able to do, to cut varying radius. It wasn’t perfect; some of the fixturing seemed a bit loose, but that could be ironed out in time.
+
+Claire laughed when she saw what he’d made. “You get kidnapped across the cosmos, get beat on by monsters and zealots…and your first piece of work is a stupid smiley face in a block of wood?!” She was unable to contain herself and doubled over, having a hearty laugh. “You’re insane, you know that?”
+
+“Oh, don’t worry. Milled receivers, mechanized warfare, and other fun stuff are next week,” he announced proudly. “We have some issues to work out, such as sustainability, and some other items I’d like to be more efficient on. I’d like to synthesize some material for pulleys, or get some from elsewhere, so we don’t need constant gear trains. That would be helpful for our future efforts.”
+
+“Sheesh. He never turns off,” Regia cracked, and slapped him firmly on the shoulder, leaning in cozily close. “So what’s next, young master?”
+
+“Well, some safeties, some wrappings for the wires so we don’t…you know, shock ourselves. I should warn you, electricity can be lethal, and we don't’ want to become fried birds.”
+
+A low, deep horn sounded nearby, and both Garrett and Regia glanced at each other, their bodies tensed. “What is that?” Claire asked, aware that the mood had just shifted in an instant.
+
+“They need us at the garrison. Sounds like scouts picked up something bad.”
+
+Guess that’s our cue to do crisis management again.
+
+Shawn sighed softly. Every time they progressed in the right direction, something inevitably came along to throw up a giant roadblock.
+
+But now he had friends to cut through every roadblock they would face, together.

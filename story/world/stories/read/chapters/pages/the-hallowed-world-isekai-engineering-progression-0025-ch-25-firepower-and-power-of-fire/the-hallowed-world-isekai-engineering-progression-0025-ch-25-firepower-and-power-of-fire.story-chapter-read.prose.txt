@@ -1,0 +1,173 @@
+“Standby. Loading round.”
+
+Shawn glanced down at the unassuming new projectile that Claire and Garrett had put together. According to her, the cartridge was a combination of the alchemical gel, and gunpowder. She had experimented in her lab on the exact amount to use, adding slowly increasing amounts of their first batch of gunpowder, and observing the reaction. She gauged it by the percentage burned and mass loss–not a terrible way to calculate it.
+
+But, the first test filled the smithy with smoke, leaving Varrick cursing obscenely. That had to be the gel, since this gunpowder should be smokeless.
+
+They wisely took the testing outside to the barracks training grounds. He was still working on a reinforced barrel for this because he had a sinking feeling this gun was going to burst apart from the increased pressure. He'd also worked on creating a metal casing that wouldn't explode from the higher pressures. He was of course, relying on Varrick's knowledge and his own, and a few calculations that he hoped were close enough. He didn't like the idea of blowing off a hand on this.
+
+“It disturbs me immensely that no one else has tried this,” Shawn announced unhappily.
+
+“I heard that all the summoned were a bunch of murder-happy psychos more interested in killing than enlightening the world,” Garrett replied with a click of his tongue. “Glad that you two aren’t the case. From what I’ve heard, the whole process of getting flung halfway across the cosmos can leave people…unstable.”
+
+My father was a psycho, Garrett. You have no idea what he did. Or what my name means to the people back at home. He examined the round, sized the same as the other alchemical cartridges, but with one exception. He’d modified the casing to use rolled steel jacketing. He had used the various tools in Varrick’s shop to make a round properly sized for the rifle in his hands, plus a little bit of Varrick's gestalt was almost a cheat mode. But, if they wanted to mass produce rounds? That was going to take a lot more effort.
+
+He needed part consistency so that he didn't get weapon jams, or worse, weapon misfires. He also had his force barrier wrapped around him out of precaution. “Garrett, goggles please?” he asked politely.
+
+“Oh. Uh, here.” He handed him a rather beaten-up pair of goggles, and he tightened the straps. It tugged at his feathers a bit too much for his liking, and Claire heckled him from afar.
+
+“Looking stylish, Shawn!” she called out, even as she sorted through the various rounds they’d prepared.
+
+“Safety first, you mad scientist!” he retorted. “I mean c’mon Garrett, gunpowder has been around on Earth for several hundred years. We can’t be the only people that have this knowledge.”
+
+“I know it’s used on the other tectonic masses. But, tech propagation is slow. Lots of Radiants say ‘no sharing.’” Garrett looked at the bullets, and the hundred others they'd made in short order skeptically. “Not that you noticed, but our rounds didn’t do much even against smaller monsters. The gestalts, by and large, are far more effective.”
+
+“What a stupid idea, restricting knowledge,” Shawn muttered, hoping Telga wasn’t close enough to hear that. He chambered the round using the lever action and hoped he could get his bolt action rifle prototype done before they went into the mines. Or a rifle, modified to fire a pellet spread.
+
+Because going into a mine with probable eldritch horrors lurking below, almost necessitated a magically engineered shotgun. “Well, let’s see if this thing works. Hope I don't do permanent harm to myself. Or more importantly, the rifle" Shawn stated with a forced chuckle.
+
+“Your force barrier held off someone trying to incinerate a chunk of a moon," Garrett pointed out.
+
+“Spooky magic logic. I’d rather not test it.” Shawn lined up on the target, while Garrett backed off. His force barrier was fully active, with a golden glow shielding his body, awash with light. The barrier caused his grip on the rifle to be a bit more slippery, but claws did have their practical purposes for this.
+
+One thing was for sure, he’d never be stopped by a stubborn mason jar again. Halsey, we should try to estimate the bullet velocity, taking into account distance, Mach speed of the air–
+
+Yep, got it. Not like I didn’t know what you were thinking. You realize I’m limited to the meaty side of your senses, right? So, this isn’t perfect.
+
+He sighted down the target. This was the lowest mixture of gunpowder. Testing experimental ammunition was hardly a good idea. But with the improvements to the weapon innards he was working, he was one step closer to dealing with bigger threats.
+
+“Firing in three…”
+
+The rifle bucked hard against his shoulder. Even braced against the table, he felt the recoil almost painfully. Meanwhile, he kept focus on his target: the round pinged heavily off the metal-backed dummy, and the audible report came a split second later.
+
+He stared at the round hole clean through the ‘head’ of their target. He cycled the casing out and examined the cartridge. The casing was still hot, but looked intact. It had also been extracted cleanly, without any hang up. “Weapon clear,” he announced before he took off the goggles, and let the force barrier fade out.
+
+Garrett sauntered over to the target and pressed a finger against the hole. “Well, I guess he’s dead.”
+
+“Not very realistic, against a stationary target at optimal firing range. Well, that was a step up from the baseline. None of the rounds went through before.”
+
+The estimated velocity at the barrel exit is 950 meters per second. Give or take ten meters per second. A solid improvement from the baseline.
+
+Shawn nodded quietly, while Garrett did the same. “I think we’ve got a weapon improvement.”
+
+“The barrel held. Think we can go up to the next level?" Garrett inquired.
+
+“It’s why we’re testing. But I want to keep testing at low power, for now."
+
+Several rounds later, Shawn had his answer: the weapon was holding firm, and the recoil from the rifle was impressive. But the stopping power of this round was likely enough to deal with more dangerous foes.
+
+Average round velocity, 930 meters per second. With a standard deviation of about 15 meters per second. Not bad, but we need proper measurements eventually.
+
+Good. Now I need to make some magical bullets to solve the other half of the problem: total damage. He finally allowed himself a small smile. “Well, I would say this is a little inconclusive, but, that’s a good first test. Nice work, Claire!”
+
+“We should try one of the spicier rounds!” she proposed. "I want to be the woman who made the bullet that killed a tyrannical feathered god!"
+
+“Alright, just one, then.” This next one was about ten percent more gunpowder, and he was worried. Even now, the weapon had significant recoil. They needed a muzzle brake to reduce the impact, though at least the buttstock was well aligned with the barrel.
+
+When he fired the round, two interesting things happened: First, the recoil almost dislocated his shoulder, and second, the round kept going past the target and off into the woods. It sounded like a cannon going off. His barrier had flared from the impact, and he rubbed at the bruised limb.
+
+That’s when he saw the bigger problem. The barrel had a crack along the length, and he grimaced. “Well, Claire, I think you’ve got a great idea. But we’re going to need some forged and reinforced barrels for this. We just retired this weapon.” His shoulder ached from that impact, and he swore it felt like he strained his wing on the same side.
+
+“Let’s just toss this mix into a frag grenade and other explosives. Because you love to shower the landscape with body parts and shrapnel,” she added cheekily.
+
+He stared at her, and the out-of-place grin. “This place is not good for our long-term mental health. Or physical health.”
+
+Believe me, if I was worried about your sanity, I would voice my opinion.
+
+“Just keeping it real, nerd birb,” she teased.
+
+“Still hating the pet names, and you making fun of my existential crisis. If you ever test out that Etteria, I hope you get turned into a lizard,” he shot back.
+
+“Do be careful what you wish for. We have dragons, the Lovar'ii, and more on the planet,” Regia cautioned. She glanced at the damaged rifle. “So, what about the bolt action you told me about?”
+
+“That will be a separate test, with standard ammo once it’s done. Lever actions are somewhat complicated. Bolt action will allow bigger rounds, and are mechanically simpler.” He glanced at the work-in-progress build. “After witnessing what happened to the first rifle, the barrel needs to be sturdier.”
+
+“Ah, great timing, then. Time for testing of our other firepower,” Regia grinned before flexing her arms.
+
+He wished he could say the gestalt training was as smooth sailing. But after a couple of hours of training in rounds, Shawn was getting frustrated.
+
+His gestalts were powerful, but he kept running into the risk of Etteria burnout. Garrett had him using them nonstop against the target range until his claws felt singed from the fire darts he conjured up. They started with stationary targets. Those were easy. His shooting accuracy was better than nine out of ten at close range.
+
+But he ran into a problem. The fire darts dissipated after traveling a certain distance or drifted off target.
+
+He let out a pant, his hands feeling burnt. “Okay, Garrett, pretty sure this gestalt has a finite range.”
+
+Garrett looked up from a small notebook he was scribbling in, while the others paired off doing various activities. “You need to be more efficient in your gestalt use. Think of it like a…what's the word? A throttle?”
+
+“Right. Control how much power I put into it,” Shawn sighed. He'd started feeling out the minimum power to get a dart in hand, but either it was inefficient, or his reserves were low.
+
+He focused again on that mental throttle. He could adjust that pathway a little, and he’d gotten used to pulling power for what he needed at a minimum for the intended effect. The power that coursed through him had a predictable feeling to it, based on that acoustic response he felt in his core.
+
+“Again. Hit the five targets, as fast as you can,” Garrett clucked before examining a mechanical windup watch. “Ready when you are.”
+
+Shawn knew between the first shot and the last, he'd be forcing himself to get that last shot off, flirting with mild burnout. He needed to pace it, or get more efficient. Previous attempts had meant as much. But rather than pull five darts, one at a time he had an epiphany:
+
+What if the energy could be stored or queued?
+
+He focused on that energy coursing from the now familiar forge flame–as he now called it, and Halsey took a liking to it–and pulled more power than was necessary for a dart. But he didn't give it form as he kept his claw clenched, and instead held it. That warmth persisted in his limb and core, waiting for a prompt.
+
+Shawn, what are you doing?
+
+Testing a theory. If the Etteria is this giant energy sponge, then maybe, I need to think of it like one. When you soak a sponge, and then squeeze it, what happens?
+
+Water comes out. Okay, I don't see where you're going with this.
+
+He conjured a fire dart into his hand, the comforting flame warming his hand, but not harming him. What if we replace water with energy?
+
+I'm still not following.
+
+Well, let's assume the act of wringing that sponge dry takes energy away from the maximum potential. You lose some in the act of pulling it. In terms of fluid mechanics, it would work sort of like…frictional losses. You lose pressure, or energy, as the fluid interacts with the pipe. Head losses, they call it.
+
+Okay. I see where you're going with this. I think. You think that you're losing energy every time you pull from your core. Losses of efficiency.
+
+Right. And each time I try to wring it dry without a recharge, it cuts into efficiency further. He still held a charge in his core, and rather than power up that dart…he pondered if he could split it off. Could he focus on holding two?
+
+He let out a trickle charge, just enough to generate another flame dart. But the first dissipated in a burst of fire that singed his hand, and he wrung his fingers, feeling that uncomfortable burning sensation.
+
+“Uh, Shawn, what are you doing? The fire is supposed to hurt the people-shaped targets,” Garrett chuckled.
+
+“Sorry. Technical difficulties,” he answered back.
+
+Technical, indeed. I think you were close. Try again.
+
+A few repeats and a few lightly burnt fingers later, Shawn cursed. “Garrett, this isn't working. I can't conjure two darts at once.”
+
+“I’m sure you can. Just keep practicing!” He cheered. “You’ve been at this for only a week. You're making progress. Take a break for a minute. Sometimes the answer comes when you're not thinking about it.”
+
+“One more try.” He didn't want to leave this unfinished, but any more failures of blowing up his flame dart, and he would need a healing salve. He rubbed at his injured fingers gently before clenching his fist, and vowed to get this right.
+
+The problem wasn't capacity. He had solved that, which was a victory of its own. He could pull enough energy for two darts. Or three, or however many he needed, for a moment. The new problem was holding focus on the fire darts. He couldn't focus on two at once. Not yet.
+
+Have you tried pulling them in rapid order? Throw, conjure, and repeat?
+
+I don't think that will help. Hang on. What if I…
+
+He frowned and thought for a moment. He mentally had to shape the dart, and the physical act of bringing it to his hand was the problem. What if he mentally prefabricated more than one dart? Store them in a queue?
+
+He narrowed his eyes and clenched his burnt hand. It could work. He thought of it as a mental magazine for magical armaments. Each use of one would slide the next one into battery, in essence. He felt out a trickle of energy, and visualized each fire bolt–the temperature, the intensity of the charge fed to each.
+
+It felt different this time. Like there was a trickle charge waiting to be unleashed from his core, but not a constant drain. This was a prepared and constrained power. He added another to his mental queue, the same as the other two. Then a fourth. He felt like he was tapping out of that reserve well he'd set aside on the fifth, but he felt it catch.
+
+There they were. Five charges of prepared flame darts, ready for delivery. He could feel it–but now, he needed to see if he could execute the motion flawlessly.
+
+“Alright, ready.” He pulled the first fire dart to his hand, burning brightly, and he sized up the targets, at different distances and heights.
+
+He flicked out the first dart, hitting the target dead center, and a burst of fire scorched it. He wasted no time, pulled the second from the queue, and fired at the target position sitting on top of a log. It too, was scorched. He pulled the third and noticed no perceptible change in his fatigue or any increase in Etteria burnout. The third target fell.
+
+Then the fourth.
+
+The fifth too, suffered the same fate as he whirled around and threw the dart like a fastball, bursting with a brighter intensity of flame. He heaved out a cry of triumph. As did Halsey.
+
+You, Shawn, are a steely-eyed missile man.
+
+He would have argued that only partially applied, but he didn't care. He was elated to have solved a problem of limitations. Regia whistled cheerily, as did Garrett. “Alright, now that’s progress! Now do it again! I prefer my favorite new arrivals fighting prepared!”
+
+Shawn stared at her. “Regia, do you have any idea how much effort that took?”
+
+“Yep! Which means the expectations to solve problems, kill monsters, and keep me amused are sky-high!” she beamed. He groaned audibly. “Your reward for finding solutions to your gestalt problems is, you guessed it, solving bigger and more complex problems! If you want that mine open, we’re probably gonna have to go on an extermination trip! Best be ready, or I’ll be putting your feathered carcass on a funeral pyre!”
+
+After a second, he nodded and gritted his beak in a determined smile. “Alright then, Regia, bring it on. Whatcha got next?”
+
+“Fly and gun,” she grinned. “You know what’s more dangerous than a gestalt user? One that can rain death from above.”
+
+He clapped his hands together and ignored the stinging sensation of his slightly burnt hand. “It gets better and better.”
