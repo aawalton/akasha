@@ -20,5 +20,7 @@ export const uniqueSkillTrashSkillBasedProgressionStory0165Chapter148Registratio
     },
   ],
   createdAt: "2026-10-22T16:49:32.049Z",
-  updatedAt: "2026-10-22T16:49:32.049Z",
+  updatedAt: "2026-10-23T19:48:22.378Z",
+  ownProgress: 3151,
+  progressedAt: "2026-10-23T19:48:22.378Z",
 } as const satisfies StoryChapterRead

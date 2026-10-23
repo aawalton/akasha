@@ -20,5 +20,7 @@ export const uniqueSkillTrashSkillBasedProgressionStory0170InterludeXiMakingImpr
     },
   ],
   createdAt: "2026-10-22T16:49:37.759Z",
-  updatedAt: "2026-10-22T16:49:37.759Z",
+  updatedAt: "2026-10-23T19:48:22.378Z",
+  ownProgress: 1666,
+  progressedAt: "2026-10-23T19:48:22.378Z",
 } as const satisfies StoryChapterRead
