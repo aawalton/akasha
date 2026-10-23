@@ -1,0 +1,91 @@
+I woke up the next day without my usual sense of dread permeating my brain. It was a welcome change. From the lack of smells, it was possible I was even the first person awake. That meant it was a good time to go track down wherever Chip had slept last night and get an early start on my simulator plans. While I had no regrets at how we spent the day before I needed to get these runs done quickly, in case I needed any sort of extended recovery time. We may only have two floors remaining, but we were running out of time to complete them.
+
+I found Chip asleep on a pile of children in the living room. Apparently, Glorp’s siblings hadn’t made it back to the bus after the party. Alex was asleep on the couch, a book resting on the floor nearby. Quietly whispering Chip’s name, I managed to get his attention without waking anyone up. He dashed across the room and hopped on my shoulder as we made our way back to the garage, stopping briefly in the kitchen for some leftovers. It was better to do this on a full stomach and to have some food sitting nearby waiting for me once I finished a run.
+
+“So, how are you enjoying Earth so far? Making some friends?” I asked Chip, not expecting any sort of real answer. I somewhat missed the days in the Archives when I would wake up to him sleeping on my chest, but I knew he had needed to spend a lot of his time helping Timon keep up the mana reserves for the bus, not to mention he seemed to love the cats, so I wasn’t about to force him to spend the night with me in the garage. As expected, the only response I got from him was some chirps and stealing some of my breakfast.
+
+“Glad you aren’t hating it here, and thanks for being nice to the cats. I’m sure John and Maud really appreciate it,” I said as I scratched him behind his ear, eliciting more happy chirping sounds. I finished up some breakfast and tossed a few more pieces to Chip before I felt ready to tackle the simulator again.
+
+My confidence in what I could handle modifier-wise had held strong, even after a brief discussion with Elody about my thoughts on it the previous night. She agreed the soul ignition was more likely to help me avoid a backlash than it was to make it worse. My body was now channeling soul mana directly, which should, in theory, make the conditions of my initial soul separation much harder to recreate. I pulled up a chat window, hoping it wouldn’t wake Maud up. Was there a way I could send messages to Corey only? I’d need to look into that in the future.
+
+>Dave: How are you feeling this morning? Ready for this?
+
+>Corey: I feel normal. By this, I assume you mean you are ready for the simulator.
+
+>Dave: I do, and I am.
+
+>Corey: Understood, and I am also ready.
+
+>Dave: Perfect. Basically, once it starts just throw the shield up around us and keep putting it back around us until the simulation ends. I don’t know if our chat will still work or not, so if I don’t respond to anything, assume that’s what’s going on.
+
+>Corey: Understood.
+
+I closed the chat window and moved over to the full System interface Pryte had gotten us. It had been a while since I ran one of these. I opened up the menu, my anxiety still staying silent. I selected the full set of modifiers and started the simulation. Instead of my expected lava-filled wasp dungeon, I was greeted with a brand new warning menu.
+
+!WARNING!
+
+A DUNGEON CORE HAS BEEN DETECTED IN THE SIMULATION
+
+!WARNING!
+
+System Override
+
+Simulation Injection In Progress
+
+Dungeon Simulation Regeneration In Progress
+
+Modifiers Disabled
+
+Starting
+
+I had no idea what had just happened. As the new simulation came into view, I found myself standing in a small room with a single square table and a chair on either side of it. Next to me was floating a black dungeon core. Was that Corey?
+
+“Corey?” I asked out loud.
+
+“Yes. This does not appear to be what you warned me to expect,” they answered.
+
+“It’s not. I have no idea what’s going on,” I said, looking around in confusion. Beyond the table and chair, there was nothing else in the room. The walls looked like plain stone, and there were no doors or windows anywhere. The light in the room seemed to be coming from nowhere. Where were we, and how did we get out?
+
+“My usual senses do not seem to be working correctly. Also, my expected connection to you seems weaker,” Corey said, floating away from me as they spoke.
+
+“Ah, sorry. I apologize for the lateness. It’s just been quite some time since anyone new has triggered that,” a new voice said. I turned my head back to the table to find what looked like a very old dwarf sitting in the seat furthest from me. Floating next to him was another dungeon core; this one, while still black had flecks of blue mixed with the yellow lines that seemed to float around the interior of it.
+
+“Uh, who are you, and where are we?” I asked. Just because the dwarf was polite didn’t mean we were safe, and considering they had hijacked my simulation run for this, I was already very much not happy with them. Wait, how had they even done that? Was it possible to hack the System like this?
+
+“My name is Rorland, and my friend is Teral,” the dwarf said, pointing his head toward the dungeon core when he referred to his friend. “As for where you are, that’s a bit complicated. First, let me ask you a question. Why did you start a System replication effect with a dungeon core?”
+
+I considered not telling him anything, but as I seemed trapped in a world of his making, and more so because he had his own dungeon core partner, I decided honesty was likely the best policy at the moment. “We are partners and are currently working towards growing our strength for future challenges.”
+
+“So you consider this dungeon core an equal? Someone worthy of making their own choices?” Rorland asked, narrowing his eyes as he looked intently at me.
+
+“I do,” I answered, unsure if my own declaration would be enough to convince the man.
+
+“How about you child? How do you feel about this?” a second voice asked this one belonging to Teral, the dungeon core next to Rorland.
+
+“I am not sure I entirely understand the question or the purpose of what is happening here, but recently, I have found myself feeling a sense of purpose. I no longer feel the need to contain myself to something small, cocooning myself away from the world,” Corey answered. Had that been how Corey had felt originally? Was that why dungeon cores were drawn to creating their own lairs? Just to act as some sort of defensive measure against the harshness of the world they were awoken in?
+
+“Good, that’s a start, but I want to know more specifically how you feel about this person here. Do you enjoy working with them, or do you feel yourself more as a slave to their whims?” Teral asked.
+
+“I do not consider myself a slave. Quite the opposite. I am grateful Dave has chosen to trust me as much as he has, considering in our first meeting, I attempted to enslave him,” Corey answered, floating closer to me.
+
+“So you had a traumatic awakening then? I’m sorry you experienced that, child. If I could secure our kind from that, I would,” Teral said.
+
+“Okay, I really need someone to explain what’s happening here. Corey and I are working on a tight deadline and this is a new distraction we don’t need,” I said, getting annoyed with the lack of information.
+
+“I’m of the opinion we can make them initiates; what do you think, Teral?” Rorland asked, looking toward the dungeon core.
+
+“Yes, I agree. It’s refreshing to see someone new here, even if entirely unexpected. I second their initiation,” Teral said.
+
+“Dave, you are in a special routine our order long ago snuck into an early version of the System. It triggers whenever anyone bonded with a dungeon core attempts to enter any sort of system-created environment the first time. It then alerts those of us high ranking enough to come and greet the newcomer. It’s incredibly rare for anyone in the Spiral to make the kind of bond you have, and as it’s generally anywhere from frowned upon to a death sentence depending on the type of connection and the faction involved, we like to find those we can and attempt to save them from such a fate,” Rorland explained.
+
+“Great, that isn’t exactly new information. I was well aware of how much the Spiral didn’t like the type of path I was going down. It doesn’t entirely explain why you have a secret order that cares enough to also interfere,” I replied. I didn’t like the explanation he had given at all. It was one of those types of explanations that sounded like it was full of needed information without really giving anything.
+
+“I’m sorry; perhaps I can explain a bit more. For starters, you are the first new initiates in a few thousand years. Not that others likely haven’t formed the needed bond. They just either never found a way to use the System in a way that would lead them to discover this hidden program, or more likely, they were killed. We maintain this routine to help each other stay safe and to better push ourselves to new heights,” Teral explained, adding onto Rorland’s explanation in a way I found slightly more satisfactory.
+
+“Look, not that I don’t appreciate the warning, but I already knew this. Is there anything else I need to know? Or can I just be sent back to the normal simulation we wanted to run?” I asked.
+
+“I understand your haste, but let us at least invite you to the next gathering,” Rorland said.
+
+The System is not without its secrets. For one, who initially created it? The technology that would be required for such a massive undertaking, assuming it ever existed, has long since been lost to the Spiral. So how did it come into existence in the first place? But even ignoring that central mystery, within the seemingly infinite skills, the System supports are combinations that unlock whole new portions of access to different functions within it. While many have attempted to map out a full interface, no one has ever delved deep enough to truly get the full picture. Who knows how much is hidden within it?
+
+A Study into the System by IO
