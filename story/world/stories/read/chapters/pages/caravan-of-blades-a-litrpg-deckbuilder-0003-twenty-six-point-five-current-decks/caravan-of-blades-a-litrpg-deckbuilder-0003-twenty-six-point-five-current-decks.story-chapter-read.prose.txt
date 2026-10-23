@@ -1,0 +1,181 @@
+Finley's Deck:
+
+Epic Class Card: Tinker Level 3Skills:Barter and Appraisal Level 4Identify Level 3Animal Handling Level 3Storage Level 3King Level 1
+
+As the last remaining Tinker you have the ability to induct new people into the family.
+
+This is a soul card and cannot be removed.
+
+Rare Class Card: Spore Druid Level 5Skills:Wild shape Level 2Plant and Fungal Control Level 5Elemental Magic Level 2Survival Level 4Medicine Level 3
+
+This card grants mana.
+
+As a spore druid you have enhanced control over plants and Fungi.
+
+This is a soul card cannot be removed.
+
+Rare Skill Card: Refresh
+
+Skill: The user of this card can push someone far beyond their limit. People can run farther and longer. Animals feel rejuvenated. Effect lasts for four hours. There is a corresponding time period after where subjects of the ability will be at reduced endurance.
+
+Cool down: Thirty Minutes
+
+Uncommon Card: One More!
+
+The wielder of this card will gain the ability to increase their storage capacity, or the storage capacity of one item beyond what should be physically possible.
+
+Uncommon Class Card: Accountant Level 3 Skills:Writing Level 5 Books Level 4 Mathematics Level 6 Eidetic Memory Level 9
+
+As an accountant, you can store complex mathematical matrices in your head and perform functions on them.
+
+Bob's Deck:
+
+Rare Meta Card: Quest Level 1
+
+This card creates quests for the wielder and generates rewards for quest completion. Quests may also be given by a patron deity. The more this levels, the more information about the quest and quest rewards you will receive
+
+Rare Class Card: Ranger Level 2
+
+Skills:
+
+Divine Spellcasting Level 1
+
+Animal Handling Level 2
+
+Favored Enemy Level 1 (Zombies)
+
+Fieldcraft Level 2
+
+Weapon Proficiency Level 3
+
+This card grants mana.
+
+As a ranger you may pick another favored enemy at each level.
+
+This is a soul card and cannot be removed.
+
+Rare Summon Card: Ca'at
+
+This card allows the user to summon Ca'at, a greater feline thief. Ca'at has claws that will pierce any defeated foe and draw out all cards in their soul deck. Ca'at can be directed to steal cards from downed foes and will carry and return all such cards to the wielder, but will require head pats.
+
+Ca'at has a range of three leagues and a cool down time of four hours.
+
+Epic Skill Card: Pathfinder Level 1
+
+Find a friend or foe within five miles unerringly. As this card advances, the range advances.
+
+Anthony's Deck
+
+Rare Class Card: Cleric Level 1
+
+Skills:
+
+Divine Spellcasting Level 2
+
+Divine Rituals Level 1
+
+Heal Level 1
+
+Survival Level 1
+
+Medicine Level 1
+
+This card grants mana.
+
+As a cleric you must have a patron deity.
+
+This is a soul card and cannot be removed.
+
+Sophie's Deck
+
+Rare Class Card: Wilderness Druid Level 1
+
+Skills:
+
+Animal Handling Level 1
+
+Nature Control Level 1
+
+Elemental Magic Level 1
+
+Survival Level 1
+
+Medicine Level 1
+
+This card grants mana.
+
+As a Wilderness druid you have enhanced control over the natural world and can more easily survive in a rough environment.
+
+Rare Class Card: Rogue Level 2
+
+Skills:
+
+Sneak Attack Level 2
+
+Skill Mastery Level 2
+
+Weapon Expertise Level 1
+
+Infiltration Level 1
+
+Evasion Level 2
+
+Stealth Level 1
+
+As a rogue, you may learn one extra class skill per level. New skills start at the average of your other class skills.
+
+Stella's Deck:
+
+Rare Class Card: Rogue Level 2
+
+Skills:
+
+Sneak Attack Level 2
+
+Skill Mastery Level 2
+
+Weapon Expertise Level 1
+
+Infiltration Level 1
+
+Evasion Level 2
+
+Stealth Level 1
+
+As a rogue, you may learn one extra class skill per level. New skills start at the average of your other class skills.
+
+Common Ability Card: Ice Magic
+
+This card grants mana.
+
+The wielder may form ice into multiple related spells.
+
+Sonya's Deck:
+
+Common Skill Card: Clean Level 1
+
+This card grants mana.
+
+This card allows the user to cast a basic cleaning spell on any living creature or object within a radius of one arms length and can be reused while the wielder has mana.
+
+Rare Class Card: Warlock Level 2
+
+Skills:
+
+Eldritch Spellcasting Level 3
+
+Ritual Casting Level 2
+
+Enchantment Level 1
+
+Survival Level 2
+
+Medicine Level 1
+
+Patron Pact Level 1
+
+This card grants mana.
+
+As a warlock, you may have a patron.
+
+This is a soul card and cannot be removed.
