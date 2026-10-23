@@ -20,5 +20,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0211Chapter766TheWeight
     },
   ],
   createdAt: "2026-10-23T12:47:19.000Z",
-  updatedAt: "2026-10-23T12:47:19.000Z",
+  updatedAt: "2026-10-23T23:48:05.565Z",
+  ownProgress: 2557,
+  progressedAt: "2026-10-23T23:48:05.565Z",
 } as const satisfies StoryChapterRead
