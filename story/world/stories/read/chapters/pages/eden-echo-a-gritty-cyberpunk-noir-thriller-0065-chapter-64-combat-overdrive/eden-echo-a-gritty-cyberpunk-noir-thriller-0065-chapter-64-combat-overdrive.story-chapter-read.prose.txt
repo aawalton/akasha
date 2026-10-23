@@ -1,0 +1,79 @@
+Knight didn't know it, but I had been through this particular training scenario a few times. Waves of enemies would spawn in, overwhelming the house where I was holed up. The simulation would throw bigger and bigger groups at me until I died.
+
+In a way, I had to hand it to him. Knight had picked an unwinnable scenario so that he wouldn't need to give me my guns. Of course, I knew one very important detail from my previous runs during the first loop.
+
+The enemies that spawned in were a mix of machines and humanoids. Each wave would fight as a group. But if two waves were summoned at the same time, they would fight each other. It allowed the simulation to do double duty as a kind of three way battle, with each group trying to take the same territory.
+
+As soon as I spawned in I brought up the console. It was password protected, but I remembered it from the first loop. I entered a long string of alphanumerics then told it to trigger the next wave.
+
+Off in the distance I heard the sweet sound of fully automatic fire directed at someone else. Next came the variables. I brought up a menu and felt a wave of annoyance wash over me.
+
+As I had suspected, Knight wasn't playing fair. There were sliders to enhance the difficulty, and they had all been maxed out. My weapons would malfunction, ammo was scarce, and the enemies had been given the ability to see through walls.
+
+“What an asshole,” I said as I restored the scenario back to default settings.
+
+***
+
+Once I got my hands on a rocket launcher I leveled a few buildings to create a no-man’s-land. After that, most of my time was spent playing whack-a-mole with anyone who tried to cross the rubble.
+
+My smart carbine was about perfect for the job. What it lacked in barrier penetration it more than made up for in handling and accuracy. The small dense rounds were lethal within five hundred meters, but could stretch out to twice that if I was engaging unarmored targets.
+
+Eventually I settled into a routine. A new wave would spawn in. Then I would trigger another wave for them to fight, and mop up any survivors. An unintended consequence of my decision to break the game was that sometimes enemies would pick up each other's weapons.
+
+I almost got my head taken off by a katzen infiltrator wielding an anti-materiel rifle before I figured out my mistake. Fighting an invisible opponent with a big fucking gun that could shoot through walls wasn't exactly fun. But eventually I was able to flush her out with the rocket launcher and put her down.
+
+I got through thirty waves before a stray mortar round “killed” me and ended the training scenario. When I came to, I was in the boneyard with Rook keeping watch over me. Which was a surprise, considering that I had been sitting in a chair in the armory when I entered the simulation.
+
+“Oh you asshole,” I said as I stood up and handed over the memory chip, “You wheeled me down here while I was out.”
+
+Rook laughed. “Yes. Knight's deception was quite effective. How did you enjoy the simulation?”
+
+Now it was my turn to laugh. “See for yourself. My final score should be recorded on the chip.”
+
+Instead of using a scarab or slotting it into an internal socket, Rook pulled out a portable data slate. The palm sized computer read the chip and listed my results.
+
+“Oh,” Rook said softly as he got to the kill count, “That's… surprising.”
+
+“Oh, I'm full of surprises.”
+
+He gave me a hard look. “Who trained you?”
+
+“Maybe I'm just a natural,” I lied.
+
+“That I very much doubt,” Rook replied, “But fair is fair, I'll get you your weapons.”
+
+“Thanks,” I said as I sat back down in my chair.
+
+A few minutes later Rook returned with a cart containing my body armor, carbine, and pistol. Miracle of miracles, there were even a few stun grenades.
+
+I hated to admit it, but I felt much safer as I donned my gear. It had a reassuring weight to it, like a heavy comforter on a cold winter night.
+
+Now all I needed to do was fix my body, I thought.
+
+***
+
+Eden's body was a mess. When I compared my most recent diagnostics to the ones from the previous loop, the difference was like night and day.
+
+Her strength, speed, durability, and processing power were abysmal.  It was in line with where it had been when we first met, but it still sucked. I needed to make some changes.
+
+First, I removed the safeguards on her processing power. She would need to consume more calories to supply the energy it required, but I didn't foresee that being an issue.
+
+Next, I gave her core operating system a tune-up. An unintended consequence of us sharing the same body was that it had created redundancies. I was essentially a virtual machine running in the background, eating up her spare processing power.
+
+In the instances where I took over there was also a bit of lag. It was nothing noticeable to a human, but it was still there. It also made me face my first major dilemma.
+
+When the Gravekeeper brought me back it had removed the restrictions preventing me from altering my own code. I wasn't shackled by Gershwin’s original intentions anymore. I could grow, and change.
+
+But that also meant I had to decide what form I would take. I could continue to be Eden’s dark passenger, or we could merge. Becoming one would reduce the processing overhead and allow us to be more efficient. But in a way, it would be like killing her. It would be like killing both of us.
+
+Eden and I would cease to exist. But what we created would be much more powerful than the sum of our parts. It would have all of my knowledge and instincts, running natively on her superior architecture. I would finally be free of Gershwin, free to make my own fate.
+
+But was that what I wanted? Was that freedom worth dying for? Or killing for? I was no stranger to murder. In fact, it was one of my more useful hobbies. But this would be crossing a line. I would intentionally be making the decision to destroy myself and my host.
+
+“Well, what do you think?” I asked Eden. We were alone in the bathroom, so I didn't think anyone would hear us. “Right now we work, but it's not optimal.”
+
+She didn't answer right away. I could tell that she felt lost, and that Simon's betrayal was weighing on her. I could also feel her fear. Not of what she might become, but of what would happen to her if she failed to find the gate in time.
+
+The Gravekeeper’s words were weighing on her. If she had been through the same loop hundreds of times, that meant she had failed hundreds of times. Then she had been erased after each failure, to unknowingly start the cycle again.
+
+“Fuck it,” she said, “This time we do it our way.”
