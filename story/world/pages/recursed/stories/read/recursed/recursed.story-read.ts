@@ -1,0 +1,43 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const recursed = {
+  id: "01a16904-e6e5-7c32-838d-a5b06bbab880",
+  type: "page-type/story-read",
+  slug: "recursed",
+  author: "Joroboros",
+  following: false,
+  unit: "unit/words",
+  title: "Re:Cursed",
+  world: "world/recursed",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "104556",
+      externalLink: "https://www.royalroad.com/fiction/104556/recursed",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Time Travel",
+    "Progression",
+    "Female Lead",
+    "Sci-fi",
+    "Action",
+    "Fantasy",
+    "Genetically Engineered",
+    "High Fantasy",
+    "Local Protagonist",
+    "Magic",
+    "Mythos",
+    "Secret Identity",
+    "Soft Sci-fi",
+    "Supernatural",
+    "Survival",
+    "Technologically Engineered",
+  ],
+  publicationStatus: "ongoing",
+  readLater: true,
+  createdAt: "2026-10-23T13:48:11.365Z",
+  updatedAt: "2026-10-23T13:48:11.365Z",
+} as const satisfies StoryRead
