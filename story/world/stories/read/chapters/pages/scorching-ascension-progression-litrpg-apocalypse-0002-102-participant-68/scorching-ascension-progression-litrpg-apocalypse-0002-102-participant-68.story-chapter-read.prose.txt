@@ -1,0 +1,317 @@
+The feeling of being yanked by the guts through a dark, disorienting empty tunnel lasted for close to five seconds. When it was over, Ethan’s lunch hit the ground at the same time as his knees.
+
+Panting, he looked around, bleary eyed, and a literal wall of text popped up in front of him but thankfully, he was able to push it aside for now. He had to figure out where he was first, before he started reading.
+
+Taking in his surroundings, Ethan quickly realized he was in an empty stone room. The sort he’d expect to see in a castle. The floor was bare, with large, uneven and cracked gray flagstones. Moss grew through the cracks, and light streamed in from the corner, where the wall and a good portion of the roof were just… gone.
+
+Alright. I’m not dying. And nothing’s coming for me just yet.
+
+With his immediate safety secured, Ethan pulled the text back into view. It ought to give him some much needed context.
+
+Welcome to the integration tutorial, participant #68.
+
+Congratulations, due to you being part of the first 100 participants in group #12, you’re hereby granted 1 tier-1 spell token.
+
+It is recommended that you look through your status page and through your interfaces as soon as possible. The goal of this tutorial is to familiarize you with the new tools at your disposal in a realistic setting. Considering that your world had not been exposed to mana and that the local population is not aware of its effects, foregoing the tutorial would be a death sentence at this junction of the integration process. While mistakes could and will still be fatal in the tutorial, it is expected that the survival rate would be much higher than if you were to go without.
+
+The quest system will be used to guide your progress.
+
+Good luck.
+
+Main Quest: Gain access to the tutorial’s exit within 6 days, 23 hours, and 59 minutes.
+
+Reward: 1 tier-0 lesser Arcanum.
+
+Ethan’s throat felt dry as the words sunk through. His heart was beating fast, and while the words seemed ominous, he couldn’t deny some part of him was excited.
+
+Which was why the next emotion that surfaced through was a respectable dollop of guilt.
+
+If this is as serious as it sounds… a lot of people are going to die.
+
+That thought put a damper on everything. But he couldn’t let it distract him for long. After all, he was in this tutorial as well, and while he liked challenges and was looking forward to see what would come out of all of this, he had no intentions of being a victim.
+
+Ethan wiped his mouth and took another look at his surroundings as he thought things through.
+
+Okay, first things first. Let’s do what the system recommends. I have a spellcasting thingy, right? Not sure why the reward is just another one of the same, but alright? Now, how do I see the one I already have? Interface… where is–ah, there we go.
+
+Ethan expected needing some password or keyword to view the details, if that was even a thing, but he was glad to find out that he just needed to think about it to bring it up.
+
+He quickly scanned through the items listed and hummed. “This is… interesting,” he mumbled.
+
+Name: Ethan Voss
+
+Level 1
+
+Might: 1
+
+Toughness: 1
+
+Spirit: 1
+
+Mana: 1
+
+Tokens: 1 Tier-1 spell
+
+The first part seemed straightforward, though still bewildering. Levels and stats were a strange thing to look at, but he didn’t dwell on it. His eyes landed on the last one, the free spell he was owed and Ethan considered cashing it right away, but held off at least until he finished checking everything else and with that in mind, he moved on to the next section.
+
+Prime Arcanum - Unavailable
+
+Traits: None
+
+Ethan raised a brow at that. The section was a bit odd, but he figured it explained why the Arcanum he was given was called “lesser”. Now, how was he supposed to unlock this one? And what about these traits?
+
+Once more, he didn’t let it bog him down and moved on to the next section, which might be the largest of the bunch. The Arcanum page.
+
+Lesser Arcanum
+
+Spells: None
+
+Spellforms: [Claws]
+
+Tier: 0
+
+Spell Capacity: 0/3
+
+Spellform Capacity (I): 1/1
+
+Form Bonus [10%]: [Claws: +10% to Might]
+
+Fragments: 0
+
+Ethan took a deep breath. Then got started.
+
+Okay. We go spells, spellforms, which are the claws. We got some items we’re tracking, like the tier, capacity, and how many spellforms I can have, which seems to have a number next to it… But aside from that, it all makes sense. For the stat bonus, I’m guessing the baseline is 10%, and I’m getting the 10% to Might because of the [Claws] spellform. As for the amount itself, well, mine is still pretty low. But I’m sure 10% would add up, especially if every spellform comes with a bonus. As for the percentage itself, the next section is talking about upgrades. Maybe it can be boosted.
+
+Lastly, there was the fragment section, which also happened to be the currency for the upgrades. As for how he was supposed to get his hands on these fragments, he had no clue just yet. Still, he took a look a the only available upgrade he had at his disposal.
+
+Lesser Arcanum - Tier upgrade (Tier-0 → Tier-1)
+
+Increase the Arcanum’s tier, empowering its capabilities and unlocking more upgrades - 25 fragments
+
+Ethan paced as he thought things through, then took a moment to enjoy the breeze coming through the missing corner of the room. So, if he was getting things right, once he bought that upgrade he’d be seeing more options available. He assumed that would be how he could increase the Form Bonus as well as everything else.
+
+Okay. We’ll start with that, then.
+
+Then it all began sinking in, and Ethan took a deep breath as his gaze wandered over the many sections, and the words rang in his ears. “This is crazy.”
+
+Quests? Levels? Traits?
+
+Every small part of the screen was vying for his attention, but when he tried to focus on a few elements, hoping for a tool-tip or an explanation, he got nothing. Still, he kept trying, and in any case, that didn’t put a damper on his mood at all. Ethan was electrified. Worried. Excited. This all smelled like a challenge, and he was all for it, and after a few more tries, he ended up finding something.
+
+Two elements reacted to his questioning attention. The first was the spell he had in his possession. When he focused on it, the definition showed back up, which wasn’t much. It was the same description he had read moments ago when he had made the selection.
+
+The second exception was the Arcanum itself. After all, he wanted to see these claws and get used to them, and as he mentally tapped the Arcanum’s section, a prompt showed up.
+
+Do you wish to see a quick introductory guide about your Lesser Arcanum?
+
+Ethan blinked. Then confirmed. “Yes, please.”
+
+An Arcanum is a spellcasting tool grafted onto your soul. Its strength is yours, and its abilities can be upgraded through the collection of fragments, which are the remains of the Arcanums of deceased casters.
+
+Then the guide went on to explain how to view and modify the spells in his interface, then how to summon it which was pretty simple. He just had to basically flip a switch.
+
+Following what the guide had said, Ethan felt around in his mind for the trigger and quickly found it. It was like a new mental muscle he instinctively knew was connected to his hands. So he flexed it.
+
+Something both cold and warm rushed out of his stomach, toward his shoulders, then down his arms. As it reached his hands, he watched, mouth agape, as his hands morphed. His skin toughened. His joints and fingers swelled, growing taut, and finally, black claws erupted out of his fingertips. They were thick, two-inch-long and slightly curved to a narrow sharp edge.
+
+Ethan raised both hands and examined them, curling his fingers and watching the sharp black claws move, reflecting the light coming through the destroyed wall. He tightened his hands into fists, feeling the claws gently dig into his palms, but it didn’t break skin and after a couple more seconds. Concentrating, he tried to make them longer, but the spell didn’t respond to his will. He could make them shorter, though, so he could still punch things.
+
+Even though his cheeks were sore from smiling this wide, Ethan laughed.
+
+“This is fucking sick!”
+
+Throwing a couple of jabs, he grinned as they whistled forward. They felt powerful and while it was mild, he was pretty sure his hand were moving faster. More explosively.
+
+Could be the Might boost.
+
+Deactivating [Claws], he tried punching the air again and confirmed that his movement felt just as powerful as they had been a moment ago, which meant the Form Bonus to his stats applied as long as the spellform was slotted in his Arcanum. It didn’t need to be summoned.
+
+Ethan nodded to himself. It was good to know.
+
+Re-summoning the claws, he studied the sharp talons for a second before he looked at the stone wall next to him. Setting his new fingertips against the wall, he scraped down, at first gently, then with more strength, and watched as a decently deep grove was carved into the rock.
+
+Ethan whistled. Whatever the magic did to his hands and joints, it made it so Ethan could claw at the wall with most of his strength without much pain. “Damn,” he mumbled as he looked at the dust flaking off the sharp talons. He could definitely get used to the claws.
+
+Turning his attention back to his interface, he pulled up his reward. “Now what’s this about tokens… It should give me a new spell, right?”
+
+Looking at the option he’d seen on his profile, he clicked it. A new prompt appeared.
+
+Do you wish to exchange your token for a tier-1 spell?
+
+Ethan confirmed, then another menu appeared, and when he hovered over the options, he got an explanation. A sigh of relief escaped his throat. He could understand if the tutorial needed him to work for his answers, but guessing could only take him so far. Thankfully, the system was willing to step in and clarify some things on occasion.
+
+General-class spells: The largest class of spells. All sorts of spells can be categorized as general. They can be offensive, defensive, supportive, utility, or any mix of all four.
+
+Modifier-class spells: Spells which combine with others to empower, improve, and modify. Modifier spells often cannot be cast on their own.
+
+Armament-class spells: Armament spellforms, transforming the Arcanum into an armament to be used by the user. The spell empowers the user by boosting their stats. The stat boost depends on the nature of the spell.
+
+Enhancement-class spells: Enhancement spellforms, transforming the Arcanum into a temporary body modification applied to the user. The spell empowers the user by boosting their stats. The stat boost depends on the nature of the spell.
+
+Ethan examined the definitions. General spells seemed vague. Most certainly useful, and potentially a good choice. Armament spells were…dicey. Both armament spells and enhancement spells changed the Arcanum to a form, but his Arcanum was already taking the form of [Claws] and from what he could tell, he was already maxed with one spellform so right now, getting another spellform from the token would waste it, as he wouldn’t be able to use both at once.
+
+Not yet, in any case.
+
+Which left him with a general spell, or a modifier. Considering the description, he leaned toward the latter. Modifiers seemed like literal power multipliers.
+
+After a moment of consideration, he went with a modifier. A general spell could be great, but he wasn’t sure if he’d get a good option. On the other hand, boosting the spell he already had was a guaranteed increase in power.
+
+Select a Modifier-class tier-1 spell from the list below:
+
+Toxic enhancement: Coat your enhancement in a toxic substance
+
+Fast projectile: Your wand projectiles are faster
+
+Impactful enhancement: Impacts from your enhancement are empowered
+
+Flaming enhancement: Ignite your enhancement with burning flames
+
+Freezing armament: Coat your armament with freezing ice
+
+Ethan decided to sit back down for this one. He tried to not focus too much on where he was and what  was happening to the world and instead, he narrowed his sights on his current task.
+
+The latter was a lot easier to process.
+
+He had five options, but not all were good for his spellform. Clearly, only those meant for enhancement were useful for him at this point, so he eyed them carefully.
+
+Impactful, flaming, or toxic.
+
+The latter, while potentially powerful, was quickly skipped. Imagining his hands covered in poison or toxic slime repulsed him. He assumed he’d be immune to it, but the image of his clawed hands dripping a toxic substance wasn’t super attractive to him.
+
+Impactful seemed decent. Ethan assumed that meant the claws would have more weight behind them.
+
+Finally, he gazed at the option he’d left for last. The one that had already tickled his interest. Again, he was assuming he’d be immune to his own magic so in that sense, both Toxic and Flaming were the same. Where this one gained ground though was how versatile fire could be. For camping, for fights, for burning away potential obstacles.
+
+And, well, it was pretty damn cool as well.
+
+Ethan’s mental finger was figuratively already on the confirm button, and when a cool breeze ruffled his t-shirt and made him shudder, he confirmed his choice.
+
+You can’t go wrong with fire.
+
+Ethan exhaled as he selected his option. Light collected in front of him for a second and then sunk into his chest. A moment later, the new modifier showed upon his spell list.
+
+Available spells:
+
+General: None
+
+Modifiers:
+
+Tier-1: Flaming Enhancement
+
+Armament: None
+
+Enhancer:
+
+Tier-0: Claws
+
+Next, he loaded his Arcanum’s menu and moved the new modifier into one of the free slots but before he could finish the action, a prompt showed up.
+
+Warning: Using a spell of a higher tier than the Arcanum will result in severe discomfort at best, and soul damage at worst if the discrepancy is wide enough.
+
+Ethan raised an eyebrow. That was good to know. But how bad could it be?
+
+The difference is small enough that it shouldn’t cause damage, right?
+
+He was tempted to try it out. It sounded like a fun challenge, and maybe even a new kind of training. After all, even stretching muscles could be painful at first, and could lead to damage when done in excess. Maybe this would be a kind of soul stretching?
+
+But in case it’s bad, I’d better not debilitate myself in the first five minutes.
+
+Which meant upgrading the Arcanum to tier-1 before he could use his new spell. Which he needed to get from… dead Arcanum-users.
+
+Ethan grimaced at the thought. It was a bit grim, but he quickly reminded himself that he’d seen the word “monsters” be floated around in the system’s messages, so those would hopefully be his only targets.
+
+Yes. Monsters, he told himself, not really believing it.
+
+Ethan stood back up, a concerned frown on his brows as he thought things through. This was a tutorial, and he had been dropped in a dilapidated castle. There were at least a hundred other participants in this group, and there might be more dangerous things around.
+
+Ethan looked around him and felt a cold pit slowly sink in his stomach as his suspicion turned to certainty. He did not have a lot of faith in people, and he often tried to be understanding, but he knew that some would be using this chaos to set themselves above others. To abuse and take control. Especially if these new spells and wands gave the power to do so.
+
+That already happened without magic being around to empower the abusers.
+
+A few memories tried to surfaces once more. A pair of cold blue eyes. A door. The sensation of warm blood seeping down his shirt, making the cloth stick to his skin.
+
+Ethan shook his head and took a deep, forceful breath.
+
+Keep a lid on it. Focus.
+
+While a few would abuse, some would rise to the occasion. He knew that as well so for now, he needed to do his best to survive and look for Luther.
+
+Before his thoughts could get any further, screechy voices began sounding down the corridor, beyond the room’s exit.
+
+Ethan froze up. Whatever was making them, they were getting louder.
+
+Whirling behind him, his eyes landed on the torn wall. He hurried toward it only to discover a sheer drop, of hundreds of feet down, leading straight into tumultuous waves.
+
+Oh boy, he thought, taking a few safe steps away from the certain death below him. Looking back toward the exit, Ethan approached the wall and pressed himself against it, then summoning his claws once more.
+
+More mana–he guessed–rushed out of his chest and down to his arm, and Ethan felt dizzy for a second. He cursed himself for wasting the resource as he waited with bated breath for whatever was making the ruckus, and he took note to both increase his Mana stat soon, and to refrain from turning [Claws] on and off again unless he had to.
+
+At least once they’re up, they don’t cost anything to keep on, he thought, then blinked. He wondered if he could make just one hand change. Or his feet?
+
+Thoughts for alter. For now, he focused on the approaching noise, and a couple of seconds later, two bipedal, lizard-looking things came sniffing around, looking here and there while warbling at each other in their odd tongue. They were approximately four feet high. Pretty thin, with muted brown scales. At some point, one of them backhanded the other and above each of them, a line of text popped up in Ethan’s vision.
+
+[Lizardling - Level 2]
+
+[Lizardling - Level 3]
+
+What the fuck are those, he mouthed, but no sound escaped his lips as he stared at the odd beings coming toward him. One of them was carrying a stone dagger in its hand as it narrowed its reptilian eyes at its surroundings, while the second had a short, rudimentary spear. They sniffed closer and closer, and Ethan was forced to take a step backward.
+
+Ethan exhaled and rolled his shoulders as he crept away from the entrance. He’d try to talk it out, if  possible, but if these things turned out to be violent, he had to be ready. And he had to keep some distance from the spear.
+
+That one goes down first. If it comes to blows.
+
+The two lizardlings stepped into the room, and their slitted yellow eyes landed on him. They hissed and raised their weapons, then slowly began approaching him. A drip of saliva escaped from the toothy maw of the dagger-holding lizardling.
+
+Well. That doesn’t bode well.
+
+“I don’t mean you any harm,” said Ethan as he stepped back and raised both clawed hands up, but seemingly, that hadn’t been enough as barely a second later, one barked out a warbly laugh while the second, the spear wielder, showed him a mouth full of sharp, yellow teeth as it leered maliciously at him.
+
+Then it lunged, quickly followed by the second as the pair tried to rush him. But Ethan was prepared. The spear stabbed forward, aimed at his heart in an obviously telegraphed move, so Ethan dashed to the side, comfortably dodging the clumsy spear thrust, and swiped his claws down, hoping to knock the spear out of the creature’s hands.
+
+Instead, his claws cut through the wood as if it were a mere twig.
+
+The lizardling was taken aback, and so was Ethan, but he didn’t let that distract him. Keeping the now disarmed creature between him and the dagger-wielder, Ethan manoevered around, dodging, only for a glint of metal to catch his eyes half a second later, and he jumped away just in time to escape a spear stab toward his legs.
+
+His eyes were wide, and he quickly realized what had happened. The broken spear was gone, and the spear wielder had an identical, pristine–though still primitive-looking–spear in hand.
+
+Oh. Armament spellform. Right.
+
+He was going to have to keep that in mind, from now on. And considering how intent these two things were on killing him, he should stop holding back.
+
+After all, I need fragments for my upgrades.
+
+He watched as the two began circling him, their movement a bit more weary and at some point, Ethan realized he was smiling. Showing his teeth, just like them.
+
+That seemed to bother them.
+
+The duo rushed forward again. Ethan dodged another spear thrust, stepped in, and drove his clawed hand into the spear-wielder’s guts. The claws punched through effortlessly, and warmth spilled onto his palm as the lizardling doubled over with a soft hiss.
+
+The dying lizardling looked up with wide-eyes, then its features twisted in a hateful sneer. Its two clawed hands gripped his arm and garbled something to its companion.
+
+Shit.
+
+Ethan tried to shift away, but the dying lizardling’s tail had wrapped around his leg and from his right, the dagger-wielder stepped in and stabbed. Ethan angled away from the oncoming blade, but it was a lot faster than he expected. With the half-second it took him to shove himself away from the dying one’s grapple, the cold metal kissed his skin.
+
+The dagger sunk into his arm, right above his elbow. The lizardling had aimed for his side, but Ethan managed to wrench his arm in time to cover his flank. He groaned with pain and with his left hand, he swiped at the lizardling's neck with a roar. The talon tore through the brown scales with a spray of blood, and the creature stumbled backward. It stared at him for a second, blood flowing from its neck, then fell on its side.
+
+You have defeated [Lizardling - Level 2]
+
+You have defeated [Lizardling - Level 3]
+
+You have reached Level 2. 1 stat point awarded.
+
+Side quest unlocked.
+
+Ethan panted as he looked down at his bleeding arm. The dagger was still in it. He knew he shouldn’t be messing with it, but he couldn’t walk with it like this, either. Thankfully, it didn’t seem like it had sunk in too deep.
+
+Wait…
+
+It wasn’t easy to see from this angle, but it looked like there was a haze of gold floating around the weapon. Gingerly, he reached over to take it out and as his clawed hand touched the dagger, the whole weapon turned to golden smoke and sunk into his outstretched hand. Then a new notification popped up.
+
+Lesser Arcanum: 1 fragment collected.
+
+The surprises just kept on coming. Ethan chuckled, then groaned from the pain shooting up his right arm. He looked down at it, turning his hand gently to assess the damage. It wasn’t too bad, but it was most certainly painful. Thankfully, it wasn’t bleeding much, so no artery got nicked.
+
+Now, what should he do about it? Wrapping it with something would be great, but he didn’t have much aside from the clothes on his back and he really didn’t want to start tearing his clothes this early. Recalling what he’d done before he stepped into the portal, Ethan clicked his tongue.
+
+He should have kept that store vest instead of throwing it away.
