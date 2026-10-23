@@ -20,5 +20,7 @@ export const uniqueSkillTrashSkillBasedProgressionStory0101Chapter91BurstingWith
     },
   ],
   createdAt: "2026-10-22T16:49:26.206Z",
-  updatedAt: "2026-10-22T16:49:26.206Z",
+  updatedAt: "2026-10-23T14:45:42.557Z",
+  ownProgress: 1906,
+  progressedAt: "2026-10-23T14:45:42.557Z",
 } as const satisfies StoryChapterRead
