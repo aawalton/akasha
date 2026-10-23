@@ -1,0 +1,259 @@
+[07:06:24:51]
+
+...
+
+BOOM!
+
+A claw punched through the metal, talons screeching as they curled inward. The door buckled inward, leaving a narrow gap through which the creature’s charred face peered. Frozen, Cassian tensed every muscle and barely dared to breathe. For a long, agonizing moment, the behemoth’s unblinking milky gaze and countless teeth grinding bore into him.
+
+It sniffed. Loud. Wet. Cassian’s sweat dripped onto the floor.
+
+Don’t move. Don’t fucking move.
+
+Then, with a guttural growl, the beast yanked its claw free. Footsteps thudded away, shaking dust from the ceiling. Cassian waited. One minute. Two. Five. Only then did he exhale, slumping against the wall. His eyelids sagged. Just a minute. Just…
+
+“Maybe a little nap won’t hurt… right?” he murmured, his voice barely audible as exhaustion tugged at his consciousness.
+
+Sleep, however, was fleeting.
+
+…
+
+Skreeee!
+
+Faint, distant screeches stirred him awake. He checked his watch—11:45 pm and the countdown on his left arm flickered: [07:05:42:51].
+
+The pain had dulled to a numb ache. His debuffs ticked down:
+
+[DING! ESSENCE DEPRIVATION ~ 0 hours: 03 minutes: 23 seconds]
+
+[DING! ESSENCE POISONING ~ 0 hours: 03 minutes: 23 seconds]
+
+Whoa! I was worried for nothing… a good thing a quick nap helped.
+
+Cassian scrolled through his notifications; he was sure there were a lot of notifications he missed during the chaos earlier.
+
+Better check them now… I have 3 minutes to kill anyway.
+
+Scrolling through multiple records of Kalrach's kills when he saw something different, “That’s new... what's this”
+
+[DING! YOU'VE PULLED OFF AN INCREDIBLE STEALTH MANEUVER—SNEAKING AND HIDING IN DIRE SITUATIONS AGAINST ENEMIES FAR ABOVE YOUR LEVEL—AND HAVE GAINED <SKILL: STEALTH>]
+
+Cassian blinked. “The hell…? A skill? I thought only cards were a way to gain abilities."
+
+He willed the details open.
+
+SKILL: STEALTH
+
+[STARS] : 0th Star
+
+[RELATED ATTRIBUTES] : Body, Perception
+
+[SKILL TYPE] : Ancillary
+
+[EFFECT ] : Makes use of shadows and darkness as your ally to conceal user from other’s sight, lowers perception and increases stealth by 10%
+
+[BONUS] : 0th Stars → +5 points to Body, +5 points to Perception
+
+[Remarks] You can hide but are still far from being a pro.
+
+PS: You do not turn invisible!
+
+“Damn! That’s nice—I got +5 to Body and Perception,” Cassian muttered, finding out more about the system and its mechanics excited Cassian.
+
+Two new stats… Body and Perception and straight +5 to them too, Hmm assuming body strengthens my body? Or is it a constitution-type thing? Perception is self-explanatory.
+
+Curious, he addressed the system, “System, how did I get this skill? Can you give me more details?”
+
+[DING! WOULD YOU LIKE TO ACCESS LOGS]
+
+“There is a log for all this? Sure I would see them not like I have anything to do. Also, is there a log for combat like how much damage I’m dealing and receiving?"
+
+[DING! AFFIRMATIVE]
+
+“I’m guessing more features will reveal themselves if I ask,” he mused.
+
+[DING! AFFIRMATIVE]
+
+“Damn… well, show me the logs then."
+
+The display scrolled and surprisingly these text were very small and not displayed in capital letters, Cassian wondered is it done to differentiate between system text and logs? Shaking his head he focused on the logs revealing concise entries—health stats, damage numbers, and records of successful stealth actions. The first logs he focused on were about his lightning bolt.
+
+[DING! You have cast Sorcery [Lightning Bolt]; 1 point of Essence consumed from your Well.]
+
+[DING! Destruction Sorcery [Lightning Bolt] hit a kalrach (drone), dealing [5] points of damage. Lightning Bolt inflicts [Minor Stun] and [Burning] status effects dealing 1 point of damage every second for the next 5 secs.]
+
+[DING! YOU HAVE KILLED A KALRACH (DRONE)]
+
+The second log he saw as he scrolled through was about the Expedite.
+
+[DING! You have cast Sorcery [Expedite] on yourself, gaining +5 strength, +5 perception, and a 40% increase in movement and reflexes; the buff lasts for 120 seconds.]
+
+Huh… No wonder Expedite effects were so pronounced… I was getting literally 10 additional stats and a % increase… okay what else… yeah this.
+
+[DING! You have been hit, CRITICAL DAMAGE [5] piercing damage from the kalrach claws, STOMACH PUNCTURED]
+
+[DING! You have been hit, [2] blunt damage from the kalrach]
+
+[DING! You have been hit, CRITICAL DAMAGE [8] Blunt damage from the Kalrach (behemoth variant)]
+
+.
+
+.
+
+.
+
+There were so many similar repeated similar logs, but without timestamps, it was hard to track who caused what. After reviewing dozens of logs, he was confident that the kalrach (drones) dealt about [3] average damage and [5] with critical hits. In comparison, a casual swing from the behemoth did [8] damage.
+
+Holy, I’m glad my health is decently high, or else…
+
+So theoretically I should have around [25] HP, and there must be a slow natural regen mechanic due to my stats… unfortunately, there are no logs for natural recovery… I wonder if I would have to find out about them once through a card or skill for them to be reflected in the logs?…
+
+“System, when you display kill notifications, can you also show me the combat logs—damage dealt and received? Just a subtle mental ping, nothing cluttering my vision,” he added.
+
+[DING! AFFIRMATIVE, SETTINGS UPDATED]
+
+“Nice… Oh, and status."
+
+WELCOME TIMEBOUND, CASSIAN CAINE
+
+A Story Nearing Its End: [07: 05: 40: 51]
+
+Age: 17 years
+
+Ascension: 0th
+
+Origin Card: LOCKED
+
+Current Level: Trial of Worth
+
+Life Crystal State: LOCKED
+
+[STATS]
+
+❂ Creation: 0th Star [0/10]
+
+Substats:
+
+Body → 13 (3 + 5 + 5)
+
+Constitution → 14 ( 4 + 5 + 5)
+
+❂ Destruction: 0th Star [2/10]
+
+Substats:
+
+Strength → 5
+
+Modifiers:
+
+Power → 2% increase
+
+❂ Knowledge: 0th Star [0/10]
+
+Substats:
+
+Essence Source → 12 (7 + 5)
+
+Perception → 7 (2 + 5)
+
+Essence Conversion rate → 1x Destruction (1:1)
+
+Effective Essence Well → 0/12 [Destruction]
+
+❂ Sacrifice: 0th Star [0/10]
+
+❂ Void: 0th Star [0/10]
+
+SKILLS ATTAINED: 3
+
+Status Effects: «NONE»
+
+Remark: A stupid hooman, slowly learning about his new reality.
+
+Phew~ the debuffs are finally cleared… but I still gotta wait for 5-10 minutes to have a few points of the essence and then I can cast heal.
+
+He frowned as he glanced at the system notification.
+
+Wait, why are some of my stats so much higher than last time? I did get +5 to body and perception by my skill, but the others? Wait, wait, 3 skills attained?
+
+"Wow, I already gained 3 skills; when did that happen… not that I’m complaining," Cassian grinned as he brought up the skills tab.
+
+<SKILLS ATTAINED: STEALTH, PAIN TOLERANCE, STURDY ESSENCE WELL>
+
+“I see… so repeated desperate actions increase your odds of gaining new skills."
+
+“Wow, Skill are good, all the skills that I have gained feels on the passive side... I wonder if there are active skills" Cassian murmured, a grin tugging at his lips as he scrolled through the detailed descriptions.
+
+[DING! YOU'VE DEMONSTRATED INCREDIBLE ENDURANCE—WITHSTANDING PUNISHING INJURIES AND RELENTLESS PAIN IN DIRE COMBAT SITUATIONS AGAINST FOES FAR ABOVE YOUR LEVEL AND HAVE GAINED <SKILL: PAIN TOLERANCE>]
+
+SKILL: PAIN TOLERANCE
+
+[STARS] : 0th Star
+
+[RELATED ATTRIBUTES] : Body, Constitution
+
+[SKILL TYPE] : Resistances
+
+[EFFECT ] : You have grown used to pain, this skill helps in increasing you pain tolerance levels and retaining a calm and rational mind during intense situations. Increases Natural pain tolerance of your body by 10%
+
+[BONUS] : 0th Stars → +5 points to Body, +5 points to Constitution
+
+[Remarks] You can take a beating now, but you're still far from being indestructible.PS: Enduring pain doesn't make you invulnerable, it makes you a macho man.
+
+I guess that’s why the pain felt more bearable—I mean, ignoring the claws tearing through my back and those bone-deep gashes on my left hand wouldn’t have been possible otherwise. Does this skill also dull my revulsion to seeing my blood and open wounds?
+
+And probably, ‘retaining a calm and a rational mind during intense situations’ covers that… hmm that’s damn nice but is this skill gonna make me cold towards such injuries, I mean like would my thinking and personality change?… would I ignore wounds and be insensitive towards others as well? that would be an issue… haaa I guess time would tell.
+
+Onto the next skill,
+
+SKILL: STURDY ESSENCE WELL
+
+[STARS] : 0th Star
+
+[RELATED ATTRIBUTES] : Essence, Constitution
+
+[SKILL TYPE] : Ancillary
+
+[EFFECT ] : You have depleted your Essence well too many times and instead of succumbing to pain and consequences you persisted. Increases the Essence handling by 10%, also increases the Well resistance to Essence source poisoning by 10%.
+
+[BONUS] : 0th Stars → +5 points to Essence, +5 points to Constitution
+
+[Remarks] Your essence well's tougher now, but don’t expect it to be a bottomless pit.
+
+Holy! 5 points essence is damn amazing and now I’m at 12 total essences! Yay! That's a big win; now I can use more cards with a lot of freedom and would not have to worry about essence deprivation every time I enter a fight.
+
+Now if I just figure out what this ratio thing is, I’m sure this is a multiplier of sorts on essence stat…
+
+Reading the detailed stats, a rush of joy and elation flooded him.
+
+These skills… are awesome even if the effects provided are not that big, but the raw stats upgrade I’m getting from them is stupid good; that’s worth so much Attunement Card absorption. I wonder what other skills I can gain?… Getting combat techniques or healing-related skills would be solid. With all the times I am getting forced into close combat, maybe I’ll get some hand-to-hand combat mastery or a weapon handling skill?
+
+I got new substats unlocked with these skills, but I have yet to get any substats from Sacrifice and Void… I wonder what they will hold.
+
+Lost in thought, Cassian’s focus shifted as he began to feel something new—a subtle, unmistakable presence of essence energy flowing through him. With every beat of his heart, the energy gathered and assimilated within him. He closed his eyes, letting the sensation wash over him—the world slowed, and for a moment, he marveled at how the essence flowed like liquid light.
+
+Damn, that was a wonderful sensation… I felt that the flow of essence getting assimilated manually increased the efficiency. Not to mention it was comfortable.
+
+When he finally opened his eyes, the system display confirmed his progress: his essence well had recovered 3 points and only 8 minutes had passed; usually, his recovery rates were 6-10 minutes for a single point.
+
+I feel like a cultivator… Yup, gonna practice more on this until it forms into a skill.
+
+Cassian’s fingers traced the infinite symbol and summoned his soulkeep. The grimoire glowed with a red fire. Cassian quickly opened the attunement tab. He unequipped the Destruction Attunement card as the slot turned grey, and it would take at least 5 minutes before any other attunement card could be equipped again. Closing his eyes and settling into a comfortable sensation as Cassian once again reached into himself and felt the flow of energy, focusing on his heartbeats as he felt all other sounds mute. Only the beats of his heart sounded as he entered a natural rhythm.
+
+Time passed, and soon his concentration broke as he regained his full senses, looking at the time: 20 minutes had passed.
+
+Fuuu~ It's addicting but I gotta be careful with the time passing when doing this.
+
+Taking a deep breath and equipping the creation attunement card as he chanted the incantation for heal.
+
+“[HEAL]”
+
+A surge of warmth spread through his body, radiating from the heart as his wounds began to mend. One incantation, then another, and soon after a total of two more incants, he was fully recovered.
+
+Refreshed, Cassian slowly rose to his feet and stretched, feeling the restored strength in his limbs, and for the first time he took in the room he was in; it was fairly empty, but at the far end, a small cabin-like area was made with steel walls. He walked toward it; Cassian saw multiple computer screens mounted on the wall. A long desk cluttered with control panels and scattered papers dominated one side—a classic CCTV viewing room setup.
+
+“Wow, do they work?” Cassian stepped closer and pressed a key on the keyboard. One by one, the monitors flickered and then glowed steadily. They displayed live feeds from different locations in B1.
+
+The images were chaotic—but they showed all the areas on B1, and Cassian's gaze narrowed as he spotted the behemoth lurking around in one of the cams.
+
+...

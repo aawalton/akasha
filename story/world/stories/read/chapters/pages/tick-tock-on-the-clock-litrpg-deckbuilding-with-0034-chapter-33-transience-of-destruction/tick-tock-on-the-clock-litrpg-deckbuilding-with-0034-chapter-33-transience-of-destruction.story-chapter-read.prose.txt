@@ -1,0 +1,535 @@
+[07: 01: 07: 22]
+
+...
+
+Cassian inhaled sharply, blinking away the sting in his eyes.
+
+"Alright, that makes four types of attunement cards… wait, didn’t I also got a Sacrifice attunement card? Let me check." He exhaled slowly, regaining his composure.
+
+As he retrieved the card, his frown deepened. The illustration was unsettling—a hooded figure meticulously tracing a ritual circle with blood, and various corpses hanging in the background.
+
+***
+
+________________________________________________________________
+
+A ritual drawn in blood [ 无 ]
+
+_______________________________________________________________
+
+Attunement: Sacrifice
+
+[COMMON]
+
+_______________________________________________________________
+
+❂ The earth itself drinks deeply, whispering secrets to those who dare to listen.Each drop binds the veil between worlds,turning soil into sanctum and sacrifice into power.
+
+________________________________________________________________
+
+***
+
+“Ugh! That’s creepy as hell. This card feels more like something out of forbidden taboos and witchcraft.” Shaking his head, Cassian fell into deep thought. He had now secured cards for all five core attributes.
+
+Scratching his head, Cassian debated whether to experiment with the attunement cards first or to go through the remaining cards.
+
+Better see all the cards first; System, show me ‘Run Cards’ first, then ‘Deck Cards,' and finally ‘Instant Cards’… Oh wait, I also had an artifact drop, right? Show me that first.
+
+[DING! ARTIFACT: WHITE ROSE]
+
+[DING! ARTIFACT SLOTS UNLOCKED]
+
+***
+
+____________________________________________________
+
+WHITE ROSE [ 𓆩⟡𓆪 ]
+
+___________________________________________________
+
+✦ ✦ Artifact___________________________________________________
+
+❂ Tap the [White Rose] every [100] seconds to gain [10%] ofyour Max HP pool.
+
+❂ "Once, a single petal healed a dying knight.Now, its bloom graces only those patientenough to wait for its blessing."
+
+____________________________________________________
+
+***
+
+"Okay, an artifact? That’s new." Cassian tilted his head as he examined the card. "I wonder how it differs from regular cards…" His fingers tapped against the surface of the artifact card. "But still, recovering 10% of my max HP every 100 seconds? That’s good. Really damn good. If it can replace my heal card…" He exhaled sharply. "Man, I need something that reduces cooldowns."
+
+Shaking his head, he muttered, “Focus, Cassy. Let’s check the other cards first.”
+
+[DING! NEW RUN CARDS: [DESTRUCTION SORCERY]: FIREWAVE, [KNOWLEDGE SPELL]: GRAVITY WELL]
+
+***____________________________________________________
+
+GRAVITY WELL [ 文 ]
+
+___________________________________________________
+
+RUN CARD [KNOWLEDGE SPELL]
+
+[COMMON] [10/10]
+
+___________________________________________________
+
+❂ Generates a gravity field, pulling enemies and objectstoward a single point.Heavily affecting their movement capabilities.
+
+❂ "Even the stars bow before the silent pull of knowledge." —Elder Astronomer Kaelin
+
+____________________________________________________
+
+***____________________________________________________
+
+FIREWAVE [ 火 ] [ 火 ]
+
+___________________________________________________
+
+RUN CARD [DESTRUCTION SORCERY]
+
+[COMMON] [10/10]
+
+___________________________________________________
+
+❂ Releases a wide, rolling wave of flame,incinerating enemies and objects in a circular wave.Targets struck take [Destruction] damage andcontinue to burn for additional damage overtime.
+
+❂ "It does not think. It does not wait. It simply burns." —Pyromancer Rhaelos
+
+____________________________________________________
+
+***
+
+Cassian let out a low hum as he looked at the cards. "Gravity-type spell and Firewave… One’s a spell, the other’s a sorcery. What even determines the system’s classifications?" Shaking his head, he said, "Whatever. Both of these would help with crowd control and seeing I'm in a nest, let's hope they help in thinning the crowd."
+
+[DING! NEW DECK CARDS: [KNOWLEDGE SPELL]: MANA SHIELD, [KNOWLEDGE SPELL]: PIERCING LIGHT, [SACRIFICE RITUAL]: RITE OF BLOODSHED, [SACRIFICE SORCERY]: UNHOLY BLESSING, [SACRIFICE RITUAL]: SANGUINE BOND, [CREATION SUMMON]: LIFEWEAVE SPECTRES, [SACRIFICE SORCERY]: LIFE FOR LIFE, [CREATION INCANTATION]: SUPREME VERDICT]
+
+***______________________________________________________
+
+MANA SHIELD [ 文 ]
+
+_____________________________________________________
+
+DECK CARD [KNOWLEDGE SPELL]
+
+[UNCOMMON]
+
+_____________________________________________________
+
+❂ A shimmering barrier of Essence forms around the caster,draining continuous Essence from the user’s well forDamage absorption [200%] of HP pool.Scales with proportionately with essence supplied.❂ "A sword may cut, but a mind sees the edge before it strikes." —Archivist Rin, Keeper of Lost Tomes
+
+______________________________________________________
+
+A grin tugged at his lips. "Yes! Finally, a protection card!"
+
+Hmm, would this card restrict me in my movements? Like some sort of movement penalty… I guess I’ll see.
+
+***
+
+___________________________________________________________
+
+PIERCING LIGHT [ 文] [ 文 ]
+
+___________________________________________________________
+
+DECK CARD [KNOWLEDGE SPELL]
+
+[UNCOMMON]
+
+____________________________________________________________
+
+❂ Fires a concentrated beam of light that bypasses physical barriersand strikes [TRUE] directly at the target’s essence.
+
+❂ "Truth is a blade sharper than any sword, and far more painful." —High Seer Elira
+
+____________________________________________________________
+
+His gaze shifted to the next card, [PIERCING LIGHT]. He tapped a finger against the card thoughtfully. "So if I understand this card right, this one is basically a sniper shot," he frowned. "It says fast, but I need to check just how fast I can cast this spell and how much damage it actually does…"
+
+A sigh escaped him. "Man, these cards really don’t give enough info on that."
+
+His eyes flicked to the two knowledge symbols on the card. His brow furrowed. "Wait a second… That’s not a misprint, is it? No, for Essence costs, the system uses numbers, I think. So does this mean I need two knowledge attunement cards slotted just to use them?"
+
+shit! that would be troublesome; I don’t think I have two Knowledge Attunement cards…
+
+***
+
+________________________________________________________________________
+
+RITE OF BLOODSHED [ 无 ]
+
+_______________________________________________________________________
+
+DECK CARD [SACRIFICE RITUAL]
+
+[UNCOMMON]
+
+_______________________________________________________________________
+
+❂ Draw the ancient ritual circle and offer blood from your foes.The amount and quality of blood sacrificed determines the buffs received.
+
+❂ "The circle is but a doorway. Step through, sacrifice and Mother shall answer."
+
+—Bloodscribe Veyne
+
+________________________________________________________________________
+
+***__________________________________________________________________________
+
+SANGUINE BOND [ 无 ] [ 无 ]
+
+__________________________________________________________________________
+
+DECK CARD [SACRIFICE RITUAL]
+
+[RARE]
+
+__________________________________________________________________________
+
+❂ Sacrifice blood or any remnants from your foe (bone, hair, weapon fragment, etc.) to form a Sanguine Bond. The greater the foe’s connection to the sacrificed item, the stronger the effects.
+
+Whenever you gain or lose HP, target enemy loses that much HP.❂ "Your pain is mine. Your strength is mine. Your fate… is sealed." —Bloodbinder Kaelith
+
+__________________________________________________________________________
+
+***____________________________________________________
+
+UNHOLY BLESSING [ 无 ] [ 无 ]
+
+___________________________________________________
+
+DECK CARD [SACRIFICE RITUAL]
+
+[UNCOMMON]
+
+___________________________________________________
+
+❂ Sacrifice HP to gain powerful temporary buffs.The more HP offered, the stronger the effects.
+
+❂ "The gods do not answer my prayers. So I make my own miracles."—Veyla, the Bloodmarked
+
+____________________________________________________
+
+***____________________________________________________
+
+LIFE FOR LIFE [ 无 ]
+
+___________________________________________________
+
+DECK CARD [SACRIFICE SORCERY]
+
+[UNCOMMON]
+
+___________________________________________________
+
+❂ Sacrifice your summoned creature and you gain HP equalto your summons counters.
+
+❂ "You served well. Now serve one last time."—High Ritualist Kael
+
+____________________________________________________
+
+Cassian’s expression twisted as he examined the SACRIFICE cards. "Bro! What in hell are these sacrifice cards?" He let out a low chuckle. "Feels straight out of a deal-with-the-devil kind of thing…"
+
+Still, he couldn’t deny their utility. "All of them are good under the right conditions… Sanguine Bond would really shine in a pre-planned assassination or a Hunt." He tapped a knuckle against the table. "I think [Rite of Bloodshed] and [Unholy Blessing] would be the most used cards, both of which I can use with little prep, and the latter could synergize with the White Rose card."
+
+His lips pursed as he studied [Life for Life]. "This one feels weird. I’d need a lot more summons to make it worthwhile." His fingers drummed against the table. "Wait… would sacrificing a summon right before it dies still count? Or does it have to be at full HP?"
+
+***____________________________________________________
+
+LIFEWEAVE SPECTRE [ 日 ] [ 日 ]
+
+___________________________________________________
+
+DECK CARD [CREATION SUMMON] [10p/ 0p]
+
+[UNCOMMON]
+
+___________________________________________________
+
+❂ This summon cannot attack.Whenever one or more +1/+1 counters are placed on a[LIFEWEAVE SPECTRE], create a +1/+1 [LIFEBOUND SHADE]token.
+
+❂ "Even in silence, it weaves. Even in death, all it needs is hope" —Elowen, Keeper of Verdant Echoes
+
+____________________________________________________
+
+A non-attacking summon? Cassian rubbed his temples.
+
+I guess the entire purpose of this summon is to create those lifebound shade tokens and a lot of them; still, I don’t have any cards that may buff this summon with the token.
+
+***____________________________________________________
+
+SUPREME VERDICT [ 日 ] [ 日 ] [ 日 ] [ 日 ]
+
+___________________________________________________
+
+DECK CARD [CREATION INCANTATION]
+
+[RARE]
+
+___________________________________________________
+
+❂ This Incantation can’t be countered.Destroys all summons around the caster and declares theland as a [SCARED TERRITORY].
+
+❂ "The light does not ask. The light does not bargain. The light simply is." —High Arbiter Caelus
+
+____________________________________________________
+
+***
+
+Then his gaze reached [SUPREME VERDICT].
+
+"Holy shit." His eyes darted across the text again. "This is basically a nuke." His excitement dimmed slightly as he noted the requirements. "Damn… that’s a lot of Creation symbols. I won’t be using this for a long time."
+
+[DING! NEW INSTANT CARDS: SWORDS OF DAMNATION, EXILE, INSTANT HEAL]
+
+***____________________________________________________
+
+SWORDS OF DAMNATION
+
+___________________________________________________
+
+INSTANT [INCANTATION]
+
+___________________________________________________
+
+❂ Destroys a target [summon] from the battlefield.
+
+❂ You gain that creature counters.
+
+____________________________________________________
+
+"Huh…" He read over the effect. "A variation of Exile? That’s… I don’t know what to feel about that; it makes me worry about what PVP is going to look like."
+
+***_______________________________________________
+
+EXILE
+
+________________________________________________
+
+INSTANT [SORCERY]
+
+________________________________________________
+
+❂ Exiles a target [summon] from the battlefield.
+
+________________________________________________
+
+***____________________________________________________
+
+INSTANT HEAL
+
+___________________________________________________
+
+INSTANT [INCANTATION]
+
+___________________________________________________
+
+❂ Heals you fully to your peak condition.
+
+____________________________________________________
+
+***
+
+Nice, another lifeline.
+
+Cassian cracked his neck, deep in thought. The new cards presented fresh opportunities and new skills to utilize. Some were solid choices, and although he had only received two run cards, both held potential.
+
+With a swift movement, he sketched the infinity symbol in the air, and his Soulkeep materialized before him, hovering quietly. His eyes narrowed as he studied the floating relic. "Alright… first things first, I need to figure out what that ‘Soulkeep +1’ thing was."
+
+His fingers tapped idly against the Soulkeep’s surface. "Did that unlock profiles? Or was it presets?" He exhaled. "Either way, I should check."
+
+His gaze flicked toward his attunement cards. "I also have to go over these and decide which ones to slot." His expression hardened as he clenched his fist. "Most important of all, I need to absorb the remaining Destruction attunement. That would be a major upgrade, no question."
+
+As he continued examining the Soulkeep, he noticed something different in the middle section—a queue? His brow furrowed. He tapped the section, and system notifications immediately popped up.
+
+[DING! CONGRATULATIONS ON STRENGTHENING YOUR SOULKEEP (CURRENT STRENGTHENED LEVEL +1), FEATURES UNLOCKED: PROFILES]
+
+[SOULKEEP FEATURE: PROFILES → ALLOWS OF CREATING VARIOUS PRESETS OR PROFILES FOR VARIOUS SET OF CARDS WHICH CAN BE QUICKLY SWITCHED, IF SAME ATTUNEMENTS CARDS SLOTTED THE SWITCHING WILL BE FASTER THAN IF DIFFERENT ATTUNEMENT CARDS]
+
+I guess I should upgrade my stats now but before that status
+
+...
+
+WELCOME TIMEBOUND, CASSIAN CAINE
+
+A Story Nearing Its End: [07: 01: 03: 22]
+
+Age: 17 years
+
+Ascension: 0th
+
+Origin Card: LOCKED
+
+Current Level: Trial of Worth
+
+Life Crystal State: LOCKED
+
+[STATS]
+
+❂ CREATION: 0th Star [0/10]
+
+Substats:
+
+Body → 13
+
+Constitution → 14
+
+❂ DESTRUCTION: 0th Star [0/10]
+
+Substats:
+
+Strength → 5
+
+Modifiers:
+
+Power → 2% increase
+
+❂ KNOWLEDGE: 0th Star [0/10]
+
+Substats:
+
+Essence Source → 12
+
+Perception → 7
+
+Essence Conversion rate → 1x Destruction (1:1)
+
+Effective Essence Well → 9/12 [Destruction]
+
+❂ SACRIFICE: 0th Star [0/10]
+
+❂ VOID: 0th Star [0/10]
+
+Status Effects: <<None>>
+
+SKILLS ATTAINED: 3
+
+COMPANION: 1
+
+Remark: A stupid hooman, with puny strength and a cup for a well.
+
+...
+
+Cassian exhaled. “System, how many Destruction attunement cards do I have?”
+
+[DING! YOU HAVE 10 UNABSORBED DESTRUCTION ATTUNEMENT]
+
+“Good. Get me those cards.”
+
+As he finished speaking, ten Destruction attunement cards hovered above his Soulkeep. Raising an eyebrow, Cassian mentally commanded the system to keep two back in storage while he grabbed one of the eight remaining cards.
+
+Fuuu! Let’s do this… oh wait, I should warn Dorian… There’s a very high chance the process will be painful.
+
+“Dorian! Are you there?”
+
+“Yeah? Is something the matter, Cassian? Need help with something?”
+
+Shaking his head, Cassian smiled. “I think I’ll be undergoing a change… most likely a metamorphosis that will enhance my strength. It’s probably going to be painful, so just a heads-up.”
+
+Dorian raised an eyebrow, but nodded. "Understood; you know better. I’ll keep watch. Let me know if anything goes wrong.”
+
+Cassian closed his eyes and took a deep breath, steadying himself. Once he felt calm, he crushed one of the Destruction attunement cards. Immediately, a raw, scorching surge of energy flowed into him, seeping into the depths of his being. His blood boiled, his muscles coiling as raw power surged through his body.
+
+[DING! DESTRUCTION ATTUNEMENT CARD ABSORBED: PROGRESS (3/10), SUBSTATS INCREASED.]
+
+Fu fuuu…
+
+He took quick, shallow breaths, trying to calm his raging nerves. His entire body felt feverish, sweat trickling down his back. Before reaching for another card, he paused and looked at himself—his body was steaming. The more cards he absorbed, the more drastic the changes became.
+
+With a sigh, Cassian stripped down to his underpants. He grabbed another card and crushed it, feeling the molten fire course through his veins.
+
+[DING! DESTRCUTION ATTUNEMENT CARD ABSORBED: PROGRESS(4/10), SUBSTATS INCREASED]
+
+[DING! DESTRCUTION ATTUNEMENT CARD ABSORBED: PROGRESS(5/10), SUBSTATS INCREASED]
+
+[DING! DESTRCUTION ATTUNEMENT CARD ABSORBED: PROGRESS(6/10), SUBSTATS INCREASED]
+
+[DING! DESTRCUTION ATTUNEMENT CARD ABSORBED: PROGRESS(7/10), SUBSTATS INCREASED]
+
+[DING! DESTRCUTION ATTUNEMENT CARD ABSORBED: PROGRESS(8/10), SUBSTATS INCREASED]
+
+[DING! DESTRCUTION ATTUNEMENT CARD ABSORBED: PROGRESS(9/10), SUBSTATS INCREASED]
+
+Fuck! Ahhhh!
+
+Cassian clenched his jaw. His body felt like it was being reforged in an inferno, bones creaking, muscles tearing, and knitting themselves back together stronger.
+
+A guttural scream tore from his throat as he reached for the final card, his breath coming in ragged gasps. Steam rose from his skin in thick waves, his sweat evaporating instantly. His fingers trembled as he grasped the last card and crushed it.
+
+A violent convulsion wracked his body. Blood surged up his throat, expelled before it could reach the ground—evaporating in an instant. His flesh cracked as searing heat coursed through every cell. His insides twisted painfully, forcing him to his knees.
+
+[DING! DESTRUCTION ATTUNEMENT CARD ABSORBED: PROGRESS (10/10), SUBSTATS INCREASED]
+
+Cassian collapsed to his knees, his body writhing as unbearable agony surged through him. His flesh cracked open, crimson light seeping from the fractures, steam hissing from his burning skin. His veins felt as if molten metal coursed through them, his bones shattering and reforging in a brutal cycle, sculpting something new from his broken form. Each heartbeat was an explosion within his chest, the force of it threatening to tear him apart.
+
+Then, the world fell silent.
+
+His vision dimmed. His body no longer felt like his own. His consciousness unraveled, slipping away like sand through grasping fingers.
+
+[DING! CONGRATULATIONS ON ACHIEVING THE TRANSIENCE OF DESTRUCTION, YOUR 1st STAR OF DESTRUCTION WILL NOW FORM]
+
+A blood-red cocoon erupted around him. The energy within pulsed, thick and suffocating. The world around him faded. His senses unraveled, swallowed by an unfathomable darkness, and the next second he was somewhere else.
+
+The sky was swallowed in flames, the heavens burning with ceaseless, roaring infernos that bled into an abyss of endless destruction. The ground beneath him did not exist—there was no land, no solid matter, only the remnants of what once was, dissolving into embers before his eyes. Shattered ruins floated in the void, only to be consumed by the ever-churning fire. There was no end, no beginning—only the continuous, inevitable cycle of destruction.
+
+The longer he drifted, the more his mind burned. Concepts clawed at the edges of his consciousness—whispers of truths too vast to comprehend.
+
+The End is absolute. The fire does not rage; it simply is. Creation is but the prologue to Destruction.
+
+Anything he saw sent searing agony through his skull, an unbearable pressure that threatened to split his mind apart. He clutched at his head, but there was no body to grasp—only raw consciousness, exposed and vulnerable. The more he tried to see, to comprehend the nature of this realm, the more the agony intensified.
+
+Visions flashed before him—worlds crumbling into dust, civilizations reduced to cinders, rivers boiling away into nothingness. The essence of destruction coiled around him, whispering in languages unknown, pressing into his very being.
+
+SLAUGHTER! KILL! BURN!
+
+The words echoed through the void, distant at first—whispers slithering through the flames, creeping into his mind like venom.
+
+RUIN! ANHILATE!
+
+YOU FAILED YOUR MOTHER!
+
+DESTROY!
+
+YOU LET HER DIE!
+
+SLAUGHTER!
+
+His thoughts blurred, instincts surging—his fingers twitched, aching to grind something into dust, to hear something scream, to feel something break beneath his grasp. The desire to destroy. To tear, to burn, to annihilate all that stood before him.
+
+Cassian gritted his teeth. No! I won’t let this realm consume me!
+
+His pulse quickened; his mind trembled on the precipice of chaos. Was this what it meant to step into destruction? To drown in it? The weight of the realm pressed down on him, an unshakable will of ruination that sought to consume him whole.
+
+He needed an anchor.
+
+Frantic, he tried to latch onto something… anything. Thoughts surged forward, but they slipped away like fleeting dreams, crumbling before he could seize them. Faces, voices—each one was just beyond his grasp.
+
+His past, his purpose… where were they? He was slipping, drowning in the chaos—until a face emerged from the void.
+
+Arwyn.
+
+The memory struck him with the force of an avalanche. That red-eyed fucker who killed his mother took her away.
+
+That moment. That helplessness.
+
+Cassian’s thoughts snapped into focus, his will aligning with the very essence of destruction. It wasn’t mindless ruin he craved. No. It was vengeance. It was the cold, unwavering truth that Arwyn would burn—no matter the cost.
+
+"I’ll burn the world if it means that you will burn with it."
+
+The moment those words echoed in his mind, the realm answered.
+
+Power surged into him, furious and unrelenting. A torrent of destruction flooded his very essence, threatening to tear him apart even as it remade him. His soul crackled, fire coursing through every fiber of his being.
+
+The flames around him shifted. From the heart of the inferno, something moved.
+
+Cassian’s eyes… if he still had eyes… widened as a shape emerged from the fire.
+
+Massive. Primordial.
+
+Scales of molten red gleamed through the blaze, their form stretching beyond his comprehension. A dragon, born from destruction itself, lifted its head. Its eyes, twin stars of searing crimson, locked onto him.
+
+[DING! DESTRUCTION INCARNATE FINDS YOU INTERESTING.]
+
+Darkness claimed him.
+
+...
