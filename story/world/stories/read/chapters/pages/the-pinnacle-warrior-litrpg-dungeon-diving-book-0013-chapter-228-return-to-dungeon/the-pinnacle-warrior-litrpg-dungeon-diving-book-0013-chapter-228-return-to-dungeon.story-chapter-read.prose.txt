@@ -1,0 +1,451 @@
+For RR and Patreon, I hate having statuses again so soon, but for books, having the character summaries repeated here is nice, especially with new equipment and levels.
+
+Drawing near to the entrance to the Dungeon proper, the party came to the somewhat begrudging conclusion that they should rest for the night before getting back into the Dungeon. They’d spent a fair amount of time buying materials in Neverwood before getting on the road back to this entrance, and nobody in the town of hidden, amazingly powerful outcasts enjoyed waking up and opening shop at the break of dawn.
+
+Fortunately, each member of the party was now wearing their new pieces of equipment, and, with the exception of Benedict’s newest piece of equipment, which was simply defensive, everybody else had plenty of effects they were looking forward to testing as they got deeper into the Dungeon proper.
+
+“According to the schedule we’ve determined over the last three weeks,” Astrid said as the party finished setting up camp, “tomorrow will be medium tide, then three days of low tide before the wave of new shimmerbugs comes. That should be plenty of time to start to investigate what’s further along, unless the receding of the wave means that the population density will be much higher further along and deeper into the forest.”
+
+“We’ve heard it enough already, Astrid,” Benedict grumbled. “Yes, we have our new Skills, yes, it’s gonna be dangerous, yes, we already know what we’re doing.”
+
+“It may be that I’m repeating the same thing over and over again,” Astrid replied, her voice steady, “but it bears repeating. We don’t know what we’re getting into tomorrow, and making sure we are all on the same page once we go in is important.”
+
+He bowed his head in acknowledgment, muttering an apology as the party all worked together to fully prepare themselves for the delve on the next day.
+
+***
+
+“I know we never struggled with ’em,” Skandr said as the party talked about the different Skills the various tiers of shimmerbug had, “but it’s strange how easy even the greens are now. You know?”
+
+“The prey has been too easy,” Muti said, seeming to also refer to the tavari. “Felix especially has been unable to grant the influence from Guardian’s Amplification to any of our prey.”
+
+Astrid nodded at the Guardian who had fallen into the same trap that she herself had. After spending time getting trained by the Golden Fists and then insulted, Astrid found it particularly embarrassing that, of the party of five, there were two Skills that had been largely neglected for basically a month after evolving, as well as another that had been neglected. Her own Unconquerable Aura and Felix’s Guardian’s Amplification were basically entirely forgotten and both could have been immensely valuable in the fights in the wyverns’ nest.
+
+Then, Benedict’s Overwhelming Speech had an aspect to it that he’d sometimes forgotten to use. At its core, Overwhelming Speech allowed him to multicast Skills just like Doubletalk had, but it had a secondary aspect that allowed Benedict to dip into his stamina reserves to make his Skills more effective against enemies, regardless of their inherent resistances. That paired with the aggressive aspect of Song of Victory could be quite deadly, the party was sure.
+
+And now, every member of the party had another new Skill that they barely had time to practice with before they had to retreat to Neverwood and then ask for further permission to stay in the country. Fortunately, their meeting with the Grove Warden had gone quickly, and not just by Verdant Sanctuary standards. With a swift accounting of what the Wanderers had done for the sanctuary by clearing the wyvern’s nest, as well as their swift obedience to any commands that they received, the Grove Wardens had taken less than a day to tell Astrid that the Wanderers were welcome to stay until the peak of Steel.
+
+However, you may not evolve to Mithril here. The requirements to receive permission to remain within our borders above Steel tier are much more stringent and demanding than it has been for you so far. You would do well to consider planning on leaving the Sanctuary before you evolve.
+
+“Once people hit Mithril,” Astrid confirmed, “they’re much more difficult to keep where you want them without subjecting them to stringent contracts, is that right?”
+
+Exactly. It is obvious that you are people who desire freedom, so you are given welcome to remain here for an additional twenty levels, however long that may take you, and then, unless you are willing to subject yourselves more completely to the rule of the Verdant Walkers, you will be kindly asked to leave.
+
+“Thank you for your direct answer,” Astrid bowed to the Grove Warden.
+
+Then, as one, the party had gone about preparing to get back to the Dungeon proper.
+
+“I doubt we’re going to be able to keep up the same pace of gaining levels,” Skandr said as the party lay in their cots. “After all, most of the shimmerbugs are going to be lower level than we are now. The greens are about the same as us, and we’re really going to need to start fighting yellows and probably oranges to make sure we’re getting satisfactory Skill offerings moving forward.”
+
+“You’re not satisfied with what you’ve got?” Astrid asked, incredulous.
+
+“No, of course I’m happy with it! I just haven’t had time to experiment with Microburst yet. And,” he continued as Astrid started to open her mouth, “I’m also very excited to continue experimenting with the self-sorting enchantment grimoire. There’s so much I can do with that alone that there’s going to be so much more experimentation ahead of me, especially with higher-capacity and demand spells as my mana sensitivity continues to grow in combination with the spikes to my attributes as well as through the use of Microburst. I’m just saying that if we spend the next ten levels just killing these weak bugs, level 81 is probably gonna be pretty disappointing.”
+
+Astrid chuckled and nodded. “You’re right. But now that we are finally going to be able to move through the Dungeon without getting ourselves killed, we can afford to maybe get into contact with one of the reds. The one yellow we ran into in the beginning of the second week was dangerous enough already, but that was a while ago.”
+
+Skandr grunted his agreement, because the party hadn’t needed to spend time to figure out what the yellow bugs could do. At that time, the party had been level 64, still lower level than the blues, but never worried about them. They should have been. The yellow aura that washed over every one of the sixty shimmerbugs had taken the encounter from one to be taken cautiously to instead one they needed to run away from. The blue and indigos had charge forward, and that Skill crushed and crashed through vine-trees as Felix and Astrid were both smashed back by the force of their charge. Seeing three greens and the yellow behind them closing in faster than the party would have believed when they were already struggling against blues and indigos?
+
+Well, Benedict’s immediate switch to double-layering Voice of Liberation while Skandr loosed his prepared his step of the wind spell had carried them away fast enough that they were able to avoid being locked into potentially deadly combat.
+
+“I’m looking forward to being able to rematch a yellow,” Astrid said. “And then with there still being two more tiers higher than that? Exciting.”
+
+“You’re insane,” Skandr laughed, the words affectionate. “Sleep good.”
+
+Astrid bid her own good night, mentally pulling up the party’s Statuses to make sure that she was prepared to give good directions to them, taking into account their new Skills (with the exception of Felix and herself, who’d chosen to evolve Defender’s Avatar and Body Surge to Steel while hoping for better offerings at level 81) and everything that their equipment could do. She had access to all that information, but she mentally dismissed any piece of equipment whose effect wasn’t unique enough to be noted preparatory to getting into the Dungeon once again.
+
+Name: Astrid
+
+Class: Immortal Champion (Steel)
+
+Total Level: 71 (401,799/600,000)
+
+Attributes
+
+Current
+
+Per level growth
+
+Power
+
+980 (+270)
+
++22
+
+Alacrity
+
+589 (+130) [+353]
+
++12
+
+Fortitude
+
+939 (+326)
+
++20
+
+Magical Potency
+
+405 (+105)
+
++10
+
+Self-Mastery
+
+386 (+136) [+154]
+
++10
+
+Acumen
+
+261 (+54) [+104]
+
++5
+
+Boon of Potentiation
+
+Boon of the Hero
+
+Boon of Indomitability
+
+Immortal Champion’s Physique (Steel)
+
+Spectral Graviton (Steel)
+
+Immortal Champion’s Equipment (Steel)
+
+Unconquerable Aura (Steel)
+
+Body Surge (Steel)
+
+Mental Fortress (Steel)
+
+None
+
+Locked
+
+Locked
+
+Body Surge (Steel): For a Moderate cost to mana and stamina, increase the Skill holder’s Power and Alacrity by 150% as well as the Skill holder’s Fortitude by 75% for one minute.
+
+Steel tier: Deep manasteel and Mithril alloy greaves: enchanted for self-repair. If mana is channeled through them, will grant a temporary 50% boost to Alacrity.
+
+Steel tier: Dungeon Gold and deep manasteel alloy gloves: enchanted for self-repair and Power mana channeling. Will strengthen the effects of Power channeled through them by 25%.
+
+Steel tier: Draconic Icitanium helm: enchanted for self-repair, enhanced vision, and mana condensation. Mana can be provided to the helm to release a facsimile of a dragon’s breath in a cone.
+
+Steel tier: Dungeon Silver and Mithril alloy shield: can extend to cover more space.
+
+Steel tier: Dragon Turtle Tendon Sling: enchanted to strengthen the ammunition it throws.
+
+Name: Skandr
+
+Class: Storm Archwizard (Steel)
+
+Total Level: 71
+
+Attributes
+
+Current
+
+Per level growth
+
+Power
+
+235 (+45)
+
++5
+
+Alacrity
+
+307 (+115)
+
++7
+
+Fortitude
+
+378 (+135)
+
++8
+
+Magical Potency
+
+1057 (+280)
+
++26
+
+Self-Mastery
+
+676 (+135)
+
++17
+
+Acumen
+
+567 (+140)
+
++13
+
+Boon of Fortification
+
+Storm Wizardry (Steel)
+
+Enchantment (Steel)
+
+Warlock’s Constitution (Steel)
+
+Storm Companionship (Steel)
+
+Mental Bastion (Steel)
+
+Microburst (Steel)
+
+None
+
+Locked
+
+Microburst (Steel): For a Moderate mana cost, Increase the Magical Potency of the Skill holder by 150% while also strengthening every storm-related spell or Skill by 50% for one minute.
+
+Steel tier: Lightning pegasus robe: enchanted to strengthen wind, lightning, and storm spells. Strengthens the potency of spells cast by 75% (limited to low Mithril tier). Has two flaps hidden along the back with spines that gain rigidity when provided with mana. When rigid, can serve as additional protection when wrapped around the torso or gliding wings when spread.
+
+Steel tier: Spell storage rings and bracelet: can store three spells up to Mithril(?) tier.
+
+Steel tier: Lightning-struck wooden staff: if provided with mana, will form a storm fitting the location without a spell.
+
+Steel tier: self-sorting enchantment archival grimoire. Can be engraved with enchantments and provided with additional mana at the time of engraving to automatically recall an enchantment when given the command word.
+
+Name: Muti
+
+Class: Lethal Shadow (Steel)
+
+Total Level: 71
+
+Attributes
+
+Current
+
+Per level growth
+
+Power
+
+889 (+220) [+267]
+
++20
+
+Alacrity
+
+838 (+255) [+251]
+
++20
+
+Fortitude
+
+458 (+205)
+
++10
+
+Magical Potency
+
+294 (+185)
+
++9
+
+Self-Mastery
+
+279 (+150)
+
++4
+
+Acumen
+
+486 (+155)
+
++10
+
+Boon of the Mana-Touched
+
+Lethal Shadow’s Equipment (Steel)
+
+Shadow Teachings (Steel)
+
+Shadow Aura (Steel)
+
+Shadow Strike (Steel)
+
+Shadow Touched (Steel)
+
+Assassin’s Bearing (Steel)
+
+None
+
+Locked
+
+Assassin’s Bearing: Increases the Skill holder’s Alacrity and Power by 30% when prepared to fight an enemy. Boosts the strength of the first attack made against an enemy as well as every attack made in surprise against an enemy.
+
+Steel tier: Shadow markhor wool gambeson and leggings: naturally absorbs bludgeoning strikes while darkening shadows around the wearer. Strengthens shadow magic. Paired equipment.
+
+Steel tier: Shadow Panther boots: Produce and deepen shadow. Enhances recovery in shadow. Strengthens sneak attacks.
+
+Steel tier: Draconic Midnight Mithril helm: made of Midnight Mithril and shaped like a dragon’s head. Enchanted to allow sound to pass through the helm to maintain awareness. Mana of any attribute can be supplied to the helm, which will be condensed and expelled from the helm in a cone.
+
+Name: Felix
+
+Class: Steadfast Guardian (Steel)
+
+Total Level: 71
+
+Attributes
+
+Current
+
+Per level growth
+
+Power
+
+765 (+205) [+170]
+
++17
+
+Alacrity
+
+517 (+85)
+
++9
+
+Fortitude
+
+980 (+390) [+216]
+
++22
+
+Magical Potency
+
+221 (+135)
+
++5
+
+Self-Mastery
+
+529 (+215) [+108]
+
++13
+
+Acumen
+
+232 (+75)
+
++7
+
+Boon of the Protector
+
+Guardian’s Amplification (Steel)
+
+Guardian’s Equipment (Steel)
+
+Defender’s Mandate (Steel)
+
+Impenetrable Fortress (Iron)
+
+Raging Guardian (Steel)
+
+Defender’s Avatar (Steel)
+
+None
+
+Locked
+
+Defender’s Avatar (Steel): For a Heavy mana and Moderate stamina cost, triples the Skill user’s frame as well as grants a 120% boost to Power, Alacrity, and Fortitude for two minutes.
+
+Steel tier: Manasteel root boots and greaves: Infused with rare living petrified wood. Can be infused with mana to fuse with the ground underfoot.
+
+Steel tier: Draconic Deep Manasteel helm. Made of deep manasteel and shaped like a dragon’s head. Enchanted to be as defensive as possible. Mana of can be supplied to the helm, which will be condensed and expelled from the helm in a limited barrier around the wearer.
+
+Steel tier: Glimmersteel axe: can project a hook if provided with mana to pull targets towards self.
+
+Steel tier: Living Wood shield: self-repairing and pulls attacks towards it if provided with mana.
+
+Name: Benedict
+
+Class: Acidic Bard (Steel)
+
+Total Level: 71
+
+Attributes
+
+Current
+
+Per level growth
+
+Power
+
+262 (+100)
+
++6
+
+Alacrity
+
+499 (+195)
+
++12
+
+Fortitude
+
+519 (+155)
+
++13
+
+Magical Potency
+
+888 (+210)
+
++20
+
+Self-Mastery
+
+609 (+170)
+
++13
+
+Acumen
+
+487 (+140)
+
++10
+
+Boon of a Gentle Touch
+
+Overwhelming Speech (Steel)
+
+Song of Victory (Steel)
+
+Voice of Liberation (Steel)
+
+Restful Reverberations (Steel)
+
+Overwhelming Presence (Steel)
+
+Inspiring Song (Steel)
+
+None
+
+Locked
+
+Inspiring Song (Steel): For a Heavy mana cost per minute, grants a 40% boost to all of a targeted creature’s attributes.
+
+Steel tier: Midnight Mithril and Dungeon gold breastplate: a breastplate enchanted to protect the wearer’s internals and strengthen their magic. If provided with mana, will create a bubble of protection around the wearer.
+
+Steel tier: Pocket ermine boots: minor spatial distortion possible when provided with mana. +10 Power, +40 Alacrity, +10 Fortitude, +20 Magical Potency, +15 Self-Mastery, +15 Acumen.
+
+Steel tier: Large performer’s hat: 50% bonus to the range of all sound-based Skills and a 40% increase to their potency. Enchanted to protect the wearer’s head.
+
+Steel tier: Bard’s flute: heavily enchanted to suit the needs of a combat-oriented bard. Also strengthens any skills cast through the flute. Provides a 50% boost to all Skills cast through the flute up to Mithril tier.
+
+Everybody had their new Skills, each offering a new or improved way to go deeper and confront the yellows and the horde of shimmerbugs that they would rule. Of course, she was familiar with her own Body Surge and Felix’s upgraded Defender’s Avatar, but there hadn’t been nearly enough time to really experiment with Microburst, Assassin’s Bearing, and Inspiring Song in the past three days since the party had reached level 71. Microburst and Inspiring Song were both basically the same kind of Skill as Defender’s Avatar and Body Surge: massive boosts to turn the tide of battle. Muti was the only one whose selected Skill wasn’t in that same vein as the rest, and she’d selected it specifically because she was fairly certain it would be rolled into her equipment Skill when she evolved.
+
+“I have seen the strength of Immortal Warrior’s Physique,” she said. “I am excited to learn just what I will become capable of with this new Skill, in that same way.”
+
+As for the rest of the party, well, they’d all decided to hold off on incorporating their new pieces of equipment into their fighting style until they reached level 71, given that they weren’t facing anything challenging. That might have turned out badly if they’d come into contact with another yellow, especially if it had trapped them, but in this case, it was a step that they took that didn’t end up causing them trouble.
+
+Skandr had been thumbing through his grimoire long before he had promised to begin using it, and considering how much preparation needed to go into the successful use of the piece of equipment, nobody had begrudged him that. As for the three draconic helms, Astrid had tried out what her helmet could do once and very quickly learned that she shouldn’t be using it outside of either the Dungeon or a fight that needed it. Muti, with the greater flexibility in her own helmet, had been playing around with it for a while. Puffs of mist or shadow were the most common, but Astrid couldn’t help but notice that Muti was also spending more time experimenting with her tattoos, flame and lightning the most common among them. She was looking forward to seeing what Muti was capable with this greater versatility.
+
+Felix’s helmet was of particular interest, given that, instead of using a breath weapon of sorts, it served as an additional barrier. When he once tried it out, Astrid was interested to see what kind of element the helmet’s barrier would carry with it. Instead of Astrid’s, which was always ice, or Muti’s, which was so flexible, Felix’s was basically attribute-less. A shimmering, silvery barrier flashed into existence around him, similar to the barrier he could make with his Boon of the Protector, but the few experiments they’d been able to conduct until now seemed to show that it was a better barrier for protecting from magical attacks.
+
+As Astrid drilled herself again on each of her party members’ Skills and abilities with their equipment, she found herself slowly coming to sleep. And when the morning came, it was time for her to go out with the rest, to finally plumb the depths of the Dungeon proper and see what else was waiting for them. So, with bated breath and an excited grin, she led her party back towards the deep shadows that linked them to the Dungeon proper.
