@@ -1,0 +1,65 @@
+The big mana orb I needed to play with was the one that had managed to make this all possible. Without the shield orb, so many simulator runs would never have worked correctly. I wasn’t even sure I’d have bonded with Corey had I never found it. The fact that they were as common as Mel claimed was still baffling to me, and the only explanation I could buy for their lack of use really was just how expensive multi mana orb setups were, and that was just to get access to something a fraction as powerful as what I had going.
+
+Now that Corey had the ability to easily harness and switch between my orbs, that made the power of the shield orb even more so. They could focus on keeping shields around our allies while, at the same time, I focused on what was coming directly at us. We were growing into a one-body powerhouse, and just what we were capable of together was going to be on display on this last floor. The key to keeping everyone alive was going to be my ability to shield and heal simultaneously. I was sure of it, so it was time to do some real testing on my shields.
+
+To that end, I pulled up the shield orb in my interface and took a look through just what I hadn’t touched yet. The obvious choices were Absorb and Weapon Shield. Being able to channel some of the damage back into my core would be incredibly valuable in keeping me going with this plan. Weapon Shield, on the other hand, would let me further nullify attacks based on the weapons they used.
+
+It was an oddly specific skill, as I had to use ranks to add more weapon types, and I wasn’t entirely sure how narrow those types were yet. But considering how my knowledge skills seemed to stack up, I had a feeling it was basically anything that could be classified as a weapon. Would I be allowed to add things that didn’t count as weapons as far as the System was concerned? That was an interesting question I’d need to test in the future; now wasn’t the best time to waste the ranks.
+
+Extend Shield also seemed useful given the extra people I may want to cover, plus pulling my tools in close, I also suspected that would lead me to what I really wanted—the ability to place shields around other people who weren’t directly near me. So I started with that one, pushing it up to the full thirty ranks I could invest in it, and checked the new third tier available mana skill.
+
+Shield Target allows the host to place a shield around a target; the distance to the target increases the mana cost of the placement. Otherwise, it functions the same as a basic Physical or Magical Shield of the host’s ranks. Further, ranks decrease the range cost.
+
+That was a start. Now, if I combined that with Absorb and a large-scale spell hit all shields, just how much mana could I start backflowing into my core? I’d need to test that before I put it into practice. It was likely risky depending on just how much my core could handle, but with Corey directing the flow, it seemed possible they may be able to redirect overflow back toward other mana orbs instead of letting it directly hit my core. That was something to consider.
+
+This meant that my next move was to max out Absorb as well. What I wanted was a way to absorb damage and a way to apply that to other shields. I expected there had to be a skill somewhere in the chain for that, but finding it might be hard. I wouldn’t be able to access anything beyond the fifth tier, which was still more than any of my other orbs.
+
+Weapon Force Absorption was the only thing I had unlocked from that, and it was another third-tier ability. I wasn’t surprised to learn it required me to spend ranks in Weapon Shield. It, in fact, made complete sense with how these chains seemed to work. But before that, I also maxed out Shield Target in hopes of something to combine all of these.
+
+That skipped me straight to the fifth tier for that ability, but I couldn’t complain at all. Shield Transference was exactly what I had wanted. I wasted no time in investing ranks in that until I hit the cap at twenty-five. After that, I did Weapon Force Absorption as well. That unlocked several new things this time.
+
+Requirements: Magical Shield (35) Physical Shield (35) Environmental Shield (30) Weapon Force Absorption (15)
+
+Shield Reinforcement allows the host to expend extra mana to reinforce shield strengths. Further ranks allow for greater reinforcement.
+
+Requirements: Magical Shield (35) Physical Shield (35) Environmental Shield (30) Weapon Force Absorption (15)
+
+Shield Regeneration allows the host to expend mana to link shields to their mana flow, allowing them to regenerate over time. Further ranks decrease the ambient mana draw.
+
+All three of those were amazing choices and further reinforced my plans. I’d hold off on choosing the weapons to use for the Physical Shield skill until I talked to Mel, but there was no sense in waiting on these, especially as I wanted to run some quick tests. I pushed them all up to twenty-five and sadly unlocked no more fifth-tier abilities just yet. I had been hoping for something else amazing, but this had already been a pretty strong day for my build.
+
+I opened my chat window, as I needed all the cores for some experimentation.
+
+>Dave: Corey, Alpha, Beta, Gamma, I want all of you to meet me in the forest near the garage.
+
+>Corey: Understood. Everyone, please join us there within five minutes unless you are accompanying someone outside the grounds.
+
+>Alpha: On way.
+
+>Beta: Already there.
+
+>Gamma: I am with the moose. Will be there soon.
+
+>Dave: Perfect, see you all shortly.
+
+I closed out the chat window and headed for the spot, finding Beta hadn’t lied. They were floating in the air, waiting for me as I arrived. I was incredibly glad to see how well the three cores were taking their new lives and freedom, and I hoped they grew as well as Corey did. I was still worried about Alpha and their intelligence, but there was plenty of time still to see how they progressed.
+
+“What are we doing? Is it fun?” Beta asked as I approached.
+
+“I think it might be. Did you enjoy that first training fight we did?” I asked back.
+
+“Yes. It was one of the things that made me rethink my plan to betray you and build a dungeon here,” they answered. I wasn’t entirely sure how to take that comment, but at least they had rethought it. I’d talk to Corey about Beta more later.
+
+“Glad to hear it.” I spotted Corey and the others heading over, the moose trotting along behind Gamma, and paused until they were here too. “Alright, everyone, I want to practice with shields. So, since the moose was kind enough to join us, what I’m thinking is we start with just putting shields around all of you, and I test out how much damage they can handle as well as the mana costs for each type. How does that sound?”
+
+With no objections, I started small by putting a full-strength shield of all types, including regeneration, around the moose and checked my mana pool. I estimated the cost at somewhere around two percent of my total pool. “Okay, all three of you hit the shield until it dissolves, please. Mr. Moose, I promise this won’t hurt.”
+
+The moose looked at me as though it understood and just stood there while the tools began their assault. Between the regeneration and the reinforcement, by the time the shield was destroyed, I had actually moved back up in my mana reservoirs. I wasn’t entirely full, but there was only a sliver of use gone now. That was amazing news.
+
+“Alright, everyone gets a shield now, so please spread out,” I said. And as soon as they were all around a hundred feet from me, I placed a new full shield around each of them and watched my mana drop down by a third. Distance really did seem to increase costs rapidly. “Okay, I’m going to start casting some fireballs to test out the shields. I won’t hurt anyone, I promise.”
+
+To my surprise, the moose once again let me continue without any issue. Several fireballs later and the shields had fallen, but I was back up to around ninety percent of my mana. And that was after the launching of the fireballs. If I could find a way to further improve this shield orb, it was possible I could use this to actually just absorb my opponent’s mana during fights, assuming, of course, they didn’t have their own ways to bypass them. With how common shield orbs were, I assumed there had to be something, but for now, I was still ecstatic at the possibilities.
+
+Shield Breakers are less a class and more of a build choice employed by some Arena squads to handle those that specialize in Shielding spells. They are more common as a reserve unit than a main squad member due to their relative uselessness in a standard fight, but should a squad know a rival team has a Shield Specialist build in it, they would be strongly advised to employ one. Otherwise, they run the risk of being unable to land a single blow. Famously, Glond managed to mainline a Shield Breaker build in a way that also broke bones, but unless the fighter has access to some of the Stone Shaper’s paragon class abilities, it is unlikely they will be able to replicate such success.
+
+Arena Build Outs by Bjorn Madhen
