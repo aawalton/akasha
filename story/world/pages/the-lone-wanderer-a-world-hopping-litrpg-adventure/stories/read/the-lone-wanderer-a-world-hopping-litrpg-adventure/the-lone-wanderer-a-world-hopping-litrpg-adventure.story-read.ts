@@ -1,0 +1,45 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const theLoneWandererAWorldHoppingLitrpgAdventure = {
+  id: "01a16abd-a297-7395-a219-d574ef68c0ed",
+  type: "page-type/story-read",
+  slug: "the-lone-wanderer-a-world-hopping-litrpg-adventure",
+  author: "PathOfPen",
+  following: false,
+  unit: "unit/words",
+  title: "The Lone Wanderer: A World-hopping LitRPG Adventure",
+  world: "world/the-lone-wanderer-a-world-hopping-litrpg-adventure",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "95097",
+      externalLink:
+        "https://www.royalroad.com/fiction/95097/the-lone-wanderer-a-world-hopping-litrpg-adventure",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Portal Fantasy / Isekai",
+    "Progression",
+    "Cultivation",
+    "Male Lead",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Mystery",
+    "Crafting",
+    "First Contact",
+    "GameLit",
+    "High Fantasy",
+    "Magic",
+    "Magitech",
+    "Mythos",
+    "Reincarnation",
+    "Strong Lead",
+    "Supernatural",
+  ],
+  readLater: true,
+  createdAt: "2026-10-23T21:49:35.255Z",
+  updatedAt: "2026-10-23T21:49:35.255Z",
+} as const satisfies StoryRead
