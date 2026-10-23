@@ -1,0 +1,115 @@
+The treated axles tracked clean. Gold veins brightened four meters ahead of the platform and faded to resting glow two meters behind it, a lit path that the wall generated and consumed as they passed through it. The front axle housing showed no resistance from his position at the throttle relay.
+
+The foragers ignored the platform. They picked their way between root strands with the unhurried precision of animals that had never been given a reason to rush, their translucent bodies pulsing in the wall's slow rhythm while twelve hundred kilos of iron, stone-fed machinery, and two humans rolled through the center of their habitat at walking pace. Indifference was better than avoidance.
+
+The Fabricator hummed at 89% of stationary baseline. That number had settled during the first hundred meters after the treatments completed and hadn't moved since. The Auto-Miners ran their shallow-skim pattern against the habitat wall, impact heads striking at the angle he'd calibrated to pull fragments rather than punch holes, and stone tumbled down the feed chute in a steady rattle that fed the intake tray without pause.
+
+The conversion ran the same way it always ran: raw stone fed into the Ex Nihilo field through the suit's integration protocols, molecular structure disassembled and rebuilt at the component level, iron plates emerging from the output tray warm and dense. The wall's stone was richer than the upper passage behind them. Higher Syntropic content in the substrate meant the conversion ratios ran hotter, fewer passes per plate, lower power draw per unit. The field still did the work. The mountain was just making it cheaper.
+
+[MOBILE PRODUCTION: Hour 3][Rough Stone Processed: 340 kg/hr | Ex Nihilo Conversion: 94.2% efficiency][Iron Plates: +31/hr | Copper Mesh: +19/hr | Silver Wire: +5/hr][Power Draw: 68% grid load | Headroom: +7% vs. upper passage][Tunnel Sealed Behind: 4.3 km | Gauntlet Emplacements: 21]
+
+CelestOS: For context: the seven percent efficiency gain from substrate quality is equivalent to running a fourth Auto-Miner at no additional cost. The wall is subsidizing your production. I find the arrangement professionally uncomfortable and operationally excellent.
+
+"Log it," Ethan said.
+
+CelestOS: Logged. I've filed it under: arrangements I didn't model that are working anyway. The folder is getting full.
+
+Maria sat at the platform's rear with both palms flat on the tunnel floor and her eyes half-closed. She'd been in that position for eleven minutes. Ethan had stopped marking the intervals. The reading angle was familiar by now: the slight forward tilt of her head, the way her fingers spread rather than curled, the absence of any tension in her shoulders that meant she was receiving and not searching. He checked the output tray instead. Iron plates stacked in the collection bin at the rate the HUD promised. He pulled the top plate, ran a thumb across its face, and set it back. Clean conversion. No stress fractures from transit vibration.
+
+The passage widened ahead of them. The ambient sound changed first, the Fabricator's hum spreading outward instead of bouncing back as the tunnel's acoustic profile opened. The ceiling rose by half a meter. The walls pulled back to four and a half meters across, then held there. The root mat thickened at the edges but kept the centerline clear, the gold vein threading through the strands pulling gently to either side the way it had been doing since the first axle treatment. The platform tracked the open lane without Ethan's input. He left the throttle alone.
+
+Maria opened her eyes. "We're in the node chamber," she said.
+
+Ethan cut the Auto-Miners.
+
+The feed chutes went quiet. The Fabricator's intake tray cycled through its last batch and the arms settled into standby. The platform rolled on momentum for six meters before the braking rollers caught the grade and brought it to rest. The silence here was larger than the tunnel silence behind them, the kind of acoustic space that meant a room, where sound had somewhere to go and took its time getting there.
+
+The chamber opened around them in slow stages as his headlamp reached farther. The ceiling climbed past eight meters and lost itself in a canopy of Living Wall tissue so dense with gold veining that it cast its own light, a warm amber diffusion that covered the floor in overlapping shadow. The walls pulled back to distances his lamp couldn't reach. The root mat here was older than the passage above, thick layered growth that had been accumulating since before the habitat section had been cut, less organized than the cross-hatched foraging infrastructure overhead. Stalactite formations of Living Wall tissue hung from the ceiling in curtains that pulsed in the same slow rhythm as everything else in the network. The whole chamber breathed.
+
+Frederick kicked, and the gold veins responded before Maria did. A wave of brightness rolled outward from the platform's position, racing across the floor and climbing the walls in a cascade that took four seconds to cover the full visible length of the chamber and return. A recognition.
+
+Maria pulled her hands from the floor and pressed one palm flat against her stomach. Her breath had changed, the controlled rhythm she used when she was receiving something large. She held it for two seconds before she spoke.
+
+"This is a relay point," she said. "The signal from the anomaly runs through here. The whole network converges on this chamber before it goes deeper." She looked up at the ceiling curtains, still bright from Frederick's kick, the gold fading back toward resting glow in slow waves. "Every reading I've had since the passage opened has been pointing here first. This is where it routes."
+
+"How far to the anomaly from here?"
+
+She was quiet for four seconds. Her hand pressed harder against her stomach, using Frederick's frequency as an amplifier the way she had since she'd understood what the 290 Hz resonance did to the wall's signal range. The gold veins nearest the platform brightened in a ring, spreading outward in the direction of the warmer passage ahead. She watched where the light went and how fast it faded.
+
+"Deep," she said. "I can feel the gradient from here. The signal gets stronger in the direction the wall is pointing. Distance is harder to read than direction." She paused. "Deeper than we've come. Farther than I can map without direct contact at the next node."
+
+CelestOS: Harold's sensor array has been tracking the source signal since we entered this chamber. Strength is up 340% over our entry reading. Extrapolating from the gradient curve and current depth: between 280 and 320 meters below our present position. Eighteen to twenty-two hours of transit at current speed. I'd call the destination calculable.
+
+Ethan ran the numbers. Eighteen hours minimum. The gauntlet behind them had 21 emplacements at six-minute intervals since the second platform build. At current pace they'd have another 180 turrets mounted before they reached the source. Patel's bore team was through the first seal and counting casualties. The math was the best it had been since they'd left the base.
+
+That was when Harold chirped.
+
+The drone was hovering thirty meters ahead, optics cycling from blue to amber. The cautionary register, the one that meant data without a framework.
+
+"Harold. Report."
+
+[HAROLD SCOUT SWEEP — CHAMBER SECTOR][Atmosphere: Nominal | Temp: 21.3°C | Humidity: 71%][Passage Alpha (warm): Clear | Width 3.4m | Grade: 14° descent][Passage Beta (cold): Accessible | Width 2.1m | Grade: 8° descent][Basin: Present | Surface area: ~400m² | Depth: Unknown][Biological Signature: LARGE | Subsurface | Bearing: 220° | Range: 18m]
+
+Ethan looked left. The basin sat forty meters from the platform's current position, a dark still surface that reflected the chamber's amber light in a single flat plane. His headlamp reached the near edge and died. The water showed no bottom.
+
+CelestOS: The basin's thermal profile indicates significant depth. The biological signature is subsurface, non-directed movement, consistent with a resting or foraging state. Signal mass puts it in the same classification range as the organism you encountered at the surface lake in your first weeks on Veslaya. I'd recommend not testing that assessment at close range.
+
+Maria had both hands on the floor before CelestOS finished. Her head came up and her eyes found the basin immediately, the way they found things she'd already felt before she looked at them.
+
+"It knows we're here," she said. "It's been aware since we entered the passage above." She kept her hands flat, reading. "The arrhythmic pulse. The same cadence as the lake creature." Her voice was steady. "It's territorial but the resonance is holding the boundary. Frederick's frequency registered in this chamber's network when he kicked. The creature felt it."
+
+"How wide is the boundary?"
+
+"The warm passage skirts the basin at eleven meters." Her eyes stayed on the floor. "Eleven meters is inside its awareness range. It knows that route."
+
+"The cold passage?"
+
+"Thirty meters from the basin edge. Outside its current awareness radius." She paused, reading. "The wall isn't routing us that way. The cold passage has no active signal. The wall opened the warm route and left the cold one sealed." She pulled her right hand back and pressed it against the floor at a different point, further toward the warm passage. The gold veins surged beneath her palm. "The wall built the warm passage for us. The cold passage just hasn't closed yet."
+
+CelestOS: Geometric analysis of both routes: the warm passage reaches the next node chamber in approximately 2.1 kilometers. The cold passage reaches the same chamber in 3.4 kilometers via a less direct route. Transit time difference at current speed: forty minutes. The cold passage also passes through a section of basalt rather than Living Wall tissue, which means no floor resonance for Maria and no substrate sealing behind us. Patel's sensors would track us through that section.
+
+Forty minutes against a sealed trail and Maria's floor contact for the full route. The cold passage wasn't a safer option. It was a longer one that handed Patel a window.
+
+"We take the warm passage," Ethan said.
+
+Maria nodded once. She pulled her hands from the floor and braced against the Fabricator housing to stand, the careful movement she used when she'd been in contact too long. She got upright without reaching for a hand. She hadn't asked for one since the first day in the tunnel.
+
+He restarted the Auto-Miners at 40% strike rate. Low enough to keep the sound contained. The impact heads made contact with the chamber wall in muted cycles, fragments falling into the feed chutes without the full crack of the standard pattern. The Fabricator's arms unfolded at reduced speed. He wanted production running quiet, and the chamber's acoustic profile would carry a full-rate mining operation to the basin's edge and back faster than he liked.
+
+The platform moved. Ethan held the throttle at 1.8 kilometers per hour, slower than standard transit, and kept the basin in his sightline as they tracked the warm passage route across the chamber floor. The gold veins marked the line the wall wanted them on, a continuous brightening that stayed two meters ahead of the platform and guided the throttle angle the way a lit runway guided approach speed.
+
+The surface didn't move. Forty meters. Thirty-five. The chamber opened wider as they tracked the passage mouth and the basin slid left in his sightline, its dark surface still and flat under the amber ceiling light. Twenty-eight meters. The biological signature on his HUD held its bearing and its depth, non-directed, the slow subsurface movement of something that was aware and unalarmed. Maria kept both hands on the Fabricator housing and didn't reach for the floor. She was reading the walls instead, the chamber surface rather than the basin, keeping her signal traffic in the network rather than the water. Ethan understood the logic: anything she sent into the floor near that basin would reach the creature faster than it would reach her.
+
+Twenty meters. The warm passage mouth came into view ahead, a three-meter opening in the Living Wall tissue radiating heat that was perceptible even at this range, a 2.4-degree differential that his suit registered as a gentle pressure gradient. Gold veins ran continuous lines from the chamber floor into the passage interior, the wall's indication of route unmarked for anyone without Maria's interface but legible to Ethan now after weeks of reading it alongside her.
+
+Fifteen meters from the basin edge. The surface twitched. A single disturbance at the water's center, a circular displacement that spread outward in a ring and flattened before it reached the shore. Something below the surface had shifted position. The biological signature on his HUD updated: depth decreased by six meters, bearing unchanged. It was rising.
+
+Ethan held the throttle steady. Same speed. Same line. Maria said nothing beside him.
+
+[BIOLOGICAL SIGNATURE UPDATE][Mass: Large | Depth: -14m | Bearing: 220° | Range: 18m][Movement: Directional | Rate: Slow | Vector: Ascending]
+
+CelestOS: The organism is ascending at approximately 1.2 meters per minute. At current rate it reaches surface depth in eleven minutes. We clear the warm passage mouth in forty seconds at present speed. I have a contingency. I'm not going to tell you what it is because it involves going faster and you've already decided not to.
+
+Ethan held the speed. Thirty seconds. The passage mouth was eight meters ahead. The basin surface held still, the ripple gone, the water back to its flat reflecting plane. The biological signature kept ascending at its 1.2-meter rate. Depth minus eighteen. Minus seventeen. The creature was curious, or it was following a signal that had arrived in its network when Frederick kicked and hadn't resolved yet. He kept his hand on the throttle and his eyes on the passage mouth.
+
+The platform crossed into the warm passage at 1.8 kilometers per hour. The temperature differential hit immediately, the 21-degree ambient of the chamber dropping away as the passage air registered at 23.7 degrees, humid and organic, carrying the same deep earthy warmth as the habitat section above. Gold veins ran continuous lines along both walls and the floor, a lit corridor that narrowed to three meters and curved gently away from the chamber behind them. Mule One and Mule Two cleared the passage mouth. Harold's optics shifted from amber back to blue.
+
+The Living Wall tissue contracted behind the last drone. A quiet muscular movement, the passage sealing from the chamber side with the same smooth efficiency it had shown every time they'd transited a sealed section. The chamber sound dropped away. The water didn't break.
+
+Ethan brought the Auto-Miners back to full rate. The feed chutes filled immediately, stone rattling down into the intake tray with the familiar percussion that had been the background of every hour since the platform had started rolling. The Fabricator's arms accelerated to standard cycle. The platform's production numbers climbed back toward their running baseline on his HUD.
+
+Maria sat back down on the platform's rear section, both palms returning to the floor. She held contact for six seconds before she spoke.
+
+"It didn't follow," she said.
+
+"I know."
+
+"It knew we were taking the passage. It surfaced to see us off." She tilted her head at the angle that meant she was still reading, receiving something through the sealed wall behind them. "It's gone back down."
+
+CelestOS: The biological signature has reversed descent trajectory. Current depth: minus twenty-two meters and increasing. I'm updating my classification of that encounter from 'near miss' to 'deliberate restraint on the creature's part.' I find that significantly more unsettling than the alternative.
+
+"Do you think if we just keep moving they stop showing up?" Ethan said.
+
+Maria looked at him. She didn't answer.
+
+CelestOS: Filed under: things that could have killed us and didn't, which now has more entries than I'm comfortable with. The warm passage runs 2.1 kilometers to the next node. Harold's sweep shows it clear to two hundred meters. Patel's bore team is through the second gauntlet emplacement. Two casualties at the turret. He's through, but he's slowing down. The math still favors continued descent.

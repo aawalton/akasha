@@ -1,0 +1,173 @@
+Ethan stood where the glow had settled into something steady and almost sane. The vent whispered in a slow, satisfied rhythm behind him. The air looked cleaner and his breathing had calmed from his earlier mood, which meant his brain was finally allowed to start doing math again instead of panicking.
+
+5,000 rough stone. That was his next goal.
+
+He stared at the recipe and let the weight of the number sit there. Five thousand wasn't a problem, it was a job. Jobs have rules and rules have sequences. He rubbed the bridge of his nose and gave himself the real truth: a Fabricator changes everything. He wouldn't have to carve ducts by hand again or hack plates into new shapes with a multitool. He could start mass producing components: storage, tools, shields, real systems, not just prototypes.
+
+He crouched beside the stone pile he’d collected while building the vent, feeling its heft and roughness. A Fabricator meant he could turn this planet into parts.
+
+“Step one,” he said. “I need a mountain in here.”
+
+[Rough Stone: 830]
+
+He grunted. Pathetic.
+
+CelestOS chimed in from a polite distance that sounded smug anyway.
+
+CelestOS: Initiating goal definition. You require a Fabricator. A Fabricator requires 5,000 rough stone. This is called ‘a constraint’. Humans respond well to these.
+
+“Define respond well.”
+
+CelestOS: You tend to whine first, build second, and then celebrate as if whining contributed the end result.
+
+He smirked despite himself. His hand rested at the seam where the wall’s jade glow met the stone floor. It had a pulse, a presence. He wasn't pretending it wasn't reacting to his fire, but he wasn't quite sure what to do. The generator hum still felt like the room was breathing. But this was his base, his space. He would set the rules. The Fabricator would be born on rails, not fused to a sentient substrate. Never again would he weld a machine directly into an alien body.
+
+“Need an isolation pad,” he said softly. “Stone sleepers under the feet. We level the floor so the Fabricator sits on us, not this.”
+
+CelestOS: Distinguishing between floor and creature is a wise step. Philosophically and legally.
+
+He looked at the pile he already had. It would be the foundation stone, the seed pile. When he hit 5,000, the Fabricator would be placed here. And then he’d figure out the logistics of automatic mining once again. And finally, this wretched cave would stop being an improvised triage ward and become the shop floor it was always meant to be.
+
+He stood and rolled his shoulders. Every fiber of his body said: you can do this because you’re not dying anymore. You can do this because you’ve done it before.
+
+He loosened one glove and flexed his fingers. His hand still shook a bit, not from fear, but more like the leftover tremor of someone who has been running on adrenaline too long. He closed his eyes for a second and let another old voice surface: Maria. This was the version of her in the clean-light workshop on Luna City right before the mission to Veslaya, the one who squinted at his first ever chassis mock, not the one in trauma, running, or hunted.
+
+She’d tapped his hand once and said, “Start with the infrastructure. What you’re building only matters if it has a home that can support it.”
+
+He’d laughed at the time because he was a moron in love. He’d wanted to start with the gun, or the drill head, or something that made sparks and noise; despite all the time he’d wasted on a degree. She’d dragged him back to the baseplate and made him lay out anchor mounts.
+
+Now, years later in a cave where the walls breathed, he could finally admit out loud she’d been right. A Fabricator wasn't a machine. A Fabricator was a beginning.
+
+He felt the idea lock in. It clicked smoothly, without drama, exactly the way truth usually arrives when the body stops screaming long enough for the mind to speak like an adult.
+
+“We’re not printing toys,” he whispered. “We’re building the floor that lets every future thing exist without friction and pain.”
+
+CelestOS: Poetry detected.
+
+He snorted. “That’s called architectural thinking. It’s what gets you to scale.”
+
+CelestOS: Correction. It is what gets you budgets, and administrative oversight.
+
+He let the banter slide. He wasn't in that headspace anymore. He pressed his palm into the stone pile, feeling the promise in it. He opened his eyes.
+
+Time to turn this cave into the first square meter of a new factory, a new civilization. The walls pulsed once, a gentle golden thread rolling under the green.
+
+He whispered, “Yeah, I saw that. And no. You don’t get a vote.”
+
+CelestOS: Advisory. A quarry loop of four cycles, approximately 1,200 stone per cycle, will meet the requirement in a timely manner. Return intervals shouldn’t exceed thirty minutes to maintain resource capture efficiency.
+
+“Four cycles with breaks in between,” he said. “That’s a plan. I like breaks. But how am I going to get so much stone back here? That wall is getting farther and farther away.”
+
+CelestOS: Suggestion. Construct a sled. Drag efficiency up to twelve percent, depending on surface friction.
+
+“A sled?” He rubbed the bridge of his nose. “We’re doing this like the pyramids now?”
+
+CelestOS: Pyramids represent an early example of successful quarterly deliverables.
+
+He snorted.
+
+Fine.
+
+He opened the CelestiCraft interface. One iron plate. A hundred units of stone through Ex Nihilo. The plate flashed complete, warm in his hands. He set it down, bent the edges with his knee, and gave it a lip on one side. It was crude, but it would slide.
+
+“Congratulations,” he said. “I’ve reinvented children dragging a trash can lid down a hill.”
+
+CelestOS: Excellence scales.
+
+Before he started up the Auto-pick he had a few last minute to-dos. He checked the canteens, tapping them. In his short time back, he had managed to drink half of one. But he knew he’d be fine, and could likely make it back to the lake in an emergency if the condenser didn't hold up. He had water, the vent had power, and the base had air to maintain that power.. He could finally afford to think in units bigger than minutes. He could think in systems again.
+
+He pointed at the seam that had moved for him.
+
+“We’re building a factory,” he told the wall. “Just in case you were wondering what comes next.”
+
+The wall pulsed again, lazy and indifferent.
+
+“Let’s get the stone,” he said. “All of it.” The words felt like a promise, and not to himself.
+
+“Echo scan on rolling nine,” he said.
+
+Harold chirped, compliant. Blue wireframe geometry flickered across Ethan’s vision for a second, then the map glitched in a way that wasn't random, more like a shrug. Despite the progress, the map still didn’t work even here. Whatever this thing was, it didn’t like Ethan poking around.
+
+CelestOS: Inertial mapping remains unstable. Corridor topology doesn't agree with itself. Please establish anchor points.
+
+Yet another planned mapping exercise failed before it could even get off the ground. He sighed. He had been hoping that leaving a map marker at the lake, which Celestos did whenever he slept, would allow him to pinpoint the lake now that he was back on the other side. He shrurgged, and moved toward the autopick. It was a problem for future Ethan.
+
+The Auto-Pick hummed in his glove at medium speed. He dropped to a crouch and set it to bite the softer rib of stone jutting from the floor. The three heads hit their rhythm: tat-tat-tat. It was fast enough to feel aggressive but not mindless, more like the confident pace of a professional who knows exactly what he’s cutting.
+
+Chunks came free as the floor yielded. He knocked them into the sled and watched the tally rise on his display.
+
+[Rough Stone: 900 → 1,040 → 1,180]
+
+He could feel his pulse settle into its new job. This wasn't desperation; it was production.
+
+“Feels good to earn a number again,” he said.
+
+CelestOS: Please maintain ergonomic posture. Injury would delay our quarterly goals, and .
+
+He snorted. “Quarterly. Jesus. We’re still on hour thirty-something of ‘trying not to die.’”
+
+CelestOS: Excellence scales.
+
+He shoved the sled forward. A soft flexion in the wall ahead tightened like a throat clearing. The corridor bent left in a way that disagreed with geometry but didn't feel hostile, just inattentive.
+
+He laid another cairn. Three stones down, one stone forward. That was the rule. If the walls changed around him, he’d know because the stones wouldn't be where they belonged anymore.
+
+He dug again. He felt the muscle burn in his forearm and his shoulder working but cooperating. The Auto-Pick shaved stone in a confident, medium tempo. Harold’s beam flicked ahead, scanning seams for the next vein.
+
+Another load, another drag.
+
+[Rough Stone: 1,180 → 2,020 → 2,420]
+
+He paused to check his bearings. He was far enough now that the new mining spot had turned into a corridor and he was beginning to forget where the cave had been. His cairns curved backward in a line that was no longer perfectly straight. Some leaned sideways like they were tired of pretending up and down were real concepts.
+
+“Noted,” he said. “Time to return.”
+
+Harold chirped twice in agreement.
+
+He turned back and followed his stones. They were crooked, but they still led to the seam. He almost said thank you to them, then stopped, heat blooming behind his eyes. Jesus. He was starting to attribute intent to rocks. That was how miners went weird.
+
+He exhaled through his teeth. “Okay. That’s a flag.”
+
+Maybe it was time for a nap.
+
+–––
+
+The base appeared slowly, then all at once: the vent glow, the scavenged crates, the little draft from his condenser.
+
+He unloaded half the sled. The pile looked like the start of a real industrial yard instead of a survival mound.
+
+[Rough Stone: 2,420 stored]
+
+He topped his canteen and took three slow sips that were disciplined and scientific, not indulgent.
+
+“Cycle one,” he said. “Done.”
+
+CelestOS: Excellent. Three cycles remain. Probability of completion: rising. Probability of hubris: guaranteed.
+
+He grabbed the sled again and turned toward the corridor that always wanted to be a different shape every time he blinked.
+
+“Let’s see if you still remember your own curve,” he said.
+
+And stepped back in.
+
+He spent the next hour hauling loads until the pile reached his knees. Sweat slicked his neck. The air in the chamber turned humid and heavy, smelling faintly of iron dust. He crouched beside the heap, pulled off his gloves, and spread his fingers through the rough stones. Every ridge and grain felt earned. It was time to make them mean something.
+
+He paced the perimeter, measuring by stride. The space needed to be level and insulated, a patch of order carved into the body of something that refused to acknowledge geometry. The green wall’s light had dimmed to a patient glow, as if it was waiting to see what he’d do next. He set his boot against the stone floor and began sketching an outline with a fragment of chalk-colored dust.
+
+“Two meters wide, three long,” he said. “Centerline toward the vent. Keep clearance from the wall in case it gets hungry.”
+
+CelestOS: Advisory: installing heavy machinery on a living surface may void your warranty.
+
+“Then we make our own warranty,” he said.
+
+He shoveled fines into low spots, tamping them down with the flat of a plate. Each hit raised a puff of gray mist that glowed faintly in the vent’s light. The floor wasn't perfect, but it was honest. He embedded the first row of stones, pressing them into the packed fines until they locked. Sleepers, he decided. The foundation of a factory that would never get corporate approval.
+
+[Rough Stone: 4,820 → 4,500]
+
+Harold trundled forward, projecting a grid across the floor to mark the rail lines. Ethan laid down scavenged scrap plates along the grid, aligning edges by sight. Each plate went over a bed of fines and sand to break contact with the green substrate, a layer of mechanical doubt between him and the unknown.
+
+CelestOS: I commend your effort to prevent symbiosis. Anthropologists call this “healthy boundaries.”
+
+He grinned without looking up. “Yeah, I’ve been in bad relationships before.”
+
+The plates rang softly under his hammer, dull and solid. He stepped back, rolling his shoulders, and judged the pad. It was straight enough and strong enough. When the Fabricator rose, it would sit on human engineering, not the skin of the planet.

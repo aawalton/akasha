@@ -1,0 +1,143 @@
+The newly forming medical bay hummed around them as the ore cores pulsed violet. He had two cores, one shot, no margin, and a failing clock. Ethan started designing the device that would have to be perfect.
+
+He pulled up the Fabricator's design interface and stared at the two frequency values hanging in the air between him and the woman carrying his child: 447 Hz and 290 Hz. These two numbers couldn't coexist in the same treatment cycle without destroying one of his patients. At least, that was according to the schematics he had pulled up in front of, and a bit of corpopeak gibberish prefacing the schematic for the scanner. So instead of using something from the higher level recipes Celestitech had provided to Celestos, he would have to make his own.
+
+He started from scratch with a concept, scratched out in holographic wireframe on the Fabricator's adaptive display. The device needed to deliver Syntropic cure energy at 447 hertz to neutralize Maria's infection while simultaneously providing controlled stabilization at 290 hertz for their unborn child before the maternal frequency could destabilize the placental barrier. Those two resonances couldn't overlap. Even brief harmonic coupling would collapse both treatments.
+
+The system would have to maintain strict phase separation between channels while sharing a single ore core, dynamically allocating exposure without drift or resonance backwash. It was a matter of never letting the frequencies touch. It needed to sustain that balance for the full treatment duration, which CelestOS estimated at eight to twelve minutes, using ore cores he couldn't afford to waste.
+
+And it needed to do all of this while being powered by ore cores he couldn't afford to waste, because there were only two and the nearest replacement sat at the bottom of a lake guarded by a mountain that wanted them back.
+
+He rotated the wireframe with his fingers. The concept was theoretically simple except for every single part of it: two resonance channels fed by one ore core, each requiring absolute isolation in phase space. The problem was preventing them from ever coexisting in a way that would tear the system apart.
+
+CelestOS: I've taken the liberty of cross-referencing your design concept against all available Celestitech medical schematics and historical case studies involving dual-patient Syntropic therapy.
+
+"And?"
+
+CelestOS: The cross-reference returned zero results. You are, to my knowledge, the first person to attempt this. Congratulations. Your medical innovation will be either groundbreaking or catastrophic, with no statistical middle ground.
+
+Ethan pinched the bridge of his nose. "Walk me through the switching problem."
+
+CelestOS: Gladly. The phase isolation you require exceeds the Fabricator's standard resonance control tolerances by a factor of twelve. No existing schematic supports dual-channel Syntropic delivery from a shared core without harmonic coupling. You're asking me to help you build a musical instrument that sustains two notes from the same string while ensuring they never resonate together.
+
+"Then we build a new instrument."
+
+CelestOS: From what? Your material reserves are at emergency minimum. Iron plates: four. Copper: zero. Silver wire: zero. Power cells: two. You have, in essence, the contents of a disappointing toolbox and an admirable refusal to acknowledge reality.
+
+"So we just wait on the factory to supply it."
+
+Ethan ignored the ticking clock and focused on the wireframe's primary needs: the resonance channels and the switching mechanism. The channels were straightforward, just resonance conduits tuned to specific frequencies using the quartz lens arrays he'd already built into the medical bay. The splitter was harder. It needed to divide a single Syntropic energy stream from the ore core into two clean outputs without crosstalk or harmonic contamination. Any bleed between channels would create a third frequency, a hybrid resonance that CelestOS had already flagged as potentially lethal.
+
+The isolation mechanism was the wall. Maintaining two active resonance paths without bleed required control tolerances tighter than anything his available components could support.
+
+Electronic regulation would demand precision oscillators and feedback controllers his Fabricator couldn't produce. Mechanical isolation was theoretically possible, but only with machining tolerances far beyond what hand-fabricated iron could achieve. Any instability, even a momentary phase slip, would produce a hybrid resonance CelestOS had already flagged as potentially lethal.
+
+He stared at the wireframe until his eyes burned. The two frequency values floated beside it like sentencing options:
+
+[447 Hz: Maternal Treatment | Channel A][290 Hz: Fetal Stabilization | Channel B][Phase Overlap Tolerance: Zero][Available Precision Components: 0][Available Alternatives: Unknown]
+
+Maria was watching him from the examination platform. She sat with her legs drawn up and her good hand resting on her stomach. The resin veins along her neck pulsed faintly in the violet light of the ore cores. She knew what the silence meant, understanding that he was stuck.
+
+"The channels I can build," Ethan said quietly. "The splitter I can probably engineer from the quartz arrays. But the switching mechanism needs components I don't have and can't spend the time to fabricate. I'm still going to try and find the time, but fuck were already out of it.."
+
+Maria nodded once. She waited the way she'd waited during mission briefings when the intelligence was bad and the options were worse: with patience, and with the expectation that someone in the room would find the answer.
+
+Ethan turned back to the wireframe and rotated it again. He tried a different approach. What if the channels operated simultaneously, handling the switch at the delivery point using a merge valve that combined both frequencies into a single output stream, with phase alignment controlling which frequency dominated at any given moment?
+
+CelestOS: Phase-aligned dual-frequency delivery requires real-time waveform monitoring and adjustment. The medical bay's sensor suite can monitor but can't adjust at the required speed. You would need a feedback controller operating at sub-millisecond resolution.
+
+That was a dead end, so he tried again. What if the ore core itself could be physically divided into two pieces, each tuned to a different frequency through selective resonance dampening?
+
+CelestOS: Splitting an active Syntropic ore core would release uncontrolled resonance energy equivalent to approximately 4.7 kilojoules. In an enclosed space, this would result in immediate structural failure of the medical bay and probable fatality for all occupants. I can't recommend this approach with sufficient emphasis.
+
+It was another dead end. He scrubbed both hands down his face and exhaled. They only had three and a half hours left, and Maria's infection was climbing while he stood here rearranging wireframes that didn't work.
+
+"You're overcomplicating it."
+
+Maria's voice came from behind him, quiet but certain. He turned. She'd shifted on the platform, leaning forward now with her forearm braced across her knee. The posture was familiar. He'd seen it a dozen times during late-night engineering sessions on the Perseverance, back when she'd watch junior engineers chase elegant solutions past their deadline and cut through the noise with whatever ugly, functional answer they'd been too proud to consider.
+
+"You're thinking like a mechanical engineer, focusing on precision components and phase controllers," she said. "You're trying to build a machine that forces the ore to behave."
+
+"Because the ore needs to behave."
+
+"No. It needs to be listened to." She pushed herself off the platform slowly, compensating for the tilt in her balance with a hand on the rail. The movement cost her, though she concealed the pain beneath a tightening at the corner of her jaw. She crossed to the Fabricator and studied the wireframe.
+
+"Day sixty-one on the surface," she said. "Thorne ran the first ore sample through our fabrication bay. It was the same problem you hit during the calibration earlier. The analysis stalled at about sixty percent because the resonance wasn't static. Thorne spent two hours trying to force a complete profile through computational brute force. Amplifiers and recursive sampling. Everything failed." She tapped the splitter housing on the wireframe. "Brown walked by, leaned on the analysis tray by accident, and the profile jumped to ninety percent. His body heat changed the crystal's resonance output. The ore was waiting for biological input."
+
+Ethan stared at her. "You're saying the ore responds to proximity. We already established that during calibration."
+
+"I'm saying you already solved this problem once today and you're missing it." She pointed at the resonance dampener seated in the medical bay's central housing. "When you calibrated that dampener, you put your hand on the ore sample and the analysis completed instantly. Your Syntropy integration gave the ore the biological anchor it needed to manifest its full waveform. The ore listened to you."
+
+"Right. One frequency. One anchor."
+
+"Two frequencies," Maria said. "Two anchors."
+
+The wireframe hung between them. Ethan looked at it and at Maria. The idea assembled itself before he could argue with it.
+
+There were two channels, each tuned to a frequency and anchored by a biological signature instead of a mechanical switch or an electronic oscillator. He would place his hand on the first channel, letting Maria anchor the second. The ore would read their Syntropy signatures, his suit-integrated and hers biologically residual, and auto-tune each channel to the correct frequency. The switching would happen entirely through them.
+
+"You want to use me as the tuning mechanism," Ethan said.
+
+"I want you to stop trying to build a machine that does what biology already does better. The ore needs people who are already part of its resonance network to, well, work."
+
+CelestOS: Maria's hypothesis is consistent with observed Syntropic behavior. Biological anchoring eliminates the need for precision switching components entirely. Each channel would self-tune to its anchor's resonance signature, and the alternation between treatment frequencies could be managed through controlled contact cycling.
+
+"Controlled contact cycling," Ethan repeated. "Meaning the ore follows a dominant biological anchor, shifting resonance states based on proximity and coherence instead of mechanical timing."
+
+CelestOS: Manual phase dominance by two separate operators isn't biologically feasible. Competing anchors would introduce instability rather than control. The system requires a single, coherent biological signal capable of sustaining both resonance signatures without conflict.
+
+Maria closed her eyes. When she opened them, the engineer was still there but something behind it had shifted. "It can't be two separate operators," she said. "It has to be one. One person carrying both frequencies."
+
+Ethan went very still, looking down at his hands. During the resonance dampener calibration, he'd placed his palm on the ore and the full waveform had completed because his Syntropy-integrated biology was already part of the ore's resonance network. His suit had been rewritten by Syntropic energy back on the surface. His nervous system carried its signature like a second heartbeat.
+
+He carried two frequencies. He'd been treating Maria since the moment he surfaced with the ore. His biology had been saturated with her 447-hertz resonance signature for hours. And the baby had been broadcasting 290 hertz through Maria's body and into the walls and the air since the moment they'd identified the pregnancy. Ethan had been breathing both frequencies since he'd climbed out of the lake.
+
+He pressed his palm to the nearest ore core. Violet light pulsed beneath his fingers.
+
+CelestOS: Detecting dual-frequency resonance within operator Syntropy field. 447 Hz: confirmed. 290 Hz: confirmed. Both signatures are present in your biological integration matrix.
+
+Maria watched him with an expression he couldn't fully read. It was something between hope and horror.
+
+"You're carrying both of us," she said quietly. "You've been carrying both of us this whole time."
+
+Ethan pulled his hand away from the ore. The light dimmed but the warmth lingered, a phantom pulse in his fingertips like the afterimage of something alive.
+
+"I need one anchor that holds both frequencies and alternates between them," he said. "The switching mechanism is me."
+
+CelestOS: Correct. If you can modulate your Syntropy output between 447 Hz and 290 Hz at the required interval, the ore will follow your biological signal. The setup requires zero mechanical or electronic precision components. Just one exhausted, Syntropy-integrated human being operating as a living frequency modulator for eight to twelve continuous minutes.
+
+"Can I do that?" Ethan asked.
+
+CelestOS: Unknown. No human being has attempted deliberate Syntropy frequency modulation. Your suit's integration is the most advanced instance of human-Syntropic bonding in recorded history, which is a dataset consisting entirely of you. There is a complete lack of historical precedent and safety data I'd be comfortable sharing.
+
+"Share it anyway."
+
+CelestOS: Estimated probability of successful sustained dual-frequency modulation without neurological damage: thirty-one percent. Estimated probability of partial or catastrophic operator failure: sixty-nine percent.
+
+The numbers hung in the air. Ethan read them once and dismissed the display.
+
+"And if I don't try?"
+
+CelestOS: Maria's infection reaches critical mass in approximately three hours and fourteen minutes. Without treatment, systemic collapse follows within six to eight hours. The placental barrier fails at approximately seventy percent integration. At current rate of progression, that threshold is reached in four hours and forty-one minutes.
+
+Maria's hand found his forearm. Her grip was steady, but her fingers were warm, too warm, fever bleeding through skin. "There might be another way," she said. "We could explore other options."
+
+"You already know the truth." Ethan covered her hand with his. "That's why you suggested it."
+
+She held his gaze. The violet light from the ore cores reflected in her eyes, and beneath the fever and the careful discipline of a woman who had survived six months of hell, he saw the deep trust she'd been holding back since the diagnostic. The specific, terrible trust of a person handing their life and their child's life to someone they believe in more than the math supports.
+
+"Build the device," she said. "Make it so the only part that has to be perfect is you."
+
+Ethan turned back to the wireframe. He stripped the mechanical switching assembly and the dual-operator framework, discarding everything elegant and safe. What remained was crude and honest: two quartz-focused resonance channels fed by a single ore core through a splitter housing, converging at a contact point designed for his hands.
+
+He cracked his knuckles, opened the Fabricator's build queue, and spoke. "CelestOS, load a new schematic for a Dual-Channel Syntropic Modulator, Mark Two, using single-operator biological switching, and flag it as experimental."
+
+CelestOS: Flagged. I've also taken the liberty of adding a secondary classification: 'Inadvisable.' For the record, this device is the engineering equivalent of performing heart surgery with a tuning fork and good intentions. Shall I log your next of kin?
+
+"Log that I'm starting the build. And keep the clock visible. I want to see every minute we have left."
+
+[Treatment Window: 3 Hours, 11 Minutes][Infection Integration: 77.4%][Fabricator Queue: Dual-Channel Syntropic Modulator Mk.II | Components: 0/8][Status: Design Phase Complete | Build Phase Initiated]
+
+Maria eased herself back onto the examination platform and pulled up the power distribution interface on her console. Her fingers hovered over the keys, beginning to move in short, precise bursts. She was already writing the power routing for the new device before he'd placed the first component in the Fabricator's tray.
+
+They remained silent, understanding each other perfectly as the Forge hummed and the Iron Loop rattled. Ethan started building the device that would either save his family or kill him trying.

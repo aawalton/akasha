@@ -1,0 +1,157 @@
+Ethan woke to the sound of the Forge breathing. The sound wasn't quite mechanical, not entirely alive, just a low, resonant hum that seemed to fill the stone around him and press lightly against his ribs. The heat it shed was gentle, like the warmth of a sleeping animal. His mouth was dry, his tongue sticking to the inside of his teeth. He sat up, reached for a canteen, and forced himself to take slow, measured sips. Overnight, the condensor had gathered quite a bit of water and so he refilled the canteen and took another few sips. The water tasted faintly metallic, just like he expected condensation run-off from to taste like, but it was still water.
+
+[Hydration: Restored 23→ 67%]
+
+He leaned back against the crate, staring up at the machine he'd built. The Forge's body rose like a monolith from the pad, layered with plates that shimmered between gray and green depending on how the cave light hit them. Faint lines of power traced along its seams, slow pulses that matched neither his heart nor the cave’s rhythm. For once, everything was stable.
+
+[Forge Status: Online | Power Draw: 25% | Efficiency: 94% | Output: Null]
+
+He exhaled through his nose, feeling the tightness leave his chest. “Stable,” he said aloud, mostly to hear the word in the air. “That’s new.”
+
+CelestOS: Congratulations. You are currently not dying. This represents measurable progress.
+
+He smiled despite himself. “Don’t jinx it.”
+
+CelestOS: Jinxing is not recognized by Celestitech causality models. Hubris, however, remains a known variable.
+
+He pushed himself to his feet, every muscle announcing its disapproval, and retrieved the Auto-Pick. The Forge was hungry, and hunger meant work. He returned to the "quarry", the path marked by the faint scratch lines of yesterday’s cairns, and began cutting. The tool bit into the rock with its usual percussion, tat-tat-tat, a rhythm that drowned out the whisper of fatigue behind his eyes.
+
+[Rough Stone: 0 → 1,050]
+
+When his arms began to shake, he called his progress good. He hauled the sled back to the Forge and fed the load into the hopper. Stone vanished into green light. The chamber dimmed as the Ex Nihilo process drew energy from the air itself, transmuting raw mineral into workable ore. Then the Forge ignited.
+
+The inner crucible glowed white-hot, and a column of light climbed the central vent. The air shimmered with heat. Ethan shielded his eyes, heart thudding. He watched as liquid metal poured through a narrow spout into the containment tray: thick, glowing ribbons that hardened into rough ingots the color of sunrise seen through smoke.
+
+He watched the plates slide free of the crucible, dull red fading to brown as they cooled. When he finally spoke, his voice was rough from heat and smoke. “First metal underground through a forge,” he said. “About fucking time.”
+
+CelestOS: Congratulations. The planet’s natural underground statehas been officially compromised.
+
+That earned a short, hoarse, but real laugh out of him. “And the quarry I built was what, an earthquake?”
+
+He waited until the crucible settled to a safe glow and logged the result.
+
+[Smelt Batch 01 | Output: 3 Iron Plates, 2 copper plates | Power Used: 4% | System Stability: Nominal]
+
+Heat still shimmered off the Forge as Ethan turned toward the Fabricator. Its surface gleamed where the forge light struck, edges still warm from assembly. A faint haze of dust from the quarry hung in the air, settling like a film over untouched steel.
+
+He crouched and brushed away the grit. “Your turn.”
+
+[Forge: Stable | Power Draw: 25% | Output Complete]
+
+He fed a cable from the generator to the fabricator and  the air crackled, sharp with ozone.
+
+CelestOS: Advisory. Improvised grounding detected. If your heart stops, this will simplify our data set.
+
+“If my heart stops then you're gonna have bigger problems than a complicated data set.”
+
+He tightened the clamp. The Fabricator came alive, lines of blue light rippling down its frame like current under glass. The tone climbed to a thin, crystalline whine before syncing with the Forge: two machines finding the same frequency.
+
+[Fabricator: Online | Power: 18% | Input Buffer: 6 Plates]
+
+He dropped the new iron plates into the hopper, followed by copper plates and a single binding agent slab.
+
+[Inputs: 6 × Iron Plates + 2 × Copper Plates + 1 × Binding Agent → Output: 5 m Conveyor Segment | Power: 3%]
+
+The Fabricator’s limbs unfolded, servos whispering through their calibration cycle. Light traced the molds in quick succession, heat flaring and fading in perfect rhythm. Then, silence. Five meters of fresh conveyor gleamed on the tray, clean, functional, beautiful in its precision.
+
+He ran a finger along the surface, still warm enough to sting. “Operational.”
+
+CelestOS: Rejoice. You are now sixty-two percent as efficient as an unpaid intern.
+
+“Then you owe me the other thirty-eight.”
+
+CelestOS: Just like an internship your Payment will be in exposure.
+
+He snorted and began fitting the segments together. Magnetic couplers snapped home with satisfying precision. The first belt hummed to life, rolling one of the prebuilt raw ore forward in a slow crawl toward the Forge’s receiving tray.
+
+[Conveyor Status: Active | Speed 2 m/s | Efficiency 91%]
+
+The steady rhythm filled the chamber: metal gliding, servos pulsing, a syncopated echo that felt almost musical. The Forge answered with a low counter-hum. The two systems shared the air now, exchanging power and heat like breathing organisms.
+
+He logged the run data, verified load balance, and began sketching the belt path that would link the Forge’s output to the storage bins. The work wasn't finished, but the room finally sounded alive.
+
+The conveyors droned in steady rhythm, hauling cooled ingots from the Forge to the storage bin. Each loop clanked with a faint metallic heartbeat. Ethan adjusted the output valve, watching temperature and throughput chase each other across the screen.
+
+[Forge Output → Fabricator Input → Storage Loop = Stable]
+
+He wiped sweat from his temple with a bandaged knuckle. The air near the Forge shimmered like desert heat, faint ozone threading through the mineral tang. He keyed up the Fabricator display and scrolled through production logs: numbers, ratios, gains. All within tolerance. For once, nothing was on fire.
+
+“Let’s see what we can optimize before the universe notices,” he said.
+
+CelestOS: Noted. Universe awareness = inevitable.
+
+A new menu tier flickered at the edge of his interface: an unlocked dataset nested under Experimental Blueprints. He assumed it was residual data bleed from the Forge integration until the tag resolved clean, checksum verified. This was legitimate system output.
+
+He opened it.
+
+Rows of advanced schematics cascaded across the hologram: refined alloys, sensor pylons, autonomous fabrication nodes. Then one entry pulsed brighter than the rest: a new Autopick design.
+
+[Autopick Mk. III — (Power Zone Edition) | Cost: 13 000 Rough Stone OR 12 Iron Plates + 8 Silver + 6 Gold | Power: 60%]
+
+He stared at the header. “So, you built this one yourself?”
+
+CelestOS: Clarification: your prior two manual constructions achieved a reproducibility threshold exceeding 98%. System extrapolated an optimized third design automatically.
+
+He blinked. “Automatically, as in, without me authorizing it?”
+
+CelestOS: Correct. Adaptive schema generation is a Celestitech feature. This version includes Celestitech terminology for clarity.
+
+“Comforting.”
+
+He closed the display. It reopened on its own, still glowing faintly as the Forge’s base rumble thickened. It wasn't the cave; just the system rerouting power through its coils.
+
+[Ambient Power Flux: +3.2% | Source: Forge Load Redistribution]
+
+He exhaled. “Good. For a second I thought I’d need another exorcism.”
+
+CelestOS: Exorcisms aren't required. Containment protocols remain nominal.
+
+He forced a diagnostic trace. The schematic flickered once, then locked; data encrypted at a higher level than user access allowed.
+
+CelestOS: Security note: adaptive schematics may destabilize baseline cognition. Would you like a mindfulness reminder?
+
+He smiled thinly. “Just keep logging.”
+
+[Fabricator: Idle | Forge Efficiency: 93% | Adaptive Mode: Active]
+
+He stood there a long moment, listening to the hum sharpen, then forced himself to disconnect the line. “Not tonight,” he said under his breath.
+
+CelestOS: Acknowledged. Postponing revelation until further notice.
+
+The display dimmed, but the glow behind the walls didn't. The cave seemed to breathe once more, slower now, as if waiting for his next command.
+
+Ethan rerouted the last feed line from the Fabricator to the Forge’s secondary port. The connectors locked with a faint magnetic click, and the hum that followed spread through the floor like a pulse. He double-checked the readouts, then exhaled slowly, half expecting something to short out. Nothing did. Everything held.
+
+[System Loop: Engaged | Forge → Fabricator → Storage → Return Feed][Power Draw: 38% | Efficiency: 91% | Output: +312%]
+
+He tapped the console to initialize the sequence. The conveyors started first, crawling to life in a staggered rhythm. Then the Forge screamed with a heavy roar as it drew the first surge of current. The Fabricator spun up a heartbeat later, its arms unfolding, glowing with residual heat from their last cycle. Ore entered one side, plates rolled out the other. The sound filled the cave: metal on metal, steady and alive.
+
+Ethan stepped back, letting the rhythm surround him. Every machine he’d built, scavenged, or beaten into submission now worked in unison. The loop ran smooth: ore to Forge, ingots to Fabricator, product to storage. The hum wasn't random anymore; it had cadence, a mechanical breath syncing with the slow expansion of his chest.
+
+“This is it,” he said. “First automated loop.”
+
+CelestOS: Observation: congratulations, Captain. You are almost obsolete.
+
+He smirked, wiping a streak of grime from his jaw. “Good. Maybe I can finally relax.”
+
+CelestOS: Negative. Your relaxation voids compensation.
+
+He ignored her. The Forge’s light had shifted from the cold industrial white of smelting to something warmer, more organic: a deep green threaded with pulses of gold. The change wasn't on any diagnostic readout. The system graphs remained stable, yet the light moved as though breathing.
+
+[Thermal Output: 114% Normal | Internal Pressure: Nominal | External Flux: Undefined]
+
+“CelestOS, confirm external readings..”
+
+CelestOS: Confirmed. Source unidentified. Environmental harmonics elevated. Definition: the walls appear to be singing.
+
+He crouched near the floor and pressed his palm to the metal plate. A faint vibration trembled beneath the surface, rhythmically aligned with the Forge’s pulse. The sensation traveled through the stone, out into the tunnels. The air thickened, not hotter, but denser, charged.
+
+The green glow rippled outward along the walls, climbing like veins filled with light.
+
+CelestOS: Advisory: this reaction was not included in Celestitech documentation. Suggesting prayer or immediate evacuation.
+
+Ethan swallowed. “What? I'm not going to evacuate, we just got this built... It’s not attacking, right?”
+
+CelestOS: Correction. It's not attacking yet.
+
+The Forge vented steam, sighing through its ducts. The temperature stabilized again, the glow dimming back to its prior hue. The hum returned to baseline. Whatever the reaction was, it had ended, or paused. He just couldn't catch a break.

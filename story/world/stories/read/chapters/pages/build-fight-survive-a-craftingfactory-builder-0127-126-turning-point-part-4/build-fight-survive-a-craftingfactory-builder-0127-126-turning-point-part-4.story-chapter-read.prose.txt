@@ -1,0 +1,187 @@
+Ethan stood at the Fabricator’s console and worked backward through the build order, stripping each dependency to its root. The factory had gone together in layers of power, processing, conveyance, and defense. Taking it apart meant reversing that stack without losing anything to thermal shock, residual charge, gravitational shear, or the Living Wall’s tendency to bond with stagnant mass. He pulled up the build queue to clear it.
+
+“Conveyors first,” he said, already moving. “Kill the feed lines so nothing’s running when I pull the smelters. We lay belt into the passage and let it carry the heavy hardware down.”
+
+Maria looked up from the sled she had been organizing. “How are you handling the incline?”
+
+“The Celestitech belt has a braking mode built into the rollers,” Ethan said. “I flip the motor polarity on the downhill segments and they slow the load instead of pushing it.”
+
+“Power draw?” she asked.
+
+“Two cells for five hundred meters of active belt, maybe two and a half, and we’ve got six available.”
+
+“Five hundred meters of belt means laying track, locking junctions, calibrating tension, and picking it all back up behind us.” Maria straightened up, wiping her hands on her suit legs. “That’s a lot of hauling for two people and a scout drone.”
+
+Ethan held a conveyor collar halfway off its mount. Two people, one drone, and five hundred meters of gear to move didn’t add up. One of the two people was seven months pregnant. He looked at the Fabricator, Harold, the chassis plating, and finally Maria.
+
+“How fast can we build two worker drones?” Ethan asked.
+
+Maria was already pulling up Harold’s archived schematics on the Fabricator’s console. She stripped the sensor suite, the flight-range package, the atmospheric sampler, and the combat overlay. “We don’t need them to think, just carry. They need magnetic grippers, basic collision avoidance, structural reinforcement, and enough thrust to haul a conveyor bundle.” She rotated the schematic, tagging the component list. “Eight iron plates, four copper coils, two actuator servos, and two power cells each. We’ve got the stock.”
+
+CelestOS: Fabrication time for two stripped-chassis utility drones is fourteen minutes at current power reserves. I should note that Harold appears to be watching this process with what I can only describe as professional skepticism.
+
+Harold tilted his head from the sled rail and clicked twice, his optics cycling rapidly. “He’ll get over it,” Ethan said. “Queue the build.”
+
+The Fabricator hummed. Maria fed components into the hopper while Ethan started disconnecting conveyor junctions, working both problems in parallel. The first drone chassis took shape in the containment field in seven minutes: a blocky frame with four magnetic grippers and stubby thrusters, built for labor and nothing else. The second followed immediately. Maria pulled them from the output tray and powered them on. They hovered at knee height, their grippers flexing in idle cycles as they waited for instructions.
+
+[RESOURCE LEDGER]
+
+[Iron Plates: 142 > 126]
+
+[Copper Coils: 18 > 10]
+
+[Actuator Servos: 6 > 2]
+
+[Power Cells: 12 > 8]
+
+Each line represented a margin they wouldn’t get back.
+
+“Designation?” Maria asked. “They’re mules. Call them Mule One and Mule Two,” Ethan said.
+
+CelestOS: Mule One and Mule Two. Registered. I’ll add them to the asset manifest directly below Harold, who I’m sure will appreciate the company.
+
+Harold clicked once, sharply. The mules ignored the scout drone.
+
+Ethan disconnected the remaining feed conveyors while the mules hovered beside the growing stack of segments. Each junction released with a heavy metallic clunk. Twelve bundles equaled five hundred meters of reusable track. Ethan locked the final collar. The factory was about to move itself.
+
+The smelter lines came next. He killed power couplings, purged the flux lines, vented residual gas, and waited for safe handling temperatures before pulling them off their mounts. The first came free with a groan of stressed metal. The second required a pry bar, and the third held a half-batch of iron ore still glowing in its crucible.
+
+“Run it or dump it?” Maria called from the Fabricator.
+
+“Run it,” Ethan said.
+
+He ran the final cycle, pulled the finished ingots, scrubbed the crucible, and added the metal to the stockpile before disconnecting the unit.
+
+CelestOS: Thermal signature declining. Smelter array offline. Emission profile rests at sixty-two percent of baseline. Patel’s sensors will register the drop within ninety minutes.
+
+“How long before he adjusts his bore vector?” Ethan asked.
+
+Maria answered before CelestOS could process the query. “Depends on their read of the data. If they assume an equipment failure, they stay on course. Identifying an evacuation means widening the pattern.”
+
+CelestOS: Maria’s assessment is accurate. Estimated window is four to six hours before a meaningful correction. I was preparing to state the same conclusion, but with three additional decimal places.
+
+“You keep doing that,” Ethan said, pulling the next smelter coupling free.
+
+CelestOS: Doing what?
+
+“Agreeing with her after the fact. You had the same answer and sat on it.”
+
+CelestOS: I process before I speak. Maria processes while she speaks. The difference is approximately 1.3 seconds and a significant gap in conversational timing.
+
+“So she’s faster than an AI?”
+
+CelestOS: She’s less cautious. There’s a distinction, though I acknowledge the practical outcome is identical.
+
+Ethan grinned at the console. “You could just say she beat you.”
+
+CelestOS: I could also overclock the smelter purge and fill the cave with poisonous gas. Both options involve unnecessary drama.
+
+“Noted.” He set the last component in the staging line. “When we rebuild down there, I want you tracking Patel’s drill. If he changes direction, I need to know before the bit does.”
+
+CelestOS: Already calibrated. I adjusted Harold’s sensor suite for subterranean resonance mapping fourteen minutes ago, while you were still deciding which wrench to use.
+
+“Fourteen minutes ago I was using the wrench.”
+
+CelestOS: And I was planning for the possibility that you’d eventually finish.
+
+The Auto-Miner’s base plate presented the first real obstacle. Four anchor bolts held it to the stone. The Living Wall had fused with each one, threading biological tissue through the bolt channels. Ethan torqued the wrench on the first bolt, meeting solid resistance. “The wall’s bonded to the anchors.”
+
+Maria crossed to the Auto-Miner, placing her palm flat beside the first bolt. Gold veins flared, pulsed beneath her glove, raced to the bond point, and the tissue retreated from the metal. She moved to the next one.
+
+They established a rhythm: her touch commanded the bio-matter to recede while he extracted the hardware. Four anchors secured the Auto-Miner, six held the Fabricator, two anchored each conveyor mount, and four locked the forge base. The wall cooperated every time, retreating faster as they worked. By the ninth bolt, the tissue pulled back before her hand made full contact.
+
+The Auto-Miner came apart in seven subassemblies. Ethan disconnected the piston housing from the impact head, separated the drive motor from the frame, pulled the feed chute free of the conveyor coupling, and unbolted the stabilizer legs one at a time. Each piece went onto the cave floor in a staging line, fasteners bundled and tagged with copper wire.
+
+“Tag the motor leads,” Maria said from across the cave. She’d been watching him work between packing runs. “Left and right. They look identical, but the polarity’s reversed on the secondary coil. You wire it backward, and it burns out the drive in ten seconds.”
+
+Ethan examined the motor leads, recognizing the subtle constraint. He tagged them with copper wire, wrapping one loop for left and two for right. “How’d you know that?”
+
+“Because I burned out three motors on the surface before I figured it out.” She went back to packing. “Learn from my idiocy.”
+
+The forge took longer. Its crucible still radiated heat, and the thermal housing had warped from sustained operation, fusing two vent panels along a hairline seam. Ethan pried them apart with the flat of his wrench, working the gap in controlled increments until the panels separated with a sharp crack.
+
+Inside, the crucible lining bore the layered residue of every smelt batch he’d run: iron, copper, tungsten, and trace gold. He wrapped it in binding agent insulation, secured the perimeter, sealed the contact points, and nestled it heavy-end-down between the smelter units.
+
+While Ethan staged the heavy equipment, Maria loaded the sled with what they’d need within arm’s reach: the medical kit, nutrient bars, six power cells nested in insulation, and the component stock for reassembly. She packed with brutal efficiency, her jaw tightening as she worked, one hand always returning to the rail for balance.
+
+Harold sat on the forward rail with his optics tracking the process. CelestOS had reassigned him to forward reconnaissance with a recalibrated subterranean sensor suite. He acknowledged the new role with a flat, mechanical trill.
+
+Maria pressed her hands to the eastern wall, and the gold veins surged. A seam split in the floor fourteen meters ahead, widening into a dark gap exhaling warm air. The passage opened: three meters wide, two meters high, a twelve-degree descent, and walls of living green tissue.
+
+Ethan laid the first conveyor segment at the passage entrance, locking frame anchors into the Living Wall floor. The biological surface accepted the bolts without resistance. The second segment connected with a heavy metallic clunk, and the third extended the line four meters inward. He worked fast, treating the rhythm identically to laying a feed line between a drill and a smelter.
+
+Behind him, the mules earned their names. Maria directed them with gestures through the Fabricator’s command interface. Mule One ferried conveyor bundles from the staging area to Ethan’s position. The second drone stripped spent segments from the rear, feeding them back into the relay loop. The drones worked in a continuous loop, filling the passage with the steady hum of small thrusters and the clunk of locking segments.
+
+“They’re ugly,” Maria said, watching Mule Two wobble under a bundle.
+
+“They work,” Ethan said.
+
+“I know. That’s why I said it.” She gripped the rail tighter. “We should’ve built these days ago.”
+
+“We should’ve built a lot of things days ago.”
+
+[CONVEYOR DEPLOYMENT: PASSAGE]
+
+[Segments Active: 48m | Recycling: Mule relay]
+
+[Grade: 12° descent | Rollers: Braking mode]
+
+[Surface: Living Wall tissue | Anchor Hold: Stable]
+
+[Drone Status: Mule 1: Delivering | Mule 2: Retrieving]
+
+He ran the belt. The rollers hummed to life, powered by a field cell spliced into the junction at the passage mouth. He’d reversed motor polarity on the descent segments, converting them from pushers to brakes so anything placed on the belt descended at a controlled two meters per second. The first test load was a single iron plate. It caught the rollers, tilted into the grade, and glided down the green-lit passage at exactly his calculated pace. Ethan watched it shrink into the tunnel’s vanishing point, his shoulders loosening a fraction.
+
+He loaded the Auto-Miner’s subassemblies one at a time. The piston housing went first, ninety kilos gliding down the passage on rollers treating the mining hardware exactly like raw ore. The drive motor followed, its tagged leads tucked safely against the housing. The impact head came next, along with the mounting frame, the feed chute, and the stabilizer legs. Maria fed the belt from the staging area while the mules cycled segments behind her. Ethan worked the receiving end forty-eight meters down, stacking each piece against the tunnel wall in reassembly order. The green light of the Living Wall bathed the area in an aquatic hue, and his hands tracked the familiar shapes by memory.
+
+The smelter units followed. The forge components tracked behind them, with the wrapped crucible riding the belt like cargo in a river. The bundled conveyor stock for the next stretch brought up the rear. The Fabricator was last, sitting at four hundred kilos on a belt rated for five hundred. The rollers groaned under the strain, the belt sagged between junction points, the support frames creaked, and the load maintained its forward momentum. The machine descended into the passage with a slow, grinding steadiness that Ethan watched until it disappeared.
+
+CelestOS: Total equipment transfer complete. Time elapsed is twenty-six minutes. Throughput averaged 312 kilograms per minute, which is approximately four hundred percent faster than carrying it by hand. The mules contributed an estimated forty percent efficiency gain over manual segment relay. I’ll file this under the category of procedures we should’ve implemented earlier.
+
+“File it under progress,” Ethan said.
+
+The turrets remained in place. They were staying behind. Maria established the parameter while he loaded the belt: leave them armed, leave them pointing at the ceiling, leave the power cells connected, and leave them everything. Ethan accepted the logic. Three turrets, eight proximity mines, four backup sensors, and 3,800 rounds of ammunition stood pointed at a breach 3.1 days away.
+
+“When he comes through, the turrets fire,” Maria said. “Mines detonate. The initial breach team walks into an empty killbox. By the time the survivors clear the debris, we’re four hundred meters below them.”
+
+Ethan walked the perimeter and set it up. He angled the first turret twelve degrees upward to cover the most probable breach point, above and slightly north where the basalt wore thin. The second assumed a cross-fire position against the eastern wall, its arc overlapping the first by forty percent. The third he placed covering the sealed passage entrance, aimed back into the cave. If the corporate soldiers pushed through the first two guns, the third stood ready to engage them from the rear.
+
+He clustered the proximity mines in pairs at the two entry points, setting the seismic triggers to 200 kilos. A suited corporate soldier weighed 220. Local fauna topped at 80. The math was absolute. He keyed the grid to a standalone power cell with sixteen hours of charge and set all turrets to autonomous engagement.
+
+[DEFENSIVE GRID: AUTONOMOUS]
+
+[Turrets: 3 | Ammo: 3,800 rds | Auto-engage]
+
+[Mines: 8 | Seismic trigger >200 kg]
+
+[Power: 16.2 hrs | Armed]
+
+Ethan took one last look. Conveyor channels sat empty. Smelter mounts held ash. Four clean holes marked the stone where bolts had rested. He cataloged the empty space without hesitation. The factory rested forty-eight meters below him, staged in assembly order. The base served strictly as a weapon now. Five hundred meters of tunnel lay ahead, representing five hundred meters of constraints to solve.
+
+Harold launched from the sled rail and swept the passage entrance, his optics flaring blue.
+
+[PASSAGE SCAN: HAROLD]
+
+[Atmosphere: Breathable | O2: 21.3%]
+
+[Temperature: 18.4°C | Humidity: 62%]
+
+[Structural: Stable | Living Wall tissue]
+
+[Descent: 12° | Width: 3.1m | Height: 2.0m]
+
+[Hostile Signatures: None]
+
+CelestOS: The passage is structurally sound, atmospherically breathable, thermally stable, and conspicuously free of anything trying to kill you. I find the last point highly suspicious.
+
+Ethan grabbed the sled’s pull bar. Maria walked beside him, bracing one hand on the rail while tracing the biological surface with her left glove. The gold veins reacted to their presence, illuminating a forward path. Harold flew thirty meters ahead with steady blue optics. The mules trailed them, maintaining their mechanical retrieval loop. Behind them, three turrets tracked patient arcs across an empty cave while eight mines stood armed. Patel’s drills pressed downward through basalt toward a rapidly fading thermal signature.
+
+The passage sealed behind them. Living Wall tissue closed over the entrance with a quiet, muscular contraction, and the hum of the drills vanished.
+
+Maria glanced back. “It shut behind us.”
+
+“I saw it,” Ethan said.
+
+CelestOS: The wall has sealed the entrance with approximately 1.2 meters of biological tissue. This is either a security measure or a digestive reflex. I’ll update you when I categorize the response.
+
+Ethan kept walking while the conveyor hummed beside them, transporting the final bundled segments deeper.

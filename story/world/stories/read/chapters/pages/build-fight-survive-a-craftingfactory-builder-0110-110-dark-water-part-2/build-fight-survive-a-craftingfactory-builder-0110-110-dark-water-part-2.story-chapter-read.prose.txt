@@ -1,0 +1,131 @@
+The darkness had a texture, a physical weight that pressed against the faceplate of Ethan’s helmet, a heavy velvet that seemed to push back against his presence.
+
+He descended past the fifteen-meter mark and the silence of the lake changed. A low-frequency thrum settled into the water, vibrating against his chest plates, a sound that reached the bone before the ear. It felt as if the lake itself was shivering.
+
+The tether paid out above him, a thin steel lifeline vanishing into murky green gloom. His breath hissed in the recycler, loud and uneven.
+
+The pressure increased as he sank, crowding him, a subtle tightening across the suit’s seals and joints that made every motion feel smaller than it should have been. His ears popped despite the dampeners, phantom echoes of altitude changes existing underwater. The tether drew taut above him with a soft metal complaint, reminding him how far he’d already fallen and how quickly the distance back was growing.
+
+Bioluminescent flecks drifted past his helmet like falling embers, stirred by eddies he couldn’t feel but somehow sensed. The NVG creating strange refractions through the water, breaking light into uncertain angles that made distance hard to judge. The lake behaved like something thicker and heavier, an inverted sky that seemed content to swallow sound and momentum alike.
+
+His mind kept drifting upward toward the Forge, toward Maria hunched over the console, her shoulder burning, the biotrace climbing too fast. Every second he spent sinking was another second she was bleeding calories she couldn’t spare, fighting to stay awake long enough to keep him on the tether. He forced the thought away, but it crept back in again anyway. Failure had teeth down here.
+
+CelestOS: Descent velocity remains within acceptable parameters. Suit integrity stable. Please refrain from sudden accelerations that might compromise emotional composure or skeletal alignment.
+
+Ethan huffed a breath that fogged the inside of his visor momentarily. He flexed his fingers inside the gloves, grounding himself in the tactile feedback of the suit systems. Cold water pressed along the seams. The darkness thickened, and the lake felt like it was leaning toward him.
+
+“Depth?” Ethan whispered. The word sounded too large inside his helmet, booming against his skull.
+
+CelestOS: Depth: eighteen point four meters. Proximity to lakebed: two meters. Note: Ambient radiation levels are trending upward. Current exposure is comparable to “standing inside a microwave,” with the added inconvenience of cold water and existential dread.
+
+Ethan adjusted his buoyancy thrusters, slowing his fall. “Thanks for the imagery.”
+
+CelestOS: Customer feedback acknowledged. Preparing for sediment impact.
+
+His boots touched down and sank an inch into something soft, a thick, silty layer of sediment that had likely lain untouched for centuries. The impact bloomed outward in a slow cloud of gray, swirling around his legs like underwater smoke and swallowing his vision completely.
+
+He froze, every instinct screaming to remain perfectly still. He held his breath, terrified that even the expansion of his lungs might push a ripple through the water that something else could feel.
+
+“I’m on the bottom,” he said, forcing his voice to stay level.
+
+A brief pause followed, stretching long enough to tighten the knot in his chest.
+
+“I see you,” Maria’s voice came back at last. It was thin, flecked with static, a fragile contrast to the AI’s immaculate clarity. “Telemetry’s holding. You’re right on top of the signature. It’s... Ethan, it’s massive. The readings are everywhere. It’s all around you.”
+
+The silt began to thin. Ethan turned his head as the NV goggles whirred to life, their lenses correcting and refocusing, carving the gloom into a grainy green overlay. He was standing in a graveyard.
+
+Great curving ribs of stone speared up from the lakebed, arching toward one another like the skeletal remains of a leviathan that had died and calcified eons ago. They formed a twisted aisle that stretched away into darkness. As Ethan drifted closer, he realized what he was staring at. This wasn’t some ancient collection of bones. They were geodes.
+
+The heart of each massive stone rib was split open, exposing thick clusters of Syntropic Ore that pulsed with faint violet bioluminescence. The glow stained the water, bruised purple shadows filling the surrounding gloom. It was so dramatic he had to lift his goggles.  It was a forest of crystal, vast and jagged, blooming straight from the planet’s crust.
+
+The scale of it only became clear as he drifted farther out from the aisle. The ribs were arches connected beneath the silt, branching corridors of crystalline growth that stretched beyond the reach of his headlamp. No true edges presented themselves.
+
+The glow felt like a presence, as if the ore watched the water. He found himself slowing unconsciously, afraid to disturb whatever equilibrium had been holding this place intact for millennia.
+
+The formations reminded him of Earth geodes he’d once cracked open for display kits, harmless curios carved into halves and lined with glittering interiors, sold to families and school programs as science toys. This was the same structure scaled beyond reason, as if someone had taken a souvenir stone and inflated it to cathedral size from the inside out.
+
+CelestOS: Structural pattern analysis confirms syntropic lattice propagation consistent with sustained mass-growth over approximately eight hundred thousand years. Summary: This object has been busy for a very long time.
+
+Ethan swallowed, feeling small in a way he hadn’t since stepping onto Veslaya’s surface. It was an architectural feature of the planet itself, something ancient and indifferent to the fragile human body wading into its heart.
+
+“I see it,” Ethan breathed. The sight held him in place. “It’s growing out of the bedrock. The whole floor’s veined with it.”
+
+CelestOS: Correction: It is the bedrock. Geological synthesis indicates this entire cavern qualifies as a single, extremely inconvenient geode. You are currently inside the gem. Recommendation: Avoid structural failure.
+
+Ethan unclipped the heavy pry bar from the magnetic mount at his hip. The motion felt syrup-thick, the water shearing every movement into lethargy. He drifted toward the nearest cluster, boots stirring lazy spirals of sediment that clouded the dim glow. The ore looked fused, crystalline spines bound into a seamless mass denser than steel.
+
+“Maria,” he said into the comm loop, eyes still fixed ahead. “It’s solid. I have to break it.”
+
+“Do it fast,” Maria replied, tension tightening her voice. “The noise will carry. Physics is working against you, Ethan. Sound travels four times faster underwater.”
+
+“Yeah. Understood.”
+
+He planted one boot against the jagged base of a crystal stump and drove the chisel tip of the pry bar into a fissure glowing violet at the seam. He sealed his jaw and leaned into it. Nothing moved, like levering a fault line.
+
+The bar shuddered in his hands as the crystalline seam resisted. A fine vibration raced up the metal shaft, blurring the haptics in his gloves and numbing his wrists. Beneath his boots, the silty bed sloughed away slightly, threatening to rob him of what little traction he had. He shifted his footing too late; one boot slipped and clipped the jagged edge of the formation, sending him drifting sideways before the tether pulled him back.
+
+His pulse spiked as he clawed for balance, bracing a knee against the crystal while the suit servos whined in protest, compensating for the uneven load. Warning tones flickered against the edge of his awareness as torque limits brushed yellow.
+
+CelestOS: Structural resistance exceeding projected tolerances. Suggest recalibration of leverage vector to avoid tool fracture or operator spinal compression.
+
+“Helpful,” Ethan said, jaw clenched as he forced the bar free of the fissure.
+
+A small plume of pulverized crystal dust drifted from the contact point, glowing faintly as it dispersed into the water like violet smoke. It was the only visible mark he’d made, an insult rather than a fracture, reinforcing just how solid the ore truly was.
+
+He adjusted, hunting a deeper bite. “Come on,” he said, breath raspy through the recycler.
+
+He threw his weight backward and engaged the servo-assists. A crack detonated through the cavern.
+
+Splitting stone on land was a sharp percussion. Underwater, the sound became a shockwave. The concussion punched up the pry bar and rattled his arms, ringing through his helmet like sustained thunder trapped in a cathedral bell. Vibrations rolled away into the deep and didn’t seem to stop.
+
+A chunk of violet crystal the size of a football wrenched free from its cradle, tumbling into the silt in a slow, luminous spin. Ethan surged forward and snatched it from the water before it could settle. The ore was heavier than it looked, metallic density dragging against his grip. He shoved the chunk into the mesh collection bag at his waist.
+
+“One,” he said, pulse thundering. “I need more. That won’t refine a cure.”
+
+He reset the bar and drove it again. The sound echoed again, a dull boom that seemed to roll out into the darkness and never stop.
+
+In the Forge, Maria flinched as the audio spike blasted through the speakers. She sat hunched over the console, one hand braced on the edge of the metal desk so hard her knuckles turned white. The other pressed against her shoulder, fingers digging into the fabric of her suit. The adrenaline from the launch had burned off, and what remained was a spreading heat that pulsed down her arm with every heartbeat.
+
+Each time Ethan swung the bar, the signal spike on the monitor flared into the red.
+
+“Keep going,” she whispered to the screen. “Just grab it and go.”
+
+The bio-monitor in the corner pulsed yellow. Her own heart rate climbed alongside Ethan’s, the two traces falling into lockstep. A wave of dizziness rolled through her, tipping the room sideways. The infection was consuming her reserves, devouring calories she didn’t have to spare. The edges of her vision went grainy.
+
+She blinked hard and forced clarity back into place. She had to stay awake. The winch controls were set to manual override. If she lost consciousness, the safety brakes would trip automatically, freezing the tether and leaving Ethan suspended alone in the dark.
+
+“Come on, Ethan,” she said. “Don’t get greedy.”
+
+A soft chime sounded. On the sonar display, a new contact resolved at the edge of the screen, faint and half-formed, like a ghost conjured from static.
+
+Maria inhaled sharply and tapped the panel, running a signal refresh. The contact sharpened into mass.
+
+Maria’s breath hitched. She magnified the sonar window, isolating the return and stripping away background clutter. The ghost resolved into density bands, thick concentric arcs stacked over a central core. It was a cohesive body, obscenely large, generating its own pocket of displacement as it shifted through the still water.
+
+She adjusted the filter to track microcurrents. The pattern leapt into clarity: wake turbulence curling behind the mass in a narrow, purposeful trail. This thing was navigating.
+
+She ran a rough scale comparison against Ethan’s tether depth and the cavern geometry. The simulation overlaid a translucent silhouette across the map grid, causing her stomach to drop. The contact was longer than the ore aisle itself, longer than some city blocks back on Earth.
+
+CelestOS: Cross-analysis confirms biological movement signature with recurrent propulsion pulses occurring at five-second intervals. Estimated mass exceeds two hundred metric tons. Probability of avoidance maneuver success, current positioning: twenty-three percent.
+
+Maria swallowed hard, forcing her hands to stay steady over the controls even as cold crept up her spine. That thing was already oriented toward Ethan’s vector. She pushed the thought away, watching the object move.
+
+Ethan tore loose a third chunk of ore. This one fought him, forcing three full strikes, each detonation rolling outward through the water like a beacon to everything lurking in the cavern. He stuffed the crystal into the collection bag. The added weight dragged against his waist, tugging him deeper into the silt.
+
+“I’ve got three,” he said, breath ragged. “Going for one more, then I’m...”
+
+CelestOS: Alert: Hydrodynamic displacement detected. Sector four.
+
+Ethan stilled, hand hovering mid-reach over the pry bar. “Define displacement.”
+
+CelestOS: A rapid movement has displaced approximately two hundred gallons of surrounding water in under one second. The object responsible is positioned directly behind you.
+
+The words drained the heat from his veins, and he turned. Water fought the motion, making the pivot agonizingly slow. His headlamp cut a pale blade through the silt cloud, past the glowing ribs and through drifting sediment into empty darkness.
+
+There was only the particulate haze floating through the light like dust motes in space.
+
+“The water looks empty,” Ethan breathed, pulse battering his ribs. “CelestOS, highlight the target.”
+
+CelestOS: Target lock unavailable. Thermal signature is blending into ambient background. Classification: Cold-blooded. Behavioral profile: Stealth predator.
+
+“Ethan,” Maria cut in, urgency slicing through her composure. “Passive sonar on the tether just picked up a return. It’s big and closing fast.”

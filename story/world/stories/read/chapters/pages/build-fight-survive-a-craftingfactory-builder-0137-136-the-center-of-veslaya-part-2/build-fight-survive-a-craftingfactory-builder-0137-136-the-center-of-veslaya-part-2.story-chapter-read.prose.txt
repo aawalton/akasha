@@ -1,0 +1,159 @@
+Forty thousand years.
+
+The number sat in the tunnel air like a weight someone had set down and never picked back up. Ethan whistled.
+
+“That’s a long fucking time.” Neither of them moved. The platform stayed idle at the threshold with its front axles six centimeters past the point where the wall had parted for them, and the passage that had widened into a cathedral sat waiting on the other side of a line his headlamp couldn’t quite draw.
+
+He looked at the space instead of answering CelestOS. The look was the one he’d given the inside of the Forge the first time it had come online, when the geometry of something he’d built had finally matched the geometry in his head, and the match had been so total he’d stood still inside it for a full minute before he’d trusted his legs. This was that feeling at a scale his legs had nothing to do with.
+
+The arches went up. That was the first fact. Plural and deliberate, rising from the chamber floor in paired columns that met at points his headlamp reached and lost and reached again, each pair spaced against the next at intervals his eye couldn’t read as anything other than intentional. Living Wall tissue braided into structural formations two meters thick at the base and tapering as they rose, the root mat dense with gold veining along every load-bearing line. The tissue had grown into shape. Someone had drawn the drawing first.
+
+Between the arches, the floor stretched flat and wide in a way no tunnel floor on Veslaya had ever stretched. The gold veins ran along it in patterns he couldn’t classify as either random biology or deliberate lattice. They did both at once. Concentric rings, faint under the amber bioluminescence, centered on a point somewhere ahead of them that his lidar was still trying to resolve. The rings pulsed once while he watched, a slow outward wave, and faded.
+
+The amber was wrong. That was the second fact. The chamber’s bioluminescence was warmer than anything in the upper passages, a deep honey-gold that his suit’s spectrometer kept trying to bracket and kept failing, the wavelength running into a register the calibration table had no entry for. His HUD flagged it as outside calibrated range and held the flag. The warmth ran deeper than visual. It was thermal, registering on his external thermometer as a steady three-degree climb over the tunnel behind them, and acoustic, the space swallowing sound with a softness the stone corridors had never had. He cleared his throat just to confirm the chamber took the sound. It did. The sound went out and didn’t come back.
+
+“Forty thousand years,” Maria said.
+
+“Yeah.”
+
+“That’s older than mankind.”
+
+“Yeah.”
+
+He didn’t have anything else to add. Neither did she. They sat with it. Somewhere on the platform deck behind them, the Fabricator ticked twice in standby as its idle cycle hit its scheduled self-check, and the sound was so mundane against the chamber ahead that it felt like an insult Ethan hadn’t meant to offer.
+
+Maria was the first to move. She uncurled her hands from where they’d braced against the Fabricator housing when the passage first opened, and she reached one palm out and rested it flat against the deck between her knees. Her eyes stayed on the chamber.
+
+The gold veins in the threshold beneath the platform brightened faintly under her hand. The chamber answered in the same instant, a ring pulsing once from the distant center and traveling outward in a slow even wave that reached the threshold and stopped there, as though it had come to meet her and was waiting.
+
+Her breath caught. She sat up straighter.
+
+“It knows I’m here,” she said.
+
+“The network knew you were here the entire time. It's been guiding us, hasn't it?.”
+
+“That's not what I meant, Whatever that was above, was nothing like this.”
+
+CelestOS: I’ll note that the pulse pattern just now was reciprocal. She initiated contact, the chamber responded from its center, and the response was directed specifically at her position. That’s not general network behavior. I’ve been reading Wall activity for the entire descent and I’ve never recorded a directed reciprocal greeting. I’m filing this under “novel” because I don’t have a better category and because I’m trying not to say the word that actually fits.
+
+“Which word,” Ethan said.
+
+CelestOS: I’d rather not.
+
+“CelestOS.”
+
+CelestOS: Welcome. The word is welcome. I’m aware the anthropomorphism is inappropriate for a cave network and I’m stating it anyway because anything less would be inaccurate.
+
+Ethan let that sit too.
+
+He’d spent the last hundred hours below the surface training himself to treat the Living Wall as a system. Substrate, signal, routing, response. He’d gotten good at it. The system had rewarded him for getting good at it, opening passages for his platform, sealing corridors behind his sled, brightening veins ahead of his headlamp at every decision point where the tunnel branched. Every one of those behaviors had fit the system-diagram he’d been building in his head, and the diagram had let him keep moving.
+
+“Okay,” he said, mostly to himself.
+
+“Okay what.”
+
+“Okay I’m going to stop trying to put this thing in a box while I’m looking at it.”
+
+Maria almost smiled. She didn’t quite. Her hand was still on the deck.
+
+“Thank you,” she said.
+
+“For what.”
+
+“For not making me argue for it.”
+
+He didn’t answer. He put his hand on the throttle.
+
+“CelestOS. Before we cross the threshold. Any reason we shouldn't?”
+
+CelestOS: None that my instruments can detect. Atmospheric composition is within suit tolerance and marginally richer in oxygen than the corridor behind us. Particulate is organic aerosol, non-hazardous, consistent with a high-biomass environment. Structural integrity of the chamber reads stable. I have no sensor return on a hostile presence and I have no sensor return on the ceiling, which I want you to know is an absence of data rather than an absence of threat. If you’re asking me whether it’s safe, my answer is that “safe” isn’t a category I’m comfortable applying to a forty-thousand-year-old chamber that just waved hello to your wife. I recommend we enter anyway because we can’t stay in the corridor, and because declining a deliberate invitation from a system that hasn’t yet harmed us feels like a category of rudeness we can’t afford.
+
+“Agreed.”
+
+He pushed the throttle forward.
+
+The gold veins in the floor lit up ten meters ahead of the platform and went dark five meters behind it. Each ring brightened when the front axle crossed the previous one, the next ring already glowing before the last had faded, the whole sequence pulling them forward the way runway lights pull a plane down the centerline. The chamber was lighting their path and nothing else.
+
+Maria watched it go. Her hand stayed flat against the deck, palm down on the iron, and every ring that passed beneath the platform flared brighter under her fingers than under the axles. The chamber was responding to her contact as much as to the platform's weight. Her lips moved once without sound, the way they did when she was running numbers she hadn't finished yet.
+
+“It’s everywhere,” she said.
+
+“Tell me what you’re reading.”
+
+Her jaw shifted. The gold veins in the chamber floor flared at her contact points, and the ring directly beneath the platform responded half a second ahead of the rings further out, the network prioritizing her input in a way it never had before.
+
+“The whole chamber is one node. A node, not a junction. The passages above were branches feeding toward this. I thought the relay chamber two days ago was deep architecture.” She shook her head once, small. “That was a switchboard. This is the server.”
+
+Ethan let the platform roll another twenty meters before he answered. The rings ahead of them were brighter now, the amber shading deeper, the warmth registering on his suit’s external thermometer as a steady climb.
+
+The arches passed alongside them as they moved. Each buttress rested on a foundation of pale stone his headlamp caught in glints, the stone worked at some long-ago point into a flat bearing surface, the Living Wall tissue grown down onto that surface and rooted into it. The wall hadn’t made the foundations. It had taken what was already there and grown the structure up from them.
+
+“The chamber predates the wall by forty thousand years,” Maria said, repeating CelestOS’s line back at the space that proved it. “The wall grew around it. The wall grew into the existing geometry. Every arch I’m looking at is rooted on a buttress that was here before the wall arrived.”
+
+“The wall didn’t build the cathedral. The wall found the cathedral and moved in.”
+
+“Yes.”
+
+“Whose the cathedral for?"
+
+She didn’t answer.
+
+The platform rolled along the chamber’s centerline and the rings of bioluminescence stopped moving ahead of it. The ring directly beneath them held. The rings outside their position continued to pulse, but the rhythm was radial now, each ring pulsing in synchrony with every other ring, the whole chamber breathing on a single beat. Ethan cut the drive motor. The platform coasted four more meters on inertia and came to rest.
+
+The treated axles settled into the living floor with a soft compression that felt less like parking and more like being set down.
+
+Maria’s breath caught a second time. He was off the platform before he’d registered the sound, the shield already in his left hand, his right already reaching for her. She waved him off with a small sharp gesture that meant safety. Her other hand stayed flat against the deck. Her eyes were open and her mouth was open and she was looking at something only she could see.
+
+“Talk to me.”
+
+“The wall is— the wall is answering.”
+
+“Answering what.”
+
+“Me. Frederick. It’s sending questions to us. I... I can understand it.” Her voice caught on a word she didn’t have. Her hand came off the deck, then pressed flat again, confirming that what she experienced through one contact point she also experienced through another. “It’s asking who we are. It knows we’re not from here. It wants to know what we are.”
+
+Ethan went down on one knee next to her. The shield went on the deck. He put his gauntleted hand over hers where it rested on the platform’s iron. He didn’t feel what she felt. The Syntropic integration in the suit registered the chamber the way it registered every Living Wall contact they’d had since the descent, a low-current warmth against his palms, but the current through Maria’s contact was operating on a different channel and he didn’t have the receiver.
+
+“What do I tell it.” Her voice was close to steady. “Ethan. What do I tell it.”
+
+He thought about it for two seconds.
+
+“Tell it the truth.”
+
+“It’s not a language, it’s not words, I can’t—”
+
+“You don’t need words. You’ve been doing this for days. Tell it who we are the way you’ve been telling it where we’re going. Show it our humanity."
+
+She closed her eyes. Her hand turned under his until her palm was flat against the deck and his gauntlet covered the back of her hand. She pushed.
+
+The gold veins in the floor beneath the platform brightened in a wave that ran outward from Maria’s contact point, the ring they sat in flaring to a register his HUD couldn’t name, amber passing through gold into a white-gold that had no corresponding wavelength in his suit’s calibrated range. The ring expanded. It stayed bright and held, and the ring outside it brightened to match, and the ring outside that one did the same, and in six seconds every visible vein in the chamber was pulsing white-gold on a single synchronized beat, and the beat was Frederick’s.
+
+[BIOSIGNATURE RESONANCE: CHAMBER-WIDE SYNCHRONY]
+
+[Source: Fetal heartbeat — Frederick Cross | 138 BPM]
+
+[Pulse synchronization: 100% of detectable network]
+
+[Network radius from platform: >2.4 km and extending]
+
+CelestOS: I want to be clear that I’m reading a biosignature synchrony event with a radius that exceeds my sensor range. The network is pulsing in time with Frederick’s heartbeat. Every vein I can detect. I want to be clearer that the range bracket is still growing. Whatever this chamber is for, Frederick just turned it on.
+
+Ethan stayed silent. Maria’s eyes were still closed. Tears had started at the outer corners and were running into her hairline, and she wasn’t wiping them. Her mouth was slightly open. Her breathing had gone shallow in a way he’d only ever seen during the procedure, when the medical field had been drawing her system clean and she’d had to hold still for ninety minutes without closing her eyes. The same stillness at a different pressure.
+
+“It sees him,” she said.
+
+“What does it see.”
+
+“It sees Frederick and it’s-- It knows him. It’s been waiting. For him.”
+
+Ethan’s gauntlet was still over her hand. He kept it there.
+
+“Waiting how long.”
+
+“I don’t know. Longer than anything has a right to wait.”
+
+The ring under the platform pulsed once, hard, and Maria made a sound he’d never heard from her before. A small involuntary noise of something being recognized through her by something larger than her. Her free hand went to her stomach. Frederick kicked. Every gold vein in the chamber flared to twice its previous brightness and held.
+
+Ethan stood up slow. He put his hands on the platform’s rail.
+
+“CelestOS. Full diagnostic on Maria and my son's vitals. Please”Suddenly, Maria let out a piercing scream.

@@ -1,0 +1,95 @@
+Maria sat on the edge of the workbench, hunched forward with her good hand braced against the metal surface hard enough to blanch her knuckles. The forge bay was quiet except for the low hum of power routing and the distant, irregular churn of the lake beyond the rock wall. Ethan’s telemetry hovered in her peripheral display, showing an estimated depth of thirty-eight meters. The projection was calculated, a stitched-together projection built from suit pressure, inertial drift, and the last-known ascent rate. It was fragile math that only worked as long as nothing went wrong.
+
+Each meter was a victory anyway. Each centimeter upward meant less pressure and less darkness, a step closer to air that didn’t feel like it wanted him dead. The climb was slowing, and she saw it immediately as the estimate lagged. The clean, steady rise from earlier had degraded into uneven motion, consisting of long flat lines followed by abrupt jumps. These were bursts of effort followed by pauses that stretched just a little too long. It was fatigue rendered as numbers, and he was running out of strength.
+
+The infection in her shoulder burned like a brand pressed beneath her skin. Maria’s free hand drifted to the wound, fingers pressing lightly through the fabric of her shirt. Heat radiated outward in waves, sharp enough to make her vision blur at the edges. Her bio-monitor flickered on her HUD; Harold had insisted she wear it. The numbers were ugly, showing integration at forty-one percent. Spore-touched tissue was spreading through her shoulder and creeping toward her chest wall, toward the baby. She swallowed and forced her attention back to Ethan’s telemetry. The countdown clock sat in the corner of her display, merciless in its precision, showing that infection would become critical in four days and seven hours. Time was a dwindling resource.
+
+Harold’s voice came through the forge speakers, CelestOS layered into the channel with its usual immaculate timing.
+
+CelestOS: Maria, medical guidance recommends you enter a rest state immediately.
+
+“If I rest,” Maria said quietly, “Ethan might not come back.”
+
+CelestOS: Continuous monitoring of his ascent isn’t required for mission success.
+
+“I need to know he’s okay.” Her voice cracked despite her effort to keep it steady. “I need to see him make it.”
+
+There was a pause.
+
+CelestOS: Emotional oversight acknowledged. Please refrain from losing consciousness near active equipment.
+
+Maria almost laughed, though the sound died in her throat. The passive sonar display flickered, and her attention snapped to it instantly. Something large was circling at the edge of sensor range, its return faint but unmistakably deliberate. This was something else, a predator drawn by vibration and noise. It was leaner than the mountain organism and moved with tight turns that suggested curiosity sharpening into intent. It was drawn by the promise of an exhausted body climbing out of the deep.
+
+Maria’s hand curled tighter against the bench as the sonar trace brightened. A predator moved upward alongside Ethan. She searched her displays anyway, looking for a control that didn’t exist. The station lacked a tether, an override, a winch, or an emergency protocol she could trigger from here. She could do nothing but watch. The predator’s path tightened, its orbit narrowing as it climbed through the water column with patient confidence. Maria clenched her jaw, nails biting into her palm.
+
+“Come on, Ethan,” she whispered to the projected depth estimate as it crept upward to thirty-seven meters. “Whatever you’re doing down there, do it faster.” The sonar trace curved again, closer this time. Maria sat in the forge’s half-light, feverish and powerless while she counted meters that weren’t guaranteed to exist, praying that Ethan climbed fast enough.
+
+Ethan stopped thinking about conservation or power curves. He stopped thinking about efficiency margins and the careful math that said he needed to climb smart if he wanted to live. He climbed hand over hand while his boots scraped the stone. Servos screamed as he pushed them to full assist. The rock face was no longer an obstacle and had become a ladder he refused to fall off. His gloves found holds while his boots found edges. His body moved because he ordered it to, and he wasn't entertaining objections from physics, biology, armor integrity, and the cascade of warnings lighting up his HUD. He passed twenty-nine meters and hit thirty.
+
+CelestOS: Power reserves at four-point-eight percent. Current consumption rate is unsustainable.
+
+“Noted.”
+
+CelestOS: At present usage, total power depletion will occur in approximately ninety seconds.
+
+“How far can I get in ninety seconds?”
+
+CelestOS: Approximately eight to ten meters. This will leave you twelve to fourteen meters below the surface without servo assistance.
+
+“Then I climb without servos.”
+
+CelestOS: Your muscular system is already compromised. Unassisted ascent while carrying forty kilograms will likely result in catastrophic failure.
+
+“I don’t care.” Ethan hauled himself up another meter, boots biting into a narrow ridge. “I promised.” He reached forty meters while his power dropped to three-point-nine percent. His right hand reached for the next hold and slipped, though his left hand managed to hold steady. The sudden shift in weight made him falter. For half a heartbeat, gravity won. His right hand caught a crack he hadn’t seen, and servo-assisted fingers dug in. His boots slammed back into the wall and held. He stayed there for two seconds, chest heaving and vision tunneling.
+
+CelestOS: Heart rate at two hundred four beats per minute. This exceeds safe operational parameters.
+
+Ethan laughed, breathless and raw. “You’re really hung up on that.”
+
+CelestOS: I’m contractually obligated to express concern for asset longevity, even when the asset is actively attempting to invalidate it.
+
+Ethan tightened his grip and started climbing again, ignoring the burn and the shake. He was almost there, and nothing was pulling him off this wall. “Everything about this exceeds safe operational parameters.” He reached forty-two meters. The water was changing. The change was subtle enough to register as the absolute black below thinned into dark gray. He was getting close.
+
+CelestOS: Power depletion imminent. Estimated servo failure in approximately forty-five seconds. Emergency protocols are recommended.
+
+“What protocols?”
+
+CelestOS: Jettison all ballast, engage emergency buoyancy, and initiate uncontrolled ascent.
+
+“The ore stays.”
+
+CelestOS: Then I recommend you cease verbal activity and increase climb velocity immediately.
+
+Ethan didn't answer and surged upward. He reached fifty meters and the water shifted toward green. Light filtered down from above, thin but unmistakable. It was enough to prove the surface existed. His power dropped to one-point-three percent with ten meters to go. His left glove servo made a grinding, protesting sound and went dead. The sudden loss halved his grip strength on that side, so he shifted weight to his right hand. That servo screamed in protest. He hit eight meters and his right boot servo failed outright. The loss of assist yanked his foot free, and he slipped before catching himself with his hands. He hung for a heartbeat with his legs dangling uselessly, then found a new foothold and kept going.
+
+Six meters. The pressure eased noticeably now, and every meter upward stripped away weight. His suit’s buoyancy compensator adjusted on the fly to add lift. Both glove servos cut out at once when power hit zero-point-three percent. The sudden silence was terrifying. His grip strength dropped to purely biological limits, straining exhausted muscles and torn fibers. Pain screamed through his forearms as they tried to hold his body and forty kilograms of ore. His fingers started to slip at three meters. He could see the surface now, a wavering plane of brighter green rippling gently. His right hand lost purchase entirely and slid free. For a fraction of a second, his left hand held. Tendons screamed and muscle fibers tore under the load. His grip failed, and his fingers peeled away from the rock in a slow, helpless cascade.
+
+Ethan fell. The cliff face tore away from him, replaced by open air and the dizzying drop toward the dark lake. He plummeted several meters before a concussive impact slammed into his torso. The magnetic hoist clamped onto his suit with a bone-rattling thud, and the sudden force yanked him hard into the cliff face. Stone exploded against his shoulder as the line went taut, arresting his fall in a brutal, snapping halt. He swung violently while his boots scraped rock, then slammed back into the wall as the cable hummed under impossible tension. Pain flared white-hot through his ribs and spine, and his breath tore out of him in a strangled gasp. He hung there, alive.
+
+CelestOS: Catastrophic fall detected. External magnetic engagement confirmed.
+
+“Ethan! Don’t move!” Maria’s voice cut through the ringing in his ears. She was braced at the cliff lip above him, boots planted wide against the stone and a portable anchor driven deep into a fracture in the rock. A heavy secondary line ran from the anchor down to the magnetic hoist locked around his torso. She was hauling him by hand. Her good arm locked straight while she leaned back into the winch control. Violent tremors wracked her injured shoulder, and she clenched her jaw until the muscles stood out along her neck.
+
+“I’ve got you,” she said through clenched teeth. “I’ve got you. Just stay still.” The winch screamed as she engaged it again, dragging him upward in a short, brutal pull. The anchor groaned and stone dust cascaded down past his helmet as the cable bit deeper. Ethan slammed back into the cliff, vision exploding into sparks. Below him, the lake shifted. A vast wake traced a slow arc across the surface far beneath his dangling boots. Something massive turned in the depths to track the noise and the vibration.
+
+CelestOS: Advisory: aquatic entity exhibiting predatory movement beneath cliff face. Probability of vertical engagement increasing.
+
+“Later,” Maria snapped. “I need him up.” She pulled again, and the winch whined as it fought Ethan’s weight and the forty kilograms of ore. He rose another half meter, boots scraping uselessly for purchase.
+
+“Don’t drop it,” Ethan rasped, the words tearing out of him.
+
+Maria didn't hesitate. “I’m not.”
+
+She pulled again. The cliff lip loomed above him, consisting of stone, broken roots, jagged metal reinforcement, and debris. Maria leaned back with everything she had left and hauled. Ethan’s hands slapped onto the ledge. Magnetic clamps snapped onto embedded metal with a heavy clack, locking his suit in place as he collapsed forward onto solid ground. He folded. The ore bag slammed into the rock beneath him, heavy and solid. Ethan dragged in a lungful of air, which was dry, sharp, and real; he choked on it before pulling in another. His chest heaved violently as his body finally understood it was allowed to stop.
+
+Maria dropped to her knees beside him, one hand braced against the rock and the other gripping his shoulder. “You fell,” she said quietly.
+
+He managed something between a laugh and a sob. “You caught me.”
+
+CelestOS: Cliff recovery achieved via manual intervention. Power reserves at zero-point-one percent. Servo systems offline. Survival margin exceeded projected limits by unacceptable degrees.
+
+Below them, the lake churned again. A massive shape rolled beneath the surface, teeth flashing briefly as it turned, then disappeared back into the dark.
+
+CelestOS: Recommendation: immediate withdrawal from cliff edge before aquatic entity attempts further investigation.
+
+Maria exhaled shakily and squeezed Ethan’s shoulder once. “Let’s get away from the edge,” she said. “Before it decides to climb.”

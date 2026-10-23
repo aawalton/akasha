@@ -1,0 +1,183 @@
+Maria rubbed her forehead and let out something close to a laugh. Ethan didn’t realize he was smiling until she glanced at him.
+
+“Input the drone schematic,” she said. Her voice was tired but steady. “Before the grid destabilizes.”
+
+Ethan stepped to the console beside her. He called up Harold’s archived design and expanded the file into a new variant with a lighter frame, stronger sensor suite, and longer flight range. He fed the schematic into the fabricator queue.
+
+The machine let out a slow, rising hum as it began printing the first chassis. Maria leaned back and watched the progress bar build itself inch by inch. The forge hissed, and the miner hammered. The belts rattled. The factory lived.
+
+Ethan rested his hand on the console. “We’ve got a loop,” he said.
+
+Maria nodded. She looked exhausted but anchored. “Then we keep it running until we have a enough to map out everything.”
+
+The cavern thrummed around them. It felt industrial and violent. The mountain fed the machine, and the machine fed their hope. The Iron Loop had begun.
+
+<br>
+
+Evening settled quietly into the cavern, though “evening” was a generous word. The space lacked sky or fading light. There was no horizon to dim. The only indicator of time was the fatigue creeping deeper into Ethan’s joints and the heavy, rhythmic pulse of the factory at full tilt.
+
+The Auto-Miner hammered the western wall without pause. Its pistons chewed stone in steady, brutal cycles. Conveyor belts rattled softly as they ferried the fragments toward the fabricator. Sparks hissed inside the forge as new batches of ore were fabricated before they met the white-hot crucibles. The entire space thrummed like a mechanical heart that beat and breathed.
+
+Maria sat cross-legged on the grated platform beside the main console. She’d shifted to a position where she could lean her back against the forge housing and let its warmth soak through her suit. Her good hand held a nutrient bar, while the other lay limp across her lap. Her fingers occasionally twitched when pain lanced through her shoulder, but she kept her arm wrapped around her belly instead of the wound.
+
+Ethan lowered himself beside her, and his legs protested with every inch. He tore open his own nutrient bar with his teeth. It tasted like compressed chalk mixed with synthetic peanut butter, but he chewed anyway. It was amazing how it was a completely different, but still terrible flavor every time he tried one.
+
+The first drone sat perched on the floor in front of them. It was a small, skeletal frame of lightweight plating and matte-black rotors. Its eyes glowed a soft blue as it finished its startup checks.
+
+“Harold Junior,” Ethan said.
+
+Maria’s eyebrow arched. “We don’t have to name them.”
+
+“We named Harold.”
+
+“Harold named himself,” she said. “By imprinting on you like a lost puppy and refusing to leave.”
+
+Ethan smirked. “Fine. Harold-2. Temporary designation.”
+
+The drone chirped, almost offended.
+
+Before Maria could comment, the second drone rolled off the fabricator’s assembly pad. Its thrusters spun up with a faint, rising whine. A moment later, the third followed. It was sleek and small.
+
+Maria pushed herself upright with a slow exhale. “Launch them.”
+
+Ethan helped her to her feet before she could argue. He steadied her until she found her balance. She shot him a look of gratitude mixed with annoyance that she needed the help, but she didn’t push his hand away this time.
+
+He keyed in the launch command, and the drones took off one by one. They lifted from the floor with a soft flutter that was almost gentle compared to the industrial roar surrounding them. Their lights strobed briefly as they slipped into formation before zipping into the tunnels like a trio of mechanical swallows.
+
+The console lit up with three expanding arcs of sensor coverage. Maria eased back down, and Ethan sat beside her again. They watched in silence as the map began to grow. Gray, unknown sectors slowly turned blue as the drones scanned them. A pulsing overlay denoted processed mineral densities, and lines of alloy composition scrolled at the side of the screen.
+
+Sector A filled in quickly. It covered the dry caves near their old mining lanes. Ethan tapped the readout. “Granite,” he said. “Mostly. Some limestone.”
+
+“Useless,” Maria said.
+
+Sector B expanded next. The upper vents branched in jagged, irregular paths. Drone 2 skimmed the ceiling lines, and its camera sent back ghostly close-ups of basalt ridges and clusters of dormant fungus.
+
+“Also useless,” Ethan said.
+
+The drones worked in silence, and their faint telemetry pings echoed like distant insect clicks. Minutes passed while stone dust settled on their boots. The forge’s glow shifted from orange to a deeper red cycle. Maria unwrapped another nutrient bar and handed half to Ethan. He took it without breaking his gaze from the map.
+
+Rows of blue pushed outward through the gray like veins filling with blood, but the mineral signatures remained flat and predictable. The scans showed a lack of Syntropic spikes or alien anomalies. They showed no salvation.
+
+Maria’s voice softened. “We knew this might happen.”
+
+“We also hoped it wouldn’t,” Ethan said.
+
+CelestOS: Analysis: Mapped sectors contain no relevant anomalies. Operator emotional state: declining. Would you like a pep talk?
+
+“No,” Ethan said.
+
+“Yes,” Maria said at the same time.
+
+They both looked at each other and actually laughed. It wasn’t loud or long, but it eased something in the air between them. Still, the screen continued its quiet betrayal. Sector after sector turned blue, one normal reading after another.
+
+Ethan leaned forward with his elbows braced on his knees. He felt the machine hum beneath him as a reminder of the raw power they’d brought to life. But the mountain refused to give them what they needed.
+
+Maria rested her head lightly against his shoulder. Her voice was almost a whisper. “If the safe zones don’t have it, then it means the ore is somewhere we didn't want to search.”
+
+Ethan swallowed. They both knew what she meant. Every map had boundaries. Beyond theirs lay the places the drones hadn’t yet gone. The ones marked not gray but black. There were danger zones and magnetic zones. There were the breaches near the water. He didn’t say it out loud, and she didn’t have to.
+
+They watched the last few patches of gray shrink on the map and waited for the impossible. It never came. Only silence and the slow pulse of the factory surrounded them.
+
+<br>
+
+The map was almost full when Drone 3 drifted off course.
+
+Ethan noticed first. A thin thread of movement dipped into a part of the grid no drone had touched yet. A tiny yellow arc blinked on the far edge of the hologram, right where the mapping sectors smeared into black.
+
+He frowned. “Drone Three’s off vector.”
+
+Maria straightened a little. The glow from the screen caught the strain in her eyes. “Magnetic interference?”
+
+Before Ethan could answer, CelestOS chimed in.
+
+CelestOS: Drone Three experiencing navigational deviation due to anomalous field fluctuation. Please refrain from using the term ‘oops.’
+
+Drone 3’s telemetry jittered on the screen. Its path wavered like a drunk line of chalk before dipping sharply. The camera feed blinked alive, first in shaky grayscale and then in murky blue as the drone’s low-light filters engaged.
+
+A wide tunnel yawned ahead in the Wet Sector.
+
+Maria’s breath caught. “It shouldn’t be anywhere near the breach.”
+
+“It’s not choosing to,” Ethan said. His voice was tight.
+
+The drone’s tiny spotlight cut a thin beam through the dark. It illuminated slices of uneven stone and glossy patches where moisture clung to the wall. The sound feed picked up the faint hiss of dripping water and the low, hollow resonance of a larger chamber ahead. As if crossing a threshold, the drone broke through the last narrow gap.
+
+Black water filled the screen.
+
+A vast underground lake sat cold and motionless. Even Maria seemed to go still. The surface lacked ripples or bubbles. It sat as an unbroken mirror of void. Drone Three rotated slowly. Its spotlight scanned over the shoreline of jagged basalt and clusters of lichen clinging to the wet stone. Long, trailing strands of algae-like growth swayed in the faint breeze.
+
+“Come on,” Ethan said. “Just get a clean reading and get out.”
+
+The drone drifted forward.
+
+CelestOS: Alert: Elevated Syntropic trace signatures detected. Concentration increasing with proximity. Source likely submerged.
+
+Maria leaned closer to the screen with one hand covering her mouth. “Please…”
+
+The drone dipped its camera and pushed the spotlight into the dark water. For a breath, the light vanished into the depths. It was swallowed whole.
+
+Something below caught the beam. A bright, unmistakable glow bloomed beneath the surface like a fallen star wedged into rock. CelestOS highlighted the readout.
+
+CelestOS: [SYNTROPIC ORE CONCENTRATION: HIGH] [SIGNATURE VERIFIED]
+
+Ethan closed his eyes for half a second. Relief hit him like a hard breath. It was sharp and painful. “There it is,” he said.
+
+Maria swallowed hard. “Ethan… that’s enough to…”
+
+The screen flickered.
+
+Drone 3’s spotlight shook violently as it veered off the ore to track something else. A small, fast ripple broke the surface. A second, larger ripple followed. A third moved with purpose under the surface. It was enormous.
+
+Maria grabbed Ethan’s arm without realizing it.
+
+“Back it out,” Ethan said quickly. He reached for the controls, but the drone was already pulling to one side while sensors spasmed with static.
+
+CelestOS: Warning: Hydrodynamic disruption detected. Large mass approaching. Vector: vertical ascent.
+
+Ethan’s pulse leapt. “What mass?”
+
+CelestOS: The kind that invalidates warranty coverage.
+
+The lake erupted.
+
+A pressure wave tore across the water and slammed upward with such force that the drone’s camera went blinding white. The feed spasmed. The drone pitched sideways, and metal shrieked through the speakers. Something huge moved in the depths. It was black-on-black and impossible to outline, but the displacement alone made Ethan’s skin crawl.
+
+The spotlight caught a glimpse of texture. It wore armor instead of scales. Segmented, glistening plates shifted like wet stone.
+
+Something struck. A single, concussive hit obliterated the camera lens. The drone screamed a burst of distorted audio, and the feed dissolved into static.
+
+Maria jerked back, and her heart pounded hard enough for Ethan to see it in the tremor of her shoulders.
+
+Ethan stared at the static and tried to keep his breathing level. The forge hummed behind him while the Auto-Miner hammered on, oblivious. CelestOS broke the silence.
+
+CelestOS: Syntropic ore located. Location: Sub-aquatic Nesting Zone.
+
+A pause.
+
+CelestOS: Hazard classification: Extreme.
+
+Another pause, deliberately cheerful.
+
+CelestOS: Recommendation: Consider finding a new hobby.
+
+Maria exhaled shakily, and her good hand reached for Ethan’s without thinking. Ethan didn’t look away from the dead screen. The ore was real, and they had proof. But the mountain wasn’t giving it up gently.
+
+The silence after the static felt long and heavy, like the cavern itself was listening. The lake had not just swallowed the drone. It had noticed. It would fight to keep what it guarded. The static hung on the screen like frost that refused to melt.
+
+Maria sat frozen beside him. Her hand was still wrapped around his forearm, and her thumb dug in just enough for him to feel the tremor she tried to hide. The forge glowed behind them in slow, pulsing breaths of red. The Auto-Miner hammered steadily against the western wall. It shook flecks of grit loose with each strike, uncaring that the world had just tipped sideways.
+
+Ethan didn’t move at first. He stared at the screen long enough for the static to imprint itself behind his eyelids. The silence that followed the drone’s death felt too large and hollow. It felt as if something enormous had exhaled from beneath the earth and left the air thinner.
+
+Maria turned her face toward him. Her voice came out quiet and frayed. “It’s there. We finally found it.”
+
+Ethan nodded once, slowly. “And we saw why we haven’t found it before.”
+
+He didn’t need to explain. The water and the depth spoke for themselves. The size of the thing that hit the drone hard enough to erase it from existence spoke loudest of all.
+
+Maria pressed her lips together and braced herself. “Ethan… a drone didn’t stand a chance in that. We can’t send another one.”
+
+“We’re not sending another,” he said.
+
+He pushed himself to his feet. His body ached. His shoulders burned from welding, and his legs shook from a day of hauling scrap. His lungs were raw with dust.
+
+“We’re sending me.”

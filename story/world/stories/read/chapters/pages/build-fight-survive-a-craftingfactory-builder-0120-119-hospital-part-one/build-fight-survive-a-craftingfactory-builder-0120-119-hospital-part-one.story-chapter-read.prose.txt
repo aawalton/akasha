@@ -1,0 +1,173 @@
+He started with the foundation, focusing on the space rather than the components. If he was going to perform a medical procedure with zero margin for error, the environment had to be controlled. This required carving out a section of the base and isolating it from the dust, heat, radiation, and electromagnetic noise of the Iron Loop.
+
+He made an alcove between the Forge's eastern face and the cave wall. It was close enough to draw power from the main distribution line but far enough from the conveyors to avoid interfering with their routes.
+
+He laid down insulating plates first; The Fabricator was already warm when he fed it the first batch. Sixteen iron plates went in alongside sensor components and binding agent. The machine's arms unfolded with a servo whisper while light traced molds in quick succession.
+
+Maria was already at the console before the Fabricator's arms finished their first pass. She pulled up the power distribution interface on her CelestiCraft and began writing a load-shedding subroutine. Her fingers moved in the short, precise bursts Ethan’s had when establishing the Iron Loop build.
+
+But now the medical bay's Fabricator queue needed priority draw, which required clean, uninterrupted, stable power with no voltage dips during the precision mold stages. Achieving this required temporarily throttling the Iron Loop's output cycle.
+
+"I'm pulling twelve percent from the return feed," she said without looking up. "The Forge can run at reduced throughput for four hours without stalling the ingot queue."
+
+Ethan glanced at the power readouts scrolling across the far wall. "If the Fabricator spikes during a mold trace—"
+
+"It won't." Her good hand flew across the interface. "The medical line has an independent breaker, and I'm isolating it from the main bus. The Loop will take the hit if anything surges." She paused as a flinch tightened her jaw.
+
+It was a quick movement, almost invisible, occurring as the resin wound pulsed against the movement of her shoulder. Her fingers hovered over the keys for half a beat before she resumed typing. Ethan saw it, but he didn't comment.
+
+CelestOS: Power routing modification accepted. Medical fabrication line now operating on isolated bus with priority draw. Iron Loop output reduced to seventy-one percent. Operator synergy continues to exceed baseline projections.
+
+"Is that your way of saying thank you?" Maria asked.
+
+CelestOS: It is my way of saying your subroutine is competent. Gratitude requires a firmware update I have not yet received.
+
+[Fabricator: Active | Queue: Medical Bay Components 1/6 | Power: 19%]
+
+While it worked, Ethan hand-assembled the sterile field emitter frame. Copper wire was braided into a toroidal coil; it wasn't a simple wrap, but a layered weave where each strand crossed at calculated intervals to suppress harmonic noise. He seated salvaged magnets along the exterior and spaced them with millimeter precision. Each one was angled slightly off-axis to shape the electromagnetic field inward.
+
+Maria watched his hands. "Where did you learn to wind coils like that?"
+
+"I learned everything here on Veslaya through trial, error, failure, and not dying."
+
+CelestOS: Correction. You learned coil geometry from the [T1 Oxygen Rebreather Unit -Tier 1] schematic I generated. Credit where credit is due.
+
+"Fine. CelestOS taught me coil geometry. Happy?"
+
+CelestOS: Ecstatic. Your acknowledgment has been logged and will be cited in future performance reviews.
+
+The Fabricator chimed, signaling the first batch was done. Ethan pulled the components: mounting brackets, conduit housings, sensor pylons, and lead shields, and he began fitting them into the foundation frame. Each piece locked with magnetic precision, creating the satisfying click that had become the soundtrack of his life underground.
+
+[Medical Bay Frame: 40% Complete | Components: 2/6 Batches Queued]
+
+The second batch went in heavier, containing silver wire, quartz blanks, and the precision-grade stabilization coils. These required tighter tolerances. Ethan adjusted the Fabricator's calibration by hand and tweaked the mold parameters until the output matched the schematic's specifications within microns. The quartz lens arrays emerged translucent and fragile-looking, but when he held one up to the Forge light, it split the beam into a clean spectrum. These would focus the Syntropic resonance during treatment and concentrate the ore's energy into a narrow band instead of letting it scatter. He seated them in their housings and secured each with copper retaining clips. His hands were steady, even steadier than they'd been all day.
+
+Maria brought him water without being asked, and he drank without stopping work. The sterile field emitter came together next. He connected the toroidal coil to a power regulator salvaged from a spare generator module, then wired the whole assembly through a chronometer's timing circuit. When he powered it on, the air within the alcove shimmered faintly. It was a barely visible distortion that looked like cold, clean heat haze.
+
+[Sterile Field Emitter: Online | Coverage: 3m radius | Contaminant Suppression: 97.2%]
+
+"It's close enough," Ethan said.
+
+CelestOS: Hospital-grade sterile fields require a Class IV cleanroom, but you are in a cave with a drone, dust, and heat. I believe the phrase is "close enough for government work."
+
+The resonance dampener was the hardest piece because it was a novel fabrication that lacked a template. Ethan had to feed the Fabricator a sample of the Syntropic ore and let the machine's adaptive mode analyze the crystal's resonance signature to extrapolate a dampening pattern from the inverse waveform. He placed a sliver of ore, carefully chipped from the smaller core's edge, into the Fabricator's analysis tray.
+
+[Adaptive Analysis: Syntropic Ore Sample | Resonance Mapping in Progress] [Estimated Time: 14 Minutes]
+
+The progress bar climbed in steady increments. Ethan turned toward the examination platform materials, but he'd barely lifted the first reinforcement plate when CelestOS interrupted.
+
+CelestOS: Anomaly. Adaptive analysis has stalled at sixty-one percent. The ore's resonance signature is not resolving into a single extractable waveform.
+
+Ethan set the plate down. "What do you mean, not resolving?"
+
+CelestOS: The signature contains nested harmonics and recursive frequencies layered within frequencies. The Fabricator's analysis suite was designed for linear waveforms. It cannot extrapolate a dampening pattern from an incomplete profile.
+
+Ethan stared at the readout. Sixty-one percent wasn't enough. Without the full profile, the resonance dampener would be calibrated to a partial waveform, which meant it would suppress some frequencies and amplify others. During an advanced medical procedure, that was the difference between treatment and catastrophe. "Can you force it?" he asked.
+
+CelestOS: Forcing an incomplete profile would produce a component with a seventy-three percent chance of harmonic feedback during operation. I do not recommend this.
+
+Maria spoke from the console, her voice quiet but certain. "It's a proximity problem, not a data problem. We hit the same wall on the surface," she said. She was leaning forward, her face lit by the Fabricator's diagnostic glow. Her expression had shifted into the focused clarity of an engineer who'd seen this before. "Day sixty-one. Thorne ran the first ore sample through our fabrication bay and the analysis locked at about the same percentage. It drove him crazy for two hours before he figured it out."
+
+She paused to breathe through a pulse of pain in her shoulder. "The ore's resonance isn't static. It responds to biological proximity. A living system near the sample changes the harmonic structure. It's like the crystal is waiting for something alive to complete the pattern."
+
+Ethan looked at the analysis tray. The sliver of ore sat inside, its violet glow steady and patient. "You're saying I need to touch it."
+
+"I'm saying your suit is Syntropy-integrated. Your biology is already part of the ore's resonance network. The Fabricator can't see the full waveform because half of it is in you."
+
+He hesitated. The last time he'd made direct contact with Syntropic ore, it had rewritten his suit's operating system and fused with his nervous system. That had worked out, but only barely.
+
+CelestOS: Maria's hypothesis is consistent with observed Syntropic behavior. The ore's resonance profile may require a biological anchor to fully manifest. Your Syntropy integration makes you the only viable candidate.
+
+"Of course it does," Ethan said. He crossed to the Fabricator and placed his palm flat on the analysis tray beside the ore sample. The crystal pulsed once, growing brighter, and warmth spread through his glove into his fingers. It wasn't painful. It felt like placing his hand on a sleeping animal and feeling it recognize him. The progress bar jumped immediately to one hundred percent.[Adaptive Analysis: 61% → 78% → 91% → 100%]
+
+[Novel Component Available: Resonance Dampener | Syntropic-Calibrated]
+
+CelestOS: Calibration successful. However, the dampener is now keyed to your specific Syntropy signature. During the treatment procedure, you will need to maintain physical contact with the system to anchor the resonance field. You cannot build this device, hand it off, and observe from a safe distance. You are part of the machine now.
+
+Maria met his eyes from across the alcove. She'd known what it would cost him before she suggested it, and she'd suggested it anyway because it was the only path that worked. "You're the circuit now, not just the builder," she said.
+
+Ethan exhaled slowly. "Then I'd better not short out."
+
+While the Fabricator processed the dampener, Ethan built the examination platform, which would be right next to the dampener. The same plating from earlier formed the base, which he welded to the frame with the suits built in auto weld. He padded it with reclaimed seat cushion material from one of the storage crates. It was not comfortable, but it was better than bare metal for a woman seven months pregnant. Maria sat on the edge of it to test the stability. "It's solid," she noted.
+
+"It was built, not assembled," Ethan said.
+
+”those mean the same thing,” she deadpanned, but her exhaustion was nearing its limits.
+
+The Fabricator chimed again. He fed the final materials in. The Fabricator's arms moved slowly and deliberately, as if the machine was being careful with something it didn't entirely understand. Light traced unfamiliar patterns. The resonance dampener emerged as a dense, palm-sized disc wrapped in copper threading. Its surface was etched with geometric patterns that reminded Ethan uncomfortably of the living walls. He held it up. It hummed faintly against his skin with a vibration pitched just below hearing.
+
+"That's unsettling," Maria said.
+
+"That's physics," Ethan replied, and he slotted it into the medical bay's central housing.
+
+[T2 Syntropic Medical Bay: Assembly Complete]
+
+[Sterile Field: Active]
+
+[Power Draw: 11% ]
+
+[RESOURCE STATUS — POST BUILD]
+
+[Iron Plates: 4 remaining Copper Plates: 0 Silver Wire: 0 Binding Agent: 0 Power Cells: 2 remaining Auto-Miner Output: Committed to restocking cycle]
+
+[Estimated Time to Baseline Inventory: 6–8 hours]
+
+Ethan stared at the resource readout. Two days of continuous loop production had been burned in four hours. The cupboard was scraped clean. If this didn't work, he wouldn't have the materials for a second attempt without a full restocking cycle, and Maria's infection wouldn't wait six to eight hours for his supply chain to catch up. He dismissed the warning.
+
+CelestOS: Warning dismissal acknowledged. Your confidence continues to be statistically irresponsible.
+
+Ethan stepped back and looked at what he'd built. The medical bay occupied the alcove like it had always belonged there. The sterile field shimmered, the dampener hummed, the examination platform sat waiting, and the air grew cold. The quartz lenses caught the Forge light and scattered violet refractions across the ceiling. It looked improvised but purposeful.
+
+Maria ran her fingers along the edge of the examination platform. Her touch was diagnostic, like an engineer evaluating another engineer's work. "It's really good," she said quietly.
+
+"It needs to be perfect," Ethan said.
+
+"Nothing's perfect down here. Good is what keeps us alive." He almost smiled.
+
+CelestOS: Medical bay calibration complete. Shall I initiate diagnostic protocols on both patients?
+
+Ethan looked at Maria. She met his gaze and held it. "Do it," he said.
+
+The medical bay hummed to life as blue scanning grids shimmered into existence and swept across Maria's body in clean, clinical lines. The quartz lenses focused, the resonance dampener pulsed once, and the alcove filled with the soft glow of data streaming across Ethan's HUD.
+
+CelestOS: Initiating dual-patient diagnostic. Please remain still. This applies to both of you, though statistically, Maria is the more cooperative subject.
+
+Ethan ignored her because he was already reading the data. The scan washed down in skeletal, muscular, circulatory, and nervous layers. Each system rendered in pale blue wireframe across the medical bay's display field. When the grid passed over Maria's shoulder, the resin infection lit up in angry red. It was a network of tendrils threading deeper than the last scan had shown.
+
+[Infection Status: 77% systemic integration] [Projected timeline to critical mass: 3.5 hours] [Rate of expansion: Accelerating]
+
+There was seventy-seven percent integration now, representing a twenty-three percent gain in seven hours. The scan continued lower over the curve of her stomach. The wireframe shifted and resolved a smaller form within the larger that was curled, moving, and unmistakably alive.
+
+[Fetal biometric evaluation: Stable]
+
+[Heartbeat: 142 BPM]
+
+[Growth rate: Normal variance]
+
+[Placental barrier: Intact — Estimated breach window: 23 days]
+
+Ethan exhaled. The child was stable for now.
+
+CelestOS: There is an additional variable. The fetus exhibits a distinct Syntropy resonance signature measured at approximately two hundred ninety hertz. Maria's cellular structure resonates at four hundred forty-seven hertz.
+
+"So?" Ethan asked, though a cold knot was already forming in his gut.
+
+CelestOS: A cure calibrated to Maria's frequency would successfully neutralize the infection but would likely induce miscarriage through resonance destabilization. A cure calibrated to the fetus would preserve the pregnancy while allowing Maria's infection to progress unchecked.
+
+The medical bay went silent except for the soft hum of the sterile field emitter. Maria spoke carefully. "You're saying we have to choose."
+
+CelestOS: I am saying that conventional treatment requires a choice, but I did not say conventional treatment is the only option.
+
+Ethan's mind was already moving as systems logic snapped into place. "What are you suggesting?"
+
+CelestOS: A modulated delivery system is theoretically viable but practically untested. It requires alternating resonance frequencies at precisely controlled intervals to treat both subjects simultaneously. It is extremely difficult to calibrate.
+
+"How difficult?" Ethan asked.
+
+CelestOS: The margin of error is zero-point-zero-zero-three seconds. One timing error results in the loss of one or both patients.
+
+Ethan looked down at his hands. They were steady now, steadier than they'd been all day. "I can do that. I've placed ten thousand components with tighter tolerances than that, and I can do this."
+
+Maria searched his face for a long moment. She nodded once. "Then let's get started."
+
+The medical bay hummed around them as the sterile field shimmered and the ore cores pulsed violet. He had two cores, one shot, no margin, and a failing clock. Ethan started designing the device that would have to be perfect.

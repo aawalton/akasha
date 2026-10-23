@@ -1,0 +1,109 @@
+CelestOS: Mobile production efficiency holding at eighty-nine percent of stationary baseline. The four-percent loss is attributable to feed chute vibration during piston strikes, and the remaining seven percent to slight intake misalignment caused by platform movement. Both are correctable with minor mechanical adjustment, which I'm sure you'll prioritize between saving your family and outrunning a corporate army.
+
+Eighty-nine percent efficiency meant the Fabricator didn't care whether it sat on a cave floor or a rolling platform. It converted stone to components at nearly the same rate either way. Two Auto-Miners feeding one Fabricator through twin chutes meant the intake tray stayed full and the conversion cycles overlapped without idle gaps. The system ran the way it was supposed to: hungry, fed, active, and producing.
+
+Ethan watched the output tray and counted the gaps anyway. Two miners on one platform fed one Fabricator. The Fabricator's throughput was the ceiling. Everything above it backed up in the intake tray and waited. He was hitting the machine's processing limit, not the feed limit. The constraint had shifted. On the surface, a similar bottleneck occurred with raw ore and the forge. The answer then had been a second forge. The answer now was a second mobile fabricator.
+
+Two platforms, each with its own Fabricator and miners, running in convoy. One hundred seventy-eight percent. The math was simple and the hunger was obvious. He could build more. He pulled up the resource counter.
+
+[MOBILE PRODUCTION: Hour 1][Iron Plates: 78 > 119 (+41)][Copper Mesh: 6 > 19 (+13)][Binding Agent: 22 > 26 (+4)][Rough Stone Processed: 212 kg][Distance Traveled: 2.1 km | Depth Gained: ~7.5m][Tunnel Sealed Behind: 2.1 km]
+
+Forty-one plates in the first hour. At that rate, he'd have enough stock to build a second platform chassis in three hours. A second Fabricator assembly would take another two, and he'd need to split the existing Auto-Miners between platforms or build new ones. Which meant the only real option was more auto miners. Five to six hours for a fully independent second unit, eight to ten for a third. Each one compounded the output of the ones before it. The factory didn't just move; it could grow while it moved. Ethan grinned.
+
+"Maria, how wide does this tunnel get?"
+
+She sat cross-legged on the platform's rear section with both palms flat on the Living Wall surface beneath her. Her eyes were closed and her head was tilted at the reading angle. "Depends on how far ahead you're asking. The current section stays at three meters for another two hundred meters, then opens to four and a half where a branch corridor joins from the northwest." She paused. "Why?"
+
+"Because I'm going to build a second platform. And then a third. I need room to run them in convoy."
+
+She opened one eye. "You've been rolling for an hour."
+
+"And in that hour I've produced enough to start the next one. The Fabricator's the bottleneck now, not the miners. Both Auto-Miners are feeding it and it still can't keep up with the intake during peak cycles. A second platform with its own Fabricator doubles the processing capacity. A third triples it."
+
+"And each new platform needs its own miners."
+
+"Which the current Fabricator builds from the stone the current miners extract. It's the Iron Loop. Same principle, same logic. The factory feeds itself until it outgrows the constraint, then I break the constraint and keep building."
+
+CelestOS: I'd like to confirm that Ethan's expansion model is mathematically sound, logistically feasible, and exactly the kind of escalating industrial ambition that turned a single Auto-Miner in a cave into a fully automated production line on the surface before your group found the Red Resin.
+
+Maria closed her eye and went back to reading. "The branch corridor at four and a half meters is wide enough for two platforms abreast. Beyond that, the tunnel descends through a series of chambers connected by passages ranging from three to six meters. You'll have room, but your going to need a smidgeon of luck to make it all fit."
+
+"How do you know I'll need it?"
+
+"Because I've met you," she said, shifting her weight to adjust for Frederick's movement. "Build your convoy. I'll map the route." The gold veins beneath her palms surged, spreading outward through the tunnel in both directions. She called out a course correction without opening her eyes. "Slight left in forty meters. The wall's thinner on the right side. Better ore density."
+
+Ethan adjusted the right Auto-Miner's swivel bracket two degrees. The next piston strike hit a darker band of stone, and the fragments that tumbled into the feed chute were heavier. The Fabricator's conversion rate ticked up on his HUD.
+
+CelestOS: Ore density at current extraction point is eighteen percent above tunnel average. Maria's geological guidance continues to outperform my sensor array by a margin I find professionally uncomfortable.
+
+"She's plugged into the planet. You're running sonar through a cave wall."
+
+CelestOS: I simply note, for the record, that a pregnant woman sitting on the floor with her eyes closed is providing more accurate subsurface mapping data than the combined output of three Celestitech-grade sensor modules. If anyone from corporate is listening, I'd like to request an upgrade.
+
+The tunnel widened ahead of them as Maria had predicted. The ceiling rose by half a meter, the walls pulled back, and the bioluminescent light shifted from pale jade to warmer gold. The Living Wall tissue was reshaping itself around their passage, making room for the platform while the river of tissue flowed around their moving stone. The air temperature had risen by two degrees since they'd entered the passage, warm and humid in a way that felt more like a greenhouse than a cave. The walls radiated their own heat from somewhere deep inside, and the moisture that condensed on the platform's iron frame evaporated within seconds of forming.
+
+Harold swept back from his forward position and circled the platform once before settling on the sled rail. His optics pulsed blue twice, the signal Ethan had learned to read as "clear ahead, nothing interesting."
+
+The drone had been running continuous sweeps in two-hundred-meter arcs since they'd started rolling, mapping the passage geometry and feeding terrain data back to CelestOS. So far every scan had returned the same result: breathable, stable, warm, and empty. The tunnel ahead of them was as welcoming as the tunnel behind them was sealed.
+
+Behind them, the passage contracted. Ethan watched the walls close, smooth green tissue covering the space where the platform had been as if nothing had ever passed through.The passage they'd rolled through two minutes ago simply didn't exist anymore.
+
+"It's sealing faster," Maria said. She'd opened her eyes and was watching too. "Under ninety seconds now. It took four minutes when we first entered. The walls are getting better at it."
+
+"Learning or adapting?"
+
+"Both. Or neither. The distinction might not mean anything to a system this old." She pressed her palms harder against the floor. "The deeper we go, the more responsive the tissue gets. The glyphs are changing too. Near the surface they were isolated symbols, waypoints marking direction and distance. Down here they're continuous bands that run along the walls, interlocking patterns that repeat and build on each other like circuit diagrams."
+
+She fell silent for a long time while the platform rolled, the Auto-Miners struck in alternation, and the Fabricator hummed. Ethan let her work and started sketching the second platform's layout on his HUD.
+
+The second platform would need its own chassis, its own drive motor, its own braking system, and its own pair of Auto-Miners. He didn't have those numbers yet. But the current Fabricator was working on them while he planned, each plate bringing the total closer to the threshold where he could start the build.
+
+He reassigned Mule One to component staging. Instead of hovering idle at the platform's rear, the drone would collect finished components from the Fabricator's output tray and stack them in designated bins organized by the second platform's assembly order. Chassis plates in one stack, conversion chamber components in another, drive system parts in a third, and sensor arrays in a fourth.
+
+When the stockpile reached critical mass, he'd stop the convoy, lay the second platform's chassis on the tunnel floor behind them, and build it in place while the first platform's miners continued feeding the Fabricator. The second unit would roll off the assembly point already producing.
+
+Mule Two would handle the relay between platforms once both were operational, ferrying components and raw materials between the convoy's units. Harold would keep scouting ahead. The logistics chain was forming in his mind the way it always did: constraint by constraint, solution by solution, each piece enabling the next.
+
+He could see the convoy in his head: three platforms rolling in sequence, twelve meters apart, each one a self-contained production unit eating stone and building components while the tunnel sealed behind the last unit in line. A factory train inside an alien mountain, growing itself bigger with every kilometer it traveled.
+
+The Fabricator chimed. Another batch complete. Mule One swooped down from its hover position, grippers closing around the stack of iron plates with magnetic precision, and ferried them to the chassis staging bin. The drone's movements were mechanical and graceless, but the plates landed in the bin exactly where they needed to be. Ethan watched the resource counter tick upward and calculated. Two more hours of accumulation before the second platform build could start.
+
+When Maria spoke again, her voice was quieter. The engineer's precision was still there, but something underneath it had shifted. "The ore, the walls, and the resin aren't separate things."
+
+Ethan looked up.
+
+"It's one system. One organism running across the entire planet, expressing different states depending on conditions." She opened her eyes. "The ore is the raw state. Base material sitting in the ground the way iron sits in rock before you smelt it. The walls are the active version, healthy infrastructure running the way it was designed to. And the resin is the same system sick. Corrupted. Fighting something off the way a body runs a fever."
+
+"Fighting what?"
+
+"Us. Our technology. Contamination and industrial waste," she said. "That’s why it was so mad at you. But now; Everything Patel's done on the surface, everything Celestitech did before him. The planet reads it as an infection. The resin is its immune response. It is a fever trying to burn out something that doesn't belong."
+
+CelestOS: Maria has independently derived a unified model of Veslayan biology that explains every anomalous observation I've logged since Ethan's arrival. I've been assembling the same hypothesis for approximately five hundred hours and was fourteen data points short of the same conclusion. Maria reached it through biological interface in three reading sessions. I'm accepting the professional embarrassment and filing this under observations I should've shared sooner.
+
+The implications stacked in Ethan's mind. If the resin was an immune response, then Patel's drilling wasn't just hunting them. The longer Patel operated on Veslaya, the sicker the planet got. Every weapon Ethan built to fight back would trigger the same response, except for one thing.
+
+"Your resonance," Ethan said, and Maria nodded.
+
+"Our resonance tells the immune system we're symbiotic. That's why the walls opened for us. That's why they seal behind us. That's why they reshape the tunnel to fit the platform and feed us denser ore when I ask."
+
+"But it isn’t enough."
+
+She shook her head looking hopeful. "Patel has drilling equipment and weaponized resin. Every hour he operates up there, the planet makes more antibodies to fight him. His own advance is generating the resistance that'll stop it."
+
+CelestOS: At current contamination rates, Red Resin production in the upper tunnel network will increase by approximately twelve percent per week. Within three to four weeks, Patel's operational corridors will experience spontaneous resin growth dense enough to compromise structural integrity and equipment function.
+
+Frederick kicked. The gold veins across the tunnel's visible length flared in a cascade that raced ahead of the platform and vanished around the curve. Something deeper in the mountain registered the pulse, something that had been registering every pulse since the cure.
+
+Ethan watched the light fade and let the quiet settle for a moment. The factory hummed while the walls glowed and three heartbeats traveled through a planet that was learning their names.
+
+Then Maria's expression changed. The wonder was gone. Tactical focus was back, her eyes narrowing at the sealed tunnel behind them the way they'd narrowed at Patel's seismic signature on the console back in the Forge.
+
+"The walls seal behind us," she said. "But the seals aren't permanent. They're biological tissue, not stone. Patel's boring equipment can cut through them. If he commits to a vertical pursuit with industrial rigs, he reaches the sealed passage in days and starts chewing through it in hours."
+
+"The seal's over a meter thick."
+
+"And his primary bore head cuts basalt at four meters per hour. Living Wall tissue is softer than basalt." She let that sit. "We're leaving a sealed corridor behind us, but it's still a corridor. It runs straight to wherever we stop. All he has to do is follow it."
+
+Ethan's hands stilled on the output tray. She was right. The walls erased their trail, but the trail remained underneath: a healed wound that a determined surgeon could reopen. The killbox they'd left at the old base had been a one-time solution. Down here they needed something that grew with them. Something continuous.
+
+“Don’t worry. I have an idea.” Maria looked at the Fabricator and the turret components listed in the schematic archive. She looked at the tunnel stretching behind them, sealed and dark and pointing straight back to the surface like an arrow aimed at their backs. "What if we arm it?" she said.

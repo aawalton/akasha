@@ -1,0 +1,159 @@
+The loop still murmured behind him, metal sighing through its rotations, while Ethan crouched over his console plotting the next run. The map flickered in and out, green veins threading the dark like capillaries. He’d been at this for hours, days maybe; time had dissolved into the rhythm of collection and return. His sled groaned under the load, half full again.
+
+He shoved off. The stone rasped against the floor, a steady drag of effort. Each trip had started the same way: count the load, mark the stride, repeat until something broke, usually him. The number mattered more than his muscles now.
+
+[Rough Stone: 11,420 → 11,480 → 11,520]
+
+He felt the pulse of the tally through his gloves like a heartbeat. 11,500 was the goal. The number had taken on the shape of a destination, more real than the exit. He hauled again, joints locking and unlocking like rusted hinges. Sweat streaked salt into the seams of his helmet.
+
+CelestOS: Vital signs trending toward suboptimal. Hydration below threshold.
+
+“Yeah,” he said, “join the club.”
+
+The Auto-Pick waited where he’d left it, silent and half-buried in stonedust. He wanted to rest, but resting meant thinking, and thinking meant realizing how dry his mouth felt, how hollow his tongue sat against his teeth. He swallowed and found nothing there. The condenser would be ready in 30 minutes and if he could hold out he’d have harvested all he needed and then he could find the lake again.
+
+[Rough Stone: 11,560 → 11,580 → 11,600]
+
+His hands trembled, a slow vibration that had nothing to do with the tool. He reset his stance and forced another drag, the sled scraping sparks from the rock. The motion carved lines in his shoulders, in his mind. Push, breathe, pull. He repeated the sequence until the words lost meaning.
+
+The world had narrowed to the line of his arms and the whisper of gravel. Every scrape sounded like progress, every number a promise that the suffering would crystallize into something usable, metal, plates, the next tool, salvation measured in kilograms.
+
+[Rough Stone: 11,640 → 11,660 → 11,700]
+
+He didn't see the alert at first. A red line blinked at the corner of his vision, more annoyance than alarm. It pulsed, sharp and insistent.
+
+[Hydration: CRITICAL]
+
+The sound was a low, pulsing tone, steady, clinical, but it hit like a hammer to the chest. Ethan froze mid-pull. For a moment he just stared at it, trying to will it away.
+
+CelestOS: Advisory—dehydration level exceeds safe operational limits. Immediate intake recommended.
+
+He licked his lips and tasted only iron. The dryness had crept in unnoticed, like corrosion spreading through a wire. His temples throbbed in time with the sled’s metal whine.
+
+“Fine,” he rasped. “Break time.”
+
+He let go of the handle and nearly tipped forward from momentum. The sled rolled a few inches, stone whispering against stone, before settling. His knees hit the floor.
+
+He reached for the canteen clipped to his belt, fingers stiff as rods. He shook it. Nothing. He remembered the last sip, how long ago that had been? Back when he thought he’d only make one more run.
+
+The red indicator stayed fixed in the corner of his vision, steady and merciless.
+
+[Hydration: CRITICAL | Body Temp: 39.1 °C | Cognitive Efficiency: 62%]
+
+He sat back against the wall, breath ragged, and stared at the rising number on his console.
+
+[Rough Stone: 11,760]
+
+So close. So damn close.
+
+He forced himself up again, hands on his knees, the world wavering at the edges. “One more load,” he whispered. “Then water. I promise, besides this isn’t as bad as earlier, we have water.”
+
+Celestos didn't answer, but the green light around him seemed to pulse once in quiet disapproval.
+
+He took that as permission.
+
+He grabbed the sled.
+
+He turned to leave. He took three steps, and stopped.
+
+The corridor wasn't right. The stone pathway he had hollowed out was changed.
+
+The gentle curve that had always bent left now folded back on itself, like two ribs meeting. The pale green sheen of the walls had deepened into something richer, wet-looking, as if the stone had grown a skin. Ethan blinked hard. The map on his console still showed a clean vector line, but the passage in front of him had become a knot.
+
+He stepped closer, tracing the change with his light. The wall wasn't cracked or collapsed; it had restructured. Layer upon layer of fibrous growth had bridged the gap, sealing the route like muscle healing over a wound.
+
+“CelestOS,” he said quietly. “Update the map.”
+
+CelestOS: Inertial mapping failed. Exit vector indeterminate. Structural encroachment: ninety-eight percent. The Cave seems to be encroaching on this territory.
+
+His stomach went hollow. “You’re saying I’m boxed in.”
+
+CelestOS: Correct. Local topology has reconfigured since last recorded scan.
+
+He stared at the blockage, pulse drumming in his temples. The air itself felt thicker, damp with something that wasn't quite humidity. His breath steamed faintly against the light.
+
+He spun slowly, lamp beam catching on the warped geometry around him. The tunnel he thought he knew had become a looping maze just like earlier, walls weaving into one another like braided sinew. Hard corners were gone, as were straight paths. Every direction narrowed, folding inward.
+
+He raised his hand, brushing the surface. It flexed under pressure, just slightly, like cartilage. Not stone anymore. Living, maybe, but sluggish, indifferent. The cave didn't care that he existed; it was reorganizing itself according to a logic that had nothing to do with him.
+
+Harold chirped uneasily from his shoulder mount, lens blinking. Ethan triggered an echo-scan. Blue wireframes exploded outward, tracing depth and density. For a heartbeat, the pattern made sense, a rough sphere around him, tunnels fanning out. Then the mesh shuddered and collapsed, lines intersecting, folding through each other. The scan couldn't reconcile what it saw.
+
+“Come on,” he whispered. “Show me something solid.”
+
+The next ping came back distorted, delayed, like sound traveling through liquid. He caught a faint shimmer at the far edge of the scan, then nothing.
+
+He backed up until his heel hit the sled. The load of stone still sat there, unmoved, a pile of triumph turned ballast. The green glow along the walls pulsed once, almost breathing in rhythm with his own.
+
+“I was nothing but kind when I realeased you from your cage,” he said, voice rough. “And now you’re me into one. I don’t like that. .”
+
+CelestOS: Advisory oxygen expenditure increasing. Panic response detected.
+
+“Yeah,” he said through his teeth. “This isn’t exactly a walk on the beach.”
+
+He exhaled hard, forcing air through his throat until his pulse slowed. The wall’s light softened, its movement subsiding, like it had only wanted to test him. Still no way out. Still trapped. And cut off from the condenser and water. Fuck. Should have gone back, dumbass. It was just like him to try and rush a reward instead of taking the patient route.
+
+He steadied his breathing. In through the nose, out through the teeth. The kind of control he’d learned fixing air ducts in vacuum suits, not fighting sentient terrain. But the cave wasn't stone anymore, it pulsed like a lung. His head throbbed in sync with it.
+
+He triggered Harold’s scan again. The drone lifted from his shoulder, light spilling from its iris. Blue threads laced across the air, tracing a neat bubble around him before spidering outward. For half a second the grid held, precise as drafting lines on glass. Then it broke, folding, intersecting, twisting through itself until the image resembled shattered glass frozen mid-collapse.
+
+“Harold, stabilize it.”
+
+The drone beeped an apology it hadn't been programmed to feel. The display jittered, and what had been a tunnel became a tangle of impossible corridors stacked through each other like reflections in warped mirrors. Depth and distance didn't agree.
+
+CelestOS: Scan integrity below 10%. Recommend relocation to open terrain.
+
+“Yeah, working on it,” he said. His voice came out hoarse, half-buried under the rasp in his throat. He turned a full circle. Every direction looked the same: green walls breathing slow, rhythmic, patient. Not hostile. Not kind. Just alive.
+
+He picked one at random and started walking, dragging the sled behind him out of instinct. It scraped and squealed, the sound loud enough to feel wrong in this new silence. Ten paces later the wall ahead folded shut, sealing like a mouth. He froze.
+
+“CelestOS, what’s the encroachment rate now?”
+
+CelestOS: Structural encroachment sustained. No additional motion detected.
+
+“So it’s not chasing me.”
+
+CelestOS: Interpretation acceptable.
+
+He wanted to laugh but his chest hurt too much. He tried again with Harold, recalibrating the scan range to two meters. The blue mesh flickered on, and found nothing beyond himself and the sled. Beyond that, the world was a void of unreadable mass.
+
+He pressed his gloved hand to the nearest surface. It was warm. Not hot, not cold, body warm. His fingers sank slightly before the texture pushed back. The sensation sent a bolt of nausea through him.
+
+“This isn't right.”
+
+CelestOS: Emotional irregularity detected. Suggest pause in manual operations.
+
+“Shut up.”
+
+The word echoed too clearly. The walls swallowed the sound, then returned it a heartbeat later, stretched and lower in pitch, his own voice speaking back through the stone.
+
+He stumbled away from it, hitting his shoulder against the sled. The water alarm chimed again, softer this time, almost merciful.
+
+[Hydration: CRITICAL | Oxygen: Stable | Heart Rate: 144 BPM]
+
+His vision tunneled. The air felt thick, each breath like sucking through fabric. The map, the cave, the mission, all blurred into one static haze. He crouched and pressed his forehead to the sled’s cool metal frame, forcing his body to stillness. And then he grabbed the autopick if this thing wanted trap him in, then he could bust out.
+
+“You wanted something to change our understanding of the universe, Maria,” he whispered. “Here it is. The mountain’s alive.”
+
+The light pulsed again, once, twice, like acknowledgment.
+
+Then everything went still.
+
+The silence lasted long enough to hurt. When the hum returned, it wasn't mechanical, it was inside his skull. His pulse, his breath, the faint tremor of dehydration. He rolled to his knees and steadied himself against the sled. The numbers on the console blinked back into view, their glow almost mocking.
+
+[Rough Stone: 11,920]
+
+“So close,” he rasped. His throat scraped like sandpaper. The canteen clinked uselessly at his side. He knew the math too well: three hours before motor control failed, maybe four before cognitive collapse. The human body was a machine, and this one was running out of coolant.
+
+He looked up at the shifting walls. They pulsed in slow intervals, like a sleeping animal breathing. The cave didn't hate him. It didn't even know what hate was. It had simply adapted. Closed around him like scar tissue. A perfect response to a perceived wound.
+
+CelestOS: Current priorities: survival and asset preservation.
+
+“Working on both,” he said.
+
+He keyed the console again, forcing the display into schematic mode. The options blinked in sterile rows: Break Through or Route Transfer. Simple words for impossible choices.
+
+Break through meant taking the Auto-Pick to the wall and hoping brute force could beat whatever was growing here. That meant sound, vibration, destruction. It also meant water, maybe. If he could open a passage to the lower vents, condensation might lead him toward the lakeor back to his base, either was an ideal.
+
+CelestOS: Probability of success: 14%. Probability of fatal injury: 63%.
+
+“Yeah. Not your best sales pitch.”

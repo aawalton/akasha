@@ -1,0 +1,147 @@
+The tunnel stretched ahead of them, dim and narrow, its walls catching the faint green pulse of the living stone. Each step echoed off the limestone in a flat, exhausted rhythm shared between two sets of boots while one dragged slightly. His suit read seventy-one percent integrity while his body felt closer to thirty. Maria's breath came harder than it should've, each exhale measured and controlled in a way that told him she was managing pain she wouldn't name.
+
+Harold apeared ahead with the drone's anti-grav motors humming softly while his single red sensor swept the tunnel in steady arcs. The little machine'd been Maria's before it was Ethan's and now it served them both with the quiet loyalty of something that'd survived too much to stop caring.
+
+The cable Ethan'd laid before the dive still lined the tunnel floor, though sections'd been nudged aside by the slow creep of mineral growth. The mountain never stopped moving as they followed the line back toward the base together, letting the familiar hum of the Forge guide them the last hundred meters like a lighthouse signal cutting through fog.
+
+The base opened up around them and nothing'd changed. The Iron Loop ran steady with its rhythm unbroken while the Auto-Miner's pistons struck the western wall in brutal, measured cadence. Shaking dust from the ceiling in soft curtains, conveyors rattled stone fragments toward the Fabricator, which swallowed them in glowing silence and spat components into the Forge's receiving tray. Ingots slid into the storage bins with soft metallic clinks as the distribution arms organized the day's output. The whole system breathed in mechanical sync, being alive and indifferent to their absence.
+
+Maria guided him to the nearest crate and eased him down as he set the ore bag beside him with more care than his body wanted to give. The violet light bled through the fabric immediately, throwing strange shadows across the storage bins and conveyor housings.
+
+"Two cores," he said. "Lost the third to the reclaimer." Maria's jaw tightened as she remained silent about the count because she knew the answer depended on the immediate next steps. Harold settled into a slow orbit between them while keeping watch. His sensor flickered once as if signaling recognition, relief, curiosity, or whatever passed for emotion in a machine that'd refused to die.
+
+"How long was I down there?" Ethan asked.
+
+Maria glanced at the console and replied, "Seven hours, forty-two minutes."
+
+Felt like seven years.
+
+His HUD flickered with warnings of critical fatigue and forty-one percent health while noting a severe caloric deficit and dehydration. Six structural micro-fractures marred his suit integrity, and the system flagged his deltoids, trapezius, lumbar chain, and neck for recovery.[Operator Status: Critical Fatigue][HP: 41% | Hydration: 33% | Caloric Deficit: Severe][Suit Integrity: 71% | Structural Micro-Fractures: 6][Muscle Groups Flagged: Deltoids, Trapezius, Lumbar Chain][Recommendation: Hydration. Rest. Nutrition. In that order.]
+
+CelestOS: For the record, you've exceeded the recommended continuous exertion window by approximately four hundred percent. Celestitech liability protocols require me to note this for your file.
+
+"Put it with the others," Ethan said.
+
+Maria was already moving. She crossed to the supply cache and came back with a canteen and two nutrient bars. She provided the items without fuss or commentary, showing the quiet competence of a woman who understood that the body was a machine and machines needed fuel. He drank first. The water tasted metallic, being condensation runoff filtered through mineral deposits. It's the best thing he'd ever tasted. The nutrient bar went down in three bites. The texture was still awful, being spongy, damp, salty, and cardboard-like, but his stomach seized it like a gift.[Hydration: 33% → 54%][Caloric Intake: Registered | Metabolic Recovery: Initiated]
+
+His hydration climbed to fifty-four percent while the system registered his caloric intake and initiated metabolic recovery. Maria watched him eat without rushing him. Her hand rested on the console behind her, steady, but her eyes tracked the resin wound's faint pulse against her own shoulder. She was counting time in a currency he couldn't see. He finished the second bar and wiped his mouth with the back of his glove. The shaking didn't come from cold but from the slow unraveling of eight hours of sustained terror finally finding an exit.
+
+"Thanks," he said.
+
+"Eat faster next time," she replied. "You looked like you were about to pass out."
+
+"I was considering it."
+
+He sat on the crate beside the ore bag and let his head hang. The Forge's heat pressed against his back, familiar and grounding. For ten seconds he allowed himself to just breathe. He looked up and assessed the base with calculation. The Forge dominated the chamber, being twelve meters of industrial geometry humming on its bolted pad. The Fabricator sat on its own foundation beside it with its arms folded as it waited. Storage bins lined the near wall while neatly labeled and organized. Conveyors threaded between machines like veins and power generators cycled quietly near the tunnel junction while feeding the distribution network.
+
+He cataloged what he had. He possessed iron and copper ingots built up over the last two days of continuous loop operation. Component stock from the Fabricator included coils, plates, gears, and power cells. He had enough to work with, but he didn't have unlimited supplies. Once he burned through the current stockpile, he'd need to harvest raw stone again, and the Auto-Miner's output was already committed to maintaining the loop. He lacked medical equipment, sterile environments, surgical precision tools, and diagnostics. He wasn't even remotely equipped to save two lives from a Syntropic infection threading through living tissue.
+
+Maria saw the shift in him immediately. She'd lived with it long enough to recognize the signs: the way his gaze lingered on empty work surfaces and the subtle tightening of his jaw as he mentally cataloged everything that wasn't there.
+
+"You're thinking about what we don't have," she said.
+
+"I'm thinking about what I can build," Ethan replied.
+
+She leaned back against the console with careful, measured movements. The movement cost her more than she let show. "And the things you can't?"
+
+His mouth twitched into a grimace. "I'm working around those."
+
+Maria watched him for a beat and asked the question she'd been holding since he surfaced. "If this doesn't work," she said quietly, "will I feel it?"
+
+Ethan stilled then exhaled through his nose to face her fully. "Yes, it's probable, but it wouldn't be for long."
+
+She nodded and accepted the answer without flinching. "And the baby?"
+
+He didn't hesitate. "I won't let it come to that."
+
+CelestOS chose that moment to intrude, voice crisp and entirely unbothered by human discomfort.
+
+CelestOS: Statistically, emotional reassurance doesn't alter medical outcomes.
+
+Ethan didn't look at the projector. "And yet you keep letting me do it."
+
+CelestOS: Your emotional state correlates with increased problem-solving efficiency under crisis conditions. Denying reassurance would be counterproductive.
+
+Maria snorted softly. "So we're a system optimization problem now."
+
+CelestOS: Correct. A highly volatile one.
+
+Ethan stepped closer to Maria and lowered his voice. "Listen to me. Whatever happens in the next few hours, you don't apologize. You don't make contingency plans for dying. You stay here and let me work."
+
+She searched his face then nodded once. "Don't give me time to overthink it."
+
+He turned toward the ore cores and his focus snapped into place like a locking mechanism. "Good," he said. "Because once we've started, we won't stop."
+
+"Put the ore here," Maria said, gesturing to a cleared work surface near the Fabricator. Her hand trembled slightly. Ethan set the bag down and removed the two cores one by one while arranging them carefully. Violet light spilled across the bay while throwing strange shadows, crystalline patterns, metallic reflections, and a green pulse against the cave walls.
+
+CelestOS: Medical-grade Syntropic refinement requires precise purification, resonance stabilization, controlled lattice excitation, and containment. Current available equipment is… insufficient.
+
+"Define insufficient," Ethan said.
+
+CelestOS: You currently possess approximately twelve percent of the required medical infrastructure. The remaining eighty-eight percent doesn't exist.
+
+"Twelve percent of what?"
+
+CelestOS: Of a functional medical facility. You've got a Forge, a Fabricator, optimism, and desperation. The first two are useful.
+
+"So I've got to build a medical bay."
+
+CelestOS: Correct. And before you'd ask: yes, the Syntropy integration in your suit's unlocked the relevant schematics. I'd been saving the announcement for a moment of maximum dramatic impact, but your current crisis seems sufficient.
+
+The HUD displayed a new tier for Syntropy-Class medical systems, which required integrated suit authorization. He opened the file to find a rotating green wireframe of a field-grade medical station. The description noted the station's ability to refine ore, scan biological data, calibrate resonances, and deliver substances in environments lacking conventional infrastructure. The station was neither elegant nor safe, though it remained possible.
+
+CelestOS: Congratulations. Your suit's Syntropy integration's exceeded the threshold required to access advanced biological schematics. Normally, this unlock'd be accompanied by a Celestitech promotional offer and a twenty-percent discount on your first medical module.
+
+[NEW SCHEMATIC TIER UNLOCKED: Syntropy-Class Medical Systems] [Authorization: CMS Suit (Syntropy-Integrated) | Tier Sufficient]
+
+Ethan snorted. "Let me guess. Premium members only."
+
+CelestOS: Celestitech commerce servers don't currently have coverage in this geological stratum. Your promotional benefits've been deferred indefinitely. I'm certain someone in accounting's devastated.
+
+"Heartbreaking."
+
+CelestOS: I'll note your sympathy in my quarterly report. Now, should we examine the recipe, or'd you prefer to continue mourning the loss of corporate discounts?
+
+[T2 Syntropic Medical Bay | Field-Grade]
+
+[Description: A modular medical station capable of Syntropic ore refinement, biological scanning, resonance calibration, and controlled substance delivery. Designed for emergency deployment in environments where conventional medical infrastructure is unavailable. Which, based on your record, is everywhere.]
+
+[Components Required:] [Iron Plates ×16, Copper Plates ×12, Silver Wire ×8, Sensor Components ×6, T1 Power Cells ×4, Binding Agent ×6, Quartz Lens Array ×2, Stabilization Coils ×4, Resonance Dampener ×1, Sterile Field Emitter ×1]
+
+The build required iron plates, copper plates, silver wire, and sensor components, in large quantities. He also needed power cells, binding agents, a quartz lens array, and stabilization coils. To complete the assembly, he'd have to fabricate a resonance dampener and a sterile field emitter from scratch. Novel components required custom calibration, and any failure during calibration could result in equipment malfunction, electromagnetic discharge, patient harm, and total failure.
+
+Ethan studied the list. His eyes moved fast and cross-referenced against the mental inventory he kept running. He had the iron plates as the loop'd been stacking ingots for two days. Copper's tight, but workable. He'd stashed eight spools of silver wire from the last fabrication run. Sensor components and power cells'd be produced by the Fabricator from current stock, though six units of binding agent'd clean him out. The resonance dampener and sterile field emitter were novel fabrications without existing templates. He'd have to design them using the Fabricator's adaptive mode and whatever CelestOS'd extrapolate from the ore's properties.
+
+"Ninety-four percent," he said. "What's the six I'm missing?"
+
+CelestOS: The novel components require calibration data derived from direct Syntropic ore analysis. Essentially, the ore's got to teach the Fabricator how to build its own medical tools. It's a bootstrapping problem wrapped in a material science puzzle.
+
+"And after this build?"
+
+CelestOS: Your current material reserves'll be functionally depleted. Iron stock'll be reduced to emergency minimum and copper'll be exhausted. Silver wire and binding agent inventory'll be zero. Resuming production'll require a full harvesting cycle from the Auto-Miner, estimated at six to eight hours for baseline restocking.
+
+Ethan exhaled. Everything he had'd be spent in one build. After this, the cupboard'd be bare. The thought landed wrong and hit the exhaustion pooling behind his eyes while the adrenaline still buzzed through his nervous system. The fracture was silent and subtle. He stared at the resource readout where the stock of copper and silver and binding agent and supplies was gone. He'd be standing in a cave with an empty factory, a dying wife, a sarcastic AI, and a fading light.
+
+His hands'd stopped shaking from exhaustion but now they're shaking from something worse. "One shot," he said, and his voice came out thinner than he'd wanted. "If I burn everything on this and it doesn't—"
+
+"Stop." Maria's voice cut through the spiral like a blade through a cable. Her voice was precise. She pushed herself off the console and crossed to him. The movement cost her as he saw the flinch she almost hid, but she closed the distance and put her hand flat against the schematic display to cover the zeros. "Look at me," she said. "Not the list. Me."
+
+Her eyes were steady, being tired, bloodshot, ringed with shadows, and weary. She'd been sitting with this problem for almost eight hours while he'd been underwater. She'd had time to panic and'd already come out the other side. "If this doesn't work," she said, "we'll harvest more materials and we'll try again. The Auto-Miner doesn't stop and the Forge doesn't stop and the loop keeps running and we won't stop either. We're not out of options just because we're out of stock."
+
+"The infection—"
+
+"Is on a timeline. I know. I've been staring at the numbers since you left." She tapped the console behind her without looking. "Three and a half days. That's not eight hours. If this build fails, we'll restock and adjust and go again and win. That's what builders do."
+
+Ethan opened his mouth then shut it without finding words. The spiral was still there, but her hand on the display'd blocked its fuel source. He couldn't see the zeros anymore. "You taught me that," she added quietly. "Start with the infrastructure. Everything else'll follow."
+
+He let out a breath that shuddered. "You're quoting yourself back at me."
+
+"Someone's got to. You're too tired to think straight."
+
+CelestOS: I concur with Maria's assessment. Your cognitive function's currently operating at sixty-three percent baseline. Panic's a luxury reserved for personnel with adequate blood sugar.
+
+Ethan almost laughed. It came out as a rough exhale, but it loosened something in his chest. Maria held his gaze then stepped back. "So. We'll build it, and we'll build it right. And if something goes sideways, we'll figure it out together."
+
+He looked at the schematic again. The resource numbers're still there and they're still ugly. But the math's different now. It's a budget: tight, demanding, unforgiving, and essential. He cracked his knuckles and pulled up the Fabricator queue.
+
+"Let's build a hospital."

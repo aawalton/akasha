@@ -1,0 +1,171 @@
+He woke to a stillness thick enough to be a sound. The lamp’s circle had shrunk to a tired halo. He didn't move for a moment, just listening to the faint rhythm vibrating through the floor like a heart muffled in stone. His tongue felt human again after the lake. His stomach growled, which felt like progress.
+
+He grabbed a couple of pre-generated  ration bars, its wrapper stiff with the cold of the cave. He tore it open with his teeth. The first bite stuck to his molars like clay. The second refused to taste like anything at all, which almost felt like mercy. He chewed until it turned from bland into food.
+
+“God,” he said. “I miss real food.”
+
+CelestOS: Nutritional analysis: optimal. Flavor profile: prehistoric.
+
+“Yeah, I noticed.” He took another reluctant bite and forced it down. “If this keeps up, I’m going to start eating my gloves, just to have a different flavor.”
+
+CelestOS: Not recommended. Although your dietary regression is fascinating. You’ve transitioned from omnivore to scavenger in under six months. Impressive adaptability for a higher mammal.
+
+“Appreciate the vote of confidence.”
+
+CelestOS: On the bright side, water-based life forms are often an untapped protein source. There may be piscine organisms within the lake suitable for consumption.
+
+He stopped mid-chew. “Fish. You think there are fish down there?”
+
+CelestOS: Unknown. My acoustic scans return inconsistent movement patterns. But statistically speaking, any self-sustaining ecosystem requires a food chain. You might even be at the top.
+
+He stared at the wall, considering the plan for now. He folded the wrapper of what was left of an unfinished bar, tucked it into his pocket, and decided he could live without fishing lessons for the day.
+
+[Vitals: Stable | Hydration: Optimal | Satiation: optimal  | Power: 18 % Reserve]
+
+The air tasted different now, with a faint mineral sweetness and a humidity that clung instead of scraping. Harold powered up with a polite chirp, his lens dilating from a pinpoint to a coin.
+
+“Morning, sunshine,” Ethan said. His voice echoed once and died. The quiet afterward had the weight of an answer.
+
+He stretched until the joints in his back clicked. The warmth radiating from the green walls had kept the chill off, a reminder that this place generated its own comfort when it wanted to. He crouched to check the cup at the basin, which was half full with beads of condensation trembling on the rim. The steady drip from the condenser felt like the heartbeat of a tiny god.
+
+CelestOS: Morning protocol active. Sleep duration: 6 hours 14 minutes. Congratulations, your circadian rhythm continues to defy probability.
+
+“Feels like a hangover without the party,” he said. He rubbed his jaw, tracing the stubble ridge that counted days better than any clock. “Status on oxygen?”
+
+CelestOS: Acceptable. Partial pressure is trending mildly low but potentially suitable for flame. I recommend supplemental systems, should they exist.
+
+“Working on it,” he said. “Next big trick is getting the generator running without choking myself to death.”
+
+CelestOS: Spoken like a true pioneer of bad ideas.
+
+He snorted. “Got a better one?”
+
+CelestOS: Several. None involve you surviving.
+
+He knelt beside the crate, unlatched it, and ran his fingers through the dull mix of stone shards, scrap, and half-cooled ingots. The smell of metal dusted his gloves, familiar and oddly comforting. Three days of water bought him breathing room: time to rebuild and think. Power came next. Without it, the forge was a rock and the Fabricator an ornament.
+
+He stood, glancing once more at the walls. The green light swelled, faintly gold at the edges, whenever his breath deepened. It felt almost polite, like the world exhaling after him.
+
+“Alright,” he said softly. “Let’s see if we can teach this place to like fire.”
+
+CelestOS: Noted. Initiating file: ‘Project Vent Kit Mk.I: Prototype for Controlled Self-Immolation.’
+
+He smiled despite himself. The smile felt foreign but functional. He packed the canteens, checked the Harold’s charge, and looked toward the corridor. The hum there had changed to a lower, steadier tone, like a tide rolling beneath the floor. One step, then another, the sound followed him as a rhythm, not an echo. Somewhere behind him, the drip kept time. He didn't look back.
+
+He cleared a patch of grit beside the forge and crouched, stone shard in hand. The surface took marks reluctantly, but it held enough dust for lines. He drew the first curve slow and careful, tracing the air’s remembered path from the generator to the seam. It looked less like a plan and more like a lung.
+
+“Alright,” he said. “One hole that breathes out but not in.”
+
+CelestOS: Definition accepted. Ventilation is a process by which one converts survivable atmosphere into regret.
+
+“Not wrong,” he said, sketching arrows for airflow. “We burn here, it pulls hot gas through here, up the bend, and into the seam. The flap closes when the fire dies. Simple.”
+
+CelestOS: Simplicity is the gateway drug to disaster.
+
+He flattened the dust with his palm and drew it again, refining the angles. “We need binding joints every half meter to handle expansion. A heat diffuser at the tip, maybe a carved plate to keep the blast gentle.” He glanced toward the seam, the subtle pulse of green beyond the stone lip. “We keep the output away from that.”
+
+CelestOS: Acknowledged. You wish to avoid offending the alien infrastructure that currently provides your oxygen. Admirable restraint.
+
+He leaned back on his heels. “You’re not worried about the ethics of setting a fire in a living hallway?”
+
+CelestOS: Per Celestitech policy subsection 9.2, only sentient organisms possess burn-rights. Determination of sentience is pending. Proceed with caution and plausible deniability.
+
+“Good to know our lawyers made it this far underground.”
+
+He rose, brushed the dust from his gloves, and began sorting materials. He piled rough stone chunks for duct segments, sand for Binding Agent, and the last intact plate from the generator wreck to serve as a collar.
+
+Harold hovered close, recording the diagram with a soft whirr. Ethan used a finger to annotate his drawing, labeling it Vent Kit Mk.I in a script that looked shakier than he liked.
+
+“Okay. We carve the ducts from this ridge; it’s stable. We’ll need six Binding batches, minimum. The diffuser plate goes last.” He paused, frowning at the design for the valve hinge. “We’ll cannibalize a shovel head.”
+
+CelestOS: Recycling noted. Sustainability how quaint.
+
+He ignored that. “If we angle it right, convection will do half the work. Hot air rises and cool air follows. Everyone’s happy.”
+
+CelestOS: Except you, if the pressure rebounds and cooks your lungs.
+
+“That’s why we start small.” He tapped the floor sketch where the duct bent. “Half-length first. See if the corridor likes it.”
+
+He stood and stretched, looking at the crude lung drawn on the ground, the flow arrows curling like ribs. The resemblance bothered him, the symmetry and the sense that he was copying something nature had already built.
+
+He wiped sweat from his temple and turned back to the seam. The green shimmer had brightened since morning, soft waves sliding under the stone lip like light through water.
+
+“Feels like it’s waiting for us,” he said.
+
+CelestOS: That interpretation aligns with my internal risk assessment. You should absolutely continue with no hesitation or further planning.
+
+“Yeah,” he said, picking up the auto-pick. “I thought you’d say that.”
+
+CelestOS: Shall I file this under courage or boredom?
+
+“File it under ‘breathing lessons.’”
+
+He started measuring the first cut, marking each segment’s length in the dust. The hum in the walls seemed to echo the steady tat-tat-tat of the Auto-Pick’s triple heads, a medium rhythm that sounded almost like approval. He worked through the next six hours without realizing it.
+
+The rhythm of the Auto-Pick against stone pulled something old out of him. The steady whir and pulse felt like a heartbeat he hadn't heard in years. Every vibration climbed up his forearm, the same mechanical insistence he’d first felt back in basic, back in the training bay that smelled like coolant and overworked circuitry. They’d called it “hands-on familiarity with CelestiCraft systems,” which was bureaucratic shorthand for don’t break the expensive toy. The prototype printer had sprawled across the bench like a nervous animal, ports twitching, lights flickering through translucent housings. Ethan remembered staying late after the others left, trying to figure out why the system locked whenever he sketched outside its grid. Maria had caught him once, elbow-deep in code and grease.
+
+“You can’t just draw what you want,” she’d said.
+
+“Then it’s not crafting,” he’d told her, still dragging his finger through the holo field.
+
+The CelestiCraft had hesitated, stuttered, then printed something that wasn't quite a cup and wasn't quite wrong. The instructors called it an error. Maria called it “potential.” Ethan called it proof that rules only existed until someone ignored them long enough.
+
+Guiding the Auto-Pick through the last of the planned curve, he felt the same quiet defiance, the same pulse of invention, this time without anyone to see it.
+
+CelestOS: Efficiency metrics suggest déjà vu. Your current error rate matches your first week of training.
+
+“Then I’m finally consistent,” he said, and kept digging.
+
+Each strike of the pick turned the cave’s silence into rhythm, as stone gave up its shape grain by grain until it resembled purpose. Harold hovered close enough to catch fragments, recording measurements in a tone Ethan could swear sounded judgmental.
+
+He’d carved six duct segments from rough stone by the time his wrists began to ache. Each one was crude but serviceable, lined along the cavern floor like ribs waiting for a spine. He mixed sand and fines for Binding Agent, the slurry cold against his gloves, its smell faintly metallic and clean.
+
+[Reserve Power: 18 % → 16 %]
+
+CelestOS: Binding mixture viscosity inconsistent. Are you attempting masonry or abstract art?
+
+“Whatever sticks and doesn’t fall on me.” He ladled the compound into the carved joints, smoothing it with the back of a scraper. “Art’s a side effect.”
+
+CelestOS: Then congratulations on your debut exhibition: Wall Meets Idiot, there were No Survivors.
+
+He ignored the commentary and started fitting plates together, sealing each seam. He was vaguely reminded of the tunnel he’d built back in the surface, but despite how similar it seemed, the build was different.
+
+This time he was relaxed, but methodical. Every few minutes he paused to stretch his fingers, shaking off the pins-and-needles ache. Sweat pooled at his collar, stinging the cuts on his knuckles. The air smelled faintly of wet earth and stone dust. It was primitive and alive.
+
+Harold beeped softly when the sixth duct was in place. Ethan stepped back and eyed the assembly, a single-bend flue curving upward into the seam’s cavity. He wedged the Check Flap Valve inside, a thin, balanced stone that would lift with pressure and drop with gravity, and secured the Heat Diffuser Plate at the tip.
+
+CelestOS: Structural analysis: marginally sound. Expected lifespan: approximately one human error.
+
+“Better odds than usual.” He tested the flap by exhaling against it. The valve fluttered open, sighed, and settled closed again. “See? One-way.”
+
+CelestOS: It appears obedient. For now.
+
+He sat beside the vent, resting his head against the wall. Warmth seeped faintly through the green surface, more noticeable after hours of labor. The pulse had quickened, almost imperceptibly. He tried to tell himself that was coincidence.
+
+[Temperature: 26 °C | Humidity: 78 %]
+
+“Alright,” he said. “Duct’s lined, joints sealed, and the flap swings. All that’s left is fire.”
+
+CelestOS: Statement logged. Flagged under ‘premature optimism.’
+
+He pushed himself up and double-checked the generator housing. The burner still smelled faintly of fuel; he cleaned the intake with a strip of fibrous matter, cleared the vents, and reattached the plate collar. Each motion was mechanical, a ritual more than a repair.
+
+By the time he finished, his arms trembled with fatigue. He ran his thumb along a line of dried Binding Agent and watched flakes crumble off. Somewhere in the deep, the hum shifted key, lower now, like a throat clearing.
+
+CelestOS: Environmental frequency drift detected: minus 0.3 Hz. Possible correlation: your meddling.
+
+“Or maybe it’s excited.” He turned to Harold. “Pull back five meters when I light it. If the air gets ugly, ping twice and hide behind something that’s not me.”
+
+Harold chirped an acknowledgment, his treads clacking as he retreated toward the far wall.
+
+Ethan took a slow breath, letting the cavern’s humidity settle in his lungs. He stared into the vent’s dark throat, the valve hanging still. He had built something that might make the world move.
+
+“Let’s see if you can breathe,” he said and reached for the ignition switch.
+
+CelestOS: For the record, I advised against this.
+
+“Yeah,” he said, his hand steady now. “That’s why I trust it.”
+
+The click echoed like the start of a sentence. Fuel hissed, and the hum of the chamber deepened, as though it were leaning in to listen.
+
+The burner coughed once, then roared awake.

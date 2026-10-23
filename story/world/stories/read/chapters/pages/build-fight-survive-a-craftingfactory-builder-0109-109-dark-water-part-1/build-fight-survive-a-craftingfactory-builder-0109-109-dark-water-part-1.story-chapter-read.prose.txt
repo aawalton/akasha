@@ -1,0 +1,231 @@
+María called once more as he turned to leave. “Ethan.”
+
+He stopped.
+
+Her eyes were shining now but steady. “Make smart decisions down there. Keep yourself alive. For both of us.”
+
+“I will.”
+
+He headed into the tunnel’s gloom, the forge glow shrinking behind him. Maria remained at the console, soft blue light washing over her while she watched his signal walk deeper into the mountain. The corridor swallowed him while the base held its breath.
+
+The cable dug into Ethan’s shoulder like a living thing.
+
+Each step made the spool jerk forward with a metallic rasp, weight translating directly into bone and muscle. The tunnel fought the hauling operation; bends caught the coil, stone edges bit into insulation, and the floor dipped unpredictably beneath old mineral outflow. He leaned into the harness and pulled anyway, boots grinding against slick limestone dust.
+
+[Oxygen: Stable | Power Draw: Nominal]
+
+The Wet Sector lay farther ahead, its air colder and damp enough to cling to his throat when he inhaled. He’d pinged the route twice already. The scanner showed clear of hostiles or movement. The absence felt louder than pursuit ever had.
+
+The coil snagged hard.
+
+Ethan braced and yanked, but the line seized completely. He swore under his breath and followed the cable to the blockage. The living wall breach stared back at him like a half-healed wound. Where the Auto-Pick had once torn through fibrous stone and pulsing resin-vein structures, the opening was narrower now. Pale growth sheets had stretched across the jagged gap like stretched membranes, binding the edges together in uneven layers. Veins threaded through the translucent material, faintly luminous and beating with a lazy rhythm.
+
+The cave was stitching itself closed.
+
+Ethan rested a gloved hand against the surface.
+
+It was warm. Beneath the resin-sheen, something flinched away from his palm. The texture felt wrong; too elastic for rock, yet too rigid for flesh. When pressure met resistance it flexed before pushing back.
+
+CelestOS: Local biome regeneration detected. Damage reversal in progress.
+
+“It heals,” Ethan said. “That’s new.”
+
+The realization slid into place with uncomfortable clarity. The monsters had retreated because the cave told them to wait.
+
+Ethan guided the cable forward and shoved its armored edge into the partially sealed gap. The membrane resisted, stretching ugly and tight around the coil before splitting with a wet sound like tearing tape. He used raw pressure. The cable scraped through, insulation groaning against living tissue as the opening reluctantly widened.
+
+Ethan followed.
+
+His shoulder clipped the regenerating edge as he squeezed through, the surface brushing across his suit plating with a faint sticky drag. He froze for half a second, listening for tremors or alarms.
+
+Nothing came.
+
+[Environmental Vibration: Minimal]
+
+On the far side the tunnel widened again, and the air shifted cold against his chest. The Wet Sector approached. Ethan fed the rest of the coil forward mechanically while his mind snagged on the implications.
+
+Adaptive environment and self-repair capability matched with hostile response cycles and lethal intent.
+
+Something intelligent enough to alter the terrain didn’t abandon territory; it prepared it. He tugged the last length free and resumed hauling. Along the route he passed quiet scars the monsters had once left behind: smeared mucus trails now long cracked into dry lines and shattered stone where armor plates had scraped the walls. He paused to study a curved plate fragment lodged between rock ridges. It was a concave segment shaped to deflect blows, thick as his palm, and threaded with mineral veins.
+
+The coils grew lighter as he neared the shoreline staging shelf. The echo of open space replaced the tight acoustics of the tunnels. A thin mist clung to the cavern air where subterranean humidity collected, and each breath felt heavier than the last. The lake lay just beyond the bend.
+
+Ethan dropped the cable spool at the edge of the rock lip and rolled his shoulder to work circulation back into it. He began situating the line by spreading coils along stone shelves where they couldn’t slip into the water accidentally, hammering grounding rods into fissures, and tightening clamps until the metal sang under torque. Each anchor locked into place with mounting finality.
+
+[Cable Continuity: Green]
+
+[Load Tolerance: Extreme]
+
+He stepped back and surveyed the staging layout. It looked like preparation.
+
+He keyed the comm. “Cabling set.”
+
+Maria’s voice answered immediately. “Copy. I’m seeing stable continuity. Clean signal relay at the staging node.”
+
+“Good.”
+
+She was blind to the wall's changes. Ethan took a final look back toward the tunnel he’d come from. The narrowing seam in the living rock was visible even from this distance like a scar that had decided to fade.
+
+“This place remembers,” he said.
+
+CelestOS: Correction: The environment does not ‘remember.’ It responds.
+
+“Same difference,” Ethan said.
+
+He turned toward the lake.
+
+The lake looked artificial.
+
+It stretched farther than Ethan expected, a wide black disc of perfectly still water filling the cavern basin. Its surface swallowed all light. The shoreline fell away in jagged ledges, stone slick with condensation and lichen sheen. Slow droplets ticked down from the ceiling, each one striking the surface with a whisper-soft plink that vanished instantly without a ripple.
+
+Ethan stayed at the edge and simply listened.
+
+[Environmental Motion: Minimal]
+
+[Hydrodynamic Disturbance: None Detected]
+
+The quiet pressed harder than noise ever had.
+
+He swept his goggles across the water methodically. Low-light enhancement skated across endless darkness. The water hid everything. The depths remained clear of bulk shadows or pale wakes sliding beneath reflective skin.
+
+“CelestOS,” he said, “tell me you see something I don’t.”
+
+CelestOS: Large aquatic predator signatures currently outside detection range.
+
+“That translates to a rush job, right?”
+
+CelestOS: Translation: Visibility limitations in sub-aquatic environments remain frustratingly inconvenient.
+
+Ethan snorted softly but didn’t relax.
+
+He clipped the noise lure free from his harness and thumbed the activator. The turbine screamed. The shrill vibration tore across the cavern air like a wounded siren. The sound pitched down through its frequency shifts, bouncing off stone walls and collapsing into the open basin.
+
+Ethan tracked the surface.
+
+The water remained still, lacking any swell or pressure wave.
+
+He killed the lure and the scream died, leaving only the drip of condensation. He felt colder than before, even outside the water.
+
+“That’s not right,” he breathed.
+
+The monsters had been territorial. Violently responsive. Now the lake sat like a sealed mouth.
+
+He keyed his comm. “Maria, lure test didn’t trigger anything.”
+
+Her voice answered quickly, but it carried thin fatigue behind its steadiness. “Telemetry saw the acoustic spike. No hydrodynamic response registered.”
+
+“So either they’re gone…”
+
+“…or they’re hiding deeper,” she finished.
+
+“Or smarter. Probably cooking up a plan so I don’t escape a second time.”
+
+Maria paused before responding. “Everything that lives here is learning.”
+
+Ethan glanced back instinctively toward the tunnel where the healing wall waited, scar already fading.
+
+“Yeah,” he said quietly. “I noticed.”
+
+He turned back to the shore and began his final checks.
+
+The goggles’ protectorate read solid, free of interior fog or moisture infiltration. Power draw was stable and slaved directly to priority feed. He tugged the harpoon tether hard enough to make the cable twang. The line ran clear of slack faults or bind points. The localized shock device clicked into ready mode at his hip, its capacitor indicator glowing amber. One deployment only; the tech didn't allow for second chances.
+
+He walked the cable anchors one last time, running his gloved hand along each clamp until the metal burned cold into his skin.
+
+[Ground Connection: Stable]
+
+[Line Resistance: Nominal]
+
+The instruments said everything was fine. The silence said otherwise.
+
+Ethan crouched near the waterline and leaned forward until the NV light halo skimmed the surface. The lake swallowed it, depth only implied by darkness thickening downward. Beneath that curtain of shadow, somewhere far below, glowed the first particle readings (ghost faint on his suit HUD).
+
+The ore waited.
+
+Whatever guarded it was just… quiet now.
+
+“Heads up,” Ethan said, touching his comm. “I’m entering.”
+
+Maria hesitated.
+
+For a long moment only the forge’s distant hum carried across the relay line. Her voice returned, sure but frayed at the edges. “Tether live. Surge capacity maxed. I’ve got eyes on all metrics.”
+
+“Anything keeping you up back there?”
+
+“Only you.”
+
+He smiled faintly at that and tucked the expression away.
+
+“Remember,” she added, “don’t chase perfect.”
+
+“I know. Grab and go.”
+
+“And Ethan…”
+
+“Yes?”
+
+Silence again, filled with things she didn’t allow herself to say.
+
+“Be careful.”
+
+Always her final plea.
+
+He stepped forward.
+
+Cold punched into the seals of his boots, the initial shock biting through suit membranes before thermal regulation kicked in. The water climbed his legs, then wrapped tight around his waist like a constrictor. It crested his chest, pressing the suit liner against his skin, before stealing the air from the cavern entirely. The liquid sealed him in. The lake accepted him without sound.
+
+[Environmental Immersion Detected]
+
+Sound flattened instantly. The endless churn of the forge and the echo of the cavern fell away until only his breathing and the muted thump of his heartbeat remained.
+
+He drew one full breath, more for calming himself than any real need. He leaned forward.
+
+The surface slid above him like a closing lid, the NV image warping as light refracted through liquid. The world dulled into green-grey distortion as he tilted headfirst and allowed the tether tension to ease him downward.
+
+CelestOS: Sub-aquatic operational mode engaged. External acoustic sensors functioning at reduced fidelity.
+
+The faint glow below remained the only star in a swallowed sky. Ethan followed it down.
+
+The water swallowed Ethan whole.
+
+Even with thermal compensation, the cold slid straight through the suit in a way no simulation had prepared him for. It was the kind of creeping numb that threatened to hollow his body out from the inside. Sound collapsed at the moment of full submersion, replaced by the padded thud of blood in his ears and the gentle hiss of oxygen cycling through the suit.
+
+Above him, the surface vanished into a vague shimmer that faded within seconds. Below him, a widening dark stretched endlessly.
+
+[Depth: 2.4 meters]
+
+[Suit Pressure Seals: Stable]
+
+The tether eased out, hiss-clicking through its housing in an endless, patient line. Ethan forced his breathing steady and oriented his body downward. The goggles cut through only a thin cone of murk. Beyond a few meters the water became impenetrable velvet.
+
+The bottom remained out of sight.
+
+“CelestOS,” he whispered.
+
+CelestOS: I remain here. Note: auditory companionship remains operational.
+
+“Lucky me.”
+
+Maria’s channel pulsed open for a beat before going quiet again. The delay unsettled him; it reminded him how much water stretched between them now.
+
+[Depth: 6.1 meters]
+
+Particles drifted past like pale ash. Some moved lazily while others twitched in odd spirals, riding unseen currents. Ethan reached out instinctively and snatched at one. It dissolved into a gray, oily smear against his glove. It wasn't ash, but decay.
+
+“Visibility landmarks are zero,” he said.
+
+The line slid gently. A slight lateral drag.
+
+[Hydrodynamic Drift: Detected]
+
+He adjusted posture, centering himself as the suit’s microthrusters whispered correction. The darkness answered by thickening. His heart thudded louder.
+
+[Depth: 10.7 meters]
+
+Pressure climbed. His ribs felt banded. Jaw tightness followed, then a faint ringing behind his eyes. The lake itself seemed to press inward, weight growing intimate and personal.
+
+“I'm missing the ore signal,” he said, more to steady himself than inform anyone.
+
+CelestOS: Confirming: Syntropic signatures presently outside proximal sensor threshold, too.
+
+He was blind down here, trapped in a pit that had lethal monsters ready to tear him apart.

@@ -1,0 +1,233 @@
+Maria spun toward him as if he’d struck her. “No.” The word came sharp and immediate, no time for soft edges or reasoned debate. She stepped into his path before he could reach the console, eyes bright with panic. “Absolutely not.”
+
+Ethan stopped a foot from her. “There isn’t another option.”
+
+“There are always options,” she snapped. “What there isn’t is time. We don’t spend what little we have left by throwing you into a nightmare lake with a spear and a bad plan.”
+
+He tried to move past her. She didn’t budge.
+
+“Ethan,” she said, low now, urgent. “You leave this room, the base can’t run. You collapse in the tunnels, the forge stops, the fabricator stalls, the generators go cold, and everything we just rebuilt with our own hands dies with you. Don’t pretend you’re expendable just to save me. You aren’t.”
+
+Her hand drifted unconsciously to her stomach. The motion landed harder than anything she’d said.
+
+Ethan inhaled slowly, kept his voice tight and steady. “All the safe sectors came back empty, Maria. Every clean corridor, every dry cave, every place the drones could go without being eaten. The lake is the only possibility left.”
+
+“That doesn’t make it survivable.”
+
+“No. It makes it necessary.”
+
+Her jaw tightened. “That’s guilt dressed up as bravery. You think this fixes our time apart but it won’t.”
+
+The sentence punched deeper than she knew. He felt the weight of every empty month he’d spent fearing she was dead settle against his ribs..
+
+“This is about the clock we can actually see,” he said quietly. “Four or five days until your infection spreads, and no tool on the board except what’s under that water. Waiting is the same choice, Maria. It just looks safer because you don’t have to move.”
+
+She shook her head, tears gathering without falling. “It looks safer because I still have you in front of me.
+
+“And in four days you won’t,” he said. “Not if we don’t fix this.”
+
+Her voice rose despite herself. “We decide this together now. You’re not the only stake in the ground.”
+
+“And that’s exactly why I’m going,” he shot back. “Because you’re not the only stake either.”
+
+They stood there breathing each other’s air while machines roared around them, the argument vibrating in the narrow space between their chests. She reached out and grabbed his forearm as if she could anchor him physically, keep the idea from turning into motion.
+
+“You die down there and I lose everything,” she whispered.
+
+“And if I don’t go,” he said, “we lose everything anyway.”
+
+The words hung between them, raw and ugly.
+
+A chime cut through the silence.
+
+CelestOS: Clarification required.
+
+Neither of them spoke. They both faced the sound being projected from Ethan’s suit.
+
+CelestOS: Projected survival probability for Maria Vasquez and fetus in the absence of sub-aquatic Syntropic ore retrieval: one percent.
+
+The forge’s roar sounded too loud, the conveyors too close.
+
+Maria stared at the numbers blinking in the air. “Say that again.”
+
+CelestOS: One percent.
+
+Her hand slipped from Ethan’s arm. She swayed slightly before catching herself on the console edge. Ethan was already there, steadying her with careful fingers.
+
+Ethan closed his eyes for half a breath. “That’s the chance we have if I stay. I can’t let either of you die.”
+
+She searched his face for a lie but found only fear wrapped in resolve.
+
+Maria straightened, wiping her eyes with the heel of her good hand. “If you go,” she said, voice trembling but certain, “you don’t go blind or empty-handed.”
+
+“That’s all I was hoping for.”
+
+A few minutes later, schematics bloomed over the forge room as Maria’s hands flew across the console, rebuilding the shattered silence into something productive. The drone footage minimized into a corner window while layered wireframes unfurled: volumetric mass estimates, hydrodynamic vectors, signature-response curves. The monster existed now as data, its terror sterilized into lines and arrows.
+
+“Armor plating instead of scales,” Maria said. “Segmented layers. Any sharp edge will glance.”
+
+Ethan leaned over the projection, tracing the rough silhouette with two fingers. “We hook it.”
+
+The harpoon emerged first. He threaded braided tether through the hollow core, locking the feed with compression rings.
+
+“Anything this big is likely numb to any pain I could cause,” he said.
+
+Next came the shock device, a compact capacitor cylinder built using the ex nihilo; the end product looking like soft-coupled copper coils wrapped at the end of a spear.
+
+“Short-range only,” she warned. “This is last-resort. It buys seconds, not victories.” But looking at the short range weapon an idea started blooming.
+
+The noise lure followed, a turbine rattle assembly made from stripped drone rotors and vibration amplifiers, tunable frequency bands loaded into the controller. Ethan tested it once. The device screamed against the cavern walls before he killed it. Slowly a plan was forming.
+
+Maria winced. “Good. That should annoy anything with ears.”
+
+They worked without looking at each other, hands synchronized by habit and necessity. The sealed housing for Ethan’s NV goggles was last. Transparent polymer was molded and pressure-ridged into a wrap dome with layered gasket seals, anti-fog solution misted across the interior before the unit locked into its mounting rails. Maria rerouted the power draw personally to ensure priority flow even during brownout swings.
+
+“You lose visibility down there even for ten seconds,” she said, locking the casing, “and this becomes a body-recovery mission.”
+
+Ethan didn’t argue. He didn’t need to. Instead, he told Maria his plan, and got to work.
+
+He spent the next hours fabricating two additional generators.
+
+CelestOS: Grid capacity now exceeds conventional safety thresholds.
+
+“Good,” Ethan said. “Conventional isn’t useful right now.”
+
+Heavy cable followed as spool after spool extruded from the fabricator. Thick insulated coils stacked near the tunnel mouth like sleeping serpents before Ethan shouldered the first and began dragging it toward the Wet Sector. The cable was too dense for carts or drones; the raw manpower was the only option.
+
+The tunnels narrowed and twisted as he hauled the cable deeper, boots sliding on grit. He reached the scar where he’d once ripped the living wall open with the Auto-Miner’s head.
+
+He stopped.
+
+The breach was smaller.
+
+What had been torn flesh-stone a mere day or two ago now wore pale sutures of fibrous growth, lattice patterns bridging the gap like bone knitting after a break. The surface pulsed faintly beneath his glove, warm and disturbingly elastic.
+
+CelestOS: Local biome regeneration confirmed. Structural damage reversing.
+
+Ethan exhaled slowly. “So you heal. Great.” Ethan said more to himself that the weird ass wall.
+
+The cable snagged on the narrowing passage as he hauled it forward. He forced the spool through, grinding insulation against stone and living scar tissue alike. The wall flexed but held, refusing to tear further.
+
+Behind him, the tunnels remained quiet. Still.
+
+The monsters were gone.
+
+Or waiting.
+
+He pulled the cable free and continued dragging it deeper until the atmosphere shifted into cold, damp pressure: the boundary of the Wet Sector opening around him. At the shoreline staging area he anchored the spools along rock shelves, hammered grounding rods into the stone, and checked continuity. Everything hummed with dormant potential.
+
+Back at the forge, Maria monitored the grid without understanding the shape assembling a mile away. To her, it was infrastructure. The cavern saw a challenge.
+
+Ethan secured the final coil and keyed his comm, made possible by the no w30-drone network.
+
+“Staging’s set.”
+
+Maria’s voice came back steady. “Good. Everything stable on my end.”
+
+He looked out over the black lake beyond the rock ledge, its surface reflecting nothing.
+
+“Let’s hope it stays that way,” he said. He turned back toward the base, weapons waiting, the dive now unavoidable.
+
+The forge room felt smaller when Ethan returned.
+
+The future had narrowed down to exactly one corridor and a body that hadn’t started walking it yet.
+
+Maria waited by the console, half swallowed by blue light from cascading system readouts. Lines of code reflected across her cheek as she completed the last stability checks. When she turned at his approach, exhaustion flickered through the mask she was wearing. Her posture stayed straight, but the effort behind it showed in the tension around her shoulders and the faint tremor in her left hand.
+
+“You were gone longer than planned,” she said.
+
+“The cable fought me,” Ethan replied.
+
+Her smile was brief and pale. “Everything does lately.”
+
+He laid the harpoon across the workbench while she reviewed his loadout on the hovering display. The shock device clip lit green as she armed the remote trigger. The lure’s frequency bands scrolled smoothly into position. She stepped close enough to manually check the seal on the NV housing, pressing thumb and forefinger along the polymer lip to feel for gaps.
+
+“Anti-fog’s holding,” she said. “Pressure seal is good.”
+
+She reached for the strap across his chest and corrected the tension a touch tighter than he’d set it.
+
+“That’ll bruise.”
+
+“So will the lake.”
+
+He caught her wrist lightly before she could turn away. “You don’t need to do this part.”
+
+She met his eyes. “I do.”
+
+They stood close for a moment, neither speaking. The forge hiss filled the space between breaths.
+
+“You’ll hear me the whole time,” Maria said. “Comms relay is clean through the staging line. If you need extraction I override the tether safeties. No arguing.”
+
+“And if the generator surges?”
+
+“I’ll fix  it.”
+
+She reached back to the console and toggled a final set of emergency parameters onto his suit. Threshold markers flashed green, yellow, red.
+
+“If your oxygen drops below twenty percent, I’ll pull the lure. If your heart rate spikes past safe bands, the capacitor discharges automatically. If the tether drag jumps above what your spine can handle…”
+
+She hesitated.
+
+“Then the line cuts,” she said quietly.
+
+Ethan nodded. “Better cut than crushed.”
+
+Her jaw clenched at the practicality of it. “I don’t want you dying on some physics problem out there.”
+
+“That’d be a lame way to go. Who wants to die to math?”
+
+She snorted despite herself, then winced as a small stab lanced through her shoulder. She covered it quickly, but he saw the flare of pain cross her eyes.
+
+“Sit,” he said.
+
+“No.”
+
+Her defiance was soft, carried on exhaustion rather than fire.
+
+“I’m not collapsing in front of you right before you jump into a horror show. That’s bad morale.”
+
+He didn’t argue. He just stepped closer and steadied her by resting a hand against her uninjured shoulder while she took a slow breath.
+
+“Getting harder?” he asked.
+
+She nodded once. “But stable. Don’t turn that into a derailment.”
+
+“I’m allowed to worry.”
+
+“So am I.”
+
+They shared a quiet half-smile that didn’t quite land.
+
+She smoothed the front of his suit and checked the harness clip once more, fingers moving with habitual precision. For a heartbeat she rested her hand there, just below the NV housing.
+
+“Stay practical,” she said, voice low. “Just... be careful.”
+
+“I can do careful.”
+
+“Good,” she whispered. “Because I need you to come back more than I need that ore.”
+
+Ethan hesitated, then reached down and gently pressed his palm over the curve beneath her suit. A faint, instinctive movement pushed back against his hand.
+
+“Two things waiting,” he said.
+
+Her breath caught. “Yeah.”
+
+They didn’t linger on it. They couldn’t afford to.
+
+CelestOS: Optimal dive window approaching. Please conclude emotional exchange efficiently.
+
+Maria exhaled a shaky laugh. “God, you’re a mood killer.”
+
+CelestOS: Emotional detachment ensures mission clarity.
+
+“Noted,” Ethan said.
+
+He stepped back and slung the harpoon onto his mag-harness. The shock device clicked into its socket at his hip. The sealed goggles flickered to life as internal indicators stabilized.
+
+Maria retreated toward the console, her hand grazing the back of a chair she didn’t sit in.
+
+“I’ll be here,” she said. “Grid control, telemetry, tether management.”
+
+“I know.”
+
+Ethan turned toward the tunnel.

@@ -1,0 +1,185 @@
+Ethan stood with Maria in the center of the forge lit room, shoulder to shoulder in the cold air.
+
+The prognosis sat between them unspoken: four to six days. It would be less if the infection decided to stop behaving.
+
+Maria shifted a little. Her hand hovered near the wound on her shoulder as if she could will it to behave by proximity alone. The exposed skin around the resin burn flushed an angry. A faint pulse of light spidered through the branching pattern beneath the surface like something trying to mimic a heartbeat.
+
+Ethan forced his gaze back to the floating schematics.
+
+Ethan rolled his shoulders and tried to bleed off the restless tension. “We can’t solve this on foot,” he said. “If I go back out there swinging a pick like an idiot, I leave you alone, and I still barely bring back enough ore to matter. If you come with me, we speed the infection up every time your heart rate spikes.”
+
+The words tasted like grit. Saying them made them real.
+
+Maria studied the suspended UI. Its reflected lines cut across her cheekbones. “So we need something that mines without you,” she said. “Finds without me. Something that doesn’t care about sleep or heart rates.” Maria began unloading her pack, which came with its own supply of much needed tools: a welding kit, a ration kit, and her own Celesticraft. Despite the versatility of the Ex Nihilo system, a welder would allow for more complicated building setups especially in the cramped confines of the cave.
+
+Ethan nodded once. He tapped the console, and a three-dimensional model of the handheld Auto-Pick flickered into view. It hovered above their heads like a guilty conscience. The casing of the mark 2 was cracked, and the head assembly was fractured. A dozen warning flags tagged along its edges.
+
+“This dies so something bigger can live,” he said with a sigh. It had only been a couple of days with the broken tool, but it had felt like more.
+
+He grabbed the model and dragged it sideways with a pinch gesture until it stretched into a new schematic, and the components fanned out into layers. Thankfully, he had already gathered the prerequisite 12.5k stone, but it wouldn’t hurt to strip the broken Mk 2 for spare parts.
+
+Lines extruded from the model and grew into a brutal, piston-driven rig anchored into the cave wall. It looked wrong and predatory. It was more weapon than tool. Maria’s mouth curved despite herself.
+
+“That’s ugly,” she said.
+
+“Good,” Ethan replied. “But ugly works.”
+
+He flicked his wrist. The schematic expanded to show a conveyor belt growing from the Auto-Miner’s base and running down toward the fabricator platform. At the midpoint, another icon blinked into existence.
+
+“Loop starts here,” he said. “Stone from the wall drops onto the belt. The fabricator grinds it and pushes it through the Ex Nihilo recipes to get us ore. The forge turns ore into ingots. The fabricator eats those and spits out what we actually need.”
+
+Maria’s eyes followed the chain of icons as they lit in sequence, realization of his plan flashing on her face.
+
+“Scout-class drones,” she said. “Small frames and light thrusters. Full sensor packages. We send them where we can’t afford to go. Let them map the caves. Let them sniff out Syntropic signatures while we stay here and pretend we’re sensible parents to be.”
+
+Ethan selected one of Harold’s archived schematics from the CelestiCraft library and dragged it into place as the loop’s final output. The little drone model spun slowly, and new annotation tags popped up as he tweaked its chassis for speed and range over utility.
+
+“That’s the Iron Loop,” he said. “Wall to belt. Fabricator to forge. Drone to map to ore. We lock it in, we stay in the room, and the mk 3 does the work for us.”
+
+CelestOS chimed in, and a fresh overlay spilled across the air with projected numbers. CelestOS: Running scenario. Current probability of survival: fourteen percent. Probability of catastrophic power failure: high. Probability of me saying ‘I told you so’: one hundred percent.
+
+“Is that your way of blessing the plan?” Maria asked dryly.
+
+CelestOS: It is my way of reminding you that optimism has historically been lethal for you. Proceed as desired.
+
+Ethan ignored the shiver that went through his gut at the number. Fourteen percent looked better than zero. Fourteen percent had levers he could grab.
+
+“Power first,” he said. He swept open another schematic layer and highlighted the generator feeds and the junction boxes. He pointed to the spare cabling they had salvaged from the wreck. “We run a dedicated line from the main generator to the Auto-Miner. No sharing with the forge. I’ll reinforce the brackets myself. If the rig stalls mid-cycle, it will rip itself off the wall and take half the room with it.”
+
+Maria stepped a little closer to the projection, and her face tightened in focus. “I can give it a separate routing grid,” she said. “Independent breakers and a load-shedding subroutine. I'll add a priority override for the drones if power dips. I can write out the power plan sitting down.”
+
+Her hand twitched near her shoulder. She pretended she was just adjusting a strap.
+
+Ethan looked at her, at the wound, and back at the schematics. “You take the code and the power routing,” he said firmly. “You stay in this spot, you stay near the forge, and you don't get up unless this room is on fire. Please.”
+
+Her brows rose. “You’re adorable when you think you can order me around.”
+
+“You nearly passed out walking from the bunk to here,” he said. “Let me pick up the heavy parts this time.”
+
+Maria held his gaze for a long moment. The deflection and the joke were there. So was the stubbornness. She finally exhaled and nodded once.
+
+“Fine,” she said. “You get to play with the welding torch. I get to tell the power grid not to kill you.”
+
+CelestOS: Division of labor accepted. Note: assigning coding to the infected and physical exertion to the recently traumatized may qualify as ‘team building’ under Celestitech guidelines. Would you like to log this as a morale exercise?
+
+“Log it as step one in not dying,” Ethan said.
+
+He reached past the projection and set his hand briefly against Maria’s uninjured shoulder. It was steady and careful. “We start now,” he said. “By tonight, that miner is chewing rock and Harold’s got cousins.”
+
+She covered his hand with hers and squeezed once before letting go. “Then what are you waiting for, Captain?” she asked, voice low but steady. “Go break that wall.”
+
+The schematics rotated between them and cast their shadows long across the cold stone as the Iron Loop took shape in the air.
+
+The day heated fast.
+
+By midmorning the forge room felt alive again. It wasn't warm or comfortable, but it was awake. The hum of the fabricator deepened into a steady pulse as Ethan rerouted power cables across the floor at Maria’s direction, dragging them through piles of scrap and stone. Every motion scraped against his muscles. His arms shook whenever he lifted anything heavier than a bracket, but there wasn’t time to care. Today wasn't the day for it.
+
+Maria worked at the console on the raised platform near the forge. Her posture remained hunched, and her good hand flew over the keys in short, precise bursts. She typed with a rigid focus, pausing only when a jolt of pain tightened her jaw. Ethan caught several of those moments in the corner of his vision, and each one hit like a spike of static in his chest. She didn't complain, and she didn't slow down.
+
+The Auto-pick mk 3 sprawled across the west wall like the skeleton of some prehistoric beast Ethan had yanked out of the stone. The set up for this first of its kind auto pick required a lot of setup. Too much setup.
+
+Each strike of the welder filled the room with sparks that scattered across the cavern floor. Tiny meteors died before they reached Maria’s boots. Heat radiated up Ethan’s arms. Sweat trickled into his eyes and stung. He wiped it away with the back of his wrist and kept going.
+
+CelestOS: Note: Piston alignment deviation at joint C-12 now exceeds five millimeters. Please correct before catastrophic detachment occurs.
+
+“Working on it,” Ethan said.
+
+CelestOS: Clarification: ‘catastrophic’ in this context refers to a non-zero chance of the miner physically ejecting from the wall and bisecting you or Asset Maria.
+
+“I said I’m working on it.”
+
+The AI chirped politely and moved aside.
+
+Ethan repositioned the piston mount and drove a new weld bead across the joint. The metal glowed orange before cooling to dull gray. When he stepped back, grit clung to his sweat-soaked shirt. The fabric had darkened where the weld-light scorched through the outer layer. He looked toward Maria.
+
+She hadn’t noticed. She was lost in her section of the battlefield, scrolling through the power-routing diagrams with ruthless concentration. Strings of code reflected off her cheek. She entered a load-balancing subroutine with one hand while the other pressed lightly against her thigh as she caught her breath.
+
+“Voltage spike,” she said without looking up.
+
+The lights flickered, and something deep in the generator pit growled in warning.
+
+Ethan jerked his head up. “Where?”
+
+“Line three.” She didn’t hesitate. Her fingers moved before he even got the question fully out. “I’ve got it.”
+
+A heartbeat later the lights stabilized, and the generator growl faded. She finally exhaled and sagged back into the crate.
+
+Ethan stared with a strange electricity that came with knowing someone so thoroughly that words became redundant.
+
+“You rerouted that before I finished the sentence,” he said.
+
+Maria didn’t look away from the code. “I saw it coming.”
+
+CelestOS: Analysis: Operator synergy approaching optimal levels. This would be emotionally uplifting if I possessed emotions. Please continue.
+
+A tremor ran through Maria’s arm. She reached for a tool on the desk and missed it completely. Her hand froze in midair. She blinked slowly and then reached again, steadier.
+
+Ethan pretended not to see.
+
+Ten minutes later, she tried to stand to stretch and barely made it half a step before her knees buckled. Ethan dropped the welding rig and crossed the room in three strides. He caught her before she hit the floor. She didn’t protest when he eased her back into the crate.
+
+“Don’t,” he said quietly.
+
+Maria closed her eyes. “We don’t have time for breaks.”
+
+“We don’t have time for you collapsing either.” He rested a hand briefly on her uninjured shoulder. “You steer the grid. I’ll do the stupid heavy lifting.”
+
+She swallowed hard and nodded. No jokes or deflection came this time. Just trust.
+
+The hours blurred after that. Metal rang, stone dust thickened in the air, and the Auto-Miner grew from an idea into a monstrous shape bolted into the cave wall. It was a blunt instrument built for chewing through mountains.
+
+By late afternoon, Ethan stepped back and wiped soot from his face.
+
+“It’s ready,” he said.
+
+Maria didn’t turn around, but he saw the way her shoulders eased. They weren’t finished, but for the first time since the diagnosis, they weren’t losing ground. They were building something that could fight back.
+
+The Auto-Miner loomed against the western wall. It cast a brutal silhouette of pistons, welded plates, reinforced struts, and exposed cabling. It looked nothing like the small, handheld tool it had once been. This thing had mass, hunger, and purpose. Ethan had shaped it with scored palms and raw muscle until it became something that didn't need him anymore.
+
+Maria sat at the console near the forge with her face half-lit by cascading diagnostic readouts. She looked pale beneath the blue glow, but her posture stayed sharp. Every few seconds she flicked through another screen to check power flow, voltage load, and breaker thresholds to ensure the grid would survive what they were about to do.
+
+Ethan climbed the metal ladder bolted beside the machine and checked the last mount point. He tightened the bolt with slow, deliberate pressure. The metal protested once under the wrench before it settled.
+
+“Last chance,” Ethan said. His voice echoed through the cavern. “Anything looks off, anything spikes, or anything smells wrong, pull the breaker.”
+
+Maria didn’t turn from her console. “If anything smells wrong, it’s going to be from the miner ripping the wall open and showering us in rock dust.”
+
+“That’s the spirit.”
+
+CelestOS: Safety reminder: rock dust inhalation can cause long-term pulmonary decline, potentially even cancer.
+
+Ethan climbed down, wiped his hands on the thigh of his suit, and crossed the floor to the main breaker box. The heavy switch sat recessed behind a metal grate. It was the kind of industrial hardware that assumed the user either knew what they were doing or deserved the consequences.
+
+He hesitated only once. Maria didn’t see it since she was deep in the routing interface. Her fingers hovered over the execute command that would stabilize the power grid once the miner kicked in.
+
+Ethan exhaled.
+
+“Throwing the breaker,” he said.
+
+Maria lifted her head just enough to meet his eyes. The fatigue, the pain, and the defiance all lived there together. “Do it.”
+
+He shoved the switch up.
+
+The cavern exploded with sound.
+
+The Auto-Miner hit the wall with a bone-deep CRUNCH that reverberated through the floor. Pistons fired in rhythmic bursts. The impact head drove forward in a violent, grinding punch that shook dust loose from the ceiling. A spray of shattered stone spit backward as the drill seized its first bite of the mountain.
+
+Conveyor belts rattled to life. They shuddered for a breath before smoothing into a steady glide. Stone fragments poured onto the first belt, bounced, and dropped into the fabricator’s open maw.
+
+Maria flinched at the first blast of noise but steadied herself and sank deeper into her work as the system readings spiked.
+
+“Grid holding,” she shouted over the roar. “Power draw is heavy but stable!”
+
+Ethan didn’t answer. He stepped closer to the Auto-Miner and watched the pistons hammer in a relentless rhythm. The machine was loud, ugly, and inefficient, but it was effective. Every strike carved away more of the wall and fed the conveyor a steady tide of raw stone.
+
+The fabricator responded like a predator smelling blood. It swallowed the stone and shredded it before processing it through the Ex Nihilo framework with a grinding mechanical growl.
+
+A moment later, the forge beside them surged. Flames roared through its chamber as ore fed into its crucible. The glow spilled across the cavern floor in thick orange waves and washed the walls in color.
+
+Maria turned slowly toward the hopper.
+
+A dull clunk rang out. A single, perfect iron ingot dropped into the collection tray with the weight of a promise.
+
+Ethan’s chest tightened with something sharper than relief. It felt like momentum. It was a glimpse of a future that wasn’t shaped by helplessness.
+
+CelestOS: Resource acquisition rate: four hundred percent of human baseline. Congratulations. You are now officially a factory. Again.

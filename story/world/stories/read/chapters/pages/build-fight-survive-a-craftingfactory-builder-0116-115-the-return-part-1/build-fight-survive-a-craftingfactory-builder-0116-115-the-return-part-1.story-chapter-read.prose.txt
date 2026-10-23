@@ -1,0 +1,153 @@
+The stone beneath Ethan was real and solid. It lacked the water-weight or pressure-drag that'd surrounded him for the last twenty minutes, and the surface didn't shift when he pressed his full weight against it. He'd made it above the tentacles for the time being.
+
+His body hit the narrow shelf with all the grace of a dropped sack of hammers. The ore bag slammed into his ribs as a dense, undeniable weight that'd have hurt a lot more if his entire nervous system wasn't already screaming. Everything hurt, and his lungs burned like he'd been breathing acid. His hands trembled with exhaustion that went bone-deep while muscles he hadn't known existed filed formal complaints about exceeding their operational parameters by several hundred percent. The stone was real, and he was above the kill zone, which meant he wasn't dead yet. That alone felt like a victory.
+
+Ethan let himself have five seconds of just breathing. He enjoyed five seconds of existing without fighting, without calculating survival odds, without moving, and without fear. His chest heaved and his heart hammered while the ore bag dug into his ribs like proof he'd actually done the impossible. He looked down and adjusted his gear.
+
+The night-vision goggles turned the water below into layered shades of green and black. Fifteen meters down, the tentacles were still searching. Bioluminescent pulses rippled along their lengths in repeating geometric patterns that were too precise to be random. The thing wasn't thrashing anymore; it'd moved into a scanning phase. A search grid made of muscle and light filled the depths. The mountain was learning, adapting its search patterns, and running an algorithm written in instinct. It knew he was up here somewhere, even if it hadn't pinpointed his exact location yet. The mountain was patient. It'd been here for thousands of years and could easily wait out a tired man on a ledge.
+
+Ethan’s breathing had only just steadied when the familiar voice arrived, perfectly timed as always.
+
+CelestOS: Congratulations on achieving temporary non-death. This milestone has been logged. Would you like a status assessment?
+
+Ethan huffed a laugh that came out more like a wheeze. “Do I want to know?”
+
+CelestOS: Historical data suggests you prefer brutal honesty over comforting lies, even when you loudly claim otherwise.
+
+“Hit me.”
+
+CelestOS: Suit integrity is currently at sixty-eight percent. Rear plating shows multiple microfractures consistent with prolonged tentacle compression. Power reserves are at twelve percent, largely depleted by shock-spear discharge and servo-assisted climbing. Muscle strain indicators are visually impressive.
+
+“Visually impressive?”
+
+CelestOS: If your musculature were a presentation slide, it'd be entirely red and flagged for immediate executive review. You've exceeded recommended exertion thresholds by approximately three hundred forty percent. I'm detecting micro-tears in seventeen major muscle groups.
+
+Ethan closed his eyes for a second. “So I’m fine.”
+
+CelestOS: Your body is currently operating on spite, adrenaline, stubbornness, and an admirable disregard for medical guidance.
+
+“That tracks.”
+
+CelestOS: I've added this event to your ongoing survival log. The log is becoming unwieldy.
+
+Ethan forced himself to look at his surroundings, now intent on finding a way to survive. The ledge curved along the chamber wall, high enough to clear the tentacles but nowhere near the exit route. His depth map resolved as the waterline expanded below him, the lake stretching wide and black across the cavern floor. The path back to his base lay on the far side. It wasn't behind or below him, but directly across. Swimming it would mean dropping back into the water, crossing open distance, and trusting the tentacles to suddenly forget him. That was possible in the way miracles were possible, but likely in the way drowning was.
+
+He followed the rock line upward instead, tracing where the chamber narrowed into the vertical shaft above. He saw dry stone and air. It was a route that didn't belong to the thing in the lake. The climb would be longer, slower, more dangerous, and entirely exhausting, but it wasn't immediately fatal. Ethan let the math settle and exhaled through clenched teeth. So that was it; while going across meant death, going up provided a slim chance.
+
+Twelve percent power made the math uncomfortably tight. “How long before the servos quit on me?” he asked.
+
+CelestOS: At current output levels, fifteen to eighteen minutes of assisted climbing remain. Aggressive servo engagement will reduce that window dramatically and may result in catastrophic joint failure.
+
+“And without servos?”
+
+CelestOS: Based on your current condition, unassisted climbing would result in muscular failure within three to four meters. This estimate assumes you don't scream, black out, or drop the ore bag.
+
+Ethan shifted into a sitting position, and every movement lit new fires across his body. The ore bag slid against his side as a heavy, real, and absolutely non-negotiable weight. “Maria’s waiting. The baby needs this ore. I’ll make it work.”
+
+There was a pause. When CelestOS spoke again, the cheerfully corporate cadence was still there, but something underneath it had softened just a fraction.
+
+CelestOS: Understood. In that case, I recommend an efficiency-focused ascent. Minimize nonessential servo activation and reserve remaining power for critical stabilization moments.
+
+A beat passed.
+
+CelestOS: Failure is not recommended.
+
+Ethan cracked a tired grin and rolled onto his knees. “That’s the plan.”
+
+He reached for the wall, fingers searching for the next hold, and started climbing. Ethan braced one hand against the rock wall and forced himself to stand. The ore bag hung secure at his side as a constant, unwelcome reminder. Above him, darkness waited while below, the tentacles continued their patient search. He started the ascent.
+
+The rock face offered handholds that were sparse and grudging. His fingers found a crack worn smooth by centuries of water flow. He wedged them in and felt the servo-assists in his gloves engage with a faint whine, metal augmenting flesh as they pulled him upward. He cleared the first meter. His boots scraped across algae-slick stone, found purchase, slipped, and recovered his grip. As he reached two meters, the ore bag swung against his ribs with every movement, its dense chunks shifting inside the mesh and anchoring him down. In theory, the weight helped by providing something to brace against, but in practice, it was just another problem. He felt tired rather than grateful.
+
+His fingers searched for a shallow divot that was barely deep enough for his fingertips. The servos engaged again. He pulled, and his shoulder screamed.
+
+[Power: 10.8%]
+
+As the power dipped into the red, something subtle but terrifying clicked off inside him. The background assistance was gone, including the invisible smoothing of motion and the quiet edge that made his body feel just a little stronger. The Athletic skill was gone, powered down by Celesitech’s automated systems to preserve primary functions. As if to confirm his thoughts, CelestOS chimed in. CelestOS: Power conservation protocol engaged. All nonessential skill frameworks are now suspended.
+
+Ethan swallowed and adjusted his grip. “So it’s just me and the servos now.”
+
+CelestOS: Correct. I'll monitor your vitals while you manage most of the physical labor.
+
+He passed three and four meters. Status indicators flickered at the edge of his vision, but he didn't need to read them. He could feel them in the burn crawling through his muscles, the tremor in his hands, and the way his breathing had gone ragged inside the helmet. At five meters, he looked up. The shaft stretched into darkness, its slight upward curve hiding any sense of scale. His depth sensor read thirty-three meters below surface, leaving forty-five to fifty meters still to go.
+
+CelestOS: Power consumption rates are elevated. Current exertion levels exceed projected servo usage by eighteen percent.
+
+“Tell me something I don’t know.”
+
+CelestOS: Your left boot servo is operating at reduced efficiency. Damage sustained during tentacle interaction has degraded the actuator. Output is down to seventy-two percent. Right-side servos are compensating, increasing overall power draw.
+
+Ethan tested the boot. The response lagged just enough to be noticeable. “Another thing trying to kill me, You already took the skill from me, why do you have to take the Servos, too?” he said. “If I push harder and climb faster?”
+
+CelestOS: Aggressive servo-assisted ascent'll result in total power depletion prior to surface breach. Estimated failure point: thirty-five to forty meters depth.
+
+“And if I conserve? Minimal servo use?”
+
+CelestOS: Theoretically sufficient to reach the surface with approximately two to three percent power remaining. This projection assumes zero equipment degradation and optimal climbing efficiency.
+
+Ethan snorted softly. “I need to climb with intelligence rather than raw speed.”
+
+CelestOS: Correct. Please note that intelligence does not include panicking and overexertion.
+
+“Duly noted.”
+
+He adjusted his approach and slowed down instead of leaning on the servos for every pull. He read the rock face and looked for natural holds that let him use leverage instead of force. He shifted his weight carefully, keeping strain off the damaged boot and reducing demand on the motors. He cleared six, seven, and eight meters. The power drain eased.
+
+[Power: 10.2%]
+
+The levels were still dropping, but no longer freefalling. The cost was time, and every meter took longer without metal doing the work. Slow and alive beat fast and dead. Fast and dead meant Maria got nothing. He passed nine and ten meters.
+
+The rhythm was building: hand, hand, foot, push. He found the crack, wedged the fingers, and tested the hold. He used minimal servo assist and let the boots do the work. The Athletic skill might've maxed out, but muscle memory was still a thing. Years of rock-climbing gym memberships in a previous life, back when his biggest concern was whether Sandra from Marketing thought he was cute, translated into motion that felt almost natural. He reached eleven and twelve meters.
+
+His right hand closed around what looked like a perfect grip. A dark protrusion of stone was angled just right and seemed solid enough to trust. Ethan committed his weight and pulled. The stone crumbled. His hand closed on dust and fragments, and he fell half a meter before instinct took over. His left hand shot out, fingers scraping stone until they caught a ridge barely wide enough to exist. His shoulder slammed into the wall hard enough to rattle his teeth. The impact drove the ore bag into his ribs, and something deep in his shoulder joint lit up with sharp, electric protest. His boots scrabbled for purchase, slipped, recovered their position, and held.
+
+He hung there, chest heaving, with his entire body plastered to the wall.
+
+[Health: 19%]
+
+The number flared red in the corner of his vision.
+
+CelestOS: That maneuver has been classified as sub-optimal. Please refrain from further interactions with unstable geological features.
+
+“Working on it,” Ethan rasped.
+
+CelestOS: Your heart rate has spiked to one hundred ninety-two beats per minute. Sustaining this level of exertion is inadvisable and statistically unpleasant.
+
+“Everything about this is inadvisable.”
+
+Ethan forced himself to move again. His shoulder screamed with every shift of weight, but it still responded. Pain was information rather than a stop sign. He climbed hand over hand, finding the rhythm again and pushing through the burn. He passed thirteen, fourteen, and fifteen meters. The rhythm returned as a functional, jerky motion. Each movement was deliberate and calculated. His fingers tested every hold before trusting it, and his boots learned the difference between honest stone and mineral layers waiting to betray him. He cleared sixteen, eighteen, and twenty meters.
+
+[Power: 9.4%]
+
+He was nearly halfway. The thought crept in before he could stop it, suggesting he might actually make it. The idea was dangerous because hope was just another way to die, but it lingered anyway. He'd beaten worse odds, survived the tentacles, secured the ore, and kept his head. He could survive this.
+
+He reached twenty-two meters. The water compressed. It didn't happen gradually or politely. One moment it pressed against his suit with familiar weight, and the next it clenched like a giant’s fist around his entire body. A massive pressure wave arrived from directly below. Both boots skidded off the wall at once, as if the mountain itself had yanked the rock away. His fingers, which were already screaming and past safe load, started to slip. The servos in his gloves screamed louder. Metal engaged at maximum assist, and synthetic strength dug into stone where flesh would have failed. It held him barely. The ore bag swung violently, and the momentum pulled hard enough to strain its attachment points. Forty kilograms of mass tried to rip him free and drag him down.
+
+Below, the tentacles surged upward in response to the disturbance. Luminescent tips flared brighter as the search grid tightened with unmistakable intent. The mountain wasn't just hunting anymore; it was flushing him out.
+
+“No,” Ethan growled through clenched teeth.
+
+CelestOS: Grip strength is currently at three hundred forty percent above baseline human capability. Servo motors are operating at ninety-four percent load. Please locate a stable foothold within the next four seconds.
+
+“What happens after four seconds?”
+
+CelestOS: I'll be required to recommend emergency weight-reduction protocols.
+
+Ethan felt his stomach drop. “What protocols?”
+
+CelestOS: Jettisoning the ore to improve survivability margins.
+
+“Not happening.”
+
+CelestOS: Objection noted. Please be advised that your refusal is emotionally understandable, but mathematically inconvenient.
+
+Ethan’s right boot scraped down the rock face, searching desperately for purchase. He found nothing but smooth stone. His left boot joined it, and both legs dangled uselessly as his entire weight hung from his fingers and the screaming servo motors in his gloves. Three seconds remained. His boot found a crack barely deep enough for the toe. He jammed it in and pushed, which peeled some weight off his hands. Two seconds remained. His other boot slid into the same crack, and he crammed both feet together. The position was unstable and unsafe, but it offered a reprieve.
+
+The pressure wave released as abruptly as it had arrived. The crushing force vanished, and the water returned to its familiar weight. Below, visible now through the night-vision haze, the tentacles retreated to their previous depth while bioluminescent patterns dimmed. But the mountain had learned. The search grid sharpened and converged on this exact slice of the shaft. It knew where he was now.
+
+Ethan dragged himself higher and forced screaming muscles to obey. Connective tissue had probably torn in his shoulder, but the joint still moved and held. That was all he needed.
+
+[Power: 7.2%]
+
+The servo surge during the pressure wave had cost him dearly, as two percent vanished in four seconds of maximum assist. He couldn't afford another moment like that. He cleared twenty-three, twenty-four, twenty-five, and twenty-six meters. He had to move faster because the mountain had pulse again, and next time, his grip might not survive it.
+
+[Distance to Surface: ~25 meters][Power Remaining: 7.2%]

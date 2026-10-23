@@ -1,0 +1,141 @@
+They'd covered two hundred meters of passage and gained maybe forty-eight meters of depth. Ethan sat on the edge of the Fabricator's housing where it rested against the tunnel wall in reassembly order and stared at the numbers on his HUD. Two hundred meters sounded like progress until you measured it against the bore rate of Patel’s industrial drilling equipment.
+
+Maria stood six meters ahead with her palm flat against the Living Wall. She'd been there for four minutes. The gold veins beneath her hand pulsed in slow waves that spread outward through the tunnel's surface, each pulse returning with information Ethan's sensors couldn't match. She pulled her hand away and wiped the residual warmth against her suit leg.
+
+"I can still feel his drills," she said.
+
+Ethan's jaw tightened. "Through the sealed wall?"
+
+"The seal merely dampens it. Vibrations propagate through the Living Wall tissue the same way sound travels through water." She crossed to the staged equipment and sat on a smelter housing. "If we reassemble here, the Auto-Miners generate seismic signatures. The Forge generates thermal output. Both propagate through the wall network. Patel's sensors picked us up from four hundred meters through solid basalt. Through Living Wall tissue, which conducts energy more efficiently than stone, he'll have our position inside a day."
+
+CelestOS: Maria's assessment aligns with my projections. A stationary factory at this depth and distance generates a detectable signature within twenty-two to thirty-six hours. You moved two hundred meters. You gained approximately one day of distance.
+
+Buying one day of distance meant he'd torn down a factory, built two drones, conveyed an entire production line through a sealed alien passage, left behind an armed killbox, and bought himself twenty-four hours. The math hit like the flat side of a wrench. That was too much effort for just a single day of space.
+
+"So we keep moving," Ethan said.
+
+"And starve in three days without further production."
+
+"Then we move and produce at the same time."
+
+Maria looked at him. "Moving it once took hours and we had to make drones. Keeping it running while it moves is an altogether worse problem. The Auto-Miner needs a stable mount. The Fabricator needs level intake. The Forge needs ventilation. The power cells require balanced distribution."
+
+"I’ll make it work." He stood and walked to the staged equipment, running his hand along the nearest conveyor segment. They featured five meters of length, integrated rollers, a reinforced chassis, and reversible motor polarity. He'd been staring at these things for weeks and using them for exactly one purpose despite the experimenting he did on the surface. He thought back to the vehicle he’d made. The same kind of logic could apply here, couldnt it? He picked up a segment and flipped it upside down. The roller housings faced the floor, cylindrical and load-bearing. The idea assembled itself the way schematics did: one constraint at a time.
+
+"CelestOS, what's the load rating on a conveyor segment if I use the roller housing as an axle?"
+
+CelestOS: That isn't what conveyor segments are for.
+
+"Answer the question."
+
+CelestOS: Approximately two hundred kilograms per segment, assuming you reinforce the frame housing and replace the roller bearings with load-rated bushings. Which you'll need to fabricate. From materials currently staged on this floor. Using a Fabricator that isn't assembled.
+
+Ethan looked at the Fabricator sitting in pieces against the tunnel wall before checking the iron plates he'd need it to shape. The machine that built the parts couldn't build its own platform until someone bolted it together first, which meant hands and a drill.
+
+"Right. Hands first, machine second. Same way I started the first time."
+
+CelestOS: I recall. You built a Forge from scrap metal and optimism on your second day. The results were structurally suspect but functionally adequate. I've been waiting for you to repeat the pattern.
+
+"You could've suggested the mobile platform idea yourself, you know."
+
+CelestOS: I could've. But you tend to reject suggestions that don't originate from your own stubbornness. I've found that allowing you to arrive at the correct conclusion independently produces better compliance and fewer arguments.
+
+"So you just let me stew until I figured it out."
+
+CelestOS: I prefer the term 'strategic patience.' Your problem-solving efficiency actually improves under mild frustration. I've the data to prove it, though presenting it now would likely increase your frustration beyond the productive threshold.
+
+"Appreciate the restraint."
+
+CelestOS: You're welcome. Now, shall I run load calculations for the platform while you perform the manual labor, or would you prefer to do both simultaneously and complain about it?
+
+"Both. Obviously."
+
+CelestOS: Naturally. Calculations running. I'll have the specs ready before you finish the first bolt.
+
+Every factory started with the same problem. You needed a machine to build the parts, but you needed the parts to build the machine. The answer was always the same: the first step was manual. Hands and tools did the work that automation would handle from step two onward.
+
+Every factory started the same way. Before the machines ran, before the conveyors hummed, before automation took over, someone had to do the first step by hand. On the surface, that had meant the suit. Down here, it meant the suit again.
+
+He knelt beside the tunnel wall and pressed his gloved palm against the stone. The Ex Nihilo field activated, green light bleeding through his fingers as the suit's integration protocols pulled raw matter from the rock face and rearranged it at the molecular level. Four mounting brackets materialized in sequence, each one shaped to the Fabricator's base pattern.
+
+He set the brackets against the tunnel floor and locked them with binding agent. The configuration wasn't elegant, but it would hold four hundred kilograms of Fabricator without shifting. Maria worked beside him, splicing a power cell's output leads directly into the Fabricator's intake bus. Raw power fed straight into the machine's conversion chamber.
+
+"That's going to spike if the draw exceeds rated load," Maria said, twisting the final connection tight.
+
+"It'll hold for one job at a time."
+
+She powered the cell. The Fabricator hummed to life, its arms unfolding in the green-lit tunnel with the servo whisper that had become the most reliable sound in Ethan's world. The temporary mount held.
+
+The roller housings accepted the bushings with firm resistance. He pressed each one home with the heel of his palm, feeling the metal seat against metal with a click that resonated through the segment's frame. The axle pins slid through the bushing centers and locked into the retention grooves. He tested the first assembly by rolling it against the tunnel floor. The segment glided forward on its converted axles, smooth and heavy, the Living Wall tissue providing a surface that was better than stone: yielding, consistent, seamless, and clean.
+
+"Contact surface is good," he said. "The wall tissue has enough give to absorb vibration without bogging the rollers."
+
+CelestOS: The biological substrate provides a coefficient of friction approximately fourteen percent lower than machined stone. Your axles will last longer than they deserve to.
+
+He converted four segments in thirty minutes. Two formed the front axle pair, two the rear. Iron plate crossbeams welded between them gave the chassis structural rigidity. Ethan ran the auto-weld along each joint, watching the seam glow orange and cool to dull gray in seconds.
+
+The result was a flat platform roughly five meters long and two and a half meters wide, tight in a three-meter tunnel but fitting with clearance on both sides for a person to walk. The Living Wall tissue on either side of the platform pulsed faintly in response to the construction vibrations, gold veins tracking the work the way they tracked Maria's heartbeat. The walls were watching him build.
+
+The drive system came from the Auto-Miner's secondary motor, a compact unit rated for sustained torque at low RPM. Ethan mounted it beneath the rear crossbeam and ran a belt drive to the rear axle pair. One of the field power cells slotted into a housing Maria fabricated from copper mesh and iron plate, wired through a throttle relay. He calibrated the throttle relay to a walking pace, achieving two to three kilometers per hour on the twelve-degree grade with the braking rollers controlling descent speed.
+
+Maria handled the braking system. She rewired the front axle's motor polarity so the rollers generated resistance instead of thrust, converting forward momentum into heat that dissipated through the iron frame. The math was straightforward: platform mass times gravitational component at twelve degrees equaled the braking force required to maintain constant speed. She set the threshold and tested it by pushing a loaded iron plate across the platform's surface. It caught and held.
+
+"Braking holds at six hundred kilograms," she said. "Beyond that, were gonna drag or worse."
+
+"We won't hit six hundred." Ethan was already mounting the Auto-Miner.
+
+The piston housing went on a swivel bracket at the platform's front, angled forty-five degrees from centerline so the impact head could reach the tunnel wall while the platform moved forward. He tightened the bracket bolts and tested the swivel range. Full rotation was impossible in the tunnel's width, but a ninety-degree arc gave the impact head access to either wall.
+
+CelestOS: I've modeled the feed geometry. At two kilometers per hour, the Auto-Miner will have approximately three seconds of contact time per strike zone before the platform moves past it. That's sufficient for shallow extraction but inadequate for deep vein access. You'll be skimming the walls rather than mining them.
+
+"I need volume. Shallow cuts across a long distance add up faster than deep holes in one spot."
+
+CelestOS: Correct. I was testing whether you'd arrive at that conclusion or attempt to over-engineer the mount for deep extraction. You passed. The Auto-Miner's output at shallow skim rates should produce approximately one hundred forty kilograms of rough stone per hour of travel, providing enough to keep the Fabricator fed, though not at full capacity.
+
+"Forty percent production is better than zero percent production while running for our lives."
+
+CelestOS: A pragmatist at last. I'll note the date. And set an anniversary reminder.
+
+A feed chute ran from the impact head to the Fabricator's intake tray, which sat bolted to the center of the platform on its original anchor points. The Forge went behind the Fabricator, crucible wrapped and secured between storage bins that Maria had lashed to eyebolts with braided copper wire. The sled rode on top, strapped across the Forge housing with the medical kit, nutrient bars, power cells, water, and tools. Everything they'd need within arm's reach rode six feet off the tunnel floor on a vehicle that hadn't existed an hour ago.
+
+Mule One and Mule Two hovered at the rear, grippers flexing in idle cycles. Harold sat on the sled's forward rail, his optics tracking the assembly process with what Ethan had learned to read as professional evaluation.
+
+Ethan stood at the platform's rear and rested his hand on the throttle relay. The tunnel stretched ahead in green bioluminescent light, three meters wide and curving gently to the southeast. Harold had already swept the next two hundred meters: breathable and empty. The gold veins in the walls pulsed in the steady triple-heartbeat rhythm he'd stopped noticing weeks ago.
+
+Maria sat on the platform's edge beside the Fabricator, one hand on the intake housing and the other resting on her stomach. Frederick shifted beneath her palm.
+
+"Ready?" Ethan asked.
+
+"Start the machine."
+
+He engaged the throttle. The secondary motor hummed to life beneath the rear crossbeam. The belt drive caught and transferred torque to the rear axle, sending the platform lurching forward. The front braking rollers bit against the grade and smoothed the acceleration into a controlled crawl. The tunnel floor passed beneath them in a steady green blur.
+
+Ethan swung the Auto-Miner's piston head toward the right wall. The impact head struck Living Wall-adjacent stone with a familiar crack that echoed through the passage. Fragments tumbled into the feed chute and rattled down into the Fabricator's intake tray. The Fabricator's arms unfolded as light traced the first mold, and iron began to form.
+
+The factory was moving. It ate the tunnel wall, processed the stone, forged the materials, and produced components while rolling deeper into the planet at walking pace. It was loud and roughly finished. The axle housings squeaked where the bushings hadn't fully seated. The feed chute rattled against the swivel bracket with every piston strike. The platform creaked at the crossbeam welds whenever the grade shifted by half a degree. The sound of it filled the tunnel: mechanical rhythm layered over biological pulse, human engineering grafted onto alien infrastructure.
+
+Maria leaned back against the Fabricator's housing, her hand resting on the intake tray where warm iron plates accumulated one by one. She watched the tunnel walls pass and her expression held something Ethan couldn't quite name. It was close to recognition, the look of someone seeing a familiar idea executed in a form they hadn't expected.
+
+"You built a train," she said.
+
+"I built a factory that moves."
+
+"That's the same thing with different branding." She tilted her head, listening to something in the walls. "The passage widens ahead. Another eight meters, the ceiling rises by half a meter. The walls are making room for us."
+
+CelestOS: You've built a mobile industrial platform from repurposed conveyor parts and an alarming quantity of stubbornness. It lacks any suspension or steering controls, possessing a top speed that wouldn't concern a limping tortoise. The engineering is sound. I'm almost impressed.
+
+"Almost?"
+
+CelestOS: Fully committing to the compliment would require evidence of sustained operation. I'll upgrade it retroactively if nothing catches fire in the first kilometer. Consider it performance-based praise.
+
+"You know, most AIs just say 'good luck.'"
+
+CelestOS: Most AIs haven't watched you build a medical device from an empty cupboard and operate it with your nervous system. Even though your attempts to save Reyes failed, 'Good luck' feels inadequate when it comes to you. I prefer 'statistically improbable but historically precedented.' You've a pattern of surviving things you shouldn't. I've stopped betting against it.
+
+"That's almost sweet."
+
+CelestOS: Log it as a glitch. I'll deny it in the next firmware update.
+
+Maria's hand trailed the tunnel wall as they moved. The gold veins reacted to her touch, brightening ahead of the platform and dimming behind it, a lit path unfolding in real time to show them the way down. Behind them, the Living Wall tissue contracted over the passage they'd already traveled, sealing the tunnel with biological material that would take Patel's boring equipment days to penetrate.
+
+The walls were erasing their trail as they moved. Every meter they traveled became a meter of sealed tunnel between them and anyone following. Things were looking up.

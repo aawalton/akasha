@@ -1,0 +1,111 @@
+The Iron Loop had been running for four days straight, and the numbers were finally starting to look like something other than a death sentence.
+
+Ethan stood at the Fabricator's console with his HUD open and the production log scrolling in real time. The Auto-Miner hammered the western wall in steady, brutal cycles, its pistons chewing stone at 400% of baseline manual output. Fragments tumbled onto the belt, rattling down the conveyor in a continuous feed that hadn't stopped since the cure. The Forge smelted what needed smelting. The Item Fabricator assembled what needed assembling. Components rolled into storage crates that Maria had labeled with a marker she'd found in her kit, each one annotated in her sharp block print.
+
+Four days of continuous production. The cupboard was filling, but the appetite was bigger.
+
+[POST-CRISIS INVENTORY: Day 4][Iron Plates: 1,870 (Target: 5,000)][Copper Mesh: 940 (Target: 3,000)][Silver Wire: 140 (Target: 500)][Sensor Components: 80 (Target: 300)][Quartz Lens Arrays: 30 (Target: 150)][Power Cells: 70 (Target: 200)][Binding Agent: 220 (Target: 500)][Rough Stone Processed: 847 kg (Continuous)][Biomass: 14.2 kg (Target: 50 kg)][Sand: 22.4 kg (Target: 60 kg)][Dirt: 15.6 kg (Target: 40 kg)][Fibrous Matter: 9.4 kg (Target: 30 kg)][Nutrient Bars: 6 (Production: 1 per 40 min)]
+
+The modulator build had gutted everything. Four thousand iron plates, nearly three thousand copper mesh panels, two hundred fifty quartz arrays, three hundred spools of silver wire, two hundred twenty sensor components, and fifty power cells. All converted from stone into one device, then fed into a machine he'd run through direct neural contact with the suit. The cupboard had been empty for the first eighteen hours before the Loop's output started filling the gaps.
+
+Everything the Fabricator produced started as rough stone that the Auto-Miner pulled from the western wall. Iron plates were stone. Copper mesh was stone. Silver wire was stone. Even the delicate gear mechanisms were stone. The conversion ratios hadn't changed since he'd first built the system on the surface: one hundred rough stone per iron plate at 1% power, fifty stone plus fibrous matter per coil, twenty-five stone per gear mechanism. Five thousand iron plates required half a million rough stone. The Auto-Miner produced roughly twelve hundred stone per hour. At current rates, reaching full operational stock would take weeks.
+
+CelestOS: For the record, your resource deficit isn't a production problem. It's a thermodynamic argument with the mountain, and the mountain is winning.
+
+"CelestOS, production status."
+
+CelestOS: Triple Auto-Miner output: 3,600 rough stone per hour. Ex Nihilo conversion running at 94% efficiency through the Fabricator. Current component production rate: 24 iron plates per hour, 18 copper mesh per hour, 4 silver wire per hour. At sustained rates, you'll reach minimum defensive stockpile in approximately eight days. Full operational stock in sixteen. I've taken the liberty of not comparing this to your delivery timeline, since I assumed you could do that math yourself.
+
+He could do the math. Maria was seven months pregnant. CelestOS estimated delivery in fourteen to eighteen days. It would take sixteen days to reach full stock, but the baby was due in fourteen. The numbers didn't overlap in any direction that felt safe.
+
+"What's the bottleneck?"
+
+CelestOS: Power. Both Auto-Miners draw 15% grid load each. The Fabricator draws 20%. The Forge draws 25%. Your total production pipeline consumes 75% of available power, leaving 25% for environmental systems, defense, medical, and the luxury of keeping the lights on. If you want to increase throughput, you need a third generator or a way to reduce the conversion power cost. I'd also accept a minor miracle, but those appear to be on backorder.
+
+He possessed stone, a power grid running at three-quarters capacity, and two Auto-Miners he'd built with his own hands in four days. He decided to build faster.
+
+The second Auto-Miner had gone up on day two. The third went up on day three. It used the same recipe and the same eleven minutes of green light and molecular violence. Five thousand stone units fed into the Ex Nihilo field, the suit's integration protocols drawing power while raw mass lifted in glowing fragments and rearranged itself into the brutal piston-driven rig. Stone dissolved into green light, shredded at the molecular level, and reconstituted as iron framing, piston housings, drive shafts, and the hardened drill head that would chew through the eastern wall for as long as the power held. A fourth Auto-Miner was already queued. The moment the wall integration freed enough grid headroom, he'd build it. Maria had wired it into the secondary power circuit while Ethan bolted the mounting brackets into the stone, the magnetic clamps biting into raw rock with a crack that echoed through the cavern. He'd run three hundred meters of new conveyor belt from the eastern wall to the Fabricator's secondary intake, each five-meter section clicking into place with copper-tension couplers and synthetic mesh overlay. The belt hummed to life at 2 meters per second, stone fragments already rattling toward the processing pipeline before he'd finished tightening the last bracket.
+
+Throughput tripled in two days. Iron plates stacked in the storage crates at twenty-four per hour while copper mesh accumulated beside them. Silver wire coiled on spools that Maria organized by gauge. The numbers on his HUD climbed in increments that were small enough to be frustrating and large enough to be real.
+
+Across the alcove, Maria sat at her console with one hand on the keyboard and the other resting flat against the Living Wall beside her station. Her head was tilted slightly with that new angle she'd had since the cure, like she was listening to something only she could hear. Ethan noticed every time.
+
+The biomass pipeline was holding. Maria had rigged a secondary conveyor spur to ferry soil from the biomass chamber to a dedicated processing bin, where the Ex Nihilo protocols decomposed it into sand, dirt, clay, and organic matter on a continuous cycle. Binding agent production ran at eight units per hour. Nutrient bars came off the line every forty minutes. The food still tasted like nut-flavored drywall, but it kept three of them fed, and Ethan had stopped complaining about the flavor somewhere around day two.
+
+CelestOS: Nutrient bar quality remains within Celestitech minimum viability standards. For context, so does the interior of a shipping container. Both offer comparable ambiance and dining satisfaction.
+
+The walls had changed since Maria's cure. Before, the Living Wall tissue had pushed against his infrastructure. Roots cracked into conduit housings and tendrils shorted relay connections. Since Maria's interaction with the network, the advance had reversed direction, pulling back from his equipment like a tide retreating from shore. Now it was helping.
+
+"Maria, what's the wall doing near generator two?"
+
+She looked up from her console. Her feet were flat on the stone floor, boots set aside. "Growing. The gold veins reached your power relay about an hour ago. They're threading into the housing." She paused, her head tilting again. "It's benign. The veins are following your wiring paths and tracing the circuits."
+
+CelestOS: Confirmed. Living Wall vascular structures have integrated with the secondary generator's power relay housing. Energy flow analysis shows a 3% efficiency improvement in power distribution since the integration began. The walls appear to be optimizing your grid. I want to be clear that nobody asked them to do this and that I find it professionally unsettling.
+
+Ethan walked to the secondary generator and crouched beside it. The gold veins had wrapped the relay housing with surgical precision, each thread following the copper conduit paths he'd laid during installation. The veins pulsed with the same triple-heartbeat rhythm he'd been hearing for days: his own, Maria's, Frederick's, and the deep thrum of the walls. Where the gold threads crossed his power cables, the insulation had thinned and been replaced by something that looked like Living Wall tissue, a translucent green membrane that conducted current with less resistance than his copper.
+
+He ran a diagnostic.
+
+[Generator 2: Power Output — 104% of Rated Capacity][Anomaly: Bio-integrated relay housing detected][Efficiency Gain: 3.2% | Source: Living Wall vascular integration][Status: Stable | No degradation detected]
+
+Three percent didn't sound like much. But three percent across a grid running at 75% capacity meant he'd just gained enough headroom to run a third conveyor line without tripping the load threshold. If the walls kept integrating, if the efficiency gains compounded as the gold veins threaded deeper into his infrastructure, the math changed.
+
+CelestOS: To summarize: an alien organism is rewriting your electrical grid without authorization, and your response is to calculate the production bonus. I'm documenting this for the inevitable safety review that no one will conduct.
+
+"Log the gains and flag any degradation. Otherwise, let them work."
+
+He stood and turned back to the Fabricator. The turrets were next on the queue. He'd built four T1 Auto-Turrets in the first three days, each one consuming the standard recipe: twelve iron plates, six copper wire assemblies, two basic gear mechanisms, a sensor component, and a power cell. Forty-eight iron plates, twenty-four wire assemblies, eight gears, four sensors, and four cells. All of it processed through the pipeline and assembled by the Fabricator's arms in cold blue light, the suit's integrated protocols directing every weld and connection.
+
+The first turret had taken thirty minutes from queue to deployment. He'd watched the wireframe materialize above the Fabricator's pad, iron converting to structural framing and copper wire braiding into targeting coils. The sensor cluster spun up with a thin whine that swept the alcove once before locking into standby. The magnetic clamps engaged with a click, the lens blinked from red to green, and he'd hauled it to Approach Alpha on a makeshift sled built from conveyor segments. The second and third had gone faster as the pipeline warmed up, components staging in the output tray while the previous turret was still being positioned. By the fourth, Maria was calling out placement coordinates from her console while Ethan bolted clamps into tunnel walls he'd never physically inspected. Her wall data was better than his sensors. She could feel where the ceiling dropped and where the tunnel narrowed enough to compress a squad into a column. That was where the turrets went.
+
+[DEFENSIVE NETWORK: THE GAUNTLET][Approach Alpha: 2x T1 Auto-Turret | Mine Layer | Sensor Net][Approach Beta: 1x T1 Auto-Turret | Trip-Wire Array | Dedicated Circuit][Approach Gamma: 1x T1 Auto-Turret | Harold Patrol Route | Alert Link][Approaches Delta/Epsilon: SEALED (Living Wall Barrier)][Status: Operational | Ammo Reserve: 3,400 rounds]
+
+The ammunition was its own grind. Each turret burned copper-equivalent kinetic rounds fabricated from stone. The conversion ratio was better than structural components, forty stone per twenty-round magazine, but at maximum rate of fire a single turret could drain a magazine in under two minutes. Three thousand four hundred rounds across four turrets sounded comfortable until you imagined a sustained assault through multiple approaches. Six minutes of concentrated fire per approach, maybe eight if the choke points did their job. After that, the turrets clicked empty and the tunnels belonged to whoever was still walking.
+
+He needed more stone; he always needed more stone.
+
+"CelestOS, queue a third conveyor line from the eastern Auto-Miner to a secondary Fabricator intake. I want to split the processing pipeline. Primary Fabricator handles structural components. Secondary line runs ammunition and small parts."
+
+CelestOS: Queued. The third conveyor will require 200 iron plates, 40 binding agent, 120 copper wire, and the requisite power couplings. Estimated build time from current stock: six hours. Estimated throughput improvement once operational: 40% increase in total component production. I'd recommend building it before the corporate army arrives, but I suspect you'd already considered that.
+
+"What's my timeline on the living quarters?"
+
+CelestOS: You've been sleeping on a cave floor next to industrial equipment for four days. Maria is seven months pregnant. The living quarters were queued three days ago and have been repeatedly bumped by defense and production priorities. At current rate, they'll be completed approximately never. Shall I log a formal complaint on behalf of your spine?
+
+"Log it. Build the conveyor first."
+
+CelestOS: Logged. Your spine's grievance has been assigned ticket number 4,471. Current estimated resolution date: heat death of the universe. Your patience is appreciated.
+
+He pulled the component bins and started loading the Fabricator's intake. Iron plates fed into the hopper with the solid clank of metal on metal. The conveyor segments emerged from the output tray in five-meter sections, warm from the conversion process, rollers already humming with the faint current that would carry stone from wall to machine.
+
+Maria's voice reached him from across the alcove. "The walls are brighter again."
+
+He didn't look up from the conveyor assembly. "How much brighter?"
+
+"Three-forty percent above pre-cure baseline. The gold veins are forming new structures near my sleeping area. And there are glyphs."
+
+That made him look up. "Glyphs?"
+
+"They're fresh ones. The edges are sharp and still forming. They weren't there this morning." She walked to where the Living Wall tissue met Ethan's construction boundary and placed her hand against the surface. Gold veins brightened beneath her palm. She closed her eyes for four seconds. "They're pointing down."
+
+CelestOS: The Living Wall architecture is composing new symbolic structures in real time. Pattern analysis is ongoing, but I can confirm directionality. The glyph formations are oriented along a vertical axis, consistent with a navigational indicator. Translation isn't possible yet. The walls appear to be writing something they expect someone to eventually read. For the avoidance of doubt, I'd like to state that glowing alien directions into the planet's interior don't appear in any Celestitech safety manual I have access to.
+
+Ethan finished bolting the conveyor section to the floor mounting and stood, wiping stone dust from his gloves. He walked to where Maria stood and looked at the wall. The glyphs were visible in the green surface, angular marks threaded with gold that pulsed in the triple-heartbeat rhythm. They were precise and very clearly new.
+
+"A map," Maria said. "Whatever's down there, the walls want us to find it."
+
+Before Ethan could respond, the floor trembled. A low vibration rolled through the stone, regular and rhythmic, with the unmistakable cadence of machinery. The vibration came from above.
+
+CelestOS: Seismic analysis: mechanical vibration detected. Source: surface level, bearing north-northwest, range approximately 400 meters. Signature consistent with industrial tunnel-boring equipment. Vibration interval suggests continuous drilling operation.
+
+Ethan and Maria looked at each other across the green-lit alcove.
+
+"it'ss Patel," Ethan said.
+
+The drilling was new. It was there now, steady and patient, eating through rock toward whatever sensors had told it where to dig. The mountain trembled in a rhythm that had everything to do with people who wanted what he'd built.
+
+CelestOS: At current estimated boring rate, surface breach into the upper tunnel network will occur in approximately six to nine days. I've added this to the project timeline. It doesn't improve the project timeline.
+
+Ethan turned back to the Fabricator and the half-assembled conveyor line. The production numbers scrolled on his HUD while the turret ammunition counter glowed amber. The resource targets sat at 37% completion, 31%, 28%, and 10%, each one a gap between what he had and what he'd need when the drilling reached them.
+
+He picked up the next conveyor section and started bolting.

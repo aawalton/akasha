@@ -1,0 +1,109 @@
+The plasma bolt closed the distance in the time it took Ethan's hands to leave the Fabricator housing.
+
+But Harold was faster. He made a direct intercept, full burn on his remaining thruster, placing himself in the bolt's line with his damaged optic array facing the cannon and his functional optic facing Maria. He'd calculated the math before he moved. Too slow to outrun it. He went anyway.
+
+The detonation was a white flash and a concussive pressure that hit Ethan across the chest and knocked him sideways off the Fabricator housing. He came down on the platform's rear section on his hands and one knee, the impact ringing through the iron frame. The flash burned afterimages into his vision that took three seconds to clear.
+
+When they did, the salvage was already visible: fragments of Harold's chassis scattered across the platform and the tunnel floor, each piece identifiable and wrong in the way that components were always wrong when they were no longer part of the system they'd been built for. His sensor array housing. A thruster casing. The camera cluster, the lens mount cracked. His optic cluster, intact, bounced once off the sled's forward rail and came to rest against the underframe, lens facing up, dark.
+
+The tunnel smelled of burnt circuitry and resin discharge layered over a clean ozone that had always meant Harold's power cell venting after a hard burn. That smell meant something else now.
+
+Maria was pressed against the Fabricator, unhurt, her hands shaking against the housing. She was looking at the optic on the floor.
+
+Ethan stayed on his hands and knee for one second. He'd rebuilt Harold once before, in a cave with a box of scraps, but could he do it again? He didn’t have any time to contemplate.
+
+The drone was already repositioning for a second shot. He stood up.
+
+The grief could wait. He picked up the iron shield from where it had fallen when he'd dropped it and ran the numbers on what he had left: one damaged mule from the first exchange, one functional mule, no Harold, the Auto-Miners still running at ceiling angle, the Fabricator in standby, and a drone that had just spent its targeting priority on Maria and missed. It would recalibrate and come back to her.
+
+He was going to make sure it didn't get one.
+
+"CelestOS. The resin power source. On the cliff face the fuel system destabilised when I damaged the cannon joint. The hydraulic fluid vented and the power feed fractured. What happens if I push the Ex Nihilo field into the fuel system directly instead of damaging it mechanically?"
+
+A pause stretched longer than her standard processing interval.
+
+CelestOS: Standard Ex Nihilo protocol runs outward from raw material to finished object. What you're describing is the inverse: pushing the nanite field into an existing system and forcing a molecular interaction with the resin fuel. The fuel is already in a semi-organic state. Introducing nanite sequencing into a live resin system at close range would be unprecedented. No protocol on file, no precedent in the database. I can model it in approximately forty seconds.
+
+"Model it while I distract the drone."
+
+Maria had both hands back on the Fabricator housing. Her jaw was set, the expression she wore when she'd made a decision that had already cost her something and she was paying it anyway.
+
+"Frederick's frequency," she said. "If I push it through the floor toward the drone's position, the resin signal destabilises. It won't stop it but it will interrupt the targeting cycle. You'll get a window."
+
+"How long?"
+
+"Three seconds. Maybe four."
+
+"That's enough."
+
+The drone came back around the platform's far end, low this time, using the gap between the platform's undercarriage and the tunnel floor. It was adapting. The previous exchange had given it data on Ethan's shield position, Harold's threat classification, the Auto-Miners' vibration pattern. It had revised its approach geometry and was executing the revision with the same cold patience it had shown since the first shot. Ethan tracked it from the platform's rear, shield up, watching the weapon joint.
+
+The joint rotated toward Maria.
+
+"Now."
+
+Maria pressed both palms flat against the tunnel floor and pushed Frederick's resonance outward. The gold veins in the floor flared immediately, a ring of brightness spreading from her contact points in a wave that hit the drone's position ine mere seconds.
+
+The resin coils along the cannon's length pulsed irregularly, the organic fuel system registering the Syntropic frequency as interference the same way the swarm had registered it two days ago. The weapon joint stuttered, the targeting lock breaking, the cannon swinging four degrees off its bearing.
+
+Four degrees in a three-meter tunnel was enough. Ethan was already moving. He came off the platform's rear edge and hit the tunnel floor at a run, closing the distance to the drone in the three seconds the resonance held its targeting disruption. The drone tried to track him. The resin system fought the frequency and lost half its stabilisation budget to the effort, the chassis tilting on its axis as the thruster output redistributed.
+
+He got both gauntlets on it. Left hand on the pyramid's upper face, the alien alloy cold even through the Syntropic integration, the beveled symbols pressing into his palm like something that had been waiting for contact. Right hand flat against the cannon housing, directly over the resin coils. The organic material pulsed against his gauntlet with the same arrhythmic cadence he'd felt in infected tissue, the same wrong heartbeat he'd spent weeks learning to hate. The drone bucked under his palms, thrusters firing at full output, trying to break his grip the same way the cliff-face drone had bucked and twisted. He locked his elbows and dropped his weight onto it, forcing the chassis toward the tunnel floor.
+
+"CelestOS."
+
+CelestOS: Model complete. The nanite field can interact with the resin fuel at the molecular level. Target the organic binding matrix in the coil housing. Disrupting the matrix causes the liquefied resin to revert to its solid state inside the fuel channel. The channel fractures under the pressure differential. Power feed fails within six to eight seconds of sustained contact. I want to be clear that I've never run this protocol and the margin for error is approximately zero.
+
+"Run it."
+
+CelestOS: Running. You are the power source. Draw will be significant. Please do not die.
+
+The Ex Nihilo field activated at a depth and intensity he hadn't used since the medical procedure. Green light bled through both gauntlets simultaneously, flooding the space between his palms and the drone's chassis in a corona that threw sharp shadows down the tunnel. The nanite grid extended outward from both contact points and inward into the drone's structure at the same moment, the suit drawing on the Syntropic reservoir in a current that spiked and held. CelestOS sequenced the interaction, mapping the resin fuel's organic binding matrix through the contact chemistry and threading the nanite field into it at the molecular level.
+
+The drone screamed. An organic sound, older than its machinery, the resin fuel responding to the nanite intrusion the way the red resin had always responded to Syntropic intervention: with the panic of a biological system recognising a threat it hadn't evolved to fight. The coils along the cannon's length pulsed erratically, the liquefied resin inside them trying to circulate while the binding matrix fractured under the nanite pressure. The drone's thrusters went from full burn to wild overcorrection, the chassis spinning on its axis as the power feed destabilised.
+
+Ethan held the contact. The Syntropic reservoir dropped on his HUD in increments that registered as a cold pressure in his chest, the suit working harder than it had since he'd run the cure. His gauntlets were warm. The drone was getting warmer.
+
+[EX NIHILO FIELD: ACTIVE — INVERSE PROTOCOL][Target: Resin fuel binding matrix | Interaction: Molecular disruption][Power draw: 34% reservoir/minute | Elapsed: 4 seconds][Resin fuel state: Crystallising — 23% of coil volume][Drone thruster output: 61% and dropping]
+
+CelestOS: Crystallisation rate is accelerating. The resin is transitioning from liquid to solid faster than the fuel channel can compensate. Structural fracture of the primary coil housing in approximately nine seconds. I'd suggest not being directly above the drone when that happens.
+
+Ethan released the cannon housing and kept his left hand on the pyramid face, pulling the drone toward the tunnel wall as the resin system finished failing. The drone fought him for four seconds, thrusters firing in random bursts, the red eye flickering between targeting cycles that couldn't resolve. Then the primary coil fractured.
+
+The sound was the same as on the cliff face: tearing metal and a superheated mist that hit his faceplate and left red traces along the edges. The drone's power feed dropped to zero. The thrusters went silent. The chassis fell the sixty centimeters from his hand to the tunnel floor and lay still, the red eye dark, the symbols on its beveled ridges sitting inert in the bioluminescence.
+
+Ethan stood over it for three seconds, then cut the Auto-Miners.
+
+The sudden quiet was total: no piston strikes, no Fabricator hum, no thruster wash, no Harold. Just the Living Wall's slow breathing and the faint triple-heartbeat pulse of the gold veins working back toward their resting glow after the resonance burst. Maria's hands were still on the tunnel floor. Frederick's frequency faded as she pulled back from the contact, the gold ring around her position dimming.
+
+CelestOS: Drone power feed: zero. Resin fuel system: crystallised, non-recoverable. Threat classification: neutralised. Syntropic reservoir: 61% and refilling. The platform sustained no additional damage during the final engagement. I've updated the asset manifest.
+
+She left it there.
+
+CelestOS did that sometimes, had the data and chose to hold the commentary. She'd done it when Maria's infection had read zero percent. She did it now. Ethan walked back to the platform. In fat, she’d been doing it a lot lately. Ethan hoped he didn’t have to worry about her now too.
+
+He collected Harold's debris piece by piece. The chassis fragments first, each one catalogued by size and component type, stacked in a salvage bin on the sled that he cleared of its current contents without looking at what he was moving. Some of the pieces were small enough to sit in his palm. He picked up every one. The thruster housings, cracked but structurally present. The sensor array housing, warped along one edge but the internal architecture intact. The camera cluster, damaged at the lens mount but the processor housing sealed. He worked the way he always worked, methodically and without commentary, because the methodology was the only thing he trusted right now.
+
+The optic last. He picked it up with both hands. The lens was intact, undamaged by the detonation that had destroyed everything around it. He turned it once, the way he turned components when he was assessing them for reuse, checking the housing for stress fractures, the lens surface for scoring. Clean. He turned it again. Then he set it on top of the salvage bin, lens facing up, and closed the bin's retention latch.
+
+Maria watched him from the Fabricator housing. She said nothing.
+
+He sat down on the platform's rear section next to the salvage bin and put his hands on his knees. The tunnel breathed around him. The gold veins ran their slow pulse through the walls and ceiling, carrying three heartbeats instead of four. The Living Wall had begun its slow recovery from the resin contamination, new tissue threading into the char marks where the plasma shots had blackened the surface, the network rebuilding what it could reach. It was patient. It had been doing this longer than he'd been alive.
+
+A minute passed before he spoke.
+
+"He moved before I told him to," Ethan said.
+
+Maria was quiet for a moment. When she spoke, her voice was level.
+
+"I know."
+
+"He saw the firing solution and moved to cover it. On his own."
+
+"I know," she said again.
+
+He looked at his hands. The gauntlets were cooling, the green pulse of the Syntropic integration running its steady low current through the plating. He'd rebuilt Harold from components once. He had the components. He had the Fabricator, the material stock, the technical memory of every assembly step. He'd sat in that cave for three hours because rebuilding had been the right answer and he'd known it. He knew the difference between what was possible and what was the point, and he knew which one applied tonight. The salvage bin was closed. The optic was inside it. He was going to carry it to wherever they were going and figure out the rest from there.
+
+He stood up. He engaged the drive motor. The platform moved forward, the treated axles tracking the tunnel floor without compression, the gold veins brightening two meters ahead and fading two meters behind. Mule Two mounted the latest turret in the gauntlet two hundred meters back. The Fabricator came back online at standard cycle, its arms unfolding into the intake tray with the quiet competence it had shown every hour since the platform started rolling. The Auto-Miners swiveled back to their wall-skim angle and resumed feed, stone tumbling down the chutes into the intake tray, the Ex Nihilo conversion running the same way it always ran.
+
+On the sled, in the salvage bin with the retention latch closed, Harold's optic sat lens-up in the dark.

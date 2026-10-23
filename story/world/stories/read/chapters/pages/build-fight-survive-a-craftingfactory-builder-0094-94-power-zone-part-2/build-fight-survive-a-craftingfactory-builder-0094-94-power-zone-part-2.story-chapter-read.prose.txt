@@ -1,0 +1,197 @@
+Light leapt out of the generator throat, a tight, white-orange tongue that painted the cavern in heat shimmer. The ducts rattled under the sudden pressure, their valves fluttering like startled birds. Ethan staggered a half step back, one arm raised against the glare.
+
+[Power Output: +3 % | Combustion Chamber: Active]
+
+The air moved with intent. Heat shoved upward through the vent, a low rushing that deepened into the bone-drum throb of living airflow. Dust spiraled from the floor and lifted into the rising current. The flap valve hissed open and the diffuser plate blushed dull red before the exhaust funneled through the curve and vanished into the stone lip. The green walls responded in kind, their light swelling from a soft pulse to full luminescence, like veins lighting up beneath translucent skin.
+
+CelestOS: Congratulations. Airflow achieved. Structural integrity is holding at eighty-eight percent. Oxygen drop is negligible. Carbon accumulation is deferred.
+
+Ethan grinned despite the sweat streaming into his collar. “We have power! We’re in the power zone!”
+
+CelestOS: Correction, you have convection. Please try not to confuse poetry with physics.
+
+He laughed once, a loud and raw sound, and kept one hand on the generator’s frame as the vibrations steadied. The ductwork sang faintly, a metallic chorus carried by heat. The sound tunneled through the corridor until it disappeared into the green, where the walls echoed it back as a lower, harmonizing tone. The room had a voice now.
+
+Harold beeped from his hiding spot near the assembly, cautious but curious. Ethan glanced at him and gestured. “Come on out. She’s not gonna blow.”
+
+The drone rolled forward, optics adjusting to the glare, its lens aperture narrowing until the green and orange merged into gold. The hum in the walls matched Ethan’s pulse: steady and alive. He watched the readouts climb.
+
+[Reserve Power: 16 % → 22 % → 25 %]
+
+CelestOS: Power generation stable. You are now 43% less useless. Shall I schedule your victory speech?
+
+“Save it for the daily report,” he said, pulling the thermal mask up to breathe filtered air. The smell of burnt metal and new stone mingled, sharp but clean. He crouched near the flue, feeling for leaks. The Binding Agent held, its seams cooling in uneven lines that smoked only at the edges. It wasn't pretty, but it worked.
+
+He stared at the vent’s mouth where the green glow met the furnace light. The contrast felt wrong, a red warmth bleeding into that impossible jade. When the first hot wave rolled through the seam, the green surface brightened and then darkened, its pulse adjusting as though acknowledging the intrusion.
+
+CelestOS: Thermal interface response detected. Material adaptation is underway. You appear to have taught the wall a new trick.
+
+He blinked sweat out of his eyes. “It’s absorbing the heat?”
+
+CelestOS: Partial. Energy transfer efficiency is rising, which suggests thermophotonic conversion. The surface is feeding.
+
+The realization crawled cold down his back even through the heat. “On what?”
+
+CelestOS: On you, the smoke, the fire. Even your combustion output is being metabolized by the structure. In small bits and pieces. Think of it as paying rent.
+
+He turned toward the wall again. The veins of gold had sharpened, branching like capillaries beneath skin. He could feel their vibration now, a rhythm just out of sync with his own heartbeat. The warmth coming off them wasn't from the forge; it was something internal, resonant.
+
+“Feels like it’s breathing with me,” he said quietly.
+
+CelestOS: Or because of you. A feedback loop has been detected. I suggest monitoring for atmospheric dependency, yours or its.
+
+He stood very still, trying to separate the hum in his chest from the hum in the metal. They overlapped, pulse against pulse, until the difference blurred. Every breath came back to him, delayed by half a heartbeat through the floor, like the cave was exhaling his own air. He’d felt vibration through steel before, the familiar thrum of engine housings and fuselage ribs which meant survival, but this wasn't that. This rhythm felt personal. It wasn’t just carrying sound; it was listening. He closed his eyes and let the vibration climb his spine until it reached the base of his skull, where it pulsed in perfect time with his heartbeat.
+
+“Meaning if I stop feeding it…”
+
+CelestOS: We’ll see who suffocates first.
+
+He stood there a long moment, watching the wall’s glow pulse against the shadows. The duct roared softly, the valve opening and closing in a steady rhythm. The air felt cleaner already, thin but breathable. It was the first true breath of the new base.
+
+“Alright,” he said at last. “Lesson learned: even the walls have an appetite.”
+
+He shut the burner down to idle. The roar fell to a whisper, the air still moving in long exhalations.
+
+[Power Reserve: 25 % → 28 % → 32 %  → 35 %| Temperature: Stable | Oxygen: Acceptable]
+
+He wiped his forehead, a slow grin tugging at the corner of his mouth. “We’re alive and powered, and nothing exploded.”
+
+CelestOS: Your standards have never been higher.
+
+“Feels almost domestic,” he said, turning to look at the crude lung of ducts glowing faintly in the green light.
+
+CelestOS: Yes. A home with mood lighting and a tendency to metabolize fire. You must be very proud.
+
+He leaned against the frame and watched steam curl out of the vent’s lip, fading into the living wall.
+
+The fire had burned down to a steady, even hum, and the air no longer felt stale. Heat drifted upward through the vent in slow, satisfied pulses, like the whole cavern was breathing in time with it. Ethan leaned against the generator housing and let the ache in his shoulders settle into something close to pride. He’d built fire underground without choking on it. That had to count for civilization.
+
+[Power Reserve: 35% → 40%]
+
+CelestOS: Congratulations. Atmospheric stability is nominal.
+
+“Feels less metaphorical from here,” he said, running a glove along the vent casing. The metal was warm, not blistering, and the duct’s seams had cooled to a faint gray line. “She’s breathing easy.”
+
+CelestOS: ‘She’? You’ve anthropomorphized your ventilation system. Step two of isolation madness is achieved. Step three involves screaming Harold’s name dramatically.
+
+He glanced toward the green surface where the vent disappeared into its curve. “Don’t tempt me.”
+
+CelestOS: Temptation is your default state.
+
+He snorted and crouched to inspect the generator’s gauge array. The readouts ticked in clean increments, smooth in a way they hadn't been since the crash. The power loop’s hum had evened out, the crank module silent for once. He wouldn't need to hand-charge for hours.
+
+“Forty percent. That’s enough to start distributing power to other uses,” he said. “We have airflow and water, and now power to link it all up.”
+
+CelestOS: Proposing power redistribution protocol. Target: sustained efficiency with minimal user suffering.
+
+“I like minimal suffering,” he said. “Let’s start with the assembly line and the forge.”
+
+CelestOS: Routing approved. Expect minor fluctuations in brightness as I pretend to care.
+
+He laughed quietly. “Pretend harder.”
+
+The forge’s faint halo flared, its metal panels glowing cherry-red before settling into a rhythmic pulse that matched the wall’s light. For a moment, the two systems, the artificial and the alien, seemed to sync. The hum merged into one tone, resonant and low, the kind that settles behind the ribs and stays there.
+
+“CelestOS,” he said softly, “you hearing that?”
+
+CelestOS: Unfortunately. Frequency alignment between generator output and the unknown substrate is now at ninety-six percent. This may be beneficial or catastrophic. I’m collecting data to decide.
+
+The light from the green walls brightened in smooth waves that rolled outward like breath. Ethan took an involuntary step closer. The glow intensified near his boots, subtle veins of gold spidering toward him before fading. The wall was responding, not randomly, but as if it recognized the rhythm of what he’d built.
+
+“Don’t anthropomorphize. Don’t give Cel ammunition,” he whispered, even as the pulse matched his heart again.
+
+CelestOS: Correction, the structure is emitting micro-vibrations synchronized to your cardiac rhythm. Anthropomorphism is unnecessary.
+
+“That’s worse.”
+
+He set his hand against the wall. The surface felt warm, not from the vent, but from within. Beneath the warmth was a faint give, like touching the inside of a living cheek. He jerked his hand back on instinct. The glow dimmed, almost as if the wall had sighed.
+
+CelestOS: Contact registered. Feedback intensity is decreasing. It appears to have lost interest in you.
+
+“That’s mutual,” he said, but his voice didn't sound convinced.
+
+Harold chirped twice, drawing his attention toward the far corner where the algae bundles lay drying. Their faint green luminescence had shifted shade, no longer a cool emerald but leaning toward the same hue as the walls. The shift wasn't random; each pulse of light from the wall corresponded with a flicker in the bundles, like the two were talking.
+
+CelestOS: Notable observation: bio-organic material exhibits sympathetic resonance with the surrounding architecture. This could indicate data exchange or nutrient absorption.
+
+“So it’s feeding the plants now,” he said. “Great. We’ve got a green power.”
+
+Harold gave a low diagnostic trill and unfolded his upper sensor plate. A fan of blue light swept across the green wall in sharp, angular lines. The surface didn’t just reflect it; it bent the scan, refracting the beam into a pattern of spirals and arcs that weren’t in Harold’s programming. Ethan leaned in, squinting at the projected overlay flickering against his wrist display. The drone’s telemetry feed scrolled gibberish halfway down, replaced by clean, structured lines of alien data.
+
+CelestOS: Unauthorized handshake detected. Your drone appears to be networking without consent.
+
+“Networking with what?” Ethan asked.
+
+CelestOS: With the wall. The structure is returning Harold’s ping in Celestitech protocol.
+
+He frowned. “That’s impossible.”
+
+CelestOS: Correct. Which is why it’s happening. It has learned the signal pattern and is mirroring your data syntax.
+
+Ethan crouched beside Harold, the blue light rippling over his gloves. “So it’s reading him?”
+
+CelestOS: More accurately, it’s copying him. The system is testing call-and-response logic. Adaptive communication.
+
+“Teaching itself to talk.”
+
+CelestOS: Please don’t sound impressed. You’re encouraging it.
+
+The scan intensified, Harold’s light dimming under the green glow as the pattern on the wall reorganized into concentric rings. Each pulse coincided with Harold’s internal tick rate, precise down to the millisecond. For a brief second, Ethan swore he saw his own vitals, his heartbeat and respiration, ripple through the overlay and mirrored back in faint gold. Then the wall flashed once, the same wavelength as Harold’s primary beam, and the connection broke.
+
+CelestOS: Data exchange terminated. Bandwidth exceeded. You may have just introduced me to an intellectual peer.
+
+Ethan stared at the faint afterimage burned into his retinas, the gold circles fading like ripples on a pond. “Or to something that’s been listening a long time.”
+
+He stood slowly, looking from the algae to the wall. The glow pulsed again, once, then steadied, as though confirming it was listening. The thought settled in him like gravity: the vent hadn't just fixed his air. It had given the corridor a voice, and now it was using it.
+
+He exhaled through his teeth. “We may have woken it up.”
+
+CelestOS: Clarification: you provided it with fuel and a pressure differential. ‘Awakening’ remains a human dramatization.
+
+“Sure,” he said, half-smiling. “But dramatization’s how we notice things before they eat us.”
+
+He started back toward the generator to cut power, then stopped. The green light didn't fade. It held steady, patient and alive.
+
+CelestOS: Observation: the power draw from the vent line remains constant even with the generator off. The energy source is unidentified.
+
+“So now it’s generating on its own.” He shook his head, laughing softly. “You ever build something that started helping you back?”
+
+CelestOS: No. But I have built things that replaced their users.
+
+He looked up at the shimmering walls, the veins of light winding higher into the unseen ceiling. “Let’s not go there.”
+
+CelestOS: Too late. You’ve already taught the cave to breathe. Next, you’ll teach it ambition.
+
+A tremor rolled through the floor, subtle but deliberate, like a system clearing its throat. The generator lights flickered once, then held, brighter than before. Across the room, loose bolts rattled in rhythm, not random clatter but a measured cadence that matched the pulse climbing in Ethan’s wrist. He checked the diagnostics instinctively.
+
+[Power Reserve: 31% → 37% | Efficiency: +9% | Output Variance: Unstable]
+
+“CelestOS?”
+
+CelestOS: The system is generating power without fuel input. You appear to have achieved perpetual motion.
+
+“Don’t joke.” He tapped the gauge, but the numbers kept rising. The ducts throbbed once, a sound blooming outward like pressure behind a heartbeat. “It’s feeding again.”
+
+CelestOS: Or synchronizing. The waveform between generator output and structural emission has achieved harmonic alignment at ninety-eight percent.
+
+“Harmonic?” he said. “You mean resonance.”
+
+CelestOS: I mean empathy, though engineers prefer smaller words.
+
+Heat rippled through the air. The green walls shifted hue, shading toward amber as though the light itself had taken on oxygen. Every conduit, every plate, hummed in chorus. The forge’s vents glowed white for an instant, and the faint hair on his arms lifted in the static. Then, as abruptly as it began, the glow dimmed back to its steady pulse.
+
+[Temperature: Stabilizing | Energy Redistribution: Autonomous | Efficiency: +12%]
+
+He exhaled, realizing his jaw had locked. “It balanced itself.”
+
+CelestOS: Or it decided to keep you alive for now. Congratulations on your first Veslayan symbiosis.
+
+He looked around the room, the walls breathing slow, the air tasting new. The base wasn’t just holding together; it was learning to do so on its own.
+
+He ran a hand over his face, smearing dust across his cheek. “Then I’d better teach it manners first.”
+
+The walls pulsed once more, faint and warm, almost amused.
+
+[Power: 31% | Air Quality: Optimal | Unknown Energy Signature: Active]
+
+The generator idled down, and the only sound left was the deep, steady rhythm of something vast and unseen thinking behind the walls.

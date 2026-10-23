@@ -1,0 +1,163 @@
+Ethan uploaded the schematic to the Fabricator and watched it populate the build queue. The wireframe rotated once in the holographic display before locking into fabrication mode. Component requirements cascaded down the right side of his HUD in a list that read like a depletion notice.
+
+[FABRICATION QUEUE: Dual-Channel Syntropic Modulator Mk.II][Components Required:][Iron Plates ×400: Available: 422: Status: WILL ESSENTIALLY DEPLETE][Copper Mesh ×275: Available: 289: Status: WILL ESSENTIALLY DEPLETE][Quartz Lens Array ×25: Available: 26 (Medical Bay): Status: WILL ESSENTIALLY DEPLETE][Silver Wire ×30: Available: 33 : Status: WILL ESSENTIALLY DEPLETE][Sensor Components ×22: Available: 23: Status: WILL ESSENTIALLY DEPLETE][Power Cell ×5: Available: 10: Status: PARTIAL DEPLETION][Syntropic Ore Core ×2: Available: 2: Status: RESERVED FOR TREATMENT][Post-Build Inventory: Power Cell ×1. Everything Else: 0. Hours for full resupply 4]
+
+It was every material he had, comprising every plate, wire, and sensor component the Iron Loop had produced over two days of continuous operation. He'd be feeding the entire stockpile into the machine and getting back a single device and an empty cupboard. The suitless production, while convenient, was nowhere near what he had on the surface, or manually. Something he needed to fix as soon as this next crisis was over. But its like that was all his life was lately. Crisis after Crisis.
+
+"Power routing's isolated," she said from the console. "The Fabricator has priority draw. Loop's throttled to forty percent so we don't get a voltage spike during the precision stages."
+
+Ethan nodded. He pulled iron plates from the storage bin in armfuls and stacked them in the Fabricator's intake. They went in with the solid clank of metal on metal. The copper mesh panels followed. The sensor components, each one a fist-sized module that had taken the Fabricator hours to produce and would be consumed in seconds, went next. He fed them one by one and watched the intake light pulse green with each addition.
+
+The silver wire went last. Three spools, thin and bright, uncoiling as they dropped into the tray. Maria had coiled them neatly, each spool tight and uniform. She'd handled them with the absent precision of someone who'd worked with wire her whole career. He thought about that as the last spool disappeared into the machine. Six months ago, she'd had a full CelestiCraft fabrication bay and a team with equipment rated for interplanetary engineering. Now she was coiling factory-produced wire in a cave for a device that shouldn't exist, and she'd done it without a single wasted motion.
+
+CelestOS: All required components loaded. Fabrication sequence ready. Estimated build time: fourteen minutes. Warning: upon completion, material reserves will be functionally zero. I want to be clear about what that means. If this device fails, you won't have the resources for a second attempt without a full restocking cycle of six to eight hours.
+
+"I know."
+
+CelestOS: And Maria's treatment window is...
+
+"I know the window."
+
+CelestOS: I'll simply note that you're wagering everything on a device that's never been tested, powered by ore that responds to biological intuition, and operated by a switching mechanism consisting of your overtaxed nervous system. Shall I begin fabrication, or would you prefer a moment to reconsider your life choices?
+
+"Begin."
+
+The Fabricator's arms unfolded. Light traced the first component mold, pale blue lines carving shapes into the air above the intake tray. The iron plates lifted, suspended in the energy field to begin deforming. Metal flowed like liquid, reshaping into the splitter housing's frame as the Fabricator's internal furnace hit operational temperature. Heat radiated outward in waves. The quartz blanks rose next, slotting into position inside the housing as the arms guided them with sub-millimeter precision. The channel walls formed and seated at the exact angles the schematic specified, bonded into place with molecular adhesion rather than binding agent. The machine could do what his hands never could: build to tolerances that mattered.
+
+Copper mesh flattened and shaped itself into contact plates as the sensor components dissolved into their constituent parts, redistributing across the device's framework as wiring and leads. The silver wire braided itself into conduit paths that connected each contact plate to its corresponding channel. Solder points formed automatically, each one clean and uniform.
+
+The Fabricator worked with the quiet efficiency of a machine doing exactly what it was designed for. It was a process without drama or struggle, only execution. The drama was in the numbers draining on his HUD.
+
+[Iron Plates: 422 → 22][Copper Mesh: 289 → 14][Silver Wire: 33 → 3][Sensor Components: 23 → 1][Quartz Lens Arrays: 26 → 1]
+
+Each line zeroing out hit like a door closing. Four hundred iron plates that had taken the Auto-Miner two days to produce were consumed in minutes of fabrication. Hundreds of copper mesh panels, dozens of quartz arrays, and nearly every spool of silver wire the Loop had generated vanished into a single device. Every resource he'd built and fought for converted into a single object. The cupboard was bare. The factory that had kept them alive was running on fumes, its output committed to a restocking cycle that wouldn't produce usable materials for six to eight hours.
+
+That was the math now. It wasn't about tight margins or difficult odds. It was one shot.
+
+Maria watched the resource counters drain without expression. She'd already done this math. She'd done it while he was underwater or climbing, and even while sitting in the Forge's half-light with a fever eating through her shoulder and a baby kicking against her ribs. She'd stared at these numbers for eight hours and come out the other side with the clarity of someone who'd already accepted the terms.
+
+The Fabricator chimed and its arms folded. The device sat in the output tray, still warm from fabrication, components clicking softly as they cooled and settled into final position.
+
+The Dual-Channel Syntropic Modulator Mark II was roughly the size of a large toolbox. The splitter housing formed its core, two quartz-walled channels running parallel inside a shaped iron frame. Contact plates faced upward, copper mesh gleaming faintly in the Forge light. At the input end, an ore core cradle waited, empty and open. Two lens arrays aimed their focal points at a convergence zone thirty centimeters in diameter at the output end.
+
+It looked like something built in a cave by people who refused to die, which is what it was.
+
+Ethan lifted it from the tray and carried it to the medical bay's mounting bracket. The magnetic clamps engaged with a solid click that resonated through the alcove. He seated the larger ore core into the cradle. Violet light bloomed through the housing, filling both channels, splitting cleanly at the wedge, and emerging through the lens arrays as two focused beams aimed at the examination platform.
+
+CelestOS: Dual-Channel Syntropic Modulator Mark II. Assembly complete. Diagnostic running.
+
+A pause.
+
+CelestOS: All systems nominal. Channel separation: verified. Contact array: responsive. Lens focus: confirmed. Ore core output: stable. Switching mechanism: pending operator engagement.
+
+Another pause stretched longer than the first.
+
+CelestOS: The engineering's sound, Ethan. I want you to know that. Whatever happens next, the device'll do what it was designed to do. The only variable's you.
+
+[DEVICE: Dual-Channel Syntropic Modulator Mk.II | Online][Treatment Window: 1 Hour, 51 Minutes][Infection Integration: 78.8%][Post-Build Resource Status: DEPLETED]
+
+Maria was already on the examination platform when he turned around. She'd moved while the Fabricator worked, shifting from the console with the deliberate economy of someone conserving what little remained. Her boots sat neatly beside the platform's base. Her engineering suit was unzipped to the sternum, exposing the thermal underlayer and the resin infection threading up her neck in angry red lines. The tendrils had crept past her collarbone and branched toward her jaw, pulsing faintly in rhythm with her heartbeat.
+
+Ethan checked the alignment of both output lenses against the platform, adjusting the modulator's angle until the twin beams converged directly over Maria's torso. The treatment zone covered her infected shoulder and chest, extending to the upper curve of her abdomen where The baby lay. He checked the connections. Splitter holding, channels verified. Contact plates were responsive while the ore core remained stable. Lenses focused, sterile field active, and resonance dampener humming.
+
+Ethan checked the lens alignment again.
+
+"Ethan."
+
+He stopped adjusting a lens that was already perfect.
+
+"Come here," she said.
+
+He crossed the alcove and stood beside the platform. She reached up and took his hand. Her fingers were hot, feverish and dry, but her grip was steady. She pulled him down until he sat on the platform's edge beside her.
+
+"Talk to me," she said. "Not about the device but something else."
+
+His mind was full of numbers, resonance curves, and the thirty-one percent probability circling the back of his skull like a bird that wouldn't land.
+
+"I've been thinking about a name," Ethan said.
+
+Maria blinked. Of everything he could've said, that clearly wasn't on the list. "Now?"
+
+"Now. Before." He gestured vaguely at the device, the ore, and the alcove that smelled like ozone and warm metal. "Before all of this. Just in case."
+
+She studied him for a moment, then shifted on the platform to face him more fully. The movement cost her, a controlled tightening at the jaw, but she didn't let it interrupt. "Okay. Tell me."
+
+"Frederick."
+
+The name sat between them, plain and solid. Maria rolled it silently, her lips forming the syllables without sound.
+
+"Frederick Cross," Ethan said. "I know it sounds like an accountant."
+
+"It sounds like someone's uncle."
+
+"It sounds like someone who shows up to do the work."
+
+Maria's expression shifted. She listened differently now, the way she listened when he was building toward something that mattered. "Where'd it come from?"
+
+Ethan looked down at their joined hands. Her thumb had started its slow circle against his wrist, the same absent gesture she'd made during basic when they'd sit together and talk about nothing important.
+
+"My dad never left Luna City and never wanted to. He worked the salvage yards his whole life, tearing apart old battery casings and stripping cells for resale. Julian and I were twelve the first time he brought us in, and Julian actually helped. He could strip a cell down without losing a fingernail and catalogue parts, getting the right crate without being told twice." He paused. "I just stood there, staring at the conveyor lines like they were horizons. I watched sparks fly off the industrial shears and imagined cities made of forges."
+
+Maria waited. She knew the shape of this story even if she hadn't heard this version. She knew the father who worked too hard, who fell asleep at the kitchen table still wearing his respirator, and who took night shifts and weekend contracts because the salvage yards paid by the ton and there was never enough tonnage.
+
+"He used to say that real fabrication was the future. It was the ability to turn a command line into architecture, ore into metal, and thought into machine." Ethan's voice went quieter. "He never got to see it. He talked about it the way people talk about places they'll never visit. It was beautiful and impossible, meant for someone else's kids. Like a dream out of reach of the stars he could barely see."
+
+He looked up at the medical bay, the device he'd built, and the Forge humming at his back. The factory that churned in the darkness around them turned raw stone into the materials that kept them alive.
+
+"Julian and I were the first ones in our family to leave. First generation off Luna. Dad put everything into getting us into the program. And here I am, on the other side of the galaxy, doing exactly what he described. It's building things out of nothing and turning ore into machines to make the impossible stuff work." He exhaled. "He never got to see any of it."
+
+"What was his name?" Maria asked, though something in her voice said she'd already guessed. Neither Ethan nor Julian talked much about their parents, the grief too much for both of them even now.
+
+"Frederick," Ethan said. "Frederick Cross. A salvage worker who spent his whole life taking things apart and dreaming about what it would mean to put them together."
+
+Maria was quiet for a long moment. The Forge crackled while the sterile field hummed. The ore core pulsed green light across the ceiling in slow, steady waves.
+
+"Frederick Cross," she said, testing it aloud. "A builder's name."
+
+"A builder's name."
+
+She squeezed his hand. "That's who he is."
+
+The moment held, warm and fragile and human. The clock ticked forward.
+
+[Treatment Window: 1 Hour, 38 Minutes]
+
+Maria saw the shift in his expression. She didn't look at the clock.
+
+"If something goes wrong with you during the procedure," she said, "I need you to promise me you won't hold on past the point where it matters. If your body starts failing, you stop. You pull your hands off the device and you stop."
+
+"Maria..."
+
+"If you push until your nervous system gives out, the device fails anyway and we lose all three of us. If you stop early, maybe the partial treatment buys me time. Maybe the infection regresses enough for a second attempt after the Auto-Miner restocks. Maybe we find another way." She held his gaze. "But none of that happens if you're dead."
+
+He wanted to argue. Every instinct wanted to promise he'd grip those contact plates until his hands fused to the copper mesh if that's what it took. He wanted to be the man who didn't stop, who never stopped, who built and fought and survived through sheer refusal to accept the alternative.
+
+But she was right. She was always right about the things that cost the most to hear.
+
+"If I feel it slipping," he said, "I'll stop."
+
+"Promise me."
+
+"I promise."
+
+She studied him for a moment longer, reading the truth of it. Whatever she found seemed enough, because she nodded once and released his hand.
+
+"Good," she said. "Now go save us. Save Frederick."
+
+Ethan stood. He crossed to the modulator and positioned himself behind the contact array. The two copper mesh plates gleamed in the ore core's light. He flexed his fingers and rolled his wrists. He drew one slow breath to hold it.
+
+"CelestOS. Initiate treatment protocol. Dual-channel delivery, operator-modulated switching. Flag all deviations in real time."
+
+CelestOS: Treatment protocol initiated. Sterile field confirmed. Resonance dampener online. For what it's worth, the engineering really is good.
+
+"Thanks."
+
+CelestOS: Don't thank me yet. Thank me when both patients are stable and you're still conscious.
+
+Ethan placed his hands on the contact plates.
+
+Copper mesh pressed cool against his palms. The ore core flared, Green light flooding the alcove, and the cool became warm and hot before shifting to something beyond temperature. A frequency climbed through his wrists into his forearms and settled in his chest like a second pulse. He felt both of them immediately: 290 Hz and 447 Hz, mother and child, steady and deep and urgent and new. Maria's frequency burned like a long-held breath. Frederick's hummed lighter and faster, like a heartbeat underwater.
+
+Closing his eyes, he found the boundary between them, the razor-thin edge where one ended and the other began, and he pushed.
+
+The device activated.

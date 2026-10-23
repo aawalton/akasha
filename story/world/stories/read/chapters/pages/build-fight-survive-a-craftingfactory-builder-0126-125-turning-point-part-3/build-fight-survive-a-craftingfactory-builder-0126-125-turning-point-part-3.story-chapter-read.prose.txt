@@ -1,0 +1,153 @@
+The glyphs spread over the next day or two. Ethan found them when he woke from four hours of sleep on the living quarters platform Maria had finally shamed him into building. He’d bolted the frame together from iron plates and repurposed conveyor segments, laid binding agent insulation across the surface, and called it done.
+
+It was flat, it was off the stone floor, and it was the first time in five days either of them had slept on something that wasn’t cave rock. Maria had fallen asleep with her hand resting on her stomach and her boots set neatly beside the platform.
+
+Ethan hadn’t even finished his sentence about the third conveyor line’s roller alignment before sleep took him, and he woke with a crick in his neck and green light on the ceiling.
+
+The glyphs had been limited to a cluster near Maria’s sleeping area the day before. Now they covered the entire eastern wall of the base perimeter, a sprawling pattern of angular marks threaded with gold veins that pulsed in a rhythm through his boots. They were sharp-edged and precise, each symbol cut into the Living Wall as if scored by a tool, except no tool had touched them. The wall had generated them on its own, carving meaning into its own tissue the way a body forms scar tissue around a wound.
+
+He counted forty-seven distinct symbols before he lost count. Some repeated in sequences of three or four. Others appeared only once, isolated in the green surface like punctuation marks in an alien sentence. All of them pulsed in the same steady rhythm, and all of them shared a single directional orientation that didn’t require Maria’s wall connection to read. Every glyph’s gold-vein threading angled toward the floor. The lines converged like drainage channels, pooling toward a point somewhere beneath the base’s foundation that his sensors couldn’t reach.
+
+“Cel give me an analysis on the new glyph formations.”
+
+CelestOS: Pattern analysis complete.
+
+[GLYPH ANALYSIS: Eastern Wall]
+
+[Distinct Symbols: 47 | Coverage: 18 m²]
+
+[Formation Rate: 3.2 symbols/hr | Trend: Accelerating]
+
+[Linguistic Match: None | Type: Logographic (meaning-bearing)]
+
+[Directionality: Unanimous vertical downward]
+
+CelestOS: The symbols share a consistent angular vocabulary but don't correspond to any known linguistic database in my archives. Directionality is unanimous. Every symbol's internal geometry points vertically downward. The walls are saying something and saying it emphatically, but I can't tell you what. I find this professionally embarrassing.
+
+“Any guesses?”
+
+CelestOS: Guessing isn’t within my operational parameters. I deal in probabilities and projections. If you’d like me to speculate wildly, I can offer that the symbols bear a passing structural resemblance to navigational markers used in Celestitech warehouse logistics. Which either means the walls are giving you directions or they’d like to discuss inventory management. Given your lifestyle, both seem equally plausible.
+
+“You’re comparing some weird aas alien communication system to a warehouse.”
+
+CelestOS: I’m comparing it to the only reference frame I have. If you’d like a more poetic interpretation, I suggest asking your wife. She’s been standing at that wall for six minutes and appears to be having a more productive conversation with it than I am.
+
+Maria stood at the wall’s edge with both hands pressed flat against the wall, her eyes closed and her head tilted at the angle that meant she was listening to something Ethan couldn’t hear. The gold veins beneath her palms blazed brighter than anywhere else on the wall, concentrating around her contact points in dense clusters that spread outward like ripples in water.
+
+She’d been standing there for several minutes before Ethan approached. Long ago hed learned not to interrupt when she was reading. He assumed the same thing applied with whatever she was doing.
+
+“They’re not just symbols,” Maria said without opening her eyes. “There’s a signal underneath them. Each glyph is anchored to a specific frequency in the wall’s network. When I touch one, I get a pulse of information. Direction, distance, intensity, depth.” She moved her right hand to a different glyph, and her breath caught for a moment before steadying. “This one reads differently. Deeper. The signal behind it is older than the others, like it was written first and the rest grew outward from it.”
+
+She traced her fingertips along the wall’s surface, following the gold vein threading between two symbols. The light tracked her movement, brightening ahead of her fingers and dimming behind them. “They’re waypoints. Each one marks a distance and a direction from the one before it. The whole pattern is a route.” She pulled her right hand back and pressed it against a glyph near the floor. “And the route goes down.”
+
+“Waypoints to what?”
+
+“Something deep. Below us, below the biomass chamber, below everything you’ve mapped. The signal gets stronger the further down the waypoints point.” She opened her eyes and pulled her hands from the wall. The gold veins dimmed but held their glow. “There’s a structure down there. I can’t tell its shape or size, but the wall’s signal converges on it like every road on this mountain leads to the same place.”
+
+CelestOS: I can confirm a subsurface energy anomaly at approximately 400 meters below the base's current level. The signal is consistent with a high-density Syntropic source, significantly more concentrated than anything Ethan or Celestitech has encountered . I've been aware of this anomaly for approximately 200 hours since Ethan woke up here and freed the living wall from its tomb, and chose not to mention it because the data was inconclusive.
+
+Ethan looked at Maria. She was still facing the wall, her palms flat against the wall, but her fingers had gone rigid.
+
+CelestOS: Maria's biological interface has now independently confirmed the reading. I'm upgrading the classification from 'inconclusive' to 'genuinely concerning.'
+
+“Four hundred meters,” Ethan said. “That’s a long way down with no tunnels.”
+
+“There are tunnels.” Maria pointed at the wall where the glyphs were densest. “I can feel them. The wall has passages that don’t show up on your seismic scans because they’re made of Living Wall tissue, not stone. They flex, they shift, they open and close. Right now, there’s a passage fourteen meters below us that wasn’t there yesterday.”
+
+Ethan stared at her. “The wall is building tunnels. That’s a change of pace from actively preventing me from saving you. I honestly thought this thing hated us.”
+
+“It didn’t hate us. It was hurt.” Maria kept her hands on the wall, her voice steady but firm. “You blew a hole through it, Ethan. You mined through it, burned through its tissue with smelters. It reacted the way any living thing reacts when something’s tearing it apart. It fought back.” She turned to look at him. “But the cure changed Frederick. Whatever the Syntropic ore did to him, the wall can feel it.”If you find this story on Amazon, be aware that it has been stolen. Please report the infringement.
+
+“The wall didn’t even communicate with us until after the cure. For all we know that’s exactly why it’s talking now because it wants what’s in him.”“If it wanted to take him, it wouldn’t need to build us a path. It’s all around us, Ethan. It’s under the floor, behind the walls, wrapped around this entire cave. If the wall wanted Frederick, it could have closed in on us days ago. Instead it’s opening up. It’s guiding us to safety.”
+
+CelestOS: To be precise, the wall is restructuring its own biological tissue to create navigable passages in real time. I’d recommend being concerned, but you’ve historically ignored that recommendation, so I’ll simply log the observation.
+
+“Is it safe?”
+
+CelestOS: Define 'safe.' The passage appears structurally sound and the atmospheric composition is breathable. Temperature is stable, no hostile biological signatures detected. By every measurable standard, it's safer than staying here and waiting for the corporate drilling team to arrive.
+
+"That's not what I asked."
+
+CelestOS: By every unmeasurable standard, you're being invited into an alien tunnel system by a planetary organism that's likely been alive for longer than your entire species. I leave the risk assessment to your discretion.
+
+“The wall is building a path. For us. Or for Frederick.” Her hand went to her stomach. “His resonance is what the wall responds to most. When he kicks, the glyphs light up. When he’s still, they dim. Whatever’s down there, it’s keyed to him. I don’t think this does want to hurt us, whatever it is.”
+
+The floor trembled again. Patel's drilling pulse, steady and mechanical, rolling through the stone from above. It’d been running continuously for eighteen hours now, and the interval between pulses had shortened. He was drilling faster, or closer, or both. As if on cue, CelestOS gave her hourly update.
+
+CelestOS: Updated seismic analysis.
+
+[SEISMIC UPDATE]
+
+[Corporate Bore Points: 3 | Configuration: Semicircular]
+
+[Nearest Bore Distance: 340 m]
+
+[Advance Rate: 4.2 m/hr (standard basalt)]
+
+[Estimated Breach: 3.4 days]
+
+“How did he find us?”
+
+CelestOS: Several possibilities. Your Auto-Miners produce seismic signatures detectable at surface level. The power used bybyour factory generates thermal output that propagates through stone.
+
+The floor pulsed under Ethan's boots. Another drill cycle.
+
+CelestOS: The Living Wall's 340% energy increase since the cure may also be registering on corporate sensor arrays. Or Patel drilled a grid pattern until he was close enough to fin the unique signature given out by Celestitech’s proprietary technology. He's methodical. I'd respect it if it weren't aimed at us.
+
+“So the factory led him here.”
+
+CelestOS: The factory, the cure, or both. The irony of your survival infrastructure becoming a homing beacon isn’t lost on me. If it helps, the signal propagation should drop significantly below 200 meters of Living Wall tissue. Deeper means quieter. Another reason to go down.
+
+Three and a half days. The number sat in the air between them. The turrets on Ethan’s HUD showed ammunition counters and resource targets still climbing toward numbers that wouldn’t be reached in time. The glyphs on the wall pointed downward with a unanimity that read as urgency. Maria stood at the boundary between his machines and the planet’s oldest infrastructure, seven months pregnant, bare feet on stone, her hands still warm from reading signals that no human being had ever received. Patel pressed from above. The walls pulled from below. The base sat between them like a coin on its edge.
+
+“Maria, can you map the passage? The one fourteen meters down?”
+
+She closed her eyes again. Her hands found the wall, fingers spread wide. The gold veins surged beneath her palms, spreading outward in a wave that rippled across the entire eastern wall. The glyphs brightened in sequence, each one flaring as the signal passed through it, creating a cascade of gold light that moved from the ceiling to the floor in approximately two seconds.
+
+“It starts below the biomass chamber,” she said. “Twelve-degree decline. Smooth walls. The passage is approximately three meters wide and two meters high. It goes southeast for about ninety meters before dropping steeply.” She frowned. “There’s a branch point. One path continues down. The other curves back toward the base perimeter.” She opened her eyes. “The downward path is warm. The branch path is cold.”
+
+“Warm meaning active. Living Wall tissue maintaining temperature.”
+
+“Warm meaning the wall wants us to take that one, and avoid the other one.”
+
+Ethan walked to the Fabricator and pulled up the build queue. He stared at it for a long moment, the numbers scrolling, the resource gaps visible, the turret ammunition still climbing toward targets impossibly far away.
+
+“CelestOS, if I divert twenty percent of current production to portable fabrication equipment, field power cells, and medical supplies, how much does that delay my defensive stockpile timeline?”
+
+CelestOS: Diverting 20% of current output to expedition-class equipment delays your defensive stockpile by approximately 40 hours. Your turret ammunition reserve drops from projected 5,200 rounds at breach to approximately 3,800 rounds. That’s a significant reduction in sustained engagement capacity. However, I feel obligated to point out that if the Living Walls are offering you a direction that leads away from the people drilling toward you with industrial equipment, the defensive stockpile may be less relevant than you think.
+
+“You’re telling me to run.”
+
+CelestOS: I’m telling you to consider that the walls have been alive for longer than Celestitech has existed, and they appear to be offering your family an exit that doesn’t involve a gunfight with a literal army. The tactical term for this is ‘strategic withdrawal.’ The human term is ‘not dying on a hill you don’t have to hold.’
+
+Maria watched him from the wall’s edge. The glyphs pulsed behind her, gold light angled downward, and the floor vibrated with the sound of drills eating through stone from above.
+
+The passage the walls had opened below was one direction. The factory Ethan had spent days rebuilding from nothing was another. But the walls were pointing down. And Patel was coming from above. And the numbers told him what the numbers always told him: the math didn’t work.
+
+Three and a half days wasn’t enough time to reach the defensive stockpile needed to fight back. It wasn’t enough time to fortify against a corporate drilling team with industrial equipment and soldiers trained for tunnel warfare. The turrets would slow them. The mines would cost them. Ethan had fought enough resource wars to know the difference between a defensible position and a delay.He walked to the Fabricator and pulled up the build queue. He stared at it for a long moment, the numbers scrolling, the resource gaps visible, the turret ammunition still climbing toward targets impossibly far away.
+
+His HUD showed turret positions, ammunition counts, resource targets that represented weeks of grinding condensed into days of desperate production. The factory couldn’t move. Everything he’d built was anchored to this cave, bolted to these walls, wired into this stone. If they went down, they left it behind.
+
+He stood there longer than he meant to. The Fabricator hummed beside him, and he watched the build queue scroll through numbers he’d memorized without trying. Every line represented a problem he’d solved. Every conveyor junction, every smelter ratio, every turret placement; all answers he’d pulled out of nothing with his hands and his head and days he couldn’t get back.“Ethan.”
+
+Maria’s voice was quiet. She’d crossed from the wall to stand beside him, one hand on his arm.
+
+“What?” He snapped, his frustration boiling, but cooled immediately seeing the shock on her face.
+
+“I’m sorry. It’s just… I’ve done this before. Building and losing a factory.” The words came out flat. “Twice now. Built a factory from nothing, lost it, started over. I am just. Fuck this isn’t fair.” He put his hand on the Fabricator’s casing. The metal was warm from hours of continuous operation. “This one’s better than anything I’ve built.  The layout’s cleaner. The throughput’s higher. All three smelter lines running without a single bottleneck. I don’t wanna lose this one too.” Ethan felt like a child throwing a tantrum. But it just wasn’t fair. Was there anything he could do?
+
+“I know.”“And I’m supposed to just walk away from it. Again.”Maria didn’t answer right away. She looked at the factory; she really looked at it, the way she looked at the wall when she was reading it. Then she looked back at him.
+
+“You built all of this in five days with nothing but cave rock and a broken suit. You think the factory is the thing that’s hard to replace?”He didn’t have an answer for that. He looked at the Fabricator, then at the build queue still scrolling on his HUD, then back at Maria. Frederick kicked once, hard, and every glyph on the eastern wall flared gold in response.
+
+And something clicked.
+
+“Cel. The factory’s thermal signature. If I shut down production and pull the core components offline, what happens to the signal Patel’s tracking?”
+
+CelestOS: Thermal output drops to background levels within approximately four hours. Seismic signature from the Auto-Miners ceases immediately upon shutdown. Patel’s drilling vector is calibrated to your current emission profile. Remove the source, and he’s drilling toward a cold, empty cave. I’d call it poetic if I were programmed for sentiment.
+
+As if the flood gates had opened, a rush of ideas entered his mind. “I know what we’re going to do,” Ethan said.
+
+Maria smiled, a tired smile that said she was willing to do anything despite her fatigue.
+
+“Portable Fabricator, six power cells, medical kit, 500 meters of conveyor segments. I am not going to lose this factory again. No, instead we’re going to fucking take it with us.”

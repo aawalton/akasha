@@ -1,0 +1,131 @@
+The corridor narrowed without shrinking. It bent back on itself until his balance protested. At one junction, the walls folded and twisted like muscle under strain. He searched for symmetry and found only tricks. Patterns teased him, shifting when he blinked. Twice he spotted breadcrumbs he hadn’t dropped and decided the floor wasn’t level enough to argue with. Once he saw what looked like his own boot print before remembering the surface didn’t take prints at all. He told himself that was funny.
+
+He paused to breathe and counted his heartbeats while the undertone leaned in. His head had slowed from pounding to insistence. When he stood from the crouch, his vision didn’t falter.
+
+The half cup had been enough to move him from crisis to control. The swallow behind his sternum settled into rhythm. He took comfort in small certainties: his balance had steadied, his fingers no longer felt dusted with chalk, and his tongue finally remembered it belonged to him. Those kinds of lies keep you going.
+
+Harold stopped at a fold and swept his narrow beam along the seam where wall met floor, tracing the shallow cup that guided their path. The light caught something; a flicker that wasn’t green, a glint answering from farther than the beam should reach.
+
+“Run that again,” Ethan said.
+
+Harold did, and the flicker behaved like gossip. It vanished under direct stare and flashed in the corner of the eye, more suggestion than source.
+
+CelestOS: Luminance anomaly.
+
+“Reflection?” Ethan said.
+
+CelestOS: A surface at distance is returning light irregularly. Statistical match: liquid.
+
+He swallowed. He felt hope rising. The swallow hurt a little, but then adrenaline took control. “Let’s not fall into anything.”
+
+CelestOS: Enthusiastic agreement. Falling would be considered an OSHA violation.
+
+The path curved gradually, never quite straight. The air grew a little warmer, enough to ease the tightness in his face. A faint smell returned—wet stone and clean mineral, the kind of cool breath that comes from deep underground. He kept one hand near the floor and felt a weak current of air brushing past his fingers. It pulled forward, steady and real. The low hum shifted in pitch, though he couldn’t tell whether it was the sound or his own ears changing.
+
+The corridor widened into a space that might count as a room. The walls drew back just enough to stop pressing in. The green light darkened and brightened in slow, uneven waves. The surface looked smoother here, the old muscle-like bands flattened and crossed by faint, glassy lines. Harold’s lamp caught a shine ahead and wavered on it.
+
+“Tell me you have a test that doesn’t end with me face-first in a mystery,” he said.
+
+CelestOS: Multiple tests. All better performed from a distance.
+
+“Name one.”
+
+CelestOS: Ultrasonic ping, backscatter analysis, and particulate sampling via light scattering.
+
+“Do the pings.”
+
+Harold tilted his head and clicked. The clicks were soft, but they carried through the bones of his skull. The drone waited, then clicked again. The echo came back longer than expected and muffled, the way sound changes after touching water. Its lamp dimmed for a moment, then brightened as it adjusted the glare.
+
+CelestOS: Return profile consistent with a broad, calm surface. Edge distance uncertain. Depth: unknown.
+
+“What about drinkability?” Ethan asked. The word made him smile before he could stop it.
+
+CelestOS: Air chemistry near your face shows higher negative ions, lower volatile organics, and rising humidity. No microbial traces detected. Caveat: I cannot culture organisms without a lab.
+
+“Translation.”
+
+CelestOS: If this were a menu, I would recommend the soup.
+
+He laughed, and the sound came out wrong—too light, too young. It reminded him of another cave, another kind of dark.
+
+He remembered the first time Maria had shown him a cenote. Not the tourist kind with neon vests and camera drones, but the one near her grandmother’s house in Quintana Roo—a deep hole in the earth rimmed with vines and dragonflies. She’d been sixteen then, barefoot, already half scientist and half local myth. She told him cenotes were mouths of the underworld, or the cleanest water on the planet, depending on who you asked. Either way, you didn’t drink first. You watched. You tested. You earned it.
+
+He could still hear the insects, the far-off thunder, the promise of rain that never came. He’d crouched at the edge, ready to dip a hand into the water that smelled of limestone and life, when she caught his wrist and shook her head.
+
+“Hold up,” she said. “Rule one: let the data talk first.”
+
+Maria unclipped a small sensor from her belt and knelt beside him. She dipped the probe into the cenote until it gave a soft hum. A few seconds later, readings flashed across her wrist display.
+
+“pH’s good. No nitrates. Low bacteria count.” She smiled. “You’ll live another day.”
+
+He grinned. “So what’s rule two?”
+
+“Rule two: don’t assume water wants you alive.”
+
+She sealed the probe, stood, and brushed the dirt from her knee. Before they left, she tied a faintly glowing tag to a root above the pool—one of her field markers. “Rule three: always log your exit.”
+
+Now, on a dead world with his own sensors glowing dull blue, he murmured her words to himself.
+
+CelestOS: Sentiment detected. Classification: procedural superstition.
+
+“She called it survival,” he said. “You call it superstition because you’ll never drown.”
+
+CelestOS: Noted. Shall I log her rule for future field protocols?
+
+“Yeah,” he said softly. “Log it under reasons not to die.”
+
+The lake gave no sound, but the silence felt like agreement.
+
+He moved forward carefully, boots sliding to read the floor before adding weight, the way you learn on black ice after your first acquaintance with a parking lot and a bruised hip.
+
+The slope curved downward in a slow arc. The background hum widened into a steady hush. He could smell water now—not loud like a river, but the quiet kind that reshapes stone until the edges forget they were sharp.
+
+He stopped himself before rushing forward. The half cup from the basin had been a gift, not permission. He pictured charging ahead and drinking like an animal, or the walls deciding they didn’t like that idea. He remembered how the first sip had changed the hollow in his chest and took a slow, measured breath until the rhythm felt steady again.
+
+[Hydration: Low]
+
+[Reserve Power: 24% → 23%]
+
+[Muscular Fatigue: Moderate | Balance: Acceptable]
+
+“I’ll take ‘acceptable,’” he said. His tongue finally felt human again.
+
+CelestOS: Acceptable is survival disguised as a compliment.
+
+“I’ll take that too.”
+
+The slope leveled. The floor went from reluctant to willing, then from willing to helpful. His boots met a texture that wasn't quite green and wasn't quite smooth. It had the micro-roughness of something that expected to be wet and grip underfoot. He moved Harold’s lamp in a slow sweep. The beam went long and thin and then, in the middle of nothing, went short. For a half second the light didn’t return at all, as if it had decided to keep going and live somewhere else. Then it came back in a scatter of broken stars. Every tiny movement of his hand fractured and assembled constellations across a surface that wasn't a surface so much as an argument with gravity.
+
+He could hear it now with ears instead of bones. Not a trickle or a waterfall, but a lapping so slow it might have been breath. He took one more step and the lapping found the edges of his imagination and ate them.
+
+Harold gave a soft chirp that meant caution, curiosity, and the kind of pleasure machines had when their sensors matched their guesses.
+
+CelestOS: Potability index, preliminary: high. Dissolved solids profile suggests natural filtration through silicates. No reactive compounds at detectable thresholds. Advisory: do not jump in.
+
+“Give me a minute to think about it.”
+
+CelestOS: I will allow you two.
+
+He stood at the edge and let the room settle around him. The green light had cooled, and the gold veins dimmed to a slow pulse. The air smelled of stone washed clean too many times to hold any scent but its own. His lamp couldn’t reach the far wall, but the reflected shimmer along the surface told him enough; it was a basin the size of a small lake.
+
+He crouched slowly, careful not to let thirst rush him. Cold air rose to meet his hand, brushing his skin like a living thing testing its trust. The floor’s roughness ended in a sharp line where the wet began. He set his cup on the ground beside him and dipped his fingers into the water. Cold pierced to his wrist and told the rest of him how empty he was. The water held his touch without recoil, smooth and clean.
+
+He lifted his hand and smelled it. Nothing but fresh. For a second, the urge to cry caught in his throat, but he swallowed it down. Tears would be wasteful. He wiped his hand on his thigh and felt the salt of old sweat come away with it.
+
+“Say it,” he said. He already knew the answer but wanted to hear it.
+
+CelestOS: This appears to be a natural basin of drinkable water.
+
+“Say ‘safe.’”
+
+CelestOS: Safe to drink, given current data and standard variances.
+
+He looked down at the dark surface and watched the lamp draw a thin, trembling line across it. The light wavered when he breathed. The low hum he’d followed for so long had become a steady, gentle note that eased something tight inside his chest. His body was already asking for permission to drink.
+
+“We found it,” he said quietly.
+
+CelestOS: You found it. I merely provided commentary and unreasonable expectations.
+
+“Good commentary,” he said, and for once he meant it.
+
+The room seemed to accept that. It didn’t glow or move; it simply felt awake, like it was listening. The surface stretched out beyond the reach of his light. The air above it felt clean and patient. He lifted the cup.

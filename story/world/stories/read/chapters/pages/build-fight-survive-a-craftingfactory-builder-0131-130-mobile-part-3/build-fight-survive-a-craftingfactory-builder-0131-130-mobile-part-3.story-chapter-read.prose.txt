@@ -1,0 +1,109 @@
+The root mats were the first thing he saw.
+
+They appeared almost as if by magic at the edge of the headlamp's reach without warning, dense and luminescent, covering the tunnel floor in overlapping layers that pulsed with slow gold light. The platform rolled toward them at two kilometers per hour and Ethan had his hand on the throttle to cut power when the front axle decided the question for him. Resistance built over three seconds. The crossbeam welds shuddered.
+
+He killed the drive before the frame gave and the motor wound down to silence, the Fabricator's hum dropping a second later as feed pressure died. Since entering the passage the environment had been noisy, but now there was nothing except the Auto-Miners idling on their swivel mounts and the faint rhythmic pulse of the Living Wall breathing around them. He was on the ground before the platform finished settling.
+
+The roller housing was full of root. It wasn't just jammed or cracked; it was packed tight. A dense coil of luminescent material threaded through the bushing channel. It looked as though it had grown in exactly that direction for that specific purpose. The root was warm, radiating heat through his gloves. It carried the same deep warmth the Living Wall tissue gave off when Maria made contact. Gold veins running through its length pulsed in a triple-heartbeat rhythm.
+
+Ethan felt it now: his own pulse, Maria's, Frederick's, and the wall's slow beat, all four woven into the thing that had stopped his factory cold. He pulled at it once, testing the resistance. It didn't snap. It flexed under pressure and returned to position the moment he released it, the way a tendon returns to rest. He tried the second roller and found the same material laced the inner channel, curling around the axle pin with surgical accuracy. "CelestOS. Front axle scan."
+
+CelestOS: [AXLE ASSEMBLY: FRONT][Status: Mechanically intact | Drive: Disengaged][Anomaly: Biological material detected in roller housings 1 and 2][Material: Living Wall vascular tissue — Syntropic class][Damage to axle components: None]
+
+CelestOS: The root didn't damage the axle. But its grown into it with a tolerance tighter than your original bushing installation. I find this impressive and concerning in roughly equal measure.
+
+"How long'd it take?" Ethan asked.
+
+CelestOS: Forty-six minutes of threading your axle at sub-millimeter tolerance. This occurred while you were driving. I didn't flag it because I assumed you knew.
+
+"You assumed I knew something was growing into my axle?"
+
+CelestOS: You built a mobile factory from conveyor parts in a tunnel. I've recalibrated my assumptions about what you track.
+
+"That isn't the same thing."
+
+CelestOS: No. But it's a reasonable extrapolation from available data.
+
+"Next time flag it. I'm an engineer not a botanist."
+
+CelestOS: Logged. Though I'll note the root reached full housing penetration before my sensor array registered the material change. It was operating below my detection threshold for approximately thirty-one of those forty-six minutes.
+
+"So it was hiding."
+
+CelestOS: It was growing. Whether that constitutes hiding depends on how much credit you want to give a root.
+
+Ethan stared at the root in his axle. The factory had been growing something into itself and he hadn't noticed until it stopped him. Maria was already looking at him. She'd been watching from the platform's edge since the chassis shuddered, one hand on the Fabricator housing for balance and the other resting on her stomach. She didn't ask what was wrong; she simply waited.
+
+"Stay on the platform. Keep your weight centered," Ethan said as he stood and picked up his wrench. "I need to walk ahead." Her eyes tracked him as he moved past the front axle and into the tunnel beyond. She didn't argue, which meant she'd already seen something in the walls he'd missed.
+
+The passage changed inside twenty meters. Behind him, the environment was clean, jade-green, and cooperative. The floor was consistent enough that the platform's repurposed conveyor rollers tracked it without slipping. Ahead, the tunnel floor was different. Root mats covered the stone in overlapping layers that ranged from finger-thin to the width of his forearm. The strands wove over and under each other in dense cross-hatched patterns that pulsed with slow bioluminescence.
+
+Gold veins threaded every root. The triple-heartbeat rhythm ran through all of them simultaneously, visible as a wave of brighter light that traveled the length of the passage and returned. The ceiling changed as well. Filaments hung from the Living Wall tissue above in translucent curtains, each one pulsing at the same slow rate. The walls themselves were thicker here, the jade tissue layered over older tissue in strata that suggested years of accumulated growth.
+
+The air smelled different: damp, warm, earthy, and faintly sweet. It wasn't the neutral mineral humidity of the previous passage. Something alive regulated this section, processing the air the way a lung processed oxygen. It cycled through biological infrastructure that had been running without interruption since before any human being had set foot on Veslaya. He stopped walking at thirty meters when the first creature registered on his HUD.
+
+[BIOLOGICAL SIGNATURE DETECTED][Classification: Unknown | Threat Assessment: Insufficient data][ Movement: Slow, non-directed][Location: 8 m ahead, floor level, right wall]
+
+It was the size of a large cat and roughly the same shape: four limbs, a low-slung body, a blunt head, and a thick, tapered tail. The thing was fully translucent. Its organs were visible through its skin the way components were visible through a glass housing. He watched the slow pulse of a biological heart and the branching lines of a circulatory system carrying gold bioluminescent fluid. It moved without hurry, picking its way between root strands with the careful attention of something that had navigated this terrain its entire life. It didn't react to his headlamp or his presence. Its path adjusted around a dense root cluster with the automatic competence of an animal that had never encountered a reason to be afraid.
+
+Another one clung to the wall six meters further in. It remained motionless, attached at four contact points by filaments that anchored it to the Living Wall tissue with the same material as the root mats. Its organs cycled slowly beneath its skin. It was asleep, feeding, resting, or all three at once. A third moved in the distance at the edge of his headlamp's reach, visible only as a slow pulse of gold moving across the floor.
+
+CelestOS: Celestitech's biological databases, Veslayan surface records, and all available xenobiology catalogues contain no matches for these entities. They haven't been observed before.
+
+"Hostile?"
+
+CelestOS: Unknown. Behavior is consistent with grazing or foraging. No predatory indicators in movement pattern. No response to your presence at this range. I'd recommend not testing the boundary conditions.
+
+Ethan watched the nearest creature work its way across the root mat. It moved one limb at a time. The weight transferred with a deliberate precision. It was the way someone moved when they knew exactly where everything was. They didn't have a reason to rush. He kept walking.
+
+The deeper he went, the more difficult the passage became. Root mats thickened and stacked higher as he moved. They were ankle height near the platform, then knee height further in. In two places, he had to step over them. Ceiling filaments dropped lower in clusters. The clearance between the tallest root mass and the lowest hanging curtain was tight. He ducked without thinking. The passage was navigable on foot, but the platform presented several distinct problems.
+
+There were three specific issues. The first problem was width. The platform was wider than the navigable centerline of the floor. Root mats took up too much space. Driving through meant rolling over established biological infrastructure. It was the same infrastructure the wall had spent days weaving into his generator relays and turret mounts. The relationship had changed since the cure. He didn't know what the wall would make of a loaded platform grinding through its floor system.
+
+Height was the second complication. The Fabricator's intake housing would clip the ceiling filaments in at least three sections he'd already passed. The filaments pulsed with the same rhythm as everything else in the tunnel. Shearing them wasn't a mechanical problem: it was a relationship problem.
+
+Traction created the third concern. The root mats were compressible and uneven. They were layered over a grade steep enough to require active braking. The platform's braking system was calibrated for Living Wall tissue. Root mat would compress and recover in ways he couldn't predict under load. On this incline, the unpredictable became dangerous.
+
+He stood in the warm, pulsing air and let the problems sit. His HUD logged biological signatures from Harold's forward sweep. There were enough of them to populate a foraging ground. None of the creatures acknowledged his presence. The nearest had worked its way to within arm's reach while he'd been thinking. It followed a root strand with the focused patience of something that had been doing exactly this for its entire existence. Ethan crouched and watched it. It moved like the Living Wall itself. It was an extension of the system running on separate hardware.
+
+He reached out slowly and rested two fingers on the root mat beside its path. The gold veins brightened beneath his touch. The creature paused and lifted its head. Ethan realized it didn't have eyes. The blunt face had no optical organs. Whatever it used to navigate wasn't light. It held for two seconds, processing something he couldn't see, then lowered its head and continued as if he'd never been there. He walked back to the platform. Maria watched him come. The question was in her posture before he reached her.
+
+"The habitat runs the full visible length," Ethan said. "It's probably longer. I can't see past the curve at fifty meters."
+
+"The walls won't clear it," Maria said. It was a statement of fact.
+
+"I'm assuming that is the case. Is it?"
+
+She pressed her palm to the tunnel floor beside the platform's front axle. The gold veins surged beneath her hand, spreading in a wave that raced ahead into the habitat and returned. She held contact for six seconds before pulling her hand back. "This habitat has been here longer than the passage we traveled through. It's been here decades at minimum. This section predates us. Everything in there belongs to it." She looked at him. "The wall knows we've stopped. It knows why."
+
+"Does it know what it did to my axle?"
+
+She paused. "It knows. It isn't apologetic about it."
+
+CelestOS: Update: density is up 7% since you started looking at it. I'm filing that under: observed, unaddressed, and consistent.
+
+Ethan looked up from the axle. "It's still growing."
+
+CelestOS: At approximately 0.3% per minute. Current trajectory puts full axle-pin encasement in another nineteen minutes.
+
+"Full encasement," Ethan said.
+
+CelestOS: The root intends to be thorough. I respect the commitment.
+
+Ethan pressed two fingers against the root and felt the warmth push back. "It isn't damaging anything."
+
+CelestOS: Correct. Bond strength is 340 newtons per centimeter squared and the axle components show zero stress deformation. It isn't breaking in. It's settling in.
+
+"There's a difference."
+
+CelestOS: A significant difference. One is an attack. The other is a lease agreement.
+
+Ethan stood. "That isn't an accident."
+
+CelestOS: No. It isn't.
+
+"It did the same thing to the generator relay. The turret mounts."
+
+CelestOS: And improved efficiency by 3.2% both times. For what it's worth, the wall has a better installation record than your last three conveyor junctions.
+
+Ethan didn't answer. He looked at the root sitting in his roller housing, warm and patient, and felt the shape of something he didn't have a name for yet. The root sat in his roller housing exactly where it had stopped him. It was warm and pulsing, seemingly comfortable in the space it occupied. He'd seen it integrate the turret mounts. He'd watched it thread through his generator relay housing and improve his power efficiency. He'd pulled twelve bolts out of Living Wall-fused anchor points while Maria's touch made the tissue retreat, and watched the same tissue grow back over the metal the moment they'd passed. Every time he'd put something down and left it in contact with the wall, the wall eventually decided it belonged there. He looked at the root and felt the shape of a question. The wall hadn't blocked the platform; it had reached for it.

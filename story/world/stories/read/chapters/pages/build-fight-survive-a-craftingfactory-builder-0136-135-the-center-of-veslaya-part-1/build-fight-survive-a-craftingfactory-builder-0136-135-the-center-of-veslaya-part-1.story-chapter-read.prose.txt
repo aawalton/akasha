@@ -1,0 +1,83 @@
+The passage behind them was wrong. Forty meters of Living Wall tissue that had been warm and cooperative three hours ago now read cold and flat against Maria's floor contact, the gold veins retreated into the deeper substrate, the root mat surface compacted where plasma shots had blackened it. The char marks from the fight ran along both walls at the points where the drone's missed shots had connected, dark rings spreading outward from each impact zone into the tissue surrounding them. Some of the rings had stopped spreading. Some hadn't. The air in that section smelled different too, the deep earthy warmth of the inhabited passage replaced by something drier and mineral, the smell of Living Wall tissue in retreat, pulling its biology back from a contamination source the way a hand pulls back from a hot surface.
+
+Maria kept her hands on the floor until the platform cleared the damaged section, reading the extent of it the way she read everything, without announcing what she was finding until she had the full picture. The char marks passed alongside the platform in silence.
+
+"Forty-three meters of tissue damage," she said. "The network is intact beneath it. The surface layer took the contamination and the deeper infrastructure sealed off from it. The wall is already threading new tissue into the margins." She paused. "It'll heal. It's going to take days."
+
+"Days we'll be 200 meters below it," Ethan said.
+
+"Yes."
+
+He left it there and turned back to the damage inventory. The factory was running but running wounded, and wounded factories had a way of failing at the worst possible moment if you didn't address the damage while you still had time.
+
+The conveyor housing scoring was cosmetic, deep grooves along the port side casing where the first plasma shot had come close, structural integrity unaffected. He ran a hand along the length of it and felt no flex in the frame. Surface damage. He moved on.
+
+The Auto-Miner mounting brackets were the real problem. The ceiling-angle run during the fight had torqued both brackets beyond their rated load tolerance, the iron frames stressed at the pivot points where the swivel mounts connected to the platform's crossbeam. He crouched beside the port bracket and checked the weld line. A hairline fracture ran along the joint. If he hit another steep grade, or pushe the miner hard at the wrong angle, and it would give.
+
+He pressed both gauntlets against the bracket. The Ex Nihilo field activated at low draw, the nanites threading into the iron at the fracture point and rebuilding the molecular structure from the inside out. A reinforcement, filling the fracture with new material that matched the original grain. The bracket warmed under his palms and cooled again in ninety seconds. He tested the pivot.
+
+CelestOS: Bracket integrity: restored to 104% of original specification. For the record, the Ex Nihilo field just repaired structural metal faster and more precisely than any welding process in the Celestitech catalogue. I'm filing a retroactive complaint on behalf of Celestitech's engineering division.
+
+"File it under 'reasons you kept me around,'" Ethan laughed, but there was a hitch in it, and he moved to the starboard bracket.
+
+Mule One was a longer problem. The port gripper had taken a hit during the first exchange and the housing had cracked along the magnetic clamp assembly, leaving the gripper functional but unreliable, holding loads under eight kilos without issue and releasing them randomly above twelve. Enough to make the drone useless for turret placement, which required a steady fourteen-kilo hold through a 200-meter flight to the gauntlet emplacements and back. He pulled the gripper housing and assessed the crack. The magnetic clamp assembly itself was undamaged. The housing was the problem.
+
+He fabricated a replacement housing in four minutes, fed the component through the Fabricator's output tray, and seated it against the clamp assembly with the pressure fit he'd used on the original build. The housing clicked home. He tested the grip against a copper mesh spool from the storage bin, fourteen kilos held, no release on a thirty-second load test.
+
+Mule One was back at 100%.
+
+[PLATFORM STATUS — POST-ENGAGEMENT ASSESSMENT][Conveyor housing: Superficial scoring — no structural impact][Auto-Miner brackets: Reinforced — 104% rated spec][Mule 1: Gripper housing replaced — fully operational][Mule 2: Fully operational][Fabricator: Undamaged — running at standard cycle][Overall production baseline: 91% of pre-engagement output][Tunnel Sealed Behind: 5.8 km | Gauntlet Emplacements: 29]
+
+Ninety-one percent. He'd been at 89% efficiency through the habitat transit and called it good. He was running better post-repair than he'd been running pre-fight.He smiled.
+
+The first time he reached for Harold's telemetry feed, the reflex was so automatic he was already scanning before he registered the absence. His HUD had a slot in the upper left corner where Harold's forward sweep populated in real time: atmospheric composition, terrain geometry, biological signatures, threat classification. The slot was empty. His smile faltered immediately.
+
+He'd set the display parameters himself when Harold had come back online after the rebuild in the cave, configuring the feed position because he'd wanted it at the edge of his vision where he could check it without looking away from his hands.
+
+He reached for it twice more in the next twenty minutes. The third time he caught himself doing it, he pulled up the HUD configuration and moved the empty slot to the lower right corner where he was less likely to check it by reflex. The slot stayed empty. Moving it helped less than he'd hoped.
+
+CelestOS was running forward sweeps. She flagged the range limitation in a status note she buried in the secondary channel rather than announcing it: her sensor array covered 200 meters at standard resolution and 140 at threat-classification grade. Harold had covered 400 at both. The gap was 260 meters of tunnel that Ethan was rolling into without eyes.
+
+CelestOS: I've been running Harold's scouting protocols in parallel with standard operations since the engagement. Processing load has increased by 23%. I'm managing it. I wanted you to know the number in case it becomes relevant.
+
+Ethan read the line twice and left it unanswered.
+
+Maria had her hands on the floor and her eyes half-closed. She'd been in the reading position since they'd cleared the damaged section, running a continuous contact session that was longer than her usual intervals. Her color was off. He'd known her long enough to know what off looked like on Maria, the particular quality of stillness that seemed calm, but radiated danger. The way she held her jaw and breathed through her nose when something was costing her more than she was going to admit.
+
+His HUD flagged it before he asked.
+
+[MEDICAL MONITOR — MARIA VASQUEZ][Heart rate: 94 BPM | Elevated][Uterine activity: Irregular contractions detected — 3 events, last 40 min][Classification: Braxton Hicks | Non-labor][Fetal status: Frederick — Heartbeat 138 BPM | Resonance 290 Hz | Stable][Recommendation: Rest. Reduced physical activity. Hydration.]
+
+He looked at her. She felt him looking.
+
+"I'm fine," she said, eyes still closed.
+
+"I know," he said.
+
+He filled a water container from the purifier and set it within reach of her right hand without saying anything else. She picked it up without opening her eyes and drank half of it. He went back to the output tray. The contractions were Braxton Hicks, nothing more. The body filing a formal complaint after six hours a day of reading a planetary network at seven months pregnant on nutrient bars that CelestOS had diplomatically classified as within minimum viability standards. He noted it the same way he noted the bracket fracture: real problem, manageable, address it before it becomes unmanageable.
+
+She needed rest. She needed a different positon than hunched over. But he couldn't make her stop. He'd tried that conversation twice in the upper tunnels and learned quickly that she wouldn’t stop.
+
+The gauntlet counter read 29. At current spacing and production rate, they'd have 40 emplacements by the time they reached the next node chamber and 60 before the final descent. Patel's bore team was through the fourth emplacement now, CelestOS reported, four turrets cleared, two casualties at the third emplacement where the tunnel geometry had worked against his breach team's formation, one at the fourth. He was through but he was slow and he was paying for every meter.
+
+And his scouts had gone quiet. The drone had been Patel's eyes below the gauntlet. Without it he was advancing blind, his bore team clearing emplacements by feel and paying the casualty cost of anticipating the wrong geometry on the other side of each seal. That should have felt like an advantage. Ethan ran it through the same logic he'd use for a production bottleneck and found the problem: a Patel who couldn't see was a Patel making a different plan. The scouts going quiet meant he'd stopped trying to find them through the tunnel. He was looking for another angle. He'd always been looking for another angle. The fissure the drone had used to bypass the gauntlet entirely told Ethan everything he needed to know about how Patel operated when the obvious route was defended: he went around it, and he'd been planning the route around before he committed the first bore team to the gauntlet at all.
+
+CelestOS: Agreed. I've been running the three most likely alternative approaches since the scout drone was neutralised. Option one: Patel widens his bore pattern to find natural fissures that bypass the gauntlet sections. Option two: he pulls his advance team back, brings in heavier equipment, and attempts to clear the gauntlet faster than we can extend it. Option three: he already knows where we're going and is finding another way to the same destination. I find option three most consistent with his operational pattern. I have no data to confirm it. I wanted you to have the framework.
+
+"Which one keeps you up at night?" Ethan said.
+
+CelestOS: I don't sleep. But if I did, it would be option three.
+
+Maria opened her eyes. She pressed both palms harder against the floor and held contact for thirty seconds, reading something in the network that she wasn't ready to put into words yet. The gold veins brightened in a slow ring around her contact points, the wall responding to the extended session with the warmth it always showed when she stayed in contact long enough for Frederick's frequency to settle into the ground.
+
+Then the floor moved. The movement was biological and precise, the Living Wall tissue beneath the platform's front axles spreading laterally in a controlled separation that widened the passage ahead by half a meter on each side. The ceiling lifted. The root mat along the centerline parted with the same deliberate quality it had shown in the habitat section, clearing a lane wider than anything the wall had opened for them since the descent began. The gold veins ran ahead of the opening in a wave, the network moving faster than the physical tissue, lighting the path before the path existed. Ethan had his hand on the throttle and didn't touch it. The platform tracked the centerline on its own, the treated axles reading the living floor the way they'd been reading it since the surface treatment in the upper habitat. Whatever the wall was opening, it wanted them in the center of it.
+
+Maria's hands came off the floor. She looked at Ethan. Her mouth was open and her eyes were wide, the expression she wore when the wall showed her something that exceeded her model of what it was capable of. He'd seen it twice before: once when the gold veins first brightened under her palms after the cure, and once when the passage had sealed behind them in the chamber and she'd understood the wall was protecting the route.
+
+This was bigger than both of those. The passage ahead was something else entirely. The wall was opening a space that extended beyond his headlamp's reach, the gold veins running continuous lines outward from their position in every direction, a cathedral geometry that dwarfed the node chamber above them. Root formations he hadn't seen in any of the upper sections framed the entrance, structures deliberate and ancient, growing in specific configurations for longer than the passage above them had existed. Arches of Living Wall tissue, dense with gold veining, rose from the floor to points he couldn't see. The bioluminescence was different here too, warmer, deeper, amber shading into something that had no name in the wavelengths his suit was calibrated to read. The air pressure changed, a subtle drop that registered as the tunnel's acoustic profile expanding into something that had no ceiling his sensors could find. The warmth intensified. The signal that had been building since the relay node hit a register that was no longer a gradient.
+
+It was a location. Ethan looked at Maria. Maria looked at the passage. Frederick kicked once, hard, and every gold vein in the visible network flared simultaneously.
+
+Neither of them spoke.
+
+CelestOS: Updated geological analysis. The chamber predates the Living Wall network by an estimated 40,000 years. The wall didn't build it. The wall grew around it.

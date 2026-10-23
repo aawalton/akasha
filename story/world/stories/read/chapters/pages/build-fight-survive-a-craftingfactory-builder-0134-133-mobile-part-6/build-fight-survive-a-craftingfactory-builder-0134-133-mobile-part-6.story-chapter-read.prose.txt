@@ -1,0 +1,95 @@
+Harold saw it first. His optics snapped from blue to red before the alert reached Ethan's HUD, a full-threat classification that the drone had never used in the upper tunnels. Ethan had the throttle cut before CelestOS spoke.
+
+CelestOS: Hostile contact. Bearing 047°, range 31 meters. Lateral fissure in the eastern wall, approximately two meters above floor level. Signal classification: resin-powered reconnaissance drone. Manufacturer: unknown.
+
+Suddenly, things made a lot more sense. In fact, Ethan thought he knew the manufacturer now: Patel. Though it still didn’t make sense to him. Like there was a piece of the puzzle he couldn’t see.
+
+He’d ridden a similar drone off a cliff in his first week on Veslaya.
+
+The memory hit before he could stop it. The cliff face had been vertical and the drone had been faster than anything he'd built or fought, hovering just beyond the crumbling edge with the patient stillness of a machine that had never been given a reason to hurry. Sleek, sharp-limbed, compact like a floating onyx pyramid with attachments.
+
+Beneath its pyramid shape, attached by a visible 360-degree joint, a mechanical stinger ending in a slender barrel wrapped in pulsing coils that looked more like exposed nerves than engineered components. The entire assembly looked like an overgrown black organ rather than just machinery. He'd held his breath and hoped the angle was wrong.
+
+It hadn't been. The first shot had exploded rock half a meter above his head and he'd scrambled upward on instinct, boots kicking against the cliff face, lungs burning. The second shot carved a smoking groove where he'd been a second earlier. He'd had a pickaxe, a torn glove, and zero percent chance of winning a firefight against a plasma cannon. So he'd jumped at it instead, left arm slamming into cold alien alloy, shoulder striking the corner of its pyramid chassis, and the drone had gone into a spiral with him clinging to its weapon arm and swinging the pick at the cannon joint over and over while the river roared below them and his mining skill ticked upward one painful level at a time. The pick clanging against the joint. The drone bucking and twisting, trying to slam him off like a mechanical bull on jet fuel.
+
+Sparks from the joint. Hydraulic fluid spraying in a superheated mist that smelled like melted wiring and burnt sugar. The chassis shuddering under him, the joint finally fracturing in a web of hairline cracks, the cannon spinning away toward the riverbank while the drone's stabilisers went wild.
+
+He'd won that fight because he'd had nothing to lose and nowhere to fall that mattered. He'd been alone on a cliff above a river with a pickaxe and the specific kind of desperation that made bad ideas look like the only ideas. But now he had everything to lose.
+
+This tunnel was three meters wide. He had a factory on a rolling platform, a pregnant fiancé behind the Fabricator, and a scout drone running on one thruster listing eleven degrees to port. The resin power source was still the vulnerability. He just needed a way to reach it that didn't involve jumping on the thing and hoping for the best.
+
+The drone emerged from the eastern wall in complete silence. The fissure was a natural crack in the Living Wall tissue, a seam where two sections of older growth had never fully knitted together, and the drone threaded it with the precise economy of something that had mapped the passage before entering it. The red eye swept the tunnel once, left to right, the same deliberate scan pattern he'd watched from the cliff face. It found the platform. It found the conveyor housings, the Fabricator, the smelter units, the sled. It found Ethan at the throttle relay. It found Maria sitting at the platform's rear with both palms flat on the floor.
+
+It held on Maria for 1.3 seconds longer than anything else. The symbols etched into its beveled ridges caught the gold light of the Living Wall and threw it back wrong, the angular marks absorbing the bioluminescence rather than reflecting it. The wall tissue nearest the fissure had already begun contracting, pulling back from the drone's resin signature in the same slow retreat Ethan had seen when red resin touched Living Wall infrastructure. The cooperative relationship that had been building since the surface treatment was being undone in real time, the network recognising the drone's fuel source as contamination and responding the only way it knew how.
+
+CelestOS: The drone is running a target prioritisation scan. I'd recommend not standing still.
+
+"Maria. Get behind the Fabricator."
+
+She was already moving, pulling her hands from the floor and pressing herself against the Fabricator's rear housing, using the machine's bulk between herself and the drone. Frederick shifted beneath her palm. The gold veins in the tunnel walls dimmed, the Living Wall registering the drone's resin signature the way a body registers the wrong kind of bacteria, aware and contracted, waiting.
+
+The drone fired. The plasma shot carved a smoking groove along the top of the conveyor housing, three centimeters above where Maria's head had been. The Living Wall tissue on the tunnel ceiling blackened at the contact point, a char mark spreading outward in a ring that pulsed once and went still. The smell hit immediately: burnt iron and something older underneath it, organic and wrong.
+
+"Harold. Countermeasures."
+
+Harold was already moving. The drone's optics tracked him instantly, the weapon joint rotating on its 360-degree axis to follow the smaller drone as Harold swept low across the tunnel floor in a tight arc. Harold was a sensor platform with thruster housings and a camera cluster, and everything about his flight profile confirmed it. He flew to distract, and the distraction was working.
+
+Ethan used the three seconds. He dropped off the platform's rear, hit the tunnel floor, and pressed both gauntleted palms against the wall. The Ex Nihilo field activated immediately, green light bleeding through the plating. He didn't have a schematic. He had a target: a dense iron plate, two centimeters thick, sixty centimeters across, shaped to the tunnel's curve. The nanites pulled from the wall's stone substrate and began building outward.
+
+CelestOS: Fabrication time at current draw: fourteen seconds. The drone will resolve its targeting conflict with Harold in approximately eight. I'd work faster.
+
+"Fuck cel I’m trying!"
+
+The drone made its decision. Harold dodged left and the cannon tracked right, leading the smaller drone's flight path with the patient geometry of a system that had calculated the intercept point before Harold had started moving. The shot clipped Harold's rear thruster housing and sent him spinning into the tunnel wall. He hit with a crack of bent metal and dropped two meters before his remaining thrusters caught and stabilised him at floor level, listing badly, one optic cycling through colour registers that couldn't settle.
+
+The plate finished forming under Ethan's palms. He ripped it free from the wall, stone dust falling from its edges, and swung it up between himself and the drone in one motion. The plasma shot hit the iron face dead center. The impact drove him back two steps and left the plate glowing orange at the contact point, heat conducting through the metal into his gauntlets fast enough that his suit registered the thermal spike and redistributed the load across the Syntropic integration. He held it.
+
+The drone was already repositioning. It moved up the tunnel wall to the ceiling, using the three-meter space to find an angle the plate didn't cover. Ethan tracked it, shifting the shield, and the geometric problem settled into focus the way engineering problems did: the tunnel was the constraint and the drone understood the tunnel as well as he did. It had mapped the passage before entering. It knew the platform's dimensions, the ceiling height, the width at every point between here and the sealed section behind them. Every position Ethan took, it had already modeled.
+
+He needed to change what the tunnel was. The platform was a liability in a three-meter corridor. Twelve hundred kilos of iron and machinery occupying most of the available space, which meant the drone had clear firing lanes above it and to either side, and Ethan had none. He couldn't maneuver. He couldn't flank. Every countermove he made left the platform and Maria exposed in the direction he'd vacated. The drone didn't need to be faster than him. It needed to be patient, and patience was something a machine running on resin fuel in an enclosed tunnel could manage indefinitely.
+
+He ran the numbers the way he ran fabrication numbers: constraint first, then solution. The drone was small and fast, calibrated for precision in tight spaces. Its resin power source meant it didn't have a battery ceiling the way Celestitech hardware did. The 360-degree weapon joint gave it firing solutions from any orientation. Its one weakness was the power source itself. Overload the resin fuel system and the drone didn't just stop. It came apart. He'd seen the joint fracture on the cliff face, the hydraulic fluid spraying in a superheated mist, the chassis going unstable the moment the power feed destabilised.
+
+The solution was still forming. But he'd solved enough problems from worse positions to keep working. The first drone had taken him seventeen minutes and a mining skill cap to bring down. He had a factory, an AI, and a woman who was wired into the planet's nervous system. The gap between what he had now and what he'd had on that cliff face was significant. He just needed to survive long enough to use it.
+
+"CelestOS. The fissure it came through. Can the wall seal it?"
+
+CelestOS: The Living Wall tissue around the fissure contracted when the drone entered. It hasn't sealed because the drone's resin signature is producing an immune response, but the response is suppressive rather than active. The wall is retreating from the contact point. If you want the fissure sealed, you'll need to give the wall a reason to advance rather than retreat.
+
+"Maria."
+
+She had her back against the Fabricator housing, both hands pressed flat against its iron casing rather than the floor. She was reading the wall through the machine's contact points, the Syntropic-treated surface conducting her signal into the network the same way the axle housings did.
+
+"The fissure. Can you push a signal through?"
+
+"I can try. The resin signature is interference. Frederick's frequency might cut through it." She closed her eyes. Her jaw tightened. "Give me thirty seconds."
+
+Thirty seconds was more than the drone would give him. He had whatever time it took to find an angle above the shield.
+
+He ran the Auto-Miners. Both of them, full rate, impact heads swiveling on their brackets to strike the ceiling rather than the walls, the angle wrong for ore extraction but right for noise and vibration. The piston strikes hammered the tunnel ceiling in rapid alternation, sending fragments raining down and filling the passage with seismic percussion. He was making the tunnel hostile.
+
+The drone dropped from the ceiling. The vibration disrupted its stabilisers, the resin-powered thruster system fighting the rhythmic shockwave from the piston strikes the same way a gyroscope fought sudden input. It stayed airborne but lost precision, its movements shedding the surgical quality that had made the first two shots so accurate.
+
+The drone's flight pattern degraded and Ethan filed what he was learning. The resin thruster system needed stability to fire accurately. Sustained vibration at the right frequency forced it to spend processing time on stabilisation rather than targeting. The Auto-Miners couldn't run at ceiling angle indefinitely without damaging their mounting brackets, but he only needed thirty seconds of degraded accuracy.
+
+It fired twice. Both shots went wide, the plasma cutting smoking lines into the tunnel floor ten centimeters left of the platform's front axle. The Living Wall tissue at the contact points blackened and contracted, the network pulling back from the resin contamination with a speed that left the stone beneath exposed and grey.
+
+[PLATFORM STATUS][Platform 1: Operational | Minor scoring — conveyor housing, port side][Auto-Miners: Running | Ceiling extraction — non-standard angle][Fabricator: Standby | Harold: Damaged — thruster 2 offline, optic array unstable][Mule 1: Operational | Mule 2: Operational][Tunnel Integrity: Compromised — 3 resin contact points, Living Wall retreat confirmed]
+
+Harold had pulled himself back to hover height, listing eleven degrees to port, his functional optic fixed on the drone. He was running tracking data to CelestOS in real time, feeding targeting information from a position the drone had dismissed as a threat. The drone's attention pattern was clear: the weapon joint kept rotating back to Maria's bearing every three to four seconds between repositioning moves. The target selection wasn't random.
+
+Patel had programmed it to prioritise the biosignal interface.
+
+CelestOS: Maria's Living Wall connection is producing a signal profile that the drone is classifying as a high-value asset. The resin network and the Syntropic network are the same system in different states. The drone's targeting architecture recognises her interface as a node worth eliminating. I want to be clear that I find this assessment both logical and deeply inconvenient.
+
+Maria opened her eyes. "The fissure. The wall heard Frederick. It's moving." She pressed harder against the Fabricator casing. "Ten more seconds."
+
+The drone stopped repositioning. It had found its angle. Six meters up the tunnel wall, tilted forty degrees on its axis to clear the platform's bulk, the weapon joint extended and locked on a firing solution that Ethan's shield wouldn't reach from his current position. The red eye brightened. The coils along the cannon's length pulsed faster, resin fuel cycling up for a sustained shot rather than a burst.
+
+It was aiming at Maria. Ethan dropped the shield and ran.
+
+Three meters of platform between him and her, the sled in the way, the Fabricator housing blocking the direct line. He went over the sled, one boot on the frame, weight forward, the other boot coming down on the Fabricator's intake housing. The drone tracked his movement and held its firing solution. It was committed.
+
+He got one hand on the Fabricator's top housing and launched himself toward Maria.
+
+The cannon fired.

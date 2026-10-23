@@ -1,0 +1,147 @@
+Walk me through what the root is actually doing in there," Ethan said. "Not that it's growing. What the growth pattern means."
+
+CelestOS: I've been analyzing the threading geometry since the axle stopped. The root's path through the bushing channel isn't filling space randomly. It's following the channel's interior contour at consistent offset intervals, building a surface layer rather than a solid mass. When complete, the roller housing will have an inner contact surface approximately four millimeters thick, uniform, biological in composition, and structured to distribute radial load across its ful circumference rather than concentrating it at the bushing's original contact edges.
+
+"That's the same geometry the creature uses on the mat."
+
+CelestOS: Functionally identical. Different scale, same principle. The wall is rewriting your roller housing so it contacts the floor the way the creature's feet do. Compatible geometry. Distributed load. No compression damage to the mat surface.
+
+Maria had both hands on the floor again, surface contact only. She was listening to the conversation and reading the wall's response to it at the same time. Ethan had stopped finding this unsettling weeks ago.
+
+"It isn't blocking the axle," he said.
+
+CelestOS: No. It's remanufacturing it. The wall identified a contact geometry problem and started correcting it without being asked. It just needs the axle to hold still long enough to finish.
+
+"How long at current rate?"
+
+CelestOS: Nineteen minutes for the front axle. Assuming nothing moves.
+
+"And the other housings? Naturally, without intervention?"
+
+CelestOS: Six to eight hours minimum. The wall needs sustained static contact and resonance recognition before it initiates integration on a new surface. The front axle had both. The rear axle and the mule contact points don't have enough contact history yet.
+
+"So it can do this to every contact point on the platform. It just can't do it fast enough."
+
+CelestOS: That's an accurate summary, yes.
+
+Ethan looked at his hands. The gauntlets sat warm against his palms, the faint green pulse of the Syntropic integration running just below the surface of the plating the way it always did now, a constant low current that he'd stopped noticing the same way he'd stopped noticing his own heartbeat.
+
+Since the transformation the suit had become something he ran through, the way signals ran through wire. The Ex Nihilo field came from the gauntlets, CelestOS sequenced the execution, and Ethan provided the intent that gave the nanites a target state to build toward.
+
+He'd used that system to pull iron plates from raw stone, to rebuild Harold from components, to run the medical procedure that had saved Maria and Frederick. The nanites built outward from raw material to finished object, every time, constructing. He'd never tried to run them inward.
+
+"CelestOS. The root's threading pattern in the bushing channel. Can you map it as a target state?"
+
+A pause hung in the HUD before the response came.
+
+CelestOS: I can map the completed integration geometry from the growth pattern currently in progress. It's essentially a blueprint for a finished surface layer, the wall's intended end state for that housing.
+
+"If I give you that blueprint as the target and put the gauntlets on a clean housing, can the nanites replicate it? Rewriting the surface chemistry of the metal itself to present the same biological contact signature."
+
+The pause stretched longer this time.
+
+CelestOS: Standard fabrication protocol runs outward from source material. What you're describing runs inward: using an external biological pattern as the target state and applying it to an existing metal surface at the molecular level. It isn't a protocol I have on file.
+
+"Can you run it anyway?"
+
+CelestOS: I can run anything you're willing to be the power source for.
+
+He crouched at the front axle and worked the root free carefully, both hands, displacing it enough to clear the roller housing surface without breaking it. It was too warm and too deliberate a thing to break. The root yielded under his fingers with the slight resistance of something that had opinions about being moved, then released, and he set it on the tunnel floor beside the axle where it kept pulsing, the gold veins running the triple-heartbeat rhythm against the stone.
+
+The housing was clean metal underneath. Four centimeters of bushing channel, interior surface smooth from the original machining, no biological material remaining. Faint discoloration marked the channel entry point where the root's threading had begun to leave traces, a barely-visible texture change where the first threads had made sustained contact. The wall had already started.
+
+He placed both gauntleted palms flat against the housing.
+
+The Ex Nihilo field activated. Green light bled through the plating and into his palms the way it always did, the familiar charge building in the bones of his hands, the suit drawing on the Syntropic reservoir that had replaced his power cells since the transformation.
+
+Normally at this point he'd be holding raw stone, feeding mass into the field, letting CelestOS sequence the molecular rearrangement into something useful. Iron plate. Copper mesh. A gear mechanism. A spool of wire. Outward, always outward, always construction. This time he held the housing and waited.
+
+CelestOS: Target state mapped. Initiating surface rewrite protocol. This is going on my list of things I've done that weren't in the original job description.
+
+The nanite grid extended from his gauntlets into the roller housing. A deep vibration settled into his palms, below the threshold of sound, the kind of sensation that registered in the chest rather than the ears. The wireframe appeared on his HUD, the housing as the wall had been making it, the completed integration geometry rendered in pale green lines that mapped the surface layer the root would have built given another nineteen minutes and no interference.
+
+The Living Wall tissue nearest his contact points brightened. Gold veins tracked toward his hands from both sides of the tunnel, converging on the axle housing with the same orientation they'd shown when Maria made direct contact with the floor.
+
+The root he'd displaced on the tunnel floor lifted fractionally, straining toward the housing, orienting the way a compass needle oriented, pulled by something it recognized.
+
+The suit drew power. A steady flow, the Syntropic reservoir feeding the nanite activity in a current that didn't spike or fluctuate. CelestOS ran the sequencing, mapping the wall's integration pattern onto the metal surface at a scale the root would have taken minutes to complete. The housing warmed under his palms, conducting the nanite activity as a faint vibration that climbed the axle shaft and settled into the crossbeam above it.
+
+Ninety seconds passed before the vibration faded. The housing cooled to match the tunnel floor around it, the Living Wall tissue, the living floor the creatures walked across without leaving marks. Ethan kept his hands in place until CelestOS confirmed.
+
+[AXLE HOUSING: FRONT — SURFACE TREATMENT COMPLETE]
+
+[Biological contact signature: Syntropic-compatible]
+
+[Integration geometry: Matched to local Living Wall substrate]
+
+[Load distribution profile: Radial, 360°, 4.1mm depth]
+
+[Status: Ready]
+
+He stood and looked at Maria. She was watching the wall.
+
+"Do it," she said.
+
+He engaged the drive motor. The platform moved forward, the rear axle pushing while the front axle rolled on its treated housing. The moment the front rollers contacted the floor, the difference came through the platform's frame: a clean track, the load spreading across the strands the way it spread under the creature's feet, the gold veins pulsing through the root strands in the same steady rhythm as before.
+
+The platform rolled over living infrastructure that had been here for decades and left it exactly as it found it.
+
+Three meters in, he cut the drive. All three of them looked at the floor under the front axle. The veins pulsed. The mat held its structure. Nothing was compressed or displaced.
+
+CelestOS: Contact surface efficiency on the treated housing: 108% of standard Living Wall tissue traction. The rewritten surface performs better on living floor than it did on the clean passage behind us. I want to be clear that I find this outcome satisfying in a way that I'm not going to explain further.
+
+Maria was still watching the wall. Along the full visible length of the habitat ahead, the gold veins had brightened in response to what had just happened at the front axle. A slow, deep brightening that traveled the floor to ceiling and held.
+
+"It knows," she said.
+
+CelestOS: It has registered a compatible interface signature and updated its substrate response parameters. I'd prefer that framing. It's more precise.
+
+"It knows," Maria said again.
+
+CelestOS: Yes. It knows.
+
+Ethan stepped back from the front axle and looked at the full platform. Rear axle housing. Two mule drone contact points when they hovered at floor level. The Fabricator's four mounting feet, each one a flat iron pad resting directly on the tunnel floor. The sled's underframe, its cross-members eight centimeters above the surface, close enough that the wall could reach them once the surrounding contact points were treated and the resonance signature propagated outward. Eight surfaces in total, eight points where the platform met the wall's infrastructure and where the wall would reach back if it recognized what it was touching.
+
+He'd done one in ninety seconds. The others were clean metal with no integration history, but the front axle's treatment had changed the platform's resonance signature. CelestOS confirmed: the biological contact chemistry was propagating through the iron frame at a measurable rate. The platform was beginning to present as Syntropic-compatible to the wall's sensor network.
+
+"The wall's already adjusting," Maria said. She was on the floor again, both palms flat, reading the habitat ahead. "The floor directly in front of the platform is redistributing. The individual strands are spreading apart along the centerline." She paused. "It's making room."
+
+"How much room?"
+
+"Enough. More as we get further in, I think. The deeper sections have denser wall contact, stronger signal. The wall's response will be faster once we're moving through it."
+
+CelestOS: I'd like to formally register that the passage ahead is being reshaped in real time by an organism that has apparently decided to cooperate with our transit based on a ninety-second surface chemistry treatment and an unborn child's resonance frequency. I'm not complaining. I'm documenting.
+
+"Document while I work," Ethan said.
+
+He moved to the rear axle and placed both hands on the housing. The green light came immediately, the suit already warm from the first treatment, the nanite reservoir primed and ready. CelestOS had the protocol mapped. The wireframe appeared before he'd finished positioning his palms, the target state rendering in the same pale green geometry as before. The wall tissue nearest the rear axle brightened in anticipation, or whatever the wall's equivalent of anticipation was. Maria would've called it the same thing. CelestOS would've called it a categorically imprecise analogy. Ethan held the contact and let the nanites work.
+
+Maria sat on the platform's edge with her hands on the tunnel floor and her eyes half-closed, reading the wall's response to each treatment as he completed it, calling out what the habitat ahead was doing. The strands spreading. The ceiling filaments lifting fractionally at the sections where the clearance was tightest. The gold veins brightening in concentric pulses ahead of their position. The eyeless creatures shifting their foraging routes toward the tunnel walls, clearing the centerline without apparent alarm, as if they'd been notified by a system they'd always trusted.
+
+Fabricator feet. Ninety seconds each. The mule drones required a different approach: he treated the underside of their thruster housings rather than their contact points, since they hovered rather than rolled, and the wall's response confirmed it registered the signature the same way. The sled underframe last, the cross-members closest to the floor taking the treatment in a single pass that ran the full length of the frame. Forty minutes from the first treatment to the last.
+
+[PLATFORM INTEGRATION STATUS]
+
+[Treated contact points: 8/8]
+
+[Biological contact signature: Syntropic-compatible — full platform]
+
+[Wall substrate response: Active cooperation confirmed]
+
+[Passage ahead: Centerline clearance increasing — floor redistribution ongoing]
+
+[Status: Ready to advance]
+
+Ethan flexed his hands. The gauntlets were warm, the Syntropic reservoir lower than it had been but far from depleted. The surface treatments drew less power than a full reconstruction, and the reservoir refilled continuously from the ore integration. He'd pay nothing for this tomorrow that he wasn't already paying today.
+
+Maria stood from the tunnel floor with the careful movement she used when she'd been in contact too long, the effort of returning from somewhere else written in the slow uncurling of her fingers. She brushed her palms against her suit legs and looked at the habitat ahead. The gold veins ran the full visible length of the passage in a slow, steady brightening that hadn't faded since the first axle treatment.
+
+The strands along the centerline had spread to either side in a channel just wide enough for the platform. The ceiling filaments had lifted at the lowest sections. The creatures had cleared the route entirely, foraging now along the tunnel walls well clear of the centerline, their translucent bodies pulsing in the same rhythm as the wall around them. The passage was open, the full length of it cleared and waiting.
+
+"The wall's been waiting a long time for something it recognized," Maria said. "I don't think it gets visitors often."
+
+CelestOS: Based on available biological and geological data, the estimated interval since the last compatible contact event in this passage section is somewhere between sixty and several hundred years. I'll refine the estimate when I have more data. For now I'll simply note that we appear to have made a good impression.
+
+Ethan engaged the drive motor and the platform rolled forward into the habitat, the treated axles tracking the living floor without compression, the gold veins brightening ahead of them in steady pulses that faded to their resting glow behind. The living passage widened as they moved through it, then settled back to its own rhythm after the brief interruption of their passing.
+
+The eyeless creatures went back to their work. The ceiling filaments swayed faintly in the air displaced by the moving platform and settled again. Ahead, the passage curved out of sight.

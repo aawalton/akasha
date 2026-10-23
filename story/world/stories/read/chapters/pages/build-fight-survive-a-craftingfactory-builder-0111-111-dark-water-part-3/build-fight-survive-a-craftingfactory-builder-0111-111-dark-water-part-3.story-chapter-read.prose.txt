@@ -1,0 +1,99 @@
+Movement cut through the stillness, appearing not from within the haze but around it. The water displaced without turbulence at first, a smooth and predatory glide that bent the particulate field inward rather than scattering it. The shape resolved only in fragments as armored segments slid past one another like overlapping shields on a long tapering body that moved with serpentine precision rather than brute mass.
+
+Bioluminescent vents pulsed along its flank in a slow rhythm and predatory calm to cast faint turquoise halos through the gloom. Whatever the fuck this was, it was a different creature altogether. Which lead to a question he didn’t have time to ponder.
+
+The creature circled. Ethan’s breath shortened inside his helmet. He didn't move, letting the tether hold him motionless while he followed the curve of the thing’s path. The creature ignored the noise lure screaming behind him and angled toward Ethan instead.
+
+A pressure surge rolled through the silt as the creature accelerated. Its movement was fast. The displacement hit Ethan like an invisible wall, and he jerked sideways as the beast surged from darkness with its armored bulk filling his vision in a sudden terrifying lunge. The tail struck first, and impact detonated through the water.
+
+Ethan slammed backward, his body snapping into the crystal ribs behind him hard enough to rattle his teeth. The world rang soundlessly as shock reverberated through the suit frame. Something cracked along his left side, and a metallic shriek transmitted through the armor.
+
+[Suit Integrity: 71%][Structural Stress Warning]
+
+The ribs bit into his backplate as momentum crushed him into stone. Pain bloomed where internal dampeners failed to absorb the hit, and air burst from his lungs in a sharp gasp as the suit pressure equalized. The creature coiled before him with mass layered over mass. The eel-long spine bristled with serrated ridges that swept fluid backward with each motion. Its crocodilian skull emerged from the gloom next, wide jaw hinged open and inner membranes rippling as it tasted the water. The wide jaw revealed crushing plates instead of teeth.
+
+Ethan kicked trying to get movement away from the creature along his tether. The animal surged again to pin him with its armored chest. The water between them compressed into crushing resistance as the creature’s bulk forced him back against the crystal ribs, immobilizing his torso and arms. He strained for the shock spear and found it by muscle memory. With his free hand, he tore it loose from the magnetic mount and drove the copper-coiled tip into the creature’s flank, punching between glowing vent ridges where the plating looked thinnest.
+
+His thumb slammed the trigger, and the capacitor screamed. White-blue arcs erupted along the spear shaft and branched across the creature’s hide as tens of thousands of volts discharged directly into its body. Current spiderwebbed across slick armor and vent membranes, lighting the water into a strobing chaos of brightness. Ethan braced for recoil that never came. The electricity vanished. The arcs were swallowed by the creature’s hide, diffused into its thick and rubberized flesh like current poured onto sponge. The vent lights flared brighter in response, and then
+
+Ethan stared, breath hitching. “You’re kidding me—it tried to absorb that? It took the whole surge?”
+
+CelestOS: Clarification: The organism attempted to integrate the electrical discharge into its neuromuscular network.
+
+Ethan let out a stunned, shaky laugh. “It eats electricity?”
+
+CelestOS: Negative. It tried to eat electricity. Outcome: the surge stunned, but did not pacify.
+
+Ethan swallowed hard. “I’ll take it.”
+
+The creature convulsed from anger. A low resonance thrummed through the water as its muscles tightened. The body that backed him suddenly flexed violently, lifting him off the crystal ribs and driving him sideways. The jaws opened wider as internal pressure plates unfolded with mechanical inevitability. It surged to crush him.
+
+Ethan twisted, tether yanking taut as the beast rolled. The serrated dorsal spine raked backward through the water like a chain of submerged saw blades. He was dimly aware of the line between his harness and the cavern ceiling singing under strain. The creature thrashed harder, and the ridge caught the tether clean. There was a sharp vibrational scream through the line, an audible wrongness that Ethan felt more than heard. The cable snapped and detonated into freedom.
+
+Ethan felt the line go dead and spat a curse. “CelestOS—tell me that wasn’t the tether.”
+
+CelestOS: Confirmation: That was absolutely the tether.
+
+Addendum: Field note—when subjected to excessive tensile force, steel tends to abandon its responsibilities.
+
+Ethan twisted in the water, trying to stabilize. “You could’ve warned me!”
+
+CelestOS: I attempted to. You were preoccupied with a Class-Apex organism attempting to ventilate your torso.
+
+Ethan gritted his teeth. “So what now?”
+
+CelestOS: Silver lining protocol: The tether failed before the creature used you as a chew toy. Statistically, this outcome ranks among your top five survivable scenarios.
+
+The moment tension exceeded the tether’s tolerance threshold, the steel sheath split open like a peeled artery. Inside, the copper core flashed bare, raw and live, still locked directly into the output surge of the jury-rigged generators. The exposed conductor touched water, and the lake answered instantly.
+
+A blinding crown of white erupted outward from the severed cable in a hemispheric shockwave tripling the surge from the spear and turning the darkness into absolute blinding brilliance that overwhelmed his NVG. He was forced to take them off.
+
+The water itself became a glowing medium where every dissolved mineral ion became a conductor and every suspended particle a filament for the sudden electrical bloom. The discharge leapt before Ethan could blink. A branching arc tore from the broken line straight into the creature’s armored spine, guided by proximity and the brutal mathematics of least resistance. 1.21 gigawatts of power slammed into organic mass that had never evolved to refuse energy.
+
+The vents along the monster’s flank ignited at once. Turquoise flares erupted into violent overlight as the nervous network beneath its hide overloaded. The entire body spasmed in a singular, full-body seizure. Muscle groups locked into rigid extension as the electric load blew through neural synapses faster than biology could buffer. The water boiled in a flash-phase change. A hemispheric shell of vapor formed around the arc in an instant, expanding outward in a concussive pulse. The sudden displacement hammered into Ethan like a solid wall.
+
+The shockwave struck first, compressing his chest and slamming his limbs into uncontrolled tumble before the suit reacted. Heat hammered through the armor. For half a heartbeat the world was soundless white noise.
+
+Ethan groaned through the static in his ears. “CelestOS… tell me I’m not dead.”
+
+CelestOS: If you were deceased, Ethan, this interface would not be available. Customer satisfaction surveys require a pulse.
+
+He blinked against the afterimage haze. “What—what even was that?”
+
+CelestOS: You triggered an unscheduled High-Energy Dispersal Event. Congratulations. Few field technicians survive the experience without becoming part of the geological record.
+
+Ethan rubbed the side of his helmet, trying to orient himself. “Did it kill the creature?”
+
+CelestOS: Affirmative. Its neural system catastrophically failed approximately 0.04 seconds into the event. Encouraging update: You are not far behind on that metric, but still alive enough to be considered a productive asset.
+
+Ethan wheezed a laugh that hurt. “I’ll… take the win.”
+
+CelestOS: Recommended. They are statistically rare for you today.
+
+Current rushed past him in invisible torrents, but the suit held. The electricity flowed over the exterior shell and into the lake instead of through his body, leaving only the blunt-force concussion and skin-searing heat transfer through the plating. Ethan slammed into the crystal ribs. Air blasted from his lungs again as he rebounded off the stone arch and spun sideways through boiling sediment. The sudden turbulence shredded the silt cloud into spiraling sheets of glowing debris as residual ionization lit every drifting particle in faint afterimages.
+
+He barely registered the impact because his attention was locked on what remained of the creature. The monster convulsed midwater, body arched into a grotesque curve. The bioluminescent vents had blown out into ragged darkness, their light permanently extinguished. Armor plates still shimmered with residual discharge as dying arcs crawled over its surface like fading lightning. The motion stopped in a total cessation.
+
+The massive form slackened all at once. Without muscle tension to keep it buoyant, the carcass immediately began to sink. It drifted downward through the hazy glow of disturbed sediment, spinning slowly as the frying current finally bled to nothing around it. It became dead weight.
+
+Silence reclaimed the cavern. Heat-stunned water hissed faintly with cooling microboils. The flash brightness decayed into darkness so thick it felt heavier than before, as though the lake itself were recoiling back into secrecy. Ethan hung suspended with lungs burning and body heavy in the aftermath of inertia and shock. The cable was gone, leaving only the jagged stump of copper drifting near him and crackling weakly as emergency cutoffs fought to isolate the dead line. He rolled himself upright as the water’s turbulence finally settled. Crystal ribs rose around him once more like cathedral ruins. The glowing geode forest waited beneath the drifting corpse of the apex predator, the ore still pulsing quietly in the dark.
+
+The boiling brilliance of the discharge dwindled into ghostly afterimages across Ethan’s vision before fading entirely. Darkness reclaimed the lake like a curtain being drawn shut, and only the faint bioluminescent glow of distant crystal ribs remained. The creature lay motionless in the silt, dead weight suspended in the water column like a sunken god.
+
+Ethan hung where the tether had left him, floating weightless for half a beat before gravity remembered him again. The suit dropped a few centimeters and stopped as buoyancy corrected sluggishly. His chest ached, lungs burning on delayed reflex, so he forced himself to draw a steady breath from the suit’s independent reserve.
+
+[Oxygen: Supply Engaged][Primary Tether: DISCONNECTED]
+
+The silence grew absolute. The grind of conveyors, the distant thrum of the forge, and the guiding tension pulling him upward were gone. Just water and pressure remained.
+
+He kicked. The reaction was sluggish and uneven, body spiraling more than rising. He could float and pivot, but he couldn't ascend.
+
+“CelestOS,” he said, working to keep his voice steady.
+
+CelestOS: Summary: you currently possess the aquatic maneuverability of a brick.
+
+Ethan stared upward into a vertical shaft of black water that might as well have stretched to infinity. “How far?”
+
+CelestOS: Estimating tether termination depth: nineteen meters below shoreline ingress.
+
+He faced nineteen vertical meters in full mining armor, underwater, with no propulsion.

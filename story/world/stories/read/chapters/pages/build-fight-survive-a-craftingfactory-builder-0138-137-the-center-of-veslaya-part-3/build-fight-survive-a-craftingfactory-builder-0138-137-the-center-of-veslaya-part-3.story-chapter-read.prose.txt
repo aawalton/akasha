@@ -1,0 +1,157 @@
+The scream cut off at the top of its arc and what came after was worse.
+
+Maria bent forward over her knees with one hand clamped against the Fabricator housing and the other flat on the platform deck, her breath going out of her in a long ragged sound that wasn’t quite a word, but sounded a lot like “FUCK!”
+
+Her whole body had locked around something. Ethan went down next to her on both knees before his rail-grip had fully released, the gauntlet he’d had on her back now on her shoulder, the other hand finding hers and letting her crush it.
+
+“Maria.”
+
+She couldn’t answer. Her jaw was set and her eyes were closed and the tears that had started during the communion were still running, but the register was different now. The stillness had broken. Whatever the chamber had been pouring into her through the floor had either stopped or been pushed aside by something more immediate, because all of her was in her lower back and her abdomen and the grip on his gauntlet was going to leave marks through the plating if she held it much longer.
+
+He didn’t try again. He held the grip and looked at CelestOS’s channel on his HUD.
+
+“Talk to me.”
+
+CelestOS: Running. Reading. One second. Thank you for the “please” earlier, for the record. I’m filing it under rare.
+
+"Contractions?" Ethan stared at the readout. "You said Braxton Hicks. You told me Braxton Hicks."
+
+CelestOS: I was wrong. I'm a corpobot, not a medical bot. She's four centimeters dilated, contractions are running three to four minutes apart at high intensity, and her cervix is approximately eighty percent effaced. Frederick's vitals are stable. She's approximately eight and a half weeks preterm.
+
+Ethan's vision did a small neutral thing where the edges stopped being the edges and the center got very clear. He'd had it happen twice before, once in the cave after the first drone, once when Maria's infection reading had hit seventy-seven percent. His brain had learned the trick. The trick came free and did the job.
+
+"He's too early." His voice came out flat. Then louder. "He's too early. Fuck. Fuck, what do we do."
+
+"Shut up and help me." Maria's grip pulsed on his gauntlet hard enough to grind the plating. Her eyes opened a crack and her jaw unlocked enough to push one more word through.
+
+"Build."
+
+It was an order. She’d given it through a contraction she couldn’t stop and she meant it the way she’d meant every order she’d ever given him on an engineering problem, which was precisely. Ethan looked at her. He nodded once.
+
+“Okay. Okay. Building.”
+
+He didn’t let go of her hand right away. He made himself hold another three seconds, until the peak passed and her grip eased and she blew out a long slow breath through her teeth and opened her eyes all the way.
+
+“I’m here,” he said.
+
+“I know.”
+
+“I’m scared.”
+
+“I know.” She pressed her forehead against his gauntlet for one second, then lifted it away. “So am I. But it’ll be okay if you just. Build!” She gripped the fabricator as a contraction hit her.
+
+He let go.
+
+The Fabricator was already unfolded from the standby wake he’d triggered before the scream. He went to it and cleared the output tray with a sweep of his forearm, catching the thermal plate component that had been the first item on CelestOS’s preliminary queue and setting it aside on the sled for reuse in the crib assembly. He needed the intake running on the bigger components now. Maternal first. Neonatal second. CelestOS had already reordered the queue before he’d asked.
+
+CelestOS: Queue reordered. Priority one: birth platform with lumbar support, leg bracing, and perineal clearance. Priority two: neonatal warming crib with atmospheric isolation, respiratory support interface, and monitoring array. I’m modeling both off terrestrial medical baselines adjusted for what I can fabricate from your current stock. Estimated completion for priority one: fourteen minutes. Priority two: twenty-three minutes. I wanted to be conservative with the estimates because I know what happens when you’re unable to meet demands.
+
+“Be aggressive. Cut corners on the platform aesthetics. Don’t cut corners on the crib.”
+
+CelestOS: Acknowledged. Aesthetics were already off the table. I have no sense of aesthetics and neither do you, frankly.
+
+Ethan almost laughed. The Fabricator arms were already moving, intake hopper pulling stone from the Auto-Miner reserve at triple its normal rate, the Ex Nihilo field coming up green against the platform iron and the birth-platform frame beginning to form on the output tray in layers he could read by shape.
+
+Frame first. Long rails in braced iron, cross-members at the shoulder and hip positions, adjustable leg supports hinged at the corners. The rails came off the tray in ninety seconds and he had them laid out on the deck near Maria’s current position before CelestOS had queued the padding. He assembled the frame by hand, snapping cross-members into their slots, tightening the hinge joints with the quarter-turn lock he’d used on the Forge’s tool racks, testing the leg supports under his own weight on each corner to make sure the frame would hold her.
+
+The chamber warmed another half a degree while he worked. The external thermometer on his HUD read seventeen-point-six now. It had been seventeen-point-one at their arrival. The gold veins in the floor around Maria’s position were brighter than the veins further out. The ambient bioluminescence in a four-meter radius around her had pulled up by a measurable margin, the wavelength settling deeper into the amber register the way a lamp warmed up after being switched on.
+
+He kept building.
+
+CelestOS: For your awareness. The chamber is raising local temperature and ambient oxygen within a five-meter radius of Maria’s position. Oxygen is up from 21.2% to 22.4% in that zone. Temperature is up 0.9°C. The changes are continuous and appear to be tracking her vital signs. I can’t tell you whether it’s deliberate or reflexive. I can tell you it’s consistent with a neonatal-supportive environment.
+
+"Good. Tell it thank you if you can figure out the protocol."
+
+CelestOS: I'll add it to the queue after the crib, the birth platform, and your son's respiratory system. I note that you're getting sentimental about a biological network while your wife is in labor, and I'd prefer you didn't.
+
+"Fair."
+
+The birth platform’s padding came off the output tray in three sections, fabricated from the treated fiber stock he’d run for the sled’s load surfaces, denser at the lumbar region and softer along the shoulders. He seated the padding into the frame. It snapped into place under his gauntlets with the muffled click of good tolerance work. He tested the surface with the flat of his palm. It gave correctly. It held correctly.
+
+He looked at Maria. She was still at the Fabricator housing. She wasn’t going to walk to the platform on her own.
+
+“I’m going to move you.”
+
+“Okay.”
+
+“Tell me what hurts more when I lift.”
+
+“Everything hurts. Just lift. Quickly.”
+
+He got his arms under her, one at the shoulders and one at the knees, and he stood up with her weight against his chest. She was lighter than he’d expected. Pregnancy should have added more weight than it had. Nutrient bars and sixteen hours work days had taken more out of her than either had wanted to acknowledge. He walked the three meters to the birth platform and lowered her onto it the way he’d lowered her onto the examination platform during the syntropic procedure, knees up and braced against the leg supports, lumbar cradled, shoulders eased back against the inclined top section.
+
+She made a sound when she settled. Relief at the lumbar support, then a second smaller sound as the next contraction began to build.
+
+[MEDICAL MONITOR — MARIA VASQUEZ]
+
+[Contraction: Building | ETA to peak: 22 sec]
+
+[Interval from previous: 3 min 15 sec | Pattern: SHORTENING]
+
+[Dilation estimate: 5 cm]
+
+"They're shortening." Ethan looked at the interval number and did the math he didn't want to do. "How long do I have."
+
+CelestOS: Thirty to forty minutes to active pushing at current progression. Rate of change is accelerating. The crib is your clock. Twenty-three minutes at current build estimate.
+
+"Cut it to twenty."
+
+CelestOS: Cutting.
+
+The Ex Nihilo field shifted up a register, the green glow along the platform iron brightening as it pulled harder on the Auto-Miner reserve. The Fabricator arms matched the new conversion rate. The output tray cycled the first neonatal component into the light, a curved composite shell sized for a body smaller than any Ethan had held in his life, its edges rolled for safety, its interior surface lined with a porous material CelestOS had specified without explaining.
+
+He caught the component and set it on the deck next to the birth platform’s foot end and went back to the tray. The second component was already forming. Atmospheric seal. Third: respiratory support interface, the small cuff and tubing set that would deliver mixed oxygen and maintain positive pressure for lungs two months short of ready. Fourth: monitoring array, a thin pad studded with contact sensors he’d seat against Frederick’s chest and back.
+
+He worked fast. The five-beat fabrication rhythm he’d used for every build since the cave held through every component: name the problem, name the part, name the challenge, feel the work in his hands, log the confirmation. He named everything as he went, quietly, under his breath, the way he named tools when he needed to move fast and couldn’t afford a misgrab. The problem was his son. The parts were the smallest he’d ever fabricated. The challenge was tolerance on every joint and seal. His hands were steady. CelestOS logged each confirmation a quarter-second behind his assembly.
+
+Maria breathed through three contractions while he worked. He kept track in the corner of his vision. The intervals kept shortening. She didn't ask him to stop and he loved her for it because he couldn't have stopped, and she'd given him the order specifically so he'd never have to choose.
+
+"You're doing good," he said without looking up from the seal. "Keep breathing."
+
+"Don't coach me." Her voice came through her teeth. "You studied logistics."
+
+"I did study logistics."
+
+"And now you're building a neonatal crib on an alien planet. From rocks."
+
+"People change."
+
+She laughed. It turned into a groan halfway through as the next contraction caught her. When it passed she said, "If you tell anyone I was making jokes during labor I'll kill you."
+
+"CelestOS is recording everything."
+
+"CelestOS knows what's good for her."
+
+The crib’s primary shell clicked into the atmospheric seal under his gauntlets. The respiratory interface seated cleanly into its mount. He ran the monitoring array against his palm to test the contact pickup and watched the test signal register on his HUD in the sharp clean line of working hardware. He seated the array inside the crib against the resting surface and the seal closed around it. CelestOS ran the internal environmental check.
+
+[NEONATAL CRIB — SYSTEMS CHECK]
+
+[Atmospheric seal: Integrity 100%]
+
+[Thermal regulation: 36.5°C | Stable]
+
+[Oxygen mix: 28% | Adjustable 21–40%]
+
+[Respiratory support: Positive pressure verified]
+
+[Monitoring array: All channels active]
+
+[Build time: 21 min 48 sec | Under estimate]
+
+CelestOS: Crib is live. Under estimate by a minute and twelve seconds. I’m accepting your earlier instruction to be aggressive as retroactive justification. For the record, this is the most consequential object you’ve ever built and I want to note that your hands didn’t shake once.
+
+Ethan looked at it. The crib sat on the platform deck next to the birth platform, a sealed environment the size of a bread oven with a clear observation panel along its top, its internal light glowing a steady soft white, waiting. His hands started shaking after he stopped working.
+
+He put them on the rim of the crib and let them shake for one second. Then he took them off and turned back to Maria.
+
+"It's ready."
+
+She opened her eyes. She looked at the crib, then at him, and her face did something he wasn't ready for. She started crying. The full kind, the kind she almost never let him see. He went to her and put his forehead against hers and let her hold onto his pauldron with both hands and didn't say anything for the length of the next contraction.
+
+CelestOS: I hate to do this now.
+
+Ethan his heart drop out of his chest.
+
+“What now?”
+
+CelestOS: Trap One is under attack. Multiple detonations. The gauntlet’s forward emplacement just went active. It’s Patel. He must’ve have found the route, and is likely headed straigh for us.

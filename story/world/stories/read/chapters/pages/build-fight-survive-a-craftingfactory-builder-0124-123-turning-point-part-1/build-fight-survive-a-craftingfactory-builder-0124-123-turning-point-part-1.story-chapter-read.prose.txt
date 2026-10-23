@@ -1,0 +1,95 @@
+Maria woke to the sound of the Forge breathing. She lay still, eyes closed. The Forge hissed and crackled twenty meters away on the other side of the alcove wall, its combustion cycle ticking over in the same steady rhythm it had maintained for days. She'd heard it before. She'd fallen asleep to it and cursed at it when the exhaust vent clogged during the medical bay build.
+
+She opened her eyes. Green light pulsed across the ceiling in slow waves, what remained of the ore sat in its cradle casting the alcove in a glow that made the stone look alive. Ethan lay on the floor beside the medical bay's frame, his back against the metal housing and his head tipped sideways at an angle that was going to cost him when he woke up. His gloved hands rested in his lap, fingers still curled in the shape of the contact plates.. His breathing was deep and even, the kind of unconsciousness that came from a body that had simply stopped accepting input. He'd earned the rest, so she let him sleep.
+
+Maria sat up slowly. Her shoulder ached, a deep and settled pain that felt more like the work of healing than any lasting damage. The resin infection was gone. She knew this the way she knew the Forge was running, through raw sensation. She pulled up the medical bay's diagnostic on the console beside the platform and scrolled through the results that had been running on auto-cycle since the procedure.
+
+[Post-Treatment Scan: Maria Cross][Infection Status: 0% | Full Eradication Confirmed][Resin Network: Destroyed | No Active non-human Biological Signatures Detected][Shoulder Wound: Healing | Tissue Regeneration in Progress][Immune System: Recovering | White Cell Count Normalizing][Fetal Status: Frederick Cross | Heartbeat 136 BPM | Resonance 447 Hz | Healthy]
+
+The scan read zero percent. The infection that had been eating through her circulatory system for days, the red resin that had branched across her chest and threatened to cross the placental barrier into her son, was gone. The scan confirmed it was destroyed. The word sat in her mind and refused to feel real. She placed her hand on her stomach. Frederick shifted beneath her palm, a slow roll that pressed against her fingers and retreated. Alive and completely safe in his movements, as if the last twelve hours hadn't happened. She held her hand there and breathed a sigh of relief.
+
+The sensation from the Forge reached her again. Stronger now that she was sitting upright, her body closer to the floor where the vibrations traveled. The Iron Loop's rhythm layered beneath it, a mechanical heartbeat running in parallel to her own. She could feel both without trying, the way a person standing in a room full of clocks can hear each one ticking at its own speed without losing track of any.
+
+Something else was there too. Beneath the machines and the stone, a deeper rhythm pulsed. Warm and vast, as if she were pressing her ear against the chest of something enormous while it slept. It was the Living Walls. She'd known they were alive since Ethan described the breathing, since CelestOS confirmed cardiac synchronization. But knowing it and feeling it were different things entirely.
+
+Maria walked to the edge of the base where stone gave way to Living Wall tissue. Ethan's construction stopped exactly at this boundary. His power relays stopped at the green. Beyond it, the walls glowed with their own light, a soft jade luminescence threaded with gold veins. She placed her hand against the surface. The wall was warm. It radiated its own heat from deep inside. The texture was smoother than stone, yielding slightly under her palm with a resilience that felt organic, like pressing against taut muscle. The gold veins nearest her hand brightened at the contact, the light crawling toward her fingers and concentrating beneath her palm in a pattern that tracked her skin's surface area.
+
+Her heartbeat registered in the wall. She felt it echo back, delayed by a fraction, as if the creature had received the pulse and was replaying it through its own system. Frederick's heartbeat followed, faster and lighter, transmitted through her body into the wall's surface. The wall absorbed both signatures and the gold veins pulsed in a rhythm that alternated between Maria's slow rhythm alongside Frederick's rapid pulse. Two heartbeats braided into the wall's response as if they were a band striking up a tune.
+
+CelestOS: Syntropic biosignal detected in wall substrate. Your cardiac rhythm and the fetal cardiac rhythm are being registered, amplified, and redistributed through the local Living Wall network. Range of redistribution: approximately 200 meters in all directions from your contact point.
+
+Maria kept her hand on the wall. The warmth beneath her palm deepened, spreading up her wrist and into her forearm. The wall was responding to her. The infection was gone, the scan confirmed that, but the days it had spent threading itself through her tissue had left something behind. The pathogen was dead. The channels it had carved to connect itself to the broader red resin systems weren't. It left behind empty conduits, vacated by the cure, still wired into her nervous system. And the Living Wall's signal was traveling through them like traffic on roads an army had built and abandoned.
+
+CelestOS: Analysis update. Your biological tissue retains Syntropic-compatible neural pathways established during the infection period. They're inactive with respect to resin replication. They are, however, conductive to external Syntropic signals. In simplified terms, the infection built an antenna array inside your nervous system. The cure destroyed the broadcaster. The antenna remains. Sensitivity range: approximately 200 meters through direct contact, 40 to 60 meters passive. Congratulations on your involuntary promotion to planetary network access.
+
+Maria pulled her hand away from the wall. The warmth faded from her forearm, leaving a residual sensation in her palm, a phantom pulse that matched the wall's rhythm even without physical contact. She could still feel the deeper signal beneath the stone, dimmer now, like hearing muffled music through a closed door.
+
+Frederick kicked twice, sharp impacts against her ribs. The wall's gold veins brightened in response to each kick, registering his resonance from a meter away without contact. The pathogen was dead, but the architecture it had built survived, repurposed as something the infection had never intended.
+
+She pressed her hand against the wall again. The warmth returned, the double heartbeat echoed back, and the terrain opened in her awareness: tunnels, sealed passages, open corridors, Ethan's defenses humming in their housings. A vast and patient system running on its own for longer than human civilization had existed. It knew her the way a port knows a cable. It spoke to her. She turned her head and looked at Ethan curled up on the ground. Idly, she thought about waking him, but when had be the last time he'd even laid down?
+
+She let Ethan sleep, since his body needed the recovery time and the data wasn't going anywhere. She spent the next two hours running self-diagnostics, cataloging range and sensitivity while CelestOS cross-referenced her readings. Passive detection: 47 meters without contact. Active range through touch: 214 meters. Frederick's 290 Hz resonance amplified everything, boosting her sensitivity by an estimated 30 to 40 percent. She sat beside the Forge and felt the mountain breathing around her while Ethan slept.
+
+Ethan woke with a grunt and a sharp inhale that said his neck had registered the sleeping angle he'd chosen. He sat up stiffly, blinking in the green light, immediately checking the medical bay's display before turning to Maria and flexing his hands, wincing at the lingering pain.
+
+"How long?" he asked.
+
+"About nine hours. You needed it." Maria handed him a water container she'd filled from the purifier while he slept. He drank half of it in one tilt.
+
+"Frederick?"
+
+"Healthy. Kicking like he's trying to escape early." She paused. "Something happened while you were out."
+
+Ethan set the water down and gave her his full attention. His engineer's focus shifted on like a lamp, the same expression she'd seen a thousand times when a system produced unexpected output.
+
+"I can feel the walls," Maria said.
+
+He just stared at her. "Feel them how?"
+
+"Through the floor. Through direct contact." She held up her hand, palm out. "I can feel the Living Walls. When I touch it, I can sense the tunnel system for about 200 meters in every direction. Sealed passages, open corridors, your defenses. All of it."
+
+Ethan's expression cycled from confusion to a careful assessment. "Since when?"
+
+"Since I woke up. The red resin did something to me. But when your cure killed the infection, their pathways stayed behind. They're picking up Syntropic signals in the wall." She met his eyes. "The walls know me. My heartbeat and Frederick's, They respond when I make contact."
+
+"The same walls that tried to kill you."
+
+She walked to the boundary and placed her hand against the green part of the wall. Gold veins brightened beneath her palm. "Come look at this."
+
+He stood slowly, favoring his stiff neck, and crossed to where she stood. He watched the gold veins track her hand's position, brightening and dimming as she moved her palm across the surface. The wall responded to her touch with an immediacy it'd never shown him. He wasn't sure why it reacted to her the way it did, but right now it didn't matter.
+
+"It's curious," Maria said. "That's the closest word I have. The wall's signal when I make contact, it reads like inquiry. Like it's mapping what I am."
+
+"The last thing on this planet that was curious about me tried to pull me to the bottom of a lake."
+
+"This is different. The lake creature was territorial. This feels like recognition. "It already knew  you. Now it knows Frederick and me." She pulled her hand away. The gold veins dimmed but maintained a faint glow where her palm had been, as if the wall was holding the contact point warm. "I didn't ask for this. But it's here, and we'd be stupid not to use it."
+
+CelestOS: I'd like to note that Maria's biological interface provides sensory data approximately 14 seconds ahead of my sensor array for events occurring within the Living Wall network. She detected the Auto-Miner's drill head striking a new vein of ore 43 seconds before my seismic monitors registered the vibration change. Her assessment of the wall's behavior as 'curious' is, regrettably, consistent with the available data. The substrate is exhibiting adaptive response patterns that suggest some form of environmental awareness, with particular sensitivity to the fetal resonance signature at 290 hertz.
+
+Ethan looked at the wall and the fading glow where Maria's hand had been. His jaw worked before he spoke. "You're telling me you're wired into the planet's nervous system."
+
+"I'm telling you I can feel what the walls feel. That's a sensor network you can't build and I didn't plan for. Your Syntropy integration runs through the suit. Mine runs through my body." She sat down on the storage crate and rested her hands on her stomach. "We're different tools now. You handle the hardware, and I'll map our surroundings."
+
+Ethan was quiet. He looked at the medical bay and the empty resource counters on his HUD. He looked at the Living Wall where gold veins still pulsed faintly where Maria's hand had been. He looked at his wife, sitting on a storage crate with her bare feet on the stone floor and her hands on their son, and he did the thing he always did when the data exceeded his expectations: he started planning.
+
+"CelestOS, run a comparative analysis. Maria's biosignal detection range versus our current sensor grid coverage. I want to know where the gaps are and whether her capability fills them."
+
+CelestOS: Analysis running. Preliminary results indicate Maria's biological interface covers approximately 340% more of the Living Wall network than your current sensor deployment. She also detects Syntropic signal changes an average of 11.7 seconds before electronic sensors. You appear to have married the most advanced detection system on the planet. I'd say I planned this, but my predictive models aren't that good.
+
+Maria watched Ethan's expression shift from assessment to something that looked, in the Forge light, very much like a builder who'd just been handed a new tool he didn't know he needed.
+
+"The walls pointed downward," she said. "The glyphs near my sleeping area. They're a map. I can feel the direction now, the signal's strongest below us, deep in the mountain. Whatever the walls want us to find, it's down there."
+
+Ethan stared at the floor beneath his feet, as if he could see through stone to whatever waited below.
+
+"Frederick's signature," Maria added. "290 hertz. The walls respond to it more than anything else, including both my heartbeat and your suit. When he kicks, the gold veins light up across the entire perimeter. Whatever's down there, it's listening for him."
+
+The alcove was quiet except for the Forge and the faint, steady pulse of the Living Walls carrying three heartbeats through the mountain.
+
+"Alright," Ethan said. "We've got a planetary sensor network, a factory running on fumes, a corporate army drilling toward us from above, and an alien infrastructure system that's apparently been waiting for our unborn son." He rubbed the back of his neck. "Sounds about right for a Tuesday."
+
+CelestOS: It's actually a Monday.
+
+"Close enough," Ethan said. He turned to the Fabricator and pulled up the build queue. "First thing's first. We restock. I build a send loop and then we run them at full capacity while you map everything the walls will show you. I want to know what's down there before we go looking."
+
+Maria placed her bare feet flat on the stone floor and closed her eyes. The Living Wall opened in her awareness, vast and old beyond calculation, carrying the pulse of three human hearts through a mountain that had been waiting for them, and she started mapping.
