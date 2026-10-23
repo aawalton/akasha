@@ -1,0 +1,225 @@
+***June Ferrier, level 55 Mystic Frontier Ranger***
+
+After Travis and Badur left to pull Will’s self-pitying head out of his ass, June turned her attention to Loth.
+
+“So why didn’t you go?” June asked, glancing over at the sleek dragon-woman beside her.
+
+“Because catching someone on the rebound is manipulative and lowbrow.” Loth replied with a frown.
+
+June flicked one of Loth’s wings.
+
+“You’re going to have to accept that romance is messy. If you keep trying to engineer perfection, it’s never going to happen. Or are you just scared?”
+
+“He overheard me earlier, and he knows I don’t do anything without a purpose, so if I appeared as soon as his girlfriend left him, wouldn’t he have suspected me of…” Loth trailed off and shrugged. “I guess I am scared.”
+
+“Gods, you’re hopeless. A bit of selfishness in romance is not always a bad thing. It’s very gratifying to know that someone desires you.” June said.
+
+“Is that how humans work?” Loth asked.
+
+“Most of the time.” June said. “And I’m not saying your stubbornness about doing things the right way and maximizing your approach is entirely a bad thing either. Sure you missed your chance today, but you’ve positioned yourself to have as many chances as you want. I give your whole arrangement an eight out of ten. You’re just lacking the bravery to get a bit dirty and selfish.”
+
+“Hmm.” Loth mused silently for a moment before nodding.
+
+“Thank you for the advice. I’ve removed the traps.”
+
+June blinked. “What traps?”
+
+Loth stood up and left the tavern.
+
+“Hey!” June called after her. “What traps!?”
+
+***William Oh***
+
+With the new wand overwriting the old one, Will had to wait a couple days before it would be available. In the meantime, he had been called upon to solve the missing-hand problem, which was quite literally crippling productivity across the entire Burned Stronghold. The surplus that they had spent so much effort on achieving had once again been reduced to the bare minimum.
+
+Thankfully I’ve got quite a lot of experience with regrowing limbs.
+
+Will had a potion specifically for that, actually, and doing the math…
+
+Let’s see, with the sickle, I would have eight hundred Focus, but I need the ring of explosive doughmaking to bring the recharge time on the potion down to zero.
+
+So with Explosive doughmaking slotted…a little less than fifty people per day.
+
+There were about three thousand people in the Stronghold, and nearly all of them were missing a hand because of the Charm asshole.  A handful of his citizens could regrow their own limbs, and Saint Charnesa could regrow limbs for about eight or so people a day, but that would take over a year at that rate.
+
+Was this headache worth four hundred and fifty thousand Influence? I think I could’ve charged a lot more.
+
+Lesson learned, I suppose: Don’t sell the safety of my people for less than a cool five mil. Hah.
+
+The first thing Will did was visit Charnesa, who was sweeping the church. Everyone knew the first eight people to line up were the only ones who could get their hands back, so she wasn’t very busy after the first ten minutes or so of her day.
+
+Will aimed to change that.
+
+Manifest Sickle of Malignant Silence
+
+330->316 Focus remaining.
+
+The sickle manifested in his hand, sizzling with death in the miasmatic realm.
+
+“Here, use this instead.” Will said, offering the plain sickle to the aging crone. Saint Charnesa took the sickle, nearly dropping it when she Inspected it.
+
+“Holy hunt-mother, you walk around with this vile thing!?”  She demanded, recoiling away as far as she could stretch her arms.
+
+“Only when I need to indiscriminately kill a bunch of people, so…not very often, actually. If you look at the Focus boost, you’ll see that it’s quite potent. It should raise the number of limbs you can fix per day by a dozen or so.
+
+If someone tries to take it from you,” Will continued. “It will vanish, so don’t worry about it falling into the wrong hands. As long as you don’t use it, everyone should live.”
+
+“R-right.” Charnesa said, nodding, her skin paler than usual. The old woman was uncharacteristically timid around the Relic of mass destruction.
+
+Okay, so now we’re up to twenty people fixed per day. Much better, but still about five months before we get everyone fixed up.
+
+If Will’s Sourdough was included, that dropped to about a month and a half.
+
+If Charnesa’s apprentices could help as well, that would be great, but the burned stronghold produced enough injuries per day to keep them busy.
+
+Any other ways we can speed things up? A month and a half was certainly much better, but Will wanted to boost the speed to the point where the problem was solved. Immediately, and without lingering consequences.
+
+The problem Will kept running into was Charge limitations. No one person had enough to…
+
+Ah. I need to make a wand. People can heal themselves, then pass it on to the next person.
+
+“How goes?” Loth asked, joining Will mid-stride on the walk back from the church.
+
+“I’m gonna try to figure out how to make a wand that can regrow people’s limbs. wanna help?”
+
+Loth pursed her lips, seemingly running that proposition through a long list of checks. “…Yes.”
+
+“Alright, let’s get to it.”
+
+They quickly learned that the stumbling block was finding a Relic that restored limbs. Jorn’s cloak was close but not quite what they were looking for.
+
+Direct limb regrowth was more common among consumables, passive Abilities, and Holy Abilities granted by deities.
+
+Will quickly realized that a large portion of the work was done by a complex interface between the limb regrowth and the user’s Class, which gave directions on how the limb should be formed.
+
+While Will had come a long way, and he could probably create miasmatic structures complex enough to do the work, it would likely take months to produce it, which was exactly what they were trying to avoid.
+
+“What if we added an extra step?” Loth asked after they had circled around the same problem for nearly an hour. “It doesn’t need to be elegant, it just needs to be good enough to do the job, yeah? What if you put your Sourdough Ability in a Relic and then a citizen can use that to refresh a bottle of limb regrowth?”
+
+Will snapped his fingers.
+
+“That might work.”
+
+They took a piece of giant’s bone and Will used Sourdough on it, trapping the miasmatic structures inside the crystal.
+
+It didn’t work at first, not having a specific target, but when they carved out a divot the center and put the potion inside, they were able to get the pattern correct by firing Sourdough several dozen tiems until the pathway was carved out.
+
+Will doped the giant’s bone to re-harden it, trapping the miasmatic structures in place before he and Loth began carving the excess crystal away. It was kind of egg-shaped around the potion bottle, so they wound up carving a way for it to stand, and it ended up looking something like a chalice with a potion bottle stuck inside.
+
+“Eventually some idiot is going to drink the potion without paying the Charge cost.” Loth mused aloud as they worked. “And that’ll stop the chain.”
+
+“We should make it so that it pulls Charge out of the person before it becomes possible to drink it.” Will said, studying the Relic. “That’s not really my forte, though.”
+
+It was Loth’s.
+
+“No problem.” Loth said, taking the Chalice from him, re-softening the exterior crystal before concentrating.
+
+Under her hands, he saw channels of springloaded miasma being cut into the surface, tracing lines to the network of miasma that described the Sourdough Ability.
+
+She pulled out a small ingot of Flash-glass and worked the material with her bare fingers to somehow create a tiny hinge on the top of the lump of crystal, connected to the potion’s lid.
+
+Will looked it over.
+
+There were thousands of tiny round funnels of miasma dotting the surface of the chalice now, some sort of trapped sensors that could drain Miasma. Presumably if someone could hold the chalice without touching any of those sensors, they could drink the potion without paying the Charge for it.
+
+It would be easier to simply smash the chalice if someone wanted to drink the potion without paying for it.
+
+Will Inspected their creation.
+
+Will and Loth’s Chalice of Potion Restoration.
+
+Drains 10 Charge from whoever touches it to refill the potion within.
+
+As an experiment, Will touched the chalice. The springloaded miasma structures flexed and instantly drained ten Charge out of his Class, injecting it into Will’s preserved Ability inside the chalice.
+
+292->282 Charges remaining.
+
+The flash-glass hinge read the activated state of the Ability and popped open, demonstrating the practicality of Loth’s trap-making expertise.
+
+The fact that it took ten Charge instead of one was likely due to crafting errors, or perhaps because the chalice didn’t have Will’s potent Relics backing it up. In any case, no one in their right mind would complain about paying ten Charge to grow a limb back.
+
+Will tilted the entire goblet encasing the bottle, downing the potion. Afterwards, the two of them sat back and watched.
+
+The Charge slowly dimmed, and the potion refilled inside its glass container in about three minutes, just as the Charge was fully depleted.
+
+Twenty people per hour, twenty-four hours a day….four hundred and eighty per day? So just under a week. That’s much better.
+
+“Excellent. I think we’ve done it.” Will said, setting the chalice down.
+
+Loth gave a controlled fist pump.
+
+“That was an enjoyable puzzle.” Loth said with a satisfied nod. “I learned a few things.” Will could see her casting greedy glances at his crystal tempering machines.
+
+“You wanna use the giant’s bone crystal to make even better traps, don’t you?”
+
+“You might as well have guessed that the sky was blue,” Loth replied. “But I won’t pester you for something I can make on my own. Just knowing they exist and having seen how they work, I’m fairly certain I can make my own.”
+
+Will stretched the kinks out of his back and neck after a few hours of joyful experimentation, the realization of his next job crashing down on him:
+
+Badur had scheduled a meeting with several of the locals who had learned of the existence of the Helping Hands in his basement.
+
+They remembered the Charm bastard forcing them to attempt to destroy the two altars at length, and they blamed Will for the attack.
+
+It was about…40% my fault, Will thought. He probably shouldn’t have sold the Burning Court set to launch his economic growth, but the decision to attack had always been Marksman’s.
+
+This is gonna suck.
+
+“Ugh…Thanks for helping out, Loth, this would’ve taken weeks without you.”
+
+“Accurate.” Loth replied.
+
+“Would you mind taking this to the church of Holdna before you go on your way? I’ve got this really annoying meeting coming up.” Will asked, gesturing to the chalice.
+
+Loth again made a contemplative expression as she measured her response. “No, I don’t think I will.”
+
+“That’s fine, I can-“
+
+“If it’s all the same, I’d rather spend more time with you.”
+
+Will froze as that sank in, and it took a moment to shake it off.
+
+“Uh…well, it’s a public forum, so you’re more than welcome to join in.” Will said, coming back to himself.
+
+They dropped off the chalice and went to the meeting, which was an open-air town hall in the middle of the courtyard where Caddock had once tried to execute him.
+
+Badur ceded the podium to Will and Climbers start shouting the instant Will opened his mouth.
+
+‘Keeping secrets from us!’
+
+‘Where were you!?’
+
+‘is that thing why my competitors are-“
+
+‘-you even know what it’s like to cut off your own arm!?’
+
+Will rocked back on his heels as the questions and accusations flowed over him. None of them were wrong, per se, except that last one.
+
+Now how do I finesse this situation? Will wondered as he formulated a response. Nobody except Badur knew the extent of what the Helping Hands were capable of, so he should placate them with some half-truths about it being a performance boosting-
+
+“AHEM!”
+
+SNAP!
+
+Loth cleared her throat and snapped her wings open, drawing everyone’s attention to herself as she had taken a place beside Will.
+
+She reached into her barrel and retrieved a half-cleaned skull, with the uneaten half obviously belonging to Marksman.
+
+“This is the head of Lord Marksman. He attempted to harm your Stronghold through subterfuge and intermediaries, and within minutes, William Oh tore his head from his shoulders. The very same hour you all lost your hands, your Lord protected and avenged you. Question his methods if you like, but do not do so without being aware of the results that his methods produce!”
+
+She tossed the head into the crowd.
+
+After that, the town hall was much more civil, and with the news that the church would be able to restore the hands of five hundred people each day, Will was able to placate the citizens to Badur’s satisfaction.
+
+“I was wondering where that went,” Will said to Loth once the town hall wrapped up.
+
+“I thought it might come in handy,” Loth replied.
+
+“You know, I had that same thought, but I guess I used it on the wrong people. Or maybe too soon.” Will admitted.
+
+“Achieving the proper timing is a difficult thing.” Loth said, nodding.
+
+Hear hear, Will thought.
+
+“Lunch?” Loth asked.
+
+“…Sure.”

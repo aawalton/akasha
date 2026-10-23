@@ -1,0 +1,297 @@
+Once upon a time someone harnessed a small fraction of William Oh’s Class and used it to pull off an impromptu heist. They’ve written the culprit off as dead, but rumors are they’re living like a king somewhere outside the Ring with their family.
+
+***William OH***
+
+The basic principal of cursed equipment is increase the power output, reverse the effect wherever possible, and prevent the removal of the Relic.
+
+The Burning Court set was the perfect set to experiment on, but that didn’t mean Will was just going to dive into tinkering with it before he knew what he was doing.
+
+Will had plenty of Relics, both in his vault and in his Dimensional Storage, to figure out exactly how a curse worked and how to selectively fix it.
+
+After some study, Will was able to identify what a curse was and what it looked like.
+
+At the end of the pipeline that connected the Relic slot were miasmatic structures in the brain that branched out like trees. These trees connected to the user’s Class in pre-arranged sockets, pumping extra Stats and Abilities into the Class itself. The size of the tree and how it divided the stat points and abilities were all standardized once Will decoded them.
+
+That branch was Strength, the number of individual splits was how much Strength it added. That branch was Resistance, and so on.
+
+Cursed Items created a thick coating over these trees that flipped the flow of charge. Each branch ended in a little inverted hole that drew in and trapped energy rather than adding it to the system.
+
+These ‘trees’ were smaller than a hair, and the only reason that Will had been able to find them inside his own ever-shifting brain was by using Map to isolate and magnify the unidentified miasma inside of his own Class.
+
+Will hit a temporary setback when he was trying to isolate individual aspects of Abilities, but that was when the Choker of the Stolen Voice helped him break through.
+
+Choker of the Stolen Voice
+
++2 Strength
+
++12 Resistance
+
++2 Kinesthetics
+
++4 Acuity
+
++7 Focus
+
+User’s voice-based Abilities no longer register as being caused by the User.
+
+Trace-back effects register the Choker of the Stolen Voice as the origin of the Ability. XP for kills made with voice-based Abilities is negated.
+
+It was the only Relic with a Meta-effect, and Will abused it relentlessly.
+
+Will had people with voice-based Abilities use the choker, both on and off, making maps of their Class and their Ability as it was being used before dismissing them.
+
+It only took a couple minutes per person, since Will didn’t actually need them there to review the map he’d saved into his legend. And like that, he’d gotten several dozen on/off maps to compare to each other.
+
+For some reason a lot of the Climbers were missing their right hand.
+
+The way the Choker of the Stolen Voice prevented traceback effects was extremely visually similar to how the curse effect from the Burned Court set worked:
+
+It created a sheath of miasma around very specific points on the Ability itself as it was created.
+
+Noting this allowed Will to learn two things: He was able to get a hint about which parts of an Ability’s miasmatic structure might be used to identify the person who used it, and more importantly, he was able to get an idea for how to limit a curse to just one effect.
+
+There was a complex weave that cinched the ends of the obstruction off, tying them tight around the miasmatic structured they blocked, allowing them to linger without fading.
+
+Will wanted to keep the inverted hatred of the Burning Court while doing away with…pretty much everything else.
+
+Tracing the origin of the changes inside the class back to the curse on the Relics themselves was tedious, but Will eventually narrowed it down, and was able to lift the curse.
+
+Once that was done, he went about figuring out how to re-curse the fae ghosts specifically so they didn’t try to kill him.
+
+Once Will had taken a map of each of the pieces of the Burning Court set, he tried Sourdough on them to see if they retained their set piece bonuses.
+
+Thankfully, resulting piece retained the set bonuses, but due to the minor loss of power, the final set bonus could never be reached by normal means.
+
+Will used the experience isolating specific tags in miasmatic structures to identify and isolate the ‘souls’ for each of his butlers and moved them into a specifically prepared piece of crystal bone.
+
+One that was done, Will teased the fae ghosts out of the set as well and stored them in the same crystal.
+
+Now that neither of the perishables were at risk of being lost, Will ground up the set items along with a few other things and used Sourdough to infuse that power into the the wand-shaped crystal.
+
+In his map, Will watched as the highly compressed miasma gradually oozed into the wand-shaped piece of crystal with his butlers and the fae preserved inside it.
+
+Once the saturation became high enough, miasmatic structures began to form.
+
+Much like salt crystals, the miasma latched onto the tiny imperfections that were the preserved souls of his summons, creating a Relic by building around it.
+
+This was the first time in Will’s experience that he could actually watch and adjust the properties of a Sourdoughed Relic as it was growing. Will took sketches of its growth every few minutes, absolutely fascinated.
+
+That looks like ‘necromancy’ right there, Will thought as he spotted a particular strand of miasma forming.
+
+Before it became too entrenched, Will snipped ‘necromancy’ free with Titan’s Grasp and replaced it with an ‘eidolon’ tag that he’d saved in giant’s bone because that worked better for him.
+
+The Miasmatic structures bonded to the implant and grew strong around it, changing the course of the Relic’s growth.
+
+Will brooded over it like a mother hen, tweaking its growth and making sure it suited his stats in those early hours until it gradually became more and more difficult to modify, the miasmatic structures branching out and bracing against each other, solidifying like gelatin.
+
+When the Miasmatic structures stopped growing, Will took the wand out of the bed of depleted ash and wiped it clean before inspecting it.
+
+Will’s Wand of Burning Spirits
+
++ 15 Strength
+
++ 30 Resistance
+
++ 15 Kinesthetics
+
++ 35 Acuity
+
++ 45 Focus
+
++60% Eidolon and Fire Ability Potency
+
+Active:
+
+1 charge: Repair Eidolon. Repairs and restores spiritual or manifested tissue. Will not repair an eidolon that has completely disintegrated.
+
+5 Charge: User may summon one permanent Undead Retainer, to a maximum of 1.
+
+The Undead Retainer is an intangible spirit with a limited ability to interact with the physical world, performing simple tasks for the wielder. They are sustained by the wand, not reliant on the wielder's Focus. If the wand is unequipped, the Undead Retainer is dismissed.
+
+Passive:
+
+When Eidolons under the user’s control are damaged, they gain a tiny amount of effective Resistance. This effect persists until either the subjects or the wand are destroyed.
+
+Reduces Focus cost to manifest Eidolons by 15% each, rounded down. Cannot lower the Focus cost below 1.
+
+Eidolons under your control gain a flame aura while in combat. Scales with Focus. Toggleable.
+
+Eidolons summoned by this Relic can be the target of Abilities requiring a living sacrifice and subject to lifedrain, as though it were alive. Allies are protected from damage dealt by the wand and the summons therof.
+
+Whenever an enemy is killed, Fire Abilities and Eidolons gain potency until the end of battle or an hour passes. Scales with Focus.
+
+Part of the Summer Fae Regalia set.
+
+Summer Fae Regalia Set Bonuses:
+
+Half of potential damage dealt by the user is automatically converted to fire damage. Fire damage may burn Eidolons, Debt and Contracts. (3 items)
+
+Phantom Hand’s Manifest Ability can be used to grant an imprinted Relic’s effects to another Eidolon under the user’s control. The Relic is unavailable to be slotted or manifested while buffing an Eidolon.  (6 items)
+
+Fire damage ignores a portion of enemy Resistance. Scales with Focus. Gain the service of the Burning Court. (8 Items)
+
+Damn. That’s pretty outrageous.
+
+And when Will overwrote the Wand of the Undead Retainer, it would be even more outrageous.
+
+The set bonuses would only ever be useable slotted in Phantom Hand. Will had dumped the ash of every piece of the Burning Court set into the new wand, so it would never count as more than a single item unless it was boosted by Phantom Hand.
+
+Not to mention the number of slotted item requirements went up, likely a result of a slight loss of potency from using Sourdough.
+
+Speaking of the set bonus…the name of the set is different. Does that mean the fae are different now? Does that mean the butlers are different?
+
+A spike of dread shot through Will’s guts at the proposition that he might’ve just erased more of his friends.
+
+Are the butlers friends?
+
+Insomuch as lifeless entities whose only purpose is to serve could be considered friends. They had enough sense of self to sass him. Will had so few friends left, he was grasping at straws at this point.
+
+Will pointed the wand and triggered the active Ability.
+
+312 Charges remaining.
+
+A butler manifested in front of Will, wearing warm-colored livery and a fire opal on his neck-tie.
+
+“I extend my humblest greetings upon our first meeting, young necromancer.  How may I serve you?”
+
+Will’s eyes narrowed.
+
+“Y’know Stevie, I was thinking about giving you a better name to go with the new clothes, but you just had to try and pull a fast one.”
+
+“Tch.” Stevie clicked his tongue. “How did you know, milord?”
+
+“You just told me.”
+
+The undead butler’s eyes widened for a moment before his expression returned to his usual stoic mask.
+
+“Is there anything you would have me do, milord?”
+
+“I’ll need to run some tests to see if your powers have changed, and I need you to send a message to-“
+
+Will’s plans were interrupted as Travis and Badur marched in.
+
+Those guys, actually.
+
+“Will, you need to stop sulking, come out of your tower and do Lord stuff.” Travis accentuated his point by lifting Badur’s truncated right arm and pointing at it.
+
+“What happened to him?” Will asked with a frown.
+
+“The same thing that happened to everyone!” Travis said.
+
+***Jessica Porter, level 55 Elusive Smuggler***
+
+By all the gods! That was a killer, no, a monster!
+
+As if he’d been toying with children, William Oh had swiftly defeated each one of her teammates and sent them tumbling to the mountainside the in the blink of an eye.
+
+And my Lord…
+
+In a heartbeat, the man who had controlled her fate like a marionette had his head torn from his shoulders.
+
+Despite all the violence, for some reason that flickering ghost named William Oh hadn’t killed her too.
+
+Whatever the reason, Jessica didn’t intend to give him time to rethink that decision, dumping his kit and anything else that might get her in trouble with him and speeding away as fast as she possibly could.
+
+Distance made the crime grow fonder, after all.
+
+Once she got back to the stronghold, the truth began to truly sink in.
+
+Every single one of Lord Marksman’s vassals, including her, knew exactly when the man had died, as they had been released from their vassalship by the Tower the moment it happened, and so the news spread in the blink of an eye.
+
+The news, and the unrest.
+
+There was a mass of angry salt-miners being held away from the mines by the guards until a new Lord could create a Resource node, and the merchant’s caravans were piling up outside the walls of the stronghold, unable to fulfil previously planned orders until the guards figured out what they were going to do.
+
+I’m sure there’s a bunch already mined in the vaults. They just don’t have any authority to hand it out because the authority got his head ripped off.
+
+…This is going to make the price of salt explode.
+
+Jessica blinked, then glanced down at her kit and uniform provided by the Lord.
+
+It was unrest and anarchy everywhere, the streets full of brawls between the citizens, the guards, and even between the guards themselves. The vaults were probably on a skeleton crew, if there was even anyone protecting them at all.
+
+If someone were to…relieve the vault of certain valuables in the confusion, that person could stand to make…quite a lot of money.
+
+No…that couldn’t possible work…could it?
+
+And what do you plan to do with the rest of your life with a Class like Elusive Smuggler? This is what your Class is for. This is your one shot staring you back in the face.
+
+Jessica took out a small silver Ouroboros wrapped around an eye from under her shirt and gave the god a prayer for the opportunity that manifests in chaos.
+
+Light step.
+
+Jessica toggled the passive effect of her Primary and began sprinting through the air towards the Lords’ treasure vaults, quieter than a mouse and difficult for the eye to pin down.
+
+There would be no better time to make it big than right now.
+
+Just as she’d guessed, there wasn’t a single guard on the vault, only a couple other perceptive opportunists like her: A man and a woman wearing civilian clothes.
+
+She met their eyes and they reached a silent understanding: There was more than enough in Marksman’s vault for everyone.
+
+The vault’s security seemed to have died with its owner, and the heavy door which was normally held shut by the very laws of the Tower itself had spilled open like any other ruin of The Tower.
+
+As if this place was just another abandoned relic of the past waiting to be looted by Climbers. It just didn’t know it yet.
+
+Inside the vault was a vast warehouse that seemed to stretch forever, the dim light failing to shed light in the corners as the rows and rows of shelves of Relics and pallets of salt and other raw resources receded into the distance.
+
+Jessica was drawn towards a shelf with a ring display of some fifty or so rings. Each and every single ring laying on that cushioned velvet could probably feed her family for a lifetime. Possibly generations, if one played their hand right.
+
+As she was reaching out, a hand caught her own.
+
+“Take them if you want, but be aware, the Exchange Hall has detailed records about who owns these. In the worst case scenario they’ll trace it back to you.” the man whispered.
+
+Jessica nodded.
+
+Smuggler’s Hideaway.
+
+166 Charges remaining.
+
+She took the display anyway.
+
+“Thanks for the heads-up.” she whispered back before grabbing a few more Relic displays along with nearly two dozen pallets of salt. A caravan’s-worth.
+
+132 Charges remaining.
+
+Now that they’d given her a chance to think about it, it wasn’t good to be fixated on just the Relics. The salt, while it wasn’t nearly as valuable as Relics, because it was an undifferentiated commodity, that meant it was much, much easier to turn into cash without anyone asking any difficult questions.
+
+When she glanced back up from storing the last pallet of salt, she spotted the man and woman staring, frozen in place as they were stuffing valuables into their clothes.
+
+“Ahem,” The woman cleared her throat and stood up straight, adjusting the gold bars tucked inside her gaudy bodice. “You have a Dimensional Storage?”
+
+“Yes?” Jessica said.
+
+“What’s your Class?” The man asked.
+
+“What’s it to you?” Jessica shot back.
+
+The two glanced at each other.
+
+“Do you have any idea who you’ll sell all that loot to?” The woman asked.
+
+Jessica paused, drawing a blank. She didn’t, actually.
+
+“Come with us, we’ll introduce you to a guy.” The man interjected. He had curved blades at his waist. His hands rested on his belt, inches away from the handles, but he didn’t appear tense.
+
+“What do you want?” Jessica asked, squinting at the knaves.
+
+“Can’t we help a girl out?” The woman replied with faux innocence.
+
+“Five percent.” The man said. He held up a forestalling hand. “Before you try to haggle me down, the normal commission for introducing you to a fence is twenty-five percent or more. You’re already getting the ‘friends and family’ discount because you seem like a promising kid.”
+
+“That I believe.” Jessica said, nodding.
+
+It was true, she didn’t know how to turn all this into money and get away with it. Going along with these people would probably be a learning experience, one way or another.
+
+“Deal.”
+
+As they were looting the back shelves, a dripping and sizzling sound caught Jessica’s enhanced hearing.
+
+She caught her fellow looter’s attention and pointed towards the dark corner of the vault.
+
+In the darkness, a cherry-red glow began to move. As it came closer, Jessica could make out a flammenwulf padding towards them, the drool from its mouth burning into the stone floor.
+
+“The Abyss is that doing here?” Jessica demanded. Flammenwulves were a third Floor creature.
+
+“Maybe Marksman kept it as a guard dog?” her accomplice hazarded a guess as he lopped the ash-colored wolf’s head off. “In any case, it’s beyond time we left.”
+
+Jessica nodded and the three of them escaped, with literal tons of Relics, gold, and salt, thankfully able to avoid any further conflict.
