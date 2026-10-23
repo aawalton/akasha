@@ -1,0 +1,131 @@
+It was Ronan’s third time using the Chronos Forge, and this time he was slightly less excited as he had been the first two times. Not because the skill he was creating was any less powerful or useful than the first two, but mainly because it wasn’t a skill that would immediately give him a major power-up. It wouldn’t be flashy, either.
+
+However, utility skills such as the one he planned on alloying had their place in his repertoire, and they were just as important as his combat skills. Even more so, perhaps.
+
+He stepped inside, not quite sure of all the skills he wanted to use but certain of the major ones. Ronan hoped he wouldn’t have to burn too many of his other skills to use as fuel.
+
+[Chronos Forge]
+
+Fuel: 22%
+
+[Recycle]
+
+[Forge]
+
+[Temper]
+
+[Alloy]
+
+He needed to look through his status before he began, but he was fairly sure which skills he wanted to use. He opened the alloy menu and began to add them one by one. Mostly this was just to see how much fuel he would need.
+
+Please select the skills you wish to alloy…
+
+You have selected [Crude Crafting (Epic)], [Corrective Crafting (Epic)], [Stingy Crafter (Rare)], [Repair (Uncommon)], [Blueprint Manual (Uncommon)] and [Creative Connection (Common)] for alloying!
+
+Would you like to designate one skill as the foundation of the alloy, or evenly fuse all selected skills?
+
+[Crude Crafting (Epic)] has been designated the foundation of the alloy! [Corrective Crafting (Epic)], [Stingy Crafter (Rare)], [Repair (Uncommon)], [Blueprint Manual (Uncommon)] and [Creative Connection (Common)] have been designated as secondary components!
+
+Alloying these skills requires 69% fuel capacity. Fuel reserves are insufficient to perform this alloying!
+
+While the cost was a decent chunk less than stupendous stats, it was still a lot more than he had in the tank. It was a good thing Ronan had a few skills he didn’t mind losing, or he might have been forced to wait another iteration before alloying this thing. He really didn’t want to spend another iteration farming skills without actually pushing himself.
+
+In fact, he suspected that without some of his recent sorcery practice he would be in a pickle. He had figured out how to use pressure cutter, firestorm, and even the basics of fissure without the skills themselves. He was a little loath to part ways with fissure so soon, but he was sure he could figure out how to increase the size and power of the fissure on his own. Making this crafting skill was worth it.
+
+Please select the skills you wish to recycle…
+
+You have selected [Fissure (Epic)], [Pressure Cutter (Rare)], [Firestorm (Rare)], [Edibility Analysis (Uncommon)] for recycling!
+
+Recycling these skills has granted you 52% fuel capacity!
+
+[Chronos Forge]
+
+Fuel: 74%
+
+[Recycle]
+
+[Forge]
+
+[Temper]
+
+[Alloy]
+
+With that, Ronan had enough fuel to alloy his crafting skill and he didn’t want to waste any more time. He stepped inside the forge and activated it for the third time, preparing to create what would hopefully be the foundation of some overpowered equipment.
+
+Please select the skills you wish to alloy…
+
+You have selected [Crude Crafting (Epic)], [Corrective Crafting (Epic)], [Stingy Crafter (Rare)], [Repair (Uncommon)], [Blueprint Manual (Uncommon)] and [Creative Connection (Common)] for alloying!
+
+Would you like to designate one skill as the foundation of the alloy, or evenly fuse all selected skills?
+
+[Crude Crafting (Epic)] has been designated the foundation of the alloy! [Corrective Crafting (Epic)], [Stingy Crafter (Rare)], [Repair (Uncommon)], [Blueprint Manual (Uncommon)] and [Creative Connection (Common)] have been designated as secondary components!
+
+Alloying these skills requires 69% fuel capacity. You have sufficient fuel reserves to alloy these skills!
+
+Alloying is ready to begin, please enter the forge, Chosen Son of Chronos
+
+The forge lit up, bathing him in a purple glow. Its power was almost physical, and he was ready to receive its baptism as he created something new.
+
+[Crude Crafting (Epic)], [Corrective Crafting (Epic)], [Stingy Crafter (Rare)], [Repair (Uncommon)], [Blueprint Manual (Uncommon)] and [Creative Connection (Common)] have been alloyed to produce a new skill: [Insightful Artificer (Epic)]!
+
+Insightful Artificer (Epic): You have a vast knowledge of materials and are able to select exactly the right ones for the item you wish to create. Even poor quality materials can be turned into a masterpiece by your hand, and often you find uses for materials that others would never have spotted in a dozen lifetimes. Whenever you craft an item, gain a 50% chance to correct the first fault that forms during the crafting process. For up to four successive faults after the first, this same chance is applied, albeit halved for each consecutive fault that appears, provided you corrected the previous fault. Upon failing a correction, this effect can no longer be applied. On the rare occasion your crafting attempts fail, you will be able to recover a portion of the materials used, depending on the severity of the failure. You can repair any item that you have material knowledge of, or that you have created yourself, provided you have sufficient mana. Rare or uniquely created items may require material parts for repair. Each time you create an item, you generate a blueprint of it that can be applied to create a perfect copy of said item, provided you possess the correct materials. Imperfect copies can be made using different materials from the original item, but the blueprint will not be adjusted.
+
+It took Ronan about a minute to fully read through and somewhat understand the description of his new skill. Insightful artificer was everything he had hoped for and more. It combined all the effects of the skills that had gone into its creation, and even removed some of the major drawbacks of those skills.
+
+The biggest surprise of all was the fact that it had remained at epic rarity despite the fact only two of the component skills had been epic. Stupendous stats had downgraded, even with a few epic components. He suspected the difference was in the type of skill and the number of components involved.
+
+Stepping out of the forge, Ronan dismissed all of the notifications that were crowding his vision. He was satisfied with his new crafting skill, but for the time being it would be taking a backseat. In order to learn how to craft he would need to dedicate a lot of time—time which he wasn’t able to devote to that pursuit right now.
+
+Well, he could spend a few iterations learning to craft, but the truth was he didn’t want to. He would much rather take on the nightmare tutorial and fight some strong monsters, in order to see how much he could handle.
+
+Eager to do so, there was only one last thing left for Ronan to do in the Chronos Clan’s ancestral grounds before he began the next iteration. He wanted to enter the Dark Sea to see the difference from last time and extrapolate the data regarding concentrations.
+
+He made his way over to the abyssal pond, staring into its endless depths. He still wasn’t convinced about it calling itself a sea, but who was he to tell an evil-looking body of water what it was? Only insecure pricks tried to dictate whether other people’s identities were valid.
+
+[Dark Sea]
+
+Upon reaching certain milestones in your progression, chosen son of Chronos, you may enter the depths of the Dark Sea to be baptised, and have your heritage concentrated. This process will reset all of your multipliers back to their base values, but will come with a plethora of benefits that grow stronger the greater your concentration is.
+
+Concentration Tier: 0
+
+Progress to next Tier: 0/0.01
+
+Eligible for Baptism: Yes
+
+Baptising now will grant the following:
+
+All multipliers reset to base values
+
++0.045 Chronos Concentration
+
+That’s a big increase, but also a confusing number. Where did the point-zero-zero-five come from? Maybe the credit gain multiplier hit a second threshold or something? It was the best answer he had for the anomalous increase.
+
+Frankly, Ronan wasn’t sure he wanted to do it yet, but the fact of the matter was he was already capped out in one multiplier and he suspected he would soon be limited in some of the others. Was it better to be ahead of the game and unlock them now, before he headed into a new difficulty of tutorial, or to wait until he could obtain the maximum possible concentration.
+
+Realistically he wished he could see how much concentration he needed to get to the second tier. If he could jump up two tiers in one go, he would probably just do it. Unfortunately his clan seemed to be just as stingy as the system in that regard, and refused to offer up that information.
+
+He pondered the decision for a few more minutes. There were a lot of factors to consider, and even a little bit of maths. In the end, Ronan threw all that crap out the window. It was probably a terrible mistake, but he liked to take risks.
+
+And he loved money. More money, more… Yeah, he just wanted to see what the higher tiers of credits were and what he might be able to trade them for.
+
+Are you sure you wish to undergo a baptism? All of your multipliers will be reset to base values, and in exchange you will receive 0.045 Chronos Concentration.
+
+No, I’m not really sure, but I’m going to do it anyway, because I’m a bullheaded motherfucker with a deathwish and an adrenaline addiction. Show me what you got, Dark Sea!
+
+Baptism is prepared, please enter the waters of the Dark Sea to receive your blessing, Chosen Son of Chronos!
+
+Ronan moved into the murky black waters that seemed to stretch into infinity. They were comforting, like returning to the womb. It felt wholly natural.
+
+Minor Blessing of the Dark Sea has activated! This concentration will be 1.1x more potent!
+
+Analysing multipliers!
+
+One multiplier has reached the second limit!
+
+Two multipliers have reached the first limit!
+
+You will earn 0.0495 Chronos Concentration for this baptism!
+
+Baptism initiated!
+
+Prepare to be reborn in the primordial waters of the cosmos!

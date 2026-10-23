@@ -1,0 +1,125 @@
+Ronan stared at the enormous obsidian monolith in front of him. The first time he’d seen the Temporal Obelisk it had inspired him and filled him with awe. It was the first moment that he’d felt somewhat connected to this strange clan that he was apparently a part of. Well, second time if you count the old man obliterating my consciousness… So much for familial love.
+
+Staring at it now, he was still filled with awe, but for a different reason. The obelisk was now about eighteen feet tall, almost three times his height. Given that this was apparently only the second threshold, he wondered just how big it was going to get in future. Was he going to need a telescope just to see the top?
+
+[Temporal Obelisk]
+
+Jack of all trades, master of some IV [Maxed]: The influence of the Chronos Clan is not truly boundless, especially so for a sapling. However, with time and investment, your mastery over everything becomes more persistent through iterations. Maintain 25% more of your progress towards the next mastery tier through each iteration for every tier of this enhancement.
+
+Deep cultivation IV: As a clan which transcends the limits of time and space, the act of cultivation holds a far more significant meaning to those of the Chronos heritage. Maintain 10% more of your progress towards the next cultivation realm for every tier of this enhancement. Cultivation benefits are 25% more effective for every tier of this enhancement. [Cost to reach next tier: 3 Chronos merits]
+
+Brand of the temporal artificer III: Even items forged from the base materials of reality can be iterated. Through the powers of the temporal artificer, items can be branded and will persist through iterations. The number of concurrent brands increases by 1 for every tier of this enhancement. Enhancement will mutate once for every 3 tiers in this enhancement. Branded items will receive a 10% improvement for every tier in this enhancement. [Cost to reach next tier: 2 Chronos merits]
+
+Hard work bears fruit III: The first descendants of the Chronos Clan enjoyed the taste of stat fruits so much that they discovered a way to make that sweet nectar echo through the fabric of time. Retain permanent stats gained by consuming stat fruits. The next tier of this enhancement will allow you to retain 10 points in each stat by consuming stat fruits. [Cost to reach next tier: 3 Chronos merits]
+
+A class of one’s own II: What is a class but a way of specialising one’s skillset, to best defeat one’s enemies? A single life, a single vocation. Those of the Chronos Clan are not so limited. Unlock 1 sub-class slot for every tier in this enhancement. Once a class has been locked to a slot, it cannot be removed, but it can be evolved. [Cost to reach next tier: 13 Chronos merits]
+
+Resourceful I: The system makes the manipulation and acquisition of energy a fixed-sum game. That is not how the multiverse should operate. It is not how it used to operate. Those of the Chronos Clan should not be limited by the system’s paltry resource allowance. Changes the resource quantity formula from [10 x Efficacy x StatValue] to [(10^(1+(ResourcefulTier/10)) x (ResourcefulTier + 1)) x Efficacy x StatValue]. [Cost to reach next tier: 5 Chronos merits]
+
+Accumulate greater accomplishments to unlock further enhancement options…
+
+Ronan cursed. He was one merit shy of being able to afford the next tier in a class of one’s own. He thought that after all he’d earned he might be able to afford it now. It was annoying.
+
+He wanted to go into the next iteration with as many enhancements as possible, to make sure that he benefited from it as much as possible. Not buying anything didn’t sit right with him.
+
+I don’t want to make the same mistake as I did last time. I shouldn’t have bought so many tiers in hard work bears fruit. If I had even one more merit right now I would be able to get the next sub-class. However, that new enhancement is fucking ridiculous. Even one tier would give me a little over double the health points, stamina, and mana for just 5 merits. Ronan made his decision.
+
+You have purchased the permanent enhancement [Resourceful] for 5 chronos merits! Resourceful has increased from Tier N to Tier I
+
+He almost closed the obelisk menu immediately, but something made him pause. He’d glossed over it the first time and sort of ignored it the other times he’d been here, but brand of the temporal artificer would mutate at the next tier. It could be worth seeing just what that meant. It would only cost him 2 more merits.
+
+That would leave him with 5 chronos merits, meaning he would have to earn 8 more merits in the next iteration in order to afford the sub-class. Is it feasible? I can definitely get 2 more for pushing soul cultivation to the eleventh realm. I’m not sure I can get all the way to the twelfth or thirteenth realms in all four paths, though. Maybe with the cultivation talent multiplier increase? He was in a dilemma.
+
+In the end he decided not to. The mutation was probably worth obtaining, but not if it meant delaying the second sub-class for another iteration. He wanted to secure that so he could get started on the nightmare difficulty tutorial.
+
+Ronan moved away from the obelisk, satisfied with his decision but slightly miffed. It couldn’t be helped.
+
+He turned to the left. The Chronos Forge stood there in all its twisted glory, four obsidian spires that rose from the infinite white void and turned against one another to form the forge’s body. There was one more thing left to do before he began his next iteration. Well, two, technically, but it was the same process for both.
+
+[Chronos Forge]
+
+Fuel: 0%
+
+[Recycle]
+
+[Forge]
+
+[Temper]
+
+[Alloy]
+
+There was no need to hesitate. Ronan knew exactly what he was going to do first. Before that, he needed to check how much it would cost him.
+
+Please select the skills you wish to alloy…
+
+You have selected [Mighty Strength (Epic)], [Limitless Luck (Rare)], [Voracious Vitality (Rare)], [Resonant Regeneration (Rare)], [Ductile Dexterity (Rare)], [Enhanced Acuity (Rare)], [Unlimited Tenacity (Rare)], [Potent Wisdom (Rare)], [Quintessential Charisma (Rare)], [Accumulating Agility (Rare)], [Rampant Resistance (Rare)], [Intuitive Intelligence (Rare)] and [Excessive Endurance (Common)] for alloying!
+
+Would you like to designate one skill as the foundation of the alloy, or evenly fuse all selected skills?
+
+You have chosen to evenly fuse all selected skills!
+
+Alloying these skills requires 78% fuel capacity. Fuel reserves are insufficient to perform this alloying!
+
+Ronan baulked at the cost. That seemed like it would be expensive as hell in terms of the skills or traits he would have to give up in order to fuel the forge. However, he was determined to follow through, as he truly believed that whatever skill he created through this would be far superior to the components used to alloy it.
+
+Please select the skills you wish to recycle…
+
+You have selected [Dust Bomb (Uncommon)], [Gust (Uncommon)], [Exceptional Palate (Uncommon)], [Conjure Weapon (Uncommon)], [Fertility Sight (Uncommon)], [Quick Forage (Common)], [Negotiation (Common)] and [Fast Grow (Common)] for recycling!
+
+Recycling these skills has granted you 67% fuel capacity!
+
+[Chronos Forge]
+
+Fuel: 67%
+
+[Recycle]
+
+[Forge]
+
+[Temper]
+
+[Alloy]
+
+Ronan wanted to slap something. He had gotten rid of all the skills that were either functionally useless to him or he could already cast with sorcery and therefore no longer required as an actual skill, but he was still lacking the required fuel to alloy the stat-boosting skills. Alloying a better crafting skill on top of the stat-boosting skill before the next iteration seemed like a pipe dream by then.
+
+That meant he would need to give up something that he had a use for. There were some skills and traits that he used, but not that often. They would be good candidates. He pulled up his status again to see what he could do.
+
+After a few seconds of thinking and staring at the floating message, Ronan had a realisation. Manasynthetic had been a useful trait, allowing him to eat and drink less while also absorbing some small amount of mana from the spells of his opponents. However, his new trait MTP mitochondrial shift was basically the same thing with some small tweaks. And it was a higher rating.
+
+In fact, the more he looked at the two traits the more he thought that the higher rated one was actually worse. It was tough, because technically they did different things on a cellular level, and the wording was quite vague in regards to how it actually affected his body. After considering both options, he realised he would actually rather keep manasynthetic.
+
+Not only did it have the same mana-to-energy function as the higher-rated of the two skills, it also allowed him to absorb spells as mana. MTP mitochondrial shift couldn’t do that, and that meant that despite its higher rarity, he was going to recycle it. The silver lining of dropping the ‘better’ trait was that it should definitely give him enough fuel to get the alloying done.
+
+Please select the traits you wish to recycle…
+
+You have selected [MTP Mitochondrial Shift (Epic)] for recycling!
+
+Recycling this trait has granted you 38% fuel capacity!
+
+[Chronos Forge]
+
+Fuel: 100%
+
+[Recycle]
+
+[Forge]
+
+[Temper]
+
+[Alloy]
+
+You’re fucking kidding me! All that worrying about not having enough fuel and you’ve just cost me fuel. Ronan put on the brakes before he lost his shit. It was only a couple of percentage points. He had enough to do the stat-boosting skill for sure and he would try to acquire some trash skills in his next iteration to get the crafting skill made as well.
+
+Please select the skills you wish to alloy…
+
+You have selected [Mighty Strength (Epic)], [Limitless Luck (Rare)], [Voracious Vitality (Rare)], [Resonant Regeneration (Rare)], [Ductile Dexterity (Rare)], [Enhanced Acuity (Rare)], [Unlimited Tenacity (Rare)], [Potent Wisdom (Rare)], [Quintessential Charisma (Rare)], [Accumulating Agility (Rare)], [Rampant Resistance (Rare)], [Intuitive Intelligence (Rare)] and [Excessive Endurance (Common)] for alloying!
+
+Would you like to designate one skill as the foundation of the alloy, or evenly fuse all selected skills?
+
+You have chosen to evenly fuse all selected skills!
+
+Alloying these skills requires 78% fuel capacity. You have sufficient fuel reserves to alloy these skills!
+
+Alloying is ready to begin, please enter the forge, Chosen Son of Chronos
+
+His excitement was palpable. Ronan couldn’t wait to see what he would create. This was something he’d been waiting for ever since he received that first stat-boosting skill. It was time to begin his second alloying. Ronan stepped into the forge and this time he was prepared for when it lit up with power and bathed him in purple energy.

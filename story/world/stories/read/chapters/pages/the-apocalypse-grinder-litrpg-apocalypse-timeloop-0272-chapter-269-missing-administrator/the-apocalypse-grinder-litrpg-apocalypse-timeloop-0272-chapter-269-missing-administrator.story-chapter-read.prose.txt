@@ -1,0 +1,107 @@
+Doctor Valen stared blankly at Ronan. “I’m a doctor, not a technician. Would I be here if I was one of these poor maintenance workers?”
+
+He nodded and hummed. “That makes sense. We might be screwed. I’ll have a look at the big screen and see what it says first. Maybe it’s an intuitive operating system.”
+
+He approached the pedestal he’d seen earlier. The one with three slots for keycards to go inside. Ronan opened his inventory and took security key 2 out, slotting it into the middle hole. There was a whirring sound and it sealed itself into the slot.
+
+Once that was done he looked up at the screen. It was pretty confusing at first as it consisted of just lines of text and a few geometric buttons at the bottom in the shape of a triangle, a square, and a circle, but he soon figured out the basics.
+
+All Security Keys have been inserted, system operations have been unlocked
+
+Outer Bunker Gate Seal Deactivation Operation has been initiated
+
+All Security Keys must be removed for Operation to begin
+
+Security Keys have been removed, Outer Bunker Gate Seal Deactivation is in progress
+
+Outer Bunker Gate Seal Deactivation will be completed in 4 hours
+
+Outer Bunker Gate Seal Deactivation will be completed in 3 hours
+
+Outer Bunker Gate Seal Deactivation will be completed in 2 hours
+
+Outer Bunker Gate Seal Deactivation will be completed in 1 hour
+
+Security Key #2 has been inserted, please insert the remaining Security Keys to unlock full system operations
+
+Ronan stared at the three buttons at the bottom of the screen. He was tempted to press them and see what happened, but that was too risky. For all he knew one of them would skip the remaining time left and immediately unseal the outer gate.
+
+“We have just under an hour at best. At worst, we might have minutes until the outer gate is unsealed.” The doctor’s expression turned grim at his words. The screen wasn’t specific about when the one hour warning had been given.
+
+“Did none of the bodystealers you killed have the other keys on them?” The doctor’s innocent question made Ronan slap himself on the forehead.
+
+“You’re right.” He immediately pulled up the kill notifications, skipping to the part which listed the item drops from the various gorzerk. Lo and behold, there was another security key listed amongst them. But only one.
+
+He pulled it out and pushed it into the third slot.
+
+Security Key #3 has been inserted, please insert the remaining Security Keys to unlock full system operations
+
+“What about the other one?” The doctor’s voice was higher-pitched than usual. She was terrified.
+
+“There was only one from these bastards. The last one must be hiding somewhere. Is there another important department in the bunker that they might have infiltrated? Maybe one of their leaders took the key for safekeeping?” While he was talking Ronan’s gaze wandered down his inventory. He narrowed his eyes when he spotted a familiar item. “Hold on.”
+
+He took the item out and held it up between two fingers, inspecting it with the system. He wanted to curse himself. “I’m an idiot. I must have received this when we dealt with the ones in the med-bay.”
+
+The doctor slapped him on the arm. “How could you not notice something so important!? Quick, put it in the machine and turn the damned thing off before we all freeze to death.” He did as she instructed, slotting the key into the first slot of the pedestal.
+
+All Security Keys have been inserted, system operations have been unlocked
+
+The moment the machine noted that on the screen, two more buttons appeared at the bottom, one on either side of the original three shapes. One was the shape of a water droplet, while the other was designed like the rook in a chess set.
+
+Ronan walked up to the screen and tapped on the rook symbol. He was guessing it was a stand-in for the gate systems.
+
+Bunker Gate Operations cannot be accessed while the current operation is in progress, please cancel the current operation or wait for it to complete before initiating a new operation
+
+“That’s what I’m trying to do, you stupid piece of crap!” Ronan almost kicked the screen in his annoyance. He held back, knowing that was just as likely to cause something equally annoying or dangerous to happen.
+
+“Maybe it responds to verbal commands?” The doctor suggested.
+
+“System, please cancel the Outer Bunker Gate Seal Deactivation Operation,” Ronan intoned.
+
+Outer Bunker Gate Seal Deactivation cannot be cancelled, administrator security override is in place. Please insert an administrator key to cancel this operation
+
+“Administrator key? What the fuck is that, you brainless tin can?” Ronan roared and kicked the pedestal, leaving a small dent. The screen flickered briefly but then went back to displaying the previous text.
+
+The doctor coughed. Ronan looked up and saw that she was standing between him and the screen, pointing at the other side of the pedestal. “Perhaps it means whatever goes in here?”
+
+Ronan walked around the pedestal to join her and looked down to see that on the back side there was a single, larger slot. “What’s the point of having three separate keys for security, clearly to prevent one person from sabotaging or fucking up the system, when any old bastard with this administrator key can do just that?” He groaned.
+
+The doctor shrugged. “Don’t look at me. I wasn’t even born when they built this place. Who knows what the original creators were thinking.”
+
+Yeah, more like the bastard tutorial wants to make everything a real, bloody nightmare. After some more internal grumbling he finally decided there was no use standing around complaining. They needed to do something about this problem, fast.
+
+“Right, get outside, spread the word to everyone you see. We have no time at all to find out who has an administrator key. We need someone to come here and stop the unsealing sequence or… Well, we all freeze to death.”
+
+He started marching towards the door. After spluttering a few unintelligible words, the doctor followed after him.
+
+“What do you mean the administrator key isn’t a real thing? The damned system literally told us to put one inside if we wanted to cancel the unsealing of the fucking outer gate that will condemn everyone to a painful frozen death!” Ronan turned and clenched his fists so he didn’t slap the idiot who’d just told him that the administrator key didn’t exist.
+
+The slot was literally there in the back of the pedestal. Why would it be there if the key wasn’t a real thing? Why would the system tell him it needed said key to stop the unsealing operation if the key wasn’t a real thing?
+
+As it turned out, there were only two members of the maintenance team that hadn’t been replaced by shapeshifters. Both of them had been at home that day and Ronan had just finished talking with the second. They had both given him the same useless answer and he was at his wits’ end.
+
+How am I supposed to complete this stage of the tutorial? Was I always meant to kill the shapeshifters at any cost. Is that the lesson the system is trying to impart? That the lives of the weak and innocent matter little in the face of strength? How is that beneficial? What does it gain from forcing people into meaningless conflicts simply to gain a few more numbers or lines of text on their status? He was spiralling. He had always doubted the system from the first time he was thrown into the tutorial, but never before had he felt that it wasn’t just confusing, but outright sadistic.
+
+“I’m telling the truth, man. I’ve never heard of an administrator key. We always thought that the extra card slot was just a design feature. It isn’t connected to anything. Are you sure you used the real security keys? It should have let you cancel the deactivation.” The technician’s face was pale and he talked faster than Ronan could follow.
+
+“Yes, I did all of that. I think we’re fucked.” As if to punctuate his statement, a blaring whine rang out across the entire bunker. Ronan stepped outside of the building he was currently in and realised it was coming from the gate.
+
+The technician stepped out after and fell to his knees. “How did this happen? Why did those bodystealers do this? Wouldn’t they die in the nuclear winter, too?”
+
+Ronan didn’t have time for the man’s wailing. “Is there any other way to stop the gate from unsealing? Can we do it directly at the gate?”
+
+The technician’s face scrunched up as he considered the question. “Possibly? I don’t think any of us have been to the outer gate for a while. The manuals said to avoid it where possible and only do check-ups every half a decade. It would be suicide to go there now with the unsealing in process.”
+
+“I’m going to die either way, mate. I might as well die trying to fix this.” Ronan left the technician to his sorrows as he decided to try his luck.
+
+Well, shit. Looks like I’ve failed. This was the worst tutorial stage, ever, system. Fuck you and fuck this tutorial. Fuck the shapeshifters. Fuck all of this. Give me more frost giants next time. The first screams filled the air, providing an accompaniment to the whining alarm.
+
+He considered what to do next. The inner gate was still sealed. He’d killed most of the shapeshifters who had infiltrated the security and maintenance teams, which meant they would do their best to keep it sealed. However, the inner gate was nowhere near as powerful as the outer gate. It would not hold forever.
+
+Ronan made his way towards the gate. Doctor Valen was no longer with him at that point, having rushed off to try and find the administrator key, just as he had. They’d split up to cover more ground, for all the good it had done them.
+
+Ronan arrived at the gate and found a group of guards having a panicked discussion. He overheard snippets as he approached, but most of it was useless fearmongering. Only Jocelyn seemed relatively unbothered.
+
+“Maybe the winter has passed. It has been what, fifty years or so since the first generation came down into the bunkers? Maybe the gate will open and reveal a paradise waiting for us to claim it.” She laughed loudly, but Ronan saw the fear in her eyes. The joke was a mask. “Davy, what are you doing here? I thought you went to the med-bay?”
+
+Ronan nodded grimly. “I was. A lot of stuff happened since then. Basically, to cut a long story short, me and Doctor Valen killed most of the shapeshifters, but we discovered that they set the outer gate to unseal and it can’t be stopped. So, I’m going to head out there and try to do it manually. Where’s the airlock?”

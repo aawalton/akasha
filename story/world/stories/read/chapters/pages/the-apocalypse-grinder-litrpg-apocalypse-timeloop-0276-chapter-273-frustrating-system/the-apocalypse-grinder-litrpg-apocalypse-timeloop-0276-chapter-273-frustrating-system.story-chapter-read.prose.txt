@@ -1,0 +1,59 @@
+There’s also the problem of not knowing what class skill evolutions do before I pick one of the two choices. If I knew what exactly ‘Frozen Sorcerer’s Insight’ provided or restricted this might be an easier decision. Another instance of the system’s information blackout being an extreme hindrance.
+
+Ronan thought about his current combat style and what he was aiming for. The truth was, he didn’t exactly have a glaring need for any particular elemental or other ‘attuned’ school of magic. Firestorm, fissure, pressure cutter, and other spells that relied on mana being attuned—as he had only just discovered—were potent, but he’d never struggled to kill his foes with his standard suite of weapons, mana bolts and rainbow bombs, and a healthy dose of stubborn determination.
+
+It’s also possible that the pure mana pathway opens up again in the future. I might obtain a class evolution that unrestricts the use of other attunements. The extra stats an epic class provides will stack up nicely over a hundred levels or more, too. As much as it was always a dream to throw fireballs at monsters, the truth is mana bolt and rainbow bomb basically cover all my bases when it comes to magical damage. Becoming better at pure mana manipulation might have the side effect of empowering my conjured weapons, too, so that’s something to look forward to. I don’t love this choice, but I think it’s the lesser of two evils. Ronan had convinced himself to take the epic class, but there was one more thing he wanted to try before locking in a suboptimal choice.
+
+System, or heritage, or whatever is controlling this evolution, can I just reject it? Or delay it until I get an evolution I want? For a brief moment there was silence. Ronan believed he would be left in the dark again. Then a purple window bordered with gold appeared—the mark of his heritage.
+
+You cannot begin a new iteration until you have chosen a class evolution for [Sub-Class 1]!
+
+If he had a physical body he would have sighed. That was a disappointing, yet somewhat expected, outcome. In the end, the system wasn’t that kind. His heritage was powerful enough to overcome the limitations of the system, but clearly it still had to stick to some of the rules. Which meant he would have to take the lesser of two evils.
+
+You have selected [Sorceric Bastion of Purity (Epic)] as your class evolution!
+
+Initiating class infusion…
+
+There was very little pain. In fact all Ronan experienced was a slight tingle in his heart. Evolutions tended to be less of a fuss than the initial class infusions.
+
+Infusion complete!
+
+Your class has evolved from [Sorcerer (Uncommon)] to [Sorceric Bastion of Purity (Epic)]!
+
+Class skill [Internal Mana Manipulation (Uncommon)] has evolved into [Noble Mana Heart (Epic)]!
+
+Noble Mana Heart (Epic): Your mana heart has experienced the terror of being corroded by a foreign affinity and fought its way out. Rejecting the very notion of ever having your mana corrupted, your mana heart takes on a noble bearing. Your mana is more resistant to corrosive attunement by foreign mana sources. Your mana will always be pure. Spells and skills that use pure mana will be minutely stronger due to your noble mana.
+
+Class skill [Sorcerer’s Insight (Uncommon)] has evolved into [Sorceric Enlightenment of Purity (Epic)]!
+
+Sorceric Enlightenment of Purity (Epic): Sorcerer is a term used to describe mages who have learned to break free of the system’s constraints, and cast magic using only their own mana and intellect. As such, they have developed a certain level of insight into the workings of magic, and can mentally deconstruct spells they witness, and natural magical phenomena. This is dependent on their knowledge, intelligence, and stats. Having received an enlightenment, you now follow the path of purity, rejecting foreign attunement beyond the base purity of mana. You can no longer replicate spells that require non-pure mana, but your insight into the workings and function of pure mana and spells that involve it is drastically increased.
+
+If he was being honest Ronan was pissed that he had been forced into the evolution. Knowing that he could acquire affinities through events such as the nuclear winter that had torn him apart was a crucial piece of information for him to have acquired. In an ideal world he would have spent some time gaining more affinities to see if a more generalist or higher rarity evolution presented itself.
+
+Unfortunately the system seemed to force progression, even if it wasn’t the best path forward. Still, Ronan wasn’t devoid of hope. His cold affinity skill remained, even if his sub-class conflicted with it slightly. It meant he could acquire more affinities, and potentially brute force another sorcerer evolution that would open up his spellcasting options once more.
+
+For now, he would be satisfied with the increased stat gain the new epic sub-class provided, as well as the boost his mana bolts and rainbow bombs would receive from Noble Mana Heart.
+
+Ronan wouldn’t be alloying or forging any new skills this time around, and there was nothing to be gained from the Dark Sea. He decided to check out the Temporal Obelisk, given that he had 6 chronos merits saved up.
+
+[Temporal Obelisk]
+
+Jack of all trades, master of some IV [Maxed]: The influence of the Chronos Clan is not truly boundless, especially so for a sapling. However, with time and investment, your mastery over everything becomes more persistent through iterations. Maintain 25% more of your progress towards the next mastery tier through each iteration for every tier of this enhancement.
+
+Deep cultivation IV: As a clan which transcends the limits of time and space, the act of cultivation holds a far more significant meaning to those of the Chronos heritage. Maintain 10% more of your progress towards the next cultivation realm for every tier of this enhancement. Cultivation benefits are 25% more effective for every tier of this enhancement. [Cost to reach next tier: 3 Chronos merits]
+
+Brand of the temporal artificer IV: Even items forged from the base materials of reality can be iterated. Through the powers of the temporal artificer, items can be branded and will persist through iterations. The number of concurrent brands increases by 1 for every tier of this enhancement. Enhancement will mutate once for every 3 tiers in this enhancement. Branded items receive a 50% base enhancement. Branded items will receive a 10% improvement for every tier in this enhancement. Branded items do not fill a gear slot when equipped. [Cost to reach next tier: 3 Chronos merits]
+
+Hard work bears fruit III: The first descendants of the Chronos Clan enjoyed the taste of stat fruits so much that they discovered a way to make that sweet nectar echo through the fabric of time. Retain permanent stats gained by consuming stat fruits. The next tier of this enhancement will allow you to retain 10 points in each stat by consuming stat fruits. [Cost to reach next tier: 3 Chronos merits]
+
+A class of one’s own III: What is a class but a way of specialising one’s skillset, to best defeat one’s enemies? A single life, a single vocation. Those of the Chronos Clan are not so limited. Unlock 1 sub-class slot for every tier in this enhancement. Once a class has been locked to a slot, it cannot be removed, but it can be evolved. [Cost to reach next tier: 34 Chronos merits]
+
+Resourceful III: The system makes the manipulation and acquisition of energy a fixed-sum game. That is not how the multiverse should operate. It is not how it used to operate. Those of the Chronos Clan should not be limited by the system’s paltry resource allowance. Changes the resource quantity formula from [10 x Efficacy x StatValue] to [(10^(1+(ResourcefulTier/10)) x (ResourcefulTier + 1)) x Efficacy x StatValue]. [Cost to reach next tier: 10 Chronos merits]
+
+Accumulate greater accomplishments to unlock further enhancement options…
+
+Right now he could afford another tier from two enhancements, choosing from Deep Cultivation, Brand of the Temporal Artificer, or Hard Work Bears Fruit. He wasn’t sure he wanted to. None of them were particularly potent. He hadn’t even reached the stat cap for most fruits yet, and he still had a free brand from the last upgrade. Deep cultivation was beneficial, but the diminishing stacking effect meant each new tier was slightly less potent than the last. Ultimately, Ronan would be better served saving his merits for something better, like Resourceful or the next sub-class.
+
+There was nothing else on his agenda, which meant it was time to begin the next iteration. Ronan wondered if continually challenging the nightmare tutorial was truly the best use of his ability. It has been a little slow. Then again, my multipliers soared up. This next iteration will be a lot smoother. His mind made up, it was time to take on iteration 56.
+
+Beginning a new iteration, please stand by…

@@ -1,0 +1,305 @@
+[Mighty Strength (Epic)], [Limitless Luck (Rare)], [Voracious Vitality (Rare)], [Resonant Regeneration (Rare)], [Ductile Dexterity (Rare)], [Enhanced Acuity (Rare)], [Unlimited Tenacity (Rare)], [Potent Wisdom (Rare)], [Quintessential Charisma (Rare)], [Accumulating Agility (Rare)], [Rampant Resistance (Rare)], [Intuitive Intelligence (Rare)] and [Excessive Endurance (Common)] have been alloyed to produce a new skill: [Stupendous Stats (Rare)]!
+
+Stupendous Stats (Rare): Gain +1 to all stats for every 10 points of any stat you possess. Does not include stat bonuses.
+
+At first Ronan thought he’d been scammed, again. However, he read through the description of his new skill—which had a fantastic name—and realised that while the bonus threshold had increased, it was still a massive upgrade overall.
+
+It took 10 points of a stat to earn the bonus point, which was in line with the uncommon stat-boosting skills and not the rare ones, but for every 10 points in each of his stats, every single one of his stats would get a plus one. That was a massive upgrade, and exactly what he’d been hoping for with this alloying.
+
+[Chronos Forge]
+
+Fuel: 22%
+
+[Recycle]
+
+[Forge]
+
+[Temper]
+
+[Alloy]
+
+While there was still some fuel in the tank, Ronan knew for sure it wouldn’t be enough to get his crafting skill made. With at least one epic skill as the base, it would for sure cost more than surging strikes had done.
+
+He exited the forge, feeling incredible. Like he could take on that entire alien prison without breaking a sweat.
+
+He almost definitely couldn’t, but until he got to that point again he wouldn’t know for sure. He’d get further than last time, at the very least.
+
+I’m tempted to try the nightmare difficulty right away, but something tells me it will be a whole new level of pain than the previous tutorials. At the very least I want to get my second sub-class slot and see what the concentration does, if the numbers make it seem worthwhile.
+
+That meant there was only one path ahead of him if he wanted to earn enough merits to buy that sub-class slot. It was time to head back to the Path of the Gladiator, which meant taking on the harder difficulty tutorial.
+
+Beginning a new iteration, please stand by…
+
+Ronan stood at the beginning of another iteration, listening as the system droned on. He was curious about what his base stats would be, and so he actually focused when his status appeared this time around.
+
+Name: Ronan Steele
+
+Race: Human (F)
+
+Heritage: Reverberating Chronosphere (Current Iteration: 51) +
+
+Level: 0
+
+Class: None
+
+Sub-Class 1: Sorcerer (Uncommon)
+
+Fortune: None
+
+[Stats] +
+
+Health: 2509/2509
+
+Stamina: 3098/3098
+
+Mana: 1886/1886
+
+Vitality: 17.28 (+30)
+
+Endurance: 29.8 (+30)
+
+Wisdom: 5.54 (+30)
+
+Regeneration: 4.14 (+30)
+
+Resistance: 18.35 (+30)
+
+Strength: 46.04 (+30)
+
+Agility: 52.46 (+30)
+
+Intelligence: 13 (+30)
+
+Dexterity: 47.93 (+30)
+
+Acuity: 17 (+30)
+
+Tenacity: 47.98 (+30)
+
+Luck: 4 (+30)
+
+Charisma: 8.64 (+30)
+
+Available Points: 0
+
+[Traits]
+
+[Legendary]
+
+Fate Alignment (Personal)
+
+[Epic]
+
+Luminous Nerves (Mutative), Luck is a Skill (Meta), Dual Mind (Mutative)
+
+[Rare]
+
+Mineral Skeleton (Mutative), Berserk Cultivation Body (Mutative), Animal Prescience (Evolutionary), Manasynthetic (Evolutionary), Shard Reprocessor (Mutative)
+
+[Skills]
+
+[Universal]
+
+Unified Language Adaptation
+
+[Epic]
+
+Reverberating Path (Blessing), Surging Strikes, Ethereal Slash, Weapons Expert - Ranged, Enchant - Explosion, Artful Accumulation, Blade Maestro, Crude Crafting
+
+[Rare]
+
+Learn Through Suffering (Cla5?), Light Manipulation, Arcane Piercing Strike, Cure Affliction, Pressure Cutter, Stupendous Stats
+
+[Uncommon]
+
+Critical Tempo, Treasure Hunter, Relentless Training, Weapons Expert - Melee, Counter-Parry, Suture Wound, Stone Grip, Flash Fear, Calculation, Repair, Critical Experience, Conversion Cultivation, Dispel, Magic Strike, Lightning Strike, Summon Insect, Blueprint Manual
+
+[Common]
+
+Vital Surge, Magic Money, Eagle Eye, Freeloader, Creative Connection, Idle Cultivation
+
+[Mastery]
+
+Pugilist II 3/100, Mana V 37/100, Sword IV 11/100, Shield I 1/100, Staff II 1/100, Spear III 41/100, Stamina V 19/100, Pain III 21/100, Anti-Magic 8/100, Perception II 4/100, Leadership 1/100, Stealth 1/100, Grappling 7/100, Club I 2/100, Critical I 26/100, Momentum II 1/100, Health IV 7/100, Breath 6/100, Meditation 1/100, Mace III 3/100, Crafting 1/100, Dagger I 10/100, Throwing Knife 1/100, Sickle 1/100, Knuckleduster 3/100, Pan 1/100, Hammer I 2/100, Bow I 51/100, Enchant 9/100
+
+[Cultivation]
+
+Mind: Agate ★★★★★★ (17.9%) [Seven Silent Clarities (Legendary) 4.7%]
+
+Body: Copper ★★★★★★ (2.6%) [Diamondback Gorilla (Rare), 51.2%]
+
+Energy: Pulsing ★★★★★★ (11.3%) [Nine Mouths Delta (Uncommon), 100%]
+
+Soul: Orange ★★★★★ (6.1%)
+
+[Blessings]
+
+Blessing of Chronos (Boundless), Minor Blessing of the Temporal Obelisk (Unique), Tellen Mark of the Guardian Initiate (Epic), Minor Blessing of the Chronos Forge (Unique), Minor Blessing of the Dark Sea (Unique)
+
+[Mutations]
+
++129% Mental resistance, +49% Magical damage resistance, +296% Physical damage resistance, +209% Toxicant resistance, +48% Exsanguination resistance, +69.57% Energy absorption efficiency, +217.49% All-Damage resistance, +1.2% Soul damage resistance, +32.8% Wind resistance
+
+It was fearsome, to say the least. Resourceful had been well worth the merits it cost. A lot of the increased resource counts came from his cultivation and his masteries, but the enhancement had slightly more than doubled the resources on top of that. There were some small differences between the three, but he was now getting just under 60 points of health, stamina, or mana per stat point.
+
+Compared to the 10 he had been getting in his first life, it was a huge increase. His base stats were utterly formidable, too. Not to mention the newly alloyed stupendous stats that was giving him a hefty bonus across the board. Ronan felt great about his growth.
+
+He was just missing a cultivation art for the soul. Perhaps some luck and another dao child run leaning on the scales might help him out this time around. Or he could just ask his sponsor.
+
+Wait, if I don’t get one of the princess’ crowns this time around will she still want to sponsor me? Ronan realised he’d forgotten a key detail. Who knows. I might get a flower crown. Maybe the system will help me out. Or I can shop around and see who else wanted to get a piece of the Ronan pie.
+
+He requested to go into the harder difficulty tutorial again. It was the one that he knew for a fact would earn him enough shards at the required level to let him earn the chronos merits he needed for his second sub-class slot. The others would be him taking a risk, and potentially using more iterations than necessary.
+
+Not that he had any time constraints, but he was just a little impatient. He wanted that third class on his status.
+
+When he found himself in the forest, he immediately started moving towards where he knew the goblins would be. There would be no delays on this run.
+
+You have killed [Goblin Rogue Lv.6] and [Goblin Warrior Lv.6]!
+
++5 Bronze Credits
+
++512 Copper Credits
+
++19 [Spear III] Mastery
+
++6 [Stamina V] Mastery
+
++11 [Stealth] Mastery
+
++13 [Perception II] Mastery
+
++5 [Critical I] Mastery
+
++Goblin Toes (Common) x2
+
++Worn Shortsword Lv.6
+
+You have leveled up to Lv.1!
+
+…
+
+You have leveled up to Lv.19!
+
+You have been restored x4!
+
++95 Vitality
+
++95 Endurance
+
++38 Wisdom
+
++38 Intelligence
+
++57 Acuity
+
++114 Free Stat Points
+
+Congratulations, you have cleared Stage 1 of the tutorial!
+
+[Inventory] access has been granted at minimum functionality. Improve inventory metrics by spending system credits or through other approved means. Open inventory through mental, verbal, or spiritual command.
+
++2 Bronze Credits
+
++137 Copper Credits
+
++Myriad Skills Tome (Rare)
+
+Stage 2 begins now!
+
+Ronan burst out laughing once he’d finished reading through the kill notification. Two level 6 enemies had gotten him all the way to level 19 and earned him almost 8 bronze credits. It was ridiculous.
+
+He was going to really enjoy this iteration.
+
+Ronan watched as the blood-stained shortsword in his hand dissipated back into mana. Zagbar the Bloodthirsty lay dead at his feet, defeated for the first time this iteration.
+
+Congratulations, you have cleared Stage 4 of the tutorial!
+
+All basic system functions have been unlocked! Access will be restored once you exit the tutorial.
+
++1 Iron Credit
+
++256 Bronze Credits
+
++864 Copper Credits
+
++Myriad Skills Tome (Rare)
+
++Endless Treasury Token (Legendary)
+
+Stage 5 begins now!
+
+An iron credit already… This credit multiplier is fucking bonkers. Not to mention the levels. I’m at level 61 and I haven’t even finished the last stage of the tutorial! Ronan quickly allocated his stat points while retreating from the centre of the goblin settlement. Ragar’vath was about to cast its soul-sucking magic and he had no desire to be caught in the area of effect.
+
+If not for the extra experience and credits he would get from killing Zagbar a second time, he wouldn’t even bother letting the shaman finish its spell. He was eager to get to the Path of the Gladiator so that he could start cultivating with the shards it offered.
+
+More than that, he was curious to see if he could reach level 200 during his invasion of the Grathen world this time around, and what that might mean in terms of rewards. Perhaps another class or race evolution? The possibilities were endless and he honestly wasn’t able to predict the system yet.
+
+The ominous clouds rose from the settlement. Ronan waited for them to clear before heading back in, making a beeline for the shaman chief’s hut. Halfway there he was accosted by the undead Zagbar. A single thrust empowered with arcane piercing strike was enough to explode the undead goblin’s head.
+
+Ronan gained another level from that, but the fact he outleveled the mini-boss so severely hampered his gains. The shaman chief would be more rewarding.
+
+Ronan stared at the dissolving body of Ragar’vath the Soulstealer. It had taken him just two strikes with his spear to kill the shaman chief. They weren’t even separate strikes—the second had been a result of using surging strikes. Still, the rewards couldn’t be denied.
+
+You have killed [Ragar’vath the Soulstealer - BOSS][Goblin Chief Shaman Lv.60]!
+
++2 Iron Credits
+
++672 Bronze Credits
+
++248 Copper Credits
+
++16 [Stamina V] Mastery
+
++23 [Mana V] Mastery
+
++3 [Health IV] Mastery
+
++27 [Spear III] Mastery
+
++2 [Anti-Magic] Mastery
+
++13 [Perception II] Mastery
+
++Bone Charm Lv.60 (Rare)
+
++Corrupted Soul-Twisting Bone Staff Lv.60 (Epic)
+
++Boss Shard Lv.60 (Energy)
+
++Boss Shard Lv.60 (Soul)
+
+You have leveled up to Lv.63!
+
+You have leveled up to Lv.64!
+
+You have been restored!
+
++10 Vitality
+
++10 Endurance
+
++4 Wisdom
+
++4 Intelligence
+
++6 Acuity
+
++282 Free Stat Points
+
+You have reached the mastery cap for [Spear]!
+
+Spear III has evolved to Spear IV!
+
+Gain mastery over spears and spear-like weapons moderately faster. Gain a 25% chance to restore stamina equal to 65% of a blow when that blow is parried while wielding a spear or spear-like weapon. Successful strikes with spears gain a 30% increased chance to deal a critical hit.
+
+Congratulations, you have cleared Stage 5 of the tutorial!
+
+…
+
+Will you accept the offer to become a Gladiator?
+
+Ronan skimmed through most of the notifications this time. He did have a moment of ‘fuck me’ when he realised that he’d already amassed almost 20 iron credits and he hadn’t even stepped foot in the gladiator staging platform yet. The new multipliers were working overtime.
+
+He still hadn’t unlocked a variant evolution for dao child yet. He suspected there either weren’t any, or they simply had ridiculous requirements that he had yet to meet. While he had felt some subtle suggestions from the three thousand dao, one destiny skill, Ronan hadn’t actually grasped anything concrete through it. Perhaps that was the key.
+
+After spending his stat points he sat down a little ways away from the dissolving corpse of the shaman chief. He hadn’t used any of the rewards from this tutorial run yet, having not needed them in order to progress. He was curious to see what was in store for him—hopefully he could get a cultivation art for the soul.

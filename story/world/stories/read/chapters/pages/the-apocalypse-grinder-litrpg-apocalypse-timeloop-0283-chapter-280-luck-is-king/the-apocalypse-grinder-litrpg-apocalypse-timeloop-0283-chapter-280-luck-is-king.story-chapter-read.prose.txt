@@ -1,0 +1,137 @@
+Ronan was surprised by the pleasant taste of the Serum of Rabid Randomness. There was no specific flavour that he could pick out, but rather a general tingling on his tongue and a blend of tastes that made his tongue say ‘nice’ to his brain. The moment he swallowed the serum he prepared himself, expecting some sort of reaction, but when nothing happened, he grew even more terrified.
+
+After a few more seconds of nothing happening Ronan began to worry that he’d obtained a defunct serum, or that something awful was about to happen. Then the system message appeared in front of him.
+
+[Serum of Rabid Randomness (Epic)] has been consumed!
+
++34 Wisdom
+
++6 Regeneration
+
++12 Intelligence
+
++26 Acuity
+
++4 Charisma
+
+You have received [Mana Affinity (Legendary)]!
+
+Mana Affinity (Legendary)
+
+You are attuned to mana. You are more sensitive to the construction of your own mana and its movements. Skills deriving their power from a pure mana attunement will be more powerful when used by one possessing this affinity. Weapons with pure mana-based enchantments will have more of their power drawn out when used by one possessing this affinity.
+
+Ronan would have been happy with the stats. He wasn’t sure if they were permanent for him. For anyone else with a single life they would be, but he needed to die at least once to find out if they persisted through another iteration. Even so, the stats were just the icing on the cake. He had somehow gained a legendary trait from an epic item.
+
+Not just any legendary trait—pure mana affinity. Something he wasn’t sure even made any sense, but was now a part of his legendary skill lineup. The description was pretty basic, but as far as he could tell it would further empower things like conjured weapons, mana bolts, and even his rainbow bombs. That was fantastic news.
+
+He did wonder if this would strengthen his current sorcerer class even further. That wasn’t necessarily something he desired. Being locked out of anything except pure mana was already a concession he’d made because he was forced to pick an evolution, but he had kept a faint glimmer of hope that he might eventually be able to evolve out of that restriction. This new affinity only made that potential outcome even less probable.
+
+Still, if it made him hit harder he couldn’t exactly complain. If it really does hinder me I can always just recycle it in the Chronos Forge. Always a solution if you take enough time to think about things from every angle. Satisfied with his reward, Ronan looked up from the system messages only to realise that he was no longer standing on the beach where he'd been when he drank the serum.
+
+This time he was standing on the prow of a boat. A very large boat. He turned around to see a huge tower that soared into the stormy skies at the centre of the deck. The other side of the ship looked to be a few kilometres away. An aircraft carrier? I have a really bad feeling about this stage…
+
+His fears were confirmed almost immediately as a tentacle that was bigger than a double decker bus shot from the surface of the water and smashed against the side of the boat, flopping down onto the deck with a wet squelch.
+
+Ronan looked around but didn’t see any sign of humans other than himself on board. Of course, given the size of the colossal ship there was every chance there were hundreds of people on the other side or below deck, but that didn't help much in that moment.
+
+He conjured a sword and swung it through the air, activating Ethereal Slash while swinging. A faintly visible blade of mana tore through the air and slammed into the side of the tentacle, where it vanished. He heard a muted groan from beneath the choppy waves and then the tentacle was snapped back off the ship before falling into the ocean. A large chunk of it was left on the deck where he had severed it.
+
+Ronan already knew what the stage would consist of. He was fighting more mutated sea monsters, except he no longer had the home advantage. Staring out at the choppy waves, he felt a tingle run down his spine. He was a little nervous, but mostly excited.
+
+It promised to be a great fight.
+
+Ten seconds later, right as the boat smashed through a medium-sized wave and sprayed the deck with salty water, three more tentacles burst through and slammed into the hull. A fourth slowly followed, winding its way into the air above the ship and then curling over to point at Ronan.
+
+He didn’t bother waiting to see what it was going to do next. Ronan formed a mana bolt, the spell taking form in his hand in under two seconds, then let it fly at the tentacle. Since taking the upgrade to sorcerer and the newly acquired mana affinity his mana felt like another limb. The tentacle splattered open as the spell struck it, leaving a charred stump that slammed against the deck.
+
+Another groan echoed from beneath the waves and the tentacle slowly rose from where it fell. The others moved with it and soon Ronan was under attack by all four. He fended them off with a conjured blade, eventually carving them all down to stubs. At that point he heard a loud bang on the hull followed by a gigantic bulbous head rearing out of the ocean. An octopus the size of a house stared down at him.
+
+Ronan didn’t waste any time. He started channeling a rainbow bomb as the octopus opened its beak and then fired a huge bone-like needle at him. The sudden attack caught him off guard, being so different to a typical octopus’ behaviour. Even so he was able to roll out of the way. As he came up his rainbow bomb was charged and he tossed it at the oversized cephalopod.
+
+The needle buried itself in the deck of the ship, going about half a metre into the solid metal. Ronan gained a new appreciation for the terrifying octopus a moment before his rainbow bomb struck it directly on its body and tore it to shreds in a colourful explosion.
+
+You have killed [Mutated Octopus Lv.50]!
+
+Enemy killed with a critical hit, 2.8x experience gained!
+
++1 Bronze Credit
+
++358 Copper Credits
+
++8 [Mana VI] Mastery
+
++1 [Stamina VI] Mastery
+
++5 [Sword V] Mastery
+
++2 [Focus] Mastery
+
++8 [Spellcasting] Mastery
+
++Mutated Octopus Beak Lv.50 (Rare)
+
++Mutated Octopus Tentacle Lv.50 (Uncommon)
+
+You have leveled up to Lv.50!
+
+…
+
+You have leveled up to Lv.53!
+
++60 Vitality
+
++60 Endurance
+
++36 Wisdom
+
++16 Regeneration
+
++8 Resistance
+
++36 Intelligence
+
++36 Acuity
+
++80 Charisma
+
++970 Luck
+
++1,332 Free Stat Points
+
+Congratulations for reaching Lv.50!
+
+You have reached the first threshold for your class! Class will evolve…
+
+You have not unlocked any special evolutions due to your achievements
+
+You have not unlocked any special evolutions due to your heritage
+
+You have not unlocked any special evolutions due to your race
+
+You have not unlocked any special evolutions due to alternative methods
+
+Please select a class evolution from the following:
+
+Gambler of Fate (Celestial)
+
+Your existence is an aberration. To achieve the luck and fortune you have at such a stage of life is unfathomable, yet somehow you join the ranks of the fated few. To gamble with the fates themselves is a terrifying proposition, but when your very existence is on the line, the rewards are oh so sweet. How much do you want to bet that this class will prove your undoing?
+
+You cannot assign free stat points to any stat besides luck
+
+Luck efficacy and potency +1750%
+
+All rewards from consumables, as well as all loot drops, are exceptionally more likely to be of a higher quality and quantity than usual
+
+Negative consequences of any kind, arising from bad decisions or wagers by the one who has this class, are exceptionally more devastating and difficult to overcome
+
++900 Luck on level up
+
+Unlock requirements:
+
+Challenger possesses the class [Gambler of Fate (Celestial)]
+
+Unfortunately he only unlocked a bog standard evolution for his celestial class, one that didn’t even increase the rarity. However, he had been expecting that. Jumping right to celestial tier after just obtaining a heavenly class in the form of Blessed Dao Child was already enough of a boon. The minor increases to luck per level and its efficacy and potency were still solid. He took it and went through a relatively painless infusion.
+
+Bonus stats for evolution have been retroactively applied
+
+As soon as he finished doing so, there was another loud groan from beneath the waves. Ronan looked over the side of the ship and saw a group of large shadows swimming next to the ship and underneath the hull. He could already guess what the challenge would be for stage 3, and he was looking forward to a brutal battle for his survival.

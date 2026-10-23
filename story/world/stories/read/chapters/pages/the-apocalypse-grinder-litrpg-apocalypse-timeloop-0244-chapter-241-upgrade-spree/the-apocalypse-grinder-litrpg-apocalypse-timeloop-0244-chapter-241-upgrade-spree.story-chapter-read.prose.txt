@@ -1,0 +1,157 @@
+The great thing about where he’d chosen to start the branch path was that he had not yet had the meeting with the princess. It meant that he could make another specific request of her if he wanted to. He wasn’t sure he had anything particular in mind, though.
+
+Actually…
+
+Ronan felt he had a better idea than getting a bunch of new skills. He decided to ask the princess for more skill upgrade shards, and she was able to comply. However, she did mention that they were fairly rare and she wasn’t sure how many she would be able to give.
+
+After checking, she realised she could give Ronan a total of 13 epic skill upgrade shards, which was far more than he’d expected. It put the total number of shards he had at 23, meaning he might even be able to push stupendous stats up to legendary rarity—something he couldn’t have imagined possible in the first iteration he possessed the newly alloyed skill.
+
+She actually noted that his choice was a good one, as the chance of getting a useful new skill from a tome was pretty low, whereas upgrading an existing skill that one was experienced in using was a direct increase in power. Ronan felt that her logic was sound, though he was sure if she knew the sheer quantity of skills he possessed she might have a heart attack—or whatever the equivalent was for her species.
+
+Skills available for evolution:
+
+Surging Strikes [Cost: 16 Skill Upgrade Shards (Epic)]
+
+Ethereal Slash [Cost: 9 Skill Upgrade Shards (Epic)]
+
+Weapons Expert - Ranged [Cost: 8 Skill Upgrade Shards (Epic)]
+
+Enchant - Explosion [Cost: 8 Skill Upgrade Shards (Epic)]
+
+Artful Accumulation [Cost: 17 Skill Upgrade Shards (Epic)]
+
+Blade Maestro [Cost: 15 Skill Upgrade Shards (Epic)]
+
+Crude Crafting [Cost: 11 Skill Upgrade Shards (Epic)]
+
+Corrective Crafting [Cost: 8 Skill Upgrade Shards (Epic)]
+
+Fissure [Cost: 8 Skill Upgrade Shards (Epic)]
+
+Stupendous Stats [Cost: 20 Skill Upgrade Shards (Epic)]
+
+Arcane Piercing Strike [Cost: 9 Skill Upgrade Shards (Epic)]
+
+It was obvious to Ronan that the higher rarity a skill was, the more expensive it would be to upgrade. That went two-fold, as the shards themselves were more valuable at higher rarities, but also required in higher quantities.
+
+Then again, that might just be because most of his epic skills were particularly powerful ones—either alloyed by the Chronos Forge or specifically acquired through dubious or difficult means. Thankfully, with his 23 epic skill upgrade shards, he would be able to get stupendous stats up another grade.
+
+[Skill Upgrade Shard (Epic)] x20 has been consumed!
+
+[Stupendous Stats (Epic)] is evolving…
+
+[Stupendous Stats (Epic)] has evolved into [Stupendous Stats (Legendary)]!
+
+Stupendous Stats (Legendary): Gain +1 to all stats for every 8 points of any stat you possess. Does not include stat bonuses.
+
+The increase was exactly as he’d expected, but still well worth the investment. With the leftover epic shards he would be able to dismantle them and bring another rare skill to epic. However, when he looked over the list of rare skills that he could upgrade, none of them seemed like a worthy choice.
+
+Instead he turned his attention to his prolific list of uncommon skills. With another dismantling, he had 27 uncommon skill upgrade shards, meaning he could upgrade a couple of them.
+
+Skills available for evolution:
+
+Critical Tempo [Cost: 9 Skill Upgrade Shards (Uncommon)]
+
+Treasure Hunter [Cost: 7 Skill Upgrade Shards (Uncommon)]
+
+Weapons Expert - Melee [Cost: 8 Skill Upgrade Shards (Uncommon)]
+
+Counter-Parry [Cost: 9 Skill Upgrade Shards (Uncommon)]
+
+Suture Wound [Cost: 7 Skill Upgrade Shards (Uncommon)]
+
+Stone Grip [Cost: 5 Skill Upgrade Shards (Uncommon)]
+
+Flash Fear [Cost: 10 Skill Upgrade Shards (Uncommon)]
+
+Calculation [Cost: 6 Skill Upgrade Shards (Uncommon)]
+
+Repair [Cost: 7 Skill Upgrade Shards (Uncommon)]
+
+Critical Experience [Cost: 6 Skill Upgrade Shards (Uncommon)]
+
+Conversion Cultivation [Cost: 11 Skill Upgrade Shards (Uncommon)]
+
+Dispel [Cost: 8 Skill Upgrade Shards (Uncommon)]
+
+Magic Strike [Cost: 7 Skill Upgrade Shards (Uncommon)]
+
+Lightning Strike [Cost: 9 Skill Upgrade Shards (Uncommon)]
+
+Summon Insect [Cost: 7 Skill Upgrade Shards (Uncommon)]
+
+Blueprint Manual [Cost: 8 Skill Upgrade Shards (Uncommon)]
+
+Ronan realised he had never actually used blueprint manual to check what it did. He’d read the description, of course, but that was different to using a skill. He quickly tested it out, thinking it might be related to the blueprints for buildings he’d received for his faction.
+
+It turned out not to be the case. The skill actually saved blueprints for items to be crafted, which could be adjusted by the user. These blueprints, once created, would allow the crafter to perfectly replicate the listed item. The only faults would be caused by those existing in the original blueprint, and caused by the materials being low quality.
+
+That would be an interesting skill to include in his alloyed crafting skill when he made it, and Ronan considered making it one of his candidates to upgrade. There were plenty of other more powerful skills to choose from, though, so it would be a tough decision.
+
+In the end Ronan opted to upgrade some of his most-used and most powerful skills, choosing the others to ensure that he consumed every single one of the skill upgrade shards.
+
+[Skill Upgrade Shard (Uncommon)] x9 has been consumed!
+
+[Critical Tempo (Uncommon)] is evolving…
+
+[Critical Tempo (Uncommon)] has evolved into [Critical Tempo (Rare)]!
+
+Critical Tempo (Rare): The fourth consecutive strike you land on a single target will always be a critical hit. This critical hit will deal 1.5x more damage.
+
+[Skill Upgrade Shard (Uncommon)] x5 has been consumed!
+
+[Critical Experience (Uncommon)] is evolving…
+
+[Critical Experience (Uncommon)] has evolved into [Critical Experience (Rare)]!
+
+Critical Experience (Rare): Gain 2.8x more experience when you kill an enemy with a critical hit.
+
+[Skill Upgrade Shard (Uncommon)] x6 has been consumed!
+
+[Stone Grip (Uncommon)] is evolving…
+
+[Stone Grip (Uncommon)] has evolved into [Stone Grip (Rare)]!
+
+Stone Grip (Rare): Enhances grip strength by 40% for up to 60 seconds. (Cost: 125 Stamina + 2% Max Stamina per second)
+
+[Skill Upgrade Shard (Uncommon)] x7 has been consumed!
+
+[Magic Strike (Uncommon)] is evolving…
+
+[Magic Strike (Uncommon)] has evolved into [Magic Strike (Rare)]!
+
+Magic Strike (Rare): Infuse mana into your strikes to bolster their power and apply extra magical damage as a percentage of the original blow’s physical damage. Magic strikes gain a damage multiplier equal to (1 + (Intelligence x 0.001)). (Cost: 25 Mana + Variable Mana Cost based on power of strike)
+
+Once that was done he had nothing left to do. He thought about trying to complete the second step of the path, but he doubted it was worth the time. He had no illusions about being able to reach the top of that prison and then escaping the ship, considering he hadn’t even made it off the first floor the last time he tried.
+
+Besides, he was about to end the branch and give it a go in the base path. With that in mind, Ronan decided it was time to prune the branch. He killed himself in the same messy way.
+
+Chrono cost is not payable for further branch path iterations. Branch path will be terminated!
+
+Decoding universal-parallel probability matrix…
+
+Estimating chrono cost of anchor point…
+
+Branch path has been terminated!
+
+Restarting local spacetime…
+
+Branch path analysis [Branch 3, Ronan Steele]
+
+Iterations completed: 2
+
+Estimated chrono cost: Medium-High
+
+Actual chrono cost: Medium
+
+A 10-level experience penalty has been applied to the base path, with the energy being offered to the Temporal Obelisk!
+
+Ronan found himself sitting in the exact same spot as he had been the moment before he killed himself. Almost nothing had changed, with the exception of a 10 in brackets beside his level on his status. His level was the same, which meant that it would be the next 10 levels he earned that were taken as the penalty. It was harsh, but honestly a better price to pay than losing a skill or trait, as had happened in previous branch paths.
+
+There was still about a week and a half to go until Ronan had to start the second step of the Path of the Gladiator. All that remained now was to use up the gladiator shards and see how far he could push himself.
+
+This would also be the first opportunity he had to use his cultivation art analysis skill. It wouldn’t work for his soul cultivation art or his mind cultivation art due to their rarity being too high, but he might be able to improve the Nine Mouths Delta Mystic Energy Art or the Diamondback Gorilla Tempered Body Art. If that would speed up his cultivation even further it would be fantastic.
+
+Ronan started with soul cultivation. It was the best one to begin with if he wanted to maximise his overall gains. He also wanted to try out his new legendary cultivation art. The Endless Wellspring Prismatic Soul Art wasn’t as complex as the legendary mind art had been.
+
+Rather than requiring much conscious effort on his part, it seemed to fundamentally change the way he cultivated his soul. Rather than simply drawing the shard energy into his soul and using it to gradually empower it, the art did something rather unique. The first shard he’d picked up to use with it had done something shocking that nearly made him toss it across the room.

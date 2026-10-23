@@ -1,0 +1,93 @@
+Skills available for evolution:
+
+Light Manipulation [Cost: 6 Skill Upgrade Shards (Rare)]
+
+Arcane Piercing Strike [Cost: 9 Skill Upgrade Shards (Rare)]
+
+Cure Affliction [Cost: 5 Skill Upgrade Shards (Rare)]
+
+Pressure Cutter [Cost: 8 Skill Upgrade Shards (Rare)]
+
+Stupendous Stats [Cost: 20 Skill Upgrade Shards (Rare)]
+
+In the end Ronan had to dismantle seven of the epic rarity upgrade shards to even see the price of getting stupendous stats from rare to epic. It was extortionate, but it was still a cost he felt was worth paying. It already gave him a ridiculous number of stats and he couldn’t wait to see how many more the epic version would provide.
+
+[Skill Upgrade Shard (Rare)] x20 has been consumed!
+
+[Stupendous Stats (Rare)] is evolving…
+
+[Stupendous Stats (Rare)] has evolved into [Stupendous Stats (Epic)]!
+
+Stupendous Stats (Epic): Gain +1 to all stats for every 9 points of any stat you possess. Does not include stat bonuses.
+
+The increase wasn’t as much as he’d expected. Given that the base stat-boosting skills had gone from 10 to 7, Ronan had thought that stupendous stats would do the same. Then again, that would have been a ridiculous jump in the quality, and even the small increment he had received was a huge power-up.
+
+A huge, expensive power-up.
+
+With that, he only had 3 epic skill upgrade shards and 1 rare shard left. That wasn’t enough to take a skill from epic to legendary, but it would be enough to get another one of his rare skills to epic. The only question was which skill he should choose.
+
+After a few seconds of thought Ronan realised it wasn’t really a difficult choice. Arcane piercing strike was the obvious option, being the skill he used most often compared to the other rare skills and also the most powerful of the four.
+
+[Skill Upgrade Shard (Rare)] x9 has been consumed!
+
+[Arcane Piercing Strike (Rare)] is evolving…
+
+[Arcane Piercing Strike (Rare)] has evolved into [Arcane Piercing Strike (Epic)]!
+
+Arcane Piercing Strike (Epic): Combining a deft application of mana with a physical weapon, this skill enables the user to bypass a portion of their target’s armour, dealing lethal damage. Must be used in conjunction with a weapon capable of piercing damage. If the user of the skill’s (Dexterity + Strength / 2) is more than four times the target’s Resistance, this skill completely ignores all armour and resistance when dealing damage. (Cost: 70 Mana + 150 Stamina + 4% Max Mana)
+
+Ronan let out a low whistle of appreciation. That was a major upgrade. It hadn’t just gained extra damage or something small, but it had acquired a new effect that was incredibly strong—especially for him. With his overwhelming stats, the armour-bypassing effect was basically guaranteed to activate every single time he used arcane piercing strike. That’s going to make things a hell of a lot easier.
+
+It was a real shame that he wasn’t able to keep cultivation realms gained on a branch path. Otherwise he might have been able to make some real progress here. Instead, the only thing left to gain on this first branch were the sponsor rewards from Princess Petalania.
+
+He summoned her for a meeting and she arrived promptly—not as promptly as she had in the last iteration, but still rather fast considering they were essentially strangers. When she arrived she seemed flustered but quite pleased with his progress.
+
+After discussing his battles during the invasion of the border world, she asked what he wanted for a reward. He noticed that she didn’t recommend blade maestro this time around. I wonder if it’s because I mostly used the hammer and short-spears rather than a sword to kill all the grathen, or because I didn’t have her flower crown to enamor her to me? Ronan realised he would never know the answer to that until he did this same iteration again and tried it with a sword and without the flower crown, or vice-versa.
+
+He wasn’t particularly bothered to figure that out, given that he already had acquired the blade maestro skill from her. Instead, this time around he simply asked her for a bunch of random skills of the highest rarity she could give, with one exception.
+
+Ronan asked if the princess could give him an epic-rarity crafting skill that would increase the durability or quality of items he crafted. She was just as confused as the last time he’d requested a crafting skill, but agreed to see what she could find in her collection anyway.
+
+Eventually she fished something out, but apologised as it wasn’t quite what he’d asked for. Still, he used it alongside the rest of the skills tomes and realised it was close enough for his intended purposes.
+
+Inscribed Skill Scroll [Corrective Crafting (Epic)] has been consumed!
+
+You have received the skill [Corrective Crafting (Epic)]!
+
+Corrective Crafting (Epic): Whenever you craft an item, gain a 50% chance to correct the first fault that forms during the crafting process. If the first correction is successful, you will have a 25% chance to correct the second fault that forms. If the second correction is successful you will have a 12% chance to correct the third fault that forms. If the third correction is successful you will have a 6% chance to correct the fourth fault that forms.
+
+Ronan suspected there was an easier way to write that lengthy description, but he didn’t really care. He only had to read it once to understand what it did. He could see that it was pretty damn useful.
+
+Being able to automatically correct errors in a crafted item was damn overpowered. Even experienced crafters probably made mistakes, and he was far from experienced. Hell, he hadn’t even made a single item yet.
+
+However, the pieces were all coming together for his alloyed crafting skill. Once he’d acquired it he would start putting the work in. Hopefully that would be in the next few iterations. It really depends how much free time I get in the nightmare difficulty tutorial. I suspect it won’t be much…
+
+Aside from the crafting skill she had managed to provide him with one other epic skill. She had asked if he wanted four rares instead of the one epic, but he figured the epic was better. His status page was cluttered enough as it was.
+
+[Myriad Skills Tome (Epic)] has been consumed!
+
+You have received the skill [Fissure (Epic)]!
+
+Fissure (Epic): The user of this skill is able to create a fissure in a location of their choosing, provided the terrain is suitable. The fissure’s depth, width, and length are dependent on the amount of mana used to channel the spell, up to a limit of 25% of the user’s maximum mana. (Cost: 165 Mana + 1% Max Mana)
+
+Ronan was pleased to acquire another magic skill, especially one at an epic rarity. The more magic he observed and learned through the system, the more he could replicate through sorcery and hopefully figure out some of magic’s underlying principles. Maybe then I’ll finally get a fucking class evolution for sorcerer.
+
+Once he’d acquired the sponsor rewards from the princess, there wasn’t anything left for him in this branch path. He was a little worried about the system’s oversight in the waiting room, but there was genuinely no reason to stick around. Ronan conjured a shortsword and thrust it into his head, activating arcane piercing strike and surging strikes, just for good measure. He even applied the explosion enchantment as a last-second follow-through.
+
+It was a good thing he used all of his applicable skills. The first hit only just pierced his skull, and he even remained conscious after the explosion blew a hole in it and smashed half of his brain. He discovered that enchantments didn’t apply to surging strikes, which meant it took another four stabs to apply the critical tempo bonus that blasted a hole out the other side of his skull to actually finish the job.
+
+When he woke up at the moment he’d made the branch path again, Ronan took a few deep breaths to centre himself. While he was no stranger to death after going through the process over fifty times, that had been the most brutal and strange experience yet.
+
+Holy fuck. In a weird way, dying so painfully and slowly made him feel incredible. It was irrefutable proof of how much stronger he was than the loser who’d first stumbled into a field with a level 2 goblin and nearly died.
+
+After getting over the racing of his heart and the even faster train of random and ridiculous thoughts that were running through his mind, Ronan slapped the arms of his chair. Right, let’s see what else I can get from these fucking tomes.
+
+[Myriad Skills Tome (Legendary)] has been consumed!
+
+You have received the skill [Relentless Training (Legendary)]!
+
+[Relentless Training (Uncommon)] has evolved into [Relentless Training (Legendary)]!
+
+Relentless Training (Legendary): Mastery and Experience penalties for repeat kills on the same enemies are nullified. Defeating more of the same type of enemies will grant cascading experience and credit bonuses on a qualitative scale.
+
+Ronan let out another deep sigh. While he wasn’t mad about the very first skill he’d ever earned getting a fantastic upgrade—more than fantastic, in fact—it wasn’t quite what he’d been hoping for with this branch path. Let’s hope those epic skills are better…
