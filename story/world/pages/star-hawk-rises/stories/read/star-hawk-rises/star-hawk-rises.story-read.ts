@@ -1,0 +1,40 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const starHawkRises = {
+  id: "01a167bc-9c9a-73b1-ba54-2dac8c2a76f3",
+  type: "page-type/story-read",
+  slug: "star-hawk-rises",
+  author: "Marcus T. Madkitty",
+  following: false,
+  unit: "unit/words",
+  title: "Star Hawk Rises",
+  world: "world/star-hawk-rises",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "104123",
+      externalLink: "https://www.royalroad.com/fiction/104123/star-hawk-rises",
+    },
+  ],
+  externalTags: [
+    "Virtual Reality",
+    "Urban Fantasy",
+    "Progression",
+    "Space Opera",
+    "Kingdom Building",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Sci-fi",
+    "Cultivation",
+    "Female Lead",
+    "GameLit",
+    "LitRPG",
+    "Magic",
+  ],
+  publicationStatus: "ongoing",
+  readLater: true,
+  createdAt: "2026-10-23T07:49:36.538Z",
+  updatedAt: "2026-10-23T07:49:36.538Z",
+} as const satisfies StoryRead
