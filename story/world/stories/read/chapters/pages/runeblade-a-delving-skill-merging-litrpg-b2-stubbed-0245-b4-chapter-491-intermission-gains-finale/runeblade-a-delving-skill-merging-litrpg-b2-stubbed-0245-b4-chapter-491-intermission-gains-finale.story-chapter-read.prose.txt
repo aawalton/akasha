@@ -1,0 +1,159 @@
+Slumping in his chair, Kaius pulled up his notifications. He might have been exhausted from hours of constant combat, and he still felt a little frazzled from his direct brush with death, but that changed little.
+
+There was an army outside of the city. As much as they had been told to rest, he and his team represented a significant portion of the city's strongest fighters. They needed to pick their skills and get out there.
+
+Thinking of the ability that waited for him, Kaius couldn’t help but feel a flush of excitement. The leap that Drakthar had taken when it evolved was palpable and visceral — he felt it in his bones every time he cast Starfall.
+
+It made him all the more hungry for what Initiate’s Glyphic Bladerite might become. It was a cornerstone of his build — the thing that linked his soul with his final inheritance.  Plus, unlike Drakthar, the skill was currently only Unique. If it jumped up to Heroic, the boons he received from the evolution would be only that much more impactful.
+
+**Ding! Runeblade Hellion has reached level 222!**
+
+**+6 Int; +5 Con, Str, Wil; +2 Vit, Dex; +1 Free - from Class & Racial Traits!**
+
+**Ding! Class Skill available for selection!**
+
+Hellblade Investiture:
+
+Class Skill - Tier II
+
+Affinity: Arcane, Martial
+
+Type: Glyph-binding, Runic, Armament Enhancement, Longsword
+
+Selection Available!
+
+Heroic
+
+The Path of the Hellion is a precarious and domineering one. All threats are met with total force. The wise recognise that this is a fatal flaw. You say that power overwhelming is the answer, Initiate?  What of the next monstrosity that lurks, waiting for your spellhymns to run dry, for your wounds to bleed long, and your mana to sputter in the wind? It is there, I promise you — the second you believe it is not is the day you die. When that moment comes, you will reach for your oldest friend. We all do.
+
+Tier I:
+
+This skill links the user with their bonded blade, passively reinforcing the durability and edge of their blade.
+
+This link allows the user to sense their blade from a distance, and allows limited proprioception.
+
+Due to the Hellion’s soul investiture in their blade, enchantments can be continuously empowered for the cost of 50 stamina a second
+
+Tier II:
+
+Deepening connections fill the Hellblade with the relentless ferocity of their master, allowing further enchantment empowerment, flooding the blade with a field of cutting savagery, and increasing cost to 400 stamina a second
+
+Enables the user to reinforce their bonded weapon with relevant materials, effects of reinforcement vary depending on materials used.
+
+Each level greatly increases the strength of active empowerment of enchantments.
+
+Each level moderately increases the strength and density of the projected energy field
+
+Each level moderately increases baseline weapon reinforcement.
+
+…
+
+Hellion’s Rite of Slaughter:
+
+Class Skill - Tier II
+
+Affinity: Arcane, Martial
+
+Type: Glyph-binding, Runic, Armament Enhancement, Longsword
+
+Selection Available!
+
+Heroic
+
+What’s that, Initiate? What if there’s another monster? Are you daft? The lion does not fear the mutt — kill the first one hard enough, break their spirit utterly, and the pack will flee.
+
+Tier I:
+
+This skill links the user with their bonded blade, allowing them to coat their weapon with a furious discharge of energy that will sunder even the toughest foes. Costs 300 stamina.
+
+This link allows the user to sense their blade from a distance.
+
+Tier II:
+
+Steeped in blood, the Hellion’s slaughter reaches new heights. Bloody energy extends the Hellion’s weapon, further strengthening attacks, increasing reach, and leaving wounds that struggle to heal. Stamina cost is increased to 1200.
+
+Enables the user to reinforce their bonded weapon with relevant materials, effects of reinforcement vary depending on materials used.
+
+Each level reasonably increases the strength of the skill.
+
+Each level moderately increases the maximum possible length of the skill.
+
+Each level moderately increases the difficulty of recovering from wounds.
+
+Kaius grinned at the blatant dichotomy in the skills epigraphs. It seemed that, wherever they were, the order of Vesryn Runeblade’s were not monolithic in their ethos, tactics, and viewpoints — not even within the same bounds of class roles.
+
+Each skill clearly had its own focus, one reflected in the epigraphs. He could see the benefits of both — providing himself with a stalwart, reliable option that would be able to carry him with or without spells, or one that leaned into the Hellions overwhelming destructive might.
+
+Porkchop shook his head, eyes refocusing as he looked over to Kaius.
+
+“What’s got you so amused?”
+
+“My epigraphs — it seems that there was something of a philosophical divide on approaches to the weapon bond skill.”
+
+Across their common room, Ianmus let out a laugh. “You don’t say — I would sooner see the sky fall than a group of opinionated classers exclusively agree on the best way to do something. I’ve seen professors come near to blows over which energy density was most efficient for combat casting when using light. It amounted to a fractional difference in output versus cost, might I add.”
+
+Wasn’t that the truth. Kaius supposed he could be glad that he was the sole glyphbinder on his world — as the first, he had the privilege of ignoring all future disagreement as the ravings of the foolish and inexperienced.
+
+“What are your options then?” Porkchop asked.
+
+“Fairly similar to now — it essentially boils down to a choice between staying power and quick, expensive, bursts. The latter has a bit more range, and the former also grants me a physical sense of my blade's position.”
+
+“Is that good?”
+
+“Gods yes. It’s just a question if it's enough to offset the maximum offensive output of my other option. I think it does. I have Drakthar, Mystic’s Rend, and Hymnfocus to lean on for pure, raw output — something that I can maintain for extended battles without draining myself dry is what I need.”
+
+Kenva started nodding. “Everyone needs a good bread and butter ability, and if it still uses stamina, all the better. You’re a little underleveraged for that resource.”
+
+His thoughts exactly. So much of his kit was entirely dependent on his mana reserves. It wasn’t the worst issue in the world — he sure as the hells had a lot of it. That said, he had stamina by the bucketfull as well. It was a waste not to make use of it.
+
+“What about you, Ianmus?” he asked. The mage’s eyes had gone glossy again, and he had a thoughtful frown on his face; clearly he was a little torn.
+
+Ianmus blinked. “Two keyseals, which I'm not complaining about. Spring’s Radiance and The Night’s Watch.”
+
+“Why the frown then, mageboy?”
+
+“Well…I want them both.”
+
+Who didn’t. Kaius gave his friend a grin, but didn’t interrupt him.
+
+“Ones familiar — something of a continuation of Sundrenched Strength. Like Rising Dawn, it’ll reserve a significant chunk of my pool, but gather mana that can be spent on a first or second tier spell, in this case enhancement spells. The other… It's a Lunar affinity skill. Wards and barriers — which we sorely need.”
+
+Kaius nodded thoughtfully, before he raised his brow at Porkchop. He knew both of them were of the same mind — enhancement magic was good, but rarely was their problem to do with their physical abilities. A skill that would help them take a hit, or keep their backline safe, on the other hand?
+
+That sounded much more appetising.
+
+“Are you sure?” Kenva said when they shared their thoughts. “It’s the two of you who always end up cut to ribbons when we fight.”
+
+“I’m sure. Me and Porkchop have been slashed, disembowled, crushed… fuck, I am literally missing a leg right now. I barely even remember all of our injuries — but I remember that ruinbringer spiking Ianmus in the chest, and you getting folded like a letter by that last Guardian we faced in our most recent delve. Until the two of you get some sort of regenerative ability, we need that extra layer of defense.”
+
+Ianmus met his eyes, and eventually gave him a slow nod. “A fair point — in any case, exploring lunar affinity magic is plenty exciting enough on its own.”
+
+“My turn!” Kenva said, sitting up straight in her chair as she clapped her hands. She went serious, slowing down her words like she was explaining something to a child. “Big arrow go even faster, or big arrow explode?”
+
+Kaius looked at Porkchop, then he looked at Ianmus.
+
+“Explode,” they said in unison.
+
+Kenva grinned, clapping her hands again. “I’m so glad we agree! Bare Thy Heart it is!”
+
+Kaius raised an eyebrow. The name was certainly on the nose — Heartseeker of Dro’durn indeed.
+
+He couldn’t wait to see it in action.
+
+“Mine are a little straight forward — ones not so good for our formation.”
+
+“Oh?” Ianmus asked. “I wouldn’t have expected that for a class with Knight in the name — they’re usually all about formation tactics.”
+
+“Yeah, the epigraph mentions something about errants? It’s definitely for a more solitary creature who has taken up armaments — it’ll extend my Prismatic Shardwall into an expanding circle the whole way around me. Great, except for the fact it will get in the way of the rest of you.”
+
+Kaius winced, yeah, that didn’t sound too hot. He might feel pretty confident working around such an ability, but Ianmus?
+
+“What’s the other option?” Kaius asked, hopeful it would mesh more with their tactics.
+
+“Ephemeral Phalanx, it summons a shieldwall of hollow suits of armour with their spears level in an arc in front of me — they charge before dissipating.”
+
+Well now, that sounded much better to him. “Seems pretty clear to me. If we’ve all made our choices, we should lock them in and go meet with Ro — this rest has been good, but I want to be ready for when those beasts finally decide to pounce.”
+
+Getting nods from his team, Kaius turned his attention inwards, focusing on his choice.
+
+**Ding! Are you sure you wish to evolve Initiate’s Glyphic Bladerite to Hellblade Investiture? This choice is irrevocable and permanent!**
