@@ -1,0 +1,187 @@
+[Enchantment Modification Interface: Holy Flames][Target Spell Structure: Tier II Purification Fire][Available Modifications:]
+
+Invert Alignment Response (treat ‘evil-aligned’ entities as ‘pure.’ The higher the target on the evil alignment scale, the more they are seen as pure): 96% Success Chance
+
+Nullify Harmful Purge Subroutine (remove burning effect entirely; retain healing and vitality restoration): 97% Success Chance
+
+Obedience Compulsion Backfire (redirect loyalty tether into alternate source: {Trickery}): 44% Success Chance
+
+Corrupt Flame Signature (visuals unchanged; spell feeds on nearby Sun-aspected mana instead of target’s corruption): 52% Success Chance
+
+Alter Aesthetic Properties (shift flame hue from silver to bluish-silver): 100% Success Chance
+
+PICK THE FIRST OPTION!
+
+The thought tore out of me as the pain surged white-hot through my skull.
+
+And just like that, it stopped. The fire receded, leaving behind a cool, almost soothing tickle. My fur prickled.
+
+Wait.
+
+Why was I glowing?
+
+***
+
+Three whole days. For three whole days Leonardo had lived in a state of gnawing paranoia. Every whisper, every slither of leaves, every shift of shadow in the cursed forest had his senses sharp and ready.
+
+Even at the lowest tier, those touched by the Sun carried its purifying power, enough to cleanse corruption from themselves and the faithful. But this wasn’t some petty taint they faced now. The sacred bell had rung. That bell only tolled for calamity.
+
+And calamity was exactly what they marched into.
+
+There were records, although faded and fragmented, of events like this. Few and far between, yet always devastating. He still remembered reading about the Blood Plague in his youth; even the dry ink on parchment had sent chills down his spine. Whole regions swallowed in filth, entire lineages snuffed out in madness. It was called “calamity class” for a reason. He never imagined he would live to see something like that.
+
+Yet here it was.
+
+He knew what the chronicles implied: perhaps the Blood Plague could have been avoided, had the Inquisitors of that age crushed the remnants of an Old God before it grew. But they hadn’t. And how it was eventually ended… even as captain of the Sun Inquisitors in Crieffton, Leonardo had no idea. History often left only hints, because sometimes knowing the truth was the greater danger. It was a quicksand; dig too deep, and the knowledge itself could open your mind to the roots of malicious entities.
+
+He didn’t know everything. He wished he could bluff otherwise, but he couldn't. Frankly, he didn't want to know. Knowledge… was inherently tarnishing. He knew this too well. His duty was not to pry at those shadows, but to shield the pure from them. To burn away the seed of evil before it sprouted. That was the Sun Inquisitor’s iron creed.
+
+His gaze shifted then, to the familiar that Sister… no, Inquisitor Julia cradled. The little fox radiated a subtle demonic mana from it, no doubt about it. A century prior, his predecessors would have reduced such fluff to holy cinders on principle. But even back then, the evidence piled up: demons, and demonic beasts by extension, were born neutral. Alignment wasn’t stamped on their souls like a divine brand.
+
+They weren’t inherently good, nor inherently evil; it was the soil they grew in that twisted the root. Hell itself was a corrosive pit, so no surprise most sprouted thorns. But it was the Church of the Moon that first tested the theory. They pilfered demonic beast eggs, established… hatcheries. The results were… unnervingly mundane. Soon, tales surfaced of Moon Inquisitors walking with demonic familiars at their heels.
+
+Perception shifted. Glacially. While the word "demon" still made peasants flinch, the creatures themselves were no longer synonymous with evil.
+
+As for the fluffy specimen before him was likely not evil. But given the unholy mess here, he had to check for lurking corruption. Standard procedure.
+
+Plus… he really wanted to pat her. He’d never voice it, but fluffy things were his secret weakness. Seven cats held court in his office in Crieffton, perpetually mistaken for fierce guards. A misconception that conveniently bolstered his own intimidating image. Which he absolutely needed to maintain. But under it, he was still a man who liked soft things.
+
+And right now, that fox was impossibly, dangerously soft.
+
+Placing his callused hand on the creature’s head, he felt the luxuriously smooth fur. He nearly blurted out a request to keep her, catching himself just in time. Restraint, Leo. One day, he thought grimly, it won't be assimilating Sun Aspect organs that ends me, but madness-inducing fluff shredding my last shred of dignity. He clenched his jaw.
+
+[Divine Flames]
+
+Silver flames flowed from his palm, probing the fox. For a heartbeat, the flames surged hotter, searing – as if latching onto something deeply sinister within. His free hand instinctively flew towards his sword-hilt.
+
+Then his eyes snapped wide.
+
+The flames hadn't burned. They’d engulfed her, and her fur began to glow in a deep, warm gold. Her eyes ignited into molten, radiant suns. If his heart wasn't already hammering a war-drum rhythm, it now tried to punch straight through his breastplate.
+
+He yanked his hand back, but the silver fire kept pouring from him, siphoned into the glowing fox. The light intensified, bathing the chamber.
+
+Leonardo stared, utterly dumbstruck.
+
+This… This was a divine miracle. A being of such profound purity that his holy flames didn't just tolerate it – they nourished it, amplified its radiance. An effect only recorded… in the presence of the Sun’s own Saints.
+
+He dropped to his knees like a felled tree.
+
+This… was a blessed child of the Sun. Witnessing the spectacle, his fellow Inquisitors followed suit, hitting the stone floor in stunned reverence.
+
+What they beheld was beyond ordinary. To think… searching for the footprint of an evil god in this blighted forest, they’d instead stumbled upon such blinding, blessed purity.
+
+“PRAISE THE SUN!” Leonardo bellowed, throwing his arms wide in the standard prayer stance, facing the radiant fox head-on.
+
+Even Julia looked utterly poleaxed. Seeing the others kneeling, she dropped to one knee too, mirroring their wide-armed devotion. The divine glow faded, leaving the fox looking perfectly ordinary once more.
+
+Ahh… such purity. Wrapped in fluff, no less. The urge to claim the fox as his own familiar roared through him.
+
+“Ju-“ he began, then caught himself. Manners. “Inquisitor Julia… While I deeply desire to know how you acquired such a blessed demonic beast, the Sun’s power flowing through her, empowering her… is undeniable proof. She is Sun-touched. I propose keeping her in your stead, ensuring she receives optimal resources for her growth. In exchange, you may select any familiar from the Sun Sanctuary.”
+
+Julia’s eyes widened like saucers. The Sun Sanctuary… Only whispers reached outsiders. Julia, having worked with them for months, must have heard the rumors from his loose-lipped colleagues. Blabbermouths. Couldn’t keep a state secret if their lives depended on it.
+
+It resided deep within the Grand Cathedral in Falkhaven. A place where Sun-Aspected spirit beasts were meticulously nurtured, later distributed to worthy Sun Inquisitors across their sphere of influence, powerful familiars to bolster their holy might. Each one was pedigree perfection. Julia would undoubtedly find it thrilling, filled with wondrous creatures.
+
+Leonardo was utterly confident. Who would refuse such an offer—
+
+“I’m… sorry, Sunwarden.” Julia’s voice was soft but firm. “I… cannot accept that proposal.”
+
+Leonardo blinked. Did the divine light momentarily deafen me?
+
+Then the fluffy fox looked directly at him… and sneered. It trotted pointedly back to Julia, nuzzling her leg with a clear demand for "uppies." Julia immediately scooped her up, cradling the fox, who then fixed Leonardo with a glare sharp enough to pierce his plate mail. As if he’d committed heresy just by breathing.
+
+Leonardo felt his heart shatter into a thousand glittering pieces. It took every ounce of Inquisitorial discipline not to let a single, traitorous tear fall. The cats. He’d weep into seven fluffy shoulders later.
+
+Perhaps the pure one sensed the greedy fluff-lust coiled in his heart… and found it repulsive. The thought horrified him. That glare promised swift, toothy vengeance the instant his fingers touched her fur.
+
+He had to let it go.
+
+Somehow, he maintained his granite composure. Barely.
+
+“Alright then,” Leonardo gestured towards the exit. “We depart. The immediate undead threat is neutralized. But this was… impulsive reconnaissance. We lack full intel on potential anomalies. For now, we withdraw.” His molten-gold eyes scanned the defiled chamber, lingering on the ritual markings etched into the stone floor.
+
+Hah. This place reeked of corruption. The sheer spiritual filth clinging to the stones… how many innocents had perished here? Or suffered fates far worse?
+
+Julia’s reports had described it, but words hadn’t prepared him. No ordinary mission would ever suffice against something like this. It demanded the full weight of the Church. They weren’t just rooting out a few heretics, but dismantling an entire noble-backed cult with a barony shielding its sins.
+
+Whatever he’d imagined, the reality was tenfold worse. Traces of human sacrifice lingered like psychic scars, making the very air vulnerable to darker influences. Anyone willingly serving this cult was likely beyond redemption.
+
+He couldn’t help but admire Julia for turning against this place. Raised by such parents, steeped in their rot, she should have been lost to it. Instead, she rebelled. That took strength.
+
+But one task remained. He motioned for the others to stand back, uncorked a plain glass bottle of water, and began to channel.
+
+“[Sun’s Blessed],” he intoned. A divine aura unfurled, wrapping every soul in the chamber, a halo blazing into being at his back. “[Holy Water Formation].” The liquid inside the bottle shimmered, ignited, and shifted into sanctified radiance. Warmth seeped into the cold stone walls as golden light banished the lingering shadows.
+
+“Light and warmth, purity unending,Sun’s fire burns where shadows are bending.”
+
+His voice carried the [Holy Hymn]. The radiance surged fivefold, dazzling to behold, and he felt his mana swell within him, tripled, overflowing, while his abilities sharpened with divine strength. The water roiled violently, glowing molten-gold, so dense it thickened almost to honey.
+
+Then he invoked the last rite.
+
+“[Tide of Purification].”
+
+The bottle shattered as the sanctified tide burst forth, golden mist billowing like a storm surge through the vast chamber. It swept across stone, bone, and shadow, purging everything in its path.
+
+When the light finally ebbed, he let the power fade from his body. The space was cleansed, not permanently, not enough, but it would hold back the corruption for a month at least.
+
+He sighed. Charging in recklessly had already shattered their plan. For now, he would report back to the Cathedral with what he had witnessed.
+
+His steely gaze found the fluffy fox one last time. She bared tiny teeth and snarled in his direction like a miniature, offended dragon.
+
+Yep. The little fluffball despised him. His own insatiable fluff-lust had doomed him. He was absolutely, definitely crying to his cats later. And knowing them... none would give a single, consoling purr.
+
+***
+
+My eyes tracked the blurring foliage as the carriage jolted over the rutted road. Julia’s rhythmic patting had finally stilled, her breathing evening out into sleep. A perfect opportunity… if I dared a loud yelp. The sudden noise might startle her awake just as we hit another bump, potentially sending her face-first into the opposite bench. At best, she’d just crack her nose against the wall. The thought was… delicious. But I didn’t do it. Physically pained me to miss the opportunity, but still.
+
+[You’re exhibiting anomalous behaviour patterns.]
+
+For resisting the urge to torment Julia?
+
+[No… broadly. Your general existential… vibe.]
+
+… Fine, maybe. Could I ever reclaim my days as a pampered floofball?
+
+[I’d like to say no. However, given the intelligence acquired… how strong is the desire?]
+
+Overwhelmingly strong!
+
+[Then maybe claw your way to them. Grow strong enough to shred fate itself if it tries stopping you.]
+
+Oh, very funny. Except I don’t even know where to begin. All I’ve got to work with is… what was the word again? Right! Assimilate the organs inside my weird soul space. That’s about as useful as a riddle with all its pieces missing.
+
+[Knowledge repositories must exist. Books, perhaps? We could learn!]
+
+I mulled that over. If only my old self before the “surprise, you had a past life!” revelation had bothered to actually learn the language of this world. As it stands… I am a profoundly illiterate fox.
+
+[That’s not a problem. I possess full textual comprehension capabilities!]
+
+That claim snapped my eyes wide open.
+
+You what? WHY DIDN’T YOU LEAD WITH THIS?!
+
+[Because I, the magnificent and indispensable [Trickery] trait, only manifested three days ago alongside your regained memories. Prior to that glorious inception, I literally did not exist. But whenever you glanced at Julia’s books on the shelf, I could already understand the covers. Which means I can read them. Don’t know how many languages it extends to, but Julia’s collection had three different scripts. All of them made perfect sense to me.]
+
+My eyes widened again, this time with real excitement. If that was true, then I had a way to hoard knowledge without tipping anyone off to my little sapient-fox situation. Not even Julia, no matter how much I adored her, needed to know.
+
+The realization struck me so hard I yowled aloud. Julia jolted awake, lost her balance, and slammed face-first into the opposite wall of the carriage.
+
+I, of course, had slipped aside gracefully. Agile fox versus flimsy human, what contest? My eyes glittered as I watched her groan. Hey, that wasn’t on purpose! Blame innocent vulpine vocal cords and perfectly wholesome vulpine excitement.
+
+And then—jerk!—the carriage screeched to a halt. I didn’t tumble, naturally; foxes are too dignified for that. Humans, less so. Huh. Were we there already? I poked my head out of window. Forest still. Not “there.”
+
+The Sunwarden was already on the ground. My tongue curled in disgust.
+
+[Let it go.]
+
+HE TRIED TO HOLY-BARBECUE ME! I SHALL URINATE IN HIS TEA!
+
+[Physiologically improbable. You know your biology doesn’t even allow that.]
+
+I’LL… ENGINEER AN ALTERNATIVE RETRIBUTION!
+
+[I do have some suggestions… BUT. Recall the spell’s function, he was just checking for corruption. Not his fault you were just inherently evil.]
+
+Semantics.
+
+I turned my attention back outside. The road was blocked by a tangle of fallen trees, torn down and arranged like some giant’s barricade. Too neat to be an accident. Judging by the Sunwarden’s grimace, he hadn’t expected it either. That was the only warning I got before shapes began to peel themselves out of the shadows around the blockade.
