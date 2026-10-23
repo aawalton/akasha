@@ -6,7 +6,10 @@ export const auroraAllMyDemonsGreetingMeAsAFriendAllMyDemonsGreetingMeAsAFriend 
   slug: "aurora-all-my-demons-greeting-me-as-a-friend-all-my-demons-greeting-me-as-a-friend",
   ownLength: 3.698,
   ownProgress: 3.698,
-  partOfCollections: ["release/aurora-all-my-demons-greeting-me-as-a-friend"],
+  partOfCollections: [
+    "release/aurora-all-my-demons-greeting-me-as-a-friend",
+    "release/aurora-all-my-demons-greeting-me-as-a-friend-the-moth-tapes",
+  ],
   status: "completed",
   unit: "unit/minutes",
   title: "All My Demons Greeting Me As A Friend",
@@ -23,7 +26,14 @@ export const auroraAllMyDemonsGreetingMeAsAFriendAllMyDemonsGreetingMeAsAFriend 
       externalId: "0txIZZW0XvEB4pEKOTvAeE",
       externalLink: "https://open.spotify.com/track/0txIZZW0XvEB4pEKOTvAeE",
     },
+    {
+      release: "release/aurora-all-my-demons-greeting-me-as-a-friend-the-moth-tapes",
+      discNumber: 1,
+      position: 14,
+      externalId: "6zJgtsynk9kGoa1FzQFZk1",
+      externalLink: "https://open.spotify.com/track/6zJgtsynk9kGoa1FzQFZk1",
+    },
   ],
   createdAt: "2026-09-18T20:31:52.595Z",
-  updatedAt: "2026-09-24T19:58:28.000Z",
+  updatedAt: "2026-10-23T13:58:00.227Z",
 } as const satisfies Track

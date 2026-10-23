@@ -9,6 +9,7 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeUnderTheWater = {
   partOfCollections: [
     "release/aurora-all-my-demons-greeting-me-as-a-friend-deluxe",
     "release/aurora-for-the-metal-people",
+    "release/aurora-all-my-demons-greeting-me-as-a-friend-the-moth-tapes",
   ],
   status: "completed",
   unit: "unit/minutes",
@@ -27,6 +28,13 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeUnderTheWater = {
       externalLink: "https://open.spotify.com/track/1x7yqEoQel8Gu6F7thDbCQ",
     },
     {
+      release: "release/aurora-all-my-demons-greeting-me-as-a-friend-the-moth-tapes",
+      discNumber: 1,
+      position: 11,
+      externalId: "6sQRbMszzJBHjHXYU769K2",
+      externalLink: "https://open.spotify.com/track/6sQRbMszzJBHjHXYU769K2",
+    },
+    {
       release: "release/aurora-for-the-metal-people",
       discNumber: 1,
       position: 1,
@@ -35,5 +43,5 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeUnderTheWater = {
     },
   ],
   createdAt: "2026-09-18T20:31:57.693Z",
-  updatedAt: "2026-09-24T19:58:28.000Z",
+  updatedAt: "2026-10-23T13:58:00.227Z",
 } as const satisfies Track

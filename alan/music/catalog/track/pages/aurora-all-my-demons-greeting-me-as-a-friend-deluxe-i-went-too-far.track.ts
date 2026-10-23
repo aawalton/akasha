@@ -6,7 +6,10 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeIWentTooFar = {
   slug: "aurora-all-my-demons-greeting-me-as-a-friend-deluxe-i-went-too-far",
   ownLength: 3.4642166666666667,
   ownProgress: 3.4642166666666667,
-  partOfCollections: ["release/aurora-all-my-demons-greeting-me-as-a-friend-deluxe"],
+  partOfCollections: [
+    "release/aurora-all-my-demons-greeting-me-as-a-friend-deluxe",
+    "release/aurora-all-my-demons-greeting-me-as-a-friend-the-moth-tapes",
+  ],
   status: "completed",
   unit: "unit/minutes",
   title: "I Went Too Far",
@@ -23,7 +26,14 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeIWentTooFar = {
       externalId: "6UNBt97MYyrEsKVLELzp15",
       externalLink: "https://open.spotify.com/track/6UNBt97MYyrEsKVLELzp15",
     },
+    {
+      release: "release/aurora-all-my-demons-greeting-me-as-a-friend-the-moth-tapes",
+      discNumber: 1,
+      position: 6,
+      externalId: "6DB4gG7HN01mem7bLvddZZ",
+      externalLink: "https://open.spotify.com/track/6DB4gG7HN01mem7bLvddZZ",
+    },
   ],
   createdAt: "2026-09-18T20:31:57.500Z",
-  updatedAt: "2026-09-24T19:58:28.000Z",
+  updatedAt: "2026-10-23T13:58:00.227Z",
 } as const satisfies Track

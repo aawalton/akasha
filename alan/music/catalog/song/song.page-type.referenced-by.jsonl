@@ -375,11 +375,13 @@
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/aurora-awakening/aurora-awakening.song.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/aurora-bango/aurora-bango.song.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/aurora-beluga-escape/aurora-beluga-escape.song.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/aurora-black-water-lilies-vocal-files/aurora-black-water-lilies-vocal-files.song.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/aurora-black-water-lilies/aurora-black-water-lilies.song.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/aurora-blood-in-the-wine/aurora-blood-in-the-wine.song.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/aurora-boreal-forest/aurora-boreal-forest.song.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/aurora-bring-back-the-color/aurora-bring-back-the-color.song.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/aurora-butterflies/aurora-butterflies.song.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/aurora-celebration/aurora-celebration.song.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/aurora-churchyard/aurora-churchyard.song.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/aurora-come-closer/aurora-come-closer.song.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/aurora-companionship/aurora-companionship.song.ts","typed":true,"deferred":false}
@@ -415,6 +417,7 @@
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/aurora-hearts-intuition/aurora-hearts-intuition.song.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/aurora-heathens/aurora-heathens.song.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/aurora-helvegen/aurora-helvegen.song.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/aurora-hold-on-let-go/aurora-hold-on-let-go.song.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/aurora-home/aurora-home.song.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/aurora-howls-the-wolf-molls-song-wolf-run-free/aurora-howls-the-wolf-molls-song-wolf-run-free.song.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/aurora-hunger/aurora-hunger.song.ts","typed":true,"deferred":false}
@@ -515,6 +518,7 @@
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/aurora-warrior/aurora-warrior.song.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/aurora-wavelengths/aurora-wavelengths.song.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/aurora-what-are-you-doing-here/aurora-what-are-you-doing-here.song.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/aurora-what-do-we-got/aurora-what-do-we-got.song.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/aurora-when-the-dark-dresses-lightly/aurora-when-the-dark-dresses-lightly.song.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/aurora-winter-bird/aurora-winter-bird.song.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"song.page-type.types.ts","path":"alan/music/catalog/song/pages/aurora-wisdom-cries/aurora-wisdom-cries.song.ts","typed":true,"deferred":false}

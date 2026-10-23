@@ -23,7 +23,7 @@ export const aurora = {
       source: "spotify",
       externalId: "1WgXqy2Dd70QQOU7Ay074N",
       externalLink: "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N",
-      lastSyncedAt: "2026-09-18",
+      lastSyncedAt: "2026-10-23",
     },
   ],
   title: "AURORA",
@@ -39,5 +39,5 @@ export const aurora = {
   ],
   reaction: "txt",
   createdAt: "2026-06-08T00:29:49.844Z",
-  updatedAt: "2026-09-21T19:44:25.000Z",
+  updatedAt: "2026-10-23T13:58:00.227Z",
 } as const satisfies Artist

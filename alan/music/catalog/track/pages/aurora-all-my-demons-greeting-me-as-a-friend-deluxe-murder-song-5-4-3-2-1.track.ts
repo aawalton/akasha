@@ -10,6 +10,7 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeMurderSong54321 = {
     "release/aurora-all-my-demons-greeting-me-as-a-friend-deluxe",
     "release/aurora-for-the-metal-people",
     "release/aurora-murder-song-5-4-3-2-1",
+    "release/aurora-all-my-demons-greeting-me-as-a-friend-the-moth-tapes",
   ],
   status: "completed",
   unit: "unit/minutes",
@@ -28,6 +29,13 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeMurderSong54321 = {
       externalLink: "https://open.spotify.com/track/3d9K9w8WYhmu0tZarVu0D0",
     },
     {
+      release: "release/aurora-all-my-demons-greeting-me-as-a-friend-the-moth-tapes",
+      discNumber: 1,
+      position: 9,
+      externalId: "6iPOo98rSI6kl3PrrEAoRF",
+      externalLink: "https://open.spotify.com/track/6iPOo98rSI6kl3PrrEAoRF",
+    },
+    {
       release: "release/aurora-for-the-metal-people",
       discNumber: 1,
       position: 5,
@@ -43,5 +51,5 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeMurderSong54321 = {
     },
   ],
   createdAt: "2026-09-18T20:31:57.616Z",
-  updatedAt: "2026-09-24T19:58:28.000Z",
+  updatedAt: "2026-10-23T13:58:00.227Z",
 } as const satisfies Track

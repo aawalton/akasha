@@ -11,6 +11,7 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeRunningWithTheWolves = {
     "release/aurora-for-the-humans-who-take-long-walks-in-the-forest",
     "release/aurora-running-with-the-wolves-2",
     "release/aurora-running-with-the-wolves",
+    "release/aurora-all-my-demons-greeting-me-as-a-friend-the-moth-tapes",
   ],
   status: "completed",
   unit: "unit/minutes",
@@ -27,6 +28,13 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeRunningWithTheWolves = {
       position: 3,
       externalId: "2gbOc5OxpVb38W0MMwBw56",
       externalLink: "https://open.spotify.com/track/2gbOc5OxpVb38W0MMwBw56",
+    },
+    {
+      release: "release/aurora-all-my-demons-greeting-me-as-a-friend-the-moth-tapes",
+      discNumber: 1,
+      position: 3,
+      externalId: "2YjbVe9Hqhq4RxIohxPfix",
+      externalLink: "https://open.spotify.com/track/2YjbVe9Hqhq4RxIohxPfix",
     },
     {
       release: "release/aurora-for-the-humans-who-take-long-walks-in-the-forest",
@@ -51,5 +59,5 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeRunningWithTheWolves = {
     },
   ],
   createdAt: "2026-09-18T20:31:57.388Z",
-  updatedAt: "2026-09-24T19:58:28.000Z",
+  updatedAt: "2026-10-23T13:58:00.227Z",
 } as const satisfies Track

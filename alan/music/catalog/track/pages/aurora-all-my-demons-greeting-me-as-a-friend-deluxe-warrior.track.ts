@@ -6,7 +6,10 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeWarrior = {
   slug: "aurora-all-my-demons-greeting-me-as-a-friend-deluxe-warrior",
   ownLength: 3.7173333333333334,
   ownProgress: 3.7173333333333334,
-  partOfCollections: ["release/aurora-all-my-demons-greeting-me-as-a-friend-deluxe"],
+  partOfCollections: [
+    "release/aurora-all-my-demons-greeting-me-as-a-friend-deluxe",
+    "release/aurora-all-my-demons-greeting-me-as-a-friend-the-moth-tapes",
+  ],
   status: "completed",
   unit: "unit/minutes",
   title: "Warrior",
@@ -23,7 +26,14 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeWarrior = {
       externalId: "5qV9USKpSdUoqFs9DvLaY1",
       externalLink: "https://open.spotify.com/track/5qV9USKpSdUoqFs9DvLaY1",
     },
+    {
+      release: "release/aurora-all-my-demons-greeting-me-as-a-friend-the-moth-tapes",
+      discNumber: 1,
+      position: 8,
+      externalId: "5IxFz2t8fHMyh4Pl09e2Fi",
+      externalLink: "https://open.spotify.com/track/5IxFz2t8fHMyh4Pl09e2Fi",
+    },
   ],
   createdAt: "2026-09-18T20:31:57.577Z",
-  updatedAt: "2026-09-24T19:58:28.000Z",
+  updatedAt: "2026-10-23T13:58:00.227Z",
 } as const satisfies Track

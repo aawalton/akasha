@@ -9,6 +9,7 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeWinterBird = {
   partOfCollections: [
     "release/aurora-all-my-demons-greeting-me-as-a-friend-deluxe",
     "release/aurora-for-the-humans-who-take-long-walks-in-the-forest",
+    "release/aurora-all-my-demons-greeting-me-as-a-friend-the-moth-tapes",
   ],
   status: "completed",
   unit: "unit/minutes",
@@ -27,6 +28,13 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeWinterBird = {
       externalLink: "https://open.spotify.com/track/1D6Be4MHxIxz4i10GDjdnk",
     },
     {
+      release: "release/aurora-all-my-demons-greeting-me-as-a-friend-the-moth-tapes",
+      discNumber: 1,
+      position: 5,
+      externalId: "5JOdTaxKtcV8xQZiUrkUI2",
+      externalLink: "https://open.spotify.com/track/5JOdTaxKtcV8xQZiUrkUI2",
+    },
+    {
       release: "release/aurora-for-the-humans-who-take-long-walks-in-the-forest",
       discNumber: 1,
       position: 4,
@@ -35,5 +43,5 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeWinterBird = {
     },
   ],
   createdAt: "2026-09-18T20:31:57.459Z",
-  updatedAt: "2026-09-24T19:58:28.000Z",
+  updatedAt: "2026-10-23T13:58:00.227Z",
 } as const satisfies Track
