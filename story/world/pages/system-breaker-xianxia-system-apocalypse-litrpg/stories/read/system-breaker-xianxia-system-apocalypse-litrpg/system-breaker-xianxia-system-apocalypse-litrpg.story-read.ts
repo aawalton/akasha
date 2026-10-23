@@ -1,0 +1,47 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const systemBreakerXianxiaSystemApocalypseLitrpg = {
+  id: "01a166dd-f8c2-7b21-95d0-2e8346df9252",
+  type: "page-type/story-read",
+  slug: "system-breaker-xianxia-system-apocalypse-litrpg",
+  author: "OstensibleMammal",
+  following: false,
+  unit: "unit/words",
+  title: "System Breaker [Xianxia System Apocalypse Litrpg] [STUBBED: Books 1-3 on Amazon]",
+  world: "world/system-breaker-xianxia-system-apocalypse-litrpg",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "89249",
+      externalLink:
+        "https://www.royalroad.com/fiction/89249/system-breaker-xianxia-system-apocalypse-litrpg",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Portal Fantasy / Isekai",
+    "Progression",
+    "Post Apocalyptic",
+    "Anti-Hero Lead",
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Cultivation",
+    "First Contact",
+    "GameLit",
+    "High Fantasy",
+    "Kingdom Building",
+    "Magic",
+    "Male Lead",
+    "Martial Arts",
+    "Strong Lead",
+    "Supernatural",
+    "War and Military",
+    "Wuxia",
+  ],
+  readLater: true,
+  createdAt: "2026-10-23T03:46:25.602Z",
+  updatedAt: "2026-10-23T03:46:25.602Z",
+} as const satisfies StoryRead
