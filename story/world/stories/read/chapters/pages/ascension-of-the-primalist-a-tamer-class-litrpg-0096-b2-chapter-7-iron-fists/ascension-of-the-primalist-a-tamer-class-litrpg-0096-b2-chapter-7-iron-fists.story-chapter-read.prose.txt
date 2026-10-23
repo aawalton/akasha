@@ -1,0 +1,287 @@
+Seth fell into step beside Professor Reat, wondering what the man had planned this time. As they walked leisurely through the academy's garden, where colorful blooms and trimmed hedges lined their path, Professor Reat broke the silence.
+
+"You should consider getting a spell that boosts your punching power, or a more economical one at least. I’m guessing that Undead spell of yours uses a lot of aether."
+
+Seth frowned, taken aback that the man wasn't going to address the altercation with Intendant Lancet, but decided not to press the matter and focus on the professor's comment.
+
+The aether consumption wasn’t the only thing that made him refrain from using Phantom Punch carelessly. It had required Draerian blood to be learned. Each time he used it, he could attract the attention of someone who could connect the dots and link him to his father's country.
+
+"Maybe Blazing Fists?" Seth suggested, recalling the spell the professor had demonstrated during their first lesson.
+
+Professor Reat shook his head. "That requires a Fire affinity."
+
+Seth tilted his head slightly, thinking for a moment. "Is there anything similar for Shadow Affinity?"
+
+Professor Reat seemed to consider it for a moment, his gaze fixed ahead. "Not that I know of. But we can always check the outpost shop. The academy’s store likely won't have any fist spells."
+
+"Why not?" Seth asked as they turned left, heading for the main gate.
+
+"Because fighting with fists isn't exactly considered noble-ish," Professor Reat explained, glancing back at him. "Battlemancers, Elementalists who focus on physical-enhancement spells, are usually commoners."
+
+The quiet calm of the academy faded as they stepped into Trogan’s bustling market, where merchants shouted over one another, and townsfolk hurried past, weaving through the crowded street.
+
+Passing between two clusters of people, Professor Reat continued, "The director told me about your request for Eldric’s book. As you can probably guess from our dear first-year intendant’s reaction, it was a good idea." A trace of amusement touched his voice. "But getting it approved… that’s another matter. I’m not sure the others will agree to hand a copy over to you."
+
+Seth frowned as he ducked beneath the low-hanging canvas of a nearby market stall. "Who exactly needs to approve it? Isn’t the director the head of House Ryehill?"
+
+"Some of the other Twenty Great Houses who are sympathetic toward commoners," Reat answered. "The Surani, Vancaws, and Chester, specifically. We don't need all of them to agree. The support of even a few should be enough to ensure the crown looks the other way if they ever learn about it. As long as you don't share the content with others, obviously."
+
+"Do you think they’ll say no?" Seth asked, eyes narrowing slightly.
+
+Professor Reat shrugged. "They don't know you personally, so there's no real incentive for them to agree. They said yes for me and several other members of the Champions of Chaos. But we had to do many things in exchange. And even that was only possible because the king is in no position to let his support among the Great Houses deteriorate any further. Right now, he has no choice but to make compromises."
+
+Seth glanced at the man—he had no idea there were this many commoners who had accessed to the book. It’s easier to do so when you have earned a Last name like Reat and Silvermane.
+
+As they neared the Adventurer Guild outpost, its banners fluttering lazily in the breeze, Professor Reat slowed his steps. His gaze moved toward the Champions-of-Chaos headquarters next door before turning back to Seth. "I need to talk with the others. You go ahead and pick a spell that suits you." He then held Seth’s gaze for a moment. "And don’t cheap out. We’re heading into war. If there’s a Standard or Refined version available, buy it."
+
+"Understood."
+
+Seth nodded, parted ways with the professor, and pushed open the outpost’s heavy doors. A familiar hum greeted him. The place buzzed with life; adventurers huddled around worn wooden tables, trading stories between bouts of laughter.
+
+As he entered, a nearby adventurer elbowed his neighbor and whispered something Seth barely caught a fragment of.
+
+"Hey, look… It's Seth."
+
+Soon, more heads turned Seth’s way. A few who were already nursing mugs of ale despite the early hour raised their drinks toward him in subtle salute.
+
+Seth gave them a brief nod and walked over to the desk at the back. Instead of the familiar face of Celine, Francesca—the cheerful blonde employee—stood behind the counter. Seth smiled politely at her and turned left, heading directly up the staircase to the adventurer shop on the third floor. Celine hadn’t yet found an upgrading-scroll for Dark Shocking Strike, so he would need to pick a new offensive spell and put aside the Lightning one. At least, for now.
+
+Upstairs, past the buying counter, the layout was clean and well-organized with items sorted into Copper, Iron, Silver, and Gold sections. Seth headed to the section for Iron Adventurers, where his gaze swept over various weapons, gear, and artifacts before settling on spells.
+
+Rows of scrolls lined the shelves, each sealed with the same gray wax and wrapped in a colorful ribbon that denoted the spells’ elemental affinity. Seth trailed his fingers lightly over several scrolls, pausing between the Primalist section and the non-class-specific shelves. It didn’t take long before his eyes landed on a fist-based spell.
+
+Blazing Fist (Standard)
+
+Spell-scroll
+
+Tier: Iron
+
+Grade: Rare
+
+Affinity: Fire
+
+Restrictions:
+
+- Elementalist, Warrior or Primalist
+
+- 60 Arcane Power
+
+- Fire Affinity
+
+[...]
+
+Seth immediately focused on the three dots to see the additional information. Even if Reat had specifically said not to get this one, it would help with comparison.
+
+Spell description
+
+- Shrouds the owner’s arms with flames for 5 minutes to inflict elemental damage.
+
+- Potency increases according to Arcane Power, Fire affinity, and spell quality.
+
+- Consumes 40 uniums
+
+- Cooldown: 10 minutes
+
+Without wasting much time, Seth moved on, searching specifically for a spell that would suit his fighting style and his Darkness affinity. Yet despite browsing meticulously for several minutes, he found nothing. Just as he was about to give up, his gaze landed on a scroll bearing a brown ribbon, marked with a price tag of fifty iron coins. Curious, he activated Intermediate Identify.
+
+Iron Fists (Standard)
+
+Spell-scroll
+
+Tier: Iron
+
+Grade: Uncommon
+
+Affinity: Earth
+
+Restrictions:
+
+- Elementalist, Warrior or Primalist
+
+- 50 Arcane Power
+
+- Earth Affinity
+
+[...]
+
+Spell description
+
+- Shrouds the owner’s arms with rocks for 5 minutes.
+
+- Increases Toughness by 7.
+
+- Potency increases with the Arcane Power, Earth affinity, and spell quality.
+
+- Consumes 25 uniums
+
+- Cooldown: none
+
+Earth affinity. A sudden realization sparked, and he glanced down at his palm.
+
+Seth
+
+Class: Primalist
+
+Rank: 30 (Low-Iron)
+
+Subclass: Beastmaster
+
+Core: Feral Instinct
+
+[...]
+
+Strength: 86 (77+9)
+
+Arcane Power: 76 (67+9)
+
+Toughness: 75 (68+7)
+
+Well Capacity: 60 (52+8)
+
+Agility: 90 (80+10)
+
+Regeneration: 62 (56+6)
+
+Spells:
+
+- Link [???〜??? (???)]
+
+- Share [???〜??? (???)]
+
+- Phantom Punch [Iron〜Legendary (Refined)]
+
+- Beastmaster Rage [Iron〜Epic+ (Decent)]
+
+- Fog Shroud [Iron〜Rare (Decent)]
+
+- Huntbound Rush [Iron〜Uncommon (Standard)]
+
+- Intermediate Identify [Iron〜Common (Standard)]
+
+[...]
+
+Without wasting a second, he focused on the three dots above his Arcane Power.
+
+Sensing: Low-Iron
+
+Talents: [restricted]
+
+Manipulation: Mid-Iron
+
+Seeds: [restricted]
+
+Affinity:
+
+- Null
+
+- Darkness ~ Mid-Iron
+
+- Earth ~ Low-Copper
+
+Colossus had granted him an affinity, just as Nightmare had. I could learn this one.
+
+The spell wasn’t particularly powerful, but with its low aether cost, it was tempting. If he improved its grooves’ quality, his own Earth affinity, and his Arcane power, he could probably get the Toughness boost to double digits for less than thirty uniums. Not impressive, maybe, but still useful in the right situation. And a weak spell like this one would be perfect for practicing groove alterations.
+
+Yet he still hesitated.
+
+This will raise questions, he thought. Elena, Professor Reat, and many others know I have a Darkness affinity. They’ll want to know how I acquired another… Hmm, maybe I could tell them it’s part of the Beastmaster subclass. That should keep them from suspecting I have something like Link.
+
+Still slightly uncertain, Seth turned his attention to the teardrop necklace around his neck. 'What do you think, Nightmare?'
+
+'I think you worry too much,' the direwolf answered with a low growl. 'That Artificer said it clearly back in the infirmary: because of those humans' war rules, people from Draeria won’t come after you. And that powerful silver-head promised to protect you in exchange for those weird potions.'
+
+As Seth pressed his lips together, Nightmare continued, 'The only thing that should matter right now is getting stronger as quickly as possible.'
+
+'Yeah, you’re right.' Seth exhaled, resolve hardening his gaze.
+
+He then reached out and grabbed the scroll.
+
+Seth stepped into the Champions of Chaos' headquarters and let the wooden door shut quietly behind him. Inside, the branch’s members were deep in a heated argument.
+
+Toren, arms waving, was barking something from across the room to Professor Reat, who was leaning on one of the first-floor pillars near the table at the back.
+
+Nearby, Yline, sleeves rolled up and grease staining her forearms, leaned against her anvil. "Why are you talking about Darkwood Does and Mountain Bears?" she shot back. "We don't even know if his subclass allows another contract!"
+
+"It’s called Beastmaster," Toren scoffed. "Of course it does."
+
+Lyria, sitting at the edge of the table, tilted her head. "I mean… he’s got a point."
+
+Celine paced near the window, her silver hair catching the light as she shot Toren a look. "It’s not just about whether he can. It’s about whether he should. Rushing this could have consequences."
+
+Off to the side, Orwen stood back with his usual easy smile, while Haldrik, the branch’s Enchanter, sat hunched over his workbench as usual, tracing runes on a scroll, seemingly oblivious to the ongoing chaos.
+
+Seth paused, surprised they hadn’t noticed him—though a second later Celine finally spotted him. "Greenhorn! Perfect timing!" she exclaimed, gesturing to him to come closer. "We were just talking about you."
+
+Orwen grinned and turned Seth’s way. "We’re trying to decide which kind of beast you should contract next. Something that'll help you during the war, either by protecting you or by healing you."
+
+Seth grimaced, shifting his weight awkwardly. "Um… could someone activate the non-disclosure ward?"
+
+Orwen’s eyebrows rose, but with a simple wave of his hand, the air shifted around them, tingling against Seth's skin.
+
+Celine narrowed her eyes. "What did you do this time?"
+
+"Well," Seth began sheepishly, glancing around at their branch members’ faces, "I, uh… I already made a contract with another beast."
+
+Instantly, the room erupted.
+
+"Told you he could make another!" Toren yelled, pointing triumphantly at Yline.
+
+"Oh, shut it," the Blacksmith growled.
+
+Lyria threw her hands up. "You should've waited! We could have helped you pick one!"
+
+"Yeah, that’s true," Toren retorted.
+
+"I’m sure he chose well," Yline said, clearly trying to defend Seth. "The kid’s got a brain."
+
+Professor Reat shook his head and sighed. "Oh no he doesn’t."
+
+"An empty skull with a lot of guts, though," Toren added.
+
+"Oh, can you all stop?" Orwen interjected, raising a hand. "We don't even know what beast he contracted yet."
+
+Seth’s mouth twisted to the side as he rubbed his neck. "To be honest, neither do I. It uh, hasn't hatched yet."
+
+"You made a contract with an egg?" Toren exclaimed, eyes widening in disbelief.
+
+A heavy silence fell over the room, and all eyes turned back to Seth.
+
+"Why is that so bad?" Seth asked, puzzled by their intense reaction.
+
+Celine sighed, brushing her hair back with concern. "Most beast eggs die within a week or two if they don't hatch. They need their mother's aether to survive."
+
+Seth gulped, but almost instantly reassured himself. It should be fine with Nightmare’s aether.
+
+'Great,' the direwolf growled through Link. 'I’m basically Small-Bite’s mother.'
+
+"Don’t worry, kid," Orwen said, stepping forward. "Everything will be fine. We'll help you hatch it before anything happens."
+
+"When, exactly, did you get this egg?" Celine asked, shooting Seth a glare—clearly, she was pissed that he had once again hidden something from her.
+
+Seth hesitated briefly, pressing his lips together. "In the Desert of Misery."
+
+Celine’s expression froze. "Oh."
+
+Orwen, however, clapped his hands, determination shining in his eyes. "No time to lose, then! Let’s set up an expedition!"
+
+"An expedition?" Seth asked, confused.
+
+"Yes!" Orwen confirmed enthusiastically. "Eggs have a higher chance of hatching in environments rich in aether. Do you know the affinity of this beast?"
+
+Seth nodded. "Earth."
+
+"Perfect!" Orwen grinned broadly. "Then we will go to the Brown-Peak Mountains."
+
+Lyria quickly pushed herself up, eyes almost glowing. "Can Calvin and I also come? He can find someone to replace him at the academy for a few days."
+
+Professor Reat opened his mouth to protest. "Oh no, I really don’t think—"
+
+"Sure!" Orwen interrupted. "It will also be excellent training for you! Who am I to stop you from having so much fun!"
+
+Professor Reat let out a resigned sigh. "Only you would call fighting Golems with absurd Toughness 'fun,' Orwen."
+
+The leader of the Champions of Chaos laughed. "Can you get Seth out of class tomorrow and Monday?"
+
+The ponytailed man muttered something under his breath before nodding. "Sure. But I doubt four days will be enough to hatch an egg."
+
+Orwen's eyes sparkled as he turned toward Seth, a smile spreading on the man’s face. "I have faith in our recruit."

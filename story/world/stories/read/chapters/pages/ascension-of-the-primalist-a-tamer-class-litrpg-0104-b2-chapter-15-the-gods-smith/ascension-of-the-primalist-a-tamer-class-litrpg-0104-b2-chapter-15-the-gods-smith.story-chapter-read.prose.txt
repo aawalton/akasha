@@ -1,0 +1,149 @@
+The next day, Seth had slipped back into the rhythm of academy life. Classes, drills, and sparring filled his morning once more. In the backyard of the academy, the squads’ skirmish ended, and he pushed himself up from a crouch, brushing dirt from his gray training uniform. Beside him, Henry did the same, sweat glistening on his shaved head.
+
+"Man, the squad’s teamwork is really getting better and better," Henry said, grinning, his usual enthusiasm undimmed. "And Nightmare? He's such a great trump card. It’s like having a super Rogue who can pop out of nowhere and take down any Priest or Elementalist on demand."
+
+"Yeah, he’s definitely a great asset," Seth agreed as they started walking toward the academy’s main building.
+
+He, however, was still struggling to find his place in these large skirmishes. With Beastmaster Rage’s long cooldown, Seth couldn't rely on it every time he was facing someone strong. Phantom Punch, while devastating, cost quite a significant amount of aether, and it was too risky to use in a mock fight against future allies. On top of that, he also had to deliberately limit his cast of Shadow Step to once every few minutes to avoid revealing too much of Share’s real strength and attract too much attention.
+
+That left him with Huntbound Rush—which still only had a Standard quality—and Iron Fist. The Refined Earth spell was a solid addition, allowing him to hold his own on the frontline against Guardians and Warriors, but he still wasn't excelling in that role.
+
+His preferred ambush style, using Fog Shroud in tandem with Nightmare, simply didn’t fit the open-field format of their current training.
+
+Hopefully, the vast and varied terrain of a real Warfare Rift will offer more opportunities for that, he thought.
+
+As they passed the other squads wrapping up their matches, Seth’s gaze caught Selena across the yard. She was breathing hard, streaks of dirt on her cheeks, hands still on her knees. Their eyes met briefly. She gave him a small nod before turning back to the people around her. Despite being the lowest Rank in the squad, she wasn’t doing bad. She had more heart than he’d expected—pushing herself harder with every match. Probably because of everything that happened in the Desert of Misery, Seth thought before looking away.
+
+"So, still planning to stick to the fringes during the war?" Henry asked, breaking into Seth’s thoughts. "Picking off stragglers with Nightmare and avoiding the big brawls?"
+
+Seth nodded. "Yeah, that's what I'm good at. My spells don’t bring much in a big group fight like yours do."
+
+Their squad was lucky to have Henry as their leader. The young man had several powerful support spells, including War Cry, which could boost the Strength of up to three nearby allies—a huge advantage in any fight.
+
+"True," Henry conceded. "But it’s still going to be dangerous to be away from the group, even if you’re with Nightmare. He can go invisible whenever he wants, but you can't. If the enemy deploys a Distortion Ward, you'll be doomed. You won't be able to use any Escape scroll or that… pocket watch thing of yours to escape."
+
+Seth pressed his lips together. He knew if that situation happened, he could always switch Share back to Illusionary Emptiness and flee—but he couldn't say that. "Don't worry," he finally answered. "I'll manage."
+
+Henry responded with a shrug. "As you wish, mate. I just don't want to see my co-leader get himself killed out there."
+
+"He won’t."
+
+'Absolut… ety!' Colossus immediately said through Seth's mind. 'I will protect!'
+
+'Yeah, I'm sure you will,' Seth answered to the scorpion, hiding a smile behind his hand.
+
+The moment they reached the academy's main building, they parted ways. Seth’s conversation with Elena the previous evening had left a lingering guilt, so instead of heading to his dorm, he found himself walking toward the front gate. He’d promised Renwal and Mael he’d visit their new smith yet he hadn't. Time to fix that.
+
+The walk took him away from the well-maintained avenues and grand buildings near the academy and led him deeper into the city’s older, more worn neighborhoods. The streets under his feet now were made of packed dirt rather than cobblestone, and the houses, though sturdy, showed their advanced age. He eventually found what he was looking for in a deserted alley: a weathered oak building with a freshly painted, and rather presumptuous, sign hanging above the door. "The Gods’ Smith."
+
+Seth rolled his eyes at the name and stepped inside.
+
+The clangs of a hammer on metal greeted him. Renwal was at the anvil, his large belly jiggling with each swing as he shaped out what looked like a batch of arrowheads. In a corner, Mael was diligently polishing a breastplate, and behind a scarred wooden counter, Renwal’s wife, Kiren—whom Seth hadn't seen for a long time—was wiping down empty shelves. Her hair was tied back in a practical bun that barely held with each powerful thrust she delivered to remove the dirt. Her strong arms gave her a striking appearance, like she could wrestle any man and win, but despite her imposing build, a warm kindness still shone in her brown eyes.
+
+"…and then she just looked at you like you’d sprouted a second head, Mael!" Renwal was booming with laughter. "She probably preferred men who have more meat around their bones!"
+
+"She just doesn't have any taste!" Mael retorted, his cheeks flushing slightly. "Clearly can't appreciate my athletic body!"
+
+"Will you two layabouts stop chitchatting and focus on your work!" Kiren yelled from behind the counter. "These shelves are bare! We’ll lose customers if we can’t get some stock out here, and fast!"
+
+Then, her eyes landed on Seth as he stepped farther into the shop. Her expression softened instantly. "Oh! Seth! You came!"
+
+Mael looked up and his face broke into a wide grin. "Well, well, if it isn't the People's Champion himself!"
+
+Renwal set his hammer down, wiping sweat from his brow. "Seth! Good to see you, lad! I hope you’re not here to buy some gear. I’m nowhere near being able to craft Iron-Tier stuff."
+
+"No, no," Seth said, smiling. "I just came by to see how you were doing. Check out the new place."
+
+"We're doing great!" Mael said. "Though working a bit too much for my taste, if you ask me."
+
+"Since word of the war got out, folk have been hoarding," Renwal explained, his voice turning more serious. "Arrows, swords, basic armor… anything they think they might need if the king calls up a general levy. It's been fantastic for business, truth be told." The bulky man then sighed, gesturing toward the numerous piles of ores, fresh hide, and wood in the clustered smithy. "But it's come with a… a lot of work."
+
+"And these lazy louts," Kiren added, nodding toward Renwal and Mael, "do nothing but complain because they don't have as much time to swill ale down at the tavern—or, in his case," she pointed at the blacksmith’s apprentice, "pester young women."
+
+Seth laughed. "But all this work must be good for your profession Rank, right, Renwal?"
+
+The blacksmith puffed out his chest, grabbing a nearby rag to wipe his hands. "Damn right it is! Go on, Identify me! You'll see!"
+
+Seth obliged, casting Intermediate Identify.
+
+Renwal
+
+Class: Blacksmith
+
+Rank: 6 (Low-Copper)
+
+Subclass: -
+
+Blacksmith Rank: 8/20 (Mid-Copper)
+
+Strength: 15
+
+Arcane Power: 7
+
+Toughness: 11
+
+Well Capacity: 7
+
+Agility: 8
+
+Regeneration: 9
+
+"Rank 8 in Blacksmith! That's impressive!" Seth exclaimed, knowing that the blacksmith had barely begun his journey as a non-combat Wielder three weeks ago, once his arm had been healed.
+
+"Aye!" Renwal beamed. "All those years I spent smithing as a non-Wielder are paying off. According to the folks at the Adventurers Crafting Guild, I'll progress faster than most new Blacksmiths for roughly a year because of all that prior experience."
+
+Seth’s golden eyes widened for a brief instant. "You joined the Adventurers Crafting Guild?"
+
+"Sure did!" Renwal answered. "Right after we got settled here! Since then, people there’ve been giving me all sorts of advice, especially after the outpost administrator, Celine, told them I was a friend of yours."
+
+Mael smirked from his corner. "Yes, he is using your fame to get things."
+
+Renwal shot his apprentice a glare. "That’s the reason why your salary has quadrupled, Twig-Arms. Don't forget it."
+
+Mael just threw his hands up and shrugged. "Wasn't complaining."
+
+Glancing at the Blacksmith, Seth smiled. The man was finally doing well after everything that happened to him.
+
+'He should give you a lifetime discount,' Nightmare said through Link. 'Since you paid for that Healing prism.'
+
+'Nah,' Seth answered. 'It was the least I could do. It was part of my fault afterall.'
+
+The direwolf huffed inside the teardrop. 'I don't agree… but, hey, as long as you don't give him any more coins I'll let that pass.'
+
+Seth stopped himself from rolling his eyes and turned to Mael. "Do you still have time to practice your sword skills, though? If you focus too much on smithing, you might awaken as a Blacksmith instead of a Warrior, you know."
+
+"Yeah, yeah, I still get my daily training in, trust me," Mael answered. "No worries there. I’m sure everything will be alright. The gods certainly know how much I hate smithing—I only do it for the coins."
+
+For nearly an hour, they continued talking. Seth learned that Sunatown was practically deserted now. According to what Sericar had told Renwal, even the few stubborn holdouts who hadn't left immediately after the initial troubles had finally packed up and moved on—even Marcus.
+
+"Do you know where he ended up settling?" Seth asked.
+
+Renwal shook his head. "No idea, lad. But I can ask Sericar next time he passes through. He seems to keep tabs on folks from Sunatown, making sure that everyone is doing okay despite being rushed to relocate."
+
+"That would be great, thanks," Seth answered.
+
+For a moment, he thought of his father’s gear, still in the possession of the Alchemist. With his current savings from selling all the Black Hounds’ equipment and the beaststones from his hunts, he might actually be able to afford one or two of the items soon. Then, a thought surfaced. Oskon’s pre-war skirmishes! Maybe he could find something for my eyes. So people don't associate me with Draeria.
+
+"Renwal," Seth began, "could you also ask Sericar something else for me? See if he knows where I could find an artifact, or maybe something consumable that could temporarily change my eye color? For like a half a day."
+
+Renwal’s brow furrowed, the odd request clearly having taken the man aback. "Change your eye color? Bit strange, but I can ask."
+
+With that, Seth wrapped up their conversation with a promise to stop by again the following week. As he stepped out of the smithy, he found himself hoping Sericar would come through—relying solely on Professor Reat wasn’t exactly a safe bet. The man had been incredibly helpful, sure, but he also carried a streak of laziness that could easily lead to him showing up empty-handed the day they were scheduled to leave for Oskon.
+
+Heading back the way he’d come, Seth made his way through the desolate neighborhood’s narrow streets. The tightly packed, timeworn buildings loomed on either side, their worn façades offering only rare glimpses of life. With each step, the place seemed more deserted. As the sun dipped lower, long, eerie shadows stretched across the alleys, and the faint murmur of distant voices faded into a deep, almost soothing silence.
+
+'Alright, you two,' Seth said to Colossus and Nightmare through Link. 'I'm going to grab something to eat at the marketplace, then we head out for another hunt."
+
+'Yeah!' Colossus’s joy and eagerness beamed through their bond, causing Seth to smile.
+
+'Good,' Nightmare grumbled, in stark contrast to Seth's other partner. 'This time we should take on multiple Iron—’
+
+Before the direwolf could finish, Seth’s core suddenly flared to life within his chest and sent a warning rippling through his body, causing his head to snap.
+
+Up ahead, where the street opened into a slightly wider but equally deserted intersection, two figures stepped out from the shadowed mouth of an alley. One was lean with a sword sheathed at his hip and shoulder-length black hair that swayed with each of his steps. The other was heavier and broader, with cropped red hair that caught the fading light like a spark, and a massive two-handed axe slung across his back.
+
+The moment Seth recognized the first—Quill Seralp, the second-year noble who had attacked him in the academy’s cafeteria months ago—a chill crawled down his spine. He glanced over his shoulder.
+
+Two more figures had emerged no more than a dozen feet away behind him, cutting off any chance of retreat. One of them was William Sert, the brown-haired Guardian who’d ambushed Seth in the Rocky Plains and had later been expelled by Professor Reat. The woman alongside the Guardian tightened her grip around the rune-carved staff in her hand. She wore the academy’s scarlet uniform for the nobles, with a golden '2' above the owl on her chest pocket.
+
+Four of them. Two who tried to kill me before. Seth’s attention moved back to the pair blocking the front, and his eyes narrowed. I won't make the same mistake twice.
