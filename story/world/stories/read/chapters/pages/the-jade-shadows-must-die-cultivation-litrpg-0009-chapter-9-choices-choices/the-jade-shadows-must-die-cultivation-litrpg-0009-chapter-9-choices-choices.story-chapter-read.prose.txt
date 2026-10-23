@@ -1,0 +1,129 @@
+He called his System display forth again. There was a fairly exhaustive list of potential techniques, some of which caught his eye:
+
+[Wind Blade (Common)]
+
+[Fire Strike (Common)]
+
+[Force Hammer (Common)]
+
+[Stone Shield (Common)]
+
+[Mana Thrust (Common)]
+
+[Cloud Parry (Common)]
+
+[Thunder Aura (Common)]
+
+[Lightning Reflexes (Common)]
+
+Seeing these names fired something deep in his stomach. Despite their shared common rarity, these simply sounded powerful in a way his style did not. He wasn’t naive enough to really think the names of things had any significant bearing on their strength, but as a citizen of Cloudpiercer, he’d grown up on the Chronicles like everyone else. He was willing to admit that the grandiosity was part of the allure.
+
+“Do you have any advice on the techniques?” he asked. “I don’t really know what I should be looking for.” By now he was convinced the Quartermaster would genuinely help him if she could. The truth was, everybody here knew more than he did about the Martial Path. Any knowledge gained now could pay huge dividends as he progressed.
+
+She considered his question briefly. “That depends on how you fight. Most quarterstaff users are all about controlling space, but it’s a weapon that works equally well in offence or defence.”
+
+“Won’t my style dictate how I fight?” Rix asked.
+
+“To a point. Different styles are better suited to different sorts of combat, but there’s always an element of personal interpretation there. This is particularly true for a lot of the common styles. As the names suggest, they’re designed to be generic. The prototypical way of wielding that weapon. So, they’ll fit almost any approach, but they aren’t going to excel at any either.”
+
+Rix nodded slowly. “Right. And how do techniques fit into that?”
+
+“For most Martial Souls, the techniques and styles available to them complement each other. The corps and families have spent millennia buying rights and building libraries of things that synergise to make their disciples as dangerous as possible. For you, well, you need to be more practical. You get two techniques to start, and I’d recommend using them in different ways. One to enhance your strengths, one to plug your weaknesses.”
+
+Rix considered this. “I’ve always been quick, but as you pointed out, I’m also small, so I’m not as strong as some people. Occasionally, I’ll hit someone, and they just don’t go down.”
+
+The Quartermaster grinned. “Sounds familiar. Rest assured, it gets better. When I hit things now, they don’t just go down; they go through the floor.”
+
+Rix laughed. “Which technique do I choose for that?”
+
+“Why don’t you try and work it out for yourself?” There was a glimmer in her eye when she spoke, and Rix realised she might not actually be joking. “I have a few ideas for you, but I usually tell people to read through everything first and make their own decisions. Then if you’re being an idiot, I’ll tell you.” She chewed her lip thoughtfully for a moment. “There’s an element of personal affinity to the Martial Path that a lot of people don’t talk about. Some of the best fighters I’ve seen are the ones that let their instincts guide them, rather than following a rote Path progression from some corp’s First Master.”
+
+Rix pulled up his display once again. “How do I know what they do?”
+
+“If you mentally concentrate on one of them, you’ll get a description. But there are some guiding principles that make understanding them all easier. Most techniques are imbued with hints of an aspect. With the common techniques, you’ll only get common aspects, things like fire and water, and at this level the impact of the aspect will be minimal. Nothing like if you formed an affinity with the aspect yourself. Still, you can usually use a technique’s aspect as a guide for how it will perform. So, for example, air techniques tend to be quick and fire techniques tend to be unpredictable.”
+
+“What about force techniques?” he asked, reading through his options again.
+
+She grinned. “Typically slow and powerful. Tricky to land, but devastating if you do. Force is one of my aspects. I’d show you, but it’s against prison policy. Also, I like my armoury intact.”
+
+Rix found himself smiling back, and not just because of the joke. A plan was starting to take shape. First, he summoned the description for [Lightning Reflexes].
+
+[Lightning Reflexes: Gain a sudden burst of speed (Cost: 30 mana to activate, 5 mana per second to maintain)]
+
+As he’d expected, it sounded very similar to Energy Surge. In some ways, that secret technique already filled the role of enhancing his existing strengths. [Lightning Reflexes] would last longer, but it felt like a waste to take something that was functionally almost identical.
+
+He turned his attention to his offense problem. A few things had caught his eye.
+
+[Force Hammer: Grip your staff at one end and bring the other down with the weight of gravity behind it (Cost: 30 mana)]
+
+[Mana Thrust: Grip your staff at one end and thrust forward, releasing a charged burst of pure mana (Cost: 20 mana)]
+
+[Wind Blade: Imbue one end of your staff with a temporary blade of pure wind, extending its reach and lending it a cutting edge (Cost: 15 mana to activate, 3 mana per second to maintain)]
+
+His grin widened. This was exactly the sort of thing he’d dreamed about.
+
+[Mana Thrust] sounded interesting. Like maybe it extended the range of his weapon? But in truth, reach wasn’t the staff’s biggest problem. Also, it had a lower mana cost than [Force Hammer], and while he didn’t know this for sure, he assumed that meant it caused less damage per use.
+
+He wanted maximum damage.
+
+Despite being a joke, it really did seem like he might have the option to smash his opponents through the floor. [Force Hammer] sounded like everything he could possibly need. It also had the advantage of pairing very well with Energy Surge in a pinch. A surprise burst of speed could turn something predictable but powerful into a killing move.
+
+[Wind Blade] was also appealing. While it didn’t strictly enhance his speed, it complemented it nicely. Having a cutting edge when bludgeoning damage wasn’t appropriate added to his flexibility. Suddenly, bleeding out tough opponents would be viable. It also sounded like something that could be toggled on or off, which, with his speed, would make it a nightmare for opponents to predict.
+
+He briefly brought up the descriptions of the other skills, but none really suited the style he visualised for himself like [Force Hammer] and [Wind Blade]. [Stone Shield] and [Thunder Aura] were both defensive options, but he was still hopeful that his speed would be enough to protect him. If he came to realise he needed more defence, he could always explore how he could use his mantle.
+
+“I’ve made my choices: [Force Hammer] and [Wind Blade].”
+
+She nodded. “That’s close to what I’d expected. I don’t have [Force Hammer] specifically, but my [Titan’s Fist] is similar, and let me tell you: the first time you land one of those babies, it’s like nothing else.”
+
+Rix grinned. Her enthusiasm was infectious.
+
+“Truth be told, I kind of thought you’d take [Lightning Reflexes] though,” she said.
+
+He shrugged. “I’m already very fast. I think having more tools suits me better.”
+
+Thankfully, she took the explanation without further questions.
+
+He mentally selected his two chosen techniques and felt them settle into his mind the same way the style had. It was bizarre, having knowledge imprinted artificially like that, but he’d have to get used to it.
+
+She clapped her hands. “One final question. What do you know about your mantle?”
+
+“I may have…ah…already tested it a little, truth be told, but I don’t really know how it works.”
+
+The Quartermaster raised an eyebrow. “Already playing with the other children? You work quickly.” She sounded more amused than disapproving. “Well, your mantle is easy enough to explain. The System uses a little of your mana to create a kind of spiritual skin around you — that’s your basic mantle. You won’t even notice that it’s happening, but know that it’s always there, maintaining the boundary between your spiritual energy and everything else. Like regular skin, it provides some protection. It doesn’t so much directly absorb damage as redirect blows and diminish the force of things that pass through it quickly.”
+
+“But not things that pass through slowly?”
+
+She grinned. “You catch on quick. It’s rarely useful in a combat situation, but come at someone slowly enough and, yeah, you can bypass their mantle altogether.”
+
+It also meant your mantle wouldn’t save you from things like a razor blade in the night. Perhaps he was just being dramatic, but he was in prison and he’d already managed to upset at least a couple of other inmates.
+
+“As I was saying, it isn’t an absolute shield. Not at your tier, anyway. If you’ve already been in a scrap, you’ll likely know what I’m talking about. It can turn killing blows into glancing ones, but if you get hit hard enough…”
+
+She didn’t need to finish the sentence for Rix to get the idea. Despite triggering his mantle, Yutaro’s punch had hurt. If Rix was hit by a Spark or, heavens forbid, a Nova, well, his mantle would make little difference to the outcome.
+
+“The good news is that you can make your mantle stronger, and this affects both how many hits it can take before shattering and how much it mitigates each of those hits. Close your eyes and feel for that layer of energy encasing your body.”
+
+Rix did as he was told. In almost every way, he still felt blind when it came to sensing anything to do with the Martial Path, but after about thirty seconds of feeling around, he finally identified something. A sensation, like vaguely building static electricity coating his entire body.
+
+“I think I’ve got it.”
+
+“Good. Now, draw mana up from your dantian, much like you did when bonding your staff, but this time imagine directing it into that sensation instead. Your mantle will begin to drink it in, using it to build stronger layers of protection. You'll feel the difference as it grows more substantial. Don't try to force it though — the process can take anywhere from a few minutes to an hour, depending on how much mana you allocate.”
+
+Rix continued to follow her instructions, drawing his mana up towards his hands and then trying to gently shepherd it outward into his mantle. The mana was still difficult to control, but eventually he managed to guide it until it began to flow out his palm. It was a strange sensation, vaguely like submerging his hand in water. Though there was no visible sign that anything was happening, he could feel the mana building against his skin, gradually sprawling outward. It had no weight and didn’t impede him at all. It was more like just a comforting pressure.
+
+“It’s working,” he said.
+
+She nodded. “The way you allocate mana to your mantle is a critical part of how you build your Path. Despite being externalised, this mana is still part of your total pool. You’ll notice you’re not actually regenerating any mana even though your dantian is emptier than before. It’s not until you actually get hit that that mana is consumed. That means you’re making a trade when you reinforce your mantle. The stronger you make it, the less mana you have available for techniques.”
+
+Rix nodded. He already understood that, more or less. “How much do people normally allocate?”
+
+She shrugged. “There isn’t really a ‘normal’ amount. It runs the full gamut. Martial Souls who invest heavily in vitality might not bother with their mantles at all. Others with particularly potent combat styles might assign most or even all of their mana and just rely on raw skill with no techniques. That actually brings up another important point: some of those Martial Souls are mantle specialists. They take advantage of one of the attributes you can assign points to: mana control. Like all attributes, it governs a wide variety of things, but one of them is how effective your mana is at providing additional strength to your mantle. It doesn’t give you more mana — that’s exclusively the domain of mana capacity — it just gives each unit more potency.”
+
+Rix grinned. That was fascinating. There really were endless ways to specialise your Path. He still liked his plan of ‘get hit as little as possible’, but it was good to know he had a variety of options at his disposal if that failed.
+
+The Quartermaster continued. “You don’t need to worry about that for now, but it’s good to think about for later. Starting out, I’d recommend at least 20%, and you can adjust as you go forward. Any less and your Fractured Realm trial has the potential to get dicey.”
+
+That was ominous. Rix cocked his head. “What does the trial actually involve?” He’d kind of been treating the trial as little more than a stepping stone — one he was guaranteed to pass — so he hadn’t thought to ask before.
+
+The woman paused dramatically, her grin sharpening to something bordering on wicked. “You’ll be fighting a fadeborn, of course.”
