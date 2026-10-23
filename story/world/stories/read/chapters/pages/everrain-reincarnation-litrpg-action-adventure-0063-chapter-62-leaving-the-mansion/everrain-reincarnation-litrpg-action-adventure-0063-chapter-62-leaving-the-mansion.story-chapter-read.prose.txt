@@ -1,0 +1,81 @@
+Day 106, 11:50 AM
+
+I start yet another loop, fifty-third, I believe, by quickly reaching level six of the mage class. Thanks to plentiful experience, I can cast and maintain six active spells at the same time. That should be the level up condition which stopped Edna from reaching level six.
+
+Level seven is tougher, reaching perfect mastery over three spells, but thanks to weeks of trying, I’m close. The skills I got for exhausting over half my mana with a single spell and for maintaining six active spells don’t help much with this particular challenge. Outer Mana Substitution allows me to use any outside mana as if it’s of the type I need.
+
+The alternative, Inner Mana Substitution, didn’t seem worthwhile, since I plan on having an equal mix of different mana types when I reach the point where they matter. And now I do know that the type of mana you use to cast a spell matters considerably more than Edna gave it credit.
+
+And speaking of the witch, while I am curious about which skill she picked ages ago when she had reached level five, I have no intention of asking her until I can crush her in an archmage against archmage battle.
+
+Level six, while not useful right now, provides two equally interesting skills, or at least equally interesting for me. Initial Rune Lore and Initial Elemental Lore. The former lets me enchant items and better understand the mechanics of it, a wonderful skill one can build a career around, while the other lets me innately understand what will happen during magical interactions.
+
+Questions which seemed impossible revealed their answers eagerly to me the moment I acquired the skill. Where would lightning hop after bouncing off an obstacle and why? How best to counter firewave, lightning arc, acid mist, and even healing. And yes, you can counter someone’s attempt at healing if you’re close enough, and yes, healing is an element.
+
+How tragic. Two charming skills met one man too dumb to gain them on his own, but smart enough to understand that killing is more important given his circumstances. Sad but true. Still, until I decide to leave this loop, I have mostly taken Initial Rune Lore to try to milk it for all its benefits. With any luck, and some additional reading, I hope to acquire it on my own one day, a hundred years from now.
+
+I push the thought from my mind and focus on the third and final spell I wish to perfect. Scanner was a fool’s errand, but I don’t believe I’ve wasted time improving the spell, quite the opposite, I believe it will save my life one day. It better, considering it took some nine months to polish it. My third and final task is simpler and humbler - the heater spell. Ensuring warm food, ability to dry my clothes, and keep hypothermia at bay are all great reasons to perfect the charming little cantrip.
+
+Needing it to level up and the low difficulty of the task are even better reasons.
+
+[You have leveled up.
+
+Select a skill within sixty seconds or a random one will be assigned to you.
+
+Visions of Reality - You gain proficiency at reading the unaltered nature of reality.
+
+Visions of Aether - You gain proficiency at reading the alterations of reality.]
+
+The pop-up appears on the third day, and I stare blankly at it.
+
+What the hell do these even mean? Will I see some code behind the world? And I get to choose whether I gain insight into the magical or the non-magical portion of it? What else could it do?
+
+Since I’m going to redo, I pick Visions of Aether, and nothing happens. I check BSD, and a thought intrudes into my mind, One hundred percent blue mana, no base components.
+
+I dismiss the screen and resummon it. The same thought lingers in my mind, but isn’t as intrusive. I check my level up condition and laugh.
+
+Accept an apprentice. I nearly double over laughing. If only Edna had known!
+
+While entertaining, the thought is pure schadenfreude and utterly useless. I need a plan, and a solid one. So, first, this loop is a dud, I’m not cementing Initial Rune Lore and Visions of Aether as my skill choices. Once I’m done with the grimoires, and understand all their spells, once I explore the warehouse of suspended organisms Hadriuse experimented on, only then will I confirm the loop as the final one. Until then, I need to see which suits me better, Visions of Aether or Visions of Reality.
+
+Useless thoughts for now; I focus on alarm, there’s still three hours before breakfast, so I open a grimoire. Thirty percent black mana, forty percent green mana, thirty percent blue mana, multiple base components.
+
+Well, that’s interesting. Grimoires are magical, but what does “multiple base components” mean? Does it refer to the item changed by the magic or the components used to cast the spell?
+
+My guess is the former, but I guess I’ll figure it out later. For all I know, it could be something beyond my current understanding.
+
+Three hours pass, alarm beeps, and I set down the book on the desk. One hundred percent black mana, single base component.
+
+I guess this is going to be a thing now. I head for the kitchen and just about everything along the way notifies me it is one hundred black mana and has a single component. In the service corridor, I shudder. Gila is going to yammer about how folder spell is going to make her job as a tailor easy one day, apparently being able to fold cloth perfectly in just the place you want is a superpower for tailors.
+
+Lucy will smile and nod politely, eyeing me all the while, like a schoolgirl with a crush on her teacher, which at least partially is true. Even if she is a bit on the older end of school girls.
+
+Repeating lessons with Lucy and Gila is unnerving, but I mix them up, change the spells I’m teaching, and I often discuss their insights to learn how to better teach them the next time.
+
+I assure myself I will not go mad and head for the next session with the girls. They are sweet and diligent, and learning how to teach them better enriches me as well.
+
+I open the door. Right on cue, Lucy places spoons next to the three plates of Gila’s stew. The steam rises, making identical shapes across loops, to which I pay attention. If I jerk the door open, it disperses for a moment, but the girls yelp, and we have another social interaction, which I’m trying to avoid.
+
+“Thank you for the meal,” I sit and eat mechanically, but don’t taste the food. It was good the first time, and the second, afterwards it slid from all right to tasteless as my brain grew numb to the sensation.
+
+Gila’s literate already, Lucy had done well, but I can’t make myself ask about their progress every single time. I just have to make sure I ask in the last run.
+
+The meal and the following lesson pass in a blur of repetitive actions, I should stop redoing when I have fixed arrangements with others. I’m trying to mix things up to stave off boredom, but in doing so, my comments become weirder.
+
+Loops pass, it’s the ninety first, and I have more or less learned and done what I wanted. This one can end the cycle. So, I stop at level six, my final skill choices fixed. I teach Lucy and Gila with all I’ve got, paying extra attention to them, doubling the hours allotted to their lessons, answering all their questions, and being as thoughtful as possible.
+
+Since I have achieved all my goals, I can devote myself to making their lives as pleasant and productive as possible.
+
+Two weeks fly by, and the girls have reached level six of their journeyman mage class, with level seven within their grasp.
+
+“You can get to level seven on your own,” I tell them two days after my redo loop has ended. “I’m going to Deephorn to give a status report on the dungeon and to see whether inquisitors had done something to the residents when they tracked us.”
+
+“I want to go with you.” Lucy’s eyes sparkle. She’s a fine young girl, and she deserves to be happy with someone who appreciates her. Why does she chase a centuries-old monster in human skin is beyond me.
+
+Maybe I should make myself gross or obscene or repulsive in some other way to break her crush? Unfortunately, I can’t do that. Who knows, in a hundred years, when she’s older and wise, she should realize she deserves better.
+
+I smile at her “No. You two should stay here where it’s safe. Edna is making an army of monstrous plants outside, so nothing can harm you, whether it’s inquisitors or abominations. Meanwhile, I’m going to town. Maybe the inquisitors turned the residents against us, maybe they left some guards behind. I can’t place you in that kind of danger until you are strong enough to handle yourself.”
+
+I chuckle. “Besides, it’s raining outside, there’s mud and filth everywhere. Isn’t it better to live in a pristine place like this, where everything is dry and clean and comfortable?”
+
+Unlike Lucy, Gila nods without hesitation. Now there’s a girl who knows exactly what she wants and how to get it.
