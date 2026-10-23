@@ -1,0 +1,40 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const lastLordOfTheFey = {
+  id: "01a16828-8079-7eaa-ae18-adbc8f5e4c51",
+  type: "page-type/story-read",
+  slug: "last-lord-of-the-fey",
+  author: "SerasStreams",
+  following: false,
+  unit: "unit/words",
+  title: "Last Lord of the Fey",
+  world: "world/last-lord-of-the-fey",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "106126",
+      externalLink: "https://www.royalroad.com/fiction/106126/last-lord-of-the-fey",
+    },
+  ],
+  externalTags: [
+    "Progression",
+    "Kingdom Building",
+    "Male Lead",
+    "Secret Identity",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Mystery",
+    "Attractive Lead",
+    "Chivalry",
+    "High Fantasy",
+    "Local Protagonist",
+    "Magic",
+    "Romance Subplot",
+    "Strategy",
+  ],
+  readLater: true,
+  createdAt: "2026-10-23T09:47:27.224Z",
+  updatedAt: "2026-10-23T09:47:27.224Z",
+} as const satisfies StoryRead
