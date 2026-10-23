@@ -1,0 +1,48 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const godOfVelmorynLitrpgProgressionHighFantasy = {
+  id: "01a166a8-f8ae-739d-be8d-d44e16e92f06",
+  type: "page-type/story-read",
+  slug: "god-of-velmoryn-litrpg-progression-high-fantasy",
+  author: "Winged Sage",
+  following: false,
+  unit: "unit/words",
+  title: "God Of Velmoryn [ LitRPG, Progression, High Fantasy ]",
+  world: "world/god-of-velmoryn-litrpg-progression-high-fantasy",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "117525",
+      externalLink:
+        "https://www.royalroad.com/fiction/117525/god-of-velmoryn-litrpg-progression-high-fantasy",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Portal Fantasy / Isekai",
+    "Progression",
+    "Anti-Hero Lead",
+    "Kingdom Building",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Mystery",
+    "Grimdark",
+    "High Fantasy",
+    "Magic",
+    "Male Lead",
+    "Modern Knowledge",
+    "Monster Evolution",
+    "Mythos",
+    "Non-Human Lead",
+    "Reincarnation",
+    "Ruling Class",
+    "Strategy",
+    "Strong Lead",
+    "Supernatural",
+  ],
+  readLater: true,
+  createdAt: "2026-10-23T02:48:32.173Z",
+  updatedAt: "2026-10-23T02:48:32.173Z",
+} as const satisfies StoryRead

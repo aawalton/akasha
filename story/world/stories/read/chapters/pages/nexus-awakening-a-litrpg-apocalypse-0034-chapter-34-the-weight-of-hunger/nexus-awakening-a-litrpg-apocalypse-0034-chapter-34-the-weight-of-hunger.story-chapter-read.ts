@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
+
+export const nexusAwakeningALitrpgApocalypse0034Chapter34TheWeightOfHunger = {
+  id: "01a166a8-f8b0-79ca-8141-0a5ef6614a96",
+  type: "page-type/story-chapter-read",
+  slug: "nexus-awakening-a-litrpg-apocalypse-0034-chapter-34-the-weight-of-hunger",
+  position: 34,
+  publishedAt: "2025-07-09",
+  unit: "unit/words",
+  title: "Chapter 34: The Weight of Hunger",
+  story: "story-read/nexus-awakening-a-litrpg-apocalypse",
+  ownLength: 1840,
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2422499",
+      externalLink:
+        "https://www.royalroad.com/fiction/117891/nexus-awakening-a-litrpg-apocalypse/chapter/2422499/chapter-34-the-weight-of-hunger",
+    },
+  ],
+  createdAt: "2026-10-23T02:48:32.173Z",
+  updatedAt: "2026-10-23T02:48:32.173Z",
+} as const satisfies StoryChapterRead
