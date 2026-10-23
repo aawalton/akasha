@@ -1,0 +1,257 @@
+Mecia Porsena of Numantia, Colonial Governess of Taracon, walked out onto the balcony of her bedchamber to have a look at her domain.
+
+She had been awoken by a System alert, and awaited a prompt report from her chief subordinates. In truth she could let the System inform her on its own, but she preferred to keep her lessers sharp. Remind them of their places.
+
+She admired the view while she waited.
+
+Slate gray mountaintops pierced the bed of clouds beneath them, which stretched off to the horizon in all directions like an ocean of mist. Above the peaks lay the starry sky and Volos’s two moons, one red, one blue. The red one was bright but distant, and the blue one loomed large above the mountains.
+
+An auspicious pairing. However primitive and unremarkable the people of Volos may have been, she could at least admire its moons.
+
+The first one into her bedchamber was Lar Tathvaal, her Dicentis, her ‘Speaker.’ Per the norm, he wore a servile smile and his honey blond hair was perfectly coiffed despite the late hour. She supposed he’d like to have entered her bedchamber for a different reason. He was ever the ambitious one.
+
+“Governess,” he bowed floridly.
+
+She side-eyed him, then returned her attention to the scene outside.
+
+“We’ll proceed when your colleagues arrive,” she said.
+
+The next man through her door was her Praetor, Jarel Craith. The one in charge of the colony’s security interests, and the personal safety of the Governess and her attendants. He had an ill-humored look, but that was the norm. It was his features; the ponytail he wore accentuated his widow’s peak, his face was narrow, with a sharp, angular brow and nose, and his thin mouth wore a permanent frown.
+
+The last, who was the latest by a noticeable margin, was Arnth Turan, her Artifex. The man in charge of Taracon’s engineering, both physical and arcane. But Arnth had the countenance of an artist moreso than an architect, wild hair, dark circles beneath the eyes, and his toga never seemed to hang well on his frame. Of the three he looked as if he were the most upset that he had to be here.
+
+All three men belonged to Scion Families of note, all three had impeccable academic and career records. They were all part of the next generation of Numantia’s ruling class.
+
+If they survived that long.
+
+“Report,” she said.
+
+Lar Tathvaal stepped forth with a muted smile. “Governess, Blight Protocol is initiated for the whole of the continent.”
+
+Her eyebrow rose.
+
+Lar waved his hand in the air, and the gesture conjured a detailed map of Volos. Per protocol, the System had confined the outbreak into Dungeons and Zones, neatly carving the map up into a game board. Tags above each Zone displayed its level, the number of named Monsters present, and the prevalent Monster types.
+
+The whole map, every single tag, read ‘Corrupted.’
+
+The Governess turned to examine the map further. Of particular interest to her were the pieces on the board, icons revealing the location and strength of the Imbued.
+
+“Are there a sufficient number of local Imbued to handle this?” she asked.
+
+“Likely not,” said Lar. “We shall need to call for reinforcements over the Pharos.”
+
+Opening the colony to other worlds so soon would be unwise.
+
+But there may not have been an alternative. Mecia Porsena had seen large Blights before, but never a single Blight encompassing an entire continent.
+
+“What do we know about the cause,” she asked.
+
+Jarel Craith stepped forward and gave a stiff bow. His voice was a quiet rasp. “It is too early to be definitive, Governess, but at first glance it appears to be related to the heredity of the people. Most of the population have taken on the ‘Corrupted’ type, and have degenerated both mentally and physically.”
+
+“I see the effects, Praetor,” said the Governess, in a caustic tone. “I am inquiring about causes.”
+
+“Apologies, Governess. We will begin our investigation without delay.”
+
+“See that you do,” she said. “I expect a thorough report at dawn.”
+
+She dismissed them. Arnth Turan sighed dramatically and shook his head, but all it took was an icy glance to wipe the offended look off his face and make him meekly file out with the others.
+
+As Redmane barreled up the stone staircase, running on all fours like a beast, he allocated his second Quality Point.
+
+Might 5 —> 6
+
+Warmth infused his muscles and sinews, strengthening them, filling them with vigor. Up ahead the staircase stopped in a square stone room and switched directions, a landing which would take him up onto the castle's battlements if he continued to climb.
+
+His next foe awaited him in this room.
+
+Beastman KnightMonster Type: CorruptedLevel 5
+
+There stood a Morholt Knight in plate mail, with a long tabard bearing the family crest belted at his waist. He could see the gleam of feral eyes in the slit of his steel helm. The knight held a stout spear and a tall shield, and at the sound of Redmane's rapid ascent up the stairs he'd turned and braced it, readied his weapon.
+
+The knight's level gave Redmane a moment's pause. Not enough to make him stop charging up the stairs, however. A Level 5 might be strong enough to best him. He was about to find out, one way or the other.
+
+But it didn't matter. If he died, he died free.
+
+Even this brief breath of savage freedom would have been worth it.
+
+He roared and lunged. The knight ducked behind his shield for cover, took the impact, shoved him back forcefully. In the armor he was Redmane's equal in mass and stature, it seemed. This one couldn't be bullied about like the common soldiers could.
+
+The tip of his spear flashed past Redmane's face. He'd evaded it with barely an instant to spare. But the next two thrusts gashed into his chest and stomach. Mortal wounds for anyone but an Imbued fighter. It hurt all the same, but the pain gave Redmane a primal thrill. as soon as he could get his teeth on that flesh, he'd have payback for those wounds in full.
+
+Corpus: 212
+
+The sight of the wounds closing so quickly gave the knight a moment's pause.
+
+Redmane snarled and struck with a claw. Then the other. Heavy blows that clanged loudly against the steel, forced the knight onto his back foot. He answered with a poke from that spear but his stance wasn't solid, Redmane swatted it aside with ease and kept battering that shield with his claws.
+
+The shield wouldn't take much more damage. Soon it would break apart. His blows landed as if his hands were stone clubs with daggers attached.
+
+Perhaps the knight realized this, because he let out a cry and charged forward behind what remained of his heavily scarred shield. Suddenly Redmane was the one on his back foot. Backpedaling, actually. The knight ran him right up against the wall, pinning him. He struck Redmane in the gut with his spear again once, twice, three times.
+
+Corpus: 158
+
+Redmane let out a cry of fury at the pain. Blood gushed freely from his wounds for a moment before they quickly sealed themselves again.
+
+He took the shield in both hands, jerked it out to his right. The knight's left arm went out wide. Redmane's eyes flashed with hunger at the sight of his extended arm, even clad in steel as it was.
+
+He bit down on it, his jaws enclosing the bicep and tricep, and his teeth speared right through the plate mail and into the skin beneath, crushing the metal down against the flesh as they went.
+
+The knight cried out in pain, the sound distorted by his helmet. Redmane's jaws clamped down on the arm harder. He put a clawed hand on the knight's helmet and pushed, while pulling the other way with his neck. There was a wet, tearing sound and a creak of ripping metal, and then a spray of dark blood when he ripped the limb free from the knight's shoulder.
+
+Redmane took a bite, plate mail and all, chewed and swallowed, and let the rest of the offending limb thump onto the floor. The knight staggered back, moaning in pain, disoriented, his shoulder spurting blood. He feebly raised his spear and Redmane smashed it aside with a claw, struck the knight's faceplate with the other. The blow left four claw marks in the steel from which more blood trickled. The light in those feral eyes had gone out, perhaps he'd blinded him.
+
+Time to finish it.
+
+He shoved the knight back against the stone wall of the small room, shredded his armor under a storm of claws. A final swipe knocked off the faceplate of his helm, revealing the terrified face of a beastman.
+
+A beastman with eyes he recognized. A stench he recognized.
+
+This one used to watch Aric Morholt torture him.
+
+He’d stand at the door to the cell, munching a pastry he’d taken from the kitchen, laughing.
+
+Laughing.
+
+Redmane gazed into the knight’s terror filled eyes. Drinking in the fear.
+
+“Wh-who are you…“
+
+“Look carefully,” said Redmane, in an icy tone.
+
+He waited. Only when the light of recognition shone in the knight’s eyes, and they began to widen, did Redmane tear his throat out and crouch over the remains to replenish as much Corpus as his flesh would allow.
+
+He took his time with this one.
+
+Corpus: 291
+
+Level Up
+
+Level 3 —> 4
+
+Quality Points awaiting allocation: 1
+
+Might seemed to be serving him well, so he took more of it.
+
+Might 6 --> 7
+
+When his snack was finished he sat up, wiped some of the blood from his face with the back of his hand, and considered what to do for a moment.
+
+There would be a few more knights around the castle. And Rodimir, Caslav and Lord Morholt were certain to be strong opponents.
+
+He should slay and eat all the common foot soldiers first, to bolster his Corpus. Then the knights, then the three masters of the castle.
+
+Redmane’s lip twitched at the thought, baring his canines.
+
+He couldn’t think of a greater pleasure.
+
+But he'd have to be careful with the knights. They could hurt him. He was more than a match for one of them, but it would pose a problem if they were accompanied by soldiers. Best if he could ambush them, begin and end things with a single killing bite.
+
+He glanced up the staircase. This time he ascended quietly, making for the battlements.
+
+In times of peace, the castle garrison consisted of no more than forty men. Even if the worst were to occur and the Morholts found their castle under attack, even a group as small as this could defend it quite well, and the smaller number of mouths to feed would be of the utmost importance if they were to find themselves under siege.
+
+But they would not find themselves under siege tonight. Tonight there was a Hunter in their midst, and they were the prey.
+
+Redmane found his senses keener than they had ever been. He could hear footsteps, talking, any sign of life at an impressive distance.
+
+It made it a simple matter to ambush Morholt soldiers, even if they patrolled in groups of two or three. For each group he'd choose a hiding spot, lie in wait, and either pounce or fall upon them, slash them to ribbons with his claws, and quickly feast on their remains before disappearing into the dark to hunt the next pack of them.
+
+His store of Corpus grew and grew.
+
+Corpus: 497
+
+A lone knight stood at the parapet of the wall's southwest turret. Redmane pondered how to approach without being seen. He tried sticking his claws into the stone wall, and found that they dug in easily and also supported his weight fine. So he leapt over the wall and climbed sideways, all the way around the turret, until he was below the knight's post.
+
+The knight was not ready to be grabbed by a claw and flung from the castle walls.
+
+Redmane leapt off the wall to go find the knight's crumpled body in the bushes, scarf it down as quickly as he could, and then scale the wall again to repeat the procedure on any other hapless soldier or knight who happened to be standing too close to the parapet.
+
+Corpus: 625
+
+But his health wasn't the only thing accumulating.
+
+Level Up
+
+Level 4 --> 5Level 5 --> 6
+
+Quality Points awaiting allocation: 2
+
+— At Level 5, Common Class Imbued may select a Class Archetype
+
+Available Archetypes:
+
+Marksman
+
+The Marksman specializes in stealth and archery. Combining a keen eye and steady hand with his ability to mark Prey, his Skills focus on killing shots from astonishing distances.
+
+Trapper
+
+The Trapper, the most patient of Hunters, is a master of preparation. His Skills allow him to construct traps potent enough to capture or slay even the most powerful Monsters.
+
+Beastmaster
+
+The Beastmaster prefers to hunt with an animal companion, and as his Level grows, so too does the power and intelligence of his bonded beast.
+
+Predator
+
+The Predator is the most primal of Hunters. He eschews the trappings of civilization completely, bringing down Prey with naught but instinct and his natural weaponry.
+
+(NOTE: This Archetype is only available to Hunters of a Primordial or Demi-Human Bloodline)—
+
+The best choice was so clear Redmane selected it immediately.
+
+— Archetype Assigned: Predator (Hunter Class)
+
+Skills Granted:
+
+Fang and ClawCommon Class SkillRank 1 - Evolution PossiblePassive
+
+Increases the damage and armor penetration of the Imbued's natural weapons. The Unarmed Combat Proficiency now governs the use of such attacks, and Skills which enchant both natural and man-made weapons may be applied to the weapons in question.
+
+StalkCommon Class SkillRank 1 - Evolution PossibleSustained - 10 Gnosis per 30 seconds
+
+Increases the effectiveness of the Stealth Proficiency when it is used to follow or close the distance on a creature marked as Prey.
+
+Beast SpeechCommon Class SkillRank 1 - Evolution PossiblePassive
+
+Allows the Imbued to comprehend and verbally communicate with animals. Regardless of its natural level of intelligence, an animal may provide information about nearby locations and monsters, limited to whatever they can perceive or have perceived in the recent past. The Imbued may attempt to persuade a beast to perform small favors for him, and the probability of success is modified by the Hunter's level.—
+
+Redmane felt more of that cold tingling throughout his body.
+
+Receiving Skills in this manner felt more like remembering than learning. It was as if a fog lifted from a corner of his mind, restoring his faculties.
+
+His jaws and teeth felt stronger. He looked at his claws, they seemed to have grown a bit and hardened, and they came to gently hooked points like the talons of a bird of prey. He found that if he flexed a small muscle within his forearm he could retract them, making his hands look more or less like those of a human. Flexing that muscle again made them pop back out.
+
+Remarkable.
+
+The desire to test these weapons on live flesh stirred inside him. But then he caught sight of the moons overhead, and took a moment to appreciate the view.
+
+It had been so long.
+
+So long he couldn't even reckon how long it had been.
+
+Had the night sky always been so beautiful?
+
+Certainly. But he'd had a tiny barred window with which to view it, and now he had it all again.
+
+He found no friends or relations in his memories. Perhaps they were too far in the distant past. Lost. But the thought of that didn't trouble him.
+
+Tonight he was free, at last. Free and strong and full of furious hunger.
+
+Redmane turned his attention away from the sky, and gazed downward instead, into the castle yard. He saw the kennel master Rodimir, a lanky man with a mean scar across the left side of his face that he liked to hide by wearing his hair down in an unruly mop. He had an axe at his belt and two hounds at his sides, and was barking orders to a trio of hustling Morholt soldiers. It looked as though they were not simply obeying orders but trying to get away from Rodimir as swiftly as possible.
+
+Rodimir, Master of HoundsMonster Type: CorruptedLevel 8
+
+Corrupted WarhoundMonster Type: CorruptedLevel 3
+
+He didn't feel so scared of a small level gap now.
+
+But Rodimir had more than two warhounds at his disposal. Not far behind him stood the kennels, where there were a dozen or more ready to be let loose. The warhounds looked as twisted as the beastmen, monstrous. Their eyes gleamed with the same sort of fell hunger.
+
+It would be unwise to go in recklessly. But it would be difficult to approach with stealth. Capable as he seemed to be, Redmane wasn't so sure of his ability to sneak up on trained war hounds.
+
+A grin spread across his face. With it came a hot swell of bravery.
+
+Perhaps recklessness was the correct course, in this case.
+
+Redmane leapt down from the battlements and landed in a crouch before his foe.
