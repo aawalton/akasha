@@ -1,0 +1,75 @@
+Chapter 208 / B3-53: Warding Away
+
+Joe spent the next couple of days holed up in his apartment. While he had plenty of work to do with curses and wards, they weren’t the only reason for his encampment. The other reason was the heavy rains that had been drenching Fort Coral.
+
+After the bee encounter at the Sweet Cane Farmstead, the runners had finished the loop back to the city under darkening skies. Being the good adventurer that he was, Joe swung by the Guildhouse and reported the incident. The fact that Kenda was there was purely coincidental. By the time he was headed for the Abakka House, the first drops were hitting the terracotta roofs and cobbled streets. Since then, the rainfall had been a constant soaking.
+
+Surprisingly, the deluge was pleasantly warm, nothing like the cold rains of the northeast where Joe had grown up. Both mornings after Kenda left, he’d take the pack, which now included a variable-shaped young druid, for a run through the shower-like rains, before settling in for the rest of the day until Kenda finished her workday.
+
+Another rain-based surprise was that something was blocking it from reaching the old Vale of Lament. Kendell reported there had been no rain inside the warded boundary of DirgeBlue Vale. The moment she, Edror, and the city guards had stepped past the border menhirs, the rainfall had abruptly cut off, as if they had stepped under an overhanging roof. She returned that evening soaked through and through, but all of that drenching had come from the trip back to Fort Coral.
+
+The first excursion into the new undead spawning ground had been a great success. Her elation was infectious, allowing Joe to forget his fruitless day of failure, since he’d made no progress in unraveling the lesser fey curse from the billymuck wand even once.
+
+While they ate dinner together, Kenda expounded just how invaluable the vale would be for leveling the city guard and new adventurers. A stable spawning ground was a huge resource boon to any town. Years ago, the fort had a coral golem spawner that generated giant, hulking, yet gorgeous, coral elemental creatures. The rocky brutes were a challenge to anyone in their high teens and deadly to anyone lower. On the other hand, for seasoned combatants, it had been a crucial source of experience. The spawner was destroyed when the pirate lord, Captain Curl, attacked Fort Coral a decade ago. Ever since then, the town hadn’t had a steady supply of high-end experience, making it incredibly difficult for people to break past the level 25 hurdle.
+
+That could all change with the new DirgeBlue Vale and the forming dungeon within it. While the outer valley would be useless to anyone over level twenty, the hope was that the inner dungeon would have monsters suitable for the high twenties and up.
+
+The next day, Joe took a break from the fey curse and worked on warding for a bit. Since warding was his second class’s focus, he downed a [Level Lock Draught], so he wouldn’t have to worry if some great epiphany came to him, racking up any dangerous amounts of experience points.
+
+While Mojo was playing on the other side of the room with Mahq, and the ghost pups were watching the weather, Joe set up his warding tools on the dining table and pulled out his books on warding. Along with Derjuc’s ‘An Introduction to Warrior Wards’, he had also bought himself ‘Foundations of Formation Magic’ by Dasket Ebirk. The second book covered more of the formulas Joe would be interested in, support wards over combat wards.
+
+The first ward he tackled happened to be in both books. Joe guessed the ability to prevent drowning came up both in and out of combat. He set to learning the common version of AquaLung. He erased all the old scratch marks from his metal experimentation shield with a quick mending before picking up a burin to start carving a new pattern.
+
+What Joe found interesting was that there was more than one design for this ward. It turned out it wasn't uncommon to have multiple configurations that produced the same effect. In this case, AquaLung had two totally different formulas: either {Life} and {Air}, which made {Breath}, or {Beast} and {Water}, which combined into the {Transformation} affinity. Joe tried the first pattern and quickly found that even his superb {Life} aptitude couldn't offset his absolutely awful {Air} affinity. He carved it correctly but felt almost no connection to the {Breath} formula.
+
+The {Transformation} schema, on the other hand, felt as comfortable as a pair of well-worn sneakers.
+
+You have learned the ward formula for AquaLung.
+
+[Diver’s Shield] (Shield - Common) This item will provide you with a median enhancement to your Parry rating. On activation of this ward, the shield-bearer will gain the ability to breathe underwater for 2 minutes. Range: Touch. {Transformation}
+
+Joe worked on improving his etching of this ward, slowly upping its duration from 2 to 8 minutes. While he knew he still had some more room for improvement, he decided to move on and try to master AquaLung II.
+
+The second rank of AquaLung was quite a bit more difficult, but it would be worth it once he got it, since it lasted three times as long as the common ward did. By the time he had a basic grasp of the more complex version, his fingers were aching. He healed the stiffness away before etching a few more copies. As he did so, Joe made an interesting discovery: these wards were stronger when etched onto seashells or aquatic ivory than onto wood or stone.
+
+Joe had seventeen ranks in warding, which meant he could learn that many levels of wards. So either seventeen common wards, eight uncommon and one common, five rare with two points left over, or some combination that added up to no more than his total number of ranks in [Intermediate Warding].
+
+Right now, he knew the common FlutterFall, the uncommon ThickScale II, BladeSharp II, StormBreaker II, and AquaLung II, and the rare PerilLost wards. Twelve ranks spent. Five more free, not including any more ranks he earned during this session, though it was getting harder and harder to get those ranks since he broke ten.
+
+Joe grabbed Dasket's volume and flipped it open to a page he had bookmarked. Knowing he would need to maintain the windows of his houseboat and wanting a way to be useful to the Bracey family, he read up on the IronGlass ward next. This ward was also useful to prevent potion-bottle breakage. Even though Joe had his [Alchemy Belt], it wouldn’t hurt to have some reinforced bottles that he could hand off to Mojo.
+
+As always, Joe started big at first, chiseling lines onto his much-mended steel shield. He spent half an hour carving and recarving the lines until he finally clicked on the wards concept. He stopped at the common rank with this ward. Someday, he’d want to get this ward to at least Rank II, but it wasn’t a high priority for him at the moment.
+
+The next formation he really wanted to learn was the one he had discussed with Manitou Hogam, FrostBring. Even though the rains were currently dampening the heat of late spring, everywhere he had gone recently, Joe had overheard gossip predicting that this year the Hornwood would see a stiflingly hot summer. If Joe could create his own runic air conditioners, he could be a happy and wealthy warder. The ward frame looked like the letter ‘W’ with a line closing the top. Joe studied the odd design until it finally clicked with him what the ward’s symbology was getting at, icicles. The common level of FrostBring released a small aura of chilliness, perfect for replacing the dragon scales in his gambeson.
+
+Joe went to work on FrostBring II as soon as he figured out the first level of the ward. The uncommon version took him the better part of an hour to master, though once he did, the ward made the whole room noticeably colder.
+
+Once he was sure he had the uncommon ward solidly under his belt, he read up on the rare version. FrostBring III could be shaped in two different ways. It could either cover a large area for a very long time with comfortable coolness, or it could be focused into a tight area of effect, getting cold enough to create ice. Joe missed iced drinks. If he learned FrostBring III, he would be spending three of his total ward ranks on this one ward, but ice was worth it.
+
+At least he thought it would be if he could figure it out. The difficulty of a Rare ward was exponentially harder than an uncommon. Two hours later, he was still stumped. While Joe had mastered one rare ward, PerilLost, he had had a serious boost to his skill at the time. In preparation for Cauldrakon’s attack, the guild had spent a scroll of [Master’s Guidance] on him. He didn't have that now. Joe did have the [Elixir of the Arch-Sage], which was about the same thing, but he was not going to waste it on warding. He was saving it for breaking the Erlking’s bane.
+
+Even without the alchemical boost, Joe felt he was making progress. On this last attempt, he was certain he had drawn it perfectly, with the ward’s concept firmly fixed in his thoughts, and yet the damn thing still failed to activate. Joe checked every line again and again, trying to see where his mistake was. After fifteen minutes of staring without any success, he decided it was worth using one of his cheats.
+
+Joe pulled a [Flukish Flute] from his bag and played a short tune on it, which caused Mojo to perk up. Thankfully, Mahq recaptured the pup’s attention, saving Joe from losing his focus. After scanning the work once again, he sighed. It still looked perfect.
+
+As Joe picked up the shield, a bit of light shifted across the metal surface. It wasn't sunlight, since it was still raining, nor was it lightning. Regardless of its source, that lucky bit of illumination revealed the flaw he had missed. One of his lines was just a faint scratch. It was correctly placed, but nowhere near deep enough. Looking straight down on the shield, it appeared correct. Joe didn’t need to adjust the formula; he had it right. It was just not carved well enough. Joe deepened the line and met success.
+
+You have learned the ward formula for FrostBring III.
+
+Your skill [Intermediate Warding] has increased to rank 18.
+
+[Glacial Targe] (Shield - Common) This item will provide you with a median enhancement to your Parry rating. The bearer of this shield gains Major resistance to environmental heat and Median {Fire} resistance to the next fire-based attack the shield is subjected to. Additionally, if placed in still water, this shield will form ice around itself in Close Range. Duration: Long {Cold}
+
+“Sweet!” he crowed. Excitedly, Joe carved a new ward on one of his blanks and placed it on the bottom of a pot filled with water. In a few minutes, he had an icy slush. Less than a minute later, it was solid ice. By allowing the cold to advance from the bottom of the pot, he hadn’t warped his cookware either.
+
+Joe flipped through his book, debating on what to learn next or if he should switch to fighting with the fey-curses again, when a small pinch pricked his arm.
+
+Yuk is attempting to form a [Parasitic Bond]. Accept / Decline?
+
+Without hesitation, Joe accepted.
+
+‘Hey, Bud. Where are you?’ Joe asked telepathically.
+
+‘Just outside. We have been washed out of three different spots today. Can we stay with you tonight?’
+
+‘Of course. Get in here.’

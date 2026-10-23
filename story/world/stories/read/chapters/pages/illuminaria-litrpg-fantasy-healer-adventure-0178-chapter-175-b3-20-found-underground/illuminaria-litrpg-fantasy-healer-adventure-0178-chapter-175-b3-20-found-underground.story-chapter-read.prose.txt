@@ -1,0 +1,145 @@
+Chapter 175 / 20: Found Underground
+
+They had definitely taken a wrong turn somewhere back there.
+
+For starters, the pair had only encountered two lone wights since they had moved into the latest set of twisting tunnels.
+
+The next clue was the temperature. The area was by no means warm, which was not surprising since they were in a subterranean cave. Even so, it lacked the biting chill that had suffused the ziggurat. That deep, bitter cold was gone. Joe had even found himself opening sections of the heavy hide covering his blue gambeson to prevent himself from sweating.
+
+The last, and biggest, indicator was the terrain. Instead of finding anything familiar, Joe and Yuk were climbing along a tiny ledge with nothing but blackness below them. Joe’s claws and [Hunter’s Pursuit] meant he had no trouble traversing a nearly sheer rock face that would have challenged world-class climbers on Earth. As empowering as it was to effortlessly scale the cleft, it clearly was not something they had fled past in their mad-dash flight from the mummies and wights.
+
+Joe was just about to tell Yuk they should turn back when his collective companion spoke in his head.
+
+‘Hey, Joe. Someone is down there.’ announced the disjointed swarm flowing around the wall with him.
+
+“Someone?” Joe whispered out loud, mostly for the reassurance of hearing a voice in the silent cavern. He also made sure to project the thoughts through the mental connection they shared. “Not something?”
+
+‘Yeah. The bugs kind of remember him talking. We say ‘him’ because they remember a deep voice.’
+
+“What did he say?” Joe asked, hooking his claw solidly into a crack so he could look downward.
+
+‘Joe! Bugs! You keep asking us questions we can’t answer. They’re just insects. They recall sounds and the kind of sounds. They have no idea what was said.’
+
+“Sorry. I keep forgetting.” Looking into the pitch-black darkness, Joe couldn’t see anything, even with [Night Eyes]. “How did you hear them? Do they speak to you?”
+
+‘Not actively. It’s more of a collective murmuration. They think, and I hear them.’
+
+“Fair enough,” Joe retorted, waggling and stretching the fingers of his free hand to loosen them up. “What’d ya think? Wanna go check it out? It’s not like we have any idea where we are anyway.”
+
+‘Sure. It could be an intelligent monster, but we’re pretty sure it’s not an undead.’
+
+“Alright. Down it is.”
+
+Down was a bit tougher than clawing his way across the stone face. Joe sent the glowing rock below him, brightening it enough that he could see where to place his hands. After a few minutes, they reached the bottom. As he stepped off the wall, he found the surface under his feet made up of loose, smooth pebbles and sand. Joe dug his clawed toes into the grit and felt moisture just under the surface. This deep crack must let water in. It probably was more than just an underground seep, too. It likely flooded occasionally for the stones to be so rounded. Maybe during storms or the wet season.
+
+“Do you know which way the voice came from, and can they tell how long ago?” Joe asked, looking along the underground cliff that they had just descended.
+
+‘Time not so much. It’s just a general memory the bugs down here have,’ Yuk stated telepathically. ‘Direction we know. The opposite way from where you are facing.’
+
+“Ok. Let’s go see if we can find him.”
+
+He scrabbled down the wash as Yuk skittered across the wall. At first, Joe thought it was his eyes playing tricks on him, but when he extinguished the [Glowstone], he saw a tiny glow of light glimmering in an open space ahead of them.
+
+Joe inched his way down to a lip of a stone hanging over a four-foot drop into the open space. The edge was wet with seepage. Looking down, Joe saw a body sprawled across the floor, face down, wearing just the ruined scraps of what had once been a pair of trousers.
+
+The light was coming from something stuck in a crack in the stone floor. The corpse’s skin was blackened and cracked with sores. It had one arm extended to the split, its fingers shoved down into the fissure.
+
+“Looks like we missed him,” Joe muttered quietly to the swarm forming up around him.
+
+‘Nope. There is a pulse coming from that body,’ Yuk thought back.
+
+“Really?” Joe looked more deeply with his wound-sight and was appalled by what [Witch Sight] showed him. The body was riddled with rot and cancers, but under all that putrescence was a spark of life. Faint, faint enough that Joe had missed it at first, but it was there.
+
+“Holy crap! You’re right.” Joe sent a paw to the body as he hopped down into the little cave. There were so many things wrong inside that festering mass that he did not want to touch it directly with his skin. Joe started with straight healing.
+
+You have restored 67 points of Margen's lost health. His current health is at 244. He has severe underlying systemic damage. The underlying cause is preventing any additional healing of this type.
+
+Joe stopped and stared at the window.
+
+‘Holy SHIT! Margen!’ Joe thought, too surprised to even project that thought along the connection to Yuk.
+
+How could this be Margen? The man had been lost over a hundred years ago. He had been a veteran soldier even then. Some of the images Joe had seen of the founder in the guildhouse had been of a man in his forties. There were longer-lived races in Illuminaria, but Margen identified as human; he should have died of old age, let alone from whatever was ravaging his body.
+
+Joe shook his head and tried to focus on his job. First, he needed to know what he was dealing with. The numbers inside the withered body were so low that the graphical interface Joe had been using for the party was useless. He switched to one of his older numerical-based views.
+
+Name
+
+Level
+
+Health
+
+(Current/Max - %)
+
+Stamina(Current/Max - %)
+
+Mana(Current/Max - %)
+
+Margen
+
+88
+
+244 / 15,415 - 2%
+
+343 / 18,277- 2%
+
+0 / 3,858 - 0%
+
+Conditions
+
+Mythic Mummy Rot (Putrefaction, Attenuation, Insensation), Fatigue 7x, Enervation 7x, Organ failure 12x
+
+He didn’t even know where to start. A dreadful feeling lurked behind those conditions, causing Joe to shudder just reading the names. Helpfully, [Witch Sight] fed him the meaning behind those terms. Putrefaction not only depleted one’s health, but it also prevented it from recovering, essentially lowering one’s maximum health. Attenuation and Insensation did the same to stamina and mana respectively, eating away at the two pools while preventing them from recharging.
+
+Mythic Mummy Rot was clearly way beyond his skill to cure. It had to be beyond Morty, too. This felt like something that only one person Joe knew had a chance to undo, and that of course was Mercy Suku. Unfortunately, all the dying founder had at the moment was just him.
+
+Even though he had zero expectation of success, he saw no reason not to at least give it a try. Joe cast [Purge]. As he suspected, the spell hit an immovable fortress of deep-seated illness and tinked off of it.
+
+“DDDDDIIIIRRE LOOOOORRRDSSS!” a reverberating voice exclaimed in echoing shock behind Joe. ‘THAT’S MARGEN!’ Yuk shouted mentally a second later.
+
+“I know. And he is in REALLY bad shape,” Joe stammered back.
+
+‘Joe! You have to save him. That’s Margen!’
+
+Joe spun to glare at the semi-formed shape of Yuk. “I know! I just don’t know how!”
+
+He immediately regretted growling at the raggamuffin, who recoiled from Joe’s frustrated ire.
+
+“Sorry, Yuk. I’m reeling here, too. We just found a dying unicorn, and I’ve only got a bandaid.”
+
+‘You can do it, Joe. We know you can.’
+
+“No pressure,” he sighed.
+
+Joe considered [Dispel Noxa], but he was afraid that since the body was comprised of more rotten flesh than healthy skin, the skill might tear the man apart as it had Broon or the wights. Maybe if he worked on one tiny spot at a time, he could restore some vitality to the founder. Joe had no idea if it would work, but he wanted Margen to have as much health as he could. Even though he had just healed and hit a health wall, he cast [Healer’s Hand] again anyway, pretty much as a reflex.
+
+You have restored 22 points of Margen's lost health. His current health is at 266. He has severe underlying systemic damage. The underlying cause is preventing any additional healing of this type.
+
+“That shouldn’t have worked,” Joe muttered. He had hit the Putrification cap just a few seconds ago. This heal was a tiny amount, but it was something. Stumped, Joe repeated his last couple actions: [Purge], followed by another [Healer’s Touch].
+
+You have restored 22 points of Margen's lost health. His current health is at 288. Margen has severe underlying systemic damage. The underlying cause is preventing any additional healing of this type.
+
+[Purge] was working. Just barely, but it was working.
+
+“Ok, Yuk. I’m able to make tiny bits of progress here. Not much, but it’s something. This is going to take a while.”
+
+‘We’ll stay on lookout. Do whatever you have to,’ the excited guilder replied, falling apart into individual critters and spreading around the room.
+
+Joe dropped a [Halefire] for good measure. The extra healing really didn’t help, but it didn’t hurt either. When Joe got Margen to almost five percent of his massive fifteen-thousand health pool, his progress stopped. He tried and tried again, but he could not get any further.
+
+His enhanced vision was telling him that he had finally reached the point where he would have to try to remove some of the undead rot woven through the warrior’s infected form before he could heal any further.
+
+“Say a prayer, Yuk,” Joe muttered. Relying on [Witch Sight] to guide him, he very carefully cast [Dispel Noxa] on the healthiest spot he could find, which was on the man’s left calf, right below the knee.
+
+Black and green pus burst from the skin, making a stink so vile that Joe immediately vomited. He thought he had a stomach that could take anything after all the years in hospitals, but the reek that ensued, along with his heightened sense of smell, completely overwhelmed him.
+
+[Halefire] turned out to be a dual blessing. Not only did it continue to heal in the several minutes it took Joe to recover, the phoenix spell attacked the putrid goop, burning it away. While the stench still lingered in the air, at least its source was banished.
+
+‘That was the worst thing we ever smelt,’ Yuk chimed in, ‘and we have had to gather bugs from middens and sewers.’
+
+Joe wiped the tears from his eyes and looked. To his amazement, there on the calf was a tiny patch of skin that had a hint of pink to it.
+
+“Oh. This is going to be awful,” he groaned.
+
+An hour later, Joe had to stop again. This time it was not because his healing had hit another wall, though he wished to all the gods in Illuminaria that was the reason. That would mean he would not have to expel any more of that vile, stinking rot, which had turned the small hollow into a torture chamber of nausea.
+
+No, this time, it was because the founder had cracked open one eye, and was staring at Joe.

@@ -1,0 +1,155 @@
+Chapter 180 / B3-25: Hooray for Yuk
+
+One by one, the feral attackers fell, until there were none left.
+
+‘We leveled!’ Yuk crowed into Joe’s head.
+
+‘Congrats, you lucky bastard,’ he sent back as he retouched up the warrior. Margen had been very circumspect with his stamina usage, but every chance the disease got to spread, it would.
+
+‘You’re still two levels ahead of me. Quit your grousing, Joe,” Yuk jibed back happily.
+
+On a whim, Joe looked at the party and noticed something new. Until now, Yuk’s level had been a question mark.
+
+P
+
+A
+
+R
+
+T
+
+Y
+
+Name
+
+Level
+
+Health
+
+Stamina
+
+Mana
+
+Yuk
+
+14
+
+986
+
+▌▌▌▌▌▌▌▌▌▌
+
+741
+
+▌▌▌▌▌▌▌▌▌▌
+
+667
+
+▌▌▌▌▌▌▌▌▌▌
+
+Conditions
+
+Fatigue: 1x {Weary}
+
+Joe
+
+16
+
+722
+
+▌▌▌▌▌▌▌▌▌▌
+
+1774
+
+▌▌▌▌▌▌▌▌▌▌
+
+2696
+
+▌▌▌▌▌▌▌▌▌▌
+
+Conditions
+
+Enervation: 1x {Taxed}
+
+‘What? What changed?’ Joe thought to himself, only to have Hawking supply the answer to his question.
+
+[Terrible Secret] No one must know. You are immune to assessment skills and divination magic from anyone who does not know your secret.
+
+‘Wow,’ Joe stammered mentally back at Hawking. He paused his healing while he digested that fact.  ‘Their sharing with me was a big deal.’
+
+Yes, it was.
+
+Unaware of the other silent side conversation Joe was having, Yuk piped up with a question.
+
+‘So what do you think we should take? We talked about [Roving Roaches], so we could split apart, or we could take a more combat helpful skill. Right now, for combat, we really only have [Biting Vortex], which eats up tons of stamina, [Poison Bites], which are useless on the undead, and my basic [Bug Bites], which is too low damage for this place. We could upgrade that last one or take something new. We have a bunch of options.’
+
+“Almost done, Margen,” he said out loud, before replying to Yuk. Joe felt a bit weird having so many layered conversations.  ‘I don’t want to steer you wrong, Yuk. You sure you don’t want to tell Margen? He surely would have better suggestions than I would.’
+
+‘As soon as we get out, sure. It feels like a VERY bad idea down here. Come on. What’s your first thoughts?’
+
+‘So what is your favorite new option?’ Joe thought back, hoping it would be something good.
+
+‘Let us show you.’
+
+[Rat Bastards] - Uncommon - Spirit: This skill will allow you to manifest a pack of ravenous spectral rats, which can be deployed for 1 minute. The spirit vermin are subject to damage. The level of damage from the collective rat bites is determined by the number of ranks you have with this skill, and by the number of existing rats, starting at Median damage, down to Minor damage for a single rat. Cost: Moderate Mana | Range: Medium. {Vermin}
+
+That was more than good. Joe could easily see how that would help them out. ‘That is very cool. What makes up the {Vermin} affinity?’ he asked.
+
+“{Beast} and {Shadow} and, as we’re sure you can guess, we have a near Perfect {Vermin} affinity.’
+
+‘More damage would be a big help, but even better is it presents another target. They’ll pull some of the attackers off me while being something I don’t have to scrub afflictions off of. I say, go for the rats.’
+
+‘What about [Roving Roaches]?’
+
+‘Maybe they’d help if we could find another crack to the surface. That feels more like a gamble to me. Also, how often would you use it? The rats feel like a skill you could always use.’
+
+‘Alright, let’s do it.’
+
+‘You sure? You know, I really don’t know skills all that well,’ Joe admitted.
+
+‘It’s a good choice, Joe,’ they assured, before asking, ‘How close are you to leveling again?’
+
+‘I’m only like 15% into this level. Got a long way to go.’
+
+To confirm his guess as to where he was level-wise, Joe checked his sheet.
+
+It was nice to see that [Brawler] had gained the ranks from [Versatile Combat Expertise]. That explained why he had been so comfortable with a skill he had just acquired.
+
+It was interesting to note that Joe had a couple of open attribute points, yet no generic ones. He had a free point in Strength and Dex, which he planned to use to keep upping his skill rarities instead of adding more new commons to his list. Since getting to Fort Coral, he had been developing a build that he was feeling pretty good about; he didn’t want to dilute it with dozens of other minor abilities.
+
+Joe finished patching them up and, once again, looked for anything that would point them toward the way out. The small group moved on through the deep gloom of the ancient passageways. Until the tunnel they were skulking down was bisected by a tall crevice. The light did not reach the top of the underground cliffs, leaving just blackness overhead.
+
+Yet something else was here. Joe stopped so abruptly that Margen almost walked into his back. Some pressure or presence was needling at Joe. It was faint but insistent, almost frantic. It was coming from somewhere above them.
+
+He looked up, launching the glowstone toward the ceiling. When the illumination item reached about a hundred feet over his head, Joe was able to see the rocky ceiling of the cleft. He could also tell there was a wide-open space up there. The sensation calling him was definitely coming from that direction.
+
+“Hold up. I need to check something out. Margen, I’m going to leave half of Yuk’s swarm with you and bring him and the rest with me. Unless you are an expert climber, that is. I’m getting a strong feeling from something up there.”
+
+“You go ahead. I could use a breather,” the moldering man groaned. Joe considered spending a minute to fully restore the man, but the calling feeling was pulling at him. He buffed the swordsman's stamina with [Efferous Endurance] before hooking his talons into the wall and easily beginning his ascent.
+
+With his claws and [Hunter’s Pursuit], the climb was no more difficult than using a ladder. He was just as fast as the half swarm of insects skittering up the stone face beside him. The closer he got, the more feeling flowed into him. What was at first an itch became a frantic feeling, which evolved into an exuberance. When Joe was about fifty feet above Margen, he suddenly knew exactly what was calling him. It was Mojo.
+
+Somehow, in the circuitous route underground, they had ended up close enough to the shug monkey for their empathic connection to reestablish itself. Joe launched himself upward, leaving Yuk to catch up. He clambered over the edge of the clifftop and found that he was standing in a huge bowl with a crack in the bottom. At one point, long, long ago, this must have been an underground lake. Joe hustled across the sandy floor until he found himself looking straight upward. He was standing directly under the little man. Joe tried to discern how much distance there was between them, but that was one experiment he and the pup had not yet performed. Joe just knew that Mo was up there, but he had no idea how far away and through how much earth and stone.
+
+‘Oops, maybe we should have gone with [Roving Roaches],’ Joe sent to Yuk. ‘I know where they are now. I’m right under Mojo.’
+
+‘Hold on. I’m sure Mojo is letting them know we are down here. Give it a sec. Something will happen. We’re sure of it.’
+
+No sooner had Yuk finished his prediction before a red spark fluttered its way out of the ceiling right over Joe’s head. The color of that mote was one Joe knew all too well. The obviously Vexor conjured ember drifted downward, and as it reached Joe’s chest height, he held out his hand, catching the spark on his palm. The moment the wisp touched his skin, it ripped open a tiny portal. Joe felt something land in his hand before the miniature rift vanished. It looked just like the stud earring Naragash had given to Kendell.
+
+Joe numbed his ear with [Deaden Flesh] and drove the prong through his lobe. “Hello,” he said, resting his fingers against the stud.
+
+“GOOD GOLLY McGULLY! JOE!” bellowed Myllo through the jeweled item. Unlike Yuk’s telepathy, Joe heard the korrigan’s voice, but he knew from when Kenda wore it that the sound was only audible to the wearer. “You’re alive! Yuk?”
+
+“With me,” Joe answered. He heard Myllo yell the news to the others. Even though he couldn’t hear anyone but the guild leader, it was clear from Myllo’s attempts to shush the others that there was a great deal of cheering going on overhead.
+
+“Ok, we have a plan to get you out of there …,” Myllo paused, and Joe heard a whispered “I know. We’ll let him choose.” The korrigan’s voice cleared up, and he continued, “Well, two plans actually. But first, do you have any emergency needs?”
+
+Joe considered what he needed. Mortalius to help him with Margen was the biggest priority, but before he could broach that idea, Yuk yelped a warning.
+
+‘A deader squad is heading for Margen. We should get down there!’
+
+Joe had not left the founder in great shape. “Hold on. More wights. Be right back,” he blurted through the stud, before turning on his heel. Flaring [Hunter’s Pursuit], he dashed across the sand, heading straight for the cliff.
+
+‘Uh, Joe,’ Yuk warned as he closed the distance to the long drop. ‘Joe! JOE! EDGE!’
+
+He didn’t stop. Just the opposite. As he reached the rim of the crevasse, he leapt out into the open air. Plunging down the hundred-foot drop, Joe watched the weary warrior below haul himself to his feet with the howls of the feral dead echoing from the tunnels around him.

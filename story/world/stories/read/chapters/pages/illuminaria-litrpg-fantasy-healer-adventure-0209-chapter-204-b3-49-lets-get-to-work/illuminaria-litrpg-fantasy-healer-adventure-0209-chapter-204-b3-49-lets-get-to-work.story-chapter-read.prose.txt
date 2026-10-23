@@ -1,0 +1,77 @@
+Chapter 204 / B3-49: Let’s Get to Work
+
+Joe arrived back at his apartment to a surprise. A wooden case with a bowed ribbon and a card had been placed on his doorstep. The chest was not too big, about two feet wide, a foot tall, and a foot deep. It was made from a rich colored wood and varnished to a bright polish. It had handles on the end, and it opened horizontally around the middle of the box, like a suitcase.
+
+Joe plucked the card and read.
+
+“It was nice to speak with you again, Joe. When you mentioned your interest in warding, I thought this might help you out. Though this was my doing, please consider this a welcoming gift and a token of gratitude from the city council as a whole. In your short time with us, you have proven to be an admirable addition to our fair city. We look forward to working with you again.
+
+Hogam Goldboar”
+
+“Wow, that was nice of him,” Joe uttered to himself, picking up the case, which turned out to be heavier than he expected it to be. His greatly improved strength meant he had no trouble lifting the chest, but its heft was still noteworthy. With both hands full, Joe used an amber paw to open the door.
+
+Excited to see what his gift was, he headed straight for his dining table and used a taloned force digit to slice through the ribbon. He unclipped the chest’s latches and lifted the top half to find that the case was designed just like his old tackle box had been. Two trays on tracks slid backward. These were filled with dozens of glass vials and little wooden boxes: warding reagents. Each container was labeled. As he ran his eyes over the collection, Joe was surprised at the range of materials that had been prepared for his use: everything from seemingly common dirt to lustrous ground precious stones filled one section of the top tray. There were also treated bone, captured ashes, floral reagents, and numerous vials of various liquids.
+
+The bottom section held tools on a bed of blue felt. Several of the chisel-like burins had been fashioned from various materials. There was a collection of oddly shaped tools that looked like something a dentist would use. These identified as [Script Hooks]. There was also a small drill, a pair of fine needle-point pliers, and a tray of lenses, held vertically in felt-lined slots. Along with these was an athame, but it was a very basic item, nowhere nearly as potent as the ones he had just bought.
+
+Realizing the tool section was not deep enough, Joe felt along the front of the case, quickly finding two cleverly crafted drawers. The first contained a plethora of warding blanks: dozens of wood, metal, or ivory discs ready for wards to be carved onto them. The other compartment was currently empty, so Joe summoned his three new athames and placed them onto the blue felt inside the drawer.
+
+“You know what, maybe we should start with warding first. Then work on the cursed slippers afterwards.”
+
+Joe pulled out his warding manual and flipped to the LeafFall ward. He left the blanks in the drawer and summoned his scratch shield from his dim-cuff. Since his warding skill was still in the low teens, it was still significantly easier for him to draw big wards at first. Once he had the ward locked in his head, he could start using the smaller blanks.
+
+The base of the LeafFall ward was a triangle, but unlike BladeSharp, this one was pointed downward instead of upward. Joe made the mental jump to a falling leaf, spiraling down to the ground. With that concept in his head, he began to draw using one of the new burins Hogam had gifted him.
+
+He did not add any of his available power-ups, Murrcee’s boon, the [Elixir of the Arch-Sage], or even one of the luck charms. He wanted to save those for the curse-work. He just had [Crystal Mind] going. Even so, Joe found his hand was steady, and his cuts flowed in effortlessly smooth lines below the burin’s tip. Joe was pretty sure the new tool in his hand had to have some enchantments worked into it, but he was not going to break his focus to identify the instrument.
+
+On his first try, he crafted an acceptable fall-reduction ward.
+
+You have learned the ward formula for LeafFall.
+
+Your skill [Intermediate Warding] has increased to rank 14.
+
+[SlowFall Shield] (Shield - Common) This item will provide you with a median enhancement to your Parry rating. If the bearer of this shield falls more than 10 feet, the ward will automatically activate, reducing the bearer's rate of descent to 2 yards per second, the equivalent of a fast walk. Once the bearer lands on a solid surface, the effect ends. There is an 85% chance that this ward will break when the effect ends. {Gravity}
+
+Even though LeafFall was a common ward, Joe was pretty pumped that he got it on the first attempt. He knew there was quite a bit of room for improvement, such as reducing the break chance and allowing the bearer to choose whether to activate it. Still. First try!
+
+Sure enough, the burin was enspelled. It wasn’t much of an enchantment, but since this gift out of the blue allowed him to craft the new ward so easily, he was pretty stoked about it anyway.
+
+[Warder’s Lesser Burin of Finesse] (Item: Tool - Common) This implement provides a modest competency bonus to your wardcrafting. {Expertise}
+
+Joe grabbed a wooden blank from the drawer and carved LeafFall again. This time, he reduced the break chance to 60% and [Intermediate Warding] increased to 15. He used the miniature drill to bore a hole in the disc, strung it on some leather cord, and hung it around his neck. Even though Joe didn’t plan on being around any cliff edges any time soon, since he had one, why not wear it?
+
+Since he now knew both aspects of the [Slippers of Feathered Steps], it was time to take a look at the Erlking’s bane. Joe took out the crystal shoe box. With a keen attention to [Witchsight], he unlocked the hasp and lifted the lid. Joe could easily see the covetous curse wrapped around the elvish-looking moccasins.
+
+He was about to lift one out when he realized he should take precautions against a mishap first.
+
+“Hey, Mo. Why don’t you go down and see Mahq? I’ll get you two in a few hours, and the three of us will go get some lunch. Okay?”
+
+The changeling’s ears perked up at the name of one of his favorite people. He ruffed happily and dashed toward the door. Seeing it was closed, the shug-pup spun around and bounded back toward the open window. Joe slapped the crystal case closed and held it tightly sealed as the shaggy doofus tore his way across the table before diving into the vines that would bring him down to the floor below.
+
+“And that is why we send the puppy away when handling volatile materials,” Joe sighed to himself.
+
+He took a deep breath before he opened the case a second time. Using one of the miniature crooked tools from the case, he hooked it on the soft leather, lifting the item free without touching it. He placed the slipper on the table and just watched the curse for a bit. The dense web of poetic-looking script didn’t move at all; it stayed laced around the enchantments and the physical material of the shoe. Joe moved his hand closer, watching for any changes. He had his hand within a centimeter of the item, and the curse’s coiled magic didn’t shift at all.
+
+Joe decided not to actually touch the slipper, even though he was pretty sure that he needed to claim the item for the curse to infect him, but why take the chance? He reread the malediction's identification to make sure he had not missed any clues.
+
+{Death Blight of Fallen Rapture} Epic: The death curse of the covetous lich that had once been the King of Spring was laid across his offerings to the Queen of Winter, whom he revered above all others. The malediction affects the mind and body of those it corrupts. Possessors of tainted objects are consumed by envy. Each act the possessor makes to satiate their cursed cravings distorts their pattern with infusions of necromancy.
+
+[Unliving Fortitude] would give him a powerful resistance against the necromancy, but again, why push his luck by touching the cursed item when he didn't need to yet? For the next hour, Joe did nothing but study the malevolent weave. He followed the mystical stanzas as they wove around each other. Unfortunately, it was a bit like trying to untangle a wad of string by memory alone. Joe found that no matter how hard he flared [Crystal Mind], he would only be able to track sections of the curse for so long before he lost his place.
+
+He was tempted to use the [Elixir of the Arch-Sage], since it would give him two hours of heightened acuity, but he was pretty sure that would be a mistake. He was a long way from being close to ready. First off, his [Witching Scour] was at zero ranks, not the best point to be tackling an epic death curse. Secondly, was the reason it was at zero ranks. He had never tried to break a curse before, other than the severing power of [Curse Cleaver]. Systematically dismantling a hex was an untried test.
+
+So, that was where he started. Using himself as a guinea pig, Joe numbed his thigh and studied what [Deadened Flesh] looked like with [Witchsight]. Unlike the crisp poetic lines of the Erlking’s blight, Joe’s witchy desensitizing looked like a fuzzy gray blob. It took him a few seconds to realize he was seeing not just the curse but also the effect the spell was having on his skin. [Witchsight] was a combination of [Assess Wounds], [Know Curse], and [Read Wards]. This wasn't a problem when he looked at the slippers because the [Assess Wounds] component did not come into play.
+
+It took a few minutes of mental gymnastics to limit his perception skill to just what he wanted to see. It was easy for him to switch to his health-based sight, but that was because [Assess Wounds] was almost second nature to him. It took a lot more focus to turn that part off and just utilize the [Know Curse] aspect.
+
+When he finally got there, he could see the curse clearly. It had similarities to the death blight, but it lacked the look of poetry or music. To Joe, it looked more like code. Joe was by no means an expert coder, but he had taken a couple of Python and Java classes in college. He had even built a few simple games for his final projects. The curse aspect of [Deaden Flesh], for some reason, made Joe think of one of those games. He could see where the code was counting its way down through its duration, where it was overwriting the nerve responses in his muscles, where it was constrained from spreading.
+
+Going by his gut, Joe focused on the weave where the counter and the deadening were connected and fired off [Witching Scour]. He felt the spell latch onto the spot, yet that’s all the spell did. Joe scowled and uttered, “Come on. Break.”
+
+And that was what was missing: intent.
+
+You have unbound [Deaden Flesh].
+
+Your skill [Witching Scour] has increased to rank 1.
+
+As he read the notification, he instantly understood that there were actions he could take to unravel a curse. Once he wrapped the curse breaker around a bit of the curse, he then had to choose what to do next, such as shift the strand or break it. He had a feeling that just snapping the strands was not going to be the best way to break the epic death curse. He was going to need way more finesse than he currently possessed.

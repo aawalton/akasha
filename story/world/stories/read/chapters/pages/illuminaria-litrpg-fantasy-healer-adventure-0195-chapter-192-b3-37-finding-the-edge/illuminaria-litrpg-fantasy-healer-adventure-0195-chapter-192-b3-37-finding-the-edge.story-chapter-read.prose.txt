@@ -1,0 +1,83 @@
+Chapter 192 / B3-37: Finding the Edges
+
+Sitting in the classroom-like study, Kenda indicated she had finished reading all of Joe’s new options. He had even shared the whole King of Spring thing with her.
+
+“Let’s start with the easy stuff first,” she began, still looking a bit astonished by Joe having been awarded [Aspirant of the Spring Crown]. “To be honest, I have no idea what advice to give for the royal fey ranking.”
+
+“I’m meeting with Myllo, Margen, and somebody named Dorian Barrburrow at three this afternoon. I think we are going to go over it then.”
+
+“Ok. Then I’m off the hook completely. I’m great at seeing synergies, but those guys would be far better at helping you with the aspirant title. Do you know Master Barrburrow?” She asked, to which Joe shook his head. “Dorien is by far the richest merchant in Fort Coral. Maybe even in all of the Hornwoods. I know he’s got more gold than even the elven king of the Kingwald. Some say he might be the King of the Lephrechauns.”
+
+“That explains it. I was wondering how someone who had nothing to do with the raid on the Vale was one of the contenders. If he is already a fey king, then I guess this will be an easy decision. Dorien should take the role.” Even as the words left his mouth, Joe felt a nagging doubt.
+
+Kenda, who had been watching Joe’s face, caught his expression. “What are you thinking, Joe? You don’t want to stand on stage for Margen’s return or go to a noble ball. Yet you look like you want to contest Dorian Barrburrow, the founder of the Barrburrow Trading House and the owner of Barrburrow Bank and Trust, for the crown of the Erlking. That seems very unlike you.”
+
+“Don’t get me wrong. I really don’t want to become some fey monarch, but … it’s hard to explain. It’s a feeling. Something to do with the Mark of Death. I first noticed it in the ziggurat with the mural that Wen helped me decode. But I think it started even before that. The first time I met Finn under the ocean, I felt it. This thing,” he stated, tapping the inside of his right forearm, where the glittering tattoo resided, “has been perking up every time I have some interaction that involves a chimera.” Joe’s voice trailed as he thought back. “You know what, it was even before Finn. The mark got heavy when I first saw Tusked Tarz.”
+
+“And you think it’s connected to the [Aspirant of the Spring Crown]?”
+
+“I do. Even though becoming some sort of king is nothing I ever dreamed of, I think it’s important anyway. I may have to accept it or fight for it, if nothing other than to save Finn from his curse. The akhluts are constantly being driven by their hunger. No matter how much they eat, it’s never enough. According to the mural, all the chimeras are cursed in one manner or another. What if breaking these curses is the reason I have the mark?”
+
+“Do the marks even work that way? Would they … or could they string together the chain of events that made this possible?”
+
+“I was hoping you could tell me. You are the savant, after all.”
+
+“Okay, to be fair, I have not studied the Marks of Fate much. My specialty is building effective skill sets, not dealing with weird outliers. That being said, The One Above has designated them as Prophetic traits. That would suggest they have some ability to foresee the future. You could be onto something here, Joe.” Kenda stood up from her desk and paced a few steps before spinning back to Joe and Mojo. “Let me see what info I can find about the marks. Now you have my curiosity piqued. I’ll let you know what I find.”
+
+Seeing the drive light up in her eyes, Joe held up his hands in a “hold it” gesture before he lost her entirely. “Not now, though, right. We still have achievements, skills, and other stuff to do. Not to mention you said you'd help me get an outfit for Dorian and the ball tonight.”
+
+“Two outfits. One’s a business meeting. One’s a party. You can’t wear the same thing to both. But you’re right. Achievements first. You have [Bottle Service] and [Early Admission] to pick between, as well as [Diamond Resolve] and [Giantkiller]. Before I give you my suggestions, which do you like better? Your own feelings over a choice are often a good sign as to which is better for them.
+
+Joe reviewed the two achievements.
+
+Achievement: You have defeated an epic elite enemy four times your level. You have gained 1 unassigned attribute point. Your conduct has awarded you the following choice of Traits:
+
+[Giantkiller] You ain't so tough. Gain a moderate damage enhancement when fighting beings who have 35% or more levels than you.
+
+[Diamond Resolve] Mind your mind. Increase one of your mental resistances by two categories.
+
+Achievement: You have utilized a legendary item while you are under 20th level. Your conduct has awarded you the following choice of Traits:
+
+[Early Admission] Close enough. Item requirements are lowered by 20% for you.
+
+[Bottle Service] Drink up. +1 Vigor, and once per level, you gain an Epic or lower rarity potion of your choice.
+
+“My mental defenses are already pretty damn high. Yet, if I am going to be dealing with the fey, maybe upping one of them further might be a good idea. Still, to be honest, a general boost to damage when fighting monsters higher level than me seems like something I’d get more use out of.”
+
+“I agree. Those two are really close. Both are conditional; one improves your protection from a single mental attack type, the other helps against level disparity. I say go with your gut with that one, Joe. There really isn’t a wrong answer or clear winner between those two. How about the other one?”
+
+“Well, I guess I need to know how often item requirements are a limiting factor. Before I saw the Erlking’s offering to Queen Morrigu, I hadn’t encountered any item restrictions. That treasure trove was the first time I saw a significant number of items greater than rare, and I couldn’t use ninety percent of them. I also have an epic-level reward coming my way from the recovering Margen quest. I guess I need to know how big of an obstacle item restrictions are.”
+
+“Most of the time it’s not too bad. It affects wealthy houses more than most of the rest of us, as they have access to more heirloom items and can afford to buy higher rarity gear. You see traits and skills like your [Early Admission] with hereditary orders and built into many knight and noble-style classes. As for me, there was a time two years ago that I had to bust my butt to get over an item restriction, but honestly, unless you plan to go hunt dragons for their hordes, I wouldn’t worry too much about it.”
+
+“Ok, good, because I like [Bottle Service] better. More Vigor will help if we want to look into a stamina-based curse breaker ability. Plus, being able to grab an epic-level potion of my choice every level sounds awesome. I once used an epic-level transformation potion to turn into a sea hawk, and that was amazing.”
+
+“I agree with you. I would have picked [Bottle Service], too. Both traits are good, so I would not have pushed too hard if you wanted [Early Admission]. A free epic potion is great at your level. Just know, as you advance to higher levels, [Bottle Service] might become less valuable than [Early Admission], but for where you are today, it's a solid choice.”
+
+“Awesome. So what do you think my first potion should be?”
+
+“For most folks, I would suggest a [Dose of Death’s Reprieve] or a [Potion of Invulnerability], but you already have a trait to defy killing blows, and you can fashion PerilLost wards.” She tapped a finger against her chin as her gaze lifted to the ceiling.
+
+“Well,” she pondered,” if you want something fun, I’d get yourself another transformation potion. If you want to be super practical, then an [Elixir of the Arch-Sage] will help you with breaking the curse for sure. If you want an ace in the hole, one of my favorite potions, though I’ve never been able to afford one, is an [Essence of the Obsidian Juggernaught]. For five minutes, you become encased in razor-sharp stone, your strength and physical defenses go through the roof, you are fireproof and resistant to a ton of affinities: {Acid}, {Lightning}, {Cold}. I’ve always wanted to dive into battle tanked out with one of those.”
+
+Joe considered fulfilling her wish, picking the obsidian elixir and giving it to her, but his mind jumped back to the choice before that one. It sounded like the Arch-sage potion would turn him into a super-genius, and if he wanted to break the Erlking’s death curse, that might be just the trick he needed to do it. Joe knew he and Vexor were not in any real competition, but solving a magic puzzle before the sorcerous cambion genius would feel great. It would also be a solid step on the path toward helping Finn.
+
+Joe made his choices.
+
+[Giantkiller] You ain't so tough. Gain a moderate damage enhancement when fighting beings who have 35% or more levels than you.
+
+[Bottle Service] Drink up. +1 Vigor, and once per level, you gain an Epic or lower rarity potion of your choice.
+
+You have selected [Bottle Service]. Please indicate which potion you want for your current level.
+
+You have selected [Elixir of the Arch-Sage]. For 2 hours, your {Mind}, {Revelation}, and {Calculation} affinities will be enhanced to Superior. You will receive the {Greater Focus}, {Greater Intuition}, and {Uncanny Insight} buffs.
+
+On the expiration of the potion, you will suffer from four levels of mental fatigue. Continued usage of this elixir can result in permanent cognitive damage.
+
+The bottle appeared in Joe’s hand. It was a heavy crystal flask filled with a deep blue liquid in which strands of a silvery fluid swirled about, never fully mixing with the azure base solution. It was one of the more ornate vials Joe had ever seen. Arcane script was etched into the clear stone, and a velvet band encircled the vessel's neck. The stopper was made of cut glass and sealed into place with golden wax.
+
+The skill savant identified the beaker and chuckled. “You went for the responsible choice?”
+
+“I’m going to level up in a few days. I figure I can pick something more extravagant then. For this week,” he stated, holding the potion up to the light coming through the window, watching the ribbons of mercury move through the sapphire solution, “I think this guy will be a big help.”
+
+As Joe stashed the vial into his dimbag, Kenda headed for the blackboard. It was time to work on skills.

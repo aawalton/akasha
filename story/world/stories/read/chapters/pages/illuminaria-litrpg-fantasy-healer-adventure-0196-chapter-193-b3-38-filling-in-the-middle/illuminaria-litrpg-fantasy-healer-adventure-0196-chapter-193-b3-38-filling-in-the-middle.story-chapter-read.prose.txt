@@ -1,0 +1,81 @@
+Chapter 193 / B3-38: Filling in the Middle
+
+Kenda wrote the abbreviations for the five attributes vertically: STR, VIG, DEX, PER, SPI, and then added the letters UA below them. In the next column, she scribed the numbers 1, 2, 1, 0, 0, 2, lining them up to the six contractions.
+
+“Ok, then let’s get to your skills,” Kenda prompted. “You have a free point of Strength and Dexterity, and two in Vigor, plus two unassigned. We can do a lot with that. Besides getting you a curse breaker ability, I can see at least three ways we could consolidate some of your commons.”
+
+“Really?”
+
+“For sure. I’m surprised [Night Eyes] and [Tracker] have not already merged, but if we tossed another {Beast} based sensory spell in the mix, I’m sure they’d roll together.”
+
+“I’d rather save my free points for a curse breaker skill. [Night Eyes] works well enough and I’m not sure I want to make my nose any more sensitive. I was down at Netting this morning and the smells of old fish, musty rope and canvas, plus the fishermen themselves, were already overpowering. I’m learning how to block out the worst smells of the city, but since I don’t plan on becoming a hunter, I think we can leave my olfactory acuity right where it is.
+
+“What else have you got?” Joe added.
+
+“The next one is [Hunter’s Pursuit] and [Sidestep]. Again, by adding another {Beast}-based movement ability, you can get those to combine. You will get refunded a point, either from Strength or Dex, depending on the skill you add. Do you have a preference, or do you want my suggestion?”
+
+Joe thought about the possible skills he aware of, and the number of combinations seemed a bit overwhelming. He didn't even know the shear number of skills Kenda did, and already he was lost. He fired up [Crystal Mind], which helped, but there were so many options that he admitted, “I’ll let you guide me, Kenda.”
+
+“My kind a’ customer,” she smirked. “Then, I’d go with [Stag Stride]. It’s a Strength-based speed boost with an evasive aspect to it. It’s almost sure to merge with [Hunter’s Pursuit] and [Sidestep]. That means you’d get refunded a point of Dex. You then take those two free points of Dexterity to upgrade both [Whisperstep] and [Swift Strike] to uncommon. For the cost of two points, you’ll get three upgrades.”
+
+“Nice!” Joe exclaimed. “Did you save the best for last? Something better than that combo.”
+
+One look at Kenda’s suddenly bashful expression told Joe that she had not.
+
+“I wish I had thought of that, but no. I’m sure we could get [Savage Claws] or [Heavy Hand] into [Brawler], but it might shift the base skill, [Brawler], to a more focused fighting style. This is something you may want to do down the road, but I’d get all you can out of [Brawler] first before you start to specialize it.”
+
+“No worries, let’s go with that second idea then. Unless there is a hidden downside there we haven’t discussed.”
+
+“I can’t think of one. [Stag Stride] is as close as we can get to a perfect fit for what we want. There is still a tiny chance they won’t merge, but my gut is positive they will.” She pulled a skill crystal from her spatial bracelet and bounced it up and down in one hand. Someone was either pretty sure what Joe would pick, or maybe she had gathered up shards for multiple options. “Ready to give it a go?”
+
+“Yeah. I’ll pay you back.”
+
+“No, you won’t. You saved Wen … and Margen. This is my thank-you gift.” Lobbing him the stone, she added an admission. “Besides, it’s a common druid skill. Buy me dinner someday, and we’ll have spent the same amount.”
+
+“Deal,” Joe stated, squeezing the crystal point and accepting its magic.
+
+[Stag Stride] - Common - Strength: This skill improves your ability to dash evasively through enemies and lengthen your leaps. Your movement speed and attack evasion increases for 4% for each skill rank you have with this skill. Additionally, your maximum jumping distance increases by a number of yards/meters equal to your Strength. Cost: Modest Stamina. {Beast}
+
+You have learned [Stag Stride].
+
+Skill Upgrade: You have learned a skill that synergizes with skills you already possess. [Hunter’s Pursuit], [Sidestep], and [Stag Stride] will combine to become the uncommon skill [Hunter’s Haste]. You have an open point of Dexterity.
+
+[Hunter’s Haste] - Uncommon - Strength: This athletics-focused skill improves your ability to move across various terrains and dodge attacks. Your movement speeds and evasion improve by 15% plus 3% for each skill rank you have with this skill. You will be able to move through natural impediments, such as rocks, brambles, and underbrush, without being significantly slowed. Additionally, by flaring and spending major Stamina, you can use this skill to perform one exceptional evasion every 10 minutes. Cost: Modest Stamina. {Celerity}
+
+Joe then spent his refunded point, as well as the other free point of Dexterity, to advance his only two Dex-based skills. Kenda supplied the skill shards.
+
+[Whisperstep] - Uncommon - Dexterity: This skill improves your stealth abilities by 20% plus 2% for each skill rank you have with this skill. Stealth aids your ability to perform actions unobserved or unnoticed. Its primary focus is sneaking and hiding, but it will provide a minor enhancement to all secretive actions, such as sleight of hand. Cost: Minor Stamina {Instinct}
+
+[Swift Strike] - Uncommon - Dexterity: You can empower your melee attacks to inflict additional damage and improve their chance to break through defensive deflection techniques. Your attack damage and deflection penetration increase by 6% plus 2% for each skill rank you have with this skill. Cost: Minor Stamina | Range: Touch. {Inertia}
+
+Joe noted that these two skill names didn’t change when they advanced. He had yet to figure out if there was a pattern to whether or not upgrading a skill gave its name a new variation. He figured he’d ask Kenda about it someday, but at the moment, he still had four open attribute points to work with.
+
+“So now we should focus on a good curse breaker ability for you. I’m hoping you have one already available to your Baleful Warder class. That might be our best option. What do you have?”
+
+“I have this,” he replied. Joe had already looked and spotted a curse-breaking skill, but he wanted to ask the expert about it before he took it.
+
+[Witching Scour] - Uncommon - Spirit: This skill allows the caster to attempt to disenchant detrimental formation magic, such as curses, hauntings, and traps. While focusing on a baleful formation magic, this skill will provide you with an {Insight} buff to understand its design and locate any weaknesses in its structure. The disenchant and insight buffs scale with the number of ranks you have with this skill. Cost: Major Mana. {Unbinding}
+
+Joe shared the skill with Kendell, who immediately waved her hands in involuntary excitement.
+
+“That is perfect! We have got to sit down some night and catalog this class of yours. It has so many cool skills. I was hoping we wouldn't get stuck with the classic [Break Curse] or [Disvex], since those either work or fail. It all comes down to power levels. Which is stronger, the skill or the curse? This reads like it will let you keep picking away at it as a curse, unravelling it like a sweater. It’s no good for combat, but you already have [Curse Cleaver] for those situations. You never see these kinds of systematic skills, except for specialist classes. That is hands down better than anything we could give you under epic-level. If you want a curse-breaker, then I’d take that in an instant. It may take you a ton of time and mana, but being able to keep working at it, instead of attempting to straight up overwhelm the curse, is priceless.”
+
+“I thought it sounded good, but the major mana had me worried. Ok.” Joe spent his two unassigned attribute points into Spirit, upping it to twenty-two, and grabbed [Witching Scour].
+
+“Any suggestions for the two points in Vigor?” he asked.
+
+“Well, as I told you, having a crafter skill is a big help. I’d up yours to [Intermediate Warding]. Then, since you are our alternate tank, after Tez, advancing [Bonemail] will improve your already pretty solid defenses.”
+
+Joe had planned on suggesting advancing his warding skill, but Kenda had beaten him to it. He hadn’t considered [Bonemail]. Yet after a moment of consideration, he realized the {Bone}-based armor enhancement was likely the only reason his gambeson survived the Erlking’s lair. Joe had had to mend the coat time and again, but if it were not for the damage reduction of [Bonemail], his signature blue suit would have been shredded to bits in Yuk’s first detonation.
+
+“I like it. Thanks.”
+
+He followed her suggestions and burned the pair of green skill crystals she handed him. Joe figured he would find a way to pay her back soon. This had to be adding up even though they were all common skills.
+
+When he was done, he looked over his gains.
+
+“Nice!” he declared. “And quick. Leaves us plenty of time to find me something to wear. Can you get free now?”
+
+“I’m all yours. I should have headed home hours ago. Let's get you suited up, and then I’ll go grab a nap before the Jurnasko Ball. I’d be a terrible date if I tried to slog my way through another day without sleep.”
+
+Kenda laced her arm through his and held out her other one for Mojo, before leading the three of them to Garment Quarter in South Wall.

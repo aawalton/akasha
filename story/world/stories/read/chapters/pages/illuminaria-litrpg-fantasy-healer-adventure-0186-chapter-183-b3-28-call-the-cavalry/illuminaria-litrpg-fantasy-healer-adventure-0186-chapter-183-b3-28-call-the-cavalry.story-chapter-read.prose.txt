@@ -1,0 +1,113 @@
+Chapter 183 / B3-28: Call the Cavalry
+
+Yuk had spread the majority of his body in and around the door to Winter’s honorarium. Margen had moved himself to the corner of the room, protected from the impending blast. Joe was crouching on the steps down to the prior level, with a [Casting Claw] prepared to pluck the items he had chosen from the treasure pile.
+
+The first item to really catch his eye, amidst the pile of treasures, was a medallion that bore a symbol he recognized. Joe had seen that glyph at Corran Loigen’s house when he was learning about the Hounds of Anwyn. The three-sided knotwork insignia was the mark of the Cù-sìth, Padu’s race.
+
+[Trisynun Ossuary] (Item: Vessel: Alliable - Epic): The three that are one.
+
+Crafted during the Winter Wars when the forces of An-Dumnos, of the Court of Ravens and Shadows, assaulted the forests of Ahnun, the Dappled Hunting Grounds. Three hounds of the Wild Hunt bound themselves to this vessel to serve Callum the Bounder. Should the hounds accept the worthiness of the petitioner, this item will become Soulbound, and the hounds within will henceforth be loyal companions, tasked with watching over their bound custodian.
+
+A cù-sìth spirit can be called on for the following abilities. At its current Growth level, only one ability or cooldown can be active at a time.
+
+• Bayu’s Howl: Release a sound-based cone that inflicts moderate {Sound} damage and applies the [Weakened] condition on enemies. You can choose to have this howl be audible to anyone nearby or only heard by those it affects. Cooldown: Momentary | Range: Medium• Baru Bite: For 1 minute, increase the {Beast} affinity of allies in Medium Range. Additionally, {Beast}-based attacks inflict a moderate {Bleed} condition. Cooldown: Momentary | Range: Medium• Ranu’s Dash: Gain a 24% bonus to your movement speed. Additionally, increase the range increment of your skills. Choose a specific range distance and increase it by 1 range increment. This choice can be changed each time you level. Passive
+
+Growth: As the connection between you and the bound cù-sìth deepens, additional abilities will be enhanced and/or unlocked.
+
+The ‘Alliable’ modifier worried Joe a bit. Joe was pretty sure he would be able to get along with the cù-sìth spirits in the medallion, unless they would only work with a true fey. For that reason, he had his other amber paw poised over his second choice. He planned to grab both either way, but if there was some ‘pick only one’ rule, he wanted the amulet most of all.
+
+[Invigorous Verdant Vintage] (Item: Consumable - Legendary) This mystic draught was crafted in the year 1966 by the fabled clurichaun vintner, Edjimar the Ebrious, from the rare grapes of Mahg Mell. Imbibing this elixir will permanently increase your Vigor by 2. Requirement: Level 15
+
+While the bottle of deep green liquid had a far simpler boon and it was only a one-use item, it was the only legendary object Joe saw that had a level requirement that he met, and even then, just barely. The legendary items were mostly capped at level thirty and up. Even most of the epics were limited to over twenty, except the ones that had requirements like the ‘Allied,’ where the item could reject you.
+
+‘Okay, bud. You ready?’ Joe sent telepathically.
+
+‘All set. Waiting on you.’
+
+Joe summoned two chunks of obsidian from his [Bullet Bag] and began breaking them down. As the spell closed in on reaching maximum damage, he had one paw count down fingers for Margen, while mentally uttering the numbers for Yuk. On zero, he scooped the medallion and flask and had the amber hands zoom them to his spot just below the edge of the floor.
+
+The moment the two treasures left the pile, screaming, rage-filled howls exploded from the floor above. [Witch Sight] showed Joe that an alarm worked into Morrigu’s statue had been triggered by the theft. Clearly, the number of Dirge Wights had not been too decimated. Dozens of bodies poured down the stairs. The mass was made up of the loping lupine marauders, the lumbering hooved chargers, the flapping vulturine casters, and the dreadful, oily-wrapped thralls. Only the archers were missing.
+
+Joe popped the cork and gulped down the rich, green fluid, which tasted better than any wine he had ever sipped. He felt the flush of health flow through his body as Yuk sprung the trap. Hawking popped a message into the edge of his vision, probably for using his first legendary item or something similar, but Joe didn’t have time to check it out as the deafening blast tore through the charging wights. He had already used [Morphic Form] to lower his Perception by almost half, and even then, the thundering explosion was painfully loud.
+
+This [Bug Bomb] was in between the two that Joe had witnessed so far. Though in comparison, it was far closer to that first devastating detonation than the second controlled blast in the corridor. A vast swath of the charging, undead horde was blown apart. As soon as the concussion passed, Joe let the shards fly, spraying the front of the line with obsidian shrapnel. The empowered stone slivers shredded over half a dozen more of the enemies.
+
+Unfortunately, many more of the ghasts clambered over the tattered remains of their brethren. As a group, they turned their hate-filled gazes onto Joe. A score of warnings appeared at the edge of Joe’s vision.
+
+You have resisted the Woeful Marauders [Ferine Shock]. You are not stunned.
+
+You have resisted the Carrion Canter’s [Broken Will]. You are not entranced.
+
+You have resisted the Gibbous Charger’s [Dreadful Yawl]. You are not afraid.
+
+You have resisted the Mournful Thrall’s [Gruesome Terror]. You are not horrified.
+
+You have resisted the Mournful Thrall’s [Cryptic Sedition]. You are not confounded.
+
+You have failed to resist the Mournful Thrall’s [Hope Hammer]. You are stupefied.
+
+Joe staggered from what felt like he had just received multiple punches right in the brain. He slipped to one knee, trying not to fall all the way over. He knew he had to get a [Halefire] around Margen, but he couldn’t make his thoughts work clearly enough to do so. He couldn’t even think about how badly he hated being {Stunned}.
+
+Gazing blearily towards the founder, he saw that the man had one hand clamped over his right eye, his fingers white as they squeezed into his skull. Joe tried to get his mind to [Purge] the stunning effect, but his thoughts seemed to shudder and slip away from his attempts to corral them.
+
+A roar, not one of the feral howls but a human scream of fury, grabbed Joe’s wobbly attention. Margen charged the dead. The living tsunami had returned.
+
+“Get!” the warrior bellowed as DoomHerald bisected a clawed marauder and one of the dripping ursine thralls in a single swing. The undead pair fell into roughly four equal pieces, even as the warlord blew past the falling forms.
+
+“Out!” His huge foot slammed forward, hurling a vulturine mage into a knot of its ghoulish allies.
+
+“OF!” Whirling the long blade like a Jedi, the swordsman hacked arms and legs off anything unable to get far enough away from the raging maelstrom of fury.
+
+“MY HEAD!” The curved blade swung through the air, looping and slashing. The seemingly relentless stream of undead enemies might as well have been a line of ants beneath the boot of a mighty colossus.
+
+Joe slapped himself hard across the face, jostling a brief moment of clarity for him to [Purge] the daze he was trapped in.
+
+“Shit!” he swore with a blessedly cleared mind. He could see Margen burning himself out. In a few more seconds, he would not be able to bring the man back from the rot that was consuming him.
+
+A voice in Joe’s head had been shouting at him, but the stupid stun condition had turned their words into the sound Charlie Brown’s teacher made. Clear-headed, he could understand Yuk once again.
+
+‘Joe! Mark’s done! CALL THE OTHERS!’
+
+Joe was mostly sure he articulated intelligible words to Myllo through the communication stud, but even if not, the general idea must have made it across. A red line of energy appeared in the air across the hall in Autumn’s Chamber, where they had left the Gatestone and a dozen open stamina potions for Yuk. By now, the raggamuffin should have absorbed plenty of scarabs to recover his lost body mass.
+
+The red crack opened into a fully formed gateway. Sunlight lit the floor, possibly for the first time in centuries. Maybe ever.
+
+To Joe’s astonishment, the first entity to emerge from the crimson portal was not a Hellion, but a colossal bone creature brandishing weapons in each of its four arms. This fearless titan charged the horde of ghouls, mercilessly hacking into their necrotic flesh with a whirlwind of brutal strikes. Broon must have been busy during the time Joe and Yuk had been lost.
+
+Right behind the bone brawler came Zaebos. The bison-sized hyena had a strange bit of ornamentation. A long white ribbony scarf was tied around his mottled head, flapping down his back. The beast giggled madly as it plowed through a pack of marauders to pounce on a bearish mummy.
+
+Graymuck was right behind his companion. The hunter’s [Cannon Shot] blasted more of the dead foes backward. It was clear these forerunners were tasked with clearing the way for those behind to follow.
+
+Joe swiftly averted his gaze from the gate, his focus locking on the rapidly deteriorating founder. Without a moment's hesitation, he began healing through one of his [Casting Claws] and enveloped the man in a [Halefire]. Joe teleported himself across the space, appearing at Margen’s back. Not caring what spattered onto him, Joe wrapped his arms around the dwindling waist, rapidly cycling through [Purge], [Dispel Noxa], [Effereous Endurance], and [Healer’s Hand], desperately trying to stabilize the failing warrior.
+
+The drag of Joe’s body and a flood of energy flowing through the great warrior finally must have broken through his battle-fury. The giant stepped back, allowing a burning, axe-wielding Reven to take his place. Without the rage, the man’s nearly empty stamina caught up with him. Margen managed something between a slump and a fall against the wall before sliding down it.
+
+Joe kept working as buzzing filled the air around him. Yuk’s [Biting Vortex] provided him with both defense and some cover. He tuned out the increasing sounds of battle and kept pouring magic through the dying warrior, but it was a battle he was rapidly losing. The decay ravaged everything it could reach, and since the giant was covered in new wounds and had almost completely sapped himself of stamina, the corruption was everywhere.
+
+Joe was only snapped out of his desperate task by a pair of hefty hands clapping loudly in his face. He turned to see a shocked Mortalius looking down on them both. The fomori’s mouth was hanging open, and her eyes were practically bugging out of her head.
+
+“Yeah! I know! It’s Margen. Help me!”
+
+The burly cleric nodded, still bearing a goofy look of bewilderment. As the templar laid her huge hands on the man’s chest, the sound of ravens filled the room. Like steam off a pot on the stove, ebon wisps of sooty magic eked their way out of Margen’s body. The smoke-like tendrils initially clustered around the priest’s fingers but quickly radiated outward. The smell coming off those dark vapors wasn’t quite as bad as the tainted fluids Joe’s [Dispel Noxa] produced, but they were pretty foul, all the same.
+
+“Would you get him out of here as soon as you can?” Joe asked, placing his taloned hand on the fomori’s broad shoulder. Mostly, it was in gratitude, but it was also to steady himself. Joe had blown through a ridiculously large chunk of mana very quickly, leaving his head swimming from mana enervation.
+
+As silent as ever, Morty grabbed Joe’s wrist and then levered the much diminished founder up onto her shoulder in a fireman’s carry. Still casting her spells, the dark-armored cleric dragged Joe towards the gateway.
+
+Joe gave one backward look before letting himself be led away, with a hefty chunk of Yuk riding along on the pelt. The guild fighters had swept this room clean and were setting up a foothold at the base of the stairway leading up to the Erlking’s hall. Tezeno’s [Aegis of Order] blocked the way up. The steely grey field was being enhanced by a layer of red energy and what looked like Myllo-crafted steampunk-style batteries. The red field shunted away the damage spells from the vultures and the mummies. The batteries appeared to be sealing any cracks inflicted by the hammering fists of boarish dead.
+
+Around the frontliner’s feet, empty potion vials were hitting the floor with a steady rain of shattering clinks.
+
+[Lucid Juice] (Item: Consumable - Rare) For up to 1 minute, you are immune to the next mental attack that bypasses your mental resistances.
+
+Even with Wen’s illusionary screen of foliage, the team at the barrier must still have been getting hammered with mind attacks, considering how fast the team was downing the one-shot immunity tonics.
+
+Then the world went white as Joe’s eyes experienced something other than a light no brighter than a candle for the first time in hours. Tears poured from his light-blinded lids. Morty supported him as she dragged him further from Vexor’s gateway.
+
+Just as Joe blinked the fuzzy shapes in front of him into the outlines of bodies, Myllo’s voice blasted through the air in a mix of disbelief and jubilation.
+
+“MARGEN? You two lunatics found Margen?!” the guild captain bellowed boisterously. The small man was gesticulating wildly enough that even with his dazzled vision, Joe could see Myllo’s great mane of hair and beard moving.
+
+‘Told ya, Joe,’ Yuk gloated. ‘Awesome and heroes.’
+
+Before he could think of a good comeback, a yipping ball of joy tackled his face, drowning him in puppy kisses.

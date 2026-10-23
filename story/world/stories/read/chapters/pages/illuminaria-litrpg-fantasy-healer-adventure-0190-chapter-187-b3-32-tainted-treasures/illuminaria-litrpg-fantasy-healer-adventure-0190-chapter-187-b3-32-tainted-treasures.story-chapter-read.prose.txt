@@ -1,0 +1,145 @@
+Chapter 187 / B3-32: Tainted Treasures
+
+When the spears of wood and hunks of rocks finally stopped falling from the sky, the team peeked out over the ravaged valley. They were roughly a mile away, teleported, and then hurled up to the edge of the steep rise that would bring them to the fields above. This bit of elevation gave them a decent view of the unbelievable scene of devastation below.
+
+To Joe, it looked like a series of rings. In the center, there was nothing left but a crumbling crater. Even now, more of the surface ground was breaking free and disappearing into the broken cave system below where the pyramid had once stood.
+
+The next band was barren ground. The earth was stripped bare of everything, revealing a swath of dirty stone. This was followed by the dirt ring, which had a hairy appearance from all the stubs of torn roots poking out of the soil.
+
+This progressed to the stump circle. Not the neat flat ones that Joe had seen loggers leave behind. These were jagged and uneven, as if Godzilla had swept its tail through the forest. The first of the large blue hunks of the ziggurat were embedded into the ground in this band.
+
+After the sections of empty ground was a massive dam of tangled trees. Very few were still rooted; most were down and shoved together, forming an almost solid wall around where the Erlking’s prison had once stood.
+
+The layers of destruction began to diminish from there out, but they were still clearly visible. Bit by bit, more trees were left standing, even though they had been mostly stripped bare of foliage. One did not start seeing branches constantly coated with the blue-tinged leaves for another couple of hundred yards beyond the log wall.
+
+Joe finally pulled his eyes away from the crater and assessed his team's medical state. Yuk was much diminished but slowly growing. Joe tossed him an [Effereous Endurance] to speed that process along. Taylyn, too, was tapped out, mostly of mana, so Joe handed her one of the blue potion bottles he had left. He had taken the brunt of the physical damage, and thanks to [Wellspring], every time Joe had healed himself, he had dropped thirty or so points of healing on Tay, Yuk, and the [Hide of the Hunter].
+
+While he hurt absolutely everywhere, the {Pain} mitigation of the [Vanguard's Diadem] helped reduce the complete battering he had taken to a bearable ache. He eased himself to his feet with a great deal of wincing and groaning, using the trunk to help himself up.
+
+As he cracked his back, he noticed that sticking out of the bark was a small silver dirk. The little stiletto looked like it had been fired from a crossbow straight into the hardwood trunk. On a whim, he used [Identify] on it.
+
+[Slatintreach] (Item: Weapon - Rare) Storm Needle. This weapon was crafted by the selkie Tuk Stormshroud and the boggart silversmith Durgurrelk for the Lady of Loch Rhew. The blade can release a bolt of lightning eight times a day. This line extends from the tip of the dirk to the end of its range and inflicts median {Storm} damage. Each day at dawn, it recharges any expended uses. Range: Medium. {Storm}
+
+‘That’s cool,’ Joe thought, reaching out to yank the poniard free. Yet just before his fingers touched the argent metal, he noticed a purple aura woven around the weapon. Inspecting the magic more carefully revealed a dark curse on the blade. [Witch Sight] allowed him to analyze the bane. He was sure the hex was new to the dirk. It was painted onto the stiletto, not part of its original construction. Joe thought he might be able to untangle it, but it would take time.
+
+The more he studied the curse, the more he realized it was unlike any other formation magic he had seen so far. It made him think less of the mathematical arrays that made up wardcraft and more like lines of poetry written in strange, swirling characters, interwoven around the small dagger. Even more bizarre was the fact that Joe instinctively knew the meaning of many of these swooping marks, even though they were definitely something other than the common tongue of Illuminaria.
+
+While he couldn’t actually read the odd script, he was able to discern it from the stiletto. This allowed him to use [Identify] on just the curse.
+
+{Death Blight of Fallen Rapture} The death curse of the covetous lich that had once been the King of Spring was laid across his offerings to the Queen of Winter, whom he revered above all others. The malediction affects the mind and body of those it corrupts. Possessors of tainted objects are consumed by envy. Each act the possessor makes to satiate their cursed cravings distorts their pattern with infusions of necromancy.
+
+‘Bleh,’ Joe thought. Just as he was about to see if he and the other two had already been cursed, he heard Yuk’s mental voice chime out gleefully.
+
+‘Ooh! Shiney! Look what we found.’
+
+“Don’t touch it, Yuk. The treasure’s cursed,” he stated out loud for Taylyn, too. She seemed to have lost her [Parasitic Bond] as Joe could not sense her presence in the connection with Yuk.
+
+‘Really?’
+
+“Let me look.” Joe spotted where a large portion of Yuk had gathered around a small golden figurine of a bird. Assessing the little statuette, Joe saw the same woven, plum-colored curse. Keeping his [Witch Sight] focused on banes, he located dozens of small items strewn across the hillside around the three of them. Most of the objects were coins; all of them had the twisted purple poem tied to them.
+
+“Yeah. Sorry, bud. It’s all cursed. Possessing anything from the Erlking’s trove will corrupt our patterns.”
+
+‘What about the medallion you grabbed?'
+
+“Oh, shit. Well, I’m not currently cursed with the death blight,” Joe replied after examining himself. “Neither is Taylyn. I think you are ok too, but I’ll have to check again when you shift back out of your swarm form to be certain. You are almost impossible to read clearly in your alternate form.”
+
+‘That was smooth, Joe,’ Yuk sent telepathically. ‘Thanks for helping us keep our secret.’
+
+‘No problem,” he thought back before adding out loud, “I don’t want to take the medallion out of storage yet. Why chance the curse latching onto it? It wasn’t part of the horde when the Erlking died. I’m thinking it should be safe, but no point tempting fate. How is everyone?”
+
+‘Awesome! We leveled twice! What about you?’
+
+“Two levels! Congrats, bud. Only once for me, but I feel like I’m pretty close to eighteen.” Joe recalled how he had an instant of euphoria as they were hurtling through the sky. Too bad their collision with the tree, a heartbeat later, squashed the blaze of leveling glory almost as soon as the cascade began.
+
+“Twice? Yuk leveled twice?” the mouseling exclaimed, picking up the cue from Joe’s words. “I never knew how low your level was, Yuk. You must be very hardy to have survived all that. I have a much bigger gap between levels. I, too, am very close to my next level.”
+
+“Do you guys want to scan your notifications quickly before we scramble up out of here?” Joe asked, looking up the steep rise out of the valley.
+
+After receiving a pair of affirmations, he started on his pile of messages from Hawking. After auto-dissmissing any skill rank-ups, he moved on to the more important ones.
+
+You have reached level 17. You have gained 1 unassigned attribute point.
+
+‘Ok, now let’s see what the hell you did with my skills,’ Joe thought to the wildness.
+
+You have partitioned [Morphic Form] into its base usage and the rare skill [Skinwalker]. While these two skills will share ranks, they each can only be accessed by their corresponding sub-pattern.
+
+‘What the heck does that mean, Hawking? People have multiple patterns?'
+
+Not typically, but you do. Given the distinct division you have applied to your sense of selves, you have fashioned a sub-pattern with yourself. When you shifted control of yourself to the sub-pattern, and it performed changes you did not agree with, it was fitting to assign those changes to only that aspect of your being.
+
+‘Oh geez. Ok. What the heck does [Skinwalker] do?’
+
+[Skinwalker] - Rare - Vigor: By donning a complete, soulbound skin, you can transform into a physically identical form of the creature the skin belonged to, with the exception of size. For each skill rank you have with this skill, you can increase or decrease your mass by 10% to more closely resemble the original being the hide came from. For the five-minute duration of the transformation, you will possess the physical abilities and characteristics of the skin’s original form. Cost: Median Stamina. {Transformation}
+
+‘That’s better than I expected. Nothing about skinwalkers possessing people, spreading diseases, and reanimating the dead. Too bad it’s such a pretty limited thing to spend an upgrade and a point of Vigor on. So basically, if the wildness is in control, we can become a werewolf. I can’t imagine we are going to come across more soulbound skins very easily.’
+
+While Joe did not see himself letting the wildness drive the bus ever again, he was somewhat comforted to know that if such an event ever did occur in the future, his feral id would have an incredibly durable form to work with.
+
+There are classes you could take when you reach level 30 that specialize in the binding of flesh, but I do not think you would enjoy them.
+
+You should look into shamanistic classes, Joe. These would suit you better and allow you to form such bindings. Many would also aid you in reintegrating your divided spirit.
+
+‘Ok. Thanks. I’ll talk to Manitou Hogam about that. Or Mahq, for that matter.’
+
+Moving on, Joe found an achievement next.
+
+Achievement: You have defeated an epic elite enemy four times your level. You have gained 1 unassigned attribute point. Your conduct has awarded you the following choice of Traits:
+
+[Giantkiller] You ain't so tough. Gain a moderate damage enhancement when fighting beings who have 35% or more levels than you.
+
+[Diamond Resolve] Mind your mind. Increase one of your mental resistances by two categories.
+
+He wasn’t sure how [Diamond Resolve] would work with [Stun Block], but taking the trait with one of the other mind defenses would give maximum resistance with either fear, domination, or confusion. That would be huge.
+
+On the other hand, Joe had been fighting outside his weight class time and time again. The only reason he had won these battles was through an uncontrolled wildfire, having Sougath’s kryptonite, and partnering with a live bomb. [Giantkiller] would help level the playing field if this trend continued.
+
+Joe closed the alert unselected. He wanted to talk this one over with Kenda.
+
+Achievement: You have utilized a legendary item while you are under 20th level. Your conduct has awarded you the following choice of Traits:
+
+[Early Admission] Close enough. Item requirements are lowered by 20% for you.
+
+[Bottle Service] Drink up. +1 Vigor, and once per level, you gain an Epic or lower rarity potion of your choice.
+
+This was another choice he wanted to think over before selecting, but [Bottle Service] was very tempting. Joe really wanted to fly like a falcon again, but those potions were just too damn expensive. He moved on to the next notification, only to have his mind completely blown.
+
+You were instrumental in the defeat of a royal of the Feylands. As the Erlking is no longer incarnatable, the [Mantle of the Spring King] is now inheritable. As there are no viable heirs or champions, your conduct has awarded you the following Trait: [Aspirant of the Spring Crown].
+
+[Aspirant of the Spring Crown] Forever live the king. By defeating or eclipsing the other aspirants, you may ascend to the rulership of the Spring Court of the Feylands.
+
+While your pattern meets the base compatibility to bear the [Mantle of the Spring King], you have been awarded the following trait to improve that compatibility: [Veil Walker].
+
+[Veil Walker] Native of two worlds. Your fey-heritage has been strengthened. You are now seen equally as a being of the Feylands as you are one of Illuminaria. You have gained the following abilities: • You can detect and utilize the common crossings through the Veil. • You can understand the Sylvan language.  • You may align yourself with one of the Seasonal Courts.
+
+You have been aligned to the Court of Spring.
+
+‘What?! No. No, thank you. The last thing I want to do is get embroiled in fey politics. I don’t know nearly enough about them and their rules. Besides, the queens sound pretty damn wicked. I don’t want to get on their radar,’ Joe emphatically informed Hawking. His eyes fell on the crater where the old Fey king had been imprisoned and realized that someone from the Feylands was surely going to find out who was responsible. ‘ Crap. Okay, any further onto their radar than I probably already will be for this mess. Can I refuse a trait?’
+
+When there are options, yes. This is not optional. This designation is part of the rules left to me by Arawn.
+
+‘Who else got this? Taylyn? Maybe she would want it. I’ll abdicate and let her have it.’
+
+Both of those points are false. First, you cannot decline this, Joe. You can choose not to fight for the crown, but you cannot step out of contention for it. Secondly, the most basic rule of a fey king is that one must be male. Taylyn does not qualify. Yuk’s unique nature also removes him from consideration.
+
+‘Then who are the other aspirants?’
+
+Myllonell Grensward, who was the leader of the expedition, has a claim equal to yours.
+
+Margen of Glandryth was the most powerful figure involved in the conflict, giving him the right to contest for the crown.
+
+Dorian Barbarrow is the highest-ranking fey in the region, also giving him the right to contest for the crown.
+
+‘Ok. Then I should be safe. One of those guys will get it over me.’
+
+They are more powerful than you, Joe, yet out of all of them, you possess the greatest compatibility with the [Mantle of the Spring King].
+
+“What do you mean? I have one enchantment spell. Wasn’t the Erlking all about that sort of magic?’
+
+The Erlking was, but the [Mantle of the Spring King] embodies several other concepts as well: birth, rebirth, new beginnings, beauty, joy, and transformation, to name a few. Margen’s cycle of rebirth, even though it was precipitated by a legendary item, is another reason for his inclusion.
+
+Your delight in your new life, the transformations you have undergone, your embracement of change, the possession of the prophetic [Mark of Death]: all of these strongly align your nature with the [Mantle of the Spring King].
+
+While enchantment was the Erlking's strength, it was not what made him the previous Lord of Spring.
+
+Joe scrubbed a hand across his face. ‘I have a feeling my life just got way more complicated.’

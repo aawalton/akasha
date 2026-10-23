@@ -1,0 +1,113 @@
+Chapter 207 / B3-52: Buzz Off
+
+You have resisted the Grumble Bee’s [Bee-moaning Drone]. You are not befuddled.
+
+Hawking flashed dozens of those alerts past the corner of his eye. Unlike the slow accumulation of afflictions from the Erlking’s wights, Joe was 100% completely immune to the [Bee-moaning Drone] of these pests. The groan-worthy name was the only part of their sonic attack that got a reaction out of Joe.
+
+As the bees angled towards him, Joe decided to gather an even bigger crowd for his [Grit Razor].
+
+“Let’s give this a try,” he muttered to himself, before activating one of the special abilities of the [Trisynun Ossuary] for the first time.
+
+Joe faced the barn and let loose a primal war scream. At first, he thought he would shout something taunting, but when the moment came, he felt a wildness-style ferocity would give the effect more punch than a snarky insult.
+
+[Bayu’s Howl] Release a sound-based cone that inflicts moderate {Sound} damage and applies the [Weakened] condition on enemies. You can choose to have this howl be audible to anyone nearby or only heard by those it affects. Cooldown: Momentary | Range: Medium
+
+You have inflicted 27% of the current [Grumble Bee Swarm] with the [Weakened] condition.
+
+Knowing that his communication with Hawking was virtually instantaneous, he snapped off a quick question before the swarm had a chance to react to his roar.
+
+‘Hey. Weakened means their attacks are less harmful, right?’
+
+Not exactly, Joe. [Weakened] lowers physical damage and resistance. In the case of a [Grumble Bee], the sting is only a minor damaging effect. The more harmful component of their attack is the venom delivered with the sting. The [Weakened] condition will not lower the virulence of the bee’s venom.
+
+On a practical note, given your current defenses, a weakened bee will have a very low likelihood of successfully penetrating your defenses. Therefore, you should have a very low likelihood of being injected with venom.
+
+‘That works for me.’
+
+Joe watched the bees wobble through the air in his general direction. They were definitely flying faster and with more purpose, but they were still staggering around the sky like a horde of angry drunks. The sound level of the droning had risen several decibels, not just from those nearest to Joe. Because of his magical howl, the barn was now echoing loudly with a rising chorus of bellyaching bugs. A yellow and black mass lurched out of the hay window and into the sky. It too bore down on Joe in a reeling pattern. He actually found it rather humorous watching the unsteady fliers bouncing off each other in their drive to reach him.
+
+These bees were quite a bit bigger than the scouts outside the barn, closer to softball size.
+
+Grumble Bee Worker: Level 4: Vermin: Controller: Vigor
+
+The smaller scout bees were now tightly around him, butt-bashing into his body, trying to lance him with a stinger. [Heavy Hand] infused [Casting Claws] batted away any of the insects that came near his face, killing them instantly. Everywhere else was either covered by the Night Hunter's hide or hardened by his [Savage Claw] skill.
+
+[Savage Claws] - Uncommon - Strength: Your claws are natural weapons that you can use to make median slashing damage attacks with. To protect them in battle, they gain Median Physical Damage Resistance. Your claws will improve your ability to climb on surfaces where they can find purchase. Cost: Passive | Minor Stamina {Beast}
+
+As the far greater cloud of peevish bees closed in on him, Joe activated his other medallion. He had planned this move out already. The [Talisman of the Medic] teleported him just far enough to get the full spread for [Grit Razor]. The spot he had picked would allow him to unload the fan of supercharged stone shards at an angle that wouldn’t tear up any part of the farmstead. The majority of the horde of furious fuzzy balls that had gathered around where he had been standing a second ago evaporated into a spray of grit and bug guts. The plane of destruction missed those too high in the air. Even so, it was glorious enough that Joe saw a notification that felt like a new achievement pop up in the corner of his sight. He’d have to wait until he wasn’t actively engaged to read it, though.
+
+Rather than wait for the bees to come to him a second time, Joe had fun using [Brawler] and his amber paws to play Whack-a-Bee in the air around him. His signature skill took out one grumbler after another with a single blow each. While he could hear the complaining chorus of bees growing more tumultuous inside the barn, out here in the open, Joe was mopping up the last of the fat, flying pom-poms without having been stung or befuddled once.
+
+Joe checked his experience gains and found that the scouts and worker bees gave him no experience at his level. Even the mass deaths of the [Grit Razor] did not budge his exp pool.
+
+“Alright. Let’s go for the nest.”
+
+This was the part of the task that Joe was far less certain about. There had to be hundreds of the oversized bees inside the barn, and if he didn’t use his rock sprays, dealing with them a few at a time was going to be a very long slog. Individually, each bee was not much of a threat, but he had already learned that bad things happen when you are severely outnumbered. The great angry nattering inside the red building was making his ears throb, even out in the yard. Inside the barn, it was going to be much worse.
+
+His only real plan was to find the nest, squash it, then run back outside to deal with the rest of the swarm out in the farmyard again. As far as plans went, he knew it wasn’t much, but what else could he do? He didn’t have any skill like Tez’s defensive fortifications, Hah’roo’s area controlling winds, or a mass damage spell that would not destroy the structure he was trying to purge of the bitchy bugs. His strengths were dealing with damage and occasionally whacking his enemies with clawed attacks or his truncheon.
+
+Unless he somehow got lucky with his newest achievement. There was still an occasional scout to deal with, so Joe backpedaled far enough away to be clear of attacks before he popped open the notification.
+
+Achievement: You have defeated 100 enemies with a single attack. Your conduct has awarded you the following choice of Traits:
+
+[Collateral Killer] Wipe the room. Gain a minor damage enhancement with large area of effect skills.
+
+[Pest Control] Yer buggin’ me. Increase your {Vermin} affinity.
+
+“Neither one really helps me here,” Joe griped. Both of these were pretty low-end traits, but Joe wasn't too surprised. He had earned it by tossing a single spell into a cloud of low-level critters. Hawking wasn’t going to hand out the good stuff for something that easy.
+
+Joe already had plenty of damage output with [Grit Razor] for these guys. His problem was too much damage, not too little. [Collateral Killer] would only make it worse. It could be a nice minor boost if Joe picked up more AoE attacks, but at this point, his offense was almost entirely focused on single-target strikes and hexes.
+
+He didn’t have any {Vermin} spells, but Yuk sure did. Would [Pest Control] enhance their [Parasitic Bond]? Joe knew that affinity also helped resist effects. A boost to {Vermin} would likely help [Iron Mind] if it started to struggle against a really large-scale [Bee-moaning Drone]. Joe grabbed [Pest Control], mostly since he could see it helping when he teamed up with his multitudinous friend.
+
+He headed back for the barn, slicing scouts out of the air with his flying force claws. The number of scouts had increased in the minute he had been looking at his achievement. Joe wondered how fast this nest was spawning bees.
+
+When he reached the doorway, the grumbling ire was so loud it felt like a physical force pushing down on him. Joe instinctively tried to stretch his jaw, like he was trying to get his ears to pop, but it didn’t help. The massive bitchy buzzing was a tangible weight in the air. He could feel it trying and failing to overwhelm his now {Vermin}-enhanced [Iron Mind]. Even though he was not afflicted by an adverse condition, the roar of grousing voices was seriously distracting.
+
+[Heavy Hand] was automatically batting away attacks aimed at his face, but it had a second of cool-down, and Joe was having a hard time focusing amidst the countless bumbling bees and their relentless bellyaching. He missed an attack headed for his forehead. A sharp stab was followed by a searing burning sensation. The [Vanguard's Diadem] wiped away the pain of the low-level venomous strike. In a weird way, getting stung helped him focus rather than causing him to lose his concentration further. Joe flared [Crystal Mind] and moved further into the room, edging along one of the walls. He swept his eyes around the space, looking for the nest. Unfortunately, there were so many bees in the air, all he could see was a tempest of yellow and black big round bugs wobbling around the open barn.
+
+The great growl of grumbling was not befuddling his mind the way the effect intended, but it was driving him nuts. “Not working,” Joe admitted to himself. Since he was standing by a window, it was easier to lock his eyes on a patch of ground in the herb garden beside the barn than it was to head back for the doors. In a blink, he was outside.
+
+He had been stung a couple more times, but with [Witchsight] he could see the stingers inside his own face. After plucking them out, he tipped his head to face the ground and purged the venom, letting it splatter onto the basil leaves at his feet instead of running down his face.
+
+Still facing the ground, Joe spotted a pile of small field stones built up around one of the fence posts surrounding the herb garden. He was struck by a brief moment of nostalgia, picturing himself helping his mother weed and pull rocks from her flower gardens. They would pile the stones and weeds at the edge of the garden until his dad would come with the wheelbarrow to take them away. He sent a claw over to grab one of these simple stones, and an idea came to him.
+
+[Grit Razor] was not a popular spell because it was slow to charge up the spell enough until it output high levels of damage. If you released the spell too soon, the damage was ineffectively weak, costing far more mana than the damage deserved. Yet that is exactly what Joe wanted to do. He wanted to spray the area with bug-killing flecks, not blast the building with buckshot. His experiments had uncovered that volcanic rocks unleashed far more destructive sprays than your basic fieldstones would. They took the same amount of time to charge, but the volcanic chips had far greater penetration. With the bees having almost no physical defense, Joe didn’t need anything powerful enough to damage the barn beams and walls.
+
+He dumped his [Bullet Bag] into his dim-cuff and refilled it with field stones. He looked for flatter ovals, maybe an inch thick and not more than two inches across. These would break down into grit faster, even though they would never be able to hold as much charge as his favored obsidian chunks.
+
+With a stone in all four hands, Joe headed back to the front of the barn. He started charging the pawed stones first; that way, he’d have those claws free to deal with the random scouts in the air. Just before the stone dissolved, Joe sent his paws into the middle of the barn and then let loose with another [Bayu’s Howl].
+
+You have inflicted 53% of the current [Grumble Bee Swarm] with the [Weakened] condition.
+
+He wasn't too worried about their attacks, but lowering their resistance, even a fraction, would help the effectiveness of these purposely weak sprays against the insects.
+
+He swept the two amber-clawed constructs in opposite directions, creating a 240-degree arc of modestly charged gravel. The grit sheared through the swarm, but as planned, rattled against the boards without punching through the wood. Falling grumble bees hit the dirt floor in a rain of small thumps.
+
+Alternating between weakening howls, minorly charged sprays, and swatting attackers away, he began to decimate the spiteful swarm. Joe winced when one particularly unfortunate [Grit Razor] took out a section of the windows on one wall of the barn, but other than the glass, Joe’s fans of empowered grit were not harming the building as they chewed through the bees.
+
+Joe had to drink a mana potion to keep the constant sweeps going, but it wasn't long before his gloom-peirceing eyes were able to see all the way to the far wall. He finally figured out why he hadn't yet found and hit the nest. The thickened concentration of bees always seemed to be in the corner of the barn where the haybales had been stacked. Even after he sprayed that spot, bees were constantly around the bound blocks of hay … as if they were spawning there.
+
+Joe sent his [Casting Claws] to pull the pile apart, and sure enough, in the center of the mass was the source of the problem.
+
+Grumble Bee Harping Hive: Level 8: Hive Core
+
+Grumble Bee Queen: Level 10: Vermin: Controller: Spirit
+
+The queen grew as the blocks of hay were pulled away. At first, she was roughly the size of one of the larger workers, but in a matter of seconds, she quadrupled in mass, growing to be larger than Mojo. She had the fuzziness of the bumblebee, but there was a more ominous, almost-alien look about her. The queen locked her gaze onto Joe. He could feel the weight of her stare trying to push past his mental defenses.
+
+“Aw hell no!” Joe swore. That was one seriously pissed-off bug.
+
+Remembering how well [Rattlebones] worked on creatures with exoskeletons, Joe [Dual Cast] the hex, nailing her with both instances of the convulsing curse. Just like the crab-like spawn of Cauldrakon, the grumble queen began to twitch, as goop spurted out of the joints in her exoderm. Her focus was so consumed by the rattling hex that she barely noted when Joe swung his arms open wide. With his force hands mirroring his real ones, Joe slammed his palms together, obliterating the convulsing queen between the crushing amber paws.
+
+After that, it was a simple task of using his [Casting Claws] to rip apart the spawner. A few more rocky sprays later, the bitching bees were no more. Joe checked his experience gains and found he had only received minor experience for the queen and the hive. He had gained a little less than three hundred experience points, leaving him teetering on the edge of a thousand-point cushion.
+
+Joe looted the decimated colony. Each of the lesser bees either had a small blob of wax or a bit of honey-filled comb. The hive had six portions of [Royal Jelly], which were the equivalent of rare level healing potions with a cure disease component to them as well. While they would probably be more valuable to a non-healer, Joe grabbed them anyway. He found several empty tins in his healer's bag that he was almost positive had not been there before he looked for something to put the royal jelly into.
+
+The queen had an interesting magic item.
+
+[Coronet of Beegrudgement] (Item: Head - Uncommon) This crown gathers the mystical remnants of intense negative emotions: resentment, anger, fear, and hatred into a Grudge Pool. This pool of energy can be used to empower skills that negatively affect one's enemies. Range: Medium. Grudge Pool: 57 Gr / 300 Gr {Eldritch}
+
+While this grudge pool would certainly be compatible with his hexes, Joe was not about to break up the Grimwald's Legacy set for the crown. He stashed it into his dim-cuff and headed out of the barn to let the farmers know the coast was clear.
+
+And apologize for the windows.
