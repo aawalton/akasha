@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
+
+export const adrenalineJunkieBook3Complete0063Ch63FriendlyNeighborhoodFireman = {
+  id: "01a167bd-8675-75f9-80b5-11ad51d1162e",
+  type: "page-type/story-chapter-read",
+  slug: "adrenaline-junkie-book-3-complete-0063-ch-63-friendly-neighborhood-fireman",
+  position: 63,
+  publishedAt: "2025-03-15",
+  unit: "unit/words",
+  title: "Ch 63 - Friendly Neighborhood Fireman",
+  story: "story-read/adrenaline-junkie-book-3-complete",
+  ownLength: 2284,
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2127409",
+      externalLink:
+        "https://www.royalroad.com/fiction/101188/adrenaline-junkie-book-3-complete/chapter/2127409/ch-63-friendly-neighborhood-fireman",
+    },
+  ],
+  createdAt: "2026-10-23T07:50:36.405Z",
+  updatedAt: "2026-10-23T07:50:36.405Z",
+} as const satisfies StoryChapterRead
