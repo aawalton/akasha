@@ -20,5 +20,7 @@ export const uniqueSkillTrashSkillBasedProgressionStory0157Chapter141DirtySkills
     },
   ],
   createdAt: "2026-10-22T16:49:32.049Z",
-  updatedAt: "2026-10-22T16:49:32.049Z",
+  updatedAt: "2026-10-23T18:50:09.054Z",
+  ownProgress: 2278,
+  progressedAt: "2026-10-23T18:50:09.054Z",
 } as const satisfies StoryChapterRead

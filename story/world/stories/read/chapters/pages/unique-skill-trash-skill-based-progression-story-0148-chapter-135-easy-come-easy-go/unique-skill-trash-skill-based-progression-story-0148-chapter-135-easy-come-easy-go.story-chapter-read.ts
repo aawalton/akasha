@@ -20,5 +20,7 @@ export const uniqueSkillTrashSkillBasedProgressionStory0148Chapter135EasyComeEas
     },
   ],
   createdAt: "2026-10-22T16:49:32.049Z",
-  updatedAt: "2026-10-22T16:49:32.049Z",
+  updatedAt: "2026-10-23T18:50:09.054Z",
+  ownProgress: 2011,
+  progressedAt: "2026-10-23T18:50:09.054Z",
 } as const satisfies StoryChapterRead
