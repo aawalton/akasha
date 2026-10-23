@@ -1,0 +1,40 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const rishaGoblinEmpress = {
+  id: "01a166a9-5097-7e03-9bba-7966247e6f5d",
+  type: "page-type/story-read",
+  slug: "risha-goblin-empress",
+  author: "Corwin Benedict",
+  following: false,
+  unit: "unit/words",
+  title: "Risha: Goblin Empress",
+  world: "world/risha-goblin-empress",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "115242",
+      externalLink: "https://www.royalroad.com/fiction/115242/risha-goblin-empress",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "War and Military",
+    "Non-Human Lead",
+    "Strong Lead",
+    "Drama",
+    "Action",
+    "Fantasy",
+    "Female Lead",
+    "High Fantasy",
+    "Kingdom Building",
+    "Local Protagonist",
+    "Magic",
+    "Monster Evolution",
+    "Strategy",
+  ],
+  publicationStatus: "ongoing",
+  readLater: true,
+  createdAt: "2026-10-23T02:48:54.679Z",
+  updatedAt: "2026-10-23T02:48:54.679Z",
+} as const satisfies StoryRead
