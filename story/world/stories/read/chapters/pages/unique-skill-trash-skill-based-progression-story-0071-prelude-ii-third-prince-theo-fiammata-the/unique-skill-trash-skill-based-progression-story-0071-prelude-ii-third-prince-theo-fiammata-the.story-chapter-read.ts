@@ -20,5 +20,7 @@ export const uniqueSkillTrashSkillBasedProgressionStory0071PreludeIiThirdPrinceT
     },
   ],
   createdAt: "2026-10-22T16:49:26.206Z",
-  updatedAt: "2026-10-22T16:49:26.206Z",
+  updatedAt: "2026-10-23T04:49:17.823Z",
+  ownProgress: 786,
+  progressedAt: "2026-10-23T04:49:17.823Z",
 } as const satisfies StoryChapterRead
