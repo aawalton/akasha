@@ -1,0 +1,141 @@
+Chapter 86 - Scouts and Preludes
+
+Talia stirred, her exo-suit creaking as she shifted beneath the weight of the slumbering spiders.
+
+Hot Pink’s snores filled the air, her form splayed across Talia’s back. Dapple nestled against her side, while Dusky’s head rested beneath her arm, the spider’s gentle breaths rising and falling peacefully.
+
+With careful movements, Talia extricated herself from the tangle of arachnid limbs. She stepped out of the module and onto the desert crawler’s platform, the cool night air greeting her as she surveyed the progress made during her slumber.
+
+Defensive CIWS systems dotted the crawler’s exterior, armored chassis glinting in the starlight. Behind her, a tower rose, housing the sensor array mast. Warning lines, stark against the deck, delineated safe walkways and restricted areas.
+
+Tapping her helmet, Talia sought an update. “Neo, what’s the situation?”
+
+[Report: Blue forces have established a camp at the desert worm carcass site. They appear to be dissecting the creature. No further contact has been initiated.]
+
+“And the new scouts?” Talia inquired, her gaze scanning the horizon.
+
+[Status: Scout units are available for deployment. 89% of units have been constructed. Early deployment would not interfere with production.]
+
+Talia frowned, a hint of frustration in her voice. “So do it. We should have launched each unit as it was produced.”
+
+[Acknowledged: Initiating deployment of new solar-powered drone scout units.]
+
+Tilting her head back, Talia gazed at the star-filled sky, a worrying thought nagging at her mind. “Neo, will the drones have enough power to last until sunrise?”
+
+[Confirmation: Drones are equipped with a full 24 hours of battery capacity. They are departing with 100% charge.]
+
+“Good,” Talia murmured. “Send them.”
+
+A faint smile tugged at the corners of Talia’s lips as she watched the drones ascend, their forms silhouetted against the sky. The gentle hum of their engines faded into the night as they soared higher, disappearing from view.
+
+She turned and strode towards the command module, her exo-suit’s footfalls echoing against the metal deck. The door hissed open, and she stepped inside, the command seat automatically adjusting to her armor as she settled into it. Tactical screens flickered to life, bathing the room in a soft glow.
+
+[Notice: Switching to strategic mode.]
+
+The screens shifted, a single large map dominating the central display. Talia gestured with her hand, panning the view, and watched as new illuminated circles appeared, representing the drones’ expanding sensor ranges as they spread out across the landscape.
+
+“Let’s send them ahead and see how far the coast is clear,” Talia said, her eyes fixed on the map.
+
+[Warning: Maximum range cannot be exceeded without risking connection loss.]
+
+Talia’s brow furrowed. “But that range is still a lot further than we have been scouting with the shorter range quadcopters, right?”
+
+[Confirmation: The new solar-powered drones have a significantly extended range compared to the QCD-2P quadcopters.]
+
+Talia leaned back in her seat, her gaze tracking the drones’ progress. The map’s scale was impressive, revealing a vast expanse of territory that had been cobbled together from an orbital scan before they were shot down. It wasn’t fully complete or detailed, but it painted a good picture of things. At least until they had local units confirm what was or wasn’t there.
+
+She couldn’t help but feel a sense of excitement at the prospect of exploring further than ever before, even if it was through the eyes of her mechanical scouts. They would be making progress again, soon.
+
+Talia leaned forward, her eyes narrowing as she studied the map.
+
+“We’re going to need a dedicated communication relay vehicle if we can’t crack long-range communications through this EM interference,” she said, her voice tinged with frustration.
+
+[Suggestion: A modified Pegasus APC chassis outfitted with high-power communication equipment and an internal power plant could serve as a suitable communication relay vehicle.]
+
+A heavy sigh escaped Talia’s lips, her exo-suit creaking as she shifted in her seat. “That’s what I was thinking, but nothing about that sounds cheap.”
+
+[Confirmation: The proposed modification would bring the proposed Comms APC cost to an equivalent of a Viper Hover tank.]
+
+Talia’s gaze drifted to the resource readouts, the numbers flickering on the screen. She weighed the options in her mind, the cost against the necessity. The need for long-range communication was undeniable, though.
+
+“Go ahead and make one,” she said, her voice resolute.
+
+[Notice: Proceeding with the construction of the Comms APC will delay the research queue.]
+
+Talia shook her head, her helmet casting shadows across her face. “Go ahead and process the design for the communication APC. We’re going to need it.”
+
+The command module fell silent, save for the gentle hum of the displays and the distant snores of the spiders. Talia’s gaze remained fixed on the map, watching as the drones continued their exploration, their sensor ranges pushing against the dark gray sections of the map.
+
+[Analysis: The HEM mining site presents the most likely vector for a Blue attack. Positioning scout units between the site and the bootstrap base will provide early warning and defense.]
+
+Talia nodded, her exo-suit creaking with the movement. “We’ve already got the scout company partway there. The base defenses should be able to hold their own now.”
+
+[Notice: This unit suggests increasing the density of the new scout units in the western desert area to account for the higher probability of Blue incursion.]
+
+A wry smile tugged at the corners of Talia’s lips. “Agreed. We can always produce more scouts later to cover the other areas once we’ve cleared up the production queue a bit.”
+
+Her gaze returned to the map, watching as the new tracks for the units shifted westward. They were fast, but it would still take them a little while to get into position.
+
+She tapped the video feed on one of the side monitors, cycling through various areas of the desert crawler until she reached the zoological module.
+
+Dapple and Hot Pink slumbered where she had left them, but Dusky was nowhere to be seen.
+
+A metallic tapping echoed through the command module, and a yellow bar appeared over another monitor, switching to an external feed.
+
+On top of the command module, was Dusky, tapping her spider legs against the surface. The audio feed picked up a worried, “Maker-Maker-Maker?”
+
+Talia flipped the intercom to active. “Dusky?”
+
+The spider jumped in surprise, then skittered back down to peer at the intercom. “Maker?”
+
+“Wait a minute, Dusky. I’ll come out,” Talia said.
+
+Rising from the command module throne, Talia exited the module. Dusky’s demeanor brightened upon seeing her, exclaiming, “Maker!”
+
+“What’s wrong?” Talia asked.
+
+“Maker-Disappear-Dusky-Search!” Dusky explained.
+
+“I’m fine, Dusky. I was inside.” Talia gestured towards the command module.
+
+Dusky tilted her head, a questioning look in her eyes.
+
+She tapped the command module’s wall. “There’s a nest for just me inside this big... thing,” Talia said.
+
+“Secret-Nest-Maker?” Dusky inquired.
+
+“That’s right,” Talia confirmed. Her gaze drifted to the door, a thought crossing her mind. The desert crawler needed a name.
+
+“Neo, this beast needs a name,” Talia declared.
+
+[Confirmation: Awaiting designation.]
+
+[Suggestion: Fat—]
+
+“We’re calling it Slim Girl,” Talia finished, cutting Neo off before he could complete his suggestion.
+
+Dusky chirped happily, “Slim-Girl-Nest!” Her spindly legs tapped an excited rhythm on the crawler’s surface.
+
+Talia couldn’t help but smile at the spider’s enthusiasm. “That’s right, Dusky. Slim Girl is our new mobile nest.”
+
+The spider’s eyes widened with realization.
+
+“Must-Tell-Others!” Dusky declared before skittering off towards the zoological module, her footsteps fading into the distance.
+
+Talia shook her head, a smile appearing on her lips. She walked along the platform, her exo-suit’s footfalls echoing against the metal. Below, the old base sprawled out. They had put a lot of effort into it. But it was time to move on. It wasn’t like the work was wasted though, it would be a safe fallback position if anything went wrong and it would still be a manufacturing and collection hub.
+
+A warning chime sounded in her helmet, jolting her from her thoughts. A small strategic view appeared on her HUD, a yellow blinking area pulsing on the map.
+
+[Alert: Two scout units have been shot down by ground-to-air missiles.]
+
+Various lines appeared on the map, hostile axes of advance and detected missile trails hinting at enemy locations. Talia’s brow furrowed as she studied the data, the implications sinking in.
+
+“Looks like our lull time is over,” she grunted. “We’ve got company incoming.”
+
+[Analysis: The Blue forces have likely detected our increased scouting activity and are responding with force.]
+
+Talia’s grip tightened on the platform railing, the metal creaking beneath her exo-suit’s strength.
+
+“Neo, initiate full alert status,” Talia commanded, her voice steady despite the growing tension. “Prepare all defensive systems and mobilize our combat units.”
+
+[Confirmation: Full alert status initiated. Defensive systems online. Combat units mobilizing.]

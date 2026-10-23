@@ -1,0 +1,287 @@
+[Informative: It appears that the Blues may share some similarities with the spiders in their dietary requirements. However, more data is needed to confirm this hypothesis.]
+
+Riiight. More observation. More likely, they needed the research module online ASAP.
+
+“Neo, what have you determined about how we can use the Computronic Research Module and Data Core to rebuild a downsized research module?” she asked.
+
+[Informative: Several plan options have been prepared for User consideration.]
+
+[Option 1: Portable Miniature Research Lab]
+
+| Description: A sleek, small, portable computer with a simple interface designed for basic computing tasks. Ideal for field research and quick data processing. |
+
+| Features: Portable, basic computing, simple interface |
+
+| Limitations: Limited computing power, no additional equipment |
+
+| Suggested Use: Light, field-based research tasks |
+
+| Cost: Low |
+
+She found a seat inside the security cabin. There was a bench capable of handling her suit’s weight and she took advantage of it, even though standing didn’t really take that much energy with the exo-skeleton supporting her.
+
+The monitoring space had the advantage of having a bunch of large display monitors for her to look at all the different pictures Neo had for her on the research module designs.
+
+“That’s pretty basic. Also, I don’t think it’s capable of doing what we need,” Talia commented.
+
+[Affirmative: Miniature Research Lab would make a better choice as an optional mobile lab for science expeditions, allowing User to conduct research in the field.]
+
+“Next?”
+
+[Option 2: Compact Research Module]
+
+| Description: A module about the size of the recently built Prisoner Containment Unit. Comes with robotic arms, a compact fabricator, resource processing systems, and a small sample containment unit. Capable of simple schematic design and biological research. |
+
+| Features: Prototype fabricator, schematic processing, sample containment, and biological studies |
+
+| Limitations: Moderate size, not ideal for heavy-duty research tasks |
+
+| Suggested Use: General-purpose research |
+
+| Cost: Moderate |
+
+This was more like she had expected, but it was larger than she had expected while having less capabilities than she hoped, at least according to the feature sheet. What limitations did ‘simple’ schematic design really entail?
+
+[Recommendation: This second option is more versatile, with robotics and assisting equipment such as a miniature fabricator, resource processing system, and a small sample containment device. I would advise considering this option as it offers more functionality.]
+
+“What about larger modules, Neo? Are there other possibilities?” Talia asked. Another of the security cabin’s monitors lit up, showing a module three times larger than the compact one.
+
+[Option 3: Standard Research and Development Lab]
+
+| Description: A larger module featuring a high-end computing suite. Includes advanced robotics, multiple fabricators, and enhanced resource processing systems. |
+
+| Features: Advanced computing, multiple fabricators, enhanced resource processing |
+
+| Limitations: Requires more resources to build and maintain, General Purpose High-Throughput Research Lab |
+
+| Suggested Use: More complex research tasks, medium-scale advanced fabrication, complex schematic design |
+
+| Cost: High |
+
+It was impressive looking with loading and unloading bays for vehicles the size of her CRD-X9s. It was essentially as large as her Bootstrap Module.
+
+Which meant it was probably way more than she wanted to worry about if she wanted to go with her mobile base plan.
+
+[Informative: Two further proposals are available for consideration.]
+
+The last two blank panels lit up, showing large research complexes. The first resembled the module that had crashed from orbit while the second was even larger than that, almost the size of her crashed ship.
+
+[Option 4: Advanced Research Complex]
+
+| Description: A sizable module equipped with a state-of-the-art computing suite, a full array of robotic systems, and multiple fabricators designed for various materials and complex structures. |
+
+| Features: State-of-the-art computing, advanced robotics, versatile fabrication systems |
+
+| Limitations: High resource consumption, requires more space |
+
+| Suggested Use: Large-scale research projects, complex fabrication tasks |
+
+| Cost: Very High |
+
+[Option 5: Mega Research Facility]
+
+/**/**/
+
+| Description: The largest and most advanced general-purpose research module. Designed for sustained, high-end research and large-scale fabrication, this facility features quantum computing capabilities and high-grade resource processing systems. |
+
+| Features: Extreme Computing, high-grade resource processing, multiple advanced robotic systems |
+
+| Limitations: Extremely resource-intensive, limited mobility due to size |
+
+| Suggested Use: High-end research requiring extensive resources, large-scale fabrication |
+
+| Cost: Extremely High |
+
+Talia shook her head. “I like your naming scheme. ‘Mega’ Research Facility is right. I’d almost think you forgot about making things mobile, but you put that on the card.”
+
+[Affirmative: ‘Mega’ Research Facility would likely be a poor choice for User consideration at this time.]
+
+At least he recognized that.
+
+“So, you mentioned that the compact module has robotics, a fabricator, and resource processing systems. That’s sort of redundant. Would the module be able to research human bio-compatibility with this planet?” she asked.
+
+[Affirmative: The compact research module should be capable of conducting tests and analyzing data related to human bio-compatibility with the planet’s native microflora. Depending on compatibility and complexity, a larger module might be required to create an immunological vaccine for human adaptation.]
+
+Talia grunted. That was more than she’d expected. Even if the module wasn’t capable of creating a vaccine, getting the process started early meant it would be easier to make one later. And one thing she knew about the process was having a larger facility wouldn’t really speed up the early parts of the process.
+
+“Great. Now, would it also have the capacity to design and create new vehicles to suit my needs? I noted the card said ‘simple’ schematics, and I want to know what those limitations are.”
+
+[Informative: The term “simple” in this context refers to the module’s ability to design and create basic vehicle schematics. While it may not be capable of designing highly advanced or specialized vehicles, it should be sufficient for creating or modifying existing designs to meet User’s needs. More complex designs may require a larger research module.]
+
+Talia frowned. “You know I want to build a mobile base. If we can’t create a ‘specialized’ vehicle, are we going to be able to do that?”
+
+[Notice: Multiple military heavy platform schematics are available. Large land crawlers, hovercraft, and other types of heavy lift schematics could be modified via compact research module to satisfy User requirements. However, a completely new and custom schematic will require a larger research facility.]
+
+Talia nodded. “Option 2 should be enough for now, considering our current resources and situation. Last question and just to confirm: can this module help us with linguistic research? Establishing a line of communication with them would be immensely helpful.”
+
+[Informative: The compact research module is equipped to analyze linguistic patterns and develop translation algorithms. While it may take time to fully understand the Blue’s language, it should be able to help establish communication at a similar rate as the current Cortex Linguistic AI has shown.]
+
+That was pretty much everything she needed to know. The compact module seemed capable of doing the three major things she needed. But she realized Neo had left out an important detail.
+
+Talia sighed, suddenly feeling a sense of unease. “Neo, you didn’t mention the resource costs for these research modules. Now I’m getting a bad feeling about this. Can you specify the cost for the compact research module?”
+
+[Informative: The compact research module requires the following resources: 30,000 Durasteel, 15,000 Refined Silicates, 20,000 Advanced Alloy, 25,000 High-Conductive Material, and 24 Fusion Cells.]
+
+It felt like he had punched her. That was a whole lot of material, although well within her current stockpile. Something like six Panther tanks worth approximately.
+
+“Let me take a guess. The larger facility is double? And option four is quadruple that?”
+
+[Affirmative: User supposition on resource costs for each facility is approximately accurate.]
+
+“Thanks. It’s funny how many systems follow the doubling growth curve on specs and costs,” Talia replied.
+
+She checked her resource stockpile.
+
+[Bootstrap Module Stockpile]
+
+| Durasteel: 133,830 |
+
+| Refined Silicates: 52,628 |
+
+| Advanced Alloy: 68,432 |
+
+| High-Conductive Material: 76,057 |
+
+| High-Energy Matter: 95,740 |
+
+| Fusion Cells: 96 |
+
+A few more Fusion cells had been produced, the IRUs had cost some resources as well along with the Containment Cell Module. The CRD-X9s were bringing back more constantly, though, and she had enough to build the compact facility.
+
+She almost considered picking the third facility, but it was so much larger that she felt it would be harder to pack it up and move it, so she decided to stick with the smaller one for now.
+
+“Neo, I’m picking Option 2. Go ahead and begin fabrication of the Compact Research Facility.”
+
+[Affirmative: Fabrication queue has been modified as per User instruction. Note that Research Facility will require deployment of multiple modules in sequence to finish construction.]
+
+“Have the MIRUs help deploy it when it’s ready. Let’s go over what base Schematic we will use for our mobile base…”
+
+[Informative: Several heavy vehicle platform options have been selected for User consideration to serve as the basis for User mobile base. These platforms are organized by resource cost and can be modified for specific needs, including integration of currently built base Modules.]
+
+/**/**/
+
+[Option 1: Desert Crawler - Basic]
+
+| Description: A massive, tracked land vehicle designed for long-distance travel over difficult terrains like rocky deserts. |
+
+| Features: Tracked movement, basic life support, basic cargo space |
+
+| Maximum Carrying Capacity: 1,500 tons |
+
+| Suggested Use: Basic mobile base, low resource cost, quick construction|
+
+| Cost: Low |
+
+/**/**/
+
+[Option 2: Armored Hovercraft - Standard]
+
+| Description: A military-grade hovercraft with a large cargo area and stronger armor. Can traverse water and difficult terrains. |
+
+| Features: Hover movement, medium armor, moderate cargo space |
+
+| Maximum Carrying Capacity: 3,000 tons |
+
+| Suggested Use: Versatile mobile base with defense capabilities |
+
+| Cost: Moderate |
+
+/**/**/
+
+[Option 3: Desert Crawler - Advanced]
+
+| Description: An advanced version of the Basic Desert Crawler, with enhanced capabilities such as greater speed, cargo space, and more adaptable modular track systems. |
+
+| Features: Tracked movement, advanced life support, large cargo space |
+
+| Maximum Carrying Capacity: 4,500 tons |
+
+| Suggested Use: Advanced mobile base, some research and development capability |
+
+| Cost: High |
+
+/**/**/
+
+[Option 4: Heavy-Lift Hover Platform]
+
+| Description: A giant, fortified hovercraft capable of carrying heavy loads and featuring advanced life support systems and defense mechanisms. |
+
+| Features: Hover movement, heavy armor, large cargo space, defensive systems |
+
+| Maximum Carrying Capacity: 6,000 tons |
+
+| Suggested Use: Large-scale mobile base, large inhabitable crew section, large fabrication and industrial bay |
+
+| Cost: Very High |
+
+/**/**/
+
+[Option 5: All-Terrain Crawler Fortress]
+
+| Description: A massive, tracked vehicle equipped with virtually all the comforts and capabilities of a stationary base, including a small airfield. |
+
+| Features: Tracked movement, extreme cargo space, advanced life support, defensive systems, airfield |
+
+| Maximum Carrying Capacity: 8,000 tons |
+
+| Suggested Use: Nearly autonomous mobile base capable of all industrial and scientific endeavors |
+
+| Cost: Extremely High |
+
+/**/**/
+
+[Option 6: Aerial Command Carrier]
+
+| Description: A massive, flying command carrier equipped for long-term aerial operations. Features advanced life-support systems, robust defense mechanisms, and an airfield. |
+
+| Features: Aerial movement, advanced life support, extreme cargo space, defensive systems, airfield |
+
+| Maximum Carrying Capacity: 10,000 tons |
+
+| Suggested Use: Ultimate mobile base with the most advanced capabilities for research and development |
+
+| Cost: Prohibitively High |
+
+/**/**/
+
+Talia looked at the options, feeling both intrigued and overwhelmed. She didn’t have one clue as to the difference or feasibility between the hovercraft or crawler models and the sheer carrying capacity of the Aerial Command Carrier was hard to ignore, despite its astronomical cost. The All-Terrain Crawler Fortress seemed like a dream come true for a mobile base—assuming you had the resources to fuel that dream.
+
+Which she was almost certain she did not.
+
+“Neo, how feasible would it be to adapt the Compact Research Module to fit into one of these vehicle platforms?”
+
+[Informative: The Compact Research Module can be adapted to fit any of the listed vehicle platforms with moderate modifications. However, maximizing the module’s capabilities would be most effectively achieved with options 3, 4, 5, or 6 due to their higher carrying capacities.]
+
+“Understood,” Talia said, rubbing her helmet as she weighed the options. “Well, we have to start somewhere. Let’s go with the third option, Desert Crawler - Advanced. It seems like a good middle-ground option. How much does it cost?”
+
+[Desert Crawler - Advanced, Resource Sheet]
+
+| Durasteel: 530,000 |
+
+| Refined Silicates: 156,000 |
+
+| Advanced Alloy: 254,000 |
+
+| High-Conductive Material: 222,000 |
+
+| High-Energy Matter: 125,000 |
+
+Talia blinked.
+
+Well, she had a number, or group of numbers, to aim for.
+
+“Neo, why do we need HEM to fabricate the Desert Crawler?” Talia asked.
+
+[Notice: Vehicle requires five large D-100 Fusion cells for operation. It is recommended that a large amount of HEM be stored for refueling purposes. The operational range of the vehicle when fully loaded is approximately 500km per D-100 Fusion cell.]
+
+“Riight. This… this is going to be a bit of work. We definitely need to expand a bit before tackling it directly. We need more miners and defense units. We are going to want to focus on the worm carcass, I think…”
+
+She tapped her foot and then stood up, exiting the security cabin. The blue was sitting cross-legged and with his eyes closed, looking much more peaceful than before. She would have a LIRU bring him a small piece of HEM later.
+
+Pulling up her unit map, she watched her units move around like little worker ants. It felt like she had just made a monumental decision—one that would shape the course of her survival. Maybe she should consider just building something small and rushing to her crashed ship instead?
+
+Talia pushed the thought away. What if they ran into more than they could handle? If the Blues had a whole army further out? They’d collected around her research module. Was there any reason to think they wouldn’t have done the same for her ship, which she was sure they’d consider an even bigger prize?
+
+She took a deep breath and released it. No second guessing.
+
+Operation ‘Build-A-Giant-Fricking-Thing’ was a go.

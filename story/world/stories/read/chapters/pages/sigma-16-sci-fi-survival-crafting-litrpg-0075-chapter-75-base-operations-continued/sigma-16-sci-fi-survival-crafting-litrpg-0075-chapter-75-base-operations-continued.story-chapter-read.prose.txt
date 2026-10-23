@@ -1,0 +1,129 @@
+Chapter 75 – Base Operations Continued
+
+Talia headed into the Bootstrap module and aimed for the decontamination chamber. The bio-research part of the research module would hopefully provide insight into the planet’s micro-biological climate and be capable of providing a vaccine that would enable her to survive without a contained environment. It would be nice to be able to walk outside without her suit on, although it probably wasn’t a great idea to do so often.
+
+Still, just taking her helmet off and getting some natural light and environment would feel good. As it was, her only extra-suit activities were limited to her small room at the bottom of the module with its own sterile environment.
+
+The decontamination process began, and a series of deadly UV lights and radiation sterilized the outside surface of the suit. A complex mix of gases and other agents followed as several nozzles sprayed over her. The floor rotated as she held her arms out, ensuring that every inch and joint got washed over.
+
+A cleaning mist finished up and then the chamber was vacuumed to clear out all the toxic stuff before the atmosphere was replaced with the sterile air-mix that was meant for her.
+
+The heavy Exo-Suit hissed as she triggered the ejection command, and the top half expanded, lifting upwards before splitting in the back, allowing her to step out of it. The cool embrace of the air clung to her face and hand, while she immediately felt icky with her skin-tight jumpsuit squeezing her.
+
+Instead of worrying about anything else, she stripped off the garment and threw it in the recycler before jumping in her shower. Hot water was the one luxury that made life on Sigma 16 bearable. Okay, maybe that was an exaggeration, but not by much. It was certainly the best part of getting out of her suit, though.
+
+When she finished with her clean up routine and put on a comfy pair of loose boy shorts and an olive green t-shirt. It wasn’t the most professional outfit, but there wasn’t any HR department for anyone to complain to, as far as she was aware. A small smile crept onto her face as she sat down at her desk. There were some small benefits for being marooned and all alone.
+
+Like working in your undies and no one yelling at you for working odd hours.
+
+Of course, she had to deal with the downsides, like angry alien soldiers, giant aliens that wanted to eat you, having your ship crash, and being responsible for literally everything. Everything had tradeoffs.
+
+“Neo, how are we doing with resources, and how much do we still need for the crawler?
+
+[Desert Crawler – Advanced: Remaining Resources Required]
+
+| Durasteel: 409,570 |
+
+| Refined Silicates: 120,581 |
+
+| Advanced Alloy: 196,484 |
+
+| High-Conductive Material: 171,677 |
+
+| High-Energy Matter: 96,774 |
+
+Even if they’d knocked over twenty percent off of it, there was still a long way to go. “Can you provide an update to our estimated daily resource intake?”
+
+[Notice: Current rate of resource extraction and processing varies depending on site efficiency and hauler availability. A detailed report is being compiled.]
+
+While Neo was busy calculating, she turned her attention to the display on her desk. Flipping it open to map view, she zoomed out far enough to show each of the primary resource extraction sites. The sites pulsed a slow blue. Each one had a small story—some were simple operations extracting minerals from rich veins discovered by her Seeker’s scans, while others were more complex endeavors like the worm carcass site.
+
+The massive HEM deposit to the west dominated all, a veritable expanse of limitless energy, while the rare alloy deposit in the jungle pulsed yellow since it hadn’t become fully operational yet. That one was a coup, because harvesting the jungle trees was becoming untenable with how hard it was to locate ones that were poorly positioned and wouldn’t really harm the ecosystem.
+
+Underneath each site were smaller icons representing miners, haulers, and escort units. A few convoys were actively moving between the sites and her base, while hundreds of single icons were scattered throughout the entire area, representing her recon and combat drones.
+
+There was one icon further away than all the others, to the northeast. One thing had become clear during the past weeks—the Blues predominantly operated towards west and south, making those sectors hazardous for any large-scale operations. However, the north and east remained relatively safer.
+
+So, she’d focused their prospecting efforts in that direction.
+
+“Has the Seeker spotted anything?” She measured the distance lines and found that it was nearly 200km away. “I didn’t think we could maintain a telemetry connection that far?”
+
+[Informative: A low bandwidth connection has maintained contact; preliminary findings are available. However, a full download will require Seeker unit to return to within primary connection range.]
+
+“Gotcha. Do you have the latest on our current extraction sites? And did we find any further options for extraction and exploitation?” Talia asked.
+
+[Notice: Multiple extraction sites require User direction.]
+
+| Main HEM Deposit: Estimated trillions of units available (23km away) |
+
+| Rare Alloy Deposit in Jungle (New): Expected to boost Advanced Alloy and High-Conductive Material production considerably, reserves of at least 1 million units. (38km away, 12km into the jungle) |
+
+| High Quality Silicate Area detected under desert sand surface layer, high-quality reserves of at least 10 million units. (12km away) |
+
+| Giant Worm Carcass: Surface carcass fully extracted. Potential for deeper excavation pending User decision. Potential for biological research. (25km away) | User Action Required. |
+
+| Durasteel Deposit near base is depleting; less than 50k units remain | User Action Required. |
+
+[Current Resource Unit Counts]
+
+| Active CRD-X9s: 18 (10k cargo units each)
+
+| Cargo Hauling Units with Trailers: 27 (35k cargo unit capacity each)
+
+[Notice: Several sites of interest have been identified in the northeastern sector, warranting further investigation. Furthermore, units traversing to worm extraction site have uncovered a possible high-yield deposit.]
+
+Talia took a moment to digest all the information. Some of the things didn’t surprise her in the least; she was well aware of how amazing the HEM deposit was, and the Durasteel deposit running out had been a constant worry.
+
+“What do you mean, biological research? Didn’t we already cut up worm chunks?”
+
+[Notice: Material retrieved has been extremely damaged by energy discharge of MXL-182 Fusion cells and Research Module anti-matter discharged.]
+
+“Oh. I see. So, they were cooked worm chunks, and the stuff underground isn’t? Plus, you think the data on the worm corpse is…worth something for some reason?” Talia asked. She wasn’t sure why the corpse would have any valuable information. At least, not why it would have more valuable information than all the other samples that were available.
+
+[Informative: Exploring causation of mega-fauna size differential is of exceedingly high-value from a biological sciences standpoint.]
+
+She tilted her head. “Uhh, didn’t it just grow to be really big? It was the same species as the worm we saw before, wasn’t it? They looked identical.”
+
+[Notice: While User might lack the background required to recognize the value in this data, this unit assures that it could be extremely beneficial to furthering UFE scientific knowledge, as well as understanding the local fauna life cycles as well as determining certain artificial patterns found so far during planetary exploration.]
+
+Talia leaned back in her chair and tented her fingers. She’d never seen Neo become so pushy for something before, except maybe before the incident that had the military AI bonk her with combat drugs and delete the Cortex malware installed in her implant. She didn’t really see any reason to refuse the idea or not dig down and recover the rest of the worm corpse.
+
+Even if it was squishy, it was still full of rare minerals and metals that would help build the base. Science would be a nice side benefit.
+
+Talia thought about it for a moment longer before replying. “Okay, Xenobiologist Neo. Let’s set up the underground extraction site for the worm while we are planning things. We can slate the same units that were mining it to prepare and excavate the site. But I would like to establish a stronger perimeter there to keep them safe.”
+
+[Confirmation: Sequencing order parameters and preparing site blueprint.]
+
+Okay, giant worm mining solved. Just one more to go and she’d boot up an old RTS game she found a copy of a few days earlier. For whatever reason, her recent encounters had left her enjoying the tactical old earth war game.
+
+“What about the Durasteel? You mentioned we found some stuff earlier? What are our options for replacing the extraction site in the base?” She would miss having the Durasteel so close to home. It had made extracting the entire deposit a breeze, and the little tunnel had doubled in usefulness as a home for her spider friends.
+
+But now that the deposit had nearly run its course, it was providing more of a hinderance. It would take three times as long to extract the last bit because of all the impurities and small veins of metal inside the strata.
+
+[Informative: Multiple potential solutions for Durasteel extraction are available.]
+
+[Option 1: Minor Desert Deposits (40km away), Northeast - Estimated 500k units. Low risk.]
+
+[Option 2: Jungle Deposit (38km into jungle from edge, approximately 50km total) - Estimated 1.7 million units. Unknown risk. Dense jungle terrain could make extraction challenging. Secondary access to river would allow access to freshwater resources.]
+
+[Option 3: Major Canyon Deposit (60km away towards southwest closer to suspected Blue territory and User ship crash site) - Estimated over 4 million units. High risk due to proximity to primary Blue operational zone.]
+
+Each option came with its own risks and benefits, but she made up her response almost immediately. “We’ll allocate units to set up a site for Option 1 immediately. Option 3 is out until we have the crawler operational. If we pass by, we’ll consider gathering some on along the way, but I don’t like the sound of ‘canyon.’ Sounds like something the crawler wouldn’t traverse very well.”
+
+The only issue was that 500k units was low, and it wasn’t likely they’d achieve 100% extraction, as the local deposit in the base had demonstrated. That meant they’d need to consider the Jungle Deposit as well, which meant more interaction with the tribal spiders. It would probably solve the water needs for the hydroponics, too.
+
+Atmospheric condensation and tapping the groundwater wouldn’t be needed, and the river wouldn’t notice at all if they siphoned off a million liters or so. That would cover any foreseeable needs for hydroponics.
+
+“Send a scout CRD to find a path to the deposit and map the site out. How did you find out about it, anyway?” Talia asked. She didn’t remember having any scouts go all the way to the river, and she’d left specific instructions not to go too deep.
+
+[Informative: Language processing during observation of native fauna revealed the presence of a large site of metallic resources in the region. Further observation allowed the determination that the metallic resources were ferric in nature and thus likely to be utilized for Durasteel extraction. Excavation units at rare alloy mining site have utilized seismic sensors and monitoring to map the deposit’s approximate size.]
+
+Talia blinked. “You eavesdropped on the tribal spiders? They were having a conversation about it?”
+
+[Affirmative: Local native lifeforms were commenting on User’s large amount of metal units and were theorizing on where User acquired the material for ‘making’ them. This unit did not inform them that User is incapable of producing things herself.]
+
+She blew a tuft of hair out of her face in annoyance. “You live in my head. Anything you make is technically made by me, too!”
+
+[Interrogative: Would User like to utilize primitive opposition AI opponents or engage in a multiplayer match?]
+
+That just annoyed her more. “Fine! We can do multiplayer again, but this time you’re getting a handicap!”

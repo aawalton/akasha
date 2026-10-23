@@ -1,0 +1,105 @@
+The rest of the day had been uneventful. The Blue had remained safely contained in the new prison module. Her spider friends were content to sleep in their growing metal nest. CRD-X9 units arrived on time and delivered the resources they’d gathered. Construction of the (9!) modules required to construct the research facility continued in the fabricator.
+
+The feared attack on her resource gathering CRD-X9 units never manifested as they continued to haul back the valuable minerals that made up the giant jungle worm’s corpse. Everything continued to progress along the projected course Neo had predicted, and it left her feeling…lost.
+
+There was one thing that she had thought of that might improve their efficiency though.
+
+“Neo, I know we’ve increased how many CRD-X9s we have, but can you think of any equipment that would allow them to haul more resources, like a trailer or something? Or maybe another vehicle that can follow along and support them? A resource hauler.”
+
+As the distances to the resources got longer and the CRD-X9s had to travel farther, they become much less efficient. She doubted they could build up enough transport capacity to keep up with the really long trips, but doubling their transport capacity would mean bringing in twice as much material for half as much travel work.
+
+[Informative: User’s concern is valid. This unit has identified two potential options for improving resource transportation efficiency.]
+
+[Option 1: Trailer Attachment - STH-5]
+
+| Description: A durable trailer attachment designed to be connected to various drone models, increasing their hauling capacity. |
+
+| Features: Increased hauling capacity by up to 50% (5,000 additional units), easy attachment and detachment mechanism, compatible with multiple drone systems |
+
+| Limitations: May reduce CRD-X9 speed by up to 10% due to increased weight, may reduce drone endurance by up to 25% when fully loaded |
+
+| Suggested Use: For close-to-moderate distance resource transportation |
+
+| Cost: Low |
+
+Talia scanned the statistics. It was a considerable upgrade. 15,000 units of capacity versus 10,000 units was no joke, and even better, the limitations seemed easy to overcome. If they were slightly slower on the trip, that would be totally fine, and losing endurance could just be fixed by sending a LIRU with a small stock of extra fusion cells.
+
+The best thing of all was the extremely low cost, they trailers were basically a Durasteel frame with wheels and an attachment mechanism. They didn’t even need advanced alloys and everything, but Durasteel cost was minimal.
+
+Her eyes flickered to the second option.
+
+[Option 2: Powered Cargo Vehicle - ‘Mule-X55’]
+
+| Description: A dedicated ground-based cargo vehicle designed for efficient resource transportation over longer distances. |
+
+| Features: High hauling capacity of up to 30,000 resource units, autonomous navigation, advanced terrain handling capabilities |
+
+| Limitations: Requires paired working CRD-X9 or other unit for operations, limited capabilities other than hauling |
+
+| Suggested Use: For moderate-to-long distance resource transportation |
+
+| Cost: Moderate |
+
+| Additional Statistics: Vehicle Weight: 15,000 kg, Max Load: 30,000 units, Max Speed: 40 km/h, Endurance: 3,000 km - Empty, 1,500 km - 100% Cargo Load, Terrain Handling: Advanced, Power Source: Fusion Cells (4) |
+
+Talia hummed to herself. The vehicle was a close match to the CRD-X9 in cost and capabilities, just the mining attachment had been replaced with extra storage. The missing vehicle mining laser saved a lot of weight and boosted its endurance profile considerably.
+
+It was still super slow, which she didn’t like, but as long as she was using the CRD-X9s she didn’t think it would be a bad idea to utilize it for the more distant trips through the jungle terrain.
+
+Nothing stopped her from picking both options at the same time, either.
+
+Talia took a deep breath. “Neo, let’s start with option one—queue up two trailers between each of the research facility modules, so we have one for every CRD-X9. That’ll help them in the short term without costing us much time or resources.”
+
+[Affirmative: Initiating fabrication of trailer attachments for CRD-X9 drones. Estimated completion time: 2 hours.]
+
+That took care of the queue up until it finished the research module, but she still needed to rebuild their losses and think about the Desert Crawler.
+
+“After the research module and trailers are finished, please put in orders for more IRUs, like…5 full sets. That’s 30 LIRU, 15 MIRU, and 10 HIRU, right?” Talia asked.
+
+[Affirmative: Adding IRU construction sets to queue.]
+
+A small smile appeared on her lips. Queuing up stuff could sometimes feel like a fun shopping trip if allowed that all the stuff to be delivered later. And that it costed resources instead of money. “We should have plenty of resources for some more armored vehicles, too. Let’s add four Panthers and two more Lynx.”
+
+[Notice: No Lynx-M3 units were lost in recent engagement.]
+
+Talia tilted her head. “Yes, I know, but they’ve been super useful.”
+
+[Informative: This Unit recommends replacing Raptor losses before building additional Lynx artillery. These units provide more utility and recon data where radar and other non-optical surveillance is degraded or impossible.]
+
+Talia thought about it for a second, then nodded. “Okay, that’s fine. Add the Raptors after the IRUs.”
+
+That would take the fabricator a good while to chew through. Enough that she’d probably have the research module deployed and operational, so she decided to not add any more resource collection stuff like she had planned.
+
+It would be needed, though, considering the cost of the Desert Crawler. If the research module was able to do all of what she hoped, then she’d probably be able to improve on any new CRD-X9s, too.
+
+With the queue taken care of, she suddenly realized she wasn’t sure what she was supposed to do next. She flipped her HUD to check on her units, then the little camera she’d left with the spiders, and then the prisoner’s feed. Everything was the same as it had been when she checked earlier. Dusky had rolled upside down to sleep nestled up against Dapple, who was still sound asleep on their pebble bed pile.
+
+Hot-Pink had taken up a seated position on the scrap metal, periodically opening one eye to check the other spiders. The Blue prisoner had taken up a cross-legged position in the center of its cell, eyes closed and doing something that reminded her of meditation.
+
+It felt like she had been jumping from crisis to crisis so often that she’d not had any time to rest or think. Now that she suddenly had nothing to do but wait—it was a shock.
+
+For once she decided to take a break and rest, disappearing into the Bootstrap module and taking off her suit to lounge about in bed. Eventually, she printed out some art supplies from the small fab and began to sketch some drawings of Dusky and Dapple.
+
+When she had a half dozen of those, she flipped her attention over to reading the very dry and boring technical manuals on her datapad detailing how to set up a small resource colony.
+
+She found that she’d skipped about half the steps in the manual, and that it didn’t even mention what to do when you were under attack by aliens with plasma rifles. Actually, she’d never managed to reach step one, which was to conduct an in-depth survey from orbit. The Cortex-31 was equipped with the necessary sensor package to prospect for mineral deposits without ever landing.
+
+If she had completed prospecting the planet from orbit, she would’ve had the option of selling rights to resource deposits to Cortex, unlocking the needed schematics for setting up, then deploying to likely sites for her own resource extraction work, then hauling back what she wanted to sell back to a populated system.
+
+Depending on how long she wanted to spend, she could have built up a massive haul before returning. The Cortex-31 would have been capable of hauling millions of resource units back to any selection of industrial worlds that she wanted to pick from.
+
+She hadn’t really intended to permanently install herself on a planet or as a miner, but she had needed credits. Her trust account had been wounded heavily when the standard refresh hadn’t arrived. That wasn’t surprising. She had run away after all.
+
+She was lucky that the amount on the account had been enough to buy the ship and outfit it. Well, outfit it to the level that old-Talia had thought was pretty good. Her recent experience had taught her it had been woefully inadequate in some areas.
+
+Especially relying on the branded Cortex package. Next time she’d shop around and maybe not go all-in on any one company’s equipment.
+
+Next time.
+
+Those two words were loaded with a lot of assumptions. That she’d make it off Sigma 16 or continue visiting unknown worlds. That she’d survive.
+
+The habitation module’s environmental systems hummed as she thought about it.
+
+A little flame of confidence grew inside of her. She was going to survive… she had all the tools she could possibly need to not just do that, but also thrive on her own.
+
+Well, with a little of help from Neo, of course.

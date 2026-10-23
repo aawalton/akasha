@@ -1,0 +1,121 @@
+Talia watched as the scout wave pushed forward.
+
+The rhythmic hum of the Desert Crawler’s full industrial fabricator intensified as it continued to churn out more units. It was much faster than the old one she had relied on at the bootstrap module. The only limiting factor was the supply of raw materials.
+
+Her gaze drifted to the command module monitor displaying a growing line of CRD-X9s trailing behind the Slim Girl, their purpose clear: to catch up and dump their precious cargo. The vehicles moved with a sense of urgency as they navigated the unforgiving terrain.
+
+It wasn’t quite enough for the pace she had wanted to set.
+
+“Any progress on the S16 vaccine or the communication research?” Talia asked.
+
+[Notice: Neither the S16 vaccine nor the communication research has progressed significantly.]
+
+Talia’s shoulders slumped slightly, disappointment evident in her posture.
+
+[Informative: The communication research is trending towards confirming the theory that the jungle networks are a type of mass EM communication network spanning the entire planet.]
+
+She flipped the monitor feed to the external camera to a nearby observation drone. The Desert Crawler rolled forward, its massive treads churning up the sand as it approached the desert worm site. A swarm of salvage units deployed from the vehicle’s industrial elevator before scurrying towards the remnants of the battle.
+
+With a flick of her wrist, Talia opened the intercom system to the Zoological module. The central monitor flickered to life, revealing Dusky, Dapple, and Hot Pink perched atop their scrap piles. Almost as one, they turned to look up at the camera. That was… disconcerting. How had they known she was going to talk to them?
+
+“Hey, girls. If you want to stretch your legs and salvage some scrap, now’s your chance. It should be safe for the time being,” Talia said.
+
+The spiders chittered excitedly, their legs tapping against the metal as they prepared to disembark.
+
+Talia turned her attention back to the tactical monitor. “Neo, let’s prioritize replenishing our lost units first. Then, start expanding our armored vehicle company. Focus on anti-munition systems until we’re at acceptable levels to deal with the Blue artillery, assuming a similar-sized unit to the one we just wiped out.”
+
+[Affirmative: Prioritizing replenishment of lost units and expansion of armored vehicle company with an emphasis on anti-munition systems to counter potential Blue artillery threats.]
+
+Talia nodded, her gaze drifting across the screens. The salvage units swarmed over the remnants of the battle, their lasers tearing into the twisted metal and shattered components.
+
+The spiders slid down the Desert Crawler on their webs, then began to dart between the wreckage as they searched for valuable scrap.
+
+Although just how they determined what was ‘valuable’ for spiders was… a big question mark.
+
+She flipped the feed to their forward solar scouts as they pushed further into the gray fog of war, their sensors scanning the landscape for any signs of activity.
+
+[Notice: Evidence of Blue activity detected. Tracks and dirt roads indicate increased movement in the area.]
+
+Talia leaned forward, her brow furrowed with concern.
+
+“It looks like they’re pulling back,” she said. “That’s a bad sign if they’re already reacting to our recent push.”
+
+[Analysis: Their rapid response suggests the presence of a long-range communication system, potentially compromising our own short and medium-range methods.]
+
+Talia nodded. “We need to prioritize working on our communication problem. What do we have in terms of plans?”
+
+[Informative: The research AI has developed several strategies involving the construction of mobile aerial units for testing new methods. However, User approval is required to proceed.]
+
+Talia considered the options, weighing the potential benefits against the strain on their resources. They really didn’t have a choice, did they?
+
+“Get it done,” she said, her voice firm. “A few air vehicles shouldn’t slow down our production too much.”
+
+[Affirmative: Prioritizing communication research and initiating construction of mobile aerial testing units.]
+
+Talia leaned back in her chair, her eyes fixed on the main screen as she studied the strategic map of the suspected Blue activity sites. Red circles dotted the landscape, each one accompanied by a blown-up image that revealed the telltale signs of tracks and vehicle trails.
+
+There were some red spots that were where she didn’t think they should be. “Neo, can you analyze the patterns further?” she asked.
+
+[Analysis: The tracks closer to the jungle appear to be fresh, while those further west seem older, although there are fresh signs on those as well. This indicates that the Blues recently investigated eastwards toward the jungle, and the HEM deposit axis tracks have been used previously.]
+
+Talia frowned. “Do you think they could breach the jungle wall?”
+
+[Assessment: Given the recent evidence of higher quality and technologically advanced vehicles, it is very possible that the Blues could breach the jungle wall. However, they would likely encounter similar issues as your own units, such as the constantly regrowing jungle edges and the dangers of keeping a tunnel open for a prolonged period.]
+
+Talia drummed her fingers on the armrest. The implications of the Blues’ movements were clear: they were searching for something—and not just her or the HEM deposit. The jungle seemed to be a point of interest. Not for the first time, she wished she had a more concrete idea of their motives. Had Raxion been fully truthful?
+
+Maybe another interrogation was in order.
+
+She glanced at the fabricator’s progress, the steady hum of the machine a constant reminder of the work that needed to be done. The communication research was crucial, but so was the expansion of their armored vehicle company and the replenishment of lost units.
+
+Talia’s gaze drifted to a side monitor as Rosetta’s AI screen flickered to life, a wireframe face appearing on the display.
+
+“User Talia, I have an update!” The AI’s voice chimed in cheerfully, a stark contrast to the somber mood that had settled over the Desert Crawler’s command center.
+
+“Rosetta, an update on the alien artifact language?” Talia asked.
+
+The AI’s wireframe face shifted, its features rearranging to convey a sense of excitement. “Indeed, User! I’ve made some fascinating connections between the Tch’Llik’yzz’Lrr somatic language and the written precursor language found on the artifact.”
+
+Talia leaned forward, her interest piqued. “Go on.”
+
+Rosetta’s voice took on a scholarly tone as she delved into the intricacies of the linguistic research. “The Tch’Llik’yzz’Lrr language is highly complex, with a vast array of subtle movements and gestures that convey meaning. Each twitch of a leg or tilt of the head can alter the context of a message entirely.”
+
+The AI paused, her wireframe face shifting to display a series of intricate patterns. “What’s truly remarkable is how these somatic elements seem to correlate with the written language found on the artifact. The shapes of the precursor script bear a striking resemblance to the movements of the Tch’Llik’yzz’Lrr.”
+
+Talia nodded, her eyes fixed on the patterns as Rosetta continued. “By cross-referencing the somatic language with the written script, I’ve been able to begin building a lexicon. Each gesture, each subtle movement, seems to correspond with a specific symbol or set of symbols.”
+
+The AI’s face shifted once more, displaying a series of side-by-side comparisons. “It’s a painstaking process, but the more I observe the Tch’Llik’yzz’Lrr, the more I’m able to decipher the meaning behind the precursor language.”
+
+Talia blinked in surprise. “So, you’re saying that the Tch’Llik’yzz’Lrr are the key to unlocking the secrets of the artifact?”
+
+Rosetta’s wireframe face nodded, a smile playing across her features. “Precisely. It’s a slow process, but I’m getting closer to unraveling the mysteries of this ancient language. There also appears to be a large data cache of information locked in the artifact.”
+
+Talia blinked and almost stood up. “Why didn’t you start with that?”
+
+[Informative: The potential applications of this research are vast. If the precursor language can be fully deciphered, it could provide invaluable insights into the history and technology of the ancient civilization that once inhabited Sigma 16.]
+
+Talia leaned back in her chair, her mind whirring. “Neo, do you think we could manufacture an appropriate apparatus for the spiders to take a video recording while visiting the jungle nest?”
+
+[Affirmative: A suitable recording device can be fabricated to withstand the rigors of the jungle environment and be easily carried by the Tch’Llik’yzz’Lrr.]
+
+Rosetta’s wireframe face beamed with excitement, her features shifting to convey her enthusiasm for the idea. “Oh, that would be simply marvelous! There might be an entire sub-section of the language that goes beyond the interactions of our current Tch’Llik’yzz’Lrr residents and User!”
+
+Talia nodded, a smile tugging at the corners of her lips. She turned to the side monitor displaying the Zoological module, where Dusky, Dapple, and Hot Pink were busily sorting through their newly acquired scrap.
+
+“Hey, girls,” she called out, her voice carrying through the intercom. “How would you feel about taking a little trip into the jungle nest with a video recorder? We could really use your help to gather some important data.”
+
+The spiders turned toward the camera and paused in their work, their heads tilting as they considered Talia’s request. Dapple was the first to respond, her legs tapping out a rhythmic pattern on the metal floor.
+
+“Maker-Visit-Home-Nest?” she chirped, her tone a mix of curiosity and excitement.
+
+Dusky and Hot Pink chimed in, their own legs tapping out similar patterns as they expressed their eagerness to help.
+
+“Big-Nest-Go-Now!” Hot Pink exclaimed, bouncing on her spindly legs.
+
+“Well, I meant for you three to go there and record video, not me,” Talia replied.
+
+The three spiders seemed sad at that and lowered onto their stomachs. Dapple let out a sad whine. “No-Maker-Oh-No.”
+
+Talia bit her lip. “Well, maybe I could go with you?”
+
+The three spiders jumped back onto their feet, Hot Pink with enough enthusiasm that her carapace hit the ceiling with a thud before she landed like a cat. “Maker-Go-Visit-Big-Nest!”

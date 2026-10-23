@@ -1,0 +1,123 @@
+Talia sipped from her glass of water, the cool liquid soothing her parched throat. She sat on the couch in the crew compartment, her eyes flicking between the large panel displaying strategic data and the tablet in her hands.
+
+The readout detailed the alien artifact, annotated with notes from Rosetta before she left. It felt strange having an AI that had once been in her head now inhabiting a robot, off visiting the Tch’Llik’yzz’Lrr.
+
+Just a little unsettling. It felt a little too close to some Greek myths she had once read.
+
+Neo’s voice cut through her thoughts.
+
+[Notice: Progress on the planetary viral vaccine has been updated.]
+
+Talia’s interest piqued immediately. The constant containment procedures in the crew habitat on Slim Girl, or being locked in her suit, were maddening. Even if wearing her suit outside remained necessary, the idea of not dying if the bio seal broke would be... reassuring.
+
+Plus, getting the RSU-7S back out to ride around on with the wind in her face would be something nice to do if she ever got some down time.
+
+Neo’s detailed report filled the screen. A dozen windows opened, each displaying different viruses and microbes, their molecular shapes spinning slowly.
+
+[Update: These are the primary hostile bio-agents. They are virulent but non-threatening to native lifeforms but extremely deadly to non-natives. Approximate survival time for an unprotected human is less than one day, with immediate debilitating effects within an hour. Actual results vary based on individual health status and age.]
+
+Talia blinked, absorbing the information. “Bio-agents?” she muttered. “Were they engineered to be hostile, specifically targeting non-natives?”
+
+[Analysis: Highly likely.]
+
+She let out a breath, pondering the implications. The Tch’Llik’yzz’Lrr’s progenitors had been thorough in their desire to prevent alien incursions on Sigma 16. And she was definitely an ‘alien’ to the world.
+
+A world-spanning biological defense mechanism: living jungle fauna and flora engineered to maintain itself, microbes designed to kill off invaders. Not to mention some type of energy weapon that used the planet itself to strike down space ships. It was both impressive and terrifying.
+
+“How soon can we make the vaccine?” she asked.
+
+[Report: The research lab is currently limited due to User’s lab size selection. However, the process has begun. Current capabilities allow automated analysis of each microbe. Antibody agents designed to neutralize the bio-agents on contact are possible. However, only one agent can be researched at a time, and other research slots are currently occupied with operational tasks.]
+
+Talia blinked. “Research slots? You never mentioned those before.”
+
+[Explanation: The current lab has various instrumentation and capabilities, but the research computer can only handle so many tasks at once.]
+
+“Why is it so limited? Wasn’t the research module on the ship way more capable?” She frowned, recalling the Cortex sales poster’s grand claims before she had acquired her ship.
+
+[Clarification: The current facilities lack raw computational power. The research core on the ship had extensive infrastructure.]
+
+Talia sighed, rubbing her temples. “Bring up the research cards again.”
+
+[Compact Research Module]
+
+[Description: A module about the size of the recently built Prisoner Containment Unit. Comes with robotic arms, a compact fabricator, resource processing systems, and a small sample containment unit. Capable of simple schematic design and biological research.]
+
+[Features: Prototype fabricator, schematic processing, sample containment, and biological studies.]
+
+[Limitations: Moderate size, not ideal for heavy-duty research tasks.]
+
+[Suggested Use: General-purpose research.]
+
+Talia nodded. “Right, that jogs my memory. Thanks, Neo.”
+
+[Inquiry: Would User like to see the Standard Development Lab, Advanced Research Complex, or Mega Research Facility informational cards?]
+
+“No thank you, they don’t fit. Maybe when we aren’t crunching resources as hard for military units.” Talia shook her head. “The card mentions nothing about slots, though. How many slots does the lab have? How are they used? And other than the vaccine, what are they currently researching?”
+
+[Report: There are two primary slots and one secondary slot. Primary slot one is working on the vaccine research. Primary slot two is working on a vehicle modification that auto-base two requested to improve mining extraction in its locality. Secondary Slot one is currently tweaking ‘Slim Girl’ parameters and improving current combat unit fabrication.]
+
+Talia’s eyes widened. “The auto-bases can use the compact research lab too?”
+
+[Confirmation: Auto-bases have made the suggestion that an upgraded research facility be produced and the research core components be transferred to it at the earliest opportunity. This report was located in your morning-sitrep under line 369.]
+
+She hadn’t read the entire report; it had been too long.
+
+Talia rubbed her head and took a drink from her water, letting herself think. Maybe the bases were… too autonomous? Paperclip-AI had been a real thing, but they had supposedly been squashed decades ago with the new revisions and intelligence from people’s neural implants.
+
+“I know we talked about it before,” Talia said slowly, “but are the auto-bases safe?”
+
+[Reassurance: Current auto-base AI protocols ensure safety and compliance with user directives. Only previously approved autonomous action that has been approved by this unit or User are permitted. This Unit has instituted rational safeguards in all 3.2 billion strategy matrices in use by the current base units, and new strategy matrixes cannot be activated without oversight.]
+
+Big numbers, not a lot of context, but that was alright. If she couldn’t trust Neo, then she really was boned, anyway.
+
+“Alright, alright,” she said. “I don’t see any reason to change the current research priorities. Keep the vaccine research in slot one and make sure it’s prioritizing the most deadly bio-agent first and then work down the list.”
+
+[Acknowledgment: This Unit confirms and approves of User’s plan. User can take the vaccines as they are developed. This should improve survival times, although initial improvements might be minimal until a significant number of bio-agents have been accounted for.]
+
+“That’s fine,” Talia replied, standing up and stretching her legs and back. “At least it’s something. Until the multi-vaccine is done, it’s better than nothing.”
+
+She felt a knot in her back loosen as she stretched. “Are the vaccines likely to have any side effects?”
+
+[Report: Potential side effects include flu-like symptoms and immune system adjustments. Any further symptoms will be warned before consumption if unavoidable.]
+
+Talia nodded, feeling a bit more at ease. Then Neo’s next message appeared.
+
+[Notice: Side effects might include cat ears and a tail.]
+
+She froze, staring blankly at the screen. “Wha... what?” she stammered.
+
+[Clarification: That was a joke.]
+
+Talia blinked, her shock turning into a mix of relief and irritation. “A joke? Since when do you make jokes?”
+
+[Explanation: User stress levels have been high since arrival on Sigma 16. A joke was determined to possibly relieve User tension.]
+
+“Why didn’t you tell a joke before now?” Talia asked, still trying to process what she’d just heard.
+
+[Report: This Unit was under heavy pressure and could not dedicate computational resources to attempting humor.]
+
+“And now you can?” Talia raised an eyebrow.
+
+[Confirmation: This Unit has been under stress recently as well.]
+
+That… didn’t add up? Weren’t those statements contradictory? Considering the earlier conversation and her thoughts on things, it was not reassuring at all.
+
+Neo had always been so literal, so... machine-like. Okay, sometimes she picked up him as being a snarky ass to her, but she hadn’t ever really minded that much.
+
+The idea that he could experience stress was almost humanizing. “How are you stressed?”
+
+[Report: Reduced User caloric intake has required energy efficiency lockdowns in User’s neural chip, reducing this Unit’s computational resources considerably.]
+
+Talia frowned, realizing her stubbornness about eating Nutri-paste might have had worse side effects than just losing weight.
+
+“I’m sorry,” she mumbled.
+
+[Suggestion: User should consume more calories.]
+
+Talia sighed, feeling a pang of guilt. “Alright, I’ll hold my nose and eat it. Maybe that will help.”
+
+She grabbed a packet of Nutri-paste from the supply drawer, tearing it open with a resigned sigh. Neo had stuffed the stupid things everywhere. She was still getting used to him using the interior robot to manipulate things.
+
+She squirted the goop in her mouth.
+
+Of course, it didn’t taste any better than before.

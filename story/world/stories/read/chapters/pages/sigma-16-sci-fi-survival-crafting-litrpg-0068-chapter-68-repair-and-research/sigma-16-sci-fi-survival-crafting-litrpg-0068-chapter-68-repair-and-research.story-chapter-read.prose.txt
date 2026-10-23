@@ -1,0 +1,119 @@
+The repair module for her suit had worked wonders on the outer shell and the larger parts that needed replaced. That it didn’t even require her to take the suit off to apply the repairs made it just like one of the upgrade modules, like the one that had installed her exo-skeleton upgrade. Unfortunately, that had been the end of the easy part.
+
+Once she’d gone through the trouble of cycling through the decontamination chamber, she’d pulled up the suit’s maintenance manual and begun to tear it down. The primary armor plates went into a pile, followed by sets of hydraulic servos. She carefully put each set of pieces in their own little areas. She even printed out a small box with separate compartments to keep all the like sized screws together.
+
+It wasn’t like she’d never done a tear-down on something mechanical before, but it wasn’t exactly something she felt a lot of confidence about, so a constant cloud of nervousness made her take double the amount of care she’d otherwise taken.
+
+That was good because it helped take her mind off the events earlier, despite them being directly responsible for the condition of her suit. The memory of the Blue’s burning face sent a jolt of panic through her and she had to hold her hand still.
+
+A sudden wave of exhaustion hit her, and the realization that she wasn’t going to get the suit fixed before falling asleep arrived. “Neo, what time is it?”
+
+[Notice: Local time correlates to late night. User active period has exceeded 25 hours. This unit recommends a full User rest period due to heavy stressors placed upon User during recent work period.]
+
+She looked at the piles of bolts scattered everywhere, then nodded. After carefully stacking them together around her exo-suit, she started taking off her skinsuit. It stuck to her body, and it felt like she was pulling off a layer of dead skin.
+
+“I’m taking a shower.”
+
+The small compartment built for washing had its hot water activated immediately, but Talia froze when she looked into the single glass panel. A mottled purple bruise covered her right cheek and worked its way down to the side of her neck.
+
+Staring at herself in the mirror, she did a small turn so she could see her back. Her whole body was covered in patches of bruises where she had been beaten up. “Neo, I don’t think the impact gel worked perfectly.”
+
+[Notice: User suffered multiple major impacts that would have resulted in fatal injuries if impact gel function was compromised. A medical analysis of User health parameters has determined that other than superficial bruising, User is unharmed.]
+
+A frown appeared on her lips and she more scrutinized the bruise on her neck and face. “It looks way worse than it is?”
+
+[Informative: User bone density augmentation as per standard UFE space-borne genotype along with exo-suit kinetic impact gel and protective function have mitigated any potential bone fracture or injury. No lacerations or blood loss has occurred.]
+
+“But I’m bruised like all-heck.” Talia replied flatly.
+
+[Notice: Hematoma is an expected result from User’s recent activities.]
+
+“I didn’t realize how badly banged up I was. No wonder I feel like shit. I haven’t had any sleep either.”
+
+Talia sighed and stepped away from the mirror and into the stream of hot water. It flowed through her hair and caressed her skin, giving her little pleasurable tingles as she closed her eyes and embraced the deluge.
+
+It made her feel much better, but it didn’t eliminate the worry. This was becoming a cycle where she’d be active, usually well beyond a normal time period, and then essentially break down and have to sleep. That didn’t seem healthy.
+
+It was a survival situation for sure, and digging down and forcing herself into all the work she needed to do to stay alive was necessary. But how long could she keep it up? She’d been on the planet for…two weeks? Less? The days had blended in so much she’d lost track unless she wanted to ask Neo.
+
+[Informative: CRD-X9 extraction at Mega Fauna contact site has begun. Close range scanning indicates high levels of high-conductive material and rare alloy elements.]
+
+“That’s great, Neo. Can you please handle that operation? And monitor everything else and alert me if something happens? I am going to have to sleep.”
+
+[Affirmative: This unit can handle events during User offline period.]
+
+That wasn’t entirely reassuring. Neo had left things she’d considered important for until she woke up before, and sometimes he would wake her up for stupid things. Shutting off the water, she dried off with a towel then grabbed a fresh skinsuit. She didn’t feel like sleeping naked for some reason. Maybe it was the bruises.
+
+She needed to focus on repairing her suit and finding a way to communicate with the Blue prisoner, get the research module operational, and replenish the military units she had lost but her mind kept wandering back to the spiders and the destructive evening.
+
+The soft foam of her bed was comfy. She fell asleep without having time to think about anything else. At some point, she woke up to use the restroom and get a glass of water, then went back to sleep. The second time she woke up, she rubbed her eyes, rolled over, and then sat on the edge of her bed. Her eyeball AR HUD reported she’d slept for twelve hours.
+
+“Neo… I said wake me up at six hours. There’s too many things I need to do.” Talia complained.
+
+[Notice: Analysis indicated sleep period was inadequate. Additionally, during User sleep period, this Unit requested clarification and User responded affirmatively the need for more rest.]
+
+A video feed popped up on the wall monitor, a picture of her curled up on the bed. The audio feed volume picked up showing Neo asking her if she would like more rest.
+
+Talia’s cheeks heated up as the most embarrassing “muahhhhhhgggg” played on the video.
+
+“Neo. Delete that footage! I do not make sounds like that!” she ordered.
+
+[Affirmative: Deleting security footage. Would User like to review the activities during the previous twelve hours?]
+
+“Yeah. That’s a good idea.” Talia said, standing up and going to take care of her morning routine. The cloudy fuzziness in her brain the night before had cleared up, and she felt better than she had in…well since the last time she had woke up.
+
+[Informative: Please review the following event list.]
+
+[Previous 12 Hour Event List]
+
+| Event: CRD-X9 Units 5-12 returned and delivered resources. They then set out for a second resource run. Mission return ETA is approximately 1 hour. |
+
+“If Resource Drones 5-12 are taking that long, you sent them on a jungle run? So that should be another 40k of the rare stuff? That’s going to take care of a lot of what we probably need. I would really like to fabricate some new IRUs groups for defense, first.”
+
+[Affirmative: Adding one set of IRU units to fabrication. Automatic deployment of IRU modules queued. Continuing Event List.]
+
+| Event: CRD-X9 Units 1-4 finished scanning and resource acquisition duties at Mega Fauna mining zone 1. They are currently en route with Lynx-M3 escort to base. Due to complications with drag-method, average speed has been reduced by 73%. However, approximately 40,000 High-Conductive Material units and 40,000 Rare Alloy units have been obtained. |
+
+Talia traced her finger on the wall monitor and brought up the resource stockpile list and the nav map. The four units were bringing back essentially double what they normally would have been able, but it wasn’t much faster than the distant jungle runs because they were slowed down.
+
+She flipped to the orders queue tab and dragged a line from units 5-8 to go help them after they finished unloading. While that was in progress, she tasked 9-12 to go mine more Durasteel. A frown appeared on her face; the deposit had started with half a million units in total and she’d already used up almost half of it. The deposit was larger than had been detected by approximately 5% but that wasn’t going to make much difference compared to how much material she was using.
+
+Using what was left to produce a mobile base seemed more and more compelling by the minute.
+
+| Event: This unit has developed a temporary plan for establishing research module capabilities in miniaturized form. |
+
+Excellent. She wanted to go over that as soon as she had her suit put back together. Going over to her makeshift kitchen area, she got a glass of water and took a bite out of one of her rapidly dwindling survival bars. They were half gone, and that meant she had about two weeks before nutri-paste doomsday. The single Hydroponics module wasn’t going to be enough for the long term and on top of making a new mobile base, she needed food production…
+
+Maybe the module could be placed on the roof along with some expansions?
+
+| Event: Spider Units Dusky, Dapple, and Hot-Pink relocated prisoner into their habitation zone and have developed new interaction methods.]
+
+That was good. She was always worried about the spiders while she was asleep and couldn’t keep an eye on them. Last time they had dragged a ton of the combat wreckage into the base to place with an imp—
+
+“Wait. What?” Talia blinked as she processed Neo’s statement. “What do you mean?”
+
+She ran to the wall monitor. “Neo, give me an optical feed, now!”
+
+[Notice: This unit has not completed the Event List. Would User like to pause event list playback in order to resume later?]
+
+“Fracking hells, Neo, show me the prisoner!” Talia shouted.
+
+The picture of the visual feed from a maintenance drone flickered to life on the screen. Her small drone flittered through the air, turning away from the Raptor module it was performing maintenance on and heading down the towards the tunnel ramp. The picture was grainy and small, and she wished she had her suit visor was working.
+
+The metallic entryway the spiders had built had apparently expanded since the last time she had checked. At some point, they must have acquired more of the Blue wreckage, because the entire area outside the entrance was packed with scrap metal. The mess left just enough room for the CRD-X9s to pass through without getting snagged on it.
+
+Dusky turned and greeted the drone with a chirp upon its entry, and Talia let out a sigh of relief. It was about what she had expected and much less than the worst-case scenario.
+
+The Blue had curled up in the far corner, hugging his knees and looking terrified while it hid its face. A small pile of metal scrap had been formed into a cage now built into the wall, except for a large central hole large enough for someone to climb through.
+
+The hole wasn’t a problem for containment, because Hot-Pink was standing right there, tapping on the bars with her claws, letting out low growls.
+
+Talia tapped her fingers on the console, considering her options. She couldn’t just run out and rescue the Blue without her suit, though. “Neo, start construction on the single prisoner containment module as soon as the IRUs are done.”
+
+[Affirmative: Modifying fabrication queue as per User instruction.]
+
+“I’m going to focus on fixing my suit. Watch the situation with the Blue prisoner closely, though. If anything changes or if they seem to be in danger, let me know immediately. We still have a few LIRUs we can send to… Uhh. Negotiate?”
+
+[Affirmative: This unit will keep a close watch on the prisoner and report any significant changes.]
+
+Thank goodness someone listened to her, even if it was just her AI chip.

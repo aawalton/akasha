@@ -1,0 +1,133 @@
+The colossal Giant Jungle Worm’s roar seemed to reverberate through every fiber of her being. Talia gritted her teeth and watched as green plasma orbs raced through the disappearing smog to splash onto its carapace. Smoke hissed and the rocky scales where they impacted glowed green and red, but it didn’t seem to have much effect.
+
+Raptors flew a wide circle around its head, before turning to strafe sideways while firing on its face. A second roar blew them off course, but the drones reoriented and regained altitude control for a second pass.
+
+The worm turned its attention back towards the Blues firing from the trenches around the Research Module and began to charge at them before the loud crack of a railgun lit up the plateau with blue lightning. The 75mm shell slammed into the worm’s neck, sending huge chunks of rock flying.
+
+The debris crashed down in the direction of the research module, and Talia realized they were in the line of danger. Her robot units seemed to realize that as well, and they all surged into the module.
+
+[Notice: Delaying tactics have been deployed to preoccupy native MEGA-FAUNA type creature. However, haste is advised.]
+
+“You got to be fracking kidding me!” Talia shouted. The LIRUs already in the module had knocked over several metal pieces of furniture and were engaged in a fire-fight with several blues down a long corridor. A fusillade of plasma fire slammed into the HIRU leading the charge, but the sudden arrival of her escort changed the firepower ratio radically.
+
+A desperate Blue infantryman pulled out a grenade, but Talia watched the item explode before it could leave his hand as the answering barrage of gauss rifles inundated their positions.
+
+[Notice: Infantry Units will clear lower levels of hostile presence. User should proceed with Data Core and Computronic Module recovery on 2nd and 3rd levels before MEGA-FAUNA can cause complete destruction of module.]
+
+“Just keep it from munching on the damned thing while I’m still in it,” Talia hissed.
+
+She turned and located a ladder that went upwards. Her suit barely fit through the tube that led upwards, and she nearly screamed when a LIRU’s face appeared in an air-vent. The hatch at the top was bio-metric sealed, and she had to apply her palm to open it.
+
+The system flashed yellow and complained about her suit making contact sub-optimal, but after a second try it flashed green and the metal interlocks hissed open. She shoved the hatch up and pulled herself onto the floor. The LIRU wasted no time in unfolding itself from the vent and followed her, jumping past her and pushing out of the maintenance room and into the main hall.
+
+Talia flipped her HUD feed to mirror the LIRU’s camera, scanning the area for any threats before joining it. Yellow and Red flashing emergency lights lit every inch of the interior, and holographic panels and info-suites flickered and died over numerous consoles. A green objective line painted itself on the floor in the form of flashing arrows indicating the direction she needed to go.
+
+Wind blew through the compartment, as the atmospheric systems struggled to keep the atmosphere clear. When she reached the central 4-way point in the center of the module, she realized why. A massive gaping wound had punched through the side of the module, letting in a huge amount of smoke and ash from the outside.
+
+Most of it was being sucked into the vents, but it was a futile endeavor, and the entire floor was washed with black debris, grit, and fouling from the battlefield environment outside. The opening gave her a clear view of the Blue trenches below, and she could see dozens of the enemy still fighting.
+
+“Neo! This is a perfect vantage point. Get some—” Talia’s words trailed off as she spotted a sudden wave of arachnids suddenly rushing across the grounds and diving into the trenches. A cacophony of angry shrieks and spiders with red glowing eyes descended on everything fighting in the area.
+
+Green plasma slammed into one spider, knocking it aside and knocking it on its back before its legs curled up and it went still, only for it to be replaced by another spider impaling the Blue with a sharp claw tipped leg.
+
+[Warning: Local fauna have entered engagement; several units have been lost due to contact.]
+
+Talia turned and put her back against a wall to avoid silhouetting herself in the opening before tapping her HUD. A camera view of a spider impaling one of her MIRU units and tearing it apart appeared on one screen, while several LIRUs fleeing several chasing spiders appeared on another.
+
+[Tactical: User units are falling back to allow local fauna to engage Blue forces, while distracting local MEGA FAUNA. Two Panther X-1s have been lost.]
+
+The sound of weapons fire on the floor below intensified. An explosion shook the entire structure slightly as something went off, causing dust and loose debris to clatter from the ceiling. The LIRU unit pushed forward toward the Computronics room, and she turned to follow.
+
+Ceiling height crystalline windows separated the compartment from the outside, allowing them to examine the room from outside. The entire assembly was still active, dozens of holographic panels listing statuses and analysis of the atmosphere running in automated mode. Other processes indicated they had stalled without User input or failed initialization.
+
+Placing her hand on the door control pad, lit up a warning.
+
+| Computronics unit active. |
+
+| Deactivation is required before entry. |
+
+| Halt all research processes? Y/N. |
+
+Talia confirmed, and suddenly most of the panels inside the room winked out. The blue glow from the central pedestal died down to nothing before the entry way flashed from yellow to green and slid open.
+
+“I can’t carry that.” Talia stated.
+
+[Notice: Computronic module core is all that is required for re-establishing new research facility. Ejection method resides on central control unit.]
+
+The pedestal highlighted in green, with helpful indicators showing the ejection controls. She pulled a double armed lever, then pressed several keys in the order indicated before a cylinder slowly rose out from the pedestal. It was small, about the same size as one of her Medi-gel injectors. It glimmered with a sea of shimmering blue and white particles.
+
+As she pulled it out of the container, she realized it was the exact same size. “Wait, can I store this in my suit bracer?”
+
+[Affirmative: Standard transport control method via exo-suit includes standard bracer coupling.]
+
+Talia popped her bracer open and inserted it into one of the empty slots. “Simple enough.”
+
+[Research Module Primary Components]
+
+| Computronic Research AI Module: 1/1 |
+
+| Research Module Crystalline Data Core: 0/1 |
+
+[Recommendation: Proceed to third level and acquire Data Core. Alacrity is encouraged due to mounting losses of User units.]
+
+Wasting no time, she turned and followed the LIRU toward the end of the hallway. Her HUD flashed a list of her remaining units, causing her to have a mild panic.
+
+[Unit Roster]
+
+| CRD-X9 (Cortex Resource Drone): 4/4 |
+
+| Raptor Drones: 17/24 |
+
+| LIRU (Light Infantry Robotic Unit): 14/30 |
+
+| MIRU (Medium Infantry Robotic Unit): 11/20 |
+
+| HIRU (Heavy Infantry Robotic Unit): 5/10 |
+
+| Panther X-1 Armored Vehicles: 4/6 |
+
+| Lynx-M3 Mobile Artillery: 2/2 |
+
+| Pegasus Armored Personnel Carrier (APC): 0/1 |
+
+| Deployable CIWS Turrets: 17/20 |
+
+They needed to hurry. A MIRU drone joined them to guard the corridor while her and the LIRU climbed upwards. The hatch required her authorization to open again, but this one refused to budge. “Frack.”
+
+She slid her multi-tool out of her holster and began to dematerialize the hatch when the structure shook a second time.
+
+[Notice: User is recommended to hurry. Native MEGA FAUNA is increasing in aggression and unit losses in distraction attempt are failing.]
+
+“Why don’t you drop artillery on the damned thing then?” Talia ordered.
+
+[Informative: Standard HEAT shells have been utilized to little effect. Creature’s carapace appears to be a mix of ablative rock and metal that can reform and rapidly heal incurred damage.]
+
+She blinked. “It shrugs off HEAT shells. What about a Fusion shell?”
+
+Surely one of those could hurt the thing, but the question was if the yield required to hurt it would leave anything else around, including her, alive.
+
+[Authorization: User authorization required for MXL-182 deployment.]
+
+The hatch finished disappearing into her tool, and she pulled herself up to the next floor. “Sure! Just don’t wipe us out with it!”
+
+Her LIRU pulled itself up, then pushed forward. The MIRU waved and then maintained its position.
+
+The third level was much smaller than the second and first. Large windows lined the hallway, giving her a terrifying view of the Giant Jungle Worm chasing after one of her Panthers while CIWS turrets and Raptors continued to harass it. Plasma fire was non-existent, but that was because…
+
+Her heart leapt out of her chest as a spider climbed up past the window and disappeared from view. It wasn’t Dapple or Dusky because its hair had been a hot pink.
+
+“Neo, we need to hurry!”
+
+Her path tracker led them to the end of the hall towards another sealed off compartment. Halfway there, a heavy thump and warning indicator caused her to whip around, pulling out her PAR. The corridor was empty.
+
+| -1 MIRU Detected |
+
+She waved the LIRU back to cover the ladder when a blinding light suddenly flashed. Her HUD visor automatically switched to a darker shade to maintain her vision, but then the structure began to shake. Debris and clatter slammed into the crystal windows hard enough for cracks to form, but the barrier held and then they began to self-seal.
+
+[Notice: Minimum yield MXL-182 ineffective on native MEGA FAUNA.]
+
+She didn’t even bother to examine the ridiculous worm, instead scrambling toward the compartment with the Data Core. She slapped her handprint on the control to open it, going through the same cycle of messages as earlier.
+
+It finally yielded, and the door opened with a hiss. As she stepped forward, a hand suddenly clamped down on the back of her neck and yanked her backwards, pulling her off her feet and slamming her into a wall.
+
+Talia fell to the ground with a heavy thud. Standing above her was a heavily armored Blue which was easily the largest she’d ever seen.

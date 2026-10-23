@@ -1,0 +1,175 @@
+Chapter 78 - Backline Planning
+
+Talia locked Raxion back in his cell. His request had been slightly confusing until she realized he was still afraid of the spiders.
+
+She started to walk back to the bootstrap module, her head whirling with all the new information dumped on her.
+
+“This changes everything,” Talia said, her voice tinged with anxiety. “If they are that big, they can just crush us before we even get set up?”
+
+[Notice: Further expansion is crucial to ensure survival and success against potential threats.]
+
+Talia nodded, her brow furrowed. “But if they’re so advanced, why have their weapons and attacks been so primitive? They don’t even have air support.”
+
+[Theory: The Ferroin may employ an escalating strategy based on their discoveries on each world, as described by Raxion. They send in the lowest caste first with limited resources to determine viability before deploying more important units.]
+
+Talia grunted. “That makes sense, depending on how the Gates work.” She paused, considering the implications. “If we can secure the gate, we might be able to block the Ferroin from sending reinforcements.”
+
+[Warning: Current encounters and combat may have initiated enemy force escalation. Accelerating operations is advisable.]
+
+“How can we speed things up?” Talia asked. “Aren’t we already going as fast as possible?”
+
+[Suggestion: Return to the research lab and utilize the primary screens for optimal viewing of potential strategies.]
+
+“Huh. Right,” Talia mumbled. She turned and headed towards the research module. Whatever they decided, they need to do it in a hurry.
+
+The module welcomed her just as it had before, and she slid into the primary seat as the main console came to life. “Neo, show me our current sensors and operations map.”
+
+The console lit up, displaying their current terrain mapping of the continent.
+
+The familiar zones around the bootstrap base were highlighted in green, operational supply lines indicated by dotted white lines.
+
+Most of that area was brightly lit, and Talia realized they had sensors or line of sight over those regions.
+
+Areas further out were slightly grayer but still revealed.
+
+The long line to the HEM deposit wasn’t fully illuminated either, though caravans of units making the long trip did leave some areas patrolled.
+
+“Let’s see a military estimate,” Talia said, her eyes scanning the map.
+
+The display blinked and updated, red marks highlighting the various skirmishes they had faced—the ambush from the blue dune buggy near the base, the enemy tank attack on the CRD-X9 returning from the jungle, the Blue capture of their HEM deposit mine, and the axis of attack for the Blue assault on the bootstrap with a combined infantry and tank company.
+
+The battle for the research lab from her ship was also present further southwest, marked in a much larger circle. The various lines of defense they had penetrated to rescue the research module components were marked, as well as the estimated enemy movements detected from ground markings.
+
+A large red crescent marked the dark gray area beyond, hinting at the hidden enemy forces likely waiting for them in the direction of her crashed ship.
+
+Talia sighed, the weight of their challenge sinking in. “We have a long way to go.”
+
+[Query: Would you like to view this unit’s new strategic plan?]
+
+“Yes,” Talia nodded. “As long as it doesn’t mean scrapping the desert crawler.”
+
+The console display shifted, replacing the military map with a new strategic plan. Talia leaned forward, her eyes scanning the screen as Neo began to explain.
+
+[Strategic Plan: Establish a network of autonomous bases across the continent to maximize resource extraction and production capabilities.]
+
+“Autonomous bases?” Talia asked, her brow furrowed. “What about the communication issues caused by the planet’s jungles?”
+
+[Explanation: Further research into the jungle’s effects on wireless communications could mitigate this issue in the future. In the meantime, each base would operate autonomously with its own priorities and a central AI command unit organizing lower-tier drones.]
+
+Talia took a deep breath, her mind racing with the implications of the plan. “Neo, doesn’t this violate the UFE’s colonization and exploitation laws?”
+
+[Confirmation: Yes, the proposed plan violates UFE regulations. However, based on your previous actions, this unit believes that you prioritize high-value strategies that ensure your survival, even if they may raise legal concerns post-survival and planetary exfiltration.]
+
+Talia let out a breath, biting her lip as she considered that. She knew he was right—her survival had to come first. Fuck those Corpo bastards.
+
+“Tell me more,” Talia said.
+
+[Strategy: By establishing multiple bases across the continent, we can exponentially increase our resource extraction and production capabilities. Each base will be responsible for its own construction, extraction, and production. The various bases working together to create a self-sustaining and self-replicating network.]
+
+As Neo spoke, the display screen lit up with a series of icons representing potential base locations. Talia watched as the map came to life, her mind already working through the logistics of implementing such a plan.
+
+[Benefit: This approach will not only ensure a steady supply of resources, but also provide redundancy in case of enemy attacks or unforeseen setbacks. The autonomous nature of the bases will allow for continued operation even if communication with the central command is temporarily lost.]
+
+“What if they go rogue? I’ve read a few history books, you know, and this kind of thing doesn’t end well half the time,” Talia countered.
+
+[Notice: A failsafe device can be required and installed in each autonomy core upon construction.]
+
+Talia leaned back in her chair, her eyes fixed on the display. There were so many problems with that. What if the signal to detonate the fail-safes didn’t go out? What if the AIs decided to uninstall them? There were absolutely so, so many things that could go wrong.
+
+Which was balanced by the fact they were looking at facing some billion or so planets of Ferroin empire stuff.
+
+“What if the resources around one base run out or something? I figure we’ll sit them near resource deposits, but we already have mined a few out,” Talia asked.
+
+[Base Specialization: Each base will have the ability to focus on a specific resource or function, such as mining, refining, manufacturing, or research. This is in addition to the generalist approach available. Each base can utilize modular construction, and forward unused modules to bases that can better utilize them. This specialization will allow for optimized resource allocation and streamlined production processes.]
+
+Talia nodded, her mind already working through the logistics of setting up such a network. “That sounds effective if the bases can work together properly. What about communication between the bases?” she asked.
+
+[Communication Protocol: Initially, bases will be connected through a series of relay stations, utilizing short range bands for uninterrupted coverage. This could then further be upgraded by buried cables for hard connections or upgraded high-band wireless once a method of compensating for Sigma 16’s erratic field fluctuations is in place. In the event of a communication disruption, each base will have a pre-programmed set of priorities and contingency plans to maintain operational efficiency.]
+
+The display zoomed in on a particular base icon, revealing a detailed schematic of its internal structure.
+
+Talia nodded. “What about security?”
+
+[Base Infrastructure: The bases will also feature robust defense mechanisms, such as perimeter sensors, automated turrets, and shielding technology.]
+
+Talia let out a breath. “This is impressive, Neo,” she said, her voice tinged with a mix of awe and apprehension. “What’s it going to cost us?”
+
+The display shifted. A series of charts and graphs appeared alongside the map, detailing the resource allocations and construction timelines.
+
+[Resource Allocation:
+
+[ Durasteel: 150,000 units ]
+
+[ Refined Silicates: 75,000 units ]
+
+[ Advanced Alloy: 50,000 units ]
+
+[ High-Conductive Material: 25,000 units ]
+
+[ High-Energy Matter: 10,000 units ]]
+
+Talia studied the figures, her brow furrowed in concentration. The numbers were substantial, but she knew they were necessary to establish a strong foothold on the planet.
+
+“This is for the first base? Everything it needs to expand its own operations and build the second one?”
+
+[Affirmative: Initial allocation for a starting base is indicated. It will be fully capable of replication and autonomous selection of a second site once fully built to the satisfaction of its governor AI unit or manually prompted to expand.]
+
+Well, she hoped the AI could handle that without going batshit crazy. She was still not sure if this was a great idea, but then again, coming to the planet in the first place had turned out to be a bad idea.
+
+In for a credit, in for the entire bank, or something like that, was how it went, wasn’t it?
+
+“How long will it take for the base to become operational?” Talia asked.
+
+[Construction Timeline — Autonomous Base:
+
+[ Phase 1 - Infrastructure: 2 days ]
+
+[ Phase 2 - Resource Extraction: 4 days ]
+
+[ Phase 3 - Manufacturing: 6 days ]
+
+[ Phase 4 - Defense Systems: 10 days ]]
+
+Talia studied the timeline. “Do we have enough resources to get started on the first node?”
+
+[Affirmative: Based on current resource stockpiles and production rates, we have sufficient materials to begin construction on the first autonomous base.]
+
+Talia nodded, her eyes scanning the map displayed on the screen. “I think we should place it to the northeast, in the opposite direction of the Ferroin and the ship. Building up the network in the rear would reduce the chances of them being attacked.”
+
+[Suggestion: That is a sound strategy. Establishing a strong foundation in a secure location will provide a stable platform for further expansion.]
+
+“Let’s get started then,” she said.
+
+[Acknowledged: This unit will begin the necessary preparations and resource allocations immediately.]
+
+Talia leaned back in her chair, her gaze fixed on the map of the continent. There was way too much terra incognita and blank sensor spaces. They needed to hurry and push toward the ship.
+
+She considered sending the Seeker on a high altitude recon towards the southwest, but that was dangerous and she didn’t want to lose the indicated resources.
+
+Building the auto-base would certainly slow down the desert crawler construction already.
+
+She scanned the various resource deposits they had detected scattered across the region. “How’s the progress on the dura-steel desert deposit mining?” she asked, her voice filled with curiosity.
+
+[Report: The desert mining operation is proceeding at optimal efficiency. Resource extraction rates are exceeding initial projections by 12%.]
+
+A smile tugged at the corners of Talia’s lips. “Excellent. Let’s set up the first autonomous base there. The infrastructure for the mining operation is already in place.”
+
+[Affirmative: Site attributes are acceptable for auto-base placement.]
+
+Talia shifted her focus to the next pressing matter. “I think it’s time we venture into the jungle again,” she said, her gaze settling on the dense foliage displayed on the screen. “We need to scout out that other Durasteel deposit and establish mining operations. It’ll be easier to bootstrap off our existing jungle mine now that it’s working, too.”
+
+[Caution: Additional infrastructure will be required to ensure smooth operations in the jungle environment. The dense vegetation and unique challenges posed by the local fauna may hinder progress.]
+
+Talia sighed, her brow furrowed in thought. “I know, Neo. We’ll have to find a balance between expanding our reach and maintaining efficiency. But we can’t afford to ignore the resources the jungle has to offer.”
+
+Rising from her seat, Talia stretched her arms above her head. “While the samples are being processed and the research module does its thing, I’ll head out and assess the situation with the additional jungle deposit myself.”
+
+As she made her way towards the exit of the research module, Talia paused, glancing back at the map. “It probably won’t make sense to put the auto-bases in the jungle, though. The terrain and conditions are too unpredictable.”
+
+[Agreement: The jungle environment poses significant challenges for the establishment of autonomous bases. Focusing on more stable locations would be advisable.]
+
+Talia nodded, a wry smile on her face. “Glad we’re on the same page, Neo.”
+
+She stepped out of the research module and headed towards the ramp leading to the underground area where the spiders had built their nest.
+
+Reaching into her pocket, Talia made sure she had a few chunks of HEM.

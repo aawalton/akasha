@@ -1,0 +1,129 @@
+Before retreating into the refuge of her habitation module, Talia approached the Blue ‘Taker’ and did her best to make sure the alien was still alive. The spiders immediately became more agitated, but she sent them down the ramp to their nest with an order that was surprisingly obeyed without any further resistance.
+
+A LIRU that had taken up guard duty at the base during the mission and had continued to place containers of water inside the cage, but they had been untouched. The Blue had begun to stack them into a triangle. That told her a simple but notable piece of information: the aliens could feel boredom.
+
+Come to think of it, she’d never seen the Spiders drink any water either. Her suit provided a constant availability for her to sip from its internal reservoir and liquid recycler, but it seemed strange to her that neither the spiders or the Blue seemed to need H2O.
+
+The desert environment was pretty dry, but the jungle had plenty of liquid available. She hadn’t yet reached the jungle rivers, but those hinted that there was more than an adequate amount of it. The jungle flora definitely utilized the water…didn’t it? There had been those strange growths she’d scanned in the stream bed, anyway.
+
+The Blue stared up at her as she considered it. Surely the alien needed some sustenance. “Can you understand me? Neo, can you make the translator work?”
+
+The alien did respond with a curt response…and then it leaned forward to place its forehead on the sand in her direction and began to chatter rapidly, an impossible to decipher litany of sounds that were harsh to her ears.
+
+[Notice: Cortex translation AI demands further payment-negotiation before engaging in a second xeno-linguistic endeavor.]
+
+Oh. That was why the translator wasn’t working at all. “Great, it wants to wring every single credit out of me doesn’t it?”
+
+Talia exhaled sharply, her breath tinged with irritation as she shook her head. “Tell it to pound sand. We’ll try ourselves once we get the research module working.”
+
+She’d have to put off dealing with the prisoner until later. “Neo, keep an eye on them. If they seem like they are in distress or you can detect any medical issues or signs of starvation, let me know. We’ll have to figure out how to tend to them or…or let them go.”
+
+She wasn’t going to hold them prisoner until they starved to death, at least. That was just a step she wasn’t willing to take, even if it put them at a slightly higher risk of danger. It wasn’t like the base with its force field was hard to find, anyway, and she couldn’t think of much else the alien could reveal.
+
+Communications at a standstill, she decided to change tack, turning towards the main ramp to the Bootstrap Module. “Neo, what’s our resource situation like?”
+
+[Informative: Eight CRD-X9 units are returning from a gathering expedition. Four units remain near the combat site with the Lynx-M3 units and their defensive emplacements, awaiting further orders.]
+
+“Show me what’s in the stockpile, plus what those eight are bringing back,” Talia ordered.
+
+[Affirmative: Estimated Resource tally in progress.]
+
+The side hatch to the module slid open obediently, allowing her to step inside. The recent memory of the research module’s damaged but cleaned hallways contrasted heavily with the nearly rusty look of the older Bootstrap Module. Despite her best efforts at cleaning it, the older module still showed its age.
+
+She probably should have bought one of the newer models, but they had been prohibitively expensive.
+
+The feeling that she should put some serious consideration into recycling it and building something new—and mobile—was impossible to ignore. If she hadn’t lost most of her mobile units in the battle, the base would be downright crowded already.
+
+The biggest issue with expanding was resources. Depending on the status of her crashed ship, it was possible that building something large and mobile would be better served by doing so at the ship’s crash site rather than try building it from scratch.
+
+Her Helmet HUD flickered as she sat down at the console beside the fabrication unit. The broken panel lit up then died, which was a problem since it was the one her stats elements usually displayed on. “Put it on the console, Neo.”
+
+The central screen built into the wall flickered to life, displaying the previously requested information for her.
+
+[Bootstrap Module Stockpile—Including Incoming Resources]
+
+| Durasteel: 141,350 |
+
+| Refined Silicates: 43,528 |
+
+| Advanced Alloy: 7,402 |
+
+| High-Conductive Material: 8,177 |
+
+| High-Energy Matter: 95,860 |
+
+| Fusion Cells: 84 |
+
+“Okay, that’s better than I thought, but we are really not doing great on the rarer stuff. Is there a problem in the jungle?”
+
+[Notice: User criteria and exclusion zones for current logging expeditions places nearest harvestable material at 38 kilometers from base location.]
+
+Talia frowned. She’d have to start sending the machines closer to where she knew the spider’s nest was. She had wanted to avoid that, but they needed material. “Loosen the restrictions on the exclusion zone a bit, enough for one full run of the eight units at least.”
+
+Her helmet flickered again as Neo confirmed the order.
+
+She leaned back in the seat, a few joints of her suit whining for attention and repair. Ugh. She couldn’t even relax.
+
+“I’m putting the cart before the horse, aren’t I? We need to fix my suit before anything else. You should have had enough time for diagnostics. Do we have a preliminary cost analysis? Anything too big to produce on the small fab inside decon?”
+
+[Informative: Preliminary diagnostics indicate that most exo-suit components can be repaired via fabricated repair module. However, multiple internal systems require manual refurbishment and replacement parts. These parts can be fabricated inside User’s habitat module.]
+
+[Suit Repair Cost Analysis]
+
+| Durasteel: 1200 |
+
+| Refined Silicates: 800 |
+
+| Advanced Alloy: 150 |
+
+| High-Conductive Material: 100 |
+
+Talia bit her lip. The dead panel in her helmet suddenly lit up to maximum brightness in its best attempt to blind her before blinking out again. She pulled up her suit controls and deactivated the panel completely. “Ugh. Alright, that’s doable. Let’s get started on that, please?”
+
+[Informative: Fabrication of repair module for suit has been added to queue. Required internal components are queued and in progress on small fab.]
+
+[Recommendation: Wait for external repair module completion and deployment before beginning internal component replacement.]
+
+She glanced at the new timer. That meant waiting for thirty minutes then. As much as she wanted to take the heavy metal off, she didn’t want to have to go through the decon procedure twice.
+
+That meant it was time for more logistics.
+
+“Neo, the CRD-X9 units near the battle location, have them head back. We need to start getting more resources for all the stuff that got destroyed. We should have already moved that group back to base.”
+
+[Notice: An opportunity has arisen for forward deployed CRD-X9 units inside previous Research Module operation zone.]
+
+Talia’s brow furrowed. “What kind of opportunity? If you forgot, we literally just dropped twenty kilo-tons of HEM on the place less than an hour ago. I seriously doubt the ground has cooled down. And the cloud probably reached twenty thousand feet, giving any Blues who enjoy looking at the sunrise a clear indication that ‘shit-went-down-right-here’ for 300 kilometers!”
+
+Her working HUD panel flipped to a drone view with an enhanced picture. One of the Raptors had returned to patrol the site. The ground was certainly looking cooked, and the dust and debris were so thick that nothing would have been visible without the enhancement. The module and everything around it was totally vaporized, but what Neo was interested in was immediately apparent.
+
+“Did you…miss? There is no way that thing could have survived a 10-kiloton shell to the face!” Talia hissed.
+
+[Notice: Native MEGA FAUNA indicators suggest complete termination. However, its robust skeletal and muscular makeup present an opportunity for study and resource acquisition.]
+
+“Oh. Ohh.” Talia hummed and considered. That didn’t remove the risk than angry Blues would probably be looking to figure out what had happened there. But it had been less than an hour.
+
+“Do you think most of it is Durasteel/Ferrites, or… do you think they could load up on high-conductive and rare alloy? The Rockslasher gave us a lot of good stuff…and we were just running into issues in the jungle.”
+
+[Informative: An accurate analysis of the remains has not been conducted. However, following the statistical points of creatures recorded so far, in addition to the Giant Jungle Worm’s novel size and potential age, it is highly likely that large amounts of valuable material could be acquired.]
+
+“Fug.” She bit her lip and rolled her head back and forth with her eyes closed, weighing the risk vs reward. Losing the miners would be bad. She’d hoped to recycle the obliterated wreckage of her base and units, so getting something back at least would be a win. Finally, she had an idea.
+
+“Neo…could the CRD-X9 units…chop the corpse into pieces and haul them back along with their full hoppers?”
+
+The Bootstrap Module’s console screen swapped over to a schematic view, with little illustrated drone units driving up and slicing chunks of the worm up then driving off with them, dragging them along behind.
+
+Each chunk was a different size. The largest one had the CRD-X9 come to a halt. The smallest made it back quickly, but the chunk was depicted as barely amounting to anything extra.
+
+[Notice: Depending on sectioned size and density, this could prevent CRD-X9 movement. Care and consideration will be required to find optimal speed/load balance.]
+
+The third CRD-X9 on the illustration had a moderately large chunk, and took a little while extra to make it back compared to the small chunk vehicle, but it looked like it nearly doubled the amount of valuables.
+
+Talia smiled. “As long as we keep a Raptor in the air as a comms relay, that sounds like a perfect job for you while I put the insides of my suit back together.”
+
+[Notice: This unit expects large amounts of User help requests during repair process.]
+
+“Oh, shut up. If you can figure out how to chop up worm chunks, I can figure out how to put the suit back together.”
+
+[Informative: These two processes are not of similar complexity.]
+
+“Yeah, but you don’t have hands, so you can’t repair the suit, smartass.”

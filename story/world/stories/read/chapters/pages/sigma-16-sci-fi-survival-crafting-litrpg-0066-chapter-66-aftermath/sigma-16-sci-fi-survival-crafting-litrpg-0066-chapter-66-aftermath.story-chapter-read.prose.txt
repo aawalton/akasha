@@ -1,0 +1,147 @@
+https://tattatyar.carrd.co/
+
+The Seeker-H7 flashed through the air toward her remaining Lynx-M3 units and the CIWS turrets that still protected them. The aircraft’s ladder groaned as Talia finally finished pulling herself up and into the compartment. “Neo! Don’t go too fast. You’ll shake the spiders off the fuselage!”
+
+[Informative: Spider-units have utilized highly effective means for attaching themselves to the vehicle. Possibility of unknown anti-air units exists and a rapid course route to base has been plotted.]
+
+Her HUD lit up a side panel for one of the Seeker’s external cameras, and what Neo meant by ‘effective means’ of attaching was clearly visible. The spiders had jabbed the pointy tips of their front legs into the aircraft deep enough to act as climbing spikes!
+
+“Are we going to make it back to base?” Talia asked quickly.
+
+[Notice: Minor damage sustained, however, all flight systems are operational.]
+
+There was a loud banging, and she panned the exterior camera. One of the spiders was attached to one of the wing’s ailerons, and every time the control surface moved the extra weight of the spider made a bang.
+
+“Are…are you sure?”
+
+[Notice: Adjusting flight speed and altitude to avoid causing damage to spider-units.]
+
+Talia sighed with relief as the Seeker-H7 adjusted its course, taking into consideration the spiders clinging to the aircraft. She glanced at the external camera feed again, watching the spiders maintain their grip despite the wind pressure and occasional turbulence. She spotted Dusky and Dapple by their harnesses, both of them hanging onto a wing together.
+
+As the Seeker-H7 continued back toward the base, she felt like she needed to take a moment to assess their situation. The mission had been successful, but at a significant cost. The Research Module had been destroyed, the spiders had been rescued…or at least some of them had. She wasn’t sure if Neo would have an accurate count about how many might have…died in the combat or escaped, but it seemed like only half, or less, had made it. And then there was the worm. She couldn’t help but feel she had barely scraped by, and there were many more dangers lurking on the planet she had no idea about.
+
+[Notice: User has exited secondary blast radius for MXL-182 maximum yield.]
+
+[Recommendation: Battlefield Sterilization via two-round volley of remaining MXL-182 shells.]
+
+Talia’s eyebrows furrowed. “What? But there might be spiders still there that didn’t come with us.”
+
+[Informative: While potentially friendly native fauna might be present within blast radius, hostile fauna continues to devastate the location. In addition, a large amount of friendly technology and material remains in the zone. Hostile scavengers could determine User capabilities and begin attempts to reverse engineer User technology which would diminish User advantage and safety.]
+
+She wanted to curl up on herself, but her suit and flight seat prevented that. Would nuking the worm even do anything to it? It had shrugged off everything else. Neo’s point about the Blues recovering her damaged units though… that went both ways. If she nuked it, she’d not have a chance to go through their equipment.
+
+But…
+
+[Unit Roster]
+
+| CRD-X9 (Cortex Resource Drone): 4/4 |
+
+| Raptor Drones: 9/24 |
+
+| LIRU (Light Infantry Robotic Unit): 0/30 |
+
+| MIRU (Medium Infantry Robotic Unit): 0/20 |
+
+| HIRU (Heavy Infantry Robotic Unit): 0/10 |
+
+| Panther X-1 Armored Vehicles: 0/6 |
+
+| Lynx-M3 Mobile Artillery: 2/2 |
+
+| Pegasus Armored Personnel Carrier (APC): 0/1 |
+
+| Deployable CIWS Turrets: 6/20 |
+
+| Seeker-H7: 1/1 |
+
+| Spider Units: 13/13 |
+
+The issue was that she didn’t have much to send to recover anything. The CRD-X9s weren’t going to survive hanging out with possible enemy reinforcements or scattered infantry that had survived the giant worm’s trampling. Much less the worm still being there…just what had caused it to surface right when the attack had begun?
+
+She’d gotten the critical parts for the research module out…along with a dozen new questions she had no answers for.
+
+Plus... some of the spiders could still be in the zone!
+
+[Notice: This unit highly recommends battlefield sterilization, if host—]
+
+“Okay.” Talia whispered. She didn’t want to do it, but she understood why it was needed. The Blues seemed to have their own branch of technology, but if they came after her with mass-produced laser printed railgun and gauss armed drones, that would be all she wrote.
+
+“Go ahead, Neo. Maximum yield MXL-182 strike authorized,” Talia said, her voice devoid of emotion. The aircraft immediately dipped lower in altitude, but Neo remained quiet.
+
+It was hard to think about the situation or consider things deeper while she waited. A few minutes later, a bright flash lit up the terrain from behind them. An audible level of upset shrieking somehow reached her from the spiders, their voices reverberating through the aircraft’s hull.
+
+As fast as the flash appeared, it was gone. A few minutes later, a video feed from one of the Raptors appeared on the aircraft’s monitor. A massive mushroom cloud was still spreading upwards, and the entire area was cloaked in a thick dust of expanding debris. Little white speckles bathed the picture in random white noise, before the screen switched to a different view mode.
+
+The plateau where the Research Module and the battle had been was now a massive crater. Alarmingly, the outline of the giant worm appeared.
+
+“It wasn’t vaporized!” Talia exclaimed.
+
+[Informative: Giant Jungle Worm life signs have halted. However, considerable material remains of its corpse. Future investigation could be warranted.]
+
+Even if the crater wasn’t going to be a radioactive wasteland, there was still molten rock at the bottom of it. “I…we’ll think about it after we deal with everything else we already have to deal with.”
+
+It was a relief to know that the giant thing wasn’t going to chase them back to her base, though. She didn’t think there was anything she’d have been able to do to protect the Bootstrap Module if it had attacked it. The shield generator wasn’t going to protect from underground threats at all.
+
+“Neo,” she said, her voice shaky, “once we get back to base, we need to regroup and plan our next steps.”
+
+[Agreement: User’s suggestion is wise. This unit will begin compiling information on recent events and possible future courses of action.]
+
+There were things she needed to check, too. Much more personal and closer to home. Her suit’s systems had automatically deactivated the damaged parts that had begun to malfunction. Pulling herself up the ladder had been much harder than it should have been because her leg servos were nearly useless.
+
+Her helmet’s left HUD screen was fried and currently replaced by her own in-eyeball AR screen. It had a much worse picture and was prone to giving her headaches when used a lot.
+
+A diagnostic request to the system had dozens of lines of text flowing down in orange and red, with more systems and parts needing maintenance, repair, or replacement than ones that didn’t. Her small survival fabricator in her personal quarters was going to have a lot of work to do, and there was only one mechanic available to fix it, and she had very little experience in rebuilding suits.
+
+Talia let out a sigh and started making a list.
+
+Fifteen kilometers out from her base, there was a loud clunk from outside. She glanced at the outside monitor feed and her heart nearly stopped. One of the spiders was rapidly falling behind, and her first thought was one of them had become exhausted and fallen off.
+
+Until the large white parachute flowing behind it suddenly expanded into a big round ball, catching air and slowing the spider’s descent.
+
+A second bang preceded a second spider jumping off. A third one joined, and then there were another half dozen that followed.
+
+[Notice: The majority of spider-units have disembarked.]
+
+“I see that,” Talia said. The white web balloons turned into parachutes highlighted against the night sky as the spiders used their feet to control them, turning their paths toward the jungle. That was probably for the best, but for some reason it made her feel a little melancholy.
+
+Or was it just emotional and mental exhaustion from the earlier ordeal?
+
+The Seeker rapidly ate away at the distance between them and the base and, less than a half-hour later, they crossed into the shield generator’s protective dome. There was an angry shrieking, and her HUD system blinked as it did its best to sync with the Base’s status sheets, but there wasn’t enough space on her face panels to show everything, so she truncated them.
+
+“Neo, we need to fix my suit first.”
+
+[Affirmative: Repair module supplies have been allocated for construction, however, User breakdown and fitting is required. Additionally, a new suit model could be selected and fabricated.]
+
+“Yeah, I need a new suit, but I want to wait until we have the research module built. I don’t need another one tailored for stupid micro-transaction bullshit.”
+
+As soon as the aircraft sat down and came to a stop a set of spider eyes appeared, looking into the cockpit. It was Dusky, and Talia found a smile coming to her lips unbidden. “Oh, some of our friends stayed with us.”
+
+[Affirmative: Three spider-units have begun to disembark Seeker upon arrival at Base location.]
+
+Talia felt confused. “Three?” The aircraft’s side hatch opened with a protesting squeal. Apparently, her rough handling getting inside had damaged the mechanism. The ladder didn’t want to work either, but when she stepped on it and put her suit’s weight down, it unseized and she slid all the way to the sand below.
+
+Hot-Pink was waiting, flanked by Dusky and Dapple by the time she managed to stand back up despite her suit’s best efforts at pretending to be completely broken.
+
+“Hello…friend?” Talia stammered. The pink spider looked a lot more peaceful than when it had been covered in the weird flames. Whatever the Blue soldier had done had seemed like a magic trick, but the effects had been all too real, and whatever it was, the spiders seemed related to it as well. Whatever the other spiders had done had returned Hot-Pink to normal.
+
+“Maker-Hurt-Wounds-Heal?” Dapple chirped.
+
+Talia blinked. “You can talk!”
+
+“Talk-Maker-Yes!” Dusky answered.
+
+Dapple turned and Talia realized the spider had oriented on the prison cage that they had made. The Blue was still inside of it, but a bit of panic filled her as she thought the alien might have been dead. It sat up though, eliciting a hiss from Hot-Pink.
+
+“Taker!” The pink spider bounced on her feet, shifting her weight from one side to the other.
+
+Dapple turned back to Talia. “Eat-Kill-Taker-Now?”
+
+Talia blinked. “No… Uhh. I need to fix my suit, then we have to try to question them.”
+
+Dusky stared at Talia as well, her chirps hesitant. “Heal-Talk-Taker?”
+
+Hot-Pink spun around and centered on Talia. “No! Taker-Kill!”
+
+The other two spiders thumped the pink spider on the head with their legs. “Challenge-Maker-No!” They hissed in unison.
+
+The pink spider laid on her belly and rubbed her head where they thumped her, seemingly submitting to her sisters’ joint proclamation.

@@ -1,0 +1,171 @@
+Chapter 110 – Questions
+
+The CRD-X9 came to a halt. Talia flipped the hatch switch and then clambering out.
+
+The bootstrap base sprawled. Only the old module she had sheltered in remained in its familiar spot, near the mining tunnel leading to the depleted Durasteel deposit and abandoned spider nest.
+
+Vehicles still moved up and down the ramp. She wasn’t sure what that was about. Underground storage, perhaps?
+
+She refocused. Questioning the prisoner and getting things ready to take back to the spiders was her priority.
+
+“Neo, where’s the prison module now?” she asked.
+
+[Notice: Prisoner module has been moved to a more efficient position.]
+
+“Of course,” she muttered. “AIs and their love for optimization.”
+
+[Affirmation: Optimization is a vital function.]
+
+She rolled her eyes as her HUD filled with a new layout map.
+
+The moat she had painstakingly dug for protection was gone, replaced by a series of fabrication and resource storage silos. The space inside the shield generator pulsed with activity. It looked like chaos, but she knew it was just.... organization that’d only make sense to an AI.
+
+The layout was fine, though. Wide dirt paths allowed numerous vehicles to pass through between the buildings and modules, including CRD-X9s pulling long trailers laden with parts and raw resource blanks.
+
+The base had evolved into a central hub for fabrication. Larger than the auto-bases according to the readouts. She shook her head. It had sprung up rapidly, like a hyperactive weed in a garden.
+
+Seeing it in person, despite her brief absence, made the scale of their operations pointedly clear. Tanks and infantry platoons rolled out by the hour now.
+
+She scanned the map and turned, following a 3D set of guide arrows helpfully painted on the ground by her HUD.
+
+[Notice: User nutritional maintenance requires action.]
+
+It was impossible to hold back a wince, but she had agreed to the prodding. A straw appeared inside her helmet and she sucked on it, fighting back the sensation of the slurried Nutri-paste flowing freely. It was almost worse than the less wet stuff, but the hydration made it easier to gulp down in a few seconds.
+
+And anything was better than chewing.
+
+She rinsed everything with a lot of water. At least there would be no complaints about hydration. She waited for a convoy to pass, then crossed the sand to a concrete platform that housed the smaller modules, including the prison cell.
+
+That was the ridiculous thing. Smaller. It was a fricking building and she had stressed out about what to build, tweaking the resource allocations and expenditures until they had been fine tuned. All that effort started to feel like a rounding error now.
+
+Exponential growth rates were really, really intense.
+
+As the module came into view, her thoughts drifted to Raxion. What more could he reveal about the Blues? Their motivations? Their weaknesses? She needed every scrap of information.
+
+[Notice: User’s arrival at destination imminent.]
+
+A steel catwalk a few feet off the ground separated the hydroponics, prison module, and an IRU recharging station. Talia glanced at the IRU station, not having seen one like it before. Heck, she hadn’t examined the utility IRUs before, either. When had she discussed building those? Had she even discussed it? Keeping track of everything was becoming impossible.
+
+The utility units were locked in cradles, recharging. If she hadn’t looked closely, they would have been easy to pass off as HIRUs. Well, they shared the same chassis, so that made sense. Her HUD displayed the various charge states at a glance.
+
+[Notice: Mobile fabrication unit and resource convoy will be ready for dispatch to the Tch’Llik’yzz’Lrr nest in several hours.]
+
+“That fast?”
+
+[Affirmation: A small cache of resources is maintained for unexpected expenditures.]
+
+Neo was handling more and more without her input. She didn’t comment on it and headed to the prison module. It was the same module, but its new location had changed its appearance. Anyone looking out would see walls of metal buildings instead of the desert landscape.
+
+Talia stepped in front of the bars and window.
+
+Raxion was sitting in the center in a meditative pose. Just like before. She couldn’t fathom how he managed it. If she had been kept alone in a cage, forced to meditate like that, she would have gone insane.
+
+“Has he done anything or talked since last time?” she asked.
+
+[Report: The prisoner has remained silent other than to periodically request rations which have been provided.]
+
+“HEM, like the spiders, right?”
+
+[Affirmation: Correct.]
+
+Talia took a deep breath. After seeing Hot Pink catch on fire and perform what seemed like a magic trick, she was pretty sure it was related. Had the Ferroin engineered their client races to use HEM to do... magic? Not actual magic, but something so advanced it appeared magical. Because magic didn’t exist. She reminded herself of that.
+
+“Okay, I’m going to talk to him now.”
+
+[Warning: Maintain a safe personal boundary.]
+
+“I’m in my suit and he’s unarmed. What’s to worry about?”
+
+[Reminder: User encountered a hostile Blue soldier that was capable of super-biological feats, including spontaneous combustion.]
+
+Talia frowned. “We’re really going over my suit upgrades after this. Fire resistance is at the top of the list.”
+
+She stepped closer to the bars and stared. He didn’t look up or notice her. How much did he know? What would a miner, that had essentially been a slave, know about the higher workings of their military? They were questions she should have had Neo ask while she was busy.
+
+She just… hadn’t made it a priority after the first time.
+
+There had been so much going on and then… there was the fact that she wished she didn’t have a prisoner to ask. That still made her feel wrong. Maybe instead of relocating him, she should hook him up with a drone and free him. Far, far away from the Tch’Llik, of course.
+
+She wouldn’t do that, though. She needed answers now. Her feelings didn’t really matter when the spiders were counting on her to save them. Plus, she had to save herself, too.
+
+The module’s door whirred as the hydraulics opened the heavy door. Talia stepped inside, her eyes immediately locking onto Raxion. He opened his eyes but remained seated, his expression unreadable.
+
+“Hey, long time no see. How are things?” It was an amateurish attempt to break the ice, but then she was never a good socialite.
+
+Raxion’s gaze remained steady. “I am still alive and have not been tortured, so I suppose they are well enough.”
+
+“Torture is normal in the Ferroin Empire?” she probed.
+
+Raxion snorted, a sound that conveyed more than words. At least, she took that as a yes.
+
+“More enemies are coming through the gate,” Talia said, watching for his reaction.
+
+Raxion sighed, his shoulders slumping. “The Empire must have decided this world was worth too much to abandon. The HEM deposit more enticing than the dangers.”
+
+“We’ve been holding them off,” Talia said.
+
+Raxion looked at the bars and then out the window. “I did not understand before. You use machines with minds in a self-replicating fashion.”
+
+“It would be hard for me to do so much all on my own,” Talia replied.
+
+“Such use of machine minds is anathema to the Empire,” Raxion said. “They would normally cut contact with the world rather than come into contact with such things. But in this case, they will do everything they can to purge you and your machines.”
+
+Talia’s eyes narrowed. “What about you? You don’t seem to be freaking out about it.”
+
+“I have considered myself already dead for some time,” Raxion said calmly. “If the machines go wild and insane and destroy me along with the world, then it was my time.”
+
+“That’s very... accepting,” Talia said, tilting her head. “Aren’t miners supposed to be tough?”
+
+Raxion laughed, a dry sound that echoed in the small cell. “Miners must be very tough, but also mindful. We are the most numerous to suffer and die.”
+
+“Ferroin society must be very dark,” Talia said.
+
+Raxion shook his head. “No, there are many bright things, as long as you are not lower-caste. There are as many Ferroin as there are stars, all living their lives in the Empire, from the highest prefects to the lowest dust miners.”
+
+“I’ve only seen you and soldiers,” Talia said. Her voice was tinged with frustration. “But the more you talk, the more you sound like humans. And that doesn’t make me happy because I have to stop and kill them. I already am killing them.”
+
+“They are warriors,” Raxion said simply. “The Empire is always at war somewhere, and it’s their lot to fight and die for the Empire.”
+
+Talia shook her head, trying to wrap her mind around it all. “Why are they kidnapping the spiders—the Tch’Llik’yzz’Lrr?”
+
+Raxion looked at Talia and frowned. “The servants?”
+
+Talia frowned back. “The spiders. You know them—the ones that cornered you and poked and prodded you before you ended up here.”
+
+Raxion sucked in a breath. It was the first time she had seen him show any actual emotion. He quickly masked it, his face becoming a blank slate again. “They are the servants, another race that served the Ancients before they left and the Empire took over.”
+
+“The military went through a lot of trouble to kidnap as many of them as possible,” Talia said. “They lost a lot of soldiers in the process. They don’t seem to care about losses, but kidnapping native spiders doesn’t make sense to me. Why?”
+
+“The servant races are collected by the Church,” Raxion explained. “They possess ‘spark,’ which can control the high-powers, and the machines of the ancients.”
+
+“The gates? They use them to control the gates?” Talia asked.
+
+“I believe it is so,” he replied.
+
+Talia fell silent, processing the information. Neo didn’t comment either.
+
+“Is that the only way they control the gate network?” she finally asked.
+
+Raxion frowned. “I do not know. I had no involvement. I just know the Church harvests the lesser races for their spark to continue the Empire. Other worlds have different servants, but all were created by the Ancients. The ‘spark’ is used to manipulate and control those devices.”
+
+Talia puffed out a breath, anger simmering beneath her calm exterior. The collection of the Tch’Llik was even worse than she had thought. “How do they harvest spark?”
+
+Raxion shrugged. “I don’t know,” he said again. “I’ve never been to a Church-world, but it is likely permanent—because the ones taken to harvest never come back. There were servants on the Emperor’s mining world that were bred and harvested regularly, and that’s the only reason I know about it at all. Sometimes they would be forced to work in the mines.”
+
+She didn’t want to think about the cruelty. Not that the Ferroin had a monopoly on such things. Humans probably had managed worse, but it was still wrong. “If the Ferroin are the heirs to the Precursors’ empire, why don’t you have the ‘spark’ as well, then?”
+
+Raxion looked troubled. “I don’t know.”
+
+“I might be moving you to a safer location soon,” Talia said, her tone softening slightly.
+
+“You need to win quickly,” Raxion said. “If the cohort hasn’t locked away this world permanently, then the legions will come to purge you.”
+
+Talia puffed up her cheeks, then blew the air out into her helmet. “We’ll see about that.” She turned and started to leave. Before she stepped out, she turned and looked at the Blue. “If I have more questions, I’ll have the ‘machine-mind’ ask them. I’m not sure I’ll get back here soon. If you want anything, just ask it.”
+
+That was going to be the best she could do for him, she realized. At least for now.
+
+The prison module door closed with the same hiss that it had opened with.
+
+[Notice: User’s heart rate elevated.]
+
+“Yeah, no kidding,” she muttered, stepping back out into the desert sun.

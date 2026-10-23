@@ -1,0 +1,135 @@
+Chapter 74 – Base Operations
+
+After several hours of monitoring and taking care of anything that needed to be supervised or adjusted, the jungle mining operation was largely taken care of and on its way to full automation. It was going to take time for the CRD-X9s to dig their way to the deposit, even with the extra load of ST-100 Fusion Cells waiting to recharge the vehicles so they wouldn’t have to return to base in the middle of the process.
+
+Dusky, Dapple, and Hot Pink had taken up what she called playing on the surface, chasing each other and hopping between rocks and climbing the trees and even making some webs to catch the curious glow bugs that came too close. When she signaled for them to load up, Hot Pink refused.
+
+The spider chirped a single “Ride-Danger-Cart-No!” before skittering up a tree and settling on the web.
+
+“We’re going back to base. Are you sure you don’t want to come with us? It’s really far.”
+
+The spider peered at her while Dusky and Dapple climbed up on her Pegasus without complaint, but Hot Pink didn’t respond. Talia shrugged. “If you are going to stay here, can you watch the miners and keep them safe?”
+
+The spider’s head twisted slightly, a gesture that she recognized as a question mark. “Keep-Glowbug-Safe. Release-Glowbug-When-Safe.”
+
+Talia opened her mouth, then closed it silently, feeling like the spider had pulled a rug out from under her. The spiders hadn’t placed the nets to protect her equipment from the glow bugs. They’d done it to protect the glow bugs from her and her equipment!
+
+“Neo. Can we create a holding area underground, deep enough that the light won’t diffuse to the surface and won’t attract the bugs?”
+
+[Affirmative: Modifications to mining tunnel can be made safely at the juncture at 100 meters depth.]
+
+Talia checked the 3D schematic on her HUD, then confirmed the action. Two of the idle units hummed to life, then entered the tunnel while several deeper underground turned around to excavate the designated area.
+
+“Okay,” Talia murmured to herself before looking back up at Hot Pink. “It will be safe for them in a little while. Just give a bit more time for everything to be moved underground, alright? Then you can let the bugs go.”
+
+The spider raised and lowered itself in a facsimile of a nod. “Wait-Release-Glowbug. Return-Nest-Alone!”
+
+Talia looked up to the roof of the APC and confirmed that Dapple was already curled up in her spot and Dusky was dancing on the front half of the vehicle, ready to go. She shook her head; the spiders were really settling into their self-assigned positions without missing a beat.
+
+The trip out of the jungle was simple enough as the APC followed along an already graded path the CRD-X9s had made earlier. Despite the lack of spider escort, they made it through without encountering any fauna. Dusky had to stop jumping and flatten himself like Dapple had when they tunneled out of the thick foliage with the help of a waiting CRD-X9 that was slated for joining the miners at the new mining site.
+
+She could almost feel the heat the second they escaped the embrace of the contained jungle environment, although she was sure that it was just psychological. She was encapsulated inside two bubbles of Durasteel and inside her suit after all.
+
+There were several waiting cargo units at the depot waiting and they filed into a neat line beside the path and let her APC take the lead on the way back to the base. She’d had a unit improve the dirt path and pack it down, so it wasn’t an issue for the heavily laden vehicles. It was now wide enough for two-way traffic, although there weren’t quite enough vehicles for that to be a requirement.
+
+But that made it easier when she was taking the turns when moving flat out in the APC, something that Dusky was probably hoping for. The spider would be disappointed that they were matching the hauler’s slower speed. Probably.
+
+The escort wasn’t strictly necessary, but it gave her time to pour over the various lists and summaries about what had occurred in her half-day absence. She spotted various drones at random intervals, including one of the heavier raptors flying back and forth on patrol.
+
+Once they reached the halfway point, she spotted a panther dug in on a hillside on the vehicle’s HUD, highlighting the defensive position in a light green.
+
+QCD-2P Quadcopters grew in number as they neared the base, a scattered swarm of them covering the entire region in constant surveillance. Gone were the times when a Rockslasher would be able to sneak up on the base or anything else. Unless it was underground.
+
+They’d solved that by installing various seismic sensors. She wasn’t sure what they’d do if another Giant Jungle Worm showed up, or as Neo liked to call it a ‘Megafauna.’ That was a major reason to hurry and finish the Desert Crawler. It wouldn’t be impervious, but at least it would be able to stay on the move.
+
+They still weren’t sure what had caused the worm to surface in the first place. At least from what she had gathered from the spiders, such a thing wasn’t very common.
+
+As they passed the inner perimeter a kilometer out, she spotted IRUs stationed in dugouts, maintaining a constant overwatch. If the Blues attempted to attack her base again, they’d face multiple redundant lines of defense, all supported by multiple Lynx-M3 artillery positions that were also scattered around the base and hidden from observation by desert camo nets.
+
+Not that they had detected or spotted a single air unit so far. The absence of any aerial reconnaissance by the Blues seemed like a massive blind spot, considering how effective and important it was in combat. She was also fairly certain they had no orbital surveillance capabilities, or they would have been much more reactive and knew what she was up to.
+
+They had the anti-air SAM missile units, but other than the extremely close encounter that had nearly killed her, they hadn’t been very effective. She’d steered her single large airframe away from the hotspots except during the spider rescue and research module mission.
+
+Hundreds of miniature sentry turrets were positioned in a large circle around the base as well, concealed and waiting to pop up when it would be most effective. Most of them were small, and not the best for anti-armor, but there were a lot of them. They’d replaced minefields, since she was worried that indiscriminate weapons like those would be a danger to anything friendly… like her spiders.
+
+More advanced mines with Friend-Or-Foe identification and self-destruct were available, but those were more expensive and defeated the purpose.
+
+All her other precautions and defenses seemed to be sufficient. She had already spent a massive amount of resources on building weapons already, and she wanted to focus on getting the advanced crawler built.
+
+The convoy of resource drones peeled off, taking a second road that had been built to the new dedicated resource module and industrial fabricator. She’d split it off from the main Bootstrap Module. The industrial fabricator would be reinstalled into the crawler once it was built, so it wasn’t a waste of resources.
+
+And it allowed her to have two main fabrication queues at once. The desert crawler was much larger than anything she had produced before, and it required multiple modules to construct. A row of them had already begun to form nearby, each one measuring eleven meters in length and six in height. There would eventually be 168 of them when completed.
+
+After that, a construction vehicle would arrange them just outside of the base on the sand flats nearby and they would spend the next two days laser printing the massive vehicle.
+
+Another reason she’d increased the amount of Raptor drones and defenses. The process was vulnerable to disruption if the Blues just so happened to decide to attack then. But she felt that was less and less likely since there had been so few sightings of the aliens since the battle.
+
+[Notice: Module Forty-Two out of One Hundred Sixty-Eight required for Advanced Desert Crawler has been completed.]
+
+“That’s great, Neo.”
+
+She pulled the Pegasus to a stop at the small parking area just outside the old Durasteel mine tunnel that led down to the spider’s improvised nest, as well as the ramp up into her habitation space inside the Bootstrap module. Dusky let out a celebratory chirp before shaking Dapple awake. Both spiders hopped off and turned toward a small scrap pile leaning up against the base.
+
+A couple of LIRU were tasked with collecting debris around the base. The single attack the Blues had made on the base had met with total defeat, and the wreckage and debris had been considerable, the armor units being blown to bits by artillery and their carcasses scattered in a very wide area to the point they were still finding bits and pieces in the sand.
+
+The spiders, of course, were delighted. They raced over to the wall, grabbed their harnesses and multi-tools, and began reclaiming the scrap metal.
+
+With an amused shake of the head, she watched them finish recycling then hurry down toward their nest that they had lined with Durasteel while they built it. One thing was for sure, the spiders were able to learn, and quickly. It was probably terrible of her, but it was hard not to think of them as really smart pets…despite all the evidence to the contrary.
+
+But their behavior was so…cute, and other than the intimidating giant red spider…they were actually starting to look cute to her as well.
+
+She shook her head and shut down the APC and disembarked. Giant alien spiders. Cute. She was going insane from being on the rim for too long. It even had a medical term, if she remembered right. Settlers and colonists called it ‘frontier sickness’ or something.
+
+She was certainly lost on the frontier.
+
+“Neo,” she asked casually, leaning against Pegasus’s armor-clad hull. “How long until Research Module initialization is done?”
+
+There was an almost imperceptible pause before Neo replied.
+
+[Estimation: Fifteen hours remaining.]
+
+Talia released a sigh. She frowned and crossed her arms over her chest plate. “That’s longer than I thought it’d be. Didn’t you say it would be done by the time we got back?”
+
+Her annoyance stemmed from the fact that Neo had failed to inform her it would take nearly a week to bring online after she had rushed building it. The module wasn’t cheap, and while it was nice to get it started early, that had slowed down the exponential rate of building more resource gathering units.
+
+[Informative: User absence, increased unit processing requirements, and unexpected decompression complexities have increased estimated completion date.]
+
+“Some of those sound like you could have accounted for them in your estimate,” Talia argued.
+
+[Notice: This unit is already operating at maximum safe capacity. Dedicating excessive cycles to more robust ETA determination would be inefficient.]
+
+“Okay, Okay. I agree, it’s not all your fault. We have a lot on our plate right now.” She decided not to dwell on it and headed toward the prison containment module. Their single Blue prisoner was isolated inside. She’d upgraded the cell with one-way view crystal and added environmental protection. It had just felt wrong to leave the Blue exposed to the elements, and she’d already weathered one sandstorm.
+
+There was no real telling when another would come without a meteorological satellite, and getting anything to orbit on the planet was going to be challenge even with its slightly lower than earth equivalent gravity. The weird EM fields, likely generated by the planet’s jungles, also wreaked havoc on any long-range signals, and she wasn’t even sure they’d be able to get anything but a direct laser connection to go through.
+
+And those would only work with line of sight on a sunny day or night.
+
+She observed the alien through the one-way viewing screen and noted how he sat motionless in the middle of his cell in a cross-legged meditative stance. The Blue had accepted no food or drink she’d offered except for the small amounts of HEM. That the Blue shared that in common with the spiders was baffling to her, and also made little sense.
+
+Giving him too much was a fear she had since she believed that the effects on the blue in the battle had been directly caused by eating the refined material. At least that was what the spiders had tried to explain to her when she had asked about what had happened to Hot Pink when she had absorbed the energy, and then all the other spiders had sucked it out of her.
+
+Neo couldn’t explain or even give her any hints on it at all, and she was left having to accept that ‘alien space magic’ was real. To be fair, if she’d shown a human some of her equipment and tools that she took for granted, they’d probably say the same thing.
+
+But just how the Blues could have such a disparate range of technology and weapons was strange. She theorized they were some sort of apocalypse survivors running around after they had wiped their own civilization out, but if that was the case, there should have been some sign of massive ruins or something.
+
+There’d been nothing detected from her ship’s initial survey, so all she was left with was guesses.
+
+Asking the prisoner had produced no results, and the spiders just became agitated and wanted to eat him…plus he was absolutely terrified of them after the questioning Hot Pink had given him. Her Cortex AI suite refused to budge on their position of being unhelpful unless she agreed to negotiate, which she wasn’t willing to do out of principal.
+
+That’d all end tomorrow, she figured, when the research module finally came online.
+
+She moved to the observation panel and tapped the window. An electric charge flowed through the crystal and made it transparent on both sides. The Blue opened its eyes and looked at her, but remained sitting. “Hello?” Talia asked.
+
+The alien made a response, but it was gibberish and short. Everything was recorded, so hopefully when translation begun there would be some information to start off with. There were supposedly some battle records from the spider rescue that had voices and chatter in them, but when she had listened, it had just been explosions and weapon fire.
+
+Maybe Neo was able to pick out voices in the recording, but she certainly wasn’t able to. She would let the experts deal with it once they were willing to actually do something other than try to sabotage her for the benefit of their corporate masters.
+
+And to think that Cortex prided itself on being on the forefront of alien relations. She wondered how a press conference revealing that they’d actively put her life in jeopardy and sabotaged first contact with a new alien race would go over.
+
+It was a threat that’d bear keeping in mind in the future, if she needed something from them and they were still being obstinate.
+
+To their credit, they had made a lot of progress with spiders, she thought, and hadn’t cut that off. It was maybe more for themselves, though…probably.
+
+She sighed and closed the view port when the Alien went back to meditating.
+
+Tomorrow, then.

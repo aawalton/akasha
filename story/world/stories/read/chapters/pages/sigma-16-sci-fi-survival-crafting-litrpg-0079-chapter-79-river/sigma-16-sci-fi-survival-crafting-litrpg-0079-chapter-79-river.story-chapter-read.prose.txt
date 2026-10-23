@@ -1,0 +1,137 @@
+Chapter 79 - River
+
+Talia stretched slightly in her suit, careful not to bash out the CRD-X9’s console. A quick glance at the external video feed allowed her to check on her companions.
+
+Hot Pink, Dapple, and Dusky were perched on the exterior of the vehicle, their vibrant exoskeletons gleaming in the sunlight.
+
+Hot Pink had spread herself across the top, like she was afraid she’d fall off. Dapple was curled up and asleep and Dusky was leaning so far forward off the front, she thought the spider would fall off.
+
+Everything was normal for a jungle trip, although she was surprised Hot Pink hadn’t jumped off to run around on her own. The spider could keep up with the lumbering miner, especially when they had to pick their way around various obstacles.
+
+Talia couldn’t help but smile at their antics.
+
+The alien spiders—bio-engineered by the precursors or not—had become more than just companions; they were an integral part of her survival. Half of that was simply for the social contact they gave her.
+
+Neo didn’t count. Not really.
+
+She had never considered that she’d have the desire to call a giant alien spider her friend, and now she had several of them.
+
+The vehicle’s advanced suspension system absorbed the bumps and jolts of the uneven terrain. A frown crossed her lips. It was actually too smooth. She didn’t remember ordering an upgrade.
+
+“Neo? Did you upgrade the CRD-X9?” Talia asked.
+
+[Informative: Research Module capabilities have allowed the modification of standard schematics. Current Occupied CRD-X9 unit has a software upgrade allowing modified performance for Jungle traversal.]
+
+Talia’s eyes flicked to the external feed. Maybe that was why Hot Pink was fine? Or well… ‘fine’ for Hot Pink.
+
+“That’s kind of important. You should have told me,” Talia muttered.
+
+[Affirmative: The following 36 modifications have been made too—]
+
+“No, no. I’ll review them on a list later. Focus on the Jungle,” Talia ordered.
+
+They wound their way through a series of shallow streams, the water splashing against the CRD-X9’s rugged exterior. She kept a watchful eye on the readings displayed on her HUD, monitoring the vehicle’s systems and scanning for any signs of potential threats.
+
+The large Durasteel deposit Neo had identified was coming into scanner range, along with the river.
+
+The second that she thought things were going faster than she had expected, the CRD-X9 lurched to a halt, its tracks spinning in a muddy patch.
+
+[Suggestion: Automated navigation system may be more efficient in this environment.]
+
+Talia sighed, her frustration evident. “Fine, Neo. But if you dump us in a hole like you did with the APC, I’ll reprogram you myself.”
+
+[Acknowledged: Updating route based on terrain analysis.]
+
+The CRD-X9 resumed its journey.
+
+[Update on Durasteel deposit: Scans indicate a considerably larger reserve than initial estimates. Likely extending to ten million units.]
+
+Talia blinked in surprise. “Ten million units? That’s a lot of high-density material. It could really boost our construction efforts.”
+
+The CRD-X9 pressed on. It took another hour of travel before they reached the river that marked the inner boundary of the jungle.
+
+The dense wall that bordered the desert was missing—instead, the flora thinned out gradually, until there were just short trees lined up in rows along the bank. The spiders stood up and chittered, their short fur fluttering in the wind.
+
+Wind?
+
+She checked the airspeed outside. Sure enough, there was a non-stop steady breeze of warm, humid air rushing over the river and into the jungle.
+
+“Neo, what’s the deal with the airflow here? It’s not sealed off like the other side of the jungle,” Talia asked.
+
+[Analysis: A Large volume of air is entering the jungle after passing over the river. It is likely the source of humidity present, due to combined canopy and wall insulation properties of the jungle itself.]
+
+Talia nodded. “It’s definitely engineered. But how is the airflow being created in the first place?”
+
+[Uncertain: Further study advised.]
+
+Talia grunted, a wry smile on her face. “Further study is always advised on this planet. It’s like every answer just leads to more questions.”
+
+[Affirmative: This unit concurs with User’s assessment. Displaying proposed base setup for Durasteel extraction.]
+
+A projection materialized on the CRD-X9’s console, showcasing a detailed 3D map of the area. The image zoomed in on the Durasteel deposit, revealing a proposed spiral tunnel that would efficiently access the resource.
+
+Talia studied the schematic, her eyes tracing the design. With a nod of approval, she confirmed, “Looks good, Neo. Let’s get started on this.”
+
+A flurry of movement caught Talia’s attention.
+
+Dusky and Hot Pink darted off the CRD-X9 and made a beeline for the nearby river, leaping into the water. Talia’s heart raced as panic gripped her.
+
+“Neo! Send a quadcopter to watch them!” she commanded.
+
+[Acknowledged: Deploying QCD-2P unit to monitor spider activity.]
+
+As the quadcopter whirred to life and sped towards the river, Talia activated the CRD-X9’s exit hatch. She hurried out of the vehicle.
+
+Dapple, roused from her slumber by the commotion, greeted Talia with a lazy stretch.
+
+“Dapple! The others jumped in the river!” Talia exclaimed.
+
+Dapple tilted her head, as if processing the information. “River-swim-fun-go-but-sleepy.”
+
+Talia blinked, confused by Dapple’s response.
+
+[Incoming video feed from QCD-2P unit. Displaying now.]
+
+A holographic screen materialized before Talia, showing Dusky and Hot Pink floating leisurely in the river, their exoskeletons glistening in the sunlight.
+
+They playfully splashed each other, engaged in what appeared to be a game of water tag.
+
+Talia let out a sigh, a mixture of relief and exasperation washing over her. “That’s just great,” she muttered, shaking her head.
+
+Talia turned her attention back to the logistics of setting up the Durasteel extraction site.
+
+Or well, the secondary priority for the site.
+
+“Neo, what about a water siphon system for the river? We’ll need it for our hydroponic needs, probably some water storage, and specialized water delivery vehicles that can run back to the base,” Talia said.
+
+[Suggestion: Running a water pipe to the jungle edge would significantly reduce delivery times.]
+
+Talia nodded, considering the idea. “Yeah, but to the edge... We can’t put a tunnel or pipe through the jungle edge with the desert, though.”
+
+[Analysis: A single vehicle water transfer station between two pipe substations would be an effective solution.]
+
+“But we can’t keep the tunnel for the truck open that often or for long, or it will probably still trigger a response,” Talia countered, her brow furrowed in thought.
+
+[Acknowledged: However, estimates show that the required amount of water would still be satisfied by the shipments.]
+
+Talia sighed, weighing her options. “We’ll still need a water vehicle shipment once the desert crawler is operational, anyway.”
+
+[Affirmative.]
+
+“You know what? Let’s just skip the pipes altogether. It’s probably a lot of work, destructive, and we can rely on vehicle delivery only,” Talia decided, a hint of frustration in her voice.
+
+[Suggestion: Designing a larger water cargo chassis would optimize transportation efficiency.]
+
+A smile crept onto Talia’s face. “We’ll do that as soon as we get back to test the new research module capabilities. I’ll be happy to get away from the stupid Cortex schematics.”
+
+[Notice: The schematics are not stupid.]
+
+Talia rolled her eyes, a mixture of amusement and exasperation in her expression. “They’re annoying because of their restrictions. The content is decent enough, even if a lot of them are just plagiarized military schemas.”
+
+[Alert: Anomaly detected approximately 500 meters to the south. Preliminary scans indicate ruins.]
+
+Talia opened her mouth to reply, then froze. Memories of the artifacts the spiders had hoarded hit her.
+
+The prospect of uncovering yet another mystery on Sigma 16 sent a thrill of excitement through her veins.
+
+“What kind of ruins, Neo?” she asked.

@@ -1,0 +1,223 @@
+Chapter 80 - Precursor
+
+[Analysis: The ruins appear to be shallow, with a depth of approximately 3 meters. The structure comprises a circular chamber accessible via a staircase. User should be able to explore on foot.]
+
+Talia studied the holographic map. “Have the miner follow me on autopilot,” she instructed, her gaze fixed in the direction of the ruins.
+
+As Talia approached the site, Dusky, Hot Pink, and Dapple trailed behind her.
+
+Dapple’s voice broke the silence, “Make-what-do?”
+
+Talia glanced back at the spiders. “I found something that might be important,” she explained, her attention returning to the holographic display on her HUD.
+
+The 3D map revealed a set of steps leading down to a chamber below, confirming Neo’s analysis. The ground radar revealed little else other than the empty space.
+
+She made her way to the entrance and, with a determined grip on her survival tool, began clearing away the dirt. It was deep enough that a makeshift set of stairs was required.
+
+When she was finally done, the top of the ruins was exposed, a circular platform where the stairs were supposed to be. She cleared more of the area until the entire section was clear.
+
+The stone was intricately designed, but there wasn’t any indication of how to open it.
+
+Talia examined the ruin’s entrance, her eyes tracing the smooth stone surface. According to the scan, metal lay hidden behind the sealed doorway.
+
+“We need to open it,” Talia mused, her gaze fixed on the enigmatic entrance.
+
+[Analysis: There are indications of a mechanical mechanism to open the door to the stairs. A circular section on the door has been highlighted on your HUD.]
+
+[Recommendation: Rotate the highlighted section 180 degrees clockwise.]
+
+Talia approached the highlight and, with the aid of her exo-suit’s enhanced strength, gripped the circle firmly with her fingers and began to rotate it.
+
+The mechanism resisted at first but then moved smoothly to complete a 180-degree turn.
+
+For a moment, nothing happened. Talia furrowed her brow, a hint of disappointment creeping into her voice. “Now what?”
+
+The ground beneath her feet began to tremble.
+
+The stone door groaned and slowly slid open, revealing a staircase that descended into the depths of the ruin.
+
+She couldn’t help but grunt in surprise. “Well, that’s impressive that it still works after all this time.”
+
+Behind her, the spiders bounced, their movements agitated. Dusky’s voice rose above the others, “Maker-danger-down-not-go!”
+
+They erupted into a frenzy of shrieks, their movements erratic and distressed.
+
+Talia turned to face them, her brow furrowed in concern.
+
+The Hot Pink and Dusky bounced on their feet, back and forth, in what could only be described as an “afraid spider rain dance.”
+
+Dapple stood in place but visibly shook. “Maker-no-dig-danger!”
+
+Talia hesitated, her gaze shifting between the spiders and the ruins. “Neo, what do you think?”
+
+[Scan complete: No detectable threats or dangers identified within the ruins or nearby.]
+
+Well, that wasn’t welcome. She wasn’t going to discount the Spiders’ warning, and if Neo couldn’t detect it, she needed to be very careful.
+
+A feeling of unease settled in her gut.
+
+“The ruin might have clues,” she explained to Dapple, her voice tinged with determination. “We’ll be careful, don’t worry.”
+
+The spiders huddled together, their posture reminiscent of creatures seeking comfort in the face of fear or cold. Talia bit her lip and pulled out a block of HEM.
+
+Hot Pink crawled over, took the HEM, and then retreated to the other two, sharing it with them.
+
+Talia walked over to them and sat down. That seemingly made them happy because they leaned their spider pile up against her back.
+
+“Neo, what about sending a quadcopter drone to investigate?” Talia asked.
+
+[Affirmative: This will minimize potential risks to User.]
+
+Talia nodded. She looked over her shoulder.
+
+Dapple peered down at her from on top of Dusky’s back. Talia reached up and gently petted the spider’s head. “Don’t worry, I’m not going to go down there,” she promised, her voice soft and reassuring.
+
+The spiders seemed to calm down a little.
+
+“Neo, prepare a quadcopter. We’ll send it down to investigate the ruins before we make any further moves,” Talia ordered.
+
+The quadcopter arrived, coming to hover just in front of Talia. Dusky reached out and tried to swat the drone, but Talia quickly intervened, placing a hand on the spider’s leg.
+
+“It’s our scout,’ Talia explained. “It’s going to help us explore safely.
+
+Hot Pink wasn’t convinced. She whined, a series of distressed chirps escaping. “Maker-idea-bad-afraid,” she protested. She scooted backward, threatening to unbalance the spider pile and topple it over.
+
+Dapple reached up and shoved on Hot Pink’s rear, pushing her back into balance. “Abandon-maker-no!” she chided.
+
+Hot Pink responded with a series of indignant chirps, but didn’t move any more.
+
+[Notice: Multiple flight modes for flight model are available.]
+
+“Autopilot with user feedback and direction?” Talia asked.
+
+[Affirmative: Deploying drone to ruin now.]
+
+The quadcopter began its descent down the stairwell, sending up a spray of old dust.
+
+Hot Pink chirped a hesitant suggestion. “Leave-danger-now?”
+
+Talia shook her head, her eyes never leaving the video feeds that had appeared on her HUD.
+
+“In a little while,” she promised, her attention fully consumed by the images relayed by the drone as it navigated the ancient staircase. “Look, I’ll show you what we see.”
+
+She held out her arm and pressed a few keys, and the display on her helmet HUD was mirrored on the ground as a larger picture. The shade of the jungle made it easily visible.
+
+The Spiders leaned forward, pressing at her back to get a better view.
+
+Talia watched intently as the drone carefully reached the bottom of the staircase.
+
+Its powerful lights cut through the subterranean gloom, revealing ancient brickwork covered in strange glyphs and faded murals of fractal artworks… or at least that was what she thought they were.
+
+Chunks of collapsed masonry and drifts of sand cluttered the passageway.
+
+As the drone continued downward, Talia glimpsed piles of corroded metallic debris. There was a rising anticipation in her gut with each meter.
+
+The drone entered a chamber, its lights illuminating the alien runes that covered the walls.
+
+Rosetta’s excited voice chimed in, “Fascinating! These markings are unlike anything I’ve encountered before. I’ll begin analyzing them immediately.”
+
+Talia nodded, her eyes never leaving the video feed. “Good idea, Rosetta. Focus on deciphering those runes while we continue recording.”
+
+Talia watched as the drone explored further, revealing more intricate architecture and cryptic symbols.
+
+The chamber was dark, with the quadcopter’s lights serving as the sole source of illumination.
+
+“Neo, any idea how old these ruins might be? Or when they were last entered, if ever?” Talia asked.
+
+[Analysis: The half-life decay of radioactive isotopes within the masonry provides a reliable timestamp. Field method analysis reveals an age of approximately 1.5 million years, with a margin of error of ~350,000. More accurate data can be determined by returning a sample to the research module.]
+
+Talia’s eyes widened as she processed the information. “Over a million years old,” she whispered, her voice tinged with awe. “That’s incredible.”
+
+The quadcopter gently landed on the chamber floor, its rotors stirring up a fine layer of dust.
+
+[Additional data: Scans detect no signs of recent biological activity within the ruins. The last entry likely occurred one to five hundred thousand years ago, based on the accumulation of dust and debris.]
+
+Talia leaned forward, her gaze fixed on the video feed as the drone continued its exploration. The ancient chamber seemed to hold an eerie stillness, as if time itself had frozen within its walls.
+
+“Rosetta, any progress on deciphering those runes?” Talia asked, her curiosity growing with each passing second.
+
+“I’m working on it,” Rosetta replied, her voice filled with excitement. “The language is complex, but I’m identifying patterns and similarities to known xenolinguistic databases. Translation is probable with sufficient time and processing.”
+
+As the drone delved deeper into the ruins, Talia couldn’t shake the feeling that they were on the cusp of a groundbreaking discovery.
+
+Maybe the secrets hidden within these ancient walls would hold the key to understanding the planet’s mystery?
+
+“Neo, let’s make sure we’re recording every detail,” Talia instructed, her eyes scanning the video feed for any clues. “I don’t want to miss a single thing.”
+
+[Confirmation: High-resolution scans and recordings are being stored and analyzed in real-time. Data is being cross-referenced with available databases for potential matches or insights.]
+
+Talia nodded, satisfied with Neo’s response.
+
+She glanced at the spiders, who had remained uncharacteristically quiet throughout the exploration. Dusky and Dapple seemed transfixed by the images on the ground, their eyes wide with wonder.
+
+Hot Pink appeared uneasy, her legs twitching nervously as she watched the drone navigate the ancient passageways.
+
+“It’s okay,” Talia reassured the spiders, her voice soft and comforting. “We’re safe out here. The drone is just helping us learn more about this place.”
+
+As the quadcopter continued its journey through the ruins, Talia let out a slow breath. “Half a million years...”
+
+Older than human history.
+
+She furrowed her brow, a thought occurring to her. “The continent must be pretty stable for the ruins to be so well-preserved, right?”
+
+[Hypothesis: The artificial conditions outside the ruins may have contributed to their preservation. Further analysis is required to confirm.]
+
+The drone entered a new chamber, this one round and open. In the center of the room was an altar.
+
+Sitting atop it was a white metal egg. Glowing runes were worked into its shell, lighting up the space with a faint, diffuse glow. Crystals seemed to grow off of several supporting bands. The egg wasn’t that big, maybe the size of her hand, but it wasn’t like anything she had seen on S16 so far.
+
+“Neo,” Talia whispered.
+
+[Affirmative.]
+
+Talia watched in awe as the quadcopter hovered around the glowing egg-like artifact, its cameras capturing every intricate detail. The gentle rotation of the runes on the chamber walls cast an ethereal light.
+
+“Neo, are you getting this?” Talia asked, her voice barely above a whisper as she stared at the video feed on her HUD.
+
+[Affirmative: Recording artifact with high-resolution non-invasive scanner.]
+
+The drone circled the altar, its sensors gathering data on the artifact’s composition and energy signatures. Talia leaned forward, her eyes wide with anticipation as she waited for Neo’s analysis. So did the spiders.
+
+[Analysis complete. The artifact appears to be a highly advanced piece of technology, utilizing materials and energy sources not found in our current databases. Its weight is estimated to be within the carrying capacity of the quadcopter.]
+
+Talia’s heart raced at the implications of Neo’s report. If they could retrieve the artifact, it could provide invaluable insights into the planet’s history and the advanced civilization that once inhabited it.
+
+“Rosetta, how’s the language deciphering going?” Talia inquired.
+
+“I’ve recorded a considerable number of symbols,” Rosetta replied, her voice filled with excitement. “Based on my analysis, I believe we’ve found 75-85% of the language’s markings so far. Translation is still ongoing.”
+
+Talia nodded, a sense of satisfaction washing over her. “Keep scanning as the quadcopter goes deeper,” she instructed, her focus returning to the glowing egg on the altar.
+
+“Neo, let’s retrieve the artifact?” Talia said.
+
+[Affirmative: The artifact’s weight is within the quadcopter’s carrying capacity.]
+
+“This could turn into a bad raider action holovid,” she muttered, her brow furrowed in contemplation.
+
+[Reassurance: The likelihood of such a scenario is extremely low. This unit’s analysis indicates a less than 0.01% chance of the ruins exhibiting any hostile or defensive mechanisms triggered by the removal of the artifact.]
+
+Talia nodded, acknowledging Neo’s assessment. “Before we take it, do you have any idea what the egg might be?” she asked.
+
+[Informative: Preliminary analysis suggests that the artifact may serve as a form of storage medium or a device capable of maintaining a continuous low-power state. Further examination will be required to determine its precise function and contents.]
+
+“Data storage,” Talia murmured, tasting the words on her tongue as she considered the implications. “Let’s try it then,” she decided, her desire for knowledge outweighing her initial hesitation. “It’s worth disturbing if we can find out more information.”
+
+With Talia’s approval, the quadcopter extended its robotic arm, carefully grasping the egg and placing it within a secure container. The drone then loaded the container into its chassis, ensuring the artifact’s safety during transport.
+
+Talia held her breath as the quadcopter began its ascent, navigating through the ancient passageways of the ruin.
+
+She half-expected the ground to start shaking or for giant statues to come to life and attack, like in the holovids she had watched.
+
+As the drone emerged from the entrance and flew towards her, Talia felt a mix of disappointment and relief.
+
+The spiders stood up from the pile and began to move, bouncing around in a joyful spider dance.
+
+They chanted and chirped, “Maker-maker-maker!”
+
+As the drone landed and inserted itself into its carry cradle box, a nearby roar echoed through the jungle.
+
+Talia’s HUD lit up with a threat warning, causing her heart to skip a beat.
+
+All three spiders started to shriek, “Danger-danger-danger!”
+
+She cursed. She’d forgotten an important maxim: Be careful of what you wish for.
