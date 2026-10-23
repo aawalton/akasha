@@ -1,0 +1,169 @@
+“Leveling up is quite the funny routine for me. You need to expend munitions to ensure that you can reasonably advance forward in your ‘level’ and ‘tiers’, which is…nice from the firepower growth perspective—but the calculus for the munition consumption ratio to the munitions reward by way of Arcane Points is…the worrying part. It almost plays like a game. A very cruel game of balancing things.”
+
+- Excerpt from Lieutenant Hans Hoffman’s Journal Entries.
+
++++
+
++++ Lieutenant Hans Hoffman +++
+
+Rousselot County
+
+AUG 21, 1538 CE
+
+“Those are some strange kinds of monsters, huh?”
+
+“Yeah, I mean, the locals call them ‘orcs’. Should explain why.” Hans replied. Their two Wanderpanzers were now taking a concealed hull-down position as they observed a gathering of possibly a dozen orcs. According to a nearby town, this group had ambushed a convoy of merchants that were carrying valuable tools for the repairs of Rousselot.
+
+These orcs, apparently, were mindless “monsters” that usually targeted mankind’s settlements. It was mostly hired “free companies” of mercenaries that controlled these things, but with most of them already being hired by the IYC for the fight against demons, there was no one really dealing with these things, outside of a few young “monster hunter” parties made up of Vanus/Virtus civilian mages trying to level up by killing these things.
+
+These parties unfortunately were probably in short supply for the locals to call upon due to the danger levels of the Principality.
+
+As such, it was an opportunity for Hans and Adelyn to play the game that these Vanus or Virtus mages would play by doing exactly what they would do. Kill monsters to level up. Truly, the two of them were quite the “innovative” foreigners for coming up with that idea.
+
+“Alright, Lieutenant. Standard combat procedures. Prep your HMGs on the targets. We’re going to test that out first. I’ll take the overwatch position and cover your six. You do the frontline.”
+
+“Aye, copy that.”
+
+Except, unlike some childish teenagers doing these nonsensical challenges for the sake of power growth, Hans and Adelyn were professionals killing these things for a purpose. Hans moved forward through the cover of the boulders and overgrown bush. In the distance, Adelyn’s Wanderadler dashed silently into a good cliff that overlooked the creek in front of them that the orcs took as their apparent resting site.
+
+Hans didn’t exactly know how strong these monsters were, but realistically, they were no demons. Unlike demons which were capable of extreme biological feats (and most likely more than that with their magic), monsters were usually dispatched by normal mages, fools armed with swords and steel, or, if the situation was serious, a company of professional musketeers and pikemen.
+
+Hans circled a small elevation ahead of the river banks, before emerging in an area once again covered by bushes near a treeline. What was perfect about it was that he now had a good line of sight on the group of orcs. More importantly, once the fighting began, he would attract them here—then Adelyn could fire at their flanks.
+
+Bastards would be decimated.
+
+“Setting up target IDs,” Hans reported to Adelyn, as his sensors marked each orc that he could see, giving them an ID on the tactical map. The information was rapidly shared with Adelyn’s mech, which meant that she could now see what he was seeing on her map as well, alongside what he was targeting. “Checking all approaches. No further hostile entities spotted. I’m targeting contact designated “Echo-02” first.”
+
+“Copy. Commence firing at once.”
+
+Hans pulled the trigger, and the Peacemaker’s MG24s opened fire, letting off a total of twelve HMG (Heavy Machine Gun) rounds at the target. The unfortunate orc that received the first gift of the modern age found itself peppered with holes, making it cry in pain as it collapsed from Hans’ shots.
+
+Its companions, alerted by the foreign sounds, all turned to Hans’ vehicle. They wielded these strange clubs, which made him worry for a second that these things might not just be some simple mindless creatures, but Hans steeled himself and gave his trigger a squeeze again, downing two of the monsters in a few short seconds.
+
+“Report: Good effect on target. Three contacts down. MG fire is effective.”
+
+“Hostiles charging to your position, Lieutenant. I’m opening fire.”
+
+“Let’s finish this charade.”
+
+As the orcs tried to charge at Hans’ position in vain, which was almost two hundred meters away from them, Hans and Adelyn took their shots at the dispersing mass of orcs. Hans’ HMG fire devastated their ranks from the front—meanwhile, Adelyn’s shots, which came from their flanks, then their rear when they charged further forward, denied anyone even the ability to run away from the maelstrom.
+
+Within just fifteen seconds of controlled fire, the last monster of what must have been fourteen orcs fell on the shallow water in pain, their red blood staining the clear blue waters of the creek. They didn’t even stand much of a chance. It was the usual truth for Hans and Adelyn whenever they faced the various monsters of this world. They were simply an attritional threat to their limited stocks of critical munitions.
+
+Otherwise, they might as well not even count as a threat to their modern weapon systems. Once again, Hans’ hypothesis was that these demons were truly an unnatural incursion of the supernatural in this world’s biosphere. They were more like anomalies. Threats capable of great damage beyond the strength of common monsters in this world.
+
+[7 ORCS (AVERAGE LVL. 39) LIQUIDATED!]
+
+[LEVEL UP! NOW LVL. 25]
+
+[PROGRESS TO LVL. 26: 45%]
+
+[AVAILABLE AP: 350 PTS]
+
+[NEW MECH UPGRADE UNLOCKED!]
+
+His ‘system’ notifications sure showed that clearly.
+
+He imagined these orcs, who had an average level of thirty-nine, would be a pain for the locals to dispatch. Yet, with modern technology, they were mowed down mercilessly. It gave him some sense of comfort. At the very least, this world’s biosphere wouldn’t be much of a real threat to him and Adelyn unless they seriously screwed up.
+
+May that never happen then.
+
+He hoped he didn’t jinx himself with that.
+
+He checked his ‘status’.
+
++++
+
+Current Status: Healthy (No Special Health Effects)
+
+Name: Hans Hoffman
+
+Age: 25
+
+Race: Vanus
+
+Type: Fallen Angel of Truth/Calamity of Lies
+
+General Tier: I
+
+LVL: 25
+
+Class: Mech Pilot (Vanguard)
+
+Passive Skills: [PAS: CYCLE OF TRUTH I], [PAS: PROGRESS OF LIES I]
+
+Active Skills: N/A
+
+Mech Upgrades: [UPG: EYE OF PARANOIA I]
+
+Available Arcane Points: 350 PTS [UNLIMITED CAP]
+
++++
+
+Then he checked his new mech upgrades using his vehicle’s HUD.
+
++++
+
+New Mech Upgrades Unlocked!
+
+[UPG: ARCANE AUTOFABRICATOR I]
+
+Description:
+
+Unlocks fabricator mechanisms. The Mech can self-produce fuel, munitions, and even duplicate existing small-arms ammo at the cost of Arcane Points. Costs are reduced by Tier increase. Enchantments to small-arms munitions also become possible, with more enchantment unlocked per tier increase.
+
+Tier I: Allows for the most basic form of resupply for the user. Mech items are fabricated and placed automatically on the ammo racks/fuel tanks. User items are fabricated and placed in the rear storage space of your vehicle (space limitations apply).
+
+Tier I Production Sheet (Major Items):
+
+x1 90mm Armor-Piercing Fin-Stabilized Discarding Sabot (APFSDS) round = 50 AP.
+
+x1 90mm Multi-Purpose Anti-Tank (MPAT) round = 40 AP.
+
+x1 12.7x99mm belt (300 rounds each) for MG24 HMG = 20 AP.
+
+150 liters of JF-8 fuel resupply = 40 AP.
+
+[UPG: TRACE THE DOTS I]
+
+Description:
+
+Unlocks specialized tracer MG rounds for the mech’s coaxials for anti-demon purposes. Further tier increase unlocks more specialized MG rounds.
+
+Tier I: Unlocks ADI, MG24 (Anti-Demon Incendiary, MG24), and ADAP, MG24 (Anti-Demon Armor Piercing, MG24).
+
+Requires [UPG: ARCANE AUTOFABRICATOR] for specialized bullet self-production. Costs arcane points during production.
+
++++
+
+“I reached level twenty-five,” Hans heard through the radio after he was done checking himself. “Um…I should say…the resupply is quite…expensive, huh?”
+
+“Well, unlike you who can recover AP naturally, I can’t,” Hans groaned. “This is just pain. This means I’ll have to kill more monsters carefully with my MG24 just to have a chance. With my current AP reserves, I can just…well, recover an outstanding seven APFSDS rounds for myself. How friggin awesome…”
+
+“I hear you,” Adelyn sighed on the other end. “One APFSDS round for me costs eighty arcane points. That’s…painful.”
+
+“Mine, it costs fifty.”
+
+“Because you have a lower caliber than me,” Adelyn said. “Naturally, my rounds have either more penetrative power and damage potential due to the mass of my APFSDS penetrators, and my MPATs also contain more explosive ordnance. Of course, it’s going to cost more for me.”
+
+“Yeah, you’re right,” Hans checked it further. “We’re picking this, no?”
+
+“Of course,” Adelyn said. “At the very least, the fuel cost is reasonable. I just need sixty AP for two hundred ten liters of jet fuel. That’s…around half of my fuel tanks.”
+
+“Same with me,” Hans added. “It’s…pretty cheap for what it can do.”
+
+“At least now we can run around the fields with impunity so long as we can support this. Yeah, pick it up now. Then resupply the fuel. As for the munitions…I don’t know. Let’s just see what we’ll use up in our next fights and see what we should replenish. For now, you will not use it up. I, on the other hand, am fabricating three APFSDS for myself.”
+
+“Captain, that’s a lot of AP cost,” Hans said.
+
+“Did you forget that I replenish my AP stores naturally each day? In my case, it’s best strategically if I keep using it and then let my AP stores run back up to capacity again rather than keep it unused and at full capacity. The only problem with that approach is that I would be screwed if an emergency happens and I have no large stock of AP…”
+
+“Yeah…I guess that’s true,” Hans sighed. “My other option is about special machine gun ammo again…anti-demon stuff. But if your ADI, MPAT in the 120mm caliber takes a few shots to kill demons, I doubt it’d be useful.”
+
+“The second choice doesn’t really matter,” Adelyn said. “Fixing our logistical difficulty trumps everything. Quite frankly, I think we should always take the option to increase the tier of this upgrade to lower the cost of resupply whenever possible. We rely on supplies so we can regenerate ourselves. Even if you have some special fancy schmancy nonsense, none of it is useful if you don’t have the bread-and-butter tools. It’d be all bling but no basics.”
+
+“Okay, gee…I get it,” Hans conceded. “Yeah, we’ll…pick it. It’s the only choice after all. I’m running below half a fuel tank right now. I really have no other choices.”
+
+“Exactly.”
+
+“Still…this is quite the ridiculous game to play, Captain,” Hans said. “Extremely ridiculous.”

@@ -1,0 +1,119 @@
+“The continued failure of the Imperial Government to react to the Great Infestation Crisis will only lead to the collapse of mankind long term. If the Empress is ambivalent to the idea of acting, then I shall call upon the Imperial Parliament to see reason. If not—may the Imperial Army act. Mercenaries and garrison units would not be enough, and there is no reason to not act when the Republic has collapsed to oppose the Imperium.”
+
+- Excerpt from “An Emergency Treatise on the Subject of ‘Demons’” by Daniel Specke.
+
++++
+
++++ Lieutenant Hans Hoffman +++
+
+Rousselot City
+
+JUN 25, 1538 CE
+
+The morning in the barracks was once again filled with the sounds of musketry firing. With the planned date for the attack inching closer and closer, Captain Strobel began intensifying the drills for the 4th Holy Ygeia Regiment. This part of the plan was certainly something he would hatch on the third loop. He’d ensure that the 4th was fully ready to engage in full.
+
+“How’s the preparations, Captain?” Hans asked as they watched the musketeers fire another mass volley on their targets. This was certainly an endeavor that required a lot of powder, but both Hans and Captain Strobel knew that it would be needed.
+
+“I’ve already gotten four of the battalions partially ready. That's twelve hundred men in total. However, we cannot do your plan of having two musketeers per pikemen plan. It just isn’t possible in this timeframe. I see the merits in your argument that more shot units would be best against this creature that…well, spread diseases, but, unfortunately, we cannot do that in short order.”
+
+Hans nodded. “I understand. In any case, the infantry is just secondary anyway. What we need the most is the light artillery.”
+
+“All ready for the combat, I assure you,” Captain Strobel laughed. “You’re mighty confident in this plan of yours, huh?”
+
+“And you folded easily, Captain Strobel,” Hans said. “You know, I wonder. Why…why are you in charge of a full regiment?”
+
+Captain Strobel leaned on the balcony that was overlooking the courtyard. He shook his head. “Oh, I’m in charge. De facto. But I’m not really the one in charge of this entire thing officially. The Imperial Army’s just too inept to send a new one here.”
+
+“Why? Where’s the guy supposed to be in charge?”
+
+“He died during the first altercations with the beast,” Captain Strobel answered. “Meanwhile, the Battalion Commanders either died with the first cavalry recce, thinking it’d be an easy fight with a few men, while the others fled. Quite frankly, the last two months were chaos for the 4th. And I’m the only one who could restore order.”
+
+He turned to Hans. “Thus, me, a lowly Captain, is now suddenly in charge of this mess. How great. Bet they’d just boot me off anyway once this entire thing is over instead of promoting me. But what can I do…?”
+
+So their senior leadership all either died or fled and this guy’s all that’s left. Hans shook his head. What an utter disaster.
+
+“So why follow my plan so quickly?”
+
+“You’re a thinking man, Lieutenant Hoffman,” Captain Strobel said. “Unlike most officers I’ve seen, you’re focused on the details. On the tactical level. On the fight. Not for some vanity goals. Not for some farcical luxuries in times of crisis. You act decisively. I guess I wanted a fellow soldier who has a brain to help me out of this thing. Because truthfully…I don’t see a way of killing that thing without doing this either.”
+
+“Why?”
+
+“I convinced myself that the walls would stand, or that me and Father Olbrich would somehow intercept that thing and kill it,” Captain Strobel looked down. “But Lieutenant, you and I know that walls don’t stop diseases. It keeps it in. This city…is a trap.”
+
+Hans felt his body turn slightly colder as Captain Strobel continued.
+
+“All these defenses. All this artillery. What would it do if the disease spread inside, Lieutenant? At least outside, I can ride around with my cavalry to flee. Here…I’d have to defend these people while being trapped by the walls. Do you know how many people are in here, Lieutenant?”
+
+“No.”
+
+“Forty-thousand souls, Lieutenant,” his words struck deep. “Can your machines even deal with that, if those forty-thousand souls turned into whatever the hell that unholy being is turning people into?”
+
+“No.”
+
+“And neither would we,” Captain Strobel looked at the far distance of the city. “We’re dead meat inside here. And trust me, Lieutenant, you do not want to turn into one of those things. I watched my brother turn into one of them a month ago. And I had to slice his head off with my own saber.”
+
+“So you’ll be going all into this plan? Just to avoid that?”
+
+Captain Strobel laughed. “Of course, I would. So we better kill it, Lieutenant. If not, I’ll grab my horse and run as far as I can. I’m not turning into one of them.”
+
+“Strange how you’ll declare that you yourself would desert in front of me.”
+
+He only laughed. “What? Do you not think that you’ll also run if you come face to face with one of them?”
+
+Hans looked back at how Adelyn bit him. And how he struggled to keep her off from her literally mangling his face off. He breathed in. That was certainly the nightmare. But…but to run? No, he’d be doing the reverse. He would be charging forward because that was his duty and responsibility.
+
+“No. I’ll face it head-on, Captain.”
+
+“And that’s why I’ll follow your plan, Lieutenant,” Captain Strobel said. “Have a good morning, I’ll go grab my breakfast.”
+
++++
+
+Hans finished inspecting what he had in his mech, holding a notepad where he noted everything that he checked in the entire process.
+
+He tried his best to repair anything that he could, but, quite frankly, maintenance wasn’t his best forte. He barely had any idea how to even fix the sensitive mechanisms of his turret, autoloader, and…well, the propulsion system outside of the engine was basically out of his capabilities.
+
+Which was the most worrying part of all this. Hans realized…not only did they need to reach level twenty-five to take [UPG: ARCANE AUTOFABRICATOR], but he also needed to make sure that the two of them would not damage their vehicles in any way that they could not fix. Quite frankly, if he had no good idea on how to maintain his Wanderfalke, he doubted Adelyn was any better.
+
+Not that they were ever trained or expected to do that. The complexity of the Wanderpanzers and the Confederacy’s policy of making sure that they were crewed by only one person (to greatly reduce manpower use—less meat, more metal) meant that they had always relied on rear-based maintenance platoons. Tank crews could usually do basic maintenance and even repair, but Wanderpanzer pilots were one-man crew per vehicle.
+
+It simply was impossible to even expect them to repair their own vehicle, especially when the control systems of the propulsion were so complex it was more likely that the pilots would just screw up fixing it anyway. Thus…Hans and Adelyn had surface-level training.
+
+I really hope there’s a magical upgrade in self-repair eventually. Thankfully, with the fact that [UPG: ARCANE AUTOFABRICATOR] exists, it should be there.
+
+Though…the unfortunate part was the fact that the choices presented to them seemed to be randomized. He hated that part of the equation. Luck. Hans knew that good luck had always been partially necessary on the battlefield, yes, but everyone, he included, hated it. Having your lives be determined by a dice roll wasn’t something to be excited about.
+
+Anyhow…
+
+He checked the tallies of his available munitions and fuel. It seemed that he still had six hundred fifty kilometers of fuel range with his tanks at the moment. He had always been thankful for the brutally efficient engines of his vehicle, more so now, as it could reach 2.7 kilometers per liter of fuel. Well, Adelyn’s Wanderadler was less efficient, as it could only go 1.8 kilometers per liter, but she had a four hundred twenty-five liters fuel tank, so she still had seven hundred fifty kilometers of maximum cruising range.
+
+It was one of the advantages of the Confederacy after all to the heavier mechs of the Imperium. Not only did their Wanderpanzers feature more advanced sensors, one-man crews, and high all-terrain mobility, but they also had fuel economy on their side. Of course, none of that mattered anyway when they had air supremacy and the Confederacy had fewer Wanderpanzers available due to his nation’s industrial unpreparedness, but still, he was thankful right now.
+
+He wouldn’t want to be in a sluggish, low-range, three-man crewed Murat MBM in this situation. Sure, he had no armor, but it wasn’t like Murat MBMs would do better here considering it also had non-existent side armor. He imagined he’d just screw up a lot more against demons here with their worse mobility and worse sensors (their thermals apparently doesn't even work half the time).
+
+Unfortunately, his logistical advantages would quickly evaporate once he looked at his munitions situation. He was down to thirty-one rounds available (from thirty-five maximum) after they demonstrated their guns to Captain Strobel and Father Olbrich plus the fight against that black demon wolf thing. Adelyn should be in a better situation since she had forty rounds by the first day he met her in this world, and she only used three rounds so far.
+
+Of course…the main culprit to them running out of rounds during his last death was that damned undead. They used up too many MPATs trying to cut through them considering how much they tried surrounding Hans and Adelyn. But also, it was with the intent of clearing a path for the main force, since they wanted them to punch through quickly through the cleared routes so there wouldn’t be any delays once Hans and Adelyn found the demon.
+
+That plan obviously didn’t work, and both Hans and Adelyn nearly ran out of munitions during the chase, which was one of the reasons why they panicked and shot everything they had in the process. This time around, Hans calculated that he only needed three volleys at most from that sixteen “minion cannon” battery of Captain Strobel’s unit to fully destroy everything that the beast had, and Hans and Adelyn could do a comfortable takedown with only four rounds of APFSDS at maximum (this creature didn’t seem to be as agile as the last one, so no need for MPATs and its proximity fuse).
+
+Then, he looked at his tallies on the available 12x99mm rounds that he had on his two coaxials. All in total, he still had four thousand rounds available, two thousand on each coaxial. Not great, but not terrible either. He had only used a few hundred so far. The problem would arise if he engaged the undead. Last time, he was down by at least eight hundred bullets by the time he died.
+
+Not good long-term.
+
+Hans sighed. He still needed to plan out a lot of the logistics for tomorrow’s lone (and secret) expedition to his…well, journey to death. Then he needed to fully plan out the logistics for his next life. He needed to ensure that he gathered every intel he would need so that he wouldn’t even have to engage a single undead on the next life once he guided them to the deployment area. Of course, he’d still need to do a recon mission himself that he could spin as a reason for them to believe him (all he would need to do differently is to stay in a safe area during the night and return by noon), but…
+
+He looked down at his notepad.
+
+Not only would he be doing this all alone…
+
+He certainly would be lying a lot to them for this to work. To Adelyn. To Captain Strobel. To Father Olbrich. To all of them.
+
+Guess this is a fitting path for me. He sighed. Calamity of Lies, huh?
+
+He wouldn’t let Adelyn end up that way again.
+
+If he needed to lie to kill that beast before it killed her.
+
+Then so be it.
+
+He closed his notepad.

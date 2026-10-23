@@ -1,0 +1,153 @@
+ARC IV: CONDEMNED INSIDE
+
+“Logistical issues are the current bane of our operations. Quite frankly, being cut-off from the Army meant not just a significant decline in our combat efficiency, but also a complete collapse of our logistical certainty. While we have significantly cut-down the usage of our mechs to the point of them merely sitting Rousselot’s designated parking area (covered at least from the elements using a constructed roof by the garrison), recent combat operations have slashed our fuel to half of its original volume. We’re in a bad situation.”
+
+- Excerpt from Lieutenant Hans Hoffman’s Journal Entries.
+
++++
+
++++ Lieutenant Hans Hoffman +++
+
+Rousselot City
+
+AUG 18, 1538 CE
+
+“Sir Hans…” Alizée playfully swayed her feet as she watched him work on his Wanderfalke from a bench inside of the “hangar” that the Garrison made for their vehicles. The “hangar” of course was barebones, more like a solid box of wood created so that the rain wouldn’t just wet their vehicles badly. Still, it was half-decent, especially when Hans was conducting maintenance work. “I’m hungry. Hungry.”
+
+Hans emerged from the back of his underside of his Wanderfalke, still holding a few tools that he placed down on his toolbox. He had checked his vehicle’s engines and propulsion system for any obvious damage to hopefully repair it. Fortunately, it seemed that mechanically, it was fine.
+
+Still, preventative maintenance was something important, even with the lack of proper equipment and personnel (he wasn’t supposed to be the one doing all this).
+
+“Oh, come on,” Hans replied. “Why’d you even come here with me then? I’m still busy. Okay…busy.”
+
+“Then stop being busy!” She cheerfully replied. “Aren’t you hungry too?”
+
+“Not yet,” Hans said, wiping his face with some of the soot and dirt from his vehicle. He then climbed his mech and began checking the turret. Its interior wasn’t exactly the most human friendly when he opened its hatches. It wasn’t designed to be. Instead, it was all machinery—mostly the autoloader for his main gun and his coaxial machine guns.
+
+Seems like it’s all fine.
+
+He had a bit of a close call yesterday when he and Adelyn was hunting monsters to reach level twenty-five. For some reason, his MG24 coaxial’s automatic barrel replacement system failed for a good two minutes after it jammed. That was quite concerning. He checked the machinery with his flashlight, and fumbled inside closely, checking for exposed wirings, cracked or rusted equipment, and whatever else based on the manual that he had.
+
+Hmm…could it have been a software screw-up then?
+
+Well, he’d be in a bad position if that was the case. He was no IT nutjob. Fumbling around with the OS and the programs that operated his mech’s modules was basically going to be a death sentence since…well, he had no idea how to even change a single thing on it. Sometimes, he really wished the Wanderfalke was as simple as a conventional tank, without all the fancier electronic systems it was reliant on.
+
+He sighed, turning off his flashlight and closing the turret hatch.
+
+“Just give me five more minutes,” he told Alizée, as she pouted in her seat. Hans however ignored the petulant child that should probably be in her room studying continental further, and dropped into his cockpit. Booting up the internal systems, the HUD, and the [MECH-SYSTEM PILOT ASSISTANCE INTERFACE], Hans began checking on everything. He began running diagnostics and tests on his vehicle, especially again in regards to the MG24 automatic barrel replacement system.
+
+And it worked fine.
+
+So it’s all really fine. He then looked at his current available munitions and fuel. That wasn’t going very well. Eleven APFSDS and twelve MPATs left. Fuel…down to a meager one hundred sixty liters…that’s…around four hundred thirty kilometers of range left if I’m lucky. Let’s see…very bad on the machine gun rounds as well. MG number one and number two are both down one thousand five hundred and one thousand four hundred fifty respectively. I’m figuratively screwed.
+
+He listed it all in his notepad using his pen. The previous page detailed Hans’ assessments of the Diligence, Adelyn’s Wanderadler earlier in the morning. They were both roughly in the same figures. Really, fighting the “Tentacled Eel” took quite a number of their extremely limited resources that they still had no way of replenishing.
+
+That was why they resorted to wildlife hunting in order to raise their level progress a fair bit. They hoped that by level twenty-five, they could gain a mech upgrade and take the so-called ‘UPG: Arcane Autofabricator’ and finally utilize their unused arcane points in magically resupplying their munition numbers and most importantly fuel.
+
+All those fancy-schmancy maneuvers that Hans and Adelyn constantly conducted whenever fighting demons used up a large amount of their fuel. Forcing their mech to jump for example always required a sudden surge of horsepower from the engine—which burned a lot of fuel in a short burst of time. For context, during the entire engagement with the “Tentacled Eel”, Hans ate an average twice of his normal fuel consumption on normal cruising speeds.
+
+Thus, Hans checked his stats again…
+
++++
+
+Current Status: Healthy (No Special Health Effects)
+
+Name: Hans Hoffman
+
+Age: 25
+
+Race: Vanus
+
+Type: Fallen Angel of Truth/Calamity of Lies
+
+General Tier: I
+
+LVL: 24
+
+Class: Mech Pilot (Vanguard)
+
+Passive Skills: [PAS: CYCLE OF TRUTH I], [PAS: PROGRESS OF LIES I]
+
+Active Skills: N/A
+
+Mech Upgrades: [UPG: EYE OF PARANOIA I]
+
+Available Arcane Points: 302 PTS [UNLIMITED CAP]
+
++++
+
+At least I’m close to level twenty-five. Hans thought. That, and he had a massive amount of arcane points available…technically at least. That meant, should he need get ‘UPG: Arcane Autofabricator’, he’d be able to resupply…at least in his mind, in a decent amount. Nothing too outrageous that he’d be able to fire his guns willy-nilly and drive as he saw fit, but enough that it would be at least serviceable for the time being. Which is what I’m hoping for.
+
+Hans turned his mech’s systems off, and climbed out of his hatch. Emerging outside, Alizée seemed to have gone back to the little notebook she kept for herself reciting words slowly. Hans smiled as he watched her. Yeah, that was the good kid right there, occasionally. Naturally, when she saw Hans was done, she closed her notebook and frowned at him.
+
+“You took too long!”
+
+“Woah, gee, so you learned that phrase too, huh?” Hans laughed. “Alright, alright. I’m hungry too anyway.”
+
++++
+
+“So what’s the big plan, eh?” Hans asked. “We’re going out by next week. You all really need to decide.”
+
+“The thing is, it’s hard,” Captain Strobel said. The two were walking outside of the walls, checking the ongoing repair works around the city, alongside the efforts by the Countess to refortify and rebuild the destroyed section of the walls. “Many men are afraid of the idea of…hunting more demons as a regiment.”
+
+“Yeah…I can see that,” Hans replied. “Are you afraid too?”
+
+“Maybe,” Captain Strobel nervously laughed. “Being face to face with that…thing sure did put the fear on my veins. They…they’re no jokes, aren’t they? They really fit that name. Demons.”
+
+“But we did fight. We did. We…pummeled it with our firepower. Your men. Me and Adelyn. The Countess. Even…even…”
+
+“The girl?”
+
+“Yeah…”
+
+It was an unspoken secret amongst those who had seen it. Only the Countess, Hans, Adelyn, Captain Strobel, Father Olbrich, and the two IYC mercenaries who were informed of what happened. Father Olbrich especially was keeping a close eye on Alizée for any changes. Quite frankly, no one yet asked her about it.
+
+It was mainly Adelyn’s request. She didn’t want to remind the girl of what happened, and force the kid to relive it. And so, while Hans and Adelyn did see how she changed, they had no concrete idea on what happened. Especially when her stats were now completely obscured from them.
+
+They had no idea who she turned into, or how she did it.
+
+Of course, if she turned into a demon in my failed loops, then the only working hypothesis right now is that Alizée is somehow an Angel. Just like Adelyn. And no one can see her stats either.
+
+And the same was true for Hans. His passive skill, ‘PAS: Progress of Lies I’ completely obscured anyone from seeing his critical stats with the [TARGET STATUS CHECK], except for those who had a specialized skill for it (and they must have a higher tier than his ‘PAS: Progress of Lies’ skill). It was…quite the lineup then, Hans thought.
+
+Him, basically a man that was…somewhere between a ‘demon’ and an ‘angel’, and, well, Adelyn and Alizée, possibly both angels. Quite frankly, he wondered if someone high up was setting up all of this. None of it seemed coincidental to Hans. It was a chilling thought. That they were just puppets dancing to someone’s strings.
+
+But why then? Why would they…set us up to be like this? Is there even someone doing it, or is it all just because of probability?
+
+Well…he’d take being a lotto winner over this entire thing. This was certainly the worst “win” in the game of life. Not that he really wanted to live after he died…in Haubliz.
+
+But there’s no other choice than to trudge forward with what I have. I can’t leave the two of them in this disaster.
+
+“Still, again, we did do something, Captain,” Hans repeated. He stopped walking, and faced the man. “Look, the 4th Holy Ygeia Regiment are fine men. I know it. I’ve seen it. Sure, I can say that none of you hold the best equipment relative to what I’m used to. But I see young men ready to use what they have with skills and guts to face monsters that people with more powerful magic would run away from.”
+
+Captain Strobel smiled proudly a bit.
+
+“Doesn’t help when their leader’s a coward,” he looked down and shook his head. “I’ll be honest, during the fight, I…”
+
+“You wanted to flee.”
+
+The man laughed a bit.
+
+“Being inside a city felt like a death sentence. I…don’t want to die to a damned monster. Living feels better.”
+
+“I can see that,” Hans said. “But I think everyone’s the same. Quite frankly, we’re always toeing the line between a rout and a determined final charge whenever we face demons. It’s normal.”
+
+“A leader has to lead his men, Lieutenant Hoffman,” Captain Strobel said. “Running is shameful. My mind…I’m not sure if I can stop it from doing a shameful thing in the heat of the moment. I laugh at our previous officers who ran and abandoned us into this state. I want to say to myself that I rebuilt and restored order in the ranks of the 4th when we were practically disbanded when the pay ran dry. And I want to tell myself that I’ll keep the 4th together until the next fight. Until the next pay. But I don’t know.”
+
+“How many of the 4th are willing to go and fight, Captain?”
+
+“More than half,” Captain Strobel said. “I believe the regiment will become a much smaller force if we decide to move out. And I cannot stop it. We’re a regiment on paper. Officially in service. Unofficially, the Holy Empire already decided that it won’t pay for us. Some dipshit at the top probably took everything already. Tell you what, the entire Holy Army of Ygeia is practically a goner at this point. You’re either under the control of the local lords, or under the Company.”
+
+“And the local lord who maintained you guys are giving up on you.”
+
+“Exactly,” he shook his head. “I sure hope the pay that the Company offers us is decent. They need every soldier right now after all. But then after that, once the Calamity of Desire is dead, what then? Quite frankly, for most of my men, this fight is slowly turning pointless. Going back to our homeland in the Imperial Core is practically impossible without money. And we’re aliens in this land. Just occupiers. Might as well just leave and find a real job. There’s a lot of jobs rebuilding things after all. At least…they’d have a chance of living afterward.”
+
+“Well, if we do kill the Calamity…” Hans said. “Perhaps we can use the money to move out of the lands of the former Republic. After all, Adelyn is not planning to just stay in this far away Principality once the fight here is over. Maybe you guys can come with us. I mean, again, we do need a supporting army of our own to fight. Two mobile artillery systems can’t win a war like this alone. We need guys who can cover the ground and fight.”
+
+“Heh…going back home sure might become a nice idea for the men. I’ll think about it, and discuss it. But, it’s a tall order. From peacekeepers…to lost men in an occupied distant land…to men fighting the worst thing mankind faced just to get back home. I sometimes want to say, ‘screw the Empress’.”
+
+“Well, indirectly, her management of the Army is probably a contributing cause to you guys being abandoned and stranded here.”
+
+“The Empire’s in its last legs,” Captain Strobel said. “Its control over the lands of the former Republic is in question. If it isn’t the Vanus nobles who’d rise up and retake this land, it’d be the Company.”
+
+“Or it’d be a wasteland if those demons win.” Hans said. “That’s why it's better to kill them first. Kill or be killed. After all, it’s just us who can do it. Just us.”
