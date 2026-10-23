@@ -1,0 +1,40 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const keiranSeriesCompletefullyStubbed = {
+  id: "01a16717-c453-79f3-a49d-bd13e30b6c90",
+  type: "page-type/story-read",
+  slug: "keiran-series-completefully-stubbed",
+  author: "EmergencyComplaints",
+  following: false,
+  unit: "unit/words",
+  title: "Keiran (Series Complete/Fully Stubbed)",
+  world: "world/keiran-series-completefully-stubbed",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "77820",
+      externalLink: "https://www.royalroad.com/fiction/77820/keiran-series-completefully-stubbed",
+    },
+  ],
+  externalTags: [
+    "Reincarnation",
+    "Progression",
+    "Anti-Hero Lead",
+    "Strategy",
+    "Male Lead",
+    "Action",
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "Dystopia",
+    "High Fantasy",
+    "Magic",
+    "Secret Identity",
+    "Slice of Life",
+    "Strong Lead",
+  ],
+  readLater: true,
+  createdAt: "2026-10-23T04:49:33.266Z",
+  updatedAt: "2026-10-23T04:49:33.266Z",
+} as const satisfies StoryRead

@@ -130,6 +130,7 @@
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/journey-to-veresavir-fantasy-litrpg/journey-to-veresavir-fantasy-litrpg.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/jurassic-bawk/jurassic-bawk.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/just-add-mana/just-add-mana.world.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/keiran-series-completefully-stubbed/keiran-series-completefully-stubbed.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/keras-selyrian-universe/keras-selyrian-universe.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/kingdom-lost/kingdom-lost.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/labyrinth-of-the-mad-god.world.ts","typed":true,"deferred":false}
@@ -180,6 +181,7 @@
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/reader-mage-stubbed/reader-mage-stubbed.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/ready-player-one/ready-player-one.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/reborn-as-a-demonic-tree/reborn-as-a-demonic-tree.world.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/reborn-as-a-one-celled-organism-fantasy/reborn-as-a-one-celled-organism-fantasy.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/reborn-healer-litrpg-isekai-b1-stubbed/reborn-healer-litrpg-isekai-b1-stubbed.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/reforged-from-ruin-eldritch-xianxia-cultivation/reforged-from-ruin-eldritch-xianxia-cultivation.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/reincarnated-as-a-brewer-against-my-better-judgement/reincarnated-as-a-brewer-against-my-better-judgement.world.ts","typed":true,"deferred":false}
