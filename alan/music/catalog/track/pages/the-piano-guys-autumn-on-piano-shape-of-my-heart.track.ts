@@ -5,7 +5,7 @@ export const thePianoGuysAutumnOnPianoShapeOfMyHeart = {
   type: "page-type/track",
   slug: "the-piano-guys-autumn-on-piano-shape-of-my-heart",
   ownLength: 5.093633333333333,
-  ownProgress: 0,
+  ownProgress: 5.093633333333333,
   partOfCollections: [
     "release/the-piano-guys-autumn-on-piano",
     "release/the-piano-guys-classical-for-studying",
@@ -14,7 +14,7 @@ export const thePianoGuysAutumnOnPianoShapeOfMyHeart = {
     "release/the-piano-guys-music-to-read-to",
     "release/the-piano-guys-3-unsung-hero",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Shape Of My Heart",
   trackType: "studio",
@@ -67,5 +67,6 @@ export const thePianoGuysAutumnOnPianoShapeOfMyHeart = {
     },
   ],
   createdAt: "2026-09-17T13:50:08.324Z",
-  updatedAt: "2026-10-23T13:57:14.919Z",
+  updatedAt: "2026-10-23T14:00:48.915Z",
+  progressedAt: "2026-10-23T14:00:48.915Z",
 } as const satisfies Track

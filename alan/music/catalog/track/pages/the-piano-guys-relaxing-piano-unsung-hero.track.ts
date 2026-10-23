@@ -5,12 +5,12 @@ export const thePianoGuysRelaxingPianoUnsungHero = {
   type: "page-type/track",
   slug: "the-piano-guys-relaxing-piano-unsung-hero",
   ownLength: 3.7426666666666666,
-  ownProgress: 0,
+  ownProgress: 3.7426666666666666,
   partOfCollections: [
     "release/the-piano-guys-relaxing-piano",
     "release/the-piano-guys-3-unsung-hero",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Unsung Hero",
   trackType: "studio",
@@ -35,5 +35,6 @@ export const thePianoGuysRelaxingPianoUnsungHero = {
     },
   ],
   createdAt: "2026-09-17T13:50:11.202Z",
-  updatedAt: "2026-10-23T13:57:14.919Z",
+  updatedAt: "2026-10-23T14:00:48.915Z",
+  progressedAt: "2026-10-23T14:00:48.915Z",
 } as const satisfies Track
