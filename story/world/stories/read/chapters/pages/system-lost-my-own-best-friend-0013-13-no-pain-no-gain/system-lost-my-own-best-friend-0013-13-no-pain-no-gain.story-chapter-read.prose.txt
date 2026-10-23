@@ -1,0 +1,331 @@
+[Allison: Tier 0 Human]
+
+[Class Slot 1: Tier 0 [Unified Collective]* - Level 10/10
+
+[Class Slot 2: Tier 0 [Wanderer]* - Level 10/10
+
+[Attributes]
+
+Power: 1
+
+Resilience: 11
+
+Awareness: 1
+
+Ego: 11
+
+Will: 1
+
+[Skills]
+
+Parallel Wills (1)
+
+Retraced Steps
+
+“Here we go...” I say, focusing on [Wanderer]. The words etched into the back of my mind shift.
+
+[Tier 0 Wanderer]*
+
+Level 10/10
+
+An aimless traveler, searching for a purpose.
+
+Skill - Retraced Steps: Always recognize a path you’ve walked before.
+
+Attribute Bonus: Resilience.
+
+Advancement: Discover new places.
+
+[Upgrades available]
+
+[Fusions available]
+
+[Remove]
+
+“What do you think, Vi?” I ask. “Should I look at the upgrades, or just skip to the fusion part?”
+
+“It might be useful to compare fusions with regular upgrades,” she suggests. “We have a basic idea of what each does, but seeing it spelled out will help.”
+
+“Okay,” I agree readily. I’m a little nervous anyway, so a bit of wiki-diving will be a nice distraction.
+
+I focus on the upgrades, and a few different options pop up.
+
+Upgrades available for [Tier 0 Wanderer]*:
+
+[Tier 1 Wanderer]*
+
+A traveler seeking new horizons on every path.
+
+Skill - Pathfinder: Increased Resilience and Awareness when exploring new places.
+
+Attribute Bonus: Resilience.
+
+Advancement: Travel great distances.
+
+Well that’s pretty simple. It’s just the same thing, but a bit better. [Retraced Steps] is gone, but its replacement ends up doing the same thing anyway, since I’d probably be able to tell whether I’m getting the bonus or not.
+
+I move on to the next one.
+
+[Tier 1 Cartographer]*
+
+A journeyman map maker, recording the shape of the world for others to follow in their footsteps.
+
+Skill - Mental Mapping: Perfectly recall any place you’ve explored.
+
+Attribute Bonus: Awareness.
+
+Advancement: Chart the unexplored places of the world.
+
+Huh. Nice to have my efforts recognized—but wait a second...
+
+I focus on my available classes for a moment, and quickly find what I’m looking for. Sure enough...
+
+[Tier 0 Cartographer]*
+
+Most of the rest is the same, though the skill is weaker, only slightly improving my ability to translate my recollections into charts, and the advancement only requires me to map something, rather than stipulating that it be unexplored.
+
+“Hey Vi, one of the upgrades is a class I’ve already got, just at a higher tier.”
+
+“Interesting,” she says. “I suppose there’s a bit of room for respeccing.”
+
+“Re-what?”
+
+“Sorry, I mean respecialize. Though I guess in this case it’s more like cross-training? It’s letting you take experience from one class and apply it to another, in case you want to change tracks.”
+
+“Huh,” I say. “How magnanimous. I don’t think [Cartographer] is the way to go, though.”
+
+“It could be useful, but not at the cost of fusing our classes,” Violet says. “Especially since you’ve already got the basic version available, if you change your mind.”
+
+“Right.”
+
+I’m just about to check the last upgrade when another thought strikes.
+
+“Hey, [Cartographer] has a boost to Awareness instead of Resilience,” I point out. “Does that mean all the Resilience from [Wanderer] would turn into Awareness?”
+
+“Good question,” she responds. “I’m not sure, but it seems like it could go either way? When you switched from [Student] you lost all of the attributes it gave you, so the attributes are definitely attached to the classes. It depends on whether the change is retroactive.”
+
+“Hmm...something to be careful of, I guess.”
+
+I finally turn my attention to the last upgrade option.
+
+[Tier 1 Cave Dweller]*
+
+One who has found their home in the darkness and shunned the bright and busy life of the surface.
+
+Skill - Darkvision: Dramatically increased Awareness in the dark, with a commensurate penalty to Awareness in sunlight.
+
+Attribute Bonus: Resilience.
+
+Advancement: Survive the depths.
+
+Well that’s ominous. The darkvision would be really nice, but I don’t love the idea of making this place my home and becoming some kind of weird troglodyte hermit. The class would be useless once I finally get out of here, and I don’t want to abandon the hope that I will just yet.
+
+Also “Survive the depths”?! I shudder at the implications, once again wishing for the soft comfort of a proper bed and the warmth of the sun on my face.
+
+“Okay, time for the fusions!”
+
+[Tier 0 Wanderer]* is compatible for fusion with the following class:
+
+[Tier 0 Unified Collective]*
+
+Well that’s simple enough. I pick the only option, then collapse as an invisible ice pick slams into my brain.
+
+“Agh! Not again!” I scream.
+
+I thought I’d be safe from [Unified Collective]’s weirdness if I approached it from the other class, but that was naive. I thrash around for a few minutes, ignoring Violet’s worried voice until the pain finally dies down again.
+
+“I freakin’ hate that,” I complain.
+
+“[Unified Collective] again?” Vi asks sympathetically.
+
+“Yeah,” I groan, risking a peek at the new options. “I don’t even know why it happened this time, the offers all look normal.”
+
+“There’s a lot we don’t know about that class. Sorry you had to go through that again.”
+
+“Weirdly, I’m kinda getting used to it,” I sigh. “Let’s see what we’ve got...”
+
+I gently massage my temples as I inspect the new classes.
+
+Fusions available for [Tier 0 Wanderer]* and [Tier 0 Unified Collective]*:
+
+[Tier 1 Nomadic Tribe]**
+
+A tribe of wanderers without a fixed home.
+
+[Permanent] - This class cannot be removed.
+
+Skill - Homing: You can unerringly find your way back to any current or former settlement.
+
+Skill - Linked Minds: You can communicate with your tribe across vast distances.
+
+Attribute bonuses: Resilience, Ego.
+
+Advancement: Resettle in new places.
+
+I...what? Huh? Did it get confused?
+
+“Violet are you seeing this?” I ask incredulously. “It thinks we’re different people.”
+
+“Aren’t we?” she asks.
+
+“Well, yeah, but like,” I flounder a bit, struggling to articulate myself. “It thinks we’re separate people.”
+
+“Ah,” she responds. “That is odd. What about the others?”
+
+I take a look, and they only get weirder from there.
+
+[Tier 1 Migratory Flock]**
+
+“What, are we flippin’ birds?!”
+
+[Tier 1 Swarming Hive]**
+
+All three are almost exactly the same, aside from the descriptions. Boosting Ego and Resilience, allowing telepathic communication with the other members of my non-existent tribe or hive or whatever, and most disturbingly not providing an equivalent to [Parallel Wills].
+
+What happens if I pick one of these? Will Violet disappear? Will I? As uncomfortable as it’s been sharing my body with another me, I wouldn’t be able to survive down here without her, and she’s my only friend. Even if I had her survival skills, I’d go insane without someone to talk to.
+
+“I don’t think this is going to work, Vi,” I declare sadly. “These upgrades are a bust. No matter what I take, we lose [Parallel Wills].”
+
+“Well that’s frustrating. Are you sure there are no other options?”
+
+“Pretty sure.”
+
+I fidget awkwardly while I await her response. This really isn’t panning out the way we’d planned. I shiver and pull my cloak tighter around myself. I wish I had some shoes—my toes are freezing!
+
+“What if...” Violet begins hesitantly. “What if you tried picking the option from [Unified Collective] instead?”
+
+I frown. Crud, that’s a good idea, isn’t it? I don’t want to. I really don’t want to. It’s going to hurt, and it might not even work.
+
+“No, nevermind,” Violet says before I can respond. “That was a dumb idea.”
+
+Uuuugh.
+
+“No it wasn’t,” I sigh. “Our life is on the line here. I’ve got to at least try. No pain, no gain—that’s how the saying goes right?”
+
+“That’s a pretty bad idiom, actually. When exercising you should pay close attention to—”
+
+I roll my eyes, bracing myself for what’s about to happen and concentrating on [Unified Collective]. The pain is intense, but in the interest of getting through it as quickly as possible, I focus on the fusions right away.
+
+The pain builds and builds behind my eyes as the [World Engine] tries to dump an impossible amount of information into my feeble mortal brain. For a moment, I worry it’s going to be too much, and that I’ve bitten off more than I can chew. Then I feel something snap inside me, and most of the pain washes away, leaving me with just a dull throb pulsing in time to my heartbeat.
+
+My chest heaves as I try to catch my breath, sweat pouring off my forehead—as if I didn’t smell bad enough already. Somehow the mundane concern about my personal hygiene brings me back to reality, and I notice that Violet is trying to get my attention.
+
+“Allison? Allie? Please talk to me. Are you okay?”
+
+I feel a bizarre sense of deja vu. How many times are we going to go through this?
+
+“M’fine,” I slur. “Think my head broke.”
+
+“What?!” she cries, her voice panicked.
+
+“Joking,” I lie. “It just hurts. It worked, though. There’s only one option.”
+
+[Tier 1 Unified Wanderers]**
+
+Many travelers, sharing the same path. Each seeking different things in the same place.
+
+[Permanent] - This class cannot be removed.
+
+Skill - Parallel Wills (2): Allows the simultaneous consciousness of up to two (2) additional thoughtforms.
+
+Skill - The Beaten Path (Retraced Steps): Gain the effect of one skill from a previously mastered class. Can be changed at will.
+
+Attribute bonuses: Resilience, Ego.
+
+Advancement: Find what you seek.
+
+“That skill is pretty good, right?” I ask.
+
+“It’s ridiculous,” Vi confirms. “We’ve only got the one option right now, but it will get a lot more versatile as we grow. I wonder if it works even after removing a mastered class.”
+
+“Do you think the first one means we’ll get a new friend?” I ask. “It’s already a little crowded with the two of us.”
+
+“Maybe. It says ‘up to’ so there’s no guarantee, I think. I didn’t appear right away after you gained the original skill either.”
+
+“True.”
+
+Honestly, I’m not sure which I’d prefer. Violet is nice company, but do I really want to share my body with yet another person?
+
+“It would be better to have another ally as soon as possible,” Violet says. “That would let us train an extra class, effectively giving us twice the normal number of slots, even with one of them shared.”
+
+Classic Vi. Questions of personal space, privacy, and identity are afterthoughts next to getting stronger. She’s got a point, though. We need every edge we can get.
+
+“I guess we’ll cross that bridge when we get to it,” I hedge. “For now, I should definitely take the class, right?”
+
+“I think so.”
+
+I nod, squinting my eyes shut as I brace for another spike of pain. It’s happened often enough now that I know what to expect. With a thought, I confirm my choice, then...not much. Not even the weird violating sense of something rooting around in my head. The words in my head shift without fanfare to display my new status.
+
+[Allison: Tier 0 Human] (Evolution Available)
+
+[Class Slot 1: Tier 1 [Unified Wanderers]** - Level 0/10
+
+[Class Slot 2: [Empty]
+
+[Attributes]
+
+Power: 1
+
+Resilience: 11
+
+Awareness: 1
+
+Ego: 11
+
+Will: 1
+
+[Skills]
+
+Parallel Wills (2)
+
+The Beaten Path
+
+Which...is almost exactly the same as my old status. What’s an [Evolution]?
+
+[Evolution]
+
+Upon reaching a new tier for the first time, species evolution becomes possible. Options are based on current species and tier.
+
+“Huh, apparently we can change our species?”
+
+“What?” Vi asks, perplexed. “Change it to what?”
+
+“I dunno, lemme check.”
+
+Evolutions available for [Tier 0 Human]:
+
+[Tier 1 Human]
+
+An animal species. Individual specimens are almost always [Sapient].
+
+“We can evolve from a human into a human,” I deadpan. “That’s it.”
+
+Violet laughs harder than I’ve ever heard her laugh. “That’s amazing,” she manages to choke out between fits of giggling. “Does it at least raise the tier?”
+
+“It does indeed,” I confirm. “Though I’m not sure what that actually does.”
+
+“Your attributes are still the same after fusing your classes,” Vi points out. “Didn’t the engine’s description of tiers mention a bonus to base stats?”
+
+I blink, then focus on the tier.
+
+[Tier 1]
+
+The first major milestone for mechanical support. Base attributes increased (1 -> 2). Two points gained per [Class Level].
+
+“Well what do you know?” I remark. “How the heck did you remember that?”
+
+“It seemed important.”
+
+“You weren’t even around yet!” I protest. “And that was...crud, how long have we been down here?”
+
+“Several days at least, but it’s hard to mark the passage of time with only our circadian rhythm to go by.”
+
+My stomach growls as I realize just how little I’ve eaten and slept in all that time, then churns at the thought of having to choke down more snail flesh. Maybe it’s a little selfish of me, but I want to hurry up and switch with Vi so that it can be her problem.
+
+“Okay, so I should take the evolution, then?” I ask for confirmation.
+
+“Probably,” she agrees. “I can’t think of a good reason not to.”
+
+“Gotcha!”
+
+I confirm the decision and my entire world becomes an ocean of pain as every cell in my body starts to change at once. My last thought before I pass out again is that I really should have seen that coming.

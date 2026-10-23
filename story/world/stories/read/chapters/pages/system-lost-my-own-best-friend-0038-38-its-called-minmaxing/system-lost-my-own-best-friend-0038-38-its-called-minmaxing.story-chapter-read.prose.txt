@@ -1,0 +1,439 @@
+Despite feeling like I haven’t eaten in a week, Violet still insists that I carefully ration our remaining food, so I have to tide myself over by nibbling on a bit of raw lizard meat and washing it down with some water. Not exactly the feast I was hoping for, and I practically feel more hungry afterwards, but oh well.
+
+“First, let’s each review our status,” Violet suggests, as I chew miserably, occupying myself by feeding Nipper little scraps.
+
+“Sure,” I mumble through a mouthful of lizard.
+
+[Allison: Tier 1 Human]
+
+[Class Slot 1: Tier 1 [Unified Wanderers]** - Level 9/10
+
+[Class Slot 2: Tier 0 [Medic]* - Level 10/10
+
+[Attributes]
+
+Power: 2
+
+Resilience: 30
+
+Awareness: 2
+
+Ego: 40
+
+Will: 2
+
+[Skills]
+
+Locus of Thought
+
+The Beaten Path (Foraging)
+
+First Aid
+
+The mechanics really seem to favor specialization, huh?
+
+“Vi, didn’t you say something about how specializing is better than spreading stuff out?” I ask.
+
+“In games, yes. It’s called minmaxing, but it’s usually a risky strategy if you don’t know what you’re getting into.”
+
+“In our case, it would probably just get us killed,” Maggie adds. “Here’s mine...”
+
+[Magdalena: Tier 1 Human]
+
+[Class Slot 1: Tier 1 [Unified Wanderers]** - Level 9/10
+
+[Class Slot 2: Tier 0 [Thrower]* - Level 10/10
+
+[Attributes]
+
+Power: 12
+
+Resilience: 30
+
+Awareness: 2
+
+Ego: 30
+
+Will: 2
+
+[Skills]
+
+Locus of Thought
+
+The Beaten Path (Quick Sort)
+
+Strong Arm
+
+It’s pretty much the same, except for ten points going from Ego to Power. A lot of our strength is focused in [Unified Wanderers] which just goes to show how much of a difference tier and grade make. Hey, wait a sec!
+
+“Maggie, how do you have a different skill assigned to [The Beaten Path]?” I ask.
+
+“By changing it? It wasn’t hard.”
+
+Violet sighs, and I imagine her shaking her head in resignation. “Just please tell us when you do experiments like that? It would have been good to know earlier.”
+
+“Sure, whatever.”
+
+That just leaves Violet.
+
+[Violet: Tier 1 Human]
+
+[Class Slot 1: Tier 1 [Unified Wanderers]** - Level 9/10
+
+[Class Slot 2: Tier 0 [Defender]* - Level 10/10
+
+[Attributes]
+
+Power: 2
+
+Resilience: 40
+
+Awareness: 2
+
+Ego: 30
+
+Will: 2
+
+[Skills]
+
+Locus of Thought
+
+The Beaten Path (Foraging)
+
+Retaliation
+
+Once more, it’s pretty much the same, except that the extra ten points are in Resilience.
+
+“Alright,” Violet begins in a way that makes me want to settle down for a lecture. “Let’s go over the key facts. Our biggest advantages are the class shared between all three of us and the ability to use each other’s classes for fusions. Essentially, we have four class slots rather than the typical two.”
+
+“More like three and a half,” Maggie interjects. “One of them is locked in, so we can’t swap freely. Once it maxes out, that slot will be stuck until our other two-star classes catch up.”
+
+“True, but it’s still a big advantage, and I don’t think we’d want to remove that class even if we could.”
+
+I shudder at the thought. Yeah, no. I don’t know what would happen to us, but none of the ideas that come to mind are pleasant. It’s a moot point anyway, since it’s permanent.
+
+“[Unified Wanderers] gives us Ego and Resilience,” Vi continues. “And I think we can all agree that whatever we fuse into it next should have two out of the other three attributes, and generic utility—something we can all use.”
+
+“So definitely [Survivalist] right?”
+
+“Right,” she agrees. “But let’s look at what we’re working with...”
+
+The six tier zero classes we’ve currently mastered, and their associated attributes are:
+
+[Survivalist] - Awareness
+
+[Defender] - Resilience
+
+[Organizer] - Will
+
+[Medic] - Ego
+
+[Thrower] - Power
+
+And of course, everybody’s favorite...
+
+[Candle Enthusiast] - Awareness
+
+“So we can rule out Defender and Medic,” Maggie muses. “Since they already overlap.”
+
+“Candle Enthusiast too,” I add. “That feels a bit too silly to make part of our core class.”
+
+“That leaves [Survivalist], [Organizer], and [Thrower], then,” Violet finishes.
+
+“I’m not sure if Thrower meets the general utility criteria,” I point out, scratching my cheek.
+
+“No,” Vi agrees. “Probably not.”
+
+“Well that was easy,” Maggie chuckles. “Should we see what fusing them gets us?”
+
+“Let’s not be hasty. We should consider how that impacts our other options before locking in any decisions.”
+
+Violet is right. That leaves the remaining options in a pretty awkward spot. Just in terms of attributes, [Defender] and [Thrower] would be perfect for Vi, but would that commit us to some kind of throwing-based fighting style? Also, what the heck would [Candle Enthusiast] and [Medic] turn into?
+
+“I think maybe we need to start with the elephant in the room...” I grumble, struggling to come up with any other good options.
+
+“You mean that fact that one of these classes is a completely worthless waste of space?” Maggie snickers.
+
+“Uh, yeah,” I admit, scratching the back of my head. This problem is my own fault, after all. “I, uh, didn’t really think that far ahead about the candle class. I never thought about what it would mean to actually commit to it.”
+
+“We don’t necessarily have to,” Violet comments. “We could just leave it where it is.”
+
+That feels like it would be a waste, somehow. Plus, I don’t actually regret taking it. It did lead us to magic, in a roundabout way, and we learned a lot about our only plentiful resource in the process. Not that they’re all that plentiful anymore with the Labyrinth sealed behind us.
+
+“I think we should look at every possible combination for [Candle Enthusiast],” I decide. “Maybe it will surprise us.”
+
+“Sure,” Violet agrees readily. “It can’t hurt.”
+
+“Lay ‘em on us!” Maggie exclaims. Despite her best efforts, even she can’t stay aloof about a milestone like this.
+
+Okay then, let’s start with, [Candle Enthusiast] and [Defender].
+
+[Tier 1 Vigilant]**
+
+A light in the dark, sheltering the living and keeping watch over the dead.
+
+Skill - Guiding Light: Increased illumination from light sources held by you. Allies illuminated by you gain increased Awareness and Resilience.
+
+Skill - Watchful Guardian: Increased Awareness, Resilience, and Power while protecting your wards.
+
+Attribute bonuses: Resilience, Awareness.
+
+Advancement: Maintain your vigil.
+
+“Wow, okay, what the heck? That’s not bad at all!”
+
+“It’s a lot better than I expected,” Vi admits. “I’d take that happily.”
+
+“And leave one of us stuck with some kind of medical throwing?” Maggie objects. “Next!”
+
+“Right,” I nod, mentally adding [Vigilant] to the shortlist anyway. “Let’s try [Medic] next.”
+
+[Tier 1 Cauterizer]**
+
+Fire is rarely a practical tool for healing, but when all you’ve got is a candle...
+
+Skill - Seal the Wound: Dramatically increased heat from sources applied to a wound. Increased Ego and Awareness when sealing open wounds this way.
+
+Skill - Kill the Pain: Dramatically suppress a willing target’s Awareness and/or increase their Resilience while treating injuries.
+
+Attribute bonuses: Awareness, Ego.
+
+Advancement: Fix them with fire.
+
+“That’s...”
+
+“Handy?” Maggie suggests.
+
+“I was going to go with horrifying,” I clarify. “I also really don’t like how the advancement specifically requires treating wounds with fire.”
+
+“It does come with a skill for dulling pain,” Violet points out. “And I notice that the first one doesn’t prevent you from using it offensively.”
+
+“Yeah, don’t forget that right now our number one patient is us,” I object. “I’m not going to make burning ourselves a regular part of our self-care.”
+
+“Fair enough,” she relents. “What’s next? Just [Thrower]?”
+
+“Unless we want to check the other two as well,” I confirm, bringing up the last combination.
+
+[Tier 1 Firecaster]**
+
+While fire is well known for its ability to spread on its own, it doesn’t hurt to give it a little help now and then. Except, of course, when it does.
+
+Skill - Pyropathy: You can sense flames. Dramatically increased Awareness when focusing on this sense.
+
+Skill - Pyrokinesis: You can control flames. Your Power is added to Ego when manipulating fire with this skill.
+
+Attribute bonuses: Power, Awareness.
+
+Advancement: Spread your flames.
+
+“Ho. Ly. Shit!” Maggie exclaims. “That’s magic! That’s just straight up wizard shit!”
+
+“Sorcerer,” Violet corrects her.
+
+“Shut the fuck up, nerd! Do you know what this means?!”
+
+“Uh, that you’d be able to control fire?” I guess.
+
+“No—I mean, yeah, but that’s not the cool part,” Maggie explains. “If I can reverse-engineer Pyrokinesis, then I might be able to control other things too. It could be the gateway to bigger magic that I’ve been missing this whole time!”
+
+“You’ve been promising things like that since the beginning and made almost no progress,” Violet counters. “What makes you think this will be any different?”
+
+“Three things,” Maggie declares matter-of-factly, unperturbed by Violet’s provocations. “First, fuck you.”
+
+Okay, not entirely unperturbed.
+
+“Second, I’ve already done something like pyrokinesis, which means I can attack the problem from both angles—replicating it from scratch, and observing how the engine-approved version does it.
+
+“Third, most of our skills are just way too hard to replicate, because as much as we take it for granted, the most basic thing Engie does is also the most impressive.”
+
+Engie? Oh, she means the [World Engine].
+
+“I’m not sure I follow,” I say.
+
+“Attributes, Allie,” she clarifies. “Violet and I were able to force our skills to give us some extra juice through sheer force of will, but that was just widening a channel that was already there and it still basically knocked us out. I’m pretty sure if I tried to magically increase any one of our attributes by so much as a single point, we’d explode.”
+
+I blink. “As in like...”
+
+“As in coating these tunnels in a fine red mist. Like triggering a fusion reaction in your chest cavity.”
+
+“Oh.”
+
+“If it takes so much power, then how does the engine do it?” Violet asks. “And why?”
+
+“Hell if I know,” Maggie says with a mental shrug. “If I knew the answer to that, we’d probably be gods.”
+
+“Okay, I can see you’re excited about it,” I tell her, moving us along. “I’ll put it at the top of the list, okay?”
+
+“I’m taking that class,” Maggie says without compromise.
+
+I just sigh and shake my head. That would leave [Medic] and [Defender] for the last combo. Not the worst pair, now that I think about it. Let’s see what it gets us...
+
+[Tier 1 Savior]**
+
+A sentinel for the meek. A hero of the sick and injured. A ray of hope for the desperate and needy. You extend a hand to those who have fallen to the deepest pits of the blackest depths and pull them back from despair.
+
+Skill - Protect the Innocent: Dramatically increased Power, Resilience, and Will when fighting in defense of anyone sick, injured, or below your own tier.
+
+Skill - Revitalization: Draw upon the body’s energy stores to dramatically accelerate natural healing and repair mortal wounds. When used to heal others, you may draw upon your own energy instead.
+
+Attribute bonuses: Resilience, Ego.
+
+Advancement: Help those in need.
+
+“Huh,” I muse. “Something about that skill is oddly familiar.”
+
+“You mean the one that’s just a straight upgrade of the skill Vi already has?” Maggie asks.
+
+“No, the other one.” I furrow my brows. “Is that why I’m so hungry?”
+
+“The dream again?” Violet asks.
+
+“I think so?” I hedge. “I can’t really remember.”
+
+“Well, the class is very Violet,” Maggie notes. “In that it’s high on its horse and way up its own ass.”
+
+“Maggie...” I scold her. “Vi having a strong moral compass isn’t something to make fun of.”
+
+“You’re not disagreeing with her premise?” Violet asks, betrayed. “When have I given you the impression that I see myself as some kind of knight in shining armor?”
+
+“Uh...” I trail off uneasily.
+
+“Literally from the very second you woke up,” Maggie supplies, not sharing my hesitation. “Always insisting that it’s your job to keep us all safe? Getting all pissy at me for even suggesting we take a few risks? Am I ringing any bells yet?”
+
+“What I think she’s trying to say is that it suits you,” I interject with false cheer, desperately trying to smooth things over. “You’ve got that vibe, you know? Like you’d be the first one to step up in an emergency and get people moving.”
+
+“I’m really not...” she tries to protest.
+
+“That’s not what I was—”
+
+“Sure you are!” I cut off Maggie’s protest. “Anyway, if those look viable, then what would the last one look like?”
+
+Putting [Survivalist] and [Organizer] together gets us...
+
+[Tier 1 Pathfinder]**
+
+A meticulous explorer charting the unknown. Capable of finding your way through the wilderness and guiding others on your trails.
+
+Skill - Inner Compass: You always know which direction you’re facing, and can faintly sense what lies down a path.
+
+Skill - Stretch Supplies: You and any traveling companions gain increased satiation from food and drink.
+
+Attribute bonuses: Awareness, Will.
+
+Advancement: Forge new pathways.
+
+“Aw, nut butter!” I swear, looking down at my mostly-finished filet of lizard. “I could have used that!”
+
+“Is it just me, or do these classes seem oddly tailored for us?” Violet asks.
+
+“They probably are,” Maggie agrees. “The new classes we unlock are based on our experiences and circumstances, so I don’t see why the fusions wouldn’t be. There’s no guarantee that someone else fusing the same classes would get the same results.”
+
+“I suppose that makes sense,” I say with a nod. “I know we’ve got a lot of other potential options to go over but...these seem good to me.”
+
+“I don’t care what you two pick, but I’m not budging on [Firecaster],” Maggie insists.
+
+Violet sighs. “In which case, these are about the best we could hope for anyway.”
+
+“So we’re all in agreement, then?”
+
+Vi and Maggie both sound off their assent, and then each of us take turns assigning our new classes and admiring the results.
+
+[Allison: Tier 1 Human]
+
+[Class Slot 1: Tier 1 [Unified Wanderers]** - Level 9/10
+
+[Class Slot 2: Tier 1 [Pathfinder]** - Level 0/10
+
+[Attributes]
+
+Power: 2
+
+Resilience: 30
+
+Awareness: 12
+
+Ego: 30
+
+Will: 12
+
+[Skills]
+
+Locus of Thought
+
+The Beaten Path (Foraging)
+
+Inner Compass
+
+Stretch Supplies
+
+It feels...right. Comfy, somehow. Like I’d been missing parts of myself that have finally been filled in.
+
+“I hope this new skill will help us finally find our way out of this cave,” I sigh. “Or at least get us back to that stream—and some food, ugh, I’d even eat a snail right now...”
+
+[Violet: Tier 1 Human]
+
+[Class Slot 1: Tier 1 [Unified Wanderers]** - Level 9/10
+
+[Class Slot 2: Tier 1 [Savior]** - Level 0/10
+
+[Attributes]
+
+Power: 2
+
+Resilience: 40
+
+Awareness: 2
+
+Ego: 40
+
+Will: 2
+
+[Skills]
+
+Locus of Thought
+
+The Beaten Path (Retaliation)
+
+Protect the Innocent
+
+Revitalization
+
+I furrow my brow as I review my new status.
+
+“So I ended up minmaxing after all, huh?” I note with resignation. “At least the skills help make up for my weaknesses.”
+
+[Magdalena: Tier 1 Human]
+
+[Class Slot 1: Tier 1 [Unified Wanderers]** - Level 9/10
+
+[Class Slot 2: Tier 1 [Firecaster]** - Level 0/10
+
+[Attributes]
+
+Power: 12
+
+Resilience: 30
+
+Awareness: 12
+
+Ego: 30
+
+Will: 2
+
+[Skills]
+
+Locus of Thought
+
+The Beaten Path (Strong Arm)
+
+Pyropathy
+
+Pyrokinesis
+
+I chuckle darkly as a flickering ember dances across my fingers.
+
+“Ohoho, this is going to be fu—ow! Fuck!” I curse as it burns my hand, flicking it away. My cheeks burn even worse than my fingers as Allison and Vi desperately hold back their laughter. “Not. A fucking. Word.”
+
+Naturally, that just sets them both into an uncontrolled fit of giggling laughter. I purse my lips, trying not to let myself join them, but their laughter is infectious and—damnit, I guess that was kind of funny...
+
+I’m still gonna make them pay for it later, though.

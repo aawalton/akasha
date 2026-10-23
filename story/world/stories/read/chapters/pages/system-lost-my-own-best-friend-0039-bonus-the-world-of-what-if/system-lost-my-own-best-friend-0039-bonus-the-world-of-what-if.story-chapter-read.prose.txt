@@ -1,0 +1,191 @@
+Those girls. After all that talk about not being too hasty, they sure made their decisions quickly, didn’t they? Now they’ll never know what they might have missed, but here in the world of what ifs, you and I can take a little peek.
+
+Who am I? I wouldn’t worry about that. You’re not here for me, you’re here for what I have to offer. Or maybe you’re not, in which case you can feel free to just ignore this. You won’t miss anything. There’s nothing here but regret and disappointment. This is for you. You know who you are. You who’s demanding to know what else they could have picked. What they should have picked. What’s optimal.
+
+You can’t determine what’s best without knowing all your options, after all. Those silly little girls, picking with their hearts instead of their heads. I’m sure you know better.
+
+So let’s get started, shall we?
+
+Those candle classes were quite impressive weren’t they? You wouldn’t think such a joke class would have so much power, but of course it was never really a joke at all. So let’s look at the two they forgot to check.
+
+[Candle Enthusiast] + [Survivalist]
+
+[Tier 1 Firetender]**
+
+Keeping watch in the night, feeding the fire, it’s a thankless job but someone must do it. You take pride in this role, stoking even the smallest ember into a roaring bonfire.
+
+Skill - Stoke Flames: Fires in your presence use less fuel, and you can cause them to burn hotter and brighter without consuming extra fuel.
+
+Skill - Night Watch: Dramatically increased Awareness when illuminated by open flames.
+
+Attribute bonuses: Awareness, Will.
+
+Advancement: Maintain controlled fires.
+
+See? Who knows how that Stoke Flames skill would interact with those magical candles? Well, I do, but I’m not telling. We have to maintain some mysteries, and this is about numbers.
+
+Speaking of numbers, have you noticed how vague the skills are? “Increased”? “Dramatically”? By how much? How do the attributes affect skills? It seems hardly fair of the author—I mean, the Goddess, to hide such important details. It’s like they don’t even want people arguing about optimal builds in the comments.
+
+Well, luckily for you, I have the means to look a little deeper.
+
+Skill - Stoke Flames: Fires in your presence use (50%) less fuel, and you can cause them to burn (Tier value + Ego%) hotter and brighter without consuming extra fuel.
+
+Skill - Night Watch: Awareness increased by (+1 Tier value) when illuminated by open flames.
+
+Oh, “Tier Value”? That’s the base attribute value for the tier. The formula for it is n+n^2, but at tier zero it’s just 1 as a special exception. “Dramatically” means it uses the next tier instead. Oh, and it uses species tier, not class tier. So low tier classes can still be very powerful tools in the hands of a high tier person.
+
+Let’s stick to the advanced view as long as we’re here, shall we? It’s obviously much better. Now where were we? Oh right!
+
+[Candle Enthusiast] + [Organizer]
+
+[Tier 1 Cereostylist]**
+
+Like flower-arrangement, but with candles. You have the skills to artfully place candles in such a way that not only provides perfect illumination, but also doubles as artful decor.
+
+Skill - Perfect Angle: Ego increased by (+1 Tier value) while illuminated by candlelight.
+
+Skill - Visualize the Scene: You can perfectly recreate your surroundings in your mind and adjust the lighting freely within that recreation. (The recreated area can be up to a number of cubic meters equal to Awareness.)
+
+Attribute bonuses: Awareness, Will.
+
+Advancement: Brighten up the place.
+
+I guess they can’t all be winners, huh? Although I bet you could really get up to some shenanigans with that second one at higher levels if you got creative. Someone must have had this class when they were making that weird labyrinth.
+
+Alright, so that’s the candle classes done. Some of you might be wondering why so many classes either scale with attributes they don’t provide, or provide attributes they don’t scale with. Why do you think we—I mean, they—gave people more than one class slot? Synergies, of course!
+
+A [Firetender]/[Cereostylist] would get extra Ego from [Perfect Angle], improving the effect of [Stoke Flames], likewise their [Night Watch] would increase Awareness, making [Visualize the Scene] more powerful! Classes work better together than they do alone.
+
+Okay, what else, what else? I—that is to say, someone came up with classes for every single combination, you know. Seems like a waste not to show them off. Imagine interrupting perfectly good character optimization to do something silly like tell a story? Good thing you’ve got me here to give the people what they really want.
+
+Let’s just take it from the top, shall we?
+
+Class Fusions for [Defender] +:
+
+[Thrower] =
+
+[Tier 1 Bouncer]**
+
+A stalwart defender of doorways. You control who enters and decide when it’s time for them to be ejected—sometimes with force.
+
+Skill - Stand Your Ground: (+1 Tier value) to Power, Resilience, and Will while maintaining a position.
+
+Skill - Time for You to Leave: (+1 Tier value + Ego) to Power when throwing living things.
+
+Attribute bonuses: Power, Resilience.
+
+Advancement: Stand guard.
+
+[Organizer] =
+
+[Tier 1 Warden]**
+
+You stand watch over, but also on your charges. You make sure they remain in line, protecting the world from them as much as you protect them from the world.
+
+Skill - A Place for Everyone: You always know where your charges are (up to 1 + Tier + Awareness/10 at a time).
+
+Skill - Everyone in Their Place: (+1 Tier value) to Power, Resilience, and Awareness when fighting either alongside or against your charges.
+
+Attribute bonuses: Resilience, Will.
+
+Advancement: Maintain order among your charges.
+
+[Survivalist] =
+
+[Tier 1 Provider]**
+
+People need to eat, and it’s your job to keep them fed. You’re an expert at making rations last and finding more when things get scarce.
+
+Skill - Expert Foraging: (+1 Tier value) to Awareness when searching for food and water. Always know the direction to the nearest source of potable water.
+
+Skill - Double Rations: Food and water given to others is duplicated (up to Tier + 1 times per day.)
+
+Attribute bonuses: Resilience, Awareness.
+
+Advancement: Feed people.
+
+Whew, lots of potential futures for Violet and Allison there. I don’t know about you, but I don’t really see either of them as a prison guard—though did you notice that it’s also quite useful for hunting? Lots of classes are tricky like that. Just because the flavor says one thing, doesn’t mean you have to use them as described. Engie—I love that nickname, Maggie’s great—likes to nudge people into predictable niches, but there’s always the freedom to go wild with it.
+
+Are you tired of this yet? Me neither! Let’s see what kind of combinations [Thrower] could have gotten us!
+
+[Thrower] +:
+
+[Organizer] =
+
+[Tier 1 Neat Freak]**
+
+Like a whirling tornado of cleanliness, you can storm through any mess and leave it spotless in your wake.
+
+Skill - What a Mess: You gain additional phantom limbs while sorting or tidying (up to Tier + 1 of them).
+
+Skill - Declutter: You can throw objects unerringly into appropriate stacks or containers, even if those containers are closed.
+
+Attribute bonuses: Power, Will.
+
+Advancement: Clean up dire messes.
+
+[Survivalist] =
+
+[Tier 1 Hunter]**
+
+You can stalk small creatures and knock them out with slings, knives, or just a rock in a pinch.
+
+Skill - Pick Up a Trail: (+1 Tier value) to Awareness when spotting and following animal trails.
+
+Skill - Silent Strike: (+1 Tier value + Awareness) to Power when attacking from out of sight with a thrown weapon.
+
+Attribute bonuses: Power, Awareness.
+
+Advancement: Hunt successfully.
+
+[Medic] =
+
+[Tier 1 Rescuer]**
+
+When danger lurks, it’s up to you to get people out of harm’s way by any means necessary.
+
+Skill - Out of the Fire: (+2 Tier value + Ego) to Power when throwing a person away from danger. People thrown this way cannot be harmed as a direct result of the throw or landing.
+
+Skill - Emergency Treatment: (Once per person per day) render a willing target unconscious to temporarily preserve their life (for Ego/10 minutes). Any further injuries will cancel the effect.
+
+Attribute bonuses: Power, Ego.
+
+Advancement: Evacuate people.
+
+A few duds, but the hunting one would have been nice. I kinda wish I had [Neat Freak]. Only two left now, are you excited? I know I am!
+
+[Organizer] + [Medic]
+
+[Tier 1 Triage Nurse]**
+
+Not all injuries are created equal. It’s your job to assess the severity of injuries, perform preliminary treatment if necessary, and then sort out those who need immediate attention from those who can survive a bit longer. A truly thankless profession.
+
+Skill - Prognosis: You can estimate how long a person will live without medical intervention at a touch (up to a number of minutes equal to Ego).
+
+Skill - Hard Choices: (Tier value + Ego) to Will when performing triage.
+
+Attribute bonuses: Ego, Will.
+
+Advancement: Save lives.
+
+[Survivalist] + [Medic]
+
+[Tier 1 Naturopath]**
+
+You are skilled at finding natural herbs and remedies, crafting poultices, and brewing medicines.
+
+Skill - I Can Use This: Instantly identify the potential effects of organic compounds.
+
+Skill - Placebo: (+2 Tier value + Power) to Ego when treating illness or injury with home remedies.
+
+Attribute bonuses: Awareness, Ego.
+
+Advancement: Make them feel better.
+
+And that’s it! All the classes they could have fused together. Just between you and me, they also had some pretty nice upgrade options if they hadn’t been so focused on fusions, but I’ll leave those to your imagination.
+
+Imagine how much better the last chapter would have been if they’d meticulously debated the pros and cons of every single option! Or don’t imagine! You can make your dreams a reality right here and now. Be the change you want to see in the world. What could they have done better? Which combination of classes would have been ideal?
+
+Surely someone as clever as you can do better, right? Be sure to leave a comment explaining it in excruciating detail!
+
+Now I’m afraid I have to let you get back to that boring old story, but I’m sure we’ll meet again next time the author foolishly tries to omit such critical information from the narrative. Have fun theorycrafting!
