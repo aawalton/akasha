@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
+
+export const aDragonCalledBobBook2StubbingSeptember0121Chapter251BurningSoup = {
+  id: "01a1663b-c4a6-76cb-9c52-c5f027bab2b5",
+  type: "page-type/story-chapter-read",
+  slug: "a-dragon-called-bob-book-2-stubbing-september-0121-chapter-251-burning-soup",
+  position: 121,
+  publishedAt: "2026-05-22",
+  unit: "unit/words",
+  title: "Chapter 251 - Burning soup",
+  story: "story-read/a-dragon-called-bob-book-2-stubbing-september",
+  ownLength: 2008,
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "3433547",
+      externalLink:
+        "https://www.royalroad.com/fiction/121610/a-dragon-called-bob-book-2-stubbing-september/chapter/3433547/chapter-251-burning-soup",
+    },
+  ],
+  createdAt: "2026-10-23T00:49:15.429Z",
+  updatedAt: "2026-10-23T00:49:15.429Z",
+} as const satisfies StoryChapterRead
