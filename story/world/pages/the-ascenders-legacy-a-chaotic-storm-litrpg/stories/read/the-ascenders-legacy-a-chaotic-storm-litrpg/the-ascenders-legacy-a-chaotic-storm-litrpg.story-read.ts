@@ -1,0 +1,47 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const theAscendersLegacyAChaoticStormLitrpg = {
+  id: "01a169e1-9a7c-79ca-8432-1a8e12e53204",
+  type: "page-type/story-read",
+  slug: "the-ascenders-legacy-a-chaotic-storm-litrpg",
+  author: "Jordan Elias R.",
+  following: false,
+  unit: "unit/words",
+  title: "THE ASCENDER'S LEGACY—A CHAOTIC STORM LITRPG",
+  world: "world/the-ascenders-legacy-a-chaotic-storm-litrpg",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "84191",
+      externalLink:
+        "https://www.royalroad.com/fiction/84191/the-ascenders-legacy-a-chaotic-storm-litrpg",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Portal Fantasy / Isekai",
+    "Progression",
+    "War and Military",
+    "Cultivation",
+    "Action",
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "Attractive Lead",
+    "Cozy",
+    "Crafting",
+    "High Fantasy",
+    "Magic",
+    "Male Lead",
+    "School Life",
+    "Secret Identity",
+    "Slice of Life",
+    "Strategy",
+    "Strong Lead",
+    "Survival",
+  ],
+  readLater: true,
+  createdAt: "2026-10-23T17:49:15.260Z",
+  updatedAt: "2026-10-23T17:49:15.260Z",
+} as const satisfies StoryRead
