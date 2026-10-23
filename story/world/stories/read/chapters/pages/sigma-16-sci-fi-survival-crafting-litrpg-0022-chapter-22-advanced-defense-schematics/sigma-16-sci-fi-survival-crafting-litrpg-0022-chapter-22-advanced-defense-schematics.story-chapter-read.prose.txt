@@ -1,0 +1,205 @@
+She didn’t want to get into a snark contest with her AI. It was nearly akin to talking to oneself, so she turned and began to fetch the materials. A few minutes later, the machine was humming away and producing the repair schematic.
+
+It was almost anti-climactic. “That’s it? Once it is done, do I just drop it in the main fab and activate it?”
+
+[Affirmative: Repair schematic cube will fully repair the damaged module it was designed for.]
+
+“Great. While that’s processing, let’s go over whatever new defense tools we can make with the full fab? Something that isn’t military locked and preferably with high enough stopping power to stop a Rockslasher?” Talia asked.
+
+[Notice: No unlocked, non-military defense schematic meets User requirements. However, Cortex Inc. can offer the following defense solutions for civilian usage.]
+
+As her HUD lit up with the choices, Talia whispered under her breath, “I knew it.”
+
+[Equipment: Cortex Vanguard Automated Defense System]
+
+| Description: The Vanguard is a military-grade defense system that offers superior protection and lethality. It comes equipped with an advanced targeting system and a rapid-fire railgun capable of neutralizing most threats. |
+
+[Effect: High-powered automated defense system]
+
+[Cost: 1500 Credits]
+
+[Equipment: Cortex Warden Anti-Intruder System]
+
+| Description: The Warden is a versatile defense system tailored for perimeter security. It utilizes non-lethal measures such as sonic disorientation waves and immobilizing foam launchers to incapacitate intruders. |
+
+[Effect: Non-lethal crowd control defense system]
+
+[Cost: 2500 Credits]
+
+[Equipment: Cortex Raptor Drone Defense Swarm]
+
+| Description: The Raptor system deploys a swarm of mini drones armed with small gauss rifles. They can patrol a large area and neutralize intruders upon detection. Drones are capable of self-recharging and act in teams of twelve. Upgrade pads are available to enable multiple teams with different patrol routes. |
+
+[Effect: Mobile defense swarm]
+
+[Cost: 4000 Credits]
+
+[Equipment: Cortex Titan Automated Sentry]
+
+| Description: The Titan is a powerful automated sentry equipped with advanced tracking systems and a dual-function weapon system capable of switching between direct and indirect fire modes. It’s suitable for more challenging defense scenarios and long-range fire-support. |
+
+[Effect: Advanced artillery defense system]
+
+[Cost: 5000 Credits]
+
+[Equipment: Cortex Nemesis Automated Counter-Intelligence Unit]
+
+| Description: The Nemesis unit specializes in cyber warfare, designed to detect and counter hacking attempts. Its automated defensive protocol can neutralize digital threats while providing security to all remote units attached to its control unit. |
+
+[Effect: Automated cyber defense unit]
+
+[Cost: 3500 Credits]
+
+Talia frowned at every item on the list. “How are these not fucking military grade?” Her eyes flashed between each one with a growing concern. The question was rhetorical. As she glanced at the specifications, the Cortex turrets outperformed all the military schematics she’d seen earlier. There was really no reason the military ones should have been locked!
+
+[Notice: All schematics presented are proprietary Cortex Inc technology, purchasable by User in return for Cortex Scan Credits.]
+
+“We can’t afford any of them.” Talia said.
+
+[Informative: While the credit cost of each turret is relatively high, each one comes with a printing limit of ten units.]
+
+“Oh great, we don’t even get unlimited uses out of them. If that’s the case, can we just license one turret for now?” Talia asked.
+
+There was no immediate response, and she turned to look at the countdown on the survival fab. It looked like she was going to be thrust back into exploring and scanning everything she could find again. That probably meant going back into the jungle, because the desert was…a desert and mostly sand and rock.
+
+Which wasn’t worth anything, and she wasn’t about to go looking for a live Rockslasher or…worse.
+
+[Notice: This Unit has negotiated a onetime purchase of a single Cortex Vanguard ADS turret due to extreme threat and danger to User due to insufficient defense systems.]
+
+“Wait. You negotiated? We have a connection to Cortex Inc? Can you send a distress signal?”
+
+[Notice: No outside connection has been established. An internal Cortex Proprietary AI enables all Cortex Scan Affiliate transactions and Schematic unlock processes.]
+
+She wasn’t going to argue. “Okay. Do it. It is the first thing we’ll make on the repaired fabricator.”
+
+| Cortex Inc. Credit Charge: -150 |
+
+| Cortex Inc. Credit Balance: 495 |
+
+There was still an hour before the repair cube was completed and she had some credits remaining. The turret would protect the base. She hoped.
+
+But it was inevitable that she’d need to leave at some point, just to collect resources and scan things if they needed new locked blueprints. The exoskeleton provided her amazing strength, but she needed some type of personal defense, too.
+
+“Neo, is there a rifle schematic or weapon we can make that is compatible with my suit?” Talia asked.
+
+[Notice: Displaying personal weapon and defense schematics.]
+
+[Equipment: Legion Mark IV Personal Assault Rifle]
+
+| Description: The Legion Mark IV is the latest in military-grade personal assault rifles, featuring a state-of-the-art tracking system, full auto and semi-auto modes, and adaptable ammo synthesis. |
+
+[Effect: High-powered personal firearm]
+
+[Availability: Locked (Military Use Only)]
+
+[Equipment: Phalanx Personal Shield Generator]
+
+| Description: The Phalanx is an advanced personal shield generator capable of creating a protective barrier around the user, providing an excellent defense against both energy and physical attacks. |
+
+[Effect: Personal protection]
+
+[Availability: Locked (Military Use Only)]
+
+[Equipment: Predator Mark II Sniper Rifle]
+
+| Description: The Predator Mark II is a top-of-the-line military-grade sniper rifle, with a high-powered scope and silent operation for long-distance engagement. |
+
+[Effect: Long-range engagement]
+
+[Availability: Locked (Military Use Only)]
+
+[Equipment: Basic Survival Blaster]
+
+| Description: The Survival Blaster is a basic, lightweight energy weapon. It’s not the most powerful option, but it is reliable and has a small increase in lethality over multi-tools. |
+
+[Effect: Personal defense]
+
+[Availability: Unlocked (Civilian Use)]
+
+“Neo…I’ve already figured out the pattern here. Can you just show me the Cortex versions? In the future, don’t bother showing me locked military junk.” Talia said. She rolled her eyes when she saw the list. Cortex Inc. hadn’t even bothered to change the names…
+
+[Equipment: Cortex Legion Mark IV Personal Assault Rifle]
+
+[Credit Cost: 350]
+
+[Equipment: Cortex Phalanx Personal Shield Generator]
+
+[Credit Cost: 400]
+
+[Equipment: Cortex Predator Mark II Sniper Rifle]
+
+[Credit Cost: 400]
+
+It was exactly what she suspected. The Cortex gear was higher quality than the military stuff, again. “Neo, can you check the specifications on the Assault Rifle and make sure it can deal with something up to a Rockslasher?”
+
+She’d rather have the magazine capacity and rate of fire the PAR had, but she would live with the Sniper Rifle if it couldn’t. She hadn’t exactly had any firearms training other than her multi-tool, and sniping something wasn’t something she was sure was in her skillset.
+
+[Notice: PAR fires a projectile with 18.89 KJ of muzzle energy at a rate of 300 round per minute with negligible recoil. Multiple types of ammunition are available, and a simple armor penetrating round should easily meet User requirements.]
+
+“Okay, great. I’ll take the PAR.” She might have considered the shield generator, but she doubted it would be nearly as useful until she upgraded her suit’s capacitor and battery storage.
+
+| Cortex Inc. Credit Charge: -350 |
+
+| Cortex Inc. Credit Balance: 145 |
+
+Her credits were disappearing really fast, but it was for a good cause. Still, if she was going on a spending spree, she felt the need to be thorough.
+
+“Neo, any upgrades for my multi-tool?” Talia asked.
+
+[Upgrade: Cortex Multi-tool Advanced Cutting Module]
+
+| Description: The Advanced Cutting Module features a high powered, high-frequency oscillation technology upgrade that allows for precise and efficient cutting of even the most durable materials. This can allow User to section or divide larger objects for easier disintegration and recycling. |
+
+[Effect: Enhanced cutting capabilities]
+
+[Cost: 200 Credits]
+
+[Upgrade: Cortex Multi-tool High Precision Scanning Attachment]
+
+| Description: The High Precision Scanning Attachment allows for advanced material scanning, leading to more detailed and valuable scans. A critical tool for researching alien minerals, flora, and fauna. |
+
+[Effect: Improved scanning and resource detection]
+
+[Cost: 200 Credits]
+
+[Upgrade: Cortex Multi-tool Advanced Fabrication Interface]
+
+| Description: The Advanced Fabrication Interface improves the efficiency of the multi-tool’s fabrication capabilities, reducing time and resource requirements for making items. It increases the volume of materials that can be formed at once and decreases the cost of finishing semi-molten materials. |
+
+[Effect: More advanced, faster, and more efficient fabrication]
+
+[Cost: 150 Credits]
+
+[Upgrade: Cortex Multi-tool Extended Battery Module]
+
+| Description: The Extended Battery Module allows for longer periods of usage without requiring a recharge, improving the overall efficiency of your multi-tool. Additionally, an internal battery is present that operates at a higher efficiency than standard external rechargeable batteries. |
+
+[Effect: Enhanced battery life (Battery capacity 4x), Internal battery(4x)]
+
+[Cost: 200 Credits]
+
+[Upgrade: Cortex Multi-tool Mining Laser MK1]
+
+| Description: The Mining Laser MK1 is a basic upgrade for your multi-tool, designed to facilitate efficient mining of basic resources. |
+
+[Effect: Improved resource extraction]
+
+[Cost: 100 Credits]
+
+Talia was happy that he hadn’t shoved a list of things she couldn’t purchase. The prices on upgrading her multi-tool were cheaper than weapons, which was nice. She didn’t have many credits left, though, so her eyes fell on the Mining Laser upgrade as the only option.
+
+“Neo, it says that it improves resource extraction, but how exactly?” Talia asked.
+
+[Informative: Mining Laser MK1 upgrade improves the yield of raw minerals extracted by User’s multi-tool. The increase depends on the type of mineral being extracted, but one can expect that the yield for common metals and Durasteel yielding strata to be doubled, while more rare elements such as those used for Advanced Alloys to be increased by approximately 50%.]
+
+“Alright. We’ll take that one since it is the only one we can afford, and with the wreckage running out, we might be going digging soon.” Talia said.
+
+| Cortex Inc. Credit Charge: -100 |
+
+| Cortex Inc. Credit Balance: 45 |
+
+Okay, now she was broke. But she would have a base defense turret, a weapon, and the ability to mine resources faster. Not bad.
+
+The survival fabricator seemed to agree with her mood, because it chimed and opened up to reveal the repair cube.
+
+Talia smiled. “Great timing.”

@@ -1,0 +1,121 @@
+This is a commission! Not AI! https://tattatyar.carrd.co/
+
+The tunnel was a charnel house of blood and burnt Blues, and Talia instinctively raised the inside of her elbow despite her oxygen system being completely isolated from the rest of the environment.
+
+[Notice: MIRU units cleared this area approximately ten minutes prior. Undetected stragglers could be present within the area. Caution is advised.]
+
+She suppressed the tenseness in her chest while lowering the volume inside her helmet, but the battlefield chaos was not something she was used to. “Neo, can you try to narrow down Dapple and Dusky’s location?”
+
+[Informative: Analyzing last known trajectory and movement of companion Tch’Llik’yzz’Lrr. No current data located; however, this Unit theorizes Dapple and Dusky have begun operation to rescue their fellow spiders.]
+
+“Yeah, search around the cages. That was my guess, too,” Talia replied.
+
+The trench they had jumped into was connected to the same network. An empty, unused cage presented itself around the next bend in the earthwork. The cage was slightly narrower than the trench while sitting at the same height. She wondered if that was because the Blues enjoyed looking down on the captives, or for some other reason.
+
+The HIRU barely squeezed between the bars, and her exo-suit was only a little better. The turn past the cage broke into three different directions. Shrieking and cries from spiders filled the air ahead of them, where the cages had been set into the sides of the trench.
+
+“Shit. There are so many.” Talia boosted up to the edge of the trench and scanned the area. The smoke wasn’t getting thinner—it actually looked like it was getting worse. She wasn’t sure how anyone could breathe in it, but the ethereal green swathes of light flowing through the thick cloud killed her hopes of it suffocating the Blues. They’d deployed it, so they probably had ways to mitigate it, anyway.
+
+The grid pattern was dozens of cages deep, but as she continued to look, she spotted a faint red glow in the distance. “Neo! I think I see one of the multi-tool cutters!”
+
+[Affirmative: Light spectrum signature matches potential usage of multi-tool by Dapple or Dusky. Creating 3D maneuver map through trench works to their location.]
+
+Her HUD lit up, a guiding green line flowing through the wireframe of the trench. Placing a hand on the back of the forward HIRU caused it to begin to track through between the spider cages. The creatures weren’t happy to see them.
+
+The spiders hissed and shrieked at them, their legs jabbing through the bars in an attempt to stab at them with their pointy tips. None of them had the length to reach them, but foam and spittle falling from their rapidly clicking forelimbs was terrifying enough already.
+
+The next branch had them turning right, but almost as soon as they reached the turn, a loud explosion shook the earth. It was like a hand had grabbed her and tossed her about. Despite the strength of her exo-suit, Talia toppled over.
+
+The HIRUs were similarly affected but kept their feet. A yellow threat indicator flashed in her peripheral vision, and she barely rolled out of the way as the nearest caged spider stabbed into the dirt where her head had been a half second earlier. Both of her robots leveled their rifles at the aggressor, one of them shoving Talia out of the way.
+
+She skidded to the ground but held up her hand immediately. “Stop! It’s just scared!”
+
+The robots didn’t fire. The one that had shoved her reached down and grasped her hand and helped her back to her feet. Her guiding green line that led to where they thought Dapple and Dusky were blinked in and out as its listed probability and certainty percentages dropped.
+
+Several smaller explosions rippled through the air near the research module while she struggled with what they should do.
+
+“What was that?” Talia shouted, her voice shaking with adrenaline.
+
+[Alert: Potential Research Module breach detected. Hostile forces have deployed explosives against the structure. A retaliatory strike on hostile positions is in progress.]
+
+Her HIRUs quickly resumed their protective stances, scanning for any hostiles in the tunnels, but NEO didn’t give her much time to consider.
+
+[Notice: Rationality of rescued Tch’Llik’yzz’Lrr could pose a serious threat to User. Furthermore, Research Module contents are a priority for recovery. Dapple and Dusky have been equipped as best possible for accomplishing their mission, however User should consider refocusing to other objectives.]
+
+She took a deep breath. “You’re right. We need to save the Research Module.”
+
+[Informative: Due to a serious structural breach near the base of the Module, an intact module recovery is impossible. Recovery of the primary elements of the module should be undertaken before they can be damaged.]
+
+[Research Module Primary Components]
+
+| Computronic Research AI Module: 0/1 |
+
+| Research Module Crystalline Data Core: 0/1 |
+
+A schematic of the research module appeared, dividing the structure into three levels. The breach was in the lowest one, which thankfully didn’t house either the Computronic Module or the Data Core, but flashing red lines indicated that internal security was being tampered with.
+
+“We have telemetry on the module now?”
+
+[Affirmative: During recent explosion, a breach opened low-band communication channels to research module. Displaying status now.]
+
+[Research Module Status]
+
+| Integrity: 58% |
+
+| Power: Emergency Power Only |
+
+| Systems: Offline |
+
+| Internal Security: Compromised |
+
+| External Security Measures: Offline |
+
+“Okay, that’s expected.”
+
+[Informative: A secondary ingress point to module has been established. User presence and authorization is required to extract Data Core and Computronic Modules. Friendly units have begun to enter the module to halt enemy advance.]
+
+Talia waved the green line leading to the spiders away and turned toward the Research Module. She took a deep breath as she looked up at the looming structure’s wireframe. If they’d been able to get telemetry earlier, they’d have been able to get inside a lot easier.
+
+“Okay. Let’s go.”
+
+In the distance, friendly and hostile silhouettes appeared in green and red as her forces engaged the remaining Blues at the breach. Nothing seemed to be firing in their direction, so she pressed the HIRUs to move faster. The smoke was still thick around them, but that wasn’t an impediment.
+
+They were nearly at the secondary entrance when a trio of plasma bursts slammed into her leading HIRU. The robot was knocked off its feet, and the second HIRU grabbed her shoulder and yanked her to a halt. The flickering blue shield faded as a second burst of plasma struck the lead HIRU, leaving molten holes in its chassis.
+
+It still reached for its weapon, while the second HIRU grabbed an orb off its side and tossed it in the direction of fire. On her HUD, she watched the trajectory take the explosive to the presumed location of the enemy. There was a shocked shout as the grenade landed and then immediately exploded.
+
+[Notice: Alacrity is required. HIRU unit will provide covering fire.]
+
+Talia reached down to hold her own hand to stop it from shaking. The realization that this was all for real and how dangerous it was hit home as she stared at the HIRU that had been destroyed. She didn’t even have her rifle in her hands.
+
+She reached behind her back and pulled it out. Despite having used it before, it felt foreign in her hands. Her second HIRU patted her on the shoulder. Talia bit her lip and nodded.
+
+The robot stepped out into the trench and opened fire. The high-capacity rifle pulverized the channel, and she sprinted across the space as fast as she could. Green plasma orbs flashed through the space despite the suppression, a few of them flying over her head close enough for her suit’s heat sensors to register.
+
+[Notice: HIRU will provide delaying action. Friendly units are awaiting User arrival. Expedite mission, hostile forces are attempting to breach module’s second level. Data Core is at risk.]
+
+It wasn’t that much further to the module and their secondary entry point, and a dozen MIRU were standing waiting for her. Another HIRU was at the front, waiting to lead them into the breach.
+
+“If they are inside, why are all these units sitting outside waiting?” Talia shouted.
+
+[Notice: User escort required. LIRU units are already engaged indoors. Panther X-1 units have begun to circle the perimeter to increase pressure on entrenched infantry on the opposite side of structure during the mission.]
+
+The earth began to shake, this time without an explosion. Talia steadied herself with a free arm while scanning the wireframed horizon. There was precious little info beyond the immediate vicinity, and the shaking began to intensify.
+
+“Frack, Neo! What now?”
+
+[Unknown: A minor earthquake is in progress, analysis reveals—]
+
+There was a sudden deafening roar that quickly muted itself, but she recognized it almost immediately. It was the Giant Jungle Worm!
+
+Neo must have concluded the same thing because a massive worm, at least ten times the size of the one that had eaten her tunnel, suddenly appeared on her HUD scanner. A line appeared beside it, before her HUD listed status information on it.
+
+[Giant Jungle Worm—Large]
+
+| Estimated Height: 30 Meters (full length unknown) |
+
+| Threat Level: Extreme |
+
+Suddenly the massive creature bent halfway down, pointing its massive maw at the research module and the still unfolding battle between her drones and Blues, and let out a massive roar powerful enough to create a powerful gust of wind. Debris and anything not nailed down blew across the charred and burnt ground, shoving a huge amount of the smoke cloud away.
+
+Talia stared at it; her jaw slackened. “Frick.”

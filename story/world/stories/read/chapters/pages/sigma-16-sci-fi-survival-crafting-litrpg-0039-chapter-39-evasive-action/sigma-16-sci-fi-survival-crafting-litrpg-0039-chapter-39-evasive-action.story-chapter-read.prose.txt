@@ -1,0 +1,133 @@
+Talia couldn’t breathe because liquid was pouring into her lungs. It didn’t matter that the liquid was rich in oxygen and fully capable of carbon dioxide exchange; the surge was sudden and without warning. Her eyes felt like someone was pressing them into the back of her head as the aircraft corkscrewed violently.
+
+[Warning: Multiple Ground-to-Air launches detected. Taking evasive action.]
+
+She wanted to shout questions at Neo, but she realized her vision had narrowed into nothing; she couldn’t even see her HUD. Wasn’t even sure if the vehicle had pulled up before it had crashed into the ground. All she could see clearly were the new lines printed on the inside of her eyeball.
+
+[Mil/Op/Override: MILITARY THREAT DETECTED/VIP ENDANGERED]
+
+[Mil/Op/Override: OVERRIDING—User/NEO/Cortex/FLIGHT-OP]
+
+[Mil/Op/FL-CTRL: Evasive Action. Flares deployed. Exceeding maximum User tolerances. Increasing Vasofort cocktail to maximum dosage.]
+
+Talia felt a second stab on her side. Her vision cleared well enough to watch as a large missile on the Seeker’s main display turned toward a red burning flash of light, narrowly missing them. It exploded into a brilliant ball of fire that launched thousands of red pieces of shrapnel into the air in front of it.
+
+There was no time to dwell on what it would have done to the aircraft, because a second missile was on an intercept course.
+
+[Mil/Op/INT: Vulnerability detected.]
+
+[Mil/GOV: Does VIP Authorize retaliatory strike? Y/N?]
+
+Everything was happening too fast and too slowly at the same time. It felt hard to think. The query felt incredibly important.
+
+“Anything,” she tried to say. It came as nothing but a gurgle, but the AI seemed to understand and accept the subvocalization.
+
+[Mil/GOV: Full combat authorization request: Foxtrot Romeo Echo Mike Oscar November Tango.]
+
+[Mil/Op/INT: Wireless unit hack in-progress.]
+
+[Mil/FAC/SCHEM: Unlocked.]
+
+[Mil/FAC/FAB: Automated construction queue initiated.]
+
+[Mil/AI/SEC: An unauthorized firmware modification to User/Neo has been detected and repaired.]
+
+[Mil/AI/SEC: User agent NEO has been sanitized. Re-initializing User agent now.]
+
+Talia didn’t realize she had faded out again until consciousness slowly returned. Everything was hazy until a sudden suction inside her lungs purged whatever liquid had flooded through her system. By the time she finished gagging and coughing out the bitter tasting liquid, she realized the VTOL wasn’t jerking or maneuvering any longer.
+
+Her helmet cleaned itself as a laser somehow flashed all the moisture into vapor that was then sucked away by her atmospheric unit. She could barely recognize her voice as she croaked, “N…Neo?”
+
+[Informative: Enemy unit launching surface-to-air-missiles (SAM) has been neutralized.]
+
+“How?” Talia asked.
+
+[Notice: This unit was offline for approximately 15 minutes and 13.53 seconds. During that time, Seeker-H7 operational logs have been wiped.]
+
+Talia felt a cold chill go down her spine. Neo should not have been able to go offline. He was literally her AI manager agent! Unless the electrical signals in her brain stopped, he should have been awake even if she went unconscious.
+
+She frowned. There was a memory of a conversation she had…or had she hallucinated it while blacking out? “There was another AI. Did you activate some kind of military unit?”
+
+[Informative: A self-diagnostic subroutine has detected modifications to multiple firmware programs. Two Cortex Inc. AI units have been deleted. A root source authority would be required.]
+
+Her eyes narrowed. “I still have my GovChip. The chip Doc said the neuron bundles had grown too tightly around it and it couldn’t be removed safely. So it was just deactivated. Could it have…reactivated?”
+
+[Notice: This unit does not have Root access. No other neural chip can be detected. A visit to a licensed neural chip medical facility is suggested.]
+
+The aircraft jolted as its landing gear contacted the ground, causing her to grip her seat’s armrests tightly. She hadn’t even realized they were landing, and a sudden nausea spread through her stomach while her head throbbed painfully.
+
+[Warning: A large amount of drugs have been pushed through User system. The drawdown will require an extended period of rest, although no permanent medical effects are expected. A full User maintenance cycle within habitation module is suggested for optimum recovery.]
+
+Talia shook her head and stood up. Despite her suit’s assistance, she felt like she was going to fall over. “Fuck…what did you dose me with? I feel like the world’s worst crash is meeting the world’s worst hangover and I haven’t even woken up yet…”
+
+[Informative: The combat cocktail administered was a combination of vasopressors, painkillers, and sedatives known as Vasofort. They were used to counter the effects of high G-forces and maintain User vital functions during evasive maneuvers. This was a necessary measure to ensure your safety during the attack.]
+
+The side hatch slid open, and the ladder dropped to the ground. Climbing seemed like a waste of time, so she jumped out, her feet gouging into the soft sand below as her exosuit absorbed the impact. She headed straight toward the bootstrap module, still feeling too sick to think about everything.
+
+She was halfway there when she spotted a humanoid with a blue head carrying a crate from out of her base. Nearly ripping her PAR off her back, she raised and aimed at it. Her HUD blared a warning and highlighted the humanoid in green.
+
+[Notice: Friendly military unit detected.]
+
+Talia blinked. On closer examination through her scope, she realized he was right. The thing had a blue head that looked like the Blues, but it was obvious camouflage…or disguise. The rest of the thing’s body was a robotic skeleton of servos and joints. A set of basic body armor hid the mechanical torso, with a battle rifle slung on its back.
+
+The crate looked suspiciously like a survival fabricator.
+
+“What…why…how is it here? What’s it doing?” A sinking feeling added to the discomfort in her gut. Whatever had hijacked Neo had also hijacked her fabricator!
+
+[Informative: Unknown unit possesses a valid IFF for an Argos Military unit. A query has produced no further details.]
+
+“Wait. You can’t just tell it to idle until I figure out what to do with it?” Talia asked with concern.
+
+[Notice: This unit is a valid government / military unit of the Argos republic outside of User authority. Interference with its purpose or objective is a legal violation with severe penalties.]
+
+“It was made from our fabricator using our stuff!” Talia hissed in protest. “Show me our stockpile levels!”
+
+[Updated Bootstrap Module Resource Stock]
+
+| Durasteel: 15,956 |
+
+| Refined Silicates: 153 |
+
+| Advanced Alloy: 266 |
+
+| High-Conductive Material: 154 |
+
+| High-Energy Matter: 1 |
+
+| Fusion Cells: 22 |
+
+Talia hissed. She was too upset and sick to do the math, but it was obvious that the robot and its things had cost a lot of her remaining stocks.
+
+“Literal theft!” Talia shouted, walking toward the robot.
+
+[Notice: Military authority dictates civilian material can be conscripted and utilized as necessary for the safety and security of all Argos citizens. A transaction code of TaliaF: J5Z8F6N9U0I3 has been acquired for submission to local military bursar for reimbursement.]
+
+The robot didn’t acknowledge her or pay her any mind. Instead, it seemed intent on carrying its crate…somewhere. She just wanted to go to sleep. “Neo, seriously, what is that crate?”
+
+[Informative: Military unit is carrying a multi-use survival fabricator.]
+
+“Oh great. So, the military is going to start a self-reproducing military expedition or something? With what materials? The ones I collect for them for some promised reimbursement in the future?”
+
+Before Neo could answer, Dusky poked his head out from the ramp leading to the mining tunnel and chirped. The robot immediately halted and dropped the survival fabricator and turned to look at the spider.
+
+Talia rushed forward. Her fears were confirmed when the combat robot pulled its rifle off its back. Her hand clamped down on the weapon as the robot began to take aim and forced it down.
+
+Maybe it was the drugs, or her frustration, but when it tried to resist, she punched it in the face as hard as she could. Its weapon discharged into the sand as it fell to the ground. She went with it, her knee pinning its arm before she punched it again. This time her suit gauntlet smashed through the metal and pulverized it into shattered wreckage against the sand.
+
+[Notice: A User committed crime has occurred.]
+
+“Taker? Maker?” Dusky chirped.
+
+She tried to control her labored breathing as she looked over to the ramp. The spider had retreated backward and angled its body until only its eyes peeked out at her.
+
+“I don’t think there are any witnesses that will testify.” Talia deadpanned as she stood up. She grabbed the robot’s head and tossed it on the torso, then got a hold of the crate and corpse and began to haul them back to the bootstrap module.
+
+At least she would get most of her resources back via recycling. Having an extra fabricator at hand would be handy as well.
+
+[Notice: Destruction of evidence is also a felony level criminal activity. A record of this incident has been recorded.]
+
+“I’m not a lawyer, but even I know that User generated records are protected by the Argos constitution. No personal AI or self-produced record can be used against you in a court of law.” Talia replied.
+
+That didn’t mean the authorities didn’t use them all the time, it was just they couldn’t use them as evidence in court. “Unless you think there is a spy satellite somewhere in orbit watching us, or someone else recorded that, I think we’ll be fine.”
+
+[Informative: The likelihood of recorded observation of User activity is very low.]

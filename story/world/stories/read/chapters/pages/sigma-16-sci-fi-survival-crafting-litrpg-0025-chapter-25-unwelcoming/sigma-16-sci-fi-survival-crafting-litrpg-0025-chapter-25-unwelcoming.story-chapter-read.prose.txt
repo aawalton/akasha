@@ -1,0 +1,163 @@
+Her rifle tracked the shadow until it disappeared completely into the dense jungle foliage. The adrenaline spike sent her heart racing, but she kept her calm.
+
+[Recommendation: This unit advises User to evacuate towards base due to native fauna aggression.]
+
+“Yeah.” Talia murmured, lowering her PAR from her shoulder and moving briskly back to the stream. It wasn’t ideal from an ambush perspective, the thick growth would block her view, but her boots did fine to mitigate the slickness and it was much faster than picking her way up, under, and around the various roots and depressions that dominated the rest of the area.
+
+A rock slapped into the back of her helmet from a different direction. She spun, but there was no sign of the perpetrator. She moved into a jog, her suit’s system warning her it was nearly at the limit for terrain assistance.
+
+More rocks plinked off her suit the closer she got to her entry point and tunnel. Alarm warred with annoyance as she turned on her suit speaker and shouted at the aliens. “Hey! Knock it off!”
+
+A larger rock slammed into her back in response, threatening to knock her off-balance.
+
+[Warning: Suit integrity could be threatened by heavy impacts. No damage has so far occurred.]
+
+Alarm finally won. Talia stopped, pointed her rifle towards the canopy and pulled the trigger. A half dozen rounds sent a series of hypersonic cracks through the forest. A screech she recognized from the spider-aliens she’d encountered in the caves erupted, and she caught sight of several of them fleeing in the distance.
+
+A chill caressed her spine as she realized how many of them there were and that they had surrounded her. She wasn’t sure how well she’d be able to fight back against their claws if they all rushed her from every direction at the same time.
+
+Not wanting to find out, and taking full advantage of her warning shots, she hurried down the stream as fast as her suit could handle.
+
+The sound of her splashes and the skittering of insect legs clittering against the jungle filled the air. To her relief, the warning shots seemed to scare them off and the feeling of being hunted disappeared. She did not slow down though, and a minute later, she recognized the bend that would bring her tunnel and RSU-7S in sight.
+
+It was not the relief Talia had hoped it would be.
+
+A giant worm—that was the only thing she could think to compare it to—had lodged the end of her tunnel in its giant maws as it wriggled back and forth to move forward to swallow more of the structure implanted in the jungle’s regenerative border.
+
+A pack of dog-like creatures yapped and screeched while jumping back and forth nearby. Every so often, one of their number would rush forward to take a chunk out of the worm’s flesh. Bony spikes would lash out, sending them tumbling backward with their mouthfuls of dripping meat.
+
+A numbness filled her chest as she froze, taking in the scene. She felt the fingers of panic reach out to her, but she pushed them back. Her eyes flicked to her ATV, which was miraculously untouched, but still standing much too close to the action.
+
+“Neo. Take control of the ATV and drive it over here,” Talia ordered.
+
+[Warning: Hostile activity and rough terrain could endanger RSU-7S safety.]
+
+“Shut up. Do it.”
+
+[Affirmative: Remote piloting initiated.]
+
+The vehicle lurched forward, the automatic navigation software driving it straight toward her. It made good progress, reaching halfway to her without issue when a tire snagged a large jungle root. Her heart jumped for a second, and she thought she was going to have to try to free it when it worked itself free, then bounced over the obstacle.
+
+The noise from the thwacking root was not helpful, though.
+
+Almost all at once, the rabid dog-wolf-lizard-alien-creature-things turned their head toward the ATV, and her.
+
+One darted straight for the RSU-7S, causing Talia to raise her rifle and take aim. A three-round burst punctured the creature, obliterating the rear half of its torso into a cloud of red spray and gore. The rest of the aliens screeched and charged forward as a pack.
+
+Her HUD’s targeting overlay automatically highlighted each one as a target. She opened fire, spraying at the ones near the center of their charge. The lead one erupted into another cloud of viscera and blood. The things began to zig and zag, but she calmly switched to the next one and eliminated it as well.
+
+Three more exploded before the pack suddenly turned away and dove for cover, searching for any way to break her line of sight. The ATV made it to her position, and she let out a breath she hadn’t realized she’d been holding.
+
+If those things were whatever had been rustling the plants when she had first arrived, they’d been terrifyingly too close for comfort. The worm seemed completely preoccupied with eating her tunnel, and the dog-aliens continued their retreat.
+
+Relaxing her PAR, she pulled her multi-tool and pointed at one of the exploded dog-aliens. An error beeped as it reported that the carcass had taken too much damage. She turned it toward the worm thing.
+
+[Recorded: Alien Fauna Species #1]
+
+| Cortex Inc. Credit Value: +3525 |
+
+| Cortex Inc. Credit Balance: 3975 |
+
+That was a shockingly large amount of scan credits. Neo’s voice broke through her shock.
+
+[Informative: Cortex AI is offering an additional bounty of 5000 scan credits for acquiring a full deep scan of the alien’s physiology.]
+
+“A deep scan?” Talia echoed incredulously. “You mean kill that thing?!” She gestured towards the giant worm still gnawing on her tunnel with disbelief clear in her voice. “My PAR won’t even scratch that thing, and anything large enough to do so would probably not leave anything left to scan!”
+
+The sound of metal and rock being crushed as the worm fed filled the now relatively quiet jungle. With the dog aliens gone, things felt less hostile, but she knew that was an illusion. She couldn’t let down her guard.
+
+She grabbed the bars of her ATV and checked its status and power.
+
+[System Status]
+
+| Power Cell Status: [88%] |
+
+| Chassis Integrity: [94%] |
+
+| System Status: [All systems operational] |
+
+| Cargo Load: [0% (Max load 400 kg)] |
+
+Everything seemed fine and the RSU-7S was undamaged, but it was going to be heckin’ hard to maneuver the thing any distance through the jungle. She didn’t want to abandon it though, because it would be a long walk back to her base.
+
+And potentially dangerous. She had no idea if the worm thing would leave the jungle or be a threat. She cast one final glance over her shoulder at it. “Alright…Giant Jungle Worm,” she muttered, naming the creature for the extra ECCs.
+
+[New Species Named: ‘Giant Jungle Worm’]
+
+“Awesome. Let’s get the fuck out of here,” Talia replied. Neo continued to pilot the ATV, allowing her to keep her PAR at the ready. She dialed up her suit’s sensors to maximum sensitivity despite the false positives for movement. Periodically she’d have to handle the stuck vehicle, but her suit’s strength made that trivial.
+
+A shiver ran down her spine as she considered how much worse the encounter could have gone and how close she had come to becoming a meal—for the worm or the alien dogs, it didn’t matter.
+
+She shook off the morbid thought and focused on getting out of the jungle alive. After covering a good kilometer away from the worm, she pulled out her multi-tool and blazed a path through the jungle wall. Her HUD blinked, and her multi-tool blared warnings as she overdrove it past its normal limits. But they were through the wall in record time, and a blast of hot, dry air greeted her.
+
+Even moving that fast, the wound was already resealing itself behind her, as if the other wound had caused whatever regenerative function the foliage had to go into overdrive.
+
+She hopped on her ATV and let loose on the throttle, moving directly away from the jungle on the flats that separated it from the desert. Her suit was still set to maximum sensitivity, and a distant roar echoed through her helmet’s speakers.
+
+Her HUD camera zoomed in on where she’d placed the tunnel. The worm had finally reached the end, swallowing the entire thing. Suddenly a loud crack echoed across the terrain as it reared back, reaching an impressive height before turning and plunging into the thick foliage. Its spike lined maw consumed everything in its path.
+
+But that meant it wasn’t coming after her. “Let’s avoid apex predators from now on, Neo.”
+
+[Informative: This world seems to contain powerful and dangerous native fauna. Caution is advised during exploration expeditions.]
+
+“The tunnel was a bad idea,” Talia said. “I am thinking the worm somehow noticed the hole and went to fix it.”
+
+[Notice: This unit can not find any related theory that would support User’s thesis.]
+
+“If the jungle was engineered…whether by design or by evolution, the worm could be part of a regulating mechanism. Like the jungle wall regenerates to keep the moisture and temperature under the canopy separated from the hot desert climate.” The idea was novel and…not entirely crazy? She was on an alien planet, the first human to explore it. Why should she not consider everything?
+
+[Informative: Conjecture suggests a high level of danger on ingress and egress to jungle region. Caution is advised.]
+
+“Yeah. The worm didn’t seem interested in the other holes until one got stuck open. Hopefully, that’s all it was…” Talia said.
+
+Her dirt road was thankfully unmolested by any desert creatures, and she sped along at top speed, quickly covering the terrain all the way to her base. A welcoming icon beeped and flashed on her HUD as soon as they returned to data connection range.
+
+[Notice: No activity has been recorded by defense sensors or recon drones.]
+
+Relief filled her, and she passed around her trench line to park by the Bootstrap Module’s stairwell. She’d collected a large amount of scan credits thanks to the Jungle Worm, and she also had a collection of materials as she checked her multi-tool.
+
+[Multi-Tool]
+
+| Power Level: [35% (Batteries x2)] |
+
+| Durability: [69%] |
+
+| Tool Level: Basic, Upgraded Mining |
+
+| Total Capacity: 1100/1100 |
+
+[Contains]
+
+| Refined Silicates x33 |
+
+| Durasteel: x22 |
+
+| Raw Strata: x62 |
+
+| Advanced Alloy: x312 |
+
+| High-Energy matter: x671 |
+
+Overdriving it had drained its durability, and she’d need to check on what was needed for repairs. Actually, all her equipment had accrued some durability and integrity loss, including her suit. Repairing everything back to tip-top shape seemed like a good starting goal for tomorrow.
+
+She dumped the useless rock in a pile outside, but added altogether her resource stash was looking as flush as her 3975 Scan credits.
+
+[Bootstrap Module Stockpile]
+
+| Durasteel: 8,582 |
+
+| Refined Silicates: 1,493 |
+
+| Advanced Alloy: 942 |
+
+| High-Conductive Material: 844 |
+
+| Fusion Cells: 10 |
+
+| High-Energy Matter: 671 |
+
+She felt like rolling her neck, but her suit helmet prevented the range of motion she wanted. It was time to shower, clean up, and relax to a non-liquified survival ration.
+
+Plus…
+
+Her eyes sparkled with all the possibilities. “Neo, it’s time to go shopping. Can you make a list of everything Cortex has to offer?”

@@ -1,0 +1,201 @@
+The map the Seeker-H7 had returned with was painted as a hologram on the side of the Bootstrap Module’s hull. The blue light glowed in the dark, mixing with the ethereal blue sheen from the shield generator that now marked Sigma 16’s night inside her base. That glow would make it stick out like a sore thumb for miles, but she’d already made her choice, and changing her mind about it wasn’t possible.
+
+It was a miracle the aircraft had returned safely. She glanced over at it; the white skin was marred with black burn marks and multiple gouges where anti-aircraft flak had bathed it in deadly shrapnel. The civilian construction was still made out of Durasteel, which had resisted the lighter impacts.
+
+The same wouldn’t have been true if they had used larger munitions, but the missiles hadn’t revealed themselves, thankfully. Whether that was because they didn’t have any more SAM units available or were hesitant to use them again after what happened to the first unit, she wasn’t sure.
+
+It would be hard to tell without finding a way to interrogate whoever was in charge of the hostile forces.
+
+Talia traced a finger across the edges of the map, where the resolution had fuzzed out at the aircraft’s maximum scanner range. Three major markers were strewn in a line to the southwest, but only one of them was marked in red. The ship had apparently broken in half, while the research module had fallen far from either.
+
+It was also occupied by Blues.
+
+She flipped the projection to imagery of the scene. A dozen tanks and other armored vehicles were parked on a perimeter around the crash site. Wreckage provided cover for multiple infantry positions, which were highlighted in red; foxholes waiting to ambush whatever creatures the Blues were watching for.
+
+A large team of workers and excavators were digging away at the module’s base, where it had been half buried in the sand. The only good thing seemed to be that they had not managed to breach the hull of her module. That made sense since as the camera zoomed in, it showed they were trying to use some type of gas-powered welding torch to cut through Durasteel instead of a deconstruction laser.
+
+“How long do you think until they breach it?” Talia asked.
+
+[Informative: With their current application of welding equipment, this unit estimates 37 days until a breach is established. This, however, does not take into account the patience of the Blues attempting to make entry. A judicious usage of explosives could create a breach at any moment.]
+
+Talia grunted. They probably had not done so simply because of the fear of damaging whatever was inside. And they were right to fear that because some of the equipment in the research module was fragile. At least according to the stickers. She’d never actually used it in the field before and had only bought it as an afterthought because it was on sale with the ship.
+
+Hopefully, they wouldn’t accidentally breach the anti-matter containment and cause a catastrophic explosion, obliterating themselves and everything in vicinity. Because the module was crucial for her to develop her own modifications to her built-in list while investigating the mysteries of the jungle and spiders. Potentially, it’d provide better resources for linguistic translation, considering the revelation that the spiders didn’t just use sound to communicate, but also EM waves…somehow.
+
+As she panned through the Blues camp, her finger suddenly froze and her heart jumped. A dozen large cages were located in the shadow of the module. Tarps covered half of them, but a few had half blown off, revealing the contents. A half-dozen spiders were sitting, their legs folded up to fit inside the bars. A few of them were on their backs, looking dead.
+
+“Oh no,” Talia whispered.
+
+There was a panicked scree from behind and suddenly Dapple surged forward to paw at the hologram in a panic. The spider’s feet went through the holograph ineffectually.
+
+“I’m sorry, Dapple. We’ll try to help them,” Talia said. She wasn’t sure if the spider had really understood the image, but it was clear it understood what the spiders in the cages represented. Talia just hoped Dapple understood she would try to help.
+
+Dusky popped up out of nowhere. “Takers!”
+
+Talia jumped back and forced down a startled screech. “Don’t do that!”
+
+“Takers! Takers! Takers!” Dusky used her front legs to paw at the holograph repeatedly, clearly upset. That did make sense to Talia. She had seen the Blues attacking the spider directly before. Talia deactivated the holograph, and the spider began to calm down.
+
+“Neo, we are going to need more materials. Do you think the drones can manage the jungle operations without supervision?” Talia asked.
+
+[Notice: A minimum of two CRD-X9 units will be required for jungle operations. Utilizing heuristics and data from previous User led expedition, this unit can fabricate a specialized mission AI for automated selective harvesting of jungle trees, navigation, and dealing with local fauna contained in User bestiary.]
+
+Talia nodded. “Alright, do that. We’ll have the third drone mine Durasteel overnight as well. In the morning, we should have enough materials for another major project.”
+
+[Warning: Previous resource expedition was ambushed.]
+
+She blew a frustrated breath inside her suit helmet. “Deploy eight of the Raptors to shadow them, but don’t send them into the jungle. We don’t know how well the hover units will do in there and they make a lot of…airflow.”
+
+[Affirmative: Assigning escort duties to Raptor units.]
+
+Turning toward the stockpile module, the spiders followed her closely. That wasn’t as creepy as it had been, and she realized she was getting used to them. Maybe the feeling was mutual. Pulling out two small blocks of HEM, she offered them to Dusky and Dapple, who grasped the offered treat and gobbled it down.
+
+Giving them more snacks wasn’t the smartest thing she worried. They might get fat or the HEM might not even be healthy for them. But they had been through a lot, and she had noticed a large change in their behavior after the shield had gone up. Enough to tell that they seemed more afraid and…lonely. It was why she felt Neo’s theory on their usage of more than just sound to communicate was possibly accurate.
+
+They’d certainly stuck to each other and stayed at her side the rest of the evening. They acted more…dependent. “It’s time for bed. You two need to go to your nest.”
+
+Her suit translated, but they didn’t seem to understand. Talia led them down the ramp and coaxed them into their cave. They finally seemed to get the idea and laid down on their pebble beds.
+
+While taking off her suit in the decontamination chamber, she mulled over the fact that she had acquired two… if not pets, then something close to it.
+
+Instead of laying down right away, she took a seat at her seldom used desk. The monitor blinked to life, and she flipped through her data. Her plans after constructing the shield were tentative, and she definitely needed to change them now.
+
+The Titan Artillery turret had been slated to be her next construction, to add the ability to strike back at something attacking the base, but now she felt they needed something more mobile.
+
+Going over the landscape between her base and the Research Module crash site, it was more treacherous than she’d anticipated, with jagged cliffs and deep chasms dominating the terrain. Natural rock land bridges connected the separated areas, but some lead to dead ends. It made her immensely thankful for the aerial recon data.
+
+The chasms and cliffs slowly turned into mountainous passes and terraces until reaching a plateau where the module had come down at. On the way up, the desert slowly transmuted into black rock, before giving way to thin yellow grass and sparse trees. They wouldn’t be much cover, but the rolling hills and numerous rock gardens and boulders would.
+
+She stared at the map. “Is there any indication of what could have caused the terrain to look like this?”
+
+[Informative: Geological analysis would be required for accurate assessment, but preliminary data suggests a combination of tectonic activity and possible meteor impacts.]
+
+Whatever design she picked would need to be comfortable in a multitude of terrains.
+
+“Neo, pull up information on our available designs for mobile weapons platforms,” Talia said.
+
+[Informative: Displaying available mobile weapons platform options.]
+
+Several options appeared on her screen, each with its own list of specifications and requirements. Talia weighed the pros and cons of each design, considering how they would fit into her overall strategy.
+
+[Equipment: Panther-X1 Armored Vehicle]
+
+| Description: The Panther-X1 is an armored vehicle that offers both protection and mobility. Equipped with a 75mm railgun and advanced targeting systems. It also features heavy armor and enhanced suspension for rough terrain traversal. |
+
+[Effect: Mobile armored weapon platform]
+
+[Unlocked]
+
+* / *
+
+[Equipment: Viper-S7 Hover Tank]
+
+| Description: The Viper-S7 is a hover tank, offering high speed and maneuverability over all types of terrain. It comes with a dual plasma cannon turret and a shield system that can absorb significant damage before failing. |
+
+[Effect: Mobile hover weapon platform]
+
+[Unlocked]
+
+* / *
+
+[Equipment: Lynx-M3 Mobile Artillery]
+
+| Description: The Lynx-M3 is a mobile artillery vehicle capable of providing long-range fire support. It features a high-velocity cannon capable of firing explosive shells with pinpoint accuracy. |
+
+[Effect: Long-range mobile weapon platform]
+
+[Unlocked]
+
+* / *
+
+[Equipment: Rhino-H5 Heavy Mech]
+
+| Description: The Rhino-H5 is a heavy combat mech equipped with a powerful laser cannon and reinforced armor plating. Despite its slower speed, it makes up for it with high firepower and durability. |
+
+[Effect: High firepower mobile weapon platform]
+
+[Unlocked]
+
+Talia leaned back in her chair, taking a moment to consider the options displayed on the screen. She rubbed her forehead before speaking, “Neo, let’s go over the pros and cons of each option together.”
+
+[Informative: Commencing analysis of mobile weapons platforms.]
+
+“First up, the Panther-X1. What’s good about it?”
+
+[Positive: The Panther-X1 offers a balance of mobility and firepower with its 75mm railgun. Its heavy armor and enhanced suspension enable it to traverse rough terrain efficiently.]
+
+“And the cons?”
+
+[Negative: The Panther-X1 may have limited effectiveness against aerial threats and heavily fortified targets. Due to its heavy chassis and demanding power-train systems, power consumption might also be high during prolonged engagements if mobility is required.]
+
+She grunted. It was a fairly standard tank unit. The tech was slightly older, and the design was more rugged than the other models. But there was something to be said about the reliability of the older systems that were still seeing usage. All the bugs were worked out, and there was much less to go wrong.
+
+Talia nodded thoughtfully. “Alright. What about the Viper-S7 Hover Tank?”
+
+[Positive: The Viper-S7 boasts high speed and maneuverability across various terrains due to its hover capabilities that far surpass the capabilities of any tracked vehicle. It is also armed with a dual plasma cannon turret and a shield system for added survivability.]
+
+“The downsides?”
+
+[Negative: The Viper-S7’s hover system will require a tremendous amount of power compared to traditional systems. In addition, all its components are geared for high power consumption, including its energy shield.]
+
+She eyed the Viper’s schematic. It was a shock unit. Meant to jump into combat, apply heavy firepower, then escape before its shield or energy systems were drained. She didn’t think it would be a good choice, simply because its combat statistics listed a drain rate of nearly 100 fusion cells per minute, while its battery bank only held capacity for 75!
+
+It wasn’t like she was going to have a massive logistics supply chain behind her.
+
+“Okay, let’s move on to the Lynx-M3 Mobile Artillery.”
+
+[Positive: The Lynx-M3 provides long-range fire support with its variable velocity cannon, allowing it to engage targets from a safe distance over various types of terrain via indirect fire. It possesses impressive accuracy for an artillery vehicle, with a selection of self-correcting shells. Various payloads are available based upon mission requirements and can be programmed in the field.]
+
+“And the cons?”
+
+[Negative: The Lynx-M3 is relatively slow and less maneuverable compared to other mobile weapons platforms. It may struggle to defend itself effectively in close-quarters combat.]
+
+This one would be incredibly useful. Especially in the terrain they were going to be traveling through, having indirect fire support would be important. But it was not a good choice for the first unit. Neo was right, if it was up against hostiles on its own, it would be at a major disadvantage compared to the other units.
+
+“Lastly, the Rhino-H5 Heavy Mech.”
+
+[Positive: The Rhino-H5 is equipped with a powerful laser cannon and reinforced armor plating, making it highly effective in terms of firepower and durability. It can withstand significant damage before being disabled. Furthermore, the Rhino is equipped with mountain scaling capabilities and ability to climb up and down vertical cliff faces.]
+
+“The downsides?”
+
+[Negative: The Rhino-H5’s slower speed may limit its ability to rapidly reposition or pursue targets. It may also be more susceptible to attacks from faster, more agile opponents. The additional height of the vehicle makes it vulnerable to other armored units in most terrain if cover of suitable height cannot be located.]
+
+Talia sighed and leaned back in her chair. “Well, none of them are perfect. But we need something that can help us defend the base and rescue those spiders from the Blues.” She looked at each option, weighing their strengths and weaknesses carefully. “Neo, which option do you think would be most effective in our current situation?”
+
+[Informative: Based on the current situation and requirements, this unit suggests the Panther-X1 Armored Vehicle as the most suitable option. Its balance of mobility, firepower, and durability make it a versatile choice for both base defense and potential rescue operations. Furthermore, its construction and maintenance will have the lowest cost of all four choices.]
+
+Talia nodded, considering Neo’s recommendation. “Alright, let me see what it’ll cost us for the Panther-X1.”
+
+[Panther-X1 Resource Costs]
+
+| Durasteel: 7000 |
+
+| Refined Silicates: 2400 |
+
+| Advanced Alloys: 1300 |
+
+| High-Conductive Material: 1500 |
+
+[Panther-X1 Power Consumption]
+
+| Fusion Cell Usage (Idle): 1 per day |
+
+| Fusion Cell Usage (Active Combat, Mobile): 2 per hour |
+
+[Panther-X1 Railgun Consumption]
+
+| Durasteel: 100 |
+
+| Advanced Alloys: 25 |
+
+| High-Conductive Material: 50 |
+
+| 1 Fusion Cell per 25 rounds |
+
+Talia looked at the numbers and weighed them against their current stockpile of resources. “It’s not too bad on resources, but we’ll need to manage our fusion cell usage carefully during combat.”
+
+She shook her box of survival rations. It was getting lighter. There were other needs she had to take care of as well, other than just building up military units. She needed more resource drones as well as a potential hydroponics module to start growing food. None of which was cheap.
+
+But the Blues attempting to breach the research module and caging the spiders had to take top priority for now. Her eyes slid across the information entries for each of the units again, and a small realization hit her.
+
+“Neo, nothing stops us from building more than one type of unit.”

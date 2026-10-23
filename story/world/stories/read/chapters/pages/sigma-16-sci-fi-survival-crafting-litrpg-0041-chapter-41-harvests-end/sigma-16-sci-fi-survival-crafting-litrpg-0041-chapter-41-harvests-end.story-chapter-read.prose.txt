@@ -1,0 +1,195 @@
+Talia watched as the seventh tree crashed to the ground. She had spent the better part of the day locating the most ideal trees to cut. The glow bugs were beaten back from the trunks as the CRD-X9s’ lasers played over the material, rapidly absorbing the riches into their internal cargo containers.
+
+After every other tree, they had left the jungle as a group and deposited the materials in the resource pit she had dug. The overwhelming majority of material was Refined Silicates. It wasn’t useless, and she was sure she would need it later for something, anyway, but she needed the rare stuff, mostly.
+
+As the numbers for the seventh tree were confirmed, she realized she had enough for a trip back, finally. As the mining lasers cut off, an electric buzz filled the air. Where she’d downed the trees, the holes in the canopy had already sealed themselves. The other trees stretched to do so, just like the brush on the edge of the forest regenerated rapidly.
+
+[Notice: Elevated EM levels continue to persist. CRD-X9 #2 telemetry range has degraded to 50 meters.]
+
+“Order it to exit, then wait for us at the resource depot. We’ll follow it,” Talia instructed. Both vehicles turned and began to roll out. The path they had carved through the jungle’s undergrowth remained apparent, a slight devastation as the heavy tracks crushed and flattened whatever got in their way. Any rock that was unfortunate enough to be in the way was lasered away.
+
+The glow bugs had tried to assail them several times, but the lasers on dispersal mode had taught them to stay away. They hadn’t tried to come close after the third tree, and they had learned that lasers were not something to gather around if they wanted to survive. She wasn’t sure how they could learn so quickly.
+
+Maybe it was the higher and higher EM levels the trees were generating, causing them to change their behavior?
+
+She felt a tug at her heart as they reached the jungle edge. There had been no sign of Dusky or Dapple, and she hoped they were alright. They weren’t her pets, though. They had their own lives and were smart and intelligent, and this was their native place. If they wanted to return home, she had no right to stop them.
+
+“I hope they’re okay,” she murmured quietly. Neo remained silent, and they made the transition through the jungle's edge without her spider friends in sight.
+
+No hostile creature or attack occurred, which was a giant relief. Every transition through the border had her expecting a Giant Jungle Worm to appear again. The short jaunt to the resource pit only took a few more minutes.
+
+The vehicles unloaded their latest haul into the depot, and Talia scanned the amounts on her screen. There were tens of thousands of refined silicates, but she already knew the ratio of material she wanted to return with. She’d take all the Advanced Alloys and High-Conductives.
+
+| Refined Silicates: 3,933 |
+
+| Advanced Alloys: 8,712 |
+
+| High-Conductive Material: 7,266 |
+
+It was a good haul, although a tiny amount of space was lost to the spacers required to separate the different types of material. That wasn’t a big deal, but it did hurt her number OCD that wanted to see a big fat 20,000 of total units.
+
+The journey back to the base was also uneventful, and she found herself nodding off during the trip. The exhaustion and drop was a sudden cliff. She didn’t even realize it until a bump on the road jolted her awake. The rest of the trip back was spent forcing herself to stay awake while deciding what she wanted to build first with the material.
+
+It didn’t work very well.
+
+Neo prodded her when the CRD-X9s clicked into their cradles. The cockpit opened without her prompting.
+
+[Notice: User is experiencing sleep deprivation and exhaustion due to the effects of stress. User is recommended to take a full maintenance cycle.]
+
+It took her several seconds to realize that Neo had spoken to her. “Oh. Yeah. I should get some sleep. Can you send the drones to get more Durasteel…it should be safe for them to do a resource run.”
+
+[Affirmative: User should retire to secure compartment and take a full maintenance cycle.]
+
+She was a zombie during decontamination, and then she found her bed. Her usually murky dreams were completely absent. Several hours later, she was suffering from the dull ache of needing to use the bathroom and she finally stirred.
+
+She forced her body into a sitting position and rubbed her eyes before taking care of her business. She didn’t just want to go back to sleep, though. Even if only a few hours had passed since she had got back.
+
+“Neo, show me the full updated bootstrap stockpile screen. I want to know how much we have now,” Talia asked.
+
+[Notice: One additional resource run has been completed by CRD-X9 units. A second run was not performed due to this unit’s discretion on power savings.]
+
+“That’s fine,” she said. When the stockpile screen appeared on her datapad, her eyes were instantly drawn to the fusion cell count.
+
+[Updated Bootstrap Module Resource Stock]
+
+| Durasteel: 62,150 |
+
+| Refined Silicates: 8,600 |
+
+| Advanced Alloy: 10,102 |
+
+| High-Conductive Material: 8,477 |
+
+| High-Energy Matter: 1 |
+
+| Fusion Cells: 19 |
+
+She flipped the page to her mining drones and saw that Neo had automatically switched out their cells for fresh ones, so there was at least that. But they had burned through them awfully fast.
+
+“Neo, tell me about the Raptor Drone Defense Swarm. I’m thinking of getting it as our first major defense upgrade. I’d like to have them as an escort for our CRD-X9s when we go to collect the High-Energy Matter. I have a feeling it might be dangerous,” Talia said.
+
+Neo displayed the Cortex Raptor Drone Defense Swarm card for her to review.
+
+[Equipment: Cortex Raptor Drone Defense Swarm]
+
+| Description: The Raptor system deploys a swarm of mini drones armed with small gauss rifles. They can patrol a large area and neutralize intruders upon detection. Drones are capable of autonomous direction and act in teams of twelve. Upgrade pads are available to enable multiple teams with different patrol routes. |
+
+[Effect: Mobile defense swarm]
+
+[Cost: 4000 Scan Credits]
+
+Talia frowned as she looked at the cost. “Is there anything like this that is unlocked now that doesn’t take credits?”
+
+[Informative: User may consider using Military alternatives, which are identical in functionality but without the Cortex branding. All Military Schematics have been unlocked for User access.]
+
+“Show me the Military version,” Talia requested.
+
+Neo displayed the Military Raptor Drone Defense Swarm card:
+
+[Equipment: Military Raptor Drone Defense Swarm]
+
+| Description: The Raptor system deploys a swarm of mini drones armed with small gauss rifles. They can patrol a large area and neutralize intruders upon detection. Drones are capable of autonomous direction and act in teams of twelve. Upgrade pads are available to enable multiple teams with different patrol routes. |
+
+[Effect: Mobile defense swarm]
+
+[Cost: Free]
+
+Talia read the first card again. Then the second one. They were…identical. “Neo, did Cortex develop this and sell it to the military, or did Cortex steal the design, slap their logo on it and then have the audacity to sell it to people because the military version was ‘locked’ to civilian use?”
+
+[Notice: This Unit does not have historical data on MRDDS system. However, User’s hypothesis could be accurate, although Cortex Inc. likely purchased the required IP rights if their model was developed specifically off UFE Military technology.]
+
+Annoyance temporarily defeated her sense of exhaustion. “I don’t know why the United Federation of Earth Military would do that.”
+
+[Informative: The likely motivation for such actions comprises backroom deals and energy credits transfers.]
+
+Corruption. Of course…she’d temporarily forgotten that the world ran on bribes and kickbacks. Even her own family’s world wasn’t immune to the practice, even if she felt her father had at least done more good than harm for most people on Argos.
+
+“What’s the resource cost for the Raptor Drone module and the first twelve drones?” Talia asked.
+
+[Military Raptor Drone Defense Swarm Resource Cost Sheet]
+
+| Base Module: |
+
+| Durasteel: 20,000 |
+
+| Refined Silicates: 5,000 |
+
+| Advanced Alloy: 3,000 |
+
+| High-Conductive Material: 2,000 |
+
+She winced. It was pricey as heck, but that should have been expected. The module would include all the communication equipment and computer power required to manage the extra units.
+
+[Notice: MRDDS also has an upgradeable system for increasing drone count. Each primary module can expand with up to four upgrade pads, controlling 12 additional drones per pad.
+
+| Upgrade Pad: |
+
+| Durasteel: 4,000 |
+
+| Refined Silicates: 1,000 |
+
+| Advanced Alloy: 750 |
+
+| High-Conductive Material: 500 |
+
+Talia compared the resource cost sheet to their current resource. She had more than enough, but she would need to send the drones back to the stash of Refined Silicates near the jungle edge.
+
+[Notice: Each drone requires a single Fusion Cell for operation.]
+
+She grunted. They would have seven fusion cells left. That was getting incredibly low. Lower than she wanted, really, but since the next mission was to fetch the material needed for producing more of them…
+
+“Neo, set up the fabrication for it, please. I’m going to get some more sleep while it works. If anything happens, please wake me up and let me know. We can consider more drone pads later if needed.”
+
+[Affirmative: Adding MRDDS to fabricator queue. Additional Military protocols have enabled a timesaving measure to increase production speed. Estimated time to completion is 10 hours.]
+
+That was faster. Considering the relative size of the module and how long it had taken for the CRD-X9s, it seemed like it was almost double the speed.
+
+“Does that improvement affect everything we make or just military units?” Talia asked.
+
+[Informative: Production speed modifier has improved all fabrication efforts. A rate-limit was applied by Cortex Inc.]
+
+Her eyes narrowed. “Let me guess…they sell fabrication speed upgrades?”
+
+[Notice: Cortex AI has offered User a laddered 25-100% speed increase in return for 100 to 10,000 Cortex Scan Credits. It notes that by using modified military firmware, User has voided all warranties of the equipment.]
+
+There were no words. Talia went back to sleep.
+
+This time, there were dreams of drones chopping down trees with multi-tools en masse, an angry spider army chasing them down, and through it all, she was stuck as an observer from afar. Dusky and Dapple were suddenly there, greeting her in Terran standard, jolting her awake.
+
+“Neo, what time is it?” Talia asked. Her previous lethargy was gone. She felt fresh and energized, her heart still racing from the shock of her quickly fading dream memories.
+
+[Informative: It is approximately mid-morning, and two hours remain on fabrication of Raptor Drone Module.]
+
+Time for a quick shower, breakfast, and staking out a site for the new module.
+
+The shower was completed quickly. Breakfast was a simple affair, although she noted that her box of survival rations was shrinking. She would have to address that soon, because living on nutri-paste was not something she wanted to consider for long. It looked like she had a few weeks still before that became an issue, and avoiding being blown up had a higher urgency on the priority list.
+
+When she stepped out of the base, her gaze went to the ramp. Almost without thinking, she headed down to the bottom and inspected the cave. She knew they wouldn’t be there because Neo hadn’t notified her, but when she looked in the empty cave room, she still felt a pang of loss.
+
+The spiders had chopped up the metal wreckage somehow and fashioned a entry-way large enough for them to fit through, but sturdy enough to brace the ceiling. Inside, she found little trinkets and balls of Durasteel that had been worked over. She picked up one ball and examined it, her HUD highlighting it and referring to it as an alien artifact.
+
+She bit back a laugh, picturing a dozen spiders hammering away with their forelimbs, making ‘artifacts’ to sell as trinkets.
+
+As she turned to leave, a carving on the wall made her freeze. The art was crude. It had obviously been gouged out by one of the spider’s claws, but it was still recognizable. It was a rendition of the CRD-X9 with two spiders on top, and a vaguely looking Talia standing nearby.
+
+She reached out and brushed her hand over the artwork. She snapped a screenshot of it from her HUD for later.
+
+[Notice: The Raptor Module will require suitable housing for installation.]
+
+Talia nodded to herself and turned. There wasn’t time for worrying about her friends.
+
+Installing the module required her to clear a flat space and create a solid Durasteel base. She located an area nearby and began to dig out the sand-rock, then fill in the hole. It also needed a conduit for transferring power and energy cells, so she had to add a trench between it and the stockpile unit.
+
+[Notice: Fabrication queue has completed.]
+
+“Perfect. I’m done with this, too.”
+
+She turned and headed toward the stockpile to fetch the completed module.
+
+[Notice: Assistance will be required for deployment module transport.]
+
+A frown creased her face as the stockpile’s retrieval bay whirred, gears turning slowly with electric stress. When the massive black square that was ejected made it out, she saw why. There were steel grips for holding onto it, but when she tugged on it her suit struggled, flashing a warning before reaching maximum stress.
+
+She realized why there were a dozen handholds. It would take a dozen power suit adorned personnel to carry it. Her eyes slid over to the CRD-X9. Or maybe just one vehicle.
+
+It had a winch and lift.

@@ -1,0 +1,139 @@
+Talia felt the plan was very well made. Her units executed their movements precisely. Why the rapidly moving enemy LAV suddenly whipped around an embankment and headed directly for the crater and her command APC was unclear. It had been driving dumbly off into the distance, and they hadn’t expected it to spot anything.
+
+The moment its movement turned toward her, it was designated a threat. A Panther swiveled its turret and fired its 75mm railgun. The LAV disintegrated into a rolling ball of fire from the impact.
+
+That wasn’t the problem; the sound of the tank’s railgun was loud. Very loud and distinctive.
+
+Alerts went up all across the tactical map as confused Blues looked up in the explosion's direction, wondering what it was. There was only a small window of time before they prepared to defend themselves and figured out what was going on.
+
+Her units sprung into action early, turning and diving for the enemy positions. Things had not gone well.
+
+Talia bit back a curse as more combat losses beeped onto her HUD.
+
+| -3 LIRU Detected |
+
+[Unit Roster]
+
+| CRD-X9 (Cortex Resource Drone): 4/4 |
+
+| Raptor Drones: 23/24 |
+
+| LIRU (Light Infantry Robotic Unit): 25/30 |
+
+| MIRU (Medium Infantry Robotic Unit): 18/20 |
+
+| HIRU (Heavy Infantry Robotic Unit): 10/10 |
+
+| Panther X-1 Armored Vehicles: 6/6 |
+
+| Lynx-M3 Mobile Artillery: 2/2 |
+
+| Pegasus Armored Personnel Carrier (APC): 1/1 |
+
+| Deployable CIWS Turrets: 20/20 |
+
+The enemy had been sent reeling by the artillery strike before they had realized what was going on, though, so not everything was looking terrible.
+
+“Neo, we are losing infantry. Hit them harder!” Talia ordered.
+
+[Informative: Increasing intensity of indirect strikes would have a high chance for collateral damage of Research Module. Current combat heuristics have concluded focusing on elimination of hostile heavy equipment and armor is a priority.]
+
+She bit her lip before protesting. “But their infantry is massing near the spiders, and the research module! They could decide to break the module and kill the spiders at any minute!”
+
+Dapple whined, and both spiders looked at her with sad expressions…or was that just her imagination?
+
+[Affirmative: Risks have increased substantially due to sub-optimal positioning and execution.]
+
+“We need to get in there and start the rescue!”
+
+[Notice: While suppression of enemy armor is in progress, a high degree of risk to User exists.]
+
+Talia eyed their unit counts before replying, “Our armor seems to not be taking losses. The Pegasus is heavy armor, too. Can’t we get to them?”
+
+Instead of responding immediately, the APC’s primary screen switched to a tactical view displaying her tanks and equipment and their current movement. Infantry drones were infiltrating the outer trenches already, while several tanks had taken up hulled down positions around the hills. Red crosses showed dozens of enemy units that had been destroyed, but there were still some remaining.
+
+Most of those were concentrated around the module, where artillery shells couldn’t risk firing, and where they were in depressions that prevented the Panthers from being able to gain a line of sight to fire on. Raptors and other units continued to fire on those positions, but the rapid-fire auto-cannons required the flying drones to duck for cover.
+
+[Analysis: Hostile fire arcs calculated. Route has been plotted for most secure traversal.]
+
+Her eyes followed the route. The line zig-zagged across several small firing arcs indicated in red, but most of the path was clear.
+
+She let out a tense breath before looking back at the spiders. “Okay, let’s do it. Get ready guys, it’s going to get bumpy and then we’ll need to follow the plan. You know what to do?”
+
+Dusky and Dapple let out confirming chirps, before wiggling and turning around to face the exit hatch. It was hard for them to maneuver inside, so that was smart of them. Turning back to the vehicle controls, she took hold of the control stick.
+
+“Neo, have the HIRUs watching in the crater hop on. They’ll provide us extra protection, and I think the turrets will be enough for the Lynx for now,” Talia instructed.
+
+The icons for the three heavy robots that had stayed behind to protect them began to converge on the Pegasus’s location immediately, but Neo’s response had a whiny tone.
+
+[Notice: User driving skills have not been put to use in combat scenarios. An AI driver unit would provide superior capabilities and increase chances of successful mission.]
+
+“Listen, just because I never had a driving license doesn’t mean I can’t drive. It’s basically the same as a video game!”
+
+[Notice: User does not possess any license for driving, piloting, industrial management, starship navigation, or tactical combat analysis recognized by any governmental agency. However, this unit does.]
+
+“Yeah, but I never crashed a starship into a planet!”
+
+Her hands tightened on the joystick and they drove in silence for another minute before she let out a pained sigh. “Fine.”
+
+Talia leaned back in her seat, then released the controls. The AI immediately took over control, but it left her feeling…like baggage. Like she was useless.
+
+At the edge of the crater, the vehicle skidded on the sand to a sudden stop. Three heavy clunks on the outside of the vehicle indicated the HIRUs had clambered onto the vehicle. She glanced back at Dusky and Dapple, who chirped their readiness. The vehicle lurched back into motion; the vehicle tilting back as it began its ascent towards the plateau.
+
+With Neo in control of the APC, Talia focused on the situation on the battlefield. At several points, she redirected units to prevent stragglers from reaching the hostiles that were clumping up near the research module and spider cages. It didn’t seem like the Blues were paying any attention to the spiders, which was a relief, even if that was bound to change at any time.
+
+Her timing on when to move out proved fortuitous. By the time they crested the hill, all the enemy’s SAM launchers had been destroyed, along with all of their active armored vehicles. Raptors began to swoop down, strafing machine-gun nests and trenches. Automatic plasma guns sprayed green orbs into the sky, and she winced as several of her units went down in slagged balls of fire, but for the most part the damage was one sided.
+
+It didn’t appear the enemy had effective night vision.
+
+The moment they crested onto the plateau, they came under fire by several different infantry positions.
+
+“Cut the lights!” Talia shouted. The Pegasus went dark immediately, but stray shots still hunted for them, and the green orbs lit up everything nearby as they passed. Units immediately diverted from their tasks, making anything targeting her a priority.
+
+The danger zones that had been highlighted to avoid earlier had disappeared, so the APC zig-zagged straight toward their first goal: the spider cages.
+
+Before they reached them, a huge cloud of smoke burst out of the enemy’s primary stronghold, expanding outward rapidly. Cannisters landed randomly in a growing area around it, each one erupting to spew thick gray smoke that made everything disappear in the darkness of night. Someone on the other side had realized her visual advantage.
+
+One of her Panthers that had moved in close winked out of on her monitor, eliciting a curse. Several more LIRU and MIRU units followed it soon after as her units pushed into the enemy defenses. But half the enemy compound had been cleared, leaving just the one clump nestled up against her research module.
+
+“Neo, update me on our unit positions,” she requested urgently.
+
+[Affirmative: Updating unit positions. LIRUs are clearing outer enemy encampment. MIRUs are flanking around the base of the Research Module inside enemy trenches. HIRUs are forming a heavy breakthrough force to assist MIRUs. Panthers and Lynx are providing covering fire when possible. Raptors are awaiting targeting information and assisting based on recorded visual data for trench locations.]
+
+“Estimated remaining enemy units?” she asked.
+
+[Informative: Approximately fifty to one hundred hostile infantry remain inside uncontrolled pocket. All hostile heavy units and defensive installations have been destroyed.]
+
+Talia nodded in response, but she knew they were far from out of danger. They had taken more losses than they had planned for, and the enemy still had a lot of manpower left, even if it was suppressed. Her hopes of recovering the Research Module with no damage were quickly dwindling, but there was nothing she could do about that, yet.
+
+The vehicle swerved to the side, causing Dapple and Dusky to shriek and her to grab an overhead handhold. Light plasma fire struck the side of the vehicle, half the shots smashing into one of the HIRU’s shields. The blue light flashed against the green plasma, deflecting it away. The drone braced itself, then pushed off with its feet to chase down the straggler that had fired upon them.
+
+[Notice: Minimal damage detected. Estimated time of arrival to unloading position: fifteen seconds.]
+
+Neo repeated the message on the vehicle’s intercom for the spiders to hear, and they both tensed up in response. She started to remove her harness to get ready to join them when suddenly the vehicle pitched downward into a hidden hole. There was a flash of alarms and then the sound of shrieking metal as the vehicle jammed itself into the covered trench.
+
+“Neo!”
+
+[Warning: Undetected trench works located.]
+
+The sound of the vehicle’s electric engine roaring to maximum power joined that of dirt being kicked by spinning wheels that were failing to gain traction.
+
+[Notice: Pegasus APC has become lodged in terrain. This unit recommends immediate evacuation from the vehicle.]
+
+The hatch slid open, and the 50-degree exit angle didn’t seem to bother the spiders as much as the narrow exit. She started to tell them to go, but the words were wasted because they were already out before she could unstrap herself.
+
+Smoke filled the interior as she climbed out, but visibility didn’t improve once she leapt free. She landed with a thud, crouching with the weight of her landing. Almost immediately, two HIRUs stepped up to her, forming a sheltering wall.
+
+“Uhh. Thanks,” Talia mumbled as she got her bearings. The smoke made everything impossible to see, but her HUD switched to a wireframe showing the terrain, as well as anything that could be detected. The sounds of explosions and their directions were dutifully recreated at a tolerable level inside her suit, and danger alerts flashed with insistence.
+
+[Recommendation: Nearby trench entry should be utilized for User safety.]
+
+“Where are Dusky and Dapple?” Talia asked. A chorus of spider shrieks that had been muted filled her helmet. Wincing at the sound, she immediately muted it.
+
+[Notice: A large number of Tch’Llik’yzz’Lrr have been detected. However, locating unique members via voice recognition is impossible at this time.]
+
+An orb of plasma passed over the wrecked Pegasus, much too close for comfort. Talia bit her lip, then turned toward the trench. “Trench it is.”
+
+A HIRU moved to jump in front of her while the other crowded her from behind, both of their heavy rifle arms tracking through the thick smoke for threats.
+
+“And Neo, that’s 0 to 2 on crashing. Next time I'm driving!”

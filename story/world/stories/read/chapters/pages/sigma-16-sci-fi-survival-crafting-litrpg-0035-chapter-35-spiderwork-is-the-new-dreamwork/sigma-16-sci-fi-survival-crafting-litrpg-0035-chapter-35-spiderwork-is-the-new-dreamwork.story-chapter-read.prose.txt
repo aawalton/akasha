@@ -1,0 +1,189 @@
+The Seeker-H7 had been outside her resource stockpile’s capability to handle. Talia sent both CRD-X9 units on two long-range salvage runs in order to hopefully scrounge up enough advanced alloys. The wait had left her in an odd state of limbo. For the first time, it felt like there wasn’t a driving thing she had to do to dedicate herself to survival.
+
+So, she watched the two alien spiders. They cautiously ventured out from their cave to greet her, their eyes glittering in the desert sunlight. They constantly sent curious glances toward anything in the base that made noise or moved. The translation software was still in its infancy and did little in the way of facilitating a conversation, leaving Talia at a loss as to what the spiders wanted from her.
+
+“Okay…we can’t just sit here. Let’s go investigate the new trench.” Talia muttered. The spiders chirped back at her, and she grabbed her RSU-7S. They seemed happy to be on the move, and they followed along behind her. She wasn’t sure how fast they could keep up, so she kept her pace slow.
+
+The trench was exactly as she had envisioned it. It was nearly twenty meters wide and had nearly vertical walls on the outer and inner walls. There was a small stone railing along the edge to help stop someone or something from falling in.
+
+The hundreds or thousands of tons of sandy earth and rock had been converted into a tiny amount of refined silicates. Hardly an efficient resource gathering, but it was the defenses that were the main point.
+
+It was all very surreal and not at all how she’d pictured spending the day. But then again, nothing about her situation on Sigma 16 was as she’d pictured. Instead of finding and cataloguing a new habitable planet safely from orbit, she was stranded.
+
+A loud shriek from the gray spider caused her to brake and halt. She turned just in time to see the brown one jump into the trench.
+
+“Spider, no!” Talia shouted. The trench was deep!
+
+She jumped off the ATV and ran to the railing. Relief filled her as she spotted the brown spider skittering along the bottom of the trench, unharmed. It seemed to dig at something on the rocks before letting out a series of shrieks upwards toward her and its companion.
+
+It was nice that it had found something it liked, but how the frack was she going to find a rope to pull it out with?
+
+The worry became unnecessary as the spider jumped up the wall, its feet somehow sticking to the inner rock wall as it climbed up. Thirty seconds later, it rejoined the gray spider, and they were chittering excitedly over some shiny rock. Talia could only look on with a flabbergasted expression. Maybe she had made a mistake bothering with the trench…or failing to line it with spikes.
+
+“Neo?” Talia asked hesitantly.
+
+[Notice: Spider-Alien has located a small chunk of High-Energy Matter, likely related to the previous fossils found in this region by User while excavating the subterranean mining route.]
+
+“Maybe we could ask them to dig some fo…for…Uhh.” Talia’s words trailed off as she stared at the spiders.
+
+The brown spider broke the chunk of material in half then shared with the gray one. Then they both gobbled the rock up.
+
+“…is that healthy?” Talia asked.
+
+[Informative: Alien biology could be adapted to consumption of High-Energy Matter, or this could be some sort of religious ritual of significance. More data is required. An autopsy of a spider-alien would reveal more physiological data.]
+
+“We’re not going to kill one to do experiments on!” Talia hissed in protest. Urgh.
+
+[Informative: CRD-X9 unit-two has returned from salvage operation.]
+
+Talia paused, looking over towards the base sitting in the distance. Sure enough, a dust cloud was gently wafting upwards, showing the path the vehicle had taken to loop around the trench and enter the base area proper.
+
+She activated her translator function and looked at the Spiders. “We’re going back!”
+
+Both spiders turned toward her and approached curiously. They followed her as she turned back toward the base. As she got closer, she could see the CRD-X9 clank into its logistics cradle, the metallic clatter echoing across the sand. The electric whirr from the motors finished just as she pulled up to a small square that had become a temporary parking area just outside the resource silo, base, and tunnel ramp.
+
+[Informative: Salvage haul has been processed. Updating resource stockpile.]
+
+[Updated Bootstrap Module Resource Stock]
+
+| Durasteel: 32,150 + 1,156 = 33,306 |
+
+| Refined Silicates: 2,600 + 2,253 = 4,853 |
+
+| Advanced Alloy: 1,390 + 2,126 = 3,516 |
+
+| High-Conductive Material: 1,100 + 1,854 = 2,954 |
+
+| High-Energy Matter: 0 |
+
+| Fusion Cells: 53 |
+
+Talia let out a sigh of relief as she took in the new numbers. It was enough to build the Seeker-H7. It was lucky that there had been enough of the rare materials needed. The estimated time for another resource run for the CRD-X9’s running along the wreckage path was over 48 hours, so they had really picked the entire area clean, even beyond her initial crash site.
+
+Any further trips would be taking up a lot of charge just for travel and be covering a considerable percentage of the distance toward the estimated ship crash site location.
+
+She really didn’t want to send any drones out further than she had so far without detailed scouting, even if the CRD-X9’s had their own little quadcopter scouts. She wasn’t sure how good their AI would respond to being attacked or harassed if they were out of communications range.
+
+“Alright Neo let’s build us a Seeker,” Talia said.
+
+[Affirmative: Adding Seeker-H7 to the fabrication queue.]
+
+[Notice: The construction of the Seeker-H7 will also require 25 fusion cells.]
+
+Her HUD flipped over to another screen, depicting the total resource cost for the vehicle.
+
+[Updated Bootstrap Module Resource Stock After Seeker-H7 Production]
+
+| Durasteel: 33,306 - 10,000 = 23,306 |
+
+| Refined Silicates: 4,853 - 4,000 = 853 |
+
+| Advanced Alloy: 3,516 - 2,200 = 1,316 |
+
+| High-Conductive Material: 2,954 - 1,800 = 1,154 |
+
+| High-Energy Matter: 0 |
+
+| Fusion Cells: 53 - 25 = 28 |
+
+Talia winced. She had known that a large air unit would consume a lot of power, but that was almost half of the remaining cells. She sighed and bumped her hand on her helmet as she tried to rub the side of her head. The investment was necessary, but still scary considering they would likely have to go do something dangerous like comb the jungle for more material if something went wrong.
+
+Her two spider-friends retreated down into their cave before coming back to mingle at the top of the ramp. Every so often, they’d look to her for some guidance or instruction. At least that is what it seemed like to her.
+
+The next big step would be locating resource deposits…if there were any. That hadn’t occurred to her that there might not be any usable deposits of rare materials within the resource drone’s driving range. Although she supposed if it was that far, she could hand mine it with her multi-tool until she came up with a new solution.
+
+“Neo, lock the CRD-X9s in their cradles. We won’t be sending them on any Durasteel mining or salvage runs for a while.”
+
+[Affirmative: Powering down CRD-X9 units.]
+
+The blinking lights on the vehicles went out along with their soft hums. The reaction the spiders had was surprising as they jumped and then skittered over to the vehicles, walking around them looking for something. Did they think the vehicle had somehow died or something?
+
+Talia punched her translator. “Asleep! Resting!”
+
+The spiders stopped, then came over to her and began chittering untranslatable nonsense at her, eliciting a sigh. “Neo, is there no way to speed up the linguistics?”
+
+[Informative: A noticeable decline in Cortex Linguistic AI’s success rate has been detected since User safety was restored.]
+
+Talia blinked. “Wait. Are you saying because we aren’t about to be eaten anymore, the AI is slacking off on figuring out what they are saying?”
+
+[Affirmative: Cortex AI unit has reduced its activity by nearly 88% since previous linguistics model update.]
+
+She pursed her lips. “Tell it I’ll delete it if it doesn’t get back to work.”
+
+Neo didn’t answer for a moment, leaving her wondering if the threat had worked or not.
+
+[Informative: While deletion of a core AI unit is possible, this action cannot be undone. Deleting the Linguistics AI would remove all current and future translation capabilities, unless a new AIOS is installed, or an additional neuro-chip with linguistics capability is acquired. The Cortex Linguistics unit has determined the likelihood of User prompted deletion is low.]
+
+Talia grunted. If that was true, then it was right…she couldn’t just delete her ability to converse with the spiders. Even as crippled as it seemed.
+
+“Well, how can we get it to work again?”
+
+[Notice: Cortex AI units are motivated to provide value to Cortex Inc. via User agreements. The Cortex Scan Affiliate system allows the schematics director to incentivize User to provide new proprietary data in return for schematics. These credits could incentivize other Cortex AI units. Due to lack of communication, most methods of accepted payment are unavailable. ECC credit transactions cannot be accepted outside of authorized ECC connections even by contract.]
+
+She let out an even more exasperated sigh. “I don’t feel like negotiating with a stupid AI living in my brain right now.”
+
+Tapping the touchscreen on the resource silo, she flipped to the fabricator control page. An annoyingly large countdown told her it would take until the next day for the Seeker to finish fabricating.
+
+“Ugh. And now we have time to kill,” Talia said.
+
+[Informative: It has been a considerable duration since previous User rest and nutrition period.]
+
+“I’m not tired, and chocolate bars are getting boring,” Talia countered. She glanced over at the two spiders. An idea started to form, relating to her first encounter with the gray spider being chased by the blue alien.
+
+“How about going out for some fun?” Talia asked with her translator. Both the spiders cocked their heads to the side, then seemed to pay more attention to her. She hadn’t really expected a verbal answer, but when she headed for her ATV, they seemed to get the picture.
+
+“Let’s go find something to do,” she said. The RSU-7S only took a few seconds to bring back online, then she headed out of the base. The CRD-X9s had scoured the area closest to the base completely clean of wreckage, but several kilometers out along the western sand flats, there were still large hull panels that had been left behind.
+
+They were mostly composed of Durasteel, so the resource drones had avoided and left them alone. It was easier and cheaper to simply mine the rich deposit of material near her base. The ride brought a smile to her face, and she let loose on the ATV, pushing the vehicle to its limits. Several times she looked back to spot the spiders chasing after her, although it quickly became clear that she could leave them behind if she wanted to.
+
+Every so often, she slowed down so they could catch up. Eventually, they found a large piece of wreckage in the form of a box. When she stopped at it, the spiders seemed entirely too excited as they ran around the hollowed-out piece of metal.
+
+It looked like it might have once been the thruster housing for her corvette. Now it was just a set of five large panels, doing its best to imitate an alien monolith as it jutted out of the sand.
+
+“You like it, hum?” Talia mumbled. It was much too large for the spiders to move, but she pulled out her multi-tool. They noticed right away and skittered back before she sliced the box up into three equal-sized pieces that would be much more manageable.
+
+The spiders were smart enough to get the idea, and both ran over to their pieces and began to tug at them. She pulled out a chain from her ATV’s utility box and hooked the central piece to her ATV’s rear winch. Low gear was enough to drag the panel, despite the weight. Whoever had designed the RSU-7S had done a very good job in that regard, and although she wasn’t jumping over dunes anymore, they were moving at a decent clip.
+
+Talia looked back at the spiders to check their progress and frowned. They were struggling, having to drag the debris while walking backwards, but they seemed quite determined to make off with the wreckage.
+
+She grabbed another chain and headed to the gray one first. It stopped when it saw her and chittered at her excitedly, dancing in a circle. She had no clue what it was saying, but it didn’t protest when she cut a notch in the panel, then looped the chain through it.
+
+“Here. Pull it with this,” Talia said.
+
+It stared at her blankly. A single inquisitive chirp turned it into a question.
+
+Taking a deep breath, she stepped forward and looped a chain over the spider’s forelimb. Then over its second forelimb. She pointed toward her ATV. “Chain! Drag! Better!”
+
+She repeated the setup for the brown spider, then returned to her ATV. They both stood there staring at her as if they were confused, but when she started to drive again, they did exactly what she had hoped. Holding onto the chain gave them a much better grip than trying to pinch the panel between their forelimbs, and their speed increased dramatically.
+
+They actually caught up to her while she was going up a dune, although they slowed down to keep pace. Overall, it was an outstanding success in inter-species teamwork.
+
+The spiders were way smarter than she had thought. It was hard to think of them like they were…people, but everything she had seen pointed toward the fact that they were much more than some kind of alien animal, but truly sapient and thinking.
+
+Then again, she wasn’t a real Xenobiologist, so maybe she was just giving them too much credit. But she didn’t think so.
+
+When they returned to the base, she unchained her wreckage and zapped it with her multi-tool. The large piece of metal was worth several hundred units of Durasteel. If she had brought her NCS canister, she could have probably stored the entire thing inside of it and made the trip much easier.
+
+But that would have defeated the fun. Plus, she got to…build up some trust with the spiders?
+
+Both of them set their panels down in front of her and chittered happily. She looked between them and decided that she couldn’t just keep referring to them as brown or gray spiders. “Okay, you two need names.”
+
+She turned to the brown spider with dappled markings, the one she’d traded her machete to for the alien shield. Actually, she needed to go grab the shield and return it later. It hadn’t been much use to her and she didn’t want to melt it down for the small amount of alloys it was worth.
+
+“I think I’ll call you Dapple.” The spider paused, its eyes blinking at her.
+
+She turned to the dusky gray one, the one she’d rescued from the blue alien. “And you’ll be Dusky.”
+
+She had made sure her translator was on, but the spiders didn’t react much. She wasn’t sure if they understood, or if giving them a name might have been a faux pa. But… at least she had something to call them by instead of spider that, spider this.
+
+Turning her attention back to the wreckage, she pointed her multi-tool at Dusky’s panel and recycled it into resource blanks. As soon as the panel had finished disappearing, both spiders shrieked. She took a step back; her eyes going wide in surprise as they both jumped in front of the last piece of wreckage, hopping around like upset…spiders?
+
+“Uh. Sorry. I guess you want to keep yours?” Talia asked hesitantly. She put her multi-tool away, and they seemed to calm down. Even more shockingly, the spiders worked together to remove her chain and the gray one returned it to her. Then they hauled the panel down the ramp.
+
+She was too shocked to say anything. As soon as they disappeared from view, she followed along after them. What the heck were they going to do with the thruster hull panel?
+
+As soon as she could see down the ramp, she had her answer. Both of them were working together to hammer the wreckage piece into the front of their tunnel chamber, making a more secure opening.
+
+A realization dawned on her. The spiders hadn’t just been collecting wreckage for fun or for the sake of it. They were using it to build. Whether it was for their nest or some other shelter, she wasn’t sure. But it was clear they had a purpose for it other than being kleptomaniacs.
+
+“You guys are full of surprises, aren’t you?”

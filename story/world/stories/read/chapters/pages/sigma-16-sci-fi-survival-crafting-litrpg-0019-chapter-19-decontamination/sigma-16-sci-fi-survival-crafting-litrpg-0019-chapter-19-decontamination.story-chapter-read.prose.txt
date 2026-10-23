@@ -1,0 +1,107 @@
+Talia woke to a stiff body and dry mouth. She’d been too tired to eat one of her survival rations before falling asleep, and she regretted it now. Her stomach was empty, and her throat felt like sandpaper. Her exosuit had gone into power-saving mode while she slept, and the internal temperature was slightly chilly. It was still well above freezing, but a chill had settled deep in her bones.
+
+And she couldn’t rub her arms or do anything about it with her suit on. Her suit’s HUD indicated she’d slept for nearly ten hours straight. Not the longest sleep she had since crashing, but she certainly felt the worst she had since landing.
+
+“Water,” she croaked. A tube extended for her to suck on and despite being lukewarm from her body temperature, the water tasted amazing to her parched tongue.
+
+Stretching out her limbs, she did her best to gather herself before standing up. She glanced around the compartment. She was shut in the lowest level of the Bootstrap Module, and the failure of the night before to make it habitable hit her like a hammer.
+
+The dull red lighting needed correcting as well. She was tiring of the constant monochromatic hue inside.
+
+Why did manufacturers have to insist on the military red emergency lights? What was wrong with normal white lighting?
+
+[Informative: User nutritional needs are currently not met.]
+
+“Alright, first things first…breakfast.” Talia replied as she stepped over to where she’d left the box of emergency rations. A few taps on her wrist opened up her bracer and a single bar went into the slot. Her drinking tube suddenly gained flavor, although it was the annoyingly off Cortex chocolate.
+
+“Neo,” she began after swallowing a mouthful of the survival drink. “What do we need for the bio-decontamination module?”
+
+[Informative: The following resources are required for constructing a suitable decontamination unit.]
+
+[Bio-Decontamination Chamber]
+
+| Durasteel: 150 |
+
+| Refined Silicates: 100 |
+
+| Advanced Alloys: 50 |
+
+| High-Conductive Material: 40 |
+
+[Notice: The space adjoining proposed habitation module and fabrication module would be required to be cleared and outfitted for conversion before Bio-Decontamination Chamber could be installed. This would require manual labor and approximately six standard batteries worth of charge from User multi-tool.]
+
+“That’s… doable.” Talia nodded slowly as she looked at the list—it wasn’t as much as what they needed for fixing the fabricator, but it was still quite a bit considering how much they had, despite all the time she had spent gathering the day before. And the amount of nearby wreckage wasn’t unlimited. The advanced resources needed were particularly annoying and would set back repairing the fabricator, too.
+
+But at this point, she’d do anything to get out of her suit and clean up.
+
+With breakfast taken care of and her plans made, she set about sorting out the details. Resource blanks got shoved in the fabricator. Neo directed her on ‘refurbishment’ and clearing out the hallway between the compartments. Multiple doorframes went up, and she carefully hauled over the parts made by the survival fab and deployed them one by one.
+
+Soon enough, a small airlock began to take form, with a locker for storing her suit when it would not be in use. Hoses and tank attachments were required, and a chemical mixer was required that would spray down the entire chamber each time she entered from the ‘dirty’ side with her suit.
+
+Once the airlock was built, and she had built the few pieces of the room that she knew she’d need right away, a manual decontamination process of the chamber was required. It took several hours, specialized radiation devices, depressurization, pressurization with some type of toxic mist, and the removal and inspection of every single object in the room. No nook or cranny was spared.
+
+She was lucky when her survival rations turned out to be savable simply by decontaminating their outer surface. As much as she liked to accuse Cortex 31 for all her ills, at least the packaging had been solid enough to protect the contents and she would not starve to death.
+
+There was little else that was precious to her in the compartment, so she did the most expedient thing: turned most of it into resources with her multi-tool while tossing the rest into one of the other spaces for later use.
+
+The process took so long that she missed another sunrise, but after most of the morning had passed, Neo confirmed the chamber was ready for final decontamination. The various sensors she’d installed reported everything was clean, and the suit cleaning chamber that acted as an airlock was fully installed and ready to spray her with who-knew-what.
+
+That procedure wasn’t simple and would have to be repeated every time she wanted to enter the habitat space. Anything she brought inside would have to go through a decontamination sequence as well. It made her feel like it was all a little overkill, but when she complained, Neo started playing back videos on exactly what alien viruses could do to a person.
+
+Talia had no desire to die in agony as her organs melted into sludge, so she gave all her attention to the process.
+
+[Notice: It is now safe to remove suit seal.]
+
+She took a deep breath. Hesitation stilled her hand for a moment.
+
+Slowly, the thought that there was no way she could live the rest of her life in her suit solidified in her mind. She gave the command on her helmet to unlatch.
+
+Heavy bolts around her neck clanked heavily, then she reached up and pulled it off. The sterile air from the module’s tanks didn’t taste or smell much different from what she had been accustomed to inside her suit, but the sudden freedom to touch her face caused her to bonk herself on the forehead.
+
+“Ouch.”
+
+[Warning: Until full suit removal is complete, this unit suggests avoiding touching oneself as injury could occur due to excessive strength.]
+
+“Yeah, I got that.”
+
+With the helmet off, she could reach the latches that held her suit’s torso closed. When she undid them, the suit’s lower part went rigid and then she stepped out of it. The tubing attached to her came out as well, and she held her nose at the stink. All of it went into a container for the system’s wash and autoclave unit for processing.
+
+She stepped out of the suit, then immediately peeled off her skinsuit. Standing out in the air in nothing but her birthday suit had never felt so good.
+
+Neo’s voice came from a wall speaker filling the room. It was strange not coming from her helmet.
+
+[Notice: Exosuit removal has been successful.]
+
+She didn’t need Neo to tell her that. For a moment, all Talia could do was stand there in shock; relief washing over her like a wave. Tossing concern about what would happen if she’d made any mistake aside, she bee-lined for the small shower space she’d installed earlier.
+
+Water heated by the module’s residual heat washed down on her head and she combed the greasy feeling out of her hair with a small bar of fabricated soap. She scrubbed every inch of skin until she was satisfied.
+
+[Warning: Excessive grooming can lead to skin irritation.]
+
+“You try staying in a suit for a week.” Talia shot back.
+
+[Notice: Duration of User suit wear did not amount to a full standard week. Class 1 Exosuits are rated for several months of continuous use before severe health complications can arise.]
+
+“I don’t think you're including psychological health in those calculations.” Talia shook her head. Water dripped off of her and onto the floor and down the drain. She’d forgotten to fabricate a towel.
+
+“Can we increase the airflow? I need to dry off.” Talia asked as she moved in front of a vent. A blast of dry air solved the issue, and then she unpacked a skinsuit that was still fresh from its packaging. She was lucky that basic things weren’t locked behind Cortex credits or some other absurd corporate profit scheme.
+
+The synthetic mat she’d made for sleeping on was almost too firm, but the ability to stretch out her limbs as far as she could was wonderful freedom. “Neo? I’m going to take a nap.”
+
+[Notice: A multitude of User tasks remain unfulfilled.]
+
+“It takes thirty minutes to get inside. Give me some time to relax.” Talia complained. Neo didn’t push, so she closed her eyes and drifted.
+
+Talia smiled and laughed with her classmates over a stupid joke. She’d declared that there was no way she’d be following in her father’s footsteps as CEO of Fremont Enterprises.
+
+Instead, she’d become a frontier rush explorer, and unveil the most compelling discoveries mankind had never yet seen. She’d discover the secret of the few aliens that had stumbled upon earthlings and warned them of the dangers lurking throughout the galaxy.
+
+Her smile faltered. Her laughter joined theirs a little too enthusiastically. The smile was one she’d learned to use over years of needing to present a believable façade.
+
+A sudden gunshot filled the classroom. Another girl screamed while other students rushed to the windows. The gunfire intensified and suddenly the windows blew inward, hurtling thousands of glass shards straight at her…
+
+Talia jerked up into a sitting position. The sound of automatic gunfire continued, but it was muffled and distant. Outside.
+
+A resounding gong echoed through the compartment, and the floor shifted slightly under her feet as she jumped up. She ran for the decontamination chamber to pull on her suit.
+
+“Neo! What is going on!” Talia shouted.

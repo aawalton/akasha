@@ -1,0 +1,253 @@
+Talia let out a deep breath, the morning air bringing a bare hint of rare humidity for the desert landscape. The sun rose slowly over the horizon, turning the color of the sand and rocks into various shades of yellow and brown while tinging the sky a mix of lavenders and pinks. She ran her fingers over the surface of her new Legion MKIV PAR.
+
+She loaded one of her rapidly dwindling fusion cells into the weapon before slapping in one of the ninety round armor piercing magazines she’d printed. The bullets were cheap, but the power cell was not, and she’d need to consider working on a production run of them, later.
+
+For now, though, she wanted to test out her rifle. As she inspected it, the weapon highlighted green on her HUD, and its full status and specification sheet appeared.
+
+[Status]
+
+| Legion Mark IV Personal Assault Rifle |
+
+| Weapon AI: Standard Cortex Interface |
+
+| Weapon Health: [100% (Brand New)] |
+
+| Power Source: [Fusion Cell (100% Charge)] |
+
+| Ammunition Capacity: [100% (90)] |
+
+| Weapon Upgrades: [Exosuit Integration Subsystem] |
+
+| Ammunition: [Armor Penetrating Rounds] |
+
+/ * /
+
+[Weapon Specifications]
+
+| Manufacturer: [Cortex Inc.] |
+
+| Model: [Legion Mark IV] |
+
+| Type: [Personal Assault Rifle (PAR)] |
+
+| Weight: [45 kg (Fully Loaded with Armor Penetrating Rounds)] |
+
+| Ammo Capacity: [Variable – Accepts Standard Magazine Sizes)] |
+
+| Max Firing Rate: [300 Rounds/Minute] |
+
+| Recoil: [Negligible] |
+
+| Muzzle Energy: [18.89 Kilojoules (AP Rounds)] |
+
+| Effective Range: [2000 Meters] |
+
+| Endurance: [Dependent on power cell condition and firing conditions] |
+
+/ * /
+
+[Weapon Status]
+
+| Power Cell Status: [100%] |
+
+| System Status: [All systems operational] |
+
+| Ammo Load: [100% (90 AP)] |
+
+Satisfied with everything, Talia lifted the weapon up to shoulder level. There was no need to align her eyeball with the scope. Her HUD did that for her. What the system couldn’t do was zero in the weapon for her without some test firing.
+
+The zoom function was more powerful than her suit’s best camera, though. As she zoomed in on a rock that was over a kilometer away, it turned into a sharp, up-close image.
+
+[Notice: During weapon calibration please remain in the same position.]
+
+“Got it.” Talia replied absently, focusing on the system messages the weapon was sending her. Everything seemed ready for the calibration, and she pulled the trigger. The weapon didn’t jerk, but she did as the hypersonic crack filled the air and felt like it was right beside her head despite the sound muffling of her helmet.
+
+She wanted to rub her ears and dialed her suit’s auto-muffle setting to a higher level. “Frick, that’s loud!”
+
+[Notice: User movement requires a restart of weapon calibration.]
+
+She looked at the rock she had targeted. It was still there, being as rocky as ever. A small plume of dust and sand was slowly settling back onto the ground, proving she’d missed.
+
+‘Personal Assault Rifle’ her ass; whatever they wanted to call it, the rifle’s projectile had a lot of oomph behind it.
+
+“Let’s try again.” Talia said.
+
+A second shot buried itself into the sand near her target. This time she remained still, her exo-skeleton absorbing the entire force of the recoil without her jerking it away. The rock didn’t even leave the scope’s reticule. If she was back home playing FPS games, they’d call her a cheater.
+
+The third shot caused the rock to erupt into a geyser of shards.
+
+[Informative: Weapon calibration complete. Please note that while this weapon system will self-adjust during use to maintain calibration, any duration longer than fourteen days will require a manual recalibration due to magnetic drift inside the weapon’s firing mechanism.]
+
+“Got it. Use it or lose it, faster than a missed day at the gym,” Talia quipped.
+
+Moving her aim to a much larger boulder that was half buried in the side of a hill, she pulled down the trigger and kept it pulled down. Even the muffling system couldn’t hide the thrum from the weapon. After a few seconds, the target was cloaked behind a cloud of debris.
+
+She didn’t release the trigger, though, watching as the digital ammo counter rapidly ticked down to zero. Unloading the magazine completely, she ejected it before sliding it into a pouch on her suit. A fresh one appeared from her belt and she clicked it into place.
+
+A flashing indicator reported the weapon’s status.
+
+[Weapon Status]
+
+| Power Cell Status: [98%] |
+
+| System Status: [All systems operational] |
+
+| Ammo Load: [100% (90 AP)] |
+
+One fusion cell would propel fifty magazines. That was better than she’d expected, and she could hardly envision going through that much ammo any time soon.
+
+[Notice: User safety has increased by 27% due to acquisition of personal defense equipment.]
+
+“Those numbers. Do you just make them up on the spot?” Talia asked.
+
+Neo didn’t answer, not that she expected him to. He was getting very good at sneaking off or changing the subject. Sometimes she wondered just what the digital landscape he lived in was like. Surely living inside her head wasn’t easy.
+
+“Okay, now that the PAR is good, let’s get the turret set up. Did it finish fabricating?” Talia asked.
+
+[Affirmative: Cortex Vanguard ADS fabrication completed during PAR calibration.]
+
+“Great.” Now she needed to decide where to place it. The weapon would need a good view of the surrounding area. She settled on the default of placing it atop the Bootstrap Module itself, which would satisfy all of her conditions. Neo checked the stress limits of the hull and confirmed that it would support the weapon and its recoil.
+
+She fetched several resource hexagons of Durasteel and began to build a platform on the roof of the bootstrap module. The platform formed quickly. She made it wider at the base, ensuring that the construction was welded to the underlying structure.
+
+It rose and tapered off into a flat square about half the width of the base. She’d only seen the icon of the turret, but she hoped that the extra elevation would allow the weapon to depress lower and get better angles than without it. The turret wouldn’t help much if something just ran up underneath the gun and it couldn’t target anymore.
+
+That would always be a risk, at least until she could build more turrets.
+
+Once the solid foundation was placed, she ran her multi-tool’s finishing tool over it. No point in waiting. While the battery cost was more expensive, it wasn’t like she was in the field and her small folding panel array was enough to keep up still.
+
+All that was left was to fetch the turret module from the fabricator and deploy it. When the green overlay appeared for her to confirm placement, she was shocked.
+
+“I thought you did calculations. How the fuck is this thing not going to rip the roof off when it fires?” Talia asked.
+
+[Notice: Recoil on Cortex Vanguard ADS is considered low for a defensive installation. It possesses a relatively low caliber projectile and utilizes advanced recoil absorption rails to ensure accurate, rapid fire.
+
+“Neo…we’re going to need a bigger platform,” she muttered while studying the projected holographic model.
+
+[Informative: Additional structural support could improve ADS system stability.]
+
+Talia fetched more Durasteel resource blanks and doubled the size of the foundation she had made. She didn’t dare make it any taller, though, so it grew in width.
+
+It was already tall enough, and she knew that making it taller could end up causing the structure to become top heavy. Causing the entire module to shift and roll over would be Bad with a capital B.
+
+A disaster which would be multiplied in severity if she was still inside.
+
+Satisfied with her modifications, she stepped back and initiated the deployment of the cube. It was the same light show that her RSU-7S had been produced with, except on a much larger scale.
+
+She shook her head and couldn’t help but comment. “Laser printing is really convenient.”
+
+The deployment cube was integrated into the construction itself since the turret was not mobile, so she didn’t have any recycling to do. The entire process took about twenty minutes, and then she had a large, fully built advanced piece of ‘non-military’ technology ready to defend the base.
+
+She patched her suit into the system and brought up the aiming sight. It was almost the same as her PAR, except the aiming point was a red holographic sphere instead of a point. Talia frowned. “Is it that inaccurate?”
+
+[Notice: The red location indicator displays the likely area of destruction of any firing. The Cortex Vanguard fires at a rate of 2400 rpm and has a minimum volley size of 24 rounds.]
+
+“Oh. Okay. So everything in red gets splattered.” Talia said.
+
+She’d set her sentinel to be very kind and warn any intruders. She didn’t want to murder anything that came within two kilometers, so she set it to only murder them within one kilometer. Before that, they’d get a warning shot burst.
+
+It was time to test fire it. A low electric hum emanated from the turret as it rotated to face the previous rock target. The massive boulder had a deep gouge drilled into it by her early test firing, and she decided to finish it off.
+
+The pressure from the firing was enough that she could feel it press her suit against her, causing her suit’s kinetic gel to stiffen slightly. The boulder disappeared into a massive cloud.
+
+“Okay… I think we’re good on firepower,” she muttered under her breath. It was clearly enough to deal with a Rockslasher, although she was worried that there wouldn’t be any resources left to recycle if one was on the receiving end of the turret. Still, it was better that her defenses were thorough.
+
+She checked the weapon’s status screen before activating its automated system.
+
+[Status]
+
+| Cortex Vanguard Automated Defense System |
+
+| Defense AI: Standard Cortex Interface |
+
+| System Health: [100% (Brand New)] |
+
+| Power Source: [Bootstrap Extended Battery Bank) (52% Charge)] |
+
+| Ammunition Capacity: [200,000 AP rounds - 100% (Fully Loaded)] |
+
+| System Upgrades: [Advanced Recoil Absorption Rails] |
+
+| Ammunition: [AP Rapid-Fire Rounds] |
+
+/ * /
+
+[System Specifications]
+
+| Manufacturer: [Cortex Inc.] |
+
+| Model: [Vanguard ADS] |
+
+| Type: [Automated Defense System] |
+
+| Weight: [Substantial (Built into bootstrap module)] |
+
+| Ammo Capacity: [High Capacity] |
+
+| Max Firing Rate: [2400 Rounds/Minute] |
+
+| Recoil: [Low (Absorbed by Advanced Recoil Absorption Rails)] |
+
+| Effective Range: [2km Warning Range, 1km Lethal Range] |
+
+| Endurance: [Dependent on power cell condition and firing conditions] |
+
+/ * /
+
+[Cortex Vanguard ADS Status]
+
+| Power Cell Status: [100%] |
+
+| System Status: [All systems operational] |
+
+| Ammo Load: [199,976 AP rounds - 99.99% (Magazine Locked)] |
+
+She stepped back as the turret began a slow swivel around its base. A small smile creased her lips. She’d achieved both her primary goals for the day, and it was only around noon. Looking out over the landscape from her perch on top of the Bootstrap Module, she decided that there was another addition she could do, and it would double as resource acquisition.
+
+She carefully maneuvered her ATV down her makeshift staircase. She really should have made it a ramp, but she’d work on streamlining that later. It was time to go digging.
+
+She brought up a top-down view of the area around the base on her HUD, then drew a line through the terrain, creating a rectangular perimeter. The designation was repeated as a transparent overlay in her normal view, and she got to work using her multi-tool’s new mining mode. The laser was much more efficient at digging the soft sand and did well with the rocks as well.
+
+It also was able to reach out effectively up to ten meters, so that was the width of the trench she went with. She covered almost 500 meters of the perimeter before her NCS canister reported full, although she had very little of anything other than dirt. It was a lot of dirt, though.
+
+She worked her way around to the other side and hardened the inner wall of the trench, lining it with hardened bricks from what she had dug out. A meter high wall went along the edge as well, although she kept it relatively thin. She didn’t want it capable of blocking any of her Vanguard’s rounds, or even anything her PAR could send out. She added some earthen spikes at the bottom for good measure, although she was unsure that they’d be effective.
+
+As she worked on the trench, she also worked on the terrain between it and the base, leveling anything uneven with the material she had available and removing obstructions and loose rocks. She didn’t bother flattening it out in painstaking detail. That would have taken too long, but it was good enough to tame the previously wild terrain. At the very least, anything around wouldn’t have any cover to hide behind if targeted from the Bootstrap Module.
+
+She completed the trench by the end of the day, while leaving a single twenty-meter-wide area that was well within the turret’s aiming arc. One side of the base had a hill that would cause issues, and limited the defensive range, but it was the best she could do unless she had some giant earth moving equipment.
+
+Actually, she probably could have handled it with her multi-tool in a few days, but she had other priorities to take care of first.
+
+She needed new suit upgrades. That meant she needed to earn more Cortex Scan credits. The stupid bastards sure did know how to motivate her to leave her growing nest of safety. She actually enjoyed scanning new things, and she certainly needed new gear and equipment.
+
+As night fell over the newly fortified outpost, Talia took one last look at her handiwork before heading inside.
+
+“Neo, let’s get things ready for an expedition tomorrow.”
+
+[Affirmative: Reporting User status summary.]
+
+[Status]
+
+| Suit AI, NEO: Level 1 |
+
+| Health: [95% (Improved User living area has led to more efficient resting periods.)] |
+
+| Oxygen Level: [0% (Switched to atmospheric filtration)] |
+
+| Suit Power Level: [98%, [Batteries (x4)]] |
+
+| Hazard Protection: [100%] |
+
+| Nutri-Paste Reserve: [100%] |
+
+| Suit Upgrades: [Survival Tool, PAR Integration, Exo-Skeleton Upgrade, Drone Control Upgrade, NCS Canister MK1] |
+
+| Inventory: [Survival Ration Bar x2], [Flare Gun], [Medi-Gel Cylinder], [Datapad], [Batteries (x12)] |
+
+| Located Equipment: [Cortex Legion Mark IV (PAR)], [Battpack Array (Charging)], [Survival Fabricator (Idle)], [RSU-7S], [Fusion Cells (x8)], [QCD-2P (2)], [Sentinel Survival Turret (Idle)] |
+
+| Control-Link: [Cortex Scan Affiliate], [RSU-7S], [QCD-2P], [Bootstrap Module], [Cortex Vanguard ADS Turret (Operational)] |
+
+| Bootstrap Module Status: Partially Operational; Habitat Compartment Pressurized and Sterilized; Fabricator, Operational; Decontamination Chamber, Operational; Cortex Vanguard ADS, Operational; QCD-2P Patrol Route, Established. |
+
+| Cortex Inc. Credit Balance: 45 |

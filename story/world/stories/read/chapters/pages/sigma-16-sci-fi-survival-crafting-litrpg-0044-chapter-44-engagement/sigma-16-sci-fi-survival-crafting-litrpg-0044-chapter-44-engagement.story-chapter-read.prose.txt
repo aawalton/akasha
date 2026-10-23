@@ -1,0 +1,143 @@
+Talia watched the battle unfold, her heart pounding in her chest. A second tracer from the auto-cannon flashed out, narrowly missing the damaged CRD-X9 by a hair’s breadth. Fire from the vehicle’s secondaries lashed out, hundreds of small geysers of sand erupting from the sand as shots missed. More ricocheted off the CRD-X9’s heavy shell.
+
+A plasma lob from the lighter vehicle smashed into the sand just below the vehicle, igniting into an explosion before sending a rain of half molten glass shards pelting everything nearby.
+
+The Blues apparently hadn’t noticed the Raptors that had been hovering nearby, out of sight. Both drones shot forward, holding fire as they angled themselves for a pincer strike from above.
+
+The CRD-X9s were slow, but their heavy shells were meant for surviving an underground collapse and continued to shrug off the lighter small arms fire. The moment they rounded a hill and broke line of sight, the Raptor drones reached their targets. They opened fire, pouncing from a 90-degree angle on the hostile vehicles’ sides.
+
+Talia clenched her fist as the lighter vehicle flickered in red, and sixteen gauss rifles opened up on it at once. The fire from the Raptors was accurate, and the projectiles had similar energy to her PAR. The vehicle disintegrated under the three-round burst, chunks of material exploding outward before the vehicle rolled into a tumble and then exploded spectacularly in a green ball of fire.
+
+[Notice: Sympathetic plasma-fuel chain reaction detected.]
+
+“Is there anything I can do to help?” Talia asked.
+
+[Notice: While manual control of drone units is possible, Raptor drone combat AI has a high degree of competence.]
+
+She grunted. Neo was right. She didn’t have any training and would probably make things worse if she tried to intervene. She watched as the drones turned their fire onto the more heavily armored vehicle.
+
+Hundreds of ricochets bounced off the armor plating as the heavy vehicle skidded to a halt, leaving a billowing cloud of sand rushing forward. It immediately reversed while the turret swiveled, searching for its attackers.
+
+The drones didn’t miss a beat, strafing sideways in a clockwise circle around the vehicle, narrowly dodging a spray of machine gun fire before locking themselves into a relative position that prevented the turret from aiming at them.
+
+The vehicle’s armor managed to shrug off the flurry of AP rounds, but the sheer volume of them pounded the armored vehicle’s outer elements into dust. Antennae, sensors, and softer equipment exploded into debris violently as the metal rain continued.
+
+The two drones suddenly lurched forward, coming even closer to the vehicle. On the drone’s optical feed, multiple components suddenly were highlighted in Talia’s overlay, ranging in colors from red to green. Red represented armor thickness impossible to penetrate while green made it incredibly easy to spot the areas that had little protection.
+
+[Notice: Weak point analysis completed.]
+
+The constant hail of fire didn’t let up, but it was now directed onto the exposed weak points purposefully. The sights for the cannon were pulverized, the driver’s view slit was inundated with shells and shattered, a vent on the rear of the vehicle was smashed to pieces.
+
+Her eyes flickered to the Drones’ status sheets. They’d been firing constantly for almost a minute and their ammo was flickering an unhealthy 25%.
+
+The enemy vehicle’s turret continued to spin aimlessly, and then a Raptor dipped down from only a few meters away to face the vehicle’s front. It unleashed a burst of fire directly onto the view port, and Talia could see the material there explode. The vehicle reacted almost immediately, the rapid reverse going out of control.
+
+Its rear smashed into a rock, pivoting the vehicle. It hung in the air for a split second before crashing back down onto its side. The geometry of the vehicle prevented it from rolling onto its back, but the treads continued to spin uselessly in the sand, causing the vehicle to rotate around its center of mass.
+
+The Raptors took advantage of the presentation of the vehicle’s soft underbelly without hesitation. Both units flung themselves to position their gauss rifles onto the center of the vehicle, just under the turret. Fire and smoke poured out of the smashed vents before the underbelly was riddled with hundreds of tiny holes.
+
+Seconds later, an explosion ripped through the vehicle. The turret popped off, catapulting itself into the sand, the force causing the vehicle to flip back onto its treads; the fireball causing the weaker parts of the vehicle’s chassis to balloon out. A wave of escaping shrapnel pelted both Raptors, causing the vehicles to retreat to a safer distance.
+
+But the attacking armored vehicle was well and truly dead.
+
+[Notice: Hostile forces neutralized.]
+
+Letting out a breath she hadn’t known she had been holding, Talia checked on the Raptors’ status.
+
+[Raptor Drone System Status]
+
+| Power Cell Status: [78%] |
+
+| Chassis Integrity: [94%] |
+
+| System Status: [All systems operational] |
+
+| Ammo Remaining: [18%] |
+
+They’d taken a small amount of damage, but the real issue was that if anything else attacked, they were nearly out of ammo. Her eyes tracked to the two CRD-X9s on her HUD’s nav map. They were rolling along as fast as they could. She flipped her status screen to display the information for the damaged one, her attention going immediately to the damage report.
+
+[Damage Report: CRD-X9 Unit 1]
+
+| Outer Hull: [87% Integrity Remaining] |
+
+| Internal Systems: [Moderate Damage to Cargo Hold] |
+
+| Mobility: [Reduced Top Speed by 5%] |
+
+She looked at their formation. Sure enough, the damaged one had slowly drifted back slightly. Separating the vehicles seemed like a bad idea, because then the Raptors would have to split up as well. “Neo, have them stay together even if it’s slightly slower.”
+
+[Affirmative: Adjusting convoy settings. Raptor drones have returned to sentry patrol on either flank.]
+
+“We can repair them?”
+
+[Notice: Estimated material cost for repairs to CRD-X9 Unit 1]
+
+| Durasteel: 1,100 |
+
+| Refined Silicates: 500 |
+
+| Advanced Alloy: 550 |
+
+Talia studied the estimated material cost for repairing the damaged CRD-X9. While the numbers were not insignificant, they would be manageable.
+
+“As soon as they get back, I want you to start fabrication on the repair module and shield generator. You can cancel the fusion cells if we have enough for all the Raptors. I want to prioritize getting them back into action. We can put their half spent fusion cells in the CRD-X9s and have them mine some Durasteel. I am pretty sure the tunnels should be pretty safe for them to work in.”
+
+[Affirmative: Priorities and action plan have been set.]
+
+Talia grabbed her PAR and pulled out the fresh fusion cell in it and took it to a waiting Raptor drone. She swapped its used cell for the fresh one. It wouldn’t affect her rifle. Going from being able to fire 50 magazines to 25 didn’t matter when she didn’t even carry that much ammo on her suit. But having an extra patrol drone to go out would be helpful.
+
+She retrieved the freshly crafted fusion cells and began to recharge the drones one by one while waiting for her vehicles to return to base.
+
+Continuing to build up the defenses was critical to their survival. The attack had been an ambush; she was sure of that. They’d noticed her road and depot of resource, almost certainly, and laid in wait to strike after she retrieved them.
+
+They were actively hunting her and her units. With anti-air missiles, and now a tank.
+
+“Neo, analyze the combat footage. We need to figure out as much as possible from their equipment. From what it looks like, despite the plasma weapon, they seem to have a lower-tech level.” She based that mostly on the looks of the vehicles themselves, they weren’t the clean, fresh plated units that her drones were. Rather, they had been slightly rusty, with bolts and odd irregularities that hinted at an old age or shoddy craftsmanship.
+
+And all the units had been manned, she suspected. A wince erupted on her face. That was more ‘people’ she killed, although they only had themselves to blame for their aggression. Unlike earlier when she’d shot the Blue manning the turret, she didn’t feel sick at all. It wasn’t her fault. She wasn’t going to lie down and let them destroy her stuff or kill her or Dusky or Dapple.
+
+It was a relief when the convoy pulled up and the drones began to unload, just as she finished placing the last fresh fusion cell in the Raptors. The two escort drones landed, and she began to work on repairing their dings and recharge them as Neo tallied up the haul.
+
+[Resource Acquired]
+
+| Refined Silicates: 15,366 |
+
+Almost a quarter of the material had been lost, but it was still more than enough for her goal.
+
+[Informative: Fabrication of Energy Shield and repair module has begun.]
+
+[Updating Bootstrap Module Stockpile]
+
+| Durasteel: 10,750 |
+
+| Refined Silicates: 9,866 |
+
+| Advanced Alloy: 1,352 |
+
+| High-Conductive Material: 2,677 |
+
+| High-Energy Matter: 19,000 |
+
+| Fusion Cells: 2 (85 queued) |
+
+Talia walked up to the damaged CRD-X9 and did a walk around, taking in the damage. The hole the cannon had made was the most grievous injury, but the entire chassis was riddled with pockmarks and dents.
+
+“Let’s hurry that Shield Gen, Neo,” Talia whispered.
+
+Neo updated her status sheet.
+
+[Talia’s Status]
+
+| Suit AI, NEO: [Level 1] |
+
+| Health: [79% (More recovery is required after traumatic ordeal during air-encounter.)] |
+
+| Suit Power Level: [98%] |
+
+| Suit Upgrades: [Survival Tool], [PAR Integration], [Exo-Skeleton Upgrade], [Drone Control Upgrade], [NCS Canister MK1], [Life Support Oxygen Extractor], [Internal Capacitor Upgrade], [Cortex Phalanx Personal Shield], [Integrated Suit Scanner] |
+
+| Inventory: [Survival Ration Bar x1], [Medi-Gel Cylinder], [Datapad], [Batteries x12], [Durasteel Artwork (gift from Dusky and Dapple)] |
+
+| Cortex Inc. Credit Balance: Service Terminated until re-negotiation. |
+
+| Base Status: [Bootstrap Module Operational, Bastion Shield Generator (in progress), CRD-X9s (2 operational, 1 damaged), Raptor Drones (4 operational, 8 in reserve)] |

@@ -1,0 +1,145 @@
+Talia watched as the repair module went to work on the damaged CRD-X9. Laser lights painted over the area where the main damage had occurred, melting away the entire structure before replacing it with brand new material.
+
+While it worked, she turned her attention to the many scrapes and dings that marred the rest of the chassis, cleaning and repairing them with her multi-tool.
+
+The Bastion Shield Generator module was nearing completion, but her mind was still going over the events a few hours earlier. The Blues were becoming bolder and more aggressive.
+
+At first, she had seen a single infantry battling Dusky over a piece of wreckage. The SAM attack on her Seeker-H7. Then came the attack with the dune buggy. Now an ambush on her vehicles leaving the resource depot she had made.
+
+From what she had been able to determine, the Blues’ tech level was something akin to 21st or 22nd century Earth’s. The missile had been the largest thing that had built that assumption. She had spent half a rest period in her room digging into the events of the flight that had nearly killed her. She was convinced some hidden UFE military chip had taken over and saved her and Neo.
+
+It had wiped all the log info, and left Neo with no idea of what had happened, but it hadn’t been able to delete everything. That would have left her with a useless system and probably have killed her. The logs on the Bootstrap Module hadn’t been touched, and she had the flight path data. She also had data on the missile and its flight properties.
+
+Which was how she knew the missile had suddenly gone into a loop and buried itself into its launch vehicle instead of her VTOL.
+
+That was only possible via one means she could think of. The missile was remotely guided by the launch vehicle, or it had an open connection interface even while in attack mode. It was merely guesswork, but if her systems were capable of hacking the connection, then it was likely something that the Blues had thought secure, but was easily hackable with more advanced computing.
+
+Which she assumed she had since she was still alive.
+
+The second evidence was the state of the vehicles. She had thought they were old at first, but on closer examination of the recorded imagery, that wasn’t actually the case. They were just built using a method she hadn’t really recognized. Like they had been put together piece by piece and held together by rough welds and bolts. It was a much more primitive way of putting something together than the nearly seamless construction laser printing provided.
+
+So, all in all, the Blues had a lower-tech level. She was mostly confident about that.
+
+Considering that her units and Neo were having difficulty communicating due to the planet’s active EM fields, she doubted they had any working radios as well. Allowing the one Blue to escape after attacking her and the spiders suddenly felt like it had been a major mistake.
+
+It had likely reported back about her, and they had set up the armored ambush in response. Still, the response was much more disorganized and weaker than she would have expected if the Blues had a major military unit or government presence…maybe they were based on another continent, or simply didn’t have a government.
+
+She certainly had seen no signs of inhabitation from orbit, which should have been suggested if they had a sizable enough industry to build military vehicles. The system had been selected for its relative distance from the nearest colonized frontier world, and likielhood of having a habitable planet in orbit.
+
+According to human maps, of course. There were all kinds of alien civilizations humming about with their own blobs of space, but there were a *lot* of stars available. As soon as a race discovered how to generate a stable warp field, their system would begin to give off emissions, and they’d be welcomed, or unwelcomed by the galactic community.
+
+But the tech she had seen didn’t suggest the Blues had come from orbit. If they had a spacecraft capable of FTL travel, they’d have equally formidable and up-to-date combat vehicles as her own. A frown creased her lips. Right?
+
+The Blues didn’t appear in any database she had, so it wasn’t likely they were a space-faring species…which left the question where they were coming from.
+
+[Notice: User brain activity indicates a loss of focus.]
+
+Talia snapped back into place, looking up at the CRD-X9’s newly polished hull. A status screen repeated what she could see.
+
+[CRD-X9 Status]
+
+| Vehicle Health: [99% (Slightly Used)] |
+
+Despite being fully refurbished, the law dictated the vehicle would never get the valuable ‘brand new’ health status again. Not that she cared or planned on selling it to anyone. She checked her list of tasks. The fabricator had finished enough cells to recharge all the Raptors, and she needed to swap them out.
+
+“We need an auto recharger for the combat drones, like the CRD-X9s have their cradles,” Talia commented absently. “Something that can rapidly swap them out in a hurry. I certainly don’t want to be out here swapping them every mission.”
+
+[Notice: While a rapid recharge cradle could be developed for Raptor units, this would require R&D via Research Module.]
+
+She let out a tsk. There was the research module bit again. She really needed to locate and recover it.
+
+“I know the military doesn’t have a dozen guys standing around waiting to recharge their combat drones. How do they take care of it without a recharger station?” Talia asked.
+
+[Informative: Military doctrine would utilize maintenance drones that automatically replace fusion cells and repair Raptor drone units while landed or in the field.]
+
+“How many scan…” Talia interrupted herself. She didn’t need scan credit anymore. “What do we need to make a maintenance drone?”
+
+[Maintenance Drone Resource Requirements]
+
+| Durasteel: 150 |
+
+| Refined Silicates: 130 |
+
+| Advanced Alloys: 50 |
+
+| High-Conductive Material: 25 |
+
+[Notice: Maintenance drones require standard format batteries and are compatible with QCD-2P quadcopter recharging base.]
+
+That was good. Those were easy to print off. The maintenance drone was cheap enough that even if the only job she found for it was recharging the Raptors, it was worth it. She wasn’t sure what the difference was between it and the version Cortex had offered. She’d dismissed it before as just a cleaning drone, but that seemed to have been premature.
+
+Tending to the combat drones’ power needs automatically was not a luxury. It would be a necessity.
+
+“Add two of those drones to the queue,” Talia instructed.
+
+[Notice: Current queue comprises Shield Generator (In progress), and Fusion Cells. Should this request be placed before or after fusion cell request?]
+
+Talia sighed. Having the fusion cells be on the same production line as her main fabrication queue was a pain. But building a new fabricator was out of the question; the current one took up half the internal space of the Bootstrap module and she didn’t want to think of the cost.
+
+Her eyes slid to the module’s base, where the small survival fabricator the military drone had tried to make off with. It seemed to be the right size…
+
+“Neo, can we hook up that extra survival fab to the system and use it purely for the fusion cell production line?” she asked.
+
+[Informative: Military survival fabricator can be configured to produce fusion cell casings; however, its production rate will be slower compared to the main fabricator. It is still a viable option for freeing up the main fabricator queue.]
+
+She grunted and headed to the rectangular box to take it inside and install it. “Alright, we will do that. We need a constant stream of fusion cells now, and having to juggle production between those and the other things we need will be a nightmare. If it is too slow, we can just build another mini-fab?”
+
+[Informative: A third fabrication module could be installed; however, a more efficient and effective option would be to produce a fabrication bay. This would require a considerable investment of resources.]
+
+She shook her head. They didn’t have time for that right now. She didn’t even have enough resources for the next base upgrade she wanted, so increasing throughput didn’t make sense. Yet.
+
+Installing the fabricator was much simpler than she had feared. A few disconnections with her multi-tool, slotting in the module, and then reconnecting it was all that was needed. The middle bay of the module was getting cramped, though. Noticing her fancy alien shield laying on a parts cabinet, she pulled out the artwork the spiders had made her and set it on top of it.
+
+She realized she had run out of immediate tasks, so she ran through her mental list of things.
+
+More resources. She’d set the drones up with the Raptors to do another resource run after the shield generator was up.
+
+More defenses. That required more resources as a prerequisite, so was an obvious step two.
+
+Research Module. The Seeker H-7 had sat unused since the traumatic flight. She stepped back outside and looked down on the aircraft from the top of the Bootstrap Module’s roof. There was no way she was going for another flight unless she was absolutely sure there was nothing waiting to shoot at her.
+
+“Neo, can we send the Seeker-H7 on autopilot to search for the research module, and maybe the ship wreckage? I don’t want to fly it myself, but we spent so much effort building it, that it would be a shame to not use it now.”
+
+[Informative: Seeker-H7 is equipped with an autopilot system that can be programmed for a simple route with sensors active. Upon return, data can be examined and correlated. However, modifications to mission during route are not currently available unless a telemetry stream can be achieved, which would require upgrading User’s current base equipment due to EM interference from natural phenomena.]
+
+She wasn’t sure how ‘natural’ the EM interference was, but being able to send the Seeker out on a scouting run seemed like it was needed, despite the risks that the thing might be shot down. The other option was to recycle it, but…
+
+“We really need to locate the Research module. Plot a course to the suspected ship crash site and loop it back to us and we’ll sift through what it finds when…if it gets back,” Talia ordered.
+
+[Affirmative: Programming Seeker-H7 reconnaissance mission. In addition, Bastion Shield Generator module has completed construction and is awaiting deployment by User.]
+
+Her eyes lit up. “About time!”
+
+She hurried over to the stockpile unit. A massive crate filled the stockpile’s hopper. It was nearly as tall as she was, and there was absolutely no way she was lifting it without help. “Good thing we built that lift kit…”
+
+Directing the drone to back up to the stockpile unit, she hooked the winch to the module and then the vehicle dragged it out. That allowed her to use the small crane to hook an attachment point on the module’s top. The hydraulics groaned unhappily as they struggled against the several ton block. In the background, the Seeker-H7 began to kick up a storm of sand before launching itself up into the air.
+
+She watched it go before turning her attention back to managing the shield generator. The weight wasn’t threatening to tip the vehicle over, thankfully, but the block seemed to want to sway as it moved and it began to bang against the vehicle, bringing it to a halt.
+
+[Warning: Repeated impact damage could corrupt Shield Generator Module contents and require recycling and reprinting.]
+
+Urgh. She didn’t want that for sure. She really should have made a second lift kit.
+
+A spider-chirp drew her attention. Both Dusky and Dapple were peeking at her from the ramp. They’d hidden themselves, so only their heads poked over the depression in the terrain. A smile appeared on her lips at their inquisitive nature. She knew they’d been observing her and her actions on the base.
+
+The memory of the spider-thief came to mind. The spiders were quite strong, and an idea started to form in her head. Maybe they’d be willing to help her?
+
+She decided to engage with the spiders. “Hey, you two,” she called out. “Do you want to help me with installing the shield module?”
+
+Her suit erupted with a series of unintelligible shrieks and coos, but both spiders seemed interested and popped up out of the hole and slowly skittered toward her and the CRD-X9. They peered at her and the vehicle curiously. Dusky suddenly jumped up onto the roof of the vehicle while Dapple tilted her head sideways.
+
+She looked up at Dusky. “No! No ride. Help lift!” She gestured for the spider to come back down. It let out a chirp and did so. They were very smart. She pointed to the hanging crate, and it was immediately the center of their attention.
+
+“Hold it steady!” She tried to mimic the motion of the crate swaying and then holding it still, but she wasn’t sure it made any sense. Neither did Neo.
+
+[Notice: User hand gestures leave much to be desired in the communication sphere. Please display holographic unit to Dusky and Dapple.]
+
+Talia grunted but couldn’t argue. She wasn’t sure what Neo had in mind until she held out her forearm and a holographic projection sprang to life. Both Dusky and Dapple shrieked and jumped back at the sudden image, but when they realized it was just a pretty light and picture, they approached curiously with chirps.
+
+A 3D rendition of the CRD-X9 and the hanging module was shown, with it swaying as the mock vehicle moved. Suddenly two avatars of the spiders appeared, and followed along behind, using their forelimbs to hold the crate steady.
+
+Both spiders cooed and chirped.
+
+“Uhh. Do you understand that?” Talia asked hesitantly.
+
+Chirp! Chirp!

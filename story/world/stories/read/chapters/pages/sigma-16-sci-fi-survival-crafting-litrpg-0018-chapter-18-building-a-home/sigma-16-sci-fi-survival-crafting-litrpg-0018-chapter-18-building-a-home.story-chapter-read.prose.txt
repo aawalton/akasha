@@ -1,0 +1,161 @@
+The materials required for the turret took her an hour to collect. While there was plenty of Durasteel lying around, the more advanced resources took a bit of selective recycling from loose and broken things inside the module.
+
+That was ultimately fine; there was way too much scattered junk, and it doubled as cleaning. Neo even helpfully highlighted items that contained the resources she was looking for specifically, which sped things up.
+
+[Sentinel Security Turret]
+
+| Durasteel: 35 |
+
+| Refined Silicates: 20 |
+
+| Advanced Alloys: 25 |
+
+| High-Conductive Material: 20 |
+
+While the survival fab worked, she focused on cleaning.
+
+It was a painstaking process that required her to be very selective with her multi-tool, to avoid accidentally vaporizing a working part of the module or a bulkhead wall. Everything would be reused later for repairs or construction, and as her multi-tool filled with different elements, she ejected them and placed them into a growing pile of hexagon blanks.
+
+When she reached the compartments that had been breached, she focused on melting away the intruding rock, before applying a thick coating of Durasteel to the area she dug out, sealing the wounds. She also bothered to waste the battery power to ‘finish’ the construction now that she had switched out her batteries.
+
+She checked her remote connection, and the device was already slowly charging from the solar panels, telling her that morning had well and truly arrived. It would be time for a nap or sleep soonish.
+
+With the major breaches sealed, it was time for the next step. “Neo, highlight any small air gaps. I want to restore airtightness to the module.”
+
+[Affirmative: Highlighting all potential leaks. Note, sealing all areas could prevent the standard atmospheric systems from functioning and will require a rebuild of the system.]
+
+“Yeah. That’s fine. It was going to be needed anyway.” Talia replied. There were a lot of areas that needed work, but with the highlighting of everything from open air vents to hairline cracks, it was manageable.
+
+The process drained several sets of batteries from her Battpack, but when she was done, all punctured sections were sealed. Before she could consider working on the pressurization system, a ding from the survival fab interrupted.
+
+[Notice: Sentinel Sentry Turret has completed fabrication. This unit recommends placement of security device outside the Bootstrap Module.]
+
+“Yeah. I agree, I’m going to put it beside the solar panel array. Actually, I’ll need at least three more to make sure there aren’t any blind spots…” Talia said. That said, one would be fine for now. She still needed to collect enough resources for a second one.
+
+The cable was annoying to carry anything up or down with, and she had already decided to leave the first compartment outside of the pressurized space, so with a little bit of planning she disintegrated a side panel large enough to install a doorway. Then came a Durasteel scaffolding that connected to the top platform.
+
+Having actual stairs instead of trying to use the cable was a lifesaver. It also hinted at something she’d only begun to realize. She had real freedom to design things how she wanted. All she needed was material and power.
+
+And an idea to feed Neo to generate a list of things that mostly fit what she was looking for that she could select from. The entire process was incredibly fast. Feed Neo the idea, get a list of close approximations, then select the one she liked best. If she didn’t like the ones on the list? A bit more brainstorming or explanation to Neo would get her a new one, usually with exactly what she wanted.
+
+The scaffolding felt flimsy, so she built more diagonal support beams while over-engineering the braces, so it was absolutely sturdy to the point the Bootstrap Module would probably break before the scaffolding came off. She gave her initial staircase up to the module the same treatment before affixing the turret in a way that it had a very clear view of the stairway.
+
+Its sensors activated immediately on deployment. Her connections icon flashed, and it connected to her suit to provide various options and settings. She selected a proximity warning, including a warning shot and alarm that would hopefully reach her suit. She wasn’t sure how smart it was to broadcast a warning, but since she wasn’t technically hostile to anything, she felt it was the safest course.
+
+If anything tried to approach over the shrieking alarm, they’d get a warning shot at 100 meters. If they reached the stairway, it would open fire. She hoped nothing would brave the alarm or warning shot.
+
+It wasn’t sophisticated by any standards, but at least she wouldn’t be completely defenseless if the blue alien showed up. The alien hadn’t appeared to be armored, and gauss rounds hopefully traveled faster than plasma globs. The turret was programmed to return fire immediately, regardless of the distance.
+
+And for backup, she always had her multi-tool for up close.
+
+With her initial efforts toward cleaning and clearing out the Bootstrap Module complete, and the rudimentary security system in place, Talia turned her attention toward gathering resources. The scattered wreckage in the valley was a good first target. Her multi-tool was great for the deconstruction, but almost immediately she found it was far from efficient when dealing with all the larger debris.
+
+It would only take a few minutes before it would become full, and she’d have to walk back up her stairway to deposit the hexagons. And it was almost entirely Durasteel. After a few trips, she knew she needed to change things up.
+
+She played with the fabricator and Neo found a schematic for a crate that was more form fitting and compatible with the RSU-7S. She’d only need two cables to secure it. It also only took a few minutes to build, and power wasn’t a problem with the foldable solar panels. Although she had been swapping out batteries for her multi-tool a lot, it was charging about as quickly as she was working.
+
+The ATV’s rugged design made it perfect for navigating the rough terrain around the crash site. The new crate allowed her to carry ten times as many resource hexagons compared to before, and she even managed to get Neo to have it automatically navigate and follow her. It proved to be an increased drain on her batteries, so by mid-afternoon she was looking at schematics for a full-sized solar array.
+
+That came with its own issues.
+
+[Notice: While the proposed solar panel array would be capable of sustaining operations at approximately ten times the rate of the current emergency array, a large enough battery array to support the system would require a larger fabrication unit. The current fabrication unit is offline.]
+
+“What resources do we need for repairing the Bootstrap Module’s fabricator?” Talia asked.
+
+[Informative: The following resources are required for the repair of the Bootstrap Module’s fabricator:]
+
+| Durasteel: 600 |
+
+| Refined Silicates: 300 |
+
+| Advanced Alloys: 200 |
+
+| High-Conductive Material: 150 |
+
+“Alright,” Talia muttered, scanning the details. It was a lot. Over ten times what her multi-tool could carry in its internal container. The Durasteel wouldn’t be too hard, but from the ratios of the wreckage outside, the advanced alloys and hi-con materials would be challenging to locate. “Let’s get to work then.”
+
+Her suspicions proved correct. After three trips of filling her ATV, she had filled all the Durasteel and Refined Silicate requirements, but the two more advanced resources were in short supply. Instead of mindlessly aiming for the nearest and largest bits, she started going for the ones that looked more intact.
+
+“Neo, can you highlight the crates that might contain stuff?”
+
+[Affirmative: Highlighting sources of rare materials and other equipment.]
+
+Boxes and damaged crates flashed on her HUD, little yellow dots indicating their importance. She quickly maneuvered her ATV to each one, looking for what she needed. Mechanical parts and electronics became scrutinized more heavily, and she became much more stringent on the things she left unrecycled.
+
+She was on her eighth or ninth trip when she stumbled upon a crate with two large pieces of equipment that made her eyes widen.
+
+| NCS Container |
+
+| Total Capacity: 0 / 1000 |
+
+“Neo! It’s one of the NCS canisters!”
+
+[Affirmative: User can utilize the NCS unit to manage larger loads.]
+
+She wasted no time strapping the backpack unit to the back of her suit. A hose and connector slotted into the normal resource port of her multi-tool. She wasn’t sure how the hexagons would fit through the small hose and into the backpack, but if that was how it was designed…
+
+A chime on her tool and a message on her HUD confirmed it was working.
+
+[Multi-Tool]
+
+| Power Level: [22% (Batteries x2)] |
+
+| Durability: [91%] |
+
+| Tool Level: Basic |
+
+| Total Capacity: 89/1100 |
+
+| NCS Canister MK1: Connected (+1000 Total Capacity) |
+
+[Contains]
+
+| Refined Silicates x12 |
+
+| Durasteel: x48 |
+
+| Advanced Alloys: x18 |
+
+| High-Conductive Material: x11 |
+
+The pack would have been quite heavy without her exo-skeleton upgrade, even while empty. From the way her multi-tool increased in weight while full, there was no way an unassisted person would be carrying a full canister.
+
+With the extra capacity, she spent even more time grinding the resource gathering. So much so that when the sun started to dip below the horizon, it caught her by surprise.
+
+“Neo. I think we’re done for the day…I need some sleep. I don’t even remember how long I’ve been awake.” Talia said quietly into her suit helmet.
+
+[Informative: User has exceeded standard work threshold by a large margin. This Unit recommends rest and reduction in activity levels.]
+
+Talia laughed. “You should have said that earlier, before I realized how worn out I am.”
+
+[Notice: While User fatigue is a serious concern, so is restoring Bootstrap Module functionality.]
+
+She rolled her eyes; Neo had an answer for everything.
+
+The RSU-7S was maneuvered carefully up to the roof of the module, near the solar panels. She didn’t want anything to creep up on it and damage her only means of conveyance. The Sentinel turret wasn’t something she fully trusted to keep things safe yet, but she’d consider making more when she woke up.
+
+Or save those resources for repairing the Bootstrap Module’s fabricator.
+
+She yawned as she made her way toward the lowest and deepest compartment in the Bootstrap Module. She had restored integrity earlier in the day but hadn’t pressurized the compartment against the regular atmosphere.
+
+She’d jammed the air vents full of Durasteel. But did that really stop her from pressurizing her intended habitation module with clean air? She really wanted to wash and sleep outside of her suit.
+
+Returning to her survival fabricator, she looked up an emergency pressurization system. It was small but suitable for pumping out the air of a small room and then filling it with sterile oxygen from a tank. She had plenty of gathered resources and started printing it off while looking for an installable airlock unit. She found a side hatch that would be big enough to fit her and her suit as long as she didn’t have the NCS or a backpack on.
+
+It took nearly an hour to finish installing both units and connecting them to the module’s power supply and oxygen tanks. The unit was slow, and several issues came up during the depressurization that required her to restart the process, but eventually, a green message gave her relief.
+
+| Compartment Pressurization Complete |
+
+Talia let out a long sigh of relief. She’d be able to take off her suit. “Finally, time to get the relief I deserve.”
+
+[Warning: User removal of exosuit helmet will inevitably be fatal.]
+
+She blinked rapidly. “What? Why? I depressurized the room and filled it with sterile air!”
+
+[Notice: While user has replaced the atmosphere with clean air from storage tanks, viral load has not been removed from the compartment. Minute trace elements of viruses are located across every surface of the room and User’s exosuit.]
+
+A pillar of fatigue filled her. She’d screwed up. Of course, removing all the air and replacing it wouldn’t sterilize the compartment. If she’d not been so tired, she’d have realized that.
+
+[Informative: A bio-decontamination module is required to sterilize User’s suit before removal. Furthermore, an intensive high-level manual decontamination with specialized tools will be required to clean the habitation module before it is safe for User to inhabit without the protection of User’s exosuit.]
+
+Talia shook her head, temporary defeat robbing her of any desire to do anything but go to sleep. “We’ll work on it tomorrow. Along with the fabricator and everything else I probably forgot.”

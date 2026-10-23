@@ -1,0 +1,211 @@
+As Talia emerged from the tunnel, the sky was a welcoming blue, with tiny puffs of white clouds in the far distance. If someone had told her there had been a raging sandstorm less than an hour earlier, she would have found it hard to believe them if she hadn’t seen the terrain before the storm.
+
+Everything was changed.
+
+The hill of sand that the bootstrap module had crashed into was half as tall as it used to be. The valley between the dunes had filled in. Her ramp to the tunnel had lost half its height and the resource drone was going to need to partly dig it out to fit again.
+
+Her careful trench work had been erased, although there was a visible piling of sand on the western side of the base where it had piled against the short walls. The Bootstrap Module that had been buried up to a third was now buried up to two-thirds. The camera that had been behind the ramp was now buried a meter underground.
+
+So were the main access points to the resource silo and the drone’s charging cradle. She did not know what had happened to her quadcopters.
+
+“Is there major damage?” Talia asked flatly.
+
+[Informative: The intensity of the sandstorm increased during the hours User was monitoring CRD-X9 resource drone. No major damage has been detected; however, several base components require excavation for continued use. Sand infiltration demands a cleaning and repair cycle for RSU-7S and QCD-2P units.]
+
+Talia let out a resigned breath. “Alright. First things first; let’s get everything cleared out around the base. We’ll figure out some type of retaining wall later.”
+
+The task was daunting, but necessary. At least moving sand with her multi-tool was relatively easy. It was just the volume she needed to move that was an issue. The tool condensed the sand into their own type of resource hexagons that could be further refined into silicates if needed, but so far, that hadn’t been needed.
+
+It took her until midday to finish. By then her active drone had reached the Durasteel deposit and was mining away. She turned her attention to repairing the quadcopters and her ATV. The drones faired much better than she’d feared, since they hadn’t been active and just buried. The RSU required Neo to create a repair schematic, but it was relatively simple. It didn’t take long to take care of, so she turned her attention to the cleared resource silo.
+
+“Let’s set up the cell fab and generator modules?” Talia asked.
+
+[Affirmative: Both modules are ready for deployment. Suitable housing is required for each module and should be built near the primary Bootstrap Module but not adjacent. A connection tube will be required to bridge modules to transfer resources and power.]
+
+“Oh. I see why they couldn’t just go inside the base then.” Talia frowned; the tube was likely the culprit for the estimated costs. Those would depend on where she decided to place them. “Why are they separate and can’t be attached?”
+
+[Informative: Fusion Cell Fab and Cortex Generator Modules are highly energetic and could cause rapid deconstruction of nearby equipment should they sustain serious damage.]
+
+“Oh. They explode.” Talia concluded.
+
+[Affirmative: This could cause a hazardous situation. This unit recommends at least 100 meters between modules to avoid collateral damage.]
+
+“Crap. That’s pretty far,” Talia muttered. She pulled up the schematics for the ‘resource’ tube on her multi-tool. It mostly required Durasteel, but also some extras for the extra fitments required for moving resources and power. Creating the entire overlay schematic came first, so she walked the ghost overlay away from the main base.
+
+The tube required supporting braces every so many meters, which cost even more additional resources. It was just Durasteel, but still. The price was rapidly ballooning. “Neo, we need to work on your estimates. If it wasn’t for the extra runs, there is no way we’d have enough for this.”
+
+[Notice: Previous resource estimates were only for the fabrication of the modules themselves.]
+
+“Yeah. Think about that a little. How common is just making the modules, then nothing else when building a base?” Talia replied.
+
+[Affirmative: This unit will attempt to build infrastructural cost estimates in module requirements in the future.]
+
+Talia clicked her tongue and confirmed her placements, then began to spray them with her multi-tool’s fabrication mode. Neo’s acquiescence felt like a hollow victory. Wait. Was she trying to gas-light the AI? Had she finally gone crazy from being alone for too long?
+
+She shook her head. There would be no mention of going crazy. Neo would probably suggest his corporate therapist AI again.
+
+Finishing the resource pipage, and the considerable platforms the modules install themselves in, she went back to the stockpile to fetch the deployment cubes.
+
+There was a brief HUD video on the equipment’s side detailing on how to deploy the base units. They were large, like the CRD-X9 deployment cube, but still within her carrying capability. “So just place these on the base platform, then finish the structure, and they deploy themselves?”
+
+[Affirmative: All modules are designed for quick deployment field operation bases. Large modules for permanent facilities would require construction equipment.]
+
+Talia shook her head. “Yeah, well. We’re making progress with just this, anyway. The construction drone costs a lot of credits we don’t have.”
+
+It was difficult for her tool to reach the roof of the structure for the modules, and going up her ramp and finishing them from the roof of the bootstrap module was required. Once the modules were sealed in completely and the entire construction overlay was finished, she ordered Neo to deploy the modules.
+
+There was a hum of energy and machinery, but it was muted because of the metal shells. The entire thing was anti-climactic as her HUD icon for the base blinked, indicating that integration was successful.
+
+A smile appeared on her face. “Mission accomplished. I think our next step is to fabricate the fusion cells. How many resources do we have in stock, Neo?”
+
+[Calculating: Bootstrap Module Resource Stock]
+
+| Durasteel: 4,750 |
+
+| Refined Silicates: 3,200 |
+
+| Advanced Alloy: 2,790 |
+
+| High-Conductive Material: 1,700 |
+
+| High-Energy Matter: 691 |
+
+| Fusion Cells: 0 |
+
+[Informative: Given our current resources and the requirement of ten units each of Durasteel, Advanced Alloy, High-Conductive Material, and High-Energy Matter per fusion cell, we would be able to fabricate sixty-nine additional fusion cells.]
+
+Talia let out a whistle. “That’s more than I thought. What’s the conversion rate for the fusion cells to the base’s extended battery array?”
+
+[Informative: Each fusion cell equates to approximately five percent power on the base’s extended battery array when processed in Cortex Generator Module.]
+
+She quickly did the math in her head. The base was currently sitting at fifty-two percent charge, so they’d need to dump ten cells into it to get it back to full. Plus another four cells for the resource drone that was already deployed working on the Durasteel deposit once it finished. Assuming she made running down to 20% power standard before replacing them. They would have about fifty-five fusion cells as surplus for future operations and construction.
+
+She could hear the clunk and whirr of the base’s stockpile system go to work as material was moved between the modules as the cell fab went to work.
+
+“Neo, confirm the drone’s minimum return power level to be twenty percent. If it gets that low or will be lower than that on return from a mission, initiate a maintenance cycle or notify me,” she said decisively.
+
+[Affirmative: Updating CRD-X9 Cortex Resource Drone’s operational parameters.]
+
+Now that their power needs were taken care of, it was time for more expansion.
+
+“Let’s fabricate another resource drone as well,” Talia ordered. “We have enough resources for that, right?” Her HUD lit up with a list in response.
+
+[Cortex Resource Drone Production Cost]
+
+| Durasteel: [800 units] |
+
+| Advanced Alloy: [700 units] |
+
+| High-Conductive Material: [300 units] |
+
+| Refined Silicates: [600 units] |
+
+| Fusion Cells: [5 cells] |
+
+She nodded at Neo’s rundown of the resources required for the new drone. It was in line with her memory, but seeing that she wasn’t that far off was reassuring.
+
+[Notice: A fabrication queue modification is required to commence production of CRD-X9 unit without delay.]
+
+She blinked. “What?”
+
+[Notice: CRD-X9 units require fusion cells for construction. Five cells are required. A production run of fusion cells will be required to initiate fabrication. Each cell requires a 30-minute processing period. A two- and half-hour delay is required before resource drone fabrication begins.]
+
+Neo’s words made her pause. “Wait…you’re saying the drone will have to wait until new cells are ready?”
+
+[Affirmative; production order has been modified accordingly.]
+
+It seemed weird that they needed the cells before they could start fabrication on the drone, but she wasn’t going to argue. There was one more thing she was interested in. She tapped on her Cortex Scan Affiliate icon to bring up her credit balance.
+
+| Cortex Inc. Credit Balance: 475 |
+
+Talia nodded. That was probably enough to get something, although she wished she had 25 more just to round the number out. “Do we have any options for long-range resource scanning? I don’t think we’ll get lucky and stumble upon another one like the Durasteel one unless we comb over every inch of the desert, which isn’t happening.”
+
+[Affirmative: Multiple options for resource detection are available for unlocking.]
+
+[Scan Upgrade: Suit-Mounted Short-Range Scanner]
+
+| Cost: [200 Scan Credits] |
+
+| Range: [1km] |
+
+| Details: An upgrade to your suit’s existing scanner, increasing its range, and adding the ability to detect resource deposits.
+
+[Scan Upgrade: ATV-Mounted Light Scanner]
+
+| Cost: [500 Scan Credits] |
+
+| Range: [5km] |
+
+| Details: A lightweight scanner that can be mounted on the ATV, providing a longer scanning range while on the move.
+
+[Scan Upgrade: Resource Drone-Mounted Heavy Scanner]
+
+| Cost: [1,000 Scan Credits] |
+
+| Range: [10km] |
+
+| Details: A heavy-duty scanner that can be installed on a resource drone, significantly increasing its scanning range, and ensuring effective resource detection and deposit mapping.
+
+[Scan Upgrade: Base-Mounted Long-Range Scanner]
+
+| Cost: [2,500 Scan Credits] |
+
+| Range: [100-250km] |
+
+| Details: A large, base-mounted scanner with an extensive range. While its accuracy decreases with distance, it can provide a smaller unit with an accurate compass heading and estimated distance for deposits within its range. |
+
+Talia sighed. Most of the options were too expensive for her current budget. She considered her choices; she would have loved to have had the two larger options, but they were expensive, especially the base sized one.
+
+“Let’s get the suit-mounted scanner for now,” Talia decided. “How many resources does it cost?”
+
+[Cortex Suit Scanner Upgrade Module Cost]
+
+| Durasteel: [800 units] |
+
+| Advanced Alloy: [700 units] |
+
+| High-Conductive Material: [300 units] |
+
+Talia nodded. “Alright. That’s not bad. Let’s make one.”
+
+| Cortex Inc. Credit Charge: -200 |
+
+| Cortex Inc. Credit Balance: 275 |
+
+[Affirmative: Adding Suit-Mounted Short-Range Scanner to fabrication queue. Would user like to place it after CRD-X9 fabrication?]
+
+“Wait. What? Why can’t we fabricate it now while waiting for the fusion cells? It doesn’t need one to make it?” Talia asked.
+
+[Informative: While the Power Cell Fabricator specializes in producing Fusion Cells, the main Fabricator Module is required to create the advanced casings for these cells. Hence, they share the same queue.]
+
+“I thought the cell fabricator was a separate module,” Talia said, looking surprised. “How long is it going to take for everything?”
+
+[Notice: One fusion cell has already been completed. The current fabrication queue is as follows: Nine Fusion cells, one CRD-X9 unit, one Suit Scanner Upgrade, and fifty-nine additional fusion cells. Estimated total fabrication time is approximately thirty-five hours.]
+
+“Long queue,” she murmured. Still, they definitely needed all of it. “Let’s pause the fusion cells if we need to fabricate anything else in between. Just have the cells fabricate in the background.”
+
+[Affirmative: Fabricator queue priority settings have been modified according to User direction.]
+
+That was it for production. She headed inside and toward the decontamination module. It was time for a break. Plus, there were things she could still work on while in bed.
+
+“We need to start planning our next expedition,” she declared while working the airlock’s controls. “I think our best shot is to follow the ship’s debris field to the southwest.”
+
+[Informative: The southwestern desert region may have less potential for valuable discoveries compared to the relatively dense jungle region. Scanning for credits could yield new opportunities and more utility than mass production of current equipment options.]
+
+The sterilizing agents flooded the chamber. Talia closed her eyes and considered. The jungle was a tempting option; it was teeming with life, and she’d made almost all their scan credits there. But it was also rife with danger… and she was sure that the Giant Jungle Worm, wolf-things, and spider-things were probably just the start of dangerous jungle fauna.
+
+“The jungle…” she started, her voice trailing off as she recalled her previous encounters. “But it’s dangerous. What if that giant worm attacked the resource drone?”
+
+[Speculative: The Cortex Resource Drone has a durable chassis which is likely to withstand minor attacks. However, against a large and aggressive creature like the jungle worm, it is likely to sustain severe damage or be destroyed. The mining laser could theoretically be utilized as a short-range weapon.]
+
+Talia took a deep breath as the decontamination sequence finished and she unsealed her helmet. The risk was high, but so was the potential reward. And if she wanted to get off the planet, she’d need more technology and schematics for all the equipment she needed.
+
+“Alright. Once the second drone is complete, we’ll set the first one on auto to continue mining the Durasteel deposit,” she decided. “I’ll take the new one and head back to where my escape pod landed. From there, we can do a run to the tree I chopped down and collect those rare materials.”
+
+[Affirmative: User will also have the opportunity to procure more scan data during this mission.]
+
+“Yes,” she agreed. “Hopefully, we will pick up some valuable scan data along the way. Once we finish that, we can reassess a longer expedition toward the ship crash site. Maybe some longer range flying units for scouting if we have enough scan credits…”
+
+[Informative: Multiple possible flight-capable units are available, depending on User budget.]
+
+“Of course they are.”

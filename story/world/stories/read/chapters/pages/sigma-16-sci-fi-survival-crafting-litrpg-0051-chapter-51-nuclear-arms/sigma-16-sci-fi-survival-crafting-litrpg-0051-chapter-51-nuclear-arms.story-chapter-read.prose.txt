@@ -1,0 +1,85 @@
+Talia’s heart raced as she processed the information, her eyes locked on the monitor. She hadn’t expected the Blues to be at the HEM deposit, let alone mining it. The convoy came to a halt awaiting further orders while the Raptor drones diverted themselves to encircle the mining site and survey for more hostile forces, but it appeared all the Blues were clumped up in the earthen fortress she’d excavated while digging the mining shaft.
+
+Her first instinct was to run away and plan a new operation, but she suppressed it quickly. They needed the HEM from the deposit, and running away would just mean they had less power available for the attack. One Raptor raised itself higher in the sky, to get an angle on the interior of the compound. It was well lit, the harsh white light diffusing upwards and lighting up the thin cloud cover above.
+
+They seemed oblivious to the presence of her scouts.
+
+There were dozens of Blues unloading small carts of blue ore, then sending the machines back down a double rail that had been installed. Another machine was grinding the ore into dust, and she couldn’t help but do a double take, as they did that in the open.
+
+Dusky let out a hiss as she took in the activity on the screen. “Takers!”
+
+Dapple joined her, both of them letting out angry hisses and a low growling noise she’d never heard before. Fortunately, they seemed to understand that the Blues on the screen weren’t actually in the APC with them. Talia wasn’t sure what she’d do if they began stabbing the interior with their blade-like forelimbs.
+
+“Neo, what do you think? What’s our best course of action? We can’t just let them take the resources, or stop us from gathering them,” she said, her voice tense.
+
+[Analysis: Caution is advised, and User is advised to engage Blues in a surprise attack. It is imperative to ensure minimal risk to the convoy and User. Panther and Raptors can move to flanking positions, while Pegasus APC and CRD-X9 units remain with Lynx M3s. Terrain should allow Panther X-1 units to fire into the compound without issue.]
+
+Two armored vehicles inside the compound were suddenly highlighted and flashed in red as primary targets. There were several guards stationed that were highlighted in orange, while all the other equipment and Blues were highlighted in yellow.
+
+Neo’s plan seemed effective and simple on paper, and she could feel the units in the convoy humming with an eagerness to carry them out.
+
+“No. I don’t think so. Like you said, we need to minimize risk to the convoy and ourselves,” Talia said.
+
+She flipped the vehicle’s main display to her unit selection screen and picked out one of the Lynx M3s, then flicked to the ammo selection tab. She had loaded them with over 75% EMP Disruptor shells and single-point High Explosive Anti-Tank (HEAT) ammunition in anticipation of the attack on the Research Module. Those weapons would do minimal collateral damage to the area, but there were other selections available.
+
+She flicked past the Airburst Shrapnel rounds and High Explosive (HE) shells. She paused at the page for the thermobaric shells and considered them for a moment. A final flick took her to the last page. A page that was filled with warnings.
+
+[Equipment: MXL-182 HEM-Enhanced Fusion Shell for Lynx M3]
+
+| Description: A tactical micro-fusion shell that utilizes HEM to enhance the conventional explosive yield. Yield can be variably adjusted based on mission requirements between 0.1 and 10 kilotons, based on mission requirements. This makes the weapon highly effective against heavily armored or fortified targets. |
+
+[Usage: heavy anti-armor or anti-fortification.]
+
+[Weight: 85kg]
+
+[Max Yield: 41,840 GJ of Energy.]
+
+[Delivery: Artillery]
+
+[Available Count: 1]
+
+The tone of her voice was so deathly serious and devoid of emotion, it surprised her. “Neo, select the MXL-182. Fire one round with the yield set to whatever is needed to wipe out the base.”
+
+[Warning: Selection of MXL-182 will cause the complete destruction of mining operation and likely result in 100% fatalities of Blue contingent. A HEM thermal reaction is likely to ignite and incinerate local tunnel network as well.]
+
+“The HEM deposit won’t detonate; other than the parts they chunked off or turned to dust. I know that much,” Talia replied.
+
+[Notice: Significant collateral damage will occur, including—]
+
+She cut Neo off. “Neo, I considered the thermobaric, but there is a remote chance the armored vehicles might survive and have a crew in them already. The MXL will make sure they never even shoot back at us. They’ve attacked us first on every encounter, and I don’t see a reason to give them an extra chance to do so again.”
+
+She pressed the icon, confirming her selection. The Lynx she had selected confirmed the ammo selection and chambered the round into its cannon. Talia’s heart pounded in her chest as she gave the order.
+
+“Wipe them out.”
+
+[Affirmative: Fire Order Confirmed.]
+
+The Lynx M3 acknowledged the command, and its cannon pitched upward before a massive boom erupted from the weapon. Even inside the confines of the APC, the effects could be felt as the vehicle shook slightly from the tremor.
+
+Dusky and Dapple seemed to sense the tension in the air, their eyes darting between Talia and the monitor. She tried to offer the spiders a reassuring smile, but it was mostly for herself, a weak attempt to hide her own uncertainty.
+
+The Raptor units pulled back immediately, while the Panthers positioned themselves in the shadow of whatever sand dune was nearest. The high arc of the shell was audible on the vehicle’s audio sensors, a high-pitched whistle filling the air as the shell began its downward plunge.
+
+The Blues obviously heard it as well, and the entire encampment erupted into a flurry of activity as soldiers ran for their vehicles and others ran into the offered safety of the tunnels.
+
+The monitor turned white in a blinding flash of light, covering the entire region in hues of white and blue for as far as the eye could see. A few moments later a gust of wind impacted the vehicle with a loud roar, whipping waves of sand against the armored plating while the ground began to shake beneath them. The APC’s shock absorbers softened the blow, but nothing could hide the vehicle rocking back and forth.
+
+As fast as it began, it was over. Raptors re-attuned their monitoring feeds onto the target, which had become a rising cloud of ash, sand, and debris. There was a small depression where once there had been a compound. The Blues’ vehicles, equipment, and personnel had been obliterated from existence.
+
+Talia took a deep breath. The silence in the APC was only broken by a single “Maker?” from Dusky.
+
+“Neo, assess the damage,” she breathed, her voice sounding slightly hollow even to her own ears.
+
+[Analysis: Complete destruction of mining outpost confirmed. A sympathetic detonation throughout mining tunnels was detected. HEM deposit unaffected.]
+
+“Alright, send in the Raptors and a pair of Panthers to scout the debris. After they secure the area, we’ll form a perimeter and then send in the CRD-X9s to dig out the tunnel. We will send a Panther in first to confirm…nothing survived down there before sending the CRD-X9s down.”
+
+[Notice: Panther X-1 lacks earth moving capability. Due to detonation throughout the mining tunnels, debris is likely to hamper movement despite prior tunnel hardening.]
+
+“We’ll send one CRD-X9 with it, then. We’ll remain in the Pegasus throughout,” Talia replied.
+
+It didn’t take long for the area to be secured, less than ten minutes later, they were moving forward to the mining site. She would have selected a new location to mine, but the presence of the tunnels would reduce the time needed to reach the denser pockets of HEM and reduce the time needed for mining. It was probably why the Blues had decided to mine from her site in the first place.
+
+Little lines of burning material littered the ground of the area around the mining site. Other than the small fires and trails of smoke, nothing remained at all of the Blues. The reality of the destruction hit her like a hammer and made her feel vulnerable and naked outside her base’s shield generator.
+
+Dapple and Dusky seemed to sense her mood and let out little consoling chirps.

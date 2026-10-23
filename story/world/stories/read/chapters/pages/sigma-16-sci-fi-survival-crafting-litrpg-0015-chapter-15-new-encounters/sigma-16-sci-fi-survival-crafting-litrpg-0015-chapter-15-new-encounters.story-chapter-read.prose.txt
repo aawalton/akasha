@@ -1,0 +1,147 @@
+The sensation of speed was exhilarating as Talia navigated her way across the rugged terrain, the RSU-7S handling everything with ease. She loved the feeling the wind made against her suit. The only thing better would have been to feel it against her skin. Driving across an unexplored and untamed world gave her a feeling of freedom that she never knew she had wanted.
+
+[Observation: Current speed is 45 km/h. Estimated arrival at Bootstrap Module location within three hours at the current rate of travel and if terrain conditions remain challenging.]
+
+“I could get used to this,” she murmured to herself, a small smile playing on her lips.
+
+[Notice: Excess speed could increase chance of accidental injury.]
+
+“Don’t worry about it.” Talia scanned the path ahead of her. The straight stretch she was on was mostly flat and without obstacles, perfect for letting loose a little. “I know when to slow down.”
+
+Sure enough, she was soon descending a steep hill, forced to ride her brakes before curving around several massive rock formations. The pillars of stone loomed all around and gave off an eerie sense of claustrophobia compared to the previously open expanses of sand and dunes.
+
+She checked her map; she’d picked the route because of the direction but it was a bit rougher than she’d thought. That might have been because once she was on the plateau, it was relatively flat, but there were tons of rocks to weave between and go over.
+
+She reached the edge of the rock garden and crested another hill. In the distance, the bioluminescent jungle revealed itself as a brilliant display of thousands of lights that went all the way to the horizon. The crash site had been closer to the jungle, but now she was much higher up and the vantage point allowed her to appreciate just how far the jungle had stretched.
+
+[Notice: User has reached the edge of scanned territory.]
+
+Talia grunted and checked the map, and then scanned the terrain ahead with her own eyeballs. There wasn’t anything particularly challenging between her and the next hill. She pressed on without deploying the scout. That didn’t mean she needed to go completely blind, though.
+
+“Neo, can you please highlight the suspected location of the module?” Talia asked.
+
+[Affirmative: Highlighting coordinates of Bootstrap Module location. Currently, no signal has been detected by suit antenna, however User should be entering into range within the next few miles.]
+
+A pulsing point appeared on her HUD; it seemed like they were finally getting close. She was already halfway there.
+
+[Notice: RSU-7S power drain has been higher than expected, and temperature modulation has increased suit power draw. This unit recommending reviewing User and vehicle statistics.]
+
+Talia selected the status menu on her HUD and reviewed the data herself.
+
+[User Status]
+
+| Health: [95% (Minor Fatigue)] |
+
+| Oxygen Level: [0% (Switched to atmospheric filtration)] |
+
+| Suit Power Level: [72%, [Batteries (x4)]] |
+
+/ * /
+
+[Vehicle Status]
+
+| All-Terrain Vehicle, RSU-7S |
+
+| Vehicle Health: 99% |
+
+| Power Source: Fusion Cell (75% Charge) |
+
+| Cargo Load: Moderate |
+
+She grunted. The power drain on her ATV’s battery was much higher than even Neo had predicted and the drain on her suit was higher than normal, too. She had a niggling feeling that it might have been better to go during the day when the extra airflow would have been helpful instead of requiring her suit to compensate with heating.
+
+The temperature had dropped perilously near to 0°c even. She glanced toward the jungle lights and wondered how the plants there did so well in the cold. Was it cold? She flipped her main HUD overlay to IR imaging and her eyes widened in surprise. The entire area around the jungle was at least ten to fifteen degrees Celsius higher than the desert area.
+
+The thick canopy and edge vegetation was either holding in the heat or acting as some type of heating system.
+
+“Nature’s pretty resourceful.” Talia mumbled.
+
+[Informative: Alien biology can greatly differ from standardized Terran flora and fauna. Caution is advised.]
+
+“I think we’ll be fine unless it starts snowing.” Talia replied, although she thought they’d probably be fine even then. Snow was just frozen water, and that’d just be another resource once they set everything up.
+
+The path continued to smooth out compared to before, and she pushed over the more gently rolling sand dunes.
+
+[Informative: Signal from the Bootstrap Module is within suit range.]
+
+Her connections icon flashed, and she highlighted the module.
+
+| NO DATA |
+
+The large fat letters stared at her, causing her to frown. “No data?”
+
+[Informative: Remote access systems are disabled, or signal is too weak for a proper communication handshake. Local inspection is likely necessary to establish suit connection to module.]
+
+“Okay,” Talia said, more to herself than Neo. “Let’s keep going.”
+
+The rolling hills began to dip deeper and spread wider as they became open valleys. Each one stretched out like fingers on an enormous hand.
+
+[Observation: Local valleys appear to be ancient riverbeds.]
+
+“Hmm…that’s interesting.” And it was, but she didn’t have time for idle curiosity. She turned her focus to the technical aspects of guiding the RSU-7S up and down the terrain and avoiding any pitfalls or rocks while doing so.
+
+Spilling herself and all her cargo across the ground would be bad with a capital B. She was nearly to a crest when a red blip flashed urgently on her HUD, causing her heart to skip a beat while she skidded to a stop.
+
+[Warning: Energy discharge detected nearby.]
+
+“What? Where?” She quickly scanned her surroundings, but saw nothing out of the ordinary. A red blip appeared, indicating somewhere in the next valley over, about a mile away.
+
+“What kind of energy discharge are we talking about here, Neo?” she asked, trying not to let anxiety seep into her voice.
+
+[Analyzing: The energy signature matches those typically associated with weapon discharges. This unit cannot confirm whether this is a natural phenomenon or weapons fire.]
+
+Weaponry was not something she’d considered encountering here; certainly not while alone on a unexplored, supposedly uninhabited planet! But then again…she’d seen a lot of surprising things so far.
+
+Caution filled her. She maneuvered the ATV behind a cluster of large rocks that would hide her from the direction of the energy discharge.
+
+“I’m going to deploy the drone.” Talia said before selecting it on her HUD. The unit’s propellors spun to life, and she quickly had it gain altitude and lose itself in the night sky. The blue and green running lights deactivated when she turned on stealth mode, and the hum of the propellors dropped until she wasn’t even able to hear it from nearby.
+
+She promoted the camera view to nearly full screen and then directed it toward the energy signature. It didn’t take long for it to bring the area into focus with its camera zoom. What had caused the energy signature quickly became apparent.
+
+A blue humanoid figure was chasing after what looked like one of the spider-aliens she had seen before. Maybe even the one she had spotted earlier. It was hiding behind what appeared to be a large piece of debris from her ship, using it as a kind of shield. Green flashes shot out from the humanoid alien, each one lighting up the surrounding area with an eerie glow reminiscent of some type of plasma weapon.
+
+Each of the green globules splashed against the hull plate, splattering the area around the impact with sparks and smoking embers. The ship’s hull was hardly affected, being rated for far more energetic stresses than the hand weapon, but the blue alien was slowly closing in on the spider.
+
+She spotted the drag marks on the sandy rock where the spider had been hauling the wreckage.
+
+“Oh, no…” Talia murmured under her breath while watching the spectacle unfold through the live feed. This wasn’t good…not at all.
+
+[Informative: Weaponry appears to utilize plasma-based technology.]
+
+“Yeah…I can see that.” She replied, still transfixed by what was happening. A pang of sympathy for the spider creature filled her. Seeing it helpless and cornered didn’t sit right with her. She didn’t really approve of it stealing her wreckage, but that didn’t mean she wanted another alien to kill it for that.
+
+The danger-level felt like it had suddenly skyrocketed. She thumbed her multi-tool and checked that it was still charged. It was powerful and capable of a lot of things, but it wasn’t exactly a long range-weapon.
+
+She wasn’t equipped for a confrontation with potentially advanced aliens that had their own advanced technology.
+
+But there wasn’t much she could do about it without putting herself in danger. Shaking off the feeling, she redirected the drone towards the Bootstrap Module. It took several minutes, but the module finally came into view and relief washed over her like a tidal wave. It was embedded in the side of a hill, exactly where her nav point had indicated.
+
+She winced and her gut turned sour as the picture cleared up as the drone drew closer. Debris lay scattered all about, revealing that the module had endured a violent crash landing. She knew it would be messed up, but it looked much worse than she had hoped.
+
+Talia turned the drone around. Maybe things wouldn’t be as bad when she had a closeup look.
+
+“Neo, plot the best route to get us to the module. I want to get there before anything…starts trying to look at hauling pieces away.” Talia said.
+
+[Affirmative: A navigable route accounting for speed and terrain difficulty has been created. Please review on User HUD map.]
+
+She glanced at it and nodded. It was about what she’d have picked herself. As the quadcopter drone buzzed its way back to her, she noted the plasma shots were visible in the corner of the live feed.
+
+Talia bit her lip and took a deep breath. Like she usually did when she was about to do something she knew was stupid, but still needed to do anyway. Clearing her visor from HUD distractions, she rummaged in her crate for a spare cable and then cut it short. Her multi-tool easily welded a random rock to one end.
+
+As the drone landed on its perch, she replaced the battery, then tied the cable to the small quick release bracket on the bottom. A few seconds of testing later confirmed the load was within the drone’s capabilities to lift.
+
+The quadcopter rushed back to the scene of the alien conflict. The blue humanoid had nearly worked its way around the shield the spider was pinned behind. A few more minutes and it would have a clear shot at the poor creature.
+
+[Warning: Quadcopter Drone is operating at maximum load capacity.]
+
+“I know, Neo,” Talia muttered under her breath as she focused all her attention on controlling the drone’s movements.
+
+She guided it low and fast towards them; an unseen predator swooping down on unsuspecting prey. As it zipped past the blue alien, she forced an abrupt corkscrew maneuver around the alien’s legs, making the cable whip around it.
+
+The rock provided a counterweight, allowing it to swing and entangle itself around the alien’s feet. A series of furious grunts erupted as it toppled over into the sand. Just before the cable yanked the drone out of the air, she thumbed the quick release, allowing the drone to whizz away, hopefully unseen.
+
+She watched as the spider reacted instantly to the development, fleeing at top speed in a zig-zag. By the time the alien regained its feet, the spider was clearly far out of range of the weapon, and the blue alien didn’t seem keen on chasing it. But it was intensely curious over the discarded hull plate the spider had left impaled in the sand.
+
+Letting out a tense breath, she quickly directed the drone back to its mount on her RSU-7S. She angled her path well around the location of both the aliens and sped away at what was maybe faster than was safe.
+
+The Bootstrap module was only four or five kilometers away, and she needed to secure the location…and see if there were any standard defense items she could make.

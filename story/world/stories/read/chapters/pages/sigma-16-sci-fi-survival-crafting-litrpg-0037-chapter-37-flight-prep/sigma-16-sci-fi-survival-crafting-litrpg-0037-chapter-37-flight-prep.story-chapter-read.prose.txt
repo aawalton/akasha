@@ -1,0 +1,187 @@
+The worry and anxiety of waiting for any sign of activity from their quadcopter scouts had made sleeping nearly impossible. Talia had not slept well when sunrise finally arrived, heralding a new day. She downed a survival ration and quickly got her suit on while Neo informed her that there had been no changes.
+
+She headed outside immediately and headed for the spider’s nest. Dusky was still standing guard at the entrance and chittered at her as she approached. Peeking inside, Dapple was sitting on a pile of fine gravel the spiders had made for their beds. She wouldn’t have given it any awards for comfort, but she supposed for them it might have been better than the perfectly angular cuts that her multi-tool had left.
+
+Dapple greeted her as well, although its chitters were subdued. Despite the spider allowing her to give it a good look over, she couldn’t tell if it was healing, infected, or anything else. She’d nabbed an additional 100 scan credits for the half dozen extra scans she had done trying to figure anything out, but Neo and the Cortex Ais had been at a loss.
+
+She was not a veterinarian, and apparently none of the AI jammed in Neo’s chip had any medical specialties, either. So, after checking on Dapple again, she focused her attention on what she could control.
+
+The Seeker-H7 had been deployed successfully. It was a beast of an aircraft, even larger than she imagined. It dwarfed the CRD-X9 units, and it was a full-sized plane. Whoever had given it the ‘light’ designation had been a little off…or the other units were even bigger, something she wasn’t sure would have been good considering the size of the base.
+
+“Neo, is it ready?” Talia asked.
+
+[Affirmative: Seeker-H7 unit is ready for inspection and deployment. All systems have finished self-diagnostics successfully and onboard AI reports all systems nominal.]
+
+A side panel behind the cockpit slid open, and a ladder slid down automatically as she approached. She walked around the undercarriage, inspecting the various surfaces and doodads that stuck out. She wasn’t exactly sure what they were, but the vehicle bristled with all kinds of them. Two large thrusters were built into the wings near the fuselage, and a large tail pane ended on an angular spike.
+
+There were two large ports underneath each of the thrusters, allowing the vehicle to switch between vertical thrust and forward thrust by opening or closing them. The ability to take off and land vertically was essential, because while there were plenty of flat areas around the base, she wasn’t sure landing on loose sand was safe, and the rocky areas had so many bumps and obstacles it would be a disaster.
+
+Although she could have spent the effort using the CRD-X9s to create one, that wouldn’t help if she wanted to land somewhere in the field.
+
+She turned toward the ladder. “Neo, any updates from our scouts?”
+
+[Informative: As previously determined, the hostile alien vehicle retreated west, deeper into the desert. The vehicle continued beyond the maximum range of our scout units. Currently, a rotating patrol of twelve drones are providing three rings of surveillance out to 12 kilometers, centered on User base.]
+
+Talia put a hand on the ladder and began to climb up. “Thanks. So no sign of them. I’m still mad that they snuck up on us like that.”
+
+The inside was cramped, but there were two passenger seats that formed a small cabin for personal storage behind the pilot’s cockpit. That hadn’t been advertised but probably wasn’t that helpful. She didn’t have anyone to fly around with anyway. There certainly was no chance she’d be getting a spider inside the compartment, even if one of them had wanted to.
+
+She had a feeling that they hadn’t seen the last of the blue aliens. But at least they seemed to have some breathing room. And it was needed. She didn’t think the base was protected well enough at all to repel a military threat.
+
+If the blue aliens were native, and the vehicle and plasma weapons represented their best tech, they’d still have access to artillery and things that would be able to obliterate the base without being able to reply. If they were visitors like her, then they had a ship and even her civilian corvette had been armed with long range railguns that could have fired on the base from orbit.
+
+“Our priority needs to be to establish a defensive perimeter that can stop another attack by the blue aliens,” Talia said, gazing out of the cockpit at the base and desert mountains stretching out across the horizon.
+
+“The drone patrols are good for alerting us, but we need some type of defense against indirect bombardment, something that could defend against air attacks, and then consider something that could shoot back at anything attacking. I know we had an artillery type turret available earlier…”
+
+[Analytical: Current defensive capabilities include: the Cortex Vanguard ADS, Sentinel Sentry Turrets, and QCD-2P patrol units.]
+
+Talia nodded. “Those are the things we have right now. We only had one copy for the CVADS, but we can print as many quadcopters and sentry turrets as we want. But I don’t think the Sentinel can do much, can it?”
+
+[Notice: While Sentinel Sentry Turret is a low caliber device, it should not be underestimated. The turret can be solar and battery powered, and is relatively cheap to produce. While unable to harm the Rockslasher, it could prove suitable as a deterrent against light vehicles and infantry units.]
+
+“From the description, the bullets don’t even penetrate. How can it be effective against light vehicles?” Talia asked.
+
+[Notice: A non-standard solution is available. Production of ammunition for Cortex Vanguard ADS, then scrapping part of the projectile assembly, can produce a modified shell that is compatible with Sentinel Sentry Turret. This process can be automated inside User fabricator to produce entire magazine clips for the Sentinel.]
+
+“And this would make them lethal, instead of…whatever useless crap they normally come with?”
+
+[Affirmative: Effectiveness should account for infantry with standard body armor and light unarmored vehicles.]
+
+“And so far, all we have seen of the blue guys is infantry and that buggy… You’re right, we should definitely put in for a batch of those and place them around the base. Even if they are just distractions.” She flipped her HUD to the fabricator menu and selected the Sentinel.
+
+[Sentinel Security Turret]
+
+| Durasteel: 35 |
+
+| Refined Silicates: 20 |
+
+| Advanced Alloys: 25 |
+
+| High-Conductive Material: 20 |
+
+“That’s so cheap…”
+
+[Notice: Modified ammunition type requires an additional 100 Durasteel per magazine. Each magazine contains 100 rounds.]
+
+Talia blinked. “Oh. Wait, you mean the first turret we made needed a fresh magazine? It came loaded already?”
+
+[Affirmative: Current Sentinel Sentry Turret has 12 rounds of non-lethal ammunition remaining.]
+
+She laughed. “Fuck. That thing really was useless…We’ll recycle it later when we set up the new turrets. Can we make…like ten, with five magazines each?”
+
+[Bootstrap Stockpile Remaining after Sentinel Security Turret x10 w/ Modified Ammunition Magazine x5]
+
+| Durasteel: 23,306 - 5,350 = 17,956 |
+
+| Refined Silicates: 853 - 200 = 653 |
+
+| Advanced Alloy: 1,316 - 250 = 1,066 |
+
+| High-Conductive Material: 1,154 - 200 = 954 |
+
+| High-Energy Matter: 0 |
+
+| Fusion Cells: 28 |
+
+“Burning off our surplus fast, aren’t we? At least it’s a start, and with the Cortex Vanguard ADS on the roof… it can probably deal with any direct attack until we can improve things,” Talia mused. Setting up a base on an alien world was already hard enough, but with the added challenge of having to prepare it against attacks? It was daunting, but she was determined to make it work. She had to.
+
+“That will take care of what we can do immediately, but we need to look at larger solutions, too.” She flipped to the schematic database on her HUD. “Neo, can you find some larger base defenses? Show me entries for things that would be really useful, even if we don’t have enough scan credits to unlock it yet.”
+
+[Informative: Accessing schematics database.]
+
+The screen flickered to life, and a list of options appeared. The Cortex Vanguard ADS and Titan Artillery System she had seen before. She flipped past them to another familiar upgrade, the Cortex Raptor Drone Defense Swarm, and paused.
+
+[Equipment: Cortex Raptor Drone Defense Swarm]
+
+| Description: The Raptor system deploys a swarm of mini drones armed with small gauss rifles. They can patrol a large area and neutralize intruders upon detection. Drones are capable of self-recharging and act in teams of twelve. Upgrade pads are available to enable multiple teams with different patrol routes. |
+
+[Effect: Mobile defense swarm]
+
+[Cost: 4000 Credits]
+
+She needed that. A quick check showed that the Raptor drones were much more capable than her quadcopters. They were armed, had twice the range as the quadcopters, and would literally be capable of acting as her own little miniature army around the base.
+
+But there were more entries that stole her attention.
+
+[Equipment: Cortex Bastion Shield Generator]
+
+| Description: The Bastion is an automated shield generator capable of protecting a large area from incoming artillery and missile attacks. It uses advanced energy manipulation technology to create a dome-shaped barrier that can absorb and dissipate high amounts of kinetic and thermal energy. |
+
+[Effect: Advanced shield defense system]
+
+[Cost: 6000 Credits]
+
+“Haha…Neo how much power does this thing take?” Talia muttered.
+
+[Notice: Bastion power requirements currently exceed current infrastructure capabilities. Additional Generators would be required for sustained usage.]
+
+“Yeaaaah…” Talia flicked to the next entry.
+
+[Equipment: Cortex Phantom Stealth System]
+
+| Description: The Phantom is a stealth system designed to mask your base from enemy detection. It uses advanced light-bending technology to create a visual illusion, making your base appear as an uninteresting part of the landscape to outside observers. |
+
+[Effect: Base camouflage system]
+
+[Cost: 5000 Credits]
+
+Talia took a moment to consider her options. The Raptor drones would be useful, while the Bastion could protect them from long-range attacks. And the Phantom… well, being invisible could certainly have its advantages.
+
+“What about the Phantom? How much power does it take?”
+
+[Informative: The power requirements of the Phantom Stealth System are modest and could run off a single Cortex Generator MK1, however the stealth technology requires that all waste heat be dumped into heatsinks for later. Considerable rods would be required to be built into the earth to radiate this heat via ground conduction for sustained stealth.]
+
+“And it doesn’t hide all evidence either…if they got close enough, or spotted tracks leading into the zone, they might notice…and they could have already located the base anyway. This might make more sense later if we want to move, but probably isn’t the best investment for us right now,” Talia decided.
+
+Besides…all the options were pricey, although she knew they would be. “What’s our scan credit balance?”
+
+| Cortex Inc. Scan Credit Balance: 875 |
+
+A grimace crossed her face. The purchase of the Seeker schematic had taken almost all the big windfall they had gained when meeting the spiders. It hadn’t paid nearly as much as how scary the encounter had been, even if Dusky and Dapple were friendly.
+
+“I guess we will need to do more scanning. Can the Seeker help with that? I noticed it has more than one type of scanner.” She had counted at least three different dishes and antennas on the undercarriage, and there were two larger antennas on the wings.
+
+[Informative: The Seeker-H7 is equipped with advanced scanning capabilities that surpass the range and detail of your multi-tool and suit scanner. Besides being able to detect sub-surface resource deposits at up to 30km range, it can analyze flora and fauna at distances up to 250 meters. While these scans are lower resolution, they could be worth considerable credits if done en masse over a wide area.]
+
+“So…a flyover of the jungle might get us a lot of points.” Talia concluded.
+
+[Affirmative: In addition, long range scans can detect technological devices at a distance, pick up active radar or emission signals, and detect other units with a large enough radar cross section, which would include light vehicles.]
+
+“We’ll spot the Blues from much further out than the drones could if they are in a vehicle then…” But spotting them was only half the problem. They needed the firepower and defenses to deal with them as well. That meant earning more scan credits to unlock more gear and equipment while continuing to progress on the development front.
+
+They had come quite far from her survival pod, in a relatively short period, but there was no way she could let up on the pace. “Neo, is there any way we can get the Scan Credits with… something other than scanning? It’s slow and dangerous. Maybe we could sell them…resources or something?”
+
+[Notice: This unit can confer with Cortex AI units and attempt to establish additional pathways to earn credits to unlock schematics. However, it is unlikely that selling resources that Cortex Inc. would have no access to would fulfill their programmatic goals.]
+
+She leaned back into her flight seat and stared at the inside of her helmet. “What are their programmatic goals, other than milking as much value out of us as possible?”
+
+[Informative: Currently scan data is being collected and turned to Proprietary data for Cortex Inc. to exploit upon our return to a populated system. Earning additional credits would likely come in the form of selling resource deposit claims, research and scan data, documenting alien structures, constructs or artifacts, data on unknown alien civilizations and activities, or by transfer of other intangible assets that are created by User activities on Sigma 16.]
+
+“Wait, wait, wait,” Talia interrupted. “Structures? Civilizations? I thought our scan from orbit showed nothing. That’s why I went to sleep after we arrived.”
+
+[Informative: Initial scans may not have detected signs of civilization or the presence of an active society. However, your subterranean encounter revealed evidence of a technological civilization and artifacts. In addition, the ‘Blues’ we've encountered are clearly technologically advanced.]
+
+Talia frowned. “The Blues might not be native to the planet.”
+
+[Affirmative: This is a possibility. However, data on their race, vehicles, and equipment would be valuable. Details of their society, objectives, and presence on Sigma 16, or in the wider star cluster, would have higher value still. Information brokering is one of the highest paying exploration tracks available.]
+
+Talia frowned. “I know, but it can also be the most dangerous. That’s why I wanted to find an uninhabited world that had a good biosphere and research it for colonization…Less adversarial and there is always some small group looking for a new planet to call home.”
+
+Silence stretched for a bit. She checked her clock; she’d spent over an hour talking to Neo and looking over the schematics and making the defense plans. The cockpit was silent. She needed to go test it out.
+
+“Now…Neo. Can you please explain what I’m supposed to do to make this thing work?” The only light was coming from emergency lights and the open side hatch she had climbed in.
+
+It had been slightly helpful not having any distractions while planning, but it wasn’t helpful if she wanted to get the Seeker airborne.
+
+[Notice: Seeker-H7 utilizes User voice activation. An automated flight unit is capable of maneuvering and flight, while User provides navigation.]
+
+Everything lit up at once, including the main screen, which mimicked a glass canopy using the external optical cameras.
+
+“That’s great, because I don’t have a flying lesson and I have no idea what all these buttons and sliders do.” Talia replied.
+
+Suddenly, the touchscreen buttons blanked out and were replaced by a series of statistics, panels and maps of the local area.
+
+[Notice: Automated flight mode engaged. User will direct the flight while AI executes the orders in a safe and consistent manner.]
+
+Talia smiled. “Alright. Let’s do it then. Start scanning!”

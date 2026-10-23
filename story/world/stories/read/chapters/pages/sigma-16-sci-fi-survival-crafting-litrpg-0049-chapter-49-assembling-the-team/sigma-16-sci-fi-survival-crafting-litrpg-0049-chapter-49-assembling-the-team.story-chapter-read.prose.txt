@@ -1,0 +1,167 @@
+For two days Talia agonized on what units she needed for the operation while overseeing the resource gathering efforts. Key points that she had to keep in mind were that she wasn’t able to simply shell the area with the artillery units, because that would risk damaging the research module or killing the spiders. Despite the promised accuracy of the Lynx’s main weapon system, that risk just felt too high.
+
+Still…she added two Lynx M3 units to the list. Even if she couldn’t utilize them against the entrenched units around the base, if there were other units further away… well, there was a reason heavy armor had become slightly obsolete on the battlefield.
+
+Thankfully, the second recon team she’d sent to scout hadn’t located any hostile units, although the numbers of Blues had continued to increase. It felt like her Seeker had spooked them, but not so much as to rush breaching the research module or move the spiders.
+
+What exactly they wanted from the poor creatures was beyond her. From what she could tell they had just locked them up and then forgot about them. Where and how they had been captured was a mystery as well.
+
+“Neo, are the combat chips for the Panthers ready?” Talia asked.
+
+[Affirmative: Combat AI modules for each unit has finished completion.]
+
+“Great. I’m going to go install them then.” She headed out of the Bootstrap module and into the morning sun. A half dozen drones were driving around the base, taking care of clearing out the terrain and making more parking areas. A few maintenance drones were taking care of replacing the fusion cells in the returning Raptor drones on the second drone pad, while others tending to the new hydroponics module.
+
+It was hard to believe what a difference a few days could make, but once she had stopped and focused on multiplying their resource gathering capabilities, the amount of available resources had nearly doubled, and that exponential curve allowed her to expand everything massively. The fabricator no longer sat idle for hours at a time, waiting for something to do. There was always something in progress, and that had led to the latest bottleneck.
+
+Neo couldn’t handle everything going on, and that had been confirmed by the migraine that had begun to sneak up on her the day before. She knew he ran on the organic computer known as her brain, but it was a bit unsettling to actually feel the effects.
+
+Which was why they had needed to deploy the specialized combat AI modules. Each one would provide its vehicle with its own intelligent AI subcore, which, while not as smart as Neo, was plenty smart enough to do its specialized task.
+
+For the combat vehicles, that was everything military related. They already came with a basic version which could let them aim and shoot, but with the additional module they’d be able to do much, much more. Work together, make tactical plans, carry out more complex orders, and work towards achieving a mission goal instead of a simple shoot here, go there.
+
+All without requiring constant supervision of Neo or herself.
+
+Talia climbed up onto the waiting Panther X-1, grasping at the side handles and pulling herself up. The top hatch to the tank opened, and she slid inside. The space would have been cramped if she’d been in a regular space suit, but her exo-suit was bulky enough that she wasn’t going to fit in the driver’s seat.
+
+“Frack. Why is there no room?” she mumbled.
+
+[Observation: Panther X-1 was designed with standard military operator suits in mind. User exo-suit is the equivalent of heavy infantry power armor, which may result in a tighter fit.]
+
+Talia grunted in acknowledgement. “Well, they should’ve made it bigger,” she complained as she adjusted herself.
+
+[Informative: Modifications to the design of a new model could be accomplished with access to the research module.]
+
+“We don’t have a research module, Neo,” Talia countered, frustration evident in her voice. “It is part of the reason we’re going through all this.”
+
+She shook her head. Reaching out of the hatch, she pulled the module inside, then shimmied it over to the seat. Her multi-tool was already filled with the needed material to create a hardline wire connection between the console and the module, so it only took a few minutes to figure out.
+
+She eyed the seatbelt warily and discarded the idea instantly. Instead, she removed the cushions and then welded the box to the frame. “Okay, it is hooked up. Is it working?”
+
+Yellow blinking lights lit up on the side of the box before the vehicle powered on. A moment later, Neo confirmed.
+
+[Affirmative: Panther X-1 Alpha 1 tactical unit, online. Standby mode has been activated until User completes activation of other units.]
+
+Talia pulled herself out of the Panther, then moved on to the next vehicle. She repeated the same steps in each of the remaining Panthers. Once she had finished with all five units, Neo chimed in.
+
+[Informative: All Panther X-1 units have been activated and are awaiting further instructions. Requesting permission to send Alpha 1 through 5 on a standard patrol mission to increase unit cohesion.]
+
+“Sure. It’s funny how we have to ‘train’ these AI-drive vehicles to work together, though,” Talia replied.
+
+[Informative: Tactical AI unit training is a standard for all autonomous-capable combat units. Units will adjust to each unit’s real-world performance characteristics and each unit will acclimatize to its own role in the combat group. An increase in unit competence by 150% can be expected after proper training and familiarization drills.]
+
+“Okay, that’s good to know. What about our Raptor units? Shouldn’t we train them as well, then?” Talia asked.
+
+[Informative: Raptor drone pods are controlled by a central control AI housed within drone module base. This central AI operates each Raptor drone, and is specialized in organizing each air unit in groups or individually. However, the primary module can be included in training with Panther Group Alpha for additional cohesion improvement.]
+
+“Okay. I think I understand. We’ll want to train the AI units that make decisions and control stuff to work together.” Talia’s attention drifted over to the two spiders. Dusky was rolling around on the ground, while Dapple watched the other spider’s antics. “I’m going to need you to organize more than just training the combat units, Neo. Do you think you can create a training video for Dapple and Dusky?”
+
+[Notice: This unit will require further direction by User on ‘training video’ specifications.]
+
+“When they helped move the shield generator into place, you made the little video showing them what to do. I don’t think the translators are going to work well enough to explain everything, but if you make a video showing them what we want to do… I think they are smart enough to understand it,” Talia explained.
+
+[Notice: This Unit can create a training video that demonstrates desired tasks for Dusky and Dapple. However, specific plan data is required to ensure the video accurately conveys the desired information.]
+
+Talia looked at the tanks and considered. It made sense that they needed a hard plan, but so far she had only been putting together vague details. She wasn’t even sure she had the expertise to put together an actual tactical operation—no; she was sure she didn’t. Neo probably did. He had a vast array of information available and knew how to sift through it instantly.
+
+Heck, there was probably a tactical planning AI unit somewhere in her head that could figure out what they needed to do—specifically—and adjust it on the fly as well.
+
+She would need to work on that later in the evening.
+
+“Neo, is there a type of armored carrier with more internal space that could carry me and the spiders? Something we could use for the mission as a command vehicle?” Talia asked.
+
+An entry lit up on her HUD that fit the bill perfectly, although, despite the large hatch on the back, she wasn’t sure if the spiders would actually fit in it.
+
+[Equipment: Pegasus Armored Personnel Carrier (APC)]
+
+| Description: The Pegasus APC is an armored carrier designed to transport up to 10 infantry units and their equipment. Internal space should be sufficient for Dusky and Dapple. With thick armor, spacious interiors, and various safety features, it offers a flexible solution for missions requiring the movement of both people and equipment. |
+
+[Effect: Mobile armored transportation platform]
+
+[Cost: Unlocked]
+
+“Alright, that looks good. Slot it at the front of the queue. I want to test it this evening before we take the convoy for the HEM run,” Talia instructed. Despite how complicated everything had become, a growing sense of confidence filled her. There had been some close calls, and even some minor setbacks, but so far, with Neo’s help, she’d been able to overcome them all.
+
+[Suggestion: While armored vehicles and combat drones are effective in many situations, it is recommended that User also consider deploying lighter units for upcoming attack. Light humanoid robotic units can provide additional flexibility and adaptability during the mission, while decreasing the risk of collateral damage significantly.]
+
+That made a bit of sense. It wasn’t uncommon for the military to deploy masses of robotic infantry in place of human soldiers, either. Actually, they made up the majority of the infantry forces in the United Federation of Earth’s military.
+
+Only EarthGov still maintained sizable human infantry in their divisions, and that was mostly because they were largely utilized for police actions, and having a human face was good for the cameras.
+
+Her HUD flickered and replaced the Pegasus with three new info cards.
+
+[Equipment: Light Infantry Robotic Unit (LIRU)]
+
+| Description: Agile and fast, LIRUs are designed for reconnaissance and hit-and-run tactics. Equipped with lightweight weaponry such as precision lasers and small-caliber guns, they can swiftly navigate complex terrains, providing critical intelligence. Their limited armor makes them vulnerable to heavy attacks but allows for enhanced mobility. Perfect for scouting, infiltration, or skirmish missions. |
+
+[Usage: Mobile scouting and light combat unit.]
+
+[Weight: 300kg]
+
+[Top Speed: 60km/hr]
+
+[Movement: Bipedal]
+
+[Cost: Unlocked]
+
+“Okay, so LIRUs are the scouts. Maybe infiltrators? They will definitely come in handy. But we’ll need to be careful not to place them in situations where they are exposed to heavy fire.”
+
+[Affirmative: LIRU units are designed to avoid direct confrontation and excel at ambush and distraction. They can also provide a quick response force. The local desert terrain limits their potential, however in the mountainous region the Research Module is located in they could prove an invaluable force multiplier.]
+
+She turned her attention to the second info card.
+
+[Equipment: Medium Infantry Robotic Unit (MIRU)]
+
+| Description: MIRUs represent a versatile and balanced design, capable of engaging in various combat scenarios. With medium-range weapons like assault rifles and grenade launchers, and moderate armor, they flexibly respond to evolving battlefield conditions. MIRUs can act as the backbone of an attack, offering support to both lighter and heavier units. |
+
+[Usage: Mobile all-rounder combat unit.]
+
+[Weight: 600kg]
+
+[Top Speed: 45km/hr]
+
+[Movement: Bipedal]
+
+[Cost: Unlocked]
+
+“Okay, I assume these are our standard infantry. They can do just about anything depending on their loadouts?”
+
+[Informative: MIRU units are well-rounded combatants. Depending on their mission profile, they can utilize anti-armor, anti-aircraft, and anti-infantry weaponry. Their versatility and adaptability are their primary strength.]
+
+“Let me guess… the third one is heavy.” Sure enough, she was right as she flicked to the third card.
+
+[Equipment: Heavy Infantry Robotic Unit (HIRU)]
+
+| Description: Built for frontline combat, HIRUs are heavily armored juggernauts designed to withstand significant damage. Equipped with powerful weaponry, including heavy machine guns and missile launchers, they can suppress and eliminate strong enemy positions. Their dense armor sacrifices speed for resilience, making them a formidable presence in support roles, defensive lines, or as the spearhead of an assault. |
+
+[Usage: Mobile heavy combat unit.]
+
+[Weight: 900kg]
+
+[Top Speed: 30km/hr]
+
+[Movement: Bipedal]
+
+[Cost: Unlocked]
+
+“Basically, a walking tank, or miniature mech… They’ll be crucial if we need to assault a heavily defended position. Will their armor work against those plasma weapons the aliens had?”
+
+[Notice: While HIRU units each possess a personal shield generator, alien plasma weapons would likely degrade the defensive field. However, at least one to two direct hits could be mitigated. It should be noted that HIRU units share a similarity to User exo-suit capabilities and can be remotely operated by User.]
+
+“Ohhh. That’s good to know. I’m guessing I can remotely pilot any of these and stay back myself,” Talia replied.
+
+[Affirmative: Personal risks to User safety should be avoided where possible. Utilizing direct telemetry to remotely pilot a combat drone should be a consideration in the upcoming mission.]
+
+“Yeah. I agree, it makes sense,” Talia said. A frown crossed her lips as she looked at the LIRU schematic. It was the same unit that the military AI had built along with the small fabricator, before trying to run off and do its own thing.
+
+“We’ll be able to control them all ourselves? The Military isn’t going to be able to hijack them or anything?” Talia asked.
+
+[Informative: Personal User access codes will be locked into each unit, and no known security vulnerability allows hijacking. The security feature that prevented User control of previous military-controlled unit utilized the same security measures and could not be overridden.]
+
+She wasn’t sure she could trust that, but realized it was a moot point. The robotic infantry wasn’t that much different than all the other units she had already produced, but if someone came by and took over her equipment, she’d be pissed. Once she had the Research Module, maybe Neo could do a more thorough ‘vetting’ of the units to make sure.
+
+Careful consideration of how each type of unit would fit into their overall plan was needed. “How many IRUs are we going to need to make, and are we going to need to add a bunch more Pegasus APCs to the list? We’re going to have to delay for another day or two…”
+
+[Informative: Infantry Unit production modules include sets of 6 LIRU, 4 MIRU, and 2 HIRU drones per fabrication run. Additionally, all three types of robotic infantry are capable of utilizing handholds found on Panther X-1, Lynx M3, and Pegasus units. Additional transport for more infantry units could be achieved with additional Pegasus APCs, however the current transport should be sufficient.]
+
+“Okay, that’s good then. I’m getting worried we are building up too much and everything is taking too long, despite how fast everything is going… We’ll go after the HEM tonight, and then maybe be ready tomorrow?”

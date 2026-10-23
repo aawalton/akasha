@@ -1,0 +1,139 @@
+Talia raced around the desert, her heart pounding with excitement as she put the RSU-7S through its paces. The vehicle was fast and responsive, easily handling any obstacles or rough terrain it encountered. She couldn’t help but laugh aloud as she accelerated over a small dune, the thrill of speed and freedom temporarily pushing aside her survival concerns. Sand kicked up behind her as she made a huge circle around her hill, the particles lazily drifting in the direction of the jungle before settling back down.
+
+After an hour of letting loose, she brought her new ride to a stop beside her solar array and fabricator. Her HUD beeped that the quadcopter was nearing completion. She sat down on the crate to wait for it and took a moment to examine her equipment.
+
+“We have a nice setup.” She mused to herself. The Battpack module was happily charging, and the sun was strong and doing a good job at providing power. The escape pod was dismantled and the remaining resource hexagons and fusion cells were neatly stacked. Most importantly, her newest vehicle sat ready to go.
+
+She just needed a survival habitat now, and she had all the tools she needed to search out the Bootstrap Module and make that happen. Her methodology of breaking things down into one-step-at-a-time was seeing her through the ordeal. Ordeal. She really was all alone out here.
+
+Talia bit her lip. Uncertainty and fear threatened to fill her chest, but she ruthlessly pushed them down. Staying positive and pushing through things was also part of her method. It had served her well when growing up with absent parents.
+
+Not that it was her mother’s fault, she had died in an aircar accident. Her father had no excuse though, as powerful as he was, he could have spared his daughter more time than periodic media events. Just thinking of him ruined her mood.
+
+It had made running off with her trust fund, convincing the dealer to sell her a ship, and zig-zagging her way across the rim, doing as many cargo runs as possible. It would make setting up a base on the planet, and repairing or rebuilding her ship, possible.
+
+[Affirmative: Current survival camp has reached optimal operational capacity for immediate survival needs and preparation for Bootstrap Module expedition, which is critical to long-term User survival.]
+
+She didn’t need Neo to point that out. If she had to build everything the Bootstrap Module contained from scratch, it would take forever. She’d never get the shower she desperately wanted before the icky suit feeling became permanent.
+
+A ding and blinking icon informed her fabrication was complete. A familiar looking black cube was raised out of the fab’s interior, although it was much smaller than the previous ones. She picked it up and quickly took it over to a clear spot and unboxed it.
+
+The fancy spinning lights rapidly produced the drone, but Talia couldn’t help but feel like there was a lot of waste going into making the module then recycling. “Why couldn’t the fab just make the drone? The light show made sense for my suit upgrade, and the ATV was too big to fit in the fab, but why the drone?”
+
+[Informative: Survival fabricator schematics are standardized to streamline production. Laser synthesis printing is not possible inside the fabricator’s production chamber.]
+
+“Okay.” She didn’t know enough about the process to argue. Nor was it relevant to the process. Maybe she’d look up how it worked later when she had time to browse some technical manuals.
+
+As the drone finished materialization, she lifted it carefully between her gloved hands, feeling the surprisingly light weight of it. It had a slot for a single battery, and she pulled one out of her suit and snapped it into place. Green and blue lights blinked into existence, confirming its activation.
+
+Talia sat it down on a flat rock and selected it in her HUD’s RC section. She didn’t want to waste any time in trying it out. “Okay, Neo, let’s get this thing airborne.”
+
+[Notice: Quadcopter Drone connected to User suit systems.]
+
+The propellers spun to life with a low-pitched buzz. “Do we need to calibrate it or anything?”
+
+[Informative: Quadcopter Drone unit utilizes a self-adjusting stabilization system based on gyro, optical, and other systems. No User calibration is required.]
+
+She stepped back and an overlay containing a live feed from the drone’s camera appeared on one side of her visor, blocking half her vision. It was disorienting, and she blinked several times before eyeing her HUD menu.
+
+[Status]
+
+| Quadcopter Drone, QCD-2P |
+
+| Drone AI: Standard Cortex Interface |
+
+| Drone Health: [100% (Brand New)] |
+
+| Power Source: [Batteries x1 (Fully Charged)] |
+
+| Flight Speed: [0 km/h (Stationary)] |
+
+| Air Handling: [100% (Optimal)] |
+
+/ * /
+
+[Vehicle Specifications]
+
+| Manufacturer: [Cortex Inc.] |
+
+| Model: [QCD-2P] |
+
+| Type: [Quadcopter Drone] |
+
+| Mass: [5 kg] |
+
+| Max Speed: [60 km/h] |
+
+/ * /
+
+[System Status]
+
+| Chassis Integrity: 100% |
+
+| Power Cell Status: 100% |
+
+| System Status: All systems operational |
+
+She minimized the size of the overlay to just a quarter picture-in-picture instead of half and half. That felt much better to her, and she took in the multiple methods of control available.
+
+The simplest seemed to be hand gestures. She lifted her palm and the drone shot upwards obediently, perhaps faster than she had intended. Tilting her hand made it bank left or right and curling her fingers brought it back down. Yawing her hand left or right made it rotate. Easy enough and no need for a controller.
+
+That was perhaps a bit too much confidence because she nearly plowed the drone into her solar panels a few minutes later.
+
+“Oops. Neo, can you control it?” Talia asked.
+
+[Informative: This unit can direct drone to pre-recorded coordinates.]
+
+Talia tilted her head. “Eh, how about having it fly a big circle around our hill?”
+
+[Notice: Processing request, please wait.]
+
+There was almost an entire minute’s delay before the drone suddenly spun, then zoomed away. It went much further than she had intended, but it stopped before it disappeared from her sight and then began to make a long, wide circle about a mile in diameter around her.
+
+As soon as it made a complete loop, it beelined back to the rock and landed.
+
+“That was good, Neo. What about an automated follow mode that doesn’t run into anything?” That seemed like it would be a very useful feature, especially since it looked like the drone was more than fast enough to keep up with her ATV.
+
+[Informative: Drone can utilize a tracking flight mode; however, this flight mode could cause danger of collision with User or other equipment and cause damage. As part of the user agreement of schematic purchase, Cortex Inc. is not responsible or liable for any damages during drone operation.]
+
+“Yes, Mom,” was all she replied before taking off with the drone again. This time she had it beeline straight toward the northeast, hoping to get a better view of the route she’d take while seeking the Bootstrap Module.
+
+The drone whirred away obediently, its camera feed providing her with the aerial view she wanted. She worked through several settings to adjust its performance and activated all of its piloting assistance software. A few gusts of wind pushed it around slightly, but she was pleased to see the system adjust automatically and continue on course.
+
+[Notice: Generating topographical map utilizing drone footage. This map will be automatically generated based on User exploration.]
+
+Talia nodded and selected the new map icon on her HUD. It brought up another overlay, and she shoved it into the bottom right corner of her visor, just below the drone camera feed. It was disorienting, trying to control both the map view and the drone at the same time, but she was able to figure out the panning and zooming with her other hand while keeping the drone going.
+
+The map included a long line out to the east where she had ventured into the jungle. It was just a narrow path of green on the white uncharted background that jutted out of the large circle the drone had covered around the hill. It seemed like the drone was easily mapping an area several kilometers around it at its altitude, which she supposed was way more effective than being on foot.
+
+As more areas on the map continued to appear, she curved the drone’s course to follow more favorable terrain, trying to work out the path she’d take on her trip. When the drone turned toward the jungle slightly, she spotted movement in the distance and suddenly brought the drone to a halt.
+
+It was one of the spider-aliens. She zoomed the camera in as far as it would go. The spider was performing what she suddenly put down as what was perhaps one of their favorite pastimes: dragging wreckage toward the jungle. This one had a wide piece of a hull plate, and it was struggling to drag it through a rocky area.
+
+She marked the sighting on her map with a pin. The thought of meeting another spider was not exactly thrilling, especially since she didn’t have any shelter. It wasn’t quite as concerning as it might have been since she did have her equipment now, and she was confident in her RSU-7S’s ability to get her out of danger if one chased her.
+
+The long-term ramifications of spider-things crawling out of the jungle to drag back metal things would bear further thought in the future, though.
+
+The map ruler reported the drone was nearly seven miles away when the green icon suddenly turned yellow.
+
+[Notice: Signal strength has weakened to approximately 35%. Please consider drone recall before signal loss.]
+
+For a moment, she considered pushing the drone further; setting up a loss-of-signal return waypoint was simple enough. But losing the drone on its first flight was not a potential risk she wanted to take. She set the waypoint and asked Neo to fly it back on a slightly different but parallel course she had made in order to clear out more area on the map.
+
+It landed on the rock without issue, and she pulled out a fresh battery and swapped the drone’s depleted cell. The next couple of hours were spent sending the quadcopter on short trips, mostly focused on her future path. She even had the drone stretch out to nearly the maximum range it was capable of on half a battery charge toward the Bootstrap Module.
+
+She was confident in the route she’d created and changed gears into packing her things. That comprised mounting the drone on her ATV’s front bars, fabricating several sets of cargo cables, and packing up the fabricator into the crate while storing as many resources as possible inside the fabricator’s internal storage.
+
+It wasn’t quite time to pack up her solar array yet, so she found a shaded spot underneath the panels and took a short nap.
+
+[Notice: Battpack charge has reached 100%.]
+
+Talia opened her eyes and noted the evening sun had begun to approach the horizon, filling the sky with a vibrant orange hue. She checked that all the batteries in her suit, multi-tool, and quadcopter were fully charged and good to go. Finding everything in order, she retracted the panels and packed them and the Battpack into the crate.
+
+She frowned at the fusion cells. They were bulkier than she liked, and there really wasn’t a lot of room in the crate left with its contents in it. She put them on top, but there was no way it was going to close all the way. The cargo cables came in handy, and she wrapped everything multiple times in what she hoped would keep tension on the lid and prevent anything from spilling out, even if things got a little bumpy.
+
+She took one last look around the crash site, snatching up the alien shield she’d sat against a rock. It got placed on the back of the crate, two tensioned cables holding it in place.
+
+A soft twilight glow filled the area as dusk settled in, and her suit’s light amplification settings automatically adjusted for visibility. A night drive wasn’t that daunting, and Neo confirmed that her drone would work fine in the dark.
+
+She didn’t want to delay any longer, considering that there were kleptomaniac spiders running around. Her nav program lit up on her HUD and on the ATV’s touchscreen as she sat down on her seat. The nearly silent electric engine hummed to life with a button press and responded instantly to her throttle input, wheels kicking up dust as she spun into motion.

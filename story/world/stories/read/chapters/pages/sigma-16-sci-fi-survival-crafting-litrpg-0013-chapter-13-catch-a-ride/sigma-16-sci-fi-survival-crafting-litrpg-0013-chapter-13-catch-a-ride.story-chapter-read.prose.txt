@@ -1,0 +1,259 @@
+It only took a few minutes to haul the fabricator out of the escape pod and set it up. She moved fast despite feeling slightly fatigued. Once again, she used the crate as a makeshift seat while the fabricator provided a workspace and tabletop. The quick pace left her waiting for the sun to come up.
+
+Five minutes of waiting proved too much for her restlessness and she set about retracting the solar panels, removing the antenna, and detaching the module from the pod. Once back on the ground, she cut down the antenna, then welded it to her suit’s shoulder.
+
+It was a bit nerve-wracking to work on her suit with the clumsy multi-tool, but Neo encouraged her to complete the task. It didn’t even cost her any extra material.
+
+She set the fabricator up to stand freely on a rocky spot that she was fairly confident would support it. A few ground bolts would protect it from any light breezes.
+
+The fabricator emitted a soft hum as she reconnected all her wiring. Sitting back down, she eyed the escape pod that had been her refuge so far.
+
+“Neo,” Talia asked, “How much material can we get if we fully dismantle the pod?”
+
+[Survival Pod]
+
+| Durasteel: 148 |
+
+| Refined Silicates: 72 |
+
+| Advanced Alloys: 56 |
+
+| High-Conductive Material: 30 |
+
+| Fusion Cells: 12 |
+
+She filed that away for reference in the back of her head. It was a considerable amount of stuff and wouldn’t fit in her multi-tool. She’d need to utilize the quadruped or ATV to carry whatever she didn’t use.
+
+It probably wouldn’t be too hard to rig up a cargo system to carry the excess, since she was pretty sure there was a basic schematic for a crate in her fabricator, but it was still something to keep in mind.
+
+“Right. Can you show me the material costs of each of the drone models?” Talia continued.
+
+[Drone Models]
+
+[Quadcopter Unit]
+
+| Durasteel: 20 |
+
+| Refined Silicates: 15 |
+
+| Advanced Alloys: 10 |
+
+| High-Conductive Material: 5 |
+
+/ * /
+
+[Quadrupedal Load-Carrying Unit]
+
+| Durasteel: 30 |
+
+| Refined Silicates: 25 |
+
+| Advanced Alloys: 20 |
+
+| High-Conductive Material: 10 |
+
+/ * /
+
+[Rideable Scout Drone]
+
+| Durasteel: 40 |
+
+| Refined Silicates: 35 |
+
+| Advanced Alloys: 30 |
+
+| High-Conductive Material: 15 |
+
+Some quick math allowed her to cross-reference the costs with what she had and would receive from recycling the escape pod.
+
+She wanted the ATV, and that would leave her with enough resources to make two of the quadcopters or one quadruped. She didn’t want to use all of her resources though, because she’d likely need some for something, even if she didn’t know what it was yet.
+
+If the Bootstrap Module was damaged, she’d need something for repairs, and the ratios Neo had reported for mining other than the insanely rich bioluminescent jungle stuff was very bad. Something that would need to be automated if she didn’t want to die doing manual labor.
+
+“We’re going to make the Rideable Scout first, then the Quadcopter.” Talia said. “What about the Drone Control Upgrade? How much will it cost?”
+
+[Informative: SDC upgrade would normally require one unit of Durasteel for a suit mounted antenna, however, User has already installed a compatible device, and this requirement is subverted. No further change is required due to the upgrade being primarily a software implementation.]
+
+Talia’s eyes narrowed. That ate at her the wrong way, although she was sure someone had to develop the software. Shouldn’t it have been included with her suit? She wasn’t surprised, though. Cortex Inc. seemed to like to upsell all the extras.
+
+“How much Battpack is going to be needed? I’d like to build the Rideable first.” Talia said.
+
+[Informative: Approximately 56% charge will be required for the Rideable Scout Drone, while 24% should be sufficient for the Quadcopter unit.]
+
+Talia hummed as she took that in. She’d be burning a lot of power that she’d just recharged. She estimated that she’d be somewhere above 50% by the end of the day if she kept the solar panels charging the batteries the entire day.
+
+A night without shelter would be annoying, but not the end of the world. She’d have her new ride, at least.
+
+“Let’s get started.” Talia said.
+
+She went through the Pod looking for anything of value that wasn’t better off being recycled. She didn’t find much. The escape pod was only a single use unit and the batteries in it weren’t even rechargeable. The fusion cells were still valuable, but there was no reactor on board that used them. She wasn’t sure why they were even included.
+
+Each one weighed approximately 50 kg and was the size of a sports ball. She placed them inside the crate for later.
+
+She moved her equipment and the alien shield artifact to a safe distance after a final check inside and then began to deconstruct the Pod. The beams worked their way over it rapidly, slowly disintegrating the material layer by layer. The pod was almost halfway gone, sliced in what looked like half, when her tool reported that it was full with an angry beep.
+
+Unloading the hexagon material cylinders was annoying, and she propped each one up against the fabricator before continuing. The entire process took approximately two hours, and she sighed in relief when it was finally finished. Nothing but a deep gouge in the sand remained of her arrival vehicle.
+
+[Informative: A significant amount of resources have been obtained.]
+
+“Thanks Neo, I know,” Talia said while rolling her eyes. She reviewed the list anyway, just to make sure she had what was promised and needed. She wasn’t disappointed.
+
+She sorted the resources into different stacks, each one forming a small interlocked triangle thanks to the hexagon shape of the cylinders.
+
+She flipped the touchscreen to look for the ATV schematic, but the fabricator only had basic parts listed. “Neo, where is the rideable?”
+
+[Notice: A 150 Cortex credit surcharge is required for RSU schematic.]
+
+A pang of panic filled her. “Are these one-time use like the exo-skeleton?”
+
+[Informative: Unit fabrication schematics are multi-use unless otherwise noted.]
+
+Talia let out a sigh of relief. Not that she needed more than one vehicle at the moment, but if anything happened to it, she didn’t want to have to pay credits each time. She’d already burned them all, and she wasn’t sure when she’d get more chances to scan new things.
+
+“Okay. How much is the Quadcopter?”
+
+[Informative: Quadcopter schematic requires 50 Cortex credits, and Quadrupedal unit requires 100. User has 345 remaining Cortex credits.]
+
+“Okay. Please give me the Rideable and Quadcopter.” Talia ordered.
+
+| Cortex Inc. Credit Charge: -200 |
+
+| Cortex Inc. Credit Balance: 145 |
+
+The fabricator went to work. She had little to do, so she rested while watching the sunrise over the jungle. It was a relaxing sight at odds with her situation and she couldn’t really enjoy it like she had the early morning night sky and jungle light show.
+
+She was more than ready when a ding informed her that the process was complete.
+
+[Informative: RSU fabrication has completed. Please clear the work area and restock materials if further production is required.]
+
+Talia hopped up from her rock perch and pulled the finished cube off the table. It was larger and much heavier than her exo-skeleton upgrade had been, but that didn’t matter much with her suit’s assistance. She lifted it and hauled it to a flat area to place on the sand. “Deploy? Activate? Access? Whatever, Neo make it work.”
+
+[Notice: Please take several steps away from RSU deployment cube for User safety.]
+
+She did so, and the cube began to open up much the same way that she had seen the other units work, so she ignored the light show and prepared the fabricator to make a quadcopter. Resource blanks went in. She made sure the Battpack had enough charge, and then it flipped over to its regular hum sound it made during production.
+
+The large pile of resource hexagons had diminished considerably. Her HUD highlighted the remaining ones and provided her an overview of her remaining resources.
+
+[Remaining Resources]
+
+| Durasteel: 93 |
+
+| Refined Silicates: 24 |
+
+| Advanced Alloys: 16 |
+
+| High-Conductive Material: 10 |
+
+| Fusion Cells: 12 |
+
+A few seconds after getting things in motion, her RC icon began to blink.
+
+[Notice: RSU detected. Connect unit to suit?]
+
+“Yeah.” Talia said as she turned and moved to her new ATV. It was sleek and slightly larger than she had expected. That was nice because she’d have more room to bolt down cargo. She hadn’t been 100% sure how she was going to load the cargo, but now she saw she could just mount the crate horizontally on the rear seat area.
+
+Wanting a more in-depth look at her new toy, she pulled up its status window on her HUD.
+
+[Status]
+
+| All-Terrain Vehicle, RSU-7S |
+
+| Vehicle AI: Standard Cortex Interface |
+
+| Vehicle Health: [100% (Brand New)] |
+
+| Power Source: [Fusion Cells (Empty) (0% Charge)] |
+
+| Vehicle Speed: [0 km/h (Stationary)] |
+
+| Terrain Handling: [100% (Optimal)] |
+
+| Storage Capacity: [0% (Empty)] |
+
+| Vehicle Upgrades: [AI-Assisted Navigation, Adaptive Suspension, Infrared Imaging] |
+
+| Cargo: [Empty] |
+
+/ * /
+
+[Vehicle Specifications]
+
+| Manufacturer: [Cortex Inc.] |
+
+| Model: [RSU-7S] |
+
+| Type: [All-Terrain Vehicle (ATV)] |
+
+| Mass: [800 kg] |
+
+| Crew Capacity: [1-2 (Plus additional space for cargo)] |
+
+| Max Speed: [100 km/h] |
+
+| Ground Clearance: [0.6 m] |
+
+| Climbing Grade: [70% or 35 degrees] |
+
+| Fording Depth: [0.8 m] |
+
+| Endurance: [500 km (Dependent on power cell condition and driving conditions)] |
+
+/ * /
+
+[System Status]
+
+| Power Cell Status: [0%] |
+
+| Chassis Integrity: [100%] |
+
+| System Status: [All systems operational] |
+
+| Cargo Load: [0% (Max load 400 kg)] |
+
+Talia let out a whistle at the number overload her HUD displayed. It was a lot of neat statistics that she appreciated even if she’d probably not bother looking at them again, other than the most important ones like the power remaining.
+
+More importantly…
+
+“Neo, this thing uses fusion cells?” Talia asked.
+
+[Affirmative: Most medium and small units utilize fusion cells for energy storage. A conversion kit to renewable energy sources such as high-density batteries is available.]
+
+“Well, at 500 km range with a single fusion cell, we can go pretty far with the twelve recycling the Pod gave us,” Talia said.
+
+[Notice: While 500 km range is the official maximum range of the vehicle, this was recorded in optimal circumstances with no cargo load and a light-weight user. This unit estimates User will achieve approximately 150 km per fusion cell with current estimated weight load and biome driving conditions.]
+
+“Oof, that’s a lot less. Still well within range for what we need, though.” Talia replied.
+
+She checked on the fabricator, which reported that the quadcopter would take about an hour to finish, then fetched one of the fusion cells. She loaded it into the RSU and powered it up. The electric engine was nearly silent and if her HUD display hadn’t confirmed it, she wouldn’t have known it was even on.
+
+A stupid grin appeared on Talia’s face. “Heh, heh, heh. Catch a Ride time, let’s try this baby out!”
+
+[Warning: Conservation of limited resources could be endangered by non-essential usage of equipment.]
+
+Talia laughed. “Trust me, this is essential.”
+
+Neo remained silent as she took the RSU for a spin, but she did notice he updated her status sheet.
+
+[Status]
+
+| Suit AI, NEO: Level 1 |
+
+| Health: [92% (Reduce Exertion Levels to Improve)] |
+
+| Oxygen Level: [0% (Switched to atmospheric filtration)] |
+
+| Suit Power Level: [78%, [Batteries (x4)]] |
+
+| Hazard Protection: [100%] |
+
+| Nutri-Paste Reserve: [100%] |
+
+| Suit Upgrades: [Survival Tool, Exo-Skeleton Upgrade, Drone Control Upgrade] |
+
+| Inventory: [Survival Ration Bar], [Flare Gun], [Medi-Gel Cylinder], [Datapad], [Batteries(x6)] |
+
+| Located Equipment: [Battpack Array (Charging)], [Fabricator (Fabricating Quadcopter Drone)], [RSU-7S], [Fusion Cells (x11)] |
+
+| Control-Link: [Folding Solar Panel Array], [Cortex Scan Affiliate], [RSU-7S] |
+
+| Cortex Inc. Credit Balance: 145 |

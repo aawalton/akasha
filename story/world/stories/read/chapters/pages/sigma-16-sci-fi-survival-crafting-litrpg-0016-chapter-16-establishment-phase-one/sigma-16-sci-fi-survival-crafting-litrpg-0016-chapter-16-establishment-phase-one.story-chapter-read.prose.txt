@@ -1,0 +1,217 @@
+[Notice: User survival chance has declined due to potential conflict with native technological species.]
+
+“Thanks for that thrilling revelation,” Talia muttered. “Just when I thought things couldn’t get any worse.” She shook her head, wishing for the thousandth time she could take her helmet off and fix her hair. The RSU-7S dipped in a depression and she had to carefully maneuver in order not to unbalance the machine or tip it over.
+
+She was nearly at their destination; it had taken another hour of weaving through the wild terrain that, while clear of vegetation, was most certainly not clear of rocks or hidden drops. The nav point had grown larger and, according to the meter read-out, it was just over the next hill.
+
+[Notice: Bootstrap Module data link has been established. The module is requesting a security handshake.]
+
+She applied the brakes and came to a stop on one of the few relatively flat spots on the rise out of the previous valley. A new blinking icon had appeared, this one flashing red. She selected it and a confirmation box requested her permission to connect. She approved it and it all disappeared.
+
+A moment later, a response flashed as the digital handshake cleared successfully, approving her access but presenting a new problem.
+
+| Warning: Crisis mode active. All remote functions locked. |
+
+[Status]
+
+| Bootstrap Module: Emergency State |
+
+| Module Health: [58% (Significant damage)] |
+
+| Power Level: [Unknown, Crisis mode active] |
+
+| Hazard Protection: [Unknown, Crisis mode active] |
+
+| Fabrication Capability: [Unknown, Crisis mode active] |
+
+| Inventory: [Unknown, Crisis mode active] |
+
+| Module Upgrades: [High-Capacity Fabricator, Extended Power Cell Bank, Advanced AI-Assisted Operation] |
+
+| Equipment: [Unknown, Crisis mode active] |
+
+[Module Specifications]
+
+| Manufacturer: [Cortex Inc.] |
+
+| Model: [Bootstrap Module] |
+
+| Type: [Industrial Fabricator / Habitation Constructor] |
+
+| Mass: [250,000 kg] |
+
+| Crew Capacity: [Unmanned] |
+
+| Max Speed: [N/A (Non-movable unit)] |
+
+| Power Source: [Advanced Power Cell Bank] |
+
+| Fabrication Capability: [Can construct various structures and objects from raw materials] |
+
+| Deployment: [Can be deployed from space onto a planet's surface] |
+
+| Crisis Mode: [Locks all module functions until physically serviced] |
+
+[System Status]
+
+| Crisis Mode: [Active] |
+
+| Hull Integrity: [58%] |
+
+| Power Cell Status: [Unknown, Crisis mode active] |
+
+| Fabricator Status: [Unknown, Crisis mode active] |
+
+| AI-Assisted Operation: [Seized, Crisis mode active] |
+
+| Manual Override: [Seized, Crisis mode active] |
+
+| Hatch Access: [Seized, Crisis mode active] |
+
+| Please see your Cortex dealer for service. |
+
+Safe deployment from orbit, her ass. A frustrated grumble filled her throat. When she got back to civilization, she was going to do everything in her power to leave as many one-star reviews on all her Cortex Inc. products in exquisite detail based on her field testing.
+
+She squeezed the ATV’s throttle and continued towards the hill’s crest.
+
+[Informative: Although initial system checks have failed, no confirmation can be provided regarding complete operational failure.]
+
+[Recommendation: Inspect and ascertain status of Bootstrap Module.]
+
+Talia grunted. “Is that your way of telling me to cheer up? It might not be as bad as it seems?”
+
+Neo didn’t answer, but she hadn’t expected him to. He was probably pressing well up against his limits in his attempt to be her helpful therapist. But therapy wasn’t what she needed; or rather, not what she needed right now. What she needed was a working industrial module able to fabricate safe habitation in a short time.
+
+The Bootstrap module finally came into view, along with a dozen other craters and small groupings of wreckage. Red embers still glowed in the dark, while the Bootstrap Module had embedded itself halfway into the opposite hillside. A large portion of it stuck out at a diagonal angle to the ground, like a massive leaning pillar.
+
+It was, at the same time, better and worse than she had feared.
+
+“Alright then, let’s find out what we’re dealing with.” She said before powering her way through the valley, her eyes fixed on the hulking form slowly growing as she approached. She weaved between jumbles of crates and debris that lay scattered across the entire valley. The destruction was a brutal reminder of what had happened to her ship and her on its way down.
+
+She pulled up to the rear of the module and killed the engine on her RSU-7S before climbing off. She tilted her head back to take in the Bootstrap Module’s full height. The part that wasn’t buried in the sand was an intimidating sight even as damaged as it was.
+
+[Notice: User has arrived at Bootstrap Module location.]
+
+“Thanks for stating the obvious.” Talia rolled her eyes. Despite Neo’s announcement, there was no sense of achievement or relief; only a sinking feeling in the pit of her stomach that things would not be as simple or easy as she thought when she had set out from her escape pod’s crash site.
+
+She stepped up and placed a hand on the underside of the module. It had already cooled down to ambient temperature, according to her suit’s sensors. “Let’s see what we can do about you,” Talia whispered.
+
+[Recommendation: Utilizing QCD-2P quadcopter unit to scout and monitor for potential threats and hazards would allow User to investigate Bootstrap Module while maintaining awareness of the local surroundings.]
+
+Talia hummed in response, her eyes scanning the wreckage and embers still filling the valley. “Agreed. Let’s put the quadcopter on patrol and map out the area a little.”
+
+[Affirmative: Activating Quadcopter Drone.]
+
+Her eyes widened in surprise. “I didn’t even give you the way points.”
+
+[Notice: This unit anticipated User decision and prepared a set of waypoints for drone scout path.]
+
+A smile appeared on Talia’s lips. “Don’t go expecting too much. What if you wasted too many CPU cycles?”
+
+[Informative: This Unit is designed to integrate optimally with User’s workflow to provide maximum benefit.]
+
+“…To the User, right?” Talia questioned almost immediately when it was clear Neo had finished.
+
+[Affirmative: This Unit will provide beneficial usage to User.]
+
+She wasn’t quite sure if Cortex Inc had put in shadow algorithms or whatnot in Neo when they designed him. It was a jarring thought she had never paid attention to since getting her government chip replaced with him. He had been keen to offer her all kinds of Cortex Inc. products…
+
+As soon as the QCD-2P was out of sight, she checked the video feed on the bottom right for confirmation it was on course, then turned back to the Bootstrap Module. “Neo, highlight entry points.”
+
+A series of markers appeared on her HUD as Neo complied with her request; unfortunately, most of them were blocked or inaccessible due to their position. “How about other ways in? I don’t fancy digging through a metric ton of sand just to get to the door.”
+
+[Notice: Highlighting hull mounted access hatches.]
+
+Her gaze flicked upwards to the top of the module, where there were multiple hatches running up and down the spine. On the roof. She glanced at where the module entered the sand. It was possible she could walk up it that way.
+
+There was another way though and didn’t involve her making her way up a high angle and hoping her boot magnetics didn’t fail while carrying anything heavy. She unlatched her multi-tool and began to deconstruct some of the loose debris in the area.
+
+Almost all of it was Durasteel, and after five minutes she’d finished her collection.
+
+| Durasteel x100 Acquired |
+
+[Notice: Tool Capacity has been reached.]
+
+[Multi-Tool]
+
+| Power Level: [65% (Batteries x2)] |
+
+| Durability: [93%] |
+
+| Total Capacity: 100/100 |
+
+[Contains]
+
+| Durasteel x100 |
+
+“Simple enough,” she said. Returning to the module, she pointed at its belly. “I need some schematics, Neo. Unless you are expecting me to paint this freestyle?”
+
+She didn’t need to prompt him for what type of schematics. Almost immediately, a list of different shapes appeared. She scrolled through it rapidly until she found the type of support column she wanted.
+
+The multi-tool spat out its lasers, rapidly printing the metal in the shape she desired. A few minutes later, she had four large metal columns, each braced by diagonal supports all the way from the ground and up to the structure.
+
+Now she wouldn’t have to worry about her weight causing it to dislodge…not that it was likely, but as a test of the construction abilities, it was fine. It wasn’t the best support, since she hadn’t dug a hole for it to sit in, but that could be done later, when she had a robot helper or something.
+
+The multi-tool needed to be recharged, so she replaced the batteries before topping off the tool with more Durasteel from the wreckage. She then aimed to the side of the module. A quick flip through her schematics list found her a type of scaffold style with a catwalk and stairs with a railing and wide enough to haul up her cargo crate, or even the ATV.
+
+There was only one problem. “Neo, can we cool this thing down faster? I don’t want to wait.”
+
+[Informative: A finishing setting on User’s multi-tool can rapidly harden and set constructed objects.]
+
+[Notice: Structural Integrity is compromised until hardened by finishing beam or natural cooling.]
+
+Her eyes widened slightly. “Are you telling me the spiders could have knocked down that wall I made? Why didn’t you tell me?”
+
+[Affirmative: All information was provided in Cortex Inc’s advanced survival course. Please refer to the manual for further information.]
+
+Her eyes shimmered with frustration. “You didn’t give me the advanced course! Or any course at all!”
+
+[Notice: Please contact your nearest Cortex dealer if issues pertaining to the survival course persist.]
+
+“Aaaagh.” Talia flipped the settings on her tool. Sure enough, there was a ‘finishing’ mode that she had ignored before. The multi-tool sprayed the structure with the light-blue colored beams. She started at the base of the construction, but quickly found that finishing mode was expensive. Two more sets of batteries drained before the stairs were completed.
+
+“Might make more sense to let most things cool on their own,” she mused. She took the first steps up the stairs gingerly, but then quickly made her way to the top. She made a flat platform around the large hatch, using up the rest of the material in her tool, and another battery.
+
+She’d use that area to set up her solar panel after she investigated the interior. At least she wouldn’t need to worry about shadows from anything nearby blocking them, since they would be higher than anything else.
+
+“Open the hatch.” Talia ordered.
+
+Nothing happened.
+
+[Notice: Crisis mode has caused a seizure of all operable module instructions. Hatch is determined to be non-operable. Recommend manual operation.]
+
+There was no handle or other handhold, and there certainly was no button. Talia grabbed a length of metal and stabbed it in the joint. She levered it open wide enough to get her exo-skeleton finger joints into the space. A grunt of effort later, her suit’s exo-skeleton won out against the jammed servos in the hatch controller.
+
+She’d have preferred not breaking things, but at least she hadn’t been forced to vaporize it with her multi-tool. She’d be able to shut it if something…attacked.
+
+The thought turned her attention to the scout. It was still buzzing along under Neo’s guidance, and she was pleasantly surprised to see that the area around the wreckage was mapped out and he was also returning the drone to its perch on the ATV for periodic charging from the larger vehicle’s fusion cell.
+
+“Nice work.”
+
+[Informative: No motion has been detected by QCD-2P. Quadcopter unit will continue with surveillance efforts.]
+
+Before entering, she returned to her ATV and untied her survival crate, mostly for the cable, but she also brought the crate up to the platform she had made. She secured the extra cable and threw it into the hole to act as a rope for her to climb, just in case. It would also prevent the hatch from randomly slamming shut and trapping her inside.
+
+She’d seen enough holovids to know that was a serious concern.
+
+The sight that greeted her was one of utter chaos. Cargo crates that hadn’t spilled out during the crash were dashed about the inside, their contents strewn around in a horrific mess. Talia took a deep breath and forced herself to calm down. As bad as it looked, there was still a silver lining: there were plenty of resources and parts for her to use.
+
+The emergency lighting was still active, a slowly pulsating red that cast eerie shadows, making everything look even more macabre than it really was.
+
+Stepping over debris, she made her way to the end of the compartment, which was sealed by a bulkhead door. “I’m guessing you can’t open this either?”
+
+[Informative: The next compartment contains the override terminal that should allow User to abort module crisis mode.]
+
+She’d spared the hatch, but she was feeling impatient. The door rapidly disintegrated and its material packed into her multi-tool.
+
+The next compartment was more of the same mess, but fragile terminals and consoles had added a large amount of plastic and glass shards to the mix. Her steps crunched as she entered. A frown creased her lips as one terminal lit with a green shading on her HUD.
+
+“Neo, it is destroyed.”
+
+[Affirmative: Utilize suit connector to create a hard connection to generate virtual terminal.]
+
+She pulled parts of the wreckage off the terminal and looked for a place to plug in at. Neo helped by flashing the specific port for her. It looked mangled, and she eyed it skeptically as she pulled out a wire from her suit’s bracer. “Are you sure this is safe?”
+
+There was no reply. She hesitated, but even if it wasn’t safe, activating the Bootstrap Module was needed. She plugged the connector into the highlighted hole.
+
+[Informative: Connection Established. Rebooting Bootstrap Module.]

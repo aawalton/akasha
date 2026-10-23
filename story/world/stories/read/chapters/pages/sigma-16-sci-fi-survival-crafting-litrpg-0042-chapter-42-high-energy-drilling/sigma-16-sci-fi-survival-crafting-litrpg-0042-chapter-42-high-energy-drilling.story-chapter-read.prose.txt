@@ -1,0 +1,135 @@
+Talia watched as the module finished its deployment. Unlike the other modules, there would be no shell to recycle, because the shell had become ramps that lead up to the raised platform. Twelve adapters each housed a drone slightly larger than her RSU-7S, arranged around the central pillar that she assumed was the communications transceiver.
+
+She stepped up and examined the closest drone carefully. Eight barrels protruded from the front. The drones were blocky and compact, the shielded turbofans hinting at their power simply by how un-aerodynamic it seemed to be.
+
+“Neo, can you activate one of the Raptors? I’d like to see it in action,” Talia requested.
+
+[Affirmative: Activating a single Raptor drone for demonstration patrol. User is advised to step back to a safe distance.]
+
+Hopping off the platform, she was accosted by a blast of sand from behind. The electric whirr from her drone’s rotor blades was absent, instead there was a strange warbling noise that was much less noticeable. A stealth feature of the fan blades?
+
+The amount of sand driven away reduced immediately as the drone gained some altitude, unlike the Seeker-H7, which had coated everything nearby in a thick coating of grit. It spun in place, then shot out in a wide looping circle around the base.
+
+Even from afar, the drone was noticeable, simply because of the size. “Can you run a diagnostic and make sure everything is functioning properly? Then let’s test its weapon systems.”
+
+[Affirmative: All diagnostic checks completed pre-flight. Operation Nominal. Weapon system test commencing. Target: A Rock.]
+
+The drone turned toward her position then buzzed past, doing a low fly-by before a bzzzrrrt of gauss shells perforated a nearby boulder. The effect was not as devastating as the Vanguard ADS, but it certainly was enough to turn the rock into a growing cloud of dust.
+
+[Informative: The Raptor drones possess superior patrol capabilities compared to the basic quadcopters. They have an improved detection suite and the ability to coordinate with each other. The drone receiver base has a built-in transceiver, but their range is limited to 50km. Considering the disruptive jungle emissions, a precautionary range of 40km is recommended.]
+
+“What if we want to take them further?” Talia asked.
+
+[Notice: While this Unit can operate multiple drones locally, the full tactical combat AI will be unavailable unless a constant telemetry link can be established with Raptor base module.]
+
+“Alright. We should be fine for now, anyway. The Deposit is within 40km.” Checking her stocks, Talia had another production item. “Neo, add another CRD-X9 to the fabricator, please. I know that will leave us with only two fusion cells, but we’ll solve that shortly while it’s under construction.”
+
+[Affirmative: Adding CRD-X9 to queue and updating resource stockpile amounts.]
+
+[Bootstrap Module Stockpile]
+
+| Durasteel: 41,350 |
+
+| Refined Silicates: 3,000 |
+
+| Advanced Alloy: 6,402 |
+
+| High-Conductive Material: 6,177 |
+
+| High-Energy Matter: 1 |
+
+| Fusion Cells: 2 |
+
+It was a risky move using up nearly all her fusion cells, but in a worst-case scenario, the extra cells in the CRD-X9s were removable. But if the mission was successful, which she needed it to be, then they’d have plenty.
+
+She decided to assign four drones to base defense, while her two CRD-X9s and eight raptors would head to the High-Energy Matter deposit and establish a mining site. She hoped that the added recon and firepower from the Raptors would protect them from whatever they encountered.
+
+She had a detailed map of the region between her base and the resource deposit, so it didn’t take long for her to put together a route plan that she hoped would be a bit safer. They’d avoid cresting any dunes or hills along the way as much as possible. That’d hopefully hide them from detection, assuming the Blues didn’t have high-detail satellite imagery.
+
+Technically, she could have let the drones work on autopilot while she stayed safe at base. The mission was critical to her survival, though, so she jumped into the cockpit of a CRD-X9. As they set out, the sun bore down on the small convoy. The eight Raptor drones hovered above, their bulky forms gliding through the air just high enough to avoid kicking up sand clouds.
+
+Talia winced at the thought, panning the camera behind the drone. It was still kicking up sand and dust, making her curvy route less effective. It was out of her control, but at least it would prevent direct fire and observation.
+
+“Neo, place two drones ahead as scouts, two at medium range on our ten and two o’clock, two on a roving patrol on our flanks, and keep the last two with the vehicles.”
+
+[Affirmative: Re-arranging Raptor Drone formation parameters.]
+
+The drones leapt into action almost immediately. They reported nothing on their scanners, but she hadn’t expected anything, to be while still close to base. It was later she was worried about. If the Blues knew about the High-Energy Matter deposit…
+
+It was a possibility. They could even be monitoring it. She doubted they’d be happy to find her mining it.
+
+That made deciding whether to pave a road to the place from her base, or just leave it as loose sand and rock, quite difficult. “Neo, should we pave a road or not?”
+
+[Informative: Paving a path has the benefit of increasing rate of travel. Although CRD-X9 units are capable of all terrain travel, hazards and obstacles can significantly reduce their travel rate. However, the drawback is that the road would lead directly to User base and reveal its position.]
+
+Something told her it would be better not to pave a path. Actually, she had an idea for later when they had plenty of extra fusion cells that would achieve the same thing yet remain hidden.
+
+The 20km/hr top speed of the CRD-X9s was a dream, and it took nearly four hours to reach the resource deposit’s edge. Still feeling the aftereffects of the day before, Talia took a nap in the cockpit while Neo monitored things.
+
+[Informative: User and expedition have arrived at the edge of the High-Energy Matter deposit. Scanning for optimal extraction points.]
+
+She blinked away and straightened up. “Neo, we are there?”
+
+[Affirmative: Awaiting User input for further direction.]
+
+The vehicle’s navigation screen blinked for her attention. A map view zoomed in, placing the Raptor drone scouts at the edge of the map. The resource deposit covered nearly half the screen, while several areas were highlighted as bright blue spots revealing possible density and depth of the deposit in that location.
+
+Neo had highlighted three different ones, each with a different composition.
+
+| Zone 1: High Density (100 kg/m3, Deep Deposit, (1-3 km) |
+
+| Zone 2: Medium Density (50 kg/m3, Medium Depth, (330 m) |
+
+| Zone 3: Low Density (10 kg/m3, Surface and Subsurface (1-100 m) |
+
+The Low Density would be ideal for skimming some of the resource quickly, but it meant that they’d be using a lot more power to collect the same material. It also wouldn’t have much of an upfront investment in preparing a dig site.
+
+The High-Density zone was the opposite, it would involve digging deep into the ground, but would provide the most material per fusion cell, and make mining take half as long from looking at the numbers.
+
+Digging that deep immediately was out of the question. “Neo, take us to Zone 2. It should offer a good balance between yield and set up costs.”
+
+[Affirmative: Directing units to Zone 2. Please view rendered 3D mapping of the location and designate unit assignments.]
+
+The Nav Screen flipped off the nav map and into a 3D rendition of the area she had selected. Her controller allowed her to pan a camera through the space while she was able to select different controls from her keyboard. It wasn’t unlike playing a video game.
+
+Except this was determining what actions her drones would perform, and where.
+
+The first thing she did was create an assignment for her CRD-X9 to dig out a tunnel ramp down to the deposit. The second one was set to flattening the area around the ramp.
+
+There were options for not just digging, but constructing earthen surfaces as well. After designating the flat holding area around the ramp entrance, she marked the edges to have an earthen wall constructed. The surrounding terrain was relatively flat, so it would stand out a little, but having something to hide behind would be a bigger pro than a con.
+
+As soon as they arrived at the location, the vehicles sprang into action. She was pleased to see it took relatively little input from her. Neo automatically adjusted the drones to work together; whenever her unit would become full of material it would switch places with the second drone and use the earth to build the wall, then continue flattening until it was time to switch again.
+
+The Raptor drones continued their overwatch, and she set them to flying around the area in two circles, an outer and inner perimeter. She kept two drones with the vehicles, and once the wall had taken shape, landed them behind it.
+
+It took nearly three hours of excavation before the tunnel reached the deposit, but by then, the compound was completed. She directed the units to hollow out a space at the bottom of the ramp for storage and, as a general holding area for stuff.
+
+A readout on her vehicle display showed how dense the deposit was as the vehicle continued to mine. It had already collected three hundred units of HEM. The number was ballooning every meter. By the time the counter neared the advertised 50 kg/m3, a blue ambient glow began to suffuse the cavern area.
+
+It was as pretty as it was alarming. Some things that glowed were dangerous. “Neo, what’s our radiation levels?”
+
+[Notice: Internal Cabin and Internal Suit readings for ambient radiation are below Human baseline background normal. The exterior surface of CRD-X9 units has spiked to ‘Elevated’ and although not a danger to short-term usages, could cause premature degradation of equipment via embrittlement or hardening.]
+
+“Not a great place to hang out, then. The levels on the surface were fine?”
+
+[Affirmative: Radiation levels above ground remain at a slightly elevated, but safe range.]
+
+Talia grunted. The storage space underground would be wasted unless she was producing a ton of toxic waste, then. She wasn’t surprised there was some radioactivity from the HEM, considering how dense and large the deposit was, but it wasn’t something you’d consider except in space. The amount of radiation shielding there was so much higher than surface-side that it became mostly a worry when doing EVA activities.
+
+Another hour of excavation had filled both CRD-X9 hoppers to fifty percent. With ten thousand HEM units, that would be enough for a thousand fusion cells. She wasn’t going to head back until they had the full twenty thousand, though.
+
+There was no question that the energy shield generator she planned on working on next would be a fuel-guzzler.
+
+[Alert: Movement detected near the base. Raptor drone targeting intruders.]
+
+There was a momentary blink as she processed the statement, and then flipped her screen to the Base’s optical security feed. Her heart skipped a beat as soon as she saw what was in the drone’s crosshairs.
+
+“No, wait! Neo, cancel the drone! That’s Dusky and Dapple!” Talia said.
+
+[Notice: This Unit had already suspended Raptor targeting sequence on successful evaluation and detection of permitted bio-logical units.]
+
+Talia let out a sigh of relief. She wasn’t sure whether she should be thankful Neo was smart enough not to shoot her spider friends, or mad because he had scared her half to death.
+
+“Neo, keep an eye on them and make sure they are safe. I bet they are going back to their nest. I don’t want any accidents happening,” Talia instructed.
+
+[Affirmative: Base sensors will monitor Dusky and Dapple during their approach.]

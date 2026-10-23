@@ -1,0 +1,161 @@
+Talia gazed at the dense foliage that stood between her and the sandy desert beyond, and her pod. The entrance she had used was now thoroughly concealed by nature’s rapid reclaiming act. Apparently, the jungle’s dense boundary was self-healing, which explained why it was so uniformly dense along its border.
+
+She gestured toward the thick wall of plants with her multi-tool. “Neo, do we have enough power to burn through this?”
+
+[Informative: User’s multi-tool is at 87% charge. Analysis indicates that using destructive mode to clear a suitably sized path through the current obstacle will consume approximately 50% of remaining multi-tool power.]
+
+Her HUD lit up to display an overlay over the foliage.
+
+[Notice: Area where the previous path was present is less dense and will require less power to clear.]
+
+“Well then,” she muttered under her breath, “Let’s give it a shot.” Talia raised her multi-tool and adjusted it to destruction mode. The beam was yellow instead of blue. She couldn’t feel the heat pouring off the energy thanks to her suit, but the plants nearby shriveled as if they were trying to retreat from its sudden presence.
+
+Where the beam struck, the burn was clean and instant. She dialed the settings to disperse the beam in a slightly larger pattern than her silhouette, just to add some extra space. The hole didn’t need to be as big as the one that the spider had made, but she didn’t want to have to bend over the entire time in an attempt to save a few extra percentages of power, either. She wanted out.
+
+Her HUD indicator showing her progress reached the halfway mark when a new icon appeared, blinking in yellow.
+
+[Notice: High-frequency EM signals detected. An analysis indicates they match the previous readings detected during tree-cutting efforts. The levels are lower and should not affect User or suit function.]
+
+Where she lanced the plants out of her way, it seemed like they were struggling to move away from the beam. A surprise theory bubbled up inside of her, causing her eyes to go slightly wide, almost enough to cause her to stop cutting.
+
+“Neo, do you think…is it possible that the plants can feel pain?” Talia asked.
+
+[Notice: Current knowledge of Botanic Neurobiology suggests most flora does not possess traditional nervous systems and thus do not experience pain as animals do. However, extensive research on local alien flora is limited.]
+
+The AI’s diplomatic answer provided little reassurance. She glanced back at the smoldering path behind her before setting her jaw and pushing onwards. It took her another ten minutes before she finally stepped out from the vegetative tunnel that had surrounded her.
+
+The sunlight beating down on her as she emerged into the desert biome once again was blinding. Rocky hills and sand dunes stretched out before her in a wholly different embrace than the dark jungle had offered. The taste of her suit’s air changed almost immediately.
+
+She turned and looked back through the tunnel she had made; it was already starting to close up around where she had cut through. She couldn’t even see the far end of it. The growth had already sealed up completely where she had first started.
+
+A shiver worked its way up her spine. If she had delayed or paused, it would have gobbled her up and trapped her inside. It was scary to think of how fast nature could work here.
+
+Shaking off the sudden wave of unease, she set her sights on navigating back up the hill and through the dunes. Neo’s blue arrows on her HUD display helpfully pointed her in the right direction.
+
+The journey back to her escape pod was surprisingly uneventful compared to everything else that had transpired on her first day of being crash-landed on the planet.
+
+The quiet juxtaposition allowed her to consider her next course of action. She’d survived so far because of dumb luck and help from Neo. She’d taken things in stride and part of that was because she hadn’t thought of just how FUBAR everything was during the previous day’s mad scramble.
+
+But as she crested a dune and looked out across the sandy expanse, she knew she needed to come up with a plan. Something more concrete than just building a survival shelter.
+
+“Neo, I’ve been thinking about a proper base camp.” Talia said as she started to hike up and around another dune.
+
+[Affirmative: A permanent base camp can provide shelter, storage, and security while providing access to more advanced long-term survival equipment.]
+
+“That’s what I figured, too,” she replied. “But, where should we set it up? I’m not sure the survival pod is a good spot.”
+
+[Informative: An ideal location would be near resources such as water or mineral deposits. Additionally, locating your Bootstrap Module could provide significant help in establishing a more advanced base.]
+
+Talia grunted. She had nearly got herself killed during atmospheric entry ejecting the damned thing. It had been one of the reasons she had purchased the Cortex 31.
+
+The module contained pre-packaged essential tools and resources for creating a frontier outpost—everything from construction robots to habitat modules—all packed into one convenient house-sized module that could be deployed as needed. Or ejected during emergency situations.
+
+“Do you think it survived? I’m not sure it was rated for atmospheric entry.” Talia asked.
+
+[Informative: While it is possible that the module sustained damage during crash landing, it is constructed to preserve its contents in case of a crash. It is likely that most of its utility remains available.]
+
+In the distance, the survival pod came into view. Just one last sandy hill to climb. Talia glanced up at the sky. The sun told her it was almost noon. “Does the module have a signal, or do you have any way to track down its location? It must have some sort of locator beacon on it?”
+
+[Informative: As standard procedure dictates, User Bootstrap Module is equipped with a distress beacon; however, no signal is currently detected. It is likely that it is outside suit sensor range.]
+
+“So…what? We need a bigger antenna?” Talia asked.
+
+[Affirmative: A makeshift antenna placed at a high elevation would significantly increase detection radius for distress signals.]
+
+Talia looked up at her pod. It was conveniently near the top of a cliff.
+
+“Alright then…” Talia muttered determinedly under her breath. “Looks like our first order of business is setting up shop near my survival pod anyway, even if it is only temporary.”
+
+Her pod was as she remembered having left it—half buried in the sand, its hull dented and warped from the impact. As sorry as it looked, at least it was familiar. She wasted no time getting to work. Detaching her cargo crate from her back produced a satisfying click and a feeling of lightness.
+
+She set the folding solar panel array box against the pod’s side, while carrying the Battpack inside and setting it on her seat. A flick on her multi-tool set it to deconstruction, and she removed the other three flight seats to make more room for the fabricator.
+
+It also provided some extra material for her to fabricate a primitive antenna.
+
+| Durasteel x4 Acquired |
+
+Checking her tool’s readout on her HUD showed she didn’t have much left after making the exo-skeleton, and power was down after burning her way out of the jungle.
+
+[Multi-Tool]
+
+| Power Level: [37% (Batteries x2)] |
+
+| Durability: [94%] |
+
+| Total Capacity: 17/100 |
+
+[Contains]
+
+| Durasteel x15 |
+
+| Refined Silicates x2 |
+
+Still, it was more than enough to take care of the solar array, which was her next task. In the distressed compartment containing the pod’s guts, she pulled out and sliced free a long length of thick electrical cable to take with her.
+
+Moving back outside, she used her new suit strength to easily lift herself and the solar module box to the roof. It unfolded, forming a wide base with a small column in the center.
+
+Switching her multi-tool mode, she welded the base to the pod so it wouldn’t be blown or knocked off. Tapping the side of the panel activated a holographic touchscreen that showed information on the available illumination, angle of the sun, and estimated time of day based on their longitude and latitude.
+
+She wasn’t sure the last bit was accurate, but she didn’t really care. A single press had the central column shoot up a telescoping pole several meters straight up into the air.
+
+Once it had reached its maximum height, three long rectangular panels unfolded perpendicular to the ground. The new arms immediately began to angle themselves while the pole swiveled, pointing the panels towards the sun in an optimal manner.
+
+[Informative: Solar power production has commenced.]
+
+Talia nodded to herself before pulling out the electrical cable she had claimed and soldered it to the solar panel’s power attachment. Carefully climbing back down, she melted a small hole in the pod’s side to thread the cable through. The battpack module lit up with its emergency lighting once she attached the other end to it.
+
+There was a loading message on her HUD, and then Neo finally reported on her setup.
+
+[Notice: Battpack charging in progress. Estimated time for full recharge: tomorrow morning, several hours after sunrise. This estimate includes User recharging all current batteries still in use.]
+
+“Not bad for a solar array.” Talia commented. The reminder to recharge the batteries in her multi-tool and suit was welcome as well. She stuffed the fabricator back into the crate and hauled it inside. If she wanted to use it for some reason, re-arranging things would be necessary, but it was the best compromise she could find to preserve the small space available in the capsule.
+
+“Guess there is no way to easily make this thing safe enough to take off my suit.” Talia asked.
+
+[Notice: A complete rebuild would be required to ensure User safety. Analysis predicts building a survival habitat would be a more productive endeavor.]
+
+“Yeah, okay.” A wave of tiredness washed over her. Even if she had napped for a few hours earlier, everything seemed to catch up with her at once.
+
+“Neo,” she breathed out heavily, “I think…I think it’s time for some sleep.”
+
+[Recommendation: User security can be enhanced by sealing entry point to escape pod.]
+
+She sighed, just wanting to shut down, but she had promised herself that security would be a priority. The gaping hole where the hatch had been would leave her vulnerable to who knew what else was out there while she slept. Flicking her multi-tool into construction mode, she highlighted the area and filled it with a Durasteel plate.
+
+She’d have to melt it to get back out. Maybe not the most elegant solution, but effective for one rest period at least. She sat down on her flight seat and tried to relax. Sleeping while sitting wasn’t comfortable in the best of times, and while her suit did its best to cushion her, she got back up.
+
+A dozen minutes of tinkering later, she had broken the seat down to lie flat on the floor of the pod. A second attempt worked out better. The seat cushion wasn’t any help, but being able to stretch out and relax made her feel better.
+
+A few moments later, she drifted off into a deeper slumber while Neo adjusted her suit’s status screen.
+
+[Status]
+
+| Suit AI, NEO: Level 1 |
+
+| Health: [96% (Resting)] |
+
+| Oxygen Level: [0% (Switched to atmospheric filtration)] |
+
+| Suit Power Level: [99%, [Batteries (x4)]] |
+
+| Hazard Protection: [100%] |
+
+| Nutri-Paste Reserve: [100%] |
+
+| Suit Upgrades: [Survival Tool, Exo-Skeleton Upgrade] |
+
+| Inventory: [Survival Ration Bar (x2)], [Flare Gun], [Medi-Gel Cylinder], [Datapad], [Batteries (x6)], [Alien Shield] |
+
+| Located Equipment: [Battpack Array (Charging)], [Fabricator] |
+
+| Control-Link: [Folding Solar Panel Array], [Cortex Scan Affiliate] |
+
+[Multi-Tool]
+
+| Power Level: [100% (Batteries x2)] |
+
+[Contains]
+
+| Durasteel x5 |
+
+| Refined Silicates x2 |

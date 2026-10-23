@@ -1,0 +1,123 @@
+This is a commission! Not AI! https://tattatyar.carrd.co/
+
+Talia sighed as she leaned back in the cockpit of the CRD-X9. Her fingers drummed on the console as she stared at the power level indicator. It was hovering just above 70% and would drop below that in another few minutes. The road she had made had reduced the energy needed to return considerably, but they’d burned a little over a full mining run’s worth of power so far.
+
+She’d made it back to base safely, almost. The last two hours had been spent driving circles around it. She glanced at the screen displaying the live feed from the roof of the vehicle. The two spiders were still there, clinging to the vehicle’s roof like they had done all morning. She’d gone to sleep and took a nap after exiting the jungle, hoping they’d leave.
+
+They hadn’t.
+
+Glaring sunlight beat down on everything around, but the spiders didn’t seem bothered by that, either. She had wondered how’d they fare outside their jungle habitat, but the evidence pointed out that they were quite resilient to the elements.
+
+At least they hadn’t tried to stop her when she had clambered down from the roof and slipped into the cockpit. She had managed to get them off the roof once when she had made the tunnel through the jungle edge. That was only because they hadn’t fit on the roof while going through the tunnel.
+
+They’d followed along closely and, without missing a beat, jumped right back up while the vehicle was still moving away once they were in the desert. She’d tried to shoo them off, but the chorus of what she could only describe as friendly chitters had caused her to give up.
+
+Now she was wasting time and energy spinning her wheels—or tracks, really—trying to figure something else out, and it seemed futile. She wanted to rub her forehead; a headache hinted at a missed survival ration. Bringing them into her base seemed like a bad idea.
+
+She was afraid they might damage something by accident more than that they would become aggressive. But this wasn’t working…
+
+“Neo, can you program the Cortex Vanguard to not shoot our spider friends?” Talia asked.
+
+[Affirmative: Assigning Spider-Alien #1 and Spider-Alien #2 as permitted individuals. Would you like to add the spider-aliens as neutral to the targeting suite?]
+
+Talia nodded and turned the resource drone toward the base. “Yes, please, as long as they aren’t attacking, don’t shoot them first.”
+
+Maybe the spiders would be able to help her somehow, but how wasn’t exactly clear. As long as they weren’t hindering her, she’d be happy.
+
+The base came into visual sight and the spiders reacted almost immediately, letting out a series of excited chitters and chirps. When she pulled the vehicle to a halt and exited the cockpit, they both stared at her from the roof.
+
+She shook her head. “Neo, we need a better way to communicate with these spiders. Can you come up with anything?”
+
+They both tilted their heads at her as she talked.
+
+[Informative: The Linguistics Model is currently working on decoding their language based on auditory data collected during our encounter at their village. However, it will take some time before we can have a reliable translation matrix.]
+
+“Well, we better hurry,” Talia said grimly as she looked back up at the two spiders. “I don’t think our new friends are going anywhere, anytime soon. Any idea on why they have come with us?”
+
+[Informative: The Cortex Inc. AI has limited data on these creatures, provided by your data scans. However, based on their behavior and vocalizations, it is possible they see you as a figure of authority or importance.]
+
+Talia frowned at Neo’s response. “So, what? They think I’m their queen or something?”
+
+[Informative: That is one possible interpretation. It is possible they have had cooperative interactions with other humanoids in the past and are seeking benefit as well.]
+
+She turned toward the second CRD-X9 which was patiently waiting for her in its cradle. It needed its power cells exchanged so it could go back to mining. She went to work while the two spiders continued to watch from their perch. It didn’t take that long before she had the drone recharged.
+
+She recycled the empty fusion cells with her multi-tool. That seemed to excite the spiders, and they began to chirp back and forth. At least she had their attention. “Neo, can you try to translate to them and tell them to get down?”
+
+She needed them off the roof of the drone so she could service it. Heck, she needed them off so she could put the vehicle back to work, it wasn’t exactly safe to ride on if she was going to have the vehicle use its mining laser.
+
+[Informative: The Linguistics Model is still processing the spiders’ language. However, this unit can attempt to convey your message using a combination of basic vocalizations and body language.]
+
+Talia nodded. “Alright, let’s give it a shot.”
+
+Neo projected a series of clicking sounds from her suit’s speakers—sounds that Talia hoped would make sense to them. At the same time, she gestured towards the ground with one hand while pointing at the spiders with the other.
+
+She held her breath as she waited for a response.
+
+The spiders started to chirp and click at each other, their eyes flicking back and forth between her and the ground. After a few more seconds, they both seemed to come to some sort of conclusion and jumped down beside her.
+
+Right beside her.
+
+Talia felt a prickle of anxiety as she looked up at the two giant alien spiders that stood a head taller than her. Their sharp forelimbs were close, and she had to remind herself that they had just been doing what she had told them to do.
+
+“Neo,” she instructed, her voice steady despite her racing heart, “Park the CRD-X9 in its cradle.”
+
+[Informative: User has only constructed one CRD-X9 cradle. The second CRD-X9 cannot be docked until an additional cradle is built.]
+
+Talia sighed. “Have the one I just serviced go mine the Durasteel deposit, then dock this. I’ll build a second cradle later.”
+
+Neo complied with her command, the docked resource drone clanking out of the unloading cradle and whirring down the ramp and into the mining tunnel. The spiders started to follow after it for a second when they saw the entrance to the underground, but they stopped and turned to her.
+
+They seemed entirely too excited to her, as they hopped back-and-forth sideways. Seeing their interest in the tunnel gave her an idea, though. She moved toward the ramp and gestured for them to follow her. “Come on,” she muttered, leading them downwards.
+
+Not surprisingly, they followed her without hesitation, continuing to chitter at each other.
+
+At the bottom of the ramp, Talia pulled out her multi-tool. The spiders both froze at the sight of the tool, their bodies tensing up. She turned the tool toward the wall and began to burrow out a hollow space large enough for the spiders to comfortably fit in and use as a room.
+
+The soft sandstone didn’t take long to shape, and she spent the extra energy to rapidly cool and harden the floor, walls, and ceiling. She turned back to them. They both stared at her, patiently waiting for… something.
+
+“Neo, tell them they can stay here.”
+
+[Informative: Attempting to translate message.]
+
+A new series of clicks and chirps sounded from her suit speaker, mimicking the spiders’ language. The spiders tilted their heads at her, then moved inside. They each picked their own corner and then settled down to sit.
+
+“Hey. It worked,” Talia said.
+
+[Affirmative: Linguistics AI has had considerable success due to a large amount of recorded data on spider-alien communications.]
+
+With the spiders seemingly dealt with for the moment in their new cave, Talia turned her attention to working on the base. There was maintenance she couldn’t afford to put off. First on her list was building the required cradle so both drones would have an unloading point.
+
+By the time she finished, the sun was setting, painting the sky with hues of red and orange. She took a moment to appreciate the view before continuing to upgrade them both with an auto-loader attachment that would exchange the spent fusion cells for fresh ones.
+
+That’d remove the manual intervention that had required her to service them, at least until one of them broke down or had an accident. It was a complex piece of machinery, prone to failures itself, but she was confident it would work well enough to reduce the amount of work she had to do personally. It was the same tech as the internal loaders the Bootstrap Module used, just placed outside, and thus at the mercy of the elements like the sandstorm.
+
+Testing with the second CRD-X9 went flawlessly as the machine swapped out its cells. The new flood lights on the base and the headlights on the vehicle lit up the dusk brightly enough that she hadn’t realized that the sun had finished disappearing until the procedure was complete.
+
+“Alright, Neo. Let’s have this one rebuild our fieldwork that the sandstorm erased,” Talia said.
+
+[Notice: Previous fieldwork was rapidly filled in by recent sandstorm. Future storms could have the same effect.]
+
+Talia nodded. “Yeah. I was thinking about that. We will just have the drone dig out a bigger trench.”
+
+[Notice: A trench much wider than the previous could cause a dead zone for enemies to take cover inside.]
+
+“Urgh. Okay. How about we just make it twice as deep and place it further away? With a hardened inner wall? If they fall in, they’ll have a heck of a time getting back out or using it unless they dig their own section out, and if they have that much time, we have bigger problems. It’s mostly a ditch just to stop wild animals, anyway.”
+
+[Affirmative: Processing User request. Please check nav map for proposed trench route.]
+
+Talia checked the pop-up on her HUD. It seemed fine to her, so she confirmed it. “Do it.”
+
+The vehicle whirred to life and headed to the starting point. A few minutes later, she could see the red light flickering in the distance as the vehicle began to drill away the cutout in the terrain.
+
+She looked up at the base and took a good look. Things had continued to progress nicely. Exhaustion pressed at her between her shoulders, and she knew she needed to get some rest and downtime in the safety of her habitat module.
+
+That’d give her some time and space to review what she’d use her new credits on. She tapped the Cortex Scan Affiliate icon on her HUD and smiled at the number.
+
+| Cortex Inc. Credit Balance: 5775 |
+
+That was enough for the base mounted scanner even. Or maybe she’d browse the air vehicles available?
+
+Tomorrow would be another busy day.
+
+She just hoped her new guests wouldn’t cause any problems.

@@ -1,0 +1,141 @@
+Both CRD-X9s had filled up to the brim with 20,000 units of High Energy Matter, and Talia had set her little convoy back towards base. The first order of business would be to set a hundred new fusion cells into production.
+
+[Notice: CRD-X9 Fabrication process has completed.]
+
+And apparently, deploy the new resource drone.
+
+“Neo, can you show me the resource cost for building the Bastion Shield Generator? And how many fusion cells is it going to take to operate?”
+
+[Affirmative: Approximately one fusion cell per hour is required once shield has established a full capacitor charge. During defensive usage, this rate could increase to approximately 100 fusion cells per day.]
+
+That was a lot, but it would be worth it. From what she knew about generators like the bastion, they were more than capable of stopping artillery fire and weapons as large as cruise missiles. It would take ship sized weaponry to overload. Which, if the Blues had, she felt they’d already be a pile of burning wreckage strewn across Sigma’s sandy desert.
+
+[Bastion Shield Generator Resource Cost Sheet]
+
+| Durasteel: 30,000 |
+
+| Refined Silicates: 8,000 |
+
+| Advanced Alloy: 5,000 |
+
+| High-Conductive Material: 4,000 |
+
+Talia’s eyes narrowed. It was certainly pricey, but would be worth it as their next construction. She flipped the CRD-X9’s primary screen to their resource screen. There was a slight problem.
+
+[Bootstrap Module Stockpile]
+
+| Durasteel: 41,350 |
+
+| Refined Silicates: 3,000 |
+
+| Advanced Alloy: 6,402 |
+
+| High-Conductive Material: 6,177 |
+
+| High-Energy Matter: 20,000 |
+
+| Fusion Cells: 2 |
+
+They would have enough of everything, except Refined Silicates. Although they only had two fusion cells left, that’d be fixed by the time the generator became operational. “Neo, it looks like we need to send the drones to collect material from the depot near the jungle. There should be plenty there to haul back. Can we have the two drones go fetch it while I work at the base?”
+
+[Affirmative: Adding jungle resource run for Refined Silicates and fusion cell production to task list pending High Energy Matter delivery.]
+
+She sighed. Despite all the effort into improving things, they were still constantly running low on something. But with a third drone on the way, and with known locations for essentially every main building material she needed, there was likely a way to automate it. That would be a lot better if security could be guaranteed.
+
+“Neo, is there any way we can remotely deploy the new drone and have it head to the jungle site to collect the material while we are on the way back?”
+
+[Notice: Remote deployment capability of new modules is possible to install, but no such system is currently available. Manual deployment of the new CRD-X9 is required.]
+
+A second sigh escaped. It would just have to wait until they made it back. She had hoped to speed things up a little. Nothing showed up on the Raptor drone’s patrols and she spent the several hours long trip reviewing her plans for upgrading their defenses and deciding on what order to work on things.
+
+As soon as the CRD-X9s pulled into their resource cradles and began to unload, the Raptor drone patrol docked into their recharging module. She reviewed their power consumption; it wasn’t great.
+
+| Raptor Drone Charge: 53% |
+
+The two drones at the base had burnt a little less, but all of them had eaten nearly half a fusion cell. That would add up fast, with twelve of them running around. She grabbed the two remaining fresh fusion cells and swapped them out to make two fresh drones, and then used their half-depleted batteries to replace an empty one in her two resource drones.
+
+By the time she was done moving their last reserves of fusion cells around, the CRD-X9s had finished unloading. “Alright, Neo. Send the two CRD-X9s with the two Raptors to fetch the refined silicates from the depot near the jungle. I’ll stay at the base and oversee things from here and prepare the shield generator foundations.”
+
+[Affirmative: Initiating CRD-X9 resource retrieval mission with Raptor drone escort. In addition, 100 fusion cells have been added to fabrication queue as per User request.]
+
+“Great,” Talia replied, turning her attention to the mining tunnel ramp. She wanted to greet Dapple and Dusky. Remembering how they had reacted when they had eaten some of the High Energy Matter, she emptied a small container of 10 units from the stockpile and took it with her to their cave.
+
+She found them both inside, laying down. They both stood up and chirped a “Maker!” when they saw her. When she held up the container, they both made a happy sound and ran up to her so quickly she nearly took a step back.
+
+“Maker! Maker!”
+
+“Th..there’s enough for both of you,” Talia stammered. The two spiders paused and conferred in an untranslated series of chirps and coos before Dapple took the container from her hands with its forelimbs. Then it took a big bite out of it, metal container and all.
+
+Talia blinked. The spiders…could eat metal?
+
+Dapple passed the remaining half to Dusky, who gobbled down the other half. Both spiders began dancing in unison while singing their little high-pitched spider hearts out.
+
+[Informative: It is possible that Dusky and Dapple derive nourishment from consuming high-energy matter. Further observation may provide additional insights into their unique biology.]
+
+Talia nodded thoughtfully, watching the two creatures finish their dance. Dapple turned toward their pile of things in the rear of the cave and fetched one of the metal balls. It approached her, then held it out to her with its two forelimbs. It was one of the Durasteel ‘artworks’ she had seen before.
+
+“Is this…for me?” Talia asked hesitantly. Both spiders chirped “Maker!” and she reached out to take the round sculpture. It wasn’t going to win any art awards back home, but who was she to judge an alien race’s standards for beauty?
+
+[Notice: It appears that Dusky and Dapple have developed a level of trust and gratitude towards you, User. This is an extraordinary interaction between a human and native fauna.]
+
+Talia smiled as she looked back at the two massive spiders. “Thank you. I’ll treasure this.”
+
+She placed the sculpture into her inventory until she could store it in the Bootstrap Module. Staying longer to try and communicate more with them was on her to-do list, but she waved goodbye knowing that she needed to get back to work.
+
+“Alright, Neo. Can you setup an overlay to show me how big the foundation is going to need to be? I’ll start digging it out with my multi-tool.”
+
+[Informative: Bastion Shield Generator requires a sizable foundation approximately of 10 x 10 meters in size.]
+
+Her HUD lit up a green overlay. It turned to yellow or red depending on where she looked based on the conduit line that ran from it back to the underground power connector of the Bootstrap Module. She selected a location near the holding area for easy access, but far enough away that it wouldn’t crowd the space she had designated for vehicles to park.
+
+With a spot selected, she activated her multi-tool and started digging. The overlay helper told her the foundation needed to be deep. At least two meters. She wasn’t sure why, and it made the excavation take much longer than she had expected. By the time she finished and begun to lay in the Durasteel it was well into the afternoon.
+
+[Informative: This unit has discovered a stockpile accounting error. Due to recycling previously used fusion cells, an additional 500 units of Durasteel, Advanced Alloy, and High-Conductive Material should be added to the current stockpile list.]
+
+Talia raised her eyebrows in surprise, but didn’t question the fortuitous news. She quickly checked the updated stockpile numbers.
+
+[Bootstrap Module Stockpile]
+
+| Durasteel: 40,850 |
+
+| Refined Silicates: 3,000 |
+
+| Advanced Alloy: 5,902 |
+
+| High-Conductive Material: 5,677 |
+
+| High-Energy Matter: 19,000 |
+
+| Fusion Cells: 8 (94 in progress) |
+
+That was handy. She’d have to remind herself to account for the fact that the fusion cell casings were recyclable. Unfortunately, they weren’t quite reusable in the fact that they couldn’t just dump more HEM into them. They had to be completely broken down in the fabricator, then recreated by the energy cell fab.
+
+While finishing the shield generator’s foundations, the memory of how heavy the Raptor Drone Module had been gave her pause. “Neo, once we’ve fabricated the Bastion Shield Generator, how do we move and install it? It’s going to be quite heavy, right?”
+
+[Affirmative: The Bastion Shield Generator is a substantial module and will require a lift assist for transportation from the stockpile unit and for installation. It is recommended to fabricate a lift assist kit for installation to a CRD-X9 unit.]
+
+“Okay. Can you start production of that on the small fabricator the military drone had?”
+
+[Affirmative: Adding lift kit to small fab queue now.]
+
+Talia finished filling the foundation in. The glowing red metal shimmered with heat, but she didn’t want to use the energy to speed up the cooling and hardening process.
+
+Checking the progress of her refined silicates retrieval team, she saw they had finished collecting it and were on the way back. That was great news and meant she’d get the shield generator running before the day was over. Hopefully.
+
+Before that, she needed to deploy the new CRD-X9 and then install the lift.
+
+Once she had the module for the resource drone placed in the holding zone, she began the automatic printing process before standing back. It was always a marvel to watch the cube open up and then print something off for her.
+
+The lift unit finished soon after the drone had completed its print job, and she equipped it on the drone’s standard lift, granting it the capability of a hydraulic arm. The vehicle was heavy enough on its own to not need a counterweight, at least not for any module that she thought she could produce and still fit through the stockpile’s primary exit chute outside.
+
+A smile crossed her lips. Things were going well.
+
+[Alert: The returning CRD-X9s are under attack.]
+
+Her examination of the new resource drone came to a screeching halt, and she suppressed the surprise and a sudden self-deprecating notion; she had summoned bad luck with the thought of how well things were going.
+
+Talia’s HUD cut to a video feed from one of the Raptor drones. An armored vehicle and a light assault buggy like the one that had attacked her and the spiders were zooming after her two CRD-X9s. A tracer from the armored vehicle’s auto-cannon lashed out, tearing into the rear of one of the resource drones. Plating and shrapnel exploded into the desert in high detail.
+
+She felt a surge of panic at the sight. She needed those resources!
+
+[Notice: Raptor drones are engaging hostile forces.]

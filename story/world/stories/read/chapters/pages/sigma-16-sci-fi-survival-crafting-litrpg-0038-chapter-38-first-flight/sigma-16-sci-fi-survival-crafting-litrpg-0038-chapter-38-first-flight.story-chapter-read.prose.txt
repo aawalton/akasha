@@ -1,0 +1,113 @@
+[Notice: While the Seeker-H7 is capable of scanning while landed, range is reduced to a minimum level. Full cruising altitude and speed is required for an effective long-range scan.]
+
+“What’s the exact scan range?” Talia asked while playing with the nav map, figuring out how the navigation waypoints worked.
+
+They allowed her to select a specific position and altitude if she wanted to set specific waypoints. There were also options for AI mode and general directives such as circling, evasive maneuvers, and a whole list of other things she wasn’t about to bother figuring out immediately.
+
+At least not without an actual instructor explaining things.
+
+[Informative: The scan range of the Seeker-H7’s primary scanner system depends on the type and size of the object being detected. Larger objects can be detected from greater distance, while smaller or less dense objects may require closer proximity.]
+
+Talia rolled her eyes. “I knew that much, dingus. I would like to know how far we can expect to detect the resource deposits. You or the manual said something about 30 kilometers, but if that’s anything like the stated mileage on the RSU-7S, we’re going to want to bump our pattern down to 20 kilometers to make sure we don’t miss something important.”
+
+[Notice: While long-range subsurface detection suite is rated for 30 kilometers for all known types of resource compositions, a setting of 25 kilometers would provide a sufficient buffer for irregularities and scanner degradation due to natural phenomena.]
+
+“Yeah…so they tested it on a quiet sunny day, on a planet with no interference. Got it, we’ll just…” Talia drew a circle around the vehicle with a 25-kilometer diameter. Then she plotted her first waypoint toward the south, brushing by the jungle near her crash point and then beyond it. Then they’d turn west and make a wide clockwise pattern until they reached the jungle again, at a distance that allowed the 25-kilometer circle of their flight path to overlap just a bit.
+
+They could go for another circle or return to base, depending on how the flight went. The route wasn’t that large, but she felt like staying near the area she had become familiar with was the best plan. If something went wrong, she’d probably be able to walk back to the base even.
+
+Satisfied with her plotted course, she felt ready. “Neo, let’s see what this bird can do.”
+
+A hydraulic sound preceded the Seeker’s ladder and side hatch closing. A loud whirr filled the cockpit as the engines spun up, requiring her to adjust her noise cancelling settings on her helmet so she’d be able to hear clearly. Sand began to kick up around them, and she hoped the Seeker was sand-resistant. It was like being in the center of a storm.
+
+[Informative: By actively piloting this vehicle, the User hereby waives Cortex Inc. of any liability due to hardware or equipment malfunction, AI failure, flight system crashes, or any other event that could endanger the User or result in the death or destruction of the User or their property.]
+
+“Seriously? You’re telling me this now? Was the last waiver not enough? They need another one?” Talia muttered, shaking her head at the sudden legalese.
+
+[Notice: Cortex liability waivers are incremental by nature due to the laws governing the jurisdiction of all user agreements with Cortex Inc. Multiple waivers will reduce User capability to bring suit against the corporation in the future.]
+
+There was a short lurch, and then suddenly they were lifting off, straight upward. She could feel the acceleration press her down into the seat. But Neo’s statement had stoked a vindictive stroke through her chest.
+
+“If I want to sue them, I’ll do so on Argos. If their shitty schematics are at fault, for whatever goes wrong, their waivers will be good for wiping some Cortex lawyer’s ass. And good luck finding a Fremont Industries appointed judge that’s going to rule against a Fremont in the Fremont System!”
+
+The sudden lift of the aircraft came to a sudden halt, and for a moment she felt weightless. The horrifying thought that she had said too much and now the stupid AI was going to assassinate her only ended when she was suddenly pressed back into her flight seat instead of down.
+
+[Notice: Standard flight mode engaged. Seeker-H7 is en route to User nav point 1. ETA: 5 minutes 33 seconds.]
+
+Despite the emotional rollercoaster, she couldn’t help but be appreciative at the speed. “Not bad for a fifty-kilometer leg. Can we cook off the scanners now?”
+
+[Affirmative: Seeker-H7 engaging wide-range scanning suite for all possible detections.]
+
+A loud, deeply resonating ping echoed through the cockpit and her suit. It was strong enough that she could feel the vibration inside her chest before it stopped. The central display panel pushed the nav map to the side and brought up a blank plot map without the terrain. Several points nearby were already marked; their base, her initial crash site, the spider cave in the jungle, and the location where the jungle worm had swallowed her tunnel. To the west was a red marker where the Blues had attacked.
+
+A yellow circle slowly began to expand outward from the marker that indicated the Seeker itself. There were dozens of little pinpoints of blue, the map legend indicating those were small deposits of Durasteel; that was wreckage from her ship.
+
+The large deposit of Durasteel highlighted as a fuzzy blue area as the yellow line passed over it. Talia held her breath, hoping that there would be more deposits nearby. When the line reached the jungle, her brow furrowed in confusion.
+
+“Neo, why is the jungle solid blue?” Talia asked.
+
+[Notice: Electromagnetic radiation and dense vegetation are creating interference with the scanners. A large amount of return is disrupting our scan efforts. An increasing spike of return is degrading scanning efforts.]
+
+A frown creased her lips, and she looked at the scanner. Sure enough, the second yellow wave stopped much shorter than the first one. “Wait, it’s not just blocking us from scanning the jungle, it’s making everything worse? Is the scan even working?”
+
+[Affirmative: A reduced active scan pulse has reduced feedback and noise from flora emissions.]
+
+“Can we do something about it, or do we need to just move out of range of the jungle?” She felt her hopes of taking a ton of extra free scan credits from scanning the jungle slip away, but now was not the time for becoming depressed. The jungle was just a small part of the planet, even if it stretched around the rivers.
+
+[Recommendation: Seeker-H7 is equipped with a directional scanner, scan pulses can be redirected away from the jungle region to prevent feedback.]
+
+“Oh. Do that then, and let’s move our first nav point a bit to the northwest, so we aren’t cutting so close to the jungle anymore.” Talia turned to the left monitor and put her finger on the point and moved it across the screen, sliding it so that the scanner's boundary would be at 30 kilometers instead of right on the jungle edge.
+
+The Seeker banked smoothly, redirecting to the updated waypoint. The view of the dark green foliage of the jungle below was replaced by desert, stretching out endlessly beneath them. In the distance, she could see rising mountain peaks, capped by spikes of snow and ice. That was where her ship had likely come down.
+
+If she wanted to press her luck, she could order Neo to fly them right over to it. She’d be there in less than thirty minutes.
+
+But considering how things were going…
+
+“Let’s stick to the planned course,” Talia mumbled to herself. As they reached the first waypoint, the aircraft began a slow clockwise bank to the north. She checked the scanner feed, and while there was plenty of wreckage, there was still no sign of any deposits.
+
+As they looped around towards the area the Blues had attacked from, she squeezed her hand into a fist. But no sign of them or attack materialized. Instead, there was an audible beep of success.
+
+[Informative: A resource deposit of High-Energy Matter has been detected.]
+
+Her eyes scanned over the growing blue field. It was a massive deposit, and she wondered if it was the same material she’d located in the subterranean tunnel. As the vehicle continued forward, the resource deposit continued to grow.
+
+“It’s… ginormous.” Talia whispered. That proved to be an understatement.
+
+[Notice: It appears the entire sand flats region west of the base is sitting on a condensed layer of High-Energy Matter. The extent of the deposit is unknown at this time. A primary concentration of material is contained 300 to 1500 meters in depth.]
+
+High-Energy Matter was not a common resource planets usually contained. Its raw form was mostly mined from asteroids or, more commonly, lifted as a bulk product from special gas giants. The overwhelming majority of it was fabricated in bulk, using massive energy conversion facilities built in a low orbit of a local star.
+
+Sunlight and rare material came in, fusion cells came out.
+
+The Seeker banked to the left as she modified their course to follow along the deposit’s edge. It was so wide the scanner didn’t reach the other side of the deposit.
+
+“Is this how humans felt when they first found oil on earth?” Talia asked with bated breath. Eventually they found the end, then began a loop back on the other edge. It was like someone had taken a finger and gouged out a line across the planet, leaving the High-Energy Matter to fill in the area later before being buried.
+
+A fifty-kilometer-wide line, almost one hundred and fifty kilometers long.
+
+[Informative: Depending on purity of material, estimated yield of mapped deposit is between 604 to 648 billion standard units of High-Energy Matter.]
+
+“B…billion,” Talia repeated. She had never really had much interest in her home system’s economy, but she was the daughter of Tristan Fremont. Argos used something like six hundred million fusion cells per annum. That was 6 billion standard units of High-Energy Matter. If the scan was accurate, the deposit contained enough to power her home world and its massive shipyards for a hundred years!
+
+And this was just one single deposit! What were the odds that there was only a single deposit on the planet?
+
+[Informative: Preliminary scans indicate the deposit is unusually large, suggesting some type of unknown geological or biological activity occurred in this region. The high amount of free energy discharge from this deposit is likely responsible for the local arid weather, and fauna.]
+
+“Wait…what? It’s affecting the climate?” Talia glanced at her suit’s radiation meter. Her HUD was reporting 0 internally, so it wasn’t affecting her inside the aircraft and her suit at least. “How is that possible?”
+
+[Notice: As previously stated, High-Energy Matter deposit is unusually large.]
+
+She wasn’t ready to just take Neo’s word for the matter, but decided to drop the issue. It was something for much more specialized researchers to deal with, rather than for her to figure it out. What she needed was two CRD-X9s full of the stuff to satisfy her base’s energy requirements for the foreseeable future.
+
+“Let’s finish our circle, then make a high-detail mapping and scan of the region between the deposit and the base. I want to plan a route to the deposit,” Talia ordered.
+
+[Affirmative: Continuing previously plotted course.]
+
+“Let me know if we spot anything else exciting,” she replied, turning her attention to mapping out a course for her mining vehicles to take. All kinds of exciting possibilities offered themselves to her. She’d theoretically have plenty of power available to power a base shield generator.
+
+There was no warning when the aircraft suddenly twisted in the air and pulled into an inverted dive.
+
+The G-Force was so savage her suit’s impact gel solidified and suit servos locked into place. A needle stabbed into her side, flooding her with warmth. Her helmet and lungs began to flood with a lukewarm liquid.
+
+[Warning: Incoming Ground-to-Air launch detected. Taking evasive action.]

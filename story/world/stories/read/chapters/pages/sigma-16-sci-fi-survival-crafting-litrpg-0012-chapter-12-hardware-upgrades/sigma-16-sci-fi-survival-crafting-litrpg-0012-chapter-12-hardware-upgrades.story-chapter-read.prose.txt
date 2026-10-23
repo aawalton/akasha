@@ -1,0 +1,187 @@
+Talia woke slowly, her body feeling heavy and sluggish. A glance at her HUD showed she had slept for a full 17 hours. The local time was equivalent to around 5am earth time.
+
+[Notice: Sunrise is estimated to arrive within the next two hours. Battpack charge reached 85% before insufficient sunlight paused charging. Full capacity will be reached before local noon.]
+
+She grunted, not yet ready to take in all the offered information. She rotated her neck and received a satisfactory pop and release of tension, but the constraints of her suit really didn’t leave her much room for a proper stretch. The confines of the escape pod didn’t help, either.
+
+Her HUD’s nutritional information tab lit up yellow before switching to a breakdown of her consumed nutrients. Which had only been the single 3500 calorie survival bar. The program alerted her that even with that much, she’d exceeded it by an entire two thousand calories.
+
+“Well, at least I’m not imagining things. Yesterday was a really long day.” Talia mused.
+
+[Informative: A long term caloric deficiency could endanger User survival. It is recommended that User ensure all nutritional needs are met, especially in survival situations.]
+
+“Yeah, yeah. I’ll take a ration.” Talia grumped, pulling a bar out of her suit pocket, and inserting it into her bracer. Her feeding tube extended, and she gulped down the chocolate drink. She winced as the artificial flavor hit her hard. She opened her bracer and pulled out the packaging and rolled her eyes to see the Cortex logo proudly proclaiming their product.
+
+“Fricking corporate garbage. Can we sue them for putting knock-off flavor in the ration?” She wasn’t exactly serious, but Neo jumped to alertness.
+
+[Informative: Cortex Corporation has a documented record of customer support. It may be advisable to contact the Corporation about the ration’s unsatisfactory flavor.]
+
+[Legal: Lawsuits against large corporations such as Cortex can be lengthy, costly, and complex, especially over matters such as product quality. Corporations commonly use arbitration agreements, which customers unwittingly agree to upon purchase of their products. This means that any disputes would likely be resolved out of court, typically favoring the corporation. It is recommended to carefully review all terms and conditions before purchase.]
+
+“Neo. Shut up. We are way past the rim and very far from the nearest Cortex rep. Or civil court.” Talia said flatly. She pulled out her multi-tool and vaporized the panel she’d installed. False dawn hadn’t even arrived, and blackness encroached on the dim emergency lighting from her Battpack. Her light amplification software activated as she stepped out into the cool desert night.
+
+In contrast to the scorching day, her suit reported the external air temperature was only 10°c. That wasn’t freezing, but it was still a huge contrast. A light breeze pressed against her side, and she noticed it was nearly silent as well; no chorus of jungle bugs greeted her.
+
+She glanced at the jungle as her eyes widened in surprise. The entire canopy was lit up with thousands of blue lights as far as the eye could see. Even the clouds over the river were visible under their pale light.
+
+Thousands of stars greeted her as well. The sky above the desert was crystal clear, and she had never really seen a sky without light pollution planetside. It was a novel sight, and she switched her stares between the two vistas until dawn finally began to paint the eastern horizon toward the jungle pink.
+
+It was time to get to work. She needed to put the antenna up and see if they could detect any sign of the bootstrap module. She turned towards the pod and looked up at the solar panel array. “Neo, can we put the antenna up there without affecting the solar panels?”
+
+[Affirmative: Please aim your survival-tool towards the desired location and an overlay will assist with optimal placement.]
+
+She did so, and sure enough, her HUD lit up a green area attached to the solar panel’s central telescoping pole. “Uhh. We’ll be able to get it off when we pack up, right?”
+
+[Informative: Modifying antenna selection.]
+
+The semi-permanent antenna shadow reformed into a long whip. That seemed more acceptable to her, and much easier to remove. The green construction laser formed the thin material already in place. “Uhh. Going to need a wire, aren’t we?”
+
+[Affirmative: Inert wiring is available inside escape pod mechanical compartment.]
+
+That only took her a few minutes to collect. She picked the thinnest one she could find. Climbing up the side of the pod, she looked up at the still extended solar pole and realized that she’d have to retract it to reach the top.
+
+That took another ten minutes. There was a small connector for her to attach the wire to, then she put the pole back up. Even if the sun wasn’t up yet, extra height meant extra signal. She brought the wire down with her, then looked at the bracer on her left forearm before clicking it into place.
+
+“Okay then,” She muttered aloud while hooking the wire into the slot. “Let’s see what we can find.”
+
+A few tense moments passed in silence before Neo finally responded.
+
+[Informative: Detected signals - Bootstrap Module located twenty-three miles northeast. Research module detected southwest, approximately 40-50 miles in the suspected direction of Cortex 31 crash site. A constant unknown signal persists from the direction of the nearby jungle; however, its location cannot be pinpointed.]
+
+The news was both encouraging and daunting. On one hand, the bootstrap module was a lot closer than she’d feared it might be. On the other, it was still a long trek, especially considering the rough terrain and unknown dangers that likely lay between her and her goal.
+
+She sighed as she mulled over Neo’s report. The distances involved were intimidating but not insurmountable, especially with her new exoskeleton upgrade. She’d obviously need to carry her crate and survival equipment with her, but there wouldn’t be any easy returning to the pod.
+
+Recycling it for resources and maybe…
+
+“Neo, what suit upgrades are available within my current credit balance?”
+
+[Informative: User currently has 1095 Cortex credits available for use. Many User suit upgrades are available. Would you like this unit to analyze and offer the most relevant to User’s current survival situation?]
+
+“Yes, please.” Talia answered.
+
+Her HUD lit up, displaying a large card detailing the upgrades.
+
+[Suit Upgrade: Life Support Oxygen Extractor]
+
+| Description: Breathe easy with the Life Support Oxygen Extractor. This upgrade extracts oxygen directly from the environment and feeds it to the user without any filtration risks. Plus, it opens up the fascinating world of underwater exploration! |
+
+[Effect: Provides clean breathable oxygen and enables underwater exploration.]
+
+[Credit Cost: 500 Credits]
+
+It immediately caught Talia’s attention. The ability to extract breathable oxygen that wasn’t just filtered would be valuable. Her suit’s systems had handled the jungle, but the filter system wasn’t perfect. She had no real way of dealing with getting sick if an alien virus got inside her suit, either.
+
+Still, it wasn’t necessarily her number one priority. She’d made it so far with the filter system and once she got the bootstrap module running, things would be different and she could reconsider.
+
+She flipped to the next card.
+
+[Suit Upgrade: EM Protection]
+
+| Description: Protect yourself from harmful electromagnetic radiation with the EM Protection upgrade. It safeguards your suit’s electronic systems and you from EM interference. |
+
+[Effect: Provides protection against electromagnetic radiation.]
+
+[Credit Cost: 600 Credits]
+
+Talia grunted. This one was a bit more relevant, considering the EM radiation that had tested her suit’s basic hazard protection when she had chopped down the jungle tree. She discarded it though, since she wasn’t planning on going back to the jungle before finding her module.
+
+Two more cards followed, and she dismissed both of them for much the same reasons:
+
+[Suit Upgrade: Radiation Shield]
+
+| Description: For those venturing into high-radiation environments, the Radiation Shield is a lifesaver. This upgrade offers increased protection from radiation, enabling exploration of previously dangerous areas. |
+
+[Effect: Provides immunity to radiation.]
+
+[Credit Cost: 600 Credits]
+
+[Suit Upgrade: Acidic/Toxic Protection]
+
+| Description: Venturing into areas with hazardous substances? Worry no more with Acidic/Toxic Protection. It shields you from harmful acidic or toxic environments, letting you explore without fear. |
+
+[Effect: Provides immunity to acidic/toxic substances.]
+
+[Credit Cost: 550 Credits]
+
+It wasn’t that the options were bad, both options would have been sensible, especially for a long trek through an unknown area where she didn’t know what hazards there might be. The acid protection would be another good option for exploring the jungle at least. The glow bugs had been a bit scary.
+
+But her resources and Cortex credits were limited, and desert and rock lay to the northeast as far as she could see.
+
+She pushed the two hazard protections away and then she was presented with two more:
+
+[Suit Upgrade: Nano-Repair Bots]
+
+| Description: Immediate repairs at a nanoscale! Our Nano-Repair Bots can quickly fix minor suit damages, ensuring that you stay safe, and your suit remains functional during your explorations. |
+
+[Effect: Automatically repairs minor suit damage utilizing available condensed materials or even the natural terrain!]
+
+[Credit Cost: 700 Credits]
+
+[Suit Upgrade: Internal Capacitor Upgrade]
+
+| Description: Power up your exploration with the Internal Capacitor. This enhancement dramatically increases your suit’s energy storage, allowing for longer periods of unimpeded exploration. |
+
+[Effect: Increases suit’s energy storage capacity.]
+
+[Credit Cost: 800 Credits]
+
+Both sounded incredibly useful. Having an internal battery that was worth a damn on her suit would be extra power capacity and allow her to not have to rely on the battpack as much, as well as just being able to store more power. She wasn’t sure what the long-term weather was like in the desert. Dust clouds or a storm could leave her without sunlight for potential days, and that’d stop her from making any progress and risk running out of juice.
+
+Likewise, the repair nano-bots would literally be a lifesaver if she ran into trouble and her suit was damaged. Being exposed to the alien atmosphere was potentially fatal, and despite the resilience of her suit, she knew she’d feel much better having the auto-repair.
+
+Although if she was careful and made sure not to get damaged in the first place, she wouldn’t need it.
+
+So far, the capacitor upgrade had won out in her mind, but she saw there was one last entry that Neo had pulled up for her. She flipped to it and felt her eyes widen a bit.
+
+[Suit Upgrade: Scout Drone Control]
+
+| Description: Scout terrain like never before using the Scout Drone control. Command a small drone to explore, analyze, and report back on areas of interest or potential danger, keeping you safe and informed. |
+
+[Effect: Enables control of scout drones.]
+
+[Credit Cost: 750 Credits]
+
+That…seemed very useful. She took a moment to think about the entire set, but her first gut feeling kept turning her back toward the Scout Drone Control. The bootstrap module would have its own drone controls, but those would be focused on resource acquisition and construction. Having a personal suit control…had a lot of potential.
+
+She flipped back and forth between the SDC and the Internal Capacitor Upgrade. Neo remained silent, and she appreciated the space to let her think clearly and evaluate things on her own.
+
+“What kind of scout drones are available, Neo? Like, I’m probably going to go with that, but I want to know what I can actually use and be sure we have enough materials to make one.” Talia said.
+
+[Informative: Three models of scout drones are available for purchase for additional credits. Further types of drones could be developed via Research Module if User desires to create custom, specialized models.]
+
+Except the Research Module was in the opposite direction and twice as far away. It’d be something to think about in the long run, but not now.
+
+“Okay. Show me the ones available, then.” Talia replied.
+
+Three icons appeared on her HUD, showing a 3D model of each scout unit slowly spinning. The first was a small quadcopter with a camera. It was what she had first expected, something cheap and light, perfect for short reconnaissance missions or remote surveillance of potentially dangerous locations.
+
+The second one looked larger. It was a quadrupedal unit about three quarters of the height of a person, and it was depicted carrying a cargo chassis for its back along with two side duffle bags all stuffed to the brim. It would be nice to have something to carry her stuff. The drone was more than large enough for her to ride on even, although it would probably be slower than walking.
+
+But she already had her exo-skeleton upgrade, and she didn’t think she’d be carrying much other than her Survival Fabricator, Battpack, and Folding Solar Panel array. It seemed like it would have less utility and just be more for convenience at the moment.
+
+The final image called to her. It was larger than the other two and, more importantly, had four wheels. It was an ATV, and she could picture herself zooming right over to wherever the Bootstrap Module had crashed while on it.
+
+“Neo, do we even have the material for the tires?” Talia asked skeptically.
+
+[Informative: The materials for fabrication of all three drone units are available if User recycles escape pod.]
+
+Talia let out a satisfied murmur. “Neo, let’s go with the SDC.”
+
+[Affirmative: User has selected Scout Drone Control upgrade. 750 Cortex Credits will be deducted from your account.]
+
+Talia nodded in agreement. “Yes, please confirm purchase.”
+
+A second later, her HUD flashed with the details of the transaction.
+
+| Cortex Inc. Credit Charge: -750 |
+
+| Cortex Inc. Credit Balance: 345 |
+
+“Oh. One thing I forgot to ask is, can the software handle more than one drone at once?” Talia asked.
+
+[Notice: No refunds are available for any Cortex Inc. purchase. Your SDC upgrade includes the capability to utilize multiple drones at once, however all drones are manually user operated and controlling multiple drones might require additional attention from User.]
+
+A new icon flashed into existence at the top of her HUD menu, showing a small remote control. She tapped into it immediately, but the menu was empty other than informing her that there were no drones connected.
+
+“Fabricator.” She mumbled.

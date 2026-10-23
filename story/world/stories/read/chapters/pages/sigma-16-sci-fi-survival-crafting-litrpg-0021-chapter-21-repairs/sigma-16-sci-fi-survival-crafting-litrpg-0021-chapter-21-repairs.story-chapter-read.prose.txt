@@ -1,0 +1,103 @@
+The damage to the Bootstrap Module was extensive, but superficial. The creature had left deep gouges in the outer shell and torn away most of the scaffolding she’d erected. There were several large dents where it had slammed its body against the structure, and a few deep punctures where its horns had penetrated. Despite all that, nothing of real importance had been damaged.
+
+Her decontamination unit and habitat had remained safely sealed. That was a resounding success and boosted her confidence in all the work she had done so far.
+
+The RSU-7S did not fare as well from the beating. One of its tires had been shredded, and there were deep gashes that ran through its chassis. The engine was still running, but it now came with a noticeable whine that hinted that it needed to be completely recycled and rebuilt unless she wanted to risk the thing exploding on her.
+
+Her quadcopter was a smashed piece of debris, and she recycled it completely. Thankfully, the efficiency of recycling things meant she recovered almost ninety percent of the materials used to make it. The survival fabricator was already working to produce another one. She actually wanted several more. Enough to do constant recon for more predators.
+
+But before that, she needed some type of defensive solution. It was clear the sentinel turret would not cut it. She’d actually pulled it inside the Module’s entry way after getting a new makeshift scaffold sorted. It seemed like the turret had just made things worse by enraging the creature.
+
+She still hadn’t given the thing a name, although a few ideas came to mind. Rockhopper, Rockslasher or Rockspike maybe.
+
+“Neo, we need better defense. I know we can’t use military blueprints, but the sentinel is just no good. Is there anything else at all?” Talia asked.
+
+[Informative: Multiple potential schematics are available; however, each requires the primary Bootstrap fabricator for production. In addition, Cortex credits would be required due to their proprietary nature.]
+
+“Don’t even tell me, they sell military grade stuff under the guise of being civilian.” Talia said, barely restraining herself from rolling her eyes. She hadn’t realized just how…messed up things could be until having experienced it herself.
+
+“I need you to calculate how many resources we need for repairs. Of everything. Please?” Talia asked.
+
+[Informative: User will require approximately 850 units of Durasteel for structural repairs, 150 units of Advanced Alloys for critical systems, and 350 units of Refined Silicates for sealant repairs. The amount of High Conductives is sufficient due to the amount retrieved from hostile creature recycling.]
+
+Talia grunted. She almost needed more now than when she had started repairs…but at least the monster had been good for something. If she ever needed a massive quantity of High Conductives hunting the Rock-thing might be a good idea. With a very big gun, though.
+
+She retrieved her NCS canister and attached it to her suit. There was no sense in risking her ATV exploding before repairing it, so she set out on foot to scour the remaining wreckage. She’d already worked over most of it and the rarer resources were few and far between. She focused on scooping up all the Durasteel she could, though, eventually filling her canister and multi-tool.
+
+She’d retrieved enough of everything to make repairs to the RSU-7S.
+
+[Notice: Manual repairs will take longer than simply recycling and re-fabricating RSU unit.]
+
+“It’s fine. It is better if I learn how to do this myself just in case something happens, plus wouldn’t recycling lose more resources? I don’t want to waste what we have.” Taia said.
+
+[Affirmative: A 10% loss of rare resources would create a minor setback. This unit recommends User consider a resource run that focuses on Advanced Alloys, the current bottleneck for repairing primary fabricator.]
+
+It wasn’t a bad idea. She did know where to find what she needed. The only problem was that it was in the jungle, and she wasn’t sure she wanted to make such a long trip at the moment. What if one of those things attacked her on her ATV? She’d have to hope she could drive faster than they could run and that wasn’t a sure thing, not by a long shot.
+
+The multi-tool was capable of precision fabrication inside the ATV’s engine, where she couldn’t even see. Rather than showing an overlay and pulling the trigger, she had to observe several screens reporting different circuit statuses and select the correct change according to another screen’s diagram.
+
+Neo was right. It was time consuming, but after an hour of tinkering, the RSU’s engine whirred to life without the self-destructive shrieking. The rest of the damage was cosmetic or structural and much quicker to fix with Durasteel layering.
+
+A chime informed her that the new quadcopter was ready while she was still cleaning up the mess and touching up the ATV’s paint. She rolled the repaired vehicle back up her staircase and left it on the roof before fetching the new scout. Restoring her roving eye machine was something she didn’t want to delay and the moment it took off to scan the area, she felt a bit of relief.
+
+There was one thing she felt worried about in particular. “Neo, have it look specifically for any more of those Rockslashers.”
+
+[Affirmative: Naming local alien species #043 ‘Rockslashers’ according to exploration guidelines. A council approval will be required before a permanent name is established.]
+
+“I don’t really care about that.” Talia grumbled. She knew some people took being the first person to name everything they found on a planet seriously, but to her, things were already there. There was no need to place her personal stamp on everything that showed she’d ‘discovered’ it. Exploring and finding new things—while not dying—was good enough for her.
+
+[Notice: Upon confirmation of primary naming rights and name confirmation, the electronic energy credit consortium awards all explorers with ten thousand EEC units.]
+
+That was money. Her ship and all its equipment had cost a million EECs. Ten thousand was enough for a house on a safe, habitable world or a year or two living in a nice apartment there.
+
+“Rockslasher it is.” Talia quipped.
+
+She decided to build a second quadcopter, despite Neo’s complaints. Setting up a repeating waypoint circle wasn’t hard, and all she needed him to do was return them for charging, then send them back. Their charging speed was fast enough that with two, there would always be at least one in the air. That drained her resources more, but with the extra surveillance she felt a little better hopping on her RSU-7S and collecting the more distant wreckage piles.
+
+The rest of the day was spent making multiple trips back and forth until the wreckage field was picked clean all the way to the horizon. A growing pile of Durasteel hexagons had stacked itself outside her base, far more than she would need. At least until she began to construct some permanent structures…or something really big that could move.
+
+A bunker would be nice, but digging a hole to hide the Bootstrap Module in was far more digging than she could handle with a multi-tool, and she’d need some type of heavy machinery to crane the thing into the hole anyway.
+
+The more she thought about it, the less enticing a bunker actually sounded. She wasn’t sure there wasn’t some type of alien that liked to burrow into bunkers... There was already the prospect of one lifeform living a subterranean lifestyle, too.
+
+Maybe a base-sized hovercraft?
+
+[Notice: All resources required for Bootstrap Fabricator repairs have been acquired. Displaying resource stockpile.]
+
+[Bootstrap Module Resource Stocks]
+
+| Durasteel: 8,560 |
+
+| Refined Silicates: 1,460 |
+
+| Advanced Alloy: 630 |
+
+| High-Conductive Material: 844 |
+
+| Fusion Cells: 10 |
+
+She nodded in satisfaction as she emptied her NCS canister into the growing pile just inside the module. Neo was obviously counting all the resources she’d stacked outside as well, but she still had to carry them up to the fabricators if she wanted to use them.
+
+“How do we fix the fabricator?” Talia asked.
+
+[Informative: The Bootstrap Module’s fabricator requires a fine-tuned repair schematic specific for the damages that have occurred inside its fabrication matrix. Manual repair is beyond User capabilities and multi-tool. A new production schematic has been unlocked for survival fabricator.]
+
+“God, why do you sound so smug? ‘Manual repair is beyond User capability’ my ass. I’ve done everything so far!” Talia grumbled.
+
+[Notice: This unit maneuvered RSU-7S unit to protect User. Therefore, User’s claim to have done everything is invalid.]
+
+Talia rolled her eyes and shook her head. “Oh, for crying out loud…yes. Thank you for helping fight back against the Rockslasher. But you’d have been sliced and diced as well if you hadn’t helped a bit.”
+
+[Informative: Survival Fabricator is currently awaiting material delivery. A list of materials is available if User memory is incapable of long-term storage.]
+
+[Bootstrap Module Fab Repair]
+
+| Durasteel: 600 |
+
+| Refined Silicates: 300 |
+
+| Advanced Alloys: 200 |
+
+| High-Conductive Material: 150 |
+
+“Yeah. I get it, Neo.” Talia replied flatly.

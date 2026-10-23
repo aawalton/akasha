@@ -1,0 +1,287 @@
+Talia leaned into the soft synthetic fabric of her bed. It was a simple futon style that laid directly on the floor, with a set of silky sheets. The fabric provided a welcoming change compared to the hard floor or her suit. The sensation of her skinsuit was soft on her skin, and she rolled over onto her back and stretched and cracked her back while enjoying the feeling of not being constrained.
+
+The habitat module provided a sense of sanctuary from the alien world. The toilet and shower were a major amenity that she hadn’t realized it was possible to go without before her crash landing.
+
+The only thing that felt better than being squeaky clean was the feeling of having a full resource hopper and lots of points to go shopping with.
+
+To make her quarters comfier, she’d gone through the effort to decontaminate her survival fabricator, not a simple or easy process. Then she’d installed it into the wall and connected a sterile resource hopper; the attachment would automatically sterilize and input the needed resource blanks for construction.
+
+Of course, the Bootstrap Module didn’t have an internal silo for sending resources to that, so she had built one. A large silo half the height of the module had formed near her staircase, and the automated gantry and loading systems that organized the various resource blanks had cost her a pretty penny. But now all she had to do was dump resources into a chute at the bottom and everything would be stacked and stored in a neat arrangement.
+
+Even better, the setup was expandable with more silo modules that would cost a lot less than the upfront cost of the sorting system.
+
+Beneficially, it also hooked into the Bootstrap Module’s main fabricator as well. It could even unload the output of the larger fabricator and store them.
+
+It was everything she needed to be able to print things without even having to put on her suit.
+
+That had led her to consider what kind of drone units she could get to automate things. She’d already gone over the defensive options the day before. The other options were more interesting: resource extraction and construction.
+
+Talia pulled out her Datapad and turned it on. “Neo, let me see the cheaper, small-ish sized drones.”
+
+[Equipment: Cortex Resource Drone - Extractor Model]
+
+| Description: This resource extraction drone is a great tool for automating resource collection. With a robust onboard AI, it can detect, mine, and process various resources independently, significantly reducing the burden on manual labor. Its durable design and advanced safety protocols ensure its effectiveness in various environments. |
+
+[Effect: Autonomous resource extraction]
+
+[Weight: 24,000kg]
+
+[Top Speed: 20km/hr]
+
+[Movement: Tracked]
+
+[Cost: 1500 Credits]
+
+Her eyes lit up with anticipation. This was what she was most interested in at the moment. She scanned the schematic for the drone and considered its specifications. It was over twice the size of her ATV and much more durably constructed. It almost looked like a military vehicle. There was even a cockpit space for her to ride along in.
+
+That came at the price of having a much slower movement, but she suspected the tracks would do very well in the rough terrain they’d encountered so far. If she decided to deploy it in the jungle, it’d possibly have trouble, but maybe not since the mining capability meant it could just build its own road as it went.
+
+A large laser drill would provide the capability to clear all the strata that her mining tool was capable of, and the machine had a sizeable hopper able to carry over ten thousand standardized hexagon resource units.
+
+It came with a hefty price tag, but she still had to restrain herself from an impulse buy. Talia’s eyes slid to the next entry as she moved the datapad’s scroll bar.
+
+[Equipment: Cortex Construction Drone - Builder Model]
+
+| Description: The Builder model drone is designed to assist in complex construction projects. Using advanced AI algorithms, it can perform tasks ranging from assembling large structures to fine-tuning delicate deployment modules. Its robust design and multiple tool attachments allow it to work with a variety of materials and in various environments. |
+
+[Effect: Autonomous construction assistance]
+
+[Weight: 14,000kg]
+
+[Top Speed: 15km/hr]
+
+[Movement: Wheeled]
+
+[Cost: 1500 Credits]
+
+The second entry was still interesting. If she wanted to seriously expand the base or build more fieldworks and defenses, she needed it. But the prospect of collecting all the materials for that expansion by hand knocked the priority down a notch in her mind. The price was just as steep as the mining drone, and she didn’t have enough for both.
+
+And she still needed to get the suit upgrade she wanted. She’d have to reconsider it later when she had amassed more credits. She scrolled to the next entry.
+
+[Equipment: Cortex Utility Drone - Repair Model]
+
+| Description: The Repair Model drone is a highly efficient tool for maintaining and repairing complex systems. Equipped with a suite of specialized tools and advanced diagnostic software, it can detect faults, perform preventive maintenance, and repair damages autonomously, greatly reducing downtime. |
+
+[Effect: Autonomous maintenance and repair]
+
+[Weight: 80kg]
+
+[Top Speed: 60km/hr]
+
+[Movement: Hover]
+
+[Cost: 800 Credits]
+
+This one was not as enticing as the first two, but she still felt a repair drone could be handy. The issue was, once again, priorities. There was no major damage to the Bootstrap module that she hadn’t already repaired with her multi-tool, and while automating repairs in the future was definitely going to be a consideration, it wasn’t needed at the moment.
+
+The rules of triage meant this one would need to wait. There was one last entry on the drone list.
+
+[Equipment: Cortex Maintenance Drone - Cleaner Model]
+
+| Description: The Cleaner Model drone is designed for sanitation and upkeep tasks. It has an array of specialized tools for cleaning various surfaces, disposing of waste, and maintaining cleanliness. Its small size and maneuverability allow it to access hard-to-reach areas, ensuring thorough cleaning. |
+
+[Effect: Autonomous sanitation and upkeep]
+
+[Weight: 40kg]
+
+[Top Speed: 45km/hr]
+
+[Movement: Hover]
+
+[Cost: 400 Credits]
+
+She blew her cheeks up in disappointment. A cleaning drone. Luxury. The only clean space she needed was inside her habitat, and it was small enough to make cleaning trivial. It wasn’t like she was running a hotel, so she flicked the scroll bar back to the top.
+
+She’d pretty much already made her choice, anyway.
+
+“Neo, we need the automated mining drone,” Talia said.
+
+[Notice: Cortex Resource Drone requires 1500 Cortex scan credits. Confirm?]
+
+Talia nodded. “Yes. Do it, and set production of one up, please.”
+
+[Affirmative: Processing request.]
+
+[Cortex Scan Affiliate]
+
+| Cortex Inc. Credit Charge: -1500 |
+
+| Cortex Inc. Credit Balance: 2475 |
+
+[Bootstrap Module Internal Stockpile Array]
+
+[Resource Deduction]
+
+| Durasteel used: 800 (Remaining Balance: 5,637) |
+
+| Advanced Alloy used: 700 (Remaining Balance: 148) |
+
+| High-Conductive Material used: 300 (Remaining Balance: 460) |
+
+| Refined Silicates used: 600 (Remaining Balance: 893) |
+
+| Fusion Cells used: 5 (Remaining Balance: 5) |
+
+After the resource silo, and now the drone, she was feeling a slight pinch on her resources. It made sense that the drone was going to need a lot of fusion cells to operate, but taking up half of her remaining stock…
+
+She cleared her Datapad. “Neo, what do we need to produce the fusion cells? Actually, maybe we should look into energy generation. Our survival solar panel array is hardly going to cut it now that we are going to have autonomous vehicles.”
+
+[Informative: Fusion cell production requires an energy cell fabrication unit. Each Cell requires 10 units of Durasteel, Advanced Alloy, High-Conductive Material, and High-Energy Matter.]
+
+Talia blinked. According to those numbers, her latest trip to the jungle and mining of the Veins of Volta in the hot springs had netted her enough High-Energy Matter for 67 Fusion cells. That just left the processing plant’s cost…
+
+“Are you sure we can’t fabricate them in the normal fabricator?” Talia asked.
+
+[Informative: Fusion Cell fabrication requires a specialized industrial module for production. The cost of building this addition can only be estimated due to the complexity of base attachment systems. Please review equipment card and preliminary cost estimate.]
+
+[Equipment: Fusion Cell Fabrication Plant]
+
+| Description: The Fusion Cell Fabrication Plant is an advanced module that is required for the fabrication of fusion energy cells. High-Energy Matter is excited into its full potential before being constrained in a stable, protected shell suitable for all standard fusion cell power slots. |
+
+[Effect: Enables onsite fabrication and ability to synthesize stable fusion energy cells.]
+
+[Cost: 500 Credits]
+
+| Durasteel: 2,500 |
+
+| Advanced Alloy: 900 |
+
+| High-Conductive Material: 450 |
+
+| Refined Silicates: 450 |
+
+Talia grunted. “Okay. That is a priority, but we are a bit short for it. Hopefully the mining drone will help with that.” She tilted her head. “Can we even use the fusion cells for the main base power?”
+
+[Informative: A generator module is required for processing fusion cells into usable power. A miniature civilian module is available due to cross-reference from available vehicular schematics; however, a dedicated base module is also unlockable.]
+
+[Equipment: Cortex Power Generator - Mark I]
+
+| Description: The Cortex Power Generator Mark I is a standard generator unit designed for efficient power supply. With advanced energy conversion technology, it can provide reliable power for your base, helping to ensure the optimal operation of your facilities. |
+
+[Effect: 100MW Base power expansion.]
+
+[Cost: 500 Credits]
+
+She rubbed her forehead. “I bet that costs a lot of resources, too.”
+
+[Notice: A preliminary estimate of Cortex Power Generator resource requirements is available.]
+
+| Durasteel: 1,250 |
+
+| Advanced Alloy: 300 |
+
+| High-Conductive Material: 850 |
+
+| Refined Silicates: 350 |
+
+“Not as bad as the fusion cell fab, but we’d need the fab first to even use the generator…I’m not sure we need that much power right now, either.”
+
+[Informative: Generator Type can process multiple fuel types, including bio-organic matter. A large supply of this is located in the explored jungle region.]
+
+“Burn the plants? Really, that’s barbaric,” Talia muttered, but… “I’ll consider it. I’d rather not channel an earther vibe, though.”
+
+[Notice: The amount of wreckage that was introduced to the atmosphere and planet will out mass all pollution emitted by generator bio-organic power settings by a factor of 100 over ten Terran years. The biogas burning systems are highly efficient and nearly emissions free.]
+
+“Okay, Okay. Actually, let’s unlock the suit systems I wanted.”
+
+[Notice: The Cortex Scan Affiliate Heuristics AI has made a one time offer to combine the unlock price of Fusion Cell Fabrication and Cortex Generator MK 1 into a single charge of 500 credits.]
+
+Talia blinked. “Are you trying to force me to buy it, so I’ll burn stuff?”
+
+[Informative: This unit is merely relaying the extended offer.]
+
+She shook her head. “Alright, I’ll buy things. Relax. I was going to anyway.”
+
+[Affirmative: Please provide a list of desired unlocks.]
+
+Talia selected the category on her datapad and then flicked down the list. The Life Support Oxygen Extractor was first. Then she went and flicked the Fusion Cell Fab and Generator modules. The sad sound that accompanied all credit purchases accompanied the purchases.
+
+| Cortex Inc. Credit Charge: -500 |
+
+| Cortex Inc. Credit Charge: -500 |
+
+| Cortex Inc. Credit Balance: 1475 |
+
+The second part was trickier. “Neo, the cost for the suit capacitor and suit defense shield…that’s 1200 credits?”
+
+[Affirmative: Cortex Phalanx Personal Shield Generator and Internal Capacitor Upgrade cost 400 and 800 credits respectively.]
+
+“Weird. Why does the shield cost less than the capacitor upgrade?” Talia asked.
+
+[Informative: The Cortex Phalanx Personal Shield Generator is a basic defense system designed for personal protection. It operates by creating an energy barrier around the user, absorbing and dispersing incoming kinetic and energy-based attacks, thus reducing harm to the suit and user. This technology, while critically important for survival in hostile environments or situations, is less complex than enhancing the suit’s internal capacitor.]
+
+[Informative: The Internal Capacitor Upgrade involves a comprehensive enhancement of your suit’s power management system. It increases the capacity of your suit’s battery reserves, allowing for longer operation times between recharges. Additionally, it improves energy efficiency across all systems—this includes life support, mobility assistance, computing power for sub-systems, hazard protection and more.]
+
+Talia whistled. Neo sure knew how to talk up an upgrade when he set his mind to it. The boring description she remembered only really touched on the battery and power capacity increases, not all the efficiency improvements. But with the credit cost being so high, the cost made more sense.
+
+[Informative: While the shield generator provides a crucial layer of physical protection - which can be seen as an immediate benefit - the capacitor upgrade provides pervasive improvements to overall suit performance that have long-term benefits but are less immediately noticeable.]
+
+“Got it,” Talia said. “Unlock both of them.”
+
+[Affirmative: Processing request.]
+
+[Cortex Scan Affiliate]
+
+| Cortex Inc. Credit Charge: -1200 |
+
+| Cortex Inc. Credit Balance: 275 |
+
+The Datapad pinged, and she checked the new schematics that had been downloaded into her suit’s systems.
+
+“Neo, add all three upgrades to the fabricator queue.”
+
+[Informative: Resource assessment initiated.]
+
+Talia watched as Neo began calculating resource requirement for each upgrade. The numbers flashed across her Datapad.
+
+[Life Support Oxygen Extractor Upgrade]
+
+| Durasteel: 200 |
+
+| Refined Silicates: 150 |
+
+| Advanced Alloy: 100 |
+
+| High-Conductive Material: 50 |
+
+[Cortex Phalanx Personal Shield Generator]
+
+| Durasteel: 300 |
+
+| Refined Silicates: 200 |
+
+| Advanced Alloy: 150 |
+
+| High-Conductive Material: 75 |
+
+[Internal Capacitor Upgrade]
+
+| Durasteel: 400 |
+
+| Refined Silicates: 250 |
+
+| Advanced Alloy: 200 |
+
+| High-Conductive Material: 125 |
+
+[Resource Deficit Detected]
+
+| Durasteel = (5637-900) = 4737 Remaining after Production |
+
+| Refined Silicates = (893-600) = 293 Remaining after Production |
+
+| Advanced Alloy = (148-450) = -302 (Deficit) |
+
+| High-Conductive Material = (460-250) = 210 Remaining after Production |
+
+[Notice: Resource shortage detected. Insufficient amount of Advanced Alloys for all upgrades.]
+
+Talia frowned at the readout on her Datapad. That was a lot of material for making a suit upgrade. She wondered just why it would take so much. It seemed like the amounts were more akin to producing a small vehicle than anything that would integrate with her exosuit.
+
+She shook her head. Regardless of the costs, she needed them. “Alright, we’ll have to work on replenishing our stockpile. How long until the resource drone is done making?”
+
+[Notice: The Cortex Resource Drone fabrication process is approximately 17% complete. Estimated time to completion: 1 hour and 40 minutes.]
+
+Talia nodded. That’d give her some time to get ready. “Can we use the data from our quadcopters to create a wreckage map and maybe scout for any mineral deposits nearby?”
+
+[Affirmative: Resource mapping analysis underway.]

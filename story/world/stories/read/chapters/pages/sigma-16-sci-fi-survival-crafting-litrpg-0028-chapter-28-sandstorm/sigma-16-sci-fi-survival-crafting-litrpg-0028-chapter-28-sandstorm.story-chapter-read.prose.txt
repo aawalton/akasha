@@ -1,0 +1,191 @@
+Talia’s suit hissed as she unsealed her helmet, pulling it off with a tired sigh. The decontamination sequence had just finished, the light hum of atmospheric machinery and the faint smell of sterilization chemicals dissipating into the air as she stepped out of her suit.
+
+There was an ache in her muscles that spoke volumes about how long she’d been monitoring the new resource drone. She’d spent hours tracking its progress and watching for any sign of error or danger. The new vehicle was essential to progress and losing it because she wasn’t paying attention would have been a devastating blow.
+
+But despite her exhaustion, there was a sense of satisfaction that filled her. They had accomplished more than what they’d set out to do. Not only were all necessary materials for constructing the fusion cell fab and the generator secured, but they’d even brought back extra material for future projects.
+
+The monitor in her room showed a mirrored view of the drone’s optical feed. The vehicle was cresting a dune heading southwest, heading on its first solo mission. She couldn’t help but suppress a slight anxiety at letting it operate without supervision, but she knew that it was unavoidable. Plus, it was an ‘automated’ resource drone…it was designed to work on its own.
+
+But Sigma 16 had shown it wasn’t quite as safe as the designers might have envisioned.
+
+It was also draining power quickly; Neo had continued to warn her about the drone’s fusion cell levels in twenty percent increments and that it would be running below 40% upon its return if Neo’s calculations were accurate. That was about one fusion cell per mining trip. The material exhumed was easily worth the cost, especially since they’d be producing power cells themselves soon.
+
+Talia unzipped her skinsuit’s zipper and stepped into her makeshift shower unit. A press on the touchscreen summoned the hot steamy stream of bliss she desired, melting away most of her thoughts. She’d install the new base modules in the morning. Everything would be finished fabricating when she woke up.
+
+[Notice: User requirements for restorative rest have reached a critical level.]
+
+“Tell me about it,” Talia muttered. She was more than ready to sleep as she dried off with a towel.
+
+She still needed to install her new suit upgrades, but she was just too tired to do them right away. It was definitely time to sleep.
+
+“Neo, monitor the drone while I’m out. Wake me if it encounters any issues,” Talia instructed before slipping on a fresh skinsuit.
+
+[Affirmative: Drone monitor protocol initiated.]
+
+She embraced the soft cushion of her bed with a sigh of relief, before pulling the thin sheet over herself. The LED lighting automatically dimmed, leaving only a small nightlight. The moment she closed her eyes, everything, including all her worries, faded away.
+
+A distant wailing dragged her back into reality. It took several minutes before the meaning of the intruding sound dawned on her, but as soon as it did, she jolted awake. She ripped off her sheets and sat upright, instantly on high alert. Adrenaline coursed through her. “Neo, what the fuck is that?”
+
+[Informative: A large dust storm is currently in progress.]
+
+The weather so far had been uniform and non-existent other than the hot days and cold nights, but she knew that a dust storm could cause significant damage to the unprepared. She doubted the base could be completely buried in one storm, but…
+
+“Neo, why didn’t you wake me up?” Talia demanded. The distant wails seemed to turn into a closer howl, and she even identified a low thump as something more substantial than sand collided into the side of the base.
+
+[Informative: CRD-X9 Resource Drone successfully deposited its final run’s resources and is locked in its cradle attached to the resource silo. No immediate action was required.]
+
+That the drone’s mission was complete was a welcome piece of information, but it was short-lived as concern for her other equipment came to the front. “What about the RSU-7S? she asked. “And the quadcopters?”
+
+[Informative: RSU-7S is currently at risk for sand burial. Both QCD-2P quadcopters have returned to their charging cradles but could sustain damage while docked.]
+
+She rubbed her temples to try to push away some of the stress. Everything was parked. If it was damaged, she would at least be able to dig it out and recycle it and refabricate new units. The price of the light scout units wasn’t as bad as the resource drone, so they were somewhat expendable.
+
+The best she could do was wait for the storm to pass and hope for minimal damage.
+
+She leaned back into her bed, propping herself up with a pillow. Her datapad was where she’d left it and she pulled up the base’s status screen.
+
+[Status]
+
+| Bootstrap Module: [Operational] |
+
+| Module Health: [88% (Design Irregularities Detected)] |
+
+| Power Level: [56%, Utilizing Extended Power Cell Bank] |
+
+| Hazard Protection: [Habitation Seal – Nominal], [Shield unit – not installed.] |
+
+| Fabrication Capability: [Fully Functional] |
+
+| Inventory: ([Durasteel - 5,250 units], [Refined Silicates - 3,200 units], [Advanced Alloy - 2,800 units], [High-Conductive Material - 1,700 units], [High-Energy Matter - 671 units], [Fusion Cell - 4 units]) |
+
+| Module Upgrades: ([High-Capacity Fabricator], [Extended Power Cell Bank], [Advanced AI-Assisted Operation], [1 Habitat Compartment], [1 Decontamination Chamber]) |
+
+| Equipment: ([1 Cortex Vanguard ADS Turret], [1 RSU-7S ATV], [2 QCD-2P Quadcopters], [1 CRD-X9 Cortex Resource Drone]) |
+
+[Module Specifications]
+
+| Manufacturer: [Cortex Inc.] |
+
+| Model: [Bootstrap Module] |
+
+| Type: [Industrial Fabricator / Habitation Constructor] |
+
+| Mass: [389,571 kg] |
+
+| Crew Capacity: [Unmanned but equipped with accommodation facilities for one person.] |
+
+| Max Speed: [N/A (Non-movable unit)] |
+
+| Power Source: [Extended Power Cell Bank] |
+
+| Fabrication Capability: [Can construct various structures and modules from materials.] |
+
+| Deployment: [Deployed successfully and currently anchored.] |
+
+[System Status]
+
+| Crisis Mode: [Inactive] |
+
+| Hull Integrity: [100%] |
+
+| Power Cell Status: [56% battery remaining in the current cell. 4 additional Fusion Cells available.] |
+
+| Fabricator Status: [Operational; idle.] |
+
+| AI-Assisted Operation: [Operational; interfacing with User and managing module systems effectively.] |
+
+| Manual Override: [Available if needed.] |
+
+| Hatch Access: [Functional; normal access protocols active.] |
+
+Despite the storm, her base’s state was a massive improvement since she’d reached it and deactivated the crisis mode lockdown. The only concern seemed to be their long-term power needs, and she already had the modules printed and ready to solve that issue.
+
+She tried the external optical feeds from the Cortex Vanguard ADS, but visibility was essentially zero. She found the same picture on the rest of the cameras, except one that was protected in a cubbyhole underneath the ramp, which just showed sand blowing horrendously over the base.
+
+She flicked the datapad to see how many resources they’d have left after tallying up all the upgrades, modules, and salvage/mining runs. The screen lit up with Neo’s familiar interface, displaying columns of figures corresponding with each type of material they had remaining.
+
+[Bootstrap Module Resource Stocks]
+
+| Durasteel: 5,250 |
+
+| Refined Silicates: 3,200 |
+
+| Advanced Alloy: 2,800 |
+
+| High-Conductive Material: 1,700 |
+
+| High-Energy Matter: 671 |
+
+| Fusion Cells: 4 |
+
+It was better than she’d hoped. The drone’s solo run must have been as successful as her second, both of which had avoided the Durasteel deposit and focused on wreckage. She’d need to be conservative on her use of the rarer materials, though, since that had likely cleared everything within close range.
+
+She’d have to consider more distant expeditions or figure out how to automate those safely enough that the drones could handle it on their own. She was still skeptical of letting them travel very far while out of sight.
+
+With the storm still raging outside, she dimmed the lights and tried to go back to sleep. The monitor stayed on the one working camera feed, showing nothing but the chaotic swirl of brown and grey; unending waves of grit that battered against the module’s exterior.
+
+Despite her best efforts, she couldn’t manage to drift off. Every time she closed her eyes, she would be jolted awake by periodic thumping of debris or something heavy. The third time was too much, and she threw away the covers and sprang out of bed.
+
+She grabbed a survival ration bar and chomped on it, before heading into the Decontamination Module. Neo came to life as she began to don her exosuit.
+
+[Warning: External conditions are classified as hazardous due to ongoing dust storm.]
+
+“I know, Neo,” Talia reassured, fastening her helmet into place. “I’m not going outside. I just…need to keep busy, and there isn’t much to do in here.”
+
+The airlock cycled over to the interior of her base and she made her way up to the topmost section. The large crystal window she’d installed as an observation post led to nothing but blackness and a constant stream of sand pelting against it. There was no way the storm was going to damage it, but it did give her a personal glimpse of the chaos going on outside.
+
+“Let’s install those suit upgrades here.” Talia finally decided.
+
+[Affirmative: Suit upgrade modules are available for retrieval from primary fabrication unit.]
+
+She returned to the middle module and waited for the system to retrieve her upgrades. A series of mechanical whirs sounded from inside the walls, before a hatch opened with three small cubes sitting on a helpful carrying tray.
+
+Carefully collecting them, she returned to the largest open area inside the base near the entrance. “Can we just do all three at once?”
+
+[Notice: All upgrades must be performed sequentially to allow suit integration.]
+
+“Darn it. Okay, we’ll start with the oxygen one then,” Talia replied. As pretty and amazing as the process was, she was quickly becoming immune to it. As soon as the new pieces had formed on her suit, she sat down the next one and repeated the process.
+
+Once all three were installed, she checked her HUD. Sure enough, two new icons had appeared beside the power indicator, one with a shield icon and the other with oxygen’s chemical symbol. After all the buildup, it felt slightly anti-climactic.
+
+“Neo, confirm installation of upgrades and calibration of new suit functions,” Talia ordered.
+
+[Informative: The following suit upgrades have been installed and are now active.]
+
+[Life Support Oxygen Extractor]
+
+[Internal Capacitor Upgrade]
+
+[Cortex Phalanx Personal Shield]
+
+She took a deep breath. She still couldn’t tell any real difference. “Is the oxygen extractor working? Doesn’t seem different.”
+
+A sudden burst of regulated air flushed into her helmet, it tasted cool and crisp, almost sterile but not quite. It tasted and smelled like being back aboard her corvette.
+
+“Okay, definitely working now.”
+
+[Informative: Suit has switched to generated air supply. The estimated power consumption is one standard battery per 24 hours of usage.]
+
+Not bad, considering that her suit now held an internal capacity equal to two dozen standard batteries. She’d need to hook up to the battpack or base battery module directly to recharge from now on unless she found another solution.
+
+“What about the shield?” Talia asked.
+
+[Informative: The Cortex Phalanx Personal Shield Generator creates a protective energy barrier around the user. When activated, it forms an invisible shield that can absorb a substantial amount of damage from kinetic and energy-based attacks.]
+
+“The question is, how do I know it’s working?” Talia asked, running her gloved fingers over her new torso chest piece, which was where the module had been installed.
+
+[Informative: A new indicator has been added to your HUD for monitoring shield status. When active, you will see a circular bar surrounding your suit’s integrity status bar. The circle represents shield strength; as you take damage, the circle will deplete. If completely depleted, the shields will fail and need time to recharge.]
+
+Talia nodded along with Neo’s explanation, eyeing the new addition to her heads-up display.
+
+“Any idea when this storm is going to let up?” Talia asked, her voice echoing slightly in the quiet confines of the module.
+
+[Informative: The storm has been ongoing for approximately three hours. Due to an absence of meteorological data or records from this planet, it’s difficult to estimate the exact duration. It could potentially last several more hours or even days.]
+
+Talia frowned at Neo’s answer. That was not what she wanted to hear.
+
+“Is there any way we can set up the Power Cell Fabricator and Generator without going outside?”
+
+[Informative: Unfortunately, setting up modules inside the current confines of the base is impossible. Both pieces of equipment require an area too large to fit within the current internal structure of Bootstrap Module without additional expansion. Furthermore, your multi-tool’s fabrication mode may not function correctly within a sandstorm as these conditions will inevitably interfere with its precision assembly protocols.]
+
+The news wasn’t encouraging, but it didn’t surprise her either. They were stuck in limbo until the storm passed; there was no other option but patience now.

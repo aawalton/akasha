@@ -1,0 +1,101 @@
+The Pegasus and CRD-X9s returned to the base in silence. The weight of the recent attack hung heavily in the air of the APC’s crew compartment. Dusky and Dapple watched silently as Talia worked to direct units to return underneath the protective dome of the shield, while also specifying patrol routes for their scout drones.
+
+There hadn’t been a single Blue survivor from the attacking platoon, and their equipment and vehicles were strewn across the sands as burning metal wreckage amidst hundreds of small craters.
+
+The morning sun had nearly reached its zenith, baking everything in sight. She’d been awake all night, and the pace of events was applying a dull, fuzzy ache to the back of her neck. Fatigue was getting to her again, but the urgency of the situation kept her going. She couldn’t afford to stop things now. The attack meant she was going too slow, if anything.
+
+“Neo, get those multi-tools ready for Dusky and Dapple. And set up a training video for them, too,” Talia ordered. She had increased the number of available unloading cradles for the CRD-X9s, but they still needed to form a short line as each unit began to dump the HEM into the stockpile controller.
+
+A yellow warning appeared, indicating the stockpile controller was running out of space. Dusky and Dapple hopped out of the APC as soon as the hatch slid open, hopping around. She followed closely behind, but then the spiders let out panicked squawks and jumped behind her and the APC.
+
+Dusky jabbed her front leg at one of the HIRU units that were standing guard. Both spiders quivered with unease and shrunk back.
+
+Talia grunted; the robots had the blue tinge that all bare Durasteel held and shook her head. “It’s okay,” she murmured softly. “They’re here to help and protect us. They aren’t Blues.”
+
+The LIRU and MIRU units marched into the square, forming neat rows. A few members of each unit broke formation and fetched several large crates that had several fusion cells embedded on its side. The crates moved swiftly across the lines, each unit exchanging multiple batteries with the crate. The small maintenance drones flittered about the HIRU units and Raptor drones, replacing their fusion cells with fresh ones.
+
+Every unit automatically got a fresh cell, while the CRD-X9s had their empty cells replaced with partial ones, and any cell too low to be workable went into the stockpile for recycling. It was a good thing she had set up the dedicated fabricator for the fusion cell fab, but something told her they were going to need to expand things with a dedicated recycling unit and another cell fab, eventually.
+
+But this wasn’t the time for it. She headed for the stockpile and dialed through the schematics for her multi-tool, and started fabricating the structure for the silo. “Neo, setup the stuff needed for the new stock silo, please.”
+
+[Affirmative: Equipment added to priority queue. As an additional recommendation, a multi-tool compatible with MIRU units should allow future flexibility with base element deployments.]
+
+“Yeah. That sounds good,” Talia replied, a tinge of tiredness entering her voice. “I didn’t realize they could fetch things out of the stockpile and stuff. I thought they were just dumb soldiers that fought.”
+
+[Informative: Equipment for Dusky and Dapple has been completed. User direction and deployment is required.]
+
+Talia stopped working on the silo foundations and turned to the stockpile. “Let’s get that done, then.”
+
+[Additional: MIRU units are capable of simple tasks, such as fetching items from the stockpile when not engaged in combat or other high-priority duties. They can provide additional support for base operations.]
+
+“Good to know. The set of multi-tools for the MIRUs is next, then?” Talia asked.
+
+[Affirmative.]
+
+Talia nodded. “Great. Wish you had told me this earlier, would have helped with a lot of the stuff I have had to do manually…would have made the MIRUs before the Panthers, even. Set them up to finish the stockpile.”
+
+Neo confirmed the order, but she still felt a tinge of annoyance. The AI was supremely helpful, and nothing would have been possible without its assistance, if she was being realistic, but Neo’s lack of foresight wasn’t great. He’d become much better and more reliable ever since the nearly fatal flight on the Seeker, but sometimes she wondered if there was a way to improve his…smartness.
+
+With a deep breath, she shook off her fatigue and refocused on the task at hand. The stockpile dropped out two boxes that fit under her suit’s arms, and she picked them up.
+
+Dusky and Dapple had found a spot underneath the Bootstrap Module that was well shaded and partially hidden. Both spiders were still peeking over some discarded crates, eyeing the HIRU units with wariness. They perked up when they spotted her approaching.
+
+“Alright, you two,” Talia said softly, “we’re going to get you set up with some new tools to help with rescuing your friends. I know you’re nervous around the robot units, but they are on our side.”
+
+The spiders seemed to relax slightly, though they still peeked around her periodically to eye the HIRUs. But once she sat down the boxes and they opened up with the basic multi-tool attachments, she had their full attention.
+
+“These will let you deconstruct and construct metal things,” Talia explained. She used her own multi-tool to demonstrate with a simple pillar of Durasteel.
+
+“Maker! Create…maker…power!” Dusky chirped excitedly.
+
+Talia blinked. It wasn’t often that her translator added new words from them. It was part of the reason she thought the thing was busted, since they normally only vocalized a few words, their favorite being ‘Maker’ and ‘Taker’ while being nearly devoid of any other expressions. But…they seemed to understand a lot of what she said now, which made her wonder why they didn’t say more.
+
+Talia smiled at Dusky’s excitement and continued to show the spiders how to use the multi-tools. “That’s right, you’ll be able to create and manipulate metal structures with these tools. Just like this.” She showed a few more basic functions, watching as the spiders’ eyes widened in amazement.
+
+Their version of the tool was greatly simplified. It had two buttons, one for deconstruction and one for construction, both buttons being large enough that they’d have an easy time pressing it with their opposing front leg.
+
+There wasn’t really an aim assist and as she looked at the instructions, she felt a pang of alarm. “Neo, the safety interlocks are disabled?”
+
+[Affirmative: Basic multi-tool function lacks advanced processing capabilities. User safety is ensured via disruption of multi-tool laser cohesion by exo-suit shield generator.]
+
+That was all good and fine for her, and she supposed they had their own shields now, as well. So they were safe from accidents.
+
+Dapple pawed at the attachment, turning it over with one of her front legs and examining it up close. “Power…help…Tch’Llik’yzz’Lrr,” she chirped.
+
+Talia’s eyes widened. “Yes…exactly. You’ll be able to help rescue your friends and protect them with these.” Pressing a few keys on her bracer, she pulled up the instructional video that Neo had prepared and played it on the sand under the shade.
+
+It was well put together and started with a demonstration on how to activate and deactivate the tool. A scene showing the spiders removing metal bars from a cage was shown next, and then proceeded to show a scene of the captured spiders.
+
+Dusky hissed unhappily while she watched until the holovid showed two spiders coming up to the cages and using their multi-tools to let them out.
+
+Both spiders stared, gazes flickering between her and the tools once the video was completed. Talia nodded. “Who wants to go first?”
+
+Dapple presented her front right leg first, and Talia pulled off a strap from the spider’s harness and wrapped it around her leg. The thick fur combined with a natural notch, plus a small strap higher up, made sure it was snug. Then she snapped the attachment to the magnetic plate woven into the strap. The power cord ran up the spider’s leg and to her back, connecting into her small personal shield generator’s battpack.
+
+Talia took a step back as Dapple turned toward one of the example pillars that had been made and pressed the control to deconstruct it with her other front leg. The beam lasered out a short distance; the simplified version only had a meter range.
+
+It took a few false starts before Dapple got it on target. The spider seemed to have a little trouble keeping its leg steady, but with a little effort, melted a hole through the pillar and topple it.
+
+Dusky lost interest in her own tool and came to watch Dapple, chirping excitedly. “Taker!”
+
+Dapple chirped back and pressed the other control and painted a blob of metal between the now two separated parts of the metal. “Maker!”
+
+“Maker! Taker!” The two spiders began to chant excitedly. Talia called over Dusky and hooked up her harness while Dapple continued to practice on the metal pillars. A few minutes later, both spiders were excitedly going about deconstructing and constructing things…well blobs.
+
+“Neo, have the CRD-X9s recharged to maximum, and have them serviced by the maintenance bots as well. I want to launch the attack as soon as possible, so tonight. They are going to realize something happened to their team, and they might escalate as soon as they do.”
+
+[Informative: User request acknowledged. Preparing military and mining units for engagement and rescue operation. Approximately 6 hours are required before all units will be conditioned for deployment.]
+
+“That’s perfect. I need some sleep, too. So, six hours it is,” Talia replied. She had an inkling that she was forgetting something, but couldn’t figure out what that was.
+
+[Notice: User direction on preparations might be required.]
+
+Talia sighed and shook her head. “Just take care of anything that comes up.”
+
+[Affirmative: This unit will continue current operations.]
+
+Talia disappeared into her habitat. After a quick shower, six hours passed in the blink of an eye. The stabbing sensation of her alarm clock rang inside her head. Groaning, she forced herself up and out of bed. It was time. She snatched one of her dwindling survival bars, then headed out.
+
+She stepped back into her suit and secured it with a practiced ease. When she stepped outside, the expected rows of robotic infantry, pristine looking tanks and mining trucks greeted her.
+
+Not expected was the crude metal cage with two angry spiders climbing around it. Both screaming “Taker!” while the terrified Blue prisoner cowered in the center of it.

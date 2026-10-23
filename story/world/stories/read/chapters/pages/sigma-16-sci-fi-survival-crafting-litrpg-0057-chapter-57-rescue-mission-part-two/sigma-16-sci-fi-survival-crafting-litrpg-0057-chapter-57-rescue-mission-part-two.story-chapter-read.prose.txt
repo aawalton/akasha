@@ -1,0 +1,183 @@
+The convoy crossed through the desert sand rapidly, a small group of four CRD-X9s and a single pod of LIRUs trailing behind it as the slower construction units fell behind. Talia had decided to bring those along as well, since they were likely going to be very important for post combat operations but were just too slow to move with the main group.
+
+She tapped her screen, displaying her unit list and maps.
+
+[CRD-X9 (Cortex Resource Drone) x4]
+
+| Function: Autonomous resource extraction drones |
+
+| Capabilities: Detect, mine, process resources, rough terrain shaping and modification |
+
+[Raptor Drones x24]
+
+| Function: Aerial reconnaissance and light combat |
+
+| Capabilities: Surveillance and light gauss rifles |
+
+[LIRU (Light Infantry Robotic Unit) x30]
+
+| Function: Agile and fast robotic infantry |
+
+| Capabilities: Reconnaissance, hit-and-run tactics, camouflage |
+
+[MIRU (Medium Infantry Robotic Unit) x20]
+
+| Function: Balanced robotic infantry units |
+
+| Capabilities: Engage in combat with heavy gauss rifles and versatile infantry kit |
+
+[HIRU (Heavy Infantry Robotic Unit) x10]
+
+| Function: Frontline robotic infantry, Carry heavy deployables |
+
+| Capabilities: Heavy armor, heavy weaponry that includes light railguns or rockets, personal shields |
+
+[Panther X-1 Armored Vehicles x6]
+
+| Function: Mobile armored weapon platforms |
+
+| Capabilities: 75mm railgun, advanced targeting, rough terrain traversal |
+
+[Lynx-M3 Mobile Artillery x2]
+
+| Function: Long-range mobile weapon platforms |
+
+| Capabilities: High-velocity cannon, explosive shell firing, synchronized, Time-on-Target (TOT) |
+
+[Pegasus Armored Personnel Carrier (APC) x1]
+
+| Function: Carry User and Spider units |
+
+| Capabilities: Transport 10 infantry units and equipment |
+
+[Deployable CIWS Turrets x20]
+
+| Function: Defensive turrets |
+
+| Capabilities: CIWS anti-missile and anti-shell defenses |
+
+Watching the tactical maps filled her with tension.
+
+Circles around her units displayed the area they were monitoring, and two raptor units had gone far ahead to make sure the planned staging area was clear. There was a small crater approximately five kilometers from the research module that there was a well-covered path to, and once inside, would shelter them from any sighting or direct fire.
+
+From there, things got dicier, but there was still considerable hill and rock cover almost right up to the area the Blues had blocked off and secured with their defenses.
+
+[Notice: Reconnaissance units have determined safe avenue for approach. Initial routes have been plotted for LIRUs and Raptor drones, with waypoints marked for optimal coverage and observation of Blue fortifications.]
+
+“Alright. Go ahead and send the forward Raptors to edge around and scan at max range. Don’t let them be spotted,” Talia instructed.
+
+[Affirmative: Recon mission initiation confirmed.]
+
+Talia’s eyes fell on the map again. So far, they hadn’t encountered any Blue reconnaissance units, which she found both fortunate and disconcerting. She knew how important it was for them to maintain the element of surprise with their current plan. The nagging feeling that things were going too smoothly wouldn’t go away.
+
+“Neo, keep an eye out. We can’t afford to let our guard down,” she warned.
+
+Dapple chirped, maybe sensing the tension in her voice. She looked back at them, and Dusky chirped too. They both seemed to understand something was happening, and Dapple didn’t go to sleep like before. Talia realized she’d left their monitor off.
+
+“Neo, turn on the mission video you made for them and put it on a loop,” Talia ordered.
+
+The two spiders watched raptly, chirping at the 3d rendered scenes of the two spiders hurrying out of the APC to the cages the spiders were housed in. When Blues appeared on the screen, they both hissed. When the other spiders were shown escaping, they let out happy coos. It certainly seemed that they liked the idea.
+
+She just hoped that the demonstration of how they were supposed to free the others was enough. There were bound to be hiccups, which was why she had decided that she’d stick with them and help with the rescue effort.
+
+It would be one of the last elements of the attack, though, only starting once the Blues had been pushed out of the area. The element of surprise wasn’t just important for the success of the attack, but also because the Blues wouldn’t have time to consider doing anything to their prisoners.
+
+As they neared the staging point, more Raptors moved from their escort positions to the Panther X-1s. Talia watched as they passed over the still moving tanks. Each pass, two LIRUs would jump up, snagging a handhold onto the combat drone and curling up on itself.
+
+The Raptors stayed as low to the ground as they could with their propulsion set to the lowest power setting. That helped prevent sand from being turned into a dust cloud, even though the terrain had less and less sand and more and more rock.
+
+The light infantry would be deployed at the edges of the enemy lines for further reconnaissance and intelligence gathering. Unlike the Raptors, they had automatically adjusting camouflages that would blend them in with the terrain at a distance along with IR and thermal baffles that would protect them from observation from every direction but directly behind.
+
+The map rapidly lit up as they were deployed, and a crescent shape of her unit’s observation began to surround the research module and enemy positions. The noose was tightening. As the LIRUs infiltrated into sight of the research module, more optical feeds became available. She selected one for her and the spiders.
+
+Dusk was rapidly approaching, the Blues had increased their activity, maybe even doubled it. They hadn’t captured any more spiders, thankfully, but they had doubled the number of hulled down tanks covered in thin layers of dirt and sand compared to the intelligence list. The tripod sentry turrets and what they thought were plasma guns were spread out everywhere, their barrels lazily rotating back and forth.
+
+Dozens of Blues stood about doing seemingly nothing, while others were highlighted in red sitting in nearly invisible foxholes and dugouts. A complicated trench network around the base made her frown. That hadn’t been there before.
+
+[Warning: Increased Blue activity detected. This Unit calculates the chances of recovering the Research Module intact have decreased 83%. A secondary mission objective has been added.]
+
+Talia bit her lip. “What objective? If we can’t retake the module, maybe we should pull back until we have more firepower?”
+
+[Informative: If research module becomes compromised, recovery of primary research module equipment would allow User to reconstruct a working module upon return to base. This would relieve User from protecting multiple locations as well.]
+
+That…was a great consideration. She’d played enough RTS games to know that defending two bases was harder than defending one. Unless the base was providing some type of resource extraction or major benefit. If what Neo was telling her was true, it would make more sense to abandon the base once the important bits had been acquired whether they recovered it intact or not.
+
+Her eyes traced across the research module and her heart nearly stopped when she spotted several blues disappear inside of it near the ground. Flipping to a schematic view she felt a slight bit of relief; they’d made it into the mechanical section of the module, but the most sensitive things were still likely locked behind two more bulkheads on the upper floors.
+
+[Notice: No telemetry from Research Module available. A jamming method is likely in place.]
+
+“Or they are through the bulkheads and tore up the computers,” Talia said flatly.
+
+[Informative: Maintaining planned operational pace. No further complicating elements detected.]
+
+Dusky chirped. She looked back, and both of the spiders were looking at her expectantly.
+
+“Patience. We need to be patient. Our forces need to set up properly before we can proceed,” she explained. Both spiders shifted, settling in to wait. Dusk settled in deeper, and they rolled to a complete stop at the bottom of the forward edge of the crater.
+
+[Notice: Updated hostile unit strengths are available. An increase of approximately 183% has been detected since initial observations.]
+
+[List: Enemy Forces Detected (Based on Visual and Circumstantial Evidence)]
+
+[Vehicles and Armor]
+
+| Light Attack Vehicles (LAVs): 24 (Possibly armed with plasma weapons) |
+
+| Heavy Machinery and Transport Vehicles: 16 (Function and armaments unknown) |
+
+| Main Battle Tanks (MBTs): 8 (Armed with 36mm Autocannon, Chemical Propellant, exact specifications unknown) |
+
+[Infantry and Positions]
+
+| Regular Infantry: 150 (Armed with plasma rifles) |
+
+| Infantry with Crew-served Weapons: 30 (Weapon details unknown) |
+
+| Foxholes: 37 (Manned by infantry units, specific armaments unknown) |
+
+| Heavy Weapon Gun Nests: 13 (Capabilities and weapon types unknown) |
+
+[Defensive Installations]
+
+| Automated Turrets: 40 (Limited information; estimated to be plasma-based or high-explosive/fragmentation) |
+
+| Anti-Air Missile Systems: 4 (Capabilities unknown, potential threat to aerial units) |
+
+They were definitely outnumbered now, but with no recon, and no artillery, and no air units or drones to spot for them…
+
+Talia looked up as several HIRU units jumped off of the Panthers and began to deploy several defense turrets of their own. The defense turret modules would be deployed in the crater and near the forward positions.
+
+Even if the missile systems the Blues had could target them, it was unlikely the missiles themselves would survive to hit whatever they were targeting now that the CIWS style gauss rifles began to scan the sky.
+
+The anti-missile turrets would be putting out their own strong levels of radar that would have been hard to miss by a modern enemy. “Their sensors are as bad as their recon, otherwise they’d have noticed all the electronics we are deploying. It’s almost enough to try the Seeker…”
+
+[Informative: Seeker-H3 has landed nearby and is awaiting scan mission activation. However, its main scan radar is likely to provoke an enemy missile launch due to the high-power nature of the device. Local units’ radar and sensor types are designed for short range and stealth.]
+
+“Even the military can’t hide their sensor emissions, Neo…” Talia said hesitantly.
+
+[Affirmative: Military grade emissions cannot be completely concealed; however, they can be masked. The local environment provides the optimal conditions to do so.]
+
+The Panthers spread out, each taking their own route up through the rocky hills. MIRU and HIRUs followed them, the robots easily keeping pace with the armored vehicles on the challenging terrain. It left the Pegasus with the two Lynx-M3s and their point defenses, nearly alone.
+
+Across the tactical map, each hostile target had its own doom dialed in. Whether it would be hit by one of the Panthers' railguns, assaulted by the robot infantry, or had an artillery shell dropped on it—everything was pre-determined.
+
+That didn’t mean that the tactical system was inflexible, though, because the entire network of units had already learned to work together. Units had permission to adjust on the fly, with the entire picture of the entire operation available to them.
+
+A dull ache throbbed in her head, and she wanted to rub her temple.
+
+[Notice: Available computation for operations has reached its limit. Further expansion will require hardware upgrades or multiple personnel.]
+
+“Yeah? I don’t think we are going to find more personnel, so let’s hope the mainframe inside the Research Module is intact,” Talia replied. A frown crossed her face. “Why don’t the Blues have any scouts or anything to watch? It seems strange they aren’t more vigilant.”
+
+[Notice: The Blues may not be accustomed to dealing with opposing forces. It is possible that their prior encounters have not involved significant resistance, leading to a false sense of security and a lack of emphasis on reconnaissance and early warning systems.]
+
+“If you say so,” Talia mumbled. She was definitely not sold on the idea.
+
+A sudden warning echoed from the tactical map’s screen. Red highlights immediately pointed out the problem; a single hostile LAV was moving fast directly towards them. She almost panicked, thinking the entire operation had been detected, but quickly realized that if it had, there would be a whole lot more movement from the Blues. Despite the deepening shadows, Blue personnel were still displayed on optical standing around chatting.
+
+Not something you did when preparing to defend from an assault.
+
+Her units scurried to place hills, rocks, or anything between them and the single LAV headed to the command post. The crescent had nearly formed a complete circle, but her units hadn’t completed linking up yet. But it was confirmed the Blues didn’t have any patrol routes or units roving around. There wasn’t even a detected road from the location from where they could have been launching their attacks.
+
+[Notice: Risk of premature detection of User forces is increasing. Based on preliminary data, it is recommended that operation begins before complete encirclement. Lynx-M3 units are standing by to deliver the initial barrage.]
+
+Talia’s hands tightened on her control seat before she let out of a deep tensed breath. “Hit them hard enough that they don’t shoot back, Neo.”

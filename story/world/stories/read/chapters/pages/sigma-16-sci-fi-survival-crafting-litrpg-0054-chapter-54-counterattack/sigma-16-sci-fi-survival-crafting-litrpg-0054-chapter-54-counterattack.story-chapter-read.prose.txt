@@ -1,0 +1,213 @@
+The HEM mining operation proceeded smoothly, and with the tunnel already in place, it took much less time for the twelve vehicles to fill up their internal storage. As they filled with the precious cargo, she was prompted to think about how to improve future mining runs.
+
+The CRD-X9s were slow—so slow that a majority of the time for the expeditions was actually the travel time. If she invested in some trailers and specialized vehicles for hauling…the miners would be able to gather while the haulers returned the resources to her base. It was definitely something to look into and deal with in the future.
+
+Her eyes slid to a monitor inside the Pegasus’ cockpit, showing the restrained and still unconscious prisoner. The alien hadn’t woken up at all, and she was starting to worry that Neo had been wrong about the medi-gel being safe. But perhaps she was being premature.
+
+The experience of surviving having an enhanced fusion bomb dropped on you, then surviving a HEM induced tunnel flash fire, was probably on the same level of traumatic as crashing from orbit in your spaceship. That had certainly knocked her out pretty badly.
+
+Dusky let out a chirp. Talia looked behind her seat to see other spider carefully fussing over and grooming Dapple, who had once again gone to sleep during the ride. Maybe the spider liked the vibrations of the vehicle while it was on the move.
+
+Talia shook her head and reoriented to focus on the convoy’s progress back towards the base. They were over halfway there, and she needed to figure a lot of things out. She glanced at the prisoner again.
+
+“Neo, we need to keep the Blue secure when we get back to base.” She paused, an image of the imprisoned spiders in cages coming back to her. “Something like a holding cell. We can put it underground in the tunnel, maybe?”
+
+[Informative: Utilizing underground space for construction would be an efficient use of resources. Multiple modules utilizing bars or energy fields could provide the restrictions necessary for safely keeping the prisoner safe.]
+
+“Bars probably. A hard light field would be a needless energy draw, I think,” she replied.
+
+[Alternative: Multiple schematics for holding cells and prisoner containment modules are available.]
+
+[Equipment: Holding Facility - Small Wing]
+
+| Description: A secure wing of a larger facility, designed to house multiple individuals in separate containment units. Comes equipped with surveillance systems and automated security measures. |
+
+| Durasteel: 9000, Refined Silicates: 1500, Advanced Alloys: 800, High-Conductive Material: 1000 |
+
+| Capacity: 12-24 |
+
+[Cost: Unlocked]
+
+[Equipment: Holding Facility - Large Wing]
+
+| Description: An expansive wing of a secure facility, capable of housing multiple individuals in individual containment units. Enhanced security measures, advanced surveillance systems, and dedicated sentry turrets are included. |
+
+| Durasteel: 34000, Refined Silicates: 4600, Advanced Alloys: 2400, High-Conductive Material: 2400 |
+
+| Capacity: 24-96 |
+
+[Cost: Unlocked]
+
+[Equipment: Detention Center - Full Facility]
+
+| Description: A standalone detention center equipped to house a large number of individuals in secure containment units. Comes with advanced security measures, surveillance systems, guard spaces, administrative facilities, and built-in amenities for the detained. |
+
+| Durasteel: 58000, Refined Silicates: 13200, Advanced Alloys: 6800, High-Conductive Material: 8800 |
+
+| Capacity: 96-480 |
+
+[Cost: Unlocked]
+
+“Neo, do you think I’m here to start a…a prison? Because that’s what this is. Seriously…” She shook her head unhappily.
+
+[Notice: Failing to provide prisoners of war with proper treatment and housing facilities is listed as one of the primary war crimes. User is responsible for—]
+
+“Hold up! We aren’t waging a war here; we were just defending ourselves and our stuff!” Talia shouted. If she’d been driving manually, they would have skidded to a stop. Dapple and Dusky both perked up on alert, probably wondering what was going on. Dusky started tapping their little camera monitor, flipping through the feeds.
+
+Talia took a deep breath, trying to calm herself. “Neo, I understand the need for proper treatment of prisoners, but we’re not at war. We only have one prisoner, and we’re just trying to survive on this planet until we can get off. Let’s focus on a smaller, more manageable solution for now.”
+
+[Informative: User’s concerns are understood. A smaller containment facility may be more appropriate for the current situation. Adjusting the design parameters to accommodate a single prisoner.]
+
+“Thanks, Neo,” Talia said, feeling relieved. “Let’s see what you come up with.”
+
+Neo presented a new schematic, this time for a smaller and more practical holding cell. It was still secure and equipped with the necessary surveillance and amenities but was designed to house only one individual.
+
+[Holding Cell - Single Occupant]
+
+| Description: A secure containment unit designed to house one individual. Comes with basic security measures, surveillance systems, and built-in amenities for the detainee. Generally serves as a solitary confinement or interrogation unit.|
+
+| Durasteel: 3000, Refined Silicates: 500, Advanced Alloys: 400, High-Conductive Material: 500 |
+
+| Capacity: 1 |
+
+[Cost: Unlocked]
+
+[Notice: No atmospheric or decontamination equipment is present. Blue physiology has already acclimated to the environment, as evidenced by absence of biocontainment gear.]
+
+Talia nodded in approval. “This is much better. It’s something we can manage and build quickly. Let’s go with it once we get back to base.”
+
+[Affirmative: Preparing construction plan for single-occupant holding cell upon return to User Base.]
+
+Talia looked back at the spiders. “Sorry to startle you. Nothing’s wrong.”
+
+They seemed to have already figured it out, and Dapple went back to sleep. Dusky continued to observe their little camera monitor, though.
+
+The line of discussion on how to they would hold the Blue prisoner led her thoughts to the caged spiders they needed to rescue. The attack was going to be chaotic, and she wasn’t sure she’d be able to focus on releasing them herself. She’d made vague plans that Dusky and Dapple would do so, hence her including them in the operation, but…
+
+She hadn’t actually thought out how they’d do so. A massive glaring oversight. “Neo. The shield should help keep Dusky and Dapple safe, but they need a way to get the other spiders out of the cages. If the spiders could cut their way out, I imagine the trapped ones would have already done so…”
+
+[Informative: A multi-tool attachment compatible with spider harness power source could be feasible. It would require adapting the harness manually to accommodate the tool, as well as training them to utilize it effectively under stressful conditions.]
+
+Talia nodded, her mind racing with possibilities. “I think we could use some of the harness straps and attach them to one of their front legs, with a magnetic attachment at the end of it? They’d have to practice turning it on and off, but it would allow them to aim the beam.”
+
+[Affirmative: A multi-tool with a simple triggering mechanism is available in User schematic database. Of note however, is its simplistic operation and lack of features. Currently, this model can only construct and deconstruct, while automatically ejecting non-metallic resources as invalid.]
+
+“As long as it will work on the cage, that should be fine,” Talia replied. She checked the small cards that Neo provided and confirmed adding them to her fabrication queue. It wasn’t enough to remove the worry that had slowly been growing in her middle.
+
+The whole thing felt surreal, like she’d been running along, moving from crisis to crisis, figuring things out as she went, without hardly a break. She didn’t even know how many days it had been since she’d crashed onto the planet without asking Neo. Her box of survival rations told her it had been at least a few weeks.
+
+[Notice: LIRU, MIRU, and HIRU units have completed fabrication and are awaiting User activation.]
+
+She perked up. That meant they’d finally returned to the base’s telemetry range. She had a few changes to make to the plan, but before she could start going over them, her monitor flashed red.
+
+The display switched over to a tactical display, detailing the convoy’s position, her scout units, and the base as green icons. A wedge of red triangles was approaching the base from the south, just a few clicks out.
+
+[Warning: User base is currently under attack.]
+
+She pressed the icon for one of the drones near the enemy to switch its camera to a side monitor. Her heart skipped a beat when she saw just how many enemies there were. A half dozen armored vehicles like the one they had engaged before were leading the way, with another half dozen half tracks following behind.
+
+The half tracks had wide tires that were churning the desert sand into a large cloud behind them, the back of the trucks holding at least a dozen of the Blues, who she assumed were infantry.
+
+There was an entire mechanized platoon driving straight for her stuff!
+
+“Neo! We need a tactical response, asap!” Talia urged.
+
+[Recommendation: Remote activation of IRU units, and active base defense via Cortex Vanguard ADS while resource convoy units divert to flank hostile forces.]
+
+She blinked. “The IRUs can remotely deploy? Start that now. Can we have one of them feed the shield some extra fusion cells? I only put a few in it so far.”
+
+[Affirmative: IRU activation confirmed. Priority order to fortify positions and recharge shield has been directed. User input on convoy direction is required.]
+
+Talia looked down at the tactical screen. There were three different suggested options for the counter-attack presented to her by Neo. She read each one as fast as she could.
+
+[Tactical Option 1: Direct Assault]
+
+| Description: Entire force drives directly towards the enemy platoon, engaging them before they come into range of the base. |
+
+| Pros: Immediate engagement, potential to surprise the enemy. |
+
+| Cons: Direct confrontation, no element of surprise from flanking. |
+
+[Choice: Pending]
+
+[Tactical Option 2: Flanking Assault]
+
+| Description: Convoy combat group splits in two. One group flanks to the south for a partial envelopment. Both groups engage simultaneously as soon as the enemy makes contact with base and IRU defenders. |
+
+| Pros: Divided enemy attention, potential for confusion with simultaneous strikes. |
+
+| Cons: Risk of splitting forces. |
+
+[Choice: Pending]
+
+[Tactical Option 3: Complete Encirclement]
+
+| Description: Panthers split into two groups. Raptors fly around to approach from the east. Once the enemy is surrounded, base units and all three groups push and press the attack. |
+
+| Pros: Surround and confound the enemy, maximize pressure from all sides. |
+
+| Cons: Complex coordination required, risk of incomplete encirclement. |
+
+[Choice: Pending]
+
+The enemy hadn’t shown a very good capability at reconnaissance, as denoted by their lack of drones and other air units. That or they were so stealthy they couldn’t be detected, but she doubted that. As long as her forces could move without being observed, she felt a complete encirclement would have the best chances.
+
+“We’ll go with option 3. We’ll target their armor with our Lynx-M3 units as well. Unless they start shooting at our drones, they will be easy to pick off,” Talia instructed.
+
+[Confirmative: Implementing Tactical Option 3 - Complete Encirclement. Diverting Panthers into two groups and directing Raptors to approach from the east.]
+
+Her Pegasus suddenly rolled to a halt, sparking Dusky and Dapple’s interest. The CRD-X9s halted as well, lining up behind the APC while the rest of the convoy continued forward as directed, splitting apart. Raptor drones that had been keeping pace out of sight took their own wide paths to the north and south, moving at their maximum speed.
+
+Prisoners of War.
+
+Talia let out a tense breath and suppressed her emotions. Then watched the unit icons move across the tactical display. She wasn’t a student of military things, but even she knew better than to do what they were doing…driving an armored unit through open terrain with no recon or air units.
+
+But she supposed she had the advantage of knowing humanity’s history and having done a few classes on warfare in the 21st and 22nd centuries. They didn’t even seem to be aware of the drones. If she’d known they were coming, she could have set up a station to load the little quadcopters with grenades to drop in the back of the half-tracks.
+
+For all their equipment, maybe they weren’t even a real military unit, but some type of bandits or looters. While they seemed disciplined enough, their tactics were just…primitive.
+
+They continued forward, fat and happy. Neo was silent, directing units to their positions. The raptors had formed up into their own flight groups and were waiting. The panthers on the western flank had parked in the shadow of a sand dune. They’d rushed into position, then stopped so that a dust cloud didn’t give them away. Behind the enemy, the last group followed slowly, allowing them time to fall into the trap.
+
+A kilometer away from the base, the enemy came to a halt behind a hill. The infantry disembarked and began to split up into fireteams. Several moved to the crest of the dune and laid down, scouting the base with what she assumed was some type of vision enhancement gear.
+
+[Notice: All units are in designated tactical positions. Awaiting User confirmation to begin operation.]
+
+Talia remained silent a moment before speaking. “Wait for them to do something.”
+
+She wanted to see what they intended to do, how they would react to the shield. An answer was provided after a few moments when one of the armored vehicles approached the top of the dune. Several Blues got out and began to dig out some sand. The vehicle rolled back and forth, wallowing out a depression before sliding into the space. Hull down, with only the turret showing, it fired a round at her base.
+
+The shield changed status immediately, its transparent shimmering blue field turning a solid looking blue. A massive explosion erupted off the dome, indicating they’d used a high-explosive shell.
+
+They fired again. A second enemy unit began to pull up, while two groups of infantry began to pick their way around two dunes, staying out of her base’s line-of-sight as they moved closer.
+
+But that didn’t hide them from her bird’s eye view of the entire scene.
+
+She felt a numb feeling in her stomach. “Smoke them,” Talia ordered.
+
+[Affirmative: Proceeding with tactical encirclement and targeted artillery barrage.]
+
+The Lynx-M3s were still close enough that they could hear them begin to fire. Dusky and Dapple let out little confused chirps at the noise, looking around and trying to figure out what was going on. She flipped their screen over to the engagement so they could watch, and Dusky immediately began pressing on the touchscreen to flip through the different views.
+
+“Takers!”
+
+“They’re attacking our base. We’re fighting back,” Talia explained. Her suit chirped back at them, doing its best to translate, but she needed to focus more on what was going on.
+
+The barrage from the artillery erupted repeatedly, one schematic showing the vehicle lowering the angle of the barrel as it fired each round. She wasn’t exactly sure how the indirect artillery calculated their aims, but she knew that each shell would have a shallower arc, and that all of them would arrive nearly at the same time.
+
+The Blues seemed to realize something was wrong; the artillery shells weren’t silent and made a loud whistling sound as they cut through the air. But true understanding only arrived when they struck. The entire enemy armored position exploded into clouds of sand. Nearby Blues that had been outside the danger zone went running for cover, but they were all out in the open and exposed.
+
+Her own panthers rolled up from the west and began to open fire on one enemy armor unit that had avoided being hit, their railguns punching devastating holes through it like it was nothing. Their secondary gauss guns spat out hundreds of smaller bullets, sending the fleeing infantry into what little cover they could find or a different escape route entirely.
+
+That was cut off as the second panther group finally caught up, blocking off the south. Raptors rolled in from the east and ripped the half-tracks into shreds. Explosions and shouts filled the audio-feed until it was an unintelligible mess and she thumbed it off, preferring to watch through the lens of her drone units.
+
+The two infantry groups that had started forward decided attack was the only direction of safety and pushed toward her base. Halfway there, LIRU units unburied themselves from the sand, standing up and firing from point blank.
+
+The Blue fireteams went down without returning fire, leaving the MIRU units that had been waiting in foxholes with nothing to shoot at.
+
+It was a completely one sided engagement. A few stray plasma rifle shots had flung themselves uselessly through the air in the confusion, but none had even come close to hitting any of her units.
+
+A few stragglers that had taken cover began to throw down their weapons and raise their arms in surrender. A few seconds later, they suddenly exploded as a second artillery barrage arrived.
+
+“Neo! They surrendered,” Talia hissed.
+
+[Notice: Lynx-M3 artillery shells cannot be canceled mid-flight. User also expressed desire to avoid taking prisoners.]

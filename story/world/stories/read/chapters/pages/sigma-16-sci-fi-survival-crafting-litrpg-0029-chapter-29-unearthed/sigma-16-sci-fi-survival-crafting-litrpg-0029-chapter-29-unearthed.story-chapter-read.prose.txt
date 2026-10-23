@@ -1,0 +1,109 @@
+Talia found herself drawn to the window, watching as the storm outside raged on. Each gust of wind carried with it a torrent of sand that battered against the glass in a repeating cycle. She sat there for what felt like an eternity, trying to find a pattern in the sandy swirls.
+
+Eventually, she tore her gaze away and stood up. “Okay, Neo. I can’t wait any longer. This is too much.”
+
+[Notice: A duration of 14 minutes has elapsed since User went idle.]
+
+“Don’t call me impatient.” Talia quipped back.
+
+[Informative: This unit made no mention of patience. It is possible the User is experiencing excessive paranoia due to claustrophobic conditions. A Cortex Therapist AI is available for installation at no cost in return for access to session data. Would User like to…]
+
+“Neo, could we dig a tunnel?” she asked, interrupting the message stream.
+
+[Affirmative: It is theoretically possible utilizing CRD-X9 resource drone.]
+
+Her mind whirled with the possibilities. “Maybe something like an escape tunnel from the base or something? Maybe one that leads to the Durasteel deposit?”
+
+[Informative: Resource drone’s laser drill function should be suitable for creating a subterranean passage. Surface hardening for tunnel stability is part of CRD-X9 acquisition package for reaching deeply buried resource veins.]
+
+Talia’s eyes lit up at Neo’s words. “Alright then,” she said, crossing her arms over her chest decisively. “Get started.”
+
+Her HUD’s PIP feed flipped over to the resource drone’s camera. It wasn’t very useful, but the drone used some type of radio sensor to move a safe distance away from the base before settling in to work. The laser drill sparkled in the storm, creating a small molten wind of glass as it burned away the ground into the shape of a sharp downward ramp.
+
+Watching the resource drone work tirelessly to dig out a tunnel turned out to not be much more exciting than watching sand hit the window.
+
+At least her sense of progress was satisfied. She was doing something.
+
+Despite repeating that to herself, she couldn’t suppress the restless energy. She was itching for something more to do.
+
+The drone had nearly drilled two of the four kilometers to the Durasteel deposit when a warning flashed on her HUD.
+
+[Notice: CRD-X9 Battery levels have reached 20%. Cessation of activity is recommended until a power replenishment takes place.]
+
+Neo probably meant for the drone to go idle, and for them to wait the storm out. But this was the perfect excuse for her to go out and do something.
+
+“Alright, Neo. I’ll grab the fusion cells and carry them to the drone,” Talia said.
+
+[Warning: Leaving the security of the Bootstrap Module during hazardous weather event could pose a danger to User safety.]
+
+“No worries. For most of it, I’ll be in the tunnel, and the storm isn’t down there, is it?”
+
+She retrieved the four remaining fusion cells from the module’s stockpile, then strapped them to her suit’s backpack. She checked her suit’s power levels were adequate and everything was nominal. A deep breath proceeded her unsealing the module’s main hatch that had become her primary entrance and exit.
+
+Pressure did its best to keep it shut, but her suit pressed with enough strength to force it open. A gust of sand blew inside immediately, swirling around her and pelting the inside of the module. She quickly exited and let the hatch slam shut.
+
+Tiny flares of blue fire sparked all around her, it was scary and colorful enough of a sight that she held up her arm to stare at the phenomena. “What’s happening?” Talia asked as she glanced at her HUD.
+
+[Informative: User shield is reacting with the sand particles in the air.]
+
+Her eyes flickered to the blue bar in the corner, indicating her shield’s integrity. Sure enough, it was dropping slowly, maybe a few percent per minute. She didn’t waste any more time lingering and hurried down the ramp towards where she had left her ATV parked haphazardly earlier. She found it half buried under a pile of sand beside the resource silo.
+
+Several heavy tugs later, she freed it from its sandy prison. Yellow warning markers on her HUD appeared to warn her about sand infiltration, but she ignored them and toggled the engine. It let out a high-pitched whine as it spun to life. That wasn’t normal, but nothing seemed to fail and she turned the vehicle towards the ramp the resource drone had dug.
+
+A pile of sand had already formed at the bottom, creating a small dune the vehicle splashed in as she bottomed out. The suspension freed her with a bounce, though, and she sped down the corridor at top speed as her headlights came to life, leaving behind a trailing cloud of sand.
+
+“Everything’s fine!” Talia shouted happily.
+
+[Notice: An increase in maintenance cycles required for User equipment has been catalogued.]
+
+She rolled her eyes. “Don’t be like that.”
+
+The sound and intensity of the storm disappeared into silence as she rolled down the gently curving tunnel. It didn’t take long for her to blaze her way down the two kilometer long highway that felt like it had been made just for her. The working lights of the resource drone came into view and the autonomous vehicle came to a pause as she parked behind it.
+
+Its power cell compartment popped open without issue, and she retrieved the four drained cells for recycling. Her four fresh ones went in, and then she pressed a key to reseal the vehicle and do a systems check.
+
+[Notice: CRD-X9 reports all systems nominal. Power Cell status: 96%]
+
+Talia smiled. “Awesome! We’ll easily be able to reach the Durasteel deposit now.”
+
+[Affirmative: Resuming tunnel construction.]
+
+The drone hummed louder as it revved up the laser drill and continued melting into the underground tunnel. She followed along for a little while on foot, watching the process closely and checking for any damage or issues. There weren’t any, so she eventually paused and got back on her ATV to follow at a crawl.
+
+They were nearly at the deposit after another hour when Neo’s voice suddenly interrupted.
+
+[Informative: Hazardous weather situation has resolved. Sandstorm Duration: 14 hours 38 minutes. A maintenance and repair cycle for all equipment is suggested.]
+
+A sense of relief washed over her, and she turned and sped out of the tunnel. Finally! Now she could clear an area and install the power cell fab and generator modules. Then…
+
+She realized that instead of agonizing over being stuck inside, she should have been planning out exactly what she’d do after that. Because she didn’t have a clue. Build a second resource drone? The first one was doing really well, and she’d have plenty of fusion cells to run them.
+
+Heck, maybe she could build a subterranean road network to get to the jungle fast. Heck, why accept limits? If she could provide a more renewable power source, why not build a road all the way to wherever her ship had crashed?
+
+As Talia drove her ATV back towards their Bootstrap Module, the tunnel ahead bathed in the bland red hues of the sandstone. Halfway back, the ATV's headlights reflected off a glimmering chromatic sheen, sharply contrasting the monotonous surroundings.
+
+The shimmer was coming from a glowing patch on one side where the laser drill had cut through something embedded in the side of the cavern. She pulled her vehicle to a halt to examine the find.
+
+She pulled out her multi-tool and scanned it, the ethereal bioluminescence reminding her of the minerals she’d seen in the jungle caverns, just in a different shape. “Neo, what’s this?”
+
+| Cortex Inc. Credit Value: +200 |
+
+| Cortex Inc. Credit Balance: 475 |
+
+[Informative: Unknown skeletal remains detected. The glow suggests that the remaining material is composed of High-Energy Matter. A correlation has been found with the scan of User named species ‘Giant Jungle Worm’ although some irregularities are present.]
+
+“So, it’s bones… they are like the Veins of Volta? We can use it to make more power cells?” Talia asked.
+
+[Speculative: This material would likely be converted in user multi-tool or by resource drone into refined material compatible with this purpose.]
+
+Just how it had got here was a big question. Was she going to have to worry about worms burrowing in her tunnel or trying to swallow her base? They weren’t anywhere close to the jungle. “How the heck did it get buried here in the desert, though?”
+
+[Informative: No age data can be calculated from current data without further research; however, it is possible that the biome of this region has changed over a long period of time and this terrain might have been more comparable to the nearby jungle. The proceeding years after the change could have caused the skeletal remains to become buried under progressively deepening levels of sand and rock.]
+
+Talia began to scoop up the bones with her multi-tool and confirmed that it did indeed register as High-Energy Matter in her NCS canister.
+
+“Maybe if we dig deep enough, we’ll find oil?” Talia said, suppressing a laugh.
+
+[Affirmative: A significant source of free hydrocarbons would make for an excellent energy source.]
+
+She rolled her eyes. “I don’t think we should turn the planet into an oven.”

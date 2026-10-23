@@ -1,0 +1,235 @@
+Talia stood outside in the morning sun, observing the deployment process of three new CRD-X9 units. The late-night resource run had come in without an issue, and the two new maintenance drones had worked hard to replace the partially used fusion cells in the Raptor drones. Once everything had been topped off, she’d sent them back out.
+
+Instead of immediately allocating the resources to producing a combat vehicle, she’d decided to reduce the risk of having her resource acquisition capabilities curtailed by loss of her miners. Although she planned to immediately set these three to mining as soon as they were done, so it wasn’t entirely safe.
+
+Especially since she’d only have two drones for the second squad going to the jungle.
+
+It wasn’t that she felt that the rescue mission and rescuing her research module wasn’t important; it was just that she wasn’t ready. The module wasn’t exactly movable, so even if one tank was enough to rescue it, and she wasn’t sure that would be enough, it certainly wouldn't be enough to defend it.
+
+She needed an entire combined arms force; and building one would require substantially more resources than she could acquire. Three drones could bring in enough material to build three more drones in one run. The six drones would be able to bring in enough for six new ones. When the twelve units returned, she’d have enough resources to build not just one tank, but a half dozen.
+
+Including travel and maintenance time, the CRD-X9s could make two full trips per day. She had enough fusion cells remaining to make those trips happen, then take the entire pack of them to gather more High-Energy Matter in one big convoy that would include several armored units plus the Raptors.
+
+That’d net more than enough HEM for ongoing operations and an assault on the Research Module.
+
+Talia felt her plan was the best compromise. She wasn’t sure what the Blues would do with her module or the spiders in the meantime, but it wouldn’t help them or herself if she charged in unprepared.
+
+It did leave her feeling at a slight loss of what to do while waiting. Dusky and Dapple had remained in their cave or peeking at her from hiding places around the base. The spiders had begun to find favored spots to observe things from, instead of just hiding in the tunnel or ramp. She wasn’t sure if they were just getting used to their new environment or bored out of their minds and going crazy.
+
+Watching the spiders explore, she realized they would likely be essential to rescuing the captive spiders. That would definitely put them in harm’s way, and she needed a way to protect them somehow during the operation.
+
+“Neo, is there anything we can do to keep Dusky and Dapple safe in combat? Like armor or a weapon? Do you remember how Dapple used the alien shield back in the cave armory?” Talia asked.
+
+[Informative: A custom armor specifically designed for the spiders is unavailable without access to the research module. However, User can attempt to modify existing equipment to provide them with some protection and utility.]
+
+A frown crossed her lips. “What do we have that we could modify for them without the research module, though?”
+
+[Option: Phalanx Personal Shield Generator (modified**) Shield Generator]
+
+| Description: A compact shield generator that can be attached to the spiders’ carapace. It would provide them with a protective energy barrier that can absorb some damage before failing. Modification comprises an attached battery pack that is used to power the shield generator for a short amount of time. |
+
+[Costs (per unit)]
+
+| Durasteel: 500 |
+
+| Refined Silicates: 200 |
+
+| Advanced Alloy: 550 |
+
+| High-Conductive Material: 575 |
+
+Talia examined the schematic; it was familiar for a reason. “This is the same shield generator my suit uses, but is it really that effective?”
+
+[Informative: Modified Phalanx would have reduced effectiveness on spider extremities. Furthermore, without a robust detection system, field creation would be limited to several short-term bursts of activation across entire protected field, instead of localized. This will result in approximately two to three uses before battery system is depleted.]
+
+A frown creased her lips. That wasn’t the greatest, but if it was all they could do… well, it would still be worth the resources. It would be much better for them to lose a leg tip, rather than have a hole punched through their head or torso.
+
+[Option: Makeshift Spider Harness]
+
+| Description: A harness made from available materials that can hold small tools or weapons, allowing the spiders to carry devices on their torso, or provide attachment points for assistance pulling things. |
+
+[Requirements: Variable amounts of Durasteel and refined silicates for construction, based on spider size.]
+
+“This is how we’ll attach the shields to them. I get it. Let’s add a set for Dusky and Dapple to the fab queue,” Talia instructed.
+
+[Affirmative: Adding a set of makeshift spider harnesses to the fabrication queue for Dusky and Dapple.]
+
+That was going to take a while. “Neo, how long until the new mining units are ready?” Talia asked, wanting to make sure they were on track with their resource gathering plans.
+
+[Informative: The fabrication process for the new CRD-X9 units is estimated to be complete in approximately 3 hours. Following completion, they will be ready for deployment and resource gathering.]
+
+She rolled her neck, estimating that it would be some time before the current active units returned as well. That gave her plenty of time to look at other needs.
+
+“Neo, can you show me available designs for hydroponics modules?” Talia asked.
+
+[Informative: Displaying available hydroponics module options.]
+
+Two designs appeared on her HUD, each with its own specifications and requirements. Talia browsed through them, considering which one would best suit their needs.
+
+[Facility: Micro-Greenhouse]
+
+| Description: A compact greenhouse designed for small-scale food production. Capable of growing a variety of fruits, vegetables, and herbs in a controlled environment. |
+
+[Effect: Small-scale food production]
+
+[Requirements]
+
+| Approximately 2 fusion cells per week. |
+
+| Durasteel: 500 |
+
+| Refined Silicates: 250 |
+
+| Advanced Alloys: 100 |
+
+| High-Conductive Material: 50 |
+
+A frown crossed her face. It was certainly economical, and there was no reason to delay starting out food production. Despite the rapid growth that she knew the module was capable of, it would still take one or two weeks before crops were viable, depending on the plant.
+
+She’d be out of survival bars by then, and be forced to eat nutri-paste. But then she began to read the warning labels on the entry and Neo chimed in, confirming what they said.
+
+[Notice: Micro-Greenhouse module provides enough calories and nutrition to fully supplement a diet of nutri-paste by adding vitamins, minerals, and variety.]
+
+“No. Never. Skip,” Talia ordered immediately. The screen flickered, then displayed the second unit.
+
+[Facility: Modular Hydroponics Bay]
+
+| Description: A modular hydroponics bay that can be expanded as needed. Utilizes advanced hydroponic technology for efficient, large-scale food production. |
+
+[Effect: Large-scale food production]
+
+[Requirements]
+
+| Approximately 1 fusion cell per week. |
+
+| Durasteel: 1500 |
+
+| Refined Silicates: 1250 |
+
+| Advanced Alloys: 700 |
+
+| High-Conductive Material: 550 |
+
+“And this one is enough that I won’t have to eat nutri-paste?” Talia demanded.
+
+[Informative: Nutri-paste is a high vitamin, mineral, and calorie food substitute in an efficient format. Fully meeting all nutritional needs via a plant-based diet will require additional expansion modules to the modular hydroponics bay.]
+
+“I’m not a vegetarian, you know,” Talia said.
+
+[Notice: Addition of plant-based meat-substitute will require additional hydroponics modules. At this time no native fauna is recommended for consumption without extensive study and potential acclimation injection designed to bolster User immune system against planet’s native micro-biology.]
+
+“Ugh. I haven’t seen anything appealing anyway, not that I would want to butcher the poor critters. How many modular bays are we talking about?” Talia asked.
+
+[Informative: For a full diet, including meat-substitute, approximately 10 hydroponic modules will be required.]
+
+That number seemed excessive. “What? Seriously? Why so many? The ship had its own system, and it didn’t need that much space!”
+
+[Informative: Ship systems utilized high density growth acceleration units. The cost of these units exceeds current resource capabilities.]
+
+“So, there are more modules…”
+
+[Notice: Specialized growth modules for various types of crops are available. However, the list was truncated to the two viable units.]
+
+“Shouldn’t you let me determine whether or not they are viable? Show me the list.”
+
+[Facility: High-Density Growth Acceleration Unit]
+
+| Description: A specialized hydroponic module designed for rapid, high-density crop growth. Utilizes advanced technology and genetically modified crop strains to significantly increase food production efficiency. |
+
+[Effect: Rapid, high-density food production]
+
+[Requirements]
+
+| Approximately 4 fusion cells per day. |
+
+| Durasteel: 25000 |
+
+| Refined Silicates: 20000 |
+
+| Advanced Alloys: 15000 |
+
+| High-Conductive Material: 10000 |
+
+Talia frowned at the resource requirements of the high-density growth acceleration unit. She let out a sigh. “It’s true that we don’t have the resources for this right now, but it’s good to know that there are more advanced options available when we’re better equipped.”
+
+[Facility: Aquaponic System]
+
+| Description: A hydroponic module that combines plant cultivation with fish farming. The nutrient-rich water from the fish tank is used to fertilize the plants, while the plants help filter and clean the water for the fish. |
+
+[Effect: Combined food production and additional protein source]
+
+[Requirements]
+
+| Approximately 3 fusion cells per week. |
+
+| Durasteel: 17500 |
+
+| Refined Silicates: 15000 |
+
+| Advanced Alloys: 9000 |
+
+| High-Conductive Material: 7500 |
+
+[Notice: While viable seed stock for hydroponics is available, no genetic profiles of viable fish stock are available. With no fish species available, Aquaponic System will not function.]
+
+“So, it’s useless unless we find some kind of fish and make it safe for use,” Talia muttered. “Well, it is something to keep in mind for the future, I guess...”
+
+[Facility: Vertical Farming Tower]
+
+| Description: A hydroponic module that utilizes vertical space for crop cultivation. Highly efficient use of space, but requires additional energy for artificial lighting. |
+
+[Effect: Space-efficient food production]
+
+[Requirements]
+
+| Approximately 3 fusion cells per day. |
+
+| Durasteel: 1250 |
+
+| Refined Silicates: 1000 |
+
+| Advanced Alloys: 650 |
+
+| High-Conductive Material: 500 |
+
+[Notice: VFT is geared toward the agricultural needs of a small settlement. Additional levels can be constructed; however, its initial height requires a 25x25 meter foundation and height will reach approximately 87 meters, requiring Bastion Shield Generator parameter modification and an increase in energy expenditure for shield usage.]
+
+Okay. Now it made sense why Neo had left those three out. The infrastructure for food production was expensive… she was going to have to balance things in order to keep the rescue mission on track or delay an extra day or two to get it online, something she didn’t want to do.
+
+“We’ll add a single modular hydroponics bay to the queue after we finish the third set of CRD-X9s. It isn’t like the drones have to stop working while we are away on the mission, either. We can queue the rest up after we leave.”
+
+[Affirmative: Adjusting fabrication queue per User instructions.]
+
+Talia took a deep breath and looked around her growing base. It was a balancing act, but more and more, she felt like survival wasn’t her biggest problem. If she could deal with the alien Blues, she knew she’d be fine.
+
+That was a big if, and she didn’t want to think about what would happen if something went wrong or she made a fatal mistake along the way somehow. Even with Neo helping her, she felt… no; she knew everything was up to her. No one was coming to help her. She needed to help herself.
+
+She spent the next bit of time focusing on going over the footage of the Blues at the research module and the intervening terrain. She drew up a preliminary map and path, as well as a plan for an initial strike. There was just one big question she wasn’t sure how to work out.
+
+[Informative: CRD-X9 units have finished fabrication and are awaiting deployment.]
+
+“Ahh. Finally.” Talia stood up from the crate she had been sitting on and stretched in her suit. Dapple and Dusky perked up from their hidden spots in the shade, curiously watching her. It took a half hour for her to haul the CRD-X9 deployment crates and get them running. By the time she was finished, the spiders’ new equipment was ready.
+
+She picked up the spider harnesses and shield generators and headed over to Dusky before calling out to the spiders. “Dusky. Dapple. I have something for you.”
+
+The series of clicks and chirps her suit made was oddly familiar; she’d heard it played each time she had given them a snack of HEM, and they skittered toward her cautiously. Dusky reached her first, the spider’s many eyes twinkling with curiosity.
+
+“Hey there. This is going to help keep you safe while we’re out there helping your friends,” she said gently. The spider stepped away as she got closer, but a few more calming words made her stand still. The harness was designed for the straps to go between the spider’s legs and another loop around its torso and neck.
+
+It was easier said than done, and Dusky didn’t seem to like it. It was a bit too tight and when she got it to snap shut, Dusky leapt backwards, causing the entire thing to fall off. “Chriip!”
+
+Talia sighed and looked to Dapple, who seemed more calm. The brown spider approached and took the harness from Talia on its own before trying to put it on. It went on sideways and then dangled from the spider’s neck.
+
+“Oh. You like it? Want to show Dusky how it is done?” Talia asked. She approached and Dapple stood still while she adjusted the thing and successfully closed it with a snap. The shield module fit snuggly under the spider’s neck, almost like a cat’s bell.
+
+“Good job, Dapple!” Talia cheered. The spider let out a happy chirp.
+
+Dusky let out another unhappy chirp.
+
+Talia shook her head. “Come on, Dusky. This is for your own good.”
+
+“Chrrrip.”
+
+Talia looked up at Dapple. “Can you help me convince her?”
+
+Dapple took the harness from her hands, then approached the other spider, looking more than ready. “Chirp!”

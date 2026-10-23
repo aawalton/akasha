@@ -1,0 +1,157 @@
+The holo-display flickered, trying to project a readout on the shattered console. It failed, and her visor HUD acted as backup, relaying the information. The text covered her entire view, and Talia squinted against the sudden brightness. Neo automatically adjusted it for her.
+
+| Bootstrap Module: Emergency State |
+
+| Rebooting… |
+
+She watched as lines of code scrolled past too fast for her to read. After a moment, the scrolling stopped, and a new message appeared. Her eyes narrowed as she read it.
+
+| System Error—Unable to Complete Reboot—Manual Override Required |
+
+“Manual override?” Talia muttered under her breath. “And how am I supposed to do that?”
+
+[Informative: The manual override lever is located inside the primary control compartment.]
+
+“Another lever? Those nearly got me killed exiting the ship. Why the fuck do we need manual fucking levers when we have holographic displays and laser printing tech?” Talia asked. She glanced around the cramped space, searching for any sign of the ‘override lever’.
+
+A small marker appeared on her HUD, highlighting a spot beneath a pile of debris. With a grunt, she pushed aside a chunk of metal and pulled free several segments of destroyed consoles until she found what she was looking for: a small lever jutting out of the wall at waist height.
+
+[Instruction: Please activate the manual override by pulling down on the lever.]
+
+She shook her head, placed a hand on the lever, and pushed downwards. The metal didn’t want to give, but the power in her suit didn’t give it a choice and there was a screech of metal as it shoved into place. As soon as she released it, whatever pressure was pushing on it returned it to its original position.
+
+Her visor lit up, and the display refreshed as new data flooded in from the damaged module.
+
+[System Status]
+
+| Crisis Mode: [Deactivated] |
+
+| Hull Integrity: [58%] |
+
+| Power Cell Status: [Operational (78% Charge)] |
+
+| Fabricator Status: [Offline (Damaged)] |
+
+| AI-Assisted Operation: [Online] |
+
+| Manual Override: [Engaged] |
+
+| Hatch Access: [Seized (Physical Damage Detected)] |
+
+[Notice: Crisis mode has been deactivated successfully.]
+
+“Finally.” Talia scanned the new information quickly. The fabricator reporting damage was not a happy sight, but having operational power was a good sign. She wasn’t even sure how dense the ‘extended’ battery upgrade was, but it had to be at least an order of magnitude larger than her paltry Battpack and portable solar panel.
+
+“Neo, can you do anything about the damaged systems?” Talia asked.
+
+[Investigative: Initiating system diagnostics.]
+
+That sounded like it was going to take a while, so she turned to move deeper into the module. The next compartment was the fabrication workshop. The insides of it had been traumatized less by the crash, and the console was still intact. She wasn’t sure why it was listed as damaged until she saw that the hull of the module had been punctured and there was a jagged edge of rock piercing into the compartment’s side.
+
+That would be complicated to repair, or maybe not. Her multi-tool was likely capable of eating away the material, then sealing it off. She’d come back to it later, after she checked the last compartment.
+
+[Notice: Connection to QCD-2P Quadcopter data link has weakened.]
+
+Talia paused, checking the drone. It was happily flying in circles still. “Why can’t you just tap into the module or something? Is the wireless not working?”
+
+[Informative: Module comms device is inoperable. Reboot device via nearby panel.]
+
+Conveniently, the nearby panel was the one she was standing at. She swiped the screen and the holographic interface flared to life, casting blue hues that struggled against the red emergency lighting. A few swipes later had her on the device manager, and she found the comms array at the very bottom of a very long list of offline systems.
+
+She selected reset on it, and then a jarring screech of metal tearing itself apart filled the space. “Neo, did the comms array just rip itself apart?”
+
+[Affirmative: It appears the comms array was underground when the motor attempted to extend it and the physical stresses involved destroyed the unit. However, signal strength has been restored.]
+
+“Great. We’ll just put the replacement antenna on the roof then.” Talia said flatly. Everything else looked like it was going to have to be rebuilt and replaced, so why not the comm antenna as well?
+
+She turned and continued to the next compartment. The personnel quarters that doubled as a breakroom. Rocks had intruded into it as well, killing her hopes for an airtight sanctuary. She didn’t dwell on that though, instead moving to the multiple storage cabinets that hadn’t been destroyed. There was a very specific item she was looking for.
+
+They were all mostly empty except for some battered cookware and boxes of unopened utensils. Her hopes were falling until she reached the last one. Her heart leapt when she recognized it—an emergency ration box.
+
+Opening the case revealed thirty units of standardized survival rations. Each packet was still safely sealed in its plastic wrapper, undamaged. It wasn’t exactly a feast, but it was calories and nutrients that she was going to need. “Thank god for small mercies.”
+
+Her elation faded when she recognized the Cortex logo on each package. Her memory of the last one she had eaten made her wince. They would all probably taste off, then. Still, it was a relief to know her food needs were going to be met and she wouldn’t need to worry about being forced to try to consume any of the notorious suit nutripaste.
+
+She turned her attention to the rest of the space and immediately began tidying the mess up. Once everything was packed away in a crate or stuffed in a cabinet, she pulled out her multi-tool and began to vaporize the rock. She was fairly sure it wasn’t about to cause the entire module to fall over.
+
+But she was willing to accept some small risks in the hopes of producing at least one air-tight module. Once she had hollowed out enough space, she splattered the entire area with a coating of Durasteel. She didn’t bother finishing it to save on her batteries. She hadn’t figured out how to recharge from the module yet, and she only had one pair of fully charged ones in her suit pocket left.
+
+She headed back to her entry point to eye the dangling cable warily. A ladder would be needed. Her exo-suit made climbing up relatively easy, but it was still more annoying than needed.
+
+QCD-2P buzzed by as she stood up on the platform, a HUD indicator highlighting it and flashing a low battery warning. She leaned over the railing and watched as it snuggled up to its charging mount on the RSU-7S without a problem. “No motion detection?”
+
+[Informative: No local fauna, or aliens detected. The region is relatively dry, and no plant life is within 1500 meters of crash location.]
+
+“Well, at least we won’t have to worry about starting any forest fires.” Talia remarked. She turned to her survival crate and began to unload her equipment. Her batteries got exchanged with her Battpack, and the folding solar panel array was welded to the module’s top. She attached a makeshift antenna and cable before raising it to its maximum height. The panels remained folded, waiting for sunrise.
+
+She lowered the Battpack and Fabricator into the compartment. She was almost certainly going to be fabricating a ton of stuff inside to make repairs and wanted it close at hand. As soon as she had her fabricator online, it was time to look into a few things.
+
+“Neo, I need some military grade weapons. Preferably some kind of automated turret or something that can protect this place. Maybe… something lethal, and non-lethal?”
+
+A list of options appeared on her HUD, complete with images and specifications. She scanned through them quickly, her eyes landing on several that seemed particularly promising.
+
+[Equipment: Hydra Automated Defense Turret]
+
+Description: The Hydra ADS is a military-grade automated defense system designed for perimeter protection. Equipped with high-speed tracking and a medium-caliber gauss gun, it can neutralize lightly armored threats with lethal force.
+
+[Effect: Automated lethal defense system.]
+
+[Equipment: Specter Non-Lethal Defense Turret]
+
+| Description: The Specter is a non-lethal alternative to traditional defense systems. Using advanced AI targeting systems, it incapacitates targets with a high-powered, directed sonic wave weapon. |
+
+[Effect: Automated non-lethal defense system.]
+
+[Equipment: Guardian Anti-Aircraft Turret]
+
+| Description: The Guardian is a specialized automated defense system designed to neutralize airborne threats. It is equipped with advanced tracking systems and a high-powered laser cannon. |
+
+[Effect: Automated air defense system.]
+
+[Equipment: Titan Artillery Turret]
+
+| Description: The Titan is a heavy-duty automated artillery turret, capable of launching high-explosive shells over long distances. Perfect for defending against large-scale assaults. |
+
+[Effect: Long-range automated artillery system.]
+
+[Equipment: Serpent Anti-Vehicle Turret]
+
+| Description: The Serpent is a specialized automated turret system designed to neutralize ground-based vehicle threats. It utilizes high penetration rounds to pierce through armored vehicles. |
+
+[Effect: Automated anti-vehicle defense system.]
+
+Really, the last three were way over-kill, at least from what she had seen so far. She was also not sure they had any of the stuff needed for the ammunition for them.
+
+Talia shook her head, deciding on the two most relevant. “Neo, let’s make the Specter.”
+
+[Availability: Locked (Military Use Only)]
+
+She blinked. “Neo?”
+
+[Informative: All military designs are locked and are for military use only.]
+
+“How about the Hydra…?” Talia asked hesitantly.
+
+[Availability: Locked (Military Use Only)]
+
+Frustration bubbled. “Oh, for frack’s sake. Can’t you unlock them?”
+
+[Informative: To prevent weapons proliferation through space, advanced weaponry schematics are restricted.]
+
+“I don’t care if it’s illegal!” Talia snapped back. “That alien had a plasma gun! We need better firepower!”
+
+[Apology: This unit is currently unable to bypass these restrictions. Would User prefer to browse available civilian turret schematics currently unlocked?]
+
+“Go ahead.” Talia said, keeping her tone as neutral as possible.
+
+[Equipment: Sentinel Security Turret]
+
+| Description: The Sentinel is a civilian-grade defense system designed to protect properties against intruders. Equipped with an automated targeting system and a low-caliber gauss gun firing non-penetrating shells, it is a suitable choice for personal security measures on frontier worlds with potentially hostile fauna. |
+
+[Effect: Automated non-lethal defense system.]
+
+[Availability: Unlocked (Civilian Use)]
+
+With a grumble of frustration, Talia turned to the survival fabricator and started setting it up to print the Sentinel.
+
+“We should have enough materials for this thing around here somewhere,” she muttered.

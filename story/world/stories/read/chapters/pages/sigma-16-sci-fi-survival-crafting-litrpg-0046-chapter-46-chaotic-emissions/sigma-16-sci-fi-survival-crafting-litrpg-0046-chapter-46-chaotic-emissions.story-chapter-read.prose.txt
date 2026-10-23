@@ -1,0 +1,75 @@
+Dusky and Dapple worked together to stabilize the load while the CRD-X9 hauled it into place on the large Durasteel foundation that Talia had prepared for it. When it was finally centered, they even helped to get it to land on the little markings she’d left to show where it needed to be.
+
+She’d feared that they would hurt themselves or suddenly let go, but those fears had been unfounded. They seemed to understand just from Neo’s short holovid and then went to work. They both turned to her and chirped, as if they were ready to do more.
+
+“That’s all I really needed. Thanks for the extra hand…uhh legs,” Talia said with a chuckle. “Could you please step back now so I can deploy the shield generator?”
+
+Her suit translated, and the spiders let out an agreement chirp before skittering a safe distance. They both turned and continued to watch. Talia parked the CRD-X9 near them and then began the deployment process.
+
+It was the largest module she’d deployed so far and was likely the largest single piece that would come out of her Bootstrap Module. The reason for the weight was because of the density and complexity of the printed object, and shield generators were generally very complex pieces of equipment. The black crate began to unfold on its own, the panels rapidly covering almost every inch of the Durasteel foundation.
+
+Instead of the standard laser arms that would spin around the construction, a large ring expanded, nearly taking up the entire space. Two hundred output ports pitched up and down, then yawed left and right a few degrees as the self-diagnostics check confirmed everything was working properly. Normally the printing device itself would be recycled later, but for the shield generator, they would eventually slot in to be the output heads for the field generator after printing was finished.
+
+Talia moved to the corner of the module. There was a small secondary printer smaller than her survival fab, working inside a case of see-through crystal. Its lasers were already flashing to life, printing a small rectangular chip of intricate circuitry that she’d need to slot into the machine once it was nearly completed. The larger heads weren’t precise enough to print the shield generator’s high-end processing unit.
+
+She kept a close eye on the process. Every laser print was fun to watch, but this one had the others beat with how flashy it was. Instead of spinning, the multiple laser heads zig-zagged across the construct, working their way from the center outward, before rising slightly to repeat the process, slice by slice, layer by layer.
+
+The electric motors that controlled the precision machinery hummed with power. The spiders remained curious as they watched the Bastion Shield Generator take shape. Their multiple eyes followed every movement, and they occasionally exchanged chirps and coos with each other, as if they were discussing their observations.
+
+Glancing at the spiders, she smiled. “You two really seem interested in all this tech stuff, huh?” She wasn’t sure if they understood her suit’s translation, but they chirped in response, nonetheless.
+
+The multitude of printer heads meant that fabrication went swiftly. A pop-up on her HUD appeared, indicating that it was time for her to insert the processing unit as the laser printing paused. Carefully, she opened the crystal compartment, pulling out the block of metal that contained the sensitive electronics inside of it.
+
+It slotted directly into a compartment in the center of the machine, inch tall golden colored blades slotting neatly into their contact points. The machine whirred and hummed softly as she stepped back, and the laser printing continued, sealing the module inside a chassis of thick Durasteel.
+
+She looked at the spiders. “Once this is up and running, our base will be much better protected,” she explained. “But we’ll still have to keep an eye out for those Blues.”
+
+They seemed to understand her, as the happy chirps became a low murmur of “Takers!” in a subdued tone as they seemed to shrink back a tiny bit. At least, that’s how she took the change in the sounds they were making. It was hard to tell, without any real translation device, even with the little bit of body language she had begun to pick up from them.
+
+As if on cue, the round ball near the top of the module began to shine white. The laser nozzles flipped over 180 degrees and then an electric motor pushed them toward the emitter one at a time. The sphere began to spin slowly, each one of the nozzles being placed an equal distance from the rest in a geometric pattern around the orb.
+
+That process completed in only a few minutes, and then the printing brace lowered itself back down to the ground.
+
+[Notice: Bastion Shield Generator deployment complete. Please insert fusion cells.]
+
+“Go ahead, put five in it for now,” Talia replied. Although it was entirely possible to load the cells by hand, she’d made sure the machine could operate automatically. The underground conduit that lead to the stockpile shot the cells through its chute to the new device’s awaiting energy bank. Almost immediately, the machine began to hum louder. A single nozzle pointing straight up shot out a blue beam that terminated nearly a hundred meters overhead.
+
+She’d already tuned the field size to fit their base, making it as small as was comfortable. Larger fields could cover a wider area, but smaller ones would reduce the strain and power draw. While the field would still draw one fusion cell per day while idle, the active draw had been reduced from the 100 per day that Neo had warned her about to only 30.
+
+An opaque field of blue formed directly above the generator before a shimmering transparent blue dome slowly began to stretch downwards, finishing the dome’s integrity. The faint blue hue cast an ethereal glow over the base, accentuating the rough edges and metallic line of the nearby structures.
+
+The Cortex Vanguard ADS Turret and Raptor drones created long shadows against the ground now lit by the generator and fading evening sun. The other nozzles emitted much smaller beams of blue energy that connected with the dome wherever the generator had a line of sight, causing a shimmering effect across all the nearby surfaces as well.
+
+Finally, they were safe.
+
+The reaction from the spiders was almost immediate. Two pained shrieks erupted from them, and Talia spun to check on them in shock.
+
+Dusky and Dapple ran in circles, shrieking their spider hearts out, jumping off the walls of the vehicle, and acting like they had gone insane.
+
+“Neo! What’s going on? What’s wrong with Dusky and Dapple!” Talia shouted.
+
+[Notice: Friendly local fauna appears to be undergoing an averse reaction to shield generation.]
+
+“Dusky! Dapple!” Talia shouted, but the spiders ignored her, continuing to hop around frantically. Dusky suddenly jumped out of the shielded area and came to a sudden stop, turning around to look at her and Dapple curiously. But the moment Dusky left the shield area, Dapple turned on her and let out a fearsome shriek and bared her fangs and charged forward at the other spider.
+
+The giant spider slammed into the other and they went tumbling through the sand in a fit of shrieks and pain, but to Talia’s relief, neither spider seemed to stab or bite the other. Instead, they both seemed completely confused and as they rolled out of the tumble, they began to pet each other with their legs as if to confirm who they were to each other.
+
+Panic began to subside, but Talia couldn’t stop trying to wrack her brain for how the shield had affected them. It seemed to confuse them somehow. “Neo, do the spiders…use EM emissions to communicate? The shield blocks outside radio waves, doesn’t it?”
+
+[Affirmative: User thesis could prove correct, if local fauna has developed to specifically rely on Sigma 16’s natural EM phenomena for communication or navigation, a sudden lack of connection could cause agitation such as just displayed.]
+
+If that was true…how could Dapple and Dusky stay inside the shield? It would be like living with white noise all their lives and suddenly hearing dead silence. Or maybe worse, what if they were in communication with others and it was suddenly cut off?
+
+Talia frowned. She didn’t want to cause harm or distress to her unusual companions. “Is there a way we can adjust the shield’s frequency or energy output to make it more comfortable for them?”
+
+[Notice: Adjusting the shield’s parameters may be possible; however, further research and testing would be required to determine the optimal settings for compatibility with the spiders’ physiology.]
+
+Talia watched as the spiders stared at her from outside the shield. Dapple would raise a forelimb and touch the barrier before pulling back. Dusky seemed braver, shoving her entire forelimb into the field and waving it around inside.
+
+“It’s okay. You can come back in,” Talia said, trying to coax them back inside. The spiders looked at each other, then inched forward cautiously. Building up their courage, they came through in one hop together. The panic returned, although it was much less frantic. Both spiders touched each other with their legs, confirming they were still the same spiders.
+
+They turned as one toward her and she had to fight down a surge of fear as they both reached out and petted her head with their feet. She was very thankful for the protection of her suit. There was no way that if anyone told her that she’d be letting alien spiders rub her head, she’d have believed them.
+
+And yet, here she was.
+
+“I think this deserves a treat. Neo, can you get some HEM ready for them?” Talia asked. “Also, we need to get those maintenance bots done, and what about the Seeker’s progress?”

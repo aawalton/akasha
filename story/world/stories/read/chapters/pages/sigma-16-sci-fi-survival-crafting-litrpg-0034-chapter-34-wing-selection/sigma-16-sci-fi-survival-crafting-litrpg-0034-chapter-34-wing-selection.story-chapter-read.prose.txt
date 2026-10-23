@@ -1,0 +1,255 @@
+Talia let out an exasperated sigh as she scrolled through her status sheet. The list of equipment, upgrades, and metrics had grown considerably since she’d crashed on the planet. It was getting harder to keep track of everything. Some things she had thought would be important had never really been relevant.
+
+She needed to downsize the list.
+
+“Neo,” she groaned, pinching the bridge of her nose, “We need to fix the status sheet. Can you simplify it or something?”
+
+[Informative: User interface can be customized for easier navigation. Would you like to proceed with customization now?]
+
+Talia nodded. “Yeah, that sounds good. Let’s do that.”
+
+[Notice: User can choose to group information into categories and subcategories for easier access. For example, Suit Status, Equipment Status, Health Status, Base Status, and so on.]
+
+“We already did that,” Talia mused, her brows furrowed in thought. “Can we also hide the stuff I don’t need to see all the time? Like… I don’t know… the oxygen level when it’s at a hundred percent?”
+
+[Affirmative: Information will only be displayed when relevant or upon User request.]
+
+“Perfect,” Talia murmured, already feeling less overwhelmed. “Let’s do that. Show me my new personal sheet.”
+
+[Talia’s Status]
+
+| Suit AI, NEO: [Level 1] |
+
+| Health: [95% (A more balanced meal plan might improve User morale.)] |
+
+| Suit Power Level: [98%] |
+
+| Suit Upgrades: [Survival Tool], [PAR Integration], [Exo-Skeleton Upgrade], [Drone Control Upgrade], [NCS Canister MK1], [Life Support Oxygen Extractor], [Internal Capacitor Upgrade], [Cortex Phalanx Personal Shield] |
+
+| Inventory: [Survival Ration Bar x1], [Medi-Gel Cylinder], [Datapad], [Batteries x12] |
+
+| Cortex Inc. Credit Balance: [5775] |
+
+That seemed better. Removing things that didn’t often change, like her new oxygen status that never left 100% or the hazard and nutri-paste levels, would mean less wasted screen space. She wondered about Neo reporting his ‘level’ on the sheet, but held back her question of why it was there.
+
+Maybe he just wanted to be part of the team and wanted his name there too, since her name was at the top. She nodded. “Great. Now show me the new base status screen.”
+
+[Affirmative: Reformatting base information.]
+
+[Bootstrap Module Status]
+
+| Habitat Compartment: [Pressurized, Sterilized] |
+
+| Fabricator: [Operational] |
+
+| Decontamination Chamber: [Operational] |
+
+| Cortex Vanguard ADS Turret: [Operational] |
+
+| QCD-2P Patrol Route: [Established] |
+
+| Resource Silos: [Operational] |
+
+| CRD-X9 Logistic Cradle (2): [Operational] |
+
+Maybe she could figure out how to improve that later. It was likely to expand if she continued to work on the base after all and too many entries would become cluttered quickly.
+
+“Okay, can you show me the updated stockpile screen?” Talia asked.
+
+[Updated Bootstrap Module Resource Stock]
+
+| Durasteel: 32,150 |
+
+| Refined Silicates: 2,600 |
+
+| Advanced Alloy: 1,390 |
+
+| High-Conductive Material: 1,100 |
+
+| High-Energy Matter: 0 |
+
+| Fusion Cells: 53 |
+
+A smile appeared on her lips at seeing the amount of Durasteel. Maybe she should have built a metal castle or something, instead of a big trench? The idea of lining it with metal spikes appealed to her, but the fact that previous one had been filled in during the storm made her hesitate.
+
+If this one got filled in as well, she’d have no choice but to dig the spikes out if she dumped resources into it… something she didn’t really want to waste her drone’s time and energy on a third time.
+
+“Much better,” Talia murmured, scrolling through her newly organized status screens. The information was now grouped into logical categories, making it much easier to find what she needed. It was a small improvement, but it would save her a lot of time and frustration in the long run.
+
+Feeling a bit more ready for the day, she rolled out of bed and pulled on a fresh skinsuit. She’d printed a half dozen new outfits before going to bed, and recycled her used ones. There was no point in trying to set up something to do laundry when it was easier to just wear them once and then recycle for a small energy cost.
+
+It wasn’t like the skinsuits were expensive on materials, anyway.
+
+She immediately moved to equip her exosuit in the decontamination chamber. “Alright, Neo,” she said as she finished adjusting her helmet, “What have our spider friends been up to?”
+
+[Informative: Both spider-aliens have been relatively inactive. They have remained in the chamber that User provided them and have only left to examine a few hundred meters of the tunnel. One emerged from the ramp to examine the horizon approximately one hour ago, but promptly returned to rejoin its companion.]
+
+Talia nodded. “That’s good to hear… maybe they are content staying down there? I was worried they would…be more curious about the base.”
+
+Her gaze drifted to the new base level status screen on her helmet’s HUD. It was much easier to read, but it was the large amount of Durasteel that they’d collected that had piqued her interest. She hadn’t really considered how much the resource drones would collect from the deposit so quickly.
+
+“We’ve got a lot of Durasteel,” she commented, her brow furrowed in thought. “But I’m worried we’re not getting enough of the other resources. And we’ve burned through a few fusion cells pretty quickly, too. And we don’t have any High-Energy Matter left to replace those.”
+
+[Speculative: User might benefit from focusing on acquiring access to more High-Conductive Material and Advanced Alloy. High-Energy Matter can be substituted for bio-matter readily available in nearby jungle biome.]
+
+Talia grunted. The last bit would definitely require some risk. She still worried that one of her CRD-X9s would end up in a fighting match with the Giant Jungle Worm, and she did not want to lose one of her main vehicles.
+
+“Alright. Let’s pause Durasteel mining for now, though.” Talia instructed, securing the last clamp on her suit. A welcoming hum of energy filled her ears as the personal shield activated, a faint blue shimmer flared around her arms then disappeared. Other than during the sandstorm, the shield hadn’t shown itself much, but she hoped it remained unneeded.
+
+The airlock cycled, and she looked around the main fabrication bay. It had become tidy and neat since she had basically just dumped everything loose into the fabricator for recycling while smoothing out any dings or gouges with her multi-tool. It kind of left the room spartan looking, but at least it didn’t resemble the torn out wreckage the module had been when she had first arrived.
+
+“Neo. Before we head out, I want to review our options with the Cortex credits.”
+
+[Informative: During the previous expedition, User acquired a substantial amount of Cortex Scan credits. A large array of options are now available for unlocking in the Cortex Inc. catalogue.]
+
+| Cortex Inc. Credit Balance: 5775 |
+
+Talia nodded. Actually, having so many potential upgrades and options was a bit daunting. Whatever choices she made or looked at would have a direct impact on how well they would continue to do. Things had progressed so well, despite the multiple near-death experiences, that the danger had almost been hidden by a sense of…it all being a game.
+
+That was a dangerous line of thought, and she shook her head, promising to treat everything seriously and make a careful decision.
+
+“Alright,” Talia murmured, pulling up her HUD. “Let’s see what we’ve got.” She reviewed the previous offerings that were already highlighted on the previously viewed page.
+
+[Scan Upgrade: Base-Mounted Long-Range Scanner] | Cost: [2,500 Scan Credits] |
+
+[Scan Upgrade: Resource Drone-Mounted Heavy Scanner] | Cost: [1,000 Scan Credits] |
+
+[Suit Upgrade: EM Protection] | [Credit Cost: 600 Credits] |
+
+[Suit Upgrade: Radiation Shield] | [Credit Cost: 600 Credits] |
+
+[Suit Upgrade: Acidic/Toxic Protection] | [Credit Cost: 550 Credits] |
+
+[Suit Upgrade: Nano-Repair Bots] | [Credit Cost: 700 Credits] |
+
+The scanners were interesting, but she’d already boosted her personal protection with the shield. Doubling up on that before fixing their resource problems seemed like a less effective idea. The only problem was that the base scanner would be immobile, and they’d still need to scout the locations. Meanwhile, the CRD-X9 mounted scanner wouldn’t have enough range, and the drones were too slow to scout a wide area quickly.
+
+Those choices wouldn’t get her closer to her shipwreck, and potentially tons of advanced supplies and components, either.
+
+“What about air units?” she asked. “Something that can run on our fusion cells.”
+
+[Affirmative: Several drone air units are available that can operate using fusion cells. Displaying catalogue now.]
+
+A new list materialized on her HUD, replacing the previous options. Her eyes widened slightly as she took in the variety of air units available for purchase.
+
+[Air Drone Unit Catalogue: Fusion Cell Compatible]
+
+[Equipment: Cortex Falcon-X6 Combat Drone]
+
+| Description: The Falcon-X6 is an unmanned aerial vehicle designed for reconnaissance and light combat operations. Equipped with advanced sensors and a modular weapon system. |
+
+[Cost: 2500 Credits]
+
+[Equipment: Cortex Skyworker-C7 Commercial Drone]
+
+| Description: The Skyworker-C7 is a versatile drone designed for a variety of industrial applications. Capable of carrying heavy loads and performing precise tasks. |
+
+[Cost: 1500 Credits]
+
+[Equipment: Cortex Hoverbike-P9 Personal Transport]
+
+| Description: The Hoverbike-P9 is a personal hoverbike designed for rapid transportation across a variety of terrains. Includes an integrated navigation system and automatic stability controls. |
+
+[Cost: 3500 Credits]
+
+[Equipment: Cortex Pathfinder-Z3 Exploration Drone]
+
+| Description: The Pathfinder-Z3 is a small drone designed for exploration and mapping of unknown territories. Equipped with advanced sensors and a long-range communication system. |
+
+[Cost: 2000 Credits]
+
+Talia’s mind raced as she considered the options, each one presenting a unique opportunity. The Falcon could provide valuable reconnaissance and defense capabilities; the Skyworker could assist with heavy-duty tasks and base maintenance; a hoverbike would be perfect for exploring the jungle faster; and the Pathfinder would work the best for exploring safely.
+
+But… they all had one major drawback. They were smaller drone units. She had wanted something slightly bigger.
+
+“Something I can ride in, Neo,” Talia clarified. “The Pathfinder is too small for that, and I’m thinking more along the lines of something with a two- to five-hundred-kilometer range, at least.”
+
+[Analyzing: User request indicates preference for VTOL (Vertical Take-Off and Landing) hover aircraft. Adjusting search parameters now.]
+
+A second later, the list on her HUD updated, flipping over to a page with three new entries.
+
+[Air Unit Catalogue: Light VTOL Hover Aircraft]
+
+[Equipment: Cortex Skyrunner-V6 Personal Transport]
+
+| Description: The Skyrunner-V6 is a VTOL hover aircraft designed for personal transportation for up to six occupants. Features include an extended flight range, advanced navigation systems, and a compact design for easy storage. |
+
+[Cost: 4000 Credits]
+
+[Equipment: Cortex Seeker-H7 Exploration Vehicle]
+
+| Description: The Seeker-H7 is a VTOL hover aircraft specifically designed for exploration. Equipped with advanced sensor suites, long-range communication systems, and a comfortable cabin for long-duration flights. |
+
+[Cost: 5000 Credits]
+
+[Equipment: Cortex Lifter-U8 Utility Vehicle]
+
+| Description: The Lifter-U8 is a VTOL hover aircraft designed for heavy lifting and transport. While not as fast as other models, the Lifter-U8 boasts a large cargo capacity and powerful engines capable of carrying heavy loads over long distances. |
+
+[Cost: 5500 Credits]
+
+Talia’s eyes danced over the options, her mind racing as she considered each one. The Skyrunner seemed like a solid choice for recon and personal transportation; the Seeker-H7 would be ideal for exploration; and the Lifter-U8 would be incredibly useful for moving heavy equipment or materials.
+
+“Looks like we’ve got a hard decision to make,” she murmured, her gaze lingering on each option. “But I think we have narrowed it down. Can you show me detailed specifications for each model?”
+
+[Affirmative: Compiling detailed specifications for each hover aircraft.]
+
+[Light VTOL Unit: Cortex Skyrunner-V6 Specifications]
+
+| Maximum Range: 1200 kilometers |
+
+| Maximum Speed: 920 km/h |
+
+| Lifting Capacity: 4000 kilograms |
+
+| Special Capabilities/Equipment: Advanced navigation systems, Roof Mounted Sentinel Defense Turret, Compact design for easy storage |
+
+[Light VTOL Unit: Cortex Seeker-H7 Specifications]
+
+| Maximum Range: 900 kilometers |
+
+| Maximum Speed: 660 km/h |
+
+| Lifting Capacity: 8000 kilograms |
+
+| Special Capabilities/Equipment: Advanced sensor suite, Air-mounted Resource Scanner, Long-range communication systems, Comfortable cabin for long-duration flights |
+
+[Light VTOL Unit: Cortex Lifter-U8 Specifications]
+
+| Maximum Range: 650 kilometers |
+
+| Maximum Speed: 580 km/h |
+
+| Lifting Capacity: 25,050 kilograms |
+
+| Special Capabilities/Equipment: Powerful engines for heavy lifting, Under-Chassis Vehicle Transport Cables, Large cargo capacity |
+
+Talia pursed her lips as she studied the specifications of each unit in detail, weighing the pros and cons of each vehicle.
+
+“I like the range and speed on the Skyrunner,” she started, her eyes flickering across the text on her HUD. “And I like the idea of having a Sentinel Defense Turret on it. But the lifting capacity is not the greatest, so we wouldn’t be carrying supplies or moving anything other than maybe the ATV or a few light drones.”
+
+[Informative: The Skyrunner-V6 is designed for rapid personal transportation. Its strength lies in its speed and agility, while providing minor fire support protection.]
+
+“Right.” Talia nodded, moving to the second option. “The Seeker-H7 has good range, and it comes with an advanced sensor suite for resource scanning…plus a long-range communication system so we could stay in touch with the base. That’s pretty much what I was looking for, and although the range on the scanner is smaller than the base radar, a search pattern would probably not miss anything.”
+
+[Affirmative: The Seeker-H7 is a superior choice for exploration purposes. The additional equipment aids in discovering new locations of interest and contains a sub-surface ore scanner with a range of up to 30 kilometers at cruising altitude and speed.]
+
+“But it’s slower than the Skyrunner,” Talia pointed out, her brow furrowing slightly. “And it doesn’t have a defense turret. Less range, too.”
+
+[Affirmative: The Seeker-H7 sacrifices speed for its advanced equipment and longer range. A defense turret could be added, but would replace the onboard scanning unit.]
+
+Talia shook her head. “I wish we could customize these things.”
+
+[Notice: Research Module contains the required equipment and software required for User directed development and research of prototype modules, equipment, and vehicles. Once located, it could provide additional capabilities beyond the ones available in the standard, military and Cortex catalogues.]
+
+Talia opened her mouth to reply, but shut it in surprise. She’d totally forgotten about the Research Module mostly, despite the thing being as large as her Bootstrap Module. Mostly because she had thought finding her ship and seeing if it was salvageable was the most important, but if she could develop her own schematics and things without being a slave to collecting scan data for Cortex Inc…
+
+Her eyes flickered to the last option. “The Lifter-U8 is the slowest and has the shortest range, but it has significantly higher lifting capacity. Enough that it could move an unloaded CRD-X9 even… or carry a full load of process materials from one back to base.”
+
+[Affirmative: The Lifter-U8 is designed for heavy lifting and logistical transport. Its powerful engines are tuned for endurance and heavy loads, but its speed and range are limited compared to the other models.]
+
+“Alright Neo. I know what I want,” Talia said.
+
+[Anticipatory: Please state User selection.]
+
+Talia took a deep breath. “Please unlock the Seeker-H7. It will satisfy our need for finding the ore deposits, plus scouting for the Research Module and the main ship’s crash site.”
