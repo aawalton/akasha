@@ -1,0 +1,283 @@
+CHAPTER FOURTEEN
+
+•-|—(You have slain an enemy: Plague-Touched Skirmisher [Lvl 3])—|-•
+
+Experience Gained.
+
+•-|—(You have slain an enemy: Plague-Touched Skirmisher [Lvl 2])—|-•
+
+Experience Gained.
+
+•-|—(You have slain an enemy: Plague-Touched Skirmisher [Lvl 2])—|-•
+
+Experience Gained.
+
+(…)
+
+•-|—(You have slain an enemy: Plague-Touched Skirmisher [Lvl 4])—|-•
+
+Experience Gained.
+
+*DING!*
+
+•-|—You Have Gained A Level. You Are Now [Lvl 2]—|-•
+
+[+2 free points]
+
+•-|—You Have Gained A Level. You Are Now [Lvl 3]—|-•
+
+[+2 free points]
+
+One hundred odd Skirmishers ranging between the levels of 1 and 4 and all he’d gained from slaying them was a measly two levels. You know, he wasn’t even surprised at this point, merely disappointed. After fretting over the decision for a good three seconds or so, he decided to place one of his free points into strength, and the others into control. Not even daring to look at mana capacity, lest he be tempted.
+
+More of the weight restricting his movements seemed to slough away with the added increase. Richard smiled, testing out his body’s newfound range of motion. He was ecstatic to find that he could actually roll his neck now, and so spent the rest of the time between the first and second wave working out the kinks that had no place existing on that of a one month old child.
+
+And yet…? Here we are.
+
+Second Wave Will Begin In: 4… 3… 2…
+
+A second wave of Plague-Touched Skirmishers were already bounding forth, when Richard remembered that he actually needed to reload the cannons before firing. Crawling forward—because, not to brag, but he could totally do that now—Richard set to work deactivating the small binding constructs that served as a latch, swinging open each breach in turn, and slotting in three more papier-mâché projectiles which he retrieved from his ring.
+
+•—|-Layered Talismanic Munition: Fragmentation-|—•
+
+•[Rare]•
+
+A layered ball of top quality talismans which function as long range munition, this item possesses a frightening degree of destructive power. Once activated, this item blooms into a hail of sharpened projectiles. Requires a degree of skill and precision to apply to its fullest effect, but when done right, the damage it wreaks is more than enough to transcend yawning level disparities.
+
+The entire process took six, maybe seven seconds total, and by the time he’d finished, the Plague-Touched Skirmishers were nearly upon the wall.
+
+Richard idly noted the hopeful looks the other soldiers were flicking his way, in between the calls to loose their, largely, ineffective volleys of arrows. Slamming each breach shut, and re-securing them with binding runes, he quickly swiveled his paper cannon to track the onrushing wave of enemies.
+
+Looks like their numbers have doubled. Thankfully they’re much closer so, if I time things correctly, the spread should be much larger to compensate.
+
+He aimed as best he could, then fired.
+
+A deafening bang set his ears to ringing, though that mild bit of discomfort was well worth it. Three streaks exited the tapered barrels, swiftly expanding into rapidly descending clouds of death and destruction. Wherever this cloud hit the onrush of enemies, only diced chunks and broken bodies remained. Two hundred Skirmishers reduced to fertilizer within seconds. In fact it was so fast that the only thing left standing was a bloody mist—as if the green sludge, so used to pumping through their veins, hadn’t received the sudden eviction notice quite yet.
+
+This time, having known what to expect, instead of silence, a ragged cheer was raised by nearly every soldier present. And of those who remained silent, those he’d clocked as officers, their professional composure couldn’t quite hide the wide smiles on their faces. The hope that had alighted there after so long without, positively radiant. It was so honest and earnest, it almost made him want to fight for these people till the very end.
+
+Yet, taking another look at the millions strong horde, then the sorry couple hundred stragglers that’d been thrown at them so far, he knew this wasn’t an enemy you defeated. It wasn’t even one you survived. It was one you whittled away at, day after day, until you were inevitably overrun.
+
+That was ultimately the fate that awaited these poor soldiers, and there was little he could do about that. Merely hold out as long as he could with the resources he’d prepared. And while it might have been noble to go down fighting with this lot, he had his own people to save, and that mission took precedence. And so, with that in mind, he let them have their small celebration, while he in turn prepared himself for the third wave.
+
+Third Wave Will Begin In: 12… 11… 10…
+
+The next few waves continued in much the same vein.
+
+An increasing number of Plague-Touched Skirmishers would throw themselves at the human fortifications, only to get shredded to bits by Richard’s oversized fragment grenades. Somewhere around the seventh wave, when the tide of Skirmishers bearing down on them could be counted in the thousands—one point one thousand to be exact—he’d been forced to shoot at greater range to allow time for multiple reloads per wave. And while it’d been tricky to get the timing right at first—leading to a rather close call, wherein a couple of the faster Skirmishers managed to scale the wall and wreak some havoc—eventually he’d gotten the hang of it.
+
+He could now reasonably nail a target at 1000 to 1500 meters.
+
+His control stat, a parameter that affected a great number of mental processes—with rapid calculations and hand-eye coordination being just a couple—likely to thank for his sudden prowess as a long range sharpshooter. With all this death and destruction, most of it perpetrated by him, even with his abysmal leveling talent by the time he’d cleared the ninth wave—numbering nearly 2000 Skirmishers strong—he’d actually gained quite a bit in terms of progress.
+
+*DING!*
+
+•-|—YOU HAVE SUCCESSFULLY DEFEATED THE NINTH WAVE!—|-•
+
+•-|—(You have slain an enemy: Plague-Touched Skirmisher [Lvl 9])—|-•
+
+Experience Gained.
+
+•-|—(You have slain an enemy: Plague-Touched Skirmisher [Lvl 8])—|-•
+
+Experience Gained.
+
+•-|—(You have slain an enemy: Plague-Touched Skirmisher [Lvl 11])—|-•
+
+Experience Gained.
+
+(…)
+
+•-|—(You have slain an enemy: Plague-Touched Skirmisher [Lvl 12])—|-•
+
+Experience Gained.
+
+*DING!*
+
+•-|—You Have Gained A Level. You Are Now [Lvl 4]—|-•
+
+[+2 free points]
+
+•-|—You Have Gained A Level. You Are Now [Lvl 5]—|-•
+
+[+2 free points]
+
+(…)
+
+•-|—You Have Gained A Level. You Are Now [Lvl 8]—|-•
+
+[+2 free points]
+
+With ten free points to distribute, he was suddenly faced with something of a dilemma. After all, ten additional points in mana capacity was a good chunk toward what he’d need to fix his poor leveling speed for good. That way he might actually take proper advantage of these never ending waves of enemies. And yet, he knew that was mainly his impatience speaking. Seeing as “part of the way there” meant very little in the grand scheme of things, and wouldn’t aid him in the least during this particular trial.
+
+Sighing, he placed half his points into control, bringing it up to ten, while the rest he split between strength, regeneration, and endurance respectively. Making his status look a little something like this.
+
+-|—Status—|-
+
+Name: Richard Penn
+
+Level: 8
+
+Age: 1 month old
+
+Class: None
+
+Body Grade: G
+
+Soul Grade: G
+
+Core Grade: Blank (1st Level Purity)
+
+Master Formation: G
+
+Peerage: Lowly Serf
+
+Noble Regalia: None
+
+Strength: 4
+
+Endurance: 3
+
+Resilience: 30
+
+Regeneration: 3
+
+Control: 10
+
+Mana Capacity: 6
+
+Free Points: 0
+
+Abilities: (0/2)
+
+Class Skills: (0/3)
+
+Equipment: (0/7)
+
+Title: |Liora’s Embrace| [Legendary]
+
+Still pretty pathetic, but, if he was being honest with himself, he was somehow happy with his progress thus far, especially considering where he started from. Glancing at the timer, he noted once more now the time between rounds seemed to increase by a second for every wave he defeated.
+
+Tenth Wave Will Begin In: 19… 18… 17…
+
+Which meant it would be a fair few rounds before he could implement any of his other ideas. No matter. He highly doubted anything in these initial rounds would give his paper cannon any trouble.
+
+Little did Richard know that, only eleven waves later, he would be made to eat those words.
+
++++
+
+The tenth wave introduced a brand new entry to the growing menagerie of Plague-Touched abominations.
+
++—|-Plague-Touched Disgorger-|—+
+
+•[Lvl 13]•
+
+It was a one eyed frog like creature with lumpy, mottled grey skin practically riddled with tumors. Each Disgorger was about the size of a large draft horse, was covered in a glistening coat of slick mucus, and possessed a maximum jump height of roughly ten meters or so.
+
+Their favored tactic to leap high into the air, and arc large globs of acidic mucus—very reminiscent of a trebuchet—to rain down on unsuspecting heads from range. The obnoxious creatures only managed to pull this tactic off once, before Richard became wise to their tricks, and so began to pick the buggers off at range as soon as he spotted them. Thankfully their maximum range cut off at about two hundred paces, while his effective range was at least ten times that.
+
+Even still, that single mistake on his part had cost the defenders greatly. Two dead, and several more injured. The acidic spit also managing to dissolve a good fifteen feet of the westernmost walkway.
+
++++
+
+The Plague-Touched Disgorger leapt thirty feet into the air.
+
+The incessant, congested croaking noise it insisted upon making, easily carrying across the blood drenched plains. Sights trained on the airborne enemy, Richard let his ten points into control guide his hand as he calculated it’s trajectory, carefully led the shot, then fired. A single ball exited the cannon. A white and black streak that took a good five seconds to finally reach its target. On the sixth, he detonated the mana battery at the heart of the munition, deleting the creature from the sky in an explosion of gore and viscera.
+
+Raining bits of Plague-Touched Disgorger down onto the heads of oncoming Skirmishers.
+
+•-|—(You have slain an enemy: Plague-Touched Disgorger [Lvl 17])—|-•
+
+Experience Gained.
+
+The maneuver having the added benefit of covering them in highly acidic goo. Melting a good chunk of the charging mass without him even having to lift a finger. The glorified shooting gallery continued in this manner, Richard popping the occasional Disgorger like water balloons, and raining the caustic contents onto their erstwhile fellows. Until, with a few close ranged fragmentation blasts, the very last of the rabid Skirmishers were reduced to their slushy composites.
+
+*DING!*
+
+•-|—YOU HAVE SUCCESSFULLY DEFEATED THE NINETEENTH WAVE!—|-•
+
+Twentieth Wave Will Begin In: 29… 28… 27…
+
+Just as the first ten waves had, waves eleven through nineteen had proven rather fruitful, even if he was beginning to see diminishing returns.
+
+•-|—(You have slain an enemy: Plague-Touched Disgorger [Lvl 18])—|-•
+
+Experience Gained.
+
+•-|—(You have slain an enemy: Plague-Touched Disgorger [Lvl 16])—|-•
+
+Experience Gained.
+
+•-|—(You have slain an enemy: Plague-Touched Skirmisher [Lvl 17])—|-•
+
+Experience Gained.
+
+(…)
+
+•-|—(You have slain an enemy: Plague-Touched Skirmisher [Lvl 19])—|-•
+
+Experience Gained.
+
+*DING!*
+
+•-|—You Have Gained A Level. You Are Now [Lvl 9]—|-•
+
+[+2 free points]
+
+•-|—You Have Gained A Level. You Are Now [Lvl 10]—|-•
+
+[+2 free points]
+
+It was unfortunate, though not unexpected, that as he rose in level, the requirements to level also grew exponentially. Perhaps that might not have been the case for anyone else in his position, but with a G ranked Master Formation, even if he killed a thousand such lvl 20 monsters, from this point on, there was no guarantee he’d gain even a single level.
+
+That said, he wouldn’t continue to gripe while he still had free points to spend. And this time, he actually would commit to upping his mana capacity. Thanks in no small part to his pre-prepared mana batteries, the amount of mana he was expending, compared to the damage he was dealing out, would be enough to make a novitiate mage class weep with envy. And yet despite his, quite frankly, absurd mana efficiency, his mana capacity of six was still woefully inadequate.
+
+Even if he could, theoretically, refill his mana through the use of mana batteries—and had done so on at least two occasions thus far—he really would rather save those for later. He’d only been able to create so many, after all. Mind made up, he promptly placed two points into mana capacity, and the rest into regeneration—a stat that increased both mana and physical recovery.
+
+That done, all that was left for him to do was reload his cannon, and wait.
+
+Twentieth Wave Will Begin In: 6… 5… 4…
+
+Only… something was different this time. Where, in all the other waves, the allotted number of enemies could be seen to break away from the main contingent well before the timer ticked down to zero, they were quickly approaching the twentieth wave, and not an ounce of forward movement could be seen from the far off dust cloud.
+
+Twentieth Wave Will Begin In: 3… 2… 1…
+
+The wave began.
+
+And yet, despite the system confirming as much, still, not a single enemy could be seen. No newfound Plague-Touched individual in sight. Richard tensed, expecting some sort of stealth oriented attacker to be the cause of this inaction. In fact, he was just about ready to start carpet bombing the grassy plain indiscriminately, and merely hope he landed a hit on this stealthy individual in time, when he caught the flicker of movement out of the corner of his eye.
+
+Snapping his head in its direction, he squinted, trying to make out the blurry abnormality for what it was, because surely it wasn’t what it appeared to be. It couldn’t possibly be. And yet, as the unorthodox enemy came into range of his scan, he found himself unable to deny whatever it was he saw.
+
++—|-PLAGUE-TOUCHED ABOMINABALL-|—+
+
+•[Lvl 25 ELITE]•
+
+It was nothing so much as a crude amalgam of body parts. All of it carrying that same grayish complexion, covered in weeping sores, and equally drenched in that viscous green pus. A thing of bony torsos, grasping hands, and hairy legs—each individual part sticking out at odd angles. A fused abomination smooshed into the rough shape of a ball. A fleshy amalgam that didn’t just roll itself around everywhere it went, but propelled itself at speed using its myriad protruding limbs to rocket itself forward.
+
+He’d barely caught sight of it, before it was a hundred paces closer.
+
+About the size of a u-haul truck at first glance, like a snowball kicked down a hill, it only appeared to be growing larger by the second. It took him several precious seconds to realize that this rapid increase in size was not due to a shift in perspective, and by that time it was already too late. The creature, this “Abominaball” as the system had dubbed it, was collecting bits of its fallen brethren to grow larger. And, considering just how much of said fallen brethren had been left to gather, to bake in the sun, this, of course, meant it was growing large rather fast.
+
+Acting on this information just as soon as it occurred to him, Richard immediately sent three projectiles, what he’d taken to calling talisman clusters, it’s way. Leading the shots perfectly before detonating each at point blank range. A rain of paper shrapnel obscuring it’s disturbing visage in a cloud of bloody mist. As had become something of a tradition, the soldiers on the wall cheered. Even Richard allowed himself a relieved smile.
+
+How silly. I’d actually begun to worry there for a sec-!
+
+The Abominaball rolled out from the bloody cloud as if it’d barely been inconvenienced. A few weeping pockmarks—quickly filled in by the mounds and mounds of diced up slurry stinking up the grass plain—the only signs it’d been injured at all. For a single second, Richard gaped. In the next he was scrambling to reload, eyes never leaving the unfathomable creature, even as it seemingly gave up, spun on its myriad heels, and retreated back towards the distant horizon. Now several times larger than it had been upon its arrival.
+
+The soldier’s and Richard both looked on in slack jawed stupefaction, and what happened next only left him even more confused.
+
+*DING!*
+
+•-|—YOU HAVE SUCCESSFULLY DEFEATED THE TWENTIETH WAVE!—|-•
+
+Twenty-first Wave Will Begin In: 30… 29… 28…
+
+“What-? Did I just see what I think I just saw? What in the world just happened…?” asked one of the soldiers.
+
+“Fink they sent ‘at guy out to collect their dead? You know, for burial rites or summink?”
+
+“Don’t make much sense to me. Figure they’re already dead. Whats’a use of buryin’ ‘em?”
+
+As the soldiers grumbled on about the strange oddity in the background, Richard couldn’t help but feel a deep sense of foreboding. An inexplicable hunch. That, whatever that was, it wasn’t the last time they’d be seeing it.
+
+No. Not by a long shot.

@@ -1,0 +1,43 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const theGreatestTrickEverSoldStubbed = {
+  id: "01a1693a-268c-7486-a2be-e65467c29ed1",
+  type: "page-type/story-read",
+  slug: "the-greatest-trick-ever-sold-stubbed",
+  author: "GD_Cruz",
+  following: false,
+  unit: "unit/words",
+  title: "The Greatest Trick Ever Sold [Stubbed]",
+  world: "world/the-greatest-trick-ever-sold-stubbed",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "98929",
+      externalLink: "https://www.royalroad.com/fiction/98929/the-greatest-trick-ever-sold-stubbed",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Portal Fantasy / Isekai",
+    "Progression",
+    "Kingdom Building",
+    "Grimdark",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Dungeon Crawler",
+    "GameLit",
+    "High Fantasy",
+    "Magic",
+    "Male Lead",
+    "Reincarnation",
+    "Romance Subplot",
+    "Strategy",
+    "Strong Lead",
+    "Supernatural",
+  ],
+  readLater: true,
+  createdAt: "2026-10-23T14:46:21.067Z",
+  updatedAt: "2026-10-23T14:46:21.067Z",
+} as const satisfies StoryRead
