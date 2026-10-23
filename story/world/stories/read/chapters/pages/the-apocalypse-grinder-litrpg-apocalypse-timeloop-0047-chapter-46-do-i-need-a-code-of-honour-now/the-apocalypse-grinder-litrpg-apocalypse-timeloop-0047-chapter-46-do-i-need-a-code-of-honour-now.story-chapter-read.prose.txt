@@ -1,0 +1,173 @@
+For his efforts in stage 2 he’d earned a solid chunk of mastery. Funnily enough he ended up getting more pugilist mastery than either pain or stamina, but he got a solid amount of both of those too.
+
+He spent the rest of the time waiting for the countdown to end using his two endless treasury tokens and running sprints across the muddy field in the hopes of earning more stamina mastery. He considered punching himself for pain mastery, then decided against it.
+
+The human body had instinctive barriers to harming itself too much, so he doubted he could hit hard enough for it to count. Running was boring, but it passed the time.
+
+[Endless Treasury Token (Common)]x2 has been consumed!
+
+You have received [Princess Petal’s Flower Crown (Common)]!
+
+Princess Petal’s Flower Crown (Common)
+
+A crown woven from garden flowers by the princess of a distant kingdom, infused with the magic of friendship
+
++1 Charisma, +1 Wisdom
+
+You have received [Kiwi of Quickness (Common) x2]!
+
+Kiwi of Quickness (Common)
+
+Kiwis with vibrant red flesh which grant the consumer increased speed and reflexes
+
++1 Agility
+
+Ronan felt oddly nostalgic when he held the flower crown in his hands. It had been the very first wearable item he’d received from the endless treasury. The second overall.
+
+He still felt silly wearing on his head, but it brought him a strange comfort, even though the stats it provided didn’t help him much this time around. Another stat fruit for the collection, too. That makes ten. Only three more to go until I’ve tried them all.
+
+“Damn that’s good,” he couldn’t help exclaiming aloud as he bit into the scarlet kiwi fruit, startling the nearby Keith.
+
+It was juicy, sweeter than the kiwis he was used to and left an aftertaste like cherries on the tongue. Delicious. Give me fourteen more, he joked to himself.
+
+Luckily the first warrior that spawned in stage 3 ended up wielding a spear. Ronan wrested the weapon from its grip before it had a chance to take a second step out of the archway.
+
+He then delivered a double strike using its own weapon, piercing a coke-can-sized hole in the middle of its face and splattering the stone with blood and brains. Ronan nodded in appreciation at his handiwork.
+
+Where double striking with his hands was vicious and explosive, activating it with a spear was lethally efficient. It concentrated the power of two thrusts into a single point rather than multiplying the destruction.
+
+“Keith, I’ll leave a few of the warriors to you while I handle the rest,” he called out. “Take this dagger, it comes with a free tetanus buff!” he added with a chuckle as he tossed a rusty blade to the guy.
+
+He caught it with a surprised expression, wondering why his formerly spiteful employee suddenly cared about him. The truth was Ronan needed to keep a few goblins alive to train his pain mastery. He didn’t think Keith would be able to kill all the lesser goblin warriors by the time he was done slaughtering the archers and shamans.
+
+This way, he was getting into the habit of encouraging Keith’s positive traits in every lifetime. He was edging closer to being able to defeat the hobgoblin champion. The last thing he needed was to finally claim victory only to realise the version of Keith that joined him in that victory was still a spoiled, whining brat.
+
+“Right, you have to trust me here and don’t intervene, whatever happens. If they decide to attack you instead, feel free to defend but try to push them back onto me,” he explained to Keith, who simply stared at him like he was crazy.
+
+To be fair, to a person who was experiencing this nightmarish tutorial for the first time it probably did sound like the half-baked ideas of a madman. Ronan had to do it nonetheless.
+
+He stood in the middle of the dimly lit dungeon for ten minutes. The entire time, a group of three lesser goblin warriors stabbed, cut, punched, kicked, bit, and shield-bashed him over and over again.
+
+Usually pain mastery was granted when he killed the monster who’d hurt him. Ronan knew this idea was smarter than it sounded when he received the first insight notification four minutes in.
+
+By the end of his ridiculous training method, he’d received insight four times. After killing the three goblins with a double strike each, he got a crapload more.
+
+You have killed [Lesser Goblin Warrior Lv.7-9]x3!
+
++33 Copper Credits
+
++16 [Pain] Mastery
+
++4 [Spear I] Mastery
+
++5 [Stamina] Mastery
+
++Lesser Goblin Ears (Common) x3
+
++Goblin Bracers Lv.8 (Common)
+
+You have leveled up to Lv.15!
+
+You have been restored!
+
++1 Vitality
+
++1 Endurance
+
++1 Free Stat Point
+
+With the time he had until his next attempt at stage 4, Ronan sat down to mentally recover and select his class. He was going to take fighter again, as he usually did, but upon opening the class selection he received an interesting surprise.
+
+Congratulations for reaching Lv. 10!
+
+You have unlocked Class Selection!
+
+You have unlocked 1 special class due to your achievements!
+
+You have not unlocked any special classes due to your heritage
+
+You have not unlocked any special classes due to your race
+
+You have not unlocked any special classes due to alternative methods
+
+Please select a class from the following:
+
+Fighter (Common)
+
+Mage (Common)
+
+Rogue (Common)
+
+Healer (Common)
+
+Tinkerer (Common)
+
+Ranger (Common)
+
+Defender (Common)
+
+Knight (Uncommon)
+
+Only uncommon? Ronan couldn’t help complaining. Hardly seems very ‘special’ to me. At least my hard work is being acknowledged for once.
+
+Immediately he skipped past the common classes and expanded knight, hoping for both a description and an explanation of how he unlocked it. If he knew that, it might tell him how to unlock more special classes in future.
+
+Knight (Uncommon)
+
+Knights are warriors trained in the art of combat, proficient with sword, spear and shield. They are unparalleled in battle, with an edge over the unskilled masses.
+
+Gain a moderate boost in damage when performing physical strikes.
+
+Gain mastery over swords, spears, and shields minutely faster.
+
++1 Endurance, +1 Resistance, +2 Strength, +1 Tenacity, +1 Charisma, +1 Free Stat Point on level up
+
+Receive Class Skill [Breaking Charge (Uncommon)] on class selection
+
+Receive Class Skill [Lionheart (Uncommon)] on class selection
+
+Unlock requirements:
+
+Challenger is Level 25 or lower
+
+Challenger has Shield, Sword, Spear, and at least 2 other combat-related masteries at tier I or higher
+
+Okay, that’s actually damn powerful. Why is uncommon so much better than common!? What the hell would the next tier of classes be? Ronan was shocked at the difference between the seven common classes and the knight class.
+
+The requirements were equally ridiculous, in all fairness. How could anyone get five masteries to tier I before level 25 without my heritage!? Damn bullshit system, he screamed in his mind.
+
+The amount of stat points gained per level went up from 4 to 7, the bonuses it provided had more powerful adjectives, and it gave two class skills that were both at the uncommon tier. Ronan had never received a skill better than common before, but now he had the chance to get two in one go.
+
+It was a no brainer.
+
+He selected knight without hesitation. Knowing the unlock requirements gave him big clues as to how he might discover more special classes, however. He was grateful for that.
+
+You have selected [Knight (Uncommon)] as your class!
+
+Initiating class infusion…
+
+Ronan gasped as the infusion began. The infusions for the common classes had been a shock to the system, but this bordered on torture.
+
+He felt like every bone in his body was being smashed with hammers and then fused together. His muscles were pounded over and over while lances of fire and ice shot through his throbbing head endlessly.
+
+Class infusion complete! You have become a [Knight (Uncommon)]!
+
+You have received the class skill [Breaking Charge (Uncommon)]!
+
+Breaking Charge (Uncommon): A knight leads the charge on the field of battle, breaking apart their enemy’s defences and opening a path for their allies. (Cost: 40 Stamina + 30% Current Stamina)
+
+You have received the class skill [Lionheart (Uncommon)]!
+
+Lionheart (Uncommon): No matter the odds, a knight fights with their all. Nothing can break the heart of a lion. Gain a stat buff that scales with the number of enemies you are fighting and the difference in your level(s). (Max stat buff: 50%)
+
+Bonus stats for class have been retroactively applied
+
+Ronan sat in disbelief, his jaw falling closer to the ground with every word he read. The knight class skills were ridiculous enough that he’d already forgotten the torturous pain he’d just experienced.
+
+Breaking charge seemed to be an advanced version of swift strike, that would also allow him to cross a small distance rapidly. Though he would need to test it to figure out its limits.
+
+Meanwhile, Lionheart was an absolutely broken skill that could boost his stats up to fifty percent over their baseline when he was fighting against the odds. Wait… HOLY CRAP YES! Magriz’al, prepare your big green ass buddy because I’m about to tear you a new one, Ronan roared in his head while pumping his fist in the air.
+
+For the first time since he’d entered this torturous tutorial, Ronan had a clear path back home. His new class would pave the way to victory against the hobgoblin champion.
+
+There was only one question on his mind as the timer reached zero. Now that I’m a knight, do I need to follow a code of honour?

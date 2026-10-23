@@ -1,0 +1,193 @@
+There were no consumable rewards for completing stage 3, but there was something far more exciting. Class selection.
+
+For Ronan, anyway. Keith was a far cry from reaching level 10 since he barely had a chance to take down one goblin before Ronan dispatched the rest.
+
+This time he wasted no time on indecisiveness. He chose fighter for the second time. He didn’t even need to read the description—he already knew what the class skill did and what stats he would receive.
+
+He did spare a look at his status to check how his sword mastery was progressing. The results were better than he’d expected.
+
+[Status]
+
+Name: Ronan Steele
+
+Race: Human (G)
+
+Heritage: ERROR: Unreadable (Analysis attempted: Results unreadable. DNA matches: 0. Recognised characters: ‘3’)
+
+Level: 14 (22)
+
+Class: Fighter (Common) [Mage (Common)]
+
+Fortune: 345 (6,169c)
+
+[Stats (1.050)]
+
+Health: 200/200
+
+Stamina: 230/230
+
+Mana: 50/50
+
+Vitality: 20
+
+Endurance: 23
+
+Wisdom: 5
+
+Regeneration: 3
+
+Resistance: 6 (+1)
+
+Strength: 14
+
+Agility: 18
+
+Intelligence: 8
+
+Dexterity: 17
+
+Acuity: 7
+
+Tenacity: 12
+
+Luck: 2
+
+Charisma: 4
+
+Available Points: 0
+
+[Traits]
+
+Personal: Inevitable (Epic)
+
+[Skills]
+
+Unified Language Adaptation (Universal)
+
+Relentless Training (Common)
+
+Magic Strike (Common)
+
+Vital Surge (Common)
+
+Mighty Strength (Common)
+
+Swift Strike (Common) (Class)
+
+[Mastery]
+
+Pugilist I 2/100
+
+Mana I 0/100
+
+Sword 31/100
+
+Stamina 3/100
+
+[Cultivation]
+
+Mind: None
+
+Body: None
+
+Energy: None
+
+Soul: None
+
+He felt that splitting his points into dexterity and agility was definitely the right move. Wielding a sword was less about brute force and more about using it in the right way.
+
+At least that was what all those profound old masters in kung-fu movies said. Ronan felt they were on the right track. Although he had come to realise that a 1:1 ratio was overkill.
+
+He could almost feel every single joint and tendon in his hands, able to move them independently. It was quite freaky.
+
+He decided that from now on he would only put 1 point in dexterity for every 3 in agility. The next time he leveled up he would also get a buff from his new skill, which he was looking forward to.
+
+Introducing himself to Terry, Jackson, and Dana wasn’t any easier. He’d seen them all die twice now, except for the few who had died after him in each life.
+
+Even so, he shoved his feelings down into the recesses of his mind and churning gut. The only way to ensure they survived was to ruthlessly train. To grind himself against the whetstone that was the tutorial until he could slaughter that grinning hobgoblin bastard once and for all.
+
+One surprise was Terry’s class. Yet again, the man had taken a different path. The first time he’d been a tinkerer and the second a defender. This time around, he’d been inspired to choose healer after Jackson was wounded in an early stage.
+
+Knowing that it made little difference to his plans, Ronan didn’t pay attention to what had changed. With him up front, the party composition wasn’t much affected.
+
+But why!? he still couldn’t help but scream internally. It makes no sense… Unfortunately that was one mystery he might never solve, so he elected to ignore it.
+
+Ronan relished in the battles that followed. Magic had been exciting, fulfilling his childish desires, but it was missing a certain spark.
+
+Blasting goblins apart from a distance was far less satisfying than tearing them apart up close. Seeing their hideous grins and ugly faces twist to horror as they realised they were no longer the predators, but his prey.
+
+He managed to reach the mastery cap for swords before they’d even cleared the goblin horde. For his efforts, he was rewarded with another buff to his power in the form of a third tier I mastery. Unfortunately, this one was firmly related to swordsmanship and not much else, but progress was progress.
+
+You have reached the mastery cap for [Sword]!
+
+Sword has evolved to Sword I!
+
+Weight and balance penalties for all swords are reduced infinitesimally. When inflicting [Bleeding] with swords, gain a 1% chance to inflict a second instance of [Bleeding] for 50% of the damage as the first.
+
+Nasty. Bleeding sucks, he remarked, remembering the terror he’d experienced the first time he fought through the tutorial. He’d almost died many times to blood loss.
+
+When his death burst through the floor in a shower of dust and debris, Ronan met it with a grin painted on his face and a savage roar of battle.
+
+Welcome to the tutorial of the 103rd Grand Integration! This introduction…
+
+He had mastered his fists, his mana, and his blade. To the first cap, at least. He was far from true mastery in any of them.
+
+In his fourth life, Ronan chose to master the shield. He realised that in the heat of the moment he hadn’t looted the shortsword in the typical way.
+
+He’d ripped it from the goblin’s hands and somehow it hadn’t dissipated when the monster’s corpse did. Knowing that he could do that, he stole the shield from the lesser goblin warrior in stage 2 and worked himself to the bone to master it in all ways.
+
+Blocking, smashing, parrying. Everything was fair game.
+
+Alongside those efforts, he earned yet another skill for his expanding repertoire as well as discovering a sixth type of stat fruit—charming cherries, which increased his charisma.
+
+Ronan’s dazzling smile stunned the goblins into submission right before the stud of his shield turned their heads into paste. He fought like a barbarian.
+
+This time around he actually chose the defender class, wanting to experience its skills for himself. He turned out to be a rather aggressive protector.
+
+He used taunt to bring his prey to him, meaning he didn’t have to chase the goblins down. He used his toughened skin to strike them harder and he used his shield as a club, macerating his foes.
+
+You have reached the mastery cap for [Shield]!
+
+Shield has evolved to Shield I!
+
+While equipped, shields you use gain a [Resistance] stat equal to 50% of the wielder’s. Gain a 1% chance to restore health points equal to 25% of the damage an attack would deal to you when blocking it.
+
+No specific mention of shields for the second part!? Ronan’s eyes went wide at the implications of that. Another wide-ranging boost, the same as mana I had been.
+
+Satisfied that this life had been a worthwhile grind, Ronan met his fifth death with honour and a swinging shield.
+
+On the life after that, Ronan chose to master the staff. He had initially tried to use a bow, but the shaman in stage 3 had dropped its staff. Given his lack of arrows, he figured it was an easier weapon to master.
+
+He also hoped that it might provide a buff to all his physical combat abilities, since it was a close combat weapon itself. In theory, anyway.
+
+The reality was he simply loved the satisfying squelch the goblin’s limbs and heads made when he smashed them to a pulp. It was intoxicating.
+
+Not quite as fun as using his fists, but it was definitely in the running for second best. Terry had been a mage again when Ronan used the shield, but this time he was a ranger. Ronan suspected by the time he was ready to take on Magriz’al, the man would’ve been through all seven classes.
+
+Once again he chose the fighter class. He wanted to test the other classes, given that he had plenty of opportunity to, but it fit his combat style the most. Especially when using melee weapons.
+
+This time, he had managed to reach the cap in mastery for the staff well before the end of the horde battle. He cracked a big grin when he saw the buffs it gave him.
+
+You have reached the mastery cap for [Staff]!
+
+Staff has evolved to Staff I!
+
+Gain a 1% chance to stun an enemy for (Strength x 0.05) seconds on successful strikes with staffs or staff-like weapons. Gain mastery over staffs infinitesimally faster.
+
+Although this buff was still quite restricted, the fact it also mentioned ‘staff-like’ weapons was a gaping loophole waiting to be exploited. His plan was to master spears next and this would only make that easier.
+
+The shaft of a spear surely counted as a staff-like weapon. Figuring out what else counted would be interesting.
+
+Ronan’s hate for the system was slowly becoming more akin to a love-hate relationship. He hated its control over his life and its unfeeling whims, but he was addicted to the rush of self-improvement it had given him the opportunity to pursue.
+
+Thanks to his accumulated efforts, he reached a higher level each time he died to the hobgoblin’s fists. This time around he had reached level 26.
+
+The champion didn’t eat anyone this time. It simply flashed towards them, instantly killing Dana and Terry with lightning fast blows.
+
+A mana bolt from Jackson singed its eyebrow. That moment of distraction allowed Ronan the space to strike it for the first time.
+
+His staff whirled in his grip. His feet danced across the stone tiles. Magriz’al spotted him before his thrust struck true, but it was too slow to block.
+
+A giant green fist smashed Ronan into a pulp at the same moment his staff cracked against the champion’s knee. Right before he was obliterated, he’d heard the sound of splintering bone.
+
+I’m so close I can taste victory on the tip of my tongue, was his final thought in this life.

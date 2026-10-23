@@ -1,0 +1,231 @@
+Ronan read through the system message. It was the longest he’d seen, but given that it was a collection of all the monsters he’d killed in that savage brawl, it wasn’t much of a surprise.
+
+You have killed [Lesser Goblin Warrior Lv.17-23]x14, [Lesser Goblin Archer Lv.18-20]x3, [Goblin Warrior Lv.21-28]x5, [Goblin Archer Lv.23], [Goblin Berserker Lv.18-26]x8, [Goblin Shaman Lv.22-25]x3, [Elite Goblin Berserker Lv.24-26]x2, and [Elite Goblin Warrior Lv.27]!
+
+Experience has been split among your party members!
+
+Party Experience Bonus has been applied!
+
++2 Bronze Credits
+
++834 Copper Credits
+
++48 [Pugilist] Mastery
+
++8 [Pugilist I] Mastery
+
++8 [Mana Mastery]
+
++3 [Stamina Mastery]
+
++4 [Pain Mastery]
+
++13 [Axe] Mastery
+
++Lesser Goblin Ears (Common) x17
+
++Goblin Toes (Common) x20
+
++Rusty Spear Lv.19 (Common)
+
++Goblin Greaves Lv.21 (Common)
+
++Shaman’s Bone Staff Lv.22 (Common)
+
++Chipped Dagger Lv.17 (Common)
+
++Wooden Bow Lv.20 (Common)
+
++Thurg’s Razorspear Lv.27 (Uncommon)
+
++Elite Shard Lv.24 (Body)
+
++Elite Shard Lv.26 (Body)
+
++Elite Shard Lv.27 (Body)
+
+You have leveled up to Lv.15!
+
+You have leveled up to Lv.16!
+
+You have leveled up to Lv.17!
+
+You have leveled up to Lv.18!
+
+You have leveled up to Lv.19!
+
+You have leveled up to Lv.20!
+
+You have been restored x6!
+
++12 Strength
+
++6 Agility
+
++6 Vitality
+
++6 Endurance
+
++12 Free Stat Points
+
+It had been chaotic during the fighting and after the first few skulls Ronan caved in he’d lost count. Seeing the numbers laid out gave him a warm feeling in his chest.
+
+Thirty seven dead goblins. The world was better off for it. This tutorial might not even be real, but the satisfaction certainly was.
+
+Next he noticed that even though the experience he’d earned was split among the party, there was apparently a bonus for simply being in a party. Given that there were no hard numbers shown to them for experience he had no way to tell whether he was winning or losing out, but he reminded himself that the monsters the others killed were helping him along too.
+
+He’d gained 6 levels overall, so he couldn’t complain. That was a hell of a lot of stats to spend. Even the natural stats he gained from his class and race made a big difference.
+
+He threw a few air jabs and jumped on the spot, yelping when he almost smashed his head into the ceiling. Damn he was strong. It was like seeing progress in the gym, only he also got to beat up ugly green monsters.
+
+Although he was getting bored of fighting the same goblins over and over again. The system was surely more creative than this?
+
+His pugilist mastery had shot up. Based on the fact he had started receiving something called ‘pugilist I’ mastery at a lower rate, he guessed he’d reached the 100 cap. Sweet.
+
+Actually he noticed another flashing icon with the number 100 on a circle. He opened it up and received a satisfying surprise.
+
+You have reached the mastery cap for [Pugilist]!
+
+Pugilist has evolved to Pugilist I!
+
+All physical blows you inflict deal infinitesimally more damage. Successful parries grant you a 1% chance to instantly counter-attack with a blow of average force.
+
+Ronan had no idea what that might entail. Would his body start moving of its own accord to strike his opponents? Wouldn’t that throw his rhythm off if it happened in the middle of a battle?
+
+He had no idea. The only way to find out was for it to actually happen, so he’d have to wait for his next battle. It sounded awesome though. And dealing more damage was never a bad thing. The mastery system was rather simple, but he liked it that way.
+
+Along with that he’d earned a crap ton of credits and a boatload of items. Most of them weren’t that useful to him but he’d managed to find situations that put plenty of random weapons to lethal use.
+
+He immediately equipped the greaves, earning himself a juicy plus 2 to his resistance. The others were mostly weapons which he kept in his inventory as he preferred to use his fists. Of all the drops, only four truly caught his attention.
+
+Thurg’s Razorspear, which he could see from the image in his inventory was a replica of that brutal barbed spear the elite goblin warrior had used, and the three ‘elite shards’. They also had a tag labelling them for the body, which he didn’t understand at first.
+
+The spear would definitely come in handy at some point. Those barbs carved through flesh as if it were butter and sometimes the extra range beat using his body.
+
+He opened the description for the elite shards, but even then he still wasn’t sure what they did. He would soon find out, though.
+
+Elite Shard Lv.24 (Body)
+
+Dropped upon the death of an elite monster, these shards contain the essence of the defeated. Consuming them with the correct technique can advance one’s cultivation. Be warned, incorrect usage can lead to severe personality deficiencies and mental deviations and in severe cases, death.
+
+Cultivation. Ronan had seen the word before, at the end of his status. He’d never been into those kinds of novels, but he had a rough idea what it meant.
+
+Improving one’s spirit and body through meditation or something along those lines. It sounded quite boring. However, the fact that all of these shards were body aligned meant it might improve his physical strength and thus the force of his punches.
+
+The warning was scary. Death wasn’t something Ronan wanted to bring about through his own choices. Dying during a thrilling fight was one thing, but at the hands of a stone? That was embarrassing.
+
+He resolved to keep them in storage until he found an appropriate method to use them, as he was told. Hopefully that wouldn’t be too difficult, but the system was a fiendish master.
+
+With his items organised and appraised, all that remained was to allocate his free stat points. And he had a whole dozen to spend. He was rich.
+
+Ronan opened his status, noticing that the others were also standing around with blank looks on their faces—most likely doing exactly what he was.
+
+[Status]
+
+Name: Ronan Steele
+
+Race: Human (G)
+
+Heritage: @#^?-
+
+Level: 20 (8)
+
+Class: Fighter (Common)
+
+Fortune: 6 Bronze Credits, 169 Copper Credits (349c)
+
+[Stats (1.008)]
+
+Health: 260/260Stamina: 290/290Mana: 83/120
+
+Vitality: 26
+
+Endurance: 29
+
+Wisdom: 8 (+4)
+
+Regeneration: 3
+
+Resistance: 6 (+2)
+
+Strength: 30
+
+Agility: 22
+
+Intelligence: 8
+
+Dexterity: 5
+
+Acuity: 8
+
+Tenacity: 14
+
+Luck: 2
+
+Charisma: 4 (+1)
+
+Available Points: 12
+
+[Traits]
+
+Personal: Inevitable (Epic)
+
+[Skills]
+
+Unified Language Adaptation (Universal)
+
+Relentless Training (Common)
+
+Magic Strike (Common)
+
+Swift Strike (Common) (Class)
+
+[Mastery]
+
+Pugilist I 8/100
+
+Mana 21/100
+
+Staff 10/100
+
+Shield 6/100
+
+Anti-Magic 1/100
+
+Pain 7/100
+
+Stamina 4/100
+
+Axe 13/100
+
+[Cultivation]
+
+Mind: None
+
+Body: None
+
+Energy: None
+
+Soul: None
+
+He thought back to the fight they’d just had. What was he lacking? It certainly wasn’t power or speed. He ploughed through the goblins like a bull in heat and he no longer took as many stray hits.
+
+His luck had been higher the first time he did the tutorial. Ronan hadn’t felt like it made much difference but then again he’d only made it through 3 stages. Barely.
+
+Charisma wasn’t doing much. He could see how it would be useful if they made it back to Earth and had to start dealing with other people instead of just monsters, but in the tutorial it was a waste of points.
+
+He glanced up at the flower crown adorning his head, that had somehow stayed glued there for the entire battle. Well, free charisma was different from spending his valuable free points. And the crown also gave him mana.
+
+If he was being really, really honest with himself, the image of a beefy guy brawling with monsters while wearing a flower crown was also damn hilarious. Maximum intimidation.
+
+Ronan felt that now was a good time to start experimenting with the stats he used less, to try and figure out what they did. He didn’t want to keep investing in wisdom when his mana ran dry, so seeing how regeneration, intelligence, and perhaps even acuity affected it would be a solid idea.
+
+To start with, he dumped 5 points into regeneration, bringing it up to 8. Then he put another 2 in, as he preferred the round, evenness of 10. That was a large chunk of his free points, but if regeneration affected all his resources it was a worthwhile investment.
+
+Ronan would need some time to see if it was worth the points, but he was satisfied with his choice. He had 5 points left, so he put 1 into tenacity to bring it to 15.
+
+With 4 points left, he tried to think about any obvious weaknesses he could shore up. He thought back to crucial turning points in his big fights recently. Most of the times his life had been in danger had happened when his grip slipped a little, or he stumbled.
+
+It wasn’t that he wasn’t strong enough to turn his foes to paste or that he was too slow to catch them, but that he still wasn’t using his body correctly. So, he put all of his remaining points into dexterity.
+
+Hopefully improving his motor control and balance would fix that. He didn’t like that it was at 9 points, but he couldn’t fix it until he leveled up again. For that, he would need to find more goblins to punch.

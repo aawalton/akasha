@@ -1,0 +1,213 @@
+You have joined a party!
+
+Experience, loot, and aggro will be shared with all party members
+
+[Ronan Steele] has been selected as Party Leader!
+
+Please select loot distribution for your party!
+
+[Leader distribution][Shared][Rolling distribution]
+
+Ronan simply selected leader distribution as he was running towards the goblin. He liked Keith, but in the end he knew they would die and only what he had earned would stay with him. It was best that he accumulated as much as possible.
+
+Keith continued to scream as the warrior yanked its sword out. Blood sprayed outwards in a crimson fountain. Ronan began casting magic strike.
+
+Once again there was a brief delay between that moment and the tingling of mana in his heart. He wondered what the reason was. Maybe the mana wasn’t stored in his heart, after all?
+
+He didn’t have time to ponder it further. He arrived behind the goblin warrior. It heard his foot splashing in the mud and started to turn around. However, it was too slow!
+
+Ronan’s fist smashed against its spine and he heard a crunch as it snapped under the power of his punch. Then, as his mana roared outwards he once more focused on a controlled release.
+
+This time, even as his temple spiked in pain he forced himself to keep focusing. The cone of mana that exploded from his knuckles was even narrower than before, almost forming a lance.
+
+In an instant, the goblin’s spine, flesh, and a portion of its lungs behind them were vaporised by the crackling mana. It collapsed to its knees with a garbled screech. In its final moments it tried to stab at Ronan, but its dagger splashed uselessly into the mud.
+
+You have killed [Lesser Goblin Warrior Lv.4]!
+
++4 Copper Credits
+
++1 [Pugilist I] Mastery
+
++2 [Mana] Mastery
+
++Lesser Goblin Ears (Common)
+
+You have leveled up to Lv.3!
+
+You have been restored!
+
++1 Vitality
+
++1 Endurance
+
++1 Free Stat Point
+
+With the goblin dead, he reached out a hand to Keith to help the guy to his feet. The stab wound in his leg was already closing as the level up restored his health.
+
+It seemed the party experience bonus was quite strong. Ronan still reached level 3 while Keith was able to achieve level 2 just from killing that one lesser goblin.
+
+Ronan had gained mastery in both pugilist and mana. He was feeling confident that he might be able to hit the cap in mana this time around, gaining another small boost to his combat power that would remain with him after death.
+
+Congratulations, you have cleared Stage 2 of the tutorial!
+
++26 Copper Credits
+
++Endless Treasury Token (Common) x2
+
+Stage 3 will begin in 1 minute!
+
+This time, he tossed his free point into regeneration. Before his second death he’d increased it to 10 points and he’d noticed that his mana recovered around fifty percent faster. In his eyes, investing in the stat was worthwhile.
+
+Having a huge mana pool was great, but if he couldn’t recover it once it was drained what was the point? Combining regeneration with the boost from selecting the mage class, he hoped he might be able to utilise all the waiting periods to practice and still have mana left over to fight the goblin hordes.
+
+Wait a minute. 26 Copper Credits? Ronan realised in confusion. The reward for completing the stage was higher than it should be.
+
+A second later a big grin was plastered on his face. It seemed this heritage of his was potent indeed. Not only did he get to retain skills and mastery in death, it seemed that even the wealth he accumulated would grant him a bonus in future lives.
+
+He still wasn’t sure what he could use the credits on, but being richer was never a bad thing. What rich person lived a disappointing life? He quickly pulled up his status to check the progress so far.
+
+[Status]
+
+Name: Ronan Steele
+
+Race: Human (G)
+
+Heritage: ERROR: Unreadable (Analysis attempted: Results unreadable. DNA matches: 0. Recognised characters: ‘2’)
+
+Level: 3 (20)
+
+Class: N/A (Fighter (Common))
+
+Fortune: 48 Copper Credits (6,169c)
+
+[Stats (1.028)]
+
+Health: 90/90Stamina: 120/120Mana: 44/70
+
+Vitality: 9
+
+Endurance: 12
+
+Wisdom: 7
+
+Regeneration: 4
+
+Resistance: 6
+
+Strength: 6
+
+Agility: 5
+
+Intelligence: 8
+
+Dexterity: 5
+
+Acuity: 7
+
+Tenacity: 12
+
+Luck: 2
+
+Charisma: 4
+
+Available Points: 0
+
+[Traits]
+
+Personal: Inevitable (Epic)
+
+[Skills]
+
+Unified Language Adaptation (Universal)
+
+Relentless Training (Common)
+
+Magic Strike (Common)
+
+Vital Surge (Common)
+
+[Mastery]
+
+Pugilist I 2/100
+
+Mana 7/100
+
+[Cultivation]
+
+Mind: None
+
+Body: None
+
+Energy: None
+
+Soul: None
+
+He’d managed to restore a single point of mana through regeneration. It wasn’t a staggering amount, but he hoped that as he improved the relevant stat and when he gained the mage class it would be more efficient.
+
+Mana mastery was at seven percent completion. Considering how weak the first few enemies were, that was a decent accomplishment.
+
+38…
+
+With a little over half the time left until stage 3, it was time for Ronan to open the endless treasury once more. He wondered if he would get a different stat fruit this time.
+
+As he used the two tokens, his gaze narrowed. There was one item in particular he wasn’t sure if he wanted to receive again.
+
+The jingle of coins echoed in his ears as the two tokens were used up and the notifications appeared in view. When Ronan read them, he sighed in disappointment.
+
+You have received [Oranges of Intelligence (Common) x2]!
+
+Oranges of Intelligence (Common)
+
+Vibrant citrus fruits which raise the intellect of those who consume them
+
++1 Intelligence
+
+You have received [Ring of Regeneration (Common)]!
+
+Ring of Regeneration (Common)
+
+A poorly enchanted metal ring which boosts the regeneration of the wearer
+
++1 Regeneration
+
+Even though wearing that flower crown was silly, he’d grown rather attached to it. He immediately wondered if there was a way to keep items after death, the same way his skills remained.
+
+However, that was a problem for the future. Right now he couldn’t even make it out of the tutorial alive. First he had to defeat Magriz’al.
+
+In order to do that he would need to train himself and collect more skills, masteries, and knowledge. He still wasn’t quite sure what the intelligence stat did, but at the very least those oranges might make him smarter.
+
+He devoured them rapidly, eyes brightening at the tangy and refreshing taste. He slipped the ring onto his pointer finger. It was simple, just a metal band with a few inscriptions on the inside—these had to be the enchantments.
+
+Regeneration wouldn’t directly help him in battle, but it would allow him to restore his mana quicker and therefore train his skills more often. Magic strike was all he had at the moment, but once he hit level 10 and was able to choose the mage class he would be able to use mana bolt as well.
+
+The rest of the countdown ran out. Ronan decided to use magic strike two more times, hoping to raise his mastery before entering stage 3.
+
+You have gained insight!
+
++1 [Mana] Mastery
+
+Unfortunately only the second time he used it did he get the notification he was hoping for. Even so, all progress was good.
+
+0…
+
+Good luck, challenger!
+
+Seeing that Keith had actually stood up for himself this time around, Ronan felt confident in leaving him to handle the first few lesser goblin warriors. His priority would of course be the shaman.
+
+He would kill the first one immediately to prevent it from hiding and begin layering buffs and curses across the dungeon. As he was ripped through the void of space, he had a sudden thought.
+
+That fleshbeast is horrific and the stench alone would make me never want to fight one again, but if I want to make the most progress then perhaps I should let the shaman summon it, he realised. It would give me extra experience and mastery that I sorely need.
+
+As soon as he had that thought, Ronan felt his feet crashing down on the hard stone floors of the dungeon. He stumbled a little, realising that without the stats in strength this time around he might suffer a little.
+
+However, his muscle memory and size would still give him an advantage. Before the first arch could summon a goblin, he was already on the move.
+
+There was no need to make a beeline for the shaman arch. It would spawn third, after a single lesser goblin warrior and archer appeared.
+
+So, wanting to get a little extra experience first, Ronan made a tour of the room. The warrior didn’t know what hit it. Ronan’s fist smashed through its skull, turning it into a bloody jelly.
+
+The archer didn’t fare much better. It appeared before Ronan arrived, immediately screeching and scrabbling for its dagger. However, it was too slow!
+
+Ronan kicked out like lightning, cracking the goblin’s shin. It wailed in pain but was soon silenced when a lethal one-two combo of punches caved in its ribs and then liquefied its heart.
+
+He glanced upwards, noticing that the glowing staff symbol above the third archway was almost filled up with blue light. With a grunt, he dismissed the kill notifications and rushed towards it. That shaman wouldn’t even get the chance to raise its staff before it died.

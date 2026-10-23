@@ -1,0 +1,249 @@
+]
+
+After seeing the notifications informing him of his multiple level ups, Ronan was ecstatic. He had expected it, but this was still cause for celebration.
+
+The first time around, he had reluctantly tossed aside the allure of magic in favour of taking the fighter class. He’d felt it suited his combat style and strengths best.
+
+That was probably still the case, but he wasn’t aiming for perfection. He knew that killing Magriz’al, that terrifying hobgoblin champion, would be impossible for the time being.
+
+So, in order to raise his strength and prepare to challenge that powerful foe, this time he was going to delve into the mysteries of magic. He couldn’t wait.
+
+Congratulations for reaching Lv. 10!
+
+You have unlocked Class Selection!
+
+You have not unlocked any special classes due to your achievements
+
+You have not unlocked any special classes due to your heritage
+
+You have not unlocked any special classes due to your race
+
+You have not unlocked any special classes due to alternative methods
+
+Please select a class from the following:
+
+Fighter (Common)
+
+Mage (Common)
+
+Rogue (Common)
+
+Healer (Common)
+
+Tinkerer (Common)
+
+Ranger (Common)
+
+Defender (Common)
+
+It was exactly the same selection as before. Ronan was a little disgruntled at the system. He’d achieved quite a lot compared to his first time in the tutorial.
+
+Hadn’t his mana control improved far more than an average person’s? Well, he had no one to compare to, but he hoped it had.
+
+Ronan felt as if he’d made plenty of accomplishments, but still he only had the seven basic classes to choose from. Even so, that wasn’t a problem.
+
+The class he was going to choose this time had been selected from the beginning. Ronan didn’t bother reading through the descriptions of the other classes, immediately selecting mage.
+
+Mage (Common)
+
+Mages are masters of magic; deftly manipulating mana and casting complex spells.
+
+Gain a minor boost to mana regeneration.
+
+Gain mastery over mana and magic infinitesimally faster.
+
++2 Wisdom, +1 Intelligence, +1 Free Stat Point on level up
+
+Receive Class Skill [Mana Bolt (Common)] on class selection
+
+You have selected [Mage (Common)] as your class!
+
+Initiating class infusion…
+
+He was curious to see how much his mana regeneration would be bolstered. Most of the boosts from the common classes were labelled as ‘minor’ or even worse, ‘infinitesimal.’
+
+Ronan wasn’t expecting much, but if he invested stats into regeneration too it should give him enough mana to continue practicing. After all, hadn’t Jackson tossed out mana bolts in the dozens while they fought their way through that goblin cave?
+
+He was ready for the infusion this time, however the sensations weren’t exactly the same. Before, his muscles and bones had transformed, becoming tougher and stronger.
+
+This time, he felt a web of itchy tingles spreading through his entire body, originating from his heart. Ronan was convinced now that the heart was the source of magic.
+
+He was unsure why his entire body was itching, but it had to be beneficial. He would know soon enough. The sensations faded and another system chime rang in his ears.
+
+Class infusion complete! You have become a [Mage (Common)]!
+
+You have received the class skill [Mana Bolt (Common)]!
+
+Mana Bolt (Common): Gather your mana into a rudimentary projectile to blast against your target. (Cost: 8 Mana + Variable Mana Cost based on channeling time)
+
+Bonus stats for class have been retroactively applied
+
+The description for mana bolt was rather simple, but Ronan hadn’t expected much more. The system was always stingy with information.
+
+Besides, he was the type of guy who learned through practice, not theory. Which was pretty ironic given that his main skillset was maths and not engineering or something more hands-on.
+
+It was just how his brain worked.
+
+22…
+
+The countdown had run its course while he was eagerly working his way through the notifications. There was a little time left to spend his stat points and practice mana bolt before entering stage 4.
+
+He glanced over his status. Earlier he’d been forced to invest some of his free stat points into strength as he didn’t yet have a way to practice his mana control at range.
+
+Now that he had mana bolt, that was no longer an issue. His wisdom and intelligence had already shot up thanks to the retroactive stats of his class infusion, but it wasn’t enough.
+
+He needed all the mana he could get so that he could go wild against the goblin horde. If he didn’t reach the mastery cap for mana before he died, this life would have been utterly pointless.
+
+Ronan was no longer scared of death, but he refused to die like livestock to the slaughter.
+
+There were 7 free stat points to spend. His eyes suddenly widened in surprise. His mana was sitting at 118 points.
+
+Taking away the 60 gained from the increase to his wisdom, it meant he’d recovered 10 points in the last minute or so. That was a huge increase to his recovery rate!
+
+Despite it being labeled ‘minor,’ it seemed that the boost from taking the mage class was no joke. No wonder Jackson was tossing out mana bolts without a care in the world, he chuckled to himself.
+
+Since his mana regeneration was that strong, he decided against putting more points into the regeneration stat. It seemed like overkill at this point.
+
+He wasn’t sure what intelligence did. He didn’t want to waste points, but he knew it had to affect him somehow.
+
+Ronan actually doubted he would have come up with the idea to turn his mana into blades without the extra 2 points. He hadn’t instantly become a genius, but he knew he hadn’t seen the world this way before eating those oranges…
+
+His mana pool was actually big enough to handle almost twenty mana bolts. With his rapid regeneration he felt that might be plenty, but it was better to be safe than sorry.
+
+Ronan invested 4 points into wisdom and put the remaining 3 into intelligence. The mage class raises the intelligence stat, so it has to be important, right? he convinced himself.
+
+Before getting into some mana bolt practice with the remaining time, he quickly glossed over his status with an appraising nod. He should be able to reach the mana mastery cap in stage 4 if he focused exclusively on fighting with mana bolt.
+
+[Status]
+
+Name: Ronan Steele
+
+Race: Human (G)
+
+Heritage: ERROR: Unreadable (Analysis attempted: Results unreadable. DNA matches: 0. Recognised characters: ‘2’)
+
+Level: 13 (20)
+
+Class: Mage (Common) (Fighter (Common))
+
+Fortune: 342 Copper Credits (6,169c)
+
+[Stats (1.028)]
+
+Health: 190/190
+
+Stamina: 220/220
+
+Mana: 159/200
+
+Vitality: 19
+
+Endurance: 22
+
+Wisdom: 20
+
+Regeneration: 4 (+1)
+
+Resistance: 6
+
+Strength: 9
+
+Agility: 5
+
+Intelligence: 17
+
+Dexterity: 5
+
+Acuity: 7
+
+Tenacity: 12
+
+Luck: 2
+
+Charisma: 4
+
+Available Points: 0
+
+[Traits]
+
+Personal: Inevitable (Epic)
+
+[Skills]
+
+Unified Language Adaptation (Universal)
+
+Relentless Training (Common)
+
+Magic Strike (Common)
+
+Vital Surge (Common)
+
+Mana Bolt (Common) (Class)
+
+[Mastery]
+
+Pugilist I 7/100
+
+Mana 22/100
+
+Pain 1/100
+
+Spear 2/100
+
+Sword 3/100
+
+Stamina 2/100
+
+[Cultivation]
+
+Mind: None
+
+Body: None
+
+Energy: None
+
+Soul: None
+
+Ronan walked over to the middle of the dungeon. Keith glanced at him, but seeing that he was just standing still, he turned his attention back to whatever he’d been doing before.
+
+Ronan closed his eyes and concentrated. He reached out with his mind, trying to remember what Jackson’s mana bolts had looked like.
+
+The way they screamed through the air. How he launched them from his hands. The way they exploded against flesh, leaving it charred and burnt.
+
+He felt a familiar tingle in his heart as his mana surged forth. It crackled down his arm, almost twice as fast as it had before his class infusion.
+
+The speed took him by surprise. It almost broke his concentration. Almost. He felt the mana leaving his fingertips, but instead of an explosion like magic strike it flowed into the air, forming a crude tetrahedron above his palm.
+
+The skill guided the mana, but if he focused harder, the bolt’s form grew more rigid, less chaotic. In fact, as he did that he heard a chime in his ears, giving him a pleasant surprise.
+
+You have gained insight!
+
++1 [Mana] Mastery
+
+After a second had passed, a glowing diamond of blue light hovered above Ronan’s hand. He tried to manipulate it further, but that made needles of pain bite into his skull. It seemed that this was his limit for now.
+
+He glanced at Keith with a devious glint in his eyes. He wouldn’t toss it at Keith—that would be cruel. He could have a little fun though.
+
+A searing scream broke the silence. Keith’s gaze darted upwards. His eyes widened in shock and he threw himself to the floor.
+
+A bolt of blue light tore through the air above him, a gust of air tousling his hair in its wake. It smashed against the stone brick wall, crackling like electricity.
+
+Shards of stone flew outwards, gently buffeting Keith and clattering against the tiles. Ronan had a big grin on his face as he stared down at his hands.
+
+HAHAHA! he roared in his head. I’m a fookin wizard! That was awesome!
+
+“You! What the fuck was that, Ronan? Are you trying to kill me?” Keith yelled, rushing over with rage painted on his face.
+
+Ronan doubled over, clutching his stomach as he roared with laughter. “Oh man, it was worth it just to see your face,” he cackled. Seeing that Keith was genuinely angry, he placed a hand on his shoulder. “I aimed above your head man, it was never going to hit you. Just testing my new class skill,” he added.
+
+“Idiot. Don’t do that again,” Keith could only reply helplessly.
+
+“Don’t worry, I know exactly where the rest of these are going,” Ronan replied, his gaze hardening as the countdown ended.
+
+0…
+
+Good luck, challenger.
+
+He felt a pang of sorrow in his heart, knowing what was to come in the next stage of the tutorial. He had been ready for it from the beginning, but that wouldn’t make it any easier.
+
+All that mattered was that he wasn’t going to let their deaths be in vain. He would grind his way through this crappy tutorial until Magriz’al’s head rested at his feet.

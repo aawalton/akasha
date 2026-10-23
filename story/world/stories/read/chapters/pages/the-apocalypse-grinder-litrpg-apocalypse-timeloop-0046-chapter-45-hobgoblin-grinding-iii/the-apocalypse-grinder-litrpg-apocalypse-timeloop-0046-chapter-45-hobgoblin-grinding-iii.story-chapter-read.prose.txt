@@ -1,0 +1,171 @@
+Welcome to the tutorial of the 103rd Grand Integration! This introduction…
+
+Ronan ignored the system’s droning. After listening to it six times he could recite it backwards while black-out drunk.
+
+He didn’t even consider what he would pursue in this life. He was giddy with excitement. Even in the system’s stasis, he felt as if his head was going to burst.
+
+He had finally done it.
+
+He hadn’t expected to wound the champion for a few more lives, but that momentary distraction had paved the way for his success. Ronan knew that one broken bone didn’t guarantee victory, but it proved that he was on the right path.
+
+Since he had already made up his mind, he mastered the spear in his seventh run. He felt that he was using it in an unorthodox manner, but it seemed to carve the goblins apart with ease nonetheless.
+
+Having mastered the staff the life before, he was using the spear in a similar way. His spear style was all swings and ripostes, with a notable lack of thrusts.
+
+Over time he gradually acclimated to the weight of the weapon which he’d looted from a lesser goblin warrior in stage 3, but he wasn’t sure it was the correct way to use a spear. Then again, if it ain’t broke, don’t fix it, he chuckled to himself. Who cares about proper form. All I need from this rusted beauty is dead goblins at my feet.
+
+When the time came for the final battle against the goblin horde, Ronan’s style turned out to be lethally efficient. His wide sweeps and hard strikes with the shaft cut down half a dozen goblins at a time.
+
+It was like a farmer harvesting wheat. Only instead of crops, he was receiving experience, credits, and unadulterated satisfaction.
+
+You have reached the mastery cap for [Spear]!
+
+Spear has evolved to Spear I!
+
+Gain mastery over spears and spear-like weapons infinitesimally faster. Gain a 5% chance to restore stamina equal to 50% of a blow when that blow is parried while wielding a spear or spear-like weapon.
+
+Weirdly, this mastery skill made Ronan think of blogs. Bloggers were obsessed with backlinks—links on other websites or posts to their own page, which improved their search ratings.
+
+He’d just received the staff I mastery, which inadvertently boosted his spear. Now reaching spear I mastery ended up giving a boost to his staff—provided it counted as a ‘spear-like’ weapon.
+
+He was so absorbed in his odd analogy and considering whether a staff was close enough to a spear to receive the benefits of spear I mastery that he failed to notice Magriz’al’s fist as it sailed towards him. The hobgoblin champion splattered him against the wall, ending his seventh life in an instant.
+
+While he waited to be sent into stage 1, Ronan considered his options. Of the masteries he had discovered so far, the ones he had yet to advance to tier I were stamina, pain, anti-magic, and axe.
+
+Axe was too difficult. He didn’t encounter the goblin berserkers until stage 4. Stealing one while they were still alive would be hard enough, but trying to go from 0 to 100 in that one tutorial stage would be impossible.
+
+Anti-magic was equally tough. The shamans didn’t appear until stage 3. To train anti-magic he would need to allow them to curse him over and over. However, if he did that he might not have the strength to kill them once he was done.
+
+It was a catch-22. That left stamina and pain mastery. Both were easily accomplished, but it would take a lot of restraint on his part.
+
+To master pain, he would have to allow the goblins to attack him over and over without killing them. Being cut and stabbed was bad enough, but having to listen to the hideous laughter of the little green bastards while they did it?
+
+He’d rather burst his own eardrums.
+
+However, there was a light at the end of the tunnel. Incidentally, he figured that stamina and pain could be mastered in a single life. Stamina required him to run around a lot, fight, or use skills that cost stamina.
+
+At least if he was running out while being attacked it might take some of the edge of the goblin’s incoherent cackling. That would be just about tolerable.
+
+To that end, he could take fighter yet again and gain access to swift strike. Or alternatively he could use one of the new skills he’d acquired in his recent lives.
+
+0…
+
+Good luck, challenger!
+
+Ronan had a brief interlude to his thoughts while he ran rings around the lesser goblin. He wasn’t sure how exhaustion counted as an insight, but the system rewarded him for his efforts after a few minutes.
+
+You have gained insight!
+
++1 [Stamina] Mastery
+
+Figuring it would be better to move on to more interesting uses of his time, he blew the goblin’s chest open with two rapid, devastating blows. Its strikes barely hurt him, even with its rusty knife in play—mastering pain required them to deal damage, which clearly wasn’t going to happen here.
+
+Once it was dead, he immediately used the myriad skills tome. He wanted to get it over with so he could have a brief run through his status to see which of the skills he’d collected would help him most in this life.
+
+[Myriad Skills Tome (Common)] has been consumed!
+
+You have received the skill [Excessive Endurance (Common)]!
+
+Excessive Endurance (Common): Gain +1 to endurance for every 15 points of endurance you possess. Does not include stat bonuses.
+
+Huh, I guess this is some kind of skill series. I assume there’s going to be one for every single stat, he mused to himself. Gotta earn ‘em all, I suppose.
+
+He ignored most of the information for now. He’d only killed one goblin, so his level and stats weren’t worth mentioning. All he was interested in were his skills and masteries.
+
+[Detailed Partial Status - Ronan Steele]
+
+[Skills]
+
+Unified Language Adaptation (Universal): Automatically translates all verbal, written, and mental communication for the challenger in both directions, allowing seamless communication with all species known by the system.
+
+Relentless Training (Common): Mastery and Experience penalties for repeat kills on the same enemies are slightly reduced.
+
+Magic Strike (Common): Infuse mana into your strikes to bolster their power and apply extra magical damage as a percentage of the original blow’s physical damage. (Cost: 5 Mana + Variable Mana Cost based on power of strike)
+
+Vital Surge (Common): Pay 5% of your health points in order to boost your agility and strength by 5% for 30 seconds.
+
+Mighty Strength (Common): Gain +1 to strength for every 15 points of strength you possess. Does not include stat bonuses.
+
+Critical Experience (Common): Gain 1.5x more experience when you kill an enemy with a critical hit.
+
+Double Strike (Common): Overcharge your body and strike twice in a single blow. (Cost: 50 Stamina + 12% Max Stamina)
+
+Magic Money (Common): Spend your hard earned wealth to summon a barrier that blocks all forms of damage. (Cost: 100 Copper Credits per 25 Health Points of damage blocked)
+
+Excessive Endurance (Common): Gain +1 to endurance for every 15 points of endurance you possess. Does not include stat bonuses.
+
+[Mastery]
+
+Pugilist I 1/100
+
+I — All physical blows you inflict deal infinitesimally more damage. Successful parries grant you a 1% chance to instantly counter-attack with a blow of average force.
+
+Mana I 0/100
+
+I — Mana costs for skills are infinitesimally reduced. Activation and channeling times for skills which cost mana are infinitesimally reduced. Wisdom potency +1%.
+
+Sword I 0/100
+
+I — Weight and balance penalties for all swords are reduced infinitesimally. When inflicting [Bleeding] with swords, gain a 1% chance to inflict a second instance of [Bleeding] for 50% of the damage as the first.
+
+Shield I 0/100
+
+I — While equipped, shields you use gain a [Resistance] stat equal to 50% of the wielder’s. Gain a 1% chance to restore health points equal to 25% of the damage an attack would deal to you when blocking it.
+
+Staff I 0/100
+
+I — Gain a 1% chance to stun an enemy for (Strength x 0.05) seconds on successful strikes with staffs or staff-like weapons. Gain mastery over staffs infinitesimally faster.
+
+Spear I 0/100
+
+I — Gain mastery over spears and spear-like weapons infinitesimally faster. Gain a 5% chance to restore stamina equal to 50% of a blow when that blow is parried while wielding a spear or spear-like weapon.
+
+Stamina 1/100
+
+Ronan believed the best way to train his stamina mastery was with his newly acquired double strike. If he combined it with swift strike, the results would be devastating.
+
+The simple fact that he restored all of his stamina on leveling up meant he could use it almost endlessly. To get the most out of the skill, he felt a spear was the ideal weapon.
+
+It would get the greatest benefit from double strike and even swift strike. On top of that, swinging a heavy spear around exerted him a hell of a lot more than simply swinging his fists or a sword.
+
+Besides, with the double mastery gain bonuses from staff I and spear I he might even be able to scam his way to tier II of spear mastery. If putting one’s life on the line over and over in a brutal battle with infinite goblins counted as a scam, anyway. Ronan felt he was the one being scammed due to the lack of variety among his foes.
+
+He sped through stage 2. The lesser goblin warrior in that stage always spawned with a sword and shield. Ronan let them stab him a few times before unleashing double strike on each lesser goblin.
+
+The results were incredible. The feeling was exceptionally odd when he used the skill. It was as if two Ronans existed in the same moment, delivering the same punch twice over.
+
+When the impact landed, the goblin’s flesh and bone seemed to explode. It was the deadliest two punches he’d ever delivered.
+
+For a moment he almost reconsidered his plan to use the spear. He stood there staring at his bloodstained fist with wide eyes and a heart that was pumping so loudly it drowned out everything else in the world.
+
+However, logic prevailed over bloodlust. He sat on the ground, laughing while occasionally raising his fist to the sky, but he knew he would take the first spear he saw in stage 3 nonetheless.
+
+You have killed [Lesser Goblin Warrior Lv.4] and [Lesser Goblin Archer Lv.5]!
+
++12 Copper Credits
+
++2 [Pain] Mastery
+
++4 [Pugilist I] Mastery
+
++3 [Stamina] Mastery
+
++Lesser Goblin Ears (Common) x2
+
++Wooden Bow Lv.5 (Common)
+
+You have leveled up to Lv.2!
+
+You have leveled up to Lv.3!
+
+You have leveled up to Lv.4!
+
+You have been restored x3!
+
++3 Vitality
+
++3 Endurance
+
++3 Free Stat Points
+
+If a punch was this devastating, how overpowered would a spear thrust be when multiplied by two? He couldn’t wait to find out.

@@ -1,0 +1,311 @@
+Some people were confused about how diminishing stacking formulas work in the comments of the previous chapters. There are, admittedly, a few ways you can create these formulas depending on what you are trying to accomplish. To clear up any future doubts, here is the formula I used in this story:
+
+DIMINISHING FORMULA : F (X) = 1 - 1 / (1+ A * X)
+
+A = number of levels/items
+
+X = percentage chance/effect per stack (decimal form)
+
+Ronan was dumbfounded by the number of chimes the system filled his mind with, recoiling at the awful noise. The silver lining was that this many chimes had to mean plenty of new class choices would be available to him.
+
+Congratulations for reaching Lv. 10!
+
+You have unlocked Class Selection!
+
+You have unlocked 3 special classes due to your achievements!
+
+You have not unlocked any special classes due to your heritage
+
+You have not unlocked any special classes due to your race
+
+You have not unlocked any special classes due to alternative methods
+
+Please select a class from the following:
+
+Fighter (Common)
+
+Mage (Common)
+
+Rogue (Common)
+
+Healer (Common)
+
+Tinkerer (Common)
+
+Ranger (Common)
+
+Defender (Common)
+
+Knight (Uncommon)
+
+Martial Artist (Uncommon)
+
+Warrior Monk (Uncommon)
+
+Seeing that he had only received two new classes both confused Ronan and made sense to him simultaneously. It didn’t explain the excessive chimes. Are you fucking with me, you two-bit scam artist system? he inwardly cursed.
+
+Well, whatever the case, both new classes seemed as though they might suit him even more than knight had. He quickly opened up their descriptions to see what they offered, and also how he had managed to unlock them.
+
+Martial Artist (Uncommon)
+
+Martial artists have learned to tune into their body by cultivating their minds. Through the connection of mind and body, explosive and elegant power is but a thought away.
+
+Cultivation talent for Crystalline Mind and Tempered Body is increased by 10%.
+
+Benefits of Crystalline Mind and Tempered Body cultivation are 10% more effective.
+
+Gain mastery over pugilism moderately faster.
+
++2 Strength, +2 Agility, +2 Dexterity, +1 Acuity, +1 Free Stat Point on level up
+
+Receive Class Skill [Martial Meditation (Uncommon)] on class selection
+
+Unlock requirements:
+
+Challenger is Level 100 or lower
+
+Challenger has Pugilism mastery at Tier I or higher
+
+Challenger has Tempered Body cultivation at Stone ★ or higher
+
+Challenger has Crystalline Mind cultivation at Quartz ★ or higher
+
+Challenger has at least one skill containing a self-improvement concept
+
+Ronan raised a single eyebrow as he reached the end of the description. Despite being the same rarity as the knight class, there were many differences.
+
+Most obviously, martial artist had a lot more requirements. Yet that didn’t seem to make it more powerful. In fact, it gave him less class skills and the stat distribution was more limited, albeit offering 1 extra point compared to knight. It did have three floating benefits, which was one more compared to knight, so that had to count for something.
+
+Ronan really liked this class. It seemed tailor-made for him. Hit hard, hit fast, cultivate better. A return to the simplicity of punching his enemies into a crimson mist.
+
+There was only one thing holding him back from selecting it right away, aside from his desire to at least read through warrior monk’s description. It was his fear that the cultivation boosts would continue to stack diminishingly with his chronos enhancements.
+
+When it comes to diminishing stacking buffs, a single large source of the buff is better than multiple smaller sources, he reminded himself. The maths was a bit niche—unless you were a game developer or a motivated gamer you likely wouldn’t run into it all that often.
+
+Well, a small boost is still a boost. The mastery increase might let me get pugilism to Tier II. Unless warrior monk is somehow more suited to me, I think I’m taking this. His decision made, Ronan opened the description of the second new class he’d unlocked.
+
+Warrior Monk (Uncommon)
+
+Some consider warrior monks insane for what they put their minds and bodies through. Those same critics are often silent when they see the results of that dedication. Without a sufficient power of will, life will crush you underfoot.
+
+Resistance to all forms of damage +15%.
+
+Damage dealt via unarmed combat or when using staves is moderately increased.
+
++1 Endurance, +3 Resistance, +1 Strength, +1 Acuity, +2 Tenacity on level up
+
+Receive Class Skill [Tenacity of the Warrior (Uncommon)] on class selection
+
+Receive Class Skill [Virtue of the Monk (Uncommon)] on class selection
+
+Unlock requirements:
+
+Challenger is Level 15 or lower
+
+Challenger has a Tenacity stat of 10 or higher
+
+Challenger has Pugilism, Staff, and Pain masteries at Tier I or higher
+
+Challenger has Tempered Body cultivation at Stone ★ or higher
+
+Challenger has at least one skill with an effect that triggers upon receiving damage
+
+Ronan grunted in annoyance, startling Keith from his own focus on the system. He hadn’t actually expected to receive a second contender for his class this time around.
+
+Warrior monk was equally powerful as martial artist. However, Ronan felt that while warrior monk suited his combat style well, it didn’t really synergise with his heritage.
+
+Also, it didn’t give him any free points at all. If the other stats were less defensive in nature he wouldn’t have minded that, but as it was he couldn’t see himself taking this class for now.
+
+Although, knowing that certain classes had stat requirements was a valuable piece of information. Ronan could manipulate his stats prior to level 10 in order to see what other classes were out there, missing only because he didn’t have the right stat distribution.
+
+He wished he could see the skill descriptions.That was the only factor stopping him from making his choice just yet. Warrior monk offered two skills which both had impressive names, while martial artist only gave a single skill.
+
+In the end he forwent his opportunity to become a monk. I’m not quite ready to shave my head, sorry Buddha. Maybe another time, he joked to himself.
+
+You have selected [Martial Artist (Uncommon)] as your class!
+
+Initiating class infusion…
+
+Ronan thought he had grown used to the pain of class infusions. He was wrong.
+
+However, his overall tolerance to pain had grown. The experience was horrible, but he maintained his consciousness throughout. It helped that he could feel himself becoming stronger as it progressed. It gave him a positive to cling to.
+
+Class infusion complete! You have become a [Martial Artist (Uncommon)]!
+
+You have received the class skill [Martial Meditation (Uncommon)]!
+
+Martial Meditation (Uncommon): A martial artist can enter a unique state of mind, where comprehension of combat and their own limits is far more accessible. In this state, backlash from Crystalline Mind and Tempered Body cultivation is massively reduced. In addition, negative effects from cultivation backlash are not immediately permanent. Mind and body aspected cultivation shards become 10% more potent when consumed in this state. Martial meditation cannot be activated with a disrupted mental or emotional state. (Cost: 10% Max stamina initial cost + 1 Stamina per minute)
+
+Bonus stats for class have been retroactively applied
+
+Reading the description of martial meditation, Ronan knew he’d made the right choice. With this skill, he no longer needed to wait for rare resources like the warrior’s fortitude elixir or equally rare opportunities such as witnessing a monster cultivating in the wild in order to do it himself.
+
+For mind and body cultivation, that is. For spirit and energy, he would need to figure out another solution. All in good time. He still hadn’t finished the tutorial this time around.
+
+There were a few things to do before the timer ran out and they entered the fourth and final stage of the tutorial. He had loot to collect, another skill to obtain, and plenty of stat points to assign.
+
+[Endless Treasury Token (Common)] has been consumed!
+
+You have received [Sash of Vigour (Common)]!
+
+Sash of Vigour (Common)
+
+A bright red sash which enhances the wearer’s energy
+
++1 Endurance
+
+[Endless Treasury Token (Common)] has been consumed!
+
+You have received [Lesser Pixie’s Favour (Common)]!
+
+Lesser Pixie’s Favour (Common)
+
+Within the glass vial attached to the plain iron chain, there is a sprinkling of dust from a pixie who believes in you
+
++2 Luck
+
+The absence of a stat fruit threw Ronan for a moment. He was disappointed to not further round out his mental collection. He quickly recovered, wrapping the sash around his waist and the vial of sparkly gold dust around his neck.
+
+Ronan felt like some sort of dashing desert prince from a movie. What he was about to unleash on the goblin horde was anything but charming.
+
+[Myriad Skills Tome (Common)] has been consumed!
+
+You have received the skill [Relentless Training (Common)]!
+
+Relentless Training (Common): Mastery and Experience penalties for repeat kills on the same enemies are slightly reduced.
+
+[Reverberating Chronosphere has subsumed duplicate skill potential towards free chronos merit accumulation. Current progress: 4.1%]
+
+Ronan kissed his teeth in annoyance. I think getting items that boost my luck is a damn curse at this point. Twice I’ve increased my luck stat only to get hit with some bullshit immediately after, he inwardly cursed. I mean there has to be millions of skills out there and somehow I get a duplicate on my eighth pull…
+
+Although it did lend credence to his theory that the skill tomes were somewhat affected by the person using them. He certainly did spend a lot of time improving himself.
+
+Well, eventually I’ll get another chronos merit. It is what it is. With a shrug of his shoulders Ronan moved on to the final task he had before the timer ran out.
+
+Investing his stat points.
+
+Honestly it was pretty simple this time around. Not that he’d ever gone for a particularly complex distribution. He knew the maths to min-max things if he so desired, but he lacked information about the challenges ahead.
+
+More than that, Ronan simply didn’t care about such optimisation. Punching stuff really hard was far more satisfying and he didn’t need all the stats to do that.
+
+He followed the preexisting distribution of his new class, with the exception of acuity for the time being. He still wasn’t quite sure what the stat did and he preferred to directly enhance his punching potential. Thus, his free points were split three ways between strength, agility, and dexterity.
+
+Power, speed, and control. What more does an amateur murder machine need? Allowing himself a brief smirk, Ronan mulled over his status one last time as the timer reached zero. It’s time to punch some goblins. Artfully.
+
+[Status]
+
+Name: Ronan Steele
+
+Race: Human (G)
+
+Heritage: Reverberating Chronosphere (Current Iteration: 8) +
+
+Level: 14
+
+Class: Martial artist (Uncommon)
+
+Fortune: 401 Copper Credits
+
+[Stats]
+
+Health: 213/213Stamina: 250/250Mana: 53/53
+
+Vitality: 20
+
+Endurance: 23 (+2)
+
+Wisdom: 5
+
+Regeneration: 3
+
+Resistance: 6
+
+Strength: 20 (+1)
+
+Agility: 19
+
+Intelligence: 8
+
+Dexterity: 19
+
+Acuity: 11
+
+Tenacity: 12
+
+Luck: 2 (+2)
+
+Charisma: 4
+
+Available Points: 0
+
+[Traits]
+
+Personal: Inevitable (Epic)
+
+[Skills]
+
+Unified Language Adaptation (Universal)
+
+Relentless Training (Common)
+
+Magic Strike (Common)
+
+Vital Surge (Common)
+
+Mighty Strength (Common)
+
+Critical Experience (Common)
+
+Double Strike (Common)
+
+Magic Money (Common)
+
+Excessive Endurance (Common)
+
+Reverberating Path (Epic) (Blessing)
+
+Impact Leech (Common)
+
+Martial Meditation (Uncommon) (Class)
+
+[Mastery]
+
+Pugilist I 4/100
+
+Mana I 2/100
+
+Sword I 0/100
+
+Shield I 0/100
+
+Staff I 0/100
+
+Spear I 2/100
+
+Stamina I 3/100
+
+Pain 0/100
+
+Anti-Magic 1/100
+
+Perception 1/100
+
+Leadership 1/100
+
+Stealth 0/100
+
+[Cultivation]
+
+Mind: Quartz ★ (0%)
+
+Body: Stone ★ (0%)
+
+Energy: None
+
+Soul: None
+
+[Blessings]
+
+Blessing of Chronos (Boundless)
+
+Minor Blessing of the Temporal Obelisk (Unique)

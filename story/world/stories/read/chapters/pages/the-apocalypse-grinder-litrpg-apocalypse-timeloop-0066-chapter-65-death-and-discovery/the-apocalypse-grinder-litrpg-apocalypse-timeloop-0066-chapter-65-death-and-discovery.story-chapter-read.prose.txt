@@ -1,0 +1,241 @@
+Ronan was lost in darkness. He panicked momentarily, calming as his memory of recent events returned in fragments. Lord Rockmore had attacked in the night, butchering Keith and then engaging him in combat.
+
+They clashed twice. I died? How? I felt the impact of the second clash, he was reeling. How did he manage to kill me in that instant? Ronan was frustrated that he’d been unable to see the killing blow and learn more about his enemy, but he’d gained valuable information about Lord Rockmore nonetheless.
+
+He realised, a hint of terror creeping into his thoughts, that he wasn’t at the start of the tutorial as he should be. For a brief moment he thought his heritage had failed him. That his most recent death was his true end. Then he heard a corrupted chime, reminiscent of the system yet far from it.
+
+The world turned white. Endless white as far as he could see, unbroken in its uniformity and emptiness. All that broke the void was a single floating screen hovering a few inches from Ronan’s face.
+
+He frowned at the odd colouration and disfigured border of the screen, but his fears faded as he began to read. Azathere’s gift continued to prove its worth.
+
+You have died. Cause of death: Mana overload triggered by outside interference.
+
+Loading final status on completion of iteration…
+
+[Status]
+
+Name: Ronan Steele
+
+Race: Human (G)
+
+Heritage: Reverberating Chronosphere (Current Iteration: 7) +
+
+Level: 38
+
+Class: Knight (Uncommon)
+
+Fortune: 23 Bronze Credits, 791 Copper Credits
+
+[Stats]
+
+Health: 462/462Stamina: 650/650Mana: 157/157
+
+Vitality: 44
+
+Endurance: 61 (+4)
+
+Wisdom: 14 (+1)
+
+Regeneration: 10
+
+Resistance: 33 (+1)
+
+Strength: 77 (+6)
+
+Agility: 27 (+2)
+
+Intelligence: 10
+
+Dexterity: 12
+
+Acuity: 7
+
+Tenacity: 39
+
+Luck: 10
+
+Charisma: 31 (+1)
+
+Available Points: 0
+
+[Traits]
+
+Personal: Inevitable (Epic)
+
+[Skills]
+
+Unified Language Adaptation (Universal)
+
+Relentless Training (Common)
+
+Magic Strike (Common)
+
+Vital Surge (Common)
+
+Mighty Strength (Common)
+
+Critical Experience (Common)
+
+Double Strike (Common)
+
+Magic Money (Common)
+
+Excessive Endurance (Common)
+
+Breaking Charge (Uncommon) (Class)
+
+Lionheart (Uncommon) (Class)
+
+Reverberating Path (Epic) (Blessing)
+
+Impact Leech (Common)
+
+[Mastery]
+
+Pugilist I 4/100
+
+Mana I 14/100
+
+Sword I 0/100
+
+Shield I 0/100
+
+Staff I 7/100
+
+Spear I 71/100
+
+Stamina I 52/100
+
+Pain 35/100
+
+Perception 28/100
+
+Leadership 3/100
+
+Stealth 1/100
+
+[Cultivation]
+
+Mind: Quartz ★ (3%)
+
+Body: Stone ★ (58%)
+
+Energy: None
+
+Soul: None
+
+[Blessings]
+
+Blessing of Chronos (Boundless)
+
+Iteration 7 complete. Generating analysis…
+
+Iteration 7 analysis:
+
+Highest level achieved: 38
+
+Highest class achieved: Knight (Uncommon)
+
+Highest fortune achieved: 23 Bronze Credits, 791 Copper Credits
+
+Stats gained: 297
+
+Cultivation stages achieved: Mind (Quartz ★), Body (Stone ★) [+2]
+
+Inventory value accumulated: 14 Bronze Credits, 362 Copper Credits
+
+Chrono Enhancement Updates:
+
+Experience gain multiplier has increased from 260% to 380%
+
+Achieving an uncommon class for the first time has rewarded you with 1 Chronos merit
+
+Credit gain multiplier has increased from 7.1% to 23.7%
+
+Experience gain multiplier has increased from 1.097 to 1.394
+
+Cultivation talent multiplier has increased from 1.3 to 1.5
+
+Cultivation progress has been reset, maximum stages reached have been locked
+
+Achieving a total accumulated inventory value of 10 Bronze Credits has rewarded you with 1 Chronos merit
+
+Mastery progress has been reset, maximum tiers reached have been locked
+
+Class has been reset, class skills purged from status
+
+Chronos merits have been acquired! Access to Chronos Clan Ancestral grounds has been granted at minimum threshold
+
+With that final remark, the purplish, writhing message began to disintegrate before his eyes. Ronan had just about assessed his gains, but he wasn’t too worried about losing the message. He could always check the progress in his status when he returned to life.
+
+He now understood what was happening. Azathere fully awakening his heritage had changed how his respawns functioned. And Ronan really appreciated the extra information.
+
+Not only that, but he had earned his first chronos merits. He wasn’t sure what they could be used for, but he had a few guesses. More buffs that would persist through his lives—iterations, as he still couldn’t get used to calling them.
+
+Of all the information he’d gained, one particular line gave him great relief. ‘Cultivation progress has been reset’ damn near gave him a heart attack until he read the latter portion of the sentence. He’d only lost the excess beyond the first realm of each form of cultivation. He would remain at Quartz ★ and Stone ★ when he returned to the beginning of the tutorial.
+
+He was broken from his thoughts by a rumbling noise. In front of him, the white emptiness of the void began to shift and distort. A purple glow emanated from an invisible source, followed by an obelisk of obsidian rising in front of him.
+
+Around the obelisk a circle of stones that shimmered with a faint purple light had replaced the whiteness of the void. This was the extent of his clan’s ancestral grounds that had been revealed to him, or so he assumed.
+
+Not knowing what else to do, he approached the obelisk with measured steps, realising he had a body here as he took the first, and placed a hand against the surface. It was cool to the touch, but not cold. Like a blast of air conditioning on a hot summer’s day.
+
+As his palm made contact with the obelisk, another twisting purple screen appeared to him. He wasn’t sure if his heritage and the power of his clan had somehow co-opted the system to their own needs or if it was an entirely self created replica of what the system did. He might find out down the line. It wasn’t that important.
+
+Frankly, he still couldn’t connect on a personal level with the Chronos Clan. Azathere had helped him out a lot, but that was a more man to man appreciation. It would take time for Ronan to get used to his heritage. He’d never been good at being a cog in a larger machine. First, he had merits to spend.
+
+You have connected with the [Shrine of Chronos] for the first time!
+
+You have been inflicted with [Minor Blessing of the Temporal Obelisk] by [Shrine of Chronos]!
+
+Minor Blessing of the Temporal Obelisk (Unique): The temporal obelisk empowers the power of Chronos flowing in your veins. The first enhancement you obtain from the Temporal Obelisk will receive an extra tier free of cost. This tier will count towards cost increases towards the next tier.
+
+[Temporal Obelisk]
+
+Jack of all trades, master of some: The influence of the Chronos Clan is not truly boundless, especially so for a sapling. However, with time and investment, your mastery over everything becomes more persistent through iterations. Maintain 25% more of your progress towards the next mastery tier through each iteration for every tier of this enhancement. [Cost to reach next tier: 1 Chronos merit]
+
+Deep cultivation: As a clan which transcends the limits of time and space, the act of cultivation holds a far more significant meaning to those of the Chronos heritage. Maintain 10% more of your progress towards the next cultivation realm for every tier of this enhancement. Cultivation benefits are 25% more effective for every tier of this enhancement. [Cost to reach next tier: 1 Chronos merit]
+
+Brand of the temporal artificer: Even items forged from the base materials of reality can be iterated. Through the powers of the temporal artificer, items can be branded and will persist through iterations. Number of concurrent brands increased by 1 for every tier of this enhancement. Enhancement will mutate once for every 3 tiers in this enhancement. Branded items will receive a 10% improvement for every tier in this enhancement. [Cost to reach next tier: 1 Chronos merit]
+
+Accumulate greater accomplishments to unlock further enhancement options…
+
+Despite there only being 3 choices available to him, Ronan was ecstatic. His heritage had already been an incredible boon, but discovering that he could enhance it further was like giving wings to a tiger.
+
+All three were incredibly powerful in their own right. With his 2 merits, he would only have to choose 1 to disregard for now. The question was, which of these would benefit him the least in his next life and all those that followed until he next earned a chronos merit.
+
+There was also the minor blessing he’d received, which would give the first one he chose an extra tier for free. That added another layer of difficulty to Ronan’s decision.
+
+He was heavily leaning towards the first enhancement, Jack of all trades, master of some. It annoyed him that he’d come so close yet so far from the second tier of spear mastery. Losing all that progress would hurt, even if he could just earn it back.
+
+Being able to maintain the excess progress beyond just the highest tier he’d reached would be incredibly useful. Not only that, but taking it first would give him two tiers. In theory that meant he’d retain half of the progress he earned each iteration regardless of whether he reached the next tier or not.
+
+The only thing that stopped him from purchasing it immediately was that the second enhancement, Deep cultivation, not only let him maintain his progress, but also improved the beneficial effects of cultivation. That meant greater physical and mental damage resistance as well as extra efficacy for his stats—just a little over 2% extra for now if he counted the free tier from the blessing, but that would rapidly compound the further he progressed.
+
+The third was interesting. Until now he’d been unable to keep his items through iterations, but Brand of the temporal artificer could change that. It would also boost the item he chose to brand. However, there were too many unknowns to make it an appealing choice right now. Also, it was lacking compared to the first two on a personal level.
+
+Ronan had grown almost addicted to the feeling of self improvement that the system had brought him. Improving his stats, mastering various disciplines, and the painful yet rewarding process of cultivation all brought him a satisfying thrill. In a word, he loved it.
+
+He was buying the first two enhancements. The only question was, which should he give the free tier to?
+
+After a moment of deliberation, Ronan settled on purchasing Deep cultivation first. While maintaining more of his mastery progress was appealing, the immediate stat boost Deep cultivation offered was more immediately beneficial to him.
+
+Choices set, he made the purchases, revelling in the swelling of an unfamiliar yet comforting power within him. It was similar to Azathere’s gift, but a dozen orders of magnitude less intense.
+
+You have purchased the permanent enhancement [Deep cultivation] for 1 chronos merit! Deep cultivation has increased from Tier N to Tier I
+
+Minor Blessing of the Temporal Obelisk has activated! Deep cultivation has increased from Tier I to Tier II
+
+You have purchased the permanent enhancement [Jack of all trades, master of some] for 1 chronos merit! Jack of all trades, master of some has increased from Tier N to Tier I
+
+You have no chronos merits remaining! The Temporal Obelisk has returned to slumber, awaiting your return
+
+As the final message appeared in his vision, Ronan felt himself tumbling downwards. The white void had felt like solid ground beneath his feet, but the moment the obelisk kicked him from its menu, that changed.
+
+Beginning a new iteration, please stand by…
+
+It was as though he was flying through a shifting void. Familiar, yet still as eerie as the first few times he’d done so. Ronan still couldn’t make out any true shapes in the endless writhing shadows.
+
+Then, the journey came to an abrupt halt. The shadows faded, replaced by an all-too-familiar view and an annoying chime he’d grown to hate.
+
+Welcome to the tutorial of the 103rd Grand Integration! This introduction to the multiverse will serve to test your strength and skill. Upon completion, you will return to your newly terraformed planet for the 1st Phase.

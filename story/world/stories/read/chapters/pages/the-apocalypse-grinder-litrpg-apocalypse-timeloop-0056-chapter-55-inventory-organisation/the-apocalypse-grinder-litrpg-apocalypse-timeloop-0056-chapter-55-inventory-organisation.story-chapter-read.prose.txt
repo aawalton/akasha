@@ -1,0 +1,137 @@
+Having read through all the messages related to his heritage and the gifts of Azathere the Timeless, Ronan’s ancestor of the Chronos Clan, he turned his attention to the final blinking messages in his vision. There were just two more to get through before his overactive brain might finally allow him to get some sleep.
+
+Returning to Earth—no, Planet 2.48e11E—had set in motion the first phase of the 103rd Grand Integration. It’s really going to take a while to get used to calling our planet that… What phase one would fully entail Ronan wasn’t sure, but he would eventually figure it out.
+
+The first message had more great news for Ronan. He had finally discovered a use for the thousands of credits he’d accumulated during the tutorial.
+
+As the 103rd Grand Integration continues, system functionality will be unlocked progressively. Citizens of Planet 2.48e11E, for advancing to phase 1, all relevant system functions have been unlocked and all system-integrated lifeforms are granted access.
+
+Functions unlocked at phase 1: Marketplace (Sector-limited), Minimap (Sector-limited)
+
+The message was brief and far clearer than most of the system’s previous communications. After he dismissed the message, a small amount of information flooded into his brain. The information pertained to the two new functions of the system, the minimap and the marketplace.
+
+The minimap would start completely empty save for a black outline marking the boundaries of their current sector, filling itself in as Ronan explored his surroundings. Opening it, causing a holographic map to float in his vision, he saw that the only areas not hidden from view were those he’d travelled through with Keith.
+
+Interestingly, he could zoom in on the building that they’d chosen as their base for a more detailed view of the various floors. He discovered that wasn’t the case for other buildings displayed on the map, leading Ronan to assume he would have to explore them first.
+
+A small blue dot indicated Ronan’s position on the map, while Keith was marked with a green dot. They were no longer in a party since exiting the tutorial had disbanded it, but clearly it was able to read his mind to the extent that it recognised Keith as friendly towards Ronan.
+
+Apart from the two of them, there was nothing else living nearby. Ronan suspected enemies would be marked with a red dot, but couldn’t yet prove it.
+
+Not having to use a part of his memory to remember the direction and areas he’d travelled through was helpful. On top of that, being able to see the position of allies and hopefully enemies was really beneficial. All in all, the map was a useful but not overpowered tool.
+
+The market was a different story. It was neither an outright boon nor detriment. Ronan had yet to actually access it, but the information provided told him it would allow all integrated lifeforms in the entire system integrated universe to trade credits and items between one another.
+
+However, the sector-limited designation attached meant that as of this moment it would be restricted to trade between those in the same sector. There was also the knowledge that more complex functionality would become available as the restrictions were gradually lifted.
+
+Ronan was curious to see if anyone had already begun to use the marketplace since returning to their home planet, so he didn’t delay in opening it. To his disappointment, it was almost entirely empty.
+
+Marketplace [Limited: Sector 46592]
+
+Listings:
+
+Goblin Toes (Common) x3 (60) [150 Copper Credits]
+
+Elite Shard Lv.19 (Body) [1 Bronze Credit, 900 Copper Credits]
+
+Endless Treasury Token (Common) (2) [400 Copper Credits]
+
+He was confused why people would be selling things like the elite shard or the endless treasury tokens. Wasn’t giving away an opportunity to improve your own strength foolish, no matter how small the boost was?
+
+As for the goblin toes, he didn’t even know what they could be used for and thus had no desire to purchase them. However, he understood why a person might sell them to earn more credits, given that the latter had far more utility.
+
+As a test, Ronan attempted to sell his own large collection of lesser goblin ears by thinking about doing so. The marketplace responded instantly, bringing him to a new system window.
+
+Attempting to sell [Lesser Goblin Ears (Common)]...
+
+Please input desired quantity to sell.
+
+Ronan decided to sell just one and see what happened.
+
+Sell [Lesser Goblin Ear (Common) x1]? You will receive 5 Copper Credits.
+
+[YES][NO]
+
+Only five!? That’s daylight robbery! Ronan cursed the system when he saw the awful price it offered him for his hard earned loot. It also put how the marketplace worked into perspective.
+
+He had expected to be able to trade directly with other people, but clearly that wasn’t the case. Instead one had to sell their items directly to the system, which would then list them for sale to others.
+
+As a further test, he tried to sell one of his own goblin toes to the marketplace. The price offered by the system was just 27 copper credits for a single goblin toe. Doing that allowed Ronan to learn a few more things about how the marketplace worked.
+
+The system would give him just fifty percent of the sell value for any given item when he offloaded it. It also meant the prices to buy items from the marketplace were fixed by the system. He could account for the extra 2 credits being the fortune buff from his heritage, making the actual value anyone apart from him would be offered 25 copper credits.
+
+That actually made sense to him. It would stop people abusing the marketplace to scam others in the early phases of the integration. It was possible that the system would allow the people of a newly integrated planet to develop their own market as the integration progressed. Moderating it at the beginning was essentially a safeguard against abuse.
+
+Before closing the market, Ronan decided to purchase the elite shard that was for sale. He still wasn’t entirely sure how to use them, but it seemed silly to let someone else obtain it when he could easily afford it.
+
+You have purchased [Elite shard Lv.19 (Body)] for 1 Bronze Credit and 900 Copper Credits!
+
+When nothing happened apart from the message appearing, Ronan was momentarily confused. Then he had a sudden realisation and checked his inventory, discovering the elite shard had been placed within.
+
+It was a great time to take stock of all the loot he’d earned during his time in the tutorial, so Ronan glanced over the rest of his inventory. Unfortunately he didn’t keep items after each death, but those he lost counted towards earning chronos merits. He had yet to find out what those did, but he would learn in time.
+
+Inventory [Ronan Steele]
+
+Lesser Goblin Ears (Common) x63
+
+Goblin Toes (Common) x38
+
+Hobgoblin Fingers (Uncommon)
+
+Princess Petal’s Flower Crown (Common)
+
+Goblin Bracers (Lv.8-22) (Common) x2
+
+Bone Charm Lv.40 (Uncommon)
+
+Worn Spear Lv.13 (Common)
+
+Rusty Spear Lv.21 (Common)
+
+Broken Shortsword Lv.19 (Common)
+
+Goblin Greaves Lv.17 (Common)
+
+Shaman’s Bone Staff (Lv.13-22) (Common) x3
+
+Chipped Dagger Lv.18 (Common)
+
+Wooden Bow (Lv.5-20) (Common) x4
+
+Thurg’s Razorspear Lv.27 (Uncommon)
+
+Elite Shard Lv.19 (Body)
+
+Elite Shard Lv.23 (Body)
+
+Elite Shard Lv.25 (Body)
+
+Elite Shard Lv.28 (Body)
+
+Boss Shard Lv.40 (Body)
+
+Myriad Skills Tome (Common)
+
+Endless Treasury Token (Common) x2
+
+Endless Treasury Token (Rare)
+
+Rift Key (Common)
+
+Fox Fur (Common)
+
+He was pleased seeing the huge amount of loot he’d collected in his first successful tutorial run. Ronan was already wearing the flower crown as well as the highest leveled bits of each type of goblin gear. Thurg’s Razorspear remained in the inventory, ready to be drawn at a moment’s notice.
+
+The elite shards and the boss shard stood out to him. Ronan wanted to attempt cultivating, but the warning given in their description was still firmly burned into his mind. He wasn’t quite ready to risk his life once more.
+
+That left the extra skill waiting to be claimed alongside the three endless treasury tokens. Having long since grown used to the process, he quickly consumed the tome and the two common tokens.
+
+[Myriad Skills Tome (Common)] has been consumed!
+
+You have received the skill [Impact Leech (Common)]!
+
+Impact Leech (Common): Damage received from physical blows is converted into stamina at a rate of 1 stamina point per 2 points of damage.
+
+It was a bit of an anticlimax after all the insane skills Azathere had granted to him by fully awakening his heritage, but for a common skill it was decent. Impact leech synergised well with his knight class given how much stamina the class skills consumed.
+
+Ronan’s fighting style would get a fairly significant buff from this skill and he was looking forward to testing it in battle. As for the treasury tokens, they ended up being less impressive.
