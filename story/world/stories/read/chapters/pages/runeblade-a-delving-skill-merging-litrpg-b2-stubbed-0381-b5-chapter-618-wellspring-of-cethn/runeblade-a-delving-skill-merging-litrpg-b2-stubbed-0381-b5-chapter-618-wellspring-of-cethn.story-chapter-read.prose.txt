@@ -1,0 +1,167 @@
+Kaius slowed to a walk as shining water fell from the carved pitchers far overhead, his team joining him in wonder. They’d already crossed the Warhavens he’d preemptively laid over the entrance to the Wellspring, and the sight was captivating.
+
+Warm, soft light danced across every surface as gleaming water rushed through the carved channels at the base of the wall. It refracted, contracting and shifting like organic netting over the surface of the sweeping wave and current lines. It made him feel like he was standing in a raging river that had been frozen in amber.
+
+Despite those artful carvings, he was still unsure whether the tunnel had been carved into the bed rock, or if it was a natural cavern that had been expanded. The path was smooth, but the gently curving footprint of an ancient stream had been worn into the stone. The ceiling and walls were no help either. Stalactites hung like the fangs of some great beast, and while the surfaces were oddly straight, there were only naturally jagged cracks absent of tool marks — aside from the artful swirls that had been carved deep into its surface.
+
+He stopped craning his neck when he realised that some of his companions were far less enraptured by the splendor. Julian and his men trotted ahead, utterly focused on the depths of the tunnel. Their enthusiasm was understandable — he needed time. The last few battles had drawn deep from his spells and resources.
+
+“Julian, wait!” he called.
+
+The lord looked back. “What do you mean?! We’re here — and your barrier already covers the entrance. Gods know how long this place will stay open, and I wish to reap the benefits of this Place of Power before I have to wait another year.”
+
+“My resources are shot, and my combat spells are mostly gone — I don’t make a habit of exploring long-forgotten chambers while at half-strength, do you?”
+
+“This place has been sealed! Unless you think something managed to slip past us, I don't see how there could be anything else in here.”
+
+Kenva crossed her arms. “I seem to recall that you would have died three times over without our assistance. It might be empty, it might not be — but either way, rushing is folly.”
+
+Julian huffed, and switched his focus to Kanmost, where he was wedged firmly in the centre of Kaius and his team’s formation.
+
+“What say you, Archivist? Any ancient myths of hidden dangers, or even a word on how long we have before we are sealed into this place like a tomb?”
+
+Kanmost hesitated. “There were plenty of references to a guardian creature, but they all firmly mentioned it being an impediment to actually reaching the monastery itself. Why, it might even be those same monstrosities we faced outside. As for how long the way would remain open… it wasn’t mentioned.”
+
+“See!” Julian said, waving his hand towards the man. “We should hurry.”
+
+“But,” Kanmost continued, stressing the word. “The fact it wasn’t mentioned likely means we have some time. This was a place steeped in ritual and significance. That would not end when those ancient heroes opened the final door. Bathing in the Wellspring would have been a lengthy act, I think.”
+
+Kaius cocked his brow, drawing a resigned scowl out of the noble.
+
+“We best get comfortable,” the man said to his remaining men, sliding from his saddle with a huff.
+
+Thank all the hells that the lord had seen reason. He wasn’t exactly worried that they would run into something, but he’d had a few too many nasty surprises in the last few years to ever be comfortable risking it.
+
+A moment later, his backline took a seat themselves, chatting with Kanmost in a low volume — Ianmus, it seemed, wanted to know more about the original legends of this place.
+
+“How long do you need?” Julian said, pulling his attention away.
+
+“A moment,” he replied. Focusing inwards, Kaius pulled up his resources.
+
+Resources:
+
+Health - 9167/19840 (129/min)
+
+Stamina - 18496/19660 (143.1/min)
+
+Mana - 16653/24870 (181.3/min)
+
+Free Mana - 8233/16430
+
+Reserved Mana - 8440
+
+The gleaming numbers burned, taunting him with how drained he had gotten from a fight he didn’t even remember. He’d done well in the half hour or so since the end of his battle with the ghouls, but he still had nearly ten thousand mana and health to recover — far more than he would like. He ran the numbers quickly.
+
+“Just under an hour and a half for my health to reach full. If I start inscribing now, I should be mostly full up on spells then too.”
+
+As Julian cocked an eyebrow at him, his man Adrian slid from his saddle and grunted in distaste. “That’s a long time to wait.”
+
+“Too long,” Julian agreed. “Especially when we can solve the problem with a little money. How much of each do you actually need.”
+
+Kaius paused, staring at the man in shock. Was Julian going to offer him a tonic? Restoratives that could recover ten thousand of a given resource were not a common thing. Julian struck him as many things, but the generous, charitable sort he was not. At least Kaius hadn’t seen as much. Was it a way for the man to get a feel for his stats? Even if it wasn’t, he would still know.
+
+He must have taken too long to think, because Julian rolled his eyes. “Well? We can tack it on as part of the payment for that obscene volume of life-aligned reagent that you swiped on your way through the forest.”
+
+A slight smile tweaked at the edges of Kaius’s mouth. That was more like it.
+
+“Roughly ten thousand for both — but reinscribing will take me at least three quarters of an hour, so you could cut that in half.”
+
+Julian froze, and the rest of his men slowly turned to stare.
+
+“Sorry?”
+
+A deep rumble filled the tunnel as Porkchop settled down onto his haunches. “You heard him.”
+
+Rather than answer, Julian pulled two gleaming tonics from his storage artefact with a wince. Each was stoppered in a glossy, tulip shaped bottle that was wrapped in thin vines of what looked like gold. One held a dark red fluid the consistency of thickened sap, while the other was an egg-shell blue so thin it was almost gaseous. Julian tossed them in quick succession.
+
+“Utterly ridiculous — but such is the price of expediency I suppose. Use them well, I'm only allotted five of each at a given time.”
+
+Wasn’t that a surprise? It seemed even the rich lordling had limits to his reach. Giving the man a nod, Kaius downed them quickly. Each burned with power, overriding his senses with a swirl of nonsensical impressions.
+
+**Ding! You have imbibed a Tonic: Mercature’s Benediction!**
+
+**Ding! You have imbibed a Tonic: Mercature’s Wisdom!**
+
+His resources boiled, exploding upwards as liquid potency rocked his soul like a hammer blow. Eight thousand points each. Rotten roots. And the man had five of the bloody things, presumably another set for his stamina too. Maybe it wasn’t so strange that Julian had looked like he’d eaten a lemon when he’d chucked them over.
+
+Kaius let out a slow breath and dropped to the ground. “I best focus then.”
+
+…
+
+The last curve of mana snapped into place, stinging his flesh. His final spell; an inscription of Spear of Nectus. He’d gone for his usual spread, with only a few changes. Heavy on Drakthar and Felmenia — his mobility glyph — though he’d eschewed Starfall in favour of two each of Fractured Warp and Spear of Nectus. Underground, with so many allies at his side, Starfall would likely hurt more than it helped. Other than that, he’d made sure to grab two copies of Warhaven. It would be invaluable to cover their retreat, and it had proven its value in keeping Kanmost safe during their trip through the Crater.
+
+Kaius rolled his shoulders, working out a little of the tension from sitting over hunched for so long. It seemed not even his achievements were enough to banish mortal discomforts. At least he didn’t cramp any more.
+
+His movement set off a wave of motion as every other member of their party leapt upwards, filling the tunnel with the sound of scraping metal and scrambling feet. Kaius watched on in amusement, pausing.
+
+“It seems I have inspired a certain level of impatience.”
+
+Ianmus rolled his eyes as he used his staff to push himself upwards. “Kaius, I will be the first to admit that it was wise to wait until we were fully ready — but this is a Place of Power! Most never even come close to seeing one, let alone getting an up close experience of its effects.”
+
+“Ever the wise one, your mage,” Kel said from within the group of nobles as he checked the straps on his charger's saddle and barding. “More importantly, this one is unknown. Perhaps the Old Magic will grace us with little more than a blessing of pleasant dreams — or perhaps it will double our mana pools. It’s impossible to know.”
+
+Now wouldn’t that be nice. If that happened, he might finally be able to throw around more than just one or two second tier spells in a fight!
+
+Kanmost just snorted at the comment. “Unlikely. While they are too rare to say for certain, I have never heard of a Place with impacts that large — nor ones that are so straight-forward and simple.”
+
+With everyone at their feet, they began their walk, punching deep into the bedrock beneath the Crater. The tunnel dipped slowly down, flat and straight, before ending in a sharp curve a bit less than a quarter league ahead of them.
+
+They talked in hushed whispers, their excitement stifled by the roar of water, and the unavoidable air of reverence. It lay heavy on the cool wind that washed over Kaius’s face, rich in power and ancient magic. A fossil, warped by the coming of the System. It even tasted strange — an electric tang on his tongue.
+
+Eventually, they turned the final bend, and stopped as a group to gape in awe. The tunnel ended in an open air staircase that had been carved into the side of an immense cavern, easily a half-league across and hundreds of strides tall. Far below them, the floor was covered in a finger-width of water that blazed with a pure, white light. It rippled, throwing dancing shadows off the dripping stalactites on the ceiling far above.
+
+The source of the motion was obvious. A fifty stride wide hole punched deep into the centre of the cavern, visible even through the glow of the waters that surged out from its depths. A roiling spring, bubbling intensely with movement — and magic. For the Wellspring was not just a common font. Mana itself screamed free in an endless torrent, searing his eyes with its intensity before it slowly dimmed the further it got from the central pit.
+
+“The Wellspring of Ceth’n,” Kanmost whispered, staring down at it in awe.
+
+“Let’s go,” Julian said, jogging down the stairs as if he was worried the entire thing would vanish before his very eyes.
+
+They reached the bottom of the stairs, splashing into the shallow puddle that swallowed the base of the cavern. It soaked Kaius’s boots in an instant, frigid in its disregard of the magic and mundane weatherproofing, clinging to his skin like winter gusts that would roll off the Wildguard mountains above his old home when the wind blew east.
+
+The sting of it made Kaius grin. He couldn’t help it — this was exciting. Carried by the moment, he ran for the centre of the cavern alongside the rest of their group. By the time they were half way, he was soaked from the chest down due to the splashing.
+
+A hundred strides later, the ground rumbled. The motion kicked Kanmost’s feet out from under him, nearly sending him face first into the water before Porkchop caught him by the chest with a single paw.
+
+“Easy.”
+
+“My thanks,” Kanmost said, brushing himself off. “What was that?”
+
+“Hopefully nothing,” Kaius said. He met Kenva and Ianmus' eyes, motioning them to fall further back with Kanmost. “Just in case,” he added silently through their rings.
+
+“One can hope,” Ianmus said, solar magic spiralling out of the tip of his staff.
+
+Julian and his men had already drawn their swords and shields, eying the Wellspring warily. Kaius was already resigned to their fate. Sliding A Father’s Gift from his scabbard, he sighed and patted Porkchop on the shoulder.
+
+“Come on, big guy, let’s go see what wants to eat us this time.”
+
+Porkchop let out a full throated chuckle. His armour snapped into place around him, popping as it displaced the water around his feet.
+
+“I pray you are wrong,” Julian muttered, falling in behind them as they pushed past.
+
+Edging closer, another rumble rocked the cavern. It was stronger this time — kicking up a spray from the mana rich spring at the centre. Kaius felt the weight of his burning glyphs, ready to call on a spell at a moment’s notice.
+
+A long familiar tension built in his chest with every step. He could see no obvious dangers, not even with Sergeant’s Insight guiding him, but he trusted his gut. Something was coming.
+
+The Wellspring erupted, a monstrous blue serpent roaring as it rose out of the watery depths. Kaius leapt into a guard, tracking its motion as the lords behind him cursed in shock. The thing wasn’t striking. Yet. He’d known there was no way a place like this was undefended! Kanmost must have been wrong about the guardian.
+
+It was immense,rearing nine strides upwards,, with a head unlike anything he had ever seen. Hard ridges of bone shielded its brow, rising into ridges that sprouted a crown of needle-sharp horns, while its snout was closer to a lion's than a viper's. Hells, the thing even had tendril-like whiskers: meaty, scaled things that drooped down for a full stride.
+
+The creature had a Silver aura — though one that shone stronger than anything he had seen before, denser than even Guilewind’s Platinum one. A blessing from the Wellspring? No matter. It could die.
+
+He reached for Spear of Nectus.
+
+“Don’t!” Porkchop roared in his mind.
+
+“What?!” Kaius said in shock —  only to see Porkchop frozen, watching the beast cautiously.
+
+“It’s a fucking dragon, Kaius.”
+
+His mouth went dry at the same moment someone behind him sucked in a sharp breath. A fucking dragon? Tightening his grip on his blade, he found himself drawn to the creature's gaze. Its eyes burned with vicious delight.
+
+“Visitors? How…delectable,” a foreign, basso voice rasped in his mind.
+
+Hells. He analysed the creature.
+
+Deep Wyrm - Level 214
+
+Greater Beast, Draconic, Magical, Mage

@@ -1,0 +1,41 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const cursedDrawDeckBuildingLitrpg = {
+  id: "01a16b2c-928a-79f9-b202-c48b34cd35a0",
+  type: "page-type/story-read",
+  slug: "cursed-draw-deck-building-litrpg",
+  author: "Lonjanis",
+  following: false,
+  unit: "unit/words",
+  title: "Cursed Draw [Deck Building LITRPG]",
+  world: "world/cursed-draw-deck-building-litrpg",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "94698",
+      externalLink: "https://www.royalroad.com/fiction/94698/cursed-draw-deck-building-litrpg",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Progression",
+    "Strategy",
+    "Cultivation",
+    "Comedy",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Deck Building",
+    "GameLit",
+    "High Fantasy",
+    "Magic",
+    "Male Lead",
+    "Multiple Lead Characters",
+    "Mythos",
+    "Strong Lead",
+  ],
+  readLater: true,
+  createdAt: "2026-10-23T23:50:45.642Z",
+  updatedAt: "2026-10-23T23:50:45.642Z",
+} as const satisfies StoryRead
