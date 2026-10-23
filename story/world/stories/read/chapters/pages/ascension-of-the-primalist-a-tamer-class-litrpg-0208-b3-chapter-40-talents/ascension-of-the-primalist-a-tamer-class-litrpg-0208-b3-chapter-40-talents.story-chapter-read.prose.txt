@@ -1,0 +1,439 @@
+Seth sat atop a rock overlooking the barren landscape of the Warfare Rift, silently surveying the desolation stretching across the battlefield.
+
+He couldn't remember if this was the fifteenth Rift he had entered—or the twentieth.
+
+The battles had long since blurred together into an endless cycle of blood and despair.
+
+He did know one thing for certain, however: this marked the third one-hundred-versus-one-hundred engagement so far.
+
+Those larger-scale battles had been more annoying than the usual ones. They took far too long, forcing him to spend hours hunting down fleeing survivors and crushing isolated pockets of resistance.
+
+And unfortunately, the Empress still hadn't deployed Jaz of Ryswell or Celess of Solaria against him.
+
+She was probably trying to preserve what little morale her army still possessed. If Seth killed either of those high-profile soldiers, he had no doubt the Empire's confidence would collapse completely.
+
+Above the battlefield, the Spirit announced the absolute end of the engagement only seconds after Nightmare tore out the throat of the final imperial soldier.
+
+"This concludes the battle. Winner: Kingdom of Kastal. The Warfare Rift will close in thirty minutes."
+
+The two doppelgängers flanking the direwolf dissolved into drifting wisps of grey smoke.
+
+Nightmare staggered forward, exhausted.
+
+The direwolf looked utterly drained, legs trembling beneath him as he barely remained standing atop the blood-soaked earth. Seth shot him a judgmental glance. His partner had brought the exhaustion upon himself by recklessly unleashing his new technique without properly accounting for the massive consumption of aether.
+
+Shaking his head, Seth used Intermediate Identify on the direwolf.
+
+Nightmare (Duskbound Direwolf)
+
+Potential: Gold Tier
+
+Rank: 60 (Peak-Iron)
+
+Affinity: Darkness
+
+Bonded to [Seth]
+
+[...]
+
+Strength: 147 (140+7)
+
+Arcane Power: 191 (147+44)
+
+Toughness: 105 (97+8)
+
+Well Capacity: 86
+
+Agility: 189 (145+44)
+
+Regeneration: 85
+
+Spells:
+
+- Twin Mirages [Gold〜Legendary (Crude)]
+
+- Dreadful Shroud [Silver〜Epic+ (Crude)]
+
+- Illusionary Emptiness [Silver〜Epic (Standard)]
+
+- Shadow Step [Silver〜Epic (Standard)]
+
+- Predator Hunt [Silver〜Epic (Standard)]
+
+- Danger Sense [Silver〜Rare (Refined)]
+
+- Gloom Fangs [Silver〜Rare (Standard)]
+
+- Chains of Darkness [Iron〜Epic (Flawless)]
+
+- Projects an aura of fear in a 20-yard radius.
+
+- Reduces the attributes of enemies within the area by 5% + 5% (total 10%).
+
+- Immobilize the target for a duration that varies according to their mental fortitude.
+
+- Potency and radius increase according to spell quality, Arcane Power, and Darkness affinity.
+
+- Consumes 40 uniums per minute.
+
+- Cooldown: none
+
+- Summons two physical doppelgängers of shadow.
+
+- Each one possesses 55% + 15% (total 70%) of the Strength and Agility, and 20% + 20% (total 40%) of the Toughness of the owner.
+
+- Doppelgänger cannot use spells.
+
+- Potency and duration increase according to spell quality, Arcane Power, and Darkness affinity.
+
+- Duration: 33 seconds
+
+- Consumes 300 uniums
+
+- Cooldown: 20 minutes.
+
+The aether cost made it simply impossible for the direwolf to cast the Gold-Tiered spell twice if his new Legendary Seed somehow reset the cooldown. Eighty-six points in Well Capacity, with six uniums per point, just wasn't enough.
+
+A reduced-consumption effect would've been more useful, Seth thought while studying the direwolf's aether attunement and Seeds.
+
+Sensing: Mid-Silver
+
+Manipulation: Mid-Silver
+
+Affinity: - Darkness ~ Peak-Silver
+
+Seeds:
+
+- Scale of the Night Serpent [Copper ~ Epic]
+
+- Drop of Liquified Shadow Crystal [Iron ~ Epic]
+
+- Shard of Endless Night [Iron ~ Legendary]
+
+- Increases Toughness by 8.
+
+- Increases Strength by 5%.
+
+- Increases Agility by 5%.
+
+- Reduces the cooldown of Dark spells by 28%.
+
+- Increases the potency of all Darkness-affinity spells by 20% Arcane Power.
+
+- Boosts Arcane Power by 15%.
+
+- Increases Agility by 25%.
+
+- Increases Arcane Power by 15%.
+
+- Grant a 30% chance of resetting the cooldown of any Dark spell on cast.
+
+Seth approached Nightmare while steadily funneling his own aether through Link to replenish the direwolf's nearly empty Well. Colossus lumbered behind him, and Lumi drifted around in slow circles of cyan light.
+
+Out of habit, Seth cast Intermediate Identify on his two other companions.
+
+Colossus (Young Three-Tailed Giant Scorpion)
+
+Potential: Gold Tier
+
+Rank: 57 (High-Iron)
+
+Affinity: Earth / Poison
+
+Bonded to [Seth]
+
+[...]
+
+Strength: 87
+
+Arcane Power: 107
+
+Toughness: 250 (168+63+19)
+
+Well Capacity: 128
+
+Agility: 82
+
+Regeneration: 93
+
+Spells:
+
+- Mountainborn Exoskeleton [Gold〜Legendary (Crude)]
+
+- Sandstorm Dome [Gold〜Epic (Crude)]
+
+- Desert Aegis [Silver〜Epic (Standard)]
+
+- Explosive Bastion [Iron | Silver〜Epic (Decent)]
+
+- Chitinous Taunt [Silver〜Rare (Standard)]
+
+- Deathcoil Venom [Silver〜Rare (Decent)]
+
+- Quartz Armor [Iron〜Rare (Flawless)]
+
+- Scorpion Charge [Iron〜Rare (Exceptional)]
+
+Luminous Otter
+
+Potential: Gold Tier
+
+Rank: 34 (Low-Iron)
+
+Affinity: Light
+
+Strength: 20
+
+Arcane Power: 76
+
+Toughness: 42
+
+Well Capacity: 101
+
+Agility: 74
+
+Regeneration: 123
+
+The fights had begun to resemble hunting low-Rank arcane beasts, meaning they offered absolutely no threat to the four of them. Throughout the last several battles, Lumi had been the only one gaining more than the occasionally one or two attribute points.
+
+Across the valley, Kastal soldiers moved between the corpses, stripping Endless Pouches from belts and salvaging enchanted equipment from the soldiers of the Empire. Every so often, a few of them would cast a nervous glance toward Seth as he deactivated his Distortion Rod to recall all three of his companions back into the teardrop domains of his necklace.
+
+Recognition and respect shone in their eyes.
+
+But both emotions remained buried beneath something far more potent: fear.
+
+They carried themselves like scavengers harvesting resources within the territory of an apex predator, moving in a hurried rush after the beast had granted them its silent permission and settled back to watch them work.
+
+And if Seth were to be honest, they weren't wrong.
+
+Deep within his chest, his core pulsed with a slow, steady rhythm.
+
+The chained energy that had once thrashed violently beside it had vanished completely during the rescue of Henry and the others—yet its power wasn't gone. Quite the opposite.
+
+Now, Seth could feel it wrapped around his entire Well. The omnipresent force had woven itself directly into his body and the fabric of his very existence.
+
+The transformation made perfect sense now that he knew the energy had always been tied to—or perhaps entirely responsible for—his Talents.
+
+Seth lowered his gaze to his bloodstained hand before casting Intermediate Identify on himself.
+
+Seth
+
+Class: Primalist
+
+Rank: 58 (High-Iron)
+
+Subclass: Beastmaster
+
+Core: Predator Instinct
+
+[...]
+
+Strength: 150 (126+23+1)
+
+Arcane Power: 151 (118+25+8)
+
+Toughness: 149 (117+27+5)
+
+Well Capacity: 109 (88+21)
+
+Agility: 169 (136+23+10)
+
+Regeneration: 136 (92+18+26)
+
+Spells:
+
+- Link [???〜??? (???)]
+
+- Share [???〜??? (???)]
+
+- Aura of Insatiable Hunger [???〜 ??? (Unique)]
+
+- Ravenous Arrow [Iron | Silver〜Legendary (Crude)]
+
+- Dusk Scythes [Iron | Silver〜Epic+ (Standard)]
+
+- Armored Phantom Fists [Iron〜Legendary+ (Refined)]
+
+- Beastmaster Rage [Iron〜Epic+ (Flawless)]
+
+- Huntbound Overflow [Iron〜Epic (Flawless)]
+
+- Night Veil [Iron〜Epic (Exceptional)]
+
+[...]
+
+Seth barely glanced at his attribute numbers and instead focused on the three glowing dots above his Arcane Power stat.
+
+Sensing: Peak-Iron
+
+Manipulation: Peak-Iron
+
+Affinity:
+
+- Null ~ High-Iron
+
+- Darkness ~ Low-Silver
+
+- Earth Peak-Iron
+
+- Poison Low-Iron
+
+Talents:
+
+- Will of the Defiers
+
+- Alpha's Resonance
+
+Seeds:
+
+- Alpha's Resonance
+
+*Nightmare (Duskbound Direwolf)
+
+*Colossus (Three-Tailed Giant Scorpion)
+
+- Petrified Tree Sap [Iron 〜 ???]
+
+Ever since the chains restraining the mysterious energy had shattered, two Talents had appeared in his status window. If Seth had to guess, one had likely come from his mother and the other from his father—assuming Talents were inherited.
+
+Will of the Defiers and Alpha's Resonance.
+
+From the names alone, Seth supposed the first one was likely responsible for his unnatural ability to elevate the quality of his spells with ease and push them to evolve beyond their normal limits.
+
+The second Talent, meanwhile, had probably been the source of the partial bonuses he received from Nightmare's and Colossus' Seeds. At first, Seth had assumed those effects came from Link itself, but it had now become obvious he'd been mistaken.
+
+And to his delight, now that the restriction had been lifted with the shatter of the chains in his chest, he was finally receiving a quarter of the benefits from each of Nightmare's Seeds.
+
+Nightmare (Duskbound Direwolf):
+
+- Boosts Arcane Power by 7.5%.
+
+- Boosts Agility by 7.5%.
+
+- Boosts Strength by 1.25%.
+
+- Boosts Toughness by 2.
+
+- Reduces the cooldown of Dark spells by 7%.
+
+- Increases the potency of all Darkness-affinity spells by 5% Arcane Power.
+
+- Grant a 7.5% chance of resetting the cooldown of any Dark spell on cast.
+
+Colossus (Three-Tailed Giant Scorpion)
+
+- Boosts Toughness by 3%.
+
+- Increases the potency of all Earth-affinity spells by 2% Toughness.
+
+- Grants 15% resistance to immobilizing, stunning, or slowing effects.
+
+The resulting stat injections provided a significant boost to his baseline attributes, pushing his overall capabilities to nearly thirty percent beyond those of an ordinary Peak-Iron. Yet despite the staggering gain, Seth still felt that Will of the Defiers was something far more special.
+
+After all, the Talent had altered his core itself.
+
+Warping and reshaping Kreytorus' Legacy—a power that could drive entire nations into war—was no ordinary feat.
+
+Seth shifted his focus back to his primary attribute sheet, and his eyes locked onto the new name displayed next to core.
+
+Predator Instinct.
+
+The difference between this and Feral Instincts had been difficult to grasp during the recent battles.
+
+Aside from the same hyper-enhanced senses granted by its predecessor, the new trait carried something far more savage buried beneath it.
+
+Something that wanted him to tear apart every obstacle standing in his path and grind his enemies beneath his feet until nothing remained.
+
+And that was exactly what Seth had spent the last half-day doing—and what he intended to continue doing until the Iron phase of the war finally came to an end.
+
+Seth pushed himself off the rock and rose to his feet before mentally scanning the grooves inside his Well.
+
+Beastmaster Rage was the sole spell on cooldown, and it would be ready again in less than an hour.
+
+There was no reason to take a break. He could step straight into another Warfare Rift if one were available when he got out.
+
+Fighting without ever stopping was the only thing Seth could do to make a difference. So, he intended to continue slaughtering every soldier of the Empire he could until the sheer amount of death shattered whatever remained of their morale.
+
+His gaze swept coldly across the fresh sea of bodies littering the hillside.
+
+Ever since his battle against Morsh, Seth had used the Seed Extractor on every opponent who seemed stronger than usual.
+
+Yet not one had yielded a single Seed.
+
+The Empress had obviously issued an order to her officer corps. The moment Seth approached an active Rift, he assumed anyone carrying a valuable Seed was instructed to retreat from the deployment line.
+
+Cowards.
+
+Seth reached into his pouch and pulled out an Escape Scroll.
+
+Without waiting any longer, he infused aether into the parchment and vanished into the light, leaving the surviving Kastal soldiers behind to harvest the spoils of the dead.
+
+Seth appeared in the middle of the plain, the harsh sunlight washing over him as his gaze swept across the neutral zone.
+
+To his satisfaction, another Rift seemed to have just opened a few dozen feet away.
+
+Two fifty-man squads stood facing each other on opposite sides of the shimmering portal, tension thick in the air. Both forces were clearly getting ready to enter the battlefield.
+
+Yet before Seth could start walking toward the gateway, he noticed a group of people approaching him from the Kastal side.
+
+At the front stood Director Ryehill alongside Director Cranner—the same arrogant bastard who had spent the pre-war skirmishes in Oskon acting as though everyone beneath him was worthless.
+
+"It's time to put an end to this nonsense!" Cranner barked.
+
+"No!" Ryehill snapped back while grabbing the man's arm before he could advance further. "He's practically turning the entire war around by himself!"
+
+"But he's making every other soldier look like a weak coward hiding behind him!" Cranner roared.
+
+The Director violently yanked himself free from Ryehill's grip, but before he could take another step forward, a third figure moved in from behind.
+
+Marshal Vancaws.
+
+The old man wore a cold smile across his weathered features as he calmly placed a hand on Cranner's shoulder.
+
+"No," the Marshal said. "This is currently the best possible direction for Kastal." His gaze shifted toward Seth. "Every time he enters one of those Rifts, the Empire's morale crumbles a little more."
+
+"But his recklessness has completely destroyed our squads' coordination!" Cranner retorted with a gesture toward the soldiers waiting near the portal. "Normal formations can't function properly with a wild card like him disrupting everything!"
+
+The Marshal let out a mocking chuckle. "Do you truly want us to ask them which they'd prefer?" he said. "We can let the soldiers decide for themselves right now. They can either march in there and die following your precious formations and strategies"—then he pointed directly at Seth—" or they can let him butcher the Empire's soldiers for them."
+
+Seth nearly scoffed at the exchange. The Marshal wasn't wrong.
+
+Though Seth knew the old man's motivations weren't exactly pure either. Vancaws was probably ecstatic because Seth's absurd contribution count had guaranteed him a valuable Legacy through his agreement with King Theron.
+
+Letting the argument fade into the background, Seth looked past the two Directors and the Marshal and spotted Sergeant Tirus and Captain Michaelson standing just behind them, both watching him.
+
+The pair wore strange, conflicted expressions. Their mouths were drawn tight, and something heavy lingered behind their eyes.
+
+Disappointment.
+
+As if the endless bringer of slaughter Seth had become represented something deeply wrong to them.
+
+Seth looked away without saying a word.
+
+They simply lacked the stomach to do what was necessary to survive this war. He didn't.
+
+Across the plain, the formation of fifty imperial soldiers began marching toward a newly stabilized Rift portal. The heavy rhythm of armored boots echoed steadily across the battlefield.
+
+Seth didn't waste a single second. He turned toward the gateway and started walking toward it with slow, deliberate strides, each step leaving a faint trail of blood from his previous battle behind him.
+
+An immediate stir rippled through the Empire's side of the battlefield.
+
+Thousands of eyes snapped toward Seth.
+
+Within the marching formation, several Vanguard infantrymen faltered mid-step. A few even instinctively stumbled backward, their heads whipping toward the rear lines as panic crossed their faces.
+
+Some looked moments away from abandoning their weapons entirely and fleeing the staging grounds.
+
+Then the Empress rose from her throne.
+
+The movement alone sent a suffocating tension through the imperial ranks.
+
+Her knuckles whitened as she glared down at the wavering members of the squad, fury burning in her eyes.
+
+At this point, she looked ready to kill her own soldiers before letting them retreat.
+
+Several of the terrified infantrymen visibly gulped before forcing themselves to turn back toward the portal and resume their march with rigid and unnatural steps.
+
+Seth watched the trembling line of imperial soldiers in silence while approaching the portal himself.
+
+Soon, he thought as his golden eyes locked onto the Empress. Soon, they'll fear me more than they fear her.
