@@ -1,0 +1,115 @@
+The screech echoed through the cavern, serving as a signal for the remaining thralls. Their cloaks flapped as three of them took a step forward, revealing their clawed hands from beneath their robes.
+
+In response, I wasted no time. Dashing forward, I closed the distance with them, aiming for the nearest one. My sword cut through its torso diagonally, slicing deep into flesh. The thrall let out a wet gurgle before collapsing, its lifeless body slumping onto the stone floor.
+
+You have hunted [Abyssal Thrall Lv.13].
+
+You have gained 13 EXP.
+
+Three left.
+
+The remaining thralls didn't flinch at their fallen comrade. One of them suddenly raised its hand, fingers curling as a faint, dark mist swirled around its palm. Tch, magic. Considering that they were physically weak, it was only natural that they could use magic.
+
+A magic circle flared beneath my feet, and in an instant, black chains erupted from the ground, wrapping tightly around my legs.
+
+You have been afflicted with {Abyssal Restraint}, and your movement has been restricted.
+
+I clenched my fists, trying to jerk free, but the chains tightened, refusing to budge. Damn it.
+
+Another thrall took action as a swirling abyssal flame formed in its palm. The eerie black fire flickered unnaturally, distorting the air around it. With a flick of its wrist, the thrall hurled the fireball straight at me.
+
+I could only watch as it closed in.
+
+Not good.
+
+With no other choice, I took out the only thing that could protect me—the old tome. The abyssal fireball crashed against it, the impact sending a wave of heat against my fingers. A sharp sting ran through my skin, but the flames were completely extinguished, leaving only a faint scorch mark on the book’s cover. This tome’s durability was incredible, as it could withstand even magic.
+
+Still, there was a bigger problem. I could see the other thrall already preparing another spell. Not letting that happen, I hurled my sword straight at the one that had restrained me. The blade spun through the air before piercing clean through its hooded face. The thrall barely had time to react before it collapsed lifelessly.
+
+You have hunted [Abyssal Thrall Lv.14].
+
+You have gained 14 EXP.
+
+Subsequently, I felt the binding spell weaken. Taking advantage of the moment, I pulled out the steel spear from my inventory and jammed its edge between the chains, using the leverage to pry them apart. The black chains resisted at first, but they quickly snapped and dissipated into wisps of dark mist.
+
+Once I was free, I summoned all my strength, gripping my spear tightly as I closed the distance between me and the spell-casting thrall. It barely had time to react before I drove the spear forward, plunging the tip straight into its chest, causing the thrall to let out a raspy hiss while clawing weakly at the weapon impaling it.
+
+But I wasn’t done yet.
+
+Bracing my foot against the ground, I twisted the spear violently before ripping it free, sending a spray of thick black liquid splattering across the cavern floor. The thrall staggered back, twitching, but it refused to fall. Quickly, I adjusted my grip and swung the spear in a powerful diagonal arc, slicing cleanly across its torso, killing it as it spasmed before going still.
+
+You have hunted [Abyssal Thrall Lv.16].
+
+You have gained 16 EXP.
+
+Finally, there was only one left.
+
+I turned to face the last thrall, and it seemed to have realized the predicament it was in. Without hesitation, it turned on its heels and attempted to flee, retreating deeper into the cavern. I narrowed my eyes, noting the direction it was heading for a few seconds before taking off after it.
+
+Thanks to my improved speed, I closed the gap quickly. The moment I got within striking range, I drove my spear into its back. The blade pierced through its body with ease, forcing a garbled shriek from the creature’s throat as it staggered. I pushed deeper, forcing the thrall to the ground. It twitched violently, clawing at the stone floor in a desperate attempt to crawl away, but it was all futile.
+
+You have hunted [Abyssal Thrall Lv.14].
+
+You have gained 14 EXP.
+
+Your Stamina has increased by 1.
+
+Exhaling lightly, I pulled the spear free and took a step back. Fighting six of them at once had been dangerous, and if it weren’t for the surprise attack, I wasn’t sure how it would have played out. Thankfully, these enemies had weak bodies, so killing them wasn’t difficult—it was just a matter of avoiding their spells and attacks.
+
+I took a moment to catch my breath, scanning the area. These thralls must have been stationed here to guard the entrance to the tunnel, which meant that the camp had to be deeper inside. But more importantly…
+
+Although their cloaks didn’t provide any stat bonuses, they would still be worth something if sold for soul coins. More useful, however, was the stick with the glowing stone attached to it—it could function as a makeshift flashlight in the darkness, which might come in handy.
+
+Once I was done looting, I switched to my sword again and stored the spear in my inventory. “All right. Time to find their camp.”
+
+With that, I turned toward the camp’s supposed direction and pressed deeper, using one of the glowing stones to illuminate the cavern. The deeper I ventured, the thicker the stench of damp earth, rot, and something else—something unnatural—became. Then, as I stepped into a vast cavern that opened into a sprawling underground chamber, I halted.
+
+A large thrall encampment spread across the cavern floor. Dozens of figures in tattered cloaks shuffled about, some gathered in small groups whispering in their strange tongue, while others tended to crude wooden altars, atop which sat obsidian statues of an eldritch being, with the largest one at the center of the camp. The glow of scattered luminous stones bathed the place in a dim, eerie light.
+
+I tucked the glowing stone back into my inventory and continued observing the camp from a safe distance. Clearly, this was far more than I could handle in a direct confrontation. Even if I assigned all of my unspent attribute points, there were simply too many of them.
+
+And worse…
+
+Near the center of the camp, I spotted several towering figures, distinct from the others. Their cloaks were adorned with strange symbols and patterns, and from what little I could see beneath their hoods, their tentacle-covered faces were more pronounced and far more ominous.
+
+[Abyssal Acolyte – Lv.23]
+
+A thrall that has begun its transformation into a higher being. Stronger, faster, and capable of more advanced abyssal magic. They serve as priests of the eldritch faith, spreading its influence.
+
+Threat Level: High
+
+[Abyssal Brute – Lv.26]
+
+A monstrous thrall whose body has been warped through abyssal mutation, resulting in enhanced strength and durability. Although it lacks magical abilities, its raw physical power compensates for it.
+
+Threat Level: Very High
+
+Tch. Bet-rank monsters. It was alarming to find enemies of this caliber gathered in one place. Furthermore, the System had issued a threat level warning, something that usually only happened when the difference in power was significant.
+
+That confirmed it—if I charged in recklessly, I would die.
+
+I closed my eyes, trying to calm my mind. Actually, if powerful enemies were concentrated here, it also meant that the secret of this scenario was likely hidden within this camp. And if I wanted to obtain a unique class, I had to fulfill one of the criteria for class advancement without changing my current class. More than that… if I wanted to obtain the strongest class possible… My gaze glanced toward the obsidian statue standing ominously at the center of the camp, with a faint smile tugging on my lips.
+
+I had to obtain divine power, which was the power of faith.
+
+That aside, if a frontal assault wasn’t an option, I’d just have to take a different approach. I scanned the camp again, looking for anything that could be exploited. Unfortunately, despite the luminous stones illuminating the area, it was difficult to see the finer details from this distance. But then I noticed something.
+
+There was a water collection system beside the camp, near the cavern’s wall. Wooden channels had been carved into the rock, directing water from an underground stream into makeshift basins. The thralls used it to drink, clean, and likely for their rituals. It was then that a plan formed in my mind.
+
+The blood of the mutant rats I had slain earlier was highly toxic. If their meat could kill in under a minute, then their blood might be just as deadly—or at the very least, enough to poison and weaken them before I struck.
+
+I smirked. If I couldn’t take them all in a fight, I’d make them too weak to fight back.
+
+With that in mind, I backtracked through the tunnels to hunt even more rats. The six corpses from my first battle weren’t enough—I needed more. Fortunately, I managed to find another group of them sooner than expected.
+
+Once I had about a dozen, I made my way to a higher point in the cavern where the stream originated before using my sword to slice deep into their bodies, letting their toxic blood drain into the flowing water. The dark red liquid mixed with the stream, carried effortlessly by the current toward the thralls’ camp. To maximize the effect, I tossed the rats’ corpses into the water as well. The more contamination, the better.
+
+“Actually…” I took out the stolen wooden mug from the inn and filled it with the rat’s blood before putting it back into the inventory and tossing the body into the water. I had a hunch that this could be useful soon.
+
+Now, all I had to do was wait.
+
+I returned to my vantage point, settling into a secluded spot where I could oversee the camp without being seen while biting on a beef jerky—a provision I’d prepared beforehand. Of course, I made sure to clean my hands beforehand with uncontaminated water so that I wouldn’t be poisoned from the rat’s blood. That would be beyond stupid.
+
+Even though it had only been at most two hours since I had entered this scenario, I could feel fatigue creeping in. A short rest wouldn’t hurt. This was also a good opportunity to observe their rituals and gather clues about the cause of the horde in the city, which I needed to fulfill the third extra condition.
+
+Just as I placed down a sleeping mat from my inventory and was about to relax, I noticed something shocking. The thralls had begun their ritual… and what I saw left me frozen in place.
