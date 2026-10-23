@@ -1,0 +1,119 @@
+13 - Turn Back Time
+
+As Joe looked at the woman being led across the town green by Rhiley, he noticed he could see an aura around her. It was a gray aura with dark red areas around her joints. He looked at Rhiley and found his aura was a bright blue. Spinning his head to the trio of ladies, he saw they also had auras. Most were a pale blue, but the eldest, the faun, also had a red to pink around the knuckles of her hands.
+
+Seesae Skipheel: Saytr: Baker 9
+
+Your skill [Assess Wounds] has increased to rank 2.
+
+The aura sight was from his newest skill: [Assess Wounds].
+
+‘Arthritis,’ Joe wondered, looking at the joints of both women.
+
+If so, that would mean the red was an indication of pain or injury. Blue must mean health. The brightness of Rhiley's aura suggested a robust health, whereas the pale blue of the older women suggested a lesser degree of health.
+
+The woman, all shrouded in gray, must really not be doing well. She was clearly even older than Seesae.
+
+Madina Spooner: Human: Cobbler/Ratcatcher 11
+
+Your skill [Identify] has increased to rank 4.
+
+She appeared to be in her seventies, and even with both a cane and a great deal of assistance from the farm boy, her gait was slow and unsteady.
+
+“Greetings, ma’am. How can I help you?” Joe asked.
+
+“Just my rheumatism. Ain’t nothing to be done for it. I’m old, and I know it.”
+
+“You should let him try, Missus Spooner,” Rhiley interjected. “He’s really good at fixing folks.”
+
+“So ya keep saying, but old bones are old bones. They ain’t something ya heal.”
+
+“Actually, I’m not so sure about that. All those painful joints look like damage to me, and damage is what my spells work on. Would you mind if I tried?” Joe offered. “It won’t cost you anything if it doesn’t work. Honestly, it won’t cost you anything if it does, either. It’s up to you if you want to pay. Today, I am helping out anyone who wants it, whether I get paid or not.”
+
+“That is very nice of you, young man. Very well. Let’s see what you can do. I already walked all the way over here thanks to your insistent young helper here,” she replied, giving Rhiley a pat on the shoulder.
+
+She settled down on the log in front of him, leaning her cane against the seat. Joe inched his stool closer before reaching out and casting his basic healing spell.
+
+This time, it was significantly easier for him to engage his healing magic. Until now, he had been trying to guess where to apply the energy and trying to picture in his head what he wanted to happen. With [Assess Wounds], he could now see right where his magic needed to go. He could watch the aura shift colors, which further helped him direct the healing.
+
+You have restored 14 points of Madina Spooner’s health. Her current health is at 68%.
+
+Your skill [Assess Wounds] has increased to rank 3.
+
+Joe could see the gray aura around Madina start to gain a hint of blue as a small smile crinkled the edges of her mouth.
+
+You have restored 14 points of Madina Spooner’s health. Her current health is at 81%.
+
+You have restored 14 points of Madina Spooner’s health. Her current health is at 94%.
+
+Your skill [Healing Touch] has increased to rank 7.
+
+Just for good measure, Joe topped her health pool off.
+
+You have restored 7 points of Madina Spooner’s health. Her current health is at 100%.
+
+The woman in front of him seemed wholly transformed. She sat up straight, looking at Joe with bright eyes. There was no trembling or crookedness to her hands. Her aura glowed a healthy blue. It was still a light blue compared to Rhiley’s aura, but it was definitely blue.
+
+Joe sensed Madina still had some lingering stiffness even though he had healed her to full health. It seemed that not all of the body’s damage vanished under his spell immediately. It had to work through the retreating harm organically, which took a bit more time.
+
+“Well, I’ll be,” she exclaimed, rising to her feet and drawing Joe up with her. “I have not felt this good since before you were born, son. I can’t believe it.”
+
+Joe found himself enveloped in a bony but fierce hug. From behind his back, he heard the trio of women clapping for Madina.
+
+“This is a gift, my boy. A beautiful one. You are truly blessed to be able to give it,” she muttered in his ear.
+
+Looking spry and elated, she released the embrace and stepped back, her face taking on a very determined look. “Come, walk me home. I have something for you.” She laid her hand over Joe’s arm and gave him a tug back in the direction she came from.
+
+When she first crossed the green to him, Madina was leaning heavily on Rhiley. Now, her grip on Joe’s arm was light, just enough to steady her in case she tripped.
+
+Rhiley trotted up next to Joe. “While you go do that, I’m going to head to Mister Tienker’s. He lives right over there,” the boy stated, pointing at a house down one of the lanes off the village square. “He’ll probably have me muck out his henhouse,” he added, looking less than thrilled by the idea. “I’ll find you in an hour or so.”
+
+“Ok. See you soon, Rhy.”
+
+The farm boy headed off in the direction he indicated while Joe walked Madina back to her home.
+
+“You could make an awful lot of goodwill with your ministrations, young man. Just to give you a word of caution. You should make sure to get yerself square with Lord Amberwroth and maybe even the Eldauk clan. The Baron collects his due from any business that operates in Crowfield. Not actually charging folks was a clever idea. He will have a hard time taxing gifts offered freely.”
+
+“It wasn’t really a plan to dodge taxes. I have only been in Illuminaria for less than a day. Neither Rhiley nor I had any idea what to charge, so we decided to let people pay me what they thought was fair.”
+
+“Well, then, you were inadvertently clever. Amberwroth shouldn’t have much of a leg to lean on, but that don’t mean he won’t try. You keep building goodwill. If and when he sends that thug of his, Sir Groven, you just mind yer manners. They’re a prickly pair.”
+
+Reaching her front porch, Madina continued to advise Joe. “As for Gurda and her boys, they are good people, but Gurda sure hates to see gold slip into anyone else’s pockets when she thinks she can get a cut of it. Ya might want to drop her an extra coin or two early on. You’ll find a few drops of honey now, will save ya in the long run. Gurda has a long memory. If you plan on being in Crowfield for any length of time, you’ll find out how being on her good side can pay off.
+
+“Now sit yerself. I’ll grab ya a slice of pie. I may need a minute to find what I wanted to give ya.”
+
+After about twenty minutes of Madina rummaging around in cabinets and drawers, she finally exclaimed, “There ya are.” She lifted a very ordinary-looking gray stone out of the drawer. It appeared to be a typical beach stone, a smooth, flat oval, about an inch and a half long and less than an inch tall. When she brought it closer, Joe could see that a spiral of tiny runes had been carved onto the top of the rock.
+
+“This be my [Slow Stone]. One of my nephews is crafty with earth magics, and he made this for me during one season when we had a terrible year with rats. Them varmints got into everything. I used to be a damn good throw in my younger days. How it works is ya concentrate on a target, then toss the stone next to it while ye whisper the command word,” she said, pantomiming tossing the rock. “The word is ‘Udaan.’ I think it means slow in the language of stone and earth,”
+
+Handing him the enchanted stone, she added, “If the stone hits, or even lands within a few inches of the critter, the rock slows it way down. Moves as if they were swimming through molasses. Now, the bigger the target, the shorter it gets slowed for. For a rat, ye got all the time in the world ta trap it. I once held a dog in slow for a couple a minutes. Ye’d only get a few seconds fer a person and maybe a blink for something bigger.”
+
+“How do you recharge it?” Joe asked as he flipped the stone over in his grasp.
+
+“It be earth magic. Bury it for a couple of hours, and it will fill its mana back up.” Madina took his pie plate and placed it in the sink. When she turned back, she added, “Unless you got a good Earth affinity, then you should just be able to fill it with your mana.”
+
+“That is on my to-do list. Find out what affinities I’m good at,” Joe admitted.
+
+“We ain’t had an aura-reader in town since Kardie Murman passed away in ‘63. Boyd Elmut, the hedgemage, could do it for ya for pretty cheap, but he left last week. Won’t be back for a while.” She sat down next to Joe, looking at the stone she had handed to him. “Why not give it a shot? You can learn if ya got one affinity strength now. After sitting around for years in my junk drawer, I’m sure it’s empty. Just think of yer mana going into it.”
+
+Not seeing any reason not to, Joe tried to do just that. Similar to how he pushed his healing magic into a body, Joe imagined doing the same with his raw mana. It was surprisingly easy. In a matter of seconds, almost his entire mana pool had vanished into the small rock. Joe had to clip off the flow quickly so as not to drain his last point.
+
+Of course, the speedy mana drain sent a spike of pain erupting from behind his right eye. Pushing the heel of his palm into his eye socket, he grunted, “That’s a greedy little thing. Drained my whole mana pool.”
+
+“That quick?” Madina exclaimed, sounding shocked. “Well then, you now know one damn strong affinity, son. It should have taken several minutes just to fill a few points. You must be exceptionally good at Earth magics.”
+
+“I hope that is a good thing,” he quipped, still rubbing his head.
+
+“Sure is. Earth is a solid affinity to have. It ain’t quick, but it’s great for defenses when fighting and for making buildings.”
+
+“Good to know.” Shaking the worst of the pain away, Joe looked his benefactor in the eyes. “I can’t thank you enough. I’ve never had a magic item before. This is pretty amazing.”
+
+“Well, don’t go expecting all too much of it. It ain’t anything too grand. Still, back when my hands didn’t shake, I had a whole bunch of fun with it. As good for a prank as it was for a rat-catcher.”
+
+“I’m looking forward to trying it out. Can I help you with the dishes?”
+
+“No, no. You’ve given me a spring in my step and two good hands again. I may give all my dishes a good scrubbing now that I feel like a young lass once more,” she announced, looking at her shelf of plates and bowls. Giving him a second hug, she added, “You go back out there and share that gift with the rest of the folk in town.”
+
+Joe smiled and hugged her back before exiting the house and returning to his stool. He refreshed the [Heartfire] and then turned to a willowy-thin elf who had been waiting for him. With a pained look on his face, the man was clenching his left hand in his right.
+
+“Hiya. I’m Joe. Let me take a look at that for you.”

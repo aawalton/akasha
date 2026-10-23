@@ -20,5 +20,7 @@ export const uniqueSkillTrashSkillBasedProgressionStory0112Chapter101FatesEncoun
     },
   ],
   createdAt: "2026-10-22T16:49:26.206Z",
-  updatedAt: "2026-10-22T16:49:26.206Z",
+  updatedAt: "2026-10-23T15:47:59.700Z",
+  ownProgress: 3258,
+  progressedAt: "2026-10-23T15:47:59.700Z",
 } as const satisfies StoryChapterRead

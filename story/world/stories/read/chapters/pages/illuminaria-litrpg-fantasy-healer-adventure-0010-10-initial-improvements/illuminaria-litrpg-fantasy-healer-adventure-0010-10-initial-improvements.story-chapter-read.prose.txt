@@ -1,0 +1,113 @@
+10 - Initial Improvements
+
+After Joe had purchased the four crystals he had picked out, he moved to the large porch that spanned the whole front of the store, taking a seat on the front steps. Rhiley was talking to his neighbors, almost assuredly giving them the skinny on Joe. That was fine. Maybe it would cut down on all the failed [Identify] notices he was getting.
+
+The young man had already explained how to learn a skill from one of the crystals; he just had to grip the stone tightly and concentrate on activating it. Easy enough.
+
+Joe started with one of the blue ones since he already had an open Perception point. He gave the shard a squeeze, and in a second, he felt it vanish from his palm while, at the same time, a block of knowledge imprinted itself into his mind.
+
+You have learned the common skill: [Coin Catcher]. This skill allows you to gather your rewards in close range and kinetically store them into a container on your person. If the items will not fit in the container, they will appear at your feet. Cost: Minor Stamina | Range: Close. {Force}
+
+Joe was momentarily surprised as he thought he had grabbed the [Identify] stone. It made no difference as he had planned to learn both. Or at least he thought so at first, until he saw a new notification appear.
+
+Achievement: You learned your first non-class skill: [Coin Catcher]. This action has awarded you the following choice of Traits:
+
+[Good Fortune] Bigger bounties. +5% to coin loot.
+
+[Signature Skill] Who knows how far this can go? +25% chance to advance [Coin Catcher].
+
+Joe noted that he did not get an extra attribute point for this achievement. That made sense. He couldn’t expect every advancement to give free points.
+
+Joe took a minute to think about this choice. An additional 5% to loot sounded like it could add up to some serious coin. On the other hand, [Signature Skill] sounded plain awesome. He had no idea how the simple loot collection tool would improve, but he was excited to find out.
+
+He had a momentary musing on what options he would have received if he had learned [Identify] first. Considering how many folks had that skill, it was likely a common achievement.
+
+Joe was happier to get the more unusual option.
+
+Now it was time to spend his free points. Seeing no reason not to finish Perception, he added a point to the attribute.
+
+As he did so, the world ever so slightly seemed to shift into better focus. There were so many things happening when he received his points with his class that he hadn't noticed the change, but this time, just sitting outside the general store, it was very obvious.
+
+Across the street, the sign for the bakery snapped into focus. The smell of bread and pies increasingly filled the air. The grain of wood under his butt was suddenly more apparent. Rhiley’s and Gurda Eldauk’s voices from inside the store behind him became clearer. None of these were huge changes, but in that second, they were very noticeable.
+
+“Woah,” Joe breathed.
+
+Excited, he wanted to try Dexterity next. He had always had a knack for throwing things, darts, frisbees, baseballs, even spinning cards into a hat. Grabbing a small rock, Joe flicked it at a lantern post at the edge of the road. He still had the concept of how to fling a pebble from his old life, so his body complied as he expected, managing to knick the timber with the small stone.
+
+Then he added one of his free points to his Dex. Sure enough, he felt limberness flow through him. He was just a fraction more sure of his movements. He flicked a second pebble, and it hit almost precisely where he wanted it to.
+
+Joe bounced his feet back and forth on the step in exhilaration, sending a drumming stomp out into the village. He didn’t care who noticed him acting like an idiot. Not only was he healthier now than he had been in years, he could fundamentally get even better with each advancement.
+
+It was one thing to understand the idea of increased stats conceptually. It was a whole new level to actually feel it.
+
+His last two points immediately went into Vigor. Because his stamina was full, he did not experience instantaneous revitalization. Even so, he generally felt great, as if he had just woken up from the best night's sleep of his life.
+
+Joe knew he was grinning like a loon, but again, he didn’t care how many odd looks he was drawing from the locals. Actually, he noticed many of them were smiling back at him. It was like those looks an aunt or uncle would have when a younger relative did something noteworthy. News of a Newcomer must be spreading. Watching Joe experience the joy of the system for the first time was something they seemed to find endearing.
+
+Speaking of the system. ‘Hawking, this is amazing. Thank you, man! I … I don’t even have words for this.’
+
+There was a longer pause than Joe expected before the window appeared.
+
+You are very welcome, Joe. Your positivity is promising.
+
+“We have got to work on your conversational skills someday, Dude,” Joe sent back with a mental laugh.
+
+Still chuckling at Hawking’s stiff reply, he turned his focus to the skill stones again and learned a second one.
+
+You have learned the common skill: [Identify]. This skill allows you to use your sight to assess creatures and objects to determine their designation and some general information. The more ranks you have with this skill, the more information you can glean. Additional ranks with [Identify] can pierce through the obfuscation that comes from level disparity or anti-assessment skills such as [Deception]. Passive | Range: Distant. {Calculation}
+
+Not that he was really expecting one, but he checked to see if this act had earned him another achievement. It didn’t.
+
+Joe also noted that Hawking’s responses had two different feelings to them. Most of the notifications had an almost clinical, formal feel to them. Kind of like an automated response. But the times he was directly replying to Joe felt different. There was a clear presence behind those messages. This last one was one of those canned text notifications.
+
+He focused on the yellow stone and received another one of the impersonal alerts.
+
+You have learned the common skill: [Swift Strike]. You can empower your melee attacks to inflict additional damage and improve their chance to break through defensive deflection techniques. Your attack damage and deflection penetration increases by 3% plus 1% for each skill rank you have with this skill. This skill does not stack with other strike enhancement skills. Cost: Minor Stamina | Range: Touch. {Inertia}
+
+With each skill he learned, Joe noticed something new. So far, all of his skills had a different last word at the end of their descriptions. He hoped he was not doing something wrong, spreading out his skills across whatever these groups were. {Life} made sense for his [Healing Touch] spells; so did {Force} for the telekinetic [Coin Catcher]. He was a bit more confused by {Phoenix}, {Expertise}, {Calculation}, and {Inertia}.
+
+He had already spent his attribute points into Vigor, so he didn’t think it was worth changing tracks just yet. Still, it didn’t hurt to ask.
+
+‘Hey, Hawking. Can I ask you another question? I don’t want to bug you if you are busy.’
+
+I am always in a state of constant activity, yet I am fully capable of accommodating your inquiry.
+
+Joe smiled as this window held that unique presence he associated with Hawking, instead of the more generic system messages. “Okay. Thanks. What are the words in the braces at the end of skill descriptions for?’
+
+Those are known as Affinities. Every skill is associated with one of these 210 affinities. Every person and monster has their own aptitude with individual affinities. Choosing skills for which you have a strong connection to the correlating affinity will grant you greater usage of that skill.
+
+‘That would have been good to know. I have no idea what my Affinities are.’
+
+There are seers who can read your affinities for you.
+
+You can improve your strength with an affinity through use and focus, especially those engaged at early levels.
+
+‘That’s something then. So the ones I have now, unless I seriously suck at them, should be fine.’
+
+To ease your mind, you do not ‘seriously suck’ at any of the affinities you currently have skills for, including the one you have in your hand.
+
+‘Okay. Thanks again,’ Joe thought back to Hawking before focusing on the green prism in his hand.
+
+You are attempting to learn the uncommon skill [Efferous Endurance]. You have not met the requirements for a bronze-level skill.
+
+Joe stared at the clinical-feeling notice. He scratched his head, puzzled. The only prerequisite listed in the book was he needed to already know one husbandry or healing skill. He had two: [Healing Touch] and [Heartfire].
+
+‘Now what? Why can’t I learn this one?’
+
+You need to have at least ten ranks in one skill before you can assimilate an uncommon skill crystal.
+
+Joe hung his head. ‘Are you kidding me!’
+
+It was a bit of a letdown, but Joe was in too good a mood to let it get to him. If the Illuminaria system worked at all like the MMORPG games he was familiar with, those early ranks were usually pretty easy to get. Hopefully, ten wouldn't take him very long.
+
+Looking over his shoulder, he noticed Rhiley still speaking to the giant shopkeeper. Missus Eldauk’s words replayed in his head. She had been willing to pay him to heal. Given how shrewd the merchant seemed, Joe guessed that meant there was a demand for healing.
+
+After catching his young companion’s eye inside the store, Rhiley quickly disengaged himself from his neighbors and trotted out onto the porch.
+
+“Hey Rhy, I can’t learn this one yet,” he stated, waving the bronze-banded shard. “I don’t have ten levels in anything yet.”
+
+“Aw, sorry, Joe. I should have thought of that,” the young man apologized. “Want me to see if Missus Eldauk will take it back so you can get something else?”
+
+“Nah. I like the spell. How about we go the other route and level up my [Healing Touch]? Want to help me find some patients?”
+
+Rhiley’s smile was all the answer he needed.

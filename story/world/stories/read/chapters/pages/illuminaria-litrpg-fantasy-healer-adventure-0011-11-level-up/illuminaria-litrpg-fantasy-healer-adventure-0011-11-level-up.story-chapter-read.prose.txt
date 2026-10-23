@@ -1,0 +1,109 @@
+11 - Level Up
+
+Joe carefully took hold of his seventh patient’s heavy, dwarven hands. Thorton’s arms, from his elbows all the way to the tips of his fingers, looked inflamed and swollen. The blisters were angry and red.
+
+Thorton Kinbrow was a tanner. Joe had no idea what the process was that turned animal hides into leather, but whatever it was, it had done a number on the craftsman’s skin. Joe moved the man’s arm into a spot of sunlight that made its way through the canopy of leaves overhead. In the brighter light, the arm looked even worse. This was one seriously stoic dwarf. If Joe’s arms were half as bad as these looked, he would not be sitting passively on the log waiting for Joe to start healing.
+
+The pair sat in the center of Crowfield on a circle of well-tended grass that encircled a massive oak tree. The trunk of the tree had to be at least ten feet wide and was marked by many large runes. Originally, Joe thought the sigils had been carved, but after a closer look, he saw that the bark had been shaped, not cut. He had no idea what the symbols did or meant, but they had that flowing cursive style that made one think of Tolkien’s elves. He guessed they were to promote the great tree’s health.
+
+It sure was healthy. And huge.
+
+The oak provided a welcome shade over much of the green. There were several benches around the lawn. To one side of the lawn, a stage had been built. Rhiley and Joe had set up on the other end of the common where a campfire ring was surrounded by several large sitting logs and a few wooden plank lawn chairs. Joe had placed a [Heartfire] flickering in the ring of stones which gave off its passive heal to anyone nearby.
+
+Joe was perched on a low stool that Rhiley had borrowed from somewhere. The three-legged seat allowed him to sit close enough to see what was going on with his patients and touch them with his healing skill without Joe having to kneel or both of them having to straddle one of the sitting-logs.
+
+“Is this normal, Thorton?” he asked.
+
+“Not typically. No,” the squat man answered in a voice that was almost exactly what Joe expected from a dwarf. It was deep and a bit gravelly. The stout man’s wide chest adding a rich timber to his words.
+
+“It can happen now and then,” he continued. “Some of them beasties out there are still dangerous even after they be dead. This here comes from a Foulgut Wyrm. I was braining the hide and, next thing I knew, my hands were all a-blistered. When my wife heard Rhiley announcing ye be a healer, she told me I had to get out here and see ya. Guess she was tired of me moaning bout the house.”
+
+Before Joe tackled the odd injury, he wanted as much information as he could get: “What’s a Foulgut Wyrm?”
+
+“They be poisonous little burrowers. Maybe three feet long. Four ta six inches wide. The worst part about em is how toxic they be. Ain’t got no natural predators up here on the surface since anything that eats em dies. Their hide can be used for some great poison-related gear, but ya have ta be very careful when ya handle it. Or ya gotta be a dwarf,” the tanner stated proudly. “I’ve skinned dozens of them before without a problem. That last one musta been specially toxic.”
+
+“Let me start with a basic healing first,” Joe related to the charcoal-haired dwarf. “I have some antivenom in my bag we can try as well if this doesn’t work.”
+
+Joe activated his [Healing Touch], but for the first time, it seemed like it might not work at all. The spell seemed to splash up against the dwarf’s skin. Instead of moving into the arms, the warm energy bunched up further and further on the surface of the thick arm. To Joe, it felt like he was pushing against an inflated beach ball. There was a barrier there that was blocking the healing spell.
+
+Just as he was about to give up, the obstruction gave way, allowing his healing magic to flow into Thorton.
+
+‘That was weird’
+
+You have restored 12 points of Thorton Kinbrow’s health. You are unable to determine Thorton Kinbrow’s current health. The underlying cause of damage still remains.
+
+Your skill [Healing Touch] has increased to rank 6.
+
+Joe was hit by a couple of different impressions at once.
+
+The first was confusion regarding the blockage he had encountered, until an idea occurred to him. When he read about the dwarf race, it said something about them being resistant to magic. Joe had assumed that meant harmful magics, but maybe it was all magic. That would be rough if your race was resistant to helpful spells as well.
+
+The other sensation was an almost giddy feeling that was growing inside him. For the last couple of patients, he had started to develop this pending sense of excitement from somewhere. It felt like, at any second, something great was about to occur.
+
+Joe could feel a wide smile spread across his face, even though he had no idea why he was grinning. Not sure what to do about this weird elation, Joe tried his healing again.
+
+The spell hit the same barrier before finally pushing through it. This time, when it did, his growing sense of anticipation became a burst of euphoria. A cascade of lights erupted around Joe, and a triumphant note of music rang out.
+
+You have reached level 2. You have gained 1 unassigned attribute point and the following attribute trait and skill.
+
+[Aware] +1 to Perception. You have gained 1 common perception-based skill.
+
+[Assess Wounds] You are able to analyze and identify ailments and determine the relative health of those around you. Passive | Range: Distant. {Calculation}
+
+You have restored 8 points of Thorton Kinbrow’s health. His current health is at 93%. The underlying cause of damage is preventing any additional healing of this type.
+
+Your skill [Assess Wounds] has increased to rank 1.
+
+“Congrats, son,” Thorton exclaimed, giving Joe a friendly thump on the shoulder. “I can tell by the look on yer face ya just advanced, didn’t ya?”
+
+“The look on my face … You didn’t see those lights or hear that hunting horn?”
+
+“Nope. That just be for you, though for us dwarves we get drums,” Thorton explained. “Just like how we don’t see each other slates unless you choose to share em.”
+
+The tanner was still beaming at Joe. Leveling must be something these folks celebrated. “What level does that make ya now?”
+
+“Two. That was my first level up.”
+
+“Well then! I double my congratulations. Ya always remember yer first. Hopefully, ya won’t be too disappointed it came staring at my gnarly mitts.”
+
+“Not at all. That was amazing.”
+
+“Yessiree. The One Above sure do make it a joy to advance. Careful though. Some folks get addicted to that feeling and go hunting levels so hard they bite off more than they can chew.”
+
+Joe could understand that desire. Leveling up was such an incredible high. He noticed that his mana had been completely refilled. His health and stamina had been at full already but he imagined that they would have refilled as well. It took a second for him to shake off the exhilaration and get back to business.
+
+“Well then, it looks like it falls to me to give ya yer First Cascade gift.” Cascade was a perfect word for the flow of energy, lights, and elation Joe had just experienced. “It be a tradition. When a youngin levels for the first time, somebody on hand shares a skill with em. Since ya be stuck with just me, that honor is mine.”
+
+A window appeared in the air in front of Joe. He knew it must be Thorton's version of his notification screen, but it looked vastly different from the ones he had been seeing so far. Joe’s were two-dimensional translucent blue rectangles with a plain white text. The one from the dwarf looked like a ghostly gray slate chalkboard covered with black angular lettering. The characters reminded Joe of dwarven or Germanic runes.
+
+Joe looked over the ‘slate,’ noting he could only see a limited number of sections. In the first section, he could see Name, Race, and Level, which was 13. For Experience, he just saw question marks.
+
+For Resources, he could see the tanner’s Health, which was currently 295 out of 371. There was an asterisk there, too. When Joe focused on the mark, the word ‘Poisoned’ popped into his head. Stamina and Mana were also question marks.
+
+The dwarf’s classes were also obscured.
+
+The last two sections, Traits and Skills, had dozens of items. Joe looked down the skills list.
+
+Many of them were grayed out, which Joe realized were any skill that required something he didn’t have, such as Shield Expertise for most of the dwarf's defensive skills. The other ones he couldn’t pick were any non-Vigor skills above common rarity. Since he only had one free point to spend, he could only take a basic skill or a Vigor skill.
+
+Joe had a momentary regret of spending his last skill point. If he had two free points now, he might have learned his first uncommon skill since he was not learning it from a skill crystal.
+
+Thorton had a fair number of uncommon vigor spells, but no rare ones, which might have been possible with Joe’s two open Vigor points and his one free point. Looking at them he didn’t see any he liked better than [Efferous Endurance].
+
+Back to the list, Joe was both excited and a bit chagrined. At least half of the skills he could learn were crafting or harvesting skills, which might be something Joe picked up later, but not something he wanted right now.
+
+He liked the sound of [Combat Intuition], [Long Strike], and [Stalwart].
+
+Joe found his eyes drifting over to the Traits section again and again. There were some truly awesome sounding traits on the list. Only the ones that were marked Achievement were grayed out.
+
+“Hey, Thorton? Would you mind if I picked a trait instead of a skill?”
+
+“Traits don’t work that way, son,” the broad-faced man remarked, shaking his head. “The only traits ya can pass on to somebody else are Heritage or Fellowship traits. You and I ain’t kin. And since ya be brand new to the world, I doubt you have joined any of the orders I belong ta. That’s why my traits are all gray for ya. I’m surprised you can even see them. That ain’t normal.”
+
+Joe looked again and stated, “But they’re not gray. They’re just as clear as the skills I can take.”
+
+The dwarf face scratched up in confusion. He leaned in closer, peering directly into Joe’s eyes. “Are you sure?”
+
+“Yeah. Really.”
+
+Dumbfounded, the tanner sat there, his damaged arms still in Joe’s hand. “Well, I’ll be a chunky nugget,” the confused dwarf swore.

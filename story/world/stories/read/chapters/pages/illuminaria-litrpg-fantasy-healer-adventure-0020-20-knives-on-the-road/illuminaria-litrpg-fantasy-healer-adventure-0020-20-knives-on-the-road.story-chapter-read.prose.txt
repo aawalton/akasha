@@ -1,0 +1,129 @@
+20 - Knives on the Road
+
+The walk to Brandy Mere took them past the small lake where Joe had entered this world.
+
+So far, throughout their hike along the country lane, Kaid had kept up an unending discourse about everything and nothing related to Crowfield. Most of the diminutive man’s anecdotes ended with one reason or another for why the villager being discussed was currently angry with him.
+
+The funny thing was Kaid fully admitted to the small acts of larceny that got him in trouble with his neighbors. He just didn’t seem to have any real remorse for his petty crimes.
+
+The gnome had shown up late in the morning to get Joe, who had somewhat foolishly risen with the Dellhams. Joe didn’t usually mind mornings, but between the interrupted sleep and the fact that a farmer’s morning started before dawn, Joe was definitely dragging.
+
+Thankfully, [Efferous Endurance] was better than espresso. After a boost to his stamina, he had energy to spare.
+
+After a couple of hours into their hike, they had left the fields behind and were beginning to reach a more forested region. Undergrowth and shrubs had closed in around the wandering road they were following.
+
+It was here that, for the first time, the small man cut off his chatter and suddenly grew serious. “What skills do you have, Joe?” he asked.
+
+“Direct healing,” Joe replied. “A heal over time. Some assess skills. An endurance boost I’m using right now. I also have an expertise with simple weapon skills and [Swift Strike], but I haven’t had a chance to level either of them up yet.”
+
+“Aw, slug-shit. I’m sorry, man. We should have sparred back while we were still in the safe zone around town. This next part is going to suck for you. If you go with your strength, you’ll be fine.”
+
+“Wait, what?” Joe blurted. “What’s going on? What’s my strength?”
+
+Looking around, Joe found he was alone on the road. “Same as every other healer,” whispered a small voice from somewhere in the bushes beside the lane. “Not dying.”
+
+“I got you. Just keep healing. Trust me,” the gnome’s voice hissed from the shadows.
+
+Kaid Ward has invited you to join his party. Accept / Decline?
+
+Joe accepted the prompt, but doing so didn’t give him any idea where the little man had vanished to.
+
+He was standing all alone on the trail. A slight rustling off to his right had him spin in that direction, but a moment later, the bushes to his left shook as well. A small evil cackle creaked from behind him, causing him to whirl around in that direction. Joe tried to take up what he thought might be a defensive stance with his staff, but to be honest, he had no idea what he was doing.
+
+After being taunted in circles for what seemed like an eternity, a short spear launched its way out of the bushes. All he could do was try to dodge it, unsuccessfully. The spear pierced his shoulder, sending a shockwave of pain through his body.
+
+A Bosket Goblin has injured you. You have suffered 3 points of damage.
+
+Suddenly, this became far too real. Joe stared at the length of wood sticking out of his flesh, dumbfounded. Yet, instead of shock, his brain jumped to math. He had just lost 10% of his health to a goblin spear.
+
+Yanking out the weapon, Joe slapped a heal onto the wound.
+
+Which was complete overkill. Between his ten ranks in [Healing Touch] and the bonus from [Survivalist], each dose of [Healing Touch] would almost completely refill his whole Health pool.
+
+This is what Kaid meant. Joe did not have to worry about knicks and cuts. He had to worry about either A) running out of mana or B) a fatal strike. Well, there was a C), too, being in too much pain to react anymore.
+
+Because having a frigging spear lodged into his shoulder hurt like a son-of-a-bitch. Where the spear had struck was no longer bleeding, but his shoulder still felt stiff and throbbed with a dull ache.
+
+Even though he had developed a heavy pain tolerance over years of agonizing decrepitude, being able to heal more than he could be damaged might still not be enough. If he stacked up too many wounds, he might not be able to push the pain away.
+
+Aware he was not prepared for the sickening agony of being impaled, Joe swiveled around, looking for the next attack, only to find it was already heading for him. He managed to bat away with his quarterstaff, earning him his first combat skill level.
+
+Your skill [Simple Weapon Aptitude] has increased to rank 1.
+
+This window flickered past his vision in an instant as if knowing he was too busy to stop and read it. The notification style must change for combat situations.
+
+He knocked away a second missile; this time, it was a dart. Not one you would find in your local pub either. This thing was over half a foot long, with a clipped flint end instead of a needle point.
+
+‘Two out of three,’ he thought, immediately jinxing himself.
+
+As he knocked number four away, another one, hurled from behind him, lanced into his thigh.
+
+A Bosket Goblin has injured you. You have suffered 2 points of damage.
+
+Joe swore loudly and with great vehemence, keeping his attention focused on the many rustling bushes. He marshaled all the tricks he had learned to deal with pain and paid attention to his one job, not dying.
+
+He left the spear alone for a second and dropped a [Heart Fire] at his back. He knew the flames were harmless but hoped it would deter his attackers from charging up behind him and running him through. It also might save his life again.
+
+Scanning the bushes, he faked a grab at the spear still stuck in his leg. Sure enough, another pair of spears were launched at him. This time, Joe hopped hard to the left out of the way of both missiles. He made sure to keep his weight on the unimpaled limb. The jarring motion caused the small spear to saw its way out his leg, painfully.
+
+The Bosket Goblin has further injured you. You have suffered 1 point of damage.
+
+He limped back close to the magical fire, feeling the warm aura ease the lingering soreness while he waited for the next hurled attack. Instead, in a ring around him, figures began to push out of the brush on the sides of the road.
+
+Either his enemy had run out of missiles, or they had determined that hurling spears from cover was not going to win the fight. Seven small green-skinned humanoids stepped out onto the trail. They had the classic goblin appearance: big ears and sharp, jagged teeth, crude weapons, and tattered scrap armor.
+
+Bosket Goblin: Level 1: Goblin, Ambusher
+
+Brandishing his staff, Joe tried to keep them back or at least where he could see all of them.
+
+When they reached the road, the biggest of the goblins looked around as if counting. He held up a hand at the cadre of green marauders present and barked a command at the nearby bushes. Joe had no idea what he was saying in his guttural language, but no new critters emerged from the brush. Maybe a couple of his thugs had run off. In both games and folklore, goblins were rarely ever brave.
+
+With an unhappy grunt, the biggest of the small men stalked closer to Joe. He had a long knife that looked like it had been sharpened far too many times.
+
+Bosket Goblin Boss: Level 3: Goblin, Leader: 34/34
+
+The brute lunged, and Joe swept his staff in an arc, causing the boss to hop backward. Surprisingly, the goblin looked smug instead of unhappy at his attack being interrupted. Joe realized why a second later as a pair of slashes cut into his legs.
+
+A Bosket Goblin has injured you. You have suffered 2 points of damage.
+
+A Bosket Goblin has injured you. You have suffered 4 points of damage.
+
+Joe healed this time. He wanted to be sparing with his mana, but since he had such a ridiculously small health pool, he had to keep it from dropping too low.
+
+And above all, the long cuts really hurt.
+
+From there on, it was much the same. The goblins’ main trick seemed to be coordinated attacks. Like a pack of wolves, one would harry the prey while another would do damage. Joe’s limited combat skills didn’t have any good answers to this problem.
+
+The only thing going for him was the goblins' attacks only inflicted minor wounds. Their spears were little more than sharpened sticks, and their blades were a mix of broken swords and discarded kitchen utensils. As long as he could keep the six little monsters from tackling him, he had a decent chance of surviving this encounter.
+
+Over the next minute, he healed the stabs and cuts sparingly, blocking as many as he could. His new armor turned some of the grazing blows into scratches, but even better, his ability to parry really started to improve.
+
+Your skill [Simple Weapon Aptitude] has increased to rank 3.
+
+His first block against the thrown spear had been mostly a lucky swing. Yet after non-stop attacks from the five little bastards, he now was consciously interposing the long wooden shaft effectively. He still had not figured out how to attack yet, but it was amazing how the skill’s advancement was actually making him block more effectively.
+
+He used [Healing Touch] every couple of wounds and even burned an [Efferous Endurance] to make sure he didn’t slow down. So far, his mana was holding. If Joe didn’t have [Spirited], he would have been in far worse danger.
+
+He could heal as fast as they were harming him. He was covered in blood, his new armor would take hours to repair, and pretty much every inch of his legs and torso was in agony. Even so, he was pretty sure he could outlast the four remaining goblins.
+
+Joe hopped over the fire. This put the pack of goblins in front of him. As they circled around the flames, Joe healed himself again quickly.
+
+It was at that moment the little brigands suddenly realized there were only three of them left.
+
+Looking around and growling hostilely, they glared at Joe, trying to figure out how he had taken out half of their pack when they clearly had him on the defensive.
+
+“It wasn’t me, guys,” Joe gasped through his adrenaline and pain.
+
+The trio looked perplexed until a dagger flipped from the underbrush and embedded itself squarely in the middle of one of the goblin's foreheads. The creature crumpled to the roadway, leaving just the big goblin and one last shrimpy thug.
+
+Muttering and hissing, the pair began to back away from Joe. As the smaller goblin was about to slip back into the bushes, it suddenly stiffened and let out a gurgle. The short marauder fell forward onto its face, revealing two deadly lacerations on either side of its spine.
+
+“Do you want the boss?” Kaid’s voice asked, unseen from the shadows.
+
+“Want him for what?” Joe replied, still very frazzled. A deep sigh slipped out of the concealing brush, followed by a pair of daggers that slammed into the neck of the goblin boss.
+
+As the green mugger keeled over, Kaid stepped out of the foliage onto the trail, holding a thick, jagged dagger. The tiny man had completely shed his friendly, childish demeanor. The gnome gliding out of the brush was a stone-faced killer, through and through.
+
+Joe was spared seeing him use that wicked blade as Hawking announced the end of the battle.
+
+The Bosket Goblin Boss has died.

@@ -20,5 +20,7 @@ export const fiveElementOverlordICanUpgradeEverything0169Ch169WangYangsFullStren
     },
   ],
   createdAt: "2026-10-22T23:48:58.433Z",
-  updatedAt: "2026-10-22T23:48:58.433Z",
+  updatedAt: "2026-10-23T15:47:59.700Z",
+  ownProgress: 1675,
+  progressedAt: "2026-10-23T15:47:59.700Z",
 } as const satisfies StoryChapterRead

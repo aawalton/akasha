@@ -1,0 +1,91 @@
+21 - That Could Have Gone Better
+
+“Oh shit. You’re a mess,” the little ruffian exclaimed, looking at Joe with an expression mixed between shock and horror. As quickly as that, the deadly duelist vanished, and the impish young man returned. “Sorry that took me so long; I had to stay unseen. If they knew I was out there, they might have stopped toying with you and tried to kill you quick.”
+
+“That was toying with me?” Joe groaned, leaning heavily on his quarterstaff.
+
+“Yeah, actually, even though it probably didn't feel like it,” the small man stated, wincing at Joe’s bloody state. “All of their attacks were aimed at your legs or arms, or they were grazing attacks. If the sadistic green shits had really wanted you dead instead of having fun tormenting you, they would have been stabbing you in the vitals.”
+
+“Yay, for me,” he wheezed back to the gnome. Joe had to close his eyes and breathe. He could still feel the ghost of every wound he had just suffered through. The wounds were now closed, but their pain had not yet faded away.
+
+“Though can I tell you, you did really well with your first fight being an ambush and all. Nobody goes out into monster territory with zero ranks in combat skills,” the gnome slapped his thigh in self-admonishment.
+
+“Stupid,” Kaid hissed at himself before adding, “I even knew you were a Newcomer, and I messed up. Shoulda helped you rank up before we left.” Looking up at Joe nervously, the tiny fighter pleaded, “Please don’t tell Rhy. He’s still pissed at me for nicking your stash.”
+
+“Not blaming you, Kaid. I should have thought to prepare as well,” Joe consoled. “Though I have a question for you. How the heck does a level 5 juggler one-shot a whole pack of goblins? I know most of them were just level one, but still. That was insane.”
+
+The gnome sputtered a nervous laugh. “Um. You didn’t actually believe that [Identify], Joe? I mean, your [Deception] is so much better than mine. I can’t even mask my name yet, but you are. You must have something crazy good to be as hidden as you are. Here, look again.”
+
+Kaid Ward: Gnome: Whisperblade/Mountebank 11
+
+“If I were you, I’d do like I do and put up lies. Leaving your scroll completely blank is just going to make people look harder,” the small man noted.
+
+“Ok, that makes way more sense. I couldn’t figure out how you were taking them out so easily. Especially the boss,” Joe remarked, finally pulling himself up straight. He was still incredibly sore, but the pain was getting more manageable. “I didn’t actually get a boost to [Deception]. I have a racial trait that blocks assessment in general.”
+
+“Well, that’s different. I wonder if you should learn [Deception] anyway," the scoundrel wondered. "Might curb questions about your skimpy info.” Kaid's face scrunched up into a puzzled expression as he thought about his words. “Though would that even work? The trait might hit first, in which case the [Deception] would be useless.”
+
+The little man shrugged eventually and added, “I couldn’t say. I’m crappy at build mechanics. Something to worry about later. Let’s loot the gobs, and then let me see your staff skills before we go any further,” Kaid suggested. “You take the boss and these guys. You had the awful job of holding their attention. I’ll get the grunts in the bushes since I had the easy part of sneak-attacking distracted gobbies.”
+
+Looking down at the dead child-sized body of one of the smaller goblins at his feet, Joe felt a shudder run up his spine. In his head, he knew they were vicious goblins, but his heart and stomach were not so rational. The last thing he wanted to do was start manhandling the smelly, blood-soaked corpse. He knew that looting bodies was a core mechanic of every RPG since the beginning of time, but double-clicking a screen and getting in there with your bare hands were two totally different things.
+
+Joe blew out a breath of air and stepped up closer to the bloody body. He noticed the corpse had a slight glow around it. As he focused on that aura, Hawking sent him a message.
+
+You have permission to loot the Bosket Goblin. Do you wish to loot the body?
+
+“Does that mean I don’t have to touch it? Will it loot everything or just valuables?”
+
+The Loot function will provide you with processed valuables appropriate to the creature being looted. These items will not necessarily be the items the creature has in its possession. Do you wish to loot the body?
+
+‘Hell, yeah,’ Joe thought joyfully to Hawking.
+
+Instantly, the body vanished and was replaced with a glowing mote, much like the one that had appeared when he saved Buck. Instead of being almost white, this shimmering orb was red. Joe touched the light, and it popped. Thankfully, instead of spraying its contents everywhere, the coins and materials swooped through the air and slipped into his new backpack.
+
+You have acquired 6 copper pennies, 1 bronze bit, and 2 silver shills.
+
+You have acquired a knot of goblin hair and two leather scraps.
+
+Your skill [Coin Catcher] has increased to rank 1.
+
+Joe slid the pack off one shoulder and hesitantly looked inside. He really hoped he was not going to find two bloody chunks of goblin hide and a ball of oily black hair. Happily, that was not the case. The leather was neither goblin flesh nor was it part of the little thug's armor. It was a square bundle, about eight inches in length and width and roughly three inches thick. The packet was made up of clean leather pieces bound by leather thongs. The hair, too, was not a greasy mat. It was almost like a ball of coarse black thread. It seemed the loot he received was a synthetic representation, not actual body parts or possessions.
+
+He moved to the next five smaller goblins, picking up another handful of pennies and a few more bronze and silver coins. He found five more leather scraps and two more hairballs. He also looted three goblin teeth, a jar of very weak poison called Oil of Illness, and something called a Star-Iron Pendant. The pendant was nothing more than a gray metallic nugget that had a hole drilled through it for the leather thong. Lastly, he moved to the goblin boss.
+
+You have looted the Bosket Goblin Boss.
+
+You have acquired 8 bronze bits, 3 silver shills, and 4 gold pieces.
+
+You have acquired one [Keen] rusty knife, and one common Goblin card.
+
+“Hey Kaid, What’s a goblin card do?”
+
+“The boss had one. Nice!” the small man cheered as he stepped back out onto the road. “They are a short-term summoning item. Mostly found on mob leaders. You can summon a gobbie for a few minutes and have it perform one task for you. Some of the higher cards are pretty amazing. I heard a guy pulled a djinni card from an air elemental boss. He got wishes!”
+
+“Wow,” Joe said as his mind immediately started to think back through all the game wishes he had made with his high-level characters. In table-top games, wishes always had to be so carefully worded, or the GM would find a way to ‘Monkey Paw’ it.
+
+As Joe was musing about wishes, he noticed he had an alert from Hawking waiting for him.
+
+Achievement: You have survived your first combat. Your conduct has awarded you the following choice of Traits:
+
+[Thick Skinned]: Get tough enough to take your beating. Minor Physical Damage Reduction
+
+[Pacifist]: It is a hard road to always stay your hand. +70% to support abilities. *Note this trait will be lost if you willingly inflict physical harm on another being.
+
+The [Pacifist] bonus was huge. So good that he considered it. On the other hand, Joe knew that he would eventually want to be able to go solo at times. He would want to be able to explore this world by himself. Even though he enjoyed working with Kaid, the thought of having to be forever in need of a partner or team gave him indigestion.
+
+Minor resistance did not sound nearly as good as the major resistance [Iron Mind] gave him, but physical damage was a constant threat. He assumed mental attacks would be a rarer occurrence. Reducing the amount of damage he took could only be a good thing. Joe chose [Thick Skin].
+
+“Okay, let’s get you fixed up first, and then we should spar to get you comfortable with that big stick you are flailing about,” the small man said with a smile to offset the jibe. He pulled a curly wand out of a tube he had hanging on his belt. With a swish and flick, he activated the item, sending a ball of orange magic at Joe. Joe didn’t feel anything affect him, but he felt like his pants squirmed on his leg. Looking down, he watched the tears in the leather close up as if they had never been torn. The blood stains vanished as well.
+
+“Ooh,” Joe crooned. “I have got to get me one of those.”
+
+“Oh yeah, a [Wand of Renewal] is a must; this one only works twice a day. I have been saving up for a better one,” the gnome declared as he restowed the curly stick in its case.
+
+“Ok, Joe. Come at me,” the short knife-fighter bid as he lowered himself into a fighting crouch.
+
+Given how small he already was, Joe had a minuscule target. He didn’t hold anything back from this blow. He was certain there was no way he would be able to seriously harm an eleventh-level combat-focused scrapper.
+
+Gripping the far end of the long shaft, Joe whipped the staff in a long arch toward the waiting gnome. For good measure, he added [Swift Strike]. He felt the skill impart an almost electric current flowing from his palms along the weapon, accelerating the speed of his swing. The force added to his attack was such a sharp alteration that it caught Joe unprepared. Instead of having the shaft sweeping toward the spot he was aiming at, the weapon pulled free from his grasp and went whirling away into the underbrush.
+
+Kaid looked back and forth between the spot where the quarterstaff had vanished into the brush and Joe’s face. His stunned expression spoke volumes.
+
+“Wow,” he breathed in an incredulous voice. “We really do have our work cut out for us.”

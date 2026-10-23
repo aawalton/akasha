@@ -1,0 +1,109 @@
+5 - A Significant Choice
+
+Starting forward again, he watched the disgruntled knight ride down to the base of the hill, approaching the spot where the youth and his dog were by the bramble patch. Joe tried to shove away the sour taste the knight had left him with, but unwarranted scorn was a tough pill to swallow.
+
+As the rider came up on the pair, Joe couldn’t help but whisper, “Piss on him for me, boy,” to the farm dog, who was rolling to its feet.
+
+The hound took one look at the rider and seemed to like him no better than Joe did. It leapt to the edge of the lane and let loose a chain of loud, warning barks at the knight. The horse stared down the hound, too well-trained to shy away from the farm dog’s warnings.
+
+Joe was too far away to hear what was said, but the knight snapped a command at the boy. The young man began extricating himself from the briar patch to get to his dog.
+
+But, before the youth could make it out of the tangle, the rider’s impatience won out. Responding to a twitch of the reins, the warhorse turned and lashed out with an iron-shod hoof, kicking the dog so hard it flew into the thorn-filled berry patch.
+
+The rider just lifted his head and rode on, ignoring the howls of pain and cries of the child.
+
+Joe had not run in years, but he found himself hurtling down the slope toward the boy and the wounded dog, his walking stick tossed away to improve his speed. He had worked with vets before and had seen more than his share of injured animals. That kick could easily be lethal.
+
+The only positive point was that the dog was still yowling in pain instead of silent. Sadly, those sounds were fading as Joe slid to a halt at the edge of the thorns. The boy, who looked to be about ten, had reached the dog who lay just inside the thicket. The dense briars must have caught the canine. While painfully prickly, that flexible wall probably saved the dog's life.
+
+“Here, pass him to me, kid. What is his name?”
+
+The boy looked up through his tears, seeing Joe for the first time. “Buck. Buckle. Buck.”
+
+“Okay. As careful as you can, lift him up and pass him out to me. We might be able to do something for him.”
+
+Ignoring the sharp thorns, the farmboy slid his arms under the wounded hound and dragged himself towards Joe with a sorrowful determination. Joe winced as he watched the thorns grab and dig into the youth, but the boy had just a few feet further to go, and Joe knew Buck needed help badly.
+
+Joe pushed forward and found the thorns were even worse than he anticipated. They lanced right through his light linen shirt and leggings, cutting furrows in Joe’s limbs and belly. Ignoring the lacerations, Joe stretched out his arms for the hound.
+
+He could already tell the dog had broken ribs. Hopefully, those broken bones had not punctured anything. As Buck was eased into Joe’s arms, his hopes were dashed. He could see the skin of the dog's belly was darkening to a deep purple. It was too soon for that to be bruising. Joe guessed that meant there was blood under the surface of the skin, internal bleeding.
+
+He sliced himself further as he backed out before carefully lowering the hound to the grass beside the road. His mind raced to think of anything he had learned that would help. Although he had plenty of second-hand knowledge from the nurses and his friends at the veterinary clinic, Joe had no actual medical training.
+
+There had to be something he could do for Buck.
+
+New Quest [Save Buckle]
+
+Buckle cannot be saved by ordinary means. You could save him by becoming a Healer. Will you accept Healer as your Primary Class?
+
+Reward: BiteBark
+
+Joe scowled at the screen. The Healer class was nowhere near the top of his list of preferred classes. It was close to the bottom. That was exactly the sort of class he didn't want. It was not a self-sufficient ranger or shaman. It was not a highly versatile magical one like a mage or druid. Healers had magic but almost no versatility.
+
+It was also a class that would make him completely party-bound. A solo healer just didn’t work. Being stuck depending on others would be like stepping back into his old life, having to have others care for him.
+
+To top it off, Joe had more than enough illness and injury over the last few years. He respected the nurses and doctors who had treated him, but he did not want to be one of them himself. He would much rather put that world behind him and start something new.
+
+Joe looked around. The house was minutes away if they hustled, but he and the boy wouldn't be able to run and carry the dog without killing him for sure. The village was much further.
+
+He could hear Buck's breathing becoming more labored by the second. There just wasn't any time for someone else to save the hound.
+
+‘Aw, man!’ he swore under his breath. Looking at the fading dog and crying boy, Joe knew he couldn't live with himself if he declined.
+
+You have acquired Healer as your Primary Class. You have gained the following attribute traits and skills.
+
+[Awakened] +2 to Spirit. You have gained 2 common spirit-based skills.
+
+[Healing Touch] Heal a target for 2 Health plus 2 Health for each skill rank you have with this skill. Cost: Modest Mana | Range: Touch. {Life}
+
+[Heartfire] Create a spectral campfire. Any living being in Close range of the manifestation regains 1 point of Health for each skill rank you have with this skill every minute. The fire lasts for one hour. Undead creatures in this area will take damage instead of gaining health. The flames radiate a gentle aura of warmth and comfort. They will not burn their surroundings or living creatures. Cost: Moderate Mana | Range: Close. {Phoenix}
+
+[Nimble] +1 to Dexterity. You have gained 1 common dexterity-based skill.
+
+[Simple Weapon Aptitude] You are proficient with basic weapons, such as clubs, daggers, handaxes, and staves. Your damage and parry rates increase with each skill rank you have with this skill. Passive {Expertise}
+
+You are now level 1. You have gained 1 unassigned attribute point.
+
+A bloom of light appeared a foot away from where they were kneeling, and another pop-up window flickered for his attention, but Joe ignored both. He placed his hands gently on Buck’s side and willed the healing to begin. He felt a sense of warmth gather into his fingers, hovering just up against the skin of the wounded dog. The power stopped there, not advancing any further.
+
+Joe looked at the battered ribcage and tried to imagine it whole, but he didn’t know enough about anatomy or medicine. Panicked, he narrowed his focus to just one small spot of skin, the torn flesh ripped in the outline of a horseshoe.
+
+“Close the wound,” Joe growled.
+
+And it did. Before his eyes, he saw weeks of healing transpire in a second.
+
+You have restored 2 points of Buckle’s health. You are unable to determine Buckle’s current health.
+
+Your skill [Healing Touch] has increased to rank 1.
+
+Joe suddenly felt a little dizzy, which he somehow knew was due to his decrease in mana. He had never had a resource below 100% before, except for a few stamina points from the dash down the hill.
+
+Tired from running was something he was familiar with. This was different. The blurry sensation passed after a second, and Joe willed another burst of healing into Buck. He looked at the spot where he could see a broken rib and cast again.
+
+You have restored 4 points of Buckle’s health. You are unable to determine Buckle’s current health.
+
+Your skill [Healing Touch] has increased to rank 2.
+
+Again, the lightheaded feeling returned and faded quickly. Joe popped up his resources and saw he had only used about 10% of his mana. He had plenty more healing, but he wanted to try his other abilities as well. Both he and the boy were covered in stinging thorn slices. Looking at a spot next to the three of them, Joe pointed and willed it to catch fire.
+
+You have summoned a [Heartfire]. Creatures close by during the next hour will gain healing over time.
+
+Your skill [Heartfire] has increased to rank 1.
+
+A ring of small stones appeared on the ground, and a bright bundle of flames began to dance within them; a sense of warmth and wellness radiated from the campfire. Joe could feel the pain from his cuts start to fade away.
+
+While [Heartfire] worked on all three of them, Joe decided to give Buck at least one more. The dog was breathing easier now, but it still gave small whimpers of pain after every breath. Joe tried to imagine applying the warmth to the area just behind the hound’s ribs. This was harder to picture, but his first two heals helped guide him. After a few seconds of concentration, the restorative magic followed into Buckle’s side
+
+You have restored 6 points of Buckle’s health. You are unable to determine Buckle’s current health.
+
+Your skill [Healing Touch] has increased to rank 3.
+
+Buck looked considerably better, but Joe still thought the dog was hurting. Not sure what to target, Joe gently spread his hands across the damaged area. ‘Here goes nothing,’ he thought and tried once more.
+
+You have restored 5 points of Buckle’s health. You are unable to determine Buckle’s current health.
+
+When this last healing resulted in less health restored, Joe guessed either Buck was at full health or his fledgling magic had done all it could. Which was a good thing because his head would not stop spinning. Joe actually felt a tad nauseous from the vertigo of his lowered mana.
+
+‘I am going to have to get used to that,’ he thought.
+
+He flopped back onto the grass, taking deep breaths. Just as the dizziness abated, he was shocked by a very wet slap to the face. He opened his eyes to see a pair of smiling faces. One human, puffy-eyed and grateful. The other drooling and swaying side to side due to its heavily wagging tail.

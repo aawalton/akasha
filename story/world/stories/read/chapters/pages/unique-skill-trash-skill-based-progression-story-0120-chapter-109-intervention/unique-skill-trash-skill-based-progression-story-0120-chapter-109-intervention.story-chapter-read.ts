@@ -20,5 +20,7 @@ export const uniqueSkillTrashSkillBasedProgressionStory0120Chapter109Interventio
     },
   ],
   createdAt: "2026-10-22T16:49:32.049Z",
-  updatedAt: "2026-10-22T16:49:32.049Z",
+  updatedAt: "2026-10-23T15:47:59.700Z",
+  ownProgress: 2522,
+  progressedAt: "2026-10-23T15:47:59.700Z",
 } as const satisfies StoryChapterRead

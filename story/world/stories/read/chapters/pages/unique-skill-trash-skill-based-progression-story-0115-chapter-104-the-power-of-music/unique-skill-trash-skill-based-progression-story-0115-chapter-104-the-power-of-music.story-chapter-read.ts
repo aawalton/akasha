@@ -20,5 +20,7 @@ export const uniqueSkillTrashSkillBasedProgressionStory0115Chapter104ThePowerOfM
     },
   ],
   createdAt: "2026-10-22T16:49:26.206Z",
-  updatedAt: "2026-10-22T16:49:26.206Z",
+  updatedAt: "2026-10-23T15:47:59.700Z",
+  ownProgress: 2340,
+  progressedAt: "2026-10-23T15:47:59.700Z",
 } as const satisfies StoryChapterRead
