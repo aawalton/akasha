@@ -1,0 +1,177 @@
+Opening the entrance door to the Vault took no time at all. Like the Frostland’s Vault, the instructions on how to open it were written in the glyphs. She read them like they were a language now.
+
+Once inside, she took note of the puzzles. Several would require specific myrvite parts to open. She had a good guess as to which ones she’d need; some of them could be procured from the nearby econode. The others came from distant parts of Baracuel, some as far as the far eastern towns, but she knew from experience that the Syndicate would have them in stock. This Vault only had a single route, so she left and opened up the second entrance door.
+
+An ice carnipede greeted her.
+
+Mirian deflected its lunging bite with a hasty force shield, then drilled holes in it and set it on fire on the inside. As it was dying, she bound its soul, refilling her depleted repositories. The next few rooms held other myrvites. How the Labyrinth was keeping them alive, she wasn’t sure, since they didn’t seem to have a source of food. However, it did offer an opportunity. Depending on what I can find down here, some of the parts I need to open the other Vault might be in here.
+
+She went through each room quickly. One held a variety of dangerous plants, but she was able to scour it clean and then use a modified spell similar to collect smoke to gather up the toxic spores they released and then burn them. Next was a room full of stygala owls. They sent flurries of razor feathers at her, flying about so they were hard to kill. She modified a force blade spell to persist in a large area, leading the owls to shred themselves as they attempted to evade. Their feathers never had a chance of piercing her barriers. After the abominations she’d faced, she wondered why the Vault bothered challenging her with such weak creatures.
+
+Then, five rooms later, she walked into a room with ten pillars. There were three runes that were new to her, but she could understand what they meant from context. The instructions were as clear as reading glyphs. She needed to distribute specific spectra of soul energy to each pillar. While her current soul repositories allowed her to store soul energy at different energy levels, the pillars required the soul energy to still be in a pristine form. Her current design of soul repositories could allow her to produce any rune of a lower energy level than the soul she’d captured, but she’d need to make a special device for these requirements.
+
+With a sigh, she realized she’d have to wait a cycle. She’d need her father’s help to design something that could preserve a soul that well. Mirian headed back out to the large chamber where she’d fought the abominations, and began to scavenge the few unburnt pieces of the centiscerator and some of the crystal splinters left over from the enervator. Then she checked her father’s corpse one last time. Reluctantly, she picked up his chthonic needle from where it had been lying on the ground.
+
+A spike of bitterness shot through her. She suppressed it. One cannot hurry through the path of time, she thought. Though, that wasn’t quite right. Celen had found a shortcut.
+
+At the very least, Mirian could work on opening the first Vault. It would just take time to procure the materials. She’d also have to make some guesses as to the materials she’d need for the rooms beyond, but she had over a month and a half left. Plenty of time to make several trips down. As long as this room stays empty, I hope. If the abomination pair appeared again, she might be forced to tap her temporal anchor to reset the cycle for herself.
+
+She gave a mirthless laugh as she headed back to the surface. Here she was, still second only to two archmages in recorded history, and it wasn’t enough. I still need more power.
+
+She vowed to double her spell intensity training exercises this cycle.
+
+***
+
+Mirian paced about the Torrian Tower lab grinding her teeth. She felt a twinge in her leg each time she pivoted, but she ignored it; it would fix itself when the world ended.
+
+The room full of people watched her. She’d called Priest Krier, several of the professors, and one of the Akanan spies who was trained in soul magic to help her think. The results of their tests on the Labyrinth abomination pieces were conclusive. “How can the shards and the carapace have no antimagic properties?” she asked. “When we were fighting them, both of them had stronger spell resistance than a leviathan! The crystal on that enervator had more resistance than a myrvite titan! It ate 100 myr spells like they were nothing.”
+
+Professor Jei, who was sitting in the corner, perked up. “You fought a leviathan?”
+
+Viridian, who was twiddling a glyph pen, asked, “You fought a myrvite titan?”
+
+Mirian ignored them. “Souls are the primary source of spell resistance. Linked orichalcum furthers it, but orichalcum by itself is passively spell resistant. So we know materials can be—Priest Krier, I told the professors about orichalcum on the day we started research. Neither the Luminates nor the Department of Public Security can keep it a secret. My current designs for a leyline regulator require over a ton of orichalcum wire. The secret foundry in the Grand Sanctum will be insufficient to the task.”
+
+Priest Krier, who’s eyes had gone wide as dinner plates, opened and closed his mouth, then sat.
+
+“The point is, a material can be spell resistant.”
+
+Professor Torres spoke up next. “Is the orichalcum spell resistant because soul energy is still bound to it? You said it’s part of the process of manufacture, but the idea that the soul energy is consumed feels like an assumption. What if the soul stays bound to the metal? Following that train of thought, maybe the Labyrinth creatures were infused with soul energy.”
+
+Priest Krier stood again. “Professor, I must protest your characterization of celestial magic. The sacred process is not one of binding souls, but of prayer and—”
+
+“Priest Krier, I appreciate your concern, but this is not the time and place for a debate on the semantics, nor the theology,” Mirian said diplomatically. This was also not the time or place to discuss that the entire Luminate Order was practicing, by its own definitions, necromancy. Something about the Declaration Crisis and their ties with the Praetorians and Deeps had caused the Luminates to lose sight of the true character of celestial magic. Mirian suspected there was a complex political history, and had absolutely no patience for discussing that right now with anyone who was ignorant even of how ignorant they were.
+
+She stopped pacing. Torres had a good idea though. She looked at the samples on the table. That was a line of inquiry she could pursue.
+
+“Where’s that orichalcum hairpin and torc?”
+
+Agent Idras stared at the table as Torres produced Specter’s stolen defensive jewelry and set them on the table next to the crystalline shards of the enervator.
+
+“Are those…?”
+
+“Yes,” Mirian said, and summoned her spellbook. She flipped through the pages. If there’s remnant soul energy bound to the orichalcum, I should be able to separate it back out. And, if the needles and crystal of those Labyrinth abominations are becoming spell resistant, perhaps it’s by temporary infusions. Understanding the nature of the binding…
+
+She began to cast, then stopped. Her spells weren’t precise enough. It was like trying to get dissolved salt out of water by dipping your hand in to grasp it.
+
+“We have a new investigation, based on her hypothesis. Torres and Endresen, I’ll need your help in designing a new tri-bonded spell engine. One that can manipulate both bindings and dissection spells. If it’s possible to separate bronze back into copper and tin, it must be possible to separate orichalcum back into its constituent pieces. We’ll just need extremely precise measurements to detect any, ah, energy that comes out.” Soul energy, she didn’t add, for the benefit of Priest Krier. She looked to Professor Viridian. “Selkus, are there myrvites that can temporarily augment their own spell resistance?”
+
+The professor of myrvite studies tapped his chin thoughtfully. “I haven’t the slightest idea. Let me think. Hmm… you know, there’s been several papers contesting how to quantify the spell resistance of copper beetles. The wizards involved thought it might be a matter of the instruments measuring it, but perhaps it’s variable. Also sand writhers would be a good candidate to study, though they’re native to Persama, so it might be hard to—oh! There’s that wonderful Gate of yours.”
+
+Mirian nodded. “Good. We can start investigating their ability to infuse their own tissue with concentrations of soul energy. Once the investigations are set up, I’ll be going back down into the Labyrinth again.”
+
+The meeting broke up shortly after that. Three days later, Nicolus and Nurea arrived with new crates of myrvite parts, and Mirian returned to the depths.
+
+***
+
+Fortunately, unlike with Frostland’s Gate, there was little movement of the Labyrinth beneath Torrviol. The abominations she killed down there remained dead, though of course, all the corpses still mysteriously vanished when left alone for too long.
+
+It took two more shipments of myrvite parts before Mirian was able to break into the last room of the first Vault. A particularly baffling ecosystem puzzle seemed to be asking what ate the nightmelders of the northern high desert. The answer turned out to be a rare, previously undiscovered fungus. It was only by studying an intact nightmelder corpse that Viridian was able to isolate the spores of the fungus, which attached themselves to the myrvite while alive, then grew when it died. It was the spores she needed to deliver to the last pillar in the last room.
+
+Then, she saw the final door. Gaius had been right. This Vault was significantly shorter than the last one. Primarily, this Vault seemed to be about teaching lessons about anatomy, symbiosis, and parasitism. The glyphs and runes of the final door all told a story of the interactions between arcane and celestial energies. It was simple enough to open.
+
+Inside, she saw the nine statues of the Elder Gods. The depictions of them were exactly the same as they had been in the Frostland’s Gate Vault. Zomalator was still represented. So was the mysterious ninth God. She wondered what Priest Krier, or perhaps Pontiff Occulo would say about the depictions.
+
+Mirian touched the lid of the stone chest in the center of the room. The stone split apart, the pieces retracting into the fourth dimension.
+
+She instantly recognized several of the items. One of them was the crystal-creation stone. That would give us two total, she thought. Another was a leyline repulsor—the same kind the Akanans used to keep their airship dreadnoughts afloat. That would be useful.
+
+Three of the devices she didn’t recognize. The last object was a cube full of violet and orange liquid that seemed to turn silver from a different angle. Her heart beat faster. Another cube of relicarium.
+
+She left the cube and gathered the other devices.
+
+***
+
+The 28th of Solem came and went without incident. Mirian kept Cassius’s militia on patrol all the same, just in case. She also received the reports of her agents regularly. From the letters, she couldn’t detect anything out of the ordinary from Palendurio. From the Syndicate reports, Cairnmouth seemed normal too. Professor Runer was detained and imprisoned for a month in Rambalda, but finally let go and reported Ibrahim was nowhere to be seen. Selesia’s reports from Akana noted the airships remained grounded, but it seemed the Akanan forces were still mobilizing, and war fever was still everywhere in the country. Liuan was delaying Akana’s invasion more than preventing it.
+
+Another thing that will become a problem if the cycles get longer. There was the Palendurio crisis and coup, the matter of the Luminate Order and declaration, and of course, the tension between Persama and Baracuel that could very well erupt without Ibrahim’s influence. Plus, while she could remove Gaius from his hideout, leading the Praetorians to chase a ghost, eventually, they might be withdrawn and become their own problem.
+
+She had grasped the historical motions of the months she lived over and over well enough, but Mirian realized that a future without moon fall still had so many possibilities that she could only see the faintest outline of what shape it might take—and critical moments could tip events several different ways.
+
+Her investigation on orichalcum and the abomination parts would need to be repeated, but the preliminary results suggested what Torres had assumed: orichalcum still had soul energy bound to it, much like her father was able to bind soul energy to a corpse for his undead soldiers. The binding was permanent, and therefore, required a great deal of energy to break. Several magichemicals needed to be applied in sequence to do it.
+
+The abomination parts, on the other hand, seemed to have a faint attraction to soul energy, but that attraction was easily broken, like pulling apart two weak magnets. The question then became where they got the soul energy in the first place. Creatures like the carapace-crusher had spell resistance without an enervator to harvest it from people first.
+
+That implied there was still an untouched field of potential applications. Many of them might not even be new. No doubt, the Persaman Triarchy had discovered plenty of them as they experimented with necromancy. We really are at the cusp of a technological revolution, even without spell engines. But how far can we push it just within the loop?
+
+The work continued.
+
+***
+
+The next cycle, Mirian spent just over a month on the creation of a soul-storage device with her father. They spent countless hours holed up in Torrian Tower with the advanced artifice equipment there, doors locked so no one would get antsy about the kind of magic they were doing.
+
+She also shared her recent discovery with him.
+
+“A new dervish form?” he said in shock when she told him how she’d managed her temporary increase in power. It took her some time to replicate it, but once he saw it, his eyes got wide. “That’s incredibly dangerous,” he said.
+
+“I know,” she said.
+
+Her father clearly wanted to say more, but he held his tongue. Finally, he said, “I hate seeing you risk any part of you, Naluri. If you ever become a… a parent. You’ll under…” He trailed off. “That must seem so far away to you.”
+
+She nodded.
+
+Gaius cleared his throat. “You’ll need a name for it.”
+
+“Hmm?”
+
+“The dervish form. Well, it’s not even really for dervishes, is it? Caster-form, perhaps.”
+
+Mirian leaned back in the chair she was sitting in. “The Burning Wrath of the Lotus.”
+
+“Well… it does make sense that you get the credit for it, but lotuses aren’t really associated much with fire or wrath.”
+
+“Really? I sort of like it.” Seeing his skeptical face, she said, “Fine, fine. How about, ‘The Final Fires of the Phoenix.’ It references the Last Breath of the Phoenix form, but is different.”
+
+Gaius cleared his throat.
+
+“What… really?”
+
+“You may need to take a cycle off to study Persaman poetry,” he said.
+
+“Okay, one more. ‘The Burning Tempest Sunders the Sky.’”
+
+Gaius frowned. “It’s not really referencing the Khartabiat or the Five Books of Rostal’s Travels, but it at least follows the pattern.”
+
+“What? Rostal? There’s five books about him?”
+
+“The ancient Persaman hero? Yes of course. What do they teach you in Baracueli schools?”
+
+Mirian laughed. “Oh, I guess the man I know is named after the hero. I didn’t know. It sounds like I’ll have to read a few more books. Do the travels have any fights?”
+
+“Oh, you’re in for a treat,” Gaius said, face breaking out into a smile. “The Old Adamic version is the best one, because it was written in verse so it could be performed by traveling poets, but you might find Yarikh’s version enjoyable.”
+
+“Something to look forward to,” she said, smiling.
+
+***
+
+A week later, when Gaius attempted the Burning Tempest Sunders the Sky form, he had to take three days off to recover. He’d wanted to be the one to use it when attacking the enervator, but it seemed that one of Mirian’s soul ascensions was key to performing it without introducing severe soul distortions. Reluctantly, he allowed that she’d be the one to deliver the killing blow to the enervator.
+
+Their strategy was simple enough when they finally returned to the Labyrinth. Gaius started by feeding the enervator enough soul energy to overwhelm its ability to transfer. Better prepared for what it could do, his weave of runic bindings was more effective on the defense. Mirian just kept the centiscerator at bay, then they switched roles and she blasted the enervator while in her new caster-form with a black line while he started annihilating the other abomination. Once the enervator was dust, the centiscerator lost its ability to regenerate, and together, they made short work of it.
+
+Mirian stood there, staring at the remains of the abominations.
+
+Gaius didn’t say a word, he just put a hand on her shoulder. They stood there in silence, then Mirian nodded.
+
+They opened up the second Vault.
+
+Mirian deployed the advanced soul-storage device as they cut through the various myrvites, storing each soul in separate sections. Then, it was a simple enough matter to bind the souls into the pillars that required them.
+
+“You could also keep the souls bound without a device,” Gaius advised. “Your control over bindings will need to advance significantly for you to be able to hold that many souls at once without modifying them. I think I might be able to do it, but it would be easy to slip up, especially while casting glyph magic as well. Best not to leave it to chance.”
+
+She nodded. Given how much time it had taken to construct the device they were using, Mirian would have to consider an alternate path if there was ever a time constraint, like when she was preparing to fight Apophagorga.
+
+The last beast they faced was a colossal aurochs—one of the kind with thick ice plates found in the far north in the Endelice Mountains, the kind that took a swarm of carnipedes to take down. Even with two archmage-necromancers, it put up a fight, but the beast’s lack of mobility made evading it too easy. At last, it collapsed dead, its huge bulk shaking the Labyrinth.
+
+And there at the end was the final door.
+
+The second chest opened, and together, they beheld their bounty.
+
+“A chthonic needle,” Gaius said, picking up the thin device. It resembled a black crystal from one angle, but looked white from another. “There’s minuscule runes on it with instructions on how it works. I must have told you that it’s incompatible with a temporal needle, yes?”
+
+“You did.”
+
+Another device looked similar to the one in the Frostland’s Gate Vault that absorbed large amounts of heat, though it seemed to have a different function. There were three others, all made of strange four dimensional objects, that she couldn’t even guess the function of.
+
+Now she knew at least some of the resources she was sitting on. Hopefully, their research would uncover the function of the other Elder relics.
+
+The work continued.
