@@ -1,0 +1,723 @@
+Thanks to the Dorvus, she now further understood the potential threat that Jalkra and Xeldraptos Bane posed to her crew. It was clear that she needed to expedite the training of her team once again. For the sake of safety and defensive security, she had already mapped out her plan, etching every contingency into her mind.
+
+Her priorities had shifted to ensuring that everyone had access to the training facilities—an absolute necessity should a battle arise. Beyond mere drills, she envisioned combat exercises under moonlight and emergency signals ringing through the Crystal Shelter's glades. However, reinforcing the defenses of the Crystal Shelter's glades was equally important.
+
+To address these challenges, she decided to assign Gilbud, the sapkins, and the osseods to key positions. They were ideally suited for the task, capable of naturally producing and manipulating a variety of resources. She would have them collaborate on the endeavor, sharing insights at the break of every dawn so their combined talents would forge a living fortress.
+
+When she encountered him, Gilbud had been chosen as the Head of the Construction Task Force, taking on the role of commander. The sigil atop her head shimmered before her, bringing his current status into focus.
+
+꒰ᐢ. .ᐢ꒱꒰ᐢ. .ᐢ꒱꒰ᐢ. .ᐢ꒱
+
+Creature: Gilbud the Plelepun
+
+Faux Nym: [Gilbud]
+
+Title: "Head of Construction"
+
+APeX: [8533 Units]
+
+Evolution Stage: [Fledgling]
+
+Brief description: tunneling elephant calf.
+
+Attributes: [Terra]
+
+KiAera's Bond:
+
+[Trust] - Tier B (3%)
+
+Current Variant Grade: [Uncommon]
+
+꒰ᐢ. .ᐢ꒱꒰ᐢ. .ᐢ꒱꒰ᐢ. .ᐢ꒱
+
+With his assignment, KiAera's heart oscillated with delight as she watched the creature trotting toward the perimeters of the shelter. His trunk swayed with immense content and swank as he directed his team to the construction of walls and forts.
+
+She remained keen on their work, lingering at the edge of the clearing to admire the rising ramparts, seeking to intervene if they needed any guidance—when Mina's presence threw her off. The horned woman stood at her side, observing the team quietly.
+
+A beat passed between them, the quiet stretching until it became heavy. Then Mina pointed toward the bustling crews with a casual flick of her wrist.
+
+"Allow me to join in. Figured I could provide muscle to the team."
+
+KiAera quirked an eyebrow at her, but offered a small nod. "To provide support to the construction? Sure, go ahead."
+
+Leaving Mina behind to integrate into the construction squads, KiAera ambled away from her position and headed inside the training facility.
+
+Above the tall, arched doors, shining symbols illuminated each of these entrances, denoting which rooms were occupied. She spared a quick glance upward, mentally noting the layouts as she passed through the threshold.
+
+Stepping inside to check out each of their occupants, she discovered Skadicritt and the Nexperbax triplets were enjoying themselves in the [Speed] Chamber. Shouts of excitement and bursts of kinetic energy echoed off the high walls, vibrating through the polished floorboards like the pulse of some great engine. Hanging from the ceiling, she spotted the scoreboard—and flinched at what appeared.
+
+RECORDS (10 Laps):
+
+1. Nex - 11.1 Seconds!
+
+2. Rox - 18.4 Seconds!
+
+3. Viz - 18.6 Seconds!
+
+4. Skadi! - 65.6 Seconds!
+
+5. KiAera :3 - 86.6 Seconds!
+
+6. Amber - 90.3 Seconds!
+
+7. Kyrawl - 100.5 Seconds!
+
+Records broken again. With the current field being 1600 meters per lap, Nex had proven to have been able to run a staggering 10 laps—totaling 16,000 meters—in just 11.1 seconds, putting his average speed at approximately 1,441.4 meters per second, or about Mach 4.2, the speed of a hypersonic jet. She blinked at the number, wondering how the air around Nex hadn't caught fire mid-sprint. The triplets had clearly unlocked something beyond natural, and her slight, stunned chuckle turned into a sigh.
+
+There was no keeping up with that.
+
+Glancing back at the scoreboard, she winced slightly at her own placement. Skadicritt's best was just over a full minute per lap, and even she—who considered herself reasonably fast—was trailing far behind that.
+
+Her mind spun faster than her feet ever could, comparing these feats to the scale of her old world:
+
+Name
+
+Time (s)
+
+Speed (m/s)
+
+Real-World Comparison
+
+Nex
+
+11.1
+
+1,441.4
+
+Hypersonic missile, Mach 4.2+
+
+Rox
+
+13.4
+
+1,194.0
+
+Ballistic missile stage, Mach 3.5
+
+Viz
+
+13.6
+
+1,176.5
+
+Meteoroid-level speed
+
+Skadicritt
+
+65.6
+
+243.9
+
+Commercial jetliner speed
+
+KiAera
+
+86.6
+
+184.8
+
+Private jet speed
+
+Amber
+
+90.3
+
+177.2
+
+High-speed aircraft
+
+Kyrawl
+
+100.5
+
+159.2
+
+Early aircraft / 6x faster than a cheetah
+
+She knew one thing: if Nex could maintain even half that pace during a skirmish, he would be their sharpest blade.
+
+Her gaze lingered on the group as they zipped across the training field, little more than blurs streaking between checkpoints. By form alone, she could pick out Nex, Rox, Viz, Skadicritt, Amber, and Perl among them, moving with a kind of exuberant grace that felt almost infectious. Despite herself, KiAera smiled. She couldn't resist the urge to peer deeper into their statuses next—eager to gauge their true capabilities now that their progress was showing in such spectacular fashion.
+
+They were the following:
+
+• • • • • • • [1]
+
+Creature: Nex the Nexperbax
+
+Faux Nym: Awaiting Confirmation…
+
+APeX: [11644 Units]
+
+Evolution Stage: [Fledgling]
+
+Brief Description: extreme speed bat monster.
+
+Attributes: [Sound] [Wind]
+
+KiAera's Bond:
+
+[Trust] - Tier D (22%)
+
+Current Variant Grade: [Rare] (63%)
+
+Parameters
+
+Nat. (+Bonus)
+
+Final Value
+
+STR
+
+8([+3000])
+
+3000
+
+DEF
+
+11(+[0])
+
+0
+
+FPWR
+
+8([+2000])
+
+2000
+
+WIL
+
+3([+0])
+
+0
+
+RES
+
+6(+[0])
+
+0
+
+SPD
+
+10(+[6000])
+
+18,000
+
+꒰ᐢ. .ᐢ꒱꒰ᐢ. .ᐢ꒱꒰ᐢ. .ᐢ꒱
+
+• • • • • • • [2]
+
+Creature: Rox the Nexperbax
+
+Faux Nym: Awaiting Confirmation…
+
+APeX: [8525 Units]
+
+Evolution Stage: [Fledgling]
+
+Brief Description: extreme speed bat monster.
+
+Attributes: [Sound] [Wind]
+
+KiAera's Bond:
+
+[Trust] - Tier C (41%)
+
+Current Variant Grade: [Uncommon] (34%)
+
+Notes: Operates best as a scout and messenger for exploration teams.
+
+꒰ᐢ. .ᐢ꒱꒰ᐢ. .ᐢ꒱꒰ᐢ. .ᐢ꒱
+
+• • • • • • • [3]
+
+Creature: Viz the Nexperbax
+
+Faux Nym: Awaiting Confirmation…
+
+APeX: [8014 Units]
+
+Evolution Stage: [Fledgling]
+
+Brief Description: extreme speed bat monster.
+
+Attributes: [Sound] [Wind] [Voltage]
+
+KiAera's Bond:
+
+[Trust] - Tier B (12%)
+
+Current Variant Grade: [Uncommon] (22%)
+
+Notes: Operates best as a scout and messenger for exploration teams.
+
+꒰ᐢ. .ᐢ꒱꒰ᐢ. .ᐢ꒱꒰ᐢ. .ᐢ꒱
+
+• • • • • • • [4]
+
+Creature: Perl the Perlachirp
+
+Faux Nym: Awaiting Confirmation…
+
+APeX: [6500 Units]
+
+Evolution Stage: [Fledgling]
+
+Brief Description: small songbird monster.
+
+Attributes: [Sound] [Wind]
+
+KiAera's Bond:
+
+[Trust] - Tier C (18%)
+
+Current Variant Grade: [Uncommon] (42%)
+
+꒰ᐢ. .ᐢ꒱꒰ᐢ. .ᐢ꒱꒰ᐢ. .ᐢ꒱
+
+• • • • • • • [5]
+
+Creature: Amber the LeapLeap
+
+Faux Nym: Amber
+
+APeX: [6818 Units]
+
+Evolution Stage: [Fledgling]
+
+Brief Description: large ratite monster.
+
+Attributes: [Wind] [Beast]
+
+KiAera's Bond:
+
+[Trust] - Tier B (25%)
+
+Current Variant Grade: [Uncommon]
+
+꒰ᐢ. .ᐢ꒱꒰ᐢ. .ᐢ꒱꒰ᐢ. .ᐢ꒱
+
+• • • • • • • [6]
+
+Creature: Skadicritt the Merecritt
+
+Faux Nym: Skadicritt
+
+APeX: [10551 Units]
+
+Evolution Stage: [Fledgling]
+
+Brief description: sparkling striped-squirrel.
+
+Attributes: [Beast] [Celestial]
+
+KiAera's Bond:
+
+[Trust] - Tier B (85%)
+
+Current Variant Grade: [Rare]
+
+꒰ᐢ. .ᐢ꒱꒰ᐢ. .ᐢ꒱꒰ᐢ. .ᐢ꒱
+
+After exchanging quick greetings… and enduring several boast-laden gloats from Nex, she allowed herself a shake of the head and moved toward the next chamber.
+
+The corridor walls here were lined with suspended weights and rune-etched punching bags. Above the door, the word [Strength] glowed in bold crimson.
+
+She went ahead and examined the status of those in the room.
+
+꒰ᐢ. .ᐢ꒱
+
+• • • • • • • [1]
+
+Creature: Kyrawl the Skyrawsoar
+
+Faux Nym: Kyrawl
+
+APeX: [14514 Units]
+
+Evolution Stage: [Emergent]
+
+Brief description: evolved wing crawling wyvern.
+
+Attributes: [Deino] [Wind]
+
+KiAera's Bond:
+
+[Trust] - Tier C (40%)
+
+Current Variant Grade: [Uncommon] (54%)
+
+꒰ᐢ. .ᐢ꒱꒰ᐢ. .ᐢ꒱꒰ᐢ. .ᐢ꒱
+
+• • • • • • • [2]
+
+Creature: Scarbol the Kobolbalt
+
+Faux Nym: Col Scarbol
+
+Title: "Division Commander"
+
+APeX: [8140 Units]
+
+Evolution Stage: [Emergent]
+
+Brief description: evolved kobold monster.
+
+Attributes: [Brawl] [Cryptic]
+
+KiAera's Bond:
+
+[Trust] - Tier B (60%)
+
+Current Variant Grade: [Common] (93%)
+
+꒰ᐢ. .ᐢ꒱꒰ᐢ. .ᐢ꒱꒰ᐢ. .ᐢ꒱
+
+• • • • • • • [3]
+
+Creature: Tailza the Kobolbo
+
+Faux Nym: Tailza
+
+APeX: [4802 Units]
+
+Evolution Stage: [Fledgling]
+
+Brief description: fledgling kobold monster.
+
+Attributes: [Brawl] [Cryptic]
+
+KiAera's Bond:
+
+[Trust] - Tier B (84%)
+
+Current Variant Grade: [Common] (44%)
+
+꒰ᐢ. .ᐢ꒱꒰ᐢ. .ᐢ꒱꒰ᐢ. .ᐢ꒱
+
+Kyrawl roared as she entered the room, and she saw that his focus remained sharp on the floor. She held back a smile when she saw him training alongside Scarbol, the Kolkobalt. Together, Kyrawl and the kobolds fought side by side, united in their session against a common enemy. The punching bags in the room designed to resemble the Shugmoks they had faced in past battles. Those snake-tailed, fuzzy-furred creatures with gorilla-like postures. Yet, in this training session, their opponents were not the real Shugmoks, but golems programmed to mimic these dreaded beasts. It was clear that Kyrawl and his allies were in the process of taking a stand against the Shugmok golems.
+
+Kyrawl swooped in, striking as he provided air support for the kobolds, while Scarbol barked commands to them. Surprisingly, he executed the formations she had taught him. It was an impressive sight, especially considering that the Shugmoks were individually more powerful.
+
+꒰ᐢ. .ᐢ꒱
+
+Creature: Shugmok Golem
+
+APeX: [10,000 Units] each.
+
+꒰ᐢ. .ᐢ꒱
+
+And yet, despite the Shugmoks' towering might and ferocity, the team held their ground. Kyrawl would launch into a spiraling dive, wind trailing off his wings like streamers, raking the Shugmoks across the spine with a scream of [Wind Wing] while Scarbol called for a feint-right maneuver. In perfect timing, Tailza would roll under one's legs and strike its weak-point—the rune etched in the chest.
+
+Ten Shugmoks collapsed to rubble within thirty heartbeats.
+
+KiAera's gaze locked on the rhythm—Scarbol's leadership had matured. Every kobold now had an identity in formation.
+
+She tapped into her interface and pinged Scarbol directly. Thanks to GamaGen's help, this prototype only worked in base. Communication within the Crystal Shelter had never been sharper.
+
+[KIAERA]: "Formation work is excellent. Have Tailza lead half a set next session. Want her instincts tested under real-tension simulation."
+
+A pause. Then the HUD flashed back.
+
+[SCARBOL]: "Affirmative, KiAera. Tailza's claws're sharper than she lets on."
+
+[TAILZA]: "I HEARD THAT."
+
+A huff of laughter escaped her. It was good to see morale so lively. But she still had more to assess.
+
+␥␥␥
+
+Crystal Vault [Total] =
+
+Light-Green Crystals x19
+
+Dark-Blue Crystals x68
+
+Blue Crystals x411
+
+Light-Blue Crystals x19355
+
+␥␥␥
+
+That had been last total before burning through them to power several of the facilities. She returned to the count to find out how much was left. Some were still necessary to feed her crew.
+
+␥␥␥
+
+Crystal Vault [Total] =
+
+Light-Green Crystals x19
+
+Dark-Blue Crystals x48
+
+Blue Crystals x351
+
+Light-Blue Crystals x9355
+
+␥␥␥
+
+The drain had been heavier than anticipated. Ten thousand Light-Blue Crystals burned away in less than a day—just to fuel the [Speed] and [Strength] chambers, and keep the lesser sanctums online. The training might have been intense, but if it kept her units sharp and alive, it was a worthy cost.
+
+Still, it left her with a simmering concern: sustainability.
+
+KiAera made a mental note—she would need to assign the Crystal Extractors again, particularly for the ones nestled beneath the Glimmerpine hollows. Oath and Dime the Dimetfern would be ideal for the task.
+
+Her next step was clear. The chamber labeled [Firepower] shimmered faintly ahead. As she stepped through the threshold, the sound of measured clicks and rhythmic bursts welcomed her.
+
+Inside, she found Dime mid-air—her fern-sail rotating like gyroscopic anchors, eyes locked onto distant pin-targets. Her body blurred as she loosed three spiraling leaves in under a second. They whistled through the air, splitting bullseyes on three separate mechanical scouts before the echo of her landing even reached KiAera's ears.
+
+꒰ᐢ. .ᐢ꒱
+
+Creature: Dime the Dimetfern
+
+Faux Nym: Dime
+
+⚠︎ Awaiting Evolution Confirmation ⚠︎
+
+Evolution: [8000 | 8000]
+
+APeX: [8300 Units]
+
+⚠︎ Awaiting Evolution Confirmation ⚠︎
+
+Evolution Stage: [Fledgling]
+
+Brief description: fledgling dimetrodon monster.
+
+Attributes: [Plant] [Relic] [Wind]
+
+KiAera's Bond:
+
+[Trust] - Tier C (25%)
+
+Current Variant Grade: [Uncommon] (31%)
+
+꒰ᐢ. .ᐢ꒱
+
+"KiAera." Dime tilted her head toward her.
+
+KiAera returned nod, but after noticing the evolution nearing for Dime. She and the Dimetfern spoke a bit, until Dime underwent a transformation the moment she accepted the condition. The Chimera's Mark shone through the room. And an evolved Dime stood before her.
+
+꒰ᐢ. .ᐢ꒱
+
+Creature: Dime the Dideinofern
+
+Faux Nym: Dime
+
+APeX: [8300 Units]
+
+Evolution Stage: [Emergent]
+
+Brief description: evolved dimetrodon monster.
+
+Attributes: [Plant] [Relic] [Wind]
+
+KiAera's Bond:
+
+[Trust] - Tier C (45%)
+
+Current Variant Grade: [Uncommon] (31%)
+
+꒰ᐢ. .ᐢ꒱
+
+KiAera watched as Dime checked herself out, towering significantly over her. She could have been the same size as Oath, but the much larger synapsid possessed the sleekness of a crocodile. If KiAera were to compare Dime to any creature she knew from Earth, it would be a Kaprosuchus. However, this one had a bladed fern sail that would make a Spinosaurus envious. She gave Dime a pat on the snout before briefing her on the details of her next assignment.
+
+Dime's brow furrowed as she nodded. "Head with Oath to the Glimmerspine hollows. Got it." Without saying anything else, she bounded away.
+
+As she watched the Dideinofern exit the space, KiAera took a moment to check herself. She noticed the new form she could transform into—another Emergent-stage form she had recently unlocked. This was an enigma for her, but seeing that the others were fully focused on their work, she felt a desire to do something for herself.
+
+Her innate status flickered in her mind's eye.
+
+꒰ᐢ. .ᐢ꒱
+
+[Innate Status]:
+
+Name: KiAera
+
+Age: [40 Cycles] [25]
+
+Race: [Merecritt]
+
+Species: [Mearcritt]
+
+Special Traits:
+
+[Chimera's Mark]
+
+Memorized:
+
+- LeapLeap
+
+- Sapkin
+
+- Osseod
+
+- Skyrawsoar
+
+Evolution Stage: [Emergent]
+
+Variant Grade: [Uncommon]
+
+Dominions: [Revise] [Virtuoso]
+
+Attribute Influence: [Beast] [Fire]
+
+Stored AP: [9112]
+
+Current APeX: [20,450 Units]
+
+Power Limit Cap (APeX): [135,000 Units]
+
+␥␥␥
+
+[EVOLUTIONS]
+
+??? {Emergent}
+
+Mearcritt {Emergent}
+
+␥␥␥
+
+꒰ᐢ. .ᐢ꒱
+
+[MISC Skills]
+
+[Insight + Sigil] - [D] (20%)
+
+꒰ᐢ. .ᐢ꒱꒰ᐢ. .ᐢ꒱꒰ᐢ. .ᐢ꒱
+
+She headed to the [Willpower] chamber, where she felt most at peace. Settling in, she took a deep breath and concentrated on the vague image of the beast in her mind. It was a figure that was difficult to capture, but grasping it wasn’t essential—yet she did. Her thoughts intertwined with it, tugging gently. As she focused on the silhouette she saw within herself, an explosion of warmth radiated from her chest.
+
+Her form shifted from that of the Mearcritts to the newfound one, and she shivered. Her fur fluffed out more than usual, and the sensation of extra weight felt foreign. Standing, she found herself bouncing instead of walking, and then she suddenly slammed into the floor, creating a dent where she landed. It was perplexing to feel herself in a rounder figure, slightly larger than a Mearcritt, but the difference was all in the fur.
+
+Her long rabbit feet caught her off guard as she stumbled, rolling across the room. With a seismic thud, she crashed through one of the fountains, but remarkably, she remained unharmed. Expecting to be dazed, she found it easy to hop to her feet.
+
+As she observed her paws, she realized this form was the next evolution of the Mearcritt. She checked what it was called, and her innate status flashed before her. To her surprise, she saw her image reflected back, and she marveled at how defense-oriented this new form was. The status read:
+
+꒰ᐢ. .ᐢ꒱꒰ᐢ. .ᐢ꒱꒰ᐢ. .ᐢ꒱
+
+[New Slide-Evolution Unlocked!]
+
+Creature Form: Pluffcritt
+
+Species: [Mearcritt — Defensive Slide Variant]
+
+Evolution Stage: [Emergent]
+
+Attributes: [Beast] [Fire]
+
+APeX: [20,450 Units]
+
+Subtype: [Bulwark-Class]
+
+Passive Traits:
+
+— [Furfortress Hide]: Physical resistance multiplied by 3x.
+
+— [Boulder Waddle]: Reduces knockback, improves grounded stances.
+
+— [Pluffquake]: Area-of-effect slam activated upon landing from a leap.
+
+Innate Skills:
+
+— [Brunt Bounce] – Convert damage taken into kinetic rebound.
+
+Brief Description:
+
+A rotund, heavily-furred variant of the Mearcritt line, Pluffcritt are known for their uncanny durability, deceptively swift bounding, and passive resistance to all elemental effects.
+
+The fluff insulates against kinetic impact and arcane disturbance alike. Often used as living shock-absorbers or last-line protectors.
+
+꒰ᐢ. .ᐢ꒱꒰ᐢ. .ᐢ꒱꒰ᐢ. .ᐢ꒱
+
+KiAera blinked slowly as her massive, puffball-like ears twitched in delay, then at her stout paws again.
+
+"..I'm a living crash pillow," she murmured. Yet it didn't feel like a downgrade. Not even close. Everything about the form radiated security. She rolled her shoulders—or tried to—and the slight seismic tremor it caused made her chuckle. She wasn't fast in this form, but she didn't have to be. This was what she needed when defense wasn't just a tactic.
+
+The room's fractured fountain let out a wheeze. She glanced back. "Sorry about that," she whispered to it, then paused. "No, not sorry. Worth it."
+
+A ping blinked in the top-right of her interface.
+
+[MINA]: "Noticed your Core Signature shift. You alright?"
+
+[KIAERA]: "Just had a personality expansion. Also a bit of a waistline expansion."
+
+[MINA]: "...Send pic?"
+
+[KIAERA]: "In person. I'm waddling over now."
+
+Another window bloomed as she moved—this time from Gilbud.
+
+[GILBUD]: "Yo. Walls at Section Theta are mostly up. We did a crash test on them. I mean, I crashed into one. It held. We're proud."
+
+KiAera beamed, her ear flicks twitching in pleased sync.
+
+[KIAERA]: "Good. Add more root-tethers at the base. I want those walls to survive an Orselith Rage-stomp."
+
+[GILBUD]: "On it! Sapkins are already rooting in."
+
+More pings followed as she made her way through the corridor, and though her pace was slower, there was an odd, rhythmic calm to it. Almost… meditative. She could already feel that this form would be vital in the days to come. Because if Bane or Jalkra moved soon… She needed to be the one who didn't move. But the one who held.
+
+[SKADICRITT]: "Oh my STARS you look like an overgrown dandelion puff."
+
+[GILBUD]: "You look like a bouncy wall. I approve."
+
+[NEX]: "Can I crash into you at speed to test durability?"
+
+She let out a huff—a little wheeze-squeak that bounced off the chamber walls as she hit Do Not Disturb across her HUD.
+
+Not the form for sharp fights or stealth ops… but as a front-liner or base defender, it was perfect. She could post herself at the weakest flank and become a literal wall if needed.
+
+The next thirty minutes she spent learning the bounds of her form—pushing it against walls, testing its weight under stress, even hurling herself from the upper tiers of the [Willpower] chamber's obstacle lattice.
+
+Each time she hit the floor, the ground dented, and her body absorbed it like an airbag wrapped in steel will. She could feel every kinetic nuance—how much force her paws could redirect, the way her fur acted as a slow-momentum disperser. And when she activated [Brunt Bound], the floor behind her cratered while she sailed over a sixty-foot stretch of terrain.
+
+A warm pulse echoed behind her sigil—Skadicritt pinging again.
+
+[SKADICRITT]: "If we braid ribbons into your tail tufts will you look like a festival goddess?"
+
+She definitely hit Do Not Disturb again.
+
+Still… she knew this form had a use. And right now, with Gilbud's team fortifying the glades, Dime and Oath on resource extraction, and the chambers nearing overuse thresholds—she had to ready another assignment set.
+
+She toggled her interface again, opening the field-wide protocol grid.
+
+[OPEN: Deployment Grid > Defense Tier Priority > Region: Crystal Glade Perimeters]
+
+She began drafting the next wave of assignments.
+
+[TASK BRANCHES UPDATED]
+
+— Defensive Construction Team: [Gilbud, Osseods, Saptal, Mina]
+
+— Extraction Team, Glimmerspine Hollow: [Dime, Oath]
+
+— Extraction Team, Belbulb Fissure: [Kyrawl, Skadicritt]
+
+— Inner Garden Crew: [Mezmeics, Sapshorla]
+
+— Inner Sanctum Guard: [Col Scarbol, Tailza, Kobolbos]
+
+— High-Speed Recon Chamber: [Nexperbaxes x3, Amber, Perl]
+
+She allowed herself to ease and let the [Pluffcritt] form fall away. The fur compacted inward and she emerged again as the sleeker silhouette of the Mearcritt. Gone was the bounce. This was her natural state. "Let's try this," she muttered, flexing her fingers.
+
+She called the first skill that she learned some time back: [Spectral Armament].
+
+A current of flickering flame swirled around her ankles, then climbed along her fur. The armor didn't weigh her down, instead it wrapped around her limbs in translucent spectral fire.
+
+"Alright, come."
+
+A blunt rod jutted from a training spire and swung toward her. Instinctively, she let it strike her chest and the rod met her [Spectral Armament], only to scatter harmlessly into motes of silver light. The recoil of the force dispersed as embers kissed the floor. She didn't move a step. That made her grin.
+
+Next, she whispered the trigger. [Spectral Might]. A low growl vibrated through her throat as her limbs tensed and her claws sharpened without physical change—the power was felt, not seen. Her strikes would now hit with a weight three times greater than before. She sprinted and slammed her palm into one of the stone dummies. It shattered with a thunderclap of flame and rock splinters.
+
+She leapt backward—then howled: [Spectral Surge]. The chamber roared with her. Her entire body ignited—not in fire, but in the spectral simulation of it. Her speed doubled. Her strikes became blurs of trailing flame. She was a comet, where every dash ricocheted through air and wall alike. It was a form of chaos that was elegant.
+
+And the final piece she developed thanks to GamaGen's tutelage: [Spectral Arms: Twin Claws].
+
+Igniting were twin ribbons of spectral fire that coiled down her arms, solidifying at her wrists and curling into vicious claws that pulsed with phantom flames. When she slashed, the air itself split with a high-pitched echo and aftershocks rippling in her wake. She struck again and again, darting between phantasmic targets that shimmered into existence from the chamber's illusion grid. One, two, three—her claws carved through them with silent devastation.
+
+The flames dulled, then disappeared, and she stood in the fading afterglow, claws withdrawn and armor dismissed.
+
+"Perfect execution," she said under her breath.
+
+Though everything was still so fragile. She could feel it—the momentum was in their favor now. The crew was leveling, the foundation was stable, and her body was primed for impact. Let Jalkra and Xeldraptos Bane come. They wouldn't shatter the Crystal Shelter without cracking through her first.
