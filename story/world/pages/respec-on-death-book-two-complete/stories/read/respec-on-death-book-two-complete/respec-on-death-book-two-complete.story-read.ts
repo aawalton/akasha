@@ -1,0 +1,42 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const respecOnDeathBookTwoComplete = {
+  id: "01a16785-ed04-7efc-bf07-529fa8269d69",
+  type: "page-type/story-read",
+  slug: "respec-on-death-book-two-complete",
+  author: "Godric",
+  following: false,
+  unit: "unit/words",
+  title: "Respec On Death (Book Two Complete)",
+  world: "world/respec-on-death-book-two-complete",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "112301",
+      externalLink: "https://www.royalroad.com/fiction/112301/respec-on-death-book-two-complete",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Portal Fantasy / Isekai",
+    "Progression",
+    "War and Military",
+    "Male Lead",
+    "Action",
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "Dystopia",
+    "Magic",
+    "Mythos",
+    "Slice of Life",
+    "Strategy",
+    "Strong Lead",
+    "Supernatural",
+  ],
+  publicationStatus: "hiatus",
+  readLater: true,
+  createdAt: "2026-10-23T06:49:52.644Z",
+  updatedAt: "2026-10-23T06:49:52.644Z",
+} as const satisfies StoryRead
