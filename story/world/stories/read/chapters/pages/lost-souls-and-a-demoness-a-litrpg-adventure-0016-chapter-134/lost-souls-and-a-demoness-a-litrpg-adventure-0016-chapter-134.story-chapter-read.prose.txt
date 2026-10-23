@@ -1,0 +1,137 @@
+Luis knocked back the Swamp Lurker with a powerful bash from his shield, stunning the creature long enough for Jade to deliver a precision strike to one of the weak points on its scaly back. The monster looked a lot like a six-legged crocodile, except its tail was covered in long, sharp spikes. It thrashed about in the muddy bog water, righting itself and snapping at her with powerful jaws. Too slow. Jade darted away, keeping the monster's attention long enough for Fenrin and Tara to nail it with arrows and bolts of searing fire. Wounded and confused, the Swamp Lurker turned to flee back into the deep pool it had ambushed them from, mud churning beneath its powerful legs as it moved with surprising speed for such a large creature.
+
+It ran right into Luis's waiting blade.
+
+You have defeated: Swamp Lurker.
+
+You have gained 500xp.
+
+"See any more of them?" Jade panted, taking a careful look at their surroundings.
+
+It was the second day of their journey to the Core site, and the aperture that granted access to it. Parker and Ellie had never laid eyes on the portal arch themselves, but their Pathfinder spells had shown it to be quite close as they'd journeyed towards Illysport. It was somewhere nearby, hidden in the murky bog they now slogged through together.
+
+"Nothing here."
+
+"All clear."
+
+The team searched together, not dropping their guard until they were certain of their safety. The coordinated, unified movements were a far cry from their first days working together, and Jade was proud of how far they had come in a matter of weeks.
+
+"Should we keep going?" Siora asked, casting a wary glance at the large pool the monster had attacked them from.
+
+"I don't think we're going to get around it this way." Luis said, eyes distant as he scanned something in his interface. "This pond is more like a lake, it's bigger than we thought."
+
+While the Pathfinder spell was useful, it was far from fool proof. In the end, it amounted to little more than a magical compass that could show Earth wayfarers the direction to the closest Core. The spell also imparted a sense of distance, but that was more vague. Following the arrow had led the raid group into the Silvermist Bog quadrant, which lived up to its name. A dense fog hung over the marshland, obscuring their vision and making navigation a challenge. Even their interface maps were affected, revealing a much smaller radius than normal as they travelled. When the party ran across a pool too deep to wade across, they'd had to stop and look for a way around.
+
+"Let's regroup with the others." Naomi suggested.
+
+"I could fly across." Jade offered, lifting herself to hover a few feet above the ground. "If it's not too wide, maybe we could swim it."
+
+"With those things hanging around?" Naomi pointed to the Swamp Lurker's corpse as Luis looted it. "You first."
+
+"You don't split the party, Jade." Luis said, shaking his head as he returned with the monster loot. "That's basic adventuring."
+
+"Did your schools teach you that as well?" Tara asked, twirling her wand and stowing it in a holster at her hip. "The academy stressed that to our class on many occaision. Most of the accounts I've read of expeditions going wrong involved splitting the team up, or someone going off alone."
+
+"Have your people been spying on Jade?" Naomi asked.
+
+"I'm not that bad."
+
+The team all turned to look at her.
+
+"Well, I'm working on it!" Jade defended herself.
+
+Laughing, the team regrouped and began making their way back to the meeting point with Parker's party. They did their best to maintain a small distance between their groups, as the Labyrinth was known to start generating additional monsters around any large collection of people. Jade wouldn't mind the extra xp, but they weren't well equipped to fight a swarm of the creatures inhabiting the swamp lands. That, and it would slow them down.
+
+It didn't take long to regroup with the others and share what they'd learned. Fortunately, the other team had been more fortunate in their search.
+
+"We couldn't find the far end of the lake, but Aki uncovered what she thinks is a path across." Parker explained to the group. He nodded to the older of the two siblings, prompting her to continue.
+
+"My Earth Warden class comes with some abilities that let me sense the ground around me." The Japanese woman explained. Like Luis, she favored heavier armor than the rest of them. "There is a shallow section in the pool, like a bridge, but just barely submerged."
+
+"Do you think it goes all the way across?" Fenrin asked.
+
+"We didn't go far enough to check, but my instincts say yes."
+
+"That's better than anything else we've found." Jade said with a shrug. "Let's check it out."
+
+Aki led the way with her brother, Eita, trailing slightly behind. Jade joined Parker at the head of the rest of their combined party, trudging along the muddy embankment that formed the edge of the murky bog water. With the mist as thick as it was, none of them could see more than fifty feet or so. Jade relied more on her magical senses, constantly sweeping them across their surroundings in search of danger.
+
+"We should talk about a command structure for the Core operation." Parker said, keeping a vigilant eye on the lake water while he spoke. "Fighting a couple of monsters in the wilderness is one thing, but the bosses we've faced require more coordination. We can’t afford any confusion."
+
+"Not a bad idea." Jade said, a little cautiously. "Do you have something in mind?"
+
+"I do." He gave her an appraising look. "I think you're best suited to taking charge."
+
+"Me?" She blinked in surprise. That wasn't what she expected to hear.
+
+"Your team is the one that's been in a corespace before, you have more experience with this."
+
+"Naomi is usually the shot caller on our team. Why not her?"
+
+"We've worked together long enough that I have a good sense of your team dynamic. She handles a lot of your tactical decisions because she's far enough back that she can see the overall situation. But when it comes to the overall plan, everyone turns to you."
+
+Jade wasn't so sure about that. Most of the time, it didn't feel like they had much of a plan to begin with. Before she could voice that opinion, he continued.
+
+"We can talk about it as a group later, but I doubt you'll get any pushback on taking charge.""I would've thought you would want that role."
+
+"The military teaches us to adapt and overcome." he gestured at their ethereal surroundings. "This is a whole new battlefield to me, and I'm having to relearn a lot of the strategies I was taught that just don't work in the Labyrinth. You're the highest level here and have the most experience with this. It should be you."
+
+Jade nodded, trying not to look as self-conscious as she felt.
+
+"I'll do my best."
+
+She was about to say something else when she was interrupted again, this time in the form of a system message.
+
+System Notice - Earth Wayfarers
+
+Earth Core number twelve has been deactivated.
+
+Third floor Cores remaining: 18/20.
+
+"It's good to know that we aren't the only ones working on this." Luis said with a look of relief. Jade could taste similar emotions from all the Earth wayfarers in their group. The confirmation that they weren't alone in their fight had given all of them, including her, a much-needed morale boost. "Do you think it was the Core we were going to? Maybe we'll meet them on the way out."
+
+"No, it wasn't." Eita said, showing the party his Wayfarer mark. A glimmering arrow hovered above the sigil, pointing towards the lake. "The Pathfinder spell still shows the same direction. It shows us to the closest one, right? It would have changed if the one we were heading towards were destroyed.""I wonder who it is…" Naomi said. "Do you think they're working with L-ReF too?"
+
+"It could be anyone." Parker shrugged. "The Chinese have more Wayfarers than all of North America combined, from what I heard. I'm more curious about where they are. We don't know how spread out the Cores are. If other teams are working on them, it'd be better if they were in a different region."
+
+"There are twenty Cores on this floor, but they probably aren't as widely spread as you're imagining." Aylin said, stepping in with an explanation. Somehow, the mage's blue robes were spotless and pristine even after a day spent slogging through the bog. Whatever enchantment protected her clothes didn't extend to her face, however, which was spattered with mud and sweat. "Going by historical accounts, at least."
+
+"How close are they, on average?" Aki asked.
+
+"There are never two in the same quadrant, but there's usually a couple of them per zone. If it's like the integrations I've studied in the past, then they should be distributed across ten zones, give or take one."
+
+"Ten zones?" Jade mused, thinking over their travels so far. "It takes at least a day to cross a quadrant on this floor."
+
+"That's a lot of area to cover." Luis agreed.
+
+"There are thousands of wayfarers in your integration." Aylin reminded them. "Much more than usual. I suspect the process will go more quickly than you're expecting."
+
+"You haven't seen the people the Labyrinth scooped up." Jade said. "Most of them aren't suited to this."
+
+"That's why we're here." Fenrin said, resting a hand each on Jade and Luis's shoulder. "Right Tara?"
+
+"I'm here to help stop a demon invasion, but I suppose I can lend a hand to some Core cleanup on the side. It'll make for good training."
+
+Both Fenrin and Siora gave her long, flat looks.
+
+"I mean, yes, of course! That's why we're here."
+
+"The two are connected, as you helped uncover." Aylin said, an amused smile curling at the corner of her lip. "Destroying the Cores will render their power useless for their rituals.""We're a long way from the fourth floor. If what Malice said is true, and if our quests are right, then that's where they are now." Jade said.
+
+"Then let's get back to it." Luis said, marching towards where Aki indicated the submerged bridge began. "We're tied in Core takedowns now. It's time to take back the lead."
+
+Jade smiled at her friend's enthusiasm.
+
+"Damn straight. These Core quests give a ton of experience; we don't want to miss out on that."
+
+They followed Luis, Aki quickly jumping to the head of the column so she could show them where to step. The bridge was narrow enough to force them into a single-file line, but it was firm and stable underfoot. Despite it being only an inch beneath the surface, the muddy water was opaque enough that, without Aki's special senses, it would've been very difficult to detect. It gave the illusion of walking on the surface of the water, which Jade found disconcerting. She didn't like not being able to see what she was standing on.
+
+"So… Jade." Eita said from in front of her, looking over his shoulder.
+
+"Yeah?"
+
+"I've been meaning to ask… What's with that armor? It's kind of…"
+
+"Kind of what?" She asked, backing up the glare she gave him with a little pressure from her aura.
+
+"Ah… Never mind."

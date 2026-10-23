@@ -1,0 +1,139 @@
+The Labyrinth store was a little larger than Jade remembered it. This time, the room was circular, the ceiling was higher, and the shelves were stocked full with an even wider variety of items.
+
+"This isn't what it looked like last time, was it?" Jade asked, looking over a nearby collection of crystaline spell implements.
+
+"Probably not." Tara said, surveying the stock with an appraising gaze. "What the Labyrinth store has inside changes as you level up. There'll always be something useful to anyone who comes in.""That's handy." Luis commented.
+
+"Until you see the prices." Fenrin said, pointing at one of the labels. "There's a reason merchants do so well in Labyrinth cities."
+
+Jade winced as she saw the indicated price. She didn't know much about Labyrinth economics, but the spell materials displayed here were nearly twice the price of similar ingredients she'd seen in Ashar's store.
+
+"Why does anyone come here, then?" asked Naomi.
+
+"Convenience, probably." Luis guessed. "You're not always near a city, or even a node.""I've heard of people finding store entrances in the middle of monster strongholds." Tara agreed. "If you need something quickly, sometimes it's the only option.""It's not like we're hurting for money. Those demons had a surprising amount of currency on them." Jade shrugged. "We may as well look around while we're here."
+
+The group split up, moving off to browse various sections of the store. As usual, they were alone in the establishment. It was a special dimension created only for them, so there wasn't a chance of running into strangers, Earth-born or otherwise. Jade made her way to the front counter, picking a meandering path through aisles of shelves lined with all manner of exotic items. She arrived to find the desk vacant, a single tall stool standing empty on the far side. Nearby, a curtain acted as a partition to what was probably a back room.
+
+"Uh, Skraag?" Jade called softly, stepping around the counter and approaching the curtain. An arcing, crackling sound was coming from somewhere beyond it, and it was backlit by a series of bright flashes. "You home?"
+
+Jade stopped beside the partition, unsure whether she was allowed to step through it. There weren't any signs warning her away, and neither did the system respond with a scolding prompt. Even so, she hesitated. The kobold shopkeeper was fascinated with developing explosives, but unfortunately, his creations tended to share his enthusiasm for their intended function. The last thing she needed was to surprise the shopkeeper while he was working on whatever volatile ingredients he used in the creation of his devices.
+
+When she received no response Jade called again, louder this time. The loud zaps and bright flashes of lights stopped abruptly.
+
+"What?" Skraag's raspy voice filtered through the curtain, sounding annoyed. "I'm busy here!"
+
+"Um, you have customers?"
+
+"Come back later!"
+
+Huh? That was a first. Did they catch him at a bad time? Or maybe she just needed a different approach.
+
+"I'm here to see what new bombs you've been working on?" Jade tried.
+
+There was a distant clatter of metal on metal, followed by a rapid series of approaching footsteps. Jade stepped back behind the counter just as Skraag threw open the curtain, revealing the familiar form of a blue-scaled kobold. He waddled over to the counter and clambered onto the stool, the large tools hanging from his belt dragging along the floor behind him.
+
+"Why didn't ya say so?" He asked, spinning to face her. "I've got just da thing for ya!"
+
+"Before you tell me more," Jade said, trying to stifle a laugh, "would you… take that off? Can you even see out of that?"
+
+For some reason, the kobold was wearing what looked like a welding mask over his face. Like, a human welding mask, from Earth. The design didn't fit his reptilian face at all, and the entire thing sat at an awkward angle. It looked completely ridiculous.
+
+"Tools of da trade!" He announced proudly, removing a welding torch from his belt and waving it around like a general holding a banner of victory. "This equipment from da new world is great! We shoulda had things like this years ago. I woulda made so much more progress!"
+
+Jade yelped, ducking as the tool discharged a shower of sparks.
+
+"Hey! Watch it!" she said, backing away and blinking spots from her vision. "That's not a toy!"
+
+"Sorry! Sorry." Skraag apologized, deactivating the device and setting it down. He flipped up his mask, revealing that somewhat unnerving, toothy grin of his. "So! How did my bomba bomb work out there in da field?"
+
+Jade took a calming breath and thought back to her infiltration of the demon ritual site in the second floor corespace. The original plan had been for her to cause a distraction and draw the defenders away so the rest of the party could disrupt the ritual, but Skraag's bomb had allowed for some last-second improvisation. It wasn't until Jade reviewed the combat log later that she realized just how effective the double explosion had been, netting her a half dozen kills before the fight had even begun. Even with its help, her escape had been a near thing.
+
+"Now that I think about it, it was very effective." Jade said, giving him a thoughtful nod. "Do you have any more?"
+
+Naomi, who was browsing a selection of instrument upgrades with Tara nearby, shot her an exasperated look. The tek'kalla, on the other hand, looked pleased at the prospect of having more alchemical explosives to study.
+
+"I'm glad you asked!" The kobold said enthusiastically, leaping off his stool and waddling to a nearby cabinet. He opened it to reveal a collection of fist-sized metal balls. "I don't have any of those right now, been workin' on somethin' new. But if you're willin' to test dem out for me, I can give you a discount."
+
+"What are they?" Jade asked, watching the shopkeeper retrieve a pair of the devices. Despite her interest, she took a cautious step back as Skraag set them down on the countertop. It never hurt to be prudent.
+
+"See for yourself." He announced proudly, gesturing for her to take one of them.
+
+Cautiously, Jade picked on up and opened the item window.
+
+Item: Bomb of Dispelling
+
+Rarity: Rare
+
+Effect: This throwable bomb detonates on impact, dealing a minor amount of force damage in a moderate radius. The explosion is imbued with a powerful dispel enchantment, removing or disrupting nearby magical effects.
+
+Jade's eyebrows shot up. These could be far more useful than simple explosives, if used in the right moment… assuming they worked as advertised. Skraag's last invention had more or less done what it was supposed to, though, so she decided to give him the benefit of the doubt. Jade quickly negotiated a deal with the kobold and then slipped a pair of the dispel bombs into her dimensional pouch. Apparently done with her, Skraag made to return to his back room, but Jade stopped him.
+
+"I have one of these, too." She said, sliding the silver compensation token onto the counter. "What does it get me?"
+
+"Oh? Haven't seen one of these in a while…" Skraag said, inspecting the coin. "Where'd ya get it?"
+
+Jade briefly related her recent, interface related issues, and then the error message she'd received. The kobold listened intently, appearing thoughtful.
+
+"Do you know what's going on?" She asked when she was done.
+
+"Hmm… that's pretty strange. Da voice and interface haven been stable for…" he trailed off, and then narrowed his eyes at her. "You're the demon Wayfarer, right? And this started at dat shrine of Growth?" He suddenly asked.
+
+"Uh… Yeah." Jade said, caught off guard by the sudden question. She was in her succubus form, as was her norm when adventuring in the Labyrinth. "Why?"
+
+"I might know what's going on.""What's that?"
+
+"Can't say. It's not somethin' I'm supposed to talk about." Skraag replied cryptically. The kobold reached under the counter and withdrew a pair of items. One was a bright orange potion, and the other was a crescent-shaped coin made of glossy black stone. Other than the material, it was identical to the crescent coins. Jade identified the elixir as a potion of growth that gave her an additional three stat points, but the system refused to list the properties of the stone coin.
+
+"The potion is for da token." Skraag said, handing it over to her.
+
+"And the coin?"
+
+"You'll have to ask a Sanctuary attendant about dat. Big Labyrinth matters are above my pay grade."
+
+"A Labyrinth attendant? We haven't seen any of them in months. Aren't they usually too busy with new Wayfarers to bother with us?"
+
+"They'll come if you have one of those." Skraag assured her. "Now, no more questions! You're holdin' up the line, and I have work to get back to."
+
+Sure enough, the rest of Jade's companions had filtered to the back of the store to join them. Tara gave the coin a curious look, but when Jade offered it to her, she shook her head.
+
+"I'll check it out later. Let's finish getting what we need, first."
+
+"Tara, do you really need another damage spell?" Naomi asked, eyeing one of the spell tomes the tek'kalla was carrying."Of course I do. My fireballs don't work well on demons, and besides," Tara removed her translucent visor to give her a better, self-satisfied look, "lightning bolt is a classic."
+
+They couldn’t get anything more out of Skraag regarding the strange token he'd given Jade, and the rest of their shopping excursion was uneventful. Siora acquired a druidic staff to serve as a better spell focus, and the rest of them acquired various weapon and armor upgrades. Most of these were simple potency enhancements, increasing the defensive and offensive power of their equipment, but Jade did stray from that a little with one of her purchases. The spell potency upgrade she applied to her dagger would decrease a creature's defenses against her spells each time she hit it, accumulating stacking debuffs until it would be all but guaranteed to fall to her magic.
+
+While the others finished up their shopping, Jade drank the stat-increasing potion the compensation token had earned her. Three new stat points immediately appeared at the top of her character screen, and she wasted no time in assigning them. She assigned one each to agility, fortitude, and intelligence, resulting in a well-rounded boost. Jade was past the point where she could feel the difference between individual stat points, but she knew better than to turn her nose up at one and a half levels' worth of bonus growth. Each new level came slower than the last, making each new point a precious commodity indeed.
+
+Right before they left, Jade found herself standing beside Fenrin at the front of the shop. He was looking at a silver pendant, the ornament stylized to look like a bird in flight. The system labelled it as an item that enhanced familiar bonds, and Jade felt a pang of guilt. Her demonic instincts immediately balked at the emotion, finding it unfit for her station, but Jade crushed that impulse almost as quickly as it arose. She cared about the losses of her friends, and her damn body wasn't going to change that.
+
+"Do you think I should bond another?" The half-elf asked, not turning to look at her.
+
+"What?"
+
+"Another familiar. I have the ability to bond with a new creature, if I can find a suitable companion.""I… didn't know that's how it works." Jade admitted. "We've been through a lot in a short time, but I'm still pretty new to magic."
+
+"Fair enough." Fenrin said, picking up the pendant and giving it an assessing gaze. "If Mimi were still here, this would be perfect for us."
+
+Since every response Jade could think of sounded empty even to her, she opted to remain silent. Instead, she simply rested her hand on his shoulder. In instances like these, she found the comfort of presence was often the only one that mattered.
+
+"I know I'm letting the team down by putting it off." He said after a short pause. Fenrin's shoulders slumped. "We aren't in a normal Wayfarer trial anymore. There's so much more at stake. We need every tool we can get our hands on.""Mirella wasn't a tool." Jade said, giving his shoulder a gentle squeeze. "Not to you. She was your friend. I don't know much about magic or familiars, but anyone could tell that. And… lost friends aren't so easily replaced."
+
+"So, should I wait?"
+
+"You should do what feels right to you. Don't worry about us. We'll make do, either way."
+
+Fenrin finally turned to look at her. He smiled, although Jade could taste the lingering melancholy hiding behind the expression.
+
+"Thanks, Jade. I'll… be ready soon."
+
+"When you're ready, just say the word."
+
+"I will." Gently, Fenrin replaced the pendant on the hook he'd taken it from. He took a deep breath, shaking his head as if to clear it. "So, what's next? On to the fourth floor?"
+
+"Maybe…" Jade slipped the odd, black coin from her pouch, inspecting it once again. "First, I think we should see what this is all about."
+
+"Do you think it's that important?"
+
+Jade frowned down at the token, idly turning it over in her hands. One side was etched with the same maze-like pattern that made up their Wayfarer makers. On the other was an image of tall, majestic tree, a jagged golden line bisecting its trunk from top to bottom like an enormous spear of light.
+
+"I don't know…" Jade admitted, putting it away with a sigh. "I just have this feeling… that everything is about to change."
