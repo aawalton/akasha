@@ -1,0 +1,289 @@
+True to Mel’s claim, the night before, the common area was full of food in the morning. Mel, Cecile, Elicec, and Timon were all sitting at the table when I walked in. I was glad to see the Twinoges were already okay enough to be eating on their own. The benefits of magical healing were something else.
+
+“How are you feeling, Dave?” Cecile asked the moment I sat down.
+
+“I’m doing okay. I’ve got the benefit of Chip to keep my mana up while I heal myself. I’m still pretty banged up inside, though. Apparently, a pierced lung isn’t the easiest thing to heal. How about you two? You okay over there, Elicec?” I asked, unsure of just how well someone could recover from a head wound like that. Traumatic head injuries were a pretty big problem for the people who suffered them on Earth, but we also didn’t have anything like regeneration to deal with. How well did healing magic work with brain injuries? We didn’t fully understand the brain yet, but I assumed that once a memory was gone, it was gone. Could magic actually restore lost memories from damage?
+
+“I’m not doing great, but it’s pretty hard to kill only one Twinoge; lots of internal redundancies. Though if you hadn’t arrived when you did, I think they would have pulled it off,” Elicec answered. That made some sense. I wasn’t much of an expert on human anatomy, let alone alien biology. Was that xenobiology? I wasn’t sure exactly what the word meant or if alien even applied here since it was a different universe altogether. Adding to the list of things I wasn’t, was a linguist.
+
+“Man, I can’t believe a plant tried to eat me. I’m having a terrible year, and now even the bus is trashed. Mel, I gotta stop doing favors for you. They never go well,” Timon said, gobbling down several sausage-looking things.
+
+“I ain’t ever promised ya well. Ya rather live a life of boredom?” Mel said, surprisingly smiling at the mantis-like man. They must have been very old friends to get a reaction like that out of Mel.
+
+“Yeah, yeah, don’t think I forgot who introduced me to my ex. But I guess more to the point now, just what the hell did you get me stuck in this time?” Timon asked.
+
+“Honestly, didn’t know anything about the seedlings, but this did prevent an interesting turn of events. I was worried we’d have to use the Archives and find something in the Spire ta go back to Dave’s world. I have a feeling we can convince the Reltleons to add it ta their network. And since ya asked so damned nicely, what I got ya stuck in is coming with us. I promise yer ex won’t find ya there,” Mel said.
+
+“Damn, Mel, you’ve got some grand plan kicking around in that cloud head of yours again, don’t you? Fuck, they aren’t ever boring, I’ll give you that. Any chance you’re ready to lay your cards out?” Timon said, rubbing his head with his arm.
+
+“No chance in hell, ya gotta make this decision blind, but ya should still have some time. These boys need to finish off the last dungeon on the planet before they’re ready to head back, and I want Dave here ta get through his first fortification before they tackle that. Which means Dave, ya need ta get yer ass back in that simulator of yers,” Mel said, turning his glare towards me. Apparently, only Timon warranted the jovial version of Mel.
+
+“I’ve got a couple of ideas, but if I push much further, I’m risking really hurting myself with a mana backlash,” I said.
+
+“Yeah, good thing I’ve got a couple more elixirs from our friends and nonstop food ordered for the day. Oh, and this,” Mel said, tossing me the Shield orb we had found in the backpack. “Pop that into one of yer slots. It’s already rank three, which I believe is better than the rest of yer orbs.”
+
+“What happens with the invested skill ranks?” I asked, having no idea. Did I get to keep them, or did they just disappear, only tied to the person who placed them there?
+
+“Sorry, should have said that before. They ain’t actually transferable, just they have had them before. Skill ranks tend to help orbs grow a little faster in the long run, but the second an orb is slotted into someone else, the old skill ranks fizzle away since they’re really just paths to the mana skills in the host’s core,” Mel explained.
+
+“Ah well, I’ve got plenty to spare, I suppose,” I said, wondering how people with a single orb managed to spend all their skill points. I seemed to have more than I knew what to do with. I guess that it was entirely possible to change as I got higher levels.
+
+“Ya won’t. It’s like that for all the newbies. Gives them time to play around with their builds, not lock anything in until a few fortifications, assuming they can live that long, and considering yer unique situation, yer gonna have a lot less than most as this goes on. Likely a problem we might have ta solve later,” Mel said.
+
+“Alright, that’s twice you’ve said fortification, you want to explain beyond that?” I asked.
+
+“Nope, at least not ‘til ya hit level two-fifty. I’ll do all the explaining then. I just need ya to prove to me yer capable first,” Mel answered unsatisfactorily.
+
+“Alright, but first, I need this returned to Glunderlin,” I said, producing Traveler from my System storage.
+
+“I got it. I’m no use to whatever Mel has you doing right now,” Timon answered, reaching for the orb. I caught Mel’s nod and decided if Mel trusted the man this much, how could I argue, but there was still one other I had to ask.
+
+“You okay with that, Traveler?” I asked, not willing to trust the core to Timon without its consent.
+
+“That would be acceptable,” it replied.
+
+“Perfect, thank you,” I said as I passed the orb over before continuing, “so, uh, is there a System terminal here? I need a full one for the simulator,” I said. There hadn’t been one in my room last night.
+
+“Over at the desk, let me know once ya start the simulation, put everything you’ve got into it, and don’t lose,” Mel said.
+
+I scarfed down some more food and walked over to the desk. First up, I needed to see just what this Shield orb could do, being tier three likely gave me some strong possibilities. Imbuing seemed the best to drop at the moment, so I unslotted it and put the new orb in its place.
+
+Mana Orb
+
+Shield
+
+Tier
+
+1
+
+Orb Rank
+
+3
+
+Skill
+
+Magical Shield
+
+Magical Shield allows the host to encircle their body with a mana-based shield that blocks incoming magical damage. Further ranks increase the damage the shield can absorb.
+
+Skill Rank
+
+0
+
+Mana Orb
+
+Shield
+
+Tier
+
+1
+
+Orb Rank
+
+3
+
+Skill
+
+Physical Shield
+
+Physical Shield allows the host to encircle their body with a mana-based shield that blocks incoming non-magical damage. Further ranks increase the damage the shield can absorb.
+
+Skill Rank
+
+0
+
+Unsure if a mana backlash was included under magical attacks or not, I decided to max out both of the skills and check the new nodes from the magical side first.
+
+Mana Orb
+
+Shield
+
+Tier
+
+2
+
+Orb Rank
+
+3
+
+Skill
+
+Rebound
+
+Requirement
+
+Magical Shield (15)
+
+Rebound allows the host to use a burst of their own mana to rebound some of the magical damage back at the initial source. Further ranks allow more of the magical damage to be returned.
+
+Skill Rank
+
+0
+
+Mana Orb
+
+Shield
+
+Tier
+
+2
+
+Orb Rank
+
+3
+
+Skill
+
+Extend Shield
+
+Requirement
+
+Magical Shield (25)
+
+Extend Shield allows the host to increase the shield at a heightened mana cost for every cubic foot. Further ranks allow for a larger shield.
+
+Skill Rank
+
+0
+
+Mana Orb
+
+Shield
+
+Tier
+
+2
+
+Orb Rank
+
+3
+
+Skill
+
+Absorb
+
+Requirement
+
+Magical Shield (35)
+
+Absorb allows the host to channel some of the magical damage back into their own core. Further ranks allow for more mana to be captured from the damage.
+
+Skill Rank
+
+0
+
+These all seemed great, but weren’t exactly what I needed now. Did the physical nodes have better options?
+
+Mana Orb
+
+Shield
+
+Tier
+
+2
+
+Orb Rank
+
+3
+
+Skill
+
+Environmental Shield
+
+Requirement
+
+Physical Shield (15)
+
+Environmental Shield allows the host to more efficiently block out damage from the environment around them. Further ranks allow the host to block more damage.
+
+Skill Rank
+
+0
+
+Mana Orb
+
+Shield
+
+Tier
+
+2
+
+Orb Rank
+
+3
+
+Skill
+
+Weapon Shield
+
+Requirement
+
+Physical Shield (25)
+
+Weapon Shield allows the host to defend from an opponent’s direct non-magical assaults. Each rank spent on this skill adds a new weapon type the shield specializes in blocking.
+
+Skill Rank
+
+0
+
+I could see myself using both of these eventually, but for now, I started with the Environmental Shield and checked what that unlocked.
+
+Mana Orb
+
+Shield
+
+Tier
+
+3
+
+Orb Rank
+
+3
+
+Skill
+
+Heat Shield
+
+Requirement
+
+Environmental Shield (15)
+
+Heat Shield allows the host to block the effects of extreme heat. Further ranks increase the temperature that the shield can handle.
+
+Skill Rank
+
+0
+
+Mana Orb
+
+Shield
+
+Tier
+
+3
+
+Orb Rank
+
+3
+
+Skill
+
+Cold Shield
+
+Requirement
+
+Environmental Shield (15)
+
+Cold Shield allows the host to block the effects of extreme cold. Further ranks decrease the temperature that the shield can handle.
+
+Skill Rank
+
+0
+
+That was a no-brainer, and I maxed out heat shield immediately. There was a line leading from the node, but then it joined up with several broken lines. I wasn’t sure what that meant, but I wasn’t able to see any further skills on the orb. I figured it was just more lower-tier skills I needed to hit certain ranks in order to see the node.
+
+Knowing what I needed to do next and not really wanting to put it off, I pulled up the simulator menu and checked the options. Once I had it all set, I’d tell Mel before I hit start. I hoped he was right about me having what was needed for me to survive this.
+
+Shield mana orbs are the most common of the mana orbs after the initial four standard orbs. They tend to naturally form anywhere large defensive structures are built, which makes them relatively easy to harvest. Most fighters desire one for their reserve, and some even go so far as to specialize in their use. Few, if any, are willing to part with one once they have it.
+
+Mana Sources by Henjen Klank

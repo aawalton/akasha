@@ -1,0 +1,167 @@
+I started by unlocking authority, which gave me another three options coming down from it. I zoomed out quickly, just to check if it was always three new abilities from each one. It was not. There were several shadowy paths that seemed to just be a single ability chain of one after the other, and some seemed to require multiple different abilities just to get to a single one. Going back to authority, I looked at my three choices.
+
+Authority
+
+Core Interlinkage
+
+Each Core Interlinkage unlocked allows for a deepening bond with a dungeon core, allowing for experience to be directly invested into a willing core itself. This feature may be unlocked multiple times. Each application will be applied to a new dungeon core at an increased level cost.
+
+Levels Required
+
+Unlocked Count
+
+0/1
+
+0
+
+So, I had moved past just experience into the actual levels required for investing. I could already see an easy-to-abuse trick for this, considering experience requirements scaled only as I leveled up. So investing the first one hundred or so levels over and over would be simple. However, that did assume my level would reduce. It was possible that I just lost the benefits of the level and not the level itself. If that were the case, how would that work during a core fortification? What would happen if I gave my experience directly to Corey? I was strongly leaning toward that as the first choice, but I had two more to check before making that final call.
+
+Authority
+
+Dungeon Authority
+
+Dungeon Authority allows the host to use their presence to directly influence their interactions with dungeon cores.
+
+Levels Required
+
+0/100
+
+That wasn’t an attribute I had really touched, but I had a feeling it would let me attempt to reach out to the cores diplomatically instead of being forced to fight them. That was something I liked the idea of. The continued smashing my way through dungeons just wasn’t me. It had been fun at first, and truth be told, I had lost myself a bit in some of the exhilaration after healing my body, but the thrill had quickly dissipated. If this allowed me to end a threat of a dungeon without being forced to kill a core that may not even understand what it was doing, it was a path worth pursuing.
+
+Authority
+
+Core Reservoir
+
+Core Reservoir allows for the host to establish a reservoir of their own core energy within a willing dungeon core, allowing for the core to continue to function independently without the host as long as the reservoir lasts.
+
+Levels Required
+
+0/200
+
+This had strong possibilities as well. With a life orb, Corey could keep healing me even if I went down. Despite the large potential loss of levels and the drawbacks that came with it, I could see some extreme benefits to this one, but I had people to talk to again before making any further choices, and this time, those people included Corey. I exited out of the menu and looked at the three men clearly waiting for what I had decided to do.
+
+“I unlocked each of the paths, but I have a few questions. So the class orb doesn’t reset upon fortification, correct?” I asked. Mel nodded, confirming what I thought. “Okay, so then what happens with invested levels themselves? Because if I’m able to just earn those back immediately without fortifying my core, this seems pretty powerful.”
+
+“Yeah, that is a common loophole people exploit when they can, but, remember, most people don’t have the sorta access to something like yer simulator. The heads of the factions, the wealthy, and the connected generally all have access to something similar, but the vast majority don’t. This doesn’t put you above any of the big guns; it just gives you a chance to catch ‘em,” Mel said. He had a point. There was always still a matter of time. Yes, I could easily get a hundred levels, but I couldn’t do it in a single run without risking a backlash, and as these requirements got higher, the time sink would increase. And currently, we were running on a clock, so it looked like no giant investments for me just yet.
+
+“How many levels do you think it’s safe to invest then?” I asked. This entirely depended on how quickly we were off to the Arena, so I needed Mel’s answer.
+
+“As few as you can for the quickest power boost. Initially, I was going to have y’all go slow and see what kind of gains ya could make floor by floor. But truth be told, that orc changed my plans for the better. I’d have understood if you’d’a killed ‘em, hell I might’ve myself in yer situation, but I’m glad ya didn’t. The new plan is a blitz. As soon as those boys get their classes, yer doing the first seven levels immediately. We’ll try to knock them out in a single day. Then, we’ll take a little bit of time off to get the new recruits that ya’ll’ll find up to speed, and when I say will find, I mean that it is absolutely critical that ya get at least two of them. Then down will go floors eight and nine. From there, yer gonna spend every waking minute pushing yourselves for floor ten. I’m gonna train yer asses so much yer gonna want me dead,” Mel explained. He didn’t sound nearly as worried as he had earlier today. Had Rabyn changed the picture that much?
+
+“Got it, okay, I’m going to grab a seat, talk to Corey and explore all these options, that work for you?” I asked. Mel nodded his approval, so I pulled up the chat window.
+
+Dave: Hey, so I’ve got a class that lets me boost you up, not entirely sure how it will work, but I’m going to try to give you some experience directly shortly if you’re okay with that?
+
+Corey: I am. I wonder what that will cause in me.
+
+Dave: Well, we will soon find out.
+
+Corey: Good.
+
+I took that as complete approval by Corey, went back into the class menu, and invested a level into core interlinkage. I felt the level itself drain from me, now glad I never used all my attribute and skill points, as I could see that quickly becoming an issue with randomly losing access like I did during modified simulation runs. That thought keyed me onto another way to cheat for the simulations that I made a note of. If I was already at level one, what difference did it make if I dropped my levels lower in any way?
+
+Getting my mind back onto the current track, I saw the lines that were now lit up from the class ability, but before exploring those, I needed to see how exactly I could invest experience into him. On a hunch, I backed out to the core menu and found a new option for linked cores. I probably should have checked how permanent this link was, but there was no going back now.
+
+Linked Dungeon Core
+
+Corey
+
+Level
+
+0/10
+
+Experience Invested
+
+Locked
+
+Locked
+
+0/1E+10
+
+Locked
+
+Locked
+
+I quickly invested the experience needed for that first level and watched the level increase to one out of ten as well as the exponent in the listed scientific notation increase to eleven. Corey sent me a message before I could send them one.
+
+Corey: Dave, I appear to have gained a level. I was not aware dungeon cores could do that directly.
+
+Dave: What do you mean?
+
+Corey: The creatures we can inhabit are able to gain levels, but they do not stay with us if we are separated from them. In this case, I have gained the level directly. I do not know what it means exactly, as nothing appears to have changed.
+
+Dave: Do you have any menus or anything you can sense? I gained access to my own stat sheet when I hit level one.
+
+Corey: Not that I can tell.
+
+Dave: Well, there are further things listed as ‘locked’ on your entry as a linked core with me. I may need to unlock them to give you things you can do with your levels.
+
+Corey: Understood.
+
+Going back in, I checked each of the lines quickly and found they all correspond to an attribute category.
+
+Authority
+
+Linked Senses
+
+Linked Senses allow for linked dungeon cores to begin to develop their own external awareness through the bond shared with their linked partner.
+
+Levels Required
+
+0/10
+
+Authority
+
+Linked Actions
+
+Linked Actions allow for linked dungeon cores to further learn to act on their own.
+
+Levels Required
+
+0/25
+
+Authority
+
+Linked Reactions
+
+Linked Reactions allow for linked dungeon cores to better defend themselves from intrusions upon their own being.
+
+Levels Required
+
+0/50
+
+Authority
+
+Linked Interactions
+
+Linked Interactions allow for linked dungeon cores to better grasp their own place in the world and learn to influence the world around them.
+
+Levels Required
+
+0/100
+
+Authority
+
+Linked Soul
+
+Linked Soul allows for linked dungeon cores to begin the process of coalescing the rudimentary forces within themselves into their own true soul by tapping into the soul-core reaction of their linked partner.
+
+Levels Required
+
+0/10000
+
+Authority
+
+Linked Luck
+
+Linked Luck allows for linked dungeon cores to interact with the conceptual concept of luck.
+
+Levels Required
+
+0/100000
+
+It wasn’t lost on me that the attribute category of core was missing, but I had a feeling it was either that linked soul was required to be unlocked beforehand or that the nature of the dungeon core itself didn’t allow for the formation of a core beyond what it already existed as. Considering how many levels that linked soul required, I wasn’t sure we’d get to test that anytime soon anyway. I was willing to drop the ten levels for senses, though, mostly because I wanted to see if that caused Corey to get his own attribute point pool. So I quickly spent the levels and then pushed its level to five. The other fields remained locked, but I did get a new message from them.
+
+War Chef is a class specialized in boosting their allies while retaining some ability to fight as well, usually specializing in either knives or other non-traditional weapons. Rarely a third function is added to their repertoire, a way to poison others. As it’s generally hard to get an enemy combatant to consume anything given to them in the heat of battle, rarely do you see these types in Arena climbing.
+
+Classes Volume 1 by Zolinjar

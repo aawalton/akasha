@@ -1,0 +1,69 @@
+There was only a single librarian behind the desk, which seemed unusual. It wasn’t that late yet. The stacks seemed oddly empty as well. On my previous visits, there had been hundreds of people milling about, but the number of visitors had dwindled down to a handful sitting alone at tables with stacks of books. Had something changed while we were away? That was a question better suited for Mel in the morning.
+
+There’s a big problem with trying to find books on the basic concepts of something, and the same thing would likely occur on Earth. There are just certain things that it’s expected a person knows having been raised in the environment. In this new reality, I found that the ideas of mana, skills, and experience were as built-in to everyday life as something like eating. This was a problem I had constantly run into in my early readings. I couldn’t find books that equated to an introduction to chewing and swallowing food, so I was always stuck with a foundational absence that I would have to make up with my own self-teaching.
+
+This problem was no longer just a simple annoyance where I could mostly guess at the missing building blocks. Now, it felt like I was trying to put together a puzzle without the picture while I had to guess which pieces went to which puzzle. After my thirtieth book on the topic, I realized I wasn’t going to get any closer than a single formula for how mana spend worked.
+
+(ST*HL/CS)*(2+OD^2) = MR/ET
+
+Someone’s skill tier multiplied by their hunger level, both divided by their core, with that total multiplied by the opposition’s defenses, if any, is equal to the mana rate over the effective time. This is where it got incredibly complicated, and I wanted to bang my head against the wall. Effective time did not mean any sort of standard time scale. It meant whatever the effective time coefficient was for how the person using the mana experienced time versus how the thing being affected by the skill experienced time. I had no clue how to figure something like that out, let alone do so on the fly in a combat scenario.
+
+Hunger levels were another thing altogether. This concept was just something everyone apparently understood. It was referenced all the time, but never how to actually know what your hunger level was. I was starting to guess there was more to the lack of scientific development here than just progressing with magic. It almost seemed like they were stuck in a chicken and egg problem where they needed a developed problem-solving computer to do the math that was needed to build one.
+
+This realization made it all the more astounding that I wasn’t dead, given the crazy experimentation I had done on my own body. I was incredibly lucky that any of my energy regulation plans had worked. A new distant goal was to build something into my circuit that gave a reasonable estimate of mana usage. I had no idea how to do that, though, as it would require analyzing things I didn’t yet know how to measure. It was a good thing I liked unsolved problems, even if this one chased me into my dreams as I tried to get some sleep.
+
+The next morning, as I ate breakfast with the brothers, I found the same strange lack of people was occurring in the dining hall. We were literally the only people there, which I had never experienced before. Late-night snack or early morning breakfast, there had always been someone else around.
+
+“Is it just me, or are there fewer people here than usual?” I asked, knowing it couldn’t be just me, but maybe there was an event I didn’t know about.
+
+“No, I noticed that too. The training hall is entirely empty; no one was in the gardens, and when we went to see Mel earlier, he still wasn’t in. Something is going on, and I wish I knew what,” Elicec said, sounding incredibly worried. Mel’s absence had me feeling the same.
+
+“If Mel’s gone, we’re going to have to figure something out fast,” I said, unsure how to proceed without the man. He was the only reason we had managed to get this far.
+
+“Looks like we’re worrying too soon. Here comes one of his messengers!” Cecile said. Relief flooded over me. I very much had not wanted that potential problem of a missing Mel.
+
+“Go pack everything you have; we’ve gotta get outta here. Get yer asses down to the training hall as quick as ya can, and I’ll explain what’s going on once we are on the move,” the mini-Mel said before floating away. The familiar anxiety spike returned. What had happened now?
+
+“You heard him, let’s go. I don’t want to get caught in whatever shitstorm is coming that everyone except us seems to know about,” I said, stuffing a few more bites of egg and toast into my mouth before standing up.
+
+“If you aren’t in Adventurer Hall in ten minutes, we’re coming looking for you,” Cecile promised.
+
+“Same to you two. We came here together, and we’re leaving together,” I agreed as we boarded separate elevators back to our rooms.
+
+“Hey Chip, it looks like it’s time for us to go. Are you going to be okay without a cage? I don’t have one and I really don’t want to leave you behind, little guy,” I said to my favorite roommate as I grabbed the few possessions I had scattered around the room and placed them in my System storage. I considered putting Chip in there as well, but I had no idea if it interacted well with organic life. It didn’t seem to be bothering the dungeon core at all though.
+
+Chip solved my worries by leaping on my shoulder and purring loudly. I scratched him behind the ear, glad he wasn’t going to make a fuss about this. I did one last check over the room for anything I was forgetting, opened my system storage a second and let the dungeon core know I had an emergency and may not be able to do our talk today, then headed for the Adventurer Hall.
+
+Cecile and Elicec were already there talking to a strange-looking Mel. The man had shifted from the usual green shade to an orangish green and was bobbling around frantically, tossing things into both himself and a large backpack. His eyes went wide when he spotted me.
+
+“Dave, where the hell did ya get a pumakey?” he asked, with no fear in his voice, just a lot of surprise.
+
+“Elody sent him to me to keep me company. Why?” I asked, not sure why it was such a big deal.
+
+“I’ll explain later. I’ve got everything I can take, I think. Ya boys better have it all, too. We ain’t coming back here. Now follow me. Timon stayed here as a personal favor, and he is itching to get gone,” Mel said, floating out the front door. I had no idea who Timon was or why he was important, so I followed after Mel, hoping to learn.
+
+Instead of the usual smaller transport vehicles that generally waited for us outside, there was a single bus-sized one, and Mel was already climbing aboard. That must have meant that Timon was the driver, and whatever was scaring everyone else away had him wanting to get out of here, too. I climbed aboard, following the brothers’ lead, and took a seat near Mel. The second my butt was firmly down, I felt the flying bus spring to life. There was no motion-damping on this, apparently.
+
+“Really wasn’t sure we’d make it,” Mel said, sighing loudly as his color started to return to his normal shade. Chip chose this moment to finally remove himself from his perch on my shoulder and leap onto Mel’s head.
+
+“No, Chip! Dammit. Sorry, Mel,” I said, starting to reach out to grab him.
+
+“All good, Dave. He’s just doing what his kind do, let him sit up there fer a bit, and I’m sure he’ll come back to ya,” Mel said, reaching up to pet Chip.
+
+“Well, in that case, how about you fill us in on exactly what the hell is going on? I thought we had weeks before we needed to leave,” I said, the confusion finally boiling over into a need-to-know.
+
+“Oh, we do still fer the planet. Believe it or not, everything ain’t about ya, Dave. Without Elody here, the politics of keeping the archive running without interference were a lost cause. It just happened a lot faster than I thought it would. That woman must have made some real enemies because they swooped in fast after failing to take it directly from her. The only reason I wanted ya out of there, is these types of folks weren’t likely to take any simple explanation fer what y’all were doing here, let alone what was going on with yer core. That’s why everyone is getting the hell out of here. No one likes answering those kinds of questions. We ain’t in any danger of being hunted, and I resigned my position, so that’s done as well,” Mel explained.
+
+“You didn’t have to do that for us, Mel. We could have, well maybe not, but we could have at least tried to figure this out without you,” I said, the guilt of the man losing his position to protect me settled in my chest.
+
+“No, you couldn’t, and I was on my way ta retirement anyway. Haven’t liked how things have been moving in the upper ranks anyway. I’d much rather spend some time keeping ya idiots alive than having to bite my tongue as the archive is ransacked by spoiled brats,” Mel said, putting emphasis on the last word.
+
+“I still really appreciate it, thank you. What’s our next plan?” I asked.
+
+“Timon is taking us to Smithtown so we can figure out where the hell their new dungeon is. Ya handle that, and then we move onto the desert,” Mel said.
+
+One of the few logs I found after the disaster contained his thoughts on the mana needed. I’ve copied that verbatim below.
+
+The biggest problem with my plans is exactly how much mana will be required. I know there are formulas that could predict an amount, but the problem is that there are multiple formulas that will all predict different amounts. I think what is best for now is a variable flow of mana that we can control as the subject’s core expands. I believe this is the best way to avoid critical overload.
+
+Karlinovo: Genius or Mad Man? by Gastronil
