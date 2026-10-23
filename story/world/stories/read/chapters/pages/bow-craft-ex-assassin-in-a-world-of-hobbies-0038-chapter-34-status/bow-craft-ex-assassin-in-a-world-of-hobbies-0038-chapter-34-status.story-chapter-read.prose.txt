@@ -1,0 +1,287 @@
+.
+
+.
+
+.
+
+Chapter 34Status!
+
+Saying ‘status’ did not, in fact, open a floating panel.
+
+“You’re going to have to meditate,” Lei-rei explained. “First-time setup is triggered by having a clear mind for at least five minutes.”
+
+“Damn. I only have a clear mind when I’m in a life-or-death situation.” Craft chuckled. That's just sad.
+
+Lei-rei tilted her head. “I was under the impression you had undergone similar training to me.”
+
+“Sounds like they made you sit under a waterfall.”
+
+“Beside one, yes.” She shifted her legs to be more comfortable. “Normally, a manager would supervise opening your status for the first time, but if you have bows hidden in that storage skill you mentioned, it’s a justified enough reason to open your status prematurely.”
+
+They wouldn’t get out of there, otherwise.
+
+“Right.” Craft shifted his legs, sitting cross-legged now. “First time for everything, I guess." He closed his eyes. Ah. He looked at her again. "How is it supposed to happen anyway?”
+
+A shadow fell over Lei-rei's eyes as she thought about how to best explain it. “Meditation is focus training. If you focus your senses on a single sight, sound, smell—it doesn’t matter—it will just be like falling asleep. Most make do with the sensation of their own breathing, but this doesn’t work for everyone. You’ll have to discover what works best for you.”
+
+He closed his eyes again. The forest wasn't as quiet as he thought: the cicadas' chirping and the hollow howling of wind past the petrifying trees were a constant and loud hum, enough to fill his mind.
+
+The sound of a leaf falling was enough to knock him off-focus. He opened his eyes, surprised any of that had even happened. “It’s surprisingly difficult.”
+
+“Hm? Why did you stop?”
+
+“A leaf fell.”
+
+She blinked and perked up. "I'm surprised you entered meditation so easily."
+
+“Is it not supposed to be that way?”
+
+“It's fine. Next time, corral your focus to return. The goal is not to have infinite focus, but to be so fast at bringing it back that there is almost no distinction.”
+
+Is that how it works? "Sure, let me try again." He closed his eyes again, and he focused on the cicadas and howling wind. So loud, he thought of them, and next thing he knew, he was thinking of the ecological distribution of cicadas in this world. Cicadas living in a petrifying forest didn’t make sense. Maybe they weren’t even cicadas at all.
+
+It took him a solid few seconds to realize his focus had veered off. Following Lei-rei’s instruction, he let the sound of cicadas fill his ears again—
+
+“Ah, they stopped.” He sighed and opened his eyes, looking to Lei-rei. She was still watching him. “It felt like I did better there, at least.”
+
+She nodded. “You’re improving. That must have been a minute. If you keep trying, we might be able to look at your status before the day ends.”
+
+“The cicadas stopped shouting, though, and I can’t really focus on the wind. It’s too creepy on its own.” He thought for a moment and met her gaze. “How about you keeping talking to me for five minutes?”
+
+She raised her eyebrows. “Infiltrating a castle is easier.”
+
+“Damn, you’re right.” He hummed. Some people were naturally gifted at having infinite topics, but Lei-rei wasn't one of them.
+
+Luckily, he had experience in interrogating her kind of person. He just had to find an ‘in’: some topic or interest that would flick a switch and blow the hinges off the floodgates for a two-hour impromptu lecture series.
+
+He faced her again. “How about how you and Nightshade first met?”
+
+Although she turned her head slowly, her gaze had snapped towards him. “I might be able.”
+
+Craft smiled and closed his eyes.
+
+“We originally met in a certain town in the down-realm, but we were mere acquaintances then,” she continued. “I thought she was just a normal girl. I didn’t think I would have anything more to do with her than a brief interaction, but I suppose that’s just how it always begins.”
+
+Craft, having closed his eyes, could better hear the qualities of her voice: low, steady, and subtly intonated, not totally cold.
+
+“I learned she was a traveler. At that time, I was…on a mission. Having someone already familiar with the land to guide me would have been beneficial, so I took her with me.” There was a light chuckle. “I underestimated her ability to turn anything into a sightseeing trip.”
+
+It was her intonation Craft found himself listening to, not the words on their own.
+
+“It’s a fearsome ability,” she continued. “Peace had to be fought for in that era, and yet around her, it was as if I didn’t need to fight for it anymore.” She paused. “A mission or a journey, I couldn’t tell the difference between the two anymore.”
+
+Craft, already beginning to float in his mind, found himself agreeing.
+
+“No one had told me about such emotions.”
+
+The sound of her words became puddles in his mind.
+
+“After five years of loyalty—”
+
+At this moment, he simply forgot about himself,
+
+“—and five more years of gratitude—”
+
+and drowned in the intent of her story.
+
+“—it felt so quiet.”
+
+I realized I’d been happy all along. Craft never did hear those last words.
+
+There was a technological beep, and his eyes snapped open. In front of him was a translucent panel similar to what he’d seen in that tunnel that transported him to this world.
+
+[Initializing first-time setup…]
+
+[CAUTION: Your Personal AmaSys Terminal (“terminal”) will open in Assisted Setup mode. Others will be able to see your terminal and your personal data, except any data you requested to be hidden prior to re/incarnation. Say “Enthusia is the bestest” to continue.]
+
+“You know, I’ve always thought Enty’s pretty weird,” Craft remarked.
+
+“Everyone thinks so to some degree.” Lei-rei scooted over beside him. “I took an assistant manager position some time ago. I’ll help you through this.”
+
+Craft raised an eyebrow. “Is it that complicated?”
+
+“Not at all. There just happen to be a hundred features, when in reality, you’ll only need a few of the most useful ones to start with, but which ones will depend on the person. That’s why we have managers to help you narrow down what you should use based on your needs.”
+
+Rather than limiting software features, Enty took the approach of letting people customize their experience, huh? He shrugged. “Alright, then. ‘Enthusia is the best.’ ”
+
+The text faded out, and the panel expanded. A moment passed, however, and it remained completely blank. Is there some kind of manual for this?
+
+As soon as he had that thought, an icon with a question mark appeared on the upper right, and as soon as he focused on it, a search bar appeared.
+
+“Whoa,” he blurted. Mind-machine interfaces weren’t an alien thing to him. Rather, it was how buttery-smooth it was that got him.
+
+“The speed makes some people dizzy,” Lei-rei remarked. “It seems I don’t need to teach you how to use it, at least.”
+
+The first thing Craft thought was “features,” and it appeared in the search bar, bringing up instant results. If he was going to use this thing, he’d rather be aware of the full breadth of its power—
+
+“Hold it,” Lei-rei said. The panel rippled like someone had flicked an LCD screen. “Don’t get adventurous.”
+
+“Right.” Technology was a trap in its own way, tempting people to ever grander illusions of greater powers, causing them to spend more time unlocking features rather than actually using them. “Just use what I need, right?”
+
+“Close the guide for now”—he did—“You only need the basics for now.”
+
+Anima and Hobbies. Life in Amatoria revolved around them, and the terminal provided a niche interface to track them.
+
+***
+
+Name: Craft Bowen
+
+Race: Human
+
+Anima: 301 (100, 400, 500)
+
+Hobbies: Bow Craft [ ! ]
+
+[ ! ]: Rewards available!
+
+***
+
+Anima was displayed as CurrentAnima, DeficiencyTrigger, GrowthTrigger, and Overdose. Going below DeficiencyTrigger resulted in Nightshade’s symptoms. Going above GrowthTrigger nudged DeficiencyTrigger up a bit, while it raised GrowthTrigger moderately and sent Overdose skyrocketing, which effectively granted a little more breathing room.
+
+“Don’t Overdose,” Lei-rei topped off her explanation. “The symptoms are…much worse.”
+
+“This is oddly complicated…”
+
+“If you have a concept of self-moderation, it isn’t.”
+
+“Rewards?” Craft asked.
+
+“Hitting milestones with your Hobby grants you a choice among three rewards. The rewards are never directly related to your Hobby, though. It would defeat the point of doing it as a Hobby.”
+
+“ ‘Directly’ ?”
+
+“Overlaps are unavoidable.”
+
+“Fair point.”
+
+“That said, one of your rewards might help us get out of this situation. Just think about seeing them to open them up.”
+
+He put his attention back on the panel.
+
+***
+
+[Milestone reached: “Bow Craft: My First Bow!” Please select one reward.]
+
+(1) Shared Braincell …
+
+***
+
+He had to stop reading there. He faced Lei-rei. “Why—”
+
+“Keep reading,” she said with a straight face.
+
+“O~kay.” He shrugged. Nothing to it.
+
+***
+
+(1) Shared Braincell (Stat). Increases chances of having the same thought as the closest person, positively weighted by decreasing proximity and increasing intimacy. Passive bonus. (No, you’re not allowed to know the exact % increase. Just enjoy the ride.)
+
+***
+
+“That didn’t make it any better.”
+
+“Just keep reading.”
+
+He lowered his expectations.
+
+***
+
+(2) Friends List Experimental Key (System). Receive nightly updates for the AmaSys “Friends List” feature. (Current major experimental feature on offer: Ritual Summoning - Create a contract with a friend or above to summon them via ritual sacrifice of thematic items.)
+
+***
+
+“ ‘Friends List’ ?” He knew what it was conceptually, but if it’s something plugged into a global magical information system, it had to have meant something extra.
+
+“It’s a global instant messaging system. I’ll have you enable it and add me later.”
+
+“Is it really just for messaging when you can summon someone via chat?” Anyway, wouldn't that count as magical kidnapping?
+
+“Summon someone for a chat, you mean,” Lei-rei replied with a smirk. Then again, kidnapping your friends isn't totally new.
+
+He wasn't sure how to take this. Amatoria had three realms, and none of them were named ‘expectation.’ Indeed, if such a realm had existed, it had been obliterated a long time ago, and all he could do now was nod in grief, lamenting the loss of that hypothetical paradise.
+
+Next was the last item…
+
+***
+
+(3) Some-knowing Eye (Skill). Get the name of what you’re looking at. Does not elaborate. Activate by squinting very hard.
+
+***
+
+Well, that's just useless. ‘Skill' though. He pointed at that word. “I don’t think that means what I think it means.”
+
+“I don’t know what you think it means, but in short, a ‘skill’ is magic rendered effortless by Amatoria’s system. This ‘Some-knowing Eye’ will likely use visual overlays, but skills aren’t limited to fetching information. There are physical skills, mental skills, magic skills—the scope of what could be handled by the system is vast.” Lei-rei shrugged. “But because you can’t have it be related to your Hobby, we end up with musclehead martial artists capable of fitting a mountain in a pocket, and they wouldn’t entertain using it in combat just because it would ‘taint’ their martial art.”
+
+At the mention of fitting things into pockets, Craft remembered a certain conversation he’d had with Enthusia. “Say, these ‘skills’ don’t happen to have their own menu, do they?”
+
+Lei-rei blinked. “You sound like you’re expecting something.”
+
+“If I said I am?”
+
+Lei-rei shrugged. “Think it into existence.”
+
+When he did, the panel changed, but its contents were blurred. Before he could say anything about it, Lei-rei held her hand up against the panel.
+
+[Unlock vouched by Lei-rei (affiliations: Exorcisa Seeker (former); Templar Assistant (former))]
+
+A green check mark appeared, fading away in a second along with the blur—though Craft got the feeling he’d seen something he shouldn’t have.
+
+“I’ll tell you if you ask,” Lei-rei said. When he looked at her, she was already looking at him. She’d anticipated his curiosity.
+
+He shook his head. “I won’t.”
+
+Lei-rei nodded and looked at the panel. Her eyebrows arched, and that got Craft to look at it too.
+
+***
+
+[Skills]
+
+Bow Shed. It’s not literally a shed, but the functions are the same as what you remember. I also took the liberty of reorganizing a little, so now you can find all your raw materials, tools, WIPs, and finished pieces here. Of course, it’s all limited to bow-crafting. Don’t cheat!… and enjoy :) -E
+
+***
+
+The panel updated. Craft hadn’t even thought of anything yet.
+
+***
+
+[[ Initializing “Bow Shed” ]]
+
+IMPORTANT: Restrictions have been placed on this skill just so that it could pass balance checks. Read the notes under each subsection to know more.
+
+[Tools]
+
+NOTE: With exceptions, [Bow Shed]’s tools can only be used on objects spawned from [Materials], [WIPs], and [Completed].
+
+10x 2000-grit Sandpaper [Consumable-UR*]
+
+100m Serving Spool [Divine Rayon]
+
+Cabinet scraper [Quality 10]
+
+Spokeshave [Quality 10]
+
+Whittling knife [Quality 10]
+
+Hatchet [Quality 10, General Use**]
+
+Steel axe [Quality 10, General Use**]
+
+Chainsaw [Quality 10, General Use**]
+
+* “Consumable-UR” are [U]n[R]etrievable consumables and cannot be returned to the [Bow Shed] once spawned.
+
+** “General Use” tools can be used on any object in the world. (I won't blame you for using them in a fight, but I won't make you new ones if you destroy them, okay? -E)
+
+[Materials]
+
+NOTE: Items entered into this section will be whitelisted for use with any [Bow Shed]-bound tool. Items are restricted to a cumulative 100-hour stay or 10 check-ins, whichever occurs first. Items reaching their limits will be forcibly ejected and cannot be checked in again.
+
+[Completed]
+
+3,157 ITEMS FOUND: Please use list or search functions.
+
+[WIPs]
+
+IMPORTANT: Based on user feedback and personal experience, and to encourage decisiveness about completing or abandoning a project, there is now a soft limit of three (3) WIPs for crafting-based Hobbies. Although nothing will probably happen on your fourth (4th) WIP, angelic management will stage an intervention on your tenth (10th).
+
+1 ITEM FOUND: Rafflesia’s Memento (self-bow, poor quality, unstrung)

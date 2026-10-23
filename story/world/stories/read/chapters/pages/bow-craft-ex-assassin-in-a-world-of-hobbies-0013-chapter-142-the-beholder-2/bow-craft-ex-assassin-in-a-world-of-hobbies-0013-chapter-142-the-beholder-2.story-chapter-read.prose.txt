@@ -1,0 +1,251 @@
+.
+
+.
+
+.
+
+Issue #99832: ReverseSummon triggered on LightningStrike event
+
+Author: Entry <[email protected]>Location: Relay 002, [down_realm]Subject: Nightshade (volunteer)
+
+On 9014.031 22:01H, subject wandered into Relay 002’s summoning platform. Co-occurrence of a LightningStrike event centered on Relay 002 appears to have triggered a ReverseSummon event, sending subject to the System Domain, whereas there should not be any causal link between the two events.
+
+Due to possible exploit to infiltrate the System Domain, this issue has been assigned CRITICAL priority. Subject volunteered for testing; double opt-in confirmed. Test logs to follow.
+
+.
+
+.
+
+.
+
+[Test #001]
+
+Hypothesis: LightningStrike event will trigger ReverseSummon event for any living residents standing on a temple summoning platform.
+
+Methodology: Temple grounds and outskirts, hereafter the “test area,” were isolated from external reality. Subject re-summoned to geometric center of summoning platform. Subject shouted ‘Hey! I wasn’t ready! I thought we’d start tomorrow!’ Due to high latency, LightningStrike event spawned on Relay 002 coordinates via admin console before complaint was received.
+
+Result: No ReverseSummon occurred. Temporary status effects inflicted on subject: Blindness V, Deafness V. Status effects removed via admin console. Subject granted temporary invulnerability to Blindess and Deafness effects series for the remainder of the testing period.
+
+[Test #002]
+
+Hypothesis: LightningStrike event will trigger ReverseSummon event for any living residents standing on a temple summoning platform if they have a Glowing Pink Potato (temp-ID: “Glowtato”) in-hand.
+
+Methodology: Subject instructed to move to geometric center of summoning platform and equip the Glowtato. LightningStrike event spawned on Relay 002’s coordinates via admin console.
+
+Result: No ReverseSummon occurred. Subject requested permanent allotment of aforementioned invulnerability against status effects. Request denied.
+
+[Test #003]
+
+Hypothesis: Raising Glowtato to the sky will trigger ReverseSummon event.
+
+Methodology: Subject told to raise currently-equipped Glowtato to the sky.
+
+Result: No effect.
+
+[Test #004]
+
+Hypothesis: LightningStrike event centered on the Glowtato will trigger ReverseSummon event.
+
+Methodology: Subject told to place Glowtato near Relay 002. LightningStrike event spawned on Glowtato coordinates via admin console.
+
+Result: Glowtato unscathed. No ReverseSummon event occurred.
+
+[Test #005]
+
+Hypothesis: LightningStrike event centered on an equipped Glowtato will trigger ReverseSummon event.
+
+Methodology: Subject told to prepare to die. Subject refused. Subject agreed to compensation and will be granted permanent invulnerability to Blindness I after test’s conclusion. LightningStrike event spawned on Glowtato coordinates via admin console.
+
+Result: Subject and Glowtato unscathed. No ReverseSummon event occurred. Filed Issue #99833: “Glowtato physical damage invulnerability.” Temporary status effects inflicted on subject: Electric VII. Status effects removed via admin console. Subject granted temporary invulnerability to Electric series for the remainder of the week. Blindness I invulnerability permanently granted to subject.
+
+[… Skipped 5 tests …]
+
+[Test #011]
+
+Hypothesis: Glowtato placed on Relay 002’s palms before LightningStrike event will trigger ReverseSummon.
+
+Methodology: Subject instructed to climb Relay 002 and place the Glowtato on the left palm. LightningStrike event triggered after subject’s retreat.
+
+Result: No ReverseSummon occurred. Upon checking, subject discovered a cooked Glowtato. New Glowtato spawned via admin console.
+
+[Test #012]
+
+Hypothesis: … the right palm.
+
+Result: No ReverseSummon occurred. Cooked Glowtato. Due to loss of Glowtato durability, quantum observation effects may be at play.
+
+[… Skipped 46 tests …]
+
+[Test #059]
+
+Hypothesis: Observation of Glowtato by administrator prevents ReverseSummon from occurring.
+
+Methodology: Introduced delayed timing to LightningStrike events. Subject told to raise Glowtato to the sky. LightningStrike spawn point set on Relay 002’s coordinates. Event trigger set for five (5) minutes and started. Admin on tea break during test run, looking away from screen.
+
+Result: Duplicated Glowtato summoned to admin’s desk. Filed Issue #99834: “Glowtato duplicates on ReverseSummon.”
+
+[… Skipped 53 tests …]
+
+[Test #112]
+
+Hypothesis: Subject must dig out Glowtato and wait exactly 2 minutes and 33 seconds before a LightningStrike event with exact cosmic alignment context as on the datetime of the original Issue #99832.
+
+Methodology: Rewound local chronology. Faked cosmic alignment context via quantum mockery. Subject retrieved Glowtato from Relay 002’s base. Subject instructed to stand 10 meters from Relay 002’s base and raise Glowtato to sky. Admin went on tea break. LightningStrike event auto-spawned on Relay 002’s coordinates 2 minutes 33 seconds after retrieval of Glowtato.
+
+Result: Successful ReverseSummon of Glowtato; no duplication. Subject’s soul found in Glowtato while Subject’s body remained in test area. Minor causal desync lines detected in test area locale; no critical errors found. Subject re-summoned as a Glowtato and tasked to identify causal desync lines. All marked lines successfully relinked and reverted to most recent savepoint. Subject successfully reincorporated into original body. Filed Issue #99835: “Equipped Glowtato triggers soul transfer on cosmically-aligned LightningStrike event.”
+
+[… Skipped 420 tests …]
+
+[Test #533]
+
+Hypothesis: Subject must dig out Glowtato and wait exactly 2 minutes and 33 seconds before a LightningStrike event, with respect to additional contexts as on the reported datetime in Issue #99832. Additional contexts as follows: 1) cosmic alignment, 2) atmospheric conditions, 3) underground fungi empire neural signal interference, 4) soul transport interference from nearby battlefield casualties, and 5) overlapping combat magic residue from nearby strategic-scale attacks.
+
+Methodology: Testing area expanded to a 100-km radius sphere centered on Relay 002. Contracted three (3) guild masters and two (2) sect grandmasters nearby as bug-testing assistants (from here on, subject “Nightshade” shall be denoted Subject-0, whereas assistants are Subjects-1 through 5). Contracted the Mushroom Queen (Subject-6) to emit requested neural signals. Introduced mock soul transport magic interference. Subjects-1 to 5 requested to unleash strategic-scale attacks 2 minutes and 20 seconds after Subject-0 digs out the Glowtato (the 13-second buffer is provided to account for wind-up and travel time of magical attacks and echo time of corresponding interference).
+
+Result: Subject-4 failed to understand the spirit of the instruction and unleashed an attack on the temple itself. Due to Issue #99833 “Glowtato physical damage invulnerability,” Subject-0 survived the attack, but Relay 002 and its summoning platform were destroyed before the LightningStrike event. Due to the same attack, Subject-0 fell on top of the now-exposed Subject-6. Factional fighting occurred between Subjects 1-3 and 4-5 as a result of Subject-4’s action. Likely due to Issue #99835 “Equipped Glowtato triggers soul transfer on cosmically-aligned LightningStrike event,” Subject-0 (Glowtato equipped) and Subject-6 fused after LightningStrike event, creating new System entity “Mushroom Witch Queen” (hereafter Subject-0/6). Subjects-1 to 5 halt fighting to face Subject-0/6.
+
+Result (con’t): Local topology altered. Critical causal errors found. Test failure declared. Reverted test area to most recent savepoint with 33 causal desync lines remaining. WARNING: Enemy agent infiltration of [down_realm] detected. Angels dispatched. Bug testers tasked to mark causal desync lines. Test area set to remain in isolation until enemy defeat. 19 days after test start, all 33 causal desync lines marked. Reset successful. Expunged memories of all subjects for this test. They will be happier without knowing the enemy.
+
+***
+
+Nightshade crashed face-first into a beanbag couch in the System Domain. After Test #999, the week had finally come to a close…and she’d already begun to suspect a few things about Entry.
+
+“Congratulations,” Entry said with that pencil-chewing tone. She had never left her desk. “Honestly, I can’t believe you lasted that long. You could’ve tapped out at any point, y’know.”
+
+Nightshade rubbed her face against the couch as she turned her head towards her — but she was too tired to form a single word, and all that came out was an “Nnnn.”
+
+“Yeah, yeah, witch’s pride and all that,” Entry said with a wave of the hand. “Listen, I’ll give you a perk just ’coz I feel sorry for you.” She typed a few more things, squinted at the screen, and nodded to herself with satisfaction. “Yep, that oughtta be balanced.”
+
+***
+
+[Witch Mark acquired: Witch of Taterity]
+
+Do not deny your growth. Your magic control increases with every next-level trial of personal import you overcome. Damage and status effects inflicted by attacks cannot decrease magic control gained through this Mark.
+
+***
+
+Nightshade’s eyes grew wide as she focused on the panel in front of her. Is… Is this for real? The panel disappeared before she could form a thought. Her focus adjusted from the empty air to Entry’s dispassionate work figure.
+
+After nine-hundred ninety-nine trials, her suspicions of Entry’s true identity had solidified. She could think of no one else with the power to do such things as casual time-space manipulation and poking holes in people’s memories. Who could she be other than the goddess herself?
+
+She’d only met the goddess once, right before reincarnating into Amatoria. It had been the most pleasant fifteen-second conversation she’d ever had. The goddess had been quick in acknowledging her feelings and desires, and by the end of those fifteen seconds, she’d been given enough life to make the first choice of her two lives. Ever since then, properly thanking her benefactor had been a sleeping dream.
+
+And now, she was even given a Mark.
+
+Forget about how Enthusia was in pajamas, tapping away at a secondhand laptop! Forget about running the gauntlet of a thousand trials for a single bugfix!
+
+Nightshade carefully pushed herself up. Although her body was fine, the residual emotions of many violent ends continued to burn in her mind. Her muscles inherited a ghostly ache, and she still felt the urge to throw exploding fungi, even if she had no such power now.
+
+She sat up straight. “Goddess?”
+
+Entry bowed her head, chuckled, and looked up at her. “Ah, shucks, my cover’s blown, huh?”
+
+Nightshade parted her lips, but Enthusia took off her glasses and loosened the blankets that had been her shawl. Her hair fell, unrestrained, becoming a silken silver mat. She was the glory and image of the statue come alive.
+
+Just that much was enough to take Nightshade’s breath away. Enthusia’s smile committed the final blow. That’s the one I remember.
+
+“I just wanted to see how long it would take before you noticed.” Enthusia chuckled. “I still remember you, Nightshade. I hope your difficulty settings ended up just being right?”
+
+Nightshade nodded. Had her life in Amatoria been subjected to anyone else, they might have gotten depressed — yet somehow, it had only made her prosper and find more pride in herself.
+
+Enthusia had promised her a better life, and it had come true. Now that they were actually speaking to each other after such a long time, though, she was unsure of what to say.
+
+Enthusia awkwardly looked away. “I know you assented, but I still don’t feel right about putting you through all of that” —
+
+“No, no, it’s okay!” —
+
+“So let me answer some of your questions, okay? I’ve been sensing it since a while ago. It seems like you have some,” Enthusia said.
+
+Nightshade’s eyes widened with surprise for a moment. The goddess had seen through her.
+
+The moment the temple’s air had distorted around her and angels started to pour in from the sky was the moment she realized Entry had been Enthusia all along — but there was a dissonance. The guild masters and sect leaders had been duking it out in a barbaric and ill-mannered contest of strength. As she’d watched that fight — try as she might — she couldn’t find a single beautiful thing about it at all.
+
+Why did the most beautiful existence in all the world make such a thing possible?
+
+“W-well, it’s just” — Nightshade stopped herself. What she would have said would have been an outright denial of something Enthusia had made. “Why’d you make the [down_realm]?” she asked in a roundabout way instead.
+
+Enthusia grinned. “It’s an ugly thing, isn’t it?”
+
+Her words shocked the witch. The goddess made ugly things…on purpose?
+
+“If I said it had its charms” — Enthusia shrugged — “it wouldn’t be convincing at all. It’s an ugly, noisy place filled with strange people, you and I can both see that. It would be a disservice to say it’s anything other than what it is.”
+
+“B-but you made it!”
+
+Enthusia raised an eyebrow. “I don’t know what that means. I am not the things which I make.”
+
+Nightshade couldn’t accept that. Everything in Amatoria was made from Enthusia’s own divinity. It stood to reason that everything inherited a little bit of her beauty as well.
+
+She raised a paper bag glowing pink from the potato within. “What’s this, then!”
+
+“A…Glowtato? What of it?”
+
+“But I’ve confirmed it! It’s definitely radiating beauty magic!”
+
+“ ‘Beauty magic’ ?” Enthusia tilted her head. “I don’t remember making something like that.”
+
+In one fell swoop, Nightshade’s theory had been utterly destroyed — beaten to the ground, buried without a last will, and left to be reclaimed by the children of Mushroom Queen.
+
+If the creator of the world said it didn’t exist, then it didn’t exist.
+
+Enthusia cupped her chin, observing the Glowtato. “There’s definitely a strange mix of magic coming out of it — no, bouncing off of it? It seems” — she squinted — “it only glows when you’re observing it.”
+
+Nightshade couldn’t speak for a moment. “What?…” she said in an almost-whisper.
+
+The pink glow started to dim, and when Nightshade saw that, it dimmed even faster. In a scramble, she checked the inside of the bag, and all she found was an ordinary potato, dirt and freckles and all.
+
+Her theory had fizzled out; her entire journey, wasted. She had gathered so much proof of it up until now: the elderly spoke in truths, rough stones contained gems, and she, herself shunned by others, had never shunned herself.
+
+If beauty was not inherent, then why were these things true?
+
+Before her inquiry could become doubt, the bag started to glow silver. The potato floated out of the bag, hovering in the air, and a halo grew around it. “Interesting,” Enthusia said. It floated towards her.
+
+Nightshade looked at her. “W-what’s going on?”
+
+“This potato projects a limited reality-bending field around it, but because it has no consciousness, it’s completely inert…until someone projects their will on it.” She locked gazes with Nightshade. “It had smooth skin and glowed pink simply because that’s how you wanted to see it.”
+
+A potato whose beauty was dictated by others… Nightshade found herself frowning, pitying it. Funny, isn’t it? Feeling pity for a thing that didn’t need it. “Isn’t that just a curse? The potato can’t be just itself.”
+
+The potato landed in Enthusia’s hand and she lovingly cupped it. Though laden with a halo and silver light, it was still just a freckled spud. She considered Nightshade’s question for a moment, closing her eyes and remembering things from a long time ago.
+
+“Your brethren keep on asking me what my secret is. I tell each and every one of them that they’re the ones who think I’m beautiful, not me, and it’s precisely because they have made me unmatchable that they cannot match me.”
+
+Did Nightshade just hear that? The goddess thinks nothing of herself? Was she implying that it was all just a matter of perception all along? Hey, hey, that’s too simple! If that were true, then the first witch would have never acknowledged her to begin with.
+
+If the first witch acknowledged her, then she was beautiful to start with. If Enthusia had been beautiful since before the dawn of this world, and it was all perception, then she would have to perceive herself as the most beautiful being to begin with — and that would make her an existence with the most vanity in the world, an absolute contradiction to who she was.
+
+“I’ve been thinking about it ever since I’d met Medusa,” Enthusia continued. She examined the potato in her hand, smiling as she turned it about, memorizing its bruises and pits. “It can’t be charm, wisdom, wit, elegance” — she waved her hand — “some other things she kept going on about. She even had the same reaction about the [down_realm] as you did. I couldn’t explain my feelings about that infinite trainwreck to her at the time, but I think you’ll understand.”
+
+She tossed the potato back to Nightshade, who’d been in a daze and almost lost balance catching it.
+
+“It’s ugly, and I don’t understand it…but I don’t hate it at all.” Enthusia continued. “It’s just something that’s there, existing in its own way. Who am I to dictate the kinds of weekend wargames they should play?” She shook her head. “That can’t be my role. I’m just the toolmaker. Oh” — she clapped — “but I’m so happy when I see them revel in their own nature, finding new ways to play with the scrappy last-minute magicks I come up with and give them.”
+
+She made a mother’s smile. “It’s all scrappy, yet somehow, they always find new ways to be happy. Compared to that, I understand your folk even less. All my life, I’ve never known this ‘beauty’ you keep looking for. ‘Perfection,’ ‘imperfection,’ some concept of ‘what could have been had it been a little different’ — none of it matters so much when one moment, you have it, and the next, you do not. Linger too much on what it was or could have been, and you would never spend any time with the thing itself, diminishing its existence.” She shook her head. “That’s something I’d never do to anything or anyone.
+
+“Whatever comes of a process is a finished result; and for whatever is in the midst of change, wherever it comes to does not matter. Whatever they are right now is what exists to me — and is what I must choose to love, or else I will lose it.”
+
+Nightshade’s heart had stopped. Her goddess shone bright in this moment, more beautiful than anything she had ever seen or heard, even in rumors.
+
+The puzzle pieces fell into place. The source of Enthusia’s beauty, the holy grail of all of witch-kind, was neither explainable by the label of a theory, nor inherent of her divinity, but sprouted underground from where no one could see — from her own acceptance of herself.
+
+***
+
+Nightshade awoke on the arena’s summoning platform. The Glowtato was in her hand. Had she been knocked out by the lightning strike earlier? Her memories said so, but something felt strange, like she’d been asleep for a very, very long time.
+
+She sat up. It was easier to breathe. She didn’t know why. She checked her System for any strange status effects.
+
+[Active Mark: Witch of Taterity]
+
+[Resistance: Blindness I (100%)]
+
+“Huh. That’s new,” she muttered. It didn’t take her very long to wonder if they had anything to do with the holes poked into her memory.
+
+She shrugged. Before the smiling statue of Enthusia, she trusted that something good had happened. It was even doing a thumbs up. … Huh, it wasn’t doing that before, though? Was that a gimmick for whenever lighting struck it? The people of the [down_realm] were…certified weirdos.
+
+***
+
+From thereon, fate brought her to officially meet Enthusia once more, and once later, to meet a rare newcomer. She’d gotten too far ahead of herself trying to interact with him, but to have heard straight from his lips that he could not simply approach her, her heart had sunk for a moment — until she reminded herself that he, like everyone at the start of their lives, was new, confused, and in the midst of change.
+
+Change was a wonderful thing. It was ugly, violent, and ill-mannered towards oneself. She had witnessed that self-torture many times in others to the point that she envied it. Even if she didn’t know what it was, she wanted it.
+
+That was why, all the responsibility Craft must shoulder and all his faults he must accept, she would observe them from as close as possible, admiring every bruise and pit he would inflict on himself. She might learn things from it — maybe lead her to the end of her pursuit of beauty.
