@@ -1,0 +1,221 @@
+“Fuck it. Full send,” he muttered, before focusing back on the watching goddess. “I will free you,” Darian stated simply, “in return for what you offered. I can’t guarantee I’ll be as ruthless or brutal as you might want, given the whole ‘Goddess of Sin’ thing, but I like the idea of total agency—and as long as you give me that, maybe with some guidance here and there, I’ll help you. There are lines I won’t cross, but, hell, what’s life without a Renegade playthrough?”
+
+Lilith listened to him speak in silence, and when he finished, her smile turned radiant upon hearing his answer. “You will do well as my Autarch, Darian. I hope you succeed in claiming the title.”
+
+Despite his lingering caution, Darian believed it to be an earnest tone—though the pragmatic brutality of her implication toward his possible failure was a bit of a damper.
+
+“On the throne behind me,” she continued, “you will find a weapon. You must hurry and sever my bonds once you claim it, for it is very likely the Pantheon will know that it has been taken, and they will come to investigate.”
+
+Darian didn’t need to be told why that would be a bad thing for both of them, and as his resolve firmed, he felt a sense of determination override all else. Stepping around the silver-haired goddess, he walked carefully past, under, and—in a couple of cases—over the chains tethering her to the pillars to approach the black throne.
+
+When he reached the dais, a seemingly innocuous weapon lay sheathed upon the seat. Its hilt and pommel were reminiscent of a Roman gladius, and its blade was hidden within the dark leather of the sheath. When he took the moment to properly examine it, a pop-up appeared in his eyeline. Instead of the usual blue screen, it was a simple notification that appeared in the bottom left-hand corner of his vision as if it were inside a chat window.
+
+Congratulations, you have learned a new skill!
+
+Skill Name: Examine
+
+Skill Type: Active
+
+Skill Rarity: Common
+
+Skill Function: By focusing on an item, you are able to understand its nature. This does not work with people or items requiring specific rituals, codes, or special prerequisites.
+
+Skill Level: Mastered
+
+Skill Description: Most items are now available for you to Examine!
+
+The moment he finished reading it, the prompt vanished.
+
+Darian blinked at the inconsistency of it not having a screen, until he realised why it had likely been designed that way: user friendliness. Not only was the alert far less distracting than the blue screens, it was also easily ignored and relatively transparent. It was very likely that personal alerts were not deemed as important as System alerts.
+
+It also likely meant that a bevy of skill increases or learned skills wouldn’t occlude his vision with a mass of blue screens. That was great.
+
+The last thing I need is to be blinded by achievements in the middle of a fight.
+
+Pleased with the unexpectedly sensible turn of events, he refocused on the weapon resting on the throne and snatched it up quickly. A pivot saw him hurrying back toward where Lilith knelt on the floor, though when he tried to draw the sword in order to do as she had asked, it refused to budge.
+
+Bewildered, Darian looked down and thought about the [Examine] skill.
+
+The blade’s details appeared as boxless text beside it an instant later.
+
+“Would’ve been nice if that happened when I got the skill…” he muttered in annoyance while he read.
+
+Name: Hidden
+
+Type: Hidden
+
+Rarity: Epic
+
+Slot(s): Main Hand, Off-Hand, Two-Handed
+
+Level: Hidden
+
+Description: This weapon hums with ominous power.
+
+Durability: Hidden
+
+Special Effect(s): Hidden
+
+Darian stared at the weapon in rapidly mounting frustration.
+
+Epic? That’s cool, but why won’t it—
+
+“Is there a problem, Darian?”
+
+Lilith cut through his thoughts when she spoke, and he turned to her and held up the weapon in frustration.
+
+“I can’t draw this, and can’t examine it beyond some basics,” he explained with a grimace. “I’m guessing you left out some details, and I don’t know what to do.”
+
+“Ah, yes, I should have…” She grimaced and shook her head. “My apologies, I am still somewhat out of sorts,” Lilith said with a sigh. “What you are holding is a Revenant Runeblade, one forged centuries ago, and the only one that remained unbonded prior to my imprisonment. To wield it, you must steady your conviction.”
+
+Her haunting eyes peered at him, and she smiled without judgment.
+
+“Only you can overcome your doubts, Darian. Unless you do, I cannot help you.”
+
+Darian opened his mouth to say he already had, and then paused. Part of him did want a way out. He’d only just started playing Eternus Online, and already he’d been presented with a clearly irreversible choice. Doubt, concern, mistrust… It was only natural he felt those things, wasn’t it?
+
+His gaze lowered to the sword again, and he locked his jaw.
+
+No. I’m just being a little bitch. He chided himself mentally. You’re playing a goddamn video game, you’ve got a badass custom questline, and you’re going to dither at the starting line like a pussy?
+
+His resolve settled into place like steel, and he nodded once.
+
+“Thank you,” he said simply while looking back at the goddess. He placed his hand on the blade's hilt and pulled the weapon from its sheath. As he did, a sharp stabbing pain caused his hand to spasm and tighten on the grip, and the sword immolated.
+
+Black fire encompassed the weapon, and Darian very nearly dropped it by reflex—or rather, he tried to drop it, but his muscles wouldn’t respond to his reflex. Instead, it felt as if his fingers were glued to the sword.
+
+As he stared, the fire gutted out quickly, and the sword in his hand was immediately different.
+
+The steel blackened like the void of space, and the leather wraps had dyed themselves as white as bleached bone. The pommel had also changed, morphing from a simple rounded end to the guise of a reaper’s skull.
+
+“Woah…”
+
+The previously lackluster crossguard had also expanded outward above his fingers to form a cruciform with the hilt, and both sides had been capped with skulls to match the pommel.
+
+By the time the changes were complete, he no longer held a gladius by any stretch of the imagination.
+
+Instead, his fingers were wrapped around a weapon he knew well: a bastard sword. Many people knew them as hand-and-a-half blades, referencing the hilt allowing for a one or two-handed grip. Darian had always preferred the term ‘bastard sword’. It seemed more badass to him, for reasons he’d never entirely been able to explain.
+
+“Nice,” he murmured while admiring the weapon’s changes, and used [Examine] on it again.
+
+[Unnamed Revenant Runeblade]
+
+Name: Unassigned
+
+Type: Evolving Weapon (Soulbound)
+
+Rarity: Epic
+
+Slot(s): Main Hand, Off-Hand, Two-Handed
+
+Level: Hidden
+
+Description: Revenant Runeblades are one of the most feared and powerful creations in the history of Eternus. Once wielded by the Dark Lady’s favored champions, these storied blades brought fear and hope in equal measure to the peoples of Eternus.
+
+Durability: 1000/1000
+
+Special Effect(s): Hidden
+
+“You seem satisfied,” Lilith said and shattered his admiration of the sword, “which is pleasing to see, but we are rather short on time, Darian.”
+
+“Huh? Oh! Shit!” He responded with a curse, realizing he’d been standing there staring at his new sword while the proverbial doom timer was already ticking. It was incredibly distracting, he realized, how lifelike everything was. It was easy to forget he was playing a game.
+
+Darian hurried toward her and lifted his runeblade. “I just strike the chains?”
+
+“Yes,” Lilith said while shifting to lift her arms and better present the manacles. “One good strike should do it for each chain.”
+
+Darian nodded, eyed the closest chain, and then swung downwards awkwardly.
+
+His blow shattered the first of the chains linked to Lilith’s left wrist with surprising ease.
+
+When it broke, however, it did not do so without effect. A tolling bell, or something very close to one, echoed from the ruptured manacle with grim intonation—reverberating throughout the space and causing the throne room to tremble.
+
+Darian raised his eyebrows and grimaced.
+
+That couldn’t be good.
+
+“You must hurry, Darian!” Lilith urged him.
+
+He hurried.
+
+Each chain was severed one after the other, sending coruscating flashes of sundered radiance throughout the throne room. Pillars shook, the ground under his feet vibrated, and for each severed chain another bell joined the first and those that came after; tolling a sound not unlike a funeral march.
+
+The dark steel of the runeblade made short work of the radiant bindings until, as the last chain was severed and dissipated away into motes of light, Lilith was free. A roll of power echoed from the goddess, and Darian felt a chill grip his soul when she breathed in deeply. It was as if the room, the light within, and even the stars in the space beyond them shuddered when the Dark Lady drew her first free breath.
+
+“Finally…” Lilith croaked, while ominous shadows pooled around her.
+
+Darian swallowed back his trepidation and stepped to her side quickly, sheathing the runeblade in his left hand and offering his unencumbered right for her to take.
+
+The goddess raised her eyes to him, looked at his hand, and smiled wryly.
+
+When her pale fingers touched his, Darian felt his heart skip a beat—and frost misted the air before him when he exhaled in shock. She was icy to the touch, and yet as warm as a bonfire. It was a juxtaposition that defied his understanding, and when she rose with his aid, he felt like electric currents were racing through his body.
+
+“Thank you, Darian,” Lilith said while her fingers lightly gripped his own.
+
+“No problem,” he replied as bravely as he could. “What now?”
+
+“Eternus,” Lilith replied readily. “There are tasks you must complete if you wish to claim the power of an Autarch. It will be an arduous undertaking, but with your new weapon and your evident force of will, I have full faith in your ability to succeed.”
+
+Lilith turned while still holding his hand in her right, and her left forefinger and thumb made a snap which echoed throughout the chamber. A dark portal awash with purple at its edges suddenly appeared, and Darian turned his attention toward it when Lilith looked back to him.
+
+“We have little time, Darian, so listen well: I will not interfere with your dealings as I assured, but similarly, I cannot aid you beyond very limited offers of favor. The rest of the Pantheon has seen to it that my worship has been quite thoroughly eroded over the millennia, and my last bastion of Faith died over four centuries ago. Your primary task, should you gain the mantle of Autarch, will be to rectify this. Reintroduce the Dark Faith to Eternus, and spread the worship of my Dominions across its surface.”
+
+“Your Dominions?” he questioned quickly, “like Death, Darkness, Shadow, Sin, Order, that sort of thing?”
+
+“Yes,” Lilith confirmed while gently tugging him toward the portal. “I know you have questions, and I do not mean to leave you in suspense, but there is far too much to explain in the time that remains. Should you succeed in becoming my Autarch, I have ensured that you will have a well of information at your disposal.”
+
+“I see,” Darian said while glancing at the ominous portal, and then back to Lilith. “May I ask one last thing?”
+
+“Ask it,” she agreed with surprising warmth.
+
+“Are you Evil?” he questioned directly, and with less trepidation than he expected.
+
+Lilith peered at him for a moment, and then let out a soft, pleasant laugh.
+
+“Now you ask me this, after already freeing me?”
+
+“I guess I just want to know if I doomed a bunch of people to death, or something,” he answered a little lamely, but with complete sincerity.
+
+Lilith shook her head in amusement and reached out to cup his cheek—sending another shock of lightning down his spine in the process. Darian was surprised, momentarily, by how incredibly real her palm felt against his skin.
+
+“In many eyes, I am, but that is because nobody wants to die, Darian—and few wish to take responsibility for their own failings. I am a being of cause and effect. Sin is temptation, Death is final, but neither happens absent a seed of causation. I am Evil in that I will corrupt and I will End, but I do not do it solely for the sake of malice or selfish amusement; though certainly, I can be as wrathful and capricious as anyone else. I simply exist, and in my existence, I create the framework for others to succumb. Whether they do or not, ultimately, is their choice.”
+
+“So you are Evil in the sense that you don’t care about ethical or moral constraints, but you don’t act with overt malice,” Darian surmised thoughtfully, and glanced back at the portal. “I can live with that.”
+
+“I am glad you understand,” Lilith said warmly, “but I caution you: do not let your acceptance result in vulnerability. My Faith is one of strength, Darian. Strength of spirit, mind, and body. If you allow yourself to be weak and succumb to the very things I rule over, even I will not be able to shelter you from the blades of those who covet your place.” Her hand left his cheek, and she placed it over his heart. “My Autarchs have always been a duality: revered and feared in equal measure for what they represent, and for the powers they alone may wield. You must find your path and balance yourself.”
+
+“I understand,” he said with a nod, though he had a feeling she had not quite told him everything.
+
+Admittedly, she had also admitted that she had more to tell, so it balanced out.
+
+Sort of.
+
+“You don’t right now, not fully,” the goddess said with a smile, “but you will. I only hope that such understanding does not come at too great a cost.”
+
+Darian nodded in tacit agreement when she iterated his own thoughts, and took a breath in readiness. “Is there anything else I need to know?”
+
+Lilith paused, stepped away, moved closer to the portal, and turned at the last moment to gesture him toward it.
+
+“This rift will transport you close to the seat of power of the last Revenant-King. You must enter his Necropolis and claim the Liber Nox, my symbol of power. In its pages, should you prove your mettle, you shall find the key to becoming my Autarch.”
+
+The throne room shuddered around them, and both Lilith and Darian turned by instinct as several of the stars in the distance started to brighten, and emitted waves of power that even Darian could feel—like a current of force rippling against his skin. Goosebumps erupted across his arms, and he realized they had spent quite a while talking already.
+
+“They’re coming,” Lilith said calmly, “which means we must withdraw. If you need my advice, my champion, you need only bequeath Death, and pray for my presence. I can visit your dreams, though the duration is mercurial. The more potent the life sacrificed, the longer the connection shall last.”
+
+Darian walked toward the portal as she finished, lifting his hand to lightly touch the swirling energy. Nothing dramatic happened, but he did feel his fingers warp slightly before he withdrew them, like something steady but non-overriding wished to draw them and the rest of him in.
+
+“Remember, all creatures and followers of the Dark are yours to command, if or when you have the strength,” Lilith said.
+
+Darian turned back to her for a final farewell, and she stood on her toes when he turned to bequeath a kiss on his lips—a soft, delicate brush with her own that froze him momentarily in place.
+
+“You are marked,” she said to him, her voice now a temptress’ velvet whisper. “With this, the Trials will permit your attendance. I wish you luck, Darian. If you should die—take solace that I will guide you into Death myself.”
+
+With that, the goddess turned and stepped forward to vanish into the portal.
+
+A sudden surge in temperature caught his attention, and Darian turned to where those brightening stars were now hurtling toward the throne room with the coronal force of a cluster of solar flares.
+
+“This is where the fun begins,” he muttered, quoting his favorite character under his breath and turning back toward the portal.
+
+He took a breath, stepped forward, and entered its embrace with his eyes determinedly open.
+
+There was no going back now.

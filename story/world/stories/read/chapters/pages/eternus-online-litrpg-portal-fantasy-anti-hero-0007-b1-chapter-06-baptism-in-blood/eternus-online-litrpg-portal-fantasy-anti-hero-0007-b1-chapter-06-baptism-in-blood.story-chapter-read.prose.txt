@@ -1,0 +1,253 @@
+Romulus stared at the alert with a decidedly unimpressed face.
+
+He couldn’t refuse, and failure meant permanent death in Eternus.
+
+“Well, Lilith did warn me it would be hard,” he said while dismissing the alert and pushing his fingers through his hair. It felt as real as if he were doing it in real life, and he took a kind of comfort in the quality of the simulation.
+
+Lightsbane pulsed reassurance at his side as well, and Romulus smiled wryly.
+
+“Thanks, Bane.”
+
+If he was going to successfully do what the prompt asked, though, first he needed to know what his abilities and build were. For that, he needed to figure out what the actual leveling system looked like. He knew he’d gained levels, but not how to make them useful.
+
+“Okay, now what?” he said to the air. “Do I get points for leveling up or—?”
+
+SYSTEM MESSAGE
+
+Level Up x 14
+
+You have reached Level 15!
+
+You have 75 Attribute Points to Allocate!
+
+Would you like to Allocate your Points now?
+
+YES
+
+NO
+
+“Ah,” he said in appreciation, “finally. Thanks, System.”
+
+75 Points for 15 levels equated to 5 points per level. He could work with that.
+
+Romulus selected ‘YES’ immediately, and smiled. He’d always enjoyed building his character in video games, especially ones with more robust sheet systems, and he was excited to see what Eternus would offer. His eyes scanned the space in front of him as he waited, watching the air eagerly for the next pop-up.
+
+Seconds passed, and nothing happened.
+
+“So you’ll give me some prompts, but not others?” he said to the air with irritation. “Come on, that’s just inconsistent. Who designed this? Either it’s always vocal commands, or it isn’t!” he groused, before realizing something else: he had no notifications.
+
+Lightsbane pulsed its smug amusement, and he ignored it.
+
+Shouldn’t he have gotten a Quest Log, a Notifications Tab, et cetera?
+
+Clarity struck him like a lightning bolt, and he realized that almost every game had an initial set-up stage, where someone’s HUD was calibrated. VRMMOs especially contained that kind of feature in every experience he’d had. It was critical for players to navigate the worlds, given a lack of top-down meta information.
+
+“Oh. I guess I sort of skipped the tutorial and starter area,” he murmured to himself, reaching up to rub his chin in thought. “That would explain why everything is so confusing—I went right past noobtown. Okay, so, the most logical recourse then is…”
+
+Romulus took a breath and then spoke as clearly and firmly as he could.
+
+“Open Main Menu.”
+
+Instantly, a menu screen appeared in front of him, and he nodded in satisfaction.
+
+He was on the right track.
+
+When the menu unfolded, Romulus’ eyes were instantly drawn to a box outlined in gold, and titled ‘Settings’. He raised his eyebrow at the clear highlighting and tapped it to open it. Once it popped up and overlaid the main menu screen, another list of options presented themselves, and once again, one of them was haloed in gold. Romulus smiled wryly to himself, realizing he was likely following a pre-programmed pathway, and tapped ‘Player Preferences’ to open a third overlayed screen.
+
+There, shining with its own golden border, was ‘HUD Options’.
+
+“Okay, maybe it isn’t so bad,” he said with a small laugh. “I just missed some basic stuff.”
+
+A box appeared asking him if he’d like to calibrate his HUD, and Romulus selected ‘YES’ immediately.
+
+The moment he did, his view of the world changed.
+
+A digital clock with both Eternus and Earth time appeared on the center-top of his vision, while a compass appeared above a heavily fog-of-war obscured map window on the bottom right. The bottom left manifested a chat box, in which he saw absolutely zero activity in the ‘General’ and ‘Local Area’ tabs.
+
+While he stared at the chat, a few alerts populated immediately.
+
+Congratulations, you have learned a new skill!
+
+Skill Name: Dark Mana Channelling
+
+Skill Type: Active
+
+Skill Rarity: Rare
+
+Skill Function: You are able to channel, wield, and command Dark Mana and its myriad subordinate disciplines. As you gain new disciplines, this Skill will update to reflect their attainment, as well as their specific levels.
+
+Skill Level: Novice 3
+
+Skill Description: By calling upon your magical talents, you are able to channel Dark Mana and use it to fuel all Dark Mana Schools. Dark Mana is the most flexible and diverse of Mana Types, though it is not without cost. Channelling Dark Mana will gradually alter your physiology and reduce your ability to use non-subordinate Mana Types.
+
+Congratulations, you have learned a new skill!
+
+Skill Name: Swordsmanship
+
+Skill Type: Active
+
+Skill Rarity: Uncommon
+
+Skill Function: You are able to wield any weapon designated as a [Sword] with increasing skill, dependent upon the level of this Skill.
+
+Skill Level: Novice 2
+
+Skill Description: You have taken your first steps on the path to mastering the Sword! The greater your proficiency, the more effective you will be in combat. New katas will come to you instinctively, and you will passively grow more lethal as you hone this skill.
+
+Romulus sighed as he read over the new alerts in his log, reaching up to brush his fingers through his hair. Dark Mana seemed powerful, given the description, but the fact that using it would lock out all other non-subordinate—he made a note to investigate that later—mana schools was… Well, it meant he could kiss his dreams of being a Gandalf-esque Archwizard goodbye.
+
+“There’s always a catch…” he muttered as he walked, and read the final notification to enter his log.
+
+You are under the influence of a new effect!
+
+Effect Name: Brand of the Dark Lady
+
+Effect Rarity: Legendary
+
+Effect Function: Allies and Enemies of the Dark Lady and her affiliated Powers will be able to sense you, should they have sufficient strength to do so.
+
+Effect Level: Divinarch
+
+Effect Description: You have been soul-branded by the Dark Lady, and are now identifiable to all true believers of the Divinarch Power as her acolyte. Furthermore, those of great favor in service of other Powers—especially aligned to the Light—will be able to sense your presence, with increasing range based on the level of their own empowerment. These individuals will know you as a foe to be slain immediately.
+
+Romulus let out a long, slow groan at what he read, his palms rising to rub at his eyes in frustration. Not only had Lilith marked him, bound him to using a mana type that would erode others, and thrown him to the ass-end of nowhere: she’d also managed to put a gigantic ‘come kill me, please!’ beacon on him that any frothing-at-the-mouth priest, paladin, cleric, or other stereotype would be able to see and set a beeline for.
+
+Romulus shook his head and returned to his HUD setup. He could worry about the skills, the brand, and their various impacts later.
+
+A red bar, blue bar, and yellow bar appeared in the bottom center of his vision, tagged as ‘HP’, ‘MP’, and ‘SP’ respectively.
+
+When he saw that his status bars had percentage values and numerical ones, he grinned. He’d read that Eternus had done their system differently, since they emulated more realistic forms of combat, and that had massively appealed to him. It was a relief to see that he wouldn’t need to meticulously track the numbers each time he took a hit, ran a set distance at speed, or cast a spell. Having the data available was certainly useful, but it was nice to know he could just use the percentages in a pinch to gauge his condition.
+
+“Alright. Now we’re in business,” Romulus said as he took in his HUD. “I should probably track my quests in the blank space on the right to—”
+
+As he said it, it happened: the space between the top right of his vision and the compass filled in with a simple transparent box that said ‘Quest Log’, with ‘Autarch of the Dark Lady’ as a bullet point within it.
+
+“Can I minimize the quest log?” he asked the air, and he saw it happen instantly.
+
+“So voice commands work for this too. Okay…” Romulus rubbed his hands together “...close all menus, and open my Character Sheet for—”
+
+Lightsbane pulsed in warning to cut him off.
+
+A low, snarling growl followed two heartbeats later, and Romulus turned.
+
+The menus closed, another window opened, and then automatically minimized itself as a bar titled ‘Eidos Information’ under his compass.
+
+A large, black wolf was snarling at him from the nearby treeline.
+
+“Oh. Great. Wolves,” he muttered and lifted his right hand in placation. “Uh, good dog?”
+
+Lightsbane pulsed eagerly at his side and vibrated with palpable anticipation.
+
+Romulus knew there was a city nearby, but he was way too far away for it to matter—and there was no way he could outrun a wolf. His eyes never left the animal either, knowing it would likely trigger the attack immediately, and instead he let out a breath to calm his racing heart. It was a game, after all. It wasn’t real, no matter how uncannily lifelike everything was.
+
+Moreover, it wasn’t the first time a wolf had been his enemy in a VRMMO.
+
+“Well,” he said lightly, “I guess this is where the other shoe drops.”
+
+Lightsbane thrummed a fierce agreement, and the vibration increased.
+
+Romulus drew his runeblade, much to its satisfaction, and the wolf charged.
+
+With no attributes assigned and no idea how to use his mana, it came down to him and the sword—and thankfully, he’d gained a skill exactly suited to this situation. Lightsbane settled into his grip two-handed and Romulus pulled on his past experiences with VRMMOs. He was by no means an expert in sword combat, not by any stretch of the imagination. He’d done reenactments for fun in high school, though, and he had experience with being a traditionally martial character in most VRMMOs.
+
+It was something, at least.
+
+When the massive beast closed the distance between them, Romulus pulled Lightsbane back, not unlike a baseball bat, and then stepped forward into the charging animal, while swinging his runeblade directly at it.
+
+Lightsbane moved far faster than Romulus had expected, and the sword slammed into the wolf in a spray of blood, crack of bone, and a jarring vibration that radiated up his arm. Hot viscera sprayed his face, the wolf screamed in pain, and he found himself dropping the sword and staggering backward.
+
+His eyes widened at how disturbingly real it felt, and Romulus felt bile rising in his throat. There had been blood settings in the games he’d played, but it was always toned down and dampened for precisely these reasons. There was no heat, no smell, no taste—it was an effect, and it even looked fake. The animals didn’t even really get hurt; they just received glowing red lines on them where they’d been hit.
+
+Nothing like this.
+
+“Wh-what the f—” Romulus turned and vomited before he could finish his sentence—or rather, he tried to vomit. Given his stomach was empty, all he ended up doing was dry-heaving and expelling spittle. His heart thundered in his chest, he heaved for air, and he turned back to the wolf that was even then writhing and screaming in pain.
+
+Dogs. He loved dogs.
+
+Illogical tears welled in his eyes, and he looked around in a fugue for help automatically—before reality asserted itself once more and he remembered where he was, and what he was doing. “Oh God.”
+
+Panic and terror started to build, and Romulus found himself struggling to breathe, struggling to think. This was wrong. It was too much. He wanted to play a video game, not—
+
+A surge of something bracing suddenly seared through him, and an alert popped into his vision—not as a screen, but in his ‘chat box’ to the left-hand side.
+
+Trigger Skill: [Indomitable] is now active.
+
+All adverse mental effects have been cleared.
+
+[Fear] immunity is now in effect.
+
+Congratulations, you have learned a new skill!
+
+Skill Name: Indomitable
+
+Skill Type: Active (Trigger)
+
+Skill Rarity: Legendary
+
+Skill Function: You cannot be subjected to [Mental Domination], nor any spells of similar or identical effect. Additionally, you are granted complete immunity to [Fear] and any similar Skills, Effects, or Status Conditions.
+
+Skill Level: Mastered
+
+Skill Description: By overcoming the aura of a Divinarch, you have successfully managed to inoculate yourself against the overpowering presence of other entities of equal or lesser rank. As a result, you now benefit from a total immunity to anything that would override, supersede, or otherwise influence your personal agency!
+
+Romulus felt his mind sharpen, his terror and confusion dull, and his sense of purpose reassert itself. A blink followed, and he reached up to feel his racing heart through his bloodied tunic, which was already notably slowing down. It wasn’t that his horror and fear had gone anywhere, it was just that they no longer gripped him. He could view them objectively, and the situation as well, with a sudden and overriding clarity.
+
+The wolf had attacked, he had responded, and that was the end of it.
+
+Romulus looked down at his bloodied hands and noted they were still subtly shaking. [Indomitable] hadn’t removed his fear, it had simply allowed him to overcome it—like a courage injection. That was interesting. It also held implications about Eternus Online’s level of mental interfacing that were mildly concerning, but he left that alone for later assessment.
+
+“Okay. That’s pretty scary, but kinda wildly useful too,” he murmured while walking forward and, with a resolute breath, reaching out to grip his blade by the hilt, and ripping it out of the wolf’s ribcage.
+
+The animal whined when he did, and Romulus took a breath to maintain his composure. This close to the creature, he couldn’t help but feel empathy for it—and the disturbing level of intelligence in its panicked, rolling eyes. “Okay then,” he said with a low exhale, “mercy killing. It’s a mercy killing.”
+
+[Indomitable] continued to bolster him, and he settled his resolve.
+
+Lightsbane pulsed its agreement and hungry enthusiasm in response to his words, and Romulus lifted the sword high in both hands—tip pointed down toward the wolf. He forced himself to keep his eyes open, and with a wince, he thrust his sword down through its skull to end its suffering.
+
+A shudder rippled through him again, and Romulus looked away while pulling his sword out of the wolf’s skull.
+
+When he did, his chat box blinked again.
+
+You have slain an Adult Black Wolf!
+
+You have gained 150 Experience!
+
+[Lightsbane, Retribution of the Dark Lady] has gained 1 [Essence]!
+
+“Okay, that’s neat, I guess,” he said while steadily not looking at the corpse behind him as he stepped further away from it. “Getting alerts for each individual kill will probably be distracting in some circumstances though…”
+
+Lightsbane pulsed in his hand, and Romulus chanced a look down at the runeblade—which was, he realized, utterly devoid of any sign it had been in a fight. His eyes instinctively moved to the grass, and he noticed there was no trail of blood or viscera from the sword either. “How did you get cle—?”
+
+His mind snapped back to the alert about Essence, and Romulus grimaced.
+
+Right, Lightsbane had likely consumed the remnants of the wolf.
+
+“I take it you enjoyed that,” he ventured while looking back at the weapon.
+
+A pulse of enthusiastic agreement followed, along with a ripple of contentment.
+
+“Yeah, I’m sure you’ll get plenty more,” he muttered while looking up and toward the city in the distance. “Part of me wants to go into the forest now, and force myself to get used to the violence—and farm experience while I’m at it.”
+
+He glanced back at the forest while he spoke, and shook his head.
+
+“But I’m not an idiot. No bag, no potions, no map, no gear—it’s suicide. Don’t you think so, Bane?”
+
+The sword pulsed in agreement, though it was decidedly begrudging.
+
+“Don’t worry, I’m sure there’ll be plenty of murder to come if Lilith is to be believed. At least we know I won’t freeze up every time it happens now.”
+
+The sword pulsed more positively at that, and Romulus smiled wryly.
+
+“Okay, let’s go to the city then. That corpse is going to bring out other predators, probably, and I’m not stupid enough to wait for that—though I should probably do my stats while we walk to the city, huh?”
+
+A more enthusiastic pulse of agreement followed.
+
+Romulus nodded, sheathed the runeblade, set off at a steady pace, and spoke aloud while looking at his HUD.
+
+“Show Character Sh—Eidos Information,” he corrected himself upon re-reading.
+
+The moment he said it, the collapsed tab under his compass expanded once more, and Romulus swept his eyes over it.
+
+When he did, he smiled.
+
+“Oh man, this is going to be fun.”

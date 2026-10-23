@@ -1,0 +1,291 @@
+Congratulations, you have learned a new Skill!
+
+Skill Name: Enthrall
+
+Skill Type: Active
+
+Skill Rarity: Epic
+
+Skill Function: You can create Thralls through blood pacts with willing targets, utilizing your hemoforce as a catalyst. You are limited to a number of thralls equal to half of your base Charisma Attribute. Each Thrall you create will remain loyal and unable to betray you for 24 hours, after which it must be permanently enthralled or it will succumb to the volatility of your hemoforce and die. Each Thrall you create will inherit 10% of your Strength, Intelligence, Vitality, and Endurance as a permanent buff, scaling automatically with your improvements.
+
+Skill Level: Mastered
+
+Skill Description: The blood of the Midnight Court has always enraptured mortals for its healing properties and the benefits it can offer. This rapture, however, is not without cost—and more than one eager-eyed supplicant has seen their life snuffed out by the whimsy of a Vampire unwilling to extend their contract beyond a brief proving window.
+
+Romulus peered at Bonnie with curious eyes as the guardswoman rose, her brown eyes regarding him with calm patience. The enthralling ritual had been anticlimactic. He had fed Bonnie his blood from a small cut on his wrist. She had sworn to obey him without deception and promised her fealty in the name of the Dark Lady. Lilith had presumably judged her sincerity, and either through terror or pragmatism, Bonnie had been sincere enough that the ritual had worked.
+
+Now, the woman watched him with eyes sharper than they had been prior.
+
+“How do you feel, Bonnie?” Kate asked before he could, stepping up to the woman and peering at her with curious eyes.
+
+“I… good, I s’pose,” the woman said with a blink at Kate and a glance down at herself. “A bit weird, if’n I be honest. Feel stronger, too, just like y’said milord.”
+
+“A ten percent increase in your Attributes must feel pretty nice,” Kate said with a smile. “That seems like a great boost.”
+
+“I surely feel it, ma’am,” the guardswoman nodded. “It’s not too massive, mind, but enough’ve one that I do be certain I could wrassle down any of them what like t’brawl in the streets.”
+
+“I’m glad to hear that our deal is paying off for you, Bonnie,” Romulus said while resting his left hand on Lightsbane’s pommel and patting her shoulder with his right. “Now, it’s time for you to do what I asked. Do you think you’re ready for that?”
+
+“Yessir, milord,” the guardswoman said, perking up at his touch. “Shouldnae be too hard. Y’just gotta stick real close-like.”
+
+Romulus nodded and looked at Kate with a smile.
+
+“Don’t worry,” he said slyly, “we’ll be glued to you.”
+
+Bonnie nodded, and the trio—not including Mortarius, since he remained invisible to the guardswoman—set off together. Romulus and Kate both pulled up the hoods of their cloaks, with Kate reaffixing her mask as well. The plan was simple enough: Bonnie would walk them to the location of the Paladin they sought and ensure they weren’t impeded by the sparse nighttime patrols in the city.
+
+In return for her cooperation and aid, she would be spared.
+
+The Enthralling process was simply an added insurance.
+
+With a walk ahead of them, Romulus pulled up his Eidos Information to view what had changed.
+
+EIDOS INFORMATION
+
+DETAILS
+
+Name
+
+Romulus
+
+Alignment
+
+Neutral Evil
+
+Level
+
+19
+
+Experience
+
+1,130 / 1,900
+
+VALUES
+
+Hemoforce
+
+8,200
+
+HPM
+
+1,590 (26/s)
+
+Stamina
+
+2,000
+
+SPM
+
+1,200 (20/s)
+
+ATTRIBUTES
+
+Strength
+
+63 (58)
+
+Agility
+
+38 (33)
+
+Dexterity
+
+10
+
+Intelligence
+
+35 (30)
+
+Willpower
+
+18 (15)
+
+Charisma
+
+25 (10)
+
+Vitality
+
+38 (33)
+
+Endurance
+
+40 (20)
+
+EIDOS MODIFIERS
+
+Strength
+
+31% BPD
+
+81% (31%) PDR
+
+47.25KG CC
+
+Agility
+
+19% MSB
+
+19% WAS
+
+7% UDC
+
+Dexterity
+
+5% RWA
+
+2% DWA
+
+5% WFS
+
+-5% WRS
+
+Intelligence
+
+55.5% (17.5%) SP
+
+3,500 MP
+
+3 MRPS
+
+7% LS
+
+Willpower
+
+900 MP
+
+4.5 MRPS
+
+12% SR
+
+Charisma
+
+13% CIO
+
+13% CRIO
+
+Vitality
+
+3,800 HP
+
+19 HRPS
+
+Endurance
+
+4,000 SP
+
+20 SRPS
+
+Romulus raised his eyebrows at the numbers he saw and frowned in consternation. The increase of Sanguine Body from Novice 5 to Novice 8 was accounted for, and that added an extra 8 points to his Strength, Agility, and Vitality—which he could see easily enough. The question that ate at him was what the hell had happened with his Spell Potency, Charisma, and Willpower.
+
+“System,” he murmured quietly, “show me my Attribute boosters.”
+
+A screen opened itself for his eyes a moment later, and Romulus immediately zeroed in on something he’d never looked at before: [Title: Autarch of the Dark Lady]. His eyebrows rose, and he reached out to tap it immediately, as much by impulse as by gaming habit.
+
+The information unfolded a moment later.
+
+Title Name: Autarch of the Dark Lady
+
+Title Rarity: Legendary
+
+Title Function: All Experience Gains for Dark Mana Channelling and Subordinate Disciplines are increased by 100%. You will permanently gain +25% increases to your Spell Potency, Willpower, and Charisma, factored in after other bonuses.
+
+Title Description: You are the Autarch of the Dark Lady, the harbinger of She of the End, and the future Emperor of Darkness. Your existence is singular within the world of Eternus until such time as another takes your place. In keeping with this momentous burden, you are elevated beyond the bounds of other mortals by the Dark Lady’s power.
+
+“Damn,” Romulus said quietly and swiped away the alert. That explained the oddities for sure. He’d thought it was an error or he had miscalculated, but seeing it displayed so completely really put things into proper perspective. He was broken as a character, in the best possible way. He also found that his reticence about blood and violence was all but gone, subsumed by the dark instincts and hungers of his new existence.
+
+He had come a long way from almost weeping over a virtual wolf.
+
+[Indomitable] certainly played its part, but there was something fundamentally different about him since becoming one of the Sanguine. He could feel it in the core of his Eidos. He was a predator now, a creature of the Hunt. It was kill or be killed, dominance or submission, and the world was the battleground. His eyes drifted to Kate, walking calmly at his side, and he considered her in silence.
+
+She had been entirely unbothered by the blood they’d saturated within the tunnel, yet she’d almost frozen up when she’d seen his injury. He wondered what that meant, and how much mental fortitude his best friend had to be hiding to feel nothing at that butchery they’d committed. He’d been lucky, he knew, to escape with just a cut to the face. If not for their ambush tactics and the lack of more Wardens, he’d probably have sustained far worse injuries.
+
+His gaze lifted from Kate toward the city as it unfolded before them, and he looked across the streets. They were nearing the edge of the inner layer, where the Noble families and rich minority of Blackstone made their homes—and a feeling of solemnity came over him.
+
+Romulus leaned closer to Kate and lowered his voice.
+
+“We’re going to have to kill a lot of people, Kay,” he said to her softly.
+
+“What do you mean?” she whispered back immediately with a glance.
+
+“My quest. It has a lot of hidden implications, but one of them is pretty clearly the fact I’m going to have to take control of Blackstone—and I highly doubt it’ll happen bloodlessly. If we can get the Duke or his daughter on our side, it’ll probably help a lot; but we can’t escape the fact that there’s going to be a shitload of death to come.”
+
+“Well, that’s how it goes,” Kate said with a slight shrug. “Needs must, Dee.”
+
+“It doesn’t, I dunno, bother you?” he asked her with genuine inquisitiveness.
+
+“Hmm…” Kate said while looking away from him and toward Bonnie, her green eyes searching the woman’s back before turning back to him. “Kind of, but also not really. No matter how lifelike everything is, Eternus is just a game—and that sort of ameliorates any of my lingering, I dunno, ickyness, I guess? It’s no different from any other VRMMO we've played, except for how thoroughly everything is actualized. The NPCs are still NPCs, the players are still players. Sure, the pain registration is crazy and the gore and stuff are scarily real, but that’s what full dive is meant to be, right?”
+
+Romulus considered that and looked around them again in thought.
+
+“If the AI is so advanced that they’re self-thinking people, doesn’t it feel kind of Descartian?”
+
+“You and your love of René,” Kate said with a wry whisper. “Cogito, ergo sum applies, I suppose, but that’s just, like, a path to craziness,” she finished while gesturing slightly around them. “Are you going to stop just because everything feels super real, Dee? I doubt it. We’re in the biggest LARP of our lives. This is the stuff we read and dreamed about as kids. The closest thing we’ll ever get to a real adventure—one where being a girl doesn’t mean shit, because I can use fucking magic.”
+
+“You make it seem simple,” Romulus murmured back while Bonnie led them down the winding streets toward the checkpoint leading into the outer city.
+
+“That’s because it is simple, Dee,” Kate replied while reaching out to touch his arm. He could feel it through his armor, bonded to him as it was, and he peered into her jade eyes when they pierced him. “You chose the Renegade playthrough. You gave me the chance to play it with you. No point worrying about the existential morality of everything now. It’s still a video game, Dee. Play your part, and let’s become fucking legendary.”
+
+Romulus took a quiet breath and reached over to settle his hand on hers, squeezing the gauntlets that enclosed her fingers.
+
+“Thanks, Kay,” he said with quiet sincerity.
+
+“Anytime, dumbass,” Kate responded slyly.
+
+With their exchange done, they travelled onward in silence.
+
+Blackstone was a far cry from its regular activity at night, when shadows seemed to elongate unnaturally and the darkness held ominous promises for those that risked its shadowy embrace. The city was almost universally asleep, with only the occasional patrol—shown by their shielded lanterns, as if afraid of disturbing the night—lighting up the abandoned streets.
+
+Romulus’ night vision pierced everything, rendering shadowy and oppressive darkness into clear and unobstructed vision. He could see the patrols long before they appeared to the naked eye, and could subtly guide Bonnie away from them—interdicting only when no other avenue of avoidance was available.
+
+The looks on the faces of those patrols told him everything he needed to know.
+
+Haunted faces, suspicious and wary, coupled with the stoic veneer of the Wardens—though he could very nearly smell the fear that clung to them beneath the masks of professional indomitability.
+
+Night was the dominion of monsters, and Blackstone was a city ruled by the memory of the Revenant-King.
+
+Bonnie had told them what to expect, but it still stunned Romulus how easily they made progress. What few patrols there were barely glanced at them twice, and when the Wardens with each group did ask questions, they were simply informed that Bonnie was acting on orders from Warden Jessica Warren, and permitted them to pass unbothered.
+
+There was an implicit naivety to the people of Blackstone that struck Romulus as juxtaposed to the nature of the city. It was as if the populace compensated for the oppressive blanket of terror that emanated from the Necropolis by being extreme in their trust of one another—at least, among those that served in whatever passed for the city’s local forces.
+
+If he succeeded in taking over Blackstone, much of the protocol he observed would need to change, lest the city be invaded as easily as he and Kate were invading it.
+
+“The discipline of these mortals is reprehensible,” Mortarius murmured to him as they walked, invisible to all but Romulus and Kate, and casting no light despite the spectral glow of his form—somehow more solidified in the naked moonrays. “When I ruled this city, no person, no matter their rank or prestige, could stride without proper identification, and attempts at penetrating beyond their permitted zones were punishable by flogging and worse.”
+
+“You lived in a time of war, Mortarius,” Romulus responded to him softly as they crossed into the outer city and veered eastward. “Blackstone is at war with its own fear, of you in fact, and nothing else. There are no enemies in the city for these people to be alert for—no monumental conflict for them to concern themselves with. It’s the nature of peace. It erodes suspicion of the individual in favor of suspicion of the unseen.”
+
+Mortarius glanced at him with surprise.
+
+“That was unexpectedly insightful, Romulus.”
+
+“Human civilization is the same no matter where you come from, Mortarius,” he responded in a murmur. “Peace makes fools of us all. I researched the great wars of my homeland, and I know what it does to people. I also know what a lack of enemy does in turn. These people have lived their entire lives with cutpurses or weak gangsters as the only thing worth fighting, outside of the monsters beyond their walls. They aren’t used to people being the enemy.”
+
+“But now the monsters are in their walls,” Kate interjected with quiet amusement. “I wonder what that will spell for their futures.”
+
+“Nothing good,” Romulus replied quietly, “but we shall see if we cannot change that.”
+
+Onward they went, through abandoned streets and sparsely patrolled thoroughfares, until they reached a small area of the outer city resplendent with radiance even in the darkness of the night; a block of buildings bathed in lamplight and echoing with the sound of activity and quiet singing.
+
+“Here y’are, milord,” Bonnie said when they reached the edge of a large walled compound, within which rose a white chapel girded by various domiciles, with sounds of quiet activity and soft hymnal singing rising above the walls. His Blood Hunter senses could already detect the vital energy beyond, pulsing in his vision. “This do be the home of the Paladin, his Squires, and them lot what do be serving them.”
+
+“What can we expect in terms of resistance?” Romulus asked her while motioning for Kate to ready herself.
+
+“There do be a half-dozen squires what be living there, the Paladin ‘imself, and some dozen odd servant folk.”
+
+“How do we gain entry?”
+
+“I can lead you to th’gate, milord, and from there it do be up to you what happens next.”
+
+Romulus nodded once and took a breath.
+
+“Make yourself scarce once we are inside, Bonnie. I will need you to make a distraction for the city guards. We are not going to be quiet.”
+
+“Right y’are, milord. I can do that.”
+
+Romulus glanced at Kate, who gave him a thumbs up, and then turned back to the guardswoman while softly drawing Lightsbane.
+
+“Lead on,” he commanded.
+
+It was time to commit some heresy.
+
+After what happened next, there was no going back.

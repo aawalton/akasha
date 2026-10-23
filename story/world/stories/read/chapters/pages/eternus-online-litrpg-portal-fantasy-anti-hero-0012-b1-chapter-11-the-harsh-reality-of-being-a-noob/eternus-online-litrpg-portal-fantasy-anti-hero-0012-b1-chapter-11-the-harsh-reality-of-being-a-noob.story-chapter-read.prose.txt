@@ -1,0 +1,283 @@
+“Why did you do that?!”
+
+Isolde’s voice caught Romulus’ attention as she came to a halt outside of a smaller building connected to the central Argent estate, and he moved his gaze from the architecture to focus on the imperious blonde’s hard stare. She stood with her arms folded, a frosty look on her beautiful features and a still-present pink tinge to her cheeks.
+
+“What are you referring to?” Romulus asked carefully.
+
+“The request to court me!” she growled. “You do not even know me!”
+
+“I wasn’t aware that was a requirement with the nobility,” he answered with a twinge of genuine amusement.
+
+Contrived excuse or not, the situation was quite funny.
+
+“You are not a Noble!” she continued with a sharp gesture at his bloodied attire. “You look like a vagrant in truth, far more than you do a Traveler from the stories!”
+
+“And what do the stories say?” he asked with genuine interest.
+
+Her insult rolled off him like a wave crashing upon a cliffside, and Romulus found himself able to maintain perfect calm. He hardly cared about people judging him after almost being mauled by a wolf. Besides, being chosen by Lilith meant he would become Dark Autarch—and the new Revenant-King if all went well. That probably rated him far, far higher than mere nobility.
+
+Not that Isolde would know that, of course.
+
+“Travelers are supposed to be mighty heroes, equipped with mythical weapons and gifted with incredible sorcery. They can shake the earth, split the sea, and sunder the heavens above! They are brave, true, courageous, honorable, and—”
+
+Isolde abruptly snapped her mouth closed, and the redness in her cheeks deepened.
+
+Oh my god, Romulus thought with sudden realization, she’s a total nerd!
+
+“Well, I am sorry to dispel your wild impressions,” he said, with a smile that was equal parts amused, wry, and apologetic. “But I am a Traveler, and I intend to fulfill this Quest—for my own reasons.”
+
+“Even if you are, and even if you do succeed—” Isolde said in a tone that sounded as if she very much doubted he could “—and make safe the Necropolis, you cannot think you could truly be able to court me.”
+
+“If I succeed,” Romulus pointed out conversationally, “I have no doubt I will have more than enough status to at least make the attempt.”
+
+“My father would never allow a Traveler to win my hand,” she said stubbornly. “Even if your kind are legends, he only cares about bloodline—” her expression flickered with anger at her own words, and Romulus didn’t think it was his fault this time “—and advantage. You can offer neither.”
+
+Isolde turned when she said that and pulled some keys from the pouch on her belt. She fitted them into the doors they’d stopped in front of and unlocked them with a resounding thunk of disarmament.
+
+“You’re probably right about that,” Romulus conceded with a shrug as she opened the doors. “Not that it matters.”
+
+Isolde turned back to him with a look of momentary confusion, and then narrowed her eyes in suspicion. “What do you mean?”
+
+“It’s a secret,” he said airily and gestured to the doors, “and I don’t have the desire or the time to talk about this, Isolde.”
+
+With that, he walked past her into the building.
+
+The structure's interior was not unlike a mix between a workshop and an armory, with wooden stands displaying sets of solid plate armor, half-plate, scalemail, chainmail, boiled leather, and ceremonial attire in various distributions. Swords, spears, shields, warhammers, maces, bows, and crossbows of various levels of quality were stacked in different barrels or set upon racks attached to the walls—and Romulus even spied lances with green pennants wrapped near their tips.
+
+The space in its entirety was as big as a barn, and had only one other entrance: a presumably locked door leading deeper into the building. He turned toward one of the suits of armor on display, in fact, when Isolde’s voice pulled him up short.
+
+“Wait!” she demanded.
+
+Romulus turned to regard her with a look of exasperation.
+
+“Listen, I know you’re angry and don’t like me, I get that; but I’m kind of on a timer here. For my own reasons, I need to finish this Quest sooner rather than later. It has to do with Traveler stuff,” he explained without deception, “and I can’t afford needless delays, or the System will probably punish me or something. Would you mind at least getting me the gear I asked for while you interrogate me?”
+
+Isolde opened her mouth, closed it with a frown, and then glanced past him toward the various displayed items.
+
+“The System will punish you?” she asked with what he was surprised to hear sounded like genuine interest. “You are truly given missions, directives, and special interactions from the System? I thought only Powers and their Chosen received those.”
+
+“Yeah, I am,” Romulus said with surprise. “Are you saying you don’t get those?”
+
+“We do,” she answered almost defensively, and then sighed. “But not to the extent you are describing. A lot of it is very generic. Unless you are a Power or someone aiming to become a Power, the System can be frustratingly repetitive and non-interactive.”
+
+“Huh,” Romulus said in lieu of any otherworldly wisdom and filed away the information for later review. “I had assumed it was pretty common, honestly. That’s interesting to know,” he noted and then glanced around the space again. “But uh, and I don’t mean to be rude…”
+
+Isolde blinked at him, and then grimaced.
+
+“I—yes, my apologies,” she said sincerely and entered briskly while she spoke. “I may not trust you, nor like the bargain you struck with my fa—with the Duke, Traveler, but I have no intention of disobeying my orders.”
+
+“Well, that’s a relief,” Romulus said with a genuine smile and a quiet note of how she caught herself. Clearly, there was tension between her and the Duke. “Honestly, I’d have been pretty screwed if you did.”
+
+Isolde stopped to glance back at him, and her lips actually twitched into something resembling a smile before she turned and gestured to the various mannequins. “You are free to claim one set of armor for your use. None of these have been marked with the Wardens’ colors yet, so it’ll be plain steel. You’ll also need certain baselines of Strength and Endurance to wear the heavier armor, so make sure you’re aware of that.”
+
+That made sense, as much as it immediately made him worry.
+
+“What are the baselines?” he asked while turning to approach the displays.
+
+“Just Examine them,” Isolde said and turned back to the interior door. “I will return in a moment with your bag of holding and potions, as agreed.”
+
+Romulus glanced at her in surprise but nodded his gratitude. With nothing else to do, he took her advice and used [Examine] on the various armors.
+
+Name: Plate Armor (Full)
+
+Type: Heavy Armor
+
+Rarity: Uncommon
+
+Slot(s): Head, Chest, Arms, Hands, Legs, Feet
+
+Tier: 2
+
+Description: This is a full set of Plate Armor, including a helmet, cuirass, pauldrons, vambraces, gauntlets, cuisses, and sabatons. It is well-crafted and commonly used by sworn knights, heavy infantry, and the retainers of wealthy lords.
+
+Weight: 55 Kilograms
+
+Durability: 500 / 500
+
+Effect(s):
+
+Requirement(s):
+
+That ruled out the full plate almost immediately, much to his disappointment. His Strength was the closest to the requirement, and his Endurance was nowhere near—not to mention that those seemed to be the base requirements, not the ideal ones. In all likelihood, wearing the armor without a buffer in his Attributes would result in rapid exhaustion and very likely lethal levels of immobility. The armor alone was heavier than he could currently carry as a maximum.
+
+Even at level 15, it seemed, he was woefully ill-equipped to wear even Uncommon quality armor. Romulus shook his head and turned instead to the half-plate hopefully.
+
+Name: Half-Plate (Partial)
+
+Type: Medium Armor
+
+Rarity: Uncommon
+
+Slot(s): Head, Chest
+
+Tier: 2
+
+Description: This is a partial set of Half-Plate Armor, which comes with a helmet and cuirass. It is a well-crafted set commonly used by favored squires, medium infantry, and city guardsmen.
+
+Weight: 30 Kilograms
+
+Durability: 250 / 250
+
+Effect(s):
+
+Requirement(s):
+
+“Oh come on,” he said with a toss of his hands skyward at what he read. “That’s bullshit! What sort of plate is that heavy? This isn’t jousting armor!”
+
+“Actually, it is used by the medium cavalry,” Isolde said from nearby as she returned from her foray into the locked room, and shut the door behind her. “The full plate is worn by the Wardens and the heavy infantry and heavy cavalry, and the half-plate is the standard for the rank and file infantry and city watch.”
+
+Romulus stared at her silently for a moment, then turned back to the armor.
+
+“So you’re telling me that your rank and file city guard can wear this stuff no problem?”
+
+“Mmhmm,” Isolde said in what Romulus detected was a subtly smug tone. “Their combined gear load is close to 55 Kilograms, when factoring in everything. The Wardens and Knights in the city carry about 120 Kilograms,” she explained while walking over without any visible discomfort, and offering him a brown leather satchel with an attached belt and buckle for good measure.
+
+“You have not examined me, if your question is anything to go by, because of what I am guessing is a significant level difference,” Isolde continued, “but my armor is of rare quality and weighs about 65 Kilograms by itself. That does not include my chainmail, sword, shield, or other supplies when we go patrolling further afield to cull the wildlife encroaching from the Forest.”
+
+“Yeah. Okay, I get it, you’re super strong,” he said distractedly while focusing on the bag she’d given him, and using [Examine] on it.
+
+Isolde’s look of annoyance was ignored while he scanned over the information.
+
+Name: Small Bag of Holding
+
+Type: Enchanted Bag
+
+Rarity: Uncommon
+
+Slot(s): Waist
+
+Tier: 2
+
+Description: This is a small bag of holding, and is capable of storing a disproportionate amount of gear compared to its size. Items will shrink to fit the opening when stored, and will return to full size when summoned out by the wearer. Living creatures cannot be placed within the bag. Any food or organic material placed within the bag will be time-locked until retrieved, and retain the same condition that they were stored in.
+
+Weight: 1 Kilogram
+
+Durability: 1,000 / 1,000
+
+Effect(s):
+
+Stored Item(s):
+
+Storage Total(s): 8.65 KG Used | 1.35 KG Available
+
+Romulus raised his eyebrows at what he saw and looked back at Isolde.
+
+“This is much more than I asked for,” he pointed out honestly. “I appreciate it, but I won’t lie, I’m pretty surprised by it,” he continued while belting the pouch around his waist without complaint.
+
+“I am not a woman inclined toward friendship or care for random vagrants, Traveler, no matter my interest in your kind,” Isolde said with a surprisingly neutral tone despite her harsh words. “However, your observations about my mother, paired with your genuine nature, show me a person that is—if not entirely forthcoming—genuine in their kindness. You are hiding something, I know that, but without cause I cannot in good conscience impede your survival.”
+
+Romulus raised his eyebrows at her, but nodded in understanding. The words were more formal and articulate than he was used to, but they made sense, and he was once again struck by how real Eternus felt. Even Isolde, ostensibly a non-player character, acted with empathy and consideration that seemed so real it beggared belief.
+
+She even smelled like a real person—with lavender, sword oil, clean sweat, and metallic tang. It was disconcerting to think about in any great detail, and he had already given up on trying to rationalize it in his mind.
+
+He just had to go hard into the roleplaying and forget the rest.
+
+The game certainly made that easy enough.
+
+“Thank you,” he said to Isolde while showing no insight into his racing thoughts. “Genuinely, thank you. I appreciate it. That’s pretty dang honorable of you.”
+
+Isolde blinked at his verbiage, but graced him with a polite smile when she finally parsed it.
+
+“You are welcome, Traveler Romulus,” she said with a slight nod, and then gestured to the displays. “I would also recommend you take the scalemail, if nothing else is a good fit. Alternatively, the chainmail alone would suffice. Both are of a kind, and if you are lacking in Strength and Endurance, neither will slow you down. The boiled leather is fine, but it would be wasted where you are headed. We know little about the Necropolis, but steel is used by whatever defends it. We have learned that much.”
+
+Romulus looked back at the available pieces and used [Examine] again.
+
+Name: Scalemail (Single)
+
+Type: Medium Armor
+
+Rarity: Uncommon
+
+Slot(s): Chest
+
+Tier: 2
+
+Description: This is a single shirt of thick Scalemail armor. This well-crafted armor is commonly used by favored squires and medium or light infantry in combination with half-plate or other armor.
+
+Weight: 20 Kilograms
+
+Durability: 175 / 175
+
+Effect(s):
+
+Requirement(s):
+
+Name: Chainmail (Single)
+
+Type: Light Armor
+
+Rarity: Uncommon
+
+Slot(s): Chest
+
+Tier: 2
+
+Description: This is a single shirt of Chainmail armor. This well-crafted armor is commonly used by favored light infantry in combination with other armor.
+
+Weight: 10 Kilograms
+
+Durability: 75 / 75
+
+Effect(s):
+
+Requirement(s):
+
+“So the Chainmail would weigh less, which means it would tire me out less, but it provides considerably less protection as well,” he noted while eyeing both the Scalemail and Chainmail. “I’m guessing I’d want to wear the boiled leather with the chainmail, though really, it’s made to pair with the plate.”
+
+“Correct,” Isolde confirmed with a look of surprised approval.
+
+“Well, I’ll take the scalemail then,” Romulus said with a shrug. “It may be heavier, but it’s better than nothing, and at least I won’t be going into the Necropolis with just a shirt.”
+
+Isolde nodded and looked up at him critically.
+
+Once again, he thanked his decision for height.
+
+“You intend to depart for the Necropolis now?”
+
+“Pretty much as soon as I can, yeah.”
+
+“Then I recommend you doff your shirt and avail yourself of the water barrel outside this building. You can clean off the blood, and go into the dark without it clinging to you.”
+
+Romulus smiled at her offer, but shook his head.
+
+“Nah,” he said to her while grabbing the scalemail, and promptly tossing it on over his head. He grunted a little at the weight and readjusted his bag to sit on the outside of the armor. As he did so, he noticed his physical damage resistance advanced from 30% to 50%—though he already knew that was deceptive.
+
+PDR was a vacuum statistic, which meant it did not account for things like an opponent’s bonus physical damage.
+
+If an enemy he fought had 50% BPD, his 50% PDR would equal out to flat zero.
+
+PDR wasn’t about rushing for invulnerability. It was about bolstering defensibility to address the fact that high-Strength enemies could easily cut someone in half at sufficient levels of bonus damage. He’d already caught that minor detail, though he had his time in Souls-like games to thank for that.
+
+“You don’t want to be clean?” Isolde questioned with a look of mixed confusion and mild disgust.
+
+“I’m probably just going to get dirty all over again,” he said with a shrug, “and while a hot bath or whatever would feel amazing right now, I’d rather just get this shit over and done with. I can bathe after that.”
+
+His hands finished adjusting the scalemail—including belting Lightsbane onto his left hip above the armor—and he shrugged at Isolde.
+
+“I don’t expect you to understand, but that’s fine. I appreciate your help, though, genuinely. Thank you.”
+
+“I…” she paused and stepped past him. “It is no burden. You are very likely going to die a horrible death in the Necropolis, regardless. This way, I at least have the peace of mind of knowing you were not ill-prepared.”
+
+Romulus stared at her for a moment and then snorted in derisive amusement.
+
+“You really know how to bolster a guy’s confidence, princess,” he said while following her out of the building.
+
+Isolde whirled when he did, and her glare was back in full force.
+
+“Do not call me that!” she said with genuine anger.
+
+Romulus raised his hands placatingly and smiled apologetically. “Yeah, sure, my bad. I didn’t—that is, I wasn’t thinking. Sorry about that, Captain.”
+
+She did seem pretty stuck on the idea of nepotism earlier. That was probably a big faux pas with her.
+
+Isolde stared at him, oblivious to his thoughts, before marching back to the door to lock it angrily—slamming it shut and aggressively turning the key to thunk its various security measures back into place.
+
+“You can still give up on this,” she noted without looking at him. “The Duke will not even be surprised. You would not be the first would-be Adventurer that—”
+
+“Nah, I’m good,” he replied cheerfully as he headed for the villa’s exit, with only a polite wave and glance over his shoulder. “Have a good day, though.”
+
+Isolde stared at him in momentary bafflement when he started walking away, and then shouted after him. “You’re going to die, Traveler!”
+
+In response, Romulus just laughed.
+
+“Everyone dies eventually, Isolde!” he called back far more bravely than he felt. “I just happen to have the advantage of being immortal!”

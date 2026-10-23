@@ -1,0 +1,185 @@
+Romulus stood with his arms folded and his eyes unfocused, staring through the alerts he’d received after his fight with Kate. He’d first woken up almost three hours after their duel had completed, and the redhead had only roused an hour prior from her ‘deathless slumber’ as Mortarius put it. It was something between a coma and a deep rest, and was purportedly how Lilith circumvented Death for her followers when they were not strong enough to handle more direct intervention. Kate was still talking to Mortarius while she finalized her preparations, much like he had done himself.
+
+When Romulus had awoken from his slumber, in fact, Mortarius had pulled him in for a firm discourse with no chance for refusal.
+
+It still played through his mind distantly while he scanned the alerts.
+
+“You need to better understand your Sorcery if you want to survive,” the ghost had said without preface. “Currently, your understanding of the sorcerous arts is appalling.”
+
+Romulus had stared at the specter and nearly exploded.
+
+“Of course it is!” he’d responded with frustration. “I’m not a fucking magician, Mortarius. Our world doesn’t have magic! This is the first time I’ve ever dealt with something like this!”
+
+Unspoken was the fact that he was referring to how immersive and real Eternus Online was, not that Mortarius needed to know that.
+
+The former Autarch, for his part, had taken Romulus’ words in silent consideration and frowned in thought. “I simply thought you were new to our magic,” he admitted without a tone of apology, but with some measure of concession.
+
+“Never used anything like it,” Romulus answered honestly.
+
+“In that case, allow me to correct some of your information gaps.”
+
+Romulus had sucked back a snarky comment at that remark, and instead offered only a grateful nod.
+
+“Magic in Eternus does not follow prewritten constructions like in some tales,” Mortarius had said first and foremost. “Mana here is shaped, it is not preconstructed. You may learn how to create those shapes through the use of spellcraft tomes, but that is a system designed by the System to allow Travelers to better understand our world. We cannot afford to misadvise you that way.”
+
+Romulus had found his resentment seeping away the more Mortarius spoke, and nodded along with genuine interest.
+
+“The spellcraft tomes, or ‘spellforms’ as they are called colloquially, are used by Travelers and some beginner sorcerers to better comprehend how the mana shapes itself and behaves—but fundamental truth lies in the knowledge that magic, all magic, is shaped by intent and Willpower. I am emphasizing the latter intentionally. As an Attribute, Willpower directly controls the stability of your spellcasting.”
+
+Romulus had raised his eyebrows at that, but it had lined up to an understanding he was already building within his own self from his sparse uses of magic. It felt far more purposeful than it did random. It was fluid, certainly, but it was fluid and responsive to his desires as well.
+
+“The System does not tell you this,” Mortarius had continued, unaware of Romulus’ thoughts. “Any more than it tells you that higher Vitality allows you to mitigate pain more effectively, or that higher Intelligence will enable you to remember and recall things with greater clarity and certainty. The System has unwritten rules that exist within the space between its written ones. The difference between a mortal and a Power is the ability to understand and perceive these unspoken laws that govern reality.”
+
+“So this is something only Powers can do?”
+
+“No,” Mortarius had stated with a shake of the head. “It is something only mortals truly capable of becoming Powers can do. To become a Power, you will need to learn this talent yourself. Simply telling you it exists is not enough. If you cannot develop it yourself, you will never pass beyond the capstone.”
+
+“Level 300?” Romulus had guessed.
+
+“Yes. Paragon is the zenith of mortal accomplishment. Only Powers can go beyond.”
+
+“Okay, now what about my spellcasting?”
+
+“Hemoforce as a resource is both expendable and precious. It varies based on your immediate circumstances. In a battle where you are able to readily replenish it, you are essentially unstoppable with unlimited Sorcery at your disposal—unless you meet an enemy like Katherine, who can nullify that. We can address that particular weakness and its counters later.”
+
+“And I’m guessing in duels and smaller engagements, it becomes riskier?”
+
+“To an extent,” Mortarius had conceded, “though more than one opponent always means you have a ready advantage in longevity, if you possess the skill to prosecute it. The focus you need, Romulus, is not on power output—it is on precision sorcery.”
+
+Romulus had nodded in understanding while Mortarius spoke. He’d absorbed his words, listening silently as the specter continued in a professorial tone.
+
+“Why create a battering ram when a needle will kill just as many with greater celerity and accuracy? Why make a field of spikes when a high-pressure crescent arc of blood will cut your foes in half? Hemoforce as a resource lends itself toward the most flashy and spectacular uses of magic due to its immense pool of available energy—but it is in precision that you truly learn its power.”
+
+“So what about those spellforms then?”
+
+“Spellforms come into being once you create an identical or near-identical construct with a Mana type repeatedly. It becomes a form of ‘muscle memory’ in magic, and allows you to create those constructs faster and with steadily less cost on your resources. The System will list them as ‘Spellforms’ under whichever discipline they belong to, be it Dark Mana Channelling itself or Sanguimancy, Necromancy, Shadowmancy, Entropomancy, Astromancy, and so on.”
+
+“That’s a lot of ‘Mancy’,” Romulus had noted wryly.
+
+“Such is the nature of the System,” Mortarius had said with a small shrug.
+
+From there, Romulus had thrown himself into practice prior to his Hunt with Kate, and it had immediately started showing dividends.
+
+The alerts he’d received after the duel had been quite gratifying, too.
+
+Congratulations, you have levelled a Skill!
+
+Your [Dark Mana Channelling] Skill is now Novice 5!
+
+Congratulations, you have levelled a Skill!
+
+Your [Sanguimancy] Skill is now Novice 3!
+
+Congratulations, you have levelled a Skill!
+
+Your [Swordsmanship] Skill is now Novice 12!
+
+Congratulations, you have levelled a Skill!
+
+Your [Perception] Skill is now Novice 9!
+
+Congratulations, you have levelled a Skill!
+
+Your [Pain Tolerance] Skill is now Novice 6!
+
+Congratulations, you have levelled a Trait!
+
+Your [Sanguine Body] Trait is now Novice 8!
+
+Congratulations, you have learned a new Skill!
+
+Skill Name: Projectile Deflection
+
+Skill Type: Active
+
+Skill Rarity: Rare
+
+Skill Function: You have learned to parry projectiles with your weapon alone, and gained an understanding of how to defend yourself against such attacks without a shield. As this Skill levels, your innate ability to perform it will grow more instinctive and precise.
+
+Skill Level: Novice 1
+
+Skill Description: Projectile Deflection is a harsh skill to learn, as it requires the attainer to be in a life-or-death battle while putting their focus into not simply dodging a projectile, but deflecting it as well. As a result, few have mastered this art—though those that are successful have often gone on to become battlefield legends.
+
+Congratulations, you have learned a new Spellform!
+
+Spellform Name: Dark Lance
+
+Spellform Type: Offensive - Piercing
+
+Spellform Rarity: Uncommon
+
+Spellform Cost: 30 Hemoforce to create, 3 HPS to hold in reserve
+
+Spellform Function: You are able to condense Dark Mana into a lance, 30cm long and 9 cm in diameter at the base, tapering to 1cm at the tip. You are able to launch this Dark Lance at any target within 10m for maximum impact, 15m for half impact, and 20m for minimal impact.
+
+Congratulations, you have learned a new Spellform!
+
+Spellform Name: Blood Drain
+
+Spellform Type: Offensive - Bleed
+
+Spellform Rarity: Rare
+
+Spellform Cost: 100 HPS
+
+Spellform Function: You can exacerbate a target’s bleeding, draining more and more blood from them for every second that this Spellform is active, and rapidly reducing their Health in the process.
+
+Romulus finished reading over his alerts with quiet satisfaction and nodded to himself. Lightsbane had also gained another [Essence] from Katherine, and so had his Warplate, though neither of them had seen improvements beyond the number change. His armor had even repaired itself back to full durability during his slumber, something Mortarius had told him was perfectly normal. He could even repair it himself during battle, if he channelled dark mana via Hemoforce into it.
+
+A noise behind him made him turn, and he locked eyes on Kate when she rejoined him, her eyes scanning him carefully. “Hey, Dee,” she said in a somewhat subdued voice.
+
+Lightsbane pulsed its sympathy at her tone, which surprised Romulus.
+
+“Kay,” he greeted her warmly while patting the sword. “Is everything okay?”
+
+“Um, yeah, I just…” she trailed off momentarily and reached up to scratch her cheek. “Well, I feel bad. I didn’t realize that you could actually feel pain like that in Eternus, and—”
+
+“Kay. Don’t,” he said firmly, and reached out to put a large, armored hand on her pauldron. “Seriously. Don’t. It’s fine. I get it, I had the same experience when I killed a wolf. It freaked me the hell out. Did you at least get Pain Tolerance for your trouble?”
+
+Kate’s eyes searched his, and he saw some measure of trepidation bleeding away when she looked up at him, replaced by quiet relief and something warmer he couldn’t place.
+
+“Yeah,” she said more enthusiastically, “and I got a bunch of levels to things like Shortbow Archery, Dagger Combat, and Dark Mana Channelling. I even unlocked the Null Arrow and Void Strike Spellforms!”
+
+Romulus smiled at her excitement, matched by Lightsbane, and raised an eyebrow.
+
+“I’m glad I could provide an apt target dummy for you to learn from.”
+
+Kate blinked at his words, and then her smile faltered a little. She peered at his eyes, then turned back toward Mortarius, and finally directed her gaze to the floor. “I really am sorry, Dee. I didn’t mean to—”
+
+Romulus raised both eyebrows at her reaction and reached out to lift her face in his hands before she could continue.
+
+“Hey, Kay, I’m fucking with you. Seriously. I dunno what you’re beating yourself up about. It’s just like any other—” he considered and then picked his words carefully, lest he slip up in front of any NPCs that were less aware than Mortarius “—world we’ve travelled to. It’s a bit more visceral and, ah, impactful, but who cares? That’s part of the fun, right? It’s just like those retro shows and movies you love watching, like Xena and 300 and stuff. We’re just living a way more stimulating VR experience.”
+
+Kate peered up at him for a second longer, and then reached up to settle her hands on his gauntlets. “You mean it?”
+
+“Absolutely,” he said with lingering confusion over her uncertainty. “I mean, hell, as if you didn’t enjoy shooting me, huh? God knows it was cathartic to stab your bratty ass at least once!”
+
+Kate’s eyes brightened at his words, and she grinned at him.
+
+Lightsbane pulsed its approval for his actions, and he thumbed the hilt in thanks.
+
+“That’s the last time you get to stab me for free. I’m gonna make you work for every single thrust  in the future.”
+
+Romulus blinked at her and then nodded. Odd choice of words, but he understood the gist.
+
+“I’ll make sure to earn it each time, then,” he agreed cheerfully.
+
+“Bet on it,” Kate said with a gleam in her eyes that made him nervous. She was plotting something, he knew that, but he had absolutely no idea what—probably some sort of elaborate prank, or a surprise duel when he wasn’t expecting it. She wouldn’t catch him unawares, though; he had keen insight. Nothing got past him easily, once he was on the lookout for it.
+
+“If you’re ready to go, we should get started,” he said to her without preamble. “The Sun will be setting in an hour, according to Mortarius, and we’ve spent enough time dithering. Lilith must be bored out of her mind watching us drag it out.”
+
+“Failing to prepare is preparing to fail, Lulu,” Kate said primly and reached back to check her quiver. “Thanks for those potions, by the way.”
+
+“No problem,” he said with a shake of the head. “You’ll need them more than me. I just need to, uh, bite someone to get what I need.”
+
+“That’s h—hella cool,” Kate said with a cough. “Sorry, dry throat.”
+
+“Use the waterskin,” Romulus said chidingly and gestured to the doors. “Shall we?”
+
+“We shall,” Kate agreed vibrantly. “I can’t wait to snipe some shiny assholes. I have no idea how you stayed sane, always being the goody-two-shoes every time. This is so exciting!”
+
+Romulus snorted at her words and led the way forward, patting Lightsbane when it pulsed enthusiasm on his hip.
+
+It was time, at last, after what felt like endless preparation.
+
+The Hunt was on.

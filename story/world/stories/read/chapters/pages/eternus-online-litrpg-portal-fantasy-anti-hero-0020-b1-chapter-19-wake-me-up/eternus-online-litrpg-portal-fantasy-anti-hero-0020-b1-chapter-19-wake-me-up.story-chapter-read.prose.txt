@@ -1,0 +1,201 @@
+SYSTEM MESSAGE
+
+Race Change: Sanguine Revenant
+
+Through the power and blood of the Dark Lady, you have been transformed into a powerful and immortal Sanguine Revenant.
+
+While you will share many similarities with base Vampires, as a Sanguine Revenant, your inherent power and existence far eclipse that of a regular Vampire, and any Vampires sired by you will similarly possess unique modifiers.
+
+As a result, your Health and Mana Pools have been combined into Hemoforce, and any future points invested into Vitality, Intellect, or Willpower will increase your Hemoforce instead.
+
+Other modifiers will remain the same.
+
+Additionally, you have now received several new Racial Passives and Abilities. Refer to your skills menu to view these in more detail.
+
+As this is a World First for Earthling Travelers in Eternus Online, you have also been awarded 10 Platinum to spend at your leisure.
+
+Congratulations, Traveler Romulus!
+
+New Skills:
+
+“Hemoforce…?” he murmured with interest, glancing at his HUD and seeing it as stated. The new measurement of health and magical power was interesting, though it did raise some poignant concerns—such as what he would do when he needed magic in the heart of a battle, and was dangerously low on health.
+
+If nothing else, the concept of Hemoforce was highly intriguing, and he was looking forward to exploring it more. Based on the alert, he had some new Skills that would make excellent use of the resource, and those were what he sought next.
+
+When he dismissed the new window a moment later, a series of alerts dominated the log on the bottom left of his HUD, and Romulus read through them dutifully.
+
+Congratulations, you have gained a new Trait!
+
+Trait Name: Sanguine Thirst
+
+Trait Type: Passive
+
+Trait Rarity: Legendary
+
+Trait Function: You must feed regularly to sustain your form. The potency of the blood consumed determines how long you are sated. While sated, you gain bonus HP regen and stamina recovery. Feeding restores 25% of the damage dealt as HP. More powerful blood increases the duration of the “Sated” buff. As you progress, feeding becomes a viable combat mechanic.
+
+Trait Tier: Initiate
+
+Trait Description: As a Sanguine Revenant, you are gifted with agelessness, supernatural beauty, and robust physical and mental gifts. The cost of these things, however, is the Sanguine Thirst. Now and for the rest of your immortal life, you will crave the essence of others, draining them to sustain yourself. As you grow more accustomed to the Thirst, your ability to sustain yourself will improve. Eventually, you may even be able to feed on the blood of your foes as you rampage across the battlefield.
+
+Congratulations, you have learned a new Skill!
+
+Skill Name: Sanguine Kiss
+
+Skill Type: Active
+
+Skill Rarity: Legendary
+
+Skill Function: Allows you to Sire willing individuals into Vampires and induct them into your Court. Each Sired Vampire grants you 10% of the value of their highest Attribute. The maximum size of your Court is based on your Charisma, with 1 Sireling permitted per 10 points in the Attribute. Siring speed improves, and starting level scales upward, as your Skill Level increases.
+
+Skill Milestones:
+
+Skill Level: Novice 5
+
+Skill Description: The strength of a Sanguine Revenant is in their Court. The more Vampires you create, the more powerful your Court will become, and the stronger you will grow. Only the truly willing may become part of your Court, though their loyalty is not required. Bear this in mind, for once you sire a Vampire, they gain access to the path of succession. Be wary that you do not create your own downfall.
+
+Congratulations, you have gained a new Trait!
+
+Trait Name: Sanguine Body
+
+Trait Type: Passive
+
+Trait Rarity: Legendary
+
+Trait Function: +1 to Strength, Agility, Vitality per level. Additionally, you gain +25 to each at every new Tier. Grants immunity to disease and non-magical poisons. Weakness to Fire Mana and Light Mana.
+
+Trait Milestones:
+
+Trait Level: Novice 5
+
+Trait Description: As a Sanguine Revenant, you possess the potent power of the Dark Lady within your veins. This allows you to far exceed the physical limitations of other flesh and blood creatures. You are stronger, faster, more durable, and possess healing capabilities far beyond the comprehension of mere mortals.
+
+Congratulations, you have gained a new Trait!
+
+Trait Name: Sanguine Mind
+
+Trait Type: Passive
+
+Trait Rarity: Legendary
+
+Trait Function: For each level of Sanguine Mind, you gain +1 to Intellect and Charisma. Additionally, you gain +25 to each at every new Tier.
+
+Milestones:
+
+Trait Level: Novice 5
+
+Trait Description: As a Sanguine Revenant, you wield the power of the Dark Lady’s blood within your veins. This allows you to far exceed the mental limitations of other flesh and blood creatures. You are more gifted, smarter, and magically potent than mere mortals.
+
+Congratulations, you have learned a new Skill!
+
+Skill Name: Sanguimancy, Dark Mana Sub-Type
+
+Skill Type: Active
+
+Skill Rarity: Epic
+
+Skill Function: You may wield Blood as a weapon using the power of your Will and the authority of the Dark. As you grow in power, your potency, control, and range will increase alongside a decrease in cost.
+
+Skill Level: Novice 1
+
+Skill Description: The power of the Dark Lady courses through your veins, and through her grace, you have unlocked a rare and powerful skill: Sanguimancy. As a Sanguine Revenant, blood is your domain, and the blood of your foes is no exception to your sovereignty. You are now able to manipulate blood upon the battlefield, using it as an Aquamancer might use water.
+
+Congratulations, you have learned a new Skill!
+
+Skill Name: Aura of Darkness
+
+Skill Type: Passive
+
+Skill Rarity: Legendary
+
+Skill Function: The Aura of Darkness functions as a Charisma bonus, granting minor resistance to magical attacks and enchanted weapons. You will receive +1 Charisma and a 1% increase in Spell Resistance per level.
+
+Skill Level: Novice 3
+
+Skill Description: As the Autarch of Darkness and Revenant-King, you are the embodiment of the Dark Lady’s will and power on Eternus. For as long as this holds true, you will emit an Aura of Darkness that announces your nature and presence to anyone sensitive to such magic. As you grow in power, new evolutions will be unlocked.
+
+Romulus hummed thoughtfully as he read over the final Skill, expression thoughtful beneath his new helmet. While the bonuses from [Sanguine Body] and [Sanguine Mind] seemed like they could be immense, he also realized that they were likely only going to be truly relevant in the lower tiers of levelling. Once he reached the truly massive levels of power, even a bonus of +50 would be a footnote in comparison to the norm. The milestones presented interesting evolutionary options, but he wasn’t sure even those would be enough to balance the relative discrepancy of power he gained by the higher levels.
+
+In fact, he realized he barely understood what a high level even was.
+
+However, one thing was notable already: Romulus could already feel the difference in his body and mind.
+
+Everything seemed… clearer. Sharper. He perceived the world with noticeably more clarity and a deeper sense of personal awareness and purpose. His blood hummed with untapped potential, and he mentally made learning to use his new power a priority. He’d have to ask the spirit of the Revenant-King whenever he figured out how to summon his new consciousness-passenger to talk.
+
+“Oh! Armor stats,” he said gleefully, realising he’d yet to look at his new digs.
+
+Name: Warplate of the Dark Autarch
+
+Type: Revenant Runeplate (Soulbound)
+
+Rarity: Epic
+
+Slot(s): Full Body
+
+Tier: 1
+
+Description: Once worn by the last Revenant-King and Autarch of Darkness, this armor became the anchor-point for the fallen warrior’s soul through the power of the Liber Nox. With the coming of a new Autarch, the Power animating this set of armour has departed, though the Soul remains.
+
+Durability: 1000 / 1000
+
+Special Effect(s): Revenant Runeplate will evolve as it consumes Essence.
+
+Romulus whistled as he looked over the stats of his new armor.
+
+Part of him was worried, given that he had received a ludicrous level of loot and bonuses to start him off in Eternus Online, but another part of him reasoned it was a result of the dynamic nature of the world. He’d simply made the right choices. There were so many places along the way he could have screwed up, perhaps irrevocably, and yet he hadn’t.
+
+Somehow, he’d managed to ace every challenge thrown his way.
+
+The gamer in him told him to be prepared for something equally terrible as a result.
+
+“Sucks there’s no mirrors in here. It would be great to be able to see myself.”
+
+“Ah,” a cultured baritone voice said suddenly, “there’s the vanity I expected.”
+
+Romulus cursed in surprise, moving to leap to his feet and snagging his cloak underfoot, resulting in him slamming straight back down onto the obsidian throne with a grunt of embarrassment.
+
+“How regal,” the same voice intoned drily as the speaker finally came into view, stepping around the throne. The new arrival was a couple of inches shorter than Romulus, with silvery-white hair to the middle of his back, and a regal-looking silver-trimmed black doublet worn above matching pants, boots, and a complementing belt. He wore no weapon, and a bone-white crown sat atop his hair, studded with diamonds. His eyes were the colour of freshly spilled blood, and his features were heart-stoppingly handsome. Were Romulus not firmly heterosexual, he might have started drooling.
+
+However, most telling was that the new arrival was faintly translucent.
+
+“Holy shit, you’re the Unknown King from the window!”
+
+A snort of derision escaped the handsome specter.
+
+“You must be referring to the abomination of glass in the Ebonwrath estate. I hated it when it was created, and I hated it more when Jorah hung it in his throne room. One of my few regrets is not destroying it when I still had the life to do so.”
+
+“So this is what you actually look like?” Romulus asked as he eyed the ghost curiously, overcoming his initial shock to take in his features fully. “Definitely better than a flaming skull for a head.”
+
+The former Revenant-King rolled his eyes.
+
+“As much as your witticisms amuse me, we have no time for them. You have trouble on the way.”
+
+“What do you mean?” Romulus asked, before immediately remembering the ‘peril’ the Dark Lady had warned him about.
+
+“I have a better idea than explaining. Your quest should be updating right about…” the wraith snapped his illusory fingers, “...now.”
+
+SYSTEM MESSAGE
+
+Quest Updated: Neutralize the Necropolis
+
+The Duke of Blackstone tasked you with entering the fortress in the heart of the inner city and dealing with whatever is wrong within its depths.
+
+He authorized you to use whatever means necessary to complete your task and offered you anything you needed to see it through. Though unaware of your success, he has begun to grow suspicious.
+
+With the fall of the last Revenant-King, the [Aura of Death] presiding over Blackstone is beginning to fade. Only the residual power of the former Autarch’s presence remains, and veils your success from notice.
+
+Other powers are now aware of your efforts, and a clarion call to battle has been sounded by the Divinarch of Light. Agents of Hyperion are already preparing to end you prior to you establishing your Faction, and the sparse servants of the Divinarch that remain in Blackstone even now work to undermine you.
+
+In one month, the full might of a Hyperian Crusade will crash down upon you. Prepare well.
+
+WARNING: The manner in which you resolve this quest will have lasting consequences for the world of Eternus. Choose your path wisely.
+
+Difficulty: A+
+
+Success: Variable
+
+Failure: Permanent Character Death, Destruction of Blackstone
+
+Rewards: Various
+
+Concept Art of Mortarius

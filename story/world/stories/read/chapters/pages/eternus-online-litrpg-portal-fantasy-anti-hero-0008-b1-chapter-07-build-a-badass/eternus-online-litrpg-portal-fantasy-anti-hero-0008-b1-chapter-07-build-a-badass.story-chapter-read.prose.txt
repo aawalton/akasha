@@ -1,0 +1,409 @@
+EIDOS INFORMATION
+
+DETAILS
+
+Name
+
+Romulus
+
+Alignment
+
+Neutral Evil
+
+Level
+
+15
+
+Experience
+
+150 / 1,500
+
+VALUES
+
+Health
+
+1,500
+
+HPM
+
+300 (5/s)
+
+Mana
+
+2,000
+
+MPM
+
+210 (3.5/s)
+
+Stamina
+
+1,000
+
+SPM
+
+300 (5/s)
+
+ATTRIBUTES
+
+Strength
+
+15 (10)
+
+Agility
+
+10
+
+Dexterity
+
+10
+
+Intelligence
+
+15 (10)
+
+Willpower
+
+10
+
+Charisma
+
+10
+
+Vitality
+
+15 (10)
+
+Endurance
+
+10
+
+Romulus nodded to himself as he looked over his character sheet—or Eidos Information as the System called it—while reading each of the sections carefully. His alignment was unsurprising, given his freeing of the Goddess of Death from her bindings. That probably wasn’t going to win him any good boy points with the more traditionally benevolent Powers, as Lilith had called them. Besides, the Divinarch had herself confessed to the ‘Evil’ signifier, so it was hardly unexpected.
+
+His experience was also enlightening. Apparently, he needed an equivalent number of experience to his level, multiplied by one hundred. Based on that information—and the experience he had gained from his quests and achievements—level 1 to 2 required 100, and level 10 to 11 required 1,000, and so on from there. It was a logical system.
+
+The fact he received exactly enough experience to reach level 15 was, however, a little suspicious—but he filed that away for later discussion with a certain silver-haired Power.
+
+He glanced next toward his Health, Mana, and Stamina and noted the per second values in the regeneration fields. He didn’t immediately query the mana value, since he had a feeling that would be explained when he did a proper deep dive into the Attributes. The unfortunate part of any game, really, was learning to understand the Attributes and how they affected an Eidos. Given Lilith’s advice, Romulus was determined to approach things with a cautious and balanced mindset.
+
+Romulus did notice the lower values in parentheses next to the values of his main Attributes, which he assumed correlated to his base values before bonuses, such as those from Lightsbane. That was good information to file away. Any gear or other equipment he gained would likely also skew the numbers.
+
+Looking at his health and mana, Romulus could only shake his head.
+
+It was very likely that the management of those resources would become pointless in time. It would come down to a general sense of fatigue and battle weariness, more than any mathematical calculation.
+
+That explained the percentage values, as well.
+
+It was a smart choice on the part of the developers.
+
+Player versus player battles would be far more exciting at higher levels, with a more seamless and flashy form of combat almost indistinguishable from a movie or fantasy novel. Players would just fight like real people, ignoring small numbers and battling until their health bars bottomed out and they were knocked out or killed. Mana, very likely, would play no more than a cursory role in much of the fighting.
+
+Stamina would probably be a bigger factor than most people imagined, but he was already considerate of that. Without stamina, even the hardiest fighter would probably collapse and be easy pickings.
+
+Before he actually committed points, though, he needed to know more.
+
+“Open Attribute details,” he murmured as he walked.
+
+It was going to be imperative, before he invested any points, that he understood how they would play into his ‘build’ and capabilities. The wolf had been a surprisingly easy kill, but he also intrinsically understood that Lightsbane, more than him, had been the reason he’d won. If a different weapon had been in his hands, it may not have been the same result. He needed to make sure he was ready for what came next.
+
+That meant learning how best to work toward a style of combat that suited him.
+
+A new screen populated a second later, and Romulus read over it carefully.
+
+Attribute
+
+Effect on Eidos
+
+Strength
+
+Bonus Physical Damage, Carrying Capacity, and Physical Damage Resistance.
+
+Bonus Physical Damage 0.5% per 1 Points. (BPD)
+
+Physical Damage Resistance 0.5% per 1 Points. (PDR)
+
+Carrying Capacity 0.75 Kilograms per 1 Points. (CC)
+
+Agility
+
+Movement Speed Bonus, Weapon Attack Speed, and Unconscious Dodge Chance.
+
+Bonus Speed of Movement 0.5% per 1 Points. (MSB)
+
+Weapon Attack Speed 0.5% per 1 Points. (WAS)
+
+Unconscious Dodge Chance 0.2% per 1 Points. (UDC)
+
+Dexterity
+
+Ranged Weapon Accuracy, Dual-Wielding Ability, Weapon Fire Speed, and Weapon Reload Speed.
+
+Ranged Weapon Accuracy 0.5% per 1 Points (ARW)
+
+Dual-Wielding Ability 0.2% per 1 Points (DWA)
+
+Weapon Fire Speed 0.5% per 1 Points (FS)
+
+Weapon Reload Speed 0.5% per 1 Points. (RT)
+
+Intelligence
+
+Spell Potency, Mana Pool, Mana Regeneration, and Learning Speed.
+
+Spell Potency 0.5% per 1 Points. (SP)
+
+Mana Pool 100 per 1 Points. (MP)
+
+Mana Regeneration 0.1 per 1 Points. (MPM/MPS)
+
+Learning Speed 0.25% per 1 Points. (LS)
+
+Willpower
+
+Mana Pool, Mana Regeneration, and Spell Damage Resistance.
+
+Mana Pool 50 per 1 Points. (MP)
+
+Mana Regeneration 0.25 per 1 Points. (MPM/MPS)
+
+Spell Resistance 0.5% per 1 Points. (SR)
+
+Charisma
+
+Capability to Influence others through Speech and Actions.
+
+Chance to Influence Others 0.2% per 1 Points. (CIO)
+
+Chance to Resist Influence of Others 0.2% per 1 Points. (CRIO)
+
+Vitality
+
+Health Pool and Health Regeneration.
+
+Health Pool 100 per 1 Points. (HP)
+
+Health Regeneration 0.5 per 1 Points. (HPM/HPS)
+
+Endurance
+
+Stamina Pool and Stamina Regeneration.
+
+Stamina Pool 100 per 1 Points. (SP)
+
+Stamina Regen 0.5 per 1 Points. (SPM/SPS)
+
+Romulus let out a low whistle as he read over the Attribute breakdowns, and hummed to himself in thought. There were a lot of options he could see, and already he understood why the developers had chosen the path they had: balance. It was almost impossible to be good at everything, or even multiple forms of one thing. Dexterity was absolutely integral for any kind of ranged fighter or multi-weapon specialist, but that also meant that they would have to sacrifice massively either in Agility or Strength, depending on what sort of fighting style they were pursuing.
+
+A spellbow, for example, could easily use Intelligence to make up for a lack of Strength, but would become very vulnerable in close quarters even with high Vitality.
+
+Conversely becoming a spellsword or paladin would require a sacrifice of Dexterity and perhaps even Agility, to focus on Strength, Intelligence, and Wisdom. Charisma, Vitality, and Endurance added even more dissemination to the pile, with each Attribute controlling important facets of a person’s capabilities. Unless there was some way to combine attributes, he was quickly realizing that there was no easy path to dominance.
+
+He had wanted to go down the path of something like a tanky spellsword duelist.
+
+Looking at his options, Romulus was beginning to wonder if it was even possible.
+
+Sighing to himself, he dismissed the Attribute descriptions and went back to his Eidos Information. He had the runeblade from Lilith, which meant he definitely needed Strength. He’d also acquired some form of Magic, though whether or not that was going to be immediately helpful was still frustratingly unclear.
+
+With Intelligence also controlling bonuses to learning speed, not taking it seemed crazy even if he didn’t have practical applications for his Magic yet. The Dark Lady had implied he’d gain some control over Death, and it didn’t take a genius to connect that anyone named the ‘Revenant-King’ likely had some immense Necromancy at their disposal.
+
+“So I’ll be a spellsword either way if my suspicions are correct,” he muttered.
+
+On the off chance that he wasn’t right, he would still have a solid foundation.
+
+“Alright,” he said with a nod. “Here we go…”
+
+Romulus sent a prayer to Lilith, as absurd as the act felt, and slammed home his Attribute distributions.
+
+He put 25 points into Strength, 15 points into Intelligence, 10 into Endurance, 10 into Agility, and dumped the remaining 15 into Vitality. Muttering to himself about min-max haters, Romulus confirmed his distributions when queried.
+
+The moment he did, he staggered sideways.
+
+The points allocations took effect far more viscerally than he’d imagined.
+
+He could feel his muscles thickening, his steps growing lighter, and his body becoming denser and more durable. He felt his mind sharpening, and he seemed able to process information subtly faster—each thought produced with just a little more clarity. That was absurd, given he was in a video game, but he knew it was true.
+
+That was puzzling, but it may have been some kind of placebo effect.
+
+Romulus looked down curiously and squeezed his hands, staring at them as he did. His eyes widened at the feeling of new might coursing through him, and he made a couple practice jabs at the air. He felt powerful, and there was a notable change in both his force and his raw speed.
+
+“I’m only level 15, and I feel amazing,” he said with wonder. “This game doesn’t even have a level cap, either. By time I’m in the hundreds…”
+
+Romulus shook his head at the possibilities and patted Lightsbane fondly.
+
+“You and I are going to go far, Bane,” he said with a kindling of genuine excitement to the runeblade. “Especially after I complete these trials.”
+
+Lightsbane pulsed its happy agreement.
+
+“With that done, let’s see how we’re looking. System, display Char—Mm, Eidos Information and add the new Modifiers, please.”
+
+The System complied instantly.
+
+EIDOS INFORMATION
+
+DETAILS
+
+Name
+
+Romulus
+
+Alignment
+
+Neutral Evil
+
+Level
+
+15
+
+Experience
+
+150 / 1,500
+
+VALUES
+
+Health
+
+3,000
+
+HPM
+
+900 (15/s)
+
+Mana
+
+3,500
+
+MPM
+
+330 (5.5/s)
+
+Stamina
+
+2,000
+
+SPM
+
+600 (10/s)
+
+ATTRIBUTES
+
+Strength
+
+40 (35)
+
+Agility
+
+20
+
+Dexterity
+
+10
+
+Intelligence
+
+30 (25)
+
+Willpower
+
+10
+
+Charisma
+
+10
+
+Vitality
+
+30 (25)
+
+Endurance
+
+20
+
+EIDOS MODIFIERS
+
+Strength
+
+20% BPD
+
+20% PDR
+
+28KG CC
+
+Agility
+
+10% MSB
+
+10% WAS
+
+4% UDC
+
+Dexterity
+
+5% RWA
+
+2% DWA
+
+5% WFS
+
+-5% WRS
+
+Intelligence
+
+25% (15%) SP
+
+3,000 MP
+
+3 MRPS
+
+7.5% LS
+
+Willpower
+
+500 MP
+
+2.5 MRPS
+
+5% SDR
+
+Charisma
+
+2% CIO
+
+2% CRIO
+
+Vitality
+
+3,000 HP
+
+15 HRPS
+
+Endurance
+
+2,000 SP
+
+10 SRPS
+
+“I need to get stronger, but, it’s a start,” he said with a nod as he raised his eyes to focus on the approaching walls of the town, and was momentarily surprised by his good progress. He hadn’t realized how far he’d walked in such a short time.
+
+The benefits of his Agility increase had already been paying dividends without him realizing, and when he glanced back to see where he’d left the forest, he noticed he’d already walked quite a considerable distance. Where before the trees seemed to be only a dozen or so meters away, now the entire treeline was a distant block—and Romulus was suddenly aware that he had probably zoned out hard while fiddling with his point allocations. The fact he’d managed to be that distracted was itself concerning, but in hindsight, it was probably better for it to happen sooner rather than later.
+
+Now that he was aware of it, it would be far easier to keep himself from drifting.
+
+His eyes returned to the city ahead, and he considered it thoughtfully.
+
+Lilith had told him that he’d be deposited nearby to the last Revenant-King’s seat of power, and he had to assume that the wall he was approaching, over the top of which he could see the distant outline of a castle-like structure, was his mark.
+
+All he had to do then to proceed with his quest was gain access to the town, city, or whatever was behind the walls and make his way to said Necropolis. The fact that the quest text had even capitalized ‘Necropolis’, as if it were a title as much as a place, made him curious as well. A person had to be powerful, revered, or both if their castle or home was constantly referred to as a pronoun.
+
+“And I’m supposed to replace him…” Romulus muttered with a wry smile. “No pressure.”
+
+Lightsbane pulsed in support and drew a more genuine smile from him.
+
+The sword was a real ride or die, as the saying went.
+
+Romulus glanced to his left as he walked and turned toward the beginnings of a faded and dirty road, stepping onto the overgrown path heading toward what he could see was a large gate perhaps five hundred meters away. The fact he hadn’t seen the path until that moment told him how little use it likely received.
+
+“I wonder if this place even has people left?” he questioned as he moved, flexing his hands idly and then resting his right hand on the hilt of his blade. “I don’t see anyone on the walls.”
+
+Lightsbane pulsed with indifference, and Romulus snorted.
+
+“Well,” he said cheerfully, “let’s go find out.”

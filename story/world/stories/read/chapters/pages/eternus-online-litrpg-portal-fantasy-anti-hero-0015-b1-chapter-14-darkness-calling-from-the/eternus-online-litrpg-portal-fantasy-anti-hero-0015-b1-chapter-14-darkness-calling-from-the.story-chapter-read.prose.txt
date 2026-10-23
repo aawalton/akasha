@@ -1,0 +1,257 @@
+You have slain 11 Reanimated Skeletons!
+
+You have gained 2,750 Experience!
+
+Congratulations, you have levelled a skill!
+
+Your [Swordsmanship] Skill is now Novice 9!
+
+Congratulations, you have levelled a skill!
+
+Your [Perception] Skill is now Novice 6!
+
+Congratulations, you have learned a new skill!
+
+Skill Name: Pain Tolerance
+
+Skill Type: Passive
+
+Skill Rarity: Uncommon
+
+Skill Function: You are able to ignore an amount of physical and mental pain relative to the level of this Skill, reflected by a percentage. (Current Tolerance Bonus: 3%)
+
+Skill Level: Novice 3
+
+Skill Description: Pain Tolerance is a grim Skill, often earned only through hardship or rigorous combat. Suffering is the only way to develop this skill further, though as it grows, the dividends it offers will far outweigh its costs. This is a Skill for the bravest alone, for the requirements behind its true Mastery can forfend the courage of even the most stoic souls.
+
+SYSTEM MESSAGE
+
+Level Up x 2!
+
+You have reached Level 17!
+
+You have 5 Attribute Points to Allocate!
+
+Would you like to Allocate your Points now?
+
+YES
+
+NO
+
+Romulus took a steadying breath after the end of his laughter at the ‘Pain Tolerance’ pop-up and reached up to wipe his eyes with the palms of his hands. There was something invariably hilarious about the game rewarding him for essentially being a punching bag, and he doubted he would ever be able to articulate it in a way others understood.
+
+His eyes moved to the hovering blue screen, and he reached out to tap the ‘YES’ button before speaking clearly.
+
+“Allocate all points to Strength,” he instructed while reaching up to rub at the hole in his scalemail. A quick [Examine] showed its durability at 45/75, and he sighed quietly. That armor had not even lasted its first two hours without losing almost half its durability, never mind potentially days within the Necropolis. “I’m going to be screwed if I have to keep fighting those skeletons all the way through, Bane,” he muttered while pulling the scalemail off his head.
+
+The runeblade pulsed its disagreement and encouragement, and he smiled.
+
+He needed to change shirts, now that his ‘spawn’ one had been all but destroyed.
+
+Romulus reached down to his satchel and willed one of the spare, padded cotton shirts to his hand while storing the rags of his original one into the bag. A quick pull over his head settled the new clothing on his body, and he summoned a waterskin afterwards to take a drink.
+
+“Hey, didn’t I get a Title or something back near the forest?” he said out loud with a raise of his eyebrows. “I kinda forgot about that. System, show details on ‘Prodigy’ title.”
+
+With everything going on, he’d completely spaced on the title.
+
+“So much for boosted Intelligence…” he muttered while reading the information.
+
+Congratulations, you have acquired a new Title!
+
+Title Name: Prodigy
+
+Title Rarity: Epic
+
+Title Function: All Experience Gains from Combat are increased by 1000% while below level 50, and each skill below Adept Tier will level up 100% faster.
+
+Title Description: Prodigies are extremely rare and highly sought after within Eternus for their staggering growth rate. When awarded this title for exceptional performance in their first 10 levels, those marked as Prodigies will outstrip all others in pursuit of Adept Tier.
+
+“Huh…” Romulus said after peering at the title information. “One thousand percent? That means it’s increased by ten times, which means those—” his eyes widened, and he stared at the collapsed piles of bones. “These assholes are only worth 25 experience?!”
+
+Lightsbane pulsed its genuine amusement at his reaction, and Romulus groaned.
+
+“That grind is absurd,” Romulus continued in open disbelief. “How the hell are you supposed to gain levels with such low experience yield? Level 26 would require 2,500 experience to reach. At 25 per kill, you’d need to kill a hundred of these skeletons to even…”
+
+He trailed off and reached up to rub his forehead.
+
+“This title is a fucking cheat code. Okay. Cool. Whatever. I’m going to assume Lilith set this up for me as a boost for the bullshit I’ll have to deal with.”
+
+Lightsbane pulsed its sage agreement, and Romulus frowned at the area around them while putting the waterskin back into his bag.
+
+“I guess we move forward? No more enemies have appeared, so—”
+
+Romulus was cut off by the appearance of a System screen.
+
+SYSTEM MESSAGE
+
+Congratulations, Acolyte Romulus!
+
+You have passed the Trial of Might by demonstrating analytical skills, personal awareness, and pure strength.
+
+Your next Trial awaits deeper within the Necropolis.
+
+Complete both the Trial of Magic and the Trial of Mind in order to be eligible for selection as the Autarch of the Dark Lady.
+
+His eyes scanned the System screen silently, and then he swiped his hand to dismiss it. That was the Trial of Might? A bunch of basic minions? It was definitely not what he had expected. He’d thought it would be a warm-up, and he’d be facing a Death Knight or some sort of floor boss after fighting his way through hordes of undead with ever-increasing difficulty. He had expected a multi-day venture filled with chaos, violence, and the usual dungeon delving fare.
+
+This was…
+
+Truncated.
+
+“I wonder if there’s a reason…” he mumbled while peering around at the skeletal minions. Each of them had undoubtedly been strong once the others had been destroyed, but now he wondered if that was by design or necessity. Whatever power yet lingered in the Necropolis had been defending it for two hundred years, if Tom and Jerry were to be believed.
+
+Perhaps more, if the current attempt at settling Blackstone was merely the latest in a long line.
+
+Lilith had said the last bastion of her power had been extinguished four centuries prior, but that did not necessarily mean that Blackstone had been that bastion. For all Romulus knew, the city had been abandoned and theoretically depleted for thousands of years. The Dark Lady had been imprisoned for more than that time by her own admittance, and while she had been suppressed, he doubted anyone else would have been able to become her Autarch.
+
+Romulus raised his eyes to the grand staircase at the end of the room and furrowed his brow.
+
+“So it isn’t that you don’t want to test me properly,” he said while peering up into the darkness, “it’s that you can’t.”
+
+A soft wind caressed his hair after he said the words.
+
+On it, he heard the faintest echo of ethereal laughter.
+
+“I’ll take that as a yes,” he said while looking down at the skeletons and bending to examine them. The next was a Trial of Magic, and while he had some ideas—thanks to his bevy of time reading fantasy—on how to potentially stimulate his magic usage, he wanted a better look at the skeletons. They had presumably been animated with Dark Mana, and if that was the case, he should in theory, have the ability to discern some trace of the power.
+
+If he could do so, it might help him awaken his own access to the magic.
+
+The idea was rudimentary and random at best, but he wasn’t about to abandon any possible avenues toward growth.
+
+“Hey Bane, you remember how you burst into black fire?”
+
+The runeblade pulsed its affirmation.
+
+“How come you don’t do that anymore?”
+
+A feeling of emptiness came from the sword.
+
+“You need some sort of fuel?”
+
+Another pulse of affirmation was given.
+
+“From me, or enemies?”
+
+This time, the mental equivalent of a shrug came from the sword.
+
+“I’m guessing the enemies must be alive, since these skellybros gave you no essence.”
+
+Amusement and agreement both pulsed through, and Romulus nodded.
+
+“Yeah, okay. That makes sense. So I need to be able to use my mana in order for you to—wait, what exactly do those flames even do?”
+
+A deliberate pause followed his question, and then an image of flesh desiccating and peeling into dust flashed into his mind.
+
+“You dissolve them?”
+
+Disagreement came from the sword.
+
+“Uh, okay… Do you, like, burn up their life force?”
+
+This time, a pulse of affirmation followed the question.
+
+“Okay, that’s pretty badass,” Romulus said with approval. “And you need mana for that?”
+
+Lightsbane pulsed in agreement once again.
+
+“Is it more efficient to draw it from me, or do living targets give you enough?”
+
+Uncertainty came through, and Romulus chuckled.
+
+“Okay, we can figure that one out together then. Thanks, buddy.”
+
+Lightsbane vibrated with happy approval, then subsided once more.
+
+“Now then, magic…” he muttered while peering carefully at the skeletal remains of the sword-wielder. “Magic, magic, magic…”
+
+The words helped him focus while he split half of his focus toward the remains of the bone patrol, and the other half toward himself. It felt strange to be seeking a sense of magical force in what was ostensibly a simulation. Still, the realism of Eternus Online demanded a certain level of investigative self-assessment.
+
+Romulus breathed while pushing his attention deeper within his Eidos and sought after the spark, ember, or manifestation of power that would signify his magical power. In most stories that he had read, it was akin to a Core or some sort of lurking potential beyond the periphery. Some tales described it as incandescent, like the sun over one’s shoulder—others attributed it to something like a bubbling lake of dark water, or collapsing mountains of fire and ice.
+
+“Gotta love the classics,” he murmured again and let out a steadying breath.
+
+Within himself, he delved as deeply as he could, using every iota of his Willpower to seek after that which lay beyond his physical awareness. He had the Skill, so he had the ability. The question that lingered was where it was and how he needed to activate it. [Indomitable] had been proof enough that simply possessing something was not sufficient to use it. Did Dark Mana require a trigger? Or…
+
+His eyes widened, and he realized he could see something.
+
+Not within, but without: motes of something so dark he had almost mistaken it for the floor.
+
+Romulus extended his right hand and let his fingertips brush over the lingering, abyssal-black particles with a mix of trepidation and excitement. The moment his fingers made contact, a cold shock rippled through his System—like a mix between an ice bath and an electric current.
+
+It was just like when Lilith had touched him.
+
+Hitherto unknown power churned to life within him and he felt something unravel within his solar plexus, like a tight knot unwinding under deft hands. A chill spread from his navel out toward the rest of his body, and Romulus felt goosebumps surge in its wake. In the same instant, a System alert populated in his vision.
+
+SYSTEM MESSAGE
+
+Congratulations, Acolyte Romulus!
+
+You have successfully awoken the Dark Mana within your Core and taken your first step toward magical mastery.
+
+Unlike the other mana types, Dark Mana is a singular and terrible force, capable of wielding multitudinous Dominions feared by even the most dauntless souls.
+
+Every step you take along the path of its mastery will proportionally weaken your compatibility with other mana types, for the power of the Dark holds a boundless hunger, and all else is subsumed by its entropic touch.
+
+“Huh…” Romulus said after reading the prompt and then dismissing it. “That cinches it. I really can’t live the Gandalf fantasy, Bane. I might be a Cultivator, th—wait, am I the Young Master?!”
+
+Lightsbane pulsed its confusion.
+
+“I’ll explain that some other time,” he said apologetically, dismissed the mental image of him in luxurious robes with a funny little mustache, and peered at the skeleton. “I almost want to try reanimating this thing, but I’m guessing that would probably be a horrible idea.”
+
+Lightsbane pulsed its indifference.
+
+“Sure, you don’t care, you’re made from this stuff. I’ve got no idea how to use it, and the last thing I wanna do is entropically erode my own body or something.”
+
+A pulse of paired concession and amusement came from the runeblade.
+
+“I’m sure the Liber Nox will tell me everything I need to know about Necromancy anyway,” he said bracingly and pushed himself up with his hands on his knees.
+
+Lightsbane pulsed again in enthusiastic affirmation, and Romulus patted the sword.
+
+“Okay, now I guess we need to find the second trial and—”
+
+A flash of something ahead of him caught his eye, and he looked up toward the left branch on the first landing of the grand stairwell ahead with a raised eyebrow.
+
+A gothic torch had ignited with cold blue fire. That wasn’t been a coincidence.
+
+He’d played enough games to know he was being guided.
+
+“First the bone patrol, now this. I suppose I’ll take guidance over a brutal death…” he muttered and—with a final glance around to see a distinct lack of loot drops—walked forward and ascended the stairwell.
+
+He climbed the first twenty steps at a measured pace, turning left at the landing toward the ignited torch and its Death Knight statue to take another twenty up. A crunch of something brittle underfoot echoed loudly in the area when he reached the top of the stairs, and Romulus grimaced at the now-familiar sound of breaking bone.
+
+“I hate that I’m already used to that noise,” he muttered.
+
+Lightsbane pulsed its countermanding approval in response.
+
+Romulus snorted quietly and continued on, walking along the new corridor the stairs connected to. When he did, more sconces and chandeliers illuminated to guide his passage with the same azure light.
+
+He made it halfway down the forbidding passage when the light died abruptly, and before [Indomitable] could do more than stir within him, a pair of torches lit up over an open doorway to his right. An only mildly unsettled exhale left him, and he turned while taking the hint in stride as best he could to traverse the new pathway. This time his trek ended three-quarters of the way down, and he took another right into yet another corridor.
+
+“Whoever built this place really liked to get their steps in,” he groused.
+
+Lightsbane pulsed faint confusion mixed with agreement, but Romulus didn’t clarify. When he glanced at his map at the end of the latest detour, having pulled it up before taking the next turn—an illuminated left—he realised he’d been guided to a place that was in line with and above the grand entrance hall of the Necropolis.
+
+The final left took him down another corridor that looked as if it were a continuation of the entrance hall, if not for the difference in elevation. This newest corridor was the largest one yet, and when he reached the end, he was greeted by a massive set of double doors with a beautiful rendition of Lilith adorned across them.
+
+Her hands seemed to be reaching out, down toward the center of the doors.
+
+When the doors didn’t open automatically, Romulus glanced around for some kind of lever, chain, or other mechanism before looking back at them. There was no other path or entryway in the entire corridor. He could turn around, but that seemed to be opposed to whatever had guided him to that point.
+
+He tried using [Examine] and received absolutely nothing for his efforts.
+
+“Okay,” he said while eyeing the door speculatively, “so I’m at a dead end.”
+
+His eyes wandered the doors again and he took in the details more carefully, from the immense size and width of each one of the pair, to the seamless meeting in the middle that allowed Lilith’s likeness to appear whole instead of split across two items.
+
+Romulus assessed the ornate depiction itself, noting the loving way that the Divinarch had been honored with a mix of indulgence and reverence that rendered her assets in gratuitous detail, but without being overtly obscene. It was not unlike an old greek sculpture, save that it was made entirely with silver—no, platinum.
+
+His eyes moved down toward where Lilith’s hands sat at the center of the doors.
+
+There, he realized for the first time, lay a very small recess—one he missed at first glance. His eyes moved back up toward the doors, and then down toward the recess again, and an idea slowly formed in his mind.
+
+“Man, I hope I’m right about this,” he said bracingly.
+
+Lightsbane vibrated encouragingly at his side and Romulus patted the sword.
+
+“Let’s get started.”
