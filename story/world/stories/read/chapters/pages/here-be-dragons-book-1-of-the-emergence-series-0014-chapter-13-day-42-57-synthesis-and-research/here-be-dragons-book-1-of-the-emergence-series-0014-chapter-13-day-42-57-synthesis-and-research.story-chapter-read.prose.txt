@@ -1,0 +1,425 @@
+[JOURNAL ENTRY EXCERPTS]
+
+Day 42,
+
+Vital signs:
+
+Respiratory rate: 14 bpmTemperature: 41.83° Celsius*Major heart rate: 55 bpmUpper minor heart rate: 14 bpmLower minor heart rate: 15 bpmHydrogen heart rate: 2 bpm
+
+…
+
+It’s been raining the past few days, which has made hunting more difficult. Fortunately the ship has enough imperishables to feed a crew of fifty for two months, so food isn’t an issue.
+
+The weather here appears to be quite temperate, as I’ve yet to see any storms, even if rain is not uncommon.
+
+[Expedition Day 42]
+
+“Fathom, come on, it’s time to eat,” Pryce said as he tried to nudge Fathom awake. The dragon grew weaker with each passing day, and these days even the process of waking up was an ordeal.
+
+“Is…medicine…ready?” Fathom slowly asked, blinking sluggishly.
+
+“Tomorrow,” Pryce promised. Truth be told, the mold colony was growing too slowly for his liking, and even tomorrow was too soon to be optimal, but he didn’t have a choice anymore. “I’ll have some ready tomorrow.”
+
+Fathom only rumbled wordlessly in response before arduously raising his head to consume his daily meal, which had been changed to a thick, easy-to-swallow stew ever since his throat grew too raw to eat solids without a substantial amount of pain.
+
+“I…sleep…now,” Fathom rasped, and set his head back down on his bed of furs.
+
+“Wait – let me take out your stitches,” Pryce tightly replied.
+
+“Oh…okay,” Fathom said, sighing lethargically, and tucked in his wings to let the human work.
+
+Pryce removed the stitches as swiftly and as gently as he could, and made sure to thoroughly examine Fathom’s injuries while he was at it. The wounds had long since scabbed over, and they were healing well despite Fathom’s severe fever, so it was an ideal time to remove the stitches before they became infected as well.
+
+As he worked, Pryce could not help but notice the sag in Fathom’s hide, indicating the significant amount of mass that he’d lost despite forcing himself to finish the meals that Pryce had prepared for him. Even his originally deep blue hide had paled greatly since his battle, and now it could only be described as an unhealthy, washed-out blue. Pryce knew that this was the result of the lack of blue pigmentation in his diet, but the loss of color contributed so much to his sickly state that it seemed far more like a symptom rather than circumstance.
+
+“There, done,” Pryce said as he finished applying the latest batch of bandages, which covered a generous layer of ointment to help fight the fever in Fathom’s body.
+
+This only elicited a faint groan in response from the sickly dragon, whose eyes slid back shut as he resumed his latest attempt to rest.
+
+[JOURNAL ENTRY EXCERPTS]
+
+Day 43,
+
+Vital signs:
+
+Respiratory rate: 15 bpmTemperature: 42.03° Celsius*Major heart rate: 58 bpmUpper minor heart rate: 15 bpmLower minor heart rate: 14 bpmHydrogen heart rate: 2 bpm
+
+[Expedition Day 44]
+
+On the Horizon, Pryce began synthesizing penicillin early in the morning despite the fact that none of the mold colonies were fully grown yet. Fathom needed the medicine now, and they simply didn’t have the time to wait any longer.
+
+This didn’t mean that he had to extract it all at once, however. Pryce just needed to make enough for today’s dose, which would give the rest of the batch another day to mature. He planned to do the same thing tomorrow as well, and by the day after tomorrow the entire batch would likely be ‘ripe’ for harvest.
+
+The process of extracting and purifying penicillin from the broth was not a very difficult one, and Pryce would have remembered it well even if he had not spent the last week practicing and reviewing the steps.
+
+First, the mold broth was acidified with phosphoric acid, then it was dripped down onto a solution of amyl acetate, which separated the penicillin substrate from the broth.
+
+The overflow from this process was a penicillin-rich solution of amyl acetate, which was then mixed with water along with ammonia and ammonium chloride to act as a buffer.
+
+This step forced the penicillin-rich solution to the bottom of the vessel, where it could then be drawn off with a tap once the liquid was given time to separate into layers.
+
+This solution of concentrated penicillin was then purified with filters and activated carbon before being reduced to a powder.
+
+This last step would have normally been done through freeze-drying, but Pryce had no access to such a device, and so he settled with a Sprengel pump, which simply used dripping mercury to pull air out of the connected vessel one bit at a time.
+
+It took only 20 minutes to fully evacuate the bottle of concentrate, which had naturally been purified into an unremarkable-looking brown powder.
+
+It was darker than Pryce had hoped, which indicated the presence of some impurities, but it was adequate when one considered his suboptimal setup. The equipment aboard the Horizon was indeed excellent in terms of quality, but it was meant to be a multi-purpose lab to conduct preliminary analyses, not an antibiotic production plant.
+
+Pryce decided to wash and filter the powder a few more times, and that lightened the color enough that he deemed it acceptable.
+
+A final weighing showed that he had synthesized 6.81 grams of penicillin-G – more than enough for a full day’s dose.
+
+“Ready?” Pryce asked, half an hour later.
+
+“Ready,” Fathom rasped.
+
+As with before, Pryce slid a needle underneath Fathom’s scales, but Penicillin-G was best delivered as an intramuscular injection, so Pryce had to make sure that he didn't hit a vein.
+
+Fortunately for the both of them, Pryce was successful on his first attempt – only a few drops of blood dribbled out of the perforated tissue, confirming that this spot was safe for an intramuscular injection.
+
+“Just one more…and…done,” Pryce said, breathing a sigh of relief as he extracted the needle.
+
+“This will…cure me?” Fathom tentatively asked.
+
+“I don’t know, but this is the best I can do. You need four doses each day until you are healed, so I give you three more later today, okay?”
+
+“Under…stand,” Fathom panted, his eyes hazy and unfocused as he laid his head back down to rest.
+
+[JOURNAL ENTRY EXCERPTS]
+
+Day 45, Night
+
+Vital signs:
+
+Respiratory rate: 15 bpmTemperature: 42.13° Celsius*Major heart rate: 56 bpmUpper minor heart rate: 15 bpmLower minor heart rate: 14 bpmHydrogen heart rate: 2 bpm
+
+…
+
+Fathom’s condition has slightly worsened, which was expected. Penicillin generally takes two or three days to take effect.
+
+I produced 7.36 grams of penicillin today. Tomorrow I’ll synthesize the rest of the broth.
+
+[JOURNAL ENTRY EXCERPTS]
+
+Day 46, Morning
+
+Vital signs:
+
+Respiratory rate: 13 bpmTemperature: 40.09° Celsius*Major heart rate: 50 bpmUpper minor heart rate: 12 bpmLower minor heart rate: 12 bpmHydrogen heart rate: 4 bpm
+
+[Expedition Day 46]
+
+Pryce managed to wring 21.92 grams of penicillin out of the rest of the mold broth, which meant that he had produced enough of the antibiotic in total to dose Fathom for seven days.
+
+That was rather unfortunate, as it likely wasn’t enough to completely eliminate the infection, so Pryce would need to make more using the time that he had bought with this first batch.
+
+Fathom’s vitals seemed to be recovering as well, even if he still felt sick as ever, and as Pryce climbed his way back up the mountain he felt tentatively confident that the worst was over.
+
+Stepping into the cave, Pryce was surprised to see Fathom chewing on…something.
+
+“What are you eating?”
+
+“I was hungry, and you were busy,” Fathom wheezed, sounding the slightest bit defensive. “This is dry cooked meat. And sweet thing that insects make.”
+
+Pryce rubbed his eyes as he examined Fathom’s snack; it seemed to be some sort of honeyed jerky, which the dragon must have kept stored somewhere. “Does this mean you feel better?”
+
+“No,” Fathom rasped through a mouthful of jerky. “I still feel very bad. But I am hungry now too.”
+
+“Oh,” Pryce murmured.
+
+Fathom’s appearance was still quite wilted, but a returning appetite was a great sign that his body was finally beginning to recover.
+
+“Do you have more food?” Fathom hopefully asked.
+
+“Yes, I have more food.” Pryce chuckled. “Just let me change your bandages first.”
+
+Fathom fidgeted as Pryce took off the old bandages and cleaned the wounds, which looked significantly better lately. “Your wounds are healing well, but you’ll still need bandages for a few more days.”
+
+“Oh, this is good!” Fathom said, brightening considerably as Pryce finished replacing the last of the bandages. “Can we eat now?”
+
+Pryce couldn’t help but smile. “Yes, we can eat now.”
+
+[JOURNAL ENTRY EXCERPTS]
+
+Day 46, Night
+
+Vital signs:
+
+Respiratory rate: 11 bpmTemperature: 39.57° Celsius*Major heart rate: 46 bpmUpper minor heart rate: 10 bpmLower minor heart rate: 10 bpmHydrogen heart rate: 4.5 bpm
+
+…
+
+Fathom’s vitals are beginning to recover, and his appetite appears to be returning as well – a great sign, even if he reports that he still feels quite horrible.
+
+[Expedition Day 50]
+
+“There, last one,” Pryce said as he gave Fathom his final dose of penicillin.
+
+“Human medicine is amazing,” Fathom sighed, his voice having greatly recovered in the past few days. “You saved my life. I thought I was going to die.”
+
+“Don’t thank me now – we’re not done yet,” Pryce warned. “You might get worse soon without more antibiotics, which is why I need to make more for you.”
+
+“Are you sure?” Fathom asked. “I do not feel very bad right now; I think I can get better without any more medicine.”
+
+“Yes, very sure,” Pryce sternly warned. “This is very dangerous. You need to keep taking medicine or else your sickness will come back stronger.”
+
+“Oh…Then I will trust you,” Fathom said, and nodded deferentially.
+
+Pryce was about to reply when Fathom abruptly froze, then pressed his muzzle right up to Pryce’s chest to sniff at him.
+
+“Your scent is different,” he gravely rumbled, before Pryce could voice his confusion.
+
+“What?” Pryce asked, blindsided by the bizarre statement. “Is that…bad?”
+
+“Yes,” Fathom chuffed, as if this were very obvious. “Scent change like this is never good. You are sick.” He lowered his head as he said this, and sounded quite concerned.
+
+“Oh,” Pryce said. He didn’t feel particularly sick – perhaps he was a little tired and achey, but it was nothing unusual. “Humans can’t smell things like this. Is there anything else you can tell me?”
+
+“Change in scent is a little like a sickness I know, but…this is hard to answer. Humans are very different,” Fathom said severely. “If this sickness is same, you will be sick for maybe three or five days.”
+
+“Okay…do you know what causes this sickness?”
+
+“I do not know,” Fathom said, shrugging his unbroken wing. “Sickness is called ‘bad air’ because some think bad air can cause this, but this is probably wrong.”
+
+“‘Bad air’,” Pryce murmured. That didn’t narrow things down by much. “What do dragons think is ‘bad air’?”
+
+“Bad air means little wind. Thick forests have bad air. Mountains have good air.”
+
+Pryce frowned. Forests were naturally full of bacteria, so that information didn’t help much.
+
+“I can make medicine to help this sickness,” Fathom added, his spines flattened against his neck. “But I do not know if it will help you.”
+
+“I see…” Pryce murmured. He was a little wary of any medicine that dragons might have, but he wasn’t willing to fully write off traditional cures just yet. “I can try a little today, that way we can make sure it isn’t poisonous to me.”
+
+“That makes sense,” Fathom agreed. “I have a question: Why do you not teach me words to describe scents?”
+
+“Human sense of smell is not good like dragons,” Pryce explained. “We have words to say ‘this smells like that’, but not many words to describe smells.”
+
+“Oh,” Fathom said, scratching around a bandage. “You do not have words to describe scents because you cannot smell good…that is interesting.”
+
+“It is,” Pryce nodded, agreeing heartily. He was no linguist, but the Draconic language would be fascinating to study…even if he had no idea how dragons might define these words in Murian.
+
+[JOURNAL ENTRY EXCERPTS]
+
+…
+
+Day 50,
+
+Fathom seems to have mostly recovered from his sickness, but now he claims that something is wrong with my scent, and that I am sick. I don’t feel anything unusual at present, but I’ll have to pay attention to my health…
+
+I can’t afford to fall ill right now, not while Fathom’s sickness is not yet cured, and not without anyone else around to help treat me.
+
+I sampled a bit of Fathom’s medicine to see if it has any adverse effects upon humans, and I’ve yet to feel any ill effects. The medicine in question came in the form of a boiled root, and it had a not-unpleasant flavor.
+
+There’s nothing for me to do while the mold colony grows, so I’m going to spend the rest of the day resting. Hopefully I’ll be better sooner rather than later.
+
+…
+
+Vital signs:
+
+Respiratory rate: 6 bpmTemperature: 38.23° Celsius*Major heart rate: 34 bpmUpper minor heart rate: 6 bpmLower minor heart rate: 6 bpmHydrogen heart rate: 5 bpm
+
+[JOURNAL ENTRY EXCERPTS]
+
+Day 52,
+
+I am definitely sick.
+
+Symptoms include moderate muscle & joint pain, along with fatigue and fever.
+
+I’ve taken more of Fathom’s medicine, but it has yet to have a discernable effect on my health.
+
+[Expedition Day 53]
+
+“Are you okay?” Fathom asked as coughs wracked Pryce’s body.
+
+“...No,” Pryce groaned. His illness had swiftly worsened over the last two days, manifesting as a host of symptoms that made him absolutely miserable. It took far more effort than it should have just to push himself up, but he was still ambulatory…at least for now.
+
+“You are more sick,” Fathom said gravely.
+
+“Yeah,” Pryce coughed drily. “Can you give me my backpack? I need to eat food and medicine.”
+
+Fathom did as he asked, with only a minor limp. He seemed quite concerned, as he hovered over Pryce while the latter forced down some canned stew.
+
+“You…will be okay?” Fathom asked.
+
+“I don’t know,” Pryce sighed. “I hope I will.”
+
+“Hope?” Fathom asked, blinking at the unfamiliar word.
+
+“Hope is emotion you feel when you want a thing to happen.”
+
+“...Understand,” Fathom murmured, his head lowering in thought. “I hope you will be okay too. Is there…thing I can do to help you?” he asked, sounding oddly uncertain.
+
+“Can you make me more of your medicine?” Pryce asked, and stifled a cough. “I can’t tell if it’s helping or not, but I don’t think it could hurt to keep taking it.”
+
+“I…know,” Fathom replied, his spines drooping despondently.
+
+“It will be hard to think when I am more sick,” Pryce said. “We should make plans if I die.”
+
+“No.”
+
+Pryce blinked in surprise. “...What?”
+
+“You are a crafter,” Fathom said, as if this meant anything. “You have amazing tools and medicine, you cannot die like this.”
+
+“Many things can kill humans,” Pryce coughed. “And I cannot fix sickness that I do not know. More humans will be here in the future, maybe two months from now. If I die, and if you heal, then you will need to tell the other humans what happened.”
+
+“I…understand,” Fathom quietly rumbled.
+
+“Good,” Pryce nodded. “Now, you should know-”
+
+“Wait,” Fathom said, abruptly raising his head. “I have idea. You can use microscope, see bacteria that is making you sick, yes?”
+
+Pryce shook his head. “That is not a good idea. Body has very many good bacteria. Is very, very hard to find bacteria that is causing sickness. Finding bacteria also does not mean you know how to kill it.”
+
+“This does not mean you can not try,” Fathom hissed in frustration. “Why do you want to do nothing and die?!”
+
+“I’m not doing nothing,” Pryce said, wincing as a fierce stab of pain pulsed through his head. “I’m resting, and then I can try taking some penicillin when the next batch is ready two days from now.”
+
+“You said you do not know if medicine will work!” Fathom pointed out indignantly.
+
+“There’s nothing I can do!” Pryce shot back. “And why are you mad? You can talk to other humans when they get here!”
+
+Fathom drew his head back as he fell silent. “...I do not want you to die,” he admitted, his spines falling forlornly. “You save my life. You are friend now.”
+
+Pryce abruptly paused, taken aback by the unexpected admission. “Oh…” he said, rubbing his neck. “...I can try to use microscope if you want, but I do not think I will find anything.”
+
+“Yes! Try!” Fathom encouraged, visibly brightening at this. “Use microscope now?”
+
+“Okay,” Pryce sighed, and pushed himself up onto his feet. His legs wobbled, but he was still able to walk. “I’ll get the microscope.”
+
+“I want to see,” Fathom said, after five minutes of nobly attempting not to interfere with Pryce’s work.
+
+Having expected as much, Pryce merely stepped out of the way to allow Fathom to look through the microscope. “The red things are ‘red blood cells’. They are things in the body that move food and air around.”
+
+“Understand…what are the bigger things?”
+
+“Those are white blood cells. They help the body kill bacteria.”
+
+“...White?” Fathom asked in confusion. “This is not white. Looks like no color.”
+
+“Their name is white blood cells, but they have no color.”
+
+“Strange,” Fathom murmured. “Why can sickness happen if white blood cells kill bacteria?”
+
+“White blood cells are always fighting inside of your body, but sometimes they lose,” Pryce said, simplifying things. “White blood cells need to learn how to fight a new type of bacteria before it can kill it; that is why the first time you get sick is always the worst, because the second time your body remembers how to kill it.”
+
+“Interesting…” Fathom murmured, stepping aside to allow Pryce access to the microscope. “Body does many things that I cannot see.”
+
+“Yes, it does,” Pryce said, focusing on a new section of the slide, this one from a mouth swab. “Different parts of the body have different types of bacteria. I’ll need to look in many places to see.”
+
+[JOURNAL ENTRY EXCERPTS]
+
+Day 53,
+
+…
+
+I began searching for the cause of my sickness today, mostly upon Fathom’s insistence. I don’t have the resources to expect this endeavor to be successful, but I’ll try my best.
+
+The illness Fathom suspects me to have is common and mild to dragons, especially with treatment, but my body doesn’t seem to be handling it very well, and his medicine doesn’t seem to be doing anything for me either.
+
+[JOURNAL ENTRY EXCERPTS]
+
+Day 54,
+
+My sickness has continued to worsen. Symptoms include fever, migraine, nausea, abdominal pain, and fatigue.
+
+…
+
+Vital signs:
+
+Respiratory rate: 10 bpmTemperature: 39.23° Celsius*Major heart rate: 39 bpmUpper minor heart rate: 8 bpmLower minor heart rate: 9 bpmHydrogen heart rate: 4.5 bpm
+
+[Expedition Day 55]
+
+“Move!” Pryce hissed as he ineffectually tried to shove Fathom aside.
+
+“You can almost not stand,” the dragon retorted, not budging in the slightest. “How can you make more penicillin?”
+
+Pryce grunted as he redoubled his efforts – to no avail. His feeble attempts wouldn’t have budged the stubborn dragon one bit even if he were healthy.
+
+“I might only get worse,” Pryce insisted, stumbling back to rest his hands on his knees. “I need to make as much penicillin as I can now, while I still can.”
+
+“That is more reason to try find the thing making you sick,” Fathom flatly replied. “You need more help. I feel better. You do not.”
+
+“You aren’t better,” Pryce shot back between breaths. “Your fever is coming back, and I need to make enough penicillin to cure your infection.”
+
+Fathom rumbled in annoyance at this point, which was nothing that Pryce hadn’t already said before. “Fine. You promise to use microscope after you make penicillin.”
+
+“Alright, I promise,” Pryce sighed, though he already felt exhausted from his mild exertion. Regardless, he intended to keep his word, and Fathom moved to the side to finally allow him to work.
+
+Most of the mold colonies weren’t quite mature yet, but Pryce synthesized them all anyway, knowing that tomorrow he might not be well enough to finish this task. His headache caused his vision to swim, and his clammy hands already shook so much that he could barely pour the chemicals from flask to apparatus without spilling the precious resources.
+
+His sickness forced him to stop every few minutes to catch his breath, and to wait for his headache to gradually diminish from debilitating pain to a moderately painful throb.
+
+As such, the process took far longer than it would have normally required, and by the time it was done he wanted nothing more than to lie down and rest.
+
+Unfortunately, there was still more work to be done.
+
+Pryce panted as he wiped the sweat from his brow. He’d given himself an injection of penicillin in case his sickness was bacterial in nature, though he suspected that wasn’t the case. Fathom had been given a dose as well, of course, and they hopefully had enough of the antibiotic to finish his treatment this time.
+
+“You use microscope for long time. Maybe you rest now?” Fathom tentatively suggested, in an apparent reversal to his earlier stance.
+
+Pryce must have looked as bad as he felt, but he pushed on regardless. “Just a little longer. I-”
+
+“...You what?” Fathom asked, raising his head to peer at the human, who kept his eyes trained on the microscope’s eyepieces.
+
+“I think I found something,” Pryce murmured as he observed the odd squiggling shape that wormed its way between his blood cells. He panned around to see a few more of these oddities, and his blood ran cold as he recognized the pathogen infecting his body.
+
+“What is it?” Fathom asked impatiently.
+
+“I don’t know what this is…but I think it’s a parasite,” Pryce murmured. The creatures in question somewhat resembled plasmodia, a genus of unicellular eukaryotes. “Parasites are living things that live inside another creature,” he elaborated, seeing Fathom’s confusion.
+
+Fathom flattened his spines in confusion. “This is like bacteria, no? Why you call this ‘parasite’?”
+
+“Parasite is different. It can only survive inside of another creature,” Pryce explained distractedly. Now he almost certainly knew what was making him sick, but how had he been infected? All of his food was cooked, so it couldn’t have been that, and he hadn’t been wounded… “Ah, I think parasites come from insects! Insects bite me, give me parasites. This is why dragons who live in mountains do not get this sickness as much!”
+
+“Strange…” Fathom murmured. “Can you kill it?”
+
+“I have medicine that can kill things like this, but I don’t know if it will work.”
+
+“But you will try, yes?”
+
+“Yes, of course. Antibiotics do not work on parasites, so this is why penicillin is not working. I need to get new medicine.” Pryce groaned as he stood himself up, then stumbled as he fell to his knees.
+
+“I help,” Fathom said, allowing Pryce to lean against him.
+
+The human was in no condition to refuse, and Fathom walked him to the door of the ship, where he could no longer follow.
+
+“I be back soon,” Pryce panted, nodding gratefully before stepping into the ship’s corridors. He slowly made his way through the vessel, using the walls to support himself.
+
+“How long this medicine take to heal?” Fathom asked when Pryce eventually stepped back onto the deck, bottle of quinine in hand.
+
+“Parasites are hard to kill. Maybe half a month or more, if this parasite is very different,” Pryce murmured as he ingested a dose of the medicine. “I go sleep now, okay?”
+
+“Yes, sleep,” Fathom encouraged. Pryce had brought out a small pile of imperishable goods a few days ago, so Fathom would have enough to eat for at least another week.
+
+“Good, you rest too,” Pryce murmured, feeling quite faint. He all but collapsed onto his sleeping bag, but instead of falling asleep he tossed and turned feverishly throughout the night, never quite fully resting.
+
+[JOURNAL ENTRY EXCERPTS]
+
+Day 55,
+
+It is difficult to know if the quinine is working. It is common for this medicine to take at least two weeks to kill the plasmodia, or even an entire month. In the meantime I’m faced with the possibility that the medication is doing nothing at all.
+
+[Expedition Day 57]
+
+“Wake up, Pryce,” Hironh rumbled as he nudged the feverish crafter, who only groaned incoherently. “You need to eat.” He helped Pryce into a sitting position that seemed natural for humans. The crafter’s small body was alarmingly soft and fragile in his talons, but at least he was strong enough to keep himself upright.
+
+“Here,” Hironh said, and slowly fed the sickly human a can of stew.
+
+It still pained him to see pure and finely crafted metal used as disposable food containers, but he did have to admit that he saw the appeal of indefinitely storing food for later consumption. He had seen Pryce open these cans before, and it was easy to do it himself – the hard part was feeding the human, especially whenever his fever grew to particularly severe heights. Sometimes Hironh would have to help hold the can for him, as his hands would tremble so much that a spill was inevitable.
+
+“T-thanks,” Pryce managed, once he had finally finished the can of stew and took his medication. “Can you h-help me up?”
+
+Hironh offered his right wing thumb to steady Pryce, guiding the human to the ‘head’ of the ship. It was another routine that they had established over the last few days, and when Pryce was done he laid back down on his sleeping bags to try and rest…usually without much success.
+
+With nothing else to do, Hironh decided that it was time to have his own meal. The canned food was unreasonably delicious as usual, but it was hard to enjoy it in his current situation. He did some light exercise afterwards, taking care not to damage his healing body. It was probably safe to start moving his wing now, but he didn’t dare strain it yet.
+
+Hironh curled up to rest soon afterwards, knowing that he would have to attend to Pryce in another few hours. Normally he would have no issue falling back asleep, but Pryce’s feverish groans kept him awake. The severity of the crafter’s illness seemed to come in waves, and it was difficult to tell if he would survive. Hironh absently scratched at his wing as these troubled thoughts clouded his mind. The mending bone was itching and aching less these past few days, which only served as another reminder of his debt to Pryce.
+
+The sheer helplessness Hironh felt in this situation was deeply unpleasant, as well as painfully familiar; the terrible feeling of being able to do nothing while someone he respected wasted away was something he could have gone the rest of his life without experiencing again. At least this time Anvonh wasn’t here to witness his ignoble situation, but that wasn’t much of a consolation.
+
+In the end, there was nothing he could do but hope that Pryce would pull through.

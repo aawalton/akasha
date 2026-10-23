@@ -1,0 +1,541 @@
+[Expedition Day 62]
+
+“You look…a little better?” Fathom rumbled, though the uncertainty in his voice made it sound more like a question.
+
+“I feel less bad…than yesterday,” Pryce panted. His fever made it hard to think, yet alone speak. “How are you feeling?”
+
+“Good,” Fathom said, craning to look back on his largely-healed wounds.“My wing will take a little longer to heal, but I am mostly recovered.”
+
+“Good,” Pryce weakly nodded. “Please sit down. Let me see your wounds.”
+
+“You should rest,” Fathom chided. “There is nothing you can do to help me right now.”
+
+“...Fine,” Pryce coughed, and sat himself back down. He didn’t really need to perform an inspection anyway – it was clear that Fathom’s wounds were almost healed. “But before I do…there’s something I wanted to talk to you about. I’ve been thinking about your fight with Pathogen-”
+
+“Pathogen?” Fathom blinked in confusion. “You mean Ighen?”
+
+“Er, yes, that’s what I’ve been calling him in my notes,” Pryce explained. “Anyway, I thought you said that a fight to the death needs to be watched by other dragons?”
+
+“That is correct.”
+
+“But your injuries were bad, and you almost died.”
+
+“That fight was…different,” Fathom said, flattening his spines. “I don’t know why. He was more aggressive that day; he is normally quick to run away.”
+
+“I see…” Pryce muttered. “Well, while we’re on the subject…remember when I said that another ship would come looking for me? I need your help to talk to other dragons before that happens, but we can’t risk you getting hurt again in another fight with Ighen.”
+
+“He will not fight me again so soon. I think.” Fathom tilted his head as he mulled over the possibility. “I can promise you that I will not try to fight him if you need my help.”
+
+“Good, thank you,” Pryce said, relieved.
+
+“But if he attacks me then I will fight. It might be better to kill him, if he tries to be a problem for us,” Fathom immediately added, swiftly deflating Pryce’s hopes.
+
+“Well…of course you should fight back, but I don’t think you should kill him.”
+
+“What? Why?!” Fathom hissed, his spines flattening with rancor. “He hurt me, and you almost died because of him!”
+
+Pryce sighed, his lips pressing into a thin line as he tried to express himself without insulting Fathom. “His motivation doesn’t make sense to me. The way he keeps challenging you makes him sound desperate, but he’s also too scared to fight you to the death.”
+
+“I do not care what his motivations are,” Fathom said, snorting disdainfully. “I am not going to avoid killing him.”
+
+“But I thought you couldn’t kill him because he doesn’t accept duels?” Pryce asked, resorting to his last option.
+
+“Of course rules are important, but he cannot be trusted, and I will not allow him to hurt you,” Fathom earnestly replied. “And, we need to make sure there is peace between dragons and humans, right? If Ighen gets in the way of that, then he needs to be killed before he is able to be a danger to us and others.”
+
+“You…have a good point,” Pryce admitted, faintly surprised by Fathom’s protectiveness. “But won’t others punish you for breaking the rules?”
+
+“Gah, no one will care if it’s Ighen,” Fathom snorted, shifting his unbroken wing dismissively.
+
+“What? Why not?”
+
+“He killed Anvyr-ǂ outside of a fight, so no one will care if I kill him in the same way,” Fathom explained, though Pryce noticed that the dragon didn’t quite meet his eyes.
+
+“Well…alright. We can talk about it later,” Pryce sighed, deciding to drop the subject for now. “Let’s get something to eat.”
+
+[JOURNAL ENTRY EXCERPTS]
+
+Day 62,
+
+This damned sickness worsens in waves, but I think I’m finally starting to get better. I still feel weak and feverish, but at least I can do most things by myself now.
+
+I’ve started growing another batch of penicillin. I’ll keep growing as much as I can in case we need any more in the future.
+
+I notice that Fathom seems to be able to sleep as much as he wants, which is a rather interesting ability. He’s capable of napping throughout the day even if he spent the entire night before sound asleep, and he says that it’s normal for dragons.
+
+It’s too bad humans don’t have such a trait. It would’ve made my recovery significantly less painful if I could’ve slept through most of it.
+
+[Expedition Day 65]
+
+“Okay, just don’t exercise too hard,” Pryce warned as Fathom stood to stretch. The dragon had recovered greatly in the last few weeks, and his hide had gradually regained its rich blue color as he resumed his diet of blue lizards. He still hadn’t tried to fly yet, but he could probably attempt some light gliding in a few days.
+
+“I know, I know,” Fathom reassured. “I will be careful, but my wing is still healing, and you are also healing, this is good!”
+
+“Yes, I am feeling better today,” Pryce replied, though this was undermined by another bout of coughing. “But I don’t know how long I will still be sick for.”
+
+“Understand,” Fathom nodded. “I hope you will be healthy soon.”
+
+“Thanks,” Pryce coughed. “How many days until you think your wing is healed?”
+
+“I am not sure,” Fathom said, scratching around a scarred spot on his shoulder. “I need to exercise more first, but I think I will try gliding in eight days.”
+
+“Good. I want to see your wing bone later to make sure that it’s healing well.” Pryce would have liked to use the fluoroscope now, but it would be difficult to move the cumbersome machine while he was still sick.
+
+“Okay,” Fathom nodded. “I go do things now, will be back later.”
+
+“Okay, but come back before sunset – I need your help for something. It’s easier to explain later,” he said, preemptively waving off Fathom’s question.
+
+“Yes, yes,” Fathom chuffed. “I will be back in one or two hours.”
+
+“...What is this?” Fathom asked as he sniffed at the great spool of wire.
+
+“It’s an antenna,” Pryce said. “This thing can let me hear things from the Mainland.”
+
+Fathom blinked. Then blinked again. “What?”
+
+“You remember when I told you about the ‘colors’ of light that you can’t see? Some of these colors can go around the world, and the humans on the Mainland can use that to ‘talk’ to us. These colors of light are called ‘longwave’ radio waves.”
+
+“Okay…” Fathom skeptically rumbled, clearly unsatisfied with this explanation. “But how can this ‘antenna’ hear light?” he asked, gesturing emphatically at the coil of antenna cabling.
+
+“That is…more complicated,” Pryce admitted. “The simple answer is that light can make electricity, and electricity can make sound, which we can hear.”
+
+“Light make electricity?” Fathom asked, drawing his head back in confusion. “This makes no sense.”
+
+“I will explain later,” Pryce promised. “I need you to put this wire up on trees. Put it as far away from the ground as you can, and point it to the east.”
+
+“What? Why…” Fathom began, then shook his head. “Okay, I do this. Then you explain.”
+
+The antenna was really just a two-hundred meter long wire, so it took Fathom some time to set it up – under Pryce’s direction, of course. It really should have gone up weeks ago, but between Fathom’s wounds and his own illness Pryce just hadn’t had the chance. It was entirely possible that the Mainland had begun broadcasting some time ago, but any important messages would surely be looped every hour or so. Pryce’s only real concern was that he’d missed a message saying that the rescue ship would arrive sooner than expected.
+
+“You can hear sound from Mainland now?” Fathom asked.
+
+“I don’t hear anything yet. Mainland will send messages at the start of every hour, so if they are sending messages then I will hear them in five minutes.”
+
+“Okay, you explain how this antenna can turn light to electricity now.”
+
+“Okay okay,” Pryce chuckled. “I’m explaining it simply again, but electricity is in everything.”
+
+“Everything?” Fathom echoed skeptically.
+
+“Yes, everything. It’s not easy to make it come out, but a ‘spark’ is what you see when electricity flows from one place to another, like water. For you to understand how the antenna works, you need to know that light can push electricity.”
+
+“Light can push electricity?” Fathom asked, cocking his head. “But is electricity not a type of light?”
+
+“Electricity can make light, but electricity is not light,” Pryce corrected. “Like how fire can make light, but fire is not light.”
+
+“Hmm…I think I understand,” Fathom said, his eyes narrowed in thought. “Longwave radio waves are light, and light can push electricity, but how do you use electricity to make sound?”
+
+“Yes, and good question – remember how quartz can make sparks? This happens because quartz can turn movement into electricity, but it can also turn electricity into movement – these movements are very small, and they’re called vibrations.”
+
+“...I did not know this,” Fathom said, his eyes narrowing. “How does ‘vibrations’ make sound?”
+
+“Sound is just vibrating air,” Pryce explained. “The quartz in this radio turns electricity from the antenna into vibrations, and those vibrations are sounds that I can understand.”
+
+“What? But sound is not vibrating air…is it?” Fathom asked, looking quite confused.
+
+“All sound is vibration. You can’t talk without your throat vibrating, can you?”
+
+“...You are right,” Fathom rumbled, a foreclaw pressed against his throat. “I-”
+
+He was interrupted by a sudden noise from the radio, causing Pryce to scramble for the pen and paper as dits and dahs began to ring from the radio.
+
+-- . ... ... .- --. . / ... - .- .-. - .-.-.-
+
+.-. . - ..- .-. -. / .- ... .- .--. .-.-.- / .. ..-. / .-. . --.- ..- .. .-. . -.. --..-- / .- .-- .- .. - / .-. . ... -.-. ..- . / .- - / . .- ... - / -.-. --- .- ... - --..-- / ..--- ..--- .-.-.- ..... / -.. . --. .-. . . ... / -. .-.-.- / .-. . ... -.-. ..- . / ... .... .. .--. / .-- .. .-.. .-.. / .-.. .- ..- -. -.-. .... / --- -. / -- .. ... ... .. --- -. / -.. .- -.-- / ---.. --... .-.-.- / . - .- ---... / -- .. ... ... .. --- -. / -.. .- -.-- / .---- ----- ----- .-.-.-
+
+-- . ... ... .- --. . / . -. -.. .-.-.-
+
+“You can understand this?” Fathom asked as he peered curiously at the odd noises. “These are only two types of noises.”
+
+“Yes, please be quiet.” The message was short, and it looped after a brief pause. Decoding the signal only took a few short minutes, and it resulted in the following message:
+
+MESSAGE START.
+
+RETURN ASAP. IF REQUIRED, AWAIT RESCUE AT EAST COAST, 22.5 DEGREES N. RESCUE SHIP WILL LAUNCH ON MISSION DAY 87. ETA: MISSION DAY 100.
+
+MESSAGE END.
+
+“What message say?” Fathom asked impatiently.
+
+“Another ship named the Daybreak is coming in thirty-five – I mean, three-ten-five days, and they will be coming…here,” Pryce said, marking the rescue ship’s destination with a blue ‘x’ upon his map.
+
+“That is maybe two days of flying from here,” Fathom said. “One day if I do not stop.”
+
+“That sounds right,” Pryce murmured as he checked the numbers in his head. “We will be going there on the ship, but it’s good to know that you can fly me there.”
+
+“We have three-ten more days to do things before other humans arrive,” Fathom rumbled. “...And three-ten two more days before the Solstice.”
+
+“The Solstice?” Pryce asked, confused by non-sequitur. “What does that have to do with our plans?”
+
+“...Oh, I forgot to tell you about that,” Fathom said, blinking in surprise. “There are five places where we gather during the Solstice to decide who can have an egg. One location is close to where the Daybreak will be, so we can use this to speak with thousands of dragons at the same time.”
+
+“Are you sure?” Pryce asked warily. “That doesn't sound like an easy thing to do.”
+
+“We will find famous dragons to help us, of course. That will make things much easier than if I had to do all of the talking.”
+
+“Allies. People who will help you are allies.” Pryce furrowed his brow as he considered this idea. It was much faster, and maybe even safer too.
+
+“Yes, we find allies, then they help us find the Daybreak, then we talk to dragons at the Solstice two days later.”
+
+“Good plan, but it shouldn’t be hard for us to find the Daybreak,” Pryce said, holding up a smaller radio. “The Daybreak will be making a type of light that this small radio can hear. I can give you and other dragons radios, and you can use that to find the Daybreak.”
+
+“What? But you said radio light goes around the world,” Fathom said, flattening his spines in confusion. “How can I use the radio to find the Daybreak?”
+
+“The ship will be making a different type of light that can only go in straight lines, like normal light,” Pryce said, sacrificing some accuracy for the sake of communication. “This means that it will be hard for the radio to hear the Daybreak unless it’s pointing straight at the ship.”
+
+“Okay…but why not use the type of light that can go around the world? Then the ship could talk to the humans on the Mainland, right?”
+
+“Longwave radio transmitters are hundreds of meters tall. The ship can’t carry them,” Pryce said. He briefly considered going into a bit more detail, but it was still a bit early for him to be teaching Fathom about the nature of light and wave-particle duality.
+
+“Understand…” Fathom slowly rumbled. “So I can use the radio to find the Daybreak, but how far can the radio hear?”
+
+“Good question. The higher you fly the farther the radio can hear – how high up do you think you can fly?”
+
+“Maybe…five kilometers?”
+
+“If you’re five kilometers up…” Pryce took a minute to solve that geometry problem. “Then you should be able to hear the Daybreak from two-hundred and nine-ten one kilometers away.”
+
+“This makes sense,” Fathom nodded. “Radio can hear light from far away like how I can see far up in the sky.”
+
+“Right, it’s the same thing,” Pryce nodded. “Hmm…you know, we could leave now on the ship, or we could wait until you’re healed, then you could fly me to see the other dragons.”
+
+“...I did not think about leaving now,” Fathom admitted, glancing uncertainly at the ship beneath his talons.
+
+“Well, the ship doesn’t have much fuel left, so it would be best if we used it as little as possible. You must want to tell Anvonh about me, right? How far away does she live?”
+
+“Anvonh is maybe ten hours of flying away, around…here,” Fathom said, tapping a point on the map between their current location and the ship’s rendezvous point.
+
+“Here?” Pryce asked, marking their destination.
+
+“Yes,” Fathom said, bobbing his head approvingly. “I should be able to fly in ten days, so in ten-five days I will take you to see Anvonh. Is this okay?”
+
+“Sounds good to me,” Pryce nodded, glad for the extra days of rest. He felt good enough to walk and talk, but he wasn’t keen on traveling several hundred kilometers while his fever stubbornly refused to subside. “We leave on day eight-ten.”
+
+[JOURNAL ENTRY EXCERPTS]
+
+Day 65,
+
+I’m not sure how humanity will respond to the existence of dragons, but that’s a problem for the future. Any path to peace will rely on our ability to communicate with one another, which means that the most important thing I can do right now is to teach ten thousand dragons about humans.
+
+We’ll have to be careful about how we break the news to the rest of dragonkind…we can’t just tell others to spread the word, else we’d be swarmed by dragons from all corners of the land.
+
+Fathom and I are planning to leave on day 80 to meet his daughter Anvonh and others. By doing so we’ll gather key allies (respected and influential dragons) and intercept the Daybreak prior to its arrival, which is planned for day 100. If everything goes to plan then we’ll have a day or two to prepare for the Solstice, which is on day 102.
+
+Over a thousand dragons should be gathered for the nearest Solstice celebration, and we’ll take advantage of the opportunity to talk to as many dragons as possible.
+
+It should go well, if Fathom’s character is anything to go by. Human ‘crafters’ seem to be highly respected, so at least we have that going for us.
+
+Note:
+
+I’ve begun teaching Fathom words from the dictionary in our considerable free time now that I’ve mostly recovered. You never realize how strange your own language is until you have to teach it to a dragon.
+
+Fathom has also been teaching me a bit of Draconic. My progress has been slow, as the grammatical structure is very different from Murian, and Fathom continues to be aggrieved by my pronunciation. Regardless, I am making steady progress, I think.
+
+[Expedition Day 73]
+
+“What is this?” Fathom asked as he sniffed at the fluoroscope.
+
+“This is a fluoroscope,” Pryce said as he set up the device. “It’s a machine that can see bones inside of living things without hurting them.”
+
+Pryce could practically see the gears turning in Fathom’s head as the dragon tried to comprehend what he had just said.
+
+“X-rays are a type of light that can go through meat, but not through bones. A fluoroscope is like a camera that uses x-rays instead of visible light, and that lets me see bones. I told you that I wanted to see if your wing bone is healing well,” Pryce said, reminding Fathom of their conversation a few days ago.
+
+“I thought you wanted to look at my wing! With your eyes!” Fathom hissed in exasperation. “What else can humans make light do?”
+
+“...I’m not sure. I’ll have to think about it,” Pryce admitted. “Please put your wing here, then I can see how your bone is healing.”
+
+The fluoroscope was built to be able to scan a patient’s torso if need be, which meant that Fathom’s wing fingers could fit with relative ease. Keeping the other fingers out of the way was a little difficult, but soon enough Pryce had a clear view of the previously fractured bone, and what he saw truly amazed him.
+
+A slight bulge surrounded the site of the break, and of course the rods, plates, and screws were obvious to see, but these were the only evidence that a prior fracture had occurred at all. Pryce had expected to see some kind of hematoma, but the bone itself seemed as solid as could be, with no apparent structural weaknesses to be seen at all. If he didn’t know any better then he would have guessed that the injury was months old at the least, if not more.
+
+“How is my bone? Is it okay?” Fathom asked anxiously.
+
+“Yes, it’s good – very good,” Pryce amended as he snapped a picture of the bones. “I was just surprised by how fast you heal. You can look at it if you want.”
+
+Fathom’s head all but nudged him out of the way so that he could peer into the fluoroscope. He shifted his wing back and forth as he pored over the sight of his bones moving in real time, and-
+
+“What is that?” Fathom asked, breaking away from the fluoroscope to stare at Pryce. “The straight things! Are those tools in my wing?!”
+
+“...Yes?” Pryce tentatively replied. “I told you I was going to use tools to make your bones stay together.”
+
+“Y-yes, you did, but-” Fathom cut himself off as he stared back into the fluoroscope. “I did not know it would be like this…are these tools made of metal?”
+
+“Yes, of course. Only metal is strong enough to do this.”
+
+Fathom, who was previously quite alarmed, seemed abruptly placated by this piece of information. “Is it normal for humans to put metal inside of your bodies?” he tentatively asked.
+
+“Yes?” Pryce replied, confused by this sudden change in behavior. “The type of metal I used is safe to stay inside of the body,” he added, hoping that would mollify the dragon.
+
+“Metal in my body,” Fathom said, sounding oddly conflicted by this interpretation. He took a moment to examine his wings with his own two eyes; it was impossible to see the rods and nails beneath the thick layer of tissue, but it probably wasn’t difficult to feel them out by touch. “When are you going to take them out?”
+
+“Well…normally they don’t come out,” Pryce reluctantly admitted. “The metal will not hurt you, so there is no reason to take them out.”
+
+“Hmm,” Fathom rumbled as he mulled this over. “Okay, I understand. If the metal becomes a problem then you can take it out, yes?”
+
+“I would have to cut your wing open to take it out, but yes, I could remove it if I needed to.”
+
+“That is…good,” Fathom nodded, and returned to staring at his wing. “Do my bones look like they are healed?”
+
+“I think so. You can start gliding now, but be careful, okay?”
+
+“I will,” Fathom nodded, and left in a hurry to practice gliding down the mountain.
+
+[Expedition Day 74]
+
+“Can you shoot that stag?” Fathom asked as he pointed off into the distance with his wing-thumb.
+
+“...Where?”
+
+“There!” Fathom quietly hissed in annoyance. Pryce tried to follow the direction of the jabbing thumb, but he still couldn’t see anything. “It’s coming towards us.”
+
+“Then we’ll have to wait,” Pryce huffed. “I can’t shoot something that I can’t see.”
+
+Fathom grumbled something about ‘bad human eyes’, but eventually a stag did wander into view. Pryce waited for the creature to approach, and when it was about seventy meters away he pulled the trigger.
+
+Fathom startled at the crack of gunshot, and the stag bolted a short distance before crumpling to the ground.
+
+The dragon was silent as he watched the wounded creature, then he wordlessly stood up to walk towards the stag.
+
+The animals’ eyes were already glossed over by the time they stood over it. It lay sprawled on the ground with the entry wound facing upwards, and Fathom turned it over to see the exit wound that ruptured out of its side, having gone straight through the heart.
+
+Pryce assumed Fathom was going to drag the carcass home for him, but the dragon only stood silently over the deceased stag, his eyes staring intently at the bullet wound.
+
+“Are weapons like this rifle…common?” Fathom asked a minute later, breaking his silence.
+
+“No,” Pryce answered warily. “Most people don’t have guns, and the ones that do have much weaker ones. They’re still enough to hurt someone, but I’m not sure if they would kill a stag like this.”
+
+The creature in question had considerable bulk to it, and would likely have been difficult if not impossible to kill with small arms fire.
+
+“Why is it not common?” Fathom asked, his spines flattened pensively. “Is it hard to make?”
+
+“No, it’s not very hard to make, but not many people are allowed to have a gun,” Pryce explained. “Humans sometimes use guns to fight other humans, but the last big fight ended four-ten-one years ago, so very few people need guns anymore.”
+
+“Four-ten years? How can there be no big fights for so many years?” Fathom asked, drawing his head back in surprise.
+
+“Sorry, when I say ‘big fights’ I mean fights between two or more groups of thousands of humans. The word for these fights is ‘war’. There are still small fights between people, of course, but those are small compared to wars.”
+
+“Okay…” Fathom warily replied. “But why do so many humans fight at once? And in big groups? I don’t think it is possible to want to fight thousands of other people.”
+
+“What? Why not?” Pryce asked, confused.
+
+“You need a reason to fight someone, don’t you? And it’s not possible to know many thousands of other people, so you cannot have a reason to fight them.”
+
+“Huh…” Pryce said, and scratched his head. It seemed that dragon mentality was less…group-oriented, for the lack of a better word. “Humans rely on other humans, so groups are important to us. This means that when one group of humans feels threatened by another, the two groups will fight, so there is no need to understand each individual person you are fighting.”
+
+Fathom narrowed his eyes at this, and glanced away with a deeply troubled air. “Then it is possible that humans would fight us without understanding us.”
+
+Pryce opened his mouth, then closed it as he reconsidered his words. “...It is possible, yes,” he finally admitted. “But remember the last war was a long time ago. The other humans will listen to me, and I promise I will do everything that I can to make sure that they won’t try to start a war with dragons.”
+
+Fathom lowered his head as he spent several long moments mulling over Pryce’s words. “You…would fight other humans to help us?”
+
+“I would. Wars are stupid, and there is no reason for humans and dragons to fight,” Pryce replied, the answer coming easily to him.
+
+Fathom blinked, and seemed uncertain on how to reply to this. “...Thank you,” he eventually rumbled, though Pryce noticed his eyes lingering on the rifle.
+
+“You’re welcome. Do you have any other questions that you want to ask?”
+
+Fathom scratched his neck. “...Can I try using the rifle?”
+
+“Sure,” Pryce shrugged, and he spent a few minutes going over the rules of firearm use. “Always, always assume the rifle can shoot.”
+
+“But what if I know the rifle has no bullets?” Fathom asked, cocking his head in confusion.
+
+“Even if you know the rifle has no bullets,” Pryce nodded. “Sometimes you might make a mistake, and a rifle is dangerous, so you should always be very very careful. Understand?”
+
+“Understand. I will be careful,” Fathom nodded, and carefully accepted the rifle. The firearm looked rather stick-like in his talons, and his ‘fingers’ were a bit too thick to fit inside of the trigger guard, but his narrower talons were met with no such difficulty.
+
+Aiming the firearm was also an awkward affair, as Fathom had to draw his head back just so that he could look down the rifle’s iron sights. His arms didn’t have the same range of motion as a human’s either, but he was eventually able to find a stance that worked for him.
+
+“Try and hit that tree first,” Pryce said, pointing at a tree ten meters away.
+
+“Okay,” Fathom rumbled, and aimed for another few seconds before firing.
+
+A rock exploded somewhere to the left of the tree, and Fathom was so startled by the kick of the rifle that he almost dropped it.
+
+“I told you it would kick.”
+
+“I was surprised,” Fathom grumbled, his spines flattening in embarrassment as he took aim again.
+
+…and missed, but this time he properly braced himself, and the recoil barely caused him to budge.
+
+Fathom emptied the magazine trying to hit the tree, and then had Pryce reload it so that he could try again. It took another few bullets, but eventually he managed to graze the tree.
+
+“Yes!” Fathom cheered, his spines standing up in excitement. “This rifle is harder to use than I expected. Do humans have competitions using rifles?”
+
+“Yes, of course,” Pryce nodded. “The best humans can hit something a kilometer away, but they use a small telescope on top of the rifle instead of these metal sights, and they’re much better than everyone else. It would be considered good if you could reliably hit something one hundred meters away.”
+
+“I see…rifles are dangerous,” Fathom rumbled. “Do humans have more dangerous weapons? Like very big rifles?”
+
+“...Yes,” Pryce reluctantly admitted. “Those are called cannons. They’re big and heavy, but they’re powerful enough to shoot holes through thick metal.”
+
+“...Human weapons are scary,” Fathom sighed. “Many dragons have wondered what crafters can do, but I don’t think any of them imagined things like this.”
+
+Pryce pursed his lips, unsure of how to respond.
+
+“Oh well,” Fathom sighed, and handed the rifle back to him. “It is stupid to blame others for being strong. We should cook the meat now, while it is fresh. Can I use your spices?”
+
+“Er, of course,” Pryce nodded, and jogged to keep up as Fathom dragged the stag home.
+
+[Expedition Day 76]
+
+Pryce watched as Fathom paced back and forth along the deck of the ship.
+
+“Is…something wrong?” he asked.
+
+“No.” Fathom paused, and sighed. “Yes. I am…worried. The last time I broke my wing my flying got much worse. I had to learn how to fly differently, and I got better, but never good like before.”
+
+“The bone is straighter than before, isn’t it? Doesn’t that mean you should be able to fly better than before?”
+
+“It should be,” Fathom agreed. “But I do not know.”
+
+“But you’ve been gliding down the mountain. Isn’t that enough to know if it’s good?”
+
+Fathom shook his head. “Gliding is easy. It is not the same as flying, especially not the type of flying I need to fight. I will not be able to know if my wings are okay until I do hard flying.”
+
+“I see,” Pryce murmured. “When do you think you’ll be able to fly again?”
+
+“Two more days,” Fathom replied, looking up at the sky. “In two more days, I will try to fly.”
+
+“Hmm,” Pryce murmured. Fathom seemed rather anxious; perhaps a distraction would be good. “Do dragons have music? Sounds that are nice to listen to?”
+
+“Yes. Making good sounds is an important skill. Why are you asking?”
+
+“You’ll see in a minute – I’ll be right back,” Pryce said, and made his way back into the ship to retrieve a certain device.
+
+“What is this? It looks a little like a seashell,” Fathom said, peering at the phonograph as Pryce set it down.
+
+With what he had taught Fathom about the nature of sound, Pryce was able to explain – albeit with some difficulty – how humans could make things called ‘vinyl records’ that had sounds ‘written’ onto them, and that this ‘phonograph’ could ‘read’ the sounds on the vinyl records by moving a needle over the engraved grooves.
+
+“That doesn’t…sound like it should work,” Fathom said tentatively as he squinted at the disc. He sounded somewhat skeptical, but he knew better than to doubt the claims Pryce made by now, no matter how ridiculous they initially seemed.
+
+“It does sound strange, but that’s how it works,” Pryce shrugged.
+
+“Can you record anything? Like my voice?” Fathom asked, peering at the device in great interest.
+
+“Oh no, it takes special machines to make vinyl records,” Pryce said, rubbing his neck sheepishly as Fathom’s head drooped in disappointment. “But I do have another device called a tape recorder, and that can record your voice.”
+
+Fathom perked up at this. “Yes, show me the tape recorder,” he urged, shifting excitedly from one foreclaw to another.
+
+“Didn’t you want to hear music?” Pryce asked, gesturing to the phonograph he had dragged out.
+
+Fathom looked torn for a moment, like a child offered two different pieces of candy. “Tape recorder first,” he said, after some internal conflict.
+
+“Alright,” Pryce shrugged, and disappeared into the ship to lug out the briefcase-sized tape recorder. The device wasn’t mission critical, but people were of course curious to hear what animals from another land sounded like, and it took up very little room, so there wasn’t any reason to not bring it.
+
+“Okay,” he said as he set the device down. “The cassette player will start recording when I press this button. Ready?”
+
+Fathom nodded, and Pryce pressed the button.
+
+A few seconds passed, with the dragon looking suddenly indecisive as Pryce gestured for him to say something.
+
+“Is…this recording? Why is it spinning?” He asked, and Pryce hit pause.
+
+“Is…this recording? Why is it spinning?” The tape recorder played back, causing Fathom to reel back his head in surprise. The playback wasn’t perfect, but Fathom’s voice was still easily recognizable despite the minor flaws.
+
+“...This is not what I sound like…is it?” Fathom asked, sounding somewhat indignant.
+
+“Well, your voice does sound different to you than to anyone else, but the tape recorder isn’t perfect, so it doesn’t copy sound perfectly,” Pryce explained. “Don’t worry, most people don’t like the sound of their own voices,” he chuckled, though this did little to alleviate Fathom’s displeasure.
+
+They played around with some more recordings, and Fathom became less annoyed with how his voice was depicted and became more interested with the device itself. Pryce tried to explain how the tape recorder magnetized strips of metal inside the tape, though this concept was understandably beyond Fathom’s grasp.
+
+“Magnets are very rare treasures for dragons, but they are not useful,” Fathom said, scratching his scars. “I am surprised that they can do something like this.”
+
+“Those would be natural magnets, we can make stronger ones.”
+
+“…Of course you can make magnets,” Fathom muttered with a sigh. “Do you know why it feels strange if a magnet is held near your head? That is something that dragons have wanted to know for a long time.”
+
+“What?” Pryce blinked. “What do you mean ‘feels strange’?”
+
+“It feels a little like you are moving…but you are not,” Fathom said, tilting his head in consternation. “Does this not happen to humans?”
+
+“No, the only thing a magnet does is-” Pryce abruptly paused as realization struck him. “I need to get something, I’ll be right back!”
+
+Fathom’s spines were flattened impatiently when Pryce returned a minute later, holding a small metal device in his hands. “This is a compass. It has a magnet inside of it, and the red part will always point in the same direction because the Earth is one big magnet.”
+
+Fathom stared as Pryce spun the compass around, only for the small red needle to wobble northwards. “I…did not know this. Why is red part of magnet always pointing right of sunrise?” he asked, blinking incredulously.
+
+“Because magnets have two ends, and right of sunrise is the ‘north’ end of Earth!” Pryce explained, then immediately asked, “Do dragons always know the direction of sunrise and sunset? Even if you close your eyes and spin around many times?”
+
+“Yes. Even hatchlings can do this,” Fathom said, drawing his head back in confusion. “Do humans not know where sunrise and sunset is if you close your eyes?”
+
+“No!” Pryce said excitedly. “Dragons can sense magnetic fields, but humans can’t! We need compasses just to know where north is.”
+
+“...Humans are very strange,” Fathom noted inoffensively. “So magnets make dragons feel strange because….the small magnet is louder than the earth magnet?”
+
+“That’s a good way of putting it, and yes, I think that’s what’s happening.”
+
+“Hmm,” Fathom rumbled, his eyes narrowing in thought. “I did not think knowing directions is a sense…”
+
+“It is complicated, isn’t it?” Pryce chuckled. “Don’t worry, most humans don’t know how magnets work either. I can teach you that later if you want, but I want to talk about music today.”
+
+Fathom seemed like he wanted to ask more about magnets, but his desire to hear human music won after a brief struggle. “What types of music do humans have?”
+
+“Ah, right,” Pryce said, and had to define the differences between songs, instruments, and singing. “I have records for both music and songs, which do you want to hear first?”
+
+“...Songs,” Fathom said after a moment’s consideration. “I want to hear what music humans can make without instruments.”
+
+“Alright, a song it is,” Pryce said, selecting a particularly famous track.
+
+Fathom looked on as Pryce wound up the phonograph, and soon a pleasant melody began to emanate from the device’s horn.
+
+The song began with a wordless feminine vocalization, lone and sorrowful. Fathom leaned in closer to listen to the melody with rapt attention, his ear-spines stretched tight to better hear the foreign sounds. The voice remained solitary until it was joined by a harp and a violin, though these instruments never overpowered the vocals. Back and forth the singer and the instruments went, until the song ended in the same six notes with which it began.
+
+The phonograph fell silent as it ran out of track to play, the needle scrabbling against the empty record.
+
+“That was…very beautiful,” Fathom said slowly, mulling over each word as he formulated his opinion of the piece. “I feel like it is supposed to be happy, but it sounds a little sad?”
+
+“Happy?” Pryce asked in confusion. “It’s supposed to be sad, and only a little happy.”
+
+“It sounds alone, like a young dragon gaining ‘freedom’, but it also sounds sad, like they are sad to leave their old home,” Fathom explained. “It is interesting that humans think sounds have different meaning.”
+
+“It is,” Pryce agreed. “This is an old song, but it’s one of my favorites. It’s about growing old, and the sad and happy things in life.”
+
+“Interesting…” Fathom murmured. “The human singing is very different from your voice. Why is this?”
+
+“The singer is a woman,” Pryce replied. “Most women have voices higher pitched than men,” he added, and then had to explain what high and low pitches were.
+
+“Do women sing more than men?” Fathom asked, tilting his head in confusion. “Most male dragons are better at singing than female dragons.”
+
+“Both men and women like to sing. Some men and women,” Pryce clarified. “I don’t know how to sing.”
+
+“Oh. But I wanted to hear you sing,” Fathom said, disappointed.
+
+Pryce paused. “...Do you know how to sing?” he asked curiously.
+
+“Of course,” Fathom snorted, as if this were a given. “One of the competitions I won to have Anvonh was about singing,” he bragged, and his eyes narrowed in amusement. “You want to hear dragon songs, right? If you sing for me then I will sing for you.”
+
+Pryce frowned at the mischievous glint in Fathom’s eyes. He had a feeling that they both knew he was too curious to refuse the offer. “...Ugh, fine,” he agreed, and paused as he tried to think of a song to go with. He abruptly realized he didn’t know any songs by heart…except for the alphabet song.
+
+“That was…very different from dragon songs,” Fathom diplomatically commented when Pryce was done.
+
+“I told you it wasn’t going to be good,” Pryce said, his cheeks burning with embarrassment.
+
+“It is good this is not a competition,” Fathom chuffed, then took a preparatory breath.
+
+What came out was nothing like Pryce had ever heard; it started as a deep, throaty noise, then slowly ascended in both pitch and volume. The dragon’s sheer lung capacity allowed him to go on without breath for far longer than any human could, and the entire song seemed to be done in a single breath. The tune was strange and erratic, sometimes the pitch changed steadily, but other times he would transition into an undulating melody.
+
+Fathom continued to sing for several minutes, and he finished his song with one last haunting cry before looking expectantly at Pryce.
+
+“Wow. That was beautiful,” Pryce appreciatively murmured.
+
+It was truly a hauntingly beautiful song, though it would definitely be something more of an acquired taste to the general public. He knew nothing about music theory, but even he could tell that Fathom’s song made no adherence to the rules of human music, and some parts of it felt ‘wrong’ to him. Still, Fathom seemed pleased by his answer, so he kept that piece of feedback to himself for now.
+
+“What was that song about? Some parts sounded a bit like…flying?” Pryce guessed. His grasp on Draconic was still heavily lacking, and if any lyrics existed then they went unnoticed by his untrained ears. Still, the pitch of the song only ever seemed to jump from high to low, but never in reverse, and it gave Pryce the impression of a story about flight conveyed through music.
+
+“Yes!” Fathom said happily, looking quite pleased. “How did you know?”
+
+“The pitch of the song went from low to high slowly, like a dragon flying up, but it went from high to low quickly, like a dragon diving, am I right?”
+
+“Yes, you are right. This song is about different types of flying, but I did change it a little; it is normally much louder,” he added candidly.
+
+“Well, thank you for not roaring at my face,” Pryce said drily. “Actually, now that I think about it… Humans and dragons both like music, and nodding to music is a good thing, so music might be the reason why dragons and humans both nod for ‘yes’.”
+
+“That…makes sense,” Fathom nodded, then abruptly paused as he noticed what he was doing. “It is very interesting. I have never thought about it before, but I have not seen any other animals that like music. Except birds. Is it a coincidence? Or is there a reason?”
+
+“I don’t think anyone knows why we like music,” Pryce mused as he selected another record. “There are many reasons why liking music is a good thing for an animal, but no one really knows why we became the way we are.”
+
+“Hmm,” Fathom rumbled as Pryce wound up the phonograph.
+
+Pryce spent the next few hours showing Fathom various examples of human music; it felt like an especially novel experience despite having listened to all of these songs before. He felt an odd sense of pride whenever Fathom expressed fondness for a particular piece, though he had never composed a song in his life. As the day wore on, he began to realize that he was feeling pride as a human being. It was far from an entirely foreign sentiment – Pryce had always loved science for as long as he could remember, and it was objectively true that humanity had accomplished amazing things, but this wasn’t quite the same feeling. He suspected it was impossible to feel this exact emotion in any other circumstance, without an alien intelligence to converse with.
+
+Pryce originally planned to teach Fathom some chemistry today, but as the day wore on he decided it wouldn’t hurt if the two of them spent the rest of the day listening to music.
