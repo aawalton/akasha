@@ -1,0 +1,91 @@
+Chapter 3 - Blastoff
+
+I felt like I was back aboard the rocket. I flew through the foliage and got a bird’s eye view of the woods as they blurred past. My ears rang, and I had just enough time to consider that if the explosion hadn’t killed me, the fall certainly would, before I reached the top of my parabolic arc and curved downward toward the forest. I shouted, windmilling my arms, and fell straight on my head, which squished, and recoiled, bouncing me another five meters in the air where I got stuck in a tree.
+
+I groaned, putting my hands on a tender spot at the top of my head. “How am I not dead?”
+
+The box returned. <Would you like to view your racial information?>
+
+“Yes, please.”
+
+<Race: Goblin
+
+Innate Traits:
+
+Meek – Goblins are among the weakest creatures. Goblins start at level 1. Goblins cannot level up.
+
+True Omnivore - Goblins can derive nutrients from any meat, fruit, or vegetable, even those toxic to most other species.
+
+Rapid Reproduction - Goblins are naturally occurring. Where there are Goblins present, more Goblins will regularly appear. No funny business required.
+
+Inert - Goblins are incapable of using magic.
+
+Soft-headed - Goblins are resistant to blast damage and immune to fall damage. Happy landings.>
+
+“Resistant to blast and fall damage, huh? I guess that’s lucky.”
+
+<Goblins would probably be extinct otherwise.>
+
+Given my current predicament, that's probably true. Wait a second.
+
+I blinked. The message vanished as quickly as it had appeared. That was an odd system message (implying that there were normal ones? Amazing how fast you can adapt to the unimaginable). It sounded almost conversational.
+
+“System, are you sentient?”
+
+No answer.
+
+“System, what are your operational parameters?”
+
+No answer.
+
+“System, grant root access.”
+
+No answer.
+
+“System, enable power-user permissions.”
+
+Nothing. Worth a shot. I wracked my brain.
+
+“System, print(“Hello, world!”).”
+
+Nada. Hmph. If it was a computer of some sort, it wasn’t parsing Python. Alright, system, keep your secrets. But know this: They’re not safe from an engineer!
+
+<Your Tribe has increased to 3 members.>
+
+I looked down from the tree. Below, two blue, fuzzy creatures with bulbous heads, flat noses, and wide, floppy ears were carrying what looked like the mangled remains of the dead canine. I looked at the mess I’d made of its jaws, blowing the mandible completely off from that fruit. Jesus, that could have been me. Then I looked at the wide-eyed goblins. They both had rough hide wraps and skull-masks of strange creatures, but they were unmistakably the same species I was.
+
+“Hey!” I yelled. “Get me down from here!”
+
+The pair squawked in surprise, dropping their prize, and started panicking for a few moments before running off into the brush.
+
+“Come back! I thought I was supposed to be your king!”
+
+I hung in the tree, arms limp below me, and sighed. So much for royalty.
+
+<Your tribe has increased to 9 members.>
+
+I lifted my head. The first two goblins had returned, bringing with them another handful of the little blue fuzz-balls in skull masks and rough hide cloaks. Some of these new ones were carrying long sticks between them, while others carried shards of flint and shale. They dropped their equipment and set to a frenzy of work, banging rocks against each other and gnawing on the wood so fast it sounded like putting a board through a table saw. Within a few minutes, they had a set of stone knives and poles that, I had to admit, were quite a bit straighter and more sturdy-looking than mine had been. The ones with knives began stripping bark from the tree and up-rooting vines to convert to cordage.
+
+Well I’ll be damned. They were using the Goblin Technology I’d unlocked. Just by virtue of being in my tribe, the simple skills I’d developed had transferred over to them. And, as much as I was loath to admit it, they were better at it than I was.
+
+I don’t know how they selected their champion to get stilted up. Goblin communication seemed to be almost completely non-verbal, comprised entirely of grunts, squeaks, babbling, and casual physical assault. When they did make a unique sound, it seemed like their language consisted entirely of onomatopoeia. One might make a chewing noise to indicate that they wanted a pole trimmed, for instance, while simultaneously striking their intended trimmer with said pole.
+
+It was a lot like communicating with partners during undergrad group projects, if I’m being honest.
+
+Still, once they got one of them strapped up with stilts, they hoisted him up with great aplomb. He wobbled closer, windmilling his arms as the other goblins cheered him on. Unfortunately, he still couldn’t reach me, and I still couldn’t free myself from where I was wedged in between the tree branches.
+
+“Come on, come on!” I called down. “Just a bit higher!” My new tribesmen chattered and wrapped their hands around the stilts, hoisting their fellow into the air. He squawked and pitched back and forth, suddenly unsteady. But he was still out of reach.
+
+One of the goblins seemed to have a bright idea. He jumped, letting go of the stilts and dashing off into the brush. The others, now unbalanced, teetered in a chittering mass, and the one on stilts wailed as he toppled over, plowing into the ground face-first. I winced.
+
+“Well, you tried.” I said. I wracked my brain. “Don’t worry guys. This is just the first iteration. We’ll adapt, iterate, and test again. As your new king, I promise you, we will figure out a solution to this problem!”
+
+My new tribe mates got to their feet and started cheering. Huh. Even being completely non-verbal themselves, it seemed they had no issues understanding my words and ideas.
+
+I caught a hint of movement out of the corner of my eye as the goblin who had departed previously returned. When I saw what he was carrying, even being upside down, I feel like all the blood must have drained out of my face. The little guy hoisted one of the rotten fruits above his head, making a noise like a bomb going off. The rest of the tribe squawked in alarm and scrabbled to get away. They weren’t fast enough—especially the one still with over-long stilts strapped on.
+
+“Wait, wait!” I said. But it was too late. Not known for their patience, apparently. The goblin proudly hurled the fruit straight at the tree I was stuck in.
+
+The blast, if anything, was even more powerful than the first.
+
+<Your tribe has decreased to 7 members.>

@@ -20,5 +20,7 @@ export const bewareOfChicken0343V8c2ArrivalAtTheRavine = {
     },
   ],
   createdAt: "2026-10-23T01:45:58.699Z",
-  updatedAt: "2026-10-23T01:45:58.699Z",
+  updatedAt: "2026-10-23T22:48:11.683Z",
+  ownProgress: 2257,
+  progressedAt: "2026-10-23T22:48:11.683Z",
 } as const satisfies StoryChapterRead

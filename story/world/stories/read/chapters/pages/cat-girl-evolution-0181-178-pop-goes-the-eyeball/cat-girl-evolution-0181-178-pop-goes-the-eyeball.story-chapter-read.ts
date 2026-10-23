@@ -20,5 +20,7 @@ export const catGirlEvolution0181178PopGoesTheEyeball = {
     },
   ],
   createdAt: "2026-10-23T07:49:10.427Z",
-  updatedAt: "2026-10-23T07:49:10.427Z",
+  updatedAt: "2026-10-23T22:48:11.683Z",
+  ownProgress: 2483,
+  progressedAt: "2026-10-23T22:48:11.683Z",
 } as const satisfies StoryChapterRead

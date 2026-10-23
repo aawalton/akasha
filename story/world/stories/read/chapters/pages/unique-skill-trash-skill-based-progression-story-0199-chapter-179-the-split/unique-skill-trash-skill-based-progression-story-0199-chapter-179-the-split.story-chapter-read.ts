@@ -20,5 +20,7 @@ export const uniqueSkillTrashSkillBasedProgressionStory0199Chapter179TheSplit = 
     },
   ],
   createdAt: "2026-10-23T20:48:13.088Z",
-  updatedAt: "2026-10-23T20:48:13.088Z",
+  updatedAt: "2026-10-23T22:48:11.683Z",
+  ownProgress: 3193,
+  progressedAt: "2026-10-23T22:48:11.683Z",
 } as const satisfies StoryChapterRead

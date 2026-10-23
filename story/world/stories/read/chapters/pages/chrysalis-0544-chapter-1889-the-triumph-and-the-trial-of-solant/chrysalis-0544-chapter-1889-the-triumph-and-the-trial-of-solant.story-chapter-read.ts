@@ -20,5 +20,7 @@ export const chrysalis0544Chapter1889TheTriumphAndTheTrialOfSolant = {
     },
   ],
   createdAt: "2026-10-23T01:45:58.699Z",
-  updatedAt: "2026-10-23T01:45:58.699Z",
+  updatedAt: "2026-10-23T22:48:11.683Z",
+  ownProgress: 899,
+  progressedAt: "2026-10-23T22:48:11.683Z",
 } as const satisfies StoryChapterRead

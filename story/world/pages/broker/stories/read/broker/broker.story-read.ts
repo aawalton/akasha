@@ -1,0 +1,41 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const broker = {
+  id: "01a16af3-4aa4-7e47-95ce-261c0e4f8fdc",
+  type: "page-type/story-read",
+  slug: "broker",
+  author: "TheBroker",
+  following: false,
+  unit: "unit/words",
+  title: "Broker",
+  world: "world/broker",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "82768",
+      externalLink: "https://www.royalroad.com/fiction/82768/broker",
+    },
+  ],
+  externalTags: [
+    "Time Loop",
+    "Urban Fantasy",
+    "Villainous Lead",
+    "Super Heroes",
+    "Multiple Lead Characters",
+    "Action",
+    "Drama",
+    "Sci-fi",
+    "Tragedy",
+    "Attractive Lead",
+    "Dungeon Crawler",
+    "Female Lead",
+    "Mythos",
+    "Secret Identity",
+    "Strong Lead",
+    "Time Travel",
+  ],
+  readLater: true,
+  createdAt: "2026-10-23T22:48:11.683Z",
+  updatedAt: "2026-10-23T22:48:11.683Z",
+} as const satisfies StoryRead
