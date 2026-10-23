@@ -4,7 +4,7 @@ export const thePianoGuys3Unstoppable2 = {
   id: "01a0676a-d72f-704b-a382-dc71c9924c8e",
   type: "page-type/release",
   slug: "the-piano-guys-3-unstoppable-2",
-  ownLength: 53.75405,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/the-piano-guys"],
   position: 0,
@@ -21,5 +21,5 @@ export const thePianoGuys3Unstoppable2 = {
   ],
   title: "Unstoppable",
   createdAt: "2026-09-03T13:17:30.287Z",
-  updatedAt: "2026-10-23T13:57:14.919Z",
+  updatedAt: "2026-10-23T14:00:50.423Z",
 } as const satisfies Release

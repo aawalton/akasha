@@ -7,8 +7,8 @@ export const thePianoGuys3UnsungHero = {
   title: "Unsung Hero",
   partOfCollections: ["artist/the-piano-guys"],
   position: 0,
-  ownLength: 8.8363,
-  ownProgress: 8.8363,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2024-06-28",
@@ -21,5 +21,6 @@ export const thePianoGuys3UnsungHero = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.287Z",
-  updatedAt: "2026-10-23T13:57:14.919Z",
+  updatedAt: "2026-10-23T14:00:50.423Z",
+  progressedAt: "2026-10-23T14:00:50.423Z",
 } as const satisfies Release

@@ -4,7 +4,7 @@ export const thePianoGuysMusicToReadTo = {
   id: "01a1690d-3228-7d41-b422-5c331cb9393a",
   type: "page-type/release",
   slug: "the-piano-guys-music-to-read-to",
-  ownLength: 41.26976666666667,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/the-piano-guys"],
   position: 0,
@@ -21,5 +21,5 @@ export const thePianoGuysMusicToReadTo = {
   ],
   title: "Music To Read To",
   createdAt: "2026-10-23T13:57:14.919Z",
-  updatedAt: "2026-10-23T13:57:14.919Z",
+  updatedAt: "2026-10-23T14:00:50.423Z",
 } as const satisfies Release

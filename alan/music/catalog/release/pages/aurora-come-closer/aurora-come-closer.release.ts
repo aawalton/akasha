@@ -4,7 +4,7 @@ export const auroraComeCloser = {
   id: "01a0676a-d71b-7016-9c17-86b944e70f25",
   type: "page-type/release",
   slug: "aurora-come-closer",
-  ownLength: 4.474216666666667,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,
@@ -21,5 +21,5 @@ export const auroraComeCloser = {
   ],
   title: "COME CLOSER",
   createdAt: "2026-09-03T13:17:30.267Z",
-  updatedAt: "2026-10-23T13:58:00.227Z",
+  updatedAt: "2026-10-23T14:00:50.423Z",
 } as const satisfies Release

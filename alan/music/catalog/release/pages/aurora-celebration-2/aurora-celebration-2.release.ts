@@ -4,7 +4,7 @@ export const auroraCelebration2 = {
   id: "01a1690d-e323-7e84-8d10-dd2f702e7932",
   type: "page-type/release",
   slug: "aurora-celebration-2",
-  ownLength: 4.3591,
+  ownLength: 0,
   ownProgress: 0,
   partOfCollections: ["artist/aurora"],
   position: 0,
@@ -21,5 +21,5 @@ export const auroraCelebration2 = {
   ],
   title: "Celebration",
   createdAt: "2026-10-23T13:58:00.227Z",
-  updatedAt: "2026-10-23T13:58:00.227Z",
+  updatedAt: "2026-10-23T14:00:50.423Z",
 } as const satisfies Release
