@@ -1,0 +1,42 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const theGrandWeave = {
+  id: "01a166df-f505-7703-b04a-feffb511d31b",
+  type: "page-type/story-read",
+  slug: "the-grand-weave",
+  author: "LlazyLlama",
+  following: false,
+  unit: "unit/words",
+  title: "The Grand Weave",
+  world: "world/the-grand-weave",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "57427",
+      externalLink: "https://www.royalroad.com/fiction/57427/the-grand-weave",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Portal Fantasy / Isekai",
+    "Progression",
+    "Cultivation",
+    "Non-Human Lead",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Horror",
+    "Dungeon Crawler",
+    "GameLit",
+    "High Fantasy",
+    "Magic",
+    "Male Lead",
+    "Mythos",
+    "Reincarnation",
+    "Supernatural",
+  ],
+  readLater: true,
+  createdAt: "2026-10-23T03:48:35.717Z",
+  updatedAt: "2026-10-23T03:48:35.717Z",
+} as const satisfies StoryRead
