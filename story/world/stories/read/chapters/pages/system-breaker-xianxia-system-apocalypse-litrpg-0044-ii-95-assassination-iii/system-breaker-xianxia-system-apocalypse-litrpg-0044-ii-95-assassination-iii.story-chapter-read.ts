@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
+
+export const systemBreakerXianxiaSystemApocalypseLitrpg0044Ii95AssassinationIii = {
+  id: "01a166de-16f5-783e-a23a-0aeb5a374d5f",
+  type: "page-type/story-chapter-read",
+  slug: "system-breaker-xianxia-system-apocalypse-litrpg-0044-ii-95-assassination-iii",
+  position: 44,
+  publishedAt: "2025-05-05",
+  unit: "unit/words",
+  title: "II-95 Assassination (III)",
+  story: "story-read/system-breaker-xianxia-system-apocalypse-litrpg",
+  ownLength: 2580,
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2257536",
+      externalLink:
+        "https://www.royalroad.com/fiction/89249/system-breaker-xianxia-system-apocalypse-litrpg/chapter/2257536/ii-95-assassination-iii",
+    },
+  ],
+  createdAt: "2026-10-23T03:46:33.330Z",
+  updatedAt: "2026-10-23T03:46:33.330Z",
+} as const satisfies StoryChapterRead
