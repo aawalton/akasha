@@ -1,0 +1,151 @@
+At the end of the countdown, the risen elite indeed rose again, but they were prepared and ended it swiftly before splitting into their agreed-upon paths.
+
+Of the six available corridors, they had just come from one, leaving five still unexplored. Logan crept down one hall while Senna and Alden took a different one. Bromlin and Cassandra remained with the risen elite, waiting for its timer to reset and quickly end it. Logan would have rather stayed and studied the undead’s revival mechanics closer, but he would get an update from them when he returned.
+
+Just in case any unseen enemies were nearby worth staying hidden from, he entered stealth mode, but didn’t catch any signs of danger. The dragon (Lucky? No, that nickname was too on the nose…) curled on one shoulder, his chest rumbling against him. Logan gave his small scaly friend a small pat, and his little buddy leaned into his hand.
+
+The trek through the corridor went without incident, leading into a new chamber.
+
+The open room was massive, and he felt confident he was alone. It was mostly empty, except for a heavy table decked out with a banquet of desserts that made Logan think of feudal royalty. It almost reminded him of those dining scenes in the Harry Potter movies, but the sheer quantity of treats was so copious, it outdid even that. Glazed sweet rolls, chocolate fountains, vibrant bite-sized cakes and cookies in every color… it was all there.
+
+No chairs surrounded the table, nor any sign of flatware or utensils, so presumably whoever ate here just walked up, grabbed what they wanted, and either took it somewhere else to eat, or ate standing.
+
+Based on what else he saw, he suspected they ate in this room too. Suspended from wooden pegs high on the gray stone walls, ornate velvet tapestries hung nearly to the floor. Their bottoms were now soiled and in a state of disrepair. Greasy handprints stained them, and there were tons of five-rowed slashes in the fabric that looked like damage from sharpened nails or claws. If he had to guess, the gobles had feasted on the desserts and used these lush tapestries as napkins after.
+
+Despite all the signs of former meals, the banquet itself looked completely untouched. Logan had an idea why that might be, and Analyze proved him correct as the labels popped up over the various trays. He focused on the table itself.
+
+Name: Banquet Table of the FeastType: ItemLore: The blessed shrine post of the Priest of the Feast, this enchanted table will regenerate desserts at a rate of 1 consumed item every hour until it is replenished. Once a dessert is taken from the table, its enhancements will last for 12 hours. If consumed, desserts provide enhancements for the rest of those 12 hours, but consuming a second within the allotted time will negate all buffs for 24 hours, induce the Poisoned condition, and prevent consumption of more desserts for 48 hours. This penalty is stackable.
+
+Just as he suspected, this all tied back to the Kalashi brother, Feast. When Logan had last seen Feast, the undead had been shoveling moldy food from his own grave down his gullet. This, though, looked properly edible.
+
+The table introduced more math than Logan cared to breakdown, but he understood that even though the penalty for eating too many desserts stacked, the buffs didn’t. And even if he stashed the food in his inventory indefinitely, after 12 hours it would lose all buffing qualities. Even if he waited until the eleventh hour to eat something, it would only provide benefits for one hour.
+
+He picked up an assortment ranging from Bright Lemon Tarts to Gingerbread Rolls, as well as various types of candied fruit. Each one got flagged with its own 12-hour timer. While he wasn’t sure if he would use any of them right now, and their enchantments wouldn’t last forever, it couldn’t hurt to have some on hand.
+
+As he Analyzed the centerpiece, a small label popped up. His Analyze had reached a threshold called Hidden Gleams that allowed him to detect components of certain items. In this case, it was a vial of amber liquid. If not for the label, he would have guessed the container was actually a gemstone with how the liquid filled it all the way to the translucent stopper without so much as an air bubble.
+
+Name: Nectar of GrowthType: ConsumableLore: Enhances your choice of 3 stats by 33% for [12] hours.
+
+Into his storage ripple it went, along with the rest of his trove of other sweets. The vial didn’t get a timer, but that would probably change the moment he removed the stopper. He had barely put a dent in the total food supply.
+
+He lifted the centerpiece in both hands and checked it over as if he were a jeweler appraising a gem, but Analyze revealed no other components. Beneath the centerpiece and etched into the table, though, was a symbol showing a hock of ham with a bone in the center and an apple. He recognized the design as Feast’s sigil, which he had seen below the furnace area.
+
+That was all for this room, so he entered the only other archway and proceeded quietly down the next corridor.
+
+To his surprise, he bumped into Senna and Alden in the next room. Beside them, a dead goble lay draped atop a broad clay vessel, or maybe a shallow vat. Analyze didn’t name the vat the way it had listed Feast’s banquet table.
+
+Senna pressed a finger to her lips at Logan as she pointed at the goble, but Alden lifted his eyes and shook his head. “It’s dead, Senna, not asleep.”
+
+Nothing adorned the walls in this room, and the air chilled Logan’s forearms. Wooden contraptions littered the area with ambiguous names like thresh frames, weighting posts, turnstaves, vire cradles, and more. Wasn’t threshing something to do with grain? Nothing about the machines’s designs looked like they handled food products.
+
+Some had long grooved arms, while others had gliding wheels and pulleys. As he weaved through the crammed devices to join the other two adventurers, he felt like he was walking through a crowded gym floor, but with machines that were more likely to give splinters than a good workout. He turned sideways to slip past one, and it brushed his chest, causing the dragon still curled there to stir. “Sorry,” said Logan, and a warm snort brushed against his skin.
+
+When he reached Senna and Alden at the squat clay vat, none of them touched the goble.
+
+“Does it have the ring in its inventory?”
+
+Senna nodded and pointed to an arm draped diagonally across the vat, where the elbow and wrist made contact along the rim. The ring adorned a green finger. It looked as though the goble had slumped forward to rest her forehead on her forearm. At least, if you ignored her torso pitched over the edge, waist bent, as if she had collapsed partway without actually falling in.
+
+“How,” Logan asked them, “did you end up here? Didn’t you take the opposite corridor?”
+
+“We did,” Alden answered, “but it was blocked off, so we backtracked and took the next option. Whatever was in that room has collapsed, too. The rubble covered most of the room, but one patch was low enough for us to climb over, and that led to two more doorways. This place is like a maze. The other doorway looked more ruined, so we came to this one.”
+
+These rooms’ decorations were too niche to be standard castle areas, and he suspected some of them funneled into one another. There was probably some pattern behind which rooms connected to others. He remembered the strengths and weaknesses of the Kalashi brothers from his initial encounter, and there might be something to that mapping system that determined the rooms’ layout.
+
+Logan asked about any unique features they had seen, but the rubble had obstructed everything. He explained Feast’s banquet table in the prior room and his belief that the Kalashi brother lore integrated into these massive chambers.
+
+“Okay, so we’ve found two of the goble elites with the rings,” said Logan. “Let’s check back in with Cassandra and Bromlin. After we scout the other three bodies and Luvania’s room, we can plan a route to grab each ring and race back with the delivery to end the quest.”
+
+Senna and Alden moved toward the exit to Feast’s room, but Logan asked to take the rubble-strewn corridor instead, in case he recognized any clues. As they guided him through another maze of contraptions, he placed a hand on his shirt to shield the snoozing dragon from any bumps as they navigated the cluttered wooden mess.
+
+Alden nudged a wooden plank aside from his face, pushing it just enough to squeeze through a narrow gap. The motion tilted the board like a seesaw, sending the opposite end swinging upward. It knocked into a nearby contraption beside Logan, jostling one of its arms. The arm pivoted sharply and slammed into Logan’s shin with a solid crack.
+
+With a curse, Logan flinched and instinctively tightened his grip on the sleeping dragon. That, apparently, startled it. Sharp claws pricked his skin, making him flinch again as the dragon writhed beneath his clothing. Its tail slipped loose from where it had been tucked, and it squirmed upward until its head popped out of his tunic, now face-to-face with him. The creature blinked blearily and gave a small shake of its head. Its shaking head nudged a precariously balanced post on another machine.
+
+They all froze as a chain reaction began: one contraption shifted, bumping the next, and then another, the motion rippling outward like a mechanical version of The Wave at a baseball game. The sequence carried on from both sides of the group, converging at a single machine at the far end of the room.
+
+The last device tilted, releasing a metal bearing ball.
+
+“Whew,” said Senna. “That could have been worse.”
+
+Logan regretted the moment she said that. Didn’t this world have a basic understanding of “jinxing it”?
+
+Plink plink plink.
+
+The ball bounced on the stone until it hit the clay vessel with a hollow plonk.
+
+As it fell from the bounce of its final arc, it brushed the forehead-resting hand of the dead goble. The head rolled to the side, now resting against the vat, but the hand dipped into the vat with a loud hiss.
+
+Logan bit his upper lip. “I think we should keep going…”
+
+The sinew and tendons of the elite’s arm writhed violently, as if boiling beneath the skin. Then, with a twitch, the entire forearm jerked backward, severed cleanly at the wrist. The bejeweled hand had fallen off inside the vat, leaving the mangled stump recoiling above it.
+
+Apparently, that counted as removing the ring, because the moment the severed hand sank into the vat, red swirls of energy whipped around the goble’s body. They spiraled upward in a dramatic surge, like some twisted parody of a cinematic transformation scene. But instead of a newly forged hero, they got the one-handed risen elite. Half her face was raw with blisters from the backsplash of the vat’s acidic content.
+
+Everything about the goble, even its level at 56, was the same as the other, except for its health. This showed 400/0.
+
+Right as the goble rushed at them, Alden conjured an icy shell between them using his Permaflect skill.
+
+The undead goble smacked into it. She wasn’t very smart, though, because rather than go around the shield, she kept ramming into it. The problem with Alden’s skill was that the wider the shell, the weaker its structure. If he condensed it to the size of a baseball, it was nearly indestructible. But at this size, each repeated bash caused it to splinter more.
+
+The dragon let out a tiny squeak of a roar as it clambered free from Logan’s tunic and wheeled in the air.
+
+Senna wrestled with the contraptions, but Logan didn’t wait to see what she was planning.
+
+CryoPyre!
+
+The icy shell, which was on the verge of cracking anyway, melted as Logan drained the chill it had produced into a conical fiery blast. The flame burned the goble’s clothing, igniting her like a torch.
+
+She roared and flailed, but charged forward.
+
+“Done!” Senna shouted as she slapped the pummel of a wooden arm. Unlike the prior chain reaction, this one was a smaller-scale and resulted in a pointed shaft spearing the goble’s chest. The physical damage did little, and it was mostly Logan’s fire that reduced her health to 310, but at least Senna’s quick work hampered the goble’s mobility.
+
+Alden tried something with necrotic mana, but it hardly shifted the health total down, likely since the thing was already undead. She kept rushing them, dragging the wooden pieces with each step.
+
+Logan glanced upward at the dragon, now flitting behind them. It chirped at Logan, wheeling repetitively toward the rubble-strewn doorway Senna and Alden had come through. He had to remember the dragon was still level 1 and might just be scared. He wanted to keep the little guy safe from danger.
+
+The goble’s skin, stretched tight around the makeshift mechanical spear, was starting to tear, and the undead showed no sign of pain. Once the flesh ripped enough, the goble would be free to move fast again. Logan also noticed its hand slowly restitching itself, although without the ring. Despite the appearance that it might be healing, the health total didn’t increase at least.
+
+“Alden, try to position your ice shells so they melt on the closest wooden machines. Let’s keep the flames from burning through these so we don’t destroy them all.”
+
+CryoPyre!
+
+CryoPyre!
+
+Flame licked the undead’s flesh again, then ice glazed its skin. Logan kept the flames contained mostly around the being, and Alden took care of the fire before it could spread beyond the nearest machines.
+
+All the while, they inched their way backwards. It was taking a toll on Logan’s mana, but finally the undead gurgled and faltered to a stop.
+
+A countdown timer appeared above it. Instead of 5 minutes, though, it showed 4.
+
+“Let’s keep going,” said Logan as he freed himself from the thicket of machines and scrambled onto the rubble spilling from the next corridor. “Alden, can you reposition some of this stone debris to create a barricade? It wasn’t smart enough to go around your ice shell, so maybe it won’t think to take the long way around to the banquet hall, either.”
+
+Alden wiped his brow and set to work.
+
+With ten seconds left, Alden finished repositioning the stones into a roughly 3-foot thick wall. The debris wasn’t as tightly packed as they had faced in the stairwell below, so it was quicker work. Tense and ready for battle, they watched as the goble launched right back into pursuing them.
+
+The theory worked, though, as they watched from safety above the makeshift blockade. Every charge against the stone wall caused the goble to bounce back, then charge again, never redirecting its course.
+
+They relaxed and even shared a small laugh.
+
+As Logan and Alden returned to Cassandra and Bromlin, Senna stayed at the ruined intersection, perched high on a rubble heap. Still in the undead’s sight, she kept it aggro’ed lest it wander off and discover the easier path to them through Feast’s room. But she could also shout down the corridor to the others if she needed them.
+
+Cassandra and Bromlin were tense and at the ready. Their goble’s timer showed 1 minute left.
+
+“It got stronger,” said Cassandra.
+
+“400 health now,” added Bromlin, “and only 4 minutes before it rises again.”
+
+“Damn,” said Logan. The small dragon perched on his shoulder and nuzzled his chin. (Duck? Like Lucky-Duck? Nah…) He gave it a half-smile. “We raised another elite, and it has the higher health, too. I think they’ll all get progressively stronger the more we wake. Next ring we remove, they’ll probably each have 600 health and only a three-minute cooldown.”
+
+Bromlin grunted. “And we’re not even gaining experience.”
+
+“At least we have a second ring,” Cassandra said. “Only three more to get.”
+
+As Alden cleared his throat with an obnoxiously loud ahem, Logan flashed her a tentative smile and explained they did not, in fact, have the second ring.
+
+She groaned. “How did you wake it if you didn’t remove its ring?”
+
+“Oh, we removed it. Just… it’s kinda stuck in a boiling vat of acid.”
+
+Before they could say more, the goble that started it all rose again.

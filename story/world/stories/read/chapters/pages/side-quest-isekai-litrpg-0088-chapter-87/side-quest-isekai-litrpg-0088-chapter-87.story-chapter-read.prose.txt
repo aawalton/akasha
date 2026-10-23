@@ -1,0 +1,137 @@
+Logan rapped on the carved wooden door of Lambert’s carpentry workshop. Nugget napped beneath his cloak, clinging to his chest, and the motion made him stir.
+
+Today was a rest day from training, and Lambert was supposed to have finished with the target dummy, which is why Logan was here. Logan had considered leaving Nugget in the inn again since he had business to attend to all day, but it didn’t take much of a guilt trip with those little golden eyes to get Logan to agree to carry the dragon around with him. He really needed to find a better way to keep Nugget secret without leaving him alone all day.
+
+The door itself was a showpiece of craftsmanship. Inlays and etched carvings ran through the wood grain, framed by layers of ridged onlays and delicate surface ornamentation. At its center sat a curved, oval peephole of dark glass.
+
+With a soft click, the glass flickered to life, revealing a single, blinking eye.
+
+Another click, and the glass went black again.
+
+Then the door began to move. Decorative strips rattled, gears whirred, and the intricate designs slid apart. All the embellishments wriggled away from the center of the arched frame, exposing a faint seam that split the door in two. Apparently, it wasn’t a single door at all.
+
+The filigree continued to shift like a nest of elegant worms, each piece slithering into a recess until it snapped perfectly into place. When the final overlay clicked home and the surface smoothed over, the twin doors parted, not swinging outward as Logan expected, but gliding silently into hidden pockets on either side.
+
+Inside, the workshop looked like something straight out of a cyberpunk film, except without the brass. Gears, cogs, and even the framework for all the machinery were wood that gleamed with polished grain instead of metal sheen. A few pieces bore thin black bands of reinforcement, but it was clear the wood was the true star of the design.
+
+As Logan stepped through the pocket doors, he glanced at the intricate system within the walls. Rows of interlocking wooden gears pulled the doors inward with quiet precision, each turn smooth and deliberate.
+
++5 CHA
+
+Logan did a double-take at the prompt.
+
+It only shocked him for a moment, though. He took a closer look at the gears built into the door assembly and he noticed more of the black bands, and throughout the shop. Those weren’t metal at all, but obsidian.
+
+Aetherlens.
+
+Sure enough, he detected a vacuum-like absence of any mana that was just around the doors. Looking at this angle, he couldn’t tell what the designs were, but Logan assumed they were gnomish.
+
+“I’m up here,” said Lambert.
+
+Logan followed the voice to a spiral wooden staircase suspended by thick, beige rope, and went up to the next floor. Along the way, he passed crate after crate of finely crafted lumber. It reminded him of his quest to get lumber for the Gnashridge Heights inn, so out of curiosity he peeked at the price tag.
+
+He recoiled at the sheer quantity of zeroes. Yeah, that’s not happening. But, maybe when he finally visited the guild market, he could buy an axe and start chopping some trees. Maybe he could even convince Horace to bake that into his training regimen.
+
+At the top of the stairs, Lambert stood in front of the target dummy. He wore a frame of spectacles with a single, magnifying lens at one eye, which made it look buggy until he lifted the frame to nestle in his curly hair.
+
+He gave Logan a sad smile.
+
+“Is everything okay?” Logan asked.
+
+Lambert let out a sigh, but said, “Yes.” He then prodded the dummy with a chisel. “Everything is completely perfect, which is what has me stumped. I can’t figure out what’s wrong with this.”
+
+Logan chewed his lip. There was nothing wrong with the dummy after all. The real problem had been Amatra’s sudden appearance, which had caused the Mages’ Guild’s protections to falter, just like Jorek’s and Krett’s apperance has done at the Adventurers’ Guild.
+
+Unlike the unexpected arrival of Chief Inspector Hane, the Mages’ Guild incident was attributed to a mishap caused by the decoy. If Lambert couldn’t find anything wrong with his dummy, that might send people investigating other possibilities.
+
+Even if that didn’t uncover Amatra, it could lead people to link what had happened at the two guilds to the same cause. And if that happened, the reavers might expedite their timeline for whatever they were planning. Logan’s head start on investigating at the Mages’ Guild would only last as long as the two incidents seemed unconnected.
+
+“But,” Lambert said as he lifted a caliper with obsidian tips, “I think maybe I just need to measure the interior mana balances with this.”
+
+The tool was, as expected, predominantly made of wood. Besides the obsidian tips, though, a thin hollow tube of glass wove through the handle. It looked like thermometer glass, but without any mercury inside.
+
+Analyze.
+
+Name: Manaweight CalipersType: ToolLore: The obsidian tips of these calipers measure distributions of mana matrixes in inorganic material. The integrated glass channels are essence chambers, which, when filled, can power the obsidian detectors.
+
+It didn’t look filled, but Logan didn’t know how magical tools worked. He was more focused on rushing to the Mages’ Guild before Lambert got too much further with his research. “I’m sorry. I can come back to deliver the dummy another day if that’s better.”
+
+“For the guild delivery, yes. I can’t complete the job until I charge this tool.”
+
+Logan relaxed a little with that news.
+
+“But, I was wondering, since you already had time set aside for me, could I ask you a different favor? I’ll pay. It’s another job after all, and it will all probably take less time than the initial delivery would have.”
+
+Logan shrugged. He did still need that money after all. “Sure. What’s up?”
+
+“Actually, there are two jobs. One is for the calipers. If you could take them to the Temple of the Five, they have an assembly that can charge it there.”
+
+Lambert proceeded to explain the same device Logan had used to charge the prism, but he allowed the carpenter to detail the process. He was, after all, trying not to draw attention to his involvment with the Adventurers’ Guild.
+
+“I’d go myself,” explained Lambert, “but I have so many deliveries scheduled to arrive over these next few days, I can’t risk being here to receive them.”
+
+Logan nodded. “Not a problem.” It occurred to him he could drag his feet on that task to delay Lambert, although that felt a little crummy. Then again, so did letting the reavers destroy the world with some doomsday plan. He’d weigh his options later. “And what about the other job?”
+
+“It’s also with the Temple of the Five. I figure if you’re heading there for me, you might as well drop this off.” He pointed to what looked like a collapsed accordion, and Logan recognized it immediately, but he let Lambert explain. “That assembly I mentioned to charge the tool? This is actually a replacement for it. Brother Timmons messaged me that the current rack wasn’t functioning smoothly. If you’re going to charge the calipers, you’ll want to replace this first.”
+
+“I see,” said Logan. For his own purposes, that would include charging the prism, too, which was also on his list. “I’m not quite sure how to replace it, though.”
+
+“Oh, it’s very simple. The other one will look just like this, with this little latch here. You press the latch—” he thumbed the latch, which looked like the hammer on a vintage western gun, and demonstrated the process “—lift the entire assembly from the frame, and then drop this in instead. It should set directly into the ceiling, and the temple knows it’s coming, so I’m sure they can help you access the ceiling.” He crossed his arms and shook his head as he looked at the decoy. “I was supposed to deliver it yesterday, but I got so lost focusing on this that it completely slipped my mind.”
+
+Logan knew exactly the feeling and assured Lambert he would take care of it.
+
+“Keep an eye out for any deteriorated sections of the setting, too, if you don’t mind. This is the second one I’ve replaced for them, and it shouldn’t be causing a problem. So just keep an eye out for anything that looks out of place.”
+
+“Will do.”
+
+Someone knocked at the door, and Lambert pulled a lever that made a spyglass-looking lens pop up from his desk. Whoever was at the door probably saw the same blinking eye Logan had moments ago.
+
+“Ah! Here’s one of those deliveries. I’m going to answer this, and if you could get started, that would be wonderful.”
+
+Logan nodded and followed Lambert down the spiral stairs and to the front door, where he waved goodbye and began walking to the Temple of the Five.
+
+Logan opened the doors to the Temple of the Five and proceeded down the quiet side walkways toward the intersection with the dropdown scaffold. Halfway down the long aisle, as his footsteps echoed off the marble tiles, the extreme quiet in here struck him as odd.
+
+Not a single person sat in the pews or wandered around the cathedral. He paused and glanced back at the door. It had been unlocked. The temple had five main sections, so maybe everybody was gathered in a different point of the building’s star shape?
+
+He walked to the central intersection where all five arms met, and then circled around the main altar. Nobody else was here.
+
+“Uh, hello?”
+
+Silence.
+
+Lambert said the brothers expected him and would have everything set up. Then again, he had also said the installation was supposed to happen yesterday.
+
+Logan scratched his head as he returned to where he had previously met Brother Timmons. The rope the monk had pulled dangled nearby and connected to the overhead triangular panel, which concealed the wooden scaffold Logan was here to replace.
+
+When Brother Timmons had pulled the rope, his hand glowed, probably from some skill that Logan didn’t have. But also, that only made the assembly lower. If Logan was going to replace it, he had to get up to the top.
+
+His eyes drifted to a nearby, blue ladder. It was one of many lining the walls. But he distinctly remembered how difficult it had been to hold on to, as if simply gripping the rungs had made his hand fall asleep.
+
+Nugget stirred beneath his cloak and popped his head out of Logan’s neckline. Logan smiled and rubbed Nugget’s scaly forehead. “I don’t know where everybody is, buddy. Think we should wait?”
+
+Nugget yawned and stretched inside Logan’s cloak, his claws gently scratching Logan. Logan laughed and kept petting the dragon, keeping one eye out for movement at the door.
+
+After waiting a few minutes just to see if anybody else would come into the temple, he sighed. He still had to get to the Mages’ Guild, but he would rather get this taken care of sooner than later.
+
+He peered up at the panel. The temple was, in theory, expecting this to have already been taken. He wondered if he could get up there some other way.
+
+He had the Void affinity now, so he could use Null Pulse. But with the distance he would have to cover, that would be a pretty powerful blast, and he wouldn’t be able to prevent himself from smashing into the decorative ceiling. The last thing he needed was to draw even more attention to himself as the-guy-who-damaged-the-temple.
+
+He might be able to climb the rope, but he didn’t know how much weight it was supposed to handle. He only had a replacement scaffold, not a replacement rope, and if that broke, it would defeat the point of fixing the assembly.
+
+His eyes landed on the bright blue ladder again.
+
+Hmm.
+
+He stretched a hand and touched a rung. Tingly discomfort spread through his arm.
+
+But, he had his threshold perk in Climbing that enhanced his grip.
+
+“What do you think, Nugget? Should we give it a try?”
+
+Nugget wriggled the rest of the way out of Logan’s shirt, pushing Logan’s chin to the side as he scrambled out. The dragon chirped and spiraled around Logan before flying a few feet up and hovering in place to glance down at Logan, waiting.
+
+Logan chuckled and stepped up, squaring off in front of the ladder. “You know, I may not be as fast as you. The whole I-don’t-have-wings thing and all.”
+
+As Nugget hovered, Logan grabbed the first rung.

@@ -1,0 +1,149 @@
+Logan hadn’t minded that the quest reward was clearly more for Senna, and Bromlin of course didn’t even care about any rewards for himself. Logan thanked Senna as she finished bottling the last of the raw poison, handing a couple of vials to him.
+
+The moment the words left his lips, though, a tremor rumbled beneath the soil. The peace in the garden had been short-lived.
+
+“Looks like we’ve got company,” Logan said.
+
+“These are only level 50 or so. I can take care of them,” the gardener offered. She had, after all, killed sclerags easily before.
+
+The ghost’s friendliness, now that she was in a good mood with her garden cleared of weeds, amused Logan. But he didn’t want to miss out on the opportunity to help Nugget level, not to mention themselves. Level 50 might be nothing to the gardener, but that was still a solid leap higher than anyone in his party.
+
+“Actually,” Logan said, stopping the ghost as she drifted toward where the beetles waited to ambush them, “do you mind doing us a favor?”
+
+The only thing keeping the sclerags from attacking Logan and his companions was their deep-rooted instinct to avoid the gardener, who they associated with the deaths of their kind. And Logan wanted to use that to their advantage, while trying out some skills. After all, more monster encounters awaited them as soon as they entered the Ruined Wilds, and Logan still had some combat skills he hadn’t really been able to test with Mariv.
+
+The gardener agreed to stand by. The beetles wanted to be near to ambush them, but they didn’t get any closer than 30 feet from the gardener. That number seemed to stay consistent, too. If she took one step nearer them, they burrowed just a little further away. And if she stepped away from the beetles, they approached by the same distance.
+
+Meanwhile, Logan gathered Senna and Bromlin into a huddle, with Nugget on his shoulder.
+
+“Okay, so this skill is called Mindmirror Sigil.” It was an epic skill he had gained from the Tentacled Stalker. He opened his screen to read it aloud, but paused. “Um, do your skill descriptions always come up pretty snarky?”
+
+Senna and Bromlin snickered, as did the gardener.
+
+“Yes, laddy, you get used to it.”
+
+“That quirk of the System is the courtesy of the Time sage,” the gardener added.
+
+“Okay, glad I’m not the only one. Anyway, it says, and I quote, ‘Create a psychic tether between yourself and a target within a [5] foot range, linking your senses in perfect symmetry. See what they see. Hear what they hear. Feel what they feel. Great for trust exercises, and bad for surprises. Range increases by 5 feet at every 10 levels.’”
+
+“That one’s not the worst, lad. My axe-kisser skill says—”
+
+“Wait,” Senna said, “how is your Mindmirror Sigil supposed to help us here?”
+
+“I tried it out with Mariv and already got it up to level 10, but it has a pretty interesting consequence. The effect works both ways.”
+
+“So… wouldn’t that be worse? They’ll anticipate your movements.”
+
+“True. But from Mariv’s and my testing, it takes a second to adjust to it. It’s like trying to throw a dart at a target while looking at it cross-eyed. But the target of the skill doesn’t just get my sight. They get a phantom pressure if I touch something, and can smell what I smell. And vice versa. It’s pretty strange, even if you know it’s coming.”
+
+Senna and Bromlin stared at him blankly.
+
+“Meaning it’s gonna get disoriented for a moment.”
+
+Understanding dawned on them as Logan mapped out a move. The gardener obliged by staying near enough for them to get into position. The monsters didn’t seem any wiser to their plan, still waiting to ambush them and not realizing they had already been discovered.
+
+“You’re up, Bromlin.”
+
+The dwarf grunted, hoisted his axe, then charged. Logan waited for the dwarf to get near enough that the first sclerag’s claw tips jutting from the earth twitched lightly with anticipation of a meal.
+
+Mindmirror Sigil!
+
+Even expecting it, the surge of conflicting senses hit like a migraine. Logan tasted dirt that wasn’t in his mouth. He saw Bromlin both from behind—his own vantage point—and head-on through the sclerag’s eyes as the dwarf charged. The creature’s vision came with strange limitations: a dirtline obscured the lower half of its view, while its raised, rounded eyestalks granted a warped, wide-angle field. The overlap twisted Logan’s perspective, layering multiple angles of the same moment in a disjointed blur.
+
+Mindmirror Sigil is level 11!
+
+That same distraction affected the monster, which twitched, raising a claw too early to hit Bromlin, and Logan smirked. He not only saw the false start, but he felt it. To add to the disarray, Logan wrapped his hands behind his back. The monster squealed, its joints not designed for that. Logan watched its health, but that didn’t change anything. It wasn’t like he had actually snapped the creature’s arms back, but in these early moments, the monster probably thought that had happened.
+
+And that was enough confusion for Bromlin to hack off one of the raised claws, quickly followed up by slashing off the tail as it speared upward through the soil.
+
+Phantom pain wracked Logan, and he was surprised when his own health dropped. It was only a fraction of the damage dealt to the monster, but apparently Logan could take psychic damage proportionate to damage inflicted on the target.
+
+The disorientation faded as Logan deactivated the skill and rubbed at his shoulder, but it had been long enough to be effective.
+
+Nugget darted in after Bromlin severed the tail, slashing a talon at the exposed meat by the stump. The little dragon nimbly grabbed the severed tail and whirled in a loop like a rollercoaster circle, releasing the tail where its arc plopped in front of Senna.
+
+The monster, which had been focused on Bromlin, snapped its remaining claw at Nugget, but the dragon was already gone from the spot.
+
+Senna set to work crafting the poison by dissolving a chunk of sclerag meat in the goop.
+
+But the sclerag still had 203/506 health remaining.
+
+A second one rushed in to charge them, so the gardener took three steps to the left, and it held off, although it snapped its claws in anger. It didn’t bother hiding anymore, either.
+
+“Well, this worked fast,” said Senna. She had a dart in one hand, which she dipped in the poison. And then she tossed it at the one-clawed sclerag.
+
+It writhed in pain as its chitin dissolved.
+
+Logan nudged Senna and held out one gauntlet. “Let me get a bit of that?”
+
+She applied a little to the tips of his gauntlet, and Logan took a step toward the sclerag. It was flipped on its back from its convulsions. Logan almost struck it directly, but had a better idea and jumped first.
+
+Aerial Combat is level 19!
+
+Gauntlet Mastery is level 17!
+
+The sclerag’s wiggling legs stilled.
+
+You have helped kill a level 52 Sclerag! Shared experience gained!
+
+You are now level 28!+1 END, +2 DEX, +3 INT, +4 PER, +2 WILYou have 4 free stat points.
+
+After a few minutes, they had four sclerag monster cores, as well as two more level bumps for Logan in both Gauntlet Mastery and Mindmirror Sigil. Just as the gardener had said, the poison specialized for the one sclerag didn’t deal damage to the others. It wasn’t something that could be applied by type or species, but rather to an individual. While it made the poison limited in its usefulness, Senna had plenty of other poison recipes. This one was easily the strongest, though, and nobody doubted it would come in handy in special situations.
+
+Before they moved on to whatever monster confrontation awaited them in the Ruined Wilds, Logan held one of the monster cores. According to the ghost, this would grant him a stat gain, not a skill.
+
+“Go on, lad, crack it open!”
+
+Logan was relieved that Bromlin was as curious as he was. Senna and Bromlin didn’t have his Core Cracker heritage boon, and he hadn’t wanted to test this out in front of them in case it left a bad taste in their mouths. While that might be the best approach in front of Alden, Senna and Bromlin didn’t seem to care.
+
+“Here goes.”
+
+It shattered against the tip of his gauntlet claw, and a familiar mist burst out before promptly zooming into him.
+
+Your DEX has increased by [2] points!
+
+Logan was smiling as he shared the news with the others.
+
+“The quantity of points,” the gardener explained before they could ask, “is derived from the differential between your level and the monster’s. For every ten levels, rounded down, it will grant one stat point, according to whichever one the monster is strongest in.”
+
+Since the monster was level 51 and Logan was 28, that meant 2 points. And monster strengths were consistent, so all sclerags would always grant Dexterity boosts.
+
+“So a level 19 core used by someone at level 10 grants no bumps?”
+
+“Correct.” The ghost lifted a finger. “However, it will work differently for others without your Core Cracker boon, such as your friends.”
+
+She explained the process of extracting essence from the cores, and it was basically the same process used to extract skills from cores. The difference was that instead of needing 12 cores to create one skill potion, a stat potion only required 3 cores. Senna was the one to point out the similarity in how only 3 cores were needed to imbue weapons with additional traits.
+
+That marked another weird similarity between core operation between the two sides of the Ruined Wilds. The gardener didn’t have any more information for them, though.
+
+“If someone like me,” said Senna, “who has to get the stat bonus the normal way, how would that work with level differences?”
+
+“Good question. Let’s take that scenario again of someone at level 10 with a level 19 monster core. If you took a level 21 and a level 20 core to bring the average across all three cores to level 20, then since you are at level 10, it would grant 1 skill bump.”
+
+“But if they average to 29, it’s still just the 1 bump, right?”
+
+“Yes.”
+
+They thanked the ghost for answering questions, and Logan let Senna and Bromlin store the three other sclerag cores. It was only enough for them to make one skill draft, though, which Senna said with a loud sigh as she put on puppy dog eyes at the ghost.
+
+The ghost, still in a good mood, smiled coyly.
+
+“I don’t normally bother holding onto these since they do me no good, but I do have a few lying around… one moment.”
+
+She returned with a sizable supply.
+
+“Wow,” Logan said. “This is perfect! We’ll have enough to make potions for you two, and also Cassandra, Alden, and Mishki!”
+
+They wouldn’t know the levels until they had the right equipment to extract the essence, but there weren’t many low-leveled monsters on this side of the Ruined Wilds, which seemed promising.
+
+Logan thanked the ghost with a genuine grin.
+
+She smiled, too, but there was something more there. And in a good way.
+
+“Perhaps,” the ghost said, “you will truly bring back the Balance we’ve lost.” The ghost straightened, then folded in a small bow. “I respect you, Exalted Kin. My garden will be fine for now, but I believe you when you say you will come back to restore the balance.”
+
+Logan’s neck heated at the sudden show of deference, so he quickly returned the gesture.
+
+But they had elsewhere to be, and a time-defying trek through the Ruined Wilds before they got there.
+
+And, one more skill he wanted to test in battle.

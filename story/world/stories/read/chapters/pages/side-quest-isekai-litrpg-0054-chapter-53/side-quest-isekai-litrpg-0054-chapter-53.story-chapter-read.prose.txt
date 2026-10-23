@@ -1,0 +1,209 @@
+As the others struck a should-be-killing blow to the elite and triggered the 4:00 countdown again, Logan meditated for clarity.
+
+They needed to get out of here. A new Gnashridge Heights quest had appeared to discover what happened to “the other half” of the Adventurers’ Guild officers, but Logan and the others were stuck in the castle with two risen elites coming for them. Even if they found the other three ring-wearing gobles quickly, fending off five undead every minute with 1,000 health that were all resistant to physical damage just didn’t seem feasible at their strengths and limited number.
+
+They might be able to keep that one elite trapped in the rubble-strewn room, which Logan suspected might be dedicated to Symphony based on some ridging carved into the walls. Something about the grooves reminded him of the acoustic panels built into his high school’s auditorium.
+
+But even if they kept that elite contained, facing the four others would still be too much. Heck, a single one with a one-minute timer might be too much if they couldn’t charge their mana reserves in time, not to mention trying to advance through the castle.
+
+Logan reflected on his limited Kalashi brother lore paired with the castle layout. He knew of a room dedicated to Feast. He suspected the collapsed room connected with Symphony. Then there was the wooden contraption room, sandwiched between both those, but it wasn’t immediately clear which brother that might be linked to. He hadn’t even seen a shrine post there, so his whole theory might be wrong, though he doubted it.
+
+Silence had been stronger than both Ash and Symphony, and weak to Feast and Iron. That was part of the reason he worried about eating any of the Feast food at the banquet table. But if he had Silence’s bounty, would that give him an advantage over whatever secrets Symphony’s shrine post held?
+
+If it weren’t buried and inaccessible, he might know. Logan wished Alden had time to uncover the space so Logan could see if his Meditation had any effect on it, but the sheer quantity of rubble would take forever. Besides, even if they recovered Symphony’s shrine, that would free up the second risen elite.
+
+Perhaps Logan was thinking of this all wrong.
+
+Back when his biggest concern was herding chickens, he had discovered a stone-filled pit covering a sewer-like entry into the castle. Maybe they could head out that way? But the odd specificity from the Luvania quest, stating that all passageways no matter how small were locked up, probably included that exit.
+
+And either way, they still needed that second ring from the vat.
+
+Logan exited his trance with two and a half minutes left on the risen elite’s cooldown. Bromlin was at the ready with his axe, and Logan shouted down the corridor to Senna.
+
+“Senna, that elite is still stuck?”
+
+“Yep. She’s not going anywhere.”
+
+“Okay. I’m going to go back through Feast’s hall and sneak behind it into the room with all the wooden mechanisms to get the ring from inside the vat. Maybe we can at least return these two rings to Luvania upstairs. Maybe partial quest progression will help us somehow. I’m not sure if it will, but I can’t see anything else we can try without making these elites stronger.” He addressed the others. “Are you all okay here?”
+
+They nodded, so Logan darted down the passage to Feast’s hall, the dragon (What about Gilt? Hm, sounds too much like Guilty) gliding beside him. When Logan passed into the next hallway and entered stealth mode, his little unnamed friend alighted on Logan’s shoulder and hunkered low.
+
+Logan crept to the vat without drawing attention. Senna helped him by clanging a metal tool against stone and taunting the risen elite, keeping its focus on her.
+
+At the vat, the dragon flitted in a figure-eight by one side, drawing Logan’s attention to a symbol etched at the bottom of the vat: a bone laid across an open book.
+
+That was Famine’s insignia. The pieces were fitting together… but why wouldn’t Logan’s Analyze skill describe the vat like it had Feast’s banquet table? The only other time he had noticed something like this was how when some items were damaged beyond proper use, his skill didn’t register them.
+
+He walked the clay basin’s perimeter, still quiet.
+
+Stealth is level 19!
+
+Small cracks showed on the vat, but they were all minor and maybe an inch long.
+
+Except for one.
+
+While still only a thin hairline fracture, it spanned from the vat’s rim all the way to the floor and a small wetness seeped through it. The damage was clearly more than superficial if it went deep enough for the acid to seep out, but it wasn’t yet catastrophic. Maybe when the goble had fallen on the vat on her first death, she had caused this.
+
+He dared a glance at the risen elite. It grunted and kept running into the stone blockage. That thing really was dumb.
+
+Rather than tiptoe back through Feast’s hall, then through the intersection with Cassandra, Bromlin, and Alden, and then into the rubble-filled room just to talk to Senna, he went the short way. That room was next to this, after all, plus if he crept through the wooden constructs quietly...
+
+Stealth is level 20!
+
+Sweet.
+
+When he got as near as he dared without compromising his hiding spot, he caught her eye and waved his hand over his head. He wasn’t worried about the undead understanding his words, but it could hear noises. He pantomimed himself patching a hole.
+
+She just raised her eyebrow at him.
+
+He pointed urgently at the leaking vat, mimed scooping putty, then jabbed a finger at the vat again and made exaggerated smearing motions. She squinted, the finally lifted a finger for him to wait a moment.
+
+The dreadmaw beetle joint sac he recognized, but not the small bowl of gray powder she pulled from her storage bag. She cracked the joint sac over it, mashed it with a wooden rod, gave it a quick mix, and then lifted it up.
+
+He waved his arms to signal no and not to throw it, but she did anyway. The dragon leaped up from his shoulders, and only then did he realize she had been gesturing to his small golden companion, not him.
+
+The golden dragon lowered the muddled mixture to Logan, who stalked back to the vat and set to work patching it with the paste. The moment he sealed it, Analyze worked.
+
+Name: Basin of Famined AtonementType: ItemLore: The blessed shrine post of the Priest of Famine, this refinery vat will abolish impurities. Those who bear Famine’s blessing, or any blessing adjacent to Famine’s, will be immune from enemy-inflicted debuffs for [12] hours and will impart an affliction of 15% greater damage to evildoers upon physical contact.
+
+He didn’t stop there. He peered into the vat’s bubbling depths and then noticed the plated medallion with Famine’s insignia again, except in a bas relief. What looked like a spout jutted from its center, which Analyze labeled as the Keygate of Purity. Its lore explained that it handled the coming and going of unwashed filth.
+
+Logan turned away from that, though, and kept scanning until he found the ring. The rippling liquid had moved it closer to the keygate, like a discarded pool toy being drawn nearer to a drain, and just out of Logan’s reach. He would have to fully step into the vat to reach it.
+
+He shared a look with the dragon.
+
+“What do you think?” he whispered. “Should I go for it?”
+
+The dragon was supposed to be lucky, but that didn’t mean things got handed to Logan on a silver platter. It just meant he was more likely to find himself in fortuitous situations.
+
+The dragon didn’t seem to know, either, though.
+
+Logan shrugged and dipped a finger into the vat.
+
+You bear neither Famine’s blessing nor an adjacent blessing. Receive a blessing from Famine or his two brothers to access the sacred basin of Famined Atonement.
+
+Congratulations! You have learned a new skill!Acid Resistance (Rare), level 1+2 WILLore: Whether it splashed, dripped, or exploded in your face, you’ve survived your first taste of corrosive fun. Just remember, every time your skin melts, next time it’ll take a little more acid to ruin your day. Progress!
+
+Pain Resistance is level 39!
+
+He hissed and flicked the acidic droplets of his finger, biting his lower lip to keep from cursing aloud. The others had explained Rare skills should provide between 7 and 9 stat bonuses. Since he only received 2, he suspected the remaining boosts would have been allotted to Vitality. Apparently Logan lacked that stat and instead had Charisma, which was useless except in gnomes.
+
+Before he could mull over the notification about Famine’s two brother priests, though, the vat’s bubble increased to a loud, roiling boil.
+
+And that drew the risen elite’s attention.
+
+“So much for luck,” Logan said with a disappointed glance at the dragon, who merely chuffed indignantly.
+
+Null Pulse!
+
+Logan leaped to an ornamental cornice adorning the wall and sank his gauntlet into a wooden beam for added support. He felt like a gargoyle watching over the room. His cover was blown, so he no longer needed to be quiet. In fact, he used that to his advantage with the goble’s attention now locked onto him as it charged through the field of wooden structures.
+
+“Senna! Tell the others to join us over here. But not through Feast’s room. While I keep this thing’s attention on me up here, have them lure the first elite over here and then you all wait on top of that wall. We’ll still use it as a barricade, but this time we’ll keep both gobles stuck while we go as far as we can into the next room.”
+
+Below, the female elite growled with lifted arms, as if she could cover the 20-foot distance with her fingers. Logan had liked zombie movies back on earth, but not so much when it was real life.
+
+“Okay,” Senna said with a salute. “Did you get the ring?”
+
+“Not yet, but I think I know how. I’ll have to grab it quick, though, and I want us all to rush away together into the next room.” Back when he played DnD with his game night friends, there was always the rule not to split the party, which is something they had been doing a little too much of in here.
+
+Senna disappeared. A few moments later, a loud warcry from Bromlin signaled the re-defeat of the first risen elite, and the others came into view.
+
+“Great. Stay up there and get ready to help me bring this goble down so I can grab the ring. I’m not entirely sure this will work. If it doesn’t, get ready to climb high on the rubble heap until we figure this out.”
+
+To the dragon, he turned. “All right, buddy, stay close.” He opened his storage bag and pulled out something he had been holding on to ever since his first day in this crazy world.
+
+A glowing, dismembered finger.
+
+It stung him to hold it, but not as bad as he remembered it from when he had first ripped it off a wight’s hand. That had been the Wight of Radiance. Aside from his own Bounty of Silence, this index finger was the next best thing he had to any of the wights, and right now, he needed to access that basin.
+
+He also distinctly remembered Radiance defeating Famine. By that logic, if those two brother were opposed to one another, it sounded counterintuitive to the Basin’s description, which required the blessing from Famine or an adjacent blessing.
+
+But something clashed between the descriptions here in the citadel and those in the ceremonial chamber where he had encountered the wights.
+
+Here, everything Kalashi-related referred to priests and blessings.
+
+Before, though, it was all undead wights and curses.
+
+The Kalashi brothers’ entire purpose had been to work together to seal the Devouring Coil, but greed and power eventually turned them against one another. Logan suspected that the supposed strengths of one brother over another came from broken alliances. And if that was the case, Radiance’s power over Famine probably came from a broken alliance. And, hopefully, that meant he did indeed fulfill the adjacent blessing requirement to access the vat so Logan could grab the ring.
+
+He adjusted the glowing finger in his grip and…
+
+Null Pulse!
+
+Meditate!
+
+Logan shot from his high position directly across to the other side of the room, but everything slowed down with Meditate active. To get Null Pulse charged strongly enough to push him that far, though, he had needed to dump a fair bit of mana into it, and it was the most mana-expensive of all his skills. The moment his airborne dash placed him directly atop the vat, he chucked the finger. It flew in a somersault, nail over knuckle, and hit the center of the acidic surface.
+
+With only 100 mana left, he released his grip on Meditate and landed at another cornice on the far end of the room, still off the floor.
+
+He watched the vat for any sign of a change. Meanwhile, the finger bobbed on the surface, glowing like a tiny star.
+
+Come on, any moment…
+
+The finger started to spin clockwise. Slowly at first, then it built speed. Huh. He hadn’t expected that. Was the liquid safe to reach into now?
+
+Then it dipped below the surface, pivoting into a more vertical position, nail down. Just as the spout had drawn the ring toward the center, so too was it suctioning Radiance’s severed finger.
+
+It wasn’t what Logan intended, but as the finger neared the spout, it shook in a small swirl as if casting a spell until it came to a sudden stop when it clogged the keygate.
+
+Sharpshooter is level 13!…Sharpshooter is level 17!
+
+Okay, he definitely hadn’t expected that.
+
+The churning bubbles of the vat slowed like a jacuzzi turning off, and then the acid vat suddenly drained.
+
+But it more than drained. The entire bottom of it opened up into a slide.
+
+Logan shook his head. The risen elite lumbered toward them, and on Logan’s shout, Cassandra and Alden blasted it with rays of light and ice until it fell. Logan hopped off his perch, and the others climbed down into the room with him.
+
+“Where is that supposed to lead?” asked Alden, peeking over the emptied vat’s rim.
+
+“Uh, I don’t know,” said Logan. “But the ring just fell down there too.” This was starting to get a lot more complicated than Logan intended.
+
+To make things worse, the vat’s bottom panel began to iris close, like something out of an Indiana Jones movie.
+
+Then the dragon zipped into the hole.
+
+“Wait!” Logan shouted, but too late. “Well, guess we’re going in. We need that ring!”
+
+Bromlin yelled and jumped in before Logan finished. The others popped in one at a time, with Logan taking the last position just as the vat’s bottom sealed above him.
+
+He slid down the chute, which was filled with Bromlin’s and Senna’s thrilled laughter and Alden’s pained groan. A thin layer of acid wet the slide just enough to reduce friction, but it didn’t sting or improve his Acid Resistance, probably rendered harmless by Radiance’s contact with the liquid.
+
+Twenty feet straight ahead, the weird slide widened and ended in a gentle curve at a stone landing, beyond which was a brown hillside. The others suddenly slowed, still ten feet away from the landing, as if they had hit a wall of syrup. Logan blasted past them unhindered and tumbled into a sprawled heap on the cobbled tiles.
+
+He glanced backward and quirked an eyebrow at their slow-motion progress, but they picked up again at full speed and barreled into him, one after another.
+
+As they brushed themselves off and helped each other to their feet, Logan scanned the ground. He didn’t see Radiance’s finger anywhere, but the ring lay on the ground, wedged between two square floor stones. He picked it up.
+
+Quest updated! Gather Luvania’s Rings (2/5)
+
+Cassandra, meanwhile, peeked back up the drainage pipe, then turned to face the broad hillside. “I thought we couldn’t leave until we returned the five rings to Luvania.”
+
+Logan was just as confused, until the system prompt appeared.
+
+Transitioning into a new domain…
+
+Welcome to the Kural!
+
+“I think that was true,” said Logan, “of the exits leading back to The Fold. But… are we on the other side of the Ruined Wilds, now?”
+
+The brown hill sloped gently to a plain. At its base, a perfectly circular pond reflected picturesque clouds. And beyond that, a massive symmetrical conical mountain rose from the earth, surrounded by tidy rows of trees, five in each line, radiating from the mountain like sunrays. More circular ponds surrounded the mountain at evenly distributed points.
+
+“Huh,” said Senna, holding a purple stone in her hand. It was the Boundary-passing totem Logan looted off dead gobles and given to them after infusing them against the Void Sage statue. He had looted eight in total from the Cave of Cursed Music, plus one more from the female club-wielding goble who had fallen into the bottomless pit. That one he only had courtesy of Mishki who had disposed of the body, but not before grabbing the stone and giving it to Logan.
+
+When charged, these totems glowed until they were used to pass the Boundary. Right now, Senna’s was dull.
+
+Logan could pass the Boundary without the totems, but the others needed the assistance. They all took out their stones and sure enough, each one appeared spent. That explained why the others had slowed down during the sliding descent, which seemed to happen whenever they passed the Boundary.
+
+Logan checked his inventory. He had five stones left, one of which had been used up to convert from the Life affinity to the Void affinity. That left only four charged stones.
+
+He pulled them out. “I think we can only get you guys through the Boundary one more time.”
+
+“And I think,” said Alden, who appeared to be struggling not to scold Logan, “we have just gotten further from Gnashridge Heights.”
+
+Before they could discuss it further, a shrill cry pulled their attention to a weed-littered hedge, out of which jutted a ghostly head and half of a translucent torso.
+
+The spirit thrust a finger at them. “Intruders!”
+
+And it charged.

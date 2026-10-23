@@ -1,0 +1,135 @@
+Logan huddled with Cassandra, Senna, and Bromlin on a narrow ledge that jutted over an endless abyss. He wasn’t the only one casting sidelong glances at the massive serpentine corpse hanging limply from the metal orb.
+
+Just an hour ago, the ancient monster had been fused to that convergence orb, powering an ancient furnace. The same ancient furnace that a colony of gobles had used to wake it from its long dormancy.
+
+Now, though, the Devouring Coil was dead.
+
+Seven points of faint light glowed within the inky depths, where sigils had been etched into the mountainside. Each one represented one of the Kalashi brothers, who had apparently once been priests serving a dragon sage. The others knew little about the sages other than vague stories regarding the creation of the Boundary to keep the Fold safe.
+
+The eighth sigil remained shrouded in darkness.
+
+That one belonged to the Priest of Silence, but it was shattered. That had probably happened when Logan had chosen Silence’s bounty in a ceremonial chamber. And that chamber rested somewhere in the heart of the mountain that the castle was built into. The bounty improved his Meditate skill and allowed him to use multiple concentration-requiring skills at the same time, at the expense of increased mana usage.
+
+Those sigils below were used to defeat the Devouring Coil long ago, and Logan had used the ancient snake monster’s own strength against itself to power the seven other sigils. Then he had used his own connection to the Bounty of Silence to take the place of the broken sigil, defeating the ancient horror.
+
+Still, that didn’t make it any more comfortable to loiter on a crumbling stone lip of the former furnace room while Alden worked to clear the rubble blocking the only stairwell that led into the castle.
+
+Minutes ago, their precarious platform had been five times larger.
+
+“This ought to be simple enough,” Alden had said, channeling brown earth mana into his hands. The topmost stone shifted and tumbled into the abyss.
+
+That, unfortunately, triggered a cascade of smaller boulders, many of which broke away the bulk of the ledge beneath them. Logan considered using Null Pulse to leap to safety, but the force of the jump could knock the others into the pit, so he refrained.
+
+Arcane Attunement!
+
+Layers of visible mana unfolded before Logan. He had practiced the skill enough that the clashing, overlapping colors no longer made him dizzy. The furnace’s explosion had warped the area’s mana signatures. Back in Gnashridge Heights, when Mariv had explained how mana scarring worked, the gnome had told him that radical changes in mana quantities, whether in abundance or scarcity, could spawn monsters.
+
+Still, Logan didn’t want to rush Alden, who was now sweating through his clothes. A second stone rolled free. This time, Cassandra stepped in and locked a ward in place the moment it fell, preventing more debris from sliding loose and chipping away the remnants of their perch.
+
+“Okay,” Logan said after Alden cleared more space. “If Cassandra keeps her ward up as a safety net, we can enter the stairwell one at a time. As Alden gets further up, we can create a bucket line to carry down the stones he loosens.”
+
+They did so, with Alden in the lead to loosen one stone at a time, then pass it back to the rest of them to dump into the abyss. It reduced Alden’s mana expenditure and sped up the process.
+
+He let the others enter the stairwell’s safety before him. As he waited, he checked on the golden dragon curled against his chest beneath his tunic. It rested upside down, its scaled tail coiled like a possum’s around his neck. Occasionally, it adjusted its position, but otherwise it remained asleep.
+
+The little dragon had played a key role in guiding Logan’s attention to the Kalashi priest sigils. Just after hatching, it had darted between them with pulses of light. Apparently, that had tuckered the little fella out. Logan didn’t even know if it was male or female, or if it already had a designated name. Was he supposed to name it?
+
+It was gold and lucky.
+
+Maybe Jack. Short for jackpot. Or Sevens. I don't think these fit him, though.
+
+“You gonna help or just stand there?”
+
+Senna’s snark brought him back to the present, where there was now enough space for him too. He jumped the short gap into the stairwell.
+
+Soon after, they cleared the stairwell and emerged into a network of dim corridors. Footsteps softened as voices fell silent.
+
+Earlier, dozens of gobles packed the furnace room, and they had come from within the castle. Mishki, the team’s newest goble ally, had somehow stunned them all, but in the process suffered a grave injury. Avalyn the aerudine had flown up through the broken terrain to take him back to Gnashridge Heights for healing.
+
+That had all happened before the Devouring Coil was defeated. After Logan stepped out to face the entity and returned, the furnace room had been empty. The gobles had likely woken and retreated deeper into the castle.
+
+Danger could still hide anywhere.
+
+“You take the front,” said Alden. “I’m out of mana potions and need to recharge.”
+
+Logan led with Senna right behind. Bromlin guarded the rear in case of ambush, and Alden stayed just ahead of the dwarf while he recovered. Cassandra took the middle, ready to pivot where needed.
+
+As Logan rounded a corner, he almost stepped on a dark clump that lay within a hexagonal room. When he analyzed it, the label indicated it was a lootable goble elite.
+
+Lore: Once a proud, high-ranked warrior of the Howlhollow goble tribe, this elite entered into a blood pact with a warlock in return for enhanced strength. If the warlock died, the goble’s life would be forfeit, too, as a measure to ensure the warlock’s safety was the goble’s top priority. Seems it didn’t work out too well for either of them.
+
+Too bad he chose that path. It reminded Logan of the Greek myth of Icarus and how his pursuit of desires at the cost of all else led to his downfall.
+
+The items on the goble’s body included a half-eaten flan, a scimitar, a ruby-stoned ring, and a piece of parchment with handwritten scrawls. Logan tried to analyze the items from their slots within the elite’s inventory, but the skill didn’t work that way. So he removed the items one by one and placed them into his own gear bag.
+
+When he plucked the ring, though, the inventory access vanished before he could grab the scroll.
+
+Alden gave a pained sigh as a ruby mist rose from the floor. “What did you just do?” The red aura rose like fine dust being sucked into an invisible vacuum. It swirled around the goble’s body into a galaxy-like spiral.
+
+A notification flashed, but Logan was too busy gawking at the elite to check it. The green hand twitched twice and the entire body rose like a broom in Fantasia.
+
+Name: Risen Goble EliteType: UndeadLevel: 56Health: 200/0Mana: 0/0Lore: Sworn to serve another ever since first wearing the Ring of Soulbinding, this [Goble Elite] has been cursed by the ring’s removal. The conditions of the curse apply regardless of the wearer’s state of death or life when the ring was removed. As a punishment, it has lost all faculties and self-awareness and will wreak havoc on any nearby, only excepting the one to whom its fealty was once pledged.Strength: Enhanced physical resistances, Resuscitation [5-minute cooldown]Weakness: Mindless
+
+Even before it stood fully, it swung a meaty fist at Logan, striking his temple.
+
+An icon of a red swirl arrow flashed in Logan’s peripheral, indicating he had been afflicted with a condition called health drain. As Logan’s health points dropped by 40, the undead’s total increased by 20.
+
+“Don’t let it touch you,” Logan warned as he dodged a second swing. He was glad he had taken its weapon first, because that hooked blade would have dealt more damage than a simple bludgeoning fist.
+
+He stepped into an opening after the goble’s double swing. His Measured Touch trait gave him better hand-to-hand combat bonuses, and he quickly landed two strikes with his gauntlet. Just moments ago, the goble’s skin had looked normal, but now it tattered like parchment at his swipes. The attack did little, though, and there was no blood.
+
+As the risen elite swung and missed Logan again, a glowing flare appeared on the goble’s skull, though, as Cassandra cast her newest radiant skill, Luminous Rend, and branded the hairless undead. Against the undead, the skill hit harder, knocking the goble’s health to 50.
+
+Logan finished it off with a single flame-cloaked fist as he cast CryoPyre and stabbed the goble in the chest with his clawed gauntlet. Enhancing his strike with the magic coating did the trick.
+
+“Ha!” he said, grinning.
+
+The others gave him wary looks.
+
+“I’m just laughing ’cause it died from my flame fist hitting its solar plexus.”
+
+Silence.
+
+“Solar… because my fist was on fire… ?”
+
+“Logan, that was fire magic. Not radiant,” Cassandra pointed out.
+
+“The sun is fire.”
+
+“Maybe on your planet,” she said. “If that were true here, why do many radiant skills have solar in their name?”
+
+Hm, maybe she was right. Notifications awaited him, though.
+
+Gauntlet Mastery is level 14!
+
+CryoPyre is level 18!
+
+New quest available!Restore Life Sentinel Luvania by returning the five rings to her!The Life Sentinel Luvania fell into a dormant state after her five rings were removed and donned by five others. Yet one of the rings no longer has a wearer, which has released a fraction of Luvania’s spirit, now caught between her own body and that of the defiler. Until Luvania receives all five rings, her split spirit will imbue the treacherous villains who overran her and cause her to rampage. Recover the five rings and return them to the Life Sentinel.Rings collected (1/5)Accept quest?YES/NO
+
+Meanwhile, a timer hovered over the goble elite, counting down from 5 minutes, currently at 4:37.
+
+“Uh, I didn’t get a kill notification. Did any of you?”
+
+Everyone shook their heads.
+
+“You never answered me,” said Alden. “What did you do?”
+
+Logan explained how removing the ring reanimated the goble. He was a little annoyed to start off again facing yet another undead entity, much too near to the place as he had faced off against the Kalashi brother wights, but at least this time, it had only been one foe. Yet there were four more rings somewhere nearby. And probably four more corpses waiting for a second life.
+
+“We need to return to Gnashridge Heights,” said Alden. “Do not accept that quest.”
+
+Overhead, something crashed. It sounded several floors up.
+
+New quest available!Repair Luvania’s throne!Currently awakened as an ambling guardian, Luvania has unwittingly destroyed the very seat she must take to resume her protective guardianship! Until her throne is restored, every single access point between the Kalashi citadel and the Fold will remain closed. All of them. Even the smallest mouse hole.Accept quest?YES/NO
+
+Logan winced, and everyone groaned, apparently receiving the update too.
+
+Pending quests awaited them in Gnashridge Heights, and Logan checked his Quest Board. Reavers were attacking. Some of the quests were closed out as failed, while others showed various percentage completions without listing who had accepted it. That meant whoever was completing quests wasn’t an official member of the Adventurers’ Guild.
+
+Logan suspected that meant Razor and Mariv, considering they had summoned him specifically because of these invaders with System-defying levels above the 100 cap. The aerudine, who had been a prisoner down here, was probably involved too. Some quests had an urgent label, though, and Logan worried that even those powerful defenders weren’t enough to take care of everything at once up there.
+
+Logan wasn’t high-leveled himself, but he had promised to help Razor and Mariv. And even though his father’s voice chided him for setting himself up for failure, he wanted to honor his word.
+
+And until they addressed this Luvania situation, they were stuck.
+
+“Have any of you,” Logan asked, “heard the term speed run?”
