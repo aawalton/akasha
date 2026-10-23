@@ -1,0 +1,159 @@
+[Informative: Displaying Survival Tool equipment card now.]
+
+Talia shook her head. “My visor HUD is borked. Can you please read it?”
+
+[Affirmative: This unit strives to provide helpful information and task completion as User’s Neural Enhancement Operative.]
+
+She wasn’t sure if that was a hidden dig at her or not. Neo ran off a chip in her brain that utilized the neural network there to operate. But it was becoming obvious that this chip was defective, or someone had installed it wrong. He was way too snarky and obtuse.
+
+The bog-standard corporate chip she’d received as a child had never deviated from its dogmatic parenting mode. A shiver ran down her spine.
+
+[Equipment Acquired: Survival Tool]
+
+Description: A Multi-tool, a cornerstone of any explorer’s arsenal, has now been seamlessly integrated into your suit’s systems. Derived from advanced nanotech fabrication, it can aid in a wide range of tasks, such as scanning, construction, deconstruction, and resource acquisition. As an explorer venturing into unknown territories, it’s a piece of tech you’ll find indispensable.
+
+Usage: The Survival Tool operates on battery power, each battery affording you the potential to bend your environment to your will. Whether it’s building a shelter from alien materials or acquiring precious resources, your capabilities are only limited by your power supply.
+
+[Current Battery Status: 0 / 2]
+
+[Effect: Enables scanning, construction, deconstruction, and resource acquisition tasks.]
+
+She looked on the back of the multi-tool to see if there was a plastic pull tab blocking the battery from connecting. It was a futile hope. Of course the battery was completely missing.
+
+Surely a set of batteries would be standard with the fucking purchase?
+
+Despite the aggravation, she remained calm. Looking around the wrecked space inside the pod, she located a small container built into the wall. There was a flare gun, several single use chemical flares, a Medi-Gel cylinder, and a datapad with a checklist for preparing the survival pod. She’d thrown the datapad in the box when she had skipped going through it.
+
+A gnawing suspicion began to bite at her. “Neo, where are the batteries?”
+
+[Informative: Approximately three cycles ago, User reclaimed survival pod batt-pack in order to recharge a drained shipboard laser welder. No replacement pack was returned to survival pod emergency storage.]
+
+“Fracking hell! Why didn’t you remind me?” She asked.
+
+[Notice: Item #16 of primary ship maintenance tasks included survival battery replacement. User declined to run through this list 12 times in the previous two weeks.]
+
+It was her fault. Even though the ship had been designed to be as convenient as possible, she probably should have paid more attention to the maintenance tasks. The promised automation wasn't capable of everything, despite the considerable addition to the ship's price tag. There was no time to dwell on it now, though.
+
+Talia looked around the space for another way out. The guts and inside of the pod were nearly spilling out into the cabin compartment. Talia grimaced. There was hydraulic fluid dripping out of the space and forming a puddle on the floor.
+
+She didn’t really want to climb through the thick tangle of wires. “Neo, is there another way out of here? Or…is there any way that I can power my multi-tool without a battery?”
+
+[Informative: No other exits from survival pod detected. However, alternative power sources may temporarily power User multi-tool.]
+
+Making do with whatever was available felt like it was going to become a new recurring theme in her life. She glanced around the damaged pod, searching for anything that might work as a makeshift power source.
+
+“Neo, can I use any of these components or wiring to create a temporary connection between a different power source and my multi-tool?”
+
+[Informative: While not ideal or efficient, it is possible to create a temporary connection using scavenged parts from the survival pod’s systems.]
+
+Several of the severed wires she had located were highlighted in a fuzzy blue rectangle on her HUD. Checking them one at a time was required because she couldn’t quite determine which one Neo was highlighting because of the fuzzy display. Fixing her visor was going to be a priority.
+
+[Notice: Cortex Incorporated makes no warranty as to the suitability of the described use of these components or the safety of this ad hoc method. This procedure is not within the specified use of your Survival Tool or the scavenged parts. Potential risks include but are not limited to electrical discharge, damage to the Survival Tool, and injury or death of the user. Proceed with caution.]
+
+Talia groaned. “Oh, for frick’s sake. Spare me.”
+
+She jabbed the cables into the back of the tool where the two battery slots were, pushing it in so that the bare connection was squeezed against the contact plates. Now she needed a power source.
+
+The pod was mostly dead, except for the touch display that had been her primary source of light.
+
+“I’m not going to risk my suit power, so let’s hope this thing has enough amps.” Talia said. She grabbed a loose piece of metal and used it as a crowbar to pry the display out of the wall panel. Sparks flew unhappily, but the two power wires were exposed.
+
+It took a second for her to determine which was positive and negative, and then she pressed the cables together.
+
+There was a cheerful electronic chirp. The only problem was if she let go of the wires, it would lose power. “Why doesn’t it have a built-in battery? How much did this cost?”
+
+[Informative: A built-in battery is not included due to safety and reliability issues. Cortex promotes its disposable battery units as an optimal choice when survival is concerned.]
+
+“I bet the premium model has one.” Talia shot back. She finally found an awkward position that let her aim the multi-tool while keeping it powered. Pointing it at the hatch, she pulled the trigger.
+
+A yellow laser lashed out, sending a blinding array of sparks to pelt at her suit. She let go immediately. “Neo!”
+
+[Recommendation: User should scan objects to determine manipulation options of the currently targeted object. Otherwise, survival tool will revert to basic firearm setting.]
+
+A thousand sarcastic replies bubbled in her mind. “Great. At least if I get startled, it will fry the hungry alien instead of asking what I want to do.”
+
+[Notice: Suit multi-tool is meant for survival scenarios only. A verbal release from user is required for any usage on living lifeforms.]
+
+Talia bit back a quip and fumbled the tool back into position. It took her a few more seconds to realize how to activate the scanning function with her thumb. Two green bars spread out in a triangle, waving back and forth as they crisscrossed against the pod’s hatch for several seconds.
+
+The entire hatch suddenly became fuzzy as her distorted HUD highlighted it.
+
+| Object: Survival Pod Hatch |
+
+| Status: Jammed |
+
+| Materials: Reinforced Durasteel |
+
+| Locking Mechanism: Mechanical |
+
+| Power Source: Unpowered |
+
+| Operational State: Unresponsive |
+
+| Suggested Action: Apply Deconstruction |
+
+“Very detailed.” Talia commented flatly. Too detailed for a simple hatch, in her opinion. Tired of being stuck in the cramped space, she thumbed the settings to deconstruct and pulled the trigger.
+
+A blue beam shot out, enveloping the stubborn hatch in its glow. Glowing blue particles of Durasteel began to float off of the hatch into the air, before being sucked into the tool’s nozzle. As she continued to hold down the trigger, the growing heat from her makeshift power connection began to stab at her fingers.
+
+Progress was slow, but eventually the hatch had completely disintegrated.
+
+[Notice: 12x Durasteel and 4x Refined silicate capsules have been acquired. Excess material has been discarded. Please utilize a NCS container to empty storage buffer.]
+
+Talia realized she wasn’t going crazy. The tool had grown heavier in her hand during the operation. Two blackened patches sent small trails of smoke into the air as she pulled her fingers off the power connection.
+
+The lights of her device winked out immediately, allowing two hexagonal chunks of heavy material to fall out of an open underslung port. They clattered onto her hard-toed boot with a clang.
+
+She let out an annoyed breath. “Frick! Why didn’t you warn me?”
+
+[Informative: Upon power loss, magnetic material interlocks will release any stored materials from tool buffer. It is recommended to utilize standard NCS canisters to store material in a compressed state to save space and reduce mass.]
+
+Talia rolled her eyes. “Yes, thank you. I’m not carrying this chunk of metal in my hands. Have one handy?”
+
+[Notice: No NCS canister has been detected present in survival pod wreckage. However, multiple units would be inside the Cortex-31’s workshop.]
+
+She shook her head. “That’s destroyed, remember?”
+
+[Alternative: NCS storage module and canisters are part of the Cortex bootstrap module that User ejected from the ship during atmospheric entry.]
+
+The yellow light entering the interior invited her out to examine the surroundings around the pod. A long divot of dirt and smoldering sand showed where the pod had plowed across the ground for a considerable distance.
+
+Much to her dismay, it appeared she was in one of the rocky areas, and if the pod had continued much further, they would have gone right off a craggy cliff that dropped at least one hundred meters.
+
+Below, a wide, winding river of blue shimmered in the distance, surrounded by green vegetation that looked so dense it could be impenetrable. In the opposite direction, down the more gradual slope, a vast expanse of tanned sand and rocks was even less appealing.
+
+The air in her suit suddenly turned hot and dry. A slight panic hit her. “Neo, did you switch me to atmosphere?”
+
+[Informative: Suit Oxygen levels have reached zero percent due to leakage. Suit air filtration unit is now in operation, as atmosphere has detected trace biological contaminants that could be harmful to User.]
+
+Even she knew you weren’t supposed to breathe alien air without serious testing…and after serious research and development of inoculations against a specific world’s viral flora. But it didn’t look like she had much choice and she’d have to hope that the corporate goons hadn’t skimped out on her suit’s filtration system like everything else.
+
+Talia scanned the horizon. “Where’s our modules?”
+
+[Informative: Communications, offline. Navigational services, offline. Science module location, unknown. Colony Bootstrap module location, unknown.]
+
+She grumbled about useless computers while peering harder. The damage to her visor made it annoying to see very far, and she had to tilt her head to get a clear view. There was a line of small smoking fires that seemed to make a wide line far to the northeast. Turning to the southwest, a thick plume of black filled the distant horizon.
+
+“Well, I’m guessing that’s where the ship landed.” She mused.
+
+Neo didn’t reply. She checked the new contents in her pockets and turned to head down the dune of sand and toward the nearest small fire, hoping that it would be something useful.
+
+| Name: Talia |
+
+| Suit AI, NEO: Level 1 |
+
+| Health: [90% (Feeling unwell)] |
+
+| Oxygen Level: [0% (Switched to atmospheric filtration)] |
+
+| Suit Power Level: [87%] |
+
+| Hazard Protection: [100%] |
+
+| Nutri-Paste Reserve: [100%] |
+
+| Suit Upgrades: [ [Survival Tool] |
+
+| Inventory: [Survival Ration Bar (x3)], [Flare Gun], [Single Use Flares], [Medi-Gel Cylinder], [Datapad] |
+
+| Control-Link: [No Connections] |

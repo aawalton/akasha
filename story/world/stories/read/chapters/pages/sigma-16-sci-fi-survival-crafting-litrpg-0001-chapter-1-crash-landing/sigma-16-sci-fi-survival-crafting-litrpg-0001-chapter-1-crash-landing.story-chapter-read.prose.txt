@@ -1,0 +1,187 @@
+An alarm klaxon jerked Talia awake and out of her bed. She nearly tripped on the clothes she’d discarded on the floor the night before. A litany of energetic curses filled her quarters as she pulled on a form fitting ship-standard skinsuit.
+
+Her corvette was only a four-person exploration unit, so she did not have to run far to reach the ship’s heart. She was running solo and there was no one to answer the alarms but her. Warning lights filled the cockpit with an angry red as she slid into her control seat. Her fingers flashed rapidly over the command console’s keyboard as she silenced the wailing alarms.
+
+“What the fracking hell is this?” Talia asked as a sea of red warning symbols filled the screen, hinting that something was far more wrong than a simple proximity alert or malfunction.
+
+[Warning: Complete systems failure has occurred. Atmospheric entry will occur within five minutes.]
+
+This was not fine. Everything had been operating normally when she had gone to sleep, and a simple orbit should have been impossible for the ship’s brand-new AI to fuck up. “Neo! This is not the time to be joking!”
+
+[Recommendation: Activate emergency survival protocols and prepare for crash landing.]
+
+Talia’s eyes went wide as she read the alert message. “This can’t be happening...” she whispered to herself. She tried to override the system, hoping to regain control and at least stabilize the ship’s descent, but it was futile.
+
+An ETA appeared on her console, but she wasted an entire minute out of five trying to bring the ship back online.
+
+[Notice: User survival chance has declined by 23% due to inefficient time management. Please proceed to Cortex-31 survival pod and initiate emergency abandonment procedures.]
+
+Death. She was going to die.
+
+Panic struck like a whip. Her heart raced as she bolted from the bridge. Every second wasted was a tragic loss and her curses re-directed towards herself for wasting precious time.
+
+She sprinted straight to engineering, a claustrophobic room full of equipment and offline fabricators. She ripped open her EVA suit locker and began fitting the equipment over her skinsuit. The designers had streamlined the process to put it on, but it still took nearly two minutes before her helmet visor lit up and confirmed that a full protective seal had been established.
+
+[Warning: Two minutes until catastrophic ship failure.]
+
+Rushing toward the rear of the compartment, she grabbed a survival tool and locked it into her thigh holster. The bulkhead door groaned as it cycled.
+
+“Come on! Open!” Talia shouted at it in frustration.
+
+Glancing through the compartment, she noticed two large levers. “Neo, eject ship modules 3 and 4!”
+
+[Notice: Mechanical safety interlock release required before module ejection can be performed.]
+
+She was already there, throwing her entire body weight down onto the heavy steel levers to disable the interlocks. She’d never expected to have to use them, and the first one resisted for several seconds before slamming into the floor. A heavy clunk reverberated through the ship.
+
+[Informative: Module mounted in bay 3, ejected successfully.]
+
+Talia screeched as she pulled on the second lever. It finally budged and a second clunk sounded. With no warning, the floor became the ceiling, and she smashed against multiple surfaces in a tumble before regaining her feet.
+
+“Neo!”
+
+[Notice: Cortex-31 anti-gravity plate failure. The ship has reversed orientation. Catastrophic failure estimated to occur within 59 seconds.]
+
+She grabbed a handhold. There wasn’t enough time to think! There were countless things she needed to bring with her, but there was no time.
+
+The engineering bulkhead door had finished cycling at some point and she hurried through the upside-down ship toward the rear.
+
+The reactor sent wild sparks as she passed by the glass containment window. Burst pipes in Hydroponics spewed water in every direction, flooding the space and causing short-circuits everywhere. Her shockproof suit protected her, but she jumped over the puddles forming on the ceiling just to be safe.
+
+She forced herself to ignore the jostled bins in storage, although she snatched a fistful of survival ration bars and a Medi-Gel pack that thrust themselves into her path.
+
+[Notice: Catastrophic failure has occurred.]
+
+Talia’s eyes flickered to the ETA counter. It had hit zero; thirty seconds early!
+
+“You said a minute!” She hissed. Flames dramatically filled the survival pod’s chamber, turning it into a hellish furnace that licked at her suit as she struggled forward.
+
+[Warning: Suit Environmental Protection energy levels dropping. Thermal resistance level has been surpassed.]
+
+It was impossible to wipe away the sweat forming on her forehead. Groaning metal heralded the ceiling exploding outward, allowing bright yellow sunlight to flood into the compartment; or was it the floor?
+
+Her spatial orientation had long disappeared, nothing made sense and her only thought was to reach the pod. She almost reached it, but it was hanging above her further than she could reach, the hatch already open.
+
+[Informative: Survival Pod reached. Activating launch sequence.]
+
+Neo’s announcement was like a blow to her lungs. “I’m not inside!” She screeched in protest. The hatch started to close, bringing it slightly closer. She crouched, then sprang upward with all her strength, barely grabbing hold of the frame.
+
+Rather than crush her wrists, it paused its descent. Or ascent. Things were so FUBAR she wasn’t sure what was up or down any longer.
+
+[Warning: Obstruction detected, please remove any obstructions from survival pod hatch.]
+
+Frustration bubbled out. “I should have bought a Carl, you piece of shit!”
+
+With a burst of effort, she swung her legs back and forth. She’d always stayed in shape, but the suit added bulk and weight and turned what should have been easy into a struggle.
+
+Talia failed to make her jump, because suddenly gravity reversed again, dropping her straight into the pod. The hatch slammed shut behind her with a heavy clank. Before she could recover, a thruster ignited, blasting the pod away from the corvette.
+
+Not willing to surrender, Talia grit her teeth and fought against the acceleration long enough to slide into a seat. An emergency strap fell from the ceiling, and she clicked it into place.
+
+Her suit’s HUD flashed a dozen different warnings, and she realized there was a large hairline crack running through her visor.
+
+[Notice: Catastrophic failure has occurred. Connection to Cortex-31 has been lost.]
+
+Red light flared in through the tiny porthole in the pod’s hatch. Talia felt the urge to comment but could only breathe as she caught her breath.
+
+[Interrogative: This unit is equipped with an advanced emergency survival program. Would you like to activate it now?]
+
+“YES!” Talia said.
+
+[Notice: Emergency survival program has not been purchased. Defaulting to standard survival mode. Please see your nearest Cortex dealer for upgrades.]
+
+She was too exhausted to feel the betrayal or surprise. A monitor in the POD flickered to life, displaying a visual of her ship. Fire licked at its bottom as it plunged through Sigma 16’s atmosphere.
+
+Its nose turned a brilliant yellow before bending backward as melted metal succumbed to pressure. Components and hull plates were ripped off savagely, flinging themselves into a growing cloud of fiery debris spreading out far behind the ship.
+
+[Update: Ship Status has been successfully updated. Please review the relevant data.]
+
+| Ship: Cortex-31 |
+
+| Class: Exploration Corvette |
+
+| Status: Crashed |
+
+| Weapons: Destroyed |
+
+| Defense Field: Destroyed |
+
+| Workshop: Destroyed |
+
+| Hydroponics: Destroyed |
+
+| Communications: Destroyed |
+
+| Tertiary Systems: Destroyed |
+
+| Science Module: Ejected |
+
+| Bootstrap Module: Ejected |
+
+[Recommendation: Begin repairs immediately.]
+
+“Neo, you are a bowling ball of sharpness! We haven’t even finished crashing yet!” Talia replied.
+
+[Notice: This unit apologizes for the confusion. Ship Status has been updated.]
+
+| Ship: Cortex-31 |
+
+| Status: Crashing |
+
+“Oh, thanks. That’s soo much better!” It was impossible to turn her head, so she was forced to reach out against the g-forces and press a key on the pod’s monitor. It switched to a view of the terrain below.
+
+They flew over a sea of sand broken up by the fingers of hundreds of different rivers, creating swaths of pockets of untamed greenery. Massive lakes sat in deep bowls, surrounded by protective hills of rock and thick canopies.
+
+In the distance, a mountain range grew larger, and she feared that if they continued on course, they’d smash into the side of a cliff.
+
+That fear proved unjustified as the atmosphere thickened rapidly, cutting the pod’s velocity at a tremendous rate. That pressed her harder and harder into her seat.
+
+A redundant warning sign appeared on her cracked visor, warning her of high-Gs. The pod’s descent arc curved downward, but as the vehicle’s descent thrusters activated, she blacked out.
+
+Electric crackles woke her. She pushed a dislodged ceiling panel off her lap and released her safety harness. The world had stopped shaking and roaring, and an annoying tinnitus filled her hearing.
+
+The crack on her visor caused her HUD to continuously flicker and distort. Talia groaned as she stood up. “Neo?”
+
+Nothing but ringing greeted her, and she realized that at some point her hearing had been damaged. Reaching into her front suit pouch, she pulled out her plastic cylinder of Medi-Gel and slid it into her forearm bracer.
+
+The blue liquid rapidly plunged itself, sending the liquid into her suit. A cool sensation began to spread through her entire body. The tinnitus suddenly morphed into the sound of smoldering and crackling fires nearby.
+
+“Neo?”
+
+[Informative: This unit suspects that medical assistance has restored user hearing. In the future, User is advised to read messages displayed on visor HUD if hearing loss occurs.]
+
+“My visor HUD is borked. Please, can you read out my status?”
+
+| Name: Talia |
+
+| Suit AI, NEO: Level 1 |
+
+| Health: 100% |
+
+| Oxygen Level: 88% |
+
+| Suit Power Level: 87% |
+
+| Hazard Protection: 100% |
+
+| Nutri-Paste Reserve: 100% |
+
+| Suit Upgrades: [Survival Tool] |
+
+| Inventory: [Survival Ration Bar (x3)] |
+
+| Control-Link: [No Connections] |
+
+Talia’s eyes narrowed. “I don’t think you’re reading my health correctly. I feel like shit.”
+
+Neo didn’t respond, leaving her to rummage around the wrecked interior of the pod. The hatch was stuck. “Frack.”
+
+Images of the pod becoming her tomb filled her imagination for a moment as she failed to unjam it. “Neo, how can I get this open?”
+
+[Recommendation: Utilize user [Survival Tool]. A tutorial is available upon request.]
+
+Talia reached down to her thigh holster, and her survival tool clicked into her palm obediently. “Nothing to it.”
+
+She pointed it at the stubborn hatch and pulled the trigger. Nothing happened. She pulled it again. Click. Click.
+
+“Neo. Play Survival Tool tutorial.” She said flatly.

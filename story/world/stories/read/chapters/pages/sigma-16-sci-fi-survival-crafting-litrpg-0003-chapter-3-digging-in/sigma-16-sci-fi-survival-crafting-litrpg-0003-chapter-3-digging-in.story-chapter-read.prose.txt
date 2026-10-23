@@ -1,0 +1,237 @@
+Talia trudged down the sandy slope as she made her way towards the nearest wreckage site. Her boots sank into the sand with every step, costing her more effort to stay upright than was fair. Going downhill was supposed to be easier.
+
+The sun beat down on her even though it was nearing the horizon. Her suit’s cooling fought back with determination, but an additional power drain wasn’t welcome.
+
+The heat told her just how hot noon was likely to be on the planet. The dry alien air tasted and smelled funny, adding to her discomfort. She only had Neo’s word that the filtration system was good enough to protect her and she had crossed her fingers that maybe they’d find a fresh oxygen tank in the debris.
+
+Neo remained silent as she grumbled to herself the rest of the way. The smoking fire was coming off a hull plate. It was still glowing red after landing on top of some type of cactus looking plant. It wasn’t actually on fire, and she almost felt bad for the plant that was slowly being charred to death by the dismantled part of her ship.
+
+“Sympathy for alien plants. Frick, I’m high or something,” Talia muttered.
+
+[Informative: Empathy, even for exotic flora, can be considered a useful and beneficial trait of socialized behavior.]
+
+She glanced around the area. There wasn’t anything else that she could see, but her damaged visor made that challenging and annoying to determine. Especially further than about fifty meters. The fuzzy HUD was actually causing more problems than helping.
+
+“Neo, turn off the suit HUD, please. It’s not helping. And any idea if there’s anything more useful nearby?” Talia asked.
+
+[Analysis: More wreckage has been detected approximately 300 meters to the northeast of your current position. This unit advises investigation of that location.]
+
+Talia nodded and left the cactus to its charred fate. The ground leveled off and was mostly flat as she avoided the subtle dunes of sand as she followed Neo’s directions. She was going in the opposite direction of the Cortex’s likely crash location, but she needed to collect what she could before considering the longer trek that journey would require.
+
+She almost missed the crate half buried in the sand, only finding it because she literally tripped over the damn thing. It was a standard ship container. The cog and wrench of engineering painted on the uncovered side filled her with anticipation.
+
+The sand refused to give it up to her when she tugged on it, though. With the lid literally buried in the ground, she had no choice but to dig around it. The sand was easy enough to move with her hands, but each time she made progress, her excavation collapsed.
+
+Looking around, she spotted some flat panels. Several were still red hot, but she found one that wasn’t a dangerous-looking shade of red. Armed with a useful piece of metal, digging progress sped up considerably.
+
+It still took her nearly thirty minutes to uncover the rest of the container. She focused her efforts on one side, and once there was enough space, she sat down and used her feet to kick the container over. That got it out of the hole, and it was easy to push it a second rotation so it was standing up on its side.
+
+It was locked, but she had the key. Two bashes with the metal panel and the lock cracked. She pulled it off and threw it over her shoulder. Anyone dumb enough to trust a Masterblock was going to have their stuff stolen by anyone determined to get in.
+
+The only reason she’d not changed them was because half the time she locked herself out of things and needed to get into them.
+
+“Let’s see what we got.” Talia mused. The crate’s lid came off and a thrill of excitement flooded through her as she saw what the first box was: a battpack array. Underneath it was a small folding solar panel array. That was already far beyond her meager expectations, so the boxed fabricator at the bottom was icing on top of the cake.
+
+There was no way she could carry any of it.
+
+“Fuck. Why doesn’t the suit come with an exoskeleton?”
+
+[Informative: Cortex Incorporated currently offers exoskeleton upgrades for User’s current suit model.]
+
+[Equipment Upgrade Offered: Suit Exoskeleton Enhancement]
+
+Description: Cortex Incorporated is proud to present the next step in field survival technology. By infusing your suit with these state-of-the-art augmentations, we’ll supercharge your physical capabilities. Navigating harsh terrains will become a stroll in the park, predators will marvel at your speed, and any obstacle will seem trivial.
+
+Usage: Seamless integration ensures the Exoskeleton Enhancements are as much a part of you as your suit, no additional resources necessary. Embrace the edge it provides with every step, every climb, and every engagement.
+
+[Effect: With this integration, expect your physical abilities to receive a considerable boost.]
+
+Talia grit her teeth. “Yeah, sure, Neo. I’d looove to purchase it. Hand it over.”
+
+[Notice: No connection to Cortex Incorporated dealer is available. Please establish an account to confirm purchase of Suit Upgrade technology.]
+
+“That’s my point! It’s not helpful taunting me with things I can’t have!” Talia said. She knelt and carefully examined each piece of equipment - the battpack array was huge. Too heavy to carry.
+
+[Equipment Acquired: Battpack Array]
+
+Description: Behold the Battpack Array, an industrial-grade power storage unit brought to you by Cortex Incorporated. Equipped with an impressive multitude of slots, this powerhouse can stockpile vast amounts of energy. Though its formidable size may present challenges in portability, it guarantees a reliable cache of batteries whenever you need it.
+
+Usage: The Battpack Array provides ample power storage for all your adventuring needs. However, due to its weight, it may be challenging to transport. Strategically deploying this piece of equipment could make it a lifeline in your survival endeavors.
+
+[Current Battery Status: 50 / 50]
+
+[Effect: Provides power for various equipment and tools.]
+
+Her eyes flickered to the large grid containing fifty batteries each in their own individual cell. A few seconds later, she confirmed her hope; they were removable. She opened several of the slots and pulled out the smaller batteries.
+
+Two went into her multi-tool, which beeped and lit up a happy green. Another half dozen went into her pockets. There were already two in her suit, and she suddenly realized an earlier mistake.
+
+“I could have pulled one of these earlier!” She hissed.
+
+[Affirmative: Although disconnecting secondary power source for suit would be a hazard, the temporary danger would have allowed the multi-tool to function in a safe and effective manner.]
+
+She sighed. “Neo, we need to upgrade you first.”
+
+[Informative: Upgrades for NEO are available.]
+
+“Shut up. Later.” Talia spoke before he could begin to recite any more sales pitches.
+
+The small folding solar panel array was also a significant find; if she could set it up somewhere with ample sunlight, she’d have a renewable source of energy to recharge her batteries. And everything she had seen so far told her that there would be plenty of sun.
+
+[Equipment Acquired: Folding Solar Panel Array]
+
+Description: Introducing Cortex Incorporated’s Folding Solar Panel Array, a compact, renewable power solution for the eco-conscious explorer. Harness the abundant energy of starlight to power your adventures, reducing your reliance on consumable power sources. Portable and resilient, this is an essential item for those venturing into the unknown.
+
+Usage: Simply unfold the array in an area with ample sunlight, and watch as the star’s rays are converted into usable energy. A handy companion for charging batteries or other electrical devices, the Folding Solar Panel Array is an explorer’s ticket to sustainable survival.
+
+[Effect: Provides a renewable source of energy.]
+
+The fabricator was the heaviest and most cumbersome item in the crate - too heavy for her to carry without some kind of assistance or transport device. It would have to stay where it was until she found a way to move it.
+
+[Equipment Acquired: Fabricator]
+
+Description: Welcome to the pinnacle of survival resource management: the Cortex Incorporated’s Survival Fabricator. This advanced piece of machinery uses cutting-edge technology to convert raw materials into usable items. With this, you can create essential survival items, provided you have the necessary resources.
+
+Usage: The Fabricator can convert a wide variety of resources into useful items. However, due to its weight and size, it requires a permanent or semi-permanent location to operate efficiently. It’s an invaluable tool in crafting necessary survival gear.
+
+[Effect: Enables the production of items from raw resources.]
+
+Talia sighed. “I don’t think this place would make a good base, so we are going to have to figure out some way to move these things later.”
+
+[Affirmative: As stated in Cortex’s Premium Tutorial, establishing a base of operations in a survival scenario is an essential element of long-term survival planning.]
+
+Talia hissed. “You didn’t give me a ‘Premium’ tutorial!”
+
+[Notice: User did not purchase an advanced Cortex Incorporated survival package. Standard help and equipment tutorials are still available.]
+
+She rolled her eyes. As soon as she had a working programming bench, she was going to jailbreak Neo and delete every single adware CI had included in his install.
+
+“That’s alright. I’ll figure it out.” She said. She stood up and scanned the horizon for any threats or other nearby smoke plumes, but the crack in her visor continued to interfere. Now that she had power, fixing her suit suddenly became priority number one.
+
+“Now that my multi-tool works again, can I use it to fix this annoying crack in my visor?” She asked.
+
+[Informative: User multi-tool contains suit repair functions; however, raw materials are required.]
+
+[Recommendation: Perform a self-scan via User survival tool.]
+
+Talia complied, pointing it at her face. She hesitated before pulling the trigger, though. Things were screwy enough that she didn’t want to blast her helmet off with a hot laser discharge. Redirecting her aim at a rock, she made sure the multi-tool was set to scan.
+
+| Rock |
+
+Satisfied it was working properly, she scanned herself as directed. The green scanning lasers began to play over her rapidly, and she had to close her eyes when it reached her face.
+
+[Warning: Direct optical exposure to scanning lasers has been known to cause long-term vision damage in certain users.]
+
+“Thanks. I got that,” Talia replied. A few moments later, an electronic chirp indicated the scan was finished.
+
+| Name: Talia |
+
+| Suit AI, NEO: Level 1 |
+
+| Health: [90% (Feeling unwell)] |
+
+| Oxygen Level: [0% (Switched to atmospheric filtration)] |
+
+| Suit Power Level: [100%, [Batteries (x2)], Recharged by Battpack Array] |
+
+| Hazard Protection: [100%] |
+
+| Nutri-Paste Reserve: [100%] |
+
+| Suit Upgrades: [Survival Tool, Charged] |
+
+| Inventory: [Survival Ration Bar (x3)], [Flare Gun], [Single Use Flares], [Medi-Gel Cylinder], [Datapad], [Batteries (x8)] |
+
+| Located Equipment: [Battpack Array], [Folding Solar Panel Array], [Fabricator] |
+
+| Control-Link: [No Connections.] |
+
+| Suit Integrity: Compromised. Requires Durasteel (x6), Refined Silicates (x2) for repair. |
+
+Listening to Neo spout off the last line made her groan. “Of course. The hatch was made from that. I have to hike back up the hill?”
+
+[Informative: While User has already acquired resources previously during survival pod egress, alternatives exist. Recycling User’s [Folding Solar Panel Array] and [Fabricator] would provide the necessary resources in abundance.]
+
+“Sure, let’s just zap the good things we found. I’m sure they grow on trees here.” Talia quipped.
+
+[Notice: User should aim multi-tool towards—]
+
+“Sarcasm! Shut up Neo. Let’s go.” She stood up and began to trudge up the sandy hill.
+
+Going up the sandy hill was much, much worse than going down. Her previous grumble seemed childish. The sun dipped even further toward the horizon and as she reached the plateau where the Pod had come to a rest, she paused. The colors of the sky were a mixture of deep purple and pink hues that melted into a yellow-orange display.
+
+Somehow, the colors played over the jungle-lined rivers in ways that played with her eyes. Long shadows had begun to form behind rocks and trees.
+
+It would have been her first breathtaking sight on the unexplored planet.
+
+Except her visor was still cracked. Grunting, she trudged the rest of the way to the still smoking pod. It only took a few seconds to locate the two hexagonal containers that contained the material she needed.
+
+| 12x Durasteel |
+
+| 4x Refined silicate |
+
+She scanned them with her multi-tool. It beeped a confirmation and then she deconstructed them again. The light from the blue beam lit up the inside of the dark interior while the material slowly dissolved into the tool. Then she aimed it back at herself. The scan repeated, this time giving her an option.
+
+| Repair suit? Y/N. |
+
+She continued to hold down the trigger while confirming. This time she was fast enough to close her eyes before getting an eyeful of tool-light, but she could still see bright blue through her closed eyelids. A few seconds later, the process was done.
+
+[Informative: Suit repairs complete. User is to be congratulated on their quick thinking and resourcefulness. Would User like to look at other items that might help their progress?]
+
+“Are those items inside the pod, or are you literally turning into a sales blurb for a company that isn’t even present on this dirt ball?” Talia asked flatly.
+
+[Interrogative: Suit repair has been completed; would you like to reboot system HUD?]
+
+“Yes, please.” Talia replied.
+
+Her HUD suddenly became crystal clear, with no fuzziness or distortion. Translucent bars worked their way from left to right as various systems came online before the display finally settled.
+
+As she looked around the interior of the Pod, the lighting in the room shifted slightly as everything became a little brighter. A marker in the corner lit up indicated the suit had entered low-light enhancement mode.
+
+Talia breathed a sigh of relief. Now she just needed to figure out if there was anything left in the Pod worth taking with her. Glancing down at her multi-tool, her HUD lit it up in a shade of green before displaying several important statistics.
+
+[Multi-Tool]
+
+| Power Level: [98% (Batteries x2)] |
+
+| Durability: [99%] |
+
+| Tool Level: Basic |
+
+| Total Capacity: 8/100 |
+
+[Contains]
+
+| Durasteel x6 |
+
+| Refined Silicates x2 |
+
+The display was useful, but it made her wonder how much power the tool was using to keep the resources compressed. Plus, there was a slight but noticeable increase in the tool’s weight. Not enough to hinder her, but what if she filled it to 100/100 with steel? Maybe a chest holster would have been more appropriate.
+
+“Neo, can we make some of those NCS canister things for storing the resources?” Talia asked.
+
+[Informative: A functional fabricator is required to manufacture NCS containers and other advanced items.]
+
+She looked around the pod’s interior one last time, looking for anything that could be useful but turned up nothing. Stepping outside, dusk had arrived. Her suit’s low-light amplification kept everything visible.
+
+Turning back toward the Pod, she aimed her multi-tool at it and activated the scan function, wanting to know what resources it would turn into if recycled.
+
+[Survival Pod]
+
+| Durasteel: 148 |
+
+| Refined Silicates: 72 |
+
+| Advanced Alloys: 56 |
+
+| High-Conductive Material: 30 |
+
+| Fusion Cells: 12 |
+
+Talia released a low whistle at the scan results. The pod was not only her lifeboat but also a treasure trove of resources. The only problem was it was way more than would fit inside her multi-tool. She’d need to get the fabricator working first.
+
+It annoyed her she’d need at least one more trip back up the hill to retrieve the Pod’s contents, but there was no use in complaining about it. The trudge down the hill seemed faster the second time.
+
+When she reached where she had left her crate of goodies, her heart skipped a beat.
+
+The crate, and its contents, were gone!

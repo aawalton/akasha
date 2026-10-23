@@ -1,0 +1,167 @@
+Talia watched for any sign of the spider-aliens returning, but the cavern settled into a quiet that left her listening to just her suit’s atmospheric systems. The glowing minerals lit up the cave, but she was more interested in how to protect herself and her crate than in investigating the aliens.
+
+“Neo, how the fuck are we going to carry the crate out of here?” she asked.
+
+[Analyzing: Given the size and weight of the crate, manual transportation would be inefficient and potentially hazardous.]
+
+Talia groaned. “Yes, I knew that already.”
+
+[Recommendation: Given the strength of local fauna, as shown by their ability to move this crate, it may be possible to utilize them for transport.]
+
+“Use…use those spider-creatures?” Talia repeated back incredulously. Had Neo finally gone and lost his marbles?
+
+[Speculative: It is a theoretical possibility. However, it would likely require some type of control or leverage over the creatures.]
+
+Talia shook her head in disbelief before settling back down on her haunches to think. “Maybe I could carry it out piece by piece.” She finally decided. “Neo… keep an eye out for our friends. Actually…”
+
+She turned to face the cavern ceiling in the direction the spiders had disappeared in. She adjusted the intensity of the multi-tool’s beam, setting it to deconstruction mode. It happily zapped the earth with gusto as it began to mimic the absorption of her pod hatch, eating away at the material faster than she had expected.
+
+A sixty-second burst had rocks falling from the ceiling, and then a loud crack heralded a cave-in that spun out of control.
+
+[Notice: User actions present a high risk of self-harm. A safer method might involve creating a Durasteel barrier with available materials.]
+
+“Thanks for that brilliant insight,” she retorted as she stepped back from the smaller rocks still rolling her way.
+
+She waited a minute for things to calm down, then switched her survival tool to creation mode. She’d filled it halfway with rock, and it was noticeably heavier. Not as much as the Durasteel had added, but enough to concern her.
+
+When she pulled the trigger, particles began to fly out to coat the cave-in with a more uniform coat of rock. When she ran out, the wall that had been made was perfectly flat and smooth. Flipping the setting to select her remaining Durasteel, she added a thin metal coat, just in case.
+
+“There. That should keep them from coming out.”
+
+[Notice: Multi-tool battery consumption has exceeded 50%. If you would like to change the frequency of this warning, please do so in your User settings configuration tool.]
+
+She glanced down at the tool, and her HUD highlighted it for her. Sure enough, it was running low.
+
+[Multi-Tool]
+
+| Power Level: [39% (Batteries x2)] |
+
+| Durability: [98%] |
+
+| Tool Level: Basic |
+
+| Total Capacity: 2/100 |
+
+[Contains]
+
+| Refined Silicates x2 |
+
+Steam hissed and smoke billowed around the dull red Durasteel wall as she turned her attention back to her handiwork. She wasn’t sure how long it would take to cool and harden completely.
+
+“I hope this will hold them off,” she muttered, more to herself than Neo.
+
+[Analyzing: New barrier integrity is strong; probability of fauna digging through in short-term is low.]
+
+A prick of worry filled her. The key word there was short-term. At least she didn’t need to feel bad for sealing them in. They’d probably dig around her blockage eventually or even already had another way out if the cave system was as big as it seemed.
+
+Probably.
+
+The digging and construction had cost her a lot of her currently non-renewable battery power, but once she had that issue solved, maybe it would be considerate to reclaim her Durasteel. There was no need to ruin the local wildlife’s home just because they had tried to…thoroughly explore her stuff.
+
+The short-term loss of the tunnel would be a good enough punishment. She didn’t want to be vindictive like her father.
+
+Feeling somewhat safer now that there was only one open direction for anything creepy-crawly coming at her, Talia turned back towards her objective. “Alright then…what about moving this thing? Any idea?”
+
+[Proposition: A simple lever system or a primitive wheelbarrow should be within User capabilities to construct.]
+
+Talia hopped down off the rock and looked up and down at the crate. It was almost as tall as she was. “There’s no way. Even if I made a sled or something, I would be exhausted trying to haul that.”
+
+[Alternative: User could consider fabricating an exoskeleton suit upgrade to assist with heavy lifting.]
+
+Talia gave a bitter laugh. “Oh yeah? Didn’t we go over that earlier? Where am I supposed to get the schematics for that? Cortex Incorporated isn’t exactly in range for a quick purchase.”
+
+[Clarification: Schematics for various items, including the exoskeleton suit upgrade, are already stored in this unit’s memory. However, they are proprietary and locked by default.]
+
+She rolled her eyes and groaned audibly. “Great! So, you tell me about it why? Just to taunt me?”
+
+[Informative: Cortex Incorporated has provisions for explorers who find themselves out of contact on frontier worlds. In exchange for data on unknown minerals, flora, and fauna in frontier systems, they accept exchange for locked schematics. This requires all future scanning data to be encrypted for Cortex Incorporated and prevents resell for 776 Terran year-cycles.]
+
+She blinked at that. She glanced down at the multi-tool once again before flipping it over in her hand until she found its scan mode.
+
+Her eyes lit up as a new plan began to form.
+
+[Query: Would you like me to open an account with the Cortex Incorporated Scanning Program?]
+
+Talia didn’t hesitate. “Yes, do it.”
+
+She turned her multi-tool on one of the glowing mineral formations, watching as a bright beam of light shot out and began scanning it. The tool hummed in her hand, information scrolling across its small display.
+
+| Object: Bioluminescent Mineral deposit |
+
+| Type: Inorganic Crystal Structure |
+
+| Material: Lumina-Phosphorite |
+
+| Special Properties: Bio-reactive, Energy-storing |
+
+| Scanning Data: The mineral shows an active bioluminescent response, indicating the presence of bio-reactive compounds within its crystal lattice. The glow is due to a phenomenon known as phosphorescence, powered by ambient energy sources. |
+
+| Cortex Inc. Credit Value: 30 |
+
+Talia couldn’t help but blink in surprise. “Well, that’s more than I expected.”
+
+She hurried to the next one and scanned it as well.
+
+| Object: Multi-hued Mineral deposit |
+
+| Type: Igneous Rock |
+
+| Material: Prisma-Granite |
+
+| Special Properties: Multi-element Composition, Durable |
+
+| Scanning Data: A variant of granite infused with multiple exotic elements, resulting in its multi-hued appearance. It has higher durability compared to its terrestrial counterpart and can be utilized in a variety of applications. |
+
+| Cortex Inc. Credit Value: 40 |
+
+A sneaky grin appeared on her face. “This is too easy.”
+
+| Object: Cavernous Mineral deposit |
+
+| Type: Metamorphic Rock |
+
+| Material: Neo-Serpentinite |
+
+| Special Properties: High Pressure-resistant, Hard |
+
+| Scanning Data: A mineral often formed under high-pressure conditions in the sub-surface regions of planets. Its dense structure makes it ideal for construction and protective measures. |
+
+| Cortex Inc. Credit Value: 35 |
+
+“What’s my balance now, Neo?” Talia asked.
+
+[Informative: Cortex Incorporated credit balance is now 105 credits.]
+
+When she reached the entrance again and looked at all the strange flora outside shimmering inside the confines of the jungle canopy in hues of blue, green, and purple—her eyes lit up.
+
+“Neo,” she continued, grinning from ear to ear despite herself. “How much do we need for that exo-skeleton upgrade?”
+
+[Informative: The cost of the exoskeleton suit upgrade schematic is 500 credits.]
+
+“Oh boy,” she murmured, hefting up her multi-tool with newfound enthusiasm. “I’m gonna be busy…”
+
+Talia pointed her multi-tool at the nearest tree, a towering behemoth with bioluminescent leaves shimmering in soft blues and purples. The tool hummed as it scanned, then beeped cheerfully.
+
+| Object: Bioluminescent Jungle Tree |
+
+| Type: Flora |
+
+| Material: Silica-Xylan Composite |
+
+| Special Properties: Bioluminescence, Rare Metal Infused |
+
+| Scanning Data: The bioluminescent jungle tree possesses a unique internal structure, unlike any flora found on Earth. Its cellular matrix is composed of a silica-xylan composite, making it incredibly strong yet lightweight. More remarkably, the tree integrates trace amounts of rare metals into its cellular structure, possibly explaining the source of its bioluminescence and offering potential value for technological applications. |
+
+| Cortex Inc. Credit Value: 250 |
+
+[Informative: Tree scan complete. Results indicate a special mineral structure containing traces of rare metals. Value according to Cortex Inc’s program is 250 credits.]
+
+A surprised laugh bubbled out of her. “Well now, that’s more like it!” she exclaimed, looking at the tall alien tree with newfound respect. There were a lot of them. Maybe they’d be useful for raw materials and fabrication later?
+
+In the distance, she spotted the glow bugs that had been attracted to her headlamp. Her multi-tool let out a beep that they were scannable, but she needed to move closer.
+
+“Neo, let’s get scanner-ous!”
+
+[Notice: This unit has scanned User DNA for abnormalities but has concluded that User remains 99.99% human standard and is not, in fact, a duck.]
+
+“Shut up, Neo.”

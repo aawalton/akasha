@@ -1,0 +1,137 @@
+Talia stood up and moved to the Durasteel barricade she had created earlier. She took a moment to adjust the intensity of her multi-tool’s beam and aimed for a small area in the center of it. The tool hummed before its deconstruction beam filled the cavern with bright blue hues.
+
+The Durasteel layer came off first, and then she tunneled through the rock. She didn’t want to waste her tool’s charge holding onto the stone, so she discarded that in a way that made her new passage a bit more defensive. Instead of a solid wall, she made it into rocky bars that would act as a cage leading up to the chokepoint.
+
+That way, nothing could ambush her when she went in or out. Even if she wasn’t sure that she’d be using it all that much, Talia thought it was a good idea to start keeping such things in mind if she was going to be designing her own survival camp-base-colony-thing in the future.
+
+She started to head into the cave, but paused at the threshold.
+
+[Multi-Tool]
+
+| Contents: [Durasteel x2] |
+
+She’d reclaimed two units of Durasteel, and before she went deeper, she wanted another weapon. She obviously didn’t have enough for anything advanced or special, but…
+
+“Neo, what kind of weapon can I make with what I have?” Talia asked as she returned to the fabricator.
+
+There was a slight delay before Neo responded.
+
+[Informative: A plethora of basic Durasteel melee weapon schematics are available. The list has been truncated to the most likely options: Sword, Spear, Axe.]
+
+Talia hummed to herself as she considered. She was in the jungle, or at least the planet’s alien version of one, so that gave her an idea.
+
+“How about a machete?”
+
+[Affirmative: A basic machete schematic is available. Displaying now.]
+
+[Display: Durasteel Machete Schematic Requirements.]
+
+| Durasteel: 2 |
+
+| Battpack Drain: Projected at 3% |
+
+| Nano-Forging Time Estimate: 12 minutes |
+
+| Copies Remaining: Unlimited |
+
+A machete didn’t seem like much against the alien spiders, but Talia nodded anyway. It was something at least, and it would potentially be useful. She could always recycle it again if needed.
+
+“Let’s do it then.” She loaded the material into the fabricator and confirmed her selection on the touch screen. A robotic arm hummed to life and began to utilize the same beaming technology her survival tool used, just in a much more controlled and precise manner. There was also more than one type of beam color, and she guessed that those had some other type of use.
+
+At the very least, the red one cooled the metal somehow and by the time the fabrication ETA flicked to zero, the weapon was ready to go. It was made from a single solid material, with a wire wrapped handle. It worked well enough thanks to her heavy suit gloves.
+
+She took a moment to check her suit and gear, making sure everything was where it should be. Her multi-tool was secured at her side and reported a full charge, the new machete strapped securely on her other hip. Her suit power was good, so she did a final glance at her status screen.
+
+| Name: Talia |
+
+| Suit AI, NEO: Level 1 |
+
+| Health: [94% (Feeling better)] |
+
+| Oxygen Level: [0% (Switched to atmospheric filtration)] |
+
+| Suit Power Level: [97%, [Batteries (x2)]] |
+
+| Hazard Protection: [100%] |
+
+| Nutri-Paste Reserve: [100%] |
+
+| Suit Upgrades: [Survival Tool, Charged] |
+
+| Inventory: [Survival Ration Bar (x3)], [Flare Gun], [Medi-Gel Cylinder], [Datapad], [Batteries (x6)], [Durasteel Machete] |
+
+| Located Equipment: [Battpack Array (93%)], [Folding Solar Panel Array], [Fabricator] |
+
+| Control-Link: [Survival Fabricator], [Cortex Scan Affiliate] |
+
+Sure that everything was in order as best it could be, Talia took a deep breath and headed toward the deeper caverns. “Alright, Neo… Let’s get this show on the road.”
+
+She passed through her small fortification cautiously, scanning the area for any traps or hostile aliens. It was all clear, so she pushed on. Evidence of disturbed rocks was everywhere; the spiders had been quite vigorous in their retreat, and she even noticed drag marks in places where they had pulled their injured member away.
+
+Her anxiety at the prospect of exploring the cave shared with spiders warred with her need for Durasteel. The need easily outweighed her discomfort. As she ventured deeper into the cave system, her suit light amplification revealed strange formations of glowing minerals that cast every corner in eerie shadows.
+
+[Notice: User is venturing into unexplored territory. Utilize caution.]
+
+“Yeah, yeah,” she muttered under her breath as she followed the indicators that appeared on her HUD.
+
+Talia pressed onward. A loose rock nearly stole her footing and nearly made her heart jump out of her chest because she was so on edge. The narrow passage opened into a larger cavern and the steady glow of the rocks was joined by various types of bioluminescent fungi and moss growing on the walls and ceiling. Colors revealed towering stalagmites and columns of white-hued rock that took on whatever colors were glowing nearby.
+
+“It’s beautiful.” Talia commented to herself.
+
+[Notice: Bioluminescent flora is likely a high value scanning target.]
+
+That was true. She flicked her multi-tool to scan mode and targeted the moss, and then the fungi.
+
+| Cortex Inc. Credit Value: 35 |
+
+| Cortex Inc. Credit Value: 55 |
+
+| Cortex Inc. Credit Balance: 480 |
+
+A smile formed on her lips before she began to continue in the direction of the nearest ferrite deposit. Suddenly, she froze, a faint clittering sound echoing through the cavern. Her breath hitched in her throat as she whirled around, scanning the area for any sign of movement, but all she could see were rocks glowing in hues of blue and green.
+
+[Notice: Suit’s audio detection system has identified lifeforms.]
+
+Her HUD immediately lit up with a top-down map overlay showing where the noise was coming from in relation to her position. “How…?” She stammered out before Neo cut her off.
+
+[Informative: Utilizing sonic mapping technology to create an echolocation-based map layout.]
+
+She watched as a wavelike pattern appeared on her display - showing that whatever had been making the noises was thankfully heading away from her current position towards another part of the cave system.
+
+A sigh of relief escaped, and she turned back towards where her sensors indicated the ferrite deposit she had been tracking would be. Several more corridors marked an end to the bioluminescence and a sudden plunge into darkness. Talia grunted and quickly reached up and activated her helmet’s headlamp.
+
+“Something’s different.” She mused idly.
+
+[Informative: Rock strata has undergone a rapid change in composition during the previous twenty meters of descent. A change in cave biome has been detected. Unusual elemental compositions detected. User caution is advised.]
+
+She couldn’t help but notice Neo’s message was chatty for a single info-tag. From listening to him drone on long enough, she knew that type of message usually meant something was serious. She already had her multi-tool out, but she checked it and thumbed it off scan mode.
+
+“It says the ferrite is less than 50 meters ahead.” Talia said. “Whatever you’re detecting, we’ll just need to get past it.”
+
+Talia rounded the bend and suddenly skidded to a halt, her jaw dropping in confusion. What her sensors had identified as ferrite deposits turned out to be a cavern filled with metal artifacts. The inert objects shone under the harsh light of her headlamp, their reflective surfaces shining like mirrors wherever the coating of dust and grime didn’t adorn them.
+
+“Neo…” she began slowly, “This planet…it’s more inhabited than we thought.”
+
+[Speculation: These artifacts could be remnants from an ancient civilization or perhaps left behind by other explorers. It is unclear without further data collection.]
+
+She moved closer cautiously, flicking her multi-tool back into scan mode before pointing it at the artifacts. The cave lit up as the scanning laser went to work and began to scan the entire lot of them in one go. The tool hummed for a moment before beeping happily.
+
+| Alien Artifact Database Entry |
+
+| Cortex Inc. Credit Value: 500 |
+
+| Cortex Inc. Credit Balance: 980 |
+
+| Material Composition: Durasteel-grade alloy |
+
+A slow smile spread across Talia’s face as she saw her Cortex Inc. credit tick upward again on her HUD. Once she secured her exo-skeleton and hauled her stuff back to her pod, she needed to browse the list of suit upgrades within her price range.
+
+As she began to inspect the artifacts, her first impression was that they were not from a technological civilization. Most of the items seemed to be swords, shields, and sets of armor shaped for some type of humanoid creature slightly taller than the average human.
+
+She picked up one of the weapons for a closer examination. It was expertly crafted, and she realized it was potentially far beyond what any primitive civilization could achieve. A puzzle piece that didn’t fit with the rest.
+
+[Informative: This weapon is composed primarily from a Durasteel-grade alloy. The golden trims are made from a superconductive gold alloy.]
+
+“Why would someone decorate their weapons like this?” She murmured as she looked around, noting that many other pieces had similar adornments.
+
+There was a moment’s hesitation before she set her multi-tool to its deconstruct mode. The idea of destroying what might be unique artifacts from an ancient alien civilization didn’t sit right with her.

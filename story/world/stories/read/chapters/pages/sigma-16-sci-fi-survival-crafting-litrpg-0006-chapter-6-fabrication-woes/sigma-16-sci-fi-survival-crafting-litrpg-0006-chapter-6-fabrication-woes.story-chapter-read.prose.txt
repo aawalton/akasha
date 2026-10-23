@@ -1,0 +1,131 @@
+The glow moths had been easy to taunt into range. The various glowing mushrooms, plants, and rocks she scanned quickly added up. Talia lost track of her new credit account as she rushed from one thing to another, always pulled forward by a new discovery.
+
+Right up until her multi-tool clicked an unhappy red and her refined silicates threatened to land on her foot again.
+
+[Multi-Tool]
+
+| Power Level: [0% (Batteries x2)] |
+
+[Recommendation: Replace batteries in user survival tool.]
+
+“Yeah, yeah. Got it.” The tool’s battery compartment opened willingly, and she quickly made the exchange. The dead batteries would go back in the Battpack Array. As soon as the tool lit up green, she picked up the ejected material and reinserted it. She really needed an NCS container.
+
+Tool recharged, she knew she needed to finish up the scanning despite how fun it was. Until she set up the Battpack Array and had a renewable power source, draining more than necessary was a bad idea. She needed to conserve her resources to what was necessary.
+
+She didn’t even have a proper shelter yet, and she didn’t want to sleep anywhere near the spider-thing cave.
+
+“How many credits have we earned so far?” Talia asked.
+
+[Informative: User has acquired 890 Cortex Incorporated scanning credits. Multiple schematics are available.]
+
+Her eyes widened in surprise before she let out a whoop of joy. “We’ve got enough! Alright Neo - make the purchase.”
+
+[Affirmative: Processing transaction…]
+
+| Cortex Inc. Credit Charge: -500 |
+
+| Cortex Inc. Credit Balance: 390 |
+
+[Confirmation: Transaction complete. User now has access to the exoskeleton suit upgrade schematics. Please consult your survival fabricator for additional details.]
+
+A smile appeared at the message. “Alright, let’s go make this thing.”
+
+She kept a vigilant watch on her surroundings as she headed back to the spider cave. The area was a little more familiar to her now, but it was still an alien environment, and she was sure there was plenty that she’d missed even in the small area she had covered.
+
+The bioluminescent lighting was even starting to grow on her. All the colors were pretty.
+
+She kept her multi-tool in hand, ready to deal with any more of the spider-like creatures if they decided to harass her again. But she didn’t spot anything she hadn’t seen already on the way back—just more alien flora. And bugs.
+
+The glow moths had slowly increased their altitude until their little yellow hues lit up the harsh blackness of the canopy high above.
+
+The outside of the cave was just as she had left it. She paused and scanned the area again, just to make sure nothing was waiting to trap her inside before moving cautiously inside. The glowing minerals welcomed her with their light, and despite never having a thing for caves, the close confines of the walls felt strangely comforting.
+
+At the very least, there were only two directions that she could be ambushed from now.
+
+The light from her hastily constructed barricade provided a dim red backdrop as she reached her crate. A tinge of relief filled her. It was still untouched. On the way down, the fear that something might have nabbed it again had bit at her.
+
+“Let’s get this thing running,” she finally said, breaking the silence as she approached. She began by dragging the Battpack out and to the side, then hefted out the solar array. It was a bulky thing, even though it was folded up. It was useless to her in the current environment, so it got dragged out of the way.
+
+The fabricator was last and by far the heaviest. Talia grunted as she strained every muscle in her body just to get it out of the container. “Frack. I don’t know how that thing could move it while it had all three inside.”
+
+[Informative: Local fauna possesses a larger and likely significantly stronger physiology compared to human standard. The utilization of a rope likely aided its effort.]
+
+She didn’t have a rope, and unless she wanted to vaporize it, not any relevant tools for the job. That’d be corrected as soon as she had her exo-skeleton upgrade installed.
+
+It was a small mercy that she didn’t actually need to drag the fabricator far, just enough to let it deploy. The metal box lit up yellow and unfolded itself on its own, providing a heavy base with a decent sized worktable. She pulled the foam packaging from the crate and used it as a seat.
+
+[Informative: The Battpack can provide power for the fabricator; however, usage will be limited until a more sustainable power source is found.]
+
+Talia frowned. “Is there enough charge for the exo-skeleton?”
+
+[Affirmative: Battpack has enough power stored for this process.]
+
+“Great. No problem focusing on that first then.” She fished in her suit pockets for the makeshift cables she’d used to power her multi-tool before she had found the batteries. The fabricator had helpful color-coding of the power ports and she connected the red and green terminals between the Battpack box and the Fab.
+
+Fooling with the Battpack reminded her to switch out her dead batteries for a pair of fully charged ones. The moment she closed the compartment lid back down - there came a low humming sound followed by several cheerful beeps from the fabricator.
+
+Her suit HUD lit up with a new icon, showing a little workbench.
+
+| Survival Nano-Fabricator: Online |
+
+“Neat. Neo, can you please display the exo-skeleton schematic?”
+
+[Display: Exo-Skeleton Upgrade Schematic Requirements.]
+
+| Durasteel: 37 |
+
+| Refined Silicates: 18 |
+
+| Advanced Alloys: 14 |
+
+| High-Conductive Material: 8 |
+
+| Battpack Drain: Projected at 35% |
+
+| Nano-Forging Time Estimate: 60 minutes |
+
+| Copies Remaining: One |
+
+Talia’s brows furrowed in frustration as she looked over the schematic. “Single use? Seriously?” She wasn’t sure why she’d want to make more than one, but it still felt like she’d been scammed.
+
+She was drastically short of all the materials needed as well. The amounts indicated seemed high, too. Hadn’t the entire survival pod recycling only offered her a bit over one hundred Durasteel?
+
+The prospect of walking out of the cave with her new gear and her cargo seemed to be slipping away. “I don’t have all the necessary resources, Neo.”
+
+[Recommendation: Previously scanned bioluminescent cave rocks contain the proper elements for high-conductive material and advanced alloys. The jungle trees containing silica-xylan composites could be refined into refined silicates. The refining cost of required materials would drain approximately 21%.]
+
+She assumed her spare batteries would be enough to do the extractions, and that Neo had calculated the Battpack’s reduced capacity due to the batteries she’d nicked.
+
+Frowning slightly at the prospect, she ran her fingers over her multi-tool before nodding slowly. “Alright…So if we refine those first…how much total Battpack power are we looking at?”
+
+[Estimate: The total Battpack power requirement, including refining and production, should amount to approximately 56%]
+
+Talia frowned. She didn’t want to drain her Battpack to zero on one thing, but looking at the solar array, she decided it was fine. She’d be able to carry the equipment out of the jungle and recharge once sunrise arrived.
+
+“What about the Durasteel? I don’t want to trek back and recycle the pod. That’s too far to go,” Talia asked.
+
+[Informative: The local fauna dubbed “Spider-alien” by User may possess carapace material composed of a metal alloy similar to Durasteel. If you can obtain a sample, this could be confirmed and then refined and used in fabrication.]
+
+Talia blinked at that, glancing back towards the sealed-off part of the cave where the creatures had retreated. “You want me…to go after those things?”
+
+[Clarification: It is merely a suggestion based on available resources. It would require User to utilize caution and take on potential risks.]
+
+Her lips twitched into a wry smile. “Well…when you put it that way, how could I say no?” She asked, her voice dripping with sarcasm. Her grip on her multi-tool tightened as she considered hunting down the aliens.
+
+She wasn’t a vegetarian, but something about hunting them down didn’t sit well with her. Even if they had been terrifying to look at and one had tried to steal her crate, she had a feeling there was more to them than was obvious at first glance. Maybe it was the way they had rescued their injured comrade.
+
+The thought of hunting down a sapient creature to use its skin for her suit sent a shiver down her spine. What if the shoe was on the other foot and some super advanced alien had landed on earth in its pre-history and the aliens had hunted the humans for sport?
+
+“Neo, do we have alternatives that don’t involve hunting the aliens down? Did anything we scan have any useful material that could be used as Durasteel, or can we use a scanner for finding some?”
+
+[Confirmation: The suit’s scanners can be adjusted to search for viable ferrite concentrations which could potentially be refined into Durasteel.]
+
+“Alright, let’s do it,” Talia responded, bracing herself for the high-pitched pings she knew were coming from watching one too many exploration holovids.
+
+The pinging started, each one sharp and quick. After several moments of scanning, her HUD lit up with several targeted areas deep within the cave system beyond the sealed passage.
+
+Her heart sank at that as she stared at the glowing marks on her display. Going back to the pod was an option too, but that meant adding another fourteen miles to her hike today plus it would be more than her tool could carry. It would make the trek back harder with the extra weight, too.
+
+She weighed out both options silently in her mind before finally deciding on taking a chance with the cave system, since it seemed like a shorter trip overall.
+
+“Okay…okay Neo, we’re going spelunking.”
