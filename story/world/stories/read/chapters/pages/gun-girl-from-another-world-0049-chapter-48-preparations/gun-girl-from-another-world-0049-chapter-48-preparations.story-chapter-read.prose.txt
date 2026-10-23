@@ -1,0 +1,191 @@
+Chapter 48
+
+Preparations
+
+Our training has gone well. With Ayre's feedback and some advice from Dina and Zeiya who insisted on coming out to see the project, I've built a passable obstacle course that meets most of the requirements for the archer to spend down points.
+
+I say passable mostly because it's not up to my standards. I want randomized targets, motorized movement thereof, and pop-up/drop-down functions. Still, we've got some primitive Ninja Warrior type stuff going on, interspersed with targets that can be mounted in different locations. No water pit to catch us, but our superhuman physiques handle landing on the soft grass just as well.
+
+Whoever is running the course, the other will arrange the targets and then keep track of the run time and how many are successfully hit. The high rate of 100% target elimination from both of us has me thinking I need to make some more changes, but competing for best perfect clear time will have to do. The purpose here isn't to create a perfect obstacle course, after all.
+
+The crops have added an entirely new dimension to our preparations, as well. Every one of them have astounding effects that increase powerfully through cooking. Kyuuga's fried potatoes, onions and potted meat became Essence Fried Potatoes and Onions with Meat, and increases Toughness and Disease Resistance, while also giving a bonus to point gain for an hour after eating it.
+
+Ever since the discovery, showing an actual understanding of the concept of points to some degree, Kyuuga has insisted on training with us. He's actually got the best clear time of all three of us. That rabbit is fast, and entirely too aware of it, the braggart. Always stops as soon as the hour's up, though.
+
+All of the plants grew so quickly, too. Even the apples finished in two weeks. And the sugar came up, too, despite the poor conditions for it. In fact, it grew so quickly and so well that I took the time to actually prepare ground for it and grew a second batch.
+
+This second batch grew even faster, even thicker, and with even better bonuses, prompting me to take a second look at the conditions of the rest of the plants. Most of those were pretty forgiving, though, and I had already done things like making sure the root vegetables were in soil mixed with sand to keep it loose enough for them to grow. I sold the first batch of sugar cane to Zeiya as a "botched" crop, much to her delight.
+
+In the midst of all of this testing, we also confirmed that time doesn't seem to pass in my storage pocket once it's closed, or at least it's drastically slowed down. This has allowed me to make plenty of fresh food and store it inside for the trip to the dungeon. No iron rations for us!
+
+Of course, I'm still picking sturdy, carb-rich foods for energy and nutrients, especially things that recover our hit points. One such item I'm holding as a surprise is actually thanks to the sugar and apples both being ready and in such abundance.
+
+... Yes, I made caramel apples, and I can't wait to see Ayre's reaction to them! I already shared them with Yorin when I identified their effects, and I swear she would have given me another lecture if her mouth wasn't full of sweet and tart goodness.
+
+One Essence Candy Apple fully restores health and mana, and gives a quarter boost to both, making them great for mages and warriors alike! And since they're on sticks, they're easily eaten with one hand.
+
+Yorin had expressed confusion over the properties, however. Apparently, sugar, though a luxury good, is well known for its mana-restorative properties, and mana potions commonly use a diluted simple syrup as a base.
+
+"But why does it heal injuries?"
+
+That hadn't been a question I had been expecting, so I'd given a little laugh and gave the first explanation that came to mind. "Oh, you know, they say an apple a day keeps the healer away!"
+
+My joke had gotten me a flat stare. "Remmi, no one says that."
+
+Ah well.
+
+I got that help from Zeiya with choosing a new skill, too. What I really wanted was that chi-do monk ability to burn mana and multiply stats, but even my ability to buy stuff is limited to only what a non-class person could learn through study, provided the knowledge exists.
+
+Kaido's skill, apparently called God's Fist, is unique to his class, however, which means it's not even on the market. Zeiya was able to recommend a lesser equivalent spell, though.
+
+EMPOWER
+
+----------------------------------
+
+Increases Strength, Toughness and
+
+Agility by 50% while active.
+
+Health remains calculated by stats
+
+prior to activation.
+
+Casting Cost: 10/sec
+
+I could immediately see why she said nobody bothers to take it, though. The cost is way too high for most warrior-types to be able to maintain it for any meaningful length of time, and since it doesn't increase Intellect, there's better ways for mages to be spending that mana.
+
+Even for me, that was only twenty seconds of time. Fortunately, I'm a cheater, and I took what Yorin told me and grabbed a cost reduction mage skill that cut the burn in half. I was tempted to cut it again, but the cost for the next rank up is exponentially higher.
+
+It's still only forty seconds, but that's more than enough time to pull clutch. I can probably extend it further by pulsing it on and off only when I need to act, too. And since it's percentile-based, it'll only get stronger as I do.
+
+Of course, the second skill I made sure to pick up means that I probably won't have the full forty seconds, anyway, not if I'm going full bore. It also took more work, because I had to convince Ayre to teach it to me.
+
+SPIRAL SHOT
+
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Once activated, the next
+
+ranged attack and all
+
+ranged attacks for the
+
+next second afterward gain
+
+the following bonuses:
+
+* 200% Armor Penetration
+
+* 125% Damage Increase
+
+Casting Cost: 10 MP
+
+Those buffs are nothing to sneeze at, and are absolutely worth the work I put in to build a compound bow for Ayre. I wasn't about to try to compete with the level of craftsmanship of whoever made the last one, so I opted for advancements in engineering.
+
+I had to explain exactly how it all worked to Ayre before the archer agreed, but basically, his recurve bow has a draw weight of somewhere over two hundred pounds. I was staggered when I learned this (we exchanged metrics over a bucket of water), but assured my friend that the cam system would increase the performance of the weapon by at least half at the same draw weight.
+
+With the promise of such an increase in potency, Ayre agreed to the deal, but insisted on teaching me the way he had learned, rather than just giving me the name and allowing me to buy it from the System. Though I did still have to buy Arcane Knowledge just to follow what the elf was saying.
+
+When I finally mastered it, I tackled Ayre in my excitement, drawing a startled squeal of protest from the elf. With the notification of successfully learning the skill came an additional notification that I had to share with Ayre before my friend understood my exuberance.
+
+My second earned Trait!
+
+HEDGE WITCH
+
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Despite a lack of a mage
+
+class, you have mastered
+
+spells from five different
+
+schools of magic, or two
+
+different spells from
+
+three schools.
+
+Having proven undaunted
+
+by worldly conventions or
+
+class restrictions, you
+
+have earned recognition as
+
+a mage regardless -
+
+a Hedge Mage, without the
+
+shackles and expectations
+
+of oath or fraternity.
+
+You receive the following
+
+bonuses:
+
+* The multiplier for your
+
+maximum mana increases
+
+to 150%. This has no
+
+effect if your
+
+multiplier is already
+
+150% or higher.
+
+* The power of your spells
+
+is increased by 50%.
+
+* The mana cost of all
+
+spells is reduced by 50%,
+
+calculated after all
+
+other reductions.
+
+This means my mana is now at three hundred points, and the cost of Empower has dropped to a measly 2.5 points per second! Spiral Shot is also down to 2.5 mana per cast, but I'm not sure if that will round up, down, or not at all. Even better, their bonuses have increased, too!
+
+I do some quick math in my head and determine that would bring my Strength up to 87, my Toughness up to 105, and my Agility up to 175! It's nowhere near Zeiya's, but it's still like jumping seven levels with one spell! For two whole minutes!
+
+Spiral Shot, too, now triples my penetration. I kind of want to see how many trees I can shoot through with the overpressure rounds now. The smaller damage multiplier is now only an extra third, but I'll take it!
+
+Man, if I'd had these skills against the Abomination, I'd have swiss cheesed the thing! And I still haven't even leveled up since then!
+
+... Actually, that's a bit of a sobering thought. If skills can make this much of a difference, have I been neglecting them too much?
+
+Maybe, I decide, but I also came into this completely lacking a solid foundation. All of the skills in the world can't help if they have nothing to build off of. I'll be able to pursue a more balanced rate of growth from here on out.
+
+In fact, after this dungeon, won't I finally be on par with the other Heroes? Well, on par with how they started, anyway. I'm a couple months behind them. I hope they haven't pulled ahead of me too much! Though it's not like I'm not surrounded by other powerful people that I can aim for.
+
+There was actually one other skill Zeiya recommended, but ...
+
+"Remmi! Are you done packing yet?"
+
+I turn toward Ayre as the elf interrupts my thoughts. "Yeah, just finishing up!" I make a big show of hefting up the nearly empty backpack. "Oof, so heavy!" I moan dramatically, earning a giggle from the elf.
+
+We've actually got a lot of stuff, since space is no longer an issue. More camping gear, for example, since there's no need to improvise in order to stay light. A bigger tent, two cots and bedding sets instead of tatami mats and bedrolls ... We even have my very first two creations with elemental stones.
+
+I befuddled Ayre when I insisted I would create heat with an electric stone instead of a fire one, but I explained that electricity is what my people were most familiar with utilizing, so it's what I wanted to master first.
+
+An electric stone seems to generate a consistent current proportional to its size, so I built some simple ceramic resistors to set how much actually gets through, and a simple switch to determine how many were connected at a given time. The current then runs into a flattened metal spring, where the material's natural resistance causes it to build up heat.
+
+My first creation is an electric stove, though it doubles as a space heater. I have a larger one planned for my kitchen when the house is finished.
+
+My second is definitely related to the first, it, too, running current through wires, but it creates a light as it passes through filaments that draws in insects ... and also electrifies the mesh around the bulb. A bug zapper, for Ayre.
+
+I'm growing more confident in working with the stones, but I definitely feel the limitations of local technology in the process. I'm currently experimenting with simple graphite circuits so I don't have to hard-wire everything, but without transistors, I'm restricted to bulky mechanical switches.
+
+For example, my electric burner's "circuit" is actually a Y-board offset from the main circuit. The switch manually rotates which board segment is in line with the current. There is a high setting with minimal resistors, a low setting with some resistors, and the third breaks the circuit completely to turn it off.
+
+It works, but I can't help but be unsatisfied.
+
+For now, I shoulder my bag and latch the cabin door behind us. Finally, it's time for my first Tolestean dungeon! I can't help but practically leap from the porch steps, pumping my fist into the air.
+
+"Let's go!"
