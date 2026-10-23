@@ -1,0 +1,163 @@
+68 - Grudge Match
+
+Joe turned immediately to Hah’roo and placed his hands on her blood-soaked skin. He healed again and again, closing the kaleidoscope of wounds the brer’s pick had cut into her and easing the truncheon-bruised flesh.
+
+As he worked, Joe heard the goblin knife clatter to the wood floorboards while a gush of swampy-smelling air washed over them. Turning around, Joe saw the goblin had vanished, having completed the task Joe had set for it.
+
+“It’s not over yet,” Hah’roo breathed. “The worst of them is still to come.”
+
+“Well, you should take a minute. I’ve healed you back as far as I can, but you are not at 100%. The bone in your arm is only barely knitted back together. If you push it, my fix will crack apart. I’m going to go find my staff. Be right back.”
+
+Joe snagged the goblin knife in one hand and Lemek’s billy club in his other. He tried to grab the pick with [Helping Hand] as he ran past it, but for some reason, the force hand could not lift the weapon. It was either too heavy or somehow bound to the bunny. Leaving it, he jogged back to where he had faced Albero.
+
+As he reached the general area where his staff should be, a familiar figure stepped into the warehouse. His handsome face was locked into a hateful scowl as his eyes met Joe’s. Even in full plate armor, Sir Groven moved surely and smoothly, a well-trained warrior.
+
+“Joe! Get back!” Hah’roo shouted from further within the large warehouse.
+
+“No, Joe. Don’t.” the knight hissed. “I declare a [Decree of Combat]!” he announced in a ringing voice.
+
+Joe could feel the magic in the warrior’s words swirl around him. He could almost see the words hanging in the air, forming a circle around the two of them, leaving Hah’roo locked outside the ring. There was something else in the magic as well; Joe felt oddly empowered by the effect. Suddenly, he felt stronger, more graceful, tougher. At the same time, the approaching knight’s steps seem to falter and slow. Joe took a fraction of a second to peek at his sheet and saw asterisks next to his attributes and level. Looking at the swirling barrier, he identified it.
+
+[Decree of Combat]: This spell ensures a duel between two opponents is made inviolate. Duels between a person and a monster are not adjusted, while duels between two people are normalized in terms of levels to promote an equitable encounter. {Arena}
+
+“Now, I will remove the stain of you from my honor and records,” growled the Phealtian. "There shall be no claim this time that you were dispatched unjustly."
+
+Joe could hear Onhur verifying that the fervent knight believed every word of his threat.
+
+Groven Suttrel: Human: Cavalier/Anointed Knight 24*
+
+Joe also noted that he had new alerts from Hawking, telling him he could take a trait from the knight. As dubious as he was to antagonize the Sutrells, Amberwroths, and the Phealtians any further, one of those traits might just save his life here. Keeping his attention mostly on Groven, Joe flicked open the box.
+
+You have been awarded an additional use of [Anyone]. This usage will have no effect on or from the ability’s traditional cooldown.
+
+You may select one of the following traits from Groven Suttrel:
+
+Even with the near-instant comprehension of Hawking’s messages, there was way too much there and no time to process it.
+
+‘Not helpful, Bud. I don’t have time to go through those. Which one should I take?’
+
+Yet Hawking was silent as the knight began to advance on Joe, sword drawn. Still uncertain which, and even if he should grab a trait, Joe dismissed the window without selecting anything yet. If he needed it, he’d grab something blindly. He flipped his attention to the truncheon to see if it would help him.
+
+[Haybreaker]  (Item: Weapon - Rare) This weapon has a median damage enhancement and major augmentation to breaking objects and bones. {Disruption}
+
+Joe looked at the heavily armored man approaching him and gave the cudgel a grateful nod. He knew he was still seriously outclassed, but he now might be able to outlast the knight by whittling the man down with various breaks to his armor and body.
+
+He wished he had spent some time training with a one-handed weapon instead of just his staff. He tried adjusting his footing to what Valloc used when he fought Joe with a short sword and buckler. Joe lacked the small shield, but maybe [Strong Arm] and healing could substitute for it.
+
+The moment the warrior stepped close enough, Joe hit him with his trump card.
+
+Groven Suttrel has resisted your [Deaden Flesh].
+
+‘Oh, crap!’
+
+“Die!” the nobleman growled and lunged with his sword straight at Joe’s heart.
+
+Your skill [Strong Arm] has increased to rank 12.
+
+He knocked the blade away at the cost of a large chunk of his forearm. Swearing vehemently, Joe brought the baton around in a [Swift Strike] empowered blow to the man’s thigh. Groven didn’t dodge, probably assuming his armor would repel the blow.
+
+The sound of metal rending and buckles snapping resounded from the spot where Haybreaker struck.
+
+Joe was so pleased by his successful contact that he almost lost his head to Suttrel’s following swing. He had to throw himself backward from the horizontal, decapitating sword stroke. Completely off balance, Joe staggered away, the knight giving him no chance to recover. It was all Joe could do to block with the club or bat away attacks, healing his increasingly mangled hand as he backpedaled from the onslaught.
+
+Thankfully, he could make his hand tougher with each heal by adding [Healer’s Ward], even though it ate more mana to do so.
+
+Your skill [Strong Arm] has increased to rank 13.
+
+Your skill [Healer’s Ward] has increased to rank 7.
+
+A cold fear gripped Joe’s heart. It suddenly became all too real that he was about to die again. He was taking dozens of cuts which, thanks to [Thick Skin] and [Healer’s Ward], were, so far, not life-threatening or debilitating, but all it would take is failing to block the wrong attack, and Groven would hack his head off or stab him through the heart. Joe was pretty sure either one of those would be the end of his new life.
+
+Until now, he had fought minor monsters or been hunted for the purpose of being captured. This was not one of those cases. Groven wanted him dead, and he was three times more powerful than Joe was. Everything but the immediate here and now he shoved out of his head, giving the man his complete focus.
+
+Your skill [Crystal Mind] has increased to rank 4.
+
+His attention sharpened, and Joe found a rhythm in the warrior's unceasing attacks.
+
+For the next few minutes, he was able to hold his own. It was exhausting, but Joe’s high Vigor and [Efferous Endurance] covered that potential weakness. He was eating through his mana at a worrisome rate, but there was nothing he could do about that. Sir Groven was relentless.
+
+Just as Joe thought he had a second to retry the curse, the nobleman seemed to realize that Joe was holding to a stalemate. The blade Joe expected to come straight in suddenly jigged to the left and laid open Joe’s thigh. This slash was followed up by a trio of long cuts to Joe’s arms and along his ribs.
+
+[Steadfast] failed to save him this time. The lacerating pain overwhelmed his senses, toppling Joe off his feet. He hit hard, but [Crystal Mind] kept him focused. Before the warrior could drive his sword through his chest, Joe threw his hand forward, aiming at the foot the knight was about to put his weight on.
+
+Groven Suttrel has partially resisted your [Deaden Flesh].
+
+It wasn’t a full numbing, but it was enough to stagger the man. Groven stumbled sideways for a few steps while Joe hauled himself back to his feet, healing the gushing wounds closed, additionally warding himself once again.
+
+Joe had to get rid of Groven’s sword. He lurched at the knight, swinging Haybreaker as hard as he could. Unfortunately, Groven must have had an idea of what the weapon could do. Rolling his wrist, the knight slid Joe’s attack down his blade rather than straight up blocking it.
+
+Groven followed up his deflection with a gut punch that drove the air from Joe’s lungs. Joe used [Purge] to remove {Dazed}, but he was still left gasping for air.
+
+The knight stomped the feeling back into his foot and advanced on Joe again.
+
+The next few seconds were a frenzy of desperate blocks against the savage attacks. Joe was forced around the mystical ring. Each time he drew close to the barrier, a deep cold soaked into his bones, slowing him even more than the constant wounding. Joe quickly learned not to let himself be driven too far from the center of the small arena.
+
+Joe tried to steal a tactic from Hah’roo and manifested the [Helpful Hand] behind the man, making it brush the warrior’s neck. The knight whirled and split the small construct in two, which gave Joe the chance to land another partial numbing.
+
+While Groven was off balance, Joe used his [Alchemy Belt] to teleport one of the mana potions from his belt to his hand, already opened. He couldn’t afford to steal any more Stamina, but he needed his healing with its wards and [Deaden Flesh]. Joe dumped the liquid into his mouth and almost choked, gulping it down.
+
+He was unquestionably losing. But as Kaid has pointed out, Joe's major talent was losing slowly. His whole body was covered in screaming ex-cuts, but pain Joe understood all too well. [Crystal Mind] and years of suffering kept him on his feet while he healed and healed and healed.
+
+Joe refused to let despair take over. If he could land one full [Deaden Flesh], he was sure he’d have a chance to make it out of this battle. So far, the knight hadn’t dispelled any of the partial numbings. Joe hoped that was a sign that Groven didn’t have a [Purge]-like spell ability in his repertoire.
+
+After several minutes of barely surviving, Joe finally caught a lucky break. Literally.
+
+It wasn’t the long sought-after [Deaden Flesh]. Groven misread one of Joe’s swings. What the bladesman thought was just a block was actually a strike against the long sword he was using to carve Joe up with. Haybreaker smacked into the side of the blade. With a sharp ping, the weapon shattered into several pieces.
+
+As the bladeless handle passed by, Joe finally had a moment to focus all of his Spirit into his next casting.
+
+Your spell has inflicted the {Numbed} affliction on Groven Suttrel
+
+As the enraged noble pulled his dagger off his belt, his right leg folded underneath him, dropping the man face-first onto the warehouse floor.
+
+Joe didn’t hesitate. He slammed the truncheon down on Groven’s left knee. The metal folded and cracked. Joe swung at the same spot again. And again. And again. On the last swing, the knee completely crumpled, sending a burst of blood splashing across the floor and Joe’s legs.
+
+The horror of his own savagery slammed through Joe’s gut. [Crystal Mind] tried to enforce he had been defending himself and that he had seen far bloodier things in horror movies and video games.
+
+Neither fact helped. Joe had just brutally and purposefully maimed a person. The knight was not a monster; he was a human being. This was no game where a character sheet separated him from his actions.
+
+He had just deliberately destroyed a man’s leg, turning it into a bloody pulp with his own hands.
+
+Joe stared dumbstruck until he felt his gorge rising. All the food and drinks he had consumed earlier launched itself in a stream of vomit.
+
+He backed away as he continued to wretch, instinctively knowing Groven was still a threat.
+
+“You coward,” the knight swore from the ground through clenched teeth.
+
+The nobleman levered himself up on his arms and pulled a large healing potion from somewhere, lifting it toward his mouth. [Helping Hand] popped into existence, covering the mouth of the flask. Before Groven could force the bottle through the minor construct, Joe lurched forward and smacked the bottle with Haybreaker, sending the red fluid splashing everywhere.
+
+“Don’t do this,” Joe begged. “I won’t touch your traits. Let me just finish this quest, and I will leave. I’ll leave the whole frigging kingdom. You never have to see or hear of me ever again.”
+
+The prone knight glared at Joe for a second, before he ground his teeth and growled a response. “Fine. Complete your deed and flee. Pray our paths never cross once more.”
+
+The metallic note behind these words was the screeching grind of a car crash. The utter deceit of Groven’s lies sent Joe’s nerves trembling.
+
+“Bullshit,” Joe barked.
+
+“You dare question me?” the warrior spat with far more arrogance than his broken state merited.
+
+“You have no intention of letting me go. Stop lying.”
+
+“Of course not, you filthy cur. Phealti commands me! Suffer not the alien to live,” the seething noble growled. “I will hunt you down to the end of the world if I must. And then I will make you suffer.”
+
+Levering himself a tad higher, the nobleman locked eyes with Joe. “Yet I will offer you this one chance to avoid the castigate of pain. Surrender, and I will send you back across the Veil with a swift death.”
+
+This all rang of truth. Awful and abominable. But true. Groven would never stop …. unless Joe stopped him.
+
+“I can't fucking believe you are going to make me do this,” Joe howled at the prone fanatic.
+
+Pacing back and forth, with [Crystal Mind] flaring, Joe desperately sought another option besides the horribly obvious choice.
+
+He couldn’t see one.
+
+Even if he could find some noble house or order that would take him in, Joe was certain the knight wouldn’t let up. The nobleman was backed by a duke, and his hatred of Joe went far beyond personal. It went to the core of man’s beliefs. Joe would become an obsession, and as mad as Ahab, Groven would keep coming.
+
+Until one of them was dead.
+
+With a grimace, Joe downed a second mana potion. Restored, he unloaded curse after curse. Groven resisted most of them, but Joe only had to land three before the knight was unable to stop him.
+
+Before he could rationalize himself out of the dreadful act, he took hold of the man's helm and drove the goblin knife up into his brain.
+
+When the [Decree of Combat] faded away enough to allow Hah’roo to pass through, she found the broken-hearted, battered, young man staring numbly at the man he had been forced to slay.
+
+Hearing the winds whisper of his heart's torment, she gently embraced him as he shuddered and silently cried.

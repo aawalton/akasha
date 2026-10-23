@@ -1,0 +1,199 @@
+52 - A Bit of Cowardly Collection
+
+Joe gave his attention to the block of waiting windows and quickly opened the one he knew had to do with leveling.
+
+You have reached level 7. You have gained 1 unassigned attribute point.
+
+You have reached level 8. You have gained 1 unassigned attribute point and the following choices of an attribute trait and skill:
+
+Those two levels of experience exploded through him. Shivers rippled out of his chest and then down his limbs. It felt like that moment after a great massage or chiropractic session where suddenly you were completely aware of your body. The ache in his ribs vanished, and he felt rejuvenated from head to toe.
+
+Joe stretched and rolled his neck. Letting out a deep, satisfied sigh before he studied his options.
+
+[Rugged] +2 to Vigor
+
+[Rejuvenate] (Uncommon) A target in close range gains a +15% mana recovery for 10 seconds plus 1% and 1 second for each skill rank you have with this skill. Cost: Moderate Stamina. Cooldown: 20 seconds post effect. | Range: Close. {Vitality}
+
+[Observant] +2 to Perception.
+
+[Life Bolt] A creature you can see in Medium range heals 1 Health plus 1 point of Health for each skill rank you have with this skill. Cost: Minor Mana and Minor Stamina. | Range: Medium. {Life}
+
+Or
+
+[Healing Wave] (Uncommon) Your healing skills can affect as many creatures as you choose within close range. The amount healed is equal to 30% of the skill’s healing amount plus 1% for each skill rank you have with this skill. Your mana expenditure is equal to the skill’s mana cost times the number of creatures affected. | Range: Close. {Life}
+
+[Awakened] +2 to Spirit.
+
+[Reinvigorate] (Uncommon) A target in close range gains a +15% stamina recovery for 10 seconds plus 1% and 1 second for each skill rank you have with this skill. Cost: Moderate Stamina. Cooldown: 20 seconds post effect. | Range: Close. {Vitality}
+
+Or
+
+[Revitalize] (Uncommon) A target in close range gains a +15% health recovery for 10 seconds plus 1% and 1 second for each skill rank you have with this skill. Cost: Moderate Mana. Cooldown: 20 seconds post effect. | Range: Close. {Life}
+
+Or
+
+You may advance [Heartfire] to [Homefire]
+
+[Homefire] (Uncommon) Create a spectral campfire. Any living being in Short range of the manifestation regains 2 points of Health for each skill rank you have with this skill every minute. The fire lasts for one hour. Undead creatures in this area will take damage instead of gaining health. The flames radiate a gentle aura of warmth and comfort, blocking unpleasant environmental conditions, such as harsh winds or rain. They will not burn their surroundings or living creatures. Cost: Modest Mana | Range: Short.
+
+There were some new choices he liked as well as some old ones, but currently, there were two that would help him the most: the mana restoration of [Rejuvenate] or advancing [Heartfire]. [Homefire] was better in every way than his original skill: it cost less mana, had a wider area of effect, it healed twice as much, and, to top it off, it didn’t just send out an aura of gentle comfort but actively blocked bad weather.
+
+Given that he could hit Hah’roo up for another mana bracelet, [Homefire] seemed like a no-brainer.
+
+You have advanced [Heartfire] to [Homefire]. You have one unassigned point in Spirit.
+
+Before he went on to the rest of the notifications, he had a question he wanted an answer to.
+
+‘Hey, Hawking? How come the leveling cascade happened now and not during the fight or even right afterward?’
+
+The process of leveling refills resources and removes several detrimental conditions. This mechanic is not to be used as the means to ‘game the system’ as you would put it, Joe. Hence, leveling is deferred until the conclusion of an active encounter.
+
+As it is also meant to be experienced, it, therefore, requires a conscious mind.
+
+Joe had actually used that trick in a few video games before. Get yourself close to leveling before entering a tough dungeon, then fight halfway through until you level your health back to full to save on potions for the other half. He could understand why Hawking would close that exploit.
+
+‘And two levels? I get how I leveled more than once with the Beguilburr. For that one, I was on my own. In this fight, I didn’t hit anyone. How did I gain so many experience points?’
+
+One’s contribution in a combat encounter is not gauged solely on direct damage to one’s opponents. Your healing, cures, and hexes were just as critical to the positive outcome of the conflict as Azbekt’s martial endeavors.
+
+‘Ok. Good to know.’
+
+Returning to his waiting alerts, he rapidly flipped through all of the skill increases, surprised at just how many skill ranks he had earned last night. His achievements were next.
+
+Exceptional Achievement You have taken and survived traumatic damage. Your conduct has awarded you the following choice of Traits:
+
+[Ironworks] You are obviously not wearing enough armor. You will gain the [Heavy Armor] skill
+
+[Overachiever] Big risks. Big rewards. +10% to overcome magical resistances when fighting enemies with levels higher than your own.
+
+Heavy armor had no appeal to him, so he took the one that would give him a better chance to land his spells.
+
+Exceptional Achievement: You have prevented the immediate death of another. Your conduct has awarded you the following choice of Traits:
+
+[Defy Death] Not gently. When reduced to 0 health, individuals within one of your healing effects retain consciousness for up to 0.5 seconds per point of Vigor you possess. Cooldown: Long. Note: This ability will trigger before [Punching Bag].
+
+[Nick of Time] You cut that close. Increase your Time affinity.
+
+This must have been the achievement he had received when he healed the sailor, Elmar Soly. He had thought he was getting an achievement for reaching fifteen ranks in a skill. This made way more sense. Elmar must have been on the very brink of death as Joe healed him.
+
+Looking at the two traits, Joe was torn. Time powers were often game-changers. While the [Nick of Time] wouldn’t give him any actual chronomancy abilities, it would make him better at them should he find some time skills in the future.
+
+[Defy Death] was too good to pass up, though. If he had a [Heartfire] ... no, correct that, a [Homefire] up, everyone in its now larger area could have a brief moment to save themselves from, say, a dragon’s breath or bolt of lightning. At the moment, the effect would only last four seconds, but against a surprise attack, that four seconds could be crucial. Joe selected [Defy Death], closing down the last notification.
+
+He knew he had to get out there and start working, but he was not yet ready to face the dwarven myrmidon. Delaying the inevitable for a few more minutes, Joe opened his character sheet.
+
+His enthusiasm for how well he was shaping up was fully offset by the dread of leaving his sanctuary. Fumbling around with his options, Joe looked for anything else he might have missed. Surprisingly, he found a menu he had never seen before.
+
+R
+
+e
+
+s
+
+i
+
+s
+
+t
+
+a
+
+n
+
+c
+
+e
+
+s
+
+Physical
+
+Mental
+
+Spiritual
+
+Physical Damage
+
+Minor
+
+Mental Damage
+
+—
+
+Spiritual Damage
+
+—
+
+• Crushing
+
+—
+
+Mental Condition
+
+—
+
+• Profane
+
+—
+
+• Piercing
+
+—
+
+• Confusion
+
+Major
+
+• Sacred
+
+—
+
+• Slashing
+
+—
+
+• Domination
+
+Major
+
+Spiritual Condition
+
+—
+
+Phys. Condition
+
+—
+
+• Fear
+
+—
+
+• Corruption
+
+—
+
+• Disease
+
+—
+
+• Stun
+
+— *
+
+• Curse
+
+—
+
+• Fatigue
+
+—
+
+• Poison
+
+—
+
+He noted the asterisk on Stun and assumed that it was not a fixed resistance but one he could have with his current skills. He cast [Stun Block] and watched the word ‘Minor’ replace the bar beside Stun.
+
+He was about to ask Hawking about these resistances, but he stopped himself. Digging into that material now would be passing beyond hesitation into downright stalling. With a heavy sigh, Joe acknowledged it was pointless to linger much longer. Sooner or later, the dwarf would bust his way in and drag him out if he tried to hide in the cramped cabin indefinitely.
+
+He might as well go out and do some good while he still had the freedom to do so.

@@ -1,0 +1,105 @@
+50 - Give It Your All
+
+There were dozens of cut nets. The sailors must have done as he did, slashing open the trapping coils, but they, too, had paid for foiling the hunter’s plans. Joe infused Parla with one more wave of health before using his talisman to jump to a sailor lying in a huge pool of his own blood. He landed harder than he meant to, still unused to teleporting across moving surfaces. He could feel his severed ribs grinding around inside his chest, causing black spots to fill his vision. He reached out and healed the moment he felt flesh.
+
+You have restored 30 points off Elmar Soly’s lost health. His current health is at 15%.
+
+Your skill [Healing Touch] has increased to rank 15.
+
+You have gained an Achievement.
+
+‘Fifteen percent? That was close,’ Joe thought.
+
+Elmar gasped a breath as his spell pulled the wounds closed. Joe layered on a second heal.
+
+You have restored 32 points off Elmar Soly’s lost health. His current health is at 30%.
+
+Realizing that the only health Elmar had was due to his heals, Joe was curious about the achievement. But now was not the time to read it. He scanned the battle and saw an elven woman frozen in terror as a gartroll charged at her. He reached out with one of his newer skills.
+
+You have removed the {Cowering} affliction from Jarenna Daskcalla.
+
+Your skill [Purge] has increased to rank 5.
+
+Immediately, the elf shook off her paralyzing fear and darted back to where a mass of sailors and passengers were holding the brutes back with axes, clubs, and blades. Joe turned away when she was safe, looking for anyone else who might need him.
+
+A second later, he used the talisman to jump again, landing between two wounded bodies sprawled on the deck. He put a hand on each and foolishly tried to heal both at the same time, causing his spell to fail.
+
+“Damn it!” he cursed hoarsely before alternating the effect between the pair. He had to pour another heal into himself just to catch his breath.
+
+As he did, he looked across the deck, spotting more fighting and more fallen.
+
+He also noted something else troubling. His new quarterstaff was sliding towards the edge of the deck. Not wanting to waste his talisman, Joe resummoned a [Helping Hand] and sent it skimming along the boards toward his wayward weapon. Just as the blue construct was about to grasp his polearm, a heavy, scaled foot slammed down on top of the digit, shattering it into a burst of fading sapphire shards.
+
+“God damn it!” he cursed even more hoarsely, watching his weapon vanish into the ocean. ‘That is the fourth staff I’ve lost.’ he thought, counting the sapling.
+
+The troll chuffed a gurgling laugh and tromped toward Joe and two slowly rousing individuals beside him.
+
+“You think that’s funny?” Joe growled. “Go kill as many of those trolls as you can,” he commanded, pointing at a squad of scaly raiders that were outnumbering the defenders. Joe was not asking. Backed by the [Band of the Beguilburr] and aided by a stronger Spirit, his edict was undeniable. The gartroll roared and charged into his fellow marauders, slashing and stabbing.
+
+With the two people next to him now safe, Joe looked for where he was needed next. There were plenty of injured, but he found his eyes drawn to the largest throng of sea monsters and the man they were desperately trying to kill, Azbekt.
+
+The dwarven warrior was surrounded by wriggling green limbs and a wall of twitching bodies. Covered from head to toe in green gore, the dwarf smashed his heavy axe into foe after foe. He must have had some taunting aura in effect because roughly two-thirds of the creatures were clamoring over each other to die by his axe. Were it not for the might and prowess of the Phealtian champion, the ship surely would have been overrun.
+
+Joe drew a passable breath and launched himself toward the next bleeding victim he saw.
+
+Time stretched into some unknown measure. Joe jumped across the deck until his talisman ran out of juice, healing anyone he could reach. Each time he was too late, he clenched his jaw tighter and pushed himself that much harder.
+
+Hah’roo spun around him, giving him cover time and again, while Azbekt drew the hordes of green raiders onto his hacking blade.
+
+There were only a few marauders left when the greater mana charm gave out. [Spirited] helped but Joe was starting to feel his mana drop faster than he could regenerate it. He worried he would not have enough energy left to save everyone.
+
+He ignored the drain and kept pushing himself as hard as he could to get to every downed person on the deck.
+
+At one point, a sailor thrust a potion bottle into his hand, which Joe downed without a thought.
+
+The [Greater Mana Potion] has restored 232 points of your mana pool. Your current mana level is at 100%.
+
+Given the level disparity between you and the potion, you will not be able to drink another resource-based potion for 1 hour without suffering {Overload}.
+
+Recharged mana-wise, Joe kept healing.
+
+There was never any question of stopping. Something in Joe took hold and drove him from one person to the next. It was a weighted need sitting on his heart. A chance to make something right; something so important, even though he was not sure what it was. It was tied to this new life he had been given and the old one he had left behind.
+
+Memories alternated with dark splotches in his vision. He saw Cora and Dave, caring for him, giving him human contact, all without showing the slightest sign of judgment or pity. He saw the Dellhams holding each other in joy at the restoration of Sarsha. There was Doctor Banks, Yu, and Kumar. Madina Spooner. His parents and brothers.
+
+He didn’t know why, but he felt like each person who died was his fault, that he was failing all those people.
+
+Some small voice inside him knew he was in shock, but that whisper was far too quiet to shout over the burning need to make right all that he had taken and lost.
+
+Joe was coughing up blood when the sound of fighting began to fade. Even then, he didn’t let the lull stop him. His job was far from over. Spitting out the ruby, wet globs, he moved on, finding Kyllean holding a gaping wound in his chest, barely breathing.
+
+You have restored 36 points off Kyllean’s lost health. His current health is at 17%.
+
+‘Out of how many,” Joe mentally grumbled, only to have the message instantly change
+
+You have restored 36 points off Kyllean’s lost health. His current health is at 58 points.
+
+“That helps,” he gasped.
+
+Summoning [Helping Hand] to assist in holding the deep laceration closed, Joe healed once more.
+
+“I’ll be back as soon as I can,” Joe sputtered, squeezing the first mate's shoulder.
+
+Locating the next red aura, he stood up, but the world spun out from under him. [Steadfast] activated, but anchoring Joe’s feet was no help when his knees were what was buckling.
+
+He crashed back down onto the deck. The impact on his broken ribs sent screaming spikes of agony through his chest. Panting and weeping, Joe tried to get up, but his body wouldn’t respond.
+
+A pair of white-furred arms eased him upward, helping him sit up.
+
+“Shhh, son,” Calzahs purred. “You must spend some of your healing on yourself. You can do no good if you pass out. Look. They are bringing the wounded to you. Please heal yourself.”
+
+Joe saw it was true. The black spots were everywhere in his vision, but he could see Parla and a young refugee were carrying a sailor to where Joe was lying with the catman.
+
+Gasping, Joe spent a [Healing Touch] on himself.
+
+You have restored 29 points of your health. Your current health is at 53%. You have severe underlying structural damage preventing any further healing at this time.
+
+His head stopped swimming from the lack of air, but he was starting to feel the effects of low mana. Yet surprisingly, there were very few grievous injuries headed his way.
+
+Even though there were wounded people all across the ship, Joe had been moving from person to person, touching each of them with his magic. Few were still in danger of bleeding out. Those few that were, were being carried to where Joe was being held up by the snowy parda.
+
+Hah’roo came by, but she too was out of mana, leaving her unable to knot him a new charm.
+
+As he sealed the skin closed on a spear wound, Joe heard the sailors argue about whether or not to throw the bodies of the gartrolls overboard. Some claimed that the creatures would heal the moment they hit the water, while others worried the trolls would regenerate on the decks and the fight would start again.
+
+He never made it to the end of the argument. The moment Joe used the very last of his mana, a storm of status conditions beat him into unconsciousness.

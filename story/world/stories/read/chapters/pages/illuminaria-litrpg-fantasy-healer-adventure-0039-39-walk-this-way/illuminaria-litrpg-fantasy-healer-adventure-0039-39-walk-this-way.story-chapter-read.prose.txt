@@ -1,0 +1,141 @@
+39 - Walk This Way
+
+“Eww. The skin is peeled back,” Kaid said squeamishly as he stared at Joe’s shin. “That looks bad.”
+
+“Agreed, but thanks to [Deaden Flesh],” Joe countered, “it doesn't hurt at all at the moment. Let me see what I can do to fix it, and we’ll get going.”
+
+“No rush. I know the Andoo’ak trip was a mess, but we covered a seedbag of miles thanks to it. Since the fey can’t help them across running water, there’s no way they’re still right on our trail.”
+
+“You better not have jinxed us, Bud,” Joe muttered as he used [Purge] to clean the wound.
+
+Kaid was right about the injury; it did look terrible. He had rolled up his pants leg, revealing a flap of skin had been torn away from the bone and was dangling loosely by a small bit that was still connected. The numbing effect of his witch spell allowed Joe to work on fixing the wound with a clinical mindset instead of one freaked out and distracted by the pain.
+
+When the gash was clean, Joe eased the scrap of torn flesh back into place and hit it with [Healing Touch].
+
+You have restored 13 points of your health. Your current health is at 94%.
+
+An underlying injury is inhibiting your healing.
+
+The torn flesh knit itself back together, leaving only a residual darkening of the skin. Yet Joe could feel the damage wasn’t fully healed. Using his healer’s skill, he examined his leg. Deep under the skin, Joe could see a red aura. The woundsight didn’t actually give him X-ray vision, but it showed him there was a problem inside the leg. His best guess was he had fractured the bone.
+
+Your skill [Assess Wounds] has increased to rank 7.
+
+During his healing session on the Crowfield commons, he noticed that his go-to healing spell was not as effective at mending broken bones as it was with skin.
+
+He layered on several more heals as an experiment and had some small successes. [Healing Touch] was not unable to heal bone; it was just pretty bad at it. Every couple of doses added another percent of health. It took the majority of Joe’s mana to get himself back up to 100%.
+
+“Ok. That is as good as it gets. I’m still going to be a bit wobbly until the [Deaden Flesh] wears off, but I think we can get moving again.”
+
+“Great. We should be able to make good time again. Could reach Heron’s Reef in a couple days."
+
+"Heron's Reef? What happened to Pheasant's Crossing?"
+
+Kaid looked over Joe's shoulder to the north and scratched his chin. "We floated a long, long way from Crossing. It would take twice as long to get back up there than it would to keep heading south to the Reef. The sunny patch is since we don't have to evade the hunters anymore, we can move faster. We can run and only have to try to be sneaky when we get to the town. Well, not that you have much of a sneak in you, Joe. Nothing personal.”
+
+“No offense taken. I plan on picking up [Stealth] the next chance I get to buy skill stones,” Joe agreed. “Maybe I should send you into town to grab me one before trying to get me on a ship.”
+
+“Nice thought, but that won’t work, Joe. You need some time to level stealth-skills before you have a chance of slipping past a town guard,” Kaid outlined glumly before perking up. “Hey! Did you collect your quest yet? Maybe you got something there that will help.”
+
+“Not yet. Good idea.” Joe was about to open his alerts when Kaid continued.
+
+“My response from The One Above was really weird. It was like the Quest Giver was being sassy with me. I got a choice between [Drifter], which gave a boost to travel skills, especially on water and [Out Cold], cold resistance.”
+
+“Those seem pretty normal to me.”
+
+“It wasn’t the rewards; those were pretty typical. It was the way he phrased things. The One Above is usually kind of dry, like Mister Hemberman, the librarian. This time, the Keeper of Fate felt kind of … I don’t know … playful, maybe,” Kaid mused, staring into the middle-space, which Joe assumed was the gnome looking at his notification windows. “I took the second one 'cause I hate being cold,” he continued. “The resistance is a great get. But ‘Out Cold?’ I mean, that is like The One Above was just mocking me. So weird.”
+
+“Huh,” Joe merely grunted back. Hawking had always been personable with him, to the point of being a bit snarky at times. He had never considered that the odd entity’s tone would be any different with others. Opening his notification, Joe read what seemed like a very typical Hawking dialog.
+
+You have successfully completed [Desperate Gamble].
+
+Your quest reward is a choice between the following:
+
+• [Risk Taker]: If you’re going to keep pushing your Luck. Gain a minor Luck Pool
+
+• [Forder]: Ride the slippery slope. Gain a moderate increase to your footing & [Brawny] +1 to Strength
+
+• [Chill Bane]: I like the cold. You have Moderate Cold Resistance & [Hardy] +1 to Vigor.
+
+He was immediately skeptical of the first option. Joe had built luck-based characters before, and all of them were essentially cheats. They were characters designed to exploit rule loopholes. Sometimes, they were ridiculously successful, so much so that they often stole the show from the rest of the party. Other times, they were wildly inconsistent. They could perform some ridiculous feats yet constantly fail at common tasks.
+
+While Luck might work completely differently in Illuminaria, Joe didn’t want to delve into the fickle hands of fate until he had time to understand what binding himself to luck would mean.
+
+That left [Forder] and [Chill Bane]. Joe liked the idea of being more sure-footed better than he liked the idea of Cold-based abilities. On the other hand, he already had two open points in Strength and no idea what sort of skill or skills he’d use them for. He really didn’t think he wanted a third one right now.
+
+An open point in Vigor seemed like something he was far more likely to be able to fill; not to mention more stamina and health were always appreciated.
+
+He selected the third option and felt a small burst of vitality flow through his tired body. Riding that surge of wellness, he popped up onto his feet while sending a thought to Hawking.
+
+‘Do you phrase things differently depending on who you are talking to, Hawking?”
+
+Beings that have been transferred into Illuminaria possess an increased distinctiveness. This additional significance allows for a more familiar level of communication.
+
+‘So you goof around with all the newcomers?’
+
+Incorrect. I have chosen a jestful manner of speech due to your memories. It appeared to be the form of communication you were most comfortable with. If this is incorrect, I can adjust the flavor of my wording.
+
+‘Please don’t. You got it spot on. All my friends and I have always poked fun at each other. That’s how we expressed ourselves. As a matter of fact, that’s how we showed we liked each other. If we weren’t breaking your balls then you probably weren’t really part of the group. Keep giving me guff, bud.”
+
+Very well. In that spirit then, I will point out you are being quite obtuse. You are missing something. Something big.
+
+Joe stopped sending thoughts and cleared his mind, trying to figure out what he was missing. As he did so, he reached an arm out to steady himself against a tree trunk, resisting the urge to stamp his foot. It felt like his lower leg had fallen completely asleep, but he knew that boosting its circulation was not the answer. He had to wait out the spell.
+
+Or was that what he was missing? Could he end his spells early if he wanted to? Joe tried but no such luck; he couldn’t find a way to choose to end [Deaden Flesh] early.
+
+He could [Purge] it, though.
+
+Your skill [Purge] has increased to rank 4.
+
+While it was nice to have feeling back in his foot, which would mean they could move faster now rather than later, Joe didn’t think this was the revelation that Hawking was referring to. It wasn’t until he turned to Kaid, who had been happily chatting away this whole time, that Joe thought he knew what Hawking was hinting at.
+
+“... I mean, if you were a gnome, like me, then we could probably get enough levels to make it work. We get a bonus to stealth. So even a few levels would be more effective.”
+
+“Wait. You get a racial bonus to stealth?”
+
+“Yup. That and [Groundling], which is what gives me my improved nightsight, as well as the ability to make good burrows.”
+
+This is what he was missing. Joe could be a gnome, or at least enough of one in this instance to gain a racial trait. At least he could if the cooldown on [Anyone] had reset.
+
+It had been over a day, almost two, since he last used it. Somehow, Joe also knew that leveling was part of the equation, but that was also not an issue. He had leveled not once but four times since Thorton had shared [Iron Mind] with him. Mentally nudging the trait, it felt receptive to him.
+
+Why not give it a try? The worst that happened was another headache … at least, he hoped that would be the worst.
+
+Still, in light of Hawking's prompting, it just felt right.
+
+“Hey, Kaid,” Joe began gingerly. Even though he knew he was not taking anything away from the little man, somehow, it felt awkward to ask for a trait.
+
+“What?” the small scoundrel replied. When Joe was a bit slow with his follow-up, Kaid turned to look up at his companion. “What is it, Joe? Is something wrong?”
+
+“No. I was just wondering if you would be willing to share that gnomish stealth trait with me?”
+
+“Whatya mean? You can’t share traits. Just skills?”
+
+“I can. Not all traits. But I can gain racial traits from other races. That is the other thing the fairy heritage gave me besides the assessment mystifier.”
+
+“That’s so cool. Sure.”
+
+A second later, Kaid’s character sheet opened to Joe. Most of it was blank, like Thorton's had been, but Joe could see the gnome's traits and skills. All but two of the traits were greyed out. Kaid didn’t belong to any social organizations. Additionally, since his last name was Ward, it was likely that the small ruffian was an orphan, so he had not inherited any traits from his family.
+
+Not wanting to snoop through Kaid’s traits, Joe was able to filter out the shareable skills from the list with just a thought.
+
+TRAITS
+
+• [Groundling] (Racial) - Can see clearly in dimly lit conditions and are skilled at creating burrows.
+
+• [Sneaky] (Racial) - Moderate enhancement to stealth-based skills.
+
+Technically, being able to see in the dark would be more helpful at the moment as Joe did not have a stealth-based skill, but he hoped to fix that next. Joe grabbed [Sneaky] and then looked at Kaid.
+
+“Wanna share ..”
+
+“The skill? Of course. The trait’s not good without it. Go for it.”
+
+Kaid actually had two different skills that specialized the basic stealth skill. He had one focused on thievery and another for stealthful movement. Joe spent one of his free points on Dexterity, and selected the second one.
+
+You have learned the common skill: [Whisperstep]. This skill aids your ability to perform actions unobserved or unnoticed. Its primary focus is sneaking and hiding, but it will provide a minor enhancement to all secretive actions, such as sleight of hand. Cost: Minor Stamina {Instinct}
+
+After getting a confirming nod that the exchange was complete, the small sneak rubbed his hands together, grinning up at Joe.
+
+“Ok, Joe. Let’s practice skulking as we head for the port,” Kaid stated as he melded into the forest. “Let’s play tag. Bet I win.”
+
+Joe rolled his eyes, knowing he was going to lose this game badly. He also knew that the activity was not really a contest but a challenge to level up his new skill. Kaid gave him a few quick pointers before vanishing into the trees. Sending Stamina to [Whisperstep], Joe began to learn how to lurk.

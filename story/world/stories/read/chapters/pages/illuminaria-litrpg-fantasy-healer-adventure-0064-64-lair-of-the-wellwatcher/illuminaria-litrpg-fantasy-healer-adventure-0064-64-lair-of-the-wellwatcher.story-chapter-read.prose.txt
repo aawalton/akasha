@@ -1,0 +1,105 @@
+64 - Lair of the Wellwatcher
+
+The door opened to a long stairway descending into darkness. They were not steep, actually, the steps were much shallower than he was used to. So much so, he kept stumbling over his own feet. After almost tripping a third time, he knew there was no way he was going to make it down these stairs in the dark without some light.
+
+Thankfully, he still had the standard adventurer’s kit that Gurda Eldauk had sold him. He had found aboard the Tide Dancer that the lantern had not survived his ride down the Andoo’ak River. He had already used up the oil fighting the Beguilburr anyway. The torches were spent as well, but there were four candles he had never used.
+
+Joe dropped a [Homefire] at his feet and began rooting through his bag. When he found the tapers, with the flint and steel, he realized he had another problem. He had no idea how to light a candle from a flint spark. He tried anyway for a good minute before sighing and throwing everything back in the bag.
+
+“[Heartfire] it is,” he muttered to himself before recalling the name change of his skill.
+
+The campfire gave off plenty of light, the only problem was it was stationary. Joe peered ahead and was able to make out a landing twenty yards below himself. He dropped a new [Homefire] there, which caused the one at his feet to dissipate. He headed down to the far edge of the lit area and cast again. He kept this up, leapfrogging his way down and down the seer’s long stairway.
+
+As the fourth [Homefire] burned behind him, Joe noticed a thick patch of cobwebs crossing the stairway. As he approached, he realized that the webs were not as dense as he had originally thought. They were actually thick, each strand more like fuzzy knitting yarn than thread.
+
+He stepped back only to have a sharp pain spike into his shoulder. Joe spun to locate the ambusher, but the shadows and webs were too thick to pierce. He quickly recast [Homefire] by the wall the attack had come from, revealing a large black arachnid. The spider recoiled and hissed. Joe recoiled and shuddered violently.
+
+Onyx Weaver: Level 1: Vermin: Lurker: Dexterity
+
+The creature was not huge. Its body was about a foot wide and two in length; each black segmented leg was about two or three feet long. It was only a level one creature, and yet Joe was more terrified of it than he had been of the hulking gartrolls.
+
+Joe had always known his fear of spiders was stupid. House spiders were harmless. Even the bites from the wolf spiders that lived in the wood pile or under the deck were not dangerous, just painful. Yet logic was zero help in this matter. Irrational fears were exactly that: irrational. Some primal instinct inside him was screaming, and Joe was suddenly powerless to override it.
+
+He stared, paralyzed, at the creature. The ebon spider, with its eight beady eyes, stared right back. Waiting.
+
+When he felt himself start to wobble, he knew what it was waiting for. Joe’s sense of balance began to spin away from him. Just as he was about to fall over, two things happened simultaneously: [Steadfast] flared, keeping him on his feet, while [Strong Arm] smacked the pouncing spider midleap out of the air, sending it hurtling down to the landing below.
+
+In the moment it was dazed, Joe cast.
+
+[Purge] has removed the {Sickened} aspect of your poisoning, reducing {Poisoned} from severe to moderate.
+
+Joe's head cleared even though he still felt weak. A shot of [Effereous Endurance] countered that. While he didn’t have a full cure for the venom, he could keep at least the amount he had in him from overwhelming his body.
+
+On the steps below, the spider righted itself and charged. Its skittering movement freaked Joe out, but this time, it drove him to act and not freeze. The afternoon with Hah’roo and the Count had not been wasted. He slid his feet into the proper stance and readying himself to strike. As soon as the weaver was in range, Joe nailed it with [Deaden Flesh] and hammered the staff into its head.
+
+krakaBOOM!
+
+The thunder-enhanced blow crushed the verminous ambusher, throwing the corpse back down the stairs again. It also set Joe’s ears ringing from the resounding clap in the tight stairwell.
+
+The spider lay on the landing, upside-down, legs curled, leaking a green goop from where its face had been.
+
+“Bleh,” Joe blurted with a full-body shudder. “Why did it have to be spiders?” he groaned, playing off Indiana Jones.
+
+Thankful he could loot the body without having to touch it, receiving a spool of spider silk cord and a pair of slightly toxic mandibles.
+
+He pushed on downward, here on out, watching carefully for more webs. By the time the {Poisoned} condition faded away, he estimated he had descended at least eight floors below street level. All the while, the steps had grown damper the lower he went, which was not much of a surprise given that Peregrine Harbor was a coastal city.
+
+Finally, the steps ended, but where they ended was completely unexpected. Joe looked through a doorway-sized opening at the base of the steps into a beautiful underground grotto. Globes of light hung from chains stapled onto the ceiling. These lights reflected off sources of water everywhere throughout the cavernous chamber.
+
+There were natural pools spaced randomly around the floor. Some of these were the size of hot tubs, large enough for a couple of people to bathe in. Others were only a few feet across. Interspersed between these pools were basins, tubs, barrels, and vats. These, in turn, were surrounded by dozens of chalices and cups. All totaled, the cave must have held hundreds of bodies of water, from large to tiny in size. The light of the globes reflected off all the various liquid surfaces, giving the area a sense of motion.
+
+A curving path, rubbed smooth, twined its way around the grotto. Joe could see how the path would allow someone to check in on each of the pools or clusters of vessels. As he stepped off the last stair, the surface of the largest pool in the center of the cavern stirred. A creature rose silently from the water. At first, Joe thought it was a giant golden snake but the serpentine form gave a lazy stretch, spreading out a pair of long, scaled humanoid arms. This must be the oracle.
+
+– –
+
+Joe wondered if this was one of the four other people Jink couldn’t [Identify]. He sure wasn’t getting anything from her.
+
+There was something feminine about her features and movements, but Joe could not be completely certain, even though the serpentine being wore nothing in the way of clothing. Her face was a mix of snake and humanoid characteristics. Tilted amber eyes hovered over slitted nostrils, which stood above a long, angular jawline. She had no hair. Instead, a hood extended from her cheekbones, up over the top of her head, and tapered down to the top of her shoulders.
+
+Her scales varied from pale gold down her front to patterns of bright gold and darker antique gold along her back and arms. She reached out and grasped a robe hanging from a hook by the stairs and wrapped it languidly around herself. Her manner clearly stated she cared nothing for modesty but that the robe was simply for propriety's sake.
+
+“I am intrigued. I sssaw Jink’sss arrival with the white-wind-woman, but they wait above. You, I did not sssee,” the naga hissed skeptically. “How can thisss be? How are you hidden from me even in my presssencsse?”
+
+“Greetings Madam,” Joe replied, tipping his head into a small bow. “Um, a gift from The One Above. Divinations and assessment don't work on me.”
+
+“Well that isss most irksssome. I find I quite dissslike one with hidden fatesss coming into my home. I think you ssshould go back wencccce you came, ssstranger.” The golden-scaled woman wriggled back a few feet, and her hood flared a tad wider menacingly.
+
+“Wait, please. The One Above gave me a quest, and Jink said that because of that, you could do what no other diviner has been able to do.”
+
+“I would not trussst much that ssshyssster utters, but I am now curiousss. What isss thisss quest of yoursss?” the naga asked, coiling herself into a position where she was both seated and the seat itself.
+
+“The Night Skinner, Ma’am,” Joe stated, keeping his mind clearly focused on that one thought. “I need to know where he will be tomorrow night. Or at least one of the nights of this full moon, if it can’t be tomorrow.”
+
+“The Moonlight Ssslayer. I have ssseen him in my visionsss. You are not the first to ssseek me out. I turned the othersss away. What makesss you think you will gain my guidancccce?”
+
+“Did the others have a directive from The One Above?”
+
+“True, they did not, but ssstill, I sssee no benefit in thisss for me. Why ssshould I give thisss to you?”
+
+These words, though spoken with conviction, did not ring entirely true. The naga was more curious that she was letting on.
+
+“The thing is killing people. Don’t you want to see that stopped?” Joe countered.
+
+“Bah! I have ssseen countlessss generationsss of people live their livesss. I expect I will sssee countlessss more. What are a few deathsss in the light of the being of prophecccy?”
+
+The bell toll was clear. People’s lives meant nothing to the Wellwatcher. He was not sure how to proceed. The being he was after was a killer, but the oracle didn't care in the slightest about the deaths of innocents.
+
+Unsure where to go from here, Joe cast [Crystal Mind] to see if he could explain why murder was one of the worst act someone could perform. As the spell brought clarity to his thoughts, he immediately saw how pointless that argument was with this ancient being.
+
+But there was something else there that his mind locked onto.
+
+“Prophecy? What being of prophecy? The Night Skinner?”
+
+“Yesss!” Madam Zanthiss reared up, lifting her body on her long snake tail until she towered over Joe. Her voice took on a deep timber, causing it to echo ominously around the cavern. “The Night Ssskinner isss no mere villainousss killer. He hasss the potential to shape hissstory. I, for one, very much wish to sssee what the eighteenth omen will bring about in hisss possssessssion. Long before anyone has the chance to ssstop him, hisss destiny will be complete. And I will witnessss it.”
+
+‘The eighteenth omen?’ Joe recalled that someone had called his Mark of Death the Thirteenth Omen. Did that mean the Night Skinner also had a prophetic mark?
+
+“So, you want to see what the Night Skinner will do because of his … or her prophetic mark?”
+
+“Correct, ssstranger. What could you posssibly offer that could bessst being able to witnessss that phenomenon?”
+
+“What if you could witness something even rarer?” Joe asked. “I’m sure you have watched the fate of those with Prophetic Marks before.”
+
+“I have and I will tell you there isss nothing more fulfilling than watching one who bearsss a Mark of Dessstiny.”
+
+Joe pulled back his sleeve. “How about watching two prophecies duke it out to see which one comes out on top?” He raised his arm high up over his head. The flickering lights that filled the grotto caught on the golden motes in the sign Joe bore, causing it to throw back its own glinting reflections.

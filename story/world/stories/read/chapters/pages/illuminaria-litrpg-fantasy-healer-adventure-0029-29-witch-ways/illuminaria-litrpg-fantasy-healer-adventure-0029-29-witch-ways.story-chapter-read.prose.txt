@@ -1,0 +1,131 @@
+29 - Witch Ways
+
+As they poled up to the shore, Joe watched the winsome witch cross her arms.
+
+“You two certainly have been busy,” she scolded. “Can you explain why a simple harvesting quest precipitated the near deforestation of the Dourfore?”
+
+Once again, her enticing presence washed over Joe, swamping his concentration with good-natured coquetry.
+
+“Lady Growlbee, any chance you can lower the glamour by half? I know you don’t mean any harm by it, but I’ve had a very harrowing last hour or so. I could really use a bit of clearheadedness.”
+
+“Very well,” the woman replied, and everything about her seemed to change. Gone was the alluring maiden, replaced by a wise matron, not an elder but a motherly figure, regal and earnest. Her voice had dropped an octave from its previous singsong melody to a more stately tone. The colorful cotton frock was now a full-length velvet dress in a dark emerald hue. “Please, sit and refresh yourself. I am curious as to how the blaze came about.”
+
+“It wasn’t all Joe’s fault,” Kaid blurted. “There was a mind-controlling plant out there. It almost killed us.”
+
+In reply to Granny’s arched brow, Joe added, “It was called a Beguilburr. Fire was the only thing I could think of to get Kaid free of it.”
+
+“Hmm. I will have to be more vigilant of the northern edge of the forest. Once one Beguilburr sapling crops up, more often follow.” the dame mused, pouring herself another cup.
+
+The tea service had been altered, much like the woman who was making use of it. Gone were the light porcelain pieces with a dainty floral pattern. Instead, the cups and saucers were made of heavy china banded by Celtic knotwork. The pot and bowls were fine silver. Joe noted that the white wicker table and chairs had also been swapped out, replaced by a more refined set made from dark stained wood.
+
+On top of the table, a portable writing desk had appeared sometime in the last few seconds as well.
+
+“Um,” Joe uttered as he took in the changes. “I don’t think it was a sapling. Or at least it didn’t mention sapling when I identified it.”
+
+“Really. Then, that is quite an accomplishment. A mature Beguilburr would be a challenge for even a seasoned adventurer. You must have earned yourself some wondrous loot from defeating such an elite enemy.”
+
+Joe’s heart sunk into his stomach. “Oh damn it!” he swore. “I was so busy with Kaid and the fires I totally forgot to loot the monster.”
+
+“There may still be time. Add me to your party. My Storm Crows are still circling overhead, watching to make sure the fire does not break out again. Thankfully, the dry days of summer are still months away, but grassfires are notoriously tricky once they get going as well as yours was. If I am a party member, I can have them loot the corpse for you.”
+
+Before Joe could even open the party window, a notification appeared granting her access.
+
+“Could you have your bird look for any daggers in the burnt area, please, Granny,” Kaid pleaded. “I lost a bunch of good ones back there.”
+
+While the woman closed her eyes, likely to communicate with the distant flock, Joe couldn’t help but peek to see just how powerful the woman in front of him was.
+
+P
+
+A
+
+R
+
+T
+
+Y
+
+Name
+
+Health
+
+(Current/Max - %)
+
+Stamina(Current/Max - %)
+
+Mana(Current/Max - %)
+
+Conditions
+
+Gerabella
+
+1397 / 1397 100%
+
+4472 / 4472 100%
+
+Kaid
+
+89 / 89 - 100%
+
+429 / 429 - 100%
+
+Joe
+
+44 / 45 - 99%
+
+143 / 143 - 100%
+
+138 / 138 - 100%
+
+Since he couldn’t see levels from the party screen, Joe was tempted to [Identify] her as well, but he quickly reconsidered. Given the woman’s mysterious and everchanging nature, he realized she probably would not appreciate him actively peeking behind the curtain. Getting her full name, though, was fun. Gerabella Growlbee had a nice alliteration to it.
+
+“Done,” she intoned. ‘I cannot make any promises, but the ravens will search the area for your lost blades.” Turning back to Joe, she added. “All right. Let’s get you that spell you bargained for. Assuming that is that you managed to gather my saddleleaf before you started your wildfire.”
+
+“I did,” Joe answered, digging the leaves out of his pack. “You can have them all. Payment for hunting for Kaid’s knives.” The gnome tossed Joe a smile.
+
+“Very well.” Granny pulled the wooden case over to her and flipped open the cover. She began to draw out items, placing them on the table: parchment, quill, ink, and two jars of glittering dust, one green and the other silvery.
+
+“I have two that should work for you, Joe,” she began, opening the inkwell. “The first option is one of my favorites: [Summon Leeches], an uncommon skill. The summoned vermin are excellent for drawing out poisons and blood impurities. As a bonus, the squirmy dears are also very useful in combat. On their own, they can {Weaken} targets, but a skilled hexist can add all sorts of wonderful afflictions through their bites. They can even be used for scouting, though the information you’ll receive is rather limited as they are but simple creatures.”
+
+“The only real drawback I have ever found with the spell is that the poor little darlings often unnerve their patients. Such misunderstood creatures,” the witch added.
+
+“Uh. I think I’m with those squeamish patients, Granny,” Joe replied with a small shudder. “I really don’t see myself summoning leeches. What is the other option?”
+
+“Then we are looking at [Dispel Rot]? Another very good skill, especially for a common one. Not only is it effective for treating infections and necrotic tissue, it can also be used in combat. It is devastating against many undead creatures. The fleshy ones. Just don’t try it on skeletons, as it’s quite useless against creatures without flesh.”
+
+“That sounds perfect. Thank you.” The two spells piqued Joe’s curiosity. They seemed far more complex than the spells he had seen from his class so far. “Is that how many witch skills work?” he asked. “Both of those were a combination of support and combat rolled into one skill.”
+
+“For the most part, that is exactly the case. The focus of witchcraft is balancing cures and curses,” Lady Growlbee explained. “Your traditional healer spells will do one thing, and they will do it very well. Witch spells are not as powerfully focused; they often mix boons and banes together, allowing a witch to use her spells in multiple ways.”
+
+She picked a sheet from the table and began to write on it. Her flowing calligraphy swooped across the page. After a grand flourish, she lifted the quill and sprinkled a pinch of each powder across the ink.
+
+“This will function just like a crystal. Concentrate on it, and it will transfer itself to your skills.”
+
+Joe took the parchment she had slid across the table to him. The ink had changed. Instead of its original black, it was now a deep purple. The glitter-like dust had also become violet-hued. Joe didn’t even need to ask what attribute this scroll was attached to. It was obviously Spirit.
+
+He assigned a free point and felt his mental acuity sharpen just a bit more. Holding the parchment, he focused on the page, and it unraveled in his hand, imprinting its contents onto his mind.
+
+[Dispel Rot] Breaks down necrotic tissue in the immediate range. If putrefaction is too severe to be destroyed, the corruption is expelled from the immediate area. Cost: Medial Mana | Range: Immediate. {Blood}
+
+As a common skill, Joe realized he still had four free attributes to spend.
+
+“So you mentioned a second spell,” he prompted, hoping she was still willing to share another one.
+
+“Well, I can make you a copy of [Summon Leeches],” she teased, “The two are a bit redundant but not entirely so.”
+
+“Umm, no thanks,” he declined again. “Do you by any chance have a good uncommon Vigor-based spell that you think might help me? My health pool really needs a boost.”
+
+“Something he can use to fight with,” Kaid added. “How about just a straight-up, nasty curse, Gran?”
+
+“People often come to us for our curses. I have several stamina-based damage spells, but I’m not sure this young man has the affinities or temperament to invoke them with the vehemence they would require to be truly effective.” She fixed her eyes on Joe. Instead of swamping him with her alluring charms, this appraisal was almost clinical. “I think we'd better off adding another medicinal aid that also possesses a bite. I know just the thing: it will not inflict damage, but I found it an invaluable tool in combat.”
+
+She took a second sheet and began to write again, speaking as she did so.
+
+“Curses are most effective when the caster can conjure the correct degree of malice to make them stick. I don't think this young man would be very good at reaching that mindset. A wizard merely needs to know a spell’s formula to invoke its potential. A witch needs to have her heart invested in a spell or it will be weak. This is a spell I can see Mister Morris having no trouble accepting.”
+
+When she dusted the paper with the combined glitter, Joe watched both it and the ink turn a deep green. The page was entitled “Deaden Flesh.”
+
+“This spell is technically a curse, but it is one I think you will have no trouble with. I realize that while [Deaden Flesh] sounds ominous, it is not a necrotic spell. It causes numbness, not tissue death. The effect can be used to treat those in great pain but is also highly effective in a fight. Deadened hands cannot clutch weapons. Deadened legs will topple a foe.”
+
+“That is perfect. Thank you,” Joe exclaimed, assigning the required free points. His Vigor doubled to four, and Joe felt great. The overwhelming sense of wellness was almost akin to the feeling from leveling; it just lacked the burst of euphoria.
+
+[Deaden Flesh] Cause localized numbness in a target within close range. Your chance of bypassing the target’s Physical Condition Resistance increases with each skill rank you have with this skill. Cost: Moderate Stamina. | Range: Close. {Paralysis}

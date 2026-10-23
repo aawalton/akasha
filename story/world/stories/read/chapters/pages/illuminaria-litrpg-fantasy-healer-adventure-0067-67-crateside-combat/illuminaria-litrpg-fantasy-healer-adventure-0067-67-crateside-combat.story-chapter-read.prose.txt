@@ -1,0 +1,103 @@
+67 - Crateside Combat
+
+Eventually, Hah’roo led them up a flight of wooden stairs. At a padlocked heavy door, she reached into her hair and pulled out a pair of crooked wires. Crouching, she inserted the tines of metal and, in seconds, popped open the lock. Drawing him inside after her, they inched their way through the dark space to a window.
+
+“Watch,” was all she said.
+
+A minute later three figures appeared from around a building, moving generally in their direction. While not the front figure, one of the hunters immediately drew Joe’s attention. The man was a brer. The white, anthropomorphic hare wore a vest, wide-brimmed hat, and leather pants. His big feet were bare, and he had a dark bandana tied around his neck. In one hand he held a black rod with bands of metal around the end. In his other hand, he carried a wicked-looking pick. The jagged spike of that second weapon wiped away any levity Joe felt about being hunted by a white rabbit.
+
+The next figure was female. She was lithe and lean, likely an elf. She wore a fur-collared duster and carried a complex-looking crossbow. She, too, sported a broad-rimmed hat like the rabbit and the skull-masked man. Joe could pick out other weapons littered around her body. Knives, darts, hand-axes, and more were tucked in sheaths and hooked onto her numerous belts.
+
+The last hunter wore a leather cowl that covered his shoulders, neck, and the lower half of his face. He had two swords drawn. One was a thick curved falchion. The other was a long thin, straight blade that seemed to be made of molten lava. It glowed a ruddy red in the night’s shadows.
+
+The trio of hunters stopped. They scanned the buildings on either side of them before the two men looked to the female tracker. She tipped up her nose, searching for his scent. A moment later she gestured at the corner of the warehouse where he and Hah’roo were peeking down through the window.
+
+Hah’roo leaned in close and whispered to him. “Follow me. Quietly.”
+
+She backed them out of the office room they had been hiding in. Entering the warehouse proper, they found themselves on a wide balcony. An opening in the middle of the decking overlooked the main floor two stories below where they stood. There were plenty of boxes stacked on their level, and Hah’roo wasted no time dragging Joe deeper among the crates.
+
+Ducking down between two tall stacks of wooden crates, Joe strained his ears to listen for sounds of those hunting him. He knew they had to be close. A creak sounded from the floor not too far off, and a hissing whisper issued from further away. He could see almost nothing in the gloomy space. It wasn’t until a notification popped into view that he knew he had been spotted.
+
+A hostile entity has detected you. You are not hidden.
+
+There was no time between the warning and the attack. A white form slammed into him, cracking his head against the boxes and sending stars across his vision.
+
+[Stun Block] has failed to resist a hostile condition. You are {Stunned}.
+
+“Hiya, rat! We’ve been looking for ya. The Duke wants a word with yeh,” an oddly slurred voice gloated from above him. Joe looked up into the eyes of the leporine bounty hunter. The white furry creature’s expression was smug and cruel. Without actively meaning to, Joe assessed the man pinning him.
+
+Lemek Kirejon: Brer: Bruiser/Vigilante 19
+
+A long, heavy foot was pressing against Joe’s throat, stopping him from regaining his breath. Even though air would become an issue soon, the spinning from the stunning blow was more problematic. Joe needed to be able to think clearly. He locked his eyes onto the furthest pile of crates he could see in the dim lighting. The second the {Stun} ended, Joe activated his medallion.
+
+“Son of a seacat,” Lemel barked. “The rat’s a blinker!” the brer shouted to his teammates, as he spun to reorient on his target.
+
+Joe was about to dive through crate stacks when he spun from a sickeningly painful blow to his shoulder. Looking down, he spotted an arrow lodged into his flesh. Worse yet, even in the dim light, he could see something had been applied to the barbed head. The location of the arrow was not life-threatening, clearly shot to incapacitate instead of kill, but whatever was on the bolt could take Joe out of the fight if it wasn’t dealt with immediately. He yanked the shaft free. His head swam from the pain of the toothed arrowhead tearing out of his flesh, but thankful this time his skill activated.
+
+Your skill [Stun Block] has increased to rank 5.
+
+The woman already had another bolt loaded and was bringing the weapon back up to bear. Joe didn’t wait. He didn’t have a lot of offensive tools in his bag and possibly his best one he was not a fan of, but in this case, it was his life or his moral qualms. Qualms be damned.
+
+He aimed his left hand at the woman and activated the [Band of Beguilement].
+
+“That’s the guy you’re after! Not me!” he yelled, swinging his arm to point at Lemek.
+
+You have overcome Myrin Tramora’s mental resistance. She is {Compelled}.
+
+As Joe watched as the huntress retargeted her aim to lock onto her hairy companion, he slapped a hand to his wounded shoulder and cast. Fluid spurted out of the wound, leaving Joe feeling a tad lightheaded, but he generally felt better afterward.
+
+[Purge] has removed the {Weakened} aspect of your poisoning, reducing {Poisoned} from moderate to minor.
+
+‘Good thing they are not trying to kill me. More toxic poisons would be a real problem. I’m regretting not taking [Poison Resistance] now,’  Joe mentally chided.
+
+“Aw, bear balls. Myri don’t!” The rabbit-like bruiser rolled away. She tracked his path and fired, barely missing her target. Lemek was incredibly fast. In a second, the elf had reloaded and was moving after her white-furred prey.
+
+[Healing Touch] refilled his health and closed the wound, even though his shoulder still hurt from the recent abuse. Joe used this moment to dash away from the pair of bounty hunters. He jogged through the stacks, trying to be light on his feet but clearly failing as his [Stealth] refused to activate.
+
+As he rounded the corner of one pile of boxes, a burning red glow stepped out in front of him. Instinctively, Joe’s hand smacked away the incoming attack. This prevented him from being skewered, but the molten sword scorched the skin of his palm, leaving it instantly blackened.
+
+Your skill [Strong Arm] has increased to rank 11.
+
+“Wait, I thought I was wanted alive,” Joe yelped, cradling his scalded hand.
+
+“Automatic cauterization,” The hunter growled smugly. The clear note of truth was not reassuring.
+
+Albero Stanton Human: Fighter/Duelist 14
+
+Albero leveled the point of his sword at Joe again, but before he could lunge, his head snapped to the side. The man swayed on his feet, and Joe’s woundsight showed him an angry red bloom over his right eye. The bladesman shook his head and looked around only to have the weighted end of Hah’roo’s rope-dart strike his face again, this time to his cheek. Albero stumbled and dropped to one knee, still clutching his molten blade.
+
+Not waiting for the galeling to strike again, Joe dashed forward and struck with his staff. The blast of thunder sounded at the same second Hah’roo’s metal-tipped rope struck the swordsman a third time in the head, dropping the man out cold.
+
+“Well done," whispered Hah’roo as she appeared at his side. “Not so much for this,” she stated, gesturing to the unconscious bounty hunter, “but for the other two. That was cleverly done. How long will your enchantment last?”
+
+“No idea. I’ve only used it once before on a lion. It lasted a couple of minutes that time.”
+
+“Then we should move now while we have the advantage.”
+
+“Nah. You two ain’t going anywhere but to see the boss,” a voice growled from the top of the boxes at their side. A blur of white fell on them. “You thought Myri, was a match for me? Yer an idiot!”
+
+A powerfully driven foot slammed into Joe’s gut, hurling him off his feet and sending him tumbling away. The polearm launched from his hands, disappearing into the gloom. At the same time, Hah’roo cried out as the rabbit’s weighted truncheon smashed into her forearm, resounding with a dreadful crack. Lemek followed his attack up with a series of powerful blows, battering and slicing open wounds in the huntress. The brer drove her back, repeatedly striking without mercy.
+
+After a second, Hah’roo recovered her balance and began using her inhuman grace to sidestep the hare’s furious assault. Unfortunately, with a broken arm and a weapon that could not be wielded one-handed, she had no good means of fighting back.
+
+Joe scanned around for his staff, but he couldn’t see it. He drew the goblin knife, trying to think of what he could do. [Deaden Flesh] could level the battle, but it required him to get into close range. The pair of combatants were bounding around so much that Joe could barely track them, let alone close the distance between them and him. If both of them did not have stark white limbs, Joe would have lost them already. Instead, he stumbled after the pale white blurs, as he regained the wind Lemek had knocked out of him.
+
+He was not sure what he could do with the little goblin blade, but he didn’t have anything else. The band was recharging. He would be just as likely to hit Hah’roo as the Lemek with the [Slow Stone]. The talisman took too long to lock onto a spot. The time it would take for him to focus, they’d be long gone.
+
+Joe racked his brain until he remembered he had one more item, one he had completely forgotten about. He reached into his belt and pulled out the [Goblin Card]. He had no idea if it would help, but another ally could only be a good thing. He focused his attention on the scrap of parchment, and it began to tingle in his fingers. A second later, it dissolved, and a misshapen, ugly green face peered up at him. The squat creature stared unblinking, clearly waiting for a command.
+
+“Go get the rabbit. Help the blue-haired woman,” Joe ordered. The small thug snatched the blade out of Joe’s hand, and, with a warbling cry, it dashed after the somersaulting white combatants. Joe grabbed a prybar that he saw on top of a nearby crate and hurried to catch up.
+
+Joe was not sure how long the little guy would stick around for, and he began to worry as the two of them ran back and forth across the box-covered floor, always trailing far behind the dueling acrobats. Just as he worried they would never catch up, Hah’roo launched herself past them, diving between Joe and the goblin. Lemek followed, hot on her heels.
+
+In that brief instant, he was within reach.
+
+The little green thug trilled a warcry and drove the blade into the passing hunter. The razor-sharp knife cut a long deep furrow from Lemek’s armpit to his hip. Joe also did not waste the opportunity. He swung the heavy bar as hard as he could and fired off his numbing curse, just managing to clip the hare’s ankle with both as it passed.
+
+Lemek shouted in pain and curled himself into a controlled tumble. As the brer came up, favoring the senseless leg, he was met with a roundhouse kick from the woman he had been chasing. The three of them pounced. Joe battered the man with his prybar while the goblin hacked away, and Hah’roo unleashed a flurry of kicks.
+
+At one point, Lemek almost broke free until Joe deadened his other foot and clunked the metal bar down between the long floppy ears. The brer’s eyes rolled up into his head, and he toppled to the floorboards.
+
+“Four down,” Joe panted, checking to make sure he had not hit the brer too hard.
+
+“Yes,” Hah’roo breathed, “but the worst is still to come.”

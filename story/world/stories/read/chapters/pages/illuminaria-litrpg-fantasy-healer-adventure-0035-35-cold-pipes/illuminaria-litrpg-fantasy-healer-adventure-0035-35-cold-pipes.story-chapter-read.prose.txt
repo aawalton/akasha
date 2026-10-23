@@ -1,0 +1,147 @@
+35 - Cold Pipes
+
+“Fey?” Joe gasped. “I thought the fey were seriously bad news. Are we about to die?”
+
+“Where did you get that idea? It depends on the fey, Joe. Just like any monster. There are level one ash drakes and level eighty onyx drakes,” Kaid whispered. “This guy is not too bad. I mean, he’s no pushover, but we can take em.”
+
+“You assessed it? I can’t even spot it,” Joe questioned, trying to get a good look at the piping tormenter.
+
+“He’s moving in a pattern,” the small man hissed, who was bound in the magical moss up to his chest. “Look left … now.”
+
+Sure enough, the fey creature glided out from behind a large tree. There was some sort of distortion swirling around the satyresque being that made it hard to see their enemy clearly; something like a cross between colored fog and a heat shimmer.
+
+What Joe could make out was a male creature with goat legs but stag-like antlers. It had a disproportionately long face as if someone had grabbed its goat-bearded chin and horns and stretched them away from each other. Long, elven, pointed ears protruded from each side of its head. The other oddity was a thick carpet of moss growing over its shoulders and antlers.
+
+In its hands was a double V-shaped pair of pipes. The notes issuing from the dual instrument made Joe want to crawl out of his skin. It was a dark and disjointed melody that was causing pain to blossom behind his eyes while simultaneously causing his stomach to churn and roll.
+
+Frostpipe Powrie: Level 8: Fey: Controller: Spirit
+
+“Too bad you are not a real fey, Joe. Maybe you could get him to leave us alone,” Kaid grunted through clenched teeth. He launched one of his daggers at the satyr-like powrie. "Let’s see if this will get him to knock it off with the pipes.”
+
+The moment the dagger left the gnome's fingers, the powrie vanished, its song disappearing with him. The hooved fey reappeared directly across the ring it had been following, resuming its awful tune once more.
+
+Kaid drew another knife, but his cold-numbed fingers failed to keep hold of the blade. Joe hadn’t noticed the cold in his hands as the passive heat radiating off his [Smoldering Staff] was keeping his fingers from freezing.
+
+Kaid’s disability, though, was something he could easily counter.
+
+Your skill [Heartfire] has increased to rank 7.
+
+The spell has removed the {Chilled} affliction from yourself and Kaid Ward.
+
+The radiant warmth from the ethereal campfire banished the seeping cold of the binding moss. Kaid's next knife flew so quickly that it managed to clip the mossy satyr before it could blink away. Their adversary brayed at them in anger, clapping one hand on the slice along its shoulder. It quickly raised its pipes and blew a harsh series of notes that were targeted at Joe’s fiery spell.
+
+Your [Heartfire] has been dispelled.
+
+“Son of bitch!” Joe snarled. “Fine, let’s see who’s got more mana to spare.”
+
+An eighth-level creature whose strongest attribute was Spirit probably had more total mana than Joe, but Joe was not using his to bind, freeze, disorient, and teleport. For the moment, he just needed to keep them warm. Joe dropped a second [Heartfire] and watched for how the fey would react.
+
+Kaid was right. The powrie was predictable. Each time it blinked away from Kaid’s thrown attacks, it appeared straight across onto the circle it was dancing around them. The moment it appeared, it banished Joe’s spell, and then it began its horrid song again. Joe was not sure what would happen if it was able to layer enough of that dark melody onto himself and Kaid, but he had no intention of finding out.
+
+Neither did the dagger-hurling rogue. There had to be some sort of magic shenanigans going on with his companion, as Kaid seemed to have an inexhaustible supply of throwing knives. Every time Joe banished the {Chilled} clumsiness from him, the gnome launched a dagger at their captor.
+
+When Joe was sure of where the powrie would appear next, he decided to change up the pattern. He locked his eyes onto a spot on the ground and began to swing his staff. He knew his strike would not have much muscle behind it, as Joe couldn’t move his feet; nor head if he wanted his teleport to work.
+
+All in the same instant, Kaid threw, the powrie blinked to the other side of its trap, and Joe jumped through space while activating [Swift Strike]. His polearm cracked into the creature’s neck, releasing a small burst of flame from the end of the staff.
+
+You have scorched the Frostpipe Powrie for 14 points of mixed damage. You have reduced the Frostpipe Powrie's movement by 15%.
+
+Joe tried to swing again, but the fey was too quick. Even with the [Hobbler] effect limiting how far it could go, its flickering movement was still just as instantaneous. It blinked across the mossy ring faster than Joe could attack.
+
+But not faster than Kaid.
+
+The second it appeared, it was greeted by a hurled dagger. The blade sunk deeply into the satyr’s chest, causing the piper to cough out a pained gargling bleat.
+
+Joe ported himself to where the fey was, while activating another [Swift Strike]. Unfortunately, Joe’s skill with his quarterstaff was still fairly rudimentary. He missed as the powrie dodged and blinked away. Rolling behind the closest tree, he waited for the fey to dispel his [Heartfire]. The moment it did, Joe recast the spell. This time, instead of placing it in the center of the moss-filled circle, he dropped it right behind the creature.
+
+With a surprised bray, the fey blinked right into Joe’s trap.
+
+Following Kaid’s example, Joe’s hardest [Swift Strike] was there to meet the appearing piper. The burst of fire from the weapon striking the creature’s head was twice as large as the first one. The enemy staggered and wobbled on its feet, stumbling into the moss. He noted this enhanced attack did not add another stack of [Hobbler]. That meant that Joe would unfortunately not be able to root someone into place with the trait.
+
+To finish disorienting the piper, Joe tried another new spell.
+
+The spell has inflicted the {Numbed} affliction on the Frostpipe Powrie.
+
+Your skill [Deadened Flesh] has increased to rank 1.
+
+Already off-balance, having its leg suddenly go numb toppled the creature.
+
+Right into Kaid’s reach.
+
+With a series of vicious slashes, the tiny ruffian ended the battle. His cuts sprayed the area with blood that was far more vibrantly red than any blood Joe had ever seen before.
+
+With waves of exhilaration flowing through him, Joe quickly crossed to his shivering companion and, using his medallion, jumped them both out of the now ruby-splattered ring of moss.
+
+“I hate being cold,” the blue-lipped gnome growled in a trembling voice.
+
+“Yeah, with your body mass, I can see how cold would be a problem for you. Here, warm up,” Joe offered, dropping a new [Heartfire].
+
+“Oh. Thank you, thank you, thank you,” the small man chirped. “Loot and let me know what we get.”
+
+“Ok,” Joe replied nonchalantly. Looting was a simple task, merely requiring him to take two small steps toward the body and activate [Coin Catcher].
+
+You have acquired 8 silver shills.
+
+You have acquired [Coin of Courts], [Nimble Spinner], and 12 [Frostmoss Fronds].
+
+Your skill [Coin Catcher] has increased to rank 4.
+
+Joe identified each. Well, he tried to. The fronds were just basic reagents used for spellcasting or crafting. The coin was weird. It was a blank argent disc about the size of a silver dollar. Identifying it revealed no description at all.
+
+“Can an item have a [Deception] skill?” he asked.
+
+“Oo. Items used to cheat often don’t give much info out. What is it?”
+
+Joe held up the coin and was surprised when, in his hand, it had a bald US president on one side and the American eagle on the other. Thinking about Kaid’s words, he sent a thought to the coin, and it responded by changing to show Susan B. Anthony’s head on both sides of the disc.
+
+He flipped the coin to Kaid. “You’ll enjoy this one,” he assured the sneaky little man.
+
+The [Nimble Spinner] was an unusual ring. It was two silver bands combined into one. Joe had seen similar ones on Earth, where one ring spun around the other. Etched into the moving ring was a sequence of jumping rabbits. If one twirled the band at the right speed, the hares hopped along, much like a flip book animation.
+
+[Nimble Spinner] (Item: Finger - Common): When spun purposefully, the ring will add 2 points to your Dexterity for 1 minute. It can be used up to three times a day, recharging at midnight. {Celerity}
+
+“This one also fits you better,” Joe announced, sending the paired rings spinning to the rogue. A second later, it flipped its way back to Joe.
+
+“Thanks, but I already have a better Dex boost item. You keep it. This one, though,” he remarked, flicking the coin into the air, “could be fun. It can look like any coin: just not gold or better. So it can be brass Dunian dross, a Cazmaloq scale, or any other low-value coin.
+
+Kaid looked at the remaining items and added, “I know somebody who might want the moss. You take the silver. Fair?”
+
+“Works for me,” Joe replied, handing over the pale green moss. “Give me a sec. I leveled,” he stated as he stowed the coins.
+
+You have reached level 6. You have gained 1 unassigned attribute point and the following choice of an attribute trait and skill:
+
+[Rugged] +2 to Vigor
+
+[Healer's Ward] (Uncommon) When you cast a healing spell, you gain moderate damage resistance to all forms of Physical and Elemental damage for 10 seconds plus .25 seconds for each skill rank you have with this skill. Each use of healing resets the timer. Cost: Minor Stamina. | Range: Self. {Defense}
+
+or
+
+[Rejuvenate] (Uncommon) A target in close range gains a +15% mana recovery for 10 seconds plus 1% and 1 second for each skill rank you have with this skill. Cost: Moderate Stamina. Cooldown: 20 seconds post effect. | Range: Close. {Vitality}
+
+[Observant] +2 to Perception.
+
+[Life Bolt]  (Uncommon) A creature you can see in Medium range heals 1 Health plus 1 point of Health for each skill rank you have with this skill. Cost: Minor Mana and Minor Stamina. | Range: Medium. {Life}
+
+[Awakened] +2 to Spirit.
+
+[Reinvigorate] (Uncommon) A target in close range gains a +15% stamina recovery for 10 seconds plus 1% and 1 second for each skill rank you have with this skill. Cost: Moderate Stamina. Cooldown: 20 seconds post effect. | Range: Close. {Vitality}
+
+Looking over the list, Joe knew it would be one of the Vigor skills. [Life Bolt] had some perks, but with his medallion, he needed it even less now than he had the last time he passed it up. [Efferous Endurance] was already better than [Reinvigorate].
+
+A mana recharge could be a huge boon. Joe had found himself becoming more magical than physical, and mana was the battery that primarily empowered magic. An [Efferous Endurance] for mana was a very appealing option.
+
+Yet, a shield effect, even a short-duration one, was also a skill that could be vital. Joe was not very tanky. His best ability in a fight was his ability to heal wounds. Damage resistance could considerably improve his survivability. Another thing he liked about it was that it didn’t require any additional time to cast. It would be part of his [Healing Touch].
+
+Joe went back and forth between the two spells until his ponderance was interrupted by a swear from his diminutive companion.
+
+“Ah, devilspit. I was afraid of that,” growled the gnome. He stood looking back towards Crowfield with his head cocked slightly to one side.
+
+“What is it?” Joe asked, looking around for any sign of danger, his staff held at the ready.
+
+“Another reason fey are bad news. For every one you see, there are dozens of their kin hiding out of sight. Some pixie must have taken offense at our treatment of goat-boy here and helped the hunters onto our trail,” Kaid grumbled, pointing a foot at the dead powrie.
+
+“It’s only been a few seconds,” Joe retorted. “How could they be on us already?” He stopped speaking and listened. Sure enough, he could just make out the distant baying of hounds.
+
+“Fey roads make shortcuts. I’ll explain later. We gotta go.”
+
+Knowing he’d want the additional stamina, Joe grabbed [Healer’s Ward] and followed the fleeing gnome. With Vigor now his highest attribute, at least he was now better prepared for a cross-country flight.

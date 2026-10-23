@@ -1,0 +1,95 @@
+45 - Figuring Affinities
+
+Still sitting on his chest, Joe closed his eyes and sent a thought to his unseen overseer.
+
+‘Hey, Hawking. I have an honest-to-goodness system question for you this time. I saw something about advancing and melding skills on the human race description. How do you go about doing that, and what does it mean?’
+
+You have mixed two concepts together, Joe. Skills can be Advanced or Evolved. Classes can be Elevated or Melded. As you are working on skills, we will skip class enhancements for now.
+
+Advancing a skill is moving it to a higher rank: Common to Uncommon, for example. The skill stays predominantly unchanged. Typically, skill advancement improves the skill’s functionality, making the skill more powerful, more efficient, etc. This process may potentially add minor compatible features.
+
+Evolving a skill adds a new fundamental element to the ability. For example, [Fist of Flame], which adds fire damage to unarmed attacks, can be evolved to [Fire-Scourge Fists], a skill that creates burning whips. Both are Common skills, and the ability of [Fists of Flame] would not be erased.
+
+There are many ways to evolve a skill. The two most common methods are through training or by learning a complementary skill. In the latter case, unless the skill advances as well, the points spent to learn the skill are refunded to your Unassigned Attribute Point pool.
+
+‘I guessed right! Can I tell for sure if two skills will evolve together, or is it potluck?’
+
+Skill evolution is never guaranteed, but it can often be deduced or sensed.
+
+One of the reasons Joe had bought the [Retrieve] crystal is because he had an inexplicably good feeling about it. This might be the ‘sensed’ Hawking was referring to.
+
+‘I’m guessing asking outright if this is going to work is not something you’d answer.’
+
+You have guessed correctly, Joe.
+
+‘Yeah. I thought so. Ok, here goes. This is either going to be awesome or a huge disappointment.’
+
+The [Retrieve] spell would allow Joe to spend stamina to move an object he had placed somewhere nearby back into his hand. It was a useful crafter’s skill, being able to summon tools from around you. It also worked for thrown weapons as long as they were in short range, so a thrown axe or dagger, not a javelin or arrow. He had a gut feeling that it and [Coin Catcher] were, as Hawking put it, complementary.
+
+Crossing his fingers, Joe spent his unused point on Perception and absorbed the skill from the crystal.
+
+You have learned the common skill: [Retrieve]. This recalls your possessions from a short distance to your hand. The skill can move up to 10 pounds plus .5 pounds for each skill rank you have with this skill. If your hands are occupied, it moves the item to a surface within Immediate distance of your hand. Cost: Minor Stamina | Range: Short. {Telekinesis}
+
+Skill Evolution: You learned a skill that synergizes with a skill you already possess.  [Coin Catcher] and [Retrieve] can combine to become the common skill [Helping Hand]. Doing so will refund 1 point from Perception to your Unassigned Attribute Point pool.
+
+Do you wish to make this change?
+
+Joe hopped up off the trunk and yipped, “YES!”
+
+You have learned the common skill: [Helping Hand]. This skill allows you to manifest a spectral semi-transparent hand, equal in size to your own, within Short range of you. The hand can lift up to 10 pounds of material plus .5 pounds for each skill rank you have with this skill. It is nimble enough to make simple manipulations of objects or creatures. You can command it to retrieve loot as per [Coin Catcher]. Cost: Modest Stamina | Range: Short. {Force}
+
+Achievement: You have evolved your first skill. This action has awarded you the following choice of Traits:
+
+[Double Dose]: Two for One Special.  Evolve another evolvable skill of your choice.
+
+[Handsy]: Really reach out and touch someone. Advance [Helping Hand] to uncommon rarity.
+
+Joe danced a small, stooped jig around his very tight quarters. That worked pretty much exactly as he had hoped it would.
+
+Joe thought he was starting to get a feel for how some of this system worked. Not growing up an Illuminarian left him with a huge gap in his understanding of the world. Even so, Joe always had a good head for how processes worked. He was always the guy at the table everyone would look to whenever their resident rules-lawyer player was trying to bully a game rule through.
+
+His plan made logical sense, yet that was only half of the equation. Here in Illuminaria, Joe was beginning to understand that listening to the subtle sensations the world provided him was one of the keys to succeeding here. Hawking gave clues if you paid enough attention to feel for them.
+
+‘Hey. Do I have to pick a skill to evolve now, or can I save it?’
+
+It can be saved and applied to a skill in the future.
+
+‘Great. I think I want to learn the other two new skills before I look into which one to evolve. Thanks Hawking.’
+
+You are welcome, Joe.
+
+Now that Joe had a free point again, he could take the uncommon [Stun Lock]. [Poison Resistance] might be good to have someday, but it also might be redundant with [Purge].
+
+He assigned the point to Vigor, immediately feeling another boost of vitality and durability. Then, he plucked up the green shard with the two bronze bands and accepted its skill.
+
+You have learned the uncommon skill: [Stun Block]. This skill provides you with moderate mental resistance against {Paralysis} {Shock}, and {Stun} effects. The degree of resistance increases for each skill rank you have with this skill. Cost: Moderate Stamina. {Mettle}
+
+“Wait! What!” Joe jabbered. “Are you kidding me? The one shard I didn’t [Identify]!”
+
+He grabbed the ragged tag melded into the wax and worked the torn edges together. Sure enough, if held in the direct light coming in through the porthole, a faint letter ‘B’ could just be made out. While Joe could see how [Stun Block] would be a very useful skill, it meant he had just lost a solid offensive option.
+
+Joe’s hand slapped into his forehead and dragged down his face. Grumbling to himself, he looked at the two piles of red stones. He slid [Hammering Blow] and [Sundering Strike] into the no’s, leaving [Beast of Burden] and [Strong Arm]. He made sure to [Identify] each one again.
+
+[Beast of Burden] - Common - Strength: While this skill is in effect, your practical Strength for performing non-combat tasks is increased by 10% plus 1% for each skill rank you have with this skill. Cost: Minor Stamina. {Might}
+
+[Strong Arm] - Common - Strength: This skill allows you a chance to block attacks. or push a target away from you. Increases your Physical Deflection and your Shove proficiency by 10% plus 1% for each skill rank you have with this skill for 1 second. Cost: Moderate Stamina. {Might}
+
+Both of them had the {Might} affinity, which might explain why each of them felt equally compatible with him. What he wasn’t sure about was why both felt good to him. Digging out the index Granny Growlbee had given, Joe looked up {Might}
+
+Might: Beast/Force - Might is quite simply the affinity that enhances bodily strength.
+
+“Well, that is short and sweet.” he mused. Even with the minimal description, he did learn which two base affinities made up {Might}. Unfortunately, the book couldn't tell him which one of the two he was more attuned to. He had skills with both of those base affinities. [Efferous Endurance] was a {Beast} spell, and [Coin Catcher], now [Helping Hand], was {Force}. When Joe focused on both of those skills, he felt an equal degree of harmony with both abilities.
+
+Since he was on this trail of thought, Joe decided to give all of his skills a nudge and see how they felt, compatibility-wise. For the most part, he had a strong feeling of connection to twelve out of his fourteen skills. The two exceptions were [Swift Strike] and [Purge]. Joe was surprised by that last one as it was a class skill. His bond with either of them was not terrible, but it was noticeably less than the others.
+
+Flipping through the index, Joe looked up the two affinities. The [Purge] affinity was {Cleansing}, which was made up of {Fire} and {Soul}. {Air} and {Time} made up the {Inertia} affinity for [Swift Strike]. Joe only had one other spell with one of those base affinities. His [Heartfire] combined {Fire} and {Life}, which very coolly came out to be the {Phoenix} affinity.
+
+Joe’s other skills seemed to be clustered around {Calculation}, which had its own boost from his [Tactician] trait or had affinities that were based in {Beast}, {Earth}, {Force}, or {Life}. As soon as he could, Joe would get his affinities identified, but until then, this helped. He was starting to get a picture of what he was good at.
+
+He had one last skill task at the moment, and that was picking his second common Strength skill. The problem was he liked both of them. With a cost of minor stamina, he could keep [Beast of Burden] going for hours, especially with [Efferous Endurance]. The downside is it had no combat applications. [Strong Arm] was more combat-oriented and dynamic, but it was only meant to be used in bursts. Granted, it might have been just the thing that could have saved his life against Super Grover’s bitchslap.
+
+Joe wavered between the combat and non-combat skills for several minutes. He knew that not all of his experiences in Illuminaria would be combat-related, but so far, the few he had had were significant events.
+
+Knowing he might regret this, he literally flipped a coin. Both were equally useful. Not to mention, there was a good chance he’d spend another point in Strength someday soon. In which case, he’d be able to learn the other one then.
+
+You have learned the common skill: [Strong Arm]. The skill allows you to block physical attacks or push a target away from you. Increases your Physical Deflection and your Shove proficiency by 10% plus 1% for each skill rank you have with this skill for 1 second. Cost: Moderate Stamina. {Might}

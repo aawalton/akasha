@@ -1,0 +1,119 @@
+73 - Fight the Fear
+
+The Count slid under the werewolf’s slashing claws, striking out with his magical saber in one hand and the silver poniard in the other. Sougath ignored the Count’s sword attack, attempting to thwart the shorter weapon. The monster hunter read the block and hooked the needle-like blade to another angle, driving it along the shaggy fiend’s leg. The argent spike tore open the flesh, and for the first time that night, Sougath bled.
+
+A gout of deep red blood sprayed from the wound. And the sight of it was vile to Joe. Obvious in Joe’s wound-sight, there was something wriggling inside that blood, like oozy worms.
+
+Not wanting to get anywhere near that blood, Joe kept casting from his place by the stairs. He was worried that his affliction removal spell would not be enough to free his petrified allies from the terror locking them down. His mark must have agreed, ringing another bell-toll through his body. The Thirteenth Omen made another change just as Joe targeted the trembling ranger.
+
+The Mark of Death has temporarily transformed one of your abilities. Your [Purge] skill has advanced to rare.
+
+[Purge] - Rare - Spirit: Remove minor afflictions from a target in close range. Minor afflictions include conditions such as {Blinded}, {Cowed}, {Dazed}, {Deafened}, {Frightened}, {Shaken}, or {Sickened}. Afflictions greater than these are decreased by 1 level plus 1 level for every 10 exponential ranks you have with this skill. Cost: Moderate Mana. | Range: Close.
+
+You have reduced the {Terrified} affliction on Hah’roo to {Frightened}.
+
+As the reverberation faded, Joe felt a bit clumsier than he had a minute ago and realized that the prophetic mark was not giving him any freebies. It needed more Spirit, so it took it from somewhere else, in this case, Dex. Joe noted that to pay for the upgrade from the common [Crystal Mind] to the uncommon [Diamond Spell], he was down a point of Perception, too. Both [Identify] and [Swift Strike] were grayed out.
+
+Dismissing his info, he cast again.
+
+You have reduced the {Frightened} affliction on Hah’roo to {Scared}.
+
+Your skill [Purge] has increased to rank 10.
+
+Hah’roo shuddered. She opened her eyes to see the deadly clawed toes just a foot from her face. Slapping her hand against the ground, she released a burst of wind that blew out the candles on the floor and caused the torches on the wall to flicker wildly. Riding the wave of air, the dancer rolled through the gust backward, launching herself out of Sougath’s reach.
+
+You have reduced the {Terrified} affliction on Azbekt Vanderaxe to {Scared}.
+
+‘Got two that time!’ Joe crowed in his head.
+
+The dwarf’s head snapped up, yelling a roar of fury at the beast who had brought him low. He grabbed his axe and charged.
+
+Count Valloc and Hah’roo snapped off a series of quick hand signs and began to circle the wolven giant. Ironically, the pair began to harry Sougath the way a pack of wolves would assault a larger predator. Each would dart in while the other distracted the prey. They would feign a blow or foul one of the monster’s attacks, occasionally making solid strikes.
+
+Azbekt, on the other hand, had zero subtlety. Trusting his armor to shield him, the myrmidon hammered away with his axe. Steam or smoke started to rise from the dwarf as if his molten-looking skin and flame-colored hair were glowing with an inner fire.
+
+The beast managed to tag Valloc, rending open the Count’s side. It then used the opening to boot Azbekt again, sending the dwarf flying head over heels into the far wall. Hah’roo was left with no choice but to dodge. The beast's reach was too long for her to avoid completely. A claw hooked her thigh, spraying an arc of blood across the floor. She managed to evade the following swipe, barely keeping her distance from the savage creature.
+
+Joe took a deep breath and fixed his vision on a spot on the floor right behind Count Radneau, where a couple of old barrels would offer him some cover. The area zoomed into focus, and he was there. He crouched down and activated [Whisperstep], hoping the [Potion of Cat's Creep] would boost it enough to hide him.
+
+A hostile entity has detected you. You are not hidden.
+
+‘Shit!’ he reflected. Joe had hoped that the creature would be too busy diving around the room after the elusive galeling or dealing with the berserk dwarf to notice, but Sougath clearly sensed his movement. When the beast spoke, Joe nearly jumped out of his skin.
+
+“Give up, little worms. You cannot stop what I am becoming. The Empire of the Wolf has been foretold, and I shall be its God King. Run now, and I may forgive this intrusion. Stand, and I will carve off your flesh and bind your souls in sacrifice.”
+
+The werewolf’s voice was a deep, grinding growl, filled with tones of hunger and hate. Joe felt the weight of dread trying and failing to push down on him again.
+
+“Nay!” Azbekt barked from across the room. “You are a vile abomination. I swear to the Lord of Order, I will end you and purge your villainy from the records of this land. Your unholy existence ends here and now, fiend.”
+
+A dark laugh broke free from the creature’s fanged mouth. Joe reached forward to heal the Count, figuring he would not be noticed while the two megalomaniacs jousted verbally. He was wrong. Before his fingers touched Valloc’s coat, the great snaggy brute rounded on him, red eyes pinning him. It growled at him with its voice of nightmares.
+
+“You reek of fear, runt. I will end your pathetic existence.”
+
+Joe could feel the aura of terror fill the room again. This time, though, the Count was ready for it. A sense of confidence and camaraderie bloomed out of the heroic nobleman.
+
+Valloc Randeau’s [Hero’s Faith] is attempting to enhance your Fear resistance, but [Iron Tenacity] already surpasses the spell.
+
+Even though it didn't work on Joe, it clearly helped the swordsman and their other two allies. Each steadied and fought to push through the supernatural terror. As soon as Joe had topped off the monster hunter’s health, the man was heading back into the fight.
+
+He watched as Hah’roo and the Count began to circle the demon wolf once more. Azbekt again stepped forward. Joe focused on his wound-sight to see what shape everyone was in. He always had it passively running, and it gave him hints, but this time, he wanted details.
+
+Azbekt looked fairly healthy. Most paladin-like classes had healing abilities from the systems Joe knew of, so it was likely the fanatical myrmidon had been using some sort of ‘Lay on Hands’ skill already.
+
+Joe had just patched up the Count.
+
+Hah’roo was in the worst shape. She had several cuts, and Joe could see stressed and strained muscles where the acrobatic fighter had had to match her strength against Sougath’s.
+
+Joe then turned his vision to the creature they faced. His heart dropped into his stomach. The Night Skinner’s resistance was making a mess of Joe’s [Assess Wound] skill, but Joe could see well enough. Even though it was like looking at an old-fashioned static-filled television set, he could spot only one wound on the creature. Nothing the trio had done had broken through Sougath’s skin, even with the damage boost his new boots were giving off. Except for that single dagger strike, the Night Skinner was unharmed.
+
+“It’s not working!” he hollered. “Only the silver dagger is hurting him!”
+
+“Not at all?” the Count prodded. “Very well. Silver weapons all around then.”
+
+The fabled hunter of monsters reached for his storage talismans, yet the Night Skinner was not about to let him rearm the party with argent weapons.
+
+The beast stood up tall for the first time, raising its great arms so high they brushed against the ceiling and then drove them down onto the rickety floor. The old beams shattered, and the floorboards disintegrated, dropping all of them in a rain of wooden shards and broken planks into the room below.
+
+The four of them barely had a second to react.
+
+Joe tried to teleport back to the stairs, but he didn’t have enough time to lock on. He dropped like a rock. A beam, which hung for a second, followed him down, crushing and pinning his legs into the old wine racks. Azbekt and the beast tumbled down in a heap of fists and claws. They were completely buried by timbers and falling items from the second floor. Count Randeau turned his fall into a semi-acrobatic tumble, landing on his side but not impaled or trapped by any of the broken planks.
+
+Hah’roo stood in the air with her rope wrapped around one of her feet. The other end of the line was looped around one of the ceiling beams. She sent Joe a questioning look, clearly asking how badly he was hurt. Before he could reply, the pile of debris shifted, and an unscathed Sougath burst out of the rubble, its eyes fixed on the dangling blue-maned ranger.
+
+Hah’roo flipped her foot free, but the were-beast swung a powerful blow at her before she could slide out of its reach. The fist caught her straight in the chest, sending her hurling into the tower’s stone wall. Her head struck first with a sickening crack. For the first time since he had seen her, the dancer fell without grace, landing in a boneless jumble amidst the heaps of broken wood.
+
+Sougath tore himself the rest of the way free and dove for the great doors.
+
+Joe let Hah’roo’s fallen body fill his vision, and he jumped through space on his likely broken legs to arrive by her side.
+
+As the werewolf rebounded off the sealed doors, baying with rage, Joe gathered Hah’roo’s head in his hands and unleashed his [Healer’s Touch].
+
+You have restored 122 points of Hah’roo’s health. Her current health is at 34%.
+
+She has severe underlying structural damage.
+
+Your skill [Healer’s Touch] has increased to rank 24.
+
+You have restored 127 points of Hah’roo’s health. Her current health is at 64%.
+
+She has severe underlying structural damage.
+
+You have restored 34 points of Hah’roo’s health. Her current health is at 72%.
+
+She has severe underlying structural damage. The underlying cause of damage is preventing any additional healing of this type.
+
+Joe checked the party screen Hah’roo and saw the condition {Head Trauma (Major)}. She was not in immediate danger anymore, but he knew he would not be able to wake her without first addressing the fractures in her skull. As he watched, a point of Health dropped away. She wasn’t stable either.
+
+He wanted to get her out of there, but there was no exit. The doors were sealed. There were no windows on this floor to teleport out. Not to mention, the stairs were now occupied.
+
+The Count and Sougath were dueling their way upward. Joe could tell the monster hunter was trying to keep the werewolf back, but the Night Skinner’s strength and reach was causing the noble hunter to steadily lose ground. Already, they had reached the missing second floor.
+
+Valloc was injuring the beast with the dagger and a new silver blade he had managed to draw from his storage. He was forcing the brute to take wounds for every few steps it gained. The silver wrought slashes didn’t heal instantaneously, like the blows Azbekt’s axe had delivered to its legs. Joe looked and could see damage building up on the beast, but, at the rate the fight was going, Joe was pretty sure they would reach the roof long before Sougath ran low on health.
+
+Joe tried [Deaden Flesh] a couple more times, only managing to land a few mostly resisted hits. The only impact his spells accomplished was a minor distraction. Valloc managed to get in a deep wound one of the times Joe got off a well-timed minor numbing.
+
+As the pair climbed up the second-floor stair toward the roof, Count Randeau must have made a mistake. So far, he had successfully stayed clear of the brutal talons. Yet during this exchange of blows, Sougath swayed backward halfway up the curving flight, drawing the swordsman to over-reach.
+
+A long-furred arm swatted him into the wall, fouling his footwork. The other clawed hand lashed out and grabbed the arm holding the silver dagger. Sougath’s jaws seemed to grow massive as they opened wide around the trapped limb. With a shearing bite, the demon wolf snapped the arm off and dropped the man and the limb at his feet.
+
+Sougath howled his victory up at the fat moon above. Then, with a predator's dreadful, deliberate purpose, the Night Skinner turned about to face Joe.

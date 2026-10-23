@@ -1,0 +1,113 @@
+26 -Baleful Burrs
+
+Joe followed the shuffling bug through the tall grasses. The stalks had continued to grow until they were obnoxiously reaching his chin, with the occasional ones whose seedheads were hitting him in the face. It felt like he had to spend half the time brushing pollen and chaff off his cheeks and from his eyes.
+
+If the beetle had not been walking in a straight line, Joe would have lost it ages ago. He had picked a landmark tree in the Dourfore to aim at, a huge dead oak, but the high vegetation was even making that difficult. Joe was starting to get the claustrophobic feeling of being deep in a cornfield and not being sure which way was out. At least a cornfield had rows to orient on. Here in the vast high grasses, Joe had to keep jumping to make sure he was still on track.
+
+Eventually, he stumbled onto a small island in the sea of stalks. A single large boulder stood on the plain. The lone rock was an irregular trapezoid that started at Joe’s knee on the low side and rose up to his shoulder at its highest point. Around the stone were a few scruffy-looking bushes that assisted in pushing back the seemingly endless grass.
+
+Just getting his face out of the spiky fronds of weeds was a relief, but he also realized he could use the boulder as a perch. Joe scrambled up the slope and stood up, now far above the swaying surface of vegetation. It took him a minute of searching until he eventually located his target, or at least he hoped it was.
+
+Something was slowly plodding through the grass in the direction Joe thought they should be heading. He couldn't see it all, given the height of the grass. Even so, the line through the stalks was headed right for the massive skeletal oak he had picked as a landmark, so the odds were good he was on the right track.
+
+From his lookout stone, Joe was able to see more than the path of the trudging bug. He could also see the edge of the Dourfore, what had to be the source of the burrs, and the gnome he was searching for.
+
+At about a hundred yards away, he could see the small man clearly enough to discern he was standing motionless, but it did not look like he was currently being harmed. Joe was afraid that the Beguilburr would be like the Bloodthorns his companion had mentioned, but it didn’t look like he was touching any of the spiky roots around the tree’s trunk.
+
+Mesmeric Beguilburr: Level 4 {Elite}: Plant: Controller: Spirit
+
+Joe was not sure specifically what an ‘elite’ monster was, but it sounded like something that would be tougher than its level suggested.
+
+The tree in question was only about twenty-five feet tall. Huge fuchsia-colored fronds spread in a canopy over a fat, twisted purple trunk. At the intersections of the long thin leaves, Joe could see dozens of the brown spiky burrs hanging in the joints. On the ground at the base of the trunk, a mass of tangled thorny roots formed a ten to fifteen-foot web across the ground. The roots were covered in small bones and decaying rat carcasses. Kaid stood just outside this ring of death.
+
+‘So, it’s a pretty simple plan. I have to sneak up and grab Kaid and run away without picking up too many burrs,’ Joe surmised.
+
+The problem was the concentration of burrs would surely be at their thickest the closer one got to the main plant. Joe had gotten to five burrs before he started to feel loopy. He doubted, even with [Iron Mind] working overtime, that he could handle ten or more.
+
+Joe slid down to the middle of his stone island, where there was a comfortable spot to sit. Somehow, he would have to find a way to prevent the burrs from sticking to him, but Joe did not have metal boots or something similar.
+
+Joe emptied out his pack, looking for anything that might help him. The waxy rainskin was promising, but Joe realized that as soon as he cut it and started wrapping it around his legs, there would be edges for the burrs to catch on. There was the lamp oil, but Joe worried about coating himself with flammable substances on general principle.
+
+As he sat thinking, his eyes just sort of staring off into the middle space, his attention snagged on a set of large leaves under the bush he was looking at. He had forgotten to grab the first set of saddleleaf leaves, preoccupied as he was with following the beetle. He grabbed his knife and climbed off the rock. All four of the bushes around his boulder had the plants, so Joe was able to harvest more than he needed. The extras might be worth something to Gurda Eldauk.
+
+After he climbed back up onto his spot on the rock, he noted even that brief sojourn into the grass had earned him a new burr. Joe yanked it off and stood, preparing to hurl it away but stopped; the burr still stuck to the skin on his hand.
+
+Kaid was gone.
+
+The beetle had made its way into the spikey roots and was writhing in pain, but there was no sign of Kaid. Joe looked and looked until he finally noticed a line of parting grass. The path led right from where the gnome had been standing and was aimed straight toward where he stood.
+
+‘Oh, crap!’
+
+Joe had not even considered the Beguilburr puppeting its minions; that is, besides calling them to it. In hindsight, it made sense. It explained why it hadn’t started feeding on the little ruffian already. It might use its thrall to gather additional food until it was burnt out, then feed on it.
+
+‘Does this make it easier or harder?’ Joe wondered as he ditched the burr.
+
+On the one hand, getting Kaid away from the evil tree was now easier. And the stupefied beetles had been really slow.
+
+Yet on the other, the thought of pulling burrs off a possessed, eleventh-level knife-fighter seemed like a really, really terrible idea.
+
+Joe quickly repacked his gear. This time, he made sure to add weapons in accessible places so he would not be helpless if he lost his staff again. Starting with a tube of chitinous beetle leg and wrapping it in leather and bound with hair, Joe fashioned a very simplistic sheath for his oversharpened goblin knife. That joined the hunting blade on his belt.
+
+He found a set of loops on his pack where the hand axe could be hung and drawn easily. On the other side of the bag, he slipped a torch into the corresponding set of loops. Joe noticed that the torch had a built-in striker. He would not need a flint and steel to get it started. He would just have to pull a pin from the starter and rap the end of the torch onto something, and it would light itself, kind of like a strike-anywhere match.
+
+The [Slow Stone] went into one of the small pouches and was hung off his belt beside the two knives.
+
+Joe tried to think of anything else he could do to prepare. He had the BiteBark, but the potion had such a short duration he figured he should save it until he knew what he was dealing with.
+
+[BiteBark] (Item: Consumable - Common): This potion will thicken your skin, giving it the toughness of tree bark. You will gain moderate resistance to {Piercing}, {Slashing}, and {Bleed} physical attacks for 1 minute. One use. {Fortitude}
+
+He had another idea and looked to see if he could find any information about Kaid. Sure enough, there was a Party screen.
+
+P
+
+A
+
+R
+
+T
+
+Y
+
+Name
+
+Health
+
+(Current/Max - %)
+
+Stamina(Current/Max - %)
+
+Mana(Current/Max - %)
+
+Conditions
+
+Kaid
+
+86 / 89 - 97%
+
+178 / 429 - 41%
+
+Enthralled
+
+Joe
+
+31 / 31 - 100%
+
+89 / 91 - 98%
+
+36 / 36 - 100%
+
+While Kaid’s health looked fine, his stamina was surprisingly low. He assumed he couldn't see Kaid's mana because he had no skill that would affect someone else's mana pool.
+
+As Joe watched, the thief's stamina dropped another point. He stood again and found the waver in the reeds was not that much closer and still trudging forward. Standing and that slow pace could not explain that much stamina loss; fighting the domination effect must be eating through his energy reserves in an effort to break free.
+
+If Kaid tired too much, he’d pass out. That could help considerably, but Joe feared that if Kaid started to get to the end of his Stamina, the Beguilburr would recall him and force the rogue into its roots.
+
+Joe checked on Kaid’s progress one more time, finding he still had a few more minutes. The little man was not moving quickly. Joe knew that plans almost never survived first contact; still, he should try and do everything he could before getting up close with the gnome-of many-knives.
+
+‘What else can I do?’
+
+The biggest worry still was too many burrs. Joe should be able to outrun the plodding gnome if it came to it, but not if the Beguilburr overwhelmed [Iron Mind]. Grabbing them by hand meant they were now stuck to your hand. Joe needed a scraper.
+
+Looking at the bushes, Joe hunted until he found a good ‘V” of reasonably thick branches. The best he could get was one less than an inch thick; these were only shrubs, after all. Grabbing the handaxe, he chopped out the whole section, leaving a good inch below the connection point. He cleared the extra twigs and cut the thicker stalk to about two and a half feet long and the other one to about five inches. This gave him an angular ‘J’, which he could use to hook off burrs.
+
+He stashed his makeshift crook with the strike-anywhere torch and grabbed his staff. It was time to lure in Kaid.

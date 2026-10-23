@@ -1,0 +1,121 @@
+60 - Filling in the Gaps
+
+You are attempting to learn the uncommon skill: [Blessed Balm]. The skill allows you to invoke divine healing to restore 15 points of Health plus 4 points of Health for each skill rank you have with this skill. Cost: Modest Mana | Range: Immediate. {Sacred}. This skill will supplant [Healing Touch].
+
+Or
+
+You may advance [Healing Touch] to [Healer’s Touch]
+
+Heal a target for 7 health plus 5 points of Health for each skill rank you have with this skill. Cost: Modest Mana | Range: Touch. {Life}
+
+“What is the difference between a healer’s healing and divine healing, Mazsy?” Joe asked before making his selection.
+
+“Divine healing is a gift from the god. It relies on a connection to that god, but it has a benefit. Divine healing erases damage. Healer’s healing repairs wounds. I have heard this can leave scars and sometimes lingering pain.”
+
+“That’s exactly true. So, I would have to worship Onhur, or the spell would what …?”
+
+“I’m not quite sure. It might not work. Or it might only work when you are acting truthful and honorably. Maybe I should have just gotten you a skill crystal, Joe. Sorry.”
+
+“No worries. I’m just going to advance the healing spell I have rather than copy yours. Even though I do like the idea of healing without any leftover discomfort, I’m not ready to make a divine commitment until I know more about the world.”
+
+You have advanced [Healing Touch] to [Healer’s Touch].
+
+Joe had spent two points into Spirit to learn [Blessed Balm], but by rolling it into making the common [Healing Touch] into the uncommon [Healer’s Touch], he was left with an open point in Spirit. He had an idea what he wanted to do with that free point.
+
+“There is another Spirit skill on your list, Mazsy, that I’m getting a really good feel about. What is [Crystal Mind]?” Joe inquired before sheepishly adding. “I hope you don't mind. I didn’t mean to snoop, but it was right there below [Blessed Balm], practically calling out to me.”
+
+“It’s fine, Joe. If I wanted to be secretive, I would have restricted my sheet more. [Crystal Mind] is a spell most acolytes learn to help us with our studies. It sharpens the mind, helping you stay focused. It also improves skill penetration, allowing spells to overcome contrary skills or resistances. For example, if someone has a strong [Deception], I can flare [Crystal Mind] to empower my [Truthsense]. It still didn’t help me read you much, though.”
+
+Ignoring the [No One] reference, he asked, “Would I be able to use it to strengthen my [Deaden Flesh] and other such banes?”
+
+“Yes. Honestly, that is the primary reason casters take the skill. The enhanced concentration is a bonus.”
+
+Looking to Hah’roo, Joe asked, “So what do you think? Advance [Deaden Flesh] to rare or take [Crystal Mind]? I’m leaning toward [Crystal Mind]. If the training with the Count taught me anything, it was that I lose focus too easily. Spell penetration and better attention feels like a pretty perfect fit for me.”
+
+“This is good thinking, Joe. Your numbing curse is an effective ability to add to your staff usage,” the rope dancer commended, with a nod of her blue hair. “I think you only have one choice, but it is the one I would have suggested anyway. Since you need to have at least one skill with twenty-five ranks before you can learn a rare this way, I would take the priestess’ buff.”
+
+“Well, that settles it. Nineteen is my highest. Okay. Would you mind if I took one more, Mazsy?”
+
+“Of course. Please. I’m happy to share,” the acolyte beamed.
+
+[Crystal Mind] - Common - Spirit: Your spell penetration increases by 3% plus 2% for each skill rank you have with this skill, and you receive the {Focused} buff. Cost: Modest Mana. {Crystal}
+
+“Awesome. Thanks.”
+
+“There is one more I think you should take from me for your last free point, Joe,” Mazsy added. “I am jealous of your stamina boost. I don’t have that yet. I’m surprised that you don’t have the opposite. I use far more mana than stamina, so being able to convert bodily energy into spiritual energy is invaluable. Especially with an activity as mana-consumptive as healing.”
+
+“Good point. That was one of the skills I had planned on grabbing. Mine is called [Reinvigorate]. I just hadn’t got to it yet,” Joe admitted, before popping one of the table snacks into his mouth.
+
+“Mine is called [Swap Stamina]. Both are pretty basic utility skills. Your next level is ten, where you get to select your secondary class. You are going to have a lot more exciting options then. You’re not going to want something as basic as a mana-smoother.”
+
+“She is right,” Hah’roo concurred. “Tenth level is where you will have a chance to choose your path. Learning a basic functionality spell now allows you more opportunity to define who you want to be when you reach that next plateau.”
+
+“Ok. I’m sold. Let me spend that last free point first.”
+
+Joe upped his Spirit to nine. Curious, he checked his sheet and was stunned by how much mana he had just from the two attribute points alone. His mana more than doubled, going from 450 to 950. He had almost a thousand points of mana now. He could now heal for hours.
+
+He then realized that he was thinking of his calm clinic healing sessions. Joe was likely about to go into battle with a murderous monster, and his job was to keep the other alive. [Swap Stamina] should make sure that thousand-point pool did not run dry.
+
+[Swap Stamina]- Common - Spirit: Convert up to 10% of your Stamina points plus 1% for each skill rank you have with this skill into Mana. Cost: Variable Stamina. {Awakening}
+
+“Thanks, Maz. This is a huge boost to my abilities.”
+
+“I just wish I could go with you tomorrow.,” the fox-girl lamented sadly.
+
+“I would much prefer to have you than Azbekt,” Joe admitted.
+
+“No, you wouldn’t, Joe. He is a powerful champion. I’m still just a friar and clerk at this stage, not a combat-ready cleric.”
+
+“And yet, you are someone we can work well with, Mazsy,” Hah’roo breathed. “You are thoughtful and cooperative. Teamwork can be more important than raw might. I fear Azbekt will constantly disrupt our ability to cooperate. You would unite us.”
+
+The kitsune’s face reddened even more than it typically was, blushing at the huntress’ endorsement. “Well,” she stammered. “What’s next?”
+
+Joe could have gotten lost in their next stop for days: a potion shop. There were so many cool elixirs everywhere. Mazsy picked up the tab for three moderate mana and one moderate healing potion, stating that was standard for any adventurer. Usually, it would be two and two, but Joe’s ability to cast heal spells meant he only needed one healing for emergencies. Most everything else was too expensive, but Joe found a tiny bottle called [Tonic of Leopard’s Leap] for just one gold. It was a single-use draught that allowed the drinker to make a single bound up to fifty feet in length and land gracefully. Joe grabbed two of them, dreaming of having fun with super parkour jumps.
+
+Mazsy sprung for one more vial containing a [Potion of Cat's Creep]. Since they were going to hunt down a murderer, she guessed stealth might be required. The Count and Hah’roo had exceptional stealth abilities. Joe had a passable sneak, but it was unlikely to be quite good enough yet. For ten minutes, this potion would allow him to skulk at the same level as the two hunters. Azbekt was on his own. Hopefully, he would have some way to muffle his suit of plate armor.
+
+As he was tucking the bottles into his alchemist's belt, he realized the sun was starting to set. They had spent hours and hours walking through the vast markets, working on his affinities, scrounging through the potion shop, and looking for the last few penny dreadfuls Mazsy needed to complete her Count Randeau collection.
+
+Before heading to find the last member of their team, Joe decided to give his sheet a once-over.
+
+Name: Joseph (Joe) MorrisRace: ChangelingLevel: 8Experience: 5,185 / 6,890
+
+ATTRIBUTES· Strength: 2· Vigor: 8· Dexterity: 3· Perception: 3· Spirit: 9Available Attribute Points Unspent: 0
+
+RESOURCES· Health: 345 / 345· Stamina: 845 / 845· Mana: 954 / 954
+
+CLASSES· Primary Class: Healer· Secondary Class: None· Tertiary Class: None
+
+SKILLSSTRENGTH SKILLS: (2 / 2)· [Steadfast] (C) rank 7· [Strong Arm] (C) rank 10VIGOR SKILLS: (8 / 8)· [Efferous Endurance] (U) rank 11· [Healer's Ward] (U) rank 3· [Deaden Flesh] (U) rank 6· [Stun Block] (U) rank 3DEXTERITY SKILLS: (3 / 3)· [Simple Weapon Aptitude] (C) rank 16· [Swift Strike] (C) rank 8· [Whisperstep] (C) rank 12PERCEPTION SKILLS: (3 / 3)· [Assess Wounds] (C) rank 15· [Helping Hand] (C) rank 6· [Identify] (C) rank 15SPIRIT SKILLS: (9 / 9)· [Crystal Mind] (C) rank 0· [Dispel Rot] (C) rank 4· [Healer's Touch] (U) rank 19· [Homefire] (U) rank 9· [Purge] (U) rank 5· [Swap Stamina] (C) rank 0
+
+AVAILABLE SKILL EVOLUTIONS: 1
+
+TRAITS· [Anyone] (Racial)· [No one] (Racial)· [Sneaky] (Racial)· [Iron Mind] (Hereditary)· [Beastmaster] (Achievement)· [Defy Death] (Achievement)· [Durable] (Achievement)· [Hobbler] (Achievement)· [Overachiever] (Achievement)· [Punching-Bag] (Achievement)· [Signature Skill] (Achievement)· [Survivalist] (Achievement)· [Tactician] (Achievement)· [Thick Skinned] (Achievement)· [Spirited] (Achievement)· [The Seal of Passing] (Prophetic)
+
+When Joe finished, Mazsy led them from the markets to another district. While the area they had just left was no less active than where they were entering, the mood was vastly different. The shops and open markets were a hubbub of active trading and purpose. The theatrical neighborhood they had stepped into was a flurry of street performances, barkers' shouting, and general revelry. The back and forth of haggling and commerce was exchanged for a wash of melodies, laughter, and exceptional scenes.
+
+Joe stopped for a minute to watch an illusionist perform an ancient myth about the Dragon King of Cazmaloq. The images were masterfully rendered. He was literally pulled out of the show by a hard grasp on his arm.
+
+Surprised, Joe looked to see a very angry Hah’roo hauling him away, her expression as thunderous as a brewing storm. He managed to catch her hiss something clearly slanderous about the people and place the illusionist’s story was about. Joe wondered what the galeling had against the dragonfolk of Cazmaloq.
+
+She lost her ire, long before they reached Ivory Lane. When Joe first saw the street name on Theodanus’ note, he had thought the name came from something to do with whaling. To his surprise, the street had nothing maritime about it at all. The whole boulevard seemed to be devoted to taverns, gambling establishments, pleasure houses, and the such. The name “ivory” made sense when Joe noted someone had carved a set of dice onto the street sign.
+
+Absinthe Abby’s was impossible to miss. The walls were coated with vibrant emerald paint and adorned with bright, glowing green lamps lighting the saloon and the surrounding street in a striking, verdant hue. Joe smiled as they pushed through the classic Wild West swinging half doors to a merry brouhaha of voices and a lively pianist playing somewhere within the vast room. The whole first two floors of the large building seemed to be one great room filled with people, tables, balconies, and a tremendous central circular green bar.
+
+Joe found himself a bit overwhelmed. He had not been in a crowd like this since he went to ComicCon ten years earlier, and he had been overwhelmed then, too. Noting his discomfort, Hah’roo led them to a corner where the press of people and din of voices were more manageable.
+
+“Holy cow. That was nuts,” he sighed, slipping up onto a stool around a circular table.
+
+“You have sacred cows where you come from, Joe?”
+
+“Well, yeah. For some of us. We did not have one set of gods. I’ll explain it later, Maz. We should probably find Jink first?”
+
+“I will leave word with the barkeep. You two wait here for me,” the huntress stated before stepping back into the throng of tavern-goers.
+
+Joe and Mazsy watched as the galeling seemed to just glide right through the swirl of bodies, both tall and squat, shaggy or scaled. Where they saw an impassable wall of people, Hah’roo found every gap and passed effortlessly through the press to the bar beyond.
+
+Her return moments later was even more impressive. She came back with drinks, spilling not a drop through the whole chaotic trek. She had a copy of the drinks they had had at midday: a beer for Joe and a fruity beverage for Mazsy. Hah’roo had a tall glass of a clear, bubbly liquid for herself.
+
+“The barkeep stated that Jink is here and will send him our way as soon as she or a server spots him.”
+
+With nothing to do but wait, Joe had fun sampling a variety of beers and ales from this new world, while purging away anything that brought him past a pleasant buzz.

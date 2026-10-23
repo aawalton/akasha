@@ -1,0 +1,113 @@
+47 - Those in Need
+
+Once they reached the deeper waters of the Strait of Glandryth, the air grew sodden with a cold, wet moisture. Joe closed the porthole and found his little cabin was not too uncomfortable anymore. He opened the door to look out at the people on deck and saw that the majority of them were huddled together, trying to stay warm.  Even though these were mountain folk, the icy spray coating them seemed to be chilling them to the bone.  He could hear coughs and children crying.  The sun had set, taking away even that speck of warmth.
+
+He noticed it as well.  Even the cold resistance he had gained from surviving the river with Kaid seemed to be little help against the clinging cold dampness.  Joe closed the door and sat down on the floor. Kaid would kill him if he knew what he was considering, but Joe knew he could not just hide away while those outside suffered. He dressed himself and gathered his belongings.
+
+When he stepped outside, he brought up his aura sight and looked over the passengers on deck. The first thing he saw was a deep red enveloping a man being held by a woman wrapped in shawls and scarves. Joe headed straight there first.
+
+“Excuse me. I have some healing skills,” he announced as he stepped up to the couple. “Would you mind if I looked to see if I can help your man there?”
+
+“We cannot afford …,” the woman began in a thick accent that sounded very different from the speech of the people he met in Crowfield. She looked up at him, and Joe saw a pair of curled horns under her head scarf. She had goat-like features, including their bar-like pupils.
+
+“I am not asking for coin,” Joe interrupted, “but I think we need to move quickly, or he may soon be beyond my abilities.”
+
+The woman nodded her horned head.
+
+You have restored 30 points of Yago Shale-Walker’s health. His current health is at 42%.
+
+“Ok. That will stabilize him. Can I take a look at the wound? I don’t see any infection, but I want to make sure it’s clean.”
+
+“Thank you. I am Parla.” Together, they peeled back the sodden cloth. Yago was a very hairy man with a hefty minotaur-like build, except that he, like Parla, had more ram-like horns and features than those of a bull. As soon as Joe got to the lowest wrappings, the wound site became a mess of blood-soaked hair and cloth stuck in the forming scabs.
+
+Joe looked around. “Does anyone have any clean water or strong spirits?”
+
+A few people blinked at him. He could see they had bottles of water but were reluctant to share. He could see fear and guilt on their faces. Having lost so much, Joe assumed they worried about losing anything more.
+
+“Hey, boyo,” called out a familiar voice. “Which is better, water, whiskey or rum?” The sailor who had given him urination advice earlier was standing there, holding a flask.
+
+“I think any will work, thanks, Mister …?”
+
+“Ah briny deep, boyo. Don’t be givin’ me no airs with mistering me. Name's Wakely. Whiskey I got, so that’s the closest.”
+
+“Thanks, Wakely. Probably the best of the three if I had to choose.” Turning to the man, “Yago, this is going to sting a bit, and I will have to pull at your wound. Can you handle that?”
+
+The big man’s eye rolled towards Joe, and he gave a slow nod. Joe poured a fairly large shot of the booze onto the area where the bandage had stuck and slowly worked the cloth out of the wound. He kept saying “sorry” over and over every time the man winced, but eventually, he was able to ease the sodden fabric free from the wound. He layered on two more of his [Healing Touch] spells. Yago wasn’t fully healed, hanging at almost 83%, but Joe was not sure how many of the refugees would need his spells. He did not want to spend his mana too quickly.
+
+“Hey, Wakely. Is there an empty barrel you can grab?” Joe asked, looking around the deck. There were plenty of casks in sight.
+
+“Sure. What for?”
+
+“I have something that can warm and heal a lot of people at once, but it looks like fire. I promise you it is not. I figure if I stick it inside a closed barrel, it is less likely to freak everyone out.”
+
+The sailor scratched his chin and, even though his perpetual grin remained, he looked a bit pensive as well. “I think these folk could use a bit o’ warmth. Gotta run it by me First Mate, but I reckon he’ll see it yer way. Be right back.”
+
+As Wakely walked off, Joe began to move among the people on the deck. Most were gray with weariness, but where he saw red or black, he used his spells to move them back to blue. While he knew he could push back their exhaustion with [Efferous Endurance], Joe had already spent quite a bit of mana. As much as he would have liked to perk people up, he wasn't sure if he had the mana to spare.
+
+While he was tending to the infected foot of a white-furred cat-man, a deep voice cleared its throat behind him.
+
+“So you want to put a fire in a barrel?” Kyllean stated in his gravelly tone.
+
+“It’s not fire. It just looks like one,” Joe answered without lifting his hands from the furred limb.
+
+“If you say so. Just know if that barrel starts burning, both it and you are going overboard. You still certain about this?”
+
+Joe turned to look over his shoulder, spotting the barrel-chested first mate, with his arms crossed, looming over him. Wakely stood a few steps behind the man carrying the barrel. The mate’s expression was as ominous as a thunderhead. Joe swallowed hard, but he knew the spell couldn’t actually catch anything on fire. “I’m sure,” he affirmed.
+
+“Yer funeral. Stick it there, Wakely,” the man grumbled, pointing at an open spot on the deck. “Be ready to toss it if ya need to.”
+
+Joe understood that bonfires and ships were not compatible, so he didn’t take the threats personally. When he dropped the [Heartfire] inside the barrel, the cold air around them quickly warmed. Kyllean and Wakely both held their arms above the flames for a second. Slowly, they lowered their limbs until they had their hands in the middle of the blaze.
+
+“That’s a nifty trick,” the first mate said. “Let’s put out a couple more.”
+
+“Sorry, I can only have one going at a time. But I can swap them to different spots every hour or so. That way, no one will be left cold for too long.”
+
+Kyllean nodded while staring at the flames, clearly thinking. After a second, he turned to Joe and gave him a bob of his head as well. “Too bad we can’t have more. Still, it is better than nothing on this cold night. Good job, boyo.”
+
+Joe looked around and saw smiles breaking out among those nearby. Close range was a fifteen-foot radius, which was more than enough to cover the boat from side to side. The vessel was much longer than that, but the warm air was pushed back towards the aft of the ship. Those huddled downship of the aura felt some warmth reach them. Only those forward of the flames were left without its blessing. Joe decided he would place the next barrel up by the bow.
+
+As Joe moved around the group, he suddenly felt a little light-headed. He looked at his mana and saw it was down to just about a third of his max pool. That was far less than it should have been. He had been at over half mana a minute ago. He should have plenty of mana left.
+
+As he watched, he saw his pool tick down another point, yet he hadn’t just cast anything.
+
+‘Why am I losing mana?’ There was only one answer. It had to be the only ongoing mana-based spell he had active, [Heartfire].
+
+While he had used the passive heal to ease several people at once in Crowfield, it had never affected this many people at once before. Now, the spell was warming dozens of people, most of whom also had some form of injury, so it was healing, too. The spell needed more power, and so was drawing heavily on Joe’s mana.
+
+“Crap,” Joe swore. Wakely and the officer looked at him questioningly. “There are too many here that are cold and hurt,” he explained. “I need more mana. Maybe when everyone is healed up, I can maintain the heat, but doing this much healing and providing warmth is quickly draining me dry.”
+
+“I might be able to assist you there, young healer,” breathed a soft voice. Joe turned to see the white-skinned woman standing a couple of yards behind him. She was still dressed in her sleeveless duster and crop top shirt, which made Joe cold just looking at her.
+
+“Don’t you dare, Hah’roo! We don’t truck with those that break Phealti’s law.” The dwarf stepped out from behind her. His gaze locked on Joe, and his face curled into a rictus of loathing.
+
+“But Myrrhcee tells us to aid the weary, wounded, and unwell, Azbekt. That is what this boy is trying to do. Surely even Phealti would not support suffering when aid can be given.”
+
+“If the aid comes from one unclean, it is not aid. It is corruption.”
+
+The winsome woman’s expression scrunched into a dismissing frown. “Look at the spell, Azbekt. It is a classic hedge mage or healer skill. There is nothing otherworldly about it.” The woman sighed and, in doing so, somehow caused her coat to flare out dramatically. “You do as you wish, Azbekt. I would see these people receive what comfort they can get. If that means we must end our contract together, then say the word, and we shall be done with one another here and now.”
+
+“Nay,” the stern dwarf barked. “Our concord stands. But I need not remain and witness your folly.” After glaring once more at Joe, the ruddy-skinned warrior turned on his heel and marched back to the front of the deck.
+
+“I must apologize for his behavior. He is unforgiving in his morals and reasoning,” the woman named Hah’roo sighed. She watched the angry man stomp forward across the deck before turning back to the crowd around Joe. “Now, did I hear you say that you could continue to aid these people if you have more mana?”
+
+Joe did not know what to think. The dwarf, Azbekt, was a myrmidon of Phealti and so surely must have wanted to take him into custody, but he hadn’t done so. This woman was clearly an ally of the dwarf, yet she was offering to help him. Very confusing.
+
+Shaking away his bewilderment, Joe could feel his mana draining. If she could help, why not?
+
+“Yes, please. I have never used this spell for so many people at once. It is eating through my resources quicker than I expected.”
+
+Hah’roo drew a string out of a pocket in her duster and began tying an intricate set of knots into the thread. She finished the knotted strand in a minute’s time, before holding it out towards Joe.
+
+“Your wrist, please,” she asked, with her oddly gusty voice.
+
+Joe considered this might be a trap for a second, but the woman seemed truly sincere. Additionally, he doubted he had a chance against either of them if they really wanted to take him into custody here and now.
+
+Gambling that it wasn't a ruse, Joe held out his arm to her. She looped the cord around his wrist, tying it closed with an elaborate knot.
+
+“This will do for a start,” she huffed airily. “I’ll work on a stronger one while you tend to these people.” As soon as she finished knotting the string around his wrist, Joe could feel the drain on his mana slow down.
+
+[Lesser Charm of Renewal] (Item: Wrist- Common): Increases the target's natural mana recovery rate by 20%. Single Use. {Potency}
+
+“Thank you. That helps a lot,” he stated gratefully, receiving a satisfied nod in return from the blue-haired enchanter.
+
+Joe let his resources build back up for a minute before heading over to the next suffering refugee.

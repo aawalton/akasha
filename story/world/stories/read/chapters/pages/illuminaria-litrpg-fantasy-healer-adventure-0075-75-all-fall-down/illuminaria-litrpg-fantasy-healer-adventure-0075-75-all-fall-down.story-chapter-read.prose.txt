@@ -1,0 +1,103 @@
+75 - All Fall Down
+
+“That was pathetic, healer,” the enforcer scoffed, staring down at Joe with disdain. He had returned to his regular size during Joe's mauling.
+
+“Fine,” Joe wheezed. “Let’s see you do better.”
+
+After one more quick heal, he reached out with his free hand and grabbed Azbekt by the ankle. Locking his sight onto the top of the steps, he brought them there in the blink of an eye. Joe caught a glimpse of Sougath leaping off the top of the tower. A second later, the dwarf bounded over the edge after him.
+
+All Joe could do was flop backward onto the uncomfortable stone stairs, but the edges of the steps were nothing compared to the torment filling the rest of his body. He had surpassed the {Pain} reduction provided by his new headgear by several magnitudes.
+
+His claw-torn abdomen had {Major Impairment (Evisceration)}. His collarbone and clavicle were broken. He still had leg fractures. By far, the worst pains were the sickening taint in his shoulder and the scorching burn from his mark.
+
+He lay a hand on the flesh of his shoulder and cast [Dispel Rot]. Unfortunately, unlike with the Count, Joe’s prior heals had sealed the flesh over his bite wound. The taint was driven away from the magic, but unlike Sarsa’s infection, it did not break up. The goopy red tendrils lanced deeper into his body. Joe realized he would have to cut openings in his skin to drive out the corruption. That was an operation that couldn’t easily take place here in the ruined tower, while Azbekt was out there, likely getting himself killed.
+
+He healed until he saw
+
+You have restored 102 points of your health. Your current health is at 83%.
+
+You have underlying structural damage. The underlying cause of damage is diminishing your healing by 20%.
+
+‘Best I’m going to get for the moment. Now I have to go help Azbekt,’ he groaned inwardly.
+
+He and the dwarf were far, far, far from friends, but Joe could not let the Night Skinner kill him without trying to assist the grouch. Realistically, though, Joe had no idea what he could do to help. He had maybe one good jump left in the [Talisman of the Medic], his health was a disaster, and he had used up the safety net of his [Punching Bag] trait. The [Slow Stone] would last a second or two at best. There was a small chance he could beguile the werebeast, but considering how hard it was to land [Deadened Flesh], that was a long shot.
+
+The only thing going for him was Hah’roo’s charm was replenishing his low mana at a greatly accelerated rate. He had resources, but he had no way to hurt Sougath. The only thing that had worked was the Count’s silver weapons.
+
+Joe looked down the stairs and saw the dagger lying in the rubble on the first floor. Thunderstruck was down there too, the end of the staff having landed on top of the argent poignard. Joe started absently at the pair of weapons for a second until an idea smacked through his pain-fogged brain. He looked at the landing of the second floor at Count Valloc’s waist. The jar of Regent’s Glue was still intact.
+
+It was probably a pointless plan, but Joe couldn’t think of any other way to affect the Night Skinner. Any second now, the beast would either kill the dwarf or escape into the night to continue its terrible quest to become some sort of ascendant god-wolf.
+
+[Helping Hand] grabbed Thunderstruck and flew the staff up the stairs into Joe’s hands. He then sent the hand back down for the dagger. On the way back up, the magical digit opened the jar and dipped the grip of the weapon into the glue. When the blade reached him, Joe grabbed the long dirk and pressed the sticky handle against the side of his polearm. A moment later, Joe was looking at a makeshift silver spear.
+
+He pulled himself to his feet and, on semi-numb legs, hobbled to the edge of the tower. Looking to the ground below, Joe gasped. The werebeast was standing over a prone myrmidon. Azbekt must not have been able to pull the "get mighty" trick again so soon after using it.  Sougath was slashing into the enforcer’s chest and abdomen. The sound of metal rending rang out into the night, and even in the moonlight, the splattering of blood around the dying dwarf was clearly visible.
+
+The creature was growling out the dark ritual again, likely the only reason it had not fled into the darkness. It sought to make Azbekt this night’s sacrifice.
+
+Even though Joe knew he didn’t have the strength or skill to take on the werewolf face-to-face, there was a chance. If he had learned one thing from his weekly games, it was there were three great ways to even the odds. The first was fire, but he had done that already, and it wouldn’t work here. The other two were surprise attacks and gravity, both of which would.
+
+Joe focused on his cracked bones and gave them one more heal. The bone-based plaster thickened a bit more, enough so that he was not worried they would snap if he used them for a short sprint. He staggered to the middle of the flat roof, turned, and dashed for the edge of the roof. Fixing the idea of vanquishing the moon-marked monstrosity in his head, Joe drove his intent into the prophetic symbol on his arm.
+
+And it worked.
+
+The Mark of Death has temporarily transformed one of your abilities. Your [Strong Arm] skill has become [Strong Legs] for the duration of this encounter.
+
+[Strong Legs] - Common - Strength: The skill gives you a moderate burst of speed and improvement to your jumping distance. Cost: Moderate Stamina. {Might}
+
+Joe launched himself up off the tower. As he hurled into the bright night sky, he noted the creature turning its head to glance his way before dismissing the empty threat and refocusing on his prey. Even empowered by the [Strong Legs], Joe would fall far short of reaching the beast and Azbekt.
+
+Joe pointed the spear downward and hooked his feet on the dagger’s guard for good measure. Sougath would have been right. Joe’s enhanced leap was nowhere close to being far enough to be a danger to him. But after plummeting dozens of feet downward, Joe’s eyes locked onto the spot of shaggy scalp between the creature's pointed ears.
+
+Draining the talisman almost completely dry, Joe popped into existence on Sougath's head, driving the point of the pole-dagger straight into the Night Skinner’s skull. He had no finesse, but he did have the weight of his fit new body and the velocity of his fall behind the strike.
+
+KRackABOOOOOM!!!
+
+The silver weapon ripped through flesh and bone like a hot knife through butter. It tore the beast’s head in two, scattering brains, teeth, and mats of fur. The rest of the body was likewise driven into the ground. The additional thunder damage threw chunks of bloody flesh and skull bone across the old temple’s yard.
+
+Joe slammed into the soil, releasing bolts of excruciating pain through his already damaged legs. He had expected this and so had been spamming his healing and [Healer’s Ward] as he fell.
+
+You have restored 145 points of your health. Your current health is at 34%.
+
+You have underlying structural damage. The underlying cause of damage is diminishing your healing by 40%.
+
+The bone patches on his legs blew apart, and Joe was pretty sure he had additional fractures added to his collection. His breath was slammed out of his chest, and his spine felt like someone had just taken a hammer to it. Thunderstruck blew apart into flying scraps and splinters.
+
+But it was all worth it!
+
+You have slain Sougath the Night Skinner.
+
+Joe flopped onto his back on the red-soaked gravel, trying to draw in a decent breath.
+
+“Ow!” was all the triumphant hero managed to groan before his mind exploded in a storm of memories, hungers, and fury.
+
+Agony tore through his mind, body, and soul. Joe felt like a thousand hooks had been jammed into his insides, and, in Hellraiser-like fashion, the spiked chains seemed to yank him apart. Joe found his consciousness ripped out of his body. The air was filled with screaming that was partially his own, and partially Azbekt’s, but there were hundreds of other voices screaming, too. Spectral shrieks of fear, pain, and lament.
+
+The essence of Sougath smashed into the ghost of Joe, trying to crush his spirit. Waves of memories that were not his own flooded into his mind. He saw massacres and beatings. Violence on every level. And fear. Fear was everywhere.
+
+The spirit of Sougath thrived on terror, even before he earned the Mark of the Moon. Joe saw Sougath as a living person, a captain leading his troops to perform ghastly horrors, atrocities so vile the surrounding villages wouldn’t even try to fight back, lest they suffer the same fate. He saw a boy in a Spartan-like temple to the war god Stryph, holding a rival's head underwater until he was sure the other would never challenge him again.
+
+Scenes of brutality and intimidation, of a lust for rage and desire for the dread in others. Joe was drowning in unspeakable hungers that he could barely fathom, let alone fight back against.
+
+Relentlessly, Sougath was trying to grind Joe out of existence.
+
+The invading spirit found Joe’s fear of death and made it into a crushing mountain. Joe had died choosing to be at peace, but he was still mortal. Under his layer of acceptance lurked everyone’s deep primal terror of death. He felt that fear now more than he ever had on Earth. Having somehow been given a second chance, life had become so much more precious to him. He could not imagine there would be a third chance. Once the vicious soul consumed his spirit, Joe would truly be gone forever.
+
+A growling voice filled his mind. ‘You are doomed, little thing. I will become the Wolf King, and either you or the dwarf shall be the meat of my vessel. There is nothing you can do. Surrender and die or suffer and die. These are your only choices.’
+
+Joe looked down and saw he was floating above his broken body. A silver cord ran from his ghostly heel to his physical foot. Looking into the line, Joe could see black, vaporous tendrils and red corruption eating at the cord. Joe knew that if that connection broke. His spirit would be cut adrift, and Sougath would take his body.
+
+A body that was a complete mess. His limbs were twisting in unnatural angles. His bones were snapping and reforming. His corporeal body was seesawing back and forth between becoming the shape that Sougath wanted him to be and his body’s attempts to restore its proper pattern. The war was an unrelenting tsunami of pain, almost as bad as Joe’s worst days.
+
+But it wasn’t the worst Joe had ever lived through. Mustering his resolve, he fought through the torment. This time, instead of brain-dulling drugs, Joe had mind-sharpening magic to get him through.
+
+The Mark of Death has temporarily transformed one of your abilities. Your [Diamond Spell] skill has become [Diamond Focus] for the duration of this encounter.
+
+[Diamond Focus] - Uncommon - Spirit: For 1 minute, you receive the {Flawless Focused} buff. Cost: Moderate Mana. {Crystal}
+
+His mind shoved back most of the torturous pain and vile memories, giving his thoughts some room. He saw his spirit was being invaded by a churning dark miasma of smoky essence from outside and twisting crimson coils within his body.
+
+The smoky mass hanging in the air beside him was a horrible thing. It looked like a giant, dark, vaporous amoeba with long, twisting tentacles sprouting off the main cloud. Just below the wispy surface of the ebon ‘skin,’ Joe could see hundreds of ethereal screaming faces, each one shrieking in horror. In the very center of the main mass, an oversized lupine skull would ooze its way out of the thick murk before being sucked back in and then appearing a minute later from another spot and angle. Hovering at the top of the main plume was a fat, sickly-looking moon. It, too, was half shrouded, like a full moon appearing and disappearing behind swiftly shifting, ink-black clouds.
+
+A radiant glow was emanating from off to his right. Joe looked away from his rancescent body and the tenebrous blot, spotting the spirit of Azbekt also being held in the air by the ebon tendrils. The spirit of the myrmidon was a translucent golden form surrounded by an aura of ethereal fire. It was beautiful. Or it would have been, had the black fog not been staining the edges and red wriggling worms not been burrowing around within the spectral body.
+
+Even though the enforcer was Joe’s most contentious ally, he was still an ally. Joe held on to that small hope and pushed the screams and pain back further. He used it like a mantra to find his focus: ‘I’m not alone,’ he kept repeating as he battled Sougath for his soul.

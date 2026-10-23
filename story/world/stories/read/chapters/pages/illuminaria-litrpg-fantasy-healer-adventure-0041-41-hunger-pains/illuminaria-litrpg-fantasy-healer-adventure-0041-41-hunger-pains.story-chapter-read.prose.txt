@@ -1,0 +1,109 @@
+41 - Hunger Pains
+
+They awoke early. Crawling to the edge of their hideout, the pair of fugitives listened for sounds of pursuit. Before leaving their den under the pines, they spent a minute trying to scuff out any traces of their presence. It wouldn’t be perfect, but it might disguise where they took their rest.
+
+The two walked back to the edge of the forest and again stopped and scanned for signs of men or dogs hunting them. Hopeful they had lost the hunters, Joe and Kaid ventured onto the wide floodplains that would bring them to Heron’s Reef sometime in the late afternoon or early evening.
+
+As the sun crossed over its peak in the sky, the pair were missing the woodlands they had left behind. The trees had thinned until they became lone stragglers in the vast open space. This left the traveling duo with very little shade from the hot sun. They sweated in the pre-summer heat, pushing through the coarse grass that scraped itchily across any uncovered body part it could reach.
+
+Even the cooling scales in Joe’s gambeson could not combat the baking temperature. He took the heavy jacket off for a few minutes until he realized he was no more comfortable without it. He actually felt warmer without the touch of the ice wyvern scales next to his chest.
+
+The grasses were not as tall as those they had had to contend with near the Brandy Mere, mostly coming to Joe’s knees. On the flip side, the grainy stalks were seedier, leaving pants covered with little prickly kernels that found their way into their boots and stabbed at their arches and toes.
+
+Joe kicked himself for not asking Granny Growlbee for any ‘Ease Discomfort’ type spells. They would surely be useful as a healer. As cool as [Deaden Flesh] was, Joe would have traded it for a fever-reducing spell. He wondered if [Cooling Touch] was a witch's spell. He doubted it. They would probably call it something like [Bitter Breeze] or maybe [Winter’s Kiss].
+
+While Joe was pondering witchy spell names, he hadn't noticed Kaid vanish from his side until a voice hissed from the grasses somewhere to his left. “Remember the goblin fight?”
+
+“Yeah? It was just a couple of days ago,” Joe replied, looking around.
+
+“Great. Different monster. Same plan.”
+
+“Wait, what?” Joe stopped scanning the grass for Kaid and began to search the area further around himself. It took him a second before he saw an oddly brindled form inch a step towards him. There was a lion slinking through the tan grass a dozen yards away. The predator was cougar-sized, with a slight greenish striping across her coat. Even with her just a short distance away, Joe was having a hard time differentiating between her lower body and the grass.
+
+“Oh crap,” he groaned. “Kaid, I really hate this tactic.”
+
+“You are way better off in a fight now than you were then,” hissed a voice from somewhere nearby. “You got this. I’m better as an ambusher.”
+
+‘Ok. Let’s do this!’
+
+Joe pointed at the ground right in front of the tawny feline and dropped a [Heartfire]. He received the reaction he had hoped for. The beast yowled and lept backward from the burst of harmless flames.
+
+Joe felt clever for only a second until a heavy weight landed on his back. Teeth punctured into his shoulder as he was borne to the ground, landing hard on his stomach and face.
+
+The Prairie Puma has injured you for 54 points of damage and has inflicted the {Grappled} condition on you.
+
+That bite would have killed him a few days ago. Fifty-plus points was brutal, but thanks to his increased Vigor, the agonizing mauling was only about a quarter of his health.
+
+Surviving the sneak attack was all well and good, but being under the cat was the worst place to be. Before the beast could bring its back legs up to shred him, Joe decided to be somewhere else, immediately. He locked his eyes on a spot twenty feet away and let the medallion jump him out from under the feline predator.
+
+Unfortunately, Joe had never tried to jump solo while holding onto someone, or in this case, being held. He appeared in the chosen location with the feral feline still attached to his back. The attempt was not completely useless. The blink from there to here startled the hunting cat enough for it to hesitate. Its fangs were still locked deeply into Joe’s shoulder, but it paused its back-claw rending for a second.
+
+“Son of a bitch!” Joe yelled as the fangs drove deeper into his flesh.
+
+Joe grabbed the next option that came to mind. He slapped a hand against the jaws that were locked onto his neck and shouted, “Deaden Flesh!” He knew he did not need to call out his abilities, but it was a spontaneous reaction in a precarious moment. Given that he had a lioness biting towards his jugular, he figured Kaid would let the cringy battlecry slide.
+
+Your spell has inflicted the {Numbed} affliction on the Prairie Puma.
+
+Your skill [Deadened Flesh] has increased to rank 3.
+
+The hunting cat’s weight suddenly jumped off of him. Joe rolled over to see the lioness swatting at her face. Her lower jaw hung slack, flopping around as the beast batted at it. Her eyes were wild-looking, unable to comprehend why her mouth was suddenly numb.
+
+Prairie Puma: Level 7: Beast: Skirmisher: Dexterity
+
+Being roughly the same level was slightly reassuring, but Joe was also outnumbered. He scanned the brush around him and spotted the first lioness in the tan grasses. She had gotten over the flames and was closing on him but she had paused, holding herself with an air of uncertainty. Joe guessed she was trying to figure out why her pridemate was acting so strangely. Before either of them refocused on him, Joe heard another sound coming from his right.
+
+“Hey, you hairy bitch! Get off of me!”
+
+Not good. There were more than two pumas. Savannah lions were pack hunters, but Joe didn't think mountain lions were. With this break in the normal, Joe couldn’t even guess how many more were out there. If there were a lot more out there then he and Kaid were in real trouble. The lioness in front of him started to stalk around Joe, forcing him to turn to face her.
+
+Joe used [Healing Touch] to repair his mangled shoulder, adding the [Healer's Ward] kicker to boost his damage resistance for the next ten seconds.
+
+Your skill [Healer's Ward] has increased to rank 1.
+
+Even as he did so, he expected another attack to land on his back at any moment. Even with a numb mouth, the prowler could take him off his feet, leaving him vulnerable to its partner. He needed another ally or fewer enemies.
+
+‘Why not both?’ Joe thought, grinning internally. He aimed his palm at the non-benumbed lioness and invoked the power of the heavy purple ring on his wrist.
+
+“Go kill the cougar attacking Kaid,” he commanded.
+
+He probably should have said puma, but where he came from, these hunters were also called mountain lions, panthers, or catamounts. He knew the actual words didn’t matter. It was all about his intent and his Spirit. The words and the hand gesture were just props to focus Joe’s intention.
+
+He could feel the spirit of the cougar roaring at him as the [Band of Beguilement] pushed against the catamount's will. Joe’s Spirit score was pretty solid for his level, second only to his Vigor. The beast’s was not.
+
+Joe’s compelling enchantment punched through her defenses. The lioness’ eye grew wide for a second before it turned and launched herself into the grass in the direction Kaid was swearing from.
+
+Turning back to the first predator, Joe was missing his heavy quarterstaff. The green sapling he was holding lacked the stout strength of either of his previous two staves. He would have to make his hit with the springy makeshift weapon count. Quickly running mentally through his bag of tricks, Joe found a combination that might work.
+
+Her jaw was now moving more smoothly, and she had that pissed-off look cats could do so well. Before she gathered herself for a pounce, Joe shuffled his feet and flicked his thumb against his new ring. The sound of his feet rustling moved from under his boots to the puma’s immediate right. With a boost of agility, Joe skipped forward and launched a [Swift Strike] empowered blow at the side of the distracted feline’s face.
+
+The resounding thwap was so loud it made Joe wince in sympathy, but he knew he couldn’t let up. As the cat stumbled away from the blow, Joe targeted its right leg and fired off another [Deaden Flesh]. With most of its weight already on the numbed limb, the puma tumbled over.
+
+Joe stepped up and jammed his staff downward like a spear. Which was a terrible idea.
+
+The sapling was not pointed, weighted, or stiff enough for this move to be at all effective. It certainly was not pleasant for the predatory hunter to have a stick jammed into her cheek, but the end of the weapon slid off, leaving just a shallow cut.
+
+Unfortunately for Joe, his weapon slid off the cat’s cheekbone, ending up thunking into the ground between the lioness’s jaws. With a powerful sapling-snapping bite, Joe’s third staff was no more. He was left holding a rather flimsy club.
+
+Dropping the broken sapling, Joe yanked the handaxe from his belt loop with one hand and the slow stone pouch with his other. The thong holding the pouch snapped, and Joe more dropped than threw the freed leather bag, shouting, “Udaan!”
+
+The huntress froze for a moment. With his Dexterity boosted by the [Spinner], a moment was all Joe needed. His barrage of hacking chops was not pretty, but it did the job.
+
+You have slain Prairie Puma.
+
+He stopped and wiped the blood that had spattered onto his face, feeling a bit queasy about what he had just done. He knew she would have killed him, but this was not some evil, malicious goblin, mindless bug, or twisted tree. She had been a beautiful wild creature doing what the world had shaped her to do.
+
+Breathing out a deep breath to settle his roiling gut, Joe tuned back into the fight that was still not over. At least two cats were fiercely yowling at each other, all but drowning out the sound of Kaid’s continued swearing. Joe dashed forward to find Kaid and one puma facing off against each other while two other hunting cats were rolling around in the grass.
+
+He quickly targeted the shoulderblades of Kaid’s adversary and numbed them. The puma slumped forward as her front legs stopped working correctly. The gnomish knife-fighter wasted no time in capitalizing on the opening Joe provided him. The long, jagged dagger in one hand and the heavy kukri in the other drew a deep X across the beast's throat, finishing her off.
+
+Joe looked at the last skirmish. He instinctively knew which was the one he had enthralled. She was smaller than her opponent, and she was losing. He assessed the larger feline.
+
+Prairie Packleader: Level 8: Beast: Skirmisher: Dexterity
+
+The packleader smashed a blow to the smaller cat’s face, stunning her. Her follow-up blow dropped the smaller enchanted cougar.
+
+The larger lioness turned to face Kaid and Joe. Before she could react, Joe fired off [Deaden Flesh] again. This time, he had to push a little harder to overcome her resistance.
+
+Without the use of one of her front legs, she was no match for Kaid. Not batting an eye, the ruffian drove a foot-long, spike-like dirk into her brain, killing her more efficiently and humanely than Joe could have done.
+
+Joe healed their cuts before they looted the cats, coming up with some claws and hide. After a sip of their dwindling supply of water, the pair continued their trek across the hot, flat plain toward Heron’s Reef, which was a smudge on the horizon.
