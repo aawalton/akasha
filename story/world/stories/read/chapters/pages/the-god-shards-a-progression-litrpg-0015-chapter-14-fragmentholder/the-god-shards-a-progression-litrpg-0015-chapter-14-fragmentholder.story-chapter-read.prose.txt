@@ -1,0 +1,147 @@
+Chapter 14: Fragmentholder
+
+“Leo? Are you okay? Leo?”
+
+Allan’s voice, increasingly concerned, sounded muffled. Leo rubbed his head and peered up, seeing the man frowning down at him.
+
+He exhaled and slowly rose again, still dizzy from the onslaught of notifications.
+
+[300 starting points awarded]
+
+[Magic +3, Agility +2, Resistance +1]
+
+[Calculating spell slots]
+
+[You have unlocked 13 spell slots]
+
+[You can now access the Fragmentholder Database]
+
+[You can now choose an initial spell]
+
+Leo felt a hand steadying him, and he turned to see Allan with his brows furrowed, even more worried than before. Based on the way his eyes seemed to be scanning something, Leo suspected he was viewing his updated character sheet in confusion. His suspicion was soon confirmed.
+
+“Fragmentholder…?”
+
+The dizziness was starting to dissipate a little, at least enough that he no longer felt like he’d fall over with one wrong step.
+
+“The fragment,” he managed to say. “It was part of the administrator class crest, so I figured I might be able to absorb it like the Tier 1 crest.” He opened his palm, bare and empty, and smiled. “Looks like it worked.”
+
+The notifications had finally stopped, and Leo exhaled in relief. That had been a lot.
+
+“Is it like a normal class?” Allan squinted. “What’s the database thing?”
+
+“Not sure yet.” Leo shook his head. The last notification still lingered in his vision. “Wait, I still need to finish choosing a starting spell.”
+
+He was vaguely aware of Allan stepping back and apologizing, but Leo’s attention was already drawn back to the notifications. He was itching to figure out what the fragmentholder database was, but he couldn’t check until he’d completed his class change.
+
+It seemed like [Fragmentholder], however “real” a class it was, could access spells. He had 13 slots, more than he’d expected. The average was 10, with most people falling between 8 and 12. The number of slots could go as low as 4, and the highest recorded was the Sovereign of Zelyra’s, at 16.
+
+The golden text shifted, and a list of spells appeared.
+
+[Message - Mana cost: Low. Enables the user to project a simple message telepathically to anyone within sight. The distance is unlimited for party members. At higher levels, the recipient is able to respond, the target distance increases, and the user is able to project a different voice than their own.]
+
+[Firebolt - Mana cost: High. An offensive spell that shoots a focused stream of fire. The spell excels in precise attacks against a single or a few targets. At higher levels, it gains distance, speed, power, and the flames become hotter and capable of burning objects within the stream’s general vicinity.]
+
+[Visual Illusion - Mana cost: Medium. Enables the user to project a small illusion on a singular target. This illusion is intangible, visible only to the target, and has no auditory traits. The illusory image created must be smaller than a hand and lasts a maximum of 10 minutes. At higher levels, the illusion gains size, duration, and can target more creatures at once.]
+
+A low, medium, and high mana spell option. That seemed pretty standard, from what Leo could tell. He frowned.
+
+[Message] seemed like a very useful utility spell, and one he imagined would be especially good for large parties. It also looked decent as a distraction, especially once it gained the ability to adjust the telepathic voice it projected.
+
+[Firebolt], meanwhile, seemed like a standard precision based offensive spell. Leo was admittedly tempted to take it just to have more fighting options. He did find it interesting that it was a fire spell. From what he’d heard, the system did tend to assign certain “elements” to people, and those spell options would appear more frequently.
+
+[Visual Illusion], like [Message], seemed like it would become significantly more useful at higher levels. Right now it looked fairly limited, but with a bit of creativity, the possibilities were still huge.
+
+[Firebolt] seemed like the most immediately useful pick with no scaling, but the other two gave more options.
+
+Most importantly, Leo was drawn to [Visual Illusion] as a potential way to obscure his own stat sheet. “The size of a hand” was enough to hide his class if he needed to, whether because he was asked to display his stat sheet or if he happened to run into someone with a similar skill as his [Judgement] ability.
+
+Having [Fragmentholder] so visible as a class felt like he was putting a target on his back, and he had no idea when he’d run into someone who could see that target.
+
+Biting his lip, Leo picked [Visual Illusion]. It hurt to give up an offensive option, but he needed to mitigate risk. He could choose an offensive spell the next time he had the choice.
+
+[You have learned the spell Visual Illusion]
+
+With that final notification, the golden text finally dissipated, and Leo breathed a sigh of relief. He still needed to distribute those initial 300 points, but before that…
+
+Furrowing his brow, Leo focused on the [Fragmentholder Database]. It wasn’t listed as a skill, but was an entirely separate category.
+
+A few seconds passed of nothing happening. And then, all at once, a flash of golden light summoned an unfamiliar screen.
+
+It was a map of the continent, Leo realized, drawn in ghostly, translucent light. Across that map, different areas glowed with different degrees of brightness. Some countries, like Avel, were relatively dim, while others like the Solomere Empire and Zelyra glowed far more brightly. There were no details or labels, only that uneven gradient of light.
+
+Leo blinked, trying to make sense of it, when he noticed the counter hovering just above the map.
+
+[Current number of Fragmentholders: 276,121]
+
+As Leo stared, the number kept rising. The map was showing the general location of fragments, he realized. The brighter the light, the more were concentrated in that area.
+
+The number of fragmentholders continued to go up. He’d known there would be many competing for the fragments, but still, seeing visual proof of it, of the scramble beginning to overtake the continent, was at once intimidating and strangely exhilarating.
+
+He was one of those numbers, had staked his claim in this fight. His fingers clenched into a fist. Those numbers, those other fragmentholders, were the ones he’d be competing against.
+
+Leo stared at the map a little longer before finally turning it off.
+
+“Done?”
+
+Still seated against the cold stone, Spade watched him with impassive eyes. Leo met her gaze evenly.
+
+“Yeah, I’m done.” He glanced over at Allan, whose brows were still furrowed. “I checked the database. It’s a map of fragments, I think. And it shows the number of fragmentholders out there right now.”
+
+Crouching down, Leo scanned the ground and picked up a sharper stone. The earth was fairly hard, so he had to dig pretty deeply to get the lines to show up, but he managed to sketch a crude, rough drawing of the continent.
+
+“It looked like the Empire and Zelyra have the most right now,” he explained. That made sense, considering they were the two most powerful countries. His brows furrowed at the thought.
+
+When the Solomere Empire had first invaded Valendell four years ago, no one had predicted that the much smaller nation would be able to keep them at a stalemate for so long. The only reason they hadn’t already been completely taken over was because they’d managed to capture and hold the High General’s younger brother hostage, but would that hold true?
+
+Valendell had also glowed decently brightly on the map, but it was nothing compared to the Empire. Depending on what major fragments did—no, even minor fragments that boosted personal skills in the hands of certain people would be terrifying—he suspected the war would be quickly expedited.
+
+He’d already planned on leaving Avel. After that prison break, there was no way he or Allan could stay. Knowing the Empire might invade them next only bolstered that desire.
+
+“I think we should head to Zelyra,” Leo said, tapping on the country in question. If war really did sweep the continent, that would be one of the few safe havens.
+
+“There’s a lot of fragments there, and it’ll be safe from the Empire.” He glanced at Allan and Spade, who had moved closer to get a better look at the map. “Does that sound fine?”
+
+“You think the Empire will target Avel next?”
+
+“Probably. It’s that or Scaga, but they’ve been at a stalemate for ages.” He frowned. “Or they could maybe go after Dorryn and Ellis if they go through Valendell. Either way, I’m not taking the risk.”
+
+Allan nodded in understanding, and Leo turned wary eyes on Spade. The [Executioner] had said she was “looking for someone,” but she hadn’t given any more details than that. It sounded like she didn’t even have a general location in mind, but he doubted that was her only motive.
+
+“It might be hard to get into Zelyra,” Spade said simply. “They like to stay neutral.”
+
+“Even if they close their borders, there’ll still be ways inside,” Leo argued. The [Executioner] hummed at that, considering. She reached over, tapping Avel and drawing a line from it to the west, into Adrya and then Zelyra.
+
+“Following the coast would be your best bet, then. It would avoid crossing the desert, and we could cut through northern Adrya.”
+
+“No.”
+
+The [Fragmentholder]’s voice came out much harsher and blunter than intended. He swallowed. His fingers clenched, and he forced back the memories threatening to bubble up.
+
+“No, it’d be harder to hide by the coast. We’re better off going south. If we circle through Ivalon, we can still make it around the desert.”
+
+Spade raised an eyebrow, and he could tell she’d noticed his sudden tenseness.
+
+“If your goal is to avoid the Empire, then going west first is better.”
+
+She was right, and they both knew it. Leo’s jaw clenched. Maybe it would be fine, he told himself. Northern Adrya covered a large region. There was no reason they’d have to go near that place.
+
+And yet, no matter how much he tried to reason with himself, it didn’t help. He was vaguely aware of his breathing picking up, his thoughts getting hazier—
+
+“We can go south.”
+
+Allan’s voice cut through his rising panic, and Leo looked up to see the man meeting the [Executioner]’s gaze evenly.
+
+“If we head north, we’d need to go through the mountains. I’d rather go south instead.”
+
+For a moment no one spoke, all of them eyeing each other. Finally, Spade shrugged.
+
+“Fine. The exact route doesn’t matter to me.”
+
+All at once, the rising tension broke, and Leo’s shoulders slumped. He hadn’t realized how shallow his breaths had gotten until now that he could breathe in more fully.
+
+He sent a grateful look over to Allan, but the man missed it, his dark eyes still fixed on Spade.
+
+Outside, the shadows of the forest lengthened, and a soft golden glow outlined the grasses. Leo exhaled, steadying himself, and reached for the rock again.
+
+“Okay,” he said. “Okay, now we just need to plan our exact route.”

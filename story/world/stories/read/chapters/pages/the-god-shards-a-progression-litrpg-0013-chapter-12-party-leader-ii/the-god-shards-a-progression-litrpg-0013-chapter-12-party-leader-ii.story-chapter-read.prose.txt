@@ -1,0 +1,169 @@
+Chapter 12: Party Leader II
+
+Silently, Leo activated [Judgement] and checked Allan’s stats, the fragment still resting in his palm. It looked the same as before, displaying only the first few rows of information.
+
+[Allan has activated the [Renewal] skill]
+
+Leo blinked. That was new.
+
+He turned [Judgement] off, and the notification vanished. He eyed the fragment consideringly, then handed it to Allan, who took it hesitantly like he was worried he would break it. Leo used his personal skill again, and this time the notification didn’t pop up. That confirmed it, then.
+
+…Was that it?
+
+Leo frowned. It couldn’t be, could it? Even if it was a “minor” fragment as opposed to what he assumed were major ones, a portion of the [Administrator] class had to do more than a simple boost—and not even a particularly large one—to his personal skill. Would major fragments simply provide larger boosts, or would they grant entirely new effects?
+
+“Uh, Leo?”
+
+The [Thief] looked up, and Allan was still holding the fragment in confusion. He pointed at it, and Leo hastily grabbed it and placed it back in the pouch, tying the string securely.
+
+“Sorry, I kind of zoned out there,” he muttered, mind still churning. How many fragments were there? Did their effects stack? He refused to believe that was all there was. What was he missing?
+
+In front of him, Allan’s brows were furrowed. His hair was still messy from the escape, and a few splotches of drying blood sat on his clothes like dark stains. He didn’t look injured, though the exhaustion was evident. Leo wondered how many people the man had fought before they’d met up again.
+
+A fresh wave of guilt washed over him. Despite his attempts at escaping himself, in the end, he’d still needed Allan’s help. Not just his, but Spade’s too.
+
+The [Thief] clenched his fingers. Even after all these years, nothing had changed. Not really. He was still weak, still a nobody who’d only managed to survive on the kindness of others.
+
+His hand wrapped around the fragment, feeling its hard edges through the coarse fabric of the pouch. So small, so easily grasped. So easy for it to slip away.
+
+No more.
+
+“Listen, Allan.” Leo’s voice was quiet, but determined. “I’m gonna collect the fragments.”
+
+He frowned. “I definitely won’t be the only one. People’ll start fighting for them soon, I bet. They probably already have.” His fingers tightened around the bag, and he inhaled.
+
+“Maybe it’s stupid of me to try, but I’m not just gonna sit around and let this chance go. If these fragments do what I think they do, well…” Hazel eyes burned in the sunlight. “I’m gonna be the new Administrator.”
+
+“Okay.”
+
+Leo blinked, taken aback.
+
+“What?”
+
+“Okay,” Allan repeated. “Where should we go first?” He hummed to himself in thought. “Bigger cities probably have more fragments, right? Is it a population thing? Maybe—”
+
+“Woah woah woah, hold on,” Leo cut in. “That’s it? You’re just…going with it?”
+
+Allan looked genuinely surprised at the question.
+
+“Why wouldn’t I?”
+
+Leo’s jaw dropped, then closed again. He stared at the [Rickshaw Puller].
+
+Five years. Five years and he still couldn’t understand how someone like Allan could exist, let alone in Sindrey’s slums. A disbelieving laugh bubbled to the surface, and he shook his head. He opened his mouth to speak, but froze.
+
+“Consider this a word of advice. Don’t drag people down with you.”
+
+The shopkeeper’s voice rose unbidden from his memory, and he stared at the [Rickshaw Puller] again. His jaw clenched, and Allan frowned.
+
+“What’s wrong?”
+
+Leo exhaled. “I’m serious. This is probably gonna be really dangerous; a lot of people are going to want those fragments.” His brows furrowed.
+
+“You could move somewhere else, you know. Your class won’t turn any heads. It’ll be easy enough for you to find opportunities. You could live a peaceful life, get a normal job.”
+
+“No.”
+
+Allan cut the [Thief] off, and Leo blinked, surprised at how firm the rejection was. The [Rickshaw Puller] smiled, the expression just a little crooked.
+
+“Believe me, I really couldn’t.” Something unfamiliar passed through those dark eyes. He shook his head, and the look was gone as suddenly as it had appeared, so quick that Leo wondered if he’d imagined it.
+
+“Besides, I helped with the prison break. We’ll both be on the wanted posters soon,” Allan added in a lighter tone. “I don’t think a lot of jobs’re looking for people good with explosives.”
+
+Leo snorted at that.
+
+“How the fuck did you pull that off anyway? A Fireburst Potion?”
+
+The [Rickshaw Puller] grinned. “A couple people owed me favors.”
+
+“Uh huh.” Leo shook his head, deciding it was better not to ask. He stretched his neck, some of the tension draining away from his muscles.
+
+“But seriously, you’re sure you’re okay with this?” he asked quietly. “I don’t want to keep dragging you into things.”
+
+“I’m sure.” Allan hummed. “Did someone say something to you? You’re usually not so…” He gestured vaguely, and Leo punched his shoulder good naturedly.
+
+“Fuck you, I can be thoughtful.”
+
+Allan’s face twisted into one of doubt, only to chuckle when Leo attempted to hit him again, the [Rickshaw Puller] dodging to the side. As he moved, the bag at the [Thief]’s waist jostled, and Leo’s eyes widened.
+
+“Shit, I almost forgot!” He’d been so caught up in the fragments that their original concern had completely slipped his mind. He pulled out the pouch, opening it to reveal the five crests sitting inside. “I swiped them from the warden’s office. One more level and we’re finally Tier 1!”
+
+Allan smiled. “Actually, we already hit level 20. You probably didn’t see it during the fight.”
+
+Leo hurried to check his notifications. Sure enough, there they were.
+
+[You have gained experience! Experience shared with [1] other party member]
+
+[You have leveled up! 200 points awarded]
+
+[You have reached the Tier 0 cap!]
+
+[You are now eligible for class promotion]
+
+Giddiness rose in Leo’s chest, a level of excitement that he hadn’t felt in a long time. They’d actually made it. They would be Tier 1s.
+
+“Okay, okay,” he said, trying to calm himself. “We’re definitely changing classes then. But…” His voice trailed, and he glanced over to where Spade was only partially visible, still seated casually against a boulder. “Are we letting her into the party?”
+
+The [Rickshaw Puller] frowned. “Do you trust her?”
+
+“To be honest? Hell no.” Leo furrowed his brow. “But, uh, I don’t really trust anyone, and she did help out a lot back there.”
+
+“We could add her to the party,” Allan suggested, “and switch to a closed one.”
+
+When people joined parties, they gained access to the stat sheets and general location of the other party members, and any experience gained was averaged and distributed equally among them.
+
+Furthermore, a party member couldn’t seriously injure another party member without severe repercussions. There was a bit of a grey area, as party members could still spar or even hurt each other on accident or in more minor cases. Strong, active hostility, however, was known to not work.
+
+Leo and Allan were in an open party, meaning they had no leader and both could choose to leave at any time. A closed party had a designated leader, and only the leader could add or remove people. The leader could also cut off the other members’ access to each other’s stat sheets and locations if they wanted to.
+
+If they switched to this system and then added Spade, it would assure them that the [Executioner] couldn’t harm them while they traveled together.
+
+“That’s not a bad idea,” Leo said. He paused. “Uh—”
+
+“You can be party leader,” Allan answered the unspoken question. He had a knowing look in his eyes, and the [Thief] relaxed a little.
+
+“Thanks. We can switch back to an open party after we’ve traveled a little longer,” Leo suggested.
+
+“You sure?”
+
+The [Thief] nodded. “Yeah. I don’t want to be leader that long anyway.” No one should have that much power, in his opinion. There were plenty of stories of abuse happening within closed parties, and even if he had no intention of abusing the system himself, it still made his skin crawl.
+
+[[1] party member has nominated you for party leader. Accept?]
+
+Leo mentally said yes, and a few moments later, a new notification popped up.
+
+[You have switched to a closed party system]
+
+[You are now the leader of your party]
+
+It didn’t feel very different, all things considered, only now he had the option to turn off Allan's ability to view his own location and stat sheet. He kept them on. He’d turn off at least location for Spade, but he’d rather not limit more than he needed to.
+
+The [Thief] peered over at the [Executioner] in question, who looked up and met his gaze with a raised eyebrow. Nodding at Allan, the two moved closer, going back to their original places.
+
+“That was a long conversation,” the [Executioner] noted once they’d sat down again, and Leo scowled.
+
+“There was a lot to discuss.” He frowned. “We decided you can join. For now.” He didn’t need to voice the unspoken threat. For her part, Spade just looked slightly amused and not at all surprised or offended at the blatant mistrust.
+
+Focusing, Leo sent a party invite message to the [Executioner], who promptly accepted.
+
+[Spade has joined your party]
+
+Leo turned off her location access and immediately pulled up her stat sheet.
+
+Name: SpadeAge: 31Level: 22Class: [Executioner, Tier 1]Personal Skill: [Empathy Lvl 3]
+
+Strength: 21Magic: 6Constitution: 22Agility: 17Defense: 20Resistance: 11Mana: 14
+
+Equipped Passive Skills (3/3): [Anatomical Knowledge Lvl 2], [Mental Fortitude Lvl 3], [Blade Proficiency Lvl 2]Active Skills (5/8): [Reckless Wager Lvl 2], [Precision Lvl 2], [Renewal Lvl 1], [Cleave Lvl 2], [Duelist’s Challenge Lvl 2]
+
+Leo carefully scanned the list. Nothing looked too strange about her stats and skills, and she wasn’t too far off from them in terms of level, especially once he and Allan used the crests. That was good, at least.
+
+The [Thief] glanced over at Allan, and the man had a strangely intent look on his face as he presumably also checked the [Executioner]’s stats. Leo shook his head, directing his attention back to Spade.
+
+“Okay, we’re good.”
+
+She nodded, cocking her head. “I assume we’re planning our route next?”
+
+“We’ll get to that,” Leo said. He eyed Allan pointedly and pulled out the bag of crests.
+
+“First, we’re changing class.”
