@@ -1,0 +1,289 @@
+Redmane ate his fill of the flesh of the Sphinx, his eyes closed, absorbed in his meal.
+
+Corpus: 28,826
+
+And when his eyes opened, they were pools of black with points of red light for pupils.
+
+Level Up!
+
+Level 112 —> 113
+
+Level 113 —> 114
+
+Level 114 —> 115
+
+Level 115 —> 116
+
+Quality Points awaiting allocation: 4
+
+Grace 63 —> 65
+
+Fortitude 62 —> 64
+
+—
+
+Monster Skills Learned:
+
+Phantasm
+
+Bloodline Skill (Monstrous)
+
+Rank 1 - Evolution Possible
+
+Sustained - 100 Gnosis per 30 seconds
+
+The Monster captures the minds of creatures around it, bringing them into a false sensory reality.
+
+The targets of this Skill believe the phantasmal images are real; an illusory dagger will cut them, an imaginary garrote can strangle them, a phantom gate will block them. If they fall under the effect of this Skill, illusionary sources of damage truly inflict damage upon the creature. The damage a Monster may inflict in this way is limited to what it could naturally inflict with its own Skills and natural weapons, regardless of what the attack looks like to the affected creature.
+
+This Skill does not function automatically upon creatures of equal or higher level than the Monster. If the targeted creature possesses a Quality such as Willpower, Focus or Cunning, they have a chance to resist being fooled by the illusion. If the concentration of the Monster is broken even momentarily, any creature may see through the illusion regardless of level.
+
+Ray of Petrification
+
+Bloodline Skill (Monstrous)
+
+Rank 1 - Evolution Possible
+
+Active - 30 Gnosis
+
+The Monster's baleful gaze can turn a living creature to stone.
+
+The gaze attack has the following Weapon Profile:
+
+Petrification Ray
+
+30 Gnosis per use
+
+Damage +0
+
+Evasion Negation 20 (Fast 10)
+
+Might Damage (Petrified)
+
+Grace Damage (Petrified)
+
+The Petrified condition transfigures creatures into mindless, inert statues, along with all items in their physical possession. If the statue resulting from this Skill is broken or damaged, the subject (if ever returned to its original state) will have similar damage or deformities.
+
+The Petrified creature is not dead, but is unconscious, and will remain in this state for as long as the condition is upon them, even well after their natural lifespan. Should the condition be removed by a Skill or the application of an alchemical remedy, the Petrified creature will return to consciousness with no awareness of how much time has passed.
+
+Sight Beyond Sight
+
+Bloodline Skill (Monstrous)
+
+Rank 0 - Evolution Possible
+
+Passive
+
+The Monster possesses a third eye upon its brow, which can see beyond the dimensions of the physical world.
+
+(Rank 0) In its nascent state, the Monster has no control over what the third eye sees or when. Sometimes it may pierce illusions, see into different planes of existence, detect a liar, reveal the true form of an object or creature, or even glimpse the past or the future. The Monster may also have prophetic dreams.
+
+—
+
+Redmane re-read the last one.
+
+He touched his forehead. There was a vertical slit there. An eyelid.
+
+When he opened his third eye, the room violently whirled around him.
+
+There was a sense of movement. Travel. Even though he didn’t seem to travel anywhere physical. The carcasses of the Ice Wargs were gone, but he remained in this cavern.
+
+There stood one of the Five Heroes. Redmane remembered him from the vision he had at the Gruu burrow in Morazan Valley. This was Danesti, the one adept with magic, with the ever-peaceful demeanor. He wore robes and a slender thrusting sword belted at his waist, and he was overseeing the construction of the circle which would contain this fragment of Kraal the Devourer’s essence.
+
+For days and nights they prepared, tirelessly, their stamina enhanced by some old working of magic. This was a time before Numantia, before Skills.
+
+When it was done, the man smiled and produced a small but securely locked chest.
+
+He drew a long, slender dagger from a sheath at his waist. Still smiling.
+
+The man stabbed his own eye socket, and when he pulled the weapon out, his skewered eyeball came with it.
+
+Then he opened the chest, and the mote of searing crimson power contained within it flared to life. It leapt onto the severed eyeball as if it were famished, ravenous for flesh to consume, and the caster threw the conjoined mass into the circle. It flared again, brightly, angrily. But it could no longer escape the circle.
+
+Until now.
+
+He was back in the present. Gale and his pack mate lay motionless on the floor. The other Warg was a stone statue. Perhaps the Sphinx was using her Phantasm as cover for real rays of petrification.
+
+And in the center of the circle, a pulsing, glowing ball of power flared as if beckoning to him.
+
+Redmane rose from his crouch and approached it.
+
+The protective force field surrounding it was no longer there. His touch was unimpeded.
+
+It seemed to compel him to get closer, and the closer he got, the more he felt like the rhythm of its pulse mirrored the beating of his heart. As before, the moment his finger touched it, fire engulfed his soul.
+
+Again he sensed his incompleteness. That he was but a portion of a vast power, cleaved from itself and confined, yearning to come together as one again. The fire was its fury.
+
+Redmane grasped the power before him, allowing it to surge into his being, and in that moment a tiny lock disintegrated within a molten furnace.
+
+Then the flames enveloped him entirely.
+
+It was a profound, transformative pain.
+
+—
+
+Might +20
+
+Grace +20
+
+Fortitude +20
+
+Armor +10
+
+Evasion +10
+
+Skill Evolved:
+
+Devourer
+
+Bloodline Skill (Monstrous)
+
+Rank 2 - Evolution Possible
+
+Passive
+
+Rank 0:
+
+The Monster derives sustenance from anything, and its digestion produces no waste. Its teeth and jaws can chew through most substances with sustained effort.
+
+The Monster's consumption of flesh restores its Corpus, and consumption of magic restores its Gnosis. All caps for Corpus and Gnosis, regardless of source, are removed.
+
+The consumption of refined metals will permanently increase the Monster's Armor and the damage of its physical natural weapons, such as claws, bite, horns, talons or spines. Damage and Armor gains are proportionate to the quantity and purity of metals consumed.
+
+When the Monster consumes the flesh of a creature possessing a Skill, it will adopt that Skill as its own at Rank 1. If the creature possesses multiple Skills, the Monster will acquire that creature's highest Ranked Skill. If the creature possesses more than one Skill tied for highest Rank, the Monster acquires them all.
+
+Skills obtained in this way increase in Rank by whatever process the Monster gains in power, if any.
+
+When the Monster consumes weapons and armor with special qualities, it may allocate those qualities to its physical natural weapons, such as claws, bite, horns, talons or spines, if it possesses any. Armor qualities may be allocated as long as the Monster possesses a natural Armor bonus. If the Damage and Armor Penetration values of a consumed weapon are higher than that of the Monster’s natural weapons, the natural weapons will gain the difference between the two as a permanent bonus.
+
+The Monster may also consume Talismans and Vestments, thereby inheriting whatever bonuses or special qualities they conferred while worn.
+
+Rank 1:
+
+The Monster consumes the souls of sapient beings it has eaten.
+
+The souls of consumed beings take residence in the Monster’s Soulspace, and may speak to and hear one another and the Monster as if all were physically present. If the Monster no longer wishes to speak or listen to souls occupying its Soulspace, it can block communication from them at any time.
+
+If the Monster possesses a Skill capable of creating a minion, it may imbue the minion with the soul of a being previously consumed by Devourer. The soul retains the ability to use all its Skills, provided the form it occupies possesses sufficient Gnosis to use them. If the minion in question is slain or dismissed by the Monster, the soul returns immediately to the Monster’s Soulspace.
+
+At any time, the Monster may destroy the soul of a being it has consumed, granting it a sum of Gnosis proportionate to the strength of the soul in question.
+
+Rank 2:
+
+The Monster's mouth becomes a vortex of indiscriminate consumption.
+
+This ability functions as the opposite of a breath weapon. A conical area centered on the Monster’s mouth functions as a vortex, drawing in any objects within its range. Upon ingestion, these objects will bestow upon the Monster any benefits they would confer if they were eaten normally. The Monster’s Soulspace serves as a repository for consumed souls per the norm, although the vortex has no effect on incorporeal creatures.
+
+The vortex has an effective Might score equal to the Monster's, for the purpose of determining its ability to pull heavy objects in. The size of the cone will increase as Rank increases.
+
+—
+
+His feet touched the ground, and Redmane realized he’d been floating in the air, physically drawn to the source of his severed essence.
+
+He felt the new power in his form. The sharpness of his senses. He closed his eyes and took a deep breath, grounding himself in the present, air flowing into his lungs, into muscles freshly charged with strength.
+
+A sense of greater self-awareness came with the power, clearing some of the fog from his mind.
+
+Redmane was something new.
+
+The supreme soul of this world, its champion, the endpoint of all it had been through.
+
+And the timing of his emergence was no accident.
+
+His world was under threat. Forces from without threatened its very existence. He did not understand why their own God, the System, would set him into motion. Surely it knew what he would do, which side he would take.
+
+But perhaps its game was as yet unclear to him.
+
+Redmane had to learn more.
+
+A stirring distracted him. He glanced down, saw Gale struggling to lift his head.
+
+You’re alive.
+
+Redmane nodded.
+
+You look different.
+
+Indeed. I’ve done what I came to do. Your pack can use this space now. It’s safe.
+
+The Ice Warg Alpha put his head back down and closed his eyes as if he were merely taking a nap.
+
+Our lives were well spent then.
+
+Do you wish to live on?
+
+Gale opened an eye, canted his head curiously.
+
+Serve me. There is an evil force in this land. It comes to consume all in its path, leaving nothing behind. It will arrive here, and when it does, it will destroy your pack along with everything else.
+
+Gale stared at Redmane, looking weary. Wearing an expression that asked, ‘Haven’t I done enough?’
+
+Redmane fixed him with a steady stare. Eventually Gale put his head back down on the ground, with a huff.
+
+Very well. I am old, but I can still fight.
+
+Redmane held out his hand, and a mouth sprouted upon its palm.
+
+It inhaled deeply, and a whirling vortex began to form in the air. Gale opened his eyes again, confused and a bit alarmed, the wind first pulling at his hair and then dragging him bodily across the ground.
+
+Then, abruptly, the body of the Ice Warg Alpha shot into the vortex.
+
+That was interesting, he said, from Soulspace.
+
+Gale, Ice Warg Alpha, Slain
+
+Tasks Completed: 2/2
+
+Zone Tasks Completed
+
+Zone: The Fangs of Frost has been cleared
+
+Level 116 —> Level 117
+
+Level 117 —> Level 118
+
+Quality Points awaiting allocation: 2
+
+The Fangs of Frost will be integrated into the domain of House Redmane
+
+Might 85 —> 86
+
+Fortitude 84 —> 85
+
+It was time to call a gathering.
+
+He had to explain this to them all.
+
+For the Imbued, it would be a difficult thing to accept.
+
+And he didn’t have evidence to present them. The old crone was gone, and he had no means of calling to her.
+
+But he had to convince them of the reality of the situation…
+
+Lar Tathvaal awoke to a thunderous explosion.
+
+His eyes snapped open and he flew out of bed, ran to his bedroom window and swept aside the drapes.
+
+The Dicentis did so just in time to see Drusilla’s Lance blast a hole through the top of the Governess’s tower.
+
+And the only Magister here whose Skills hit that hard was the Governess herself.
+
+Which meant…
+
+“Mmh… What’s going on…”
+
+It was one of the courtesans lying in his bed. She stirred, opened her eyes a sliver and reached for him.
+
+“Go back to sleep, it’s nothing,” he said, though his tone wasn’t as convincing as he’d have liked.
+
+She mumbled something and lay her head on the ample chest of the girl lying beside her.
+
+Lar stared out at the aerial battle taking place above the city. Transfixed by it.
+
+Jarel Craith had gone and done the most foolish thing he’d ever done in his life.
+
+Unless he’d found some way to even the playing field.
+
+If that were the case, he should leave Taracon.
+
+Now.

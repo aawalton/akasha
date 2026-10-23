@@ -1,0 +1,199 @@
+As with Vang, Redmane made the process quick and painless.
+
+Warlock Dobrogost Slain
+
+Tasks Complete: 3/3
+
+Level Up
+
+Level 86 —> Level 87
+
+Level 87 —> Level 88
+
+Level 88 —> Level 89
+
+Zone Tasks Completed
+
+Cleared Zone: Skalla Mountains
+
+Level Up
+
+Level 89 —> Level 90
+
+Level 90 —> Level 91
+
+Quality Points awaiting allocation: 5
+
+Skalla Mountains will be integrated into the domain of House Redmane
+
+When it was done Redmane Spawned Dobrogost anew, in a body resembling the original but younger, and quite a bit redder. While the Warlock examined his new form, Redmane considered where to allocate his points this time. With Might at 60 it was time to go elsewhere again, so as not to end up with anything lacking.
+
+Grace 50 —> 55
+
+“How do you feel?” asked Redmane.
+
+Dobrogost laughed. “There are a few ways to prolong one’s life. They all carry costs, and the costs are ugly. Considering all that, I think myself fortunate.”
+
+“Fair enough.”
+
+Redmane walked out of the cottage and took wing, to briefly return to Rollo’s Pass and let Flora know it was safe. He found the town considerably greener than he’d left it. Tomorrow there would be more Floras blooming to continue their work here, so he took the one he had and brought her back to the Warlock’s cottage with him.
+
+For a conference.
+
+When he touched down with Flora in his arms, Dobrogost stared at the two of them reverently.
+
+“Well… I never thought I’d see the two of you together with my own eyes. I am blessed.”
+
+She smiled at his words, took the hem of her kitchen maid’s dress and curtsied.
+
+“It is a pleasure to meet thee, good sir. Ye have all sworn allegiance to my lord, I take it?”
+
+She addressed not only Dobrogost but Vang and his cohorts, who stood in the clearing with them.
+
+Vang gave her a grunt and a nod. “Yar. Redmane’s the strongest.”
+
+Dobrogost smiled wryly. “Can you tell by my complexion?”
+
+Flora laughed and nodded. “I can indeed!”
+
+Redmane had Flora relay the message to Valtr, Vengarl, Radovid, Irina and Vella in the west, and to the Kraal cultists in Barograd, Berek and Waldemar.
+
+“Helmold Brecht has defected from our Faction, and taken Aric Morholt with him. The group is led by Aerin Morholt, Aric’s relative, an Imbued Warrior. They plan to try and take Castle Redmane back, and they seek a powerful weapon they think will give them a chance.
+
+“But we’re watching them, even now.
+
+“When the time is right, we’ll make our move against them.”
+
+Flora went silent for a moment, staring absently at the clouds. Then she smiled and looked at Redmane. “The message is conveyed, my lord. All parties await thy command. Valtr and Vengarl seem especially enthusiastic.”
+
+Redmane smirked and nodded. “Good. We carry on then, to the fishing village. Come with me if you seek a fight.
+
+Vang and his lackeys rose, cracking their necks and knuckles, grins on their faces.
+
+“Thanks all the same,” said Dobrogost. “But I’m no fighter. I can be of assistance in matters of the arcane, however. I’m also adept in herbalism and alchemy.”
+
+Flora perked up. “Herbalism, you say?”
+
+The two of them began chatting animatedly, throwing jargon back and forth that Redmane did not understand. When Flora began spawning plants all over the barren clearing, bringing the ground to life, the Warlock looked as though he’d died and gone to heaven. He began to make specific requests, which Flora granted with a cheery smile. Dobrogost stared, childlike wonder on his face. It looked like he was in danger of fainting. The ability to create plant life from nothing was evidently remarkable, even for an aged magic user like himself.
+
+Redmane, Vang, Zorn, Nuk and Throk stared at this blankly.
+
+He looked at the others. “Let’s go hunt.”
+
+They all grunted and nodded together, and set out as a group.
+
+Once they were back on the mountain road connecting Rollo’s Pass to the northern shore, the fishing village came into view, much closer this time. The hamlet spread along the coast, cottages huddled around the cove where fishing boats found shelter from the relentless sea. Beyond the safety of the cove, the sea met the shore with force, waves breaking against the rocks, spraying white foam up into the air.
+
+At the edge of the village, where the beach turned to jagged cliffs, piles of corpses lay under the watch of fish-men shuffling between the heaps, their movements devoid of higher thought, like scavenging beasts. They tossed limbs and sorted through remains, some hunching over to feast on the dead.
+
+You have entered Zone: Kenvik Fishing Village
+
+Tasks:
+
+Slay The Longshoreman
+
+Slay Old Gredder
+
+Slay Freydis of the Deep
+
+Tasks Completed: 0/3
+
+“You four enter the town by this road,” said Redmane. “Cull the weak, call out to me if you find one of the strong ones. I’ll search from above.”
+
+Vang gave a small nod, hefted his club. “You heard the Chief. Let’s clobber up some fish chowder.”
+
+They descended the road, and Redmane took wing.
+
+Carnivorous Metamorph
+
+Corpus: 3900
+
+From above, Kenvik was a dense cluster of homes and businesses built of dark wood, the buildings crowded in around narrow winding streets. Anything without a thorough coat of paint resembled driftwood, battered by the relentless wind and spray of salt water. Redmane floated just above the rooftops, then dismissed his wings and landed on one when he realized he was better off this way.
+
+There would be no places to swoop down like a bird of prey here.
+
+The air reeked of brine and blood. Below him, on the streets, hulking fish-men wandered alone or in small packs. They had mouths full of jagged teeth, glossy black spheres for eyes, webbed hands and feet, and great fins which began on their foreheads and stretched all the way down their backs. The stench of raw meat on their breath told Redmane what had happened to those who hadn’t turned. A familiar story.
+
+Gill-Man
+
+Monster Type: Mongrel
+
+Level 98
+
+They were formidable. But for Redmane, they would be a warm up.
+
+[Mongrel] Marked as Prey
+
+Redmane made his way toward the cove, hopping from rooftop to rooftop. They were easy jumps. Often he merely had to step across the gap. He was making his way toward the wharf, which extended from the village into the cove. Docks branched off from it to the right and left where rows of boats were moored, fishing nets piled nearby, everything prepared for the next day’s work.
+
+There wouldn’t be a next day’s work, but Redmane doubted the Gill-Men had the capacity to care.
+
+He spied a pack of three shuffling down the street below the rooftop he stood upon. One of them stopped, sniffed the air, perhaps sensing his presence above them.
+
+So he dropped in.
+
+His claw struck a Gill-Man right on the eye, with a three story drop to add force to the blow. Half its face disintegrated in a spray of blood, which made the ensuing flurry of claws even faster, thanks to Bloodlust. The disoriented Gill-Men flailed and squawked, their defenses incoherent, arcs of crimson flying as he clawed them apart faster and faster. Like them, Redmane surrendered to instinct, let the primal satisfaction of slaughter fill his chest. Unrestrained by thought, he called upon the fury of the Beast Within, and it answered with glee.
+
+More than a little blood splashed into the dark waters of the cove itself.
+
+The scent of it sent two more packs of Gill-Men running at him from either end of the dockside street, moving with a lumbering urgency, limbs thrashing, agitated gurgling noises filling the air. Redmane’s claws met scaly flesh with each strike, scattering chunks of them around the street and into the water like chum.
+
+A few bubbles broke the surface of the water. Big ones.
+
+Redmane moved among the Gill-Men like a storm. Each strike was a release, a moment of feral joy. The clash of bodies, the splash of blood, and the cries of the fallen filled the space around him. It was music to his ears. A symphony that pushed him to further heights of ferocity. As he tore through the ranks of Gill-Men, the satisfaction of the hunt surged within him, the air thickening with the coppery tang of blood, Bloodlust making him faster, and faster, and faster.
+
+A tentacle emerged from the water, then another. Each was the width of a man’s waist, black on one side, light on the underside, where there were rows of powerful suckers.
+
+Redmane grew drunk on the exalted sensation of speed. Agitated Gill-Men ran at him from many streets now, converging on the blood-slicked intersection of his claws and the shredded remains of their kin. The rhythm of combat consumed him. The thrill of the hunt pulsed through his veins. He was unstoppable, a force of nature, a God ascendant.
+
+All would kneel. Or they would join the corpse pile.
+
+An overhand claw struck a Gill-Man in half from shoulder to hip. The two pieces fell to the ground and for a moment there were no more. Redmane stood at the center of a ring of gore, breathing heavily, heart thundering in his chest.
+
+Then a wave of ice cold sea water struck him full on.
+
+Redmane looked out over the cove, his eyes widening.
+
+A massive form surged upward from beneath the dark water. Tentacles as thick as tree trunks erupted from the sea, crashing onto the wharf and smashing boats into splinters. The docks groaned and splintered, planks snapping and flying into the air. More tentacles emerged, slamming down with the force of battering rams, obliterating everything in their path.
+
+The creature heaved itself partially above the water, revealing a colossal, mottled head and two bulbous golden eyes, each the size of a fishing boat. It thrashed violently, sending waves crashing onto the shore and drenching the streets as it pulled its way toward the spot where Redmane stood, drawn by the scent of fresh blood.
+
+Freydis of the Deep
+
+Beast
+
+Level 125
+
+Redmane stared up at the thing in shock.
+
+The shadow of an immense tentacle fell over him.
+
+He dove to the side in time to avoid being crushed, as it slammed down onto the street, cracking the cobblestones. Another swept at him and he dipped beneath it, wheeled around and cleaved through a third with a swipe of his claw. But there were more, and more. Those giant eyes fixed on him as tentacles emerged from the deep to slap him out of the air, slam down from above, wrap around his limbs to constrict him or pull him apart.
+
+Redmane didn’t plan to discover which.
+
+He considered it fortunate that its flesh wasn’t especially tough. His claws severed tentacles cleanly. Even the ones too thick to cut all the way through were rendered useless. But there were so many. Too many. And no matter where he went he ran into them with greater speed.
+
+His wings. He could take flight and—
+
+A tentacle struck his head like a whip, destroying his train of thought.
+
+Another one, as thick around as an ancient oak, trapped his arms against his body and squeezed.
+
+Redmane felt the breath leave his lungs. He growled and struggled but Freydis was mighty indeed. Her tentacle constricted tight, lifted him into the air and brought him closer, over the surface of the churning waters in which broken bits of of the wharf and fishing boats now floated. She brought him right up to one of those immense eyeballs, for close examination.
+
+Redmane growled up at her.
+
+Flame Breath
+
+Gnosis: 756
+
+It flinched away, its shriek muffled by the water but causing an upwelling of huge bubbles nonetheless. Redmane hoped its grip would slacken, but it was the opposite. She squeezed harder, and he gritted his teeth as he felt his ribs crack under the force.
+
+Corpus: 2604
+
+He saw stars when his head smacked into the water’s surface at speed.
+
+Then there was darkness.
+
+The last thing he saw clearly was a beak-like mouth about to devour him whole.
