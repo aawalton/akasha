@@ -56,11 +56,15 @@ export const emailAddressIsWellFormed = {
     },
     {
       decisionKind: "decision-kind/absence",
+      statement: "An audit reads no page of a type declaring no address.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
       statement: "Whether the domain an address stands at is reachable is not judged here.",
     },
   ],
   check: { maxCpuSeconds: 10 },
   audit: { maxCpuSeconds: 15 },
   createdAt: "2026-08-31T18:05:48.509Z",
-  updatedAt: "2026-09-15T17:36:15.000Z",
+  updatedAt: "2026-10-23T03:17:46.556Z",
 } as const satisfies CheckCode

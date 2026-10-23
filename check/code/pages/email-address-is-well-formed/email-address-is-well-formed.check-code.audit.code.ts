@@ -11,6 +11,7 @@ export function emailAddressIsWellFormed(root: string): readonly Judged[] {
   const keying = keyingIn(commit.index.kindsUnder(ADDRESS), commit)
   const said: Judged[] = []
   for (const pageTypeSlug of commit.index.pageTypesIn()) {
+    if (keying(pageTypeSlug).length === 0) continue
     for (const [path, value] of commit.index.valuesByPath(pageTypeSlug)) {
       said.push(...reasonsIn(path, value, keying))
     }
