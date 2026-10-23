@@ -1,0 +1,117 @@
+Archie saw Syllia leave her washroom, her previous tear-stricken face gone, and back to how she looked before Bralmir’s presence filled the smithy.
+
+“So, what can I do for you? I’m not sure my smithy or my skills can be of any use to someone blessed by the Forgefather.” Syllia’s voice was meek, a stark contrast to her earlier demeanor. Her eyes were firmly fixed on the floor.
+
+“Can you, uh, go back to how you were before? I kinda get how Bralmir might be a big deal to you, but I’d prefer it if you could go back to how you acted before.” Syllia flinched as Archie casually mentioned the Forgefather’s name heedlessly.
+
+“H-How can you speak of the Forgefather’s name casually? You have been blessed by the Forgefather, a being of great power and the one who forged the Path of Smithing, but you do not show reverence.” Syllia meekly questioned, eyes still trained to the floor.
+
+Archie scratched the back of his neck and said, “Listen, I get that Bralmir is a big deal in the multiverse, but he’s just a friend in my eyes. Just a month ago, I found out people worshiped a spaghetti god, so nothing can really faze me. Please just try to go back to how you were before, think of me just as another student.”
+
+Syllia’s eyes left the ground, and she looked at Archie’s masked face, her expression still uncomfortable. “I shall try my best. But I don’t believe I have the skills to teach the one blessed by the Forgefather.”
+
+“You do, I just got this Class a few days ago, and I’ve never forged anything in my life. I got this evolution because it was better than my other evolutions from being a Shaman.” Archie said, trying to remove any potential confusion about his ‘skills’ in smithing.
+
+Syllia opened her mouth but then closed it before nodding. She had given up asking for any more of an explanation; the answers Archie gave would only leave her even more confused.
+
+“How about you give me some tips about how to forge? I would love to learn from you.” Archie asked, trying to prevent another awkward moment from happening, and walked towards the smithy station to his right.
+
+Syllia walked behind him and quietly explained each part of the smithy, beginning with the anvils. “There are two main anvils within a smithy. The larger one is typically used for heavy work, shaping large plates and hammering weapons. The smaller one is typically used for more finer tasks, forging delicate pieces or resetting rivets.” Both anvils looked normal to him, and Identifying them revealed nothing different.
+
+Heavy-Duty Anvil (Common):This anvil was crafted from a chunk of iron by a D-Grade smith and is ideal for heavy-duty metalwork. Its broad surface is ideal for shaping larger metal pieces. Given to novice smiths, durable enough to handle any misuse of strength. Effects: Soul-Bound & Enhanced Durability. Requirements: Lv 25+ & Humanoid Race.
+
+Precision Anvil (Common):This anvil was crafted from a chunk of iron by a D-Grade smith and is ideal for precise metalwork. Its thin surface is ideal for intricate and detailed adjustments. Given to novice smiths, durable enough to handle any misuse of strength. Effects: Soul-Bound & Enhanced Durability. Requirements: Lv 25+ & Humanoid Race.
+
+Syllia moved on to the next part of the smithy, the tools. “The hammers and tongs will be your main tools as a smith. Similar to the anvils, we have two different hammers, one for heavy-duty work and the other for delicate work. The tongs that you will use are of similar disposition, one for handling large pieces and the other for delicate ones.”
+
+Heavy-Duty Hammer (Common):This robust hammer is forged from steel and built to endure. Its broad face is ideal for shaping large metal bars or thick steel sheets. Given to novice smiths, durable enough to handle any misuse of strength. Effects: Soul-Bound & Enhanced Durability. Requirements: Lv 25+ & Humanoid Race.
+
+Precision Hammer (Common):This thin two-sided hammer is forged from steel and built for delicate work. A flat face for precise strikes, and a sharp slanted peen, for adding texture or shaping intricate details. Given to novice smiths, durable enough to handle any misuse of strength. Effects: Soul-Bound & Enhanced Durability. Requirements: Lv 25+ & Humanoid Race.
+
+Heavy-Duty Tongs (Common):These tongs are forged from steel and are meant to take a sustained heat from the forge. The jaws are wide enough to hold metal and have serrated edges on the inside to keep a grip during hard work. Given to novice smiths, durable enough to handle any misuse when handling metal. Effects: Soul-Bound & Enhanced Heat Resistance. Requirements Lv 25+ & Humanoid Race.
+
+Precision Tongs (Common):These tongs are forged from steel and are meant to take sustained heat from the forge. The jaws are thin and slightly curved, allowing them to apply a degree of control for smaller pieces with precision. Given to novice smiths, durable enough to handle any misuse when handling metal. Effects: Soul-Bound & Enhanced Heat Resistance. Requirements Lv 25+ & Humanoid Race.
+
+Looking at Archie’s gauntlets, “Your gauntlets should be fine for you to use for forging, but I recommend that you find or buy better ones after you get used to forging.” Syllia’s voice returned to normal, her previously meek voice having vanished during her explanation.
+
+Pointing at the forge, Syllia explained its use, “The forge is the heart of the smithy. We place metal inside and heat it until it’s soft enough to shape. As a smith, you use coal or charcoal for the fuel.”
+
+Forge (Common):A forge crafted from iron and brick. Sufficiently large enough to hold a steady flame, with air vents to funnel out the smoke. Though simple, it provides relatively constant heat for forging tools and weapons. Effects: Soul-Bound & Resistance to Environmental Wear. Requirements: Lv 25+ & Humanoid Race.
+
+“Would it be possible to use Forgesmith’s Flame instead of charcoal? Or would that still require wood as a starter?” Archie asked, remembering the new skill he had gained when he changed his profession.
+
+Syllia nodded. “If you have the Forgesmith’s Flame, that should be all you need to start a forge; there is no need for wood or coal.”
+
+“Okay, nice. What about rune scribing?” Archie asked
+
+“The table on the left will be where you do your rune scribing. Typically done with a rune scriber, but depending on your Race and Profession, runes can be etched in a multitude of ways.” Syllia explained while pointing at a thin metal pen.
+
+Runic Scriber (Common):A metallic pen forged by Syllia Glynvyre, a D-Grade Expert Runesmith. A reliable tool, built for precision when scribing runes atop metal. It is currently empty. Effects: Soul-Bound & Runic Etching. Requirements: Lv 50+ & Humanoid Race.
+
+“When using the scriber, you must fill it with  your mana, or another equivalent medium. Then you etch a rune and/or a runic script of your choice atop the metal.” Syllia explained.
+
+“Where can I learn runic scripts? Are there any books?” Archie questioned.
+
+"There is a manual covering the basics given to all smiths, but it contains just as much as you've learned from your Profession's evolution... And advanced runic scripts aren’t freely shared," Syllia replied, her voice softening toward the end. "All smiths guard them jealously—there have been many cases of spies and even fellow smiths stealing their work for themselves. Because of this, most smiths require their students to sign system-mandated contracts or even geasa, enforcing silence and forbidding them from using the runes against their masters. Most geasa are malicious, even more so than contracts."
+
+“Probably for the best. I was talking with... the Forgefather about crafting manuals,” Archie said, adding his thoughts to the conversation. “He told me not to rely on them since they could hinder my Journey if used often. I’m guessing the same applies to rune scripts learned from manuals?”
+
+Syllia flinched when Archie mentioned the Forgefather, but nodded, nonetheless. “That is correct. To break things down, runes function as magical pathways – when formed together, they form a script providing certain effects.” Syllia noticed the confused look on Archie’s face and said, “From what I was told by someone from this Group Tutorial, it is similar to the basics of circuits.”
+
+“Ah,” Archie muttered. “...Tell me if I’m wrong, but are rune scripts made up of multiple circuits combined harmoniously? Circuits consist of sources and loads—resistors, transistors, diodes, capacitors, and so on—and together, if I’m correct, they make up a rune.” Syllia took in what Archie said and nodded, “Yes…The other human said something similar and was successful when he created his first runic tool.”
+
+“Nice,” Archie smiled, grasping what Syllia had explained about runes. “Thank god I took that electronics course.”
+
+“Back to why they’re not recommended: reading manuals is similar to looking at an answer sheet. You’re being hand-fed answers, and while you can gain levels, eventually you’ll hit a wall and reach the end of your Path prematurely,” Syllia continued, emphasizing the importance of not relying on manuals.
+
+“Using that logic, if I analyze another person’s runic script and understand how everything works, wouldn’t that be fine?” Archie questioned.
+
+“Yes, so long as you fully comprehend the runic script, then it should be fine,” Syllia confirmed, pleased that Archie grasped the bare-bones basic concept of runes.
+
+Syllia grabbed a bar of metal and looked at Archie, “Would you like to see how a smith forges?”
+
+“Go ahead. The system just gave me generic info about how to handle a forge, but nothing more than the basics.” Archie answered, stepping a bit to the side to observe how Syllia would handle a forge.
+
+Syllia snapped her fingers, setting the forge in front of her alight. She placed the metal bar between the heavy-duty tongs and inserted it into the forge, allowing it to heat up until it became malleable.
+
+After a few minutes, Syllia pulled out the red-hot metal bar and placed it atop the heavy-duty anvil. Grabbing the heavy-duty hammer, she began to strike the now malleable metal. Each blow of the hammer produced a clear, loud clang that reverberated throughout the building.
+
+Five minutes later, the metal bar transformed into a red, dull broadsword blade, not unlike the dull blade Archie held in his storage ring.
+
+Syllia then placed the hot blade into a long tub of oil that was next to the etching table, letting it quench until it reached room temperature. Holding the dull blade upright, “The next step is to etch a rune across the blade, until you master etching a singular rune, don’t etch a runic script unless you are sure of it not exploding in your face.”
+
+Syllia then walked toward the etching table and picked up the rune scriber. The gray metal runic scribe began to glow from the tip of the pen, the light traveling upward until it filled the entire length, as if it were filled with blue water. Is that liquid mana? Archie wondered, not wanting to distract Syllia from her etching.
+
+Archie observed as Syllia etched a rune onto the flat of the blade; the rune looked like a sharp, diamond-shaped symbol with angular lines that formed a narrow, intricate structure. As she completed the etching, the rune glowed a vibrant electric blue, before dimming out.
+
+That rune looks familiar… Archie thought, trying to remember where he had seen it before.
+
+Snapping his fingers, he suddenly recalled where he had seen it before. That rune contains the base of air. The knowledge of basic elemental bases had been forcibly crammed into his brain when he acquired the Basic Rune Scribing skill, and although he hadn't recalled them before, this moment triggered a flood of memories.
+
+Archie continued examining the rune, noting the circles at the ends of certain lines—some hollow, others filled, and even a few full-stops in the middle of a path. He realized that the pathways resembled copper tracings on a motherboard, each line converging around the air base. This is going to need a lot of experimentation for me to even get started, Archie smiled.
+
+“Now, all that’s left is to sharpen the blade with a whetstone, be careful you don’t damage the rune,” Syllia said.
+
+Syllia produced a whetstone with a flick of her wrist and started to sharpen the broad sword. After Syllia sharpened the blade, Archie Identified it.
+
+Iron Blade (Uncommon):An iron blade forged by Syllia Glynvyre, a D-Grade Expert Runesmith. Etched upon the side of the blade lies a Lesser Sharpness rune scribed by Syllia Glynvyre. Effect: Lesser Sharpness. Status: Perfect.
+
+“Now the blade is complete. You can add a cross guard if you want and wrap some leather to form a grip and for the system to identify it as a broadsword.” Syllia said as she looked at the new blade, a memory played in her mind.
+
+“When I first started to sell my wares, there was a guy who once yelled at me, saying how my runes did not work. I was so confused at first, but as he was yelling at me, I realized he did not know how to activate a rune. Once I asked him if he channeled mana through the rune, he stopped yelling and ran out of my smithy completely red.” Syllia chuckled.
+
+Archie was chuckling at the story Syllia said, but a moment of realization occurred. He was the same as that guy who yelled at Syllia, he didn’t know that was how you activated a rune. Every time the Less Ice Reinforcement his gauntlets provided worked was when he covered them with both his mana and stamina.
+
+Syllia noticed the sudden halt in Archie’s laughter and realized he hadn’t even recognized that was the way to activate runes. She covered her face with her hands and began to chuckle softly, her body began to shake.
+
+“Yeah, Yeah. I know I’m dumb.” Archie sighed, causing Syllia to laugh even louder. At least she’s not terrified anymore.
+
+After a few minutes of uncontrollable laughter, Syllia wiped the tears from her eyes and said, “I’m sorry. I haven’t laughed like this in a long time, and it all just came out.”
+
+“At the expense of my pride, I’m glad I made you smile.” Archie smiled.
+
+“As a thank you, your goal is to make a sword similar to mine, rune and all.” Syllia smiled, “If you do well enough, I’ll give you a reward.”
+
+“Where do I begin?” Archie clapped his hands, eager to start forging.
+
+“I have a set of tools, anvils, and a forge in the back for you to bind,” Syllia said as she headed towards a door in the back of the building. “Follow me.”

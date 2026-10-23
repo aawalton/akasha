@@ -1,0 +1,143 @@
+Archie grabbed a bar of steel and iron and realized that he had never identified them despite having a skill called Material Insight, which should grant him knowledge about materials upon using Identify on them.
+
+Steel Ingot:A block of refined steel, known for its moderate tensile strength and versatility. This ingot can be melted at 300 UST and reshaped repeatedly without significant loss of purity. It also serves as a moderate conductor for mana, making it suitable for various applications in forging, runic crafts, and various other crafts.
+
+Iron Ingot:A solid ingot of purified iron, known for its balance between malleability and strength. This ingot can be melted at 150 UST and forged into various shapes, though it is prone to cracking if reforged more than thrice. It serves as a moderate conductor for mana, making it suitable for various applications in forging, runic crafts, and various other crafts.
+
+Archie nodded at the information; steel would be good for the frame of the bike, however, he would need to find something better for the engine, as it would need to run on his mana as fuel.
+
+I’ll try working with steel this time, as its moderate tensile strength would be great for armor. Archie thought while placing the iron ingot back in its crate.
+
+Archie placed the steel ingot in between the jaws of the heavy-duty tongs and set his forge ablaze using Forgemaster’s Flame.
+
+After a few minutes of watching the steel ingot’s grey color turn red-hot, Archie took out the ingot and placed it atop the heavy-duty anvil. Setting aside the heavy-duty tongs and grabbing his heavy-duty hammer, Archie started to flatten the ingot.
+
+Once the ingot was flattened with a thickness of ¾ inches on all sides, he used his precision tongs and placed the steel plate onto the precision anvil. Archie used the narrow edge of the anvil as a ledge to bend the plate. He also made four small holes at the ends of the plate, allowing for leather to attach the armor to his arm.
+
+After looking at the now cylindrical plate, he realized that he had no way of checking to see if it would fit his forearm. Archie did not have a cast of his forearm made. A frustrated string of curses escaped him as he kicked the sand beneath his feet.
+
+However, as the sand flew in the air, an idea popped into his mind. Kneeling, Archie pressed his right arm firmly into the sand, lifting it to reveal an intact mold. He found his mold.
+
+Archie placed the cylindrical plate in the mold, specifically where his forearm would be, and noticed that he needed to widen it a bit.
+
+Placing the steel cylindrical plate into the forge once more and taking it out once it looked malleable. Archie then placed it atop the precision anvil once more and started to widen it slightly by using the precision hammer very lightly so as to not cause any cracking.
+
+Satisfied once it widened, Archie walked to the edge of the seawater and plunged the steel into it. Steam billowed up as the cold seawater clashed with the heated metal, solidifying the shape and strength of the forearm bit.
+
+Placing the forearm bit onto the table, he now started to work on the coater bit.
+
+Archie took out a flattened steel plate and placed it atop the precision anvil. This piece would become the front half of the couter, thus it needed to be flexible, yet tough.
+
+Archie started to lightly hammer one end of the couter-half, making it rounded to protect his elbow. Afterward, he started to shape heart heart-shaped end that would protect his inner elbow; he needed to slowly bend the heart tip outwards to allow for movement, but not cause any cracking.
+
+Satisfied at the sight of the half-couter he plunged it into the sea beside him. After the steam vanished, he looked at the couter and frowned.
+
+He noticed that small fractures had formed on the rounded bit of the couter. Archie tossed the ruined couter-half into his spatial ring. ‘I’ll smelt it back down once I gain a crucible and a cast for ingots.’ He thought as he grabbed another steel ingot.
+
+Archie stared at the now completed sleeves, he soldered the plates together ensuring that they wouldn’t fall apart after a hit or two. And he made sure that the couter allowed for full movement of his elbow.
+
+All that was left was to attach the leather straps and etch the runes atop the armor.
+
+Taking out the leather straps he got from Bill, Archie placed them through the various small openings he made on each part of the sleeve bits.
+
+Identifying the sleeve reminded him that he had yet to consider the sleeve as completed.
+
+Steel Sleeve (Common):A steel sleeve forged by Archie Gracefield, a Novice Forgesmith. The sleeve itself is comprised of three separate steel pieces fused together: pauldrons, couters, and forearm guards. This sleeve was made to perfectly fit Archie Gracefield. Status: Perfect.
+
+“I need to add runes to them. But which?” Archie muttered while pacing around. “I need to add a Soul-Bound rune and Self-Repair rune. Those two are a given, however, I want to try and make a new rune.”
+
+“It would need to be centered around an Earth runic base…I can combine a power amplifier circuit and connect it to the Earth runic base, with an emphasis on its protective aspects. Thus, creating a defensive rune!” Archie exclaimed while sending away the crate of ingots and placing the crate of metal slates in its place.
+
+Archie then took off his chest plate and placed it atop the table. Looking on the inside of the chest plate he found the runes he was looking for; the Self-Repair rune as well as the Soul-Bound rune.
+
+Both runes were the size of three inches in diameter and many magical pathways connected to their runic base. Looking at the runic bases, he noticed that they weren’t the basic elemental runic bases, but other than that he couldn’t tell what they were.
+
+Unsure which was which, he started to slowly copy the rune on the right. Said rune had a runic base that looked like a crossbreed of the letters Y, Z, and G all combined into one with various magical pathways sprouting from it. The circuit surrounding it looked… familiar.
+
+“Is that a feedback loop?” Archie said while looking at a specific part of the runic pathway. Connected to that loop was something similar to flip-flop circuits. This has to be the Self-Repair rune, Archie rationalized.
+
+“The flip-flop circuit would activate, I assume, when mana gets channeled through the sleeve, and slowly iterates through every part of the armor trying to find any damage inflicted on it. The feedback loop would perform a type of recall and revert to its previous state, depending on the signal received from the flip-flop. This is the Self-Repair rune…So, that would make the runic base be related to time.” Archie said while periodically activating the rune by channeling it with mana and observing the effects that occurred.
+
+Archie then started to scribe the rune atop the metal sheet. As he drew the magical pathways, a thought appeared through his mind, How the hell is this runic base not abused? I mean if any basic smith can control and create something that can rewind time, what else can be done?
+
+After finishing etching the metal sheet, Archie placed his scriber down and Identified his rune.
+
+Iron Sheet (Common):An iron Sheet forged by Syllia Glynvyre, a D-Grade Expert Runesmith. A Self-Repair rune has been etched by Archie Gracefield, a Novice Forgesmith. Effect: Self-Repair. Status: Perfect.
+
+Smiling at his success, he looked at the Soul-Bound rune etched onto his chest plate. The runic base looked like spirals forming together inside a triangle. Looks like the triangle represents the body and the spirals inside it represents the soul, Archie analyzed. He wasn't 100% sure, but he felt that that sounded right.
+
+Connected to the runic base were various magical pathways forming bounded circuits as well as many other circuits he had never seen before.
+
+I guess I’ll just copy this rune. After I’m done with etching runes on the sleeves, I’ll redraw the rune and break it apart to figure out the circuits I don’t understand. Archie conceded as he started to scribe the rune onto a metal sheet.
+
+Iron Sheet (Common):An iron Sheet forged by Syllia Glynvyre, a D-Grade Expert Runesmith. A Soul-Bound rune has been etched by Archie Gracefield, a Novice Forgesmith. Effect: Soul-Bound. Status: Perfect.
+
+Placing the metal sheet off to his right, Archie pulled out a metal sheet and drew the Earth runic base atop it. Archie took a second to imagine the connection between the power amplifier circuit and the runic base. Calculating mentally, he would need to draw around two transistors, a couple of resistors, and a capacitor or two.
+
+Archie started to etch the pathways connected to the runic base, but just as he drew the final capacitor the magic ink fizzled on the metal sheet and vanished. Leaving Archie confused with a clean metal sheet.
+
+“What? Did I mess up somewhere?” Archie said, trying to remember what he did with a bewildered expression on his face. Was it the resistors? Archie thought.
+
+“Ah fuck…I forgot to adjust the Ohms for the resistors.” Archie groaned; he would have to redraw the rune until he got the Ohm ratios correctly. This was going to take a while.
+
+Archie looked at the defensive rune he personally made without help with a smile.
+
+Iron Sheet (Common):An iron Sheet forged by Syllia Glynvyre, a D-Grade Expert Runesmith. An Impact Absorption rune has been etched by Archie Gracefield, a Novice Forgesmith. Effect: Impact Absorption. Status: Perfect.
+
+It took a couple of hours to get the ratio correct, but it worked out for the best. Now all that was left was to etch the runes onto the sleeves.
+
+Archie cracked his fingers as he finished etching the runes onto the inner pauldrons of the steel sleeves.
+
+Steel Sleeves of Protection (Uncommon):Steel sleeves forged by Archie Gracefield, a Novice Forgesmith. The sleeve itself is comprised of three separate steel pieces fused together: pauldrons, couters, and forearm guards. This sleeve was made to perfectly fit Archie Gracefield. Effects: Self-Repair, Soul-Bound & Impact Absorption. Provides +40 Vit & +25 End. Status: Perfect. Requirements: Lv 50+ & Humanoid Race.
+
+Archie stared at his forged sleeves with pride. “Hey, Bralmir, you there?” Archie asked, looking up from the runes he had etched on the finished sleeves.
+
+A weight descended atop Archie’s shoulders, informing him that Bralmir was indeed there.
+
+“Yes, I am. Is there something you need?” Bralmir responded, his voice a lighter tone
+
+Archie took a second to respond, “How are you, man? You sound a bit better.”
+
+“I have been getting back into forging as of late. Something I had been putting off these past cycles.” Bralmir replied, a light smile appearing on Archie’s face as he heard his friend making progress.
+
+“I’ve been dabbling into forging myself; I just finished forging some sleeves and was about to etch some runes atop them,” Archie said.
+
+“Hmm…not bad for your first attempt at making plated sleeves. Eventually, you will forge with more malleable metals, allowing for seamless formation of armor. I think your civilization called them to be nanites.” Bralmir said while focusing on Archie’s craft.
+
+“Nanites! I don’t think I’m anywhere near ready to make nanites, I just figured out how Self-Repair runes work.” Archie joked.
+
+“It's a pretty basic thing to do,” Bralmir chuckled at Archie’s response. “Maybe, but soon enough you will find many materials to forge that work in different ways.”
+
+“With how fun it’s been so far, I can’t wait. I already have a goal in mind that I want to complete before I evolve.” Archie smiled.
+
+“That’s for the best especially since your next evolution will be different.” Bralmir chuckled.
+
+“What do you mean?” Archie asked, confused at what Bralmir meant.
+
+“Now as an E-Grade, you are imbued with mana, correct?” Bralmir asked and got a nod from Archie. “Now that you’re imbued with mana, each Class and Profession evolution will contain trials for you to complete if you wish to evolve into that particular choice.” Bralmir continued gaining a shocked look from Archie.
+
+“Oh! Is there a limit to how many times I can take the trial? What happens if I fail them all?” Archie asked.
+
+“Typically, you receive two attempts for a trial. If you fail, you decrease in your Race level and your records take a hit. However, you can still evolve but the choices will be slightly worse than before.” Bralmir explained
+
+“Two attempts are better than nothing. Thanks, Bralmir” Archie said, confident with the odds, he just had to prove that he could handle whatever trial he would face.
+
+“No problem,” Bralmir said before leaving, releasing the pressure atop Archie’s shoulders.
+
+Putting the discussion he had with Bralmir at the back of his head, Archie looked at his notifications that he ignored and read through them while equipping his sleeves.
+
+*Your Profession has reached Lv 53– Points allocated, +4 Free Points*****Your Profession has reached Lv 56– Points allocated, +4 Free Points**Your Race has reached Lv 55– Points allocated, +3 Free Points**Your Race has reached Lv 56– Points allocated, +3 Free Points*
+
+Skill Upgraded [Basic Smithing Mastery (Initiate → Common)]Basic Smithing Mastery (Common):Mastery over the forge begins with understanding the basics. You have begun your journey. This skill allows for the crafting of various Common-quality items through smithing. Proper materials and equipment are required to smith items successfully. Adds a lesser chance to improve the effectiveness of crafted items based on Willpower.
+
+Skill Upgraded [Basic Rune Scribing (Common → Rare)]Basic Rune Scribing (Rare):The art of rune scribing opens the door to enchanting and imbuing objects with magical properties. An initiate rune scribe learns to carve basic symbols that can provide various benefits onto the object. This skill allows for the creation of simple runes with various effects. Appropriate materials and tools are necessary for scribing runes. Adds a moderate increase to the effectiveness of runes based on Intelligence.
+
+The skill descriptions didn’t change much, only increasing the chance for better quality items and increased rune effectiveness.
+
+Looking up he saw the moon slowly start to set, suddenly he remembered what he told Evelyn. “I’ll leave the boots for another day,” Archie said when looking down at his plated boots.
+
+Opening his status page, Archie decided to place 30 points each into Wisdom and Willpower and 20 points into Endurance and Agility.
+
+Archie GracefieldRace: Human E-Grade Lv 56Class: Nature-Attuned Pugilist Lv 55Profession: Novice Forgesmith Lv 56Health: 3958/3958Mana: 851/1220Stamina: 756/3003Stats:Vitality: 377(395)Strength: 276(317)Endurance: 286(300)Agility: 232Intelligence: 216Wisdom: 122Willpower: 122(134)Perception: 201Free Points: 1General Skills: Identify (Initiate), Nature's Meditation (Epic)Class Skills: Basic Martial Combat Mastery (Uncommon), Savage Charge (Uncommon), Adrenaline Rush (Rare), Pugilist’s Grit (Uncommon), Retaliation (Uncommon), Relentless Flurry (Uncommon), Taunt (Uncommon), Thorns (Common)Profession Skills: Forgesmith’s Flame (Initiate), Basic Smithing Mastery (Common), Basic Rune Scribing (Rare), Material Insight (Common)Bloodline: Adrenaline Junkie (Unique) [+10% to Strength and +10% to Willpower]Affinity: Greater Nature Affinity (Epic)Blessing: Blessing of the Forgefather (Moderate) [+5% to Strength and +5% to Endurance]Titles Collected: Bloodline Progenitor [+10 Vitality and +5% Vitality], Flawless E-Grade Evolution [+10 all Stats]Tutorial Points: 114,333
+
+“I’ll go to the camp after I meditate,” Archie chuckled.

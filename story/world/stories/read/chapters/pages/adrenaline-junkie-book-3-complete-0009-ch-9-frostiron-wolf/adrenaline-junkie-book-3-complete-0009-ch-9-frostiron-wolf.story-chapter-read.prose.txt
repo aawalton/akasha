@@ -1,0 +1,137 @@
+*Warrior class skills available. Choose one of the options*
+
+[Power Strike (Common)]: With a surge of raw strength, a warrior channels their stamina into a single, mighty strike. This move is the embodiment of brute force, designed to overwhelm foes in a head-on confrontation. This skill can be used on all melee and martial weapons.
+
+[Retaliation (Uncommon)]: A warrior endures the pain of their opponent’s blow, absorbing the impact with their mighty resolve. In a moment of fierce vengeance, they channel the energy of the attack back at their foe, doubling the force and fury of the initial strike.
+
+[Warrior’s Resilience (Rare)]: A warrior’s body is a fortress hardened by their countless battles and relentless endurance. Their undying will to stand when their enemy is at their forefront, enables them to fight long after others have fallen. Regenerate 1.5% maximum health per second while in combat, additionally when health drops below 25%, regeneration increases by 50% for a minor period of time.
+
+[Taunt (Common)]: A warrior’s presence on the battlefield garners the attention of others, but when issuing a taunt, it is a deliberate challenge that no foe can ignore. With a deep guttural roar that shakes the battlefield, drawing the attention of their foes, daring them to attack. Grabbing the attention of all enemies within a Perception-USU circle.
+
+“Hmm… Power Strike is a generic enhanced attack, useful for most attacks. Retaliation is an enhanced parry doubling damage, great for sword-shield combat. Warrior’s Resilience is a passive ability boosting health regeneration, I don’t have a passive regeneration ability. Taunt is a taunt, nothing more to say.” Archie said while mulling over the warrior skills.
+
+Walking over to the skewered dead guardian wolf, Archie pushed aside the wolf with his boot and pulled out his sword.
+
+“I’m not going to pick Taunt; I don’t think I’m strong enough to properly take on hordes of enemies at a time…At least for now. Power Strike seems to be a simple enhanced attack, if I manage to channel stamina into an attack, I can just replicate it.” Archie said while pacing around the cave, before kneeling beside a dead wolf and using its fur to clean his blade.
+
+“So, I’m left with two options: Retaliation and Warrior’s Resilience. Enhanced attack or health regeneration.” Archie said while dismissing the other two skill options
+
+“I’m going to go with Warrior’s Resilience; I’d rather live longer if I get in a fucked-up situation. Considering the world is now going to have monsters like that Juvenile Gorilla en masse, combat health regeneration is needed.” Archie reasoned before selecting Warrior’s Resilience as his warrior class skill.
+
+Opening his status he saw:
+
+Archie GracefieldRace: Human F-Grade Lv 16Class: Warrior Lv 20Profession: *Empty*Health: 777/777Mana: 230/230Stamina: 260/400Stats:Vitality: 74(77)Strength: 74(77)Endurance: 40Agility: 44Intelligence: 24Wisdom: 23Willpower: 24(25)Perception: 23Free Points: 8Skills:Basic One-Handed Weapon Mastery (Common)Basic Light-Shield Mastery (Common)Identify (Initiate)Savage Charge (Rare)Adrenaline Rush (Rare)Warrior's Resilience (Rare)Bloodline:Adrenaline Junkie (Unique) [+5% to Strength and +5% to Willpower]Titles Collected:Bloodline Progenitor [+10 Vitality and +5% Vitality]Tutorial Points:1,186
+
+Nice, Archie smiled while looking at his health. His grin widened as his eyes fell on his three rare skills. With renewed confidence, he strode past the previously sealed doorway.
+
+The doorway led into a smaller room, but within that room contained one creature 20 meters away from the entrance. The creature was a four-and-a-half-foot white-furred beast standing on its hind legs and a muscular frame. But the weirdest thing about the wolf was its icicle-like claws.
+
+Identifying the large wolf, Archie saw:
+
+[Frostiron Wolf lv 30]
+
+“Wolf my ass, that’s a fucking werewolf,” Archie nervously chuckled while strengthening his grip on his sword and shield. “It’s a damn good thing I picked health regeneration.”
+
+Using Savage Charge toward the wolf, Archie attempted to ram into the wolf shield first, but just before the attack connected, the wolf hopped to the side dodging the shield bash completely.
+
+Unbalanced from the failed attack, Archie’s guard was wide open, allowing the Frostiron Wolf’s paw purchase to rake across his armored back, producing a shrill screech and sending Archie tumbling across the cave. Where the Frostiron Wolf’s paw raked against the armor, deep gashes were left behind, and ice began to creep across the torn metal and onto his skin.
+
+Archie got over his surprise and quickly pushed himself off the floor and into a defensive stance, eyes focused on the Frostiron Wolf. Adrenaline started to flow throughout Archie at a rapid pace, pushing the pain he felt aside and helping him focus on the fight.
+
+Exhaling through his nose, Archie started to charge toward the Frostiron Wolf, eyes constantly locked onto it. When Archie was five meters away from the Frostiron Wolf, it started to charge towards him.
+
+Icicle-like claws scratched his shield with the weight of a freight train, Archie skidding back an inch in response to the sudden weight. But Archie did not stay still, activating Savage Charge at point blank at the Frostiron Wolf. He bashed his shield on its paw causing its paw to be thrown back, due to the sudden force unbalancing it.
+
+Taking advantage of the now unbalanced wolf, Archie gritted his teeth and activated Adrenaline Rush causing steam to rise from his body, and then activated Savage Charge once more at the Frostiron Wolf. Stabbing his sword into the stomach of the wolf and raising his shield upwards blocking the Frostiron Wolf’s maw from chomping down on his exposed head.
+
+But due to the quickly timed shield block, Archie’s shield was now lodged in the Frostiron Wolf’s jaw. Archie smiled as he let his shield go, unstrapped his hatchet, and swung it into the side of its neck. Archie then kicked his sword’s hilt deeper into the Frostiron Wolf’s stomach, the force of the kick caused it to fall onto its back, whimpering in pain.
+
+Not hearing a ding, Archie walked up to the prone wolf, grabbed his sword’s hilt, gritted his teeth, and tensed his arms as he dragged his sword across its stomach, revealing its innards to the world.
+
+Finally hearing the ding, Archie deactivated Adrenaline Rush causing the steam that rose from his body to dissipate. With a tired huff, Archie fell onto his back, exhausted.
+
+Looking at the notifications, he saw:
+
+*[Frostiron Wolf Lv 30] has been slain – XP has been given. 120 Tutorial Points given*
+
+*Your Class has reached Lv 21 – Points allocated, +1 Free Point*****Your Class has reached Lv 23 – Points allocated, +1 Free Point**Your Race has reached Lv 17 – Points allocated, +1 Free Point**Your Race has reached Lv 18 – Points allocated, +1 Free Point*
+
+Dire Wolf Dungeon Objective: Purge all wolves from within the dungeon ✔Reward: Upgrade Medallion (Uncommon) & Frostiron Necklace (Uncommon)Dungeon will automatically close in 0:03:59:42
+
+When the system prompt appeared in front of his face, a fist-sized whitish gold circular coin and a necklace made with claws that looked similar to the Frostiron Wolf’s claws, suddenly appeared atop his chestpiece.
+
+Identifying both items, he smiled at his rewards.
+
+Upgrade Medallion (Uncommon):A system made one-time use medallion, allowing items below the rarity of Uncommon to become Uncommon rarity. Requirements: F-Grade & Tutorial Participant.
+
+Frostiron Claw Necklace (Uncommon): A necklace made from the claws of the Frostiron Wolf, given as a reward for clearing the Dire Wolf Dungeon. Increases resistance against ice elemental attacks. Enchantments: Self-repair. Provides +10 Strength & +5 Agility. Requirement: Lv 18+ & Humanoid Race.
+
+Pushing himself off the ground, Archie donned the necklace and placed the upgrade medallion in his potion pouch, intending to deal with the token later.
+
+Looking at the corpse of the Frostiron Wolf one last time, Archie smiled, “That was fun.”
+
+As Archie stepped out of the dungeon, its portal began to shudder violently before imploding in on itself, leaving nothing but a smooth wall behind. Watching the collapse, Archie thought, Thank god I left before it closed.
+
+Walking through the cave, Archie walked past the gorilla's corpse and headed outside, gazing at the early noon sun shining over the Hoarfrost Highlands.
+
+Looking at his status page, he saw:
+
+Archie GracefieldRace: Human F-Grade Lv 18Class: Warrior Lv 23Profession: *Empty*Health: 625/861Mana: 215/250Stamina: 148/420Stats:Vitality: 82(86)Strength: 92(96)Endurance: 42Agility: 54Intelligence: 26Wisdom:  25Willpower: 26(27)Perception: 25Free Points: 13Skills:Basic One-Handed Weapon Mastery (Common)Basic Light-Shield Mastery (Common)Identify (Initiate)Savage Charge (Rare)Adrenaline Rush (Rare)Warrior's Resilience (Rare)Bloodline:Adrenaline Junkie (Unique) [+5% to Strength and +5% to Willpower]Titles Collected:Bloodline Progenitor [+10 Vitality and +5% Vitality]Tutorial Points:1,306
+
+Smiling at his strength stat, Archie dismissed his status page and continued to explore the Highlands, hoping to find more loot.
+
+Running across the densely packed snow of the Hoarfrost Highlands was easier than ever for Archie due to his increased stats. Smiling at the feeling of the cold air whipping around his face as he traversed the snow-filled forest, jumping over roots and sprinting through the snow.
+
+Archie has been running for a few hours now, constantly on the lookout for shiny chests. Fortunately, Archie’s vigilance was finally met with reward; at the top of a small hill was a tree that shimmered silver, not unlike the root that hid his first chest.
+
+Easily jumping over the small hill and next to the tree, Archie scaled the tree, reached inside, and pulled out a familiar-looking sealed chest. Identifying the sealed chest, he read:
+
+Sealed Oak Chest:A sealed chest created for the 72nd cycle’s tutorial, containing an item within.
+
+Prying the lock open was an easy task given Archie’s current strength, allowing him to glimpse into what was hidden inside the chest: a pair of gauntlets.
+
+Frostiron Gauntlets (Rare):These gauntlets are forged from Frostiron, a rare metal found exclusively in highlands with sub-zero °UST climates. Any attacks imbued with mana shall become imbued with ice elemental effects. Effect: Self-Repair, Soul-Bound & Lesser Ice Reinforcement. Provides +10 Agility & +10 Intelligence. Status: Perfect. Requirements: Lv 18+ & Humanoid Race.
+
+Looking at his bare hands, he finally had something to cover his hands with, placing them on, he noticed that they fit perfectly. Realizing that he never Identified his armor, Archie decided to rectify that:
+
+Plated Chain-mail Chestpiece (Common):A Plated Chain-mail Chestpiece, provided to those who have chosen the Warrior starting class. Effect: Soul-bound. Status: Moderately beaten & slashed. Requirements: Humanoid Race.
+
+Plated Chain-mail Leggings (Common):Plated Chain-mail Leggings, provided to those who have chosen the Warrior starting class. Effect: Soul-bound. Status: Slightly beaten. Requirements: Humanoid Race.
+
+Plated Chain-mail Greaves (Common):Plated Chain-mail Greaves, provided to those who have chosen the Warrior starting class. Effect: Soul-bound. Status: Moderately worn. Requirements: Humanoid Race.
+
+Plated Chain-mail Sleeves (Common):	Plated Chain-mail Sleeves, provided to those who have chosen the Warrior starting class. Effect: Soul-bound. Status: Moderately beaten. Requirements: Humanoid Race.
+
+“Sadly, no bonuses, nor any self-repair. Should I use my medallion on my chestpiece or my shield?” Archie wondered looking at his heavily scratched shield.
+
+Iron Heater Shield (Common):An iron-rimmed light-shield with a wooden base, provided to those who have chosen the Warrior starting class. Effect: Soul-bound. Status: Heavily beaten & slashed. Requirements: Humanoid Race.
+
+“I don’t know if this medallion will give a self-repair effect or not, but what the hell, I’ll just put it on the shield, I’ve blocked more than I’ve taken blows to the chest,” Archie said plainly.
+
+Groaning with an exhale, looking exasperated, Archie said, “Thank god, no one heard that.” Shaking his head, Archie pulled out his upgrade medallion and placed it on his shield.
+
+Looking at his medallion above his shield, he awaited a flash of light to appear transforming his shield. After a few minutes of waiting, nothing changed.
+
+“How do I activate the medallion?” Archie wondered while poking the token with his finger.
+
+As soon as Archie uttered those words, both the shield and medallion started to glow. Moments later, the medallion shattered into tiny motes of light and disappeared, while the shield remained unchanged.
+
+Identifying his shield, Archie read:
+
+Iron Heater Shield (Uncommon):An iron-rimmed Light-Shield with a wooden base, provided to those who have chosen the Warrior starting class. Effect: Soul-bound & Self-repair. Status: Heavily beaten & slashed. Requirements: Humanoid Race.
+
+Archie looked at the self-repair status effect, confused as to why the shield wasn’t repairing. Remembering that his hatchet had a self-repair status effect, he took it out and identified it.
+
+Steelwood Hatchet (Uncommon):A small hatchet made of steel and forged by an unknown F- Grade blacksmith. When in a forest the sharpness of the hatchet increases. Effects: Self-repair, Soul-Bound. Status: Moderately used. Requirements: Lv 5+ & Humanoid Race.
+
+Archie’s eye started to twitch, “Am I being scammed? Why isn’t it working?” Archie asked himself confusedly. “Shouldn’t it be self-repairing while I left it alone?”
+
+Exasperated, Archie placed his hatchet between the straps of his pouch and continued to explore the Highlands.
+
+Ducking under a tree branch, two things caught Archie’s attention: a giant hexagonal dome and a weird-looking boulder with a door smack dab in the middle with lanterns hanging on the sides of the door.
+
+Archie using Identify on both, he gulped.
+
+[Giant Frostiron Tortoise Lv ??]
+
+Archie did not get a prompt about the door, so he was only left with one option, getting close enough to the door without waking up the five-meter-tall giant tortoise whose level was higher than what he could see.
