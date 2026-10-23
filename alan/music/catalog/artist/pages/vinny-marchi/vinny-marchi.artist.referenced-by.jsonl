@@ -1,4 +1,5 @@
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/vinny-marchi-2016/vinny-marchi-2016.song.ts","id":"01a0b783-80f1-7c93-8ab8-b2d2219246a0"}
+{"propertySlug":"artist","path":"alan/music/catalog/song/pages/vinny-marchi-a-chloris/vinny-marchi-a-chloris.song.ts","id":"01a1690d-9297-7f81-a2c0-b8e1a5372017"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/vinny-marchi-all-i-gave-to-you/vinny-marchi-all-i-gave-to-you.song.ts","id":"01a0b783-8221-74b6-af67-62faf3ca8344"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/vinny-marchi-around-we-go/vinny-marchi-around-we-go.song.ts","id":"01a0b783-8b2c-79e7-aabf-4d986631f24d"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/vinny-marchi-astrology/vinny-marchi-astrology.song.ts","id":"01a0b783-c4ad-7ebb-85a8-3b3c5d59898c"}
@@ -77,6 +78,7 @@
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/vinny-marchi-wings-of-wax/vinny-marchi-wings-of-wax.song.ts","id":"01a0b783-e17f-7ee9-a674-d3cd77512aa7"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/vinny-marchi-you-dont-know-me/vinny-marchi-you-dont-know-me.song.ts","id":"01a0b783-d117-7d19-8726-1586e9cf396c"}
 {"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/vinny-marchi-2016-2016.track.ts","id":"01a0b112-90a8-772f-8c60-8f68366b9253"}
+{"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/vinny-marchi-a-chloris-a-chloris.track.ts","id":"01a1690d-9297-7a5e-b433-6a33bef004fb"}
 {"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/vinny-marchi-all-i-gave-to-you-all-i-gave-to-you.track.ts","id":"01a0b112-9bb3-7db9-be22-137796a6c6fc"}
 {"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/vinny-marchi-atmosphere-atmosphere.track.ts","id":"01a0b112-9743-7977-86af-19717e94089e"}
 {"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/vinny-marchi-ave-maria-ave-maria.track.ts","id":"01a0b112-9b3d-73f5-9a83-f1a958c98855"}
@@ -165,6 +167,7 @@
 {"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/vinny-marchi-we-are-fucked-unmotivational-song-we-are-fucked-unmotivational-song.track.ts","id":"01a0b112-94f0-729c-9978-40f064bc1f34"}
 {"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/vinny-marchi-wings-of-wax-wings-of-wax.track.ts","id":"01a0b112-944a-7c7f-a737-11c6f8a83807"}
 {"propertySlug":"part-of-collections","path":"alan/music/catalog/release/pages/vinny-marchi-2016/vinny-marchi-2016.release.ts","id":"01a0b112-907f-75bf-932e-7503513e5afe"}
+{"propertySlug":"part-of-collections","path":"alan/music/catalog/release/pages/vinny-marchi-a-chloris/vinny-marchi-a-chloris.release.ts","id":"01a1690d-9297-7b5d-ad4c-93b31c9f573f"}
 {"propertySlug":"part-of-collections","path":"alan/music/catalog/release/pages/vinny-marchi-all-i-gave-to-you/vinny-marchi-all-i-gave-to-you.release.ts","id":"01a0676a-d716-701a-8f65-5a1a74d04e70"}
 {"propertySlug":"part-of-collections","path":"alan/music/catalog/release/pages/vinny-marchi-atmosphere/vinny-marchi-atmosphere.release.ts","id":"01a0676a-d717-703c-9932-4307a58abe3d"}
 {"propertySlug":"part-of-collections","path":"alan/music/catalog/release/pages/vinny-marchi-ave-maria/vinny-marchi-ave-maria.release.ts","id":"01a0676a-d717-7042-a4b8-20a74449fc2d"}

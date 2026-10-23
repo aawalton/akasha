@@ -23,11 +23,11 @@ export const vinnyMarchi = {
       source: "spotify",
       externalId: "5USAMqcbMAzF3HBmeD5pJF",
       externalLink: "https://open.spotify.com/artist/5USAMqcbMAzF3HBmeD5pJF",
-      lastSyncedAt: "2026-09-17",
+      lastSyncedAt: "2026-10-23",
     },
   ],
   title: "Vinny Marchi",
   genre: [],
   createdAt: "2026-09-03T16:04:08.684Z",
-  updatedAt: "2026-09-21T19:44:25.000Z",
+  updatedAt: "2026-10-23T13:57:39.606Z",
 } as const satisfies Artist
