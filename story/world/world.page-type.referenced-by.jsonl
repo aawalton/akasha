@@ -48,6 +48,7 @@
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/blood-bath-and-beyond-crafting-litrpg/blood-bath-and-beyond-crafting-litrpg.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/blood-berserker-a-litrpg-apocalypse/blood-berserker-a-litrpg-apocalypse.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/blood-curse-academia-vol-4-stubbed/blood-curse-academia-vol-4-stubbed.world.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/blood-magus-a-ritual-magic-litrpg/blood-magus-a-ritual-magic-litrpg.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/blood-reaper-an-isekai-vampire-fantasy-litrpg/blood-reaper-an-isekai-vampire-fantasy-litrpg.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/bloodstained-blade-gamelit-sword-mc/bloodstained-blade-gamelit-sword-mc.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/blue-boxes/blue-boxes.world.ts","typed":true,"deferred":false}
@@ -97,6 +98,7 @@
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/definitely-not-evil-plans/definitely-not-evil-plans.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/delve/delve.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/delver-dungeon-diving-and-magic-litrpg/delver-dungeon-diving-and-magic-litrpg.world.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/demon-queen-wants-to-paint-vol-3-stubbing-on-june/demon-queen-wants-to-paint-vol-3-stubbing-on-june.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/demonic-city-builder-litrpg-city-kingdom-building/demonic-city-builder-litrpg-city-kingdom-building.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/demonic-conqueror-litrpg-isekai-progression/demonic-conqueror-litrpg-isekai-progression.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/devour-skill-eater-litrpg/devour-skill-eater-litrpg.world.ts","typed":true,"deferred":false}
@@ -192,9 +194,11 @@
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/land-grab-a-kingdom-building-progression-fantasy/land-grab-a-kingdom-building-progression-fantasy.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/last-lord-of-the-fey/last-lord-of-the-fey.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/lazy-loops-an-idle-litrpg-op-to-archmage/lazy-loops-an-idle-litrpg-op-to-archmage.world.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/legendary-shadow-blacksmith-book-2-complete/legendary-shadow-blacksmith-book-2-complete.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/leveling-up-the-world/leveling-up-the-world.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/library-of-void-kingdom-building-army-war-hidden/library-of-void-kingdom-building-army-war-hidden.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/library-system-reset-overdue-book-four-stubbed.world.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/liches-get-scritches-a-cat-cultivation/liches-get-scritches-a-cat-cultivation.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/life-is-a-side-quest/life-is-a-side-quest.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/lifeweaver-a-healer-litrpg-book-2-stub-dec-1st/lifeweaver-a-healer-litrpg-book-2-stub-dec-1st.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/light-cleric/light-cleric.world.ts","typed":true,"deferred":false}

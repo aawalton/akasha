@@ -1,0 +1,281 @@
+There was no way out.
+
+Once he didn’t have the Blood Magus Class’s claim time limit rushing him, Zeth took a moment to catch his breath and find his bearings. He stood and wandered the ruined mineshaft, using the light from his lantern to try and find a passage that led out of this place.
+
+Only, there was none. The tunnel was a dead end, and the way back was blocked by a massive swath of collapsed stone. Zeth tried digging himself out for some time, but quickly realized those efforts were in vain. He’d starve to death before he even made a dent in the wall of rock.
+
+Which, considering he didn’t have any food and only enough water to last a few more hours, that death was looking pretty close on the horizon.
+
+He already knew he’d been passed out for an hour and there was no sign of rescue so far. He hoped that was just because the efforts were delayed for some reason, not because they weren’t coming at all. That mysterious voice from before had literally told him he’d die down here—surely they would go get help, if they were so concerned about his survival?
+
+For now, though, all he could do was wait.
+
+He opened up his Status, looking at the changes made from the new, mysterious Class he’d obtained.
+
+[CLASS
+
+Class Slot 1: Blood Magus - Level 0
+
+Class Slot 2: (Locked)
+
+Skill Points: 11
+
+STATS
+
+Strength: 3
+
+Endurance: 6
+
+Dexterity: 0
+
+Awareness: 0
+
+Poise: 0
+
+Influence: 0
+
+Shaping: 0
+
+PURCHASED CLASS-EXCLUSIVE SKILLS
+
+(None)
+
+UNLOCKED CLASS-EXCLUSIVE SKILLS
+
+Ritual Circle Mastery - Cost: 1]
+
+For the most part, it was all the same. The only addition was, of course, his new Class, and the “Class-Exclusive Skills” section. There was also another section he could open up, showing all of the Universal Skills he’d unlocked and purchased, but those were also all the same as he remembered.
+
+For his whole life, those Universal Skills were the only ones Zeth had access to. Unlike Class-Exclusive ones, Universal Skills were ones that anyone could unlock and purchase, regardless of what their Class was, or even if they had one in the first place. Of course, it was much more difficult to obtain the Skill Points necessary to purchase those Skills when you didn’t have a Class—which was why he’d only ever purchased six Universal Skills in his whole life so far, most of them relatively inconsequential—but it was still possible.
+
+Now, though, he could access Exclusive Skills. Much more powerful, and typically cheaper, too. And the higher the Class’s Rarity, the better they’d be. Which, seeing that the one Exclusive Skill he currently had unlocked only cost a single Skill Point, that was a very good start.
+
+Ritual Circle Mastery, huh? I’m probably buying this no matter what, considering the cost, but let’s at least see what we’re getting into first.
+
+[Ritual Circle Mastery - Cost: 1 Skill Point
+
+Allows you to draw ritual circles with mana and activate them using empowered blood sacrifices.
+
+For each Rank in this Skill, the amount of mental effort required of you to draw ritual circles is decreased by 0.1% per point you have in the Shaping Stat.]
+
+So this was what gave the foundational magic of the Blood Magus Class. No wonder it was so cheap—Zeth doubted he’d be able to get anywhere without it.
+
+He currently had eleven hard-earned Skill Points, and this cost one of them. Certainly not nothing, but it wasn’t a price he’d need to worry about. Every time you Ranked a Skill up, you’d get one Skill Point as a reward—up to the maximum Rank of ten, of course. Effectively, that meant that every Skill had its Point cost reduced by ten as long as you eventually got it to max Rank. So, for a Skill that cost less than ten Skill Points, you would end up profiting Skill Points once all was said and done.
+
+This rule was what let Unclassed people get Skills in the first place. With a Class, you’d get free Skill Points every Level, but when you didn’t have one, you’d have to unlock and purchase these “profit Skills”—which, the Universal profit Skills were typically pretty awful, both useless in effect and being extremely difficult to Rank up—and then use the Skill Points earned from that to purchase the ones you actually wanted.
+
+So, with a cost of 1 Skill Point, Ritual Circle Mastery would profit Zeth a total of 9 Skill Points, bringing him up to 20 once he’d Ranked this Skill up to its maximum. It was an easy choice to make.
+
+[You have purchased Blood Magus Skill: Ritual Circle Mastery.
+
+-1 Skill Point. You now have 10 Skill Points.]
+
+Now, it was just time to practice.
+
+The moment he purchased the Skill, Zeth felt a small bit of knowledge enter his mind. A starting point. Following the instinct provided to him, he placed his finger onto the ground, closed his eyes, and focused.
+
+With a 0 in his Shaping Stat, Zeth had no System assistance when it came to magic. He had no more mana than was naturally given to every human—that was, not much at all. So the moment he felt the mana seep out of his finger and manifest as a red, chalk-like substance on the mineshaft floor, exhaustion instantly began to overtake him.
+
+He barely drew a single inch of a curved line before he was forced to stop. His brain ached, throbbing like it’d been bound by a tightly-coiled rope. Mental exhaustion had slammed into him so quickly, he already felt like he could use a full night’s sleep.
+
+This would take a while, it seemed.
+
+Zeth continued drawing his line, bit by bit. It was time-consuming, with him being forced to take at least a few minutes to recover before he could even think about continuing each time he traced his finger another inch.
+
+But eventually, there was just one last section to draw before he’d have a simple circle drawn on the ground in the red finger-chalk. It was just a few inches in diameter, nothing even close to that massive circle the mage had drawn. That thing was not only eight feet wide, but also had the inside filled with all of those intricate designs—the loops and swirls and drawings…
+
+It had taken Zeth over an hour to draw this, and it was just a plain circle. He had no idea how long it would take him to draw something like that. Years, at least.
+
+But for now, he just needed to finish this simple circle. His knowledge stated that it would be “completed” once he drew that last portion of the line, though he had no idea what that really meant. He placed his finger on the ground, slowly tracing the final bit, and…
+
+[Ritual Circle Mastery’s Rank has increased to 1.
+
++1 Skill Point. You have 11 Skill Points.]
+
+Zeth smiled. Already back to where we started. From now on, all further Ranks are pure profit.
+
+Before he could think any more, though, another notification came through.
+
+[Requirement fulfilled: Rank 1 Ritual Circle Mastery
+
+You have unlocked Blood Magus Skill: Empowerment Ritual.]
+
+His smile widened. Another Skill already.
+
+[Empowerment Ritual - Cost: 10 Skill Points
+
+The sole method of increasing the Blood Magus Class’s Level.
+
+Uses a ritual circle to attempt to Level Up the Blood Magus Class. Required ritual circle size, time required to draw it, upkeep time required, and strength of the sacrifice required for a successful empowerment ritual each increase as Blood Magus Class Level increases.
+
+Strength of sacrifice required: Very Low
+
+Required ritual circle diameter: 2 feet
+
+Minimum time required to draw: 2 hours
+
+Upkeep time required each day: 1 hour]
+
+Zeth frowned as he read through the description. This was a little more complex than the other one. But one phrase stuck out to him: Level Up.
+
+So Blood Magus Leveled Up in a different way than most combat classes, then. Typically, a Class that was oriented toward fighting would increase its Level when its owner used its powers to fight and kill strong opponents. But Blood Magus seemed to Level up by completing whatever this ritual was. Though, Zeth supposed that the acquiring of a powerful enough “sacrifice” would probably involve some fighting.
+
+For this one, though, he’d need a sacrifice with a strength of “very low.” Surely that wouldn’t be hard to come by? Either way, this Skill was his only method of Leveling Up, which would be the path to unlocking more Skills, increasing his Stats, and getting more Skill Points. So, once again, the decision wasn’t very hard to make. With a cost of ten Skill Points, once he got the Skill to max Rank, he’d simply have recouped the cost, making this one effectively free in the long run.
+
+[You have purchased Blood Magus Skill: Empowerment Ritual.
+
+-10 Skill Points. You now have 1 Skill Point.]
+
+It would probably be best to go ahead and get to work on making this thing and figure out the sacrifice later. At worst, it’d just be a waste of time. And, considering help still hadn’t come, he still had time to kill.
+
+If help comes at all, that is.
+
+Pushing the doubting thoughts away, he hunched back over the stone floor, glancing over the description again. Two feet diameter, and a two-hour minimum time required. Considering how long it took to draw something barely one inch in diameter, I think I’ll be clearing that minimum time requirement easily. I guess that means I can just do a big plain circle with nothing drawn inside?
+
+In the end, it took Zeth a healthy amount of time over the minimum to draw the circle. He didn’t know how much time he went over the minimum by, but he felt a switch flip in his mind the moment two hours had passed, the Skill informing him that the requirement had been fulfilled. He’d still had much more line to draw, so he kept working until he had that requirement finished, too.
+
+Maybe it was because Ritual Circle Mastery had Ranked up, or maybe it was just from him generally having some more practice, but he found that he worked much faster now compared to the time needed to finish the practice circle, which was a fraction of this one’s size. Well, it was still several additional hours added to the work time, but it wasn’t several days like he thought it might take.
+
+The moment he drew the last line of the simple red circle, he got another notification informing him that Ritual Circle Mastery had Ranked up to two. One Skill Point added to his total, up to two.
+
+He smiled and sat back, looking at his work. Yep, it was a circle, alright. A big red ‘O’ sat on the stone.
+
+So then, you want a sacrifice, huh? Zeth thought back. In his one example, the sacrifice had been…
+
+He took a breath. You chose this Class. You can’t refuse to remember.
+
+The sacrifice had been six human lives. And when the thing finished, it said the total number of sacrifices had been in the hundreds. That must have been an insanely high sacrifice cost. For something “very low,” it wouldn’t be nearly that steep. At first, Zeth wondered if he’d need to go find some weak animal to feed to the circle, but maybe…
+
+Blood Mage, Blood Magus. Maybe I don’t need lives, I just need blood?
+
+He bent over and picked up a shard of stone from the cave-in—one with a sharp, jagged edge. Holding the point to the tip of his finger, he pushed, pricking his skin. After a brief sting of pain shooting through his flesh, he drew the rock back, and watched as a drop of blood bubbled out of the tiny wound.
+
+Hovering his finger above the circle, he watched the droplet of blood trickle down his finger, tugged by gravity to the very end of his pinkie.
+
+It fell.
+
+The instant it touched the ground within the circle, the red chalk glowed bright pink for a moment, the familiar crackle of electricity filling Zeth’s ears. He panicked for a moment, the memory of Nestor’s hand slipping out of his forcing itself into his mind. But then the moment ended. The light faded and the mineshaft quieted, and he got a notification about Empowerment Ritual Ranking up. But Zeth was paying much more attention to the other set of notifications he’d received.
+
+[Ritual complete: Empowerment Ritual.
+
+Sacrifice given: Minor amount of weak human blood.
+
+Level Up!]
+
+[Blood Magus’s Level has increased to 1.
+
++3 Endurance. Your Endurance is 9.
+
++1 Awareness. Your Awareness is 1.
+
++2 Poise. Your Poise is 2.
+
++7 Shaping. Your Shaping is 7.
+
++3 Skill Points. You have 6 Skill Points.]
+
+[Requirement fulfilled: Blood Magus Level 1.
+
+You have unlocked Blood Magus Skill: Hellfire Ritual.]
+
+Zeth felt a surge of energy flow through his body. He’d increased his Stats before, spending a few Skill Points on it when he was a kid just to see what would happen, but when you did that, you’d exchange one Skill Point for three points in a single Stat, meaning they would always only increase three at a time—and in his case, it had been limited to Strength and Endurance. Now, he suddenly got a full thirteen additional Stats all at once, split among several different categories.
+
+His body slightly hardened from Endurance, and he got the distinct impression that he could probably run a little longer than he used to. From Awareness, his vision and hearing sharpened just barely, and from Poise, he suddenly felt a little more in control of his mind. The largest shift was from Shaping, where he suddenly felt like he had a hint of a perception he hadn’t ever felt before—mana filled the world around him and flowed through himself, like an infinite river that ignored all laws of reality. He saw that his own body was depleted currently, likely from spending so much on the ritual.
+
+He glanced over the Hellfire Ritual Skill he’d just unlocked. It seemed like a sort of fire trap—you draw the ritual circle, then activate it with a sacrifice, and the next person to touch the circle would burst into flames. Useful, but out of his price range; the Skill cost thirteen Skill Points while Zeth only had six.
+
+But he had one main method to get more—complete more rituals. Just like the Empowerment Ritual description had said, requirements went up. The diameter went from two feet to two and a half, the minimum time required doubled from two hours to four, and the ‘upkeep time,’ whatever that was, also increased slightly. But the most important part was the fact that the minimum sacrifice strength also increased, from “very low” to “low.” He hoped his own “weak” human blood would still suffice.
+
+So, he got to work.
+
+Once again, Zeth’s speed at drawing the massive circle increased. With his increasing familiarity with the process, the Ranked up Ritual Circle Mastery and Empowerment Ritual Skills, and a few extra points in his Shaping Stat now, he actually finished in less time than it’d taken him to finish the first, despite the diameter requirement increasing. It still took longer than the required minimum, but Zeth really felt himself getting the hang of this.
+
+He completed the circle, this time not getting any extra Ranks in Ritual Circle Mastery. Unfortunate, but it was natural that Rank-up requirements would increase. The real prize was just ahead.
+
+He pricked his finger and let the blood drop onto the circle, and…
+
+[Ritual progress: Empowerment Ritual.
+
+Sacrifice given: Minor amount of weak human blood.
+
+Sacrifice requirement: 1% met.]
+
+He frowned.
+
+Letting a few more drops fall onto the circle, he felt disappointment wash over him as he watched the progress refuse to budge from 1%. Maybe a huge amount of his blood would be enough, but he wasn’t about to gut himself open. Seemed like this was where his progress stopped, for now.
+
+It also meant he no longer had anything to distract himself with, which meant he had to face the conclusion that had become obvious hours ago.
+
+Help was not coming.
+
+It had been way too long. No sound of rocks being excavated, no distant shouts, no indication whatsoever that the world hadn’t moved on without him.
+
+Maybe if he could’ve kept Leveling up, he could unlock some new Skill that’d blow up the mountain of rubble in his way or teleport him to the surface, but that didn’t seem to be possible—not with his utter lack of sacrifices to provide.
+
+Zeth had to find another way out.
+
+So he looked. There had been no mineshaft passages dug to continue this one, but that didn’t mean there was nothing here at all. One of the reasons the tunnels were shut down when there were even slight signs of instability was because collapses opened up the chance of walls separating the artificial mineshafts from natural caves breaking down.
+
+Normally, those untouched, unexplored caves were some of the most dangerous things one could encounter down here. Now, Zeth was hoping for them.
+
+There were a few known caves under the mountain that connected to the surface. One was empty, having been cleared of monsters long ago. Another had a portal opened in it to the Beast Realm, with many of the deadly monsters from that realm still remaining within. Another was pretty much completely full of water. There were a few more that were even less desirable, but Zeth just hoped he could find the empty one.
+
+He walked the tunnel, closely examining the walls and looking for signs of weakness—anything to show the cave-in might’ve broken a passage through. As he wandered further and further, he grew more and more desperate, seeing nothing.
+
+But then, at the very end of the mineshaft, he saw the smallest of holes, showing pitch black space behind.
+
+There it was.
+
+He pulled his pickaxe from where it was attached to his backpack and grinned. I’m getting the hell out of here.
+
+It took Zeth a while to open a passage wide enough for him to squeeze through. The moment it was, he held his lantern out and gazed through the hole. Solid, dry ground below, with nothing else in sight. The uneven floors of the cavern on the other side shimmered with the flickering light of his poorly-tuned lamp. It really was a natural cave.
+
+He stepped through.
+
+Standing on the other side, he looked back, gazing through the hole in the wall at the mineshaft he was leaving behind.
+
+Do I really trust my chances venturing through an unknown, possibly monster-infested cave more than I trust Garon to follow through in his promise to help me?
+
+After about half a second of introspection, he found his answer.
+
+Fuck yes I do.
+
+He turned back around and continued forward.
+
+The room he arrived into was large, he found—large enough that his lantern’s light couldn’t even reach the furthest wall. Staring into the pitch black, he couldn’t help but imagine a massive, toothy maw waiting just beyond his vision to reach out and swallow him whole.
+
+He tried to calm his breathing as he walked. Don’t worry. Chances are decent that you’re the only living thing in this cave. The only thing threatening your life is the natural timer of dehydration. Until you actually see something, there’s no use in worrying about some hypothetical—
+
+His thoughts stopped in their tracks, as did he, when he spotted a figure at the edge of his light.
+
+Lying on the ground was not a natural animal, and not a monster from one of the Beast Realm portals, either. This four-legged thing had black, warted skin all over, each of its legs bending in unnatural places. Its head was turned away, but as Zeth crept around to look at it, he saw that there wasn’t a head at all. Instead of a head, attached to the beast’s neck was a massive eye with a dark black center.
+
+Weird, he thought, examining it. The thing was clearly dead, lying there without moving, but—
+
+A horrible smell entered his nostrils, like diseased meat.
+
+[Poise check failed.]
+
+Instantly, pain filled his body. He collapsed to the ground, legs suddenly unable to hold his weight and stomach feeling like it would have overturned itself had he eaten anything in the past few hours. His skin was pierced by countless needles, bones crushed by hammers, mind blended into a paste. He was dying. He was going to die. He was—
+
+And then it was over. In an instant, Zeth found himself lying on the ground in the fetal position, completely unharmed and feeling absolutely no more pain. The beast was still dead on the ground. With a shaky breath, he glanced around the empty cavern. What was that? He wanted to avoid feeling it again at all costs.
+
+Ah, he thought, looking back at his notifications. Poise check. So it was a mental attack that I could’ve resisted if I had enough of that Stat.
+
+It’d happened when he smelled the monster, so…He got up and backed away from it, holding his breath so he didn’t inhale more of the fumes. Then, pulling his sweaty tunic over his face to ensure the scent couldn’t enter his nose, he crept back over and examined the beast more closely.
+
+It was obviously from one of the deeper realms. With its alien physiology and innate magic, that much was obvious. He might have thought it came from the Fourth Realm—the Elven Realm—but that place normally had much more color in its monsters, from what he knew. This thing was dark, purely constructed of black and gray, and felt like its presence alone twisted reality into a horrible reflection of itself. Really, judging from its appearance, it could have been…
+
+No. No way it could be from there. I’ll be dead the moment I see a living being from that place if that’s true.
+
+It was then that he noticed liquid leaking from underneath the monster. He used his foot to lift it up, and dark blood began pouring out from a massive series of lacerations on the thing’s underside. Zeth had known it was dead, but this was pure mutilation.
+
+Looking at the size of the cuts, clearly much larger than the monster’s own claws, it was obvious that this thing wasn’t killed by another of its own species. It was killed by something else. Something bigger. Something in this cave.
+
+Zeth stared down at the leaking corpse.
+
+Guess I found a stronger sacrifice.
+
+He grabbed the minced monster corpse, hauled it over to the already-drawn Empowerment Ritual circle, and tossed it in. The blood seeped from the beast’s veins and sank directly into the stone.
+
+[Ritual complete.]
