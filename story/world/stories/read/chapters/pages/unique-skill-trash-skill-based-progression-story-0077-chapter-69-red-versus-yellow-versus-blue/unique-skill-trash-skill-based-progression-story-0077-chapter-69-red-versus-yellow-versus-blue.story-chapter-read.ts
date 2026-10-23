@@ -20,5 +20,7 @@ export const uniqueSkillTrashSkillBasedProgressionStory0077Chapter69RedVersusYel
     },
   ],
   createdAt: "2026-10-22T16:49:26.206Z",
-  updatedAt: "2026-10-22T16:49:26.206Z",
+  updatedAt: "2026-10-23T11:49:11.319Z",
+  ownProgress: 2099,
+  progressedAt: "2026-10-23T11:49:11.319Z",
 } as const satisfies StoryChapterRead

@@ -20,5 +20,7 @@ export const uniqueSkillTrashSkillBasedProgressionStory0076Chapter68Harvesting =
     },
   ],
   createdAt: "2026-10-22T16:49:26.206Z",
-  updatedAt: "2026-10-22T16:49:26.206Z",
+  updatedAt: "2026-10-23T11:49:11.319Z",
+  ownProgress: 2231,
+  progressedAt: "2026-10-23T11:49:11.319Z",
 } as const satisfies StoryChapterRead
