@@ -1,0 +1,129 @@
+Zhou Shentong's private courtyard was the last thing I expected it to be.
+
+I'd spent the walk over building up this mental image of something imposing, maybe rows of carved beast statues or at the very least a few decorative fountains that announced how much money the man controlled.
+
+What I found was a compound that looked almost deliberately unimpressive, plain stone walls, wooden gates that were two hundred years old judging by how worn the grain looked, traditional curved roof tiles on top of everything as if the building was another merchant's residence. It wasn't. The walls were quarried stone, not pressed earth, and once you knew what to look for the details started talking to you. It was that quiet kind of rich that didn't feel the need to scream about how much money it had, which somehow made the thing feel more annoying to me.
+
+"Those walls are higher than they look," Han Renyi pointed out. "They at least twenty feet high with formation-reinforced stone and the gates are made out of ironwood that were imported from the southern forests."
+
+I gave a nod, making sure I kept myself hidden deep inside the shadows of a building nearby so I could study the compound's defences. "He has some expensive tastes for someone living in a dying world," I murmured. "Maintaining those formation arrays has to cost a fortune."
+
+"They do," Han Renyi agreed. "Most families can barely even afford to keep basic protective formations running, but Zhou Shentong has at least three distinct layers of them surrounding his compound."
+
+He wasn't exaggerating about that either, even from where I was standing, I could see the distinctive shimmer coming off multiple formation arrays that were layered all over the walls. The patterns on them were interesting too. They looked like what I was used to seeing but there were some differences.
+
+"Azure," I sent my thoughts directly to my inner spirit, "what do you make of these formations?"
+
+"The core principles behind them are derived from standard protective arrays but they have been modified so they can work with the local rouqi," Azure explained. "Do you see how the energy flows are wider and less concentrated?"
+
+I did see it. Back in our world where a formation would have tight channels to let the qi flow, these ones had much broader and rougher pathways. It was trying to compare an engineered canal to a natural river, they both move water but one of them was less refined than the other.
+
+"It isn't just the energy channels that are different," I pointed out, focusing on this one complex section. "The formation patterns themselves are more simplified too. Just look at that ward array there, if we were back in our world, it would have at least twelve interconnected matrices to it, but this one barely has four."
+
+"It was presumably adapted to function using the limited rouqi that is available here," Azure suggested. "Although that kind of oversimplification comes with its own weaknesses..."
+
+He ended up trailing off as we both noticed some movement happening up along the walls.
+
+The guards were busy making their rounds, there were six Rouqin patrolling in this standard overlapping pattern. When I activated my Hawk Eye rune, I could read their energy signatures with clarity, three of them were mid Tier 1 which was the same as being in the fifth stage of Qi Condensation, and the other three were at late Tier 1 so they were comparable to the sixth stage.
+
+"Most of them are former sect disciples who failed to advance any further as the rouqi levels declined," Han Renyi warned me. "They are bitter about it which makes them especially dangerous to deal with."
+
+I could understand feeling that way. There was nothing more dangerous than dealing with somebody who felt the universe decided to cheat them out of their grand destiny. But their deep bitterness led them to work for a guy like Zhou Shentong, so my personal sympathy for them had limits.
+
+"Their patrol pattern is sloppy," I observed, watching this guard arrive at his checkpoint three seconds later than he was supposed to. "They are relying too much on the formations to do the detecting for them."
+
+"Can you blame them?" Han Renyi's voice had this heavy note of bitterness in it too. "Nobody has tried to challenge Zhou Shentong's power for years, so they've all become complacent."
+
+I couldn't stop myself from smiling a bit. "Then I guess it's time for us to wake them up. But first..." I turned my attention back to those glowing formations. "It's time to sabotage."
+
+I crept closer to the wall, studying how the formation arrays were put together.
+
+The very outer layer was a standard alert ward that was designed to notify everybody inside the compound if somebody tried breaking in. The second layer was more interesting to look at as it was this reinforcement array that strengthened the physical structure of the walls and the gates. And then the innermost layer looked to be some type of energy dampening field that was supposed to weaken any hostile techniques that got thrown at the compound.
+
+"That's clever," I murmured. "The dampening field would make it harder for somebody to blast their way from the front door. And in an era where high-level Rouqins are rare, having that is more than enough to deter almost any attacker."
+
+"But not us?" Han Renyi asked me, sounding hopeful.
+
+"Not us," I confirmed. "Whoever originally designed these formations made a classic mistake, they assumed having a large quantity of them could somehow make up for lacking quality."
+
+It was a common error to make in formation design.
+
+People always thought that layering a bunch of simple formations on top of each other would somehow provide better protection than making one good complex one. And sometimes they were right, if you only needed some basic security then having multiple redundant layers could work fine. But when those multiple layers shared the same fundamental weaknesses...
+
+"The energy distribution nodes," Azure pointed them out, highlighting what I had already noticed myself. "They are using the same type of connector across all three of the layers."
+
+Those connectors were the points where the formation energy naturally flowed from one section over to another one, and they were crucial for keeping any array stable. If we were back in our world, a formation master would make sure to use different types of connectors for every single layer, doing that ensured that even if some attacker successfully compromised one of them, the rest of them would stay secure. But out here? They just copied and pasted the same basic design across all three layers.
+
+It was likely due to them not having any access to more advanced formation knowledge or maybe the local rouqi just couldn't support having more complex patterns. Either way, it meant I only had to find one weak point so I could disable their security system.
+
+"Watch and learn," I whispered to Han Renyi as I pulled out the formation testing stone we acquired earlier. "This is going to be fun."
+
+The stone was a simple tool that was meant for novice formation practitioners to use so they could double check their own work, since it could safely inject a tiny amount of energy into an array and then monitor how it responded. It wasn't very useful for real serious formation work, but it was perfect for what I was planning on doing.
+
+I gently placed the stone against the wall at a point where two energy channels intersected with each other. Working with careful precision, I started feeding my own qi into it instead of using the local rouqi, and the stone's surface started flickering with deeply confused patterns as it frantically tried to process the foreign energy.
+
+"Be careful, Master," Azure warned. "If there is too much variance in the energy signature, it could trigger the alert system."
+
+He was right. I needed to somehow match the local energy's frequency while maintaining enough of my spiritual essence's unique properties so it would interfere with the formation's natural flow. It was like trying to play a song in the wrong key but needing to somehow keep the melody recognizable. After a few failed attempts, I found the balance for it. The testing stone's light stabilized down into a nice steady pulse that matched the formation's natural rhythm.
+
+And now came the tricky part. I very slightly twisted my spiritual essence's frequency to create a subtle discord inside the formation's energy pattern. It was like dropping a slightly off-key note into a tuned chord, it wasn't nearly enough to break the music apart, but it was enough to make everything feel a little wrong.
+
+The formation's light flickered almost imperceptibly as the disruption spread itself out across all the connectors. To anybody who was watching the arrays, it would look like nothing more than a minor power fluctuation, which was the kind of thing that happened all the time inside this energy-starved world.
+
+I could feel the change running within the testing stone. The formations were technically active and they were drawing power to maintain their basic patterns, they just weren't quite connected together anymore.
+
+"Did it work?" Han Renyi asked.
+
+I smiled and confidently stepped past the supposedly impenetrable barrier.
+
+The formations' light didn't even flicker.
+
+"It’s like walking through an open door."
+
+"How did you...?"
+
+"The formations are technically running," I explained, pressing myself flat against the inner wall so I could avoid the patrol's line of sight. "They just aren't protecting anything anymore. You should think of it like having a big chain where one link isn't closed all the way, it looks fine until you try putting some pressure on it."
+
+"And the guards won't notice?"
+
+"They won't unless they specifically decide to check the formation's integrity," I assured him. "Which, if I am judging by their sloppy patrol pattern, isn't something they do very often."
+
+Speaking of the guards... I went ahead and activated Hawk Eye again so I could enhance my perception to track their movements. The six Rouqin were lazily maintaining their original patrol pattern, acting blissfully unaware that their primary defense was about as useful as a paper umbrella in a rainstorm now.
+
+"Time to do some pruning," I muttered, which ended up earning me a loud mental groan from Azure due to my terrible plant-based pun. "Let's start off with the weak ones first."
+
+The closest guard to us was one of the mid Tier 1 Rouqin, who was walking about fifty feet away on a route that would take him right behind a large storage building. It was perfect. I waited until he vanished from all his colleagues' view, and then I activated my Shroud rune and Blink Step.
+
+The world blurred away as I covered the huge distance in an instant, reappearing directly behind his back.
+
+Before he could react, Yggy materialized and wrapped itself tightly right on his throat.
+
+The guard frantically tried to struggle against it, but it was futile, it didn't even take a full second before his body went limp.
+
+I carefully lowered his unconscious body down behind a decorative boulder, and I made sure to use a tiny touch of power to naturally encourage some nearby plants to grow over and conceal him better.
+
+That was one down and five more to go.
+
+The second guard proved to be more challenging to deal with.
+
+She was another mid-Tier 1, but this one had better spatial awareness.
+
+Right when I started moving to ambush her, she stopped walking and tilted her head as if she sensed something amiss.
+
+I froze in place. Making a wrong move right now would turn this into a bloodbath.
+
+The guard turned, her hand dropping down to rest right on her weapon.
+
+I could see her eyes scanning the area, her professional paranoia warring against the sheer embarrassment of her possibly just jumping at shadows. And that was when I encouraged a nearby flower to shed one of its petals, which made a tiny sound that drew her attention away for just a tiny fraction of a second.
+
+It was more than enough.
+
+Blink Step put me directly behind her, and this time I decided to use my Leaf Storm rune instead of relying on Yggy.
+
+A dozen of razor-sharp leaves materialized silently in the air.
+
+The guard only had enough time to widen her eyes in shock before the leaves found their marks.
+
+"That’s two down," I thought to myself, hiding her body deep among the large rose bushes that she had just been distracted by. "Four to go."
+
+It was the next guard that almost ruined everything.
