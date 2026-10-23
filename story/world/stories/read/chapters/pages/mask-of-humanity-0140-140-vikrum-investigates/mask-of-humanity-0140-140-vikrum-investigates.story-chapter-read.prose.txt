@@ -1,0 +1,201 @@
+Vikrum considered the terrified prisoner, a member of the group calling themselves the New Start Communists. They had been quite a thorn in the Chosen’s side—and therefore Vikrum’s side—since early on, but recently things had gotten even worse.
+
+This was largely because the New Start Communists were now armed with the same weapons as his people; primitive submachine-guns, shotguns, and pistols. Vikrum didn’t need Cornwall to tell him that these people had access to another Trade Link. But, at the same time, his Chosen had reported that other known groups were also now increasingly becoming armed.
+
+When this had first started he’d assumed it was just their enemies looting guns from his Chosen, but it had become clear that wasn’t the case. Cornwall had provided him a count of how many guns they’d lost, and the numbers didn’t match up.
+
+Vikrum glanced at Borg. The hulking cyborg stood to the side, looming over the prisoner who was tied to a rickety chair. Above the cyborg’s head floated the blue word: Loyal. Ever since Vikrum had changed his policy from forced recruitment to kill-and-take, Borg had been entirely onboard.
+
+In a corner of the room, Gilvine lurked, leaning against the wall, quiet and spiderlike with her spindly-looking but powerful limbs. Above her head floated a red word: Disloyal. She had been disloyal the entire time he’d known her, and in this case the indicator had been a great help to Vikrum. If it hadn’t been for that reveal, he might’ve been convinced by her a few times in the past. Even now, she acted like a loyal general.
+
+He kept a close eye on her, as he did on all with the Disloyal tag. The additional information the Quest showed him had also come in useful during the recruitment phase, as he’d been well aware of who had been truly loyal, and who had been attempting to deceive him.
+
+In Gilvine’s case, she was strong and useful enough that he and Cornwall had agreed it was best to keep her, and pretend to not know about her plots while foiling them at every turn. So long as he could keep her managed by circumnavigating her attempts to oust him, her use outweighed her danger.
+
+Katnin, who as always had the words: Loyal - Pillar, shining above her head, bounced on the balls of her feet on the other side of the prisoner.
+
+‘We gonna get started or what?’ she asked him.
+
+Vikrum refocused. ‘Free his mouth,’ he commanded, and Borg reached out with an overlarge bionic hand, extending a finger. A pincer-like manipulator extended from that finger and gripped the duct tape on the man’s mouth in a surprisingly dainty manner, and Borg stripped it off.
+
+‘You’re going to tell me where you’re getting your weapons,’ Vikrum said to the prisoner.
+
+‘The traders!’ cried the man immediately.
+
+Vikrum frowned. ‘Traders?’
+
+‘This group. They always wear black balaclava’s. We bought guns and other gear from them.’
+
+‘How did they get the guns?’
+
+‘They said they were smuggling them, that they have people here who get the guns for them, undercover.’
+
+Vikrum’s eyes widened. ‘What?!’ he spluttered. Traitors?
+
+‘That’s right!’ said the man, nodding his head desperately
+
+‘Who?’ hissed Vikrum. ‘Give me names!’
+
+‘Uh, I don’t know,’ said the man, blinking. ‘The guy, he just said he had someone in the Chosen, that’s all I know.’
+
+But as the prisoner blabbered, Cornwall was speaking up. There is little evidence to suggest that any within the Chosen are smuggling weapons.
+
+Vikrum paused, looking away from the prisoner. You mean he’s lying?
+
+Analysis of his face, voice, and body show no significant physiological indicators that he is lying, but there is still a low possibility he is. More likely, he was lied to by these Traders.
+
+‘I can go and find these smugglers,’ said Gilvine, her voice a synthetic hiss rising from the corner of the room.
+
+‘You? You stand out a little to be poking around, don’t you?’ said Katnin, arching her eyebrows at Gilvine, then looking to Vikrum. ‘I can hunt them out. Give me command of the mercs and I’ll get it done in a day.’
+
+Vikrum waved them off, focusing on what Cornwall was saying. You’re sure there’s no possibility of a smuggler?
+
+We setup CCTV in the Trade Link since the second day, and I have all the recordings. There were two short periods where the generator issue caused them to cease functioning, both lasting less than thirty minutes, and you will recall we went and checked on the Trade Link both times. I have seen and counted every weapon and drone purchased at the Trade Link. Some have been lost when Chosen died in the field, but this number is comparatively low. We have already seen more guns in the hands of these groups than we have lost.
+
+Vikrum gave a slow nod, thoughtful. ‘No,’ he said, turning to the others. He snorted. ‘There is no smuggler. That was a lie.’
+
+‘Rea-lly?’ drawled Katnin, before leaning close to the prisoner, her mouth by his ear. ‘Very brave of you,’ she hissed, ‘to lie to us.’
+
+The man leaned away from her, cringing. ‘I wasn’t! That’s what they said!’
+
+‘Not him,’ spoke Vikrum. ‘These Traders. They told you a lie. It is not possible that someone could be smuggling from our Trade Link.’
+
+‘Uh, but—‘
+
+‘Tape him,’ Vikrum said to Borg, and the Cyborg plastered the duct-tape back over the prisoners mouth.
+
+Cornwall was already feeding Vikrum its analysis.
+
+There are three likely options. Either the Traders have found another Trade Link, or they are using the same Trade Link as us, or there is an unknown alternative method they are using to procure these items.
+
+Vikrum frowned, immediately focusing on Cornwall’s second option, the possibility which was most upsetting. How could they use my Trade Link?
+
+It is partially buried and we have access to one portion of it. It appears to be very large. Other portions may be revealed elsewhere.
+
+Vikrum nodded, his synthetic features twisting into an ever harsher frown. He strongly disliked the possibility of these Traders making use of his Trade Link. Which do you think is most likely? he asked.
+
+The second; that they have an alternate access point to the same Trade Link we are using. There could also be an alternate Trade Link, but it is unlikely; if they were common, we should have found some by now, and your Quest would have mentioned them as it did this one. As to a third route, too little is known of how this world operates to know.
+
+If we assume they are accessing our Trade Link from another place… what can we do?
+
+There was a brief pause as Cornwall calculated. We need to locate the alternate access point. The mapping software bundled with every human’s Mark will make this easier. I have taken the liberty of creating a few rough diagrams of its likely dimensions once revealed, based on what we can see of it, and so we can know where the other consoles should be.
+
+From there it is just a matter of searching for routes into these points. It would also be advisable to use any available sonar devises to scan the collapse; both to provide data in order to further verify its estimated size and shape, and to attempt to locate the alternate access point. However, depending on size and composition of the collapse and how far away any alternative access points are, this may not be possible. Furthermore, the Trade Link is very large, and this castle has a nonsensical design; the search for an alternative access point would be slow and require significant manpower.
+
+Could we just mine through?
+
+It is possible using power tools available from the Trade Link, but it would take significant time and effort, and such an operation might also be detected due to the noise and vibrations it would cause. Ideally we would utilise a small, quiet mining and construction bot, such as a tube-builder, but none such is available from your current Markets.
+
+Vikrum considered. Sonar and search parties it would be. First things first, he needed to know what his enemies looked like. His eyes moved to the prisoner. He gestured and Borg removed the tape. Vikrum leaned forward and gripped the prisoner by his chin, composite fingers digging into the man’s cheeks.
+
+‘You recorded it, didn’t you? When you met the Traders. Send me that recording.’
+
+The man didn’t resist, his eyes unfocusing for a moment, and Vikrum allowed the Local connection.
+
+Moments later he, Cornwall, and everyone else (for he had copied and sent the recording to the other three in the room) were watching the prisoner’s view of his interaction with the Traders.
+
+A group of six individuals. They were well equipped with Trade Link gear, bearing a close resemblance to his Chosen. They were on one side of a large room. Two were on a balcony on the left, another two on a balcony on the right, and then the last two stood on the ground.
+
+Vikrum watched from the prisoners point-of-view, which was to the back of the room, as the Communists leader alongside her two lieutenants—he recognised all of them from his people’s encounters with this group—went and met the Traders.
+
+He absorbed it silently, and his focus came to rest on a man who was doing all the talking with the Communists leader. Vikrum couldn’t see the man’s features, hidden as they were under a black balaclava, but even so there was something familiar about him.
+
+We have seen this individual before, Cornwall informed him.
+
+Details?
+
+After observing his physical dimensions, body tells, and some of his equipment, I have ran a full analysis. Your people have encountered him numerous times. He has caused problems. Please watch this footage, I believe it shows the first encounter of one of your people with him.
+
+Vikrum’s eyes were filled by a new recording, one he quickly recognised. It belonged to a young man who was firmly Loyal but quite useless, since after the event shown in the footage, where almost an entire squad had been wiped out, the boy had been too afraid to go out and contribute. Vikrum hadn’t had the heart to force him.
+
+He watched as a bloodstained figure—a Raw, by all accounts—fought and killed six of his Chosen in a corridor, wielding a polearm. The man moved with skill and savagery no Raw should possess, fighting like someone possessed. The footage ended with the POV locked onto the man, as the boy stumbled back away from the advancing figure who wore a hideous, bloodstained grin.
+
+The video changed to another. Now he saw out the eyes of one who had died, one of Vikrum’s field leaders who had taken a larger group to one of the areas where they’d found quite a few recruits; though there had been some difficult undead patrols there. This man’s POV showed him opening one of the hidden tunnels’ exits, and as it opened, someone came into view.
+
+The same man, who stared with a blank expression at the point-of-view. There was an arrow in his arm. The man who was about to die spoke some words, which were ignored by the man who suddenly lunged forward and stabbed out, and Vikrum experienced the unpleasant first person view of having a knife stabbed into his chest. Cornwall froze the replay as the attacker was right up close, features twisted in a familiar, savage grin, giving Vikrum a good look at him.
+
+The next recording came. This had been from a little later, after they’d dug free the route to the Trade Link and Vikrum had begun arming his people. Now he saw a few scattered scenes, two men fleeing. One of them, he knew well. Jonah, an individual who had joined and showed some potential. He was currently Undecided, and if that didn’t change soon, Vikrum would have to see about doing something about him; him and the rest of the Undecided.
+
+The other running man was who Vikrum focused on. The footage switched through different POVs, but each was distant and jerky, as his people chased. In the end, they lost the pair somewhere in the area.
+
+Finally, one last recording.
+
+It was the moment Jonah had been captured, some days later. Jonah had been with an individual who had caused trouble, killed some of Vikrum’s people. The field leader of the group that captured Jonah had made note of the man in his report.
+
+Guy had a shimmer poncho, and one of those Imbued, I think. He blocked bullets. We clipped him at the end, though. He was bleeding bad, saw the blood on the ground. He got away but I doubt he’ll survive. No one we need to worry about. I think it’s worth having a look and trying to find his body, a shimmer poncho would be nice to have. We searched around but he vanished at that spot. Thinking back, I think he might’ve somehow climbed up to one of the balconies above, they weren’t far up, but I don’t understand how he could’ve made the climb in the time he had.
+
+Vikrum observed the lieutenants point-of-view, seeing the man in the shimmer poncho; the same man as always, but better equipped than ever. This was the best video of all; lengthy, no jerky movement, everyone up close and talking.
+
+The Trader was standing there looking slumped and miserable and dispirited. He perked up a little when Vikrum’s man drew closer. This lieutenant, Jakrum, was one of Vikrum’s more aggressive people. He was someone Vikrum had had to curb a couple of times, but in this instance he was glad the Trader had encountered him. He deserved it.
+
+‘I’m not sure your leader can afford me,’ the Trader said in the recording, and Vikrum narrowed his eyes. The Trader now stood in stark contrast to the miserable looking Johan; he held himself with silent confidence, a lack of fear.
+
+Vikrum smiled as Jakrum slammed the butt of his shotgun into the man’s stomach and the show of force was broken, sinking to a knee, gasping and spluttering. When he next looked up at Jakrum, there was fear and worry in his eyes, and he looked quickly away.
+
+Not looking so confident now, Vikrum thought with satisfaction. This guy wasn’t anything to get too worried about. Though, he couldn’t quite remember how the man had gotten away, hadn’t paid too much attention to the report at the time nor watched the video, he’d just glanced it over. He’d been busy dealing with Gilvine. He was curious to see what transpired.
+
+No, said Cornwall, pausing the video before it could continue. It’s a trick. He deceived Jakrum. Look.
+
+Cornwall played the moment again, now greatly slowed down, and drew Vikrum’s attention to certain details.
+
+He has tensed his core in preparation for receiving the blow. He knew it was coming, he read Jakrum’s intent. The shotgun butt sailed toward the Trader leader’s stomach and impacted. Now in slow-motion, Vikrum saw more. He saw the man’s controlled features and what had previously looked like a pained gasp, was now a simple outdrawn breath. Now, the way the man stumbled and staggered was a calculated step back to reduce the force of the blow.
+
+Vikrum frowned. He knows exactly what he’s doing. He’s been in this sort of situation before.
+
+He has significant experience, Cornwall agreed. It is very odd that a Raw should be so capable.
+
+He watched carefully from that moment, he and Cornwall slowing the video down at the times to see more little moments, little signs. The man acted afraid, and he acted weak, but all the time his eyes were moving and Cornwall said his positioning was flawless.
+
+Vikrum frowned as he saw all of his Chosen coming together into one group, chatting and relaxing, carefree. Previously he’d seen this as simple stupidity on the part of Jakrum, and had punished the man after the event. But now he understood better; it hadn’t been entirely Jakrum’s fault. Jakrum had been tricked. The Trader leader truly did look like no threat; a weak and dispirited man who would put up no fight.
+
+He watched as the moment approached, two men moving to seize the man. He needs a new name, he thought distantly, tired of thinking of him as the Trader. Viper, he decided. The man reminded him of a snake. Sneaky. Dangerous. Untrustworthy.
+
+Viper seemed defeated as the two men approached, but in slow motion Vikrum noticed more. Noticed how the man had his hands loose and ready. Noticed how his eyes, faintly visible, were flicking about. Noticed, even, the flash of a familiar hungry grin; quickly hidden.
+
+One of Vikrum’s men approached him from behind, and that was when Viper acted. He dodged to the side and in a movement so smooth and practised it looked like he’d done it a hundred times before, cracked the man in the face, seized his SMG from where it hung on his chest, turned, and fired.
+
+The recording then became more fractured and confused, as Jakrum—the POV—dove for cover and struggled to return fire. By the time Jakrum had collected himself, Viper was already disappearing into the exit. Jakrum got one good shot off with the shotgun, and that was followed up by another Chosen beside him with a submachine-gun. Vikrum faintly made out Viper’s shield—some kind of Imbued—breaking, and he took some shots in the side.
+
+Then the pursuit, where Viper slowed them down by shooting at a drone then taking some potshots at them, causing the group to hesitate at the exit. By the time they pushed through and arrived outside, Viper was gone, but he’d left quite a lot of his blood behind, on the walls and floor.
+
+They’d thought Viper must be dead, but Vikrum now knew that was not the case. No, instead of dying he’d gone on and become even stronger and more capable, gained a group of people who did his bidding, and now he’d become a major thorn in Vikrum’s side. He was at the centre of it all, arming hostile groups against Vikrum and his Chosen, one by one.
+
+In each encounter he’d seemed just some random, vicious Raw, dangerous in a fight, perhaps, at least against Vikrum’s less capable people, but of no serious concern. All the while, he’d been quietly working away, a little fly that Vikrum simply hadn’t seen any reason to bother with. But now that fly had become a snake, striking at random, whispering poison into the ears of the groups in this place, giving them weapons to use on Vikrum’s people.
+
+It had been a mistake to ignore him.
+
+Vikrum’s teeth clenched, calling up a still image he’d saved. Viper’s face, twisted into a bloodthirsty grin as he lunged forward to bury a dagger in one of Vikrum’s people. This is my enemy. A villain.
+
+Vikrum was the hero of this story. He’d always known it and the Quest had only confirmed it. It was his duty to save humanity, to lead them through this world. But amongst humanity there were dangerous, treacherous elements, such as Viper. Elements that needed to be purged.
+
+It was only right that the hero be the one to put such villains down.
+
+‘This man will be known as Viper,’ said Vikrum, his eyes snapping open as he looked upon the others and sent out a datapack to them.
+
+‘Viper?’ asked Katnin, blinking at him. Her eyes turned dull as she looked at the images he’d sent. ‘I guess it kind of fits. Why?’
+
+‘Because he is a snake, I’ve seen more than enough footage to know that.’ He recalled a line from some movie he’d seen years ago, and spoke again. ‘When you find a snake in your bed, what do you do?’
+
+Katnin frowned. confused, then glanced at Borg. The cyborg just shrugged at her. ‘There are no snakes, nowadays,’ she said, looking back to Vikrum.
+
+‘I would make it my pet,’ rumbled Borg. ‘I like snakes.’
+
+Vikrum sighed, rubbing at his face. ‘The answer is: you kill the snake. And that is what we will do.’
+
+He called in more of his people, more than a dozen individuals, the leaders of various bands, Jakrum amongst them. Everyone important was present, except for four of Vikrum’s elites. The four Cyborgs, lower-level versions of Borg who operated as a team—mercenaries who were loyal for now—were off doing a job for Vikrum; taking care of a troublesome group the home of which he had recently located.
+
+Vikrum sent over the datapacket containing all relevant information to the crowd gathered before him. ‘Search out this man and his people. These Traders. It is our highest priority. Second to that, we will begin a search of this area…’
+
+Vikrum went over to explain his plans for finding any additional entrances to the Trade Link. He also made note to see what could be done to search through the collapse, but he hoped that none of that would be necessary. He suspected it would be a slow process unlikely to bear fruit.
+
+From what he’d gathered, the best, easiest, and most likely to succeed route was simply finding Viper.
+
+If they found Viper, they would find the Trade Link. Whether that was in fact an alternative access point to what Vikrum considered his Trade Link, or a second Trade Link, it wouldn’t matter. If they found Viper, they would find wherever he was buying weapons, too, and put a stop the matter at the source.
+
+When they did find him, Vikrum would also see about ending Viper as a threat. He hoped to do so personally.
+
+All that done, he waited for his lieutenants to leave then instructed Borg to deal with the prisoner, quietly, and then throw the corpse off the edge; a command he’d been giving often, these days.
+
+Those Disloyal who had proven unconvinceable had all experienced that same drop from the edge of the castle to the jungle far, far, below. Vikrum had tried to keep himself out of the matter. It was easier to see it done when he didn’t have to see it done. Cornwall had told him it was the only right move, anyway. If he’d just let them leave they’d only have gone and joined the other groups out there, and come back in time to attack him.
+
+He was the Hero. Those who refused to work with him, who struck at him, were therefore striking against all of humanity. That could not be allowed.
