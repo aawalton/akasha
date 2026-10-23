@@ -1,0 +1,353 @@
+William Oh has only been sick once in his life.
+
+It came to pass after a terrible battle in which he sustained multiple life-threatening injuries and had spent the night sleeping in the wilderness, his wounds exposed to the dirt and grime of the forest floor.
+
+When he awoke the next morning, William Oh groggily blinked his eyes at the morning sun and lamented the illness that had developed overnight.
+
+‘Im so sick of winning all the time.’ He groaned, his wounds already healed.
+
+True Story.
+
+Will was lying on his side, waiting for the nausea to pass when he heard crunching footsteps approaching.
+
+“How’d the wedding go?” Loth asked, squatting down beside him.
+
+“Danced with the Rotwitch.” Will coughed.
+
+“That bad, huh?”
+
+“Not bad at all really. Kinda tingly. We just had to cut the reception short because an abomination showed up, stole a matching Climber and set, and it’s all hands on deck now.”
+
+“How long ago?” Loth asked.
+
+“Only an hour or so,” Will muttered, pushing himself to his feet as the nausea passed.
+
+“What’s the plan?” Loth asked.
+
+“Any Lord potentially in his path is going to lock him down and request backup, then we’ll kick the crap out of him.”
+
+“Who gets the set once it’s dead?” Loth asked.
+
+Will glanced up at Loth with a raised brow.
+
+“Ah shit, it’s gonna be a bloodbath,” Will muttered.
+
+As soon as the threat of city-ending infestations was past, the remaining Lords would immediately fight over the unclaimed set.
+
+Fabron sure as Abyss wasn’t going to claim it.
+
+Is that why they sent representatives from both factions ? Will assumed it was just to ‘watch’ each other, but there was an extra layer to it.
+
+They left Will to his own devices because…either they thought he was neutral or they didn’t think he would win, merely buy time.
+
+Will thought back to the fae he’d managed to destabilize, glancing back down at his truncated arm.
+
+I need to be able to disrupt Miasmatic Structures without shoving my hand in a furnace to do it. And I think I have an idea for how I can make that happen.
+
+“I’m going to go my tower to practice something.” Will said. “I should see him coming from twelve miles away if he attacks, but he’s also got minions that I might not see coming. Put everyone on high alert.”
+
+“Alright.” Loth said, nodding, gesturing for Brianna to follow her.
+
+I know a good way to determine if Void is on this Floor, Will thought, opening his Lord menu and selecting ‘Issue Bounty’
+
+If he’s on this Floor, I should be able to issue a Lockdown Bounty. If it goes through he’s here. Or at least his body is.
+
+Issue Lockdown Bounty (11,000) Influence?
+
+Yes
+
+Enter target name, alias and/or description.
+
+________
+
+Oh right, what was Void’s name again?
+
+***Vincent Duncan***
+
+Vincent Duncan
+
+Vile Word Level 62
+
+62 + 22  Strength
+
+124 + 72 Resistance
+
+62+ 27 Kinesthetics
+
+124 + 82 Acuity
+
+248 + 135 Focus
+
+Charges: 359/383
+
+Free Points: 0
+
+Primary Abilities (Maxed): Seize Undead***, Grave Commander***, Necrotic Balm***
+
+Secondary Abilities: Unliving One**, Necrotic Conduit**
+
+Tertiary Abilities: Cannibalize, Withering Word.
+
+Void opened the next Ability, studying it’s effect on his Build.
+
+Necrotic Conduit**
+
+Damage dealt to you is redistributed among Undead you control.
+
+Buffs you receive are copied to undead you control.
+
+Healing you receive is copied to undead you control.
+
+Potency Scales with Focus
+
+…
+
+Unliving One**
+
+The need to breath, sleep and eat are greatly diminished. Bleeding and poison damage greatly reduced. You are considered Undead to Abilities. You may extend this property to objects at will.
+
+Scales with Focus
+
+Void frowned, cocking his head.
+
+Why would I want to make objects count as undead? There had to have been a reason he had done that, but there was no one to ask.
+
+It always took several months before his proficiency with a Build reached the same as its original owner, if ever.
+
+Unless that original owner was particularly stupid, which had happened before, but it didn’t seem like Void was one of those types.
+
+The hosts had their whole careers to figure out all the best tricks baked into their Build and master them, gradually adjusting as each new ingredient was added to the pot that was their Build, coming up with their own unique techniques, exploits, and cantrips.
+
+Jumping into this body at full strength without first studying it in depth was a surefire way to lose some of their carefully crafted techniques forever.
+
+Shame.
+
+Pure support build. He doesn’t even have any capacity to make his own undead, Void thought, inspecting the scythe he’d been wielding.
+
+Howling Scythe
+
++5 Strength
+
++4 resistance
+
++ 8 Acuity
+
++14 Focus
+
+Grave Howl: 15 Charge.
+
+Unleash a necrotic AOE centered on the wielder, scaling with Acuity. Any enemy killed by this attack becomes an Undead under their control. Each undead created in this way imposes a 10-point penalty to Focus until it is destroyed or dismissed.
+
+These undead are simple zombies. They have strength and speed similar to what they had in life, but do not retain any Abilities, skills or knowledge.
+
+Hmm…
+
+Void glanced at the secondary band on his left hand. It wasn’t quite as ostentatious as the Signet of the Burning Court on his right hand, but it was pretty, with a simple band of fire opal set in the center of the ring.
+
+Ring of the Flaming Scourge
+
++4 Strength
+
++4 Kinesthetics
+
++12 Resistance
+
++15 Focus
+
++12 Acuity
+
+35% potency of Necromancer Archetype Abilities.
+
+Reduces Focus cost to maintain Undead minions by 30% each, rounded down. Cannot lower the Focus cost below 1.
+
+Undead under your control gain a flame aura while in combat. Scales with Focus.
+
+Modified ring of the Undead Horde. Percentage instead of flat reduction. Would defray the cost of the scythe by 3 points per undead. The benefit would increase the more powerful the undead I was planning on controlling.
+
+Ohhh…
+
+There’s a cost-benefit issue at the heart of necromancy isn’t there?
+
+Many Necromancer Abilities scaled with Focus. If he were to gain control of a massive horde, he would have to accept a large penalty to his Focus, which would in turn drastically reduce the strength of his passives, which would reduce the strength of his individual undead.
+
+A balancing act.
+
+Although…
+
+Since Unliving One made him count as an undead, and Grave Commander provided massive passive buffs to undead ‘under his control’ Void would be willing to bet that all of his passive buffs and healing effects from Necrotic Balm applied to himself.
+
+The scythe might’ve just been for situations where he simply needed extra hands, not a primary feature of his Build. A red-herring.
+
+Am I actually a simple Warrior Build using necromantic self-buffing as a way to recreate a self-healing berserker? Void thought.
+
+“May I ask my master his thoughts?” Aria asked, her eyes downcast.
+
+“I’m acquainting myself…with my self.” Void said, glancing back down at her. He was taller now. He could make out the crown of her head through the silver hair.
+
+He could feel the power radiating off of her. Aria was not a combatant by any means, and yet with Void’s passives coursing through her, Void could picture her single-handedly slaying a Lord and burning their Stronghold to ash.
+
+She was definitely an undead ‘under his control’.
+
+Best of all, the mysterious unspoken cost of maintaining these ‘free’ fae undead was being defrayed by either Necrotic Conduit or Unliving One, because Void’s body felt no strain, even with all seven of them summoned.
+
+Either it counts as a form of poison or biological toll that Unliving One is negating, or it counts as a form of damage that I’m simply rerouting back to them with Conduit. In either case, it means I’ll be able to use them, and this body, indefinitely. I don’t even have to feed it.
+
+What a find.
+
+Void had always found eating and shitting to be an icky waste of time, solely necessary to maintain the body and keep up the façade around those panicky Hosts.
+
+“Master…what do we call you?” Aria asked.
+
+“Mm? call me Void.” Void replied. “I don’t really like ‘Vincent’”
+
+Although, since I’m not wearing the void mask anymore in favor of a gaudy crown…perhaps Vincent is more fitting. Hah.
+
+“I mean…what do we call you?”
+
+Vincent stared at Aria, watching the fae curl inwards and slowly shy away from him. Strange.
+
+I never abused them, I just ran some simple tests.
+
+“Actually…call me Vincent. Names are only as good as the clothes and body they come with.”
+
+“Yes…master.”
+
+“Why did you ask that question if you were gonna…nevermind. When referring to me to others and amongst yourselves, you will call me Vincent. Understood?”
+
+“Yes, master.” Aria said, staring at the ground.
+
+These undead are so irrationally emotional. Vincent had never had to deal with summons with their own independent minds before. It was a new experience, and it was uniquely irksome to his sensibilities to have a thinking being know what he was and not have killed them already.
+
+To put it like a Climber might. It felt like being caught naked at their…youngling initiation building…or whatever it was called.
+
+Oh right. School.
+
+Vincent dreaded hosts talking about their ‘childhoods’, because there was some unwritten rule that as soon as they finished, he was obligated to tell them about his. Which led to opportunities for the hosts to pick up on discrepancies and uncover his identity.
+
+Perhaps it was some kind of instinctive imposter-catching behavior developed to protect against creatures like Vincent.
+
+Wow, Terry, you’ve never had ice cream before? That’s unusual…
+
+You know, Ray, I’ve been to that village before and I don’t remember…
+
+Vincent shuddered. He had since learned to keep his backstory vague. Any body that he didn’t know the background of, he would give a sanitized version of his own.
+
+Never know my parents. Escaped a genocide when I was young, moved around a lot since then. Proceed to stay quiet and stare into the distance.
+
+Strangely enough, his actual story often gained more sympathy and back-pats than made-up childhoods designed to ‘fit in’.
+
+Hosts. Go figure.
+
+Vincent shook the thought off and turned his attention to the rest of his new set, carefully studying each piece of the puzzle, sorting through which ones synergized the best with his build. It wasn’t 100% but most of them were pretty good for his Build.
+
+Signet of the Burning Court
+
++4 Strength
+
++4 Kinesthetics
+
++12 Resistance
+
++15 Focus
+
++12 Acuity
+
++30% Fire Damage
+
+Fire Abilities will not damage Party members.
+
+Whenever an enemy is killed by fire, necromantic Abilities and minions gain potency until the end of battle or an hour passes. Scales with Focus
+
+Okay, if everything gets converted to irresistible fire damage, this will pop off a lot…but only in large battles where lots of things are dying. Great when your back’s to the wall, not great against singletons.
+
+Fire damage not hurting party members is always good. I may have quite a few of those soon enough.
+
+Next.
+
+Tempered Resolve
+
++4 Strength
+
++4 Kinesthetics
+
++12 Resistance
+
++15 Focus
+
++12 Acuity
+
+When undead under the user’s control are damaged, they gain a tiny amount of effective Resistance. This effect persists until the undead or Tempered Resolve are destroyed.
+
+I like that. Since I can heal Undead, I can accumulate effective Resistance, making them tougher the longer they stay out. Tempered indeed.
+
+Heart Of Faefire
+
++20 Resistance
+
++20 Focus
+
++50% Fire Ability Potency
+
+Whenever the wearer enters a new combat encounter, they receive a 6-Charge buffer to spend on Fire Abilities.
+
+Your heart burns with vengeance.
+
+The first one I really don’t have any use for, as I have no fire Abilities. The Focus is nice, though.
+
+What does ‘your heart burns with vengeance’ even mean? Vincent thought to himself. his heart didn’t burn with anything. Was it a metaphor? Was it some kind of hidden activation clause? He had no idea.
+
+I’m sure I’ll figure it out later. No sense worrying about it now, he thought, moving on to the next.
+
+Crown of the Burning Court
+
++8 Resistance
+
++25 Focus
+
++10 Acuity
+
++30% potency to Fire and Necromantic Abilities.
+
+Debt may be transferred between minions and the wielder.
+
+Aura of Authority:
+
+28 Focus, Toggleable
+
+Creates a zone of Faewild Miasma around the wielder and a lesser one around any minions. This allows Debt to be accrued outside the 9th Floor.
+
+Radius scales with Focus.
+
+This one I can use. The potency bonus is nice, and the Debt effect could be useful for making deals with hosts, even indirectly. Vincent had been to the ninth Floor before, and the effect of Debt was nothing to scoff at.
+
+Vulcanic Rebuke
+
++10 Strength
+
++10 Kinesthetics
+
++15 Resistance
+
++8 Focus
+
++8 Acuity
+
+After blocking an attack, Wielder’s attacks gains range, speed, and damage. Scales with Kinesthetics.
+
+Pretty basic. Good spread of stats. I’m hoping that Necrotic Conduit allows this buff to spread to my minions.
+
+And the set bonus…
+
+Burning Court Set Bonuses:
+
+Half of potential damage dealt by the user is automatically converted to fire damage. Fire damage may burn Eidolons, Debt and Contracts. (2 items)
+
+Cannibalize creates a fiery explosion centered on the sacrificed minion, and is now automatically cast on minions when they die. Enemies killed by Cannibalize are revived as undead under the user’s control.  (4 items)
+
+Fire damage ignores a portion of enemy Resistance. Scales with Focus. Gain the service of the Burning Court. (6 Items)
+
+…Yeah, I’ve got some ideas for how to work with this.
+
+“Bring me some test subjects.” Vincent said, causing Aria to shudder beside him.
+
+“Right away, Master.” She said, bowing.
