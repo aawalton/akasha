@@ -1,0 +1,231 @@
+Aurelian huffed out a breath when he completed his three hundredth burpee, and promptly threw his hands behind his head to catch his breath. His lungs heaved for oxygen while he tapped into his Breath Control, and absently read over his gains. The second sixteen hour period following his lapse in consciousness had been no less brutal, and Tarixi had pushed him to train his endurance even while his health had been regenerating. It turned out that a stasis-locked Dragon made for an excellent target to sprint laps around, and Aurelian had done them until he could barely walk.
+
+And then, in keeping with Tarixi’s standard practise, had done them again.
+
+His character sheet populated as he ruminated on his sadistic trainer’s smug expression, and he read over his improvements.
+
+Name: Aurelian Lucis Imperius
+
+Temper: Untempered (Purified Novitiate)
+
+Core: Calamity Core (Ignition Stage)
+
+Level: 18 | Race: Elysean (L) | Origin: Nephilim (L) | Gender: Male | Zodiac: Dragon (L)
+
+Health: 570 | Mana: 186 | Stamina: 150
+
+STR: 59 | AGI: 48 | DEX: 45 | VIT: 57 | END: 31 | INT: 40 | PER: 23 | WIL: 70 | CHA: 24
+
+Mind Skills: Revelate (E) 9 | Linguistics (UC) 1 | Philology (R) 5 | Exploration (UC) 8 | Investigation (UC) 6 | Iron Will (R) 21 | Tactician (R) 9 | Deception (UC) 4
+
+Body Skills: Pain Tolerance (UC) 24 | Longsword Mastery (C) 23 | Running (C) 22 | Dodge (C) 22 | Durable (UC) 21 | Brawling (C) 21 | Fire Resistance (UC) 17 | Lightning Resistance 11 (UC) | Ice Resistance 9 (UC) | Breath Control (UC) 18 | Acrobatics (UC) 17
+
+Spirit Skills: Mana Control (R) 20 | Firebolt (UC) 19 | Shockbolt (UC) 14
+
+Traits: Fast Learner (E)
+
+Titles: Elysean Reclaimer (U) | Survivor (R)
+
+Languages: Common | Elysean | Draconic
+
+62% to Level 19
+
+You have 18 Skill Points Available!
+
+You have 3 Skill Evolution Points Available!
+
+He had shown improvement across the board, especially where his Skills were concerned, and had even managed to extort another point in Vitality from his consistent, and brutal form of engagement against the different creatures Tarixi had simulated. His Brawling skill, one he learned from the training itself, had also increased exponentially and the Goblin had been forced to start bringing out near-Adept tier enemies just to help him force through skill improvements and incrementally increase his attributes.
+
+He still found the lack of actual experience from killing Simulacrums mildly infuriating, but the reality of what the device offered in terms of raising his skills had been enough of a boon that he’d found no serious reason to complain outside of the occasional gripe. The increase to his endurance remained the most prodigious gain, likely thanks to how viciously he’d been pushing himself to grow and how creative Tarixi’s tactics had forced him to become.
+
+The ever-varied and more convoluted forms of enemies had even pushed his Tactician skill to the cusp of Novice tier, which Tarixi had stated was quite impressive given the rarity category of the ability. It seemed that, unlike abilities like Mana Control where combat was less essential and more additive; Tactician truly needed almost life-threatening or perhaps truly life-threatening engagements to increase with any reliability. She had been uncertain, by her own admission, due in large part to never having needed to level the skill herself.
+
+Plus, the negatives that came with the Skill Limit Penalty had applied to her.
+
+He had asked her about the effects of the penalty, and she had summed it up for him concisely.
+
+“Each person is permitted fifteen common skills, ten uncommon skills, five rare skills, three epic skills, and one legendary skill at or above their current Tempering tier per their Mind, Body, and Spirit categories. Any skills levelled to or beyond their active Tempering tier after this limit is reached will incur a rapidly increasing experience penalty, up to the point where their progress on any skill becomes essentially deadlocked. The limit on each category doubles at Specialist tier, and again at Grandmaster… but few if any people reach the latter regardless.”
+
+“That’s… rough,” he’d responded in surprise. “So, what do people do if they go over the limit without wanting to?”
+
+Her reply had been given with a look of grim severity, and he’d immediately had the feeling she was speaking from personal experience when she answered. “They select a skill, existing or new, and disable it. It is… not a pleasant experience, and can have complications if done improperly… but it is largely irrelevant to the person after the fact, as long as they avoid trying to use the specific Skill again.”
+
+“What happens if they try to use it afterward?” He’d asked with wary interest.
+
+“Pain.” Tarixi had replied flatly. “A large amount of pain. The System does not like that sort of violation of its voluntarily imposed locks.”
+
+“Can a disabled skill be re-enabled?” He’d ask more out of concern for if the same occurred with him.
+
+“It can,” she’d stated in a reserved tone, “but not without cost.”
+
+He had taken that seriously.
+
+Aurelian glanced up at the timer he’d added beneath his clock in his HUD, that showed a permanent countdown—adjusted and maintained by the System—for when the undead were expected to breach the defences of the hidden chamber.
+
+It was sitting at eighty-one hours and thirty-three minutes, but Aurelian wasn’t inclined to trust it implicitly. It could drop at any moment, and knowing his luck and the consistent theme of his time up to that point in the Realms, it very likely would.
+
+“Are you done daydreaming?”
+
+Tarixi’s voice cleanly shattered his moment of quiet introspection, and Aurelian turned to give her a chagrined smile in response after checking his stamina was, in fact, full. “Yeah. Sorry. I was just thinking about how lucky I am to not have to worry about the Skill Limit Penalty.”
+
+Tarixi snorted in derision and floated towards him in that same, air-walking manner she preferred. “That is an understatement, but at least you acknowledge the ridiculousness of your existence. Many would kill to have your advantages—many already have, in fact. In this age or previous ones, greed has ever been a constant.”
+
+“Where I’m from too,” he confirmed with a nod. “People have nearly destroyed my—my former home over personal greed,” he said with a quick recovery.
+
+He’d almost said ‘my home’ instead of former home.
+
+Despite resolving himself to his new life in the Realms, and the solidification of his ‘Aurelian’ identity, as well as loving the way he could improve himself, he’d have been lying if he said he’d moved on just like that.
+
+Thoughts of his family still plagued him, and more than that he—grrrghl.
+
+“What in the gods’ name was that?” Tarixi demanded.
+
+Aurelian looked around in confusion himself, until he realised belatedly that the noise had come from him. Specifically from his stomach, and that despite the meditation techniques Tarixi had taught him.
+
+He glanced at his HUD and turned his attention to his status conditions to search for an answer. When he found the answer, and quickly at that, he almost laughed if not for the fact he had no solution as to how to solve it.
+
+Condition: Starvation (Mild)
+
+-15% Health Regeneration for Duration
+
+-15% Stamina Regeneration for Duration
+
+“It looks like being a person finally caught up to me,” Aurelian said wryly. “My HUD says I’m starving.”
+
+Tarixi’s sigh was both audible and heavy when it came, and the Echo rubbed her spectral face with her hands. “Of course this would happen now of all times. I take it you have used at least one health potion since arriving here?”
+
+“Yeah. So?” Aurelian replied with a questioning look.
+
+“It is why the meditation didn’t stave it off, most likely. Your recent intensive training probably accelerated the issue, too. Health potions have some moderate ability to ward off hunger and supply the body with the natural nutrients and proteins it needs to function, but they also massively stimulate the metabolism after consumption. It’s part of their own unique brand of effective restoration, mixed with bodily interaction. You’re going to need proper food—especially when you have the fight of your life coming up…”
+
+“So, what do we do?” Aurelian asked as the goblin trailed off, and watched as she furrowed her brows in thought, and stared at the gargantuan dragon beside them in silence.
+
+“Something unpleasant,” she muttered. “But necessary.”
+
+“Why do I feel like I will hate this?” he asked warily.
+
+“Because I will hate this.” Tarixi responded grimly. “But it must be done. It’s time, Aurelian. You need to release Bael’tharax from stasis.”
+
+Aurelian stared at her long and hard for a solid twenty seconds before he could muster up the ability to speak. “I’m sorry, you want me to fucking what now?”
+
+“Awaken the Dragon King,” she repeated with a hint of impatience.
+
+“And do what? Ask him for a fillet? Sneak a piece off the tail? Yeah, I’m sure that would go over well,” he began heatedly. “Excuse me mister ancient powerful fucking leviathan sir, would you mind terribly if I cooked myself a bit of dragon steak? Your ribcage just looks fucking delightful!”
+
+Tarixi watched him impassively as he went through his sarcastic diatribe, and waited until he was finished and still glaring at her before speaking. “Are you done?”
+
+“Am I d—? I am not eating the fucking Dragon King!”
+
+“Fool boy,” Tarixi said with a dismissive sniff. “Nobody is asking you to. If you are quite finished being hysterical, however, I would be glad to explain.”
+
+Aurelian glared at her for another long moment as he processed her words, and almost shot out another venomous bit of sarcasm—it was very tempting—before biting his tongue and nodding his head.
+
+It was not guilt that stopped him that time, of course. It was the realisation that his overreaction had been largely based in fear, even with Iron Will active.
+
+Bael’tharax still terrified some small, primal part of him that only saw a very, very, very large reptile with teeth longer than he was tall.
+
+“Thank you,” she said primly before launching into her explanation. “Bael’tharax is extremely powerful, more than most creatures that will ever exist; and part of his ability is that he can transmute energy. In simpler terms this is called alchemy, though the term also correlates to the interaction between specific items, precipitants, catalysts, emulsifiers and—” She cleared her throat and paused for a moment.
+
+After a visible mental reset, the Echo continued. “Suffice it to say that Bael’tharax could in theory provide you with a means to feed yourself while also helping you grow stronger, if he does what I suspect he might when he learns of our situation. The problem…”
+
+She sighed. “The problem is that the Dragon King is a very… Shall we say, ah, proud creature and the pernicious effect of learning that a Novice—even a Nephilim!—is his only hope for not becoming one of the undead…”
+
+Tarixi sighed and looked at the frozen form of the colossal creature.
+
+“He will be embarrassed, and wish to show his power. Since the artefact used by Justinian makes that largely implausible, he will instead attempt to accelerate your growth himself. You should be ready for that. Bael’tharax is stubborn, insistent, and disinclined towards being ignored. He is—”
+
+“A grandpa.” Aurelian realised in stunned disbelief. “The dragon king is a grumpy old man.”
+
+“I would not say—”
+
+“Ha! That’s hilarious. Here I am terrified of Godzilla’s meaner brother over there, and he’s basically just a pissed off grandpa that wishes he could put the beatdown on the hooligans trashing his lawn. Holy shit, that’s amazing.” Even as he spoke Aurelian felt the fear of Bael’tharax eroding.
+
+It was by no means a sudden and miraculous balm on his soul-deep terror for the creature’s sheer magnitude or power, but something about imagining a gigantic, sulky dragon wanting to kick those ‘darn no-goodun undead hooligans’ out of his ‘yard’ released a knot of tension within Aurelian.
+
+“And you’re sure this is the only way? It seems a bit wasteful to accelerate his demise for some food.”
+
+“Unless you wish to brave the Palace looking for food stores that are very likely corroded or inaccessible, while suffering what I assume is a debuff to your most important resources?”
+
+Aurelian had no answer for that, and cleared his throat.
+
+“Alright. Cool. Let’s do this. I just select ‘end stasis’?”
+
+Tarixi stared at him for a long moment in open bewilderment, her expression shifting between perplexed and bemused before settling on what seemed to be a mix between baffled and accepting.
+
+“Yes,” she said once she’d recovered enough to speak, “you simply open the System interface, find where it asks if you’d like to remove the Stasis Field, and confirm that you wish to.”
+
+“Alright,” Aurelian said and projected his will out to the System.
+
+Alpha-One User Identity confirmed.
+
+Welcome, Reclaimer Aurelian!
+
+Awaiting input.
+
+Instead of using his mind, Aurelian spoke out aloud for Tarixi’s benefit. He suspected this was something of a momentous occasion for the ghost he had come to view as a friend and mentor, and he didn’t want to rob it from her. “Show me the Command List.”
+
+Input acknowledged.
+
+Populating [Command List] . . .
+
+[Command List] Populated!
+
+AVAILABLE COMMANDS:
+
+[Disable All Security Measures]
+
+[Disable Specified Security Measures]
+
+[Disable Stasis Field]
+
+[Assess All Security Measures]
+
+[Assess Specified Security Measures]
+
+[Unlock Armoury Access]
+
+[Deactivate Simulacrum Generator]
+
+[Activate Animus Engine]
+
+[Overload Animus Engine]
+
+Aurelian read over the options once with fleeting curiosity for any changes, spotted the ‘Deactivate Simulacrum Generator’ change, and then focused on what he wanted. It was a single change and one he expected, but still somewhat interesting to see done. The entire concept of the System still impressed and awed him when he really stopped to think about it. It would have made the ‘we live in a simulation’ theorists on Earth go absolutely mental.
+
+“Disable Stasis Field,” he said clearly.
+
+Input acknowledged.
+
+WARNING: Disabling [Stasis Field] will result in rapid deterioration of subject ‘Leviathan’, with a 100% certainty of eventual cessation of life.
+
+WARNING: [Mana Reserves] not sufficient for reactivation and recommencement of [Stasis Field]. Disabling [Stasis Field] cannot be undone.
+
+Do you wish to proceed?
+
+Y / N
+
+Aurelian relayed what the System was telling him to Tarixi.
+
+The goblin listened in silence and closed her eyes, before bowing her head and taking a deep and steadying breath as she processed what he had told her. He belatedly realised that, despite the humour she had used when describing Bael’tharax, the dragon had likely been a massive part of her life and the lives of everyone in her time period.
+
+It must have been like seeing an inviolable and eternal pillar of her reality consigned to destruction, and by her recommendation.
+
+Aurelian felt a pang of sympathy, and guilt, roll through him at how callous he’d been about the whole situation; and resolved to once again try and do better. It was mildly frustrating to be constantly having to remind himself, though.
+
+After all, he’d been raised to be thoughtful and empathetic, but something about coming to the Realms and things he’d gone through in the short fifty odd hours he’d been within the Prime Material…
+
+It had changed him in ways he wasn’t entirely sure he liked.
+
+“Alright, Aurelian,” Tarixi said while raising her head, and squaring her shoulders in determination. “Let us proceed,” her voice was firm and unwavering, and her ghostly gaze held resolve within it.
+
+He offered her no quip in response and instead turned his attention to the question blinking within his gaze. A new weight seemed to surround the choice while he regarded it, but buoyed by the determination he saw in Tarixi’s Echo—in spite of the grief that must have been eating away at her—and with no other readily available option… he selected in the affirmative.
+
+Input acknowledged.
+
+Confirming request lies within requesting user’s authority…
+
+Alpha-One Access confirmed.
+
+Let the Leviathan be unleashed by your will, Reclaimer!
+
+[Stasis Field] Shutting Down.

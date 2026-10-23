@@ -1,0 +1,267 @@
+“So, this is a waygate, huh?” Aurelian asked while holding a circular disc the size of a pizza pan inlaid with glittering shards of gemstone.
+
+“It wasn’t easy to find the matched pair,” Karsys answered with an affirming tone from where he stood beside him, “since our Analyse Skills weren’t able to properly parse it, but that seems to have been fixed after we swore to the Mantle.”
+
+It wasn’t the only thing. Aurelian noted mentally while giving Karsys’ new armour another appreciative look. It had changed, in fact, after the new Mantle had settled upon the human.
+
+Where Aurelian’s armour was as black as Bahamut’s scales and edged in red and platinum, Karsys’ own platemail was a shade of russet brown, outlined in red, and was far thicker and evidently designed to weather more direct punishment than Aurelian’s own.
+
+He looked like a wall of bloodied steel.
+
+“We weren’t about to fail in the charge given to us by the dragon king.” Zylara added with a musical lilt. “Neither of us had any desire to report a failure to you, let alone…” the elfmaiden trailed off while looking at the cavernous space where Bael’tharax had once laid. A moment of silence followed, and then she cleared her throat. “Suffice it to say,” she continued a touch more quickly, “it took us a little longer to find it than we’d hoped, but we managed to locate its match.”
+
+“Is it packed in with your things?” Aurelian asked while glancing at Zylara, and choosing to ignore her poignant pause. The memory of the late Dragon King was still a sensitive matter for him.
+
+The pale elf nodded in response and patted her large pack.
+
+Karsys’ armour was not the only one that had changed.
+
+Where Karsys’ was the stolid and simple colouring of his nature and elemental talents, Zylara’s was not. Her platemail was a beautiful silver, outlined in green and faintly shaded along the main plates with a small injection of azure powdering. It was also thinner and far more nimble than both Aurelian’s and Karsys’ own plate. Given her speed, and talents for Air and Life magic, it made sense.
+
+“Okay, let’s see what we can do with this one then,” Aurelian said while turning back to the presented item and focusing on the device.
+
+Revelate!
+
+Name: Waygate Terminal
+
+Type: Transportation
+
+Quality: Epic
+
+Requirement: Adept tier Intelligence (50), Reclaimer’s Blessing
+
+Description: Waygates are the favoured means of rapid transport between two distant locations. Once both terminals have been activated, they may be used by any individual granted permission by the Authority holder to jump between locations. This transit is instantaneous.
+
+Effects: Once activated by an Authority holder, any authorised user may expend 150 mana to move between the activated terminals. For every 10% of weight carried in excess of the user’s body mass, the mana cost increases by 10.
+
+Special Effects: These terminals have been locked to the Reclaimer’s access per the will of the last Authority holder, and may only be used by them and those they grant permission to.
+
+“Well that’s incredibly useful.” Aurelian murmured approvingly while willing the System to share the details with Karsys and Zylara.
+
+“More than just good,” Karsys agreed readily. “It appears that Imperator Tollarius was extremely thorough in his preparations. This will have significant ramifications for the future of our efforts against the Nine.”
+
+“It fits with what we found in the vault as well. The late Imperator stocked it with everything we would need to fight a war from a position of disadvantage.” Zylara said with her a tone of quiet agreement. “The ancients knew what we would be facing, it seems. Their foresight is staggering.”
+
+“The advantages of their era, most likely.” Karsys surmised. “I cannot imagine the amount of faith it must have required to believe in the chances of our survival.”
+
+“And even then, we were still tainted.” Zylara noted with a sharper edge to her voice. “A mistake I, for one, am eager to see fully rectified.”
+
+Aurelian glanced between the pair, and then looked down toward the Waygate again.
+
+“I have a feeling that won’t be a smooth or bloodless transition of power when I arrive at Sanctuary.” he noted after a moment of contemplation.
+
+“Charlemagne wouldn’t—” Karsys began placatingly, before Aurelian cut him off.
+
+“It’s not Charlemagne I’m worried about, Karsys.” he stated with a shake of his head. “It’s whoever was complicit in creating chains that bound all of you to the High Wanker,” Aurelian said and pointed upward indicatively. “They won’t just let a Nephilim with Calamity’s Blade waltz into Sanctuary unopposed and undo everything. We’ll need to come up with a different plan.”
+
+“Infiltration?” Zylara suggested. “It may not be easy to maintain the ruse, but we know Bahamut can transform, and in theory we could probably get away with saying you’re an explorer that is sympathetic to our cause.”
+
+“It’ll be based on what we need in the moment I’d wager,” Aurelian said with a shrug while starting off walking toward the dragon eggs and Simulacrums. “If we have the time for infiltration, and we can get to Charlemagne without interruption, that could work.”
+
+A moment later he sighed and shook his head. “But with the entire population tethered to Solarius, it’ll be a lot more difficult to separate the willing servants from the ignorant ones, especially since I suspect tethers grow with faith… and all of you believe fully in the false Mantle.”
+
+“Believed.” Zylara corrected him sharply. “We, at least, are not so blind any longer.”
+
+“Fair enough,” Aurelian conceded, “though I wasn’t including either of you in the list despite the wording.”
+
+“I—yes, I know.” Zylara assured him with a quiet and frustrated sigh. “It’s just a sore point, and probably will be for some time. My apologies.”
+
+Karsys reached out to pat the elf’s shoulder, and she flashed him a wry smile in response.
+
+“I get it.” Aurelian said truthfully. “I would be pissed too. Don’t worry about it.”
+
+The pair nodded to him in thanks, and Aurelian stepped past the Simulacrums afterwards to walk toward the formation of eggs.
+
+“I’ll be back in a minute.” he said to his companions before turning back to the eggs and eyeing around for where to place the terminal. Once he found a suitable space of relatively flat granite, he set down the terminal and eyed the object speculatively. “So how do you work?” he muttered to himself, before—in following the tried and true system—he just reached out with his mind.
+
+Alpha-One User Identity confirmed.
+
+Welcome, Reclaimer Aurelian!
+
+Populating Command List . . .
+
+Command List Populated!
+
+AVAILABLE COMMANDS
+
+Activate Terminal
+
+Self-Destruct Terminal
+
+Lock Down Terminal
+
+Aurelian took a moment to be amused by the available options, and then mentally selected the first option.
+
+Input Acknowledged.
+
+WARNING: Waygate will require 300 Mana to activate.
+
+Do you wish to proceed?
+
+Y / N
+
+Aurelian glanced at his HUD’s displayed mana reserves and winced. That was almost his entire mana pool and, regeneration or not, it was going to be a temporary crippling of his abilities. He needed to increase his mana pool and unlock his second Chakra as soon as possible, and he had been working diligently on the latter, but there simply wasn’t time. It sounded ludicrous to him in the context of how much training he’d been doing, but that had been focused on combat and capability for close quarters and ranged survival.
+
+Putting aside time to meditate on his Chakra would need to wait until he was in a position for uninterrupted focus. Whenever that opportunity came, he reasoned, he’d ensure he focused on unlocking his next Chakra and increasing the efficiency of his mana control. He’d definitely need it.
+
+“Now focus,” he muttered chidingly before mentally hitting the ‘YES’ option on the input menu.
+
+Input Acknowledged.
+
+Activating Waygate Terminal . . .
+
+Aurelian grunted at the sudden surge of mana emptying from him and focused on his breathing to hold him steady. His vision doubled momentarily and the world trembled at a sudden surge of vertigo following the loss of energy. Aurelian found himself clutching at his Dragon’s Resolve throughout the process to keep himself from throwing up reflexively.
+
+The entire experience was, in a word, unpleasant.
+
+Only once the spinning and dizziness had stopped did his eyes shift to focus on the terminal with interest.
+
+The disc had rapidly expanded following its activation, and now was almost the size of a large service elevator’s floor. The gems upon its surface shimmered with energy, and when he fully focused on it Aurelian realised it was humming slightly. A faint and passive surge of magical force was buoying the terminal in a way he hadn’t initially recognised.
+
+“Neat,” he said while his mana flashed angrily in his HUD as it refilled. “That wraps things up here, for the most part.”
+
+The words sounded anticlimactic and lame to his own ears, but they held significance despite that fact. It was time to go. For the first time since arriving in the Realms, he’d be leaving the—in the loosest definition—relative safety of the Palace and venturing out into the true expanse of the Prime Material.
+
+Terra, as Tarixi had called it.
+
+He chose to believe the butterflies that stirred in his stomach at the thought were born of excitement.
+
+Dragon’s Resolve made that belief easier to hold.
+
+Aurelian turned back to his companions then, collecting his supply pack from where it lay upon the ground beside Bahamut and slinging it over his shoulders before approaching. It was a relief to hoist the backpack, especially knowing Karsys and Zylara had provided him with three more essence draughts for his later infusions: each one an infused Epic they had found in the armory.
+
+None of them would match draughts infused by Bael’tharax, but they were still excellent.
+
+They had taken nine more Epics thereafter for their own use—and though it was something of a risk, given they did not know what awaited them at Sanctuary, it was better to be prepared. His own growth had been explosive thus far. It would not be good to be caught lacking if he managed the impossible yet again.
+
+Nephilim things, as they had come to view them.
+
+“Ready to go?” Karsys asked with a smile and a curious glance at the terminal now obscured by the sentinel Simulacrums.
+
+“Yep.” Aurelian replied with what he hoped was a confident voice. “Let’s get out of here.”
+
+The three of them had barely started walking when a growl from Bahamut pulled them up short.
+
+Aurelian had barely turned when the dragon spoke across their bond.
+
+Do you intend on walking the entire way up the stairs, Aurelian?
+
+Well yeah, how else—?
+
+We are short on time, and the plan was for me to bear all three of you at length regardless. The Platinum Dragon pointed out haughtily. It would be an opportune moment, here and now, to test the practicality of that strategy.
+
+“Oh shit,” Aurelian said out loud. “You’re right.”
+
+“Aurelian?” Karsys asked with a curious and wary glance the pair of them.
+
+“Oh! Uh—sorry. It’s nothing bad,” Aurelian said while turning to address his companions. “Bahamut just pointed out that we’re planning on walking when he’s going to be ferrying us anyway. We might as well just let him fly us up to the exit, and test his endurance in the process.”
+
+Both Karsys and Zylara’s eyes widened, and they looked from him to the regal figure of his bond. Bahamut merely yawned in an unconcerned manner. The dragon’s new body was more than large enough to fit the three of them, given he now stood—at the shoulder—close to four metres tall, with a powerful body and a wingspan more than double his height per wing.
+
+He estimated that the dragon had likely gone from somewhere like four hundred kilograms following their fight with Marius to ten times or more than that amount after Bael’tharax’s gift to the young dragon king. Bahamut might have been a gecko compared to a giganotosaurus when measured against Bael’tharax, but within the scope of a humanoid mindset his new frame was massive.
+
+“We’re going to ride atop him?” Zylara asked quietly. “Now?”
+
+“That’s his thinking, yeah.” Aurelian confirmed.
+
+Both Karsys and Zylara exchanged excited looks, and then turned back to the dragon with giddy expressions. “We knew we’d be permitted to at some point, and we had intended to be as calm and reserved as we could when the time came, but not so soon.” Zylara confessed in a voice that vacillated between girlish excitement and awed trepidation. “It’s… it’s the honour of our lives to be granted such a privilege.”
+
+Well, at least they are showing proper appreciation for my magnificence.
+
+Aurelian suppressed a groan at the preening he could feel through the bond, and instead of responding to Bahamut’s self-satisfaction, nodded to the elf and human. “I understand the excitement. I felt the exact same way when Bael’tharax offered me the chance to bond. I never expected to even succeed, let alone be chosen by Bahamut,” he grinned and brushed his hand along the dragon’s platinum-veined obsidian scales. “It’s a dream come true for me, as well.”
+
+You could stand to show more awe and wonder yourself, sometimes, Aurelian. Bahamut noted vainly.
+
+I’m your Rider. Aurelian sent back immediately. It’s my implicit duty to check your ego. You already know what you mean to me, anyway.
+
+That is… sensible, I suppose. A well-made point. Bahamut responded in a surprisingly agreeable tone.
+
+Aurelian could sense satisfaction from the dragon too, oddly enough.
+
+“People will go mad when they realise you’re a dragon rider.” Zylara said while she and Karsys approached Bahamut reverently. “The tales we have of the Ordo Draconis, especially the ones told by Charlemage, are incredible.” she said with wonder. “Fantastical, even. To see a living dragon and a rider again will take the city by storm.”
+
+“Eventually, yes.” Karsys agreed. “But only once have we ensured Aurelian’s safety. Whoever was behind our systematic enslavement to Solarius—”
+
+“—will try to kill him and Bahamut both if we aren’t careful,” Zylara agreed, “I know, Karsys. Still…”
+
+“I understand.” the big man said with a smile. “I feel the same way.”
+
+“Well no time like the present.” Aurelian said while looking up at Bahamut. “Mind if we use your leg to hop up, bud?”
+
+Very well. Bahamut sent back while shifting to make himself as low as possible.
+
+“I’ll need to get some sort of saddle eventually.” Aurelian said out loud for Karsys and Zylara’s benefit.
+
+They were watching him with rapt attention, and he realised they were waiting to see how he chose to climb up the dragon, likely in order to mimic him. “It’ll be way too impractical to fly on him without one if we go into combat. I’d slide right off his back without something to keep me in place.”
+
+A saddle would be useful, if mildly denigrating… Bahamut ruminated while Aurelian set to climbing up the dragon’s person-and-a-bit sized leg and moved to find a place near the base of the dragon’s neck, atop the main part of his massive body. He positioned himself between Bahamut’s spines carefully, and when he slotted himself down to sit, he noticed that the dragon’s scales moulded and shifted to almost sheathe his legs in some capacity.
+
+He felt surprisingly secure.
+
+“I didn’t realise you could do that.” he admitted with genuine surprise.
+
+Neither did I. Bahamut confessed. It simply felt right.
+
+We don’t have to use a saddle, by the way.
+
+No. It is sensible. My sire told me it might be something we needed. I am not against it. Bahamut’s head shifted and one of his golden eyes met Aurelian’s own. Though I would prefer only you use it, and perhaps others only in emergencies. I am not a beast of burden.
+
+Aurelian nodded in agreement immediately. No arguments here.
+
+Outwardly he turned to Karsys and Zylara, who were now staring at him with paired grins.
+
+“Hey! Enough gawking!” he said with a grin of his own. “We’ve got a world to save!”
+
+The pair started at his words and, with mutual laughter they moved forward quickly.
+
+Unsurprisingly, Zylara climbed her way up Bahamut’s body far more nimbly than Karsys, and settled herself behind Aurelian between another pair of spines, while Karsys did the same further back and just ahead of the dragon’s massive wing-joints.
+
+It was a tight fit, but Aurelian was relieved to see they managed.
+
+“In all my years,” Zylara breathed almost too low for Aurelian to hear, “I had never dreamed of this.”
+
+Karsys was silent, but Aurelian could hear him sniffling.
+
+It was incredibly endearing.
+
+Yeah. Aurelian resolved in his mind and to Bahamut. We’re definitely letting them try out for the eggs afterward.
+
+Assuming we’re alive. Bahamut responded pragmatically.
+
+Is that doubt I sense? Aurelian asked half-teasingly.
+
+What will be, will be. Bahamut said with a predator’s zen. We may yet be destined to die. We shall see. The Realms play no favourites, Aurelian.
+
+Bahamut shifted his head and lifted himself up while he spoke, and Aurelian could sense him testing their weight on his body.
+
+We may not be the overpowered protagonists of this tale that others suspect we are. Bahamut continued. Might is might, and in the scope of the Realms we are still very, very small fish even with ours combined. No amount of righteous belief can change the cold calculus of simple strength.
+
+I suppose. Aurelian admitted. I need to reach my Initiate tier as soon as possible, and unlock my Chakras too. We may not survive, but if we don’t, we’re not going out without a good fucking fight, bud. he said emphatically. Dragons are never prey, right?
+
+Indeed. Bahamut agreed with an approving surge of affection.
+
+Aurelian felt the dragon shift under him and reached forward to grip the spines in front of him, side by side as they were. “Hold on!” he called back to Karsys and Zylara. “He’s about to take off!”
+
+Aurelian felt the scales around his legs tighten perceptibly, and then felt something thrum through Bahamut in a surge of power. The runes along the dragon’s flanks lit up in brilliant platinum, particularly the Force and Air runes, and Bahamut abruptly launched himself upward in a surge of physical force and, Aurelian realised immediately, mana.
+
+Bahamut, does your flying skill use mana?
+
+Of course it does. The dragon responded with a mental snort while tension corded into his massive legs. And multiple aspects of magic, for that matter.
+
+As if in response, a very small hum of energy filled the air for a precipitous moment.
+
+Bahamut was using magic to get airborne, not just his own impetus.
+
+Aurelian barely had time to process the incredible implications of that, which he felt exceedingly stupid for not putting together earlier; before his stomach dropped out from under him and Bahamut exploded upwards with a discharge of magical force, a push of his legs, and two massive beats of his colossal wings.
+
+Zylara screamed behind him in excitement, and he heard Karsys shout in panic when the inertial force nearly slammed the three of them down against the dragon’s body while they surged into the air.
+
+Aurelian let out a giddy laugh the moment he could breathe again.
+
+A glance beside him showed the ground of the cavern receding rapidly as Bahamut gained altitude, and Aurelian felt his heart thundering in his chest.
+
+I did it, Cass! he shouted jubilantly into the deepest recesses of his soul. I’m flying on a dragon!
+
+Above them the exit of the cavern loomed large.
+
+And beyond it, the true beginning of their story awaited.
