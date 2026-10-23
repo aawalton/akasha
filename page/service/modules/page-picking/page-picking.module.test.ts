@@ -140,13 +140,23 @@ test("a question naming no where and no order is paged off the index", () => {
   expect(down.rows).toEqual([...every.rows].reverse().slice(0, 2))
 })
 
+const EXTENDED = "akasha-service"
+
+function typeOf(row: unknown): unknown {
+  return typeof row === "object" && row !== null ? (row as Record<string, unknown>)["type"] : null
+}
+
 test("a question under a page type many extend is paged across every one of them", () => {
   const keys = ["slug", "type"]
-  const every = askedOf({ pageTypeSlug: "collection", keys })
-  expect(askedOf({ pageTypeSlug: "collection", keys, offset: 3, limit: 4 })).toEqual({
-    rows: every.rows.slice(3, 7),
-    n: every.n,
-  })
+  const every = askedOf({ pageTypeSlug: EXTENDED, keys })
+  const turn = every.rows.findIndex(
+    (row, at) => at > 0 && typeOf(row) !== typeOf(every.rows[at - 1])
+  )
+  expect(turn).toBeGreaterThan(1)
+  const offset = turn - 2
+  const paged = askedOf({ pageTypeSlug: EXTENDED, keys, offset, limit: 4 })
+  expect(paged).toEqual({ rows: every.rows.slice(offset, offset + 4), n: every.n })
+  expect(new Set(paged.rows.map(typeOf)).size).toBeGreaterThan(1)
 })
 
 test("a question narrowed this way still runs every test it states", () => {
