@@ -1,0 +1,173 @@
+Once they were in Frostland’s Gate, Mirian fetched the Elder artifacts from the Labyrinth, then briefed everyone on the research they’d done so far.
+
+Song Jei took one look at what Mirian had been calling the ‘special’ acid dissolving a rock and said, “It is not acid. Sefora can explain. This is Elder…” She hesitated, struggling to find the words in Friian, then switched to Adamic. “The chemistry of the constituent parts doesn’t match what you’d expect by applying an acid. This is either unknown alchemistry, or some form of Elder technology. I doubt we can reverse the process of creating it, but we can put it to use.”
+
+Mirian pondered that. “It’s strange to think of the Gods having… technology. Making discoveries and advancements as we do. It feels like they’ve always been above such things.”
+
+Jei shrugged. “Perhaps they didn’t. Perhaps they were born with perfect knowledge of the universe. But I doubt that. Or they wouldn’t need tools such as these,” she said, gesturing at the Labyrinth artifacts. “Regardless, I’d term this substance as a separator, not an acid. Use it to figure out what each glyph’s base elements are, then put spell organs in it to figure out which ones match. The process will be time consuming, but the information can be stored in simple proportion tables.”
+
+Mirian smiled at Jei. “I’ve always admired your brilliance,” she said.
+
+A small smile flickered across Jei’s face. Then she said, tone still serious, “That is something Lily could help with. In fact, if we can find a container the separator won’t destroy, it can be divided up so multiple experiments can be carried out at once. Many townsfolk could be put to use, if you can get them to see the importance of helping a Prophet.”
+
+Mirian could instantly see how helpful that would be for investigating unknown glyphs. She hesitated to get so many townsfolk involved. Ever since Troytin’s attacks after the Battle of Torrviol, she’d been wary of recruiting large groups of people. She had done it for Apophagorga out of necessity, but used deception to hide the nature of that recruitment until near the end of the cycle. Spreading knowledge about her nature as Prophet also spread changes. There was loss of control. A lack of trust.
+
+But Jei was right, especially here in Frostland’s Gate where she was isolated from the rest of the world and its dangers. Recruiting more people and training them on experiments could produce far more results in one cycle than a small team. It introduced a higher likelihood of errors, but they could run the same experiments multiple times to check results. It would be especially useful for simple but time consuming tasks. She looked at her favorite teacher again and smiled. Song had such grace and wisdom.
+
+She thought of Jei sacrificing herself by ramming her airship into Apophagorga and looked away.
+
+“We can start recruiting people immediately. I can put on a little show in the center of town.”
+
+***
+
+Mirian’s conjured illusion of the Ominian was a big hit and a powerful motivator. The fact that she’d gone into the Labyrinth alone and returned from the end of a Vault and already knew most of the people in town before they’d even said a word to her further convinced people what she was saying was true. After that, there was something of a snowball effect: the more people believed her, the more they did the work for her to convince the holdouts.
+
+Soon enough, half the town was helping in some way. Mirian could direct the hunting teams to precise locations to gather up myrvites for testing, and Frostland’s Gate had far more arcanists per capita than a usual village.
+
+The special separator liquid quickly destroyed any container it was put in, then started decomposing the table underneath as well, much to Elsadorra’s dismay. Mirian started distributing modified copies of the gather liquid spell that worked, but moving the separator around only with spells proved horribly inconvenient. After some thought, Jei ended up using her crystal-weaving spells to create small diamond glasses, which the separator didn’t dissolve.
+
+“It’s a single element, so the separator doesn’t act on it,” she said.
+
+Within a few days, Beatrice was certain the separator liquid was isolating new elements. “Any alchemist would kill for this stuff,” she said.
+
+Jei spent a great deal of time using the powdered elements with the Elder crystal fabrication device.
+
+“In principle, it’s not dissimilar to Zhighuan crystal spells,” she explained to Mirian after some experimentation. “However, those spells have limits to the kinds of crystals that can be grown, and even the best-formed crystals will inevitably gather small impurities. With this device, as long as the elemental powder is provided in the correct ratios, and remains purified, the resulting crystals from this device should be flawless.”
+
+Mirian immediately saw the implications. “We could create perfect conduits. Not only perfect conduits, massive ones.” She got to work calculating how long it would take for a device to create a mana-conduit crystal large enough to move the amount of arcane energy in a leyline. Jei checked her work.
+
+“Sixty days,” she muttered when the calculations were finalized. That was the minimum amount of time needed to grow the crystal, and it assumed the device was in use at all hours of the day with no breaks. And the resulting crystal would have to be the size of an ice carnipede, so it couldn’t exactly be moved. “There must be a way to shorten the time.” Perhaps multiple devices could be used simultaneously. That means scouring other parts of the Labyrinth. Which may not be a bad idea; I could always find more uses for relicarium.
+
+Jei nodded. “I can experiment with the device, and teach others to use it. We can also investigate different potential conduits. The Zhighuan crystal spells are specific to a known mineral. These devices don’t seem to have that limit. They may allow us to break new ground.”
+
+Mirian nodded. “I’ll leave you in charge of that, then.”
+
+On the 1st of Duala, Mirian headed north again.
+
+***
+
+Over the next three cycles, they made significant progress on glyph research and conduit tests. At least one more substance from the Vaults seemed to a be a perfect conductor, though it was hard to say if that was true or merely a limitation of their measurement instruments. They also isolated several new elements purely on accident, just from taking various rocks and myrvite organs and dissembling them with the Elder separator liquid. In other circumstances, that would have been a fantastic development for their careers. As it was, it was hardly helpful. Despite all the strange crystals they were able to grow, corundum remained the most efficient mana conduit. They discovered several common rocks from which aluminum could be extracted, which would be useful for obtaining the raw materials, but no ways to make the crystal formation faster.
+
+There were some hints that some of the tri-bonded glyphs they were learning could regulate arcane energy in novel ways, but it was hard to say how that might be used to regulate a leyline. The leylines themselves fluctuated drastically in how much energy was moving through them at any given time, and snaked about as they traveled in the deep underground. Then, there was still the issue of how to get to them.
+
+“I know where several leylines will breach the surface,” Mirian told Jei one evening. “Presumably, a device could be created at the location ahead of time and send the energy into a new place.”
+
+“The device would have to withstand several thousand myr of arcane energy,” Jei said, raising a skeptical eyebrow.
+
+“Yes, I don’t quite have a solution for that. Nor the spontaneous energy transformations that cause blast waves and fires. The other possibility is that, at the bottom of the Labyrinth, there’s direct access to the leylines.”
+
+Jei looked even more incredulous. “Assuming the Labyrinth floors progress linearly, wouldn’t that be ten floors deeper than anyone has ever gone, including a Prophet?”
+
+Mirian sighed. “Something like that. There’s several different estimates about what floor of the Labyrinth it would be, and some leylines appear to run deeper than others. But you can see the problem. That’s why I’m approaching the problem tangentially. Eventually, I have to figure something out. If by some miracle I’m able to bend Akana Praediar to my will, I’d still need to have something for them to build.”
+
+“What of the Divine Monument?”
+
+“It could be directly connected to the leylines, or it could be unconnected but the magnitude of the explosion disrupts them anyways. Since the explosion is propagating mostly in the fourth dimension, it probably hits the leyline much harder than one would guess based off the distance.” Mirian frowned. “That’s another thing I need to work on. It’s hard to know what to prioritize. And then there’s Ibrahim and Atroxcidi. If I have to start organizing a defense of Baracuel, I’ll have lost. I think he can do it, given enough time. He nearly had the Praetorians dead when I first intervened. That puts me on a deadline.”
+
+“I agree with your choice not to engage him directly,” Jei said. She looked over at the pile of Elder artifacts they still couldn’t find a purpose for. “It’s possible those tools are designed to engage directly with Elder technology. Have you tried using them on the Divine Monument?”
+
+Mirian smiled at Jei again. She loved how smart she was. Selesia and Nicolus were both smart too, but they didn’t have her maturity. But Mirian hesitated to say anything. Jei had dedicated herself to Mirian absolutely, sacrificed her life multiple times. And she was her teacher. It felt strange to even consider asking her to be more than that.
+
+“What?” Jei said, seeing Mirian’s look.
+
+“Ah, nothing. Sorry. I’ll definitely have to try that. Next cycle, maybe. There’s… something north. A difference in the ambient mana. It’s strange to say, but it’s like there’s someplace up there calling to me.”
+
+Jei looked at her. “Have I told you of Sun Shuen?”
+
+“You did.”
+
+Mirian thought of the Ominian, guiding her north in her dreams. They have not shown you that place for nothing. The Ominian clearly found great beauty in the world of Enteria. But it’s more than that. She thought of where they stopped. A great expanse of glimmering blue glaciers, with a single peak in the middle of the ice.
+
+“We’re not making much progress this cycle anyways. I’m going to leave for the north earlier. Going to go farther. I think the Ominian wants me to see something.” She wondered if the others had the same dreams of the frostlands. If they ever felt the urge. Perhaps they saw the same visions, but like Troytin, twisted it to mean what they wanted, rather than what the Elder God was trying to say.
+
+***
+
+This time, Mirian packed more dried food into her bag and a few extra mana elixirs and left just after the myrvite stampede.
+
+She passed the place she’d fought the ice carnipede. She’d expected the beasts to relent as the temperatures plunged and land grew even harsher, but she found more of the huge wyverns circling the skies and some sort of colossal aurochs covered in great plates of ice. It seemed those aurochs were the regular prey of ice carnipedes, though the carnipedes themselves had to swarm a single aurochs to bring it down. The aurochs had a cold aura that made glaciavores look like a cozy fire. They also seemed to be able to feed on the ambient mana itself, which they did by opening their mouths and sucking. From a distance, Mirian saw what looked like a miniature forest, complete with fungus and vines, inside their mouths. Once the pressure of the ambient mana dipped, the giant aurochs closed its mouth and lumbered on.
+
+It was fascinating, but also not what she’d come to find. She continued onward.
+
+Her skin began to crack from its constant exposure to dry air, and she found herself needing to drink much more water. When she exhaled, it created a little cloud of snow as soon as it left her enchanted warmth bubble. Twice, the giant wyverns attacked her. Twice, ice carniepedes tried to ambush her. Mirian crushed them and continued north.
+
+Soon, the terrain became treacherous enough that she needed to constantly levitate. The glaciers were full of deep crevasses. Between them were scoured ridges of rock and sharp peaks. She was thankful for the jagged rock, though; it was all that sheltered her from the scouring winds. She started to be thankful when some carnivorous myrvite attacked, because it meant she could use her mana siphon spell to fuel her levitation for an hour or two and counteract the constant drain that came from maintaining the enchantments and spells that kept her from freezing.
+
+Siphoning so much B-class mana from the souls of myrvites gave her practice in stabilizing her aura. With the Lone Pine form, it was easier to keep her auric mana under control, even with the corrosion. She began to drink a mana elixir at noon each day so that she wouldn’t run out. Her control over her soul was good enough now that she could soothe the worst of the distortions.
+
+Still, as the days went by, her progress slowed. It took more and more mana just to push herself through the gales, and to ward away the cold. The further north she went, the fiercer the winds grew. The temperatures plunged each night, and she could only sleep for a few hours at a time before her enchantments were drained and she woke, shivering.
+
+Each night, she took new measurements on the leyline device. By the 1st, her measurements picked up a steady stream of arcane energy still swirling about. She’d reached the point where the colossal eruption took place on the 19th. When the snow relented, she could see massive craters where the world was scorched.
+
+On the 3rd of Duala, she had to spend an entire day in a cave she’d hollowed out between a glacier and the rock just to recover. By then, she’d stopped seeing the giant aurochs and greater wyverns. When she used detect life, there was her—
+
+—and a great nothing.
+
+Without magic, no human stood a chance at life up here. As it was, even her magical prowess was being tested. Each day, the winds wore at her barriers. Each night, the plunging temperatures shattered her enchantments. Each step she took was across slick ice or up jagged, frozen rocks. Each flight she took, she had to fight against an endless storm.
+
+The journey wore at her, but she continued to feel subtle changes in the ambient mana. She no longer used compass spells to guide her, but knew she was traveling the right way by the feel of the world.
+
+Long ago in lecture, she’d learned that ambient mana was almost perfectly uniform across Enteria. It was exciting to see, to feel, that the lessons had been wrong, that world held secrets yet undiscovered. How many things was I taught that have turned out to be wrong? she wondered as snow blew past her. And how many more have I yet to discover were wrong?
+
+As she peered out into the white snow, swirling as it descended, she thought, None of this will be solved without an understanding of the truth. It’s enough that others will try to blind me; I must not blind myself.
+
+The world was gray; even the horizon was veiled by the falling snow. All around her were mountains, but she could hardly see them. The visible world had shrunk. Exhaustion ran through every part of her, and her aura waned.
+
+Mirian pushed on.
+
+And then, on the 8th of Duala, the snow finally stopped falling, and the winds died down. Mirian found herself out on a vast glacier, held in a bowl of mountains.
+
+There, in the center of that bowl, the clouds parted for the first time in weeks, and a single ray of sunlight pierced the world.
+
+The glaciers shone with a beautiful glimmering mix of azures and turquoise, like the very land had become a great jewel. Swirls of white snow drifts curled about the ice like sparkling filigree.
+
+It took her breath away. Mirian stopped to cherish it. Then, where the sunbeam descended, she saw a spire of stone in the midst of the glacial field. Memories of dreams came rushing back to her. I’ve seen this place before, she knew. Only, the mountains around her had been taller, and the spire in the middle of the glaciers hadn’t been so eroded.
+
+With new resolve, she flew forward. The Ominian may not have known the path, but They had seen this moment, she was sure of it. Hope swelled in her. There must be a way.
+
+It took her another full day to reach the rock. She spent the night sheltering in a glacial crevasse, and in the morning, she spent time trekking across the ice lest her mana be depleted entirely. Several times as she trudged across the ice, she thought she might collapse. Her soul repositories were long depleted, her mana elixirs, long gone. Every muscle ached, and she just wanted to rest.
+
+Almost there.
+
+The clouds had parted further, revealing a pale sky.
+
+The stone spire was nearly vertical. Mirian spent much of her remaining mana just levitating up it. Then, she sat atop it, and assumed the meditative pose that she’d learned as a child so long ago. She thought of Rostal and his teachings. She thought of Grandpa Irabi. She thought of another man, looking down on her with kind eyes and infinite patience.
+
+She breathed.
+
+The ambient mana here was thick. She could feel it as it brushed up against her aura, swirling as the two kinds of mana mingled. She closed her eyes to feel it better. Outside, the frozen air on her skin was tempered by the sun’s rays. Mirian let her protective spells fade, so only the enchantments were left. The sudden cold air stabbed at her lungs, but she reveled in it.
+
+As she sat, she began to sense a pattern to the movement of the world’s aura. What if that’s a better term for it? she wondered. Is that where ambient mana comes from? Is the world a living soul?
+
+The sting of the air sent shivers through her. Mirian opened her eyes. She gazed at the vast expanse around her. Rocks, untouched by life. Ice, eternal and cold. Sunlight, raw and bright. Air, linking it all. Here, where life was absent, the ambient mana flowed like rivers, cascading around the air, swirling and dancing. Her spells had seen no life for days now. This was nature too, the true primordial state of it. If the theorists were right, life had come from this desolation.
+
+Not desolation at all, she realized. The nonliving world was the foundation upon which the rest was built. It was life and nonlife, linked in cycles. But the foundation was laid first.
+
+The world didn’t have to be alive for it to have a soul.
+
+And there was such beauty in it. All life on Enteria could die, and the world would still be worth saving, just on the chance that some might arise again and see it. When the Ominian walked it, he didn’t just admire the flora and fauna, but even the rocks and sky.
+
+THIS PLACE…
+
+Their words echoed in Mirian’s head as she closed her eyes again, adjusting her connection to Apophagorga’s catalyst so she could peer both into the depths of her soul and the wider world as its mana brushed against her aura. Her skin burned with the cold, the icy air stabbing her lungs, but she could endure. When even the lone pine perished on the mountain, the mountain itself endured. She sat now atop proof of that statement, a spire of rock that had survived thousands of years as the glaciers around it scoured its surface again and again. Centuries from now, or perhaps millennia, the glacier would deposit the dust of this rock spire, and it would find its way into the roots of some plant as it reached for the sun. Such a tree would build itself out of that light, blocks of soil and air gathered up and ignited through some chemical processes that even Sefora didn’t understand.
+
+Around her, the world was stirring. The ambient mana was responding to her, and her aura was changing.
+
+She fell back on intuition, on instinct. If she’d tried to calculate the pattern, she’d never have seen it, but when she fell into meditation, when she just breathed it, it came to her.
+
+The jagged stone became smooth in the river until it was polished. The ambient mana around her was a pressure that her aura was fighting, but why fight it? Like the air she breathed, like the water in her veins, like the minerals her body needed, this was another part of the nonliving world, and her soul needed it. She beckoned it inward. Her soul’s currents shifted, first slowly, then faster, and her aura swirled with it.
+
+Mirian breathed in again, taking this air at the end of the world deep into her lungs. The lone mountain did not feel pain.
+
+All around her, the enchantment glyphs on her clothing began to snap apart, letting out little gouts of spark and flame. She let them extinguish themselves, and her soul spun faster. Something in her had shifted, permanently. Her soul spun in a new way, and when she opened her eyes again, it was like the world was in a sharper focus.
+
+It was her arcane sense, she realized. Always, it had been dull before. Now, she could feel textures and temperatures in the mana around her. It wasn’t all the same, she realized. Logically, she’d known that, or mana wouldn’t have had different classifications, but feeling it made her gasp.
+
+The world was still, and yet, it trembled.
+
+Mirian blinked, and cast her gaze to the sun. It was starting to set. She’d been on this spire for hours. Frostbite crept into her fingers, hunger into her bones, and yet, it didn’t bother her. Her body would die, as it always had at the end of each cycle. Her soul would persevere.
+
+Mirian watched as the sunset caught the world aflame, and then that flame echoed deep into the night as the auroras spread across the sky. Tomorrow, the world would end. But Mirian would carry this place, this moment, with her through time.
+
+To the Ominian, she thought, I think I understand.
+
+She hoped They were watching. She hoped They were smiling at beautiful Enteria.
