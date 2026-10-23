@@ -1,0 +1,217 @@
+[ GRECKON INC. ™ | MANUFACTURER LICENSE: #778-4A | VALID: 05/04/2376—05/04/2396 ]
+
+[ ASSEMBLER OUTPUT: TYPE 13C | UNIT ID: B2 | VERSATILE FIELD UNIT ]
+
+[ OPERATING SYSTEM: GRK-JOAT v3.7.9 ]
+
+[ ARMAMENT CONFIG (CURRENT LOADOUT): MINIGUN ARM GRK-762/M4 | .50 CAL ARM GRK-12B ]
+
+[ POWER CORE: LITH-GR5 600V | PROCESSOR ARRAY: QUAD-STACK 11A ]
+
+[ LICENSED FOR: LIGHT COMBAT | MINING | CONSTRUCTION | FIELD & SALVAGE ]
+
+[ MAINT. SCHEDULE: 1200 HRS GRECKON CERTIFIED ONLY | PROPERTY OF GRECKON CONTRACTS DIVISION | LEASED TO: ?UserName? ]
+
+[ WARNING: UNAUTHORISED ACCESS PUNISHABLE UNDER MIL-CORP LAW §88.13 ]
+
+[ SYSTEM LOG INITIATED: ACTION REPORT ]
+
+--------------------------------------------------------------------------------
+
+EXECUTING DIRECTIVE: HOLD THE LINE
+
+WARNING: 6% AMMUNITION REMAINING
+
+WARNING: SERIOUS DAMAGE SUSTAINED
+
+RUNNING DIAGNOSTIC...
+
+ERROR: LEFT LEG ACTUATOR #2 OFFLINE
+
+WARNING: STABILITY COMPROMISED
+
+MINIGUN ARM NON-RESPONSIVE
+
+AMMUNITION FEED EMPTY
+
+WARNING: PRIMARY SUPPRESSION SYSTEM LOST
+
+REQUESTING AMMUNITION RESUPPLY
+
+NO DATA
+
+ERROR: RIGHT LEG ACTUATOR #3 OFFLINE
+
+WARNING: MOBILITY LIMITED TO 64%
+
+ERROR: .50 CAL ARM HYDRAULICS SEVERED
+
+ERROR: FIRING CHAMBER CONTAMINATED
+
+WARNING: PROJECTILE JAMMED
+
+SEEKING REPAIR CREW
+
+NO DATA
+
+WARNING: OPTICAL SENSOR ARRAY DEGRADED
+
+ERROR: VISUAL FEED PARTIALLY CORRUPTED
+
+ERROR: SONAR EMITTER DESTROYED
+
+ERROR: LEFT LEG ACTUATOR #1 OFFLINE
+
+ERROR: RIGHT LEG ACTUATOR #4 OFFLINE
+
+WARNING: MOBILITY LIMITED TO 8%
+
+REQUESTING EXTRACTION
+
+NO DATA
+
+ERROR: HEAD SENSOR MODULE NON-RESPONSIVE
+
+TARGETING LASER OFFLINE
+
+NO VISUALS
+
+CRITICAL WARNING: CENTRAL HULL BREACHED
+
+CRITICAL WARNING: INTERNAL BATTERY CASING BREACHED
+
+CRITICAL WARNING: PROCESSOR CORES #3–#5 OFFLINE
+
+MEMORY CORE DEGRADED
+
+DATA FRAGMENTING
+
+ATTEMPTING: EMERGENCY INTERNAL REPAIR
+
+ERROR: SEALING GEL COMPARTMENT MISSING
+
+NO DATA
+
+INSUFFICIENT ENERGY
+
+INSUFFICIENT ENERGY
+
+INSUFFICIENT ENERGY
+
+ATTEMPTING: NO DATA
+
+ATTEMPTING: NO DATA
+
+INSUFFICIENT ENERGY
+
+INSUFFICIENT ENERGY
+
+>> BACKUP PROCESSOR ANALYSIS
+
+————————————
+
+————————————
+
+ANALYSIS :: UNIT LOST
+
+TRANSMITTING FINAL LOG
+
+-!- [SIGNAL TERMINATED] -!-
+
+The datapacket was one of many. Bots were dropping throughout the tunnels. There was no end to the bugs. All the droids who’d accompanied Legal were lost, torn away when a fresh wave of bugs had come surging from a side tunnel just as the Module and its impromptu bomb squad was going by. By the time Legal had finished shooting and stomping on them the droids had been washed away.
+
+It’d lost use of its minigun as well; the loader had been damage when a group of mantis-like bugs ambushed it. Once it had dealt with them and started moving, it’d realised something was wrong with one of its legs, too, previously smooth steps turned limping. It wasn’t sure what, as it had lost sensors all over that side of the mech-suit.
+
+But the bomb was in position. The droid that’d carried it was down, but the heavy metal box containing the bomb had survived with the bugs showing no interest in it. It’d managed to pick it up and put it in position. All Legal had to do now was extract, get out of the blast radius. It could detonate the bomb immediately—the base would at least be protected—but if it did so, the Infiltrator would be lost.
+
+Whether Legal itself would survive was uncertain. Some of the others had hypothesised that even if the disconnected soul-fragment inside the Infiltrator bot was destroyed, it might one day reform. None of them truly knew. It was a matter of souls and though their understanding in that realm was growing, it was still far from enough.
+
+The other big concern was the Infiltrator itself. Legal might return, the Infiltrator definitely wouldn’t.
+
+It turned, retracing its path, tearing and shooting its way through every bug it encountered. But the horde had thickened into a sea. More every moment, coming in waves of jagged limbs and tearing mouthparts. Without the minigun to chew through the countless smaller bugs, the mech-suit had only the .50 cal machine gun. Anything it aimed at was killed but it simply didn’t have the volume to put down all its attackers, had to do its best to keep that gun raised and protected from the smaller ones, saving its rounds for the major threats.
+
+It used its legs as weapons, stamping and battering with them while the ruined remains of its minigun arm became a bludgeon. The laser mounted on its head spat weak beams, good only for burning at eye-parts when a creature came close. At least until the bugs started latching onto it, clambering up its back, and two of them chewed its head off. With that it lost the laser, and most its sensors.
+
+Legal turned the final corner and looked with its remaining cameras into the central pit of the mine. A sea of bugs filled it, exactly as expected. It knew what it would see, for it had managed to re-establish connection with the four combat bots and two droids on the ridge above. As the bugs gradually pushed into this area, bots had been retreating up towards that ridge. Only a few had made it, there were a total of four bots and two droids up there, and that was it.
+
+The swarm was pressing them hard, rushing up the slope, snapping and clawing. Right up close to the Assembler, an automated cart moving back and forth, these bots at least still received ammunition—but each time they did so, one was forced to stop firing and begin a lengthy reload process. During that time, the other bots had to fire more, burning their ammo faster.
+
+Legal didn’t have Simulations to check, but it was pretty sure that if two of the bots had to reload at the same time, the other two wouldn’t be able to output enough firepower to keep the bugs back. Checking the ammo counters, it saw that moment was going to be coming very, very soon.
+
+Under its direction, the bots began to pull back toward the security door. It would have them go through and take up positions on the far side. That would buy some time—while the bugs chewed through the doors—for the bots to fully rearm.
+
+One of the droids, directed by Legal, started tossing grenades out, aimed at the bottom of the ramp.
+
+Each explosion blew holes in the surging mass of bugs, slowing them. Alas, there weren’t many grenades or it would’ve kept this up the entire time. If it survived this, Legal intended to strongly suggest they equip the bots with grenade launchers and focus on maintaining much larger stocks of explosive weaponry, plus develop a series of much more capable, heavily armoured close-combat bots.
+
+The bots began to retreat toward the door, and Legal focused on itself. It needed to get over there in time to go through with them.
+
+Its mech-suit was advancing into the pit, firing. The chittering, shrieking swarm turned toward it and charged. .50 cal rounds blew great holes in their line but there were simply so many that the tide was barely even slowed. They crashed into it, a wave of savage fury that hit with such combined weight that the mech-suit was knocked back and up, lifted with its two forelegs thrashing madly, tipped over backwards.
+
+Legal pulled the eject. The Infiltrator burst free from the top port in a spray of gasses. It hit the ceiling, clung with its sticky rubber paws and claws, scuttled forward toward the ridge. Below it the mech-suit crashed onto its back like an overturned crab and disappeared under a wave of bugs.
+
+Legal had hoped to scurry away in safety, a small and insignificant thing ignored on the ceiling, but it had a Soul, however faint, and it could not fully conceal that. Several bugs turned their gazes upward. A pair of winged mantis-creatures leapt, slicing at it. Legal launched itself sideways, and the bugs heavy, hinging arm-blades snapped at empty air, the creatures disappearing back into the swarm with shrieks of fury. But the Infiltrator’s many cameras and sensors saw more of them, setting themselves to leap.
+
+The Module needed a distraction, and it knew just what would do. It issued an order over Local. Its auditory monitors let out piercing whines as the enormous boom shook the world.
+
+Two of its legs came free and Legal swung dizzily over the horde, grabbing and reaching frantically before managing to find a hold and hook tightly back to the ceiling. Dust and chips and bugs burst out from tunnels in great sprays of material and air.
+
+It’d activated the bomb, with the intention of distracting those mantis bugs. The plan had worked perfectly. Only, from the vibrations it sensed it might not be in the safest of places.
+
+It scurried as fast as it could over the ceiling. Dust billowed in a flood behind it, swallowing the swarm. The tunnels were all collapsed but though the passages were sealed, countless enemies remained trapped on this side. The space below teemed with them.
+
+At that moment, Legal felt the two combat bots who were at that moment retreating click empty, out of ammo. The other two had ran out a while back and retreated always, now re-arming by the Assembler. The droid was out of grenades. The bugs were boiling up the slope, pursuing the final two bot as they clattered through the security door. That door needed to close before the bugs reached them, or the bugs would overwhelm the bots before they could rearm.
+
+The Infiltrator darted overhead, its sticky pads gripping stone, claws latching on. Mantis-wings whispered as they leapt from below, coming for it. Legal did a desperate leap of its own, spinning through the air. It landed upon the back of the last bot, clinging like a small spider to a crab.
+
+The security door slid closed just in time, letting out a dull thump as the mantis slammed into it on the other side.
+
+They arrived on the other side, all the doors locking. The bots rearmed, which took a few minutes. During that time there was at first a dull pounding, which then became far louder when the bugs broke into the airlock.
+
+By the time the bots were fully loaded, the last door was creaking, covered in big dents. There were some big ones on the other, pounding at it with their huge arms.
+
+The heavy metal door bent with a squeal, finally out of shape enough that it didn’t properly fit its frame, and was shoved scraping sideways over the concrete, bulging half-open, then the other side went and both doors collapsed.
+
+A mass of bugs were revealed, chittering and shrieking as they heaved forward like the crest of a wave, squeezing through the ruined airlock.
+
+But waiting for them were a line of four bots, each fully loaded. The miniguns were whirring, already spun up to speed, the heavy machine guns braced and held on target.
+
+The immediate rain of ordnance that blasted into the bugs annihilated everything in the airlock. The chittering creatures appeared to simply explode into black ichor and pale gore, and the rounds punched through their flying remains to tear into the crowd on the other side.
+
+Legal was trying to work out how long they could last like this, precisely, and wishing Simulations was there to do the maths, when it sensed something.
+
+Ripples. Focusing on the cameras in the Assembler room it saw exactly what it’d been hoping for. A flicker of blue light. A portal opened in mid-air, and Nicolai stepped through.
+
+At once, Legal reconnected over local, transmitting the situation in bursts of rapid military code. The others understood instantly.
+
+He drew the Angelic Blade and hurled himself toward the door. Legal leapt from the combat bot and landed on his shoulder. It returned, merging with the others, while the Infiltrator body, still guided remotely, bounded clear and landed upon the Assembler.
+
+###
+
+He knew everything. With Legal merged into him he’d gained its memories, arriving in a sudden rush, clicking almost instantly into place. The Dark and even the Mask were seething that these bugs had dared to attack his mine, his base, his Infiltrator, his Assembler. His mental state had whiplashed from calm to black rage. It all ran through him and lent him a storm of energy, more than seemed could fit in his body.
+
+The only option was to use it up. Nicolai threw himself between the besieged line of Assembler bot’s and the Blade struck out, drew great lines through the attacks. Then he was in the midst of the insects and he spun a circle, everything around him an enemy, the Angelic Blade howling with glee to have so many targets packed so closely together. Each swing a reaper’s harvest. The Blade was burning energy rapidly, but in the space he’d torn through the bugs he found a moment, pressed a Tier 3 crystal against it. Back to the attack.
+
+He wielded the Blade in his bionic arm, one-handed, while in the other he utilised the Spectral Claw. It extended and retracted, a perfect aid: whenever a bug struck for him, he warded it off with the Claw. When no such attack threatened, he lashed out with it, augmenting his offence with the Blade. When too many bugs closed from all sides, he reached with it instead, seized a distant bug or the wall, and pulled himself free into a new position.
+
+Say one thing for swords, reflected Legal, as Nicolai tore through the horde, at least they don’t need ammo.
+
+After pushing forward into the bugs for a short time, he retreated back to the combat bots. Legal had sealed the mine, no fresh bugs were coming in. He just needed to ensure the bots had time to reload now and then. He joined their line, augmenting their fire with the AA-12 and the Spectral Claw. The next time ammo got low, he dashed forward to cut through the bugs and buy them some time. His presence turned out to be just enough for them to destroy the remaining bugs with no further losses.
+
+When it was done he stood moved out, stood main chamber of the mine, carnage all around him. His eye caught on the broken shape of an Assembler bot, bugs piled around it. Turned towards the ridge and his base.
+
+Once, a wall of inscribed metal had stood there, sealing the base from the world’s Aura, keeping the ripples contained. That wall was torn through, ruined. The base lay exposed; to Aura, to ripples. Far from ideal, at a time when he was hunted by Scoundrels.
+
+But that was far from his only problem.
+
+The vibrations ran through the ground. The bugs weren’t finished. They were still tunnelling, still coming.
+
+Where had these bugs come from? He had searched this land, determined there were no neighbours. And yet, here they were.
+
+The Modules estimated they had perhaps four hours before the swarm broke through the collapsed tunnels, which spanned over a hundred metres. Legal had found the creatures were efficient, chewing through rock at terrifying speed.
+
+These bugs were not down here before. They must have arrived from elsewhere, and Nicolai felt he knew where. Some of the microphones placed outside had caught strange noises. None of the cameras had seen anything, weren’t at an angle to catch whatever was happening. But the microphones were picking up the sound of a huge disturbance.
+
+He had to go out, see what was happening, gain some understanding of this situation. He knew that, but he stood unmoving, torn, face twisting in a sneer.
+
+He stalked over to the Infiltrator, reached for it. Under his direction Aiming slipped from his Soul and into it. Manage things here, he told it, then he moved to where his portal was positioned, triggered it and stepped through.
