@@ -1,0 +1,389 @@
+[Congratulations Prisoner # 234502385739]
+
+[You have reached level 110.]
+
+[You have gained a Class skill]
+
+[You have gained Class skill Enchanted Awareness]
+
+[Enchanted Awareness (Mastery 00.00%)]
+
+The weaver creates an effect and recognizes the effects of others. There is no reason you should not know when you are in the midst of a potential threat. You should know when you are in the presence of an enchanted item.
+
+…
+
+[Congratulations Prisoner # 234502385739]
+
+[You have reached level 120.]
+
+[You have gained a Class skill]
+
+[You have gained Class skill Disenchantment]
+
+[Disenchantment (Mastery 00.00%)]
+
+The weaver has birthed a sense of speed and strength, dexterity beyond his peers. Should you be able to interpret it, there is no reason you should not be able to stop it if you are fast enough. If it is enchanted, it can be disenchanted.
+
+…
+
+[Congratulations Prisoner # 234502385739]
+
+[You have reached level 130.]
+
+[You have gained a Class skill]
+
+[You have gained Class skill Disrupt Engraving]
+
+[Disrupt Engraving (Mastery 00.00%)]
+
+The Weaver settles upon an engravement, undoing its intended effects completely. There is no reason for the world of engravements to rise above him.
+
+…
+
+[Congratulations Prisoner # 234502385739]
+
+[You have reached level 140.]
+
+[You have gained a Class skill]
+
+[You have gained Class skill First Support]
+
+[First Support (Mastery 00.00%)]
+
+The Weaver imbues a specific enchantment of his choice into his mana. Unchangeable, it supports him through trials and tribulations.
+
+[Cool-down: 00:08:00]
+
+With a sigh, Aiden dismissed this portion of his interface. Out of all the four skills he had gained, he could only say for certain that from the information flooding his brain only three were truly useful.
+
+[Enchanted Awareness] was a skill almost every [Enchanter] who got strong enough had. It allowed an [Enchanter] to gain knowledge of every enchanted tool within a certain vicinity around him. He had possessed it in his previous life, and knew the advantage it gave him. It was a very useful skill.
+
+[Disenchantment] was on the tricky side. As long as he interpreted the enchantment into hand signs, he could weave an enchantment into existence that would terminate the effects of the enchantment in question. The conditions were that he had to be present upon its activation and act at almost the same moment as the enchantment’s activation. It was a good skill to use against [Enchanter]s and those who relied on enchanted items. Still, he would need a lot of practice with it if he was to go up against enchantments of true worth. Speed and knowledge was needed. Luckily for him, he had the knowledge.
+
+[Disrupt Engraving] was of little to no use to him. If a person wanted to make an engraving null and void, all they had to do was as simple as striking a mark across the engraving. Ruining the engraving in any way ruined the effect. The only use for the skill was in regards to engravings that were fashioned to simply release catastrophic effects when tampered with before or upon activation. Booby trapped engravings, to be more precise.
+
+The last skill, [First Support] was the odd one out. He’d never seen it before, neither had he ever heard of it. But his mind told him its purpose. Picking an enchantment of his choice, he would bind it to his mana permanently. It would never change. It would activate upon impact, then go through a cool down process. Choosing the enchantment to bind was a no brainer. But that was something to be handled soon enough.
+
+Moving on from his gained skills, he moved on to check on his stats.
+
+[Dexterity 85 > 121], [Agility 56 > 89], [Mana 92 >129], [Speed 66 > 89], [Perception 80 > 101], [Strength 58 > 79].
+
+Aiden stared at the final state of his stats. The interface had been nice enough to give him the final update. He studied it. [Dexterity] had increased by thirty-six points. That was the highest increment. It sounded like a lot until it was put into perspective. Killing the Immortal—Aido Barragon—had given him over forty levels.
+
+He was fairly certain that if not for the threshold of fifty levels, he would’ve gone far beyond it. It gave a new meaning to the threshold. If a person decided to make someone overpowered by allowing them to kill something they had no right killing, they would still be locked to the fifty levels threshold. The question became this, was this a design made by the interface itself or a design of the body?
+
+With the thought still on his mind, he pulled up his stats. There was one more title he had gotten from bringing an end to Sir Aido.
+
+[Name - Aiden Lacheart]
+
+[Species- Human]
+
+[Age – 19]
+
+[Class- Weaver Lvl 149]
+
+Class Skill
+
+[Enchanted Weave (Mastery 99.89%)], [Walking Canvas (Mastery 73.55%)], [Unarmed Engrave (Mastery 71.82%)], [Modify Engrave (Mastery 39.40%], [Broken Weave (Mastery 17.11%)], [Locked (Mastery 2.50%)(U)], [Fate Walker (Mastery 10.00%)(U)], [Enchanted Void (Master 25.00%)(M)], [Lone Weave (Mastery 12.00%)], [Dual Weave (Mastery 08.00%], [Assisted Weave (Mastery 09.00%)], [Weave Resistance (Mastery 13.00%)], [Enchanted Awareness (Mastery 00.00%)], [Disenchantment (Mastery 00.00%)], [Disrupt Engraving (Mastery 00.00%)], [First Support (Mastery 00.00%)]
+
+Affiliation
+
+[Nastild].
+
+Title
+
+[Goblin Slayer], [Defier], [Protector], [Stone Guard], [Giant Slayer], [Unfettered], [Unnatural Hunter], [Hand of Mercy], [ [Knight Killer(T)], [Contender to the Throne], [Conqueror], [Devil’s Advocate], [Void Bringer], [God Like], [Dauntless].
+
+Skill
+
+[Tongue of the Visitor (Mastery 100%)], [Unarmed combat (Mastery 99.99%)], [Willpower (Mastery 19.00%)], [Mana manipulation (Mastery 91.99%)], [Basic Enchant (Mastery 99.12%)], [Stealth (Mastery 04.01%)], [Detect (Mastery 46.60%)], [Lockpicking (Mastery 02.10%)], [Leap (Mastery 39.69%)], [Pathfinder (Mastery 19.39%)(U), [Basic Weapon-master (Mastery 19.91%)]
+
+Dimensional Skills
+
+[Reverse Summoning], [Fractured Tongue]
+
+Stats
+
+[Dexterity 121], [Agility 89], [Mana 129], [Speed 89], [Perception 101], [Strength 79].
+
+Traits
+
+[Dimensional Crack (Level 75]
+
+Life
+
+[Health 100%], [Stamina 100%], [Mana 100%].
+
+Unallocated stat points 56
+
+Fifty-six, Aiden mused, studying his status. That was a lot of unallocated points lying around. The last time he’d had so much lying around was when he was still a recruit at the Order waiting for his instructor to advise him on where to allocate them.
+
+Shaking the thought, he focused on the new skill, then tracked the notification of when he’d earned it.
+
+Achievement Unlocked!
+
+You have brought massacre in respect of itself. Blood has been spilled for the purpose of being spilled and you have brought death. You stand against the laws of nature and have defeated one you have no right defeating. You have slain an enemy more than 200 levels higher than you, alone. Perhaps the gods should keep an eye on you.
+
+[You have earned a new title!]
+
+[Dauntless]
+
+[Effect: 70% increase in damage when facing opponents 1 or more levels above you.]
+
+[Effect: 70% damage resistance when facing opponents of your level or below.]
+
+[Effect: 50% damage resistance when facing opponents 1 or more levels above you.]
+
+[Effect: Aura applies Fear debuff on opponents up to 30 levels above you.]
+
+[Effect: Aura applies Fear debuff on opponents of equal level with less than 40% Resilience mastery]
+
+[Effect: Aura applies Fear debuff on opponents up to 30 levels above you with less than 12% Resilience mastery]
+
+[Effect: Immunity to Aura effects from all opponents up to 351 levels above you.]
+
+[Effect: 80% chance of surviving a killing blow when health is below 20%]
+
+Aiden had never gotten the [Dauntless] title before. It was powerful, unarguably more powerful than the [Inevitable] title. Where it paled in comparison was that [Inevitable] gave buffs to allies around the title holder while [Dauntless] did not. Perhaps it was because [Inevitable] involved multiple enemies and [Dauntless] involved a single enemy.
+
+It made Aiden wonder just how far up a person had to kill before there was no achievement to be unlocked on it.
+
+Still, there were a few things on the title that bothered him. The first was the immunity to aura effect.
+
+Three hundred and fifty-one.
+
+It was a very specific number and a very suspicious level of specificity. But while it bugged him, it did not worry him. What worried him was the second thing, the one in the title description.
+
+Perhaps the gods should keep an eye on you.
+
+He had never seen a description like that before. And he had never expected to see one. Taking a careful moment to look away from his status, he turned his attention to the most learned member of the current group.
+
+His eyes settled on the [Mage] in the group. She was currently having words with Yerit while having a meal.
+
+They were out, basking in the cool evening breeze. At least Aiden thought it was cool. He couldn’t really feel temperatures that were not mana induced unless he was actually trying to feel it.
+
+Right now, they sat at the base of a mountain. In truth, it was more of a rocky hill. Telma sat on her end, isolated to herself. She was sharpening small pieces of rocks with a knife, turning them into arrow heads. Aiden was certain she knew that they would not work as arrow heads, so it was likely she was simply keeping herself busy.
+
+Tanor was in his own corner, lying down and staring up at the sky while Feira watched him with intrigue. He had half his attention on the jepats though. After being ridden for two days straight, Aiden’s enchantments and Estabel’s spells keeping them stocked up on stamina, they finally had a chance to rest.
+
+Valdan was with Melvet. They said nothing to each other, sitting in comfort and just being. It was a comfortable thing to watch, knowing that Valdan had someone in his life. Watching it brought Aiden some peace. It made him feel soft, but he reminded himself that it was alright.
+
+Zen and Fjord were standing in the corner going through the slow and arduous steps of the Bandiv sword style, practicing. Elami watched them as they did, a curious expression on his face. Oncot sat guard over the sacks, one holding the [Crystal of Existence] the other holding the [Heart of Nosrath].
+
+Ted was playing with a spider as large as his head.
+
+Aiden had been informed of Oncot’s declaration when they had slain Nosrath.
+
+Blood for the Blood man.
+
+Everything was becoming too much. The number of people he had to watch of over was growing a little too large for his comfort.
+
+“Estabel,” Aiden said.
+
+The [Mage] looked up from her meal. “Lord Lacheart?”
+
+“What is your take on the gods?”
+
+She gave him a knowing look. “Scared?”
+
+They had Tanor and Elami’s attention now. While the others looked at them because they were curious, Tanor and Elami looked at them with great levels of investment.
+
+“Not fear,” Aiden corrected Estabel. “Curiosity.”
+
+Estabel chuckled a little. “If they exist, I doubt they will strike you down, Lord Lacheart.” She bit into a piece of meat from her plate. “Believe me, you are not the first to kill a [Saint].”
+
+Ted laughed. “Of all the anti-Christ things to do.”
+
+“What’s an anti-Christ?” Fjord asked, no longer moving through his sword stances, unlike Zen who had never stopped even if the conversation left him distracted.
+
+Ted waved the question away while his spider climbed on his back. “It’s just something a church hates.”
+
+Valdan leaned into Melvet and whispered, “They say a lot of gibberish. You’ll get used to it.”
+
+Aiden ignored them, focusing on Estabel. “I appreciate your need to be analytical, but my question is about the gods. How are you sure that they are not real?”
+
+“Proof,” she said simply. “The church likes to teach that there are gods but many with basic reasoning know that there are not.”
+
+“Then how will they explain [Divine Mana]?” he asked.
+
+Estabel shrugged. “[Divine Mana] supports the existence of Divine beings but not gods. Divine beings are not necessarily gods, merely beings superior to us.” She shook her head. “Superiority does not make one a god.”
+
+Aiden shook his head. “The argument doesn’t stand.”
+
+“It never stands,” Melvet said from her place beside Valdan. “Does who deny the gods are simply stubborn. Absence of proof is not proof of Absence.”
+
+“It’s not proof of presence either,” Estabel replied with a cocky grin. “I take it you’re a fanatic. A religious one.”
+
+“I believe in the gods,” Melvet answered simply.
+
+Estabel dropped her plate and gestured to Aiden. “He killed one of your [Saint]s and you aren’t bothered by it?”
+
+“A [Saint] is not a god,” Melvet said. “And if he killed a god I believe in, that speaks more about him than it does about whatever god he killed.”
+
+Valdan barely smothered a laugh at the flabbergasted look on Estabel’s face. It was not every time that a believer was willing to consider the possibility of killing a god.
+
+“Not all believers are fools, [Mage],” Melvet continued. “And [Divine Mana] is proof of the divine. And a divine being is a close enough concept of the existence of the gods. After all, the gods, in their own way, are divine.”
+
+Estabel shook her head. “It’s like arguing with a child. I will agree that the [Saint]s are divine, and some of the clergy of the church are divine. And divine is superior in some way, but not godly. But you’re not ready for that.” She turned to Aiden. “There are no gods, Lord Lacheart. There are mysteries and there are divine beings. But no proof of gods.”
+
+Aiden nodded, but her explanation left him thinking that maybe there actually were gods. “Just out of curiosity,” he said, “what of the interfaces?”
+
+Estabel’s brows furrowed. “What about them?”
+
+“What do they say about the gods?”
+
+“Only the church claims to receive notifications that speak of the gods,” she said with a frown. “And the word I use is claim.”
+
+“So there is no known inference of the gods from the interface?” he asked.
+
+“None.”
+
+Aiden paused. “What about the interface? Shouldn’t that suffice for the existence of a god?”
+
+Melvet gave Estabel a look that said she wanted to see how Estabel would wiggle her way out of the question.
+
+Estabel sighed. “If we are to accept the interface as the proof of a god, then we are to accept the trees as the proof of the gods, the seas, the sun and the moon. Heck, even the skills that we have. The interface is a proof of us not the almighties.”
+
+Aiden nodded slowly. That was an acceptable argument for him. The problem was that the interfaces believed in the gods, and it believed that they just might not like him anymore.
+
+Well, you refused to believe in them until an interface told you otherwise.
+
+Personally, Aiden liked to think that it was not his fault. The very foundation of his religious belief was in one true God. And being teleported to another world had not been enough to make him stop believing. And even when he began to doubt the existence of his own God, it was not enough to make him believe in the existence of another.
+
+Until an almighty interface told you otherwise.
+
+“Aiden Lacheart.”
+
+Aiden looked at Melvet. “I’m listening.”
+
+“The gods are real,” she said simply. “And if they are not, here’s something to think about. Would you rather risk not believing in beings like the gods and be wrong or would you rather risk believing in them and be wrong. Proper risk management skills says the latter is the safer option.”
+
+Estabel shook her head in disappointment. “The folly of the weak—afraid to be wrong.”
+
+Melvet looked at her and sighed. She opened her mouth only for Valdan to place a hand on her shoulders.
+
+“Don’t you think we’ve done enough, babe,” he said simply. “You cannot make a believer of everyone.”
+
+“Father Jeffery would’ve loved this,” Ted joked. “Arguments of the proof of God.”
+
+Estabel looked at him. “You were religious in your wor—home?”
+
+Ted shrugged. “We were. Church was fun. But it wasn’t like a ruling government like your church, though. It was more of a believe what you want to believe kind of thing.”
+
+Aiden ignored them and brought his hands together, still seated. He moved his attention to [First Support]. Then he weaved hand signs, picking the enchantment he wanted.
+
+His interface popped up.
+
+[You have used class skill First Support]
+
+…
+
+[You have chosen Enchantment of Protection]
+
+He felt his mana mold, leaking out of him like the most minute form of walking canvas. When it took form, molding into the shape of the enchantment, he came to hover over his shoulder. Turning his head, he took it in. A simple protection enchantment hovered there, watching him. It was a deep purple.
+
+“What is that?” Valdan asked, curious.
+
+“One of the skills I gained when I leveled up,” Aiden answered. “I’ll need someone to test it out.”
+
+Ted’s hand shot up. Then he got up. “I’ll be more than happy to.”
+
+Holding his hand out, he summoned a sword from his storage space. Aiden looked from him to the sword and back.
+
+“Kind of too enthusiastic, wouldn’t you say?” he asked.
+
+Ted shrugged. “It’s not every day your brother asks you to attack him.”
+
+With a sigh, Aiden got up and walked over to him.
+
+“What do you want me to do?” Ted asked.
+
+“Hit me with the sword still in the scabbard,” Aiden answered.
+
+Ted pouted. “You’re no fun.”
+
+Still, he swung with enough force that Aiden actually thought he wanted to take out some hidden frustration on him.
+
+The enchantment disappeared from his shoulder and the air solidified between him and Ted’s sheathed sword, a thick purple. The weapon struck the shield. The shield shattered like glass, scattering into the air and Ted rebounded from it.
+
+Aiden didn’t feel any recoil. He pulled up his mana stat.
+
+[Mana 95%]
+
+That wasn’t much of a draw in his opinion, considering it was a skill that could save him from a surprise attack. It would be a trump card. His attention went subtly to Telma and Estabel. Perhaps he should not have tested it in their presence.
+
+“Looks like you’ve gotten your hand on a useful skill,” Estabel said.
+
+Aiden turned to her. She was the only person of a sufficient level that did not have any enchanted item on them from what [Enchanted Awareness] was picking up.
+
+“Useful enough,” he agreed.
+
+But he had another skill to try. He could’ve used his own enchantment for it but he had a feeling that it would not count since it was his own enchantment.
+
+He looked at Ted.
+
+Ted lit up, beamed at him. “Do I get to hit you again?”
+
+“No, brother. I need you to engrave something.”
+
+Ted’s shoulders drooped. “Fine,” he said with a pout. “Use me boringly. What do you need me to enchant?”
+
+“How about I do it?” Melvet raised her hand.
+
+Aiden looked at her, then at Valdan. Valdan nodded.
+
+Melvet sighed. “Why do guys do that?”
+
+“Do what?” Ted asked.
+
+“The thing he just did,” Melvet answered. “I said something but he wanted my baby’s approval.”
+
+Ted chuckled. “It’s just a guy thing, don’t worry about it.”
+
+Melvet was already on her feet. She pulled out a piece of wood from her cloak and an engraving pen.
+
+Aiden’s brows furrowed. Was she an [Enchanter] or just someone that dabbled?
+
+Not everybody owned an engraving pen.
+
+By the time she got to Aiden, she was already done engraving the enchantment of her choice. She offered the piece of wood to Aiden.
+
+“Will this suffice?” she asked.
+
+Aiden nodded, taking the piece. He looked at the engraving and frowned. He looked up at her, then back at the engraving. Melvet smiled innocently.
+
+The engraving was unmistakable. Aiden said nothing as he put his finger on the piece of wood. For the skill to work, he needed to be touching the engraving.
+
+[You have used skill Disrupt Engraving]
+
+He felt the engraving mold itself, then remold itself—at least it tried to. The skill failed without success.
+
+[You do not have sufficient proficiency]
+
+[You cannot disrupt Engraving of Greater Repulsion]
+
+[Skill Disrupt Engraving does not take effect.]
+
+He frowned, looking up at Melvet.
+
+“You’re not an [Enchanter],” he said, unsure.
+
+She smiled at him like an adult teasing a child. “I am not.”
+
+Valdan got up from where he was sitting with a tired expression, walking up to them before Aiden could say more. “Don’t tease the boy,” he said. “He does not like being treated like a child.”
+
+“But he acts like one,” Melvet replied amiably. “Even if a smart one.”
+
+Valdan came to a stop between them.
+
+Aiden looked at him. “What am I missing, Valdan?” he asked.
+
+Valdan rubbed his forehead with thumb and forefinger. “Her level.”
+
+“And her level is?”
+
+An interface popped up in front of him, courtesy of Melvet. She smiled like a grown woman who had not forgotten how to be a child as he looked at it.
+
+Aiden’s jaw dropped.
+
+[Melvet- Lvl 289]
