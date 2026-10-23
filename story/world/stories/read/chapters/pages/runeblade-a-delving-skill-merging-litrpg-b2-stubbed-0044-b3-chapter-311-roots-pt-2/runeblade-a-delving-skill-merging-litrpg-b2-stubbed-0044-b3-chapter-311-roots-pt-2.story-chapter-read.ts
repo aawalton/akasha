@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
+
+export const runebladeADelvingSkillMergingLitrpgB2Stubbed0044B3Chapter311RootsPt2 = {
+  id: "01a16b2b-7260-7926-be21-17c5472eb2cf",
+  type: "page-type/story-chapter-read",
+  slug: "runeblade-a-delving-skill-merging-litrpg-b2-stubbed-0044-b3-chapter-311-roots-pt-2",
+  position: 44,
+  publishedAt: "2025-07-28",
+  unit: "unit/words",
+  title: "B3 Chapter 311: Roots, pt. 2",
+  story: "story-read/runeblade-a-delving-skill-merging-litrpg-b2-stubbed",
+  ownLength: 2241,
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "2474057",
+      externalLink:
+        "https://www.royalroad.com/fiction/94966/runeblade-a-delving-skill-merging-litrpg-b2-stubbed/chapter/2474057/b3-chapter-311-roots-pt-2",
+    },
+  ],
+  createdAt: "2026-10-23T23:49:31.871Z",
+  updatedAt: "2026-10-23T23:49:31.871Z",
+} as const satisfies StoryChapterRead
