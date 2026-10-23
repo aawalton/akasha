@@ -1,0 +1,161 @@
+“I assume Kidry is lost?” Malcord asked as they approached.
+
+“For now,” Cole sighed. “Thirty-seven guys inside, all possessed. Lady Elina traced some residual mana back into the forest. Whatever’s controlling them is out there.”
+
+He crouched down, sketching a quick map in the dirt. Shit was barren, almost depressing. From satellite imagery to this – primitive scratches and a blob that might generously be called a forest. But what else could he do without proper cartography?
+
+Admiring his masterpiece one last time, he got up and turned to his audience. “Alright, here’s what we’ve got. Kidry here; forest starts about three hundred meters out, perpendicular to the wall. Lieutenant, we need your men containing the outpost while we track this thing down.”
+
+“As you command. I can position additional men here and here.” Malcord pointed to two spots on the crude diagram, effectively blocking off Kidry from the forest in case they tried to pursue.
+
+“Good. That gives us covered approach to the treeline.” Cole lifted his gaze from the map, studying his team. The formation had to protect Mack and Elina – losing their heaviest hitter or their medic wasn’t an option. And with Elina tracking the target’s magic, he didn’t need a second person up front.
+
+Ethan’s expertise with runes and defensive magic made him more valuable pulling rear security than up front. Might as well have Miles tag along with him.
+
+Cole drew another line in the dirt. “We’ll go with a wedge – ten meter spread. I’ll take point, run my NODs continuously up front. Garrett, Walker – split left and right, stagger to conserve battery.” He tapped the ENVG-B on his head. “Mack and Lady Elina will stay in the center of our triangle.”
+
+“Once we find the target, we’ll defer to Lady Elina’s expertise if it’s something she’s got input on. Otherwise, we resort to overkill.” Cole gave a nod to Mack before glancing at Ethan. “Walker, can you set runes behind us, maybe every 50 meters or so? Viet Cong type shit?”
+
+“Yeah. Could cost me a mana potion depending on how deep we go, but yeah.”
+
+Cole nodded. “We go back through our entry point if things go bad. Our runes’ll slow anything trying to follow.” He turned to Malcord. “Lieutenant, if you hear sustained fire, assume we’ve found our target. Don’t send reinforcements unless we specifically call for them; we’ll mark with flares instead. Red means we need men. Blue means we’re coming out hot – have your guns ready.”
+
+“Understood, Sir Cole,” Malcord said.
+
+Not exactly doctrinal planning, but it wasn’t too shabby given what little they had. Years of experience had hammered Murphy’s Law right into his soul – no plan was infallible, especially when unpredictable bullshit got involved. But as long as they could adapt, they’d survive.
+
+“Alright, then. Mack?”
+
+Mack was already on it. The first wisps of mist coalesced, rolling out onto the field. It was slow at first, but visibility had already begun to plummet. Within minutes, it’d blanket the open ground.
+
+The first shots came when the mist reached about halfway to Kidry; the possessed soldiers probably couldn’t make out their position clearly anymore. Sporadic at first, then building into sustained fire as the fog continued to thicken. Whoever was in control had naturally opted for self-preservation over conserving its puppets’ resources.
+
+Cole channeled mana throughout his body. “Let’s hope they don’t get suicidal and try to chase us. Go.”
+
+They bolted. Cole felt the mana surge through his muscles as enhancement took hold. The possessed soldiers’ fire continued, rounds cracking through the mist. He kept checking behind them – all the thermal signatures stayed locked to Kidry’s walls. Thank God.
+
+The forest’s edge materialized after a couple minutes of sprinting. Cole’s muscles burned once more through the strain of sustained enhancement, but then they arrived, slipping into the cover of the trees.
+
+Only then did he allow himself a slow exhale – but nothing more; one was all he could afford. No hoping they’d gone unnoticed. It knew they were coming.
+
+From here on out, they’d be relying on the surrounding foliage for concealment. The mist receded as Mack gave up the spell and popped a mana potion.
+
+Meanwhile, Ethan dropped to a knee behind them. He held his hand over the dirt, carving out a jumble of lines designed to trigger a simple pitfall trap. Of course, he didn’t stop there. The spikes were the missing piece of the puzzle – the pièce de résistance of any fucked-up guerrilla death trap.
+
+Ethan stood and gave them a thumbs-up.
+
+They dispersed into their planned wedge, maintaining a 10-meter spread. Elina whispered directions from behind him – not ideal for stealth, but permissible. Cole preferred keeping his eyes ahead; better than clumping up or turning around every time she wanted to throw up a hand signal.
+
+Every 50 meters or so, they stopped for Ethan to lay down runes and to practice simple SLLS – stop, look, listen, and smell. Should honestly incorporate mana detection as well, but Elina remained their sole expert in that field. Thankfully, it didn’t matter much – at least for now.
+
+They continued their advance, stopping every fifty meters for Ethan’s runes and a quick scan of their surroundings. Nothing again. They repeated the same shit for the next few hops until they finally reached the 400-meter point.
+
+Cole raised his fist, then gestured for them to come closer. “Movement, my one o’clock.” He kept his voice low, scanning through his ENVG-B. Dozens of faint orange signatures popped up, faint against the forest’s backdrop. Distance was tricky, but he could guesstimate. “Multiple thermal signatures… dozens. At least forty, somewhere between a hundred and a hundred fifty meters out.”
+
+“ID?” Mack whispered.
+
+“Hmm…” Cole squinted. He’d need to get closer to confirm, but he had a general idea of what they might be, assuming party crashers hadn’t fucked up their previous intel. “Goblins, most likely. Unless Malcord’s containment failed, there shouldn’t be any humans out here. Given the raids, it’s gotta be goblins.”
+
+“Could be cultists,” Mack said.
+
+Miles posted up beside Cole, flicking on his laser. “Hell, hostiles either way. Goblins, cultists, it don’t really matter – we’re puttin’ ‘em down regardless.”
+
+Cole reached for the crude mount on his rifle, activating his laser as well. He glanced over his shoulder, eyeing his team. “Let’s get a closer look.”
+
+They crept forward another thirty meters before Cole tossed up another fist. The signatures were much clearer now, and there was also… something new. “Got a larger signature mixed in with the rest. About twice their size. Gotta be their orc.”
+
+He panned across the forest. “Looks like most of their unit is here, minus the ones they lost at Kidry. 60 plus goblins total. No Nevskors that I can see though.”
+
+“Don’t mean shit,” Miles whispered. “Bastards could be underneath us right now.”
+
+“A tremor will precede their emergence. It should offer enough time to prepare.” Elina paused, glancing around the group before clarifying further, “A few seconds – surely that should suffice, yes?”
+
+Some clarity that was. Cole frowned, already glancing down at the unperturbed soil at his feet. Enhancement magic might buy them those seconds – assuming it’d work fast enough. Not exactly the kind of assumption he wanted to test in the field. “Uh, sure. Well… we’ll operate like they’re here anyway.” He continued his sweep, then paused. “Hold up… got something strange. Cold spot, maybe ten degrees below ambient? Could be natural, but…”
+
+“Yeah, I see it too.” Ethan said. “Stands out, for sure.”
+
+Cole flipped between fusion mode and pure thermal mode. “Can’t gauge distance, but if it’s near the demons, then it’d be about human-size. Probably a bit taller than that.”
+
+“Yeah? Just how much is ‘a bit’?” Mack asked.
+
+Cole probably had to retract that. “Uh… It’d make Shaq look like a normal dude. Fuckin’ uh, nine? Ten feet, maybe?”
+
+“Ten foot tall cold spot? Aw, hell, Mercer.” Miles shook his head. “And here I was thinkin’ I shoulda packed some garlic. Silver bullets woulda been nice too.”
+
+“These ain’t vampires as we know ‘em,” Mack whispered. “Don’t think they’d even be vulnerable to any of that. We’re just gonna have to fuck it up the old fashioned way.”
+
+“Mmhmm.” Ethan eased himself to the ground, raising up the earth to mimic a sandbag rest for his rifle. “If it can bleed, it can die.”
+
+“Ha! That all demons bleed is certain; whether a Vampire Lord should suffer to lend us its blood is another matter entirely.” Elina sighed, replicating Ethan’s trick. “Sir Cole, I might seek to discern its mana signature, but the pulse… it shall make our presence known. Have you any preference?”
+
+Active radar in hostile airspace was damn near what it sounded like. They might as well fire off a flare and start shooting while they were at it. Though with all the magic they’d been throwing around – earth magic, runes – plus the fact that the possessed literally saw their entrance into the forest, the enemy wasn’t exactly short on evidence of their presence.
+
+“You think it’s already picked up on our other stuff?” Cole asked.
+
+Elina inclined her head. “To raise a ridge or set runes is much the same as the thrust of a blade. A detection pulse, however, is cannon fire. They ought not yet know of our presence.”
+
+Cole scratched his neck. Where would that leave them? If it does turn out to be a Vampire Lord like they’d guessed, then the detection would do nothing but reveal their location. In that case…
+
+“ID don’t really matter, does it?” Miles interjected, already on Cole’s page. “Hell, we can just cap the sumbitch right now. Ain’t no orc – that big one’s over there with the goblins. Ain’t no Nevskor neither. Only leaves the bastard we came to drop.”
+
+Maybe it was just confirmation bias, but the point couldn’t be more valid. They were here to stop the manipulator, and the looks on the others’ faces suggested full agreement. “All right,” he conceded. “Rifles only. Mack, hold the magic for now – with any luck, you won’t need it.”
+
+He glanced at Elina. No laser, no thermals or night vision. “Lady Elina, watch our backs.”
+
+Cole lowered himself, stomach touching the grass below as he coaxed the earth to form a perfect rest. Having to use irons in this situation represented one of the greatest challenges he’d seen since coming here. No scopes meant he had to rely on just his natural instinct. He brought his targeting laser to center mass. “Everyone on target. Three. Two…”
+
+The figure remained motionless, either oblivious or unconcerned. Either way, that was about to change.
+
+“One. Engage.”
+
+Rounds cracked out, their muzzles flashing like lightning through his ENVG-B. The cold spot darted toward the goblins’ heat signatures. It moved fast enough that it reached the crowd, disappearing into a mass of orange before Cole could rack the bolt and get the next round in place. They’d hit it, that much was sure. But there was no way to confirm if it was fatal. And naturally, confirmation wasn’t about to get any easier.
+
+A tremor shook the ground almost immediately after the cold spot made it to relative safety. Fuck. Cole pushed himself off the ground, working the bolt. “Nevskors!”
+
+Everyone scrambled to their feet, backing away from the cracked earth and bringing rifles to bear. Elina’s rifle swung up – Cole registered something mounted under the barrel that his brain first processed as a bayonet. Not quite. Bayonets didn’t spawn glowing circles, and they definitely didn’t turn solid ground into mud. It was a tactical wand – not that he had time to even dwell on that.
+
+The cracked ground liquefied, thickening as a slush, but it wasn’t enough. Two insect-like creatures burst through, one the size of a van and the other the size of a truck. They exploded up like artillery in reverse, spraying mud and slurry. The third hadn’t showed up – relieving and terrifying at the same time.
+
+Their joints glowed hot through the NODs, segments moving around in ways that would make an engineer cry. The first one to pop up dripped bright blood, presumably injured from its encounter with the party that went missing. It went after Miles and Ethan. The second one – larger and with no injuries to concern itself with – went straight for Cole.
+
+Pure instinct sent him left as the larger Nevskor scythed the ground where he’d been prone moments before. He dodged the massive claw, aimed his weapon right at the soft underbelly, and pulled the trigger.
+
+The round struck true, blood spraying in a bright bloom. Rounds from Elina and Mack struck just as hard. The beast let out a sharp, metallic shriek and convulsed, spraying sludge and blood everywhere.
+
+Cole worked the bolt one-handed while he used his other hand to cast a spell. Amplifying Elina’s mud would be perfect – pin the bastard down while its belly was exposed. He pulled at the softened earth beneath the Nevskor, willing it to surge up and consolidate around its joints. Mud thickened like a vise, momentarily trapping it.
+
+But right as Cole squeezed the trigger again, the beast wrenched itself sideways. Its colossal claws carved through the sopping clay, fracturing the mud prison. The round slammed into the beast’s carapace instead, lodging itself without visibly slowing it down.
+
+Cole chambered another round, but jumped back as the Nevskor’s tail whipped across the ground. Within seconds it vanished beneath the liquified soil.
+
+He spared a glance at the others. Mack stood behind him, already preparing one of those fireballs of his to lob at the approaching goblins. Elina? She’d busied herself with carving out a safe island, hardening and compacting the earth into a hard, dense material – much like the roads back in Alexandria. His gaze landed on Miles and Ethan just in time to see them drive their Nevskor back into the ground.
+
+“Shift fire!” Cole called out. “Engage goblins! Mack, focus on the orc!”
+
+Cole set his laser on the incoming goblins. It was too bad they were smart enough not to clump up, but there was little they could do regardless. He and the others picked them off one by one with a combination of rifle fire and smaller-scale fireballs.
+
+Meanwhile, Mack prepared his spell. He steadied himself, channeling mana with none of the restraint he’d shown back when he debuted this spell. If the prototype had been a basic shaped-charge fireball, then this iteration was the first true upgrade – enough to outclass the best fireball Slayer Elites had to offer.
+
+He started with a condensed sphere of flame sealed behind two barrier layers, the frontal one molded into a cone-like depression. Then came the rock fragments: pulverized into fine shrapnel and compacted for durability. A small aperture at the rear channeled expanding gases, shaping them into a focused jet that propelled the projectile forward like a short-range rocket.
+
+When he released it, the fiery missile blitzed forward with a concussive crack, vapor trails curling as it shattered the sound barrier. This was no ordinary fantasy fireball; it was a straight-up Hellfire, hot and screaming.
+
+The orc didn’t stand a chance. Honestly, it may have even been overkill. The blast hit like a JDAM going off in close air support – a raw, concussive punch to the chest. The goblins in the radius couldn’t even react; they faced an instant, merciful death at the hands of a wall of pressure, fire, and shrapnel.
+
+Those not in the immediate radius still got eviscerated by molten shrapnel, unfortunate enough to die slower deaths than their comrades who got to experience this planet’s first true demonstration of modern shock and awe.
+
+But they didn’t seem to care. What would’ve demoralized any other fighting force had no visible impact on the surviving thirty or so goblins. They just kept on charging straight to their deaths – blind, obedient, like units in a game following a move command, straight into the grinder.
+
+Mack stumbled back, letting out a ragged exhale as he pulled another blue vial from his vest. He muttered a half-laugh. “Well, I wasn’t expecting a standing ovation or anything but damn. Figured that woulda broken ‘em.”
+
+The earth rumbled once more – lighter this time, closer to a passing quake than a full-blown San Andreas catastrophe.
+
+Cole spun right, catching both Nevskors as they popped up right by Miles and Ethan, effectively cutting them off from his group. His laser was nearly on the smaller beast when Elina’s voice called out behind him:“Evade!”
+
+Cole moved on instinct, flinging himself sideways as something massive dropped from the canopy. Not as big as a Nevskor, but faster. And more importantly, humanoid. A shadow swallowed his vision for half a second, and then a blade slammed down where Mack had just been, tearing into ground with enough force to crater the packed earth and send chunks ripping free.
+
+Towering at nearly ten feet tall, the newcomer rose with unnerving grace. Cole took aim, almost grimacing at what he saw: pale, stretched-out limbs draped in dark robes. A face framed by curved fangs – long, curling inward, like something meant to hold on. The cold spot that had eluded them earlier now stood in horrifying detail.
+
+A Vampire Lord.
+
+They’d found the manipulator. Or rather, it had found them.

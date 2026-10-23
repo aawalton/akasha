@@ -1,0 +1,155 @@
+They drove through Nolaren’s gates, coming upon an operation that was clearly running lean. The fort looked sized for about two companies, but from the activity level and the scattered patrols, they were operating with maybe one. Celdorne might’ve had the GDP per capita, but trying to hold a defensive line this long with pure Celdornian manpower was like the British Empire trying to hold India without local auxiliaries. The Kingdom couldn’t afford to leave any gaps against the demons, so they’d chosen to spread themselves paper-thin instead.
+
+The layout showed competence, at least. Clear fields of fire from the walls, buildings spaced to mitigate collateral damage, and towers manned just enough to maintain the illusion of adequate security. Two-story barracks, mess hall, infirmary, ammo storage – all the essential pieces were there as well. Pity about the manpower shortage rendering it all mostly unused.
+
+Their vehicle pulled up to the command center, a squat stone building dominating the fort’s center. Naturally, it was the only fully-staffed facility in sight. Heaven forbid they cut corners on the one thing that might keep this house of cards from collapsing.
+
+The Corporal led them to the command post. A towering minotaur stood at the map table, shoulders squared in a way that seemed out of place for a border fort that usually just counted goblin raids. His brigandine armor was spotless, every rivet catching the light as if he’d just marched out of a parade ground in Alexandria.
+
+“Sir!” The Corporal stepped ahead to announce them. “Sir Warren and the Heroes have arrived.”
+
+“Sir Warren.” He offered a slight bow. “Thank you, Corporal. That will be all.”
+
+Warren introduced them. “Captain, may I present our Heroes, Sir Cole and his team of Slayers.”
+
+“Most fortunate timing, gentlemen. I am Captain Lorresh, commanding officer of this post.” Lorresh’s cultured tone didn’t quite mask the urgency as he indicated the map. “We’ve a patrol overdue – six men under Sergeant Vanner. Their last green flare originated here, thirty minutes ago.” He gestured to where a forest met a river, about 10 miles deeper into demon territory. “They were due to report a quarter hour ago.”
+
+“Demon forces?” Warren asked.
+
+“Merely the usual weekly unpleasantness. A goblin company of perhaps sixty, led by an orc.” Lorresh’s composure slipped slightly as he gave a sigh. “Nothing our patrols have not handled previously. And certainly nothing that would prevent the raising of a flare were they to encounter difficulty.”
+
+Cole frowned. A dead man could trigger a flare if he was propped up right. That they couldn’t even manage to do that? Well, hopefully they were just fucking around – untrained recruits who’d just forgotten the time. If not? Then there was something far worse than goblins and orcs out there.
+
+“I understand that you are here for a training exercise,” Lorresh continued. “This is by no means the sort of exercise we had envisioned… but it may, perhaps, prove of greater practical value than any planned drill. Sir Warren, your thoughts on the matter?”
+
+More useful than any planned drill? Pfft. Lorresh was clearly just trying to pawn this off on them. Cole couldn’t really blame him, though. Tactical reasoning aside, he wasn’t wrong; and they’d been itching to test their new skills and equipment anyway.
+
+Warren didn’t even need time to think. “A sound plan. If it is to be a trial by fire, then I shall lead the effort,” he said. “We shall require our shuttle refueled at once, and… hm… six of your men– mounted and ready.”
+
+“Consider it done, Sir Warren.” Lorresh nodded toward some aides, who left to carry out the orders. He then turned to address them. “I trust you’ll find our armory sufficient should you require additional supplies.”
+
+“Appreciate it,” Cole said.
+
+“Let us see to our own preparations.” Warren gave Lorresh a nod before heading out.
+
+The shuttle waited by the supply depot, their little base of operations for this search and rescue mission. Cole popped the rear compartment, taking stock of their load-out. Standard deployment package – armor, weapons, enough ammo to make things interesting if they needed to, plus the usual food and water. Not exactly what they’d packed for when ‘training exercise’ was still on the menu, but hell, ten miles out wasn’t the end of the world. There was still the off chance they’d find these guys on their way back to Nolaren.
+
+Cole found a clear spot near the shuttle and channeled a bit of mana downward. The earth responded easily, rising to form a simple waist-high platform to lay his kit out on.
+
+First was the standard issue brigandine for Slayer Elites – a nice step up from normal OTAC gear, though not quite the premium stuff the Royal Guard packed. When he first wore these, he’d expected them to be bulky as shit, but magic materials and enchantments rendered that a relatively moot concern. His Adaptive Vest System from back home fit well over his armor. Even without the bulky ass level 4 ESAPI plates, the familiar setup of pouches was exactly what he needed.
+
+It didn’t have all the familiar equipment, but he’d made efficient enough use of the remaining space. Small green vials – health potions – complemented what was left of his IFAK and added to Mack’s advanced kit. The lack of grenades and tactical gear made space for something equally important: mana potions. Cole had seen enough anime and played enough Dungeons and Dragons to prepare accordingly.
+
+He moved to his weapons next. The Vicer 95E was familiar territory by now – same enchanted rifle they’d tested back at the castle, complete with all the elemental bells and whistles. He ran through his usual checks. Selectors were working fine and the mana crystal had a full charge. All normal and familiar.
+
+The sidearm was another story. Some long-ass name he couldn’t be bothered to remember, but the design of the revolver? Shit, it was a beautiful recreation of Colt’s work with the Peacemaker. The late Alexander must’ve been a gun enthusiast, saving up his blueprints and ideas for his descendants to mess around with when the tech became available.
+
+They hadn’t just copied it, though. It had simple runes carved into both the barrel and cylinder, designed to smoothen operation and extend lifespan. The action was butter-smooth too, cycling faster and smoother than any historical Peacemaker he’d handled back home. Nothing fancy like the Vicer’s elemental modes, but these things packed a hell of a punch – enough to break anyone’s wrist if it weren’t for the existence of physical enhancement magic.
+
+The only thing Cole wasn’t really used to was the Pattern 692E cutlass. Felt a bit like LARPing sometimes, but definitely better than trying to take down demons with a KABAR. The mithril-alloy blade was almost weightless, and the enhancement runes meant it could cut through a thousand goblins without dulling. And… he wouldn’t outwardly admit this to anyone, but swinging it was fun as hell. A nice little bonus on top of essential swordsmanship training.
+
+Last piece was his Ops Core helmet, complete with the AMP headset.
+
+“It seems your helm spares no thought for your face,” Elina said, studying Cole’s gear. “Do you mean to frighten the fiends with your glare alone, or do you simply trust they’ll aim elsewhere?”
+
+“Hah, they’ll be dead before they get in range,” Cole said. “But no, these-” he tapped the headset, “-outweigh protection, in my opinion. Radios. Er, uh... Scrying Panes with the audio only. It can talk to another one of these across a few miles.”
+
+“Hm.” Warren finished packing his equipment and walked over to join the fuss. “We have sought for some time a means to supplant the glaring flares and the rare Panes — burdensome as they are. Such a device, if replicable, may prove a boon to the Kingdom.”
+
+“Actually,” Cole said, adjusting his helmet, “we talked with Lady Kathyra about that. We’re thinking we can share some insights when we get back. Not just the comms; we could help with firearms, starting with better bullets. Decent metallurgy; just need the designs. Maybe even work some runes into grenades, see how that plays out. Could write up a whole list, but she wanted one thing to focus on; help get whatever we pick on the field as soon as possible.”
+
+“Wise. And no doubt Lady Kathyra has already seen to making her will plain,” Warren said.
+
+“Oh,” he chuckled. “Yeah, well, she did seem the most interested in our guns.” Cole looked up at the sound of hooves on earth as six riders approached them.
+
+“A fine enough choice,” Warren shrugged, shoulders sagging slightly at that. “I would have preferred these ‘radios’ myself, but I suppose it shall suffice.” He turned as the patrol’s leader drew his horse to a halt.
+
+“Sergeant Dalen reporting with the requested escort, sir,” the man said, offering a crisp salute.
+
+Warren boarded the shuttle, taking the driver’s seat. “Then let us make haste.”
+
+Dalen took up their rear. “Private Nash, you shall take the lead. The rest, disperse and maintain your stations.”
+
+Cole and the rest of his team followed after Warren as the mounted escort formed up. Once everyone was strapped in, they drove past the gate, turning onto the dirt road that paralleled the river.
+
+Even from the road, the demon corpses showed just how much firepower Celdorne was packing. If Vicers could tear through those armored Mimics back at the castle, these goblins didn’t stand a chance. Whatever remained of them spread out as chunks of meat scattered across the grass. The real fights were marked by craters and scorched earth, but those battlefields were picked clean. No bodies meant something worth collecting had died there – the kind of demons that earned a trip to Sektarr’s lab or one of the many smiths in the Kingdom.
+
+Once they reached the edge of the forest, Private Nash raised his fist ahead of them. Warren brought them to a stop as the rest of the mounted escort secured the perimeter.
+
+“Fresh tracks, sir,” Nash called out, gesturing toward a spot near the water. “They stopped here. Leads to the treeline.”
+
+Cole disembarked, studying the ground alongside Miles and Warren. They decided to follow it, leaving half of Dalen’s men behind to watch over the shuttle. The trail was easy enough to follow, bringing them to a clearing populated with a set of benches made by earth magic. They had stopped to rest here, but it seemed their break was short lived.
+
+Some of the benches lay shattered, the earth violently displaced like something massive had erupted from below. The ground around these points was unnaturally disturbed, the soil looking almost melted in places. Long furrows stretched out from the eruption points, and Cole could see where sections of earth had partially collapsed into whatever tunnels lay beneath.
+
+“The hell?” Cole kept his rifle at the ready, kneeling down for a closer look. The disturbed ground formed a rough semicircle around where the patrol’s tracks suddenly scattered. Dark stains marked the grass near one of the larger eruption points – their first casualty, caught in the initial surge.
+
+“Got brass over here,” Mack called out, moving near the stain. Equipment was scattered around a singular ejected casing. He picked up one of several discarded mana crystals that were still glowing bright blue. “Barely used. Poor guy didn’t even get a chance to put up a fight.”
+
+“Surely not the work of a goblin company,” Elina muttered, pausing to utter a small prayer and make the sign of the cross over the stain.
+
+The group followed her gesture before Warren redirected his attention to a set of claw marks on a nearby tree. The foliage nearby was charred, probably from the guy who managed to avoid that swipe. “It is the work of a Nevskor.”
+
+Nash paused further away from them, studying the other signs of battle. “The casings trail into the forest. A fighting retreat.”
+
+“Only four sets of prints though…” Miles noticed.
+
+Cole raised an eyebrow. “Maybe one of them got lucky, took a leak during their break?” It was possible, though he knew it seemed more hopeful than realistic.
+
+They followed the retreat path deeper into the woods, weapons combat ready. They came across a small clearing that had basically been incinerated. No evidence of any losses here, though. The bootprints kept going.
+
+“More blood,” Ethan reported as they found another eruption point.
+
+Miles pointed out a detail somehow grimmer than the gore: the ground here was littered with scattered, melting ice. “Well, shit. Ain’t Nevskors s’posed to fold to fire?”
+
+Cole frowned. “Should be.”
+
+“This specimen may have evolved,” Warren grumbled. “It may prove a challenge, should we encounter it.”
+
+Vanner’s group must’ve reached the same conclusion. The spacing of the bootprints suggested a complete breakdown of formation – panic. They’d sprinted as fast as possible, at least sparing what effort they could to fire back. But past that semblance of teamwork, it was every man for himself.
+
+The third site painted an even clearer picture. The surviving patrol had tried fortifying the ground with small pillars – bollards. Smart thinking, if the Nevskor were a Fiat instead of a hulking truck. They’d managed to land some good hits though, based on the shards of chitin and the darker, purplish blood. But it had been too late for the third victim. The Nevskor must’ve retreated, leaving a mixed trail of blood disappearing into the soil.
+
+“Three down…” Cole muttered as Elina offered another prayer.
+
+The forest began to thin as they continued following the trail. The area was now dotted with weathered rock outcroppings, and directly ahead of them, a cave. More importantly, this was hard ground. Props to whoever came up with that plan.
+
+Another hole sat in front, this time with only chitin and purple blood surrounding it. Another set of bootprints came from the side, but spaced out for a walk – the sixth man? That should mean three survivors inside. Every loss was always a crushing defeat, but Cole could at least rejoice that there were any survivors at all.
+
+Warren approached the cave entrance, summoning small orbs of light and sending them inside.
+
+As soon as they entered, a voice called out from somewhere within:“We shall fear no evil!”
+
+Warren answered the challenge confidently, “For the Lord is with us!”
+
+Three figures emerged into the light. Two of them were battered and bruised, but the third was in mint condition – probably the lucky straggler who’d taken that hypothetical piss break.
+
+“Sergeant Vanner, Third Patrol, Nolaren.” The man in the middle approached them, clutching his side. “Thank God you found us!”
+
+Warren kept his weapon steady as he approached. “Hold, Sergeant. Report.”
+
+Vanner stopped, keeping his distance. “Got ambushed by a Nevskor variant. Damned thing wouldn’t burn. Kellam’s gone, first hit. Flares gone with him. Davies after, then…” Vanner’s voice cracked. “Bremen. Couldn’t do a thing. Private Tellis and I, we took a few knocks, but we’ll mend. And Gadron?” He tilted his head toward the corporal on his right. “Why, he was fortunate enough to heed his bladder’s urges – left then, right afore that blasted Nevskor struck. Seems he came upon our trail some time after; met us in one piece, thank God.”
+
+“Very well. Sergeant Dalen, if you would?” Warren gave him a nod then kept his rifle low ready, aiming in Vanner’s general direction.
+
+Sergeant Dalen approached, stopping about five meters from Vanner. He pulled a small notebook from his pocket and flipped through the pages. “Sergeant Vanner, your basic training cohort?”
+
+“Third Company, Winter Intake, 651.”
+
+Dalen squinted at his notebook before confirming the answer. “Your mother’s place of birth?”
+
+“Elnoir Republic.”
+
+Dalen had him approach, then poked his fingertip with a clean blade. Red, human blood oozed out. Confirming that Vanner was indeed who he claimed to be, Dalen sent him toward Elina.
+
+He moved onto Tellis next – same results. Then he worked through Gadron’s security questions. Everything checked out; the guy answered his questions right and bled just as red as anyone else. It should’ve been enough to put this to bed, but Elina didn’t look convinced.
+
+After clearing Gadron, she made her way over. “Something’s… amiss about him,” she whispered. “His mana, perhaps. I can’t rightly say what it is.”
+
+Cole didn’t know enough about mana to confirm anything, but he’d learned to trust his teammates’ instincts. He waved his team over. “We’ll keep an eye on him. For now, let’s just get outta here before we run into that Nevskor.
+
+“We shall return to Nolaren and deliver our report,” Warren said. “Let the recovery teams see to the fallen once the area is secured.”
+
+They walked back to the river without incident, boarding the shuttle.
+
+Gadron sat unnaturally still, staring off into the void. Could be shell shock, could be survivor’s guilt – Cole had seen both often enough. There was definitely something off with him. His gut might not have any clues, but Elina did, and that was enough.

@@ -1,0 +1,129 @@
+The training grounds sprawled out ahead of them as Warren led them past the admin building. Rows of packed earth targets dotted the firing lanes – much like the setup at the castle.
+
+An instructor at one of the lanes casually waved his hand, and the earthen targets started bobbing and weaving like they were on strings. Two recruits tried to track the movement, rifles shouldered, but kept missing as their target dipped and rolled. The one on the right even looked ready to blame his weapon. He’d get there eventually.
+
+The far end opened up into a live-fire course. The earthen terrain was shaped into an urban combat setup – buildings, walls, alleys – but in an architectural style unlike the rest of Alexandria. It sported an almost contemporary look. The Istraynians, it seemed, were closer to the modern era than Cole initially thought. A few shots rang out as they walked past.
+
+Warren gestured toward a three-story building overlooking the range: two blocks connected via several open-air passageways. “Our primary training facility.”
+
+The first floor was dedicated to indoor ranges. The doors were buttoned up tight – familiar setup with the colored lights and warning signs. A few Slayers huddled around a planning table near the entrance, probably sorting out their schedule.
+
+The second floor, visible through the stairwell, looked more like admin or educational space with offices, briefing rooms, and classrooms. According to Warren, they’d be seeing a lot more of this area in the coming weeks, learning everything from demon physiology to advanced magic theory.
+
+They exited, cutting across the passageways. The open air revealed more structures to the side, including a fitness center. It had newer construction than the stone facades they’d been seeing – lots of windows and open space. Shit, it honestly wouldn’t look too out of place on a college campus if one ignored the Victorian touches. Cole spotted guys coming in and out of the gym with a mix of uniforms and PT gear, towels slung over shoulders.
+
+Warren led them through a set of double doors into Celdorne’s fanciest gunsmith shop – the castle being exempt from any comparison, of course. Wall racks and workbenches mixed with shit that would have DARPA foaming at the mouth. Cole could barely identify a third of the stuff here, starting with the simple manameters. Too bad the folks at Picatinny would never get their hands on this.
+
+Warren brought them to an older smith breaking down a rifle at one of the benches. Some of the runes glowed faintly under a jeweler’s loupe. Had to wonder what would happen if one of those runes got chipped or started wearing down. Given how these things could bisect a demon, probably nothing good. But then again, given Celdorne’s propensity for procedure, maybe the gun would just be… not as powerful.
+
+The next bench over contained rows of blue crystals slotted into aerochalcum fixtures. Basic charging station – probably cycled through a few hundred of these a day keeping all their gear topped off. Rifles, packs, even those fancy cars like Warren’s.
+
+“Mister Marlyle, I’d like to introduce you to our heroes,” Warren said.
+
+The smith glanced up. The man was shredded – so much so that Cole had to do a double take at his subdued, fatherly manner of speech. “Warren, lad! These the new recruits, are they?” “A fine sight, indeed. Well then, step in! There’s always room for those who’ll put fine tools to better use.”
+
+“Indeed so.” Warren turned to them, motioning toward the man with the loupe. “Master Armorer Trent Marlyle shall oversee your section. Inspections are held monthly, unless heavier use demands more frequent care. Keep watch on your runes – wear or damage leaves you no better than a common rifle. Remember: a flaw caught here can be mended; a flaw left unchecked will betray you in the field.”
+
+Cole nodded. Their group didn’t need to be told twice. Hell, he’d had sand fuck him up one too many times to know just how important maintenance was. Middle of nowhere, random ass desert, cleaning his rifle for the third time that day because even looking at the dust wrong could jam him up.
+
+“How far along are they?” Trent asked, shaking their hands.
+
+Warren folded his arms, nodding toward Cole and the others. “They shall require full kits on the morrow.”
+
+“Right, then.” Trent slid his loupe into a pocket. “Have you any experience with arms before?”
+
+“Only the basics,” Cole replied. “Three weeks with the enchanted ones. Before that, nine years with all sorts of firearms.”
+
+The others had similar responses, with Miles doing the Southerner stereotype no favors.
+
+“Well, lads, suppose that’d explain the way you carry yourselves. A steady hand and a practiced eye’ll save you half the trouble. You’ve only to learn the quirks, and that’ll come easy enough. Your gear’ll be ready by nine – bright and early. Come find me then.”
+
+Warren brought them out of the armory and guided them past the maintenance bays, toward another set of doors. “Through here lies Development.”
+
+Inside was a real spectacle, one that reminded Cole of DARPA contractors tinkering with new toys. Except… without the electronics. Looking through these labs, Cole had to wonder what they were cooking up next. Something about crystal drain rates, based on the cursing from the test range. Maybe it was for the guns on those massive towers?
+
+Development was spread out through several connected workshops. The main floor was assembly, basic testing, and officework. The side rooms and outdoor range were apparently where most of the action happened.
+
+One such room housed a testing rig with clamps. Nothing special about it, either. Just a simple device with pulleys and winches applying measured loads until something gave. Glass panels lined the test area – fragile as hell normally, but those glowing runes probably had that covered.
+
+It was no Instron; that much was sure. Friction losses, among other things, had to be playing hell with their actual numbers. They wouldn’t be getting any accurate yield strength numbers, but the device probably told them all they needed to know – which material was shittier than the others.
+
+Right on cue, the test piece snapped with a crack. The thing went flying straight into the barrier, which lit up with hexagons. Guy running the test barely looked up from his notebook and opened the panel, hooking up the next sample.
+
+An elf greeted them as they approached the main workspace – dark lipstick, silver jewelry, and a formal dress that had definitely seen some creative modifications. Seemed like even elven nobility had their rebels.
+
+“Sir Warren.” Her tone was silk-smooth aristocrat – as polished as any other noble they’d met thus far, but she wielded it like a private joke. “Come to see our torture of perfectly good metal today?”
+
+“Lady Kathyra Valise takes charge of our materials research,” Warren said. “Captain Mercer and his team.”
+
+“A pleasure, truly.” She picked up a leather folio, tossing a wink their way – hopefully not towards happily married Ethan. “Though I must away to the research campus. The Biology division has grown terribly excited over their Nevskor specimens. Most resilient creatures, or so they insist.”
+
+“Indeed? We’re bound there as well.”
+
+They joined Kathyra as she boarded a shuttle outside – nothing fancy like Warren’s Series 8, just a simple transport closer to an old tram than any modern bus. She settled into a seat, balancing her folio on her lap. “I imagine you’ve yet to encounter a Nevskor in the field?”
+
+“Well, we’ve yet to encounter the field itself,” Cole said, grabbing a seat directly across from her. “This is the first time we’ve left the castle.”
+
+“We did run into those Mimics, though,” Ethan mentioned.
+
+“Mimics…. Ah, the infiltrators?” Kathyra leaned forward. “Did you… Well, see them change their form, by any chance? Or had they already assumed their disguise when you came upon them?”
+
+Cole shook his head. “Just the end result. Watched one lose its disguise after death, though. Kinda like watching clay melt, maybe?”
+
+She pulled out a notebook, probably jotting down the clay description. “The specimens Sir Charles dissected exhibited peculiar qualities – flowing as though it were water, yet never losing their cohesion. No separation nor decay. I imagine your observation was much the same?”
+
+Miles snorted. “Cohesion? Hell, I dunno ‘bout that. Looked more like a candle left burnin’ too long – slumped over but didn’t fall apart.” He scratched at the back of his neck, frowning as he dug up that unsavory image of the Mimics. “If this Sir Charles says it flows like water, reckon that tracks. Didn’t see it rot or nothin’, but it sure wasn’t what I’d call solid. Dunno what else to say ‘bout it aside from the fact it was damn fugly.”
+
+“‘Damn fugly?’ Indeed, Sir… Miles, was it? A hideous marvel if there ever was one.” Kathyra chuckled. “Nothing of their like exists in nature, not among the living, at any rate. We’ve endeavored to glimpse the transformation itself, yet… Well, our specimens, alas, lack the basic courtesy of being alive. Still, what we’ve gleaned is remarkable – quite unlike the Nevskor carapaces.”
+
+“Nevskor… you keep mentioning these. What are they?” Cole asked.
+
+Warren answered without hesitation. “Armored beasts – impervious to sword and rifle alike, though vulnerable to field guns.”
+
+“The vile Mimics rely on that grotesque mutability – hardly noble,” Kathyra remarked. “The Nevskors, at least, seem designed on the merit of structure. Unyielding. Enduring. Dominance over deception.”
+
+Kathyra pulled out several detailed sketches from her folio. The first showed the creature itself – a nightmarish cross between a giant insect and a predatory reptile with a hunched carapace and six armored legs. And if that wasn’t enough, the damn thing was clad in segmented plates, bristling with spikes.
+
+More illustrations showed scientific diagrams of the creature’s components, from the structure of the carapace to its basic physiology.
+
+“Their armor is, I must admit, a marvel,” she continued. “A composite of chitin and mineral and fiber, layered and bound together in a way that is – well, difficult to describe without study.”
+
+Cole analyzed one of the diagrams. The overall setup was similar to old Japanese armor, boasting overlapping plates connected by some sort of fibrous material – a combination of defense and mobility. “A lamellar layout,” he realized.
+
+“How do you capture specimens for study?” Mack asked. “Can’t imagine they volunteer.”
+
+“Ha! Why, that would be rather optimistic, wouldn’t it?” She collected her documents as they neared the research campus. “To isolate one from its pack is, shall we say, an exercise in futility. We do not, as a rule, concern ourselves with capturing any live specimens; their remains, pulverized by artillery or scorched in flame, are far more amenable to study.”
+
+Outside the window, a power plant squatted near the waterline. Multiple stacks belched oddly clean white puffs into the air while intake pipes stretched out into the water. No electrical lines overhead, so the various substations were probably connected via underground conduits.
+
+Kathyra paused, glancing at the plant in the distance, “Were we inclined to take one alive, the methods, I suppose, would be elementary. Earth magic and wind magic, to ensnare and suffocate. Crude, perhaps, but perfectly serviceable. Alas, such efforts seldom justify the risk.”
+
+The shuttle slowed as they finally arrived at their stop. Another nullification arch spanned the road, this one adorned with more runes compared to the base entrance. The familiar mana compression hit Cole as they passed through.
+
+The second checkpoint seemed almost redundant this deep in OTAC territory. Then again, they still didn't know half of what demons could do. Those infiltrators had been one nasty surprise – for all they knew, some demon subspecies could sprout wings or burrow underground.
+
+Past the walls lay something like a Victorian university quadrangle, though the similarities ended there. The perimeter wall wasn't meant to keep threats out; the guard towers faced inward, arranged to cover every possible escape route from the buildings and courtyard. The space between buildings was open, but each building had a chokepoint of an entrance – or exit.
+
+The north building dominated the complex proper – three stories of granite and steel built like a supermax prison. Definitely for securing and containing. Protecting? Well, who knew how many breaches had occurred so far. Not many drastic breaches, if the relative cleanliness of the campus was anything to go by.
+
+According to Kathyra, the east and west wings housed less dangerous research but maintained similar containment principles. The southern wing, like the north building, was completely isolated from the other facilities.
+
+She cast an elegant gesture toward it with her folio. “Artifact Research. Here lie the finest relics of a civilization far beyond our own – elegant, precise, and utterly harmless. Provided, certainly, that one approaches them with the requisite wit. Unfortunately, such wit is not always in abundance.”
+
+Miles snorted. “Ain’t no way you’re puttin’ folks on this who can’t tie their own boots, are you?”
+
+“You would think not,” Kathyra replied with a smirk that lasted a good half-second before vanishing. “And yet, when the pay is substantial, there is no shortage of individuals eager to feign competence. The lengths some will go to for coin – it would almost be admirable, were it not so thoroughly pathetic.” She frowned, not bothering to hide the look of pure disgust on her face. “They clutch at wages as though they’ll live to spend them, yet it is their own ineptitude that ensures otherwise. Ugh.”
+
+Cole caught Miles actually smiling throughout the little rant – a hell of a rarity, but one much welcomed. Wasn’t his usual smirk either; it seemed the goth aristocrat had a way of making disdain sound downright entertaining. Then again, anyone who could make ‘thoroughly pathetic’ sound that refined probably had stories worth hearing.
+
+“Anyway,” she sighed, collecting herself once more, “this is the domain of Sir Raylan Strinrik and Sir Johnathan Allesoire – our resident dwarf and elf research partnership, if such an absurdity can be believed. Their incessant bickering over methodology is nearly as entertaining as their discoveries. That they have not yet come to blows is truly a marvel, though I supposed their shared thirst for acclaim binds them together. At present, they are in the Wastes – a monthly expedition.”
+
+They stopped as they reached the western building. “Sir Charles, naturally, will argue that his biological specimens are the greater marvel. One need only mention mechanical superiority to see the old lion’s mane standing quite on end. As though a few mangled carcasses could rival the elegance of machines that might bend reality to their will. Such tiresome debates, but one must endure them, I suppose.”
+
+Kathyra adjusted her collar. “Well then, I must away to my meeting. The findings shan’t present themselves, though I suspect they may prove more intelligible than half the minds set to review them.” She turned, pausing briefly to offer Miles a smirk. “Do make an effort to avoid being devoured by anything… unusual, won’t you?”
+
+Miles grinned. “No promises, ma’am. If somethin’ does take a bite outta me, though, I’ll be sure to leave it worse off.”
+
+Warren watched her go, then turned back to the team. “Well, it seems Sir Charles Sektarr’s engagements leave him little respite. An introduction shall be arranged when circumstances allow.”
+
+He gestured toward the entrance checkpoint. “For now, there remains but one matter to attend: the selection of your quarters. The estates reserved for you lie in an adjacent area, close to the mansions of the Director-General and my peers. No doubt you noted them as we passed – grand homes befitting heroes. I daresay mighty heroes such as yourselves shall find them to your liking.”

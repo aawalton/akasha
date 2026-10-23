@@ -1,0 +1,133 @@
+“We call it the plasmaball,” Mack began. His grin remained even as a more thoughtful expression crossed his face. “Before I demonstrate, lemme ask: what do you know about plasma? I remember Lady Elina mentioned ‘radiant flame’ back in the forest, but that term – what does it actually mean to you guys? Is it just… extremely hot fire? Something else?”
+
+Cole remembered what she had said. Now that he thought about it, ‘radiant flame’ did seem like a curious term. Familiar as he was with thermodynamics and states of matter, his courses didn’t necessarily include the history of it; just what was understood in the modern era. Whatever the Celdornians understood of plasma must be archaic by at least a century.
+
+Verna and Warren both glanced at Fotham, who more than happily took the wheel. “‘Radiant flame’ refers to fire driven beyond its natural bounds by magical pressure. The phenomenon has been known for centuries, though only of late has it been properly documented and studied.”
+
+Fotham paused – likely assessing their reactions – before continuing. “This state bears certain distinct properties: a heat most penetrating, a brilliance quite extraordinary, and a marked resistance to magical containment. Our scholars have made thorough study of these effects, though I daresay you have formed your own theories already.”
+
+Verna nodded. “Our finest battlemages describe it best: a fire that no longer heeds the hand that conjured it. Ordinary flame bends to will; radiant flame strains against it, as though possessed of some hunger of its own. We know it by the way it seizes at mana, how it surges and thrashes beyond command.”
+
+She said it academically enough, like it was all theory, but Cole knew better. There was a look she got, the same kind storm chasers must have – that crazy tilt forward, half knowing they ought to be scared and going anyway. Whatever else the others felt when they spoke of plasma, Verna only looked more alive.
+
+“In study,” she added, “we mark its brightness, its dreadful heat – but it was in battle that we first understood its true nature. It is not merely ‘hotter’ flame; it is flame transformed; made sovereign. Aware, perhaps. A thing that desires to burn, whether summoned for that purpose or not.”
+
+Mack nodded along as Verna spoke, looking like he'd just found the missing piece to a puzzle.
+
+“Okay, yeah. That actually fits pretty well with what we’re talking about, even if the cause isn’t quite… awareness.” He paused, giving himself room to breathe. “So… we call this ‘plasma’. It’s a different state of matter entirely.”
+
+Mack flipped his hands like he was laying cards. Water coalesced between his fingers – and suddenly, a shard of ice spun into being, hovering over his palm. “Ice,” he said, plain and simple. “It’s a solid. Heat it up, and it turns into liquid water.”
+
+He gave it a nudge of heat, and the shard melted down to a large droplet, hovering steady in the air.
+
+“Heat it once more, and it transforms into steam, wherein the atoms disperse, loosened from their bonds,” Fotham said.
+
+Another wave of heat, and the droplet vaporized into a mist.
+
+“Yeah. Every stage, you apply heat, and the atoms get further and further apart. But gas isn’t where it stops. What happens when you push it harder? Apply more heat – hotter than a forge, hotter than you can get in a kitchen fire?”
+
+The vapor cinched in, pressure shifting as static tickled Cole’s skin. It was like someone had wired a Tesla coil in front of them, or like standing too close to a taser about to arc.
+
+“Like lightning,” Warren observed.
+
+“Sorta, yeah. Lightning is naturally occurring plasma. Same with the sun – giant ball of plasma. That’s what this spell is. You can think of it like…” Mack paused just long enough to make it clear he knew what he was about to say, but didn’t care. “Like having the power of the sun in the palm of your hand.”
+
+Cole almost snorted. At least it wasn’t technically wrong.
+
+“It conducts electricity, reacts to magnetic fields, radiates light and heat way more efficiently than regular fire.” Mack surrounded the plasma with barriers, building up a lighter version of the spell he had annihilated K’hinnum with. “You pop this into the modernized fireball, and voilà: your very own plasmaball!”
+
+If the Celdornians were miffed by Mack essentially demoting their mystical ‘radiant flame’ to a category on a physics chart, they didn’t show it. If anything, they all looked more intrigued that they were one step closer to learning how to cast their first plasmaball.
+
+“Alright, I think we’re on the same page.” Mack clapped his hands together, letting his spell dissipate so he wouldn’t waste mana keeping it in place. “So how ‘bout we see what this bad boy can actually do? Sir Warren, would you mind setting up a target? Something as tough as you can possibly make it.”
+
+Warren nodded. “As you wish.”
+
+He stepped forward and raised both hands. The ground trembled as Warren called up a massive column of earth before compressing it inward, the dirt packing tighter and tighter until it gleamed like polished granite. When he finished, the result was no different from the Great Wall of Concrete that served as Alexandria’s last line of defense.
+
+“Will this suffice?” Warren asked.
+
+Mack whistled. “Yeah, that’ll do it.”
+
+Ethan let out a low whistle of his own. “You’d need sabot, at the very least.”
+
+Mack turned to Verna. “Lady Verna, mind giving it your best shot? Let’s see what we’re working with.”
+
+Verna stepped forward without hesitation, pulling a wand from the loops at her hip. She started with what Cole assumed to be the magic version of an armor-piercing round: a single dense spear of compressed stone, its tip honed to a needle-fine point.
+
+She slotted it into a transparent tube formed from barrier magic, bracing it like a mortar launcher. Then came the real punch: a controlled fireball spell at the rear of the tube. Pure ballistics, just souped up with mana.
+
+“Stay clear,” she warned.
+
+Once she’d confirmed everyone was at least a good ten feet from the construct, she let loose.
+
+The fireball detonated inside the tube, and the spear shot forward with a vicious crack. It slammed into Warren’s conjured target with a noise like a battering ram hitting solid steel. Dust and shards burst outward, but when the cloud settled, the column was still standing. A gouge ran deep across its face – ugly, jagged – but the core hadn’t budged. Not even in the slightest.
+
+Whether she was proud to have scratched such defenses or disappointed she had only grazed it, Cole couldn’t quite tell. What he could tell, especially after getting a closer look at the aftermath, was that she had impeccable aim and power.
+
+Her attack probably could’ve done some serious damage to a Bradley, though not quite any main battle tank. Against K’hinnum, it might’ve wounded, maybe even severely – but not killed. And against a Vampire Lord like that, it meant getting killed in return.
+
+Mack tilted his head, humming as if to say ‘not bad’. He then turned toward Fotham. “Sir Fotham,” he said, “outta curiosity – what would it take to actually bust through that?”
+
+Fotham didn’t answer right away. He moved closer, fingers laced behind his back, surveying the battered surface like a drill sergeant examining uniforms for specks.
+
+“Lady Verna’s approach is, I find, most apt,” he said at last. “However, it falls rather short of complete penetration. The construct’s density is such that, absent extraordinary means, conventional methods avail little. To rupture it outright would necessitate not merely greater force, but a greater refinement of methodology, possible only at Level Eighteen and beyond.”
+
+He repaired the damage with a literal wave of his hand, compacted dirt filling in the gaps until the column was as good as new.
+
+“Even then,” Warren added, “it would depend on finding a fault in the structure. Absent such, the energy demanded would render any assault impractical – ruinous, even.”
+
+Mack gave a low whistle. “Yeah. Figured it’d be something like that.”
+
+Verna raised an eyebrow. “And here I thought you were saving the spectacle for later.”
+
+“Trust me,” Mack grinned, “I’m just getting started.” He nodded to Fotham, pointing at the repaired column. “I’m gonna limit my output to Level Fourteen, just to show what’s possible.”
+
+Mack lifted his hand, palm up. Plasma sparked to life – nowhere near supernova levels, but still respectable in its own right. Even when scaled down, Cole didn’t doubt the spell’s power; it looked more than enough to do the job.
+
+With a casual flick, Mack sent it flying. A sharp snap, and it crossed the distance.
+
+The impact returned with familiarity: a blinding flash, a pressure wave that shoved the air outwards then sucked it back. Where the plasmaball struck, the granite-hard column simply vanished.
+
+Dust billowed, then settled rapidly. Verna’s reaction came as no surprise, honestly; given how her eyes lit up earlier, Cole figured seeing something this potent and novel firsthand would get her going. And it did.
+
+Warren’s reaction was quieter, but no less intense. Instead of the traditional widened eyes and dropped jaw, he expressed his approval in a manner Cole knew all too well: the smirk of an operator who’d just found a new toy to play with.
+
+Fotham, naturally, was the hardest to get a read on. But the little curve to his lips suggested that he was in the same boat as the others, even if he’d done a better job at hiding it.
+
+However differently they might’ve expressed themselves, the end result was the same: the hole drawing their gazes like an MRI machine sucking in magnets. Cole couldn’t blame them. Verna’s gouge was impressive; he had to give her that. But Mack's spell was, quite obviously, on another level. Like a Javelin hit, but silent, faster, and – to top it all off – conjured from thin fucking air.
+
+“Sublimated…” Fotham murmured, damn near ready to abandon the facade of composure.
+
+“Hot damn,” Miles whistled. “Y’all hit K’hinuum with this? If this ain’t even the full strength, I sure missed one hell of a fireworks show.”
+
+Cole’s mind drifted to Elina. Knocked out the first time, and preoccupied the second. She was probably seething in the infirmary right now, lamenting the fact that she’d so far missed out on all the chances to see a plasmaball in action.
+
+Mack’s sharp clap cut through the lingering awe – or maybe just the ringing in Cole’s ears. Hard to tell which was more persistent right then.
+
+“Impressive, right?” Mack said. “It’ll punch through damn near anything. But the mana cost… Even scaled down, capped at Level Fourteen, I could maybe pop off five, six of those max. One shot uses the same juice as… I dunno, maybe ten of Lady Verna’s kinetic spears, give or take?”
+
+He ticked points off on his fingers. “That’s just the raw cost. Then there’s being able to actually cast the spell to begin with. It’s not like lobbing a regular fireball, or even our special version. First and foremost, you gotta know what plasma is and how it works. Past that, it’s a matter of being able to visualize it. I got no clue how to make an enchantment, so until that happens, the spell is restricted to higher-level mages.”
+
+Warren nodded slowly. The raised eyebrows and lines of shock softened, however. “It is formidable work, Sir Mack. Unquestionably so. Yet K’hinnum, forewarned, shall not so easily fall again. When next you meet, he will strive to break free ere the blow is readied. How would you strike a foe who has learned your hand?”
+
+Cole almost snorted. Warren’s question cut right to the heart of it – the difference between a weapon’s raw power on paper and actually getting ordnance on target when said target was actively trying not to get hit. Active defenses, countermeasures, maneuver… yeah, that was the real problem. Even now, he couldn’t shake the veil of luck that permeated his success in trapping K’hinnum.
+
+This time at least, they’d gotten enough time to think it over. “Where we come from,” Cole stepped up, “we learned you don’t rely on a single ‘silver bullet’, no matter how powerful, precisely because the enemy gets a vote.”
+
+He raised his own column – not as jam-packed with stone as Warren’s, but enough to serve as a simple dummy and get the point across. “Trapping the target ain’t the only trick up our sleeves. On top of immobilization, there’s disorientation, catching your target off guard, or even plain overwhelming them – all to create an opening for the heavy hitter like the plasmaball. It’s usually about the combination, stacking the odds in your favor until you can pretty much guarantee the main strike lands.”
+
+Fotham didn’t seem impressed. “Coordination between arms is by no means foreign to us, Sir Cole. Our Slayer teams, in particular, cultivate close habits of cooperation — though each tends to shape its own methods according to the temper of its men. Our batteries, likewise, are trained to lend their fire in concert with the infantry, when the field permits.”
+
+Cole raised an eyebrow. Did the man really just downplay the concept of combined arms as some ad-hoc cooperation? He was about to channel the spirit of a Green Beret before Warren thankfully intervened.
+
+“Habits of cooperation serve well enough, so long as the men hold steady, and the field lies as one expects.” Warren faced Fotham, shaking his head. “But I do not think Sir Cole speaks of habits, nor of temper. He speaks of a form – a design laid down beforehand – such that even men of different tempers might move as one.”
+
+“A doctrine,” Miles offered.
+
+Warren’s appreciation of their values revealed itself through a smile. “A doctrine, yes. Well enough. Yet I would offer this caution: magic is no steel. It bears neither uniformity nor constancy. A doctrine founded upon it must account for its irregular nature, which is oft as strange as it is potent. If you mean to pursue this in earnest, seek out Lady Verna. Should her time permit, she may instruct you in the sharpening of the mind—those spells that heighten perception and hasten judgment. Without such discipline, I fear your coordination, however well-drilled, shall remain a step behind.”
+
+“I’ve the time, most certainly,” Verna confirmed with a grin. “Tomorrow, perhaps?”
+
+“Yeah, we can go with that,” Cole answered.
+
+Fotham straightened up, his composed authority fully returned. “Excellent. We shall begin preparations immediately. Thank you for today’s demonstration.”
