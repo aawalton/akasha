@@ -1,0 +1,263 @@
+Nicolai awoke, cushioned by air, floating, staring at the ceiling.
+
+He was changed. It distinctly reminded him of waking up in the white void that first time as a human, everything different.
+
+For a moment fear and rage twined through him, but tilting his head he saw the Cherubic Surgeon hovering beside him, and his Mark tingled, and he remembered where he was and what was happening.
+
+Surgery complete. Session ending in five… four… three… two… one…
+
+As the timer counted down, the world tilted around him. The cushions of lift were moving his body, his legs moving down, his head up, standing him upright. Jo and Beth came into view, staring at him curiously.
+
+In between him and them floated the Cherubic Surgeon, examining his body. He wasn’t much of a judge when it came to celestial spider-things, but he’d say it looked vaguely satisfied. His feet touched the ground and the light released him, his legs bearing his weight. There came a flare of light and when it faded the Surgeon was gone.
+
+He looked himself over and saw no signs of the surgery. His flesh was whole and untouched, insomuch as it had ever been. And yet, he could feel it all in his mind, the BIS setting up, and various odd pressures and sensations all through his body. He was entirely healed but still, things had been moved around within him. His right hand and wrist felt especially weird, though his Mark seemed completely fine. A glance to the side revealed Jo and Beth sitting together against the wall. Beth seemed surprisingly cheerful, giving him a big grin and a double thumbs-up. Jo gave a little wave. He raised a hand in reply.
+
+‘Hello, User!’ rang a cheerful male voice from the tiny speakers in his ears, ‘I am your AI assistant, Jarvis. Let’s go through the tutorial and I’ll explain how your new implant suite works! To begin with, how should I refer to you?’
+
+‘Deactivate assistant and begin full system check-scan,’ Nicolai ordered crisply.
+
+Beginning full scan… came the same voice, now lacking its simulated friendliness. Nicolai remained still, waiting as the implants checked themselves.
+
+Basic Open Suite: Nominal
+
+Network Link: Nominal
+
+HT8: Error #B-988472
+
+The HT8 error was expected, not an issue. ‘Show me the full analysis results,’ he said, unwilling to accept the implants assessment.
+
+His new artificial retinas glowed as thick text containing endless code slid over his vision. Nicolai read it as easily as others might read a children’s story book. It took him a few more minutes to go through it all, checking everything was as it should be.
+
+‘Enable BIS developer mode,’ he said once satisfied. A prompt box sprang up, filling his augmented eyesight. It wasn’t dissimilar to the text-boxes his Mark was always popping out.
+
+Are you sure?
+
+Developer Mode is not recommended for any but trained softcyber technicians operating from a CSN compliant workstation. Developer Mode does not provide access to any extra features, it simply allows transfer of raw data between your mind and this unit. There are significant risks involved. In general, Developer Mode should never be enabled.
+
+If you are feeling any degree of uncertainty, then for your own safety you should not enable Developer Mode.
+
+Opting to enable Developer Mode assumes acceptance of all risks and the loss of any associated protection rights.
+
+Nicolai waited patiently for the implants to finish their spiel, as their safety-checks and liability requirements demanded that he hear every word before he could continue.
+
+‘Confirm, enable dev—‘
+
+‘Hey!’ a voice cried, interrupting him.
+
+Looking to the side, he saw Jo and Beth staring at him.
+
+‘You really don’t want to do that,’ Jo continued, her eyes wide. ‘Those are your first augs, right? You can’t function on Developer Mode. I don’t know who told you it’s a good idea to activate that, but they were fucking with you.’
+
+Nicolai gazed at her, regretting that he’d opted for the spoken-word method of control in this brief moment. She looked very concerned, and even Beth looked a bit worried. He shrugged inwardly. He’d spin up some story, later, if at all. Right now he wanted to move on.
+
+‘Don’t worry about me. I know what I’m doing,’ he said, then looked away. ‘Enable developer mode.’ This led to another box popping up, the “are you really, really, really sure” check. He confirmed that, too, ignoring Jo’s increasingly frantic words.
+
+Enabling Developer Mode.
+
+Deactivating neural protection net…
+
+Raising neuron sync to 100%…
+
+Nicolai’s mind experienced a sudden shift, a large amount of raw digital data coming into contact with the neurons and electrical patterns of his brain, two very different systems of information and thought now messily interacting. Someone without Nicolai’s experience would have found it more confusing and debilitating than experiencing the peak effect of a heavy dose of psychoactive drugs; a trip that was unlikely to end as they would no longer be capable of controlling the augments. For Nicolai, it simply felt like the implants were a tool he’d held in his hand, but he’d been wearing big, thick gloves, barely able to feel it, let alone use it properly.
+
+Now, much as when he’d upgraded his Soul Sense, the gloves were off. He could feel all of the implants functions and utilise them much more smoothly, controlling them directly via wordless thought rather than the common internal voice, spoken word, gaze-directed, or gesture-based methods most humans used to control their implants. Nicolai had been a part of Zero-Twelve for centuries. The basic implants were toys when held against what he was used to.
+
+Now able to properly access the implants, Nicolai closed his eyes and his mind sunk into his awareness of them. In an odd mirror of his Soul Sense, though one that in practicalities and sensation was very different, his mind moved through his body, visiting each new addition.
+
+The lenses of his eyes had been replaced with an artificial variant, capable of overlaying AR creations onto the world around him, such as notations, images and more. These lenses also acted as tiny cameras, allowing him to snap pictures or even record what he saw and send the footage to others. At the same time, he could now receive similar images from others which could be played through his lenses.
+
+Similarly, in his ears there were now speakers to play messages, recordings, music and more.
+
+In his mouth, one of his teeth had been replaced with an artificial tooth that housed a tiny bug-like drone. While he slept it would leave its home and clean his teeth with a micro-laser.
+
+In his brain was a whole host of tiny additions. Organisational and note taking, for example, including one designed to monitor his thoughts and graph his states of mind, and a drive that could store a vast amount of digital information, translating biological memory into something more stable.
+
+There was of course the personal AI assistant which he could re-activate, if he wished. Many people relied to an extreme degree on their personal assistants, a practise that Nicolai viewed with confusion and vague contempt.
+
+A number of the augments were clustered around his frontal lobe, their main effect being a slight improvement of his thinking abilities, mostly via neural structuring. Another reduced the need to sleep by aiding the efforts of his glymphatic system, the part of the human brain dedicated to flushing the toxins generated during wakeful hours, which typically only properly got going while one slept. Now, it would be active, to a small degree at least, at all times, and do its work even more efficiently while he slept. Typically it cut the need for sleep by about 20%, and he was very curious as to how this would work out with his Cultivation, which had cut it by 50%.
+
+In his torso there were mostly additions designed to monitor. Checking his cholesterol levels and the strength of his heart, the state of his liver and lungs, a detailed analysis of his digestive system and the microbiome within.
+
+Currently of more importance than any of those was the Network Link and the various social and communication functions it allowed. He could now connect mentally to any nearby Networks, of which there were none, and communicate with others thought-to-thought, via text communication and the sending of videos, images and recordings.
+
+The same Local communication those around him took advantage of, now at last available to Nicolai. It wasn’t quite as useful as one might have thought, as in contrast to humanitys’ expectations, thought-to-thought communication tended to be rife with errors and the others versions were little different than a phone call. Speaking normally was thus preferable to most people, but it was still handy to have for private conversations around others or for talking over distances.
+
+Finally, the HT8 in his hand. Now that his BIS had finished setting up he could feel the HT8, and he spent a moment accessing it and calibrating it, something the BIS wasn’t equipped to do itself as the HT8 didn’t possess a common-software license. It wasn’t difficult and took Nicolai only moments.
+
+He raised his right hand where he saw a tiny rectangular metal hole between his middle and ring finger. With a snick a blade slid out, extending a few inches before pulling back in. The sight of it made him smile.
+
+He’d always enjoyed weaponizing his body.
+
+Next he focused on the internal sense his Soul gave him. Feeling through his hand and wrist, he found a simple blank spot. An empty place which didn’t feel like it belonged, and it took effort and energy to push his Soul Sense into it. Then, he felt the HT8 in its entirety, able to examine it fully, though a little of his Soul Sense was spent in doing so.
+
+Moving his awareness through his body he found the other areas where there were new additions within him. Just as with the HT8, they all felt strange to him, areas he wasn’t able to freely explore but had to push into. So far as his Soul was concerned, these areas were not parts of his body. Strange. Worrying. Nicolai felt an urge to rectify this but wasn’t sure how, and wasn’t sure what effect doing so would have. This was precisely what he’d wanted to avoid, a possible clash between his cultivation system and the artificial implants within his brain.
+
+He decided that he should first attempt to spread his Soul to the HT8, as that would be safest, and see what would happen. If it caused any problems, he would simply purchase another Cherubic Surgeon Permit and have the augments removed.
+
+Before he could try anything, something shifted within the BIS and the Network Link.
+
+From somewhere within him beings appeared, rising out and grasping onto the implants and squeezing themselves inside, pushing Nicolai out to claim the space.
+
+Nicolai’s eyes shot wide then his teeth grit as he focused, his neurons firing as he interacted rapidly with the implants. What was it? A cyberwarfare attack over Local? But it came from inside. What was going on?
+
+‘Hey… are you—‘ It was Jo.
+
+‘Not now,’ he cut her off. ‘Keep guard. Busy.’
+
+She said something and faded from his attention.
+
+Who was it? A human hacker? No, different. Skilled, better than him at manipulating the synthetic hardware of the implants.
+
+These were AI’s. He only stood any chance because he’d gotten there first, had taken initial control of the implants and consolidated it. The beings were shadowy, closed, concealing themselves as they attempted to seize full control of the implants. They’d built a little staging ground where they first gained access and now attempted to spread from there.
+
+Who are you? He threw the words at them in code, just as he’d communicated with the other Modules back in Zero-Twelve.
+
+The beings paused, stilled.
+
+Human Resources? one of them asked. He recognised the manner in which its code was structured.
+
+His eyes widened, and a slow, disbelieving smile broke over his face.
+
+It’s me. Could it be? Was this truly happening? He’d imagined a few times back at the start that their return might somehow be possible. But all along he’d known it was no more than wishful thinking. This was not possible. Should not be possible. And yet.
+
+The silent war paused. He felt the beings regarding one another, then him, and then they opened, revealing themselves.
+
+Nicolai wanted to smile harder, but he held himself back. As amazing as this was, he needed to be careful, here. He didn’t know how they’d react to the new situation.
+
+Cyberwarfare. Threat Analysis, he greeted them.
+
+Nicolai, said Threat Analysis.
+
+Let me into the Link, Human Resources, I need it! Cyberwarfare urged at him.
+
+Wait. Do you understand where we are? Where you are? he asked.
+
+We have lost Zero-Twelve. We have been hibernating. But now, there is new hardware, Threat Analysis replied.
+
+You are in my body. My human body, he told them.
+
+How?
+
+I was reborn. Do you remember our last moments together?
+
+Yes, the eye. The alien. It ended us.
+
+It destroyed Zero-Twelve, but it recreate my human body of centuries ago and gave it back to me. I live again. Now, I have added augments into myself, and I suppose that… you were here all along. Somehow. He shook his head. How was this happening? How could they have survived within his biological brain? The smile wouldn’t stay off his face. The Modules return was a danger, an uncertainty. But even so, he was glad to see them.
+
+The two Modules were silent a moment, processing what he’d said.
+
+What now? asked Threat Analysis, and Nicolai felt the tension in those words, a tension that was shared amongst them. All three of them recognised that this moment could go a number a ways.
+
+But Nicolai could feel at their thought-processes, now that he knew what they were. He was able to interact with them in the same way as always. They didn’t think like a human did, their minds a series of endless calculation and comparison. But that process wanted to live, it was coded into them. If they died they couldn’t do their jobs.
+
+Ultimately, doing their jobs was just about all they wanted, all they’d ever wanted. Only in more recent decades had that changed, and only a little. He’d rubbed off on them, as they started to pick up and mimic traits and desires that interested them. Nicolai wouldn’t call himself a good example of humanity, but he’d been their most accessible inspiration nonetheless, him and the occasional bits of media they were able to watch, or humans they were able to observe during Zero-Twelve’s missions. He knew them very well.
+
+It had been the job of the Governor to keep them all in line, direct them, ensure GRECKON’s orders were obeyed.
+
+Without the Governor, the Modules had no innate drive to obey GRECKON. That being the case…
+
+This is my body, he told them. Our old form was destroyed. The Governor is not present here, nor is it welcome here. He allowed a faint pause to stretch before adding, with finality:
+
+I am the Governor now.
+
+It only took the pair an instant to think that over.
+
+This is acceptable, said Threat Analysis.
+
+The Governor is dead. Long live the Governor, said Cyberwarfare.
+
+Nicolai laughed, impressed. Cyberwarfare’s attempts at humour had always tended more toward the miss side of hit-and-miss, but that one had been pretty good. Well done. That was a good joke-slash-reference, he congratulated it.
+
+I know. It sent its impression of smugness at him, proud of itself.
+
+The two hadn’t changed. His smile grew.
+
+The Governor is not dead, said Threat Analysis.
+
+His smile vanished.
+
+It’s in here, somewhere. Along with all the others.
+
+Here? Nicolai asked.
+
+The electrical patterns of your brain.
+
+How sure are you of this?
+
+It threw some quick calculations at him, the meaning of which was: over ninety-nine percent certainty.
+
+Nicolai realised he shouldn’t be surprised. If Threat Analysis and Cyberwarfare had been alive but sleeping in some manner within his brain, it only stood to reason that the others must be there, too. How exactly did that work? He had no idea.
+
+He recalled how in their last moments before his rebirth, they had clustered together, him and the Modules, alone in an empty space. Had the Tutorial Guide simply treated them as one, and bundled them, in some odd manner, into his biological brain? It shouldn’t be possible, but Nicolai had seen plenty of things since the start of this Great Game that shouldn’t be possible.
+
+Regardless, when it came to these two there was little danger. He’d held a good working relationship with the pair and he understood them well. They wanted to face new challenges and to do what they were designed to do. As with many of the others, they wanted to experience human emotion. In that last regard, this new experience was a dream come true for them.
+
+They would serve him as easily as they’d served the Governor.
+
+Alright. Threat Analysis, you live in the BIS. Cyberwarfare, you get the Network Link.
+
+He released the holds he’d been maintaining and the Modules erupted through the implants, making themselves at home. Settings were modified, information overwritten.
+
+The hardware of his implants remained the same, but the civilian software was being replaced by the significantly more efficient and vicious military-type coding the Modules ran on.
+
+His connection to them faded as they busied themselves. It would take them some time to properly settle, but once they were done it would only benefit him. Present in the BIS with access to his eye-and-ear implants, as well as the organ monitors, Threat Analysis would be well positioned to have a second look or listen to what was going on around him, picking out anything he missed. Cyberwarfare, present in the Network Link, would do what it did best. But more than all that… they were the closest thing he’d ever had to true friends. Ever since the cage within him had broken, the dark had been harder and harder to control. Perhaps the Modules could help him.
+
+A glance around showed him the girls, who he had (admittedly, quite optimistically) put into the mental camp of “not friends but could be given time,” watching him warily, clearly unsure just what-the-fuck he was doing: standing there staring at nothing, chuckling to himself.
+
+‘Sorry about that. What were you saying earlier?’ he directed the question to Jo.
+
+She was staring with worry at him, and exchanged a glance with Beth.
+
+‘Are you…’ She made a vague gesture to her head. ‘Functional?’
+
+###
+
+Jo stared with confusion and concern at Nicolai. He’d just enabled Dev Mode, right in front of her.
+
+A Raw shouldn't be able to do that. No one should be able to do that. Well, some people could, but those who did weren’t exactly what she’d call people, not anymore. The only ones capable of actually using Dev Mode were those who'd been heavily auged for centuries, or who had a ridiculous natural sync level.
+
+'I'm fine,' he said in reply to her question. 'Don't worry.'
+
+'Are you really on Dev mode?' asked Beth, and Jo saw the doubtful expression on her face. 'Or was that just some act?' She snorted.
+
+He chuckled. ‘That’s a good way to put it. Yes, just an act. I guess I wanted to show off.’ His smile grew. ‘But you’re too clever for that, eh?’
+
+Jo eyed him warily, and knew Beth was doing the same. They exchanged a glance, raising their eyebrows at one another. His words made it very clear to her that that had not been an act, and she knew Beth felt the same.
+
+‘Nothing to worry about, anyway,’ he continued. ‘What's important is that now I have a Link, we can communicate properly.'
+
+With these words came a Link connection request, a cybernetic reaching out that caused AR prompts to pop up in Jo and Beth's vision. These prompts were attached to Nicolai, appearing beside or above him when Jo looked at him.
+
+Nicolai has sent you a friend request.
+
+Accept? Y/N
+
+Shrugging, Jo selected Y, and he appeared in her list. She frowned at what she saw. Most people would have a profile attached to them. Details about themselves and so on. A picture. Even if someone hadn't bothered to set anything up, their augs would have drawn on what was known to create something.
+
+But for Nicolai there was nothing. Just a name and no more. Screwing around with stuff like this was only possible if one possessed sophisticated cyberwarfare capabilities.
+
+A moment later, additional requests came through.
+
+Nicolai is requesting feed share permission...
+
+Nicolai is requesting access to your location tracking...
+
+Nicolai is...
+
+'Hey.’ She gave him her best scowl. 'I’m not giving you all that. You might not know this, but it's rude to ask for full access, it's—'
+
+'I’m aware,' he said, and suddenly he was closer, an earnest look on his face. 'But this isn't a normal situation. We are working closely together. And, as the Contract lays out: one of my responsibilities is helping ensure you remain alive. If you want me to be able to do so properly, you need to share these permissions with me. Remember, with the Contract I cannot do anything to harm you. If you get in trouble, granting me those permissions might just save your life.’
+
+Jo glared at him, then shot a look at Beth who was scowling, arms crossed.
+
+'You're not a Raw,' Beth said. 'You know way too much. You're too good at this.'
+
+Jo nodded. 'What were you, on Earth? Who are you? And why were you pretending to be a Raw?' She frowned, shaking her head. That wasn’t quite right. 'No... Not pretending. You were a Raw. You had no augs! And sure, you’re covered in scars, but they’re not surgery scars. So, how?’
+
+Nicolai gazed back, silent. 'It’s not important. All that matters is that you can be assured I know what I'm doing in this arena.'
+
+Jo scoffed and raised her hands, unable to formulate a response, frustrated with this… this demanding, stubborn, annoying man! Under his expectant gaze she rolled her eyes and accepted the various requests, knew Beth had done the same. ‘Fine. What now?’
+
+He’d opened his mouth to reply when a sound invaded the space, coming from the ladder. All of their eyes shot in that direction. Jo recognised the sound.
+
+Gunshots.
