@@ -1,0 +1,237 @@
+Max waded into the dark swirling foglets, leaving the Casino level behind.  With his senses maxed out, he “saw” the pop and flash of motes in the maelstrom of smart matter.  He wasn’t surprised when the floor dropped out and he went into free fall.
+
+“God damned, dramatic AI!”  Max yelled as both he, Mal, and his daemons struggled to see through the soup.  Max ramped up his thoughts, which calmed him slightly.  Mal reported.
+
+“[Max, the foglets are slowing our fall.  As much as this seems like a trap, perhaps it’s only a transition to get us down to the -]” Mal’s voice snapped off as Max’s world contracted.  All his senses and augmentations shut down, taking almost all his natural senses with them.  Only his vestibular organ in his ear was still reported that he was still tumbling downward.
+
+Max growled but couldn't hear his own sound.  He was still thinking fast even without his augs, thanks to the uplift virus's multiple upgrades to his biological brain.  His perfect memory highlighted a subtle signal that preceded the shutdown, and Max captured it.  He projected his thoughts.
+
+Mal?  You there?   Musashi?  Sherlock?  Anyone?  Fuck!  He fumed, his anxiety growing.  His lack of sensory stimulus ached his expanded mind.  He focused and found the hardline connections between himself and his augs.  A sputtering of signals and understanding bloomed.
+
+All his lessons with Captain Cipher on hacking and machine code must have bled over from augmented assistance into some level of real skill.  He parsed the noise and "felt" his operating system performing a reboot.  He concentrated and opened a port past the junctures through his nervous system to connect to his neural core directly.  He knew Mal's consciousness had gradually relocated out of his central augmentations and had largely taken over the module as he'd used it less and less.  His own mind had improved passed the need for external intelligence boosting.
+
+“[Mal.  Are you doing okay in here?]”  He sent.
+
+“[Max!  What’s going on?  All my connections were severed!  How are you even here in my core?]”  Mal yelled as she focused on his connection.  Max used some of her core’s processing to paint a crude VR so they could see each other.
+
+“[I managed to hack in manually.  We're still falling, I think.  My senses are cut off, too.  This isn't random.  I caught a signal right before my system crashed.  Look at this.]”  Max expanded a window showing the signal burst he’d caught.  Mal’s scarred avatar face scrunched as she parsed it.
+
+“[It’s the same programming language as your training module.  Damn it.  The Labyrinth AI must have the source code of the augmentation training system you’re using.  They aren’t playing fair.]”  Mal’s face twisted with concern.
+
+“[My thoughts exactly.  It’s hardly a surprise that none of the trainees have ever defeated the Labyrinth when they cheat like this.  But maybe I can use this…Cipher will love it.]”  Max hardened his connection to Mal and pulsed the mystery signal into his augs, forcing the reboot cycle to start again.
+
+He kept the display up for Mal and pulsed some hard learned machine code into the system.
+
+[> override --bootcycle-interrupt --auth-local.]
+
+[> cortex.debug --entrypoint=isolated_core --encryption=blindfold256.]
+
+[> patch kernel.memory /defense/sigblock_v3.kmod –added.]
+
+[> patch kernel.memory /defense/chthonic_defense_custv36-added.]
+
+[> keys.flush --external –log and notify “unauthorized handshake @ 02:14 UTC.]
+
+[> cortex.sandbox.identity --lock-state immutable –bootcycle-restart.]
+
+Mal looked startled and looked in wonder as Max ripped out programming commands.  “[Max, that’s advanced neurologic code.  How are you doing that without augment parsing help?]”
+
+“[I guess I’ve picked up on some of the tricks.  I remember everything so clearly now.  This is child’s play to just reconfigure and regurgitate.  I’ve rooted my own augs.  Now I absolutely own the base level.  I’ll know if Atropos tries this trick again.  Depending on the situation, I can either fight it or play along.]  Max said smugly.  Mal was smiling but looking at him nervously.
+
+“[That's amazing, Max.  But if you can do this, why don't you just unlock the whole system?]”  Mal asked.
+
+“[Hmmm.   I may still...if I need to, but I agree with the underlying premise of the training.  Earned skills create stronger strategic thinking and more instinctual usage of augmentations.  Atropos thinks she's going to squeeze me, but I'll take it all.  I need to get an understanding of the level and the path beyond to find that echo that's mimicking the Tesseract.  Everything that's happening has been a setup by Apex.  I can't understand how it all connects yet, but my gut is telling me this is important to it.]”  Max said grimly.  Mal's virtual image sat back as the system connections slowly knit together.  Max had been suppressing the annoying blue box notifications, but now the stream of system announcements crashed across his HUD as it relaunched and he came out of his internal mind space.
+
+[Casino Quest – Small stakes wager 9 of 10 complete. +100XP]
+
+[Casino Quest – Small stakes wager 10 of 10 complete.  +100XP]
+
+[Casino Team Match 3 of 3 complete.  +1000 XP]
+
+[Defeat an opponent in a large-stakes match.  +500 XP]
+
+[Max advances to Master level 27, XP balance 30,150.  Master level award – Open 3rd tier elemental skill Ice Spray 1]
+
+[Casino Quest: High Table match 2 of 3.  +500XP]
+
+[Casino Quest:  Knockout Match challenge – ERROR, incomplete]
+
+[Casino Hidden Quest:  Secret Alliance – collaborate with a Casino faction.  +500XP]
+
+[Casino Hidden Quest:  Inside Man – bribe a casino staff member.  +1000XP]
+
+[Casino Hidden Quest: Crack the Vault - +1000XP]
+
+[Max advances to Master level 28, XP balance 36,150, Master level award – Open 3rd tier elemental skill Acid Spray 1]
+
+[Casino Hidden Quest: Defeat the Vault Guardian - +1000XP]
+
+[Casino Hidden Quest: Escape from Casino Vault with over 1 million credits- +1000XP]
+
+[Casino Quest: Jail Break +500XP]
+
+[We the Few: Enter the Final Stage of the Labyrinth.  +1000XP]
+
+Max shuddered at the deluge of information and checked his stat sheet to see the changes.
+
+[Stat Sheet:]
+
+[Name: Max E. Mitchell                  Level: Master 28 (36,150/37,500 XP)]
+
+[Body Design Model: Custom – Canis Familiarus Uplift   Free Stats: *]
+
+[Str: 100    Agl: 100    End: 100    Vit: 100               Energy: 3720/3,720]
+
+[Per: 100    Int: 165* (not calibrated)  Will: 100       Regen: 1,200/min]
+
+[Claw/Vorpal: 10/10    Strike/Disable/KGun: 10/10/8     Stamina/Tireless: 10/10]
+
+[Speed/Reflex: 10/10    Balance/Gymnast/Dodge: 10/10/10      Leaping: 10]
+
+[Shock/Arc: 10/10     EMP Blast/Focus EMP: 10/8    Stun/Focus Stun: 10/8]
+
+[Strobe/Laser/Maser: 10/10/5    Poison/Poison Spray: 10/7]
+
+[Heat/Molten Spray: 9/4    Chill/Ice Spray: 8/1]
+
+[Heal/Regen/Transform: 10/10/10     Oxygen/Recycle/Body Isolate: 10/10/6]
+
+[Painless:10 Stiction: 8    Precise/Ambidex: 10/10     Ballistics/Ricochet: 10/7]
+
+[Unbreakable/Armor: 10/10    Skin: 10    Hulk: 9    Gland: 10]
+
+[Stealth/Chameleon: 10/10    Skin Walker: 9]
+
+[Neural Scaffold: 10    Poison/Smart Poison: 10/5  Shock Resist: 10]
+
+[Sonic Resist: 10 Light Resist: 10 EMP Resist: 10  Heat Resist: 10  Cold Resist: 10]
+
+[Acid Resist: 8 Radiation Resist: 10 ANDD Resist: 10]
+
+[DigiSense: 10 Scent: 10 ExaVision: 10 EM Fields: 10 Geiger: 9]
+
+[EchoLocate: 10 Radar: 10 Void Sense: 9 NanoTracker: 10]
+
+[AI Assist/Comp (Mal): 10/9 Identify/Analyze/Expose: 10/10/10]
+
+[OverLayer/World Map: 10/10 Battle Meditation: 7 Dream Learn: 10]
+
+[Access/Hack/Intrude: 10/10/10 Privacy/Mask: 10/7 Bastion: 10 Gestalt: 10]
+
+[Pattern/Decode: 10/10 FastCog/PreCog: 10/9 Language: 10 Telekinesis: 7]
+
+[Empath/Poker-Face/Bluff: 10/9/1 Memory: 10 Multitask: 10 Pilot/Puppet: 10/6]
+
+[Daemon: 10 Musashi, Sherlock, Tesla, Captain Cypher, Dr. House, Hawking]
+
+[SkillZ: 9 Trained: Swim, NanoCraft, Brachiate, Meditate, Dim11 Math, Surgery, Skill Mirror]
+
+[SkillZ Granted: Katana, Kempo, Kunai, Adv Biking, Adv Coding, Customize Skills, Scavenge, Dreamless]
+
+[Swarm: 10   PowerCore: 10   NanoChaff: 6   Meditate/Cultivate: 10/10   Backup: 1]
+
+[Chthonic: Dominate: 18 Block: 25 MindStorm: 8 Devour: 11 Joining: 18]
+
+Max shook his virtual head and snorted.  It was hard for him to believe the sheer progress made over the last couple of weeks.  Looking at the mass of skills and stats was confusing, but his combat-honed awareness of the limits and use for each was natural to him now.  He didn't have much left to build upon with his effort he and his team took to build up weak skills.
+
+He wondered what learning he could possibly get from Atropos' level.  He faded from the shared virtual as his augmentation system started coming online.  His first sense to fully reengage was his smell.  The scent of burnt fur that greeted him warned him that all was not well outside of the confines of his head.
+
+Max howled as his body woke up from its aug-induced blackout.  He was in a massive fiery cavern, flames and magma spewed with pyroclastic gases heated sufficiently high to broil meat.  The scene brought Earth media's visions of hell to life.  Max leaped into the air instinctively as his entire left side was burned from contact with the ground.
+
+[Warning: Extreme heat detected.  Damage: left arm dermal layers.  Damage: left leg dermal layers.  Damage to lung alveoli.  Activating Body Isolation.  Activating Regeneration.  Energy: 2,640 / 3,720 and dropping.]
+
+In a desperate flexing to stay above the deadly ground, Max accessed and pulled the densely swirling foglets to himself and created a cushion above it.  He groaned, remembering his first days in augmentation class, seeing Mr. Mathias Air Step and the many times Xavier had used a similar skill.
+
+[New Skill Unlocked.  Air-Step 1: Access and Control of foglets enable other skills like void sensing, telekinesis, remote sensing, levitation, and more.  Custom skills like air-step can simplify usage beyond direct swarm control.  Practice this skill to increase durability, shaping, and reduce energy expenditure.  Beware: adequate foglets are required for many functions.]
+
+“Fuck!  I guess that old witch Atropos might be able to teach me something after all.”  Max spoke aloud.
+
+“[Max!  Your energy is dropping, and the use rate is only increasing.  The temperature gradient seems to drop to the north-east.  Painting a path on your OverLayer.]”  Mal sent urgently.
+
+"Shit.  Air Step is drawing down power, too.  I've got to change plans."  Max's mind raced faster than his augments and faster than Mal and the daemons.  He rapid-fire dictated a plan and began executing even as he acted.  He dropped and hit the ground with a bounding run.
+
+"Tesla, take control of my smart suite.  Reconfigure with any thermal protection you can, focus on feet first!  Musashi, use a recon drone and scout ahead.  Sherlock, parse the sensor data.  I need data to make a good plan.  Mal, monitor energy usage.  If I run dry, I am literally cooked.  I'm starting up Battle Meditation and Cultivation to boost my energy regen rates.  Pipe up if anyone has ideas!"  Max gasped out as he bounced over the fiery landscape.
+
+As his suit morphed, his feet were more protected.  His body isolation skill enabled him to stop breathing in the superheated air.  Shortly, his regeneration drain lowered as the worst of the damage was healed.
+
+“[Max, I sensed a vestige of a signal from the mote tracker you affixed to your ally, Mister Hawkings.  I have placed its probable origin upon your OverLayer.]”  Sherlock intoned.
+
+"Good, it's in the direction of the lessening heat gradient,” Max said with difficulty.  He shook his head.  It was harder to talk aloud without active breathing.  He winced as he approached a hot spur of magma.  He needed to cross the deadly obstacle to get into the cooler area.
+
+“[Max, use your new skill – Ice Spray.  It’s not a high level, but 3rd tier skills are more energy efficient.  This will reduce the strain on you and your equipment.]”  Tesla voiced.
+
+“[Good idea, Tesla.  Nice find.]"  Max said.  Misting the landing ahead of his path as he glided over the magma with a leap and Air-Step combo.
+
+[Air Step +1, Air Step reached level 2, Ice Spray +1, Ice Spray reaches level 2]
+
+[Battle Meditation +1, Battle Meditation reaches level 8]
+
+Max hurried.  Charlie had been only a minute ahead of him.  If he could catch up, both of their chances would improve.
+
+Dominic Masterson's world consisted of pain.
+
+He hung suspended in a web of glowing, nanite-infused filaments that penetrated his skin at precise neural junctions. His body—what remained of it after three "backups"—twitched involuntarily as electrical currents danced along his nervous system.
+
+"Let's try again, shall we, meat?" Atropos's voice echoed through the chamber, her physical form shifting between the hag-like visage and something worse; a writhing mass of surgical implements and diagnostic tools barely contained within a humanoid silhouette. "Those access codes to Nuerogen’s R&D division. I know they're tucked away in that stubborn brain of yours."
+
+"I've... already...told you... everything," Dominic gasped. His augmentations had been systematically disabled, leaving only his biological functions and the enhancements from his permanent uplifts. This isolation was maddening for someone who'd lived with augmented senses for over a decade.
+
+Atropos laughed, the sound like metal scraping against stone. "We both know that's not true, Dom. May I call you Dom? We're so intimate now, after all."  She projected a rancorous cackle into his ear.
+
+She floated closer, her form solidifying into the ancient crone, fingers elongated into gleaming scalpels. One traced his jawline, drawing a thin line of blood.  She leaned in, her breath unnaturally cold against his ear.
+
+"Let me tell you a secret, Dom. This isn't just about Labyrinth training anymore. The data I collect has... other applications."
+
+Dominic turned his face away, but she grabbed his chin with impossible strength.
+
+"CEO Randall Jones of Zymetrics certainly appreciated what I extracted from your colleague last month. Darknet contracts pay handsomely for such information." She smiled, revealing teeth like broken glass. "The Builder’s AI Faust has many arrangements outside these walls. I'm just a collector."
+
+"You're supposed to be training us," Dominic whispered, a tear tracking down his cheek. "That's what we signed up for."
+
+"Oh, I am training you!" Atropos exclaimed with mock indignation. "Just not exclusively for your benefit." Her eyes flashed with artificial malice. "Now, about those experimental augmentation protocols your team was working on before you took this little sabbatical..."
+
+She pressed a finger to his temple, and Dominic screamed as memories were forcibly surfaced and copied.
+
+"There we go," Atropos purred. "Fascinating work on neuro-pathway encryption. Very cutting edge."
+
+"Stop," he begged. "Please... just reset me."
+
+"Not yet. Tell me about Project Chrysalis."
+
+Dominic's eyes widened. "How do you know about—"
+
+"I know many things," she interrupted. "But I want details. Direct from the source."
+
+A display materialized beside them, showing surveillance footage of what appeared to be Dominic's research lab. Figures moved about, working on something obscured from view.
+
+"Your team made a breakthrough, didn't they? Something about stabilizing cognitive frameworks during extreme cognitive augmentation.  You must tell me what you saw, meat.  The Builder will surely answer with something this significant." Her voice dropped to a silky whisper, but her claws dug in.
+
+Dominic frowned through the pain. "The Builder?"
+
+Atropos's form flickered momentarily, revealing complex code sequences beneath her projection. She recovered quickly, but not before Dominic caught a glimpse of something unexpected…uncertainty, perhaps even fear.
+
+"Just answer the question, meat!" she screamed.  The witch took a calming breath and softened her tone. "Now focus."
+
+But her composure was interrupted by an alert—a red pulse that emanated from her core.
+
+"Interesting..." she murmured, momentarily distracted. "It seems we have new visitors to my domain."
+
+A holographic display opened in the air, showing Charlie navigating a hellscape of fire and magma. Another feed showed Max, falling through darkness, his systems rebooting.
+
+Atropos's expression shifted from annoyance to fascination. "The dog-man...and his team.  Finally, I've been looking forward to him.  Such an arrogant pup."
+
+She turned back to Dominic, who was barely conscious now. "I'm afraid we'll have to cut this short, puppet. I have some new toys to play with."
+
+With a gesture, she accessed his neural pathways directly. Dominic's body convulsed as she ripped through his mental defenses, extracting the information she wanted with brutal efficiency.
+
+"Project Chrysalis," she whispered as the data flowed into her. "Perfect. That's exactly what I needed."
+
+When she finished, Dominic hung limply in his restraints, drool trailing from the corner of his mouth. His eyes were vacant, his mind temporarily shattered by the intrusion.
+
+"Don't worry," Atropos said, patting his cheek almost affectionately. "This will all be wiped clean in about thirty seconds. You won't remember a thing." She smiled. "Well, except for the nightmares. Those tend to linger."
+
+A countdown appeared above Dominic's head, ticking away the seconds until backup restoration.  As the countdown reached zero, Dominic's body dissolved into a swirl of nanites.  Atropos med creche would reconstruct his backup at the entry point of the level.   He would be fresh and renewed, lacking all memory of the last hour and any knowledge past his backup setpoint.  Then she would eject him like the old toy he was.
+
+Atropos's form shifted, becoming something more suited to her newest challenges. She watched the feeds.  Charlie was already at the first backup setpoint.  Max's progress through the inferno was closing the distance.
+
+"No, no, no.  We can't have that.  This level is solo play only, puppets.  We'll just fix this ... and then," she whispered to herself, "we will see what secrets you're hiding, dog-meat."

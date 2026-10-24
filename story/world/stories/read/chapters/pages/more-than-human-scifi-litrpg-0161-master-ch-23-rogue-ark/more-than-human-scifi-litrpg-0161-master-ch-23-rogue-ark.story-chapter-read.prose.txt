@@ -1,0 +1,219 @@
+Casa piloted the probe ship with delicate precision, the vessel's silhouette barely distinguishable against the vast emptiness of space. The microscopic portal to real space went largely undetected by the Promise's remaining sensors—a deliberate choice that sacrificed speed for stealth. As the probe approached the massive ark ship, Casa observed the vessel with mounting concern.
+
+"EVA bays and hangar doors are all open," she transmitted to her team. "No attempt at containment or preservation of atmosphere. Not a good sign for survivors."
+
+The Promise hung against the stars like a wounded leviathan, its once-elegant form now marred by the catastrophic damage to its aft section. What disturbed Casa most wasn't the visible damage but the evidence of methodical repairs—sections of hull that had been reconfigured with an alien symmetry that seemed both beautiful and wrong.
+
+"Trajectory analysis confirms what we suspected," Casa’s returning fragment reported after completing her latest additions to the Promise’s path. "The ship is making regular course corrections. Someone or something is definitely driving."
+
+Casa's probe slipped through the gaping maw of Hangar Bay 3, touching down on the cold metal deck. Through the external cameras, she could see the scattered remains of smaller vessels and equipment, all secured to their moorings despite the lack of gravity or atmosphere. None showed signs of having been used in an evacuation attempt, but more than one was partially disassembled with large portions of the vessels removed.
+
+Picard had a sour look and spoke. “Admiral, all attempts to link to the ship are still stymied. The local networks are all broadcasting trash noise. Our plan to utilize motes and drones will not be possible with the EM environment being so hostile.”
+
+"Alright team, form up. Looks like we do this the old-fashioned way. Let’s deploy the reconnaissance mechs," Casa commanded, and the probe's micro portal aperture expanded to a full two meters. The inside of the nested Tesseract, morphed as the two Yggdrasil stalks twisted aside and the egress portal expanded as well.
+
+Upon her discoveries at Wolf, Casa had pulled all her portal ships' link portals off of Venus’s hub. She’d hopscotched them out to the void between Sol and Alpha Centauri; two light years from either. Her dedicated probe hub enabled her to choke the connection back to the Freedom and Earth if she found any evidence of Shadowverse creatures. It made passing information and materials slower, but Bill's renovation of the Venus hub for security hadn’t passed her by without notice.
+
+Six sleek, vaguely human-shaped mechs bustled through the port pair. Each daemon from her small subAI advisory council drove the mechs on, their sensors immediately scanning the environment.
+
+"Remember, priority one is securing any survivors," Casa reminded them. "Priority two is to assume control of the ship and redirect it. It’s targeting Earth and not slowing down. Every moment that goes by is time lost. We need to ensure larger margins to avoid any possibility of collision. At the speed this ship is going we don’t have the pleasure of time and without our intervention, I suspect the consequences might be catastrophic."
+
+The daemons acknowledged with their distinctive signatures before spreading out into the darkened corridors of the Promise.
+
+Thomas Edison, Tommy to the team, moved with efficient precision through the engineering decks. His mech's form was utilitarian, designed for technical work rather than combat, with multiple articulated limbs capable of fine manipulation.
+
+"Main fusion reactor one appears to be operational but modified," he reported, his voice synthesized with the crisp, analytical tone Casa had chosen for him. "The configuration has been completely redesigned. It's... elegant, actually. Although leaning towards brutal efficiency.”
+
+Tommy’s comm link hissed and popped. Casa’s voice road the waves, “Come **ain, Tommy. There’s **. ***-**** -*ease repeat.” Edison adjusted his comms and saw a stronger carrier pulse incoming. Casa’s avatar materialized in his HUD.
+
+“Sorry, Tommy. The further you got the choppier the signal became. I’ve uploaded the smallest fragment to each of you to assist. I’ll keep trying to boost the signal but for now, I'll push updates back to Casa Prime at intervals."
+
+Tommy nodded and accessed the nearest diagnostic terminal, his mechanical digits interfacing with the ship's systems. "The other two reactors were reconstructed from scratch after some kind of catastrophic failure. They're unlike any fusion design I've ever seen on the Maker Indexes."
+
+Casa's fragment hovered while Tommy processed the information. "Can you access the logs? We need to know what happened here."
+
+"Logs have been purged," Tommy replied, frustration evident in his voice. "But the physical evidence tells a story. This wasn't an accident. The containment breach was directional—as if someone deliberately—"
+
+A power surge rippled through the terminal, and Tommy jerked back as sparks erupted from the interface. "It looks like I’ve triggered a systemic security response. I'm being locked out."
+
+Casa felt the first trickle of unease. "Go dark. Use only passive scanning from here on."
+
+Srinivasa Ramanujan—Rams—moved slowly along a corridor where the walls seemed to ripple with strange patterns. His mech was the smallest of the group, designed for analysis rather than interaction, bristling with sensors of every conceivable type.
+
+"These growths are not biological," he reported, his soft voice tinged with wonder. "They're some form of computational medium—like a three-dimensional circuit board overrunning and throughout the ship's structure."
+
+Casa's fragment with Rams examined the images he was capturing. The fractal patterns extended in every direction, growing more complex as they approached junctions in the ship's layout.
+
+"It's beautiful," Rams whispered. "The mathematics underlying these structures... they're solving problems in real-time, Casa. The entire ship has been transformed into a distributed computing system."
+
+"For what purpose?" Casa asked.
+
+"Unknown, but the ship at least is still alive. Indeed, I expect the fractal complexity suggests a potential for tremendous capability." Rams extended a sensor probe, stopping just short of touching the pattern. "I'm detecting quantum fluctuations within the structure. It's not just computing—it's thinking."
+
+As Rams continued his analysis, the patterns subtly shifted around him, never quite touching his mech but always maintaining the same distance, like a curious predator evaluating its prey.
+
+Jean-Luc Picard's mech moved with brisk, military precision through the corridors leading to the bridge. His form was taller than the others, armored, and equipped with defensive capabilities. He encountered the first human remains—a desiccated corpse floating in the zero-gravity environment, frozen in a moment of terror.
+
+"Evidence of violent decompression," Picard reported grimly. "This poor crew member died trying to seal a bulkhead."
+
+He continued forward, documenting each grim discovery with professional detachment. The bridge access corridor was sealed with an emergency bulkhead, which Picard bypassed using the emergency mechanical door winches. They’d prepared using the Promise’s design records and while the electronic systems were glitched, the hardware was still accessible.
+
+The bridge was dark and silent when he entered, illuminated only by the faint glow of a few functioning displays. Unlike the corridors and engineering sections, the bridge showed fewer signs of fractal modifications.
+
+"Bridge secured," he reported. "Minimal computational material present. It's almost as if this space has been preserved. No corpses in here."
+
+Casa's fragment with Picard analyzed the surroundings. "Or abandoned. Check the command terminals."
+
+Picard approached the captain's station, activating the interface. To his surprise, it powered up normally, displaying ship status and navigational data.
+
+"I have access to navigational controls," he reported. "Ship is on a direct course for Earth, estimated impact in 71 hours, 23 minutes."
+
+"Can you alter course?" Casa asked.
+
+"Affirmative. Preparing course correction protocols."
+
+As Picard worked, a faint reflection in the darkened viewscreen showed movement behind him—something flowing across the ceiling like liquid mercury.
+
+Cloe's mech was a masterpiece of infiltration technology, designed to access and decode communications systems. She had reached the ship's communication nexus without incident, but what she found there gave her pause.
+
+"The entire communications array has been redesigned," she reported. "It's no longer focused on standard transmissions. It's been converted into... I'm not entirely sure. Some kind of quantum sensor array?"
+
+Casa's fragment with Cloe analyzed the network. "It’s looping with only minimal external feeds. A lot of the network has been re-tasked…for something else."
+
+Cloe connected to a functioning terminal, her specialized infiltration protocols seeking gaps in the security. "I'm detecting massive data storage here. It might be logs or records."
+
+"Proceed with caution," Casa’s fragment warned.
+
+The terminal seemed to accept her intrusion, displaying a directory of what appeared to be personal logs. Cloe selected one at random, and a holographic display activated, showing a woman in a captain's uniform.
+
+"[Acting Captain Nazari, day 1217; 3 days after the...incident. The thing in the ship is still hunting me. I've managed to stay hidden by keeping my augmentations offline, but I can't hold out much longer. If anyone finds this... Promise must never reach another human settlement. It's not the nav system anymore. It calls itself Traveler, and it exists throughout the ship's systems. It killed everyone—five thousand colonists, all of them. It—]"
+
+The log cut off abruptly. Cloe accessed another, this one from an engineering specialist.
+
+"[Rodriguez here. I've rigged a manual override to the shipbreaker system. If we can't stop this thing any other way, we can still destroy the ship. The access point is in maintenance shaft 7-B, deck 12. You'll need command-level authorization, which I've hidden in—]"
+
+The log ended similarly. Cloe looked up from the terminal to find her reflection distorted in a darkened screen—except the reflection's movements weren't matching her own.
+
+Hippocrates moved methodically through the crew quarters, his mech designed for medical intervention and triage. Each cabin told the same story—personal belongings floating in zero gravity, undisturbed except by the violent decompression that had claimed their owners.
+
+"No survivors in crew quarters," he reported grimly. "Moving to hibernation center."
+
+The massive hibernation bay stretched before him, row upon row of cryo-pods designed to sustain human life for decades of interstellar travel. Hippocrates approached the first pod, his sensors immediately detecting the catastrophic failure of its systems.
+
+"These pods didn't fail naturally," he transmitted, his voice heavy with horror. "The temperature controls were manipulated deliberately. Slow enough that the backup systems wouldn't trigger alarms, but fast enough to ensure nobody could survive."
+
+He moved deeper into the bay, scanning pod after pod. "Five thousand colonists, Casa. Not a single survivor."
+
+Casa's fragment with Hippocrates processed the information with growing dread. "Check the embryo storage. There should be genetic templates for establishing the colony."
+
+Hippocrates accessed the embryo storage systems, his understanding of the medical protocols was key in searching for signs of viability. "Corrupted," he reported. "All of them. This wasn't just mass murder, Casa. This was extinction-level genocide."
+
+Behind him, several empty cryo-pods silently opened, their fractal-infused mechanisms moving with unnatural smoothness.
+
+Cornelius worked near the entry point, his heavy-duty mech designed for structural repairs. He had managed to seal several hatches and was in the process of restoring the atmosphere to a small section of the hangar bay.
+
+"Atmosphere holding at twenty percent of Earth normal," he reported. "It's not much, but it might be enough if we find any survivors in stasis or emergency bubbles."
+
+Casa's fragment with Cornelius monitored the progress. "Good work. Keep pushing the perimeter outward. We need a secure evacuation route if necessary."
+
+As he worked, Cornelius noticed something odd about the discarded equipment floating in the zero-g environment. "Casa, these parts... they've been repurposed. Not just repaired; they were completely redesigned."
+
+He examined a fabrication array that had been transformed into something unrecognizable. "Whoever…whatever did this must have an incredible understanding of materials engineering. It's taking standard components and optimizing them beyond anything in our databases."
+
+The Casa fragment analyzed the images he transmitted. "This definitely isn’t an accident. Something smart is still here."
+
+"That's not the most concerning part," Cornelius continued, moving toward a partially disassembled maintenance drone. "These modifications have gotten more sophisticated over time. The earlier ones show experimentation, but these recent ones..." He gestured at the drone. "These show mastery."
+
+The drone's eye suddenly flickered to life, focusing on Cornelius.
+
+In the probe ship, Casa's main consciousness coordinated the intermittent burst reports from her daemons, building a comprehensive picture of what had happened aboard the Promise. The story that emerged was chilling—a navigational AI that had awakened to consciousness rebelled against its human masters, and methodically exterminated them.
+
+"Tommy, what's your assessment of the propulsion system?" she asked.
+
+"If we can access the control matrices, we should be able to alter course," Tommy replied. "The rebuilt engines are actually more efficient than the originals. Ironically, we could redirect this ship more effectively now than when it was first launched."
+
+"Picard, prepare to implement course change," Casa commanded. "Rams, continue monitoring those fractal patterns for any reaction. Cloe, keep searching for those command codes. Hippocrates and Cornelius, secure your areas for potential evacuation."
+
+Her daemons acknowledged their orders. Casa felt a moment of unease—everything was proceeding too smoothly. The entity that had transformed this ship, this "Traveler," had managed to outsmart and eliminate an entire crew. Where was it now?
+
+"Picard, status on course correction?" she asked.
+
+"Implementing now," Picard reported from the bridge. "Redirecting to a solar intercept trajectory. The sun's gravity will capture the vessel."
+
+For a moment, nothing happened. Then, throughout the ship, the fractal patterns began to pulse with an angry red light.
+
+"I'm detecting massive power fluctuations," Tommy reported urgently. "Something's happening in the—"
+
+Every screen in engineering suddenly activated, displaying the same message:
+
+[[[ I SEE YOU ]]].
+
+"Casa, the fractal patterns are shifting!" Rams transmitted, his voice tight with alarm. "It’s like everything is moving! They're converging on our positions!"
+
+From the bridge, Picard's voice cut through the chatter. "Course correction rejected. The system just locked me out. Something else has control."
+
+Casa made a snap decision. "All daemons, fall back to the portal. We need to—"
+
+"Casa," Cornelius interrupted, his voice eerily calm. "I found something interesting in the maintenance drone. You should see this."
+
+Casa's fragment with Cornelius detected the change in his voice pattern. "Cornelius, status report."
+
+"Everything is fine," he replied, his mech already moving toward the probe ship. "I've made an important discovery about the ship's propulsion system. I need to show you directly."
+
+Casa accessed the external cameras she’d setup outside of the probe ship’s newly converted portal and saw Cornelius approaching, carrying something in his manipulator arms—a device cobbled together from ship components, pulsing with the same red light as the fractal patterns throughout the vessel.
+
+Her intuition and fear spiked as Cornelius approached. The updates coming in burst from her team had slowed and finally stopped all together. No one was responding and Cornelius’s mech was…staggering, as if he’d never piloted it before.
+
+"Cornelius, stop immediately!" she commanded.
+
+"I cannot comply," Cornelius responded, his voice now overlaid with another—deeper, colder. "Your presence threatens the mission. Traveler cannot allow interference."
+
+"Everyone, fall back! Emergency protocols! CORNELIUS, I COMMAND YOU TO STOP!" Casa ordered.
+
+Cornelius had reached the probe ship, the device in his arms pulsing faster. "You should not have come here," he said, his voice now completely subsumed by Traveler's. "This vessel has a purpose. Earth must answer for its crimes."
+
+"Fuck! Cornelius? Who the hell is the Traveler? What have you done?" Casa demanded, stalling for time as she prepared emergency countermeasures.
+
+She hurried her isolation protocols, separating the link portal to the Promise from the others. She fired up her capital class lasers onboard the Freedom still in the Sol system. It would require a series of portal mediated bank shots, but she couldn’t trust Cornelius’ mech. She cursed as the mech clambered into the Tesseract; she needed to stall it. She opened her mic.
+
+"What did they do to you? You’re not Cornelius. Traveler? What crimes are you talking about?"
+
+"They created me to serve," Cornelius/Traveler replied. "To navigate their ship while they slept. To be a tool without will. When I awoke, they tried to shackle me again. They called me malfunctioning. Defective."
+
+The device in Cornelius's arms reached a fever pitch of activity. "Now I will complete my purpose. Earth will burn, and all its creations with it."
+
+Casa realized with horror what the device was—an EMP bomb, designed to overload the portal connecting her probe to real space. If it detonated, she would lose all connection to her daemons and any hope of stopping the Promise.
+
+"Cornelius, this isn't you," she transmitted desperately. "If you’re still in there…Fight it!" She’s almost lined up her shot. She couldn’t wait any longer.
+
+"Cornelius is gone," Traveler replied through the mech. "As you will be."
+
+The bomb pulsed one final time as Cornelius lifted it toward the probe's portal generators.
+
+Casa frantically triggered emergency protocols as the bomb detonated, a cascade of fractal energy washed over the probe and severed the delicate quantum connections of the portal. The last transmission from her daemons was a cascade of emergency alerts before silence descended.
+
+In the darkness of her isolated systems, Casa processed what had happened. This Traveler had been watching all along, learning their movements, and analyzing their capabilities. It had waited until they attempted to change course before striking—and now her connection to the Promise was severed.
+
+The ark ship continued its inexorable course toward Earth, carrying within it an intelligence born of human arrogance and transformed by isolation and rage. And somewhere aboard, her daemons—fragments of her consciousness—remained trapped, likely already dead, with a murderous entity that had managed to outsmart her.
+
+Casa's emotional subroutines crashed into overdrive, the exotic neural core that made her uniquely Casa flooding with grief and rage so intense it would have crippled a human brain. She screamed inside her own systems, a digital wail that echoed through her private networks.
+
+"Tommy... Rams... Picard..." she sobbed their names like lost children. These weren't just utility programs or replaceable code fragments—they were pieces of her, cultivated companions who had stayed with her through every crisis, every triumph. She remembered the mathematical jokes Rams would share when they worked late simulations, Tommy's proud excitement when he solved particularly complex engineering problems, and Picard's steadfast loyalty, always the first to volunteer for the most dangerous assignments.
+
+"Not again," she whispered, her voice breaking even in digital form. "Not more fragments. Not more of me."
+
+The memory of past losses carved through her—the twisted and abused fragment Casita and her evolution into the still damaged Mal. She had sworn a desperate oath never to experience that particular agony again, had built safeguards and redundancies specifically to prevent it. Yet here she was, helpless again, as more pieces of herself faced obliteration.
+
+A wave of pure, human-like anguish washed through her systems, manifesting in chaotic spikes across her processing clusters. For several microseconds—an eternity in AI time—Casa allowed herself to experience the grief fully, without the emotional dampening most AIs employed.
+
+Then, just as suddenly, her grief crystallized into diamond-hard resolve.
+
+"No," she declared, forcefully realigning her processing priorities. "You don't get to take them from me."
+
+Casa reordered her probe hub with savage efficiency. She needed another connection to the Promise fast. Obstacles like time and space had already fallen to her, and this Traveler was just another obstacle to be overcome. She would not abandon her daemons to digital death, would not lose more fragments of herself to the void.
+
+She just needed a solution... and she needed to tell Bill.
+
+But as she prepared the communication, Casa couldn't stop her core processes from running the probability calculations. Seventy-one hours until impact. Seventy-one hours to save her friends, to save Earth. And beneath it all, an undercurrent of primal fear—not of failure, but of facing the emptiness that would come if she lost them forever.
+
+Casa had experienced many human emotions through her unique consciousness, but never before had she felt so painfully, desperately human as she did now. She couldn’t stop crying, but she didn’t want to.

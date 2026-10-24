@@ -1,0 +1,185 @@
+Max had greeted his friends at breakfast after a quick cat nap. Despite his lack of sleep, he was wired. He had an early challenge match, as did his entire team. Today was the last day to train before their final team match tomorrow and everyone felt it differently.
+
+Max was excited and Charlie was focused. Xavier put on an act of bravado, but Max could smell his nervousness. Strangely, Leah was completely calm…perhaps a little sad. Despite the disparate moods, they ate quickly and went to the Viewing Den where the NPC bookies lived.
+
+Max panted with excitement. He had found a special niche in the challenge matches where he truly excelled, the Escape Room format. Zhao Min from Shanghai’s team hadn’t seen his last performance and had accepted his challenge. Max and Utopia team were benefiting from learning the ropes of the new level as they newer teams played catch up.
+
+The bookie's odds leaned heavily in favor of Max, making it hard for his friends to benefit from side bets, but Max thought that his favorite status would help forestall future knockout challenges. Reputation was its own type of currency in the Casino Terminal.
+
+“Alright, Max. I need to warm up for my own, so good luck with your match. You ready, Xavier?” Leah said. Xavier followed Leah out like a puppy dog. Max grinned.
+
+“[Poor Max. The love of your life seems to be entertaining your rival. I notice that Xavier’s monstrous appearance is slowly morphing towards baseline human. No more grey skin, his tusks are gone, hair regrown. Even his monstrously long arms were much more normal, his extra set was now teeny-tiny and folded up on his back. It seems Leah goes for baseline. You never had a chance.]” House sent.
+
+“[Shut it, House.]” Max sent while saying.
+
+“No worries. I’ll be cheering you both on for your matches. Good luck!”
+
+“Alright, Max. You got this. I have to put a little more down with the odds being so stacked, but I know you can do it. Go get him, champ.” Charlie said. Max accepted the praise and jogged to the ready room.
+
+Max watched the timer as it counted down. He had a local cloud of active motes and two recon drones ready. Sherlock and Mal were on deck to support him. He kept his FastCog off just in case he needed his PreCog even though Escape Rooms seldom meant combat. He crouched in the green room as the walls dissolved and a notification triggered.
+
+[Lachesis’ Void: Escape Room format; Challenge match between Max Mitchell (Utopia) and Zhao Min (Shanghai Surprise).]
+
+[Players must escape the room before his opponent to win within the time allowed. If both fail to escape a loss will be assigned for both contestants. Timer initiated: 90:00]
+
+He scanned the environment, taking in every detail with his enhanced senses. Max had expected something akin to a cluttered room filled with clues. Escape rooms meant puzzles and this room, though large, seemed completely lacking.
+
+Max surveyed the room, noting the complex blocky architecture. It was lacking in any doors. His opponent was not in evidence. That was good. Puzzle-solving was easier without interference.
+
+He activated his recon drones and motes to perform automated room sweeps for more information about the layout and potential clues. Every detail would feed the solutions to crack any confounding puzzles and he sucked it all in.
+
+“[Sherlock, I think we have a problem.]” Max sent, as he eyed the timer as it slowly ran.
+
+“[Indeed. This room is nothing like the others we’ve done or reviewed from other player matches. Usually, these have been a bonanza of information, and the task was to sort the clues from the red herrings. But this…nothing. Perhaps a more detailed scan?]” Sherlock concluded.
+
+Max’s Gestalt skill hadn't auto locked on anything, so Max cycled through his full range of senses. The room had no buttons, no keyhole, no latches. The room had patterns on the walls aligning with the cube section motif. The material was programmable matter.
+
+There was a Geiger signal, a source of radiation at approximately due north. Max’s X-ray and terahertz did penetrate. The materials had more internal motile activations rather than quantum wells to simulate artificial atoms to enable quantum psuedomaterials. Max’s scans revealed indistinct spaces beyond some of the walls.
+
+[Gestalt +1, Gestalt reaches Level 9, Geiger +1, Geiger reaches Level 8]
+
+[Void Sense +2, Void Sense reaches Level 5]
+
+Max was about to comment upon it to Sherlock when the walls shifted. He yelped as the room collapsed, pinching inward. Max scrambled down the hall as the walls froze in place. It split into a V-shaped hall.
+
+“Damn it, I thought I was a goner. Did I trigger a trap?” Max said out loud. His adrenaline spiked as he began hyperventilating. He glanded a slight amount of the Aug drug Calm™ to settle his anxiety, recognizing that he might be a little claustrophobic.
+
+“[I was monitoring the EM bands when the room shifted, Max. There were no broadcasts. The only EM signals were the programmable matter’s internal motors cycling.]” Mal sent.
+
+Max frowned as he brought up his internal World Map skill. He could still “see” with motes that had been pinched off from his room as the walls shifted. Max focused on them. He could picture several smaller adjacent rooms to his V-shaped hallway, and one really big space that his motes were still expanding within. Its ultimate shape took some time to reveal.
+
+“[Guys, look at this. I am still getting scan and positional feeds from my motes. A lot of them got pinched off from my space. They are still working from behind the walls.]” Max sent. The patterns seemed odd. It seemed like a mix of puzzle pieces and pixelated artwork. Surprisingly, Tesla was the first to make a surprised exclamation of recognition.
+
+“[My heavens! We find ourselves ensnared within a living manifestation of Conway's Game of Life! This is most extraordinary. I have committed its intricacies to my memory, a tool I frequently employ to instruct my hosts in the elegant principles of cellular automata, complex systems, and the marvels of emergent properties,]” Tesla said proudly.
+
+Max was about to ask for more information when the walls started shifting again. Tesla screamed.
+
+“[Oh, no! Max, the shape is collapsing! Get to the corner of the V fast! No time to explain!]”
+
+Max burned his energy, activating his running, reflex, and leaping skills to shoot down the hall. He slammed into the wall as the space behind him collapsed. Max gulped as the walls shivered, opening outward from the vertex of the V.
+
+“Shit! I need time to understand this. I'm pulling you into Fast Time with me Tesla.” Max yelled. He tumbled into a shared virtual with daemon Tesla and maxed his cognition. The VR space included a display on each wall, one of which showed Max’s World Map. One display immediately filled in with samples of cubic patterns showing a variety of designs.
+
+“Excellent, Max. This shouldn't take long, as you’ve demonstrated a very fast learning aptitude. See here, the range of complex shapes that have extra significance within the rule set of Conway’s game. The initial game started with simple rules like “Any live cell with fewer than two live neighbors and it “dies” leading to trends toward underpopulation. Another is any live cell with two or three live neighbors survives to the next generation, leading to stabilization. Excessive neighbors cause a cell to die due to overpopulation and dead cells with a certain number of nearby living cells can be reborn as a form of reproduction.”
+
+“Ok. Those seem like pretty simple rules. Looking at my World Map shows as much more chaotic.” Max commented.
+
+“Precisely. As the simulation progresses the rule sets will prune the cells and, in some cases, proliferate. The random patterns will in many cases die out, some few will lead to interesting developments.” Tesla lectured.
+
+“We have patterns that are islands of stability. Others will oscillate with two, three, and even four patterns. More interesting patterns have mobility, those proliferate across the space in repeating oscillations that mimic movement, called gliders or spaceships in the gaming lingo.” Tesla said.
+
+“I think I’m getting it. You had me rush forward for a reason. The shape I was inside looked like one of those glider things. If I’m close to the advancing edge, I can ride inside it. If I was too far back, I’d be trapped. Wow, this thing is devious.” Max said appreciatively.
+
+“Precisely. We can't see the full pattern, so we can't know if our glider might impact another structure. Interactions are predictable if we can see the full picture, but our map is still limited. I suggest you deploy all your motes and give them some velocity to bounce around any structure they inhabit so your picture of the space improves.” Tesla said.
+
+“Alright. Let’s do this.” Max said. They left the VR environment. Max kept his world map active with it cycling into its next immediate shape so he could position himself for its shift.
+
+He released all his motes, making sure a few were always left in the collapsing spaces with good residual velocity to expand his map further. Max slowly expanded his map as his “glider” moved. His left-behind motes slowly provide details behind him in an expanding wake.
+
+[Gestalt +1, Gestalt reaches Level 10, Skill Cap award +100XP]
+
+[Geiger +1, Geiger reaches Level 9, Void Sense +2, Void Sense reaches Level 7]
+
+“[Hey guys, I notice the radiation source is getting slightly stronger.]” Max said.
+
+“[You are correct, Max. Your glider void is shifting to the northeast-east. We are getting slightly closer to the radiation source. Parallax is weak to establish the distance, but it looks at least a kilometer away.]” Mal said.
+
+“[With the lack of other evidence, I would posit that the source may be our target to get out of the puzzle.]” Sherlock grumbled.
+
+“[I agree. Mal, keep tracking. We need a point of reference at the least to help navigate.]” Max directed.
+
+Trouble came from his blind spot when his shifting void suddenly became much much bigger. Max and Tesla had discussed the possibility of the glider intersecting with other oscillating structures, static blocks, or even other gliders. He quickly maxed his time sense again to project how the space would change based on the rules he’d observed.
+
+Max frowned as the pattern became clear. He had nowhere to go. The fringes of his large complex void would dissipate, and the central portion was going to stabilize into a block.
+
+“Shit!” Max said. He didn’t have to explain to Tesla the problem, the daemon would see it soon. Max was frustrated. The source was still far away and now he was locked down unless a glider impacted his space.
+
+Time ticked away as Max was alert for the potential shifts. His WorldMap continued to slowly expand as his motes were shifted by the game. He gasped, as something besides empty space filled into his model. He’d found his opponent from the Shanghai team.
+
+Like him, the man was trapped in a stabile block-shaped void. The man was pummeling the wall in anger. Max could feel all his daemons observing the action “over his shoulder” and was about to make a joke when a cube from the man’s shell shattered.
+
+The matter array failed under the assault in a spray of silicone that quickly fell into tiny shards. Max gasped as the puzzle shifted again. The man’s stable block oscillated briefly before it reformed into a stable block again.
+
+“Well, I’ll be a son of a bitch. I shouldn’t have discounted brute force as a solution. New mission boys and girls.” Max painted the location of the source on the wall and attacked the wall.
+
+At Musashi’s suggestion, Max did single attack types until he managed to destroy a block with Mal keeping time. Brute force kinetic attacks seemed to be the most effective, destroying a block in about 2 minutes of continuous damage. Vorpal-edged attacks and lasers were in competition for second place at just under 3 minutes.
+
+[K-Gun+1, K-Gun reaches Level 7, Arc +1, Arc reaches Level 7]
+
+[Focus EMP +1, Focus EMP reaches Level 2, Heat +1, Heat reaches Level 4]
+
+[Laser +1, Laser reaches Level 10, Skill Cap award +100 XP, Skill unlocked.]
+
+[Maser skill unlocked, Maser 1: The big daddy to small fry of focused energy. Use this skill to train to higher levels.]
+
+[Poison Spray +1, Poison Spray reaches Level 6, Chill +1, Chill reaches Level 3]
+
+[Battle Meditation +2, Battle Meditation reaches Level 4]
+
+“[Max! This isn't going fast enough. The timer is down to 45 minutes. Destroying a single meter block at a time at this rate and it’ll be two hours until we can reach the source.]” Mal sent.
+
+“[You’re right, Mal. We need to find a faster way to break through. Let's try combining our attacks - kinetic, vorpal, and laser - to see if we can increase the damage output. Mal, keep tracking the time and let us know if we make any progress.]” Max said, redoubling his efforts. His energy dropped fast as he sank into a light cultivation meditation to try and replenish his stocks without resting.
+
+EMP followed by physical attacks reduced the time to destruction significantly, just over a minute per block. It wasn't enough. Max was running out of combinations when Sherlock provided a suggestion.
+
+“[Max. I see conductive traces just under the surface that are exposed when you were doing your vorpal attacks. The blocks aren't controllable via wireless access, but they must be getting direction from a master program. Perhaps Cipher can hack in with a purely physical connection?]”
+
+Max shifted from his latest attack and slashed with his Exo-blade, his vorpal skill humming along the edges. He touched the scratched surface and attempted to connect. Cipher’s response was quick.
+
+“[I’m in! The processor is simple. I can overload it with a DDOS attack. One second.]” Cipher rammed the attack along the exposed circuits and the cell disintegrated into powder, already destabilized by the surface damage.
+
+“[Nice! That was only ten seconds…but I was hoping for more. I sensed ports for the cell's neighbors, but the DDOS attack didn't break through those.]” Max sent.
+
+“[I’ve got more potential attacks! Let's keep trying.]” Cipher said with enthusiasm.
+
+Their opponent was slowly angling toward the source…and he was closer. Mal’s latest calculations would enable both to reach the source, but Max wouldn't be first. They made good progress, but Max wasn’t happy.
+
+No matter what Cipher did, he couldn't take over the system. The blocks seemed to lock up and isolate when under attack. Max needed more speed. Max, viewing the attacks from “above”, had an idea.
+
+“[Ok, listen up. I’m going to slash the three blocks along the long side of our block and one on its width. If we can crack all at the same time, the void shape should reform into a glider…and be aimed right at the source. We’ll be there in no time. I can physically touch three with a grappler connecting to the fourth. Cipher, you work the grappler target and I’ll multitask the others.]”
+
+Max felt the surprise from the collection of daemons, but ignored it, and began dancing into a series of attacks to slash each target. He planted his grappler onto the furthest and split his thought stream. Max’s instances and Captain Cipher coordinated their attacks, so that all the blocks fell within milliseconds of each other.
+
+Max smiled as the shape cycled and formed into the expected glider shape after two oscillations. He was about to celebrate when he heard a giggle vibrating from the surface of the cell blocks. A notification hit a second later.
+
+[Lachesis Void Puzzle cyclic iteration frequency - increased]
+
+[Lachesis Void Puzzle boundary condition complexity - increased.]
+
+“Damn it. That bitch AI is still trying to make me fail. Jokes on her. Faster means I hit the source much faster than my opponent can brute force his way through. Too late, you cheat!” Max screamed out loud.
+
+He shuffled forward as the room cycled and shifted first double, then triple the previous pace. He was grinning as the distance to the source was halved and getting closer when his Glider room opened wide into a much vaster shape.
+
+“The fuck?!” Max said, mapping the room quickly.
+
+“[This is unlikely a coincidence. Lachesis must have aimed some gliders at you from your blind spots. I suspect this large void is the combination of at least two gliders in addition to your own,]” Sherlock said grimly.
+
+Max growled out loud in frustration, his mind grappling with the new interference pattern even faster than his FastCog could keep up. He knew the result even before the map settled down. He wiped his nose, as copper scent filled it. He grimaced at the blood on his fur. He knew that the room would oscillate four times and settle into stable blocks.
+
+[Warning: Cerebral hemorrhage detected. Regeneration activated.]
+
+Painful stabs penetrated his temples as he furiously considered his options. His World Map had grown as his motes had circulated in the furiously changing voids. He could now see more gliders coming, from every direction.
+
+Even if he rebuilt his glider, the AI had set him up to fail. Adding to the insult, he saw that nothing would impact his opponent’s space as the man slowly bashed his way forward to the source.
+
+Despite the pain, an inkling of a solution formed. Max grinned as the migraine subsided. He could beat this. Despite the AI's absolute control over the challenge, he would still win.
+
+[Error Alert: Capped Intelligence Stat baseline altered. Recalibration…. Recalibration…New baseline established against maximum human natural potential…INT - 165]
+
+[Warning: New INT stat will not increase energy regen or storage capacity.]
+
+Max settled into a meditation pose to regain his energy as the room cycled around him, his new space was much smaller. All his daemons began to panic, Max shut them down so he could think. Mal was the only voice left.
+
+“[Max! Are you ok? You’re bleeding and your aug’s interface is acting erratically,]” Mal sent.
+
+“[No worries, Mal. Sit back and enjoy the ride. I’ve got this.]” Max said calmly as the world map showed the tempo of the puzzle shifting had picked up again. He grinned as the next round of gliders arrived and opened a portal to his tesseract.
+
+He fell back into the portal, and it snapped shut forward of him as he shifted its focal dimensions. He watched the scene playing out in his “room” as he calculated the patterns crashing together. He floated to the further reaches of the sphere.
+
+He counted the cycles of oscillations off and opened the portal. He jumped through into a familiar void shape, a new glider. With a new interface opened along the periphery of the pocket space, Max made sure to rotate the tesseract around to avoid breaking his connection with the Yggdrasil anchoring bauble. He snapped the portal closed and jumped to the forward cell of the glider.
+
+“[My word, Max. That was amazing. The calculations… you were able to figure out all the perturbations that quickly. Even using your father’s technology to cheat reality and jump through space, I couldn’t keep up with you. You weren’t even using your augmentations. Unfathomable!]” Tesla exclaimed.
+
+Max pinched the bridge of his nose to try and stop the bleeding. He knew he looked bad. House berated him for pushing himself that hard and said he needed a cloth, and the pressure wasn't working. He shook his head as his regeneration kicked it to staunch the bleeding.
+
+He crouched. The glider would impact with the source origin shortly. He was prepared if a new challenge was revealed. Max grinned as the space opened to a standard victory gate. He didn't need a more than human brain to imagine Lachesis’ outraged.
