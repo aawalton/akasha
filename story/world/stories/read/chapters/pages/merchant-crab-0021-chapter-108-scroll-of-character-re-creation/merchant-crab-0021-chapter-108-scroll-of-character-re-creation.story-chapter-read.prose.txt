@@ -1,0 +1,327 @@
+The roll of parchment levitated above the sand, glowing brightly like a shining star as it slowly unrolled itself in front of Balthazar.
+
+“Gah,” said the crab as he got back on his feet after the initial scare. “How can text be so loud?!”
+
+The scroll’s page finished its slow ascension and words began appearing on its surface, just as they had that fateful day by the pond so long ago, except now Balthazar could also see them forming within his vision at the same time.
+
+“Yes!” he celebrated at the sight of the familiar system in his eyes, despite how much it used to annoy him in the past. “I almost lost hope this would work. Time to get back in business!”
+
+As the crab started reading what appeared in front of him, he noticed how the text seemed sharper, and much smoother in the way it scrolled into his vision.
+
+“Hmm, it looks like this thing got some improvements. Not bad.”
+
+[Scroll of Character Creation]
+
+[Analyzing…]
+
+[Previous character sheet found.]
+
+[Would you like to re-create your character?]
+
+[Yes] [No]
+
+The crab cocked an eyestalk at the system text in front of him.
+
+“Alright, this thing seems to still see something leftover from the levels I used to have, that’s promising. Maybe that damnable crow didn’t do a proper job of scrubbing everything off when he wiped my system access.”
+
+Already accustomed to its quirks, Balthazar squinted hard at the first option in the prompt in order to select it, which, to his surprise, blinked and slid through his vision much more easily and smoothly than ever before. It would seem this new version of the scroll and system really worked much better than the ancient one he was used to.
+
+[Calculating…]
+
+[Error!]
+
+[Missing values. Current statistics do not match records.]
+
+“Argh! Of course it couldn’t be that easy,” bemoaned the crab, his shell deflating in disappointment, but suddenly, a new line of text, smaller and in a different font style, appeared underneath the error.
+
+[Manager session detected.]
+
+[Use manager commands to rollback to last saved values?]
+
+[Yes] [No]
+
+The crustacean read through the text once, twice, and then again, his frown deepening with confusion more each time.
+
+“Manager session? The hell does that mean?” His eyes suddenly stood up. “Wait, that stupid bird was some kind of manager or something for the system. Did he… Did he somehow leave something ‘open’ in my… mind, brain, system, or whatever?”
+
+His thoughts racing like a mouse on a wheel, bits and pieces of what he could understand started to fit together, and he realized that if the crow really had been incompetent enough at his job to leave such a gaping hole in the system, likely convinced there would be no way the crab would ever get his claws on one of those scrolls a second time, then there was no way Balthazar would not abuse the hell out of it.
+
+With full conviction, the rebellious crustacean pressed “Yes” on the prompt and a barrage of feelings, sensations, emotions, and a little bit of poking assaulted his entire being. From the tips of his eight legs, to the ends of his antennae, his body felt as if it had been hit by a truck, despite him still not knowing what that even was.
+
+[Converting old statistics to new system…]
+
+[Race: Crab]
+
+[Calculating base stats for crab race…]
+
+[Health: 40/40]
+
+[Stamina: 30/30]
+
+[Mana: 10/10]
+
+Balthazar rubbed his shell as he recovered from the assault on his senses, his eyes squinting to focus on the text presented by the system.
+
+Under it, a few more lines described his race’s traits.
+
+[Crab race traits:]
+
+[Aquatic Breather]
+
+[As the pinnacle of evolution, your race can freely breathe both in and out of water.]
+
+[Natural Armor]
+
+[You cannot equip fancy armor, but have a natural bonus to your physical defense thanks to your fancy shell.]
+
+[Rending Claws]
+
+[Your claws may not be very good at holding a weapon, but they give you a significant bonus to unarmed damage.]
+
+“Huh…” said the crab. “I already knew all these things about myself, but it’s kinda nice to see them get the proper recognition by this thing. I’m starting to like this new system way better than the old one.”
+
+[Previous class found: Merchant]
+
+[Would you like to change your class?]
+
+“Why would I want to change? I was born to be a merchant!”
+
+[Calculating previous class experience…]
+
+[Class rank determined.]
+
+[Class: Adept Merchant]
+
+“Oh, come on! How am I not higher than that already?” the crab complained. “Did you not see that slick deal I made in town for a loaf of bread? Masterful trading right there!”
+
+Balthazar stared at the class rank text for a moment, tapping his chin with the tip of his pincer. “I wonder how many ranks there are…”
+
+Noticing how the line indicating his rank looked slightly different from the other text, he tried focusing on it, and to his surprise, a new window of text slid into view.
+
+[Ranks for Merchant class:]
+
+[Novice Merchant]
+
+[Apprentice Merchant]
+
+[Adept Merchant]
+
+[Expert Merchant]
+
+[Master Merchant]
+
+“Wait a minute,” the puzzled crustacean said. “Did this thing just give me actually useful information for what I was wondering?! Wow! They really must have improved this system. I like that!”
+
+Noticing the field indicating his class also seemed “squintable,” the crab pressed on it with his gaze too.
+
+[Class: Merchant]
+
+[As a merchant, you get an advantage bonus on every trade with other classes and lower rank merchants. Dialogue suits you better than combat, making you gain 200% experience from negotiations and trades but only 50% from everything else. A merchant’s main attribute is Charisma, so you have an improved chance to discover Charisma skills.]
+
+“Alright, alright,” Balthazar said as he read through the description. “Advantages, I like those. I don’t care about going around picking fights with everything that moves like some dumb adventurer, so the minus 50% doesn't bother me. Not sure what the improved chance part about skills means, though. Must be something new.”
+
+[Skills]
+
+[Skills have six possible ranks, from F to S tier, and are taught by tutors or learned by discovering and using Scrolls of Potential. Some skills require a certain level in one or more attributes in order to be used.]
+
+“That’s… different. I used to be able to just use points to pick skills in the old system. Guess that’s one of the things they made more complex. Bah, why do they gotta change what I was already used to? Don’t they know I don’t like learning new things?”
+
+The crab stopped and looked to the side in thought for a moment. “Wait, no, never mind, I get the irony of what I just said. Good thing there’s no one else here to hear me.”
+
+Balthazar spent a few more seconds taking in the information in his eyes.
+
+“I’ve never seen any of these so-called ‘Scrolls of Potential’ before. I hope that doesn’t mean I gotta start going around taking lessons from random people to get any skills. I ain’t got time for that!”
+
+He tilted his shell at the text. “Wait. Attribute levels. What happened to those?”
+
+Right on cue, new text slid into view.
+
+[Choose your starting attributes]
+
+[Points to spend: 10]
+
+[Strength: 5]
+
+[Endurance: 5]
+
+[Agility: 5]
+
+[Perception: 5]
+
+[Intellect: 5]
+
+[Charisma: 5]
+
+“Oh!” said the intrigued crab. “I remember three of those, but the rest are new here. That must be what the bird meant when he looked at the old scroll and said it was from back when they only had three attributes.”
+
+Curious to find out more, Balthazar opened their descriptions.
+
+[Strength]
+
+[Affects your attack power, your physical damage, and how much weight you can carry.]
+
+[Endurance]
+
+[Affects your ability to resist damage and negative effects, as well as increasing your recovery rates.]
+
+[Agility]
+
+[Affects your speed and dexterity, as well as making you better at stealth and dodging.]
+
+[Perception]
+
+[Affects your senses and ability to detect things more easily, as well as improving your accuracy.]
+
+[Intellect]
+
+[Affects your mental power, your magical abilities, and the capacity to learn and absorb knowledge.]
+
+[Charisma]
+
+[Affects your ability to communicate and influence others, as well as gaining improved bonus effects.]
+
+“Hmm, that’s a lot to take in,” said Balthazar after several minutes analyzing the attributes list.
+
+Pulling back to the previous screen, he considered the initial 10 points.
+
+“Alright, I’ve got a baker to find, no time to waste hesitating about how to spend these. I’m no fighter, so I won’t even pretend to entertain attributes for that.”
+
+The crab started pacing back and forth along the shore, talking to himself as he pondered.
+
+“I used to just put every point I got into Intelligence before, but that was dumb, because I’m already pretty smart,” Balthazar said, gesturing with his claws as he went. “I don’t care for magic or casting spells. Now, Charisma, that one I remember used to be pretty nice back when I had my golden shell…”
+
+Balthazar stopped moving and stared at the floating scroll again, still lingering in the air, glowing and waiting for the crab’s command.
+
+“This did say Charisma is the main attribute for a merchant, so that seems fitting.” He tapped on his chin for a moment before throwing his claws up. “Ah, what the hell, I’m not here to play games, I’m here to get big numbers and big advantages! Let’s go all in on Charisma!”
+
+With conviction, the crab placed every point he had available into the one stat.
+
+[Strength: 5]
+
+[Endurance: 5]
+
+[Agility: 5]
+
+[Perception: 5]
+
+[Intellect: 5]
+
+[Charisma: 15]
+
+[Confirm?]
+
+“Damn right I confirm,” Balthazar said proudly. “I confirm that I’m charismatic as hell, baby.”
+
+With a smug look, he squinted at the confirmation prompt.
+
+“Uh… I don’t feel any different,” he said after a moment, looking down at himself as if expecting something to have happened.
+
+[You have gained a natural trait!]
+
+“I have?” asked Balthazar, surprised by the new line of text that had appeared in his eyes.
+
+[The Gift of the Crab]
+
+[Trait]
+
+[You can dazzle others when you speak, both because of what you say and because of the fact that you can speak at all. You have a major bonus to dialogue, based on your Charisma.]
+
+“Just me, or this updated system got a little bit of sass to it now?”
+
+As if disregarding Balthazar’s remark, a new window appeared yet again.
+
+[Calculating previous levels…]
+
+[You are level 15]
+
+“Hell yes!” exclaimed the merchant. “I still have my levels. Suck it, you dumb bird! You can’t keep this crab down.”
+
+[Spend unused points now?]
+
+“Of course I’ll use them now. Saving them for later is for suckers and cowards. Let’s go!”
+
+[Calculating…]
+
+[You have gained 3 attribute points per level…]
+
+[You have a total of 42 points to reallocate.]
+
+“Woah, that’s a lot more than before. Let’s go, big numbers, I like them!”
+
+Looking at his attribute list again, Balthazar wondered if he should be reasonable, take a balanced approach, and evenly spread the points across useful stats, perhaps even save some for later, after he learned more about them.
+
+“Caution belongs in the wind!” exclaimed the crab as he punched his pincer forward and dumped all 42 points into his Charisma.
+
+[Strength: 5]
+
+[Endurance: 5]
+
+[Agility: 5]
+
+[Perception: 5]
+
+[Intellect: 5]
+
+[Charisma: 57]
+
+He looked proudly at the attribute values, placing the backs of his claws against the sides of his shell like someone who was looking at a job well done.
+
+“Maybe there’s a downside to leaving all the other attributes at base value, but bah… I’m sure it will be fine!”
+
+[You may increase your base Health, Stamina, or Mana by 10 at every level up.]
+
+[You have 14 unused upgrades.]
+
+“Hmm, more choices…” said the crab with a sigh, the hurry to be done with the whole thing getting to him. “Alright, well, this should be easier. Mana is out, I’m happy to leave the magic to Druma, I don’t want it. Stamina… I mean, this whole traveling all day really wiped me out, I’m not used to going further than the edge of the road, but do I really want to invest points into stamina when all I wanna do is go back to my pond soon and never have to do all this much walking again?”
+
+He crossed his arms and reflected on the matter for a moment, eyes gazing at the sunset over the ocean and the occasional starfish that washed ashore across the shore.
+
+“Nah, health is a much safer bet. There’s no going wrong with making yourself harder to kill! I’m already all in on the one-stat investment for Charisma, might as well do the same for health. Good luck clobbering me now, idiots!”
+
+With the confidence of an experienced crab who was going through all of this for a second time, Balthazar finished the re-specialization process and looked at the final character summary.
+
+[Race: Crab]
+
+[Level: 15]
+
+[Class: Adept Merchant]
+
+[Health: 180/180]
+
+[Stamina: 30/30]
+
+[Mana: 10/10]
+
+[Attributes:]
+
+[Strength: 5]
+
+[Endurance: 5]
+
+[Agility: 5]
+
+[Perception: 5]
+
+[Intellect: 5]
+
+[Charisma: 57]
+
+[Traits]
+
+[Aquatic Breather]
+
+[Natural Armor]
+
+[Rending Claws]
+
+[The Gift of the Crab]
+
+[Skills:]
+
+[None]
+
+“Alright, I'm gonna have to figure out how to get some skills, but otherwise, I’m pretty happy with how this went. I knew my gut feeling about this beach was going to pay off. My gut is always right!”
+
+Suddenly, something far away pulled Balthazar’s gaze. Dark, swirling clouds formed in the sky high above the water, their center like the eye of a terrible storm.
+
+“That looks… ominous,” the crab said, as a new notification slid into his view, with a red outline and bigger font, invoking a sense of urgency.
