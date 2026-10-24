@@ -8,6 +8,7 @@ type PersonSaid = {
   readonly images: number
   readonly sender?: string
   readonly at?: string
+  readonly message?: string
 }
 
 type AgentSaid = {
@@ -77,6 +78,8 @@ const HARNESS_WROTE = [
 const CHANNEL = /^\s*<channel\b([^>]*)>([\s\S]*?)<\/channel>\s*$/
 
 const SENDER = /\bsender="([^"]*)"/
+
+const MESSAGE_ID = /\bmessage_id="([^"]+)"/
 
 const UNNAMED_SENDER = "system"
 
@@ -168,7 +171,16 @@ function channelSaid(
   if (channel === null) return null
   const sender = parseSender(SENDER.exec(channel.heading))
   const said = channel.body.trim()
-  if (isPerson(sender)) return { kind: "person", sender, ...imagesOut(said), ...at }
+  if (isPerson(sender)) {
+    const message = MESSAGE_ID.exec(channel.heading)?.[1]
+    return {
+      kind: "person",
+      sender,
+      ...imagesOut(said),
+      ...at,
+      ...(message === undefined ? {} : { message }),
+    }
+  }
   return { kind: "message", sender, text: said, ...at }
 }
 

@@ -94,6 +94,7 @@ export const seat = {
     "number-property/conversation-images",
     "select-property/conversation-entry-kind",
     "text-property/conversation-line",
+    "text-property/conversation-message",
     "text-property/conversation-sender",
     "text-property/conversation-text",
     "computed-property/turn-state",
@@ -412,5 +413,5 @@ export const seat = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-30T01:07:35.561Z",
-  updatedAt: "2026-10-24T20:05:08.835Z",
+  updatedAt: "2026-10-24T21:41:17.179Z",
 } as const satisfies PageType

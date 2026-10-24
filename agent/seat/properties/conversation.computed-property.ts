@@ -19,6 +19,7 @@ export const conversation = {
     { pageProperty: "text-property/conversation-line", required: false, many: false },
     { pageProperty: "text-property/conversation-sender", required: false, many: false },
     { pageProperty: "instant-property/conversation-at", required: false, many: false },
+    { pageProperty: "text-property/conversation-message", required: false, many: false },
   ],
   code: "ts",
   test: "ts",
@@ -47,5 +48,5 @@ export const conversation = {
   ],
   types: "ts",
   createdAt: "2026-09-24T16:42:39.930Z",
-  updatedAt: "2026-10-22T15:14:39.714Z",
+  updatedAt: "2026-10-24T21:41:17.179Z",
 } as const satisfies ComputedProperty

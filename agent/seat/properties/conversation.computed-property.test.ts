@@ -46,7 +46,7 @@ test("a sender is a person where a person page has the sender's slug", () => {
     file: () => ({ size: bytes.length, read: (from, upTo) => bytes.slice(from, upTo) }),
   }
   expect(work({ transcriptPath: PATH }, reach)).toEqual([
-    { kind: "person", sender: jenny.slug, text: "hi", images: 0, at: "t" },
+    { kind: "person", sender: jenny.slug, text: "hi", images: 0, at: "t", message: "m" },
     { kind: "message", sender: "thea", text: "hi", at: "t" },
   ])
 })

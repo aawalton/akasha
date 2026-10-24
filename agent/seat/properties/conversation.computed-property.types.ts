@@ -2,6 +2,7 @@ import type { ConversationAt } from "akasha/agent/seat/properties/conversation-a
 import type { ConversationEntryKind } from "akasha/agent/seat/properties/conversation-entry-kind.select-property.types.ts"
 import type { ConversationImages } from "akasha/agent/seat/properties/conversation-images.number-property.types.ts"
 import type { ConversationLine } from "akasha/agent/seat/properties/conversation-line.text-property.types.ts"
+import type { ConversationMessage } from "akasha/agent/seat/properties/conversation-message.text-property.types.ts"
 import type { ConversationSender } from "akasha/agent/seat/properties/conversation-sender.text-property.types.ts"
 import type { ConversationText } from "akasha/agent/seat/properties/conversation-text.text-property.types.ts"
 import type { List } from "akasha/page/type/page-property/page-property.page-type.ts"
@@ -13,4 +14,5 @@ export type Conversation = List<{
   line?: ConversationLine
   sender?: ConversationSender
   at?: ConversationAt
+  message?: ConversationMessage
 }>

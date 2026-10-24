@@ -40,6 +40,10 @@ export const conversationShaping = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An entry of a message a person sent a seat names that message.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A sender is a person where a person page has the sender's slug.",
     },
     {
@@ -88,5 +92,5 @@ export const conversationShaping = {
     },
   ],
   createdAt: "2026-09-24T16:12:07.522Z",
-  updatedAt: "2026-10-24T20:19:02.834Z",
+  updatedAt: "2026-10-24T21:41:17.179Z",
 } as const satisfies ComputedPropertyModule

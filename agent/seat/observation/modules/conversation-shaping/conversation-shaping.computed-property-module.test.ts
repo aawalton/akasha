@@ -103,7 +103,9 @@ test("a message Alan sent a seat is the person's, naming him, with no wrapper", 
     message: { role: "user", content: channeled("alan") },
   })
   expect(shapedLine(line, isPerson)).toEqual({
-    entries: [{ kind: "person", sender: "alan", text: "hello\nthere", images: 0, at: "t" }],
+    entries: [
+      { kind: "person", sender: "alan", text: "hello\nthere", images: 0, at: "t", message: "m" },
+    ],
   })
 })
 
@@ -114,7 +116,9 @@ test("a message any person sent a seat is that person's, naming them", () => {
     message: { role: "user", content: channeled("jenny") },
   })
   expect(shapedLine(line, isPerson)).toEqual({
-    entries: [{ kind: "person", sender: "jenny", text: "hello\nthere", images: 0, at: "t" }],
+    entries: [
+      { kind: "person", sender: "jenny", text: "hello\nthere", images: 0, at: "t", message: "m" },
+    ],
   })
 })
 
@@ -135,7 +139,7 @@ test("the images Alan attached to a message are counted rather than shown as wor
   const said = `<channel source="messages" sender="alan" message_id="m">\n${withImages("look", [{ image, bytesAt }])}\n</channel>`
   const line = JSON.stringify({ type: "user", timestamp: "t", message: { content: said } })
   expect(shapedLine(line, isPerson)).toEqual({
-    entries: [{ kind: "person", sender: "alan", text: "look", images: 1, at: "t" }],
+    entries: [{ kind: "person", sender: "alan", text: "look", images: 1, at: "t", message: "m" }],
   })
 })
 
