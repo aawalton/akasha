@@ -1,0 +1,153 @@
+It was not difficult to find a new monkey. Even though about half of them died when attacking the village and I had killed a few on my own. They were still somewhat grouped up in or around their old territory. A few roamed around nearby but most stuck close to the crystals.
+
+My next attempt at using [Identify] without alerting my victim was equally fruitless. Although this time I actually got to use the skill since I just went for it, there was no feeling of success. And the baboon again ran the moment it saw me. On my third try, I finally found how the Skill worked on a basic level. It took my intention of knowing more details and then connected with something inside my quarry. Once this connection formed, the monkey noticed me, but I only got the information after it held for a moment.
+
+This made it very difficult to influence. I looked through my status again.
+
+Species: Great Eagle Owl (fledgeling)
+
+Age: 0
+
+Name: Fio
+
+Gender: female
+
+Status: sapient, healthy, mana enriched (minor)
+
+Level: 7
+
+Class: [Assassin lvl 19], -
+
+Strength: 11
+
+Constitution: 9
+
+Dexterity: 20
+
+Perception: 21
+
+Intelligence: 15
+
+Wisdom: 13
+
+AP: 0
+
+Skills:
+
+Racial:
+
+Utility: [Owl Senses lvl 3], [Preening lvl 3], [Owl Stomach lvl 3], [Soundless Flight lvl 3]
+
+Offensive: [Solid Grip lvl 3], [Intimidating Screech lvl 2], [Owl’s Shadow lvl 4], [Aerial Combat lvl 2],
+
+General:
+
+[Maths lvl 4], [Identify lvl 3],
+
+Assassin:
+
+[Sneak lvl 4], [Surprise Attack lvl 4], [Mingling lvl 2]
+
+Somehow I had gained a point in Strength, I did not know when or how. Other than that I only changed from ‘slightly wounded’ back to healthy. My Skills and Attributes had stayed the same.
+
+Then I had an idea. What if I could combine Skill usage? I had already done so before with [Sneak], [Owl’s Shadow] and [Soundless Flight]. Those Skills worked together naturally, but what if I could combine less intuitive cases? What if [Sneak] and [Identify] together allowed me to use the latter more stealthily? So I tried. First was only these two Skills. The monkey I had chosen did not see me coming anyway but I kept up actively wanting to be stealthy with [Sneak]. When I added [Identify] it felt a little different. A little slower but also more subtle. Instead of just standing out in the open and staring straight at the monkey it felt more like leaning on a wall and being conspicuously inconspicuous. Instead of immediately zeroing in on me, the baboon looked around for a short moment before it found my hiding spot in the branches. Obviously, it ran immediately.
+
+[Identify]
+
+Species: Cave Baboon (juvenile)
+
+Name: -
+
+Gender: female
+
+This was a success. With some practice and my other stealth Skills on top, I might be able to get detailed information on my target without alerting it. The next monkey I found was not alone. It sat crouched close to a crystal cluster with its two companions. After some mental preparation, I still identified it.
+
+[Identify]
+
+Species: Cave Baboon (mature)
+
+Name: -
+
+Gender: male
+
+Similarly to before, it looked around for a moment. Different to before it did not run away. Instead, I had three screaming monkeys running directly at me. I snapped out of my confusion and spread shadows all around me while letting out an [Intimidating Screech]. One of the companions froze mid-movement and tumbled two steps before smacking into a tree. The other two barely flinched. I was confident in taking on one of them, but two was kind of scary, at least on the ground. So I took off.
+
+I made sure to pull my shadows with me as best I could. Once I reached close to the treetops I forcefully pushed the shadows away from me. Within the now widespread cloud, I turned around and circled the still moving monkeys. They were jumping up the branches and as the lower one was just about to grab onto a new hold I reached its neck. Needless to say, it did not survive contact with my talons.
+
+~ding~ You have taken out your chosen target. Experience awarded.
+
+Nice! Another sweep around brought me onto the monkey on the ground. It was just recovering from the collision and about to get up as I ripped through its throat and face.
+
+~ding~ You have taken out your chosen target. Experience awarded.
+
+~ding~ [Assassin] reached level 20. 1 Attribute Point awarded.
+
+‘Yes! Soo… anything else? Helloo? System?’
+
+I was disappointed. Though before it could grow into anything worse something struck my back. Flying through the air, for the first time in my life without having control, I realized I forgot about the last monkey. I hit the ground and spun a few times while baboon screams were closing in on my position. Reflexively I brought out even more of my shadow and the noise grew dull. Then I felt movement inside it. Somehow I was able to make out the monkey’s position within my cloud of darkness. It was very vague, I was unable to notice any details. I felt only its approximate position through a slight disturbance in my Skill. This let me get up quickly and move away from where it was going. Which was the place it had seen me land.
+
+As the baboon closed in I circled it slowly while checking on my wings. They felt a little sore but nothing was broken. A few feathers were disturbed but I had enough lift to get my talons up to this guy’s neck.
+
+~ding~ You have taken out your chosen target. Experience awarded.
+
+~ding~ Congratulations! For advancing the Skill [Owl’s Shadow] past the first Breakpoint you have gained bonus experience.
+
+~ding~ You have reached level 8. Attribute point allocated.
+
+Okay, that was a beakful. Status!
+
+Species: Great Eagle Owl (fledgeling)
+
+Age: 0
+
+Name: Fio
+
+Gender: female
+
+Status: sapient, slightly wounded, mana enriched (minor)
+
+Level: 8
+
+Class: [Assassin lvl 20], -
+
+Strength: 11
+
+Constitution: 10
+
+Dexterity: 20
+
+Perception: 21
+
+Intelligence: 15
+
+Wisdom: 14
+
+AP: 0
+
+Skills:
+
+Racial:
+
+Utility: [Owl Senses lvl 3], [Preening lvl 3], [Owl Stomach lvl 3], [Soundless Flight lvl 3]
+
+Offensive: [Solid Grip lvl 3], [Intimidating Screech lvl 3], [Owl’s Shadow lvl 5], [Aerial Combat lvl 2],
+
+General:
+
+[Maths lvl 4], [Identify lvl 3],
+
+Assassin:
+
+[Sneak lvl 4], [Surprise Attack lvl 4], [Mingling lvl 2]
+
+First of all, [Assassin]. It hit level twenty but it did not give me anything extra. That made me think milestones were not something for every ten levels. At least I had another point for Wisdom. Then I somehow got [Owl’s Shadow] to level five? Was that the sense of touch in my shadow cloud? And apparently, it was a Breakpoint. Not just any though, it was the first Breakpoint. There had to be more to come. This might also be why my other Skills did not go past level four. [Maths] especially had me confused with how much I got early on and then it just got stuck. And the Breakpoint got me experience for my race level. Nothing to complain about here, I got a point in Constitution from the look of things, which I was totally fine with. Being a little tougher was always helpful.
+
+I was still disappointed about the lack of another milestone. I wanted another Skill. Instead of getting myself worked up, I decided to return to what I was doing before: [Identify] practice. A short break of [Preening] to fix my wings and I was in the air again. Only then did I notice the monkeys were not rampaging through the forest again. A few screams were coming from the direction of the goblin camp along with the sounds of fighting. Some scouts running into baboons?
+
+I ignored them and looked for closer prey. Levels looked more important than keeping the population alive. So I decided to take on the monkeys that noticed my [Identify]. Especially since [Owl’s Shadow] somehow managed to let me get experience after the fact, as long as I left their perception.
+
+Hours later I had made little progress on my Skill. But I had taken out a few more monkeys and gotten another level. There seemed to be some reduced experience gain, though I was not sure what caused it. Had I killed too many of the same target? Was I approaching their level? Or did slinking away into [Owl’s Shadow] not let me get the full amount? I was unable to come to a conclusion. At least Wisdom had now caught up with Intelligence, both sitting at fifteen points. I would have to figure out where to invest next. Focusing on either magic or speed attributes seemed like a smart idea, though my Skills used both. I wanted to do magic and [Owl’s Shadow] advancing past the Breakpoint before any other Skill settled it for me. More magic! Bringing Intelligence and Wisdom up to twenty would take me until level thirty-one. That felt really slow. So I settled on just pushing Intelligence until something else would come up. At least until level fifty.
+
+By now there were no more monkeys in the forest. The ones in the mana crystal territory had been taken out by me and the ones further out had run into goblins. Only about a dozen had found shelter in their cave. This was turning out to be actual genocide. I felt conflicted. Yes, they attacked me and would kill me if they could, but they were not evil, so why should it be okay to kill them all? When you looked past the serrated claws and pointed fangs they were actually kind of cute. There was no reason for me to hunt them. I was only eating rats and insects anyway. These baboons were way too large for me to feed on. It was a complete waste.
+
+Then I remembered the goblins. They should be able to make use of the monkey meat. And the fur and bones and everything. I found the nearest scouts, who turned out to be Luk and Haro, and led them to my victims. They thanked me and monkey by monkey we started cleaning up the forest. Now there really was only the cave left. I steeled my heart, which was somewhat easy when I thought about the experience I would get, and closed in on my next targets.
