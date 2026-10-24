@@ -16,6 +16,7 @@
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"agent/modules/withheld-hiding/withheld-hiding.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"agent/seat/modules/akasha-history/seat-akasha-history.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"agent/seat/modules/akasha-history/seat-akasha-history.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"running.module.code.ts","path":"agent/seat/name/modules/seat-session-follow/seat-session-follow.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"agent/seat/name/modules/seat-session-rename/seat-session-rename.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"agent/seat/supervisor/supervisor-stop/modules/supervisor-terminal/supervisor-terminal.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"agent/seat/supervisor/supervisor-timer/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts","typed":false,"deferred":false}

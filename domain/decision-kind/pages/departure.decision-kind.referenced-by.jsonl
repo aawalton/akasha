@@ -315,6 +315,7 @@
 {"propertySlug":"decision-kind","path":"agent/seat/name/modules/compose-seat-name/compose-seat-name.module.ts","id":"01a06949-b281-7447-ab77-9ecbb5f9f139"}
 {"propertySlug":"decision-kind","path":"agent/seat/name/modules/initiative-seat-name/initiative-seat-name.module.ts","id":"01a0a5b3-3d06-776e-aea8-407ef8b05e0a"}
 {"propertySlug":"decision-kind","path":"agent/seat/name/modules/seat-flex/seat-flex.module.ts","id":"01a06949-b281-72df-a9c3-507005e3dfd2"}
+{"propertySlug":"decision-kind","path":"agent/seat/name/modules/seat-session-follow/seat-session-follow.module.ts","id":"01a16f9d-cd53-7704-b202-e501e9dfd98e"}
 {"propertySlug":"decision-kind","path":"agent/seat/name/modules/seat-session-rename/seat-session-rename.module.ts","id":"01a0687e-534d-7000-bad8-47a890a18ce1"}
 {"propertySlug":"decision-kind","path":"agent/seat/name/modules/seat-spawn-name-decide/seat-spawn-name-decide.module.ts","id":"01a0686d-9d5e-7011-9662-a35bf698b8f6"}
 {"propertySlug":"decision-kind","path":"agent/seat/name/modules/seat-stated-name-refusal/seat-stated-name-refusal.module.ts","id":"01a0686d-9d5e-7012-94c3-843ea0bdf815"}

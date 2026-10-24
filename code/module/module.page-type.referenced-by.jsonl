@@ -296,6 +296,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/name/modules/seat-flex/seat-flex.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/name/modules/seat-nameable/seat-nameable.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/name/modules/seat-rename/seat-rename.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/name/modules/seat-session-follow/seat-session-follow.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/name/modules/seat-session-rename/seat-session-rename.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/name/modules/seat-spawn-name-decide/seat-spawn-name-decide.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/name/modules/seat-stated-name-refusal/seat-stated-name-refusal.module.ts","typed":true,"deferred":false}

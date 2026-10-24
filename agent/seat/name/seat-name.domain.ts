@@ -18,6 +18,7 @@ export const seatName = {
     "module/seat-nameable",
     "module/seat-rename",
     "module/seat-session-rename",
+    "module/seat-session-follow",
     "module/seat-spawn-name-decide",
     "module/seat-stated-name-refusal",
     "module/spawn-guard",
@@ -61,5 +62,5 @@ export const seatName = {
     },
   ],
   createdAt: "2026-09-13T19:33:54.805Z",
-  updatedAt: "2026-10-24T20:25:13.451Z",
+  updatedAt: "2026-10-24T20:32:55.123Z",
 } as const satisfies Domain
