@@ -6,6 +6,7 @@ export const alanAnswerAsk = {
   slug: "alan-answer-ask",
   definition: "a question asked in Alan's browser carried to the page store and answered back",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -14,6 +15,26 @@ export const alanAnswerAsk = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A question is carried as a JSON body.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A question is answered only where its reader may read the page type asked.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A question is answered only where its reader may read every type extending it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A question a narrowed reader asks is held to that reader's narrow.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A question asking by the narrowed key for pages outside the narrow is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Page types narrowed differently in one question are refused rather than widened.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -26,5 +47,5 @@ export const alanAnswerAsk = {
     },
   ],
   createdAt: "2026-09-22T01:25:04.311Z",
-  updatedAt: "2026-09-27T06:10:35.000Z",
+  updatedAt: "2026-10-24T17:28:16.229Z",
 } as const satisfies Module
