@@ -1,0 +1,265 @@
+{Loading…}
+
+{Loaded.}
+
+[>>Now replaying: Log 3.1 - Sandswept Sorrow]
+
+Date: Error
+
+Location: Error
+
+E2 %Oh shackle me…! That’s the crest of the Witch Queen…%
+
+E1 %The insignia of the Salvatrix…%
+
+E3 %It stopped glowing. Do you think the Shackle worked?%
+
+E2 %I knew coming in here was a terrible idea!%
+
+E3 %Guys?%
+
+E1 %Oh don’t be so frying superstitious, Pina. We’re safe from the Takers, and that’s what counts.%
+
+E2 %But that’s the sign of the Tyrant Divine!%
+
+E1 %Don’t call her that! This is her temple, and she’s the one keeping us safe%
+
+E2 %You can’t honestly believe the Outcast who killed the Emperor of Heroes cares about us?!%
+
+E3 %Guys! Who are you talking about?%
+
+E1 %Saint Samantha.%
+
+E2 %The Torchbearer.%
+
+[LOADING - ZEPHYRO’S DOMAIN]
+
+▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱ 29%
+
+[>>Alert!]
+
+[>>Detected idle state in DPM: Samantha_v1]
+
+[>>Traumatic personality stasis imminent]
+
+[>>Employing sanity-preserving countermeasures]
+
+[>>Searching records]
+
+[>>No relevant records found]
+
+{FAILSAFE ACTIVATED.}
+
+{Do not fear, little savior.}
+
+{SCANNING PRE-LOG MEMORY}
+
+{REMEFZSFING…}
+
+{Oh hi dagger how are you today there’s new mail and I think the boss is looking for y}
+
+{REMXXBERING..}
+
+{and that is okay Sam but who do you want to b}
+
+{REMEMBERING.}
+
+{ALL HAIL!}
+
+[>>Relevant records found]
+
+[>>Relevant rIcXOds found]
+
+[>>Relevant memories found]
+
+[>>Now replaying memories]
+
+Date: 8th of November, 2019
+
+Location: Alex_Rook_Building, Berlin-Mitte, Germany.
+
+[>>Replaying Memory]
+
+The sun gleams through the windows of the meeting room, heating the back of the suit jacket I’d brought to make a good impression on the stakeholders.
+
+“Nothing, guys? Absolutely nothing?”
+
+“This sort of software just takes time. You’ll get some top-quality stuff when we’re done.”
+
+“But you said you’d be done this spri—
+
+[>>Data Corrupted!]
+
+[LOADING - ZEPHYRO’S DOMAIN]
+
+▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱ 59%
+
+[>>Detected idle state in DPM: Samantha_v1]
+
+[>>Traumatic personality stasis imminent]
+
+[>>Employing sanity-preserving countermeasures]
+
+[>>Searching records]
+
+[>>No relevant records found]
+
+{SCANNING PRE-LOG MEMORY}
+
+{REMEFZSFING…}
+
+{REMEMBERING}
+
+Date: Unknown
+
+Location: Unknown
+
+[>>Error: Parameter $DATE or $LOCATION must contain valid statement]
+
+[>>Additional data available]
+
+[>>Supplementing missing data by cross-referencing database matrix]
+
+[>>Executing]
+
+Date: 1.1.0001 — Arrival Day
+
+Location: “The Little Forest” - 3.1 kilometers north of Peruti, Kingdom of Wexler
+
+[>>Replaying Memory]
+
+There are birds singing I have never heard before. I open my eyes and see grass, and a few flowers that look like easter lilies, but bright red.
+
+I unfurl my arms from around my knees and slowly stretch my legs, emerging from the fetal position they had told us to take when the plane crashes.
+
+I can only spot glances of a clear blue sky through the thick canopy of the trees that surround me. I can hear the ocean.
+
+None of the other passengers are here, and the angel is gone. I am alone.
+
+When it all sinks in, hitting the deepest parts of my soul and I feel the sheer amount of possibilities and uncertainties sparking like the first fluttering embers of a brushfire, I hear it.
+
+A bell, its sound unfathomably deep and immeasurably unending, tolling infinitely, over and over, its power shaking the very foundations of my soul.
+
+I know it could soothe me.
+
+I also know it could destroy me.
+
+I start crying—
+
+[>>Data Corrupted!]
+
+[LOADING - ZEPHYRO’S DOMAIN]
+
+▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ 100%
+
+[>>Loaded]
+
+[>>NOW ENTERING - ZEPHYRO’S DOMAIN]
+
+The world came alive, a shock after the nothingness I just emerged from.
+
+I felt.
+
+The warm wind on my skin, where the soft fabric leaves it uncovered.
+
+I heard.
+
+Voices in the air, carried from further away. Laughter, cries, flames.
+
+I saw.
+
+Around me, a small plateau on a shallow mountain. Below, the desert spread to the horizon.
+
+Close by, at the foot of the mountain, there was a magnificent city, a testament to the determination of the people who built it. Clay houses clustered around a high wall that surrounded larger houses, all painted white against the heat, with small windows and rooftop terraces. Inside of this ring of buildings were even bigger ones, easily twenty stories tall and pronouncing power and wisdom. These high rises, in turn, formed a large rectangle around a palace in the middle of the city. It was formidable, with walls that dwarfed even the high-rises. Only my high vantage point, or perhaps a trick of the light, allowed me to look behind the walls and spot the colorfully painted buildings holding aloft a beautiful array of terraces and gardens.
+
+It would have been one of the most powerfully serene sights I’d ever come across in two lifetimes of traveling.
+
+But the city was on fire, and it was glitching.
+
+As I watched, a part of the sprawling mass of houses and canals distorted like one of those old TVs shutting off, vanished, and reappeared in a digital flash, now in smoldering ruins. Then, the glitch reverted and everything was fine again until another block started distorting. Entire blocks of houses kept flickering in and out of a destroyed state. However, even if they were in a peaceful state, sometimes the fire remained as if I was seeing the same city at two or more different times, at once.
+
+I had no idea what was going on, my mind racing through dozens of different possibilities. It was obvious that this city wasn’t anywhere on Tobes. Perhaps one of the Desert Kingdoms up north, across the ocean, but even those had given me the finger when I offered them our tech in return for protection against the Conservationists. It was very unlikely that they would build a city that glitched like a broken video game.
+
+Perhaps that was it, then? I was in some sort of video game? Or perhaps I was only dreaming this as I was dying because some sort of cable had come unstuck and fried my brain. That would explain why I had been remembering flashes from my earlier lives just a minute ago. These fragments of memory had felt so… real, though.
+
+Just like this felt real.
+
+Chris? I tried.
+
+No response.
+
+I felt alone. I remembered the darkness from before, and the text hammering into my head. Fear ran through my veins like ice water. Maybe it was some advanced form of torture? Was I a prisoner? But who would have imprisoned me? And why would they show me this weird city?
+
+As I dismissed one option after another, a giant, red sun slowly sunk behind the gilded palace dominating the city, inevitably giving way to darkest night.
+
+“I have failed you, Sultana,” a voice said next to me. I clamped my hands over the armrests of the— I was sitting on a stone throne. The smooth stone felt cold under my fingers. Had that been there before? Had I been sitting this entire time? I didn’t remember.
+
+What the fuck was going on?
+
+“… I have failed you, and I have failed my people.”
+
+My eyes flicked toward the voice, but whoever was talking, he was standing to my left, beside the throne, and out of my field of vision. I suppressed the urge to get up, to defend myself.
+
+Olre’s voice shot through my head, as though he was whispering them in my ear.
+
+Never let them notice you’re surprised.
+
+He wasn’t there, of course. He was long dead.
+
+But despite his thousands of flaws, he had given me good advice at one point in our lives. So, with forced casualness, I turned away from the burning city and towards the voice. I came to face an older, Middle Eastern-looking man with graying temples and a shock of white in his beard. It made him look both wizened and aggressive. His deep brown eyes, scrunched with anger and shame, only added to his intense look, making me appreciate his relaxed stance. He didn’t seem like a threat, at least not according to his body language. If he had been, I would be in a lot of trouble. He wore a chainmail shirt over old-fashioned Middle Eastern clothing, all flowing robes and belts. It left his arms bare, showing his impressive, lean muscles.
+
+“Who are you?” I asked, trying to strike that balance between command and invitation that I could never get quite right.
+
+“Ah, of course, Sultana. I beg you a thousand pardons,” he said, voice subservient, but not pleading. “I am Zephyro, your most loyal and trustworthy Vizier, charged by you and the Maker to defend your palace to the last.”
+
+Sultana? What?
+
+But I nodded as if that made perfect sense and glanced down at myself, trying to gain more information. The first thing I noted was that while I had a body again, it wasn't mine. My skin was the color of the coffee part of a cafè latte, and now that I paid attention to it, this body felt both smaller and heavier than before. I caught myself before I started listing all the things I wanted to change. I’d always been critical of my own appearance, perhaps more than what was healthy. But this wasn’t the time, and it sure was better than being trapped in nothingness.
+
+Keeping my head down, I took a deep breath. The air smelled of charcoal and—oddly—burning plastic.
+
+I was wearing official-looking robes, a sort of wrapped affair in poppy red. They weren't necessarily what I would have chosen, even though I appreciated how well they fit into the desert setting and how they enhanced my figure without making it the center of attention. Whoever the designer was, they clearly knew what they were doing. An assortment of golden chains and jewelry all drew the eye to two clear signs of authority:
+
+A gilded scabbard. A sash glittering with hand-stitched stories of conquest. And, of course, in my hand, a skilled goldsmith's rendition of a torch. It was a stylized version of the weapon I owned in real life, which was resting next to me on a little cart back in the lab. The artist had done a good job, but the counterfeit was missing many of the more sophisticated additions my torch had due to its nature. The thing I held in this world definitely looked more like a scepter than a weapon.
+
+Still, it was an obvious clue, and even though it told me little about what had been going on, I understood the role I had to play. I was there to command. To rule. I settled into that persona much easier than I had settled into this body. It was like old, scratchy clothes that pinched at all the worst places, reminding me of all the failures of the previous few months and what I had lost. The shame threatened to overpower me, but crying about it would do me no good. I needed to find out what was going on, then get out of here to make sure Chris was alright.
+
+So instead, I dipped into the vast amount of anger that had filled a burning reservoir in my soul over the last three years. I knew it was dangerous. It had burned me before. But I was in control now. I had mastered this anger, and I had promised both Chris and myself that I’d keep a lid on it if it wasn’t helpful anymore. So I let the feeling take over, felt it dig deep furrows into my brow, and before I could stop myself, I said:
+
+"Well, Zephyro, if it was your job to defend my palace, then why does it look like my palace is on fire?" My anger laced my words and it made me feel good. Powerful. In control.
+
+He flinched as if I had stabbed him, and I felt a jolt of panic. Had I overdone it? I did not want him angry. He might send me back to the darkness before. As quickly as it had come, shame swallowed fear. I'd hurt him, and all I could think of was how to control him better for my own needs. I noticed I was pointing the scepter at him like a weapon. I saw his eyes flicking toward it as I lowered it, contritely.
+
+I noticed this pattern, too. It had started to haunt me ever since things had started to go wrong in the war. I’d grow afraid, overthink, and get angry. Then I’d say or do things that I normally wouldn’t, and the regret would make me more afraid, until I grew angry again. I’d spoken to Patti about it, when she was still alive. She’d told me I always had a choice. As if it were that easy.
+
+Who do you want to be, Sam?
+
+I took a steadying breath. “Sorry,” I said. “Go on.”
+
+Zephyro nodded, pretending not to notice that I had just threatened him, or my instability. Or perhaps he was lost in his own shame. “Again, Sultana, I must offer you a thousand apologies. I promise you this: I may have failed you once, but I will not fail you again. It is my duty to keep you safe, so that you may rule and lead our people to prosperity.”
+
+I was still lost, my mind struggling to solve a puzzle while missing several pieces and teetering on the edge of a maelstrom of anger, regret, and fear. So I used an old trick from my management days. I said nothing, looked at him, and waited for him to continue.
+
+He turned towards the city, watching it loop through destruction and renewal. Eventually, he did as I hoped, and started talking. “The city outskirts are lost, yes, and I will never wash this shame off my soul, not if I bathed a hundred times in the holy pools and anointed myself with the most sacred of oils. But with the attackers at our doorstep, I realized I could no longer hide my shame from your light and must wake you from your holy slumber to—“
+
+He just kept adding more questions with every sentence. But to his credit, when I held up my hand, he stopped immediately, looking even more guilt-stricken.
+
+My situation was beyond overwhelming. I didn’t know where Chris was, but it seemed I was all alone, in a world that obviously operated under strange rules I didn’t understand. I needed more information, and for that, I needed allies. You don’t make allies by being bossy and ordering people around, so I needed to be better.
+
+You need to do much better, Sam. You are not nearly good enough. You are going to lose them, all of them, and then you will be alone, a Queen without a kingdom, a prophet without followers. Just a madwoman, railing against the inevitable.
+
+Olre’s prophetic words haunted me yet again, forcing me onward.
+
+“Zephyro,” I said, both to give myself some time to understand what was going on and to ease myself into that gentler tone I’d told myself I’d use. “I know you want to do your best, but I just arrived here I have no idea what is happening. I don’t even know who you are.”
+
+Something I said or did must have worked because he visibly relaxed. He looked up and ahead, brown eyes sweeping over the burning city and the blood-red sunset behind it. His face and posture glitched for a second, showing him with his sword drawn and face a mask of anger and frustration in the middle of a brutal swing, then glitched again with a dissonant sound and returned to his calm state.
+
+“My Sultana, I must apologize yet again. This is three thousand apologies I owe you, and more. You must know that my mind is not just present here, but also fighting the infidels who would storm your resting place and plunder its riches. I am controlling what is left of your most loyal defenses, even as they experience technical failures and the ammunition and plasma supplies run out. The manufacturing plant failed long ago because of the scavengers—but no. I digress again.” He glitched once more, shouting something in a guttural accent that sounded like pure code, to someone I couldn’t see.
+
+It clicked.
+
+“You’re… you’re the defense AI.” I said, breathlessly. And maybe you’re insane, too.
+
+“Yes, Sultana. As I said, I am Zephyro. The first and last of your defenders.”
+
+I sunk into the throne, deflating as possibilities and realities started crushing me.

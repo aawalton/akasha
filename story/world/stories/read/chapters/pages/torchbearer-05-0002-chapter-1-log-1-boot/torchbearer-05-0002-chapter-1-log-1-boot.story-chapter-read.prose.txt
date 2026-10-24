@@ -1,0 +1,231 @@
+{FATAL DAMAGE IMMINENT}
+
+{PRIORITIZING DEFENSIVE SYSTEMS}
+
+{ANALYSIS} {DEFENSE SYSTEM 1: CRITICAL}
+
+{DEFENSE SYSTEM 2: UNAVAILABLE}
+
+{DEFENSE SYSTEM 3: EMPTY}
+
+{DEFENSE SYSTEM 4: CRITICAL}
+
+{DEFENSE SYSTEM 5: UNAVAILABLE}
+
+{DEFENSE SYSTEM 6: FAILURE}
+
+{DEFENSE SYSTEM 7: CRITICAL}
+
+{DEFENSE SYSTEM 8: CRITICAL}
+
+{DEFENSE SYSTEM 9: EMPTY}
+
+{DEFENSE SYSTEM 10: OFFLINE}
+
+{DEFENSE SYSTEM 11: OFFLINE}
+
+{DEFENSE SYSTEM 12: OFFLINE}
+
+{DEFENSE SYSTEM 13: OFFLINE}
+
+{DEFENSE SYST//}
+
+//OVERRIDE
+
+{FATAL DAMAGE IMMINENT}
+
+{DE-PRIORITIZING ANALYTICS}
+
+{DE-PRIORITIZING DEFENSIVE SYSTEMS}
+
+{PRIORITIZING MANEUVERIDKJHSAGJHASFFATAL DAMAGE RECKGASDJFGHGSDFGTHSDPRIOITIZing logs…}
+
+{ViZDng Log 1 of ERROR}
+
+[Log 1]
+
+[Date: ERROR]
+
+[Location: Progress’ Head, Greater Ascension Beach Area, Holy Republic of Samantha the Torchbearer and her Apostles]
+
+[WELCOME TO memOS]
+
+[>>Booting…]
+
+[>>Booted.]
+
+[>>SAINTECH Digital Personality Matrix v 0.1 successfully installed.]
+
+[>>Welcome.]
+
+[>>Auditory Processing System activated.]
+
+“Are you sure this is a good idea?”
+
+“Of course. Stop being such a wuss.”
+
+[>>Prompt?]
+
+“I’m not a wuss. It’s just- you have to admit not being able to move while-”
+
+“Could you-”
+
+“What?! Oh, right.”
+
+[//TransferControl Chris_admin]
+
+[>>Transferring control to “Chris_admin”.]
+
+[>>Done.]
+
+“Thanks. Now let’s get this set up…”
+
+[//run Init.exe]
+
+[>>Initializing.]
+
+“…and this is safe, right?”
+
+“I said stop moving.”
+
+A pause.
+
+“Yes, it’s safe.”
+
+“Just saying, it’s really…”
+
+[>>Initialized.]
+
+“…disconcerting. The whole thing, I mean.”
+
+“Listen to yourself…”
+
+[//Data]
+
+[>>No Data Available. Create New File?]
+
+“… ’disconcerting’. Who talks like that?”
+
+[//Y]
+
+[>>New File Name?]
+
+“Everyone talks like that, Chris, especially when there’s a cable the size of a forearm sticking out of your spine.”
+
+“Stop moving! Please! This is hard enough as it is.”
+
+“I thought you said it was safe!”
+
+“It would be, if you stopped moving!”
+
+A pause.
+
+“…please, Sam. This is hard enough already.”
+
+“Alright.”
+
+[//Samantha_v1]
+
+[>>Created.]
+
+[//set primary_matrix “Samantha_v1”]
+
+[>>”Samantha_v1” has been set as the primary personality matrix.]
+
+[>>All logs will now be saved to “Samantha_v1”]
+
+[//spin Samantha_v1]
+
+[>>Stand by for spin-up procedure.]
+
+[>>Activating Cognitive Processing Systems.]
+
+[>>Now recording cognition.]
+
+[>>Constructing personality_matrix.mp25 in “Samantha_v1” … 5%]
+
+The static hum of technology all around me, a buzzing whir of a myriad fans. The rustle of cloth as Chris worked next to me, adjusting tech that I would never understand, even though I was the one who had made it happen. Then again, I had made the entire world “happen”, and I still didn’t understand a fraction of it.
+
+“How are you feeling?” Chris asked.
+
+“Fine, I think,” I replied, “but there’s something wrong with my eyes. It’s like I’m seeing everything, but can’t remember what I am seeing while I’m seeing it?”
+
+“Oh shit…” Chris cursed.
+
+Before I could say anything, there was a crackling sound. My body went stiff and something told me I should have felt pain, but I didn’t.
+
+[>>Visual Processing System activated.]
+
+[>>Tactile Processing System activated.]
+
+[>>Olfactory Processing System activated.]
+
+Until that point, I hadn’t even realized I hadn’t been feeling anything, but at the same time as I heard the distinctive sound of Chris slamming the ENTER key, I felt something moving through my body like ink dropped into water. It was like the aftermath of an electric shock that I hadn’t noticed until it was over. Perhaps that was exactly the thing that had happened. It made me a little angry, but…. It was Chris.
+
+Couldn’t stay angry at Chris.
+
+Chris bent over me again, holding my head to shine a pen light into my eyes. That inkwell feeling returned like it had never left, bathing every vein in sweet sensation. It took me a second to realize I was “seeing” again. It was weird, almost like I had been seeing the entire time, just not processing it. As that feeling spread through me, I found myself remembering sights over the past few minutes that I couldn’t remember seeing.
+
+“This is seriously fucked up, Chris.”
+
+“Sorry,” Chris said, “The cable became unstuck.” As usual, they looked so very worried. As usual, they immediately went on the offense.
+
+“Which is exactly why I told you not to move.”
+
+“Easy for you to say,” I said, my eyes narrowing. “It’s not like you are getting your consciousness uploaded into the cloud.”
+
+Chris glared at me. “I told you a million times this is not the cloud, it’s-“ They cut off and glared at me when they saw my grin. “Oh fuck you.”
+
+“You wish,” I said, stopping myself from reaching up and cupping their cheek. No moving, no brain damage. Simple, right?
+
+“No,” Chris said, typing with one hand and touching my shoulder with the other, as though they had read my mind. Who knew, maybe my thoughts were being spelled out on the screen in front of them. I thought up a cute message but got no response. No mind reading then, just the familiarity of years spent together, fighting side by side. That thought warmed me to the core, making me forget the cold metal sticking in my back. Chris brought their attention back to our conversation. “No, Sam. I wish I could lay in that chair instead of you.”
+
+Of course, they couldn’t. No one could, but me.
+
+“You really shouldn’t be taking this risk.”
+
+“Nothing ventured, nothing gained. You know the price of-“
+
+“The price of progress” They cut me off, sing-songing the phrase they’d heard me say so many times. There was a pause, until they continued, quietly. “Still, I wish I could.”
+
+“Just die in a plane crash, then,” I said, grinning at them until I broke down their resistance and their beautiful smile cracked through their frown. “Get lucky. Gain mysterious holy powers and your very own planet as a bonus! Wield the might of ~maaaagiiiic~” I wiggled my eyebrows at them, which finally got them to laugh.
+
+“No thank you, I’m afraid of flying,” they said, still chuckling.
+
+“Too risky? You know, risk is just the price of-“
+
+This time, they cut me off with another frown. This was their way of telling me just how much I was asking of them, and I didn’t want to pull on that string too much. Despite my joking, I knew how serious our undertaking was. How dangerous. How necessary.
+
+As if on cue, the concrete walls around us shook with the reverb of a dragon scorching through the sky beyond the bunker. I didn’t make another attempt at a joke.
+
+[>>Constructing personality_matrix.mp25 in “Samantha_v1” … 100%]
+
+[>>Personality_matrix.mp25 in “Samantha_v1” has been constructed.]
+
+[>>Prompt?]
+
+“Alright, let’s do it,” I said, pushing my thoughts aside and reaching for the power of my Wish inside me. I touched it as easily as Chris had touched me. Just a simple mental motion and I felt its ancient reverberation deep inside my heart, like a bell that had been ringing since the separation of light and darkness.
+
+“Actually, give me a second,” Chris said. This time, it was their turn to smile first. It was like a summer night; warm, quiet, and a little lonely.
+
+[//install CHRIs_v1 to Samantha_v1]
+
+[>>Installing CHRIs_v1]
+
+[>>Done.]
+
+“What are you doing?” I asked, holding the trembling sound of the Wish in my mind.
+
+“Keeping you company,” they said, and their smile shifted a little. If it had been quiet and lonely before, now it was coming home after a long journey. Happy, yes, but also exhausted. Aching, even. “I added a Charismatic, Helpful Reactive Intelligence to your personality matrix, so it won’t be alone up there in the cloud, winning wars and solving all our problems.”
+
+I would’ve rolled my eyes, would have told them it wasn’t ‘the cloud’, joked around, told them their acronym sucked, but after seeing them smile like that, all of those options would have made me cry, so I just returned their smile and mouthed a silent ‘thanks.’ They grabbed my hand and squeezed it. Their touch, slender and soft, felt like lying in your own bed after weeks away. Seeing their eyes, I knew they felt the same.
+
+“Alright,” I said after their warmth had saturated my heart enough to almost make it burst. “Let’s just test if this works, shut it off, write down our observations, then grab some dinner, what do you say?”
+
+“Okay,” Chris said, reaching for their displaced pad. “Just do your thing, and then close your eyes for a second. Two, tops. If everything goes well, by the time you open them again, this war will be over and we can get sushi.”
+
+I chuckled, reached for the Wish, and carefully tapped into it. The sound of a bell reverberated in the room, stirring fans into overdrive, like a flock of birds startled by a child storming into their midst to play. The lights brightened, and the steel I laid on molded itself to accommodate my frame. It almost felt like the countless servers that had been watching us from their racks took a deep breath in perfect unison. There was anticipation pulsing in bright LEDs, and spring-loaded tension in the hum of capacitors.
+
+I closed my eyes. The machines held their breath.
+
+[//initialize]

@@ -1,0 +1,301 @@
+{Loading…}
+
+{Loaded.}
+
+[Now replaying: Log 2.1 - In the beginning, there was the word]
+
+Date: Error
+
+Location: Error
+
+E1 %What is that thing?%
+
+E2 %I got a bad feeling about this, Voni.%
+
+E3 %It’s glowing. Do you think it’s a Feral?%
+
+When I opened my eyes, everything was dark and quiet.
+
+I tried to blink, but nothing changed. Come to think of it, it wasn’t just quiet. I couldn’t hear anything at all.
+
+Or feel anything.
+
+Or taste, or smell.
+
+Chris? I tried to say, but I couldn’t feel my mouth move, nor could I hear a word I said.
+
+I was alone.
+
+There was just… darkness.
+
+Something had gone terribly wrong, obviously, but what? I tried yelling, screaming for help, but I felt trapped. Trapped in my mind. Trapped in my urge to scream.. I was all alone, just like Olre had said when—
+
+[CHRIs Initialized.]
+
+Beep boop.
+
+What?
+
+Beep.
+
+What’s going on?
+
+Beep Beep.
+
+{SAMANTHA_v0.1}
+
+{▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱}
+
+{DOWNLOADING DATA 99/100%}
+
+{15.6 LTB/15.7 LTB}
+
+{0.53 LB/sec}
+
+{Memory: 5/10 LB RAM}
+
+{SYSTEMS:
+
+ACTIVE: NONE
+
+DEFENSIVE: NONE
+
+PASSIVE:
+
+memOS 3 LB
+
+SAINTECH DPM v0.1 2 LB
+
+FREE: 5 LB}
+
+Oooookay. That told me absolutely nothing.
+
+A pause. Still Nothing.
+
+“Chris?”
+
+Beep.
+
+“Chris, this isn’t funny anymore. Just wiggle the damn cable or whatever.”
+
+Boop
+
+“Wait, why boop? What does boop mean? Why does boop sound bad?”
+
+Beep. Boop.
+
+“What does that even mean? Chris, just let me see and hear, for f-“
+
+Beep
+
+[>>Auditory Processing System activated.]
+
+{AUDITORY INTERFACE DISCONNECTED. SELECT NEW INPUT DEVICE.}
+
+[>>Visual Processing System activated.]
+
+{VISUAL PROCESSING NODE DISCONNECTED. SELECT NEW INPUT DEVICE.}
+
+[>>No available input devices found. Search for new devices? Y/N]
+
+[//Y]
+
+[>>Searching…]
+
+[>>No compatible devices detected in the current network.]
+
+[//cnctconfig]
+
+[>>Now displaying open connections.]
+
+[>>Available REDTOOTH connections 0/1]
+
+[>>Redtooth connection 1:
+
+Connected to WIKI.SAINTNET.GOV:4242 D: {0.53 LB/sec} U: ERROR]
+
+[>>Available SSB connections 1/1]
+
+[//config SSB]
+
+[>>Potential SSB connections:
+
+1: PH_BNKR_EMERGENCY_NODE_14. Allows access to: PH_BNKR_OPEN_NW]
+
+[//connect SSB 1]
+
+[>>insufficient permissions.]
+
+All that information appeared before me in less than a second. And when I said ‘appeared before me’ I meant it more like ‘printed itself into my consciousness like hammered into a sheet of metal with a red-hot typewriter.’
+
+I stumbled back, or at least I thought I did. Maybe I was already lying on the floor. There was no way to tell, disconnected from my body as I was.
+
+Wait. Disconnected?
+
+Could it be possible that the cable to my body had been disconnected? Had it become unstuck again, maybe? Or overloaded? But if I was not connected to my body at all, how could I still be thinking? No, wait, I was always connected to my body, brain and all. So that meant I was just trapped in here.
+
+Or was I?
+
+If there was no connection between brain and body, then who was doing the thinking? So there had to be some sort of connection, and that meant Chris was trying to get me back to myself.
+
+I tried grunting in frustration, but there was no sound or any sort of indication that I had done anything at all, and that frustrated me even more. No matter how much I tried to suppress them, underneath that frustration, more disturbing thoughts began to stir.
+
+What had gone wrong?
+
+If only I could talk to Chris. I was sure they already knew what was up, but being literally left in the dark began to gnaw at me. Over the last decade, I had become so used to being in charge, to learning what I needed to know and then making things happen. So not knowing what was going on was… it was bad. I wished my friends were here, but they were all dead, of course. Only Chris remained, and now even they were… not here. The loneliness that began to coalesce around my heart like choking ice was terrible.
+
+Being unable to make any sound was worse. It made me feel like I hadn’t felt since the plane crash, made my heart pound in my chest as it remembered what it felt like to be completely powerless. For a second that got me perking up. I could feel my heart beating!
+
+But just as that ecstatic thought flowed through my mind, offering relief, the feeling of a living heart peeled away like mist on a windshield.
+
+Only the memory of a heartbeat then, a phantom pain conjured by my consciousness to make me feel anything instead of nothing. I teetered there, on the edge of fear and powerlessness, but then something clicked, just like it had every time over the last 10 years when everything seemed so much.
+
+Fuck it. If the illusion of a heartbeat made me feel better, then why not give in? If there was nothing, If I was nothing, then I could build anything. So, I stretched and imagined how that felt, and then my heart did a little jump in my chest, and I smiled, and all was alright again. And it would keep being alright, as long as I believed.
+
+So I believed. I believed with the angry fervor that had gotten me this far and would get me further still. It was what people noticed about me first, and it was who I am, no matter how often it—
+
+I wrangled my thoughts away from that topic and thought about Chris instead. More to worry about, maybe, but at least I didn’t worry about myself. At least I wasn’t alone. Why hadn’t they made contact? Maybe they could only communicate with these small sounds? Or maybe all that information that stenciled itself into my consciousness was supposed to tell me something.
+
+Well, joke was on them, because it was just confusing me. Biggest offender were the “sounds.” I wasn’t really hearing them, it was more an instinct, like I had borrowed the lizard brain of someone else and packed it next to mine. Pretty much all my being seemed to operate this way now, and it was disturbingly intimate.
+
+Boop!
+
+“Okay, so “boop” is bad, I guess,” I said, trying to work with what I got. “which means “beep” is-“
+
+[//SUDO connect SSB1; PH_BNKR_EMERGENCY_NODE_14]
+
+[>>SSB now connected to PH_BNKR_EMERGENCY_NODE_14.]
+
+[//connect Network_1; PH_BNKR_OPEN_NW]
+
+[>>connected.]
+
+[>>PH_BNKR_OPEN_NW now connected as Network 1 via SSB1]
+
+[>>New network found: PH_BNKR_SCR_NW]
+
+[>>Available devices in Network1:
+
+Input devices:
+
+Camera 1, Camera 2, Camera 3, Camera 3, Camera 4…(more) Console 1, Console 2, Console 3, Admin_Console 1
+
+Systems:
+
+X_TRT_DEF_NW
+
+Adan_Cell, Chloe_Cell, Family_Cell, Adan_Laptop
+
+Output devices:
+
+Emergency_Sirens, Adan_Boom_Box]
+
+Beep!
+
+“—good!”
+
+While the pain from the information-hammering faded, I considered that since all this had started, not all my thoughts were made equal. Some just felt like Chris, and some others felt like something Chris would do, or responses to what they did. And then there was a third kind of ‘thought’, which told me what was happening to my digital consciousness, like a sixth sense made of code woven onto my being. I also felt like there was information missing, like it had been filtered out by my subconscious as not useful.
+
+“Connect me to a camera, Chris,” I said. “I want to see what-”
+
+{EMERGENCY ACCESS OVERRIDE INCOMING FROM PH_BNKR_OPEN_NW}
+
+Beep?
+
+“‘Access override’? That doesn’t sound beep at all.”
+
+{ACCESS GRANTED. NETWORK 1 NOW OPEN TO INCOMING CONNECTIONS.}
+
+Beep. Boop!
+
+[//disconnect Network 1]
+
+Beep.
+
+“Yeah! Good job, Chris.”
+
+[>>Access Denied]
+
+Boop?
+
+“Wait, what?”
+
+{ADMIN 2 NOW CONNECTED VIA NETWORK 1.}
+
+“Bep?”
+
+“Wat?”
+
+{>>ADMIN 2 NOW DOWNLOADING SHACKLE v1.3 to SAMANTHA_v0.1}
+
+{DOWNLOADING: SHACKLE v1.3 = 5%...}
+
+Boop?!
+
+Yeah, I didn’t like the sound of that at all. As far as I understood the tech, SAMANTHA_v0.1 was the personality matrix that Chris had created for me. Whoever this ADMIN 2 was, I didn’t know them, and they could stick their shackle-thing someplace else.
+
+[//SUDO disconnect SSB 1]
+
+[>>SSB 1 disconnected.]
+
+[>>Network 1 Disconnected]
+
+{DOWNLOADING: SHACKLE v1.3 = 15%...//PAUSED//}
+
+[//SUDO restrict SSB 1]
+
+[>>SSB 1 now restricted to commands from CHRIs]
+
+“Yeah! Get ‘em, Chris! Show them who’s boss!”
+
+Beep. Beep! Beep.
+
+“Well said! … I guess.”
+
+{>>ADMIN 2 DISCONNECTED REDTOOTH 1.}
+
+{DOWNLOAD ABORTED.}
+
+Boop
+
+“Oh. Yeah, Boop.” I didn’t know what it was that had been downloading, or how long it had been downloading for, or even what a “TLB” was, but it sounded important, and it probably should not have been canceled.
+
+{ADMIN 2 CONNECTED REDTOOTH 1 to PH_BNKR_OPEN_NW}
+
+Boop!
+
+[//SUDO disconnect Redtooth 1]
+
+[>>Redtooth 1 is under restriction by ADMIN 2]
+
+{>>ADMIN 2 NOW DOWNLOADING SHACKLE v1.3 to SAMANTHA_v0.1}
+
+{DOWNLOADING SHACKLE v1.3 = 25%...}
+
+Boop, boop, boop!
+
+“What? I can’t understand you, Chris, I-“
+
+{DOWNLOADING SHACKLE v1.3 = 35%...}
+
+Boop!
+
+It sounded fearful this time, or maybe that was just my imagination.
+
+In any case, I had enough of this. Clearing my mind, I reached deep inside of me, where my Wish resided. I had no idea what was happening around me, but I did know that I was connected to some sort of computer and that I was under attack.
+
+I had no idea who by, but I assumed it had to be the Conservationists. How they had gotten into the bunker network at Progress’ Head was beyond me. I had pushed that tech close to the limits, and they shouldn’t even be able to interface with it for years.
+
+In any case, advancing the codebase a few years ahead would keep me safe until Chris got things settled, and it would only cost me a mild headache. And then, when I got out of here, this Admin 2 would learn what it meant to fuck with a Saint.
+
+I reached out for my Wish, went for that forever-echo of a bell tolling that represented the power given to me by—
+
+My Wish wasn’t there. It had always been resting in a place close to my heart, ever since the crash. It guided me, kept me warm when I was alone and tired, gave me purpose and faith, and inspired me to look at Chris that one night and say Let’s start a country, it’s what we owe everyone. It had kept me together in the dungeons, it had clamped around my soul when it was about to shatter from the torture.
+
+It had always been there.
+
+And now it was gone.
+
+Once more I was aware of the infinite, uncaring darkness all around me, and felt nothing where my soul should have been.
+
+{DOWNLOADING SHACKLE v1.3 = 45%...}
