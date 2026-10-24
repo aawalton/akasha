@@ -27,6 +27,10 @@ export const alanWebApiSeatMessage = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A message to a seat its sender may not read is refused and writes nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A message too long for a message page is refused rather than shortened.",
     },
     {
@@ -60,5 +64,5 @@ export const alanWebApiSeatMessage = {
     },
   ],
   createdAt: "2026-09-24T18:00:41.695Z",
-  updatedAt: "2026-10-09T23:19:50.243Z",
+  updatedAt: "2026-10-24T17:05:19.492Z",
 } as const satisfies Route

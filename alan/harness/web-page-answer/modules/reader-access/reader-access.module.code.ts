@@ -1,4 +1,7 @@
 import { asObjectRecord } from "akasha/code/type/narrowing/modules/as-object-record/as-object-record.module.code.ts"
+import { namedWithin } from "akasha/page/access/modules/answer/answer.module.code.ts"
+import { askedNarrow } from "akasha/page/access/modules/read-gate/read-gate.module.code.ts"
+import type { Test } from "akasha/page/service/modules/where-testing/where-testing.module.code.ts"
 import {
   asContributor,
   personSlugFor,
@@ -76,6 +79,30 @@ async function reachFor(user: object | null, pageTypeSlug: string, deed: Deed): 
 
 export function mayRead(user: object | null, pageTypeSlug: string): Promise<Reach> {
   return reachFor(user, pageTypeSlug, DEEDS.READ)
+}
+
+type Where = Readonly<Record<string, Test>>
+
+const NARROWS_DISAGREE = "the accesses reaching this page type narrow it by different keys"
+
+const ASKED_PAST_NARROW = "the pages asked for lie outside the narrow this reader may read"
+
+type ReadWhere = { readonly where: Where } | { readonly refused: string }
+
+export function whereWithin(reach: Reach, where: Where): ReadWhere {
+  if (!reach.permitted) return { refused: reach.why }
+  const narrowed = askedNarrow(reach.narrows)
+  if (narrowed === null) return { refused: NARROWS_DISAGREE }
+  const held = namedWithin(narrowed, where)
+  return held === null || held === undefined ? { refused: ASKED_PAST_NARROW } : { where: held }
+}
+
+export async function whereReadBy(
+  user: object | null,
+  pageTypeSlug: string,
+  where: Where
+): Promise<ReadWhere> {
+  return whereWithin(await mayRead(user, pageTypeSlug), where)
 }
 
 export function narrowedWrite(reach: Reach): string | null {

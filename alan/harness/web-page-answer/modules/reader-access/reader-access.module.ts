@@ -37,7 +37,15 @@ export const readerAccess = {
       decisionKind: "decision-kind/departure",
       statement: "A reader naming its person outright is taken as that person.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A question a narrowed reader asks by another key is held to the narrow as well.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A question asking by the narrowed key for pages outside the narrow is refused.",
+    },
   ],
   createdAt: "2026-09-21T17:28:31.470Z",
-  updatedAt: "2026-09-22T14:34:11.000Z",
+  updatedAt: "2026-10-24T17:05:19.492Z",
 } as const satisfies Module

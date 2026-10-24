@@ -5,6 +5,7 @@ import {
 } from "akasha/agent/message/modules/attached-images/agent-message-attached-images.computed-property-module.code.ts"
 import { messageNamed } from "akasha/agent/message/modules/naming/agent-message-naming.module.code.ts"
 import { signedInAs } from "akasha/alan/harness/better-auth-rr/modules/google-auth-guard/google-auth-guard.module.code.ts"
+import { whereReadBy } from "akasha/alan/harness/web-page-answer/modules/reader-access/reader-access.module.code.ts"
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 import { imageBytes } from "akasha/infrastructure/inference/generation/image/properties/image-bytes.file-property.ts"
 import {
@@ -98,16 +99,20 @@ async function senderOf(contributor: string): Promise<string | { readonly refuse
   return { refused: "no person page names the contributor signed in" }
 }
 
-async function seatSlugOf(id: string): Promise<string | { readonly refused: string }> {
+type Refused = { readonly refused: string; readonly status: number }
+
+async function seatSlugOf(from: string, id: string): Promise<string | Refused> {
+  const held = await whereReadBy({ person: from }, SEAT_PAGE_TYPE_SLUG, { id: { is: id } })
+  if ("refused" in held) return { refused: held.refused, status: 403 }
   const seats = await askingFor({
     pageTypeSlug: SEAT_PAGE_TYPE_SLUG,
-    where: { id: { is: id } },
+    where: held.where,
     keys: ["slug"],
     limit: 1,
   })
-  if ("refused" in seats) return { refused: seats.refused }
+  if ("refused" in seats) return { refused: seats.refused, status: 503 }
   const slug = textIn(seats.rows[0]?.slug)
-  return slug ?? { refused: `no seat has the id \`${id}\`` }
+  return slug ?? { refused: `no seat \`${from}\` may read has the id \`${id}\``, status: 404 }
 }
 
 export async function action({ request }: { request: Request }): Promise<Response> {
@@ -135,8 +140,8 @@ export async function action({ request }: { request: Request }): Promise<Respons
 
   const from = await senderOf(signedIn.contributor)
   if (typeof from !== "string") return refused(from.refused, 403)
-  const to = await seatSlugOf(sent.data.seat)
-  if (typeof to !== "string") return refused(to.refused, 404)
+  const to = await seatSlugOf(from, sent.data.seat)
+  if (typeof to !== "string") return refused(to.refused, to.status)
   const attached = await attachedAmong(sent.data.images)
   if (attached instanceof Response) return attached
   const body = withImages(said, attached)
