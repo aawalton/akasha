@@ -1,0 +1,119 @@
+So the thing was, I kind of thought Jon was an idiot.
+
+He walked straight into the guild lobby, eyes on me, and I watched as he no doubt prepared to cast his typical Day of Judgment Spell. Seemed like this had been his original plan; go and ask around at the border outposts to see if anyone knew where I was, and then come to town to kill me. But, really, how did he expect to do that? Sure, he could get a single cast of his Spell off and hit me for a ton of damage, but Dark Plate would save me from dying in a single hit, and the moment he picked a fight here? In the middle of the damn guild lobby, casting lethal Spells? He’d be swarmed by Classers before he could even think of finishing me off.
+
+I stood from my seat at the bar, as did Erani, each of us readying for an attack. I didn’t want to strike first, labeling myself as the aggressor, and it seemed like Jon was hesitating for the same reason. Maybe that was the whole point, actually. Maybe he was here because whoever struck first would be the one to be ganged up on by the dozens of adventurers around us. But then…why? It could be that he was here to talk, but from my previous interactions with him, he certainly didn’t seem like the type to have a sudden change of heart and decide to try diplomacy. Who knew, though.
+
+However, he didn’t know what I’d been doing this whole time. Some of the adventurers I’d been talking to had left by now, but there were still at least a half dozen in here who’d agreed to help me in a fight with him. And then there were more still who’d only refused my offer because they were busy tomorrow, which, considering he was here in front of them right now, scheduling would most likely not be a problem anymore. All I had to do was somehow tell them that he was here, ideally without Jon noticing and acting first.
+
+Jon nodded at me, a gesture that broke me out of my thoughts. What was he doing? Or, wait, he wasn’t quite facing me; maybe he was nodding to someone behind me? I turned to see what—
+
+A dagger flashed out from the woman who had been sitting by the bar next to me, striking me across my throat before I could react.
+
+You have been sliced. 68 damage.
+
+Your Health is 612.
+
+You have been poisoned. 121 damage.
+
+Your Health is 491.
+
+Venom is coursing through your veins. You will lose 15 Health every minute for a number of minutes equal to 500 minus your Endurance times 5 (160 minutes).
+
+Magic is enhancing the venom’s strength in ravaging your body. All poison-based damage-over-time effects applied to you will have their damage accelerated by a factor of 10.
+
+This effect lasts until all poison-based damage-over-time effects on you wear off.
+
+I gasped, stumbling back and gripping my hands around my neck. The pain radiated through my bloodstream, swimming through to destroy my body from the inside out. I could instantly feel what that final notification was talking about; the acceleration caused the poison to work that much faster, so that it dealt its damage in ten times less time. I wasn’t taking 15 damage per minute for 160 minutes, I was taking 150 damage per minute for 16.
+
+The sensation was beyond debilitating. I was reminded of long ago, when I’d been afflicted by the Banestinger venom. That’d been bad; the pains had come in waves, each individual tick of damage feeling like a stab to the heart. It’d been so bad, back then, that I could barely walk while under its effects. This new poison, though…If it had happened back then, when my Endurance wasn’t mitigating the pain as much as it was now, it could be completely possible that the pain itself would kill me before the poison did.
+
+I collapsed backward into the bar behind me, and as I did, the entire room burst into action.
+
+Erani was first to move, leaping forward and slamming her fist into the Rogue’s nose. I heard a crunch of breaking bone that would have definitely been satisfying to the ear had I not been in the process of dying painfully, and a flash of bright light that confused me for a moment before I remembered that Erani had technically been using Distortion Strike this whole time to hide her identity. That Spell was supposed to be used to hide in the darkness before making a melee strike that revealed you in a bright flash and dealt a massive amount of bonus damage. So yeah, definitely made sense that the Rogue’s nose had broken, considering Erani had just hit her for an extra 200 damage.
+
+Everyone else jumped into the fray about a half second after that. The bartender vaulted over the counter and grabbed the woman’s wrists, wrenching her hands behind her back, and plenty more surged forward to offer help apprehending her.
+
+Erani crouched down next to me. Distortion Strike’s effects had automatically ended when she made her melee strike, revealing her natural looks. In a moment of what was probably my mind trying to think about anything other than the pain radiating through my throat and chest, I was faced with her beauty, and wished I could see her without the effects of the Spell more often.
+
+“Are you okay?” she asked frantically, looking over me. With me in Dark Plate, she wouldn’t be able to see much, but that didn’t stop my blood from spurting straight through the incorporeal armor, which I was sure she noticed.
+
+“Dying,” I got out, my voice a gurgle. “Poisoned.”
+
+“Healing!” she instantly shouted, turning to face the room. “We need healing!”
+
+As she searched for someone who could help, I caught a glimpse of Jon standing in the back of the room. He raised his hand, the sky glowing a bright white around us, and I weakly raised my own hand to try and point to him, but everyone was too panicked, frantically trying to take care of the attacker that was still struggling to escape her captors, to notice.
+
+Jon brought his hand down, and a second world of pain was brought upon me.
+
+You have been smitten. 1075 damage.
+
+Dark Plate has triggered. Damage has been reduced to 340.
+
+Your Health is 114.
+
+The room burst into further panic at the second attack. Some people fled from me, apparently concluding that any place near me wasn’t safe, while others moved into action to apprehend Jon, who was already raising his hand in preparation for a second cast of Day of Judgment.
+
+Once again, Erani was the first to act, and the entire wall behind Jon was shattered by the force of the ten or so haphazardly-aimed explosions throwing Jon back in sequence. Each of her Firebolts shook the room, and though the lobby had clearly been built to survive high-power fights like these, it had definitely not been built to survive them unscathed. Honestly, it was a miracle the building was still standing after getting an entire wall blown out.
+
+Jon was flung back by the power of explosion after explosion, the savage series of attacks throwing him out of the lobby and onto the street, at which point the bartender put a hand on Erani’s shoulder to pull her back and keep her from killing any civilians. Most of her shots missed, with Jon being thrown around unpredictably by the force of her attacks, so it’d be a problem if he were around other people. More Classers rushed out after Jon to grab his body, but he was already getting to his feet the moment the attacks stopped.
+
+I’d already activated Regenerate in an attempt to keep my Health high the moment Jon’s attack came, and it was doing its work, but the majority of its healing was being canceled out by the venom’s damaging effect. The first instance of it ended, and I hurriedly activated it again, dropping my Stamina down to around 200. I only had enough Stamina to activate it three more times—thirty seconds worth. After that, I’d be left with nothing to deal with the fifteen more minutes of 2.5 damage per second. Thousands of total damage; nothing I’d be able to survive.
+
+“D-does anyone have healing?” I called out.
+
+Someone rushed out of the crowd, and I looked at the young man with suspicion, unsure if he was another assassin secretly working with Jon. But he simply replied, “I-I’m a lower-Level Cleric, I can offer some healing. It’ll restore 30 Health over the next thirty seconds.”
+
+I nodded at him, then looked out at the crowd for anyone else. Just 1 Health per second wouldn’t be enough to counteract the poison, so I’d need more. But nobody else was offering.
+
+“We can pay!” Erani shouted. “Fast healing, if anyone has it, please!”
+
+No takers.
+
+The Cleric reached out to try and heal me, but I raised my hand and waved him off. “I’ll be fine.”
+
+“B-but you said—”
+
+“I’ll survive,” I said even louder, projecting my voice across the room. “I have just enough Health to survive the attack.”
+
+I stumbled to my feet, leaning heavily on the bar as Erani looked at me with worry carved across her face. “You’ll be okay?”
+
+“I’ll be okay,” I said loudly once again.
+
+That seemed to be enough. From the back of the crowd, an Archer quickly drew his bow back and released an arrow from it. In the moments it flew through the air, the arrow multiplied to two, then three, then four, spectral copies of the projectile splitting off in the split seconds before it and its copies hit their target—which was me, naturally.
+
+Three of the arrows hit me, stabbing into various parts of my chest, and the rest thudded into the wooden bar behind me.
+
+You have been pierced. 41 damage.
+
+Your Health is 121.
+
+You have been pierced. 37 damage.
+
+Your Health is 84.
+
+You have been pierced. 43 damage.
+
+Your Health is 41.
+
+He was drawing his bowstring back again when someone tackled him to the ground, and more followed afterward.
+
+I coughed, blood leaking from quite a few holes that’d been made in my body, now, and falling back to the floor.
+
+The Cleric instantly got to healing me, but I knew it wouldn’t be enough. I had about twenty seconds left in this timeline before my final use of Time Loop would be spent to send me back.
+
+In that time, I tried to piece together what I’d learned. Jon would come into town at this time, with at least two additional people coming alongside him that hadn’t been present in the original group of soldiers he brought; he probably used these two because they didn’t have those glowing spirit arm things. I hoped he hadn’t brought those other soldiers anywhere near, but if he did have them around here somewhere, that’d mean I’d be going up against…nine people, plus Jon? And that was at minimum; it was completely possible he had more in reserve.
+
+Part of me had the urge to try and stand up again and feign survival to try and draw more of Jon’s allies out of hiding—if I could get another person to attack me, that’d be one more person I’d know we needed to deal with—but I didn’t have the strength to physically stand, at this point. It wouldn’t be likely I could speak at all, much less act like everything was going to be fine.
+
+My Health ticked away as my mind began fading. I wasn’t quite fond of the feeling of a slow death, so I decided now was probably a good time to go ahead and manually activate Time Loop before I had to experience it.
+
+But Jon had tipped his hand quite low here. I knew, now, where he’d be throughout this entire timeline. If he was at the border before, and now he was here, then I would necessarily know the roads he took, and when he took them. I effectively had a perfectly-mapped-out route of where I needed to avoid, and where I’d need to go to confront him at any time I wanted to. Sure, he had me outnumbered in a fight, and maybe even overpowered me one-on-one as well. But in the information game, I had all the power.
+
+In the in-between place, I used the limited time I had to continue piecing things together in my mind, constructing as good a plan as I could construct. I did have all the information, but that wouldn’t make the impossible possible. Jon had demonstrated his ability to have contingency after contingency here, and I was afraid that I’d escape death from this instance of his plan only to run into another unexpected death right after. So if I wanted to beat him…
+
+Yeah, that was it. Maybe—actually, definitely dangerous, but I didn’t have much else choice when it came to this.
+
+I picked how far I wanted to go back—the maximum, as usual.
+
+And then I was back.

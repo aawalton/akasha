@@ -1,0 +1,93 @@
+And then I was back, sitting in the back of a carriage driving peacefully through the sandy dunes.
+
+The first thing I did was check my XP.
+
+Currently at 1.87k/3.5k, huh? Not bad.
+
+“Not bad at all,” Index commented, “considering you started out at basically 0 XP. At your current Level, trying to get half of your XP requirement in a single day should typically cost you your life. Which it did.”
+
+A life well spent, I thought back with a sigh. There was honestly something so freeing about fighting with Time Loop as a foregone conclusion. It reminded me of my old swordfighting days, where I’d spar with partners for hours at the training grounds—back when the fights weren’t life-and-death. There was something genuinely fun about fighting that was lost when it got so stressful.
+
+I turned my mind to my Bond with Ainash, sending her a message. “Hey, I just came back from Time Loop. I don’t have any memories from your perspectives, but I do think it’d be good for you two to get some from my own. Do you mind passing them from me to mother?”
+
+“Okay!”
+
+***********
+
+Erani was discreetly touched by her daughter and instantly felt the transfer occurring. Arlan had apparently gone back with Time Loop and had some valuable memories for her, though she didn’t yet know what they were.
+
+She slowly felt her mind being filled with images. It wasn’t a single one, but rather a series of short memories only a few seconds long each, and every one was of Arlan’s perspective watching a certain Spell at work. And that Spell seemed to be Firebolt, upgraded with Meteoric Firebolt. It took a couple seconds for her to remember that this Spell would have been hers, after she’d Upgraded it to that option.
+
+It was strange to see a future version of herself, one who’d made a decision that the current version of her hadn’t made yet. So then, was it a forgone conclusion for her to pick Meteoric Firebolt? She hadn’t been thinking she’d take that one, honestly.
+
+Or, no, if it was her in the situation depicted…If they were going into a fight knowing that it would be undone, then she would just choose based on how she anticipated the Upgrade to perform in that fight only, which would change everything, of course. And it seemed that, after thinking things over in those circumstances, that version of her had concluded Meteoric to be the best option for that fight.
+
+Now, all that was left of that version of her were these memories.
+
+Erani blinked, forcing her mind back on track. Thinking about theoretical time deaths was a bad habit of hers, one that she stopped as soon as she noticed herself doing it. Right now, she’d been given some new and valuable information about Meteoric—a live demonstration.
+
+In the memories shown to her, Erani saw the Spell doing the work she’d heard it could do, but its drawbacks were made very clear, as well. Meteoric Firebolt was somewhat notorious for being an Upgrade with a massive downside that it didn’t tell the user about, causing it to be considered a “newbie trap” Upgrade—one that inexperienced or unprepared Classers often took and regretted taking soon after. Looking at the choice currently being offered to her, Erani gazed at the deceptive description.
+
+Meteoric Firebolt
+
+—
+
+Firebolt is delivered from the sky instead of from your hand, and takes the form of a rain of flames that catches anything it hits on fire, dealing its normal damage initially and then 5% of that damage per second for the next 10 seconds to anything it hits. The rain of flame’s diameter is twice Explosive Firebolt’s explosion diameter.
+
+Anyone looking at such a description would be ecstatic to take the Upgrade. Doubling the area of the Spell and adding on a damage over time effect that could increase the total damage output of the Spell by 50% was absolutely massive. However, secretly hiding in that description was the drawback. The line “Firebolt is delivered from the sky instead of from your hand” was it. Being delivered from the sky, it turned out, meant that the projectile came from much further away, meaning it would take much longer to hit.
+
+In general, a cast of Firebolt would take around one second to travel thirty paces, meaning it was pretty difficult to dodge—especially once it had an explosive effect. It did make it difficult to cast multiple Firebolts at the same target, however, since one Firebolt’s explosion could blast an enemy out of the way of the second Firebolt, causing it to miss, but that was okay as long as you were either willing to be patient with your firing or you could find something to pin your target up against so they wouldn’t get thrown away.
+
+At one second per thirty paces, a Firebolt would travel its current maximum range of around eighty paces in around three seconds. If Erani had taken the sniping path back at the First Upgrade, which would massively increase the Spell’s range, then this Upgrade would give her options to increase projectile speed, but that was beside the point. Those were the limitations she was working with. However, Meteoric Firebolt would make those limitations much worse.
+
+Compared to that three-second arrival time in the worst case for a typical Firebolt, Meteoric Firebolt would take—Erani counted the seconds in her new memories—almost fifteen full seconds to fall through the air and onto her enemies. In that particular fight, the drawback had been fine. There were so many enemies that even if the ones she targeted moved out of the way by the time the Spell hit, others would have moved into that area and would get hit all the same. Of course, that left Erani with basically no way to protect herself, which she could see causing her issues in the few short segments of memory where Arlan had caught glimpses of her fleeing from the monsters. However, in a timeline where her continued survival wasn’t actually all that important, that was fine.
+
+But now that her choice concerned the rest of her life, and not a single specific fight? The Spell would not work for her. It still had uses, of course—she’d read plenty of passages regarding Meteoric’s possibilities as a positioning denial Spell, with its long-lasting fires being able to create impenetrable walls entrapping Melee-types, as well as how the Upgrade turned Firebolt from an already phenomenal sieging and destruction tool into one of the best a Sorcerer could get at this Level, but for Erani’s purposes? It simply wasn’t worth the massive drawback.
+
+That just left the other two options, then.
+
+Choose one Upgrade for Firebolt:
+
+Forceful Firebolt
+
+School: +Arcane
+
+—
+
+When Firebolt makes a direct collision with a being, an additional force vector is applied to them with direction and force equal to that of Explosive Firebolt’s, except it ignores 35% of the natural force prevention that the being’s current Health gives them.
+
+Double Firebolt
+
+—
+
+When you cast Firebolt from one hand, you may have a second Firebolt be shot from your other hand as long as each Firebolt is angled to be shot 40 degrees away from each other.
+
+She looked them over. There was lots to consider, for certain. But she kept reading one section over and over. Double Firebolt’s “shot from your other hand.”
+
+Erani looked down at her single hand. Would Double Firebolt even function with her current body? She hadn’t ever read anything about that.
+
+She knew that the obviously correct decision would be to simply ask Arlan to talk to his Index thing about it, but she couldn’t bring herself to do so. She wanted to verbally acknowledge her predicament as little as possible, if she was honest with herself. Besides, she really didn’t like that Index Talent and what it said sometimes, so deliberately going to it for advice was…less than ideal.
+
+She also knew that it would probably have been a good idea for her to have taken Double rather than Meteoric in the previous timeline, that way she would know for sure if it would work. Why hadn’t she? Well, this current version of her had no idea. Perhaps it was embarrassment at the thought of the Spell not working. Perhaps she had decided that the Upgrade was simply not worth taking even if it did work, and figuring out Meteoric’s exact timing was better. Perhaps she just didn’t want to explain to Arlan why she’d taken an Upgrade to find the answer to a question that was easily answerable by Index. Perhaps she had already asked Index about it in the previous timeline, and Arlan just hadn’t given her that memory because he figured she’d just ask again.
+
+In a normal situation, the decision between Forceful and Double was often a toss-up between different builds. Getting this far deep into the options always led to fractured opinions among scholars, Erani had found, since it was at this point that humanity simply had far less experience with the options provided. Everyone knew that Explosive Firebolt was the best option for Firebolt’s first Upgrade because pretty much every Sorcerer out there got to that point and could weigh in their opinions. Everything that could be said about the topic had been said, so most everything was known, and the scholars could come to an agreement. At the second Upgrade, however, practical experience became sparse, and as such, so did understanding.
+
+Forceful was an interesting choice. Its wording was slightly obtuse, but effectively, the Upgrade would double the knockback of Firebolt’s explosion against whoever it hit at its baseline. But then, if that person had so much Health that it was reducing the effectiveness of the Spell’s knockback, this Upgrade’s added knockback would pretend that the person’s Health was 35% lower for the purposes of deciding how much force would apply to them. Basically, it pushed people back further on a direct hit, even if they were really strong.
+
+Double was also quite interesting. A good number of aimed projectile-based Spells like this one had an Upgrade like this somewhere along the line, though the exact functioning of each varied a bit. In Double Firebolt’s case, what it did was effectively allow the user to shoot a second Firebolt for free when casting the Spell. That would be a ridiculously powerful effect if it didn’t come with a restriction, though, so in this case, Double Firebolt would only allow one to shoot the second Firebolt if the two Firebolts were aimed at least forty degrees apart.
+
+It was a measurement that was somewhat difficult to envision off the top of your head, but really, all that needed to be known was that it basically ensured you had to fire each Firebolt at a different target. Even with the explosions giving some leeway, it was almost impossible to hit the same person with both Firebolts unless they were extremely close to the caster. Also, the Upgrade gave no inherent knowledge of whether a person’s hands were actually aimed far enough apart for the Upgrade’s effect to trigger until after the Spell was cast, and at that point, both hands had to already be in position and aimed at their respective targets.
+
+Effectively, from what Erani had read, the Upgrade had potential to be extremely powerful, but it came with an extremely high skill requirement. One needed to have the mental focus to aim at two separate targets at once, keep their hands appropriately apart, and somehow look in two different places at once to keep track of both enemies they were shooting at. But if they could, it would mean an insane increase to their abilities. It was as close to doubling your power with a single Upgrade as you could get.
+
+…Except Erani had no idea if it would work for her. Much less if she had what it took to train herself enough to use it. Forceful was clearly the safer option. It worked very well against weak opponents to keep them pinned down, keeping the stun-locking strategy that functioned well at early Levels relevant for just a little bit longer. The force effect of Explosive Firebolt was what kept Magic-Types alive.
+
+Sure, the force still scaled less quickly than peoples’ Health did, meaning the Upgrade would eventually become useless, but the now was just as important as the future—if not moreso. Keeping herself safe and in command during these fights was important, even if she would just be delaying the inevitable occurrence of Explosive Firebolt becoming unable to significantly push back any opponent at her Level.
+
+But Erani couldn’t shake the thought of taking Double Firebolt. It was like the Upgrade was calling to her. She wanted to master the difficult Upgrade, to reach new heights of power. She wanted to spend hours training with it, memorizing the degree numbers, learning new fighting styles. She wanted to struggle, and to eventually succeed.
+
+Erani had always felt a very strange connection with the lost versions of herself from other timelines. They weren’t quite her—they had different memories, different experiences, and, of course, one was alive while the other wasn’t. Rather, it was almost like a sistership. Both she and her time sisters were born of the same mother—past Erani—and would venture forth into the unknown, making new discoveries with the hopes that they would be passed onto their peers across time.
+
+In this case, Erani felt that her ‘sister’ had made a mistake. That one had tried to find an easy way out of this—clung onto hope that maybe Meteoric Firebolt’s downside wouldn’t be as bad as people said it was, and that she could just take that Upgrade without worrying about the other options. That hadn’t been the case. It was time to ensure Erani’s future selves wouldn’t regret what she did now. At the very least, she had to try.
+
+“Hey, Arlan,” she said, hearing her voice carry a tone of stress, “do you mind asking Index to help me with something?”

@@ -1,0 +1,153 @@
+After a little guidance from Index, I reached into my mind, and…
+
+Anchor Point has been placed.
+
+Unplaced Anchor Points remaining: 0
+
+There was a faint sensation in my body, like energy had left through my chest and been focused into the world. There was also a sound—some sort of crystallization, like a rock was forming in front of my face. Though, I couldn’t actually see what was happening, since I was still in the midst of meditation.
+
+“Woah, what is that?” the woman driving the carriage said, and I felt the floor beneath me shudder as we slowed down.
+
+“Alright, first, can you just reach your hand out in front of you?” Index asked as I tried to ignore the outside distraction.
+
+I did, and found myself bumping into something floating midair. It was hard and small.
+
+“Hey, don’t touch that!” the woman shouted. I vaguely heard Erani speaking, trying to calm her down.
+
+“Good,” Index said, “grab the Anchor Point and push Mana into it.”
+
+I did that as well, gripping my hand around the floating object—it was small enough to fit into my palm, a rough stone-like texture—and went through the familiar routine of pushing my Mana into the item.
+
+Anchor Point is charged with 1/1k Mana.
+
+I frowned. Okay, so, it didn’t seem like I’d be getting that charged up in this timeline.
+
+“It’s okay,” Index said, “you don’t want to. Ugh, finally I can talk about this.”
+
+A hand touched my shoulder, but then was yanked away. I’d tuned out the conversation going on between Erani and the merchant woman, but clearly there was a disagreement going on right now.
+
+Right, so get talking then.
+
+“Okay, so what the Beacon actually does is that it’s a teleporter. Once you charge it or any of its Anchor Points with Mana, you can teleport to any of the others, bringing anyone in an area with you, and then its cost gets multiplied by 10 for the next week.”
+
+Hold on, hold on. It lets me teleport?
+
+“Yes, as well as everyone with you. And I know what you’re about to ask—the base requirement is 10k, so if you use it once, you’ll need 100k if you want to activate it a second time during the next seven days. At your current Mana regen, it’ll take 8.88 minutes for the 1k requirement, which means it’d take 1.48 hours to do it a second time, 14.8 hours for the third time, and it’ll be probably impossible to find the 148 hours necessary to do the theoretical 100k requirement if you do it four times in seven days.”
+
+So, the Beacon itself is currently back in the forest by Salvation. That means I can travel between here and there freely?
+
+“Well, not freely—I literally just said eighty-eight words specifically detailing the cost of travel—but yeah, it’s definitely much cheaper for you to use the Beacon than to use this whole teleportation network the empire has set up. Though, you can’t exactly let other people know about it, since the cost goes up with use. Don’t want others jacking up the price when you need it.”
+
+So that’s why you said it needed to be—”
+
+“Hey!” a voice came from outside, and I got jostled again, this time by a couple bodies rustling around, it sounded like. Were they fighting?
+
+“Yeah, things are getting pretty intense out there,” Index said. “That woman seems to think you’re about to blow up a bomb, or something.”
+
+Ah. Well then, guess I should probably go ahead and make my Upgrade choices before I get knocked out of my meditation.
+
+“Do you know what you’re going to pick?”
+
+I looked over my options again, considering them.
+
+Choose one Upgrade for Crippling Chill:
+
+Weakening Chill
+
+—
+
+Crippling Chill now reduces the being’s Strength equal to the amount it reduces its Dexterity. (Currently 16.3 Strength)
+
+Contagious Chill
+
++Poison
+
+—
+
+When a being that has been coated with frost dies, Crippling Chill is spread to up to two other beings of your choice within 40 paces of both it and you.
+
+Ruining Chill
+
+—
+
+Crippling Chill’s Health and Stamina drain are doubled. (16.3 Health per second and 13.04 Stamina per second)
+
+I felt like I had a good idea of what I wanted. Crippling Chill was, at least when I used it, primarily good because of its Dexterity debuff effect. The damage and Stamina drain were nice—especially the damage, since it gave me a guaranteed way to keep Cumulative Catastrophe going throughout a fight—but they weren’t crucial parts of the Spell. And the upside regarding Cumulative Catastrophe wouldn’t get any better even if the Spell did more damage.
+
+Ruining Chill doubled the damage and Stamina drain of the Spell. That was great, if I was being honest. Really, the Stamina drain part really stuck out to me as pretty insane, being pushed up to around 13 per second if I took the Spell. It would thoroughly speed up most battles to be able to annihilate someone’s reserves with a Spell like that.
+
+However, my mind kept going back to that previously mentioned Talent. Cumulative Catastrophe would eventually push the damage and Stamina drain numbers up to that point anyway, so improving them now—while it was certainly good—was something I could already theoretically do by just navigating my fights more skillfully. Really, if I could just make an encounter last long enough for the Talent to double those effects, then wouldn't that be just as good?
+
+And to do that, I’d want Weakening Chill. The other Option—Contagious Chill—simply didn’t do what I’d want it to, especially since it wouldn’t do anything in one-on-one scenarios. Weakening Chill would not only help me slow fights down for long enough to simulate Ruining Chill’s effects, it was also an effect that was much better combined with Cumulative Catastrophe, since it gave me a brand new debuff that’d be getting stronger and stronger over the course of a fight alongside everything else. The way I saw it, attacking as many different facets of an opponent as possible was extremely important for my strategy to shut down their options.
+
+That sort of logic also played into my decision when it came to Expedite. For myself, too, I wanted to focus more on expanding my options than on strengthening my numbers. I was wary of Hefty Expedite simply because it came with a drawback, but its upside wasn’t even all that good either, considering I could just cast the Spell several times to get the same effect. I could definitely see where it’d be useful—I’d certainly love an Upgrade like that when using the Spell to travel long distances, since I didn’t want to move extremely fast in those cases, and I’d be strained on Mana as I’d be forced to sustain the Spell among several companions. However, now that I had access to this teleportation…
+
+Yeah, Hefty Expedite just seemed outclassed in every way.
+
+So then, my other two options were left. Neither of them were simple numerical buffs, each bringing their own new tool to my belt, but I still had a favorite. Specifically, it came down to the type of tool that each introduced. Expanded Expedite would effectively replace an old, clunky tool with a much easier to use one. I could use it with much more freedom and in more scenarios, and generally had to spend much less effort planning my fights around its limitations. But then, Rejuvenating Expedite was like replacing an old tool with two new ones. Sure, they were still both pretty clunky, but I got something entirely new added to my belt.
+
+To abandon the tool metaphor and just speak plainly about what I mean, Rejuvenating Expedite would allow me to do something I’d never been able to do before—convert Mana directly into Stamina. And, since I could convert Stamina into Health, it allowed me to convert Mana into Health. Even if it was at a relatively bad rate, something like that was typically an ability I’d have to spend an entire Spell choice on, and here I was getting it for just a simple Upgrade. I’d be remiss to pass such an opportunity down, especially when I already had such an abundance of Mana.
+
+So then, the two choices were made.
+
+Crippling Chill has gained the Upgrade Weakening Chill.
+
+Expedite has gained the Upgrade Rejuvenating Expedite.
+
+I opened my eyes to see—
+
+“Hey!” I felt someone jostle against me again and turned to see the woman reaching back to grab my shoulder, Erani holding her back.
+
+“Hey,” I responded. “Uh, sorry for the disturbance.”
+
+“What are you two doing?!” she shouted exasperatedly.
+
+“I’m actually about to go and get in a fight with those monsters you said to never under any circumstances get into a fight with, and get all of us killed.”
+
+“What?!”
+
+“Stop messing around,” Erani said with a sigh. “You know that’s not a good habit to have.”
+
+“Yeah, yeah, I guess,” I said. “Anyway, I did get everything done that I needed to get done, so you should prepare for some combat.”
+
+“You don’t want to take them all on yourself? I would’ve thought you’d want to maximize XP gain.”
+
+“Will someone please tell me what’s going on?!” the woman pleaded. “You two aren’t being serious about fighting the Sand Hive, right? This is some sort of joke? A-also, I won’t let you distract me! What’s that crystal you have floating in the air! You can’t hide it from me!”
+
+I absent-mindedly released my hand from the Anchor Point, looking at it as I continued speaking with Erani, ignoring the rest of the woman’s words. “I definitely do want to maximize XP gain, so I guess that would mean doing most of the combat myself. But if we know I’m going to die eventually, then our goal is to just prolong my life for as long as possible, so having someone to play defense and keep me from getting hit by an unseen strike would be much appreciated.”
+
+She nodded. “That’s fair. So I’ll just hold back and try not to steal any XP unless it looks like you’re about to die?”
+
+“Yeah, let’s just try to postpone that as long as possible. You mind asking Ainash to help out with that, too?”
+
+“I…I get it,” the woman muttered, stumbling back. Erani, with her high physical Stats, hadn’t been having too much trouble with keeping her at bay, though, so it wasn’t like the woman stopping in her attempts to get to me and the Anchor Point actually meant anything. Regardless, she continued, staring at us, “You two are insane. This-this is some sort of suicide pact, right? I’ve heard of people like you, religious fanatics who take the teachings of Jedan too far. You’re just trying to get as many Levels as possible and then kill yourselves so you can enter the afterlife.”
+
+“Sure, sure,” I said, waving my hand to her. I hopped off the back of the cart. “You can go ahead and leave, if you’d like. Probably don’t want to stick around for the next part.”
+
+“You won’t kill me?”
+
+“Nah.”
+
+She instantly took off, Erani being forced to step off in a hurry once the cart got moving with her still on it. Ainash was graceful as ever in her leap from the back.
+
+“Anyway,” I continued to Erani, “did you make your decision for Firebolt’s Upgrade?”
+
+“No,” she said. “Well, yes, technically. I did the Upgrade before you activated that Beacon thing, but since this’ll all get reset, I didn’t actually pick the option I wanted. This is just the option I wanted to try out, so I can see if I like it before going back and choosing for real.”
+
+I chuckled. “You sure are making this into a whole process.”
+
+“I’m just using all the information available to me. Plus, this option did seem like it’d at least be the most interesting one; quite the spectacle. I’m sure you’ll be excited to have me defending you.”
+
+“Oh? What’d you take?”
+
+“Well, I don’t want to ruin the surprise.”
+
+“Not telling me how you’re going to be defending me doesn’t seem like it’s strategically viable.”
+
+She rolled her eyes. “Just let me have some fun. This timeline’s gonna get reset anyway, so the worst-case scenario is that my excitement costs you a few points of XP. I only get new Spells and new Upgrades on rare occasions, unlike you, mister Spells galore. So let me have my moment, why don’t you?”
+
+“That’s fair, I guess. Does Ainash know?”
+
+“Of course not. She’s the one I’m most excited to show off in front of.”
+
+“Well then,” I said, gazing off into the distance, where at least a hundred monsters roamed the dunes. “Let’s not keep her waiting.”

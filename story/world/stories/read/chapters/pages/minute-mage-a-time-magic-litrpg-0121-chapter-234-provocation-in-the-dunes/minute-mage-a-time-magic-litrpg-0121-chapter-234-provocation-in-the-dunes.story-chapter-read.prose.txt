@@ -1,0 +1,171 @@
+I strolled through the sandy dunes lit by the moon, eyes on the beasts in the distance. Erani and Ainash trailed distantly behind me, so I could attack first and be the sole person drawing the aggression of the animals.
+
+The Sand Stompers and Sand Stingers took notice of me, glancing over in my direction as I approached, and I could occasionally feel the rumbling of the Sand Sifters worming their way through the ground beneath me, but there was no overt attack made. At least, not yet. They were apparently pretty territorial.
+
+Sure enough, the closer I got, the more agitated they got. I saw the Stompers casually moving to form a sort of semicircle around me—movements that might seem natural at first glance, but I could tell were coordinated.
+
+“Or you could just be paranoid,” Index said.
+
+Am I just being paranoid?
+
+“I dunno. Can’t see far enough to tell how they’re acting.”
+
+Well, do I act too paranoid in general? Wouldn’t you like it if I were less trusting of others, and stuff?
+
+“Hey, I’m just pointing out possibilities. It’s good to be aware of the self. Besides, even if you were paranoid enough to significantly improve your lifespan, that wouldn’t really mean anything if it simultaneously decreased your quality of life.”
+
+Is that happening? Am I decreasing my quality of life?
+
+“See, I would normally say no, but now you’re asking all these questions and are starting to get suspicious of me, which is ironically making you paranoid. And being paranoid about me will definitely decrease your quality of life. I’m the smartest voice in your head!”
+
+You say that like there are more than just mine and yours. Also, I definitely think that out of everyone I know, you’re probably the most worth being suspicious of.
+
+“See, look at how much you’re distracting yourself already. Listen, I just think it’s worth it for me to be a figure that argues against whatever preconceived notion you may have at any given time, if at least to make you discuss it with me and come out more sure of yourself. Doesn’t mean I think you should change your mind about every little thing I challenge you on.”
+
+So you just like to argue for the sake of arguing. Got it.
+
+“That would certainly be a way to put it if I were a flawed, fleshy Human. But I’m not, so it’s inaccurate. I like to argue because it gets you into the habit of thinking through everything you—”
+
+Right, right, got it. Weren’t you just saying I was the one distracting myself?
+
+“Just correcting your factually incorrect statement.”
+
+Thanks. Do you mind going underground to keep an eye out for Sand Sifters? I wanna know the optimal time to attack.
+
+“I get the distinct feeling you’re just saying that because you don’t want to keep talking to me. And by ‘feeling’ I mean I’m reading your mind and can tell for certain that it’s your intention behind saying that.”
+
+Are you stalling for a reason?
+
+“What?”
+
+You can read my mind, you know what I mean. You’re just talking for the sake of talking to keep this fight from happening, right?
+
+“And why would you think that?”
+
+I’m in your head just as much as you’re in mine, Index.
+
+“I just…I don’t know how to explain it. I don’t like it when you get into fights where you’re for certain going to die. I come from the Trailblazer Title, not the Minute Mage Class, meaning I wasn’t really created with the reasoning shortcuts to see death as temporary and more of a minor setback than the ultimate failure, so, while I can logically reason through the fact that nothing bad is going to happen…I dunno. It’s a strange feeling, and I try to ignore it. Though, it feels like it’s only gotten worse lately. Just carry on and do your thing.”
+
+Listening to Index’s words, I supposed its reasoning made sense. At least, I could relate a bit—it sounded a lot like a typical emotional response. It didn’t want to see me die, even if it knew I’d be fine in the end. It was kind of touching.
+
+Well, anyway. It was time for mindless slaughter.
+
+Now that I was up close to the Sand Stompers, I saw just how big the things actually were. They were around twice as tall as I was, with legs as thick as tree trunks and old, chipped tusks that curved up from their mouths. Their yellowed skin sagged from their bodies, jiggling with each step.
+
+One of them had just barely gotten into range of Crippling Chill, glancing at me sideways as it roamed the dunes. The moment its foot crossed the invisible boundary, I cast my Spell.
+
+You have cursed Level 17 Sand Stomper with Crippling Chill. For the next 15 seconds, it loses 8.15 Health and 6.52 Stamina each second, and its Dexterity and Strength scores are lowered by 16.3.
+
+35.9 Mana Cost. Your Mana is 2.02k.
+
+Instantly, its head snapped to me and it started charging. Seemed like it reasoned through the fact that nobody else could’ve cast the Spell pretty quickly—I just hoped it wasn’t too smart in the other areas as well.
+
+So far, none of the other Sand Hive monsters had moved to attack yet—just the one Stomper. Presumably, that’d change once it got close enough to exhale its scent all over me or whatever, but for now, I had it all to myself.
+
+Gravity Well was the second Spell to hit it, and this one seemed to do a lot more than the Stat debuff from Crippling Chill. It stumbled under the extra weight that’d been saddled onto its massive frame, almost collapsing from the pressure, but still staying up and continuing its strained approach. Backing away, I raised my hand and began shooting it with Rays of Frost.
+
+You have struck Level 17 Sand Stomper for 59 damage using Ray of Frost.
+
+You have cursed Level 17 Sand Stomper with Ray of Frost. For the next 5 seconds, its Dexterity score is lowered by 7.76.
+
+12.8 Mana Cost. Your Mana is 2.01k.
+
+With Light Plate on and my Spells half off, I was glad to go all-out with the Rays and deal as much damage to this thing as I could. I just continued backing away and shooting one after the other at the Stomper’s face, its strained movement only barely faster than my own pace. The other monsters still didn’t seem to pay any mind to me, evidently not caring since I still hadn’t technically been marked with any scent yet.
+
+Though, as I reached the tenth Ray of Frost shot at it, my Mana dropping below 1900, I figured that these monsters must’ve had roles to them. After all, if they could all do everything, then why bother working together in this hive mind thing? The Sand Stomper was big and tough, probably meant to absorb damage just like this. And the Sand Stingers, which I could see plenty of buzzing around in the air or perched on the Stompers’ backs, I imagined those things must’ve been the damage-dealers. They were quick and maneuverable, and if the sword-sized stingers coming out of their abdomens were anything to go by, they seemed more than prepared to take down powerful targets.
+
+So then, if they had the Stompers as tanks and the Stingers as damage-dealers, then what were the Sifters for?
+
+Just as I pondered that, I caught the barest whiff of a smell—a putrid stench, like a shit-eater’s morning breath. I glanced up to see my Stomper opponent’s mouth open, coughing flecks of spittle in my direction.
+
+Instantly, every single monster in eyesight turned their heads simultaneously to stare directly at me. They stopped what they were doing, stared for about two seconds, and then charged.
+
+“Below!” Index’s voice pierced through the earth-shaking sound of the stampede at the same moment that I felt the ground burst open from below me, three separate Sand Sifters launching themselves up from the ground and aimed right for me. I was forced to dive out of the way to avoid their bites, rolling into the loose sand and frantically throwing some curses on a couple of them.
+
+I tried getting up to my feet, but another Sifter came through the sand as I tried. It was moving at a much slower pace, not having had time to build up speed like the others, but it knocked my leg out from under me all the same, my body clearly not having been built to maneuver through the flowing grains that made up the ground I stood on.
+
+Another came from behind me, this one bursting from the ground with easily enough speed to damage me, and this time I didn’t have the time or the footing to roll out of the way, and before I knew it, it bit into my flesh.
+
+You have been pierced. 41 damage.
+
+Your Health is 639.
+
+Its teeth scraped along my Health shield as the monster’s long body flopped through the air and landed on the side of a dune, rolling unceremoniously down the hill after doing its job.
+
+I hurriedly stumbled to my feet again, looking up to see the looming shadow of the Sand Stomper I’d attacked earlier looking ready to gore straight through me with its massive tusks. It stepped forward as I shot it with another Ray of Frost to refresh the curse, readying myself to dodge its own strike. And…
+
+You have been pierced. 83 damage.
+
+Your Health is 556.
+
+You have been poisoned. 88 damage.
+
+Your Health is 468.
+
+Fuck!
+
+Something stabbed my back, and I looked behind myself to see a Sand Stinger, having snuck up behind me and jabbed its stinger straight into my skin.
+
+Yeah, I need more Dexterity for this shit.
+
+In a single moment, I cast five stacks of Expedite on myself, and instantly it was like my perception sharpened to perfection. I was perfectly knowledgeable about every sound around me, all the monsters in my peripheral vision, the minute vibrations signaling Sifter attacks, everything. And damn, my perception did not like what it saw.
+
+I was surrounded on every end—not just around me, but above and below me as well. It was like I was inside a sphere made of monsters, all closing in and ready to annihilate me. Hopefully, I’d be able to kill a few with my newfound speed.
+
+At the same time as I activated Regenerate, I reached back and grabbed the Sand Stinger around its head, using my other hand to force its stinger downward, leveraging its ridiculous length to keep it controlled. The thing attempted to flutter away with its translucent wings at least as large as my entire torso, but it seemed like these monsters weren’t capable of handling a full Human’s bodyweight. My enemy unable to sting me again, I activated Noxious Grasp and Sanguine Bond to start draining away its Health.
+
+“Stomper behind you still!” Index shouted just as I heard a very close-by step. Right.
+
+I ducked down just as a tusk the width of my forearm went whooshing above my head. Then I threw myself to the side as the monster’s leg came kicking forward, still grappling onto the Sand Stinger as the Stomper continued in its charge that almost ran straight through me.
+
+To my side, another Sand Stinger approached through the air. I threw a Crippling Chill on it, hoping to slow it down so I could resolve the issue later, but the moment my Spell hit it, the thing fell right out of the air and to the ground, its spindly legs twitching on the ground. Seemed like these things couldn’t handle the Stat debuff, then.
+
+I was still holding onto the Stinger that’d hit me, and considered just casting Crippling Chill on that one as well and leaving it as dealt with, but before I could do so, I got a notification.
+
+You have slain Level 19 Sand Stinger.
+
+You have earned 213 XP. Your XP is 249.
+
+Oh, I thought, letting go of the corpse. It’d only been a few seconds of Noxious Grasp plus Sanguine Bond, and the thing had died. They were…very fragile. That was good.
+
+I cast about six more Crippling Chills on Sand Stingers that’d entered my range, immobilizing them instantly and hoping that their Healths were all low enough that the Spell would single-handedly kill them before its duration ran out—though, maybe that would be too good to be true. For now, I at least needed to stay alive long enough to get a few more kills and make this whole thing worth it.
+
+Another Sand Stomper came charging at me. I tried to dive out of the way like last time, but a Sifter came rushing up from the ground at the perfect time, not even attacking me, but rather forming a lump in the sand that my foot caught on, causing me to trip right into the path of the approaching monster.
+
+Its hoof, wider than my head, came crashing into my skull.
+
+You have been crushed. 165 damage.
+
+Your Health is 323.
+
+I groaned in pain as my body was flung aside by the monster’s powerful legs, crashing into the side of a dune. Regenerate had done a little to repair my past damage, but that was a really bad hit to take in my current position.
+
+Right, so if the Stompers were tanks, and the Stingers were damage-dealers, then the Sifters were disruptors. In a way, they served the same purpose I did—fuck with your opponent, make it hard to do anything, and generally be as annoying as possible.
+
+Maybe it was about time I called in some reinforcements, then, if they were gonna overwhelm me like this.
+
+Four separate Sand Stompers were charging at me from afar, two of them the ones I’d scuffled with already. They stood in the valley of dropped insects, where all the Sand Stingers were lying around and slowly dying from Crippling Chill.
+
+“Ainash,” I frantically messaged, “can you and mother do something? Buy me some time and space to recover and catch my bearings.”
+
+“Okay!” she responded, enthusiastic as ever.
+
+Instantly, Ainash burst into the crowd of monsters. She leapt through the air and wove between them, her flaming whip cutting through Stomper flesh like it was nothing. She occasionally spun through the air and swung her whip straight through the ground, kicking sand everywhere—something I initially assumed was just an accident, but I quickly realized she was doing that to attack the Sand Sifters lurking beneath the surface when I got a System message about it.
+
+You have offered minor contribution toward the slaying of Level 15 Sand Sifter.
+
+You have earned 46 XP. Your XP is 295.
+
+Level 33 Draconiad has offered major contribution toward the slaying of Level 15 Sand Sifter.
+
+Due to having a Bond with Draconiad, you have earned 12 XP. Your XP is 307.
+
+Through the carnage, I caught a glimpse of Erani between the monsters. She was…doing nothing. I’d certainly anticipated her own entrance to be just as dramatic, explosions rocking the dunes and deforming the terrain. But she was simply watching. Had Ainash not messaged her, or something?
+
+The four Sand Stompers continued in their charge toward me, and I cast Crippling Chill and Gravity Well on the ones that weren’t already afflicted to slow them down. Regenerate ran out, so I instantly activated it again in an attempt to keep my Health high. With Expedite’s new Stamina regeneration feature, I could be much more liberal with my usage of the Talent. But still, without the time for it to work, it’d be useless.
+
+But that was when I noticed something. Erani wasn’t just watching. She was pointing. Her hand was outstretched, pointing straight at the pack of Sand Stompers headed for me. She’d mentioned getting a new Firebolt Upgrade, so maybe she was just waiting for the right opportunity to use the newly-improved Spell? But why hadn’t she cast it yet?
+
+I supposed I’d just have to fight these things alone, and hope I lived long enough to get one extra kill, or something. Adjusting my feet, I readied myself for a fight.
+
+But then I looked up and saw the meteor hurtling through the clouds, straight toward my enemies.

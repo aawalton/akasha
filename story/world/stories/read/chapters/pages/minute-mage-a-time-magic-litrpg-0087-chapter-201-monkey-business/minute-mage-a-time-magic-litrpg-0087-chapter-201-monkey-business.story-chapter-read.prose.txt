@@ -1,0 +1,149 @@
+Over the next few days, we continued doing jobs, making money, and charging up the Mana Batteries so we could teleport to the capital. Aliss and the rest of her crew ended up asking us to work together again, so most of what we did was teamed up with them. I wasn’t sure what ended up making Aliss change her mind—she’d originally said they would need a good reason to need the money enough to work together with us in the future—but I wasn’t about to complain. With them, we were able to take on much tougher jobs, meaning there was much less competition and our ability to work efficiently for high pay increased drastically.
+
+I never pried into what, exactly, made Aliss decide to work with us again, but I could infer at least a bit. First off, it was clear that it was Aliss who made that decision. Entismo seemed as passive as ever, and it wasn’t like Boy was suddenly walking around leading us all. Sylvie seemed happy to work with us, but she’d always been like that. The only one who changed their attitude was Aliss.
+
+And she’d really changed her attitude, too. It wasn’t just money, it was Levels. She was clearly considering the amount of XP we’d be getting for completed jobs in addition to coin, which was strange. I hadn’t pegged her as a power-Leveler, that was for sure. But whatever had her in such a rush to get more powerful, I was glad to comply, eating up more XP and reaping the rewards for it.
+
+Speaking of rewards, I saw a few just from the simple merit of time passing. Every night, my additional uses of Time Loop were converted into free Stats, ending up with me gaining an additional 2 Strength, 1 Endurance, 1 Conjuration, and 2 Intelligence by the time I’d gotten all six available extra Stats.
+
+And on top of that, while my excess Mana during the day was spent on charging the Batteries, at night, my unconscious mind continued to practice Noxious Grasp, with me swapping to Light Plate during my sleep so I could get as much Spell XP from that as possible. And with all that time going by—all that Mana being generated—it was more than enough to push Noxious Grasp to its next Rank.
+
+Threshold reached. Noxious Grasp XP has reached 3.03k.
+
+Noxious Grasp Rank has increased to 18.
+
+Due to Noxious Grasp Rank reaching 18, it has undergone the following changes:
+
+Mana Cost: From 5.59 to 5.73
+
+Health Drain: From 22.9 to 24
+
+Stamina Drain: From 11.4 to 12
+
+To get to Rank 19, the next Spell XP cost would be 3.71k. And I was already close to that goal. Earning an amount of Spell XP every night that bordered on reaching the thousands, it didn’t take long before I passed 2k of the 3.71k goal. It would likely only take two more days before I got to Rank 19, and at that point, I’d need to find a new Spell Crystal to use alongside the Poison one I already had to Rank it up to 20.
+
+As for XP, I’d gotten close to the 3k XP required for Level 21. As I’d hoped, getting back up to that Level hadn’t been difficult, considering the plentiful jobs we were able to do for XP, and in addition to that, once I’d gotten all the Stats I could from Recycled Loop, I was free to move on to using my Time Loop uses on re-killing monsters to get extra XP from them, which obviously helped a great deal. Splitting the XP rewards between the seven of us was hindering that growth to an extent, but the extra firepower was what allowed us to take on more powerful threats in the first place, so I didn’t mind sharing.
+
+And speaking of XP, I was about to get a little more.
+
+Our group of seven was currently out on a job clearing out some monsters that’d recently expanded their territory to include a popular merchant’s road, forcing everyone to take the long way around or risk attack from the beasts. Eventually, some organization the traveling merchants were a part of in the Barinruth Empire decided enough was enough and put up a job to clear out the monsters, offering a solid enough reward for us to take it on.
+
+The monsters, in specific, were these things called “Blink Monkeys,” which, upon first hearing the name, made me feel like we were severely overqualified for the job. Chase off a couple of monkeys? For the money we were getting paid? I had the immediate sense that those merchants were completely out of touch when it came to what jobs paid what for adventuring. But Aliss and the rest all insisted Blink Monkeys were serious business, and I remembered underestimating the Goblins before, so I went in with an open mind.
+
+It turned out that I was somewhat correct in my assumptions. At least for people our Level, the monkeys weren’t too much of a threat. Certainly not something to get complacent about—they had quite the set of teeth—but still, they were manageable. That said, when it came to actually killing them? That was a whole other issue.
+
+Now, we had killed them twice already. Well, not that Aliss and her gang remembered that. But Erani, Ainash, and I had killed the band of apes in two previous timelines, at this point. This was our third go-round, where we'd hopefully get through the job without actually letting any of the things escape this time, plus I'd get my XP one last time. But the main problem in our past two attempts had been the Blink Monkeys escaping. And, of course, the amount of damage we’d taken was suboptimal.
+
+But this time, I hoped we had a method to deal with them.
+
+“Hey, watch out,” I said. The seven of us all stopped in our tracks, everyone but Erani and Ainash looking at me confused. I continued, “Pretty sure the Blink Monkeys are over here. You see those tracks?”
+
+Sylvie crouched and examined the dirt I was pointing at, seeing the faintest of footprint left behind. “Oh, you’re right. Even I didn’t see that. Good eye!”
+
+One thing I’d had to get used to was trying to pass off the knowledge I’d gained from previous timelines as information gotten legitimately in the current one. With present company, I had an image to maintain, after all. But Aliss and company seemed completely content to ask little and reap the rewards of what mysteries I kept. They seemed to understand I didn’t feel like explaining much.
+
+I mentally counted down from eighteen. It’d taken around that long after stopping here for the monsters to come after us in the previous timeline, and I hadn’t taken any different actions yet, so it should’ve been the same amount of time here, too.
+
+When I hit the count of ten, Sylvie was still crouched down, looking at the footprints. I’d want her standing up and ready when the attack hit eight seconds from now, so I needed to do that without telling them what I knew. I shifted my stance and said, “Alright, we should probably keep moving.”
+
+Sylvie shrugged and stood up. “Yeah, guess so. Would be a good idea to—”
+
+“Shit, watch out!” I shouted, pointing in a direction just before the trees burst out with a pack of eleven wild monsters. It was the Blink Monkeys, arriving just in time.
+
+The things somehow looked innocuous and terrifying at the same time. I’d never actually seen a normal ape, but I had to imagine they looked pretty similar to one. Hairy, long-armed, about half as tall as me. And mouths that could bite a skull in half. But then, that was what a normal monkey was like. These were Blink Monkeys.
+
+The main, obvious difference between the two—other than the fact that Blink Monkeys had higher Levels, and thus, higher Stats—was the fact that Blink Monkeys could—
+
+You have been sliced. 22 damage.
+
+Your Health is 638.
+
+Fuck. I turned and grabbed the tail of the monkey on my back that’d just raked its teeth across my skin, weakening the shield my Health provided as it attempted to break into my flesh. I activated Noxious Grasp as I pulled, yanking it away from me and holding it in the air. For most monsters, this would be a compromising position; I had it in my grasp, with a damaging Spell constantly draining away its limited Health and Stamina. But for these things…
+
+With a familiar blip, I suddenly held nothing in my hand, and the Blink Monkey was now standing ten paces away, glaring at me angrily. This was their main power: teleportation. Just as that thing had teleported straight onto my back and bitten me before I could react, it’d teleported straight away before I could retaliate. This was what made them dangerous for many to deal with, and it was what made them so gods-damned annoying for us to exterminate.
+
+It seemed like these things knew that they were tough to get rid of, too, because they were quite fond of hit-and-run tactics. They didn’t even have to kill you in a fight if they could just blink in, deal some damage, then blink out before you could do anything back. If you didn’t leave, they’d just do it again ten minutes later, and again a few minutes after that, until you either ran off or died. It was how they defended their territory, and it was how they seemed to want to deal with this confrontation, too.
+
+It was our job to ensure they couldn’t get away this time.
+
+I held out a hand and shot off as many Rays of Frost as I could at the Blink Monkey that’d attacked me. Thankfully, Ray of Frost wasn’t a projectile, but instead a beam, meaning it was hard to dodge. I’d seen too many times now Erani’s struggles with spending Mana on a Firebolt only for the monkeys to just teleport away before it even had a chance to hit them, leaving her resources wasted. Ray of Frost didn’t have that problem as much, but it certainly didn’t do as much damage as I’d have liked.
+
+Most of my Spells were borderline useless against these things, actually. Noxious Grasp was obviously suboptimal, considering it was impossible to keep them in my grasp. Same problem with Sanguine Bond. And when it came to Spells like Crippling Chill and Gravity Well, which typically helped keep the slippier enemies in an easier to handle state…Well, these things didn’t technically need to move their bodies at all. They could just teleport around. So it didn’t really help if I made it harder for them to move.
+
+In the end, my main two Spells ended up just being Expedite, which could at least help me keep track of their erratic movements, and Ray of Frost, which was my aforementioned sole damage-dealer.
+
+Everyone else was stuck in a similar position. At least I was better off than the poor Melee-Types, who were caught chasing after enemies that were very difficult to chase down, trying to hit them with swings that were infinitely slower than they needed to be.
+
+“Goodness gracious!” Entismo shouted, attempting to wrench his sword from its place lodged in the dirt after swinging it at a monster that certainly once was there. “These things are a rambunctious bunch!”
+
+“Just stay still!” Sylvie growled, arrows lodging themselves into trunks and glancing off rocks and certainly not piercing any monster flesh.
+
+I understood the annoyance. Even Boy seemed like he was getting frustrated. In the other timelines, we only ever fought them off after a long, grueling battle with lots of nicks and scratches along the way. And even then, we didn’t ever kill every last one.
+
+A few of my Rays of Frost hit before the ape teleported away, the last one hitting the empty ground and leaving behind a coat of ice on the dirt.
+
+“Agh!” Aliss was yanked to the dirt by a Blink Monkey that ported in next to her, and I hurriedly turned to shoot it off with a couple more Rays of Frost. One hit, and the other hit nothing after it blinked right back away the moment it took damage.
+
+I shook my head in annoyance. Even now, I could see them start to look between each other timidly. This always happened. The moment they saw we weren’t easy pickings, they’d start to run off, and from there we’d just be playing catch-up, taking out as many as we could before they disappeared forever. Or, well, for exactly as long as it took for some squishy merchant to show up that they could tear limb from limb.
+
+“Ainash, are you sure that thing’ll work?” I asked.
+
+“No! But will try anyway!”
+
+“Well, I’ll appreciate the effort either way.”
+
+“Okay! Am going to think very bad thoughts!”
+
+In the middle of the road was Ainash, who hadn’t yet joined the battle. She’d been in the gang with the rest of the melee fighters in the past two timelines, not able to do much against the elusive monkeys. This time, though, she was the key to beating them. At least, maybe.
+
+She crouched down, putting her hands to her head and shutting her eyes tight. I saw her face contort in anger, or sadness, or maybe both.
+
+Instantly around us, the Blink Monkeys matched her emotions. Their faces flickered, the glow of their eyes lessening slightly as they squinted and let out a growl. In that moment, when they were frozen with emotion, we all struck. The Melee-Types finally got their moment, Entismo finally stabbing his sword through the monster that’d been harassing him this whole time, and Erani was able to actually land a hit with her Firebolts.
+
+And, distracted by Ainash’s Nymph powers of two-way empathy overwhelming their minds, the Blink Monkeys were just a little too late to avoid the onslaught of attacks.
+
+Instantly, I got a cacophony of notifications. XP flew by as Erani’s Firebolts crashed into the monsters and my own Rays of Frost finished off the ones that were left. In an instant, the fight was over.
+
+You have offered moderate contribution toward the slaying of Level 9 Blink Monkey.
+
+You have earned 48 XP. Your XP is 2.99k.
+
+Ugh, really? I thought, looking at the final kill notification. Just a few off from the 3k required.
+
+“It’s not that unlikely, really,” Index chimed in. “Sometimes the numbers aren’t in your favor. Also, you might want to get better at counting.”
+
+Better at counting? I’m 6 XP from Leveling up. That counts as a few points of XP, right? After waiting some time without a response, I shrugged and turned my attention to Ainash. “Good work! I’m honestly surprised it worked as well as it did.”
+
+“Think the monsters were not very big-minded. Little-minded monsters always more affected when I think emotions.”
+
+“Well, I’m glad. What did you even think about to get them like that, anyway?”
+
+“Um…Will show you with memories later. Do not like talking about it.”
+
+“Oh.” I frowned. “Is it—”
+
+I was interrupted by Sylvie shouting out from down the dirt path, “Oh, hey, there’s one more left alive. I knew there were one too few kill notifications.”
+
+She lifted her heel, stomped down on a monster’s head, and—
+
+Threshold reached. 3k XP.
+
+Your Level has increased to 21.
+
+Due to achieving Level 21 in the Minute Mage Class, you have been granted the following benefits:
+
+-You have gained 1 Endurance.
+
+-You have gained 2 Conjuration.
+
+-You have gained 1 Intelligence.
+
+-You have gained 3 Stat Points.
+
+-Recursive Growth has activated. You have gained 2 Strength, 1 Dexterity, 2 Conjuration, and 1 Intelligence.
+
+-Time Loop Talent Rank has increased to 21.
+
+-You may choose a Spell to learn.
+
+Oh, I thought. I needed to get better at counting the monkeys.

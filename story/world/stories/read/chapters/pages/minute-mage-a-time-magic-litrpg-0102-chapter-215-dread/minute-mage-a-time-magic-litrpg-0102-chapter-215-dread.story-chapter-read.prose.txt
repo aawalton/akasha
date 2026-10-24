@@ -1,0 +1,79 @@
+Jon and his four soldiers approached us in our hiding places, seemingly fully aware of our location. Or, I didn't think any of them could see us, since none of them were looking directly at us. Rather, they were simply walking in our directions with clear purpose. I just assumed that purpose was “let’s go kill Arlan and his pals.” At the very least, they clearly knew something was over here.
+
+It was only a matter of time before they found us if we kept hiding, so we’d have to take the initiative. Better to spring a half-revealed ambush than to not spring one at all. I spoke quickly with Erani and Ainash through our mental link, unfortunately leaving Sylvie out of it, and we figured out a basic plan of action. We’d wait until Jon was in range of Crippling Chill—which would also put him well into range of Erani’s Firebolt—and then both attack at the same time. I had Index carefully watching distances so she could warn us if he was ever close to getting within his fifteen-pace kill range.
+
+Sylvie slowly, carefully crept away from them, positioned far enough ahead that they’d pass her on their way to us. I watched as she expertly maneuvered behind trees, using the tall grass to keep out of sight while also somehow not causing enough of a disturbance to the grass for our enemies to notice. It reminded me of the fact that, despite my Level and the amount of combat experience I had, I still definitely wasn’t an expert. Really, a couple months ago, I’d have still been classified as an amatuer even when it came to swordfighting. And now I could barely even use that training. I had basically no formalized education on how to fight with my current skillset. And Sylvie, maneuvering through the brush in such a skillful manner she made it seem like nothing, definitely exposed the fact that I was lacking in any sort of teaching from a more skilled professional.
+
+Now, I still had some skill—I didn’t think it was egotistical to say something like that. Really, the best way to learn something was to be forced into a situation where you had to figure it out, and I felt like a Demon invasion, constantly fighting for my life against more and more powerful threats, was a pretty good way to force me to learn. But still, I’d have liked to have someone to teach me the tricks of my Class. Though, Erani’s help with general advice regarding Spellcasting was certainly helpful.
+
+It was with that doubt in my mind that I watched Jon and his soldiers advance, thankfully not taking notice of Sylvie. Or, if they did notice her, they seemed to consider whatever was going on in our direction to be more important.
+
+I waited patiently for him to get forty paces away, where Crippling Chill would become active. Due to what was effectively a hard limit on how close we could let him get, there were a good few Spells that were locked off from use on Jon. Noxious Grasp and Sanguine Bond were the obvious ones, but Curse of Echoes also had a fairly short range at just ten paces, so I couldn’t use it on him, either. And Ray of Frost’s twenty-five pace range would also force me to get uncomfortably close to use; if he had a high enough Dexterity or any decent movement ability, he could rush another ten paces closer to get into his range and kill me.
+
+“Few paces to go,” Index said, bringing my attention back to reality. Just a couple more steps, and…
+
+You have cursed Level 28 Cleric with Crippling Chill. For the next 15 seconds, he loses 7.76 Health and 6.21 Stamina each second, and his Dexterity score is lowered by 15.5.
+
+56.2 Mana Cost. Your Mana is 1998.
+
+Instantly, both Erani and I shot off our Spells in unison, with Jon lurching over from the unexpected debuff just as his eyes widened as he looked up at the Firebolt being launched at him.
+
+An explosion rocked my senses as I leapt to my feet. Jon stumbled back, and the soldiers he brought with him were actually knocked much further back than he was by the blast. Seemed like his Stats were significantly above theirs, if he could take a full-on hit like that.
+
+“Go!” he shouted back to his men as he, too, charged forth at us. I could see several effects simultaneously take place on all five of them—a glowing halo around their heads, a wreath of white light around their bodies, bright yellow flames behind their eyes, plus a half-dozen more changes such that I wasn’t sure which came from their own individual buffs and which were just two different effects coming from the same Spell. Either way, I didn’t like how much he was powering these guys—and himself—up.
+
+Another Firebolt came from Erani as I continued with my own Spells, casting Crippling Chill on the other four soldiers that were noticeably lagging behind Jon’s charge. Erani and I were both backing away from him, and I watched as her Firebolt’s explosion blasted against Jon’s skin, an explosion enveloping him…and he continued charging, as though he hadn’t felt the force at all. Shit.
+
+By this time, Sylvie had figured out what was going on, popping out of her own hiding spot and launching a nocked arrow at Jon’s head. The glowing arrowhead scraped against Jon’s scalp. I wasn’t entirely sure whether it had done any significant damage at all, but hoped it had.
+
+Sylvie sprinted forward, her job technically being to be the one engaging Jon on a physical level to keep him from reaching us, and drew a dagger as she came up behind him. The four soldiers moved to intercept her, but she dashed to the side, ducking under one of their hasty swings and continuing her chase after Jon.
+
+Another of Erani’s Firebolts hit his body, which he continued strolling through as though it were nothing, his buff Spells clearly giving him quite the advantage. By now, he’d gotten within range of Gravity Well, which I activated on him, and as we continued in our retreat from him, he eventually got into the twenty-five pace range, too, meaning I could hit him with Ray of Frost. I shot him with as many as I could as I glanced back at him during our flight.
+
+You have struck Level 28 Cleric for 34 damage using Ray of Frost.
+
+You have cursed Level 28 Cleric with Ray of Frost. For the next 5 seconds, his Dexterity score is lowered by 7.76.
+
+25 Mana Cost. Your Mana is 1919.
+
+Despite being a direct hit, my Ray of Frost only dealt 34 of its maximum 62 damage—and that was after it’d been slightly boosted in its damage output from the few triggers I had on him with Cumulative Catastrophe. So, one of those buff Spells he had on himself was almost certainly a damage reducer.
+
+Sylvie caught up to Jon and wrapped her arms around him from behind, driving her dagger into his throat with as much force as possible. It glanced off his reinforced skin, and as she reached back for another stab, he fished something out of a pocket on his shirt, then shoved it back with his hand into her face, where the object burst into flames. She yelped and leapt back, with the soldiers catching up with her, all swinging their weapons from different sides.
+
+As Sylvie moved to fight back against the soldiers, Jon continued chasing after us.
+
+It was clear our only real option was to outlast him. Those buff Spells had to be on a timer, and he wouldn’t have the Mana to keep them active forever. Conversely, I only got stronger with time, Cumulative Catastrophe buffing the damage output and debuff potential of my own Spells. As long as I could avoid Day of Judgment, I’d eventually be able to overtake him.
+
+“Circle around and help Sylvie,” I sent to Ainash, who was up until now simply running alongside us, no way to get into melee range without exposing herself to Jon. “We’ll try to lead him away from that fight so you’ll be safe.”
+
+Ainash split off from me and Erani, Jon not paying her much mind as she moved to help the very non-melee-combat-oriented Sylvie in the four-on-one combat that she had somehow not yet been overwhelmed by.
+
+On our side, it was mainly just Jon running after us while both Erani and I kept throwing our projectiles at him. Erani was being more sparing than I was, knowing that the Firebolts weren’t actually doing much, and that she’d definitely want to save some Mana for when they were actually helpful. She also had the Health and Stamina necessary to use about three activations of her Elemental Embrace Talent, which would massively power up one single cast of Firebolt at the cost of a little over 100 Health, Stamina, and Mana each. Those powered-up Firebolts would hopefully actually do something against the guy, so we’d want to keep those in our back pocket for when we had no other options.
+
+On my end, I could be a lot more lax with the amount of Mana I spent on Rays of Frost. I had a good Mana capacity by now, and my absurd Mana/Minute meant that even if I ran out, I’d just need to wait some time to get it back. And, considering my entire plan for this fight was to wait Jon out, I anticipated doing that already. Besides, the man wasn’t fucking invincible, he just had enough buff effects to make it hard to hurt him. Continuing the damage put more pressure on him, and ideally would at least slightly disrupt his actions.
+
+Besides, the extra triggers helped out with Cumulative Catastrophe; my boost was already approaching 25%, increasing all of my debuffs by quite the significant margin. Hopefully, even if the damage was being diminished by Jon’s Spells, the Stamina drain would get to him soon.
+
+So, we were left effectively just sprinting through the fields surrounding the outpost, looking back and shooting Jon with Spells whenever possible. I was just glad he didn’t seem to have many good ranged options, himself. His face was one of deadly calm, mouth open to take heavy breaths as he chased, but otherwise betraying no emotion except pure determination. We ducked through the hills that surrounded us, sprinting through valleys and behind fallen stones by the mountains, effectively running in circles around the guard outpost. Part of me considered running down into the mountain pass itself, retreading our old ground, but that felt like an unnecessary risk with the monsters that roamed through there.
+
+Though, it seemed like a risk would have to be taken, because Jon was gaining on us, despite our attempts to prevent that. Now running past the front of the outpost, I turned to see a Firebolt Erani had launched blast against Jon’s body, the force throwing debris away from him as he braced himself against the impact.
+
+We took the opportunity to keep moving and regain a bit of our lead, clambering over a mound of stone and leaping down behind it—not before I shot him with another Ray of Frost, bringing my Mana down below 1500. I’d been keeping Gravity Well active this whole time, which was quite the costly endeavor Mana-wise, but definitely worth it when it came to slowing him down.
+
+Just as we were about to keep running off, though, the door of the guard outpost burst open, revealing the boot that had just kicked it off its hinges. It stepped back down on the ground, and Ripley walked out of the building.
+
+“Jon!” she shouted. “What are you doing here?!”
+
+“Oh, Ripley, it’s you,” Jon said, standing up straight and turning to face her. He was breathing heavily. “I was looking for you.”
+
+Erani and I took this opportunity to retreat back further away from them, sneaking away as Jon and Ripley spoke.
+
+“You’re here for me?” she asked. Then she nodded over in my direction. “Not him?”
+
+“Both,” he said. “Well, I’ll deal with you later. Don’t want the fugitive getting—wait, what?”
+
+Ripley frowned at Jon interrupting himself. I watched him, too, recognizing his behavior from the previous timeline—he was speaking to that woman in his ear, Asmo.
+
+He frowned, listening to her speak. “Call a…really? Well. I suppose you’re the boss.” Jon turned to face me, shouting out, “Fugitive, I’d like to call a ceasefire! You don’t move from that spot, and I won’t make chase. We will resume this later, once I’m done speaking with Ripley.”
+
+I blinked. What?

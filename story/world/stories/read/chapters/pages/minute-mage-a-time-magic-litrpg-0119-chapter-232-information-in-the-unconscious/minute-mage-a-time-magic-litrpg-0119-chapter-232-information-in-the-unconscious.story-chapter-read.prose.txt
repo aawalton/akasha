@@ -1,0 +1,107 @@
+Sitting in the back of the carriage transporting us through the desert, I closed my eyes and began meditating. At the same time, I also handed Erani the two Fire Spell Crystals for her to make her own choice, as well. Firebolt had been at Rank 19 for a while now, so it would be great for the Spell to finally reach its next Upgrade. From my talks with Erani, it was clear she still had no idea which of her options she would pick, but I figured now was a good time for her to take some dedicated time to figure things out in meditation.
+
+The moment ten minutes had passed, I eagerly opened my options.
+
+Choose one Upgrade for Crippling Chill:
+
+Weakening Chill
+
+—
+
+Crippling Chill now reduces the being’s Strength equal to the amount it reduces its Dexterity. (Currently 16.3 Strength)
+
+Contagious Chill
+
++Poison
+
+—
+
+When a being that has been coated with frost dies, Crippling Chill is spread to up to three other beings of your choice within 40 paces of both it and you.
+
+Ruining Chill
+
+—
+
+Crippling Chill’s Health and Stamina drain are doubled. (16.3 Health per second and 13.04 Stamina per second)
+
+Choose one Upgrade for Expedite:
+
+Expanded Expedite
+
+—
+
+Expedite can be cast on any being within 25 paces of you, rather than any being you are touching.
+
+Hefty Expedite
+
+—
+
+Expedite can only be cast on an individual that does not already have Expedite active on them.
+
+Expedite’s Dexterity buff is multiplied by 2.5. (81.8 Dexterity)
+
+Rejuvenating Expedite
+
+School: +Holy
+
+—
+
+Expedite also increases Stamina/Minute by 0.1 for each point it increases Dexterity by for the length of its effect. (Currently increases Stamina/Minute by 3.27)
+
+I glanced over the options available for my two Spells. At least they weren’t too dense, word-wise—though, that didn’t make the decisions any easier.
+
+Starting with Crippling Chill, Weakening Chill and Ruining Chill were easy enough to understand; they simply improved elements that were already there. Ruining Chill doubled the damage and drains of the Spell, turning those relatively minor effects into some true forces to be reckoned with. Especially considering Noxious Grasp started out only dealing a paltry 10 damage per second—and that was with the requirement of me needing to be in constant physical contact with my target for the effect to apply—the idea of getting to deal 16 damage per second without any additional requirement was almost enough for me to take that Upgrade right away.
+
+And Weakening Chill did something similar for the Spell’s other aspect—the Stat drain. Only, instead of simply doubling how much Dexterity the Spell took away, it allowed the Spell to double dip into two separate Stats. That, too, was a phenomenal increase in the Spell’s effectiveness. Not only would it be extremely disorienting to get so many of two separate Stats taken away, but that Upgrade would also allow me to exploit the weakness of anyone who was particularly weak on either Dexterity or Strength.
+
+Currently, if an enemy had bolstered their Dexterity Stat, my Spells would have a much diminished effect on them. Taking away 16 of someone’s Dexterity when they had 200 of it wouldn’t have much effect, after all. But now, against that enemy, I’d be attacking their Strength at the same time. If they’d kept their Strength at 10 in order to boost their Dexterity so high, it’d be over for them. And, of course, the same applied in reverse. This Upgrade would effectively double the number of enemies I could instantly paralyze with a simple thought. Certainly an attractive prospect.
+
+Contagious Chill was a strange one. It would allow my Spell to propagate through any large population off of a single cast. Theoretically, the Upgrade could save me on massive swaths of Mana throughout a battle as long as I used it right. I would only ever need to spend enough for a single Spell even if there were plenty of enemies to fight. Though, that was all theoretical, of course. Because actually pulling something like that off would be difficult.
+
+To begin with, I’d need to kill the enemy to get Crippling Chill to move onto the others, which was a problem in and of itself. Monsters and soldiers didn’t come at you in a polite, single-file line, after all. I’d be forced to fight against several enemies at once while focusing my fire on a single one so I could kill them and get the Spell to spread to the others. If I could get that to work, then it’d be great, but if I couldn’t and was forced to kill the others first—or to manually spend the Mana to cast the Spell on everyone—then it’d be a total waste of an Upgrade. And that wasn’t to mention the range limitations; anyone I wanted to spread Crippling Chill to would need to be within 40 paces of both me and the initial subject of the Spell, which could certainly prove to be a problem at times.
+
+Though, the potential Mana savings were huge. I couldn’t write the Upgrade off just for being high-risk when the rewards were equally high.
+
+Looking at Expedite’s Upgrade options, I was similarly torn. Expanded Expedite would help with my efforts in buffing others; I’d noticed that, while it was nice to increase the Dexterity of Erani and Ainash before a fight began, it became functionally impossible to keep the Spell going on either of them because of how difficult it was to make physical contact with them at the right time while in the midst of battle. This would greatly help to mitigate that issue with the Spell, though it would leave the Spell completely unimproved when it came to assisting in my ability to help myself.
+
+Hefty Expedite came with an appropriately hefty downside to go with its powerful effect. Full-on multiplying the effectiveness of a Spell by 2.5 was phenomenal—Crippling Chill’s Upgrade options could only go as far as to multiply by 2, and they only affected one specific aspect of the Spell—so it had to come with something to balance things out. Only, I wasn’t sure if this was simply too much. With the Upgrade, I’d only be capable of putting a single cast of the Spell on any given person, meaning I’d have to say goodbye to my ability to boost anyone’s Dexterity to sky-high numbers. Though, by increasing the Dexterity buff so much, it did mean I’d have less reason to need multiple activations in the first place.
+
+Rejuvenating Expedite, my last option, offered the ability to do something completely new rather than strengthening an aspect already there. And, interestingly, it seemed to encourage the complete opposite strategy that Hefty Expedite did. On its own, an increase of a little over 3 Stamina/Minute wasn’t very impactful in the middle of combat, only leading to the 45-second Spell regenerating a total of around 2.5 Stamina by the time it’d run its course.
+
+However, if I cast three, four, hells, even ten of the Spell on myself all at once, that Stamina regeneration would skyrocket. Stamina was valuable in its own right when interacting with Expedite, since the high Dexterity would lead to a high rate of consumption with all of my enhanced movement, but I also had some additional encouragement to find ways of increasing my Stamina, since my Regenerate Talent could let me spend Stamina in order to restore my Health. Effectively, this Upgrade turned Expedite into an extremely roundabout healing Spell in a pinch, not to mention its other benefits.
+
+Index, I thought after reading through the options, got any additional info for me? Future options and whatnot?
+
+“Let’s see…” it responded. I always imagined it was sitting down, flipping through a gigantic booklet of every single Spell and Upgrade in existence whenever we had these conversations. It continued after a pause, “So, Weakening Chill and Ruining Chill progress just about as you’d expect, each with their future options focusing on strengthening their respective aspects of the Spell. Weakening Chill will allow you to become more adept at attacking your opponent’s capabilities, while Ruining Chill will grow the Spell’s overall deadliness. At least, those are the general trajectories the Upgrades go into; there’s obviously still a lot of input from you that can change things when it comes to what they’ll do, specifically. Contagious Chill, as you could expect, has a broader and stranger future trajectory, but it’s nothing too insane.”
+
+Like what?
+
+“Well, overall it likes the idea of going for efficiency and ease of use. There are some Upgrades that also just do whatever they want, with the only thing tying them with their preceding Upgrade being the overall theme of disease. Ironically, despite being the most individually unique Upgrade out of the three, its future options are the most non-specialized.”
+
+And for Expedite’s options?
+
+“Right. Going through them one-by-one, Expanded Expedite has a lot of options that’ll grow the Spell’s capability to buff others. There’s even an option down that path that completely forbids you from casting the Spell on yourself. But it’s not only that, there are also a good few options that go for a wider suite of effects, like helping with the general usability of the Spell. Hefty Expedite has a few different focus areas; some future options go for the concept of Mana efficiency, since that’s a big upside to the Upgrade, while others go for the concept of making the Dexterity buff as powerful as possible, while others still go in different directions. And finally, Rejuvenating Expedite goes in a broad number of ways, but generally likes increasing survivability and adding on new use-cases for the Spell.”
+
+Not too much specificity with a few of those, huh?
+
+“Nope. Well, generally speaking, any Upgrade that adds on a new School to a Spell can often introduce a wide range of possibilities for the Spell to explore, simply by merit of putting the new label on the Spell. Like I said with Contagious Chill, since it adds on the Poison School, there are plenty of other Upgrades that have nothing to do with Contagious Chill’s effects, but simply sneak their ways into the list of future options because they thematically fit the idea of a poisonous Spell. Same with Rejuvenating Expedite. By turning Expedite into a Holy Spell, you’re opening the door into all kinds of new Upgrade avenues if you’re willing to further pursue the holy angle.”
+
+So is that a good thing, or a bad thing?
+
+“Depends on how you view it, I guess. Specializing your choices can be a good strategy if you have a specific idea of what you need from a Spell, and all you want is for it to do that thing more, but if you’d like to see more concepts for what a Spell can offer you, then going the opposite route and broadening your options as much as possible is probably the superior play.”
+
+Hm. I frowned as I looked over my options once more, trying to factor in all of my current knowledge. Most of them felt like solid candidates for being my final choices, but…
+
+Oh, wait, I thought, I almost forgot the last piece of knowledge I can acquire before I have to make my choice.
+
+“I was about to interrupt and remind you,” Index commented. “So, this is gonna cause a visual and auditory effect, meaning your carriage friends are definitely going to notice and probably cause a fuss. But the moment you do it, I’ll go ahead and quickly explain how this actually functions, and then you can make your Spell Upgrade decisions, and then leave your meditation to deal with them and go fight some monsters.”
+
+Alright. Hopefully I don’t scare this lady and her guards too much.
+
+“Yes, it would be troublesome if they shook you out of your meditation too early.”
+
+Well, sure, but I also don’t wanna be that much of a dick to the people who picked us up off the side of the road to offer us a free ride.
+
+“Technically, it wasn’t free. They gave it to you in exchange for the protection of having Classers travel with them.”
+
+Sure, sure, whatever. So then, how do I activate this Beacon Anchor Point thing, exactly?

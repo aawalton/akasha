@@ -1,0 +1,237 @@
+I mentally reached out and made my choice.
+
+You have learned the Spell Curse of Echoes.
+
+Curse of Echoes was clearly the best pick here. The other two were good, for certain, but they simply didn’t fit into my toolbox. Living Death was difficult to use, and would likely require me to completely shift my build around it if I wanted to make use of its powers correctly, and not only that, but I was currently trying to stay covert within the empire. It’d be difficult to keep eyes off me if I were wandering around with a band of Undead fighting alongside me.
+
+I’d asked Index for additional information in the past regarding some basic questions the Spell skimmed over, like what kinds of orders the Undead could follow and what would count as a “willing” sacrifice, and they simply weren’t favorable enough to make things work. Especially when it came to how strict you had to be with orders—I’d be forced to either pay constant attention to the Undead, or tell them to follow the directions of someone else and have them pay constant attention to them, in order for them to do anything productive.
+
+Tainted Sigil was also certainly a powerful option. Even ignoring its ability to spread between people, allowing oneself to heal off of every kill made for an entire three days was great. However, with my build, I wanted to heal during a fight, not after. I was good at one-on-one combat, focusing down a single enemy to death. Tainted Sigil would want me to get into fights against several enemies at once, that way I could heal midway through the fight when I killed off one of my enemies, or have me fight enemy after enemy for long periods of time. It was great for wartime, going against large armies and staying sustained the entire way through. Not what I was doing.
+
+But then, Curse of Echoes was just what I wanted. What I’d noticed—especially in that fight against the Blink Monkeys—was that my entire build focused on disrupting opponents’ ability to fight effectively, and then exploit their sudden weakness to elongate combat and slowly take them down. However, I only really had one method of doing that. All I could do was make it harder for someone to move.
+
+Against the Blink Monkeys, that had posed a very obvious issue. They could move despite my debuffs, and it made me almost useless. But I wasn’t just weak to teleportation specifically, I was weak to any magic at all. I’d been lucky to mostly avoid coming against magic users, but even against monsters that had a single teleportation Spell they could cast, I’d been completely dismantled. If I were to fight against a Magic-Type Classer, that issue would be multiplied to be much, much worse. Why would they need to run and jump around when they could just point their hand at me and launch a Firebolt all the same?
+
+Curse of Echoes worked as a perfect way to create disruption in a completely new way. This wasn’t a physical barrier to my enemy’s movement, but rather a mental method of interference. And that wouldn’t just greatly increase my ability to fight magic users, but everyone. The more ways I could disrupt someone’s ability to act, the harder it would be for them to figure out how to fight.
+
+It was one thing to have your Dexterity limited. Certainly a setback, but manageable. In the same way, it was definitely a problem to have your mind assaulted by illusions, but still a limitation you could work within. But to have both of those happen at the same time? To be forced to re-learn how to move while under the increased weight of Gravity Well while also finding yourself with no idea where your enemy is? That would be a crushing combination of debuffs for any opponent.
+
+There was obviously the Conjuration condition with Curse of Echoes—the clause that said it would only work if my Conjuration was higher than my opponent’s. But, in my case, I wasn’t too worried about that. With my Stat-increasing abilities, my Conjuration was already higher than most peoples’, and even if it wasn’t, the majority of both Humans and monsters didn’t have Conjuration in the first place. Obviously, this meant I wouldn’t be able to use the Spell on any Magic-Types of an insanely high Level, but it probably wouldn’t be a good idea to get into a fight with people like that, anyway.
+
+The decision was simply weighted too heavily in favor of Curse of Echoes. Though, I had to admit that part of my reasoning also came down to emotions. The danger Tainted Sigil posed to the general public, and the strange conditions of Living Death that seemed to encourage torture…The two of them put me off kilter. Like they were tailor-made to encourage sadistic acts.
+
+I shook the feeling from my mind. Now that I was done with my Spell, I also needed to assign my Stat Points.
+
+You have used 3 Stat Points to increase Conjuration.
+
+Your Conjuration value is now 130.
+
+Name:
+
+Arlan Nota
+
+Age:
+
+20
+
+Strength:
+
+49 (27 + 22)
+
+Class:
+
+Minute Mage
+
+Level:
+
+21
+
+Endurance:
+
+68 (46 + 22)
+
+Class Type:
+
+Magic
+
+XP:
+
+36/3.5k
+
+Dexterity:
+
+47 (25 + 22)
+
+Health:
+
+614/680
+
+Health/Minute:
+
+0.263
+
+Conjuration:
+
+130
+
+Stamina:
+
+299/348
+
+Stamina/Minute:
+
+2.21
+
+Intelligence:
+
+32
+
+Mana:
+
+2k/2.04k
+
+Mana/Minute:
+
+111
+
+Spells:
+
+Talents:
+
+Titles:
+
+Curse of Echoes - XP 0/10
+
+Cumulative Catastrophe
+
+Pinnacle of Reclamation
+
+Sanguine Bond 11 - XP 48/623+Hypnotic Bond
+
+Exponential Reclamation
+
+Devastator
+
+Expedite 9 - XP 355/355
+
+Regenerate
+
+Trailblazer
+
+Ethereal Armor 11 - XP 202/623+Broadened Armor
+
+Recursive Growth
+
+Gravity Well 11 - XP 18/623+Taxing Well
+
+Time Loop 21+Extended Loop+Recycled Loop
+
+Ray of Frost 9 - XP 355/355
+
+Crippling Chill 9 - XP 355/355
+
+Noxious Grasp 18 - XP 2.35k/3.71k+Venomous Grasp
+
+With that, I opened my eyes and glanced around at the clearing we sat in. Aliss seemed to already be done with her Level-up, so everyone was just standing around and chatting while they waited on me.
+
+“You’re done?” Aliss asked. Before I could respond, she nodded. “Good. Let’s head back to town.”
+
+“Someone’s in a rush,” Sylvie muttered, following Aliss as she marched down the road, not even glancing back to see if we followed.
+
+It took until evening for us to get back to town, the sun setting behind the towering mountains that made up the southern view. We headed back to the guild lobby to claim our reward, distributing the money between ourselves as normal.
+
+“So,” I said, pocketing the coin, “we doing another job tomorrow like usual? Got anything in mind?”
+
+“Actually,” Aliss said, “I’m going to be taking a few days off from adventuring.”
+
+“E-excuse me?” Entismo asked, eyebrows raised. “Aliss, if you have any issues with your, er, constitution, please tell me. If you are diseased—”
+
+“I’m not sick,” she said, seeming distracted by her own thoughts, like she was only putting half her mind to her surroundings. “Just busy. See you all.”
+
+With that, she turned and walked out of the building. Entismo looked back and forth between us for a moment, then chased after her.
+
+“Ugh.” Sylvie rolled her eyes. “So apparently we’re taking a break. For no apparent reason.”
+
+Boy shrugged, then walked off to the bar, grabbing a beer before leaving the lobby as well.
+
+“Seems like he’s done for now, too,” I said. “Unfortunate. We’ve still got some money we need to make.”
+
+“Yeah,” Sylvie spat. “Unfortunate. Man, they’re just flamin’ cowards. Aliss, sure, she’s always been weird. And been getting weirder by the day. Entismo, though…Ugh. He needs to get over his crush. That shit’s getting annoying.”
+
+“Do you know what’s going on with Aliss?” I asked.
+
+Sylvie shrugged and sat at a table. “She doesn’t talk to me. If the group doesn’t know, neither do I.”
+
+“Do you think something could be wrong with her?” Erani asked. “Like a friend is injured, or something. She might be working extra hard to pay for a healer.”
+
+Sylvie flinched slightly at Erani’s words. “Gods, I always forget your voice sounds like that. Anyway, I dunno. Could be that. Maybe she’s just crazy.”
+
+I nodded. “Hm. Well, if it’s just us four, you think it’s still possible for us to get access to the good jobs?”
+
+“Not the ones we’ve been doing, that’s for sure.”
+
+“Well, we’d like to keep working, even if a few are breaking off. So unless you’re out too, we should probably try to find something we can do.”
+
+“Oh, I’m not done. We can figure something out.” Sylvie rested her elbows on the table, placing her chin in her hands and tapping on her cheek as she thought. “Hm…Oh, have you heard about that new bounty they’ve posted?”
+
+I exchanged a nervous glance with Erani. “...The one for the Koinkarians? Yeah. But I’m not sure that’s a good one to try.”
+
+“No, no, not that one,” Sylvie said. “There’s a new one. Apparently the guards at one of the nearby posts by the mountains deserted their posts. Just up and left, no warning or reason.”
+
+“Wait, nearby?” My mind suddenly went to the border guards I knew—Bon, Jannin, and Poppins. Had they deserted for some reason? “Are you talking about the post that’s just down the southern road?”
+
+“No, it’s to the southwest. Are you friends with some border guards?”
+
+“Uh, sort of. It’s complicated. Anyway, go on.”
+
+She gave me a look that almost seemed like one of disapproval when I answered her question, but the expression faded right away, and she continued. “Well, yeah. Penalty for desertion is death, so the empire’s obviously looking to find out where these guards went.”
+
+I raised my eyebrows. “Death?”
+
+“They’re endangering a lotta lives by running off. Or, well, that’s the logic. If the soldiers had a good reason for running, I imagine the punishment would be lessened. But the reward is good, so it’d be a good thing to work on if we don’t have the manpower to do monster hunting right now.”
+
+“Hm. Well, do we have any leads? Any idea where they could be?”
+
+“Not much. Well, I don’t have much. But you just said you know some guards down at the border, right? You think they might know something?”
+
+“No idea. I guess we could ask.”
+
+Erani looked at me. “Are you sure about that? I don’t know if we’re quite on…speaking terms.”
+
+“Eh, we can figure something out,” I responded with a shrug. Then I looked back at Sylvie. “Anyway, how do we know these guards actually deserted?”
+
+“What do you mean? …I guess we could go and look at their own outpost to see if they’re still there, but I don’t think the empire’s wrong about them missing.” She laughed. “It’d be pretty funny if they were just there hanging out, though.”
+
+“No, I mean, what if they got killed or something? Or kidnapped?”
+
+“I dunno. Border guards are pretty infamous for being deserters. They don’t exactly pick the best for that job. Empire probably looked around for bodies before posting a bounty. Besides, if they were kidnapped, it’d be our job to find ‘em all the same, right?”
+
+“Guess so. Well, you want to start walking down to their outpost tomorrow?”
+
+“Sure. We can meet here at—” Sylvie suddenly cut off, looking up at something behind me.
+
+“What?” I asked, glancing back.
+
+“That guy’s cute,” she said, standing and walking over to the bar. “Be right back, I’m gonna buy him a drink.”
+
+I frowned at her as she walked off, though she couldn’t see my expression through my faceplate. Once she was gone, I sighed and muttered to Erani, “Can’t even finish her sentence.”
+
+Erani just shrugged. “You think we’ll actually be able to find these people? I wasn’t too fond of doing bounty jobs back in Koinkar. Feels more like playing the lottery than actually working.”
+
+“Well, I’m hoping our connections with the other guards will help with that. Can’t hurt to check, right? Plus, even if we aren’t the ones to turn in the bounty, it might be a good idea just to look into things anyway.”
+
+“What do you mean?”
+
+“It seems kinda suspicious, doesn’t it? Right after we get here, soldiers start deserting? Can’t help but imagine it’s got something to with the Demons.”
+
+“Well, yeah. I imagine it has everything to do with them. They feel more in danger because of the existence of the Demon threat, so they run. Makes sense to me. Really, they’re probably long gone by now.”
+
+“I don’t think that’s all there is to it. I mean, Bon said they’d been guarding that place for years, right? Facing down the threat of Dragons attacking every day, you’d think the people who’d desert because of the danger would be long gone by now. It’s just…” I shook my head. “I don’t know. Feels like something we should check out, at the very least.”
+
+“Well, Bon and Jannin were talking about how they’d stood against the new emperor, right? That was why they were assigned to guard duty out in the mountains. After Etrin took over, they didn’t support him, so he forced them out into this place. Maybe all the other soldiers had similar reasons for being out here. It could be that they got fed up defending the empire from this opposing territory when they don’t even have loyalty to the emperor, right? I would assume it would be different for them than when it’s just random monsters.”
+
+“But that’s just it, right? If they don’t trust the emperor, then they’re more likely to switch sides. Maybe they got…paid off, or something. I don’t know. But I’m not sure I like the idea that these defenses just got weaker. It’s what’s supposed to be keeping us safe. Right now, there could be an invader that infiltrated the empire by sneaking through that hole made in their line of guards. If that’s the case, I want to know.”
+
+Erani pursed her lips. “That feels unlikely.”
+
+I just shook my head. “When you’re dealing with Demons, if you only limit the possibilities to what you think is likely, you’ll be surprised at their every move.”

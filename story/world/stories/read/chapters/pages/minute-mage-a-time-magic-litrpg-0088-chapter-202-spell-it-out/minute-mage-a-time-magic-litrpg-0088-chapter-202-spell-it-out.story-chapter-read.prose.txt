@@ -1,0 +1,171 @@
+Threshold reached. 3k XP.
+
+Your Level has increased to 21.
+
+Due to achieving Level 21 in the Minute Mage Class, you have been granted the following benefits:
+
+-You have gained 1 Endurance.
+
+-You have gained 2 Conjuration.
+
+-You have gained 1 Intelligence.
+
+-You have gained 3 Stat Points.
+
+-Recursive Growth has activated. You have gained 2 Strength, 1 Dexterity, 2 Conjuration, and 1 Intelligence.
+
+-Time Loop Talent Rank has increased to 21.
+
+-You may choose a Spell to learn.
+
+As I looked over my Level-up notification, I smiled in satisfaction. Nice, steady progress. And finally getting that new Spell would be great, too.
+
+But then, I got a strange sensation in my mind. A sensation I’d only ever felt a couple times before. The System was reaching into my head, unlocking something new. And then, after a couple seconds…
+
+Feat of excellence performed. You have 100 Mana/Minute.
+
+You have gained the Pinnacle of Reclamation Title.
+
+My eyes widened at that, and it was all I could take to avoid gasping aloud. A new Title?! I hadn’t even heard of this one, despite the fact that getting a large amount of Mana/Minute wasn’t a particularly niche requirement. How was knowledge of this not more well-known?
+
+“Are you kidding me?” Index replied to my thoughts with a laugh. “I don’t think you know how high your Mana/Minute actually is.”
+
+What do you mean? I asked.
+
+“Well, you have several abilities that artificially inflate your Mana/Minute. Obviously there’s Exponential Reclamation, increasing it by a massive amount, but then you’ve also got extra Stats from Recursive Growth and Recycled Loop. You’re probably one of the only Humans alive that’s gotten to 100 Mana/Minute at your Level.”
+
+Well it’s not like it’d be impossible to ever reach that point, right? Really, every higher-Level Magic-Type alive would get it, right? Just feels weird I’ve never heard of it.
+
+“Yeah, I don’t think you’re understanding. If you didn’t have your Talents helping you out, getting to 100 Mana/Minute would require more than a few Levels. Even if you still assigned every single Stat Point you got toward Conjuration, it’d still take you until, let’s see…Yeah, it’d take you until Level 112. Which, I’m sure you don’t need me to tell you, in the entire history of the System, no Human being has ever even approached Level 100. Much less passed it.”
+
+I blinked. Oh.
+
+“I have records of people getting the Title, but only people who go for some very specific builds with very specific Classes. So, basically, people like you. But, y’know. There aren’t many like that.”
+
+Well, goddamn. So, basically, what you’re saying is I’m as strong as a Level 100.
+
+“Thinking that is such a great way to get yourself killed.”
+
+Yeah, I’ll get killed, and then I’ll just come right back to life. Basically immortal.
+
+I could practically feel Index rolling its eyes. “If you actually start believing you’re immortal, I’m gonna yell at you. I’ll be able to tell if you do, by the way! I’m holding you accountable.”
+
+Well, I guess it’s nice to have someone to do that for me. Anyway, I want to get seated somewhere so I can go over all of this shit I got. That Title seems more and more interesting the more we talk about it.
+
+I silently sent a message to Ainash, asking her to tell Erani we should find a reason to rest while ideally giving our allies as little information about my Class as possible, but before I could even finish what I was saying, Aliss spoke up.
+
+“Let’s find a place to meditate everyone,” she said. “Need to manage my Level-up.”
+
+“Oh!” Entismo said. “I give you my sincerest congratulations.”
+
+“Don’t we normally just do Level-ups at town?” Sylvie asked. “Feels like it’s kinda pointless to do them out here. May as well meditate in the comfort of our own homes, right?”
+
+For some reason, Aliss looked pretty agitated. “Please, just…indulge me this once? I’ve been looking forward to this Level.”
+
+Sylvie frowned at Aliss, obviously waiting for her to elaborate, but when Aliss said no more, she just shrugged and walked along, leaving the rest of us behind.
+
+“Mother says, ‘what was that all about?” Ainash said to me as we started walking to keep up with the other group.
+
+“No idea. But I’m not upset, if it means we can get meditating faster. Do either of you have Level-ups to manage?”
+
+“No, but mother is close! She wants to know what you get, so tell me and I will tell her!”
+
+Once we left that area and got into more secured lands, we all found a place we could sit and rest, which was where I meditated for my own Level-up. I didn’t need to keep the fact that I’d Leveled a secret or anything, but generally speaking, the fewer conversations I had with the group concerning my Class, the better.
+
+As I meditated, I looked over the description for the Title I’d gotten.
+
+Pinnacle of Restoration
+
+You have reached the epitome of magical restoration, passing the milestone of 100 Mana/Minute. Not only does this prove your might, but also your dedication to constant casting and living a life surrounded by magic. Use your powers wisely, and perhaps you will be able to garner yet more Mana.
+
+Increases your maximum Mana by 30%.
+
+Increasing your Mana/Minute further will add more effects to this Title.
+
+Well damn. An extra thirty percent to my Mana capacity was certainly nice. And even though it didn’t technically do anything now, that second line was almost even more exciting. I already had more than enough reason to focus on increasing my Mana/Minute, so getting rewarded for doing so was quite a nice bonus. And the more Conjuration I got, the easier and easier it would get to increase it further, due to the nature of Exponential Reclamation.
+
+After I’d looked at that, I got to move on to the main benefit, though. My Spell Choice. The moment I’d been meditating for the requisite ten minutes, I instantly opened it up.
+
+Choose one Spell to learn:
+
+Curse of Echoes
+
+School: Curse, Divination, Illusion, Mental
+
+Type: Activated
+
+Cost: 240 Mana
+
+—
+
+Choose another being within 10 paces of you. If your Conjuration is higher than its, it is Cursed with Echoes for the next 20 seconds. For as long as it is Cursed with Echoes, it will see illusory copies of you—as well as anything else it considers an immediate threat—surrounding and attacking it.
+
+Illusions will be dismissed upon contact or close inspection, and can only be perceived by the chosen being. New illusions will be summoned to replace any that are dismissed, such that the chosen being always perceives itself as surrounded.
+
+Living Death
+
+School: Necromancy
+
+Type: Activated
+
+Cost: 1150 Mana
+
+—
+
+Use the life force of a willing being to raise a corpse into an Undead. The being must be alive and fully conscious of its decision (beings without the necessary mental faculties to to understand the nature of this decision will be ineligible). If confirmed, the being will be killed instantly, and another corpse you are touching will be raised into an Undead servant. The Undead servant will have 20% of the Strength, Dexterity, and Endurance that the original body had.
+
+Due to the life force being supplied by a willing sacrifice, Undead created by this Spell will not be subject to normal limitations, such as needing to stay within range of you, or requiring a constant source of Mana to move. However, they still cannot act without direct instruction from you.
+
+Tainted Sigil
+
+School: Alteration, Curse, Poison
+
+Type: Activated
+
+Cost: Mana equal to your maximum Mana (2k)
+
+—
+
+You become Tainted for the next 72 hours. For as long as you are Tainted, the following effects are true:
+
+You lose Health each minute equal to twice your Health/Minute.
+
+Whenever you kill a being that is not already Tainted, restore Health to yourself equal to twice that being’s Level.
+
+Whenever you touch another being that is not already Tainted, you may have it become Tainted for the next 72 hours. If you do, restore 15 Health to yourself.
+
+I’d technically already seen these options. Only a few days ago, I’d reached Level 21, then I gave that Level up so I could give a Tribute to Ainash and upgrade the Bond to have new benefits. So, as I gazed over these options, I didn’t see anything that surprised me.
+
+Not that the options were made any less weird by that fact, of course.
+
+Seriously, what in the fuck even were these things?! Thinking back to the simple days of being offered basic damaging Spells like Firebolt—back when Noxious Grasp, a Spell that just dealt some damage and drained some Stamina, was the strangest Spell in a given choice of three—I couldn’t help but feel like this was just ridiculous. Though, that was the whole point of the Spell trees, wasn’t it? At least, that was what Erani had said. As you grew further and further in Level and went further down the branches, your choices would become more and more specialized.
+
+Going through the list of the three, the first option was Curse of Echoes. This was an Illusion Spell that caused a person to see countless copies of their enemies all surrounding them, attacking one after the other. Index had clarified to me that the person wouldn’t necessarily think they were real—after all, how could there suddenly be five of me standing all around them—but they would still have trouble differentiating between the real version and the fakes. So it was less about genuinely tricking someone, and more about creating a distraction.
+
+After that was Living Death. This one was where the weirdness really began. At least Curse of Echoes was somewhat similar to a typical Illusion Spell, just with some additional Divination magic to read their minds and figure out who they considered to be their immediate enemies. Living Death was instantly much stranger. First off, genuine Necromancy Spells weren’t often come-by to begin with. Not all Magic-Type Classes ever got them—at least that we knew of—and even the ones that did would only see those Spells if the user followed a very specific path of Spell Choices.
+
+Living Death was not only a Undead-creating Spell, but it also worked in strange ways by the standards of those Spells. Typically, the main limiting factor when it came to users of Necromancy was the constant drain on their Mana. Every Undead created would take away a little bit of Mana every minute, and on top of that, they’d also need even more to move around and fight for their masters. With Living Death, that limitation was eschewed. Technically, a person could build up an army the size of a continent using that single Spell.
+
+It wasn’t unheard of for some Spells to create and maintain their Undead in different ways from the basic Mana-draining option, but still…I’d at least never heard of a Spell like that using willing sacrifices to power the creation process. And when I’d talked about it with Erani, she hadn’t seen anything like that either.
+
+Though that limitation was quite sizable. Getting even a single person to give up their life for me would be difficult, much less enough to create an army. And in that case, why not just make an army out of the people willing to die for you? It seemed like the same result, just in less steps. Though, Index had of course had some ideas when it came to methods to exploit the Spell. Most of them involved the capture and severe torturing of innocent Unclassed people to force them into accepting the death offered by the Spell, and then using their life forces to power the raising of much more powerful dead. Which wasn’t something I was interested in.
+
+Finally, there was Tainted Sigil. That Spell was certainly interesting. On a basic level, it was a simple trade-off. By losing life equal to two times your Health/Minute each minute, since it didn’t actually cancel out your regular Health regeneration, it’d end up effectively just causing you to lose life equal to your Health/Minute each minute once everything was added up.
+
+In my case—and in the case of most people—it’d take about two full days to regenerate your entire capacity of Health. Which meant that when that regeneration was turned against you, you’d die in about two days, assuming you started out with full Health. Considering the fact that the Spell’s effect lasted three days, it would actually just straight-up kill you if you used it and didn’t find a way to heal yourself.
+
+Thankfully, the Spell provided a method of healing right there in its effects. And it was quite powerful. Gaining free Health for every single kill you got was extremely useful, and in many cases, it would be more than enough to offset the amount of Health you’d lose from its negative effects. Pretty much, it was just a case where you’d use it on yourself right before a big job where you knew you’d be killing a lot, and then you’d have plenty of Health for that entire few days—as long as you were actually able to get those kills you expected to get.
+
+Obviously, the way this worked was quite strange, but overall understandable. What made me cautious—and maybe even afraid—of the Spell was the final clause. The one that allowed you to spread the sigil to other people.
+
+In the case that something went wrong—the job went bad, you got hurt and were desperate for healing, anything—there was always the backup plan of just running up to someone, anyone, and giving them a sigil of their own in return for 15 Health to you. Really, you were incentivised to do that to anything you planned to kill that was Level 7 or lower. Since the Health gained from kills was dependent on Level, anything with a low enough Level wouldn’t be worth it to kill, and instead you’d just want to infect them with the Sigil and get more Health that way. However, if that happened—if the sigil ended up getting to anyone other than me…
+
+The way the system of incentives worked, that Spell could essentially destroy an entire city. You infect someone, some Unclassed beggar, and suddenly they have this two-day timer ticking down on them. They have to restore some Health or they’ll die. Well, if they’re weak, they won’t be able to kill anything that’s high-Level enough to be helpful. But they certainly can walk up to the beggars next to them and give those people the sigil as well to restore enough Health to survive. And then each of those beggars are in the same predicament, and so they have to go and infect even more people to keep themselves alive. Eventually, once everyone’s infected with it, there won’t be enough people left to infect, and they’d start dying off. Maybe the strong ones would be able to find monsters to kill to keep themselves alive, but not the weak.
+
+Now, sure, in a practical case, when it came to the simple choice of whether or not I wanted to take the Spell, I could disregard that entire scenario. After all, it’d only happen if I willingly chose to force the sigil onto some random person on the street. But still, just imagining the destruction that could be caused gave me chills. Why would the System even design a Spell like that?
+
+I paused for Index to comment, but it said nothing. I knew it was reading what I thought, but maybe it simply didn’t have an answer for the question. It seemed to have the opinion that the System had no conscious design behind it whatsoever. It simply was there, and it existed the way it existed because that was the way it was. But I had trouble believing something like that when I saw Spells that were so efficiently designed to cause carnage.
+
+Regardless, I still had to pick between which Spell I actually wanted. And honestly, the choice was pretty obvious. When I’d first seen the Spell options, I hadn’t instantly picked any single one out as the best, but that was because I knew I had time to mull it over. But now, I’d had several days of considering the options to pick out the best one. And in that time, fighting monsters and working jobs, thinking about which of them I’d have wanted most in each situation I got myself into, one Spell had stood out to me as the clear winner.
+
+I mentally reached out and made my choice.

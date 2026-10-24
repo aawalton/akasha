@@ -1,0 +1,221 @@
+I approached the two soldiers attacking Erani and Ainash, who were both pinned to the ground. Behind me were two more that I’d managed to incapacitate, if only temporarily. And apparently, on the other side of the wrecked border outpost…
+
+Index, you said Ripley and that guy, Jon, they’re having some conversation over there? What are they talking about?
+
+“Well, it’s more of a half-conversation, half-fight-to-the-death. I can’t hear perfectly from so far away, but from the snippets I have heard, it seems like Jon isn’t just here for you. He’s also here for her.”
+
+What? Why?
+
+“Not sure. Someone’s looking for her, I guess. It sounds like they already know each other, too.”
+
+One of the guards looked over at me approaching them. He was the one with the knife, the one who’d stabbed Ainash. Considering the fact that she was still alive despite the flurry of strikes, he was probably lower-Level. Wouldn’t be a problem.
+
+I raised a hand and pointed it at him, then shot a Ray of Frost at his head.
+
+You have struck Level 11 Rogue for 58 damage using Ray of Frost.
+
+You have cursed Level 11 Rogue with Ray of Frost. For the next 5 seconds, his Dexterity score is lowered by 7.76.
+
+25 Mana Cost. Your Mana is 922.
+
+It impacted the side of his face and he flinched, looking over at me. The other man, this one wielding a sword, snapped his head in my direction too.
+
+Then they simultaneously got up and ran in my direction, weapons drawn. Apparently, my normal Dexterity and Stamina-draining methods wouldn’t work as well on these guys, since their Enchanted limbs didn’t need either of those to move. However, Gravity Well worked almost better than it did before. At least, it would for a while.
+
+The two Classers charged. The Rogue arrived first, using some Martial Art to move at a blinding speed, so that it almost seemed like he teleported right up to me. And his Dexterity was nothing to disregard, the swing that came after moving way too fast for me to react.
+
+You have been stabbed. 18 damage.
+
+Your Health is 373.
+
+You have been poisoned. 6 damage.
+
+Your Health is 367.
+
+Venom is coursing through your veins. You will lose 1 Health every minute for a number of minutes equal to 100 minus your Endurance (32 minutes).
+
+With the knife slicing across my shoulder blade, I could feel the poison coating the dagger instantly penetrate my bloodstream and begin to spread through my veins, burning like acid.
+
+Thankfully, my decent Endurance score was enough to mitigate the pain to a much more dull burn, more like I’d eaten a pepper too spicy for my taste than like I was actually on fire. But regardless, I’d have preferred not to have felt it. Not that the relatively slow-acting poison was anything I’d have to worry about—not in a timeline I’d already decided wasn’t worth sticking around in, at least.
+
+Before the Rogue could strike again, I cast two instances of Expedite on myself, instantly boosting my Dexterity to a staggering value, far outweighing even a Dexterity-focused build like the Rogue’s. With my newly-overpowering Dexterity, I easily dodged the next swipe the Rogue took at me and his eyes went wide, watching me bend out of the way at the last moment.
+
+He tried ducking down and sidestepping to hit me from the side, but I reached out a hand and grabbed him by his collar, quickly pulling him up and using my other hand to grab his knife-wielding arm. After spinning him around so he was facing away from me, my hand holding his weapon and my arm around his throat, he was completely restrained.
+
+I’d already activated Noxious Grasp the moment I made contact with him. Draining a catastrophic 24 Health every single second, to a lower-Level, non-Endurance-focused Class like Rogue, a Spell like that may as well have been a death sentence. He tugged desperately against my grip, but my own Strength was 50—a value that put me far above the average person. And considering I’d already done the muscle training of a Swordsman, someone like this guy didn’t stand a chance.
+
+The other man, the sword-wielder, paused in his approach toward me. I’d have imagined most would, considering how quickly I’d disabled his ally. And just those few seconds of hesitation were enough for the Rogue to go limp in my grasp. I hadn’t gotten a kill notification, which meant he’d either run out of Stamina, or maybe passed out from the pain. I shut off the Spell before he died.
+
+“I have a hostage,” I called out. “Attack me and he dies. Listen, I don’t want to kill you, just turn around and walk away. Everyone lives, everyone’s happy.”
+
+The Swordsman froze at my words. I could tell just from the look on his face that he desperately wanted to take my offer. The fear was evident. But he stood there, staring at me. Not moving at all.
+
+“Please, ma’am,” he whispered.
+
+I glanced around, confused. Who was he talking to?
+
+“He’ll die!” the man continued on to himself. “I can’t— …Yes. Yes, ma’am. I will. I-I apologize for the hesitation.”
+
+With that, he charged straight at me. I was so surprised I barely even moved before he thrust his sword forward, sinking straight into the Rogue’s stomach and piercing through it, the sword finding my own body behind his.
+
+You have been stabbed. 14 damage.
+
+Your Health is 353.
+
+The Rogue coughed in pain as blood spilled out of his gut. I may have been high enough in Health for my skin to stop the blade from doing much, but with the man’s Health already considerably drained, it was clear that his own barrier of Health had done next to nothing to stop his organs from being harmed.
+
+He fell from my arms and to the ground. Still no kill notification—he must have still been barely holding onto life.
+
+The man who’d just stabbed him looked down, almost as if he were horrified by his own actions. “I-I did it ma’am, you see it? You see his gurgles written out on your damned paper?!”
+
+He looked up at me. I wasn’t entirely sure what to do. I resorted to just raising my hands to stop him from approaching further. “Hey, man, your guy’s injured. Why don’t you just take him to get some—”
+
+“Aagh!” He shouted a warcry as he charged at me, weapon raised. In a desperate swing, he took a downward strike at my head.
+
+I sidestepped, leveraging my still-boosted Dexterity to dodge the swipe, and turned to face him again. Seemed like whoever this ”ma’am” was, I wasn’t able to convince him to disobey her orders. Not that I even knew how she was delivering them to him, in the first place.
+
+I raised my hand and shot my enemy with three Rays of Frost. He managed to block one of them with the blade of his sword, but the other two found their target, revealing him to be a Level 16 Swordsman. If the circumstances were different, I’d have been impressed at his blocking ability; I’d never actually seen anyone move so quickly as to block or dodge the borderline-instantaneous damage that came from my Rays.
+
+He winced in pain as the ice from my Spells spread across his chest where they hit him, then raised his sword again. Behind him, I could see the two companions of his that I’d only temporarily disabled before—the two that had originally tried to kill me when I’d fallen out of the outpost. They were both slowly getting to their feet, the Spells I’d cast on them to keep them down clearly having worn off at this point. That, or they’d just gotten used to the effects.
+
+“Tell me about the person you’re talking to,” I said to them. “Who is she? Why do you follow her orders?”
+
+All three of the men wavered in fear just at the mention of this mystery woman. They also paused for a second, as though listening to someone. Once they seemed to hear the end of what the person had to say, they all charged at me wordlessly.
+
+I hit two of them with Gravity Well. For the Swordsman, who’d never experienced it before, he predictably went straight to the ground under the effect, his artificial limbs failing him under the added weight. But for the other man, who’d already experienced it, all he did was stumble for a moment. But still, his stumbling gave me a second alone with the third man who I’d left unaffected by the Spell.
+
+Taking him on one-on-one, I dodged the swing of his own sword and threw a punch at his face.
+
+You have struck Level 12 Swordsman for 47 damage using fist.
+
+He stumbled back at the Stat-enhanced force of the swing. And the moment my skin made contact with his, I was also sure to enable Sanguine Bond on him. The cast of that Spell brought my Mana down to just above 400, but I’d regain a good amount back as it ran its course. Not to mention I also constantly got a free 1.8 Mana per second from my base Mana regeneration.
+
+The man groaned in pain as I stood up a little straighter, feeling the Health and Stamina flow into me, bringing me back to a much better state. I could also use Regenerate any time my Health got especially low, but the cost of the Talent—now 60 Stamina—was enough to make me hesitant to use it if I didn’t actually need the healing.
+
+The Paladin, after quickly recovering from his stumble caused by Gravity Well, charged, and the two swung at me simultaneously. I was forced back by the duo of fighters, not able to spot a good moment to come in and make physical contact for Noxious Grasp. Seemed like I’d probably be forced to rely on Ray of Frost for damage. Though I didn’t like doing that, with the Paladin Class’s tendency to have access to several healing Spells that could cause issues for me if I ran out of Mana.
+
+Just as I was about to bite the bullet and try focusing down the Swordsman with a barrage of Rays of Frost, a Firebolt came flying out from the left side of my vision, colliding with the Paladin and sending both him and the Swordsman flying several paces over and crashing to the ground.
+
+You have been burned. 51 damage.
+
+Due to Heat Resistance, damage has been reduced to 25.8.
+
+Your Health is 341.
+
+I wasn’t fully out of the blast radius either, it seemed. The flames enveloped me, but I was at least spared the main force of the explosion, only barely needing to put a foot back to keep myself stable.
+
+I looked over at the source of the blast to see Erani leaning on some rubble to keep herself standing, letting her hand down after casting the Spell.
+
+“Sorry about that,” she said, breathing heavily between each word. She was bleeding from multiple blade wounds—that Swordsman had gotten her pretty bad. “I didn’t hurt you, did I?”
+
+“No,” I said, “Heat Resistance protected me, for the most part. Are you okay?”
+
+“Not in the long run. Blood loss will get me before too long. Where’s Jannin? He has that healing Spell, right?”
+
+“Uh.” I glanced over at his corpse.
+
+She looked over as well. The moment she realized what it was, she quickly looked away, shielding her eyes from the sight. “Oh, gods. Are they all dead?”
+
+“Yeah, including Sylvie. Probably need to redo the whole thing.”
+
+“Shit.” Erani frowned, then looked over at Ainash, who was still unmoving on the ground. The moment she laid eyes on her, Erani rushed forward and knelt on the ground beside her, seeming to forget her own injuries. “Oh, no, is she dead? I can’t imagine the pain of dying.”
+
+“Not dead,” I said. “Not if the continued existence of our Bond is anything to go by. But don’t worry, the dying thing isn’t that bad, once you get used to it.”
+
+“I’m going to see if I can stem her bleeding,” Erani said.
+
+I nodded, and turned back to the three Classers who were now all stumbling back up to their feet. “Yeah, do that. I think these guys’ll be fine in my care.”
+
+“You’re dead,” the Paladin said with a scowl. He hefted his maul once again.
+
+“No, you are. But you don’t have to be. Just tell me—”
+
+I was cut off by a swing of the weapon, being forced to duck to the side to dodge. I dashed in after that, grabbing his face and shoving him back with Noxious Grasp active. From a glimpse of movement to my right, I saw a sword swinging, aimed at the back of my head. I ducked underneath it just in time, then threw a punch at the attacker’s gut. He coughed in pain as I straightened back up to full height, grabbed his head with both hands, and brought it down into my knee before throwing him to the ground.
+
+To my side was the Paladin again, having abandoned his weapon and going in for a punch with a spiked gauntlet. I raised a hand to parry the strike to my side, then grabbed his arm and neck to pull him into a hold close to my body. Noxious Grasp quickly went to work ravaging his body.
+
+“Behind!” Index shouted, and I ducked just in time to avoid a sword stabbing for my back—the other Swordsman had snuck behind me at some point, it seemed.
+
+The tip of the sword, going over my head as I crouched, instead found the back of the Paladin I’d been grappling, piercing straight into him. He gasped in pain, then went limp.
+
+You have offered major contribution toward the slaying of Level 18 Paladin.
+
+Due to killing a member of your own species, you have earned 0 XP.
+
+I turned and leapt forward, tackling the surprise attacker to the ground and making him the new target of Noxious Grasp. He shouted in pain as he tried desperately to fight me off of him, but I held his arms down as his Health dropped lower and lower.
+
+Before he died, however, Index shouted out again, “Behind you! Again!”
+
+I turned to see the other Swordsman above me mid-swing, and this strike I couldn’t dodge in time. It hit my back full-force, cutting into my skin.
+
+You have been sliced. 49 damage.
+
+Your Health is 299.
+
+I scrambled off of the pinned-down man to face my other attacker, raising my hand to threaten him with a face-full of Rays of Frost. “Listen. I’ll let you live. Just tell me everything you know about whoever’s giving you these commands. Why are you—”
+
+He interrupted me with a shout and another wild swing. Before he could hit me, I unleashed as many copies of Ray of Frost as I could cast straight at him. He stumbled back at the first couple, and then after the third, collapsed to the ground.
+
+You have slain Level 12 Swordsman.
+
+Due to killing a member of your own species, you have earned 0 XP.
+
+I sighed. What in hells had them so fanatic?
+
+“She’s in our ear.” I heard a strained voice from behind me. Turning around, I saw the Rogue, still lying on the ground, clutching his gut wound.
+
+“What?” I asked.
+
+“Some fuckin’ thing she put in our ears. She can hear what we hear. Gives us commands remotely with it, too.”
+
+“Why follow them?” I asked. I looked around at all of the dead bodies. “I’m sure you knew after three seconds facing me that you stood no chance. Just fucking run away. I mean, killing your own allies just for the chance of getting a hit on me? What’s even the point? What stake do you have in all of this?”
+
+“The limbs,” he grunted. His face contorted in pain with every word. “She can…turn them off. Leave us with nothing. Not even a way to kill ourselves. Just lying down, waiting for death to come.”
+
+“Turn them off? Wait, those Enchanted limbs, they can be turned off remotely? From wherever this woman is? And she can hear everything you hear? That’s…”
+
+“Hellish,” he said, completing my thought. “It’s like the fuckin’ thirteenth hell. That woman, she’s a Demon. Worse than ‘em. I was the first one she promoted, the first one she gave the limbs to. Cut off my limbs herself. Then…she made me help do it to the others. Couldn’t say no.”
+
+I shook my head in horror, muttering to myself, “What the fuck…C-can you tell me who she is? What’s her name?”
+
+“No fuckin’ clue,” he said. “She never told me. But I know what she looks like. She’s—”
+
+He was cut off by a shout from behind me. I turned to see the last of my enemies, the Swordsman I’d left on the ground, standing again with his sword raised high above his head. I prepared to block another attack, but he ran right past me. Turning around I saw him bring the sword down on his own ally, the Rogue.
+
+“Wait, no!” I shouted, but I was too far away to stop him.
+
+“Urgh!” the Rogue grunted, still alive. I looked to see that he’d brought his arm up just in time to block the strike, the blade of the sword wedging into the Enchanted object and not actually hitting the man using it.
+
+“Ma’am!” the Swordsman shouted. “He’s—!”
+
+Before he could even finish the sentence, I saw as the Rogue’s long-sleeved armor suddenly went limp, as though the arms filling the sleeves and gloves had simply disappeared. His pants similarly deflated, leaving the Rogue a simple head and torso. The blade of the sword, no longer impeded, instantly sunk down and pierced its target’s gut.
+
+You have offered moderate contribution toward the slaying of Level 11 Rogue.
+
+Due to killing a member of your own species, you have earned 0 XP.
+
+I sighed. Whether it was out of frustration, anger, horror…I had no idea.
+
+“Thein’s dead,” the Swordsman said. “Yes, ma’am, he was—Yes. Yes, ma’am.”
+
+He turned to me.
+
+He didn’t even get to take a step before I shot him with four more Rays of Frost.
+
+You have slain Level 15 Swordsman.
+
+Due to killing a member of your own species, you have earned 0 XP.
+
+“What the fuck is wrong with these people?” I muttered to myself. Though, really, it wasn’t the people I was frustrated with. It was the person. This “ma’am” woman. It was one thing for the Demons to do what they were doing. As far as I was concerned, the Demons may as well have been beasts. Clever beasts, sure, but they were still animals. Slaves to their nature as cruel, selfish beings who gave no shits about Humans or the harm they caused to us.
+
+But another Human being, doing this? To innocent people? Fucking abhorrent. The Demons needed to die simply because they were Demons. It was like how one sometimes needed to exterminate a nest of angry wasps. You couldn’t be angry at the wasps; they simply needed to be killed. But this woman, she deserved to die. Not because it was in her nature to be a pest, but because she had chosen to be a monster.
+
+Index, you’ve been listening in on that fight between Jon and Ripley, right? Have they said anything about this woman? Does Jon have those limbs, too?
+
+“He doesn’t have the limbs. But like I said, I’ve only been able to get snippets of what they’ve been saying. I can tell you exactly what I’ve heard later, maybe you can piece together the context, but for now, I think the best way to find that out is to just go there and see if you can beat it out of the man. If he doesn’t have the limbs, that means that woman can’t threaten him with anything if he does end up talking, right?”
+
+I nodded. Glancing back at Erani, it seemed like she’d been able to wake Ainash up, if only barely. Poor girl was leaking that white-green sap from countless holes in her body. But she stood, regardless.
+
+“You kill lots of bad guys, father?” she asked weakly, looking at me.
+
+“Lots,” I replied. “You want to fight one more?”
