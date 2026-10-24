@@ -1,0 +1,315 @@
+I patted the back of my head awkwardly as Nora made her way to the center of the chamber. “I only meant that any alternative showing up would be far worse. I don’t think this is the place to get into it with any of the other demon lords or—wait, what are you doing?”
+
+Nora flinched, her free hand starting to stretch out towards one of the floating alert windows.
+
+“I wish to assist—”
+
+I grabbed her hand before she could touch it. “Aina showed me the note from Clare. While I’m truly sorry you’ve been banned from interacting with NAUGHT, I do have to remind you that the potential consequences are world-ending!”
+
+Her eyes clouded as her brow knitted. “But… You… You…” She let out a fake laugh. “You don’t take such warnings seriously, do you?”
+
+“Oh, I damn well do. You’re from Earth, remember? You know, the planet where this thing was invented?”
+
+At least that’s what I assume.
+
+I let her hand go, and she let her arm drop.
+
+“It’s so tempting... in its shininess.” She gazed longingly at the orb at the center of it all. “Sorry...”
+
+“I get it,” I said with a sigh. “Forbidden fruit and all. But I’m still glad you’re here. The place creeps me out a bit. I know I’ve said it before, but right here, right now, I know I’m not supposed to be here.”
+
+Nora cracked a waning smile. “I guess that goes for me, too.”
+
+“So let’s finish up so we can get out of here,” I agreed, flipping over the closest message window. “You definitely earned a promotion.”
+
+[Alert. Random Blessing Subroutine failure. Recommendation: Restart Subroutine.]
+
+“What blessings are we talking about?” I asked.
+
+[Clarification: Random Blessing Subroutine governs distribution of innate amity and animus capacities to humans, hybrids, and select other creatures.]
+
+After the previous alert, I was dutifully suspicious of how benign it seemed. “Oh… Well, why don’t you give me details on the pros and cons of restarting the subroutine?”
+
+[Response options available:]
+
+• Immediate restart (effect: new amity/animus potentials assigned to all future newborns)
+
+• Scheduled restart (effect: same as immediate restart, with added benefit of reducing subroutine's global animus burden factor by 5%)
+
+“Subroutine's global animus burden factor? So, even restarting later… would that lead to increasing ambient animus overall?”
+
+[Clarification: Yes.]
+
+“Yeah, so this isn’t a priority now—rebooting Naught and working on the overabundance of ambient animus is. So we can circle back to this later. I’m more interested in the alerts that are causing safety issues for the current population of Speranza.”
+
+Out of the corner of my eye, I saw Nora scowl.
+
+[Recommendation: Schedule Diagnostic Scan after Reboot to Determine Additional Factors Influencing Subroutine.]
+
+I turned. “What do you think about—”
+
+“Yes!” Nora barked. “Those skills are very important to the future of Speranza!”
+
+I blinked, noting her ferocity. “Right, right, the magic lives on… Schedule the scan as recommended.”
+
+The window faded, and another took its place.
+
+[Alert. Speranza_Current_Ambient_Animus_Quality_Index=327 (Hazardous: Significant Negative Effects Across All Groups)
+
+“Okay, why is this one third in line?” I demanded. “This is what needs our attention the most!”
+
+The window quivered as the others behind it reshuffled themselves.
+
+[Clarification: Priority=Medium. Reboot pending. No further recommendations.]
+
+I narrowed my eyes. “Are you certain? Will simply rebooting NAUGHT magically fix everything?”
+
+A small wheel churned as it considered my question.
+
+[Clarification: One further recommendation. Initiate Level 1 Performance Diagnostic To Determine Scope of Problem.]
+
+How can you assign priority to an action if you don’t know what the problem it's addressing really is?
+
+“And how long will it take?”
+
+[Estimated Time: 2 Minutes]
+
+“Go on then, and step aside for now.”
+
+The next few were relatively benign. Some weren’t even worthy of being marked as alerts; they were just requests for confirmation. While the one window performed a diagnostic, I verified that Malodorus Mustelids were now to be officially referred to as Skreethi.
+
+I wasn't exactly sure how NAUGHT could enforce its use, but I had other things to worry about.
+
+There was also a recurring alert that this version of NAUGHT was unauthorized, but I didn’t have a valid license key to resolve it or any of its twins. After convincing NAUGHT of this, a whole plethora of panes disappeared. Similarly, there was a continuous alert to upgrade to a stable, supported release.
+
+“Yeah, I know, that’s why I’m here!” I shouted in exasperation, startling several windows out of existence.
+
+Once again, I turned to Nora, who had folded her arms in blatant frustration. “You’re being awfully quiet.”
+
+“Do you believe,” she asked slowly, “that Euphridia’s return will be of benefit to Speranza?”
+
+“Ah…”
+
+This again.
+
+“Ah?” she echoed.
+
+“The answer is still no. Of course not.”
+
+Nora blinked. “Then why are you…”
+
+“Going along with all this?” I finished for her. “Nora, we talked about this. We can’t hold her accountable from the outside. We need to be in the same room she’s in to do anything meaningful. And we’ll need help. Clare is still probably the best person—er, God—to appeal to first.”
+
+Nora’s fingers tightened around her staff.
+
+“We’ll go from there,” I continued, “But honestly? My goal is to get Gramps to choose our side. The fact that he poked around here and let Olethros steal a book from him after a bout of drinking…? That tells me if he’s not Earth’s equivalent of Chaos, he’s definitely a divinity who’s comfortable using it as a means to an end.”
+
+I glanced at the window that was running the performance diagnostic.
+
+Two minutes, my ass. Seven minutes in, and the estimated time remaining is 10 minutes and climbing.
+
+Nora gritted her teeth. “Why not ask for another god to be reassigned instead? Someone who would care for all of Speranza, not just whatever they fancy?”
+
+Fighting off a guilty squirm, I turned my eyes to the pulsing blue orb. “I guess… I’m biased. She created me. I want to give her another chance. I also want her to admit she was wrong, to stop hiding her mistakes, to stop being willfully irresponsible. Maybe it is a fool’s errand trying to get her to see reason. But I promise I won’t let her back in charge unless we’ve built checks and balances into the system. That much you can still agree with, right?”
+
+“I…” Nora hesitated, something unreadable flickering in her eyes. “I am not looking forward to her arrival, but I know what we are doing now is necessary for Speranza's stabilization…”
+
+“Just don’t attack her on sight, okay? Plan B is always there for us too, but I really want to try this way first—"
+
+[Performance Diagnostic Complete.]
+
+[Critical Finding: Legacy Purpose Processes are utilizing deprecated energy pathways.]
+
+[Consequence: Pathway feedback generates ambient animus at exponentially increasing rates.]
+
+[Projection: System destabilization inevitable if subroutine persists. Reboot will have no effect on ambient animus reduction strategies while Legacy Purpose Processes remain active.]
+
+[Warning: Subroutine deactivation requires administrative authorization.]
+
+[Alternative Recommendation: Drop Table Purpose to halt dependent subprocess before reboot. Note: Dependent subprocess will throw errors until code can be updated; these can be safely logged and ignored.]
+
+"I don't think I quite understand..."
+
+Nora dropped her staff. “Constraining sentient beings to their Purpose generates an overabundance of animus… Their free will must be in perpetual conflict with their assignment.”
+
+“Well, not for long,” I quipped as she carefully retrieved her equipment. “Recommendation accepted!”
+
+[Purpose Table Successfully Dropped.]
+
+“Hahaha! Brilliant!” Nora crowed, even as the room’s lighting brightened considerably.
+
+“Analyze before you act,” I agreed, quoting my favorite college professor. “Of course, in my case… Maybe I should speed up the first half of that adage.”
+
+Nora waved dismissively. “Proceed. Proceed.”
+
+“You sound like bossy Aina,” I muttered. “Okay, so next—”
+
+Will twitched at my side. I looked down and placed my hand over the serpent’s mark.
+
+Um… Olethros? Everything okay?
+
+As I suspected, there was no response, yet the silence was still unsettling.
+
+“Did something happen?” Nora asked.
+
+“I’m… not sure,” I said slowly. “But—hey, what happened to the windows?”
+
+“They vanished.”
+
+There had only been a few stragglers remaining, and while their disappearance was strange, the rest of the room wasn’t exactly normal either, with parts shifting and phasing without any discernible pattern.
+
+“Alright. I guess it’s time…”
+
+I turned my gaze upon the orb.
+
+“Reboot NAUGHT.”
+
+The core orb flashed and summoned a new blue window before me.
+
+[Administrative Notice: No authorized divine administrator detected on-premises.]
+
+[Reboot cannot proceed without appointment of a Custodian.]
+
+Another prompt scrolled into being:
+
+[Proposed Custodian: Rachel Emily Smith]
+
+“Custodian? Like… caretaker?” My stomach twisted. “In charge of all things Speranza?”
+
+[Clarification: Custodianship grants limited and temporary oversight necessary to complete reboot procedures. Full divine privileges are neither granted nor implied.]
+
+“Oh. That’s… actually a relief.”
+
+New text appeared:
+
+[To authorize reboot, please confirm Custodianship by stating: ‘I, Rachel Emily Smith, accept temporary custodianship.’]
+
+“That’s it? That’s all I have to do?”
+
+[Affirmative. Voiceprint will serve as authorization.]
+
+I gave Nora one final glance. “You’ll make sure I do the right things afterward?”
+
+She clutched her staff, then tapped the tip on the floor. “I promise. You will have no opportunity to do them wrong.”
+
+I think you know me a bit better than that...
+
+“I, Rachel Emily Smith, accept temporary custodianship.”
+
+[Custodianship granted. Initializing Reboot.]
+
+The orb on high began to pulse faster, and bright light filled the room. As I shielded my eyes, Faith rang with a sudden, piercing trill, only for a demonic buzz to join it. I felt something sharp and electrified slam into me from behind, followed by a deep, searing pain ripping across my armored shoulder blades. An arc of iridescence shot through my chest, a steel column intercepting to keep it from reaching the Core.
+
+I tried to gasp, but a gush of blood was the only thing that burst from my lips.
+
+“Ah. You moved,” Relias intoned beside my left ear. “I was aiming for your neck. It would have been kinder.”
+
+Relias?!
+
+Everything seemed to slow down. I tried to turn toward his voice, thinking it was some trickery of illusion, but my body refused to obey. My knees buckled as I lurched forward and collapsed to the ground.
+
+“Your end is fitting,” he continued from somewhere above, calm but with an overcoat of vehemence. “You never could be bothered to follow your Purpose. Suffering is merely the consequence of your own choices.”
+
+He wrenched at Olethros’s scythe, trying to twist the blade to free it from my back. It screeched in defiance with each yank, its blade tearing at the shredded edges of my backplate.
+
+How…
+
+“I will admit something,” he went on as he strained. “At your behest, I did question my Purpose—even before you erased it… and I hated that you were the reason I did so. Yet for a time, I even considered your intended destination favorably. But it would have left me bereft of… certain benefits.”
+
+A long pause followed, the blade no longer moving.
+
+“Then I understood you were more dangerous than I ever realized. Not because of your power as given, but because of your influence. You inspire others and change them. You nearly changed me.”
+
+Selfish… bastard…
+
+Everything was dimming. I tried to summon my aura, but whatever effect it had on me was negligible.
+
+Will… Faith…? Can you do… anything?
+
+“There was a high chance,” he murmured, almost to himself, “that Euphridia would finally look upon me once more, only to weigh my actions against your naïve idealism. To see the lengths I went to, sacrificing the hero in deference to the Order and Control that humanity requires… and yet deem them cruelty. She would not restore my youth. Under your influence, perhaps she would curse me as she cursed Epiales, for absorbing his essence was surely a sin.”
+
+Raedine…?
+
+Relias let out a soft, brittle laugh. “So I must thank you, truly, for freeing me from the constraint of Purpose. I can finally act as I wish. Rest assured, I will continue to guide humanity, in my Name, with my Vision.”
+
+With a growl no human could imitate, he placed a sandaled foot on my back and tore the scythe free in one violent pull, a sickening squelch following.
+
+“I find solace,” he said, almost gently, “in blaming others for the imperfections that abound in this world. Perhaps you’ll do the same, knowing that if Olethros had followed his original Purpose, none of this would be necessary. I was foolish to let him travel with us, to believe he would destroy you the moment Epiales fell.”
+
+There was a howl of anguish, but Relias cleared his throat, which seemed to silence the beast unseen. “Clearly, one can only rely on oneself to finish unpleasant but necessary Tasks.”
+
+Dark blood pooled across the floor as I quivered unintentionally. My fingers twitched along the floor toward my sword, then fell limp.
+
+Olethros…
+
+Nora…
+
+“With my confession spoken, I can now give you a proper farewell.” His voice became soft. “We will not meet again. Neither in this life, nor in whatever comes after for you. I will insist upon this.”
+
+The last thing I saw was his robe trailing dark mist as he moved toward the NAUGHT Core. In his wake, I caught a faint, final odor of brimstone and iron.
+
+No… No!
+
+Complete darkness.
+
+Silence.
+
+Disconnection.
+
+Helplessness.
+
+And then...
+
+Hope.
+
+“You goddamn motherfucking piece of shit!” Nora’s voice shattered across the void, heralding the sound of multiple explosions.
+
+“Nora?! Nora, where are you?!” I shouted from nowhere. “Be careful, he’s dual-wielding animus and amity!”
+
+There was a strong pull, and I felt myself shift across an indeterminate amount of space. I could now see myself, a spirit of pale blue, with black and purple animus crackling like an angry sun in the center of my chest.
+
+So, this is to be my final form…
+
+Corrupted…
+
+A translucent screen appeared, its letters appearing sluggishly one after another.
+
+...//Confirmation. Speranza Subject ID H-F-PO-3500-07-10-0710 updated.
+
+{
+
+"Current_Status": _
+
+The cursor blinked three times, then froze.
+
+Fury filled me.
+
+Even my death wasn’t going right.
+
+“Deceased! Dead! Un-alived! Does it matter what you put? I put my trust in the one person Euphridia said to rely on, only to be literally stabbed in the back!”
+
+I waited, but the text did not advance. I tried punching the screen, but my fist went through it.
+
+“Alright, technically it was a slash that did me in, not a stab. But the outcome is the same. All I ask is that you send me back, just long enough for me to help Nora fight!”
+
+The pane remained still.
+
+“I’m the Custodian, damn it! I need to make things right!”
+
+…
+
+“If that’s… Impossible… Then, then….” I started to cry. “Forward me for final judgment so I can tell Euphridia exactly what I think of her bullshit system, her bullshit Purpose, and every bullshit task that got me killed!”
+
+The window glitched several times, then flashed:
+
+Dear Rachel Emily Smith,
+
+Cooperative Universal Publishing (CUP) has been made aware of a significant workplace injury involving your person. We want to begin by issuing our sincere condolences. We also wish to reiterate our unwavering commitment to fostering a safe, inclusive, and minimally hazardous work environment for all employees, whether salaried or contractual.
+
+As a reminder, per CUP's Occupational Health and Safety Compliance (OHSC) Policy, Section 12b, all significant workplace injuries must be reported in person to Human Resources as soon as possible. This ensures appropriate documentation, timely triage, and, in severe cases, access to advanced care and off-site treatment as needed.
+
+To ensure your compliance with OHSC Policy, a mandatory meeting with HR Director Clare Mercure has been scheduled.
+
+Your transfer will begin momentarily.
+
+Here ends All For Naught, Book IV of The Last Rae of Hope. Please join us for the final book in the series, entitled Light Unbound, where Rae gathers friend and foe alike for her final confrontation.
