@@ -1,0 +1,267 @@
+Thirty years as an engineer taught Barry one rule that never failed: when someone says a place is ready for you, clearly get ready for the opposite.
+
+As the building Odin pointed to was at the bottom of the terraces, jammed between a stone warehouse and a stable choking on vines. They walked closer, and as it started to smell, he could handle the smell of dust and rust, but what haunted him was old dead animal, ammonia, rotted hay, and something else he didn't want to think about.
+
+Thud!
+
+He stepped inside as the floorboards sagged under his boots and kicked up so much dust that the far corner of the room disappeared from his vision.
+
+Are we serious here? He thought. Hey, System. Any chance I can just get transferred somewhere else? Like Olympus? I think rooms could be much cleaner than here...
+
+Nothing.
+
+Fine.
+
+He started listing the problems, because listing them was easier than yelling about them.
+
+Roof: sagging, water-stained, one beam bowed like it wanted to retire.
+
+Floor: Never level, not even plain level. Forget truly leveled. Judging by the joints, one of the slabs holding it is on the verge of collapsing. No chair. No tool rack. No storage.
+
+"There is literally nothing here!"
+
+He walked back out to where Odin and Thor waited, muttering numbers under his breath. Thor's grin slipped.
+
+"What are you doing, mortal?"
+
+"Counting."
+
+"Counting what?"
+
+"Counting the ways this room will kill me before I finish fixing it!"
+
+In the corner he'd found what passed for a toolkit: a hammer, three knives, a set of rusted tongs, a coil of chain, and a cooking pot. Everything under the same gray film as the rest of the place.
+
+"These aren't tools, Lord Odin."
+
+"They are perfectly good tools, engineer."
+
+"No. No. This is a kitchen. You gave me a kitchen!"
+
+"It is a multipurpose building."
+
+Barry had nothing for that.
+
+"Is that the face of a man conceding an argument?" Thor asked, delighted.
+
+"Maybe. How long has this place been empty?"
+
+"We've had builders through before," he replied, dodging the question.
+
+"Huh, I see. Where are they now?"
+
+"Building stuff."
+
+"Inspectors?"
+
+"Inspecting... stuff."
+
+"Maintenance department?"
+
+Thor blinked like the words belonged to a dead language. "Father usually has someone fix things with sorcery. It gets done."
+
+"Of course it does," Barry said, mostly to himself.
+
+He dragged a finger along the bench. It came away gray to the second knuckle.
+
+"Six centuries," Odin said, before the question even finished forming. "Perhaps a little more. Time moves differently for the immortal. You wouldn't follow."
+
+"No, I follow fine. Apparently your buildings just don't age. Lucky them."
+
+Thor laughed and wandered off, unbothered, leaving Barry alone with the dust.
+
+The System, right on cue, had opinions.
+
+[LOCATION ASSESSMENT]
+
+[STRUCTURAL INTEGRITY: 61% — BELOW SAFE OPERATING THRESHOLD]
+
+[WORKSPACE SUITABILITY: 14% OF RATED CAPACITY]
+
+"Finally, something we agree on. But why in all caps."
+
+He rolled his shoulders and got to work, his hands on his head.
+
+"Ummm. Angineer, what are you doing?"
+
+"Telling myself to commit more to this fuckery... so please, with due respect, get the fuck out."
+
+Odin scoffed as he walked away, Thor following behind, murmuring words, maybe trying to console his father because of his rudeness.
+
+Not that Barry cared.
+
+Floor first. It had never been level, and a crooked floor meant every measurement after that would be wrong. He found a stack of pale metal bars behind the building, leftovers from whoever built the place. He wedged the first one under the low corner and swung the old hammer.
+
+Tang!
+
+Tang!
+
+Tang!
+
+...Ting!
+
+A different echo came out. Barry scoffed off the dust as he felt the material.
+
+"That's not iron."
+
+[UNKNOWN MATERIAL DETECTED]
+
+[PRELIMINARY CLASSIFICATION: DIVINE ALLOY]
+
+"Finally, something worth my attention. But again, why is it in all caps?"
+
+He spent the afternoon on it the hard way, one problem after another. Floor first, shimmed and packed until it held under his weight. Then the bench, braced with two of the alloy bars so it stopped rocking every time he leaned on it.
+
+Then the lighting: a cluster of crystals in the ceiling that pulsed on their own, with wiring he had never seen.
+
+He traced the pulse, found the pattern, and retuned them one by one until the room held a steady light instead of a strobe. He even slapped together a crude diagnostic rig out of scavenged tubing, spare wire, and leftover crystals, held together more by stubbornness than engineering, for the time being.
+
+By the time the light through the door went orange, the roof had stopped dripping, the bench sat flat, and the rig in the corner was spinning slowly on its mount.
+
+"Haaa..." he huffed, looking around.
+
+It wasn't his lab. It wasn't the machine that had taken him thirty years and nine accelerators to build. And even though it was rock and stone, it was his, rock and stone.
+
+[WORKSHOP ESTABLISHED: 43% FUNCTIONALITY]
+
+[NEW OBJECTIVE AVAILABLE]
+
+"Wait... No."
+
+[NEW OBJECTIVE AVAILABLE]
+
+"I just finished..."
+
+[OBJECTIVE: ASSESS MIDGARD WARD BRIDGE — PRIORITY: HIGH]
+
+"Piss off!"
+
+Thor picked that exact moment to duck through the doorway, a slab of roasted meat over one arm. "I haven't even entered, and I hear curses, aaa, I knew it, You've hated me since the moment we met,"
+
+"Wasn't talking to you." Barry looked him over. "Also, shouldn't you be bigger? You were ten feet tall on the bridge."
+
+Thor grinned and ignored the question, wandering over to inspect the room. "This looks much improved. It no longer smells of goats and piss now." He tore off a piece of meat and held the rest out. "Eat. You've worked all day, it seems."
+
+"Yeah... Thanks. I guess."
+
+Thor chewed, then followed Barry's gaze toward the Bifrost.
+
+"You're still on about that."
+
+"Its vibration's wrong. That doesn't fix itself, you know."
+
+Thor's grin faded a notch. "I hear you. I really do, if I'm honest. Father disagrees, and this is his universe, and he's... well. King."
+
+"Of course he is."
+
+"You should tell him yourself. He might actually listen to you."
+
+"You think...?"
+
+"Angineer, you are still alive and breathing, even after the words you spoke."
+
+"Ha! Let's go, then. I'd rather not fix it after it's already killed someone."
+
+***
+
+Odin was easier to find than the maintenance department. He sat in one of the upper halls with a handful of warriors posted around the throne, and he was already in a bad mood before Barry opened his mouth.
+
+"All-Father." Thor bowed. "We seek audience."
+
+Odin's eye moved past his son, straight to the human with dust still on his sleeves.
+
+"Your new Bifrost platform is going to fail," Barry said. "We need clearance and permission to fix it."
+
+A warrior near the wall shifted his weight and looked at the floor while Odin folded his arms.
+
+"That bridge has stood for eons."
+
+"Gravity's held longer, and it still kills people who forget it's there. It's the same principle, my king."
+
+Thor made a strangled sound, and with one glare from Odin, he suddenly found the wall very interesting.
+
+"You have been in Asgard less than a day, and you speak as though you understand its power, its foundations, everything my people have built across an age you cannot conceive of. Listen, human, Strange vibrations are not always catastrophe. Some are simply strange and beyond your understanding."
+
+"This one isn't. And you know it, because your son's told you the same thing for centuries and you've ignored him every time. I'm not asking you to trust me. I'm telling you what a stress fracture sounds like before it becomes a collapse. You can check it yourself with whatever you've got instead of instruments."
+
+Something flickered behind Odin's eye and it wasn't amusement this time. For half a second the composure slipped, and underneath it Barry saw a man being told, in front of his own guard, that he'd been wrong for four hundred years and everyone around him had known it.
+
+Then it closed again.
+
+"You forget your place, mortal." Odin's voice dropped, quiet, which was much worse. "You were brought here for your mind, not your mouth. Test that bridge if you must. But bring me proof, not this noise... and if you're wrong, you'll wish the summoning had killed you instead of the fall."
+
+It wasn't a yes. It wasn't a no either. It was permission wrapped around a threat, and Barry understood that was the only kind of yes he was going to get from a king who couldn't afford to say "you were right" out loud.
+
+He turned to go.
+
+"Barry," he said at the doorframe, not looking back. "My name. Since nobody's bothered to ask."
+
+Silence behind him.
+
+"I thought your name was Anginaar," Thor murmured, catching up.
+
+They left at first light. Thor bowed to his father on the way out. Barry didn't.
+
+***
+
+The oscillation bothered him the whole walk across the bridge. The material shouldn't have been able to hold a frequency that steady without something underneath already cracking.
+
+"Barry." Thor kept pace beside him. "How do you know all this? About the Bifrost, about Aesir magic. You've been here just for a day."
+
+Barry smiled.
+
+"Energy can neither be destroyed nor be created. That's the whole trick." Barry didn't look over. "It doesn't vanish. It just changes shape. Like your father, for example. Your father traded an eye for wisdom, same principle, different currency.
+
+Your hammer, this bridge, whatever the Bifrost actually is under the light show, it all runs on the same law. I don't need centuries here. I just need the law. Which has been here since the birth of the universe."
+
+"Oh..."
+
+As they walked, by midday the outer ward over Midgard came into view, a pale blue dome, like Earth came into view.
+
+He paused for a second, thinking if that was his Earth, but dismissed that thought. His focus went back to the issue.
+
+He touched the crystals once more. This wasn't old and worn. This was built wrong from the start, rushed, patched, held together by people who didn't understand what they were patching.
+
+He stopped again as Thor walked another ten feet before noticing.
+
+"Barry?"
+
+[CRISIS CONFIRMED: BRIDGE INSTABILITY 17.4%]
+
+Barry crouched, palm flat on the crystal, and felt the number climb under his hand before the System even caught up.
+
+"It's failing right now, even faster than usual..." He looked up, past Thor, to the hammer resting on his shoulder. "Does that thing carry Bifrost-like energy?"
+
+"Aye! Carries me across all nine realms. Hence the name, Mjolnir."
+
+"Haaa...It's a field generator, you dumb idiot. " Barry stood slowly, doing the math out loud so he wouldn't miss a step.
+
+"Every discharge gets absorbed into the boundary and redistributed through the lattice underneath us. That lattice was built for foot traffic and light cargo. It was never rated for a hammer that channels raw Bifrost current straight into it."
+
+[BRIDGE INSTABILITY: 23.5% — RISING]
+
+The number moved while he watched it.
+
+"Thor. Don't swing that thing anywhere near this floor."
+
+"Barry, I know you've little love for me, but even you must admit—"
+
+He didn't finish. A black shape shot off the stone beside him, aimed at the back of Thor's leg, piercing him and his hand opened on reflex as Mjolnir dropped.
+
+"No!" Barry lunged, too far away to catch the hammer.
+
+Cling!
+
+The hammer's head touched the crystal path.
+
+For one full second, nothing happened. Barry had just enough time to think maybe—
+
+Then the ground answered back.
+
+"Shit, not again..."
+
+BOOM.
+
+The shockwave came up through the floor first, then out. Blue light tore along the boundary in every direction at once and threw Thor and Barry backward into the stone.
+
+[BRIDGE STABILITY: 0%]

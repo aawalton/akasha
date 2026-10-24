@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
+
+export const vaingloryLitrpgProgressionFantasy000421Secrets = {
+  id: "01a16b9a-6981-7674-97af-770de738c725",
+  type: "page-type/story-chapter-read",
+  slug: "vainglory-litrpg-progression-fantasy-0004-21-secrets",
+  position: 4,
+  publishedAt: "2024-11-22",
+  unit: "unit/words",
+  title: "2.1 Secrets",
+  story: "story-read/vainglory-litrpg-progression-fantasy",
+  ownLength: 3311,
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1917723",
+      externalLink:
+        "https://www.royalroad.com/fiction/92631/vainglory-litrpg-progression-fantasy/chapter/1917723/21-secrets",
+    },
+  ],
+  createdAt: "2026-10-24T01:50:44.094Z",
+  updatedAt: "2026-10-24T01:50:44.094Z",
+} as const satisfies StoryChapterRead
