@@ -6,6 +6,7 @@ export const slate = {
   slug: "slate",
   title: "Slate",
   hex: "#2e2e2e",
+  lightHex: "#e1e1e1",
   createdAt: "2026-09-08T17:45:24.731Z",
-  updatedAt: "2026-09-15T16:20:08.000Z",
+  updatedAt: "2026-10-24T19:47:07.131Z",
 } as const satisfies Color

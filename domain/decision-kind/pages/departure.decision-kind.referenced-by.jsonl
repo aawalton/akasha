@@ -2697,6 +2697,7 @@
 {"propertySlug":"decision-kind","path":"design/interface/badge/modules/date-badge/date-badge.module.ts","id":"01a05b55-a539-773f-8b28-749123c7df39"}
 {"propertySlug":"decision-kind","path":"design/interface/badge/modules/url-badge/url-badge.module.ts","id":"01a05b55-a539-7bc7-91a9-d5b91de4f605"}
 {"propertySlug":"decision-kind","path":"design/interface/color/color.page-type.ts","id":"01a06575-c2a9-766f-8f09-da30cc969637"}
+{"propertySlug":"decision-kind","path":"design/interface/color/properties/light-hex.text-property.ts","id":"01a16f73-defc-78ba-807a-64f3044232e9"}
 {"propertySlug":"decision-kind","path":"design/interface/design-interface.domain.ts","id":"01a08d8d-8ba8-7079-a696-0ed96689e240"}
 {"propertySlug":"decision-kind","path":"design/interface/layout/modules/app-shell-sidebar/app-shell-sidebar.module.ts","id":"01a05b82-8b98-7341-a3de-18953237e37f"}
 {"propertySlug":"decision-kind","path":"design/interface/layout/modules/nav-active/nav-active.module.ts","id":"01a05b82-8b9a-745f-97df-0cda03922d9c"}

@@ -257,6 +257,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"design/game/drive/properties/octalysis-definition.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"design/game/drive/properties/octalysis-name.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"design/interface/color/properties/hex.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"design/interface/color/properties/light-hex.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"design/language/lua-compiler/lualib-helper/properties/lua-export.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"design/language/lua-compiler/lualib-helper/properties/lua-feature.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"domain/finding/properties/claim.text-property.ts","typed":true,"deferred":false}

@@ -10,10 +10,11 @@ export const color = {
     { partOfSpeech: "part-of-speech/noun", spelling: "colors" },
   ],
   extends: ["page-type/page"],
-  parts: ["text-property/hex"],
+  parts: ["text-property/hex", "text-property/light-hex"],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "text-property/hex", required: false, many: false },
+    { pageProperty: "text-property/light-hex", required: false, many: false },
   ],
   decisions: [
     {
@@ -48,5 +49,5 @@ export const color = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-03T04:10:11.497Z",
-  updatedAt: "2026-09-22T13:55:14.000Z",
+  updatedAt: "2026-10-24T19:47:07.131Z",
 } as const satisfies PageType

@@ -6,6 +6,7 @@ export const ash = {
   slug: "ash",
   title: "Ash",
   hex: "#3a3a3a",
+  lightHex: "#d6d6d6",
   createdAt: "2026-09-08T17:45:29.370Z",
-  updatedAt: "2026-09-15T16:20:08.000Z",
+  updatedAt: "2026-10-24T19:47:07.131Z",
 } as const satisfies Color

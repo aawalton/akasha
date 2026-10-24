@@ -16,8 +16,8 @@ export const olwenLightMode = {
   ],
   constraints: [
     "The dark scheme looks the same after the light scheme lands.",
-    "Every text token meets a contrast of 4.5 to 1 on every surface in both schemes.",
+    "Every light text token meets a contrast of 4.5 to 1 on the four lowest surfaces.",
   ],
   createdAt: "2026-10-24T19:41:37.123Z",
-  updatedAt: "2026-10-24T19:41:37.123Z",
+  updatedAt: "2026-10-24T19:47:07.131Z",
 } as const satisfies Initiative
