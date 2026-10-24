@@ -216,6 +216,19 @@ export function changeUncommitted(
   })
 }
 
+export function claimUncommitted(root: string, page: string, key: string, value: string): boolean {
+  const at = besideOr(page)
+  const full = join(root, at)
+  return exclusively(full, () => {
+    if (!existsSync(join(root, page))) return false
+    const held = valuesIn(full, at)
+    const claimed = held?.[key]
+    if (claimed !== undefined && claimed !== null) return false
+    writtenAt(full, page, { ...(held ?? {}), [key]: value })
+    return true
+  })
+}
+
 export function dropUncommitted(root: string, page: string, keys: readonly string[]): undefined {
   const at = uncommittedAt(page)
   if (at === null) return

@@ -171,7 +171,16 @@ export const pageUncommitted = {
       statement:
         "A change is handed the values already there and answers the values to write, inside the lock.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A claim writes its key only where the page is there and the key holds nothing, inside the lock.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Of claims racing over one key, exactly one is answered true.",
+    },
   ],
   createdAt: "2026-08-30T00:27:08.350Z",
-  updatedAt: "2026-09-28T03:06:13.000Z",
+  updatedAt: "2026-10-24T22:52:23.097Z",
 } as const satisfies Module

@@ -13,6 +13,7 @@ import { headOf } from "akasha/git/modules/head-commit/head-commit.module.code.t
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import {
+  claimUncommitted,
   mergeUncommitted,
   removeUncommitted,
   uncommittedIn,
@@ -99,12 +100,8 @@ export function claimedBefore(to: string, beforeMs: number): readonly Message[] 
 }
 
 export function claimMessage(to: string, id: string, atMs: number = Date.now()): boolean {
-  const root = akashaRoot()
-  const relPath = messageRelPath(to, id)
-  if (!existsSync(`${root}/${relPath}`)) return false
-  if (msOf(uncommittedIn(root, relPath)?.[CLAIMED_AT_KEY]) !== null) return false
-  mergeUncommitted(root, relPath, { [CLAIMED_AT_KEY]: new Date(atMs).toISOString() })
-  return true
+  const at = new Date(atMs).toISOString()
+  return claimUncommitted(akashaRoot(), messageRelPath(to, id), CLAIMED_AT_KEY, at)
 }
 
 export function markInjected(to: string, id: string, atMs: number = Date.now()): boolean {

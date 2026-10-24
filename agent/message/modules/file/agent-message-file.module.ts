@@ -76,6 +76,11 @@ export const agentMessageFile = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A claim is looked for and written inside the lock on the file beside the message.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A claimed message is marked beside itself once its recipient's transcript is seen holding it.",
     },
     {
@@ -88,5 +93,5 @@ export const agentMessageFile = {
     },
   ],
   createdAt: "2026-09-04T01:20:07.113Z",
-  updatedAt: "2026-09-25T18:01:35.000Z",
+  updatedAt: "2026-10-24T22:52:23.097Z",
 } as const satisfies Module

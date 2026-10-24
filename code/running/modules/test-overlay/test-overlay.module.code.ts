@@ -123,7 +123,7 @@ function modeUnder(root: string, one: string): number | null {
 }
 
 function sweptAt(held: string): undefined {
-  ran([...OWN, "rm", "-rf", held])
+  ran([...OWN, "rm", "-rf", held], { cwd: HOLD })
   rmSync(held, { recursive: true, force: true })
 }
 

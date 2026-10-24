@@ -129,6 +129,10 @@ export const testOverlay = {
       statement: "A sweep takes that folder away from inside a user namespace of its own.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A sweep runs in `/var/tmp`, so a caller whose folder went still sweeps.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes to the checkout.",
     },
@@ -159,5 +163,5 @@ export const testOverlay = {
     },
   ],
   createdAt: "2026-09-08T16:32:14.716Z",
-  updatedAt: "2026-09-25T16:49:41.000Z",
+  updatedAt: "2026-10-24T22:52:23.097Z",
 } as const satisfies Module
