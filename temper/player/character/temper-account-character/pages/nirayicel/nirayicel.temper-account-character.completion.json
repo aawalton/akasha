@@ -7497,6 +7497,7 @@
     6130,
     6132,
     6134,
+    6142,
     6171,
     6172,
     6181,
@@ -11431,7 +11432,8 @@
       "1": [
         1,
         2,
-        3
+        3,
+        4
       ],
       "2": [
         1,
@@ -14180,13 +14182,13 @@
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792869702,
+      "capturedAt": 1792871164,
       "buildHash": "ATQOLMUCgHZhxRNCyJtAEIBCyJtAEIBC5gtuULJC5gtuULJC5gtuULJC5gtuULJC5gtuULIQlKtuULJBHb1AEIAQQbtuULImJTHbcoWURBMdbcoWVu4sGXp9K_KyM7yW7rQGnEEA3ddEoG-3AQNgIk4dcnwfAdoWPbia4XTbKyMEI911WUdTaccICU0IiMiAAMzICIiIyIgIyI1IiIgAjIjNCIAIiQgMiJAMARDIiIwOiMjQgOgIiImQzMjQgAAA4IiAiIkozBCIiIjAjoAAAVTUixJwyseTLLmTZ2fRp1a9s-hRpU6niqAAAABs8fXL0DFkhaImyN07SJUyd-oUwVUJXHWAAAAAbAlSwIwDCBQxk0HECTZwULGDRw8gRJHSYfBAZBxiQNYAAAAAAA",
       "esoVersion": "eso.live.12.1.6.3309674",
       "inCombat": false,
-      "ultimate": 10,
-      "health": 24546,
-      "healthBefore": 22993,
+      "ultimate": 47,
+      "health": 10776,
+      "healthBefore": 13554,
       "healthPaired": false,
       "stats": {
         "power-spell": 4285,
@@ -14231,17 +14233,6 @@
           "stacks": 0
         },
         {
-          "abilityId": 135402,
-          "name": "Vampire Stage 4",
-          "description": "",
-          "effect": "You are completely corrupted from the influence of Vampirism.\n\nHealth Recovery: -100%\nFlame Damage Taken: +20%\nRegular Ability Costs: +12%\nVampire Ability Costs: -24%\n",
-          "stacks": 0,
-          "powerAtOnset": {
-            "weapon": 4285,
-            "spell": 4285
-          }
-        },
-        {
           "abilityId": 63569,
           "name": "Gallop",
           "description": "",
@@ -14275,6 +14266,17 @@
           "description": "",
           "effect": "Increases your Weapon and Spell Damage by |cffffff20|r%.\n",
           "stacks": 0
+        },
+        {
+          "abilityId": 135402,
+          "name": "Vampire Stage 4",
+          "description": "",
+          "effect": "You are completely corrupted from the influence of Vampirism.\n\nHealth Recovery: -100%\nFlame Damage Taken: +20%\nRegular Ability Costs: +12%\nVampire Ability Costs: -24%\n",
+          "stacks": 0,
+          "powerAtOnset": {
+            "weapon": 4285,
+            "spell": 4285
+          }
         }
       ],
       "pets": [],
@@ -14843,7 +14845,7 @@
       "worn": [
         {
           "slot": 0,
-          "link": "|H0:item:128340:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:67:0:1:0:9650:0|h|h",
+          "link": "|H0:item:128340:364:50:0:0:0:18:25:0:0:0:0:0:0:2049:67:0:1:0:9450:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 1823,
@@ -15673,7 +15675,7 @@
         {
           "abilityId": 33090,
           "name": "Undeath",
-          "description": "Reduces your damage taken by up to |cffffff15|r% based on your missing Health.\n\nCurrent bonus: |cffffff1|r%"
+          "description": "Reduces your damage taken by up to |cffffff15|r% based on your missing Health.\n\nCurrent bonus: |cffffff10|r%"
         },
         {
           "abilityId": 33091,
