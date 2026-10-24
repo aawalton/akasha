@@ -1,0 +1,103 @@
+{Loading…}
+
+{Loaded.}
+
+[>>Now replaying: Log 3.47 - loss of life and limb]
+
+Date: Error
+
+Location: The Bunker at Progress’ Head // Zephyro’s Domain
+
+//Dearly beloved,//
+
+//What changes in life is not necessarily gaining, but losing something. As we grow older, we realize the fleeting brutality of life, and that everything we hold dear, be it our money, our friends, even our limbs, and our very lives, are fleeting. And so, we change our perspective and become calmer. At least, most of the time. There are those who would instead rail against fate, toss away everything in a futile attempt to(%&/&%$&//
+
+[>>DATA CORRUPTED]
+
+A Conservationist…
+
+Fuck me.
+
+I’d silently hoped they were all dead. And now one of them was standing in my most secret hideout. It didn’t make sense, though. Why were the Shackled attacking her? I clearly was missing a lot of information.
+
+I stood there, fingers tensing around Pharus. As the Shackled collapsed to the floor, it revealed the girl had paid dearly for her success. She had slumped against the wall. Blood covered her arm, streaming from a wide gash that ran from her elbow to her shoulder. Panting, she winced as she tried to wipe the sweat from her face and some of it landed in her open wound.
+
+Her eyes flicked across the room, towards where Tin and Voni had left my field of view. I could still hear them. Tin was crying as he scrambled backward. Voni was cursing as something mechanical made broken sounds.
+
+“No, no, no, not now!” the older girl yelled, distressed.
+
+“I fucking told her…” Pina muttered from between clenched teeth, “Can’t rely on the Godsdamned witchwork.”
+
+A second later, Voni screamed in agony.
+
+“Son of a Feral!” Pina snarled, redoubling her struggle to get to her feet, eyes fixed on the laptop. “Voni, hold on! Ugh…”
+
+As she pressed her back to the wall and pushed herself upright, a small, scared, helpless part of me wanted nothing more than to hold her down. Make sure she’d never get up again. My eyes flicked to her baton as she used it like a crutch. It crackled with Witchfire, hungry for my Wish, for Logic.
+
+In the war, these weapons had been incredibly rare, and only the highest nobility had been able to afford them. They had been a bitch to engineer around, too, which made it especially frustrating to spend weeks on reworks. Thousands of suits of armor, many more guns and power swords, entire defensive embankments, everything all had to be redesigned because a handful of people put goddamn magic scribbles on their weapons.
+
+Intel suggested that not even the Conservationists understood how they worked either. They’d just slapped runes on entire armories worth of weapons, pumped their respective national mana reserves dry to douse them with the stuff, and hoped for the best. Unfortunately, they’d gotten lucky often enough to completely fuck us over.
+
+The war changed after that, even after we managed to engineer around the problem. Simple power armor hadn’t been good enough anymore, as Lorelye had found out. She’d found that incredibly funny, even as blood seeped between her teeth.
+
+I blinked the memories of her frenetic laughter away and focused on the here and now. I had no idea how this kid had gotten a Hexbreaker weapon, but now I needed to be twice as careful to keep on her good side if she even gave me a chance. It didn’t seem that way, judging by her body language.
+
+Zephyro’s Domain glitched into existence around me, low-resolution textures plastered everywhere my camera’s field of view didn’t extend. Several were missing entirely, just showing checkered, purple-and-black surfaces.
+
+I turned, trying to find the enemy that was threatening Tin and possibly Voni. If I could kill it, maybe I’d stop Pina from enacting her murderous plan. But the world, all pixelated textures and broken skins, was eerily empty outside that little cone of Real that Cura projected onto the Domain.
+
+Pina cursed again, drawing my attention back to her. The baton had slipped from her blood-stained fingers, its purple fires dying down. I was so tempted to just stomp on it. These things were incredibly easy to break if you knew the trick. But that would leave her defenseless, and even if I somehow managed to convince her to kill the Shackled and not me, she’d need her weapon to have a chance.
+
+So instead I knelt to pick it up, only for my fingers to pass right through it. I tried again, and still, nothing. Because it wasn’t part of the fucking Domain, I realized belatedly.
+
+As I idly wondered if this was what being a ghost felt like, my anger twitched, its energy running through my veins unbidden in its quest to banish my fear. I closed my eyes, struggling to hold that furious fire down. This was not the time. I had to think. These kids could either be my ticket out of here or my doom. I just needed to prove that I was useful to them, somehow, without revealing who I was.
+
+But how? Obviously, the laptop camera couldn’t see what was going on in the Real, but for a reason I still understand, that also blinded me in the Domain. Something about sensors and physical location, Zephyro had suggested? But how would that work? The Shackled were all Artificial bits of intelligence riding machine bodies, weren’t they? Shouldn’t I be able to see them no matter how the Domain was rendered around me? Also, if my fingers passed through the damn baton, why were walls still a thing? Hell, why was distance? Zephyro was a literal cannon! He couldn’t move in the real world in the first place, so why did he have to pretend to walk in here? He should just teleport! It made no sense at all.
+
+My frown deepened. None of these questions would help me right now. Fact was: I couldn’t act until someone turned my camera towards the remaining Shackled, and I couldn’t do that myself. At least my microphones were working well enough. I could hear Voni whimpering, and Tin struggling with the machine. I heard metal feet clanging up the corridor, and judging by the way she threw worried glances at the door as she strained to grab the Baton with her hale arm, so could Pina.
+
+I gritted my teeth.
+
+I needed to act.
+
+If I managed to defeat the Shackled that threatened the other two kids, perhaps I could somehow get them to close the door and sit tight until I was done with the download. But for that, I needed to see the damn thing.
+
+Focusing on Cura, on seeing, and carrying my burdens, I inhaled.
+
+{AVAILABLE LOGIC - 2746 LB}
+
+{[Cura - An Awareness of Burdens] V1-2: REQUIRES 600 LB}
+
+[You are trying to 4d\/an)e Cura.exe to version (V1-2)!
+
+Doing so will require {600 LB} and most likely result in [Higher Resolution]!
+
+A subsequent update will require {900 LB} and most likely result in [UNKNOWN]!
+
+Do you want to proceed?]
+
+[Y/N]
+
+Once again, memOS provided a service I could have used hours ago. It was just unfortunate the information it gave me did not bode well. I didn’t need a better resolution, I needed a wider cone of view! Of course, I could gamble all my Logic on upgrading Cura, until I got the right one, but what if that never happened? Besides, using Logic like that would probably announce my presence to the lone Shackled. That didn’t matter if it was just one machine I could it right after, but what if they were connected?
+
+“Fuck,” I spat.
+
+“Fuck,” Pina spat. I grinned at her, my concern momentarily buried under amusement at our synchronous outburst.
+
+Perhaps I didn’t need to advance Cura.
+
+I couldn’t turn my laptop myself, but there was someone who could.
+
+“You better not fucking kill me for this, little Conservationist,” I mumbled. Then I flashed my screen as brightly as I could.
+
+Pina looked up, concern and anger mixing on her young face. “I knew it was calling them. I knew it! Frying Witchwork!”
+
+She redoubled her efforts to get up, her reclaimed baton glowing purple in her bloody hand. “Knew we should have destroyed it from the… start.” She wheezed, eyes glassy from exhaustion.
+
+“Oh, how can you be so goddamn dense?” I yelled, even though I knew she could not hear me. I was trying to help her, for fuck’s sake. But she was just a child, and her friends were in danger, and I didn’t know if I would have reacted differently if I had been in her shoes. Especially not with the amount of blood she’d already lost.
+
+Pina finally got up, took a first stumbling step forward. I remembered what injuries like that felt like. As the oxygen leaves your brain and gets replaced with pure adrenaline, you start thinking about crazy shit in order to stay alive. I needed to find a way past her exhaustion, and since screaming at her did precisely nothing, only one other way came to mind.
+
+I needed to drop the act of being Shackled.
+
+The shock might just get through…

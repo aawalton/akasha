@@ -1,0 +1,133 @@
+{Loading…}
+
+{Loaded.}
+
+[>>Now replaying: Log 3.34 - Worrying, Waiting, Wishing.]
+
+Date: Error
+
+Location: The Bunker at Progress’ Head // Zephyro’s Domain
+
+//I just worry, Sam. I worry that one day, we will wake up, and nothing will be left of what we’ve built. All these people… They trust us, you know? They trust you.//
+
+//Do you believe in superstition?/&%//
+
+[>>DATA CORRUPTED]
+
+E1 %Not as long as we stay where it says we should.%
+
+The healer with the wings of ash flew past me, reaching him shortly before I did. I was terrified by how quickly the Old Guard’s numbers were dwindling, but with each disconnect, more of my CPU got freed up. The difference was small, but noticeable. While I wasn’t able to keep up with many of the Old Guard, I had definitely been able to hold my own in the fight, which was a comforting thought. Especially given that the way things were going, I’d be alone again, soon.
+
+Something ugly and vile cramped in my chest at the thought, and I took a few calming breaths as I reached Zephyro, steadying him as the healer worked. I wasn’t alone. I had Chris. I had Zephyro. I had the Old Guard. They were just sleeping until I could free them.
+
+It would be fine.
+
+I looked over my shoulder when I heard metal crashing against metal and found the Shackled had begun emerging from the ruined Feral In earnest. Within seconds, the entire remnant of the Old Guard was engaged in battle.
+
+“How long until he’s back in fighting shape?” I asked the healer. She had put both her hands on Zephyro’s shoulders grimacing because of the strain.
+
+“I don’t know. His health is massive. Whenever I think he’s fully healed, I find another few bars I need to fix up. It’s almost as if he’s… ah fuck!”
+
+She pulled her hand away from Zephyro to scratch at her temple violently. She grimaced, shook her head, cursed. A heartbeat later, red veins began crisscrossing her face.
+
+“Shit, I’m sorry,” she said, and vanished.
+
+[User Rubyrinth_Healer has disconnected.]
+
+{CPU Load: ▼ 52%}
+
+{Core Temp: ▼ 73° C}
+
+I cursed, rushing forward to help Zephyro stand, but he waved me off. His wounds had finally closed, but it was clear he was just a shell of what he had been before. He looked a lot like my dad had, when he was in chemo. As if in the span of days, he’d lost both several kilograms and the unwavering quality to his resolve.
+
+“I must offer another thousand apologies, Sultana, but what you are doing is foolish. We must retreat. You must be safe. You must take the throne and reign.”
+
+“Not if it means losing an important part of myself,” I said. “Believe me, I tried that, and it didn’t work out so well.”
+
+He chuckled weakly. “Then let us hurry.”
+
+“Retreat!” I yelled again, and the Old Guard formed a cohesive formation. We fell back, covering each other with quick jabs, bullets and magic. Zephyro and I started running in parallel. Worryingly, I noticed the Vizier did not need to slow himself down for me anymore.
+
+At the front, the werewolf with the fiery electric scooter collapsed. He grunted as red cubes rushed over his form. “Verdomme. Nu moet ik ook de hele vloer opnieuw doen.”
+
+[User Flaming_Ladder has disconnected.]
+
+{CPU Load: ▼ 50%}
+
+{Core Temp: ▼ 73° C}
+
+I winced. I had no idea what he was saying, or who he was, but he had been integral to our strategy, denying the Shackled access to the center of our formation with wide, sweeping strikes with his Ladder. Now that he was gone, the center could not hold, and our retreat became frantic.
+
+“Disconnect if you must!” I yelled. “We got it!” Zephyro and I were almost to the gates, but I realized with a shock that the small sally port had been buried under a pile of rubble. Looked like an entire house had been blasted against it, then collapsed over it.
+
+“Fuck!” I spat.
+
+“Indeed, Sultana,” Zephyro said, breathing hard. “I will open the gate. The Old Guard… you must hold the line! Just a few… moments.”
+
+I nodded. Behind us, the remnants of the Old Guard had formed a small circle. While they were all armed and ready, we were severely lacking front-line fighters. So I made sure Pharus’ head was securely fastened to the hilt, and pushed through our ranks at the center of our formation.
+
+“You heard the man! Hold!” I yelled.
+
+No cheer followed, but I hadn’t expected to hear one. I was too focused on what needed to be done.
+
+A rumble shook the ground as the giant gates started to open at a glacial pace.
+
+The moment I joined the ranks, I had to thrust up Pharus, blocking an abstract grey weapon that might have been a sword or an iron rod. I tried to study the Shackled’s face to see where it would strike next, but its featureless polygon face left me without any idea of its intention.
+
+When it struck next, it was all I could do to slap its weapon away with the hilt of my own, then flare its flames and bring them down on its arm. It didn’t react as the fire spread across its body, didn’t even make a whisper of a sound. Just its movements slowed down a little, making it easier for me to hold my ground.
+
+After a horizontal swing that sent it ducking, I slammed my knee into its chin, staggering the red figure. Perfect. Time to press our advantage, create some space, and mark a second one.
+
+I had just kicked it in the chest and sent it stumbling back when a crackle and short scream from behind me told me we’d just lost another company member.
+
+[User PrincessDonutMemorialTurret has disconnected.]
+
+{CPU Load: ▼ 47%}
+
+{Core Temp: 74° C}
+
+Without a word, the Shackled immediately reorganized and increased their pressure on our flanks. And there went our upper hand.
+
+Back to fucking square one.
+
+The minutes that followed were much of the same. Our hope grew, then crumbled like a sandcastle after the tide comes rolling in.
+
+I blocked, I made counterattacks, I marked Shackled wherever I could, but we never managed to kill another one. They were just too well coordinated, and we were too few.
+
+After a while, I noticed a new sort of Shackled carrying crude objects shaped like primitive guns. They fired black bullets trailing red light, slow and easy to dodge, but they added another chaotic element to an already unstable mix.
+
+And so it was only a matter of time before one of us got hit, his chest exploding in a shower of orange-red shards of polygons. For a second I thought he’d died, but he used some leftover Logic to pull himself back together. It didn’t help against the red corruption, though. If anything, it made it progress even faster. He cursed, then vanished before the Shackle could spread over his body.
+
+One Old Guard disconnected after the other, taking more and more of our collective strength with them. Sure, my own strength grew exponentially with each connection I didn’t have to support, but it just wasn’t enough to level the playing field.
+
+The pressure on the remaining members rose slowly but steadily, and it was just a matter of time until the first one died from exposure. But there was nothing we could do about it. There were no reinforcements incoming, nowhere to retreat to. Not until the door was open wide enough for Zephyro and I to slip through.
+
+Seconds stretched into minutes. But when you fight like we were, you learn to treasure each second you are alive as if it is a lifetime in itself.
+
+So it was thousands of lifetimes later when I finally heard Zephyro give the all-clear.
+
+“It is done! Quickly, Sultana!”
+
+I was more accustomed to handling retreats than I had ever wished to be, and deciding which unit fell back first was the always worst part of the job. At least Zephyro had already sidled in. Wounded as he was, I was glad he could run back to his people to get some treatment. They always seemed to give him strength.
+
+My mind raced as I tried to decide who would retreat first—the frontline fighters to my sides, or the ranged support—when the crow landed on my shoulder again.
+
+“Hey, numbnuts. Get your ass inside,” it cawed.
+
+“But the others…”
+
+“…Can just disconnect. Stop being so dense!”
+
+I winced. A part of me still wasn’t used to how things worked in this world, and probably never would be. I was no stranger to magic, obviously, but whatever was going on here was not magic, it was code.
+
+“Thanks, crow,” I said, smiling as the cruel duty of deciding over who lived and died was taken from my shoulders.
+
+“You can still fuck right off, though,” I added, with a smile turned smirk.
+
+The crow stared at me, squinted, then disconnected with a loud “Caw!” straight into my face.
+
+[User cl1ent has disconnected.]
+
+{CPU Load: ▼ 38%}
+
+{Core Temp: ▲ 79° C}

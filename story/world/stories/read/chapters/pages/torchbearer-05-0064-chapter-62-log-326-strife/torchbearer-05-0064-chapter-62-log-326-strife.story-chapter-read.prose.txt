@@ -1,0 +1,299 @@
+{Loading…}
+
+{Loaded.}
+
+[>>Now replaying: Log 3.26 - Nexus.]
+
+Date: Error
+
+Location: The Bunker at Progress’ Head // Zephyro’s Domain
+
+//Come to me, all you who are weary and burdened, and I will give you rest. Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls. For my yoke is easy and my burden is light.//
+
+//Don’t you know Strife won’t stop the bleeding, or take away any of the pain?//
+
+//All you know is struggle, and it-%=!_//
+
+[>>DATA CORRUPTED]
+
+E3 %Saintech? What’s that?”
+
+{AVAILABLE LOGIC - 970 LB}
+
+The moon flashed again, the pauses between each flicker of white longer now. Not long and it would be completely red. I was surprised it had held this long, anyhow. If Zephyro hadn’t kept propping it up, it probably would have died off half an hour ago, and taken its light with it.
+
+I remembered how strong I’d felt with it shining at its brightest, after I had advanced my—
+
+{AVAILABLE LOGIC - 970 LB}
+
+God, I was so dumb. No! Self-flagellation later.
+
+Needed to act now.
+
+Just make a Wish.
+
+Any Wish.
+
+It was such an innocent problem, such an easy decision to make.
+
+Pharus’ flames roared quietly in an unfelt breeze, and my anger urged me to advance it. Make myself stronger.
+
+But the crow was right. I couldn’t do this alone. Fortunately, I didn’t have to.
+
+That being said, even with Zephyro and the Old Guard awake and fully empowered, we had struggled to even touch the massive Feral. If we wanted to win, I needed to make this upgrade count.
+
+I only had one shot at this. I frantically racked my brain for all the times the moon had filled back up and found one constant. The truer my Wish, the more the Logic rejuvenated those around me.
+
+So I paused to consider. Standing around while people trying to help me writhed in agony stabbed my heart with guilt and made my anger roar. Putting every fiber of my will against it, I managed to hold it back. I couldn’t rush this. I only had one chance.
+
+{SAINTECH Beta 2 2400X 2-Core Processor: REQUIRES 600 LB}
+
+{SAINTECH SDR 5 RAM 160 LKB: REQUIRES 600 LB}
+
+{[Pharus, Fury of the Torchbearer] v. 1.2: REQUIRES 600 LB}
+
+{[Arx, A Saint’s Terrified Embrace] v. 1.4.1: REQUIRES 600 LB}
+
+{[Nexus, The Tyrant’s Edict] v. 1.2: REQUIRES 600 LB}
+
+{[Ardor, Visionary Ambition] - v. 1.3.2: REQUIRES 600 LB}
+
+{SAINTECH DPM v1: REQUIRES 300}
+
+{memOS 11 - Release_ver: REQUIRES 300 LB}
+
+{AVAILABLE LOGIC - 970 LB}
+
+“Chris, help me out?” I asked, hurriedly, feeling my grip on the rage slip as it began to melt my self-control.
+
+Beep?
+
+“I’m going to go through these as fast as I can, listing the facts we know, and you correct me if I’m wrong.”
+
+Beep.
+
+“My CPU makes me stronger, faster and allows for more programs to run simultaneously. It also takes longer to overheat, because it can handle more programs more easily?”
+
+As I rushed through the words, Chris answered accordingly.
+
+Boop. Beep. Beep. Beep.
+
+“It doesn’t make me faster?”
+
+Beep.
+
+“Alright.” So my CPU was out. “RAM allows me to run more stuff in parallel? It also makes me faster?”
+
+Beep! Beep!
+
+“Pharus allows me to deal more damage, and put more power behind my attacks.”
+
+Beep.
+
+“Will the next upgrade allow me to kill that thing?” I glanced up at the impossible expanse of horrific biology.
+
+…boop.
+
+The crow had told me as much, but getting confirmation from Chris put the final nail in that coffin. Moving on.
+
+“Arx prevents incoming damage and with further upgrades, it requires less CPU to do so.“
+
+Beep. Beep.
+
+“But sometimes upgrading it also raises the CPU temperature limit before it shuts down?”
+
+Beep-boop.
+
+I wanted to ask about that last one, but we didn’t have time to go through a game of 20 questions about an upgrade that was clearly useless, so breathlessly, I went on to the next item on the list.
+
+“Better Nexus gets more people in?” That could be a real game-changer.
+
+Beep-boop.
+
+“But why… no, doesn’t matter. So advancing Nexus just makes hosting people easier on the CPU?” Less of a game-changer, but perhaps...
+
+Beep.
+
+“Does that mean I have more CPU for each of them, so they get better at what they do?”
+
+Beep? Boop? Beep.
+
+“So we don’t know.” That put upgrading Nexus to the bottom of the list.
+
+“But it will free up CPU, and perhaps allow us to get more clients connected? “
+
+Beep.
+
+“Actually, are there even more Old Guard we can bring in?”
+
+Boop.
+
+“So that’s out.” I should have asked that first! I cursed silently, but quickly went on, rattling down the list. It was a good thing I had had enough morning briefings to practice for three lifetimes.
+
+“Ardor gives me more information about what we’re fighting?”
+
+Beep!
+
+I knew what we were fighting—the gargantuan avatar of a god clad in flesh—so upgrading Ardor was useless right now.
+
+So far, so good, so bad. Damnit, nothing on the docket would significantly swing the tide in our favor.
+
+The last two options were more of a mystery, as I didn’t remember ever getting their readouts. Possibilities, then. If one of them somehow rang true in that weird, tear-jerking sense that I hated, perhaps it would give the Old Guard enough of a boost…
+
+“DPM represents my uh… wow this is freaky to say, it represents the integrity of my person, I guess? How much I am me, and not… I don’t know, what else would I even be, dead? Nothing? A Feral?”
+
+Beep.
+
+“Alright, and if I advance that it makes me more stable as a person?”
+
+…Beep? Boop!
+
+“Very funny, Chris.” I said dryly, not slowing down. “So you don’t know.”
+
+Beep.
+
+“Fuck! But okay. MemOS… what the fuck did MemOs do again? Regeneration of my DPM?”
+
+Beep.
+
+So that was out, too. I had barely even noticed the slow trickle of regeneration as I had pushed my Digital Personality Matrix to the edge of Tier 0.
+
+“Thanks,” I said. The list was done, all options explained. Now it was just a matter of making the Logic count. Perhaps I could even advance two systems with the Logic I had, one expensive, one cheap. That would leave me completely dry, however, and the trickle of Logic I could snatch from the battlefield wouldn’t get me back up to 600 any time soon.
+
+No, I had one chance to make this work, and for it to have the biggest effect, I needed my Wish to be true.
+
+I inhaled and tried focusing on who I was.
+
+It didn’t go well.
+
+Who even was I? Someone who left people, her people to writhe in agony while she dragged her feet. Someone who let others fight for her because she was too weak. Someone who used innocents to reach her goals, because she was afraid of the consequences of her own actions. Someone who insulted her friends and pushed them away because she couldn’t handle her own insecurities and let her anger drive her actions. Someone who chose the easy way.
+
+Who was I? A tyrant with divine power.
+
+But that’s the wrong question to ask, Sam. Who you are is always dictated by others. What’s a better question?
+
+Who did I want to be?
+
+My eyes flicked to Zephyro, lying next to me, writhing. So wise, so calm. Always so fucking optimistic, as if nothing could ever harm him. And he dared ask the same from me, who had gone through two lifetimes of strife. My anger flared, hot and violent and hideous and paper-thin, barely hiding the insidious mass underneath.
+
+Jealousy.
+
+And why can’t you be that person, Sam?
+
+It was completely unthinkable. I gripped Pharus tighter, but in the face of the expanse of meat and dread and hunger, it offered no comfort. The crow had been right. If I went in and fought that thing alone, I stood less than the chance of a candle in a rainstorm. It wouldn’t even have to fight me, just wait until I got so frustrated that couldn’t take it anymore. My anger would throw myself in its blood-moist embrace, in a misguided attempt to kill it from the inside. I’d die angry, my own strength used against me as the Eternal Hunger devoured every part of me.
+
+Still, I had to do something, didn’t I? Keep pushing forward, even if I knew that I couldn’t keep going like before.
+
+My Wish burned in my chest, ready to be unleashed. And yet, for a reason I didn’t quite understand, I kept holding my breath. It was as if that tension in my chest was all that held me together.
+
+Thoughts rushed through my mind, just bare glimpses of ideas, gone almost instantly, strange faces in a crowd. Zephyro, with his hand on my shoulder. Stax’s dancing eyes. Patti’s lips on mine. Chris, soothing me outside that burning village. My team, demanding I high five them after our big launch, laughing when I finally did. Mr Rutger, nodding approvingly at my first feature proposal, smiling as he usually did, quiet and mysterious. A city’s worth of people cheering me on as I stepped out on the balcony.
+
+And you disappointed them all.
+
+Olre whispered in my head, just like he had when he twisted the knife.
+
+“Shut up,” I whispered, releasing a puff of Logic.
+
+⚠{DANGER! EXCESSIVE CONCENTRATION OF LOGIC DETECTED}⚠
+
+{LOGIC - 10 LB}
+
+{AVAILABLE LOGIC - 960 LB}
+
+Look at them. Dead because of you. Because of your stubbornness.
+
+“Shut up!” I said, and more Logic fled with my breath.
+
+{CONSUMED LOGIC - 30 LB}
+
+{AVAILABLE LOGIC - 930 LB}
+
+It’s your own fault. You and your damn indecisiveness. You’re going to fuck it up again, Sam. In the end, you will always hurt those that love you most. So go on. Get out there and fight and rage and kill. Kill me. Kill us all, one after another. Earn your name, oh great Tyrant Divine.
+
+“SHUT UP!” I yelled. Logic exploded from my lips, but no bells rang, and no rush of power followed. My words echoed over the twitching bodies, hurtled into the looming creature opposite the palace.
+
+Then the Feral swallowed them.
+
+{CONSUMED LOGIC - 30 LB}
+
+{AVAILABLE LOGIC - 900 LB}
+
+A hundred hundred mouths opened, eating my words. The flesh shuddered in pleasure, rippled as if retching, then spewed my words back at me.
+
+“Shut up…” a thousand voices said at once, overlapping each other, screaming in anger. It sounded taunting, beckoning, asking me to come into the fold.
+
+Around me, the Old Guard screamed in pain.
+
+Because of me.
+
+Because of what I had done.
+
+I never wanted it to be this way.
+
+I never wanted to be all of this.
+
+Well, who do you want to be, Sam?
+
+My mind raced, its engines running red-hot as it tried to find a way out of a maze I had constructed for myself through two and a half lifetimes. Every thought, another dead end.
+
+I didn’t want to be angry all the time.
+
+I didn’t want to be someone who hurt people.
+
+I didn’t want to be feared, or despised or shunned.
+
+I didn’t want to be a tyrant.
+
+I didn’t want to be a saint.
+
+I didn’t want to carry that burden and get crushed underneath.
+
+I didn’t want to light a way that I knew would lead people to their doom.
+
+“I just want it to be okay…” I whispered quietly, and the world held its breath.
+
+That wasn’t the full truth.
+
+But it was a truth.
+
+True enough for a hairline fracture to slither through the shell of lies I had told myself to survive.
+
+Silence.
+
+Then, more quiet even than a whisper, this softest of cracks widened—just a fraction.
+
+It admitted but six words.
+
+“I just want to be me.”
+
+Logic launched itself from my lips. It permeated the world, offered harmony to the truth held within those six syllables.
+
+And this truth, I realized with relieved dread, was as true and full as a dream of a life well led.
+
+{CONSUMED LOGIC - 300 LB}
+
+{AVAILABLE LOGIC - 600 LB}
+
+{Veritas.}
+
+{SAINTECH DPM v.9
+
+IS NOW
+
+[Simulacrum - The Wounded Self] (Version: one point zero)}
+
+{Memory: 53/100 LKB RAM}
+
+A bell struck once. It was just a small note that would have gotten lost in all but church-lit silence. As it was, the sound carefully raced over twitching bodies, ruffled metallic fur, poked curiously at electric carapaces, and showed defiance to the Beast That Wanted Me To Obey with tongue-stuck-out innocence.
+
+Then, at the end of its time, it rushed upward, like a breath in winter, and cradled itself in the sickle of the moon, where it finally found itself at rest.
+
+The moon shimmered, hummed, and rose from its fitful slumber with effortless majesty.
+
+It drenched the plaza with its light.
+
+It banished the red crackle.
+
+A collective sigh went through the crowd.
+
+Then, with exasperated, joyous fury, the Old Guard rose to claim their revenge.

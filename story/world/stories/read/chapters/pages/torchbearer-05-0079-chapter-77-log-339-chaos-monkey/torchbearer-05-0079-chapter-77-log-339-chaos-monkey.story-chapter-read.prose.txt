@@ -1,0 +1,173 @@
+{Loading…}
+
+{Loaded.}
+
+[>>Now replaying: Log 3.39 - Chaos Monkey]
+
+Date: Error
+
+Location: The Bunker at Progress’ Head // Zephyro’s Domain
+
+//Chaos Monkey is responsible for randomly terminating instances in production to ensure that engineers implement their services to be resilient to instance failures.
+
+See how to deploy for instructions on how to get up and running with Chaos Monkey.
+
+Once you're up and running, see configuring behavior via Spinnaker for how users can customize the behavior of Chaos Monkey for their apps.//
+
+//The software simulates failures of instances of services running within Auto Scaling Groups (ASG) by shutting down one or more of the virtual machines. According to the developers, Chaos Monkey was named for the way it wreaks havoc like a wild and armed monkey set loose in a data center.
+
+Chaos Monkey works on the principle that the best way to avoid major failures is to fail constantly. However, unlike unexpected failures, which seem to occur at the worst possible times, th%$&§$%$§%//
+
+[>>DATA CORRUPTED]
+
+E2 %The Mage Lords were winning. With their superior numbers, their losses didn’t matter as much. So they prepared to kill the Torchbearer by drawing her out. But she was protected by her demonic magic, and Staxon died in her stead. When the Torchbearer saw her companion—some even say lover—fall, it was as if she had been possessed by a demon.%
+
+E1 %Overcome with grief and rage, she stormed the imperial palace, walked up to the emperor, and incinerated them with her Torch.%
+
+E2 %With their death, the other Mage Lords—%
+
+E3 %“Their”? Wasn’t the emperor a man?%
+
+E1 %No one knows, Tin. They always wore their magical armor and never showed their face. But Pina is right. With the death of the Emperor, the other Mage Lords lost the one thing that linked them together. They immediately began fighting among themselves, but they all understood that the Torchbearer would have to die before they could have any sort of balance again.%
+
+E2 %So they hunted her down.%
+
+E1 %And she retreated. To Novus Apex, her capital, first. She lost several of her apostles on the way, as they sacrificed themselves so that she could escape.%
+
+E2 %The rest of her… apostles died in the city as they tried to defend it.%
+
+E3 %And then?%
+
+E2 %Then she vanished.%
+
+E1 %Some say she died, some say she retreated somewhere to recover her strength, and some say she still walks among us, trying to deliver on her Promise of Progress.%
+
+E2 %Well, I think we know where she went after Novus Apex, now…%
+
+We both turned to stare at him.
+
+He snapped a sharp salute. “Turret_1 at your disposal, Ma’am, Sir! It’s an Honor to finally meet you, Ma’am President!”
+
+“At ease, uh…” I looked at his shoulder pads to try and determine his rank, real or imagined, but there were so many tassels, I had no idea. “…General…?”
+
+He stood even straighter, and I was concerned for his back, digital construct or not. “Thank you for the promotion, Ma’am! I will do my best to make you proud!”
+
+By now I had come to understand that the best way to deal with the Old Guard was to just play along with their delusions. If Turret_1 wanted to be a soldier, then treating him as such would get the best results.
+
+Also, it was the fastest way to get results. I hadn’t forgotten the Shackled were coming for us. We could hear them approaching now, the sound of fire and metal echoing through the Palace hallways as they triggered one trap after the other.
+
+“Hold on a second, general,” I said, eyes fixing on Zephyro again. “This isn’t over, Vizier. I explicitly forbid you from dying. Not while there are still options available to us.”
+
+“With all due respect for interrupting, Ma’am, the Vizier’s plan is not feasible anyways,” the general said, standing at parade-ground ease.
+
+“What do you mean, infidel?” Zephyro said, taking a step towards the Old Guard. He didn’t look like he would resort to violence, but it was a close thing. I’d never seen him this angry, but I’d be pissed too if someone called my heroic-sacrifice-plan impractical. Hell, I actually had been in his shoes once or twice, and I hadn’t handled it nearly as well.
+
+“Wait, Zephyro,” I said. “Let him explain.” If there was a reason that would make the Vizier stop his self-sacrificial plan, it was worth listening to.
+
+“Three noncombatants have entered the command chambers, Ma’am,” Turret_1 reported. “I thought it best to detain them, but after they discovered the minor-non-combatant clause, my hands have been tied. They proceeded to exploit several hardware vulnerabilities in my fellow soldier’s systems. As per protocol, I tried to warn them but did not receive a response in time, Ma’am. It seems communication lines between me and O.G. headquarters are down.
+
+“So far, no Administrator has responded to my requests for assistance, and if I may speak freely, I must assume the Admins are AWOL. Docking their pay might be a good first step to correct their behavior. Court-marshaling a few might be warranted later.”
+
+That made barely enough sense to explain the basics of what was happening. Somehow, three civilians had entered my bunker without being stopped, and they’d gone around infecting everything they could with some sort of hardware device contaminated with the Shackle virus. Though nothing explained why they had stopped again, or how they’d gotten in in the first place.
+
+“Remind me about the minor-noncombatant clause?” I asked, ignoring his comments about the admins. There only were two, Chris and myself, and I wasn’t about to court-marshal myself this close to finding a way out of this mess.
+
+Or, ever, really.
+
+“Certainly, Ma’am! The minor-non-combatant clause can be found in Guidebook 47. The engagement protocols, as you will certainly remember, Ma’am. Subsection 3 dot 1 dot 2 dot 16 clearly states that no soldier may engage in combat without prior administrator approval unless attacked first, and/or only after a detailed scan has been performed. Subsection 22 states that in case the scan indicates that the engaging party is a minor, engagement is strictly forbidden.”
+
+“This is true, Sultana,” Zephyro agreed, chagrinned. He seemed to have calmed down, his body language as subdued as usual, but there was still an edge to his movements. “Our holy texts state the same: One must never harm a child, or risk the wrath of God.”
+
+I rubbed my temples. Of fucking course…
+
+Chris and I had opted for a man-in-the-middle approach when we programmed Zephyro and the automated guns. We hadn’t been comfortable with the idea that machines should decide if people lived or died. Little did we know that these machines would become people.
+
+One thing Chris and I had both agreed on from the start was that no automated weapon should ever be used to harm a child, however. Novus Apex had been fresh in our minds as we drafted the firing resolution guidelines, and the images hovered between us like an unspoken terror. We couldn’t stoop as low as the Conservationists.
+
+Or perhaps we had just believed ourselves to be better.
+
+Zephyro looked conflicted, and it didn’t take a genius to figure out why. His entire plan hinged on the fact he could keep me safe within the Bunker by collapsing the entrances. With three children and their ability to shackle me in the mix, that plan suddenly got a lot more complicated.
+
+If he went through with it, he’d basically trap three kids inside a cave, and they’d starve to death. While he wasn’t technically killing them, he would be responsible for their deaths. And even if they didn’t die, the only real way out was by shackling everything they could and taking control of the Bunker infrastructure. If they went for that approach—and knowing the kind of shit people in despair did, they would—it was only a matter of time until they tried to shackle me again, and this time he wouldn’t be able to intervene.
+
+I didn’t know how to feel either. While the new situation made his stupid heroics unnecessary, it also meant I was completely fucked. With the Bunker open as it was, If the kids didn’t shackle me, the mysterious attackers certainly would, if they hadn’t been working together from the start. The timing would suggest so.
+
+Idly, I wondered if the attackers were connected to the Conservationists. Or fuck, if they were Conservationists. Spending decades to build and perfect a computer virus to make machines do what they wanted was exactly their kind of bigoted humor. Turns out when I do it, technology is pure evil, but if you have some monk pray over a laser rifle, it’s “blessed” and “a tool of the gods.”
+
+I sighed loudly, and the two AIs turned back to me. Of course, they looked to me for guidance. As if I had all the answers. As if I wouldn’t lead them to their death.
+
+“So you’re telling me all of this happened because of… children? How did they even get into the bunker? Did the attackers send them?” I asked. We needed more information. There had to be a way out of this that didn’t involve anyone killing themselves.
+
+“Unclear, Ma’am. Could have been the air ducts, could have been the front door, or one of the emergency exits. Many of them don’t shut as well as they used to.”
+
+“Oh great!” I said, trying not to sound as exasperated as I felt, and failing. “Do we have to worry about Ferals and Shackled coming in through the air ducts now, too?”
+
+“Of course not, Ma’am. The strapping young men and women of the Old Guard will dispatch those post-haste!”
+
+“But they are all offline,” I said.
+
+General Turret did not miss a beat.
+
+“Well, Ma’am, in that case, enemy forces may certainly enter the base. Permission to dock the pay of all soldiers we find sleeping on the job? It is unacceptable, quite frankly.”
+
+“Denied, general,” I said with a sigh, trying to think. I knew I should have been alarmed, or scared, or at least concerned that enemies could come crawling down the walls any second now. But the truth was, I had run out of fucks to give. It was just one more bullet point on a list that could have been belt-fed into a rotary gun to keep it firing for hours.
+
+In the end, I let my head fall against the stone backrest with a thonk.
+
+“You said it’s only three children? How the fuck did three children cause all of… this?” I asked, waving my hand to encompass the Ferals, the Shackled, the Burning world, the Void, and the disconnected Old Guard.
+
+“Permission to show you instead of telling, Ma’am?”
+
+“Uh, granted?”
+
+The freshly minted general waved his hand, and the floor in the middle of the throne room split open, revealing an elaborately carved table underneath. As it rose, it became clear it was an almost identical copy of the command table we had used on the Conservationist campaign. Instead of steel and plastic, however, it was carved from dark wood and painted with gold and silver. The surface, however, stayed the same. A shifting blue surface that always seemed to reach for my hand when it hovered above.
+
+Chris and I had spent weeks on this thing, and then another month to make it portable.
+
+I wondered how the Old Guard knew so much about me. Why they modeled themselves after Earth, and not Tobes. If only I had the time to answer all these questions.
+
+I got up from the throne and stepped down the dais, nodding toward Zephyro as I did. “How are we on time?” As much as I wanted to learn more, I couldn’t risk missing my window.
+
+“The Shackled are still held up in the tunnel, Sultana, but will break through soon. However, my people are ready, and once they meet the infidels in battle, I will join them. We will hold them back for as long as necessary. But, if I may humbly ask, shouldn’t you be heading upstairs, Sultana? To get ready?”
+
+I shook my head, then twitched it toward the throne. “I was thinking about buying us some more time with the decoy throne. If there’s even a small chance they believe this is some sort of computing node they need to infect, we need to use it. If I head upstairs now, they will know something is up, right?”
+
+Zephyro gave me a reluctant nod, and I went on, turning to the General.
+
+“Besides, how long does it take to get up there?”
+
+“Depends on your DPM, Ma’am. Maybe 5 minutes?”
+
+“Good enough. But that also means that if I were to head up now, you wouldn’t be able to plan with us, Zephyro. Knowing you, you’d stay down here to get ready for your heroic sacrifice anyway.”
+
+“Yes, Sultana. I very much like to not leave my people to fight without me.”
+
+“So, that means that the time in which we aren’t fighting yet we can use for planning, minus the time it takes to the roof in time when the download is finished. Which will be…”
+
+Beep!
+
+{SAMANTHA_v0.1}
+
+{▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱}
+
+{DOWNLOADING DATA 99/100%}
+
+{15.6 LTB/15.7 LTB}
+
+[>>Estimated time remaining: 00hr, 20min,53s]
+
+“Thanks, Chris,” I said, arriving at the table with the headache already fading to the back of my mind. There were more important things to do.
+
+Always more…
+
+“… which will be in twenty minutes, Chris says. I’ve made bad plans that worked well enough in less than ten, so that’s plenty of time.”
+
+I reached for my sleeve, trying to adjust a button that wasn’t there. It was a habit I had formed on earth, back when I had been the manager they called Dagger. It was a dumb nickname but had stuck to me like gum to a shoe, and my colleagues had gifted me two knife-shaped cuff links after my promotion to VP. I’d worn them for years, and eventually, it had become part of my ticks to fiddle with them whenever we planned something. When I switched jobs, they’d ask me about the cuff links and I’d tell the story over a drink or two, and then I’d be stuck with the damn nickname again.
+
+Those times were long past, but the habit remained, and I wished I had a suit to wear.
+
+Or better yet, magically enhanced power armor.
+
+This place, being surrounded by representations of power and status, was getting to me. It felt good, as familiar and comfortable, and that feeling poured through me, rinsing my soul until only confidence remained. I knew it was an artificial rush, and wouldn’t hold forever, but it didn’t need to.
+
+Just another 20 minutes.

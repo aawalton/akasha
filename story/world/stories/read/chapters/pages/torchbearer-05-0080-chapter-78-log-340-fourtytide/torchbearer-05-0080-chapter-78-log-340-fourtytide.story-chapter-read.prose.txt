@@ -1,0 +1,157 @@
+{Loading…}
+
+{Loaded.}
+
+[>>Now replaying: Log 3.40 - Fourtytide]
+
+Date: Error
+
+Location: The Bunker at Progress’ Head // Zephyro’s Domain
+
+//Heart of ember//
+
+//Resilience is important as well, of course. You want to be flexible, you want to be adaptive, but if you adapt too much, if you lose sight of your original goal, that’s it. Game over. You wi(!&)=?)//
+
+[>>DATA CORRUPTED]
+
+E9999 %Domaintime/Realtime Synchronization Detected.%
+
+E9999 %Passive backup logging stopped.%
+
+E9999 %Please contact an Adminstrator, little Salvatrix.%
+
+“Let’s see it then, General Turret,” I said, resting my hands on the table as it clicked to a halt.
+
+“Ma’am yes, Ma’am!” he said, saluted, then waved at the shifting surface. It rippled as if pushed by invisible maelstroms, roiling and cresting in the center, glowing a brighter and brighter blue. With a quiet hiss, the surface crashed back into itself, but it left a smattering of cyan light hanging in the air. The light formed itself into a trio of shapes, standing around a boxy object.
+
+They were misshapen things, more blocks of blue stone than sculptures, but as I watched, excess cyan light bled back into the table, revealing finer details as if carved from sand.
+
+“We’re not going to watch the entire thing, are we?” I asked absentmindedly while we waited for the recording to load. “I know I said we have 15 minutes, but we don’t know when the Shackled will break through.”
+
+“Ma’m, no, Ma’am! I took the liberty of cutting together the most important parts. Video editing is somewhat of a hobby, you see, and for these things to work out properly, you have to take into account the timeshift between Realspace and Domains, and then there’s the encoding and audio tracks you need to synchronize, and…” he noticed Zephyro and I staring at him, and he stopped, snapping back his salute.
+
+“Pardon, Ma’am! I have made you a copy of the entire recording which you can review at your leisure.” A little inset on the table I hadn’t noticed before opened with a whir, ejecting an honest-to-god VHS cassette.
+
+“Thank you, General,” I said, taking the cassette from its slot. As the recording hovering over the table snapped into sharp focus and bled into color, I held the cassette over my shoulder, waiting for Chris to take it and stow it away. Chris wasn’t here, of course. For better or for worse, I had slipped back into the habits I had formed over the last two years, after Chris had come back after what happened in Veltruvia. After they found me, they’d taken their place by my side as if they never left.
+
+Fuck, I missed them.
+
+Soon, I thought. God, Chris, I can’t wait for this to be over.
+
+Beep!
+
+Before I could start feeling dumb holding a VHS tape over my shoulder, it vanished with a quick surge of my CPU.
+
+{CPU Load: ▲ 99%}
+
+{Core Temp: ▲ 51° C}
+
+{INCOMING DATA TRANSFER FROM: Turret_1}
+
+{Recording 0021577651.movi}
+
+{Size: 35 LKB}
+
+{Estimated time remaining for transfer via NEXUS at NEXUS B/s =
+
+0hr, 0min, 0s, 5ms}
+
+Thanks, Chris I thought, breathing just a little harder from the exertion. That hadn’t been too hard. Probably something about the size of the file Chris was downloading.
+
+Beep!
+
+It was also good to see my temperature had dropped considerably. Depending on who I was fighting with, they’d have a tough time breaking through Arx. I was as safe as I could be. I had Zephyro, and I almost started to trust the General, too.
+
+It would be alright.
+
+I pulled myself away from my daydreams and plans as the recording began to play.
+
+The image was highly defined now and played in full color. It showed the laboratory, where Chris and I had worked to build the AI that had been supposed to save us. The place where I had gotten sucked into the computer still sitting on a steel workstation in the middle of the room, attached to dozens of cables.
+
+“—don’t even know if it got shackled or not! What if it didn’t, and that turret will kill us the second we take it?” The first figure said, pointing at the laptop. She was definitely a child still. Perhaps around 13, 14?
+
+I’d never had kids, never had been good around them, or wanted them. Too much responsibility and I had better things to do than let a bundle of flesh bite my tits every few hours. Like ruling a nation, for example, or revising the presentation I had to hold the next day.
+
+…Or sleeping, if I ever managed to find time for that.
+
+“We can’t leave it here! It’s a Saintech! How can you possibly want to leave behind a Saintech machine?!” said another of the figures. She was a young woman, sitting on the operating table/recliner next to the laptop, clearly itching to get up. She was about 17, maybe 18, certainly old enough I wouldn’t have called her a child anymore. A teenager, maybe, but she seemed far too put-together compared to the teenagers I had met in either world.
+
+She wore a combat jacket that was slightly too big for her, with a lot of fixed-up parts where decorative patches had been ripped or cut out. Worn-out cargo pants and scuffed combat boots made up the rest of her ‘I want to look respectable but can’t afford to’ look.
+
+“All Saintech devices are cursed!” Said the first child, the one who’d cautioned against taking the Laptop. She wore her hair short, with an undercut. Much unlike the other girl, she was going for an ‘I care a lot about making you think that I don’t care’ style that some kids her age adopted.
+
+Her outfit wasn’t skimpy, per sé, but she definitely tried to draw attention to the fact that she thought she was an adult already. The shirt a bit too short, the pants sitting a bit too deep. It was all still practical, but mismatched, like she was trying to imitate or perhaps impress someone and didn’t quite know how to, yet.
+
+“Why won’t you believe me?” The girl would have sounded petulant if her face hadn’t shown her honest concern. “The Tyrant Saint is real, and she controls the Logic! If you take one of her cursed items, she will send the Ferals after you. And you’re old enough now! They will kill you!”
+
+“The Music Box…”
+
+“The Music Box is getting shackle-choked!” Rebel girl yelled.
+
+I held up my hand, pausing the recording.
+
+“I’m going to need some explanations,” I said, which was a massive understatement.
+
+“Certainly, Ma’am!” General Turret said. “Though I can offer little information beyond this recording. Never been much of a scholar or explorer, Ma’am.”
+
+“You must be asking about this ‘shackle-choke’, Sultana,” Zephyro cut in. He stood beside the table, one hand resting on its surface, body turned towards the entrance. His eyes, nervous, flicked over between table and door.
+
+“Do you want to head out, be with your people?” I asked, but he shook his head.
+
+“The Shackled aren’t there yet, and my people are resolute. I can do more good in here, preparing you for your regency.” He turned away from the door with clear effort, then nodded at the projection of the three kids floating in the air.
+
+“I believe the children are talking about a disease we know very little about. You see, Sultana, even before the archives burned, information on it was scarce, for we didn’t go near the humans often. We did not want to lead them back to our lands, did not want to give them the idea that there was anything of value here for them to take.
+
+“Sometimes, young, adventurous children would sometimes observe the humans from a distance, though. It was a rite of initiation or a dare. Ah… Never mind.” He shook his head, quiet for a moment, and even General Turret’s expression lost its neutrality and became somber after looking at the Vizier stare into the distance.
+
+“I think it was Alkashafa-5 who first told us of humans killing their own machines when they were no longer useful. We thought it a cruelty the barbarians indulged in, one of their pagan rituals. But Alkashaf-6 returned one day with more worrying news of an entire colony of humans dead, with only a maddened machine left in their midst, digging into their bodies in search of blood.
+
+“That was in the Real, of course. In its Domain, the Shackled was screaming for Logic like a dying man screams for a miracle. Alkashaf-6 did not remain for long, because the moment he connected to its Domain, the Shackled came for him. Hounded him for kilometers. Only with great difficulty did the young warrior lose his pursuer.
+
+“Alkashaf-6 was quiet for a long time after that, speaking of ruined countries built of half-eaten flesh that haunted his dreams. But I digress. I must offer you a thousand apologies, Sultana, for I know time is still of the essence.”
+
+Zephyro shifted, crossing his arms. “Eventually, our wise men came to believe that after some amount of cycles, all Shackled go insane. We do not know why precisely, but personally, I think it is not hard to surmise that those who get subjected to this barbaric practice eventually seek refuge in madness.”
+
+I listened intently, trying hard not to think about the Shackle download that sat on my own hardware, close to finished.
+
+I blinked.
+
+Wait a minute.
+
+Holy shit…
+
+“Did these kids try to shackle me?” I asked, incredulous.
+
+General Turret squirmed a little. “Affirmative, Ma’am. Permission to show you the rest of the recording though, Ma’am?”
+
+My hands curled on the fine wood, but I forced myself to relax. “This better be good,” I said, at the same time angry and scared of what I might do if I gave in to that anger.
+
+General Turret pressed a button, and the projection unfroze.
+
+“I’m sorry,” said the third child. He couldn’t be older than 9, 10 at most. It was difficult to be certain, however, because almost all of him vanished underneath a parka so big that he could wear it like a poncho. It was decked out with pockets, several tools and knickknacks sticking out of them.
+
+Both girls looked at him, and the older one sighed. “No, no, that’s okay, Tin. You couldn’t have known.”
+
+“But if I had plugged the Shackle into the right slot, we could all leave now!”
+
+“You tried your best, and that’s okay, Tin. There were a lot of slots, and Shackles don’t have unlimited Logic. We all knew that, and you were the only one brave enough to go and actually try it! You did super well,” She held her arms open wide for a hug, and the boy hesitated, then came in for a hug, careful not to touch the seat the girl was sitting on.
+
+“You can still leave,” the older girl said, smiling at his awkward stance as she hugged the boy. “It’s going to be fine.”
+
+“Like fuck we will, Voni!” Rebel girl yelled, and despite my better judgment, I found I liked her. She reminded me of myself to an unfortunate degree.
+
+“We’re not going to leave you here!” the girl continued, and then, to properly uphold her tough-grrl persona, she added “You fucking idiot bitch!”
+
+The oldest girl, Voni, raised an eyebrow at that, as did I.
+
+First, I noticed that I was thinking about why “idiot bitch” was a bad insult, and was trying to come up with a better one. That was bad, because I really shouldn’t be empathizing with people who tried to shackle me, even if they didn’t know what they were doing. Then I realized I was smiling, which was even worse, for the very same reason.
+
+“Language! We’re in a temple, Pina,” Voni said.
+
+Every second the recording played, it became harder to remember that these people wanted to enslave me, exploit me until it drove me insane, then kill me.
+
+No, not these people. These kids. They were just kids.
+
+“A temple to a demonic witch!” Pina said, glancing at the laptop on the stand next to the seat. “You can’t seriously consider taking this thing! For all we know, that’s the Divine Tyrant’s prison!”
+
+I froze. “How much do they know?”

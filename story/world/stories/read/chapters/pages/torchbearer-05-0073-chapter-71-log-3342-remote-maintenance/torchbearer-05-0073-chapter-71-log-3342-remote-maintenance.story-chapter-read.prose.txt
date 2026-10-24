@@ -1,0 +1,191 @@
+{Loading…}
+
+{Loaded.}
+
+[>>Now replaying: Log 3.34.2 - Remote Maintenance]
+
+Date: Error
+
+Location: The Bunker at Progress’ Head // Zephyro’s Domain
+
+//Yes, sir, I will need you to install team_viewer.exe on your computer, and you will need to give me full a^%$**!@//
+
+//Why did you bring your entire computer down here? I could have come up, or heck could have just dialed i*^%&//
+
+[>>DATA CORRUPTED]
+
+E2 %Actually… I think it protests a little too much. Hmm…%
+
+E3 %Guys, can you… just, keep talking, please? This place is scary.%
+
+I turned and sprinted for the door, nodding my thanks at every Old Guard I passed. Some of them nodded back and disconnected immediately, others just kept fighting for a few more seconds before they did. There were smiles, there was grim determination. There was silence and there were cheers and jabs and well-meant heckles.
+
+The Shackled said nothing, but I could almost feel their attention in the back of my neck as our numbers thinned. The closer I got to the gates, the stronger the feeling became. A part of me that I hated offered me anger to keep me going. If I thought the Old Guard were abandoning me, and then stoked that rage, I could eke out a bit more strength, a bit more speed. I’d be able to survive on my own. Wouldn’t need them. Nobody could betray me, then.
+
+I declined.
+
+These people had risked their lives for me, and yeah, they got some Logic out of it, but nothing had made them stay beyond that, nothing had made them stay until they became partially corrupted. Nothing had made them risk death or madness for me.
+
+And I’d be damned if I would become the kind of person that repaid loyalty with distrust. Yes, the task of waking them back up and curing them of the Shackle was a big one, but it was hardly insurmountable. And I wasn’t alone. I had Zephyro, and I had Chris.
+
+I didn’t need that anger. I wasn’t alone.
+
+Even after all this time fighting, only one side of the massive gate had opened a fraction. Just wide enough for me to squeeze through sideways. I slammed my back against the closed half of the entrance to sidle in when I saw the last Old Guard disconnecting.
+
+The entire weight of the Shackled’s attention bore down on me.
+
+Before I could even put an arm through the opening, several shots hit the metal beside my head, making me duck and costing me my chance.
+
+Then dozens of guns spewed bullets in my direction, and it was all I could do to dodge and deflect them. Just a single clean hit, and it would all be over.
+
+{CPU Load: ▼ 26%}
+
+{Core Temp: ▼ 77° C}
+
+Whenever I made an attempt to cross the distance to the open door, the hail of bullets intensified, forcing me back out into the open, while ten shackled with melee weapons came in to corner me, and secure the kill.
+
+…or trap the catch.
+
+Didn’t know which would be worse.
+
+I wondered how it would feel to be shackled.
+
+Would it hurt?
+
+That sickly, strangling feeling in my chest intensified.
+
+Why even bother?
+
+Why not just lie down?
+
+My anger surged, flooding every fiber of my being.
+
+I was alone.
+
+I needed it, I told myself.
+
+Still dodging a continuous bulletstorm, I stared at the approaching red figures.
+
+They were coming to take me, to make me obey.
+
+To turn me into a tool to use as they saw fit.
+
+In the end, you weren’t even a good tool, Sam. Because you kept breaking, Olre whispered in my ear again.
+
+My anger screamed for control.
+
+Pharus flared. I slammed my palm into the teal flames, grabbing the censer. The fire engulfed my hand and traveled up my arm as I detached head from hilt.
+
+I yanked my arm back for a mighty swing, let the chain roll free, and threw all I had into whipping Pharus at the first shackled that came into reach.
+
+I didn’t scream defiance, or make pompous declarations.
+
+I just wanted to be safe, and my anger promised me that.
+
+Or at the very least, it promised, I’d die on my feet.
+
+With all the Old Guard disconnected, and my CPU free to give everything I had, my attack didn’t just cut through the air. It shot forward so much speed that with a loud crack, it broke the sound barrier.
+
+The censer hit the Shackled square in the chest, marking it as it dug in, breaking the red shell and revealing dirty clothes underneath.
+
+[>>PROCESSES BY USER Dr3SSDOWN ARE NOW HIGHLIGHTED]
+
+[>>Initiating Denial of Service Attack]
+
+{CPU Load: ▲ 81%}
+
+{Core Temp: ▲ 72° C}
+
+Suddenly, while the Shackled was still flying away from the impact, the earth shook. The remaining Shackled and I all swayed on our feet. It threw off their aim, but there were still more than enough bullets in flight, and off-balance as I was, I had no chance to dodge them.
+
+They tore into me, exploding into red clouds made of jagged polygons. Every explosion felt like a punch, throwing me further off balance. Arx felt hot around each impact point, as though the armor were burning. My CPU temperature, written in smoke and red pain, skyrocketed with every hit.
+
+{CPU Load: ▲ 100%}
+
+{Core Temp: ▲ 74° C}
+
+{Core Temp: ▲ 76° C}
+
+{Core Temp: ▲ 78° C}
+
+{Core Temp: ▲▲ 80° C}⚠
+
+{Core Temp: ▲▲ 82° C}⚠⚠
+
+{Core Temp: ▲▲▲ 84° C}⚠⚠⚠
+
+I fell to the floor, body burning with pain and exhaustion and rage, alerts flashing in the dust. It probably was what saved me, as the last few bullets of the salvo rattled into the metal door above me, showering me with sparks.
+
+Arx still burned where I’d gotten hit, but some frantic searching and lack of notifications revealed that I hadn’t been infected with a Shackle, yet.
+
+The door was still open, just a few meters away, but it might as well have been in another country. The Shackled were already getting up, movements jerky, as if they were being pulled by invisible strings.
+
+The only thing that bought me a chance was that after the hail of bullets had stopped, my CPU load had dropped to almost nothing.
+
+{CPU Load: ▼ 19%}
+
+{Core Temp: ▲ 84° C}⚠⚠⚠
+
+Given enough time, my temperature would drop again, and I’d be able to sustain more hits, but what would that accomplish? As I got up, breath as heavy as my body felt, I knew I only had two options.
+
+Either, I could keep dodging until I died.
+
+Or I could fight until either they, or I died.
+
+I flared Pharus.
+
+The chain clinked against the ruined mosaic as I pulled it back and took aim at the first Shackled I’d hit, Dressdown, or whatever it was called. It was kneeling, one hand on its chest where I had broken through its red polygonal chitin.
+
+Pharus cracked forward as I swung again, but this time, a second shackle stepped in the way, blocking the attack. The flail impacted on the Shackled’s black blade with enough force to send it tumbling from its grip, but my teal fire shot up in the sky with it, raining down on the assembled Shackled.
+
+[>>PROCESSES BY SEVERAL USERS ARE NOW HIGHLIGHTED!]
+
+[>>Initiating Denial of Service Attack]
+
+[>>Error! Too many processes found!]
+
+[>>Terminating Denial of Service attack(s) to preserve CPU usage.]
+
+As the censer fell on the floor, another Shackled stepped on the chain, trapping it. The firing squad cocked their guns. I had just a split second to choose between dropping my flail or being mere target practice.
+
+The ranged Shackled took their aim.
+
+I pulled on Pharus, but it was no use.
+
+Gritting my teeth, I flared it.
+
+I’d take at least one with me.
+
+I had to.
+
+Fire raced along the chain.
+
+It enveloped the Shackled’s foot, but it did not let go.
+
+A split second before the first shot could go off, the earth shook again, and a massive stream of cyan fire poured from the heavens. It tore through the Shackled’s ranks, incinerating one red figure after another, and leaving nothing behind but chaos and Logic.
+
+The other Shackled immediately scrambled for cover, pulling in and absorbing the Logic of their fallen comrades.
+
+My eyes snapped up. There, high above me, set into the sides of the giant ornamental Torch, small murder holes had opened, pouring liquid cyan fire on the enemy. It wasn’t just a quick, blind pour either. Some sort of mechanism was at work up there, aiming the streams of fire at the targets I had marked. They kept shooting flames until the torch seemed to be empty. They closed as I watched, and the fire began raging once again, readying itself for another strike.
+
+It was so tempting to storm after them, to finish it.
+
+I was panting with rage.
+
+It told me to stay, to mark more of the fuckers, to take my revenge.
+
+To risk it all for a promise of eternal safety.
+
+Who is in control, Sam?
+
+The hail of bullets had stopped with the Shackled’s retreat.
+
+My hand flexed around Pharus. It surged, liquid fire dripping onto the last untouched parts of the mosaic under my feet.
+
+Any second now, they’d start shooting again.
+
+{CPU Load: ▼ 18%}
+
+{Core Temp: ▼ 83° C}⚠⚠
+
+“Fuck!” I yelled, then yanked back chain and censer and dove into the Palace before I could change my mind.

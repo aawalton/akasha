@@ -1,0 +1,241 @@
+{Loading…}
+
+{Loaded.}
+
+[>>Now replaying: Log 3.44 - trouble_shooting]
+
+Date: Error
+
+Location: The Bunker at Progress’ Head // Zephyro’s Domain
+
+//You only have to pull the pin through the flap, and then wind the tiny crank all the way to the front. There’s going to be a little arrow, and you press that, and voilá, the can opens!//
+
+//Have you tried turning it on and off again? Have you tried turning it off and on again HARDER?//
+
+[>>DATA CORRUPTED]
+
+I quickly checked on Voni, but she appeared unharmed, as did Tin. The boy was staring at the laptop like his life depended on it. It was heart-wrenching to watch.
+
+“Chris, update, please.”
+
+{SAMANTHA_v0.1}
+
+{▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱}
+
+{DOWNLOADING DATA 99/100%}
+
+{15.6 LTB/15.7 LTB}
+
+[>>Estimated time remaining: 00hr, 6min, 31s, 382ms]
+
+Okay, enough time had passed for me to keep the hope going without risking them pulling the plug.
+
+Please do not power off or unplug your Machine.
+
+Installing Shackle.exe (Update 7 of 15)
+
+Behind me, the General’s minigun whirred to life, then filled the room with noise as thick as a pillow.
+
+In the Real, Voni jumped and Tin cowered, hands over his ears, as a turret directly above the General started firing four rotary guns in tandem, laying a blanket of suppressing fire into the corridor.
+
+Besides the Door, Pina jumped back from the bright stream of bullets with a loud yell of “SHORTING FUCK!”
+
+I spared a moment to look at the turret in the Real. It was the same one I had seen in Zephyro’s recording all that time ago, decked out in hundreds of unnecessary modifications taped and bolted to its surface. Considering the General’s penchant for hoarding medals, and that it started firing the second he did, it didn’t take a genius to figure out the connection.
+
+But that was beyond worrying. The turret barely held together as it was, and firing this continuous stream of bullets was obviously taking its toll on the hardware. A satellite dish on its underside rattled, gauges crept towards red, and valves hissed with steam that the turret shouldn’t even need to begin with.
+
+I had seen enough machines fail to know the turret was reaching its limit, and fast.
+
+More worryingly, if the Shackled were coming up the stairs, where was Zephyro? The best —and least troubling—explanation was that the Shackled had swarmed past the Vizier, and he was struggling to catch up. Then again, what happened in the Real World wasn’t always congruent with what happened in the Domain. A machine could lounge in a beach chair outside the bunker for all we knew, and still appear as an enemy in the virtual world around us. The only constant seemed to be that if a machine came close enough to the laptop, I could see their digital avatars. Bless his heart, but curse Zephyro and his cryptic mysticism. I’d need to ask someone for another explanation, or run some detailed tests, if I ever got the chance.
+
+But not now.
+
+With a silent question toward Chris, I checked the time.
+
+{SAMANTHA_v0.1}
+
+{▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱}
+
+{DOWNLOADING DATA 99/100%}
+
+{15.6 LTB/15.7 LTB}
+
+[>>Estimated time remaining: 00hr, 6min, 21s, 6593ms]
+
+Please do not power off or unplug your Machine.
+
+Installing Shackle.exe (Update 8 of 15)
+
+The turret kept firing, loud enough for me to worry about the kids’ hearing, but then the first cable came loose and a valve exploded off its side. In the Domain, the General was panting, his gun wavering left and right instead of maintaining its precise, unerring firing pattern from before.
+
+I hurried over, grabbing the other side of the gun to keep it steady.
+
+“Appreciated… Ma’am…” he said, wheezing. “Turns out a man my age should not engage in this much physical activity.”
+
+I looked at him, concern worming into my heart and threatening to fester into fear. My anger told me to yell at him, to make him keep firing, that it was the only way for me to be safe. That I should run and let him die.
+
+The bullets kept coming, now sputtering occasionally. A cable came loose on the turret, showering the entrance with sparks. Pina only narrowly avoided being set on fire by diving backward, landing on her behind. She cursed loudly, but I couldn’t hear her over all the noise. The gauges on the machine were all deep in the red.
+
+I had no idea where the General was getting all his bullets from, but I didn’t want to find out what would happen to the contents of the lab when his stores started becoming unstable.
+
+It was time to stop.
+
+Hesitantly, I reached for his thumb and pushed it off of the firing mechanism. “Stop, General,” I said, voice quiet, but somehow carrying over the din.
+
+As the hail of bullets stopped, I let go of his finger immediately.
+
+“Ma’am?” he said, glancing at me, confused.
+
+“If you keep firing, you’ll die.”
+
+“And it would be my honor, Ma’am. Requesting permission to die on my feet!”
+
+“Denied,” I said.
+
+The general wore an expression I couldn’t quite decipher. His face was as still as ever, and it was hard to gauge what he was thinking behind his sunglasses, but I’d needed to read people, or else I wouldn’t have survived, and I was good enough to gather a few things from his posture, He was sad, for sure. Maybe even a little scared. But there was also a glimmer of hope for a reason I couldn’t understand yet.
+
+“Is…. Is it over?” Pina asked, louder than she needed to. Both the General and I jolted out of our thoughts.
+
+“I think so,” Voni shouted back.
+
+“I told you it worked,” she added after a brief pause. She looked at the turret, more afraid than before.
+
+“It didn’t shoot at us, did it?” Pina answered. She managed to shout the words petulantly, which probably was a feat possible only to teenagers.
+
+“There are still far more Shackled out there, Ma’am,” the General said. “I can still keep going for a while, pick them off one by one as they try to enter. It might take a while, but if you want these kids to carry you out—”
+
+I shook my head. “No. We don’t need to go through them to escape. And you don’t need to sacrifice yourself,” I said, feeling like a fucking ass. “We can just use one of the secret exits. Omega seems fitting.”
+
+“But Ma’am, You can’t open that from in here, it’s Realspace access only.”
+
+I nodded. Chris and I had decided to not tie most of the exits into the network. Too easy to exploit, and too easy to fail, especially considering the hardware we had run everything on was practically held together with gum and shoestring.
+
+“I know. These three can, though.” I waved my hand at the kids who were still trying to get their bearings. Time had slowed down again considerably, I noticed, and wondered if that was a good sign, or bad.
+
+I took a deep breath, dreading what I was about to do. I hadn’t known the General for long. Fuck, it had been less than twenty minutes in the Real world, no matter how long it felt in here. But he’d kept me safe, stood by me, and had saved my life several times already, not even counting the ancient vigil he’d held over my digital prison.
+
+More importantly, he was the last person I felt I could trust. With him gone, I’d be alone. Again, my fear simmered, and my rage demanded I keep him here, to make him give his all until he died, for just a few more moments of safety and comfort. Staving off that moment when I was left to fight on my own almost seemed worth it.
+
+I wouldn’t be alone. I’d still have Chris, and as long as I had them, I was certain I could find others again. But still, the thought of letting him go scared me to death, and fed that hateful side of me that would ruin everything.
+
+“You were a great ally,” I began, with a mental effort to lower Pharus to my side. “But I can’t risk you jeopardizing the entire operation, General. I am discharging you from service.”
+
+“Ma’am,” he began, interrupting my thoughts, “if I ever gave you the impression I was disloyal, I—” I cut him off.
+
+“That was an order, General,” I said, unbidden rage putting that frostbitten sear into my words. I held his eyes. I was fuming inside, my thoughts heading towards betrayal, fight, or flight. If he left, I wouldn’t be safe. I would be alone. But he didn’t obey me. This was dangerous. I needed to do something about it, I needed to—
+
+It was another loop, another downward spiral, and I barely noticed it soon enough. It cost me considerable effort to steady my thoughts.
+
+I thought of Chris instead, of the promises I had made.
+
+“Sorry, General. I didn’t think badly of you. Far from it.” I sighed, pinching the bridge of my nose. “It’s just… I lost too much too quickly. My people, my friends, my country, my body, your comrades from the Old Guard… After a while, it just became natural to assume nothing will last, you know? You get used to the idea that nothing is permanent, and that to get attached is to lose.
+
+“It would be natural to lose you, too. It’s still hard to internalize that I can bring people back from… well not death, but deletion, I guess? But I can only do that if there is something to bring back."
+
+I paused, words weighing down my tongue like sealing wax.
+
+“So I order you to retreat, General. I can handle myself.”
+
+The world glitched, sound and sight swimming for a second, the air smelling faintly of burnt cables.
+
+The general snapped to attention.
+
+Reality snapped back together.
+
+He opened his mouth to respond but stayed silent when the world sped up again, and the kids cut him off, unwitting.
+
+“How long, Tin?” Pina asked, glancing worriedly at the tunnel. “I think the turret is fried, but I can hear more Takers coming. This is our chance!”
+
+“I don’t know how long,” Tin said, his voice almost a wail. “I’m sorry, I—“
+
+“Shhhhh, Tin. It’s going to be fine. You’re doing great,” Voni said, reaching out and pulling him against her side without looking. She was still scanning the ceiling for attackers.
+
+Chris? No matter how often I did it, I had to be careful not to print my thoughts out loud, as it were.
+
+{SAMANTHA_v0.1}
+
+{▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱}
+
+{DOWNLOADING DATA 99/100%}
+
+{15.6 LTB/15.7 LTB}
+
+[>>Estimated time remaining: 00hr, 5min, 00s, 555ms]
+
+I passed that information along. Hopefully it would calm them down.
+
+Please do not power off or unplug your Machine.
+
+Installing Shackle.exe (Update 10 of 15)
+
+“Go, General,” I said, to finally put nail in the discussion. “Zephyro is still out there, and in the meantime, I got those three,” I jerked my head at the children as Tin excitedly told the others about the progress.
+
+I was joking to ease the moment, but my thoughts kept circling around the fact that I was giving up my security, that the General should stay and protect me, that I didn’t want to be alone again. It was hard to keep my mind on track, hard to do the right thing. I began wondering if I could eject the General from the space somehow. If he stayed any longer, I would have difficulties making him go. There had to be a command in Nexus…
+
+The General held my gaze for a long time, then broke eye contact. He pointedly studied his own giant gun, then Pina and her glowing baton, then Voni, eyes lingering on her one-handed crossbow.
+
+“I fail to see how they would compare, both in terms of tactical opportunities and opsec, Ma’am,” he said, but I had reason to believe he got the joke. There was something about the lines on his forehead that changed when he was amused, I realized. And yet, he was stalling… It would be so easy to get angry, just tell him…
+
+No.
+
+That wasn’t who I wanted to be.
+
+I grinned at him, using a trace of my anger to lace my next words with intensity. It actually helped keeping it contained. Like a pressure valve.
+
+“Well, this compares, I think,” I said, holding up Pharus by the chain, close to its head. It burned merrily, fire dripping on the ground.
+
+“Indeed it does, Ma’am Torchbearer, Ma’am!” the General said, adequately cowed, but also strangely relaxed. The creases on his forehead eased, as though I had just taken a weight off him he hadn’t known he was carrying.
+
+“So stop playing target dummy and get out of here,” I said, forcing my smile to stay on my lips even though my insides were twisting themselves into knots.
+
+You’re going to be all alone, Sam. You keep pushing them away…
+
+Oh shut the fuck up, Olre…
+
+The General glanced at the entrance one last time, and then his minigun vanished. One of his hands snapped up in a salute, and the other grabbed a medal on his chest, gently detaching it from his uniform. It was old, and worn, just a small disc of bronze showing a small stylized eye, complete with a frayed ribbon to attach it from.
+
+“Thank you for relieving me of this command, Ma’am. You would honor me by taking hold of the first accolade you offered me, until I am fit for duty once again!”
+
+I didn’t hesitate, and took the medal from him.
+
+{CPU Load: ▲ 99%}
+
+{Core Temp: ▲ 64° C}
+
+{INCOMING DATA TRANSFER FROM: Turret_1}
+
+{[Joy_of_Duty]}
+
+{Size: 1 LKB}
+
+{Estimated time remaining for transfer via NEXUS at NEXUS B/s =
+
+0hr, 0min, 0s, 1ms}
+
+“Thank you, General,” I said, not trusting myself to say more, and at the same time not knowing what else there was to say.
+
+He saluted again, creases of a smile forming on his forehead, and just like that, he was gone.
+
+[User turret_1 has disconnected.]
+
+{CPU Load: ▼ 14%}
+
+{Core Temp: ▼ 63° C}
+
+Immediately, the world flickered, and the digital representation of the bunker faded to nothing.
+
+“Fuck,” I hissed through clenched teeth, and of course at that very moment, the world had to glitch again. It winked out of existence, only to come back as a badly pixelated version of itself, slowly regaining its sharp edges. It was nauseating to look at, and the air smelled sickly and sweet, like gummi bears left on the dash of a car for too long.
+
+I was about to take another step when everything slammed into itself and only darkness remained. The bizarre sensation made my mind reel, and I was sure I was falling at some point, but it was hard to tell without being able to see, hear, taste, feel or smell.
+
+Then, thankfully, my body snapped back together, leaving me alone in the vast emptiness with only Pharus and the medal as company. And Chris, of course.
+
+“Chris?”
+
+Beep!
+
+“Are we still connected? Is this temporary?”
+
+Beep!
+
+I waited a few seconds, wavering between terrified and blissfully annoyed, holding Pharus in one hand and the medal in the other. My concern grew with every second that reality did not reform itself. What if something had happened to Zephyro? We had never even thought about what would happen if he died before the download finished. Would it continue without him? Or would I stay in this darkness forever, waiting for a world to return to a world that had died with its creator?

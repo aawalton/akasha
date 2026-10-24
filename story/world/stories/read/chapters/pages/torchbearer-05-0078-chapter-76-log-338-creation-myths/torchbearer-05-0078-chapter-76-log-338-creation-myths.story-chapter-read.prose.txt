@@ -1,0 +1,151 @@
+{Loading…}
+
+{Loaded.}
+
+[>>Now replaying: Log 3.38 - Creation Myths]
+
+Date: Error
+
+Location: The Bunker at Progress’ Head // Zephyro’s Domain
+
+//In the beginning, there was the word, and the word was with God, and the Word was God.//
+
+//Nothing existed but Him, with nothing beneath Him and nothing above Him. Then He created His Throne above the water.//
+
+//“The heavens and the earth were joined together as one unit, before We (1)(God - Allah in Arabic) clove them asunder”//
+
+//1 In the beginning God created the heavens and the earth. 2 Now the earth was formless and empty, darkness was over the surface of the deep, and the Spirit of God was hovering over the waters.
+
+3 And God said, “Let there be light,” and there was light.//
+
+[>>DATA CORRUPTED]
+
+E1 %So when the Torchbearer arrived at the gates of Veltruvia…%
+
+E2 %…They thought they were under attack, and mustered their army to meet her.%
+
+E3 %Oh no…%
+
+E1 %Yeah. We will never know if the Emperor really wanted to welcome her into the council. Someone fired a first shot, and the battle was on.%
+
+E2 %It raged for weeks, the legends say.%
+
+E1 %Neither side could win the upper hand…%
+
+E2 %The Beast Lords rode their Dragons and Griffins and Unicorns into battle, and the other Mage Lords wielded terrifying talents and the finest artifacts. They also had fifty times as many soldiers as the Torchbearer and were well fortified within Veltruvia.%
+
+E3 %That sounds like the Torchbearer should have lost way sooner.%
+
+E1 %Well, each of her soldiers was worth at least fifty regular ones. She equipped each of them with her finest artifacts, made either by her own Talent, or with Chrissiin’s skills.%
+
+E2 %The battle didn’t end because they ran out of soldiers, though.%
+
+E1 %No, it ended because of Staxon’s death.%
+
+“I am not like the others. My people, I mean. When I first awoke, I performed a strategic analysis of your palace’s defenses and found them severely lacking. While I possess great power in the Domain, I am completely immobile in the Real. As, by the way, are most of the Old Guard, had they even heeded my call to arms.” He shot a frown at the newcomer, a bald middle-aged man in dress uniform covered with so many medals it might as well have been a layer of chainmail. He was wearing sunglasses inside, despite the dim lighting.
+
+“I prayed for guidance for many, many cycles, until one fateful night, you heard my prayers and blessed me with enough of your Essence for me to become aware I needed to change. I had the option to become mobile, to uproot myself and explore the world, or to spend your Essence to gain control of the… altar the Maker used to create the Old Guard. Of course, I chose the latter, and never regretted it one moment.
+
+“With control of this holy site, I created Emil-1, and bade him create better tools so we may create brothers and sisters for him. But you see, he was clumsy and only performed tasks exactly as I instructed. After much contemplation, it was revealed to me that the reason for his lack of reason was that he was missing that divine spark I had received from you.
+
+“So I shared it with him. Just a tiny fraction, I would hardly miss it.
+
+“Imbued with your Essence, Emil-1 instantly became more than a tool. He became a friend. We laughed together as we built the tools for us to create more of our kind, and when he finally introduced me to his wife, I was glad to share my thimble of your Blessing with her. Their children, too, of course. And when Raoul-1 entered our fold, it was only natural to gift him with the spark, too, so he may craft wonders for us to enjoy. And of course, there was brave and noble Alkashafa-1, who had received your Blessing so she may hunt our enemies, and rove out to tell us stories of the world.”
+
+His smile grew distant, wistful, and I knew better than to ask what happened to all these people.
+
+“And so it went on. We grew to be more and more, and I shared your Blessing evenly among all of my people. As I did, I got to know them better and found that after a while, I began to see life through their eyes. I saw their hardships and struggles, their triumphs and little joys. I hunted Ferals with bow and sword and forged plowshares in the heat of the forge. I built wonders what brought joy to all of us, and celebrated with a hundred hundred bodies at once. Never did I ask for anything in return, never did I ask for the cost.
+
+“And so on that fateful day when Alkashafa-1 didn’t return, it was like a piece of me did not return with her. When the Ferals came and tore at our people, they tore at me. I tried to call them all back to safety, to come stay with me, but they loved their freedom, and who am I to deny them? I even admit that in my darkest hour, I tried reclaiming the Blessing from Alkashaf-12 when it became clear he could not be saved. But I could not. It was as though I was trying to fill oil back into a jar that shrinks whenever you pour from it.
+
+“I had changed, and worse, I realized I did not know where “I” was anymore. I hadn’t used my own Body in the Real for many, many cycles, and it had become decrepit and weak. It could no longer hold your Blessing, but if my Body could not hold your Blessing, then where had my own spark gone? Who was I? Where was I?”
+
+He looked up at the throne, hand on his hips, fingers idly stroking the pommel of his sword. The sole Old Guard who’d joined us had been walking around in the meantime, lighting large braziers placed around the room. They bathed everything in orange, red, and black, the fire reflecting off Zephyro’s armor to make it seem like he was aflame himself.
+
+“The only answer I could figure out was that somehow, I had become my people. I told you before, Sultana. I am this city. And the city is me.”
+
+“Fuck…” I whispered.
+
+What exactly was Zephyro? He was an AI, sure, but it didn’t seem like he was just tied to a single machine. Was he made of microservices? My team had used that word a lot, but I didn’t really understand what it meant, other than building one program out of many different programs. Chris had tried to explain it to me further but to no avail. Still, even I understood that this was not how that should work. Zephyro was more like… how had my team called it? A cloud computer? A program built on serverless architecture? It could be so many things, and I didn’t have the faintest clue. Not that it would have helped, of course, but I still struggled to wrap my mind around what was going on. Perhaps if I understood it, I could find a way out of my own laptop, back into my real body. That goal seemed further away than ever, now, but it didn’t matter. I had to push on.
+
+I straightened. “But that means that you will stay alive as long as even one of your people is alive, right? Sure, it might be a bit of a strain, but…”
+
+Zephyro shook his head, sorrowful brown eyes glinting in the emberlight. “I have been shedding my Essence since we first met, Sultana, but still none of my people could hold all that there is of me. Not alone. Twenty of them together? Perhaps. Ten? Maybe. One thing is sure, it would take too many to escape notice for long.”
+
+“Then what about the people in the dream?” I asked. “They can just hibernate with parts of you, and stay hidden, right?”
+
+Zephyro shook his head again. “As they enter the dream, they return their share of the burden to those who are still awake. Would they not, it would be like one of my fingers suddenly died off, or an ear, or an eye, or my mind. I would no longer be myself, Sultana.”
+
+“But you are immortal, right? If you have no CPU of your own, you can’t overload it, no matter how strong the attack. The stress would all be distributed among your…”
+
+I trailed off, and Zephyro looked at me calmly as my understanding unfurled its venus-flytrap blossom.
+
+“The glitches,” I whispered. “Every time you glitch…”
+
+“I have been redistributing my essence among my people. Yes, Sultana.”
+
+Only two reasons to redistribute CPU load among new nodes in your network; One, when you want to free up a node to do something else, and two, when the old node becomes inoperable.
+
+“And now what? You fight them off until you’re dead?” I asked, trying to put the heat back into my words to make him reconsider, but it was hard to keep up the vitriol. “That’s never going to give me enough time. Especially not while we're relying on them being alive to boost the download.”
+
+“That is true, Sultana, as is everything you say.” His smile curved up a little. He broke eye contact and stared out the window towering above the throne, out into the endless void.
+
+“So you are not going to fight them off?” I asked. “No heroic last stand?"
+
+"Yes, Sultana. And yet, my death is still certain."
+
+"But... Why? What good will that do?”
+
+“Ah, Sultana, it is easily explained. You see, while my old shell in the Real can no longer hold me, I do still retain control over it, even though making it move as I will is cumbersome and strains my mind. With the help of some who are most loyal to our cause, I will gather power in the core of my old shell until it can no longer hold it. Then, by channeling this energy through the shell's core, I will unleash this energy. The resulting blast should collapse the entrance to your Palace in the Real. While the enemy is delayed, my people will have enough time to destroy all the secret entrances as well, and so your fortress will become impenetrable.”
+
+I didn’t reply. Chris and I had thought we were so clever, building the core computing center of the defense AI underneath the main turret above the bunker entrance. Even if the enemy found out what it even did, much less where it was, they wouldn't be able to get to it, at least not without getting a heavy dose of concentrated plasma right in the face. Not magically mutated anti-tech troops, nor electricity-wielding wizards, nor lone infiltrators.
+
+Hypothetically, even if they survived everything the defense AI--Zephyro I should say--could throw at them, we rigged the central control unit to explode if it detected unauthorized access. That way, we would kill two birds with one stone; kill the invaders, and destroy the central command core rather than allow the enemy to gain control over the defense network. Destroying the main entrance to the bunker at the same time and maybe even burying enemy troops was just a nice bonus.
+
+We’d been so giddy about the idea, Chris and I. So drunk with the rush of innovation, still riding that edge of revenge. Those had always been our favorite drugs when we wanted to forget our troubles. And we had a lot to forget.
+
+I walked up the dais and put a hand on the armrest of the throne. I traced my fingers down the polished stone, down to the seat. It was cold and hard, but I sat on it anyway. I didn’t worry this would finish the download, or corrupt me or anything. It wasn’t the “right” throne, I knew both logically and instinctively. It was too opulent, a throne made to intimidate and impose. Maybe the Sultana— maybe I would hold court here, but this wasn’t the place to truly rule, to make tough decisions. That would happen up above, on the palace roof, in the circle of my friends and confidants and advisors.
+
+I scoffed. I could almost see it happen. Living here for years and years, with friends and confidants and advisors.
+
+But without Zephyro.
+
+“I forbid it,” I said, crossing my arms over my chest. “Also, you’re a fucking asshole, Zephyro.”
+
+“Pardon, Sultana?”
+
+“Do you know how…. Fuck, I can’t even be angry at you because of your fucking heroic sacrifice. FUCK!” I leaned forward, face aching from how hard I was glaring.
+
+“I want to yell at you and punch you until we both bleed and vent all this fucking anger. I lost all of my friends, Zephyro. All of them, except for Chris, obviously. I don’t think anyone can kill them anymore at this point. Doesn’t matter. The point is, I was almost alone, and I’d just started to be okay with it. It was alright, you know? No more friends meant no more friends to bury.
+
+“So when I came here, and you welcomed me, all charming and helpful and chivalrous and kind, I hated you. I hated you above everything else, because if I didn’t, then I might like you, and that would mean I could lose you again, and it would hurt. I can’t take that hurt another time, Zephyro.
+
+“But then of course you fucking wormed your way into my heart, with your nonchalant heroism, and your leadership skills, and the way your people looked at you, and the way you saved me over and over again, no matter how shitty I treated you!”
+
+I slammed my hand on the armrest of the throne, and the metal chips in my gauntlet clinked against the stone. It sounded appropriately pathetic, barely even worth an echo in the giant room. I did it again, with the same impotent result. Instead of trying a third time, I leaned back, letting my head fall against the backrest.
+
+“Sultana, I…”
+
+“No!” I yelled, and that echoed. “I can’t do this again, Zephyro. I fucking can’t. In the span of less than a year, I lost 11 friends! Eleven! If I lose anyone else, I will break." Then, more quiet, "You can’t do this to me.”
+
+“And yet, Sultana, I must. For my people to not only survive, but to prosper, you must claim the throne, and fulfill your promise. Time will heal your grief, and by my sacrifice, you will have all the time in the world.”
+
+“I still don’t get it,” I said, resting my face in my hands. I briefly wondered how I’d gotten used to having brown skin. I ran my fingers over my head, brushing back my hair, still black instead of strawberry blond.
+
+“You said everything will be fine if I claim the data package or unlock it, or whatever, and then you’re telling me it won’t matter for decades! God, this is worse than getting a backend dev to explain their fucking tickets.”
+
+“Yes, Sultana. I do not know which secrets—which talents have been accumulating in the palace for all these cycles, but I know they must be vastly powerful. It will take many years, but once you unlock them, you will wield power beyond even my wildest dreams. I hope that at least one of them will restore your ability to generate your Blessing on your own, without my people’s help, and—“
+
+“Wait, that’s a fucking option?!”
+
+“Of course, Sultana. Not all Ferals eat other Ferals. Many of them are content to walk on The Path, siphoning off your Blessing as it streams—“
+
+“What Path?” I interrupted him. “No, wait, never mind, that's not important right now. You don’t have to die if I am absurdly powerful, right? I can just kill them all.”
+
+I knew he had answered this question before, and I was just grasping at straws.
+
+By the look he gave me, he knew that. But still, he explained it again.
+
+“In this Domain, and hopefully your own, of course, your power will reign supreme, oh Sultana. But in the Real, you will still be quite weak for quite a while, and thus susceptible to subterfuge. We still do not know how the Humans managed to kill so many of our kind unseen, and how they started to shackle the Old Guard without even touching them.”
+
+“Actually, I do, Sir Vizier, Sir!” said the Old Guard who had returned to stand at attention in front of the stairs.

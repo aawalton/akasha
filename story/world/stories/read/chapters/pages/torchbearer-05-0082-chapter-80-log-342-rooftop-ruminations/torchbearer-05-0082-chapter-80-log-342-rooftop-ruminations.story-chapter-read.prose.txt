@@ -1,0 +1,271 @@
+{Loading…}
+
+{Loaded.}
+
+[>>Now replaying: Log 3.42 - Rooftop Ruminations]
+
+Date: Error
+
+Location: The Bunker at Progress’ Head // Zephyro’s Domain
+
+//To the window, to the wall, through the roof, down the hall...//
+
+//Sometimes, you have to get a new perspective, Sam. Look at this damn city. Look at the People! You made this happen. You made all of this happen. These are thousands of people who will never know hunger again, never know the fear of a noble coming to take their child for war or their ow*%^&$.//
+
+[>>DATA CORRUPTED]
+
+The stairs seemed to go on forever. I led, and General Turret followed. We pushed ourselves to our limits, and every turn of the staircase had a CPU readout scratched into its stones that was just a little higher than the one before.
+
+{CPU Load: ▲ 72%}
+
+{Core Temp: ▲ 59° C}
+
+I was essentially blind, but as much as I wanted to pause and ask the General for a status report, I pressed on, running as fast as I could. Sandstone steps and smooth walls repeated themselves over and over, blurring together into an endless spiral until, to my surprise, the General called for a stop.
+
+“Ma’am, you have to see this, Ma’am!” he said, as out of breath as I was. Still, he neither swayed, nor did he lean against the walls to rest. Despite just climbing what felt like at least a kilometer, he stood ramrod straight and tapped one of his hundreds of medals. It lit up, projecting a 2D image of the Real onto a nearby wall. The three kids stood around the laptop, moving as if in slow motion because of the difference between Domaintime and Realtime. They were no longer arguing, and had gathered around the Laptop, staring at it. Voni with clear reverence, Tin with eyes as big as saucers. Only Pina seemed reserved still, and stood the furthest back. Their mouths moved, but it was so slow I had no idea what they were saying.
+
+“They seem to have gotten over their surprise, and have started talking to you, Ma’am.”
+
+“What are they saying?” I asked, panting. Unlike the General, I had my hands on my knees, back bent. “Also, Chris, Time?” A bead of sweat dripped from my nose to the ground.
+
+{SAMANTHA_v0.1}
+
+{▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱}
+
+{DOWNLOADING DATA 99/100%}
+
+{15.6 LTB/15.7 LTB}
+
+[>>Estimated time remaining: 00hr, 8min, 38s, 742ms]
+
+Fuck, fuck, fuck.
+
+“They are asking if you are awake and sentient, Ma’am. Apparently, they are wondering if you can understand them. This is unsurprising. Intel suggests machines with screens are not exactly common, and most of them only display gibberish.”
+
+Oh that was just peachy.
+
+“We don’t have time to answer their questions!” I panted, thinking hard. “Chris, can you tell them I’ll be right there and tell them that they should not touch the Laptop, or something?”
+
+Boop! Chris chimed. It sounded a little sad and very apologetic.
+
+“What? Why not?!” I asked, shoving the anger aside as it tried to rile me up again.
+
+Beep. Boop!
+
+Fucking fuck fuck!
+
+“Alright, give me a keyboard or something. I’ll do it.”
+
+{memOS 11 - Release_ver: REQUIRES 300 LB}
+
+Boop. Beep?
+
+I cursed, but considering how much Logic I had available, it wasn’t a hard choice to make. Still, what if one of the Shackled saw me? What if they noticed Zephyro wasn’t the prize they were looking for?
+
+I had no choice.
+
+Fucking shitfuck!
+
+My anger was there again, of course. Zephyro was gone. I was almost alone, and carried the fate of an entire nation on my shoulders. I should just give in, it said, once more, like the good old times, just a tiny sip of this chalice, loosen up some… Feel powerful and secure again.
+
+I remembered the last time I had given in like that, on the plaza. That endless spiral of hatred and pain and self-reproach. I couldn’t do that again. I needed to be more than just an angry woman, or else I’d fail every single promise I’d made today, on the same day I made it. And then I’d be truly alone.
+
+After that, denying my anger wasn’t really all that hard anymore.
+
+With my next exhalation, I let some Logic spill into the world, trying to be as at peace with myself as I could be given the circumstances.
+
+As if to reward my self-control, the bell that answered my Wish was small and soft, barely louder than one of those shop-door chimes, and equally as brief. It rang three notes, perfectly pleasant as they ascended along their musical scale.
+
+{memOS 11 - Beta
+
+IS NOW
+
+memOS 11}
+
+{Memory: 60/100 LKB RAM}
+
+[Welcome to memOS!
+
+Since this is your first time interacting with memOS, would you like to take a tour of all the new features we have in store for you?
+
+You can retake this tour at any time by typing ‘Tour’ or ‘Help’.]
+
+[Y/N]
+
+Despite my relief over not having attracted half the remaining Ferals and all the Shackled, I frowned. We don’t have time for this! I thought, and was beyond surprised when the words printed themselves in my mind, as if written there by the world’s most satisfying keyboard.
+
+We don’t have time for this!
+
+I winced on instinct, expecting the usual headache, but it didn’t hurt at all. Not even a tingle in my sinuses. If I hadn’t been breathing so hard, I would have screamed for joy, world-ending problems be damned. Now that I thought about it, I had barely even noticed the text appearing. It was so fucking smooth, just as the response I got when I denied the prompt, despite my curiosity. There was just no time.
+
+[N]
+
+[♫ You have decided to postpone the tour of memOS’ exciting new features.]
+
+[Don’t worry, we will remind you of this again in the future.]
+
+[Thank you for choosing memOS, and as always, Remember to Remember!]
+
+“Ma’am!” General turret said
+
+“Yeah?” I replied, still distracted by the ease with which the information flowed through my mind now.
+
+“It’s the the civilians, Ma’am! They… uh, they read something on your screen, and seem quite puzzled. I don’t wish to alarm you, Ma’am, but even the youngest one says the Shackle didn’t take and that they should destroy you.”
+
+“On my screen? What did it say?”
+
+“Something about not having time to do as they ask, Ma’am?”
+
+Ohhh, fuck, fuck, fuck, fuck!
+
+“Did someone access your System, Ma’am?” General Turret said, alarmed. “Should I perform a sweep—“
+
+“No, no, that was me. New program,” I said by way of explanation, but thankfully, that seemed to be enough for the General.
+
+“Ahhhh, this went FUBAR real fast.”
+
+“Yeah, it did but what do I do now?” I asked.
+
+General Turret cleared his throat. “In light of recent circumstances, it might be best to engage in covert operations, Ma’am.”
+
+“Covert operations? As in…?”
+
+“Pretend the Shackle did take, Ma’am. Act as though the civilians are in control and let them take you with them, while you plot your escape.”
+
+“That’s a terrible plan!”
+
+“Better than to remain where you are and fall into enemy hands, Ma’am. It’s standard operating procedure.”
+
+He was right. I knew that instantly. Despite my knee-jerk reaction, it was a good plan, and one that actually turned my slip-up into something we could use.
+
+Still, even if I managed to convince the children to take me with them, I couldn’t let them disconnect me before I completed the download that would save Zephyro’s people. However, if I took too long, they would be trapped inside with the Ferals and whoever controlled the Shackled.
+
+So that was going to be a fun needle to thread.
+
+Now if I only knew how I talked to them earlier…
+
+I twisted my brain into a Gordian knot, and yet, nothing happened
+
+This is beyond stupid. Why did it work earlier, but not now? I thought, thinking back to that moment when I had expected the headache, and none came.
+
+The words sprang to life immediately.
+
+This is beyond stupid.
+
+I winced, hoping against hope that I hadn’t just dug myself an even bigger hole as the seconds ticked by, and Realspace caught up to Domaintime.
+
+The general grimaced. “They saw that, Ma’am.”
+
+On his projection, Pina had pulled out her baton and looked as though she was going to ram it through the Laptop’s screen. Voni moved to intercept her, but even in the slow motion of Domaintime, it was impossible to tell if she would be able to make it.
+
+Ohhh nonono!
+
+I focused, trying to think exactly like I had before. The experience of being able to read my own thoughts was one of the trippiest things I ever had ever done, and that was saying something considering how much time I spent navigating a world ruled by magic-infused egomaniacs.
+
+Then, finally, I found the right state of mind, and everything clicked into place.
+
+Turns out, the trick was just not trying at all.
+
+The system printed my unguarded thoughts without hesitation.
+
+Please do not power off or unplug your Machine.
+
+Installing Shackle.exe (Update 1 of 15)
+
+It was the first thing I could come up with, a half-buried memory of when I had used the family computer as a kid. It had stuck in my mind mostly because my father had told me over and over to turn off the computer “properly,” or else he would lose all his data, and I’d spent five hours in front of that damn screen before finally giving up and pulling the plug.
+
+I just prayed it was good enough. At least my dad had never found out, as far as I knew.
+
+There was just a moment’s hesitation in Pina’s movements, when my screen flickered and new text appeared, but it was enough for Voni to wrap her hands around the other girl’s arm.
+
+The General and I let out a sigh of relief.
+
+“No use staring and waiting,” I said, straightening my back. It was time to get going again. “Give me a running commentary if you can, but we should go.”
+
+General Turret looked at me, straight-faced, then burst out laughing like I had just told the joke of the century.
+
+So we resumed our run while I was still trying to figure out what I said that was so funny. Despite his laughing fit, the General followed close behind. Between choked laughs, he told me that indeed, the kids had resumed their discussion, but now they were more concerned if they could pack up the “machine” right now and leave before the “update” was finished, or if they should wait.
+
+That was good, and I mentally updated the counter to keep them strung along, praying they wouldn’t choose to disconnect me before I could finish the download.
+
+Please do not power off or unplug your Machine.
+
+Installing Shackle.exe (Update 4 of 15)
+
+Despite the General’s intermediate giggling, we made good progress, and just when I thought the stairway would never end, we reached a thick, bronze door.
+
+Finally! If I’d been the designer of this place, I would have installed a lift.
+
+That made me think of Zephyro and all the people who had sacrificed themselves for me. Now I probably would never walk these steps again.
+
+I pushed open the door, and it creaked like one of those security doors they have in ships… or in bunkers, I guessed.
+
+A perfect black sky greeted us as we stepped out onto the rooftop terrace. The void had hugged the palace tight, but it seemed its advance had stopped a few hundred meters outside the palace walls. What few buildings remained in this circle of stability were on fire, casting a melancholy, nervous glow over the rooftop terrace.
+
+It was smaller than I had thought. About the size of the laboratory in the Real, which made sense. It should have been much bigger, considering the size of the palace, but I had spent enough time in the Domain to just accept it and go on.
+
+Still, there was something off about the entire setup, as if all the objects arranged so artfully on the rooftop carried a second meaning. After a second, I realized why. It was all a metaphor, in a way. Those fountains over there had been server racks. The long planters along the sides of the roof stood exactly where Chris’ work tables had been pushed against the wall. That small coffee table had been a real coffee table, often covered with research notes that had spilled over from every other surface in the room.
+
+And there, in the center of the rooftop, a beautifully carved pergola held a golden chair and hundreds of pillows and cushions and carpets. They were trimmed with gold, inlaid with pearls, and so artfully arranged that all the gaudy excess did not seem excessive at all.
+
+It was a resting place fit for a queen.
+
+Fit for a Sultana.
+
+I was about to ask the General, who had set up by the door to create a kill corridor, to give me another status report when the world began to glitch again. The disturbance was slow this time, just objects shifting out of place at first. But it kept going until half or the building flickered in and out of existence, and then it racked up further in intensity until the world vanished, and the General and I stood on nothing.
+
+“Hold on, Ma’am.”
+
+With a flicker, the world turned greyish-blue, and I found myself standing in a holographic representation of the workshop where it all began. Dozens of the General’s medals glowed softy as they projected the world around us, and even though every object seemed solid enough, I still could see glimpses of the everlasting void underneath.
+
+This was what awaited me, after this.
+
+“Is… is it over?” I asked, not able to keep the fear out of my voice. If Zephyro had died already…
+
+“No Ma’am. He’s just buying time, taking as long as he can to reboot the Domain.” The General’s voice had lost it’s military bluster. Minigun still in his hands, he was looking down the corridor we had come from with a distant expression.
+
+“What is it?” I asked.
+
+“Nothing, Ma’am. Just wanted to say it’s been an honor serving you.” He didn’t look at me, kept his eyes and gun trained down the long, sloping corridor leading to the main hallway.
+
+I didn’t quite know how to respond to that. I’d never liked these sorts of moments, with their finality and all. They reminded me of who I was going to lose, that everything was ending.
+
+My fury ignited, a low fire that urged me to act and defend myself, except there was nothing to defend myself from. I clenched my fists helplessly, determined not to let my anger spill out and over the poor General, but the pressure built inside me until I blurted out the first thing that came to mind.
+
+“You can just leave, you know?!”
+
+He glanced over his shoulder, then back down the Corridor.
+
+“Thank you, Ma’am, but I’d prefer to stay. First in, last out as they say.”
+
+I bristled for a second. But I knew I wasn’t angry at him, not really, and I didn’t want to be the kind of person who vented their frustration on their friends anymore.
+
+So I said nothing, and we just waited in silence as the seconds ticked by.
+
+{SAMANTHA_v0.1}
+
+{▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱}
+
+{DOWNLOADING DATA 99/100%}
+
+{15.6 LTB/15.7 LTB}
+
+[>>Estimated time remaining: 00hr, 8min, 21s, 282ms]
+
+“Ma’am, permission to ask a question?”
+
+It sounded surprisingly innocent, and that cut down the remnants of my rage.
+
+“Proceed,” I said with a sigh that sounded more relieved than I wanted it to.
+
+“Ma’am… my brothers and sisters in arms… be blunt with me. Will a rescue operation be forthcoming, or will we consider them M.I.A.?”
+
+Was I that untrustworthy? Did he not believe me when I said I’d come back? Had he not listened to… I took a deep breath, and let it escape as a long sigh. It helped keep the thoughts at bay. Helped not reaching for that heat flickering enticingly in my chest.
+
+He hadn’t been outside for the speech. He couldn’t have known.
+
+“Of course I will come back for them, General,” I said, and found I meant it, no matter how much my fear screamed that I’d be alone forever, and would never be able to fulfill that promise.
+
+I had no doubt I was going to try.
+
+And somehow, that was enough.
