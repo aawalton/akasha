@@ -1,0 +1,151 @@
+My heart froze when the interface linked morale with militia performance. Of course, it did. Morale remained the bane of my virtual existence. When I focused on morale, a window explained it as a coefficient in militia combat performance.
+
+The settlement history showed Hawkhurst’s security rating dropping from 90 to 65 percent after the humans arrived. The influx undermined morale in two ways. Immigrants from the south suddenly outnumbered the dwarves while not accommodating the newcomers with comfortable places to sleep. Everyone became understandably anxious.
+
+The town’s security fell again to 48 percent after Winterbyte arrived and sniffed around the place.
+
+When the Arlington humans arrived, our camp’s cultural rating also dropped from 67 to 52 percent. This wasn’t just a racial reaction—it came from the pressure of unfamiliarity. The dwarven and human communities had never lived or worked together, and they didn’t know what to expect.
+
+Things would improve once everyone settled into routines and got to know one another. When the humans proved they weren’t a bunch of freeloaders, I expected a multicultural population could post high percentages in the long run.
+
+But we didn’t have time for proper introductions. A 35 percent morale made our warriors prone to panic, but facing the enemy from behind a motte and bailey cornered everyone. If we couldn’t flee, we’d be more likely to fight. Assuming canines didn’t tear apart our helpless villagers, the encounter would make a wonderful bonding experience.
+
+Besides learning that Hawkhurst couldn’t fight, the command tab offered nothing else to discover. Focusing on the interface elements made no other information available. If opening the settlement’s interface hadn’t frozen the world, I would have huffed in frustration. The alert congratulated me on learning the command skill and mentioned that I’d acquired a command power point—but what did that mean? How could I spend it? Did I need to win battles to understand how to win battles? It made no sense.
+
+I closed my interface and gave the jail one more look before going back upstairs. A game alert notified me a subordinate had mustered out of my command, and I laughed after realizing I’d left Fabulosa as a member of my militia. She apparently didn’t appreciate the honor of serving under me and used her gubernatorial powers to reassign herself to a commander.
+
+I found Fabulosa in the drill yard, ruffling Beaker’s chest feathers. The griffon perched himself on one of the wooden training dummies. Fabulosa had obviously put him up there since he couldn’t fly yet.
+
+Beaker enjoyed being at a higher elevation than everyone else. He hated being underfoot. I had to scold him whenever he jumped onto a dinner table, but since we weren’t in the town hall and no one trained, he fluffed up his feathers in his lofty new perch—a sign of contentment.
+
+Fabulosa pretended not to notice me when I approached. “Beaker is becoming such a big, beautiful boy, isn’t he? Yes, he is!”
+
+Beaker squawked and extended his wings as an implicit threat to fly away or beat them, but he wasn’t fooling anyone. He’d never interrupt a moment of Fabulosa’s attention.
+
+I never quite understood the gesture, so I assumed it to be a way of exercising—strengthening himself for the big day when he finally took wing. Today, Beaker wasn’t flying. He balanced on the arms of a practice dummy. His eyes dilated at the lavished praise.
+
+“Look how big he is! He doesn’t even have his little spots anymore! He’s outgrown them!”
+
+Fabulosa finally acknowledges my presence. “Isn’t he majestic? He looks like a sphinx or something regal. Don’t you, Chickers?”
+
+Beaker cocked his head to the side and clucked.
+
+I shook my head. “He looks like a weather vane.”
+
+Fabulosa pantomimed a gasp of shock at the bird. “Oh, don’t you listen to him! He’s just mean. Patchy doesn’t know nobility when he sees it!”
+
+Beaker had indeed outgrown his spots. His plumage included solid brown wings with a white undercarriage. He no longer looked like a speckled fluff ball but a miniature version of his mother. I hoped he would adjust to outgrowing indoor spaces. Teaching him to stay off furniture wouldn’t be fun for either of us.
+
+When Fabulosa stopped playing with the griffon, she turned to me with her hands on her hips. She tried to look angry, but her smile spoiled it. “What’s with making me your subordinate, buster?”
+
+I didn’t even attempt to smother my grin. “Oh! Yeah, about that. Sorry, I just wanted to test the command interface, such that it is.”
+
+“What? You don’t think it’s cool?”
+
+“What, the interface? It’s barely that. It tracks everyone’s powers but doesn’t describe them.”
+
+“Mr. Governor—you, sir, are an idiot.”
+
+“What?”
+
+Fabulosa crossed her arms. “You didn’t check your character sheet, did you?”
+
+I looked at it but found nothing different. “What are you talking about? What’s changed?”
+
+“You’re hopeless with the interface. Focus on your new skill, command.”
+
+When I followed her instructions, a new interface appeared instead of a skill description.
+
+Skill Acquired
+
+Command
+
+Description
+
+You’ve learned how to command military campaigns.Campaigns begin when a commander and militia oppose an enemy force. Campaign stakes, odds, and outcomes reward glory points. Every rank of command produces 1 command power point for promotions.
+
+Rank
+
+1
+
+Progress to rank 2
+
+0/50 glory points
+
+This window explained everything except why Crimson Software hadn’t made this functionality visible on the character sheet. I hadn’t interacted with the character sheet since someone taught me how to spam cantrips to unlock the schools of magic.
+
+The first line of command’s description struck me as an outright lie. I hadn’t the slightest idea how to command.
+
+After opening my available powers window, I check the filter options. Promotions appeared beside the other powers—abilities, blessings, mandates, and spells. I focused on it, and new available powers appeared.
+
+Available Promotions
+
+Tier 1
+
+Informer, Instructor, Leader, Planner, Protector, Raider
+
+Command power points
+
+1
+
+The interface looked like the civic powers, called mandates, and the command menu alphabetically listed six options.
+
+None of them caught my eye, although Informer looked a little out of place. Since the menu listed Informer first, I dove into its details.
+
+Power (promotion)
+
+Informer (tier 1)
+
+Prerequisites
+
+Command rank 1
+
+Description
+
+Emphasizes communication. Militia serving commanders with this promotion are 90% resistant to subterfuge, lies, disguises, and ulterior motives relating to active campaigns.
+
+Tier 2 promotions
+
+Military Intelligence, Misdirection, Reconnaissance
+
+Informer embraced the principles of military intelligence and spycraft. Spies played significant roles in books and movies, but the game’s nameplates foiled player disguises. Even when players somehow changed their race, such as Winterbyte, the nameplate made for a dead giveaway. Could this promotion hide or misdirect nameplates? It seemed unlikely.
+
+I considered the potential for stealth and illusions. I’d spotted Winterbyte’s illusionary self only because I’d gotten through her traps and kept a lookout for oddities. Would everyone in Miros be as vigilant? None of the indentured servants in Arlington had player nameplates, but they might be an agent for another contestant. Aside from bonded promises, we had no means of detecting agents and hadn’t even considered the possibility until I spotted this promotion.
+
+A 90 percent lie-detection rate didn’t exactly comfort me. Might an opponent with high willpower reduce this percentage?
+
+Military Intelligence wasn’t easy to evaluate, although the power gave subordinates a new skill—spying. Spying revolved around gathering intelligence, unlocking yet another way to play The Book of Dungeons. Which of our town’s NPCs would make for excellent spies? Fletcher could act and fight, but his open, flamboyant character contrasted what seemed like suitable qualifications. Would he even want to endanger himself for my benefit? Sending spies to uncover dungeons and suss out enemy players intrigued me, but it sounded like another management headache. Military Intelligence didn’t sound like a lot of fun. Relying on NPCs to discover secrets seemed too passive, even for me.
+
+Misdirection, like Military Intelligence, spotlighted subordinates. Militias gained a subterfuge skill that probably unlocked sabotage powers or ways to sow seeds of doubt and dissent. We couldn’t easily fool gnolls or vargs, so it might not help our position, and as far as I knew, we had no other enemies.
+
+Informer’s last tier 2 upgrade, Reconnaissance, unsurprisingly increased the visual range of militia members and the commander by 100 percent. It didn’t affect lookout towers, but it gave infravision and a semi-magic ability to see through the fog of war—smoke, dust, and other obscuring particulates. Recon enhanced the commander’s vision but only during active campaigns.
+
+Having experienced infravision through Creeper, I could see its benefit, but my weapon made this promotion somewhat redundant. Since I’d never seen mass combat, I had no clue how the fog of war affected a commander, making it hard to make an informed decision.
+
+Power (promotion)
+
+Instructor (tier 1)
+
+Prerequisites
+
+Command rank 1
+
+Description
+
+Emphasizes drilling. Militia serving commanders with this promotion will receive a 20% increase in speed.
+
+Tier 2 promotions
+
+Discipline, Formation, Marching
+
+Instructor improved one of the most dangerous character traits in the game—speed. Unfortunately, the bonus didn’t extend to the commander. Why should a militia be faster than the person commanding them? I could keep up if I rode Jasper or had personal speed buffs, but the limitation made no sense otherwise.
+
+The first Instructor upgrade, Discipline, halved the effects of Exhaustion, but it didn’t apply to combat. Again, it didn’t affect the commander, but their troops could train longer without Exhaustion debuffs appearing. I took an immediate liking to this because it synergized with our battle college. Hawkhurst militia members could rank up their combat skills faster. Instead of eight-hour days, everyone could go a little longer, perhaps ten or a dozen hours at a time. I didn’t like being pushy, but the stakes of the town’s survival ought to speak for themselves.
+
+The uncertainty of how long it would take to earn 50 glory points to unlock a tier 2 promotion confronted me. I didn’t even know if I could only select more than one tier 1 promotion, so I would exercise caution in how to spend my only command power point.
+
+The next tier 2 promotion under Instructor stood an upgrade called Formation. It bestowed its commander and their militia with visibility of one another on the game’s interface map. Formation would be invaluable at night or on maneuvers in enemy territory, eliminating the risk of leaving anyone behind. But we had no ambitions outside our settlement, and inside Hawkhurst, settlement officers could already see everyone’s location.
+
+Instructor’s last tier 2 unlock awarded a promotion called Marching. It extended Instructor’s tier bonus by giving its troops 50 percent resistance to the Exhaustion condition from movement outside the boundaries of the settlement. The Exhaustion debuff appeared several times during our first push to Hawkhurst, so mightn’t this provide a speed buff to caravans? I could see situations where Marching would be an excellent promotion, but we didn’t need it now.
+
+It didn’t bother me too much that these powers didn’t address Hawkhurst’s immediate needs. I still had four promotions left to review.

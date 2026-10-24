@@ -1,0 +1,95 @@
+Eleven kobolds remained. With under 100 health and 70 mana, if three of them hit, I’d be out of the game, and it wasn’t looking like I could dodge all of them at once. Turning off Mana Shield, I jabbed the closest attacker with my spear. Many had minor injuries, so one-shotting them created opportunities to wreck their formation. A quick cast of Scorch dropped another.
+
+The mole sustained its strip mining operation throughout the fight, clawing and gnashing at the overhang, hoping to find more chewy morsels.
+
+Backing away to buy time and feigning desperation made for a believable ruse—the role wasn’t a stretch, despite how much I’d reduced their numbers. With Cuffs of Obedience around their ankles, morale wasn’t a factor. They committed themselves to the cause. The kobolds positioned themselves for one last concerted attack. Committing my remaining mana into a Mana Shield, I faced them head-on. Before they closed in, I drank a 100 health potion, cast a fatal Shocking Reach, dodged, and blocked most of their blades.
+
+Had Dino not improved my combat ranks, I would have never survived this encounter. Canned combat stances weren’t enough. By concentrating on their footing, I struck at opportune moments.
+
+Despite my high melee skills, the confrontation cost me. Five more falchion attacks brought me to 16 health and 23 mana. Two more kobolds fell to my spear, and their health pools could barely survive a single attack. I finished two more while they reset their blades—and the four remaining hesitated long enough for me to maneuver quick attacks against the bookends. A cheap Shocking Reach knocked out the one standing next to it, accounting for the last of my mana reserves. The last food bearer made a break for the tunnel, and I Charged them, finishing him with a quick backstab.
+
+It left only their boss, the server named Rummy, who’d blown the attack whistle that started the conflict.
+
+Rummy ran for the ratipedes, but I finished him with my Light Crossbow before he could unhitch them.
+
+Throughout the battle, sounds of the mole’s rockslide persisted. Its fleshy nose pulled at the air, taking in our scent. The game disallowed a Rest and Mend break because it considered me still in a combat state with the giant. Luckily, the stone proved stronger than flesh, and the overhang withstood pulverization.
+
+I killed the tethered ratipedes. It might have been unsporting, but I’d had enough of their gnashing teeth and withering stares. They had my scent, and I didn’t need bloodhounds tracking me down.
+
+I had 35 health and only 3 mana.
+
+Congratulations!You are level 25
+
+You have gained a level. You have increased your stamina by 1, intelligence by 1, and strength by 1. You have received 1 power point. You have 3,342/4,105 experience points toward level 26.
+
+Ironically, I didn’t receive experience from the kobold food bearers, and I’d only gotten a little from Rummy and the blind watcher bat. What leveled me to 25 came from the 40 points for butchering the ratipedes. It felt cheesy, like getting experience for killing the helpless mummified lobster-thing, but power points had a way of easing guilt.
+
+Leveling also mitigated my stat drops from Exhaustion debuffs. Pursuing Winterbyte had almost assuredly earned me a bump in strength and stamina, and the extra point in intelligence helped my mana pool.
+
+Without enough mana for Detect Magic, I searched through the kobolds’ belongings. I found fewer than 41 bodies, as the mole had turned many into pâté and licked the overhang’s entrance clean.
+
+The search for loot turned up smelly scraps and crude bits of junk that I hesitated to call objects—things like polished pebbles, teeth, pouches of dried worms, and disgusting balls of hair. A couple carried copper coins, but I took none of it. I considered tossing their bodies into the maw of the mole to hide signs of combat, but the multi-legged rat beasts weighed too much to drag.
+
+Each kobold wore a Cuff of Obedience around its ankle. Rummy sported a different accessory.
+
+Item
+
+Ring of Obedience
+
+Rarity
+
+Quality (white)
+
+Description
+
+Level 15 ringItem use—Wearer may cause pain to up to 50 creatures wearing Cuffs of Obedience by wiggling their fingers. Range of effect is 50 yards.
+
+The fashion of servility prevailed in rat-town. This object explained the kobolds’ fantastic discipline and why the Cuffs of Obedience had no description. While they possessed no powers or abilities, anyone wearing them subjected themselves to a ring-bearer’s command.
+
+At first, I thought the band would allow me to control the low-level kobolds, but its description stated otherwise. Since I didn’t speak kobold, I couldn’t command them, and the ring didn’t give that ability. It only gave me the power to hurt them.
+
+This ring promised to be a great magic item and improved Hawkhurst’s defensive position against a potential kobold invasion. Just this trinket alone justified my venture into this maze. The lack of a cooldown meant the device could weaken the resolve of hundreds of kobolds by alternately zapping different groups.
+
+I looted 21 falchions and lifted 16 common cores from the corpses. The ratipedes’ cracked cores meant someone had altered them, so I let them be.
+
+After picking through the battlefield, I went further into the overhang. The tunnels connecting to it measured about ten feet wide and tall. Kobolds had dug it, although the high ceiling made me think they designed it for hauling sleds of mushrooms. The skid marks on the ground confirmed this assumption.
+
+As I withdrew into a corridor at the far end of the overhang, the mole’s ferocity subsided. The creature’s trumpets weren’t so loud deeper into the passages, and I relaxed a little.
+
+The lack of alarm from the mole’s racket made me think its attacks were commonplace or the farming site fell outside earshot. Maybe that explained why few had run for help. Whatever the case, I kept my ears and eyes open for signs of danger, for my low health and mana rendered me unsuitable for fighting—and kobolds traveled in groups.
+
+After a few minutes of exploring corridors, my state of combat ended. When the mole had finally relented, I performed a Rest and Mend. I dropped to the ground in the middle of the hallway without interruptions.
+
+While I rested, I thought about my combat. My opponents committed themselves to one another, but the individuals who saw me didn’t immediately attack when I hid behind the stack of skids. Instead, they communicated with their kin. Their need for nearby comrades explained why Magnetize had been so distracting.
+
+They weren’t independent fighters, and I considered the implications of this flocking behavior. If conformity counted as a strength, army-sized groups amplified it. A single Ring of Obedience might not be enough to repel a charging swarm. It made sense to find more.
+
+The fight had gone worse than expected, but most of the danger came from the falchions. Against such ungainly weapons, I could have minimized my exposure by falling back to the tunnel where their numbers worked against them. I didn’t regret the tactical oversight. Instead, I filed it away as an opportunity for future battles.
+
+Having caused enough havoc, I pressed onward. Wandering kobolds could probably sniff me out quickly, another thing I hadn’t accounted for before entering this dungeon. I needed to move to avoid detection. After recuperating from Rest and Mend, I re-buffed and continued using infravision to navigate the corridor.
+
+Though the ring empowered me with a trump card against kobolds, but wandering around might cause problems. I needed intel. There should be a ruling class or officer caste for such a large population. The silo-shaped sleeping chamber’s design, efficiency, and organization implied their chief might be smart enough to be bilingual. And if they understood Common tongue, maybe we’d strike a bargain. Perhaps I could offer my services in return for leaving our settlement alone. Perhaps I could win them over with the news that I’d killed Winterbyte. Finding the right settlement officer could lead to a truce.
+
+Searching for nobility meant locating the inner city, so I needed to be careful. Unlike the kobolds, I didn’t need light to see, but avoiding olfactory detection presented another problem.
+
+These hallways weren’t level—I traveled on either a gentle incline or decline. Narrow, muddy troughs aligned the passage’s walls, leading me to believe water seepage was a widespread concern in Rat City.
+
+I tried several passages before taking the one that looked better repaired. I passed more abandoned rooms. The vacant spaces stood near one another, and their layouts looked like communities no longer in use. Still, the quarters looked recently occupied—at least within a year. Had they suffered a recent depopulation?
+
+Whenever I came to an intersection, I took the broadest branch, hoping it led to something more developed, but the warrens and corridors led through more ghost towns. Nothing went upward toward the surface. After an hour of walking through dead ends and lonely hallways, clacking noises echoed in the distance. I followed the sounds to a corridor strewn with rough timber and stone blocks. Strips of roots littered the floor.
+
+After spending months amongst the dwarves, I developed an eye for construction—not enough to be a snob, but I acquired a general sense of how to build things. I wrinkled my nose at the inconsistent blocks and varied lengths of timber. The scene before me seemed a construction site of the lowest order, both in depth and sophistication.
+
+Level 2 kobolds used lengths of timber to heft a large stone, inch by inch, down the corridor. Unlike their brethren farmers, their disorganized motions made poor progress. Some inadvertently worked against their coworkers, straining toward opposite directions. Some listlessly leaned on their levers instead of helping. Others hid behind wood piles or slept in corners. Each bore a Cuff of Obedience, but none carried weapons.
+
+I couldn’t tell how many kobolds meandered around a nearby corner. Wearing a Ring of Obedience bought me a measure of security, but I preferred to travel under the radar.
+
+Usually, gamers could exploit low-intelligence monsters by goading them to attack. They called it pulling, and my situation seemed right to employ the tactic. I made a noise and dropped a jeweled necklace around the corner until I’d attracted the attention of the more idle workers. I used Creeper to peer around the corner as the jewelry lured it to my position.
+
+The kobold worker squinted in disbelief at the shiny trinket resting in such a strange place. Before it reached me, I had backtracked into a small room, pulling the necklace behind with Move Object. Unsurprisingly, the rat followed. I hurried, showing no regard for caution as it followed the jewels into the abandoned room, where I instantly killed the level 2 creature with a Scorch.
+
+I repeated the ploy until a few of them noticed the empty corridor. The three chattered amongst themselves until a loud, sharp squeal erupted, and the trio turned and squealed back, heads bowed as they communicated. The boss rat wasn’t happy they’d re-prioritized their task list to include investigating absent coworkers.
+
+As quick as the dressing down began, the boss turned away to other matters, leaving the trio alone long enough to catch sight of my lure.
+
+I pulled them around the corner and into the abandoned room as before. I wiggled my fingers to activate the Ring of Obedience, and they shook with pain until Creeper put them out of their misery.

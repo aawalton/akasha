@@ -1,0 +1,153 @@
+The first gnoll up the stairs had only made level 16, but the game considered him a yellow-rated encounter because of his compatriots. Fabulosa met him with a Shield Bash, stopping him in his tracks. Usually, when someone performs a Charge maneuver, they expect to hit and get hit. Not only did Fabulosa dodge the gnoll’s opening Charge, but she critically hit Rooter for 82 damage. We capitalized on Shield Bash’s Stun to inflict critical hits, to which Stunned opponents became susceptible.
+
+I regarded its nameplate before it recovered and Charged.
+
+Name
+
+Rooter, Gang of Three Dogfighter
+
+Level
+
+16
+
+Difficulty
+
+Challenging (yellow)
+
+Health
+
+438/520
+
+With Fabulosa in front, I reached for my Divine Bow to shoot down the stairs but remembered I’d given it to her in the fort, leaving me only with old goblin bows for ranged attacks.
+
+Knowing this would be a long fight, I eschewed my usual Imbued Arrow ranged opener for something less mana-intensive. I purchased Thrust, an ability that made my arrows worthy of the battle ahead.
+
+Power (ability)
+
+Thrust (tier 1)
+
+Prerequisites
+
+Charge, Piercing weapons rank 15
+
+Cooldown
+
+30 seconds
+
+Description
+
+Extends piercing range by 2 yards and inflicts a bleed of 2 damage per rank in piercing weapons dealt over 30 seconds.
+
+Delivering an extra 50 damage from an arrow amounted to a somewhat tepid ability, but it didn’t cost mana, and the damage added up in sustained engagements.
+
+Thrust scaled more than other powers. Critical hits and armor didn’t affect Bleeds, and Thrust shone as a finishing move against opponents with flight mechanics. Bleed effects slowed spellcasting and canceled channels—although none of the gnolls in the front dressed like spell casters.
+
+Rooter clawed Fabulosa after she Fireballed a group outside the stairway door. Her saber weakened the spell, but it hit nine gnolls for about 20-or-so damage apiece. I couldn’t decide which satisfied me more, the 200-point damage total or hearing yips of pain from the outside room.
+
+My optimism ebbed moments later when seven ribbons of golden sparkles encircled the gnoll, each representing a separate cast of Rejuvenate. Winterbyte had stacked her ranks with healers.
+
+I froze time and inspected the combat log. Each healed only about 3 points per second, but ten seconds totaled 210 points, all but erasing the critical hit and Bleed damage. That wasn’t good.
+
+Fabulosa bottlenecked the gnolls at the bottom of the stairs. She and I tossed healing spells on her to hold them off. It seemed a shame to have killed the sundew aberration. We could use an ally.
+
+After six seconds, Fabulosa’s Phantom Blade began making illusory attacks. As Rooter evaded or blocked the faux sword, it opened his defenses, increasing my partner’s damage-per-second output.
+
+Fabulosa became more effective with the Phantom Blade by ignoring its feigned attacks and focusing on its tip. This tunnel-visioned method opened her to retaliatory strikes, but her enemies preoccupied themselves too often with its phantom attacks to take advantage. It justified using the weapon.
+
+Rooter’s short sword only caused 20-something damage, but Fabulosa bore the brunt of ranged attacks. Scorches, Ice Bolts, and Shocking Reaches pinged her through the doorway for so much damage she and I needed to switch positions with her after only a minute of fighting.
+
+Although my combat skills reached ten ranks higher, I fared no better squaring off against Rooter, who led the feral assault. The Rejuvenates on him kept him nearly topped-off with health.
+
+The stairway wasn’t a straight flight drown—it switched back on itself midway so anyone at the top could drop things directly onto anyone entering. When my health dipped to half, Fabulosa shouted out a new plan. “You’re in a bad way, partner. Fall back to the landing and heal up. If we hit him together, we can make headway.”
+
+Backing up broke my line of sight with the gnolls casting offensive spells.
+
+An eruption of Tangling Thorns filled the doorway, trapping two of our opponents inside the stairwell. The remaining dozen gnolls couldn’t get past the Thorns.
+
+“Pour it on!” Fabulosa sliced and hacked at Rooter. After I healed myself, I plunged at him with Creeper from above. We focused everything we had on him, but soon, the combat log filled with Restore messages. We made no headway whatsoever.
+
+When my health fell, we switched places.
+
+Fabulosa winked in and out of existence to avoid taking damage. Something seemed wrong with my eyes. Distinguishing her attacks from her sword’s illusionary effects, watching her do so while vacillating between transparency and solid state confused me more. I couldn’t fathom how she maintained her concentration.
+
+She activated Odum’s Spectrometer to avoid getting hit. She dematerialized as Rooter’s blade swiped through empty air. Between dodging the Phantom Blade’s illusionary attacks and the spectrometer, Rooter flailed wildly in frustration. Without his healer gnolls, he would have been Swiss cheese long ago.
+
+Fabulosa dodged and blocked damage when possible, using the spectrometer judiciously, fading in and out of existence. We wanted to save the mechanic for Winterbyte. The standoff persisted for almost a minute when she exhausted the device.
+
+Rooter, beribboned in healing effects, remained the only unkillable participant.
+
+Fabulosa shouted in frustration but sounded worried. “You gotta be kidding me with this.”
+
+We took less damage, but we’d given up ground. When Fabulosa’s Thorns spell ended, the gnolls rushed the bottom landing. While the Tangling Thorns provided us with cover from missile fire, the gnolls in the back healed Rooter with impunity and faster than we inflicted damage.
+
+I shook my head. “This is not working.” Retreating up the stairs and out the window would achieve nothing.
+
+I switched places again with Fabulosa. We lost ground on the landing as I took point. Rooter and his companion fought savagely, encouraged by their heals. They pressed us to the top of the landing but avoided turning the corner and breaking line-of-sight with their healers.
+
+I fought with mechanical precision, using the advantage of footing.
+
+“Do you know the Norwegian word for crazy?”
+
+I concentrated on countering Rooter’s attacks. “No. What are you talking about?”
+
+“The Norwegian slang word for crazy—do you know what the Norwegians say?”
+
+I took a claw from the Rooter and received a Rejuvenate from Fabulosa. I dodged another reaching attack from the gnoll behind him and fecklessly lunged my spear down the stairs. More gnolls pressed up the stairs, but I used enemies already engaged in melee as blockers.
+
+I held the attackers back while Fabulosa cast another Fireball and placed a Wall of Thorns directly in front of her. I’d never seen the spell, but its 10-second cast dismayed me. Tangling Roots and Tangling Thorns took 5 seconds, so casting them before combat made the most sense.
+
+The stairway below us blossomed in a 10-foot-tall briar thicket that immobilized the gnolls inside. Two trapped in the doorway thorns had sustained 50 points of damage, so each still had most of their health.
+
+“The Norwegian slang word for crazy is ‘Texas.’ As in, ‘Let’s get plum-Texas on those healers!’”
+
+Fabulosa launched herself from the upper floor, falling into her own Wall of Thorns. Before landing in them, she Slipstreamed through and into the star chamber.
+
+Yips of surprise echoed from beyond the stairway. Judging by the noise made by the healer-gnolls, the brutes on the stairs could safely assume they weren’t getting any more heals from the Wall of Thorn’s damage.
+
+I followed her undoubtedly Texan lead, using Slipstream’s interface to choose a landing spot behind her.
+
+Fabulosa scattered the seven healer-gnolls. They carried nothing but claws and teeth as they fended off her saber. Her phantom blade and its feigned attacks flashed in the morning light that beamed into the oculus.
+
+Six gnolls stood at full health and half mana, but Fabulosa’s surprise appearance had shattered their sense of structure. Flattened ears and tucked tails betrayed their alarm. With the alpha dogs behind the Wall of Thorns, they looked at one another in uncertainty. In those precious seconds, Fabulosa had given them a reason to panic.
+
+One fell beneath 200 health, and the combat log showed my crazed partner scoring a critical hit on a backstab. It must have been her first target after she Slipstreamed into the star chamber. I didn’t know how long the Wall of Thorns lasted and needed to make the most of my time. This fight amounted to a damage-versus-healing race.
+
+I closed my interface, returned to the world of sound and motion, and joined her.
+
+Fabulosa chased her nearest target, which she unnerved with crazy cries. “Yee-haw! Get along, little doggy!”
+
+Her quarry dropped to four legs and sprinted to a rope hanging from the oculus.
+
+At first, I thought it would escape, but the gnoll stopped halfway and started healing itself while dangling from the line. Fabulosa cast Hot Air and rose to the hanging creature. She finished it with a backstab, dropping it dead to the floor.
+
+The drama over the scrambling gnoll distracted the other healers, and I entered the fray with my own surprise attack. I scored a 76-point backstab on my first hit. Streams of healing bounced around the room, but only a few maintained discipline enough to heal their pack mates. The remaining heals couldn’t counter our damage output.
+
+We sloppily slashed at the nearest opponents, switching our targets recklessly to keep them unbalanced and disorganized. They resorted to claw-claw-bite attacks while waiting for their healing cooldowns, which only brought them to our melee range.
+
+Fabulosa down a health potion when our healing faltered.
+
+I could have focused on one target to outrace their heals, but I wanted to maintain their state of alarm. They surrounded us, but it didn’t matter. We fell below half our health pool but recovered with Rejuvenates.
+
+We won the battle of attrition. Whenever Fabulosa’s Discharge or Thrust cooldown ended, she launched herself at the most opportune target. We both Charged on the same target without heeding their counterattacks.
+
+Fabulosa called out. “Burn this one down!”
+
+I followed her lead. Even though its fellow gnolls wound up Restore spells and had a trio of weak Rejuvenates, it panicked and ran, allowing us to finish it with backstabs.
+
+“We have only a minute left!” Over the remaining duration of Wall of Thorns, we’d killed two gnolls and gave each other Restores. We couldn’t kill gnolls fast enough but continued our melee in lieu of better options. The rope remained the gnolls’ only escape, and Fabulosa already showed them what happened to turn-tails.
+
+The healer gnolls fought with more ferocity after the second one dropped but to no avail. We had ten levels on them, higher combat ranks, and better equipment. Their uncoordinated, unarmed attacks couldn’t quite deliver enough damage to kill us, and those with time to heal in the back didn’t support their allies in greater need. Instead, they indulged themselves.
+
+Three more healers fell by the time the Wall of Thorns dropped, leaving only two out-of-mana healers alive. We weren’t in much better shape. Fabulosa and I recovered our health, but our mana edged close to zero.
+
+I did not know what to do next. “Can you do Wall of Thorns again?”
+
+Fabulosa shook her head. “I have the weaker version, Tangling Roots, but it doesn’t work indoors.”
+
+I regarded the sand and pebbles that poured onto the shield. It didn’t look like enough to support the spell. I quickly expelled the dirt I’d vacuumed into Dig’s interface from planting stakes back at the fort. It wasn’t enough, but it was healthy soil.
+
+While I poured a thin layer of earth into the bottleneck, Fabulosa launched another Fireball past me at the stairwell. Besides the damage, it burned the remnants of the Wall of Thorns, but she followed by casting the tier 1 crowd control spell, Tangling Roots, as incoming warriors returned from the stairwell. A tangle of vegetation burst upward, growing so thick that I counted it as another instance of Dig saving our lives. Roots blocked the doorway again.
+
+Four gnolls had skirted past it into the chamber.
+
+“That taps me out. I’ve no more crowd control, and this one won’t last long.”

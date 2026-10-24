@@ -1,0 +1,147 @@
+Using the pillars and stalagmites as blockers saved my life. The giant mole monster knocked over the mushrooms easily enough, but it needed to go around the mineral formations jutting from the cave’s floor.
+
+Cutting through over 5,000 health myself wasn’t possible, especially since I’d lost my Aggression double-damage bonus somewhere along my way through the conduit tunnels. The interface dubbed my location The Glow-Worm Vault, and it fell outside the kobold settlement.
+
+As the goliath plowed mushrooms behind me, lit torches from the farm let my eyes switch from infravision to normal vision, improving my depth perception. Running through the clearing of harvested mushroom stumps gave me an unobstructed view of the cave wall, and my search for wall openings finally paid off. A rock overhang stood high enough to duck into, but it hung too low for the mole to reach inside. The kobolds used it for their base camp, and their lanterns gave me a clear path on which direction to flee.
+
+As I neared the overhang, I spotted two long rats with dozens of legs tethered to an iron ring anchored in the wall. They stood as tall hogs, but their rodent bodies stretched much longer. They must have weighed 1,000 pounds apiece.
+
+Name
+
+Ratipede
+
+Level
+
+16
+
+Difficulty
+
+Easy (green)
+
+Health
+
+520/520
+
+The ratipedes hissed when they saw me coming and pulled at their harnesses. The fearsome creatures presented no danger, so I mentally removed them from the list of things to worry about in my immediate future.
+
+Beside the ratipedes, dozens of kobolds rested. At first, I thought them dead. The workers lay recumbent after a hard shift of reaping mushrooms and made no hostile reactions when they saw me coming.
+
+I made no threatening gestures during my approach, even bowing to acknowledge that I stood on their turf. Their whiskers twitched as they regarded me, giving one another furtive, questioning glances. A Cuff of Obedience encircled each of their ankles.
+
+Though I knew they couldn’t understand me, I spoke soothingly to de-escalate the standoff. “That’s right, comrades—I’m here to liberate you. If revolutionary workers need a champion in their struggle against the bourgeoisie, I’m at your disposal.”
+
+Even small by kobold standards, I waved to the closest harvester, as if to say I meant no harm.
+
+Name
+
+Dikki, Graytooth Food Bearer
+
+Level
+
+3
+
+Difficulty
+
+Easy (green)
+
+Health
+
+30/30
+
+Dikki’s rodent features changed from surprise to hostility after a fat kobold blew a whistle, squeaked, and pointed at me. The kobolds stood, reached for falchions lining a wall, and pointed them at me. The oversized machetes might be suitable for chopping mushrooms, but they looked too massive to be effective weapons.
+
+Facing forty kobolds at once presented a challenge, but the rats lifted their bulky blades slowly and with effort, and their attacks amounted to little more than clumsy, predictable chops and half-hearted jabs.
+
+Falchions were terrible for anyone who valued defense and looked downright ridiculous in the paws of kobolds. My problem with them involved their hefty damage. As unwieldy as they might be, they cut through wood easier than an axe. If I could dodge the ungainly implements, I should survive, but the high variance in damage made for an unpredictable fight.
+
+But not every factor stood against me. Though I faced many enemies, they weren’t warriors. And farmers weren’t likely to be combat-trained.
+
+A rumbling interrupted my thoughts. The scent of crushed mushrooms filled the air, and the titan mole trumpeted its challenge.
+
+I didn’t have time to exploit the kobolds’ presumed lack of combat skills. The overhang provided shelter, and I didn’t have time for introductions before inviting myself inside.
+
+Angling my spear away from them, I put my hands in the air, palms open. I gestured toward the charging level 48 mole. These guys weren’t part of the military, so they might sympathize with a shared fear of the mushroom god trundling behind me.
+
+The kobolds chittered in amusement and nudged one another, nodding. They raised their falchions and half-encircled me to expose my flank to the charging titan mole. Their position ensured I couldn’t find a safe harbor under the overhang.
+
+Their unequivocal and disheartening response deflated me, but their amusement filled me with the moral high ground to deliver a thumping. Having given them a chance, I steeled my resolve to exterminate them. It kept the narrative simple. The rules of engagement with the ratfolk reverted to mother nature’s default interaction—a fight to the finish.
+
+I surveyed the area beneath the overhang. A fire pit blazed, and its brightness made me mentally scratch off the idea that Presence could blind my foes. Skids and stacks of oversized baskets haphazardly cluttered the middle of the room. The dwarves might have balked at the careless workspace, but I could use the obstructions to divide them.
+
+Both sides of the standoff had plans for the mole’s arrival, and we delayed combat until it did. I counted the kobolds and came up with 41 enemies, not counting the ratipedes. While we waited, I cast Scorch on the weakest, rounding them down to 40.
+
+The waist-high harvesting crew held their line, keeping me at bay, clarifying that they preferred the mole to do their fighting for them. They didn’t need to kill me, only push me outside of the overhang. The kobolds pressed closer to ensure I stood outside the cave’s mouth when the monster arrived. They attacked in concert, and their coordination impressed me.
+
+Before the mole slammed into the overhang, I cast Compression Sphere at their heels, catapulting nearly a quarter of them into the mole’s battering claws. A chorus of high-pitched shrieks filled the air as they sailed, making it officially zero days since the last workplace incident.
+
+Resisting the air blast, I charged through the gap in the line made by the shockwave. The repositioning nestled me safely beneath the overhang. Now, their backs faced the mole.
+
+A tunnel opened deeper into the overhang. I could have run for it, but I had more tricks to play. I positioned myself to make the best use of my Wall of Wind. Once an hour, the shield pushed medium-sized targets back 5 feet, so I assumed smaller enemies would go further. I guessed correctly. A second shockwave sent a dozen more kobolds outside the mouth of the cave.
+
+Death messages scrolled my combat log. Unfortunately, some kobolds scrambled back into the overhang before the mole’s digging paws pulverized them. So far, the death count totaled 16—over a third of my enemies.
+
+A single Fireball might have dispersed them, but the two push mechanics counted for my only area-of-effect attacks. Without Fabulosa’s arsenal, I needed to take them out piecemeal.
+
+Dropping my shield, I aimed and shot my new Light Crossbow. It let me launch a 33-point magic missile for free—enough to one-shot a kobold. The instant attack fired only once every 30 seconds, so I equipped my spear, Creeper. This maneuver took so long that three falchions found their mark, causing 90 points of damage, almost a third of my health. I decided not to switch weapons in melee again. I cast Rejuvenate to heal 60 points over the next ten seconds.
+
+Meanwhile, the mole’s claws reached as far as possible into the overhang, gouging into the rock and pulverizing the overhang. The ground rumbled as if an earthquake machine besieged us. The scars the creature inflicted on the stone marked the field of play. Despite the dust hanging in the air, everyone could see the line of death.
+
+While the kobolds regrouped, I cast the six-second Scorch to kill another. Shocking Reach proved enough to take out one beside it.
+
+Their health stood at double the amount of the kobolds who’d assaulted us on our first trip to Hawkhurst, but these 30-point falchion attacks unsettled me more. I got off another fatal Scorch before they rushed as a group.
+
+While my spear badly wounded one attacker, my counterattacks didn’t deter their stampede. Though the falchions moved slowly, so many attacked at once that six scored hits, dropping my health by a whopping 183 points. The wave of damage left me with less than a 100 left. I tried to use my Charm of Rescue, the trinket that allowed me to flip a Restore into an instant, but I’d used it during my fight against Winterbyte and hadn’t reset its cooldown. Instead, I fell back and spent six seconds casting, Restoring 80 health, only to be hit four more times with falchions.
+
+Their natural coordination astonished me—mainly since my assailants amounted to simple farmers.
+
+I had only 56 health, and 22 kobolds surrounded me—of which 20 stood unscathed. Only forty seconds had passed since I’d launched a Compression Sphere, and I had over a four-minute wait before I could use it again. Did I want to burn my Slipstream to run away from farmer kobolds? Shaking off the thought, I resolved to finish the fight on my terms.
+
+I opened the Slipstream interface and assayed the field of battle while time stood still. The kobolds pinned me against a wall. Fleeing looked attractive, but running from room to room incurred more risks than it avoided. Besides, I haven’t quaffed a potion and could use the crowded environment to my advantage, especially after repositioning myself.
+
+Instead, I maneuvered around their ranks, placing myself between the door and the body of workers. They’d have to get past me if they wanted to duck into the tunnels and raise the alarm.
+
+I lunged my spear into the nearest enemy. It exposed me to counterattacks, but I Slipstreamed through them before they could bring down their heavy blades.
+
+Crouching behind a stack of skids and baskets, I peered through the junk to observe their reaction. Every second that I could delay further engagement brought me closer to another heal. They hadn’t seen where I’d gone. Their noses sniffed the air, and while they looked about, I Scorched one. A few glanced toward the cavern, where the mole still clawed its way to us. I popped a Rejuvenate while they searched, and the spell’s golden ribbons of sparkles caught their attention.
+
+It wasn’t the most tactical use of Slipstream, but avoiding getting cornered had to have planted doubts in their minds.
+
+The group that hurried toward me hesitated to attack without the rest of their group. I cast Shocking Reach, Scorch, and shot another with my arcane crossbow while they regrouped.
+
+Eventually, they realized they needed to attack soon, or I’d pick them off at range. With only a few near me, I fought without fear of multiple counters and dropped three more with my spear as the rest of the group reached my hiding spot.
+
+While they reformed, I cast another Restore, regaining over half my health. Moments before they orchestrated another charge, I Magnetized one kobold’s falchion into its neighbor’s neck. The target clutched at the cut, bleeding out and falling to the ground. They wore no armor, so the blade mortally wounded the victim.
+
+The wielder’s companions squeaked sharply, and the distraction bought me enough time to swing its falchion threateningly toward its compatriots. The kobold whose weapon I Magnetized fought against me so I couldn’t redirect another attack.
+
+Quicker than I’d guessed, one of his companions cleaved their weapon into him in a fatal rebuke. Frontier justice might be undeserved, but it was always swift.
+
+With their attention misdirected, I tried casting Move Object on another falchion, but the spell wouldn’t work on items in another’s possession.
+
+Every second they argued amongst themselves brought me another second closer to my healing spell cooldowns.
+
+The strength revolved around their coordination, and the more doubt I sowed in their ranks, the less effective they could be in battle.
+
+After precious seconds, a fat kobold squeaked something and pointed at me.
+
+Name
+
+Rummy, Graytooth Server
+
+Level
+
+5
+
+Difficulty
+
+Easy (green)
+
+Health
+
+66/66
+
+Rummy wore harness-like leather that provided a modicum of protection. What bothered me wasn’t his higher health or armor—it involved his ability to rally his cohorts. I had to hand him credit. They’d lost two-thirds of their crew but renewed their attack after only a single reprimand. The discipline of simple food bearers surprised me.
+
+Our battle ensued.
+
+Since the Light Crossbow’s Arcane Missiles cost nothing, and I used cantrips and low-mana spells like Scorch, I had more than half of my mana reserves. I splurged on Mana Shield to stave off the damage. Knowing I could withstand attacks let me concentrate on offense. It made for a costly yet effective strategy. Reducing their numbers depleted three-fourths of my mana pool.

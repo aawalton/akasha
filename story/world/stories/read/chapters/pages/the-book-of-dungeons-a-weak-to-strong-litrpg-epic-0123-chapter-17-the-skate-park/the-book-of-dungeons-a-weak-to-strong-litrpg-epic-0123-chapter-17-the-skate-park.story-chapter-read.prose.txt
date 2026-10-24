@@ -1,0 +1,161 @@
+My character sheet showed an 85 experience point gain for battle, half of what I could have gotten soloing it, but the outcome could have been much worse. “I’m 105 points away from level 20, but I’m glad you guys showed up when you did.”
+
+Fabulosa ruffled my hair, sat down, and performed a Rest and Mend. “Don’t worry, widdle brother. I’ll protect you from those nasty piggies.”
+
+Leaping from the water made for a fun way to attack, so I understood her headiness. I scanned the combat log. “You took some hefty damage yourself.”
+
+Fabulosa grinned. “That’s the last time I cast Discharge in the water. I got no damage from Ignite Weapon, but it still made a nice visual. And it’s looking like 304 damage is the new number to beat.”
+
+I couldn’t help but grin at her competitiveness. Slipstream made backstabbing possible without stealth, and the Aggression bonus made it easy to set new damage records.
+
+I let level-20 Fabulosa lead the dwarves through the Underworks. I’d blown through all my cooldowns and felt okay with serving as a second banana.
+
+Thankfully, none of the commotion we’d caused alerted neighboring monsters, so we combed through the creature’s belongings in peace.
+
+The sludgemonger’s +2 damage jawbone gave +2 stamina, which would be a great backup weapon for Bernard if he ever needed a slashing weapon. It wore 20 gold pieces worth of jewels and possessed a yellow core.
+
+Item
+
+Yellow Core
+
+Rarity
+
+Rare (yellow)
+
+Description
+
+Level 24 coreBoss Bonus 1 Sturdy
+
+Its companion tuskers carried white cores. Sticking my hand into a monster’s dead mouth never felt pleasant. These pigs’ powerful jaws had flat teeth, but they unnerved me.
+
+An open hatch connected the trough room to a passage with an unusually high ceiling and ankle-deep water. The fetid atmosphere felt humid.
+
+Lloyd gestured to the hatch behind us. “Dog the door, sonny. It might keep tuskers away from the fugitives.”
+
+Fletcher closed and tightened the hatch wheel behind us.
+
+Everyone looked at Lloyd for his thoughts about the hallway. We followed his eyes to a highwater mark about 10 feet above the floor, about halfway up the wall, but the old sailor made no comment. It became clear he didn’t recognize the place.
+
+Water flooded the hallway in one direction, so we took the dry route. We heard rustling up ahead, so I doused Presence. The glow stones weren’t as invasive and didn’t tip off our hosts.
+
+We rounded to an irregularly shaped room filled with piles of waste matter. Silo-sized pipes ran from floor to ceiling, and solid waste matter blocked access to much of the space. A small fire lit the room’s center. It wasn’t possible to guess what burned, but it smelled putrid.
+
+Between the debris and piping, dozens of glowing eyes reflected off the flames and glow stones. Their height off the ground made it easy to tell between the tuskers and the towering porcine sludgemongers. Thankfully, only two minoboars occupied the area, and neither carried weapons aside from fists.
+
+A graywater tusker rolled filth into the fire, feeding its flames. The walls danced with shadows. They knew someone had entered their territory.
+
+I immediately poured mana into an Imbued arrow as Fabulosa opened with a Fireball that did about 30 damage. Fireballs did minor damage but affected multiple enemies.
+
+While the momentary blaze distracted them, I launched my glowing arrow at a sludgemonger and missed. “Oh, come on!”
+
+Fabulosa surprised me by casting Compression Sphere, launching the pigs into the air for minor falling damage. When I saw it knocked the sludgemongers off balance, I did the same. Our efforts inflicted insignificant damage, but the blasts created chaos and delayed a concerted counterattack.
+
+We poured on the free damage. Fletcher sailed arrows into close targets. When they closed the gap between us, I Slipstreamed behind one minoboar and attempted to backstab it for cheap combat multipliers. Unfortunately, I missed it again. I hadn’t alerted them to my flanking position when I followed up with a successful 86 damage with my still-wet trident. My strike wasn’t a crit, and I turned on Presence. Unfortunately, its eyes had adjusted to the nearby fire.
+
+Fabulosa Slipstreamed behind my opponent when it turned to face me, gaining her own backstab bonus until it maneuvered out of the way. Our five combatants quickly burned down the 7-foot minoboars with focused fire, leaving only low-level tuskers to clean up.
+
+Fletcher fought off the other sludgemonger, and we wrapped him with heals to keep him up. Blaine and Bernard had no problems fending off random tuskers. The fight made for a long but manageable encounter.
+
+The battle earned me 161 experience points and enabled Fabulosa to make bacon-related jokes and puns at our opponents’ expense. We also collected 14 gold worth of jewels, coins, and trinkets, ten white cores, and a pair of greens.
+
+Congratulations!You are level 20
+
+You have gained a level. You have increased your agility by 1, intelligence by 1, and willpower by 1. You have received 1 power point. You have 2,525/2,655 experience points toward level 21.
+
+I’d unlocked no new melee abilities since my training in the battle college, so I suspected I needed to spend power points to unlock anything sexy. With only one power point at my disposal, I sat tight. I wanted the Shield Bash melee ability. Seeing Fletcher Stun opponents appealed to me, but I needed its prerequisite, Quick Shield, to unlock it.
+
+Quick Shield passively increased a shield’s damage mitigation by 100 percent. While shields helped in combat, spending two power points on them would be wasteful if I found a must-have two-handed weapon.
+
+After we recovered, we walked along the walls’ perimeter, looking for another passage out of the room—anywhere to escape the stench. The pipes and impassible waste matter formed a maze. The disorienting layout might be comfortable for minoboars, but the space wasn’t ample enough to make us lose ourselves.
+
+We finally found a narrow exit and took it, hoping the new space might alleviate the stench. Impossibly, it grew stronger. We gagged and retched while accustoming ourselves to it.
+
+Lloyd buried his lower face into his shirt to avoid breathing the atmosphere, and it muffled his voice. “These foul vapors might be from the sewers. Uncharted to anyone I know. The hogs must have breached into the Underworks from them.”
+
+The floor in our hallway opened into a tunnel on a level beneath it. The tunnel’s construction used aged, stained bricks, wholly different from the metal Underworks passages.
+
+Olfactory senses confirmed that it undoubtedly led to the source of the miasma.
+
+“Here’s the breach. We’ll have to go down there to cork the pork.” Lloyd looked apologetic when he spoke. He didn’t want to send other people into such a stink, but the only way to usher the prisoners to safety included closing off this section.
+
+I recast Presence and descended. The stink grew so bad the dwarves no longer led the way. They fell behind me as if to endorse turning back. We climbed into the new tunnel system and followed the ankle-deep trickle of fluid upstream. Everyone buried their noses into the crooks of their arms.
+
+A packed, rock-like compound hung on the walls and ceiling. When I rubbed Creeper against the substance, it crumbled into gravel-sized chunks.
+
+We followed the tunnel until it ended in a wall of the same compound, which leaked like a dike.
+
+Lloyd inspected it. “This blocks the sewage flow. Someone wants this dammed up.”
+
+Fabulosa followed Lloyd’s eyes. “Seems to me a good reason to tear it down. Maybe clearing it will wash away the pigs?”
+
+The disgusting blockage had an oddly packed surface and looked like it dammed a lot of water.
+
+Bernard took my old mace, The Black River Cudgel, and began hammering. Blane swung his Rainbow’s End axe, and the pair worked for a few minutes before giving up. They regarded the twenty-foot-wide barricade of debris with dismay.
+
+Bernard waved at his nose. “This boggin’ wall will take forever to clear, and it reeks like Blane letting go after breakfast.”
+
+Blane buried his nose into the crook of his elbow. “It’s worse than that! This is no place to work.”
+
+I agreed. We could dig through, but the stench overpowered us. The spell Dig came to mind.
+
+Power (spell)
+
+Dig (tier 3)
+
+Prerequisites
+
+Mineral Communion, Nature magic rank 18
+
+Cost
+
+50 mana
+
+Cooldown
+
+20 seconds
+
+Cast time
+
+Channel
+
+Description
+
+At 1 cubic yard per second, caster can excavate dirt and debris for every rank of nature magic. Concentration must be maintained to sustain the effect.
+
+This spell had applications back in town. While it would make digging wells, tunnels, and foundations easier, the pace of construction no longer haunted us. It could be helpful in the construction of fortifications. I could make holes into the ground for palisade logs. I just needed a good excuse to take the spell, and clearing this obstruction might allow me to use it twice. Still, I didn’t want to be hasty. I wanted to explore the other direction of the tunnel to see what we would be flooding.
+
+We doubled back and explored the other end. We passed stalactites and stalagmites of solid waste matter that looked like mud hardened into a solid compound.
+
+The sewer tunnel overlooked a tennis court-sized space. A hardened compound caked against the ceiling, floor, and walls rounded out a donut-shaped bowl with a raised island in the center.
+
+The concave shape reminded me of a skatepark, making me immediately dislike the area.
+
+After moving into my aunt’s house, skateboarding became my excuse to leave the house. My aunt hated the noise of my practicing, so she let me leave the neighborhood. Knowing how to use the street topography to do tricks gave me a sense of ownership of the territory. It seemed important for a lonely, angry kid to mark things with my skateboard. I grinded benches, curbs, and handrails all over town, spending all my money on trucks and wax. Until the cops caught me, I became quite the vandal. When they threatened to cite me with the destruction of public property, a criminal misdemeanor, my aunt took the skateboard away and ended my skateboarding career.
+
+Before losing my board, I once visited a skatepark filled with trenches, bowls, and half pipes. But none of these obstacles struck my fancy because they didn’t exist in the wild. Their clean, deliberately smoothed surfaces struck me as fake. The etiquette of taking turns on ramps turned me off.
+
+This roller derby room reminded me of that skatepark, except the same material that dammed the other end of the tunnel also encrusted this donut-shaped arena. And in its center stood a trio of creatures. A five-foot porcine centaur flanked on either side by wrinkled, deformed sows.
+
+Name
+
+Fatberg, The Sewer Sovereign
+
+Level
+
+25
+
+Difficulty
+
+Challenging (yellow)
+
+Health
+
+1330/1330
+
+Fatberg had a corpulent body of a man from the waist up. Folds of flesh cascaded over his beltline like an apron, a cataract of fat dangling above the body of an oversized boar. His face sported a pig’s nose and jagged tusks.
+
+His sow companions were so misshapen that they didn’t seem able to stand or walk. As great beanbags of meat, their limbs and teats radiated like someone had scrambled their skeleton. Their costumes matched their bizarre physiology. Straps held what looked to be pointed metal brassieres. Each of their hooves ended in metal stiletto heels that looked impossible for anyone to walk on. Heavy leather straps held the sharp cones together—each aligned over a teat.
+
+I stared at the scene. “You don’t see that in other games.”
+
+Fabulosa curled her lip. “They look like they’re wearing Valkyrie bras. That’s just wrong.”

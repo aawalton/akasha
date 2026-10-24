@@ -1,0 +1,217 @@
+Greenie absorbed my telling of the dungeon crawl without interruption. When I finished, the goblin conveyed his admiration. “I confess, your account is remarkable, Governor. Further unrest from the kobolds is unlikely as they’re not a territorial people. If a sizable force encroaches on their land, they typically dig elsewhere. The wretches aren’t known for assertiveness.”
+
+I grunted at his logic. “There’s no reason to fight when new tunnels are easily had.”
+
+“Quite so.”
+
+Kobolds embraced callous attitudes. They bullied one another and showed cruelty for the sake of enjoyment. Using one of their own as bait to lure Beaker’s mother into their nets amounted to everything I needed to know about their values. But the optimist in me still wanted to believe they could be peaceful. “So, you think they’ll honor their word?”
+
+“I expect they’ll forget it. Ratfolk care little for valleys or flat terrain—they seek only easy targets. They would have avoided us regardless. Wresting them from the yoke of wererat control made for a prudent move. In my estimation, you bore witness to their overseer’s ambitions. You said Femmeny was her name?”
+
+I nodded.
+
+“Wererats have enough humanity to be insatiable.” As he spoke, Greenie searched my face for indignation.
+
+As a non-native to Miros, I grinned to show I harbored no insecurities. The frog and scorpion parable came to mind. “I guess we can’t help but be greedy. It’s in our nature.”
+
+Greenie gave no reaction to my self-effacing humor—which probably wasn’t as humorous to non-humans. I shared no history of hostilities between goblins and humans, so I let the matter rest.
+
+Greenie seemed content to avoid the topic as well. “An empowered wererat is a neighbor Hawkhurst could do without. You did very well to depose the usurper. I expect the kobolds will remain quiet if Queen Mina doesn’t fall into mad dreams again.”
+
+Rocky returned to the town hall with a sack of bread. He warmed up some leftover soup and brought chunks of freshly baked rolls. Even though I’d already eaten, I slurped down the stew with abandon. Since coming to the wilderness, I couldn’t remember when I’d last turned down hot food and fresh bread.
+
+Instead of being lazy and asking Greenie about our camp’s needs, I opened my interface and did the homework myself.
+
+Morale
+
+42 percent (worried)
+
+Factor Events
+
+180 percent
+
+Factor Security
+
+90 percent
+
+Factor Culture
+
+64 percent
+
+Factor Health
+
+39 percent
+
+Hawkhurst returned to the doldrums—an improvement over the recent crisis. It cheered me to see our security rating back at 90 percent. Confidence in our ability to defend ourselves had gone from a liability to a hallmark. Hawkhurst’s chief problems were culture and health.
+
+We’d destabilized our town’s identity by doubling the population with debtors from Arlington, so a low culture rating made sense. Cultural buildings that enhanced our way of life needed tier-3 blueprints. Until they came within our reach, we could only expect gradual improvement.
+
+Time leveled our events rating to 100 percent after spiking over a recent victory over Winterbyte. But our health rating dragged our morale into the 40s. Studying its contributing factors identified the problem.
+
+Health
+
+39 percent (unwell)
+
+Factor Diet
+
+91 percent
+
+Factor Fitness
+
+69 percent
+
+Factor Rest
+
+100 percent
+
+Factor Comfort
+
+62 percent
+
+Our diet rating had taken a 2-point dip since the Arlingtons joined us, but it wasn’t our most pressing matter.
+
+We couldn’t do anything to improve our level of fitness. Before the humans arrived, the town’s fitness stood at 100 percent, a drastic improvement from Hawkhurst’s beginning. Assuming our diet rating remained stable, this factor would return to 100 percent shortly. That was good news.
+
+Comfort became the culprit of our woes. We had 58 new people with nowhere to sleep. Lacking two roundhouses worth of bunks, it wasn’t tough to guess the next project. That’s why it surprised me we weren’t constructing more residences.
+
+Building Status
+
+Soap House
+
+Remaining Build TimeEfficiencyWorkers
+
+0.5 days47 percent65
+
+I closed my interface. “Where are people sleeping?”
+
+Greenie pointed to Hawkhurst Meadow’s master blueprint showing our building locations. “Most find places in the barns or roundhouse floors. It’s an improvement from their conditions in Arlington, but there’s social friction regardless. The new arrivals feel like second-class citizens.”
+
+“That’s no good. Then why is Ally building a soap house?”
+
+“We felt it pertinent to address the odor of making soap outdoors. It draws insects and introduces impurities that indoor enclosures avert. Manager Ironweave and I have received many complaints.”
+
+“Manager Ironweave?”
+
+“Ally.”
+
+I nodded, remembering Ally’s last name. The confusion made me wish Greenie used first names like everyone else.
+
+“Our refugees have barely been here for a week, and they’re already complaining? I didn’t realize it smelled so bad.”
+
+“At present, we have no soap. A proper structure allows us to manufacture it in batch quantities. Manager Ironweave—Ally—placed the soap house by the coal pits to minimize the distance the soap makers needed to haul ash. The bathing basins lay closer to the river, but drainage will become an issue until we upgrade it to a bathhouse.”
+
+“We’re taking our baths up there too?”
+
+Greenie nodded.
+
+I supposed a fifteen-minute walk justified keeping used bathwater away from the residences. When we could build tier 3 structures, I planned to build a bathhouse closer to our sleeping quarters.
+
+“And after the soap house, we’ll build roundhouses?”
+
+“Ally thought it best to erect a slaughterhouse. It’s little more than a shack and will take only half a day to construct. It’s another source of odor that townspeople find disagreeable. If a patrol hunts and kills another dinosaur, they can process the carcass near the soap house.”
+
+“Then we can fix the sleeping problem?”
+
+Greenie nodded. “We require more farms, and we are already plowing new fields. We don’t need to queue farms like other structures.”
+
+“What’s wrong with our farms?”
+
+“We need more of everything. Until we can irrigate more efficiently, rice won’t be an option. Charitybelle and I worked on aqueduct plans, which become more realistic with your new Dig magic.”
+
+“Dig? What’s Dig have to do with anything?”
+
+“Watching you use it to plant defensive stakes gave Ally the idea of supplementing our earthmoving efforts with magic—if you’re available.”
+
+I nodded with enthusiasm. Using Dig on an industrial scale elicited enticing propositions. Given the mana cost, short cooldown, and spell description, I could remove over a hundred cubic yards of earth before my mana depleted. After a ten-minute Rest and Mend, I could do it again, becoming a one-person digging crew. Ranking up my nature magic while performing practical tasks would be a pleasant change of pace.
+
+I wished my nature magic rank had been higher when we built the motte and bailey. The Dig spell would have saved us at least a week of work.
+
+Greenie showed me a blueprint of a dock. “Dig could be instrumental in several projects. Lloyd recounted your adventures beneath Arlington and spoke highly of your underwater abilities. Erecting bulkheads and piling without cofferdams speeds up dock construction. Having docks on either side of the river would mark a milestone in our trade route efforts.”
+
+I studied the dock blueprints.
+
+Create Building
+
+Docks (tier 2)
+
+Description
+
+Commercial StructureSlip space for up to 50 feet of ships. May be upgraded to a shipyard.
+
+Details
+
+Structural Points 150Location -3.9, -14.6
+
+Materials
+
+Displaced Soil 40 cubic yardsTimber 80 battensTrees 20 logsLine 60 100-foot coils
+
+Build Estimate
+
+4.2 days with 80 workers at 35 percent efficiency
+
+Core Bonus
+
+None
+
+The requirements for building a dock didn’t seem so bad—however, we’d need three. One for each side of the river and one to convert into a shipyard. “We’d still need a big flatboat to ferry caravans, right?”
+
+Greenie tapped the blueprints for emphasis. “Correct. But the prerequisite to upgrading docks to a shipyard is a manor.”
+
+Looking at the other tier 2 structures, it seemed like we’d built everything we needed. We could focus on the manor as soon as we finished with the roundhouses. Manors unlocked tier 3 blueprints, so the sooner we built one, the sooner we’d have more options to address town concerns—such as our flagging culture rating.
+
+Greenie put away his blueprint. “Dig might be helpful with another tier 3 structure—fountains.”
+
+“I’ll be available for whatever the construction crew needs. It seems like magic could be an enormous boost. I’ll keep tabs on Ally to make sure we take advantage of our spells.”
+
+My math projected the time it would take to construct two roundhouses. Our efficiency would drop from 47 to 30 percent in five days, so I thought it best to allocate our resources to sleeping quarters. It made sense for everyone to help construct their own homes. We could finish each roundhouse in two days by assigning an 80-person crew of workers, leaving two dozen to maintain our town and agriculture. It sounded like a sensible shortcut.
+
+Greenie gestured to his blueprints. “With Governor Charitybelle’s siege hammer serving the quarry, we no longer need custom blueprints to avoid stonework. Contrary to our previous strategy, Manager Ironweave favors more masonry, not less, to improve structural strength. Before petitioning the quarry master for more rock, do you believe stouter structures warrant customized blueprints?”
+
+“Wait. Ally wants to customize buildings to use more stonework?”
+
+The goblin nodded.
+
+Dwarves love stonework, but I leaned against the idea. In the long run, these counted as throwaway buildings, what would become Oldtown in the future Hawkhurst. The valuable real estate rested in the mile-long stretch of Hawkhurst Rock extending along the lakeshore to the Orga River.
+
+Charitybelle and I discussed fanciful, pie-in-the-sky ideas like water slides for her otter friends and gardens aligning the Orta’s riverbanks. More than anything, she wanted a castle overlooking the water. All things being equal, I hoped to realize her vision.
+
+I wasn’t sure if she shared this dream with Greenie, but since he’d been her partner in architecture, it made sense to talk about Hawkhurst’s long-term plans.
+
+“Greenie, how much of Charitybelle’s plan do you know? Do you know she wanted a castle?”
+
+Greenie beckoned me out of the dining area and to the drafting tables in the back of the town hall. I followed him and waited as he sorted through sheets of vellum.
+
+When Beaker made questioning squawks, I mentally reassured him I wasn’t leaving the building—just over to Greenie’s work area. The griffon seemed satisfied but watched my every step. He opened his beak and readied a scream if I made any false moves.
+
+I recognized the drafting vellums from their size. We purchased them during our Grayton shopping trip. In my experience with manuscripts, Belden’s parchment cutters couldn’t make such big sheets.
+
+Greenie pulled out two vellums and spread them across the tables. The first contained possible castles on Hawkhurst Rock. Their footprints ranged from square to round to complicated shapes.
+
+“Wow. These are…”
+
+Greenie finished my sentence when I could not. “Ambitious?”
+
+Castles looked inherently cool. In my years of gaming, I learned a few things about them. They took many years to build, but the English had hurried some of their biggest to just a few. Quarrying rock with Charitybelle’s siege hammer expedited resource gathering, but I couldn’t guess how long a castle might take to construct.
+
+Greenie pointed out a more specific blueprint of a double-towered gatehouse flanked by two drawbridges. “This is a barbican. We could use it as a temporary castle.”
+
+I pored over the blueprint’s details. Unlike manuscripts, I had a difficult time reading them. “Ah. So while we’re building the rest of the castle, we could use a gatehouse for shelter.”
+
+“Yes, but it’s not exactly a gatehouse. Gatehouses lie inside the castle’s outer curtain, but a barbican stands outside.”
+
+“The outer curtain is the outer wall?”
+
+The goblin nodded. “Hawkhurst Rock immunizes us from undermining. Goblin sappers are especially adept at this tactic. This leaves our most vulnerable position at the gate, hence the extra protection.”
+
+“I’m not sure I understand the design. It’s a bit weird. Where’s the gate?”
+
+“There are two drawbridges.” Greenie pointed to two sections on the blueprint. “We can change this, of course, but my idea of the dog-leg entrance thwarts battering rams. Supply wagons can turn the tight corners, but battering rams cannot. And if enemies somehow penetrate the barbican, we’ll have two more portcullises awaiting them at the gatehouse, which should be the next castle structure. I ceased working on its design when Charitybelle left us. But the siege hammer fixes our quarry problems. If you concur, I could return to the castle design.”
+
+“Yeah. Let me know what you come up with. It’ll be a while before we can do any of this, right?”
+
+“I am afraid so. A barbican is a modified gatehouse, a tier 3 building. We’ll need to build a manor before I can verify the blueprint.”
+
+“Thanks for holding the fort down. Charitybelle would have been proud of how well we survived the crisis.”
+
+Greenie bowed. “You are too kind to say, Governor.”

@@ -1,0 +1,147 @@
+Informer and Instructor promotions gave significant bonuses to Hawkhurst citizens, but they didn’t seem to reflect the command style we needed against gnolls and wolves.
+
+The third tier 1 promotion, Leader, could help my play style. Of the qualities I lacked, confidence in leadership topped the list.
+
+Power (promotion)
+
+Leader (tier 1)
+
+Prerequisites
+
+Command rank 1
+
+Description
+
+Emphasizes influence. Militia serving commanders with this promotion will receive a 20% improved morale.
+
+Tier 2 promotions
+
+Diplomacy, Logistics, Mustering,
+
+I hoped this might have construction implications because morale influenced our work crew’s building efficiency, but the bonus applied to subordinates during active campaigns. Even though it didn’t help with construction, our state of morale created a significant liability, and a boost could be crucial. Leadership wasn’t my strong suit, and I wasn’t too proud to increase my charisma artificially. The Leader promotion felt like an obvious band-aid to our battle readiness until I read about its tier 2 upgrades.
+
+Leader’s first tier 2, Diplomacy, improved the commander’s stats. Diplomacy gave +50 percent influence when negotiating with another settlement officer. I might have considered this avenue if we hadn’t already negotiated a successful agreement with the wainwright guild, but we already had a smart goblin for that.
+
+Willpower affected influence, but it had no bearing on other players. Of the many potential enemies on Miros, our opponent numbered among the 33 entities immune to influence. Were Winterbyte an NPC, Diplomacy might have avoided a confrontation. Her player status made Diplomacy useless.
+
+Leader’s second tier 2 upgrade, Logistics, looked valuable for large armies. It gave the commander a new skill, called management, which didn’t sound like a skill I could easily rank up. Even if it unlocked rare powers, I didn’t see how managing a large army could produce anything worthwhile in my battle royale against other players. Like Diplomacy, it felt inapplicable to our needs.
+
+Mustering gave a commander a +50 percent influence in recruiting untrained citizens into the militia. It also buffed militia with a 500 percent increase in acquiring combat skills up to level 5. This power benefitted larger populations, and with our barracks training bonus, Mustering could quickly solve our defense problem. I could probably get the entire town fit for combat within a few days—and training everyone together might help with the cultural and security ratings. But this tier 2 promotion fell out of my grasp—I needed to earn 50 glory points to take it.
+
+Leader’s morale boost gave us a quick fix to morale, but it felt lackluster in the long run. I considered the promotion worthwhile until I read the description for Planner. If ever a play style suited me, it involved planning.
+
+Power (promotion)
+
+Planner (tier 1)
+
+Prerequisites
+
+Command rank 1
+
+Description
+
+Emphasizes inventive tactics. Commanders with this promotion have a 120% managerial bonus in construction.
+
+Tier 2 promotions
+
+Field Engineer, War Architect, Exotic Inventor
+
+Unfortunately, this promotion made Ally’s 120 percent managerial bonus redundant. Perhaps she already had a similar power for civilian projects.
+
+Field Engineer felt like the first impressive tier 2 upgrade. Commanders who took Field Engineer unlocked siege engine blueprints, allowing for military structures outside the settlement. It also eschewed efficiency penalties for undertaking a second construction project as long as it erected a defensive structure. I couldn’t care less about siege engines, but a bonus for more than one construction site piqued my interest until its description explained how we couldn’t use it for buildings inside the settlement. Field Engineers needed to be in the field.
+
+Still, this power had other applications. A ring of scout towers around Hawkhurst, or possibly an outpost along the caravan route, would serve our purpose.
+
+War Architect affected the commander instead of the militia. Instead of structures, the commander received a skill called combat designer. War Architects devised, recognized, and countered battlefield strategies like coaches designing playbooks for sports teams.
+
+The value of War Architect rested in the rarity of the combat designer skill. My high research rank had netted me Applied Knowledge, which tripled my rate of skill progression. Not only would Applied Knowledge help me increase my rank as a combat designer, but it might unlock powers other players couldn’t access or recognize. It made for an enormous gamble, and since combat designer wasn’t an active combat ability, I could rank it up while safe at my governor’s desk in our town hall.
+
+Planner’s last tier 2 upgrade, Exotic Inventor, also gave the commander a rare skill. The idea of becoming a local Archimedes or Leonardo da Vinci enticed me, but I preferred reading about these people more than becoming one.
+
+Exotic Inventor unlocked blueprints for exotic weapons. I wondered if this might include things like traps. I fancied luring other contestants out of the game by creating dungeons bristling with killer traps and ambushes. Becoming a dungeon master might be another way of competing in Crimson Software’s battle royale, but this choice seemed highly speculative.
+
+Exotic Inventor felt like a Greenie or Charitybelle thing. I wasn’t an engineer. But if unlocking rare skills revealed rare powers like Slipstream, Exotic Inventor could pay handsome dividends.
+
+So far, I liked Planner the most, but two promotions remained—Protector and Raider.
+
+Power (promotion)
+
+Protector (tier 1)
+
+Prerequisites
+
+Command rank 1
+
+Description
+
+Emphasizes defensive tactics. Militia serving commanders with this promotion will receive 50% more health.
+
+Tier 2 promotions
+
+Aid Ally, Battle Regeneration, Tough Armor
+
+Protector felt like it might aid us against Winterbyte. A health bump wasn’t exciting—but boring kept people alive. Passive stat boosts offered many applications. If Hawkhurst could somehow produce gear with stamina, we could benefit from this promotion.
+
+Protector’s first tier 2 promotion, Aid Ally, gave a unique heal, Merciful Touch, to everyone under my command.
+
+Power (ability)
+
+Merciful Touch (tier 2)
+
+Prerequisites
+
+Protector
+
+Cooldown
+
+Once per day
+
+Cast time
+
+Instant
+
+Description
+
+Militia in an active campaign may heal an ally within range of touch for 33 percent of their missing health.
+
+Merciful Touch gave a lay-on-hands heal for 33 percent of an ally’s missing health. Woe to anyone facing an army of healers! The spell’s description specified the target had to be an ally, so we couldn’t turn it against undead attackers. We couldn’t use it in dungeons unless they served as a backdrop for an active campaign.
+
+I liked Merciful Touch for several reasons. Perks based on percentages scaled, and this power synergized with Protector’s 50 percent health boost. The higher our health pool grew, and the more damage we could take, the more powerful this promotion became. I also like that it could benefit me. Merciful Touch wasn’t a spell but an ability, so it didn’t require mana. Our fight against Odum had taught me the vitality of mana management. It might fool enemies. If Fabulosa and I ran out of mana, enemy players might overextend themselves for a killing blow, only to learn we had reserves of instant health.
+
+This power also scaled in number. The more militia in our ranks, the more we could heal one another. With Aid Ally, sustainability rested in numbers.
+
+Battle Regeneration felt like the first supernatural upgrade. Troops regenerated health at 10 points per minute. This rate wouldn’t mean much to higher-level warriors like Fabulosa or me during a crazed fight against bosses and players, but it empowered besieged low-level NPCs in drawn-out battles.
+
+A guest lecturer in Belden dispelled one of the modern conceptions about battles. Mass combat took time, and the army charging forward usually lost. Troops valued their lives and rarely clashed with the enemy at full speed unless one side involved heavy cavalry. Battle Regeneration could also be psychologically helpful. It allowed us to rotate people on the front, allowing us to sustain prolonged engagements.
+
+Tough Armor applied to many situations. Armor tied into so many systems, I couldn’t ignore its potential. With enough sustainability, time worked on your side. It also gave healers more time to heal and emboldened troops—which might prove priceless if morale played a significant factor.
+
+So far, Protector stood out as my favorite, with Planner coming in second place.
+
+Power (promotion)
+
+Raider (tier 1)
+
+Prerequisites
+
+Command rank 1
+
+Description
+
+Emphasizes offensive tactics. Militia serving commanders with this promotion will receive a 20% chance to hit.
+
+Tier 2 promotions
+
+Improved Chance, Improved Damage, Improved Range
+
+The last promotion, Raider, opened a predictable path for would-be generals. It increased the likelihood of hitting an opponent with an attack by 20 percent. It added up, considering mass combat attacks incurred extreme conditions, like archers shooting from total cover or at heights. This bonus acted like a +20 agility bonus that didn’t help with dodging or movement. Despite its name, it worked well for wall defenders.
+
+Improved Chance came as a mild surprise. Instead of doubling down on increasing the chance to hit, it tripled the likelihood of a critical strike. A fully geared player at my level critically hit about one out of ten attacks. This promotion means critically hitting about a third of the time. Though critical hits weren’t important to low-level warriors equipped with standard weapons, Hawkhurst’s munitions could exploit this situation. Our town already boasted a shiny, green battle college, and I could distribute our cache of magic weapons instead of selling them. We could dip into our growing pile of cores and forge special arms.
+
+The description for Improved Damage gave a +5 damage per hit—an incredible bonus for mass combat at low levels. My level 30 trident only got a bonus of +8 damage when wet. Giving +5 to everyone under my command could provide a decisive advantage. But it didn’t scale.
+
+The next tier 2 promotion, Improved Range, attracted me too. Improved Range gave my subordinates a 20 percent range increase to missile fire, such as arrows and siege engines. A better range made kiting tactics impossible to counter when combined with speed. Maneuverability had made Mongol archers unbeatable, so this, too, conjured romantic scenes of commanding highly mobile troops.
+
+I wasn’t sure that a good offense made the best defense, so Raider felt like a big question mark.
+
+Either way, I had command decisions to make.

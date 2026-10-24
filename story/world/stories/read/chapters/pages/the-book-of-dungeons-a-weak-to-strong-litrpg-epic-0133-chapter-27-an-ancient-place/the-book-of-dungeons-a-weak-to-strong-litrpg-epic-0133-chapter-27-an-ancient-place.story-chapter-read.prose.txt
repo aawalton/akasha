@@ -1,0 +1,137 @@
+Beyond the thieves’ borehole lay a square room whose ceiling had collapsed. On the far end, another blocked doorway with a borehole greeted us. Sand spilled in from a breach in the ceiling, swamping the floor and covering the trail Mineral Communion revealed. Fresh prints from tiny lizards covered the sand’s surface.
+
+“Odum seems like an old place. But it’s probably not as old as the worm room or the lizardman temples. It’s ancient by human standards.”
+
+“Maybe it’s the material.” Fabulosa rubbed her fingers against the crumbling sandstone wall.
+
+I tried using Dig, but the targeting reticule wouldn’t treat the sandstone as a valid target. At least Mineral Communion wasn’t completely useless. I could see little footprints in the sand. The spell revealed tiny lizard footprints everywhere, but we followed the thieves’ trail. The afterimages were invisible to Fabulosa, but I pointed them out as we walked.
+
+Agitated crickets or beetles chirped an incessant chorus as we approached the sand-flooded room. The fist-sized insects showed no aggression and appeared harmless aside from announcing our presence.
+
+The chime of Anticipation sounded as Fabulosa’s body jerked to the side. A chitinous appendage launched from a sudden plume of dust and impaled a wall where Fabulosa once stood. The limb looked like a mantis claw, and its strike looked near-instantaneous.
+
+If Anticipate triggered to extricate a fully healed Fabulosa, the attack it saved her from would have inflicted over 100 damage, rescuing her from a critical hit.
+
+Fabulosa’s saber erupted in Ignite Weapon and sliced at the outstretched arm. Unfortunately, she missed it.
+
+Name
+
+Trapdoor Sand Mantis
+
+Level
+
+29
+
+Difficulty
+
+Yellow (challenging)
+
+Health
+
+1770/1770
+
+A wave of sand behind the extended claw surged forward as a car-sized bug withdrew its appendage. So much dust filled the air that I had difficulty closing in on the beast.
+
+Fabulosa cast Lightning Bolt for 45 damage. Against a single target, Lightning Bolts did more damage than Fireballs, which caused havoc but were ineffective against giant creatures.
+
+I wished she’d save her mana for healing. We would not wear down 1770 health with direct damage spells. Of course, it was easy for me to criticize. I wasn’t even in melee range.
+
+The sand mantis launched its spear-like arm at Fabulosa again, striking for 50 damage. Like a fiddler crab, its asymmetrical claw offered only one such attack.
+
+I cast Rejuvenate to help my partner weather the blows. When Fabulosa countered, she slashed the monster for 26 damage while Ignite Weapon applied a damage-over-time effect. If the battle lasted, the DOTs would add up.
+
+When the monster emerged from the sand, it revealed an elongated abdomen, like a giant termite, with more than a dozen legs. Forceps-like pincers protruded from its rear, looking so wicked that I wouldn’t risk backstabs until my Slipstream cooldown became available.
+
+We danced around the insect, testing its defenses. Fabulosa and I deflected blows, using the footwork and body-positioning Dino had taught us. It jabbed its long claw at Fabulosa while I made probing attacks, searching for weaknesses around its legs.
+
+I tried to use my shield to blow sand in its face, but the cooldown still had fifteen minutes left. Fabulosa cast Compression Sphere, but dust clouds didn’t impair its vision or slow its attack. It made sense that sand didn’t bother sand mantises.
+
+Unlike the crustacean in Arlington, this monster sported full armor. We couldn’t wedge our weapons in its joints. The extra armor made its legs exceptionally resistant to damage. After rounds of middling success, Fabulosa and I maneuvered past them and struck its body.
+
+/You hit Trapdoor Sand Mantis for 32 damage (15 resisted)./Trapdoor Sand Mantis hits you for 24 damage (16 resisted). /Fabulosa hits Trapdoor Sand Mantis for 16 damage (14 resisted)./Trapdoor Sand Mantis impales Fabulosa for 48 damage (8 resisted).
+
+I opened my interface to freeze time and do a little math. I projected our chances for a straight-up tank-and-spank fight. Fabulosa and I had around 300 health, so our combined total amounted to one-third of this thing’s health. But healing counted for a lot, and our mana pools stood roughly the size of our health totals.
+
+For every 48 mana I spent on my two healing spells, we regained another 80 health. Fabulosa’s lower rank in light magic made her half as efficient. If we dedicated our mana to healing only, including a 50-point minor mana potion, we could withstand about 1400 damage before our mana and health pools zeroed.
+
+But our melee attacks produced lower damage than the monster’s output, and we hadn’t dedicated our mana to healing. The basic math showed a shortfall, and I didn’t account for critical hits, so we needed to figure something out.
+
+I inflicted twice the damage with Creeper than Fabulosa with her saber. That shouldn’t be the case. With her strength, she should do slightly more.
+
+“Fab, switch to a piercing weapon.”
+
+Moving toward its back for a backstab maneuver, I took a chance and scored a double-damage critical hit, and the monster flexed the pincer on its abdomen at me. But I prepared myself and Slipstreamed away. While the spell cost me another 30 mana, I positioned myself for another attack and struck its side for another 31 points of damage.
+
+My efforts drew its attention, and it launched its dominant arm at me, giving Fabulosa enough time to switch her weapons and pop me a heal.
+
+Fabulosa pulled out a kobold pike, and her damage doubled. I silently cursed myself for not purchasing the Prancing Blade, a gaudy rapier that delivered +8 damage. Had I known Fabulosa’s only piercing weapon came from a pike we’d looted from their ambush, I would have picked it up for her.
+
+Fabulosa’s frequent misses with the piercing weapon showcased Fabulosa’s focus on slashing damage. Her piercing skill had atrophied from keeping up with my damage output. It made me appreciate the luxury of Applied Knowledge. I could switch weapons easily because I enjoyed comparable skill ranks in all weapon types. I made a mental note to ensure we each had decent bludgeoning, slashing, and piercing weapons on hand.
+
+Her makeshift weapon improved our damage output by a third, but the math still didn’t agree with our strategy. It wasn’t enough to see us through to the end of combat.
+
+That’s when she cast Ignite Weapon on her pike. I’d forgotten about the damage-over-time effects. Each DOT took away only a single digit of the monster’s health, but it stacked. After many hits, the mantis’s health pool began evaporating. The battle lasted long, but we finished with about 50 health apiece.
+
+Congratulations!You are level 21
+
+You have gained a level. You have increased your agility by 1, intelligence by 1, and willpower by 1. You have received 1 power point. You have 2,674/2,875 experience points toward level 22.
+
+It felt nice to get a little luck from whatever algorithm the game used to increase stats. The extra point in intelligence meant I needed only 40 more mana to power my relic-killing rune. Having an unspent power point on my character sheet also cheered me. I resolved to redouble my efforts to save them. I felt vulnerable without them in the bank—last-minute spending had saved my skin many times.
+
+After doing a Rest and Mend, we pulled a green core from its mouth and cut the creature open. A green core felt weak for a level 29 monster, but rarity had nothing to do with level.
+
+I collected the protective pads on the creature’s leg joints. They would make excellent small shields. Each of its legs had three protective caps, yielding 48 armored disks. It made for an impressive haul.
+
+We exited the room.
+
+Presence illuminated the way as I slipped through the second borehole. Fabulosa followed, and we dropped into a hallway curved like a running track around a football field. Since the curve continued in both directions, it probably formed a loop. The passage stood barely tall enough for us to stand, and the heavy stone beams crossing the hallway at regular intervals forced us to stoop to go under them.
+
+We followed the round hallway until we came to a strange fountain or altar. It looked like a ritual place to wash hands or feet, but the water made no sound.
+
+Fabulosa swished her saber through the liquid, but she felt no resistance, nor did it splash off her blade. “It feels like air.” She looked at me questioningly.
+
+I cast Detect Magic, making the weird fountain glow.
+
+Fabulosa dipped her hand into the water before I could stop her, but it remained dry when she withdrew it. “It’s an illusion.”
+
+“If it were real, the water would have made short work of this sandstone.”
+
+A blocked doorway stood across from the illusory fountain. Beside it opened another alcove with a broken pot suspended over a conical pile of sand.
+
+Fabulosa walked to the blocked passage. “I’m sensing this is a tomb. And these blocks were supposed to seal the doors forever.”
+
+“Sounds right to me.”
+
+We continued along the perimeter of the curved hall, learning that the blocked passages occurred every 90 degrees in the circle, like four spokes on a wheel.
+
+After a half minute of walking, we approached another silent fountain. Instead of water, sand poured from its spout. I poked my finger into the sand and felt nothing. The sand would have filled the hallway if it hadn’t been an illusion.
+
+Again, the prospect of chiseling into the sandstone blocking the door to the dungeon’s center held little appeal. It felt natural to continue along the curved passage.
+
+Across from the next fountain, thieves had carved their way through the block of stone. Oddly enough, the fountain produced neither water nor sand. Mineral Communion confirmed the thieves had dug through another barrier, although little lizard footprints covered most of their tracks.
+
+Fabulosa peered into the room. “It’s my turn to go through.”
+
+“Are you sure you don’t want me to scout with Creeper first?”
+
+Before I poked my spear into the hole, Fabulosa touched my shoulder. “Let’s check out the rest of this hallway before going inside. I want to see if there’s another illusion at the last intersection.”
+
+I agreed. Picking around its edges seemed safer and easier, and it might preview what to expect in the center, which often cradled the greatest source of danger.
+
+We finished circumnavigating when we passed the fourth series of shelves. Illusionary flames flickered along the ledges and fell, like lava, into a pool. None of it radiated heat.
+
+Fabulosa laughed. “Oh, I get it. These fountains represent the four elements. The last one wasn’t broke—it represented air.”
+
+“If we’re fighting elementals, our Hummingbird Darts won’t be useful. Elementals are immune to poisons.”
+
+“If so, we can’t count on my primary magic spells either. Make sure you have a blunt weapon ready.”
+
+I wondered if my trident would be more effective against water elementals. Unless wet or underwater, it was a terrible weapon.
+
+We returned to the air fountain across from the thieve’s borehole.
+
+Before I could object, Fabulosa took point, climbing over the obstacle and through the opening carved by the dungeon’s previous invaders. She spoke into the empty air as she wriggled through the hole. “At least someone went through the trouble of giving us access. Thank you kindly, tomb robbers.”
+
+While she climbed through the borehole, I sifted through the sand in the nearby alcove, finding nothing but broken pottery.
+
+In a macabre way, I hoped to find their bodies. It would mean we hadn’t missed out on the chance to rid the dungeon of its riches.

@@ -1,0 +1,161 @@
+Running to the dungeon gave me time to double-guess how we played our hand in the motte and bailey.
+
+Fabulosa and I could have jumped over the walls within spell range of the gnolls. We could have sideswiped their shield wall with area-of-effect spells like Fireball. Even if it only took out 5 percent of their health, we could have followed with Scorches, Imbued Weapon attacks, or focused fire on a single gnoll to disrupt their stonewall. If the gnolls retaliated, Fabulosa and I could have escaped with Slipstream to the safety of the parapets. If the gnolls broke ranks, they’d at least be subject to our town’s missile fire. We might not have killed any, but we could have prevented Winterbyte from creating her rune.
+
+Second-guessing our actions wasn’t doing me any good in the ensuing chase, which already sapped my energy. I tried not to replay recent events and focus on the pursuit.
+
+If we ever defended the town again, I resolved to harry attackers outside our walls.
+
+Debuff
+
+Exhaustion
+
+-1 to stats
+
+Duration
+
+Until 8 hours of uninterrupted rest
+
+After the first hour of running, the debuff did not surprise me. Unfortunately, we couldn’t stop and rest for 8 hours, and all the accumulated debuffs would wear us down before we started combat.
+
+Our first trip to the relic’s dungeon required a hard day’s journey. Traveling overnight wasn’t easy, and my robe’s rewind ability wouldn’t reset without sleep.
+
+Even with Creeper, we couldn’t run in the dark. I would have fired up Presence, but doing so in kobold territory wasn’t wise. I didn’t even want to think about the headaches in dealing with the ratfolk. Without the fear of the ward worm, the kobold tribes might see us as easy pickings. We barely fought off a few dozen attackers. What would we do against a nation of kobolds looking to extend its borders?
+
+Even at night, tracking proved easy enough to follow a trail of 15 gnolls. They moved on a direct heading, tearing through the underbrush as if they owned the place. The pockets of dead kobolds showed Winterbyte wasn’t trying to hide her passage. Strangely, some bodies lay far off their trail as if the gnolls had pursued them.
+
+I turned to Fabulosa. “Why do you think they’re wasting time with kobolds?”
+
+“She’s stirring up the nest and making it harder for us to follow.”
+
+As the hours passed, so did the dead kobolds. Winterbyte had beaten up the bushes, but soon, whistles and horns echoed in the distance.
+
+Creeper proved to be invaluable once again. Considering the dark conditions, we made surprisingly good progress. The moon, Nassi, remained on the horizon, but Laros peeked over the Bluepeak mountains hours later. The ambient moonlight helped visibility after we left the tree line midway through our journey.
+
+Moonlight also revealed a large band of kobolds. We almost passed them without realizing it. Since we traveled downwind, we’d utterly surprised them. I counted about 16 sitting around at the edge of a forest. Their levels ranged in the low single digits, and they scattered into the woods as soon as we noticed them. None of them attacked or brandished weapons, so we kept pressing forward.
+
+Minutes later, we heard the wail of more high-pitched whistles. They weren’t the tooting instruments they’d used to coordinate their attacks when we first passed through the wilderness. They sounded like single-note bagpipes. Similar calls answered their predawn alarm far away in the hills.
+
+I looked into the darkness. “I have a feeling there are a lot of kobolds chasing us. It sounds like coordinating armies. Winterbyte sure kicked over a hornet nest.”
+
+“A tail of trouble follows that one. If they’re mobilizing troops and sending out scouts, it’ll expose Hawkhurst right quick.”
+
+A game prompt appeared.
+
+New campaign
+
+Kobold Unrest
+
+Description
+
+Graytooth kobolds are out in force. Prevent their scouts from finding Hawkhurst and reporting its whereabouts.
+
+Morale
+
+19% (worried)
+
+Objectives
+
+Neutralize kobold threat to Hawkhurst
+
+Reward
+
+0 to 40 glory points
+
+We didn’t have time for this. We’d just finished quelling a pack of wolves, and now we had to worry about a rat army. No one in Hawkhurst spoke kobold, so diplomacy wasn’t an option. My anger at Winterbyte helped me push through the burning in my legs, and I maintained the pace without faltering.
+
+Unlike my newbie rat quest, this presented a challenge I couldn’t ignore. Was mass combat the only way to resolve the issue? It seemed a silly proposition because we had fewer than 200 citizens. Taking on a nation of kobolds wasn’t something we could handle.
+
+Near dawn, the urgency of the kobold pipes made me think they weren’t giving up their chase at daybreak.
+
+We maintained our headlong pace, and soon, the pipes fell behind us. I wondered if the distance we’d gained came from the kobolds’ shorter strides.
+
+We skirted around the mountain holding the demon-filled dungeon, where we found the notes leading to the relic. Soon after, we cleared the hill to see the rocky slope where we first fought Winterbyte. Shrill pipes wailed across the valley, but they sounded miles away. We might even lose them before reaching the dungeon.
+
+Instead of worrying about kobolds and nocturnal predators, I thought about the temple for the first time in hours. The sun rose behind us, improving our visibility by the minute.
+
+We pushed toward the mountaintop where everything happened—where I’d lost Charitybelle and found Beaker. We would be outside the entrance within an hour.
+
+Fabulosa shook me out of my reverie. “What’s the plan?”
+
+“We could fight four or five gnolls comfortably, but I wouldn’t know how to handle more. We’ll need some crowd control. Tangling Thorns might be of use. How many can you snag at once?”
+
+“Tangling Thorns? At my rank, it can hold only two. But I took Wall of Thorns back at the motte and bailey. With all the commotion, I forgot to tell you.”
+
+“Seems like it does the same thing.”
+
+“Wall of Thorns is a huge upgrade. It works indoors, lasts longer, and causes damage.”
+
+“We ought to think in terms of divide and conquer. Speaking of which, Winterbyte will probably defend both dungeon entrances. She has to assume we can Dig through the collapsed entrance, so she’ll probably station guards outside by the front and others around the oculus.”
+
+Fabulosa shook her head. “I don’t think so.”
+
+“Why not?”
+
+“That’s not her style. Remember the Compression Sphere traps? The ones that pushed Charitybelle down the oculus?”
+
+Charitybelle had barely caught onto the rope to avoid falling into the dungeon’s star chamber. I nodded. “Yeah, what about it?”
+
+“That felt like overkill. Winter had set enough traps to stop half a dozen players. If she’s this close to the relic, she’s not splitting her troops.”
+
+Fabulosa was right. Winterbyte would slip through the grate above the tomb with a shrink potion, but she probably wouldn’t have enough for all of them. How many gnolls would she need to retrieve the relic? My gut told me she probably didn’t even trust them. The Gang of Three wasn’t an honorable lot, and she’d spent enough time with them to learn this. No, she wouldn’t bring any of them into the crypt.
+
+Fabulosa interrupted my thoughts. “Plus, we have to count on another chimera. Anyone with that power will use it again.”
+
+I grunted in agreement. I hated fighting chimeras—they gave no experience, cores, or treasure. “Do you think the chimera might help the gnolls hold the temple?”
+
+“I reckon so. If they obey simple commands, we gotta assume we’re fighting 14 gnolls with at least one three-headed beast.”
+
+“We’re higher level, but there’s only two of us. We’ll need to make a big splash in the star chamber. If we can’t use ropes, we can jump and use Slipstream to land.”
+
+“If we jump in, how do we get out? That oculus is higher than Hot Air and Slipstream combined.”
+
+“In a pinch, I could use Dig. It would take a while, but it’s doable. But the dungeon’s bottleneck is the star chamber.”
+
+Fabulosa nodded. “That’s where she’ll plant her resources. It’s a quick jog to the grate above the relic. She’ll stick her people there.”
+
+The star chamber acted as the dungeon’s nexus. It offered a perfect place to jam us up, and it didn’t matter if we attacked from above or used Dig to use the front entrance. The ceiling stood so high the gnolls would be out of spell range if we attacked them from above. If I cast Imbue Weapon and shot magic arrows, targets in the star chamber could duck through the passage to avoid fire.
+
+Attacking from above meant her gnolls-for-hire, The Gang of Three, would be cornered. They’d have to fight for their lives.
+
+I got a familiar itch. It felt like I missed a piece of a puzzle. I couldn’t think while being Exhausted. We breathed hard as we gained altitude.
+
+“Wait!” Fabulosa panted as she spoke. “That’s not how we got to the sarcophagus. We didn’t drop through the grate, remember? We went through the tubes to the guardian statue room. That’s how we can get past her troops.”
+
+“I don’t understand. Whether we use the main entrance or drop through the oculus, we still need to go through the star chamber.”
+
+“No, we don’t. There’s another entry in the dungeon.”
+
+“I only remember the two.”
+
+“Remember those rooms upstairs? You used Magnetize to open all those little apartments. We found nothing in them, but one had a window.”
+
+“I remember. It faced the northwest and had a gorgeous view.”
+
+“We just need to go around the mountain and sneak in through the window. From there, we can go down the pipes and avoid everyone in the star chamber.”
+
+I laughed. “Winterbyte doesn’t know there are two ways into the crypt. I’m glad we don’t have to deal with that stone golem again. We better be careful—having a plan makes me nervous.”
+
+Fabulosa grinned. “You’re nervous no matter what. But I know what you mean. Plans never seem to work out.”
+
+We laughed as much as our labored lungs could manage and changed course for the northwest face of the mountain beneath the apartment window.
+
+We climbed until we spotted the opening concealed in the shadow of an overhang. The chill of altitude relieved my overheated muscles.
+
+The sky glowed a pale blue. Even in the morning, kobold horns still echoed across the valley.
+
+I groaned at the sounds of trouble. “Shelly really whipped up the natives.”
+
+“They’ll simmer down when the sun gets high.”
+
+I searched through my inventory. “Why don’t we have grappling hooks? We should have a grappling hook somewhere.”
+
+“I reckon the window is close enough to use Hot Air. It’s a shame to waste it in a non-combat situation.” Fabulosa wiped the sweat from her brow as she considered climbing alternatives. “I’m too tired to think, and now I’m stuck on how to fight gnolls. Hot Airing to a place where they can’t attack us would be helpful. You’re right. We should have brought a grappling hook.”
+
+The wall around the window looked too sheer to climb, so I used Hot Air to rise high enough to Slipstream through the opening. The windowed room stood empty, so I dropped a rope to my partner. Soon after, she climbed inside.
+
+We buffed up with Heavenly Favor and crept through the dungeon’s back door. Casting Presence wasn’t an option if we wanted to maintain surprise.
+
+“Let me scout ahead with Creeper.”
+
+Fabulosa didn’t look happy about my suggestion, but she understood the value of stealth. She nodded and rested by the window.

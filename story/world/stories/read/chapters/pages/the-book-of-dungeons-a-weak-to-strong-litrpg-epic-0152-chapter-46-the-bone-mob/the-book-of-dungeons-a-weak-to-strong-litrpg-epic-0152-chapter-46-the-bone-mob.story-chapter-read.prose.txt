@@ -1,0 +1,169 @@
+I watched Winterbyte’s hapless attempts to coordinate the chimera with the skeletons through the crystal window. “We only need to deal with a level 19 chimera this time. We can ignore the skeletons.”
+
+“Do you see what she designed the chimera to do?”
+
+I gave Fabulosa a questioning look. “You mean opening the coffin?”
+
+“The undead frog tongue might pull us into the aging aura. Maybe the snake could drag us in, too. And the hind legs can jump, so it can also push us. We’ll have to fight with our backs to the wall.”
+
+“Do you have Wall of Thorns if it tries to push or pull us?”
+
+Fabulosa shook her head. “Once a day.”
+
+“Oh, that’s right. You already told me. The jump-push doesn’t bother me as much. We can Slipstream if we lose our position. But it won’t work if we get wrapped by the tongue.”
+
+Usually, I’d like to begin with an Imbued Arrow, but they wouldn’t work well against skeletons. It also meant that Fabulosa would have to switch to a blunt weapon. I cursed myself for giving away our Metamorphic Siege Hammer and Blackriver Cudgel to the dwarves. We’d left town in such a hurry I didn’t think to collect them.
+
+“I can swing Creeper like a staff. Do you have bludgeoning damage?”
+
+Fabulosa shook her head. “Nothing fancier than a club.”
+
+“Don’t let Dino hear you say that.”
+
+Fabulosa ignored my tease. “I’m pulling out a second-rate shield too. I can use my melee Block ability to deflect the frog tongue if it zaps me. It’s just a goblin hand-me-down. I’ll use Anticipate for the next tongue attack. Undead are immune to electricity, but does Presence mess with them?”
+
+None of the zombies reacted to Presence in the arc weaver’s lair. I didn’t have my light spell when I’d fought the cacowight in Belden, but it took damage from a heal. “I don’t know. Its description only mentions affecting stealthers. What if we opened by hitting the chimera with Restores? My Restores and Rejuv’s do 80 and 60—about 15 percent of its health. Coupled with our attacks, we could kick off combat by taking out a quarter of its health.”
+
+Fabulosa shrugged. “We won’t need healing at the beginning of the fight anyway.”
+
+Winterbyte barked orders to the undead. The protective aura around the sarcophagus cramped her style, forcing her to use a weak chimera.
+
+“My Scorch does 38 a hit, but it’s not enough to one-shot a skeleton.”
+
+“It’s good to know I’m a higher rank than you in something. Mine does 42.”
+
+“No kidding? Your primal magic is 21?”
+
+Fabulosa nodded, grinning.
+
+“How much grinding did you do in the Underworks?”
+
+Fabulosa turned her attention back to Winterbyte. “I should open with a Fireball, not Restore. Right now, they’re all together. After that, we can knock off the skeletons with any hit.”
+
+“Do you mind if I keep Winterbyte busy? Can you deal with all the bones?”
+
+“Yeah, I can take ‘em.”
+
+“There aren’t any runes lying around the room, but she has Compression Sphere. I’ll yell, ‘Move!’ when she casts it. It doesn’t matter where you run. Just make sure she can’t bounce you into that magical aging field.”
+
+“Don’t worry. I’m not set to going anywhere near that sarcophagus.”
+
+I pulled out the magic cylinder that turned off the deadly aura. “If things get intense, I’ll turn off the field. She won’t run Detect Magic during battle.”
+
+Fabulosa grunted. “If you do that, make sure you can keep her busy.”
+
+I tightened my grip on Creeper. I had plans to keep Winterbyte busy. Since I used my Cassock of Rewind to reset Glowing Coals and hadn’t slept, I couldn’t use any of my daily cooldowns more than once. But I carried quite the arsenal of surprises.
+
+Fabulosa pulled out a couple of mechanical birds. “I’ll toss these hummingbird darts at her.”
+
+“Good call. Do they have slow-poison?”
+
+Fabulosa nodded. “Glacial Water payload—locked and loaded.”
+
+We re-buffed Heavenly Favor and wished each other good luck with a solemn fist bump.
+
+I touched the special spots on the magic window that separated the two rooms and began casting Restore—my most mana-efficient way to hurt undead.
+
+We landed each Restore and Rejuvenate on the chimera before Winterbyte realized our presence. When she saw us, her doggy nose wrinkled in a snarl, and it made me feel good that she wasn’t happy to see us.
+
+I hoped our enemy got a good whiff of the gnoll blood on our armor.
+
+I popped the chimera with a Scorch before receiving a Greater Silence debuff. This magical muzzle stopped me from casting spells for 60 seconds—an eternity in combat. It seemed overpowered, but a stick figure totem in Winterbyte’s clutches explained how she’s managed to create such an effect. Consumable items like voodoo dolls prevented her from spamming the power, and if I could wrest it from her hands, I might not have to wait the full duration. As if to answer my musings, she tossed the figure by the sarcophagus, preventing me from reversing its effect.
+
+Winterbyte’s bestial appearance and mindless pets might mislead a casual observer. Though they weren’t tactical or able to open coffin lids, they possessed many combat mechanics. And if their puppeteer was cunning, they’d followed suit.
+
+All of Winterbyte’s minions intercepted me when I charged across the uneven floor, making focused firepower against them an invalid strategy.
+
+With the sarcophagus on the far side of the room, the finesse of maneuvering us there to knock in the magical aura wasn’t an option. Winterbyte had lost all confidence in fancy traps—this became a race to do the most damage, and it wasn’t a strategy we could easily counter.
+
+Fabulosa’s Fireball washed over them as they converged.
+
+After Fabulosa’s Fireball, the skeletons had less than a dozen health each. I withheld from finishing them off. Instead, I dodged around, using them as bone shields to delay the zombie chimera from engaging me. They didn’t last as body blockers for long. The chimera pushed them aside, and the rat and snakehead hit for 25 damage each.
+
+My partner landed a Scorch on the chimera every six seconds.
+
+What was Fabulosa doing? Where were her Thrust, Charge, and Ignite Weapon attacks? What happened to her signature moves?
+
+I spotted Fabulosa by the open window. She had barely entered the room before Winterbyte had tripped her up with a spell called Grease. It worked well on the smooth, irregular floor, costing Fabulosa her footing and slowing her progress to the chimera.
+
+Crowd-control spells seemed overpowered to those on the receiving end.
+
+A barrage of Scorches landed on me. Each hit for 32 damage, meaning Winterbyte had ranked her primal magic to 16. Between her spells and the chimera, I’d lost nearly 50 percent of my health already. The debuff timer on Silence reported 38 left until I could cast spells. How I could survive its duration wasn’t clear.
+
+Winterbyte stood behind her pet, which still possessed over 70 percent of its health.
+
+A blue bubble appeared around our foe before two metal flashes crashed into it. The hummingbird darts smacked into a Mana Shield to no effect, landing in twisted, broken tangles of metal.
+
+Winterbyte began casting again. Judging by the time to perform, I expected a nasty effect. Had I not been Silenced, I could have Counterspelled it.
+
+By the time I’d received another series of bites and skeleton attacks, I fell to only 75 health. How had they inflicted 225 points of damage so quickly?
+
+Winterbyte finished casting her spell. A short vortex of whirling trouble manifested in front of the gnoll.
+
+Name
+
+Winterbyte Frost Fiend (4)
+
+Level
+
+11
+
+Difficulty
+
+Challenging (yellow)
+
+Health
+
+240/240
+
+Winterbyte had summoned yet another minion. The mini-tornado wasted no time with introductions or summoning emotes—it glided through the room toward my direction. When our opponent finished her cast, she renewed her barrage of primal damage spells on me.
+
+Saving the whirling attack for when it arrived, I attuned myself to immediate concerns. My health had fallen to 11 points, and I drank a 100-point health potion. Ideally, I would have saved a potion for mana—which I could use to heal myself, but without the ability to cast magic, I held an abundance of mana.
+
+I’d even considered using my Lesser Headband of Conversion. I could convert 208 mana into 20 health, but it didn’t seem worth it. I wouldn’t have time to perform a Refresh Mana maneuver.
+
+After downing the potion, I renewed my assault on the chimera, swinging Creeper’s handle like a staff. It wasn’t the ideal weapon, but it chipped away at the creature’s health.
+
+I planned to knock out the skeletons last. Occasionally, they got in the chimera’s way, and their 4-point attacks didn’t warrant attention. I needed to put an end to the chimera’s 25-point bites. For all the accouterments that came with the zombie beast, Winterbyte hadn’t overcomplicated things. She just used her creatures to deal damage.
+
+Winterbyte drank a mana potion, threw up another Mana Shield, and began channeling again.
+
+I couldn’t wait to see what she had in store for us.
+
+Fabulosa stopped Scorching the chimera forty seconds after combat began. Her Restore cooldown had finally finished, and I thankfully received the 64-point heal and a Rejuvenate. My health potion’s reprieve had nearly vanished, but the healing should sustain me through the remaining seconds of Greater Silence.
+
+At least, our efforts against the chimera made progress. We’d cut its health to half—about 450, and Winterbyte couldn’t use her pet-heal on it because of its undead nature.
+
+When the frost fiend landed on me, my combat log filled with 1 and 2-point attacks, interrupting my spells. Its hits applied a debuff.
+
+Debuff
+
+Jostled
+
+Decreases chance to hit by half.
+
+Duration
+
+1 second
+
+This debuff lasted only a second but constantly refreshed as the fiend whirled around me. A vacuum pulled me into its center, and a debuff for Grappled flickered in my peripheral vision. It would prevent me from Slipstreaming away after Greater Silence ended.
+
+I tried to cast Restore on myself when Silenced disappeared, but the Jostling slowed my spellcasting. The frost fiend’s chain of suppressive hits worked against me, but I worked around it. Activating the Charm of Rescue turned a Restore into an instant and chased it down with a Rejuvenate. The heals staved off my rapid health loss.
+
+Despite Winterbyte’s interference, Fabulosa and I wore down the chimera. By the time it reached 20 percent health, the gnoll had finished channeling her next trick. She glowed orange with phantasmal flames.
+
+I felt something jerk me sideways when Winterbyte breathed fire toward my half of the room. My Anticipate triggered, pulling me behind the podium-sized protrusion on the floor. Anticipate tucked me safely behind it, and I caught a glimpse of the hole that I’d used to deactivate the aging field.
+
+It felt like The Book of Dungeons implored me to place the magic cylinder into it and seize the relic.
+
+So many things happened at once that I froze time by opening my interface and parsed events through my combat log.
+
+/Undead Rat bites Apache for 24 damage (4 resisted). /Winterbyte casts Red Dragon Breath. /You cast Anticipate. /Red Dragon Breath hits Winterbyte Frost Fiend for 116 damage (32 resisted). /Red Dragon Breath hits Winterbyte Chimera for 97 damage (52 resisted)./Red Dragon Breath hits Winterbyte Skeleton for 123 damage (31 resisted)./Winterbyte Skeleton dies./Red Dragon Breath hits Winterbyte Skeleton for 125 damage (34 resisted)./Winterbyte Skeleton dies./Red Dragon Breath hits Winterbyte Skeleton for 127 damage (31 resisted)./Winterbyte Skeleton dies. /Red Dragon Breath hits Winterbyte Skeleton for 128 damage (32 resisted)./Winterbyte Skeleton dies./Fabulosa casts Reverb./Winterbyte’s Mana Shield absorbs 24 damage from Red Dragon Breath./Winterbyte Redirects 100 damage from Red Dragon Breath to Winterbyte Frost Fiend./Winterbyte Frost Fiend dies./Red Dragon Breath hits Winterbyte for 23 damage (8 resisted).
+
+The cone of Red Dragon Breath cleaned house. It finished off the skeletons and chimera.
+
+When the breath weapon hit Fabulosa, she Reverbed the flames to their caster. The fire burned through Winterbyte’s Mana Shield and triggered something called Redirect—which somehow sent 100 damage to her meat shield frost fiend.
+
+My Restore and double-Rejuvenates brought me back up to half health. It wasn’t a comfortable amount, but at least they pulled me out of the danger zone.
+
+Without the frost fiend, I could cast spells on my adversary. And, oh! What spells I had in store for the gnoll, who now stood alone.

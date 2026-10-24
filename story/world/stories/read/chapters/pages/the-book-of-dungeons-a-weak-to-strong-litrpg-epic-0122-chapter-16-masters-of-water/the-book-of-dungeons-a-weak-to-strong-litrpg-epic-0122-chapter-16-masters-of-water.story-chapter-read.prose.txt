@@ -1,0 +1,155 @@
+Ignoring the ache in my lungs, I drifted through the water channel. An interface element counted down the seconds until I drowned. Unfortunately, a full health bar didn’t matter—drowning involved a separate death condition.
+
+Thoughts of rejoining Charitybelle reminded me how she’d saved Fabulosa by accessing the religion tab, but blessings of Hot Air and Glowing Coals served no purpose here. But I hadn’t spent our village’s second power point. And one mandate acted as an underwater version of Aggression.
+
+I accessed the government tab and studied the tier 2 power.
+
+Power (mandate)
+
+Amphibious (tier 2)
+
+Prerequisites
+
+Settlement level 2, Aggression
+
+Description
+
+Ruler of Waves Citizens’ swim speed increased by 500 percent and may exit water with a 10-foot jump into the air.
+
+Free with manor
+
+Orrery Predicts planetary positions
+
+Free item
+
+Undersea Trident
+
+I inwardly laughed at how perfect this would be for this dungeon but how useless it would be elsewhere. It didn’t look like I could drift to the next opening or last long enough for the water to reverse direction.
+
+I tried to stand when the current drew me near the opening, but seeing through Creeper’s spear tip misconstrued how close I’d come. In my hurried attempt to reach the surface, I bumped my head.
+
+My chest burned with the need to breathe, and my thrashing limbs knocked about the spear enough to blind me with disorientation. Asphyxiation counted away the seconds as I stetched in vain to reach the opening.
+
+Amphibious suddenly seemed like an attractive option for a settlement mandate. I spent the settlement power point and received a new item in my inventory.
+
+Item
+
+Undersea Trident
+
+Rarity
+
+Masterwork (green)
+
+Description
+
+Level 30 two-handed piercing weapon +8 damage when wetWielder has buoyancy control and can see, speak, and breathe underwater. Delivers lethal and structural damage (counts as siege weapon).
+
+Holding Creeper in one hand and the Undersea Trident in the other made them useless as weapons in the narrow channel, but I could breathe. The Asphyxiation debuffs and the progress bar disappeared from my interface.
+
+When wet, this trident dealt more damage than the mighty siege hammer, and I could manipulate its wetness by carrying a canteen of water specifically for the purpose. It conjured strange images of spitting water on it before combat, but I couldn’t imagine why it wouldn’t work. A +8 bonus would be worth it, and since we fought in Arlington, a foreign settlement, Aggression bumped it to +16.
+
+In addition to the trident, the citizens of Hawkhurst received a 500 percent increase in swimming speed, and I wasted no time trying it out. Instead of kicking and moving water with my limbs, I only needed to concentrate on which direction I wanted to move. This locomotion provided quite an upgrade to swimming.
+
+In water, I could only swim as fast as I could walk on dry land, but the current made no difference to my speed. Underwater breathing relinquished any reason to panic in the submerged tunnel. Even slow progress suited me, making me perfectly safe in this death trap.
+
+Admiring my new weapon, I realized tridents were stupid weapons. They took both hands to wield effectively, although one could manage in a pinch. Its awkward, tip-heavy prongs offered a better grip to opponents, making wielders prone to being disarmed. If attackers missed their opponent and overreached, they opened themselves to counterattacks. Its barbed fork might puncture enemy armor, but it stood a greater chance of snagging into something, likely wrenching it from its owner’s grasp.
+
+Holding Creeper and the trident felt awkward, but I could swim, so I returned to the opening. I poked Creeper out like a periscope, using its infravision to survey the surroundings.
+
+A pair of level 11 graywater tuskers sniffed the water, waiting for the current to slacken. I could take them easily.
+
+Their 7-foot companion, a minotaur with a boar’s head, worried me more.
+
+Name
+
+Porcine Sludgemonger
+
+Level
+
+24
+
+Difficulty
+
+Dangerous (orange)
+
+Health
+
+1155/1155
+
+One might call it a minoboar. It had decorative beads wrapped around its biceps and charms hanging from its neck. It carried a candle and a wicked jawbone weapon with jagged teeth.
+
+When the boar-man saw my spear bobbing, it raised its candle for a better look. It pulled back its teeth and made a deep growl at the strange object poking from the surface. This guy and the graywater tuskers amounted to orange-level threats, which meant they fought as a group—attacking one would bring the others. The level 11 tuskers made me think I could take on the three little pigs.
+
+I unequipped Creeper and Imbued my trident with damage. If the sludgemonger held a candle, I’d have enough light to see. The creature watched as my weapon glowed with magic, unsure what to do about the strange goings-on beneath the surface.
+
+I mentally taunted them with a gruff voice. “Little pigs, little pigs, let me come in!” Activating my new Amphibious ability, I leaped 10 feet from the water and planted my trident into the back of one tusker.
+
+I employed many factors in my favor. Hidden attackers had higher chances of delivering critical hits that inflicted double damage. But I received another doubling from the Aggression bonus of attacking inside a foreign settlement. I nearly doubled my damage with Imbue Weapon, a worthwhile investment for 32 mana. Combos like this justified my wariness of rogue and assassin types. My normal damage reached in the thirties, depending on an enemy’s armor, which counted for nothing against critical hits. The multipliers made this quite an opener.
+
+/You crit Graywater Tusker from behind for 280 damage (0 resisted)./Graywater Tusker dies.
+
+Killing the tusker netted me only 16 experience. My status of 8 levels above the creature justified the paltry amount. Level 11 monsters have only about 240 health, so I felt already off to an epic one-shot.
+
+Despite my surprise, the sludgemonger wasted no time casting a spell. After seeing its jagged weapon, I hadn’t guessed it could use magic. I triggered my Counterspell, figuring it would be worth stopping the creature’s go-to magic.
+
+His smaller, tusker buddy threw himself in battle with a nasty bite that delivered a 9-point nip. It didn’t cost a lot of health, but the pain distracted me.
+
+As much as I wanted to keep my +8 damage, I switched from my trident back to Creeper and played my trump card. I cast Presence, and it blinded the pair.
+
+The idea of casting it came from the candle, which told me they didn’t use infravision. I closed my eyes and fought with my spear. Overpowering opponents as a blind warrior made for a worthy screenshot. Who would have guessed creepy old Creeper could have been such an incredible weapon?
+
+Blinding opponents increased my chance to hit, but it didn’t raise my damage unless I used it to maneuver behind them for another backstab—which I did. My first attack against the tusker missed, but my second backstab landed another hit. Unfortunately, it wasn’t a critical hit.
+
+As cool as it felt to fight with my eyes closed, viewing the room from the perspective of a swinging, thrusting spear made me dizzy and a little clumsy.
+
+/You hit Graywater Tusker from behind for 156 damage (8 resisted)./Graywater Tusker misses you./Porcine Sludgemonger misses you. /You hit Graywater Tusker for 72 damage (4 resisted)./Graywater Tusker misses you./Porcine Sludgemonger misses you./You hit Graywater Tusker from behind for 76 damage (5 resisted)./Graywater Tusker dies.
+
+Fighting an oversized enemy with over 1,000 health promised no sure thing. I raced to kill it before its eyes adjusted to the near-daylight beam of Presence. Once the monster could see, the battle would reach an inflection point, so I endeavored to frontload as much damage as possible. A dozen attacks landed, averaging 50 points a hit, and half as many missed. Only one made a critical strike.
+
+My vision adjusted through closed eyelids. I squinted as I attacked, no longer depending on Creeper for my senses. By that time, I’d brought the sludgemonger to half health. I also avoided taking damage, or at least nothing Rejuvenate couldn’t repair.
+
+Dino’s body language lessons proved invaluable. I anticipated blows and identified attack opportunities, and my footwork kept me in a position to strike or dodge. Until the creature’s vision fully adjusted, I maintained the upper hand.
+
+When the bipedal boar could see, its combat penalties disappeared, and the tide of battle turned against me. It used a maneuver with its toothy hand-saw called Jagged Snagger. The monster caught me with it and flung me across the room.
+
+This Jagged Snagger worked against me in several ways. First, it dealt 50 damage. I had 290 health, so the 50-point hit inflicted something I could deal with, but it rendered me prone and subject to critical attacks. It also repositioned me so my back no longer faced the canal from which I leaped. If things got rough against this orange opponent, I couldn’t fall back into the water trench and bid the brute goodbye.
+
+Its second attack dealt a critical hit for 92 damage, which meant I’d quickly gone from full health to half in two blows. The monster kept casting a debuff on me called Bad Juju, which gave me -4 agility.
+
+When he hit me again, the hex debuff stacked to -8 agility, and I activated my new Charm of Protection—Dark Magic. It reduced the effect by half.
+
+The shaman ignored the charm and wasted time trying to slow me down with Bad Juju, giving me precious seconds to sneak in a Restore heal.
+
+After I recuperated for 80 health, the creature did the same and healed for nearly 200, returning it to two-thirds of its total health. I equipped my new Wall of Wind. Perhaps it would be strong enough to push the minoboar into the trough behind its heels. I hoped to trip it over the water channel—anything would help at this point. While the shield helped mitigate some of the incoming damage, its push wasn’t strong enough to budge the brute backward.
+
+I used Charm of Rescue’s ability to flash-heal myself and my robe’s ability to reset my charm—which I used again. I used Slipstream to swoosh around the creature and escape. Before I could move, its Jagged Snagger grabbed me again and tossed me back to the corner, far from safety. Anticipate triggered when my health dropped to 70. Reducing the creature to 400 became no consolation because it would finish me long before it reached zero.
+
+By the time I inflicted another hit for 72 damage, the porcine sludgemonger brought me down to 45 health. Any hit might knock me out of the game.
+
+I doused Presence, hoping to plunge us into darkness, blinding the creature again, but its candle remained lit and provided plenty of light. Devoting my concentration to blocking its attacks, I couldn’t afford to cast Compression Sphere to blow out the candle.
+
+In desperation, I activated Hot Air to rise to the ceiling. The boar caught me with its Jagged Snagger and pulled me back to the ground. The maneuver reduced me to 8 health, applied a Grappled debuff, and negated the effect of my blessing. Luckily, I recovered my footing when I landed.
+
+This is what I get for attacking an orange monster. Even with overpowered advantages, orange-rated encounters proved overwhelming. I hadn’t counted on this minoboar healing itself, though its shamanistic trinkets should have tipped me off.
+
+Still, I had no choice but to fight as the monster backed me into a corner.
+
+Suddenly, the minoboar’s threat level color changed from orange to yellow to green. The water in the trough exploded, silhouetting the hulk with lightning and water droplets. Bolts of electricity and steel sliced through my enemy’s shoulder, bringing it to the ground.
+
+/Blane hits Porcine Sludgemonger from behind for 58 damage (8 resisted)./Bernard crits Porcine Sludgemonger from behind for 120 damage (0 resisted)./Fabulosa crits Porcine Sludgemonger from behind with Discharge for 304 damage (0 resisted)./Fabulosa takes 80 damage from Discharge (0 resisted)./Porcine Sludgemonger dies.
+
+Fabulosa’s extra damage came from her Discharge spell—which the water returned with a hearty zap. She, too, enjoyed the perks of backstabbing from a hidden position in a foreign settlement. Her opener put my previous attack to shame. All three had used the Amphibious leap-from-water ability in their attacks, covering the floor with water.
+
+Fabulosa snarled. “It feels so good to kill-steal again. It’s been too long.”
+
+Fletcher and Lloyd followed close behind, leaping out of the water moments after the shaman collapsed.
+
+I waved in thanks to her as I slumped into the corner for a Rest and Mend. “My hero.”
+
+Exhausted from the fight, I didn’t mind playing second-fiddle to my ally. Fabulosa could have her kill shot.
+
+“Oh! And I’m level 20 now! And that means—” Fabulosa Slipstreamed across the room and landed with a wink. She looked at my nameplate and pouted. “Aww, but I see you’re still 19. That’s such a shame.”
+
+“I see someone is pleased with themselves. Congrats on Slipstream, by the way.”
+
+Fabulosa curtsied.

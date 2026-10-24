@@ -1,0 +1,111 @@
+Closing my eyes, I extended Creeper around a corner and looked down the hallway. Its infravision penetrated the darkness, but I could see no torchlights ahead. Gnolls weren’t subterranean creatures, as far as I knew. They needed light to see. For those with infravision, dark was good.
+
+Between the battle college and our leveling spree in Odum’s tomb, Fabulosa and I had gotten significantly tougher since our last bout with Winterbyte. I regretted not getting a look at her nameplate last night.
+
+Nameplates became visible when something sizeable reached a certain proximity. This system worked relative to the creature’s size. If Winterbyte drank one of her shrink potions, her nameplate shrank, and she could hide it until we came within reach. At full size, her nameplate ought to be visible. But my only view of her came through Creeper’s spearhead. The game didn’t consider me closer after lobbing the spear at her location. Thus, her critical nameplate information remained hidden.
+
+I inspected my character sheet.
+
+Name
+
+Apache, Governor of Hawkhurst and elder of Forren
+
+Level
+
+24 (3,411/3,735 experience to next level)
+
+Armor
+
+61
+
+Stamina
+
+30 (300 health)
+
+Intelligence
+
+29 (290 mana)
+
+Strength
+
+16 (+16 damage to physical attacks)
+
+Agility
+
+24 (+24% to hit/dodge physical attacks and movement)
+
+Willpower
+
+32 (+32% to spell effects/resistances, health/mana recovery, and influence)
+
+Skills and ranks
+
+Alchemy 15, Arcane Magic 23, Blacksmithing 6, Bludgeoning Weapons 24, Carpentry 12, Command 1, Dark Magic 2, Defense 22, Dodge 24, Equestrian 6, Governing 7, Leatherworking 12, Light Magic 20, Manuscript Creation 14, Nature Magic 21, Piercing Weapons 24, Primal Magic 20, Ranged Weapons 18, Research 31, Slashing Weapons 23, Stealth 7, Survival 21, Tailoring 13
+
+Powers
+
+Cantrips Animal Empathy, Detect Magic, Heavenly Favor, Minor Hex, Shocking Reach Tier 1 Aggression, Animal Communion, Anticipate, Applied Knowledge, Charge, Compression Sphere, Detect Stealth, Hot Air, Imbue Weapon, Mana Shield, Mineral Empathy, Read Magic, Rest and Mend, ScorchTier 2 Amphibious, Counterspell, Familiar, Inscribe Rune, Mineral Communion, Refresh Mana, Rejuvenate, SlipstreamTier 3 Dig, Magnetize, Restore
+
+Note—Stats include buff and gear bonuses
+
+The first thing that struck me involved my lowered stats. All stood 2 points down, not just 1. Exhaustion had worsened—a debuff that probably didn’t affect Winterbyte. Aside from physical enhancements, I wasn’t sure if becoming a gnoll had affected her mind.
+
+Despite my Exhaustion, I couldn’t help but admire my advances in character stats. After stumbling onto a grinding location, we hadn’t suffered the pinch of a slower leveling rate, and I had only a trio of power points to spend.
+
+What’s more, we’d also spent weeks in the battle college. Even though I took time off after Charitybelle’s knockout, I felt confident about having high skill ranks across the board. Despite my modest strength, I had to be one of the contest’s most skilled melee warriors. Fabulosa had natural combat talent, but even though she dedicated more hours in the battle college, her melee and magic skills still ranked in the teens. But all bets were off with magic items. Creepers did okay in combat, but other players undoubtedly had better weapons.
+
+Winterbyte only escaped our last encounter because of her superior mobility, an advantage she wouldn’t have at the bottom of a dungeon. If I understood the game correctly, she wouldn’t have significant increases in combat ranks. Someone who summoned chimeras to do their fighting didn’t deserve them.
+
+The mammoth had been Winterbyte’s eleventh chimera. The number seemed too low to be a spell, so it made sense she consumed exotic materials to produce them. It seemed the only way to balance such an overpowered game mechanic. It gave me a little hope that she might not have another ready for us in the dungeon.
+
+But I saw no scenario where Fabulosa and I could survive against a demon-possessed relic-bearer. Our only chance revolved around destroying it before she could get her gritty little paws on it.
+
+A player with a tenfold Magic Missile could one-shot either of us. Anticipate might prevent damage from even an unerring spell, but a relic bearer wouldn’t have a five-minute cooldown—they only needed 30 seconds.
+
+I walked down the hallway, checking out the eight small rooms on either side, scoping out each with Detect Magic and Detect Stealth. When I reached the end of the passage, I entered the pillared chamber where the snail-monster rested beside dead kobolds. We’d seen the same corpses months ago, and nothing about the gruesome scene had changed since then.
+
+When I first used Mineral Communion, I saw lizardfolk using it as an assembly location. It reminded me to use the spell.
+
+I saw no evidence of gnolls until I turned on Mineral Communion. Recent paw prints led into the secret room, where the strange organ device rested. I spotted only one set of paw prints, so this wasn’t a regular patrol path. That was good. The fresh paw prints showed a gnoll coming up the stairs, entering the hidden room, and then returning downstairs. All of that made sense. Winterbyte knew about the secret door leading to the shaft to the bottom level. One of her companions had perished there in a trap.
+
+Using Creeper to navigate, I avoided stepping on debris. Although I doubted I could sneak up on a gnoll, I crossed the dining hall quietly in case the gnolls waited in the stairwell.
+
+I peeked over the stairwell where the sundew aberration had ambushed me. No guards stood at the bottom of the stairs—only a large rusty shield. I could hear them in the observatory, barking and giggling at one another’s jokes. They sounded relaxed.
+
+Fabulosa correctly guessed the gnolls had gathered in the star chamber. She and I could slip down the shaft and into the golem room without their knowledge. As a rune caster, Winterbyte had arcane spells, but she hadn’t solved how to deactivate the crystal window.
+
+I couldn’t use Detect Magic or Mineral Communion through Creeper’s infravision, so I peered over the edge to inspect the shield. It wasn’t magical, nor did runes or traps lay beside it. Mineral Communion showed nothing remarkable about it. Glowing gnoll paw prints showed they had placed it there. It seemed a little strange. Could a rune be hiding underneath it?
+
+Winterbyte had expected to swamp our defenses in Hawkhurst, which means she was improvising. Perhaps she booby-trapped the secret door. We wouldn’t know until we opened it.
+
+I crept back to Fabulosa by the window, who’d fixed a glow stone onto her belt.
+
+When she saw me, she mouthed out words. “Is it clear?”
+
+I nodded. “They’re downstairs in the star chamber—just as you predicted. Footprints show one coming up here, but they went back down again.”
+
+“Good. That means she forgot to place a scout.”
+
+Solving the golem puzzle meant we didn’t need to awaken the statue and toot the tube with a dungeon-shaking whistle. I could disable the barrier by touching the crystal in two places.
+
+I beckoned my partner forward. “Let’s get to the tube. If there aren’t scouts upstairs, they might be watching the grate. The Gang of Three aren’t military-minded—they’re just brutes from the city. They’re probably guarding the oculus and the front entrance. Which means we might not have to fight them at all.”
+
+“Winterbyte might not see us coming through the crystal window. She’s hell-bent on getting the relic, but only a few hours ahead. Going through the golem gives us the drop on her. It might be our only advantage.”
+
+Fabulosa’s glow stone provided enough light that I didn’t need Creeper to navigate the trash-strewn dining hall. I reminded myself that a trap awaited beyond the secret door. I would see it with Mineral Communion well enough, but I wanted to make sure Fabulosa wouldn’t trip it.
+
+When we opened the secret door to the organ room, I caught sight of another rune with Detect Magic. It flashed as the door opened and winked out of existence, but not before activating a spell called Relocated Hole. A glowing green circle appeared beneath a nearby pile of sand and pebbles. The clutter poured into it, creating a clattering sound of rocks pinging onto the rusty metal shield in the stairwell.
+
+Excited barks from the lower level followed. As we expected, the gnolls had set up camp in the observatory.
+
+If we eschewed the gnolls, we risked them following us down the tube into the crypt. Could we block the tube? Nothing in my inventory looked adequate. Fighting Winterbyte simultaneously with 14 gnolls seemed utter suicide. Judging by Fabulosa’s posture, it didn’t look as if she wanted to retreat, so that left one option. Face the lot of them. This option afforded us the advantage of bottlenecking them on the stairs. Their height and reach wouldn’t be as advantageous if we held the higher ground.
+
+I activated Presence and followed Fabulosa to the stairwell.
+
+The first gnoll leaped over the shield on all fours. Fabulosa ran to him at the bottom of the stairs, letting gravity increase her momentum. The following gnoll, wearing plate armor and carrying a mace, kicked the shield aside and lined up behind its brethren.
+
+Fabulosa pulled out her saber and performed a Charge opening attack, electrifying her weapon with Discharge. She enunciated the words, “Phantom Blade!” as if playing a poorly translated character in an old kung fu or anime movie. Her eagerness to test her new combat skills against opponents wielding weapons infected me, and I followed in kind.
+
+We weren’t the only ones hungry for bloodletting. A barrage of barks inside the star chamber room punctuated the imminent battle, like a sports team chanting before a big game.
+
+Heavy paws beat the flagstones below toward our position. They sounded like a drumroll leading into an epic battle.

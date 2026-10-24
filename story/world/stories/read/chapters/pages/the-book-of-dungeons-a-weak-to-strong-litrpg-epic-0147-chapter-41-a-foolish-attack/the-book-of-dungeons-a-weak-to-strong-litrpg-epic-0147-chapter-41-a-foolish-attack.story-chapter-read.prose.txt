@@ -1,0 +1,171 @@
+Fabulosa snorted as we watched 32 red dots trailing off our radar. “It looks like Winterbyte promised the vargs a quick victory.”
+
+I smirked. “Yeah, there was a lot of growling out there. Shelly has the worst luck with NPCs.”
+
+Fabulosa and I shared a hard grin while the citizens of Hawkhurst cheered.
+
+After minutes of watching our map interface, all but one of the remaining red dots turned to bipeds. The exception, the mammoth, led a tight formation that approached our position. The backslapping and congratulations ended as defenders returned to their stations along the barricade.
+
+“What ees dees?” Yula pulled another arrow from her quiver. “Easy target time, no?” She imbued her arrow with magic and launched it into the dark.
+
+Iris peered into the distance and ordered her people to launch flaming arrows.
+
+Normally, flaming arrows played no role in mass combat. They looked good, especially at night, but they played no role unless someone wanted to set something on fire. In this case, they illuminated the incoming gnolls. The dim glows of the arrows revealed the enemy’s plans. They locked their shields together. The mammoth-chimera parked its bulk in front, using its body as a meat-shield to oncoming missiles.
+
+I wondered if I should break out my Lance of Commitment and Charge the thing. The weapon excelled at hitting big, stationary targets. With +18 damage from my strength, +33 from Imbue Weapon, I could skewer the chimera for over 280 damage for an opener, over a quarter of its health. But Winterbyte’s powerful pet-heal could mitigate its effect.
+
+The gnolls and mammoth moved forward unhurriedly, well within the bow range of even our weakest archers. And then they stopped. Waves of missiles landed, mostly on the mammoth. The battlefield had grown so quiet we could hear the tinny sounds of arrows landing on distant shields.
+
+After minutes of missile fire from bows and crossbows, we wore down the chimera’s health to zero, and the creature disappeared into a large puff of green vapor.
+
+Behind me, I heard Bernard’s voice fill the silence with a jest. “At least there’s no grand clean-up.”
+
+Winterbyte hadn’t bothered to heal her chimera. Our foe used a pet-heal against us on the mountaintop, so it seemed strange not to use it here. Thankfully, they summoned the behemoth, so without its massive corpse, the gnolls’ shield wall provided their only cover.
+
+Fabulosa, standing next to me, shook her head in puzzlement.
+
+Iris’s brow furrowed as she and Fletcher exchanged questioning glances. “Turtle formation?”
+
+I turned to them. “What’s wrong with that?”
+
+Iris shook her head. “Turtling is futile. It is…”
+
+Fletcher answered. “Turtling takes so much coordination that troops performing it can barely move. Shields are heavy, so it takes both arms to hold. Any break in the wall ultimately defeats it.”
+
+I followed his logic. “And losing a soldier creates a gap.”
+
+Fletcher pointed at the gaps, for the gnolls were too big to fully protect and obviously hadn’t practiced this formation. Ribbons of healing lit up their ranks, both silhouetting and illuminating our targets. “Precisely. And it’s no simple matter to cover the spot. With everyone locked together, visibility is poor, and issuing orders is difficult. Turtling doesn’t allow soldiers to do anything else. They’re giving us free attacks—and we’re not running short of arrows.”
+
+Yula lowered her bow. “Ees foolish! Arms will tire soon. Zen, I will shoot glowing arrows. Perfect for tired doggies.”
+
+Angus Hornbuster loosed another arrow and shook his goblin bow, taunting the gnolls. “We’ll raggle The Gang of Three down to their name!”
+
+Fin pulled back a crossbow from the goblin mine. “Hammer that, brother! I say, ‘pound them to The Gang of Naught!’”
+
+Others answered with laughter and cheers.
+
+We pelted them with missiles, but the gnolls held their position.
+
+Bernard shook his mace and shield. “What are we waiting for? We’re in full kit and rattle now. I say we give ‘em what for!”
+
+Blane waved his arms. “Quench your noise, brother. Those gnolls are in their teens. They’ll tatter ye asunder.”
+
+With the mammoth gone, I counted 15 remaining blips. They stood outside spell range, and I couldn’t see their nameplates. We couldn’t defeat them in a fair fight, but healing the formation depleted their mana reserves. I checked the radar, and indeed the vargs had left Hawkhurst entirely.
+
+Fabulosa shook her head. “This doesn’t make a lick of sense.”
+
+“I agree.” Our dear enemy had positioned herself outside my Detect Magic range. When I tried it, nothing glows. Not even the patches of Glowing Coals, an irony that didn’t escape me. Logically, it made sense because divine blessings weren’t magical.
+
+I pulled out my spear and aimed it like a javelin. With its tip pointed backward, I launched it over their formation. Creeper sailed over their heads, and its butt end stuck into the ground, landing harmlessly behind them. My throw looked comically ineffective.
+
+Fabulosa regarded me with a questioning stare before realizing my trick.
+
+I closed my eyes and looked through Creeper’s headpiece. Unless someone picked it up, I remained its wielder. The infravision showed Winterbyte on the other side of the shield wall. She glanced at my errant weapon and shook her head at my missed shot. She focused on something at her feet, imbuing magic into a clumsily written rune on the ground. Her canine paws couldn’t articulate minuscule writing, so she made oversized magic glyphs—big enough to be legible from my spearhead’s vantage.
+
+I deciphered only parts of the rune. I recognized that she’d written a glyph for a celestial-level item, but not the relic’s true name. Part of the rune’s utility projected an aura range of 100 yards, enough to cover our entire fortification, yet it contained no damage or delivery functions. The language of the rune involved light magic, which made no sense. Why would she be using light magic?
+
+When Winterbyte finished imbuing the rune, it activated. A dome of golden sprinkles bloomed around us. The visual effect ended as quickly as it began, like a brief but silent fireworks display. As awesome as it looked, my heart stopped when the purpose of her magic became apparent.
+
+Winterbyte issued a sharp bark and shot off toward the west, toward kobold territory. The gnolls weathered our hail of arrows with multiple wisps of Rejuvenate. They broke their formation and followed.
+
+Hawkhurst citizens shook the palisades and clanged their weapons together. A chorus of dwarves, mercenaries, and refugees rejoiced in victory.
+
+I shouted what I realized about Winterbyte’s rune.
+
+Fabulosa shook her head. “What? I can’t hear you?”
+
+I repeated myself. “Winterbyte knows we don’t have the relic. Her rune didn’t detect it here.”
+
+While everyone inside the bailey celebrated, Fabulosa and I watched Winterbyte and her 14 gnolls disappear into the southwest. I helplessly watched red dots with quadruped labels speed away until they left Hawkhurst’s border. They headed directly for the relic’s resting place.
+
+Campaign completed
+
+Canine Invasion
+
+Reward received
+
+8 glory points
+
+The game rewarded me with a fraction of the campaign’s 40 possible glory points. Defeating them on the field of battle might have earned more glory, but this amounted to the least of my concerns. I combed my interface and game alerts to see if I’d done something wrong.
+
+“That’s odd.”
+
+“What?”
+
+“The campaign’s completion screen says I only received 8 glory points from the first campaign. But when I check my progress to the next rank of commander, it shows an accumulation of 24 glory.”
+
+Fabulosa rolled her eyes. “You make me sick sometimes.”
+
+“Why? What did I do?”
+
+“It’s your stupid easy-mode power—Applied Knowledge. It’s tripling your glory points.” She shook her head in disgust.
+
+Fabulosa and I Slipstreamed onto our horses. Her health returned to its normal level as the campaign finished. We left our state of combat once the gnolls left the town’s perimeter. Sitting on her steed, Fabulosa performed a Rest and Mend to refresh her mana.
+
+Jasper sensed everyone’s energy and likely smelled the feral scent of danger. I used Animal Communion to reassure him we’d beaten the threat and needed to chase after the gnolls.
+
+Tents, supplies, people, and animals already crowded the fort. I directed Jasper through the spikes toward the palisade’s blocked opening, but Hawkhurst’s citizens blocked our way to congratulate us.
+
+Eyes followed Fabulosa’s gestures to open the gate, and citizens near the barricade started unblocking it. When they saw our concern, concern crept back into their expressions. Soon the crowd quieted.
+
+Fabulosa held up a hand, and everyone shushed one another until it grew quiet. She raised her voice loud enough to carry across the fortification. “The night is ours—neither the gnolls nor the vargs will return!”
+
+It amounted to a bald-faced lie, the first she’d told the settlement since we’d created Hawkhurst. While the vargs weren’t likely to return, I knew Winterbyte would revisit us if she acquired her prize. With a relic, she could kill us with impunity.
+
+Everyone cheered with relief except Yula, who recognized our determination. The orc huntress gestured to our mounts in frustration. “What ees face? Ees good veectory, no?”
+
+My first close look at Yula in weeks didn’t instill me with confidence. Dried brambles had tangled into her long hair, and she camouflaged her face with mud. She looked sleepless and dirty from coverings of animal scent. She also carried debuffs, and couldn’t help us in a state of Exhaustion.
+
+I shook my head. “No. I mean, yes. It was. You need to stay here and protect the town. Fab and I are just going to give chase.”
+
+The orc didn’t buy it, and her expression darkened.
+
+Fabulosa laid down the plan. “Patch and I are about to put that no-account mutt in her place. We’re settling a personal score. The town is safe, but we’ll have to square this ourselves. This is about Charitybelle, so we’re doing this alone.”
+
+Yula nodded to show she respected a vendetta.
+
+I shouted to Bernard. “Keep an eye open for our horses. They’ll return within the hour.”
+
+The dwarf saluted, and the crowd parted to give us passage. On a moonless night, horses would break a leg on the first tree root in the forest, so we only needed them to cross the meadow.
+
+Fabulosa nocked an arrow in my magic bow and divined the direction of the gnolls. The glowing arrow tip confirmed their heading. Knowing Winterbyte’s location might help us avoid an ambush on the off chance that she dared to face us in the open.
+
+After I grabbed Creeper, the horses picked up speed, leaving Hawkhurst behind us. Over a dozen dark shapes slipped into the tree line by the time we reached the meadow’s edge. We’d nearly caught up with them.
+
+Fabulosa confirmed my disappointment. “We can’t catch her in the forest.”
+
+We dismounted and sent the horses back to the fort when we neared the tree line. Fabulosa and I opened our map interface to plot the path of least resistance to the dungeon. We’d crossed twice before and learned a little about the journey. Without mounts, we moved much slower than the gnolls. They’d gain hours on us before reaching the temple.
+
+Because we traveled through kobold country, we moved without glow stones or Presence. Creeper’s infravision guided us beneath the dark canopy of trees. I steered Fabulosa around roots and rocks that she might trip over.
+
+“What did you see behind the shield wall? How do you know where Winterbyte is going?”
+
+“When she arrived, she looked ready to take the relic. When the vargs left—that more or less evened out the odds. She wasn’t risking her neck unless she knew we had it. That’s why she used the rune. Instead of using the mammoth to knock down the gate, she used it to block our attacks.”
+
+Fabulosa followed. “I reckon that makes sense.”
+
+“When she and I fought, I used my robe’s ability to counterspell twice. That’s what probably convinced her I carried the relic—anyone with it could cast daily cooldowns like Counterspell ten times a day. After she retreated, she must have realized that neither of us used overpowered arcane spells against her. With no 500-point Arcane Missiles or Imbued Weapons showing up in the combat log, she must have concluded it wasn’t here.”
+
+Fabulosa nodded. “That checks out. I use the combat log to help me figure out things, too.”
+
+“Right. And her rune used light magic. Light magic isn’t just holy magic—it’s divination, like dowsing rods and detection spells. It reveals things. Her rune searched for the relic. When it wasn’t in Hawkhurst, she must have realized we’d been telling the truth.”
+
+Fabulosa pursed her lips. “I remember the look she gave us before she turned tail. She’s gonna use it to blow us out of the contest.”
+
+“Agreed.”
+
+“Do you reckon she can even get it? Without your little cylinder-key, she’s out of luck, right?”
+
+I spent many sleepless hours considering this question. Without the ward worm cylinders, getting the relic would take some effort. Winterbyte slipped through a grate above the tomb’s ceiling so she wouldn’t have to deal with the guardian statue. But the relic lay in a sarcophagus surrounded by a magic field that aged anyone inside its range.
+
+But Shelly knew how to program, and engineers solved problems better than anyone. “She might. She’s had plenty of time to chew over getting into the sarcophagus. I doubt she’s heading there to be stymied by a magical aura again.”
+
+“She can’t tip over the coffin with long poles—it’s too heavy. But she might push off the lid with a long crowbar. Or maybe pull it off with a rope. She’s strong.”
+
+I grunted. “I don’t know. There wasn’t much room to get our fingertips under the lid when we lifted it. I don’t see how she could wedge something beneath it from a distance.”
+
+The aura surrounding the relic extended farther than any crowbar. Winterbyte would need 25-foot poles. Gnolls had size and strength in their favor, but poles that long would be unwieldy, especially with giant claws.
+
+The contest interface listed 33 contestants active out of the original 64. Only one player had dropped since Charitybelle. “We’re nearly halfway through the contest.”
+
+Fabulosa nodded gravely. “Either way, we’ll be halfway through the contest by tomorrow.”

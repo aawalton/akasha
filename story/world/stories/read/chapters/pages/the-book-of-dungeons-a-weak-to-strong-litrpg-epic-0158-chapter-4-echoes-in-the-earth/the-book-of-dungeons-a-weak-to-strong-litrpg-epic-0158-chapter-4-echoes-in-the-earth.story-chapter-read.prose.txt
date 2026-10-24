@@ -1,0 +1,117 @@
+While I ran comfortably on a downhill grade, the growing depth concerned me. It had been a half-hour since I passed up the intersection where I first entered the oval passage. Humans ran faster than kobolds, so speed became my primary advantage. Unfortunately, my plan to lose myself in the abandoned rooms wouldn’t happen if I couldn’t find a crossroads.
+
+I heard no sounds of pursuit, but I had to believe their stubby little legs chased after me. I forced myself to keep moving, and in another few minutes, the conduit crossed into another large chamber. Again, it opened midway up the room, perhaps 50 feet above the floor. Piles of stinking sacks filled the space. It looked like a warehouse. Using infravision, I spotted oval openings in each of the space’s four walls.
+
+I climbed down a stack of crates. Since the kobolds couldn’t reach the oval openings, I created a wild goose chase for them. I jumped down and ran around the perimeter. I rubbed against various vats, barrels, and sacks to leave my scent everywhere. They’d tear the place apart, looking for me. After finishing, I climbed a rack of barrels and Slipstreamed up to an oval vent across from my entry point.
+
+I only needed one way out. I followed the new corridor into another empty silo-like chamber, but no roads led upwards. While it shared the same features as the last dormitory, this one looked smaller. I climbed along its sides until I reached another vent.
+
+By the time I’d reached the next length of conduit, I’d convinced myself I’d given my pursuers the slip. I followed it for a while until the tunnel curved upwards. Up was good.
+
+I came across a crossroads in the communications conduit. The strange thing about the crossing tunnels involved their misaligned depth. The tunnel crossing my path lay eight feet higher than mine. I couldn’t get up there without Slipstream. Worse yet, anyone traveling it had to make a very long jump to avoid falling into my passage. Kobolds might have carved these tunnels, but I couldn’t imagine how they used them.
+
+As I pondered the purpose of the tunnels, I felt alarmed by something coming. I looked around but couldn’t shake the sudden sense of incoming danger. A human-sized bat flew out of the crossing tunnel and over my head. Despite its sharp talons, it looked spindly. Infravision revealed the thick veins in its wings, a detail I didn’t need to see. It landed with a leathery slap against the side of the tunnel. It unhinged its lower jaw and emitted a piercing ring, reminding me of the karst caradon.
+
+Name
+
+Blind Watcher
+
+Level
+
+11
+
+Difficulty
+
+Easy (green)
+
+Health
+
+225/225
+
+The creature bounced ultrasound waves off me, explaining the mysterious sense of panic. I stopped time with my interface to avoid the ringing noise.
+
+Instead of silence, the echolocation sonar made low-pitched chirps. The noises blurred together, reminding me that my interface only slowed time.
+
+I used the moment to look for ways to stop this creature from escaping. Its pose suggested it readied itself to launch back into the air, so I needed to prevent it from fleeing. Fabulosa could snag it with Tangling Thorns, but spending a power point on a crowd control spell might not be necessary.
+
+After closing my interface, I placed a Compression Sphere behind it. Its wings would be vulnerable to the air blast, so blowing it toward me would be easy—from there, I could grapple it. When I began casting, the creature’s wings popped open. It leaped into the air toward the direction from which it came. My 2-second cast wasn’t fast enough.
+
+I canceled my spell and Slipstreamed onto its back. I barely made it, but I landed enough backstabs to bring the creature down before it reached another room.
+
+The stink of the bat dissuaded me from opening its guts and searching for treasure. I spied Cuffs of Obedience around its ankles. A pouch attached to its leather harness intrigued me more. The bag held crude clay tablets covered with hash marks—more kobold writing.
+
+Delivery bats explained why the interface designated these vents as communication conduits. They acted as a pony express for this sprawling dungeon, but everything about them seemed very unkobold in their purpose, design, and execution. The tunnels looked to be dug by kobolds but looked brand new or well-maintained. I’d walked miles in them, yet I’d not seen a trace of water damage, collapse, or disrepair.
+
+Why would kobolds even need such a system? Were they at war? Was their dominion so dynamic they needed to issue orders at a moment’s notice? It all seemed out of character for such a slovenly species. Even the clay tablets seemed haphazard—their irregular thickness, shape, and writing looked almost childlike.
+
+The body of the blind watcher wouldn’t fit into my void bag’s opening, so I couldn’t make it disappear. And leaving the rotting corpse meant another bat could soon report it. This wouldn’t do.
+
+After carving out a grave using Dig, I dragged the bat into it. Reversing the magic covered the carcass. Aside from killing the creature, I barely dirtied my hands.
+
+After wasting time on the winged messenger, I needed to move. When my Slipstream cooldown refreshed, I jumped up to the cross tunnel. If bats couldn’t see, did that mean they possessed a strong sense of smell? Would they be able to follow my scent? I decided it didn’t matter. I needed to be far away from the crime scene, regardless.
+
+Once I learned how they traveled, the watchers’ echolocation proved a liability to them. The next time I felt panicky, I prepared myself. I intercepted the next flier, bringing it down with my spear and inflicting backstabs for extra damage.
+
+After quickly burying the corpse with Dig, I moved forward, hoping to find a way out of these tunnels. After crossing another intersection, I followed a humid breeze from a natural cavern spanning miles in either direction.
+
+Stalactites and stalagmites filled the space, many conjoined into pillars the size of skyscrapers, stout enough to support the vast ceiling rising hundreds of feet above the cavern’s floor.
+
+The room extended beyond my infravision’s range, but a strange glow made my naked eyes useful again. A constellation of tiny lights covered the ceiling’s contour, allowing me to see a great distance. The twinkles looked like a field of blue Christmas lights. I couldn’t fathom what caused them—perhaps glowing gems or phosphorescent lichen. They weren’t strong enough to cast shadows, but their luminosity made the atmosphere dreamlike. Only silhouettes of pillars and stalactites prevented me from seeing the extent of the cave.
+
+Between the colossal pillars grew a forest of garage-sized mushrooms. It would be easy to become lost down here, but I could use the constellations above to navigate like a sailor at night.
+
+Flames along the bottom of the cave bathed a clearing with orange light—the only artificial luminescence in the cavern. Lanterns and torches demarcated a kobold workspace, and short whistles echoed from the same direction. Kobolds sawed through the giant mushrooms with knotted cords.
+
+Eight-legged rats, harnessed in ropes and leather, dragged skids piled with chunks of fungus. Kobolds drove the centipede-rodents like beasts of burden.
+
+These farmers stayed within the cleared-out section, leaving the rest of the mushroom forest to explore. The cave walls sloped up to my balcony in the communications conduit, so I didn’t need to use magic to lower myself down the mushroom cavern. I slid down 200 feet before the ground leveled out to a walkable incline.
+
+My hike through the mushroom forest progressed pleasantly. Garage-sized caps towered above me like giant umbrellas, forcing me to abandon plans of celestial navigation. While The Book of Dungeon’s map interface revealed no dungeon layouts, its compass helped steady my course.
+
+Edging along the cavern’s perimeter seemed safer than parading through the center without knowing the area’s subterranean ecology. The more I walked, the more I became convinced that the mushrooms provided a staple food source for the kobolds. I collected samples as I explored.
+
+A carpet of smaller fungi covered the ground, and as I trudged through them, they released a knee-high cloud of smoke. However, I held my breath, so the spores never reached my lungs.
+
+A foot-long glowing worm wriggled on the cavern floor. Its color matched the source of the ceiling’s twinkling lights.
+
+When fatigue overtook me, I Slipstreamed to the top of a mushroom and ate breakfast. I could see better on top of the mushroom caps and occasionally spotted a bat fly from one side of the cave to another. In a space so vast, they paid me little heed.
+
+I kept losing track of time, but breakfast seemed the best answer to hunger pangs. The overnight march to catch Winterbyte had discombobulated my circadian rhythms. Even though my internal game clock showed it to be in the evening, it felt like morning. At least Fabulosa enjoyed the midday sun for her return trip. I doubted kobolds weathered direct sunlight for this long, even in their riled-up state.
+
+My mind drifted to unconsciousness until I realized a dampness on my face. Why was I wet? After mentally retracing my steps, I realized I had fallen asleep on a mushroom cap. My clock showed that I’d slept only an hour, but I felt refreshed in every way except for resetting my daily cooldowns.
+
+I pulled a draught from my waterskin and looked around. A shifting sound of something weighty nearby roused me from my sleepiness. It took me a while to discern an enormous shape fifty yards away, moving among the mushrooms.
+
+Kobold whistles heralded the imminent danger.
+
+Name
+
+Titan Mole
+
+Level
+
+48
+
+Difficulty
+
+Deadly (red)
+
+Health
+
+5,400/5,400
+
+A giant furry shape several stories tall crashed through the mushrooms toward me. A fleshy pink flower splayed from its muzzle, serving as its only facial feature. Two door-sized teeth hung beneath it. Amidst a snowstorm of fungal spores, I heard sucking and blowing sounds.
+
+Moles were blind as bats but didn’t have a radar system. Hiding did little good, and running beneath the mushrooms only obscured my vision.
+
+I stood still, hoping the gargantuan mole would turn differently, but the hanging appendages pointed in my direction, sniffing continuously. It didn’t locate prey through tremors. It had picked up my scent, disproving my strategy to stand still.
+
+The building-sized creature moved toward me unhurriedly.
+
+Escape became my only option because killing a level 48 monster wasn’t possible, and certainly not on its home turf. While running along the cave wall, I scanned the sides for bat tunnels or holes to hide in—but saw none.
+
+I ran. My weight barely shook the mushrooms, but a film of wetness made them slippery. With almost no gaps between the caps, I leaped from one to another, but the constant up-and-down exertion slowed my progress.
+
+The mole uprooted mushrooms with tornado levels of violence once it became clear its prey moved away from it. I’d summon Beaker and tell him to distract the beast, but my Familiar couldn’t take wing.
+
+Despite my size, I moved faster than the mole. My breathing increased as I humped myself up and down the mushroom caps. The irregular topography felt like running across rooftops. The unsure footing demanded much from my leg muscles, but I maintained a steady pace.

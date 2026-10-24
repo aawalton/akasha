@@ -1,0 +1,155 @@
+I studied the panopticon from the dark tunnel that connected to it midway to the ceiling. Creeping toward the opening overlooking the panopticon, I saw kobolds filling the sides of the chamber with my new infravision necklace. Ratfolk occupied most cubbies, although some stragglers still climbed the walls around the bunks.
+
+The guilt for leaving Fabulosa weighed on me. She’d clearly objected to another dungeon crawl, and my disappearance probably hadn’t improved her disposition. The sooner I could garner her attention, the sooner she could relax.
+
+Signaling my partner without alerting the rat pack was crucial, but luckily, I possessed a handy new antenna, an appropriate device for a communication conduit.
+
+Item
+
+Battleground Standard
+
+Rarity
+
+Quality (white)
+
+Description
+
+Level 10 ItemItem use—Plant standard into disputed territory to enable battleground chat.
+
+Lodging the standard into the ground produced a disheartening message in my event log.
+
+/You are not in a state of combat.
+
+The battleground standard needed disputed territory to be active.
+
+“Oh, come on.”
+
+Even though the kobolds showed no aggro, the rustling in the panopticon made me nervous. Fabulosa would not like this. One thing worse than kicking a hornet’s nest included being inside when it happened.
+
+My inventory and character sheet revealed no game mechanics for flagging down my partner without inciting a riot.
+
+Name
+
+Apache, Governor of Hawkhurst and elder of Forren
+
+Level
+
+24 (3,687/3,735 experience to next level)
+
+Armor
+
+68
+
+Stamina
+
+23 (230 health)
+
+Intelligence
+
+27 (270 mana)
+
+Strength
+
+11 (+11 damage to physical attacks)
+
+Agility
+
+19 (+19% to hit/dodge physical attacks and movement)
+
+Willpower
+
+24 (+24% to spell effects/resistances, health/mana recovery, and influence)
+
+Skills and ranks
+
+Alchemy 15, Arcane Magic 23, Blacksmithing 6, Bludgeoning Weapons 24, Carpentry 12, Command 1, Dark Magic 2, Defense 22, Dodge 24, Equestrian 6, Governing 7, Leatherworking 12, Light Magic 20, Manuscript Creation 14, Nature Magic 22, Piercing Weapons 25, Primal Magic 21, Ranged Weapons 18, Research 31, Sailing 2, Slashing Weapons 24, Stealth 7, Survival 21, Tailoring 13
+
+Powers
+
+Cantrips Animal Empathy, Detect Magic, Heavenly Favor, Minor Hex, Shocking Reach Tier 1 Aggression, Animal Communion, Anticipate, Applied Knowledge, Charge, Compression Sphere, Detect Stealth, Hot Air, Imbue Weapon, Mana Shield, Mineral Empathy, Protector, Read Magic, Rest and Mend, ScorchTier 2 Amphibious, Counterspell, Familiar, Inscribe Rune, Mineral Communion, Refresh Mana, Rejuvenate, SlipstreamTier 3 Dig, Magnetize, RestoreTier 4 Move Object
+
+Note—Stats include buff and gear bonuses
+
+My lower stats came from Exhaustion. Forgetting to cast Heavenly Favor­ exemplified why Fabulosa had been right about not attempting another dungeon crawl without getting a full night’s rest. It made for a careless error, and unless I wanted to run back into the communications conduit, I wouldn’t be able to buff myself without creating unwanted attention.
+
+I looked for other ways to get Fabulosa’s attention without revealing our hiding spots. One power offered a spark of hope. Scorch produced no spell effect trails like Fireball or Shocking Reach that would give away my location. I couldn’t target my partner because she lay well outside its range.
+
+Normally, my Scorches inflicted 40 damage, but with Aggression in the middle of this underground city, I wasn’t sure if instantly killing one would wink me in and out of combat too quickly to plant the battleground standard.
+
+After deciding to use Scorch, I edged to the lip of the tunnel and found a kobold with the most health, one asleep in his cubby. The rude awakening wouldn’t erase all of its 95 health—it would survive the attack. Spells didn’t critically hit, so I’d have enough time to plant the battle standard.
+
+I cast the spell.
+
+It squeaked as it writhed in the cubby, putting the flames out with its bedding. Unfortunately, the creature rolled out of bed and plummeted to the floor below.
+
+/You Scorch Brackwater Digger for 70 points of damage (10 resisted). /Brackwater Digger takes 32 points of falling damage./Brackwater Digger dies.
+
+Or maybe it wouldn’t survive.
+
+I grunted under my breath. “Sorry, Mr. Kobold, but The Book of Dungeons isn’t a game for sissies.”
+
+Tumult erupted at the panopticon’s floor. None of the kobolds pointed in my direction, so I ignored the commotion. Either way, my combat state allowed me to activate the battleground standard.
+
+Apache opens battleground channel.Apache joins channel.Fabulosa joins channel.Apache Hey, kiddo! How are you? Sorry for disappearing. I just got a little lost in random tunnels. Fabulosa I wondered what happened. The kobolds came in without a fuss—not that it matters now. A few sniffed around the tower, so I figured you were safe. Where are you?Apache I’m in the air vent—the tall tunnel halfway up the silo. Fabulosa Oh, yeah. I see you now. Apache I swear, my head isn’t attached to my shoulders right now. I haven’t buffed yet.
+
+I waited for a few moments, but Fabulosa didn’t respond. I changed the interface to chat to real-time, but even then, she made no jokes about my goof.
+
+If she wouldn’t take the conversational bait about my rudimentary mistakes, perhaps the best course of action involved an admission that she’d been right in wanting to come back later.
+
+Apache Anyway, I’m sorry I didn’t come back sooner. We’ll get out of here, I guess. Fabulosa Uh-oh. A few of them are climbing toward your pos. Apache Pos?Fabulosa Position. Apache Oh. Hah! Right. It looks like I’ll need a little cover fire after all. Are you ready to dance? Fabulosa Ready.
+
+Again, I expected Fabulosa to say something like, “Yeah, just gimme a beat,” or, “Ready to rock,” or something fun. She wasn’t kidding about not being in the mood. Something felt off about her.
+
+The window stood too far away for one Slipstream. To get within thirty feet, I had to climb halfway around the silo and a few stories up.
+
+A Fireball streaked across the room, interrupting my thoughts. It exploded below me, leaving me just outside its range of damage. As brilliant as Fireballs appeared, they caused minor damage, but at least the flames preoccupied the locals.
+
+The room erupted in hundreds of squeaks and whistles. An arrow hit something above the opening of my oval tunnel.
+
+My partner’s voice carried over the clamor. “To me!”
+
+When the projectile flew back toward the window, distinct squeaks of panic rose as a corpse landed atop other climbers, dropping more bodies to the floor with fatal thuds. Fabulosa caught it in her outstretched hand, nocked it, and fired at another target. A similar sequence of sounds followed as she one-shotted rats off the wall with the Returning Arrow.
+
+Her distraction gave me time to move. In gripping the lattice by the vent, I narrowly avoided being bitten by a nearby kobold crawling toward me from a neighboring cubby. After Shocking Reach dislodged its grip, it crashed headfirst into other climbers beneath it like a bowling ball knocking down pins.
+
+I grabbed the nearest buttressing and pulled myself into the panopticon, ignoring enemies climbing beside, below, and above me. Winterbyte’s claw weapons might enhance my strength, but I’d need to drop Creeper to use them—and that wasn’t happening.
+
+Casting Heavenly Favor boosted my stats +4—I couldn’t believe I’d nearly forgotten to cast it again. Sleeping less than eight hours wasn’t good for business.
+
+While climbing the roots supporting the chamber walls, I assayed the situation. Kobolds filled the cubbies, running up to the ceiling. They scrambled quickly and closed in on my position at all angles. I decided the higher I climbed, the safer I’d be. Unfortunately, this route meant fighting critters above me. If they jumped on top of me and held on, a Grappled condition would prevent me from casting Slipstream.
+
+As if to confirm my fears, a kobold landed on my shoulders and dug its teeth into my neck. I rolled into the cubbyhole, grabbed it, and kicked it out before it could get a better grip. The airborne varmint plummeted to the floor below.
+
+Being mindful of what climbed above me, I swung myself back onto the walls. After kicking another hard enough to lose its grasp, I cast Compression Sphere on the cubbyhole above me and knocked off two more.
+
+Spells and abilities suiting my predicament were scant. Move Object wasn’t strong enough to loosen grips and couldn’t target creatures. Lightning Bolts could reach any point in the room, but it was an inefficient use of mana.
+
+Fabulosa’s cadence of Fireballs wasn’t frequent enough, and the Returning Arrow killed and dislodged only one target at a time. I still had to admire her accuracy—her very shot proved dead on. Whenever her arrow struck something above me, I hugged the wall to avoid a falling body.
+
+Apache These guys are faster than I thought. Fabulosa There are tons beneath you, and they’re fanning out to avoid fireballs and cut you off. I’m going to land the next blast beside you. As soon as it hits, scramble over. You’ll get a mite toasty, but you’ll survive.
+
+Using the chat made me remember I’d forgotten about the battleground standard. I’d left it sticking out of the dirt in the communications conduit. Where had my brain gone? It counted as my third dumb mistake since entering the chasm.
+
+I couldn’t leave something as valuable as the battleground standard behind. It wouldn’t help me communicate with monsters or NPCs, but it might help me avoid confrontations with other players—a potential game-changer in the contest. Abandoning it over a horde of filthy kobolds would not happen. Still, they had a home-field advantage and climbed faster than me.
+
+I switched the battlefield chat to be instantaneous instead of real-time, freezing the world and silencing the bedlam of the agitated kobolds.
+
+Apache You won’t believe this, but I forgot the battleground standard. Fabulosa I don’t know what to say to that. You might have to kiss it goodbye. There are only so many kobolds I can clear, and there’s more circling above you. Apache I can’t believe how fast they zeroed in on me.  Fabulosa It’s your call. I’m not in a position to help. I can’t rightly tell if there’s more coming in. It’s getting smoky up here, and that stupid tower blocks my view of the ground.Apache I found a warren of tunnels down here. I have a better chance of losing myself in them than in this room. They’re going to grapple me before I reach slipstream range. Fabulosa I’ll switch my next fireball to the tunnel. There’s a bunch already there. Apache I’m going to cut you loose after that. Pack up the Dark Room before you go. That’s another thing I forgot. You can head home after that. I’ll make it out of here on my own.Fabulosa You sure? You never want to split up a party, especially in a dungeon. Apache I don’t see how we have any choice. Maybe I’ll learn why the kobolds were going berserk on the surface. Get back to Hawkhurst to warn Yula. Send patrols in westward routes. Don’t do anything crazy like organizing a rescue party. It’s a maze down here, and you’ll only leave Hawkhurst less defended. Fabulosa I’m not abandoning a partner to save a bunch of NPCs. We’re in this until the final two, remember?Apache I’ll be fine. Besides, I’m in the mood for a dungeon crawl. I soloed a dungeon in Belden against nasty undead, so this shouldn’t be too bad. Fabulosa All right. Be careful. You won’t have the Dark Room for a safety net. I’m not set on being governor yet. There’s too much of the world to explore. Apache I’m closing the chat when I get back to the battle standard. Good luck.Fabulosa You too.
+
+When I unfroze my interface, the high-pitched roar from the chamber overwhelmed my eardrums, reminding me how much noise frantic kobolds could make.
+
+Arrows picked off kobolds above me as I backtracked. With the bulk of them cutting off my escape to the window, Fabulosa had fewer targets on my side of the room.
+
+I returned to the tall, oval tunnel covered in scratches, bites, and wounds, but nothing Rejuvenate couldn’t handle.
+
+Kobolds still occupied the tunnel when I arrived. Fabulosa’s Returning Arrow and Creeper cleared them away, allowing her to save Fireball for a large group climbing from the floor.
+
+It felt good to be on my feet again, and after clearing the remaining kobolds, I hurried. I grabbed the battleground standard and lit up Presence to blind my attackers.
+
+The crescendo of protests testified to its effectiveness. Unfortunately, my eyes had adjusted to the dark, and I had to squint. When an arrow buried into my arm, I realized I wasn’t the only human blinded by the brilliance.
+
+Fabulosa hit me for 70 damage—doubled because of Aggression—giving me a new appreciation of her character’s strength. The missile ripped from my bicep and flew toward her sniper window. I winced at the pain and popped a Restore on myself, hoping she wouldn’t blame herself for the miss.
+
+I doused Presence and Slipstreamed down the tall, oval corridor. Extinguishing the spell plunged the silo into darkness, blinding the multitudes for a second time.
+
+Using my infravision necklace to navigate, I sprinted down into the deep, dark unknown of the communications conduit.

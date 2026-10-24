@@ -1,0 +1,137 @@
+With Fabulosa and I returning to our seats of responsibility, Hawkhurst’s security rating improved enough to put citizens back to work. With my governmental interface restored, I’d seen that someone had already told Ally of our arrival before I found her back in town. I counted only 24 dwarves assigned to construction.
+
+Ally shrugged apologetically when I found her. “If ye don’t mind me saying so, it’s the workforce rating. The Arlingtons arrived in a worried state. Their health will improve, but they tend to build things in an etherwise fashion.” She apologetically grimaced.
+
+I crooked an eyebrow and grinned. “Is that a nice way of saying their craftwork doesn’t measure up to dwarven standards?”
+
+She tried not to smile. “Ye draw yer own conclusions, Guv’nor. We’re happy to have their help, but—there will be a wee learning curve, shall we say?”
+
+When I tripled the construction assignments, I got a faster build time with an albeit anemic efficiency rating. Ally hadn’t been wrong about using city folk for the construction crew, but we couldn’t afford to maintain our architectural integrity. We needed to brute force the issue.
+
+Building Status
+
+Barracks
+
+Remaining Build TimeEfficiencyWorkers
+
+1.8 days15 percent80
+
+Eighty workers would finish the barracks in almost two days. I assigned a dozen citizens to food-related tasks and another dozen to collecting sharp sticks from the woods for our defenses. Everyone else patrolled or prepared for battle.
+
+As I expected, Dino’s instructions prepared no one for large-scale confrontation—what he dubbed the vulgarities of war. He’d introduced them to the basics of fighting, but our citizens didn’t look capable of defending themselves yet.
+
+Nor could Iris or Fletcher rank up everyone’s combat skills. The dwarves and the humans we’d rescued from Arlington were civilians. Even with Dino’s help, we needed the barracks to organize everyone. None of the refugees expected battle, and I sympathized with their dissatisfaction at being recruited.
+
+Everything depended on getting the barracks online and quickly training for basic combat skills. I considered spending favor to rush its construction, but the prohibitive cost stopped me. Few mechanics in The Book of Dungeons would help defenders as much as Forren’s second blessing—Glowing Coals. Our recent completion of the shrine unlocked it, and in a couple of days, we’d have over 4,000 favor—enough for Fabulosa and me to each have the new blessing. I wasn’t the only one looking forward to giving those mangy mongrels a good dose of Hotfoot.
+
+Ally indoctrinated anyone interested in following Forren. Even after explaining that joining would help the settlement, only half of the refugees accepted her invitation. Why wouldn’t some convert? The Sternways and the guard guild mercenaries had no issue with joining. I didn’t understand their hesitance to commit to a new deity, nor did I have time to investigate.
+
+I needed to focus on creating a rune strong enough to destroy the cursed relic. If it fell into Winterbyte’s greedy paws, her quarry would include players, not NPCs or monsters—and I saw no way of hiding it from her nose.
+
+Using the relic subjugated its owner to demonic possession, but its overpowered bonus made arcane spells like Mana Shield, Arcane Missile, and Imbue Weapon many times more effective. Relic bearers could spam Arcane Missile ten times faster than regular casters, doing ten times as much damage for one-tenth the mana cost.
+
+Fabulosa and I would last only a second against such firepower.
+
+I needed to create 100-point mana potions, but I wanted to start with something simpler. The influx of new citizens made indoor space a premium, and I needed to concentrate on my concoctions. Magic wouldn’t work in the Dark Room. Since the sheep grazed around the motte and bailey, I set up a small area in the animal shelter while everyone busied themselves with work.
+
+Using my new alchemical supplies, I practiced making lesser health and mana potions since we almost ran out of them during our fight with Odum. I could rank up my alchemy skill and pass them around. Mixing chemicals worked more straightforwardly than crafting runes, but I wanted to iron out the kinks of my new alchemy set before attempting the 100-point mana potions.
+
+When I ran out of ingredients for the low-level potions, I followed the recipes I bought in Grayton and prepared the bumbleroot. Alchemy wasn’t just a matter of following recipes—it involved adding ingredients at the right time. Preparation and organization became everything. Since I had little experience, I had to math everything out in order to know how long it took different liquids to boil and cool. Alchemy became a juggling act, and it taught me a new respect for my aunt’s ability to prepare a Thanksgiving meal.
+
+After long hours, I made three 100-point mana potions. I would have had four, but I forgot to add ingredients to the first batch and spoiled the result. I only needed one to destroy the rune, but a 50-point mana potion didn’t always sustain my combat needs.
+
+Odum’s Headband of Conversion allowed me to convert stamina into mana, producing a maximum of 440 mana, enough to cover the 425 necessary to empower the magic. I equipped all the stamina and intelligence gear we’d collected and started the task.
+
+Closing the barn door ensured I could imbue the rune without interruptions. Infusing magic into the relic-killer felt no more dangerous or dramatic than the lesser runes I’d created during my testing process, but it took more time.
+
+I’d long since prepared a piece of parchment for my rune. Before we left for Arlington, I’d sketched multiple copies, leaving blank spaces for its true name. I filled in Cursed Band of Arcane Ascendence and imbued the parchment, using silver and lead with Mr. Fergus’s special pen. The metal words and glyphs stiffened the parchment and made it heavier.
+
+After steadily pouring my mana into it, I finished the rune without fanfare. It glowed when I cast Detect Magic. The only missing components included a direct line of sight to the relic and speaking the rune’s trigger phrase—The hard way.
+
+Our prospects for surviving Winterbyte’s wrath, with or without wolves, improved when the work crew finished the barracks at the end of the following day. I blamed myself for forgetting to give Ally one of our cores to add to the building’s recipe, which might have given us valuable combat bonuses. It made for a terrible oversight that I’d never be able to correct. Still, I wasn’t beating myself up too much. The pangs of Charitybelle’s loss, settling in the newcomers, distractions with Dino, Beaker’s demands for attention, and half a dozen governing issues preoccupied my mind.
+
+When they finished the building, we opened it without a banquet. Our population reached a point where spontaneous parties weren’t possible. Rocky and the kitchen staff had erupted in groans and complaints at the suggestion of a christening ceremony. To marshal meals for large groups, the slightest menu change could add hours to preparation. Rocky recitation of what his team needed for a feast reminded me of my alchemy lessons.
+
+Instead, we ate a regular meal. While the rest of the town gobbled down dinner, I inspected the barracks—our shiny new toy.
+
+Walled-in drill yards surrounded the structure. They wouldn’t withstand a small siege but sensibly separated soldiers from civilians. I bet Hawkhurst’s protection bonus made it even sturdier than it looked. One of the building’s many assets included its living space, accommodating as many as a roundhouse.
+
+Blane, Bernard, and 28 other citizens planned to bunk here tonight. I started a list of trainees and non-mercenary scouts to quarter within its walls, even after we built more roundhouses. With the influx of refugees, the barrack’s extra space eased the overcrowded pavilions inside the motte and bailey.
+
+The bunks, tables, and weapons racks seemed standard, and nothing surprised me until I discovered a basement—even though the blueprints never included one. I considered the kitchen and mess hall the least impressive underground amenities. After discovering another billet for six more soldiers and cells for a dozen inmates, I double-checked the barracks description.
+
+The ward worm’s core created this downstairs as part of its bonus, and the extra guard room bunks became part of the free jail. Though the dwarves hadn’t built it, everything downstairs looked sturdy and masterfully crafted.
+
+In addition to the six bunks, it featured a guard area and five cells behind shiny steel bars. Each cell contained another bunk bed, increasing the number of mattresses to 48. The extra space was a welcome surprise for our crowded population. I could only guess how the recently freed prisoners from Arlington’s debtor prison might respond to these dubious accommodations. Welcome to Hawkhurst, where citizens may freely choose their own cell!
+
+The settlement’s interface sported a new command tab, and the barracks unlocked a militia management system I eagerly wished to explore. I focused on it to inspect our new command system.
+
+Before analyzing its details and options, I switched to the economics tab and regarded our town’s labor assignments. Among the work slots lay two new red options—one for militia and another for command. The militia doubled the acquisition rate of combat skills. When I assigned myself to the militia slot, another opened, making it infinitely expandable. If I wished, I could assign the entire town to militia roles.
+
+When I examined my combat skills, the tripled rate of rank acquisition sextupled the rate at which I could learn combat skills beneath rank 10. Unfortunately, my 18 rank in ranged weapons represented my lowest combat skill, so I wouldn’t benefit from the barracks. It might not even help Fabulosa. I’d wager most of her skills ranked in the teens.
+
+The new worker slot represented command. When I moved my name to the slot, a message appeared in my event log stating that I’d received the command skill.
+
+Congratulations!You are rank 1 in command
+
+You have gained a rank in command. You have received 1 command power point. You have 0/50 glory points toward rank 2.
+
+That seemed too easy.
+
+The command description included a militia count under my supervision—a total of zero. After adding Fabulosa’s name to the militia slot, the system listed her as a subordinate, raising my militia count to one.
+
+The barracks’ description referred to glory points, but it made no further information available. My glory point count stood at zero, which also made sense, as I’ve had no command experience. I didn’t know what they were, but they sounded like something I wanted to earn.
+
+I closed the economics tab and opened the settlement’s command interface.
+
+Command
+
+Hawkhurst
+
+Command staff
+
+1 (Apache)
+
+Campaign history
+
+none
+
+Active campaigns
+
+none
+
+The sparse command interface lacked functionality. It only listed our settlement’s command staff, of which I was the sole member.
+
+I focused on my name in the command staff’s information, and a new text window appeared.
+
+Commander name
+
+Apache
+
+Command rank
+
+1 (glory to next rank 0/50)
+
+Promotions
+
+none
+
+Militia subordinates
+
+1 (Fabulosa)
+
+Morale
+
+35% (alarmed)
+
+Campaign history
+
+none
+
+Active campaigns
+
+none
+
+The window stated I reached a rank 1 commander with no promotions. That seemed correct. I didn’t take it as an insult that it described me as inactive in campaigns or that I’d earned no glory.
+
+Obviously, this interface didn’t reward past achievements, for I’d soloed the ward worm—a world boss. And if our efforts to repel incoming vargs and gnolls weren’t part of a campaign, then I must have missed something.

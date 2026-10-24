@@ -1,0 +1,133 @@
+Even with Aggression, I didn’t have time to wear away the ratipede’s thousand-point health pool. As I danced around it, I searched for the creature that had once been Suellen Collins. She positioned herself behind the pillar, moving much faster than me, and catching her with this 40-legged abomination on my tail seemed unlikely. I would need to survive four minutes and 48 seconds before Slipstream’s cooldown ended.
+
+That’s when I remembered Aggression’s bonus multiplier also affected my spells. I cast Scorch on her Highness. Landing 48 points of damage would substantially contribute to finishing her 122 remaining health. When the spell landed, the report in the combat log dismayed me.
+
+/You hit Suellen Collins with Scorch for 28 damage (52 resisted).
+
+Shocking Reach landed with the same diminished result. I tried my Light Crossbow and hit for only 6 points. I even pulled out a regular bow and issued an Imbued arrow, but my magical attacks did 10 percent of what they normally should. The wererat had high willpower.
+
+On top of my woes of spell resistance, Suellen used the central pillar to delay my casts and block my arrows.
+
+All the while, the ratipede chased, biting and swiping at me with its many claws. Though they hit for low damage, the attacks forced me to withdraw when I should have been attacking. I could not afford to waste time while the wererat repositioned itself to the far side of the earthen pillar. And heals and Mana Shield drained my mana resources.
+
+While fighting off the beast, I followed the wererat’s movement and status. When her health jumped by 150, my heart sank. She’d just quaffed a potion of greater healing. Even with Slipstream, a critical hit backstab wouldn’t finish her. This fight tipped further away from my favor.
+
+Meanwhile, my health fell to double digits, and my mana waned. After checking my inventory, I saw nothing that could deliver massive amounts of physical damage. From this point, I reserved mana for healing.
+
+Minutes passed, and a few of the kobolds engaged. They bit and clawed at me, mostly to no effect, but my health edged lower with every scratch and nick. Slipstream’s cooldown ended, but now I needed it for an escape mechanic. The wererat had received heals to recover much of its injuries. Could I use my Dark Room to escape among hundreds of kobolds? It seemed a possibility until I remembered Fabulosa had it.
+
+My combat abilities and melee skills amounted to nothing because I couldn’t get close to the lycanthrope. My limber quarry avoided any toe-to-toe combat. Suellen would content herself with playing Ring-Around-the-Rosie until the ratipede and kobolds wore me down.
+
+The Crown of Obedience fell beyond Move Object and Magnetize’s power. Even if I could get within reach, The Book of Dungeons disallowed equipment removal, manual or magical, aside from disarming weapons. I needed to kill her to remove that blasted headband.
+
+My problem rested with this pillar. If I could get around it, I could corner the wererat and have a chance.
+
+I drank a mana potion, stopped running, and tossed up Mana Shield so I could channel Dig, removing wide slices of earth from the structure supporting the ceiling. After two seconds, the kobolds and ratipede closed the distance and grappled me. Mana Shield or not, it interrupted my channel.
+
+And yet, my spell’s effect on the pillar proved worthwhile. I’d compromised its structural integrity. The wererat did not comprehend my strategy before I became Samson and brought down the temple upon us all.
+
+The ceiling collapsed.
+
+Most of the kobolds, deterred by Presence, crowded the room’s edge. They had a few seconds to escape the avalanche, which fell from the room’s center radiating outward. Most withdrew from the room in time—their squeals of panic served as the wererat’s only warning.
+
+The ratipede, partially wrapped around the pillar, didn’t react to the falling house-sized chunk of earth, and the cave-in buried it.
+
+I slipstreamed beneath the arch to the throne room. Half a dozen death messages scrolled through my combat log, but I ignored them.
+
+Suellen Collins broke for the same archway for shelter. She moved fast, but not faster than Slipstream, reaching the red curtains in time to receive a blast from my Wall of Wind. It knocked her back far enough to bury her in the debris.
+
+Hints that she and the ratipede died came from alerts about 84 experience points. The game awarded no experience for killing kobolds, so I checked my combat log to confirm their deaths.
+
+I had only 54 health and 31 mana but remained in a state of combat. The kobolds, who were excellent diggers, tunneled toward me from the other side of this loose dirt mountain, fulfilling their sovereign’s last command.
+
+If I hadn’t already channeled Refresh Mana today, I might have prepared myself with it.
+
+Without enough mana to cast Dig again, I unearthed the fallen queen the old-fashioned way. I fell upon the black soil and scooped handfuls of the earth, digging like a dog. I raced to excavate the lycanthrope before the kobolds reached me.
+
+Despite my sore fingers, I plunged them into the earth until I felt bristly, matted hair. Three kobolds surfaced, biting and swiping. Ignoring their attacks, I buried my arms in the soil and searched for the wererat’s headpiece. When I felt its metal curves, I pulled the Crown of Obedience from the ground, rolled backward beneath the red curtains, and crowned myself.
+
+“Stop attacking me!”
+
+The kobolds stopped. A couple shook the dirt from their fur, and one picked at something between its teeth. They weren’t complete zombies, but they obeyed my command.
+
+My combat state ended, as did my war with the Kobold Nation.
+
+Lying under the archway to the throne room, covered with dirt, I wondered if they telepathically comprehended my thoughts or if they had changed them to Kobold without my knowledge. As fatigue settled, I realized I didn’t care as long as they stopped attacking me.
+
+“Help dig out anyone who might need it. Maybe you can save your friends.”
+
+I didn’t bother reaching into the soil to retrieve a core from the wererat’s corpse. Someone had transformed Suellen Collins into a lycanthrope, or perhaps she did it herself. In my experience, cores of modified monsters offered no bonuses for crafted items.
+
+A small gathering of kobolds watched as I rose and brushed the dirt off my robe. Bix stood among the survivors of the cave-in. Good for him. They shielded their eyes until I doused Presence and performed a Rest and Mend.
+
+I gave myself one last shake before entering the throne room. For whatever reason, I felt I ought to be clean before entering. The throne room had no lights and wasn’t as large as the antechamber. Dark windows ringed the apex of its conical ceiling. A long patchwork rug led to an immense throne on the opposite end. Like everything in this dungeon, the throne bore no decorations. The oversized chair looked big enough for a gnoll, but the furniture dwarfed its current occupant.
+
+A wererat clapped softly in the darkness. The sound echoed across the chamber.
+
+Name
+
+Femmeny
+
+Level
+
+12
+
+Difficulty
+
+Easy (green)
+
+Health
+
+130/130
+
+The wererat bore a player’s nameplate. Winterbyte mentioned her in her notes. But why had Femmeny become a wererat? And why did she sit on a kobold throne?
+
+Femmeny stopped clapping and spoke. Her voice soothed me, and the elliptical chamber projected her words. “Oh, my gosh, that was so exciting. I can’t believe you killed a greater ratipede! That was seriously the best battle I’ve ever seen. You are so amazing. Oh, you’re cute too! Come closer! Let me get a good look at you.”
+
+As I approached, I could see the throne glowed with magic.
+
+Item
+
+Throne of Obedience
+
+Rarity
+
+Rare (yellow)
+
+Description
+
+Level 45 magic item Item use—Wearer may control up to 50 creatures wearing Crown, Amulet, Rings, or Cuffs of Obedience. Controlled creatures will serve enthroned beings even if commands are contrary to their nature or survival. Range of effect is 50,000 yards.
+
+“Come close, Apache. This won’t take long, I promise.”
+
+I picked up my pace. Femmeny would probably kill me when I reached the giant-sized throne, and I didn’t want to keep her waiting. Upon reaching the rug’s end, I kneeled since it seemed appropriate. She might have been another contestant, but now she served as my queen. I had to respect that.
+
+“You don’t think I’m gross, do you?” She played with the few remaining wisps of long hair. Her skin acquired an undergrowth of short fur, almost beardlike. It covered her forehead and cheeks, contorted by rodent features. She bore no enchanted armor or weapons and wore nothing regal.
+
+I expected another player to have better equipment, but I said nothing that might insult her. “Not at all, your highness. Did you get bitten by a wererat?”
+
+“Yeah, I’m not sure changing into one was my best decision. But wererats move quickly, don’t we? I used to be so beautiful, too. But human NPCs can spot lycanthropes, which completely ruined my game. I couldn’t believe it when they chased me out of town. It was the scariest thing I’ve ever been through—you can’t imagine. I literally ran for my life. Basically, it was a horrible situation. What’s the saying? ‘Whoever battles with monsters better watch out, or they’ll become a monster.’”
+
+I liked her analogy and grinned in response. “It’s ironic. Yesterday, I was thinking about another Nietzsche quote. The one about staring into the abyss.”
+
+“Hmm, never heard of that one, but I’m so glad your crown fits. Is it on nice and tight?”
+
+I nodded and pulled the metal band onto my head.
+
+“Perfect! When you killed Sue, I got so nervous that you wouldn’t put it on, but it all worked out in the end.” She directed her attention to someone behind me.
+
+I turned to see who she addressed and saw four more wererats. They brushed off dirt from their leather armor, standing at a respectful distance by the chamber’s entrance. Three gnolls joined them, each wearing a Crown of Obedience.
+
+“Whoa! You have more crowns!”
+
+Femmeny rolled her eyes. Her inflections seemed to lead to a question, but then she switched tracks and veered off in another direction, all part of the same stream of consciousness. “For sure. Crowns help control the kobolds, but, of course, I don’t want other players to know, so I keep them separated. Whenever someone comes looking for a boss, they put on a crown just like you did. But you got here so fast I barely could summon a wererat in time. I’m glad you killed Sue. She was so stupid, you wouldn’t even believe it. She was the worst—and she even got my bloodhounds killed for no reason. I know it’s terrible to say, but I’m glad she’s gone.”
+
+“I’m glad to be of service.” It seemed like the safest response.
+
+Femmeny drummed her fingers on the throne’s arm. “That’s the problem with this awful throne. I hate it so much. It’s so unfair. And it’s so boring down here. I can’t take this throne anywhere, and I can’t adventure, so I’m stuck in this awful room. If I leave the throne for any amount of time, I lose control of the gnolls, wererats, and kobolds, and they would go completely crazy, and then where would I be?”
+
+“I’m sorry to hear that.”
+
+“Anyway, killing you will give me a good bump of XP. I bet you have lots of goodies for me, too. Gimme-gimme-gimme! What do you have? You have no idea how excited I am! I’m so happy this worked out!” Femmeny clapped her paws and rubbed them together while I came forward.
+
+Her chipper mood made me want to hurry to her. If I delighted her already, she’d become even more pleased with my magic items. I had many valuable things to give and discoveries to report.

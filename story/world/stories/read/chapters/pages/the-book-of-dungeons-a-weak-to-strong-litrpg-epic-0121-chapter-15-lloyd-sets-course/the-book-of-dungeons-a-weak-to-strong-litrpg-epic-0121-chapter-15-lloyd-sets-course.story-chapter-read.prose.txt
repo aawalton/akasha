@@ -1,0 +1,199 @@
+Lloyd’s plan included clearing sections of the Underworks for our underground railroad. We encircled the old man while he parsed the tidal chart and plotted a course.
+
+Lloyd thumbed the chart. “The heading to take goes through a sluice emptying into this bilge tank. It’s normally filled when the seas are high, so they’ll never look for us there.”
+
+I gave up trying to read his chart, and we had no map of the place, so his instructions made no sense. “If it’s normally filled with water, how will we empty it?”
+
+“We’ll need to turn a valve near the control house. Cutting the cistern’s pressure won’t hurt a soul, although the fountains might spray hard for a while. If we turn a certain valve, we’ll be able to take the prisoners through chambers big enough to drown a whale. That’ll connect us to the exit by our flatboat. If we can arrive with the escapees before sunrise, and if the captain is true to his word, it’ll be fair sailing upriver.”
+
+I counted off the objectives. “We clear monsters, turn the valve, empty the poor house, and flee together upriver.” No one objected to the list, even though it sounded like a lot to do before sunup.
+
+Lloyd chuckled and reminisced. “Sink me! We used to turn the valve to make the fountains spray when we were kids. We called it ‘swabbing the nobles.’”
+
+I shrugged. “As long as you can lead us to the control house, it sounds like a fun trip.”
+
+“Aye. We’ll need to take the backdoor through pipes and flooded channels. But I’ve done it many times afore. We’ll need to haul wind once we turn the valve. It’ll take the hydro team time to find which valve we adjusted, but they’ll flood the bilge once they do. That won’t do well for anyone without gills.”
+
+Having finished our spiced meat meals, we stood up and got to work.
+
+Once we turned Lloyd’s valve, we couldn’t waste time clearing monsters, so we made noise to attract graywater tuskers. The old sailor avoided combat as he led us through pipes and chambers. We found only a couple of strays, but I made only negligible experience point gains with five of us fighting.
+
+We followed a declining channel onto a ledge overlooking the bilge tank. The chamber spanned the size of a high school gym and stood half-flooded with water, and the ledge we walked upon almost reached the ceiling. Water flowed into the basin below from a channel near the ceiling, and the noise made it hard to hear one another without shouting. Lit by Presence, we could only see our reflections on the surface of the rippling, dark water.
+
+Lloyd gestured to a pool below. “She isn’t our tank, but she’s like the one we’ll use to ferry the prisoners. See that spillway? It’s connected to two other bilges of the same size. Our valve diverts the floodwaters to connecting rooms. That’s how we’ll escape.”
+
+I looked for tell-tale stain of waterlines. “How high does the water go?”
+
+“All the way! The whole room will flood, Cap’n! Depending on the tide, this room will fill and drain—as sure as you please. All the bilge rooms do.”
+
+“And y’all know the pattern of how the rooms flood? That’s what the tidal chart is for?”
+
+Lloyd’s grin showed his age and enthusiasm for returning to his childhood playground. “They make charts for merchants and harbormasters, but they suit our purpose.”
+
+We dead-ended and took another fork, looking for more tuskers to eliminate. The route ascended to what our tour guide described as our bilge room. We came across a door-sized butterfly valve Lloyd said should be closed. The valve spun on an axis, like secret bookcases in old movies.
+
+“Ho! And thar’s the orifice that issues our piglets! That one should be shut tighter than a nobleman’s pocket purse. Not once have my young eyes seen it open.”
+
+I pointed to it. “This is the valve we need to close?”
+
+“Nay, sir. That’s another one. But this, too, should be sealed.”
+
+Corroded hinges prevented the aperture from closing. I tried using Magnetize, but the thing wouldn’t budge.
+
+“Sorry, Cap’n. This one is like the valve we need to close—we can’t stop her up locally. We’ll need hydraulics to muscle it.”
+
+I couldn’t keep track of all the valves. “So closing this one prevents our bilge room from flooding?”
+
+Lloyd shook his head. “No, sir! An air trap already pressurizes this area, regardless of tidal swells. Our problem is swine-related. If we bring the prisoners to our bilge room, nothing will stop tuskers from wandering into our path. He pointed upwards to show the escape route lay at a higher elevation.
+
+Fabulosa re-buffed Heavenly Favor. “Well then, let’s do a little housecleaning.”
+
+We went through the open valve and followed the pipe into a room crossed by three water troughs. Each trench disappeared beneath the walls. The first channel had a gentle current in one direction. The second trough held a more substantial flow that moved in the opposite direction, while the third sloshed gently back and forth.
+
+Lloyd looked down at the trenches. “I remember rooms like these. Treacherous waters. You’ll need Lady Fortune’s favor or a potion of water breathing.”
+
+I smacked myself on the forehead. Why hadn’t I asked for one in the magic shop? Water-breathing potions were uncommon, but the apothecary might have had ingredients.
+
+Reading my reaction, Fabulosa breathed heavily. “I assume you didn’t buy any topside.”
+
+I grimaced and shook my head.
+
+Lloyd shook his head. “The currents frequently change, sometimes in only a few minutes. She’ll switch to either strong or weak flows—or maybe stagnant. Thar’s no telling. But if fortune loves you, she’ll sweep you into another room like this. That’s how they’re connected. The chutes are just air traps.”
+
+Fabulosa consoled me. “Even if we had a potion, it would be impossible to see where it connected. You can’t open up your eyes in that.” A cloudy gray particulate clouded the water into an opaque soup.
+
+“I have an idea.” I stepped into the stagnant trench to test its depth. The channels went only waist-deep but submerged beyond the opening. Fabulosa tossed down the rope in case the current surged, and I thanked her.
+
+I tied the rope around my waist and lowered Creeper into the water-filled channel.
+
+The spear’s tip granted me infravision, and double-vision disoriented me until I closed my eyes. I concentrated on seeing down the trench. The murky channel opened into a neighboring room, maybe 20 yards away. I checked the other side, but it continued with no such opening. I checked the other channels.
+
+As I climbed out, I reported what I saw. “The second and third troughs present possibilities, each in a different direction. I’ll scout ahead. I’ll yank three times if I want you to pull me back.” Fabulosa didn’t argue, so I jumped into the trough and swam toward an opening.
+
+I drifted with the current until I surfaced in another room. I doused Presence in favor of my spear’s infravision. While the Presence didn’t interfere with my weapon’s visibility, it foiled any chance of surprise.
+
+I climbed out of the water and examined the surroundings. The space felt closet-sized, bearing a circular hatch that opened from the other side of a wall.
+
+Because the empty room lacked other exits, we knew the tuskers weren’t coming from this direction.
+
+I climbed back into the trough and yanked the rope three times. One hand carried Creeper, while the other held the line. I went against the gentle current, but it took longer for them to pull me out than expected. My chest burned from lack of air.
+
+An Asphyxiated icon and a progress bar counted down the seconds to my death. The debuff and progress bar disappeared when my companions pulled me to the surface.
+
+Gasping for breath and coughing, I told them what I saw. “There’s only a small nook in that direction. It’s a dead end.” I climbed out of the water and prepared to dive into the second trench. I moved slowly and carefully because my robe felt heavier when submerged.
+
+Standing waist-deep in the second channel, I noticed the current had increased. “This will shoot me to the next opening quickly, and it might pull the rope, so don’t reel me in unless you feel three yanks.”
+
+Lloyd handed me some coils of rope. “Hold some line so you don’t get tangled up.”
+
+Taking the advice, I held the coils with my free hand. I took a deep breath, grabbed Creeper, and dove into the tunnel. Drifting through the channel, I dodged irregular projections along the side of the aqueduct. They looked metallic, so I took care not to get snagged. Though I passed them safely, the swaying loops of my lifeline weren’t so deft. Two coils got tangled around it.
+
+My peaceful movement stopped as the line jerked me to a stop, and I could hear a bubbly whooshing sound as the water moved across me. I twisted as I hung on to the rope and jerked it three times, but with the line caught, my friends couldn’t pull me free—even if they felt the tugs.
+
+I pulled myself toward the snag, only to get my robe caught on another projection. The only way to free my robe involved cutting myself from the line, and I wasn’t ready to make that move.
+
+The current increased. As the water tossed me about, Creeper careened off the sides of the chute, and since my vision came from its spear tip, my senses whirled. I couldn’t tell up from down, and I needed air. Luckily, I could cast some spells while underwater. I opened my potential spells interface to find a way out of this water trap.
+
+Available Spells
+
+Tier 1
+
+Acid Splash, Arcane Missile, Bless, Dim, Faerie Flames, Featherfall, Ice Bolt, Just Strike, Light, Lightning Bolt, Purify Water, Scry, Summon Swarm, Tangling Roots, Vegetable Empathy
+
+Tier 2
+
+Detect Illusion, Fireball
+
+Tier 3
+
+Dig
+
+Tier 4
+
+Move Object, Rally
+
+Power Points
+
+1
+
+The only spells to become recently available included Arcane Missile and a channel spell called Primal Blast, which seemed useless for combat unless you had an ally that prevented interruption.
+
+My constant casts of Animal Communion with Beaker had ranked up my nature magic. At 18, the spell Dig appeared, which gave casters the ability to burrow into loose soil. We might have used it for the motte and bailey, but I couldn’t see any use in the Underworks.
+
+Power (spell)
+
+Arcane Missile (tier 1)
+
+Prerequisites
+
+Compression Sphere, Arcane magic rank 22
+
+Cost
+
+25 mana
+
+Cooldown
+
+3 minutes
+
+Cast time
+
+instant
+
+Description
+
+Caster unerringly strikes target with 2 points of force damage per rank in arcane magic.
+
+Arcane Missile directed damage unerringly at targets with force damage. This spell worked underwater and against incorporeal creatures like ghosts. Aside from its long cooldown, it looked more flexible than primal spells. It unlocked when my arcane magic rank reached 22. My Pearl of Power increased my arcane casting by 10 ranks, so I could instantly cause over 64 points of damage without fail. Arcane Missile looked like the definition of reliable damage, but it wouldn’t save me from drowning.
+
+I gave Move Object another read. It featured another utility I wanted to play with for a while. It promised to be one of the few spells I’d enjoy spamming to rank up my arcane magic.
+
+Power (spell)
+
+Move Object (tier 4)
+
+Prerequisites
+
+Arcane magic rank 15, Magnetize
+
+Cost
+
+15 mana
+
+Cooldown
+
+1 hour
+
+Cast time
+
+5 seconds
+
+Description
+
+Caster may move an object without touching it. For every rank in arcane magic caster may move 1 ounce, for 1 second, at a range of 1 foot. Taking damage ends the spell.
+
+The problem with Move Object involved its stingy limitations. With my arcane spellcasting rank of 32, its range extended only to 8 yards, and I could only move something barely weighing more than a pound and a half for half a minute. It wasn’t practical in combat. Its 5-second cast allowed creatures in melee range to interrupt and delay its cast. I could show off whenever someone asked me to pass the salt, but I couldn’t see how it could be helpful otherwise, and certainly not in this situation.
+
+None of my spells would save me. I’d ranked up my combat skills, but none of the unlocked abilities suited my plight. I looked through my inventory and found nothing. Compression Sphere and Slipstream didn’t work underwater.
+
+A new debuff appeared.
+
+Debuff
+
+Asphyxiation
+
+-1 stamina
+
+Duration
+
+Until you can breathe
+
+Equipping and activating my new Wall of Wind did nothing besides prompting a message that its pushback ability didn’t function in liquid.
+
+I resigned myself to cutting the rope and drifting toward the opening untethered to my team. This became problematic in many ways. Even if I could find a safe exit, I would not be able to reach the others until the current reversed.
+
+The Asphyxiation debuff stacked eight times, cutting me by 80 health. How had it jumped so quickly? With my chest burning for air, I let go of the line and unsnagged my robe.
+
+I reached for the line, but the current moved it away from my grasp.
+
+I drifted free into the darkness.

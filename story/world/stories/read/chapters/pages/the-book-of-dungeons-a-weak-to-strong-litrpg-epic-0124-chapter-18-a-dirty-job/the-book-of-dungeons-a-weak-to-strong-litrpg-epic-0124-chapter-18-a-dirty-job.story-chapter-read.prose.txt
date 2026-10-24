@@ -1,0 +1,121 @@
+Low-hanging stalactites of ossified filth blocked our shots, rendering our arrows useless.
+
+The flesh hanging from Fatberg’s arms shook as he raised them, and both sows moved. The gesture looked so intimidating I moved to Counterspell it, but my combat log reminded me that the grotesque trio stood outside of spell range. At least we knew the name of his spell—Bloat.
+
+Bloat inflated each sow into an 8-foot sphere. Their misplaced hooves and metallic teats pointed like irregular spikes. The bowl-shaped floor made sense now. If we dropped into the pit, we’d commit ourselves to an encounter of dodging rolling sows in the ring-shaped bowl.
+
+Fatberg picked up a pair of bullwhips from under his beltline.
+
+The monsters offered only a yellow threat to our group, so their preparations hadn’t deterred us. I also spied a crevice in the bowl, an alcove that looked deep enough to retreat into if things didn’t go in our favor.
+
+Fabulosa pointed out the nook to everyone. “If Fatberg’s whip is too much to handle, just drop into that crack. It looks like the sows will roll right over us.” Everyone nodded in agreement.
+
+“Father, you stay up here, out of spell range. We’ll take care of this filth.”
+
+Lloyd waved a hand to show he had no intention of jumping into the bowl. “I’ll heave to. It’s a bit too strange for me, and these legs aren’t what they used to be.”
+
+I had a hard time believing that last statement. Lloyd moved as spryly as anyone.
+
+After everyone affirmed their readiness, we slid down the embankment and ran toward Fatberg. His whips would be useless in close quarters.
+
+The rolling hogs were easy to avoid, but paying attention to them opened me up to whip strikes. Anyone focusing on Fatberg attracted the rolling sows, which smashed into us for a hefty 60 damage, an amount of damage so great that Bernard and Blane proved to be liabilities. Neither reliably dodged the sows, and healing them drained our resources.
+
+We ran in different directions and attacked when an opportunity presented itself. Over the tumult, I heard Fletcher’s voice. “The big pig is regenerating!”
+
+Whenever we cut into Fatberg, a splattering of the sewer blockage flew across the room and covered him like a bandage, and he’d heal for a small percentage of the damage. This wasn’t a way to take down a monster with over 1300 health.
+
+When everyone neared 50 percent health, Fabulosa called back to me. “This isn’t working!”
+
+She wasn’t wrong.
+
+Fatberg’s kicks did minor damage, but he pushed us off his island and into the sows’ path. Dodging them occupied us more than fighting. I often had to retreat from Fatberg before making a single attack. Even with our double-damage buff for fighting in Arlington, our damage-per-second pace wasn’t enough to wear him down. My trident dried out, making our output even worse.
+
+Fabulosa yelled to everyone in the group. “New plan! Stay between Fatberg’s kick and whip range. Focus on the sows—pierce and slash them as they pass.”
+
+We followed her lead. It seemed a reasonable tactic, but we couldn’t use piercing weapons without getting rolled over, and they resisted slashing and bludgeoning damage.
+
+In movies, the heroes often impaled overwhelming opponents on something, using their size against them. I planted the butt of my trident to let the sows impale themselves, but it dislodged free every time the pork balls struck. The crust on the ground broke apart and slipped.
+
+It seemed ridiculous that we couldn’t damage opponents in what the game deemed a yellow encounter.
+
+I looked at our half-spent mana and decided we needed time to think. We’d run out of mana before killing anything. I shouted loud enough for everyone to hear. “Into the crack! We need to regroup.”
+
+Everyone scrambled into the alcove. As far as the game cared, we remained in combat and couldn’t Rest and Mend. But the hollow protected us from Fatberg’s whips and both sows.
+
+After we ducked into the crevice, Fatberg’s whips began cracking at a faster pace. The noise alarmed me, but he couldn’t reach us, so I assumed he struck his companions in frustration.
+
+The reason for the sounds became clear when the compound caked on the ceiling fell onto us. We’d walked straight into a trap.
+
+The accumulated chunks crushed us in an avalanche of foulness. Fatberg designed it to immobilize us, not kill us. The filth weighed as heavy as gravel, and the choking stench suffocated us.
+
+“Don’t Slipstream back out there. You won’t last a minute.” I could barely hear myself, so I doubted Fabulosa could hear me.
+
+Being crushed to death under fossilized sewage wasn’t how I wanted to leave The Book of Dungeons. I opened up my interface and froze the world.
+
+I looked at my spells and abilities. All of my tricks depended on avoiding grapples and getting entangled, not getting out of them. We had enough favor points to give Hot Air to only one citizen, so we couldn’t quickly escape into the hole in the ceiling where Lloyd waited. And it seemed doubtful we could break free from this debris.
+
+I looked at my available spells. Dig seemed the perfect mechanic for getting out of this putrid grave, but I still had no answer for this battle.
+
+I closed my interface, and the smothering filth overwhelmed me. Without another thought, I spent my remaining power point on Dig and cast it. A foot-wide targeting reticule appeared in my vision, and I directed it to excavate the matter away from my face, relieving me from the retch-inducing foulness. More debris filled the hollow, but I vaporized it faster than it fell, carving out a larger cavity. I directed the reticule to remove matter from my companions’ faces.
+
+As I vacuumed up the soil, a progress bar appeared in my interface, showing me the extent of how much matter I could excavate before the spell ended. With a nature rank of 19, I could hold about three closets’ worth of material—enough to free my friends.
+
+By the time I freed us, the spell’s inventory had climbed to 75 percent full of dirt. I experimented to see if I could suck up less than a foot-wide amount and found that I could. I could make smaller holes.
+
+No one’s health bars dropped from the collapse, but we’d all received debuffs.
+
+Debuff
+
+Unbelievable Stench
+
+-8 willpower, -22 influence, -15 percent chance to hit
+
+Duration
+
+48 hours after a bath
+
+The duration wasn’t encouraging. Would a dunk in a water channel constitute a bath? None of us wanted to smell like this for two days.
+
+“What junk weapons do you have?”
+
+Fabulosa retched between breaths. “What? You mean like the goblin stuff?”
+
+“And the little kobold daggers, too. I bought Dig. It lets me excavate.”
+
+“I figured that much. What does that have to do with weapons?”
+
+“It lets me Dig small holes. We can plant all the worthless weapons we’ve accumulated as spikes.”
+
+Realization dawned on her face. “Good thinking. We can use this crusty ground against them.”
+
+I crawled past her into the nook and looked into the room. The sows showed no sign of stopping their momentum as they circled the bowl.
+
+The Sewer Sovereign didn’t look happy that we’d escaped his trap. He lashed his whips, but they harmlessly snapped the air above our alcove.
+
+Fabulosa pulled out goblin spears, daggers, and short swords, and I reduced the size of my Dig reticule and carved out dozens of holes deep enough to hold them.
+
+After distributing weapons, we called out in which direction we’d run. We wanted to cover as much of the skatepark as possible so the sows couldn’t avoid the spikes.
+
+Fabulosa and I Slipstreamed to the farthest side of the bowl and planted our weapons into the holes. The first sow rolled through a field of daggers and short swords. Each weapon counted as piercing damage, deflating them while their health bar plummeted. When one sow stopped rolling, Fletcher and the dwarves pounced with spears. Fabulosa drew the second sow toward a cluster of weapons that immobilized her. I joined the assault with Creeper.
+
+Fatberg bellowed with rage as we brought his mates to zero health. Our collective heals mitigated the damage from his whips, and we withstood the brunt of his assault.
+
+I gave the boss hog a dose of his own medicine by reversing Dig flow. Emptying my spell’s inventory issued an unimaginably foul dust cloud on him. Instead of burying him in filth, the powder healed Fatberg up to full.
+
+Fletcher mistook what I’d done for a new monster ability. “He has a stink cloud attack! And it’s healing him!”
+
+I deflected suspicions away from me. “Burn the sows down before his cooldown refreshes!”
+
+The sows deflated as they lost health, adding flatulence to the room’s potpourri of stink.
+
+Staggering away from the bodies, I swooned from nausea.
+
+After finishing the sows, we converged on Fatberg. He dropped his whips and threw punches with his flabby arms, but his ineffectual melee skills barely warded off our attacks. It wasn’t pretty, but we brought him down to zero. No one bothered with proper or optimized forms—we simply hacked away his health pool. The Sewer Sovereign’s anticlimactic demise finished the disgusting encounter.
+
+I wasted no time grabbing his green core. The putrid stench made me want to forgo searching his corpse, but I opened his gizzard anyway.
+
+Inside, he had an array of +1 and +2 damage weapons. Though welcome additions to our town’s arsenal, none of the items had stats. I collected them into the void bag and backed away from the corpse. I hoped the half-life of his odor wouldn’t last beyond the debuff’s duration.
+
+The room offered no exits, so Lloyd dropped a line to us. Fabulosa and I Slipstreamed up to him, and we held the line while the dwarves and Fletcher climbed up. We fled the area.
+
+Lloyd moved to the front of the group. “If’n ye don’t mind, Cap’n, I’ll lead the way. I’d rather risk my neck than tow behind. Your wake is riper than a fishmonger on the arse-end of Marketday.”

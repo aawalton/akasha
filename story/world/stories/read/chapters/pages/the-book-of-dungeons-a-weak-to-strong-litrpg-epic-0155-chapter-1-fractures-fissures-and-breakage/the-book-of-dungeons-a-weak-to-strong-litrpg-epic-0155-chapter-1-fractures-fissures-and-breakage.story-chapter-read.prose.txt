@@ -1,0 +1,149 @@
+You’re captives of a civilizational system that more or less compels you to go on destroying the world in order to live.
+
+— Daniel Quinn,
+
+From Ishmael: An Adventure of the Mind and Spirit
+
+I’d seen all kinds of challenges in my gaming experience. Fantasy worlds had endangered me many times, but I’d never imperiled one itself. Perhaps that’s why I ignored the mental itch telling me something felt wrong in Miros. Having avenged Charitybelle and destroyed the relic, I expected to be at peace when I awoke. However, the uneasy feeling that I’d forgotten something awaited me on the shoreline of consciousness.
+
+Fabulosa’s whisper awoke me. “Patch, psst! Wake up. We got company.”
+
+I opened my eyes and saw Fabulosa cinch her belt around her waist. She wore her surcoat and lacy fittings that poked out of her armor, a palette of bright greens with purple accents. Wherever she headed, camouflage wasn’t essential. And since we were in the Dark Room, whispering wasn’t necessary. I decided against pointing it out before she shimmied down the rope. She moved with purpose but wasn’t in a hurry, so it seemed like I had a chance to don my equipment before following her.
+
+I checked my available spells, a habit that had fallen out of practice after my skill ranks came less frequently. The description of my most recently unlocked power left my socks on.
+
+Power (spell)
+
+Primal Blast (tier 1)
+
+Prerequisites
+
+Compression Sphere, Primal magic rank 21
+
+Cost
+
+40 mana
+
+Cooldown
+
+Once per day
+
+Cast time
+
+Channel
+
+Description
+
+Delivers a 30-degree arc of damage for 1 point per second for every second spent channeling in combat to a maximum of ten times spellcaster’s willpower. Concentration must be maintained to sustain the effect.
+
+If someone could avoid attacks for 10 minutes, they could spray 600 area-of-effect damage. Its terrible cast time required a wall of defenders to pull it off, and wouldn’t such an ensemble suffer its effects? But in that ten minutes, other spells and ranged attacks could do far more damage with even low-level spells. Primal Blast produced only 1 point of damage per second—a terrible output. Second, spells unpaired with melee attacks couldn’t critically hit, so it offered minimal upside. Worse, the spell didn’t scale as the caster ranked up their primal magic.
+
+I liked very little about Primal Blast, so I dismissed it without further thought. Still, area-of-effect spells had their place. Fabulosa had a high primal magic rank—perhaps she knew how to use it.
+
+When I exited my bunk, my legs protested from being sore from the overnight march to the dungeon. Keeping up with the gnoll pack took its toll, and the subsequent fighting hadn’t helped.
+
+Putting on armor in the proper sequence felt like a jigsaw puzzle. I wasn’t accustomed to being disoriented upon waking. My interface clock revealed we’d only slept for six hours—two short of resetting daily cooldowns and ridding myself of Exhaustion debuffs. Fabulosa wouldn’t have broken our rest if it wasn’t serious, so I hurried. Ignoring my restlessness and subconscious itch, I got up to see what bothered her.
+
+When I reached for my mithril vest, I fumbled it onto the Dark Room floor with a clatter. Fabulosa, in the relic room below, spared no glances at the noise. Visibility, sounds, and spells didn’t carry outside the transdimensional space—as far as I knew, neither did odor.
+
+Fabulosa left before I could ask why. She wasn’t waiting for me, so I surmised a danger below awaited. But she didn’t carry herself in a fighting position. Whatever caught her attention wasn’t combative.
+
+My event log reported the recent death of several kobolds. Two died of old age from the aging field, and three fell from Fabulosa’s arrows.
+
+I joined my partner in the pearlescent crypt at the bottom of the mysterious dungeon. The room still felt like the inside of a seashell, although extensive cracks now covered its floor.
+
+Destroying the relic with a rune had created an earthquake whose effects I could see now with greater clarity. A fine white powder covered the floor, but at least none of it lingered in the air. The room’s integrity seemed solid. The sea creatures who built it knew their engineering. I just hoped the lizardfolk temple above it remained intact.
+
+Powder from the quake covered everything except five dead kobolds.
+
+Fabulosa ignored the corpses and eyed a wide fissure in the floor.
+
+I walked to her. “Oh, yeah. I forgot to tell you about that. It opened when I destroyed the relic. The earth shook, and the ground cracked. That’s how the kobolds got in.”
+
+Although Winterbyte’s ring of lanterns illuminated the space, the glow stones on Fabulosa’s armor shifted the room’s shadows whenever she moved.
+
+I picked up weird vibes from her. “What’s up?”
+
+Fabulosa shook her head and did not meet my gaze. “I heard kobolds poking around. After two died in the aging field, they freaked out, so I shot them before they blew their whistles.”
+
+“Do you want to check out the fissure?”
+
+Fabulosa answered without apology, conviction, or energy. “My daily cooldowns didn’t reset, and I’m not in the mood for tight spaces. I want to go home, decompress, and get my bearings.”
+
+Even though our cooldowns hadn’t reset, we could collapse this tunnel with Dig and Compression Spheres. If the kobolds saw the relic gone, they might panic and send out scouts. I didn’t understand kobold motives or politics, but if anything led to our settlement’s discovery, it would become Pandora’s box, one we’d never be able to close.
+
+The kobolds carried no weapons, wore ragged leathers, and had whistles looped around their necks. But the bands of leather around their arms glowed with magic.
+
+Item
+
+Cuffs of Obedience
+
+Rarity
+
+Basic (gray)
+
+Description
+
+Level 5 wrist slot
+
+It seemed strange that a gray item radiated magic. Nor did it make sense that an item with a specific name gave no description. Kobolds had a reputation for subjugating one another, and gnolls enslaved them, so finding them wasn’t altogether surprising. Hard leather gave the bracelets a sturdy feel, but any rat worth their weight in sodium could gnaw through them. Perhaps they wore them voluntarily or held a social significance.
+
+I pulled off the cuffs and the whistles. Maybe the dwarves knew more.
+
+The bow Fabulosa carried gave her +5 damage. Coupled with her natural strength bonus, she could almost one-shot kobolds. I appreciated her quick trigger finger. With all the drums and whistle-blowing during our overnight trek, we didn’t want to call any more attention to ourselves.
+
+The wounds on the kobolds looked strange. “How did you kill these guys? Are these arrow wounds?”
+
+“I used the Returning Arrow. I retrieved it from Winterbyte’s things.” Fabulosa tossed the sack containing Winterbyte’s belongings at my feet.
+
+Pilfering the celestial core from the relic preoccupied my thoughts so much I’d forgotten to comb through Winterbyte’s other goodies. New magic items might come in handy if I could convince her to explore the fissure.
+
+I spotted a tiny crossbow without a string. It measured almost half a foot long and looked appropriate for cherubs in an 18th-century painting. “Here’s a cute little item.”
+
+Item
+
+Light Crossbow
+
+Rarity
+
+Rare (yellow)
+
+Description
+
+Level 30 wrist slotItem use—Every 30 seconds, Light Crossbow creates an imbued Arcane Missile 5 ranks higher than caster’s arcane magic rank.
+
+The name’s double meaning hadn’t escaped me, and its draw from arcane magic intrigued me. I adjusted its straps around my forearm. The miniature device felt like an oversized watch. It looked silly, but the coolness of shooting glowing Arcane Missiles for free damage outweighed anything else. It only required a mental trigger, and I could carry another weapon while using it.
+
+After targeting a corpse, a glowing bolt appeared in the flight groove.
+
+The gadget did not impress Fabulosa. Unable to use arcane magic, she preferred the meat-and-potatoes approach of primal damage and combat mechanics.
+
+“Do you mind if I take this? It’s perfect for me.”
+
+Fabulosa shrugged and looked away.
+
+I didn’t understand the grouchy behavior. Usually, we congratulated each other when we got a new weapon. She’d become quite the archery snob since Yula taught her hunting skills, so perhaps the easy use of the item offended her. She now carried the gnoll’s strength bow, the bow Yula taught her to make, and my Divine Bow.
+
+Perhaps Fabulosa missed Hawkhurst, something I would have never thought possible, given how much time she spent with Yula in the wilderness. Either way, it wasn’t an opportune time to ask for my Divine Bow back. Besides, I didn’t need its intelligence boost with the relic gone. Maybe she could use it to track monsters on patrol.
+
+It puzzled me to see Fabulosa incurious about a dungeon. Where was her gamer’s pride or sense of adventure?
+
+Creeper’s infravision helped me peer into the fissure—which ran deep enough to invite a climb down. “I want to see if this crack has something we need to worry about. We can collapse it and go home if it’s not worth exploring.” Instead of waiting for more noncommittal grunts, I climbed down without waiting for an opinion. If Fabulosa didn’t want to follow, that was her call.
+
+I lowered myself into the fissure. Creeper’s infravision worked better for navigation because kobolds were sensitive to bright light sources like Presence. Moving and seeing things from the tip of my spear disoriented me, and the fine white dust made surfaces slippery, so I climbed down with care. Silence reigned in the crevasse, so I could hear Fabulosa following behind. Having a partner nearby encouraged me to descend further.
+
+The space tightened as we climbed, but it opened into a hollowed-out tunnel. I dropped into it. The curved corridor looked like something dug it out long ago because its earthen surfaces felt dry. The hallway looked like the work of kobolds, and I crawled on my hands and knees. Fabulosa wouldn’t like the narrow space, but I pressed on.
+
+“I’m going to see where this goes.” Making sure Fabulosa wasn’t too far behind, I followed the curved tunnel until I reached a window overlooking another room. Poking my spear into it revealed a deep cavity wider than a grain silo.
+
+When I spotted Fabulosa’s glow stones drawing near, I withdrew Creeper and let my pupils adjust to the light.
+
+I studied the space beyond the window. At first, I mistook the window frames for heavy logs, but kobolds had hewed them from thick roots. The rootwork formed a spiral lattice supporting the chamber’s walls. The buttressing reached the silo’s floor and framed cubbyholes between each rib. Small bunks filled the hollows enough for at least a hundred kobolds. Toddler-sized artifacts and unkempt leathers littered the sleeping cavities.
+
+Dim candles illuminated the floor almost a hundred feet down. Kobolds needed a little light to see. Who knew?
+
+The settlement manager in me envied the accommodations. We’d needed at least half a dozen roundhouses to match this. How many kobolds lived under the mountain if their dormitories held so many?
+
+I leaned into the window to see if the game’s interface counted the kobold city as a foreign settlement. It did, which meant our double-damage Aggression bonus kicked in. Underground, the interface map didn’t appear, but it labeled the location—Upper Northeast Panopticon. Piecing together pan and optic suggested the room’s primary function involved seeing everything, but it begged the question—why?
+
+A raised platform jutted from the floor’s center like a watchtower. It didn’t look like a prison, as no bars covered the cubbyholes, but the location’s name, Panopticon, suggested someone monitored its tenants. I couldn’t piece together why anyone would want to watch a bunch of mangy kobolds in their home territory, but there it was.

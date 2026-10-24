@@ -1,0 +1,177 @@
+While we climbed down the rope to the temple’s lower section, we listened to Odum’s ongoing infomercial without interruption. It drove us crazy.
+
+“Observe the unity of Odum, blessed be His name.Stroll through His hallowed shrine.With every step, meditate upon His wisdom.Supplicate in the shadow of His manifestation,And shackle your fate to His holy will.”
+
+We rebuffed and readied our equipment. When we reached the floor, the statue didn’t move, so we approached it and inspected it.
+
+The bovine face on the animal’s belly disgusted me, even by blemmy standards. Its tongue hung as if sick, and its crossed and misaligned eyes came to different sizes. The effort to secure its harnessing seemed extraneous and cruel. Instead of strapping, someone attached its saddle with thick iron rings that punctured its hide. More rings pierced the animal’s nose, lips, eyebrows, and cheeks.
+
+The face of the blemmy on top of the mount wasn’t regal or divine. Odum’s features looked just as ugly and dull as the creatures outside the temple. He wasn’t as muscular as the other blemmies and didn’t appear appreciably fit. Instead of muscles broadening his girth, a thick potbelly rounded out his chin. With such skinny legs, it made sense that he sat on a mount.
+
+The only thing special about this statue involved its weapon. Odum held a heavy flail attached to a chain.
+
+Of course, Odum wielded a flail. Flails were worse weapons than tridents. The weapon’s stupidity made it impossible for me to respect anyone carrying one. Flails looked impressive but embodied the worst of weapon design. Flails appeared in movies and computer games because chains and spiked balls looked intimidating, and special effects animators never allowed them to get tangled or caught onto things.
+
+In reality, a flail would accomplish only that. The swinging weight kept its wielder off-balance and prevented quick counter jabs. Their chains made them the absolute slowest weapons, and if you hit anyone in armor, it would assuredly catch onto something, rendering its wielder open to counterattacks. Flails produced one-hit wonders at best—anyone scoring a strike would need to release the weapon.
+
+But the flail’s purpose wasn’t to extend Odum’s reach from atop his headless horse. Encircling the statue revealed scars on the mount’s backside. Odum used the flail on his steed, giving me another reason to disrespect him. The bliss of Odum’s servitude didn’t quite reflect the advertised description.
+
+Fabulosa picked up the mallet by the gong. “Are you ready to hush this guy up for good?”
+
+I’d wetted my trident and loaded an Imbued Weapon charge into it. After waiting for my mana pool to reach full, I nodded to show my readiness.
+
+Fabulosa struck the gong, but the green marble statue didn’t move. She hit the gong again, and the statue’s colors darkened but remained motionless. She hammered the gong several times with the mallet, and the mount and rider’s smooth surfaces softened as if the gong’s vibrations transformed its essence.
+
+The mount’s weight shifted, and Odum’s voice stopped reverberating in my mind. The absence of his chant felt like a sugar rush. Silence, wonderful silence!
+
+Fabulosa relaxed her posture.
+
+As we recovered from Odum’s filibuster, nameplates appeared over the statues.
+
+The moment they appeared, I impaled my trident into the mount’s haunches, hoping the game would recognize it as a backstab.
+
+It did not.
+
+/You hit Grinion Mammoth for 53 damage (9 resisted)./Grinion Mammoth kicks you for 101 damage (4 resisted).
+
+My attack proved successful but produced no critical hit. It seemed a shame because I’d stacked so much extra damage from Imbued Weapon.
+
+The beast responded. Its elephantine rear hoof kicked me so hard I flew backward and skidded across the floor. The impact disarmed me. With my health pool at 320, the 101 damage wasn’t enough to trigger Anticipate automatically. It looked as if backstabbing the four-legged beast wasn’t a smart tactic.
+
+Fabulosa Discharged an electrical attack with her Phantom Blade on the creature’s opposite end. She didn’t critically hit either, so her damage amounted to less than mine, but its front legs only retaliated 21 damage, which seemed a manageable exchange.
+
+We weren’t ready for Odum’s opener. The giant blemmy yanked on its reins, which caused the mammoth to bellow in pain and rear backward. The face on the beast’s exposed belly vomited a pool of glowing green flames, some of which hit Fabulosa.
+
+/Fabulosa hits Grinion Mammoth with Discharge for 41 damage (11 resisted)./Grinion Mammoth kicks Fabulosa for 21 damage (6 resisted). /Grinion Mammoth spews Spectral Flames. /Spectral flames hits Fabulosa for 14 damage (29 resisted).
+
+With everything happening, I slowed things down by opening my combat interface. Fabulosa resisted 29 damage from her charm against primal energy.
+
+After closing my interface, I rolled onto my feet and equipped my spear. It wasn’t worth pulling out my Wall of Wind. I couldn’t push around a target this big, and I could cause more damage with two hands. I cast an 80-point Restore on myself and ran around the pool of green flames. As I repositioned, I inspected our enemy’s nameplates.
+
+Name
+
+Grinion Mammoth
+
+Level
+
+38
+
+Difficulty
+
+Dangerous (orange)
+
+Health
+
+3,239/3,350
+
+I couldn’t believe this behemoth had ten times my health.
+
+The game’s threat level rated this encounter as dangerous, and that wasn’t good. It meant we’d need some outside help or exploits to survive. And it didn’t bolster my confidence knowing Odum had driven us into his lair.
+
+I regarded the nameplate above the rider.
+
+Name
+
+Odum the Ascended
+
+Level
+
+24
+
+Difficulty
+
+Dangerous (orange)
+
+Health
+
+1750/1750
+
+Odum sat only one level higher than us. The trick to this fight involved defeating his mammoth—if we could figure out how to take out his ride, we might survive this.
+
+Odum’s chest-mouth opened, and he spoke to us in a voice sounding nothing like his celestial chant. His lisp was wet and sloppy as if numbed by novocaine.
+
+“Cease this outrage, foolish mortals! Dare you challenge Me?Even killing you is a waste of My time. There is no purpose in offending He who holds the stars in His hand.I’ll make you sorry for injuring my mammoth!”
+
+The giant blemmy emphasized his point by slapping the animal’s hindquarters with his flail, causing the fire-spewing beast to bellow and spew more green flames.
+
+By the time I ran around the spread of green fire, I came close enough to Rejuvenate Fabulosa.
+
+Odum yanked on his mount’s harness again. It reared up and regurgitated another splash of liquid fire.
+
+/Grinion Mammoth kicks Fabulosa for 19 damage (6 resisted). /Grinion Mammoth spews spectral flames. /Spectral Flames hit Fabulosa for 12 damage (30 resisted)./Spectral Flames hit Fabulosa for 13 damage (28 resisted)./Spectral Flames hit you for 44 damage (7 resisted).
+
+I opened my interface to freeze time again and gave myself a second to think this one through. A Spectral Flames debuff hit Fabulosa twice, which meant the flaming green vomit stacked. The pool of flaming sickness spilled across the floor enough that we needed to wade through it to reach melee range. Standing in a stacking debuff wasn’t an option. I’d lost 20 percent of my health, and we’d barely dented the monster.
+
+I stood outside the radius of Fabulosa’s protection charm against primary magic, so I took nearly full damage from the fire. If I stayed closer, I’d share damage from the monster’s kicking feet. I certainly didn’t have the mana to sustain ranged spells.
+
+I pulled out a bow and arrow, reasoning I could alternately shoot Odum’s mount with arrows until I needed to heal my partner.
+
+I backed up and shot Odum, but the blemmy had an Avoid Ammo effect that ricocheted the missile away from my target. Odum’s mana pool seemed so great I didn’t bother trying to wear him down. I gave up on ranged attacks.
+
+Fabulosa backed away, and I did the same. She could barely reach the mammoth with her sword. She yelled something, but I couldn’t hear her words.
+
+“What?” I shouted and shook my head to show her I couldn’t understand. Odum’s droning insults and threats complicated my hearing.
+
+“I said to keep me healed!”
+
+I didn’t understand—she already had two sets of golden Rejuvenate healing her. In contrast, I dropped by 110 health. She had lost only half of that. Fabulosa backed away, drawing the monster toward her. The maneuver seemed useless. The beast quickly closed the gap between them.
+
+That’s when I saw her pull out something from her inventory. She held the headpiece of the candelabra without the candles. She waited for the mammoth to rear, then slid the spiked candelabra beneath its feet.
+
+Over the struggle of combat, Fabulosa shouted to me. “When I saw Odum’s mount, I thought we’d be bullfighting, dodging charges and whatnot. That’s why I grabbed the candelabras.”
+
+The mammoth roared with pain as its foot impaled her improvised caltrop.
+
+Odum whipped its haunches when the beast slowed. The flail bit into the beast’s backside, causing it to limp forward.
+
+Fabulosa placed another candelabra beneath its other foot. When it landed on the wrought-iron spikes, it again bellowed in anguish.
+
+Odum was having none of it. He pulled his spiked flail from the monster’s rear and whaled on it again, causing about 20 points of damage with each strike. So, too, the caltrops drained the mammoth’s health—between 7 and 14 damage per step. No amount of Odum’s spikey punishments increased the poor creature’s pace.
+
+Fabulosa avoided stacking the green vomit fire by constantly moving. Step by step, she maneuvered the creature across the floor in a lawn-mower pattern that maximized our space. When she hit a wall, she drew it in another direction.
+
+As the monsters moved, the snail-like trail of green flames followed. We needed to kill the creature before running out of space because the green flames weren’t burning out.
+
+Fabulosa drew the pair across the length of the pit and back, doing her best to avoid painting us into a corner. She cast Ignite Weapon on her sword and began tapping the behemoth with damage-over-time fires. Of course, DOTs provided perfect solutions for long fights. In his saddle, Odum sat out of range of hitting anyone except his mount—which he did out of frustration.
+
+Because she avoided the stacking flame damage, I could keep her alive with Restores and Rejuvenates. I drank a mana potion to keep up with the constant trickle of kicks, but it wasn’t enough. By the time the creature dropped to half health, I’d emptied my mana pool.
+
+Fabulosa’s mana also waned, but she needed to maintain her Ignite Weapon. I spent a point on a tier 2 ability called Refresh Mana.
+
+Power (ability)
+
+Refresh Mana (tier 2)
+
+Prerequisites
+
+Mana Shield, Arcane magic rank 15
+
+Cooldown
+
+Once per day
+
+Cast time
+
+Channel
+
+Description
+
+Caster channels to replenish two mana per second. Concentration must be maintained to sustain the effect.
+
+Refresh Mana technically wasn’t a spell. As an ability, it didn’t cost mana to activate. I needed entire minutes of uninterrupted channeling to regain my mana pool. Since I had 320 mana, replenishing my mana pool would take over two minutes, an unreasonable duration in combat.
+
+If I had to be honest, I hated this ability, and part of me resented wasting a power point on it. Channeling meant I couldn’t even use it to empower my runes. Its situational utility made it inapplicable on most combat occasions, even if this encounter counted as an exception.
+
+I dumped the rest of my mana into topping off Fabulosa’s health. She lost a dozen health every ten seconds. Without Rejuvenate’s heal-over-time effects, she would have fallen to zero.
+
+As we fought, Odum prattled about the folly of resisting his powers.
+
+I shouted over his self-aggrandizing spam. “Fab, I’m going to channel for mana for two and a half minutes. Avoid taking damage if you can.”
+
+My partner nodded without glancing at me. Her eyes focused on the mammoth.
+
+I dashed to an empty corner, cast Refresh Mana, and channeled back my energy.
+
+Fabulosa led the behemoth around the pit. By the time she nearly ran out of health and mana, I replenished my mana pool, and the flaming sickness covered a third of the floor space.
+
+The mammoth’s health fell by only 30 percent. Even fully refreshed, this fight would be very close.

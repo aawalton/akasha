@@ -1,0 +1,203 @@
+I recognized none of their nameplates from Tully’s Bar. Perhaps they served as recruits or members from another city or the gnoll homeland.
+
+Of the gnolls rushing at us, I’d already picked out my target, the largest warrior in the pack. His coat had dark stripes instead of white spots. The leader might not have realized his healers had emptied their mana, so I expected it to Charge. I guessed correctly. Two minutes inside the Wall of Thorns hadn’t endeared him to us. Their alpha warrior lunged without fear.
+
+Name
+
+Rotgut, Gang of Three Enforcer
+
+Level
+
+18
+
+Difficulty
+
+Challenging (yellow)
+
+Health
+
+485/630
+
+Rotgut showed his commitment to their cause. We needed to put him down fast before he could rally the panicked healers. He likely led the pack.
+
+“Focus-fire! Pour it, Fab!” We exchanged blows with the beast. When the other warrior started attacking me, I blocked the damage as well as I could. Rotgut’s initiative emboldened the last two healers, and they attacked alongside the second warrior.
+
+Against multiple opponents, our training faltered, and we took on damage.
+
+I switched my efforts to block incoming attacks when my health dropped below 20 percent—ribbons of Rejuvenate worked against the falling numbers. Fabulosa’s Restore landed on me in the nick of time.
+
+Rotgut barked when his health dropped to a quarter.
+
+When the healer’s whines answered, I recognized the conversation. Rotgut wasn’t accustomed to out-of-mana healers. Sorry, pal, you should always check your teammate’s mana before leaping into melee.
+
+I broke off my engagement with him to stave off the incoming attacks from the remaining three gnolls. It had cost me terribly and forced me to consume a healing potion, but I held them at bay while Fabulosa finished their leader.
+
+When Rotgut dropped, both healers dropped back and scrambled up the rope, condemning one warrior in need of their support to Bleed to death. He collapsed on the ground while the Tangling Roots withered away.
+
+Though wounded, I threw a Restore on Fabulosa and backed away from the incoming gnolls. At least she looked formidable. She tossed a Fireball onto the remaining five gnolls to establish the new alpha. Rooter, their remaining leader, stood among them.
+
+The Fireball left one gnoll with under 100 health. It broke with its others and followed the healers up the line, ignoring Rooter’s barks of rebuke.
+
+Rooter and his three companions took in the star chamber’s carnage and the absence of their allies. All six of us looked in rough shape, and the battle could go either way.
+
+Fabulosa slowly raised her sword and pointed upward. Her gesture made her proposition apparent—leave or die. We held onto half our health and barely slivers of mana. We’d consumed our potions.
+
+Neither side could depend on healing as we sized one another up.
+
+I let them save a little face and bowed in respect. I wasn’t too proud to call it a draw.
+
+During the staredown, Rooter lowered his head and tail. The gnolls-for-hire had had enough and clambered up the lifeline. I couldn’t blame them for giving up. A mercenary had no stakes to die over.
+
+When shadows stopped dancing around the oculus, we exited our combat state, and my interface scrolled with experience point gains. Each gnoll had been worth almost 20 points each, and we’d gotten credit for the ones we’d let go.
+
+Fabulosa gave a wan smile. “Ding.”
+
+She and I collapsed and performed a Rest and Mend without ceremony. I checked my character sheet. I hadn’t leveled, but I stood only seventy experience points away from level 25. Unfortunately, summoned creatures, like chimeras, gave no experience, so it looked like I would be a level behind Fabulosa until we faced Winterbyte, but at least my partner would have an unspent power point.
+
+When I checked my experience, I noticed my stats had dropped again. The overnight march and fight had taken their toll.
+
+Debuff
+
+Exhaustion (3)
+
+-3 to stats
+
+Duration
+
+Until 8 hours of uninterrupted rest
+
+“This debuff is getting serious.”
+
+Fabulosa nodded weakly. “Yeah! I feel like you look!”
+
+“Anyway, back upstairs to plan A?”
+
+“You reckon we’re fit to fight like this?”
+
+“We can’t rest with her digging at the relic. That’s for sure.”
+
+I looked down the wide hall leading to the grate above the crypt. If Winterbyte had placed an alarm at the reliquary’s rear entrance, I hated to think about what she had in store for the grating. Detect Magic confirmed my suspicions.
+
+Glowing runes covered the hall.
+
+I gave Fabulosa my scouting report. “There are Compression Sphere alarms around the grate. It’ll take time to defuse them, and I can’t be sure I won’t trip a proximity trigger.”
+
+When we finished our Rest and Mend, I scanned the carnage of the star chamber for magical glows. Nothing lit up, showing the gnolls had carried nothing important. “It looks like Winterbyte hadn’t given them magic items.”
+
+Fabulosa stopped searching for loot and stood up. “She’s done trusting NPCs.”
+
+Stepping around the bodies and ripped branches of thorns, we returned upstairs. We avoided the trap that I had spotted during our first visit to the dungeon and entered the secret door leading into the organ room.
+
+We crouched at the hole in the floor, listened into the tube, and heard nothing.
+
+I doused Presence, placed glow stones in the organ room for light, and lowered a knotted rope into the tube. Climbing down a line in the darkness presented no challenges, and I could do so without making undue noise.
+
+Fabulosa followed.
+
+I peered at the statue upon reaching the shaft’s bottom. Everything in the room remained where we left it. If I turned the dial to the right setting, the inert figure would spring to life as a stone golem. This numbered as the very last thing I wanted to happen.
+
+After ascertaining the golem wouldn’t be a danger, I directed my attention to the crystal window overlooking the crypt. We’d killed the mummy in the sarcophagus on our previous visit, and seeing the lid still on the coffin flooded me with relief. Ignoring the architecture’s organic contours, I focused on its occupants.
+
+Winterbyte had surrounded herself with lanterns, so plenty of light illuminated her operation.
+
+I whispered up the tube to Fabulosa. “When you get to the bottom, put away your glow stone. She doesn’t know we’re here.”
+
+Fabulosa affirmed she understood. I left the tube and approached the window to get a closer look.
+
+A half dozen level 4 skeletons surrounded the sarcophagus. They accompanied Winterbyte’s latest monster concoction.
+
+I didn’t know what game mechanics involved summoning chimeras—I suspected it included a mix of nature and arcane magic. Her dinosaur beast showed creative promise, but even the most jaded gamer had to be inspired by the monstrosity beside the coffin.
+
+Name
+
+Winterbyte Chimera (12)
+
+Level
+
+19
+
+Difficulty
+
+Challenging (yellow)
+
+Health
+
+1120/1120
+
+The flavors of this undead cocktail included rodent, amphibian, and serpent. Skeletal claws formed its forepaws, but the back legs looked long and froggish. The center head’s deteriorating tissue exposed a long skull and teeth shaped in a distinctive rat overbite. Like hunting trophies, the lifeless heads of an undead frog and snake bookended the rat above either shoulder.
+
+The frog’s neck skin had deteriorated, and I could see a coiled, rotten tongue rolling around its throat.
+
+The serpent skull had eyeless sockets—its wide jaws missed a fang. Its head extended ten feet beyond the other heads, and its tail continued past the back legs, ending in a bony rattle.
+
+I pondered how this abomination might attack. The tongue could zap and reel us into the rat’s incisors. The serpent’s head had enough reach to strike anyone in the room, and the frog legs could reposition it anywhere in the room. As awful as it looked, zombies represented weaker versions than their base monsters—a level 19 chimera zombie should be easier to kill than a living counterpart.
+
+Winterbyte held center stage.
+
+Name
+
+Winterbyte
+
+Level
+
+27
+
+Difficulty
+
+Challenging (yellow)
+
+Health
+
+460/460
+
+She’d only leveled three times since we’d last faced her. Behind her hung a rope tied to the grated opening in the ceiling. She’d probably used a shrink potion to climb down.
+
+Winterbyte had outdone herself with the chimera, but not because of its fighting abilities. She used it on the lid of the sarcophagus. It tried to pry it off with the help of six skeletons. The undead served as a workaround to the protective aura, which aged creatures to death. Her strategy to use undead made sense.
+
+I couldn’t hear anything through the crystal, but Winterbyte clenched her claws and shouted orders. How many hours have they been down here, working on removing the lid?
+
+The undead chimera ineffectually pawed at the sarcophagus, but its digits found no purchase on the lid’s lip. The skeletons looked even more useless. Two stood frozen in inaction. Another weakly whacked at the coffin with a mace as if it mined for precious metals. Two skeletons with daggers tentatively stabbed at the lid in downward strokes, wholly ignoring Winterbyte’s horizontal gesticulations. Her lackeys proved less than dependable, and the scene of another contestant’s best-laid plans falling to pieces warmed my soul.
+
+One skeleton had wedged a dagger beneath the lid but wasn’t strong enough to pry it open. The chimera looked able but couldn’t get its oversized digits around the dagger or under the lid. Winterbyte directed the undead to work together. But devoid of intelligence, they couldn’t understand her instructions.
+
+Part of me wanted to leave Winterbyte here. If we could get around her runes, pulling up the rope might strand her down there. She’d eventually starve like the gnoll warlock in the demon dungeon. Leaving her to a fate of her making smacked of just deserts.
+
+But if using the undead exemplified Winterbyte’s improvisational skills, giving her more time might be a mistake. She would find a way out.
+
+Fabulosa softly chuckled as she watched monsters work at the lid. “She has the worst luck with NPCs.”
+
+Since the lighting shone on Winterbyte’s side of the glass, I felt reasonably sure glares and shadows hid us. We watched in silence as they worked.
+
+Fabulosa turned her attention to the looming silhouette of the lizardfolk statue. “I know we don’t need to activate this, but maybe we can use it to our advantage.”
+
+“What do you mean?”
+
+“Maybe we could turn it on before we attack.”
+
+I stiffened at the memory of that indestructible monster chasing after me. “Are you insane?”
+
+“What if you set the dial on another setting?”
+
+“Another setting?”
+
+“You know. To do something else?”
+
+Experimenting with the dial to tame the statue would blow our surprise. I had the tube’s end cap still in my void bag. If I gave it to Fabulosa, she could cast Compression Sphere to toot the Don’t-Pulverize-Apache chime.
+
+The dial of options didn’t look promising. It might as well have been an Aztec calendar. “What do you mean? Like, kill-the-undead setting?”
+
+Fabulosa rolled her eyes. “Don’t pitch a hissy. It’s just a suggestion. Maybe you could make the window disappear. We set the golem to attack mode and zip up the tube. Let the mech here turn her into jelly.”
+
+I grimaced to show my dislike for the idea. I didn’t want to be inside the tube if the golem started to ring it. And there wasn’t any guarantee the golem would switch targets if we escaped.
+
+Even if it aggroed on Winterbyte, she might maneuver around the coffin to get it to knock off the lid. With a relic, she could easily solo the onyx golem.
+
+In the best-case scenario, if we escaped and it killed Winterbyte, I wasn’t sure the same chime would turn off the monster.
+
+Despite all the tactical question marks, overall, I wasn’t fond of someone doing my fighting for me. It wouldn’t feel like an honorable revenge. I needed this to be personal.
+
+Besides, we didn’t need a walking wrecking ball to kill a few undead. Fabulosa’s suggestion overcomplicated things—and coming from me, that meant a lot.
+
+I picked the argument that I knew would convince Fabulosa. “Are you cool with a golem balancing the books between us?”
+
+Fabulosa’s eyes darted to Winterbyte, then back to mine. After a long stare, she grinned. “No. And to be honest, I’m a little ashamed to have suggested it. Let’s do this the right way.”

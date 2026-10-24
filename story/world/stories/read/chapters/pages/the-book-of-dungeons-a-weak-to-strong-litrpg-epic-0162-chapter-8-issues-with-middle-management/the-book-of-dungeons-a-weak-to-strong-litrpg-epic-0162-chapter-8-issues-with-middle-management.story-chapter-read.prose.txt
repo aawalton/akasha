@@ -1,0 +1,119 @@
+Wriggling my fingers, I activated the Ring of Obedience, sending eight kobolds to the floor, twisting in pain. A trio of level 4 kobolds wearing similar rings remained standing. They callously stepped over their companions, who fought vainly against my ring’s power.
+
+Facing a few level 4 monsters wasn’t much of a challenge, especially with Aggression blazing away. If a few city mice wanted to test my mettle, I wouldn’t deprive them of a lesson. “Let’s keep this between us officers.”
+
+My tiny Light Crossbow took the first out with 66 damage. I dropped the others with Scorch and Shocking Reach in quick succession. The last spell didn’t entirely kill its target. I almost finished it with my spear when my limbs froze. At first, I thought my interface lay open because I couldn’t move anything. I could breathe, blink, and roll my eyes, but the rest of my body remained rigid.
+
+A new debuff icon appeared next to the Aggression buff I’d been so proud of only seconds earlier.
+
+Debuff
+
+Obedience Mark—Paralyzation
+
+-50 Agility
+
+Duration
+
+Until controller ends the effect.
+
+What was a controller? This debuff carried a worse effect than Frozen Blood, and its limitless duration bothered me the most. I could move my lips, so at least I could speak and cast spells.
+
+I mentally activated my Charm of Protection—Dark Magic I’d bought in Grayton to ward off effects like this. The charm wasn’t powerful enough to counteract the amulet’s influence. Still, it raised my willpower by 20, reducing the Obedience Mark—Paralyzation debuff to -30, limiting my speed and movement to slow motion. I could barely wiggle my fingers.
+
+I became a statue—or rather, a living pincushion. The remaining level 4 kobold unsheathed a dagger and plunged it into my side, critting for 32 damage. I stood powerless to block his attacks.
+
+Most of the kobolds who collapsed to the floor bolted toward the street, but a few remained. Each only rated level 2, and their bites caused 12 and 14 points of damage—each a critical hit.
+
+I gazed at Bix, who casually leaned against the heavy office door. His furry face grimaced in rodent amusement. His whiskers twitched, and his sides shook in short squeaks, causing a dangling necklace to swing.
+
+Item
+
+Amulet of Obedience
+
+Rarity
+
+Quality (white)
+
+Description
+
+Level 25 neck slot Item use—Wearer may paralyze up to 50 creatures wearing Rings or Cuffs of Obedience. Range of effect is 500 yards.
+
+By wearing the Ring of Obedience, I’d inserted myself into the chain of command, which I now knew held drawbacks. I tried to force my fingers to flick off the ring, but even at -30 agility, I couldn’t manage the feat.
+
+Five of the kobolds who’d fled returned and joined the fray. Fighting helpless opponents held more appeal. Even though their bite and stab damage ranged in the low teens, my health dropped. I cast a Rejuvenate followed by a life-saving Restore. The paralyzing effect of the amulet didn’t prevent me from drinking a health potion. Consuming them involved only mental commands, like triggering magic items.
+
+I cast Presence to stave off the constant assault on my health pool, but the light from Bix’s office looked bright enough for reading, so the squinting assailants renewed their attack soon enough.
+
+The grin on Bix’s face faltered after I started casting spells. He withdrew to his office, slammed the heavy door behind him, and locked it.
+
+The effects of his amulet continued.
+
+The wounded captain ceased stabbing and pushed against my stomach, sprawling me onto the floor. He pulled out a wad of cloth and reached for my face, trying to muzzle me. I had two seconds to cast another Shocking Reach on him. He died with paws inches away from my mouth.
+
+A kobold witnessing the outcome of our struggle fled.
+
+I lit up the four remaining kobolds still biting me with fatal Scorch and Shocking Reach casts until I remained the only thing breathing in the hallway. I looked up at a locked door. My health stood in double digits, so I depleted the bulk of my mana to bring myself up to full. Lying on the floor, I used Refresh Mana to replenish my energy supply.
+
+My Charm of Protection—Dark Magic wore off—for all the good it did. It didn’t hurt or help my situation—prone on the ground in the middle of a kobold city. My first plan of attack involved dealing with the highborn hiding inside his office.
+
+I used the Magnetize interface to examine the mechanics of the lock. The tiny streams of arrows from the spells interface revealed the shape of the device’s tumblers, and I matched it to a key I’d lifted off the two guards.
+
+Using Move Object, I sent the keys flying toward the keyhole. I had only 33 seconds until my telekinesis wore off, so they moved swiftly. When the keys slipped into the keyhole, I turned them sharply. The spell’s 33 ounces of force turned the tiny tumblers and opened the door. Thankfully, the Graytooth Highborn wasn’t leaning against it.
+
+After opening the door, I used Slipstream’s targeting reticule to scope Bix’s office. Without other exits, Bix avoided my spells by cowering around a corner beyond my line of sight. I Slipstreamed into his office, positioning my paralyzed body on the high-backed stool behind his desk. My outstretched index finger pointed toward Bix as if to challenge him.
+
+I hadn’t finished with my Move Object spell yet. Pulling on the keys caused the door to swing shut. I turned them to relock the door, dropped them to the ground, pulled them under the door, and hung them from my paralyzed finger. Having captured Bix in his office, I leveled a hard stare as if daring him to take them.
+
+Calling Bix the Counter a trapped rat was no mere metaphor.
+
+He squeaked to himself and meekly clutched onto the amulet that kept me in a state of paralysis. His defiance wavered as his beady eyes darted about the office, looking for weapons. I also knew we stood in an accountant’s office. Ledgers, scrolls, and ink quills filled the shelves—but not so much as a letter opener rested nearby.
+
+Bix hung his head in resignation that I could kill him with spells faster than he could kill me with his paws and teeth.
+
+When the oversized rodent released me from his power, my limbs relaxed. The keyring fell onto the desk’s surface with a clang. Bix pulled off his amulet and held it aloft with both paws—head lowered in supplication.
+
+I stood, stretched my limbs, and accepted the token of his surrender. The last thing I wanted was to slip his amulet around my neck. I’d had enough of the kobold pecking order. Instead, I pulled the ring off my finger and slipped it and the Amulet of Obedience into my inventory.
+
+“Let’s try this again. Do you speak Common?”
+
+He emoted “no” by tilting his head sideways. The amusing gesture made me smile.
+
+I needed to pantomime my intentions. Pushing Bix’s stool toward him, I graciously gestured for him to take it. He hesitated for only a moment.
+
+He reached for a small chest and offered it to me. I could tell by its weight that coins filled it, no doubt with copper pieces. It wasn’t big enough to be the exchequer of the kingdom, so I shook my head and gestured that I didn’t want it.
+
+Bix looked crestfallen and confused. He must have thought I came here to rob him. Detect Magic revealed nothing magical, so I shook my hand in the air, telling him to keep his valuables.
+
+“Now, let’s get down to business. You take me to the king?” I made walking-finger motions of him and I going somewhere, then placed my palms to my head and pointed my fingers in a crown gesture.
+
+“King kobold?” I raised my voice to bridge our communication barrier.
+
+Bix’s mouth dropped open, his whiskers twitched, and his ears perked up. It made for a comical expression of realization. He squeaked excitedly and mimicked the same crown gesture. The rat then made a beckoning gesture to show he would take me to his leader.
+
+I hesitated and shook my finger. “No funny stuff, Buster!”
+
+Bix nodded and chirped for me to open the door. His fear of touching it without my consent indicated that he understood his place in the new hierarchy. At my nod, he unlocked, opened, and passed through the door, beckoning me again to follow.
+
+My new guide made lowering gestures as if pressing something to the floor. After moments of playing charades, I realized Bix wanted me to turn off Presence, so I doused the light and relied on my infravision necklace.
+
+The Graytooth Highborn stepped over the bodies of his fallen comrades without signs of respect or remorse. He nodded in encouragement, wishing to convey the authenticity of his help.
+
+We didn’t go back into the street. Instead, Bix turned down a side passage. I wasn’t sure of the heading, but I flipped up my hood again to avoid unnecessary confrontations.
+
+The narrow passage passed several archways and closed doors, though none looked as sturdy as Bix’s office. After winding through hallways and intersections, we passed through a large, empty room. Along its walls stood mounds of earth with no evident purpose.
+
+We passed window-like balconies overlooking silo-shaped sleeping chambers. Some had longer layouts, more to the proportions of a cathedral. These rooms climbed fifteen stories and contained cubbies for hundreds of sleepers.
+
+Bix stopped and squeaked questions at some kobolds we encountered. They made no sharp gestures toward me, so I felt confident he wasn’t giving me away. I only hoped that he wasn’t asking for advice or directions.
+
+Stagnant water filled one hallway, and we crossed it by hopping onto a long series of large flat rocks. The muddy ditches smelled so fetid I wondered if Bix was leading me to their king.
+
+Midway across the bridge stones, my guide turned and pantomimed the act of wrapping something around his neck. He wanted his Amulet of Obedience back. Bix flattened his ears and gave me a pleading look. Though cowed, he became insistent. I felt safe as long as I wasn’t wearing a ring or cuff, so I relented and returned his necklace.
+
+The walking stones led to a mud-cobblestone ledge. Bix led me to a room with a sand-covered floor, and the location name on my map interface changed from Upper Brackwater Ducts to Graytooth Tepidarium. After turning a corner, we entered what looked like an old Roman bathhouse whose architecture showed no concern for finish, decoration, or aesthetics. Some passages opened into other water basins, where highborn-sized kobolds swam and lounged. Stone and wooden pillars supported arches suspended over pools of water. The engineering created opulence by kobold standards, though its load-bearing posts showed no uniformity in alignment or size.
+
+Seeing large bodies of water encouraged me. My Amphibious power gave me tactical advantages if a fight broke out.
+
+Vats, buckets, and drinking bowls surrounded a trickling waterfall dominating one side of the room. Brown linens draped like curtains provided alcoves a measure of privacy. These filthy coverings passed for luxury in rodent circles.
+
+A chief kobold might very well feel at ease here.
