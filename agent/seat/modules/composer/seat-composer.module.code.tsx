@@ -8,8 +8,50 @@ import {
   useReturnSends,
 } from "akasha/design/interface/primitive/modules/textarea/textarea.module.code.tsx"
 import { uuidVersion7 } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
+import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import { ImagePlus, LoaderCircle, Mic, MicOff, X } from "lucide-react"
 import { type ChangeEvent, useEffect, useRef, useState } from "react"
+
+const DRAFT_AT = "seat-composer-draft"
+
+const NOBODY = "anyone"
+
+export type Shelf = Pick<Storage, "getItem" | "setItem" | "removeItem">
+
+export function draftKey(seat: string, person: string | null): string {
+  return `${DRAFT_AT}:${person ?? NOBODY}:${seat}`
+}
+
+function shelfHere(): Shelf | null {
+  try {
+    return typeof window === "undefined" ? null : window.localStorage
+  } catch {
+    return null
+  }
+}
+
+export function draftKept(shelf: Shelf | null, key: string): string {
+  try {
+    return shelf?.getItem(key) ?? ""
+  } catch {
+    return ""
+  }
+}
+
+export function keepDraft(shelf: Shelf | null, key: string, draft: string): undefined {
+  try {
+    if (draft.trim() === "") shelf?.removeItem(key)
+    else shelf?.setItem(key, draft)
+  } catch {
+    return undefined
+  }
+  return undefined
+}
+
+export function dropDraftSent(shelf: Shelf | null, key: string, sent: string): undefined {
+  if (draftKept(shelf, key).trim() === sent) keepDraft(shelf, key, "")
+  return undefined
+}
 
 const SEND_AT = "/api/seat/message"
 
@@ -203,22 +245,31 @@ function VoiceButton({ voice }: { voice: Voice }) {
 }
 
 export function SeatComposer({
+  seat,
   onSend,
   voice,
 }: {
-  onSend: (text: string, images: readonly File[]) => void
+  seat: string
+  onSend: (text: string, images: readonly File[]) => Promise<boolean>
   voice?: Voice
 }) {
+  const key = draftKey(seat, useUserId())
   const [draft, setDraft] = useState("")
+  useEffect(() => {
+    setDraft(draftKept(shelfHere(), key))
+  }, [key])
   const { attached, add, remove, clear } = useAttached()
   const picker = useRef<HTMLInputElement | null>(null)
   const empty = draft.trim() === "" && attached.length === 0
   const send = () => {
     if (empty) return
-    onSend(
-      draft.trim(),
+    const text = draft.trim()
+    void onSend(
+      text,
       attached.map((one) => one.file)
-    )
+    ).then((sent) => {
+      if (sent) dropDraftSent(shelfHere(), key, text)
+    })
     setDraft("")
     clear()
   }
@@ -259,7 +310,10 @@ export function SeatComposer({
         <Textarea
           ref={returnSends}
           value={draft}
-          onChange={(event) => setDraft(event.target.value)}
+          onChange={(event) => {
+            setDraft(event.target.value)
+            keepDraft(shelfHere(), key, event.target.value)
+          }}
           onKeyDown={(event) => {
             if (!sendsNow(event)) return
             event.preventDefault()

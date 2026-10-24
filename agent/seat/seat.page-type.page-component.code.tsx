@@ -376,7 +376,7 @@ export function Drawing({ pageTypeSlug, id }: PageDrawingProps) {
           : null
       }
       followAnchor={{ ref: endRef, renderTrigger: shown }}
-      footer={<SeatComposer onSend={send} voice={voice} />}
+      footer={<SeatComposer seat={id} onSend={send} voice={voice} />}
     >
       <PageLayout loading={pageIsLoading} skeleton={simplePageSkeleton({ titleWidth: 160 })}>
         {page != null && <title>{pageName(data)}</title>}

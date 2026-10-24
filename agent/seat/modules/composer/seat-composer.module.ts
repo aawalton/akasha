@@ -6,6 +6,7 @@ export const seatComposer = {
   slug: "seat-composer",
   definition: "the part of a seat's page where Alan writes a message to the seat",
   code: "tsx",
+  test: "tsx",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -67,7 +68,24 @@ export const seatComposer = {
       decisionKind: "decision-kind/departure",
       statement: "A microphone right of the box starts and ends talking to the seat by voice.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A message being written is kept in the browser as it is typed, and a reload restores it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A message being written is kept by the seat's id and the person signed in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A message kept that way goes only once the route says the send was taken.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "An image attached is not kept that way, and a reload drops it.",
+    },
   ],
   createdAt: "2026-09-24T18:02:40.725Z",
-  updatedAt: "2026-10-24T17:06:19.324Z",
+  updatedAt: "2026-10-24T20:51:34.054Z",
 } as const satisfies Module
