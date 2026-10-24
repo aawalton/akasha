@@ -41,7 +41,12 @@ export const alanAppShell = {
       decisionKind: "decision-kind/departure",
       statement: "The name over the navigation is the title of the site's web app page.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A reader who reads none of the site's nav pages is drawn the items the layout loaded.",
+    },
   ],
   createdAt: "2026-09-03T03:44:04.792Z",
-  updatedAt: "2026-09-27T11:50:23.000Z",
+  updatedAt: "2026-10-24T21:48:06.843Z",
 } as const satisfies Module

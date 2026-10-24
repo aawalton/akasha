@@ -2,6 +2,10 @@ import {
   alanAccountId,
   alanContributor,
 } from "akasha/alan/web/.server/alan-session-reader/alan-session-reader.module.code.ts"
+import {
+  navReachOf,
+  reachedNavItems,
+} from "akasha/alan/web/.server/nav-reach/nav-reach.module.code.ts"
 import { ALANWALTON_APP } from "akasha/alan/web/modules/alan-app-id/alan-app-id.module.code.ts"
 import { webAppTitle } from "akasha/infrastructure/service/akasha-service/web-app/modules/naming/web-app-naming.module.code.ts"
 import { alanwaltonWeb } from "akasha/infrastructure/service/akasha-service/web-app/pages/alanwalton-web.web-app.ts"
@@ -28,7 +32,12 @@ async function navItemsFor(): Promise<ReadonlyArray<Record<string, unknown>> | n
 export async function loader({ request }: LoaderFunctionArgs) {
   const reader = await alanContributor(request)
   const accountId = reader === null ? null : await alanAccountId(reader)
-  const navItems = reader === null ? null : await navItemsFor()
+  const [rows, reach] =
+    reader === null
+      ? [null, null]
+      : await Promise.all([navItemsFor(), navReachOf({ contributor: reader })])
+  const navItems = rows === null || reach === null ? rows : reachedNavItems(reach, rows)
+  const navServed = reach !== null && !reach.readsNav
   const brand = await webAppTitle(alanwaltonWeb.slug)
-  return data({ reader, accountId, signedIn: reader !== null, navItems, brand })
+  return data({ reader, accountId, signedIn: reader !== null, navItems, navServed, brand })
 }

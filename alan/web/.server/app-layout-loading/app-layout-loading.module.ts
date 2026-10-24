@@ -19,7 +19,15 @@ export const appLayoutLoading = {
       decisionKind: "decision-kind/departure",
       statement: "The layout loads the name the site is shown under off its web app page.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The layout loads only the nav items the reader's access reaches.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reader who reads none of the app's nav pages is drawn the items as loaded.",
+    },
   ],
   createdAt: "2026-09-03T03:45:08.507Z",
-  updatedAt: "2026-09-27T11:50:23.000Z",
+  updatedAt: "2026-10-24T21:48:06.843Z",
 } as const satisfies Module

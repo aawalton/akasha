@@ -35,6 +35,7 @@ export default function AppLayout({ loaderData }: Route.ComponentProps) {
           signedIn={loaderData.signedIn}
           accountId={loaderData.accountId}
           ssrNavItems={loaderData.navItems}
+          navServed={loaderData.navServed}
         >
           <Outlet />
         </AppShell>

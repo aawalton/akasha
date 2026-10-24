@@ -37,6 +37,7 @@ interface AppShellProps {
   signedIn: boolean
   accountId: string | null
   ssrNavItems: ReadonlyArray<Record<string, unknown>> | null
+  navServed: boolean
 }
 
 const NO_CODED_ITEMS: readonly AppNavItem[] = []
@@ -99,7 +100,14 @@ function AdminDialogs() {
   )
 }
 
-function AppShellInner({ children, brand, signedIn, accountId, ssrNavItems }: AppShellProps) {
+function AppShellInner({
+  children,
+  brand,
+  signedIn,
+  accountId,
+  ssrNavItems,
+  navServed,
+}: AppShellProps) {
   const {
     items: dynamicPrimaryItems,
     bottomSections,
@@ -115,6 +123,7 @@ function AppShellInner({ children, brand, signedIn, accountId, ssrNavItems }: Ap
     app: ALANWALTON_APP,
     primaryItems: NO_CODED_ITEMS,
     initialRows: ssrNavItems ?? undefined,
+    served: navServed,
   })
 
   const config = useMemo<AppNavConfig>(
