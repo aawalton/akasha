@@ -23,7 +23,7 @@ export const billieEilish = {
       source: "spotify",
       externalId: "6qqNVTkY8uBg9cP3Jd7DAH",
       externalLink: "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH",
-      lastSyncedAt: "2026-09-18",
+      lastSyncedAt: "2026-10-24",
     },
   ],
   title: "Billie Eilish",
@@ -38,5 +38,5 @@ export const billieEilish = {
     "indie pop",
   ],
   createdAt: "2026-06-08T00:35:35.942Z",
-  updatedAt: "2026-09-21T19:44:25.000Z",
+  updatedAt: "2026-10-24T13:49:08.041Z",
 } as const satisfies Artist
