@@ -1,0 +1,3 @@
+{"propertySlug":"import","fileName":"typing-person.relation-property.types.ts","path":"agent/seat/properties/typing.record-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"page-property","path":"agent/seat/properties/typing.record-property.ts","id":"01a16ffe-f46d-772f-8b93-9f09f26b202b"}
+{"propertySlug":"parts","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}

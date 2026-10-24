@@ -103,6 +103,9 @@ export const seat = {
     "text-property/bridge-session-id",
     "computed-property/seat-section",
     "multi-relation-property/seat-persons",
+    "record-property/typing",
+    "relation-property/typing-person",
+    "instant-property/typed-at",
   ],
   properties: [
     {
@@ -225,6 +228,13 @@ export const seat = {
       required: false,
       many: true,
       maxCount: null,
+    },
+    {
+      pageProperty: "record-property/typing",
+      required: false,
+      many: true,
+      maxCount: null,
+      uncommitted: true,
     },
   ],
   titleColoredBy: "computed-property/working-color",
@@ -415,5 +425,5 @@ export const seat = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-30T01:07:35.561Z",
-  updatedAt: "2026-10-24T22:11:52.478Z",
+  updatedAt: "2026-10-24T22:19:02.125Z",
 } as const satisfies PageType

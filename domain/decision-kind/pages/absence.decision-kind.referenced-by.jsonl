@@ -184,6 +184,7 @@
 {"propertySlug":"decision-kind","path":"agent/seat/properties/subagent-refusals.file-property.ts","id":"01a08d62-5be7-74d0-8fa3-63a8fc24f035"}
 {"propertySlug":"decision-kind","path":"agent/seat/properties/turn-pending.record-property.ts","id":"01a0541c-db5f-70d8-a32a-c321eef90312"}
 {"propertySlug":"decision-kind","path":"agent/seat/properties/turn-working.record-property.ts","id":"01a06c75-5eab-7ec2-b8c4-b25cdb0803ce"}
+{"propertySlug":"decision-kind","path":"agent/seat/properties/typing.record-property.ts","id":"01a16ffe-f46d-772f-8b93-9f09f26b202b"}
 {"propertySlug":"decision-kind","path":"agent/seat/reviving/modules/seat-coming-back/seat-coming-back.module.ts","id":"01a0a502-1586-777f-84c7-0d2a1f147ede"}
 {"propertySlug":"decision-kind","path":"agent/seat/reviving/modules/seat-revive-verify-signal/seat-revive-verify-signal.module.ts","id":"01a0686d-9d5e-700e-98bf-06b7ad829d40"}
 {"propertySlug":"decision-kind","path":"agent/seat/reviving/seat-reviving.domain.ts","id":"01a09c38-82db-7a28-8f18-09c4621a8dce"}

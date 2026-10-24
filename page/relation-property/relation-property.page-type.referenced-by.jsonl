@@ -22,6 +22,7 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"agent/seat/properties/seat-model.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"agent/seat/properties/seat-persona.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"agent/seat/properties/start-mode.relation-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"agent/seat/properties/typing-person.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"agent/seat/turn-state/properties/turn-state-color.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"agent/subagent/properties/subagent-kind.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/authoring/book-record/properties/record-book.relation-property.ts","typed":true,"deferred":false}
