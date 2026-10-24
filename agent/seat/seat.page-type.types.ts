@@ -15,6 +15,7 @@ import type { Role } from "akasha/agent/seat/properties/role.relation-property.t
 import type { SeatGateway } from "akasha/agent/seat/properties/seat-gateway.record-property.types.ts"
 import type { SeatModel } from "akasha/agent/seat/properties/seat-model.relation-property.types.ts"
 import type { SeatPersona } from "akasha/agent/seat/properties/seat-persona.relation-property.types.ts"
+import type { SeatPersons } from "akasha/agent/seat/properties/seat-persons.multi-relation-property.types.ts"
 import type { SeatSection } from "akasha/agent/seat/properties/seat-section.computed-property.types.ts"
 import type { StartMode } from "akasha/agent/seat/properties/start-mode.relation-property.types.ts"
 import type { SubagentEdits } from "akasha/agent/seat/properties/subagent-edits.file-property.types.ts"
@@ -57,4 +58,5 @@ export type Seat = Agent & {
   bridgeSessionId?: BridgeSessionId
   seatSection?: SeatSection
   provider?: Provider
+  persons?: SeatPersons
 }

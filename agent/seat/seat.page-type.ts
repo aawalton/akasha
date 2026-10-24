@@ -98,6 +98,7 @@ export const seat = {
     "computed-property/turn-state",
     "text-property/bridge-session-id",
     "computed-property/seat-section",
+    "multi-relation-property/seat-persons",
   ],
   properties: [
     {
@@ -216,6 +217,12 @@ export const seat = {
     },
     { pageProperty: "computed-property/seat-section", required: false, many: false },
     { pageProperty: "relation-property/provider", required: false, many: false },
+    {
+      pageProperty: "multi-relation-property/seat-persons",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
   ],
   titleColoredBy: "computed-property/working-color",
   loadedBy: "module/agent-stated",
@@ -401,5 +408,5 @@ export const seat = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-30T01:07:35.561Z",
-  updatedAt: "2026-10-22T15:49:09.425Z",
+  updatedAt: "2026-10-24T17:31:32.350Z",
 } as const satisfies PageType
