@@ -31,6 +31,18 @@ export const couplesTherapy = {
       statement: "The therapist reads no page Jenny cannot read.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A recorder in a second seat lands what a session settles.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The recorder lands into the alan-and-jenny book and nowhere else.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Nothing in the alan-and-jenny book is a page Jenny cannot read.",
+    },
+    {
       decisionKind: "decision-kind/stopgap",
       statement: "The therapist is the default persona until Alan names another.",
     },
@@ -74,5 +86,5 @@ export const couplesTherapy = {
     },
   ],
   createdAt: "2026-10-24T17:03:03.699Z",
-  updatedAt: "2026-10-24T18:08:14.228Z",
+  updatedAt: "2026-10-24T19:04:12.158Z",
 } as const satisfies Domain
