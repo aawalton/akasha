@@ -36,7 +36,21 @@ export const seatComposer = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A phone shows no Send button, and the box takes its room.",
+      statement:
+        "The box and its buttons sit in one rounded card, as the Claude app's composer does.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The box grows with what is written, and the row of buttons sits below it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A round send button with an arrow sits at the right of that row, on every device.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The send button is disabled while there is nothing to send.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -64,7 +78,7 @@ export const seatComposer = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An image is attached to a message from beside the box.",
+      statement: "An image is attached from a round plus button at the left of that row.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -88,7 +102,8 @@ export const seatComposer = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A microphone right of the box starts and ends talking to the seat by voice.",
+      statement:
+        "A microphone left of the send button starts and ends talking to the seat by voice.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -109,5 +124,5 @@ export const seatComposer = {
     },
   ],
   createdAt: "2026-09-24T18:02:40.725Z",
-  updatedAt: "2026-10-24T21:15:57.363Z",
+  updatedAt: "2026-10-24T21:17:06.044Z",
 } as const satisfies Module

@@ -2,6 +2,9 @@
 
 import type { Voice } from "akasha/agent/seat/voice/modules/live/seat-voice-live.module.code.ts"
 import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
+import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
+import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
+import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import {
   sendsNow,
   Textarea,
@@ -10,7 +13,7 @@ import {
 import { uuidVersion7 } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
 import { useCoarsePointer } from "akasha/page/ui/block-editor/modules/use-coarse-pointer/use-coarse-pointer.module.code.ts"
 import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
-import { ImagePlus, LoaderCircle, Mic, MicOff, X } from "lucide-react"
+import { ArrowUp, LoaderCircle, Mic, MicOff, Plus, X } from "lucide-react"
 import { type ChangeEvent, useEffect, useRef, useState } from "react"
 
 const DRAFT_AT = "seat-composer-draft"
@@ -234,6 +237,7 @@ function VoiceButton({ voice }: { voice: Voice }) {
     <Button
       variant={talking ? "accent" : "tertiary"}
       size="icon-lg"
+      className="rounded-full"
       aria-label={talking ? "Stop talking" : "Talk by voice"}
       aria-pressed={talking}
       onClick={voice.toggle}
@@ -280,6 +284,7 @@ export function SeatComposer({
   }
   const returnSends = useReturnSends(send)
   const touch = useCoarsePointer()
+  const plane = useSurface()
   return (
     <div className="mx-auto flex w-full max-w-[710px] flex-col gap-2 px-4 py-2">
       {voice?.state.kind === "failed" && (
@@ -287,32 +292,19 @@ export function SeatComposer({
           Voice stopped: {voice.state.why}
         </p>
       )}
-      {attached.length > 0 && (
-        <ul className="flex gap-3 overflow-x-auto pt-1.5" aria-label="Images attached">
-          {attached.map((one) => (
-            <Thumbnail key={one.key} one={one} remove={remove} />
-          ))}
-        </ul>
-      )}
-      <div className="flex items-end gap-2">
-        <input
-          ref={picker}
-          type="file"
-          accept="image/*"
-          multiple
-          hidden
-          aria-label="Images to attach"
-          onChange={add}
-        />
-        <Button
-          variant="tertiary"
-          size="icon-lg"
-          aria-label="Attach an image"
-          disabled={attached.length >= IMAGES_HELD}
-          onClick={() => picker.current?.click()}
-        >
-          <ImagePlus className="size-5" />
-        </Button>
+      <div
+        className={cn(
+          "flex flex-col gap-1 rounded-[1.75rem] border border-primary/10 p-2 transition-colors focus-within:border-primary/20",
+          surfaceClass(plane + 1)
+        )}
+      >
+        {attached.length > 0 && (
+          <ul className="flex gap-3 overflow-x-auto px-1 pt-1.5" aria-label="Images attached">
+            {attached.map((one) => (
+              <Thumbnail key={one.key} one={one} remove={remove} />
+            ))}
+          </ul>
+        )}
         <Textarea
           ref={touch ? undefined : returnSends}
           value={draft}
@@ -329,17 +321,42 @@ export function SeatComposer({
           enterKeyHint="enter"
           placeholder="Message"
           aria-label="Message to this seat"
-          className="max-h-48 min-h-10 flex-1 resize-none"
+          className="max-h-48 min-h-10 resize-none rounded-none bg-transparent px-2 py-1.5 shadow-none focus-visible:[outline:none]"
         />
-        {voice !== undefined && <VoiceButton voice={voice} />}
-        <Button
-          variant="accent"
-          className="hidden h-10 min-[584px]:inline-flex"
-          disabled={empty}
-          onClick={send}
-        >
-          Send
-        </Button>
+        <div className="flex items-center gap-2">
+          <input
+            ref={picker}
+            type="file"
+            accept="image/*"
+            multiple
+            hidden
+            aria-label="Images to attach"
+            onChange={add}
+          />
+          <Button
+            variant="tertiary"
+            size="icon-lg"
+            className="rounded-full border border-primary/10"
+            aria-label="Attach an image"
+            disabled={attached.length >= IMAGES_HELD}
+            onClick={() => picker.current?.click()}
+          >
+            <Plus className="size-5" />
+          </Button>
+          <div className="ml-auto flex items-center gap-2">
+            {voice !== undefined && <VoiceButton voice={voice} />}
+            <Button
+              variant="accent"
+              size="icon-lg"
+              className="rounded-full bg-accent text-surface-0"
+              aria-label="Send"
+              disabled={empty}
+              onClick={send}
+            >
+              <ArrowUp className="size-5" />
+            </Button>
+          </div>
+        </div>
       </div>
     </div>
   )
