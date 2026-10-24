@@ -1,55 +1,89 @@
 import { expect, test } from "bun:test"
 import {
   excerptOf,
-  lastEnded,
+  type Heard,
+  lastReply,
   noticed,
   type Said,
 } from "akasha/agent/seat/modules/reply-notifying/seat-reply-notifying.module.code.tsx"
+import { saidOnly } from "akasha/agent/seat/observation/modules/conversation-shaping/conversation-shaping.computed-property-module.code.ts"
+import { ready } from "akasha/agent/seat/turn-state/pages/idle/ready/ready.seat-turn-state.ts"
+import { working } from "akasha/agent/seat/turn-state/pages/working/working.seat-turn-state.ts"
+import { seatTurnState } from "akasha/agent/seat/turn-state/seat-turn-state.page-type.ts"
 
-const ASKED: Said = { kind: "person", text: "How are we doing?" }
+const OPENED = Date.parse("2026-10-24T19:00:00.000Z")
 
-const TOOL: Said = { kind: "tool", line: "Read notes.md" }
-
-const ANSWERED: Said = { kind: "agent", text: "You are **both** doing the work." }
-
-const ENDED: Said = { kind: "turn-end", line: "Worked for 2m", at: "2026-10-24T19:00:00.000Z" }
-
-const ENDED_AGAIN: Said = {
-  kind: "turn-end",
-  line: "Worked for 1m",
-  at: "2026-10-24T19:05:00.000Z",
+const ASKED = {
+  kind: "person",
+  sender: "alan",
+  text: "How are we doing?",
+  at: "2026-10-24T18:50:00.000Z",
 }
 
-test("a page opening on a turn already ended notifies nothing", () => {
-  const now = noticed(undefined, [ASKED, ANSWERED, ENDED])
+const ASKED_AGAIN = {
+  kind: "person",
+  sender: "jenny",
+  text: "And now?",
+  at: "2026-10-24T19:01:00.000Z",
+}
+
+const TOOL: Said = { kind: "tool", line: "Read notes.md", at: "2026-10-24T19:01:10.000Z" }
+
+const BEFORE: Said = { kind: "agent", text: "Earlier words.", at: "2026-10-24T18:55:00.000Z" }
+
+const ANSWERED: Said = {
+  kind: "agent",
+  text: "You are **both** doing the work.",
+  at: "2026-10-24T19:01:20.000Z",
+}
+
+const ENDED: Said = { kind: "turn-end", line: "Worked for 20s", at: "2026-10-24T19:01:21.000Z" }
+
+const READY = `${seatTurnState.slug}/${ready.slug}`
+
+const WORKING = `${seatTurnState.slug}/${working.slug}`
+
+function heard(entries: readonly Said[], turnState: string | null = READY): Heard {
+  return { entries, turnState }
+}
+
+test("a page opening on a reply already finished notifies nothing", () => {
+  const now = noticed(null, OPENED, lastReply(heard([ASKED, BEFORE, ENDED])))
   expect(now.reply).toBeNull()
-  expect(now.seen).not.toBeNull()
+  expect(now.settled).not.toBeNull()
 })
 
-test("a turn ending after the page opened notifies once with the reply's start", () => {
-  const opened = noticed(undefined, [ASKED])
-  expect(opened.reply).toBeNull()
-  const ended = noticed(opened.seen, [ASKED, TOOL, ANSWERED, ENDED])
-  expect(ended.reply?.excerpt).toBe("You are both doing the work.")
-  expect(noticed(ended.seen, [ASKED, TOOL, ANSWERED, ENDED]).reply).toBeNull()
+test("a reply finishing after the page opened notifies once with the reply's start", () => {
+  const opened = noticed(null, OPENED, lastReply(heard([ASKED, BEFORE])))
+  const said = heard([ASKED, BEFORE, ASKED_AGAIN, TOOL, ANSWERED, ENDED])
+  const done = noticed(opened.settled, OPENED, lastReply(said))
+  expect(done.reply?.excerpt).toBe("You are both doing the work.")
+  expect(noticed(done.settled, OPENED, lastReply(said)).reply).toBeNull()
 })
 
-test("a reply still streaming notifies nothing until its turn ends", () => {
-  const opened = noticed(undefined, [ASKED, ANSWERED, ENDED])
-  const asked = noticed(opened.seen, [ASKED, ANSWERED, ENDED, ASKED])
-  expect(asked.reply).toBeNull()
-  const streaming = noticed(asked.seen, [ASKED, ANSWERED, ENDED, ASKED, ANSWERED])
-  expect(streaming.reply).toBeNull()
-  const done = noticed(streaming.seen, [ASKED, ANSWERED, ENDED, ASKED, ANSWERED, ENDED_AGAIN])
-  expect(done.reply).not.toBeNull()
+test("a reply notifies only once its seat's turn is over", () => {
+  const said = [ASKED, BEFORE, ASKED_AGAIN, ANSWERED]
+  expect(lastReply(heard(said, WORKING))).toBeNull()
+  expect(lastReply(heard(said, null))).toBeNull()
+  expect(lastReply(heard(said))?.excerpt).toBe("You are both doing the work.")
 })
 
-test("a turn with no words of its own notifies with no excerpt", () => {
-  expect(lastEnded([ASKED, ANSWERED, ENDED, ASKED, TOOL, ENDED_AGAIN])?.excerpt).toBe("")
+test("a person's words after the last reply leave nothing finished", () => {
+  expect(lastReply(heard([ASKED, BEFORE, ASKED_AGAIN]))).toBeNull()
 })
 
-test("a conversation with no turn ended has nothing ended", () => {
-  expect(lastEnded([ASKED, ANSWERED])).toBeNull()
+test("a page drawn again after the reply came still notifies that reply", () => {
+  const said = heard([ASKED, BEFORE, ASKED_AGAIN, ANSWERED])
+  expect(noticed(null, OPENED, lastReply(said)).reply).not.toBeNull()
+})
+
+test("a person who sees only what was said is notified of the same reply", () => {
+  const said = [ASKED, BEFORE, ASKED_AGAIN, TOOL, ANSWERED, ENDED]
+  const whole = lastReply(heard(said))
+  const seen = lastReply(heard(saidOnly(said) as readonly Said[]))
+  expect(saidOnly(said)).toHaveLength(4)
+  expect(whole).not.toBeNull()
+  expect(seen).toEqual(whole)
 })
 
 test("an excerpt drops markdown and stays short", () => {

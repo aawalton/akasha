@@ -1,8 +1,10 @@
 "use client"
 
+import { working } from "akasha/agent/seat/turn-state/pages/working/working.seat-turn-state.ts"
+import { seatTurnState } from "akasha/agent/seat/turn-state/seat-turn-state.page-type.ts"
 import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
 import { Bell, BellOff } from "lucide-react"
-import { useCallback, useEffect, useRef, useState } from "react"
+import { useCallback, useEffect, useState } from "react"
 
 export type Said = {
   readonly kind: string
@@ -11,9 +13,11 @@ export type Said = {
   readonly at?: string
 }
 
-export type Ended = { readonly key: string; readonly excerpt: string }
+export type Ended = { readonly key: string; readonly excerpt: string; readonly at: number | null }
 
-export type Noticed = { readonly seen: string | null; readonly reply: Ended | null }
+export type Noticed = { readonly settled: string | null; readonly reply: Ended | null }
+
+export type Heard = { readonly entries: readonly Said[]; readonly turnState: string | null }
 
 type Permission = "unsupported" | NotificationPermission
 
@@ -24,6 +28,14 @@ export type Notifying = {
 }
 
 const EXCERPT_LENGTH = 140
+
+const KEY_LENGTH = 64
+
+const WORKING = `${seatTurnState.slug}/${working.slug}`
+
+const openedAt = new Map<string, number>()
+
+const settledFor = new Map<string, string | null>()
 
 const SUBDUED = "font-mono text-secondary text-xs"
 
@@ -37,29 +49,32 @@ export function excerptOf(text: string): string {
   return `${plain.slice(0, EXCERPT_LENGTH - 1).trimEnd()}…`
 }
 
-export function lastEnded(entries: readonly Said[]): Ended | null {
-  for (let at = entries.length - 1; at >= 0; at -= 1) {
-    const one = entries[at]
-    if (one?.kind !== "turn-end") continue
-    let reply = ""
-    for (let back = at - 1; back >= 0; back -= 1) {
-      const said = entries[back]
-      if (said === undefined || said.kind === "person" || said.kind === "turn-end") break
-      if (said.kind === "agent" && (said.text ?? "").trim() !== "") {
-        reply = said.text ?? ""
-        break
-      }
+function instantOf(at: string | undefined): number | null {
+  if (at === undefined) return null
+  const when = Date.parse(at)
+  return Number.isNaN(when) ? null : when
+}
+
+export function lastReply(heard: Heard): Ended | null {
+  if (heard.turnState === null || heard.turnState === WORKING) return null
+  for (let back = heard.entries.length - 1; back >= 0; back -= 1) {
+    const said = heard.entries[back]
+    if (said === undefined || said.kind === "person") return null
+    const text = said.text ?? ""
+    if (said.kind !== "agent" || text.trim() === "") continue
+    return {
+      key: `${said.at ?? ""}|${text.slice(0, KEY_LENGTH)}`,
+      excerpt: excerptOf(text),
+      at: instantOf(said.at),
     }
-    return { key: `${one.at ?? ""}|${one.line ?? ""}`, excerpt: excerptOf(reply) }
   }
   return null
 }
 
-export function noticed(seen: string | null | undefined, entries: readonly Said[]): Noticed {
-  const ended = lastEnded(entries)
-  const key = ended?.key ?? null
-  if (seen === undefined || ended === null || ended.key === seen) return { seen: key, reply: null }
-  return { seen: key, reply: ended }
+export function noticed(settled: string | null, opened: number, reply: Ended | null): Noticed {
+  if (reply === null || reply.key === settled) return { settled, reply: null }
+  if (reply.at === null || reply.at < opened) return { settled: reply.key, reply: null }
+  return { settled: reply.key, reply }
 }
 
 function permissionNow(): Permission {
@@ -75,7 +90,7 @@ function away(): boolean {
 function shown(seat: string, title: string, reply: Ended): undefined {
   try {
     const notice = new Notification(title, {
-      body: reply.excerpt === "" ? "The reply is done." : reply.excerpt,
+      body: reply.excerpt,
       tag: `seat-reply-${seat}`,
     })
     notice.onclick = () => {
@@ -91,25 +106,25 @@ function shown(seat: string, title: string, reply: Ended): undefined {
 export function useReplyNotifying(
   seat: string,
   title: string,
-  entries: readonly Said[] | null,
+  heard: Heard | null,
   persons: number
 ): Notifying {
   const several = persons > 1
   const [permission, setPermission] = useState<Permission>("unsupported")
-  const seen = useRef<string | null | undefined>(undefined)
   useEffect(() => {
     setPermission(permissionNow())
   }, [])
   useEffect(() => {
-    seen.current = undefined
+    if (!openedAt.has(seat)) openedAt.set(seat, Date.now())
   }, [seat])
   useEffect(() => {
-    if (entries === null) return
-    const now = noticed(seen.current, entries)
-    seen.current = now.seen
+    if (heard === null) return
+    const opened = openedAt.get(seat) ?? Date.now()
+    const now = noticed(settledFor.get(seat) ?? null, opened, lastReply(heard))
+    settledFor.set(seat, now.settled)
     if (now.reply === null || !several || permission !== "granted" || !away()) return
     shown(seat, title, now.reply)
-  }, [entries, several, permission, seat, title])
+  }, [heard, several, permission, seat, title])
   const ask = useCallback((): undefined => {
     if (permissionNow() === "unsupported") return
     void Notification.requestPermission().then(setPermission)

@@ -40,7 +40,11 @@ type Entry = {
 
 type Heard =
   | { readonly state: "asking" }
-  | { readonly state: "heard"; readonly entries: readonly Entry[] }
+  | {
+      readonly state: "heard"
+      readonly entries: readonly Entry[]
+      readonly turnState: string | null
+    }
   | { readonly state: "refused"; readonly why: string }
 
 type Pending = {
@@ -56,6 +60,8 @@ type Pending = {
 const SEAT = "seat"
 
 const CONVERSATION = "conversation"
+
+const TURN_STATE = "turnState"
 
 const KINDS: ReadonlySet<string> = new Set(["person", "agent", "tool", "turn-end", "message"])
 
@@ -83,18 +89,21 @@ async function conversationOf(id: string): Promise<Heard> {
   const asked = await askComposed({
     "page-type": SEAT,
     where: { id: { is: id } },
-    keys: [CONVERSATION],
+    keys: [CONVERSATION, TURN_STATE],
     limit: 1,
   })
   if (!asked.ok) return { state: "refused", why: asked.why }
-  const held = asked.answer.rows[0]?.values[CONVERSATION]
-  if (!Array.isArray(held)) return { state: "heard", entries: [] }
+  const values = asked.answer.rows[0]?.values
+  const stated = values?.[TURN_STATE]
+  const turnState = typeof stated === "string" ? stated : null
+  const held = values?.[CONVERSATION]
+  if (!Array.isArray(held)) return { state: "heard", entries: [], turnState }
   const entries: Entry[] = []
   for (const one of held) {
     const entry = entryIn(one)
     if (entry !== null) entries.push(entry)
   }
-  return { state: "heard", entries }
+  return { state: "heard", entries, turnState }
 }
 
 function keptOver(held: Heard, said: Heard): Heard {
@@ -360,7 +369,7 @@ export function Drawing({ pageTypeSlug, id }: PageDrawingProps) {
   const notifying = useReplyNotifying(
     id,
     pageName(data),
-    heard.state === "heard" ? heard.entries : null,
+    heard.state === "heard" ? heard : null,
     persons
   )
   const endRef = useRef<HTMLDivElement | null>(null)

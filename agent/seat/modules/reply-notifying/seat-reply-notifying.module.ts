@@ -24,11 +24,24 @@ export const seatReplyNotifying = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A reply is the agent's last words after a person's last words, once the seat's turn is over.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every person a seat answers to is notified of the same reply.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A seat's page drawn again in the same tab notifies no reply twice.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A reply notifies only while the page is hidden or the window is not focused.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A turn already ended when the page opened notifies nothing.",
+      statement: "A reply finished before the page opened notifies nothing.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -44,5 +57,5 @@ export const seatReplyNotifying = {
     },
   ],
   createdAt: "2026-10-24T20:05:08.835Z",
-  updatedAt: "2026-10-24T20:05:08.835Z",
+  updatedAt: "2026-10-24T21:08:43.506Z",
 } as const satisfies Module
