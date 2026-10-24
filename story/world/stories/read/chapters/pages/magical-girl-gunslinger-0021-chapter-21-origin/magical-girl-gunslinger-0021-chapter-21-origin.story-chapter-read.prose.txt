@@ -1,0 +1,475 @@
+[Let’s look at your status menu first.]
+
+STATUS
+
+Name: Mai Kuroki
+
+Alias: None
+
+Level: 8
+
+Points: 30
+
+Health: 65%
+
+Mana: 300/300 (5/Min)
+
+BASIC
+
+Origin: [Hidden]
+
+Aspect: [Hidden]
+
+Class: Locked
+
+Signature: Unawakened
+
+STATISTICS
+
+Strength: 10
+
+Dexterity: 25
+
+Vitality: 10
+
+Agility: 25
+
+Willpower: 30
+
+Spirit: 1
+
+40 Stat Points Available!
+
+SKILLS
+
+ABILITIES
+
+AUGMENTS
+
+Demonic Eye of the Sable Waif
+
+PERMISSIONS
+
+VAULTS
+
+GRIMOIRES
+
+The box appeared in my vision, and I blinked as I ran my eyes over it. I twitched at the fact my health was at 65%. I hadn’t bothered taking a close look at my HUD and had completely missed the fact it was so low. Selene had said my previous injuries had reduced my health maximum once already, and I was willing to bet the loss of my arm had reduced it yet again…
+
+I shook my head. Now wasn’t the time to be falling back down that hole. I turned my focus to Selene, and her tails gave me a flick of acknowledgement.
+
+[Now let us discuss Origins. It is, as the name might suggest, the reason one was chosen to be a Magical Girl. There are many specific circumstances, but they are divided into seven basic “emotions” or “themes” that the Magical Girl is said to be a representation of. Each of these Origins is also given a color that the Magical Girl is obligated to use as the primary color in their outfit. Magically speaking, your Origin determines what is called your Origin bonus, sometimes called your color type bonus. These bonuses are extremely powerful and could be compared to the racial bonuses of a video game. Because of this, it usually helps determine the combat role a Guardian takes. Are you following so far?]
+
+I nodded, and she continued.
+
+[Good. The first Origin, and perhaps the most powerful, is Love. Love Magical Girls are represented by the color pink. Pinks have the desire to help others above all else, the epitome of self-sacrifice. The bonus they have is earning 25% more points and experience from all sources. Roughly 10% of all Guardians are pink, and they often take the role of the all-stars or all-rounders. While they may not be masters of any one area, they are exceptional in many, making them ideal for filling in any weakness while having none of their own.]
+
+My eyes widened. That bonus seemed absurdly powerful. Sure, it didn’t help them directly in combat, but they would be able to grow more powerful at a much quicker pace. Not only that, but they would be able to face weaker Anathema and still get decent experience and points from them if they wanted.
+
+[I see you understand the implications,] Selene gave a flick of her tail. [Pink Magical Girls are some of the best simply because they get more rewards for the work they put in. They grow so quickly that they outpace their peers and often end up becoming team leaders simply due to the stat and point differences. Pinks also tend to be people with natural charisma, being friendly and compassionate as one would expect from a Magical Girl who represents love. They are, essentially, the ideal example of a Magical Girl.]
+
+I nodded, wondering if Lily would fit that criteria. With how friendly and magnetic her personality was, I could see it.
+
+[The second origin is Adventure, represented by the color red. This color represents those who constantly seek excitement and new challenges from thrills to fights. Reds have a permanent bonus to the effectiveness of their offensive spells, skills, and weapons. It is a percentage bonus that grows as they level. Red Magical Girls tend to be passionate, excitable, loyal, and sometimes hot headed. About 20% of Guardians have this color, and they often take the role of the warrior. Whether they fight on the frontlines as a whirlwind or cast devastating spells from afar, they are unmatched in their destructive potential.]
+
+I nodded, noting that the bonus would make Reds the damage dealers while remaining inclusive enough to make them equally dangerous as close or long range fighters.
+
+[The third origin is Hope, represented by the color blue. This color represents those who wish to help others, hoping that anyone can be saved and inspiring hope through their caring actions. Blues have a permanent bonus to the effectiveness of their support spells, skills, and weapons. It is a percentage bonus that grows as they level. Blue Magical Girls tend to be smart, calm, caring, empathetic, and sometimes shy. About 20% of Guardians have this color, and they often take the role of healer. Using their support magic, they can bolster their allies and hinder their enemies, all while healing any damage taken.]
+
+Blue Magical Girls would definitely be more team oriented, then. Sure, their support bonus would work on themselves, but it seemed like it would be more effective for them to team them up with other Guardians to get the most out of their bonus.
+
+[The fourth origin is Peace, represented by the color green. This color represents those who have a strong desire to protect others, who want normalcy and serenity above all else. Greens have a permanent bonus to the effectiveness of their defensive spells, skills, and weapons. It is a percentage bonus that grows as they level. Green Magical Girls tend to be determined, stoic, dauntless, and sometimes withdrawn. About 20% of people who become Guardians have this color, and they often take the role of defender. Whether fighting on the frontlines as an immovable rock or creating impenetrable shields from afar, they are the ones who protect themselves and comrades from any source of harm.]
+
+I kept my eyes from flicking to emerald form of Error Machina. With that description, it made sense he was working at Guardian Command to coordinate Magical Girls, though I wasn’t sure exactly how well he could utilize his spells or his other bonuses from behind a computer.
+
+[The fifth origin is Wish, represented by the color yellow. This color represents those who hold a wish inside them, a dream they hold on a pedestal but cannot obtain, and they seek to give others a chance to reach their own wish. Yellows have a two part bonus, the first being that they often have a very unique Signature Magic that often breaks the rules of what should be possible with magic in general. The second bonus is that in exchange for becoming a Magical Guardian, they have their wish granted.]
+
+I blinked.
+
+“What?”
+
+[It has to be a wish within reason, and some things are forbidden, of course,] Selene quickly amended, her tails swishing in something like amusement. [No bringing back the dead, no making somebody fall in love with them, no destroying reality by turning back time, that sort of thing. Also, if their wish would naturally be fulfilled by becoming a Magical Girl, then they can keep their wish to use later. On that note, one thing that should never be done is asking a Yellow what they used their wish on. It is considered highly taboo.]
+
+I nodded in understanding. Whatever they used their wish on would have to be something highly personal, especially if it was something powerful enough to help make them a Magical Girl candidate. Asking for them to reveal that would be beyond just being a little rude.
+
+Selene seemed pleased with my quick acceptance, and so she continued.
+
+[Yellows tend to have hyper or quirky personalities, be generally mischievous, fun loving, and sometimes have a poor sense of boundaries. About 20% of Guardians have this color, and they often take the role of rogue. Due to their unpredictable Signature Magics, they have no single defined combat type, instead specializing in unusual tactics that compliment their Signature.]
+
+That made sense. If all of them had widely diverse Signatures, it seemed wise for them to be specialists rather than a more standardized role.
+
+[The sixth origin is Dream, represented by the color white. This color represents those who dream of becoming a Magical Girl and everything it pertains, especially giving others the chance to achieve their own dreams in peace. A White Magical Girl has a 50% experience bonus. They tend to have a full, unpredictable gambit of personalities. About 7% of Guardians have this color, and they often take the role of an ace or master in their chosen field. Because they have such a high experience bonus but no point bonus, they often become hyper-specialized and masters of their chosen path.]
+
+Selene stopped, and I held my breath. So far, none of the colors had really seemed to represent me. I assumed the personalities weren’t set in stone, but even then, none of their reasons for being chosen as a Magical Girl lined up neatly with my own. Which only meant…
+
+[What I am about to tell you is something you should keep to yourself,] Selene said, her voice serious. [The reasons will become obvious, but just know, only Magical Girls of your Origin get the full and truthful explanation. You are free to give this explanation to anyone you wish, but others of your Origin would take it… poorly. Those who heard the explanation might have an equally unfavorable response for a variety of reasons that will soon be made clear. Do you understand?]
+
+I nodded, the tension building inside me as Selene took a deep breath.
+
+[The final origin is Dark, represented by the color black. This color represents those who have experienced such darkness in their lives that the Anathema seem pale in comparison. Whether it be pain, despair, sadness, or a myriad of other emotions, Dark Magical Girls have no one unifying emotion, just a theme. Dark Magical Girls have experienced suffering, and in that suffering, have survived. They are chosen not because they wanted to escape their circumstances, but because they instead learned to live despite the shadows. Another interesting point is that every Dark Magical Girl is chosen partially because even though they faced horrors, they had no particular desire to become a Magical Girl until it was offered. This is mostly due to the fact that Dark Magical Girls never even realized it was an option, thinking themselves… unworthy. The truth, however, is that their experiences make them uniquely capable to stare down the worst of the Anathema and fight without faltering. In many ways, they represent courage born through suffering. That is why they are chosen.]
+
+I flinched, taking in shallow, quick breaths as Selene turned her head slightly away from me. I wanted to shake my head, to tell her she was wrong, that my life wasn’t like that. Sure, things weren’t what I wanted, but… there were reasons for that, and I had made my peace with those reasons. Maybe things were dark, but they weren’t the worst. It was just how things were. I barely fit into that description, and even then, it was only from someone else’s point of view.
+
+Right.
+
+I wasn’t like that.
+
+Things weren’t that bad.
+
+Other people just didn’t understand.
+
+A dozen more reassurances ran through my mind, and I found myself breathing quicker and quicker. Before I could start hyperventilating, Selene gave a sharp flick of her tails, and my mind instantly cleared, the thoughts disappearing like fog before a strong wind. It was an alien sensation, almost like someone had snapped their fingers directly inside my brain. My attention snapped away from my spiraling thoughts and back to Selene.
+
+[The bonus Dark Magical Girls start with is threefold and intertwined,] Selene began slowly, making sure she had my full attention before continuing. [First, they begin with a completely Unique Grimoire, a powerful type of magic built solely for them. Secondly, their Signature Magic is also much more powerful than a normal Magical Girl’s and often has a dark spin on it. Finally, their Grimoire, Signature, and the bonus provided by their Aspect are all linked together by some underlying theme and power, giving a Dark Magical Girl a naturally synergistic set of abilities that are not only powerful, but completely unique and therefore unpredictable. About 3% of Guardians have this color, and they take the role of the trump card. Dark Magical Girls are unparalleled in single combat due to the unique twists provided by their starting bonuses, and are often relied on as boss killers and duelists. As for their common personality traits…]
+
+Selene sighed, her tails twisting together nervously.
+
+[The truth is that they run a full gambit, but other Magical Girls often categorize them as antisocial, quiet, loners, and unstable. There are a lot of rumors regarding Dark Magical Girls. Many have realized that Dark Magical Girls tend to have something troubling them, something that occasionally causes them to… snap. Combining Dark Magical Girls’ unpredictable personalities with the power they wield, many think they are simply ticking time bombs. Bombs that are uniquely capable of hurting other Magical Girls.]
+
+“What?” I looked up in confusion.
+
+[Mai, other Magical Girls are simply told Dark Magical Girls represent the emotion of Courage, to face darkness without wavering. While it is partially true, it is still nowhere near the entirety of it. Just becoming a Magical Girl doesn’t rescue someone from their… circumstances. They still have to find a way to deal with it on their own. Worse, the unique abilities Dark Magical Girls have usually make them great at defeating boss-type Anathema, but that isn’t the only thing they are designed for. Think of it like this: Dark Magical Girls are often given abilities focused on facing lone creatures, even ones with a range of powerful abilities and magic. Does that description match anything else you can think of?]
+
+The bottom of my stomach dropped out, eyes widening.
+
+“Magical Girls,” I thought to Selene. “We’re Anti-Magical Girls.”
+
+[Yes… although it is not the main design of your powers, it is not lost on the more experienced Magical Girls just how dangerous a Dark Magical Girl could be. If you take into account that there is a stigma of Dark Magical Girls being emotionally unstable with troubled pasts while also possessing unnatural magics…]
+
+“But doesn’t the contract we made prevent us from abusing our powers?” I asked my mind racing. I didn’t know why, but I was desperate to find a reason Selene might be wrong.
+
+[The question then becomes what constitutes abuse. How far is too far for one who is defending humanity? The contract Guardians make prevents the most heinous of actions, but even then, the rule can sometimes be twisted to prevent automatic punishment. The Zenith believe… Well, defeating the Anathema is their top priority, and it takes a lot to convince them to punish a Guardian and deprive humanity of a hyper-capable warrior. In the end, it often comes to the community of Magical Girls to keep each other in line. In the most extreme cases, force may be necessary, in which case… Well, it only makes sense to contact a Dark Magical Girl to help the authorities.]
+
+“I see…” I thought to her, a deep, sinking feeling settling into my belly.
+
+[It doesn’t help that some Dark Magical Girls have lashed out, either. It has led to people saying things such as, “Dark Magical Girls are unstable. You can’t trust them. They only care about themselves. They’re crazy and will attack you without warning.” Those are just some of the less colorful rumors, but all it takes for some people to believe in them is the slightest bit of confirmation by a Dark Magical Girl having a bad day. And if one rumor is true, then…]
+
+I looked down at the floor, forcing myself to think things through slowly.
+
+So…
+
+I was a Dark Magical Girl, an outcast even among Magical Girls. I was chosen not because I was anything special or heroic like other Magical Girls, I was just picked because of what I’d gone through. Selene tried to say that courage was part of the reason, but I knew that was her just trying to find a silver lining because I wasn’t courageous. Just surviving day-to-day didn’t make me anything special, really.
+
+Besides, if courage really was the main reason Darks were chosen, then they wouldn’t be called Darks in the first place. They would have a name referring to their color like every other Guardian, wouldn’t they?
+
+I suppose none of the information was too surprising, especially not the part about how people would react to me. People already thought I was weird, so this was just more of the same, really. I… could deal with that. Actually, it might even be easier this way. I wouldn’t have known how to handle suddenly being popular.
+
+Yeah… It would be fine. I wasn’t sure why I felt so crestfallen, or why my heart felt tight, but everything would be fine.
+
+[Anyway, it’s not like all Magical Girls see Dark Magical Girls this way,] Selene hurriedly added. [Yes, there’s a negative stigma, but due to the positive nature of Magical Girls, most are able to look past the rumors. Just be aware that some might be hesitant… or even outright hostile. Oh, and the public isn’t aware of any of this! To them, Dark Magical Girls are simply another type of Guardian who happen to dress in black. As a reminder, courage is the emotional aspect focused on for those not in the know. In fact, many people love Dark Magical Girls due to their rarity and mysterious demeanors. So while some of the Magical Girl community might view you with negative connotations, you have nothing to fear from civilians.]
+
+“Oh…. ” Some of the tightness in my chest disappeared. Now that Selene mentioned it, I’d never heard anything bad about Dark Magical Girls before. Though, to be fair, I’d been so uninterested and separated from anything Guardian related that I didn’t know much of anything about them.
+
+“That’s not too bad then, I guess.” I shrugged weakly.
+
+[I’m glad you understand,] Selene sighed, obviously relieved. [Now, I know how much you value your privacy, and the explanation about how Dark Magical Girls are chosen gives others some very personal insight. That is partially why other Guardians are given a more simplistic explanation. It is a policy meant to protect the privacy of Dark Magical Girls, and it is an unspoken rule among them not to tell anyone else the truth.]
+
+I nodded in understanding. Sure, there might be rumors that there was something wrong with Dark Magical Girls, but outright telling other Guardians the truth? I mean, Guardians were chosen based on the fact they were supposed to help people. If other Magical Girls learned for a fact that every Dark Magical Girl had either gone through or was going through some kind of darkness, some kind of disturbing personal issue…
+
+It was easy to see why that would just be inviting trouble. Every Magical Girl would rush to find out what was “wrong,” trying to figure out what the Dark Magical Girl was coping with, and then they would try to solve it. Every Dark Magical Girl would suddenly have to worry about every Guardian they met trying to “fix” their problems, inserting themselves and trying to play hero.
+
+I shook my head. No. It was abundantly clear why the truth was hidden, even if it still led to rumors. I knew I personally wanted nobody interfering in my personal life. It was mine, not theirs, and they had no right to judge or mess with it just because they saw things differently. I didn’t want their help.
+
+Besides… I didn’t need it.
+
+“Okay, I understand why you kept this part from me…” I thought back to Selene. “It’s… a lot. A little frustrating… and distracting. But it doesn’t explain a few things like my Astral Shift or-”
+
+[We’re almost there. The last thing I wanted to explain before I show you your unredacted Status was your Aspect. If Origin is the reason a person became a Magical Girl, the Aspect is meant to express what part of that Origin they express. For example, Red Magical Girls have the Origin of Adventure, so their Aspect might be Speed, Fighting, Exploration, or some other Aspect that could be associated with that emotion. As I explained earlier in the day, your Aspect gives you a unique bonus at certain milestone levels, and it is what’s given you your unique Augment. Now, because Dark Magical Girls have an Origin that is a theme the combines various things, your Aspect is instead the exact emotion that best represents your… darkness. With that explained, here is your unredacted Basic section.]
+
+BASIC
+
+Origin: Dark
+
+Aspect: Loneliness
+
+Class: Locked
+
+Signature: Unawakened
+
+I felt a serrated dagger cut my heart open.
+
+That wasn’t…
+
+That…
+
+No.
+
+I blinked the box away, and turned back to Selene. I didn’t want to think about it. Not right now. Not when there were more important things to worry about.
+
+“Okay. What else?” I quickly asked aloud, and Error blinked, turning his attention back to me.
+
+Selene looked at me for a long time before giving what felt like a sigh.
+
+[So, with the knowledge of your Origin in mind and the stigma around it-] Selene started, pausing as Error raised a hand.
+
+“Look,” he said, his tone clipped. “I just want to say, I know the rumors about Dark Magical Girls aren’t the whole truth, and I think I have a pretty good idea of what’s really going on, but none of that matters to me. I’ve seen plenty of Guardians of every color, and let me tell you, it doesn’t matter. We’re all just people. We all have our problems and bad eggs, and stereotyping is definitely not the answer. What matters is what we do, and let me say, you’ve already been more of a Magical Girl in these few hours than most are in their lifetime. You’ve done good, kōhai. Better than anyone else could have in your position.”
+
+My cheeks warmed, and I looked away. I wasn’t sure how to respond to him or the fluttery heat in my chest other than just nod.
+
+[Yes… You really have done amazingly. Especially considering you’ve managed all of this without your Astral Shift.]
+
+I looked up as Selene’s tone changed. I’d heard her worried or nervous before, but even then her tone was always calm, a constant and almost ethereal quality to it. Now, though, it turned into an outright snarl, and it sent a shiver down my spine.
+
+“Your Astral Shift…” Error spat the words out, but even his venom didn’t hold a candle to Selene’s. “I’m curious. I’m sure your Familiar told you that your Astral Shift is the stereotypical “transformation” sequence. Bright lights and magical effects envelop you, and then poof, you’re wearing your Magical Girl costume. I’m also sure your Familiar told you without your Astral Shift, you only get a portion of the bonuses provided by your stats. She also probably danced around telling you the exact percentage of the bonuses you retain, am I right? Did you even consider it?”
+
+“I…” I closed my mouth, then shook my head. “No. I always just assumed it was low…”
+
+[I did not wish to upset you, and knowing the truth wouldn’t have changed anything.] Selene looked down with something like shame in her posture.
+
+“No, it wouldn’t have,” Error agreed. “So, what percentage of your stats do you think you were gaining?”
+
+I thought about it for a moment. I really had never considered it, but subconsciously…
+
+“Maybe fifty percent?” I tried. “But now I’m thinking less…”
+
+The corners of Error’s lips lifted in the parody of a smile.
+
+“Ten percent.”
+
+I stared at Error. Then I looked at Selene, and she nodded.
+
+“You might as well not have had any bonuses considering your low level,” Error growled, and I closed my eyes.
+
+Ten percent… Everything I’d done, I assumed I was doing it with at least a slight edge to my physical abilities. Every calculation I made, every reassurance I’d given myself… and the whole time, I’d been working with a ten percent bonus of what I should have. Considering I was still low leveled, Error was right. I might as well not have had any bonus at all.
+
+I swallowed down the bile in my throat. I wasn’t upset at Selene, because telling me would have just built up my fear and despair. No, I was just upset that I didn’t have access to my full stats.
+
+“So my fights should have been easier,” I cleared my throat. “But-”
+
+“That’s not all,” Error said, and I looked up in surprise. “Your Astral Shift gives you more than just stats. It gives you protection. Have you ever seen footage of a Magical Girl fighting and they get thrown through a wall or take what should have been a nasty hit only to come out unscathed? That’s part of your Astral Shift. It gives something like an invisible shield, kind of like a personal forcefield, and it absorbs a good portion of the damage that should be dealt to you. It’s always active, protecting your entire body from harm. That’s why Magical Girls can go into battle in skirts and frills instead of armor.”
+
+[The shield is commonly referred to as your Astral Barrier, often shortened to just Barrier,] Selene added, [and to put it in perspective of how powerful it can be even at lower levels… If you had your Barrier, the Corpse Blossom would not have done enough damage to warrant cutting off your own arm. At most, you would have had bruises, maybe a broken bone at worst.]
+
+I stared at the two of them, shock turning me numb.
+
+A shield?
+
+I should have had a shield?
+
+I should have still had my arm?
+
+“I don’t understand,” I choked out, trying to fight the wetness coming to my eyes. “Why… this… I could have… why? Why didn’t I have access to my Astral Shift? Why did all this…?”
+
+“I’m sorry, kōhai,” Error said softly. “But it’s because of the same stuff your Familiar just told you all about. It’s because you’re a Dark Magical Girl, and the stupid fucking human clowns in charge decided to make the Zenith impose a new rule. A lot of politicians have bought into the rumors about Dark Magical Girls, and so they decided to make it so no new Dark Magical Girl could use their Astral Shift without first meeting another Guardian in person and getting their permission.”
+
+A wave of vertigo hit me, and I put my hand against the desk, leaning over it as the sensation washed through me. I closed my eyes, my head pounding as their words nailed themselves through my skull.
+
+[The official reasoning,] Selene explained bitterly, [is that it’s a measure to prevent potentially unstable candidates from immediately going and abusing the massive amounts of power they are granted. There was an incident, you see, where a Dark Magical Girl’s first act after becoming a Guardian was to do something… terrible. Ever since, all Dark Magical Girls have to receive in-person permission from another Guardian before they use their first Astral Shift. This is a human rule, and although the Zenith argued against it, they believed it would be inappropriate to go against the wishes of humanity’s chosen representatives.]
+
+The numbness inside vanished, leaving behind a cold hollowness as my ears started to ring.
+
+All of this… the tampering with the mana generator causing the shielding station to fail, the shelter activating its emergency shield, and now the lack of something that would have helped me fight, that would have protected me.
+
+It.
+
+Was.
+
+All.
+
+People.
+
+Bitterness bubbled up and overflowed in me, a sudden fountain bursting from somewhere deep within. I almost started laughing. It had been, what, seven hours? In seven hours, people had managed to put my life in danger three separate times. If the shield never went down, I would have made it to the shelter. If the shelter never had its emergency shield up, I would have been able to get inside safely and not risk my life to save them. If I had my Astral Shift, I would have been so much safer during my fights and wouldn’t have lost my arm.
+
+But no. Instead, I was half of a Magical Girl missing half of an arm, and now the only way I could save hundreds of lives was to forfeit my own. All because of people.
+
+But wasn’t it always?
+
+I shouldn’t have even been surprised. Maybe it was what I deserved, and this was just karmic balance finally swinging the executioner’s axe.
+
+My head felt like it was spinning out of control. For the first time in a long time, anger boiled inside me. I had done nothing to these people. I was already trying so hard to do the right things, and this was still how it turned out.
+
+And the worst part? The worst part was that none of what I’d just learned really mattered! It was all just context at this point, but none of it changed what needed to be done. There was still a shelter out there running out of energy, and in that shelter were a lot of people, people I knew, and a single person I really, really cared about.
+
+I didn’t have a choice about what I did next, because there was only one path I could live with.
+
+Even if it was the path that ended with me dead.
+
+The sound of electricity crackling to life pulled me from my thoughts, and I opened my eyes to see small, jagged arcs of electricity bursting to life around my hand, the energy violet with a black core. It snapped between my fingers where my hand was pressed against the desk, the dark lightning flashing out of existence as shock rolled through me.
+
+“I’m sorry,” Error suddenly said, making me jump and lift my head back to the screen. “I know it doesn’t help, but I am. A lot of Guardians warned the councils that they were making a mistake, that something bad might happen. I don’t think anybody imagined something as bad as this, but… here we are.”
+
+I blinked a few times, glancing between him and Selene. Error must not have seen the lightning due to the camera angle, but Selene was staring at my hand, her tails all frozen stiff. She slowly looked up at me, and after a moment, her tails returned to gently swaying back and forth.
+
+[I’ll explain later,] Selene whispered into my head. [It’s just a small, largely unimportant side effect of your strong emotions. First, we deal with this.]
+
+I swallowed, looking back down at my hand. For some reason, the oddly colored electricity seemed familiar, but… it felt like I’d seen it in a different shape before. When I tried to remember what exactly I was thinking of, it only made my head begin to pound with the beginnings of a headache.
+
+I gave up trying to recall, instead giving Selene a small nod before turning my attention back to Error. Whatever those sparks were about, the explanation could wait. The anger that had been in me was gone now, wiped away by the shock of seeing the electrical arcs. In the anger’s place was an empty but steadfast numbness. I’d felt it a few times before, a powerful resignation that what was about to happen had to, and so I would face it.
+
+Because I simply didn’t have any other choice.
+
+“Thank you for telling me the truth,” I said quietly. “But it doesn’t change the fact that people are going to die, and I’m the only one that can help them.”
+
+“No,” Error shook his head, a sickened, solemn look on his face. “No, I guess it really doesn’t.”
+
+“Then I’ll do it. I’ll go to the shield station, begin the restart sequence, fight off the Anathema for five minutes, and then give the final initiation command.”
+
+As I said the words out loud, the emptiness inside me began to fill back up. Mostly, it was anxiety digging a razor back into the center of my heart, but to my surprise, there was a flicker of defiance in there too. Everyone seemed to think this was a suicide mission for me, but so what? So what if everyone else seemed to be working against me? This was the right thing to do. I was going to go and save lives. If there was ever something to give my life for, wasn’t this it?
+
+Wasn’t this what it meant to be a Magical Girl?
+
+“What you’re doing,” Error cleared his throat, looking away, “the System has a name for it. When it hands out quests, there’s an estimated difficulty attached. Easy, medium, hard, that sort of thing. But occasionally, there is a need to do something to save lives, even if it means the Guardian might not make it out alive. For that, there’s a special name.”
+
+He turned back to me, meeting my eyes.
+
+“It’s called a Death Wish, and it is the duty of any Guardian to hear out the last wishes or requests from the one attempting the mission. Within reason, the Guardian’s Association will try to fulfill your last wishes. I want you to know that the System has just given me a quest to hear out your Death Wish, making this official. So, if there is anything you want or any messages to pass on to family and friends, now is the time to tell me.”
+
+My throat felt suddenly tight, and I took a moment to take in a deep breath. By the end of my exhale, I knew what I wanted.
+
+“There’s a girl named Lily Parker in my grade,” I began quietly. “I want her to know what I did, and I want her to know I always appreciated her going out of her way to be my friend. I know it probably wasn’t easy, but it meant a lot to me. Tell her thank you, and I’m sorry. Um… if there’s any way you can look out for her… she wants to become a Magical Soldier. She told me it’s a really tough selection process, but-”
+
+“Done,” Error said with a nod. “I’ll personally make sure that she gets the appropriate scholarships and the best training opportunities. I’ll purchase her the best magitech equipment myself if I have to. That is, of course, if you don’t want to try to make her a Magical Girl.”
+
+“What?” I blinked in surprise.
+
+“It’s your Death Wish,” Error said gently. “There is a lot you can ask for. If you want, you can request the Zenith to take a serious look at her as a candidate. If she fits the mental profile and is physically compatible with receiving a Soul Gem, she’ll become one. To the Zenith, it’s a reasonable request that if they have to lose a Magical Girl, another might as well be nominated.”
+
+“Oh… Then yes, I’d like that.”
+
+It was easy to imagine Lily as a Magical Girl. She talked about it a few times, usually in a joking manner, but there was always something in her eyes when she did. A spark of longing and excitement. It was the same look she got when she told me she wanted to be a Magical Soldier, to become someone who could protect people and make a difference. Knowing I could help her fulfill those dreams sent a flutter of happiness through my stomach.
+
+“Alright, then,” Error nodded, “She is officially nominated. If she can’t become one for some reason, then we’ll go with the previous plan.”
+
+“Thank you,” I replied, my shoulders loosening a little. Lily had done so much for me, and now I would finally be able to pay her back. I was sure she would be sad I was gone… but she had a lot of other friends and a loving family. She was too caring, so it might take awhile, but she would be okay.
+
+An awkward silence stretched between us, Error eventually clearing his throat.
+
+“What else?”
+
+I hesitated for a second, before shaking my head.
+
+“That’s it.”
+
+Error stared at me, and I looked down to the ground, unease and anxiety bubbling up in me.
+
+“No other messages?” he asked, his voice subdued. “To family or anybody else?”
+
+I shook my head, ignoring the pounding in my chest. I didn’t want him to ask, to pry further, even if there was one other thing I should probably ask for. Helping Lily was the one thing I actually wanted, and… there was nobody else. Just her.
+
+There was a moment of quiet before Error cleared his throat.
+
+“Alright,” Error whispered. “I’ll make sure it’s done. I swear it on my Soul Gem. I’ll also look out for her, no matter what path she ends up on. I promise.”
+
+“Thank you,” I said, a wave of relief washing through me.
+
+“It’s the least I can do,” Error murmured. “I… If you’re going to restart the generator, all I ask is that you don’t begin restarting it until there’s only twenty minutes left before the third floor shelter loses power. I’m going to do everything I can to find other Magical Girls who might be able to help you. It’s a long shot, especially considering Command won’t want to divert resources, but I can at least try.”
+
+I nodded, looking back up at him and taking in a shuddering breath.
+
+“I understand,” I shifted my weight from one foot to another. “Um… about the actual plan. Do you have a map of the top floor? I need to hold out for five minutes, and if you have any advice…”
+
+“Right. I’ll pull up a map. Why don’t you bring in the officers so we can inform them of what’s going on.”
+
+Nodding, I went to the door, thinking about Error’s demeanor on the way. When I first met him, he was full of life and energy. It kind of reminded me of how Lily acted when she was hyper. Now, though, he seemed… tired. There was no humor in his voice, no teasing. It made sense, given the circumstances, but I wondered how many times he’d done something similar to this to look so… haunted.
+
+I shook the thought from my head as I opened the door, gesturing for the two officers to come in. They followed me back to the console at the end of the room where the display now held a map of the top floor, a small box in the corner of the screen relegated to showing Error.
+
+“Officers,” Error said, his voice crisp. “This is a map of the top floor. As you can see, the central area is a large, circular room with a dome of glass above it. This is where the shielding station is held. Mostly, the area is a garden of sorts with benches, statues, art pieces, and a few informational displays scattered about. There are four entrances from the outer ring of stores and offices into the central room, and each has a security door that can be closed. These doors are heavy duty, made of six inches of a silverite alloy. From the shielding station, you can close those doors, but-”
+
+“Excuse me,” Ji-woo interrupted. “I’m sorry, but if we’re talking about this, then…”
+
+“I’m going,” I said quietly.
+
+Ji-woo snapped around to look at me, and I looked away.
+
+“I have to,” I quickly added. “Nobody else can.”
+
+Ji-woo stared at me for a long moment before finally shaking her head, looking back to the screen.
+
+“Then I’m going, too.”
+
+I looked up at her with wide eyes, and she gave me a smile.
+
+“The plan is to hold out for five minutes, right? The more people there defending, the better the chances. Besides, after the five minutes have passed, we’ll have to escape by breaking through the Anathema. If I go with-”
+
+“No.”
+
+The word came from me with more force than I expected, but I didn’t flinch as I stared at Ji-woo with wide eyes. My heart was racing as I thought of Ji-woo coming with me. The woman who’d brought me hot chocolate, who’d talked to me nicely and hadn’t tried to pry. If she came with…
+
+An empty handgun sat in the pool of blood next to my empty magazine. It had belonged to someone. Someone who tried to use it to protect others. Someone who had friends, family, a dream. And now it was just…
+
+No.
+
+“It’s okay,” Ji-woo said. “We can-”
+
+“No,” I said again. “I go alone. Nobody else dies.”
+
+“We’ll make it out together,” Ji-woo assured me, pointing to a portion of the map. “Those are elevators right there, on the outer ring of stores. Once the five minutes are up, we can make a run for it and take the elevators down a few levels. We’ll emergency stop it between floors and wait for rescue. The Anathema shouldn’t bother us because they’ll all be rushing to fan out again after clumping into one spot, and the elevators are reinforced. I doubt any of the tougher ones will take the time to pry them open.”
+
+I glanced back at the map, thinking her plan over. Considering I didn’t have any alternatives, it seemed reasonable. I didn’t think it would improve my chances that much, but it at least gave me a small chance of surviving. But…
+
+“I’ll do that, then. Alone.”
+
+“I understand you’re worried,” Ji-woo said gently, “but you know I’m right. The more of us that go, the better, and-”
+
+“No!” I shouted, panic and anger flashing through me. “I have to do this, alone! I won’t let anybody else die because of me! Not again!”
+
+There was a stunned silence in the room, and it took me a second to realize what I said. Horror washed through me, and I felt my cheeks beginning to turn red with embarrassment and shame. I turned from them, looking down at the desk.
+
+“I, um… I meant…” I stuttered, eyes flicking to the map. “I can’t… I can’t do this knowing somebody might die. I just… can’t.”
+
+“It’s okay,” Error assured me. “I understand.”
+
+I looked up in surprise to see Error giving me a nod. He turned to look at Ji-woo, his jaw set and eyes steel.
+
+“Officer, as a Magical Guardian, I am giving you and every other officer in your shelter a direct order to not go with my kōhai or attempt to follow her.”
+
+Ji-woo’s eyes widened, but before she could say anything, Error held up a hand.
+
+“She is a new Magical Girl, and above all else, a person,” Error said, his voice turning soft. “If she were to make it out while you didn’t, how could she live with herself knowing you sacrificed yourself? She hasn’t had any experience in this war and hasn't lost anyone fighting at her side yet. If you really do care for her, then respect her wishes. Believe me, your presence there would only marginally improve the odds, and even then… It’s not enough to justify losing another person. Trust me, if it was, I would be all for it, but even a if all the officers in your shelter wen with her, it wouldn’t make a difference.”
+
+Ji-woo looked like someone had punched her in the gut. Her face twisted, and she looked away. Error stared at her for a moment, eyes flicking to Sergeant O’Malley who merely gave him a nod, his face set in emotionless stone. Error returned the motion before shifting his attention back to me.
+
+“Now. The elevators are a good idea. Here’s what I propose: you close all the security doors around the shielding station except for one, and you leave that one partially open. The Anathema might try to get through the other doors at first, but when they realize there’s an opening, they’ll naturally funnel that way instead of breaking down the doors. It will give you a good, single chokepoint to hold instead of having to worry about holding multiple entrances. Additionally, I know it’s taboo to ask, but considering the circumstances… I was wondering if you could tell me your fighting style and stats so I can give some advice on how you should approach this fight. I promise on my Soul Gem not to share this information and to sign a Geas after these Usurpations as extra insurance.”
+
+I glanced at Selene, and she simply gave me a nod of assent. I suppose it didn’t really matter if Error knew, not with how we were expecting this to end, but it was nice he was trying to make me feel better.
+
+[Reveal the basic parts of your special Augment as well,] Selene suddenly added. [It will give some context into your proficiency with guns.]
+
+“I’m level eight, ten Strength and Vitality, thirty Willpower, one Spirit, twenty-five Dexterity and Agility. Forty stat points to spend, thirty points for purchasing things. I use a nine-millimeter handgun and part of my Aspect bonus gives me a HUD with a targeting reticle. I have a first-aid, kinetic handguns, and an enhanced clothing Vault unlocked.”
+
+He raised his eyebrows letting out a small chuckle, the corner of his mouth raising the slightest bit.
+
+“Well, that explains some things. A gun user, huh? Rare, and I’m sure it won’t make people happy considering you’re already a Dark Magical Girl, but in this case, it works out very well. You’ll be able to shoot the Anathema as they squeeze through the doors. But with one arm to reload…”
+
+“Selene can slot in my magazines,” I quickly added, feeling an idea beginning to form in my head. “She handed me them during the fight with the Arachnomantis, but this could work, too. It might be slower and more awkward, though.”
+
+“I’d imagine so,” Error nodded. “Regardless, it’s the best option. Alright, my advice? Dump your Stat Points evenly into Agility and Dexterity. It’s only a small bonus, but better than the alternatives. So long as your Familiar focuses on dodging if she gets noticed, you won’t have to worry about remanifesting her. As for your other points, which we call Gate Points by the way, you don’t have many. However, I expect the central room containing the shielding station will have some Anathema to clear out. Probably not a lot, but it should give enough to buy you some ammunition, first-aid, and protective clothes. Don’t expect those clothes to defend against much, but they’re certainly better than nothing.”
+
+[I agree with the assessment,] Selene’s tails flicked. [We already have some protective clothes we can reuse, though a quick wash might be in order.]
+
+“Good. Now, after the five minute start up is over and the shielding station has fully activated, I would open the security door opposite of the one you left open. Hopefully, all the Anathema will have been drawn to the already open side and you can make a run to the elevators. Other than that… I’m not sure I have anything to add.”
+
+I bit on my lip, thinking over the plan as everyone else seemed to fall into a contemplative silence. The plan was actually decent, but…
+
+“How high level are the Anathema I’m going to be fighting?” I asked, and Error winced.
+
+“At the start? I’m guessing fairly low levels. I’d guess the max would be around low twenties, if the Arachnomantis was any sort of indication. The higher level ones have spread out towards the perimeter and are trying to break through our containment, so they’ll have to run the entire way and probably won’t make it, but they’re around level 100 with pockets of even higher. In the five minutes the Anathema will have to get to the shield generator, I’m guessing… maybe the level fifties will get there?”
+
+I nodded, unfazed. They’d said from the beginning this was a suicide mission, and I’d refused to let any hope kindle inside me. The plan wasn’t really to help me escape, it was to keep me alive for five minutes so I could give the final confirmation command. Anything else was… well, hopeful thinking, really.
+
+“Okay. If it gets bad, I’ll have Selene close all the doors to make sure I can at least get the shielding station activated.”
+
+Error’s jaw clenched tight, and he dipped his head in acknowledgement. I thought about it some more, thinking what else I could add to the idea. I would have a door with a small opening to fire at the Anathema as they came through. With the door already somewhat open, it would probably be easier for them to smash open further for their bigger variants, and I was sure I would be fighting around the shield station in a running sort of fight, like when I’d cleared out the first floor’s main area to get to the shelter…
+
+Two ideas bloomed to life, and I looked up at Error sharply.
+
+“You said I should wait until there were only twenty minutes left to start the process,” I glanced at Selene. “How much time does the shelter have left before it runs out of power?”
+
+[One hour, two minutes,] Selene responded.
+
+So I had about forty minutes to get up to the top floor and clear the Anathema in the shielding station’s room. Call it a generous ten minutes to sneak there, five to fight what few might be in the room… that could work.
+
+“Twenty minutes,” I said, looking back at Error. “At exactly twenty minutes left, I’ll start the process. I’ll get other supplies on the way.”
+
+“What were you thinking?” Error asked.
+
+“Alcohol,” I told him. “And points from whatever low level and lone Anathema I can shoot.”
+
+He gave me an inquisitive look, his eyebrow quirking upwards.
+
+“Okay? Setting aside the alcohol for a moment, what were you thinking of spending your points on?”
+
+My lips quivered slightly as a memory sparked equal parts warmth and longing in my heart.
+
+“Guns,” I told him. “Lots of guns.”

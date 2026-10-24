@@ -1,0 +1,469 @@
+In the command and control room of Arcadia’s Guardian Spire, Magical Guardian Error Machina’s eyes flicked across the five monitors on his desk as he soaked in the information displayed in front of him. The command room itself was huge, designed like a theater with dozens of rows gently leading down to a massive screen spanning the entirety of the opposite wall. Each of the rows held desks of sleek metal containing sharp angled computers, monitors, and other magitech devices. The lights were dim, giving way to the brightness of the monitors for the hundreds of operators working to save Arcadia from the unprecedented Anathema attack taking place.
+
+Error thought about that title, “operator,” while he adjusted the deployment orders for the Arcadian police forces around Usurpation Zone 03-06. Handler might have been a better name considering what they did, coordinating the various Guardians, Magical Soldiers, and police forces. Dispatcher would even work, though operators were expected to be able to do more than just direct forces. Research, analysis, drone support, and even acting as a communications network between teams all fell under the duties expected of an operator.
+
+And for the few operators like himself who were Magical Guardians, there was only more responsibility and work to be done.
+
+Error sighed as an alert popped up onto his screen, quickly tapping a button to engage the privacy field around his work station. He was the lead operator of a team consisting of ten other people, putting his desk a row above theirs and giving him space from any of the other team leaders, but he still enjoyed using the noise canceling dome of energy to help him focus when he had to take a call. The field itself appeared little more than a fuzzy orb around him, cutting the sound and vision of his surroundings, and once it was fully activated, he took the call.
+
+“Operator,” Error immediately replied as the line opened up.
+
+“Yo man, it’s Breakdance,” a man’s voice said through Error’s earpiece. “I’m done with that apartment building. Nothin’ more than a few thirties.”
+
+“Good,” Error forced himself not to sigh. “What about the next apartment on the block?”
+
+“Aw, man, come on, don’t do me like this,” Breakdance said teasingly. “There’s gotta’ be somethin’ a little higher level out there? At least give me some forties.”
+
+“Breakdance, that’s not how this works,” Error closed his eyes, trying to keep his urge to strangle the boy from his voice. “You get what you get. You’re not cleared for level-parity work, and we have reports of fifties showing up in some of the forty zones.”
+
+“Dude, the whole city’s on fire!” Breakdance yelled. “Now’s not the time to be followin’ some stupid rules! We all need to be doin’ whatever we can, man.”
+
+“Breakdance, you are free to deviate from your contract with Guardian Command,” Error replied, his voice turning sickly sweet. “However, that will render the bonus points you’ve been promised null and void. If you want to risk your life in unscouted territory, go ahead. Just don’t expect a medivac, reinforcements, magical support, or sponsored time with our contracted healers when you inevitably get hurt biting off more than you can chew.”
+
+It took a moment for a response to come, Breakdance evidently surprised by the thin, strained tone underpinning Error’s words. Error knew he was going too far, that his anger and frustration were getting the better of him, but at this point, he just didn’t care.
+
+“Geez, man,” Breakdance finally replied, dropping the whimsy from his tone. “Don’t gotta’ be rude. You know I’m just playin’.”
+
+“Now is not the time for fooling around, Breakdance,” Error snapped back. “We already have one Death Wish on the table, and we’re nowhere close to solving this mess!”
+
+There was a stunned silence on the other end of the line before Error heard Breakdance clear his throat.
+
+“Ah, sorry man, I didn’t know,” Breakdance mumbled. “There hasn’t been a notice yet, so… is there anything I can do?”
+
+“No,” Error sighed, rubbing the bridge of his nose. “Not unless you can stand up to a horde ranging up to level 150.”
+
+Another quiet ensued, and Error heard something like a slap.
+
+“Right, right. I’ll get on those apartments. The block will be cleared in the next… call it fifteen minutes?”
+
+“Don’t push yourself,” Error warned him. “It took you five just to clear that one building.”
+
+“Yeah,” Breakdance growled, “but that was before I knew we were losing someone… Is it anybody I know?”
+
+Error closed his eyes.
+
+“No,” Error whispered. “Complete newbie. She just contracted today.”
+
+“Fuck me. Make it ten minutes. Breakdance out.”
+
+The line disconnected with a beep, and Error deactivated the privacy field, the murmur of hundreds of operators communicating returning to him. If it wasn’t for the silencing runes built into the room to divide specific areas, the sound would be overwhelming. As it was, he could only really make out the conversations of his team below, and even those were mostly tuned out unless he deactivated the specific enchantment.
+
+Error’s eyes flicked back to the main display, the big screen that made up the wall on the far end of the room. Currently, it showed a complete map of the city of Arcadia. Symbols marked various squads of Magical Soldiers, police, EMS, and Guardians as they worked their way across the city. Most of the symbols were clustered around the circles of red marking the Usurpation Zones, with only the Guardians venturing inside. Well, them and a few Wardens, the elites of the Magical Soldiers.
+
+Of the many red circles, only one stood out to him above the rest. UZ 15-01. It was the first zone to officially appear on the island due to the shield generator responsible for that section failing, and it was also currently the biggest. The shield giving way had let the Anathema turn the outer perimeter of the zone into a virtual fortress, scattering all kinds of high level and dangerous Anathema to prevent Guardians from getting deeper inside.
+
+And it was in that incredibly fortified zone where his newest kōhai was currently heading to her death.
+
+A flicker of motion stole Error’s attention as his Familiar moved across his desk, a green turtle whose shell looked like it was made from hexagonal LED screens. The Familiar wore a top hat, a monocle, and an impeccably curled mustache adorned his face like it was the most natural thing in the world.
+
+[Sir, you seem to be letting yourself get distracted,] the British voice of Error’s familiar observed. [You have two requests for electronic support that came in sixteen seconds ago.]
+
+Error bit back a curse, and he called up his magic. With a flick of his will, a holographic keyboard appeared in front of him. The mouse on his computer’s screen responded to his thoughts, leaving his hand free to type away as he opened the various requests.
+
+The first request was for a camera view inside a store, and the other was for supplies. He chose the camera request first, noting the address deep into his mind before he called up his mana and began shaping it.
+
+“Find, Connect,” Error cast the spells in rapid order, magic pouring from him into his magitech computer, a focus item he’d spent more than 10,000 points purchasing to help empower his spells. What would have taken a normal operator several minutes to accomplish was executed in seconds as his magic worked through the Arcadia network and accessed his target through the Usurpation Zone’s usual communications barrier. A half-dozen camera feeds popped into life across Error’s monitors, and he found himself frowning at them. The feeds showed the inside of a gas station, but the lights were out, making it hard for him to see anything.
+
+“Observe,” Error added, and one of the cameras suddenly shifted, a highlight appearing over a dark mass. A moment later, a second camera did the same. Noting their locations, Error quickly contacted the request owner.
+
+“Fortune’s Fool,” a girl responded in a calm, smooth voice.
+
+“Fortune, I have two confirmed targets on the cameras. First appears to be a Winterbane Fiend hiding behind the counter, second is a Floran Deceiver near the fountain drinks. No view of the backroom, and the cooler camera is hazy. Estimated level range is in the sixties.”
+
+“Copy, operator. We’ll clear the store. No further assistance required. Fortune out.”
+
+The line went dead, and Error closed the camera feeds before moving on to the supply request. The request stated that a team of Guardians needed him to… open up some vending machine? Error opened the details and found it came from team Magical Cakes, a B-rank group of Guardians belonging to the guild of Guardians known as Maid Cafe.
+
+Checking on their operating time, he winced before calling up his magic again and began casting, silently incanting the spell names in his head. Find, Hack, Override… Infect Local. He didn’t bother casting them higher than their tier two adept variant, and the low mana cost of the basic spells was almost instantaneously recovered by his nearly fifty-nine mana regeneration per second.
+
+[Congratulations! Your Augment Digital Magic Affinity has leveled up to 44!]
+
+Error blinked the notification from his vision with a snort. In the past seven hours he’d cast more spells than in the entirety of the last three months combined. The level up was early, but not particularly surprising. With a quick thought directed to silencing further notifications, he pressed the button to call the team leader of Magical Cakes.
+
+“Cutie Pie,” an out of breath girl answered a moment later.
+
+“Cutie, I just opened all the vending machines in your food court. You should also take a break, though, you’ve been at this for seven hours straight. Caffeine and junk food isn’t going to keep you fighting forever.”
+
+“Thanks, Error,” Cutie replied, taking a deep breath. “But no can do. Not when there’s so much work to be done.”
+
+Error winced. Maid Cafe was one of the top Magical Girl guilds for a reason, recruiting only the most dedicated and passionate of teams into their ranks. Of the bigger guilds, it was also probably the one with the best reputation. Error was pretty sure he’d never heard anything bad about them except for how hard their members tended to push themselves.
+
+“Regardless, cleaning up the city is going to take a couple days,” Error responded. “Don’t push yourself. Some of the other backline Guardians and I have already had to step in to save some teams who didn’t know their limits.”
+
+“Roger that, Error. Maid Cafe already told us they’re pulling us out in another five hours by force if we don’t take a prolonged rest before then, but…”
+
+Cutie trailed off, a tense silence coming between the two.
+
+“Our guild contacted us and said a Death Wish is on the table,” she said, her voice thick with emotion. “From a complete newbie. That the only reason Guardian Command hasn’t sent out the notice is they don’t want anybody getting reckless.”
+
+There was a pause, as if she was seeking confirmation, and Error swallowed the bile in his throat.
+
+“You heard correctly,” Error replied, doing his best to keep his emotions from spilling into his tone. “Command doesn’t want people knowing, not when the worst we’ve had is some severe injuries requiring a month of healing. They’re afraid sending out the notice might… well, you know. I’ve been ordered not to send out the alert, but I won’t lie to anybody who's already found out.”
+
+Words and meanings passed unsaid in the quiet that followed. It was a conversation in itself, both Guardians struggling with what felt right and what they knew would happen. It gave Error a savage, bitter flash of triumph to know the Death Wish had already leaked to a few Guardians, but…
+
+In all honesty, Guardian Command wasn’t completely in the wrong. Error had seen it himself with Breakdance how the Guardians would react as a whole. They’d managed to avoid any deaths among Guardians so far, but it had been an extremely close thing. If word went widespread about the Death Wish and its circumstances, Guardians all over Arcadia would start pushing themselves to their limits.
+
+After all, losing a Guardian was already horrible enough, but hearing it was for a Death Wish from a complete newbie? A girl with no combat experience, no training, and no reason to give her life except that it was to save others?
+
+It would be a reminder to every Guardian about their first day contracting, about the joy and excitement they got to experience as a whole new world opened up to them. It was a dream made manifest, the chance to be a hero and the ability to use magic. It was the day their future opened up before them, and a future that was bright. For many Guardians, contracting had saved them in more than one sense, giving them a chance to live a life filled with meaning.
+
+But not for this girl. Not for a girl who had been given power only to be told to die with it all in the same day.
+
+She hadn’t been saved.
+
+She’d been condemned.
+
+Hearing about the day-one Death Wish wouldn’t just spark a fire in most of the Guardians fighting, it would ignite their souls. What was happening was the complete antithesis of what a contract should be, and at an instinctual level, it burned.
+
+“Error…” Cutie interrupted his ruminations, her voice quiet. “It’s not my place to decide what we do… but I don’t think it’s Guardian Command’s either. Being a Magical Girl, a Guardian, is doing what we think is right. That’s part of the reason why we were chosen, isn’t it? Because each of us has something special inside that pushes us to be more than just smart or strong. It pushes us to be good, even if it is dangerous or scary. If the alert went out, maybe some Guardians would push themselves too far. Maybe they will get themselves hurt or worse, but the thing is, none of that is on you or anyone else. It’s our choice what we fight for, and nobody gets to decide that but us.”
+
+Error’s throat felt tight as a flame lit up in his chest, burning away his weariness and replacing it with a strong, determined warmth. He knew it was probably more than just her words, that she probably had a Skill of some sort at work, but that didn’t mean that Cutie was any less right.
+
+“Thank you, Cutie Pie,” he breathed out. “I needed that. You really are a Pink, aren’t you?”
+
+A pure tone of laughter echoed on the other side of the line, bringing a smile to Error’s face.
+
+“Yeah, I guess so,” she giggled. “But somebody has to be. We all know how you Greens get if you’re left alone to brood too long.”
+
+Error barked out a short laugh, shaking his head. “Fair enough. Still… even if I send out the alert, I expect you and your team to take a break soon, okay? No funny business.”
+
+“Of course,” Cutie replied with exaggerated innocence. “Unlike some people, I wouldn’t dream of going against what Guardian Command says. Cutie out.”
+
+The call dropped before Error could retort, and he chuckled as his gaze turned back to his display. The amusement inside him began melting away, his smile dropping as his eyes turned back to UZ 15-01. Cutie’s words had done a lot to push away the feeling of despair that had grown inside Error, but in the end, it still didn’t change the situation.
+
+Error called upon his magic, creating his holographic keyboard in front of him even as he used his thoughts to flick through a few of the different windows displayed on his monitors. He checked the displays for what felt like the hundredth time, letting out a frustrated growl as he got the same answer back.
+
+[Sir,] his Familiar said. [You already have alerts in place to immediately contact you should the situation change. You are allowing yourself to become too distracted.]
+
+“I don’t know what else to do, Cipher!” Error threw up his hands in exasperation. “We have hundreds of Guardians fighting across the island, but nobody who could go and rescue her! We don’t have anyone available whose level is high enough to do it alone, and the strike teams are all radio silent while they’re inside the high level Usurpation Zones. The only chance that girl has is if a strike team manages to finish clearing their zone in the next twenty minutes. Even then, I’ll still have to convince them to go against command’s orders, mess up the official battle plan, and risk their lives fighting a horde of Anathema to save a completely new Dark Magical Girl!”
+
+[I understand the situation, Sir,] Cipher responded politely. [And I also understand that there is only really one strike team who you think would be up for the task. I am merely suggesting you refocus your efforts on what you can affect.]
+
+“I’m trying,” Error growled, leaning back in his chair. “But I just can’t get her face out of my head. Her expressions, Cipher. It’s like Zero all over again.”
+
+His familiar was quiet for a moment before letting out a huff of air.
+
+[Right then. If you can’t get her out of your mind, then perhaps you can at least work to help her as much as possible in the meantime.]
+
+Error frowned at that, straightening his posture as he frowned at his Familiar.
+
+“What do you mean?”
+
+[There is a pending censorship request regarding the young miss,] Cipher said, his voice quiet, and Error felt his blood freeze.
+
+A censorship request came directly from the Zenith when they found media of a Guardian’s real-life identity that would prove harmful or humiliating. The Zenith’s rationale was that a Guardian already had enough to deal with in their lives, and they hardly needed somebody making more trouble for them. With their advanced magitech, it was child’s play for the Zenith to observe and pick out anything that might cause trouble. However, as a concession to humanity, they had made a two-step system where the Zenith only identified the problematic media before passing it to a human operator to make a final judgment on.
+
+Mostly, the two-step system was in place because humanity wanted to be certain the requests weren’t abused for Guardians who got caught doing something troubling themselves. The requests the Zenith sent through, more often than not, had to do with sensitive photos or videos taken or shared without the Guardian’s consent. In the age where everybody had a camera and easy access to the internet, it was hardly surprising some people lacked common sense or decency in regards to other people. Sometimes, though… sometimes the request the Zenith sent through was something more than embarrassing or humiliating. Sometimes, it was something bad, something that needed to be deleted.
+
+And if a Dark Magical Girl was involved… Error knew all too well how bad some of the censorship requests could be.
+
+[This video was caught during her vetting process,] Cipher explained gently. [Seeing as you have already seen her personal identity, the Zenith think it would be best if you dealt with it. The less people involved, the better.]
+
+Error clenched his teeth, but nodded slowly. Whenever a censorship request was processed, the Guardian involved was always informed of the fact a troubling piece of media had been reviewed. The operator responsible for the review was required to sign a Geas not to reveal anything about what they’d seen or who was involved, but… well, it didn’t really help the fact that somebody had still seen something they weren’t supposed to.
+
+“How bad?” Error asked. “On the scale?”
+
+[No need for the whisky, I should think. While the video is disturbing and… disheartening, it is mostly due to the implications, not the content.]
+
+Error felt himself relax as some of the tension left him. Not as bad as some, then. It was a bitter consolation, but it was better than nothing. Error did a quick check to make sure he had no more requests pending before he reactivated the privacy field around his desk. Then he took a deep breath and steeled his will.
+
+“Show me.”
+
+His screen flickered and the video played.
+
+Error watched as the cellphone footage began to play out before him. At first, Error was confused as to what he was watching, but then a familiar girl walked into frame in the distance. The camera zoomed in on her as she stopped moving near an object, and then…
+
+What felt like a knife slipped through Error’s ribs, and he sucked in a breath, his mind racing as a half-dozen realizations came to him at once as he watched the scene unfold. The video continued as the person filming stayed back for another minute before rushing closer to the girl, and several mocking voices began throwing insults and accusations. The girl tried to get away, and Error’s heart leapt into his throat as things briefly became physical. After some struggling and more insults, the girl managed to slip free, running away while the person recording laughed.
+
+The video ended a second later. It couldn’t have been more than a few minutes long, and yet it still had stolen Error’s breath away. He stared at the screen for a long moment, forcing himself to just breathe as his heart pounded.
+
+“How widespread is this?” Error asked, his voice dry.
+
+[It is remarkably contained. It has yet to be uploaded anywhere, and the file only resides on one cellphone and a computer. The video has been played six times, however, meaning others may have been shown the footage.]
+
+“I want the file corrupted, not deleted,” Error told his Familiar. “Send out the usual announcement after these Usurpations that an Arcadian security update may have corrupted some files. That should provide some cover.”
+
+[Of course, sir. The computer file we can corrupt immediately, as it is outside any of the ongoing Usurpations. The cellphone, however, is within one, and…]
+
+Cipher trailed off, and Error raised an eyebrow at his Familiar.
+
+“What is it?”
+
+[By all accounts,] his Familiar sighed, [the owner of the cell phone and chief antagonist of the footage is currently in the shelter our young Guardian is giving her life for.]
+
+Error’s hands clenched into fists, fury flashing through him. Of course they were. Why would the universe have it any other way?
+
+“Fine,” Error shook his head in disgust. “Just get to the file the second they get out and have an internet connection.”
+
+[Of course, sir.]
+
+A silence fell over the two of them, and Error found himself thinking back on the girl, how she had accepted the Death Wish so easily. After what he’d just seen… her final requests… It pulled at his heart, and he couldn’t help but think of his own sister. Just imagining her being put in the same position this girl had…
+
+“Cipher, remind me to give my little sis a big hug when all this is over,” Error said, bowing his head over his desk in exhaustion.
+
+[With the way you dote on her, I hardly think the reminder will be necessary, sir.]
+
+Error let out an amused snort.
+
+“How are the defenses around her looking, anyway? It’s been a bit since I resummoned any of the conjurations.”
+
+[About that, sir… perhaps now is not the best time to inform you, but she left your house a few hours ago.]
+
+“What!?” Error’s head snapped to Cipher. “Why didn’t you tell me? Where is she now?”
+
+[Sir…] Cipher said carefully, his tone calm. [I didn’t tell you because I knew this would be your reaction, and she is currently extremely safe. You have multiple conjured creatures guarding her in case of another sudden set of Usurpations, though the likelihood of that happening and her not being able to get to another shelter in time is extremely low. Not only that, but she went to one of the field hospitals the Magical Soldiers set up to work as a volunteer. As far as safe places go, there are few better currently in the city.]
+
+Error’s racing heartbeat began to slow, and he took a deep, calming breath. Volunteering at a field hospital? That did sound like something she would do, even if she would be her usual shy, stammering mess while she helped. She had a good heart, but her nerves and anxiety, they just didn’t always cooperate. It was part of what made Error so protective of her, but… he couldn’t coddle her forever, could he?
+
+“Okay,” Error breathed out, settling back into his chair. “I see your point. Still, don’t hide something like that from me again, Cipher! And let me know when the conjurations need to be refreshed. I’ll double the guard, just in case.”
+
+[Of course, Sir. It just seemed you had enough on your plate. Another distraction seemed unwise.]
+
+Error grunted, waiving a hand in a vague concession. Cipher wasn’t exactly wrong, and Error was all too aware he needed to give his sister space to grow into her own person. He couldn’t always be there to protect her…
+
+But, these days, it seemed he couldn’t be around to protect a lot of people.
+
+Error looked back to his monitors, focusing on the display with the names of the various strike teams. Timers ticked next to each name, marking how long they’d been inside their assigned Usurpation Zones and out of contact. The communication blackout was annoying but absolutely necessary. The magitech communicators capable of piercing an Usurpation Zone’s interference field used small bursts of mana to contact the outside world. The only problem was that some specialized Anathema were capable of sensing those bursts of mana and could track down the source.
+
+Hence the communications blackout. It was the only way to be sure the Guardians inside the zone weren’t being tracked.
+
+Error’s eyes flicked to another monitor, displaying the names and status of other high level Guardians who weren’t affiliated with Arcadia’s strike teams. Most of them were in dangerous areas of their own and following the same protocol, but a lot weren’t even in Arcadia. The highest level Guardians were actually holding back and defending the mainlands, just in case the attack on Arcadia was some sort of diversion.
+
+Strategically, Error knew it was the right call.
+
+It just also meant there was nobody he could beg for help.
+
+So once again, Error felt his eyes go back to the list of strike teams, stopping on one team in particular. They had been in their zone for almost the entirety of the Usurpation, which was unsurprising considering the miasma levels they’d detected. Worse, it was over a fairly large area, meaning the strike team had a lot of ground to cover and dangerous Anathema to face.
+
+Still, Error knew of all the teams out there, this one was his best hope.
+
+“Come on, Fantasy Fatale,” Error Machina whispered. “Where are you?”
+
+———————
+
+Night had begun to fall on Arcadia, and in the growing darkness, a Magical Girl stood atop the traffic lights of a four-way stop deep within the city. She looked to be in her late teens or early twenties, wearing brown, tight fitting leather armor over dark green clothes. An emerald cloak wrapped around her, the hood pulled over her head. Her attire was reminiscent of a fantasy ranger’s except for the glaive she had resting across her shoulders. The pole of the glaive was made from an immaculately smooth, dark wood that led up to the wicked, single edged blade at its far end. The silver metal of the blade shone like liquid, an engraving of flowers delicately etched onto its otherwise unblemished surface.
+
+Magical Girl Everglaive suppressed a sigh as she watched the battle taking place below her, her team member and friend dodging back from her opponent as she prepared her next spell. The Anathema she faced was easily ten feet tall and mostly humanoid looking. It had a muscular frame and black, oily skin with four tentacles writhing behind its back. The monster’s face was smooth and featureless with no eyes or nose, only a large, grinning mouth filled with pointed teeth that matched the claws on its overly large hands.
+
+The Anathema let out a roar deep enough that Everglaive felt it in her bones, and then it charged once again, going after its nimble prey. Although she kept an eye on her teammate, Everglaive was fairly sure the fight was as good as over. The creature’s once immaculate skin was covered in dozens of wounds oozing black blood, and its movements had slowed considerably as the nearly thirty minute battle had waged onward. Three of its four tentacles had been severed, and barring any critical mistakes, Everglaive doubted she would have to step in.
+
+Down one of the other streets, a flash of scarlet lightning bloomed into existence followed by a thundercrack that echoed in the night. Idly noting the position of the lightning, Everglaive guessed her other teammate had finally finished her own prey. Normally she would have chastised her for using such a loud spell now that the sun had fallen, but with most of the city in lockdown and dozens of such displays happening regularly across the city, Everglaive figured she could let it slide this time.
+
+As she continued watching the Anathema below her rampage, her earpiece suddenly beeped to life, the manaless radio communications activating as one of her teammates contacted her.
+
+“Ever, I’ve got the last one above your location. Looks like it’s about to dive bomb straight at you,” a man’s deep, bass voice rumbled in her ear.
+
+“That would explain why my Danger Sense has been tingling for the past five minutes,” Ever murmured back, not bothering to look up.
+
+“Looks like he’s a real admirer,” the voice chuckled. “You want this one?”
+
+“No,” Everglaive said. “You can do the honors.”
+
+“You know, if you keep letting us take all the experience, the rest of us are going to catch up to you soon.”
+
+“No,” Ever replied, looking up as her Danger Sense Augment began to scream in the back of her mind. “You won’t.”
+
+In the darkened sky of Arcadia, Ever was barely able to make out a form diving toward her at speeds that made the object more of a blur than a shape. If it was the same as the other flying creatures they’d dealt with in their zone, it would be another Tidecaller Siren, a half-human and half-fish with long wings growing from its lower back. Everglaive watched the shape approach her at what most would have found to be an alarming speed, and sighed as she saw a glint of golden light shine from a nearby rooftop.
+
+A moment later, a golden bolt of light streaked through the sky, intercepting the monster with perfect precision and halting its momentum completely. The siren gasped in shock a hundred feet above Everglaive, briefly suspended in the air as it looked down at the arrow of golden energy sticking through its chest. Before the siren could react, the arrow exploded in a brilliant flash of yellow light that gave off the clear tone of a bell chime.
+
+The explosion of energy disintegrated the siren’s entire midsection, killing the Anathema instantly and sending its remains into a freefall. The two halves fell to either side of the traffic pole Ever stood on without touching her, crashing to the ground with wet, squelching thumps. Ever suppressed a snort at her teammate’s show of control and power, turning back to the battle on the ground. She’d never truly shifted her complete attention from it, not when it was the lowest level member of her team facing against a Seed Bearer.
+
+She needn't have worried, however. The Anathema was currently suspended mid leap, four hovering orbs of water engulfing its hands and feet to keep it floating above the ground. The severed stumps of the monster’s back tentacles flailed uselessly as it struggled to move, yet the effort proved futile.
+
+Down on the road, Ever’s teammate strode towards the creature. She looked to be in her late teens with a slender, delicate build. Her skin was a pale blue color, and white cloth with intricate aqua colored embroidery wrapped around her in a short, toga-style dress. Her aqua hair was long and unbound, gently flowing like gentle waves of water as she moved, a trident of blue crystal clutched in her hand. Each of her steps made the short skirt of her dress flutter with a gentle grace around her long legs, the leather sandals that laced up all the way to her thighs only emphasizing her delicate beauty.
+
+Ever’s teammate was breathing heavily as she closed to within ten feet of the Anathema, raising a slim hand to point at the monster. A teal-colored magic circle bloomed to light beneath her, the circle’s design made from curling lines that gave the impression of a dozen intersecting whirlpools. Everglaive felt the buildup of mana from where she watched, and she gave a silent nod as she judged the spell level to be just strong enough to finish off the creature.
+
+Three seconds later, the magic circle vanished beneath her teammate only to reappear directly underneath the suspended Anathema. From the center of the circle, a geyser of water erupted in a pressurized beam as thick as a telephone pole, splitting the Anathema from groin to head in an instant. The geyser lasted only for a handful of seconds before dissipating, the monster falling to the ground in two halves along with the orbs of water that had been holding it in place. Ever adjusted the hood of her cloak as it began to rain, and she very carefully did not wonder if it was water or Anathema blood falling on her.
+
+The briefest of moments later, a snap echoed through reality. The air around her suddenly felt clearer, and the slight, tingling tension in her muscles dissolved as the Usurpation Zone blinked out of existence.
+
+[Quest Completed! - Defense of Arcadia: Usurpation Zone U19-01]
+
+[Description: Dozens of Usurpation Zones have appeared throughout the city of Arcadia. Work with Guardian Command to clear out the worst of the zones, beginning with U19-01. This is part of a multi-stage, cooperative quest. Each objective cleared will contribute to the main Defense of Arcadia quest line resulting in additional rewards once the situation is cleared.]
+
+[Difficulty: Medium]
+
+[Reward: 5,000 Points]
+
+[New Point Total: 11,670]
+
+The quest notification popped into her vision and was quickly dismissed. It was a decent chunk of points for the relative ease with which they’d completed the zone. Sure, it had taken them well over seven hours, but that was with them being methodical and careful in their mission. Even though some of her teammates would have preferred to rush things, Ever had found the slower, safer route tended to pay off in the long run.
+
+Reaching up to her earpiece, she sent a spark of mana into the device to reconnect it to the main communications network. Hopefully Guardian Command would let them get a rest in before-
+
+“Guardian Everglaive!” a woman’s voice instantly said into her earpiece as a call was instantly forced through. “Please listen carefully and don’t accept any-”
+
+A burst of static cut the call off, only for the chime of another call being accepted to come through.
+
+“Ever, it’s Error,” a familiar voice rasped. “I need your help.”
+
+Ever paused for a moment, glancing up as the rain from her teammate’s geyser finally started to slow down. The fact that command had tried to instantly contact her only to be cut off didn’t bode well. Worse, she’d known Error for almost six years now. He didn’t ask for help lightly, and the way he sounded… It reminded her of times she would rather forget.
+
+She considered her options for a moment before making her decision.
+
+“I see,” Everglaive murmured. “How bad?”
+
+“It’s a Death Wish.”
+
+The air left Ever’s lungs, her muscles clenching instantly. Had the battle for Arcadia truly gotten so desperate? The briefing had said Arcadia was covered in Usurpation Zones, but the vast majority of them were relatively low level. The Familiars, Zenith, and Council had developed a battle plan that seemed like it would progress the defense of the island at a relatively safe and steady pace, but if a Death Wish was on the table, it only meant something had gone very, very wrong.
+
+“Hold,” Ever ordered, and using her mana, switched her communication channel.
+
+“Team, form up on me, priority orders incoming,” she ordered calmly before switching channels again.
+
+“Whiplash, spool up and land on a building near my position, prepare for priority orders.”
+
+“Roger that, Everglaive, show us three minutes out,” her strike team’s helicopter pilot instantly replied, and she switched channels back to Error.
+
+“Alright, Error,” Ever said, keeping her voice smooth and cold. “You have three minutes. What’s our status?”
+
+“Retaking of the city is progressing smoothly, no fatalities, but do you remember that Usurpation Zone that showed up way before the others because of the shield failure?”
+
+“Affirmative.”
+
+“Well, long story short, the shield failure happened because someone was siphoning power from the mana generator. When the shelters started coming online and drawing power, the shielding station detected the tampering, and that’s what caused the shutdown.”
+
+Everglaive frowned, absently noting the two shapes blurring towards her position as her team reformed. Her third teammate was already waiting beneath the traffic light Ever stood upon, leaning against it as she regained her breath.
+
+“I see. How are we aware of this information?”
+
+There was silence on the other line before a sigh finally broke through.
+
+“In that zone, a girl got caught outside the shelter trying to save a kid when the shield went down. Turns out she was a candidate, and she fought off an Anathema but had to do an emergency contract afterwards. She got to the shelter and contacted us.”
+
+Ever felt an eyebrow raise. Fighting off an Anathema as a civilian was no small feat, but it made sense that someone capable of doing that would have already been a Magical Girl candidate. The emergency contract implied she’d been injured pretty badly, but that wasn’t very surprising either.
+
+What worried Ever was she was being told all of this in the context of Error explaining the Death Wish. A pit had already formed in her stomach, but she refused to let the emotion rule her thoughts.
+
+“Continue,” Ever said, thankful that Error seemed to be giving her time to process.
+
+“Ever, she was on the third floor but ended up having to go to the first floor shelter because the one on hers activated its emergency shield. She had to escort the kid she originally went out to save the entire way, too.”
+
+Everglaive’s gut twisted further. That sounded like a nightmare, contracting and being forced to immediately fight for not only your survival, but also that of a child without any training? Ever wasn’t sure how-
+
+“Wait,” Ever said, her eyes twitching as a realization sent a cold shiver down her spine. “If the shelter activated their emergency shield-”
+
+“They have no way to get power with the shielding station down,” Error confirmed her fears, his voice increasing in pace to a frantic babble. “This girl’s entire class is trapped in that shelter. They were on a field trip to the mall when this all went down, or something. Anyway, this new girl and I didn’t realize the power supply being tampered with was what caused the shield to go down. So, she went down to the mana generator and restarted it. It was only after that we realized what the real problem was, and if she wanted to save everyone in that shelter, she would have to go directly to the shield station. But restarting the station requires a manual activation to start the sequence and a second at the end, and with the station drawing up that much mana-”
+
+“She’ll be lighting a beacon,” Everglaive murmured, dread curling inside her. “All the Anathema in the zone will be drawn to her.”
+
+“Yes… It’s a Death Wish level quest, Ever, and there’s nobody else I can turn to. Command doesn’t want to risk any forces for one girl, not when the city is already under siege. They won’t even let me send out the Death Wish notification! I’m begging you, Ever, help her. You and your team are the only ones who are strong enough, and…”
+
+He trailed off, and Ever realized her heart rate was beginning to race. She hadn’t heard her friend this panicked in a long time. She understood he was upset and desperate, anyone with half a heart would be given the circumstances, but…
+
+“Error, what aren’t you telling me?” Ever asked calmly, leaning into her Leadership Augment to keep her composure.
+
+Error cleared his throat, his next words coming out with a dry rasp.
+
+“She’s a Dark, Ever. She did all this without her Astral Shift. She defeated a fucking level twenty-one Arachnomantis guarding the mana generator. She lost her arm on the way back to the shelter because the shield station didn’t restart and clear her path, and now she’s walking to her death. To top it all off, Command won’t even let anybody even know what’s happening. Ever, if you heard what her last wishes were…”
+
+Error’s voice cut off as he choked up, and Everglaive felt herself close her eyes as she processed the information, a surge of emotions drowning out the world around her.
+
+So.
+
+It was a new Dark Magical Girl.
+
+Her first day.
+
+She already fought something that should have killed her.
+
+She lost her arm.
+
+And now she was going to sacrifice herself with no hope of surviving.
+
+The memory of Ever’s first day as a Magical Girl flashed through her mind.
+
+Before the contract, she had always been tense. It was the tension to always be perfect, to be in control. She’d watched and reacted to things with care and planning, striving to never make a mistake. Every step was delicately placed, and every breath she took was always… shallow.
+
+Then a hummingbird made of wood and metal had shown up, and everything changed. By the end of her first day as a Magical Girl, after the explanations and first steps, she felt like the world had opened up. No longer was it pushing against her, trapping her into being the essence of perfection. The constant tension wrapping around her muscles had disappeared, and she’d learned it was possible to just relax and breathe.
+
+Ever’s first day changed everything for her, and she often felt like it was that day her life truly began.
+
+This girl’s first day would change nothing for her, and it would be the day her life ended.
+
+Ever’s mixture of emotions and racing thoughts coalesced, fury and revulsion snapping into existence inside her, cold and sharp as it froze the blood in her veins. Her mana reacted, exploding in a shockwave of green light from her before she could regain control. She opened her eyes, forcing herself to resume breathing as she reined in her magic. She only vaguely noticed her teammate below reacting, each of them snapping into a combat stance on pure reflex, and a flicker of shame washed through Ever that she’d lost her composure.
+
+“I see,” Everglaive finally said, struggling to keep the emotion from her voice.
+
+“I know I’m asking a lot,” Error cleared his throat. “Surviving the horde that will come your way won’t be easy even with your levels, and-”
+
+“Error, stop wasting time,” Everglaive murmured, her words frost on a midnight wind. “Tell me where she is and how much time I have.”
+
+There was a startled silence, but Ever didn’t regret her tone. There was only so much she could take, and between this poor girl’s circumstances and hearing her friend like this again… She needed Error to focus. Not just for his well being, but for the girl they both needed to save.
+
+He wasn’t the only one with regrets, and this time, things would be different.
+
+“I just sent the coordinates to your helicopter,” Error replied. “If you went straight there, you would make it just before she’s scheduled to start the shield generator, but-”
+
+“We’d be intercepted the moment we entered the zone,” Ever nodded. “Flying Anathema would swarm us. We’ll have to fly over the zone and drop down. It won’t give the flying types any time to intercept us, and all the anti-air Anathema that would normally keep us from using this strategy will have been pulled out of position by the shielding station’s start-up sequence.”
+
+“But then you won’t make it in time. You’ll have to fly over 10,000 feet high, and descending down will take too long.”
+
+“Only if we take the helicopter,” Ever said calmly. “We’ll combat drop. It shouldn’t take us more than 50 seconds to reach her. Less if we use magic to fall faster the entire way.”
+
+“From 10,000 feet? Ever, that’s-”
+
+“The only way we have a chance of saving her, if we really are that short on time,” Ever told him. “We can manage, between our stats and support magic, especially with our Blue. Don’t worry about us. Just focus on what you need to do.”
+
+Error went quiet for a moment, and Ever began to hear the faint hum of her team’s helicopter drawing closer.
+
+“Okay,” Error finally sighed. “Are you sure your team will be up for this, though?”
+
+“Error, you know them,” Ever chided him softly. “My team consists of a battle maniac, a guy with a heart of gold, and one of the most blue Magical Girls a Blue can be. The danger isn’t the issue, not when it's for something like this.”
+
+“No, I suppose it isn’t,” Error took a deep breath. “Okay then. I… I need to do one quick thing. I’ll contact you again in a minute, and we can form a more detailed plan while you’re enroute.”
+
+“Agreed,” Ever nodded, and the line went quiet with a click.
+
+[New Subquest! - Defense of Arcadia: Death Wish Rescue]
+
+[Description: A new Guardian has been tasked with a Death Wish. Work together with Error Machina and any other forces to rescue her as she restarts a shielding station. The thickness and potency of Miasma in the Usurpation Zone suggests there are many Anathema but none higher than level 150. Defend her from the oncoming horde and extract her from the area.]
+
+[Difficulty: Very Hard]
+
+[Reward: 20,000 Points]
+
+Everglaive blinked at the point reward before dismissing the notification from her sight. It was the single largest quest reward she’d ever personally seen, and she was pretty sure the only thing preventing it from being higher was her level. It was a nice incentive, but she hardly needed it. Not when a life was at stake, and not when the person in danger was so willing to sacrifice her own life to save others.
+
+Ever shifted her balance and was about to jump down from her perch on top of the traffic lights when she felt a wave of mana wash over her. It was a tingly sensation, like that of static electricity forming, and a moment later, the emergency loudspeakers scattered about the city squealed to life.
+
+“Attention all Guardians of Arcadia, this is Error Machina,” her friend’s voice echoed through the city. “This is the official notification that a Death Wish has been issued.”
+
+A silence fell over the city. The distant sounds of spell detonations, and even the gunfire from Magical Soldiers quieted as the city held its breath. Death notifications were usually delivered through the magitech communicators, but by hacking directly into the city’s emergency loudspeakers, he’d made sure every Guardian, Magical Soldier, police officer, and any citizen outside of a shelter knew what was happening.
+
+And the death of a Guardian was always a big deal, maybe now more so than ever. Every year since the beginning of the Anathema war, humanity had lost less and less Magical Guardians, growing stronger and more proficient at keeping the monsters at bay. Last year, only 173 Guardians had lost their lives. That amounted to about fourteen per month in the entire world.
+
+And with a Death Wish, one of those fourteen for this month had all but just been confirmed.
+
+“A strike team is attempting to rescue her, but by the time they get there, it may already be too late.”
+
+Ever’s hand clenched around her glaive hard enough that the enchanted wooden pole creaked. Whether they made it in time or not was the only thing she couldn’t control. But if the girl managed to just hold on…
+
+If Ever could reach her, she would live. Of that, there was no doubt in Ever’s mind.
+
+“Her name… is unknown. She never got a chance to pick one because today is her first day.”
+
+The silence in the city became palpable, and Ever closed her eyes. For a shocked moment, nothing happened.
+
+Then, below her, three different bursts of mana exploded into existence.
+
+The first mana signature felt like a whirlpool opening up in an endless, beckoning maw that stretched to the bottom of the ocean itself. The second felt like the low growl of an ancient and massive creature awakening, its predatory eyes opening as it searched for what had disturbed its slumber. The third and last burst of mana felt like a storm breaking open the sky, the heavens themselves ripping apart in a web of endless, crackling lightning.
+
+As quickly as the bursts of mana came, they disappeared, vanishing from existence as the owners of the mana reined in their emotions and magic. The air itself seemed to ripple for a moment before settling, and Ever imagined other Guardians were having similar reactions across the city. She could hardly criticize their lack of control when she herself had reacted the same way.
+
+“What more needs to be said?” Error’s voice echoed through the city. “Just know that while you are fighting out there, the least of us has been asked to do what only the best of us could… and she did not hesitate. Not even for a second. Error Machina out.”
+
+The loudspeakers went dead, and before Everglaive could consciously place what she was doing, she had raised her hand upwards. She gathered her mana and cast a spell as the pressure in her chest built around her heart.
+
+A flare of green light shot from her hand, rocketing up into Arcadia’s sky. Only when it had reached far above Arcadia’s skyline did the simple spell explode, turning into a glowing star of emerald light.
+
+A second later, three more flares shot up from under her. Red, yellow, and blue flashes joined her own. Then a purple flare from across the city went up. Then a pink and a white. Then more. Then dozens. Flares went up from across Arcadia as Guardians sent up their own signals in a seemingly endless stream, and soon the darkness had all but disappeared.
+
+1,075 stars hung over Arcadia in defiance, and Everglaive swallowed down the surge of pride and pain that washed through her at the tribute. Knowing that her helicopter would be in position to pick her up soon and that she still needed to brief her team, Ever forced herself to close her hand and release the spell. Her emerald star winked out of existence, and almost in unison, every other star flare followed suit.
+
+The light of a thousand stars died, and in that moment, the defense of Arcadia ended.
+
+And the war to retake it began.
