@@ -1,0 +1,269 @@
+I was still in need of workers and defenders. My apartments were a wise investment, likely to create useful creatures in the long run, but that’s all they were. An investment.
+
+Wisdom was knowing the right balance of long-term and short-term thinking. In this case, I’d set a good foundation with the slime gourds, slowly soaking in mana to augment my own natural production. And I’d created a small ‘feeder’ biome from which to draw interesting specimens– already, there was violence in the apartments, the newly created insects contesting fiercely for space.
+
+A large, moribund spider covered by jet-black chitin had managed to force its way to the deepest area, overcoming the massive leaf-green mantis that had been guarding it. Now sticky funnels of web obstructed the path for any challenger…
+
+But now, I needed to focus on creating useful servants. If it meant spending all my accumulated mana and sinking back into sleep, that would be acceptable. The joy of having servants was that they could continue to act in my absence.
+
+I was most interested in the lemurs and monkeys. They had opposable thumbs and bright little minds, which I could bend to my service. But they avoided the farm– the memory of the man who lived here and his tendency to hurl stones was still fresh for them.
+
+I needed a way to lure in what I intended to kill.
+
+Or– a second option– I could attempt to complete the sun-quest I had been given. It would vanish as soon as the sun dipped below the horizon.
+
+But if I could complete it before then, I would acquire a free Schema. Potentially one that would provide me the servants I needed.
+
+I considered, briefly. The best course seemed to be aiming for two birds with a single stone: progressing the quest while trying to lure one of the hapless creatures near.
+
+For a moment I deliberated…
+
+Aha.
+
+Songbirds.
+
+I had them among the rooftops, and many of them had a crude skill in mimicry. I could instruct them to mimic the cries of the monkeys and lemurs to lure them closer…
+
+And to accomplish that, I first needed to consume one.
+
+This was easily done.
+
+There was a kind of mealy, thick-rinded fruit in the jungle nearby, and growing among the weeds surrounding the fence. It was nearly inedible due to a mild caustic agent within the flesh.
+
+At the same time, there were sweet-scented tree blossoms that produced small red fruits the birds found delicious and would frequently fight over.
+
+I merely needed to combine the two and exaggerate the caustic agent – creating a sweet-seeming hidden poison.
+
+– Schema Absorbed (Common) –
+
+Bitterburn Pawpaw Tree
+
+A scrawny tree that produces heavy, thick-rinded fruit with large inedible seeds. A bitter caustic fluid lurks within the flesh, and was distilled down to poison for arrows in the ancient past.
+
+Level 1.
+
+Relevant Traits:
+
+Caustic Bile (Fruit): Level 1
+
+Antiseptic Properties (Bark): Level 1
+
+Deep Roots: Level 1
+
+—
+
+Cost: 4 iota.
+
+– Schema Absorbed (Common) –
+
+Foolsweet
+
+Flowers known for their scent’s similarity to vanilla. Produce small fruits with a sweet flavor; the seeds can be aged or roasted to produce a very mild stimulant.
+
+Level 0.
+
+Relevant Traits:
+
+Sweet-Scented: Level 1.
+
+Multiple Fruit Chance: 61%
+
+—
+
+Cost: 0.3 iota.
+
+Combining the two was simple. The first choice to combine always lent its overall ‘shape’ to the creation, so I choose the small flowers. Since they were such low-level creations, I had no issue selecting for the two traits I wanted.
+
+– New Schema In Progress –
+
+Foolsweet x Bitterburn Pawpaw Tree
+
+Level 0.
+
+“Candy Foolchoke”
+
+Relevant Traits:
+
+Caustic Bile (Fruit): Level 1 [Upgrade: 5i]
+
+Sweet-Scented: Level 1 [Upgrade: 5i]
+
+Thorns: Level 1 [Upgrade: 5i]
+
+—
+
+Additional Wildcard Trait [Unlock: 10i]
+
+Additional Random Precursor Trait [Unlock: 10i]
+
+Cost: 1 iota
+
+The addition of thorns from the wildcard was excellent– it would keep the flower itself from being devoured. I pumped mana into caustic bile and sweet-scented, raising each for 5, and then again for 10. The cost threatened to sink me into stupor, but I quickly consumed several slime gourds to keep myself conscious.
+
+The flowers took on the shape of thistly, tufted grasses at first, climbing up as green shoots armored by tiny spiked hairs. At the top they developed a half-dozen buds, some of which blossomed open into white, sweet-smelling flowers in the shape of stars, and some of which turned redder and redder until they had become tempting berries.
+
+It did not take long for the first songbird to hop along on its scaly feet, prodding about in the thatch of the rooftop for worms. It found the berries and the scent of the flowers intoxicating, but shied nervously from one foot to the other for a second, confused by their sudden appearance.
+
+It was just smart enough to remember there’d been no such flowers yesterday– that it had never seen these berries before in its short life.
+
+Still…
+
+The scent was truly delicious. A rich vanilla perfumed by hints of jasmine…
+
+It hopped forward, pecked a berry free of the stalk, and tipped its head back.
+
+Within seconds it was dead.
+
+– Schema Absorbed –
+
+Islander Cuckoo
+
+A large and clever bird that feasts mostly on nuts and berries, hiding under the canopy from more agile flying predators. Famous for infiltrating the nests of other birds and hiding its own young among their brood.
+
+Level 1.
+
+Relevant Traits:
+
+Mimicry (Language): Level 1
+
+Advanced Intelligence (Linguistic): Level 1
+
+Bite Strength: 20 Mpa
+
+—
+
+Cost: 7 iota.
+
+Living creatures were vastly more expensive than plants, but I had already recouped part of the cost by consuming the bird’s corpse.
+
+In all honesty it would have sufficed to simply recreate the bird as one of my own creatures, pliable to my will. But the sun-quest wanted me to create more specimens of my own design.
+
+So I briefly considered what traits would be wise to add to such a bird.
+
+It was already very intelligent, and capable of speech. These traits were my primary concern. They also didn’t leave space for this creature to become a killing machine; the limited slots encouraged me to specialize each Schema I created. Even its bite strength was mostly for cracking nuts.
+
+My options were limited. There was a compatibility score to any combination I attempted to make, representing the difference between the precursors. The lower it was the more mana the final result would cost.
+
+The cuckoo’s compatibility with my plants and insects was low.
+
+But I had my methods.
+
+Nesting in the huts crude chimney was an enormous tabby owl. While this matriarch was uninterested in my poison flowers, it was nesting over a clutch of speckled eggs.
+
+I simply consumed an egg to record the owl’s characteristics.
+
+The owl was compatible, and its traits made it a proficient aerialist, keen-eyed, and sharp of hearing. Any of those I would accept as fitting traits for my new creation.
+
+– New Schema In Progress –
+
+Islander Cuckoo x Great Wood-Boring Owl
+
+Level 1.
+
+“Nocturne Cuckoo”
+
+Relevant Traits:
+
+Mimicry (Language): Level 1 [Unlock: 5i]
+
+Advanced Intelligence (Linguistic): Level 1 [Unlock: 5i]
+
+Keen Hearing: Level 1 [Unlock: 5i]
+
+—
+
+Additional Wildcard Trait [Unlock: 10i]
+
+Additional Random Precursor Trait [Unlock: 10i]
+
+Cost: 9 iota
+
+The base cost was already higher than any of my previous creations. I consumed more of the half-grown gourds that had sprouted, and scoured up much of the old farmer’s crop of scrawny tubers and squash, eating up as much as I could to replenish my dwindling supplies.
+
+Creating three creatures and three plants was already a tall order. I would have to be a spendthrift– but in this case, I had no choice but to develop the mimicry ability. I increased it to Level 3 and felt the mana draining from my crystal heart.
+
+But there was a way to save what I could, and keep from fully expending myself before the quest was done.
+
+I simply created an egg, rather than a full-grown bird. The mother owl, resting, barely noticed the slight heat of mana as I materialized the unhatched cuckoo in her care. Because this only cost a single iota instead of nine, I created a second– paying back the debt owed to the owl and more.
+
+I could feel them within their shells, the tiny heartbeat and nascent lifeforce, not yet developed into a soul. By creating them directly, I had established a bond that would last for their entire life– a direct line between my soul and their consciousness.
+
+When I had more mana to spare, I’d advance their development and see to it that they grew healthy and strong.
+
+For now…
+
+Two more plants. Two more creatures.
+
+I looked to the worn-down old beehive the farm’s creator had tried to build. A sad thing. But not by any lack of his own; the islands bees were simply more attracted to rotten trees and hollows. They weren’t the domestic species he had imagined them to be.
+
+But I could make them that way.
+
+I captured a few from the air, burning them out of existence with mana and memorizing every detail of their construction. It was amazing how simple insects were– life on such a tiny scale that they could almost be described as biological machines.
+
+And while their compatibility with plants was low, the overall mana cost for a single bee was hardly a speck– so modifying them with incompatible traits would barely cost anything anyway.
+
+Hmm.
+
+I created, in the depths of the hive, a writhing hoard of larval bees. The first few were discards, born with undesirable traits, but they’d still serve my purposes. As I fed them mana to advance their life cycle, I focused on one in particular, the one who’d developed the singular trait I desired. Bees were widely divergent within their own species– small changes in how a larvae was fed could make it develop into a worker, a nurse, or a queen.
+
+This one would be a monarch.
+
+– New Schema In Progress –
+
+Precursors
+
+Leafcutter Bee x Green Gelblossom
+
+Level 0.
+
+“Mana-Eater Bee”
+
+Relevant Traits:
+
+Honey Production: Level 1 [Upgrade: 5i]
+
+Mana Capacity: 1 iota [Upgrade: 3i]
+
+Poison Sting: Level 1 [Upgrade: 5i]
+
+—
+
+Additional Wildcard Trait [Unlock: 10i]
+
+Additional Random Precursor Trait [Unlock: 10i]
+
+—
+
+Cost: 1.2 iota
+
+The concept was simple.
+
+My slime gourds were passive receivers of mana, absorbing it from the Cosmic Alignment and the light of the suns.But there were countless plants doing the same across the island, if less efficiently. Every flower contained mana. They leeched it from the earth and sky.
+
+These creatures would harvest and gather it from the pollen of those flowers, and collect the mana into honey. Another source to feed off. The fact that they could also deliver a warding sting made them somewhat useful as guardians as well, a capacity I could develop once I had more energy to spend augmenting these initial designs.
+
+Work.
+
+Work work work.
+
+A dungeon core didn’t tire or stall. I thought in straight lines, relentlessly productive towards my goal, finding each small step satisfying…
+
+But there was a deeper appreciation for what I was doing, than the simple love of work.
+
+As I looked at the old farm I felt…
+
+Happiness.
+
+There was a pig penned up in one corner, fenced in by the bamboo. There were bees in the hive, the start of a newborn colony. Wild flowers and enormous gourd plants covered the tilled earth– not an orderly farm, but a thriving one.
+
+I think the old farmer, who had struggled and fought for all his life to carve out this small space, would have appreciated this sight.
+
+For a moment I released myself from the relentless business, the concerns and plans buzzing through my head like honeybees.
+
+I simply…
+
+Enjoyed the view.
+
+The mud hut, overgrown by flowers, playing host to many birds and small insects. Wild grass spilling through its open door. Outside, the fallow earth sprouting up with vines and colorful vegetables. The fenceline reinforced and strengthened with bamboo.
+
+A wild place of my own.

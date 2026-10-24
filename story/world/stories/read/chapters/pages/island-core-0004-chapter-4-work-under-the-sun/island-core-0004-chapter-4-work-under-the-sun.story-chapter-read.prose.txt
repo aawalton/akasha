@@ -1,0 +1,239 @@
+A snake shifted through the underbrush, seeking the heat of living bodies and the scent of fear.
+
+It saw a mouse standing paralyzed, twitching.
+
+The snake’s large yellow eyes flickered, uncertain. It couldn’t tell exactly what was wrong– it couldn’t see that the mouse’s feet were glued to the purple-green leaf underneath them. But it knew that prey should run, and was confused why this one stood so still.
+
+Hunger overpowered caution.
+
+It lunged–
+
+And a pair of massive jaws formed from waxy plant matter snapped shut. They were shaped like a common beartrap, with long blunt ‘teeth’ that fit together into a kind of zig-zag lock. The inside, where the mouse had been stuck, was coated with an adhesive slime that held the serpent fast.
+
+And at that moment, glowing mushrooms began to sprout from the earth. They started as pinpoint caps of white and rapidly began to swell outwards, becoming fattened, rounded blooms that were covered by shining red spots of luminous jelly.
+
+The serpent thrashed and coiled its body, but it was solidly trapped, its head sealed within the snapjaw plant’s mouth.
+
+The mushrooms exploded. Acid goo splattered in all directions and the snake and the plant were both dissolved away.
+
+An effective demonstration of my latest inventions.
+
+– Schema –
+
+Precursors
+
+Sundew x Lockjaw Flytrap
+
+Level 1.
+
+Sunbathing Snapjaw
+
+A hybrid of carnivorous plants that can catch small animals and vermin in its spring-loaded jaws, holding them in place for slow death with a sticky sap.
+
+Relevant Traits:
+
+Movement Sensitivity: Level 1
+
+Adhesive Saliva: Level 3
+
+Scent of Carrion: Level 1
+
+Inedible: Level 1
+
+—
+
+Cost: 2 iota
+
+– Schema –
+
+Precursors
+
+Clustered Weephorn Fungi x Bitterburn Pawpaw Tree
+
+Level 0.
+
+Burning Glowbelly
+
+A specimen of luminous fungus whose lifecycle terminates in a sudden explosion of acidic slime and spores, which grow new specimens from the partially-digested body of any creature caught in the blast.
+
+Relevant Traits:
+
+Caustic Bile (Fruit): Level 3
+
+Movement Sensitivity: Level 1
+
+Seed Detonation: Level 3
+
+Luminous: Level 1
+
+—
+
+Cost: 0.5 iota
+
+I had discovered that not all plants in my territory were merely content to wait and photosynthesize their food. A very useful trait, Movement Sensitivity, had developed in multiple specimens. It allowed them to respond to specific stimuli with a sudden burst of movement.
+
+In the Snapjaw’s case, closing its mouth around the unfortunate prey. In the case of the Glowbelly, detonating and spraying toxic spore and deadly bile from its swollen body.
+
+They were effectively living traps, and I was glad to add them to my garden, although their seemingly low cost was deceptive. Growing the Glowbelly mushrooms in a split instant required nearly four times the mana a slower growth would. Ideally, I could plant them in preparation for the enemy, rather than summoning them on the spot.
+
+I had spent the better part of the day scrounging mana. Numerous weeds had been eaten away, revealing the rusted tools and abandoned pathways below. The farm looked fresh and clean for once, because I had consumed much of the mold, spiderwebs, and other detritus. I could even eat the dirt if I needed to– but it was a very slow way to gain mana.
+
+Now the sun was sinking low, and I had until it descended past the line of the ocean to complete my given quest.
+
+I needed a single more specimen of fauna, and with the serpent added to my repertoire, I knew exactly what I wanted.
+
+Poisonous and venomous creatures had developed along completely separate evolutionary paths countless times, a testament to the strategy’s effectiveness.
+
+Pound for pound, venomous creatures were the most deadly children of the animal kingdom. The one difficulty with venom as a strategy was, the larger creatures grew, the slower the venom was to act upon them. Many venomous creatures could easily kill larger animals – but they would die before the venom completed its work.
+
+That was why poisonous creatures were more common. Poisonous creatures were typically easy to kill, nearly defenseless in the immediate sense, but anything that ate them would quickly sicken and die. While this wasn’t an effective strategy for any single member of the species, overall, predators would quickly learn to avoid them. Some mimics even employed the parasitic strategy of looking poisonous, without developing the actual toxins.
+
+For my purposes, then, they were perfect. Their individual survival – the only weakness of a toxic strategy – mattered very little when their life’s purpose was to defend me.
+
+Snakes were particularly useful, as they were expert hunters, swimmers, and ambush predators, capable of disguising themselves in the forested environment and delivering a deadly bite to the heel.
+
+But this one had yielded an unexpected bounty.
+
+– Schema Absorbed (Uncommon) –
+
+Flinthead Viper
+
+Distantly related to sea serpents altered by their proximity to volcanic mana rifts, the flinthead retains the ability to spit a hissing volley of sparks when threatened, which frightens away many potential predators. It hunts by ambush with a mild venom.
+
+Level 3.
+
+Relevant Traits:
+
+Fire Creation: Level 1
+
+Amphibious: Level 3
+
+Forest Camouflage: Level 3
+
+Venom (Bite): Level 1
+
+Armored Scales: Level 1
+
+—
+
+Cost: 13 iota.
+
+I blanched a little at the massive cost of even the base creature, but its traits were utterly fantastic. Fire Creation, while underdeveloped– a recessive trait from an ancient ancestor– was something I could augment and breed over multiple iterations to create true firebreathing. Armored Scales, Amphibious, and Forest Camouflage all made it an excellent scout that could be self-sufficient when sent outside my reach to hunt for new specimens.
+
+The unfortunate fact was, I couldn’t do much to alter this specimen without making it potentially worse. However– I could make it more focused.
+
+I chose to merge it with the Schema for the Islander Cuckoo. Fundamentally, if this was to become a scout for me, the primary thing it lacked was the intelligence to follow my orders once it left my immediate surroundings and my ability to command it.
+
+Unfortunately, it was higher level than me, and higher level than my Control score. I would be receiving utterly random traits. At most I could expend a premium of mana to choose a single trait…
+
+It was a roll of the dice. I gritted my – metaphorical – teeth and took the plunge.
+
+– New Schema In Progress –
+
+Precursors
+
+Flinthead Viper x Islander Cuckoo
+
+Level 1.
+
+“Feathercowl Viper”
+
+Relevant Traits:
+
+Bite Strength: 20 Mpa [Upgrade: 3i]
+
+Advanced Intelligence (Linguistic): Level 1 [Upgrade: 5i]
+
+Forest Camouflage: Level 3 [Upgrade: 20i]
+
+—
+
+Additional Wildcard Trait [Unlock: 10i]
+
+Additional Random Precursor Trait [Unlock: 10i]
+
+—
+
+Cost: 22 iota
+
+22 iotas of mana. I wished I could wince. The compatibility was surprisingly high – reptiles and birds weren’t such distant cousins – but it had still rocketed up the cost.
+
+I resigned myself to consuming the last of my gourd crop early, without allowing them to develop into ambulatory slimes. I promised myself I would plant more when I was over the present bottleneck of time and resources– but I also knew it was possible I would simply go from one pinch to another, and find myself regretting expending so many resources to chase this quest.
+
+But ultimately if things were that dire, I might die regardless of what I did. When you lacked information, like I did on this remote island, you could only harm yourself by acting in fear of things you couldn’t control…
+
+So I consigned my crop to oblivion and bought the an additional precursor trait. I didn’t have enough mana to take a second try at this, so I could only hope–
+
+And hope was rewarded.
+
+Venom (Bite): Level 1 [Upgrade: 5i]
+
+The creature would have venom, and while that venom was presently unable to kill anything larger than a rat, I could work on upgrading it in the future. For now I sank my last few measly points of mana into upgrading its Advanced Intelligence once, and because I could, augmenting its Bite Strength once to give its jaws a surprising kick.
+
+The creature that formed as my mana spiraled inwards and took physical shape was a strange hybrid of reptile and feathered songbird. Bone materialized first, followed by organs, meat, some thin fat tissue, and finally its scaled skin. Bright, verdant-green feathers covered the cobra-like hood that extended to either side of the viper’s arrowhead skull. They ran down its back in a long crest…
+
+It had intelligent, amber-colored eyes. They looked out at the world with a faint sense of wonder, which I could feel through the bond between our souls. As it slithered in a circle through the grass, taking in the sights of the little farm, I wandered alongside it, allowing my consciousness to ‘ride’ within its skin and perceive the world through its senses.
+
+A dungeon core and its creations were one and the same; they had separate souls, but everything else was shared. I could feel the slow unthinking growth of the plants in my garden, the unhatched dreams of the nocturne cuckoos, and now, I could sense the bright, inquisitive mind of this serpent.
+
+I would name him Ahe, gentle breeze. It suited his nature.As he slithered up a fence post and gazed out into the dark of the jungle beyond, I reached out and spoke into his mind.
+
+“Go. Explore. Find yourself in the world.” I said. “I will be here when you return.”
+
+I wanted my creations to be more than dull-minded drones. I had created them to serve me, yes, but they were living things.
+
+And in truth, if I had to give a selfish reason– I was not perfect. If my kingdom was full of obedient slaves I would deny myself the aid and companionship of fellow minds. I would limit the world of my dungeon to what I and I alone could accomplish.
+
+Life was not so simple a single mind could solve it.
+
+As Ahe slithered out into the jungle, I wished my first creation well–
+
+And turned my attention to the matter of the completed quest.
+
+[Sun-Quest]
+
+Complete!
+
+Create 3 new flora Schema (3/3) and 3 new fauna Schema (3/3).
+
+Reward – 1 of 4 Common Schema.
+
+“Terror Monarch”
+
+A prehistoric bird without flight, that hunts with the use of massive hindtalons and serrated teeth. Clever and able to work in packs.
+
+“Stoneshell Fiddler”
+
+A massive crab that first nests in coconut shells as a juvenile, and then advances to hollowing out boulders with a pressurized water spray, carving them into shells that it will carry through its adult life.
+
+“Grass Sprite”
+
+A common form of lesser elemental, barely a creature at all. Slightly increasing the growth and sturdiness of nearby plants.
+
+“Mossback Huntsman”
+
+A spider of massive size, which disguises itself in the high branches of the canopy and devours wildlife passing below.
+
+I considered the options. A pack predator with an intellect, a massive defensive omnivore with a stone shell and the ability to spit powerful blasts of water, and an ambush hunter that could likely take a human in a fight from a position of surprise.
+
+The first and last seemed like the strongest fighters. The mossback had a clear lead offensively and could maneuver easily in the jungle, but in numbers, the terror monarch could likely take stronger foes.
+
+On the other hand, the terror monarch was landbound. The fiddler crab could move aquatically, while the mossback spider excelled in the canopy of the jungle.
+
+The mossback was a clear winner along multiple lines. However, a giant spider was something I could easily make for myself. For that matter, so was an oversized crab. Considering all the options, the ones that would be hardest to acquire by other means were the prehistoric terror bird and the grass sprite.
+
+And in the end, a terror bird was simply an overgrown mix of reptile and avian. While they may have died out I could easily make them from my own stock.
+
+The grass sprite, however, was different. Even very weak and simple magic was something that I was finding in rare supply. While magical creatures did exist on the island, capturing even the weakest of them would be a struggle.
+
+And I was finding that plants were very useful to me.
+
+So I selected the grass sprite. The Schema poured into my mind with a strange mix of sensations, tastes and feelings and sounds, processing every portion of the creature’s existence through a dozen senses that humans didn’t even possess.
+
+They were largely mindless beings made out of clumped, animated manas. They somewhat resembled winged, chitin-covered humans, but only because humanity had imprinted itself so deeply on the weave of magic that most elementals would instinctively take a humanoid shape. In reality they were closer to insects.
+
+Having completed the quest, sent Ahe on their way, and seeded my farm with many things that needed time to grow…
+
+I kept myself awake just long enough to watch the sun set, streaking the sky with lines of deep royal purple, scintillating orange, and a red just short of blood’s own color. For a moment I let the calm of the farm sweep over me…
+
+And then I drifted into dream.
