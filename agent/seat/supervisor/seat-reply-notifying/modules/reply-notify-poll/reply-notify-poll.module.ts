@@ -47,9 +47,13 @@ export const replyNotifyPoll = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A reply is pushed only to a person whose notice for the seat names the phone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "No reply is pushed while a person's message is being taken back.",
     },
   ],
   createdAt: "2026-10-24T20:00:51.010Z",
-  updatedAt: "2026-10-24T22:00:07.098Z",
+  updatedAt: "2026-10-24T22:16:11.291Z",
 } as const satisfies Module
