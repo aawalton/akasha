@@ -335,9 +335,19 @@ export async function besideEnded(
 const ranBy: Running = async (argv, text) =>
   text === null ? await runKubectlAwaited(argv) : await runKubectlOnAwaited(argv, text)
 
-export function endedBy(fate: Fate, lines: Ran, name: string): Ended {
+export type Finished = (said: readonly string[]) => boolean
+
+const neverFinished: Finished = () => false
+
+export function endedBy(
+  fate: Fate,
+  lines: Ran,
+  name: string,
+  finished: Finished = neverFinished
+): Ended {
   const said = lines.stdout.trim() === "" ? [] : lines.stdout.trim().split("\n")
   if (fate === "complete") return { said }
+  if (fate === "failed" && finished(said)) return { said }
   if (fate === "failed") return { why: [`the job ${name} failed`, ...said].join("\n") }
   return { why: `the job ${name} had not ended, so its lines are all that is known` }
 }
@@ -408,7 +418,8 @@ export async function jobRan(
   carrying: Carrying = carriedByOrigin,
   pushing: Pushing = pushBranch,
   beside: RegExp | null = null,
-  hearing: Hearing | null = null
+  hearing: Hearing | null = null,
+  finished: Finished = neverFinished
 ): Promise<Ended> {
   const why = carriedAt(root, commit, carrying, pushing)
   if (why !== null) return { why }
@@ -425,5 +436,5 @@ export async function jobRan(
     return { why: `the job ${name} would not go up: ${put.stderr.trim()}` }
   }
   const fate = await fateOf(running, name, rounds, hearing)
-  return endedBy(fate, await running(logsArgv(name), null), name)
+  return endedBy(fate, await running(logsArgv(name), null), name, finished)
 }

@@ -89,6 +89,16 @@ export const clusterRunning = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A job that failed after a line saying its work finished answers as a job that ended.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Which line says a job's work finished is its caller's to say, and none by default.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A job left running past the wait refuses the run rather than being taken away.",
     },
     {
@@ -340,6 +350,6 @@ export const clusterRunning = {
       statement: "A tree naming no commit of its own asks for every commit, however much it holds.",
     },
   ],
-  updatedAt: "2026-10-24T22:49:35.219Z",
+  updatedAt: "2026-10-24T23:24:15.110Z",
   createdAt: "2026-09-16T15:05:01.599Z",
 } as const satisfies Module

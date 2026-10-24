@@ -260,6 +260,12 @@ test("a job that failed refuses the run, and the lines still come back", () => {
   expect(held.why).toContain("why")
 })
 
+test("a job that failed after a line saying its work finished answers as ended", () => {
+  const finished = (said: readonly string[]): boolean => said.includes("done")
+  expect(endedBy("failed", ranOf(0, "a\ndone\n"), NAME, finished)).toEqual({ said: ["a", "done"] })
+  expect("why" in endedBy("failed", ranOf(0, "a\n"), NAME, finished)).toBe(true)
+})
+
 test("a job left running past the wait refuses the run", () => {
   const held = endedBy("running", ranOf(0), NAME) as { why: string }
   expect(held.why).toContain("had not ended")
