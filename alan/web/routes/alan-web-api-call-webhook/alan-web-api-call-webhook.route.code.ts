@@ -1,5 +1,6 @@
 import {
   expectCall,
+  STREAM_LEG,
   spouseCalling,
 } from "akasha/alan/couples-therapy/couples-call/modules/room/couples-call-room.module.code.ts"
 import { verifyTelnyxSignature } from "akasha/alan/harness/sms-core/modules/verify-signature/verify-signature.module.code.ts"
@@ -78,12 +79,12 @@ export async function action({ request }: { request: Request }): Promise<Respons
     return Response.json({ ok: true, outcome: "rejected" })
   }
 
-  expectCall(id, spouse)
+  const leg = expectCall(id, spouse)
   const refused = await commanded(
     id,
     "answer",
     {
-      stream_url: STREAM_AT,
+      stream_url: `${STREAM_AT}?${STREAM_LEG}=${encodeURIComponent(leg)}`,
       stream_track: "inbound_track",
       stream_bidirectional_mode: "rtp",
       stream_bidirectional_codec: "PCMU",

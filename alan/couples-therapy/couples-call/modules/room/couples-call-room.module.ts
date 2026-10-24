@@ -13,6 +13,14 @@ export const couplesCallRoom = {
       statement: "A leg is let in only where the call webhook answered its call for a spouse.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "Each call answered is given a random leg the stream address names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A stream is admitted only while it names the leg of a call waiting to start.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement:
         "The webhook runs in the route bundle and the legs in the server, two module copies.",
@@ -57,5 +65,5 @@ export const couplesCallRoom = {
     },
   ],
   createdAt: "2026-10-24T20:51:01.335Z",
-  updatedAt: "2026-10-24T21:27:07.207Z",
+  updatedAt: "2026-10-24T22:59:31.868Z",
 } as const satisfies Module

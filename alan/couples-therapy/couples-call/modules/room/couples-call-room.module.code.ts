@@ -25,6 +25,7 @@ import {
 } from "akasha/alan/couples-therapy/couples-call/modules/brief/couples-call-brief.module.code.ts"
 import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
+import { randomId } from "akasha/page/id/modules/random-id/random-id.module.code.ts"
 import {
   askingFor,
   objectIn,
@@ -91,7 +92,12 @@ type Room = {
   ending: boolean
 }
 
-type Expected = Map<string, { readonly spouse: Spouse; readonly until: number }>
+type Expected = Map<
+  string,
+  { readonly spouse: Spouse; readonly until: number; readonly leg: string }
+>
+
+export const STREAM_LEG = "leg"
 
 const EXPECTED_AT = Symbol.for("akasha.couples-call.expected")
 
@@ -120,9 +126,18 @@ export async function spouseCalling(from: string): Promise<Spouse | null | Refus
   return slug === "alan" || slug === "jenny" ? slug : null
 }
 
-export function expectCall(callControlId: string, spouse: Spouse, now = Date.now()): undefined {
+export function expectCall(callControlId: string, spouse: Spouse, now = Date.now()): string {
   for (const [id, one] of EXPECTED) if (one.until < now) EXPECTED.delete(id)
-  EXPECTED.set(callControlId, { spouse, until: now + EXPECTED_WITHIN_MS })
+  const leg = randomId()
+  EXPECTED.set(callControlId, { spouse, until: now + EXPECTED_WITHIN_MS, leg })
+  return leg
+}
+
+export function streamAdmitted(request: Request, now = Date.now()): boolean {
+  const leg = new URL(request.url).searchParams.get(STREAM_LEG)
+  if (leg === null) return false
+  for (const one of EXPECTED.values()) if (one.leg === leg && one.until >= now) return true
+  return false
 }
 
 export function spouseExpected(callControlId: string, now = Date.now()): Spouse | null {
