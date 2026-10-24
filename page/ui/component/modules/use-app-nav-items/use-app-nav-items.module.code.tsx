@@ -70,7 +70,7 @@ export function useAppNavItems({
 
   const navReady = initialRows != null || !isLoading
 
-  const editing = useAppEditing()
+  const editing = useAppEditing() && served !== true
 
   const { createNav, reorderNavs, setNavIcon, setNavParent } = useNavMutations(app ?? appId)
 

@@ -44,7 +44,11 @@ export const useAppNavItems = {
       decisionKind: "decision-kind/departure",
       statement: "Nav items the server serves are drawn as served, and none is asked for again.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Nav items the server serves offer no act adding, moving or changing a nav item.",
+    },
   ],
   createdAt: "2026-09-02T20:05:45.270Z",
-  updatedAt: "2026-10-24T21:46:24.050Z",
+  updatedAt: "2026-10-24T22:10:35.060Z",
 } as const satisfies Module
