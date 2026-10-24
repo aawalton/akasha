@@ -16,7 +16,6 @@ export const couplesCall = {
       decisionKind: "decision-kind/departure",
       statement: "Each spouse calls the agent number from their own phone.",
     },
-
     {
       decisionKind: "decision-kind/departure",
       statement: "Which leg the sound came in on says which spouse is speaking.",
@@ -25,7 +24,11 @@ export const couplesCall = {
       decisionKind: "decision-kind/departure",
       statement: "Telnyx carries the call and Gemini Live is the therapist's ears, mind and mouth.",
     },
-
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The agent number's calls reach this app through the Telnyx application couples-call.",
+    },
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing said on a call is kept.",
@@ -41,5 +44,5 @@ export const couplesCall = {
     },
   ],
   createdAt: "2026-10-24T20:51:01.335Z",
-  updatedAt: "2026-10-24T20:51:01.335Z",
+  updatedAt: "2026-10-24T21:23:53.763Z",
 } as const satisfies Domain
