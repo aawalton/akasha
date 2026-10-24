@@ -7,7 +7,9 @@ import {
   TYPING_BEAT_MS,
   TYPING_HELD_MS,
   type Typing,
+  type TypingBeat,
   typingAfter,
+  typingBeat,
   typingIn,
   typingSaid,
 } from "akasha/agent/seat/modules/typing/seat-typing.module.code.tsx"
@@ -59,7 +61,8 @@ test("nobody is shown typing until the reader is known", () => {
   expect(othersTyping([JENNY_TYPING, ALAN_TYPING], null, NOW)).toEqual([])
 })
 
-test("typing lapses eight seconds after the last heartbeat", () => {
+test("typing lapses five minutes after the last heartbeat", () => {
+  expect(TYPING_HELD_MS).toBe(300_000)
   const lapsed: Typing = { person: JENNY, at: new Date(NOW - TYPING_HELD_MS).toISOString() }
   expect(othersTyping([lapsed], alan.slug, NOW)).toEqual([])
   expect(nextLapse([JENNY_TYPING, ALAN_TYPING], NOW)).toBe(NOW - 2_000 + TYPING_HELD_MS)
@@ -80,8 +83,53 @@ test("the persona is named replying only while the seat works", () => {
   expect(replyingSaid(null, CLAUDIUS)).toBeNull()
 })
 
-test("a heartbeat goes at most every three seconds", () => {
+test("a heartbeat goes at most every thirty seconds", () => {
+  expect(TYPING_BEAT_MS).toBe(30_000)
   expect(beatDue(null, NOW)).toBe(true)
   expect(beatDue(NOW - TYPING_BEAT_MS + 1, NOW)).toBe(false)
   expect(beatDue(NOW - TYPING_BEAT_MS, NOW)).toBe(true)
+})
+
+type Beating = { readonly beat: TypingBeat; readonly told: boolean[]; at: number }
+
+function beating(): Beating {
+  const held: Beating = {
+    told: [],
+    at: NOW,
+    beat: typingBeat(
+      (typing) => {
+        held.told.push(typing)
+        return undefined
+      },
+      () => held.at
+    ),
+  }
+  return held
+}
+
+test("the first keystroke tells at once and the next within thirty seconds tells nothing", () => {
+  const held = beating()
+  held.beat.typed("h")
+  held.at += TYPING_BEAT_MS - 1
+  held.beat.typed("hi")
+  expect(held.told).toEqual([true])
+  held.at += 1
+  held.beat.typed("hi!")
+  expect(held.told).toEqual([true, true])
+})
+
+test("sending tells the stop at once, even with no heartbeat told before", () => {
+  const held = beating()
+  held.beat.stopped()
+  expect(held.told).toEqual([false])
+  held.beat.typed("next")
+  expect(held.told).toEqual([false, true])
+})
+
+test("emptying the box tells the stop, and the next keystroke tells at once", () => {
+  const held = beating()
+  held.beat.typed("draft")
+  held.beat.typed("  ")
+  held.beat.typed("a")
+  expect(held.told).toEqual([true, false, true])
 })

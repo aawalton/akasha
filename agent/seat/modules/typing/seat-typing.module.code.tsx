@@ -5,13 +5,13 @@ import { askComposed } from "akasha/page/query/modules/store-spelled-asking/stor
 import type { PageWatch } from "akasha/page/ui-store/collection/modules/change-following/change-following.module.code.ts"
 import { FILE_BACKING_POLL_MS } from "akasha/page/ui-store/collection/modules/fetch-attach/fetch-attach.module.code.ts"
 import { getPagesStore } from "akasha/page/ui-store/modules/singleton/singleton.module.code.ts"
-import { useCallback, useEffect, useRef, useState } from "react"
+import { useEffect, useMemo, useState } from "react"
 
 export const TYPING_AT = "/api/seat/typing"
 
-export const TYPING_HELD_MS = 8_000
+export const TYPING_HELD_MS = 300_000
 
-export const TYPING_BEAT_MS = 3_000
+export const TYPING_BEAT_MS = 30_000
 
 export const TYPING = "typing"
 
@@ -116,25 +116,27 @@ export type TypingBeat = {
   readonly stopped: () => undefined
 }
 
-export function useTypingBeat(seat: string): TypingBeat {
-  const sent = useRef<number | null>(null)
-  const stopped = useCallback((): undefined => {
-    if (sent.current === null) return undefined
-    sent.current = null
-    return told(seat, false)
-  }, [seat])
-  const typed = useCallback(
-    (text: string): undefined => {
-      if (text.trim() === "") return stopped()
-      const now = Date.now()
-      if (!beatDue(sent.current, now)) return undefined
-      sent.current = now
-      return told(seat, true)
-    },
-    [seat, stopped]
-  )
-  useEffect(() => stopped, [stopped])
+export function typingBeat(
+  tell: (typing: boolean) => undefined,
+  clock: () => number = Date.now
+): TypingBeat {
+  let sent: number | null = null
+  const stopped = (): undefined => {
+    sent = null
+    return tell(false)
+  }
+  const typed = (text: string): undefined => {
+    if (text.trim() === "") return stopped()
+    const now = clock()
+    if (!beatDue(sent, now)) return undefined
+    sent = now
+    return tell(true)
+  }
   return { typed, stopped }
+}
+
+export function useTypingBeat(seat: string): TypingBeat {
+  return useMemo(() => typingBeat((typing) => told(seat, typing)), [seat])
 }
 
 function personIn(said: unknown): string | null {

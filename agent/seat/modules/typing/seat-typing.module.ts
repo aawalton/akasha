@@ -10,7 +10,8 @@ export const seatTyping = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A person writing a message tells the seat's page at most every three seconds.",
+      statement:
+        "A person writing a message tells the seat's page at once, then at most every thirty seconds.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -18,7 +19,7 @@ export const seatTyping = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A person who stops telling is shown typing for eight seconds more at most.",
+      statement: "A person who stops telling is shown typing for five minutes more at most.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -34,5 +35,5 @@ export const seatTyping = {
     },
   ],
   createdAt: "2026-10-24T22:31:35.532Z",
-  updatedAt: "2026-10-24T22:31:35.532Z",
+  updatedAt: "2026-10-24T23:33:09.040Z",
 } as const satisfies Module
