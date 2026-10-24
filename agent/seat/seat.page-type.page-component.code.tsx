@@ -155,8 +155,14 @@ function timesSaid(heard: Heard, text: string): number {
 function useSending(id: string) {
   const [pending, setPending] = useState<readonly Pending[]>([])
   const keyed = useRef(0)
+  const told = useRef(new Map<number, (sent: boolean) => void>())
+  const tell = (key: number, sent: boolean) => {
+    told.current.get(key)?.(sent)
+    told.current.delete(key)
+  }
   const [heard, again] = useConversation(id)
   const settle = (key: number, unsent: Unsent | null) => {
+    if (unsent === null || !unsent.unanswered) tell(key, unsent === null)
     setPending((held) =>
       held.map((one) =>
         one.key !== key
@@ -171,7 +177,7 @@ function useSending(id: string) {
   const sending = (one: Pending) => {
     void sentToSeat(id, one.text, one.files, one.id).then((unsent) => settle(one.key, unsent))
   }
-  const send = (text: string, files: readonly File[]) => {
+  const send = (text: string, files: readonly File[]): Promise<boolean> => {
     keyed.current += 1
     const one: Pending = {
       key: keyed.current,
@@ -181,8 +187,10 @@ function useSending(id: string) {
       seen: timesSaid(heard, text),
       state: "sending",
     }
+    const sent = new Promise<boolean>((answer) => told.current.set(one.key, answer))
     setPending((held) => [...held, one])
     sending(one)
+    return sent
   }
   const resend = (one: Pending) => {
     setPending((held) =>
@@ -190,7 +198,10 @@ function useSending(id: string) {
     )
     sending(one)
   }
-  const dismiss = (key: number) => setPending((held) => held.filter((one) => one.key !== key))
+  const dismiss = (key: number) => {
+    tell(key, false)
+    setPending((held) => held.filter((one) => one.key !== key))
+  }
   useEffect(() => {
     setPending((held) => {
       const kept = held.filter(
