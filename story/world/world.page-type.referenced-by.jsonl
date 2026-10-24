@@ -90,6 +90,7 @@
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/corrupted-cardsmith-a-craftingdeckbuilding-litrpg/corrupted-cardsmith-a-craftingdeckbuilding-litrpg.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/cradle/cradle.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/crimson-eternal-an-immortal-death-mage-litrpg/crimson-eternal-an-immortal-death-mage-litrpg.world.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/cultivating-poultry-a-system-xianxia-novel/cultivating-poultry-a-system-xianxia-novel.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/cultivation-is-creation/cultivation-is-creation.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/cursed-draw-deck-building-litrpg/cursed-draw-deck-building-litrpg.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/dao-of-cooking/dao-of-cooking.world.ts","typed":true,"deferred":false}
@@ -441,6 +442,7 @@
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/the-questwright-a-litrpg-quest-management-saga/the-questwright-a-litrpg-quest-management-saga.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/the-royal-academy-of-magical-baking/the-royal-academy-of-magical-baking.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/the-runesmith/the-runesmith.world.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/the-saga-of-keres-book-1-2-now-available-fantasy/the-saga-of-keres-book-1-2-now-available-fantasy.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/the-science-of-cultivation-xianxia/the-science-of-cultivation-xianxia.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/the-sovereign-system-stubbed-litrpg-military-kingdom/the-sovereign-system-stubbed-litrpg-military-kingdom.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/the-speed-of-light-monster-evolution-litrpg/the-speed-of-light-monster-evolution-litrpg.world.ts","typed":true,"deferred":false}

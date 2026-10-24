@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
+
+export const cultivatingPoultryASystemXianxiaNovel0012Chapter12Cold = {
+  id: "01a16b60-6cc7-71ff-bef7-590cc8027dee",
+  type: "page-type/story-chapter-read",
+  slug: "cultivating-poultry-a-system-xianxia-novel-0012-chapter-12-cold",
+  position: 12,
+  publishedAt: "2024-09-24",
+  unit: "unit/words",
+  title: "Chapter 12 - Cold",
+  story: "story-read/cultivating-poultry-a-system-xianxia-novel",
+  ownLength: 2376,
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1818660",
+      externalLink:
+        "https://www.royalroad.com/fiction/94270/cultivating-poultry-a-system-xianxia-novel/chapter/1818660/chapter-12-cold",
+    },
+  ],
+  createdAt: "2026-10-24T00:47:23.846Z",
+  updatedAt: "2026-10-24T00:47:23.846Z",
+} as const satisfies StoryChapterRead
