@@ -1,0 +1,185 @@
+[ Critical Mana Warning! ]
+
+Though Gideon tried to meditate while leaving EnviroCharm, the meager amount of mana he could regenerate was more than consumed by the spells he cast to hide his exit. When he escaped the building and stumbled to the canal where his boat was waiting, his head felt like it would split in half.
+
+Meditation was a challenging thing to do while running around. For him, at least. He’d heard stories of wizards who could meditate in any condition, constantly refilling their mana even in battle. But he was not that wizard.
+
+After removing his mask and climbing onto the boat, he collapsed in a heap. The boatman didn’t seem to notice or care. “Prospera Central Station,” he said as he began to row down the canal. “As requested.”
+
+“Not yet,” Gideon croaked. “One more stop, first. It’ll be a quick one. 452 Golem’s Row.”
+
+The boatman sighed. “You gonna pay extra for that? You know how long I was waiting for you—”
+
+Wordlessly, Gideon reached into his robes and pulled out the last stack of his money—the proceeds from his final paycheck. Setting aside enough cash for train fare and a meal or two, he handed the rest to the boatman.
+
+“Aye, aye, Captain!” the boatman said, turning them around with a deft stroke of his oar.
+
+“Poke me when we get there.” Gideon closed his eyes and tried to meditate some more. But for all he knew, he might have been dreaming.
+
+As promised, the boatman nudged him in the ribs with his boot, and Gideon’s eyes shot open. He didn’t know how long it had been. Probably no more than twenty minutes. His head felt slightly better, though he was still dangerously low on mana. At least he now had Finch’s gun. It had a safety latch and, judging by the aura of its crystal, had expended about a quarter of its charge. In hindsight, Gideon should have checked Finch to see if he carried any spare crystals. But it was too late for that now.
+
+“Golem’s Row,” the boatman said quietly, and raised an eyebrow. “Not a lot happening in this part of the city at this time of night. Listen, I don’t care what you paid me, if I see or hear any commotion, I’m out.”
+
+Gideon nodded. “I’ll be quick.”
+
+“Gotta protect my boat.” The man rested his hand gently on the prow. “My beautiful.”
+
+Gideon climbed onto the dock. A long line of warehouses and businesses stretched to either side of the street. However, the companies here didn’t seem like ones catering to the general public. The closest one sold wholesale crates of mana crystals, while another was a runic etching and engraving shop. The street was empty, other than a few piles of trash. The night was dark but for the flickering glow of the streetlights.
+
+As he walked, Gideon managed to spot the number 317 on one side of the street, and he picked up his pace, watching as the numbers increased. The plan had been for Rook to meet them on the other side of town, in an entirely different warehouse from this one. Gideon hoped he could get in, do his work, and get out before his detour was noticed.
+
+At last, Gideon reached an offensively plain-looking brick building with the number 452. This was it. Unless Jory had led him into a trap. Gideon put his mask back on, knelt, and cast [Geosense].
+
+No one was inside, as far as he could tell.
+
+Letting out a breath, Gideon scanned the building. There was a door in the front, a loading dock with a garage door in the back, and no windows. Unlike EnviroCharm, there were no fire escapes or external pipes that would make it possible to climb to the roof.
+
+The mana felt thicker around the front door as if passing through a spell there. Gideon wasn’t adept enough to identify it, but he had to assume it was an alarm or magical lock. As he moved to the back, he checked the garage door and felt something familiar—it was also an alarm, though a simpler one than on the front door. He thought he might be able to defeat it—it was not so different from the ones used at the EnviroCharm building.
+
+Moving around to the back, he looked up and down the alley, checking to see if anyone else was around. Thankfully, everything seemed quiet. He needed to do this fast and get back to the canal.
+
+Taking out his wand, he took a deep breath and let his mana flow through the alarm runes engraved along the perimeter of the garage door. The larger the door, the more energy was needed to create a working like this one. And the easier it was to destabilize it.
+
+After frying the alarm with mana, Gideon felt a jolt in his head. He waited for a mana warning notification to appear, but none did. It had to be close, however. Part of him questioned the sanity of trying to do all this when he was already partly drained, but he might never get another chance after tonight.
+
+Unfortunately, though he had defeated the alarm rune, the garage door was still locked. Gideon took out Jory’s lockpicks and set to work.
+
+By placing one hand next to the lock and using [Geosense], Gideon could see every piece of the lock’s mechanism as if he had taken it apart. He carefully shifted each tumbler into position, then opened the lock with a satisfying click. Now he knew why geomancers were considered so adept at thievery.
+
+Gideon hauled the garage door upward and found himself looking into a dark, cavernous warehouse. He wished he’d brought a lantern, but after thinking about it, he pulled out Finch’s mana emitter and flicked the safety to the off position.
+
+Pointing the gun in front of him, he squeezed the trigger, and a beam of red-white fire shot out, lighting the warehouse in a flash before hitting the brick wall at the opposite end of the building. In the brief moment of illumination, Gideon had spotted the location of a bank of switches, which he approached and flicked on.
+
+After a moment, the lights in the warehouse illuminated, revealing a giant, mostly empty room.
+
+“No,” Gideon said, moaning. Had this been a trap after all? There was almost nothing here. His eyes scanned the room desperately until he saw a metal door at the far end of the building. Heading towards it, he placed his hand against the door handle and cast [Geosense] again.
+
+This time, the aura around the door was so dense his mana could barely pass through it. He didn’t possibly have enough to brute force his way through this. He didn't think he could have managed even if he’d been at full power.
+
+More concerning, some of the runes around the door felt similar to the ones Uncle Kelvan had used on his kitchen’s timebox. Whatever was in this room, Mortimer Rook was intent on preserving it.
+
+This has to be it, Gideon thought.
+
+Looking down at the door handle and the dizzying spirals of glowing runes around it, more intricate than anything at EnviroCharm, Gideon shook his head and sighed. He was so close, but he didn’t have the mana or the skill to go farther.
+
+“No,” Gideon whispered to himself. “It’s not over yet.”
+
+He stepped back from the door, raised Finch’s gun, and squeezed the trigger. This time, rather than releasing a quick pulse, he held down his finger as he swept the lens of the gun around the door frame and multiple times across the hinges and latching mechanism. As the beam lanced across the metal, the runes began to fizzle and warp, and the handle started to melt.
+
+After a moment, Gideon released the trigger and lowered the gun, approaching the door carefully. It had started to sag in its frame.
+
+Gideon kicked it, and the door flew inward.
+
+At the same time, a klaxon blared to life from somewhere high above him, near the roof.
+
+Peering into the darkness beyond the door, Gideon fired another beam. This time, it illuminated rows of shelves containing racks of glass vials.
+
+He had finally found it.
+
+There was no time to waste.
+
+Placing his free hand against the wall, he cast [Geosense] and tried to see if the runes he recognized from Kelvan’s timebox were still active. The last thing he wanted was to run in and get frozen in time.
+
+But, like the other runes, it seemed those had been deactivated by the blasts of energy from the gun.
+
+Steeling himself, Gideon entered.
+
+The space was too small to be a room and was more of a walk-in closet. Fumbling momentarily, Gideon pulled a chain above him, and a dim, blue light flickered on. As his eyes adjusted, he saw that each glass vial was labeled with a name and a date. As he looked closely, he noticed the ones on his left, on the top shelf, had last names starting in A.
+
+Frantically, as the alarm blared, he scanned through the shelves until he reached M. Tracing past rack upon rack of glass vials with his finger, Gideon looked for his own sample.
+
+Until he reached the spot on the shelf labeled MOODY, G.
+
+It was empty.
+
+It seemed obvious as soon as he came to it. Rook hadn’t returned Gideon’s sample to the vault. Perhaps he still had it with him or had left it in the care of the necromancer he used to track people. Gideon hadn’t seen that skill when he appraised Rook, which suggested an accomplice.
+
+Still, Gideon realized there was no way to escape clean. The most he could hope for was to make a huge mess.
+
+He continued scanning further down the shelves until he found a vial labeled MARDOK, J.
+
+“Looks like you got what you wanted,” Gideon muttered. He grabbed that one from the shelf and tossed it onto the ground, shattering it.
+
+But why stop there?
+
+He tossed rack after rack of the vials onto the floor, the blood mixing into a puddle that began sticking to his boots. He kept going until he reached the back of the closet, where he found another shelf containing a set of ledgers. Each was a thick spiral-bound notebook containing figures written neatly in black ink. He tossed the ledgers into the mess on the ground and tipped over as many racks as he could on the way out. Then he turned around, leveled the gun, and fired.
+
+As the beams passed through the ledgers, they began to ignite, flames erupting as the paper started to burn. He held the trigger down and swept the gun across the vials of blood, trying to destroy as many as possible. It wouldn’t do him any good, of course. If Rook wanted to find him, he would. But this would hurt him, Gideon knew. He would have no way of tracking the ones who didn’t pay. Not anymore.
+
+At last, the gun sputtered and died. Gideon tried pulling the trigger several times, but nothing else came out. Tossing the weapon into the quickly growing blaze, he turned and ran for the exit.
+
+He emerged into the alley and began to sprint back towards the canal. He could only hope the boatman would still be waiting for him. This kind of thing probably counted as a commotion, didn’t it?
+
+Gideon looked around as he ran, counting himself lucky that, as far as he could tell, the streets were still empty except for him. The alarm was still blaring, audible even down the road. He couldn’t waste any time. He pushed himself to run as fast as he could.
+
+However, as he approached the canal, he saw his boat headed down the channel, receding into the distance.
+
+“Wait!” Gideon shouted, running alongside the canal after him. “I’m here! I’m coming!”
+
+The boatman turned back to look at him, but his eyes widened, and he shook his head, then ducked.
+
+Gideon turned and screamed as a jet of fire blasted towards him. Relying on pure instinct, his hand summoned an [Entomb] to shield himself.
+
+The force of the flame crashed against his spell, and he felt it begin to buckle as cracks spread across the rock's surface. The raw energy behind it was like nothing he had ever felt. Frantically, Gideon began to layer his new [Enhancement] spell onto the shell.
+
+[ Low Mana Warning! ]
+
+Gideon blinked the notification away and tried to ignore the pain in his head. If he let his spell falter now, he’d be dead. Abruptly, the fire stopped. Gideon allowed the earthen shell to fall, exhausted.
+
+Mortimer Rook was leaning out the passenger window of his mana carriage. They had pulled up to the side of the canal, his eyes full of fury.
+
+“You thought you were so smart, didn’t you?” he said, shaking his head. “You think a mere level—” His eyes focused behind his crystal visor, and the man scowled. “How the hell did you gain another level already? It doesn’t matter, Gideon—the dead can’t advance.”
+
+Gideon remembered Uncle Kelvan making a similar observation. For the first time, the thought of what he stood to lose flashed through his mind. Kelvan, Grimsby, Clonk, Ondine. The Castle itself. The beautiful mountains. His freedom. He had taken it for granted that at the end of the day, he would make it out of this alive.
+
+Now, staring into Mortimer Rook’s eyes, he was no longer sure. But even though Gideon was outmatched, if he had learned one thing, it was this—never wait for your enemy to attack. Reaching into his pocket and pulling out his wand, he leveled it at Rook at the same time as the other man raised his hand.
+
+“Hail of Stone!” Gideon shouted, out of habit more than anything else, layering [Enhancement] onto the shards as they were loosed.
+
+[ Critical Mana Warning! ]
+
+In mid-air, his spell crossed paths with Rook’s roaring flame. The fire didn’t seem to care, nor did the stone, as they passed through each other. Rook’s spell approached Gideon, and he did the only thing he could.
+
+He raised an [Entomb] to shield himself, but his vision blurred, and he felt blood pour from his nose. If he kept this up, he would pass out. He didn’t see his spell land, but he heard the sound of stone clanging against the metal of the carriage and a shout from Rook. Gideon hoped he’d landed a good hit, but a moment later, another blast of flame slammed into his shield.
+
+Gideon screamed, pushing more mana into his [Entomb] even as every cell of his body cried out in protest. Fire began to expand around the edges of the shield, a wave of heat passing over him as if he’d fallen into a furnace. In the last moment before his defenses were overwhelmed and his [Entomb] broke apart, Gideon turned and dived into the canal. He plunged into the dark water and swam forward, paddling with the current, hoping it would carry him far.
+
+A jet of flame fired into the canal to his left, where it created a puff of steam before dissipating. Though Rook’s spells were dangerous in the air, they didn’t have enough energy to boil away the massive amount of water in the canal. As Gideon swam, other spells landed ahead of him or to the side, but the farther he went, the less accurate they became.
+
+He went as far as he could before surfacing. Taking a deep, gasping breath, he turned and looked up the canal to where the carriage was still parked. One of Gideon’s shards had punctured the engine compartment, and iridescent vapor was spilling from the vehicle.
+
+Rook had left the car and began to march forward. For a moment, their eyes met, but the man didn’t seem to see him in the darkness. Rook screamed in rage, then fired off another spell, but this one landed nowhere near Gideon, sputtering out when it hit the water.
+
+Gideon held very still, letting himself sink deeper, until the current carried him away.
+
+Though the direct train to Emberly wouldn’t leave for a few days, Gideon was very flexible about his destination tonight—anywhere but here would suffice. As he approached the ticket office at Prospera Central Station, his clothes sopping wet and dirty hair hanging across his eyes, he tried to give the worker a friendly smile.
+
+In the glass booth, the woman frowned at him, her eyes moving up and down as if she barely believed what she saw. “You look like the dead.”
+
+“As long as I only look that way,” Gideon said, giving a smile he didn’t feel.
+
+“Destination,” she coldly replied.
+
+He looked at the timetable above his head. There was a train leaving for Valeforge in fifteen minutes. Though not exactly where he wanted to go, it was in the right direction and along the route to Emberly. “Night train to Valeforge, please,” he said, placing his coins in the metal slot underneath the glass.
+
+She shook her head as she handed him the ticket. “Platform 7. Next!” she shouted.
+
+He got a few odd stares as he carried his luggage and his staff to the platform, but thankfully, most people in Prospera were too wrapped up in their own problems to worry about anyone else’s.
+
+Gideon kept looking behind him, waiting for Rook, Finch, or someone else to come running up, ready to kill.
+
+But no one did.
+
+Only after he’d boarded the train and collapsed into his seat did he breathe a sigh of relief. This late at night, there were only a few other passengers. His carriage was mostly unoccupied except for a pair of talkative dwarves and a man wearing a suit and carrying a briefcase who looked almost as tired as Gideon.
+
+In the chrome underneath the train window, Gideon caught sight of his reflection and tried to brush his hair out of his eyes with his fingers. He tried to rub the dirt off his cheeks but only succeeded in smearing it further.
+
+He gave up, leaned back in his chair out of sight from the window, and waited to depart. Though he tried to meditate, his brain rebelled. Mortimer Rook kept flashing through his head, images and sounds of fire and fury.
+
+A few minutes later, Gideon was interrupted from his reverie when he heard someone clearing their throat awkwardly above him.
+
+The train attendant scowled, looking almost as uncomfortable in their too-tight uniform as Gideon did in his soaked robes. “I’m going to need to see your ticket,” they said, and Gideon couldn’t help but laugh.
+
+Copyright © 2023 Tater Prince. All rights reserved. No part of this work may be reproduced or used in any manner without the prior written permission of the copyright owner, except for the use of brief quotations in a review.
+
+This novel is only posted here on Royal Road.  If you see it anywhere else, please let me know!  Thank you.
