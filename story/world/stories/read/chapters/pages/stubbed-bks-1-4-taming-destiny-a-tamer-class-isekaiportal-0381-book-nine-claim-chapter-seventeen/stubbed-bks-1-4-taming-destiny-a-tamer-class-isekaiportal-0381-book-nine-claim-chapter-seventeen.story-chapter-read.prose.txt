@@ -1,0 +1,243 @@
+For the sake of comparison, I request my status screen to show the changes since I left Moriax.
+
+Status
+
+Name: Markus Wolfe
+
+Race: Human
+
+Class: Tamer
+
+Level: 30
+
+Energy to next level: 24%
+
+Energy absorption rate: 60u/hr
+
+Attributes
+
+Intelligence: 56+8 (+15%)Mana: 960/960 (15u/IP)
+
+Wisdom: 50+5 (+10%)Mana regeneration rate: 1375u/hr
+
+Willpower: 126+45 (+36%) Health regeneration rate: 171u/hr
+
+Constitution: 40+4 (+10%)Health: 650/650 (650) (15u/CP)
+
+Strength (Power): 20+1Damage bonus: 210% increase
+
+Strength (Endurance): 24+1 (+5%)Stamina regeneration rate: 250u/hr
+
+Dexterity: 37+3 (+10%)Stamina: 600/600 (15u/DP)
+
+Special: Fire Affinity (25%)
+
+Class skills
+
+Dominate – Master 4
+
+* Companion Bond
+
+Tame – Journeyman 9
+
+*Alliance
+
+Fade – Journeyman 7
+
+*Darkvision
+
+Inspect – Initiate 8 -> 9
+
+Elemental Bonding – Beginner 9 -> Novice 1
+
+Management – Journeyman 9
+
+Transformation – Initiate 6 -> 8
+
+Willpower Leverage – Beginner 1 -> 5
+
+Health Share – Beginner 1
+
+Bond Teleport – Beginner 1
+
+Non-Class skills
+
+Flesh-Shaping – Master 3
+
+*Fluid Fabrication
+
+Stealth – Journeyman 3
+
+Animal Empathy – Journeyman 9
+
+Meditation – Journeyman 9
+
+Energy Manipulation – Master 6
+
+Sensation Management – Initiate 2 -> 3
+
+Spearmanship – Journeyman 5
+
+Archery – Journeyman 2
+
+Blunt Weaponry – Journeyman 2
+
+Knife-work – Initiate 9
+
+Fire-Shaping – Master 1
+
+Earth-Shaping – Master 1
+
+Energy Crystallisation – Initiate 3
+
+Teaching – Initiate 3
+
+Rune-Carving – Beginner 8
+
+Enchanting – Beginner 9
+
+Lava-Shaping – Novice 3
+
+Alchemy – Beginner 6
+
+Metal-Shaping – Novice 2
+
+Air-Shaping – Novice 5 -> 7
+
+Water-Shaping – Novice 2 -> 6
+
+Imprinting – Beginner 3 -> 7
+
+Inspect Item – Novice 7 -> 9
+
+Seal – Beginner 4 -> 5
+
+Clubs – Beginner 4
+
+All is much as expected, though I’m pleased to see that Water-Shaping has gone up another level since I last saw it. With the battle and my practice since, it’s gone up by four levels since we left Moriax. Air-Shaping also went up two levels in the battle – fighting with the Air Mage really helped that. Once I’ve got more of a handle on Water-Shaping, I’ll concentrate a bit more on Air, I think.
+
+The lack of increases to my weapons’ Skills reminds me that I need to set some time aside for training those – magic might be my go-to most of the time, but I use weapons often enough that it’s worth keeping those up. Spotting Clubs at the bottom of the list reminds me to imprint it into a Core, though – it will end up as a fragment, but that’s better than just languishing in my status screen, unused. And it opens up a slot for a Skill that might be more useful.
+
+I also need to practice with my new Class Skills.
+
+That thought brings my attention back briefly to the newest additions to my status screen – to the three new Class Skills I gained on level up to thirty. This time, I didn’t choose them in the normal way. In fact, Nicholas had warned me not to even look at the list of Skills that were being offered on level up because doing so would lock in my choices in a way I didn’t want. Instead, on our way to Whalehost we stopped at the country seat and visited the family treasury.
+
+There, I was able to choose some Class Skills imprinted by Titanbends long-gone. They consumed all twelve of the Skill points I’d earned, but I considered that cheap for what they offer.
+
+The most important for me was Health Share.
+
+Health Share
+
+Henceforth, the health of your Dominate or Dominate derivative Bound can be considered a pool from which any can draw from at need. As the Tamer, you can control who may draw from the health pool or you can feed health to an injured or sick Bound. You may also draw on the pool yourself. Note: if you draw too much from the health pool to heal your own injuries, your Bound may suffer. Also note that individual Bound who are too far from you will not be considered as part of the pool. Distance increases with Skill level and Willpower.
+
+It offers significantly more survivability to all of those connected to me through Dominate or Companion Bond, though it also presents the risk of accidentally drawing too much from someone already injured. I understand why it doesn’t include Tame Bonds at present – just like how I can’t access the internal matrices of those who don’t have a Dominate or Companion Bond. That might change, though.
+
+I’m also hoping that some experimentation with this might help me learn how to create a Mana Share Skill. While I can pull mana from my companions without too much difficulty, it’s still a struggle to send them anything. I’ve managed with Flesh-Shaping over the Bond, but it’s still a challenge, and I can’t just refill someone’s mana pool if it empties.
+
+The second Skill was perhaps less vital, but even more exciting.
+
+Bond Teleport
+
+Using this Skill and an amount of mana commensurate to the distance and being involved, summon one of your Bonded to you. The maximum distance is determined by the strength of the Bond, and your Willpower. Note: there may be a delay in between when a summons is initiated and when it occurs. Please also note that some wards may increase the cost of the summons or prevent it entirely.
+
+There are so many ways I can use this Skill. From getting my Bonded out of danger, to reducing the time it takes scouts to return, it is incredibly practical. And I’m hoping that practice with it might allow me to learn how to do it the other way around too – or even learn how to teleport freely. That would be amazing.
+
+Similarly, I’ll have to experiment to test just how much mana is used and what kind of delay we’re talking about here – that all affects how I can use it.
+
+Finally, the third Skill is one that apparently almost every Titanbend takes as soon as they can. If I’d had Skill points available, Nicholas would have given it to me as soon as I became his heir. It’s the secret to why Titanbends can commit all their level-up points to Willpower without becoming too vulnerable in other areas. And it’s also one of the main reasons the Titanbends became and have remained Great Lords even after they agreed not to Dominate free humans without just cause or permission from the King.
+
+Willpower Leverage
+
+Actively apply a portion of your Willpower to increase another attribute. At Beginner level, you may increase one other attribute additively by 5% of your Willpower attribute. This may change as your rank in this Skill increases.
+
+Since so many Titanbends have had this Skill, the path up to Master has been well-documented. At Beginner, it’s only five percent, but at Novice rank that becomes ten percent. At Initiate, it’s twenty-five percent, while at Journeyman it becomes fifty percent. Master, a level that not everyone achieves, offers a full hundred percent increase to any chosen stat. As for the number of stats that I will be able to affect, that seems to depend on how many I choose to affect while the Skill is levelling. If I consistently use it to increase my Constitution, then my rank up to Initiate will offer to boost my Constitution and another stat. If I use it for a variety of stats between now and Initiate, I will probably be allowed to boost two stats of my choice. And that’s without actually taking from my Willpower at all.
+
+Sure, it has downsides, but remarkably few of them. It has to be actively applied so if I lose consciousness while using it, my stats will return to normal. It is also considered a boost Skill and there are therefore times I will not be allowed to use it, or certain Skills or enchantment fields that will not permit it to be used. But overall, it’s a frankly overpowered Skill that I’ve already been trying to practise with.
+
+Of course, since I’d taken the three Class stones from the family treasury – and Master stones at that, since those were counter-intuitively the cheaper options in terms of Skill Points – Nicholas wanted me to give back in some way.
+
+Tiria’s voice, climbing in excitement, briefly catches my attention. I see her gesturing animatedly at some symbols currently spiralling above the yoyo. I shake my head with some amusement – I’m glad she can read them.
+
+My thoughts return to what came after I’d taken the stones. Nicholas hadn’t tried to force me to share my Skills – no doubt he knew that it would have just made me dig my heels in and refuse. However, he had guilt-tripped me a bit by reminding me of what the family had given to me – and that if everyone just took and did not give back in some way, the treasury would have been bare long before I arrived in Moriax.
+
+I didn't like it. Skills like mine, especially those touching Energy and the body, could do real harm in the wrong hands. And while I don’t pretend I'm some sort of moral authority with the right to decide what people do and when, I was reluctant to release them into the world, feeling an element of responsibility for what they would be used for.
+
+But Nicholas reassured me that they would be guarded as carefully as any other of the family’s stones – and that I could leave a grimoire that would warn of what might happen if the stones are misused.
+
+He also reassured me that there would be no need to lose any levels – payment in Energy was sufficient. It had taken about four Cores in exchange for one Skill stone in addition to the Tier three Core that was used as the Skill’s new home – an expensive endeavour. Judging by Nicholas’ quiet pleasure when I gave him the Skill stones for Meditation, Flesh-Shaping, Fire-Shaping, and Energy-Manipulation, he considered it a good trade.
+
+And I suppose, so do I, given the three Skills that I received and what they offer.
+
+I return to the present as Keshaka says my name, apparently for the third time, and I blink, realising I’ve missed most of the last exchange entirely.
+
+“Sorry,” I admit mildly. “You lost me somewhere around ‘harmonic discharge’.”
+
+Tiria giggles.
+
+“That was right at the beginning of the discussion!”
+
+I just smile thinly at her, though can't help myself from appreciating how her laughter makes certain parts of her jiggle.
+
+I’m actually relieved when I hear Sarran call my name. He doesn’t sound too worried – it can’t be anything serious – but it gives me an excuse not to further expose my utter ignorance on this subject.
+
+I raise a finger to signal that I’ve heard him, then nod to the two noble mages.
+
+“I’ll leave the yoyo and chargers in your care, ladies. Let me know if you have any breakthroughs.”
+
+“Yes, Lord Markus,” they chorus and then quickly bury themselves back in their intent discussion.
+
+I tuck my phone and Kindle back into my bag, zip it up, and then return it to my Inventory. Standing up, I step quickly towards Sarran who’s waiting patiently.
+
+“What is it?”
+
+Sarran nods over the railings to where the ship I seized from Kyrian is sailing to the port side. It’s looking significantly better than it was a tenday ago – the carpenters and enchanters have done marvelous work.
+
+“The captain is asking politely if you could come. I believe there might be a problem with one of your Bonded. If you would prefer, I could arrange for one of the boats to transport another of your companions to deal with the issue. I know your manservant is currently meditating and you gave orders before that he should not be disturbed during these times.”
+
+“No, it’s fine,” I tell him, initiating the transformation that gives me wings of air. “Leave Loran to meditate. I don’t mind going for a little flight.”
+
+Sarran gives me a thin smile.
+
+“I thought that might be the case. I’ll leave this in your care then, shall I?”
+
+I give him a jaunty salute and then leap up into the air. Beating my wings and adding air-magic to them to increase their lift, I move higher in the air than I technically need to.
+
+We’re sailing in formation. Sor’az’s ship is at the head of the expedition, acting as our scout. Then my ship follows at a decent distance behind. The closest ship to mine is Kyrian’s former vessel to port, but we keep a good enough distance that if something attacked one of us, it wouldn’t be able to hit both of us at once. A little further away, off to starboard, is Valence’s. Then, sailing behind the three of us are the others – Elarion to the left, Josiah in the centre, and Layton off to the right.
+
+Together, we cover a fair bit of sea, but the ocean is so vast that even as high as I am right now, there is no land in sight. The immensity dwarfs us – it’s more than a little intimidating.
+
+I soar downwards and land on the deck of the vessel that has been renamed The Phoenix. It wasn’t my choice, but several sailors thought that the way fire had rippled over the ship in the final part of the battle between Kyrian and me reminded them of a fire bird. And, since a Tier three fire bird usually Evolves into a phoenix, the name stuck.
+
+“What seems to be the problem?” I ask the captain, landing neatly next to him. He saw me coming so doesn’t startle, but he does briefly drop to his knees before I gesture for him to stand up. “You don’t need to do that,” I remind him with a touch of exasperation.
+
+“I’m sorry, master,” the captain, a grizzled man in his early fifties, replies nervously. “Force of habit ye see.”
+
+Captain Garous is indeed one of the slaves I took from those who attacked us. As it turns out, seven of the men had been sailors before they had been sentenced to the collar. Garous had even been the captain of his own vessel – though only a small four-man fishing boat.
+
+His downfall had been his love of drink and gambling – a fatal combination. And even worse when someone with an eye for trouble introduced him to a gambling den run by the local criminal gang. He’d been unable to resist the high stakes games, but had proven to be a poor player. But he couldn’t bring himself to stop and returned to the den night after night, convinced that this would be the time his luck changed.
+
+In a tale as familiar as it was depressing, he told me how he’d soon gambled away not only his earnings, but his ship as well. Sunk in depression and deep in debt, he’d been approached by one of the representatives of the local crime lord and given a choice – either his debt would be taken to the courts and he’d be sold to pay it, or he could captain one of their ships as a drugs smuggler.
+
+Since the punishment for smuggling was the same as the punishment for being unable to pay his debt, he’d chosen the option that kept him free longer. Of course, his luck had run out, leading to his present circumstances.
+
+Seeing as, when sober, he’s a perfectly good captain, I gave him that position. It’s created some friction since the crew is a mixture of free and collared people, but I directed the captains across the fleet to carefully choose the sailors for this crew only from those who see people as more than the collar around their necks. Morale was improved further when a storm hit two nights ago and Captain Garous directed the ship and the crew through it just as well as anyone else could have.
+
+More concerning and something I need to consider how to deal with in the future is Garous’ tendency to gamble his income away as soon as he gets it. While on one hand he can do what he likes with his money, on the other, I’m not keen on the idea that if someone is lucky, they could buy themselves free long before they would have earned it the normal way.
+
+I have a Bond with Garous now – since he’s sailing the ship – and so I could forbid him from gambling just as I have forbidden him from drinking. But I’m not sure I should. It’s an addiction, but it doesn’t destroy his body like drinking does. I only forbade him from drinking because it’s a risk for not only him but everyone on the ship he’s sailing if the captain ends up blind drunk. As long as gambling doesn’t interfere with his on-duty time, I’m willing to let it continue. He’s been warned that he may only gamble his own salary and not favours on the ship – on pain of punishment and potentially losing his captaincy. We’ll see how it goes. He’s hardly the only one with an addiction that led to his present circumstances.
+
+“What’s the problem?” I ask. “And why not reach out with the Bond?”
+
+“Don’t want te be no trouble,” he murmurs, his eyes fixed on the deck, his shoulders hunched. I keep my sigh silent and don’t bother to point out that it would have technically been less bother if I didn’t have to visit the ship to deal with whatever it was.
+
+“So?” I prompt. His eyes flash up to mine briefly, then drop as realisation passes across his face.
+
+“See, I’m not complaining. She can do what she wants – or what ye order her te do. But my men are a bit nervous around her, see? Don’t want te go te that area o’ the deck. An’ I need them to, see?”
+
+I narrow my eyes at him. Good at sailing he might be; good at explaining himself, he’s not. But hopefully that will come with time and confidence – I can feel how nervous he still is around me.
+
+He doesn’t see my look, staring down at the deck as he is. Though I’m amused to note that his grip on the steering wheel doesn’t falter and compensates for small movements of the waves.
+
+Given the clues, I look at the deck and see the issue.
+
+“Ah,” I sigh. Ninja.
