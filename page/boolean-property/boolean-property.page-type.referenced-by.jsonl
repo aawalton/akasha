@@ -189,6 +189,7 @@
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/properties/include-in-child-aggregates.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/properties/use-accent-color.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/player/progress/temper-rule/properties/active.boolean-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/player/progress/temper-task/properties/filler.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/player/progress/temper-task/properties/pending-sync.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"temper/player/progress/thing/properties/rrule-anchor-from-completion.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

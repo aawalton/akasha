@@ -16,6 +16,7 @@ export const temperTask = {
     "number-property/progress-total",
     "relation-property/effective-character",
     "temper-task-progress/progress",
+    "boolean-property/filler",
   ],
   properties: [
     { pageProperty: "relation-property/account-page", required: true, many: false },
@@ -35,6 +36,7 @@ export const temperTask = {
       many: false,
       uncommitted: true,
     },
+    { pageProperty: "boolean-property/filler", required: false, many: false },
   ],
   decisions: [
     {
@@ -58,5 +60,5 @@ export const temperTask = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-02T01:54:35.999Z",
-  updatedAt: "2026-09-25T13:10:56.000Z",
+  updatedAt: "2026-10-24T19:44:51.388Z",
 } as const satisfies PageType
