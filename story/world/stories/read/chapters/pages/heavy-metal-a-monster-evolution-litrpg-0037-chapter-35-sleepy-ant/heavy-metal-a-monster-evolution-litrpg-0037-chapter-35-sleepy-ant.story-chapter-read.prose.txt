@@ -1,0 +1,179 @@
+“We are back and it’s all thanks to you Gleam!”
+
+“ (˶ᵔ ᵕ ᵔ˶) “
+
+Rusty and Gleam returned triumphant to their crystal cave lair, marking the culmination of their domination of the underground cave system and the defeat of the last major threat to Rusty's existence. The battle had been intense, with the beetle proving to be their strongest opponent yet. However, it ultimately succumbed to the combined might of the unique duo: living armor and small ant.
+
+As Gleam performed her happy dance, Rusty couldn't help but notice something amiss. Her enthusiasm seemed subdued, and it was obvious why. Gleam had pushed her small body to its limits, bearing visible scratches and wounds. Unlike Rusty, who could move through magic, Gleam was a flesh-and-blood being, susceptible to pain, exhaustion, and damage. While she could heal herself over time, it would take a while for her HP to fully regenerate. It was something alien to Rusty, who could live as just only a helmet.
+
+“You don’t have much HP to begin with…”
+
+“ ( – ⌓ – ) ”
+
+“You think that if you get some sleep, you’ll be fine? Does it work like that?”
+
+He wasn’t sure how other creatures regained their hit points but Gleam assured him that she would be fine after some rest. Rusty nodded at her claims and saw her move to a patch of glowing moss within their lair. She circled around it a few times before curling up and drifting off to sleep - a phenomenon unfamiliar to Rusty. He was a being that required no rest himself which left him with ample time for contemplation.
+
+While looking at his partner in crime, he took some time to check out her stats. After defeating so many monsters her level was already at maximum again. Rusty felt slightly jealous that Gleam was progressing so much faster than him but also knew that eventually, this pace would start to slow down. It seemed that along with each evolution, it became harder and harder to level up.
+
+Name:
+
+Gleam
+
+Classification:
+
+Lesser Gleaming Mana Ant [ F- ] L10
+
+Type:
+
+Insectoid
+
+Hit Points [ HP ]
+
+7/17
+
+Magic Points [MP]
+
+17/27
+
+Stamina Points [SP]
+
+16/19
+
+Strength
+
+13 [ F - ]
+
+Agility
+
+20 [ F - ]
+
+Dexterity
+
+10 [ F - ]
+
+Constitution
+
+12 [ F - ]
+
+Intelligence
+
+21 [ F - ]
+
+Wisdom
+
+22 [ F - ]
+
+Willpower
+
+17 [ F - ]
+
+Durability
+
+F -
+
+“I wonder what she can evolve into now. I didn’t have the time to look at the options.”
+
+Lesser Magical Gleaming Ant
+
+[ Insectoid ]
+
+A direct evolution of the rare Lesser Gleaming Mana Ant. This monster further focuses on magical attacks while retaining a small body.
+
+Lesser Myrm Ant Queen
+
+[ Insectoid ]
+
+A lesser Queen of the Myrm Ant species, once fully grown becomes immobile to produce their offspring.
+
+Lesser Horned Myrm Ant Soldier
+
+[ Insectoid ]
+
+A larger variant of the Lesser Myrm Ant Soldier. Its body isn’t much larger but the horn it receives can be used as a mighty weapon.
+
+Lesser Silvery Magical Gleaming Ant
+
+[ Insectoid ]
+
+A unique evolution of the Lesser Gleaming Mana Ant. This monster further focuses on magical attacks while retaining a small body covered in shining silver metal.
+
+With more choices available than before, Rusty initially focused on the first option. However, his attention was soon drawn to the appearance of the fourth one. After recalling his knowledge from the soul forge, Rusty understood that silver was also a metal. While it was not superior to his bronze body it was still probably more robust than an insectoid armor. For Gleam, it could potentially enhance her durability while retaining all the bonuses of the normal Lesser Magical Gleaming Ant variant and the spellcasting abilities that came with it.
+
+“This looks like the better option but…”
+
+Rusty looked at Gleam who was sleeping tightly. He was probably able to just select the option right now and let her transform into the next evolutionary stage but that didn’t feel right. As a monster, he knew that evolutions were important and he wanted to make sure Gleam had a say in the matter. After all, it was her life and her body that would be undergoing the transformation.
+
+“Gleam,”
+
+Rusty gently called out to her from afar, the mechanics behind the thing called sleeping not really something he was familiar with. The ant didn’t react and even after a poke nothing seemed to change.
+
+“Hm… does the status say anything?”
+
+After consulting the status screen, Rusty noticed something next to Gleam’s name. It resembled the status effects he had seen on some of his enemies when they were poisoned. However, instead of displaying a poisoned status, it simply read ‘ Hibernating sleep’ with an additional timer next to it. There were no timers on the enemy screens but this could have been just due to his identification skill not being high enough. Perhaps due to the bonding contract, he could see all of Gleam's negative and positive status effects.
+
+"This hibernating sleep seems different from regular sleep. Perhaps it's because she lost more than half of her HP"
+
+He wasn’t sure but it made some sense as he had never seen Gleam lose this much HP before. Probably once it was done, then all of her health and mana would be back to normal. This left him with some time on his hand before he could ask her for the next evolutionary option.
+
+“She should be safe here… should I get rid of the remaining beetles? or just wait here?”
+
+The lair here was rather safe and he could see Gleam’s status screen even from a great distance. It was quite safe and since his arrival here none of the monsters dared to set foot in this place. The only potential threat were the humanoid adventurers which didn’t seem to have discovered this place yet.
+
+“It should be fine, her body is also really hard to spit with all these glowing crystals around!”
+
+He made the decision to engage in some self-leveling while his partner was out, considering that it was impossible to gain any further experience while already max leveled. With Gleam expected to remain asleep for another ten hours, Rusty took precautions to ensure her safety. He gathered several large boulders and strategically placed them around her sleeping spot, making it difficult for anyone to discover her slumber. Satisfied with the security of the area, he retrieved some bronze ingots he had previously made and was ready to finish the extermination. However, before leaving he stopped himself as there was one more thing he needed to do.
+
+“This place is great for using skills.”
+
+Rusty found himself in a cave filled with mana crystals, providing him with ample resources to test his skills. With these crystals nearby, he could easily crush them to regain his MP whenever needed. After utilizing the weight control skill once after his revival, he was eager to further train in its use. This skill addressed one of his biggest weaknesses of being a hollow armor and not having much mass. However, this skill had a notable downside as it consumed a large amount of MP.
+
+First came an easy test of how long he could sustain the use of this skill before his mana reached a critical point. It required a lump sum of sixty MP to activate the skill, followed by a continuous drain of one point every two seconds. This left him with a skill that he could utilize for approximately two minutes before needing to cease, as further use would risk causing him to pass out from mana depletion.
+
+“Is there a way to increase my mana without an evolution? or will I have to rely on mana crystals…”
+
+Thanks to his stash tab, he could produce mana crystals that would allow him to prolong the skill further, but in a battle of attrition, it would eventually run out. He would need to strategically use this skill only at crucial moments or to catch his enemies off guard. One challenge he faced was the inability to spread out its use during combat. Canceling the skill would revert his weight back to normal, requiring another sixty MP to restart it. Therefore, it was more efficient to keep the skill activated, as it meant he would lose two minutes of it instantly.
+
+“Is there perhaps another way to use this skill, what if I try to focus on just one part instead of my whole body?”
+
+After a few uses, Rusty was quickly mastering his new skill. His experimentation with focusing the effect on a smaller area of his body proved successful. Upon activation, he could feel his right arm growing heavier. As the weight increased, maintaining balance and control over his movements became challenging. Eventually, he was even forced to the ground by the sheer weight, rendering this method of using the skill seemingly pointless. However, there was one silver lining: it did not consume the same amount of MP as before.
+
+“Hm… I wonder… could I use it like this?”
+
+Rusty performed one more test, swinging his sword forward. He activated the weight control skill just before his blade descended, and the added weight significantly increased the power behind the strike. However, it had one major downside: Rusty's body was pulled forward with the strike, especially when he only increased the weight of his sword arm. This was a factor he needed to carefully account for in combat situations.
+
+“I bet if I activate power slash with it and maybe even elemental discharge, it could devastate even a well-armored foe!”
+
+This special combination attack had its merits when fighting an opponent that couldn’t move out of the way, or was rather sluggish. If timed correctly, it could probably devastate even the toughest of foes. However, it required precise timing and coordination, which might prove challenging in the heat of battle. Rusty made a mental note to practice this combination further to perfect its execution.
+
+After crushing another mana crystal to replenish his MP, Rusty continued with more tests. He experimented with different methods to increase his weight and discovered that if he focused the skill on his lower body, he wouldn't lose his balance as much. He could envision himself bracing for impact with just his legs, but he remained uncertain if his upper body wouldn't simply fly off into the distance during a genuine confrontation.
+
+“I can also throw it but…”
+
+At the end of his trials, Rusty even increased the weight of one of his gauntlets and attempted to throw it at the wall. While the weight persisted on his body parts even when they were further away, propelling them forward proved to be a challenge. Despite having the Limb Control skill, using it to propel his fist forward didn't seem to be an option. Any attempts resulted in slow movement, followed by the limb flopping down onto the ground. Perhaps in the future, as the skill level grew, it might become an option, but for now, it served primarily to retrieve his limbs rather than to use them for attacking.
+
+After several hours of training, Rusty felt satisfied with his progress. It was now time to pay the other beetles a visit. While his primary objective was to defeat any survivors before Gleam woke up, he was also there on a scouting mission. With fewer monsters left to threaten him and his partner, it was time to seek out new challenges elsewhere. Rusty understood that to grow stronger, he needed a steady supply of monsters to fight. Without them, his journey toward greatness would be impossible.
+
+As Rusty made his way through the caverns, he encountered a few straggling beetle monsters that had managed to avoid the earlier confrontation. However, they were no match for his strength and skills. With calculated strikes he took care of them and once his weight control ability was activated, their main advantage was not useless.
+
+After defeating the remaining beetles, Rusty took his time dissecting their bodies. He recalled the Hero's instructions and still believed that perhaps in the future, these monster parts would prove useful. However, despite thoroughly searching the beetle lair upon his return, he regretfully couldn't find the monster core of his latest enemy. The crater he created was astonishing, leaving almost nothing of the rhinoceros beetle behind. However, a part of its longhorn remained embedded in the wall a bit further away, and Rusty quickly deposited it into his inventory.
+
+Despite encountering a few attacks on his way to the beetle lair, Rusty found that the remaining insectoids had gathered around the spot where their leader was defeated. Their numbers were considerably smaller compared to the ants and centipedes, allowing him to dispatch them quickly However, even after vanquishing a sizable group of them, Rusty noticed that his experience bar didn't increase much. It became clear to him that fighting monsters of a lower rank was becoming increasingly pointless for his growth.
+
+“Is it time to face that spider, or could there be another way to get through these tunnels?”
+
+Rusty's tracking skills weren't the greatest, but he knew he just needed to retrace his steps to the previously ant-owned tunnels if he wished to reach the area with the shadowy spider. Finding that area wasn't much of a problem now that no creatures remained. However, he wasn't sure if he would be able to use that route. While Gleam could climb walls, his metallic fingers tended to slide off flat surfaces. Rusty pondered the idea of adding sharp claws to his palms, which might make it a possibility. Perhaps if he could return to the soul forge, then modifying his body would be another step in becoming stronger.
+
+“I wonder, if I can create weapons of various shapes and sizes, couldn’t I just make some replaceable gauntlets?”
+
+Rusty found himself pondering a thought that had recently popped into his bronze head. While he could potentially replace parts of his body that appeared in the forge for his evolution, was that truly the only option? What if he simply created replicas of his arms, legs, and torso and kept them in his armory? Perhaps he could then swap them out during times of need. This idea sparked a new avenue that he wished to explore later but for now he needed to focus on other things.
+
+“Well, I’ll only know once I’m back there again. For now, I should go back, Gleam should be waking up soon.”
+
+Upon reaching their crystal cave lair, Rusty waited for Gleam to stir from her hibernating sleep. Her movements were slow and groggy at first, but soon she was fully awake and her eyes regained focus. He could see that all of her HP, MP, and SP had been refilled. As soon as their eyes met, Rusty raised his hand, and his gesture was reciprocated by Gleam with a raised forelimb.
+
+“ \ (＾ ∇ ＾) “
+
+“Great, you are up, Gleam! You have a decision to make now, what do you wish to become?”
+
+Rusty didn’t beat around the bush for too long as he was also quite interested in how his friend's new form would end up looking. Gleam listened as Rusty presented her with the options for her evolution, her antennae twitching in curiosity. After considering each option carefully, she made her decision…
