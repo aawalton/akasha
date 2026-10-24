@@ -7,8 +7,8 @@ export const paulCardallPachelbelSCanonInD = {
   title: "Pachelbel's Canon in D",
   partOfCollections: ["artist/paul-cardall"],
   position: 0,
-  ownLength: 3.23705,
-  ownProgress: 3.23705,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/minutes",
   status: "completed",
   publishedAt: "2025-06-06",
@@ -20,5 +20,6 @@ export const paulCardallPachelbelSCanonInD = {
     },
   ],
   createdAt: "2026-09-03T13:17:30.278Z",
-  updatedAt: "2026-09-15T16:38:20.000Z",
+  updatedAt: "2026-10-24T14:00:24.762Z",
+  progressedAt: "2026-10-24T14:00:24.762Z",
 } as const satisfies Release
