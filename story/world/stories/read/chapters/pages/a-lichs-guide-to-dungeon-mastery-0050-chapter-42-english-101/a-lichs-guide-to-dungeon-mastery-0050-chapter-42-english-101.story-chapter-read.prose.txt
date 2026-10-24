@@ -1,0 +1,219 @@
+I needed traps, of course, but I decided to wait for a bit on those. First, I wanted to implement a few systems.
+
+People would want to take books from the library, but I didn’t want it to be completely without consequence. If people wanted to take books from the library, they’d need to get a library card to check the books out. If they took too long to return them, the librarian would kick them out of the library any time they entered until they came back with the book.
+
+Library cards would have “Access Levels” based on how far that a party had delved into my dungeon. Anyone who reached the library floors by legitimately clearing the dungeon would have a level 3 access card, and anyone who cleared them by defeating the librarian would be upgraded to a level 4 card.
+
+That meant that an individual would need to climb all the way up the tower and meet me if they wanted to check out books from the eighth floor.
+
+The purpose of this was twofold: first off, if would punish people who cheated their way through the tower. “Cheating,” specifically, meant bypassing the clear conditions of the boss floors. Uban and Fenrir were supposed to be defeated, for example, so if someone managed to get past them they wouldn’t be able to get an appropriate access card, even if they did all the others legitimately.
+
+In a similar vein, anyone who managed to overpower my defenses and smash their way through Carnic’s floor would be forced to redo the dungeon and either kill him or escape him legitimately.
+
+The other reason for the library cards was that it pushed people to go even further into the dungeon to get higher levels of access. Some people wouldn’t care, but I was betting that certain mages and scholars would be willing to fight their way up the tower to be able to check out certain books, or they’d at least pay someone to do so on their behalf.
+
+Honestly, at this point I didn’t really care about killing the people who went into my dungeon. Creating it was a good way to train up my Skills, and watching people delve into it would be a good source of entertainment, but I didn’t need to kill people.
+
+However, I was a firm believer in the principle of risk and reward. If there was no chance of failure, then there could be no growth. The dungeon would not only reward people with riches and knowledge, it would also hone their Skills just as it had done to my own.
+
+I’d give the boss for these floors a stack of library cards, but in order to do that there’d need to be a boss in the first place. Still, that was skipping ahead. First, I needed a way to stop people from stealing books, and maybe find a way to punish people who held onto them for too long.
+
+The librarian would eventually act as a deterrent to those who wanted to take books without checking them out, but what about once a group had killed him? And what if they just snuck in and then ran off faster than the librarian could catch them?
+
+Initially, my design for the entrances and exits of these floors was to just put the portal in at one end, and then have a portal out open up when the floor was complete– either by a party completing the quest or killing the boss.
+
+I felt that the exit plan was still good, but I moved the portal back into the wall a bit, making an actual entryway and putting a gate in front of it. By default, the gate would stay up, but when the players were in possession of a book that hadn’t been checked out the gate would close.
+
+The gate would have to be crafted and reinforced in a way similar to how I’d handled making Azrael’s gear, hopefully making it so that nobody could smash through it. I’d also need to set up a new program for logging which books were checked out, but I had some experience with that and already had a Database rune to process the information.
+
+Before setting that up, though, I got to work on a few traps.
+
+My Arachnomicons were one of the first things I’d made, but I’d not gotten many chances to use them. Applying my new methodologies to the old design, I polished things up and made the book spiders more efficient and powerful.
+
+The Name Arachnomicon is already in use in your Legend. Replace Arachnomicon?
+
+By replacing the Arachnomicon, you will lose all knowledge of its effects and creation, as well as all other benefits granted to you by Naming it.
+
+Y/N
+
+I accepted the alteration and relished in the much-needed update of an old design.
+
+With this floor’s mobs made, I scattered them around the bookshelves on all eight floors. The plan was for the creatures to act as ambush mobs; whenever someone walked nearby, they’d jump on them and try to claw their faces out.
+
+Half mob and half trap, these guys would be the primary danger to anyone on these floors aside from the librarian. The other threat was books with inscriptions in them that made them detonate when opened up.
+
+I took a look around at the library while thinking of how exactly to implement the exploding books, and realized that I hadn’t put either the titles or the names of the authors on the books. To rectify that, I dug through all of them to find a name to attribute the book to and some sort of title. For some of the books, I just had to make a title up, and for some others I couldn’t even find a hint of who’d written it, so I just had to leave it blank.
+
+I also took a look at how I’d organized and realized that I’d first sorted by the subject, then the title. That just wouldn’t do. I kept the subjects sorted the same way, but then took the author names and sorted them alphabetically. After that, I sorted by title.
+
+Then I realized my mistake. I’d been naturally sounding things out and converting them into English in my head– not to mention, the same thing happened automatically when I took knowledge out of Kelemnion. The books that I’d copied were all in English.
+
+…Instead of fixing my folly by translating everything back to Kerenth-Yalten Glyphic, I sought out the only method I knew of to rapidly teach people different languages.
+
+When I’d first met her, Azrael had given me a magic scroll that taught me the language of the land. I… couldn’t remember what it really was, or even what she’d called it. Had I even asked? Reviewing the memories in my Loci Server found no results, but it was entirely possible that it was in there and I was just having trouble finding it.
+
+It didn’t really matter though. I had a researcher I could bother with my questions.
+
+A few portals later, I was in Kyle’s lab. He was hunched over a project, focusing intensely on it.
+
+As quietly as possible with absolutely no flesh to pad my steps, I made my way behind him, peering over his shoulder at what he was doing. Luckily, it seemed that he was concentrating too hard to notice my presence.
+
+Kyle was currently carving an inscription. He was going through the process slowly, so it was likely that he was either working on an extremely potent rune that took more power and could explode if it went wrong, or one that he didn’t have much experience with.
+
+A quick examination showed that it was a Process rune– one of the ones I’d shown him recently. So, in other words, both answers were true.
+
+As hilarious as interrupting him would be, that would be rude to do to a friend, and dangerous too.
+
+…Oh, who am I kidding? I don’t have nearly that much self control.
+
+“A bit to the right,” I said loudly, right into his ear.
+
+Kyle jumped so hard that he impacted weakly against my skeleton and carved a huge gash through the metal plate he was experimenting on.
+
+The rune he’d been working on was destroyed, and the energy inside it got confused, no longer restrained and trying to do something.
+
+The plate detonated, but I used the second the energy used to figure out what was going on to reinforce Kyle’s desk and contain the sheet with a barrier of Forbodum.
+
+Kyle’s energy impacted against my shield and I raised an eyebrow as I sensed its makeup. While I’d seen Kyle work before, I’d never taken a good look at his energy out of respect, but I now found that its makeup was actually rather similar to mine– similarly linked to the Aethenium. The only difference in makeup was that he’d taken Love instead of Necrosis. I filed the information away in my head, knowing that it might be a pretty fun thing to tease him about.
+
+Honestly, I’d half expected him to have Soothen energy– also pretty similar, only having Karma instead of his Love. I supposed that a link to the Aethenium was more useful, though– the only two elements that didn’t link to it were Karma and Lethe, with the former obviously making Soothen and the latter making a sort of advanced form of what Lethe already was called Ignerum.
+
+I still felt like it was really weird how Soothen’s name was so different from those of all the other energies, but I supposed that it did have a special place in society.
+
+I was pulled out of my thoughts by an angry voice, saying, “Why would you interrupt me like that? You could have blown up my entire shop!”
+
+I waved a hand. “Don’t worry. I’m here, so nothing bad will happen. If I’m somehow wrong, then I’ll just fix whatever issue arises.”
+
+“It doesn’t work like that! What if I’d died?!” He was getting really upset by this, huh? I’d have to pull out the big guns.
+
+“Then I’d fix that too,” I said with a hard look, causing his eyes to widen. “I vastly prefer lichdom to true life, and I haven’t seen a single creature dislike their undeath, at least not permanently. I can do it so that you’d retain your personality too, at least I believe so. You’d eventually get over your own death, and be more powerful.”
+
+Kyle looked horrified, so I gave him a slap on the shoulder and comforted, “If I’m strong enough to conquer an entire plane of reality, then I’m strong enough to keep a squishy inscriber like you alive. Don’t worry.”
+
+My friend still looked a little disturbed, but I figured he’d get over it soon enough. Once he got a chance to consider the costs and benefits of undeath from an objective point of view, he’d realize I wasn’t an awful person for saying I’d resurrect him if he died in my presence. I mean, seriously? Sure, he’d become an undead, but that’s just trading Life energy for Death– or, better yet, Life for Forbidden Knowledge.
+
+“Anyways, I need something.”
+
+Kyle let out a long sigh. “Of course you do.”
+
+“Oh, don’t be like that. I just need to know how those scrolls that teach people Glyphic work.”
+
+The researcher paused, thinking with a frown. Then, in a moment of remembrance, he exclaimed, “You mean the language transfer scrolls, right. Haven’t thought about those in a long time. Those are pretty rare, I’m surprised you know about them.” He paused for a moment to consider, then queried, “Were you once a human who did the ritual to become a lich, or are you a natural undead? I always figured you were originally a human, hence your self-control around mortals, but if you know about the scrolls then…”
+
+I waved a hand at the question. “It’s complicated. I guess I’m somewhere in between? I was originally a human, and then this just sorta… happened.”
+
+Kyle raised an eyebrow, commenting dryly, “You becoming a lich just sorta happened. Got it. Well, anyways, I suppose I should answer your question. Language transfer scrolls are basically rich people’s way around having to teach their children to read and speak. They’re not perfect, since they only build off the user’s existing knowledge and fill in words when they learn more. For example, if a child were to use one, they’d probably know how to say mom and dad, but not how to say sword, at least if they’d never seen one before. It also doesn’t make up for their underdeveloped throats and mouths, so it’ll still come out garbled.
+
+“The scrolls are an item usually reserved to lazy nobles, hence why I’m surprised you know about them. I suppose they could be useful if you ever met an intelligent creature from another plane, or if you were to meet an undead who weren’t utterly insane–” which was probably exactly why Azrael had been carrying one– “but other than that they’re pretty limited. Why did you want to know? Just curious, or did one of those scenarios actually happen?”
+
+“I need to make a massive quantity of them for my hobby, which also happens to be my primary defensive measure. I’m basically building a giant death trap with tons of goodies in it for anyone crazy enough to go inside.”
+
+Kyle just nodded. “Ah yes, it’s common knowledge that liches tend to make overly intricate defenses for their phylacteries. I’d call it paranoia, but I’d probably do the same thing. Still, that doesn’t really explain it, and you owe me for earlier.”
+
+I rubbed the back of my skull. That was probably fair, and he might think it was fun.
+
+I took some time to explain my dungeon tower and the floors that I already had. He nodded along, agreeing that it was pretty cool, if a bit morbid. His interest really picked up when he heard that I was making a library, though.
+
+“You’re just stuffing it full of books about… everything? How do you have that much information? I don’t get nearly that much, mostly just a ton about psychology and just… way too many… fictional novels,” the scholar said with a scowl.
+
+I shrugged it off. “I’m sure there’s more in there than smut and romance novels.” Kyle’s face went red, but I continued before he got the chance to explain himself, “In some way or another, most information falls under the category of Forbidden. I’m sure that when magic was discovered, it was considered taboo. Even now, there are certain aspects of everything that’s not supposed to be available to the public. In a way, by spreading this Forbidden Knowledge it’s becoming less Forbidden. Still, instructional books from a time long, long ago, when certain kinds of magic were considered evil? They’re still in Kelemnion.
+
+“I’m absolutely certain that your realm contains much more than you think. Any book that someone has poured their heart and soul into, every journal and guide written for a child or beloved apprentice, and perhaps just any book that anyone has just genuinely loved,” I explained. If there was no good information in a literal plane of knowledge, I’d be pretty dang surprised.
+
+Kyle grimaced. “I mean, maybe. My first experience with the place was… Not great. And I haven’t really used the place since, just went back and forth to get the Boon levels.”
+
+“Take another look when you get the chance,” I encouraged, “Now, how can I get thousands of blank language transfer scrolls? To be clear, I need to teach people a new language that literally nobody else would know.”
+
+The researcher made a tight expression. “Showing your age, much? Well, whatever. They’re not that tough to make, but you need a specially treated kind of paper. I don’t actually know how it’s made, but if you go ask Queen Sharjiil to find someone who does, then you might be able to come to an arrangement. They’re very tight-lipped about the knowledge, but your ugly face might be enough to convince them to part with it.”
+
+I dropped my jaw. “I’ll have you know that my facial bones are perfectly aligned with male beauty standards, I just don’t like walking around in a suit of meat unless I have to.”
+
+Kyle made a disgusted face, then waved me off. “Go bug someone else.”
+
+So that’s exactly what I did.
+
+“Ohh queenie!” I shouted into the hall as I entered, startling her guards and a pair of peasants kneeling before their ruler, holding a little baby out to her. “Oh, bad time?”
+
+The queen leveled a glare at me. “What do you need,” Nadiya spat out venomously.
+
+“Someone who knows how to make language transfer scrolls, I’ll go wait, also hi there people! Don’t worry, I’m harmless, no muscles, see? Couldn’t hurt a fly if I wanted to,” I joked before disconnecting the energy holding my joints together and falling into a pile of bones, nudging my robe and skull to fall upright on top of them. “Bleh. I’m dead.”
+
+The parents went from terrified to scared and confused, but the baby thought it was hilarious and started giggling.
+
+I dropped my pile of bones through a portal into the waiting room I’d been brought to before meeting Bomira– I still thought she was super weird– and dismissed my collapsed body, allowing a new one to take its place from my storage.
+
+After that, I waited.
+
+And waited some more.
+
+I got bored and spread some influence around the room, pasting some reinforcement runes into the walls and powering them for fun.
+
+After quite a while had passed, the queen herself led a short, bearded man into the room with me.
+
+“If you don’t knock next time, I’m not going to help you,” she said with a pointed look.
+
+“Fine, fine, now who is this?” I clacked my hands together in anticipation.
+
+She sighed and muttered something under her breath, but I didn’t pay attention to it. “This is Ishur Goldseal. He owns the Goldseal company, which has a number of branches all dedicated to mass-producing magical items. He might want compensation for sharing information with you but I’m sure you can handle that. I’m going back to my actual job which, I hope I don’t have to remind you, is not fetching people for you.” With that rebuke, she stormed out of the room, leaving the sweaty man behind with me.
+
+The business owner looked oddly like a dwarf from fantasy, with his red face, wide but short stature, and bushy beard. Even the last name felt dwarven. Part of me wanted to ask if he was certain that he was a human, but I decided that was a bit too rude, even for me.
+
+Ishur’s heart was beating like crazy, but he put on some false bluster and a veneer of confidence, instantly trying to raise the price tag on what he’d come to bring me. “First we’ll need to discuss the matter of payment. This is a valuable family secret, one that helped my family grow to prominence. Of course, we’ll require a large up-front payment, and a commission from any sales you–”
+
+“I won’t be selling anything I get from you here today,” I cut him off. “Show me what you’ve got and I’ll decide what it’s worth. I’m a pretty generous lich, so don’t worry about not getting enough.”
+
+Ishur swallowed imperceptibly– at least, it would have been if his entire body weren’t wrapped in my influence.
+
+He continued with his act of bravado, retorting, “Now now, that’s not how this works at all. You will pay us, and then we will graciously consider allowing you to learn our secret techniques. This isn’t a small thing– even the most talented of apprentices take years to learn.”
+
+I patiently waited for him to finish trying to get me to do it his way, then poured intent into the area and commanded the air in the room to chill. Instantly, the temperature dropped by a couple degrees, and the sweat along the short man’s brow chilled.
+
+“I don’t know who your normal clientele is, but I have done my best to allow you to maintain your petty notions of self-importance and value. Let me be clear: I can take whatever I want, whenever I want,” I proclaimed coldly. “In spite of my nature, I am not a creature of unrepentant evil, but I am not a pushover either. If you were negotiating with any other being of a similar caliber and alignment, you would likely be dead right now. Now, I’d like the information I came for. Please present an example and explain your methods.”
+
+The man’s body was quivering, and he’d given up any pretense of strength or having the upper hand. “Y-yes, my lord.” He pulled a bag off his back and removed from it a piece of parchment. “First, we prepare the parchment by sending our magic into it to strengthen it…” Ishur trailed off, looking at me as though for permission to continue.
+
+“Yes, I know how to do that, please continue.” Seriously, what part of being an evil lich demigod wasn’t getting across to this guy? Maybe it was because I’d acted so casual with the queen? Probably that.
+
+Maybe I should pick an image and stick to it? Alternatively, I could keep doing whatever felt the most fun in the moment.
+
+Yeah, that second one sounded good.
+
+“Without this step, the next will completely destroy the parchment.” The short businessman looked back at me again hesitantly, then pulled another item out of his bag.
+
+It was an Arcane energy crystal.
+
+“This is–”
+
+“Yes, yes, I know what it is. Continue your demonstration.”
+
+He nodded slowly, then pressed the gem against the parchment. “Now, I focus on what I want to be in the paper– Glyphic, mostly, but we also sell math sometimes. I push that thought through the gem, and into the paper.”
+
+Ishur continued the process, slowly rubbing the gem against the parchment.
+
+I was momentarily befuddled. I knew how to transfer energy from gems, but I’d never thought to do this. It looked like the man was using the nature of Arcane energy to transfer knowledge into the page. Of course, I wasn’t a stranger to storing intent in matter, but the curious part was how to get it back out.
+
+Once he’d covered every inch of the paper with intent, Ishur squeezed down on the crystal. To my surprise, it instantly turned to dust in his grip, and he sprinkled it over the parchment.
+
+A bit of the crafter’s pride returned, and he explained, “The dust acts as a conduit between the language in the paper and the user.”
+
+“Thank you for your time,” I said with a grateful nod. He’d truly given a good demonstration, but I had a few questions before I paid him. “Now, what’s with the writing on the versions I’ve seen before? I see none of that here.”
+
+Ishur looked at the blank example he’d made. “It’s mostly a cosmetic thing, and it helps the items sell better. Nobles like to think they’re smart, so letting them think the magic is in the scribbles is just good practice. They convince themselves they know how it works– they assume it’s an inscription, but no one could make a ritual with that sort of complexity. It also confuses anyone trying to mimic us.”
+
+It was smart. Ishur had gained a bit of my respect, in spite of how poorly our conversation had started.
+
+“Why use paper, and not some other material?” I had my guesses, but I wanted to know what he thought.
+
+“Part of it is the same as the ink– it’s image. Storing rituals on scrolls is a difficult process, but one that’s well-documented. Again, our target audience will both pay and buy more if they think they know what’s going on behind the scenes.
+
+“The other part is that paper is a weak material– it makes it harder to imbue, but also means that it’s destroyed on use, as the energy reinforcing it is consumed when the knowledge is pulled out. This accomplishes similar effects to putting ink on the page. Better feel for the customers, and increased difficulty for our competitors,” Ishur explained.
+
+“Have you ever tried to use different energy gems?”
+
+He looked at me like I was stupid. “We’re not going to try to use Fire to send stuff into the brain, that’d be lethal.”
+
+“Not what I meant. You should experiment with using your techniques to accomplish something other than interacting with the mind. Intent is a very powerful thing, and if you’re careful enough you might be able to come up with something entirely new.” My words made the businessman frown in contemplation.
+
+“Anyways, that’s all I came here for. Here’s your reward. I might meet back up with you in a while and see if you’ve made any progress. Make sure you thank the queen for me on your way out.” With that, I dropped through a portal, leaving one to one replicas of Drachma’Uban’s horns and eyes.
+
+They were made out of pure emerald and ruby.

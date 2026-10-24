@@ -1,0 +1,181 @@
+Figuring out how to make the knowledge transfer scrolls was childsplay, and I was able to skip the whole process of slowly channeling intent through an Arcane gem by using Forbodum in its place, and then just crushing a gem of that type over it.
+
+I kept finding new ways to utilize my magic, and every time I was always surprised that there was something more. It was exciting to do something new, that wasn’t given to me by a Boon or a slightly altered application of something I could already do.
+
+In a way, I already had a method of transferring knowledge, but that was just to my minions. I used intent for many, many things, but never with the thought of giving it to another person.
+
+That was, after all, how it worked. I stored a complex idea in a scroll, and someone else pulled it right back out, gaining that idea for themselves. Limiting the use of these scrolls to just language was a complete waste– I intended to teach English, math, the Imperial system, and the Dewey decimal system all at once.
+
+That was, admittedly, a lot of information to cram into the brain at once, but the people coming to this floor were meant to be intellectuals. This would fix any gaps in their learning, give them an actually useful way to measure things, and provide them with a method to complete their book quests.
+
+I ended up making a Wisp with all the knowledge needed to produce the scrolls and left it to create them, instructing it to keep the number at ten. They’d be left on the desk of the librarian on the first floor, so it wasn’t like people could miss them. Plus, I kept the design consistent with what was sold by the Goldseals, so even if a party that came in didn’t know what it was, they’d be able to get it appraised and come back again later.
+
+With the scrolls set up, it was time to get back to the floor’s real defenses. I’d already placed in the Arachnomicons, but I also wanted to set some rune traps around.
+
+With a start, I remembered my Scholars– smaller, less intelligent copies of Fenrir that I’d set to mass produce runes. I no longer needed them, so I portaled into the basement floor where I’d stowed them away and cleared everything out, wiping the floor clean except for a large number of finished products– page after page of runes that would fit nicely into my trap plans.
+
+I copied all of the intents the Scholars had created over time, sorting them and stowing them away in my Loci Server in the shape of rats. After that, I teleported all of the inscriptions into the seam where I was designing the first floor of my new set, before binding them all into books.
+
+On its own, a single inscription probably wouldn’t be enough to seriously damage the sort of fighter who climbed their way to this floor, but an entire novel of them? Passable.
+
+To make sure they’d actually go off when I needed them to, I created a Detect rune on their front covers, feeding that into a Process rune. Together, they’d sense when something living touched the book, and the Process rune would then feed an input into all of the inscriptions stuffed into the tome.
+
+Now, the book had an amount of energy in it from being made of my Forbodum, but that wasn’t anywhere near sufficient for my plans, so I crammed some Forbodum gems into the front and back covers. This would give the inscriptions enough oomph to function as traps, randomized though they were.
+
+Since there were going to be so many effects going off at once, and I hadn’t bothered to separate any of them from the offensive ones, anyone who triggered one of these traps would face a number of random inscriptions going off in their face. Shields, Forbodum-based healing, buffing effects, debuffing effects, and any number of offensive magics would happen at once. In theory they’d mostly negate one another, but I was betting that things would be much more interesting.
+
+With the traps finished, the books made, and pretty much everything set up, now I just needed to make a boss monster.
+
+Now, there were a few ways that the boss for this floor could function. The first option was to make a big old monster with massive attacks and a physical focus, but while that was definitely simpler, I was much more interested in the prospect of making a literal bookworm.
+
+A vision slowly took shape in my mind, and I started creating it in the real world with my power.
+
+The creature would be slightly above human height, with slim arms and hands to let it grasp things. That was where the similarities to a human ended, though. Its skin would be pale, ghoulishly so, and its body would trail a good dozen feet behind it, tapering like the tail of a snake. With its massive weight and because its body was unsuited for it, the creature would need a form of locomotion other than the slithering, so I chose to strengthen its arms, allowing it to pull itself across the ground.
+
+A neck-like structure formed roughly where the shoulders would be on a human, but much thicker, to the point where there was almost no difference between it and the rest of the body aside from the ability to arch forward much more.
+
+In place of a normal head or face, I crowned the top of the creature’s neck with a set of circular jaws– basically, I gave it the stereotypical massive worm mouth. Around where its teeth were, I set dozens of small yellow eyes.
+
+The rough shape of the bookworm’s body was finished, so I moved onto its apparel.
+
+I wanted its body to be completely covered until the final fight, where the adventurers would have to face the librarian in combat. It would be a sort of big reveal, sort of. They’d know that it wasn’t fully humanoid, but seeing that it didn’t even have a face should still be somewhat surprising.
+
+With that in mind, I created a purple cloak scaled for its body, with extra size to keep the bookworm’s body obscured.
+
+I briefly considered giving it a weapon, but then figured it already had its mouth, and possibly some magic as well.
+
+I hadn’t yet built in a way for me to create type-specific weaknesses in the beast, but I figured that could wait until everything else was sorted out. That meant that the last thing to do before animating the thing was to consider what sort of personality and knowledge it should have.
+
+Obviously, it needed to have a love for books and a dislike of loud noises. It should act mostly like a stereotypical librarian, except crossed with the monster of a horror movie. I imagined it moving slowly and carefully, but capable of speed when it needed it.
+
+Magic… I wasn’t exactly certain what sort it should have. Obviously, it would need my Esoteric Sight, but other than that I didn’t really know what to give it.
+
+Deciding that I’d see how things turned out with the design first, I started making a Wisp, but instead of just pumping some information into it, I gave it the sapient undead special. Energy and knowledge was slowly pushed into my creation, and it started to develop a personality. Instead of just shoving things into it, the forming spirit became inquisitive.
+
+I cut off a number of currently unneeded drains on my power, commanding my creations to stop pulling on our connection for more energy. For a moment, the dungeon came to a halt, and the only things that were present in my mind were myself and the personality taking shape before me.
+
+I taught my creation of its duty, of the importance of the knowledge it watched over, of the unlimited power contained in books. I taught it emotions, and it grasped onto some while setting others to the side.
+
+It learned to want, instead of just seeking out that which it needed. It learned that the world was more than just black and white. It learned to be a person, rather than just a mindlessly obedient undead.
+
+The Wisp, destined to become the keeper of my grand library, learned what it meant to be more.
+
+Mentally drained, I closed the connection. In spite of my experience with the process and my superior Willpower, creating such advanced Wisps was draining. Carnic had been much more simple, since I’d mostly just stuffed him with moves from martial arts and superhero movies. As I wasn’t exactly a melee fighter, that mostly meant that Carnic would try to do a bunch of fancy, extravagant moves that would hopefully intimidate those who arrived on his floor.
+
+This Wisp had to intimately understand each and every book in my library. Without that, it would still be a good boss and warden of my library, but not a perfect librarian.
+
+One of the most important things that I taught the Wisp was the significance of its duty. I hadn’t intended to get all philosophical about it, but the role of a librarian was a critically important one in the development of Earth, my old home.
+
+In a world without the internet, books were the easiest way to store and communicate large quantities of information. Without books, most information would have died with its finder.
+
+Books were fragile things, too. A single spark, a slight flood, or even a careless child could destroy one. It was The Librarian’s role to protect books: to protect the education and wisdom of those who came before so that those who came after could learn from them– so that their descendents could walk the path of creation, rather than descent into chaos and savagery.
+
+The Wisp resonated with my thoughts, understanding its role and beginning to grow in that direction on its own. Not wanting to overly influence it and its individuality, I backed away from that and instead began teaching it bits and pieces of spellwork. Having already granted it so much knowledge, I was straining the limits of what I could do, but it soaked up all of what I gave it and I felt things click into place.
+
+Taking that as my sign to finish up, I quickly left some knowledge about its own body and backed out of the mental tether between myself and the Wisp. I felt a wave of weariness, but knew it was nothing compared to whatever the small soul I’d created was feeling.
+
+With that task finished up, I turned back to my surroundings and began giving the new floors some more polish, lighting tweaks, and so on. When I couldn’t find any more changes to make there, I started thinking up how I wanted to give my new monster vulnerabilities.
+
+The most obvious answer was the clothing. Perhaps I could create a rune that would empower certain types of energy in its surroundings?
+
+I quickly formed a bit of Energetic Intent with that idea and pressed onto a gold plate. I was guessing that the final result would be a bit expensive, and might even draw from The Librarian’s own pool of Mentum to work, but that would just add to the potency of the weakness. Playing smart was meant to be rewarded by the library.
+
+The Library…
+
+I almost facepalmed at the realization that I hadn’t even named my floors yet.
+
+Luckily, it was a quick fix to attach some plaques to the resting rooms that came before each floor.
+
+Soon, I had each floor labeled and numbered from one to seven, with each boss floor having a skull engraved where the number would be. Now people would easily be able to tell that they were heading into the Stone Forest, the Feral Plateau, the Endless Maze, and the Black Library. These incredibly creative and unique names had been come up with in just seconds as I didn’t think anyone would particularly care and they sounded cool enough anyways.
+
+My Librarian had started to slowly rouse to wakefulness as I’d worked, so I sped things up a bit and returned my attention to it, gently guiding it into its new body.
+
+After a moment, I sensed it twitching, exploring its shape and movement with curiosity, so I teleported onto the library’s first floor. It soon rose fully, and I looked at its horrifying maw with a smile.
+
+Hello, little one, I communicated mentally.
+
+Father, it whispered back across our connection in a meek, gentle tone that didn’t quite meet its looks, Books?
+
+I internally smiled, raising an arm to gesture out at the shelves.
+
+As if just noticing them, my Librarian shrieked in excitement, leaning forward onto its spindly arms and crashing forwards, halting just before the shelves so as not to damage anything. It carefully traced a finger across a number of books before settling on one of them.
+
+I thought the display was somewhat amusing, since it already knew the contents of all the books and their locations, but I wasn’t going to say anything.
+
+If the kid wanted to read, he could read.
+
+I was going to give him a little break and then introduce the idea of splitting his consciousness across a number of bodies to let him operate across a number of seamed floors at a time, and if he wanted to spend that time reading then he was free to do so.
+
+I’ll check back soon, I informed it, Have fun reading.
+
+It let out a screech of assent, both real and mental, and I portaled back to my Repository.
+
+I checked up on my legend, reading my stats.
+
+Ambrose
+
+Ancient Seeker 5
+
+Repository 5
+
+Forbodum Manipulation 5
+
+Occult Sovereignty 4
+
+Kelemnion’s Gate 4
+
+Dark Whispers 2
+
+Enhancements: Willpower x6, Reinforcement x1, Purity x1
+
+Named Belongings: Antigo, Drachma’Uban, Fenrir, Caerbalope, Carnic, Arachnomicon
+
+I frowned, realizing that I didn’t have any space in my Named Belongings for my Librarian and that I’d need to level up to get a new slot.
+
+More importantly, though… That was some fast leveling. Was it because of my Purity? In that case I’d need to look into experimenting with that Fragment of Divinity and seeing if there was a way I could get more with it.
+
+My mood was further raised by the new Boons on offer.
+
+Saving the best for last, I focused first on the Available Boons from Occult Sovereignty. I took a moment to parse the feelings and intent that each Boon gave off.
+
+Wild Concept was strong. It gave my intent and spells a mind of their own, allowing them to act outside of my directions. They would still, of course, focus on what I wanted the spell to originally do and would benefit from my other Boons, meaning that they’d have greater potency on physical objects and would work smarter, rather than harder, but they’d be able to act in the spirit of what I wanted, rather than by what I actually told it to do.
+
+It was a very interesting ability, since it would effectively allow the Conceptium I produced to know more than what I told it, enabling it to act in my favor without prompting or further influence. Since it would be smarter, I guessed that it would be almost like each spell I utilized would be controlled by a Wisp.
+
+Clear Intentions was equally powerful, granting me additional potency over Conceptium of all kinds. It would work with my ability to counterspell, further enhancing the skill that Bomira had helped me develop. That said, Wild Concept would be better for my dungeon, since any Conceptium I produced would, hopefully, understand the idea that the dungeon was meant to be fair, difficult, but possible as long as you didn’t overestimate yourself.
+
+I picked Clear Intentions. I loved the idea of Wild Concept, but I was already so invested in indirect combat that I was personally weak. While that was fine as long as enough of my prepared forces stood in place, I needed a way to defend myself until they could act. Spontaneously dying to a blow that was outside my ability to protect myself from wasn’t how I wanted to go out.
+
+The other set of Boons instantly sent a chill down my Repository. Images of these powers in use flickered through my mind and I felt Whispers attest to their power, trying to pull me one way or the other.
+
+Manic Divide was the first Boon.
+
+Many creatures, humans included, had segmented brains and nervous systems, with each part having a different function. Typically, one’s Soul, the intent of their very being, was spread across these different parts, governing each to a different degree.
+
+However, just as a surgical knife could sever the bonds between nerves, so too could one split a being’s very Soul.
+
+Manic Divide was the first Boon I’d ever gotten that truly exposed the wiring of this world’s Boon system.
+
+The Manic Divide wasn’t some new channel for my power, or something I could pour Mentum into and expect a result.
+
+It was a Concept, one so far beyond me that I could never hope to replicate its effects without it. The sheer power and complexity contained within this Boon was unbelievable.
+
+I almost took Manic Divide on the spot, but forced myself to turn my focus on Devour Mind.
+
+This Boon was just as overwhelming.
+
+Half defense, half attack, this Boon encompassed any Soul that came in contact with my own and pulled it in, manipulating and controlling my own Mentum to wrap around its own and devouring it.
+
+This would be represented by them arriving in my Loci Server and being forced to battle against me at the height of my power, in a place where no outside powers or influences mattered.
+
+It would be my mind versus theirs.
+
+I stepped back from the Repository and forced my brain to reboot, considering each route for my power individually. Both scaled entirely with the quantity of my Mentum and the potency of my intent, both of which were vast due to my heavy investment in Willpower and the fact that I was a lich.
+
+Both had pros and cons. Manic Divide was an all-out, single-target attack, and would temporarily incapacitate practically anything it came into contact with. It would instantly end almost any fight I got into by nature of the enemy simply being unable to fight back.
+
+Devour Mind was both attack and defense, but came with its own risks. First off, both myself and whatever I targeted would be left nearly incapacitated in the real world. With my allies, that was actually a pretty good deal for me, but the other downside was incredibly risky: if my opponent managed to overtake me while within my Loci Server, it would be given free rein over the place. It could access and edit my memories, drain my power, or even outright kill me.
+
+However, there was a hidden detail that I saw in one of these that the other simply lacked.
+
+I locked in Devour Mind.

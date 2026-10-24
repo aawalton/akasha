@@ -1,0 +1,183 @@
+When I got back to the top of my tower, the Energized Intent had carved away enough metal that I could make out the shapes of the runes I wanted to use for my project.
+
+I spent a moment inspecting the shapes that had been carved into the plates and concluded that the little cuts that the intent carved into them were actually tiny segments of the rune they were trying to form. Then, I guess the little squiggles converged and focused on the ones that were in position to actually form the rune on the plate?
+
+It was pretty odd. The runes were done, though, so now I just had to test them.
+
+I picked up the tungsten orb I’d made before and considered it. I could carve the runes into it right away, of course, but… I wanted to test them first.
+
+With that in mind, I set it down and formed some more golden plates out of the stone of my tower, simultaneously refilling the space I’d disturbed with some of the land that made up a mountain a few miles away.
+
+Domains were pretty fun.
+
+I portalled my quill into my hand from its position on the floor a few yards away, formed a table to work on, and started replicating the pattern that my Energized Intent had tried to make.
+
+The first rune I was testing out was the Mental connection one, which meant I needed two copies, and the intent of the second had to include the first. This connection would be one-way, because only the rune that knew about the other could send information across: the first rune I made would have no idea where anything I gave it was meant to go.
+
+I quickly finished both runes and powered them up.
+
+These runes passed information from one place to another, but they gave other runes no way to parse it. That meant that, to allow this rune to actually function properly, I needed to add a Process rune to the receiving end of the Link. Basically every complex inscription needed one, though, so I already had quite a bit of practice making them.
+
+To actually test whether or not the Mental Link rune would do what I wanted, I hooked an Infliction rune into the Process, making sure that my intent was clear in that it should shoot a basic projectile in whatever direction its Process rune told it to.
+
+Holding onto the input plate, I carefully directed some of my Mentum there, connecting to the plate and sending a small amount of Conceptium through, picturing the plate, and a line on it that stretched out towards its furthest corner at a 45 degree angle.
+
+When I powered the receiving plate with Forbodum, a small bolt of energy shot in the exact direction I’d pictured.
+
+I pumped my skeletal fist, then quickly carved Energy Link runes onto both plates. As soon as I’d finished carving the second one, a line of energy– invisible except to my Esoteric Sight– lit up between the two plates, and the extra complexity on the latter one made sure that the energy was properly connected with all the runes I was trying to have it go to. Using both the Energy Link and Mental Link at the same time, I wirelessly sent a projectile into my ceiling.
+
+I was happy with the results, but there was one more thing to test with these.
+
+I’d figured out the reason that it had been “impossible” for me to recreate runes with only my domain, so now I figured that I probably could do it, so long as I had an intent perfectly matched to the rune I was trying to craft.
+
+I currently had enough of all the intents involved in making the wireless projectile inscription to duplicate the process.
+
+Slowly and carefully, I formed another two gold plates, exactly the same size as the originals. Then, I made an exact replica of the inscription, leaving out only the Energy Link rune. It took a long time, constantly cross-referencing the shape of the rune down to a molecular level, copying all of the extra detailing that the creation process of the Infliction and Process runes had involved. By the time I was done, I felt like wiping nonexistent sweat off my boney brow.
+
+I warily injected the needed intents into the inscription, and watched carefully from a few feet away.
+
+Luckily, it didn’t explode.
+
+I ran a small amount of Forbodum into it, and while it didn’t do anything, it did at least accept the energy.
+
+I grabbed the second golden plate and started carving into it. I was confident that I wouldn’t be able to duplicate the rune for this one, because it had involved creating an intent directly related to the original remote inscription. If I’d simply copy/pasted the input rune, it would just send energy to the first receiver. While that could be useful in some scenarios, that wasn’t what I was currently after.
+
+Instead, I had to do things manually.
+
+Eventually, though, I finished the input rune and sent Mentum into it in the same way that I had with the first one I’d made.
+
+I grinned– or, rather, tried to grin– when a bullet of Forbidden energy shot out of the Infliction rune. I shot it a few more times at different angles, just to be absolutely sure it worked, and was glad to see that it really did work how I wanted it to.
+
+I was curious about the difference between the two Mental Link inputs I’d made, so I set them down side-by-side and carefully started examining them together. For a long moment, I thought that they were the exact same rune, but then I saw it– there was a difference. A small difference, for sure, but there was a difference nonetheless.
+
+In the original, there was a tiny crack-like line at the innermost part of the rune. In the original, it was perfectly straight, but in the second rendition, the end had a tiny offset where it was slightly thinner in one area.
+
+I didn’t fully understand it, but my guess was that the offset was some sort of indicator– the universe’s way of indicating the difference between one rune and another that otherwise did the exact same thing. Or, perhaps it was to differentiate the two receiver inscriptions?
+
+The easiest way to find out was to just make another, so I did. Using the exact same intent as the most recent input rune, I carved out yet another, targeting the same plate. I tested it out, and it worked, so I was satisfied in using it for my testing.
+
+Laying the new plate next to the other two, I checked the crack that I’d figured had been an indicator, and found that it, too, had the same offset as the other one targeting the same plate, convincing me that it was an indicator for the target, rather than the rune itself.
+
+WIth all of that done, I rubbed my metacarpal bones together.
+
+It was time to test out the actual effect runes.
+
+I decided that I should keep the best for last, so I started with the Movement rune.
+
+The first thing I did was construct a steel cube. On one side– the one that I thought of as the front– I slowly carved a Movement rune, with an intent to move in whatever direction it received an input for.
+
+On the right side of the cube, I pasted a blank Energy Link rune, and on the left I did the same with a Mental Link one. The back was used for a Process rune.
+
+I was using this as a rudimentary test for some of the ideas I’d had with my Movement rune. I was mostly trying to tell if the basic form of the rune could handle upwards movement well, or if I’d need to find another way to make that happen.
+
+Of course, I could always make a more complicated intent for that rune, but I felt that keeping it vague and open was for the best. Why force it to use a certain, limited perspective of what motion could be, when it could instead just be open to whatever it wanted to do?
+
+As for why I used an Energy Link rune and didn’t just manually form the bond, I’d found that the bonds I made myself were a lot more fragile and didn’t have very good range. The Energy Link rune perfectly and constantly maintained the bond without me having to think of it, which was good because I never thought of anything.
+
+Seriously, I’d intended to regularly upkeep the energy gems throughout my tower, but most of the doors didn’t even work right now. Hopefully I’d be able to come up with a solution to that soon, though.
+
+Soon, I had formed a simple control panel for the cube, and was sending it off in different directions to test the energy consumption.
+
+As expected, fighting the pull of gravity was more expensive than I would have liked, so I’d need to find other ways to have my orbs hover if I wanted that. Also, moving faster was less efficient than moving slowly– also an anticipated result.
+
+When everything worked exactly as I’d expected, I shrugged and attached another Process rune on the top of the cube, hooking up to an Explosion rune on the bottom and giving it a relatively concise intent: on command, create an explosion as large as desired.
+
+When I was sure that everything was integrated properly, I picked up the cube and tossed it, simultaneously directing it to move away from me as fast as it could and then create a fist-sized explosion.
+
+The cube accelerated up to sixty miles per hour as I fed it a modest stream of energy, then hit the wall and shattered as the Explosion rune used a chunk of energy that I’d shunted towards it last-minute to detonate into a purple cloud. As desired, the explosion was small, but the power it contained was enough to rend my steel cube to slivers of metal and chip my ultra-reinforced, magic-resistant wall.
+
+I nodded in appreciation. Obviously, self-destructing wasn’t exactly what I wanted from my future weapons, but that would be fixed by simply using better materials. Furthermore, the firepower was decent, even before I added any of the bits and bobs I’d thought up.
+
+All-in-all, it was a good initial test, so it was probably time to make the first prototype.
+
+Before that, though, I wanted to get some more runes cooking. First off, I wanted to make a dedicated Energy Conversion rune, and I also felt that it was probably a good idea to create specific versions of the runes I used most commonly while making gear.
+
+Once I’d set some Energy Conversion, Mass Manipulation, and Material Reinforcement Conceptium atop some more gold plates, though, it was time to actually get to work.
+
+Once more, I picked up the tungsten orb. I rolled it around in my hands, checking for any imperfections in its sphericality. Finding none– and knowing that I might be holding the most round object in existence– I shrugged and dragged my finger through its center, splitting the matter around it so the sphere was cut perfectly down the middle.
+
+The sphere was about a foot in diameter, and with it cut in half, I had access to its center. That wasn’t quite enough for me, though, so I took the two sides and cut those in half, too, perpendicularly to the original cut.
+
+Now with eight surfaces to work with, I designated each one for a different purpose.
+
+On one corner, I pasted in basic Energy and Mental Link runes that I’d use as references later.
+
+I decided to make the next corner into my control module and carefully carved in two Process runes.
+
+As for the last two quarters, I simply carved the runes that linked to those two Process runes– an Explosion rune and a Movement rune.
+
+I left the last two sides on each of those segments blank, though. I had plans for them.
+
+When I’d finished carving out all of the runes, I fused the orb back together around them, fusing everything around them into a single, solid piece, but leaving the runes themselves untouched.
+
+Next, I created a remote for the piece by putting an Energy Link and a Mental Link on a thick metal rectangle I’d made, and telling them with my intent to attach to the Links inside the ball.
+
+I sent some energy into the prototype weapon via my remote, activating it. Then, a bit of Mentum went towards my remote’s Mental Link, and it started to move.
+
+The cube from before had just ground its bottom against the ground, soI was glad that the Process rune dedicated to movement understood this time that I wanted the ball to roll. I guess rolling a ball is probably a lot more natural than rolling a cube? Or perhaps I just hadn’t pictured it well enough.
+
+Anyways, the sphere slowly rolled around on the ground, reminding me somewhat of a bowling ball.
+
+Chuckling at the mental imagery that invoked, I pulled some small, oddly-shaped stone pillars out of the ground and sent the ball rocketing towards them. The fake bowling pins took the hits hard. Some were smashed hard enough to break in half, while others were just scattered across the room with chips taken out of them.
+
+I nodded in happiness at the damage that alone had done, and reformed the pins elsewhere in the room.
+
+I sent the ball forward once again, but this time I activated the Explosion rune as the ball impacted the first pin.
+
+While forming the intent for this rune in particular, I had just told it to shape its charge to start an inch away from its surface. Eventually, I wanted to make this part of the enchantment more complex, but for now it would have to stay like this.
+
+I’d sent a good amount of power towards the ball for the explosion, so the power was enough to shoot all of the pins out with enough force to actually deal a small amount of damage to my walls. That made me try to flex my smile muscles, but I didn’t have any of those right now, so instead I settled for calling the ball back to my side and picking it up.
+
+“You may be small and weak for now, little weapon,” I told it softly, “but you have potential. I can see it.”
+
+I let out a wicked cackle and tore it in half.
+
+That is, I opened up the runic components. I’m not that insane.
+
+I opened up the ball all the way and considered my next move. The runes that I’d left to settle had completed by now, so I was thinking of ways to work them in.
+
+My current plan involved a lot of changes and increases in complexity, which would force me to cut the orb against another axis, giving me access to 24 places to put runes.
+
+I knew it was kinda stupid, but part of me wanted to fill every single one of those with runes. And that part… was winning.
+
+I needed an Absiete gem for part of the plan, so I hopped down to have a chat with her while she made it. She seemed happy that I’d come to see her twice in the same week, even if one of the times was because I needed something from her. I couldn’t tell if it was a good thing or a bad thing.
+
+…Probably bad, right? It’s not really a good thing for you to only see the people you care about once a week and they’re excited to get more than that.
+
+Anyways, we had a brief chat about the food supply– the agriculture business was booming, apparently– and then it was back to work.
+
+Splitting an orb across three axes would give me eight pieces with three inner sides each, giving me a total of twenty-four spots to put runes. Of course, I could just make some smaller and some bigger, but that was kinda lame, wasn’t it? Twenty-four runes it is.
+
+Actually, sixteen. One of the spots on each slice should be used for a Material Reinforcement rune, just to be safe. I didn’t want to accidentally shatter one of my balls while making it explode.
+
+The Energy and Mental Links brought me down to fourteen slots, Explosion and Movement made that twelve, and the two Process runes meant I had a total of ten spaces for runes.
+
+That was a lot. Most likely more than I needed. That said, I’m a magical lich, so why not be over the top?
+
+The reason I’d needed the Absiete gem from Azrael was to power a Gravity and Mass Manipulation rune. I was hoping that I could use it to negate gravity and reduce the overall weight of the orb, allowing the Movement rune to have vertical movement.
+
+Another Gravity and Mass Manipulation rune would be needed to do the opposite, increasing the ball’s downwards momentum, for when I really needed to crush something.
+
+That brought me down to six runes.
+
+One thing that I eventually decided on was to try out that one thing the mage who’d written the Enchanted Orbs book had suggested, but hadn’t been able to get working because he was using an Ordinance rune.
+
+If I could get my new Energy Conversion rune to somehow convert the kinetic energy of the orb into power for the Explosion rune, that would increase my overall efficiency by quite a bit. I’d still need a Process rune, though, so that I could turn it on and off. I didn’t want to accidentally drop my orb on something and have it explode.
+
+Five slots left.
+
+If I was already changing how my Explosion rune worked, then why didn’t I just go for a rework of how large of an area it was meant to cover? Automating that would be quite useful.
+
+That meant I’d need another two Processes and an Observe rune. The Observe rune would look a few inches outside the orb, and the Process rune would check to see if the orb was touching anything. If it was, the Energy Conversion rune would be activated and the information would be passed along to the second Process, which would check how durable the surrounding material was– not just whatever it was touching, but also anything behind that, meaning something like clothes wouldn’t be able to fool the weapon.
+
+If the material was weak, then the explosion would be sent out in a wide area around the, but the tougher it was, the smaller and tighter the explosion would get. For example, if the orb hit Carnic’s armor at full speed, the explosion would probably be sent only at the spot it hit, which would be pretty devastating– maybe not enough to actually seriously damage the gear, but it’d get sent flying like a football, and the person inside would get sent flying with it.
+
+Hitting a soft pillow, on the other hand, would result in the energy being sent in a huge area.
+
+Two runes left.
+
+I decided that I needed another Gravity rune, and a Process rune to feed into it. The Process would take from my Mental Link to find out which direction I wanted the orb to move in and how fast, and if I was trying to get the orb to accelerate it would feed that into the Gravity rune. The Gravity rune was tuned to treat whichever direction it got from the Process rune as “down,” and would apply even more force.
+
+I formed a human head out of Forbodum and had it smile for me.
+
+Now all I had to do was make these things.

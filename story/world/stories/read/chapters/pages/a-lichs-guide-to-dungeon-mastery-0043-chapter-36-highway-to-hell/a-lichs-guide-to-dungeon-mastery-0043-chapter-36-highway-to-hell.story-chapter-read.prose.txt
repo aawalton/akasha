@@ -1,0 +1,211 @@
+I didn’t get the chance to go investigate the Fragment of Divinity before I was reminded that I needed to set up a highway between Kerenth and Yalten by somebody poking their head into my domain. They only stayed for a handful of seconds, so I couldn't tell who it was without investigating, but I honestly didn't care. I knew why they were there, so I was going to deliver on my promise.
+
+I’d failed to continue the process of constructing a highway since I’d been distracted by the Fragment, so I restarted that, devoting a portion of my attention to it and using my new Multithreading Boon.
+
+The new Boon functioned by simply creating a metaphysical “section” of my Repository, which would then continue on with whatever instruction it was last given. Essentially, I was splitting up my brain, but not my consciousness, and it would act like some sort of looping program, repeating the same sequence over and over until it was stopped.
+
+I could sense that this ability would use more space to carry out more complex tasks, meaning that there was a hard limit to how many things I could do at once, but I felt no direct reduction in my intelligence, only a bit of a drain on my Mentum and a slight weakening of my overall Willpower, but that had more to do with the task than the Multithreading Boon.
+
+With that handled, I started to design a new type of Enchanted Orb.
+
+First off, I needed to make a rough schematic and plan so that I’d know which runes to use, or if there were any preexisting ones that I could use.
+
+Obviously, I’d be using the informational and energy transferring runes that I’d used in previous designs, my Energy Link and Mental Link. I’d also use my previous Movement rune.
+
+Aside from those, I’d need a new rune to part the hostile energies of the Dead Belt.
+
+I saw two possible design options here. One would be more energy-efficient, but the other would be much more comfortable for the mortals who would be traveling my road.
+
+I started turning the choices over in my head, then facepalmed as I realized that I could just use both at the same time.
+
+The first design would draw in the energy of the Dead Zone, depleting the area to help sustain itself, solving the issue with minimal energy loss. The issue with this method is that it would have a chance of pulling energy through a caravan. In theory, this wouldn’t be too big of a deal, but it would be extremely uncomfortable and would putrefy any organic exports.
+
+The alternative to this method would be to use an Enchanted Orb that would instead push away Necrosis. This would be a much more costly method, though, so I was a bit less keen on it.
+
+I wasn’t truly having energy issues, since everything I made was powered by my own enhanced energy, which was reinforced by Willpower increases, my advanced Forbodum energy, and my status as a lich, a creature that was already incredibly magically inclined.
+
+Still, I knew that I needed to start being more efficient with my energy consumption. I was already having to refill my power storage far more often than I’d like, and adding more inefficiencies would worsen that problem.
+
+I’d likely need to create some sort of magical generator, but that was a task for future Ambrose.
+
+My new plan for the ferry orbs was to have a single push orb in the center of a formation of pull orbs. Hopefully, that energy draw would be sufficient to power the entire setup.
+
+I went through the process of forming a rough template for a new Enchanted Orb design, slicing it open.
+
+Instead of carving actual runes into the inside of this sphere, though, I instead left small marks. These marks were representative of where each individual rune would need to go.
+
+In all honesty, the process was effectively the same as when I made the Runic Detonators, except I just had to replace all the more violent runescript with ones that would drain and pull in energy.
+
+I chose to create a new rune to control the pushing and pulling effects that my Orbs would need, and chose to keep it pretty simple, imbuing the Energized Intent with thoughts of mental energy being pushed and pulled in a slow, ambient manner– no faster than energy would normally travel, but redirecting it towards a certain location.
+
+After forming and storing a portion of it, I left that Energy Locus Conceptium cooking on a large block of gold, and started work on a new brand of Runic Deployer.
+
+While much less processing would be required for this formation of Enchanted Orbs, I felt that it would still be wise to use a Deployer to keep all of the orbs in their places and make sure that they didn’t depart from travelers or force them to try to keep up..
+
+Redesigning the orbs was rather simple– only a handful of runes needed to be changed at all to remove their offensive capabilities. I was even able to hook it into the same system for judging creatures within their view, just without the targeting feature that the original Deployers used to direct Detonators to attack. Even that rune, though, could be worked into ensuring that the Runic Ferries would stay in formation– with the Pull Ferries at a safe distance from the travelers and the Push Ferry remaining relatively centered.
+
+All in all, it wasn’t that huge of a conversion from my previous works.
+
+Eventually, my new rune finished and I was able to get to work on the Runic Ferries, hooking them up to their Runic Deployer as I went.
+
+I decided to link six Pull Ferries for each Push Ferry and Runic Deployer pair. If that didn’t provide enough coverage, then I could up the number, but I felt that it would be sufficient for the test I had in mind.
+
+I started looking for Azrael– as the leader of the small Amazonian city that had formed around my tower, I figured that she’d be able to help me convince some of the residents to test my new creations.
+
+I checked her residence. She wasn’t there. I checked the rest of the city. She wasn’t there. I checked the area immediately around the city, figuring that she’d gone hunting. She wasn’t there.
+
+Concerned, I used the Spatial aspects of my Forbodum to pull on the bond between us, dragging my mind to her position and creating a portal there.
+
+Stepping through the portal, I found a surprised Azrael staring at me as though she’d forgotten I existed.
+
+“What are you doing?” I gave her a sharp look. If she was going to give me a hard time about not checking up with her while I was working on projects in my tower, then there was no way that her walking halfway across my domain in a straight line without saying a single thing in advance was acceptable.
+
+“Uhh…” Her face was completely blank for a moment, then contorted into a sheepish grin. “I’m walking?”
+
+What.
+
+“Where are you going?” If she’d just traveled a quarter of a continent’s width for fun, I’d be having some serious concerns.
+
+She shrugged. “I dunno, I just feel like there’s somewhere I need to be.”
+
+I examined Azzy with all of my senses, and found that there weren’t any new bonds on her, at least that I could detect, so it was probably not some sort of mind manipulation. Still, though… “Is there any way I could convince you to come back home?”
+
+She looked down at the ground, then shook her head. “No, I feel like I really need to do this.”
+
+“Well, if you’re sure…” She was a grown undead, and I wasn’t her mother. “Is there anything I can do for you? Maybe I could make a portal to help you get where you’re going faster?”
+
+Again, Azrael shook her head. “No thank you. I need to do this on my own.”
+
+I mentally frowned at her words, but again, I wasn’t in charge of her.
+
+“Come back home safe, alright?”
+
+She smiled brightly beneath her helmet and gave me a confident thumbs-up.
+
+Back in my tower, I was beating my reinforced skull against a wall, flanked by my floor bosses, each of whom was responding to my self-deprecation in their own way.
+
+“I’m such an idiot.”
+
+Uban snorted. “How did you just forget that you could make portals?” The jerk had started talking to Azrael, who had explained how much of a nerd I was to him. Since then, he’d lost any semblance of respect for me.
+
+Carnic just stared at me with an unreadable expression.
+
+Fenrir shot the land dragon a glare and tried to comfort me, “I’ve found that sometimes having a huge number of options at your disposal is a bad thing, Father. There were many ways you could have gone about solving this problem, and you picked one that is perhaps less efficient than it could have been. Still, it’s not all bad.”
+
+I lifted my head off the wall, hoping for some way to salvage the situation. “Explain.”
+
+“Well, portals are wonderful and all that, but their own downsides,” he elaborated, “They’re a mode of transportation that is entirely inconvenient for anyone who isn’t extremely skilled in the Spatial arts. The people of Kerenth are unlikely to expect you to be able to keep a portal open indefinitely, and playing into their expectations is critical. If we show them all of our cards at once, they may become concerned or untrusting of our intentions.
+
+“Furthermore,” he continued, ”We don’t know if there’s some way that a portal could be hijacked by a hostile Spatium wielder. It is unlikely, considering that it would lie within your Sovereignty, but if it were to happen, that could be extremely dangerous for us. This method allows you an opportunity to observe those who approach us and ensure that their aims are pure, at least regarding us.”
+
+By the end, I was nodding at my creation’s explanation, and I gave him a pat on the shoulder, causing him to straighten his back with pride.
+
+“Thanks, Fen. I needed that.” I rubbed my hands together and teleported all of my lieutenants back to their lairs.
+
+Now I just needed to pitch my idea to Queen Nadiya.
+
+I’d never been much of a socialite, but becoming an undead had eliminated a lot of my self-doubt. Still, I needed to take a moment to think about what I was going to say and psych myself up.
+
+Nadiya seemed pretty understanding, but this was sort of a big deal. This was how I could get my hands on new magic types to tinker with and use in my runes.
+
+Eventually I felt sufficiently prepared, and gathered up the orbs, quickly teleporting to the edge of my domain and navigating my way towards the castle in which the young queen lived.
+
+Luckily for me, the castle was built rather close to the Dead Belt. It made sense, honestly, since it was a natural barrier that could prevent weaker armies from passing through and would cause weakness and a loss of morale in those strong enough to make their way through it.
+
+Anyways, I reached the castle quickly enough, teleported past the guards, and eventually made my way into the main hall.
+
+I was greeted by a sword in the skull, thrust out by one of the queen’s guards rapidly enough that I hardly had time to process what was happening.
+
+My body died to some sort of energy that had been infused into the strike, and another popped into existence immediately after.
+
+I shoved a wall of force at my attacker, using pure Forbodum Manipulation to pin him against a wall.
+
+Across the room, Nadiya sat in a throne with a startled expression, another guard positioned to defend her.
+
+I positioned my arms to my sides and gave the most exaggerated shrug I could. “Nadiya, I have come to bargain.” I let the queen’s guard whom I’d restrained drop to the floor, and felt the queen use her sympathetic magic on me to sense my emotions.
+
+“You could have knocked, you know.”
+
+I grinned. “Where’s the fun in that?”
+
+She slouched, tiredly asking, “What have you come to talk about? I’m in court, you know.” Sure enough, there was a pair of individuals kneeling on the ground beside me, staring up at me with horror in their eyes.
+
+I waved at them with a shooing motion, and they both skedaddled out of the grand hall as quickly as their legs would allow.
+
+My gaze returned to meet Nadiya’s exhausted one. “I can guarantee that this is more important than whatever that was.”
+
+The young queen let out a long-suffering sigh. “At least you got me out of that. Every few years, some noble family will rise to power in the kingdom and think that, for some ungodly reason, I’d be interested in marrying their youngest son. Half the time they’ve only just been born, and the other half it’s just a middle-aged man. I have half a mind to lock them up, but the other houses would rise against me and call it an abuse of my power.”
+
+I grimaced internally. “That sounds awful. I’m sorry you have to go through that.”
+
+“I’m used to it by now. Someday I’ll be expected to marry and continue the bloodline, and then maybe I’ll appreciate having so many options,” she stated dryly, “But that’s not why you're here. What have you brought for me?”
+
+I levitated one of my Runic Ferries over to the young queen. “These are called Enchanted Orbs. They can be used for many different things, but these ones are specifically designed to create a habitable zone in the Dead Belt for caravans. It needs a bit of testing, but it should work just fine.”
+
+Nadiya examined the sphere with great interest, running a finger over its smooth surface. “I don’t see any runes on it. How is it enchanted?”
+
+I nodded at the astute question. “The runes are inside the orb. With my abilities, I am able to slice the orb into many pieces, carve the needed runes into each, and then mend it back together.”
+
+“Fascinating,” the queen tapped the metal ball contemplatively, then called out, “Shomar, please fetch Maskyle.”
+
+The guard who had attacked me earlier bowed to his queen, then exited the room.
+
+“Who’s that?” I inquired.
+
+The queen finally stopped staring at the ball and looked at me again. “Maskyle is an expert in runecrafting. He’s also my magic tutor.”
+
+“Mind if I bring in my own expert?” Queen Sharjiil raised an eyebrow at me but nodded her assent, so I formed a portal.
+
+The end destination of this portal was within my influence, so the strain was somewhat reduced, but I still rushed to grab Fenrir by the scruff and yank him through.
+
+The Lord of Nails made an odd yelping sound that was completely out of character for him and rapidly examined his new location. Once he’d gotten a moment to process, he fell into a deep bow.
+
+“Your Majesty, my Father has spoken kindly of you. This one is Fenrir, second son of Father Ambrose,” the Lord of Nails intoned reverently.
+
+I snorted at him, giving his head a good scratch between the ears, causing his tail to swish slowly. “C’mon bro, it’s not that deep.”
+
+Fenrir shoved my hand off his head, then rose back to his feet and straightened his robes, giving me a dirty look.
+
+The young queen stared at the huge wolfman mage covered head-to-toe in “nails” with shock in her eyes, but eventually got over her surprise and asked me, “This is… your son?”
+
+We locked eyes for a moment, and I tried to hold it in, but eventually burst out laughing.
+
+“That’s what got you?! Oh my goodness, whew…” I spent a good few moments breathing to regain my composure, then replied, “Yes, in a way. I formed his body from scratch with my magic, created his soul, taught him everything he knows, and sustain him with my energy. It could, indeed, be said that I’m his father. How did you think that worked?”
+
+Nadiya’s face turned slightly pink, “Well, I thought… I don’t know, you’re both undead and you’re clearly human so I was really confused.”
+
+I nodded in response. “Well, I create my own bodies as well. I try to base my physical form on what I looked like in life, but it’s still all just energy. But yes, I am Fenrir’s father.”
+
+Footsteps echoed from where Shomar, the guard, had left to fetch the queen’s expert in runes, and soon both entered the hall.
+
+To his credit, Maskyle was only slightly phased by the sight of a lich and a werewolf. He walked with a carefully controlled pace and stepped beside me, turning to his queen and kneeling. “What do you require of me, your Majesty?”
+
+“Work with these guys to figure out how to use this device they made for us. They know a lot of stuff about runes, and I’m sure it would go way over my head if they tried to explain it to me.” The queen tossed my Enchanted Orb back over to me, which I manipulated midair to make it look like I’d perfectly caught it.
+
+What’s the point of magic if you’re not going to use it to look cool, after all?
+
+“Yes, Ma’am,” the kneeling man said respectfully, rising again to extend a handshake to me, “May I get your names?”
+
+Returning his handshake, I grinned internally, wishing I had a head nearby to make smile. “You may call me Ambrose. I made the Enchanted Orb.”
+
+“Fenrir,” my companion said as he, too, returned the handshake.
+
+“I am Maskyle, Kerenth’s foremost expert on inscriptions,” the man said, frowning at his hand which had been scratched by Fenrir’s nails. “I have a laboratory that we can work in, if you’d please?”
+
+I nodded my assent and followed him through a few long hallways to a sterile room and a few implements that I recognized from the books in Kelemnion that had taught me runes.
+
+Maskyle brought some blank sheets of metal and a magical inscriber over to a table. He took one of the sheets and set it down, then started the process of inscribing the rune.
+
+“This is how we make runes here,” he explained while slowly carving out the rune, “Unlike most other places, we do our best to make it less of an art form and more of a scientific procedure.”
+
+He went silent for a moment, then continued, “All of my Classes and Skills have been centered around runes, making me the most consistent and quick runecrafter in the kingdom.” Another few seconds passed, and I felt a bit of awe as he pulled away from the completed rune.
+
+Sure, I could copy and paste runes to mass produce magical items, but this man had just made a rune from scratch in maybe a minute flat? It was impressive, especially for a human.
+
+Maskyle handed the metal sheet to me so I could inspect it. I infused a bit of power into it, and an orb of purple energy formed above the rune, shedding its light around the room.
+
+“Well, Maskyle, I suppose there’s only one question left before we continue.”
+
+The researcher’s eyebrows flattened concernedly. “What might that be?”
+
+“Mind if I call you Kyle?”

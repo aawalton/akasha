@@ -1,0 +1,40 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const awakenerAPostapocLitrpg = {
+  id: "01a16cac-2e76-7ed7-a876-b5510138baec",
+  type: "page-type/story-read",
+  slug: "awakener-a-postapoc-litrpg",
+  author: "Persimmon",
+  following: false,
+  unit: "unit/words",
+  title: "Awakener - A PostApoc Litrpg ",
+  world: "world/awakener-a-postapoc-litrpg",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "74685",
+      externalLink: "https://www.royalroad.com/fiction/74685/awakener-a-postapoc-litrpg",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Urban Fantasy",
+    "Progression",
+    "Post Apocalyptic",
+    "Strategy",
+    "Action",
+    "Adventure",
+    "Contemporary",
+    "Fantasy",
+    "Attractive Lead",
+    "Dungeon Crawler",
+    "GameLit",
+    "High Fantasy",
+    "Magic",
+    "Male Lead",
+  ],
+  readLater: true,
+  createdAt: "2026-10-24T06:49:45.846Z",
+  updatedAt: "2026-10-24T06:49:45.846Z",
+} as const satisfies StoryRead

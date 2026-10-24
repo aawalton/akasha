@@ -1,0 +1,181 @@
+There had been a lot of improvements in the way I did things over the months that I’d been working on my tower, and now there were a lot of things that were outdated.
+
+One thing in particular that had been on my mind a lot lately was the homogeneity of species on my floors. The third set was fine, in my mind, because it was kinda meant to just be a bunch of bunny rabbits, but for the other two I wanted to make some extra mobs.
+
+I’d already thought up some ideas, so it wasn’t too hard to implement some of them.
+
+First off, I sporadically added metal beehives into the stone forests, and filled them with little bee-ish insects that I created with my magic. For each hive, I tied all the bees together with linking magic before giving them any consciousness, effectively allowing them to share a mind and split any physical damage they received between themselves.
+
+I was thinking that a bunch of insects would probably be a lot more terrifying if they could strategize and were very difficult to kill, allowing them all to attack as one even while far away from the hive and survive a few hits. I’d have to wait and see how it turned out, though. For now, I chose to call them Telebeethics– bees that could communicate telepathically, rather than through hormones.
+
+It was an awful name, but I liked it.
+
+I also tossed an Antigo into the middle of the fourth floor, deep in the forest. I was thinking that minibosses should be a common theme in my tower, since they would be a good way to add some spice every once-in-a-while.
+
+Currently, Antigos were only used as my shock troops, and the defenses that I had stuffed into the floors of my dungeon that had yet to be filled. They were a bit too potent to be a regular mob, but too weak to be a boss in my current setup. Therefore… miniboss.
+
+I wanted to add something more to my first floors, but couldn’t think of anything, so I looked out within my influence to see if I could find any examples.
+
+My domain currently stretched out well past the Dead Belt and bordered the ocean on either end, so if something was inside, I could find it.
+
+Eventually, I came across a deer-like creature that had wandered into the Dead Belt and gotten corrupted. It was only deer-like because instead of hooves, it had clawed paws, and instead of the normal, flat teeth that would be found on a natural deer, it had pointed ones. Its tail was also slightly longer than I felt it should be.
+
+My Encompassing Knowledge labeled it an Undead Coursing Svykin.
+
+It was particularly interesting because it clearly had some natural magic I hadn’t seen before going on.
+
+Its antlers were glowing with green energy.
+
+At first, I was confused, because part of me conflated green with Vitasis, and this thing’s body was far too natural to be an abomination of that type, but when I inspected the creature’s horns more deeply, I realized that it was actually a small aura of Necrosis that had a specific Rot intent.
+
+To be more specific, the intent was geared towards a more natural decay than what Necrosis would normally look for, slowing the process of a creature’s death but producing actually living creatures out of it– all the different kinds of things that you would normally expect to crawl out of a coffin that had been left to sit for a few decades.
+
+While curious, that didn’t interest me nearly as much as the actual production of the aura itself. After some careful inspection of its body, I determined that I wouldn’t be able to figure out what was going on without rekilling the Svykin to get a closer look at its insides, so I flooded the area with my power and cast a modified variation of Writhing Earth.
+
+With this casting, I used my domain to create the weaponized strands, rather than having them originate from me. As I’d expected, this was weaker and far more energy-intensive than casting the spell the normal way.
+
+Luckily, the deer wasn’t all that strong, so its innate magic didn’t project far enough to disrupt my casting significantly. It did almost escape, having sensed the disturbance in the ambient energy. It wasn’t quite fast enough to avoid being speared by one of my tendrils of power, though, so it all turned out alright in the end.
+
+Inspecting the now dead-looking antlers, I found that they were actually filled with slowly decaying Conceptium that matched what the deer had been using earlier, as well as a ton of Necrosis.
+
+I spent a while inspecting the antlers further, and when I looked deeper, I found that they had tiny little fractures inside of them– very similar to what I’d seen when creating or carving runes.
+
+After spending some time examining and considering, I decided to run a little experiment.
+
+Using the Svykin’s body as a reference, I formed a copy on my first floor, one with the tiny cracks and grooves in the antlers, and the others without any horns at all. I repeated this process a few times, creating multiple “herds” of them, though for all the others that had antlers I filled in the little gaps.
+
+I bound the herds’ minds together with my magic, but only their minds this time. The way I normally linked stuff together was by pulling their entire bodies into a bond and then targeting that and creating a weak consciousness for it, but I could make them all effectively share a mind by instead creating a bunch of small, faint consciousnesses that barely did anything at all, binding those together, and then creating a stronger one to arc over them.
+
+I actually did something slightly different, though, in that I bound all the antlerless Svykin minds together in their herd, and then tied those to the antlered one, making that one the controlling mind. This would, hopefully, make it so that the antlered Svykin would be something of a puppeteer and the others would have a massive drop in intelligence if it died, making it seem like they went mad.
+
+Because of this, I decided to call the ones I’d formed without the antlers Puppet Svykin and the antlered ones Prime Svykin.
+
+I instructed all of the Prime Svykin minds to slowly channel intent and energy towards their antlers, even the ones that didn’t have the slight alterations in them.
+
+My theory was that the semi-runic structures had formed within the antlers of the original as a result of a small but constant and consistent influx of intent and energy– likely as a result of being so close to its mind– and that had slowly created the structures, giving the power an actual function.
+
+I had all of the Prime Svykin without pre-existing structures decide for themselves what sort of intent they wanted to focus on– I’d given them just enough intelligence to think in concepts like that. Hopefully, at some point, I’d be able to create copies of their antlers and turn them into something.
+
+As for the one that had a perfect copy of the original one’s rack, I created as close of a replica to the intent that the Undead Coursing Svykin had been using and tested it out in the horns through the minion, slowly tinkering with it to get it closer and closer to what I thought had been used.
+
+Eventually, I saw a slight purple flicker of energy, and paused. I saved a tiny amount of that variation of the intent within my Repository, then worked from there.
+
+A few hours later, I got purple green energy that was flowing out of the structures to mimic the strength of what I’d seen in the green energy of the creature I’d copied them from– though there were obviously some differences since I was using a higher tier of energy, such as the output being purple– and handed that off to the minion itself, instructing it to recreate it.
+
+I spent a while observing the created undead, eventually concluding that the process was working just fine.
+
+As an experiment, I instructed it to cut off the intent, but keep up the energy influx. Interestingly, the purple aura cut out, which was something that wouldn’t have happened with a proper rune.
+
+Other than my Database runes, I’d never encountered a rune that required an influx of intent to function after creation– and even then the Databases worked, they just wouldn’t get updated without input in the form of intent or a Process rune.
+
+I had the creature restart the process of feeding the semirune structures, and looked closer, inside the antlers this time.
+
+With a normal rune that was being powered by an energy type that was also being used as the structure it was held on top of, it would rapidly consume and degrade that material to add extra strength. Even if you put a rune on something that wasn’t conjured, it would slowly degrade that thing.
+
+I could somewhat get around this drawback of runes by reinforcing materials with material compression, stacking, and other runes to increase durability, and also occasionally refreshing things with more material. I rarely though of it for the most part, though, because it was just such a slow process unless the materials were actually formed out of the energy type that was used to power the runes used on top of them.
+
+The interesting part of these semistructures, though, was that they didn’t cause this degradation.
+
+I’d have to come up with some way to use them more practically, and also to create them without having to spend a super long time slowly channeling power into whatever I wanted to use them on.
+
+That would have to be a future Seif thing, though.
+
+Right now I was busy fixing outdated work.
+
+With the Svykins put into place, I figured that the first eight floors had enough diversity, so I moved on to the next set.
+
+For these floors, I figured that setting the Nailwolves up as the top of the food chain– excluding the miniboss, of course– would be for the best, so I was mostly looking to add in some prey animals.
+
+I did want to stick with the nail theme, though. Replacing the fur of the Nailwolves with long, skinny claws had made them look pretty cool, and they also matched the gray of the stoney environment I’d created for them.
+
+I spent a moment looking around in the parts of my domain that reached past the Dead Zone, trying to find some good prey.
+
+The first thing that caught my eye was, of all things, a moose. Literally just a normal moose. Of course, the moose would be a strong, sturdy foe for adventurers, even if it was technically a prey animal, as an herbivore. My Nailwolves wouldn’t actually be hunting them and throwing themselves to their deaths, so I figured that it would be fine.
+
+I slowly formed the first moose in my tower, on the third floor. I figured that having them as rarer enemies would make senses, since they weren’t the primary enemy of the sector but were still pretty tough to fight.
+
+As with the Nailwolves, I replaced the moose’s fur with gray claws. I didn’t bother giving it any innate magic, but I did heavily reinforce its body with my magic. It would be a unique experience in the sector: it couldn’t tear you apart or throw you around with space magic, but it could trample you to death if you let it.
+
+The look was pretty different from the normal moose, especially in coloration. With the wolves, it hadn’t been quite so different because wolves could be gray, but I’d never seen a gray moose before. Therefore… Graymoose.
+
+I know. I’m so creative.
+
+I scattered a few between the floors after the third, increasing the density of moose as I climbed. Eventually, I got to a point that I figured was good enough and moved on to another kind of beast to add in.
+
+Goats. Mountain goats, specifically. They could live in a stoney environment like the one the second sector presented, and they seemed to fit in with the Greymoose and could work as prey for the Nailwolves.
+
+Skimming quickly through my domain, I soon found a goat to work with as a base, and created a replica.
+
+Looking around my territory like this made me realize just how huge it was. I’d not really thought about it before, but… I’d probably expanded across at least a quarter of the continent by now.
+
+I’d probably run into some human settlements pretty soon.
+
+Like with the Graymoose and Nailwolves, I replaced all of their hair with claw-based structures, though for theirs, I made them thinner, longer, and a bit curly, to make them look more goaty.
+
+Because I’m a psycho, I named them Pogoats, because it’s not like anyone else is going to understand the name, right? In fact, the only people who would even hear it were me, Azrael, and maybe some of my intelligent minions.
+
+With that done, I moved onto the miniboss that I’d be putting on the 12th floor. I’d already partly thought up its design, so I just got to work putting that idea into reality.
+
+Soon, I had a lion-shaped beast standing before me, though its fur and hair had all been replaced by claws that were reshaped to match the look of the lions in my memories.
+
+Similarly to the Graymoose, I’d given this beast significant physical enhancement, and I also made its natural weapons sharper and deadlier than an organic creature would have. On top of that, I formed its consciousness around the utilization of Arcane magic, similarly to how my wolves used the Spatial portions of my Forbodum.
+
+I didn’t actually know all that much about normal Arcane magic, as it was a type I’d never used– it had been the last affinity that had been required for my advancement to Forbodum, after all.
+
+I did know a couple things, though.
+
+Arcanum primarily interacted with other kinds of magic and was closely associated with knowledge and intent.
+
+In a way, Fenrir was more like an Arcanum user than one of any other base affinity, including my own original Necrosis and Spatium. Come to think of it, I used a whole lot of Arcane-type magic as well.
+
+You’d think that would make it easy to think of some sort of magic to give to the lion, but for a long while I just… blanked.
+
+Eventually, though, I chose to pack a bunch of extra energy into him and show him a basic technique that I’d read a bit about in Kelemnion, as well as the knowledge of how to channel energy into its eyes to see energy. The technique was pretty simplistic, and mostly just involved shunting a large amount of energy at an enemy in a wave while they were casting or maintaining a spell and hoping that their control wavered enough to cause spell failure– where your intent lost control of the energy and it dissipated into the surroundings or did something completely different than you’d expected.
+
+Spell failure was typically pretty rare for experienced mages, and almost completely unheard of for natural magic casters like myself or Azrael, whose magic was bound into their very existence. The standard ways for it to come about were either through an injection of a much more powerful intent into the energy you were trying to control, a much more powerful energy breaking your connection to your energy, or a caster getting so distracted that their intent was unclear and the spell fell apart.
+
+Arcane energy was better at interacting with other magical energies, so it was the go-to “dispelling” energy type. My thought was that the innate hostility of Necrosis, the heavy presence in reality that Spatium held, and Arcane’s predisposition to the ability would all make Forbodum an even better energy for dispulsion, but I had yet to try it myself.
+
+Better to just have a minion do the testing for me, right?
+
+As a test, I had the newly-minted Arclion square off against a Nailwolf, and every time the Spatium-wielding beast tried to cast a spell, the Arclion shot a wave of overwhelming power at it, strong enough to shatter the Nailwolf’s control every time.
+
+The Arclion ran out of steam pretty quickly, but that was only after I threw a few packs of Nailwolves at it as a team.
+
+Overall, I was pretty satisfied with the new design, so I left the Arclion to his own devices and started looking around for some more stuff to work on.
+
+I’d already given some quick redesigns to my doors and some of the other functional runes in and around my tower, but I took some more time to plug everything into a singular location with my Energy Links, one where I gathered up all of the energy crystals that I had. Now I wouldn’t have to worry about a bunch of different batteries, and could instead just worry about the one big one.
+
+This did mean that if someone managed to get ahold of one of my Energy Links and just pulled power through it, that would be something of an issue, but they were completely unique runes so part of me doubted that someone would be able to figure out what they did. Even if someone managed it, I would just destroy the Energy Link on this end, canceling the connection before they could deal any truly significant damage.
+
+I did leave Carnic’s energy crystals inside his gear, but l redid some of the runework– which meant that I basically had to rewrite everything. Replacing the old, inefficient work with my new Energy Link and Energy Conversion rune was worth it to me, though.
+
+Reworking Azrael’s gear felt good. I ended up having to make a new rune named Physical Link for the left gauntlet, which would be used to enable Azrael’s bootleg telekinesis with much greater efficiency and power, but that was something I probably would’ve eventually wanted to do anyways.
+
+The larger, more important upgrade, though, was changing out the old aluminum plate for some sleek carbon fiber. Since the carbon fiber weighed almost half what aluminum had, I was able to stack twice as many layers of armor on top of one another. SInce carbon fiber was so tough, that meant that Azrael would be an absolute unit on the battlefield.
+
+I also formed her sword entirely out of carbon fiber, and this time I inscribed a Detonate rune on it to allow her to charge up power within it gradually and let it all loose in a single instant, allowing her to create some potentially devastating attacks without even needing to freecast. That would allow her to focus more on actually fighting, rather than casting offensive spells, since doing a lot of things all at once like that could increase the risk to her.
+
+Once her gear was inscribed with a ton of Reinforcement runes and some Physical Link runes to bind it together while she was using it, I passed it over.
+
+All the runes on her gear that used Forbodum instead of Absiete– which was, honestly, most of them– had Energy Links binding them to crystals which were further bound back to my tower. I didn’t want to take any risks with her gear not being able to power itself, so her Forbodum gems would be constantly refilled and she’d have a backup in case, for any reason, my Links weren’t able to reach her.
+
+I felt her gear was pretty foolproof, so I handed it off to her. She excitedly ran off to do some testing with it and I was left with my own thoughts again.
+
+Deciding that the town around my tower was far too undefended, I took some time to reinforce it with Conflict Tungsten rebar, which would make it much harder to topple, especially when it came to magical attacks. I also used Energy Links and Material Reinforcement runes to further improve that durability.
+
+Eventually, I was satisfied with that, too, so I started looking around for more things to update and check on, but couldn’t find anything immediately.
+
+In search of problems and inspiration, I sent my consciousness across my domain, checking on all of the Wisps I had assigned to the task of spreading my influence on my behalf.
+
+I took the time to create a few more to compensate for the much larger distance that they had to cover, and filled in some of the gaps that were left in my domain from their semi-random trajectories.
+
+That was how I noticed them.
+
+A party of adventurers, warily entering the Dead Belt. Actually… no, that wasn’t quite right. They hadn’t entered the Dead Belt itself yet, only my domain. They had to be aware of that fact, right? If so, then why did they seem so… jumpy?
+
+Interestingly, they were coming from the North– from Kerenth. So far, I’d only ever interacted with people from Yalten.
+
+I moved my full attention to the party of adventurers, inspecting them with curiosity and chuckling as I considered the pranks I could pull on them.
+
+Yes, this would be fun.

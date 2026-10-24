@@ -1,0 +1,165 @@
+After helping Fenrir out with his new hobby, I turned my attention to the next set of floors above him. With new knowledge about my runic capabilities, I was curious of what exactly I could accomplish. New trap ideas flooded through my mind, and I had the perfect way to test them all out.
+
+A labyrinth.
+
+For most of my previous floors, I’d just shunted the work off to my Wisps and had minimal influence on what things actually looked like. It would be very different this time.
+
+Even when doing things myself and working in a space that was even larger than the width of my tower would suggest– since my seams could basically contain whatever I wanted them to– I worked fast, and eight sets of increasingly complex mazes filled my seventeenth through twenty fourth floors.
+
+Coming up with designs that would actually be difficult to solve took up most of my time, as I could just form whatever I wanted within moments after I’d decided what should actually be there. I had made some labyrinth dungeons for tabletop games before, though, so I had some experience. This might be a lot more real than deciding the placement and size of various rooms on a board, but it actually carried over a lot more than I would have expected.
+
+On these dungeon floors, an individual would start off finding themselves at the center of a maze with wide, branching hallways. Only one route would lead to the exit portal, so a single mistake would mean that a party could get completely lost.
+
+To ensure the sanctity of the mazes, I not only triple-reinforced the walls, but also placed portals within them. Anyone trying to smash their way through the place would find themselves walking into the same hallway they were trying to leave.
+
+The first floor was left completely trapless, and many of the hallways only had one or two possible exits. Dead ends were spotted after just a single bend. The laws of Euclidean math were followed to the letter– except the inside of the walls, of course.
+
+The second floor was somewhat similar. Dead ends took up to three bends to spot– some hallways would only branch off again after the second corner. A couple hallways were given three branches, but not many. I introduced my first trap, as well, though only one.
+
+If some idiot was somehow unlucky enough to be walking down this particular dead end, and was extremely close to the left wall, they’d get absolutely blasted by flames made of Absiete. The rune on that wall was completely obvious; I didn’t even try to hide it.
+
+If someone got hit by that thing, they deserved it.
+
+The next floor was where I started introducing spatial anomalies, but none that were overly complex. There was a disconnect between the start of the maze and the exit, and you could only reach that last portion of it by doing something that looked completely illogical.
+
+There was, within this maze, a hallway that had three exits. Two were on the right side of the hallway, and the other was on the left, towards the middle.
+
+If you entered the closest door and took a left turn, you would find that it was a dead end. A cursory glance would be enough to tell you that the hall stretched far enough to stop the other hallway from being anything other than a dead end. Going back, the hall to which he left was an immediate dead end, with no bends– a unique occurrence in the floors so far.
+
+It was that exit on the far right that was the right answer: it appeared as though it intersected with the space of the other hallway– the one that had been explored first– and then took a right turn, into the space of the main hall that connected all three of these others. It then kept going, reaching the exact point that the left hall would have ended at, and then having a clear portal open to the exit.
+
+This was accomplished by pinning a portal into place at the end of that furthest hallway: really, it was just an immediate dead end, but the portal– flawlessly integrated into the wall as it was– made it look like it was somehow breaking reality and taking up the same space as the other. In reality, the portal just led to a completely separate portion of maze, one that was entirely disconnected from the rest and only accessible by going that exact route.
+
+So far, these first three labyrinth floors were pretty easy to make it through, and so I was considering it the “easy” portion. Next up was the medium difficulty, where spatial distortions became a lot more common and dead ends became rarer. From rituals that made one-directional portals to make it so that you could walk the same route over and over again, to acid traps, to walls that would close in on you, things ramped up.
+
+By the sixth floor in this set, dead ends were extremely rare to find, and it was much more likely that you’d just end up walking through a portal to a completely different section of the maze. All this wasn’t even taking into account the changes in the monsters that I’d be using– I currently didn’t really have any ideas for them, but I knew that I wanted them to be fast, and I’d be granting them all full knowledge over the mazes that they were in to allow them to act a bit like minotaurs did in D&D.
+
+Now, the seventh and eighth floors were set up to be extremely deadly. There were no dead ends, and every hallway was trapped in some way or another. Maybe the floor would erupt into spikes if you stepped in the wrong place, or an array of death bolts would erupt from the ceiling at certain intervals and you needed to time your movements right. In other words, it was trapped to the Abyss and back, and navigating it would be an arduous task.
+
+And again, that’s before the mobs were added in.
+
+For the ninth and final floor, I had a very different idea. So far, all of my bosses were mostly pretty stationary, and you had to kill them to pass on to the next floor.
+
+This time, what if the boss was something you had to escape from?
+
+There were no traps on this floor, and although there were still a ton of spatial effects, they were all pretty obvious. There was only one way to escape, as with all the other mazes, but here there were no dead ends. If you ran out through one corridor, you’d come out on the other side of the labyrinth, no closer to the exit than you’d been at the start.
+
+In essence, this maze in particular was effectively endless, unless you had the luck to run into the exit.
+
+Hmm. Actually, that sounded a bit unfair. Maybe I’d have to create some kind of key or map in an earlier part of the dungeon?
+
+I would think about it.
+
+Now that this set of floors was done, all I had to do was create a mob type to populate it, as well as a boss. As for what that mob would be…
+
+Well, I still had those Caerbalopes on my status sheet, and I was wondering if I could replace them with something more… refined.
+
+Creating one out of energy and inspecting it, I was immediately disgusted. Not by its appearance, of course, but by the lack of mastery with which it had been created.
+
+I dismissed the creation, reducing it back into Forbodum, before creating a basic undead jackalope. Its fur was gray, and its eyes were black. Its short antlers stuck out a bit like a weapon.
+
+Even with all of that, though, it was basically a bunny, and that was just way too cute for my dungeon.
+
+Actually, wait. Is it?
+
+Images of adventurers getting mauled to death by angry rabbits filled my head, and I let out a dark chuckle. Death by floof it was.
+
+I took off the jackalope’s antlers and extended its fur, bypassing what I’d done in the past with merging corpses by instead just creating more matter where I wanted it. At the same time as I made it floofier, I saturated its body with Forbodum and packed muscles into its form.
+
+All that chonk would be hidden by the huge coat of fur I’d given the rabbit, but it would be no less powerful for it.
+
+Once the formation of the Caerbalope MK2’s body was done, I created an intellect to match it with, filling its brain with maps of my labyrinth floors, except for the boss floor.
+
+I finalized the design by Naming it a Caerbalope, and an angry buzz filtered through my spirit. I checked on my status and got an angry red notification.
+
+The Name Caerbalope is already in use in your Legend. Replace Caerbalope?
+
+On replacing the Caerbalope, you will lose all knowledge of its effects and creation, as well as all other benefits granted to you by Naming it.
+
+Y/N
+
+Yup.
+
+Seif Ambrose
+
+Ancient Seeker 5
+
+Repository 2
+
+Forbodum Manipulation 2
+
+Occult Sovereignty 2
+
+Kelemnion’s Gate 1
+
+Dark Whispers 2
+
+Enhancements: Willpower x5
+
+Named Belongings: Antigo, Arachnomicon, Drachma’Uban, Fenrir, Caerbalope
+
+Well, first of all, Caerbalope had moved positions, and I had indeed forgotten how I’d made the original, so… I guess it worked?
+
+As for the available Boons… was I really that distractible? I guess it made sense for Dark Whispers, since it basically flooded my mind with those Inspirations, but Abstractive Influence? I mean, it was definitely due for an upgrade, but I should’ve noticed. I must’ve just been so deep in my work that I hadn’t processed my sheet updating?
+
+I went over the Occult Sovereignty options first, not because it was higher on the list but because I knew I would hate whatever Dark Whispers offered me.
+
+These two options were really just two sides of the same coin. Abstractive Influence created Conceptium in an area and attached it to the magic there, meaning that everything therein would be passively influenced by that idea over time.
+
+Abstractive Influence already affected both matter and mind through magic, but Physical Influence and Mental Influence gave it a specialization, making it more impactful in one way or the other.
+
+This was a more difficult choice than I’d anticipated. On one hand, Mental Influence would be great for making people feel the emotions I intended while within the dungeon, but Physical Influence would allow me to create materials like the Conflict Tungsten that was so critical to the way my tower had been constructed.
+
+In the end, I took Physical Influence. I could create ambiance with structures, monsters, environments, and lighting.
+
+…Lighting?
+
+Oh. I haven’t lit a single room yet, have I?
+
+Should I fix that?
+
+Probably, yeah.
+
+Luckily, this problem wasn’t too hard to fix: I put some Scholars up on platforms in the floors of each seam, as well as the original dungeon floors where nothing was going on, and had them carve runes that would simulate what I wanted: a bright day in the first eight, a dark night sky in the second set of eight, and flickering torchlight in the mazes.
+
+The first floors were something of an introduction to the idea of my dungeon, so the ambiance was bright, the Twinscales were easy to spot, and it didn’t seem too hostile. The Nailwolf territory was different, though. Colder, harder. You were being hunted. The maze was similar to that vibe, but instead of just being hunted, you were in an unfamiliar territory where something deadly could be just around the corner.
+
+After watching the Scholars to make sure that they were doing everything right, I turned most of my attention away, only flickering back occasionally to hook up the Ordinance inscriptions they were making up to power sources.
+
+Anyways, back to the Boon. Physical Influence was actually pretty simple: I just had to plug Conceptium into the molecular bonds of the targeted matter. Then the matter would take on properties associated with that intent.
+
+Theoretically, this would be really good for making magical items, because I could give the material itself properties that would boost the effects of my intended enchantments. For example, if I told the matter that it was a blade, and that it wanted to cut, then it would become much more receptive to enchantments that would increase its sharpness, and would also be much easier to shape into a weapon, though that didn’t particularly matter for me since I could just force that issue.
+
+I took a couple minutes to experiment with this new ability, but eventually set aside the sword that I’d told to be a hammer and looked back at my status.
+
+Alright, Tutoring first. This ability would basically let the ghosts that spoke to me manifest and give me lessons in the present day, which sounded pretty good… but what if I ended up talking to a raving lunatic? I didn’t trust the previous users of Forbodum not to find a way to affect me through that ability. Sure, they were just harmless ghosts, but devils with millennia of experience had to be masters of social hacking.
+
+Kinetic Learning, though, would let me not only hear the thoughts and see the perspectives of the whisperers, but also feel their actions.
+
+…Tutoring it is, then. I don’t want to feel myself slaughtering innocents, especially children, or dying with an actual fleshy body. It would be even worse if I could also feel the emotions of the person the memories were coming from, and there were no guarantees that wouldn’t happen, so far as I could tell.
+
+An icky feeling passed through me as I accepted the Tutoring Boon, and I felt a twinge in the back of my mind, but I pushed through it and got myself back on task.
+
+I’d been working on the labyrinth mobs before getting distracted by all of this Skill stuff, and I currently had a small, fluffy rabbit hopping around.
+
+That wasn’t enough.
+
+First order of business: make a version that could fill an entire corridor.
+
+I quickly created another Caerbalope MK2 and started stretching it, increasing its bones until they formed a rough framework for the size of rabbit I wanted. Then I healed up all of the skin, added a ton more fur, and pumped it full of muscles.
+
+I’d decided to make this one a bit shorter for its width and length, but it was, indeed, currently filling up an entire hallway in the maze.
+
+With that done, I started trying to think up other designs for mobs, but was soon stumped. Short, humanoid rabbits would be kinda weird, and I already had the Antigos, which were kinda similar to that.
+
+Oh, actually, I could add some Antigos into the maze. Perfect!
+
+Three mobs with a similar theme was probably good enough. Now it was probably time to make a boss. The question was, what?
+
+I tinkered with a few ideas, but things just weren’t working. I mean, I could just recreate a D&D monster, but that felt a little lazy when everything else I made had been so unique. It’s just… What other creature types were there to use for rabbits? There was only so much I could warp them. I’d already made a dragon, so it felt wrong to make another, and the Antigos were humanoid, so putting another on the same floor would be weird.
+
+Unless…
+
+I mean, it was pretty funny to have a bunch of bunnies slaughtering people in a maze, right? So, what if I just took that to another level?
+
+One murder Easter Bunny coming right up.
