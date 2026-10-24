@@ -6,7 +6,6 @@
 {"propertySlug":"import","fileName":"alan.person.ts","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive-iteration/supervisor-interactive-iteration.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"alan.person.ts","path":"agent/seat/supervisor/seat-work-restart/modules/supervisor-limit-resume/supervisor-limit-resume.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"alan.person.ts","path":"agent/seat/supervisor/seat-work-restart/modules/supervisor-wait-resume/supervisor-wait-resume.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"alan.person.ts","path":"alan/harness/alanwalton-ios-notification/modules/push-notifier-tick/push-notifier-tick.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"alan.person.ts","path":"alan/value/health/fitness/strength/log/properties/set-volume.computed-property.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"alan.person.ts","path":"code/browser/test-harness/modules/signed-in-harness/signed-in-harness.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"alan.person.ts","path":"command/pages/fitness/today/fitness-today.command.code.ts","typed":false,"deferred":false}

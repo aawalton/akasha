@@ -16,10 +16,18 @@ export const pushApps = {
       statement: "An app's bundle is imported from the app's page, so a web bundle carries it.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "Each app names the one person it pushes to.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each app says whether a tap on its push opens the route the push carries.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here registers anything.",
     },
   ],
   createdAt: "2026-09-01T10:49:24.726Z",
-  updatedAt: "2026-09-24T18:49:00.000Z",
+  updatedAt: "2026-10-24T19:54:54.376Z",
 } as const satisfies Module

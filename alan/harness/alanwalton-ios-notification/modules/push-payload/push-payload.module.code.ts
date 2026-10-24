@@ -5,7 +5,10 @@ import {
 } from "akasha/alan/harness/notification-feed/modules/rows/notification-feed-rows.module.code.ts"
 import { buildPageHref } from "akasha/page/url/modules/page-href/page-href.module.code.ts"
 import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
-import { SMILINGJENNY_PUSH_APP } from "akasha/person/modules/push-apps/push-apps.module.code.ts"
+import {
+  pushAppOf,
+  SMILINGJENNY_PUSH_APP,
+} from "akasha/person/modules/push-apps/push-apps.module.code.ts"
 
 const SURPLUS_FALL_KIND = "surplus-fall"
 
@@ -35,7 +38,7 @@ export function buildApnsPayload(content: {
   }
 }
 
-export function buildSharedApnsPayload(content: {
+function buildUnroutedApnsPayload(content: {
   readonly title: string
   readonly body: string
 }): ApnsPayload {
@@ -44,15 +47,27 @@ export function buildSharedApnsPayload(content: {
 
 export interface Recipient {
   readonly userId: string
-  readonly ownsNotification: boolean
+  readonly bundleId: string
+  readonly routesTaps: boolean
+}
+
+export function apnsPayloadFor(
+  recipient: Recipient,
+  content: { readonly title: string; readonly body: string; readonly route: string }
+): ApnsPayload {
+  return recipient.routesTaps ? buildApnsPayload(content) : buildUnroutedApnsPayload(content)
 }
 
 export function recipientsFor(args: {
   readonly ownerUserId: string
   readonly kind: string | null
 }): readonly Recipient[] {
-  const owner: Recipient = { userId: args.ownerUserId, ownsNotification: true }
-  if (args.kind !== SURPLUS_FALL_KIND) return [owner]
-  if (SMILINGJENNY_PUSH_APP.userId === args.ownerUserId) return [owner]
-  return [owner, { userId: SMILINGJENNY_PUSH_APP.userId, ownsNotification: false }]
+  const userIds = new Set([args.ownerUserId])
+  if (args.kind === SURPLUS_FALL_KIND) userIds.add(SMILINGJENNY_PUSH_APP.userId)
+  const found: Recipient[] = []
+  for (const userId of userIds) {
+    const app = pushAppOf(userId)
+    if (app !== null) found.push({ userId, bundleId: app.bundleId, routesTaps: app.routesTaps })
+  }
+  return found
 }

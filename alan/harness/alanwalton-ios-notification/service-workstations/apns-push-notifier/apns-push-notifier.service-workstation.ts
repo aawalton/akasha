@@ -4,7 +4,7 @@ export const apnsPushNotifier = {
   id: "01a06829-0193-7bb7-858d-8cb22b1eb62d",
   type: "page-type/service-workstation",
   slug: "apns-push-notifier",
-  definition: "the service putting each notification written for Alan on his devices",
+  definition: "the service putting each notification written for a person on that person's devices",
   enabled: true,
   needsSecrets: true,
   systemd: {
@@ -45,5 +45,5 @@ export const apnsPushNotifier = {
     },
   ],
   createdAt: "2026-09-03T16:45:12.979Z",
-  updatedAt: "2026-09-24T19:06:05.000Z",
+  updatedAt: "2026-10-24T19:54:54.376Z",
 } as const satisfies ServiceWorkstation

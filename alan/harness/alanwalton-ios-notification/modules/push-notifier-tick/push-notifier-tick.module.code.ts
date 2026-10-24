@@ -7,18 +7,24 @@ import {
   pruneDeviceToken,
 } from "akasha/alan/harness/alanwalton-ios-notification/modules/push-device-tokens/push-device-tokens.module.code.ts"
 import {
-  buildApnsPayload,
-  buildSharedApnsPayload,
+  apnsPayloadFor,
   notificationRoute,
   type Recipient,
   recipientsFor,
 } from "akasha/alan/harness/alanwalton-ios-notification/modules/push-payload/push-payload.module.code.ts"
 import {
+  type Feed,
   type Notification,
   newestNotificationAt,
   readNotificationsAfter,
 } from "akasha/alan/harness/notification-feed/modules/rows/notification-feed-rows.module.code.ts"
-import { alan } from "akasha/person/pages/alan/alan.person.ts"
+import { textAt } from "akasha/code/type/narrowing/modules/text-at/text-at.module.code.ts"
+import { valuedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+
+const PERSON = "person"
+
+const ID = "id"
 
 export const WORKER_NAME = "apns-push-notifier"
 
@@ -67,9 +73,13 @@ async function fanOut(
 ): Promise<void> {
   for (const recipient of args.recipients) {
     args.signal.throwIfAborted()
-    const tokens = await listDeviceTokens(recipient.userId)
+    const tokens = (await listDeviceTokens(recipient.userId)).filter(
+      (token) => token.bundleId === recipient.bundleId
+    )
     if (tokens.length === 0) {
-      say(`${args.what}: ${recipient.userId} has no device registered; nothing to push`)
+      say(
+        `${args.what}: ${recipient.userId} has no device registered on ${recipient.bundleId}; nothing to push`
+      )
       continue
     }
     const payload = args.payloadFor(recipient)
@@ -96,11 +106,16 @@ async function fanOut(
   }
 }
 
+function ownerOf(feed: Feed): string {
+  const id = textAt(valuedAt(akashaRoot(), PERSON, feed.slug).value, ID)
+  if (id === null) throw new Error(`the person \`${feed.slug}\` owning a feed states no id`)
+  return id
+}
+
 async function pushNotification(
   args: {
     readonly notification: Notification
     readonly sender: ApnsSender
-    readonly alanUserId: string
     readonly signal: AbortSignal
   },
   done: string[] = []
@@ -108,14 +123,14 @@ async function pushNotification(
   const one = args.notification
   const what = `notification ${one.id}`
   const route = notificationRoute(one.link, one.feed)
+  const recipients = recipientsFor({ ownerUserId: ownerOf(one.feed), kind: one.kind })
+  if (recipients.length === 0) say(`${what}: no app pushes to ${one.feed.slug}; nothing to push`)
   await fanOut(
     {
       sender: args.sender,
-      recipients: recipientsFor({ ownerUserId: args.alanUserId, kind: one.kind }),
+      recipients,
       payloadFor: (recipient) =>
-        recipient.ownsNotification
-          ? buildApnsPayload({ title: one.title, body: one.body, route })
-          : buildSharedApnsPayload({ title: one.title, body: one.body }),
+        apnsPayloadFor(recipient, { title: one.title, body: one.body, route }),
       what,
       signal: args.signal,
     },
@@ -126,7 +141,6 @@ async function pushNotification(
 interface TickDeps {
   readonly sender: ApnsSender | null
   readonly writer: string
-  readonly alanUserId?: string
 }
 
 async function runPushNotifierTick(
@@ -135,8 +149,6 @@ async function runPushNotifierTick(
   signal: AbortSignal,
   done: string[] = []
 ): Promise<void> {
-  const alanUserId = deps.alanUserId ?? alan.id
-
   const waiting = await readNotificationsAfter(state.sentThrough)
   const fresh = waiting.filter((one) => one.sentAt > state.sentThrough)
   const sender = deps.sender
@@ -150,7 +162,7 @@ async function runPushNotifierTick(
   for (const one of fresh) {
     signal.throwIfAborted()
     try {
-      await pushNotification({ notification: one, sender, alanUserId, signal }, done)
+      await pushNotification({ notification: one, sender, signal }, done)
     } catch (err) {
       complain(`notification ${one.id}: the push leg threw:`, err)
     }

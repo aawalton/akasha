@@ -41,6 +41,14 @@ export const pushNotifierTick = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A notification belongs to the person whose feed holds it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A push reaches only a person's devices on the app that pushes to that person.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A person with no device is said aloud rather than treated as a fault.",
     },
     {
@@ -61,5 +69,5 @@ export const pushNotifierTick = {
     },
   ],
   createdAt: "2026-09-03T23:59:38.347Z",
-  updatedAt: "2026-10-18T13:21:00.027Z",
+  updatedAt: "2026-10-24T19:54:54.376Z",
 } as const satisfies Module

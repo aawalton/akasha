@@ -30,11 +30,19 @@ export const pushPayload = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A push to the shared app has no deep link.",
+      statement: "Each person is pushed at through the app that pushes to that person.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A push carries a deep link only to an app that opens a tapped route.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "Nobody is pushed at twice where the shared app is owned by the same person.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A person no app pushes to is pushed at by nobody.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -42,5 +50,5 @@ export const pushPayload = {
     },
   ],
   createdAt: "2026-09-03T23:59:38.347Z",
-  updatedAt: "2026-09-27T17:26:23.000Z",
+  updatedAt: "2026-10-24T19:54:54.376Z",
 } as const satisfies Module
