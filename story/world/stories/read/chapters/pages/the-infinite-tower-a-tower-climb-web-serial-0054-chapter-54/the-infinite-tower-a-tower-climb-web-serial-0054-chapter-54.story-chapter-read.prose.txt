@@ -1,0 +1,115 @@
+Chapter 54
+
+I did as Ryker said. I turned my focus on the blades, and once again I felt the Tower’s magic stirring in my mind. Words and letters flowed into my mind, and I could see them as clearly as if they were on a page before me. Along with the words, small images of the two daggers, crossed and shimmering together, accompanied the information, similar to the inventory boxes whenever I attempted a trade.
+
+Claw and Fang
+
+Daggers – Unique
+
+Rarity- Uncommon
+
+Quality- Fine
+
+Required Stats
+
+Level – 5
+
+Base Damage
+
+5
+
+Damage Scaling
+
+Dexterity – A
+
+Unique Skill
+
+Bloody Howl
+
+MP Cost 10
+
+Release a howl that empowers self and allies within 15 feet. Grants a temporary increase to dexterity and strength
+
+Unique Traits
+
+Relentless Strikes
+
+Each continuous strike with claw increases damage by 1
+
+Rip and Tear
+
+Wounds caused by Fang have a chance to cause bleed
+
+*Quality Bonus*
+
+Ryker and Echo stood quietly as I looked over the information in my mind. I read through it once, then twice, then a third time. I felt excitement flowing through me, though it was tempered by uncertainty. What did it all mean?
+
+“Feel free to ask your questions,” Echo said with a chuckle, “everyone always has them the first time.”
+
+I glanced at Ryker,
+
+“Another thing they fail to teach during training,” Ryker said dryly, “as important as gear is, you’d think they’d have focused more on what weapons and gear were like once you began climbing the Tower,” he shook his head, “I get they want us to all find our own way, but sometimes, I question just how little they tell us beforehand.”
+
+“It’s not our place to question the Speaker and the ways of those who came before us,” Echo said sagely, “we must simply build upon what we have, and pass along aid and knowledge whenever the opportunity presents itself.”
+
+“Maybe that’s it,” Ryker replied, the two seeming caught in a dialogue, “maybe it’s to encourage cooperation. Not a single person, not a single role, can do it all. We need to work together, to communicate and share our knowledge with each other, to create a better whole.”
+
+“Who knows,” Echo chuckled, “that’s at least a much better way of thinking about it than the other option.”
+
+I remembered the conversation I’d had with Nyle previously. I remembered the murmuring and thoughts about the Speaker, those in power, wanting us to fail, to flounder, in order to make us reliant on them. That was definitely a less ideal way of thinking, and one that felt too sinister to even consider.
+
+“Any ways,” Echo turned his full focus back to me, “ask away Ash.”
+
+“Uh,” I pushed dark thoughts from my mind, eager to get back to my new gear. “I see it lists the quality as Fine, but what’s that actually do?”
+
+“Quality implies the, er, quality of the weapons and gear you are using. There’s a large range of quality ratings, from broken and shoddy at the very bottom, to grand and masterwork as the best. Depending on the rarity of the item, the quality levels vary. Common items, for instance, can only have a maximum quality of High, which is just above the normal quality, which will appear as ‘Average.’”
+
+“Okay…” I trailed off, as Echo continued.
+
+“When it comes to weapons, if the quality is above average, the weapon’s damage will gain a bonus, as will any skills. Conversely, if it’s below average, the damage and skills will be negatively affected. With a Fine quality, your damage and skills will actually be one and a half times the norm. So, damage wise, your Claw and Fang actually have a base damage now of 7, rather than 5.”
+
+“Wouldn’t that be 7.5” I asked dumbly as I did the math in my head. “Also, do all weapons have a base damage rating?”
+
+“It rounds down,” Ryker cut in, “everything freaking rounds down in the Tower.”
+
+“So why not just say 7?” I asked.
+
+“Because the 7.5 does matter, when considering the damage scaling bonus. Everything adds together, and then rounds down.”
+
+“Go on,” I pressed. I wanted to understand everything I could, here and now, so that I could ensure I fully understood all the gear I got moving forward.
+
+“Claw and Fang are daggers, and daggers almost always scale off of your dexterity.” Echo looked at me. “What is your dexterity at right now?”
+
+“Three.” The moment I said the words, Echo winced.
+
+“I didn’t want to over commit to any one stat just yet.” I said, immediately self-conscious. I thought again of Lyn, and her Dexterity, which currently sat at 7.
+
+“It’s not bad,” Echo said slowly, “I’d just hoped it was a little higher, so your base damage would go up again. As you level up, you will gain increased damage bonuses based off of the stats the weapon scales off of. This is a tiered system, similar to how Climber’s are ranked. However, no matter how low the scale ranking, if it scales off of a stat, it will get a bonus. If a weapon has an E rating, it will gain a quarter of the bonus to the damage, while if has an S rating, it gains two times the bonus.”
+
+“And what’s the bonus?” I was starting to wonder if there was a book somewhere that had all this information. I was doing my best to keep it all straight, so I could pass it on to Nyle and Lyn, but honestly, I really felt I should be taking notes.
+
+“If you’ve 25 or less points in a stat, you gain 0.1 additional damage. For levels in a stat between 26 to 50, you gain 0.5 additional damage per level, and this increases again once you pass 51…but that’s a far way off.”
+
+He stifled a yawn, as he continued. “Right now, you’re gaining point three additional points in damage based on your dexterity. Because the weapon has an A rating in that, that bonus is increased to equal one and a half times the normal bonus. Making the point three you’d normally have, equal 0.45 extra damage.”
+
+“Which puts my total damage bonus at…” I sighed. “7.95.”
+
+“And rounded down, that equals… seven.” Ryker placed a hand on my shoulder. “The Tower is a cruel mistress.”
+
+At least all I needed was one more level, to push my dexterity to 4, which would increase the bonus from 0.45 to 0.6, which would then bring the damage to 8.1, meaning the base damage would be 8. But even still, what all did that even mean?
+
+“Does base damage indicate how much damage the weapons will do, no matter what?” I asked. I thought back to what Flint had said about the Den Mother. How she had more than 1,000 HP. I also realized; I already knew the answer.
+
+“It means it does that much damage” Ryker explained, “guaranteed, against an enemy without any defensive bonuses. However, the general rule of thumb is; never trust the base damage number. Pretty much everything in the Tower, especially after the fifth floor, has constitution high enough that will decrease the damage they receive from your attacks.”
+
+“So the base damage number is pointless?” I asked, seeking clarification.
+
+“Sadly no,” Ryker said with a sigh. “General rule of thumb, the higher the number, the better. Some monsters within the Tower actually have a damage threshold that means your weapon will need to have a base damage above a certain minimum, to even do damage. Of course, weapon traits such as pierce can surpass those things, but that’s a more complex lesson that you’re too green to get right now.” It was now Ryker’s turn to stifle a yawn. As he did, I found myself fighting one as well. My excitement over my daggers had been keeping my fatigue at bay, but now, with this massive flooding of knowledge, I was growing weary.
+
+It didn’t help that the forge itself was still warmer than the normal, somewhat cool air of the underground in which we lived. Add to that the bath I’d had earlier, the dinner that sat happily in my stomach, and the trials of the day itself, and I was suddenly looking forward to getting some sleep. Especially since the sooner I went to bed, the sooner I’d be able to try my new daggers out in the Tower.
+
+“One last thing,” I said past my yawn. “Before we head back to Climber’s Rest.”
+
+“What’s that?” Echo asked.
+
+“How do I use Claw and Fang’s weapon skill?”
