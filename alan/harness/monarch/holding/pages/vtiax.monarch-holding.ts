@@ -11,7 +11,7 @@ export const vtiax = {
   ticker: "VTIAX",
   quantity: 35483.492,
   costBasis: 1621595.58,
-  holdingValue: 1575112.20988,
+  holdingValue: 1571563.86068,
   createdAt: "2026-09-03T03:39:10.889Z",
-  updatedAt: "2026-10-23T06:24:16.513Z",
+  updatedAt: "2026-10-24T06:28:05.947Z",
 } as const satisfies MonarchHolding
