@@ -1,0 +1,185 @@
+Everyone sat down and activated their Rest and Mend. Before anyone healed, I assessed our incoming damage. RIP, Fabulosa, and ArtGirl had taken hits of up to 15 health points—which had been half of my health pool. They healed through much of it, but the same hits might have killed me—even with the 50-point minor healing potion that Fabulosa had given me for emergencies. And her insistence on keeping me away from the riverbank might have saved my game. I made a mental note to buy her a pint of ale when we returned to the pub.
+
+After the group gathered their bearings, they gave exaggerated cheers for my new level, but I could tell that the jokes about my low levels had lost their potency. If I kept this up, they would need another reason to tease me.
+
+I admired my new character sheet.
+
+Name
+
+Apache
+
+Level
+
+2 (94/140 experience to next level)
+
+Armor
+
+10
+
+Stamina
+
+4 (40 health)
+
+Intelligence
+
+7 (70 mana)
+
+Strength
+
+3 (+3 damage to physical attacks)
+
+Agility
+
+3 (+3% to hit/dodge physical attacks and movement)
+
+Willpower
+
+4 (+4% to spell effects/resistances, health/mana recovery, and influence)
+
+Skills and ranks
+
+Dark Magic 2, Light Magic 8, Manuscript Creation 6, Nature Magic 1, Primal Magic 7, Research 14
+
+Powers
+
+Cantrips Animal Empathy, Heavenly Favor, Minor Hex, Shocking Reach Tier 1 Rest and Mend
+
+Seeing my mana pool increase cheered me since it became my main reason to gain levels. My stamina increase also bought me a wider safety net.
+
+The game automatically assigned stats, preventing players from stacking everything into intelligence, strength, or some such configuration. My inability to predict how the game assigned stat boosts made exploiting the system impossible, and it evened out what I could expect from opponents.
+
+My primal magic skill increased to rank 7, so I opened up my powers interface to see if it revealed a new spell.
+
+Available Spells
+
+Tier 1
+
+Bless, Dim, Ice Bolt, Light, Scorch
+
+Tier 2
+
+Rejuvenate
+
+Power Points
+
+1
+
+The interface would have overwhelmed players if it showed every locked spell, but working blind made it hard to direct skill-grinding toward the best endgame powers. Like the passive stat increases, the game forced me to wait and see what became available.
+
+I considered taking Rejuvenate to help with healing, but with the gang’s conservative approach, I preferred to use my mana for offense.
+
+The juicy morsels in the spell menu tempted me, but I stuck to my plan of hoarding points and closed the interface.
+
+We followed the river until we spotted three more archaeodons devouring the remains of a cow on the far bank. A swath of mud and broken fences showed how the animal fell into the monsters’ scaley clutches. We might have located a nearby rancher for a quest reward, but the archaeodons might not be here when we returned. Besides, they looked smaller than the one that jumped RIP, and we had the advantage of surprise.
+
+Fabulosa, the highest-level player in our party, acted as its de facto leader. She delivered slightly more damage than ArtGirl and was, frankly, the bossiest. Besides, no one else wanted the job.
+
+Fabulosa whispered instructions as we huddled. “I’ll pull the middle lizard with ranged attacks. Arty, after you Scorch it, root the one on the right. Pinky, you get the left. Patch, you hold up here and zap the center one when it crosses the water.”
+
+I nodded.
+
+“By the way, I have been checking the combat log. What’s your primal skill rank?”
+
+“I hit 7.”
+
+Fabulosa raised her eyebrows. “Not bad. Don’t start casting until they cross the river. Y’all ready?”
+
+Everyone answered with a silent group fist bump, crouched, and moved into position.
+
+The monsters stood at levels 7, 7, and 8, giving them about 130 health each.
+
+Fabulosa’s raised fist turned to a pointing gesture—the signal to attack.
+
+Everyone started casting their spells. With everyone casting at once, the whispering sounded like a discordant harmony of babble.
+
+Spells required a mix of hand gestures and incantations—a fancy way to describe nonsense words. The gibberish sprang to our tongues phonetically, like memorized lyrics to foreign music. No one understood the magical gestures or utterances, but making them pulled magic out of the air.
+
+The center archaeodon exploded in flame as the Scorch spells landed. Its health dropped by 10 percent as the fire spread across its hide.
+
+Casting Shocking Reach would have given away our position. The twisting bolt of electricity from the caster’s fingers acted like bullet tracers. Scorch worked differently, producing only a blossom of combustion on a target, giving enemies no sign of the attacker’s direction.
+
+The monsters’ disorientation gave the party a few more seconds to recast another volley before they spotted us on the other side of the water.
+
+All three lizards charged across the river, which erupted in splashes beneath their legs. The two on the outside caught onto something in the underbrush as they emerged on the nearby banks. Tangling Roots immobilized them, leaving only the burned archaeodon in the center mobile.
+
+RIP and Fabulosa made short work of the middle lizard while ArtGirl and PinkFox concentrated on their root spells.
+
+Between my cooldowns, I repeated my only offensive spell—Shocking Reach. My mana reserves had enough to cast it seven times, but the center target went down before I finished my fifth. After switching targets, I started nailing the closest archaeodon.
+
+ArtGirl’s forehead furrowed with impatience. “Stop it! Wait for RIP and Fab. Don’t break my roots.”
+
+I backed off, aghast that I’d goofed up. When Fabulosa and RIP began attacking it, the roots loosened, and the creature engaged with them.
+
+ArtGirl pulled out her blades and charged. “Okay, Patch. Now you can hit ‘em!” She dove at the beast with two swords whistling in the air.
+
+I spent my mana blasting the second creature. Our focused fire brought it down moments before the last one broke free of PinkFox’s roots. We took out all three through coordinated targeting and crowd control while suffering only exhaustion and bruises. After resting, we looted the corpses and received more white cores, copper pieces, skins, and crafting components.
+
+I shook my fists in triumph. Having gained 46 experience from the monsters, I received precisely enough experience to reach level 3. I told the group, and everyone cheered.
+
+Congratulations!You are level 3
+
+You have gained a level. You have increased your intelligence by 1, stamina by 1, and strength by 1. You have received 1 power point. You have 140/205 experience points toward level 4.
+
+I knew the first levels would go by quickly as I scrounged experience from the higher-level players like a bandit, making for a great day in the bush. Oddly enough, I gained strength, stamina, and intelligence this time. After all the marching around through level 2, the game rewarded my exertion. I didn’t mind the strength. It would be handy on our hike back to Belden.
+
+After harvesting the meat, hides, and cores, we returned to Belden without further incident. On the way home, RIP conveyed his encouragement. “You see what I’m saying, man. You’re a natural at this. Keep it up, and you’ll be better than me in no time.”
+
+The frequency of his transparent attempts to sway me toward hunting made me uncomfortable. I felt guilty resisting his constant affirmations to become his leveling pal. He must have realized that I would quit adventuring after dinging to level 4. Even though monster-busting was fun—tossing away immunity incurred too many risks.
+
+When Charitybelle joined us at the public house for dinner, we exchanged a big smooch in front of the others.
+
+RIP alone showed surprise. The irony amused me that, for once, the joke fell on RIP for being out of the loop.
+
+An odd dynamic developed between RIP, Charitybelle, and me. The more I became his drinking buddy, the less likely I would spend the night with Charitybelle. She’d made it clear she wasn’t interested in drunken sex. Sobriety did not guarantee that I would get lucky, but guys will do whatever they can to increase their odds. Tempering my revelry became a balancing act of keeping everyone happy.
+
+It took another week of hunting for me to reach level 4. By earning another 85 experience points in bite-sized chunks, I increased my intelligence, stamina, and strength once more.
+
+After reaching level 4, I announced my sabbatical from adventuring amid groans and boos from the dinner table. I made no apologies about focusing on ranking up my skills before hitting the trails again.
+
+My obstinance turned everyone off. RIP said little to me that night, so I kept my distance. He needed to let me play my game.
+
+My routine for the next few months vacillated between spamming magic spells and research. I worked every day until daylight waned, at which point Charitybelle and I hit the pub in time for dinner. As the weeks passed, I learned my way around Belden. The wavy streets presented navigational challenges. They flowed around the bends of Grayton River, the axis on which the city grew.
+
+By splitting my research between the libraries of Belden University and Our Lady of Balance, I learned much faster than Charitybelle, who never developed an eye for reading. She studied until she couldn’t concentrate, around midday, and spent the second half of her days in the military academy. I imagined Charitybelle vented her frustration over reading manuscripts on training dummies and hapless cadets.
+
+Unhindered by her impediment, my research rank climbed into the twenties over the semester. Research became my top skill, doubling the next highest rank among us. Nature books bumped my survival skill to 4, disproving my assumption that I needed to be outdoors to advance it. Three cheers for bookworms!
+
+My diligence revealed another peculiar power—Mineral Empathy. I had the Animal Empathy cantrip, and Vegetable Empathy looked helpful to farmers or hunters, but this new spell’s description seemed a bit weird.
+
+Power (spell)
+
+Mineral Empathy (tier 1)
+
+Prerequisites
+
+Nature magic rank 4, Research rank 20
+
+Cost
+
+15 mana
+
+Cooldown
+
+Once per day
+
+Cast time
+
+10 seconds
+
+Description
+
+Caster gains insight into minerals for 10 minutes per rank in nature magic. Empathized minerals give the caster a sense of history, classification, and belonging.
+
+“Mr. Fergus, can I ask you something about archeology?” He never raised the topic, which felt strange, given his background. I feared he might be uncomfortable talking about his past, so I tiptoed around the subject.
+
+Perhaps he disapproved of adventurers. The more I gleaned about archeology, the more at odds I found myself with their philosophy. Archeologists cared little about magic or the golden idol at the dungeon’s end. They cared about the people who built the place. Instead of plundering loot, they studied cultures and artifacts and cared about the everyday junk that adventures passed over.
+
+Mr. Fergus made no protest, so I continued with my question. “There’s a power in my spell menu called Mineral Empathy. Have you ever heard of it?”
+
+“Yes, I have. It’s a common spell among nature academics. If it’s available to you, I recommend taking it. Rocks have their own story, and Mineral Empathy helps anyone exploring underground or rocky areas.
+
+“How does it work?”
+
+“I use it to find arrowheads and broken pottery, things I would have otherwise overlooked.”
+
+I thanked him for the advice, but Mineral Empathy sounded like a situational utility I wouldn’t need. My battle-hardened friends would think me crazy for taking it.

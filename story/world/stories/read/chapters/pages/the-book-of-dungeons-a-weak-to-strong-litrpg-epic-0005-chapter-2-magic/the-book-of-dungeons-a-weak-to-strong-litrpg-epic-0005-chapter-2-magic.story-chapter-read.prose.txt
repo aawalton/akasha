@@ -1,0 +1,235 @@
+The dean and I left the dorm and met a gathering of adults in the courtyard, where I’d first entered the world. He introduced them as faculty members, and they greeted me with warm welcomes. No one behaved more cordially than collegiate staff members in the presence of a dean.
+
+After formalities, one of them, Professor Sandy McFiddish, studied my face. “You look like you could use a little extra pocket money. We have been discussing the best way to rid our storehouse of pests. They’re eating the school’s store of oats.”
+
+Why did every RPG start with killing rats? Were quest designers playing an inside joke on the contestants? Couldn’t they offer me anything more epic than hunkering into a dingy crawl space and smacking rodents?
+
+New Quest
+
+Hide and Squeak
+
+Description
+
+Prof. McFiddish has had it up to his ankles with these fuzzy little foreigners. Help him rid the campus of a recent rat infestation. Item received—Sharp Knife
+
+Objective
+
+Bring 10 rat tails to Mr. McFiddish in the Belden University courtyard.
+
+Reward
+
+5 experience10 copper pieces
+
+The quest listed the turn-in location as this very courtyard. If I finished collecting the rat tails at midnight, would Sandy be here waiting?
+
+Before jumping onto the pest control bandwagon, I wanted to test his patience. Perhaps the quest would expire, and the game would offer me something else.
+
+An alert in my log notified me that a Sharp Knife occupied one of the black boxes in my inventory. I counted down my remaining inventory slots to 27, down from 32. It seemed like an everyday item, but having a slashing weapon seemed worthwhile. After all, every kitty needs his claws.
+
+Focusing on the blade icon summoned a description window.
+
+Item
+
+Sharp Knife
+
+Rarity
+
+Basic (gray)
+
+Description
+
+Level 1 slashing weapon
+
+I suspected this wasn’t much better than unarmed combat. Still, the damage type, slashing, implied my unarmed fists might deliver bludgeoning damage, so having another damage type might be useful.
+
+When I closed my interface, an NPC in a religious garment spoke next. Her nameplate read Mother Marteen, and she pointed to the pink sun. “If you’re going to help with the storehouse, I could offer you magical aid. Bring the rats to you with a good zap of primal energy straight from Phaos.”
+
+It made little sense that lightning powers came from the sun, but that seemed a trivial detail, considering my character sheet now showed the acquisition of a magic spell.
+
+I focused on one with a lightning bolt icon.
+
+Power (spell)
+
+Shocking Reach (cantrip)
+
+Prerequisites
+
+Primal magic rank 0
+
+Cost
+
+10 mana
+
+Cooldown
+
+10 seconds
+
+Cast time
+
+2 seconds
+
+Description
+
+Generates electrical attack from caster to an enemy within 10 yards that deals 5 damage + 1 damage per skill rank in primal magic.
+
+The damage looked comparable to my knife, but at least I could lure monsters to me by doing damage. Players typically kicked off combat in RPGs by pulling creatures to them, but the two-second cast time meant it might not be suitable for toe-to-toe melee. The rest of the spell information looked standard for games, except for the parenthetical notation of the cantrip.
+
+Next to the lightning bolt appeared another icon—a golden glowing candle. When I focused on it, another spell description appeared.
+
+Power (spell)
+
+Heavenly Favor (cantrip)
+
+Prerequisites
+
+Light magic rank 0
+
+Cost
+
+10 mana
+
+Cooldown
+
+6 seconds
+
+Cast time
+
+10 seconds
+
+Description
+
+For 10 minutes, increase caster’s stats by 1 + 1 for every fifth rank in light magic. Only one Heavenly Favor can be active.
+
+Mother Marteen gestured skyward. “I suggest you pray for divine guidance. Beware, those rats are dangerous. They’d deliver a nasty bite if you let them. But don’t let that deter you, for Our Lady of Balance smiles upon honest labor.”
+
+My mouth hung open as I processed her recommendation. The idea of praying for guidance for killing rats amused me. At least Heavenly Favor came from another school of magic.
+
+Before I could tell her I didn’t travel from another dimension to kill vermin, another NPC, a dubious-looking professor named Baldrick, leaned forward conspiratorially. “Why sully yourself with the filthy buggers? Pick ‘em off at a distance, says I. If you’re the sort who can master cantrips, perhaps you can prove to my colleague, Professor McFiddish, that dark magic is best for rat-smashing.”
+
+Another icon appeared in my interface. It bore the image of a skull, and I perused its details.
+
+Power (spell)
+
+Minor Hex (cantrip)
+
+Prerequisites
+
+Dark magic rank 0
+
+Cost
+
+8 mana
+
+Cooldown
+
+6 seconds
+
+Cast time
+
+5 seconds
+
+Description
+
+For 12 seconds, decrease target enemy’s agility by 2 + 2 for every 5 skill ranks in dark magic.
+
+Ah-hah! Along with primal and light magic, a third school existed for dark magic.
+
+Baldrick’s salesperson smile made me wary. He leaned and whispered low enough to avoid being heard by his colleagues. “It’s only a minor debuff. But if you rank up your dark magic, you’ll unlock more powerful secrets like illusions, death magic, and mind control. It works wonders against those with low willpower.”
+
+Mind control wasn’t something I wanted to touch, so maybe dark magic wasn’t the school for me. But Baldrick’s mention of willpower piqued my interest. And Minor Hex lowered agility. How do willpower and agility work in this game?
+
+I hadn’t checked my stat descriptions and brought up my interface. Once again, the sudden cessation of sound and motion froze the world, and I realized it added a quality-of-life improvement.
+
+When players opened their interface in other games, their avatars stared into space until the player finished managing their inventory or reading their game prompts. It looked weird and unsettled onlookers. Gamers considered it rude to manage character windows without looking downward to show a player’s preoccupation. But freezing time wasn’t only a quality-of-life feature—it gave players time to think before reacting, making combat as imaginative as possible.
+
+Crimson’s time-out feature made fiddling with the interface seamless.
+
+Name
+
+Apache
+
+Level
+
+0 (10/40 experience to next level)
+
+Armor
+
+10
+
+Stamina
+
+3 (30 health)
+
+Intelligence
+
+3 (30 mana)
+
+Strength
+
+3 (+3 damage to physical attacks)
+
+Agility
+
+3 (+3% to hit/dodge physical attacks and movement)
+
+Willpower
+
+3 (+3% to spell effects/resistances, health/mana recovery, and influence)
+
+Skills and Ranks
+
+None
+
+Powers
+
+Cantrips Heavenly Favor, Minor Hex, Shocking Reach
+
+Starting at level 0 felt unusual but not bothersome. Some might think it belittling. Games typically made players feel heroic, the stars of the show. It gave me an incentive to move up in the world. I inwardly grinned, knowing it would annoy players with a Napoleonic complex—which applied to half of the gamers I knew. I didn’t mind being level 0 for a little while. Perhaps it could help me fade into the background and appear as less of a threat.
+
+Health and mana resulted from stamina and intelligence. Strength improved damage, as it did in every game. Agility affected speed and aim with both melee or ranged weapons and contributed to dodging. Willpower regulated recovery, magic resistance, and influence—the last of which seemed to be a metric for social interaction. Overall, I liked that character stats applied to every class—but were classes something I needed to unlock?
+
+I closed my character information, and time resumed at its normal pace. Courtyard sounds filled my ears again. Once more, the Belden University faculty plied me with rat quests, hinting at how to remove the flea-bitten, cheese-eating interlopers.
+
+Once I understood agility, I considered the dark magic debuff, Minor Hex. Besides lowering an enemy’s ability to dodge and hit me, the spell slowed them down, perhaps enough to attain a distance, allowing me to cast Shocking Reach. By alternating casts and moving, I could maintain a safe distance from the rat, minimizing the risk of rabies—or whatever effects their bite carried. Players called this combat technique kiting because it resembled flying a kite. Kiting enemies involved risks, but it could be lots of fun.
+
+As the faculty conversed, I pondered the situation. My interface map showed the quest’s theater of war—the campus storeroom. The game wanted me to kill rats. Did I want to kill rats, or did I want to learn and explore?
+
+Their suggestion to paint by numbers held no sway. I left the faculty with a deferential bow and walked in a random direction. Baldrick waved to me to catch my attention. “I’m afraid, young sir, that the storeroom is the other way!”
+
+“Thanks, guys, but I’m going to explore a little first.”
+
+Baldrick’s recognition that I headed away from the storeroom attested to his level of awareness. The artificial intelligence in The Book of Dungeons had more depth than I imagined.
+
+The dean had just finished telling me I’d find no magic in Belden. Moments later, he introduced me to faculty members who handed me three spells out of the blue. These people apparently didn’t consider cantrips to be real magic. It seemed a little strange, but newbie zones often made power acquisition easy.
+
+I checked out the spell descriptions again. Cantrips may not have been up to their standards for magic, but they certainly suited mine. Perhaps I’d uncover more by exploring, which might ultimately lead to more powerful spells. Without knowing more about this world’s spell system, I couldn’t be sure.
+
+I experimented with my spells, targeting bugs with Shocking Reach and buffing myself with Heavenly Favor. Spamming the spells didn’t seem to do much but kill bugs and draw odd looks from passing students. No interface elements showed me improving my standing in primal or light magic.
+
+If using spells didn’t increase my magic skills, perhaps I needed to find scrolls or learn them from a teacher.
+
+I meandered through a doorway beneath a woodshop sign. The medieval tools looked crude, but the students worked with precision, producing furniture and decorations more ornate than those from modern mills. Apprentices sanded, carved, sawed, and measured—too preoccupied to chat or acknowledge me.
+
+My stroll went through several vocational areas, including a greenhouse, which I assumed served medical, agricultural, or alchemical purposes. I eschewed the tannery—the stench of the place deterred curiosity, but I poked my head into a cobbler and leather works next door. Some shops stood empty, but others had almost a dozen people busy at their trade.
+
+The boot camp sounds shooed me away from the military academy. I wasn’t ready for drill instructors, but hearing cadets exercising nearby reassured me I could fall back on armaments if spellcasting proved elusive.
+
+I also passed by an open hall with high arches. Rows of empty tables filled the space, and the smell of baked goods permeated the air. It functioned as the school lunchroom. I wasn’t starving anymore because, in this world, I’d not fasted. My interface map labeled the room Formal Hall.
+
+Finally, I came upon a tall, thin building. When my location indicator called it Belden University Library, I entered without hesitation.
+
+At a younger age, a lasting lesson from my mother taught me the value of the public library. Atlantic City Public kept its library bright, clean, and full of things to explore. I occupied myself for hours while my mom used its computers. It seemed to be a magical place where everything came free and permissible. My mom spoke in hushed tones as if she had to be on her best behavior, too.
+
+School libraries weren’t as robust as public facilities, but they provided a sanctuary from bullying.
+
+After my mom took off with her no-good boyfriend, I renewed my library habit with my aunt, one of our few shared interests. Public libraries saved my life, and I felt comfortable inside them, so the smell of Belden University’s leather-bound volumes bewitched me.
+
+The building lacked the stink of a used bookstore, whose industrial acids broke down cheap paper stocks. A bouquet of leather, cotton, and wood permeated its atmosphere. Its modest floor space surprised me, but a spiral wooden staircase in the back promised more books on other stories.
+
+I paged through oversized books. Most required two hands to carry and rested flat on the shelves instead of upright in rows. The stacks rested in no logical order, and none bore titles on their cover. The text wasn’t easy to read. Each letter’s heavy downstrokes made the words look like black picket fences. It took effort to distinguish one letter from its neighbors, but slowly, I pieced together words.
+
+The sentence I’d opened the book to celebrated a famous merchant whose preserved goods lasted over a year on the shelf.
+
+As I often did, I lost myself in the pages until a bespectacled older man approached. I couldn’t make eye contact because thick eyeglasses opaqued his pupils with distorted blurs.
+
+“How may I help you, young man?”

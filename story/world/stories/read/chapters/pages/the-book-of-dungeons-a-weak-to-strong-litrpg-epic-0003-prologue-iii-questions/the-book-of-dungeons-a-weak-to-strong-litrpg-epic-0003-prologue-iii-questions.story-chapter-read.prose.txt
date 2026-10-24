@@ -1,0 +1,131 @@
+I couldn’t hear what the audience member asked, but Josie repeated everything.
+
+“She wanted to know about the dream interface. Instead of virtual reality, we call our interface TFI or True Full Immersion. TFI means there is no contact with the outside world—you fall asleep with a sedative. We induce lucid dreaming. Our IV drip allows lucid dreamers to interact with their dream, which is our game, The Book of Dungeons. This drip is why you can’t play the game at home. Without a monitored cocktail, lucid dreamers would wake up whenever they tried to do something.
+
+“The coolest thing about The Book of Dungeons is that an in-game year transpires for every hour players sleep. Unlike other games, we don’t offer alternative worlds—we offer alternative lifetimes. You can play a lifetime in The Book of Dungeons over a weekend.”
+
+A louder rustle emanated from the audience, and more hands shot up. Josie ignored them and finished her thought. “This facility is a prototype for how gamers will spend their vacations—in alternate realities. Everyone will be under staff supervision during and after their experience. When players awake from a game session, they remember it as well as a dream—which isn’t very good. You’ll adjust to the real world by forgetting what happened. So we record your in-game life and give customers playback features to jump to whatever highlights you want to watch. By watching it, you’ll remember what happened. But I think I’m getting ahead of things—let’s get back to the playtest.
+
+“While you play, you’ll feel only about 20 percent of pain, which allows you to endure wounds during combat, making battles more interesting. Pain reduction is as far as we go with sensory manipulation—what you become in our game is what you take with you. Crimson won’t change your personality or pump up your adrenaline. The reality show wants human drama in a fantasy setting. We restrict player races to human, dwarf, gnome, or elf characters because our trials have shown players don’t adjust to extreme societies.
+
+“And, yes, you can have consensual sex, but we’ll edit out naughty content from the show.” As the audience nervously laughed, she winked and wagged her finger. “But there’s no procreation, no pregnancies. We don’t want players missing their fantasy families during the wake-up protocol. And when you exit, you’ll find yourself safe and snug in your room. A game tech and nurse will remove the IV drip before you’re conscious, and they remain at your bedside until you’re okay. They’ll guide you through the wake-up protocol, which basically means they’ll feed you solid food and answer questions. Crimson Software will record wake-up reactions for the reality show.”
+
+An audience member raised their hand. “Are there other applications for the dream interface? Like using it to learn foreign languages or write an epic novel?”
+
+Josie shook her head. “Memories are too fuzzy to be of practical use. The neuro staff says time dilation creates mnemonic issues. Your in-game memories remain dormant until you watch playbacks of yourselves. It jars your recollections back into place. In a way, you experience playing twice.”
+
+Another hand rose. “Why did you guys introduce time dilation? It’s cool, but it seems like it’s inconvenient. Scheduling a vacation to play your game seems a bit much.”
+
+“Time dilation is how The Book of Dungeons evolves its content. If we crank up the dilation and let the game run, we can offer players a new world of content. If we let it run long enough, we get new continents.”
+
+I shook my head in disbelief.
+
+Shelly whispered in my ear. “That’s nothing new. MIT evolved artificial life back in the 1980s. It only took seconds for primitive processors to cycle thousands of generations. Of course, not to this game’s complexity, but Octagon’s processors are slightly stronger than pre-internet hardware.”
+
+Josie continued the keynote address. “And hospital beds and IV drips offer more convenience than you realize. In other games, you lose an hour of your life for every hour you play. In The Book of Dungeons, a day or two in real-time buys you a lifelong experience. From the player’s perspective, time flows normally. The average immersion session lasts about thirty hours, depending on how long your character lives, although you might finish faster because you’re playing for two hundred and fifty thousand dollars!”
+
+Her last few words elicited cheers from the room.
+
+Shelly surprised me by raising her hand and speaking up. “Time dilation doesn’t seem possible in a shared experience. How can you synchronize the client-server architecture?”
+
+Josie pursed her lips. “Dreams are very malleable, and we’ve even figured out how to fake time travel or pause the game. The engine caches events to recreate playbacks. It can seamlessly return players to earlier points in the timeline without them remembering the future. However, anyone going back in time retains their memories, hacking in a very cool feature. For participants who aren’t time-traveling, reliving the same day is seamless and doesn’t create Déjà vu.”
+
+The room rumbled as we meditated over her explanation. Hands shot up, and Josie pointed to one. “Is there character customization?”
+
+Josie’s eyes lit up. “Good question. There is! You can cycle through random faces—but all the guys are hunks.” She bounced her eyebrows and grinned. “And you can change your skin and hair colors. And every hairstyle stays in shape without maintenance.”
+
+Several girls in the audience hooted.
+
+Josie fluffed her hair. “That’s right, no helmet-hair! There isn’t stat differentiation between males and females—everyone starts out equally strong. And ladies, you can change your body type if hourglass figures don’t suit you. But bikini armor won’t protect you, so get used to covering up.”
+
+Josie ignored the deep-throated boos from the back of the room.
+
+“Character names are subject to admin approval—so behave. Also, character customization happens in your rooms before you enter the game. We don’t want anyone to miss the first few days of playtime because they couldn’t decide on a hairstyle. For the contest, we ensure a simultaneous start.”
+
+A tall, muscular guy stood and spoke loud enough that Josie didn’t need to repeat his question. “If you’re an athlete or boxer, will you have an advantage in combat?”
+
+I smiled and shook my head.
+
+Shelly grinned at my reaction.
+
+Josie answered his question. “Most real-world skills don’t translate. The Book of Dungeons integrates a modified physics system and game mechanics into combat. You’ll need more than muscle memory for actions like boxing.”
+
+Someone in the back stood up when called upon. “Are there any developers here? Can we meet them or see their offices?”
+
+Josie grimaced to show she didn’t want to disappoint us with a negative answer. “I’m afraid they’re super-busy on another campus, so you’re stuck with me, the PR girl. I’ll try to wrangle a few devs to visit after the contest—after you’ve acclimated back to the Boring States of America. Does that sound good?”
+
+We welcomed her suggestion with applause.
+
+Josie declined to address specifics about the game mechanics, level limits, and player classes. She described the battle royale format, in which the last surviving player won a quarter million dollars.
+
+We didn’t know if the field of play revolved around an arena, a city, or a continent. Josie confirmed that no players, NPCs, or monsters respawned in The Book of Dungeons. All deaths were final—except summoned creatures like demons or familiars. The room hummed at the prospect of acquiring pets. Questions continued until hunger wore us down. I wasn’t the only person eager to begin immersion protocol.
+
+After Josie dismissed us to our rooms, Shelly turned to me. “It’s a shame they didn’t turn on the dream interface last night. That would be crazy if we were already in the game—I half-expected a dragon to interrupt the keynote.”
+
+“Yeah, that would be a cool transition.”
+
+“Oh, well.” Shelly extended a hand, which I hesitantly shook. “It was nice to meet you.”
+
+Shaking a girl’s hand felt awkward, but I brushed it off as a sign of respect—a nod to a fellow competitor. I grinned. “Good luck! But maybe not too much.”
+
+Shelly shrugged. “I dunno, the harder I plays, the luckier I gets.”
+
+I grimaced at the strange comment.
+
+Shelly blushed. “Sorry, that’s my internet signature. It’s corny, but I thought this might be one time I could use it in real life. Anyway, good luck to you too.”
+
+We went our separate ways.
+
+Back in my room, I waited for the nurse and game tech to hook me up to the IV drip.
+
+After a while, I felt lonely, which struck me as unusual. I grew up with absent parents and older cousins who never wanted to play with me.
+
+It felt like my life was about to change, even before Crimson picked me to play The Book of Dungeons. My aunt and uncle’s graduation present included eviction. They never took my side or showed kindness, so I never felt like I belonged. My aunt and uncle gave me a bed only out of familial obligation, and their house wasn’t in a good part of the city. Neighbors decorated their yards with garbage and cinderblocks until grass obscured everything. Who would want to stay there anyway?
+
+Part of me didn’t blame them. I wasn’t a good kid, and I’d only cleaned up my act in my mid-teens, too late for scholarships.
+
+I’d looked into transitional housing programs that provided beds for anyone under 21. These facilities offered the basics of survival until I found a job. I would be homeless again, possibly in conditions worse than when I lived with my mom. My future would be bleak unless I could win this prize money. I didn’t see any middle ground.
+
+My game plan involved longevity. Avoiding others and turtling into a defensive position made sense. Independence avoided the risk of being backstabbed by other contestants. If being boring meant increasing my odds, I would be happy to let my avatar die of old age. It was an odd strategy, but I didn’t mind looking silly. Abandoned kids had freedoms others didn’t have. Having low self-esteem deflated the fear of looking foolish. Comedians seemed to share this ambivalence.
+
+It’s a cliché to say I avoided following crowds, but it best describes how I do things. When everyone zigs, I zag. If a queue obstructed me, I looked for ways around it. For school assignments, I spent half my time thinking about doing things differently. I knew how to stand out when I wanted to, and being different was easier than being good.
+
+Let the others be heroes and take risks. The safety net people grew up with didn’t exist in this game. If deaths were final, why shouldn’t I take advantage of the competition’s recklessness? When 63 contestants zig, I will zag.
+
+After an hour, food preoccupied my thoughts. My insides growled. It felt like my stomach chewed on my pancreas.
+
+A screen dropping from my room’s ceiling interrupted my thoughts. Its words directed me to use a bedside controller to begin character customization. I picked it up and navigated the interface. Splash screens featuring Octagon Semiconductors and Crimson Software logos came and went. The scrollwork emblem of The Book of Dungeons appeared above a login prompt.
+
+I logged into the interface using an identification name and password I registered months ago after being accepted into the beta test.
+
+The screen switched to a paper-doll configuration of character customization. Player avatars featured variations of young adults, which probably eased the transition into a game identity. I selected a human avatar, hoping a familiar on-ramp would reduce distractions. With money at stake, I didn’t need alien customs, environments, or avatar issues blindsiding me from the start. I knew how human societies worked, so it seemed the safest option.
+
+I scanned my room for ideas about what to name myself. Millions of people might watch Crimson’s promotional reality show. I didn’t want to use my usual gaming nickname and risk public humiliation. I didn’t want to become a meme or paint a target on my back for copy-cats and imposters. A fallback nickname could be something I could disown.
+
+Crimson wouldn’t allow names poking fun at Octagon’s servers, so I dismissed mischievous ideas. The hotel used a shuttle service called Geronimo, whose name stuck with me.
+
+I’d once read a book about how Apache raiders escaped pursuit in the open desert by covering themselves with sand. Hiding in plain sight conjured a humourous image—especially with the cavalry passing by. Geronimo’s lone-wolf defiance in the face of overwhelming odds appealed to me, but the name seemed too direct, too specific.
+
+I chose “Apache” and locked in my preferences. Apache started with the letter A, which sounded confident and optimistic—like I wanted to be at the front of the line. Other contestants might play with hairstyles and skin tones or cycle through faces, but I didn’t care about my appearance. I went with something normal. I may be average, but I’m at the top of the bell curve.
+
+The game hadn’t offered me a class like a wizard or thief. Would I begin the game near class trainers? Would I need to prove myself or complete a quest? Josie declined to talk about classes, so maybe a surprise awaited.
+
+A nurse entered my room, looked at the ceiling screen, and keyed something into his tablet. He moved with mechanical efficiency and introduced himself without a glance.
+
+I assumed it wasn’t an invitation to converse, which was just as well because I’d already forgotten his name.
+
+“You’ll be glad to know you’ll be cathed post-induction.”
+
+“What does that mean?”
+
+“It means you’ll be asleep when we slip a Foley into your urinary tract.” He made a funny face for emphasis but devoted his attention to the tablet. He must have made the same gesture to countless playtesters.
+
+“How am I supposed to sleep through that?”
+
+The nurse punched at his tablet while he answered. “The sedation will be enough to keep you under—but don’t worry, nausea isn’t a risk, so an anesthesiologist isn’t necessary. Get comfortable. I’ll put your IV in if you’re ready.”
+
+I dutifully nodded, and he hooked me to an IV bag filled with a yellow fluid.
+
+“We call this a banana bag. It’ll nourish you while you sleep, in case the session goes long.”
+
+I nodded dumbly and watched the activity around me. Another nurse or game technician wheeled a device into my suite. Armored in beige medical-grade plastic and beribboned in wires, the machine blinked with lights and LED screens. Before I could ask about the numbers on the screen, the technician tapped something on his tablet, and my last sensation felt like falling.

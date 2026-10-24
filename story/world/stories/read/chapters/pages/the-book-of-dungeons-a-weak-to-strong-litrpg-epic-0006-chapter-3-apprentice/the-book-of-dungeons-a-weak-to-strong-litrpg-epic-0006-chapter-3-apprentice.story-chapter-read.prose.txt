@@ -1,0 +1,123 @@
+The words Mr. Fergus appeared on the librarian’s nameplate. He seemed friendly, but reading his expressions behind his thick spectacles wasn’t easy, and it seemed to be a two-way issue. He cocked his head at strange angles to optimize the uneven surface of his lenses.
+
+“Hello, sir. My name is Apache, and I’m a new apprentice. I hoped to acquaint myself with the library and, perhaps, find a magic tutor. I want to become a wizard one day.”
+
+His face fell. “Oh, I’m so sorry. We have no one like that here. I’m afraid we’re a vocational school, and this region isn’t renowned for its magic.”
+
+His apology seemed sincere.
+
+Mr. Fergus, a thin, elegant man, extended his fingers when he spoke as if grasping for the perfect words to match his thoughts. “Perhaps I could introduce you to one of our liturgic or alchemical associates.”
+
+I brightened, remembering light magic counted as one of the major disciplines. While I had little desire to become a healer, perhaps someone at the local temple could point me toward a proper wizard.
+
+“I am Mr. Fergus. I can recommend Mother Marteen, the abbess of Our Lady of Balance, and she, too, has a respectable library. Their satellite temple is right here in Belden.”
+
+“Thanks for the suggestion.” I tried not to sound disappointed and didn’t mention I’d already run into Mother Marteen in the courtyard, serving as the soprano in the ratricide chorus.
+
+“Baldrick is an adjunct instructor and proselyte of Tarnen. His illusions make combat training more realistic.”
+
+I detected a note of disapproval when he mentioned Baldrick while wondering how illusions could add realism to combat.
+
+Mr. Fergus beckoned me to follow him for another tour. I closed the book, returned it to its shelf, and followed him to the bottom of a stairwell.
+
+“Everyone must decide for themselves whether dark magic is right for them. I don’t quite trust Baldrick but can vouch for Mother Marteen. She has a rounder grasp of magic schools.”
+
+That he only named two people, both of whom I’d already met, didn’t raise my confidence.
+
+Mr. Fergus started up the spiral stairs. “Our library has several sections you’ll find relevant, but I suspect you’ll spend most of your time in history. I’m sure you’ll get a grip on magic craft with a little digging.”
+
+Mr. Fergus stopped climbing on the fourth floor, even though the stairs continued upward. He gestured to one side of the room. “Belden apprentices have access to books on the first four floors. The fifth floor holds special collections and offices. Our special collections have illuminated manuscripts ranging from poems and songs to children’s fables. They have monetary value, but I’m afraid they’re not academic.”
+
+Mr. Fergus waved his hands toward an area well-lit by glass windows. “You’re free to use these desks in the reading section. Our cultural studies are over there, including what we have on language and theology. We keep city chronicles, histories of noble houses, and royal genealogy on floor three. On the second are our philosophical, agricultural, and natural studies. You’ll find material on flora and fauna, but alchemical students monopolize the best books, as is their right.”
+
+Mr. Fergus made a rueful face. “And if you have too much time on your hands, the first floor has fables and fiction. The library’s patrons regard books as status symbols rather than sources of knowledge. We’re moving away from decorative showpieces, but our benefactors value ornamentation and prestige more than content. What books the university can procure isn’t entirely under our control. I try to keep the piffle out of the stacks, but beggars can’t be choosers.” He stopped himself. “Are you of noble blood?”
+
+“Um, no. Is that a problem?”
+
+“No. Not at all. Nobles rarely make for good academics. They’re too social and haven’t the backbone for hard study. No, you look like a budding philosoph.”
+
+I smiled and shrugged.
+
+“Philosophs are a paradoxical breed. If we ever reached the point where we had nothing left to learn, we’d lose our purpose—yet we dedicate our lives toward that very end. Luckily, that’s a not dilemma for today, eh?”
+
+His question seemed rhetorical, so I opted for a safe response. “I’m here to learn. May I ask if there is a library catalog?”
+
+Mr. Fergus grunted. “We haven’t cataloged our new material. You’ll learn your way around soon enough, as we don’t have many good books. There’s an inventory on the first floor, and next to it is a longer list of recent acquisitions. I’ll combine them one day. I should do that soon, as our best books are undocumented. Perhaps you could help with that. The university could compensate you for your efforts.”
+
+New Quest
+
+White-Collar Work
+
+Description
+
+Mr. Fergus has asked you to update the library’s catalog with another list of new acquisitions.
+
+Objective
+
+Sort the new acquisitions section into the rest of the stacks and rewrite the library’s catalog.
+
+Reward
+
+50 experience3 silver50 copper pieces.
+
+The relatively safe nature of clerical work made this my kind of quest, and I could cover material I already wanted to learn. The experience reward would raise me to level 1, and the monetary compensation amounted to 35 times more coin than the rat-fest.
+
+With fewer than a thousand books in the library, this seemed like a win-win-win decision, so I nodded and accepted his challenge.
+
+“Excellent! You may begin tomorrow after you’ve settled.” Mr. Fergus turned to a narrow window and unlatched a heavy storm shutter, pushing it with no minor effort against the wind. He pointed. “If I may direct your attention, I can show you Our Lady of Balance from here. It’s the large yellow dome. Mother Marteen runs a daily seminary but is usually available around noon. I know their library well. It’s not big, but they have more than parables and hymns dedicated to Laros.”
+
+“Laros?”
+
+Mr. Fergus’s brow furrowed as he studied my face. “Our large, yellow moon? The source of light magic? Every child knows Laros.” He held the shutter, giving me time to take in the view.
+
+I avoided his questioning gaze and gazed at the buildings. The high vantage helped me to ascertain Belden’s size. Beneath me spanned fifty or so structures—only a few stood higher than one story. Did this scene represent most of the village or just its outer edge?
+
+Capping the quaint cityscape stretched a sky unlike any I’d seen before. The heavens looked like a mural framed by a storm wall to the west and mountains to the east. Faint lunar crescents kissed the atmospheric canvas, and the late hour intensified their colors.
+
+I could feel Mr. Fergus watching me again from behind his thick spectacles. His brow wrinkled. “Something tells me you’re new here. You don’t have the manner of someone from the Eastern capitals, Malibar and Torzda. I’d happily explain this view to you if you’re interested.”
+
+He crooked his eyebrow to challenge me, but I admitted nothing.
+
+Mr. Fergus turned to the vista. “We call the sun Puros, and the bright moon is Laros.” He pointed to a yellow moon so large that I wondered if it were a planet and we lived on its satellite. Moons weren’t supposed to be so prominent in the sky.
+
+Mr. Fergus continued. “The small, purple moon hanging above the mountains is Tarnen. It is the source of dark magic. If you peer out to the East, you’ll see the uppermost tip of the Highwall Mountains. And those dark summits further north are the Bluepeaks—dangerous territory. I wouldn’t go there unless I planned to launch a campaign against the goblins.”
+
+He redirected his attention to the center of our view. “The river goes north through Basilborough and onward to Grayton while another fork goes East to Darton Rock. They both flow into Arlington, of course.”
+
+This firehose of information came a bit too fast to memorize. “What’s the river called?”
+
+“It depends where you’re from. Everyone near the coast calls it the Arlington River. Those further inland refer to it as the Grayton River.”
+
+I grunted, trying to keep up with all the unfamiliar names.
+
+Mr. Fergus reacted to my blank expression. “Grayton? The biggest city in the West? It’s the largest city on the continent—although Malibar or Torzda might be larger these days.” He sighed with provincial humility. “I wouldn’t know, having not been there in ages.”
+
+“Uh-huh.” I pretended to know these names and immediately regretted the charade.
+
+Mr. Fergus tilted his chin down as if to chide me. “It’s been raining all week, so you can’t see further than Basilborough—even with your young eyes. But you haven’t a speck of mud on your boots.”
+
+“That’s because I like to be clean?” Giving him a hand-caught-in-the-cookie-jar grin, I hoped he’d let me get away with the explanation.
+
+His smile reassured me he would. “You’ll want to get to dinner soon. The tradespeople sup early, and they’re serving boar tonight. You’ll want to be in Formal Hall before it’s gone. This is where I let you go, I’m afraid. I still have work to do with the remaining light.” With a grunt, he closed the shutter and gestured to the stairs. “I will see you tomorrow morning.”
+
+As I left, I replayed our conversation in my mind. The depth of the game’s artificial intelligence surprised me. AI seemed to be an aging field. Fooling humans with AI realism became common in games, but this game surpassed anything I’d experienced.
+
+Formal Hall served as the university’s dining area I’d passed earlier. The aged librarian did me a favor by recommending an early arrival as the place filled up quickly. I milled through the food line and found an empty table.
+
+I chewed carefully to avoid biting down on chips of rocks or unsavory seeds in the biscuits, but my worries had no foundation. This food was better prepared than anything I’d ever eaten. The pungent spices dispelled my presumptions that the food might be primitive or tasteless. The baked morsels contained zesty seeds and nuts I didn’t recognize, and the pork dripped with juices.
+
+Aside from the sumptuous meal, everything else felt like high school. None of the other apprentices approached me for a conversation, so I surveyed their mannerisms from afar. The diners segregated themselves by studies. The rowdy armor-clad cadets hung out together while the tradesfolk kept to themselves. Those in classic studies dined elsewhere, as the hall had many empty seats.
+
+Halfway through the meal, I spotted a group of players. I picked out the five new apprentices milling into the room. Their avatars appeared far more attractive than the plainer-looking NPCs. If idealized bodies and perfect faces didn’t identify them as competitors, the nameplates over their heads gave them away.
+
+Four had reached level 1, and one girl attained level 2. Since I couldn’t see my nameplate, I didn’t know if I blended into the crowd of non-player characters, most of whom registered at level 0. Perhaps the level 0 nameplates looked like NPCs—and if so, that meant the other players wouldn’t identify me as a competitor. If so, that gave me an element of surprise.
+
+I should have taken a more conventional fantasy name, like Yorick or Geoffrey. Apache made me stand out as an American.
+
+The five player-apprentices moved together and looked to be obviously in cahoots. Perhaps staying at level 0 might help me keep a low profile. I wondered how an NPC would talk—would I have to fake an accent to pull off the ruse?
+
+One of the gorgeous girls looked in my direction, dispelling my reverie. The nameplate floating over her head read “ArtGirl.” She recognized my nameplate as that of another player, smiled, and nodded.
+
+I forced a smile. Gladiators weren’t supposed to make friends—at least, that’s what they said in the movies.
+
+Still holding her food, she conferred with the other contestants before approaching—so much for subterfuge.

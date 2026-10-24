@@ -1,0 +1,217 @@
+Knowing I’d be alone for a few days affected me more than I’d guessed. I doubled my efforts in sorting books and ranking up my primal and light magic skills. Mr. Fergus showed me how to sort and align books and how much space to leave between sections.
+
+I developed a knack for finding and skimming items to determine their contents. Whatever impeded Charitybelle from reading manuscripts no longer affected me. Book after book, I read and classified everything according to the catalog and my instructions.
+
+I pulled a few picture books aside that felt thin on substance. They would sell or go to special collections, making room for new acquisitions.
+
+I even picked up a new skill.
+
+Skill Acquired
+
+Research
+
+Description
+
+You have acquired proficiency for discovery. By understanding how to organize information, you can find, learn, relate, and apply knowledge to create new theories and ideas.
+
+Rank
+
+1
+
+Progress to rank 2
+
+2%
+
+Unlocking this skill became a watershed moment. By learning to write, I developed a reading prowess strong enough to analyze and organize books. My new skill helped me connect unrelated ideas, subjects, and sources. Cross-referencing information from one topic to another made me glad I’d started in a smaller library. Familiarity with its organization meant I could tackle more extensive collections in the capital cities. While magic skills were essential, I felt that research might be more so.
+
+Between meals in Formal Hall and breaks with targeting dummies, I sorted the last of the library’s books in three days.
+
+Finishing a catalog to satisfy my quest conditions felt almost anticlimactic. Inking the list took less than a single day. After presenting the results to Mr. Fergus, I received a quest reward of three silver and 50 copper pieces and my first level-up alert.
+
+Congratulations!You are level 1
+
+You have gained a level. You have increased your intelligence by 2 and willpower by 1. You have received 1 power point. You have 60/90 experience points toward level 2.
+
+I’d lost my virginity.
+
+The gang would be happy to hear of my newfound adulthood.
+
+I opened my power matrix. If I hadn’t frozen myself in time, I would have wrinkled my nose in puzzlement. Almost nothing appeared in the menu of available spells.
+
+Available Spells
+
+Tier 1
+
+Dim, Light
+
+Power Points
+
+1
+
+I studied the spell descriptions again. Light acted as the opposite of Dim, illuminating a fixed position, which meant I couldn’t cast Light on a sword to double as a torch.
+
+Another interface offered another menu of powers called abilities. It wasn’t much of a list.
+
+Available Abilities
+
+Tier 1
+
+Rest and Mend
+
+Power Points
+
+1
+
+Rest and Mend recovered players from combat, the power the gang recommended earlier. It had no application to academics, so I dismissed the window in disappointment.
+
+I pondered the mechanics of character progression. Skill ranks and levels worked as semi-independent systems. Gamers could power-level without gaining many skill ranks. However, players could also train in the academy without gaining experience. That bit of information felt like a missing puzzle piece.
+
+Everyone started with the cantrip Shocking Reach, but Fabulosa took Scorch and Ice Bolt. Having multiple ranged attacks meant she could quickly unload damage, but everything in our discussions about combat suggested that sustained and burst damage made for valid paths of progression.
+
+But there seemed to be a problem with her strategy. Direct damage spells like Ice Bolt, Shocking Reach, and Scorch became redundant in the long run. Would Fabulosa cast Ice Bolt when she reached a higher level? Surely, she’d acquire better powers by then. Spells doomed to obsolescence made for a colossal waste of power points.
+
+I’d have more points for endgame powers if I conserved them. Saving power points wouldn’t be advantageous to regular players in The Book of Dungeons. However, this beta test wasn’t just an RPG—this served as a last-person-standing competition whose structure encouraged aberrant behavior.
+
+We ran in a marathon, not a sprint.
+
+That scratched the itch that had been bothering me. Hoarding power points, not spending them, empowered long-term strategies. I may have to spend points on essential utility powers like Rest and Mend, but banking them would give me more bang for the buck in the endgame.
+
+I could stay at Belden University and unlock better spells as my skills increased. This strategy capitalized on the immunity buff, and my companions were throwing it away for a few days of fun.
+
+Instead of gaining levels, I needed to spam spells to rank up my magic skills. And I could safely increase my combat ranks in the military academy. I could even pick up trade skills. Other players would reach high levels before me, but immunity and skill ranks had more value in the long run.
+
+I opened my character sheet.
+
+Name
+
+Apache
+
+Level
+
+1 (60/90 experience to next level)
+
+Armor
+
+10
+
+Stamina
+
+3 (30 health)
+
+Intelligence
+
+5 (50 mana)
+
+Strength
+
+3 (+3 damage to physical attacks)
+
+Agility
+
+3 (+3% to hit/dodge physical attacks movement)
+
+Willpower
+
+4 (+4% to spell effects/resistances, health/mana recovery, and influence)
+
+Skills/ranks
+
+Dark Magic 2, Light Magic 3, Manuscript Creation 4, Primal Magic 2, Research 7
+
+Powers
+
+Cantrips Heavenly Favor, Minor Hex, Shocking Reach
+
+Leveling to 1 hadn’t increased my health, which felt like an issue. But if I could find some stamina gear, I could rank up my skills enough to compete with higher-level players.
+
+It amounted to the edge that I needed in this game. If skill ranks unlocked powers, skills, not levels, marked the true source of strength.
+
+I looked at my stats once more before closing them. If my theories were correct, my stats would remain the same for quite a while while I ranked up my skills. By the time I left the campus, I’d be a lean, mean, level 5 machine. I only hoped my friends wouldn’t graduate on their hunting trip.
+
+I closed my interface and returned to the flow of time.
+
+As I contemplated the future, Mr. Fergus studied the lists. “Your word spacing especially has improved, Mr. Apache. And you’re adept at finding books you need, so you have a talent for research. But I imagine you’ll want to spend some of that reward money. Let’s hope not all of it will go to the public house.”
+
+“Not at all. I’ll be on campus for quite a while.” The double meaning made me smirk. “But now, I need to go to Formal Hall to see if my friends returned. That’s where they’ll look for me. If I venture anywhere tomorrow, I’ll visit Mother Marteen’s library. You said it was at the Lady of Balance temple.”
+
+Mr. Fergus corrected me. “Our Lady of Balance. Although you are right to attribute its stewardship to Mother Marteen. Paying your respects is an excellent idea. If you see her, give her my regards. Tell her about our new catalog—she’ll be green with envy.” He turned his attention back to his lists.
+
+I had worked with him long enough to recognize his words as a form of dismissal. After cleaning my workstation, I collected my things and left the library. Since it became almost dinnertime, I swung by the military academy and zapped target dummies before going to Formal Hall. While there, I signed up for several combat courses.
+
+It relieved me to see a level-4 Charitybelle entering Formal Hall that evening. I could see that she’d seen the level 1 status on my nameplate, and her broad grin reassured me that everyone had survived the safari.
+
+Charitybelle brimmed with excitement, and we kept interrupting the other to give our respective good news.
+
+Before speaking at length, she excused herself to get food. “I’m sorry, but I’m famished.”
+
+I watched her go to the food line. It wasn’t just the beauty of her idealized avatar that captivated me. Her body language and interactions showed how she cared about those around her. She seemed wholly unaware of her radiance. She blushed and smiled at nearby NPCs, ingratiating them.
+
+Watching her so closely made me feel clumsy. Were all women better at social interaction, or was I just an awkward person? Would I possess the same grace if I dodged the Y chromosome in my mother’s womb? RIP possessed social skills, so my awkwardness probably came from my upbringing, or lack thereof.
+
+When Charitybelle returned, she broke my train of thought by plopping onto the wooden bench. She dunked bread into her stew and stuffed it into her mouth. Her meal allowed me to disclose what had been weighing on my mind.
+
+“So, everyone is okay? No one died?”
+
+She nodded—then shook her head. Her mouth chewed with too much food to answer.
+
+“Good. I worried about that.”
+
+Charitybelle furrowed her brow and rolled her eyes at the absurdity that anyone could die. She took a drink to wash down the bread in her mouth and gasped for breath. “Apache, they are so careful out there.”
+
+“Has anyone aside from Fabulosa graduated?”
+
+“Yep. RIP, PinkFox, and ArtGirl all reached level 5. They’re celebrating at the pub right now.”
+
+“They lost their newbie buff?”
+
+She nodded as I sighed. “Why? What’s the problem?”
+
+I told her about my discoveries, research skills, quest completion, and theory about saving power points for endgame powers. While she slurped down the rest of her stew, I related my plans to stay on campus and rank up my studying, training, and crafting skills.
+
+Charitybelle spoke with a half-full mouth. “That’s brilliant. That makes so much sense.”
+
+“Would you want to join me—staying here on campus?”
+
+Charitybelle nodded, smiled, and blushed. “I’m sorry, but I am so hungry.” She beamed, and I could tell she missed me, and we caught ourselves staring at each other.
+
+“After breakfast, let’s visit Our Lady of Balance to check out the temple library. Mr. Fergus recommended Mother Marteen’s nature books.”
+
+Charitybelle finally took her turn to speak. “Kobolds attacked us! They waited until we pulled a couple of megathons.”
+
+My brow furrowed.
+
+“A megathon is another reptilian predator. They’re fast and pounce like lions or tigers—they have long claws. That’s when the kobolds moved in. It got so crazy! And they’re so gross and stink! We encountered a camp of them the day before. RIP tanked both megathons, Pink and I healed, while Arty and Fab fought off the kobolds. Pinky kept everyone topped off until she ran out of mana, then had to drink a mana potion. By the time we’d killed everything, RIP dropped to a quarter health, and I’d dipped to half.”
+
+“Are you okay?” I looked her over for scars or wounds.
+
+She rolled her eyes. “Yeah. I mean, it all healed up. I keep forgetting you haven’t been in combat yet. Healing wounds and debuffs like Exhaustion go away. All our cuts and bruises fade after we rest. And don’t discount mental fatigue. Fighting takes concentration, and forgetting things in the heat of battle is bad. If you haven’t spent your first power point, let me say Rest and Mend is a given. I know you want to save power points, but normal healing takes too long.”
+
+Her voice wasn’t quite condescending, but it betrayed an impatience that I hadn’t yet left the nest—contrary to what we had just agreed to be the safest strategy.
+
+I wanted to earn everyone’s respect by proving myself in combat, so how could I argue? My heart wanted to adventure, but I needed to play it safe.
+
+“We saw a juvenile ursalon. It’s like a dog-bear-thing but stands ten feet tall at its shoulder. It charged us. We saw another big enough to shake a bear in its mouth—but we steered clear of it.”
+
+“It sounds dangerous, but I’m glad you’re okay.”
+
+Her face lit with a strange new excitement. “Oh! I forgot! I unlocked the nature magic skill! Somehow, I’d hiked or survived long enough in the wild. It’s not a unique skill—everyone who hunts has nature magic. Pinky took a spell called Tangling Roots that immobilizes creatures in place. She used it on some of the kobolds that attacked us.”
+
+It sounded like crowd control—a common RPG tactic that stopped groups of monsters from overwhelming players.
+
+Charitybelle launched into a non sequitur about ArtGirl getting good at swords. “Arty is getting good with blades and carries one in each hand. While everyone else uses shields, she blocks while inflicting damage.”
+
+Hearing about their adventures made me want to toss out my theories and join them.
+
+We talked until the Formal Hall staff kicked us out.
+
+Four moons glowed in the night sky. Tarnen and Nassi appeared as purple and green disks, while Laros’s yellow crescent sliced across the sky. Owd, a pale blue half-circle, loomed on the horizon.
+
+During our stroll back to the dormitory, I made a move on Charitybelle. Her absence made me realize what she meant to me, and I didn’t want her to leave again.
+
+I gently took her hand. When she made no protest, I leaned in for a kiss in the school courtyard. She met halfway so quickly that it made me glad that I didn’t wait longer and regretful that I didn’t try sooner. Kissing in the moonlight might have been a cliché, but I didn’t overthink it. Our time apart sorted out my feelings, and her response kiss felt natural and unreserved.
+
+I stared into her eyes. “I’m happy you’re back.”
+
+She hummed in agreement. We kissed many times before making our way across the courtyard. When we arrived at her dorm room, she took my hand, pulled it around her waist, and leaned against me for another kiss. “Let’s continue this inside.”
+
+Her invitation made me the happiest man in the virtual world.

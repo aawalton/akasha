@@ -224,6 +224,7 @@
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/labyrinth-of-the-mad-god.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/land-grab-a-kingdom-building-progression-fantasy/land-grab-a-kingdom-building-progression-fantasy.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/last-lord-of-the-fey/last-lord-of-the-fey.world.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/laws-of-desire-isekai-litrpg/laws-of-desire-isekai-litrpg.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/lazy-loops-an-idle-litrpg-op-to-archmage/lazy-loops-an-idle-litrpg-op-to-archmage.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/legendary-shadow-blacksmith-book-2-complete/legendary-shadow-blacksmith-book-2-complete.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/leveling-up-the-world/leveling-up-the-world.world.ts","typed":true,"deferred":false}
@@ -419,6 +420,7 @@
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/the-ascenders-legacy-a-chaotic-storm-litrpg/the-ascenders-legacy-a-chaotic-storm-litrpg.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/the-beholder/the-beholder.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/the-bladeweaver-hiatus-read-announcement/the-bladeweaver-hiatus-read-announcement.world.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/the-book-of-dungeons-a-weak-to-strong-litrpg-epic/the-book-of-dungeons-a-weak-to-strong-litrpg-epic.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/the-bookstore/the-bookstore.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/the-calamitous-bob-stubbed.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/the-connected-system/the-connected-system.world.ts","typed":true,"deferred":false}

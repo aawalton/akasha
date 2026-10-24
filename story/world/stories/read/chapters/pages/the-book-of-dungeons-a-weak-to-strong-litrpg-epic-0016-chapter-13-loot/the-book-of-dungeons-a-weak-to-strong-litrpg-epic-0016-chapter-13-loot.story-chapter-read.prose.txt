@@ -1,0 +1,233 @@
+Everyone laughed tiredly, shaking their heads at my sudden enthusiasm for combat.
+
+Fabulosa spoke for the group. “That’s only the second owlbear we’ve seen, but we gotta be careful. We used up our cooldowns. I used up my Discharge, and RIP used Block to stop it from hitting back. We ought to scrounge up some low-impact monsters for a while. That is, if we can find any.”
+
+I didn’t have daily cooldowns. Cooldowns prevented players from blowing through all their spells and mana all at once. They regulated burst damage and slowed down action to a tactical pace. My only power, Rest and Mend, required a ten-minute wait, but the more powerful spells reset only after an hour or day.
+
+“Yeah, man. I think the deal with owlbears is that they freak out everything around them. Could you believe that heinous scream? I think it sends all the weedy monsters running away. I don’t think we’ll see anything else today. But we might.”
+
+Everyone exchanged fist bumps as we collected ourselves. The ritual felt like being part of a sports team, something I’d never been a part of at school.
+
+They seemed a bit concerned that I didn’t appreciate the danger, acting with much less bravado than I expected. They habitually buffed with Heavenly Favor and performed Rest and Mend immediately after combat to return their health and mana bars to full.
+
+It reminded me to do the same. While I got my mana back, I learned that RIP and Fab fell to a third of their health, past their comfort zone.
+
+Six coppers appeared in my inventory. “What’s up with the money? Do these monsters carry coins?”
+
+RIP shrugged. “It’s weird, I know. We usually find coins in the monster’s stomach. When someone finds it, the game splits it between everyone in the group. Maybe monsters eat NPCs, and the money doesn’t digest.”
+
+PinkFox pointed to RIP. “I bet that’s the difference between animals and monsters.”
+
+I considered the argument. “Wouldn’t bears and lions eat NPCs too?”
+
+Everyone shrugged.
+
+They showed me how to harvest crafting ingredients from the carcass. I picked up a new skill called survival. We received a pelt, owlbear meat, and a smooth, milky gemstone fell from the owlbear’s beak.
+
+Item
+
+Gray Core
+
+Rarity
+
+Basic (gray)
+
+Description
+
+Level 13 core (cracked)
+
+Crystalline cores represented the essence of game entities. No one knew if they connected to the creature’s brain, their soul, or gave them energy. They had something to do with the game engine’s seeding function, which Josie had spoken about during the keynote address.
+
+ArtGirl gave me the core. “They dislodge into the creature’s mouth during its death rattle. It must be like a reflex or a muscular release from dying.”
+
+Fabulosa placed her hands on her hips, a gesture she usually used when she criticized something. “I’m surprised we didn’t get a keeper. Gray cores come from animals, not monsters. Is it warm?”
+
+I shook my head.
+
+Fabulosa grunted. “They’re usually warm.”
+
+ArtGirl explained while I processed the information. “Grays are almost worthless, but you can get about ten coppers for whites at trade skill shops like the apothecary. The clerks say everything has a core, even things like trees and some buildings, but they’re not worth the effort to harvest. Anything for crafting and enchanting could supposedly use cores to improve the item’s quality.”
+
+“Enchanting?”
+
+PinkFox rolled her eyes at me and shook her head. “Don’t bother, Patch. Enchanting is an expensive skill. You can only buff items up when you create them. It numbered among the first things I looked into at the university. Apprentice crafters do it, but unless you want to work in a smith all day, there’s no enchanting in The Book of Dungeons.”
+
+I examined the core. “Why is it cracked?”
+
+ArtGirl narrowed her eyes. “We’ve never seen a cracked core before.”
+
+I poked and prodded the body and found a cavity in the roof of its mouth. It possessed a second cracked core. “There’s another in here. Is that normal?”
+
+PinkFox examined both dead crystals before giving them back to me. “No. There is never more than one. Not in anything we killed.”
+
+I compared the two gray cores. “If this thing had two cores, then maybe owlbears come from sorcery. Perhaps a wizard would have used the gray cores of an owl and a bear to create it.”
+
+An alert appeared in my interface.
+
+Skill acquired
+
+Nature Magic
+
+Description
+
+You’ve learned how to cast nature spells. Nature, or environmental magic, derives its power from the moon, Nassi. It is the magic of growth, and its traditional color is green. Its influence presides over the domains of plants, animals, acids, and poisons.
+
+Rank
+
+0
+
+Progress to rank 2
+
+0%
+
+I raised my fist in triumph. “Hey, you guys! Guess what! I got my fourth school of magic—Nature!”
+
+RIP nudged Fabulosa, who also found my enthusiasm charming. “They grow up so fast.”
+
+Everyone else already had nature magic and its cantrip, so their tepid reaction made sense. They smiled and watched me with amusement.
+
+I received another game prompt about a new cantrip.
+
+Power (spell)
+
+Animal Empathy (cantrip)
+
+Prerequisites
+
+Nature magic rank 0
+
+Cost
+
+10 mana
+
+Cooldown
+
+15 seconds
+
+Cast time
+
+10 seconds
+
+Description
+
+Convinces animals to trust caster. Empathized animals give caster a sense of their concerns. If the animal comes to harm due to an action made by caster or companion, caster loses a skill rank in nature magic.
+
+ArtGirl gestured toward me. “You got lucky. It took us a while to pick up nature magic. I know you like to spam your spells, but you can’t cast Animal Empathy on the same animal twice. It’s gonna take a while to rank up your nature magic.”
+
+PinkFox laughed. “You’ll have to make friends with the birds in town—and perhaps the rats.”
+
+News that this magic school would be difficult to rank up did little to quell my excitement. I didn’t care and imagined myself becoming the pied piper of Belden—which would serve the city right for giving me a rat quest.
+
+PinkFox raised her arms. “You’ll rank up the survival skills out here, too. And if you keep ranking up nature magic, you’ll unlock Animal Communion. Becoming Dr. Doolittle is a prerequisite to taking Familiar.”
+
+Fabulosa shook her head. “Pets are cute and all, but I don’t know what good they do. When y’all rank up your skills, you can take Familiar. It’s on my wait-and-see list.”
+
+PinkFox turned to me. “Oh, don’t worry. I’ll get it. I purchased Animal Communion when I leveled on our big hunting trip. Familiar will be my next power.” She gave me a guilty-pleasure shrug. “I want fuzzies to cuddle!”
+
+“Me too!” ArtGirl rubbed her hands together. “You can have these or chuck them if you don’t want souvenirs. Cores are normally warm, but cracked cores are useless. You can use grays to practice trade skills. But don’t let C-Belle catch you with grays—she doesn’t like hunting animals.”
+
+ArtGirl’s smile lingered enough to hint that she knew about our romance.
+
+I smiled but gave nothing away and accepted the broken cores as keepsakes.
+
+We couldn’t find anything else to fight, so we returned to Belden. Our luck didn’t improve in the next couple of days. Monsters eluded us no matter how far we traveled. My desire for combat wasn’t from curiosity or a sense of adventure—I wanted a break from hiking.
+
+One day, a debuff appeared in my peripheral vision, highlighting what I felt in my legs.
+
+Debuff
+
+Exhausted
+
+-1 agility, -1 intelligence, -1 stamina, -1 willpower
+
+Duration
+
+Until 8 hours of uninterrupted rest
+
+Pushing myself hard produced tangible setbacks. I looked around to see if I alone incurred the debuff and spotted PinkFox’s nameplate. She had no debuffs. My onset condition probably resulted from a low stat in strength. After days in the bush, I still wasn’t involved with heavy fighting, so I soldiered on.
+
+PinkFox held up a piece of meat from her inventory. “We tried bait and stationary hunting, but all the monsters are east, so our scent spoils everything. When we go east, the wind is to our backs, so everything knows we’re coming.”
+
+“Why do we keep switching directions?”
+
+PinkFox pointed to the clouds. “Westerly currents also work against us on return trips. Our chance of running into something downwind is higher. Hitting monsters coming home is dangerous because we’re usually tired and beat up. That’s why we march in zig-zags.”
+
+During our fourth hunt, we followed muskin tracks until they disappeared into rocky terrain. When we broke for a rest, PinkFox clued me to her strategy. “Monsters hunt muskin, so I’m trying to go where the food is.”
+
+When the trail went cold, PinkFox apologized and suggested we go to the river. “We can always try for archaeodons. Patchy said he wanted excitement.”
+
+PinkFox’s wink both reassured and unsettled me.
+
+As the afternoon wore on, we hiked downhill along a shallow stream. After four days of walking, my legs ached. Adventuring wasn’t for sissies, so I ignored my protesting feet and leaned on my knees or sat on logs whenever we stopped. I felt conspicuous, but no one made jokes. Everyone knew this was my first week in the wild.
+
+We followed the creek until it fed into a stream.
+
+Newbie questions helped pass the time. “Is this the Grayton River?”
+
+RIP shook his head. “Nah. It’s bigger than this—this is only a tributary. We patrolled the eastern bank for a few days but didn’t find monsters. We basically have to hunt where there isn’t traffic.”
+
+While following the stream, everyone’s mood changed. The banter quieted to low voices, and my companions took more care to check their surroundings.
+
+Fabulosa directed me to walk further from the water, and I complied. The precautions made me feel like a child, but I couldn’t complain about someone teaching me how to hunt and letting me leech experience.
+
+PinkFox stopped scouting ahead, and the group caught up with her. “I think we’re too close to town. We have to go back the other way if we want to find archaeodons.”
+
+Everyone looked at me to see if I had the energy.
+
+After shrugging, I nodded. I wanted to see more action and hit level 2.
+
+Walking through the winter’s fallen leaves made loud swishing noises, drowning out the conversation as we plodded along the riverbank. When I moved closer to the group, Fabulosa made a pushing gesture for me to back away. Proximity to the river involved danger.
+
+The distance made me feel like an outcast, and without conversation, nothing distracted me from how sticky and sweaty I had become. No one mentioned the tedium when recounting dinnertime war stories. My thoughts dwelled on the library, where soreness troubled only the eyes at the day’s end.
+
+We marched for another two hours before falling into an archaeodon ambush.
+
+Without warning, a lizard larger than a crocodile sprung from the river. After landing between our single-file formation, it clamped its jaws around RIP’s midsection and thrashed its tail.
+
+Crying in alarm, RIP grabbed onto a tree to anchor himself.
+
+I focused on the monster’s nameplate to study its stats.
+
+Name
+
+Dark Water Archaeodon
+
+Level
+
+10
+
+Difficulty
+
+Easy (green)
+
+Health
+
+255/255
+
+By opening the interface, I froze time to gather my thoughts and look at my stats. My mana had been low because I had been casting Animal Empathy to rank up my nature magic—with enough for three Shocking Reach casts.
+
+After closing my interface, I issued electrical attacks, each delivering 7 damage. An excruciating wait for the spell’s cooldown stymied me between each zap. Whenever the 6-second timer ended, I recast the spell. Another direct damage-dealing spell would give me something else to do, giving me second thoughts about saving power points.
+
+A slight damage increase tipped me off that I’d ranked up my primal magic skill. I still wasn’t contributing to combat much, but the progress encouraged me.
+
+Fabulosa opened with a Discharge. Her attack must have scored a critical hit because the archaeodon reacted as such.
+
+When the monster’s maw finally opened, RIP fell to the ground in a roll. Its tail whipped at Fabulosa, knocking her off her feet. With both of them out of sorts, it wasn’t difficult to see how combat could spin out of control. As much as I wanted to help, I stayed back.
+
+ArtGirl cast a Rejuvenate spell on RIP while Fabulosa distracted the monster with a Charge attack. The move gave RIP enough time to stand and equip his weapons.
+
+The surprise attack caught PinkFox off guard, and she hiked too far downriver to contribute to the battle.
+
+The archaeodon snapped at ArtGirl, wounding her arm, while its lashing tail kept RIP at bay. It scored two hits on Fabulosa next but, thankfully, left me alone.
+
+By my fourth Shocking Reach, the lizard had lost half its health. RIP maneuvered to assault the reptile head-on, maintaining his defensive stance while luring the creature toward him. The monster’s fruitless pursuit of RIP allowed Art Girl and Fabulosa to deal strikes that relented only when it lashed its tail.
+
+I recognized a right and a wrong way to fight this monster. Keeping it focused on a player heavily protected and dedicated to defensive maneuvers opened the creature to attacks from behind.
+
+Fabulosa and ArtGirl played the mini-game of tail dodging at predictable intervals. As realistic as it seemed, it felt like a typical monster battle. Order reigned in the chaos.
+
+The battle stabilized, and PinkFox barely returned before we brought the creature’s health to zero.
+
+Congratulations!You are level 2
+
+You have gained a level. You have increased your intelligence by 2 and stamina by 1. You have received 1 power point. You have 94/140 experience points toward level 3.
