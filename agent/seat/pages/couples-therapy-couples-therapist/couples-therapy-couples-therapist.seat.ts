@@ -11,6 +11,7 @@ export const couplesTherapyCouplesTherapist = {
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "4e0a405e-08a1-45e6-a01f-7b4ec7086b9e",
   createdAt: "2026-10-24T18:11:45.305Z",
-  updatedAt: "2026-10-24T18:11:45.305Z",
+  updatedAt: "2026-10-24T18:11:49.025Z",
 } as const satisfies Seat
