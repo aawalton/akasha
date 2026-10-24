@@ -6,6 +6,7 @@ type PersonSaid = {
   readonly kind: "person"
   readonly text: string
   readonly images: number
+  readonly sender?: string
   readonly at?: string
 }
 
@@ -35,6 +36,8 @@ type MessageSent = {
 }
 
 export type ConversationEntry = PersonSaid | AgentSaid | ToolCalled | TurnEnded | MessageSent
+
+export type IsPerson = (sender: string) => boolean
 
 type Shaped = { readonly compacted: true } | { readonly entries: readonly ConversationEntry[] }
 
@@ -76,8 +79,6 @@ const CHANNEL = /^\s*<channel\b([^>]*)>([\s\S]*?)<\/channel>\s*$/
 const SENDER = /\bsender="([^"]*)"/
 
 const UNNAMED_SENDER = "system"
-
-const PERSON_SENDER = "alan"
 
 const SECOND_MS = 1_000
 
@@ -158,16 +159,20 @@ function parseSender(found: RegExpExecArray | null): string {
   return typeof named === "string" ? named : UNNAMED_SENDER
 }
 
-function channelSaid(text: string, at: { readonly at?: string }): ConversationEntry | null {
+function channelSaid(
+  text: string,
+  at: { readonly at?: string },
+  isPerson: IsPerson
+): ConversationEntry | null {
   const channel = parseChannel(CHANNEL.exec(text))
   if (channel === null) return null
   const sender = parseSender(SENDER.exec(channel.heading))
   const said = channel.body.trim()
-  if (sender === PERSON_SENDER) return { kind: "person", ...imagesOut(said), ...at }
+  if (isPerson(sender)) return { kind: "person", sender, ...imagesOut(said), ...at }
   return { kind: "message", sender, text: said, ...at }
 }
 
-function personIn(record: Said): Shaped {
+function personIn(record: Said, isPerson: IsPerson): Shaped {
   if (record.isCompactSummary === true) return NOTHING
   const blocks = blocksOf(record)
   const texts: string[] = []
@@ -178,7 +183,7 @@ function personIn(record: Said): Shaped {
   const images = blocks.filter((block) => block.type === IMAGE).length
   if (texts.length === 0 && images === 0) return NOTHING
   const text = texts.join(PARTED)
-  const channel = channelSaid(text, timeOf(record))
+  const channel = channelSaid(text, timeOf(record), isPerson)
   if (channel !== null) return { entries: [channel] }
   if (record.isMeta === true || harnessWrote(text)) return NOTHING
   return { entries: [{ kind: "person", text, images, ...timeOf(record) }] }
@@ -203,33 +208,33 @@ function harnessIn(record: Said): Shaped {
   return { entries: [{ kind: "turn-end", line: workedFor(record.durationMs), ...timeOf(record) }] }
 }
 
-function queuedIn(record: Said): Shaped {
+function queuedIn(record: Said, isPerson: IsPerson): Shaped {
   const attached = parseSaid(record.attachment)
   if (attached === null || attached.type !== QUEUED || attached.commandMode !== TYPED) {
     return NOTHING
   }
   const prompt = attached.prompt
   if (typeof prompt !== "string" || prompt.trim() === "") return NOTHING
-  const channel = channelSaid(prompt, timeOf(record))
+  const channel = channelSaid(prompt, timeOf(record), isPerson)
   if (channel !== null) return { entries: [channel] }
   return { entries: [{ kind: "person", text: prompt, images: 0, ...timeOf(record) }] }
 }
 
-export function shapedLine(line: string): Shaped {
+export function shapedLine(line: string, isPerson: IsPerson): Shaped {
   const record = recordIn(line)
   if (record === null) return NOTHING
-  if (record.type === PERSON_RECORD) return personIn(record)
+  if (record.type === PERSON_RECORD) return personIn(record, isPerson)
   if (record.type === AGENT_RECORD) return agentIn(record)
   if (record.type === HARNESS_RECORD) return harnessIn(record)
-  if (record.type === ATTACHED_RECORD) return queuedIn(record)
+  if (record.type === ATTACHED_RECORD) return queuedIn(record, isPerson)
   return NOTHING
 }
 
-export function conversationFrom(text: string): readonly ConversationEntry[] {
+export function conversationFrom(text: string, isPerson: IsPerson): readonly ConversationEntry[] {
   let held: ConversationEntry[] = []
   for (const line of text.split("\n")) {
     if (line.trim() === "") continue
-    const shaped = shapedLine(line)
+    const shaped = shapedLine(line, isPerson)
     if ("compacted" in shaped) held = []
     else held.push(...shaped.entries)
   }
@@ -249,7 +254,7 @@ export function lastCompactionAt(filed: Filed): number {
   return 0
 }
 
-export function conversationOf(filed: Filed): readonly ConversationEntry[] {
+export function conversationOf(filed: Filed, isPerson: IsPerson): readonly ConversationEntry[] {
   const from = lastCompactionAt(filed)
-  return conversationFrom(new TextDecoder().decode(filed.read(from, filed.size)))
+  return conversationFrom(new TextDecoder().decode(filed.read(from, filed.size)), isPerson)
 }

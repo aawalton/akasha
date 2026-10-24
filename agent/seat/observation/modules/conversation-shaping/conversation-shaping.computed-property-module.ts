@@ -35,11 +35,16 @@ export const conversationShaping = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A message Alan sent a seat is an entry of the person's, carrying only its words.",
+      statement:
+        "A message a person sent a seat is an entry of the person's, carrying its words and its sender.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An image Alan attached to a message he sent a seat is counted as the message's.",
+      statement: "A sender is a person where a person page has the sender's slug.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An image a person attached to a message sent a seat is counted as the message's.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -79,5 +84,5 @@ export const conversationShaping = {
     },
   ],
   createdAt: "2026-09-24T16:12:07.522Z",
-  updatedAt: "2026-09-25T18:00:03.000Z",
+  updatedAt: "2026-10-24T16:59:46.087Z",
 } as const satisfies ComputedPropertyModule
