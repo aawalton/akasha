@@ -1,0 +1,119 @@
+Morning, Fifth of One, Harvest, 236 CR
+
+I had to deliberately force myself to slow down so I could taste breakfast.
+
+The effort was well worth it. It had always been, even when it had been a matter of grappling with euphoric mania or other overwhelming emotions—moments were for living in, after all. But it had been a long time since I’d been quite as excited as I was, for whatever reason, to work on what we were calling Project Quill.
+
+I slowed down anyway. Kelly’s choice of breakfast for us was something like dense, deflated pancakes with a cheese filling, on which I slathered butter, honey, and a fluffy sort of thing that was halfway between cheese and yogurt. It was… odd, as a whole, with more of a doughy texture than I liked, but the filling and toppings were enough to carry it.
+
+“The yogurt is something that the refectories here don’t use much,” Kelly had told me as I diligently worked my way through the enormous quantity of food on my plate. “It’s Yarovi, so it doesn’t really fit into the cooking style.”
+
+“It’s tangy,” I’d said approvingly. “It’s got bite. The yogurt they usually cook with here has good fatty mouth-feel, but there’s no actual flavor to it. This is great.”
+
+We’d segued into a conversation about the economics of it, because apparently she was just as prone to getting mentally sniped as I was. Not that it was a hardship—it was interesting enough that I kept prodding her to keep talking every time she gave me a conversational off-ramp, and it wasn’t just because it was Kelly and she was expounding energetically on a subject she loved.
+
+As a Yarovi import, the strained yogurt would normally be brought in through the canal locks going up to the peaks of the Spine. From upriver of Dinama—Yaro’s capital, straddling the main river that flowed from the southeastern mountains to the sea—it would climb into Deshanna and then travel westwards on their extensive network of barges. By the time it got to Shem, most of it would have been sold; unless it were on special consignment, none of it would even get to the nearby city of Hayir.
+
+So Deoro and Ketka had paid Hitz a substantial sum of money to solve the problem of not having any of their familiar Yarovi ingredients. Hitz, in turn, had traveled to Yaro and been granted a warehouse in an oasis town that’d been smart enough to jump on the offer. Granted in perpetuity—and so one of the many convolved layers of their warehouse was a small loading dock in the town of Wahatan, and the yogurt flowed.
+
+It wasn’t at all the optimal thing to import, but neither of the delvers cared about making a profit. They wanted fresh yogurt, they were getting it; the money was just numbers on a ledger to them, and Hitz was perfectly willing to wait out their tenure in Kibosh before caring about just what was flowing through the dimensional tunnel.
+
+It was enough—the knowledge, the understanding, and also the intensity with which Kelly expounded on the topic—to hold my attention; it was enough to have made slowing down worth it. The food had been worth it regardless, and so had the practice, in both senses of the word, and I was filled with an almost fey sense of contentment as we left for the lab.
+
+That sense of contentment gave way to a determined focus pretty much immediately. We had so very many tests to run and minutely different experiments to work through, and figuring out the implications of each of them was going to be an exercise in frustration—many of my old labmates would have loved it, but this part of the work I’d done had always been my least favorite. Yes, I was meticulous and finicky, but I liked the other two parts of the broader scope of work.
+
+We were getting there, though. Not to a phase of wild exploratory leaps, but to my favorite part: taking the little bits of proven knowledge and turning them into a system.
+
+“So. Where were we?”
+
+Prior art proven perhaps practicable.
+
+“No, Spark.” I ruined my attempt at a stern tone by laughing. “Where were we, actually?”
+
+“Um!” Kelly pulled out a couple of pieces of paper—wide and rough, so definitely not from my notebook. “We’re here, done with the prior art, like Spark said. I think… I think that we know what we were trying to find out?”
+
+I looked at the drawings she was laying out on the table, raising an eyebrow. It definitely wasn’t me who had drawn those elegant diagrams or annotated them in a concise, precise hand; and the conclusions illustrated in them was a fair ways ahead of where we’d stopped the previous day.
+
+“I went to Kartom after lunch,” Kelly admitted when I glanced at her. “He synthesized—he helped me synthesize, he made me promise not to give him more credit than that, the framework for how the mana relates to the medium and how the dyad behaves on both ends of the equation. The draw and the sump, I mean.”
+
+“This is novel,” I murmured, eyes still on the diagrams. “That, or it’s not in the books of reference here in Kibosh. It’s the first, isn’t it? You just… took the empirical data we’d just collected and created a framework solid enough that Kartom is endorsing it. In an afternoon.”
+
+“Um. I mean, only a little!”
+
+I glanced up to see Kelly sort of stunned. “It’s okay to be a genius,” I said with a perfectly straight face. “I’ve known a few. Most of them were pretty great, and they all made me realize I was outclassed. You didn’t know the least thing about this stuff when we started, and here you’re doing original research in the subject already? May your deeds be a source of strength.”
+
+“It’s an orphan subject,” she said with intense embarrassment. “Nobody studies this kind of thing, most people don’t think about it at all! If they had, someone would have put this together hundreds of years ago, it’s basic. And Kartom did most—and Kartom helped, he says, but he could have done it in a tenth of the time it took me. It’s not that impressive! I’m not a genius, I just try to understand things.”
+
+“You try to understand everything, and you know perfectly well how rare that is.” Already feeling my attention slip away from her, I slid my finger across one of the diagrams, tracing it as I studied it. “I hope you don’t think this means you can slack off, though,” I murmured. “This is the key, and you only miss it because you aren’t used to thinking like a chemist, or I guess an alchemist. The fact that the air-gas transition creates a propagating destabilization of the essence binding explains everything we were seeing with the reversion, because the ink exists in a dynamic equilibrium, not a static one.”
+
+“What do you mean?”
+
+“There’s a little bit of evaporation and a little bit of condensation,” I explained. “Even when they balance perfectly, under basically anything even vaguely like normal conditions there’s always going to be a little bit of both.”
+
+She made an oh face, like the puzzle piece clicking into place, and her face lit up. “So as long as we keep the ink in a container that doesn’t have any air in it, it’ll stop unbinding!”
+
+“Which means we need—”
+
+“—a two-stage inkwell with an exchange valve, basically, where the imbued chamber is pressurized and you inject ink into it as you go, so we’ll have to figure out some way of actively managing pressure, and a quill won’t work because we need the ink to go onto the paper without touching the air—”
+
+“—no, see, Kelly, we don’t need to do active pressure management if we go with a flexible imbued chamber, I like that term, because if we pick our materials right the chamber will maintain enough pressure and then we don’t have to be nearly as persnickety—”
+
+“—so it’s like a set of pipes, but the drone is the mana not unbinding!”
+
+In the absence of known art upon this matter, Spark opined into the pooling moment of silence between us, nothing indicates an impossibility of function. Only experiments may illuminate us.
+
+“Spark,” I laughed, “you could just try sounds like it could work or something.” I turned to Kelly, raising an eyebrow. “Do you have a design for the pen nib that’ll work? I think some sort of variant on the spherical tips could do it.”
+
+“I’ve never seen a pen with a spherical tip, so I don’t know what you’re talking about,” she protested. “I was thinking about some sort of valve or seal, like a stopper maybe, with an angled tip, and you draw it across without letting the flat angle up.”
+
+“Try it out. How should I help?”
+
+She paused, waiting for me to say something else. With every moment that I didn’t, she seemed to both draw into herself and drink something in greedily, until she broke into a smile that felt both familiar and alien.
+
+“You know, most people don’t give their minion a project and ask how should I help.”
+
+“Well, most people don’t deserve minions,” I said breezily. Most people, I carefully didn’t say, don’t deserve to work with someone like you—and they don’t know what they’re missing, because they can’t see past the surface of a pretty, bubbly blonde full of joy. “But I’m glad to hear that you recognize your status as being minionic!”
+
+“Thousands,” Kelly groaned. “I refuse, absolutely not, that’s not a word and I’m not going to pretend it is.”
+
+“Too late, minion! Language is an evolving social construct and this one’s a word now. Except not actually,” I admitted with an absent-minded compulsiveness. “Which is totally bogus. Science is a word in Shemmai now, but I can’t make minionic one.”
+
+My attention was drifting back to the diagrams, with everything else falling by the wayside. I trusted that Kelly or Spark would poke me in some sort of unambiguous manner if they needed my attention—in the meantime, I pulled out my notebook and let their conversation fade into a background hum, a reassurance of company.
+
+I drew and wrote rapidly, and struck things out even faster. The flexible air bladder approach would work, but the pen nib problem was only the most obvious of the problems, and there were so many obvious-in-principle solutions that I could shove it aside for now. No, the biggest problem was the same as always—scaling and consistency, though in this case I wasn’t as worried about a superlinear cost increase relative to output.
+
+Instead, what I needed was something that was going to give the results I wanted, in a form I could use, with an amount I could use, every single time.
+
+If you weren’t a process chemist, you probably didn’t think much about how much of a pain in the ass that was. Your average lab tech was… not going through the motions, that would be unfair, but executing a protocol they didn’t need to work on designing; and your average postdoc researcher was very carefully not grappling with the fact that everything they worked with was an absolute morass of inconsistency and so was their output. It had only gotten worse when I’d gone from working on petrochemistry to trying to crack the puzzle of reliable biosimilars, because the discovery dorks I’d both loved and hated didn’t understand the little problems like the fact that a single-codon change in the inserted sequence we were using to make the bacteria produce the drug turned medicine into death.
+
+I had no illusions that this process would be any more tolerant of problems. Magical runes could demand a specific density of a specific flavor of essence, after all. And while we had a solution that was incredibly convenient and easy, it sucked in every other way; it needed one of the flexible mana crystals inside the ink reservoir and it needed a bit of magic to kick off the flow, which meant it was useless for me personally and useless for general use.
+
+There were dozens of obvious potential problems, and each of them had a whole array of equally obvious potential solutions. I didn’t linger on them, but it still took a fair bit of time to work through all of the chaos and noise in my head and get it out on paper in structured lists—not an effort that was immediately relevant, but cleared my mind and made sure I wasn’t going to lose any of the brainstorm.
+
+“Okay.” I blinked away my hyperfocus, shaking my head and working my jaw open and closed. “Just… needed to get some stuff down on paper.”
+
+“Details about the next steps? I, um! I had a few ideas. But I didn’t want to interrupt you.”
+
+“Oh, no.” I stifled my laughter, realizing a moment later that obviously Kelly would understand I was laughing at myself. “I was just cascade-dumping a bunch of thoughts about everything that comes after what comes next. What’s next is filling the ink bladders, right?”
+
+“I was working through the apparatus for that,” she confirmed. “A reservoir that pumps infused ink, but I got stuck on figuring out how to make it not… not do the phase change? What I was wondering is whether there’s a temperature where it… doesn’t do the change, but that doesn’t make much sense, and you’re laughing.”
+
+I was, without realizing that I’d been laughing. “Junior,” I said, hugging her, “you’ve fallen for one of the most classic blunders.”
+
+“I feel like this is going to be one of those jokes I don’t understand,” she muttered, hugging me back delightfully.
+
+“As everyone knows, the most classic blunder is kicking off an intercontinental war of annihilation. And the second most classic blunder is going up against the Kingdom of Shem when our obsessive national sport of civics is on the line. But the third most classic blunder is getting stuck in making a solution work before you’ve properly defined the problem.”
+
+“You said our.” Kelly pulled back from the hug, beaming at me. “I win the betting pool!”
+
+“Well, it’s a nice—wait.” I narrowed one eye at her, raising the other eyebrow. “Someone was dumb enough to bet against you?”
+
+“You say the nicest things.” She smirked, giving me one last squeeze around the shoulders before breaking off to pick her pencil up again. “So what’s the problem, if not to get infused ink into the bladder?”
+
+“The problem,” I said dramatically, “is to wind up with infused ink in a bladder.”
+
+The realization hit Kelly, and a moment later her hands covered her ears in the Shemmai equivalent of a facepalm. “We fill and pressurize the bladder,” she said in the dourest tone I’d ever heard from her, “and then we infuse it.”
+
+“Good minion,” I purred. “Very good.”
+
+Her flustered reaction was as delightful as I’d expected, and then the moment passed and we threw ourselves into the alchemy once more.

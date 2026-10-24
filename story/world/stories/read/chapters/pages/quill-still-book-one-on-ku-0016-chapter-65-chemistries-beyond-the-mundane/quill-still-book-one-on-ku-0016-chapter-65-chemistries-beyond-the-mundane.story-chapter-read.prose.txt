@@ -1,0 +1,133 @@
+“This,” Keldren said, pencil moving across paper, “is the structure, as far as we could figure out, of the bacterial byproduct.”
+
+“Huh.” I squinted, trying to make sense of what he was writing. “I’m going to have to learn your molecular notation, or possibly teach you mine.”
+
+“The first one, whether or not you do the second.”
+
+“Obviously.” I smiled down at the paper, matching his dry tone with my own. “But I get it. This isn’t actually a diagram of a molecule, right? It’s a… glyph representing the spellform?”
+
+Keldren’s eyes flickered up to mine in surprise. “Not wrong, but you’re still missing something.”
+
+My mouth opened to take a guess as I looked at it, and then shut when I couldn’t think of anything immediately. Instead, I bent closer, humming thoughtfully.
+
+This, I thought to myself, is kinda cool, but what actually is it?
+
+It definitely wasn’t any sort of atom-by-atom representation of a molecule. Not a dot formula, not a skeletal formula, not any sort of structural formula representation I could recognize. There weren’t any bond notations, for one, and while I could believe that the solid lines were some kind of there’s a bond here marking, what about the dashed and dotted lines?
+
+It was definitely a spellform glyph, and definitely not the compound itself. But if I was missing something, it was more than that, and the obvious thing for that more to be was something that… bridged the gap, or related to the chemistry in some way.
+
+It was all such an incoherent mess of swoopy lines and curlicues and various shapes, though. I’d never been able to make heads or tails of that kind of thing, and I still couldn’t.
+
+Well, not heads or tails, but if I just ignore some of it… I frowned at the paper, then pulled out my notebook and started copying over a very specific subset. “Looking at just the vertices that are connected by solid lines,” I said slowly, “this looks a lot more like a skeletal diagram. Some of them are connected by lines that aren’t solid, too; like this one.” I traced one particular example on Keldren’s page with a finger, curving from one vertex-symbol to another across the diagram. “What is this?”
+
+“Potassium.” He tapped on the first, then the second. “Sodium. Sympathetically bonded to form a channel for magic.”
+
+I frowned harder. “How do you even know what the elements are if you can’t see them and don’t understand how chemical bonds work? Sodium, potassium why do you have names for them? How do you even have these… how do you even have enough knowledge of this stuff to make these diagrams?”
+
+“Gods.” He met my exasperated, incredulous look with an impassive shrug. “What? They gave us the Table of Elements centuries ago, along with the Edict—”
+
+“—of Subatomics,” I finished for him, groaning. “Gah. Kelly told me about that in my first days here. I just forgot about it.”
+
+He graciously didn’t comment on that, though his face was expressive enough to make words unnecessary. I bent over the table again, fingers tracing patterns and pausing at vertices. If this is potassium, and that’s sodium… this isn’t the puzzle I am interested in solving. Spark, if you please?
+
+Spark didn’t dignify my request with an answer, or the memory of an answer. Instead, something snapped casually into focus, the result of a synthesis of my Skills filling out the identities of each of the other atom-glyphs.
+
+The chemistry of the molecule was… well, it wasn’t impossible, there were bits and edge cases of inorganic chemistry that nobody had figured out. But forming it was going to be way, way uphill starting from any plausible or even implausible molecule, and its degree of instability was going to be off the charts. It wasn’t even a question of what kinds of bonds were in play or what the…
+
+“It’s a little bit ridiculous,” I groused, “that Shemmai just uses loanwords for everything related to science. I mean, you’ve got—we’ve got a specific word for chemistry, but not for stereochemistry?”
+
+“I don’t recognize that word.” Keldren glanced over at me, looking vaguely curious. “I don’t even recognize the language, actually. What kind of thing related to chemistry are you looking for?”
+
+“Um.” I racked my brain momentarily, trying to fight through the sensation of having a word on just out of cognitive reach. “The spatial relationship between atoms in a molecule? I know there’s another word for it, another loanword, it’s just not coming to mind.”
+
+“Ah! Stereochemistry. It’s a Yaroba loanword.”
+
+“Stereochemistry,” I repeated slowly. “I guess the other one is probably Koshe.”
+
+“How do you—”
+
+“Anyway,” I said, interrupting him remorselessly, “obviously the magic has to be binding the molecule together, because otherwise this is nonsense. It’s going to explode, violently, the moment something stops holding it together. What even happens when it touches water? If these bonds weren’t already beyond unstable, they’d be pulled apart immediately by—”
+
+It wasn’t a wave of gut-clenching terror. It wasn’t an overwhelming slam of intrusive thoughts or a sudden spike of headache. It was a quiet sense of chiming bells, and a thought running through my head, tagged as being Spark’s and overwhelmingly important.
+
+It is of a certainty, the thought came to me, that the broaching of this subject is a violation of an Edict—that edict which has been spoken of before, and again now.
+
+“—well, pulled apart, anyway.” I shook my head, pencil scratching across my notebook below the diagram I’d copied. “Point is, I would expect that this would very rapidly, and kind of energetically, become… this.”
+
+I handed Keldren the paper, and about two seconds later he started laughing. I gave him a stink-eyed glare, and that just made him stifle his laughter while it intensified, chortling into a napkin to muffle it.
+
+I refrained from hitting him. It would have been extremely impolite, and besides, a couple of the kids were staring at the paper he’d slid back onto the table—and their faces were fascinated.
+
+“Miss Sophie,” Aiarah said tentatively, “what are the other bits around these parts?”
+
+“Water.” I smiled at her, as warm as I could manage. “The water pulls one of the parts of the compound off, and then surrounds it. Well, more than one of the parts; it does it to each of these.”
+
+I indicated each of the salts in turn, and then looked over at Keldren, who had finally managed to stop laughing. He still didn’t speak immediately, and when he did, his voice was rueful.
+
+“Sophie, I owe you an apology for not taking you as seriously as I ought.”
+
+“Yes, and also, accepted; and?”
+
+“You’re absolutely, totally right. I was just laughing because… well, the closest we have to a practical chemist in just about any village is a cook like me, and that’s pretty recent; Chefs, Levali and Thesha, they learned and iterated, I studied and built. The only reason I know what happened is that I looked it up, they’re a known contaminant, right? I don’t know if there’s a chemist in any town in Shem who would have caught that without a reference book.”
+
+“Keldren.” I kept my voice level and calm despite the spike of anger. “With all due respect, and may the praises of your dumplings resound for a thousand years, when it comes to mundane chemistry and pharmacology? You don’t have the grounding to understand how much you’re underestimating me.”
+
+“Sure, yeah, granted.” He waved a hand in a not-quite-dismissal, something more like acknowledgement. “So, the water pulls these apart. The spellform doesn’t exactly collapse, though; it stretches, and it changes, and then it re-settles into a different form.”
+
+“It binds to the water,” I said slowly, “and the whole thing becomes a sort of meta-compound tied together by a modified form of the spellform. But… why?”
+
+“I’m not sure. Nobody’s sure.” Keldren shrugged. “There’s six theories, four if you bundle the ones that are too similar. If anyone actually knows, they aren’t saying. Probably the most likely answer is that they’re a created lifeform and something else uses the byproduct.”
+
+“That’s…” I frowned. “That’s a familiar thing to me, though we generally were doing things like expressing proteins instead of having them shit out spells. I can see why this would be energetic if you managed to disrupt it, though. You’ve got a bunch of pretty happy cations fixed by water and a stable enough anionic molecule, but if you break the equilibrium…”
+
+“Yeah, it tends to ruin—”
+
+“How does Shemmai have a word for cation and anion?” I didn’t need Spark’s input or involvement to remind me to be careful in my word choice. I paused anyway, and got a wash of good humor and appreciation. “What do they mean?”
+
+“I… don’t know? No, I don’t know.”
+
+“Who would?” I glanced at him, shaking my head as he shrugged. “No, seriously. I need to know who would know. Though I guess Kelly might be able to point me to the right person. Where is she, anyway? I was sort of expecting her to be dogging my heels by now.”
+
+I turned my head a quarter-turn, tilting it just so, raising my eyebrows just so and shifting my shoulders and hips. It was a synthesis of two different pieces of body language that I’d read in Jannea’s gift, and I knew I wasn’t getting it exactly right, but Kelly’s delighted laugh was worth the effort.
+
+“How did you know I was here? Spark, are you cheating on her behalf?” Kelly’s tone of voice belied the chiding words entirely. “That isn’t nice, you know.”
+
+“Spark had nothing to do with it,” I protested on its behalf. “I just assumed that at the most dramatic moment possible, you would turn out to be just behind me. Perfectly logical and reasonable, no external involvement necessary. Anyway, who would know what cation and anion mean in Shem’s context?”
+
+“If it’s anything related to chemistry or alchemy, Hitz, for sure.” Kelly stepped up to me, smiling at the kids who were starting to turn back to their own thing, recognizing that Adults Being Interesting For A Change time was probably over. “James could find it out for you! And so could Zqar or Safra. Can you be more specific?"
+
+“Yeah, it’s, uh.” I searched for an appropriate way to ask, and we started to drift away from the table towards the exit. There was nothing fundamentally subatomic about an understanding of charge; I just had to take a step back, probably. “If you run unidirectional… lightning… or maybe lightning mana…”
+
+I sighed, shaking my head, and we stepped outside. Kelly waited quietly as we both leaned against the wall, may she be known to everyone as a woman of valor for her patience, and I eventually thought of something.
+
+“If you run lightning mana through a wire that forms an almost-complete circle in water,” I finally said, “it should jump the gap you leave and finish the circle. When that happens, I would like to think that you’ll get oxygen bubbling up from one tip of the gap and hydrogen from the other. Those are the cathode and the anode, and that’s where cation and anion come from.”
+
+“Pure oxygen?”
+
+“Yeah, though I mean, you’ll get impurities through whatever method you use to capture it.”
+
+“Pure oxygen.” Kelly tapped her fingers against the wall in thought. “Maybe some folks in Hammer use different air ratios in their work? Glass, metal?”
+
+“Via hasn’t said anything about it, and they don’t have any end-product equipment that would make use of it. Not that I’ve used much of the equipment, since I’ve just barely started learning what the equipment even is, but I feel like I mostly understand what the inputs are.” I leaned my head back, looking up, up, and further up at the enormous trees above us. “Could be they’ve got variable-oxygen mixes in what makes their intermediates.”
+
+“Does it matter?”
+
+I started to say no, of course not, and then stopped myself. “Probably,” I said slowly. “There’s a way of plating things through deposition that uses some of these ideas. That doesn’t mean it matters right now, though.”
+
+“Well, obviously not.” Kelly snorted out a laugh, a remarkably crude gesture from her that had me giggling in response. “It’s the Fourteenth. What matters right now is getting ready for Ease. Ready to go clean up the workshop together?”
+
+“I, uh.” I blinked at her change of subject, feeling like I needed to run to catch up. “I was going to ask Via if I could watch her work. Ketka says she’s going on a long delve, otherwise we were going to do another Yaro-style bargaining lesson.”
+
+“Not today.” Kelly shook her head, starting to walk north on the ring road. “Via’s the junior glassworker here, so she’ll be on tidying duty while Badger works on finishing up anything they left undone. Everything done, everything tidy, that’s how you go into Ease.”
+
+“Okay, that makes sense. But… Badger? Who names a kid Badger?”
+
+“Hey, nothing wrong with badgers.”
+
+“Sure, but—”
+
+“Did a badger eat your fish or something? What do you have against badgers?”
+
+“Badgerphiles.” I shook my head as we walked, grinning. “I’m surrounded by badgerphiles.”
+
+Both of us grinning, both of us giggling, we headed for home.

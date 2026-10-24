@@ -1,0 +1,103 @@
+Breakfast on the Fourteenth was a disaster.
+
+It wasn’t entirely, or even mostly, Keldren’s fault. Levali’s apprentice had, as was traditional for cooking the day before Ease, scoured the cupboards, cabinets, and pantries for ingredients that had gone forgotten or needed using up. As was also traditional, he’d gone to Levali, who bore ultimate responsibility for the Rise refectory, to cross-check which ones should be thrown out. With two centuries of experience under her belt, she’d been, as always, able to make decisions rapidly and with great confidence.
+
+Decisions made with great confidence which, unfortunately, had not all been right.
+
+Kartom’s work on Levali’s behalf had been almost entirely successful, but the cooling units had operated inconsistently across the secondary cold-room for two days. A bacterium—known and well-understood, but rare—had colonized one of the butter vats, doing various things I didn’t understand and which seemed bizarrely thermodynamically uphill, but hey, maybe the magic made it somehow net-energy. In the end, how it worked didn’t particularly matter.
+
+What mattered was that nobody had caught that the butter’s salt had gotten recombined into molecules that tasted not just bitter but also saltier, by enough of a margin that two thirds of what they’d cooked had almost, but not quite, too high a salt level to eat.
+
+It was an opportunity to see how people treated something incredibly annoying going wrong, and the answer was, as I should probably have predicted, comedy. Not because they were unfussed—folks had expected breakfast and gotten an adventure, and a dozen gallons of food waste bothered everyone at least a little. But part of the point of civic resilience was that it was only the principle of things that had people bothered about the wastage itself, and there wasn’t any point to being mad at Levali, much less Keldren.
+
+Hence the comedy—to transmute a setback into an adventure while people got a chance to grab their homemade preserves to go with the half of the bread that hadn’t used that butter.
+
+I mostly ignored, on account of the familiar feeling of something not entirely unlike machismo, the competitions for eating the creamy eggs. Even just watching people eat them with their best attempt at a pleasant smile while exchanging dry-voiced commentary was nauseating, though it was hilarious to see Kan face off against Rafa after beating six others.
+
+Rafa had smirked, dumped an extra tablespoon of salt onto her small portion, and then ate it as my Stone Team friend blanched.
+
+“Step down, boy, before this doctor has to put you back together,” she’d said, and he’d hastily made his gracious exit and left her with the salt-crystal crown.
+
+Keldren was circulating, and most of the action was going on around him as he did so. It felt like everyone was telling their stories of how they’d fucked up some meal or another while working in the refectory. Thesha had come over from Fall to laughingly regale an astonished crowd with a tale of vinegar gone bad and nonetheless used to braise a course of meat, and of all people Magus Zrodne followed up the other refectory manager’s story with one of his own.
+
+The stuffy, prideful battlemage had been traveling in a dungeon below a town whose name I didn’t catch, heading down for a known area called the Subtunnel Chambers. There was a group of people living there seasonally, staying from Anticipation—halfway through Anticipation, when the weather started to really turn away from cold and towards renewal—until Rebirth. They had only a narrow window to harvest a kind of seed that grew at the roots of rhizomes, rhizomes stretching hundreds of feet from the surface to the Subtunnels. Zrodne had brewed a classic, traditional kind of not-exactly-beer that was about a third of the way to alchemy, but he’d fucked it up somewhere along the line—there was apparently no being sure about it, but probably too much smoke mana and not enough bubbleweed, whatever that was. The result, then, was something genuinely undrinkable for its frothing muddiness, meticulously sealed and never tasted.
+
+He’d brought it as a guest-gift, which was absolutely hilarious for a bit, and then I remembered that I was a decent human being.
+
+It was definitely unethical to laugh when some poor people had gotten a taste of horror.
+
+Stories only held my interest for a little while, though. I gravitated towards a table where about a dozen kids—teenagers, and they kept coming and going—were trying to do chemistry. Food chemistry, specifically. Poring over papers covered mostly in Rafa’s recognizably spindly writing, they were trying to figure out what they could add to the porridge, which was among the least ruined of the food, to make it taste better.
+
+I’d gotten there too late to really get the context of what they were talking about, but I settled in to listen anyway. They, in turn, were extremely excited about my arrival, and they insisted on trying to explain what they were doing while at the same time apologizing for daring to think I needed it explained.
+
+Conveniently—I rather enjoyed how excited they were about explaining it—I did actually need the long version. What the bacteria had done wasn’t as simple as leaving behind higher NaCl levels; the molecule was a lot more complex, and there was mana bound to it. It wasn’t even all sodium, as far as cations went; ammonium was pretty common, though not the majority, and there was a fair bit of calcium there too.
+
+I had no idea what the scale was supposed to be of saltiness, but a casual mention got a confirmation that in mundane chemistry, even here on Yelem, sodium ions were as salty as it was supposed to get. But of course, there was magical chemistry here, and the real flavor-inducer was actually not just bound mana but a stable, shaped spellform bound to the molecule. Their first attempts had involved trying to break the equilibrium of the spellform itself, by stripping out the mana or forcing a different kind of mana into it, but that had been… energetic, and they had been dissuaded from trying again.
+
+“Farmer, they was—”
+
+“—they were.”
+
+“Farmer, they were here,” the boy said, nodding at Khulu—a boy I’d met early in my time here in Shem, though I hadn’t seen all that much of him. “They did this quiet cough, and we all sort of went oh! And then Farmer sorta squinted at the little bowl of porridge and went ayeh, g’wan and when it blew up it all went straight up like there was a chimney!”
+
+“It was amazing!”
+
+“It was pretty great,” allowed Dana, grinning at Yalad beside her. “Woulda been gross all over our faces, I guess. If that’s what Alchemy is like, maybe I should apprentice with you, Miss Nadash. But maybe I should apprentice with Farmer first!”
+
+“Dunno. If that’s what you learn from farming,” Yalad said thoughtfully, “maybe we shouldn’t apprentice to them, neither of us to neither of them.”
+
+Dana’s eyes flickered upwards in exaggerated exasperation. “Come on. I bet Sophie hasn’t even blown anything up by accident, and it’s been a whole fortnight!”
+
+“Actually—”
+
+I stopped myself after the one word, but it was too late; both kids’ eyes snapped over to me, wide and excited. Same brain cell, I thought to myself wryly. Bodes well for their dating life. Better than Yalad being all bashful and embarrassed about dating her. But what to say…
+
+Making up my mind, I shrugged, grinning a little. “I blew up my whole apparatus this morning. Chambers, piping, burners, central chamber, a dead greedstone, everything. Work-surface under my safety hood was absolutely covered in the little glass balls from when the tempered glass shatters, like a layer of dust made out of glass-sand.”
+
+“Don’t try to sell us city-tales, Miss Sophie. We’re not that little!”
+
+I looked over to the girl who’d spoken up when everyone else was quiet or just murmuring. Squatting down, I made eye contact with her, which was a pretty striking thing when she had heterochromia—and not just that, one eye was a vivid dark blue and the other a vivid almost-clear amber.
+
+“What’s your name, Miss Not-That-Little?” I kept my voice cheerful and gentle, which wasn’t particularly hard. All of the kids in Kibosh were ridiculously cute and fun to be around, even the sulky ones and the ones practicing their boundary-pushing behavior in developmentally-appropriate ways. “I feel like I’m at a disadvantage here, since you know mine.”
+
+“Aiarah,” she said firmly. Too firmly, in a way, and from the way a few of the other kids stirred and the way she shot a quick glare at a couple of them, I could get an idea of what was going on. “Aiarah,” she said again, once the fuss had died down. “My mama’s Rael, my papa’s Annok. They say you’re good and really safe, so why would it blow up?”
+
+“Well, Aiarah.” I propped my head in my hands, still squatting to keep our heads level with each other. “I don’t know if I’m actually safe, but I do try to be aware of what the risks are for what I’m working on, and to mitigate those as much as I can. That’s why even though the experiment went wrong and a whole lot of stuff happened really fast, Kelly and I are still okay; we had a safety hood between us and the glass, and it kept everything contained.”
+
+She gave me a deeply skeptical look at that, but it wasn’t without a certain degree of thoughtfulness. “Did that really happen? How?”
+
+“It really did happen, just this morning. The essence-infused gasses I was working with went into places I didn’t expect them to, and they reacted badly to what they found there.” I grinned sheepishly, putting everything I could into the sheepish part. “We hadn’t even realized that was a possibility. I mean, if we had, we would have made sure it didn’t happen; it’s always the stuff you don’t expect that goes wrong, you know? If you expected it, it’s not going wrong, it’s going… like you thought it would. But that’s why we put more into containment and keeping ourselves safe than we think we’ll need.”
+
+She nodded slowly. “Was it scary?”
+
+“Honestly? Not really.” My grin widened into something more wild, despite my moderate efforts. “I tend to be easily startled by stuff, and I did go windmilling a bit and slammed the back of my shin against one of my cauldron’s supports, but it happened so fast that I wasn’t really scared. I didn’t have time to be, and then it was over and I was so excited to figure out what happened.”
+
+“Did it hurt?” The boy I didn’t recognize didn’t exactly push his way past Aiarah, but he might have if she hadn’t shifted to let him come up beside her. “Does it still hurt? Is it gonna scar? Can I see it?”
+
+I glanced around the half-circle that had formed around me, checking for any unhappy adults or any kids that were being shut out of the conversation or looked unhappy. “I don’t think I know your name,” I said to him with a tilt of the head that, if I was doing right, suggested a very mild rebuke. “I know you were talking with Khulu just now, but that’s all.”
+
+“Sorry, Miss Sophie! I’m Zak.”
+
+“Zenith’s blaze, Zak. It’s nice to meet you.”
+
+“Zenith’s blaze, Miss Sophie.”
+
+“Yeah, it hurt, and it still hurts a little bit.” As fun as it was to make the kid squirm, which, okay, I might not be the best and nicest of people, I was a merciful and gracious woman. Also, I’d known boys aplenty. “I doubt it’ll scar. I’ve only gotten a scar from a bruise once, and that was when my body wasn’t as good at healing. But you can look at it, if you want.”
+
+The kids flowed around me to look with great seriousness at the back of my right leg, critiquing the color and size like I’d brought it to a contest. I leaned over the table in the meantime, looking closely at the paper pinned there by various dishes, the one they’d read the different salts off of.
+
+It was… fascinating. There were a couple of configurations that might technically have been possible for what the page said, in terms of molecular structure, but the sodium cations were going to split off in water. That was the whole thing with the ionic bonds, it was the core of how salt worked on a chemical basis. So how is a stable spellform being maintained after the molecule splits?
+
+“Miss Sophie? What do you mean by the molecule splitting?”
+
+I blinked a few times. “Oh! I’m sorry, I didn’t realize I was thinking out loud.” The kids had grown bored of my bruise sometime between when I’d stopped paying attention and when I’d spoken, but a few of them were still hanging around me. “When we taste salt, we’re mostly—well, okay, this is to the best of our knowledge back where I come from, and it assumes it works the same here—tasting sodium that’s been split off of its chloride bond-partner by the localized delta in energy polarization.
+
+“So if the molecule is getting split apart, with the cations of all the different salts getting split off by the water, what’s keeping the spellform stable?”
+
+“It’s not.”
+
+I spun around, as did most of the kids. “Chef,” I said with a grin, “come join us! What do you mean, it’s not?”
+
+Keldren glared at me with a vague, exhausted approximation of disgruntlement. “Could you just, like, not—ah, never mind, everything echoes across the grass. Make some space, I’ll sit down and show you.”
+
+“Chef, yes Chef!” I grinned, and the kids laughed, and Keldren sat down beside me with a ghost of a grin to show me what I was missing about his tribulation.

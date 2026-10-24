@@ -1,0 +1,89 @@
+The new experimental apparatus was a thing of alchemical beauty, and I was absolutely in love with it.
+
+We’d done away with the burners entirely, with a mental, not-entirely-serious apology on my part to Hephaestus. Each element was now coming from a small almost-horizontal piece of tubing that would contain a block of dry ice, wrapped in a stiff piece of fabric that would produce heat when activated with mana. From there, when the first valve was opened by the central stopcock, the gas—we’d be well past the critical temperature by that point, so gas, not vapor—would spew at high pressure into the second chamber and stop there until the second valve was opened.
+
+We were very, very careful not to touch that first chamber with our hands. As almost-perfect as the insulation was, the whole apparatus was in as perfect a vacuum as we could manage. In order for the dry ice to stay frozen under those conditions and not start things rolling early, we were keeping it well under what the books said was negative two-forty in Vulgar, and wow did I ever hate that name.
+
+I hated trying to use it, too—I kept mentally comparing the scales to the old ones I’d used and their comparisons, which was an instantaneous headache every time. So rather than work my way through or around that, I just unilaterally decreed we weren’t doing anything in Vulgar, ever—degrees Arcane only, so the storage was at negative one-fifty.
+
+The positioning of the orbs—we’d finally looked up the official terminology, or rather, Kelly had finally rejected my preference to just call it whatever felt right at the time, as I knew she would—had changed again, and now they were in the first chamber. They would probably be shoved into the second chamber by the initial blast of carbon dioxide gas, but they would drop back down as the pressure equalized, and then the clock would be ticking.
+
+The elemental imbuement would be approximately self-sustaining—in an environment of such high density, low-energy decoherence would eventually, empirically result in the imbuement getting picked up by a molecule that had undergone mana decomposition. Well, not immediately, and not as a stable equilibrium; there was an ongoing density drop, but the rate of loss dropped exponentially as the thaumic density fell.
+
+I had absolutely no desire to try to model it, contrary to Kelly’s assumption. I could trivially do an approximation of most of the fluid dynamics with Spark’s help, and if I took my time I could probably do the exact three-dimensional Brownian motion side of things for a single molecule. I had absolutely no idea how to even approach the quantum mechanics of it, and scaling the interactivity from one-to-many to many-to-many was so far beyond me I might as well have just guessed.
+
+So I guessed. Rather, I took the observations from previous experiments and made do with their measurements plus a vague notion that it was probably a cubic decrease in loss rate, since it was in a volume. Guesswork, but with a veneer of science, and it didn’t really matter because there would be enough of the imbuement left for our purposes.
+
+Of course, then it turned out that the loss was barely measurable, and that was actually kind of hilarious. Obvious, too, in hindsight; the number of orders of magnitude involved in answering the question “how many times a second does a molecule of a high-pressure gas hit an adjacent molecule” was, well. A billion collisions a second meant I didn’t have to model it to know the result.
+
+So, the mana was stable as long as it stayed in the pressurized chamber.
+
+In the meantime, as the orb dropped back into the first chamber—if it had left in the first place, which it probably would due to the pressure of the gas slamming into it—the first valve would close again. Then the second valve, all of the second-stage valves, would open in sync, driven by pressure rates. Most of any given gas would be in the second chamber, since the continued heating of the first chamber would build a temperature—and therefore pressure—differential, and when the second valves opened, there’d be a matched set of floods into the cyclic rings.
+
+Each of those rings was a piece of variably-flexible tubing currently set to be less flexible than steel, tubing whose layout I’d painstakingly modeled. Okay, I’d mostly, pretty casually, modeled them and then handed them to Spark for model refinement and possibly divine intervention with regards to the same. And okay, it wasn’t at all a set of rings, despite what we were calling them; the only actual circle was the Classics ring with its cycle of quintessence, earth, air, water, and fire.
+
+The Space cycle slanted and curved only a little, running at about twenty seven degrees of axial tilt off of perpendicular from the Classics, while the Stone cycle—not, apparently, the Rock cycle—had no curves at all, forming a perfect regular polygon with sixteen sides. The cycle of Nations was all haphazard-seeming, full of jagged turns and abortive swoops in all three dimensions even as it maintained an unsteady distance from the center, and the Pranks cycle…
+
+… there was no way to get around it: the Pranks cycle was literally a prank, a practical joke played on me as a scientist. Emplaced correctly, it became practically a living thing in its own right, shifting into a different configuration every time I looked away from it. It did the same thing to Spark and Kelly, and none of us was ever seeing the same configuration, but every configuration worked.
+
+Probably because the configurations involved more than three spatial dimensions, which was just rude. The original functional configuration hadn’t, so this really was just us being fucked with.
+
+I still took the time to thank them. All of them, not just the Tricksters—every God involved, named and appreciated in a short but genuine prayer. They’d interceded, using the apparatus itself as a delineated space, and saved the orbs from being damaged, and that was gracious of them.
+
+I hadn’t called on the Tricksters by name. I’d learned a fair bit more about practical theology in the week and a half I’d had, which wasn’t hard since my original basis had been a yen for reading books on mythology, and there were degrees and gradations to an invocation, plea, bargain, or message.
+
+You whose tribulations stopped not his laughter, I’d called, you whose shape flows like water, I thank the two of you who have graced me with slapstick and viciousness. You of subversion who turns the tables, and you of whimsy who snared the sun; I thank you. I thank, for the orb of education, you who brought water, and I thank, for the orb of the artistic, you who poured the stream of stars.
+
+I wanted nothing of what a manifestation of those six Tricksters would bring. Able to move through all worlds as they were, they still couldn’t move freely, and I absolutely did not want to empower them any more than thanking them did. Delineated space notwithstanding, Kibosh had rapidly become home, and I wasn’t inflicting them on it.
+
+Even if the results would probably have been hilarious.
+
+You whose seal withstands the flame, and who graces me with inspiration and the orb of technical comedy alike—you who are Thrice Great, Hermes, I thank you. And Hephaestus, who reached out to the orb of fire, I thank you. These were more familiar ground, Gods I was already actively having dealings with and Gods who were Yelemi themselves. Gods I didn’t have to watch myself around quite as much. And to those of the cycle of Nations—Li Li Deshta, Eichan, Fahtri, Raqav, Shmida, and Shei Maham, thank you.
+
+“Cross check,” I said when I was done with that and had stepped out of the circle. “Purpose, method, and key observations.”
+
+“Honestly, I don’t even know what the purpose is anymore.” Kelly gave me a broad, almost manic grin. “We made so many changes! I guess if it’s anything, it’s to see if the cycles interact the way we think they do when they’re in separate tubes?”
+
+“That’s… fair.” I grimaced. “We’re changing so many things at once, and it’s sloppy, but as much as I always hated it this was always how we worked. Keep going.”
+
+“Method, we’re going to run imbued gas through these conduits. Key observations: do we get the cycles, do the cycles have the same whatever-patterns that you understand and I don’t, and what happens to the high-density storage crystal in the middle.”
+
+“God of my forefathers,” I muttered darkly, though not unfondly, “I have got to teach you more math, interference patterns are not beyond you.” I took a deep breath, letting myself feel the giddy excitement that I’d been suppressing in order to focus. “Spark, any concerns? Feel free to lean as hard on our Skills as you need to for your highest confidence.”
+
+The apparatus and its configuration match the design to the limit of our collective perception. Spark’s mental voice had… not an emotion, but something like a metadata tag that stated it was intended to be both serious and funny, which was new. All relevant Skills and Attributes have had their feedback accounted for. This is our best possible design for your experiment, and the design has been implemented as perfectly as possible.
+
+“Right.” I grinned at the glorious mess of tubing, seeing no reason to be dispassionate even if I thought I could manage it. “Safety. Kelly, you’re on activation, obviously. Same risks as before, and just because our eyes and Skills think the hood isn’t damaged—”
+
+“—doesn’t mean we don’t take precautions,” she finished for me, smirking. “Gloves, lab coats, goggles, headbands. Heaters on, keep adjusting them until the pressure is even and steady, record, stopcock, heaters off when the second set of valves open.”
+
+“Gloves, lab coats, goggles, headbands with the greedstones.” I looked her over—flawless, and also her safety equipment was on properly. I pulled my own gloves on, and Kelly adjusted my headband again. “Heating elements on until we reach an even equilibrium across all the first-stage dry ice chambers that’s at the right pressure, start recording, activate the stopcock, and then you turn off the heating elements and we see what happens.”
+
+Kelly took a deep breath, doing the pressed-hands thing before letting it out.
+
+Seconds later, as the temperature went from cryogenic to merely way below freezing, the dry ice in the vacuum of the tubing started to sublimate.
+
+It was kind of fascinating watching what happened as the temperature went up. It started with clouds of vapor boiling off of the solid CO2, and then got nigh-invisible as clouds filled the tubing and condensation beaded on its sides. But as the temperature kept rising, it went from the vapor phase to fully gaseous at around thirty-one degrees, and the whole thing just… cleared up, going fully transparent as every molecule passed the critical point.
+
+“They’re… starting to hit the pressure mark,” Kelly said unsteadily. “But… um. Not evenly?”
+
+I put a hand on Kelly’s shoulder. “Breathe, minion. You know what to do. Spark, help her on the execution end.”
+
+She shook my hand off, giving me exactly the glare I was aiming for. “Rude.”
+
+We will work together, Spark affirmed. Small adjustments, and patience, will allow us to proceed sooner than were we to make larger changes in haste.
+
+It was, unfortunately, tremendously boring for a little while. I busied myself sketching out some designs for a different experiment, based on if this one succeeded—I wanted to take the Heartsblood Stamina Elixir I’d done a patent validation for and figure out a way to do it without any, like, actual blood drawn directly from the heart, because what a terrifying thought.
+
+I got through one design, based loosely on the streams-of-water experiment we’d done. Kelly’s voice interrupted me when I was about a third done with my second idea using aerosols, and I set that notebook aside.
+
+“Alright,” I said with a smile. “If the pressure’s even and in the range… pop it when ready.”
+
+If Kelly responded, I didn’t hear her. There wasn’t the hiss or whump you’d expect to get; the sound insulation was good enough that all we got was a barely-perceptible hum, not even a groan, as the gasses blasted through the stage two valves. I waited with bated breath as Spark fed me a sense—not vision, not any real sensory input, but a feeling of something rapidly filling the rings.
+
+We should have put a dye in the dry ice, I thought to myself as I struggled with what Spark was sending over. Then I could just see what’s going on. Seeing would have been so much better than trying to trace flickers of second-order past-tense perception around the rings…
+
+The second stage valves vibrated a little and then slowly closed, and I narrowed my eyes—that should only have happened if the pressure in the second-stage chambers was way lower than the rings. That wasn’t natural, something had to be drawing the gas—
+
+Ah. Ah.
+
+The magic was happening.
