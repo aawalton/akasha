@@ -8,7 +8,7 @@ export const overloadSigns = {
   definition: "the signs that Alan or Jenny is overloaded",
   parents: ["alan-and-jenny-topic/the-marriage"],
   settled:
-    "Jenny's account: she slips into reading Alan uncharitably, which the therapist calls sentiment override, when she is overwhelmed, stressed or exhausted, or when she feels unloved or emotionally unsafe.",
+    "Jenny's account: she slips into reading Alan uncharitably, which the therapist calls sentiment override, when she is overwhelmed, stressed or exhausted, or when she feels unloved or emotionally unsafe.\n\nJenny's account: when Alan's stress is too high, his outward gestures and emotional exchanges largely drop off, and even basic socializing together is often more than he can afford.",
   createdAt: "2026-10-24T19:01:28.104Z",
-  updatedAt: "2026-10-24T21:56:11.208Z",
+  updatedAt: "2026-10-24T22:52:35.156Z",
 } as const satisfies AlanAndJennyTopic
