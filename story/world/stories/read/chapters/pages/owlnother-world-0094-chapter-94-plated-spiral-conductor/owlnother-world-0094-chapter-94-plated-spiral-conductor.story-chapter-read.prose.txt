@@ -1,0 +1,117 @@
+I stood in front of Riggard’s workshop. It was early morning, the sky tinted pink with a few clouds dotted here and there. The sun would cross over the horizon any minute now. I had my cloak hiding my form and blended in with the dwarves walking along the street. Most apprentices had accommodations within their workshops but a few still commuted to work.
+
+It was time. I took a deep breath and opened the door with my shadow hands. They frayed as my control wavered but it was enough to get into the shop’s display room. I heard rustling from behind the counter and a moment later Mrs Riggard popped up, holding a few books in her arms.
+
+“Yes, hello. It’s a bit early but what can I…? Oh. You…? Are you Fio?”
+
+I blinked. How? How did she know? My disguise was perfect. I raised my head and looked into her eyes. Then I sighed and nodded.
+
+“Oh my. That is certainly something. Is that a Skill of yours? Ah, where are my manners? Sorry about that. And don’t you worry. My husband has a room prepared just for you two to get to work. Here, let me show you.”
+
+The woman turned away and walked down a hall deeper into the building. I let out another sigh and dispelled my shadow arms and ears. My cloak was still kept up. I felt safer with it on. And the hood looked cool. I followed the dwarf to a small looking room where I found Riggard sitting at a workbench and going through some papers. They looked much like blueprints for something Da Vinci might have thought up.
+
+“Dear, Fio is here.”
+
+At the call of his wife, the craftsman turned around and grinned at me.
+
+“Welcome, welcome! Come in, you. We got a lot of work to do!”
+
+“I’ll leave you to it”, Mrs Riggard said and gave me one last encouraging nod before leaving. I looked at the master craftsman and back to the now-closed door. Why had I felt so comfortable in her presence? And why was it not going away?
+
+The dwarf spoke up.
+
+“So, mm. Ah! Are you wondering why you’re feeling so welcomed?”
+
+I nodded.
+
+“Had, that’s my wife for you! She’s got a merchant class and can not only read but also share intentions. You were a bit scared, right? New place and stuff. She made you understand nobody here wants to hurt you. Even if your brain hasn’t caught up, your body knows.”
+
+I looked inside at my mana. Indeed, there was a tiny speck of something I should not have. A small whirl of life and sense mana. And it did not influence my body but sat directly at my core. At the gate to my soul. I inspected it further and it frayed easily when I poked and prodded with my own mana. It was very clearly not harmful. I still broke it apart. The little flux was created close enough to my core most of it was directly expelled into the void. My feelings were mine again but I still remembered the calm from before. It was weird. I knew beforehand there should not be much of a problem in the workshop but now it was large enough of a feeling to crowd out my anxiety. Right. I had no reason to fear a few artificers. They could make me uncomfortable but they would not make me distressed. Violence might not be an option but escape was.
+
+I looked up at Riggard once more. His smile looked a bit off but that might just be me reading too much into it.
+
+“Good. Then let’s get started. Come here”, he said and pointed at his workbench.
+
+I drew close and he showed me the blueprints he was holding beforehand.
+
+“So. I know you want to make your own heating plate. That means I’ll need to teach you how to make proper brass wiring and set up a power source. First step, though: reading a blueprint. A lot of the practice I have ready for you will be done on your own. If you have questions, you can always ask me, of course, but it’d be best if you can do it on your own. That said, I’ll show you how our blueprints work today and then we’ll have you make your first conductor. Tomorrow, hopefully, you’ll know enough about the basics to help me with my work. Then, the day after, I’ll have you practice until lunch and work with me for the afternoon. How’s that sound?”
+
+That… sounded fair? I was unsure how I could help him with his work but that was my payment for the lessons so I would do my best. I connected to him with the supersensory matrix. His eyes widened as my words formed in his mind.
+
+“That sounds fair”, I sent.
+
+“Ohh, that’s what that thing is for! Is that how… you talked to my wife? Wow. I thought you’d be one of those natural telepaths.”
+
+Wait, what?
+
+“Natural telepaths?”, I asked.
+
+“Yes, yes. See, most monsters don’t have the vocal cords and mouth structure to speak properly. Usually, that means they learn writing or buy a vocalizer. Pretty difficult to build, those things, and accordingly expensive. But a few of the monsters have a Skill for telepathy. In the old legends, the guardians always talked to the minds of the first clan heads. But enough of that, let’s get to work!”
+
+With that, Riggard started to explain the blueprints to me. There were mostly two types. The first looked very similar to a wiring diagram. It showed simplified symbols for power flow, power source and working parts of the mechanism. A great way to work out the logic of an artefact. The second type was much more interesting. It showed the detailed construction of a specific part, or construct, as Riggard told me they were called. This was also the much more numerous type.
+
+There were five different variations on crystal adaptors, basically the power source for an artefact. All of them could be adjusted within a certain range to accommodate for different sized crystals. Then, conductors. The centrepiece of every artefact. They were responsible for moving mana between the power source and the working parts. Basically, these were the cables of artificing. They were slightly different from what I expected. Rather than having a simple wire of brass guiding mana from one part to another, there were complicated net-like structures to guide the flow however one wanted.
+
+The most simple conductor had three straight wires going straight from one end to the other. They were connected by a fourth, spiralling wire. This fourth wire had the function of dragging the flux created from the other three. This way, the artefact could be used much longer than with a simple straight wire. Instead of a build-up of flux that would inevitably break the self-insulating effect of brass, the flux-drain, as the spiralling wire was called, would start to dissipate the unwanted energy into the surroundings. This description sounded much better than it was in practicality. Some of the mana going through would find its way into the flux drain and dissipate leading to reduced efficacy. The flux simply being released into the air without any stopping measures was also a large risk when running an artefact for a long time. The only real advantage this spiral-dissipating conductor had was its flexibility. It could be moved around and bent without interrupting the running artefact. Its highest use case was the development of new technology. When things were bound to change, most artificers shied away from using fixed conductors to test their new creations.
+
+There were many, many types of conductors. Pretty much any and every artificer would create their own version at some point for one specific artefact. A lot of them would never be used again and for the general public, most artefacts were standardized in some way letting one repair his items even when they were on the other end of dwarven lands. A very progressive industry.
+
+This all was helped with every artificer having their designs collected by the Adena clan, the protectors of knowledge. They had something similar to a patent where anyone could access the information but certain things were needed to be purchased and some of that revenue would be forwarded to the original inventors. Since I was a total beginner and had to work through the basics first, the librarian had omitted the information. I had to save up for the membership anyways. It would let me get this restricted knowledge for cheaper as well.
+
+After Riggard had shown me the most common conductor designs, he decided it was time for me to try making one myself. I almost asked him to show me how to do it but then I was already standing on the workbench, a bunch of brass parts and tools in front of me.
+
+“So, let’s see. Ah, here! This is the conductor I want you to make.”
+
+Riggard handed me a blueprint. It looked to be a slight upgrade from the spiral-dissipating conductor. It had the same structure at its core but surrounding it was a network of small brass plates slightly overlapping each other.
+
+“Now, the spiral is easy to make. You just take the wire that’s gonna be spiralling and connect it one by one to the conducting wires. We got a few ways of making the connection. There’s heating the thing up to just below the melting point, which is the most troublesome. Then there’s low-temp-welding, which has lacking mana conductivity making the whole thing a little less effective. It’s fast though so some use it if they just need a quick connection for testing. The one you should be using is essence-welding. For that, we got this tool.”
+
+He held up a wooden object that looked almost like a screwdriver, just with a slightly angled point at its tip. A short, flexible tube connected it to a larger network. I spotted a pipe coming out of the wall, feeding the whole thing. Activating my senses, I noticed metal mana flowing through the pipes. Riggard held it to the two wires in his hand, directly touching the connection point.
+
+“This thing feeds metallum essence from our converter to anywhere it’s needed. When you blast two metallic objects touching each other with this essence, they fuse as if they always were one. It’s really convenient, just make sure not to waste essence. We got to fill the tank with our own mana every morning so it can supply everyone.”
+
+He handed me the wires. I inspected the connection and truly, there were no seams or breaks. The wires just stuck together as if they were made that way. Interesting.
+
+“A lot of artificers try to get their hands on metallum vis crystals. If they can get their vis enrichment to be partially metallum, they’ll be able to do some of this without the welder. Now, go ahead and try. I suggest using the welder first and seeing how it feels. You can try your own vis after.”
+
+I figured he knew what he was talking about and picked up the welder with a foot. The wires I moved with my shadows until they were in a satisfactory position and moved them to the tip. Nothing happened for a moment and Riggard started to speak.
+
+“Now you…”
+
+And stopped right away as I had figured it out. A little pull of my will and the essence was shooting out of the welder. I noticed it did not just get moved next to the brass but instead shot directly into it. The essence was moving much faster than I had anticipated. I soon noticed why. The bit that did not make it into the brass quickly dissipated into flux. The more essence flowed into the material the less made it through. It seemed the self-insulating effect was taking place even without any flowing mana. I soon saw the material bond and gave another push with my will to stop the flow. When I put down the welder, Riggard picked up the wires and inspected the connection I just made.
+
+“Mhm. That’s not bad for a first try. Could’ve gone a second longer to connect a wider area. This is a little flimsy. It’s still usable but it’ll easily break with a bit of force. I wouldn’t use it just like this.”
+
+He picked up another tool. Looking a little like a toothbrush. The hairs were made from fine silver strands and a mana crystal was set into the back.
+
+“Now, here’s the real deal. This is a flux scrubber. The most basic, manual version. It clears excess mana and flux from anything, though you’ll need to guide it with your will. Then, you just do this.”
+
+He held the scrubber to the wires we had just connected and slowly rubbed it back and forth. The crystal started to light up a little and I saw the mana flow with my senses. The excess metal mana was drained and stored in the scrubber.
+
+“Now, we can continue. If you don’t drain the excess essence the wire will overload on flux eventually and you’ll be unable to continue working. This scrubber only works on metallum and when you put it back in its socket it’ll be drained into our converter setup for reuse. Now go ahead and finish this first part.”
+
+He handed me the tools and the wires and moved to his own workbench. I started on my conductor, this time trying my own mana. It turned out to be incredibly easy. I had to put the wires next to my talon since the metal mana did not like to be sent through the shadows. They were useful for absorbing but not expelling, huh? This method also let me have far better control over the mana flow. I could almost circumvent the self-insulating effect of the brass. More importantly, I was only holding the conductor to be at its far end and was able to guide my mana to the spots where I wanted to form a connection. This led to me finishing within minutes and calling up Riggard.
+
+“What? Need help?”, he said as he walked over.
+
+“Oh. Well, let’s see.”
+
+He picked up my work and inspected it from every angle. His face went through a bunch of expressions I could not read, though his ears stuck in an attentive position.
+
+“Ah. Metallum enrichment is such a cheat. You got a lot of Wisdom as well, huh? This is really good.”
+
+I nodded. He saw how great I was.
+
+“Alright, on to the next part. This”, he pointed at the drawing of the plates around the wire, “is flux shielding. It does two things. First, it absorbs flux from the conductor making it capable of working a little longer. Second, it slowly, and I mean very, very, very slowly dissipates the flux into the air. Basically, it only lets out the very minimum of flux. That means, the conductor has a longer use time than the original spiral but also a longer cooldown time. You see here? These are the points where the plating and spiral connect. Most devices use some sort of flux shielding since they aren’t used for more than five per cent of the day. The rest can be used to cool off. Still, we often get people coming here to replace the plating. It’ll dissipate the flux in our storage and can be reused after. Go ahead. I don’t think I’ll need to show you the details of how to do this.”
+
+With that, Riggard went to his work again and I got to the shielding. This was much more difficult. The brass was prepared as single plates with two connector pieces at the bottom and one in front. I had to fix one plate to the spiral with the front connection and then put the next one on top of the first plate with the bottom connections only to repeat the process what felt like a thousand times. In the end, I managed to finish before the day ended. The completed plated-spiral conductor sat in front of me on the workbench and Riggard had it connected to a testing setup. It simply had two mana crystals, one empty one full, connected by my conductor. The mana flowed without hindrance to and from and Riggard turned the device off. He turned to me, a large grin on his face.
+
+“You know, I expected you to have some skill but this is much better than I could have ever predicted. You’ll make a fine artificer, yet. I’m looking forward to working with you.”
+
+~ding~ Requirements fulfilled! For learning the basics of artificing under the guidance of a master, you have unlocked the [Dwarven Artificer] class. Only one class can be equipped at this time. Do you wish to replace your current class with [Dwarven Artificer]? Note, all progress will be lost in your current class.
+
+Well, that was almost expected. I dismissed it for now. The class was interesting but I did not want to give up on [Assassin] quite yet. [Eldritch Shift] was just way too good of a Skill on its own, even if the others were bad I would want to keep it. Maybe I should ask when the second Class unlocked?
+
+I looked up at Riggard. He stood there, hands on his hips and a big smile on his face. I gave him a nod.
+
+“Likewise.”

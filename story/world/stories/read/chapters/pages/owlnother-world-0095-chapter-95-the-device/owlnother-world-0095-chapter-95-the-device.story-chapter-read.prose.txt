@@ -1,0 +1,89 @@
+I was exhausted. Not so much physically or even magically but mentally. The crafting process did not require much power or mana but I had to keep up constant focus to avoid messing up. Still, there were some spots where the mana-welding had been less successful. Nonetheless, I felt fulfilled. I had only made a 10-centimetre long conductor but it had been made well enough to impress Master Riggard.
+
+Now, I was out and about gliding over the city. The cool air brushing through my feathers felt good. My eyes traced the roads of Borsdown and leisurely observed the mingling dwarves. They were moving about to get to their homes for dinner, the day not quite late enough for the bars to start filling up. Then I crossed forge street. I remembered I wanted to bring Vivi over to get her supersensory matrix fitted to the necklace so I made my way to Safrah’s home to get her.
+
+The two were busy in the workshop, Safrah more as an observer while Vivi carved into a piece of wood. I greeted them with a hoot.
+
+“Hello, Fio. How was your day?”, Safrah asked with a smile.
+
+I nodded and established a connection.
+
+“Good. I learned a lot.”, I answered, “When is Vivi finished with that?”
+
+Safrah scrunched her eyebrows.
+
+“Maybe in a few days? This part should be done in a minute or so. I was just thinking to start preparing dinner.”
+
+I bobbed my head.
+
+“I’ll need her supersensory matrix for a bit and it might be good if she comes along as well.”
+
+We waited for the ocelot to finish. Only then did she finally realize I was there and greeted me with a meow. I explained the situation to her and soon we were on our way to the smith. Safrah meanwhile decided to go shopping for groceries.
+
+We soon arrived at the smithy and an apprentice noticed us immediately going into the back to call for his master. The stocky dwarf came out to greet us after just a minute.
+
+“Well, there you are. I was wondering when you wanted to drop by.” He held up his hands showing a fine chain necklace made of what was most likely gold. “This is the thing. I’ll need to fit it for you and then make the link.”
+
+“Just make sure it has the right length. I can connect it. I learn essence welding today.”
+
+He looked at me for a moment, then nodded. “Right. It’s probably better if you do it. Don’t wanna break your thing.”
+
+It turned out the gold chain was alloyed with a good amount of copper to make it more sturdy. The smith had to take off three links to make it fit snugly and handed me two rings I could weld to the matrix. Running the chain through those should hold it in place on Vivi’s neck just fine. The whole process took no more than ten minutes and we quickly left his shop again, thanking him for the good work.
+
+Vivi snuggled up to me, nuzzling my feathers with the side of her face.
+
+“Thanks. This helps a lot”, she sent.
+
+I pushed into the snuggle a bit and sent back a “You’re welcome.”
+
+The next day started early again. This time I just flew to an alley next to the workshop and put on my shadow cloak. I still liked to have it on but I already felt much safer in this place. I greeted Mrs Riggard with a hoot and went straight to the room we had used yesterday. The craftsman was already in, this time fiddling with some contraption that looked… complicated. I spotted some conductor elements set on a wooden platform. A few rectangular bars were fixed to its top, holding some more elements. The only thing I could really discern were the two sockets for mana crystals. They were empty but I recognized one of the standard designs I had learned about yesterday.
+
+I hooted to draw the artificer’s attention. He greeted me without turning around.
+
+“Good morning. Let’s see here… Ah, yes. Okay. Come here, let me explain what this is.”
+
+I walked over while forming a connection. I also made sure to focus my senses so I could spot any magic. There was nothing going on with the strange device. It stood there entirely mundane and boring.
+
+“Good, so. Here. You’ll see there are two sockets here and a bunch of conductors. That much should be obvious. Point them out for me? And try to find the path the mana is supposed to take.”
+
+He did not stand back as I had expected with that comment but it was no problem for me. I simply used my shadow tendrils to point out what he had asked. Though I made sure not to touch the device and accidentally pour mana into it. I started at the two sockets, the places for the mana crystals, and traced the lines the conductors took. There were three connections going off from each of them into several boxes and some mesh-like brass structures. When I was done, he nodded.
+
+“Yes. I expected as much. You figured out the basic configuration but… Here”, he pointed at one of the meshes, “that’s also a conductor. Though you would be right to say it isn’t properly connected. Take a guess at what it’s supposed to do!”
+
+Well, it looked like a net so… “Catch something?”
+
+He nodded. “Yes, not bad. Not entirely true but very close. You see, this device is supposed to catch warp, taint, flux and any other unwanted vis. Not catch as in, hold in place, but as in preventing it from going somewhere it shouldn’t. The actual purpose is to turn a part of it into essence for later use. Basically, a very advanced version of the flux scrubber I showed you yesterday. There are devices like this that can move flux and pushing it into nodes has turned out to get rid of it much faster but it also weakens and eventually closes the node. It’s actually a big trading hit with the humans. But it would upset the Guardians and thus ruin our economy and technological advancements so it’s only used to move flux to a different place.”
+
+He looked at me.
+
+“That’s pretty dangerous if they don’t move it very far.”
+
+“Yes. You understand. Great! So. I want to make something more… ecological? If you can call it that. The best thing is, it should also help to block spells if configured correctly and help with fighting thaumaturges and monsters. If necessary.” He added a slightly concerned look at the end which I pointedly ignored.
+
+“So. What do you want me to do?”
+
+“Ah, yes. We’ll need to test a few things here and there but mostly I wanted you to figure out if it can be used to block warp and taint. I only really know about those from books. Alienis as well. That’s a shape of vis we basically can’t access since its nodes always get broken quickly. You never know what might jump out of there.”
+
+“Or inside”, I butted in.
+
+He blinked at me.
+
+“That’s possible?”
+
+“Yes. In theory. I fully absorbed one such node. It was opened up by an ork thaumaturge just before but I killed him. The gate didn’t look to be one way.”, I bobbed my head along with my explanation.
+
+“Ah. Wow. Okay, so you do have access to alienis, at least?”
+
+I nodded.
+
+“Yes. I have some experience with warp as well but it would not be appropriate to force an apparition within the town. Taint, I have never seen. You are aware it is an aspect of vis?”
+
+“Ohhhhh, YES! This is exactly what I hoped from you! That kind of knowledge is impossible to get your hands on in one of the libraries! The few texts on actual thaumaturgy and the void based vis are pretty much only tales of the wars against the orks. There are some dwarven thaumaturges but they live a quiet life as hermits. Now!” He turned around and started fiddling with his artefact to be. “Let me show you what I did and what I think it should do. Then you can give me your input.”
+
+I edged closer as the dwarf pointed out the details of his contraption. He had several brass meshes fixed between closed-off boxes. Those were supposed to fill the mesh with a certain frequency of mana. Riggard theorized that a specific mixture of aspects could stop other vis from going through. Or in some cases even flux or warp. There was another conductor fixed to every mesh that would then drain the caught energy and lead it into a converter. Another box, this time to transform vis into a different aspect.
+
+He opened it up and showed me how it worked. A mana crystal of a specific aspect sat inside in a loose bearing. Fine brass wires touched it from top and bottom. The undesired vis would go into the top and into the crystal. Some of it went into the bearing instead, making the crystal turn around its length. The mana would be forced inside, the speed pushing it close to the centre. Then it would get transformed into the aspect the crystal had held. That was why only a pure crystal could be used. The spinning was slowing down the mana within the crystal making sure it converted before being drained again. It was also set at such a speed, after some time running the device there would be a constant stream going in and out on both sides. It was truly a marvellous piece of artificing.
+
+The boxes fixed to the meshes were similar yet entirely different. Instead of having one crystal to transform any mana into a single one, they held an array of the six primal aspects. More wiring combing with lots of levers and buttons would then let the user combine them in any way they saw fit creating and desired aspect. Or that was the theory at least. In practice, the device was not that capable. It could only combine in ratios of one to one. That meant you could combine air and destruction to make void and fire and order to make energy. Combining those to make magic would work as well but it was impossible to add the same aspect again, preventing the user from making taint or aura as an aspect. That was the first time I interrupted his explanations. Riggard knew, of course, but he had not realized how big of a problem this could cause later down the line. For now, the craftsman adjusted the device to start experimenting with the primals only. He gave it twelve fully functional primal converters, two for each aspect, connected to one mesh. He had done this already using something similar to a mana gun that shot small bursts of energy from one specific aspect.
+
+We went through each and every combination of primals applied to the mesh and shot at it but found nothing really reacted. It would take quite some time to figure this thing out, huh? If it was at all possible. Though, looking at my supersensory matrix, yeah. Impossible was not really part of my diction.

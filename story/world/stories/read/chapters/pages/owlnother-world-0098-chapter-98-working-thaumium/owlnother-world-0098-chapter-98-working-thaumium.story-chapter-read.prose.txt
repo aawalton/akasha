@@ -1,0 +1,107 @@
+I returned to the workshop the next day with a few ideas in my head. I could not wait to research thaumium and how it interacted with mana. The stuff was basically iron infused with an equal amount of magic mana. For some reason, it was necessary to add earth mana in the process as well. I did not understand why but I would unearth – ha – the secret.
+
+Riggard seemed just as excited as I was, if not more. It was good we decided to skip my personal artificing lessons. Neither of us could have focused on that.
+
+I pulled out the thaumium from my storage giving the dwarf a small shock. I had not shown that ability before and I could see how much he wanted to use his measurement tools to inspect the portal in more detail. The bar of thaumium dropping on the ground, however, was enough to make him forget about that.
+
+The metal had a deep purple colour with a slight sheen to it. The ingot was on the small end, about three by five by twenty centimetres in its dimensions. It had symbols hammered into it reading TH-99-C3. I opened the Thaumonomicon but found nothing about that. It had to be some sort of manufacturing or purity symbol only the orks used.
+
+The book still had a few things to say about thaumium. It was one of two metals made in a crucible from iron. The other one was brass. I thought it was an alloy of copper and zinc which Riggard confirmed when I asked him but apparently, thaumaturgy offered a way to transmute it directly from iron and the aspect of… tools? Interesting. Brass was a great conductor of magic and able to move mana wherever you wanted while producing relatively little flux. Thaumium was a little different. It worked almost as a replacement for mana crystals only that it did not have an attuned aspect. Even with the earth mana added when making it, the material stayed neutral, if receptive. It was very similar to steel from a mundane perspective as well, making it the perfect ingredient for advanced tools and weapons.
+
+There was another paragraph about enchanting and how thaumium worked even better than gold, which was the easiest to enchant of the mundane metals. I mostly ignored that part for now. Enchanting sounded interesting but there was no need to get distracted. Our experiment was first, anything else I could take a look after in the library.
+
+Riggard picked up the bar and moved it to a small vis forge to heat it up. We had confirmed it would be problematic to work the metal otherwise. Neither of us had the strength or tools to shape it without heating and the metal essence was only really useful for welding. If we had fire essence, we could have used that instead of the forge to heat the ingot but it should be no issue to work like this. The fire crystal and air crystal arrangement could easily reach temperatures to melt steel after all.
+
+The dwarf pulled the bar out of the heat after a few minutes. It had not changed at all but I could feel the temperature even from a metre away. A few strikes with a small hammer and Riggard had it flattened into a rough plate. It was a bit disturbing to see metal be this malleable without changing colour. That quickly changed as he heated it up again. This time, the plate turned a small bit lighter. Maybe it had gotten hotter because of the higher surface area?
+
+A few more repetitions and the dwarf had a fine plate in front of him. He had not even put it back into the fire at the end, the material thin enough to easily distort underneath his strikes. Next, he picked up a slightly off looking pair of shears and carefully cut the plate into thin stripes. They were almost perfectly square in dimensions and about twelve centimetres long. He ended up with 38 of them, the last one slightly thicker. I would guess they were about a millimetre in thickness but I had no fine measurement tools available.
+
+“Good, that’s that”, the dwarf admired his work.
+
+“I was a bit scared it wouldn’t work when the colour didn’t change but that seems to just be an attribute of the material. Now to make the mesh. You’ll be able to help with this. We gotta do a lot of essence-welding.”
+
+I nodded. Watching was nice but I wanted to do something as well.
+
+The dwarf picked up half of the wires and started arranging them next to each other. Then, he took the rest and cut them into short pieces of about half a centimetre. He showed me where he wanted the welded and I got to work. The material almost drank my metal mana like a parched plot of earth would drink water. I had to keep a careful hold on my energy to avoid overloading it. Once I figure it out, however, it was pretty easy to weld the mesh. It still took the rest of the day, simply because there were so many parts. Every single one had to be carefully aligned because we only had this one chance. If I messed up the mesh might not work anymore. In the end, we had one wire left which was cut into four parts that would serve as connectors to the rest of our device.
+
+We had just finished setting up the mesh in the prototype device as Riggard’s wife came knocking. She stood arms on her hips in the door with a scowl on her face.
+
+“You two. It’s an hour past closing. Finish up, you can continue tomorrow.”
+
+Riggard flinched and nodded meekly.
+
+“Yes. Sorry”, he whispered.
+
+I looked after him as he walked out of the workshop. His wife’s face took on a more gentle expression when he was out. She let out a soft sigh.
+
+“He gets lost in his work too easily. Can you keep an eye on him?”
+
+I shook my head.
+
+“I get lost in my work, too. And this is really exciting”, I answered.
+
+“Ah, fine. I’ll make sure to get you out when we are closing up.”
+
+She turned around and started walking down the hall. I followed. It was still a little weird to be around people barely taller than myself. The dwarven woman had maybe eight to ten centimetres on me. I was almost able to fit into this place as a dwarf. My cloak combined with mingling could help tremendously with that. But I wanted to be myself. Unless I had a compelling reason, like a target, I would not hide what I was. The reception the Riggards had given me was a substantial boost to my confidence. I was thankful to them for that.
+
+“We should be done with this in two weeks or so. Until then, we’ll rely on you to get us out of the workshop.”
+
+The woman half turned her head to me.
+
+“Mhm”, she mumbled, “I guess. If you aren’t finished in two weeks I’ll force you to take a longer break. You didn’t even come out for lunch, you know?”
+
+Oh. We really had been that deep into it?
+
+“I support my husband’s passion but I won’t let him burnout. Make sure you look after yourself, too, alright?”
+
+I nodded and with that, the conversation was over. The woman closed up the shop behind us, her husband waiting at the end of the street. They lived just around the corner. Riggard looked at me.
+
+“Right. Tomorrow. Where do you think we should start?”
+
+“Ah, ah, ah! No talking about work after work!”, his wife interrupted us.
+
+“Right. Goodbye”, I sent, “We’ll talk tomorrow.”
+
+I saw the master artificer sagging a little. Disconnecting from his wife, I sent my next words only to him.
+
+“We should repeat the experiments with the primals. It would give us a good baseline to work off.”
+
+When the dwarf lightened up his wife butted in once more.
+
+“You!”, she wagged a finger at me playfully.
+
+“No talking without me, do you hear? My husband is mine after closing time.”
+
+I nodded sheepishly and waved goodbye with a tendril. As I took to the air, I sent once more.
+
+“If you are careful with your reactions we can keep talking through this. The range should last to where I’m staying.”
+
+It took a bit but Riggard answered me eventually.
+
+“Aaa… Hel… lo? Am I doing this right?”
+
+“Yes. Perfect. Be careful. It creates a bit of flux to use this connection.”
+
+“Ah. Okay. Wait. Maybe… Can we try to adjust the scrubber to block this kind of connection? Or interfere with it somehow?”
+
+The dwarf had an interesting idea.
+
+“Not impossible. But the connection only needs to be formed once through reality. I believe once formed, there is nothing going through the world that could be interacted with. The initial forming could be interrupted, though.”
+
+It took almost twenty minutes for him to answer. Enough time to get to Safrah’s home, greet her and Vivi and eat some of my stored food.
+
+“Right. That might be… Hmm. We’ll see tomorrow. What are your expectations for the thaumium mesh’s reaction to the vis blast?”
+
+“I think it might be able to catch a decent amount without being primed at all. It doesn’t have the self-insulating effect of brass. The vis shooting in would simply be caught. And while the material has far less capacity than a crystal it should be able to hold a simple blast.”
+
+“Hmm. That might be the case… But what if…”
+
+We kept talking with occasional interruptions until late into the night. The discussion was going in circles as neither of us could really predict the behaviour of thaumium with any accuracy but that did not stop us from trying to come up with new ideas. Though at some point the dwarf fell asleep.
+
+The next morning his wife pulled me aside before we could get to work.
+
+“Listen. I get that you’re excited but I really want my private time with my husband. If you keep him busy half the night again, I’ll hand you back your magic metal and ban you from this workshop, understood?”
+
+She had a really scary face. But somehow, I could see her feelings. She was not angry quite yet, just annoyed. I gave her a nod. I would make sure she had no reason to truly become angry. That would end badly for both me and Riggard.
+
+That settled, she let me go. I quickly pushed aside the queasy feeling in my stomach and we got back to work. I was fine. She was fine. There was no reason to be scared. She was not threatening my life. It was still unpleasant. The work quickly overshadowed that feeling. The two of us got lost in trying all kinds of things with the mesh. It really caught any vis shot at it, up to a certain amount. I even used my [Winged Death] once, with eldritch mana. The purple feathers were weakened but not fully stopped. That was, without any part of the device being active. We were only testing the thaumium’s natural effects on magic right now. And it looked very promising. I might have to make something for myself as well. Maybe just absorbing some of the material in my metal form might do it? It would be a very effective armour, most likely. Though the flux created might pose a problem. We went through almost ten manual flux scrubbers within one day. A separate function to disperse or convert the unwanted energy would be an absolute necessity to make this thing usable. At least it was just day two of the three weeks we had taken to work on this. We still had more than enough time.
