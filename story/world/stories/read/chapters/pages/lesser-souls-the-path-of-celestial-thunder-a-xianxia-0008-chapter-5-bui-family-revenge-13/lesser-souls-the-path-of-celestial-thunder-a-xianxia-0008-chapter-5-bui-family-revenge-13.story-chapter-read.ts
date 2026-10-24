@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
+
+export const lesserSoulsThePathOfCelestialThunderAXianxia0008Chapter5BuiFamilyRevenge13 = {
+  id: "01a16dbe-3ea2-7d63-a9bb-a585d9ca7577",
+  type: "page-type/story-chapter-read",
+  slug: "lesser-souls-the-path-of-celestial-thunder-a-xianxia-0008-chapter-5-bui-family-revenge-13",
+  position: 8,
+  publishedAt: "2023-02-03",
+  unit: "unit/words",
+  title: "Chapter 5 - Bui Family Revenge (1/3)",
+  story: "story-read/lesser-souls-the-path-of-celestial-thunder-a-xianxia",
+  ownLength: 1811,
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1104335",
+      externalLink:
+        "https://www.royalroad.com/fiction/64113/lesser-souls-the-path-of-celestial-thunder-a-xianxia/chapter/1104335/chapter-5-bui-family-revenge-13",
+    },
+  ],
+  createdAt: "2026-10-24T11:49:06.847Z",
+  updatedAt: "2026-10-24T11:49:06.847Z",
+} as const satisfies StoryChapterRead
