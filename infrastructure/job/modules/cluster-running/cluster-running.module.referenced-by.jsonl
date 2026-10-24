@@ -4,6 +4,7 @@
 {"propertySlug":"import","fileName":"cluster-running.module.code.ts","path":"infrastructure/inference/generation/upscale/modules/serving-job/upscale-serving-job.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cluster-running.module.code.ts","path":"infrastructure/job/audit-cache/audit-cache.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cluster-running.module.code.ts","path":"infrastructure/job/deploy-account/deploy-account.manifest.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"cluster-running.module.code.ts","path":"infrastructure/job/deploy-cache/deploy-cache.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cluster-running.module.code.ts","path":"infrastructure/job/modules/cluster-running/cluster-running.module.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"cluster-running.module.code.ts","path":"infrastructure/job/modules/cluster-running/cluster-running.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cluster-running.module.code.ts","path":"infrastructure/job/modules/deploy-job-running/deploy-job-running.module.code.ts","typed":false,"deferred":false}

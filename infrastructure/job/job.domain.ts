@@ -17,6 +17,7 @@ export const job = {
     "module/deploy-job-running",
     "module/run-in-cluster",
     "manifest/audit-cache",
+    "manifest/deploy-cache",
   ],
   decisions: [
     {
@@ -29,5 +30,5 @@ export const job = {
     },
   ],
   createdAt: "2026-09-03T13:00:18.027Z",
-  updatedAt: "2026-09-25T16:47:40.000Z",
+  updatedAt: "2026-10-24T21:54:14.478Z",
 } as const satisfies Domain
