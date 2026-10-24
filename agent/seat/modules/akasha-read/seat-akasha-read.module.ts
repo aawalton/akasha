@@ -22,6 +22,15 @@ export const seatAkashaRead = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A seat's persons are answered under the old person key as one principal.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement:
+        "A page from history stating one person rather than persons is read by that person.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A value that is empty or missing is left out rather than answered as null.",
     },
     {
@@ -39,5 +48,5 @@ export const seatAkashaRead = {
     },
   ],
   createdAt: "2026-09-03T22:00:32.641Z",
-  updatedAt: "2026-09-25T17:56:05.000Z",
+  updatedAt: "2026-10-24T17:50:28.120Z",
 } as const satisfies Module

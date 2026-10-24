@@ -13,6 +13,7 @@ export const seatDeclaration = {
     "module/seat-help",
     "module/seat-initiative",
     "module/seat-on-call",
+    "module/seat-persons",
     "module/seat-principal",
     "module/seat-registration-account",
     "module/seat-resolve",
@@ -156,5 +157,5 @@ export const seatDeclaration = {
     },
   ],
   createdAt: "2026-09-03T04:36:26.031Z",
-  updatedAt: "2026-09-26T17:23:28.000Z",
+  updatedAt: "2026-10-24T17:50:28.120Z",
 } as const satisfies Domain

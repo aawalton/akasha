@@ -97,6 +97,10 @@ test("a list is left a list where the key written to holds many values", () => {
   expect(spelledAs(["salvos"], true)).toBe(`["salvos"]`)
 })
 
+test("one value becomes a list of one where the key written to holds many values", () => {
+  expect(spelledAs("salvos", true)).toBe(`["salvos"]`)
+})
+
 test("a list of more than one is no value where the key written to holds one value", () => {
   expect(spelledAs(["salvos", "delve"], false)).toBeNull()
 })

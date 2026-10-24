@@ -1,3 +1,4 @@
+import { principalStatedIn } from "akasha/agent/seat/declaration/modules/seat-persons/seat-persons.module.code.ts"
 import {
   akashaBesideOf,
   akashaRoot,
@@ -37,7 +38,6 @@ const STATED: Readonly<Record<string, string>> = {
   "persona-slug": "persona",
   "domain-slug": "assignmentSlug",
   "role-slug": "role",
-  "person-slug": "person",
   "principal-seat-name": "principalSeatName",
   "start-mode": "startMode",
   "on-call": "onCall",
@@ -49,7 +49,6 @@ const STATED: Readonly<Record<string, string>> = {
 const BARED: readonly string[] = [
   "persona-slug",
   "role-slug",
-  "person-slug",
   "principal-seat-name",
   "start-mode",
   "registration-account",
@@ -59,6 +58,17 @@ const TITLE = "title"
 
 const SLUG = "slug"
 
+const PERSONS = "persons"
+
+const PERSON = "person"
+
+const PERSON_SLUG = "person-slug"
+
+function personsIn(held: Record<string, unknown>): string | null {
+  const before = held[PERSON]
+  return principalStatedIn(held[PERSONS] ?? (typeof before === "string" ? [before] : undefined))
+}
+
 export function underOldKeys(held: Record<string, unknown>): Record<string, unknown> {
   const values: Record<string, unknown> = {}
   for (const [key, from] of Object.entries(STATED)) {
@@ -66,6 +76,8 @@ export function underOldKeys(held: Record<string, unknown>): Record<string, unkn
     if (said === undefined || said === null || said === "") continue
     values[key] = typeof said === "string" && BARED.includes(key) ? slugOf(said) : said
   }
+  const persons = personsIn(held)
+  if (persons !== null) values[PERSON_SLUG] = persons
   const slug = values[SLUG]
   if (typeof slug === "string" && values[TITLE] === undefined) values[TITLE] = slug
   return values

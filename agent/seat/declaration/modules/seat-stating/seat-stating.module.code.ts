@@ -1,3 +1,4 @@
+import { personsOf } from "akasha/agent/seat/declaration/modules/seat-persons/seat-persons.module.code.ts"
 import { storyKinds } from "akasha/agent/seat/declaration/modules/seat-resolve/seat-resolve.module.code.ts"
 import {
   listedAt,
@@ -83,7 +84,14 @@ export function assignmentAddressOf(named: string, root: string): string {
 }
 
 export function personNamed(root: string, principal: string): boolean {
-  return slugsOfType(root, PERSON).includes(principal)
+  const named = slugsOfType(root, PERSON)
+  return personsOf(principal).every((one) => named.includes(one))
+}
+
+function personsSaid(principal: string): string {
+  return personsOf(principal)
+    .map((one) => saidAs(namedAs(PERSON, one, null)))
+    .join(", ")
 }
 
 export function assignmentStatedIn(value: unknown, slug: string): string | null {
@@ -137,7 +145,7 @@ export function seatBody(
     `  assignmentSlug: ${saidAs(addressed ?? assignmentAddressOf(domain, root))},`,
     `  role: ${saidAs(namedAs(ROLE, role, null))},`,
     person
-      ? `  person: ${saidAs(namedAs(PERSON, principal, null))},`
+      ? `  persons: [${personsSaid(principal)}],`
       : `  principalSeatName: ${saidAs(namedAs(SEAT, above as string, null))},`,
     `  startMode: ${saidAs(namedAs(SEAT_MODE, slugOf(mode), null))},`,
     `  onCall: ${stated.onCall ? "true" : "false"},`,

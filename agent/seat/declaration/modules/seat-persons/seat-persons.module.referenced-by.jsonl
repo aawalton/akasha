@@ -1,0 +1,7 @@
+{"propertySlug":"import","fileName":"seat-persons.module.code.ts","path":"agent/hook/agent-hook/inference-hook/keep-alan-directives/keep-alan-directives.inference-hook.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-persons.module.code.ts","path":"agent/seat/declaration/modules/seat-persons/seat-persons.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-persons.module.code.ts","path":"agent/seat/declaration/modules/seat-stating/seat-stating.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-persons.module.code.ts","path":"agent/seat/modules/akasha-read/seat-akasha-read.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-persons.module.code.ts","path":"agent/seat/modules/reading/seat-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-persons.module.code.ts","path":"agent/seat/name/modules/compose-seat-name/compose-seat-name.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"parts","path":"agent/seat/declaration/seat-declaration.domain.ts","id":"01a0658d-c92f-7bc5-aac8-847d02086752"}

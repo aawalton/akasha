@@ -49,7 +49,7 @@ test("a seat stating everything is written as a page naming its person", () => {
   expect(body).toContain("export const athena = {")
   expect(body).toContain(`type: "${pageType.slug}/${seat.slug}"`)
   expect(body).not.toContain("pageTypeSlug:")
-  expect(body).toContain('person: "person/alan"')
+  expect(body).toContain('persons: ["person/alan"]')
   expect(body).toContain('role: "role/definer"')
   expect(body).toContain('startMode: "seat-mode/interactive"')
   expect(body).toContain("onCall: true,")
@@ -81,7 +81,13 @@ test("a seat whose principal is no person names the seat above it", () => {
   const under = { ...WHOLE, principal: "fleet", parentName: "athena" }
   const body = seatBody(under, "athena-worker", ROOT)
   expect(body).toContain('principalSeatName: "seat/athena"')
-  expect(body).not.toContain("person:")
+  expect(body).not.toContain("persons:")
+})
+
+test("a seat answering to several persons names each of them", () => {
+  const body = seatBody({ ...WHOLE, principal: "alan,jenny" }, "couples", ROOT)
+  expect(body).toContain('persons: ["person/alan", "person/jenny"]')
+  expect(body).not.toContain("principalSeatName")
 })
 
 test("a seat whose principal is no person and names no seat above is written as no page", () => {
@@ -204,6 +210,8 @@ test("a slug no page type carries is addressed as a domain", () => {
 test("a person is known from the pages rather than from a list written here", () => {
   expect(personNamed(ROOT, "alan")).toBe(true)
   expect(personNamed(ROOT, "athena")).toBe(false)
+  expect(personNamed(ROOT, "alan,jenny")).toBe(true)
+  expect(personNamed(ROOT, "alan,athena")).toBe(false)
 })
 
 test("the kinds an assignment is looked for under open with the preferred order", () => {

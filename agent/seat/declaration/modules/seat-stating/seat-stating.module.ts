@@ -30,6 +30,10 @@ export const seatStating = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A seat whose principal is persons names each of those persons.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A persona, a role, a person, a seat above and a start mode are named by page type and slug.",
     },
@@ -107,6 +111,6 @@ export const seatStating = {
       statement: "Nothing here lands a commit.",
     },
   ],
-  updatedAt: "2026-10-08T16:01:33.455Z",
+  updatedAt: "2026-10-24T17:50:28.120Z",
   createdAt: "2026-09-01T16:17:55.990Z",
 } as const satisfies Module

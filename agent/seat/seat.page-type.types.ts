@@ -7,7 +7,6 @@ import type { Conversation } from "akasha/agent/seat/properties/conversation.com
 import type { Mode } from "akasha/agent/seat/properties/mode.relation-property.types.ts"
 import type { NeedsAttention } from "akasha/agent/seat/properties/needs-attention.boolean-property.types.ts"
 import type { OnCall } from "akasha/agent/seat/properties/on-call.boolean-property.types.ts"
-import type { Person } from "akasha/agent/seat/properties/person.relation-property.types.ts"
 import type { ReExecAsk } from "akasha/agent/seat/properties/re-exec-ask.relation-property.types.ts"
 import type { RegistrationAccount } from "akasha/agent/seat/properties/registration-account.relation-property.types.ts"
 import type { Request } from "akasha/agent/seat/properties/request.record-property.types.ts"
@@ -32,7 +31,6 @@ import type { CpuShare } from "akasha/infrastructure/cpu/limit/properties/cpu-sh
 export type Seat = Agent & {
   persona: SeatPersona
   role: Role
-  person?: Person
   startMode: StartMode
   onCall: OnCall
   registrationAccount: RegistrationAccount

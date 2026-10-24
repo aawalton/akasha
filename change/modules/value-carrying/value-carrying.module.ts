@@ -58,6 +58,10 @@ export const valueCarrying = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "One value becomes a list of one where the key written to has many values.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The value is handed on as the body spells that value rather than as text to quote.",
     },
@@ -97,5 +101,5 @@ export const valueCarrying = {
     },
   ],
   createdAt: "2026-09-09T19:55:49.238Z",
-  updatedAt: "2026-09-21T16:18:31.000Z",
+  updatedAt: "2026-10-24T17:50:28.120Z",
 } as const satisfies Module

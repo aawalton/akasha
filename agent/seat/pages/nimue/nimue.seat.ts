@@ -7,11 +7,11 @@ export const nimue = {
   persona: "persona/nimue",
   assignmentSlug: "initiative/nimue-correct-formulas",
   role: "role/definer",
-  person: "person/alan",
+  persons: ["person/alan"],
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
   claudeCodeSessionUuid: "885728eb-a579-4158-9e5a-d48265245180",
   createdAt: "2026-10-19T16:52:03.328Z",
-  updatedAt: "2026-10-19T19:28:50.766Z",
+  updatedAt: "2026-10-24T17:50:28.120Z",
 } as const satisfies Seat

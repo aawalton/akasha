@@ -25,6 +25,10 @@ export const personItself = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A seat stating several persons warrants none of them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A person whose page cannot be found is no warrant.",
     },
     {
@@ -38,5 +42,5 @@ export const personItself = {
     },
   ],
   createdAt: "2026-08-31T19:50:55.142Z",
-  updatedAt: "2026-10-06T14:43:17.000Z",
+  updatedAt: "2026-10-24T17:50:28.120Z",
 } as const satisfies ContextWarrant

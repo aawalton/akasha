@@ -1,3 +1,4 @@
+import { principalStatedIn } from "akasha/agent/seat/declaration/modules/seat-persons/seat-persons.module.code.ts"
 import { rootIn } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { alive, type Holder } from "akasha/file/modules/lock-holder/lock-holder.module.code.ts"
 import {
@@ -22,13 +23,16 @@ const HELD = "supervisorProcess"
 
 const UNKNOWN = "-"
 
+const PERSONS = "persons"
+
+const PERSON_SLUG = "person-slug"
+
 const STATED: Readonly<Record<string, string>> = {
   id: "id",
   slug: "slug",
   "persona-slug": "persona",
   "domain-slug": "assignmentSlug",
   "role-slug": "role",
-  "person-slug": "person",
   "principal-seat-name": "principalSeatName",
   "start-mode": "startMode",
   "registration-account": "registrationAccount",
@@ -39,7 +43,6 @@ const STATED: Readonly<Record<string, string>> = {
 const BARED: readonly string[] = [
   "persona-slug",
   "role-slug",
-  "person-slug",
   "principal-seat-name",
   "start-mode",
   "registration-account",
@@ -120,6 +123,8 @@ function seatStating(handle: string, root: string = seatRoot()): Record<string, 
     if (one === undefined || one === null || one === "") continue
     values[key] = typeof one === "string" && BARED.includes(key) ? slugOf(one) : one
   }
+  const persons = principalStatedIn((held as Record<string, unknown>)[PERSONS])
+  if (persons !== null) values[PERSON_SLUG] = persons
   return values
 }
 

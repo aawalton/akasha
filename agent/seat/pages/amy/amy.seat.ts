@@ -7,11 +7,11 @@ export const amy = {
   persona: "persona/amy",
   assignmentSlug: "domain/alan-harness",
   role: "role/definer",
-  person: "person/alan",
+  persons: ["person/alan"],
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
   claudeCodeSessionUuid: "57b109d6-2f11-4729-9004-745a6b6400ab",
   createdAt: "2026-10-18T13:08:20.594Z",
-  updatedAt: "2026-10-18T13:08:23.152Z",
+  updatedAt: "2026-10-24T17:50:28.120Z",
 } as const satisfies Seat

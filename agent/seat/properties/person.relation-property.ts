@@ -9,15 +9,11 @@ export const person = {
   targetPageType: "page-type/person",
   decisions: [
     {
-      decisionKind: "decision-kind/departure",
-      statement: "The person a seat is of and the work a seat answers for are two facts.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A seat assigned to a person states that person in two places.",
+      decisionKind: "decision-kind/absence",
+      statement: "No seat states this property, since a seat states its persons.",
     },
   ],
   types: "ts",
   createdAt: "2026-08-30T16:45:45.819Z",
-  updatedAt: "2026-09-22T13:43:19.000Z",
+  updatedAt: "2026-10-24T17:50:28.120Z",
 } as const satisfies RelationProperty

@@ -36,6 +36,10 @@ export const keepAlanDirectives = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A seat answering to several persons together is left alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A seat making a played game's turns is left alone.",
     },
     {
@@ -132,5 +136,5 @@ export const keepAlanDirectives = {
     },
   ],
   createdAt: "2026-09-11T14:40:31.377Z",
-  updatedAt: "2026-10-19T17:56:26.318Z",
+  updatedAt: "2026-10-24T17:50:28.120Z",
 } as const satisfies InferenceHook

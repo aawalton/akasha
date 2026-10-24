@@ -31,6 +31,7 @@ import { subagentBriefKept } from "akasha/agent/model/test/pages/subagent-brief-
 import { readOwnTranscriptTail } from "akasha/agent/modules/io-probe/io-probe.module.code.ts"
 import { lastAskedIn, lastSaidIn } from "akasha/agent/modules/last-said/last-said.module.code.ts"
 import { seatIn } from "akasha/agent/modules/read-record/read-record.module.code.ts"
+import { onePersonIn } from "akasha/agent/seat/declaration/modules/seat-persons/seat-persons.module.code.ts"
 import type { TurnWorking } from "akasha/agent/seat/observation/seat-turn/modules/reading/seat-turn-reading.computed-property-module.code.ts"
 import {
   anyLiveShell,
@@ -57,6 +58,8 @@ const ACTIVE = "stop_hook_active"
 const SEAT = "seat"
 
 const PERSON = "person"
+
+const PERSONS = "persons"
 
 const ID = "id"
 
@@ -85,7 +88,7 @@ export const GATES = {
   subagent: "a subagent still to report",
   shell: "a background command still to report",
   words: "no words closing the turn",
-  person: "a seat answering to no person",
+  person: "a seat answering to no one person",
   game: "a seat making a played game's turns",
   rule: "a person stating no rule",
   model: "no model a call could reach",
@@ -178,7 +181,7 @@ export const SCOPE: readonly string[] = [
   "  what the person last asked for, put beside those words so a rule about it can be judged.",
   "",
   "It does not catch:",
-  "  a turn under a seat that answers to no person.",
+  "  a turn under a seat that answers to no person, or to several persons together.",
   "  a turn under a seat making a played game's turns, which writes to the game and not to Alan.",
   "  a turn the agent closed with a tool call and no words.",
   "  a stop this hook held open already.",
@@ -204,7 +207,10 @@ function namedIn(listed: readonly Valued[], agent: string, key: string): string 
 }
 
 export function personIn(listed: readonly Valued[], agent: string): string | null {
-  return namedIn(listed, agent, PERSON)
+  for (const one of listed) {
+    if (one.value[ID] === agent) return onePersonIn(one.value[PERSONS])
+  }
+  return null
 }
 
 export function roleIn(listed: readonly Valued[], agent: string): string | null {

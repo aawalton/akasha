@@ -38,6 +38,10 @@ export const seatReading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A seat's persons are answered under the old person key as one principal.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The root is the one the environment states, or the folder the file itself sits in.",
     },
@@ -77,5 +81,5 @@ export const seatReading = {
     },
   ],
   createdAt: "2026-08-31T14:53:56.970Z",
-  updatedAt: "2026-09-25T17:59:40.000Z",
+  updatedAt: "2026-10-24T17:50:28.120Z",
 } as const satisfies Module

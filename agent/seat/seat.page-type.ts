@@ -113,7 +113,6 @@ export const seat = {
       many: false,
       default: "role/worker",
     },
-    { pageProperty: "relation-property/person", required: false, many: false },
     { pageProperty: "relation-property/start-mode", required: true, many: false },
     { pageProperty: "boolean-property/on-call", required: true, many: false },
     { pageProperty: "relation-property/registration-account", required: true, many: false },
@@ -237,12 +236,16 @@ export const seat = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A seat states the person who opened the seat or the seat that spawned the seat.",
+      statement: "A seat states the persons who opened the seat or the seat that spawned the seat.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "No seat states both the person who opened the seat and the seat that spawned the seat.",
+        "No seat states both the persons who opened the seat and the seat that spawned the seat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A seat opened by several persons answers to all of them together.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -408,5 +411,5 @@ export const seat = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-30T01:07:35.561Z",
-  updatedAt: "2026-10-24T17:31:32.350Z",
+  updatedAt: "2026-10-24T17:50:28.120Z",
 } as const satisfies PageType

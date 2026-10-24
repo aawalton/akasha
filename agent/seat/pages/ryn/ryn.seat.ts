@@ -7,11 +7,11 @@ export const ryn = {
   persona: "persona/ryn",
   assignmentSlug: "initiative/ryn-standard-agent-english",
   role: "role/definer",
-  person: "person/alan",
+  persons: ["person/alan"],
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
   claudeCodeSessionUuid: "6dd8db8b-6134-46cd-b74b-5d140c993abc",
   createdAt: "2026-10-19T17:19:12.364Z",
-  updatedAt: "2026-10-19T17:35:47.483Z",
+  updatedAt: "2026-10-24T17:50:28.120Z",
 } as const satisfies Seat

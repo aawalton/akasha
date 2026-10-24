@@ -34,9 +34,10 @@ import { storyPlayed } from "akasha/story/world/stories/played/story-played.page
 const ALAN_AT = `${person.slug}/${alan.slug}` as const
 
 const SEATS: readonly Valued[] = [
-  { path: "one.seat.ts", value: { id: "a", person: ALAN_AT } },
+  { path: "one.seat.ts", value: { id: "a", persons: [ALAN_AT] } },
   { path: "two.seat.ts", value: { id: "b" } },
-  { path: "three.seat.ts", value: { id: "c", person: "" } },
+  { path: "three.seat.ts", value: { id: "c", persons: [] } },
+  { path: "four.seat.ts", value: { id: "e", persons: [ALAN_AT, `${person.slug}/jenny`] } },
 ]
 
 test("a seat is found by the id the agent runs under", () => {
@@ -46,6 +47,10 @@ test("a seat is found by the id the agent runs under", () => {
 test("a seat naming no person answers nothing", () => {
   expect(personIn(SEATS, "b")).toBeNull()
   expect(personIn(SEATS, "c")).toBeNull()
+})
+
+test("a seat answering to several persons together has no one person to judge by", () => {
+  expect(personIn(SEATS, "e")).toBeNull()
 })
 
 test("an id no seat carries answers nothing", () => {
@@ -120,9 +125,9 @@ const INTERVIEWER_AT = `${role.slug}/${interviewer.slug}` as const
 const WORKER_AT = `${role.slug}/${worker.slug}` as const
 
 const ROLED: readonly Valued[] = [
-  { path: "one.seat.ts", value: { id: "a", person: ALAN_AT, role: INTERVIEWER_AT } },
-  { path: "two.seat.ts", value: { id: "b", person: ALAN_AT, role: WORKER_AT } },
-  { path: "three.seat.ts", value: { id: "c", person: ALAN_AT } },
+  { path: "one.seat.ts", value: { id: "a", persons: [ALAN_AT], role: INTERVIEWER_AT } },
+  { path: "two.seat.ts", value: { id: "b", persons: [ALAN_AT], role: WORKER_AT } },
+  { path: "three.seat.ts", value: { id: "c", persons: [ALAN_AT] } },
 ]
 
 test("the role a seat answers for is read off the seat the agent runs under", () => {

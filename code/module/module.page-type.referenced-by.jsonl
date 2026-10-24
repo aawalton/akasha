@@ -227,6 +227,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/declaration/modules/seat-initiative/seat-initiative.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/declaration/modules/seat-landing/seat-landing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/declaration/modules/seat-on-call/seat-on-call.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/declaration/modules/seat-persons/seat-persons.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/declaration/modules/seat-principal/seat-principal.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/declaration/modules/seat-registration-account/seat-registration-account.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/declaration/modules/seat-resolve/seat-resolve.module.ts","typed":true,"deferred":false}

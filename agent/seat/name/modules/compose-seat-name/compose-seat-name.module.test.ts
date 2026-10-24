@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import { definer } from "akasha/agent/role/pages/definer.role.ts"
 import { gameMaster } from "akasha/agent/role/pages/game-master.role.ts"
 import { worldBuilder } from "akasha/agent/role/pages/world-builder.role.ts"
+import { principalOfPersons } from "akasha/agent/seat/declaration/modules/seat-persons/seat-persons.module.code.ts"
 import {
   composeSeatName,
   type NameableSeat,
@@ -50,6 +51,19 @@ test("a seat of Alan's whose domain is no game keeps its persona's name alone", 
 
 test("a persona championing no domain seats in the akasha domain", () => {
   expect(personaDefaultsOf(ROOT, iris.slug)?.domain).toBe("akasha")
+})
+
+test("a seat of several persons is named for its domain and its role", () => {
+  expect(
+    composeSeatName(
+      {
+        attributes: { persona: "claude", domain: "couples-therapy", role: "couples-therapist" },
+        flex: null,
+        principal: principalOfPersons([alan.slug, "jenny"]),
+      },
+      ROOT
+    )
+  ).toBe("couples-therapy-couples-therapist")
 })
 
 test("a seat working for the fleet on a game is named for the game and its role", () => {

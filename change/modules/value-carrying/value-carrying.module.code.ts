@@ -31,7 +31,8 @@ export type Asked = Readonly<Record<string, string>>
 export type Carrying = { readonly path: string; readonly value: string }
 
 export function spelledAs(held: unknown, many: boolean): string | null {
-  if (many || !Array.isArray(held)) return JSON.stringify(held) ?? null
+  if (many) return JSON.stringify(Array.isArray(held) ? held : [held]) ?? null
+  if (!Array.isArray(held)) return JSON.stringify(held) ?? null
   if (held.length !== 1) return null
   return JSON.stringify(held[0]) ?? null
 }

@@ -7,11 +7,11 @@ export const astra = {
   persona: "persona/astra",
   assignmentSlug: "page-type/page",
   role: "role/definer",
-  person: "person/alan",
+  persons: ["person/alan"],
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
   claudeCodeSessionUuid: "6da6d673-4649-42c2-8b65-68fa27f55026",
   createdAt: "2026-10-22T14:54:04.318Z",
-  updatedAt: "2026-10-22T14:54:04.318Z",
+  updatedAt: "2026-10-24T17:50:28.120Z",
 } as const satisfies Seat
