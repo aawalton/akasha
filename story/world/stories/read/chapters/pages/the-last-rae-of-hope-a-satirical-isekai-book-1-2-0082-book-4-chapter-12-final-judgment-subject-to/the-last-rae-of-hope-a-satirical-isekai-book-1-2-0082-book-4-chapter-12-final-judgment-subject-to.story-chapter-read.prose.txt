@@ -1,0 +1,189 @@
+For several long moments, all was dark and silent. It was neither warm nor cool, moist nor dry.
+
+It was the void: expansive, empty, and unnerving.
+
+“Okay… We can stop now, Raelana, right?” I asked hopefully, still reeling from the recent reveal. “There’s nothing else to—”
+
+To my utter astonishment, a translucent computer window materialized, accompanied by an echoing ping.
+
+//Confirmation. Speranza Subject ID H-F-CH-3447-04-01-0837 updated.
+
+{
+
+"Current_Status": "Deceased",
+
+"Eternal_Covenant": "Active_Member",
+
+"Tier_Level": "SSS",
+
+"Destination": "Speranza_Paradise_Castle_NorthTower",
+
+"Reason_For_Transport": "Final_Judgment",
+
+"FreeText_Comment": "Welcome, {Current_Name}. Euphridia will be with you shortly.”
+
+}
+
+The pop-up pane shriveled into a small ball of gold light and then exploded into a kaleidoscope of colors that filled every corner of the nothingness beyond. The rays spiraled faster and faster, warping and blurring into one another, leaving only a streaking white light in their wake.
+
+“Oh, Rae! You were so close!” Eura’s voice came from behind me.
+
+Seeming to share the same spiritual space as Raelana, I whirled around, just in time to be caught in a crushing hug by the Goddess herself. Her billowing dress, the same one she'd worn to the Renaissance fair, entangled us both as she trembled.
+
+“Oh Great and Holy Euphrida,” Raelana intoned mournfully. “My failures in life have been many. Would that you reserve judgment as I explain my—”
+
+“I know you did your best, Rae! You always do.”
+
+“But Holy One, there is much I would discuss about Demon King Epiales—"
+
+“N-no!” Euphridia quickly withdrew her embrace, her face pale. “I mean… all I need to know is about his chains. They’re still attached, right?”
+
+“He was fettered at both ankles and the right arm,” Raelana replied slowly, taken aback by the Goddess’s fear. “They did not seem to slow him much during our battle.”
+
+“What about the left arm?”
+
+“It was not bound by anything.”
+
+Euphridia began to pace back and forth, her golden sandals scuffing the white marble floor that had formed under us. “No, no, no. There won’t be enough time this cycle. And the last piece I have is the tiniest one.”
+
+“Great Euphridia, I believe that not all demons share his perspective—”
+
+Another window popped up, this time for Euphridia.
+
+Ping.
+
+//Alert. Your current version of NAUGHT is unauthorized. Please provide a valid license key.
+
+And another.
+
+Ping.
+
+//Alert. Your current release of NAUGHT is beyond its supported End-Of-Life date. An upgrade is required to stay on a stable, supported release.  Please upgrade immediately.
+
+Yet another appeared, even more ominous than the previous one.
+
+Ping.
+
+//Warning. Dormant_Hero_Judgment_Queue exceeds safe threshold.
+
+//Please run [SoulCycle_MaintenanceSweep] to reclaim memory and reduce existential latency.
+
+//Note: Multiple Rae variants detected. Core soul not available for processing.
+
+The last one was even more baffling.
+
+Ping.
+
+//New Feature: AINA 1.0 is now available! Download AINA?
+
+“Ugh! How can I get anything done when these things just keep appearing everywhere?” Euphridia exclaimed, batting at the screens. “I thought this UI was supposed to help, but it’s too clunky. Dismiss, acknowledge, ignore, yes… whatever! Just go away!”
+
+Raelana tried to get her attention again. “Great Goddess of All Creation, humbly I ask that—”
+
+Ping.
+
+//Alert. Mass Casualty Event in progress. >1000 Souls Inbound. Estimated Time of Arrival: Less than 10 minutes.
+
+Euphrida raised her hand to dismiss the window, freezing mid-slap. “A… thousand?! What in the world is going on out there?”
+
+Ping.
+
+//Alert. {Speranza_Subject_ID: Not_Found} has crossed into Porta.
+
+“Most Holy on High,” Raelana shouted in desperation. “Duty compels me to offer what remains of me to guide the next hero, even if it berefts me of eternal rest!”
+
+“Guide the next… Oh. Yes, capital idea! I’m sure you’ll be helpful, especially since I’m going to have to send her sooner rather than later.”
+
+Ping.
+
+//Alert. Conflict detected.
+
+//Multiple Rae variants in Dormant_Hero_Judgment_Queue have filed an equity grievance regarding companion allocation to Final_Shared_Shard.
+
+//Suggested Action: Initiate [Dormant_Hero_Selection_Protocol]
+
+“I don’t even know what that… No, you know what? Even better. You can all go back this time.” Euphridia beamed. “I’m sure that’s the best solution!”
+
+A bright golden flare filled the white chamber, and we were both back in the chairs Raelana had set aside for us.
+
+“Please forgive me, Rachel,” she said, bowing her head. “For it is I that asked Euphridia to allow me to accompany you on your journey, knowing that no one else would have the knowledge of what transpired during my last moments. Yet I did not account for the idea that you would be... saddled with the lot of us.”
+
+No wonder I’m so messed up.
+
+But I’m going to choose to try not to mess up others.
+
+Well, any more than I already have.
+
+With a sigh, I stood up to place a comforting hand on her shoulder. “I’m not blaming you. But leave it to Eura to take something to the extreme, even if she was distracted.”
+
+“Perhaps it is distraction that made her decision all the more…” Raelana paused. “Pre-analytical.”
+
+“Oh, I like that one,” I replied, tucking it away as a future slight against Nora.
+
+Raelana’s ghost smiled slightly before she clenched her right fist. “I would not call Demon Lord Olethros’s acts altruistic by any measure. However, assuming the relationship between progenitor and progeny seen was within standard bounds, in retrospect, one can partially infer his motivations.”
+
+“Dear old dad did say something about absorbing ‘both of them,” I murmured. “I mean, you don’t think he’s referring to his other kids, right? General Ragnerus and Mistress Aziza absolutely abhor their little brother. I can't imagine he's fond of them himself.”
+
+“Now they do, yes,” she agreed. “Yet relationships are not held to stagnancy over time.”
+
+I frowned. “But he did still attack you throughout the whole ordeal—a lot. Why couldn’t he have just, I don’t know, tried talking to you again? He gave up too soon!”
+
+“So you’ve said to me many times before,” she replied, nodding her head as she stood up. “I suspect ego, though it be on both sides. I do not believe I would have ever taken his words at face value, should the attempt to recommunicate have been made.”
+
+With a graceless flop back into my ethereal chair, I let my mind spin around the events a few times. Eventually, I let out a long-winded sigh.
+
+“I’m glad you shared all this with me, but I’m also… exhausted by all of it. I don’t think I can show proper gratitude right now.”
+
+Raelana stood up. “The fact that you are processing it is more than enough for me. You were quite angry the first time I shared this information, but I believe that initial response was also appropriate, given the circumstances.”
+
+I sat up in my chair. “Given the circumstances?”
+
+Raelana rubbed the back of her head. “You were quite young, and while I could not let you succumb to the demonic plague, it was also necessary to temper your perspective on demons in general, as I could not risk you equating the actions of one or few to the actions of all.”
+
+Temper… my perspective?
+
+What would be the point of that?
+
+“He didn’t approach me about the deal first,” I said as the realization hit me. “I’m the one who went looking for him.”
+
+Raelana nodded ruefully just before everything disappeared.
+
+Preparations to venture into the Wastelands were well underway before I opened my eyes. Bastione Bianco rang with a fevered, loud excitement that seemed somewhat misplaced. Soldiers bantered, carts rolled, horses whinnied, and tempers rose as the soldier selection process culminated under sunny skies.
+
+“I’ve been enlisted longer than Private Jensen!” one soldier shouted. “I should be given priority!”
+
+“You failed the test,” Lieutenant Arlena replied dismissively. “Better luck next time.”
+
+There better not be a next time!
+
+“Everyone wants to come with us,” Nora noted as I joined her on one of the lookouts. “No one wants to, uh, hold down the fort.”
+
+I’d get in a lot of trouble if I volunteered.
+
+“What’s the test like?” I asked, peering over the edge to see if anyone was displaying any skills.
+
+“Dunno,” Nora admitted. “She never goes over the answers with anyone. I’m thinking she just says that when someone questions her.”
+
+“Seems like it's working…”
+
+Nora nodded. “Well?”
+
+“Well, what?”
+
+Nora crossed her arms. “Spill it, sister.”
+
+“I didn’t even say anything!”
+
+“Here, here, and… here,” she said, poking me on both sides of the jaw in succession before tapping my left temple. “These areas are your biggest tells. Who or what did you dream of last night?”
+
+After invoking the mandatory pinky swear, I gave her my best attempt at a non-biased overview of the discussion. Of course, my reactions were mixed in, so there was no way she didn’t realize my sympathies. Instead of validating or dismissing my feelings on the highly convoluted experience, however, she focused on something completely different.
+
+“Another acronym!” she exclaimed in both excitement and irritation. “What do you think AINA means?”
+
+“How the heck should I know? What, am I NAUGHT’s administrator or something?”
+
+Nora’s eyes flashed mischievously. “Am I NAUGHT’s administrator? AINA!”
+
+The emotional damage from the lame, off-the-cuff joke was too much after everything, and the wooden platform caught my face like it had been waiting for this moment.
+
+And I had no one to blame but myself.

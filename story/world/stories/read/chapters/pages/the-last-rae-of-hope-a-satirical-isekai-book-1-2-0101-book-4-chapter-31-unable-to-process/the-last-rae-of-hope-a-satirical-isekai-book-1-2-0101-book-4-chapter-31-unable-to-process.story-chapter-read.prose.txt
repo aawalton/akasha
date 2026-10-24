@@ -1,0 +1,221 @@
+“How in Speranza is NAUGHT’s malfunctioning my fault?” I snapped. “I’m not in charge of it, I haven’t even seen it!”
+
+Oliver exhaled slowly through his nose. “I sent you to the next world via NAUGHT, but something… untoward happened as a result of your translocation. Your sword enlightened me as to the specifics of the damage caused later that night, over and over, until I silenced it.”
+
+At that admission, Will turned to ice inside its sheath, frost forming around the hilt.
+
+“No wonder it dislikes you. I’d be mad too if you took away my voice!”
+
+Especially if it was trying to warn you of something important!
+
+“It does not have a voice of its own,” Oliver disagreed. “It was merely repeating an alert that I could not address.” He glanced at my sword, his lips pursed. “I did try to rectify it, but it was beyond my ability. Your sword wouldn’t accept my repeated explanations.”
+
+“Do you remember what the alert said?”
+
+He snapped his fingers and summoned a small, rolled-up parchment. “Every syllable had been ingrained into my memory. Are you inclined to review it? I believe you may find it and our subsequent discussions... unsettling.”
+
+I nodded and reached out for the document. “I find a lot of things unsettling these days, to be honest.”
+
+“That means you’ve been paying attention,” he replied, pulling the document back to his side. “Before you take it, however, I suggest reading only a few lines at a time. As your partner, I promise to disclose the truths surrounding it as I understand them. In return, I request that this document and our discussion be kept confidential.”
+
+“Agreed,” I replied, holding my hand open.
+
+He hesitated. “You won’t speak of this even to Lady Nora?”
+
+“I won’t,” I promised.
+
+“Then this remains a secret between us,” he declared, placing the document in my hands. It shimmered as I unrolled it.
+
+Exchange recorded. RES007 replacing Unknown_ID.
+
+Transaction status: Accepted.
+
+Post-validation check: Failed.
+
+I stopped after the third line of output. “You said this was spoken aloud, but your syntax is...”
+
+“I am somewhat familiar with NAUGHT’s command syntax,” he replied, squaring his shoulders defensively. “Even then, I would blame any transcription typos in case or syntax upon the source learning material.”
+
+“No, I was going to say… Wait, source learning material?”
+
+Oliver hesitated for a moment. “My sister had procured remnants of a ‘NAUGHT Standard Operating Procedure’ manual, and I… borrowed it.”
+
+I wonder how he defines ‘borrowed’.
+
+“How did she…”
+
+“Her experiments involved obtaining knowledge from beyond this world.” He shook his head. “She would not speak of further specifics, even when we did agree to work together.”
+
+I reread the lines, noting my initials in the first ID number. “You exchanged me for…”
+
+“A demon of hers that goes by the name of Anhinga. She wanted him returned specifically.”
+
+“So then he didn’t escape NAUGHT on his own, you—” I stiffened, dropped the parchment, and stood up, unsheathing my sword. “Get ready!”
+
+He tilted his head too far to the right. “For what?”
+
+“You just said his name out loud! He’ll be here any minute!”
+
+Oliver threw his head back and laughed until tears came to his eyes. “That old myth is still in circulation? How very comforting!”
+
+“It’s a myth? But even Relias—”
+
+At that, he began to laugh even harder, falling back and wiggling on the ground with glee. “Even with all of my power and concentration devoted to the effort, I had been successful only in hearing my name spoken, and never with any indication of the source location.”
+
+“You might be strong, but that doesn’t mean it couldn’t be true for other demons! They might have figured out—”
+
+“Do you know how often my name gets uttered by cultists and the like? Anhinga is on their list as well; they often pray for forbidden knowledge from him. Not that he’d bestow it even if he did hear them, mind you, he is quite loyal to my sister.” He then made a rather strange face. “I might understand cursing me when you stub a toe. But it’s the humans who call my name during intimate relations that truly perplex me. Why would they ever invite me to join…”
+
+Heat crawled up the back of my neck and across the tips of my ears before spreading to my cheeks.
+
+“Ah. A discussion for after hours, perhaps?”
+
+Never going there!
+
+He cleared his throat. “We spread that myth to hide our spies, Miss Rachel. It provides humans and hybrids with an inactionable reason for how we are able to obtain confidential knowledge. Why go look for the mundane when you can explain something away with an all-powerful lie?"
+
+“Whatever you say…” I waited for several minutes, my back deliberately turned to him so he could not see my face. With no indication that Anhinga or any other demons were in the vicinity, I settled back on the ground with a grunt and continued reading.
+
+Error: Multiple Rae Variants detected where only 1 is expected.
+
+Error: "Eternal_Covenant": "Active_Member": "Tier_Level": "SSS"
+
+Required destination: Dormant_Hero_Reincarnation_Queue.
+
+Enqueue operation rejected. Condition failed: ID: RES007: Current_Status != Deceased.
+
+“Multiple Rae Variants…” I mumbled. “Ah…”
+
+“I was unaware you carried the souls of the past heroes within you,” he muttered, giving me a flinty look. “And thus, I could not compensate for them in my spell. I believed them to be of the same soul.”
+
+“Are you insinuating that I knew they’re shards of a core soul and not just myself reincarnated?”
+
+“Shards? Shards… So, he truly did shatter her soul.” Oliver folded his arms. “How remarkable that he spoke the truth once,” he added with a disdainful sniff.
+
+“And just so you know, the whole shards thing wasn’t something I knew about until recently.”
+
+His ears twitched. “I suppose you can’t be held accountable for the lack of knowledge, but if we are ever to attempt something similar, I advise informing me of any spiritual stowaways first.”
+
+“Uh-huh, sure.”
+
+The following line caused me to flinch.
+
+Error: Translocation request could not be fulfilled. “Location”: “Isle_of_the_Blessed” is not mapped.
+
+“Isle of the Blessed?”
+
+“That’s where you wanted me to send you. I tried to tell you it might not exist, but you insisted.”
+
+“From Lucien’s story!”
+
+The isle that Raedine wanted to visit!
+
+“The very same,” he replied.
+
+“How did you get a copy of that book? Aziza again?”
+
+“No… A very strange man had it. I was hiding from my father’s wrath, as per usual, and I happened upon him in the Wastelands, looking for his granddaughter.”
+
+“His… granddaughter…?”
+
+Lots of people have granddaughters…
+
+Oliver leaned forward, both eyes opening. “He had the strangest laugh.”
+
+“Is… Is that so…?”
+
+“Ho, ho, ho!” He chortled flatly. “Tell me, Miss Rachel, have you ever heard anyone laugh like that?”
+
+“Every mall Santa I’ve ever encountered,” I mumbled.
+
+Oliver scrutinized me for several seconds before his eyes snapped shut. “Not a lie by any means, but certainly not the only answer. Let me ask the question differently, then. Is there any chance the crazy old prophet I encountered was Euphridia’s ultimate progenitor?”
+
+“Perhaps?”
+
+Oliver let out a bitter sigh, the motion wracking his body. “To think my target was so close and I had failed to recognize it.”
+
+Target?!
+
+“I only said perhaps! And just because they’re related, doesn’t mean he condones—”
+
+“What does he not condone?”
+
+“What’s been happening here!”
+
+“You think he is not fully aligned with her…” Oliver mused. “That idea does bring a bit of comfort. He was odd, but I did not sense any ill will toward me at the time. Or perhaps he is adept at masking it, making him all the more my enemy.”
+
+“I’m surprised he gave you that book, though,” I admitted. “Nora and I got in trouble just for bringing a pen and a journal with us…”
+
+“Oh, he didn’t. I stole it.”
+
+I stared at him. “You what?”
+
+“The title caught my attention, and I absconded with it,” he said with a shrug. “He appeared not to be able to hold his alcohol, and I made sure he had his fill.”
+
+I groaned. “How many other sins did you commit against him?!”
+
+Oliver just shrugged.
+
+“Great. I’ll be apologizing on your behalf even while I argue the necessity of your preservation!”
+
+“Then you do mean to confront them both about me, after everything I just told you?”
+
+“That’s what I promised, didn’t I?”
+
+He looked away. “Yes… Yes, you did.”
+
+The last part of the alert output was the most damning of all.
+
+Request Failed: Unable to Process
+
+Error Code: NAUGHT-ERR-UNUSE (Unintended Use Case Detected)
+
+Critical Warning: System integrity compromised. NAUGHT Emergency Protocol activated. Certain services suspended to prevent further schema corruption. Contact an Administrator immediately.
+
+Emergency Action: Redirecting RES007 to Location=Earth_USA_NewYorkCity_HayesAlley_21A_DivEPub_CentralRepository for isolation and further administrative review.
+
+“Hayes Alley…”
+
+Asphalt and broken glass everywhere.
+
+I began to shake from a sudden chill. “The Central Repository on Hayes Alley was long abandoned...”
+
+“Miss Rachel?”
+
+“It was raining… Very cold…”
+
+“Miss Rachel!”
+
+“Mother was there, screaming at him… yelling about the trouble his granddaughter had caused… She called numbers? 9-1-1…”
+
+Distorted sirens.
+
+“He said… ‘I had told her to go make some friends and bring them by, but this is not what I meant by any means!’”
+
+I felt Oliver shaking my shoulders. “Rachel—hold on. Look at me! Stay with me!”
+
+But his face was already blurry, and everything else went black.
+
+Post-Chapter Omake:
+
+TO: Cooperative Universal Publishing SupportFROM: Elenora Beatrice Perez SUBJECT: System Error When Reviewing Chapter
+
+Hello,
+
+I am writing to lodge a formal complaint regarding your so-called “user-friendly” chapter review system.
+
+Every time I attempt to access Chapter [Redacted] for editorial review, I receive the following error:
+
+Error: Unauthorized Disclosure Attempt Detected.
+
+Condition Failed: NDA_Agreement_Active = TRUE
+
+Access Denied. This content has been flagged as Confidential.
+
+I have every right to know what happened. This is entirely unacceptable! Please explain how I am supposed to sign off on this draft if I’m literally not allowed to read it.
+
+Fix your system!
+
+Insincerely,
+
+Nora

@@ -20,5 +20,7 @@ export const metaworldHopecore0200Chapter112TeachYourChildren2 = {
     },
   ],
   createdAt: "2026-10-23T14:45:42.557Z",
-  updatedAt: "2026-10-23T14:45:42.557Z",
+  updatedAt: "2026-10-24T01:50:12.651Z",
+  ownProgress: 2337,
+  progressedAt: "2026-10-24T01:50:12.651Z",
 } as const satisfies StoryChapterRead
