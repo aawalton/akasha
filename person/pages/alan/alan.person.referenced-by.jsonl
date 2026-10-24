@@ -66,7 +66,6 @@
 {"propertySlug":"person-authority-person","path":"person/authority/pages/alan-page-data-all.person-authority.ts","id":"01a05433-f106-71c5-8a0b-83070248d837"}
 {"propertySlug":"person-authority-person","path":"person/authority/pages/alan-page-schema-all.person-authority.ts","id":"01a05433-f107-7219-bd13-6b570031b7dc"}
 {"propertySlug":"relationship-sms-handler-target","path":"alan/relationships/relationship/pages/alan-walton/alan-walton.relationship.ts","id":"019db533-f384-7d1e-bdc3-11c0b0ce3d74"}
-{"propertySlug":"seat-persons","path":"agent/seat/pages/amy/amy.seat.ts","id":"01a14f20-9e11-7000-a53b-1e2e9cc76a9a"}
 {"propertySlug":"seat-persons","path":"agent/seat/pages/elin/elin.seat.ts","id":"01a14fa2-9498-7000-90fe-bdb948beb9a8"}
 {"propertySlug":"seat-persons","path":"agent/seat/pages/nimue/nimue.seat.ts","id":"01a15513-cad9-7000-89f4-a97e9c07d220"}
 {"propertySlug":"session-owner","path":"alan/track/daily/day/pages/2026-08-20/day-2026-08-20.day.ts","id":"01a01e9d-c734-7ea3-8be4-aefb8105a7ed"}
