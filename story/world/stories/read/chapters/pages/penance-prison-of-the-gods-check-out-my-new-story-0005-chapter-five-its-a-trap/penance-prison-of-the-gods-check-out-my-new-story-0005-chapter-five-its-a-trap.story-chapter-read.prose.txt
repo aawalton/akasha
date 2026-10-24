@@ -1,0 +1,207 @@
+Chapter Five: It’s a Trap!
+
+~Run 1, Room 2L, Floor 1, Sewers of Aerlyn~
+
+The air in this room felt colder and heavier. Thankfully, my current path was linear, so I didn’t bother asking for a map again. I took a quick glance around the room. There was a scary-looking black door, two giant rats, and a torch.
+
+Walking into the next room, I heard a click and looked down. The floor was slightly discolored where I stood, a dark grey instead of the light grey, green-stained stone that filled the sewer floors. I realized too late that I had triggered a pressure plate. And, of course, I walked right onto it like an idiot.
+
+My gaze shot up as a sharp sound pierced the silence. Before I could react, stings ravaged my body as a litany of arrows pierced my leather armor.
+
+“Owww!” I shrieked before clapping my hand over my mouth, but it was too late.
+
+[It’s a Trap! You take 4 points of damage from the arrow volley. Your HP is now 12/20. Watch your step next time, Rod.]
+
+The pain was intense, but I had no time to dwell on it. I was about to pull the arrows out of my chest when they vanished. Before I could react, the two rats let out ear-drum-rattling shrieks, snapping me back to the immediate danger. A frigid sensation crawled along my spine like a horde of frozen spiders.
+
+They charged me together, but I was ready for it. As I avoided their blows, I swung the torch at the rat on the right. The dice rolled. I glanced at the notification quickly to see how much damage I had done. At the same time, I readied my torch and again evaded the attacks of the two rats. They were so easy to dodge; I couldn’t believe I let the first one bite me so many times. I was learning, albeit slowly.
+
+[You deal 3 damage.]
+
+My muscles tensed in preparation, and I swung again at the first rat. The dice rolled.
+
+[You deal 4 damage. Giant Rat 1 is defeated. Congratulations!]
+
+The rat collapsed to the floor, a small spurt of blood fanning around it. A brief sense of triumph washed over me. Pushing aside early celebration, I swiftly turned to attack the second rat; my mind focused, torch ready for the attack. Except the rat wasn’t there. Momentary though my pause may have been, it was enough for the rat to scuttle into my blind spot. I had no chance to react as the rat jumped on my back. The dice rolled.
+
+[You take 3 damage.]
+
+As my health dwindled to a mere nine points, Crystal’s earlier warning echoed in my mind: I really was going to die. I yelled in anger and frustration; this wasn’t fair! But now wasn’t the time to give up. I couldn’t afford to lose focus now. With a swift maneuver, I let gravity take over, crashing onto the ground, using my weight to crush the rat clinging to my back. The impact was satisfying, but I waited for the dice to roll.
+
+[You deal 2 damage.]
+
+The rat recoiled back, its movements becoming more frantic as the blow ebbed at its willpower. I quickly sidestepped its pathetic lunge, laughing at it, before swinging my slowly decaying torch. I swung at the rat in retaliation. The dice rolled.
+
+[You deal 4 damage. Giant Rat 2 is defeated. Congratulations!]
+
+The rat slunk to the floor, its eyes clouded in death. Exhausted but relieved, I took a moment to catch my breath, knowing this small victory was just the beginning of my journey through this treacherous place.
+
+With the rats defeated, I allowed my gaze to drift across the room, taking in the usual reverse sewage and the shimmering golden stars rising from the giant rats. I looted them.
+
+[You looted Rat Meat x1. You looted Rat Teeth x1.]
+
+“What in the name of Malikap are these? Why would I even want rat meat?” I frowned and waited for Crystal to respond. Instead, my eyes caught a glimmer in the corner—a silver chest. My face brightened, eyes widening, rat parts forgotten.
+
+Could this be my lucky break? Maybe I won’t die after all. Take that, Crystal! Finally, something good amidst all this chaos. I dashed forward to the chest, heart hammering in anticipation, only to feel my hope shatter into a million pieces as my hand gripped the lock keeping the chest firmly in place.
+
+[The chest is locked. You do not have the unlock skill, nor do you have a chest key. Would you like to try bashing the lock?]
+
+“Yes, of course.” I struck the lock with my torch. A die rolled in my peripheral; I was starting to get annoyed by their appearance.
+
+[You deliver a decisive strike, and the chest's lock gives way.]
+
+The chest swung open.
+
+[You've looted 3 items from the Uncommon Chest: You've obtained 10 gold coins, a Cloth Shirt, and Leather Greaves.]
+
+A blue parchment appeared in front of me, showing the new items in my inventory.
+
+Inventory
+
+Death Boons: 5
+
+Gold: 40
+
+Name
+
+Amount
+
+Condition
+
+Effect
+
+Description
+
+Arrows
+
+5
+
+4/5
+
+Allows you to fire a bow.
+
+A simple wooden arrow with a stone arrowhead.
+
+Rat Teeth
+
+1
+
+NA
+
+None.
+
+The Incisor(s) of a Giant Rat. Who knows? If you collect a lot, something good may happen.
+
+Rat Meat
+
+1
+
+NA
+
++5 health 80% chance of poison if consumed.
+
+Juicy, full of protein, and only tastes a little like sewage! Who knows? If you collect a lot, something good may happen.
+
+“Tastes like chicken!” – Photonius the Dead
+
+Cloth Shirt
+
+1
+
+10/10
+
++1 defense.
+
+It's a shirt!
+
+– My friend went to Penance, and all I got was this lousy T-shirt!
+
+Leather greaves
+
+1
+
+15/15
+
++1 defense.
+
+A worked and treated pair of leather greaves covering the waist down to the ankles.
+
+My heart swelled with relief and excitement. Finally, some decent gear! I quickly equipped the cloth shirt and leather greaves, feeling a bit more protected and a lot more hopeful.
+
+“Can you pull up my stats and equipment page for me?”
+
+[Of course, Rod.]
+
+Rod
+
+Stat:
+
+Level
+
+Effect:
+
+Health
+
+9/20
+
+This represents your life force. When it hits 0 the run is over.
+
+Defense
+
+2
+
+Blocks 1 point of damage from all physical attacks.
+
+Equipment
+
+Slot
+
+Name
+
+Effect
+
+Condition
+
+Right hand
+
+Torch
+
+Deals 1-4 physical damage. 5% chance of causing burn effect on target
+
+4/10
+
+Chest
+
+Leather Armor
+
+Def + 1
+
+12/15
+
+Legs
+
+Leather Greaves
+
+Def + 1
+
+15/15
+
+“Wait, you didn’t show me everything.”
+
+[Well, yeah, it's not like you need the extra info at the moment, do you?]
+
+I shook my head and then sat down on the floor cross-legged. I took a moment to pause and collect myself. While I wasn’t in pain at the moment, I was worried—three-fifths of my health was gone, just like that. I shook my head; it was time to move on.
+
+Feeling slightly more equipped, I approached the next door. This one radiated some sort of magical energy, absorbing the light from my torch and from Crystal. The area surrounding the door felt cold and wrong, as if standing near it would suck out all the happiness in the world and leave me helpless. The burnt facade of the stone looked mismatched against the gray of the sewers, like the wrong color skin grafted onto a hapless burn victim. The door handle was even more unsettling, resembling a cadaver’s head more than anything else.
+
+I could go back and try one of the other doors. But something in me knew I needed to press onward here. I closed my eyes, suppressing what little remained of my gag reflex as I pushed down on the corpse's head. The door opened with little fanfare or creaking.
+
+My jaw dropped, hanging open, as I entered the next room. My eyes widened at the surreal scene before me.
+
+I was no longer underground or in a sewer. The air shifted, a warm summer breeze filling my nose with the scent of flowers and the earthy aroma of a dark, forbidden forest. It was as if I had been whisked away to a midnight grove hidden deep within the dungeon. The walls were adorned with a long-dead dragon’s massive, fearsome skull. In the room’s eerie expanse, the dragon’s skull loomed large, its hollow sockets casting an unnerving stare that seemed to follow my every move.
+
+At the far end of the room was an altar, and what every dark and ominous altar needed was a no-good, rotten Necromancer. I shuddered. Every kid from Vezwincourt spent too much of their childhood learning about the Necromancer Wars. A thousand years ago, the neighboring Kingdom of Aerlynt had been wiped off the map; it was only recently that Aerlynt had started to be a thing again. Why anyone would want to build on the ruins of a dilapidated undead paradise, I didn’t know.
+
+Why do I remember that and not what my parents looked like?
+
+The Necromancer laughed, a booming, dark laugh that made me shiver. It was at that moment I knew for sure I was going to die. A cacophonous noise filled the air as I turned to exit the room. The ground shook, and iron bars descended, locking me in the dungeon room with the Necromancer. My heart sank as I realized escape was not an option.

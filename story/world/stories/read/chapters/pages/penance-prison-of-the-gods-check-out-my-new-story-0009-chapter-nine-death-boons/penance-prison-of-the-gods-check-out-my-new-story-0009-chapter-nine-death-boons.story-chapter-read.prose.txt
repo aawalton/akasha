@@ -1,0 +1,341 @@
+Chapter Nine: Death Boons
+
+~Run 2, Entrance, Floor 1, Sewers of Aerlyn~
+
+I jolted awake, a rancid odor devastating my nose. Instinctively, I yanked my hand to my face and pinched my nose in a fruitless effort to block out the stench. Gone were the roses and vibrant blues of the sky where Jamie and I sat eating lunch today. The world had changed around me. Jamie? The pleasant thought of her faded, and I shook my head in desperation to recall her image in my mind. As the sweet memories melted away, I focused on figuring out where I was.
+
+My feet squished in foul water, its cold, vicious touch sliding across my skin like frostbitten slugs, while the chill of the stone floor seeped into my feet as if I were walking on ice. Familiarity with this place sparked as I took in my surroundings. My heart ached at the thought of what brought me to this place. Ma always said Penance was a lie, a rumor the church started to keep us in line. A flash of light burst through my head as my brain tried to think. Ma, Jamie, who were they?
+
+A torch flickered in front of me, and I moved forward to the light, each step a struggle as I battled against the fog of memories. I'd been here before. At this exact moment… I kept waiting for the synapses in my head to make the connections. Still, I didn’t hesitate; I sloshed through the ankle-deep sludge, the sound echoing in the large chamber as droplets of muck reflected crystal light. Crystal, my spectral companion, hovered silently like a physical thought.
+
+The suffocating darkness clung to every surface of the room, to my clothes, arms, and hands, smothering me despite the torch's feeble glow. My heart raced as I approached the torch and removed it from its sconce, the only lifeline in this abyss. With each step, I edged closer to the wall, hoping—desperately—for an exit. The flames of the torch flickered and merged with Crystal’s light, casting eerie shadows and revealing the sewage seeping from the walls, unnervingly flowing in the wrong direction.
+
+As I neared the exit, a sudden thought halted me in my tracks. A dark halo surrounded her, my death boons, physically shimmering like stardust. That had not been around her before. [Hello Rod. How are you feeling?] I blinked. And then I remembered. The rats. Those goblins. Death. I shuddered. I still felt a shadow of lingering pain where the hammer had crashed into my head. At least I got death boons out of the deal. “Death boons.” I gasped out the word like a lifeline.
+
+[Yes, you have 7 death boons to spend to get stronger. Would you like to do so?]
+
+“Hey, Crystal. How do I spend my Death Boons?”
+
+[That was an excellent first run, Young One. Good work. As for your question, you spend Death Boons here at the entrance, so thank you for not leaving the entrance yet. Your run starts once we leave this first room. ]
+
+[However, all in all, this was an impressive streak. Most Penitents die to the Necromancer on their first try. While indeed a challenge, we can earn our freedom together.]
+
+"You're trapped here too, Crystal?"
+
+[Of course, all creatures in Penance must seek redemption. Very few reach for or achieve it, but we are all governed by the same rules. It is why creatures, chests, crates, and even torches appear again. We are all just prisoners here. Before we get sidetracked again, let us discuss the Death Boon store.]
+
+Stat Boons
+
+Boon
+
+Cost
+
+Current Stat
+
+Effect
+
+Potency
+
+1
+
+0
+
+Adds 1 point of damage to all physical attacks
+
+Insight
+
+1
+
+0
+
+Adds 1 point of damage to all magical attacks
+
+Alacrity
+
+1
+
+0
+
+Adds 1% to your movement speed every level.
+
+Vitality
+
+1
+
+4
+
+Adds 5 points of health per level
+
+Finesse
+
+1
+
+0
+
+Adds 5 points of stamina per level
+
+Arcanum
+
+1
+
+0
+
+Adds 5 points of mana per level
+
+Defense
+
+1
+
+0
+
+Blocks 1 point of damage from all physical attacks
+
+Magic Defense
+
+1
+
+0
+
+Blocks 1 point of damage from all magical attacks
+
+Precision
+
+1
+
+5
+
+Precision is the likelihood of your attacks hitting your target. Each point higher than the target’s evasion adds a 5% chance to hit.
+
+Evasion
+
+1
+
+2
+
+Evasion is the likelihood of your opponent's attacks missing. Each point higher than the target’s precision adds a 5% chance to dodge.
+
+[Death Boon Stat costs start at 1, then scale by 5, so 1 for 1, 5 for 2, 10 for 3, 15 for 4, etc.]
+
+[Player classes.]
+
+Player Classes
+
+Boon
+
+Cost
+
+Effect
+
+Mage
+
+3
+
+Starting Equipment: Mana bolt spell. Wooden Mage Staff.
+
+Stats: Vitality: 4, Finesse: 2, Arcanum: 8, Insight: 5.
+
+Penalty: Cannot equip physical weapons, cannot equip iron armor.
+
+Fighter
+
+3
+
+Starting Equipment: Iron sword, iron shield, skill Shield bash.
+
+Stats: Potency: 3, Vitality: 10, Finesse: 6, Evasion: 2.
+
+Penalty: Cannot equip magic items.
+
+Cleric
+
+3
+
+Starting Equipment: Iron mace, shield, and a basic heal spell.
+
+Stats: Potency: 2, Vitality: 6, Finesse: 4, Arcanum: 6.
+
+Penalty: Cannot equip bladed weapons.
+
+Urchin
+
+3
+
+Starting Equipment: 2 iron daggers, Unlock ability,
+
+Stats: Potency: 4, Vitality: 2, Finesse: 10, Precision: 10, Evasion: 10.
+
+Bonus: Starts with innate ability Evade.
+
+Archer
+
+3
+
+Starting Equipment: Wooden short bow, quiver, 20 arrows. Skill Aim.
+
+Stats: Potency: 4, Vitality: 4, Finesse: 10, Precision: 10, Evasion: 8.
+
+Bonus: Starts with innate ability Evade.
+
+Crusader
+
+3
+
+Starting Equipment: Iron sword, iron shield, Basic heal spell.
+
+Stats: Potency: 4, Vitality: 10, Finesse: 4, Arcanum: 4, Defense: 2, Precision: 4, Evasion: 4.
+
+Bonus: Has the guiding light spell.
+
+Barbarian
+
+3
+
+Starting Equipment: Two-handed ax, skill Cleave.
+
+Stats: Potency: 4, Vitality: 10, Finesse: 6, Defense: 2, Precision: 6.
+
+Penalty: Can not equip shields. Can not equip helms or cuirasses.
+
+Conjurer
+
+3
+
+Starting Equipment: Elemental summon spell. Wooden Mage Staff.
+
+Stats: Vitality: 2, Finesse: 2, Arcanum: 8, Precision: 2,
+
+Penalty: None specified.
+
+[Base classes: Each Base class costs 3 Death Boons to unlock. After death, class is unavailable for three runs. Classes are unlocked randomly. Clear the second floor for advanced classes.]
+
+Dungeon Boons
+
+Boon
+
+Cost
+
+Toggle Active
+
+Effect
+
+The Vault
+
+5
+
+N/A
+
+It gives you a place to store items and gold between runs. The vault can be accessed at the entrance of every floor
+
+Audible Text
+
+2
+
+N/A
+
+I will read out alerts audibly so You can hear them while fighting. It can be toggled on and off.
+
+Turn-Based Combat.
+
+20
+
+N/A
+
+Pauses combat so that everything takes place in turns makes natural evasion impossible; you must rely on actual evasion stat. It can be toggled on and off.
+
+Identify Enemy:
+
+20
+
+N/A
+
+Enemy stats are highlighted and visible above enemies. Requires Scan Skill to use. It can be toggled on and off.
+
+Time Keeper.
+
+2
+
+N/A
+
+A stopwatch shows the time in the upper right corner of your vision. Essential for speed runs. It can be toggled on and off.
+
+Dungeon Map
+
+1
+
+N/A
+
+This is a map of the floor you are on. It also shows secret rooms. It can be toggled on and off.
+
+“If there's a place you got to go. I'm the one you need to know. I'm the Map. I'm the Map. I'm the Map.”
+
+Challenge Mode:
+
+200
+
+N/A
+
+Enemies have triple stats and better weapons but drop better loot and more Death Boons. It can be toggled on and off. “Challenge Accepted!” ~ Photonius The Dead.
+
+[Unlock 5 more Dungeon Boons by purchasing all of the basic boons.]
+
+Quest Shop
+
+Quest name
+
+Cost
+
+Type
+
+Description
+
+Reward
+
+Rat teeth
+
+1
+
+Collection
+
+Collect 5 rat teeth.
+
+5 Death Boons
+
+Necromancer Eyes
+
+5
+
+Collection
+
+Collect 20 Necromancer Eyes.
+
+25 Death Boons
+
+Goblin Ears
+
+10
+
+Collection
+
+Collect 50 Sewer Goblin ears.
+
+50 Death Boons
+
+[Different quests become available as you move onto the 3rd, 5th, and 7th floors.]
+
+The text floated in the air on a canvas parchment that I could physically touch, making it much easier to read the large amounts of text suddenly before me. As soon as I finished reading the parchments before I could say anything, Crystal started to "speak" again.
+
+[More categories and wider availability of Death Boons become available as you reach lower levels of Penance. I suggest you first spend your Death Boons to unlock a class, but you can purchase any Death Boon you see fit.]
+
+“Alright, let's use those points to purchase a class then. How does it work exactly?”
+
+[It could be more convenient, but all Class boons are based on a die roll.]
+
+My brow furrowed, heat rising in me. I buried the emotion immediately, fear taking its place. I didn’t want to upset Crystal now that it was actually being helpful. “Is everything here left to chance? What if I end up with something lame like the barbarian or cleric classes?”
+
+[Then, you will have to run through without a class. But neither of those classes is lame. And a starting weapon is a huge benefit that makes the Torch Bearer class pale in comparison.]
+
+“Well, I still hope I don’t get either.”
+
+[Of course, Rod. Now, would you like to purchase a class?]
+
+“Yes, let's roll the die.” The die tumbled through the air; each bounce sending out waves of sewage.

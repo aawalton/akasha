@@ -1,0 +1,121 @@
+Chapter Sixteen: A Devilish Idea
+
+~Run 3, Boss Chamber, Floor 1, Sewers of Aerlyn~
+
+My heart hammered against my chest, a cold shiver racing down my spine as my eyes snapped open wide, fixated on what I knew would spell the end of my third run. I was already in the boss's room. Relief washed over me, though, when I noticed the 3rd Goblin was still alone. He was laboriously dragging my lifeless form onto the altar. Then, his fingers fumbled at the clasps of my worn armor. Giving up, he moved behind the altar, where the bodies of the two other Goblin bosses lay. Their skin was pallid and unyielding to the touch of their still-living companion, who seemed confused by their state.
+
+Before me, in the platform grate, was a square of rock, obviously mismatched from its surroundings—a telltale sign of an arrow trap lying in wait. Memories of the two previous runs flashed through my mind—each one a vision of me stupidly walking into the same trap and getting hurt. This time was different. A devilish idea entered my mind, and I stepped forward, triggering the trap.
+
+The die rocketed across the ground, its roll echoing with ominous rattles as time halted. Each movement felt like a battle against an unseen current, my limbs pushing through an invisible, thickening resistance. My chest heaved as I struggled to draw in air, fighting the rising tide of panic that threatened to overwhelm me. I gaped for breath, but my lungs clenched against a suffocating emptiness as if the air had turned to vacuum around me.
+
+Then, the world gradually lurched back into motion. Each second stretched out endlessly as the arrows crept closer. With a forced calm that belied my racing mind, I stepped out.
+
+Crystal’s voice chimed in as I cleared the trap, starkly contrasting my pounding heart: [You dodge the arrow trap.]
+
+Relief washed over me, quickly replaced by annoyance at the movement of the remaining Goblin. I thought for a moment he would dodge, but instead, the arrows sliced through the air with lethal intent, thudding into Slikk’s armored chest. They betrayed their purpose as they clattered ineffectually to the ground. I stared, mouth agape. "What? Why didn’t those arrows do anything to him?"
+
+Crystal’s voice cut through the chaos: [Slikk has a defense higher than five, making him invulnerable to your current attack methods. But I cannot say his stats until you unlock the bestiary Death Boon or Scan skill.]
+
+I froze briefly, frustration mounting at my helplessness, even as Slikk charged ferociously. His battle cry tore through the air, a primal sound of rage as he hoisted his iron pipe like a warrior of old, the metal glinting ominously in the dim light. A die clattered across the cobblestone floor, echoing in the sudden stillness as time froze, trapping everything in a surreal tableau.
+
+As time thawed, I sprang into action, sliding with calculated precision around Slikk’s arc of attack, every muscle coiled and ready. "Crystal, please, I need help here! How do stats work?"
+
+Crystal's voice, always so composed, held a note of mock exasperation: "Alright, here's the crash course, but couldn’t you have just read the chart or asked?"
+
+"I did ask earlier!" I rolled my eyes, anger flickering despite the peril.
+
+Crystal’s voice, still slightly mocking, took on a tinge of concern: [Alright, I’ll give you the quick version so you can focus. I can remember it being challenging to multitask when I was human.]
+
+I frowned at Crystal’s words, putting myself between Slikk, the altar, and the corpses. "What’s that supposed to mean?"
+
+Slikk bounded over the altar, swinging his pipe down in an overhand swing. As time ground to a halt, the world around me seemed to dip into a surreal stillness, muffling every sound as if I were underwater. A die tumbled through the air, its faces blurring before it landed, sealing my fate. But the fact that time hung suspended belied the result before I could see it, and I hurried back. Slikk roared in frustration as I dodged, his attack missing by inches. He then gestured rudely and spoke in his strange language.
+
+[You dodge Slikk’s attack.]
+
+My daggers struck with a thud against Slikk’s tough hide armor, the impact jarring my arms as if I’d struck solid stone.
+
+I grunted in frustration as my daggers bounced off Slikk’s back, disheartened to realize they hadn’t even made a dent.[You deal no damage due to enemy defense,] Crystal announced.
+
+Weaving around the sewer, I listened as Crystal finally made good on her promise.[Let’s talk Def and Vit. Def is a 1 to 1 stat. One defense blocks one damage,] her voice was quick and urgent, trying to convey the info without distracting me. [Certain types of armor add a penalty per point of defense to Alacrity or Precision. This penalty does not apply to the Urchin class. Vit adds five health per point.]
+
+As Crystal explained the stats, my mind raced, recalculating my strategy. Brute force wouldn't work—I needed a new angle. I eyed Slikk’s hulking, rotten form, his front a canvas of scars and battle-worn cloth and leather armor. He was about to jump over the altar again. I dashed forward, eyeing my corpses.
+
+"Can I loot corpses and crates mid-battle?" I asked Crystal as I ducked under Slikk’s leap. The metallic scent of blood and rust filled my nostrils, overpowering the ever-present haze of sewage.
+
+[Yes...] Crystal began, but her voice was drowned out by the rush of thoughts in my head. The staff! If I could loot it, I’d be able to kill this guy quickly. The world narrowed to just me and the potential treasure ahead; everything else, even Crystal’s caution, faded into a blur.
+
+As Slikk lunged, I braced for the familiar stillness of time freezing, but it never came. Confusion and panic clashed in my mind as his club came down on my head. I stumbled forward and kicked my corpse in the head.[You take seven damage. You are not stunned.]
+
+A cold knot of fear clenched in my stomach as I pulled my foot away, its icy grip tightening with each heartbeat. I barely had time to process the grotesque reality of my actions—far surpassing the grave robbing of my past life. That memory flickered through my mind, a ghostly echo from a once-lived life, slipping away as quickly as it came.
+
+A torrent of item notifications flooded my vision and ears as Crystal rattled off the list of items.
+
+Distracted by the notifications, I barely noticed as Slikk swung his weapon. My heart pounded as time froze. I lunged aside, not wanting to experience the thundering pain again. Gasping for breath, I called out to Crystal. "Crystal, please equip the Staff of The Necro Bolt on my right hand."
+
+[I’m sorry, Rod, but you can’t equip weapons from your inventory during combat.]
+
+I gulped. I was doomed.
+
+Corpse Run-1
+
+Gold: 50
+
+Name
+
+Amount
+
+Condition
+
+Effect
+
+Description
+
+Iron Helm
+
+1
+
+10/20
+
+Def + 2
+
+A well-crafted iron helm that offers solid protection for the head. Its reinforced structure provides excellent defense against blunt and sharp attacks.
+
+Iron Short Sword
+
+1
+
+16/20
+
+Deals 1-6 damage
+
+A sturdy iron short sword with a simple yet effective design. The blade is sharp and well-balanced, perfect for quick strikes and precise cuts. “Careful, its sharp!” 4 fingers Lasalle.
+
+Iron Mace
+
+1
+
+14/20
+
+Deals 1-6 damage
+
+A heavy iron mace with a solid, spiked head. This weapon deals devastating blows, capable of crushing armor and bone alike.
+
+Staff of the Necrobolt
+
+1
+
+17/20
+
+Deals 1-20 Necrotic damage. It has a 10% chance to blind target.
+
+An ominous staff carved from dark wood and adorned with eerie runes that glow with an otherworldly light.
+
+Empty bottle
+
+1
+
+0/0
+
+You can put potions in this.
+
+An empty bottle.

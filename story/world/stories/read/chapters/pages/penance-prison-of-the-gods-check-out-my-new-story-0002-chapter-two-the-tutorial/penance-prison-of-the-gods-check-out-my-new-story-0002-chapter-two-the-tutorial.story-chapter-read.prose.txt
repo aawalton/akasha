@@ -1,0 +1,317 @@
+Chapter Two: The Tutorial
+
+My torch had gone out during the fight, yet shadows still flickered across the sewage-filled room. Glancing around, I tried to find the source. I couldn’t see a thing, and I flailed about in a panic, reaching out to find a wall or something to guide my steps.
+
+I sloshed around, my steps kicking up sewage, which looked brown in the red light.
+
+Wait. A faint red glow permeated the room, its presence ominous.
+
+Deep breaths. You’re okay. I stared at the rat, which was somehow visible to me despite the light being so dim.
+
+Wiping the sweat from my brow, I noticed a crate tucked beside the door, now visible in the quickly increasing light. Grinning like the cat that caught the canary, I rushed forward, sewage kicking up into the air but flying up to the ceiling instead of crashing down.
+
+The red light grew brighter as I approached, illuminating the crate. It was ancient, its rusted screws and nails loosely holding the boards together as if an amateur woodworker had let his apprentice make it. Splinters dug into my fingers as I eagerly pried the lid open, ignoring the exposed rusty nails. The waterlogged box shed fragments as it clattered back, pelting the wall and floor like a tin roof in a hailstorm.
+
+The light pulsed again, almost blinding the otherwise dark room. As I reached inside, everything changed. But it wasn’t the item in the chest that startled me. No, it was the feeling of being watched. I turned around; there was nothing there, although something was different. The red light filled the room, casting bizarre shadows. The sensation of being watched grew worse and worse. The light became a physical presence, pushing me down and collapsing me to my knees. When I thought I could bear it no more, I looked up and saw what was causing the light.
+
+[Welcome, Rod, to Penance.] For the second time in a minute, my knees buckled in shock, and I fell backward into the muck. The parchment that appeared this time differed from earlier, though my memory of that was already fading. As the new words materialized mid-air, my heart raced.
+
+[Greetings! I am your lifeline, your beating heart, the blood in your veins. As long as you have me, you shall not perish, and should you hold on to your sanity… well, we can get to that later.  Would you like to view the tutorial?]
+
+I stood frozen in disbelief for a moment, trying to process the situation, before croaking a reply, “Yes, I would like to view the tutorial.”
+
+[Great! I am your Life Crystal. I cannot be destroyed. I aim to keep track of your stats, skills, quests, inventory, and other minutiae of your life in Penance. Let me show you your current stats page.]
+
+I watched as the text transformed into a detailed page full of words and numbers that laid out everything about my current state. Line after line, it was overwhelming, the data cascading too quickly to grasp.
+
+Rod
+
+Stat:
+
+Level
+
+Effect:
+
+Health
+
+17/20
+
+Health is burned as fuel to keep you from dying.
+
+Stamina
+
+0/0
+
+Stamina is burned as fuel to make skills function
+
+Mana
+
+0/0
+
+Mana is burned as fuel to make skills function
+
+Potency
+
+0
+
+Adds 1 point of damage to all physical attacks
+
+Insight
+
+0
+
+Adds 1 point of damage to all magical attacks
+
+Alacrity
+
+0
+
+Adds 1% to your movement speed every level.
+
+Vitality
+
+4
+
+Adds 5 points of health per level
+
+Finesse
+
+0
+
+Adds 5 points of stamina per level
+
+Arcanum
+
+0
+
+Adds 5 points of mana per level
+
+Defense
+
+0
+
+Blocks 1 point of damage from all physical attacks
+
+Magic Defense
+
+0
+
+Blocks 1 point of damage from all magical attacks
+
+Precision
+
+5
+
+Precision is the likelihood of your attacks hitting your target. Each point higher than the target’s evasion adds a 5% chance to hit.
+
+Evasion
+
+2
+
+Evasion is the likelihood of your opponent's attacks missing. Each point higher than the target’s precision adds a 5% chance to dodge.
+
+[Your current equipment page:]
+
+Equipment
+
+Slot
+
+Name
+
+Effect
+
+Condition
+
+Right hand
+
+Torch
+
+Deals 1-4 physical damage. 5% chance of causing burn effect on target
+
+10/10
+
+Left Hand
+
+Nothing
+
+Ring Right
+
+Nothing
+
+Ring Left
+
+Nothing
+
+Neck
+
+Nothing
+
+Head
+
+Nothing
+
+Chest
+
+Nothing
+
+Legs
+
+Nothing
+
+Feet
+
+Nothing
+
+[And your inventory,]
+
+Inventory
+
+Name
+
+Amount
+
+Condition
+
+Effect
+
+Description
+
+Torch
+
+1
+
+10/10
+
+Deals 1-4 physical damage. 5% chance of causing burn effect on target
+
+A simple wooden torch wrapped in oil-soaked rags. When ignited, it produces a flickering flame that casts a warm, golden light in a small radius.
+
+Gold
+
+0
+
+N/A
+
+The Currency of Penance.
+
+A simple gold coin on one side is the visage of the Merchant of Death, and on the other is a Thumbs up.
+
+Death Boons
+
+1
+
+N/A
+
+Death Boons are power. Spend them wisely.
+
+A metaphysical currency provided by the Merchant of Death. The currency allows you to get progressively stronger as you face new threats in Penance.
+
+[And your quest log:]
+
+Quest Log
+
+Quest name
+
+Type
+
+Description
+
+Reward
+
+[Escape]
+
+Floor
+
+Escape the sewers.
+
+Access to the second floor. Access to new Boons
+
+[And—]
+
+“Wait! Stop!" My head spun, and the barrage of information left me dizzy. I rubbed my eyes as the display mercifully faded away.
+
+[I am sorry. Is this more to your liking?] Somehow, the words scrolling by on the page seemed slower and apologetic. All of the pages came back, and I took a minute to see what they said.
+
+“Yes, much better.” I squinted to read the information before me.
+
+Do I need glasses? But I shook my head, and the text cleared.
+
+Relieved that the torrent of information had stopped, I took a deep, calming breath and said, "I got the basics now; how about you tell me more about exploring Penance? Any idea how Elric made it out of here?"
+
+There wasn’t even a pause as a new scroll unfurled, and more text appeared in front of me.
+
+[As the name suggests, Penance was a place for souls who felt irredeemable at the time of death but weren’t quite as evil as those bound for the Depths.]
+
+“I know I stole a few times, but why here? Surely, I’m not that evil?”
+
+The text continued, almost as if it ignored my complaint.
+
+[There had to be something in your life, an unfinished purpose, or some destiny you never fulfilled because of the evil path you went down. And, again, it was more than just stealing from your friend when you were 10. He didn’t even care that you did. His mother bought him a new pair of shoes the next day.]
+
+“How did you know that?” Memories of the past choked my words, guilt cold in my mind like fresh morning dew.
+
+For six years, I carried that burden—my first crime of many. The memory surged and then faded, the image of worn leather shoes dissolving into darkness. I blinked, the present rushing back.
+
+[I told you; I am your Life Crystal. I know everything there is to know about you. It is part of your Penance. I am here to assist you in learning about yourself and making yourself better as you climb. Each floor has a different theme, and the creatures, monsters, and foes change on every floor. As you progress, monsters will get stronger or replaced by newer, more challenging ones. Soon, the power of what you face will overwhelm you. And you will die.]
+
+“Wait, what? Isn’t the whole point of this that I am already dead? That my soul is seeking Penance before moving on or returning to Equiem?” My thoughts surged.
+
+I had already died, but I didn’t know how I could face it a second time, let alone a third, fourth, or fifth time. I closed my eyes and steadied myself against the wall.
+
+[You are correct, Rod. You are dead. And you will die again. Except when you die here, you will return to your starting point. You will find Penance changed. The monsters and loot will be respawned. Your gold, armor, and inventory will be on your corpse wherever you die. The only difference will be your death boons.]
+
+My eyes flashed to the one on my inventory page, still visible somewhere to my right. “How did I get that? What is it exactly?”
+
+[It’s the tutorial] I had a sensation like the Crystal was rolling its eyes, [Every tutorial ever comes with free stuff.]
+
+I stared blankly at the parchment. I was being mocked by something that wasn't even alive.
+
+What is this place? I was going to say it, but more words appeared.[Death Boons are power, Rod. They are the only way to reach the end of Penance. To find Peace. They range from buffs to your health, permanent stat changes, and powerful classes that will guide you through the tower.]
+
+“Classes? Like classes in school?”
+
+[I am sorry for the confusion, Rod.] Even when it was apologizing, I felt mocked. Heat prickled my neck, but I did my best to ignore the rising emotion.
+
+[Classes are a term for archetypes of power: a torchbearer, a rogue, a knight, a mage. With Death Boons, you can change who you are innately. Become the most powerful being you’ve ever known, and make your way to the heart of Penance. When you die, and again, you will die, I will guide you through the process of using death boons.]
+
+“How do I earn them?”
+
+[Various methods, Rod. There are too many methods to list, but you will discover plenty, I am sure. You seem to have already discovered one method: Killing. How did you already kill something?]
+
+The parchment paused, waiting for a response.
+
+“A rat attacked me before you showed up, but I couldn’t do a thing to it. I missed with every torch swing, and it bit my hand. It really hurt.” I rubbed the spot where the rat bit me, noticing the puncture wound and pain were gone.
+
+[Ah. That is because you are not a Torchbearer and therefore take a -10 penalty to your precision stat when using a Torch.]
+
+“A what now?”
+
+[A torchbearer. It is the first class available to you. Would you like to unlock the Torchbearer class for 1 death boon?] [Yes/No]
+
+“Uhhh, I guess?"
+
+[Congratulations! You have unlocked the Torchbearer Class. You may now use a torch as a weapon without a penalty to your precision stat. That is the end of the available tutorial info. I suggest you leave this room after looting your crate.]
+
+I didn’t know what I expected after hearing Crystal’s spiel, but it wasn’t that. Nothing. Nothing happened. I didn’t feel like I knew how to wield a torch. I didn’t feel different. I frowned, staring at the flaming object in my hand.
+
+“You call that a tutorial? You didn’t tell me anything! How do I equip things? How do I loot monsters, crates, or–or chests!” I could feel my anger bubbling in my chest like a kettle about to overflow.
+
+Was I always this angry at everything?
+
+[Do you not have crates in Equiem? You lift the lid and take the contents out.] Each word appeared on the scroll with painstaking slowness, as if Crystal was spelling things out for a little kid. Heat crept up on my neck again, the kettle boiling once more, and then— I laughed, my anger burst in an unexpected chuckle.
+
+Was I getting worked up over this? Really?
+
+[As for monsters, simply touch the corpse with a hand or foot.]
+
+I reached into the crate, and believe it or not, a giant 100-sided die bounced across the floor in front of me. The massive die bounced a few times before rolling to a stop in the air.
+
+[You have obtained Leather Armor. You have received 1 death boon for looting your first crate.] I gazed at the supple, leather chest piece, its bulk heavier than the clothing I was used to, which, of course, was because it was armor. It hit me then, holding on to magically appearing armor, that I was dead.
+
+The weight of realization hit me, and I dropped to the floor, strength draining from my limbs. I curled into a ball, holding my legs against me.
+
+[What are you doing?] Crystal’s parchment fluttered in front of me, a silent observer of my despair, but I waved it away.
+
+I hadn’t noticed, but the foot-thick layer of sewage on the floor of the room had slowly but surely disappeared the longer I spent there. Instead of splashing into the muck, I rocked back and forth on a slightly wet stone floor. My gaze was fixed on the far wall, my eyes wide and hollow, unblinking as if the truth had turned me to stone.
+
+A heavy silence enveloped the room, broken only by the soft water drip mirroring my sinking heart. There had been so many things I wanted to do with my life. I was going to leave the city and go… to go to… to somewhere that wasn’t home. I wanted to be a Swashbuckler fighting bad guys and making a name for myself. I was going to fall in love. Get rich and own a castle! All those aspirations, once bright beacons lighting my future, now felt like distant stars, cold and unreachable. But now, I was in Penance. And I was never going to leave.

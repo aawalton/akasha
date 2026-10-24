@@ -1,0 +1,239 @@
+Chapter Twelve: A Grim Stroke Of Luck
+
+~Run 2, Boss Chamber, Floor 1, Sewers of Aerlyn~
+
+The chamber was cloaked in a musty odor, its floor flooded by slowly drained sewage that seeped up the walls on all sides of the room in sinuous streams. In the center of the room, on a small, sewage-encircled platform, stood three grotesque goblins, absorbed in a ritual. Their gnarled fingers danced in the air as they chanted in a guttural tongue, focusing intently on a strange, pulsating artifact before them.
+
+A jolt of recognition struck me as I noticed the object of their ritual: my corpse. A pit formed in my stomach as I stared into my own dead eyes. Blood covered my body like a sheen of sweat as the goblins dug away at the body for the ritual.
+
+The sight of my corpse sent a surge of hot pain through my body, and I froze. The body was intimately connected to me yet alien in this sinister context. What are they trying to do to me? The realization that these creatures were toying with me sent shivers down my spine and made my heart race.
+
+My initial bravado, fueled by a plan to charge in with a battle cry and an ax held high, dissipated, replaced by a gnawing, inexplicable dread that clawed at my mind like the goblins tearing into my corpse.
+
+“What are they doing to me?” This time out loud to Crystal, keeping my voice as low as possible and hoping for a quick response. Instead, the chamber's silence deepened, and my hair stood on end as the goblins’ attention shifted. Their glaring black eyes, void of discernable emotion, slowly turned to meet mine.
+
+Time seemed to stand still. Neither the goblins nor I were ready to break the status quo. My fear was palpable now, a force that threatened to overwhelm my confidence in the barbarian class, but the momentary standstill ceased.
+
+I pushed back my fear with adrenaline and rushed forward, ready to test the newly acquired cleave skill. As I charged, it felt like fate itself had my back as three dice tumbled through the air. My ax swung with all the might I could muster, aiming to cleave through the goblin trio. With his unsettling agility, Drip ducked at the last second, evading the deadly arc of my weapon. But Gurgle and Slikk weren’t as quick. The blade of the ax met its mark, slicing through their chests in a brutal, decisive motion.
+
+[Drip has dodged your attack. You deal 3 damage to Slikk and 14 to Gurgle.]
+
+The impact sent a shockwave up my arms, the visceral reality of the battle setting in.
+
+For a fleeting moment, I reveled in the success of my strike and risked a glance at the notification to see I had dealt an excellent chunk to Gurgle and a pittance to Slikk. And while I couldn't see his health, I had a feeling the mage had to be almost dead, right?
+
+The triumph was short-lived; however, Drip's eyes, now wide with fear and rage, locked onto mine. I steadied myself, ready for his counterattack, the weight of the ax reassuring in my grip.
+
+No sooner had my determination steeled than the Goblins launched their coordinated assault. The dice rolled. Gurgle unleashed a beam of poison, which struck me squarely in the right cheek– a grim stroke of luck that it missed my eyes. At the exact moment, Slikk’s club found my left shoulder, sending rivulets of pain up and down my arm. But it was the attack from Drip that broke my determination. Somehow, the demon of speed had circled behind me and slashed at my back with his daggers.
+
+The pain from their attacks was sharp and immediate, flooding my brain so thoroughly I couldn't see. Then, as abruptly as it had come, the pain vanished, leaving me both relieved and bewildered. Why did this place even have pain if it just made it disappear instantly? My mind raced as I grappled with the surreal rules of this place. I didn’t mind the pain disappearing, but I was as disoriented as I was distracted.
+
+[Slikk deals 14 damage. You are stunned for 2 seconds. Gurgle deals 3 damage, and you are poisoned and will take damage every time you attack. Drip deals 5 damage.] I stumbled as my body locked up, and I fell face-first into the metal grate. Two seconds felt like an eternity in a battle, but they didn't attack, so I rolled to the side, planning as I did so.
+
+Quickly, I did the math, I was around 25-30 hitpoints. I did not want to waste time and let them get another attack in by trying to ask Crystal, so without hesitation, I leaped back to my feet in front of them and activated Cleave again. The dice rolled.
+
+[You deal 9 damage to Drip, 7 damage to Slikk, and 10 damage to Gurgle. Gurgle has died. You have gained a Death Boon. You take 6 points of Poison damage.]
+
+Before they could attack again, I shouted. "Crystal, what's my health?"
+
+The bosses attacked before I got the notification. Slikk bashed my stomach, knocking the wind out of me. And Drip once again teleported behind me with his daggers. A fiery lance of pain shot through my side, so sharp and sudden it felt like he must have hit my kidneys. My vision darkened, a symphony of agony crescendoing through my body, then abruptly, eerily, fading into nothing. The pain vanished.
+
+[Slikk deals 11 damage. You are stunned for five seconds. Drip deals 1 point of damage. You are not bleeding. You have 12 health remaining.]
+
+I blinked. Twelve health? Stunned? I couldn't move a muscle. Panic clawed at my chest. Despite the raw power of this class, the relentless bosses had destroyed any advantage I held, causing a grim reality to set in. Blood pounded in my ears. I stared at the boss, waiting for him to attack, but it was like he knew I knew I was at his mercy. This next move would be decisive. If I could survive the next 5 seconds I could probably kill Slikk. I waited as the seconds counted down. They both attacked.
+
+[Slikk deals 3 damage. Drip deals 2 damage. One second remaining on stun.]
+
+With my health and stamina waning, I had just enough for one more strike with Cleave if only I could time it right. I jumped back as the stun faded, and I activated the ability.
+
+[You deal 2 damage to Slikk. You take 4 points of poison damage.]
+
+A primal scream tore from my throat, displaying my frustration at my lack of damage. Each swing of my weapon felt like a tree branch against steel. Just like last time, I was doing a pittance of damage. I gritted my teeth and waited for the attack. Before, wondering if I could use cleave again without waiting, I did precisely that.
+
+[Critical hit! Damage x 2 You deal 30 damage. You have killed Drip. You have gained a Death Boon. You deal 8 damage to Slikk. You have taken 1 point of poison damage.]
+
+Before I could react, Slikk slammed his hammer down on my head.
+
+[Slikk deals 13 damage. You are dead. You have earned two death boons.]
+
+End of Run 2.
+
+Rod: Rank 1, Barbarian
+
+Stat:
+
+Level
+
+Effect:
+
+Health
+
+0/55
+
+Health is burned as fuel to keep you from dying.
+
+Stamina
+
+3/30
+
+Stamina is burned as fuel to make skills function
+
+Potency
+
+5
+
+Adds 1 point of damage to all physical attacks
+
+Vitality
+
+11
+
+Adds 5 points of health per level
+
+Finesse
+
+6
+
+Adds 5 points of stamina per level
+
+Defense
+
+2
+
+Blocks 1 point of damage from all physical attacks
+
+Precision
+
+6
+
+Precision is the likelihood of your attacks hitting your target. Each point higher than the target’s evasion adds a 5% chance to hit.
+
+Inventory
+
+Death Boons: 8
+
+Gold: 288
+
+Name
+
+Amount
+
+Condition
+
+Effect
+
+Description
+
+Torch
+
+3
+
+10/10
+
+Deals 1-4 physical damage. 5% chance of causing burn effect on target
+
+A simple wooden torch wrapped in oil-soaked rags.
+
+Gold
+
+288
+
+N/A
+
+The Currency of Penance.
+
+A simple gold coin on one side is the visage of the Merchant of Death, and on the other is a Thumbs up.
+
+Death Boons
+
+8
+
+N/A
+
+Death Boons are power. Spend them wisely.
+
+A metaphysical currency provided by the Merchant of Death.
+
+Dagger of Penetration
+
+1
+
+15/15
+
+Deals 3-7 damage. Ignores 2 points of defense.
+
+A sharp and durable iron dagger with a well-balanced design, perfect for quick and precise strikes.“A very sharp dagger.” — Photonius The Dead.
+
+Iron Greataxe
+
+1
+
+/25
+
+Deals 4-14 damage
+
+A massive iron greataxe with a double-edged blade, designed for powerful and sweeping strikes.
+
+Copper Mace
+
+1
+
+15/15
+
+Deals 1-6 damage 5% chance to stun.
+
+A robust copper mace with a heavy, rounded head.
+
+Arrows
+
+5
+
+4/5
+
+Allows you to fire a bow.
+
+A simple wooden arrow with a stone arrowhead.
+
+Rat Teeth
+
+1
+
+NA
+
+None.
+
+The Incisor(s) of a Giant Rat. Who knows? If you collect a lot, something good may happen.
+
+Rat Meat
+
+1
+
+NA
+
++5 health 80% chance of poison if consumed.
+
+Juicy, full of protein, and only tastes a little like sewage! Who knows? If you collect a lot, something good may happen.
+
+“Tastes like chicken!” – Photonius the Dead
+
+Cloth Shirt
+
+1
+
+10/10
+
++1 defense.
+
+It's a shirt! Made of Cloth! Woah!
+
+– My friend went to Penance, and all I got was this lousy T-shirt!
+
+Leather greaves
+
+1
+
+15/15
+
++1 defense.
+
+A worked and treated pair of leather greaves covering the waist down to the ankles.
