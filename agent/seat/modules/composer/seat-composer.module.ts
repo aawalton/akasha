@@ -132,9 +132,17 @@ export const seatComposer = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Images a message taken back attached are attached again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Words returned for a cancel then refused are taken out again unless edited.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Typing in the box tells the seat's page the person signed in is typing.",
     },
   ],
   createdAt: "2026-09-24T18:02:40.725Z",
-  updatedAt: "2026-10-24T22:38:18.085Z",
+  updatedAt: "2026-10-24T23:24:02.293Z",
 } as const satisfies Module

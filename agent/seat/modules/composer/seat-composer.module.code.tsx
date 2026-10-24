@@ -58,10 +58,27 @@ export function dropDraftSent(shelf: Shelf | null, key: string, sent: string): u
   return undefined
 }
 
-export type Returned = { readonly key: number; readonly text: string }
+export type Returned = {
+  readonly key: number
+  readonly text: string
+  readonly files?: readonly File[]
+  readonly revoked?: boolean
+}
 
 export function draftWith(draft: string, returned: string): string {
+  if (returned === "") return draft
   return draft.trim() === "" ? returned : `${returned}\n\n${draft}`
+}
+
+export function draftWithout(draft: string, merged: string, before: string): string {
+  return draft === merged ? before : draft
+}
+
+type Given = {
+  readonly key: number
+  readonly before: string
+  readonly merged: string
+  readonly files: readonly File[]
 }
 
 export function enterSends(event: Parameters<typeof sendsNow>[0], touch: boolean): boolean {
@@ -201,14 +218,23 @@ function useAttached() {
     },
     []
   )
-  const add = (event: ChangeEvent<HTMLInputElement>) => {
+  const restore = (files: readonly File[]) => {
     const room = Math.max(0, IMAGES_HELD - held.current.length)
-    const added = [...(event.target.files ?? [])].slice(0, room).map((file) => {
+    const added = files.slice(0, room).map((file) => {
       keyed.current += 1
       return { key: keyed.current, file, url: URL.createObjectURL(file) }
     })
+    if (added.length > 0) setAttached([...held.current, ...added])
+  }
+  const add = (event: ChangeEvent<HTMLInputElement>) => {
+    const files = [...(event.target.files ?? [])]
     event.target.value = ""
-    setAttached([...held.current, ...added])
+    restore(files)
+  }
+  const drop = (files: readonly File[]) => {
+    const gone = new Set(files)
+    for (const one of held.current) if (gone.has(one.file)) URL.revokeObjectURL(one.url)
+    setAttached(held.current.filter((one) => !gone.has(one.file)))
   }
   const remove = (key: number) => {
     for (const one of held.current) if (one.key === key) URL.revokeObjectURL(one.url)
@@ -218,7 +244,7 @@ function useAttached() {
     for (const one of held.current) URL.revokeObjectURL(one.url)
     setAttached([])
   }
-  return { attached, add, remove, clear }
+  return { attached, add, remove, clear, restore, drop }
 }
 
 function Thumbnail({ one, remove }: { one: Attached; remove: (key: number) => void }) {
@@ -273,20 +299,39 @@ export function SeatComposer({
 }) {
   const key = draftKey(seat, useUserId())
   const [draft, setDraft] = useState("")
+  const drafted = useRef(draft)
+  drafted.current = draft
   const taken = useRef<number | null>(null)
+  const given = useRef<Given | null>(null)
   useEffect(() => {
     setDraft(draftKept(shelfHere(), key))
   }, [key])
+  const { attached, add, remove, clear, restore, drop } = useAttached()
+  const placed = (next: string) => {
+    if (next === drafted.current) return
+    drafted.current = next
+    setDraft(next)
+    keepDraft(shelfHere(), key, next)
+  }
   useEffect(() => {
-    if (returned == null || returned.key === taken.current || returned.text === "") return
+    if (returned == null) return
+    if (returned.revoked === true) {
+      const held = given.current
+      if (held === null || held.key !== returned.key) return
+      given.current = null
+      placed(draftWithout(drafted.current, held.merged, held.before))
+      drop(held.files)
+      return
+    }
+    if (returned.key === taken.current) return
     taken.current = returned.key
-    setDraft((held) => {
-      const merged = draftWith(held, returned.text)
-      keepDraft(shelfHere(), key, merged)
-      return merged
-    })
+    const before = drafted.current
+    const merged = draftWith(before, returned.text)
+    const files = returned.files ?? []
+    given.current = { key: returned.key, before, merged, files }
+    placed(merged)
+    restore(files)
   }, [returned, key])
-  const { attached, add, remove, clear } = useAttached()
   const picker = useRef<HTMLInputElement | null>(null)
   const empty = draft.trim() === "" && attached.length === 0
   const beat = useTypingBeat(seat)

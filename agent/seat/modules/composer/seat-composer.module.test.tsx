@@ -3,6 +3,7 @@ import {
   draftKept,
   draftKey,
   draftWith,
+  draftWithout,
   dropDraftSent,
   enterSends,
   keepDraft,
@@ -103,6 +104,20 @@ test("a message taken back fills an empty composer", () => {
 
 test("a message taken back goes before what is being written, a blank line between", () => {
   expect(draftWith("a new thought", "what I said")).toBe("what I said\n\na new thought")
+})
+
+test("an image handed back with no words leaves what is being written as it is", () => {
+  expect(draftWith("a new thought", "")).toBe("a new thought")
+})
+
+test("words handed back and then refused leave the box as it was before them", () => {
+  const merged = draftWith("a new thought", "what I said")
+  expect(draftWithout(merged, merged, "a new thought")).toBe("a new thought")
+})
+
+test("words handed back and then edited are kept when the cancel is refused", () => {
+  const merged = draftWith("", "what I said")
+  expect(draftWithout(`${merged} and more`, merged, "")).toBe("what I said and more")
 })
 
 test("a store that refuses keeps nothing and throws nothing", () => {
