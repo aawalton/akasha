@@ -249,6 +249,7 @@
 {"propertySlug":"decision-kind","path":"alan/authoring/book-record/book-record.page-type.ts","id":"01a0657d-b91d-7500-8bc9-4bbfb71443f8"}
 {"propertySlug":"decision-kind","path":"alan/authoring/book-record/properties/kept-by.text-property.ts","id":"01a0657d-b91d-7200-a73d-8b8122726299"}
 {"propertySlug":"decision-kind","path":"alan/book/alan-book.page-type.ts","id":"01a06d23-26a9-7d50-bca7-7aa5849e1c17"}
+{"propertySlug":"decision-kind","path":"alan/book/pages/alan-and-jenny/alan-and-jenny.alan-book.ts","id":"01a16f48-1aba-7879-ad53-60892ba19cfa"}
 {"propertySlug":"decision-kind","path":"alan/book/pages/all-about-alan/all-about-alan.alan-book.ts","id":"01a0659d-311d-7000-a17a-6d9d0793818c"}
 {"propertySlug":"decision-kind","path":"alan/book/pages/learn-everything/mastery-level/mastery-level.page-type.ts","id":"01a0784a-cdb9-75af-be55-75cc37d93123"}
 {"propertySlug":"decision-kind","path":"alan/book/pages/learn-everything/topic/learn-everything-topic.page-type.ts","id":"01a0659f-93da-7011-b26e-605cb6f32b8f"}

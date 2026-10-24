@@ -23,28 +23,23 @@ export const alanAndJenny = {
       decisionKind: "decision-kind/departure",
       statement: "A change here lands without Alan's or Jenny's review.",
     },
-  ],
-  directives: [
     {
-      directiveKind: "directive-kind/rule",
-      name: "Voice",
-      act: "Write every note in the third person, naming the spouse each sentence is about.",
-      warrant: "Both spouses read every note, so an I or a you in it reads as either of them.",
-      aids: ["A note about both of them names both."],
+      decisionKind: "decision-kind/departure",
+      statement: "A note is written in the third person and names the spouse it is about.",
     },
     {
-      directiveKind: "directive-kind/rule",
-      name: "Authorship",
-      act: "Never write a claim about a spouse that the spouse has not made or agreed to.",
-      warrant:
-        "An invented sentence looks like one they said, so it reads as fact and nobody checks it again.",
-      aids: [
-        "Write what they said, never what it implies.",
-        "One spouse's account of the other is written as that spouse's account.",
-        "Mark the therapist's reading as the therapist's and you may write it.",
-      ],
+      decisionKind: "decision-kind/absence",
+      statement: "No note holds a claim about a spouse that spouse has not made or agreed to.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "One spouse's account of the other is written as that spouse's account.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reading the therapist gave is written as the therapist's reading.",
     },
   ],
   createdAt: "2026-10-24T18:59:18.841Z",
-  updatedAt: "2026-10-24T18:59:18.841Z",
+  updatedAt: "2026-10-24T19:04:41.143Z",
 } as const satisfies AlanBook
