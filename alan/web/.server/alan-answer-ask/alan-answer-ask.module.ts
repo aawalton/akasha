@@ -39,8 +39,15 @@ export const alanAnswerAsk = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The store's answer is carried back unchanged, so the caller reads the store's own shape.",
+      statement: "The store's answer is carried back in the store's own shape.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Only Alan is answered the whole of a seat's conversation.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Any other person is answered only what was said in a seat's conversation.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -48,5 +55,5 @@ export const alanAnswerAsk = {
     },
   ],
   createdAt: "2026-09-22T01:25:04.311Z",
-  updatedAt: "2026-10-24T17:40:55.329Z",
+  updatedAt: "2026-10-24T20:20:06.131Z",
 } as const satisfies Module

@@ -236,3 +236,34 @@ test("narrows reaching a page type and its kinds below must agree", () => {
     "disagree"
   )
 })
+
+const WHOLE = [
+  { kind: "person", text: "You are the couples therapist", images: 0 },
+  { kind: "person", sender: "alan", text: "hi", images: 0 },
+  { kind: "tool", line: "Bash(akasha read)" },
+  { kind: "message", sender: "amy", text: "a note" },
+  { kind: "agent", text: "Hello both" },
+  { kind: "person", sender: "jenny", text: "hello", images: 0 },
+  { kind: "turn-end", line: "Worked for 3s" },
+]
+
+function answeringConversation(reader: object): AskDeps {
+  return {
+    ...asking(reader).deps,
+    post: async () => ({ ok: true, body: { rows: [{ conversation: WHOLE }], n: 1 } }),
+  }
+}
+
+test("Jenny is answered only what Alan, she and the agent said in the conversation", async () => {
+  const answered = await askHeld(asked(CONVERSATION), answeringConversation(JENNY))
+  expect(answered.status).toBe(200)
+  expect(await answered.json()).toEqual({
+    rows: [{ conversation: [WHOLE[1], WHOLE[4], WHOLE[5]] }],
+    n: 1,
+  })
+})
+
+test("Alan is answered the whole conversation", async () => {
+  const answered = await askHeld(asked(CONVERSATION), answeringConversation(ALAN))
+  expect(await answered.json()).toEqual({ rows: [{ conversation: WHOLE }], n: 1 })
+})

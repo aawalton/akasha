@@ -1,4 +1,8 @@
-import { mayRead } from "akasha/alan/harness/web-page-answer/modules/reader-access/reader-access.module.code.ts"
+import { saidOnly } from "akasha/agent/seat/observation/modules/conversation-shaping/conversation-shaping.computed-property-module.code.ts"
+import {
+  mayRead,
+  personOf,
+} from "akasha/alan/harness/web-page-answer/modules/reader-access/reader-access.module.code.ts"
 import {
   alanContributor,
   readAlanUser,
@@ -38,6 +42,10 @@ const UNSHAPED =
 
 const UNREACHED = 502
 
+const SEES_THE_WORK = "alan"
+
+const CONVERSATION = "conversation"
+
 type Where = Readonly<Record<string, Test>>
 
 type Posting = (path: string, what: string, body: unknown) => ReturnType<typeof postingTo>
@@ -72,6 +80,21 @@ export function narrowOver(reaches: readonly Reach[]): readonly Narrow[] | null 
     else if (narrowsSaid(held) !== narrowsSaid(one.narrows)) return "disagree"
   }
   return held
+}
+
+function rowSeen(row: unknown): unknown {
+  const held = objectIn(row)
+  const conversation = held?.[CONVERSATION]
+  if (held === null || !Array.isArray(conversation)) return row
+  return { ...held, [CONVERSATION]: saidOnly(conversation) }
+}
+
+export function answerSeenBy(person: string | null, answer: unknown): unknown {
+  if (person === SEES_THE_WORK) return answer
+  const held = objectIn(answer)
+  const rows = held?.rows
+  if (held === null || !Array.isArray(rows)) return answer
+  return { ...held, rows: rows.map(rowSeen) }
 }
 
 async function kindsOf(pageTypeSlug: string, deps: AskDeps): Promise<readonly string[] | null> {
@@ -126,7 +149,7 @@ export async function askHeld(request: Request, deps: AskDeps = LIVE): Promise<R
   if (!reached.ok) {
     return Response.json({ refused: reached.why }, { status: reached.status ?? UNREACHED })
   }
-  return Response.json(reached.body)
+  return Response.json(answerSeenBy(await personOf(user), reached.body))
 }
 
 async function alanSignedIn(request: Request): Promise<boolean> {
