@@ -1,4 +1,5 @@
 {"propertySlug":"assignment-slug","path":"agent/seat/pages/astra/astra.seat.ts","id":"01a11bee-f399-7000-a705-fdd4e02d8ca0"}
+{"propertySlug":"assignment-slug","path":"agent/subagent/pages/astra-a42d87d1b0d012d41/astra-a42d87d1b0d012d41.subagent.ts","id":"01a16edb-c162-73e4-9f7a-a91a6a6a8828"}
 {"propertySlug":"championed-domain","path":"persona/pages/astra/astra.persona.ts","id":"019f1412-b223-74d5-93f3-d09bf6d6107f"}
 {"propertySlug":"extends-type","path":"agent/agent.page-type.ts","id":"01a06257-7813-710a-a637-a50b6dd747d9"}
 {"propertySlug":"extends-type","path":"agent/message/agent-message.page-type.ts","id":"01a06818-107b-7005-8e69-8cefb68f3cdf"}
