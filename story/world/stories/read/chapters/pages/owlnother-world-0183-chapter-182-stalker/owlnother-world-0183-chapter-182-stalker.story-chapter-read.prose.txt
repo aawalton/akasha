@@ -1,0 +1,119 @@
+The journey continued with a change in scenery. I had never really paid attention to this part of the mountains but there was another ravine cutting through east to west. I knew it did not reach my workshop. I debated guiding the dwarves around it but even after a few minutes of scouting, I found an ork village we would have to get very close to. The river cutting into the stone was not very full at this time of the year, the snow had melted over a month ago. There were ledges higher up but I might have to dig a path here or there.
+
+When I got back to the camp after scouting, everyone agreed with my judgement.
+
+“The stone might be slippery but we’ll deal with that”, Fredreck said, “We got our ropes and some hooks to climb along the walls if necessary, as well.”
+
+“You won’t have many issues for the first two days. I haven’t scouted any farther than that.”
+
+“You’re pretty fast, huh?”, Harra said, “Two days of travel in a few minutes?”
+
+“I am fast but not that fast. It’s simply easier to see things from high up.”
+
+“Right, flying. Found any good camping spots or we gonna have to huddle up on the ledge?”
+
+“For the first night, I found something. Maybe for the second as well. It shouldn’t take you more than a week to get through, though. Maybe even half a week.”
+
+“Are your eyes that good?”, Lothar asked.
+
+I nodded.
+
+“I can make out the dirt in your beard when I’m scouting from above.”
+
+“Ain’t no dirt in ma beard, birdy!”, he complained, eliciting a round of laughter from everyone.
+
+“Ain’t none of us without dirty beards out here”, Hedreck said, “Say, Fio, are there baths where we’re going?”
+
+“Not yet. You’ll have to dig those out. There’s an underground river to draw water from.”
+
+“Fast?”
+
+I blinked.
+
+“The water?”
+
+“Oh. Yes. The goblins built steps on a slope so they don’t slip inside but they usually use buckets on a rope to get their fill.”
+
+“Fast is good. Means we can use a lot.”
+
+“Yup. We’ll need it for the fields. Right?”, Harra asked.
+
+“No, in fact. I have a node harnessed and set up a guide for the vis to power magical lamps that make everything grow. They even replace the need for sunlight.”
+
+The dwarves looked at each other.
+
+“That’s cheating”, Harra said eventually.
+
+“Yup.”
+
+What followed was a questioning session about the structure we had chosen for the fields and how the lamps worked. I did my best to answer the dwarves’ questions but they were lacking critical insights into the deeper truths of this world to understand everything. It still took a few hours before they gave up and everyone went to sleep.
+
+The next day we finally moved into the ravine. It turned out to be more challenging for me to keep an eye on them than it was to move. I had to circle above the opening and lose them every few seconds or stay inside and not be able to move properly or see a lot. We decided I would keep an eye out for threats coming in from above while the dwarves would check any threats within the gorge. They were still noticeably faster than before, no longer having to scale up and down mountainsides. Even the few places where the ledge got as thin as their feet barely slowed them down. I almost thought dwarves were born for the mountains but they lived in forested hills. It was probably just the Gurrin familiar with treacherous terrain thanks to their experience with mining.
+
+We made camp at a spot where the wall was missing a chunk almost two metres deep, creating a rather large open area. There was a little risk with something dropping from above but I saw no sign of threats when scouting so we stuck with the larger space.
+
+The day after, things started to get problematic once more. Something had picked up the trail of my charges. It was some kind of mountain cat, possibly a leopard with its spotted pelt. I had thought only the white ones with grey spots lived in mountains but this one was a dirty yellow with nearly black spots. Dropping close enough for [Identify], I found my answer.
+
+[Hidden Identify]
+
+Species: Wind Leopard (mature)
+
+Age: 16
+
+Name: -
+
+Gender: male
+
+Level: 51
+
+As far as I knew that was a rather high level for its age. The Species name made me believe it would have some kind of magic. Sure enough, my [Owl Senses] picked up a decent amount of air and flight essence from it. I decided to get a more detailed picture.
+
+Wind Leopard: An animal at home in the mountains and similar vertical environments. This Species has adapted to hunting with surprise attacks from above. It is the descendant of a Progenitor.
+
+That was a threat. Our next potential resting spot was open from above once again. I told Fredreck to keep an eye out for something covered while explaining the situation. The easiest option was to take it out pre-emptively, though. The problem was that I had little cover and getting even closer might alert the beast's sensory Skills, which it surely had. It would be much better to strike when it decided to go for its own attack.
+
+I kept observing the skulking feline from above as it trailed the dwarves. It never looked at them which was why I was so careful in the first place. Maybe we were only going in the same direction coincidentally, though I did not believe that.
+
+The dwarves were a little miffed about the threat but accepted my decision. They slowed down while searching for a better place to camp than what I had scouted. Eventually, they found one. I kept in the skies as the leopard paced. Then, it found a resting spot itself. I only took a few minutes to set up the alarm system before taking to the air again. The whole night I observed the predator but never did it do anything. It simply rested, oftentimes with one eye half-open.
+
+The next day only grew tenser and I seriously debated just going for the attack. I discussed with Fredreck using the supersensory matrix.
+
+“I can see how wary you are from up here. I just don’t know how it senses you. It never even looks into the ravine.”
+
+“Usually it’s smell for felines. But you’re right to be cautious. We’d be pretty much stranded without you.”
+
+“I could try my ranged attack but that is even riskier since I won’t be able to follow up if it survives the first hit.”
+
+For a moment, there was silence. Then, Fredreck started talking quietly to the others. I loosely followed their conversation while keeping an eye on the threat.
+
+“What do you think, lads?”, the leader asked.
+
+“I want it gone”, Smia answered, “I can’t sleep knowing something’s hunting us.”
+
+“Seconded”, Lothar voted.
+
+“Pretty sure we should be out of its territory soon”, Hedreck said, “We make it through one more night and it’ll leave us alone.”
+
+“What if it doesn’t?”, Smia asked.
+
+They continued back and forth for a while before eventually coming to a conclusion.
+
+“Alright, Fio. Keep an eye on it for another day. If it’s still on us by tomorrow evening, we’ll set an ambush.”
+
+“Okay.”
+
+The second night was once again spent under an overhang. The leopard seemed to not care about hunting them that night, either, and I managed to get some rest on a rock overlooking the area. Near morning, the beast started to move towards the ravine, careful not to make any noise. I took off immediately. I was in a dead spot of its vision and still, the leopard froze for a moment before righting itself and moving on to pacing. It could sense me, somehow. I had even used my silent wings in combination with [Sneak]. How did it work?
+
+When morning came, the dwarves reacted to my revelation with annoyed grumbling. At least they were less terrified since they knew my presence stopped the attack. I told them I would try to figure out the beast’s sensory ability and hopefully find a way past it.
+
+The next few hours were spent trying to alter my way of flying. I widened the circles I took and tried flying higher but the predator showed no sign of attacking the dwarves. I hesitated for a moment before swooping down about a hundred metres behind it and picking up some small pebbles with my shadows. Just as I rose again, I saw the leopard had closed in on the ravine. It was not quite sneaking for an attack but seemed to be planning to get a better look at its prey. As soon as I got into the air, the feline casually walked forward and away from the gorge. If I did not know better, it would have looked like it just randomly walked closer to the edge.
+
+The next test was dropping things. The first pebble landed over twenty metres behind my target and it showed no sign of noticing. I knew it did, though. The second attempt got much closer at about seven metres but still elicited no reaction. It took me until the ninth to finally drop one right on top of the leopard. Which it sidestepped so smoothly it might have been accidental. Did it notice… air movements? It could not be smell. Something like 360° vision was a possibility but… with its aspects, air would be the most apparent explanation. Now, how could I get around that? Did it sense the movement of the aer aspect or did it notice where it was pushed aside by other things? If it was the latter…
+
+I covered myself in shadows and activated [Mingling] to make myself seem like more aer. The beast stilled. This was the first time my actions had caused such a direct reaction. It really was primed on the aspects. Of course, it was. That was the only thing I was not constantly hiding!
+
+The leopard shifted its head back and forth for a moment, its ears twitching. My magical vision showed me a slight shift in the aer essence around the tips. Was that how it used its senses? Through the ears?
+
+I really wanted to go on the offensive but there was one more test to do. I broke my magical camouflage and observed the leopard stutter into movement. It was only a minute flinch but I noticed. It was distraught. That was good.
+
+I might have given too much information about my abilities but I was confident in making a counter-ambush work. Now we only had to set everything up.

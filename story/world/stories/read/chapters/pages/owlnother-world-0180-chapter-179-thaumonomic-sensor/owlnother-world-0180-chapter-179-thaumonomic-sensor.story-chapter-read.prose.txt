@@ -1,0 +1,65 @@
+I set up my part of the workshop to lay out the plans. I would likely have to make a trip to the forges for some material unless Riggard had some I could buy off him.
+
+The general idea was to make an arcane ear and an arcane eye first and then combine them into one device to sense magic as well. I did not want it to no longer be capable of the base functions but depending on how everything worked out, I might have to cut those. If that first plan did not work out, I would attempt to modify a sinister lodestone to sense magic in general while using the normal artefacts alongside it.
+
+The main parts for both of these were similar to advanced golems. A brain. Still, it was very obvious that this time it would be used for the nervous system rather than the ability to house a soul. The actual sensing would be done by using a gold and iron contraption fixed on some greatwood. A dash of salis mundus would activate the magic. That was for the ear. The arcane eye needed a set of quartz embedded within the construct to function. I was lacking most of those materials, especially the wood. Luckily, Riggard had most of it ready. He was unable to provide the rarest of them. Greatwood. I looked around in the nearby forest, focusing on finding magic. Sadly, I was unable to find anything.
+
+I had five days still, so I decided to make a trip to Serrington. I remembered Nymph had some, maybe even some ready to use logs in her storage. On the way, I tried to think of anything else I might need from there. The sinister lodestone, if I was to make it, would be very simple with a bit of salis mundus and a vis crystal each of perditio and ordo, destruction and order. All that was combined using the infusion altar. I was pretty confident I could do the last step with simple vis manipulation since it only required a few small samples of aspects to look for.
+
+I reached Serrington early in the morning. It was still dark out and I landed in Nymph’s Comraich. It took about an hour until she welcomed me.
+
+“What brings you here this early?”, she asked, “Do you need something?”
+
+“I do, in fact. Do you have some greatwood I could use for crafting? I was unable to find any near Borsdown and I want to finish this within a few days.”
+
+“Wait here”, she nodded.
+
+I heard the grass rustle and the plants grow within her grove and after half a minute something moved out of the thicket. A few vines held a log of greatwood about as long as I was tall.
+
+“Is this enough?”, she asked.
+
+“Yes. Thank you. What do I owe you?”
+
+“Another trip. This time out of town.”
+
+“Alright. It’ll take some time, though. I’m escorting a group of dwarven miners to the goblin village. It’ll take about a month, probably.”
+
+“That’s fine.”
+
+“Did you break the node out of the jar, yet?”, I asked.
+
+“I did not. I have it secured below ground and am building some more secure defences. Once I am done with that, I will break the jar and still be able to move out without worrying too much.”
+
+“That sounds great! Good luck!”
+
+“Thank you, Fio.”
+
+We said our farewells and I returned to Borsdown. Once I was back in the workshop, I still had a few hours of daylight to get to work. First, I used my shadows and talons, shifted to metal form, to cut the wood into pieces. It would form the base. After that, I built the sensory construct for the ear and eye respectively. They looked a little bit like oversized golden lightbulbs with circular openings around the top. For the eye, those openings held quartz, cut into a smooth lens. The stone itself was not clear but that was apparently better. The magic could bind the light more easily if it did not pass through and the brain that would go inside was easily harmed. Or rather, it was prone to rot, which an increased temperature could expedite. The ear had thin iron plates to swing with the vibrations of the air around them.
+
+For the brains, I visited the first butcher I could find and bought the next best ones I could get. He had some hares he was just cutting up which served me quite well. I had to pay a few silver since I had him carefully extract the organs without damaging them but that was fine. I was no longer rich having paid 60 gold to the dwarves the day before but I had enough for some expenses.
+
+I got back to the workshop to finish up the first step of my work. The arcane ear was first. I put the brain inside the bulbous top and sprayed a large helping of salis mundus on it. Then I fixed the metal to the wooden base I had prepared. After that, I only had to infuse some ordo and aer vis to stabilize the device and have it react to movements in the air rather than any vibration, for example from carrying it around or walking next to it. I tested it by pacing up and down the workshop and keeping an eye on the greatwood base. It did not react to my steps unless I intentionally made a loud enough noise. In that case, a pulse of vis went into the wood and then returned to the brain after finding no outlet. This was where a thaumaturge would attach an alarm or a trap for example.
+
+The arcane eye was made next and worked just fine. It still needed aer and ordo, though this time the aer aspect was to determine an area around it. I also added some terra and victus to have it react to living beings and moving objects made from earth. I was considering adding metallum and herba later on.
+
+When I was done, I found it was already dark out and I was the last one in the workshop. Even Riggard had probably been dragged back home by his wife. I decided to call it a day and went back home to get some rest.
+
+Safrah scolded me for overworking since I had not come back the last night. When I mentioned I had visited Serrington, that made her only go harder on me, especially after she found out I did not rest at all. I had not even realized how tired I was but halfway through her reprimanding me, I found my eyes falling closed. Sometime later in the middle of the night, I woke up lying down on a stack of blankets in a corner of the living room. I had not had such thorough sleep in a long time. It made me realize how much I needed a break. Soon.
+
+Rather than soon, I wanted to take a day or two off before setting out with the dwarves. That meant finishing the alarm system as soon as possible. I got some more rest in the attic while planning out the next few steps of crafting. That meant as soon as dawn came around, I was out and rushing over to Riggard’s workshop. The dwarf was at work already and an apprentice waved me in.
+
+I took a look at the arcane ear and eye which were finished already. They needed to combine somehow. Normally, something like that would be done on an infusion altar. That would be a long trip, though. I had a different idea that I wanted to try first.
+
+I had made an ingot of thaumium at home for the next step. The two bulbous sensory devices were placed right next to each other. Since they were mostly metal, I could easily essence-weld the thaumium to the tops. Before I did that, I made sure to have the metal shaped into a smooth ring with two points on opposite ends. It looked a little like an eye without an eyeball. The tips were where I fixed the thaumium to the gold of the arcane ear and eye. From there, it was only a matter of infusing it with the auram vis and within moments I had the greatwood pulsate in reaction to the magic in the workshop.
+
+Then, I realized an issue. The device was reacting to its own magic as well. That seemed more troublesome than it ended up being. I found imposing my will could adjust what it reacted to. It was not like normal infusion or even simple thaumaturgic crafting but rather a lever of sorts I could adjust at will. I had the option to make it react to my presence, to the pipes guiding metallum essence for welding through the workshop or to its own sensory abilities.
+
+For a moment, my heart stopped. I activated [Telepathy] and reached out. Nothing.
+
+I let out a deep breath. Thankfully, there was no soul trapped in my creation. That would have been disastrous. I needed to be careful when working thaumaturgy with brains. More than I had been. Relying on the Thaumonomicon’s information was fine as long as I stuck to the creations listed inside.
+
+The adjustment turned out to work for visuals and sound as well. The thaumonomic sensor, as I baptized my new creation, was perfect for what I wanted. Now I only had to add an alarm system. That was as easy as asking Riggard. The workshop had an alarm bell that reacted to large amounts of vis or essence. They had a few spares in their storage of which I bought one for cheap. A few adjustments on the conductors and I had a rather annoying ringing noise whenever the sensor reacted to something. It would take some time to adjust but I had made a portable alarm system.
+
+I showed it to Riggard who was drawn from his work for over an hour along with all of his apprentices. They were trying to figure out how I made it but nobody ever got the idea of using brains. Even animal brains. It was late in the day already and the master artificer’s wife dragged him out of the workshop soon after.
+
+Safrah and Vivi were impressed with the thaumonomic sensor as well and agreed to help me calibrate it the following day. The dwarven expedition would leave in three days, early in the morning. That gave me some time to rest and spend with my friends, at least. I really hoped the journey would go well.
