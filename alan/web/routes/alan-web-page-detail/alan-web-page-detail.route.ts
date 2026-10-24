@@ -30,7 +30,7 @@ export const alanWebPageDetail = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A move between two addresses of the same page does not load the page again.",
+      statement: "That replacing loads nothing, so the router goes on holding the address asked.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -61,5 +61,5 @@ export const alanWebPageDetail = {
     },
   ],
   createdAt: "2026-09-09T22:04:04.594Z",
-  updatedAt: "2026-10-24T20:33:51.977Z",
+  updatedAt: "2026-10-24T21:00:12.298Z",
 } as const satisfies Route

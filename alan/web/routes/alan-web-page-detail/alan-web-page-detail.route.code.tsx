@@ -15,17 +15,12 @@ import {
   DISPLAY_PARAM,
   parseDisplayMode,
 } from "akasha/page/url/modules/page-display-mode/page-display-mode.module.code.ts"
-import {
-  canonicalAddress,
-  samePageAt,
-} from "akasha/page/url/modules/page-href/page-href.module.code.ts"
+import { canonicalAddress } from "akasha/page/url/modules/page-href/page-href.module.code.ts"
 import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { useEffect } from "react"
 import {
   type MetaDescriptor,
   type ShouldRevalidateFunctionArgs,
-  useLocation,
-  useNavigate,
   useSearchParams,
 } from "react-router"
 
@@ -93,12 +88,10 @@ function useLiveHead(pageTypeSlug: string, id: string | undefined, typeIcon: str
 }
 
 function useCanonicalAddress(canonicalHref: string | null) {
-  const location = useLocation()
-  const navigate = useNavigate()
-  const corrected = canonicalAddress(location, canonicalHref)
   useEffect(() => {
-    if (corrected !== null) void navigate(corrected, { replace: true, preventScrollReset: true })
-  }, [corrected, navigate])
+    const corrected = canonicalAddress(window.location, canonicalHref)
+    if (corrected !== null) window.history.replaceState(window.history.state, "", corrected)
+  }, [canonicalHref])
   return undefined
 }
 
@@ -125,12 +118,7 @@ function shouldRevalidatePageDetail(args: {
   nextUrl: URL
   defaultShouldRevalidate: boolean
 }): boolean {
-  if (args.currentUrl.pathname !== args.nextUrl.pathname) {
-    const samePage =
-      args.currentUrl.search === args.nextUrl.search &&
-      samePageAt(args.currentUrl.pathname, args.nextUrl.pathname)
-    return samePage ? false : args.defaultShouldRevalidate
-  }
+  if (args.currentUrl.pathname !== args.nextUrl.pathname) return args.defaultShouldRevalidate
   const changed = changedSearchParamKeys(args.currentUrl, args.nextUrl)
   if (changed.size === 0) return args.defaultShouldRevalidate
   for (const key of changed) {

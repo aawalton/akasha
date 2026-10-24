@@ -85,7 +85,7 @@ function pageAt(pathname: string): { readonly type: string; readonly idSuffix: s
   return parsed === null ? null : { type, idSuffix: parsed.idSuffix }
 }
 
-export function samePageAt(left: string, right: string): boolean {
+function samePageAt(left: string, right: string): boolean {
   const one = pageAt(left)
   const other = pageAt(right)
   return (

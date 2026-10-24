@@ -1,8 +1,5 @@
 import { expect, test } from "bun:test"
-import {
-  canonicalAddress,
-  samePageAt,
-} from "akasha/page/url/modules/page-href/page-href.module.code.ts"
+import { canonicalAddress } from "akasha/page/url/modules/page-href/page-href.module.code.ts"
 
 const CANONICAL = "/seat/new-name-e02d8ca0"
 
@@ -29,10 +26,11 @@ test("an address reaching another page or another page type is never rewritten",
   expect(canonicalAddress(at("/persona/old-name-e02d8ca0"), CANONICAL)).toBeNull()
 })
 
-test("two addresses reach the same page where their page type and id suffix agree", () => {
-  expect(samePageAt("/seat/old-name-e02d8ca0", CANONICAL)).toBe(true)
-  expect(samePageAt("/seat/e02d8ca0", CANONICAL)).toBe(true)
-  expect(samePageAt("/seat/old-name-e02d8ca1", CANONICAL)).toBe(false)
-  expect(samePageAt("/seat", CANONICAL)).toBe(false)
-  expect(samePageAt("/seat/old-name-e02d8ca0/more", CANONICAL)).toBe(false)
+test("an address naming the page by its id suffix alone is corrected too", () => {
+  expect(canonicalAddress(at("/seat/e02d8ca0"), CANONICAL)).toBe(CANONICAL)
+})
+
+test("an address that is no page's address is never rewritten", () => {
+  expect(canonicalAddress(at("/seat"), CANONICAL)).toBeNull()
+  expect(canonicalAddress(at("/seat/old-name-e02d8ca0/more"), CANONICAL)).toBeNull()
 })
