@@ -1,0 +1,165 @@
+The gloomy forest went on for another two miles until daylight greeted her. The trees finally parted, exposing a dirt road cluttered with wagons, horses, and cargo. It was evidently a heavily trafficked merchant’s lane; a road that had crawled along the border of the forest, now intersecting at its end.
+
+She remained in the shadows for a few minutes, taking in the change of scenery. Most of the merchants were passing quickly, horses guiding large caravans of goods north, but some stragglers were posted by the edge of the road, discussing things under hushed breath.
+
+“Oh, you should have seen ‘em,” one of the gossiping traders said. He had a wide-tipped hat shading his face from the sun. “All those crying, screaming hero-types heading for Agnor’s. They looked like they had just seen their aunt rollin’ in the hay with a necromancer.”
+
+“You think that girl from the posters gave ‘em a visit?” another said, conspiratorial. “I’ve seen her bounty on every board from here to Moonvest. Big ol’ mop of fire-kissed hair, scary eyes…”
+
+Akemi’s eyes widened. A girl? Another villain?
+
+“No chance. That girl’s nothing but a rumor in these parts. Rook would take care of a small fry like her without even blinking. I think Agatha at the Roundhouse is just trying to stir the pot around here to try and bring in some customers. Way fewer heroes staying at her inn ever since that Great Hall was built. All her former customers been sleeping in the dormitories instead of on her flour-sack mattresses.”
+
+“Well if that really is the truth, her plan damn well worked. Worked more than she bargained for, I bet. She’s gonna have kids’ heads poppin’ out of every window. They’ll probably burn her place to the ground with some heroic roughhousing. You know how it goes.”
+
+“Sure do, Harold. Now come on, pee break’s over. I’ve got watermelons to shill.”
+
+“Alright. What about you, Micky?”
+
+A third, silent trader was standing beside them. He just shook his head and waved them off.
+
+“Suit yourself, Mick. But stay out of trouble.”
+
+“Come on, he’ll be fine. I’m telling you, that girl’s just a rumor…”
+
+The two chatty merchants got back on their horses and peeled into the road once again, heading north. The remaining man—Micky—was looking nervously at his boots and checking a pocket watch. He had his own horse and set of goods waiting beside him.
+
+Akemi smirked.  Hello, cowboy.
+
+I think I just found myself a better disguise.
+
+While Achilles’ clothing was alright, it was almost as conspicuous as her previous pink bunny suit. Any of the recruits waiting in town would probably recognize the clothing and accuse her—correctly so—of grave robbing the man. Not only that, but Volo was most definitely waiting in ambush. If she was to get into the village without notice, she needed a particularly good ruse.
+
+Dodging the carts on the road, Akemi approached the man. He was tall, wearing a cotton shirt, a brown vest, a cowboy hat, and a pair of bejeweled slacks. He nervously put a cigarette between his lips and lit it, using a flame that sprouted from the palm of his hand.
+
+Micky Murphy | Level 6 Cowboy Merchant
+
+“Nice party trick,” Akemi said, gesturing to his smoking palm. “You waiting for someone?”
+
+He made an affirmative grunting noise, then pointed at his pocket watch. The longer hand was about to strike twelve, mid-day.
+
+“I don’t get it. Something special happening at twelve?”
+
+He nodded up and down, then extracted the cigarette from his mouth and flicked it to the ground. He stomped on it with the heel of his boot, then pulled out yet another cigarette and stuffed it impatiently between his lips. He repeated this habit three or four times, smoking each one for only a few seconds before discarding it.
+
+Man, this guy’s lungs must look like a swamp.
+
+Soon enough, he had emptied the package. He made a sad mumbling noise and shook the box upside down. Unfortunately, no more cigarettes magically appeared inside it.
+
+Making note of the brand on the front, Akemi had an idea.
+
+“You know, I think I actually saw another package of those lying around here somewhere,” she said. “Carbon Reds, right?”
+
+His eyes opened wide, shining brightly.
+
+“Mm.”
+
+“Yeah, yeah—those are ones. Come on, I think I saw some over here…”
+
+Akemi led him to the backside of his caravan. His goods, which were stored in large wooden boxes and loaded on top of his wagon, put the two of them just out of view. None of the passing street merchants would see a thing.
+
+“Mm?” he said, as if to ask—where the hell are my cigarettes?
+
+Akemi made a show of looking under the wagon, scanning the ground with her bare fingers.
+
+“Ah. Here they are. Right… there.”
+
+She coiled her hand around a random rock and then stood back up.
+
+“Pure Carbon Reds,” she said. “You want one?”
+
+He shook his head up and down like a rabid dog, waiting for her to uncurl her first.
+
+“Alright, enjoy.”
+
+She slammed the rock straight on his nose and whispered “[Chloroform].”
+
+She hadn’t been sure how exactly the spell would manifest, but it manifested gloriously. The cowboy fell stick-straight backwards like a cartoon character, his eyes rolling back in his head, his nose bleeding a bloody mess. He crumpled into the dirt, a ragdoll in the grass.
+
+She squatted down and felt his pulse. It was still there, but faint. The spell seemed to have put him in a deep, dreamless sleep. The best kind.
+
+Hooking her arms under his armpits and heaving upwards, she loaded him into the back of the cart and tugged off his hat and vest. He snored, blood dribbling down his linen shirt. She equipped the two stolen items, then immediately checked their stats in her inventory, hoping for something a bit more reinforced than Achilles’ shit-gear.
+
+You have equipped [Cowboy’s Vest]!
+
+Armor Rating: 3
+
+You have equipped [Cowboy Hat]!
+
+Armor Rating: 1
+
+Enchantment: [+3 to CHA]
+
+The armor rating’s still shit, but that Charisma boost is nice. I’m going to need it if I want to evade suspicion in town.
+
+She then proceeded to empty his pockets, finding a used handkerchief, three empty cigarette boxes, and that pocket watch he had been so fixated on. Strangely enough, the big hand still hadn’t struck twelve. It was as if time hadn’t moved at all—only she knew it had. The little hand reliably ran around the circumference of the watch, but the hour was stuck in place, paralyzed.
+
+You have acquired [Warlock’s Pocket Watch]
+
+She opened it in her inventory and inspected it.
+
+[Warlock’s Pocket Watch]
+
+An eerie timepiece haunted by the spectral presence of a lost lover. It bears a gruesome history, having become forever frozen in time on the day its owner's fiancée tragically passed away. This haunting relic now serves as a melancholic reminder of a love lost in the depths of eternity.
+
+Jeez. Depressing.
+
+She tabbed out of the inventory, but a tutorial tip flashed in front of her face not a moment after.
+
+Tutorial Tip! Some items bear enchantments that can only be unlocked by a specific class. If you do not belong to that class, you won’t be able to view the enchantment. However, you can take the item to an Artificer to potentially alter the item and unlock the stored enchantment.
+
+So basically, if I suspect an item is a little weird, there’s probably an unlockable enchantment hidden inside it? Interesting. Maybe it's a Warlock-specific item, going by that name? But that doesn’t explain why a cowboy would be carrying it around…
+
+Mysteries for another day, she decided.
+
+Closing out all her windows, she brandished her [Knife Fingers], bringing the razorblades to cradle his throat. He snorted softly, completely unaware of the looming threat. A more tender part of her pitied him a slight bit—to be so exposed and vulnerable, splayed out like some little boy’s discarded cowboy action figure. It was endearing, in a way.
+
+But she didn’t have time to be endeared. She didn’t know how long Chloroform was going to last, and she didn’t want him waking up with a hangover in the back of her stolen horse trolley.
+
+Really, I’m just doing you a favor. Now you can go see your fiance. See ya.
+
+Schwip—the cut was quick and silent. A very modest and graceful death, by most standards.
+
+*You have defeated a level 6 Cowboy Merchant - 150xp gained*
+
+Interesting. It’s almost as much as I got from killing that level 15 Chef. Maybe certain classes reward more experience? I still have a lot to learn about this System.
+
+The prospect excited her. There was so much to learn, so many supple experience containers—err, people—to kill, and wondrous System loopholes to exploit.
+
+Villainous Achievement Unlocked! [Sleeping Beauty]
+
+There’s murder, there’s premeditated murder, and then there’s whatever you just did. Killing someone in their sleep is just about as heartless as it gets. But from the look of it, you don’t exactly have a heart beating in that chest. You have a stone cold brick.
+
+[+200 XP] [ -100 Reputation]
+
+“Please,” Akemi said quietly, feeling a need to defend herself. “He was practically volunteering himself to be murdered, standing there all bored like that.”
+
+She peered inside one of his storage containers, finding it brimming with eggplants. Yes, eggplants. This guy was apparently an eggplant salesman. She loaded an empty bag with about half of them, then—checking that no one was looking—shoved his limp body into the crate. She closed the lid, nodded proudly at her handiwork, then went to deal with the horse.
+
+“Aren’t you a beauty,” she remarked, finding the moonlight white steed waiting patiently by the grass. The horse didn’t seem to notice—or care—about its late owner’s demise. It was completely consumed by eating the weeds by the roadside.
+
+Not a care in the world. Truly a horse after my own heart.
+
+To Akemi’s luck, the horse was already saddled. She hoisted herself up with ease, tipping her cowboy hat over her head and grinning. She felt at ease in the saddle, a remnant of her childhood back in Skåne, her home region and southern Sweden’s equestrian capital.
+
+Since her mom and dad both worked at the local ranch—her father a farrier, her mother a jockey—she was basically raised on a horse's back. Her subsequent … antisocial tendencies … could probably be traced back to her falling off the side of the steed too many times.
+
+Akemi lifted the reins up, signaling for the horse to move towards the road. He… did not. He just snorted, clearly agitated by the interruption to his snacking. Sighing, she tried again, pressing her legs to his sides like she did back on the range with the troublesome foals, but he still resisted, stamping his hooves and whining.
+
+“Come on, work with me here,” she said, gliding her hands up from the base of his mane. “I get it. You’re hungry. But I’m sure there’s better feed in town, isn’t there? Real premium stuff.”
+
+Whether he actually understood or not, his ears piqued, and he momentarily stopped chomping.
+
+“Yeah, there we go,” she said, grinning. “You get me to Agnor’s, and I’ll get you the best feed you’ve ever tasted—oats, corn, barley, hell, I’ll even throw in some alfalfa.”
+
+Persuasion Check (Medium)
+
+(Modifier: +3 CHA)
+
+Success!
+
+The horse stomped happily and began turning towards the road.
+
+“Bless this hat,” Akemi said, with a relieved sigh.
+
+They strode onward, goods—and one sliced up cowboy—in tow, Agnor’s Rest awaiting.
