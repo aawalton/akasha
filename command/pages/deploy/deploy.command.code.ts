@@ -44,6 +44,7 @@ import {
   keepingFor,
   recordedCommit,
   recordedEnding,
+  recordedLine,
   recordedRefusal,
 } from "akasha/command/pages/deploy/modules/commit-recording/deploy-commit-recording.module.code.ts"
 import {
@@ -329,5 +330,5 @@ async function deployHeld(
     ...(await recordedEnding(slug, read.pagePath, false, new Date(), keeping)),
   ]
   if (wrong.length > 0) return told([...lines, ...wrong.map((one) => `unkept\t${one}`)])
-  return told([...lines, `recorded\t${slug}\t${commit}`])
+  return told([...lines, recordedLine(slug, commit)])
 }
