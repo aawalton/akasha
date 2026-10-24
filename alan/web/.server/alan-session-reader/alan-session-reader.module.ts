@@ -23,7 +23,11 @@ export const alanSessionReader = {
       decisionKind: "decision-kind/departure",
       statement: "The person page carries the scheme a reader reads in.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The person page carries the name a reader is shown under.",
+    },
   ],
   createdAt: "2026-09-20T23:14:25.584Z",
-  updatedAt: "2026-10-24T21:28:38.090Z",
+  updatedAt: "2026-10-24T23:08:38.639Z",
 } as const satisfies Module

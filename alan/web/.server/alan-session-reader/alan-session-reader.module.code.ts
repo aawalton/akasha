@@ -5,6 +5,7 @@ import {
 } from "akasha/design/interface/system/modules/scheme-choice/scheme-choice.module.code.ts"
 import {
   accountOfContributor,
+  nameOfContributor,
   schemeOfContributor,
 } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
 
@@ -48,4 +49,13 @@ export async function alanAccountId(contributor: string): Promise<string | null>
     return null
   }
   return reached.account
+}
+
+export async function alanReaderName(contributor: string): Promise<string | null> {
+  const named = await nameOfContributor(contributor)
+  if (!named.ok) {
+    if (named.unread) console.error(`[alan-session-reader] ${named.why}`)
+    return null
+  }
+  return named.name
 }

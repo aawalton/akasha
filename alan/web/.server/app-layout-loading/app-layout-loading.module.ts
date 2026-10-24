@@ -21,6 +21,20 @@ export const appLayoutLoading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A signed-in reader's site is shown under the first proper noun that reader's person page spells.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A reader signed out, or whose person page spells no proper noun, is shown the web app page's name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The tab title names the site rather than the reader.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The layout loads only the nav items the reader's access reaches.",
     },
     {
@@ -29,5 +43,5 @@ export const appLayoutLoading = {
     },
   ],
   createdAt: "2026-09-03T03:45:08.507Z",
-  updatedAt: "2026-10-24T21:48:06.843Z",
+  updatedAt: "2026-10-24T23:08:38.639Z",
 } as const satisfies Module

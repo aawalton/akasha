@@ -1,6 +1,7 @@
 import {
   alanAccountId,
   alanContributor,
+  alanReaderName,
 } from "akasha/alan/web/.server/alan-session-reader/alan-session-reader.module.code.ts"
 import {
   navReachOf,
@@ -31,13 +32,16 @@ async function navItemsFor(): Promise<ReadonlyArray<Record<string, unknown>> | n
 
 export async function loader({ request }: LoaderFunctionArgs) {
   const reader = await alanContributor(request)
-  const accountId = reader === null ? null : await alanAccountId(reader)
+  const [accountId, name] =
+    reader === null
+      ? [null, null]
+      : await Promise.all([alanAccountId(reader), alanReaderName(reader)])
   const [rows, reach] =
     reader === null
       ? [null, null]
       : await Promise.all([navItemsFor(), navReachOf({ contributor: reader })])
   const navItems = rows === null || reach === null ? rows : reachedNavItems(reach, rows)
   const navServed = reach !== null && !reach.readsNav
-  const brand = await webAppTitle(alanwaltonWeb.slug)
+  const brand = name ?? (await webAppTitle(alanwaltonWeb.slug))
   return data({ reader, accountId, signedIn: reader !== null, navItems, navServed, brand })
 }
