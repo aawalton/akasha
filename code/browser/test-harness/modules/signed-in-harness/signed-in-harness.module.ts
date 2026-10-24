@@ -25,7 +25,19 @@ export const signedInHarness = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The contributor signed in as is the one Alan's person page names.",
+      statement: "The contributor signed in as is the one the named person's page names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The person signed in as is Alan where no person is named.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A browser signed in as a person other than Alan only looks.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A peripheral is never signed in as a person other than Alan.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -46,5 +58,5 @@ export const signedInHarness = {
     },
   ],
   createdAt: "2026-09-21T16:17:50.926Z",
-  updatedAt: "2026-09-24T16:36:58.000Z",
+  updatedAt: "2026-10-24T21:58:00.003Z",
 } as const satisfies Module

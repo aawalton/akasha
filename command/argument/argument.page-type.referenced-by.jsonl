@@ -272,6 +272,7 @@
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/pattern.argument.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/percent.argument.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/performance.argument.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/person.argument.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/persona.argument.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/personal-connections-file.argument.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/personal-connections.argument.ts","typed":true,"deferred":false}

@@ -7,12 +7,13 @@ import {
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { out as outArgument } from "akasha/command/argument/pages/out.argument.ts"
 import { path as pathArgument } from "akasha/command/argument/pages/path.argument.ts"
+import { person as personArgument } from "akasha/command/argument/pages/person.argument.ts"
 import { url } from "akasha/command/argument/pages/url.argument.ts"
 import { refusedBy, told } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { browserSignIn as page } from "akasha/command/pages/browser/sign-in/browser-sign-in.command.ts"
 
-const TAKES = [outArgument, pathArgument, url] as const
+const TAKES = [outArgument, pathArgument, personArgument, url] as const
 
 const URL_SAID = url.said
 
@@ -61,7 +62,7 @@ export async function browserSignIn(argv: readonly string[], given: Given): Prom
 
   let signing: SigningIn
   try {
-    signing = await signingInFor(new URL(base).origin, taken.path)
+    signing = await signingInFor(new URL(base).origin, taken.path, taken.person)
   } catch (thrown) {
     return refusedBy([thrown instanceof Error ? thrown.message : String(thrown)])
   }

@@ -9,7 +9,27 @@ export const browserSignIn = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The browser is signed in as the contributor Alan's person page names.",
+      statement: "The browser is signed in as the contributor the named person's page names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "`--person` names that person, and Alan is signed in as where it is not said.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A browser signed in as a person other than Alan only looks.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The site refuses every send from a browser that only looks.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A session that only looks ends fifteen minutes after the exchange.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A peripheral's origin is refused for a person other than Alan.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -46,7 +66,8 @@ export const browserSignIn = {
     { argument: "argument/url", required: true },
     { argument: "argument/path", required: true },
     { argument: "argument/out", required: true },
+    { argument: "argument/person" },
   ],
   createdAt: "2026-09-24T18:25:44.745Z",
-  updatedAt: "2026-09-24T18:30:03.000Z",
+  updatedAt: "2026-10-24T21:58:00.003Z",
 } as const satisfies Command

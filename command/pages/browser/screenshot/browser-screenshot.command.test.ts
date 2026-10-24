@@ -6,6 +6,7 @@ import { height } from "akasha/command/argument/pages/height.argument.ts"
 import { hydrationSelector } from "akasha/command/argument/pages/hydration-selector.argument.ts"
 import { out } from "akasha/command/argument/pages/out.argument.ts"
 import { path } from "akasha/command/argument/pages/path.argument.ts"
+import { person } from "akasha/command/argument/pages/person.argument.ts"
 import { rootSelector } from "akasha/command/argument/pages/root-selector.argument.ts"
 import { signInPath } from "akasha/command/argument/pages/sign-in-path.argument.ts"
 import { signedIn } from "akasha/command/argument/pages/signed-in.argument.ts"
@@ -34,6 +35,7 @@ const PAGES: readonly Argument[] = [
   fullPage,
   expandPanels,
   signedIn,
+  person,
   signInPath,
   rootSelector,
   hydrationSelector,

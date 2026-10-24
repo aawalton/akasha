@@ -56,7 +56,15 @@ export const browserScreenshot = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "`--signed-in` shoots the page as the contributor Alan's person page names.",
+      statement: "`--signed-in` shoots the page as the contributor the named person's page names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "`--person` names that person, and Alan is signed in as where it is not said.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A browser signed in as a person other than Alan only looks.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -113,11 +121,12 @@ export const browserScreenshot = {
     { argument: "argument/full-page" },
     { argument: "argument/expand-panels" },
     { argument: "argument/signed-in" },
+    { argument: "argument/person" },
     { argument: "argument/sign-in-path" },
     { argument: "argument/root-selector" },
     { argument: "argument/hydration-selector" },
     { argument: "argument/timeout-ms" },
   ],
   createdAt: "2026-09-21T16:24:43.495Z",
-  updatedAt: "2026-09-28T13:53:53.000Z",
+  updatedAt: "2026-10-24T21:58:00.003Z",
 } as const satisfies Command

@@ -33,9 +33,13 @@ export const personReading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The contributor a person signs in as reads back as its slug alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A person required by slug where none answers is an error.",
     },
   ],
   createdAt: "2026-09-03T22:00:32.640Z",
-  updatedAt: "2026-09-15T18:37:21.000Z",
+  updatedAt: "2026-10-24T21:58:00.003Z",
 } as const satisfies Module

@@ -23,8 +23,8 @@ import {
 import { base64Url } from "akasha/code/type/narrowing/modules/base64-url/base64-url.module.code.ts"
 import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import { rootIn } from "akasha/command/modules/rooting/rooting.module.code.ts"
-import { slugIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { secretsIn } from "akasha/page/modules/secret/page-secret.module.code.ts"
+import { personOr } from "akasha/person/modules/reading/person-reading.module.code.ts"
 import { alan } from "akasha/person/pages/alan/alan.person.ts"
 import { type Browser, type BrowserContext, chromium, type Page } from "playwright-core"
 
@@ -67,18 +67,31 @@ function verifierMade(): string {
   return base64Url(crypto.getRandomValues(new Uint8Array(VERIFIER_BYTES)))
 }
 
-function contributorSigningIn(): string {
-  const named = slugIn(alan.contributor)
-  if (named === null) {
-    throw new Error(`\`${alan.contributor}\` names no contributor a handover code can carry`)
+type Signing = {
+  readonly contributor: string
+  readonly look: boolean
+}
+
+function signingAs(root: string, person: string): Signing {
+  const held = personOr(root, person)
+  if (held.contributor === null) {
+    throw new Error(`\`${person}\`'s person page names no contributor a handover code can carry`)
   }
-  return named
+  return { contributor: held.contributor, look: held.slug !== alan.slug }
+}
+
+function peripheralRefused(origin: string, person: string): never {
+  throw new Error(
+    `a browser signed in as \`${person}\` only looks, and ${origin} borrows no sign-in that ` +
+      "only looks"
+  )
 }
 
 type Minting = {
   readonly audience: string
   readonly contributor: string
   readonly challenge: string | null
+  readonly look: boolean
 }
 
 async function codeMinted(root: string, asked: Minting): Promise<string> {
@@ -184,17 +197,18 @@ async function cookiesLanded(peripheral: Peripheral, code: string): Promise<read
   return held
 }
 
-async function signedInCookies(origin: string): Promise<readonly Cookie[]> {
+async function signedInCookies(origin: string, person: string): Promise<readonly Cookie[]> {
   const root = rootIn(process.env, process.cwd())
-  const contributor = contributorSigningIn()
+  const { contributor, look } = signingAs(root, person)
   const peripheral = peripheralAt(origin)
   if (peripheral !== null) {
-    const code = await codeMinted(root, { audience: origin, contributor, challenge: null })
+    if (look) peripheralRefused(origin, person)
+    const code = await codeMinted(root, { audience: origin, contributor, challenge: null, look })
     return cookiesLanded(peripheral, code)
   }
   const verifier = verifierMade()
   const challenge = await challengeFor(verifier)
-  const code = await codeMinted(root, { audience: APP_AUDIENCE, contributor, challenge })
+  const code = await codeMinted(root, { audience: APP_AUDIENCE, contributor, challenge, look })
   return cookiesTraded(code, verifier)
 }
 
@@ -207,22 +221,30 @@ export type SigningIn =
       readonly verifier: string
     }
 
-export async function signingInFor(origin: string, back: string): Promise<SigningIn> {
+export async function signingInFor(
+  origin: string,
+  back: string,
+  person: string
+): Promise<SigningIn> {
   const root = rootIn(process.env, process.cwd())
-  const contributor = contributorSigningIn()
+  const { contributor, look } = signingAs(root, person)
   const peripheral = peripheralAt(origin)
   if (peripheral !== null) {
-    const code = await codeMinted(root, { audience: origin, contributor, challenge: null })
+    if (look) peripheralRefused(origin, person)
+    const code = await codeMinted(root, { audience: origin, contributor, challenge: null, look })
     return { landing: handoverLandingAt(peripheral, code, back) }
   }
   const verifier = verifierMade()
   const challenge = await challengeFor(verifier)
-  const code = await codeMinted(root, { audience: APP_AUDIENCE, contributor, challenge })
+  const code = await codeMinted(root, { audience: APP_AUDIENCE, contributor, challenge, look })
   return { origin: HANDOVER_ISSUER, exchange: EXCHANGE_AT, code, verifier }
 }
 
-export async function createSignedInSession(origin: string): Promise<SignedInSession> {
-  const cookies = await signedInCookies(origin)
+export async function createSignedInSession(
+  origin: string,
+  person: string = alan.slug
+): Promise<SignedInSession> {
+  const cookies = await signedInCookies(origin, person)
 
   const browser = await chromium.launch({
     headless: true,
