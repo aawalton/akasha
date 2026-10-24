@@ -1,0 +1,67 @@
+The interesting thing about Wire Jammer was that it could use key [Rogue] and [Saboteur] attacks. Moreover, this thing was technically a cheat that Ozzy’s handiwork system mods had designed. Well, Samantha had found one big way it cheated, hidden in plain sight within the description of those skill uses…
+
+If you possess [Vital Strike], [Exploit Weakness], and/or [Sabotage], the Wire Jammer spell may utilize these skills upon those in range as if a [Rogue] or [Saboteur].
+
+The level wasn’t mentioned. As it turned out, the class function used the same levels the spell used for everything else: the total caster levels!
+
+It didn’t have access to any different ability functions that might come at higher levels, but it was functionally much better at actually performing those basic functions she had available, because her levels in [Saboteur] were much lower than her caster levels.
+
+The wire mass section on the flank struck for the neck, scoring a grazing cut there as the lich faded away, but not quite fast enough to avoid his decaying matter getting ripped. Along the path of the cut, the metallic wire grazed the amulet the lich was wearing — the thing she’d instructed it to focus on.
+
+There was a contest against the Effective Class Levels, but she hoped the lich couldn’t use his own. He had to use the item level, which was generally lower…
+
+At the fine touch of the Wire Jammer summon, almost dance-like as it licked across the amulet’s surface and caused tiny magic sparks, Samantha felt the magic within it get disrupted. It went dead! The lich’s eyes could be seen to widen slightly.
+
+Samantha was up, already gesturing with a hand. The wire mass was already curling away after its strike, pointedly not going for grapples for a reason. Well, she might clip it, still. No big deal.
+
+[Spellfyr: Unleash]. A bar of unstoppable, destructive energy came into existence between her palm and the lich, who was only a few steps down on the raised dais now. She deliberately spared the lich’s head, aiming for the neck down. She let the annihilating beam carry into the dais somewhat, eating underneath into the stone and perhaps the sarcophagus, as she made sure it was in the path. Whether that would matter, she didn’t know, but maybe?
+
+Having already defended himself desperately against the wire masses, the lich had no chance to avoid the 2-meter-wide beam. He was utterly caught in it.
+
+She saw the beam obliterating his tattered robes, but as soon as it touched his actual form, yet another Contingency went off, dropping two spells from the first lick of damage, doing something to preserve him, saturating his substance with black, voided energy, like a new innate armor. The other spell… she didn’t know. Perhaps they both preserved him in different ways.
+
+Argh! Stupid liches have a million of these, apparently.
+
+In the aftermath, the lich was screaming bloody murder, as a cloud of dust was in the air, and he was consumed with the pain of near-destruction. Furthermore, he was falling into a small pit that Samantha had made by obliterating the stone. The sarcophagus looked untouched, but was half hanging over the pit, in a tenuous way, the stone that had been underneath it completely disappearing.
+
+The void kept emanating around him, making wispy shadows from out of his core shape. It shaped itself over his face, too, and drowned out his scream, making it a distant echo. His eyes still glowed red from within, but otherwise, he was armored in the sheer consumption of light.
+
+It should’ve at least stunned the bastard, but evidently, part of his little desperate save had wiped the injury. From the pit, his staff raised up, and a countering glow from the book's top shone somewhat through the dark covering, its golden pages fluttering as if in a high wind.
+
+The effect was near-instant, and Samantha didn’t detect a spell; if it was, she didn’t discern it in time. She had no convenient counter ready, anyway. She backed away, but the effect was faster. It was not dodgable — going this or that way was irrelevant because it was AoE.
+
+A sphere of force projected outward, slamming into everything in its way and gliding over the surface of the floor. It hit Samantha like a freight train, easily wiping her wound negation and carrying her backward at tremendous speeds. She pushed back against it with all her strength, to no avail.
+
+It took her all the way across the room. She watched as those closer to a wall were splatted and crushed. His entire undead horde was being smushed into rotten gore, as the effect brushed everyone and everything away from the lich. The only things untouched seemed to be the stone of the place. The sarcophagus didn’t budge, the pushing force warping itself around it. His giants… the first lizard undead had just gotten finished off, but the other two were rather close to a wall. They were pinned and damaged but not destroyed.
+
+The same went for Gabriel. Meanwhile, Azure was grimacing and looking quite annoyed, pinned to the wall, her crystalline form having a bit of dust ground out of it. She barely seemed damaged and certainly wasn’t stunned. Her blades had all been shattered, but it seemed there was no more need for dicing up the mooks, as the lich had taken care of them.
+
+Samantha saw all this a moment before being slammed very hard into the far stone wall, indenting and cracking it as the lesser substance compared to a goddess. It nonetheless kinda hurt, and smashed her armor terribly, making it uncomfortably dig into her, drawing superficial blood. The force contoured itself to her, pinning her against the wall as it continued to crush.
+
+The force with which she hit was pulverizing. Calmly, she noted this was kinda up there in terms of damage dealt to her in recent memory. Enough to stun? Wow. She’d been getting good at avoiding it. Unfortunately for the lich, this was actual physical reality, still, and she was fully leveraging her Avatar and the associated toughness advantages against mere physical damage. In any case, the continuing pressure wasn’t strong enough to damage her.
+
+You’ve suffered a full-body Critical wound. Downgraded to Major by the spell effect of ‘Three Small Fortunes.’ You have been Stunned, unable to act for your normal 5-second period. However, you may still act with your remaining Haste effect of 2 seconds.
+
+Your armor is heavily damaged and mangled, digging into your flesh. Physical Armor is reduced to 0, and the bent pieces cause issues for precision physical movement, penalizing such things by -1 Effective Levels. Bleeding will occur, but it remains irrelevant due to your body being an Avatar form.
+
+Contingency triggered. You are fully healed (aside from ongoing Superficial damage). Stunning is dismissed prematurely; you may act normally.
+
+Damn. I hope we’re both out of these now.
+
+Samantha needed to focus on information. She took a moment to sweep her perceptions over the spells going on, drawing on [Sense Magic] to feed her quick information, and briefly closing her eyes to utilize her Third Eye through [Spirit Sight], which helped give additional cues in situations where there wasn’t proper time to identify shit.
+
+The effect pinning and crushing her was called Enforcing Proper Distance, which was actually a pretty cute pun. She could not determine the level, but it was high. Thirties, forties? It was not just an item; it was something tied between the lich and the item in tandem, basically a spell ability that had been empowered. In any case, it otherwise acted like a custom spell.
+
+The thing encasing him in void space was another spell effect… or had been. It had caused a kind of transmutation. The Night’s Decrepit March. Its essential nature was effectively written on its sleeve in the spirit world, as it couldn’t hide itself there, being so awful and blatant. It had converted him… sort of and partially, to another form, one fueled entirely by his extensive necrotic magic. It would continually consume attacks directed against him, utilizing his… mana pool.
+
+Oh, that’s really, really not fucking good. She could sense that his mana was quite vast, and potentially easily rechargeable on top of it. Furthermore, this was an already concluded effect. It did not seem susceptible to dispels. She was lacking the top levels of spells that could remove shit like this.
+
+Yep, who needs wound negations when you have some bullshit like this? And tied to some bullshit super-Contingency effect, so it triggers mid-battle. Very strong, lich boy. Very strong.
+
+As she was puzzling over how to handle it, she sensed something else about the lich — he did not seem nearly as insurmountably forceful of will as she would’ve thought. There was something obviously flawed about him. His deterioration, his greed, indicated that he could not possibly have such great discipline. His levels were high, and there was no question that he was no cakewalk to her, comparatively. But his will had degraded over the long aeons. Perhaps within punching range of her, with enough enhancements? Ten levels over in bonuses for a ‘maybe?’ Fifteen for sure? And maybe even Sixteen or Seventeen for success by 5+.
+
+She began to formulate a plan. If she could execute the first part, which required her conjecture about willpower to pan out, the rest would be easier. Hopefully. If she couldn’t, they’d be in trouble. This lich was going to win in a protracted battle because he had the levels over her.
+
+Samantha opened her natural eyes. The lich was already crawling out of his hole, ready for more. A walking void with red eyes. Behind him, she saw that her two wire masses were still up, having not been slammed terribly far into the wall from their prior position. They were damaged and had sections missing, but at least they’d be a distraction if she could clear the damn forcefield. They were definitely taking damage continuously from it, unlike her.
+
+And Gabriel is wounded but not out, and still hasn’t used her shield effect. That’s good. Okay! Let’s see if we can’t bring this bitch down to our level, as it were.

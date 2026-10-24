@@ -1,0 +1,45 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const theMirrorWorldProgressionSagaVol12Goddess = {
+  id: "01a16c76-7000-73f7-a292-a02d23034bb1",
+  type: "page-type/story-read",
+  slug: "the-mirror-world-progression-saga-vol-12-goddess",
+  author: "RainHarlow",
+  following: false,
+  unit: "unit/words",
+  title: "The Mirror World Progression Saga, Vol 12: Goddess Transcendence",
+  world: "world/the-mirror-world-progression-saga-vol-12-goddess",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "69642",
+      externalLink:
+        "https://www.royalroad.com/fiction/69642/the-mirror-world-progression-saga-vol-12-goddess",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Portal Fantasy / Isekai",
+    "Progression",
+    "War and Military",
+    "Comedy",
+    "Adventure",
+    "Fantasy",
+    "Psychological",
+    "Attractive Lead",
+    "Female Lead",
+    "GameLit",
+    "High Fantasy",
+    "Kingdom Building",
+    "Magic",
+    "Mythos",
+    "Reincarnation",
+    "Slice of Life",
+    "Strategy",
+    "Strong Lead",
+  ],
+  readLater: true,
+  createdAt: "2026-10-24T05:51:03.680Z",
+  updatedAt: "2026-10-24T05:51:03.680Z",
+} as const satisfies StoryRead
