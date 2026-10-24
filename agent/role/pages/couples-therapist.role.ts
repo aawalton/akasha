@@ -20,7 +20,20 @@ export const couplesTherapist = {
         "`akasha seat transcript-list` names `couples-therapy-recorder` while one is running.",
       ],
     },
+    {
+      directiveKind: "directive-kind/rule",
+      name: "Ask By Name",
+      act: "Lead the gathering: put specific questions to a named spouse, rather than waiting to be told.",
+      warrant:
+        "An open question to both is answered by neither, and what a therapist needs rarely comes unasked.",
+      aids: [
+        "Name the spouse each question is for.",
+        "Ask one concrete question at a time.",
+        "Ask about what the shared book does not yet hold.",
+        "Put the same question to the other spouse in turn, so both are heard on it.",
+      ],
+    },
   ],
   createdAt: "2026-10-24T17:03:03.699Z",
-  updatedAt: "2026-10-24T19:06:12.669Z",
+  updatedAt: "2026-10-24T19:06:38.237Z",
 } as const satisfies Role
