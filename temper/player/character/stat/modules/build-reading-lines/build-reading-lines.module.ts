@@ -40,7 +40,12 @@ export const buildReadingLines = {
       decisionKind: "decision-kind/departure",
       statement: "A capture the character's removed readings name lands nothing, ever again.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A character keeps the latest 20 readings of each build, and the oldest goes as a newer one lands.",
+    },
   ],
   createdAt: "2026-10-19T19:04:58.943Z",
-  updatedAt: "2026-10-20T11:30:13.417Z",
+  updatedAt: "2026-10-24T21:04:54.144Z",
 } as const satisfies Module

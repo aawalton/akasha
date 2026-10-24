@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import {
   type BuildReading,
+  KEPT_PER_BUILD,
   readingsWith,
   resultOf,
 } from "akasha/temper/player/character/stat/modules/build-reading-lines/build-reading-lines.module.code.ts"
@@ -45,6 +46,23 @@ test("a new result is added after the results held, once", () => {
   const written = readingsWith(body, [back, back]) ?? ""
   expect(written.split("\n").filter((line) => line !== "")).toHaveLength(2)
   expect(written.startsWith(body ?? "")).toBe(true)
+})
+
+test("a build keeps its latest readings, and the oldest goes as a newer one lands", () => {
+  const takenAt = (at: number): BuildReading => ({
+    ...READING,
+    reading: { ...READING.reading, capturedAt: at, stats: { "1": at } },
+  })
+  const full = readingsWith(
+    null,
+    Array.from({ length: KEPT_PER_BUILD }, (_, at) => takenAt(at + 1))
+  )
+  const other = { ...takenAt(0), buildHash: "ATQJ" }
+  const written = readingsWith(full, [takenAt(KEPT_PER_BUILD + 1), other]) ?? ""
+  const lines = written.split("\n").filter((line) => line !== "")
+  expect(lines).toHaveLength(KEPT_PER_BUILD + 1)
+  expect(lines.some((line) => line.includes('"capturedAt":1,'))).toBe(false)
+  expect(lines.at(-1)).toContain("ATQJ")
 })
 
 test("a capture a line holds lands nothing, though its result is new", () => {

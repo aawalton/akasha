@@ -70,6 +70,26 @@ function heldKeyOf(line: string): string | null {
   return capturedAt === undefined ? null : captureKeyOf(keyed.data.bar, capturedAt)
 }
 
+export const KEPT_PER_BUILD = 20
+
+const BUILD_HASH = "buildHash"
+
+function latestPerBuild(lines: readonly string[]): readonly string[] {
+  const counted = new Map<string, number>()
+  const kept: string[] = []
+  for (let at = lines.length - 1; at >= 0; at -= 1) {
+    const line = lines[at] ?? ""
+    const build = textIn(line, BUILD_HASH)
+    if (build !== "") {
+      const held = counted.get(build) ?? 0
+      if (held >= KEPT_PER_BUILD) continue
+      counted.set(build, held + 1)
+    }
+    kept.push(line)
+  }
+  return kept.reverse()
+}
+
 export function readingsWith(
   body: string | null,
   readings: readonly BuildReading[],
@@ -90,7 +110,7 @@ export function readingsWith(
     fresh.push(lineOf(one, result))
   }
   if (fresh.length === 0) return null
-  return jsonlBodyOf([...held, ...fresh])
+  return jsonlBodyOf(latestPerBuild([...held, ...fresh]))
 }
 
 function readingsBySlug(
