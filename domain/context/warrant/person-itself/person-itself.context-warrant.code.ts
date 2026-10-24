@@ -1,3 +1,4 @@
+import { onePersonIn } from "akasha/agent/seat/declaration/modules/seat-persons/seat-persons.module.code.ts"
 import { personaOrHandlerStated } from "akasha/domain/context/modules/agent-stated/agent-stated.module.code.ts"
 import {
   blobAt,
@@ -13,16 +14,9 @@ const PERSON_TYPE = "person"
 
 const KEY = "persons"
 
-function onePersonOf(root: string, path: string): string | null {
-  const listed = (valueAt(path, root) as Readonly<Record<string, unknown>> | null)?.[KEY]
-  if (!Array.isArray(listed) || listed.length !== 1) return null
-  const [one] = listed
-  return typeof one === "string" && one !== "" ? one.slice(one.lastIndexOf("/") + 1) : null
-}
-
 export function personItself(root: string, path: string): readonly Warrant[] {
   if (!personaOrHandlerStated(root, path)) return []
-  const slug = onePersonOf(root, path)
+  const slug = onePersonIn((valueAt(path, root) as Readonly<Record<string, unknown>> | null)?.[KEY])
   if (slug === null) return []
   const listed = listedAt(root, PERSON_TYPE, slug)[0]
   if (listed === undefined) return []
