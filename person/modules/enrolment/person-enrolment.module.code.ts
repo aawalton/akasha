@@ -1,4 +1,6 @@
+import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
+import { properNoun } from "akasha/domain/plain-language/standard-agent-english/part-of-speech/pages/proper-noun.part-of-speech.ts"
 import { addressIn, namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import {
   askingFor,
@@ -154,6 +156,54 @@ export async function accountOfContributor(
     return { ok: false, unread: false, why: `no person states the contributor ${contributor}` }
   }
   return { ok: true, account: textIn(row[ACCOUNT_KEY]), email: textIn(row[EMAIL_KEY]) }
+}
+
+const SPELLINGS_KEY = "spellings"
+
+const PROPER_NOUN = namedAs("part-of-speech", properNoun.slug, null)
+
+type Named =
+  | { readonly ok: true; readonly name: string | null }
+  | { readonly ok: false; readonly unread: boolean; readonly why: string }
+
+export function firstNameIn(spellings: unknown): string | null {
+  if (!Array.isArray(spellings)) return null
+  for (const one of spellings) {
+    if (!isRecord(one) || one.partOfSpeech !== PROPER_NOUN) continue
+    const spelling = textIn(one.spelling)
+    if (spelling !== null) return spelling
+  }
+  return null
+}
+
+export async function nameOfContributor(
+  contributorSlug: string,
+  fetcher?: Fetcher,
+  naps?: Sleeper
+): Promise<Named> {
+  const contributor = contributorNamed(contributorSlug)
+  if (contributor === null) return { ok: false, unread: false, why: SIGNING_IN_AS_NOBODY }
+  const asked = await askingFor(
+    {
+      pageTypeSlug: PERSON_PAGE_TYPE,
+      where: { [CONTRIBUTOR_KEY]: { is: contributor } },
+      keys: [SPELLINGS_KEY],
+    },
+    fetcher,
+    naps
+  )
+  if ("refused" in asked) {
+    return {
+      ok: false,
+      unread: true,
+      why: `the person pages went unread, so the contributor ${contributor} reads no name: ${asked.refused}`,
+    }
+  }
+  const row = asked.rows[0]
+  if (row === undefined) {
+    return { ok: false, unread: false, why: `no person states the contributor ${contributor}` }
+  }
+  return { ok: true, name: firstNameIn(row[SPELLINGS_KEY]) }
 }
 
 const SCHEME_KEY = "scheme"

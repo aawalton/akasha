@@ -10,6 +10,7 @@
 {"propertySlug":"import","fileName":"jenny.person.ts","path":"agent/seat/modules/akasha-read/seat-akasha-read.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"jenny.person.ts","path":"agent/seat/modules/typing/seat-typing.module.test.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"jenny.person.ts","path":"agent/seat/properties/conversation.computed-property.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"jenny.person.ts","path":"person/modules/enrolment/person-enrolment.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"jenny.person.ts","path":"person/modules/push-apps/push-apps.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"jenny.person.ts","path":"product/smilingjenny/web/.server/jenny-session/jenny-session.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"person/person.page-type.ts","id":"01a053e0-6cf7-7062-90af-db1def200572"}

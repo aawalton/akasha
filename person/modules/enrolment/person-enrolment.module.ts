@@ -27,6 +27,11 @@ export const personEnrolment = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A contributor reaches the first proper noun the person naming it spells as that person's name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Whoever a caller is, is one contributor or one account.",
     },
     {
@@ -75,5 +80,5 @@ export const personEnrolment = {
     },
   ],
   createdAt: "2026-09-01T03:23:41.966Z",
-  updatedAt: "2026-10-24T21:28:38.090Z",
+  updatedAt: "2026-10-24T23:07:14.453Z",
 } as const satisfies Module

@@ -5,6 +5,8 @@ import {
   asAccount,
   asContributor,
   contributorNamed,
+  firstNameIn,
+  nameOfContributor,
   personSlugFor,
   personSlugForAccount,
   personSlugForContributor,
@@ -14,6 +16,8 @@ import {
   recordingFetcher,
 } from "akasha/person/modules/enrolment/person-enrolment.module.test-fixtures.ts"
 import { alan } from "akasha/person/pages/alan/alan.person.ts"
+import { jenny } from "akasha/person/pages/jenny/jenny.person.ts"
+import { person } from "akasha/person/person.page-type.ts"
 
 const ACCOUNT_NOBODY_STATES = "00000000-0000-7000-8000-000000000000"
 
@@ -187,4 +191,25 @@ test("person pages that went unread leave a contributor reaching no account", as
   if (read.ok) return
   expect(read.unread).toBe(true)
   expect(read.why).toContain("went unread")
+})
+
+test("a person's name is the first proper noun the person page spells", () => {
+  expect(firstNameIn(alan.spellings)).toBe("Alan")
+  expect(firstNameIn(jenny.spellings)).toBe("Jenny")
+  expect(firstNameIn(person.spellings)).toBeNull()
+  expect(firstNameIn(undefined)).toBeNull()
+})
+
+test("a contributor reaches the name its person's page spells", async () => {
+  const read = await nameOfContributor(
+    A_CONTRIBUTOR,
+    answering([{ spellings: alan.spellings }]),
+    noNap
+  )
+  expect(read).toEqual({ ok: true, name: "Alan" })
+})
+
+test("a contributor no person names reaches no name", async () => {
+  const read = await nameOfContributor(A_CONTRIBUTOR, answering([]), noNap)
+  expect(read.ok).toBe(false)
 })
