@@ -94,9 +94,17 @@
         }
       }
     },
-    "mainHandWeaponType": 9,
+    "skillAbilityIds": {
+      "1": 153685,
+      "2": 155408,
+      "3": 157287,
+      "4": 154790,
+      "5": 153066,
+      "6": 157259
+    },
     "companionId": 2,
     "hash": "AjEIItC0LQtC0LQtDQ0NGNMSWtYymAA",
+    "mainHandWeaponType": 9,
     "weapons": {
       "1": {
         "isEmpty": false,
@@ -116,14 +124,6 @@
           "3": 0.5
         }
       }
-    },
-    "skillAbilityIds": {
-      "1": 153685,
-      "2": 155408,
-      "3": 157287,
-      "4": 154790,
-      "5": 153066,
-      "6": 157259
     }
   },
   "targetBuildHash": "AjEAItC0LQtC0LQtDQ0NGNOzqtY7WAA",
