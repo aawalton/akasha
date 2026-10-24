@@ -10,7 +10,8 @@ export const alanWebTherapy = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A session listed is a seat assigned couples therapy that states the reader.",
+      statement:
+        "A session listed is a couples therapist's seat assigned couples therapy that states the reader.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -26,5 +27,5 @@ export const alanWebTherapy = {
     },
   ],
   createdAt: "2026-10-24T21:52:05.693Z",
-  updatedAt: "2026-10-24T21:52:05.693Z",
+  updatedAt: "2026-10-24T22:09:50.196Z",
 } as const satisfies Route

@@ -1,3 +1,4 @@
+import { couplesTherapist } from "akasha/agent/role/pages/couples-therapist.role.ts"
 import { couplesTherapy } from "akasha/alan/couples-therapy/couples-therapy.domain.ts"
 import {
   personOf,
@@ -22,6 +23,8 @@ import { data, Link, redirect } from "react-router"
 const SEAT = toPageTypeSlug("seat")
 
 const THERAPY = namedAs("domain", couplesTherapy.slug, null)
+
+const THERAPIST = namedAs("role", couplesTherapist.slug, null)
 
 const TITLE = "Therapy"
 
@@ -54,6 +57,7 @@ export async function loader({ request }: { request: Request }) {
   if (personSlug === null) return data(NO_SESSIONS)
   const held = await whereReadBy(user, SEAT, {
     assignmentSlug: { is: THERAPY },
+    role: { is: THERAPIST },
     persons: { has: namedAs("person", personSlug, null) },
   })
   if ("refused" in held) return data(NO_SESSIONS)
