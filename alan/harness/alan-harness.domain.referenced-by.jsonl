@@ -1,5 +1,6 @@
 {"propertySlug":"assignment-slug","path":"agent/seat/pages/amy/amy.seat.ts","id":"01a14f20-9e11-7000-a53b-1e2e9cc76a9a"}
 {"propertySlug":"assignment-slug","path":"agent/subagent/pages/amy-a6fb8a216b3700f66/amy-a6fb8a216b3700f66.subagent.ts","id":"01a16eec-7aab-7cf9-a614-99a8810aab5f"}
+{"propertySlug":"assignment-slug","path":"agent/subagent/pages/amy-aa5b75de7f77ab48b/amy-aa5b75de7f77ab48b.subagent.ts","id":"01a16eef-c8af-783f-8f89-9cd6dfa43242"}
 {"propertySlug":"assignment-slug","path":"agent/subagent/pages/amy-aa7ffd7d08d4c0feb/amy-aa7ffd7d08d4c0feb.subagent.ts","id":"01a16eeb-dc39-738b-b062-598b5c0c7808"}
 {"propertySlug":"championed-domain","path":"persona/pages/amy/amy.persona.ts","id":"019eb900-4c8c-7304-aae1-b287c6b53b3e"}
 {"propertySlug":"import","fileName":"alan-harness.domain.ts","path":"command/pages/seat/messaged/seat-messaged.command.test.ts","typed":false,"deferred":false}
