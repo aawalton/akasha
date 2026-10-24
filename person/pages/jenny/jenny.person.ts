@@ -9,11 +9,11 @@ export const jenny = {
     { partOfSpeech: "part-of-speech/proper-noun", spelling: "Jenny" },
     { partOfSpeech: "part-of-speech/proper-noun", spelling: "Jennifer" },
   ],
-  answeredBy: "persona/claude",
+  answeredBy: "persona/claudius",
   phone: "+16085122511",
   email: "smilingjenny@gmail.com",
   contributor:
     "contributor/contributor-a4695dc2334e4f3a84ac562783ff54f9955e8bbcf8ba67ac6271b6fe035eb67f",
   createdAt: "2026-08-30T18:45:50.448Z",
-  updatedAt: "2026-09-25T12:39:29.000Z",
+  updatedAt: "2026-10-24T20:38:03.417Z",
 } as const satisfies Person
