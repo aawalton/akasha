@@ -1,0 +1,235 @@
+Kent sat a good piece away from where he had fought the alaks. The slope of the mountains he’d previously used no longer perceivable by the bare eye and only the highest peaks were visible behind the trees. Surrounded by trees and a few monster corpses Kent inspected his status. The line he’d worked for at the very top.
+
+Kent Larsson [Level 30] [7%]
+
+Pools:
+
+Health: 413/423
+
+Health Reg: 101 - 973 /d
+
+Stamina: 386/404
+
+Stamina Reg: 116 - 1118 /d
+
+Mana: 764/774
+
+Mana Reg: 1308 - 12609 /d
+
+Stats:
+
+Vitality: 101
+
+Toughness: 19
+
+Endurance: 86
+
+Strength: 32
+
+Agility: 30
+
+Senses: 20
+
+Mind: 92
+
+Magic: 387
+
+Willpower: 436
+
+Regeneration: 216
+
+Skills (1 Skill Point available):
+
+Accelerate Metal (20/20) (999/1000 Exp.)
+
+Penetrate (11/20) (380/550 Exp.)
+
+Metallic Affinity (20/20) (999/1000 Exp.)
+
+Metallic Extension (5/20) (199/250 Exp.)
+
+Mosquito (5/20) (2/250 Exp.)
+
+Metallic Presence (17/20) (197/850 Exp.)
+
+Effect: Temporal Fitting (12/20) (694/1800 Exp.)
+
+Magical Wellspring (20/20) (999/1000 Exp.)
+
+Kent wasn’t satisfied, but he was getting there. He’d slowed down quite a bit ever since getting to Farburg, but things were looking up now.
+
+He was oddly happy at the moment. A fleeting emotion, but one he reveled in nonetheless.
+
+When he had started out with Accelerate Metal, using the skill on multiple entities at once keeping control of the skill had been hard. Now using it on seven objects at once was as difficult as two had been, once he had figured out the correct spell strands that is.
+
+The rest of the fight had gone by unsurprisingly easy. So much so that he wasn’t entirely sure whether his original plan of investing his new skill point into Metallic Mastery was still valid or necessary for that matter.
+
+Metallic Mastery (0/20)
+
+Vary the final output of metal-related skills
+
+Maximum Variance: 10%
+
+The skill was still tempting, especially with his harness but there were equally good options out there now. It would probably still be the smartest choice out of the bunch he was considering, but Kent had begun to lovingly eye the General Combat Magics skill tree after noticing something that had also been mentioned multiple times at the institute.
+
+Skills had prerequisites, and there were aim-guiding skills at the core stage.
+
+He had two skills unlocked that might potentially unlock such a skill. Metallic Presence was the first, but it hadn’t unlocked anything at the core tier, and it was quite frankly unlikely. The other was a lot more interesting, especially combined with the currently available base capability.
+
+Locate Closest Monster (0/20)
+
+Gives a vague sense of direction toward the closest monster within range.
+
+Resolution: 5/rank m
+
+Range: 10*rank m (Magic)Cost: 1 mana per second
+
+It would allow Kent to spot monsters in hiding and thus either help him circle around them or take advantage of their position. There were a few other contenders, such as Mana Core or even one of the Sigils, but if Kent was being honest, a potential flight still took the crown.
+
+There was also the Daggers tree of which he had recently unlocked the Core tier, but a single glance a day ago had told him everything he needed to know. He didn’t have the Agility or Strength – the two attributes he thought would help most with the skills in the tree – to boost the skills effectively and he didn’t really need Death by ten thousand punctures either at this point in time.
+
+Just for good measure, Kent pulled up the whole skill tree.
+
+Daggers (Core)
+
+Foundation
+
+Mosquito (5/20)
+
+Teaches Dagger Combat forms.
+
+Partially Assimilated: Bee Stings
+
+Harden Dagger (0/20)
+
+Increases Hardness by 10% (rank, Endurance) of dagger
+
+Duration: 2(rank) min
+
+Cost: 10 mana
+
+Slippery Blade (0/20)
+
+Reduces friction of blade by 5% (rank, Agility)
+
+Duration: 0.5(rank) min
+
+Cost: 10 stamina
+
+Penetrate (11/20)
+
+Part of the damage dealt to armor is dealt to the wearer, as long as hardness is overcome.Effect: 55%Cost: 6 sta/use
+
+Death by ten thousand punctures (0/2)
+
+A single cut burns for a week, ten cuts leave scars for a lifetime, one hundred immobilize limbs, a thousand mame for a lifetime, ten thousands kill.
+
+Core
+
+Wasp (0/20)
+
+Teaches Advanced Dagger Combat forms and movements.
+
+Requires: Mosquito at Rank 11
+
+Displaced Dagger (0/20)
+
+Create rank/2 copies of your dagger that impact your opponent with reduced impact.
+
+Requires: Slippery Blade at Rank 11
+
+Sinews Cut (0/20)
+
+Locate Spots that are elemental to your opponent’s combat ability and strike them more effectively.
+
+Requires: Penetrate at Rank 11
+
+Cutting Edge (0/20)
+
+Empowers the next strike to have increased force behind it and increases the sharpness of the blade for the next five cuts.
+
+Requires: Penetrate at Rank 11
+
+Unlocked by Cutting Edge
+
+He stopped reading once he saw that there was a new entry to Mosquito.
+
+Uhm, what? It can do that? Not like it really matters I guess. Neither my own forms nor what Agatha taught me is really used by me whatsoever, unless my attributes catch up, it won’t matter. The skill has basically become useless by now. That wasn’t to say that Kent regretted taking the skill, especially if it allowed him to copy other katas but it just showed that he would have to keep an eye out for skills that could become redundant in the future.
+
+The next observation was still one of annoyance. Every other skill tree gave him a lot more information in the Core tier, but most of the skills in Daggers’ second tier were rather vague, no longer supplying Kent with fixed numerical values.
+
+Of the Core skills, Wasp was the least interesting. Given that Kent had still 15 ranks to go in Mosquito and was now apparently able to learn other katas under Mosquito.
+
+Displaced Dagger though was rather interesting. If that skill would work with his current style of combat, it was going to be a huge boost in combat potential. But he would need to take Slippery Blade first. A skill that Kent wasn’t really sure how to interpret. His best guess was that it had to do with impacting monsters, similar to Penetrate but different. So, it was not on his shortlist of interesting skills, even with the skill it unlocked.
+
+Sinews Cut too had some interesting implications but Kent’s control of flying daggers wasn’t at a point where he could effectively make use of the skill and he would prefer to not do close combat.
+
+Thinking back to the fight with the alaks he could see a use in the skill. If he were able to partially impair their movements, the fight would have been a lot easier.
+
+That assumption was wonky though. After all, monsters were creatures created from mana and conjured matter, not really something he associated with having sinews.
+
+Cutting Edge had been the name of a title he had gained at some point. It was interesting, neat even, but Kent didn’t know whether it was worth spending a skill point on at this point. The real worry Kent had was whether it would work together with the other skills. It felt like an improvement to the persecutor's skill. If it did, how the skills interacted could be a bit insane.
+
+This once-over-confirmed his previous stance. None of the skills here were vital and with his already low Agility and Strength, he was already not in an ideal position.
+
+Then there was something else he’d learned in the institute. Almost every successful conqueror had some means of special movement. And if he wanted to survive he needed that as well.
+
+Though, he reconsidered, he kind of had something similar. His cloak was certainly a movement technique as well. Just not one that he could really rely on over longer durations.
+
+Kent felt like more control, especially if that allowed for mobility, would be the best option. And even if it wouldn’t pay off anytime soon, he would be able to boost his metal skills.
+
+Metallic Mastery (1/20) (1/200)
+
+Vary the final output of metal-related skills
+
+Maximum Variance: 10%
+
+As the knowledge and capability of the skill came over Kent, he grew giddy. He wasn’t only excited; he was downright ecstatic. Gaining the skill felt like the rigid structures of all his metal-related skills had been lifted. Though some quick experimentation told him that this was far from the truth. The regulations and enforced patterns on the skill structures within him had lessened by a degree but far less than he had hoped for.
+
+That was not to say, that the skill didn’t do what it said it would. As he got up to move further back to safety he began experimenting. And it lived up to what he hoped it would be.
+
+On his way back to Farburg – he planned on sleeping inside the zone but still a bit away from people – he learned more about his new skill. It gained experience with each usage of any metal skill, even if he didn’t intentionally use it. The overall experience gain was unrelated to mana cost and only cared about activations or channel duration. The best part was that Kent learned that each passive cast – even suppressed ones – of Metallic Presence also counted towards the skills experience. Whether Mosquito worked was uncertain but Kent doubted it. It would make the combination a bit too powerful.
+
+Given that it was his cheapest skill Kent used Accelerate Metal to slowly rank up his new skill. With his remaining mana and without sleep – the most efficient way to recover mana – he struggled to increase his skill level beyond the third rank. If the count of monster encounters, he had after increasing in level hadn’t increased he might have tried sleeping in a tree.
+
+But the thought of being woken by a drop-pig tearing the tree he slept on out of the ground was… He was just not going to consider it any further.
+
+Not long after, but with less than fifty mana available he arrived in the zone. A bit further in, along a path connecting the various fields around Farburg, he laid down. He didn’t even consider not waking up as early as possible to continue ranking up his skills. He would get good and persistent sleep soon. But for now, he had to take complete advantage of his mana regeneration.
+
+***
+
+From late at night to early afternoon, Kent woke a total of six times to keep leveling up his skill. To the foundation rank cap.
+
+Metallic Mastery (10/20) (1/1500)
+
+Vary the final output of metal-related skills
+
+Maximum Variance: 100%
+
+At rank 10 the result was what he expected, and he could have probably kept going to see what the next rank gave him, but in all honesty, he didn’t care. He was too curious to figure out how precisely he could control his harness in this way.
+
+Modulating his knife's acceleration in various ways had taught him a bit about the skill, but it wasn’t enough to gain an understanding of the current capabilities of the skill. Mainly because how knives performed under the skill felt differently and he couldn’t really experience the strength of acceleration directly.
+
+And the over thirty strides per second squared the knives had experienced were still too much for him.
+
+That still meant that he hadn’t started experimenting with the harness, but rather try to dial the numbers into a few steps that felt comfortable.
+
+By now he’d not gained as much control for the modulation as he would have liked, but he was roughly able to choose an interval of 10% power for a skill cast. He might have been better if he’d given his all from the very beginning but back then he hadn’t understood the nuances of the skill.
+
+At roughly one percent skill power he judged that he would lift a bit more straight up if he tried to do so. That would be plenty for him to see about the finer workings of the skill.
+
+Kent considered trying to get a precise value, but the skill didn’t work that way. He had to mentally push the skill structure towards a certain density, mana flow rate, and several other factors to get values he felt happy with.
+
+Curiously enough multiples of ten were easy to determine and choose, possibly due to the familiarity he had built up with those while power-leveling or because Metallic Mastery helped determine the value. Regardless, values besides those were harder to choose precisely, instead, he could get a rough estimate of strength.
+
+A quick check of his mana showed him, that his capacity was at slightly over one hundred.
+
+I can do some experimenting with that. Should I go for it? Just straight up and see what happens. Kent really wanted to. It would probably be the smartest move to just move straight ahead at a low speed, especially since the town guard wouldn’t be able to see him that way. But if Kent was honest, he didn’t care much anymore. He had already determined that he would be gone tomorrow, and flight wasn’t that special.
+
+He took a deep breath and plucked his mental connection to the harness. He tried to input as little power as possible and was surprised when he didn’t completely shoot of into the sky.
+
+Accelerating upwards at slightly more than 3 paces per second squared he felt contempt. Though he was a bit disappointed that the mana cost still hadn’t dropped to something less than one per second.
+
+After the one-second channel time, he interrupted the cast and fell back to the ground. Staggering slightly as he impacted the ground.
+
+I need to do more testing, but I can get this to work well enough before tonight… He sighed as he lamented his quality and length of sleep over the last three weeks. Wherever I get to next, I need to not do anything so I can’t get any stupid quests, or find another way around them.

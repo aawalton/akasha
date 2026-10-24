@@ -1,0 +1,399 @@
+After unlocking the core skills of both of his main skill trees, Kent had spent the entire ride back to Farburg giddy. There were a bunch of promising skills, but a specific one had caught his eye. Effect: Temporal Fitting would be a valuable skill for each of the skills that had a channel effect. Of his current skills only Accelerate Metal would profit from it, but depending on how the skill worked, it might be a tremendous boost for close combat.
+
+Accelerate Metal had some decent applications in combat when Kent was able to ambush his opponents. Several factors like the fixed second of activation time and the nature of acceleration actively hindered it to be more effective in close combat.
+
+Then there were upcoming skills that might have beneficial interactions with the skill. Rotate Metal and Oscillate Metal would surely qualify as such. Though Kent couldn’t quite imagine how the latter would work with it, the combination was surely going to be favorable.
+
+Metal Mastery was the other very interesting skill of the Metallic Insight tree. Allowing to vary a skills potency would help with more delicate matters. He already had a few potential options blossoming in his mind, ways to make his skills useful for professions besides monster hunting. Rapid transport of goods would be enabled – as long as they were metallic or in metal containers – and even more depending on how it changed after reaching rank eleven.
+
+Metallic Insight (Core)
+
+Metal gives strength to any wielder, but seldomly it is understood well.
+
+Foundation
+
+Analyze Metal (0/20)
+
+Gain a mental image(rank) of the inspected metal’s qualities.
+
+Cost: 100 Mana
+
+Metallic Affinity (11/20)
+
+Skills and spells that interact with Metal are boosted 110% (rank)
+
+Metallic Presence (6/20)
+
+Gain occasional impressions of all dense metal pockets (rank, senses-low, magic-low) in your surroundings. For a constant cost, get constant information.
+
+Resolution: 0,22m
+
+Frequency: 6 per hour
+
+Range: 60 m
+
+Cost: 10 mana per second
+
+Metal Permeability (0/20)
+
+Change a metals permeability for 1 second by 10% (rank, magic).
+
+Range: Touch
+
+Cost: 100 mana
+
+Core
+
+Construct Alloy (0/20)
+
+Infuse another metal into a preexisting metallic item to imbue a few of the characteristics of the secondary metal
+
+Metallic Mastery (0/20)
+
+Vary the final output of metal related skills
+
+Maximum Variance: 10%
+
+Effect: Temporal Fitting (0/20)
+
+Morph a channeled metal spell cast into two-time intervals. The immediate interval uses a vast amount of the skills numerical effect at once during the interval
+
+Duration: 0.7s (rank)
+
+Effect: 0.5x (rank)
+
+Effect: Physical Transformation (0/20)
+
+Changes Acceleration effects to Force effects.
+
+Numerical values are reduced to 10%
+
+Sadly though, it seemed like the skills in Metallic Insight weren’t boosting each other. The values of skills in Metallumancy had grown as his Metallic Affinity had increased in rank. Kent hadn’t expected that they would but had held up a flicker of hope.
+
+Having a multiplier of two at rank ten of Metallic Mastery was already decent, it being four or even six would be a bit broken.
+
+What exactly the other two skills offered would do felt ambiguous as of yet. Construct Alloy seemed a lot like a crafting skill and thus held some inherent appeal. Kent was sadly aware of his current situation and felt like it would be a needless risk to not take a combat skill.
+
+The Physical Transformation skill on the other hand felt odd. Admittedly Kent wasn’t well versed in physics terms – a point he wanted to remedy soon – which hindered his understanding of the effects. Nonetheless, he couldn’t help but deem it useless.
+
+As the carriage left the forest, propelled by Reinar’s trait, Kent moved on to his other core skill tree.
+
+Metallumancy (Core)
+
+Foundation
+
+Accelerate Metal (11/20)
+
+Accelerate a previously attuned piece of Metal towards or away from you
+
+Acceleration: 134,8 m/s^2
+
+Range: 341m
+
+Cost: 2 mana/s
+
+Harden Metal (0/20)
+
+Harden an attuned piece of Metal for a duration
+
+Effect: 42% boost
+
+Duration: 10 (rank) min
+
+Cost: 10 mana
+
+Rotate Metal (0/20)
+
+Rotate a piece of metal however you want symmetrical to the center of mass
+
+Rot. Acc.: 35.0 m/s^2
+
+Range: 21 m
+
+Cost: 1 mana/s
+
+Metallic Extension (3/20)
+
+Attuned Metal is an extention of your body. You can use fitting skills through attuned metal.
+
+Effectiveness: 63%
+
+Core
+
+Metal Attuned (0/2)
+
+Attune your mana to the concept of Metal. Allows for free form metal magic.
+
+Mirrored Movement (0/20)
+
+Determine a plane across which your metal related skills are mirrored. Mirrored skills are cheaper to keep up.
+
+Planes: 1
+
+Cost: 25^(planes)%
+
+Metallic Construct (0/20)
+
+Create a construct from metal. Carries intent (magic). Hardness, Durability, Stability, and Heat increase with rank and familiarity
+
+Oscillate Metal (0/20)
+
+Oscillates attuned metal along a line.
+
+Frequency: 1,05 sec
+
+Amplitude: 0.21 m
+
+Kent had had hopes that Rotate Metal and Accelerate Metal would unlock something together – but with the former rather low on his short list he hadn’t expected another metal movement skill. Yet here was Oscillate Metal. The skill certainly looked interesting, but Kent had no ideas how to properly implement it into his fighting style. To stay inconspicuous, he would rather stick to the less flashy skills for now.
+
+Mirrored Movement and Metallic Construct looked promising too. Though for Mirrored Movement to become sensible he would need a lot more daggers and a higher mental stat – there was no doubt in his mind that controlling multiple spells would strain him more. Metallic Constructs would require more resources – which he lacked – and depending on how the skill worked also require the ability to deform metal – which he lacked.
+
+Then there was Metal Attuned. He’d heard of similar skills in all sorts of directions, and they were usually designed a waste. Why that was he didn’t know. But given that it wasn’t a straight-up upgrade to his current abilities he ignored it until he would get more information.
+
+For now, he would have to wait and see how his situation evolved. See how his fighting changed and see what he required the most. Maybe, it would be ideal, to even wait until all his skills reached at least rank eleven before picking a new one, or even rank twenty. People liked to talk about hidden skills, that were unlocked when certain requirements were met, and it was just prudent to wait for that.
+
+As much as Kent wanted to believe he could do that, he knew it was a fool’s hope. Maybe, with a class evolution upcoming or something of a similar caliber, he would wait. He wasn’t in such a situation. With the system forcing another annoying quest on him, he just looked forward to expanding his options and merely survive for now.
+
+But after some cursory evaluation, Kent’s thoughts drifted away from most of the skills. Temporal Fitting was by far the most interesting. It was ambiguous how the skill would work with non-channeled skills or if it even would. But potentially accelerating his daggers to top speed in the blink of an eye drew him in. He promised himself to inspect all the skills again when the time came to pick up his next but knew it was a halfhearted promise at best.
+
+He had more pressing issues to concern himself with. The plan of helping Alexus acquire another level and supply him with spell cores was now far from ideal.
+
+The excursion with Estes had been eye-opening. A region rich with turrls – monsters that didn’t give much experience in the first place – was terrible to improve upon level. One needed either high agility to dodge the monsters or tolerance to their poison. A resistance that was either governed by Willpower or Magic – Kent wasn’t quite sure about that. Which didn’t fit the smithing theme.
+
+Going out at night for a bit of monster hunting wouldn’t really endanger him as long as he had mana to spare, but it would certainly place the young smithing apprentice in harms way. Kent ignored the fact that he had mostly survived by pure luck; That he would be in the kingdom of the dead without health potions. He was curious about testing himself again soon with a couple more levels under his belt, but maybe not right now.
+
+Without Estes prodding he might even take a longer break from combat. He was tired of it. But as the other man had insisted and with current developments it was better to be tired of it and survive instead of wilting under threats and pressure one couldn’t handle.
+
+So, Kent lazed on the wagon as the passed through the gate, thinking of his options.
+
+With just one of my newly unlocked skills, my combat potential might increase tenfold. But is that really what I need right now? If I really plan on robbing the institute shouldn’t I worry about improving my stealth?
+
+With that he really hoped that his interpretation was a correct one. Taking revenge could mean a lot of things, and his system seemed to be a bit bloodthirsty. Best not to dwell on it he told himself.
+
+The other possibility of growing stronger was using his cloak more freely – but its description still worried him on occasion. Being stuck in the cloak's embrace forever was not something he wanted to risk regardless of the strength inherent to the ability. The uncomfortable feeling of being embraced by the cloak’s ability was bearable over a short time and had gotten more pleasant ever since the upgrade. But practicing with it was bound to be unpleasant and being stuck in that world sounded terrible.
+
+He would start soon, he told himself. Not today though.
+
+Maybe, he thought, Alexus and I can work our way up slowly. Starting in the early evening and just attracting the few monsters on the outskirts. With any luck, we would only come about small amounts of monsters and once I reached level twenty it will be even less risky.
+
+From there they could expand their efforts to larger encounters. There were bound to be tactics for attracting individual monsters only or groups of any size. The issue though that such information was locked behind a conqueror’s membership.
+
+What am I even doing here, considering to escort Alexus for what? Some dubious offer of a knife.
+
+***
+
+The next day proceeded much as the previous one, except for a highly annoyed Estes accompanying him instead of the usually cheery version of the same. Kent considered asking, if only to give the other man space to vent. Estes only grunted and strode into the forest.
+
+The morning, noon, and early afternoon passed much like they did the day before. The pair rid the world of roughly one hundred monsters throughout the day. That wasn’t enough to get Kent to level twenty, but close. Estes, just as he had the previous day, spent the remainder of the job half-asleep half-awake on the wagon; occasionally talking to the people bringing large stumps of wood or the driver, but never interacting much with Kent. Going as far as leaving Kent to deal with the singular monster that appeared during their stay in the forest.
+
+Kent didn’t mind. His thoughts were somewhere else entirely.
+
+At first, he had mused on the future progression of Accelerate Metal. At first, he had only been able to accelerate knives away and to his stomach – a region which had slightly grown with rank – then as he learned Mosquito he was able to accelerate daggers from his hands, something he suspected to be possible at rank 10 usually.
+
+Now, the skill had changed once again. Ever since reaching rank eleven, there had been a significant shift and it was still building.
+
+He was able to direct metallic objects differently now. Instead of just away or towards him, he could apply a small component of acceleration perpendicular to the main direction of the effect. As he was hiding Accelerate Metal from most people there was much testing left to do. Trials had yet to exceed the bounds of pushing a sceat into the ground when no one was looking and making it slide above the ground.
+
+Then there were the plans for tomorrow night. Then he would revisit the smithy to talk to the smith’s apprentice, Alexus, to finalize how he wanted his dagger to be repaired and plan their next day. In truth, the latter was already finalized. The other boy could either come along to Estes' and Kent's clearing of the woods or not come. Kent seriously hoped he would join them, not only because he wanted someone his own age to converse with. But because Estes had become like a bard that overstayed their welcome. The stories he told kept repeating themselves and were only slightly amusing at first – if one were generous.
+
+The chances of going into the forests with Alexus alone had, over the course of the day, grown slim. The level thirty-nine Mauler, a monster with exceedingly powerful hindlegs and the size of one and a half men had been a challenge even for Estes. Proofing how much size mattered, even with a significant level difference.
+
+And Kent was not going to go near such a monster as long as he could help it.
+
+As the afternoon approached and the crew prepared for their way back to Farburg, Estes approached Kent with the idea of clearing another section of the forest close to the city.
+
+Kent easily agreed, looking forward to the next skill point that would soon come at level 20. Estes’ motivation was no doubt to let off some more steam, or more nefarious. Trying to see what Kent would choose as his new skill.
+
+The work crew left the forest without them, and they got ready to rouse another group of monsters.
+
+The first fight lasted just a few seconds in which they didn’t manage to get Kent to level twenty. With all the opponents being mostly level eight to twenty scramblers and drop pigs Kent didn’t gain much, especially not with Estes around. The second encounter further along the zone’s edge hadn’t done much for him either in terms of experience.
+
+After repeating the same process two more times, deeper into the woods, Kent finally reached level twenty.
+
+There wasn’t much fanfare from the system. His status merely showed the new skill point and he had gained a few stats in each of the attributes. The distribution – gaining one stat in each level, as was common with a multiple of level ten– was nice enough though. Though to be specific his titles caused those numbers to be higher than for most others.
+
+Yet the total numbers were lacking behind his regular level-ups by a bit.
+
+They left it at that, but instead of returning to the city, they walked through the pastures around the city. Estes had hinted at a nice way to end the evening, cool down, and get rid of some of the gore. Kent grew even more suspicious. The stress of the past few weeks was noticeable to Kent now more than ever.
+
+Though, as it turned out Estes’ promise did not disappoint.
+
+He followed the other man as they walked through some light foliage, most of the space between the trees trampled. Unexpectedly, as they progressed further, a few voices came to them on the wind. For some reason, the first thing that Kent expected was an ambush, a military camp, or a patrol that was out for him. Sweat dripped down his back and forehead as he held his daggers tight, but there was no use in running away. Estes was faster and if he brought him here to be captured there was nothing he could do besides try and get the first hit in.
+
+Then Kent was blinded. Just briefly.
+
+For a very brief moment before his mind, senses, and vitality negated the effect. He expected an attack, and had braced himself to protect his face. Then his brain managed to finalize what he was seeing through the trees.
+
+In hindsight, that was stupid. There was no reason to use supportive combat tools when fighting him, even if someone had figured out that he was traitless. Especially if the had found that out.
+
+A large expanse, at least as large as Blueleaf and its 80 houses, was clear of trees, with the vast portion of that area being taken up by water. Water that was glinting slightly and ever so often slightly blinding them in their approach, when waves and light mixed together in just the right way.
+
+A lake, with a bunch of people enjoying the afternoon around it.
+
+As they got closer Kent realized that most seemed to be on the younger side, about his age or thereabout. Most likely working in professions that weren’t busy in the early afternoons, enjoying their sparse free time, or not yet having solidified their trait.
+
+It was surprising. In Blueleaf the younger adults had spent time with each other off work plenty, but with war just around the corner – at least location-wise – he felt it was inappropriate. Some introspection quickly told him though, that he was primarily jealous.
+
+Now he was here as well and certain did plan on taking a few strokes in the water. As they took the last fifty strides through the forest the soft encompassing effect of the zone let up, and the slightly rough and wild energies of the wilderness could almost be discerned.
+
+They didn’t inspect the lake and shore for long. Choosing a place among random groups of people to sit down and store their stuff. Momentarily Kent considered undressing, but the monsters’ innards and blood were still on him and his clothes. He might as well wash himself and his attire all at once.
+
+Bringing that to Estes' attention they moved further towards the outflow of the lake and dipped in there.
+
+Eventually, Kent asked Estes something that had bothered him ever since getting here.
+
+“Why doesn’t the zone extend here? People are missing out,” Kent smiled after taking a few strokes in the cold water. “Well not missing out, but isn’t it quite dangerous?”
+
+“You might not know this, but Farburg is pretty young,” Estes began. “Its zone is still growing and actively being nurtured. This was one of the amenities that is planned to be incorporated into city infrastructure with due time. Which is better than what a lot of other frontier towns get. In general, Farburg is doing pretty well. And on the danger level, as you have seen it doesn’t take a lot for a person to clear a group of monsters around any specific area.
+
+“As far as I know the guard comes here every noon or so to train new recruits,” Estes mentioned as an afterthought.
+
+They enjoyed some of the remaining light there before heading back to Farburg.
+
+***
+
+A day after his swim in what was generously called a lake, Crescent Lake to be precise, Kent had considered his options and was still uncertain. He had spent the entire day without picking a new skill, even though Estes had bugged him more than once on the matter.
+
+Not that he could tell Estes what sort of skill he would end up picking, due to what he had told the other man about his skills previously. For now, all he told the seasoned conqueror was that he was still working his way up to rank eleven so he could see what he was working with. By common wisdom, it was even advised to wait until you had capped all current skills at their maximum rank before picking a new one, but Kent was not in the mood to wait that long.
+
+It proved a good excuse though.
+
+They were on their way back to the city after helping the crew in the woods, when he checked his statues once more. Doing so before entering Farburg’s gates not only helped him tune out Estes who was still bickering about playing escort the next day, but was the last chance he had to do so before coming home late.
+
+Kent Larsson [Level 21] [58%]
+
+Pools:
+
+Health: 223/281
+
+Health Reg: 66 - 435 /d
+
+Stamina: 100/302
+
+Stamina Reg: 89 - 587 /d
+
+Mana: 340/484
+
+Mana Reg: 669 - 4415 /d
+
+Stats:
+
+Vitality: 66
+
+Toughness: 17
+
+Endurance: 62
+
+Strength: 30
+
+Agility: 27
+
+Senses: 18
+
+Mind: 58
+
+Magic: 242
+
+Willpower: 291
+
+Regeneration: 140
+
+Skills (1 free skill point):
+
+Accelerate Metal (14/20) (78/700 Exp.)
+
+Penetrate (7/20) (313/350 Exp.)
+
+Metallic Affinity (14/20) (77/700 Exp.)
+
+Metallic Extension (4/20) (11/200 Exp.)
+
+Mosquito (3/20) (149/150 Exp.)
+
+Metallic Presence (7/20) (29/350 Exp.)
+
+Magical Wellspring (13/20) (537/650 Exp.)
+
+Over the last day, he had gained access to the core skills of one more skill tree. Mage’s Augmentation offered interesting skills in the Foundational tier. Though Magical Wellspring and Mana Core were the certain winners in a direct comparison as the respective mana regeneration and mana capacity scaled well with magical builds, it offered some interesting stuff.
+
+The next tier was in some regards even more impressive and powerful. In others also a bit boring.
+
+Mage’s Augmentation (Foundational)
+
+Build upon the base of your magic.
+
+Foundational
+
+Mana Core (0/20)
+
+Increases the size of your mana pool by 110% (rank). Builds a core within your body.
+
+Magical Wellspring (13/20)
+
+Increases the rate of mana generation by 130% (rank)
+
+Sigil of Observation (0/20)
+
+Increases Senses by 2.5% (rank) of magic
+
+Duration: 5 (rank) min
+
+Cost: 50% of mana pool
+
+Sigil of Concentration (0/20)
+
+Increases Mind by 2.5% (rank) of magic
+
+Duration: 5 (rank) min
+
+Cost: 50% of mana pool
+
+Core
+
+Energetic Weight (0/20)
+
+Increases mana strength by 5% per rank.
+
+Requires Mana Core
+
+Semi-Permanent Efficient Spell Structures (0/20)
+
+Reduces cost of spell structures by 2% per rank.
+
+Requires Magical Wellspring and Mana Core
+
+Sigil of Strength (0/20)
+
+Increases Strength by magic. Costs 50% of mana
+
+Requires: A Sigil or a sigil skill
+
+Sigil of Agility (0/20)
+
+Increases Agility by magic. Costs 50% of mana
+
+Requires: A Sigil or a sigil skill
+
+Energetic Weight was weird. Kent wasn’t really sure what mana strength meant – having never heard of such a term before. His best guess was a flat amplifier to all his spells, potentially for free. That would surely be a strong choice, but with how his level had been increasing and how he gained more mana capacity with each, the requirement was less tempting. Before his class evolution he had been of a different mind, but many things had changed since then.
+
+Semi-Permanent Efficient Spell Structures was a mouthful. It also sounded very strong. But would only really show it’s colors the next state or even later. The early ranks of the skill would at best reduce cost by a fourth and only once fully leveled by four in ten. That was basically the same as double the mana for the cost of a skill point. Which he would get through Mana Core as well.
+
+Once he was level one hundred – no should he ever get there – the skill would potentially become interesting, he thought.
+
+Sigil of Strength and Agility were more tempting in a way. Boosting his close combat abilities directly would be a great advantage, the const was prohibitively expensive though. At least they only required a single other sigil as a prerequisite. Kent did note that it was rather interesting that one of the available skills directly circumvented the downside of the sigil’s high mana cost. Going that direction involved a skill point cost he couldn’t stomach yet.
+
+Certainly, it would be worth it to revisit the topic again, should he ever see himself in the possession of several extra skill points. Especially once he had a skill point in Semi-Permanent Efficient Spell Structure.
+
+That skill is such a mouthful.
+
+He couldn’t quite keep his optimism at bay. There was bound to be something good at the end of that road. Now if he knew what the requirement “a sigil” meant he would actually be able consider that better.
+
+A rock, unfortunately, placed on the side of the road brought Kent back to the land of the perceptive.
+
+So, the current plan is to focus on my two main skill trees, Insight and Metallumancy. Kind of a shame, becoming stronger by such a margin would be quite something.
+
+After they had passed the inspection he turned his eyes toward the second district. Only realizing that he’d missed his chance at a free dinner as he stood at the gates further in.
+
+Kent turned in his voucher, to allow entry into the second district unaccompanied, at the gate. In exchange one of the guards did something to his arm. A tracking skill no doubt and recommended Kent to exit through the same gate should he want to have the ‘mark’ removed.
+
+When he finally stood before the shop of Hymdal’s Hammer and Forge he locked in his skill choice.
