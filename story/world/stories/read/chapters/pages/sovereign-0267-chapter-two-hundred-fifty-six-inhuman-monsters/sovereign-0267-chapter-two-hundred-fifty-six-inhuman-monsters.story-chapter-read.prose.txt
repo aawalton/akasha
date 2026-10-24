@@ -1,0 +1,131 @@
+“The shattered remnants of the CFN formations stubbornly defending Ginzu have been finally dislodged by advancing MN troops. After weeks of shaping operations, incessant heavy artillery shelling, and constant airstrikes and missile strikes on North Hebeian supply and communication lines, their lines finally began to shatter by February 26. Now, on the third day of March, the flag of Imperial Ginzhu was seen flying on the ruins of the Ginzhu City Hall. While the city is now operationally encircled, vicious fighting between the Ginzhu Metropolitan garrison and MN assault forces continues, with an estimated fifteen thousand North Hebeian troops still holding out in small heavily entrenched pockets of resistance.”
+
+- Geopol Press
+
++++
+
+West Orland
+
+November Palace
+
+March 6, 2026
+
+Three metallic beasts appeared on the footage screens. They were four-legged grey mechs, with red sensors placed on the front of their hull. Their size was unnaturally small, that of a vehicle that was as tall as a human being, with a length of only four meters and a height of two meters.
+
+Considering how thin their hull itself was, and how small it was, a human pilot, therefore would be impossible.
+
+They moved fast in packs, armed with double machine guns mounted on a small turret on top of its hull. Its armor plating was angular, though even Amelie doubted that it would be able to resist autocannons or heavy machine guns armed with armor-penetrating bullets.
+
+But with its speed, size, and agility, the footage being presented to her showed enough. The soldiers facing them practically scattered in panic in the rubble, and the packs of these tiny metallic monsters tore through them like wet paper. Bodies piled high, as the soldiers tried to fight it off until someone managed to fire a handheld MANPAD on one of them.
+
+The footage was cut from that.
+
+“...Those were…Gallian soldiers, weren’t they?” Amelie asked with a shaky voice. “So this…”
+
+“This wasn’t actually taken in the Gallia–Poznek border. Rather, it was taken from north Latia. Those were expeditionary soldiers aiding our Latian ally in defending that town. It was recorded just six days ago. It seems like a new unit type that the CFN unleashed.”
+
+“...I see,” Amelie frowned at General Albrecht’s response. He stood in front of the presentation screen with crossed arms, his face barely visible due to his cap. “How many of them were there?”
+
+“That Gallian unit was almost overrun and destroyed. Luckily we were able to send enough reinforcements to subdue those new weapons. What we do know though, is that the Larissans sent them after a simple eight-hour artillery barrage alone. There were two hundred of them.”
+
+“T-two hundred?”
+
+“And they mauled two Gallian expeditionary battalions. Both are combined arms. We had IFVs and those wheeled tank destroyers the Gallians are fond of during the battle,” General Albrecht sighed. “These new ‘drones’ as we call them now, appear to be armed with ATGMs on the side of their turret, so they have AT capabilities as well as anti-personnel capabilities. With their rapid movement, they attacked in effective swarms of four groups, dismantling defenses even in the hilly terrain until they reached the towns occupied by the Gallians.”
+
+“...Then that means, their mobility in rough terrain is that good?”
+
+“Surprisingly good for drones indeed,” General Albrecht sighed. “And that’s where we are worried. They seem to move better on hard terrain than our elite light mech pilots.”
+
+“...That’s very concerning indeed.”
+
+“We’re looking at it,” William spoke up from his seat. “Intel is limited, but the RIU and the OPM are checking it out, but it appears they aren’t simple drones. Not in the sense that they are remote-controlled at least.”
+
+Amelie turned her back to William, her premier security and intelligence advisor sitting with a grim, unreadable expression as he looked down at the table. Amelie only received this news early this morning, so she wondered if William kept this out of his reports for a while if he had an idea about it this fast.
+
+That after all implied that he and Marie had been working on this for a while now. His tone indicated that he knew more than General Albrecht, and Amelie, taking a glance at the general, could see that even he stared at William with narrowed eyes.
+
+“...They are, in essence, autonomous in nature,” William let out those words after a shaky silence.
+
+There was no one but the three of them in the room. This information was kept as far out as possible from everyone else. Now that Amelie and General Albrecht knew of it, they reacted in different ways. General Albrecht seemed a bit surprised for a second, before letting out an amused grin.
+
+Amelie on the other hand seemed confused. Autonomous? Whatever that meant. She was about to speak up when General Albrecht laughed at William.
+
+“Is that so?” General Albrecht asked. “Autonomous you say?”
+
+“It’s unconfirmed intel, General.”
+
+“Unconfirmed, but anyone looking at this from the Army already came to that unspoken conclusion.”
+
+“Umm…so, I’m kinda rusty about this,” Amelie tilted her head a bit as she looked at William curiously. “So I’m not really sure what this ‘autonomous’ means. Does that mean it’s a fancier drone?”
+
+“Drones are usually remote-controlled by humans. Recently though, there have been attempts to utilize ‘neural networks’, or, algorithms created by machine learning to move swarms of drones…”
+
+“Okay?”
+
+“That has been largely unsuccessful, as far as I know. It has great combat potential, because…if successful, it’ll essentially create the first true combat AI.”
+
+“Oooh, AI,” Amelie’s eyes widened, her curiosity sparkling in her blue eyes. Until…it was replaced by abject horror. “Wait, wait, AI? That…that thing? As in, robots that think for themselves?”
+
+“Well, she’s on the money quite fast too, huh?” General Albrecht laughed on the side.
+
+“Our enemy has combat AI?” Amelie asked, her outrage growing.
+
+“Again,” William called out tiredly. “It’s unconfirmed intel, geez. For all we know, these ‘drones’ are still remote-controlled, by…well, extra good drone operators. We’re still gathering further intelligence about it, then we’ll analyze it. It might take a good week or two before we come to a concrete conclusion.”
+
+“Do we have teams deployed for this task already?” Amelie asked.
+
+“Yes. Marie is hard at work organizing it, but the last update I had from her was that she was successful at inserting two RIU teams deep in Larissa to investigate this,” William shrugged. “For now, we’ll just have to wait and see.”
+
++++
+
+Federal Republic of Orland
+
+Eirhow City
+
+“Wait and see?!” a loud bang came on President Sullivan Rimpler’s table. General Heindhöff was furious, while a tiny smile grew on Sullivan’s face. That only further annoyed the outraged officer in front of him. “Who in the goddess’ name told you that you can simply deploy those things—”
+
+“The preliminary deployment of the Autonomous Defense Units is preliminary and experimental,” Sullivan replied coolly. “I have to remind you that we had an arrangement back then regarding the question of when this tool will be used.”
+
+“We are already building up for the grand offensive. You cannot do this! Tau Core is still unready, and I loathe to say this, but that thing will never be a good thing. It’s a monster, and unleashing it will doom us.”
+
+“It won’t. We have control systems in place.”
+
+“How painfully naive of you. Is this really how the president of the Federacy should act?”
+
+“May I remind you that our goal here is winning the war?”
+
+“And how will the revolution succeed if this backfires?”
+
+“We have always been cornered. We’re just recognizing that reality now. I know it’s a gamble, but we already gambled when we launched that putsch. There is no difference to this today.”
+
+The heated exchange between the two leaders of the Federal Republic ended after a few seconds. Sullivan understood, of course, the outrage coming from his most seasoned commander. But he also wouldn’t budge. After all, it had already come to this.
+
+Truth be told, the war was becoming unwinnable for the Coalition of Free Nations. While their factories continued to churn war machines by the thousands, the question of troops fed to the frontline was becoming a hard one to answer. Casualties had now crossed millions.
+
+At this point, it was a struggle to find any young man anywhere who hadn’t seen the war and was in prime, healthy condition. Most already suffered mild, moderate, and even severe injuries. The worst ones were being sent back either to work details or second-line garrison units if they had a chance to recover. Those who could fight on the other hand were being cycled again and again in the frontline.
+
+Considering the multitude of wars they had fought, probably a quarter of men already became a part of the casualty rosters twice or thrice. For the Federacy, this arrangement was amplified. They couldn’t replace their losses after all with women.
+
+They could only replace it with those who recovered from their wounds, veterans from past wars, or even the untouchable cadre of men working in specialized roles in the war industry—which were truly untouchable. They couldn’t touch them without sabotaging their production.
+
+Women were something that had been explored as a potential source of manpower, but that was more of a pipe dream than a practical solution. Truth be told, Sullivan’s regime and every regime of the CFN were hated and unpopular for women. Those who kept their heads low obviously would rebel if given a chance. The rest already did that.
+
+They couldn’t even properly get these people in their industries. The last time they did that, a batch of two hundred Löwe tanks had issues concerning their transmission, final drives, or even something as simple as the engine catching fire the moment it ran for a hundred kilometers.
+
+“Still…this solution is too drastic,” countered General Heindhöff, his tone now more subdued. “I urge you to reconsider.”
+
+“Their performance both in Latia and yesterday in Lieplatz suggests otherwise. This is a weapon that…if used well, we would be benefiting greatly from.”
+
+“It may fix our manpower issues, but again, if these weapons turn against us…”
+
+“Then that will mean they will also turn their guns to those women,” Sullivan grinned. “It’s a win-win no matter what. So long as we can keep them pointed to the other side, I believe we can unleash them. Even if some of them glitch out of their code, we can let them wreak havoc on the MN first, then, it’s not like we’re disbanding our armies. We can control things afterward.”
+
+“This kind of barbarity will never be forgiven. What if these things commit massacres? I am not blind. I know how bad its software is at distinguishing between combatants and civilians.”
+
+“Barbarity…” Sullivan tiredly laughed. “General Heindhöff, they can do barbaric things and be forgiven for it. They can do the most heinous things imaginable and still appear saintly. We do the most minor things, and we’re the devil. Tell me a reason then why we shouldn’t match them eye-to-eye, or even surpass them. It doesn’t matter in the end. History will never favor us—unless we win.”
+
+“That may be so, but…”
+
+“But what?”
+
+“Nothing,” General Heindhöff stepped back with a stiff salute. “Have it your way, Mr. President. I wish for your scheme’s success.”
