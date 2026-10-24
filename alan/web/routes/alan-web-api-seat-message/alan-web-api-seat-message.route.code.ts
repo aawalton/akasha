@@ -5,7 +5,10 @@ import {
 } from "akasha/agent/message/modules/attached-images/agent-message-attached-images.computed-property-module.code.ts"
 import { messageNamed } from "akasha/agent/message/modules/naming/agent-message-naming.module.code.ts"
 import { signedInAs } from "akasha/alan/harness/better-auth-rr/modules/google-auth-guard/google-auth-guard.module.code.ts"
-import { whereReadBy } from "akasha/alan/harness/web-page-answer/modules/reader-access/reader-access.module.code.ts"
+import {
+  seatSlugOf,
+  senderOf,
+} from "akasha/alan/web/modules/seat-message-asking/seat-message-asking.module.code.ts"
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 import { imageBytes } from "akasha/infrastructure/inference/generation/image/properties/image-bytes.file-property.ts"
 import {
@@ -14,7 +17,6 @@ import {
 } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { uncommittedBesideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
   askingFor,
   readingFor,
@@ -25,8 +27,6 @@ import { z } from "zod"
 const MESSAGE_PAGE_TYPE_SLUG = "agent-message"
 
 const SEAT_PAGE_TYPE_SLUG = "seat"
-
-const PERSON_PAGE_TYPE_SLUG = "person"
 
 const WRITER = "alanwalton web <web@alanwalton.com>"
 
@@ -83,36 +83,6 @@ async function attachedAmong(images: readonly string[]): Promise<readonly Attach
 
 function refused(error: string, status: number): Response {
   return Response.json({ ok: false, error }, { status })
-}
-
-async function senderOf(contributor: string): Promise<string | { readonly refused: string }> {
-  const people = await askingFor({
-    pageTypeSlug: PERSON_PAGE_TYPE_SLUG,
-    keys: ["slug", "contributor"],
-  })
-  if ("refused" in people) return { refused: people.refused }
-  for (const row of people.rows) {
-    const named = textIn(row.contributor)
-    const slug = textIn(row.slug)
-    if (named !== null && slug !== null && slugOf(named) === contributor) return slug
-  }
-  return { refused: "no person page names the contributor signed in" }
-}
-
-type Refused = { readonly refused: string; readonly status: number }
-
-async function seatSlugOf(from: string, id: string): Promise<string | Refused> {
-  const held = await whereReadBy({ person: from }, SEAT_PAGE_TYPE_SLUG, { id: { is: id } })
-  if ("refused" in held) return { refused: held.refused, status: 403 }
-  const seats = await askingFor({
-    pageTypeSlug: SEAT_PAGE_TYPE_SLUG,
-    where: held.where,
-    keys: ["slug"],
-    limit: 1,
-  })
-  if ("refused" in seats) return { refused: seats.refused, status: 503 }
-  const slug = textIn(seats.rows[0]?.slug)
-  return slug ?? { refused: `no seat \`${from}\` may read has the id \`${id}\``, status: 404 }
 }
 
 export async function action({ request }: { request: Request }): Promise<Response> {
