@@ -126,7 +126,8 @@ export async function characterLinesLanded<T>(
     const besideHeld = besideAt === undefined ? null : contentIn(found.bodies, besideAt)
     const written = kind.linesWith(held, bySlug.get(slug) ?? [], besideHeld)
     if (written === null) continue
-    landed = landed + jsonlLinesOf(written).length - jsonlLinesOf(held).length
+    const had = new Set(jsonlLinesOf(held))
+    landed = landed + jsonlLinesOf(written).filter((line) => !had.has(line)).length
     puts.push({ path, content: written })
     if (held === null) unnamed.push(slug)
   }
