@@ -54,6 +54,10 @@ export const tokenValues = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The scrim behind an overlay is a shadow over the whole page in both schemes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The light scheme is the rule for a root whose scheme is light.",
     },
     {
@@ -62,5 +66,5 @@ export const tokenValues = {
     },
   ],
   createdAt: "2026-09-01T10:48:05.962Z",
-  updatedAt: "2026-10-24T19:50:31.833Z",
+  updatedAt: "2026-10-24T19:58:05.220Z",
 } as const satisfies Stylesheet

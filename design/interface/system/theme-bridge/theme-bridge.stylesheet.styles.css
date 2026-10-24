@@ -22,6 +22,7 @@
   --color-secondary: var(--secondary);
   --color-tertiary: var(--tertiary);
   --color-accent: var(--yellow);
+  --color-scrim: var(--scrim);
 
   --color-green: var(--green);
   --color-blue: var(--blue);

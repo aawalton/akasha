@@ -8,6 +8,8 @@
 
   --shadow-xs: 0 1px 2px 0 oklch(from var(--surface-0) l c h / 0.45);
   --shadow-sm: 0 1px 3px oklch(from var(--surface-0) l c h / 0.4);
+  --shadow-overlay: 0 0 60px oklch(from var(--surface-0) l c h / 0.5);
+  --scrim: oklch(from var(--surface-0) l c h / 0.8);
 
   --state-hover: 0.08;
   --state-focus: 0.12;
@@ -63,6 +65,8 @@
 
   --shadow-xs: 0 1px 2px 0 oklch(from var(--primary) l c h / 0.1);
   --shadow-sm: 0 1px 3px oklch(from var(--primary) l c h / 0.12);
+  --shadow-overlay: 0 0 60px oklch(from var(--primary) l c h / 0.15);
+  --scrim: oklch(from var(--primary) l c h / 0.4);
 
   --primary: #1a1a1a;
   --secondary: #474747;
