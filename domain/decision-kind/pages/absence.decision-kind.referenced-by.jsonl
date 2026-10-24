@@ -165,6 +165,7 @@
 {"propertySlug":"decision-kind","path":"agent/seat/model-gateway/modules/supervisor-gateway-liveness-decide/supervisor-gateway-liveness-decide.module.ts","id":"01a06838-5a84-7005-8c03-97e98844c99e"}
 {"propertySlug":"decision-kind","path":"agent/seat/modules/akasha-beside/seat-akasha-beside.module.ts","id":"01a06949-b281-7399-94cc-8935c2846c1f"}
 {"propertySlug":"decision-kind","path":"agent/seat/modules/reading/seat-reading.module.ts","id":"01a05850-0f6a-7ed4-b9e5-6868da68bd0c"}
+{"propertySlug":"decision-kind","path":"agent/seat/modules/reply-notifying/seat-reply-notifying.module.ts","id":"01a16f84-6063-74ba-b472-de2d763b51bf"}
 {"propertySlug":"decision-kind","path":"agent/seat/modules/tmux-session/tmux-session.module.ts","id":"01a0c9ed-0747-74e1-adb1-380621bd6c5d"}
 {"propertySlug":"decision-kind","path":"agent/seat/name/modules/claim/seat-name-claim.module.ts","id":"01a05ded-fa5d-7000-b57d-b4a2a894e5e6"}
 {"propertySlug":"decision-kind","path":"agent/seat/name/modules/initiative-seat-name/initiative-seat-name.module.ts","id":"01a0a5b3-3d06-776e-aea8-407ef8b05e0a"}

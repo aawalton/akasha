@@ -5,6 +5,10 @@ import {
   sentToSeat,
   type Unsent,
 } from "akasha/agent/seat/modules/composer/seat-composer.module.code.tsx"
+import {
+  ReplyNotifyingControl,
+  useReplyNotifying,
+} from "akasha/agent/seat/modules/reply-notifying/seat-reply-notifying.module.code.tsx"
 import { useSeatVoice } from "akasha/agent/seat/voice/modules/live/seat-voice-live.module.code.ts"
 import { PageLayout } from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
 import { PAGE_TITLE_CLASSES } from "akasha/design/interface/layout/modules/page-layout-data/page-layout-data.module.code.ts"
@@ -341,6 +345,13 @@ export function Drawing({ pageTypeSlug, id }: PageDrawingProps) {
   const voice = useSeatVoice(id, heard.state === "heard" ? heard.entries : NOTHING_SAID, (text) => {
     send(text, [])
   })
+  const persons = personsStated(data.persons)
+  const notifying = useReplyNotifying(
+    id,
+    pageName(data),
+    heard.state === "heard" ? heard.entries : null,
+    persons
+  )
   const endRef = useRef<HTMLDivElement | null>(null)
   const shown = heard.state === "heard" ? heard.entries.length + pending.length : -1
   const titleColor = titleColorClass(allDefinitions, data)
@@ -361,7 +372,8 @@ export function Drawing({ pageTypeSlug, id }: PageDrawingProps) {
         <PageLayout.Content className="max-w-[710px]! pt-3 min-[584px]:pt-6">
           <div className="flex flex-col gap-4 pb-6">
             <h1 className={titleClasses}>{pageName(data)}</h1>
-            <Conversation heard={heard} persons={personsStated(data.persons)} />
+            <ReplyNotifyingControl notifying={notifying} />
+            <Conversation heard={heard} persons={persons} />
             {pending.map((one) => (
               <PendingDrawn key={one.key} one={one} resend={resend} dismiss={dismiss} />
             ))}
