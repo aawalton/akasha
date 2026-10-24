@@ -1,0 +1,301 @@
+System:
+
+Legendary Feats grant bonus perks to those who earn them and announce the feat to every System User.
+
+People only get one racial skill per advancement, starting with one racial skill at Tier 1.
+
+People can only have five passive and five active Class skills slotted at a time.
+
+People can only have ten general skills slotted at a time.
+
+Levels 1-100 are Tier 1
+
+Levels 101-250 are Tier 2
+
+Levels 251-500 are Tier 3
+
+Levels 501-1000 are Tier 4
+
+Levels 1001-2500 are Tier 5
+
+Above level 2500 are Ascendants
+
+Class skills are received at every five levels for Tier 1.
+
+General skills are earned from doing what the skill entails and being given it by the System when you’re determined to have earned them.
+
+The different Classes of Species are:
+
+Class E: +5 stats per level – EX: Unintelligent weak monsters such as skeletons.
+
+Identify is as follows: {Species Name – Level X}
+
+Class D: +6 stats per level – EX: Unintelligent and basic intelligent monsters such as goblins.
+
+Identify is as follows: {Species Name – Level X}
+
+Class C: +7 stats per level – EX: Creatures such as hobgoblins and orcs that have intelligence but not as much as Class B creatures.
+
+Identify is as follows: {Species Name – Level X}
+
+Class B: +8 stats per level – EX: Human, Dwarves, Elves, etc.
+
+Identify is as follows: {Name – Class: XXXX – Level X}
+
+Class A: +9 stats per level – EX: Vampires, Werewolves, Kitsune, and other variant creatures.
+
+Identify is as follows: {Name – Species: XXXXX – Class: XXXXX – Level XX}
+
+Class S: +10 stats per level – EX: Quantum Reapers, other types of reapers, dragons, etc.
+
+Identify is as follows: {Name – Species/Class(both the same name) – Level XX}
+
+There is very little difference between two Classes in Tier 1.
+
+The different Rarities of Classes are:
+
+Common: +4 stats per level
+
+Uncommon: +5 stats per level
+
+Rare: +6 stats per level
+
+Epic: +7 stats per level
+
+Legendary: +8 stats per level
+
+Mythic: +10 stats per level
+
+Element Affinity Classes:
+
+Take note! This IS NOT A SPLIT! And people can have more than one affinity!
+
+A Class E Affinity in an element allows the user to occasionally sense and maybe even see a small amount of that element or powerful effects of that element but not use it.
+
+50% out of every last person in existence have at least a Class E Affinity.
+
+A Class D Affinity in an element allows the user to see and sometimes interact with a small amount of that element, but not enough to get a magic class.
+
+20% out of every last person in existence have at least a Class D Affinity.
+
+A Class C Affinity in an element allows the user to directly manipulate the element in the form of mana or whatever energy that element uses in their body to a limited degree. They can get magic classes.
+
+10% out of every last person in existence have at least a Class C Affinity.
+
+A Class B Affinity in an element allows the user to directly manipulate the mana or energy of their element in the air. They can get higher rarity magic Classes.
+
+0.1% out of every last person in existence have at least a Class B Affinity.
+
+A Class A Affinity in an element allows the user to directly manipulate the mana or energy of their element and clearly see it no matter how weak the energy or mana is. They can get higher rarity magic classes and have a higher level of control over the element.
+
+0.0001% out of every last person in existence have at least a Class A Affinity.
+
+A Class S Affinity in an element is a perfect affinity and is only possible in those born of that element, where the element itself permeates throughout their body itself.
+
+Special circumstances must occur for someone to have a Class S Affinity if they are not a Class S species, who has one by default. Furthermore, they can only have a single Class S Affinity as they cannot have more than one element naturally flowing through their veins.
+
+These are not separately counted!!!
+
+50% out of all 100% of people in the world. Then 20% out of all 100% of people in the world. And so on.
+
+Alexia Knight
+
+Age: 20 years old
+
+Relatives: Unknown Father, Unknown Mother, Adopted Grandfather and Knight of the Crimson Score - Lysander Knight, Twin Sister Astrid Knight
+
+Physical Appearance Pre-Reset: Long black hair done in a braid with blue eyes and a laidback attitude. She wears her armor everywhere she goes instead of any sort of fashion, the armor consisting of enchanted black leather. She is five foot five inches tall.
+
+Physical Appearance Post-Reset: Her previously long black hair is no longer done in a braid and is now tinted with a deep purple, and her eyes are now varying shades of purple that appear to glitch out every now and then as if they were an error in a computer game. Her blood is red with some faint tints of blue and dark purple and more tints of violet, and it also glitches out along with any of her insides whenever seen by the naked eye. She is five foot five inches tall.
+
+Status Pre-Reset:
+
+Human(Species): +1 VIT, +2 DEX, +2 STR, +2 MAG, +1 MEN Per Level
+
+Magic Knight: +1 VIT, +1 DEX, +2 STR, +2 MAG
+
+Current Status:
+
+The story has been stolen; if detected on Amazon, report the violation.Quantum Reaper(Species): +2 VIT, +2 DEX, +2 STR, +2 MAG, +2 MEN Per Level
+
+Quantum Reaper(Class): +1 VIT, +1 DEX, +1 STR, +2 MAG, +2 MEN
+
+Alexia gets +3 VIT, +3 DEX, +3 STR, +4 MAG, and +4 MEN per level at Tier 1.
+
+Legendary Feats: The Reaping - (Bonus: Your Quantum affinity is enhanced to Class S. Your class selection now only includes the class Quantum Reaper.), The First Clear – (Bonus: As the first to clear a dungeon in the new dimension, your first loot box in every dungeon will always give you an item of a single Tier higher than what it would’ve otherwise given. You are also given the General Skill known as Dungeon Map.), The Vanguard – (Bonus: As the first being to ascend in Tier within the System, you are gifted with a token that you may use to upgrade your class whenever you desire to the next rarity. This is a one-time-use item and will vanish after use.)
+
+Racial Skills:
+
+Quantum Body: Reduces physical damage dealt to the user by 80% and increases magic damage dealt to the user by 50%.
+
+Quantum Equilibrium: Due to the balanced quantum state of a Quantum Reaper, you grow naturally resistant towards any and all status effects.
+
+Active Skills:
+
+Lvl 5 Quantum Bolt: Releases a bolt of pure quantum energy at a target. This bolt will rip apart the target on a quantum level.
+
+Lvl 11 Quantum Displacement: Allows the user to teleport up to a radius of {the Skill’s level to the power of the Skill’s Tier} meters around themself.
+
+Lvl 4 Quantum Reversal: Revert time on just the user’s body, reversing a limited amount of damage in an instant along with the effects of the damage. The price of the skill scales with the amount of damage and the skill’s level, and wounds that would be considered fatal by the System are only partially reversible.
+
+Lvl 1 Quantum Phasing: Temporarily shift the user’s body fully out of the normal plane of reality into the quantum plane, making them immune to any and all physical damage and able to pass through solid objects.
+
+Lvl 4 Quantum Burst: Sends a powerful wave of quantum energy all around the user.
+
+Level 3 Quantum Echo: Allows the user to create a brief echo of their previous attack through quantum entanglement, letting them duplicate one attack at a weaker level than the original attack.
+
+Level 1 Quantum Resonance: Allows the user to use the quantum energy in their body to create a resonance throughout themselves that increases their physical strength, speed, and regeneration for a limited amount of time.
+
+Level 1 Quantum Communication: Allows the user to fold space between them and another location near an energy source of their choosing, creating a portal that only allows sound to pass through.
+
+Passive Skills:
+
+Lvl 5 Quantum Attunement: Grants the user enhanced sensitivity to quantum fluctuations, giving them heightened awareness of nearby magical energies and disturbances.
+
+Lvl 1 Quantum Singularity: Further stabilizes the user’s place in reality and the quantum realm, making skills and magics with any relation to the quantum have less effect on the user. Potentially affects time magic, space magic, soul magic, death magic, and other magics that directly affect reality itself in some way shape or form.
+
+Lvl 4 Quantum Infusion: All of your physical attacks are now infused with a small amount of quantum energy from the environment, regardless of if the attacks were made with your body or through equipment.
+
+Lvl 6 Quantum Adaptation: Allows the user’s body to adapt to any type of environment after an extended duration of exposure to it. The adaptations made will be permanent, however they will never reach immunity to the environment.
+
+Lvl 1 Quantum Veil: Grants the user a veil protecting them from divination and scrying magics.
+
+Lvl 2 Quantum Aura: Creates a field around the user that distorts the space within the field by a minimal margin, making it slightly harder to accurately hit the user.
+
+General Skills:
+
+Lvl 6 Pain Resistance
+
+Lvl 5 Polearm Mastery
+
+(Unique) Forerunner: Passively increases the effects of the user’s stats by three percent.
+
+Lvl 2 Stealth
+
+Lvl 4 Poison Resistance: Passively increases the user’s resistance towards any and all types of poison by a slight amount.
+
+Lvl 2 Survivor: Passively decreases the amount of nutrition the user needs to survive by a small amount and increases their resistance to natural weather, granting them a tougher body when taking damage from naturally occurring things.
+
+Lvl 3 Exploration: Enhances the user’s basic instinct to know which direction they should go when unsure, makes it so they always know which of the four cardinal directions are where, and may sometimes give the user an instinctive feeling directing them to a hidden location.
+
+Lvl 2 Dungeon Map: The user may now open and fill in a dungeon map for whatever dungeon they are in simply by moving around the dungeon. Hidden areas will be shown on the map when you reveal the area they are located on the map.
+
+(Unique) Anti-Magic Barrier: Passively creates an anti-magic barrier directly over the user’s body that will absorb twenty percent of the magical damage the user takes until the barrier is fully saturated. The barrier will then take ten minutes before it is replaced with a brand new barrier.
+
+Energy Manipulation: Allows the user to directly manipulate energy, both elemental and otherwise.
+
+(Unique) Tutorial Champion: Given to the Champion of the Tutorial who ranked first on the leaderboard after they get their first skill post-Tutorial. Increases the effect of the user’s stats by 3%.
+
+Infantile Quantum Vampire Bat(Species): +1 VIT, +1 DEX, +1 STR, +2 MAG, +2 MEN Per Level
+
+Elemental Pet(Class): +1 VIT, +1 DEX, +1 STR, +2 MAG, +2 MEN
+
+Luna gets +2 VIT, +2 DEX, +2 STR, +4 MAG, and +4 MEN per level at Tier 1.
+
+Characters:Astrid
+
+Alexia’s twin sister, a Shadowborne Class A species, and a former Magic Knight just like her now Shadowblade.
+
+Aidan
+
+Alexia and Astrid’s childhood friend and a former Ice Mage now uncommon Combat Mage. Has brown hair and eyes.
+
+Alara
+
+The daughter of the Guildmaster of the local Adventurer’s Guild and has a rare class, Fire Dancer. Her family owes the Kingdom of Silvercrest a debt that they now no longer need to worry about thanks to the Reset. Has red hair and blue eyes.
+
+Shelly
+
+Daughter of a powerful member of the Hunter’s Guild and an uncommon class, Arcane Archer. Has brown hair and black eyes.
+
+Rob
+
+Son of a powerful member of the Mage’s Guild and an uncommon class, Combat Healer. Has black hair and brown eyes.
+
+Rodrick Lancaster
+
+Son of a Baron and developed interest in Astrid. Has green eyes and brown hair. Is an idiot.
+
+William Sinclair
+
+Crown Prince of the Former Kingdom of Silvercrest. Has silver hair and silver eyes and the rare Warlock class.
+
+Elizabeth Sinclair
+
+Prince of the Former Kingdom of Silvercrest. Has silver hair and silver eyes and the rare Warlock class. She is tall and with a full figure that her fiancé has no qualms about looking at.
+
+Reginald Kingsley
+
+Fiancé to the Princess and has a rare class, Iceblade Knight. He also has a very sharp looking face with gray eyes and brown hair and is a creep but is one that knows what they’re doing and is smart.
+
+Cassandra Dawn
+
+Daughter to a Duke and has a rare class, Arcane Hunter. She had a sister once, but they died. She has long brown hair with golden eyes and betrayed both the crown prince and the princess.
+
+Lucas Nightshade
+
+The Hound of the Apocalypse who massacred an entire nation before the Reset and was feared across the world. He feels familiarity towards Alexia’s name. He has the Requiem of Light and Shadow epic class that is a mixture of Astral and Shadow magics.
+
+Aurora Frost
+
+The former Empress of Niflheim and user of ice magic. She has a grudge against Leif Eriksson and repeatedly trades places with him on the leaderboards, currently being number four on it.
+
+Leif Eriksson
+
+The former King of Arcadia. He has holy magic specializing in defense. He is arrogant.
+
+Isabella d'Aragon
+
+She is a dragon who can shapeshift into a humanoid form with two large red wings on her back and red eyes. She is the former empress of the Scarlet Empire and the Ancestral Dragon. Isabella has little interest in matters that don’t involve the dragons.
+
+Alexander Frost
+
+He is a kraken who can shapeshift into a humanoid form with glowing blue eyes and wavy blue hair. He is the former leader of the underwater nation of Atlantis.
+
+Damien Black
+
+A vampire with white hair and glowing red eyes who is leading the League of Ascendants. He has difficulty controlling his anger, bloodthirst, and lust for power.
+
+Leonidas Silver
+
+A ghoul with pitch black orbs for eyes and pale skin. He is the Emperor of the Fallen Empire. Meanwhile all he cares about is his desire for peace for both himself and his nation without any care for struggles beyond that.
+
+Nathan Briar
+
+A human known by many as the Wandering Summoner. He rarely ever settles in one location, always on the move, always searching for new monsters to add to his list of summons. He’s is rather laidback in his attitude, deciding to deal with things as they come.
+
+Noah Kowalski
+
+The eighth ranked user on the leaderboards and a werewolf. He was not an Ascendant before the Reset.
+
+Crystal Nightshade
+
+Former wife of the Hound of the Apocalypse and a Class S species known as a devourer.
+
+Lysandre Knight
+
+Adopted grandfather to Alexia and Astrid.
+
+Ethan Silva
+
+The one hundredth ranked user on the Tutorial leaderboards.
+
+Artorius del Argon
+
+The tenth person to reach level 100 and the Primeval Fiend. An archfiend.
+
+Ignivara
+
+The ninth person to reach level 100 and the Ancient Terror. A hydra.
+
+Vallius Karan de Volt Hellmouth
+
+A Class S species known as a Lich King – the strongest species of undead there is.
+
+Sartorius
+
+A Class S species known as an archangel.
+
+Quantum Ruler
+
+The ruler of all quantum beings and Lexi’s grandfather via the quantum laws and her inheritance of his son’s quantum energy.
