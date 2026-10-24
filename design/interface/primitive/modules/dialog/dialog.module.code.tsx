@@ -56,7 +56,7 @@ function DialogOverlay({
     <DialogPrimitive.Overlay
       data-slot="dialog-overlay"
       className={cn(
-        "data-[state=closed]:fade-out-0 data-[state=open]:fade-in-0 fixed inset-0 z-50 cursor-default bg-black/80 backdrop-blur-sm data-[state=closed]:animate-out data-[state=open]:animate-in",
+        "data-[state=closed]:fade-out-0 data-[state=open]:fade-in-0 fixed inset-0 z-50 cursor-default bg-scrim backdrop-blur-sm data-[state=closed]:animate-out data-[state=open]:animate-in",
         className
       )}
       {...props}
@@ -85,7 +85,7 @@ function DialogContent({
           "data-[state=closed]:fade-out-0 data-[state=open]:fade-in-0 data-[state=closed]:zoom-out-95 data-[state=open]:zoom-in-95 fixed top-[50%] left-[50%] z-50 flex max-h-[90vh] w-full max-w-[calc(100%-2rem)] translate-x-[-50%] translate-y-[-50%] flex-col duration-200 data-[state=closed]:animate-out data-[state=open]:animate-in sm:max-w-lg",
           variant === "default" &&
             cn(
-              "gap-4 overflow-hidden rounded-xl px-6 py-6 shadow-[0_0_60px_rgba(0,0,0,0.5)]",
+              "gap-4 overflow-hidden rounded-xl px-6 py-6 shadow-(--shadow-overlay)",
               surfaceClass(1)
             ),
           className
