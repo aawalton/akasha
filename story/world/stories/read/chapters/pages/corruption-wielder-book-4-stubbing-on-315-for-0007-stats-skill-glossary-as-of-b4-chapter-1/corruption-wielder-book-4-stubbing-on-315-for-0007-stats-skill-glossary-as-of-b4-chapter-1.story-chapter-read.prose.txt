@@ -1,0 +1,631 @@
+Name: William Li-Brown
+
+Level: Silver 10
+
+Race: Human
+
+Class: Reaper
+
+Titles: [First Blood], [User Killer], [Envoy of Mercy], [Shattersoul], [Outcast], [Heretic]
+
+Attributes:
+
+[Power]: Silver 5
+
+[Speed]: Silver 10
+
+[Affinity]: Gold 7 (Platinum 7)
+
+[Soul]: Silver 10
+
+[Resistance]: Silver 10
+
+[Perception]: Silver 10
+
+Unused Points: 0
+
+Universal Abilities
+
+- Omnilingual
+
+- System User
+
+- Identify
+
+- Marked for Death
+
+Skills
+
+[Power]: Storm
+
+- Wind Walker (Silver, high)
+
+- Thunder Wraith’s Grasp (Silver, high)
+
+- Abyssal Tempest (Silver, mid)
+
+[Speed]: Space (secondary)
+
+- Escape Artist (Silver, high)
+
+- Weapons Free (Silver, high)
+
+- Wraith Cloak (Silver, high)
+
+- Sanctuary (Silver, high)
+
+[Affinity]: Corruption (primary)
+
+- Corruption Resistance (Gold, low)
+
+- Chaos Transfer (Gold, low)
+
+- Destructive Synthesis (Silver, mid)
+
+- Attune Corrupted Item (Silver, mid)
+
+- Decaying Touch (Gold, low)
+
+- Desecrated Bond (Gold, low)
+
+[Soul]: Death (secondary)
+
+- Mark for Death (Silver, high)
+
+- Ghostflame (Silver, high)
+
+- The Bell Tolls (Silver, high)
+
+- Wail of the Forgotten (Gold, low)
+
+- One Foot in the Grave (Gold, low)
+
+[Resistance]: Balance
+
+- Equilibrium Mantle (Silver, mid)
+
+- Favored Element (Silver, low)
+
+- Guardian Angel (Silver, low)
+
+[Perception]: Time
+
+- Time in a Bottle (Silver, high)
+
+- Pages of the Past (Silver, mid)
+
+- Thousand Eyes (Gold, mid)
+
+[Sigil]: The Hunger
+
+- Hunger Aura (Silver, high)
+
+- Hunger Phantasm (Gold, low)
+
+- Ravenous Feast (Silver, mid)
+
+[Sigil]: The Crown
+
+- Eternal Throne (Silver, low)
+
+Skill Glossary
+
+Affinity/Corruption:
+
+Skill: [Chaos Transfer]
+
+- Spell (enchantment).
+
+- Cost: high mana.
+
+- Cooldown: 5 minutes.
+
+Gold
+
+Let others suffer as you have.
+
+Cleanses you or a weapon of all levels of all afflictions and transfers it to another designated weapon or back to yourself. Increases the strength of the transferred afflictions to silver rank if they are lower than silver. The next target the weapon strikes will gain all levels of all afflictions that you cleansed.
+
+Gold-rank addition: You can now apply this effect to any being or item. You may cast it simultaneously on any and all items or beings you are currently touching.
+
+Skill: [Destructive Synthesis]
+
+- Spell (consumption).
+
+- Cost: variable.
+
+- Cooldown: none.
+
+Silver
+
+Activate this skill to consume an item. Consuming an item grants mana restoration proportional to the power of the item.
+
+Consuming an item grants a temporary skill reflecting and magnifying the item’s use for a variable time depending on the item’s rarity and power.
+
+[Effect Transference] (silver) - You can also shift the temporary skill to another item. All skills transferred, whether to an item or yourself, will be upgraded one rank to a maximum of the rank this skill is at.
+
+Skill: [Decaying Touch]
+
+- Spell (affliction).
+
+- Cost: high mana.
+
+- Cooldown: none.
+
+Silver
+
+Deals necrotic damage. Inflict one level of silver-rank [Corruption] on a creature or item you touch. This skill cannot stack afflictions.
+
+Skill: [Attune Corrupted Item]
+
+- Attunement.
+
+- Cost: very high mana.
+
+- Cooldown: 1 day.
+
+Silver
+
+Attunes an item of silver rank or lower, purging the [Corruption] from it if applicable. All attuned items become growth items. If the attuned item was not already a growth item, it will become irreversibly corrupted.
+
+Skill: [Desecrated Bond]
+
+- Intervention.
+
+- Cost: high mana to extreme mana.
+
+- Cooldown: 1 minute (Insight) to 24 hours (Weaken, Strengthen, Corrupt).
+
+Gold
+
+“Meddle back.” - Anonymous corruption wielder, cycle [REMOVED].
+
+[Insight] - Detect the sigil link between a User and their god within a 300-foot radius.
+
+[Weaken] (bronze) - Allows you to contest a sigil link with your soul. A successful contest will result in the User being cut off from their divine abilities for the next 24 hours.
+
+[Strengthen] (bronze) - Allows you to strengthen a sigil link for 24 hours. Results may vary.
+
+[Recharge] (silver) - All facets of this skill operate on separate cooldowns. A cooldown is reset if the target it was used on dies.
+
+[Corrupt] (gold) - Allows you to contest a sigil with your soul. A successful contest will result in the User being permanently cut off from their sigil as the link is corrupted. This also alerts all sigil-holders of the god within 1,000 miles to your current position.
+
+Space:
+
+Skill: [Escape Artist]
+
+- Passive (body).
+
+- Cost: none.
+
+- Cooldown: none.
+
+Silver
+
+Never look back.
+
+Your movement speed is increased at a rate inversely proportional to the amount of equipment you are wearing (maximum of 100% increase).
+
+Your movement speed is increased by up to an additional 100% if you are currently being attacked.
+
+Silver-rank addition: If you are being attacked, you gain greatly increased control of your aerial mobility.
+
+Skill: [Weapons Free]
+
+- Spell (movement, teleportation).
+
+- Cost: high mana (moderate mana).
+
+- Cooldown: 12 seconds (6 seconds).
+
+Silver
+
+“What’s yours is mine. What’s mine is mine. What’s nobody’s is mine.” - Lacrymeus, famed pirate of the Great Arcadian Ocean.
+
+Teleport any weapon within a 120 foot radius to your hands (if you can carry it) or your inventory (if you cannot). If a target is holding the weapon, they can attempt to prevent this spell from succeeding.
+
+You can also teleport to any weapon within a 60 foot radius.
+
+Silver-rank addition: The previous range of this skill has been doubled.
+
+[Warp Strike] (silver): When making an attack, you can use this skill to make your attack originate from any weapon within a 120 foot radius.
+
+Skill: [Wraith Cloak]
+
+- Spell (invisibility, movement).
+
+- Cost: low mana-per-second while not moving. Mana cost increases with speed.
+
+- Cooldown: none.
+
+Silver
+
+While in areas with low light or no light, you can have shadows surround you and render you invisible. This invisibility ceases to function if you move too quickly, use an attack, or cast a spell.
+
+Also increases your speed while in shadow.
+
+Silver-rank addition: You can move more effectively without breaking the cloak. While you are cloaked, you can see perfectly in the dark.
+
+[Ethereal] - For a high mana cost, you can pass through very thin barriers while invisible.
+
+Skill: [Sanctuary]
+
+- Ritual (dimension, Beyond).
+
+- Cost: extreme mana, equivalent of 1,000 silver credits (first cast). Varies (subsequent casts).
+
+- Casting Time: varies.
+
+- Cooldown: varies.
+
+Silver
+
+There doesn’t have to be an end.
+
+This ritual opens a link to your sanctuary in the Beyond. Opening a second link on either side will allow you to travel to and from the sanctuary at different points in your bounded reality.
+
+Further effects will be revealed under the correct conditions.
+
+This skill will not evolve until it ascends to the gem tier.
+
+Death:
+
+Skill: [Mark for Death]
+
+- Spell (affliction).
+
+- Cost: moderate mana.
+
+- Cooldown: 1 hour.
+
+Silver
+
+Target any creature you can see or sense and mark them for death. During the next hour, the effectiveness of attacks and afflictions against the creature are increased, and you can track the creature through your minimap and through walls. This skill’s cooldown resets if the targeted creature dies.
+
+[Soul Link] (bronze) - A fraction of all damage dealt to the marked creature is converted to healing for you.
+
+Silver-rank addition: When using this skill, you can target any number of creatures that you can see. You must kill all of them to trigger this skill’s cooldown automatic reset.
+
+Skill: [Ghostflame]
+
+- Spell (enchantment).
+
+- Cost: extreme mana.
+
+- Cooldown: none.
+
+Silver.
+
+“Death comes for you all. Your pitiful defenses cannot even conceive of stalling it.” - Dread Executor Cyna V, cycle 377.
+
+Draws from your blood, afflictions, and lifeforce alongside your mana. Cleanses all afflictions from you and all creatures living or dead in a 10 foot radius. Wreathe your fists in ghostflame. Inflict true damage upon any enemies you strike.
+
+[Phantom Pyre] - Increases the base damage of this skill for every affliction cleansed.
+
+[To Strike the Soul] (silver) - The damage inflicted by this skill ignores barriers of silver-rank or lower. Damage cannot be lessened or negated by skills of silver-rank or below.
+
+Skill: [The Bell Tolls]
+
+- Spell (esoteric).
+
+- Cost: high mana.
+
+- Cooldown: 1 hour.
+
+Silver.
+
+“Run. Hide. Fight. Try every last desperate play you have. In the end, the bell still tolls.” - Dread Executor Illona III, cycle 950.
+
+Cleanses all afflictions from you and targets a creature you can see. The creature cannot benefit from magical healing for the next minute. Inflicts necrotic damage scaling with the consumed afflictions and any injuries the target is suffering from.
+
+[Withering Decay] (bronze) - Death approaches. Increases any affliction on the target by one level. Inflicts one level of [Wither].
+
+[Escape is Futile] (silver) - Cooldown resets if the target dies.
+
+Skill: [Wail of the Forgotten]
+
+- Spell (sound).
+
+- Cost: moderate mana.
+
+- Cooldown: 1 minute.
+
+Gold
+
+Over 100 billion humans have lived on your planet. Of those, less than a billion remain alive and on its surface today. How many of the dead are remembered today? How many will be forgotten in a year? A decade? A millennium?
+
+The forgotten are restless, and they are angry. They will not be ignored.
+
+This skill releases a concentrated scream directed at an enemy or area. Skill propagation increases with sound propagation. You may choose to widen the area of effect of this skill in exchange for reduced efficacy. This scream deals psychic damage.
+
+[Manifest Despair] (bronze) - By increasing the amount of mana you spend, you can distill the essence of the forgotten into a beam of energy that does not require sound to travel. This beam inflicts necrotic damage. Both attacks will stun enemies, overwhelming them with the voices of the forgotten. This stunning effect can be resisted.
+
+[Lament of Agony] (silver) - This attack also inflicts stacking levels of [Wither] and [Weakness] upon those affected. These effects can be resisted. The difficulty level of resisting these afflictions lowers the further the target is from the center of the effect.
+
+Condition: [Wither]
+
+- Deals slow necrotic damage over time.
+
+- Weakens necrotic resistances. If the target does not have a resistance to necrotic damage, they gain a weakness to necrotic damage.
+
+Condition: [Weakness]
+
+- Removes resistances to bludgeoning, piercing, and slashing attacks. If the target does not have a resistance to physical attacks, they gain a weakness.
+
+[Dark Harvest] (gold) - The voice of your victims will become forgotten eventually. You can do so faster. Upon killing or knocking unconscious any User through the usage of this skill, you learn the current positions of all members of their current primary party or guild.
+
+Skill: [One Foot in the Grave]
+
+- Skill (augmentation).
+
+- Cost: extreme mana per second. Lifeforce may be substituted for mana.
+
+- Cooldown: varies, minimum 24 hours.
+
+Gold
+
+“Someone’s dying today. I don’t plan on it being me.” - An anonymous King shortly before killing Dread Executor Azathoth IX and taking their mantle, cycle 1038.
+
+The cost per second of this skill decreases the more damaged you are.
+
+If you kill an enemy while this skill is active, your maximum mana capacity temporarily increases. If you do not kill an enemy while this skill is active, you will experience soul backlash proportional to the amount of mana and/or lifeforce expended on maintaining this skill. This backlash may be lethal.
+
+While this skill is active, you become intangible and are immune to all conditions of gold rank or lower and resist higher-rank conditions. Your magic cannot be suppressed by means of gold-rank or lower. You also gain significant resistance to physical damage and do not feel pain.
+
+You cannot be healed while this skill is active, even from your own skills and attributes, but you can regenerate mana.
+
+Storm:
+
+Skill: [Wind Walker]
+
+- Spell (stealth, movement).
+
+- Cost: very low mana.
+
+- Cooldown: none.
+
+Silver.
+
+At the eye of any violent storm, there is silence. Draw upon the power of the winds to lighten your step and increase your speed.
+
+[Zephyr’s Cloak] (bronze) - While this skill is active, you gain a slight blur effect, making you harder to see and target while moving.
+
+[Galeforce Dash] (silver) - While you are not touching the ground, you can spend mana to send yourself flying forward with wind-aided dashes. This also imbues you with storm power, increasing the amount of damage you deal to foes afflicted by [Charged].
+
+Skill: [Thunder Wraith’s Grasp]
+
+- Spell (augmentation, evocation).
+
+- Cost: low mana.
+
+- Cooldown: none.
+
+Silver
+
+A haunted storm gathers, and it grows mighty. Channels ghostly lightning into your fists or melee weapon, grasping an enemy to deliver successively greater amounts of lightning and necrotic damage.
+
+Inflicts stacking levels of [Charged].
+
+[Charged] - Target takes increased damage from lightning attacks. Target is easier to hit with lightning attacks.
+
+On a critical hit, all levels of [Charged] are expended, inflicting exponential amounts of lightning damage for each charge cleansed.
+
+Silver-rank addition: [Charged] now causes a spark of lightning that chains to nearby enemies upon landing a strike on the target.
+
+Skill: [Abyssal Tempest]
+
+- Spell (augmentation, evocation).
+
+- Cost: moderate mana per second.
+
+- Cooldown: 1 minute.
+
+Silver
+
+When a storm arrives at sea, it leaves behind only wrecks and struggling survivors. In their darkest hour, when all hope is lost, the abyss begins to take its toll, laying claim to the lives of those who have weathered one disaster.
+
+Then, sometimes, a storm strikes once more.
+
+This is a channeled skill. The cooldown for this skill will begin when you stop using it.
+
+Increases your [Power] attribute sharply. This effect increases the longer you use the skill, which also increases the mana cost. This effect is also dramatically increased when attacking an enemy that has been afflicted with [Charged].
+
+[Abyssal Fury] (bronze) - While this skill is being channeled, you gain a resistance to elemental damage. You also deal increased damage to enemies afflicted with [Charged], even if you are using another skill.
+
+[Thundershock] (silver) - When you hit a target that is afflicted with [Charged], lightning strikes that target and deals damage in a small radius. This bolt spreads to any nearby enemy that is also afflicted with [Charged]. Any enemy caught in the radius of each attack is inflicted with a stacking level of [Charged].
+
+Time:
+
+Skill: [Time in a Bottle]
+
+- Spell (chronomancy).
+
+- Cost: high mana per second.
+
+- Cooldown: scales based on how long the skill is used.
+
+Silver
+
+Accelerates your perception of time, enabling you to experience twenty seconds for each second that passes outside.
+
+Silver-rank addition: previous effect of time dilation is doubled. At high mana cost, you can increase your movement speed for one objective second, though this effect ends if you use another skill or an attack.
+
+Skill: [Pages of the Past]
+
+- Spell (divination).
+
+- Cost: moderate mana.
+
+- Cooldown: 6 seconds.
+
+Silver
+
+Allows you to detect magical effects that were used in your immediate surroundings in the last 24 hours. If the rank of the effect is at or below the rank of this skill, you can also glean insight into what the effect is.
+
+[Traces of the Past] - Also allows you to detect footsteps and read conversations made in the area during the same time window.
+
+[Lingering Resonance] - You gain insight into the ambient magic of the area. Strong auras that were present in the last 24 hours as well as any active magical wards or traps will also be visible to you.
+
+Skill: [Thousand Eyes]
+
+- Familiar (time, perception).
+
+- Cost: extreme mana. 1,000 gold credits. 100 gold-rank Monster Cores or equivalent. 1,000 silver-rank Monster Cores or equivalent.
+
+- Cooldown: none.
+
+Gold
+
+Summons an avatar from an alternate universe that is perpetually locked in a single instant. This familiar is incorporeal. This familiar is a non-continuous entity.
+
+This familiar currently possesses gold-rank attributes but will not have access to [Remote Domination] until it is resummoned.
+
+This familiar possesses truesight.
+
+[Synchronicity] - You can use all senses through the Thousand Eyes, relying on either yours or your familiar’s. The eyes can access echoes of recent past events (5 seconds or less) within its vicinity, showing you spectral images of events even if you cannot see your target.
+
+[Time-Locked] - By existing outside the normal timestream, your familiar can expend mana to become imperceptible to non-magical means and aura senses.
+
+[Remote Anchor] (gold) - For the purposes of skills with a range, you can use a large enough collection of eyes as a focal point for that skill, extending your range.
+
+[Remote Domination] (gold) - You can project your aura through any of the thousand eyes. After reaching a sufficient threshold of eyes in one area, you may attempt to afflict the [Stunned] condition upon enemies within range.
+
+Balance:
+
+Skill: [Equilibrium Mantle]
+
+- Passive (body).
+
+- Cost: very low mana over time.
+
+- Cooldown: none.
+
+Silver.
+
+Nullifies extreme environmental conditions in a small radius around the user’s body. Drastically reduces the effect of adverse conditions.
+
+[Harmony of Self] (silver) - Your mantle affects your internal world as much as it does the environment outside. Your body will remain in balance at all times, preventing you from suffering from illness and removing the need to breathe. This skill does not protect against external attacks.
+
+Skill: [Favored Element]
+
+- Ritual (resistance).
+
+- Cost: moderate mana.
+
+- Casting Time: 10 minutes.
+
+- Cooldown: 1 day.
+
+Silver.
+
+Allows you to pick one favored element and one hostile element. Until this ritual is no longer on cooldown, you gain extreme resistance to attacks using your favored element if they are of your rank or lower. If this resistance completely nullifies the damage you would have taken, you are instead healed proportionally to the power of the attack.
+
+You take increased damage from the hostile element, but if an attack is made upon you using that element, your next attack against that enemy will be greatly increased in power.
+
+[Augmented Resistance] (silver) - Your resistance ignores rank boundaries.
+
+[Elemental Intuition] (silver) - If you do not pick a favored element, it will automatically select the most prevalent element in your area upon casting. This is currently aligned to Electricity.
+
+Skill: [Guardian Angel]
+
+- Familiar (radiance, protection).
+
+- Cost: extreme mana. 10,000 silver credits. 100 silver-rank Monster Cores or equivalent.
+
+- Cooldown: none.
+
+Gold
+
+Warning: this skill does not summon an angel. You do not want to summon angels for the same reason you do not want to summon demons. The system takes no responsibility for the propensity of certain factions naming themselves after real, world-shaking threats.
+
+Please ignore that the system determined the name of this skill. This skill was named based on the conceptions of your planet. The system takes no responsibility for poor cultural taste.
+
+Summons a gold-rank humanoid avatar. This familiar is corporeal and continuous.
+
+[Radiant Shield] - This familiar can create a protective barrier around you and your allies using its body.
+
+The remaining skills will depend on the familiar summoned.
+
+Skill: [Guardian Angel] (Summoned Familiar: Aza)
+
+Gold
+
+[Radiant Shield] - This familiar can create a protective barrier around you and your allies using its body.
+
+[Restorative Body] - This familiar has life force. If its life force is entirely expended, it must be re-summoned. WARNING: You are not guaranteed to receive the same familiar upon a second summon. Familiars may choose to turn down a second summon. This familiar can expend a portion of its life force to heal you or an ally.
+
+[Guardian’s Sacrifice] (bronze) - This familiar can absorb damage on behalf of you.
+
+[Balancing Act] (gold) - This familiar can expend a portion of its life force to negate or lessen the effect of afflictions or demonic influence upon you.
+
+Sigil:
+
+Skill: [Hunger Aura]
+
+- Aura (sigil).
+
+- Cost: none.
+
+- Cooldown: none.
+
+Silver
+
+Your aura changes, gaining elements of Kadael, the Hunger.
+
+[Insatiable] - Enemies within the aura passively lose stamina and mana. You and your allies restore stamina and mana proportional to the amount drained. This amount can be increased with application of mana. Excess stamina and mana is discarded.
+
+[Devouring Embrace] (silver) - Enemies within the aura also passively lose health. You and your allies within the aura gain health proportional to the amount drained. Excess health is discarded.
+
+Skill: [Hunger Phantasm]
+
+- Spell (sigil, conjuration).
+
+- Cost: low mana.
+
+- Cooldown: none.
+
+Gold
+
+Conjures a dark phantasm with a volume of 40,000 cubic feet. You have fine control over this phantasm within a moderate range of your body. You can control parts of the phantasm at a range of up to 2,000 feet. Lasts until dispelled or destroyed.
+
+[Starvation] - The phantasm counts as a weapon and doubles the effect of all drain conditions. Every attack you successfully land on a target that is touching a phantasm drains their stamina and mana, restoring yours. This also restores your health if your stamina and mana are full.
+
+[In the Flesh] - For a moderate mana cost, the phantasm can take physical form. For the purposes of touch-range spells, you can use the phantasm. At silver-rank, the physical form increases in its ability to affect the material world.
+
+[Echo of Despair] (silver) - When a target that the phantasm is touching reaches critical levels of stamina, mana, or health, the phantasm emits a pulse that applies the [Wither] condition on the target and any other enemies within a short distance.
+
+[Desperate Famine] (gold) - Vastly increases the volume, speed, and range of the phantasm as well as the durability and flexibility of its manifested form.
+
+Skill: [Ravenous Feast]
+
+- Spell (sigil).
+
+- Cost: very high mana. Life force (varies).
+
+- Cooldown: 12 hours.
+
+Silver
+
+If you truly hunger, you can devour anything, but every feast comes with a cost.
+
+When a magical effect targets you, you can attempt to contest it with this skill and your aura. If you are able to match or overpower the skill, you can attempt to resist it with life force in order to negate a portion or all of its effects.
+
+Upon a full negation of the skill, you are refunded all of the mana expended to cast this skill (but not life force). You also gain mana and stamina proportionate to the amount of resources placed in the negated effect.
+
+[Overflow] (silver) - Excess mana and stamina is not discarded.
+
+Esoteric:
+
+Item: [Demonic Eye of Death Perception]
+
+Mythic, platinum (growth, prosthetic)
+
+This item can only be attuned to the User that holds a contract with the demon that provided it. You are attuned to this item.
+
+[Visualize] (bronze) - You sense death. With this eye, you see the weakest points of an object or being.
+
+[Cut] (silver) - Hitting these lines with the correct angle and force automatically results in a critical hit.
+
+[Envision] (gold) - You now also see the weakest points of a magical skill.
+
+[Sever] (platinum) - With sufficient force, hitting the weakest point of a magical skill will cut magical bonds.

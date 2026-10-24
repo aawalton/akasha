@@ -1,0 +1,527 @@
+Achievement earned: Forerunner
+
+You were one of the first 100 Users on this planet to kill another living being. You’re either in a very unforgiving Tutorial Zone or you’re a bloodthirsty maniac. One way or another, you made an early move, but this is only the beginning.
+
+Reward: You have earned the [First Blood] title.
+
+Title: [First Blood]
+
+Legendary
+
+Doubles the power of the first blow you deal against any creature. Increases the chance of getting a critical hit if you strike a creature before it strikes you.
+
+Achievement earned: Reckless Beginnings
+
+You reached orange or worse damage status across your entire body and had a near-death experience before entering the Tutorial. How?
+
+Reward: You have earned a bronze Potion of Superior Healing.
+
+The notifications came to an end as Will stepped into a dark, damp room.
+
+He was sore from head to toe like he’d just finished a six-hour-long workout and then been repeatedly jabbed with needles, but the pain wasn’t actively getting worse like it had been.
+
+The silhouette indicating his health was still an angry orange all over, but it wasn’t actively getting worse, at least. Right next to it, a line of text that had read [Corruption] now had a line crossed through it.
+
+“Indicating it’s still active, but nullified?” Will theorized out loud.
+
+He winced. The act of talking hurt his throat. And his mouth. And his head. And—yeah, everything.
+
+Where the hell was he?
+
+Corrupted Fragment - Safe Room
+
+This area is safe from corruption. Take your time to rest and recover here. Your tutorial helper will familiarize you with basic system functions.
+
+NOTE: As this Tutorial Zone’s difficulty is ranked Extreme, your tutorial helper has been upgraded accordingly.
+
+New quest: Continue the tutorial
+
+New Users must be able to use the system to at least a semi-proficient level.
+
+- Complete the following tasks within 60 minutes [0/X]:
+
+> Open your inventory [0/1]
+
+> Extract an item from your inventory [0/1]
+
+> Place an item into your inventory [0/1]
+
+> Open your status page and examine it [0/1]
+
+> Bind your elemental gem [1/1]
+
+- Failing this quest automatically ends the tutorial.
+
+Reward: 100 credits and continuation of the tutorial.
+
+“Tutorials are supposed to be the easy part of a game. Did you base your system around Dark Souls? Because it definitely feels that way.”
+
+To access your inventory, select the [Inventory] icon with your eyes, hands, or a mental command.
+
+This line of text came in a bright red, contrasting the light, inoffensive bluish text that the rest of the messages had been in.
+
+“Jeez. Is that the ‘upgraded’ tutorial helper? You really think I couldn’t figure that out myself?”
+
+This is standard procedure for all tutorial helpers. The upgrades will be displayed later.
+
+“Hold on, you can talk? You can hear me?” The voice that accompanied this text was more feminine than the standard system text. Was that his helper?
+
+A new pop-up opened, startlingly fast.
+
+FAQ: How can the tutorial helper hear me?
+
+Tutorial helpers are managed by administrative non-Users serving their labor sentences from a remote location. Should you perish in the tutorial, your tutorial helper will be reassigned to another User.
+
+“I don’t plan on dying.”
+
+Then you should open your inventory, biped freak.
+
+“Yeah? You jealous because you picked wrong? And what’s wrong with being a biped? Humans normally are, in case you didn’t notice.”
+
+Implying that my helper isn’t, Will thought.
+
+The text and accompanying digitized voice did not respond. Will counted that as a victory.
+
+The system must have been monitoring him somehow. He made sure to flip off the air as he tried to open his inventory for the first time.
+
+“Come to think of it,” he muttered, “if the system can do all of this, why use people for this part?”
+
+FAQ: Why is the system not handling the tutorial?
+
+After [REDACTED] system cycles of A/B testing, the multiverse defense system has found that Users with sapient helper assisted tutorials have a 3-5% higher 1-year survival rate than those with system-only tutorials.
+
+“I’d be impressed if I didn’t come out here with a worse survival rate,” Will said, glaring at the inky darkness beyond the small square of light in the room.
+
+25%.
+
+“Excuse me?”
+
+My tutorials give you a 25% better chance on average. Now hurry up before you die.
+
+If that was true… it was probably better to work with the helper.
+
+Will’s skin twinged, reminding him of his current predicament.
+
+Alright, he thought. Inventory.
+
+Inventory [3/10]
+
+- Potion of Superior Healing (Bronze)
+
+- Scorpider Tail (Corrupted)
+
+- Scorpider Fang (Corrupted)
+
+A quest update popped up, notifying him that he’d completed the first part.
+
+To access an item in your inventory, mentally designate it and focus or use your hands to extract it.
+
+The inventory was pretty standard—basically exactly what he remembered inventories from his RPGs being like. There were ten slots, with three of them occupied by small icon representing each of the items he had placed there.
+
+“Health potion. Yes, please. Oh, and thanks, by the way.”
+
+He and the faceless stranger managing his tutorial hadn’t gotten off to a great start, but he didn’t want this dude—this lady, rather, based on the voice—to screw him over. That would be an awesome start to a revenge story, but he was more focused on surviving the next few minutes.
+
+The potion was contained in a corked glass bottle about the size of two shotglasses. It was filled with a thick, metallic liquid, which sloshed around with a dubiously sludgy consistency.
+
+“Is this drinkable?”
+
+To consume a health potion, you may drink it or mentally select and use it. Drinking a potion manually will slightly increase the effects of the potion.
+
+That was actually useful information, but Will noticed that she had not actually told him whether or not it was drinkable.
+
+The helper remained suspiciously quiet.
+
+“Eh, screw it.”
+
+He uncorked the bottle and tipped it back.
+
+It tasted like applesauce—the good kind, the sort where it was clear someone had put time and effort into making it. Will had a soft spot for the snack, but the prepackaged preservative-laden garbage that the school’s convenience store sold just wasn’t the same.
+
+A warm, tingly feeling suffused his body, intensifying to the point of full-body stinging pain before fading entirely.
+
+Will experimentally flexed an arm. No pain. His health diagram was back to green.
+
+You have consumed a potion above your rank. You will not be able to benefit from healing potions for the next [5 minutes].
+
+That one came in the same blue text as before. Definitely not from the helper.
+
+“So bronze is above me? What am I, then?”
+
+You may identify your rank by opening your status page.
+
+“Or you could tell me.”
+
+Or you could open your status page and get it over with.
+
+“Yeah, yeah, whatever you say, boss.”
+
+Before he proceeded with opening his stats, he placed the empty potion back into his inventory slot. It worked as intuitively as taking something out did. Just placing it into the slot worked.
+
+With that done, there was only one more task to go.
+
+Do not open your status page yet.
+
+“Hmm? You just told me otherwise. What’s wrong?”
+
+You just completed the last inventory task, leaving only opening your status. As you already have an elemental gem bound, opening your stat page will complete this segment, and you will automatically be sent to the next stage of the tutorial, which is combat-focused.
+
+“I see. Thanks. Could’ve told me that earlier, but thanks.”
+
+Believe it or not, I prefer not to see new initiates dying constantly.
+
+“I’ll try not to disappoint. Do you have a name, by the way? I keep on thinking of you as ‘it’ and ‘the helper.’ Also, your messages keep on clogging up my feed. Could you turn your font size down?”
+
+The User interface’s visual appearance is decided by you, not me. “Helper” is an appropriate address. You may tag my messages as such.
+
+It took him a bit to familiarize himself with the elements of the system, but there was in fact something equivalent to a settings screen.
+
+“How long do I have in here? The last time I updated my settings, it took me like three hours of testing.”
+
+Helper: You will automatically fail in 54 minutes.
+
+“Nice! It works!”
+
+He gave himself half an hour to fiddle with his settings, though he managed to finish in less than half of that time. Will had always been a power-gamer, and he knew better than most how important minor settings could be. There were a lot of elements of the UI that were still greyed out—he assumed that he would gain access to things like the minimap later in the tutorial—but he could see what they would eventually look like, so he placed and sized them until he had a non-intrusive, functional system.
+
+Will could guess what Helper wanted him to do. The room he was in was entirely devoid of matter aside from him, the tiled platform he stood on, and the darkness beyond. That left him with no resources but what he’d already gathered.
+
+He extracted the scorpider tail and fang from his inventory. Strangely enough, they appeared to have been cleaned and extracted from the corpse’s body. The fang, which was as long as his entire forearm and tapered to a point, was dry, when it most certainly hadn’t been when he’d messily slaughtered the creature, and the tail’s venom sac was clearly visible and similarly cleaned of all gore.
+
+If the looting system could do that for him automatically, he wasn’t going to complain. Sure, it was a bit odd, but this was much better than having to manually dissect a spider. The last time he’d done anything like that had been when he’d had to dissect a shark in Ms. Lark’s 4th grade class, and he hadn’t particularly enjoyed that.
+
+“What am I supposed to do with these?”
+
+The scorpiders had displayed tooltips when he’d focused on them. Maybe the same would hold true for the items.
+
+To his delight, they did.
+
+Item: Scorpider Fang (Corrupted)
+
+Common, unformed
+
+Don’t let their pleasant demeanor fool you. Scorpiders utilize these retractable fangs to latch onto their prey. Though the edges are rounded, the point is deadly sharp.
+
+WARNING: This item has been corrupted. At your current level, you can use this item for [60 seconds] before gaining a level of [Corruption]. Has a moderate chance to inflict one level of [Corruption] upon targets hit by this attack.
+
+Item: Scorpider Tail (Corrupted)
+
+Common, unformed
+
+Fun fact: scorpider tails are vestigial. The laboratory experiment that created them was a resounding failure. They were meant to use their tails as a combination assassination and mobility tool, and they ended up being used for neither. Instead, they store one of the three sacs of venom that the scorpider injects with its fangs. When carefully handled, these tails are a delicacy amongst cave goblins.
+
+This item can be used as a crafting ingredient for potions of the Poison or Corruption elements. This item can be combined with a Scorpider Fang.
+
+WARNING: This item has been corrupted.
+
+Sure enough, after a bit of time, the [Corruption] effect showed up next to his health diagram, though it was once again crossed and greyed out.
+
+“That resistance skill looks like it’s coming in handy.”
+
+Helper: I would advise combining the fang and tail. It will not be an optimal weapon, but anything is better than starting off an extreme-difficulty tutorial with nothing.
+
+“I was on my way to doing that,” Will said. “And now that you’ve told me to do it, I don’t want to.”
+
+Helper: Don’t be a child.
+
+He snorted. “Cut me a break. The world just ended with everyone on it. I have literally never been this alone.”
+
+Helper: Your profile states otherwise. You appear to have been quite alone for some time.
+
+“Not. Helping.”
+
+Helper: If it helps, approximately 2.5 billion Earth humans have chosen to become Users. This is a record high percentage. Your race may have potential.
+
+“I’m not sure if that’s more or less than I expected. Wait. Earth humans?”
+
+Helper: Did you think you were alone in the universe? The impact should have freed you of that delusion.
+
+Will took a moment to think about that, then another moment to reflect on the fact that he definitely didn’t want to think about it.
+
+“I’ll figure it out later,” he declared, changing his focus to the task of putting tail and fang together.
+
+A red outline highlighted the venom sac, and another one did the same for the base of the fang.
+
+Helper: Some items will have crafting guides, but once you leave the tutorial, the majority will not.
+
+“Ten-four,” Will said, carefully twisting the sac off from the tail and placing it into the apparently hollow part of the fang.
+
+Helper: Ten-four? I took some time to examine Earth’s culture prior to arrival, but you have quite a diverse range of media. I am unfamiliar with this expression.
+
+“It’s a police thing. I got it from Rush Hour. Or was it Brooklyn Nine-Nine?”
+
+Getting the sac to insert into the fang was easier than Will expected. It slid together as if by magic, venom gland easily slotting into the makeshift weapon.
+
+“Maybe it is magic helping it along,” Will theorized.
+
+You have crafted Poisoned Scorpider Fang!
+
+Poisoned Scorpider Fang (Corrupted)
+
+Common, unformed
+
+If you weren’t using it as a weapon before, you definitely are now. Has a high chance to inflict stacking levels of [Poisoned] alongside the possibility of inflicting a level of [Corruption].
+
+Don’t stab yourself.
+
+“Hmm. That wording makes it seem like I can only do one level of the corruption debuff.” Will thought back to how much pain he’d undergone with that single level. “I guess that should be enough for now.”
+
+He made to put his new weapon into his inventory.
+
+Helper: I wouldn’t do that if I were you. Taking items out of inventory is free right now, but as an unformed with no combat skills, you will have seconds of delay during a battle. Three seconds could be the difference between life and death.
+
+“Noted.” Will did not put the weapon away. “You talk like you’ve seen battle before. Have you been through this place already? Done the same shit?”
+
+Helper: I am not at liberty to disclose that.
+
+“Also noted.” He frowned. “That’s more than a little suspicious.”
+
+No response. That was more damning than anything Helper could have said.
+
+Oh well. He added it to the mental checklist of important shit I need to get to later, which was expanding a lot faster than he’d hoped for.
+
+With that done, Will returned the de-venomed tail to his inventory, double-checked to see if there was anything else he needed to do (which there wasn’t), and opened his status page for the first time.
+
+Name: William Li-Brown
+
+Level: Unformed 0
+
+Race: Human
+
+Class: None
+
+Titles: [First Blood]
+
+Attributes:
+
+[Power]: Unformed 6
+
+[Speed]: Unformed 7
+
+[Affinity]: Unformed 5 (Bronze 2)
+
+[Soul]: Unformed 2
+
+[Resistance]: Unformed 5
+
+[Perception]: Unformed 7
+
+Universal Abilities
+
+- Identify
+
+- Omnilingual
+
+- System User
+
+Skills
+
+[Power]: Unbound
+
+-
+
+[Speed]: Unbound
+
+-
+
+[Affinity]: Corruption
+
+- Corruption Resistance (Bronze)
+
+-
+
+-
+
+[Soul]: Unbound
+
+-
+
+[Resistance]: Unbound
+
+-
+
+[Perception]: Unbound
+
+-
+
+That was… a lot of information. Okay. Name, level, race, and class—this was starting to look more and more like the RPG games Will liked to play on occasion. The “Unformed” tag had been brought up a few times before, but it was slightly more apparent what it was now.
+
+“I’m the lowest rank,” he said. “Makes sense. But one of my stats has been boosted to bronze? Is that because of the Corruption thing that bound itself to me?”
+
+Helper: Yes. [Corruption] bound to [Affinity] is very strong.
+
+“Sick.”
+
+Helper: You have the [First Blood] title. That’ll be helpful. Get ready. I will not be able to speak to you as freely in the next area.
+
+Quest complete: Continue the tutorial
+
+You completed the system preparation phase in 24 minutes and 37 seconds, which puts you at the 60th percentile of system speed. Note: the majority of Users who survive longer than 1 year are in the 80th or higher percentile.
+
+Reward: You have earned 100 credits. The tutorial will now continue.
+
+The floor disappeared.
+
+#
+
+Will barely had time to register that he was falling before his stained sneakers touched ground again.
+
+Unlike the smooth tile of the weird space he’d been in during the system prep phase, this was obviously a cave. Will had been an Eagle Scout during high school, and he’d done his fair share of light caving—the type where you could just walk into a well-mapped area, explore for a bit, and come out.
+
+This cave was not like those. This was the type of cave that would get him put into a YouTube video essay years later detailing the tragedy of him getting trapped there.
+
+Ominous, sickly green light emerged from narrow nooks and crannies barely wide enough to maybe squeeze through if he chopped off his arms. Iridescent crystal growths spiraled out from the cave walls like vegetation, giving the entire area an eerie, otherworldly feel. Unseen creatures skittered, crawled, and walked through the tunnels, casting twisted shadows on the walls and doing nothing to help Will’s sense of unease. The scent of smoke mingled with the sweet
+
+There was corruption present here, too. It was more obvious in some places than others—many of the gems had the same smoky, half-rendered distortion effect that had plagued the scorpider.
+
+Corrupted Fragment - Arcadian Caves
+
+The first phase of the tutorial familiarized you with the mechanics of the system. The second phase will introduce you to what you must do to survive.
+
+The Arcadian cave system holds one of the greatest subterranean empires throughout the multiverse. This fragment only contains a fraction of its smallest outskirts, but it holds a wealth of treasure from times long past. Weapons, credits, and equipment are plentiful here.
+
+But make no mistake: it is not safe. These caves have long since been overrun by monsters, and they are very, very hungry.
+
+Your current location is: floor 1 of 3.
+
+New quest: Phase 2
+
+Prepare yourself as much as you can while you’re alone. You’ll thank yourself for it in the next phase.
+
+- Reach Bronze 0 [0/1]
+
+OR
+
+- Reach Unformed 20 [0/1]
+
+- Kill 100 monsters [0/100]
+
+OR
+
+- Reach the exit on floor 3 [0/1]
+
+Reward: 1000 credits. 1 random elemental gem.
+
+Achievement earned: The Deep End
+
+You are in a region that is ranked at least one full rank above you. The average survival rate of unformed Users in bronze rank areas is: [0.07%].
+
+Good luck. You’ll need it.
+
+Reward: You have gained 3 bronze Potions of Superior Healing, 3 bronze Potions of Strength, and 100 bronze credits.
+
+Helper: This is not a good starting location. Prioritize fighting weak monsters. Make heavy use of your Identify. Pick your fights well. One mistake, and you’re dead. There are no retries. May the gods be with you.
+
+Your minimap has been enabled.
+
+As the deluge of messages swarmed in, Will tightened his grip on his makeshift knife.
+
+He knew about the existence of the minimap. It had been one of the many UI elements that had been greyed out in the previous phase, and he’d moved it into a non-intrusive area in the bottom left of his vision.
+
+It populated, revealing a mind-bogglingly warped map that Will could have spent hours decoding it if he was poring over it in the school library.
+
+He did not, in fact, have hours to read it.
+
+Red dots appeared on the map. A couple of them at first, and then dozens, hundreds of them in the area, scattered throughout the massive cave system.
+
+The closest of them, if he was reading it right, was in the narrow crack right in front of him.
+
+Not wanting to be taken off guard again, Will crouched up close to the crack, which looked barely wide enough to put an arm through.
+
+The red enemy dot crept closer towards the blue icon that he assumed represented himself. Will as much as confirmed this when he heard the sound of something hard scraping against the stone—bone or armor or something similar.
+
+Without any sort of prepared that he could create traps with, Will had to improvise. There were rocks lying around everywhere, and he saw that every time he was capable of fully lifting one off the ground, he received a prompt to place it into his inventory.
+
+“This would be a great time for some extra strength points,” he groaned, heaving a rock the size of his head into his arms. “Good thing I kept going to the gym.”
+
+By the time the eerie light that had been coming from the crack started to fade, blocked by the creature coming through the vent, his inventory was nearly full.
+
+Inventory [9/10]
+
+- De-venomed Scorpider Tail (Corrupted)
+
+- Empty Potion Bottle
+
+- Potion of Superior Healing (Bronze) [x3]
+
+- Potion of Stamina Restoration (Bronze) [x3]
+
+- Medium Rock
+
+- Medium Rock
+
+- Medium Rock
+
+- Medium Rock
+
+- Large Rock
+
+Interestingly, the potions stacked but not the rocks. Maybe it was because they weren’t identical? He made a note to look into it later.
+
+For now, he had a monster to kill.
+
+Helper had told him that using the inventory during an actual battle was a death sentence for someone like him, but he wasn’t in battle. Yet.
+
+Will had no idea if this was going to work, but there was surely no better time to experiment than during the tutorial.
+
+Mental commands worked as well as his hands did for moving things in and out of his inventory. If he could do it all at once...
+
+As the red dot emerged from the tunnel on his minimap, he drew out the four watermelon-sized rocks and the child-sized boulder that had pushed him to his limit to lift.
+
+To his delight, the rocks tumbled down with a satisfying crunch, smashing whatever enemy was crawling through it.
+
+And then, all of a sudden, the dot disappeared. No accompanying notification told him that he’d defeated, it though, and his hackles raised. Will gripped his blade tighter.
+
+A moment later, that dot reappeared—behind him. A moment after that, hot pain flared in his calf.
+
+“Shit!”
+
+He operated on pure instinct, pushing through the pain in his leg and taking a step back, putting his weight behind a devastating blow with the fang.
+
+The makeshift dagger glanced off something hard, then sank into flesh. Will twisted, yanking it out and slashing once more, eliciting a pained, reptilian hiss from the creature. A foot came up and kicked him in the chest, sending him stumbling back, but he managed to stick it one more time with the poisoned scorpider fang as he recovered.
+
+Across from him, a four-foot-tall gremlin straight out of a haunted house hissed, a bow in its hands. It was bleeding freely from an arm, and its head looked like it had been half caved in. Will could see where he’d scratched its shiny metallic armor with the blade, though the parts that he’d deformed with his makeshift landslide made it hard to tell if that was just a trick of the light.
+
+“Comic-Con was six months ago,” he told it. “It’s a little late to be playing dress-up.”
+
+Remembering his helper’s advice, he looked at it closer.
+
+Arcadian Cave Goblin. Level: Bronze 2.
+
+Goblins live for three reasons: eating, stealing, and killing, oftentimes all involving the same poor victim. Arcadian Cave Goblins do the same, but with their own unique twist. With their racial ability to teleport through the strange portal-like vents of their cave system and their surprising resilience against ambient corruption, they are an utter menace to unprepared Users.
+
+This monster is suffering from two levels of the [Poisoned] effect.
+
+This monster is suffering from one level of the [Corruption] effect.
+
+WARNING: This monster’s rank is 1 higher than yours!
+
+“A rank higher, huh? You don’t look a rank higher.”
+
+Its skin was grey, but there was a greenish-black pallor suffusing it. That definitely wasn’t a racial trait, judging by the way it seemed like it could barely move. Whether that was because of the broken bones, the cut, the poison, or the corruption, Will couldn’t tell.
+
+He remembered how much just one level of that corruption had hurt. For a moment, he wanted to wince in sympathy.
+
+But then its arms moved, weakly raising its bow to shoot him again, and the reality of the new world sank in.
+
+It was kill or be killed.
+
+And Will was not going to sit around and die.
+
+He took advantage of its weakness, feinting forward. The creature flinched backwards, screeching, and it disappeared again.
+
+There!
+
+Will struck at the nearest active vent of light immediately.
+
+His lips split into a feral grin.
+
+“You’re predictable when you’re hurt, monster,” he said, sinking the fang into its eye.
+
+You have defeated an Arcadian Cave Goblin.
+
+A living being, dead at his hands. This one wasn’t just an insect. It had been humanoid, intelligent, and ready to kill him.
+
+Will had never felt so alive.
+
+Level up!

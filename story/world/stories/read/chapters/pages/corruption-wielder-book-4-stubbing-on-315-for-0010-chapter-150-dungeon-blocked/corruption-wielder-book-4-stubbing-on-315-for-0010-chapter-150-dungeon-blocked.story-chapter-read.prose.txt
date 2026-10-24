@@ -1,0 +1,249 @@
+You have leveled up two times!
+
+You have advanced from Gold 2 to Gold 4. 2 stat points gained.
+
+Achievement earned: Bridging the Gap
+
+You are the 72nd User from your planet to defeat a monster above your tier.
+
+Reward: You have earned an Awakening Shard of the Forerunner.
+
+Will raised an eyebrow at that. He wasn’t surprised that he wasn’t the first person to defeat a platinum-rank monster on Earth. He’d been beaten to gold, after all, and it was also pretty clear that others had access to challenge dungeons as well. That had been a reasonably difficult fight, but it had also been against a Platinum 4 specialized against magic-focused Users. Will could thus assume that others had had easier times against platinum-ranks of lower levels.
+
+No, what was surprising was the reward. By this point, most everyone had already unlocked a full set of both elements and skills. Of what use was an awakening shard?
+
+Will: Just got an awakening shard for beating that boss. What’s up with that?
+
+Ayla: The answer to that is going to have to wait until platinum, assuming you get that far. The tier-up comes with changes, but those changes vary per person.
+
+That wasn’t suspicious at all.
+
+Achievement earned: Let Me Solo This
+
+You are the first User from your planet to defeat a battalion boss unaided.
+
+Reward: You have earned 1,000 platinum credits. You have earned two Awakening Shards of the Forerunner.
+
+The credits were nice, but Will had plenty of those to spare anyway. The awakening shards, once again, proved more interesting to him. They were for the same kind of tablet that the first achievement had, which still meant nothing when he could neither exchange skills out nor suddenly manifest a new skill slot.
+
+He’d have to look into that more. If Ayla wasn’t going to give him a straight answer, it had to be some weird shit.
+
+That wasn’t the only reward he’d gotten, of course.
+
+You have set a new record time for [Temple of the Darktide Guardian]. You have been awarded a platinum-rank treasure!
+
+Select your treasure below:
+
+- [Visor of the Voidseeker] (platinum)
+
+- [Eternity’s Veil] (platinum)
+
+- [Spellbreaker Gem] (platinum)
+
+Item: [Visor of the Voidseeker]
+
+Very rare, platinum
+
+Once standard issue to Darktide Voidseekers, these are now relics of a great empire that sought to eliminate all magic. Voidseekers claimed that one could see through the lies of magic if they simply embraced the void. Whether or not this is true is up to debate, but these will certainly make certain kinds of magic a lie.
+
+Detects active magical effects and illusions within a 300-foot radius. Attuning to this item allows you to use the [Pierce the Veil] skill at platinum rank once per day.
+
+[Pierce the Veil] (platinum) - Temporarily disables all magical illusions, cloaking skills, and invisibility at up to platinum-rank within a 300-foot radius for 10 minutes.
+
+Item: [Eternity’s Veil] (platinum)
+
+Legendary, platinum
+
+A treasure sometimes used by Darktide Voidseekers. Though they swore not to rely on magic, they were more than willing to use pieces of it in order to augment their own technology. This veil includes pieces of the corpse of a being once known as a timeskipper. Entire libraries could be written on their history, but to summarize their existence up: They lived. They hunted. They became the hunted. They died.
+
+Hopefully you won’t end up the same way.
+
+Reduces cooldowns of platinum-rank or lower skills by 25%. Attuning to this item grants access to the [Temporal Step] skill once per day.
+
+[Temporal Step] (platinum) - Reactive skill. When you are about to suffer debilitating damage, your position will be rewinded to a safer state that you were present at within the last 60 seconds.
+
+Item: [Spellbreaker Gem] (platinum)
+
+Epic, platinum (augmentation)
+
+Voidseeker standard gem. Before the race’s death, possessing one of these carried the death sentence in twelve solar systems. You can attach this to any weapon that accepts augmentations.
+
+Grants [Shatter Spell] at platinum rank to any item this is attached to on a 1-minute cooldown.
+
+[Shatter Spell] - When you land a strike with this weapon, the target cannot use magical skills of platinum-rank or lower for the next 12 seconds.
+
+“Finally,” Will said. “Some good fucking loot.”
+
+He slapped the two free stat points into Perception, bringing it up to Gold 5. It was his lowest stat barring Power, but he could make up for any deficiencies in that stat with corruption. Perception he could use Sen for, of course, but it was never a guarantee that the Thousand Eyes would be fully active in any given situation. His innate aura senses were a key part of his abilities, which Perception directly benefited.
+
+All three of the items he could get from toppling the platinum boss were actually powerful items. Once, Will had relied primarily on the more powerful items he could access thanks to his corruption affixation in order to keep himself alive, but the loot available to him hadn’t quite scaled with his own increase in personal power. The slayer sword and Eclipse had been good additions, as had the other items he’d gotten from the sponsors during the trial of the champion, but he hadn’t relied on them in quite some time.
+
+These were potentially game-changers. They weren’t individually more powerful than his kit as it was, but they were actually useful and could potentially represent changes to his fighting style.
+
+Visor of the Voidseeker was useless for Will, unfortunately. He could give it to one of his allies, but for him, his Pages of the Past skill already did roughly the same thing, just at a rank lower.
+
+The other two were substantially better, both providing value.
+
+When it came to Eternity’s Veil, Will knew he could remove cooldowns entirely with his Envoy of Mercy title, but that expended resources that could otherwise be used to protect himself from damage. That was increasingly becoming an important consideration, especially given that he knew he was not only a target of Peace via what were essentially jailbroken Users through the Contractor but also potentially of the other world. It had been only thanks to Nynn using the very last of his power—not to mention nearly killing himself in the process—that had allowed Will to survive that.
+
+Basically, he wanted to preserve his ability to have a get-out-of-jail-free card. He also wasn’t always canceling out cooldowns, and reducing the time it took to get any of his skills back online was always appealing. That wasn’t the real kicker, though—what Will was actually eyeing was Temporal Step. This item was exactly what he was looking for when it came to items meant to ease his ability to escape sticky situations.
+
+Spellbreaker Gem, on the other hand, was a weapon upgrade. Will was already buffing up Eclipse, having added the gem that allowed him to give Force Weave to the sword, which created invisible lines of force to control the battlefield. This one was clearly stronger, giving him a way to repeatedly stun magic-reliant enemies—which, at this stage, meant basically everyone he was fighting.
+
+The one downside was that it only stunned for twelve seconds with a one-minute cooldown, and that was only on actually landing a shot. Yes, there was a lot Will could do with twelve seconds, especially against an enemy with their primary method of defense down, but if he was getting a solid hit on someone, he was usually winning the fight anyway.
+
+These days, the problem seemed to be more getting that hit in the first place.
+
+Upon thinking about it a bit more, Will decided on Eternity’s Veil. While the Spellbreaker Gem was useful, it overlapped with his existing skills. Ravenous Feast as well as simply cutting through enemy skills with the help of his demonic eye were both alternative ways to stop a spellcaster, albeit not ones that prevented spellcasting entirely.
+
+You have obtained [Eternity’s Veil].
+
+The item settled over his shoulders, manipulating itself to integrate into his existing outfit. Rather than serving as a traditional veil, it twisted itself into the fabric of his cloak, imbuing it with light. The part that rested over his head turned so fine as to be invisible. Energy flowed through him, time magic integrating with his existing affinity.
+
+It wasn’t quite time travel, but he’d take it.
+
+“I’ll have to see how the skill actually works when I get hit again,” he said to himself, flexing his hands. “Cooldown buff’s nice as hell, though.”
+
+Ayla: You don’t have to physically narrate every loot drop you get, you know.
+
+Will: There’s a lot of people watching me, aren’t there? I figure I can buy some trust and interest if I tell them a little about what’s happening.
+
+Ayla: Your funeral.
+
+Will: I’m not telling them everything, anyway. There’s features prseent that I’m not mentioning.
+
+Ayla: If you say so. I doubt it would make much of a difference. That said, I do have something to speak with you about.
+
+Will: Really? I thought you were just chatting me for the company.
+
+Ayla: You think alittle too highly of yourself. I would have picked the elf.
+
+Will: I thought you didn’t like her.
+
+Ayla: Please. That was before she stepped out into the wider world. She’s not the same elf you met in the tutorial, and that’s enough for her to be interesting. That aside, you should probably stop here.
+
+Will: Really? I’m assuming you’re about to telling me that someone is rigging the challenge dungeon.
+
+Ayla: Someone is rigging the challenge dungeon. This, in fairness, is less unprecedented. The challenge dungeons have always been at least somewhat subject to influence from the sponsors of a given cycle. You have many, many high-rankers quite angry at you.
+
+Will: Eh, that’s par for the course. So what’s the deal this time? They kick up the difficulty?
+
+Ayla: Obviously, but that should have already been clear from a platinum-rank boss fight this early.
+
+Will: I can handle a harder boss than the one I just beat no problem. Is there something else?
+
+Ayla: Yes, and a more salient one. You’re not going to get any further special awards for this.
+
+That actually stopped Will in his tracks physically. He frowned.
+
+“The fuck?” he vocalized. “There’s just no way that’s fair.”
+
+Ayla: It’s a measure that can be enacted if enough sponsors identify a certain individual as receiving an item that would allow them to clear a dungeon too easily and claim rewards that are often in part provided by sponsors.
+
+Will: …huh. Wait, why would a sponsor put shit into the challenge dungeons? I was fully under the impression that this was just system-run weirdness.
+
+Ayla: It’s an artificial addition to existing parts of the cycle. The system originally just had these set up to give out basic items and credits, but it left possibilities open. Much of the sponsor system is like that, actually.
+
+Will: I’m not sure I get it.
+
+Ayla: Your planet had yet to develop a system of capitalism advanced enough to properly understand the system.
+
+Will: That’s a bold statement.
+
+Ayla: Suffice it to say that it is not particularly relevant to your situation. A basic explanation would require at least two semesters of re-education before we could even get started, so let’s not. The point is that any further ventures into the dungeon are unlikely to produce similar levels of loot for you. It would just be for the purpose of training.
+
+Will: How do you even know this?
+
+Ayla: I told you before. I did my time. Besides, do you think I’ve done nothing here in this dead zone except sit and wait to be rescued? I have had a very long time to consider what I would do differently, and I do not intend on wasting my second chance.
+
+Will: Fair enough, I guess.
+
+Out loud, he said, “So if loot isn’t a further option, I guess it’s just stat and skill training to go further. Not terrible, but not amazing.”
+
+Ayla: Keep in mind that they will try to… hmm, “nickel and dime” is probably the closest phrase your language has to what I wish to say. They will nickel and dime you out of every possible reward. If you go now and complete a room, it is highly unlikely you will ever receive an actual award for completing it again.
+
+Will: Well that’s fantastic. Do you think there’s a cooldown on this, or am I just stuck at this room on every attempt from here on out?
+
+Ayla: I would estimate that you would be able to acquire a new platinum-rank item in a few days. The exact window is less clear. I have a great deal of prescience, but there are a lot of variables in play.
+
+Will: That’s really goddamn annoying. I’m assuming I don’t get a say in this.
+
+Ayla: No. Your sponsors might, but I have no direct line to them.
+
+Will: I should. I can request a meeting with them, can’t I?
+
+Ayla: Not from here, you can’t.
+
+Will looked up to the amorphous ceiling of the cleared-out section of the dungeon, exasperated. “Sorry for the delay, everyone watching. Circumstances have come up. I have asses I need to kick that aren’t in here. I’ll be back tomorrow.”
+
+If he couldn’t clear the later rooms without risking the loss of valuable loot, the option of revisiting the earlier rooms for training purposes was still available to him. Just this one run had been useful in getting his stats and level up.
+
+He couldn’t afford to spend all his time grinding the dungeon for level-ups, though. The time was running out on the issue of the Contractor, and Will was no closer to finding the fucker than he’d been before. Sponsors going so far to interfere with him was pretty suspect, too. He was well used to sovereign-tiers trying to use him as a pawn in games greater than himself, but this time, Will wasn’t even sure if he could see the board.
+
+With a shaken head and a sigh of disgust, he activated the Escape Ticket he’d been given upon entry into the dungeon.
+
+He’d be back tomorrow. Fighting against platinum-rank monsters and getting loot on the scale of said monsters was too much of a potential power multiplier for him to pass up, but for the time being, Will had other priorities.
+
+The second he was out of the dungeon, the portal behind him not even finished closing, Will navigated through his menus, ignoring the chats that had piled up while he’d been clearing his way through the dungeon.
+
+There was no built-in way to call a meeting, which made sense. Ayla had told him that it was a pricey move for a sponsor to take a User off-planet in a regular cycle. Even if this was no regular cycle, there was little chance that Will would be able to afford the cost of an off-planet trip alone. He was still gold-rank, after all, and while he possessed certain skills that allowed him to perform acts far beyond his rank, intergalactic travel was not amongst those talents. Even with the Beyond, he could tell that he was confined to a certain area—the power his Sanctuary held was not yet great enough to truly transport him throughout the worlds.
+
+However, even if he couldn’t afford it himself, he had ways of getting his sponsors’ attention.
+
+Granted, they were unlikely to respond to a simple demand. He had swindled his way into their graces, after all, and he doubted that they were happy with how much they had paid for a man who at the time had only been silver rank.
+
+Will called in Aza, summoning the Dread Executor fragment to his side.
+
+“So,” he said, leaping into the air to get away from the most obvious prying ears. “I’ve been hit with some annoying news.”
+
+“I know,” the Guardian Angel said serenely. “As your familiar, I share your senses.”
+
+“Oh. Wait, seriously?”
+
+“It usually doesn’t come up,” Aza acknowledged.
+
+“A familiar that semi-regularly syncs knowledge with a Dread Executor can read my chat and that usually doesn’t come up?”
+
+Not wanting to waste too much more mana, Will formed a platform out of hunger phantasm and a chair to boot, taking a seat as he sorted through his inventory menus.
+
+“I didn’t read your chat,” Aza said, looking and sounding vaguely offended as he flapped his artificial wings, coming to a stop on Will’s platform. “I said I had access to your senses. This isn’t my first cycle. I can sense signs of interference as well as your average Dread Executor.”
+
+“Ah.” Will nodded, silently grateful that there weren’t even more people who knew about Ayla. He was certain by now that when it came to high-level interactions, having someone who had actively escaped the system organization on his side was probably a fairly bad thing. “You could’ve opened with that.”
+
+“It was implied. What are you looking for?”
+
+“These,” Will said, popping a sigil out from his inventory.
+
+For the amount of power a sigil held within it, the presence they had on the environment was really quite minor. It took extreme proximity for even Will to detect the raw energy stored within the sigils of the Crown and a god he didn’t know. When he got close, though, it practically roared.
+
+This item, the third sigil he had gained had been gifted to him by Ataraxis, the gold-ranked corruption cultist who had spearheaded the demon summoning plot during the trial of the champion. It was corrupted beyond belief, so much so that even trying to Chaos Transfer it just resulted in two items being irreversibly corrupted.
+
+Will had considered trying to Ghostflame it off or maybe transfer the corruption to himself once or twice, but he’d dismissed that soon enough. The trial of the champion had proven that he could, in fact, still be affected by corruption so long as it was a high enough level, and whatever was keeping this sigil corrupted was doing so to an ascendant rank item. He might have made a name for himself taking foolhardy risks, but he wasn’t planning on doing one that clearly suicidal.
+
+He knew that. His sponsors, however, did not.
+
+“I know you’re watching,” he whispered. “You know, I was wondering recently—it’s pretty obvious I don’t have the full picture. You arrogant pricks up there are doing the absolute most to hoard information and play a game with us as the pieces.”
+
+Will thumbed over the sigil, toying with his aura. He formed the beginning of a skill that he was sure his sponsors would recognize—Destructive Synthesis.
+
+“This is the one high-rank item in my inventory that I’d be willing to part with,” he said. “One of the only things I’m not using, and it’s ascendant-rank. Now, you might be thinking that this looks like suicide, but what I see is a mana pool on the scale of gods. If you’re not willing to let me play when I’m on the board, then I can only wonder what’ll happen when I force my way into your seat.”
+
+For a second, there was nothing, and Will clicked his tongue. Aza watched on in amused silence as the corruption wielder inched ever so slightly closer to the edge of activating the skill that would consume his item and transfer its power into a vessel not even close to suited for it.
+
+[The Order of the Striker] requests a meeting.
+
+[The Lady of Overwhelming Violence] requests a meeting.
+
+[The Lord of Loss] requests a meeting.
+
+[Ash] requests a meeting.
+
+[The Lady of Pale Fire] requests a meeting.
+
+Accept? [YES / NO]
+
+Will’s smile didn’t quite reach his eyes.
+
+“That’s more like it.”
+
+He accepted.

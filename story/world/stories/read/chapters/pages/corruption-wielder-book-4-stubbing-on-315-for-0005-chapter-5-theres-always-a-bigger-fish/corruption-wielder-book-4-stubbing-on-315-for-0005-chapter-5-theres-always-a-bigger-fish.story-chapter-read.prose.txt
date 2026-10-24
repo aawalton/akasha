@@ -1,0 +1,249 @@
+Ecstatic energy surged through Will’s system as his sight returned to normal. Coming down from the high of the first level-up had been a trip. Six was what he imagined taking MDMA might be like.
+
+Apparently, exiting the safe zone for less than an hour meant that the timer didn’t reset, so he was at nineteen hours and counting until this one kicked him out. Plenty of time to sort himself out.
+
+Will hadn’t realized how tired he was up until this moment. Now that his life was no longer immediately in danger, the built-up exhaustion of everything leading up till this point piled upon him. As it turned out, passing out was not an appropriate substitute for sleep, which meant that in terms of real rest, he’d gone something like thirty hours without.
+
+He wanted to crash, but the flames were dying down outside and the scorched bodies of the goblins he’d slain lay burning amidst the blackened dirt and stone, illuminated by the alien light even in death.
+
+If they were all like the goblins he’d personaly killed, then each and every one of those bodies had loot on them. Will wasn’t sure about the sociopolitical state of the corrupted fragment of the Arcadian cave system, but he doubted that the other mobs in this area were going to politely leave the corpses alone.
+
+There definitely wasn’t enough space in his inventory to fit everything in, even after he’d just gained six new slots from his level-ups, but thanks to the shop, he had a way to circumvent that.
+
+Armed with ten large wooden crates and a fully functional fire extinguisher—both purchased from the Miscellaneous section of the store—alongside the teleport dagger, he ventured back out into the flaming outdoors.
+
+The extinguisher wasn’t enough to put out all of the flames. One of the random bullets he’d fired must have been the incendiary option, which he was pretty sure just created napalm. The gun had been a high risk, high reward weapon, and he was glad to see it had paid off.
+
+It made looting the bodies a pain, though. Some of them were so thoroughly destroyed that when he looted them, all he got was a handful of credits.
+
+Will kept a careful eye on his minimap as he cleared the bodies out, looting each of them for everything they were worth and dropping the spoils of battle in a crate.
+
+“If you can call dropping a fuel-air bomb on a bunch of prehistoric goblins a battle, anyway.”
+
+He wasn’t going to be able to replicate that stunt easily. Will marked it as a strong option if he had access to a safe zone and a high density of enemies, but he doubted he was going to manage it a second time under different circumstances.
+
+Will was definitely still going to buy more barrels.
+
+Thankfully, it seemed that any lingering monsters in the area had been scared off by the sound of roughly six hundred gallons of oil exploding. With some fire extinguisher action, he was able to access every body. The ones in the vents were trickier to get to, but the teleport dagger was still functional.
+
+By the time he was done, Will had fully packed four crates and gotten halfway through another. He stuffed everything back into his inventory, exhausted but satisfied, and headed back into the safe zone.
+
+Once inside, he found his way to a comfortable-looking couch and promptly fell asleep.
+
+#
+
+Will woke up feeling more rested than he had in years.
+
+Helper: Good morning, William. It has been 9 hours. You have 10 hours remaining in the safe zone before you are automatically ejected.
+
+“Great. Is there a shower anywhere? I have goblin ash all over my clothes. And in my hair. And in my mouth.”
+
+Helper: Yes. Find it yourself. Are you sure you’re a sapient?
+
+“Very funny.”
+
+There was, in fact, a bathroom. The shower was spartan, but the pressure was good and the water was hot, which was a lot more than Will could say for the ones at his overpriced apartment. When he was done, he discarded the clothes he’d been wearing since he’d woken up ready for a day of work yesterday. At this point, they were fit for burning.
+
+A simple shirt and pants only set him back 20 credits. He’d gotten over a thousand base credits and just under two hundred bronze from the goblin clan, so the price was negligible.
+
+It was a strange sensation, having disposable income. Will had sent the majority of his paycheck back home and spent the bulk of what remained on rent, so his personal spending money had always been tight.
+
+He hoped Mom and Dad were doing alright—either going through easy tutorials or, more likely, choosing the safer life as a non-User.
+
+Will put that out of mind. He could worry about them all he wanted, but none of that would matter if he didn’t make it out of his own tutorial alive.
+
+The loot and the levels could help him with that.
+
+With the six new levels, he had 12 unused points.
+
+“I’m not putting all of these into Affinity,” he said, thinking out loud. “I can use the bronze rank items already, and I’d really like to be able to not instantly run out of mana.”
+
+Helper: Your [Soul] attribute is indeed quite low for a sapient. You must not have been in touch with your inner self before this. Loser.
+
+“Wow, screw you.” It wasn’t like she was wrong, to be fair, but still…
+
+Will decided to put 3 points into his Soul stat to bring it up to par with his second-lowest stat, then put the other 9 in Affinity, raising it from 7 to 16. The functional level it was at jumped from Bronze 3 to 8, confirming Will’s suspicion that it was equal to half the unformed level rounded down.
+
+He asked Helper about it.
+
+Helper: Unformed is the only rank that goes from levels 0 to 20. Every rank onwards is 0 to 10. Before you ask, I am not at liberty to disclose that information.
+
+“Interesting,” Will said, resisting the urge to ask why anyways.
+
+Putting points into stats didn’t have as noticeable an effect as leveling up, but Will still felt a refreshing wave pass through him. When he held the seven-shot six-shooter, his grip on it felt more natural. A pressure that he hadn’t even realized was there had been lifted.
+
+Helper: As your [Affinity] increases, you will find it easier to use items of the rank it is at. You will also find yourself capable of using more items.
+
+“Noted.”
+
+The loot in the crates wasn’t anything terribly special. The chieftain’s spear was just a normal (albeit corrupted) spear, though the axe that still gleamed with Will’s blood when he took it out of his inventory was a different story.
+
+Item: Chieftain’s Axe of Despair (Corrupted)
+
+Rare, bronze
+
+Passed from father to son to the guy who murdered the son, then the guy who murdered him, then… you get the idea. They say the axe forgets and the tree remembers, but this axe definitely has not forgotten.
+
+Has a moderate chance of inflicting stacking levels of [Altrien’s Despair]. Has a high chance of inflicting stacking levels of [Bleed].
+
+WARNING: This item is corrupted.
+
+“That’s an Earth saying. How does it know Earth sayings?”
+
+Helper: The system adjusts how it presents itself to all individuals. Mine was written in my native language. I am at liberty to disclose how: I have no idea.
+
+Altrien’s Despair, as it turned out, was an effect that temporarily reduced the Soul attribute and worsened all injuries. Bleed dealt ongoing damage, reduced the Power attribute, and made the target more susceptible to further slashing attacks.
+
+“This thing’s kind of nasty.”
+
+Will tested it. With his increased Affinity attribute, it felt as natural as the practice swords he’d used in kung fu. It looked like a greataxe, but it was meant for goblins. He could manage using it in one hand.
+
+Aside from that, the bulk of the loot was on the same level as the stuff he’d looted from the first one. They didn’t possess any particularly unique characteristics beyond being corrupted.
+
+None of the other weapons were up to par with what Will already had, but the more esoteric items were interesting.
+
+There were a few items labeled as grimoires that he couldn’t read. Apparently, his Soul attribute had to be higher to try to learn from them. That was a concern for when he had more levels.
+
+More presciently, he now had 15 Awakening Shards of the Delver, and he hadn’t forgotten the Tablet of the Slaughter that he’d gotten earlier.
+
+“What are these?”
+
+Helper: Awakening Shards are pieces of tablets. Depending on the tablet, it can take anywhere from 3 to 100 shards to assemble. The Delver is a fairly common one, so I have data on it. You should be able to create three tablets with 15 shards.
+
+“And what do tablets do?” Will had a suspicion, but if he had access to a living Wikipedia, he wasn’t going to try to make his decisions without information.
+
+Helper: They are the primary method for obtaining skills. Each tablet has a certain subset of skills that it will tend to give. When you activate one, you may choose any attribute that has open skill slots and awaken a skill for that attribute at the functional rank as the attribute, though you cannot unlock skills that are more than 1 rank above you. For you, that means the highest-rank skill you can unlock will be bronze.
+
+Unbound attributes have two skill slots. Bound ones have three. When you gain a class, you will be able to select secondary attributes, which have four slots, and a primary attribute, which has six.
+
+If your attribute is unbound, the skill you receive is likely to be more general. Your only bound attribute is Affinity, which is bound to Corruption. Therefore, if you awaken an Affinity skill, it will relate to Corruption as well as whatever the tablet is.
+
+Will examined the Tablet of Slaughter. It was listed as rare.
+
+“Are higher rarities better?”
+
+Helper: Not necessarily. They have a higher floor, and are better for achieving certain defined results—for instance, the Tablet of Slaughter will almost certainly give you a strong offensive skill—but skills from common tablets sometimes prove to be the most useful. 3/4 of my skills were from common tablets when I was a User.
+
+“Huh. Okay.”
+
+Helper: You have a vault key in your possession somewhere. Take it.
+
+Oh, right. The boss had dropped one of those. Will fished around in the crates and found it.
+
+As he did, a new point flashed yellow on his minimap.
+
+“That’s the vault, I take it. Is there good treasure there?”
+
+Helper: Vaults always have solid loot. In the tutorial, you may also find elemental gems in them, which is critical for creating a more defined skillset and a stronger class. Every class is based on a minimum of three elements, and the initial options that present themselves to you will be based on what elements you have bound.
+
+“Got it. So I get more options if I bind everything. Sounds like there’s a catch.”
+
+Helper: The catch is in surviving long enough to get to the gems. You should use the Tablet of Slaughter on Affinity because you need an offensive skill, but I would advise saving the shards until you enter the vault.
+
+“Makes sense. The vault doesn’t look too far on my minimap, either. That’s a lot of monsters, though.”
+
+Will wasn’t afraid of fighting more goblins now. Compared to how unequipped he’d been coming into the tutorial, he was practically a walking arsenal now. If he’d managed to deal with monsters with only the fang of an unformed rank spider, he could manage with all of this.
+
+Just one more task remained for him before he could set off.
+
+Helper: You may want to be sitting down for this.
+
+#
+
+The Tablet of the Slaughter was about the size of an iPad, though the back was inscribed with a pattern so complex that Will’s head swam looking at it. It glowed faintly with blue and black light, which he was pretty sure wasn’t supposed to be possible.
+
+“Magic is bullshit,” he murmured fondly, then did his best to focus on it.
+
+Would you like to use [Tablet of the Slaughter]?
+
+“Yes.”
+
+Select an Attribute.
+
+Will picked Affinity, and the glow intensified. Mist rose from the tablet, rising up over him and sinking into his skin.
+
+Helper: Do not panic.
+
+“What is it with you system freaks and saying not to panic? You know that doesn’t work, right?”
+
+The mist covered his whole body, sinking into his flesh and becoming one with him, and—
+
+#
+
+Three planets orbited each other. Their revolutions were constantly changing, no path ever tread twice, but the three never collided. It was, in the purest form, controlled chaos.
+
+Until the fourth. It appeared seemingly out of nowhere, but once it existed, it had always been there. It folded in on itself, shifting in space like no matter should have been able to, and it spread.
+
+The unleashed chaos was hungry, and it consumed.
+
+#
+
+You have awakened an [Affinity] skill at bronze rank!
+
+Skill: [Chaos Transfer]
+
+- Spell (enchantment).
+
+- Cost: high mana.
+
+- Cooldown: 10 minutes.
+
+Bronze
+
+Let others suffer as you have.
+
+Cleanses you of all levels of the [Corruption] affliction and transfers it to a designated weapon. The next target the weapon strikes will gain all levels of [Corruption] that you cleansed.
+
+“What the hell was that?” Will said, breathing hard. The vision burned itself into his brain, refusing to leave.
+
+Helper: Everyone’s vision differs. They’re believed to be glimpses of the system’s past, but no consensus has been reached. Ignore it for now. It won’t help you.
+
+Right. He went through a breathing exercise, counting to fifty as he did. By the time he reached thirty, he was back to the state of excited calm he’d been in.
+
+“Back to the important stuff! I have a new skill!”
+
+Helper: It has powerful synergy with your resistance skill. Vanishingly few creatures are immune to the [Corruption] affliction. Many monsters here will be immune to the passive chaos in the air, but they will still suffer from this affliction if struck with it.
+
+“Awesome,” Will said. Even as he spoke, he could see that there was a level of corruption on his status diagram that was greyed out thanks to his resistance.
+
+He used the skill, focusing it on the axe of despair. The signifier that he was suffering from corruption disappeared, and the rune-engraved axe, already corrupted thanks to its time here, redoubled in its eerie smoky quality.
+
+“Sick. Let’s see what this vault business is all about.”
+
+#
+
+With his Soul attribute up to Unformed 5, Will no longer struggled to use the teleport dagger multiple times. He moved stealthily, killing and looting a handful of the goblins, scorpiders, and assorted creepy-crawlies that lined the twisting tunnels of the cave system.
+
+The axe of despair proved to be very handy for this. In combination with the fang, he had a high chance to inflict one crippling debuff or another on his target, which lowered its stats enough that he could take it down.
+
+He didn’t take every fight he could, since it was still a bit of a struggle to kill the monsters with his lower stats, but teleporting and ambushing creatures proved to be a very viable tactic.
+
+By the time he reached the periphery of the vault, he’d reached Unformed 8. He put the 2 new points in Affinity, bringing him up to a functional Bronze 9.
+
+The vault was in an open area of the caves. Several tunnels fed into a cavernous clearing with a ceiling high enough that Will could toss a knife up and not it the top. There had clearly been an encampment here, judging from the collapsed tents, still-burning embers, and spilled food. Judging from the fact that the goblin chieftain had given him the key, he thought there were decent odds that it was where the teleporting cave goblins had come from.
+
+At the other end of the clearing, maybe a hundred feet from Will, there was a single metal door with DO NOT ENTER scribbled over it in messy handwriting. It corresponded exactly with the location of the vault on his minimap.
+
+Unfortunately, that was the end of the good news.
+
+The goblins had left this place to go raiding, and in the meantime, something else had taken up space.
+
+A chill ran up Will’s entire body as he looked up. And up. The thing had to be fifteen or twenty feet tall. How did it even fit in the tunnels?
+
+“Oh, hell no,” he muttered. “Fuck spiders.”
+
+Giant Cave Spider. Level: Bronze 8.
+
+This is a solo boss.
+
+Behold! The giant enemy spider. One of the natural predators of cave goblins, these spiders are capable of shrinking their bodies down to innocuous sizes before growing to a devastating size and feasting on their prey. Once trapped by their webs, cave goblins often find it impossible to even attempt teleporting away.
+
+Don’t get caught.
+
+WARNING: This boss is more than 1 full rank above you!
+
+“Mind if I go around you?”
+
+The spider twitched, and a spout of thick fluid shot forth from its abdomen. Will dove to the side instinctively, looking up just in time to see the massive web that exploded out onto the ground right under him.
+
+“Guess that’s a no.”

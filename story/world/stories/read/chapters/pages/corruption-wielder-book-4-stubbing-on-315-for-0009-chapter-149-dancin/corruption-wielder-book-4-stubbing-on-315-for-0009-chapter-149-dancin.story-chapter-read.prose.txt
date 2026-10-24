@@ -1,0 +1,253 @@
+In order to gain the power that a mid-tier demon could bring to bear, Will had given up a portion of his humanity in a very literal sense. His eye had been one part of the deal, but so had a chunk of his soul that hadn’t come back no matter how much healing or life force restoration he’d poured into it.
+
+On the one hand, he could tell that even if the piece of his soul he’d given away hadn’t been a majority of his being, it had taken an irreplaceable part of him. He felt colder these days than he ever had before. Killing people had at least given Will pause in the early days, and he’d done his best to end fights non-lethally when possible. He barely even flinched when he had to massacre a group now.
+
+On the other hand, the eye was fucking awesome. It was one of Will’s few items that was working at full capacity. It was platinum-rank—the highest his body could tolerate, since his Corruption-affixed Affinity was maxed to Gold 10 and had the special effect to kick that up a functional rank. As the only piece of platinum-rank gear he had on him, it was thus his only item that could fully bypass the antimagic fog. Everything else was functional still, but just like his skills, that only worked to a certain extent.
+
+Well, on him was a bit of a misnomer. In was probably more correct there.
+
+It was an invaluable resource. Not only did it show him the weak points of the structures around him, the lines also exposed the places where the fog’s effects were the least oppressive. Most importantly, the lines weren’t blocked at all by the visual effect of the fog, meaning they were the most consistent way for Will to see the lasers that the Darktide Guardian kept emitting from what he presumed were its eyes.
+
+“For something that’s supposed to not like magic, you sure use a lot of it,” Will complained.
+
+Ayla: It’s technological, technically. If you took one of those guardians apart, you would find a number of machines far more advanced than anything your civilization has ever seen. Sufficiently advanced technology does seem like magic, after all.
+
+“Oh, fantastic,” Will said. “Now I get old-ass quotes thrown at me mid-fight? Since when have you been able to talk to me during a boss battle, anyway? A, uh… battalion boss, I think it was? That too.”
+
+The system helpfully provided a pop-up.
+
+Boss Tiers:
+
+A boss’ tier is determined by the minimum projected size of the party required to defeat it with some degree of difficulty.
+
+Battalion. With Users at your rank and level, it would be best leaving this for a country to deal with. Recommended minimum party size: 1,000 Users.
+
+You have not yet encountered the following boss tiers: Army. Nation. Planet.
+
+Eh, I’ve handled worse.
+
+The Darktide Guardian was charging up for another attack, which Will decided to take as a sign to move forward. The pillar he was currently taking cover behind was a solid quarter mile from his actual target and had been compromised by repeated hits. It was also much closer to what he was pretty sure was supposed to be some kind of ritual circle meant for the completion of the room, but he cared about that less than he did the fact that Ayla was now somehow talking to him even through the rules around helpers.
+
+Ayla: A workaround. It is correct that helpers are not supposed to be able to speak directly to the User assigned to them, but it turns out that you just need to mess around with the system hook enough and you can do one or the other. I have no idea what’s happening in your room right now, but I can get messages through.
+
+“So you figured out a way to circumvent something set up by the system itself just so that you could erm, actually me in the middle of a fight?”
+
+Will slid as the next laser sliced through the fog. Rather than just try to dodge it, he focused on the singular weakness in the attack and sliced outwards. He used an artificially buffed gold-rank sword he’d picked up off a Peace sigil-holder instead of his slayer sword or Eclipse, suspecting that the requirement of “sufficient force” to sever the of the Darktide Guardian’s laser was going to be substantially higher than he was used to.
+
+He was immediately proven correct as said gold-rank weapon splintered into a dozen pieces underneath the force of the attack, failing to even come close to penetrating the line of death.
+
+Interestingly enough, the sword almost immediately lost its magic. Instead of the typical method where an item would shatter and begin to be described by the system as a broken version of that item, Will sensed its aura shrink from a gold-rank one into a silver, then bronze, then vanish entirely.
+
+The hit had, at least, deflected the laser enough that he could run towards the guardian at speed. It scuttled away from him almost as quickly as he moved, but he had a number of ways to boost his speed that remained unaffected by the fog.
+
+“You’re not getting away from me that easy.”
+
+#
+
+“He’s completely ignoring the torches,” Charlie said, watching intently. “What is he doing?”
+
+“Trying to kill it,” Regina said. Though her attention was scattered across her territory, parts of her mind working to put out a thousand small fires and a hundred larger ones, the bulk of it was present here and now. “I’m certainly interested to see how it goes.”
+
+“It’s a battalion boss,” Charlie said. “There’s a reason nobody’s even tried giving it a full fight.”
+
+“A few dozen have,” Regina countered.
+
+“Dying in the first thirty seconds doesn’t count as trying.”
+
+“Then by that definition, yes. Nobody has tried.”
+
+“Does he even know what he’s supposed to be doing in this room?” Charlie asked. “Is he dumb?”
+
+“William Li-Brown is many things.” Regina paused, considering her next words. “Dumb might be one of them, in fairness, but I think he knows very well what he’s doing here.”
+
+“If you say so,” Charlie said dubiously, watching as the man sprinted through yet another one of the Darktide Guardian’s anti-magic lasers. “He hasn’t seen much of its kit yet.”
+
+“They’re measuring each other out,” Regina said. “I doubt this will be the last time the two of them see each other.”
+
+“So you don’t think he’s surviving this either.”
+
+Regina scoffed. “Who would? Platinum rank is a massive step up. Even for those who can fight a rank up, bridging the gap to platinum is difficult enough, and the Darktide Guardian is a near-perfect counter to most Earth Users. He’ll have to start reaching deeper soon enough.”
+
+#
+
+Despite the fact that this monster was clearly stronger than pretty much anything he’d fought in recent memory, this was proving to be a surprisingly relaxed fight so far. Apart from the laser, the Darktide Guardian had revealed a few other tricks up its… spiders didn’t have sleeves, but whatever the equivalent of a sleeve would be for a massive machine that lived to kill magic. It also had some level of influence over the space itself, and it would occasionally change the rules of part of the room, reducing friction to nothing or turning the gas poisonous or detonating a bomb hidden within one of the pillars.
+
+Beyond that, Will was also pretty sure it had an aura attack. He’d only managed to get close to it one time, and it had swept away the fog with a burst of power that had both seemed to fully still all ambient mana as well as sharply increase the gravity in the area. It had stopped doing that after it released an omnidirectional wind blast that had sent Will straight through three and a half pillars before he’d managed to catch himself.
+
+Will was glad that healing potions and the like still worked within the fog. That impact had broken enough bones that he would’ve been fresh out of luck in this battle if he hadn’t been able to heal. His skills allowed him to lifesteal beings he’d marked for death, which was usually enough to keep him from taking significant damage while in a fight, but that was irrelevant when not a single one of his ranged skills could reach the Darktide Guardian.
+
+This was not the hardest fight he’d taken by a pretty long shot, fortunately. While the raw power that every blast it dealt out was towards the upper end of magic attacks Will had been forced to block or dodge—and no matter what the system said, he was calling a death fog laser beam magic, thank you very much—it was predictable, it was manageable, and most importantly, it was just one being.
+
+Even if the system and Ayla hadn’t helped him to it, Will was pretty sure he would have concluded that the guardian was an automaton of some sort by now. It was falling into patterns, and though its behavior was complex, it wasn’t to the same order as a true living being’s.
+
+Not counting the rest of the challenge dungeon, it had been a while since Will had fought a clean 1v1 against a boss monster, no outside influence from either party. This was stronger than any one of the targets he’d chased down to fulfill his Reaper challenges, yes, but he was stronger than he’d been then too.
+
+It remained a dangerous game. Will made his way from pillar to pillar, letting them absorb the worst of the lasers. Those attacks felt more like they were to keep him on his toes than to actually kill him. Though Will went through another four swords of varying quality trying to parry or destroy one of the blasts, he only came close to actually getting hit once. With Time in a Bottle and his other movement skills, it wasn’t too difficult to continue avoiding them.
+
+What he was actually worried about was its close-up skill. The magic suppression got more intense the closer he got to it, and that wide-range attack it had was devastating as the second part of that combination.
+
+“You’re no demon or god,” he muttered, “but you sure are a pain in the ass.”
+
+Ayla: There are twenty-five thosuand people watching you right now and that’s the best line you could come up with?
+
+“Shut it. You’re starting to sound like Caiyeri.”
+
+Ayla: I’ve always sounded like this. I think you have it the wrong way around.
+
+Ayla: That said, I don’t know what’s going on, but I’m guessing you’re not winning. Have any bright ideas?
+
+“Yeah.” Will popped Eclipse back out alongside one of the topsy-turvy grenades he’d selected as a prize earlier. “When there’s a will, there’s a way.”
+
+Ayla: …
+
+Ayla: Is it too late to ask for another User?
+
+#
+
+“He’s talking to himself,” Charlie said.
+
+“He’s talking to an outside observer,” Regina corrected. “Though I imagine that’s not the impression that most are getting.”
+
+“They think he’s crazy, mostly,” Charlie said. “Hearing voices. Seeing things.”
+
+“Acceptable,” Regina said absent-mindedly, her focus still intently on the display. “A perception of insanity keeps him from potentially swaying our people to his side.”
+
+“You think that’s a risk?”
+
+“I have patched over more risks than you have ever known of,” Regina said. “It would only be slight overstatement to say that everything is a risk.”
+
+Charlie nodded, thinking on that. Before he could come to a conclusion on his own, he gasped, dropping the cigar he’d been smoking. “Why on God’s green Earth—“
+
+“Not very green,” Regina commented. “Not really Earth anymore either.”
+
+“Never mind that. Why the fuck is he running at it?”
+
+To be quiet honest, Regina also hadn’t the slightest idea why the corruption wielder was bullrushing it. Then again, she wasn’t sure how one was supposed to go about fighting this thing anyway. She’d set the record for this room by keeping her distance and spacing herself from the Darktide Guardian with ranged attacks it couldn’t ignore, buying her time to ignite all twelve torches—each requiring a good deal of gold-rank strength and a great amount of magical insight to successfully turn on.
+
+The way William Li-Brown was currently just running straight at it didn’t jive with the man’s usual strategy, either. She shook her head as she watched him dart through a web of lasers.
+
+I thought better of you. This is a fool’s errand.
+
+At this point, she was more curious to see how he had managed to stay in touch with someone outside the challenge dungeon than she was to see the result of this. His fate had been decided since the moment he’d decided to take the Darktide Guardian on in close combat.
+
+Except—wait. He was still alive.
+
+Resigned disappointment quickly became confusion, then something more akin to awe.
+
+“What the hell is he doing?” Charlie asked again.
+
+#
+
+Will could see the attacks coming before they emerged. He’d fallen into a flow state, his body moving perfectly in sync with his thoughts—and those of the demon inside him. The lines of death appeared freely, and while the creature itself had only a sparse few, its attacks were a different story.
+
+As he drew closer, he decided that maybe this thing wasn’t magical after all. Each time it attacked, it had to charge itself. For just a fraction of a second before the beam or effect emerged, there was a line, and Will was ready for it.
+
+Since his personal movement skills all still functioned, he just kept on running, bouncing from pillar to pillar and readjusting himself in the air. Giving himself a third dimension of movement made it even harder for the spider machine to laser him, especially since he could continually adjust himself midair thanks to the effects of Escape Artist while he was under attack.
+
+Closing the distance was the easy part. Once he was within about thirty feet of it, though, he was within the radius of its aura attack.
+
+The antimagic effect was far too intense at this range to attempt countering the force blast, and Will knew that he wasn’t going to be able to break through before it reacted.
+
+That was fine. All he needed to do was overload it.
+
+He pulled the pin on the topsy-turvy grenade and set the range to just encompass the entirety of the Darktide Guardian. About a hundred feet did the trick.
+
+Four and a half seconds later, it detonated.
+
+If he had been tapped into the challenge dungeon feeds in the city of Boston, he might have seen the chatrooms explode with shock, confusion, and assorted incomprehensible expletives.
+
+Will wasn’t, though, so he took flight as gravity tore itself apart around him. The grenade’s effect was condensed; the smaller the range, the more intense and close together the effects were. In this case, that meant that gravity would only be consistent for an area about the size as Will’s closed fist. He could already see the fog interacting in strange ways, getting pulled this way and that.
+
+His Equilibrium Mantle snapped into place. Though the fog was still in this inverted space with him, he still had a few inches of give.
+
+This had been a gamble, and Will had to admit that there had been a pretty good chance of dying painfully doing this. Ayla had given him the go-ahead, though, and he’d figured that was enough.
+
+As it turned out, just like the vacuum of space, Equilibrium Mantle counted areas of fucked-up gravity as an extreme environmental condition it could nullify.
+
+“And for the record, dickhead,” Will said, sifting through hisi inventory as he air-dashed through the twisted sphere without obstruction, “Popping a grenade doesn’t count as a magical effect.”
+
+The Darktide Guardian had its own defenses against this type of thing, but Will could see that it was putting all of its resources into it. The intense antimagic aura around it had faded to a degree, instead focusing entirely on its internal components.
+
+While the effect of the grenade was somewhat magical, it certainly wasn’t to the extent that his skills were. His foe could counteract its effects thanks in part to the tier gap, but it wasn’t just going to completely shrug it off.
+
+It would be free in a few seconds, but that was all the time Will needed. Using Escape Artist’s gold-rank feature, he ran on air like it was solid ground. Now that he was in the radius, the Darktide Guardian instinctively used its blast-away aura, but it couldn’t put in nearly the amount of power it needed to both get rid of Will and continue preserving its internal gravitational orienntation.
+
+For once, Richard was in perfect alignment with Will as he slashed horizontaly with eclipse, severing a hole through the blast, and he dashed forward one more time, laying a hand on the metallic exterior of the spider.
+
+In that brief, golden moment, the fog couldn’t touch him.
+
+You have marked [Darktide Guardian] for death.
+
+You have inflicted [Darktide Guardian] with a gold-rank level of [Corruption].
+
+A bell tolled as Will activated Ghostflame.
+
+[Ghostflame] absorbed two levels of gold-rank [Corruption] and one level of gold-rank [Wither].
+
+He pushed his lifeforce into it, drawing deep as his vision turned to greyscale but for the blood red spider in front of him.
+
+In this altered state, there was one other thing he could see in full color. The same thing that Richard had showed him from the start.
+
+Death.
+
+Critical hit!
+
+Will pulled the pin on his second grenade.
+
+“Got you.”
+
+#
+
+Wisteria cursed as she remanifested outside the dungeon. She’d fallen on room twelve. Overall, it had been a good run, allowing her to apply the numerous lessons she’d learned from Yui, Nynn, and her own experience in the superdungeon, and she’d gained more than she’d lost, but it was still frustrating. There was a part of her still stuck on that research ship where she’d been at the start of the apocalypse—helpless against the greater forces surrounding her, relying on beings much greater than her to save her.
+
+She was stronger than most people alive now, but that feeling persisted.
+
+When she opened the Boston chatrooms, it redoubled.
+
+Every discussion board was the same right now. The topics were the same no matter where she looked.
+
+William Li-Brown has soloed the Darktide Guardian, a platinum-rank battalion boss, in less than thirty minutes.
+
+Wisteria chuckled, shaking her head ruefully.
+
+I’m friends with monsters, she thought.
+
+But was that so bad a thing?
+
+It was, at the very least, better than being on the other side.
+
+#
+
+Iridium and Osmium of the Ninety-Sixth Sector of the Unification Front were still on Earth.
+
+They both felt the loss of their brother keenly, but it was a sensation that was comparatively dull compared to species beyond the Hive. In the Hive, it was common knowledge that all were one. The end of life was simply the distillation of that oneness as fallen members of the Hive fell into the collective subconsciousness that allowed them their continued survival.
+
+Still, navigating this unfamiliar world was significantly harder without their Speaker of the Mind. Tracing large magical events was simple given their equipment and Iridium’s position of Speaker of the Soul, but finding individuals was an entire different story.
+
+They were still fast, at least, which had allowed them to navigate this planet at speed. In only a matter of days, they had scouted out the most mana-dense regions that several continents had to offer. Some of what they saw had long since been mapped out by the Unification Front’s technology, but this region they were approaching had been a dark spot.
+
+Thousands of miles from where they had spotted the corruption wielder, there was a section of desert that had as of yet not been properly explored. It was here where the two of them now flew, slowly descending towards what Iridium had realized was a barrier of sorts, blocking the perception of mana in and out of the region.
+
+It was eerie here. There were no signs of life, human or otherwise. No dungeons were active, and there were not even footprints in the sand to indicate that there had been. The mana was too still as well. Iridium had seen more active graveyards.
+
+When they passed through the barrier, that eerie feeling only sharpened in intensity-pain. There were auras now, but they were all wrong. Dead.
+
+They were strong, too, which was brought on that sensation.
+
+“Do you feel that, brother?” Osmium asked.
+
+“I do.” Iridium swept his senses out, chittering as he hit something. “Many.”
+
+“I sense them too,” Osmium said. “These auras… this planet has platinum-rankers.”
+
+Monsters, it seemed, but…
+
+“Dead platinum rankers,” Iridium said. “Hundreds of dead platinums. Whoever killed these must have been powerful indeed.”
+
+“The one the corruption wielder spoke of, perhaps?” suggested Osmium.
+
+“Not out of the possibility.”
+
+A chat message surprised both of them at the same time.
+
+???: Oh, dear. Looks like you wandered onto my land early. Can I convince you to chat for a bit?

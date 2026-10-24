@@ -1,0 +1,351 @@
+Your level has increased to [Unformed 1].
+
+2 Attribute points earned.
+
+Inventory maximum capacity increased by 1.
+
+Will’s vision flashed with bright light, and soothing warmth filled him for a brief instant. As it faded, he realized that the throbbing pain in his leg had dissipated, too. He glanced down, and to his complete surprise, the flesh had healed over. His blood was gone.
+
+“So this is a level up?” he wondered. “That’s better than a healing potion. A lot better.”
+
+…the arrow, however, was still stuck inside his leg.
+
+“Shit. This is going to hurt.”
+
+He took a healing potion from his inventory with one hand and gripped the shaft of the arrow with the other.
+
+“Three, two, one, OW,” he grunted, slamming down the potion as he tore flesh and muscle with the arrow.
+
+The tingling sensation of magical healing coursed through him again.
+
+You have consumed a potion above your rank. You will not be able to benefit from healing potions for the next [5 minutes].
+
+Hopefully, the next fight would go better. Will really didn’t want to enter combat with an arrow still stuck in his leg, but that came with the tradeoff of losing one of his valuable healing potions.
+
+Helper: Congratulations on your first tutorial kill and your first level.
+
+“I was wondering where you were. I was getting a little too used to the peace and quiet.”
+
+Helper: Ha ha. Goblins make for terrible company. Trust me. They’re like humans except extremely neurotic, murderous, and tribal.
+
+“So like humans.”
+
+Helper: …basically.
+
+“Why not help me while I was actually fighting the thing?”
+
+Helper: During the tutorial, helpers are only permitted to engage when Users are not currently in combat and are not within a certain distance of a hostile.
+
+“Oh, so it’s like not being able to sleep when monsters are nearby.”
+
+Helper: Minecraft! I do know that one. Horribly addicting game. I lost half a year of preparation to that one.
+
+“Tell me about it.”
+
+Helper: Back on topic: Will, you are going to need every single possible level to survive here.
+
+“That was made clear to me, yes. Is it really going to be that bad, though?”
+
+Helper: Yes. Good thinking with the rocks and stacking debuffs, but you’re not going to be able to consistently accomplish that every time. These are bronze enemies, and you’re unformed. You must have noticed how many hits it took you to kill one.
+
+“It didn’t seem that bad.”
+
+Helper: It didn’t seem that bad because you got the jump on it and got lucky with inflicting [Corruption] within your first three hits. That’s a very strong status effect.
+
+“I was under that impression. It felt like my skin was melting when I had it. What does it actually do?”
+
+Helper: I am not at liberty to disclose that information.
+
+“Great. Tell your bosses they suck.”
+
+Helper: I wish I could.
+
+“So do I, Helper. So do I.”
+
+Helper: On your minimap, you’ll see red dots. You know by now that those are enemies. If you haven’t noticed, there’s a lot of them.
+
+“No shit.” As a matter of fact, Will had been keeping an eye on his minimap for a while now. There were enemies in literally every possible direction he could go, but other than the one he’d just jumped, it didn’t look like many of the dots were actively pursuing him.
+
+Helper: Anyway, the enemies here will be more durable, stronger, and have more options than you. It’s a good thing that you have Corruption Resistance. You would already be dead without it, and it gives you more options. Rather, I should it say that it gives you options in general. The majority of useful magical items and loot here will be corrupted due to the nature of this zone.
+
+“The system was talking about chaos. Is corruption the same thing?”
+
+Helper: Corruption is the result of chaos. This shouldn’t even be a tutorial zone. Where even were you when you ended up here?
+
+“Low Earth orbit, I think.”
+
+Helper: Okay, that might do it.
+
+“So I’m noticing that you haven’t actually given me any advice so far.”
+
+Helper: Here’s your advice. You get those two points at every level. Unformed 5 is considered to be the starting point of an average sapient being. Right now, the only attribute that you have an element bound to is [Affinity], which is bound to corruption. The good news is that corruption is a very rare and very powerful element. If you examine your [Affinity] stat, you’ll see that it’s being artificially boosted a rank to bronze. Place both of your points in [Affinity] and focus it until it reaches the peak of unformed. If you can somehow survive that long, I believe that will give you your best odds for survival.
+
+Will put his two free points into his Affinity attribute as instructed, raising it to a functional level of Bronze 3.
+
+“Okay. Done. What does that actually do?”
+
+Helper: I’m running out of time. You can find it in your own system if you look.
+
+On the minimap, red dots were beginning to make their way towards Will’s position. Whether that was just because of random chance or because they’d realized that one of their goblin friends here were dead.
+
+Helper: Monsters are approaching. There are areas highlighted in green are tutorial safe zones. Increase your [Affinity], loot EVERY body you can find and make it to one. I look forward to talking to you again. Try not to die.
+
+Further text fizzled out into nothing as half-formed letters began to appear on his interface.
+
+The dots weren’t approaching from the same direction this time. From the looks of it, they were trying to pinch him, cutting him off in a short patch of tunnel without any forking paths.
+
+With what Will had on him at the moment, it was unlikely that he’d be able to do anything significant against what was looking to be four enemies, which were possibly the nasty teleporting goblins or the scorpiders or possibly something else entirely. Helper wasn’t wrong about that. Even taking one had taken a trap, poison, and taking an arrow to the knee.
+
+Well, not actually the knee, but close enough that he’d count it.
+
+Thankfully, he had slightly more than that.
+
+Would you like to loot Arcadian Cave Goblin (Bronze)?
+
+“Of course.” Will was pretty sure that verbal confirmation was unnecessary, but it felt more natural to speak anyway.
+
+Just as before, the creature started to dissipate away into formless smoke as the notifications stacked up.
+
+3 bronze credits have been added to your inventory.
+
+Cave Goblin Bow (Corrupted) has been added to your inventory.
+
+9 Cave Goblin Arrows (Corrupted) have been added to your inventory.
+
+Iron Dagger of the Sunken World has been added to your inventory.
+
+Awakening Shard of the Delver has been added to your inventory.
+
+Will raised an eyebrow. Three of the five of those sounded simple enough, but the last two piqued his interest. They weren’t corrupted, for one, and they sounded magical.
+
+He didn’t have time to do a thorough examination of everything he had. Will wasn’t entirely sure how real-world distances compared to the minimap, but he ballparked the approaching dots to be around thirty feet away.
+
+A quick check revealed that there were, in fact, a scattering of zones highlighted in green throughout the cave system. Will picked the direction that looked closer to one of those zones.
+
+He was going to have to do this carefully. During his time participating in combat sports, Will’s instructors had drilled the idea of numerical superiority into his head. In a fight, most people not named Mike Tyson would struggle against even two or three people.
+
+When his enemies were likely stronger than him, he definitely couldn’t afford to pick a fight against a ton of them.
+
+As he started creeping towards them, he examined his options. The inventory rockslide was potentially an option to give him an upper hand, but there was no guarantee they would stay still long enough for him to manage it. Will picked up a couple of large-ish rocks as he moved, but he was really interested in his new items.
+
+Item: Iron Dagger of the Sunken World
+
+Uncommon, bronze
+
+Daggers of the Sunken World are given to cave goblins for one of two reasons. First, jade versions are sometimes custom-made for great warriors of a tribe after a conquest to indicate their status.
+
+More often, they’re given to children. These iron knives supplement their racial abilities, enabling them to use their underdeveloped signature feature.
+
+Grants access to the [Eerie Step] skill at bronze rank.
+
+WARNING: This item is above your [Affinity] rank! Using it may lead to permanent soul damage.
+
+Note: [Affinity] bound to [Corruption] allows you to use this item without penalty.
+
+“What does Eerie Step do?”
+
+Skill: [Eerie Step]
+
+- Spell (movement).
+
+- Cost: Low to moderate mana.
+
+- Cooldown: 1 minute.
+
+Bronze
+
+A favorite spell of Arcadian cave goblins. By the time they reach maturity, this skill will become part of them. Lucky for you, this dead goblin was still but a child.
+
+Effect: When in eerie light, you briefly shroud yourself in mist and teleport to another area shrouded in eerie light within 60 feet of you with your equipment and up to 1 willing creature.
+
+“So that’s how that dude got the jump on me,” Will mused, pointedly ignoring the part where the system was trying to make him feel bad.
+
+Child or not, the goblin had been trying to kill him. He wasn’t going to lose any sleep over that.
+
+An ambush was exactly what he needed. Will palmed the weapon from his inventory. A tingling rush of energy surged through him. When he experimentally passed a hand into one of the many vent-like cracks in the wall, that tingle clarified into a sure sense of the area around him. Twinkling dots flared to life in his mind’s eye like stars in the night sky.
+
+“That’s a lot of destinations.”
+
+The nearest safe zone was way more than sixty feet away, judging by a combination of the minimap and the locations his new skill was telling him were valid locations to teleport to.
+
+Teleportation. The scientific part of his brain told him that it was impossible, but the louder, more realistic part told him that he’d seen far crazier shit by now and just to accept it.
+
+And the third part, which was by far the dominant one, said teleportation is sick as shit.
+
+Judging by the density of the dots and the speed at which they were moving, he had the option to break into a dead sprint. The safe zone was, at an estimate, a quarter mile away. If he just ran for his life, there was a pretty solid chance he could just take damage and make it.
+
+But that was what he would have thought before. Risk mitigation, finding the path of least resistance—that was how he’d been going through life.
+
+He wasn’t living that life anymore. Nobody was.
+
+There was a vent of eerie light right behind the pair in front of him. They didn’t know he had the knife, and they hadn’t seen him yet.
+
+“Here goes nothing.”
+
+Using the skill was surprisingly easy, as if it was a limb he just hadn’t bothered to use in a while.
+
+Eerie Step.
+
+His vision flashed a luminous green, and his stomach dropped like it had the first time he’d hit the drop on the biggest rollercoaster at Six Flags.
+
+Will’s entire body lurched, and then it faded. Exhaustion permeated his bones, but it was less a just-ran-a-mile tiredness and more a six-AM-on-a-Monday. In the top right corner of his vision, a blue bar had been halfway depleted.
+
+The description said it cost low mana, he thought. Then again, I guess the magic attribute might be [Soul], and that’s my lowest stat.
+
+His feet landed on soft, mulchy dirt.
+
+Though he knew he was still in the same cave system, the tight tunnel he dropped in felt like a different world entirely. There were fewer crystalline growths here, which made him wonder if he should have spent some time looting them, and there were more vents here, casting an alien light across the narrow tunnel.
+
+The passageway was just wide enough for him to draw both of his sharp weapons as he crept up on the two dots from behind.
+
+They traveled in single file. Even if the goblins were smaller than humans, they weren’t small enough that they wanted to walk side by side.
+
+Will moved as quietly as he could, thankful for the way the mulch absorbed his footsteps. Soon enough, the armored back of another goblin came into view.
+
+Arcadian Cave Goblin Warrior. Level: Bronze 4.
+
+Most goblins that reach maturity choose one of a select few classes. Warrior is the foremost amongst them. Grey and prone to disobey orders, these creatures are notorious for their inability to let an issue go. If you fight a Warrior, be sure to put it all the way down, or it will never stop chasing you until one of you dies.
+
+Wasn’t planning on letting it go, Will thought.
+
+He approached with bated breath. The goblins thought they were sneaking up on him, so they were also taking it quietly, but they were too focused on the tunnel ahead that they ignored him approaching.
+
+Ambushing the ambushers. There was a delicious irony in that.
+
+Will had always been good at being silent. For most of his life, it had been a skill used to get around his family’s restrictive rules. It had never been a point of pride for him, but his years of sneaking through a strict life that had been perfectly planned for him had inadverdently prepared for this.
+
+One step, then two, and he was behind the goblin. Unlike the last one, this one had a helmet on, but there was a strip of exposed flesh where the pieces of armor didn’t sit perfectly together.
+
+Will raised his hands high above his head.
+
+He’d gotten on a self-improvement kick a few years back when he’d gained a few too many pounds after a depressive episode, and the work he’d put in at the gym had paid off. Hopefully, that skill translated over.
+
+No, not hopefully. It would.
+
+This—this, right now, would work. It had to. A violent ecstasy surged through his veins as he brought his blades with all the force he could muster.
+
+Will drew first blood.
+
+[First Blood] doubled the power of your attack.
+
+Critical hit!
+
+Power coursed through his muscles, and the knife cut into flesh like hot butter. The fang slid in cleanly, skittered off a bone, and buried itself deep in the goblin’s throat.
+
+You have defeated an Arcadian Cave Goblin Warrior.
+
+It was dead before it hit the floor.
+
+Its companion whirled around, hissing with surprise, but Will was already executing part two of his makeshift plan.
+
+Step one was killing the first guy. Step two took a second, but that moment of surprise he’d just bought himself was enough for that.
+
+He dropped both of the big rocks in his inventory right on top of each other. They didn’t perfectly block the passageway, but they formed something of a shield right in front of the corpse he’d just created.
+
+Metal crashed against stone, creating an ear-ringing scratch that Will cringed at, but he didn’t let that stop him.
+
+12 bronze credits have been added to your inventory.
+
+Cave Goblin Mace (Corrupted) has been added to your inventory.
+
+Awakening Shard of the Delver has been added to your inventory.
+
+Bronze Potion of Lesser Healing has been added to your inventory.
+
+That, charitably, could be called step three.
+
+And now for the coup de grace.
+
+Will high-tailed it. Judging from the sound, he was pretty sure the other goblin was using a sword of some kind, which likely meant that it wasn’t going to have a ranged weapon.
+
+Not that he was going to take the chance that it did. As soon as the cooldown on his Eerie Step skill ended, he found the nearest available vent and prepared to use it—just as the other cave goblin materialized next to him.
+
+Will reacted on instinct, slashing at its face with the fang in his dominant left hand. It staggered as the tip drew blood, but it recovered with staggering speed.
+
+At five foot flat, this goblin stood taller than the other ones, and judging by the straight-up evil glint in its eyes, it wasn’t any nicer for it.
+
+Arcadian Cave Goblin Chieftain. Level: Bronze 6.
+
+This is a solo boss.
+
+Goblin chieftains are more than willing to get down and dirty with the rest of them. In fact, they often work their way to the top by defeating the former chieftain in a chaotic, messy brawl to the death. They are not to be trifled with.
+
+Especially at your level.
+
+Achievement earned: Bit Off More Than You Could Chew
+
+You encountered your first boss alone. Foolhardiness or unfortunate circumstances? They’ll wonder about that at your funeral. Assuming someone cares enough to have one, that is. And finds your body, which doesn’t seem very likely here.
+
+Reward: You have earned 10 silver credits. Not that you’ll be able to spend them.
+
+The notifications flashed at the same time the chieftain’s axe caught the glint of the light. Will raised his arms to defend, but the goblin moved faster than him, twisting the blade and burying it in his side.
+
+Hot pain flared just underneath his ribs, and Will decided he’d overstayed his welcome.
+
+Eerie Step.
+
+The angry growl of the goblin chieftain accompanied the flash of green light as Will teleported as far as the skill would let him go.
+
+He reappeared in a small clearing resplendent with the glowing gems from before. There were vents aplenty here as well, and most importantly, no monsters. The nearest safe zone—assuming Helper hadn’t been lying to him and the green marks on his maps were actually safe zones—was to his right, just down a short footpath.
+
+The blue bar—his mana, he guessed—was near empty. His energy drained from him. Will wasn’t sure whether mana depletion would exhaust him, but the blood he was losing certainly wasn’t helping.
+
+A heavy weight dragged his right side down, and he realized belatedly that he’d taken the axe with him.
+
+“Huh,” he said, dazed. “That helps matters. It’s not touching the ground, so maybe I’m carrying it? Let’s see…”
+
+It went into its inventory, which was a delightful surprise, and his side started gushing blood, which was not.
+
+“Shit.” Will started limping towards the green zone, and he checked his inventory for his healing potions. “Wait. Has it been five minutes?”
+
+He tapped on it, and a small hourglass indicator appeared in the center of his vision. It read 3 minutes, 12 seconds.
+
+“Double shit.”
+
+Will put the teleport dagger back into his inventory, then continued forward. There weren’t too many obstructions, which was good. His head was rapidly getting woozy from the blood loss, and it was hard to tell which way was which. The minimap guided him along.
+
+“One foot in front of the other. It’s not hard.”
+
+Behind him, a goblin screeched in confused fury. Judging by the cadence, that was the chieftain.
+
+“Confused about your axe, are you? You should think twice about where you leave your gear.”
+
+Will picked up the pace as well as he could as he heard footsteps and saw a red dot approaching him from behind. Wait, no, not a red dot—three.
+
+He rounded the last corner and came face to face with a wildly anachronistic modern door that could have come straight out of his college coinciding directly with where the green zone was.
+
+Will didn’t think twice. The chieftain and its two goons were gaining on him, and he didn’t want to fight like this.
+
+The door handle swung open, revealing what Will absurdly thought was a Pokémon center.
+
+Achievement earned: Safe at last… for now
+
+You have found your first tutorial safe zone. Rest easy, traveler. Until you’re forced to leave, your ills will be tended to.
+
+Reward: You have access to a safe zone.
+
+He stumbled into a chair, vision fraying at the edges. An arrow came whistling through the air behind him and bounced off thin air at the boundary to the door.
+
+Will’s eyes went to the entrance, where three very angry cave goblins were trying and failing to scrabble through the empty barrier, then to the floor, where an awful lot of blood had tracked across the floor.
+
+“Is that mine?” he muttered woozily.
+
+Will passed out.
+
+#
+
+When he woke up, there was enough dried blood on him and the floor that he thought someone had died. Will then realized that it was his own blood, followed subsequently by the realization that his wound had closed entirely.
+
+…Unfortunately, the number of goblins outside had gone from three to… thirteen, fourteen, fifteen. Not good.
+
+Helper: Congratulations! You made it to a safe zone. That’s better than I was expecting. I should point out that unless otherwise specified, all safe zones have exactly one exit.
+
+“Has this one otherwise specified?”
+
+Helper: Guess.
+
+“Damn it.”
+
+Helper: You’ll be forced out 24 hours after you enter. It’s been 3. There are some useful features in here you might like, and we need to talk about your new items. Let’s get you out of here alive.
+
+“You’re not so bad, Helper. Let’s get this done.”

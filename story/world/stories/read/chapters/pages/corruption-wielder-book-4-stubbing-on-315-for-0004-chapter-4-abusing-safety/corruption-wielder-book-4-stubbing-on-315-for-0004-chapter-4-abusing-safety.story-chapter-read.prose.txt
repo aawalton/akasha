@@ -1,0 +1,313 @@
+Will got the rundown of the place as the number of goblins outside steadily increased. He really wished he had more to work with, but beggars couldn’t be choosers. Not that he planned to beg, but there were quite a few goblins out there preventing him from going anywhere.
+
+At least the safe zone had enough stuff in it to make the child in Will practically jump with joy. He’d passed out (and bled all over) a couch in the lounge, but there were signs in the back of the room with hotel-style iconography that made him think there were better places to rest here.
+
+He’d compared it to a Pokémon center when he’d come in, and now that he was fully awake and lucid, he saw that it wasn’t perfectly apt.
+
+Helper: Safe zones exist in both the tutorial and on planet, but there are key differences. First—on-planet safe zones kick you out after 8 hours, not 24. Second—you will automatically heal in a tutorial safe zone, but not on an on-planet one. The rules of ALL safe zones are as follows:
+
+- Neither monsters nor their attacks can enter.
+
+- Users cannot intentionally inflict damage upon other Users within the confines of a safe zone. Doing so will cause you to be forcibly ejected.
+
+“Fantastic. Can I attack out of a safe zone?”
+
+Helper: Good question. No. What qualifies as an “attack” varies by circumstance and safe zone.
+
+“Okay. That makes getting out of this a lot harder.”
+
+Helper: Not necessarily. In extreme difficulty tutorials, only about 10 to 15 percent of Users make it to the first safe zone, but over half of those continue to survive to the second. There are a number of tools and services available to you here.
+
+The most important part of the safe zone apart from the healing and the, well, safe part, was the shop.
+
+It didn’t look like a traditional shop. This safe zone was entirely devoid of people besides Will. There wasn’t even a robot shopkeeper to peddle wares.
+
+Instead, the “shop” was a wall that looked like it had been converted to a floor-to-ceiling plasma TV screen. It displayed a variety of items in the same format as his inventory, though the framing was different and every item had a name, description, and price under it.
+
+“So all I do is select something from the shop and confirm that I want to buy it?”
+
+Helper: Correct. Not all shops will be in safe zones, but every safe zone will have a shop of some kind, and all shops will carry the same set of basic items. Many will also carry additional wares reflecting the area you find them in.
+
+“Gotcha. Let me see if there’s anything I want…”
+
+There was a lot of stuff for sale. It was split into multiple segments, and he found that he could scroll through them to look for more stuff.
+
+Corrupted Fragment Safe Zone 1C - Store
+
+Weapons
+
+- Bronze Weapon Box (Melee) - 100 bronze credits
+
+- Bronze Weapon Box (Ranged) - 100 bronze credits
+
+- Bronze Bladed Weapon - 75 bronze credits
+
+- Bronze Ranged Weapon - 75 bronze credits
+
+There was a similar set of purchases available for each rank. There were a lot of ranks.
+
+“Holy hell,” Will said. “How long does it take to get up there?”
+
+Helper: A long time. 50% of Users never make it past the metal tier—Bronze, Silver, Gold, though almost everyone is able to select their class by achieving bronze. Of the remaining, 75% stop progressing or die at the gem tiers—Platinum, Emerald, Diamond.
+
+“Platinum is a metal, not a gem.”
+
+Helper: I get that a lot. I didn’t choose to name the ranks. After the gem tiers are the sovereigns—Lord, Prince, King, or Lady, Princess, Queen. The final tier—Emperor/Empress, Ascendant, and Transcendent—are considered inaccessible to all but a sacred few.
+
+“Well, shit. And I’m all the way down at bronze, huh?”
+
+Helper: Unformed, actually. The reason you can access the bronze store is because of your abilities. Examine your [Affinity] attribute, will you?
+
+“Right. My stat sheet does say unformed. That’s the lowest?”
+
+Will opened his stats and examined his Affinity closely, trying to focus the same way he had when he’d seen monsters.
+
+[Affinity]
+
+- A measure of your capability to wield external magic and ease of attunement. Using items of a higher ranks than your [Affinity] is nearly impossible, and a higher tier is simply out of the question. Using items of a higher level will cause permanent damage to your soul without attunement.
+
+- Bound to [Corruption]: You may use items of up to 1 rank higher than your [Affinity] stat without penalty, functionally increasing your [Affinity] stat by 1 rank. You may use items without attuning to them first. You may use corrupted items.
+
+“Ah, I see. The system told me that because I was loading into a corrupted tutorial, it was going to give me some protection.”
+
+Helper: The corruption element is possessed by less than 0.00001% of Users. It’s not unique, but it’s very rare. Treasure it.
+
+“I’ll treasure it if I’m alive to do so. Hold on, isn’t corruption bad? Like the whole defending against chaos thing. Why does the system give out an ability that uses it?”
+
+Helper: A handful of corruption-element Users help alleviate the pressure. It’s like venting a high-pressure pipe. Letting a bit of chaos through prevents the bulk of it from annihilating the multiverse. Not that most of the Users there care, but the system does.
+
+“Makes no sense to me, but if it’s keeping me alive, sure. I’ll question it after I ‘m sure I won’t die in the next few hours. Anyway, I assume the weapon boxes are random drops? Loot box kinda deal?”
+
+Helper: You assume correctly.
+
+“Hmmm. Assuming those weapons have the same level of power as the teleport dagger, I don’t think they’ll be enough to get out of this. How much money do I have, by the way?”
+
+Helper: Scroll down on your inventory.
+
+“Oh.”
+
+Credits
+
+Base: 305
+
+Bronze: 225
+
+Silver: 10
+
+Everything past that was 0.
+
+Helper: It’s a 10 to 1 conversion for every rank.
+
+“Oh, so my base credits are worth jack and shit, then.”
+
+Helper: Not necessarily. Up until the gem tiers, an unformed weapon can still be a threat. Even at the gem tiers, you’re not necessarily safe. For instance, one of your Earth’s “AK-47s” is considered unformed but possesses enough firepower to threaten a weak platinum-rank. Especially when combined with the class you will awaken at bronze, any weapon can be a threat.
+
+“Huh. Okay. I’m going to look for some more stuff, then.”
+
+The Items and Miscellaneous tabs were much, much longer than the weapons. Items included healing, armor, food and water supplies, and a lot more. Will wasn’t sure why they were there and not under Miscellaneous, but that became clear when he scrolled to the third segment.
+
+Damn near everything under the sun was there. Rocks, beer bottles both empty and full, potted plants, crates, barrels of oil—you name it, they had it.
+
+Well, electronics seemed to be at a premium. There were a few, but nothing complex or computer-like. Will wondered what that meant. His phone was dead, but it wasn’t broken—just out of battery. That ruled out EMPs, but…
+
+Eh. That was a problem for later.
+
+Going back to Items, armor looked like a good investment, given the fact that literally every monster here seemed to have weapons that could cut through his skin like hot butter, but—
+
+- Bronze Armor Box (Heavy) - 2500 bronze credits
+
+- Bronze Armor Box (Medium) - 2000 bronze credits
+
+- Bronze Armor Box (Light) - 1000 bronze credits
+
+Yeah. No way could he afford that.
+
+For now, he used 300 of his base credits to buy 10 basic health potions and a week’s worth of “rations,” which turned out to be a crate of dull grey bars that looked more like lithium-ion batteries than food and several liters of water.
+
+He experimentally tasted one, and his eyes flew wide in surprise. It tasted exactly like steak and potatoes. It had the consistency of chalk dust, but the resemblance to a real meal otherwise was near perfect.
+
+“Not ideal, but I guess it’ll work.”
+
+The entire crate fit into his inventory, taking up only one slot, which gave him an idea. The crate of supplies was full, but an empty wooden crate cost only 5 credits. He put his empty potion bottle, the de-venomed scorpider tail, the goblin bow (which he didn’t know how to use and was too small for him besides), and the arrows in it before placing the full crate back into his inventory.
+
+Helper: Good call. Your only element binding works well with items, so you should save on inventory space as much as you can.
+
+“Obvious enough, but thanks.”
+
+Will examined the final set of items.
+
+Additional Items
+
+- Corrupted Bronze Weapon Box - 90 bronze credits
+
+- Corrupted Bronze Bladed Weapon - 65 bronze credits
+
+- Corrupted Bronze Ranged Weapon - 65 bronze credits
+
+Helper: You should purchase a corrupted bronze weapon box. The boxes give magical items, while the weapons alone don’t. Corrupted items tend to be stronger than regular items and have a chance to inflict your enemies with corruption. Since the downside is negated by your bound element, it’s ideal for you. Also, it’s cheaper.
+
+“Are you sure about that?” Will asked. “Actually, why should I trust you? I realize this is a bit late to be asking, and I also realize you’re not the least biased option to ask, but I also don’t want to fully go along with what a voice in my head has been saying.”
+
+Helper: 25% boost, remember? Look, biped, you’re not the only User here. I spent 75 years down there. You might not trust me, but if you ignore me, you will die.
+
+“And now you’re a non-User? How did that happen?”
+
+Helper: I am not at liberty to disclose that information.
+
+“Is it the same deal with your name, then?”
+
+Helper: I am not at liberty to disclose that information.
+
+“So it is.” Will sucked in a breath. “Seventy-five years is a long time.”
+
+Helper: You live longer at higher ranks.
+
+“What rank were you?”
+
+Helper: I am not at liberty to disclose that information.
+
+“Christ, alright. I’ll buy the damn box. I have plenty of credits anyway.”
+
+You have purchased a [Corrupted Bronze Weapon Box]!
+
+This came in the form of a suspiciously small black crate marked, even more suspiciously, with DO NOT OPEN.
+
+Helper: Open it. All corrupted items have that warning.
+
+Will mentally focused on the box and selected Open.
+
+The lid clicked open with an ominous hiss, white mist flowing off of it in waves.
+
+It fizzled away like the monsters did, revealing a rubber-packed… gun.
+
+“The hell?”
+
+Will had been in the Boy Scouts for long enough to handle guns a fair few times, but this didn’t look like anything functional. His new prize was a revolver straight out of an old spaghetti western, rust and all.
+
+He drew it from the case. The grip was startlingly comfortable in his hands, and the weight—not bad, not at all. Will would need to do some test firing.
+
+Item: Seven-Shot Six-Shooter (Corrupted)
+
+Rare, bronze
+
+Torn from the desolated wastes of the Crystal Desert, this type of weapon is a favorite of gamblers, backstabbers, and scoundrels for its unpredictability, power, and most importantly, the surprise of having one extra shot.
+
+Carries seven bullets, which are randomly selected from the following list. The bullets can be reloaded by hand, but will automatically reload once every hour. Once loaded, the order that the bullets are shot in is random.
+
+You may also fire a mundane bullet.
+
+Possible shots:
+
+- Piercing Shot: The bullet does not slow down when it hits a living target.
+
+- Explosive Shot: On impact, the bullet detonates with the force of 1 kg of dynamite.
+
+- Gaseous Shot: Activates the effect of the [Fog Cloud] spell at bronze rank.
+
+- Rebounding Shot: When the bullet hits a surface, its momentum is instantaneously reversed at 50% the value of its impact speed.
+
+- Machine Gun: Shoots 7 bullets at once.
+
+- High Caliber: After being fired, bullet size increases by 100%. Bullet speed increases by 100%.
+
+- Incendiary: Activates the effect of the [Create Oil], [Thicken Oil], and [Produce Fire] spells at unformed rank.
+
+- Instant Death: Has a 1 in 1,000 chance to be loaded. Bullet velocity is quadrupled. Ignores magical resistances up to gold rank. Destroys magical protection of up to gold rank. Always crits. Don’t miss.
+
+WARNING: This weapon is corrupted. Each bullet has a small chance to inflict one level of the [Corruption] condition.
+
+…or not. That was definitely not safe to test inside.
+
+“Is there even a firing range in here?”
+
+Helper: Not in this one. Many do.
+
+“Alright. This is handy, but…”
+
+Will looked to the door,, which he hadn’t bothered closing. Outside of the safe zone, there were now a solid sixteen or seventeen cave goblins staking out the area. They weren’t just gathered in the center, either. The footpath had cover on either side of it and in alcoves above, and goblins had taken up residence everywhere.
+
+Archers lay waiting up high in the vents, warriors surrounded the exit, and what Will could only assume were wizards were chanting something in a circle around a burning circle.
+
+A single bullet wasn’t going to take all of them out.
+
+Helper: Check all your options. You need to be adaptable to survive as a User.
+
+She wasn’t going to give him the answer right away. That was fair. Given the title “tutorial helper,” Will assumed Helper was going to be gone after all this was done.
+
+The options here lay entirely in the shop. Would another weapon do it? Maybe, but he didn’t want to immediately commit to that. Unless he rolled insanely well, he doubted a single weapon would be enough to clear out this entire encampment.
+
+“Hey, Helper. You said that I can’t attack from the inside out. Can I attack immediately when I exit? Will any aftereffects of my attacks be stopped from entering? Can I push non-attack items out while I’m inside?”
+
+Helper: Yes to all three.
+
+An evil idea took root in Will’s mind. He grinned.
+
+You have purchased 15 [Large Casks of Oil]!
+
+“I learned this one from one of my favorite games,” he said, moving to the Miscellaneous tab of the store. “They call this “barrelmancy.”
+
+#
+
+All told, it only cost him 300 credits, which translated to 30 of his bronze currency. He still had enough to get another weapon if necessary, though he hoped the other items he had were sufficient.
+
+Will checked his inventory. It seemed like 10 was the maximum he could fit of any one item into a slot—there was one stack of 10 and one of 5. Good to know.
+
+He stored the scorpider fang and teleport dagger into his inventory and drew the seven-shot revolver.
+
+The constant clamor of the goblins setting up for their ambush faded as he walked closer.
+
+“You know,” he said, “part of an ambush is making sure your target doesn’t know it’s coming.”
+
+The tallest of the goblins—the same chieftain whose axe he’d inadvertently stolen—rose to its (his?) feet.
+
+“You will die knowing that death comes for you,” he—definitely a he—growled. His voice sounded like someone had dragged his throat over a quicksand belt. “You will die in pain, and there is nothing you can do about it.”
+
+“So you do speak English.”
+
+Helper: You’re hopeless. You have the Omnilingual skill, dumbass. I’m writing in your native language because I’ve prepared for this. The goblins are speaking cave Arcadian.
+
+“Oh. Right.”
+
+“Come out now or when the lights refresh in the morning,” the chieftain said, pointing a short spear straight at Will’s throat. “I promise you that you will die a terrible death.”
+
+“Your axe looked nicer than whatever that baby sensory toy is,” Will taunted.
+
+In the chieftain’s moment of incoherent rage, Will acted.
+
+He dumped all fifteen oil barrels out of his inventory. They were almost the same size of him, and they were near the limit of what he could carry. The first couple stacked on top of each other, but then there was no room and the barrels clattered to the ground, rolling towards the goblins.
+
+A reptilian wave of panic swept over the grey creatures as they refocused towards the barrels moving towards them. Will used the distraction to step out.
+
+He had only fired a revolver once or twice, but he’d watched enough movies and understood enough about the theory of shooting guns to know how to fan the hammer. By holding the trigger down with one hand and rapidly cocking the gun with the other, he could shoot each one of the seven bullets in rapid succession.
+
+In history, fanning the hammer was nearly useless. Its accuracy was garbage, it wasn’t great for shooting from cover, and it spent all your bullets really, really fast.
+
+But Will only needed one bullet to hit, and he had a lot of targets.
+
+Incendiary, instant death, explosive, and high caliber would all theoretically do the trick.Those were four out of the eight possibilities. The chances of not rolling one of them in any of the bullets was near zero.
+
+He fanned the hammer, and pandemonium erupted. The crack of the shot firing was deafening without ear protection, and the ping-ping-ping and fleshy thwacks of his bullets making contact didn’t help with the sudden ringing in his ears.
+
+Then, he heard a massive whump like the crash of a massive wave and his vision flared white.
+
+The explosion sent Will flying backwards into the safe zone. He smacked straight into a table, and white-hot pain ignited throughout his whole body before he slammed down an unformed rank healing potion. In combination with the safe zone’s passive healing effect, the pain subsided quickly.
+
+Helper: Good one. You might survive this after all.
+
+His vision took a while to return, but the system was active even while his eyes were too blinded by light to see.
+
+You have defeated a large number of enemies! Please standby…
+
+Achievement earned: Actually, You Could Chew It Just Fine
+
+You have killed your first solo-level boss while actually solo. The average survival rate of day 1 battles against solo-level bosses is [26%].
+
+Reward: Check the boss’ body for its Vault Key.
+
+Achievement earned: MULTIKILL
+
+You have killed more than 10 sapient beings in less than one minute. You’re blowing up!
+
+Reward: You have gained a Tablet of Slaughter.
+
+You have leveled up 6 times!
