@@ -14,6 +14,14 @@ export const alanWebApiSeatImage = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An image names the seat it is for by that seat's id.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An image for a seat its sender may not read is refused and keeps nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An image is kept as an image page, and the answer names that page's slug.",
     },
     {
@@ -31,5 +39,5 @@ export const alanWebApiSeatImage = {
     },
   ],
   createdAt: "2026-09-24T18:14:10.656Z",
-  updatedAt: "2026-09-24T18:14:57.000Z",
+  updatedAt: "2026-10-24T17:06:52.994Z",
 } as const satisfies Route

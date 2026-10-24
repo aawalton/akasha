@@ -5,5 +5,6 @@
 {"propertySlug":"import","fileName":"reader-access.module.code.ts","path":"alan/harness/web-page-answer/.server/answer-pages/answer-pages.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"reader-access.module.code.ts","path":"alan/harness/web-page-answer/modules/reader-access/reader-access.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"reader-access.module.code.ts","path":"alan/web/routes/alan-web-api-page-file/alan-web-api-page-file.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"reader-access.module.code.ts","path":"alan/web/routes/alan-web-api-seat-image/alan-web-api-seat-image.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"reader-access.module.code.ts","path":"alan/web/routes/alan-web-api-seat-message/alan-web-api-seat-message.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/web-page-answer/web-page-answer.domain.ts","id":"01a0655a-b2a8-78a3-9dec-43e67b15bf10"}
