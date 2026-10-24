@@ -1,0 +1,207 @@
+Inspired by the other lords talking about progress over the journey, I request that my status screen show the changes since just after the battle with Kyrian.
+
+Status
+
+Name: Markus Wolfe
+
+Race: Human
+
+Class: Tamer
+
+Level: 30 -> 35
+
+Energy to next level: 47%
+
+Energy absorption rate: 134u/hr (+10% WL)
+
+Attributes
+
+Intelligence: 56+8 (+15%)Mana: 960/960 (15u/IP)
+
+Wisdom: 50+5 (+10%) +21 (+10% WL)Mana regeneration rate: 1900u/hr
+
+Willpower: 126+45 (36%) -> 156+62 (+40%) Health regeneration rate: 218u/hr
+
+Constitution: 40+4 (+10%)Health: 650/650 (650) (15u/CP)
+
+Strength (Power): 20+1Damage bonus: 210% increase
+
+Strength (Endurance): 24+1 (+5%)Stamina regeneration rate: 250u/hr
+
+Dexterity: 37+3 (+10%)Stamina: 600/600 (15u/DP)
+
+Special: Fire Affinity (25%)
+
+Class skills
+
+Dominate – Master 4 -> 5
+
+*Companion Bond
+
+Tame – Journeyman 9
+
+* Alliance
+
+Fade – Journeyman 7 -> 9
+
+* Darkvision
+
+Inspect – Initiate 9 -> Journeyman 3
+
+Elemental Bonding – Novice 1 -> 3
+
+Management – Journeyman 9
+
+Transformation – Initiate 8 -> Journeyman 1
+
+Willpower Leverage – Beginner 5 -> Novice 7
+
+Health Share – Beginner 1 -> 5
+
+Bond Teleport – Beginner 1 -> 8
+
+Willpower Share – Beginner 1 -> 6
+
+Non-Class skills
+
+Flesh-Shaping – Master 3 -> 4
+
+*Fluid Fabrication
+
+Stealth – Journeyman 3 -> 5
+
+Animal Empathy – Journeyman 9
+
+Meditation – Journeyman 9
+
+Energy Manipulation – Master 6
+
+Sensation Management – Initiate 3 -> 5
+
+Spearmanship – Journeyman 5 -> 6
+
+Archery – Journeyman 2 -> 3
+
+Blunt Weaponry – Journeyman 2
+
+Knife-work – Initiate 9
+
+Fire-Shaping – Master 1 -> 2
+
+Earth-Shaping – Master 1 -> 2
+
+Energy Crystallisation – Initiate 3
+
+Teaching – Initiate 3 -> 5
+
+Rune-Carving – Beginner 8
+
+Enchanting – Beginner 9
+
+Lava-Shaping – Novice 3 -> 6
+
+Alchemy – Beginner 6
+
+Metal-Shaping – Novice 2 -> 4
+
+Air-Shaping – Novice 7 -> Initiate 1
+
+Water-Shaping – Novice 6 -> Initiate 3
+
+Imprinting – Beginner 7
+
+Inspect Item – Novice 9 -> Initiate 8
+
+Seal – Beginner 5 -> Novice 3
+
+Five levels is only the start of the progress I’ve made since we set sail. I’ve dedicated all of those points into Willpower, so that has increased by forty-seven effective points. Not bad for five levels, though the soul challenge that increased my percentage bonus is certainly part of the increase. Little wonder I was able to force the Bonds on those Tier threes. I find myself wondering if I might even be able to force a Tier four to stop in its tracks, though I still don’t have confidence I’d be able to actually force a Bond on it.
+
+Looking at my status, the fact that the other stats haven’t moved bothers me, but I know that’s just because I want everything to move. Strategically, Willpower is my most important stat, not only because it’s what my main Class Skill depends on, but also it works with Willpower Leverage, to bolster a chosen stat.
+
+On that note, because I use Willpower Leverage every moment I’m awake – if only to bolster Energy gain through Wisdom – that Skill has made quick progress. As expected, the only real change to it as it leaped into Novice is that the five percent has doubled. That’s still enough to increase my Wisdom by almost half again. If I use it on my weakest stats, it has a much bigger effect as it almost doubles them.
+
+Willpower Leverage might have made the most progress, but several other Skills have ranked up too.
+
+Both of my Inspect Skills have reached the next rank due to frequent use. Unfortunately, before Inspect Item could reach Initiate, Inspect had reached Journeyman – I was wondering whether they might merge if they ended up in the same rank. Well, they’ll probably end up in Journeyman together – I doubt it will be easy to push Inspect to Master.
+
+Like Willpower Leverage, they haven’t changed much; they’ve just become better at what they do. The biggest change is to my merged Inspect Skill that at Journeyman now gives me a little information about anything I look at, triggered or not.
+
+It was useful in the battle with the parasitic controller – the Skill gave me hints as to its strengths and weaknesses without me having to trigger the full Skill and risk catching its attention.
+
+I assume that Inspect Item will do that later, but at the moment I still need to actively trigger the Skill to get any information.
+
+Transformation is the third of my Class Skills to rank up recently, and this one demonstrated far more changes than the others.
+
+Congratulations!
+
+Transformation has reached Journeyman 1.You have continually used this Skill to extend your capabilities, particularly in the domain of flight. Your speed in summoning wings of various types has increased significantly, and any aspect you wish to draw on from your Bonded that is linked with flight will be far easier and more efficient. You can still draw on other aspects of your Bonded, however these will be more difficult if they are not linked with flight.
+
+I wasn’t too happy when I saw that rank up message, not because it doesn’t offer useful changes, but because it indicates how I’m at risk of losing some of Transformation’s flexibility. Because I’ve used it almost solely to draw on wings of different sorts, that’s the area in which it has improved, at the detriment of its ability to draw on other aspects. There’s no guarantee that I’ll get it to Master, but I’ll need to make an effort to exercise more of its flexibility – draw on Bastet’s claws or Fenrir’s nose, or Artio’s armoured skin.
+
+Then again, given that I do mostly use it to enable myself to fly, its improvement in speed and efficiency are definitely welcome. Plus, though I haven’t had much chance to test it, I have a feeling that ‘any aspect…that is linked with flight’ might mean more than just physical aspects. If Ptera were still with us, I suspect I’d be able to draw on her Lightening ability to help me fly, which would be pretty useful. I’ll need to do some testing.
+
+Seal is another Skill that has ranked up due to sheer amount of use. There wasn’t much change – I can now include more people and it mostly obscures lips and facial expressions as well as sound.
+
+Air-Shaping and Water-Shaping have seen the biggest changes of any of my Shaping Skills since we set off from Moriax, but most of that progress was made while we were sailing. Still, I need to make some time to continue working on those and Metal-Shaping too. There’s always the possibility that if I can bring all my Shaping Skills to the same rank, something might happen. Nicholas indicated that there were some unverified rumours of a super Shaping Skill, and my experience with Inspect indicates that that might be the way of achieving it.
+
+I’m pleased that both of my Master-rank Shaping Skills advanced a little. It’s not surprising that Earth-Shaping did so – the rituals for the terraformation of the harbour and settlement were challenging, and working with other Earth-Mages was definitely a different experience. In fact, I suspect that cooperation was the key factor for the advancement – of all the elements, I suspect that Earth is the most cooperative, but it’s something I’ve never really dug into. Even when I’ve worked with Kalanthia, that’s been more of a teacher-student affair rather than a cooperation of equals.
+
+Similarly, Lava-Shaping really benefited from the tons of lava I had to produce to coat the cavern’s floor in order to both cover up the enchantments that strengthened the cavern, and also to provide material for the other Earth Mages to use for buildings. It seems to be something that advances quite slowly, so it hasn’t progressed as much as I would like, but I’m not complaining given how useful it’s been.
+
+As for Fire-Shaping, that progress was very recent – it seems that burning a Tier four’s lair clean with carefully applied fire was just what I needed to shift it forward by a level.
+
+Actually, it seems like the battle with the Tier four was pretty good for me in terms of advancements. Three of my Master-rank Skills advanced as a result of it. Fire-Shaping, yes, but also Flesh-Shaping and Dominate. Flesh-Shaping was, of course, because of the parasite removal. I didn’t see it advance until after the battle, but that can be the only explanation – yes, I saved Layton’s life, but that kind of healing wasn’t new in the way removing the parasites was.
+
+As for Dominate, it’s unsurprising that that advanced by a level too – forcing Bonds on multiple Tier threes was certainly the source of that progress, even if I didn’t force them to stick around afterwards.
+
+Contrarily, Tame is still stuck at the bottleneck of Journeyman. Again, that’s not much of a surprise – I’ve barely used the Skill. I suspect that if I manage to break through into Master, it will be more to do with the subSkill of Alliance rather than Tame itself.
+
+Also stuck at the bottleneck is Meditation, though I have some ideas of what I might try with that to push it into Master. I just need some time to experiment – something that has been in very short supply recently.
+
+I glance thoughtfully through my misty screen at my breakfast companions. I’m starting to understand why even the lords who have had their Classes for far longer than I are not that much further in either levels or Skill development. It almost makes me long to be back in the samurans’ world where I barely needed to get involved in the day-to-day life.
+
+But I should be able to do that here too – I just need to get the settlement to the point where it’s pretty much running itself. Not something that’s likely to happen in the next few months, but surely possible for the future.
+
+I’m a little embarrassed about seeing how many Skills haven’t progressed at all in the last eight months – or have done so only a little. It really says something when my teaching Skill has advanced more than my weapon Skills. Though it’s justified – I’ve been teaching Loran and the healers; I can’t remember the last time I set foot on the training field. Mathis would firmly disapprove if he were here.
+
+I’m just glad he isn’t around to teach me a painful lesson about those Skills’ importance and resolve to spend a bit more time on weapons training. After all, I’ve experienced running out of mana or needing to conserve it several times – being able to wield a spear or bow is pretty useful at that point.
+
+Even my newest Skills have made more progress. I haven’t used Health Share too much – fortunately, we haven’t had too many moments where one of our companions was at risk of dying – but different members of the group have drawn on it enough to make it increase by a few levels.
+
+We’ve used Bond Teleport even more rarely, but it seems that each use counts a lot more towards its progression than Health Share. That’s fortunate, since Bond Teleport is draining enough that I don’t really want to use it unless I need to.
+
+Willpower Share is my newest Skill – gained when I helped Bastet in her first domain battle – but it has also seen good progress as a result of the most recent battle. Apparently fighting back the domain of a Tier four is worth several Beginner levels.
+
+The absence of Clubs on my list reminds me that I have the Skill fragment hanging around in my Inventory. I really need to decide what to do with that. Probably give it to Catch.
+
+“Markus?”
+
+I blink, Elarion’s voice pulling me out of my thoughts. From the impatience in his tone, I guess this isn’t the first time he’s said my name.
+
+“My apologies,” I reply. “I was deep in my thoughts. Did you ask me something?”
+
+Elarion’s smooth expression shows no irritation, but I know him well enough by now to see the hints of it in the way his index finger taps – once – on the table top.
+
+“We were speaking of priorities,” Valence steps in with a quick glance at Elarion. I wonder idly whether he saw the hint of irritation too. “Lord Elarion wishes to have as many mages assigned to the farming efforts as possible.” Valence’s use of Elarion’s title answers my question – he did.
+
+“I have a strong theory that I would like to test. I feel that we are on the brink of a breakthrough – if I have enough mages to push through the obstacles in my way.”
+
+“Oh?” I ask, leaning forwards, my interest piqued. “Do say more.”
+
+Elarion eyes me for a moment, clearly considering whether or not to expand. I see it as he decides to explain further, but he suddenly glances at the entrance.
+
+So do I – we’ve both heard the same thing: the sound of hurried footsteps rapidly approaching us. A moment later, Layton and Valence follow our gazes.
+
+“What is it?” Layton asks warily.
+
+Before any of us can explain, a messenger bursts through the main doors. My heart sinks. Nothing that brings a messenger wide-eyed and dishevelled to the door in the middle of breakfast can be good news.
+
+“My lord!” she exclaims breathlessly, then blinks as she takes us all in. “My lords,” she corrects herself.
+
+“What is it?” I ask with the hint of a sigh. Her expression doesn’t indicate good news.
+
+“Something’s approaching! And the captain thinks it might be Tier four!”
+
+I exchange frustrated glances with the other lords.
+
+“You jinxed us,” I accuse Elarion flatly.
