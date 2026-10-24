@@ -85,6 +85,8 @@
 {"propertySlug":"person-access-kind","path":"person/access/pages/innworld-visitor-page-type-world-spell.person-access.ts","id":"01a0c5f6-64d9-7f41-a1d6-4d1043dbd1f0"}
 {"propertySlug":"person-access-kind","path":"person/access/pages/innworld-visitor-page-type-world-title.person-access.ts","id":"01a0c5f7-b192-7dd1-bfcd-c00672ac41b1"}
 {"propertySlug":"person-access-kind","path":"person/access/pages/innworld-visitor-page-type-world.person-access.ts","id":"01a0c5f6-8520-7aeb-9563-2d945c1815b7"}
+{"propertySlug":"person-access-kind","path":"person/access/pages/jenny-page-type-alan-and-jenny-topic.person-access.ts","id":"01a16f4b-ccca-73f9-ad74-748820078fd3"}
+{"propertySlug":"person-access-kind","path":"person/access/pages/jenny-page-type-alan-book.person-access.ts","id":"01a16f4b-ccca-7ac6-9b77-d8fa56799e81"}
 {"propertySlug":"person-access-kind","path":"person/access/pages/jenny-page-type-device-token.person-access.ts","id":"01a0c50e-7a72-77bc-b980-8a33ebcd20be"}
 {"propertySlug":"person-access-kind","path":"person/access/pages/jenny-page-type-feature-request.person-access.ts","id":"01a0c50e-ad0e-7a77-8fa4-9d499bf0e7b3"}
 {"propertySlug":"person-access-kind","path":"person/access/pages/jenny-page-type-ios-app.person-access.ts","id":"01a0c50e-9465-7fda-b158-d0033aafdad5"}

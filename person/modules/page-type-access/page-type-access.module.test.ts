@@ -1,5 +1,7 @@
 import { expect, test } from "bun:test"
 import type { Fetcher } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
+import { jennyPageTypeAlanAndJennyTopic } from "akasha/person/access/pages/jenny-page-type-alan-and-jenny-topic.person-access.ts"
+import { jennyPageTypeAlanBook } from "akasha/person/access/pages/jenny-page-type-alan-book.person-access.ts"
 import { jennyPageTypeSeat } from "akasha/person/access/pages/jenny-page-type-seat.person-access.ts"
 import { accessKind } from "akasha/person/access-kind/access-kind.page-type.ts"
 import { pageType as pageTypeKind } from "akasha/person/access-kind/pages/page-type.access-kind.ts"
@@ -150,6 +152,33 @@ test("Jenny's seat access reads the one seat it narrows to and writes none", asy
   })
   expect(reachOf(grants, "seat", DEEDS.WRITE, "jenny").permitted).toBe(false)
   expect(reachOf(grants, "persona", DEEDS.READ, "jenny").permitted).toBe(false)
+})
+
+test("Jenny's book access reads the alan-and-jenny book and its topics and writes neither", async () => {
+  const grants = await grantsOf(
+    "jenny",
+    answeringByType({
+      "person-access": [jennyPageTypeAlanBook, jennyPageTypeAlanAndJennyTopic].map((access) => ({
+        target: access.target,
+        deed: [...access.deed],
+        narrow: "narrow" in access ? access.narrow : undefined,
+      })),
+    })
+  )
+  expect(reachOf(grants, "alan-book", DEEDS.READ, "jenny")).toEqual({
+    permitted: true,
+    narrows: [{ key: "slug", is: "alan-and-jenny" }],
+  })
+  expect(reachOf(grants, "alan-and-jenny-topic", DEEDS.READ, "jenny")).toEqual({
+    permitted: true,
+    narrows: null,
+  })
+  for (const pageTypeSlug of ["alan-book", "alan-and-jenny-topic"]) {
+    expect(reachOf(grants, pageTypeSlug, DEEDS.WRITE, "jenny").permitted).toBe(false)
+  }
+  for (const pageTypeSlug of ["all-about-alan-topic", "collection", "domain"]) {
+    expect(reachOf(grants, pageTypeSlug, DEEDS.READ, "jenny").permitted).toBe(false)
+  }
 })
 
 test("a narrow the access pages carry reaches the reach", async () => {

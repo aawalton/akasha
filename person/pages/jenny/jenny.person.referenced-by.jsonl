@@ -12,6 +12,8 @@
 {"propertySlug":"import","fileName":"jenny.person.ts","path":"person/modules/push-apps/push-apps.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"jenny.person.ts","path":"product/smilingjenny/web/.server/jenny-session/jenny-session.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"person/person.page-type.ts","id":"01a053e0-6cf7-7062-90af-db1def200572"}
+{"propertySlug":"person-access-person","path":"person/access/pages/jenny-page-type-alan-and-jenny-topic.person-access.ts","id":"01a16f4b-ccca-73f9-ad74-748820078fd3"}
+{"propertySlug":"person-access-person","path":"person/access/pages/jenny-page-type-alan-book.person-access.ts","id":"01a16f4b-ccca-7ac6-9b77-d8fa56799e81"}
 {"propertySlug":"person-access-person","path":"person/access/pages/jenny-page-type-device-token.person-access.ts","id":"01a0c50e-7a72-77bc-b980-8a33ebcd20be"}
 {"propertySlug":"person-access-person","path":"person/access/pages/jenny-page-type-feature-request.person-access.ts","id":"01a0c50e-ad0e-7a77-8fa4-9d499bf0e7b3"}
 {"propertySlug":"person-access-person","path":"person/access/pages/jenny-page-type-ios-app.person-access.ts","id":"01a0c50e-9465-7fda-b158-d0033aafdad5"}

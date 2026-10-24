@@ -148,6 +148,40 @@ test("Jenny asking for another seat by slug is refused and nothing is carried", 
   expect(sent).toEqual([])
 })
 
+test("Jenny asking for every book is answered only the alan-and-jenny book", async () => {
+  const { deps, sent } = asking(JENNY)
+  await askHeld(asked({ pageTypeSlug: "alan-book", keys: ["slug", "title"] }), deps)
+  expect(sent[0]?.body).toEqual({
+    pageTypeSlug: "alan-book",
+    keys: ["slug", "title"],
+    where: { slug: { is: "alan-and-jenny" } },
+  })
+})
+
+test("Jenny asking for another book by slug is refused and nothing is carried", async () => {
+  const { deps, sent } = asking(JENNY)
+  for (const slug of [{ is: "all-about-alan" }, { in: ["alan-and-jenny", "my-faith"] }]) {
+    const answered = await askHeld(asked({ pageTypeSlug: "alan-book", where: { slug } }), deps)
+    expect(answered.status).toBe(403)
+  }
+  expect(sent).toEqual([])
+})
+
+test("Jenny's question about the alan-and-jenny topics is carried as she asked it", async () => {
+  const { deps, sent } = asking(JENNY)
+  const body = { pageTypeSlug: "alan-and-jenny-topic", keys: ["slug", "title", "settled"] }
+  expect((await askHeld(asked(body), deps)).status).toBe(200)
+  expect(sent).toEqual([{ at: "/ask", body }])
+})
+
+test("Jenny asking the topics of another book is refused", async () => {
+  const { deps, sent } = asking(JENNY)
+  for (const pageTypeSlug of ["all-about-alan-topic", "learn-everything-topic", "collection"]) {
+    expect((await askHeld(asked({ pageTypeSlug }), deps)).status).toBe(403)
+  }
+  expect(sent).toEqual([])
+})
+
 test("Jenny asking a page type she holds no access to is refused", async () => {
   const { deps, sent } = asking(JENNY)
   for (const pageTypeSlug of ["persona", "relationship-topic", "agent-message", "page"]) {

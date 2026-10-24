@@ -1,4 +1,6 @@
 import { alanPageTypeAll } from "akasha/person/access/pages/alan-page-type-all.person-access.ts"
+import { jennyPageTypeAlanAndJennyTopic } from "akasha/person/access/pages/jenny-page-type-alan-and-jenny-topic.person-access.ts"
+import { jennyPageTypeAlanBook } from "akasha/person/access/pages/jenny-page-type-alan-book.person-access.ts"
 import { jennyPageTypePageType } from "akasha/person/access/pages/jenny-page-type-page-type.person-access.ts"
 import { jennyPageTypePerson } from "akasha/person/access/pages/jenny-page-type-person.person-access.ts"
 import { jennyPageTypeSeat } from "akasha/person/access/pages/jenny-page-type-seat.person-access.ts"
@@ -21,7 +23,13 @@ function grantOf(access: Access): Grant {
 
 const GRANTS: Readonly<Record<string, readonly Grant[]>> = {
   alan: [grantOf(alanPageTypeAll)],
-  jenny: [jennyPageTypeSeat, jennyPageTypePerson, jennyPageTypePageType].map(grantOf),
+  jenny: [
+    jennyPageTypeSeat,
+    jennyPageTypePerson,
+    jennyPageTypePageType,
+    jennyPageTypeAlanBook,
+    jennyPageTypeAlanAndJennyTopic,
+  ].map(grantOf),
 }
 
 export async function readsAsTheirPages(user: object | null, pageTypeSlug: string): Promise<Reach> {

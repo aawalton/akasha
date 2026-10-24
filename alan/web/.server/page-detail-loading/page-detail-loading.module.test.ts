@@ -43,6 +43,26 @@ test("Jenny's seat page is looked for only among the seat she may read", async (
   expect(held).toEqual({ ...BY_SUFFIX, slug: { is: "couples-therapy-couples-therapist" } })
 })
 
+test("Jenny's book page is looked for only among the alan-and-jenny book", async () => {
+  const held = await heldToReader(
+    AT,
+    () => testsHeldTo("alan-book", BY_SUFFIX),
+    readerIs("jenny"),
+    reads
+  )
+  expect(held).toEqual({ ...BY_SUFFIX, slug: { is: "alan-and-jenny" } })
+})
+
+test("Jenny's topic page is looked for among the alan-and-jenny topics as it was asked", async () => {
+  const held = await heldToReader(
+    AT,
+    () => testsHeldTo("alan-and-jenny-topic", BY_SUFFIX),
+    readerIs("jenny"),
+    reads
+  )
+  expect(held).toEqual(BY_SUFFIX)
+})
+
 test("a page of a type its reader may not read is answered as no such page", async () => {
   const jenny = heldToReader(AT, () => testsHeldTo("persona", BY_SUFFIX), readerIs("jenny"), reads)
   expect(await statusOf(jenny)).toBe(404)
