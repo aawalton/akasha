@@ -1,0 +1,151 @@
+PART 2/2
+
+You have offered moderate contribution toward the slaying of Level 7 Gloomspur.
+
+You have earned 16 XP. Your XP is 618.
+
+Level 32 Draconiad has offered moderate contribution toward the slaying of Level 7 Gloomspur.
+
+Due to having a Bond with Draconiad, you have earned 1 XP. Your XP is 619.
+
+“That’s the last of this pack,” I said as the final body fell before me. I’d used a couple Sanguine Bonds in the process of taking them out—my Health was full, but I was always spending Stamina to move around, so the incidental restoration there was nice—and in the process, it’d Ranked up. I’d forgotten that my Soft Cap was at 11 by now, so when I used the Spell Crystal to push the Spell up to Rank 10, I actually still had one more Rank I could earn without having to push past. Unexpected, but the gains were very nice to see.
+
+Threshold reached. Sanguine Bond XP has reached 355.
+
+Sanguine Bond Rank has increased to 11.
+
+Due to Sanguine Bond Rank reaching 11, it has undergone the following changes:
+
+Mana Cost: From 298 to 305
+
+Health Drain: From 6.52 to 6.85
+
+Stamina Drain: From 8.15 to 8.56
+
+Mana Drain: From 9.78 to 10.3
+
+Health Regeneration: From 1.63 to 1.71
+
+Stamina Regeneration: From 3.27 to 3.43
+
+Mana Regeneration: From 4.88 to 5.12
+
+Erani looked around. “How do we get the teeth?”
+
+“I will do it!” Ainash bent down and, using a thorn from her whip, not-so-neatly poked and stabbed the left fang from its socket in the first corpse’s mouth.
+
+“I guess that does it,” I muttered, looking at the bloody display. Then I turned to Erani. “Well, we got four out of twenty.”
+
+She chuckled and shook her head. “Just sixteen to go. And it’s only…already nighttime.”
+
+“Yeah. I’m thinking we’re going to be working pretty late.”
+
+“Think if we buy it past midnight, they’ll let the payment count for the next night too?”
+
+I shrugged. “Only one way to find out.”
+
+Hours passed as we continued to hunt down packs of Gloomspurs. They seemed to travel in packs of three or four, but we got lucky once with a pack of five. Eventually, as the moon rose into the sky and we wandered on and on in the dark wilds, we got to a certain point.
+
+You have offered moderate contribution toward the slaying of Level 5 Gloomspur.
+
+You have earned 11 XP. Your XP is 772.
+
+Level 32 Draconiad has offered moderate contribution toward the slaying of Level 7 Gloomspur.
+
+Due to having a Bond with Draconiad, you have earned 1 XP. Your XP is 773.
+
+“One left,” I sighed. “And…no more in this pack.”
+
+“Looks like we’ll be looking for another group. Then we’ll be good. Guess we’ll end up having enough for a couple pieces of bread, after all.” Erani laughed, but I could tell she was exhausted, same as I was.
+
+At this point, Erani had shut off Distortion Strike. Her Mana/Minute wasn’t enough to keep up with it yet, so she had to take breaks from it at times. I, of course, still had on Dark Plate, but that was because I was able to. We were constantly on-guard to have her reactivate the Spell the moment we saw someone, though, so even if someone came up to us, ideally we’d have her disguised by the time they got a good look. And there still wasn’t technically any public info out on us that we knew of, so we weren’t at much risk for now.
+
+“I just hope it doesn’t take another hour to find this next group, like it did the last one,” I muttered. “Only so much I can take before I just say ‘fuck it’ and decide we should spend the night out here.”
+
+“I am way too hungry to be okay with that,” Erani said. “And I really, really don’t want to eat raw monster meat again.”
+
+“Agreed,” I nodded, looking at her drained face backed by the night sky. Then I smiled. “Hey, you look pretty cute with bags under your eyes.”
+
+She laughed. “I do not. Don’t look at me.”
+
+“Fine, fine,” I turned away, making a show of my compliance, but then I paused, mid-way through my turn.
+
+“What?”
+
+“There’s another.”
+
+“Another?”
+
+“Another pack,” I smiled, looking out across the fields. Cresting a hill was a pack of four more Gloomspurs. “Today’s our lucky day, huh?”
+
+“Lucky day,” Erani rolled her eyes. “More like it makes up for our awful luck earlier.”
+
+“Well, it’s almost tomorrow now, so we’re close to it counting separately. Maybe tomorrow’s our lucky day.”
+
+She chuckled. “I guess we’ll just have to see.”
+
+“Anyway, let’s go kill those things.”
+
+“Seconded,” Erani nodded and walked along with me.
+
+“Yay!” Ainash said. “More fighting!”
+
+We began moving over to the new pack that was standing around at the top of the hill. We’d realized, after a few encounters, that the things were pretty docile by nature. So we didn’t actually need to exercise much caution when approaching, since chances were they wouldn’t even try running off. And even if they did, we always had my debuffing Spells.
+
+So we walked up, I prepared to start casting, and—
+
+“Die, monster!” A voice screamed from my left, and I turned to see a man with a massive broadsword running straight at me.
+
+“Fuck!” I stepped back, just barely dodging the strike. Instantly, I activated Gravity Well on my attacker, and I could see Erani beside me activate Distortion Strike to hide her appearance.
+
+But despite the increased gravity, the man picked up the gigantic hunk of steel with both hands and hefted it again, looking at me with rage. Then he opened his mouth and screamed charging at me again.
+
+I hit him with Crippling Chill, and he kept running. Level 15 Berserker, the notification said. So I raised my hand and shot him with a Ray of Frost. He kept coming at me.
+
+“Hey! I’m Human!” I shouted.
+
+He didn’t stop. With a grunt of exertion, he brought the sword down and I leapt to the side, once again barely avoiding getting hit. I was sure I could survive a landed strike or two, but I couldn’t afford him knowing my Class.
+
+“Hey!” I shouted again. “Please!”
+
+He turned to me with a crazed expression.
+
+“Father! Is this bad guy? Should I attack?”
+
+“Um…” I couldn’t decide what to say. Was I going to have to kill this man? “Just try to restrain him for now!”
+
+Instantly, Ainash leapt into action, charging at him. He raised his sword to deflect one whip strike, but then a Firebolt from Erani sent him stumbling back. When the smoke cleared, he was charging straight at her, apparently having switched targets from me to her. He swung his long blade and just barely grazed her arm with it, but Angelic Shield protected her from damage, and before he could swing again, Ainash rushed in and wrapped her whip around his neck, forcing him to the ground in one swift motion.
+
+“Hey!” A voice came out from afar. I looked over and saw a woman, alongside a whole group of people, running up to us. “That’s our guy! Let him go!”
+
+“He was attacking me!” I yelled back. “Come get him under control.”
+
+“Let him go!” She yelled again.
+
+“He’s a Berserker, right?! So he’s under the effects of Berserk. If we let him go, he’ll just attack again. I’m not doing that until you get him under control.”
+
+“Ugh. Fine.” She ran faster in her approach, waving a hand to usher the other closer, as well.
+
+After a few seconds, the man still struggling to reach me but being restrained by the combined forces of Ainash and Erani, the group came over to us. Only then did I tell Ainash to let him go, and she did, leaving visible marks where the thorned whip had been poking him.
+
+The woman nodded at a couple people, who knelt to attend to the wounded man, and then walked up to me. “What the hell was that?”
+
+I looked at her. “What in the hells was that? I should be asking you the same thing. Some man just attacked me out of nowhere—it’s you who needs to be doing the explaining, here.”
+
+She stared at me for a moment, then shook her head. “I expect compensation.”
+
+I raised my eyebrows. “Compensation?”
+
+“Yes. For harming an innocent man.”
+
+Erani walked up. “He wasn’t innocent. He attacked us first. It’s basic self defense. We only did what we had to in order to keep ourselves safe.”
+
+A man walked over to us, splitting off from the main group of easily over a dozen people to stand next to the woman, facing me. “I dunno. I think you’re lucky to get off with just paying us our due.”
+
+“How in the bottom hell do you think you’re in the legal right here?” Erani scoffed. “In fact, I’m almost certain that what just happened here could easily be classified as attempted murder, especially since you didn’t know our Levels. If we were Unclassed—or even just low-Level—we’d be dead where we stand.”
+
+“I’m just sayin’.” He nodded his head, and a couple other people walked up to us. “There’re a lot of people on our side of this. You’re lucky we decided not to attack right away. ‘Bout fifteen on three, I think this’d go pretty poorly for you, huh?”
+
+“Father,” Ainash said, looking at me nervously, “am feeling these people wanting to hurt us.”
+
+“...Oh.” I looked around us. Every person in the crowd of fifteen was staring straight at me. “This is…a mugging?”

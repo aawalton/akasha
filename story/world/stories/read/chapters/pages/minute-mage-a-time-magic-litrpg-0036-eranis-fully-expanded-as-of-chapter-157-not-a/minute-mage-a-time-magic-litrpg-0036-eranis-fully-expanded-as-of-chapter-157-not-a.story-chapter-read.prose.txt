@@ -1,0 +1,179 @@
+Name:
+
+Erani Wos
+
+Age:
+
+23
+
+Strength:
+
+50 (10 + 40)
+
+Class:
+
+Sorcerer
+
+Level:
+
+20
+
+Endurance:
+
+50 (10 + 40)
+
+Class Type:
+
+Magic
+
+XP:
+
+91/3.0k
+
+Dexterity:
+
+50 (10 + 40)
+
+Health:
+
+327/500
+
+Health/Minute:
+
+0.21
+
+Conjuration:
+
+126
+
+Stamina:
+
+291/300
+
+Stamina/Minute:
+
+1.8
+
+Mana:
+
+1.89k/1.89k
+
+Mana/Minute:
+
+22.68
+
+Spells:
+
+Talents:
+
+Titles:
+
+Distortion Strike - XP 0/10
+
+Elemental Embrace
+
+Devastator
+
+Angelic Shield 9 - XP 355/355
+
+Signature Magic
+
+Firebolt 19 (10) - XP 112/461+Explosive Firebolt
+
+Primal Might
+
+Expanded Capacity
+
+You have a Bond with Level 32 Draconiad.
+
+For as long as you are within 1000 paces of Level 32 Draconiad, you gain the following effects:
+
+-Your Strength, Endurance, and Dexterity are each increased by 40.
+
+-Whenever Draconiad gains XP, you also gain 20% of that XP.
+
+-You gain 71% Resistance to all heat-based damage.
+
+Spells:
+
+Talents:
+
+Titles:
+
+Distortion Strike 0
+
+School: Alteration, Illusion
+
+Type: Toggle
+
+Cost: 0.5 Mana/Second
+
+—
+
+While active, you are Shaded, making you slightly harder to notice in the dark. When you damage a being with your body or a physical weapon while Shaded, you may deactivate Distortion Strike and spend 30 Mana to appear in a bright flash of light and deal an additional 2 damage for each second you were Shaded, with a maximum of 200 additional damage.
+
+Elemental Embrace
+
+Type: Activated
+
+Cost: Health, Stamina, and Mana equal to 5% of your maximum Mana (94.5 Health, Stamina, and Mana)
+
+—
+
+Your body and spirit become in tune with the elements, enhancing your offensive Spells. Whenever you cast an Elemental-School Spell that deals damage (Cold, Fire, Aqueous, etc.), you may activate this Talent to trigger an Elemental Surge. The Surge increases the Spell's damage by 400% and infuses it with a secondary effect related to the Spell’s Elemental School and scaling in power with damage dealt, such as burning, freezing, or stunning the target.
+
+Devastator
+
+You have taken a risk and killed enough enemies that, in a single minute, you have gained three or more Levels. For many, gambles like that cost them their lives. For you, it paid off. Greed is good.
+
+All enemies you contribute to killing provide 25% more XP.
+
+Angelic Shield Rank 9
+
+School: Divine
+
+Type: Passive
+
+Cost: 2.5 Mana per 1 Damage Prevented
+
+—
+
+Automatically casts upon taking damage, spending 2.5 Mana to prevent each 1 point of damage. Attempting to prevent more than 35.4 damage this way in a single second breaks the shield, making this Spell unable to activate for 23.2 seconds.
+
+Signature Magic
+
+Type: Passive
+
+—
+
+Whenever a Spell you cast deals damage to a being, for the next minute, all future copies of that Spell you cast deal an additional 10% damage. This effect adds with itself.
+
+Firebolt Rank 19+Explosive Firebolt
+
+School: Fire
+
+Type: Activated
+
+Cost: 58.7 Mana
+
+—
+
+Shoots a small ball of fire that travels up to 75.7 paces, exploding when it collides with something. Deals up to 189 damage, depending on where it hits, on a direct collision with a being.
+
+Firebolt explodes upon impact, damaging and knocking back all beings within 5 paces, with severity depending on how close they are to the source of the explosion.
+
+Primal Might
+
+Type: Passive
+
+—
+
+When a projectile Spell you fire would deal maximum damage due to having perfect accuracy, it deals 50% more damage.
+
+Expanded Capacity
+
+Type: Passive
+
+—
+
+Your Mana reserves become more plentiful. Maximum Mana is increased by 50%.

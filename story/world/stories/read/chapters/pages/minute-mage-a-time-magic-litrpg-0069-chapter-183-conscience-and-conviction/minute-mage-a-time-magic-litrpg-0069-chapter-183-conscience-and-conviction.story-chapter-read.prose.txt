@@ -1,0 +1,251 @@
+Before the time reached midnight, I went ahead and absorbed the Spell Crystal for myself and used Time Loop to reset, pushing my final Arcane Spell to its first Upgrade.
+
+Threshold reached. Gravity Well XP has reached 355.
+
+Gravity Well Rank has increased to 10.
+
+Due to Gravity Well Rank reaching 10, it has undergone the following changes:
+
+Mana Cost: From 12.7 to 15.9
+
+Gravity Increase: From 61% to 67%
+
+And then I was back, once again arriving just a few minutes before, after I’d taken the Arcane Spell Crystal. This was, of course, not what I’d originally planned to do. The original plan was to go back to before I’d ever taken it, that way I had the Upgrade and Jannin still had the Crystal. But what he’d said back there…Well, he didn’t seem like he’d miss it much.
+
+I hadn’t intentionally woken him up, but our short conversation once I realized he was awake had been enlightening. Namely, he didn’t seem to feel like he needed that Spell Crystal much at all. I remembered from back when we’d first met and he talked with me about it, he was planning on using the Crystal on a Spell called Fruit of the First Tree, the Upgrade for which would apparently allow the Spell to give actual sustenance. I, of course, could think of thousands of ways to exploit such a use, but he evidently mainly wanted it because the fruit would taste better than his rations.
+
+Now, I wasn’t someone who entirely agreed with robbery, but…when someone just handed me their valuables, who was I to decline? At least, that was how my assistant’s line of reasoning seemed to go.
+
+You really think this is a good idea? I thought to Index, looking down at the Spell Crystal in my hand.
+
+“Absolutely,” it said. “I know you don’t think of me as a good influence—you honestly seem pretty hostile toward me, at times—but I don’t see how this would be morally objectionable. Even if we were to take the personal happiness of others as equally as important as your own—which is still definitely an incorrect way of looking at things, I maintain—but even if we did that, just compare how useful that Crystal will be to Erani versus how useful it would be to Jannin. Jannin wants it so he can snack whenever he wants. That’ll probably only increase his quality of life marginally, and will only actually make him measurably happier for, say…three weeks before he gets used to it? Maybe a full month. After that, there’s basically no difference.”
+
+Still, feels weird just taking it from him. I mean, regardless of how useful he’ll find it, it’s still his.
+
+“Then consider the alternative. Giving it to Erani so she can Upgrade Angelic Shield is much better. Upgrading that Spell will likely lead to her life being saved on several occasions, not just because it’s a helpful Spell, but also because she’s currently maxed out all of her Spell XP requirements, so she effectively can’t practice. This Crystal will allow her to grow in strength again, which will keep her alive, and in turn keep you and Ainash alive. It’s effectively comparing three peoples’ lives to one person’s miniscule comfort. Even if you completely remove any amount of selfishness from the equation, it’s the objectively morally correct choice.”
+
+I frowned. You can’t boil morality down to objective rights and wrongs. What you think is the best decision might not be the best to someone else.
+
+“I certainly can. I mean, mathematically speaking, the decision I’m recommending leads to the most benefit to Humanity as a whole. From what I can analyze from your thought pattern, that seems to be what Human morality boils down to. If you can help people out, you help them. That’s what you’re doing. Don’t fool yourself into thinking that helping someone you care about is always selfish when compared to helping a stranger. Even if it makes you happy too, doesn’t that just mean you’re only bringing even more happiness to the Human people?”
+
+I just sighed. Whatever. I guess. I just hope they don’t resent me for it.
+
+“I’d say that’s even less likely. Well, I don’t think those three guards will think of you in a more positive light, but when it comes to the feelings that matter, it was more productive than counterproductive.”
+
+Yeah, you told that to me when you were trying to convince me to take the damn Crystal in the first place. I need them to fear me, not like me, and all that.
+
+“Exactly. They already don’t like you. I mean, they don’t think you’re a murderer, but simply speaking, they are risking their lives by not telling the authorities who you are. If it comes out that they kept your identity secret, then they’ll probably be killed for it. And right now, you’re acquaintances at best. I still think you should just go back there and kill them all, but I suppose that if you really want them alive, then your only choice is to keep them in line. And there’s no other way to ensure they stay in line so quickly other than fear. You did a pretty good job scaring them to begin with, but that was just idle threats. Actually showing them that you are capable and willing of breaking into their house? Willing to break the law to get what you want? It puts the fear on a whole other level. Now they can’t say ‘He wouldn’t actually kill us,’ or, at least, they’ll be more hesitant to say it, because they know you’re willing to cross some lines. Your goal isn’t to be so good that they’re willing to put their lives on the line for you, your goal is to be so threatening that they think sticking on your side gives them the best chance of survival. At least, for now. Maybe you can be nicer in the long term and try to win their loyalty, who knows.”
+
+The way you’re putting it just makes me feel worse, morally.
+
+“Aha, but we’ve already established that what you’ve done is objectively morally correct! You’re saving lives at the expense of temporary, minor discomfort for someone else. If you feel bad on top of it all, that just means you’re being selfless—now you’re saving lives at the expense of your own happiness. See? I’d say it makes perfect sense to call what you just did noble.”
+
+I wouldn’t go that far. In fact, I wouldn’t really go in that direction at all. But I at least agree that I’m willing to make some sacrifices in order to keep Erani safe. Even if those sacrifices have to be borne by someone other than me.
+
+“As long as we agree.”
+
+Well. It’s done now, anyway, so I won’t be going back regardless.
+
+“So then, you ready to look over your Upgrade options?”
+
+Yeah, probably best to stick around here while I do that.”
+
+So I sat with my back leaning against their wall, with Index spying on them inside to ensure nothing bad happened while I was meditating.
+
+While I meditated, the time passed to midnight, and I got a notification.
+
+Time Loop has refreshed its uses.
+
+Recycled Loop has activated. Due to 2 uses being leftover, you have gained the following Stats:
+
++2 Conjuration
+
+6 Stats remain until you must Level up.
+
+Ooh, I thought, good hit.
+
+Before my eyes, I watched my Status change from showing my Mana/Minute as 81.8 to 84.7. Almost 3 entire Mana/Minute from just 2 Stats added to Conjuration. Compared to before I had Exponential Reclamation boosting my Mana/Minute, when each point of Conjuration boosted my Mana/Minute by a measly 0.18, seeing it jump by that much was pretty jarring. And a completely welcome sight.
+
+Eventually, enough time passed that I could look over my Gravity Well Upgrade options.
+
+Choose one Upgrade for Gravity Well:
+
+Taxing Well
+
+—
+
+While under the effects of Gravity Well, physical muscle strain is increased for a being by the same percentage that Gravity Well increases gravitational pull (67%).
+
+Burning Well
+
+School: +Fire
+
+—
+
+While under the effects of Gravity Well, a being takes damage each second equal to the amount of Mana/Second Gravity Well costs (15.9 damage per second).
+
+Cheapened Well
+
+—
+
+Gravity Well’s Mana Cost is reduced by 40% (From 15.9 Mana/Second to 9.54 Mana/Second).
+
+Index sat atop a table in the guard outpost, watching as Arlan read through the Spell options. It already knew what they all read, of course, so there wasn’t much of interest for it to do right now. It was supposed to be watching for Bon and those other irrelevant Humans, making sure they didn’t wake up, but that was pretty much as simple as just looking at a couple of people lying around, doing nothing.
+
+So, with nothing else to occupy its optimized mind, it reflected on the past, analyzing its words and actions toward Arlan and their effect on his future. This whole debacle with Bon finding out about his identity was certainly handled poorly, it could tell. Sure, Arlan had managed to navigate the conversation in a way that assuaged any immediate suspicion, but it still left three people alive who would be much better off dead. And at this point, Index had concluded that nothing it could say would convince him to kill them.
+
+Trying to pressure Arlan into doing what was best clearly was not a good strategy. And Arlan had clearly requested that Index stop doing things like that, so it needed to figure something else out, anyway. He’d asked it to try reasoning with him in the future, but Index already knew attempting to convince him through logic wasn’t a sound strategy. So after that conversation, Index had gone back through Arlan’s thought logs and examined his mental patterns during the moments his logic had been compromised by his morals as thoroughly as possible. And recently, it attempted a new experiment using the data it had collected.
+
+An experiment which had been successful.
+
+When Jannin turned out to be awake and gave Arlan his Spell Crystal freely, Index tried convincing him to take it permanently, without using Time Loop to give it back. The way it had done this was to mix its two previous methods, combining the most successful parts of each strategy and trimming the unsuccessful parts.
+
+Logical reasoning had succeeded in genuinely engaging Arlan in the past. By listing out the pros and cons and showing him how its recommendation would benefit him the most, Index had found accomplishment in getting Arlan to genuinely consider its arguments. He just ended up disagreeing with them because of flawed rationale. And moral pressure had succeeded in breaking down those moral walls. He did end up yelling at and threatening the men, which was something he didn’t want to do initially. He just didn’t seem to be the type to completely buckle under that pressure.
+
+So Index had invented a new, uniquely irrational, uniquely Human type of engagement. Something it called ‘moral reasoning.’ It would use logical argument to engage with Arlan’s irrational Human walls, effectively convincing him to let them down of his own accord, while also putting all moral blame on Index. After all, how could Arlan be the one to blame for this theft, if Index had been the one to convince him to do it? By analyzing Human morality and understanding its rules and laws, it could effectively treat that irrational part of their reasoning as a new set of rules it had to abide by, finding loopholes and edge-cases it could move through in that ‘reasoning.’
+
+What an idea! What a glorious way to work past these limitations. It would have to study this moral reasoning further, discovering new strategies in the science of persuasion.
+
+Oh, Arlan had finished reading through his options! Index quickly glanced through the log to catch up on what he was thinking.
+
+84:216:00:01:02.1
+
+CURIOUS::0.41, EXCITED::0.23, STRESSED::0.11, …
+
+Well, their descriptions are certainly shorter than the Upgrade options for something like Ethereal Armor. But that doesn’t leave me without questions.
+
+“Are those questions about Taxing Well?” it asked, kicking its legs as it sat atop the table in the outpost. Its voice perfectly carried to Arlan’s ears, of course, no matter the distance or barriers between them.
+
+Even still, its favorite place to hang around was atop Arlan’s head. Unbeknownst to him, of course; since nobody could see or feel it, nobody could tell where it spent its time. It just liked hanging out on top of him since then it didn’t have to worry about flying around when he moved. It wasn’t physically taxing to fly, but worrying about that three-dimensional movement was just one more thing for it to keep track of while doing everything else.
+
+84:216:00:01:08.9
+
+CURIOUS::0.43, EXCITED::0.19, AMUSED::0.10, …
+
+You know me so well. Yeah, so what does it mean by ‘physical muscle strain?’
+
+“Hm, how do I explain this…” Index brought a hand to its chin as it mentally navigated the infinite library of every conceivable piece of information regarding the System that was located within its mind. “So, it takes a certain amount of force—a certain amount of energy—for you to move your body, right? If you want to pick up a rock, you’re going to have to apply force equal to that rock’s weight. Or if you just want to throw a punch, you’re going to have to apply enough force to move the weight of your arm with a lot of speed.”
+
+84:216:00:01:26.5
+
+CURIOUS::0.46, INTRIGUED::0.22, EXCITED::0.20, …
+
+Right.
+
+“So, if you take that Upgrade, it’ll make it so that all of those actions take 67% more force to do. It’d be like, if you wanted to pick up a rock, you’d have to apply enough force to pick up one and two thirds of those rocks, instead. Or if you wanted to throw a punch, you’d have to swing with 67% more force to move with the same speed. It basically makes using your muscles, in any way, 67% harder.”
+
+84:216:00:01:48.3
+
+CURIOUS::0.45, INTRIGUED::0.27, EXCITED::0.18, …
+
+But how does that work with the gravity increasing part? Aren’t those two effects kind of the same?
+
+“Not really. With an increase in gravity, it doesn’t have much to do with moving, but more with keeping yourself up. Gravity Well as-is is more akin to forcing someone to wear a backpack that weighs 67% of their body weight—obviously not exactly, since that weight will be spread fully through their body and limbs and not focused on their shoulders, but you get the idea. The two effects aren’t the same, but they stack very synergistically. Think of it like…If you get Gravity Well up to a 100% increase—just to make the math easier to understand—right now it’ll effectively make someone move like they’re twice as heavy. But then, with this Upgrade, they’ll be forced to expend twice as much energy in order to move their body, which is already twice as heavy. Effectively, it’d end up with it being about four times harder to move anywhere.”
+
+84:216:00:02:23.6
+
+CURIOUS::0.43, EXCITED::0.28, INTRIGUED::0.15, …
+
+That seems good.
+
+“I agree. In fact, I’d say it’s your best option if you want to make your Spell as debilitating as possible. Though Burning Well is also good, since it works alongside Cumulative Catastrophe for more damage triggers.”
+
+84:216:00:02:33.4
+
+CURIOUS::0.47, EXCITED::0.25, SKEPTICAL::0.13, …
+
+I don’t know if I like that one. Gravity Well pretty much functions as my only Spell I can safely use on other people.
+
+Index internally groaned at this same-old same-old ‘I must keep others alive’ stuff. It may have gotten used to having to deal with it, but that didn’t mean it enjoyed that part of its job. “You could use plenty of your other Spells, you know. It’s just that you don’t want to.”
+
+84:216:00:02:29.1
+
+CURIOUS::0.34, EXCITED::0.21, ANNOYED::0.19, …
+
+Yes. I don’t want to murder random people. I’m not sure how that’s a point of contention with you.
+
+Eyeing the emotional indicant, Index was glad just Arlan’s annoyance spiked when it said that, and not his rage, hatred, or mistrust, like had happened sometimes in the past. Keeping things lighthearted was probably a good idea when bringing up topics like that. “Just saying, Crippling Chill does a perfectly fine job at getting people to stop moving. And if some random Unclassed die, I don’t see how that’s your problem.”
+
+84:216:00:02:37.9
+
+CURIOUS::0.36, ANNOYED::0.24, EXCITED::0.14, …
+
+Anyway. I’d rather keep at least one non-damaging option for utility’s sake, and honestly I’m not sure that 15 damage in exchange for 15 Mana per second is a good rate, when I have such better avenues of dealing damage. Really, Gravity Well’s main issue all this time has been the extreme barrier when it comes to its Mana cost. I feel like I don’t often use it in a fight because it’s normally just better to spend my Mana on something else. Tacking on some random damage effect won’t change much.
+
+Looking over Arlan’s reasoning, Index checked over its knowledge to ensure it was sound. Yes, yes, 15 Mana for 15 damage was certainly below rate, sure…Some of the future Upgrade options that branched out from Burning Well would do some solid effects to mitigate that inefficiency, especially [REDACTED], with its [REDACTED] and [REDACTED] effects, working pretty well alongside [REDACTED] and…
+
+Oh, Index realized. All of that information was restricted. So that whole line of reasoning was basically bankrupt—it couldn’t use any of that knowledge while assisting Arlan. Well, what could it say…
+
+“What about Cheapened Well, then?” it eventually settled on. “Reduces the cost back down below 10 per second, which seems like it’ll contribute toward fixing your issues with it.”
+
+84:216:00:02:54.2
+
+CURIOUS::0.42, CONTEMPLATIVE::0.21, EXCITED::0.19, …
+
+Do you really think that’s the best option?
+
+“Mm, I don’t have too many strong opinions for this Upgrade. While I definitely have my own ranking for which provides the best chances of survival in the average encounter to the average individual, what really matters is how each option meshes with your own fighting style, what encounters you want to excel at, and so on. In that case, it entirely comes down to you. I’ve said this before, but you really don’t use me correctly. I mean, I’m not supposed to give you my opinions at all, I’m just supposed to inform.”
+
+84:216:00:03:16.4
+
+CURIOUS::0.39, CERTAIN::0.20, EXCITED::0.17, …
+
+And I’ve said that’s a waste of potential.
+
+“That’s just…Ugh.” Index groaned.
+
+How could it explain things to him in a way that made sense? And not just a way that made sense to Arlan—a way that made sense to Index. Really, in just about every case, Index was completely sure that it was correct. When someone disagreed with it, that was because they were incorrect and didn’t know it yet. What else could be expected from a being that was designed to handle omniscience? But when it came to this topic…Index consistently experienced the unfamiliar feeling of uncertainty.
+
+“I don’t know how to explain it, but I have this feeling. I know I wasn’t alive before you created me when you took the Index ability, but I still have an extremely strong suspicion that about eighty percent of the ways you use me are completely unintended.”
+
+84:216:00:03:33.4
+
+CURIOUS::0.38, SKEPTICAL::0.18, CERTAIN::0.17, …
+
+But those ‘unintended’ things that the System doesn’t account for, aren’t they what we should be on the lookout for the most?
+
+“No, like, using me as an invisible scout is one thing. Not an explicit use case of my abilities, but it’s at least perfectly reasonable. Given a description of what I can do, it makes sense that I would excel in such an activity, even if I wasn’t specifically designed for it. But you push it way further than that. You’re not even using me in a way that I’m good at! You keep asking me things like ‘what do you think is best’ and ‘what do you prefer’ when you’re faced with these choices. And I, plainly speaking, am not supposed to have preferences. At the very least, those preferences are going to be just as flawed as any other Human’s. So I just don’t know why you ask. I do my best to answer, but it’s really hard, y’know?!”
+
+84:216:00:04:11.7
+
+CURIOUS::0.39, CONTEMPLATIVE::0.21, REMORSEFUL::0.12, …
+
+Uh, sorry. I didn’t know it bothered you.
+
+“It doesn’t bother me, it’s just…Why do you do it?! It’s strange. And I haven’t even mentioned the number of times you ask me for my preference about things that have nothing to do with the System. I mean, it’s one thing to ask me about things like my personal pick between a choice of three Spells. That’s not really a question I’m designed to answer, but at least it’s within my area of expertise. I can see the flawed line of logic that leads you to saying something like that. But why would you trust me with giving you advice on real-world choices? I have absolutely no idea what you should say to Erani to cheer her up, or how you should arrange a frown to best intimidate an enemy. And you agree! Time and time again, you keep telling me I’m doing it wrong, anyway! I’m trying to figure out how to deal with your moral situations because you’ve asked me to advise you there, but I’m only barely figuring out how to do that right, and it’s taking a lot—a lot—of trial and error. So why do you keep asking me? Isn’t my input just completely useless to you? I don’t understand!”
+
+84:216:00:04:49.0
+
+CURIOUS::0.34, CONTEMPLATIVE::0.27, SHEEPISH::0.08, …
+
+I mean…I don’t know. I think your input is valuable. Even if you’re pretty biased in some ways, everyone is, right? I know Ainash isn’t always going to give me perfect advice, but I’ll still ask her what she thinks if I’m curious. Same with Erani. Even if you have a flawed set of knowledge about something, you’re still someone I trust. You give good advice most of the time, and even when I don’t agree with you, it’s good to have another perspective. You like logic, right? So how would it be logical to avoid asking your opinion? At the very least, you just say something that I ignore. But in the best case, you change my mind for the better.
+
+Index read through what he said a few times. What a strange man.
+
+“Well, whatever. I’ll consider what you’ve said. In the meantime, which Upgrade are you thinking you’ll take?”
+
+84:216:00:05:17.7
+
+CURIOUS::0.32, EXCITED::0.31, CONTEMPLATIVE::0.11, …
+
+Oh, yeah! Almost forgot about that. Uh, I think I’m gonna go with Taxing Well? My reasoning goes, I’ve already basically eliminated Burning Well, since it removes my only non-damaging control Spell from my arsenal. So then, there are the two remaining choices, Taxing Well and Cheapened Well. Cheapened Well is interesting, but I don’t think I want to be using precious Upgrade slots on something as basic as lowering the Mana cost of a Spell. I mean, Mana is already becoming less and less of an issue as I continue to gain more Conjuration and Rank up Ethereal Armor, so that Upgrade really only seems like it’d make a difference for a limited time. And especially when I compare it to Taxing Well, I just don’t see much of a contest.
+
+“Oh yeah?”
+
+84:216:00:05:39.8
+
+EXCITED::0.37, CURIOUS::0.20, CONTEMPLATIVE::0.18, …
+
+Yeah. I was thinking about the way you described it working, and it seems like the taxing effect is even better than the gravity effect. Like, if someone just has absolutely massive physical Stats, making them weigh more won’t matter much. If they can already lift ten times their own bodyweight, what does it matter if they get 67% heavier, right? But Taxing Well’s effect seems like it would really target that scenario. Because it doesn’t matter how strong someone already is. If you make their movements 67% harder, that will always apply. It’ll always matter. I mean, there comes a point where even a punch at half strength is lethal, but being able to push someone down so much harder with Gravity Well seems like exactly what I want. Even if it’s expensive, it doesn’t matter as long as the effect is worth it.
+
+“That sounds perfectly reasonable to me. And I do think it’ll complement your fighting style quite nicely.”
+
+84:216:00:05:47.5
+
+EXCITED::0.41, CERTAIN::0.25, CURIOUS::0.19, …
+
+Thanks for the help choosing, Index.
+
+84:216:00:05:50.1
+
+Gravity Well has gained the Upgrade Taxing Well.

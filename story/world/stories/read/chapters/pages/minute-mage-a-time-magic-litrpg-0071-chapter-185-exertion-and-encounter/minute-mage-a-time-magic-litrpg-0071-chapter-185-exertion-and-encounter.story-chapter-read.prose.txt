@@ -1,0 +1,141 @@
+Once I was on the road, heading back for town, I decided now was as good a time as any to practice Gravity Well. It was still at Rank 10 while my Soft Cap was Rank 11, which meant I could easily push it up by one more.
+
+So, as I walked, I went ahead and did that. Gravity Well required a target, and there was nothing else around to hit, so I just used it on myself.
+
+The moment I toggled the Spell on, a wave of disorientation hit me. I’d used the Spell on myself in the past, so I thought I’d be able to anticipate what it would feel like, but I was completely wrong. Before, the Spell was low-Rank enough that it only increased my gravity by twenty, maybe thirty percent at its most. But in the time that’d passed since then, it increased all the way up to near seventy. That difference was massive.
+
+Really, the only reason I didn’t collapse on the spot from the surprise was because of my Stats—Endurance helped me withstand the initial shock and Dexterity helped me find my footing, but of course Strength was the main assist in this case, allowing my legs to not collapse out from under me. At 36, my Strength had gotten to the point where I’d probably ended up being a good deal stronger than the average Unclassed. Since it added onto existing muscle, it also helped that I was already in good shape from my past training to become a Swordsman.
+
+However, despite how extreme the effects of the gravity increase were, they were nothing compared to the new Taxing Well Upgrade. Index had attempted to explain exactly what it did, and I thought I’d understood, but no matter how it had been explained to me, I didn’t think I could have ever anticipated this feeling. It was similar to the sensation one would get while submerged in the water—every single movement I made felt so much harder to make, and the harder I tried to move, the more my own body seemed to resist.
+
+And, of course, at least underwater you’d be weightless, not having to worry about keeping yourself standing. But now, not only did I have to deal with standing up under these weakened conditions, but I also had to deal with the increased gravity from the original effect of the Spell.
+
+It was the perfect storm of effects, completely ruining my ability to walk. I did try to keep moving, of course, since it felt like a good idea to get a grasp of what fighting under the Spell would be like—the better I understood how my enemies would feel, the better I could exploit that during a fight—but it felt like my pace was instantly cut to a quarter of what it would have been. Every step was exhausting, requiring my full exertion just to drag my body forward, and I found myself quickly taking breaks to catch my breath every time my feet found the dirt.
+
+“Good gods,” I muttered, breathing heavily. My hands were planted on my knees to help support the crushing weight on my back. “Index, you didn’t tell me how fucking tiring this would be.”
+
+“The Upgrade is very literal when it says ‘physical muscle strain is increased.’ It makes your body work that much harder to do the exact same thing. You’re basically doing some very extreme endurance training right now, like walking with eight bags of sand strapped to your chest.”
+
+I chuckled, sweat forming on my brow. “Well, I guess if I ever want to work out, I’ll just use this Spell on myself while I walk around.”
+
+“That technically isn’t a terrible idea, if you have the spare Mana. Doubling muscle strain would, by natural consequence, double muscle development.”
+
+“Guess that’s even more of a reason to try and raise my Mana regen,” I said, grunting with each footstep.
+
+After about a minute of walking under Gravity Well, it gathered enough Spell XP to finally Rank up.
+
+Threshold reached. Gravity Well XP has reached 461.
+
+Gravity Well Rank has increased to 11.
+
+Due to Gravity Well Rank reaching 11, it has undergone the following changes:
+
+Mana Cost: From 15.9 to 16.3
+
+Gravity Increase: From 67% to 74%
+
+Instantly, I shut the Spell off, not wanting to endure any more of that. Gods, I’d never really stopped to think what it must’ve been like for my opponents. When all of the debuffs were stacked on them, plus the Stamina drains, it must have been like living in the hells to fight under. And I’d only tasted a single one of those Spells.
+
+As I recovered from that, I decided I should also go ahead and send a message to Ainash. It’d probably be a good idea to inform her and Erani that I was headed back into town, after all.
+
+I closed my eyes and focused, putting in the extra mental effort it took to send messages over long distances. Eventually, I got through. “Hey, Ainash, I’m walking back in your direction now. Do you mind telling mother? I’ll just be planning on meeting her in the Human town.”
+
+“Okay! Mother is actually staying with me right now.”
+
+“Wait, what? At your Goblin house thing? Why?”
+
+“Um…Did not want to tell you while you are doing important thing with mean Humans. Did not want to distract you. But…I am in trouble.”
+
+“In trouble?”
+
+“Yes, mother is mad at me.” I could tell from the tone of the message, Ainash was unusually sheepish right now. Like she was embarrassed to tell me.
+
+“Why?”
+
+“I…um…tried to kill Goblins.”
+
+“What do you mean?”
+
+“Um…let me ask mother. Do not know how to tell you.”
+
+There was a pause, and I frowned. What was she talking about? I mean, killing Goblins didn’t exactly seem like a big deal to me, honestly.
+
+“Um, so, what mother told me to tell you, is, when I talking about ‘pets’ like making Goblins into my pets, I am not saying pets. If I wanted to say pets, I would say this:” Ainash then said a new word which I could tell also meant ‘pet.’ “What I have been saying is, um…when you have someone you train to fight for you, to do things you tell them to do, to fight in army for you.”
+
+“A soldier?”
+
+“Yes! Want Goblins to be my soldiers! My pet soldiers! They will fight for us and kill bad guys!”
+
+I nodded slowly. Really, that didn’t change much when it came to what Ainash was doing here. I mean, she’d already been talking about how she wanted the Goblins to fight for her, so it was basically the same thing. Plus, the Goblins were fully thinking creatures. It wouldn't be like the way a farmer kept cattle, that was for sure. So…sure. Soldiers.
+
+“Father, you do not seem very surprised.”
+
+“I guess I’m not. I mean, it makes basic sense why you’d want soldiers. Did you think I’d be surprised?”
+
+“Yes, mother was very surprised!”
+
+“Why?”
+
+“Well, was talking about how was training Goblins to be my soldiers. Put them in a deep hole and whenever they are bad, I throw rocks at them so they are not bad anymore.”
+
+“You throw rocks at them?”
+
+“Yes! And when was talking to mother, one Goblin was very bad. It threw rock at mother! So I went to kill it.”
+
+“Seems like the right move. Definitely can’t keep something alive if it’s trying to hurt her. I mean, they don’t even know how strong she is, so they could’ve killed her without knowing it. No sense in rewarding that behavior.”
+
+There was a moment of silence from Ainash, then she said, “Really think so?”
+
+“Yeah. If you’re trying to get these Goblins to fight for you, then you should probably make sure they don’t end up trying to kill us, right?”
+
+“That is what told mother! She stopped me from killing Goblin, though. And now is mad that I tried to kill it. That is why she is staying with me. To make sure I do not kill Goblin.”
+
+I blinked. Oh. Did I accidentally just give her ammunition to argue against Erani with? “Uhh, you should probably just do what mother says. I mean, the Goblin tried to attack her, right? So she should have final say over whether or not that Goblin gets punished. Maybe you can just make sure it knows you don't want it to throw more rocks some other way?”
+
+“Mother keeps saying I should treat Goblins more nicely but that does not make sense! I am being nice to Goblins by giving them better home and taking them away from Dragon and helping them fight bad guys!”
+
+“I think she means you should be nicer to them individually. Like, it would be mean to that one Goblin to kill it, right?”
+
+I got a sense of confusion from her. “But I am being nice to all the Goblins. Sometimes some Goblins need to die. Like all animals. Being nice to one single animal does not make sense, because doing that just means you will hurt other animals. If you are nice to prey animal by helping it avoid predators, then you are being mean to predators. If you are nice to predator, you are being mean to prey. So cannot just help one Goblin, because then will be being mean to other people. Like mother! And do not want to be mean to mother by letting Goblins hit her with rocks!”
+
+“Hm. Well I’m not sure what I can tell you here. I don’t think she wants you to kill the Goblins when you’re trying to help them.”
+
+“...Okay. Will do what she says. But she will not be in Human settlement when you go there, because she is with me right now. She will come back later!”
+
+We said our goodbyes and ended the line of communication. What the fuck had Ainash gotten herself into? Clearly Erani didn’t appreciate her attitude when it came to the Goblins, enough that she didn’t even trust Ainash enough to leave her alone with the things. Which was completely understandable—in fact, I was left wondering if Ainash had already done a similar thing to a few others. How many unsuccessful attempts at capture had there been before she found the two that she had trapped now? Occasionally I forgot just how easily that kid could decide to just kill someone.
+
+But for now, I just continued walking.
+
+The hours passed and I eventually made it back to town. In the time that passed, I continued practicing Noxious Grasp, pushing its Spell XP higher and higher, until it finally reached the next threshold.
+
+Threshold reached. Noxious Grasp XP has reached 2.49k.
+
+Noxious Grasp Rank has increased to 17.
+
+Due to Noxious Grasp Rank reaching 17, it has undergone the following changes:
+
+Mana Cost: From 5.45 to 5.59
+
+Health Drain: From 21.8 to 22.9
+
+Stamina Drain: From 10.9 to 11.4
+
+For Rank 18, I’d need 3.03k Spell XP. And then there were just two more Ranks after that until 20. Getting close.
+
+Ainash messaged me along the way and said that Erani was coming back into town soon—apparently they had a nice, long conversation on why murder was bad—so I said I’d meet her back at our room in the guild. But while I waited, I ran a couple errands. Primarily, I went out to turn in my full Mana Battery and grab a new one from the teleporters.
+
+With the first one done, I still had nine more to go. It felt like a lot left, but I hoped that the time would pass more quickly now that we’d finished settling into this place. Just do some work, get some money, fill some batteries. Didn’t need to be too complex.
+
+Once I’d gotten that, I just went back to the room to wait for Erani. It was nice to lie down on the bed and get some rest, honestly. So I just closed my eyes and waited.
+
+It wasn’t much time before a knock sounded on my door. Strange, I would’ve expected Erani to be a little longer. But whatever, I stood and walked over, swinging the door open.
+
+“Hey,” I said, “how was—”
+
+I stopped. Standing in front of me wasn’t Erani. It was a group of four people. Adventurers, obviously, considering their equipment—this was…two Melee-Types, a Ranged, and a Magic. Decent gear, especially on one of the Melees. He stood at around my height, clean-cut hair and a pale face, with the other Melee standing two heads taller than me, seeming more a pile of muscle straining under his dark skin than an actual Human being. The Ranged and the Magic were shorter women, standing with a bow and a staff, respectively.
+
+What in the hells were these people doing here?
+
+“...Hey,” I said, “wrong room.”
+
+The Magic-Type frowned, looking down at a paper in her hands, long black hair swaying with the movement, then peered back up at me. “No, I think we have the right place. We’re looking for Annor Ton. The foreigner. Is that you?”

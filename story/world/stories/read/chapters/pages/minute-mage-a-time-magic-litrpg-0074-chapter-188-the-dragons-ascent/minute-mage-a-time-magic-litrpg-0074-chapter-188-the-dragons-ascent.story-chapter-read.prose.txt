@@ -1,0 +1,151 @@
+Step one was blowing up the building.
+
+Erani was the one in charge of that. We circled around the Goblins’ base, using Index to find the spot with the easiest path through to the Young Dragon’s lair, and then once we found it, we all got into position, and Erani struck.
+
+Erani’s Explosive Firebolts tore through the logs making up the flimsy palisades. They smashed the outer wall to shrapnel, then through the room connected to it, and blew a hole straight through the next wall, then the next and the next, until instantly the Dragon was in sight. It was far off—we were making full use of Erani’s over seventy-five pace range on her Spell here—but I could just barely see the hide of the Dragon within its treasure room. A few Goblins within the base began ringing the alarm bells following the explosion, but that was fine. We had the attention of the one that mattered, and the Goblins weren’t about to risk their lives to chase after some random Humans that weren’t even here for them.
+
+An ear-shattering roar bellowed from inside the base, and I watched through the holes in the walls as the body of the Young Dragon stomped along, turning around. Its face stuck right through the hole, enraged eyes staring straight at me and Erani.
+
+It gave a screaming roar once again, taking to the skies. The other four adventurers—along with Ainash—were currently nowhere to be seen, so Erani and I looked like quite the easy pickings, I had to guess.
+
+The body of the beast rose above the tall walls of the outpost and then it gave a powerful push with its wings, soaring straight for us.
+
+And then Erani and I did the only sensible thing. We ran.
+
+We turned and darted off into the woods behind us, leaping over fallen branches and any traps Index spotted—though, of course, this was a practiced route we were running, so we didn’t encounter anything unexpected—and the Dragon followed, hot on our trail. With a bellowing exhale, it breathed out a cone of flame, incinerating everything in its warpath behind us. But Expedite combined with our natural Stats allowed us to just barely keep ahead of the destruction.
+
+It took about a minute and a half, but we eventually made it to our destination: a clearing that was located somewhat nearby to that original Goblin outpost. The open grass hills greeted me, and I stopped. Erani, with Distortion Strike active to easily hide herself in the midnight darkness, had already dashed off to safety, leaving me the only one remaining in the path of the Dragon. I turned to face it as it got closer and closer, breathing fiery hot destruction as it neared the ground to give me the full brunt of its attack.
+
+And just as it got within range, I gave it the full brunt of an attack of my own.
+
+You have cursed Level 22 Young Dragon with Crippling Chill. For the next 15 seconds, it loses 7.76 Health and 6.21 Stamina each second, and its Dexterity score is lowered by 15.5.
+
+56.2 Mana Cost. Your Mana is 1130.
+
+You have struck Level 22 Young Dragon for 60 damage using Ray of Frost.
+
+You have cursed Level 22 Young Dragon with Ray of Frost. For the next 5 seconds, its Dexterity score is lowered by 7.76.
+
+25 Mana Cost. Your Mana is 1105.
+
+Crippling Chill, Ray of Frost, and my newly-improved Gravity Well hit the beast all at the same time, each one impacting it more than the other. Honestly, I wasn’t totally sure how much effect the limited Stat drain had, but after feeling Gravity Well on myself, I had a very tough time believing that wouldn’t do at least something.
+
+And it seemed like it did, indeed, do something. Instantly, the Dragon lost control of its wings, suddenly finding it much harder to keep itself afloat in the air or even control the direction it went. Right when that happened, I leapt out of the way to avoid the monster’s sweeping breath of flame.
+
+You have been burned. 49 damage.
+
+Due to Heat Resistance, damage has been reduced to 31.8.
+
+Your Health is 538.
+
+Not a perfect dodge, but it did the job. I’d avoided any major damage, and I turned around to watch the Dragon crash into the terrain. It sank through the air like a rock, and fell straight into the side of the hills, demolishing it and shaking the entire earth with its landing.
+
+It was out of range of Gravity Well by now, but at this point the disorientation of the crash landing was doing the Spell’s job for me, keeping the thing from taking to the skies once again.
+
+And now that it was on the ground, the four adventurers came out of the woods to strike. Entismo and Boy, the Swordsman and Berserker, came to face the beast’s front—though Boy was the one clearly meant to draw its attacks, while Entismo seemed to take on a more graceful approach, attempting to avoid aggression while poking in for damage any time the monster looked weak.
+
+In the meantime, Sylvie peppered the thing with her specially-prepared arrows, keeping her location unknown through a mixture of stealth, keeping her hidden within the trees, and movement, so each arrow came from a new location.
+
+And finally, Aliss played the role of support. She didn’t necessarily have healing or buffing Spells for her allies—it seemed the Spell path that led into Demon summoning didn’t allow for that—but she certainly had a cocktail of nasty effects for the Dragon to deal with. Fiery phoenixes flew from her staff, colliding with the monster and setting it alight. Then a barrage of lightning came down to smite it from the skies, each strike seeming to temporarily paralyze it, followed by a rain of stones that left its natural hide armor cracked and weakened.
+
+And, of course, there was Ainash.
+
+She leapt from the trees the moment the Dragon touched the ground, seeming more excited to take on such a powerful foe than anything. I could feel her enthusiasm from here. Every frenzied lash of her whip was lit bright with the fire bestowed upon her by Astintash’s Tribute, something that this Young Dragon seemed to recognize and be quite enraged by.
+
+It snapped and bellowed breaths of fire at her, but her graceful dodges left it eating nothing but air. She’d hit it, and it would retaliate, and she’d respond by leaping straight onto the thing’s back, striking down at its neck. And it would try to shake her off, but she was already gone, now going for an attack at its underside. Surrounded by all of these threats, the poor Dragon was left constantly playing catch-up.
+
+However, despite all of these sources of attack, the notoriously tough defenses of the beast didn’t seem to relent. And even with all of their countermeasures, the team did occasionally take a hit. Boy, of course, was meant for such a thing, with the Berserker’s extreme Health regeneration, but occasionally he would be hit by something a bit too hard, leaving him flying back and completely incapable of protecting his teammates.
+
+And in those brief periods of time where the monster’s attention wasn’t being dragged away by an annoyance, it was free to terrorize the rest of the members with breaths of fire and stomps from its massive body. Entismo had a close call with almost being burnt to a crisp, Aliss caught a tail whip to the chest, even Sylvie’s long range was being threatened, with the Dragon occasionally finding time to set fire to the trees and limit her options for safe cover.
+
+But they wouldn’t be so easily chipped away at like that. Because I’d just gotten back in range to use my Spells again.
+
+It barely even took a moment for me to re-enable all three debuffs I’d originally cursed the Dragon with. Crippling Chill, Ray of Frost, and Gravity Well all hit it once again, this time all 15% more powerful from Cumulative Catastrophe counting the damage triggers from the previous Crippling Chill.
+
+The beast noticeably flinched the moment they all hit it, movements becoming more sluggish and disorganized. Then it roared and spun around, using a desperate tail attack to try and push its enemies away and buy itself some time. But time was all I needed.
+
+“Foolish Humans!” it shouted, roar shaking the depths of my chest, “I will not allow you to take what is rightfully mine. To throw me around like some sort of toy. I am a Dragon. I am better than you. You do what I say!”
+
+The squad of melees were forced back by its attack, and during their hesitation, it blew out a massive cone of fire, burning the wildlife around itself and effectively creating a natural impassable shield.
+
+It growled, looking around. “Get these puny afflictions off me!”
+
+I had, of course, not relented in my Spells, meaning it was still taking its damage and being pushed down by the enhanced gravity, so I doubted its stress was lowered much by the knowledge that the timer was still ticking. And, of course, every second that passed with Crippling Chill still active, Gravity Well only pushed that much harder. By now, the Spell was up to increasing gravity and muscle strain by almost a full 100%. No way the Dragon wasn’t feeling the effects of that.
+
+It pawed at the ground. “Hmph. If you wish to take away my flight, to suppress my natural superiority over your worthless species, that is fine. I will impress my magnificence upon you another way. You Humans are so small. Allow me to show you just how tiny you are in comparison to me!”
+
+Looking down at Entismo, it stomped forward, clearly intent on stepping directly on him. He scrambled back, screaming at the top of his lungs as he sprinted off. Must’ve been a Dexterity build, with how quickly he was able to move in his panic. But the Dragon was still gaining on him as he ran across the field of fire, nimbly dodging both the Dragon’s stomps and the massive inferno that grew with every second.
+
+“M-my companions!” he yelled. “You must, you must assist in my—my peril!”
+
+I saw a few arrows fly out from the trees from Sylvie as she attempted to distract the monster, but with her haste she couldn’t find good angles of attack, leaving her hits ineffectually glancing off the beast’s hard scales. Boy was too busy dealing with fighting off the inferno encroaching on him, Aliss seemed to be out of range now that the Dragon had run off after Entismo, and Ainash…well, I was pretty sure Ainash was just standing around and watching. I’d have to talk with her about how it was wrong to use the suffering of others for her enjoyment after this.
+
+“P-please!” Entismo screamed. The Dragon was hot on his tail at this point, just about close enough to lean right down and bite him in half. “I-I beg for your assistance, my c-comrades!”
+
+I, myself, was running after them, but there wasn’t much else I could do. I already had my debuffs running, and the only other Spells I could cast would be Ray of Frost—a completely ineffectual amount of damage, compared to the Dragon’s massive pool of Health, and I already had its 8 Dexterity penalty running on the Dragon right now, anyway—and my two touch Spells, Noxious Grasp and Sanguine Bond. Those weren’t active, but I wasn’t close enough to hit the thing with them.
+
+The Young Dragon roared and snapped at Entismo’s back, its teeth just barely scraping his back.
+
+He screamed once again, this time dropping his high-class accent. “For the gods’ sakes! Just flaming help me, you assholes! Holy shit! I’m going to die! Do something!”
+
+At that moment, Erani stepped in. She walked out of the forest with her hand raised, our trump card in case anything went wrong. This whole time, she’d been saving her Mana up for any massive attacks she might need to do. This was that time.
+
+Her most recently-taken Talent, Elemental Embrace, allowed her to sacrifice some Health, Stamina, and Mana when she cast a spell to quintuple its damage. Now, a Young Dragon, with their extreme defenses, could withstand quite a lot. But the thing was, Erani could probably still dish out much more than they could take. Index had come up with the idea of keeping her in reserve, and she explained it to me like this:
+
+Right now, Erani’s Firebolt Spell was Rank 19. That meant it dealt 189 damage at its base, if it hit for its maximum. Pretty significant. But then, she also had the Primal Might Talent, which increased her damage by 50% on the Spell. So, really, it was up to about 284 damage per bolt.
+
+But then, she also had Signature Magic. We’d done some tests, and if she focused and really put her mind to it, she could reach a peak of casting about three to four Spells in a single second. She couldn’t do that for long, but if it was a small burst, she could manage. So, with four Spells per second, say we wanted to deal as much damage as possible in a five-second period. That meant twenty Firebolts in total. With Signature Magic, each successive cast of the Spell dealt 10% more damage than the last. The first would deal 284. The second, 312. The third, about 340. By the time we got all the way through eighteen of these Firebolts, that was close to triple the base damage. The nineteenth would have a multiplier of 4.2, and the twentieth 4.35.
+
+And those two were the ones she would activate Elemental Embrace on, combining the five times multiplier with the existing 4.2 and 4.35 multipliers. And the Talent also came with a burning effect for Fire-School Spells. A burning effect which dealt an amount of additional damage each second dependent on the damage dealt by the Spell. The Spell which had a damage multiplier of over twenty times its original damage.
+
+In total, before even taking into account the burning effect, adding up all twenty Firebolts cast, this technique could deal 17,551 damage.
+
+In five seconds.
+
+It almost entirely drained Erani’s Mana reserves, it did entirely drain her mental stamina, and Elemental Embrace also pulled from her Health and Stamina supply on top of it all. But holy shit, it was quite the strategy. Made me really respect what it meant to be able to sit down and research every single tiny choice you made with your Class ahead of time, planning every number out in advance, taking every possible permutation into account. You got what was literally the theoretically best damage output that could be achieved using your Class at that Level.
+
+So when she pointed her hand at the Young Dragon, I slowed in my pursuit, waiting for the hells to come to earth.
+
+And then the barrage came.
+
+The Firebolts blasted straight into the side of the Young Dragon, knocking it back as its scaled hide did its best to protect it from the damage that came. But it wasn’t enough. By the first second that passed, about 1300 damage had been dealt. The beast attempted to twist its body to avoid the rest of the Firebolts and continue after Entismo, but the mixture of my existing debuffs interfering with its movement and the blasts of the Firebolts keeping it from finding its footing prevented it from ignoring the attack.
+
+By the second second, it was over 3000 damage. The Dragon clearly forgot about Entismo, leaving him to scramble off to safety, now turning its attention toward preventing itself from taking on any more damage from the unrelenting force. It roared out in pain as its massive body was pushed back, leaving massive indentations in the earth where its claws dug into the dirt in an attempt to control its movement.
+
+By the third second, the beast had taken well over 5000 damage. It completely gave up on dodging the rest of the attack, instead turning so that its spined back—the toughest part of its hide—was facing Erani. It had surrendered to riding out the wave of pain.
+
+The fourth second was close to 8000 damage. The Dragon flipped over from the insane power of the damage-boosted explosions, rolling up against a hill as its body was pushed around by Erani like a puppet. She was screaming now, her own shout combining with the deep roar of the Dragon—though hers was from mental exertion, where its was from fear and pain.
+
+And with the fifth second came the pair of fully-boosted Firebolts, taking on every multiplier Erani had available to her and clearly much larger and more intense in their flames. They soared through the air, the crescendo to her song of Dragon’s screams, and blasted against its vulnerable belly in a punch I was sure the poor beast would carry with it for the rest of his hopefully short life.
+
+17,551 damage.
+
+The adventurers looked on in awe—as did I, honestly—as Erani, breathing heavily and sweat dripping from her forehead, collapsed to the ground. The only sound for several seconds was Ainash’s light footsteps in the grass, rushing over to check on her mother, and the roaring flame that was currently alight on the Dragon’s unmoving body. Entismo was the first to say anything, laughing.
+
+“Ha, ha ha! Take that, oaf!” he shouted at the rolled-over monster. “I-I hath made a fool of you! My, my plan all along was to—”
+
+It shifted, rolling back over, on its feet again and growling a deep snarl that instantly forced the Swordsman’s face slack.
+
+“Oh dear.”
+
+“You have disrespected me to too much of an extent, Humans!” the Dragon shouted, whipping its head around to look at us. It prepared its wings to take to the air. “If you insist on going to war, I will bring the war to your species! I will slaughter your wives, I will raze your cities, I will bring chaos to your people! You will understand the meaning of the word despair, and only then will I allow you the mercy of death.”
+
+While it was busy making its dumbass threats, I was sprinting right up to the beast. Just as it flapped its wings, forcing itself off the ground in defiance of the heightened gravity, I jumped straight onto its leg, climbing up its hide as it continued to push itself higher into the air. Since I didn’t have Noxious Grasp active, it got no System notification that I was on it, and I suspected the pain from the fire still ablaze on its skin was so great that a simple person holding onto a leg was the least of the sensation it was feeling right now.
+
+It soared up, higher and higher into the air, and I even let up Gravity Well to give it the illusion that it’d gotten out of my range. And to allow it to move even further into the sky.
+
+“I know what you’re planning,” Index said.
+
+You think it’s a shit idea?
+
+“No, I fully support it. Probably the best move here. That said, I will warn you. You might survive this, but even if you do, it is going to hurt really, really bad.”
+
+Well, I’ve died a few times now, so I’m pretty much used to it.
+
+“Just don’t say I didn’t warn you.”
+
+Sure.
+
+I looked down at the quickly-disappearing earth as we flew higher and higher into the sky. From the rapidly-dropping temperature, it seemed like the Dragon was currently trying to fly high enough to put out the fire still raging on its back. Our altitude increased more and more, until I was satisfied and ready to move to the plan.
+
+Okay, let’s drop this motherfucker back to the ground.

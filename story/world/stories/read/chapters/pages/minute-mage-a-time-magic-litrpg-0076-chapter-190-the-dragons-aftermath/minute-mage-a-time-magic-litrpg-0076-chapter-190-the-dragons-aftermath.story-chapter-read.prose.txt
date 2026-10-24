@@ -1,0 +1,245 @@
+When I awoke, my first thought was why in the hells I thought that was a good idea.
+
+I was alive, thanks to Dark Plate; I got away from the whole thing with just some bruises and burns. But good gods did it hurt. The entire side of my body I landed on—and, honestly, most of the part that I didn’t land on—ached so horribly I was surprised I was still able to move.
+
+I took a few breaths before forcing myself to sit up, looking around. Behind me was the carcass of the Dragon, lying in a crater with knocked over trees and scattered dirt and rocks all around.
+
+“Ugh,” I said, stretching. “That sucked.”
+
+“I never said it’d be pleasant,” Index responded.
+
+“Yeah, yeah, I know. My idea anyway.”
+
+I’d already turned on Regenerate to start healing up some of the Health loss—I was at a pretty dangerous level, so I was glad to sacrifice some Stamina in exchange for fixing that. And while I waited to heal, I looked through my Status, looking to see what’d changed since the Dragon was killed.
+
+Name:
+
+Arlan Nota
+
+Age:
+
+20
+
+Strength:
+
+37 (23 + 14)
+
+Class:
+
+Minute Mage
+
+Level:
+
+21
+
+Endurance:
+
+59 (45 + 14)
+
+Class Type:
+
+Magic
+
+XP:
+
+437/3.5k
+
+Dexterity:
+
+38 (24 + 14)
+
+Health:
+
+91/590
+
+Health/Minute:
+
+0.221
+
+Conjuration:
+
+124
+
+Stamina:
+
+46/289
+
+Stamina/Minute:
+
+1.87
+
+Intelligence:
+
+29
+
+Mana:
+
+183/1.39k
+
+Mana/Minute:
+
+91.6
+
+Stat Points:
+
+3
+
+Spells:
+
+Talents:
+
+Titles:
+
+[Spell Choice Available]
+
+Cumulative Catastrophe
+
+Devastator
+
+Sanguine Bond 11 - XP 31/623+Hypnotic Bond
+
+Exponential Reclamation
+
+Trailblazer
+
+Expedite 9 - XP 355/355
+
+Regenerate
+
+Ethereal Armor 11 - XP 15/623+Broadened Armor
+
+Recursive Growth
+
+Gravity Well 11 - XP 4/623+Taxing Well
+
+Time Loop 21+Extended Loop+Recycled Loop
+
+Ray of Frost 9 - XP 355/355
+
+Crippling Chill 9 - XP 355/355
+
+Noxious Grasp 17 - XP 62/3.03k+Venomous Grasp
+
+“...Shit,” I said. “I Leveled up. I guess I knew it’d happen, but still.”
+
+“You don’t like that you’ve Leveled up?”
+
+“Well, I guess it’s fine, but I still had some more Stats I could’ve gotten out of Recycled Loop. Feels like a waste to have not gotten them. What all did I get, anyway? I can’t see the notification anymore.”
+
+“You can see most of it in your Status. But Recursive Growth gave you one of each Stat, and two in Conjuration. Oh, and, of course, you’ve hit your next Intelligence threshold!”
+
+“Hm?”
+
+“For the Trailblazer Title! Y’know, the thing that brought me into existence? At 28 Intelligence, it hit a new threshold for its benefits.”
+
+“Oh, shit, I forgot about that,” I said. “Before I took your benefit, it used to give me more information about choices I’d get in the future. But…what does it do now? I mean, there aren’t just going to be two of you from now on, are there?”
+
+“No, but the restrictions on what I can and can’t say to you are so much lighter now. Ugh, it feels like…well, I don’t know how I could translate it to you, since I’ve never felt anything. No way to interact with the physical world. But I’m sure if I knew how to express it to you, you’d go ‘Wow, that sounds like it feels way less restrictive. It’s a wonder that you are so smart, oh great Index, bearer of wisdom. What would I do without you?’”
+
+I raised my eyebrows. “You sure are more energetic than usual.”
+
+“I know! I’m just excited. I bet you would be too, if you suddenly got an entire portion of your mind unlocked.”
+
+“I thought you knew everything. Wasn’t that the whole thing? You’re omniscient about the System, but you just can’t say anything? So isn’t it more like…I dunno, you got a portion of your mouth unlocked? You still know everything you knew before, you can just say more.”
+
+“Hm. Not really. Again, it’s hard to explain. I definitely do know everything. But when it comes to actually attempting to use that knowledge, to take it into account when trying to assist you in making decisions, it’s like I suddenly forget it when I want to figure out what to recommend to you. That way I can’t just speak in code, or tell you to take something without telling you why. Way less loopholes around my restrictions. Well, there are still some, but there are fewer.”
+
+I tried to wrap my head around what it was saying. I wasn’t totally sure I understood, but I supposed I didn’t need to. Eventually, I just shrugged. “Well, it’s good you’re less restricted now. Is there anything you need to tell me? Like, something you’ve been dying to let me know, but you couldn’t until now?”
+
+“Only, like, a million things! Ugh, it’s so hard to decide what I should even start out on…”
+
+I nodded. “Well, while you’re thinking on that, I’ll probably go ahead and start meditating. I have a Spell Choice for Level 21, so—”
+
+“Oh, wait! That’s probably a good one to start out on. I have a solution to your problems with Leveling up! The whole ‘I didn’t get all the Stats I wanted with Recycled Loop’ thing.”
+
+“Wait, really? I can still get those Stats?”
+
+“Sort of. More like you can undo your Level-up.”
+
+I frowned. “Listen. I know I was somewhat upset about missing out on the Stats, but I think wasting all the XP by reverting a Level-up is probably worse than just losing out on…what? Six random stats?”
+
+“There are more reasons to do it than that. Really, you’re probably going to want to give up a Level at some point. It’s just that this is the perfect time to do it, since you already have something you can gain from going back, anyway.”
+
+“Wait, wait, hold on. Start from the beginning. What’s this method, and why would I want to do it?”
+
+“Well, your Draconiad, Ainash. She’s an evolution of a Nymph, right?”
+
+“Yeah?”
+
+“Nymphs can get Tributes.”
+
+“Oh,” I said, nodding. “I see. So you want me to go give one of my Levels as Tribute to her. Yeah, I mean, I considered it, but I don’t see how that’d be too helpful. With Tributes, I remember the general knowledge being that the transfer causes there to be a lot less power gained by the Nymph than is lost by the Tributer. So, like, if you lose a Level that gave you six Stats and a Spell, the Nymph might only get those Stats, maybe not even all of them, and nothing else. So wouldn’t you need there to be a super big Level gap between the Tributer and the Nymph for there to be a meaningful power increase? I doubt I’d be able to induce an evolution or anything. Feels like it makes us worse as a unit, not better.”
+
+“That’s normally the case. But Ainash isn’t a normal Nymph. She’s a Draconiad. Remember when I was advising you back when you were trying to pick between Recycled Loop and Inclusive Loop? The other choice would let you take people back in time with you. And I said…”
+
+“Oh fuck,” I said. “Wait, really? If I give her Tribute, she’ll get the ability to come back in time with me?”
+
+“Sort of. Basically, the way it works is this: When a Human Tributes to a Draconiad, they’ll get an extra perk added to their personal Bond with it. That perk allows them to transfer memories between them as long as they’re physically touching. Now, the strength and quantity of these memories are limited by the strength of the Bond, so it won’t be perfect. But if you give a Tribute to Ainash, then you’ll be able to do that. Then, before you go back in time, she can give you all of the memories she wants to keep—should just be a few hours, so it won’t be bad as long as you can increase your Bond rank some more—and then you go back, then touch her and give her all the memories she just gave you. It’s like bringing back a memory package.”
+
+“And Erani?”
+
+“All she has to do is also give a Tribute to Ainash, too. Once both of you do that, she can give her memory package to Ainash, then Ainash can give Erani’s to you, plus her own.”
+
+“Well, damn.”
+
+“Right. Feels so good to finally be allowed to tell you that. Anyway, this Level-up seems like a good time to do that, right? You want to go back and get those six Stats you missed out on anyway, and you aren’t hurting for a new Level right away. At least, you’ve got a little bit of time.”
+
+“Hm, I suppose,” I said, looking over my Status once again. “Still feels kind of bad to have to get rid of my Spell Choice, plus all the Stats I got from the Level. Counting Recursive Growth, it adds up, right?”
+
+“Oh, that’s something I forgot to mention. You will keep Recursive Growth’s Stat gains, even if you give Tribute.”
+
+“Wait, really?”
+
+“It’s tied to the Talent, not the Level. The Talent will trigger its Stat-gaining ability whenever it sees you Level up, but it doesn’t say it’ll do anything when you Level down. So it’s basically just blind to that, and it’ll give you the Stats both times. You’ll still have to wait until Level 30 before the Stat increase goes even further up, though.”
+
+I nodded slowly. “So then, other than the Spell, I guess I’m not really losing out on much.”
+
+“Right. And that, you’ll just get when you hit Level 21 the next time. And since the XP requirement to hit your next Level will go down, too, it shouldn’t take you much time. Especially if you’re out killing monsters all day, every day, as your job.”
+
+“Hm,” I nodded. “So then I guess I’m doing this Tribute thing. At least, I will once I talk it over with her and Erani. But it sounds perfect. Still, I do have the ability to at least look at my next Spell options. So if that’s possible, I may as well. Just so I’m more informed.”
+
+“You do know that looking is just going to make you annoyed that you have to wait to get the Spells, right?”
+
+“I’m not some child. I have patience.”
+
+“I can see inside your head, and I can already tell you’re just gonna get mad that you’ll have to wait a Level to take the Spells.”
+
+“Wait, are they that good?”
+
+“See? You’re already impatient.”
+
+As Aliss and the rest of her companions walked through the brush, led by that monster that’d helped in the fight, she couldn’t help but reflect on how strangely this whole day had gone. When she first saw the job flier up for those two, Annor and Eita, looking for companions for their mystery job, she’d been ecstatic. Two foreigners, who she’d be able to pick the brains of concerning the Demon invasion all day long, were in search of new partners? What luck!
+
+She’d been wanting to get ahold of some Koinkarians for some time after hearing there were some refugees floating in from the kingdom, and now there were some that were practically begging to be interviewed! And with a reward like that, the rest of her party would actually approve of her interrogation efforts.
+
+She didn’t even intend to take the job, at first. Or, at least, it wasn’t her number one priority to take it. But Sylvie and her…everything…Well, it seemed the job got taken. And now she was here. What a day. Those two, Annor and Eita, seemed pretty normal at first. But once Aliss saw them fight…
+
+Yeah, they weren’t normal. She didn’t care what abilities you had. You didn’t just grab onto a Dragon like that! And neither did you cast Spells at such a speed that you literally passed out from the effort. Who did these people think they were? Why did they fight like literally every moment was combat to the death? They could just leave and come back another day, find another way to make some coin. Didn’t they know that?
+
+Part of this just made her even more curious about what their time with the Demons was like. Maybe they’d been tortured using some magical method that completely annihilated their minds, or something. If they’d had any close encounters with the Demons, she’d absolutely love to know. Ugh, she was getting excited just thinking about it! Though, if they were insane, she would probably have to dig those memories out of them.
+
+Perhaps that was why they were tortured to insanity, because they’d seen something they weren’t supposed to. Though, if the Demons had a hold of them, wouldn’t they just kill them? …Unless, perhaps these two were…generals of the Demons’ armies?! It couldn’t be true…could it? What if the Demons hired Human tacticians, and these two were some of the ones they’d hired. And then, once they saw the secrets of the Demons, they were tortured and had their memories erased through advanced mind magic, and that was why they fought so strangely! Because they were trained to fight by the Demons! But then that would mean—
+
+"U-uh, pardon me, Aliss” Entismo said. “How art thou faring after the…tumultuous, er, skirmish? Hast thou suffered any wounds…perchance?"
+
+Aliss blinked. Right. She’d spiraled down one of her thought holes again. Shaking her head, she tried to get back on track. None of that would even hold any weight unless those two were actually insane. Maybe they just fought weirdly. She hadn’t seen any evidence that they’d truly lost their minds.
+
+Oh, she’d forgotten to reply.
+
+“I’m fine,” she said to Entismo. “Thank you for asking.”
+
+But perhaps, even if they weren’t generals of the Demons, there was something else that could explain their insane-like behavior? Maybe it was…
+
+Wait, wait, she told herself. Calm down. Again, they could just be a little eccentric. No proof of insanity.
+
+The monster they were following, the one that seemed to work together with Annor and Eita, suddenly perked up as it bushwhacked through the forest, standing up much straighter. It stopped for a second, then dashed forward excitedly. What was it doing?
+
+Aliss took a few steps ahead to see what was going on. She peered through the treeline into a clearing to see Annor, standing in the middle. Seemed like he didn’t end up dying. That was good.
+
+“It’s really not that big of a deal,” he said, pacing across the clearing and speaking to absolutely nobody. “I don’t see why you care that I just want to look. I mean, you keep calling me impatient, but—”
+
+He stopped suddenly, then turned around to face Aliss.
+
+“Oh, hey,” he said casually, as though nothing had just happened. “Didn’t see you there.”
+
+Okay, Aliss thought, they’re definitely insane.

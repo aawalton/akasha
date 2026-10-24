@@ -1,0 +1,149 @@
+The Young Dragon carried me far, far into the sky, the flames on its back causing enough pain to distract it from my tight grip on its leg. Or maybe it did know I was there, and it just planned on taking me up high enough that it could drop me back down and kill me with the fall. But I had a plan for that.
+
+Once we’d gotten so high I could barely see the ground below us, I made sure my grip was secure enough, and then cast Ethereal Armor, swapping over to Light Plate for the discount. Now that I was out of everyone’s sight, I could get away with the switch. And I had a feeling I’d need the extra Mana if I wanted to take this thing down—even if it was already heavily damaged. Then, once I was ready, I re-cast all of my Spells on it. Crippling Chill, Ray of Frost, Gravity Well, and Noxious Grasp all hit the beast at the same time.
+
+Thankfully, since I’d hit it with a Crippling Chill just before it took off and I grabbed onto it, the curse’s every-second damage ticks had kept Cumulative Catastrophe active this whole time, so each of these new effects inherited its over-thirty-percent boost in effectiveness. And, of course, with all of these effects active, that boost only grew every second, as well.
+
+I even deactivated and reactivated Noxious Grasp over and over, several times each second, with each time I activated the Spell causing its own separate instance of damage that raised the Talent’s effectiveness even more.
+
+The Dragon instantly responded to my attack. It kicked its leg back and forth, trying to shake me off, but I’d also kept Expedite active on myself in preparation for this, so with that plus my natural Stats, I was too hard to shake off by the severely weakened Dragon.
+
+By the time only a few seconds had passed, the Cumulative Catastrophe bonus was already up to 50%, meaning that, altogether, I was draining over 25 Stamina from the thing every second, which was then doubled from Venomous Grasp up to more than 50 Stamina. At that rate, if I was under the same effects, I’d lose  the entirety of my own reserves in under six seconds. I was absolutely certain this thing was feeling the pain, especially now that it was forced to suspend itself in the air, constantly using its strength to keep itself from falling.
+
+And, of course, using that strength to keep flapping its wings cost it double Stamina from Venomous Grasp as well, plus it took double the effort to move from Taxing Well. Altogether, this thing was under a cocktail of effects that it absolutely needed to end. Soon.
+
+“Foolish Human!” it shouted out at me. Its booming voice carried a hint of barely-hidden exhaustion. “Do you not understand that if I fall, you fall with me?! Your fragile body will shatter from the impact!”
+
+“I’m not worried about that,” I said. 573 Mana left.
+
+It growled, craning its neck to look back at me and attempt to spit out a blazing inferno to burn me off. However, it clearly didn’t have the flexibility it needed to do something like that. While the wide cone certainly singed my back, it wasn’t even close to what it’d need to kill me outright, especially with the heat-based damage resistance from the Bond.
+
+You have been burned. 31 damage.
+
+Due to Heat Resistance, damage has been reduced to 20.1.
+
+Your Health is 518.
+
+But it kept trying, and I kept draining it. Noxious Grasp flickered off and on, building up Cumulative Catastrophe’s bonus more and more, up from 50% to 75%, then 100%, then past even that. I kept my curses active and Gravity Well enabled at all times, only barely able to afford it all due to the discount offered by Ethereal Armor. From 550 Mana down to 500, then to 400, it was falling. And the magic number I absolutely had to stay above for my plan to work was 278.
+
+The flames continued to burn at my back, dropping my Health down further and further, while I activated Regenerate to counteract the damage as best I could. My skin was scorched, and it felt like my Health was only barely keeping my flesh from melting off of my bones. Eventually, as my Health passed below 350, the Dragon’s breath seemed to sputter out. Seemed that even these mythical beasts had their limits. Or maybe just the Young Dragons did.
+
+It coughed out a breathful of smoke before yelling at me once again, “Human, I will admit, your petty tricks have caught me unawares. Through use of your manipulations, you have bested me in this scenario. I yield! Deactivate your effects and I will leave your people alone. None will face my wrath.”
+
+Index, I thought, what’s this thing’s Stamina?
+
+“Draining around 90 Stamina per second right now…you have enough Mana to finish the job. Switch from flashing Noxious Grasp off and on with just keeping it enabled constantly, and disable your nonessential effects. So mainly just Gravity Well. You’ll have enough.”
+
+Got it.
+
+The beast seemed relieved once I switched Gravity Well off, assuming I was sparing it. But when the rest of my effects didn’t shut off…
+
+“Human. Human! I will crash us both into the side of a mountain! I will not allow myself to die without you dying alongside me! Stop this foolishness at once!”
+
+I watched my Mana slowly tick downwards, until…
+
+I reached 278 Mana.
+
+Instantly, I shut off all of my effects and cast the single Spell I hadn’t used yet, and the key to this whole thing. Sanguine Bond. Or, more specifically, the key was Hypnotic Bond.
+
+You have cursed Level 22 Young Dragon with Sanguine Bond. For the next 10 seconds, or until Level 22 Young Dragon is further than 10 paces away from you, the following effects are true:
+
+It loses 6.85 Health, 8.56 Stamina, and 10.3 Mana per second.
+
+You gain 1.71 Health, 3.43 Stamina, and 5.12 Mana per second.
+
+156 Mana Cost. Your Mana is 122.
+
+You have cursed Level 22 Young Dragon with Hypnotic Bond. For the next 10 seconds, or until Level 22 Young Dragon is further than 10 paces away from you or is damaged from a non-preexisting curse source, it is Hypnotized, and cannot move, think, or otherwise respond to external stimuli.
+
+With me having held onto this thing for way longer than enough time for the Upgrade’s effect to activate, the Dragon plummeted straight downward the moment the Spell’s effect took place. I was left gripping onto its leg, wind rushing past my face as it hurtled downward like a meteor ready to absolutely annihilate anything it hit.
+
+And I, of course, was going right down with it. So I kicked off of the thing’s unconscious body, that way I at least wasn’t kept up in its own mass as we sped toward the ground. Then, I cast Ethereal Armor once again, using the very last points of my Mana to swap myself back over to Dark Plate. With 339/570 Health, I was just barely in the place where I could survive a hit for half my max Health. So that was the plan. Just fucking hit the ground.
+
+As I looked downward at the quickly-approaching earth, I was struck with how this plan had seemed much better in my head. Y’know, when I wasn’t faced with the reality of seeing my certain doom come right at me at insane speeds.
+
+For what felt like an excruciatingly long time, I simply sat there in the air, plummeting down and frozen in fear. And it seemed like during this forever moment, ten seconds passed. Because next to me, the Dragon’s unmoving body suddenly stirred. It jolted, looked down, and panicked, quickly attempting to flap its wings to get out of the situation.
+
+But I’d been planning for that. It was the entire reason I’d gone through the whole ordeal of trying to drain as much of the thing’s Stamina as I could before I used Hypnotic Bond.
+
+Using the bit of Mana I’d scraped together in the ten-second fall, I activated Gravity Well on the thing one last time, quickening its fall to an insane degree—I still had Cumulative Catastrophe in its extremely boosted state. And, of course, Gravity Well’s effects also caused its attempt to flap its wings and get out of freefall to suddenly become much, much more difficult. And much more costly than its already limited Stamina could handle.
+
+The exhausted beast just couldn’t seem to muster up enough strength to be able to slow its now-quickened fall, especially in the little time it had remaining before it hit the ground.
+
+By this time, I could see the details in the landscape. We’d flown quite a ways away from our original field where we fought, going south, in the direction of the mountains. So off in the distance I could still see the burning battlefield from before, but for now, I was just headed straight into an unmarked area of the forest. I was going to impact the ground in just a few seconds now. Five, four, three—
+
+It seemed the Dragon hit the ground first. Interrupting my mental count and my preparation for an absolute world of hurt was the loudest, most intense impact I’d ever experienced in my life from the thing’s massive body hitting the ground after falling thousands of paces through the sky. Even while in the air, my entire skull felt like it rattled in my head from the collision, and the sound alone made it sound like the damned beast had gone straight through the fucking planet.
+
+You have offered moderate contribution toward the slaying of Level 22 Young Dragon.
+
+You have earned 1.18k XP. Your XP is 3.44k.
+
+Threshold reached. 3k XP.
+
+Your Level has increased to 21.
+
+Due to achieving Level 21 in the Minute Mage Class, you have been granted the following benefits:
+
+-You have gained 1 Endurance.
+
+-You have gained 2 Conjuration.
+
+-You have gained 1 Intelligence.
+
+-You have gained 3 Stat Points.
+
+-Recursive Growth has activated. You have gained 1 Strength, 1 Endurance, 1 Dexterity, 2 Conjuration, and 1 Intelligence.
+
+-Time Loop Talent Rank has increased to 21.
+
+-You may choose a Spell to learn.
+
+Intelligence threshold reached. 28 Intelligence.
+
+Your Intelligence information rank has increased.
+
+Due to increasing your Intelligence information rank, you have been granted the following benefits:
+
+-Index has fewer restrictions.
+
+I got a few notifications, and I read just about two words from the first one. And then I landed, and I felt like I somehow hit the ground even harder than the Dragon. Though maybe I was biased, considering I was the one to feel my being crushed from the impact.
+
+Either way, I only experienced that sensation for about a tenth of a tenth of a second before I instantly lost consciousness.
+
+Erani watched from a distance as her boyfriend dropped out of the sky right next to an unconscious Young Dragon. She sighed, knowing it was technically a one-hundred percent guarantee that he’d be fine—Dark Plate would protect him from the hit, and even if he did die, he’d just arrive back in time as though it never happened—but as she saw the two combatants hurtling through the skyline like a pair of shooting stars, she couldn’t help but shake the feeling that he’d taken a plan that was unnecessarily risky just because it looked cool.
+
+Though it did look really cool.
+
+She could feel it in her teeth when the Dragon hit the ground. Even from there, the shockwave shook everyone, causing them to stumble back from what was essentially a miniature earthquake. She got her contribution message and a notification about a Level-up. Quite nice, if she did say so herself. Though, if Arlan Leveled up from that, wouldn’t that mean he technically missed out on a few Stats from his Time Loop Upgrade? Ah, well, it probably didn’t matter to lose them. It was just a couple Stats.
+
+“Holy flamin’ shit!”
+
+Erani turned around to see Sylvie running up to her.
+
+“That was absolutely awesome!” she said, an insane smile on her face. “Let’s go find another Dragon to kill!”
+
+“Verily not,” Entismo said, walking over to the group as well as he did his best to dust himself off. “After an encounter of such, I do comprehend why the people see Dragons as such an existential peril.”
+
+“Hm?” Erani frowned. “That wasn’t a Dragon. It was a Young Dragon. Trust me, there is an absolutely massive difference. This was ridiculously easy compared to a real one.”
+
+Entismo gave Sylvie a look of questioning, as though silently trying to ask “Why in the world have you taken me to the mountain range that houses these things?!”
+
+“That was…certainly a strategy,” Aliss said. “Are you sure he’s okay?”
+
+If the timeline is still continuing, he’s still alive, Erani wanted to say. Man, what must it have been like for these people? Living normal lives, just going about their days without the knowledge that they might have been going through the same actions for the second or third time by now, completely unknowingly. After a moment’s pause, she simply responded, “Yes. I’m sure.”
+
+“What’d he say his Class was?” Sylvie asked.
+
+“A good one.”
+
+Ainash came running up to them, too, though she paused once she got close, hesitating slightly and glancing at the new people. They hadn’t actually introduced the group to her yet; she was hiding in a separate location before the fight started. Though, the fight itself may have served as decent introduction itself.
+
+It’s okay, Erani said to her. She’d been almost constantly reassuring her that these people were fine. They weren’t bad guys, they weren’t even “mean guys,” as Ainash called most people. They’re friendly.
+
+Eventually, she continued approaching.
+
+Sylvie looked over at the Draconiad. “Woah, you were awesome too! The way you used your whip, you were all,” she swung her hands wildly through the air, mimicking Ainash’s practiced movements of attack, and making sound effects with her mouth to go along with the imitation. “Man, this shit has me so hyped! I swear, we gotta find something else to kill.”
+
+Entismo shifted slightly, casting a few uneasy glances at Ainash, though he didn’t say anything. Erani wasn’t sure—she’d never been that good at reading people—but he almost looked like he mistrusted her. Though, that couldn’t have been the case, right? She was way too adorable. Aliss, at least, wore an expression that Erani recognized—unbridled curiosity.
+
+“Well.” Erani took a breath. Her head still hurt a little from exerting herself so much with Firebolt, but she was feeling slightly better by now. “We should probably go get the reward sorted out. Though, first I do think I need to go check on my, er, partner, Annor.”

@@ -1,0 +1,191 @@
+We took some time to look around the area of the Goblin base, ensuring we knew everything about the location. We’d technically gotten a description by our two prisoners, but with the language barrier and the possibility that they’d lied to us about something, I wasn’t going to take any chances.
+
+One thing that I noticed was that there weren’t any guard patrols. Nobody walking around the surrounding wilderness, nobody walking atop the walls—-there weren’t even any Goblins standing at the front door. I supposed that, if they were really as serious as our prisoners made it seem about rapid expansion, I somewhat understood the desire to spend as much manpower as possible on claiming more land, but it was kind of insanely reckless, right?
+
+Oh well. Easier for us. If they got complacent because this town had left them alone for the most part up until now, we’d just have to be the ones to show them their mistake.
+
+We tried several times to get the pair of Goblins we’d captured to explain the exact floorplan to us, but, if I understood their broken speech correctly, the layout seemed like one of those things that was under constant change. They argued over what was in each room, whether something had been moved out or moved in, or whether they’d disabled that trap, or added that one in…It wasn’t much help. They could barely even keep track of where the walls were.
+
+Ainash could tell that they were deliberately avoiding talking about some things during that attempt at a conversation, but according to her, most of what they claimed to not know was genuine. The Goblins out on raids and hunts would apparently stay out for days at a time, and so they genuinely weren’t sure what was in there. But evidently, they weren’t saying absolutely everything they knew. However, no matter how much I tried to push them, they either weren’t sure what I wanted or refused to tell me. And the vagueness of Ainash’s feeling—”they seem a little bit dishonest right now”—didn’t do much to help me in finding the truth, either.
+
+But regardless, Ainash said that pretty much all of what they said was true anyway, so whatever. They were most likely hiding wherever the treasure room was located, which was one thing they’d conveniently not mentioned. But that wasn’t currently the issue at hand; we could dig around for it later.
+
+So, after we were sure we had all the information we could get, we tied the pair of Goblins to a tree out in the wilderness before making our approach, then moved forward. The heavy shrubbery of the forest made good cover for us as we approached the massive log complex, and as we got closer and closer, I could begin to hear the Goblins bickering with each other in their own language. Evidently they didn’t speak Human among each other, only when they wanted to be understood. But if they went through all this trouble to learn it, didn’t use it with each other, and seemingly didn’t use it with Humans often enough for the town to feel the need to mention it to us, then why even learn it in the first place? Well, I supposed it would be good to be able to eavesdrop on your enemies while hunting them. And it made sense that they wouldn’t be able to speak it very well, only understand it, in that case. Still, it just gave me a weird feeling.
+
+Soon, we came up to the front door—or, well, there wasn’t a door there. It was just a hole in the wall. So really, we crept up to the front passage, and peered through. Inside was a wide room with no floor, the same bumpy grass terrain below our feet, only now instead of natural trees surrounding us, it was haphazardly strung-together logs standing in the dirt.
+
+Thankfully, there was nobody inside this room, so we slowly moved in. Obviously, a fight would eventually break out—that was why we were here—but I wanted to get as familiar with this place as I could before we started the brawl. There were a few other passageways that led from this room out into hallways and rooms, and as we walked inside, I glanced around, trying to get a bearing of what went where—and what was likely trapped.
+
+But as we all looked around, I noticed a Goblin pop its head up over one of the walls, coming from the other room. Its eyes locked onto us, and it instantly screamed out in alarm. A loud, gurgly screech echoed from its wide-open mouth as I reacted as quickly as I could, reaching up and shooting it with a trio of Rays of Frost.
+
+You have slain Level 6 Goblin.
+
+You have earned 39 XP. Your XP is 1295.
+
+It died right after the sound escaped its mouth, and silently fell to the ground behind the wall. For a moment, there was nothing. No reaction from the fort. And I prayed that somehow, nobody heard its scream.
+
+But then, in an instant, the entire fort erupted in chaotic noise. More Goblins screamed out the same sound, others yelled words out in their own language, I could hear the whir of machinery, the sound of footsteps on the grass, and even an explosion from far off. The cacophony of noise assaulted my senses. But at least we knew now that they were fully aware we were here.
+
+A few more Goblins sprinted into the room we were in, bows at the ready, but I quickly took them out, too.
+
+“What do we do?” Erani asked.
+
+“Well, our job is to kill them all, right? So I guess we just need to make sure none escape.”
+
+We ran forward, up to the doorways and peering along to see if there were any Goblins coming through, each of us taking to a different entrance. At least for now, with the entire complex crawling with enemies, I wasn’t totally comfortable venturing into more rooms than this one—at least we were sure this room didn’t have any pitfalls in it—so we resolved to just defend this position until it seemed like our enemies would no longer come to us.
+
+You have been pierced. 16 damage.
+
+Your Health is 554.
+
+A bolt hit me from behind, and I turned to see another Goblin scaling the walls, which I dispatched quickly. Erani shot a couple Firebolts down the hallway she was guarding, and I heard screams get cut short just as they hit their targets. Ainash, despite my warning to stay within the room, immediately exited the room and vaulted the wall one of the Goblins had scaled to take shots at us, and I heard screaming from the other side as notifications of her kills flooded my mind.
+
+“Index, go make sure she doesn’t step in anything,” I said. “And let me know if she goes too far off.”
+
+“On it.”
+
+For what felt like a long time, but was in reality probably just a couple minutes, we tensely held our ground in the entry room. Dozens upon dozens of Goblins came and attacked. At first, they came one-by-one, clearly just having heard of the attack and running up to see what the fuss was about. But as the time went on, they got more organized. They came in waves, a huge group of twenty monsters rushing from all sides simultaneously, after a moment when nobody came in.
+
+After we repelled that assault, there was another quiet period before a half-dozen bombs were lobbed over the walls into the room, and we were forced to each flee into the doorways nearest to each of us, splitting us up and forcing us to defend ourselves from the roomful of monsters isolated. Thankfully, there were enough that we could fight them off until the explosives went off, after which we could each retreat back into our more defended position and work together to fight off the remaining enemies.
+
+“We need to move out now,” I said after we finally killed the final enemy of that attack. “Put them on the backfoot.”
+
+“Agreed,” Erani said with a nod. “I noticed most of the Goblins were coming from that direction.”
+
+“Alright. So I guess we go through that door, if they’re all coming from it.”
+
+I sent a message to Ainash, who dashed over to meet up with us, and also mentally asked Index to move ahead of us and search for anything suspicious.
+
+Quickly, we moved down the hallway with the frantic sounds of shuffling bodies coming from either side of the walls. We’d killed easily thirty, maybe even forty Goblins by this point. How many more were there?! I mean, eventually they’d realize they wouldn’t be able to kill us and just give up, right? It’d certainly be much more preferable to just convince these things to run off someplace else instead of being forced to slaughter each and every one.
+
+Index warned us of a tripwire attached to the log walls, and we leapt over and kept going. It was apparently rigged to a massive blade that’d come out of the wall and decapitate anyone taller than a Goblin was if you triggered it. Thankfully, this place seemed to be rigged with much fewer traps than the wilderness was, which was understandable. I sure wouldn’t want deadly mechanisms all throughout my own home, if I were them.
+
+We rushed through and ended up at an intersection. We could go left or right.
+
+“Uh, Index, which way?”
+
+“I don’t have any idea,” it responded, somehow sounding annoyed as if I’d asked it something ridiculous. “Why would I know which way to go?”
+
+“I don’t know! You can see through walls!”
+
+“Well I’m not sure where you even want to go. I suppose if you go right, it’ll take you deeper toward the center of the complex. There will also be a big group of Goblins that way, though, so it could be dangerous. They’re going to be through the left wall, however. So you won’t be having any encounters with them, presumably.”
+
+“Good enough,” I said. Then I called out, “Right!”
+
+We scrambled to the right, looking for any doorways to put us into an actual room, rather than a hallway. The tight corridors stressed me out; even if the walls were as tall as the trees, they were barely wide enough to fit two people side-by-side. I’d been made acutely aware, navigating this place, that it was certainly not made for full-size people.
+
+“Oh, shoot, watch out!” Index suddenly shouted as we moved through. “To your left!”
+
+I looked to my left and saw a wall perforated with holes. At first, I assumed we’d somehow triggered some sort of pressure plate or tripwire mechanism, and big bolts of iron were about to shoot through the holes, or something, but instead, something else came through.
+
+You have been pierced. 18 damage.
+
+Your Health is 417.
+
+You have been pierced. 27 damage.
+
+Your Health is 390.
+
+You have been pierced. 21 damage.
+
+Your Health is 369.
+
+Dozens of arrows shot through the holes, and I realized we were facing that massive group of Goblins Index had been talking about. We hadn’t fallen for a trap—there was no trigger mechanism at all. It was just a strategically placed set of holes they could shoot through.
+
+“Fuck!” I shouted, jumping back. My Health wasn’t too low—at least, it wasn’t low enough that the arrows were sticking in me yet—but running past that massive wall of enemies prepared to attack would turn me into a pincushion in no time. We needed to figure something else out, especially since we didn’t have full access to them right now. Being outnumbered sucked.
+
+“Crippling Chill?” Erani asked as we leaned against the section of wall that came before the perforated part, breathing heavily. “It’s instant. No projectile.”
+
+“Yeah, but it doesn’t do enough damage to kill them. Not quickly, at least.” Unfortunately, we were on somewhat of a time limit. If we gave the Goblins enough time to prepare and respond to our attack, I was certain they’d come up with something to put a stop to our attack. And, even if they couldn’t, they’d just run off. Now, them running away would likely lead to victory anyway—if they ran, they’d most likely keep running until they found some other town to bother, leaving the job done for this one—so it wouldn’t be a horrible outcome, but there was still the possibility they’d just lay low for a bit and then come back to attack this place, and if that happened, we wouldn’t get paid.
+
+So ideally, we’d do as much damage as we could while we could, so they understood fully that it was a bad idea to stick around. Which was why I was frustrated with Index for not warning us of something that could so intensely impede our progress through here. It’d even told me to go down this path!
+
+“Hey, there’s a lot you’re asking me to do here!” Index said in response to my thoughts. “Afford me some mistakes. I didn’t see any triggers, so I didn’t think it’d be a problem. Didn’t think it was for setting up a manual killbox.”
+
+“Just find us a way through!” I said.
+
+“Working on it!” Erani responded, mistaking my shout for one aimed at her.
+
+“No, not—” I groaned. Before I could assure her I was talking to Index, I heard a shout from behind. Looking back, I didn’t see any sign of enemies, but with the twisting, messy corridors, that didn’t mean they weren’t hot on our trail. And I’d much rather we engage on our terms, instead of letting the Goblins attack us when they were organized and prepared. Better we had the drop on them than the other way around.
+
+“Uh…” Index hummed.
+
+“Anything?” I asked.
+
+“Tell Erani to shoot here.”
+
+“Where’s ‘here?’”
+
+“Between the…eighteenth and nineteenth hole, from the left, around…I dunno, between chest and neck height for her? Tell her to use that new Talent she got for Level 20—Elemental Embrace.”
+
+I relayed that to Erani.
+
+“Wait, shoot the wall?
+
+“Yeah, Index says to.”
+
+“It’s structurally unsound,” Index said. “Some rodent was digging around there, so the wood is basically all bark. I know the exact force vectors and magnitudes offered by Explosive Firebolt, and her damage boosts from her Talents plus Embrace will be enough. If you hit it in the right place, it’ll blow that entire wall to pieces.”
+
+Behind us, a group of Goblins turned the corner of the hallway and faced us. I expected a volley of arrows to come, but they didn’t. The gang weren’t holding bows, or any weapons at all. Instead, their gloved hands were all holding big globs of purple goo.
+
+“Just do it!” Index said.
+
+I yelled the same thing, and Erani, who was quickly doing her best to count the holes in the wall in an attempt to find the spot Index was talking about, just squinted, held out her hands, and fired.
+
+You have been blown up. 32 damage.
+
+Due to Heat Resistance, damage has been reduced to 20.7.
+
+Your Health is 348.
+
+With a massive boom, the entire wall was blown to pieces, and we rushed through. The wall opened into another large room—a breath of fresh air from the tight corridors—that was full of Goblins. At least forty of them, all of whom had been tightly packed against that same wall so they could shoot at us if we walked by, had been thrown back by the explosion.
+
+A few more earth-shaking blasts from Erani later, and the dazed monsters were dead.
+
+But the chaos was far from over. I turned to see the globs of goo from the Goblins that’d been chasing after us splatting against the empty grass, and for a moment, I was relieved. Whatever that stuff was, I suspected I did not want it touching me. In the things’ haste to take us out, they must’ve missed us.
+
+Then, each of the globs began shifting and warping on their own, slowly growing in size and solidity, changing in color to a darker black, growing fur, getting larger and larger, until…
+
+A roar sounded from the dozen globs of goo. Or, rather, what used to be a dozen globs of goo. Now, they were a dozen full-grown Gloomspurs, all of which had, in only a couple seconds, grown up from those fistfulls of purple gunk that’d been thrown into the grass.
+
+They turned and faced us, each blowing out that poison mist.
+
+I sighed. Again, these things weren’t too dangerous, but the delay was annoying. And how the fuck did these Goblins just fucking spawn in a pack of monsters?! I barely had time to process the shit that was going on.
+
+I held out a hand, ready to start shooting of Rays of Frost, but then Index shouted out, “Above!”
+
+I looked up and saw a dozen metal canisters soaring over the wall, having been lobbed into the room from somewhere nearby. They bounced against the grass, settled, and then began spewing out yet more purple smoke. They were canisters that’d been filled with the Gloomspurs’ smoke, all emptying themselves out into the room.
+
+Suddenly, this encounter felt a lot more dangerous as the room immediately began filling up with the deadly mist.
+
+You have been poisoned. 7 damage.
+
+Your Health is 341.
+
+Erani, thinking quickly, turned to a nearby wall and shot it with a set of Firebolts. A single one wasn’t enough to blow up the normal, structurally-sound walls, meaning any groups of Goblins sitting next to them would have plenty of time and warning to back off and end up unharmed by the explosions, but that wasn’t the goal anymore. We just needed to get the fuck out of here.
+
+You have been poisoned. 9 damage.
+
+Your Health is 332.
+
+The bound-together tree trunks shattered after her fourth shot, and we all dashed through to escape the poisoned room. This hole in the wall led us to yet another massive room. This one, too, had a few Goblins in it, but instead of engaging us like all the monsters we’d seen before, this small group of monsters took one look at us, turned, and ran off.
+
+However, they didn’t run into one of the normal holes in the wall that led into a hallway or another room. Instead, they ran to a wall, grabbed on one of the logs, and opened up what seemed to be a real, actual door set into one of the walls.
+
+I glanced at Erani and Ainash. Didn’t they not use doors? What was that about? I hadn’t even gotten to look inside, they’d rushed in and shut the door behind them so fast.
+
+“Index, what’s through that wall?”
+
+“Uh…the room’s too big. My sight isn’t wide enough to cover the whole thing. At least, not from here. But I can see the Goblins running further in, and…it looks like they’re talking to someone? Can’t see who.”
+
+“Well hopefully it’s their leader, or something,” I said. “Let’s go in.”
+
+Still in a rush to get away from the room that was continuing to fill with poison, we ran up to the doors and opened them, my and Erani’s arms out, and Ainash’s whip at the ready to kill anything and everything that resided in this mysterious room.
+
+But as the doors opened up, instead of running forward, we all took a collective step back at what inhabited it.
+
+“You dare invade my rightfully-claimed lair?! Kill my rightfully-enslaved minions?!” A massive, larger-than-life voice boomed out from the room.
+
+Its owner was lounging on a pile of coins and random gear, steam coming from its nostrils.
+
+“I am Wealthhoarder, Slavedriver Neenix!” the Dragon shouted, its eyes full of rage, “And if you do not cease this blasphemous violence immediately, I will execute you myself!”
