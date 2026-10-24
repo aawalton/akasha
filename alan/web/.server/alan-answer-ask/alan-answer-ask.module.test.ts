@@ -61,6 +61,59 @@ test("Alan's question is carried to the store as he asked it", async () => {
   }
 })
 
+const ALAN_SCREENS = [
+  {
+    pageTypeSlug: "image",
+    where: { grade: { empty: true }, persona: { is: "amy" } },
+    keys: ["id", "slug"],
+    sortBy: "id",
+    limit: 50,
+    offset: 0,
+  },
+  {
+    pageTypeSlug: "persona",
+    where: { title: { "contains-ignoring-case": "am" } },
+    keys: ["id", "slug", "title"],
+    sortBy: "slug",
+    limit: 50,
+  },
+  {
+    pageTypeSlug: "story-played",
+    where: { externalId: { is: "one" } },
+    keys: ["coverReroll", "coverRerollRefused"],
+  },
+  {
+    pageTypeSlug: "page-type",
+    where: { extends: { has: "metric-item" } },
+    keys: ["slug", "extends"],
+  },
+  { pageTypeSlug: "metric-character-attribute", where: { character: { is: "c" } } },
+  { pageTypeSlug: "world-species", where: { character: { is: "c" } }, undeclaredMatchesNone: true },
+  {
+    pageTypeSlug: "story-turn-played",
+    where: { id: { in: ["a", "b"] } },
+    keys: ["id", "prose"],
+    files: ["prose"],
+  },
+  { pageTypeSlug: "played-panel", keys: ["slug", "drawn"], files: ["drawn"] },
+  { pageTypeSlug: "story-item", where: { character: { "ends-with": "/c" } } },
+  { pageTypeSlug: "nav", where: { id: { is: "01a0" } }, keys: ["slug", "navParent"] },
+  { pageTypeSlug: "domain" },
+  { pageTypeSlug: "agent-message", where: { recipient: { is: "astra" } } },
+]
+
+test("every question Alan's screens ask reaches the store unchanged", async () => {
+  const { deps, sent } = asking(ALAN, {
+    "metric-character-attribute": ["metric-character-stat", "metric-character-level"],
+    "world-species": ["character-species"],
+    domain: ["persona", "role", "person", "module", "page-type"],
+  })
+  for (const body of ALAN_SCREENS) {
+    expect((await askHeld(asked(body), deps)).status).toBe(200)
+  }
+  expect(sent).toEqual(ALAN_SCREENS.map((body) => ({ at: "/ask", body })))
+})
+
 test("Jenny's conversation question is held to the one seat she may read", async () => {
   const { deps, sent } = asking(JENNY)
   const answered = await askHeld(asked(CONVERSATION), deps)
