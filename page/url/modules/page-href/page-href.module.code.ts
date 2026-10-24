@@ -22,6 +22,12 @@ type PageLink = {
   readonly title: string | null
 }
 
+type Address = {
+  readonly pathname: string
+  readonly search: string
+  readonly hash: string
+}
+
 export function slugStem(text: string): string {
   return text
     .toLowerCase()
@@ -70,4 +76,25 @@ export function parsePageHrefParam(encoded: string): ParsedPageHrefParam | null 
   if (!ID_SUFFIX_PATTERN.test(candidate)) return null
   const slugPart = lastDash >= 0 ? encoded.slice(0, lastDash) : ""
   return { slug: slugPart === "" ? null : slugPart, idSuffix: candidate }
+}
+
+function pageAt(pathname: string): { readonly type: string; readonly idSuffix: string } | null {
+  const [type, param, ...rest] = pathname.split("/").filter((part) => part !== "")
+  if (type === undefined || param === undefined || rest.length > 0) return null
+  const parsed = parsePageHrefParam(param)
+  return parsed === null ? null : { type, idSuffix: parsed.idSuffix }
+}
+
+export function samePageAt(left: string, right: string): boolean {
+  const one = pageAt(left)
+  const other = pageAt(right)
+  return (
+    one !== null && other !== null && one.type === other.type && one.idSuffix === other.idSuffix
+  )
+}
+
+export function canonicalAddress(at: Address, canonicalHref: string | null): string | null {
+  if (canonicalHref === null || at.pathname === canonicalHref) return null
+  if (!samePageAt(at.pathname, canonicalHref)) return null
+  return `${canonicalHref}${at.search}${at.hash}`
 }

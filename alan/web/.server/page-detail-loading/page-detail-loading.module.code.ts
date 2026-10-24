@@ -30,6 +30,7 @@ import { filePagesPath } from "akasha/page/ui-store/collection/modules/fetch-att
 import { FILE_BACKED_ROSTER_PATH } from "akasha/page/ui-store/collection/modules/file-backing/file-backing.module.code.ts"
 import {
   buildPageHref,
+  pageLinkOf,
   parsePageHrefParam,
 } from "akasha/page/url/modules/page-href/page-href.module.code.ts"
 import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
@@ -221,6 +222,7 @@ async function loaded({ params, request }: LoaderFunctionArgs) {
       pageHrefParam,
       tabIcon: textIn(navPage?.icon),
       title: nameOf(navPage),
+      canonicalHref: pageLinkOf(navPage, brandedSlug)?.href ?? null,
     })
   }
 
@@ -234,6 +236,7 @@ async function loaded({ params, request }: LoaderFunctionArgs) {
   let resolvedSlug = pageTypeSlug
   let id: string | null = exact && typeof exact.id === "string" ? exact.id : null
   let title: string | null = nameOf(exact)
+  let named: Page | null = exact
 
   if (id == null) {
     const subtree = await getDescendantPageTypeSlugs(brandedSlug)
@@ -247,6 +250,7 @@ async function loaded({ params, request }: LoaderFunctionArgs) {
         id = resolved.id
         if (typeof resolved.pageTypeSlug === "string") resolvedSlug = resolved.pageTypeSlug
         title = nameOf(resolved)
+        named = resolved
       }
     }
   }
@@ -337,6 +341,7 @@ async function loaded({ params, request }: LoaderFunctionArgs) {
     tabIcon: icons.drawn,
     typeIcon: icons.byType,
     title,
+    canonicalHref: pageLinkOf(named, brandedSlug)?.href ?? null,
     readerPrev,
     readerNext,
     storyHref,

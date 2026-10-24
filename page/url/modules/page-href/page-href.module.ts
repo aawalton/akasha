@@ -6,6 +6,7 @@ export const pageHref = {
   slug: "page-href",
   definition: "the address a page is reached at, built from its slug and its id and read back",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -15,7 +16,16 @@ export const pageHref = {
       decisionKind: "decision-kind/departure",
       statement: "A page with no id is written as no link rather than as a link to nowhere.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Two addresses reach the same page where their page type and id suffix agree.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An address naming a page's old slug is corrected to its own, keeping query and hash.",
+    },
   ],
   createdAt: "2026-09-01T08:26:25.761Z",
-  updatedAt: "2026-09-22T10:07:59.000Z",
+  updatedAt: "2026-10-24T20:33:51.977Z",
 } as const satisfies Module

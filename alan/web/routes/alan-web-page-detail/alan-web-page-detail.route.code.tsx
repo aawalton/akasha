@@ -15,11 +15,17 @@ import {
   DISPLAY_PARAM,
   parseDisplayMode,
 } from "akasha/page/url/modules/page-display-mode/page-display-mode.module.code.ts"
+import {
+  canonicalAddress,
+  samePageAt,
+} from "akasha/page/url/modules/page-href/page-href.module.code.ts"
 import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { useEffect } from "react"
 import {
   type MetaDescriptor,
   type ShouldRevalidateFunctionArgs,
+  useLocation,
+  useNavigate,
   useSearchParams,
 } from "react-router"
 
@@ -86,6 +92,16 @@ function useLiveHead(pageTypeSlug: string, id: string | undefined, typeIcon: str
   return undefined
 }
 
+function useCanonicalAddress(canonicalHref: string | null) {
+  const location = useLocation()
+  const navigate = useNavigate()
+  const corrected = canonicalAddress(location, canonicalHref)
+  useEffect(() => {
+    if (corrected !== null) void navigate(corrected, { replace: true, preventScrollReset: true })
+  }, [corrected, navigate])
+  return undefined
+}
+
 const seeded = new WeakSet<object>()
 
 function seededOnce(seeds: Readonly<Record<string, unknown>>): undefined {
@@ -109,7 +125,12 @@ function shouldRevalidatePageDetail(args: {
   nextUrl: URL
   defaultShouldRevalidate: boolean
 }): boolean {
-  if (args.currentUrl.pathname !== args.nextUrl.pathname) return args.defaultShouldRevalidate
+  if (args.currentUrl.pathname !== args.nextUrl.pathname) {
+    const samePage =
+      args.currentUrl.search === args.nextUrl.search &&
+      samePageAt(args.currentUrl.pathname, args.nextUrl.pathname)
+    return samePage ? false : args.defaultShouldRevalidate
+  }
   const changed = changedSearchParamKeys(args.currentUrl, args.nextUrl)
   if (changed.size === 0) return args.defaultShouldRevalidate
   for (const key of changed) {
@@ -134,6 +155,7 @@ export default function PageDetailRoute({ loaderData }: { loaderData: PageDetail
     loaderData.kind === "nav" ? undefined : loaderData.id,
     loaderData.kind === "nav" ? null : loaderData.typeIcon
   )
+  useCanonicalAddress(loaderData.canonicalHref)
 
   if (loaderData.kind === "nav") {
     return <ViewPageContent navItemIdParam={loaderData.pageHrefParam} />

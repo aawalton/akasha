@@ -26,6 +26,14 @@ export const alanWebPageDetail = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An address naming a page's old slug is replaced in place by the page's own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A move between two addresses of the same page does not load the page again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The title and the reader's neighbours are worked out again as soon as they change.",
     },
@@ -53,5 +61,5 @@ export const alanWebPageDetail = {
     },
   ],
   createdAt: "2026-09-09T22:04:04.594Z",
-  updatedAt: "2026-09-28T23:08:46.000Z",
+  updatedAt: "2026-10-24T20:33:51.977Z",
 } as const satisfies Route

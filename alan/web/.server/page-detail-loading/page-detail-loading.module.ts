@@ -30,6 +30,10 @@ export const pageDetailLoading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The loader names the address its page has under the page's own slug.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A story played carries the reads its first drawing makes, answered as its reader's own reads are.",
     },
@@ -53,5 +57,5 @@ export const pageDetailLoading = {
     },
   ],
   createdAt: "2026-09-03T03:45:08.507Z",
-  updatedAt: "2026-10-24T17:31:22.362Z",
+  updatedAt: "2026-10-24T20:33:51.977Z",
 } as const satisfies Module
