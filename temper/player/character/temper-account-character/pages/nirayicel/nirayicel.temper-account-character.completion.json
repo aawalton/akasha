@@ -14182,13 +14182,13 @@
   },
   "reportedStats": {
     "frontBar": {
-      "capturedAt": 1792871164,
+      "capturedAt": 1792871539,
       "buildHash": "ATQOLMUCgHZhxRNCyJtAEIBCyJtAEIBC5gtuULJC5gtuULJC5gtuULJC5gtuULJC5gtuULIQlKtuULJBHb1AEIAQQbtuULImJTHbcoWURBMdbcoWVu4sGXp9K_KyM7yW7rQGnEEA3ddEoG-3AQNgIk4dcnwfAdoWPbia4XTbKyMEI911WUdTaccICU0IiMiAAMzICIiIyIgIyI1IiIgAjIjNCIAIiQgMiJAMARDIiIwOiMjQgOgIiImQzMjQgAAA4IiAiIkozBCIiIjAjoAAAVTUixJwyseTLLmTZ2fRp1a9s-hRpU6niqAAAABs8fXL0DFkhaImyN07SJUyd-oUwVUJXHWAAAAAbAlSwIwDCBQxk0HECTZwULGDRw8gRJHSYfBAZBxiQNYAAAAAAA",
       "esoVersion": "eso.live.12.1.6.3309674",
       "inCombat": false,
-      "ultimate": 47,
-      "health": 10776,
-      "healthBefore": 13554,
+      "ultimate": 67,
+      "health": 13276,
+      "healthBefore": 14311,
       "healthPaired": false,
       "stats": {
         "power-spell": 4285,
@@ -14274,8 +14274,8 @@
           "effect": "You are completely corrupted from the influence of Vampirism.\n\nHealth Recovery: -100%\nFlame Damage Taken: +20%\nRegular Ability Costs: +12%\nVampire Ability Costs: -24%\n",
           "stacks": 0,
           "powerAtOnset": {
-            "weapon": 4285,
-            "spell": 4285
+            "weapon": 3475,
+            "spell": 3475
           }
         }
       ],
@@ -15020,7 +15020,7 @@
         },
         {
           "slot": 6,
-          "link": "|H0:item:215603:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:2545:0|h|h",
+          "link": "|H0:item:215603:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:2445:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 781,
@@ -15100,7 +15100,7 @@
         },
         {
           "slot": 9,
-          "link": "|H0:item:215598:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:5085:0|h|h",
+          "link": "|H0:item:215598:370:50:26588:370:50:0:0:0:0:0:0:0:0:1:6:1:1:0:4985:0|h|h",
           "requiredLevel": 50,
           "requiredChampionPoints": 160,
           "armor": 1823,
@@ -15675,7 +15675,7 @@
         {
           "abilityId": 33090,
           "name": "Undeath",
-          "description": "Reduces your damage taken by up to |cffffff15|r% based on your missing Health.\n\nCurrent bonus: |cffffff10|r%"
+          "description": "Reduces your damage taken by up to |cffffff15|r% based on your missing Health.\n\nCurrent bonus: |cffffff8|r%"
         },
         {
           "abilityId": 33091,
