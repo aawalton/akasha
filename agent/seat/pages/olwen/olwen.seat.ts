@@ -5,7 +5,7 @@ export const olwen = {
   type: "page-type/seat",
   slug: "olwen",
   persona: "persona/olwen",
-  assignmentSlug: "initiative/olwen-light-mode",
+  assignmentSlug: "domain/design-interface-system",
   role: "role/definer",
   persons: ["person/alan"],
   startMode: "seat-mode/interactive",
@@ -13,5 +13,5 @@ export const olwen = {
   registrationAccount: "model-account/aawalton",
   claudeCodeSessionUuid: "ed184f6d-d850-454d-a8a8-2d11c50670ef",
   createdAt: "2026-10-24T19:36:59.304Z",
-  updatedAt: "2026-10-24T19:41:44.417Z",
+  updatedAt: "2026-10-24T20:22:34.586Z",
 } as const satisfies Seat
