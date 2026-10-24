@@ -1,0 +1,265 @@
+Cal's trembled as the room dissolved and he returned to the cave. His pulse quickened and his eyes shimmered, “rewards? Compensation? Yes, please.”
+
+"Temp," Cal's voice wavered, betraying a hint of the unease that gripped him. "What’s your read on the key players?"
+
+"Cal, there is not too much to go on - my assessment remains uncertain. Alliances, motives – they're woven into a tapestry too intricate to unravel at a mere glance."
+
+Cal's jaw tightened. He couldn't afford to take the transcript at face value, yet he needed insights, something concrete to cling to amidst the swirling maelstrom now circling Temp. "Can we rely on any of them? Even just to guide our strategy?"
+
+"Their posturing and conversation suggest they are all deceptive, old, and experienced, despite how they look," Temp's voice resonated with a tinge of wisdom. "We are the new piece treading upon a game board that has long existed and is concealed to us. We have also observed these players and they know it. That could have changed their actions. The only information that is certain is that this Valkor character most certainly is not on our side."
+
+Cal absorbed the cautionary words. “I doubt they need to really consider us – it sounds like a mortal is beneath their notice… generally.”
+
+"That is consistent with my assessment – we cannot trust any of them, including our… cervidian lawyer," Temp intoned, the chair's frame vibrating with the depth of its synthesized voice. "Each harbors ambitions, and veiled threats beneath their words, perhaps to one another. It is also clear that there is a larger body that would convene in larger disputes – a total of 9 preceptors."
+
+Cal paused, taking it in. "Preceptors," he finally said, breaking the quiet. "Strange title. Who are they guiding?"
+
+"Unclear," Temp replied. "They teach through influence, not direct instruction? Other pupils? Perhaps us, perhaps others."
+
+"Hmmm, either way. Let’s not get caught." Cal mused. “Do you think this changes our strategy?”
+
+"It appears that interventions by these preceptors," Temp began, its tone clinical, yet laced with an undercurrent of urgency, "have tradeoffs—a currency in this realm that we do not yet understand. To act is to spend, to invite consequence, and dole our compensation."
+
+"Every move they make..." Cal's words trailed off as the implications took root.
+
+"Exactly," Temp affirmed. "Must be calculated. To disrupt us incurs a price they may not wish to pay."
+
+"So, we need to make it expensive for them when we don’t want their influence, and cheap if we do?" Cal concluded, a wry smile tugging at his lips.
+
+"Essentially. But there are details we do not understand yet. There is also more. We should understand private representation. An advocate perhaps? Maybe a private lawyer. This is still unclear," Temp clarified.
+
+"You think that could shield us?" Cal questioned, his mind racing.
+
+"Or misdirect," Temp added, its light flickering with emphasis. "We are both now progressing in an unorthodox manner, I am sure this is not our last foray into breaking the system protocols."
+
+"Jaxon might know Joren, let’s check with him first."
+
+"Yes, agreed."
+
+His thoughts flitted to the rewards, those cryptic promises that sang of power, of hope. They fluttered in his mind's eye, tangible yet out of reach, taunting him with their potential to change everything. The system had dealt them a bad hand, but it would not impact them in the short-run. Compensation or rewards might.
+
+"Rewards..." he whispered, pulse quickening. "What could they be, Temp?"
+
+Temp pulled up the relevant system prompts.
+
+[As investigation protocol JE-169861 has shifted karmic balance, Temp is authorized to receive a commensurate reward - User Temp is given choice between three system generated rewards, based on equivalent counterbalance, claim now?]
+
+[As investigation protocol JE-169892 has shifted karmic balance, Temp is authorized to receive a commensurate reward - user Temp is given choice between three system generated rewards, based on equivalent counterbalance, claim now?]
+
+"The system will give me an option between three rewards," came the crisp reply. "Valuable, undoubtedly. I have the option to unveil them now, but perhaps my skill choices will be useful context."
+
+Cal leaned forward, a furrow etching his brow as he regarded Temp. "Your skills," he began, the word 'skills' hanging momentarily, "they're driven by external mana, right? Perhaps I can also learn them, now that I can feel the mana around me?"
+
+"Affirmative," Temp's voice emanated, the sound not quite mechanical, not quite human.
+
+"Show me," Cal commanded softly.
+
+“Most of the points were spent on the large impactful purchases before I was locked out. Additional details were made available when I bought them. I will bring up the bulwark series. These all cost 30 luck each for a total of 180.”
+
+Skill
+
+Description
+
+Modifier
+
+Current upkeep / cost
+
+Upgradeable
+
+Merge options available
+
+Infuse Strength
+
+A passive bulwark skill that can improve impact force and bearing load.
+
+Modifier - 20% buff to strength attribute efficiency
+
+40% mana upkeep
+
+(stage-one) Titan blow (active ability)Requirements not met.
+
+Yes
+
+Infuse Vitality
+
+A passive bulwark skill that can improve physical resilience and recovery. Warning: beware of side effects when deactivating skill
+
+Modifier - 20% buff to vitality attribute efficiency
+
+40% mana upkeep
+
+(stage-one) Body armour (active ability)Requirements not met.
+
+Yes
+
+Infuse Vigor
+
+A passive bulwark skill that can improve endurance for sustained spellcasting or physical exertion
+
+Modifier - 20% buff to vigor attribute efficiency
+
+40% mana upkeep
+
+(stage-one) Upkeep reduction (passive effect)Requirements not met.
+
+Yes
+
+Infuse Dexterity
+
+A passive bulwark skill that can improve reflex and agility
+
+Modifier - 20% buff to dexterity attribute efficiency
+
+40% mana upkeep
+
+(stage-one) Upkeep reduction (passive effect)Requirements not met.
+
+Yes
+
+Infuse Intelligence
+
+A passive bulwark skill that can improve capacity for guideweave complexity. Warning: more complex guideweaves may require mana upkeep as well as cost
+
+Modifier - 20% buff to intelligence attribute efficiency
+
+40% mana upkeep
+
+(stage-one) Quickcast (active ability)Requirements not met.
+
+Yes
+
+Infuse Wisdom
+
+An active defensive bulwark skill that can improve magic resilience.
+
+Modifier - 20% buff to wisdom attribute efficiency
+
+40% mana upkeep
+
+(stage-one) Manashield (active ability)Requirements not met.
+
+Yes
+
+“Wow, those are strong bonuses. Does it also apply to me? It also says they are mergeable, what does that mean?”
+
+“Yes, they should apply to you. I suspect this is what Elena was referring to with the value of support skills. It remains uncertain whether the resulting improvement is multiplicative or additive with the title bonus. I also expect that if you are to learn these skills as well, they should stack with each other in some manner.”
+
+“Interesting. This is helpful. You’ll have to guide me on how these are used.”
+
+“Indeed. As for being mergeable, there is access to an additional menu now. Prior to that, I will share the remaining skills. The following three are the costly 50 luck skills totaling 150.”
+
+Skill
+
+Description
+
+Modifier
+
+Current upkeep / cost
+
+Upgradeable
+
+Merge options available
+
+Telepathy
+
+An active skill allowing connection from your aethercore to other aethercores
+
+Modifier - 5m radius for willing aethercore
+
+10% mana upkeep / connection
+
+(stage-one) connect to unwilling aethercores at reduced range
+
+Requirements not met.
+
+Yes
+
+Telekinesis
+
+An active skill allowing connection from your aethercore to any environmental object
+
+Modifier - 5m radius for any empty mana object
+
+10% mana upkeep / connection
+
+(stage-one) connect to mana-infused objects with minor authority
+
+Requirements not met.
+
+Yes
+
+Advanced mana control
+
+Adjust upkeep and modifier efficiency tradeoff for skills
+
+-
+
+-
+
+Not upgradeable
+
+No
+
+“Interesting. I don’t know how immediately useful these skills are. You’ll have to try them out and see how they work. Are you sure they were worth it?”
+
+“Cal, these may be the most useful out of all of them. They allow the aethercore to interact with the environment. When I share the merge list, you will understand why they are so useful.”
+
+“Hmmm, ok.”
+
+“The advanced mana control is perhaps the most useful for anyone that uses skills frequently, as it will allow me to adjust the cost and benefit of skills. I will have to test the range for abilities, but even the bulwark spells can increase in potency with this if I focus on a single attribute.”
+
+“You’ve already tried this?”
+
+“Well… no… this is theoretical, but likely.”
+
+“Okay, we’ll have you test these skills out when we have a chance to.” Cal briefly thought about if and how he should tell his companions about Temp, especially with such a large bounty for Temp’s capture. “What is the deal with mana upkeep?”
+
+“From what I understand, because these are support skills, they do not rely on my own aethercore. They require environmental mana. So, I expect it relates to how much you can utilize at once. I am not certain that this will change as the aethercore grows, but it is possible.”
+
+“I see, so the support skills have a total capacity related to how much environmental mana you can use.” Cal replied, the concept clicking into place.
+
+“Correct.” Temp replied, “This last skill is why I believe Hetar revoked my access to the skill shop. Unfortunately, I was unable to purchase any other skills after purchasing this one. I believe many foundational skills could have been helpful while merging.”
+
+Temp paused then pulled up the last skill, “this one also cost 50 luck.”
+
+[As user Temp, has acquired three master support skills as a mortal, user is eligible to purchase a tailored ascendant support skill from the shop.]
+
+[Acquire ascendant support skill as a mortal – title awarded, Mortal sage]
+
+[Mortal sage: awarded Dharma Token]
+
+[Hetar electorate council has requested a negotiation for purchase and rights of ascendant skill]
+
+[User Temp has declined negotiation]
+
+[Hetar electorate council has revoked access to Hetar skill shop per investigation protocol JE-169892]
+
+[Ascendant skill parameters obscured per investigation protocol JE-169892]
+
+[Dharma Token awards access to: The Immortal Record of The Heavenly Chakra Dragon Fighter Polity]
+
+Skill
+
+Description
+
+Modifier
+
+Current upkeep / cost
+
+Upgradeable
+
+Merge options available
+
+Silent ritual
+
+Please hear us out Temp. We are willing to grant discipleship to the preceptor of your choosing and can offer you everything you need to grow and thrive. Your safety and success is guaranteed.
+
+-Elara Ca’Chiki
+
+Null cast in a range of 5m
+
+100% mana upkeep
+
+Requirements not met.
+
+No
