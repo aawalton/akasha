@@ -1,0 +1,119 @@
+I took a deep breath. The pain of my wounds was leaving me for the most part but my health was not regenerating. I needed to assess my situation before I went down to another floor. I did a health, energy, and inventory check.
+
+[ Health: 70/00 ]
+
+[ Energy 40/100 ]
+
+[ Inventory 8/8
+
+Mining Pick (Rank 1)
+
+Wooden Sword
+
+Wild Berries (6/99)
+
+Acorns (2/99)
+
+Wildflowers (3/99)
+
+Sandstone Ore (23/99)
+
+Coal (5/99)
+
+Nugget (1/99) ]
+
+Wow! For the first time ever my inventory was full. I was a little worried about my health and energy so I decided to try one of the berries. If it was anything like the food I’d had in the past n Halfmoon Hills, it would at least help me regenerate energy if nothing else.
+
+[ You have eaten a Wild Berry
+
+10 health was restored
+
+5 energy was restored ]
+
+It was sweet and juicy but the portion was tiny. I was happy to see my stats go back up but ten health and five energy was not nearly enough. I eyed the ladder to the next level cautiously. I decided to eat two more to be safe.
+
+[ Health: 100/00 ]
+
+[ Energy 55/100 ]
+
+All of that now settled I wiped my lips and headed down the next ladder.
+
+[ You have reached Level 2 of The Mines. Congratulations adventurer! ]
+
+This level looked much the same as the last. Stone walls surrounded me and large sandstone boulders and smaller stones were scattered throughout. I checked my map, and this time I could see I was at a nexus point, with four tunnels branching out in different directions. I stroked my chin thoughtfully. Once more, I had to pick a direction at random.
+
+I chose the left-most tunnel at random, hoping that in the worst-case scenario, it would be easier to loop back. As I traveled down the path I noted that the torches here seemed spaced farther apart and it was getting difficult to see at times, forcing me to walk slowly. I did not encounter a single slime, and before I knew it I was right back where I started, having done a full loop of the level along the outermost tunnel.
+
+I stroked my chin thoughtfully. It appeared that on this level there were no slimes at all. So how was I to get down? I looked around. All I saw were rocks. Rocks, rocks, and more rocks. I snapped my fingers. No one said that the stairs could only be hidden in a defeated slime! Maybe if I cleared enough rocks or boulders they would appear on this level. The upside to this was that there was little chance of me getting my legs fried by an evil blue glob. Win-win.
+
+I set to work. I smashed open several small stones and found nothing but dust. Then I moved on to the larger rocks. Most of these were sandstone like the one above. I broke open two and stashed the ore. Finally, on the third, I had success. The boulder broke apart in a hail of brown specs and below it, a hole with a ladder appeared.
+
+Yes! I did it, another level!” I pumped my fist.
+
+Unfortunately, my energy was very low. I checked my inventory, cycling through what I already knew I had. I’d collected more ore and coal, that was nice at least. But energy was the real issue here.
+
+[ Energy 25/100 ]
+
+[ Inventory 8/8
+
+Mining Pick (Rank 1)
+
+Wooden Sword (3-7 Damage)
+
+Wild Berries (3/99)
+
+Acorns (2/99)
+
+Wildflowers (3/99)
+
+Sandstone Ore (43/99)
+
+Coal (7/99)
+
+Nugget (1/99) ]
+
+The berries, even if I ate all three, wouldn’t get me to full energy. I bit my lip. I guess it was time to try something different, and I had only one other option. The acorns. I searched my memory for any knowledge that they were edible or not when uncooked and processed. I came up blank. I would just have to try.
+
+I selected one and it appeared in my hands in place of my mining pick. I looked it over. It seemed harmless enough. I popped the small brown nut into my mouth and chewed. And chewed. And chewed some more. It was hard and bitter, making the berries all the more sweet by comparison. Oh well, at least they don’t taste poisonous. I ate the other one quickly, trying to get it down. But an acrid aftertaste crept over me and I gagged as I finished consuming it. My stomach gurgled unpleasantly.
+
+[ You have consumed 2 Acorns.
+
++4 Energy
+
+-10 Health ]
+
+[ Health: 90/00 ]
+
+[ Energy 29/100 ]
+
+I coughed and spat, trying to get the taste out of my mouth and failing miserably. Maybe I hadn’t been poisoned, but my stomach felt awful. I guess I need to cook these first or something. I had to be more careful out here! I had three berries still but I decided to save them. For the next level. I put my foot on the first rung of the ladder and then descended, one step at a time. Once I had two feet on solid ground another banner scrolled in front of my vision, just like the two previous ones.
+
+[ You have reached Level 3 of The Mines. Be careful, you sense the presence of an abundance of monsters on this level! ]
+
+This level had a more foreboding feel than the previous ones. There were even fewer torches and no stones or boulders, just barren rock walls. When I opened my map it showed me just one long winding path. I had a sinking feeling. Even if I wanted to, did I have a way to exit the mines at this point? Would I have to ascend all the levels once more?
+
+I spun around and noticed the familiar glint of metal. I breathed a sigh of relief. Of course! The elevator! It was right behind me and must have been on each new floor. That made sense as the earlier system message said I could use it to go both down and up. There was only one green button. I pressed it.
+
+[ Would you like to return to the surface or another level of The Mines? You Have unlocked the following:
+
+Cave Entrance
+
+1f
+
+2f
+
+3f ]
+
+I took a moment to consider my next steps. I had to make a call on whether or not to ascend. On the one hand, monsters and low energy. On the other: I still had lots of health, I knew how to do combat, and the loot down here was good. Ok, one last level. I’ll be careful. I had enough health and if things went bad, I could just go back right? This level was just one straight path so it's not like I would get lost, the second things got too hairy I would just retreat. No biggie. Plus I had my berries, they would tide me over in an emergency.
+
+I headed off down the path. There were no boulders, no sounds, and no signs of movement. Nothing. It was eerie in the silent semi-dark but largely uneventful. I began to doubt the system message that told me this place was infested. Perhaps another adventurer had beat me down here? But that didn’t seem right. Then I heard a familiar squelching sound, followed by several more. Three slimes materialized a few meters down the path from me. I widened my stance and drew my blade. One had been hard enough, could I take three at once!? I would have to be tactical.
+
+The foremost of the slimes began to glow, beginning its charged attack. The other two bounced towards me at normal speed. I made a calculated decision and ran backward, keeping my eye on them. The two hoppers weren’t very fast, and if I was right, the charging slime would only hit my old position
+
+“Come on you dumb blobs! Let’s go!” I yelled and waved my sword at them, my adrenaline spiking.
+
+The one charging stopped glowing and rocketed forward. Just as I suspected, it fell short and landed at my original position. I grinned and my confidence grew. I could take these slimes. They packed a punch, but I wouldn’t let them hit me. I rushed forward and smashed the slime with a heavy attack which sent him flying backwards.
+
+The other two reached me a second later and I used my heavy swing once more, this time in a wide arc, knocking them both back at the same time. For the next few minutes, I cautiously kited them, using my heavy attacks when I could and light jabs when any of them were on cooldown from their own attacks. I got hit only once when I was being careless. The real problem was my energy. By the time I got them all down my chest was heaving and I was exhausted. I spat into the dirt and licked my dry lips
+
+I have to clear this level. And soon.
