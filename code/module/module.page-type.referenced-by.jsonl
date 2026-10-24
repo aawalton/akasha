@@ -285,6 +285,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/modules/page-writing/seat-page-writing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/modules/reading/seat-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/modules/record/seat-record.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/modules/regret/seat-regret.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/modules/reply-notifying/seat-reply-notifying.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/modules/tmux-session/tmux-session.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/modules/typing/seat-typing.module.ts","typed":true,"deferred":false}

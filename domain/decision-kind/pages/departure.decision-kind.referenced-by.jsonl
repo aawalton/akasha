@@ -310,6 +310,7 @@
 {"propertySlug":"decision-kind","path":"agent/seat/modules/page-values/seat-page-values.module.ts","id":"01a06949-b281-7930-babe-566948d7b200"}
 {"propertySlug":"decision-kind","path":"agent/seat/modules/reading/seat-reading.module.ts","id":"01a05850-0f6a-7ed4-b9e5-6868da68bd0c"}
 {"propertySlug":"decision-kind","path":"agent/seat/modules/record/seat-record.module.ts","id":"01a06949-b281-7a28-8dc0-ad7ecff7be76"}
+{"propertySlug":"decision-kind","path":"agent/seat/modules/regret/seat-regret.module.ts","id":"01a17014-e13e-7bf5-bb99-5e7f8eb1cf86"}
 {"propertySlug":"decision-kind","path":"agent/seat/modules/reply-notifying/seat-reply-notifying.module.ts","id":"01a16f84-6063-74ba-b472-de2d763b51bf"}
 {"propertySlug":"decision-kind","path":"agent/seat/modules/tmux-session/tmux-session.module.ts","id":"01a0c9ed-0747-74e1-adb1-380621bd6c5d"}
 {"propertySlug":"decision-kind","path":"agent/seat/modules/typing/seat-typing.module.ts","id":"01a1700a-736c-70a3-b031-f1a92c3c1ad8"}

@@ -43,6 +43,7 @@ export const seat = {
     "module/seat-composer",
     "module/seat-typing",
     "module/seat-conversation-hearing",
+    "module/seat-regret",
     "module/seat-reply-notifying",
     "module/seat-notice-choosing",
     "module/seat-launching",
@@ -427,5 +428,5 @@ export const seat = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-30T01:07:35.561Z",
-  updatedAt: "2026-10-24T22:31:35.532Z",
+  updatedAt: "2026-10-24T22:42:59.005Z",
 } as const satisfies PageType

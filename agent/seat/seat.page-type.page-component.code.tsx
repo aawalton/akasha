@@ -11,6 +11,10 @@ import {
   useConversation,
 } from "akasha/agent/seat/modules/conversation-hearing/seat-conversation-hearing.module.code.ts"
 import {
+  type Regret,
+  useRegret,
+} from "akasha/agent/seat/modules/regret/seat-regret.module.code.tsx"
+import {
   ReplyNotifyingControl,
   useReplyNotifying,
 } from "akasha/agent/seat/modules/reply-notifying/seat-reply-notifying.module.code.tsx"
@@ -113,7 +117,7 @@ function useSending(id: string) {
       return kept.length === held.length ? held : kept
     })
   }, [heard])
-  return { heard, pending, send, resend, dismiss }
+  return { heard, again, pending, send, resend, dismiss }
 }
 
 function clockOf(at: string | undefined): string | null {
@@ -234,7 +238,15 @@ function personsStated(held: unknown): number {
   return Array.isArray(held) ? held.length : 0
 }
 
-function Conversation({ heard, persons }: { heard: Heard; persons: number }) {
+function Conversation({
+  heard,
+  persons,
+  regret,
+}: {
+  heard: Heard
+  persons: number
+  regret: Regret
+}) {
   if (heard.state === "asking") return <p className={SUBDUED}>Reading the conversation…</p>
   if (heard.state === "refused") return <p className={SUBDUED}>{heard.why}</p>
   if (heard.entries.length === 0)
@@ -242,9 +254,10 @@ function Conversation({ heard, persons }: { heard: Heard; persons: number }) {
   const named = persons > 1 || peopleIn(heard.entries) > 1
   return (
     <ol className="flex flex-col gap-3">
-      {heard.entries.map((entry, at) => (
-        <li key={`${at}-${entry.kind}`}>
+      {regret.shown(heard.entries).map((entry, at) => (
+        <li key={`${at}-${entry.kind}`} className="flex flex-col gap-1">
           <EntryDrawn entry={entry} named={named} />
+          {regret.control(entry)}
         </li>
       ))}
     </ol>
@@ -253,7 +266,8 @@ function Conversation({ heard, persons }: { heard: Heard; persons: number }) {
 
 export function Drawing({ pageTypeSlug, id }: PageDrawingProps) {
   const { page, pageIsLoading, data, allDefinitions } = usePageDefaultContent({ pageTypeSlug, id })
-  const { heard, pending, send, resend, dismiss } = useSending(id)
+  const { heard, again, pending, send, resend, dismiss } = useSending(id)
+  const regret = useRegret(id, heard, again, pending)
   const voice = useSeatVoice(id, heard.state === "heard" ? heard.entries : NOTHING_SAID, (text) => {
     send(text, [])
   })
@@ -277,7 +291,7 @@ export function Drawing({ pageTypeSlug, id }: PageDrawingProps) {
           : null
       }
       followAnchor={{ ref: endRef, renderTrigger: shown }}
-      footer={<SeatComposer seat={id} onSend={send} voice={voice} />}
+      footer={<SeatComposer seat={id} onSend={send} voice={voice} returned={regret.returned} />}
     >
       <PageLayout loading={pageIsLoading} skeleton={simplePageSkeleton({ titleWidth: 160 })}>
         {page != null && <title>{pageName(data)}</title>}
@@ -285,7 +299,7 @@ export function Drawing({ pageTypeSlug, id }: PageDrawingProps) {
           <div className="flex flex-col gap-4 pb-6">
             <h1 className={titleClasses}>{pageName(data)}</h1>
             <ReplyNotifyingControl notifying={notifying} />
-            <Conversation heard={heard} persons={persons} />
+            <Conversation heard={heard} persons={persons} regret={regret} />
             {pending.map((one) => (
               <PendingDrawn key={one.key} one={one} resend={resend} dismiss={dismiss} />
             ))}
