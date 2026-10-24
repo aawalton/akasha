@@ -34,7 +34,7 @@ export function SkeletonPanel() {
             ))}
           </div>
         </div>
-        <div className="space-y-3 border-white/10 border-t pt-4">
+        <div className="space-y-3 border-primary/10 border-t pt-4">
           <Heading>Common shapes</Heading>
           <div className="flex items-start gap-6">
             <div className="flex flex-col items-center gap-2">
@@ -79,7 +79,7 @@ export function SkeletonTextPanel() {
             ))}
           </div>
         </div>
-        <div className="space-y-3 border-white/10 border-t pt-4">
+        <div className="space-y-3 border-primary/10 border-t pt-4">
           <Heading>Line counts</Heading>
           <div className="flex gap-8">
             {[1, 2, 4].map((count) => (
@@ -92,7 +92,7 @@ export function SkeletonTextPanel() {
             ))}
           </div>
         </div>
-        <div className="space-y-3 border-white/10 border-t pt-4">
+        <div className="space-y-3 border-primary/10 border-t pt-4">
           <Heading>shortenLast: false</Heading>
           <SkeletonText lines={3} shortenLast={false} />
         </div>
@@ -115,13 +115,13 @@ export function ListContentSkeletonPanel() {
             <ListContentSkeleton />
           </div>
         </div>
-        <div className="space-y-3 border-white/10 border-t pt-4">
+        <div className="space-y-3 border-primary/10 border-t pt-4">
           <Heading>Without tab title</Heading>
           <div className={cn("rounded-lg p-4", surfaceClass(0))}>
             <ListContentSkeleton showTabTitle={false} />
           </div>
         </div>
-        <div className="space-y-3 border-white/10 border-t pt-4">
+        <div className="space-y-3 border-primary/10 border-t pt-4">
           <Heading>Without filter bar</Heading>
           <div className={cn("rounded-lg p-4", surfaceClass(0))}>
             <ListContentSkeleton showFilterBar={false} />

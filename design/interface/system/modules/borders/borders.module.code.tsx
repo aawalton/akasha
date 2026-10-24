@@ -38,7 +38,7 @@ export function BordersPanel() {
               <span className="text-secondary">
                 <strong className="text-primary">Same-Color Visibility:</strong> When displaying a
                 color on the same color background, use{" "}
-                <code className="text-primary">border border-white/10</code> for visibility
+                <code className="text-primary">border border-primary/10</code> for visibility
               </span>
             </div>
             <div className="flex gap-2">
@@ -56,7 +56,7 @@ export function BordersPanel() {
           <Heading>Border Token</Heading>
           <div className={`space-y-1 rounded p-3 font-mono text-xs ${surfaceClass(2)}`}>
             <div>
-              <span className="text-primary">border-white/10</span>
+              <span className="text-primary">border-primary/10</span>
               <span className="text-tertiary"> - Subtle separator, used sparingly</span>
             </div>
             <div>

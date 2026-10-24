@@ -39,7 +39,7 @@ export function ButtonsPanel() {
             </Button>
           </div>
         ))}
-        <div className="space-y-3 border-white/10 border-t pt-4">
+        <div className="space-y-3 border-primary/10 border-t pt-4">
           <Heading>Sizes</Heading>
           <div className="flex flex-wrap items-center gap-2">
             {BUTTON_SIZES.filter((s) => !s.startsWith("icon")).map((size) => (

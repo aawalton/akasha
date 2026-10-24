@@ -40,7 +40,7 @@ export function TextPanel() {
             </Text>
           </div>
         ))}
-        <div className="space-y-3 border-white/10 border-t pt-4">
+        <div className="space-y-3 border-primary/10 border-t pt-4">
           <Heading>Custom Element</Heading>
           <Text variant="description" as="div">
             This description renders as a div instead of the default p element.
@@ -64,7 +64,7 @@ export function KbdPanel() {
             <Kbd>Space</Kbd>
           </div>
         </div>
-        <div className="space-y-2 border-white/10 border-t pt-4">
+        <div className="space-y-2 border-primary/10 border-t pt-4">
           <Heading>Modifier Combos (KbdGroup)</Heading>
           <div className="flex flex-wrap items-center gap-3">
             <KbdGroup>
@@ -97,7 +97,7 @@ export function SeparatorPanel() {
           <Separator />
           <p className="text-secondary text-sm">Content below</p>
         </div>
-        <div className="space-y-2 border-white/10 border-t pt-4">
+        <div className="space-y-2 border-primary/10 border-t pt-4">
           <Heading>Vertical</Heading>
           <div className="flex h-6 items-center gap-3">
             <span className="text-secondary text-sm">Left</span>
@@ -123,7 +123,7 @@ export function AlertPanel() {
             <AlertDescription>This is a default alert with informational content.</AlertDescription>
           </Alert>
         </div>
-        <div className="space-y-2 border-white/10 border-t pt-4">
+        <div className="space-y-2 border-primary/10 border-t pt-4">
           <Heading>Destructive</Heading>
           <Alert variant="destructive">
             <AlertTitle>Destructive Alert</AlertTitle>
@@ -158,7 +158,7 @@ export function AvatarPanel() {
             </Avatar>
           </div>
         </div>
-        <div className="space-y-2 border-white/10 border-t pt-4">
+        <div className="space-y-2 border-primary/10 border-t pt-4">
           <Heading>Fallback Initials</Heading>
           <div className="flex items-center gap-3">
             <Avatar className="size-8">

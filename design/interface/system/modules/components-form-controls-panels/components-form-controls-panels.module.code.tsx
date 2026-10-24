@@ -172,7 +172,7 @@ export function TogglePanel() {
             Disabled
           </Toggle>
         </div>
-        <div className="space-y-3 border-white/10 border-t pt-4">
+        <div className="space-y-3 border-primary/10 border-t pt-4">
           <p className="text-secondary text-sm">Elevated variants</p>
           <div className="flex flex-wrap items-center gap-2">
             <Toggle variant="elevation" aria-label="Elevation toggle">
@@ -186,7 +186,7 @@ export function TogglePanel() {
             </Toggle>
           </div>
         </div>
-        <div className="space-y-3 border-white/10 border-t pt-4">
+        <div className="space-y-3 border-primary/10 border-t pt-4">
           <p className="text-secondary text-sm">Sizes</p>
           <div className="flex flex-wrap items-center gap-2">
             <Toggle size="sm" aria-label="Small toggle">
