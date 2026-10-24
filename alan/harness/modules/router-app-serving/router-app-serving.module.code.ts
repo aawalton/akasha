@@ -94,6 +94,7 @@ type ServedSocket = { readonly send: (text: string) => unknown; readonly close: 
 
 type SocketServing = {
   readonly path: string
+  readonly admitted: (request: Request) => boolean
   readonly said: (socket: ServedSocket, text: string) => unknown
   readonly closed: (socket: ServedSocket) => unknown
 }
@@ -154,6 +155,7 @@ export async function servedRouterApp(start: RouterAppStart): Promise<Stopping> 
     fetch(request, upgrading): Promise<Response> | Response | undefined {
       const pathname = new URL(request.url).pathname
       if (socketAsked(start.socket, request, pathname)) {
+        if (!start.socket.admitted(request)) return new Response("Forbidden", { status: 403 })
         if (upgrading.upgrade(request)) return undefined
         return new Response("Upgrade failed", { status: 400 })
       }

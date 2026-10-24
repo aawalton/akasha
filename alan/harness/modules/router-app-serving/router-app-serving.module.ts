@@ -69,7 +69,15 @@ export const routerAppServing = {
       statement:
         "An app may name one path where a WebSocket is taken in rather than a route reached.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An app naming that path says which requests for it are admitted.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A request for that path not admitted is answered 403 and never upgraded.",
+    },
   ],
   createdAt: "2026-09-21T18:55:56.859Z",
-  updatedAt: "2026-10-24T20:51:01.335Z",
+  updatedAt: "2026-10-24T23:00:24.852Z",
 } as const satisfies Module

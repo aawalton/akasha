@@ -75,7 +75,10 @@ async function freePort(): Promise<number> {
   return port
 }
 
-async function startedAt(around?: RouterAppStart["around"]): Promise<string> {
+async function startedAt(
+  around?: RouterAppStart["around"],
+  socket?: RouterAppStart["socket"]
+): Promise<string> {
   const root = await builtRoot()
   const port = await freePort()
   process.env["PORT"] = String(port)
@@ -86,6 +89,7 @@ async function startedAt(around?: RouterAppStart["around"]): Promise<string> {
     csp: {},
     whoIsReading: noReader,
     around,
+    socket,
   })
   setTimeout(() => void server.stop(), 2_000).unref()
   return `http://127.0.0.1:${port}`
@@ -104,6 +108,35 @@ test("a started app hands every request through what the app wraps it in", async
   )
   expect((await fetch(`${at}/elsewhere`)).status).toBe(418)
   expect(await (await fetch(`${at}/one.txt`)).text()).toBe("one")
+})
+
+const SOCKET_PATH = "/socket"
+
+function opened(at: string): Promise<boolean> {
+  const ws = new WebSocket(at)
+  return new Promise((done) => {
+    ws.onopen = () => {
+      ws.close()
+      done(true)
+    }
+    ws.onerror = () => done(false)
+  })
+}
+
+test("a socket the app does not admit is refused before it is upgraded", async () => {
+  const at = await startedAt(undefined, {
+    path: SOCKET_PATH,
+    admitted: (request) => new URL(request.url).searchParams.get("leg") === "one",
+    said: () => undefined,
+    closed: () => undefined,
+  })
+  const refused = await fetch(`${at}${SOCKET_PATH}`, {
+    headers: { upgrade: "websocket", connection: "upgrade" },
+  })
+  expect(refused.status).toBe(403)
+  const ws = at.replace(/^http:/, "ws:")
+  expect(await opened(`${ws}${SOCKET_PATH}?leg=two`)).toBe(false)
+  expect(await opened(`${ws}${SOCKET_PATH}?leg=one`)).toBe(true)
 })
 
 test("a started app told to stop ends its streams and exits cleanly", async () => {

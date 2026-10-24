@@ -38,11 +38,23 @@ export const couplesCall = {
       statement: "One call is held at a time.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "Only Telnyx reaches a call's stream, so no browser session admits a stream.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A spouse is admitted by calling from the phone their person page states.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No session hears or speaks into a call, whether signed in or look-only.",
+    },
+    {
       decisionKind: "decision-kind/stopgap",
       statement:
         "The Telnyx API key is held on the outbound account and again as an alanwalton-web secret.",
     },
   ],
   createdAt: "2026-10-24T20:51:01.335Z",
-  updatedAt: "2026-10-24T21:23:53.763Z",
+  updatedAt: "2026-10-24T23:00:24.852Z",
 } as const satisfies Domain

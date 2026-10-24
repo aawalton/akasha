@@ -1,6 +1,7 @@
 import {
   legClosed,
   legSaid,
+  streamAdmitted,
 } from "akasha/alan/couples-therapy/couples-call/modules/room/couples-call-room.module.code.ts"
 import {
   lookingRefused,
@@ -27,6 +28,7 @@ await servedRouterApp({
   whoIsReading: async (request) => ({ user: await signedInAs(request) }),
   socket: {
     path: "/api/call/stream",
+    admitted: (request) => streamAdmitted(request),
     said: (socket, text) => legSaid(socket, text),
     closed: legClosed,
   },
