@@ -263,6 +263,7 @@
 {"propertySlug":"decision-kind","path":"alan/collection/reading/modules/shapes/reading-shapes.module.ts","id":"01a0657b-06a7-7ae0-baf9-5cce272d89ba"}
 {"propertySlug":"decision-kind","path":"alan/collection/royal-road/modules/reading/royal-road-reading.module.ts","id":"01a0e98b-04bc-714d-81d9-07c7ec2edde1"}
 {"propertySlug":"decision-kind","path":"alan/collection/sync/sync.page-type.ts","id":"01a06835-e289-7ad6-8588-3a59938a1140"}
+{"propertySlug":"decision-kind","path":"alan/couples-therapy/couples-therapy.domain.ts","id":"01a16edd-ac15-7a21-ad13-ce45952dfc04"}
 {"propertySlug":"decision-kind","path":"alan/google/drive/google-drive.domain.ts","id":"01a05bec-fc09-7a61-8e09-909bc24a66c2"}
 {"propertySlug":"decision-kind","path":"alan/google/email/google-email.domain.ts","id":"01a05c0e-372c-7620-9bcc-082febbe3f5b"}
 {"propertySlug":"decision-kind","path":"alan/google/email/modules/email-command-reading/email-command-reading.module.ts","id":"01a06810-cf11-7676-b503-15195a7cff5b"}

@@ -34,7 +34,8 @@ export const alan = {
     "router-app/alan-atlas-web",
     "router-app/alan-web",
     "router-app/alan-requests-web",
+    "domain/couples-therapy",
   ],
   createdAt: "2026-09-01T17:20:46.723Z",
-  updatedAt: "2026-09-25T13:03:17.000Z",
+  updatedAt: "2026-10-24T17:03:03.699Z",
 } as const satisfies Domain

@@ -185,7 +185,7 @@ export const persona = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every seat whose principal is a person has a persona other than the default.",
+      statement: "Every seat whose principal is one person has a persona other than the default.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -237,5 +237,5 @@ export const persona = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-30T14:54:58.893Z",
-  updatedAt: "2026-10-17T18:21:02.975Z",
+  updatedAt: "2026-10-24T17:03:03.699Z",
 } as const satisfies PageType

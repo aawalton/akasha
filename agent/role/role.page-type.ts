@@ -29,6 +29,7 @@ export const role = {
     "role/roleplay-recorder",
     "role/roleplay-worldbuilder",
     "role/roleplay-illustrator",
+    "role/couples-therapist",
   ],
   properties: [{ pageProperty: "boolean-property/on-call", required: true, many: false }],
   directives: [
@@ -126,5 +127,5 @@ export const role = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-30T17:23:00.768Z",
-  updatedAt: "2026-10-19T19:52:27.176Z",
+  updatedAt: "2026-10-24T17:03:03.699Z",
 } as const satisfies PageType
