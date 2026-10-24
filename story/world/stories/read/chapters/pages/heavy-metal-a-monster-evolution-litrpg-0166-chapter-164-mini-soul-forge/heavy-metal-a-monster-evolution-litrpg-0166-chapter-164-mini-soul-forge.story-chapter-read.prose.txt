@@ -1,0 +1,197 @@
+Name:
+
+Rusty
+
+Classification:
+
+Enchanted Twilight Steel Armor [ D - ] L1
+
+Type:
+
+Magical/Inorganic
+
+Hit Points [ HP ]
+
+642/642
+
+Magic Points [MP]
+
+491/491
+
+Special Points [SP]
+
+90/90
+
+Strength
+
+20 [ D - ] { + 55 }
+
+Agility
+
+5 [ D - ] { + 12 }
+
+Dexterity
+
+7 [ D - ] { + 5 }
+
+Constitution
+
+25 [ D - ] { + 67 }
+
+Intelligence
+
+15 [ D - ] { + 20 }
+
+Wisdom
+
+20 [ D - ] { + 21 }
+
+Willpower
+
+14 [ D - ] { + 19 }
+
+Durability
+
+D +
+
+"I did it, I'm a D-rank now!"
+
+Rusty had finally achieved his goal of evolving past the E-rank, a stage he felt trapped in for nearly a year. All his stats had increased and were further enhanced by his overpoints, which were stored in separate side brackets.
+
+Alexander and Aburdon had explained a few important details about the D-rank to him. Just as the requirements had changed when he advanced from F-rank to E-rank, they shifted again for this new level. Now, he needed to reach level twenty-five to progress further, instead of the previous requirement of fifteen level-ups. In addition to this change, the maximum number of stat points he could gain also increased beyond the previous cap of one hundred fifty.
+
+This wasn’t all. As with his previous evolutions, he was granted one new skill to accompany the first level of becoming an Enchanted Twilight Steel Armor. It wasn't as groundbreaking as some of the other skills he had received, but considering the number of crafting abilities he had gained and the fact that he could now apply enchantments to his own body, it was more than enough.
+
+Fortify Enchantment [ Living Armor ]
+
+Active Skill
+
+Boosts the power of enchantments found on a living armor’s body or weapons.
+
+It was a straightforward buffing skill, seemingly similar to Twilight Embrace, but focused on enchantments he could apply to his body, weapons, or possibly both. He wasn’t entirely sure and would need to experiment.
+
+"But first… I should probably get out of here."
+
+While he could still see his status screen, the place he was in was shrouded in darkness. For safety, he had left his body inside a small, coffin-sized compartment beneath his lair. It gave him just enough room to reach the latch and unlock the simple mechanism securing the lid. Now that it was disengaged, he only needed to push with some force to get out.
+
+"It’s much lighter than before."
+
+He immediately noticed the difference in strength. When he had first climbed into this hiding spot, it took both hands to lift the heavy stone lid. Now, he could do it with just one.
+
+"Everything seems to be in order."
+
+He felt calm. He had already activated his life detection skill and could sense that both Gleam and the orphans were still within his lair. With the lid removed, he emerged into the workshop he had been building up. After spending several months inside the soul forge, it was a sight for sore eyes.
+
+The smithy he had constructed for himself no longer matched the level of his smithing skills. If he wanted to begin selling enchanted weapons and armor, he would have to replace much of it. The current smelter, for example, couldn’t handle magically infused metals and would need to be rebuilt entirely. There was a lot of work ahead, but it was work he truly enjoyed.
+
+"As long as I create something once, I should be able to recreate it with the help of the system, right?"
+
+He had already crafted a few items that incorporated both his darkness and light spells. Just like with previous creations, replication would be possible as long as he had the necessary materials stored in his internal inventory. However, at the moment, he lacked any enchanted steel or similar materials capable of containing enchantments. It was clear that he would either need to construct a magical smelter and produce the alloys himself or begin trading with the city’s merchants to acquire them.
+
+Inside his storage space, he had a large amount of iron and steel saved up. These could potentially be refined into more mana-conductive twilight steel. That was where the real issue began. The metal he worked with was rare and somewhat unique. Selling weapons made from it would draw unwanted attention and make him a target. To avoid that, he would have to restrict himself to using regular enchanted steel, which would need to be enriched with mana to hold enchantments properly. In the soul forge, all of these resources had been readily available, but out here in the real world, things were not so simple.
+
+"Will I be able to restore my body with regular steel though?"
+
+He asked himself as his gaze drifted back to his storage. His body had evolved from being composed of ordinary twilight steel to the enchanted version. Previously, he only needed raw materials and some SP to create usable ingots. Now, without steel infused with mana crystals or another appropriate substitute, he likely wouldn’t be able to produce materials capable of repairing himself. This posed a serious issue. Heading into a dungeon to gain levels without a reliable way to restore his body was not only risky, it was outright dangerous. It was a problem he needed to solve soon.
+
+"I might be able to find some inside the dungeon, and I usually only need to obtain the resource once to unlock it in the system storage. That means I either have to buy some mana-infused steel or smelt it here myself."
+
+Rusty opened his storage system but eventually closed it after failing to find an option to create the mana-infused metals he needed. As he returned to his main system window, something caught his eye, something he had previously overlooked. He had been too focused on examining his main status screen to notice it before.
+
+"What’s this?"
+
+In the corner of the main screen, there was a red exclamation mark over what looked to be an icon of the Soul Forge. Once he poked it with his metallic index finger, he was given a prompt.
+
+Do you wish to access the Soul Forge?
+
+He stared in disbelief. The system was offering him access to the Soul Forge. Was this a result of his recent evolution? Or was there another reason? From what he remembered, Alexander had received this blessing and mentioned that he had unrestricted access to it during his travels. Perhaps Rusty had finally earned the same privilege.
+
+"Should I press yes or should I wait?"
+
+He hesitated. His guides were not with him, and there was a real possibility that using this new feature could lock it behind a cooldown or restrict future access until the next evolution. Often, the most powerful abilities came with steep requirements, and he found it hard to believe that this one would be any different. Still, his curiosity was quite strong, and once it took hold, there was no turning back.
+
+"Well, it can’t hurt to try it now."
+
+After nodding to himself, Rusty selected ‘Yes.’ A brief shimmer overtook his vision, and in the next instant, he felt the familiar weightlessness and the sensation of being pulled into the Soul Forge. Something was off, though. The transfer lacked the usual force behind it, and soon he would understand why.
+
+Normally, when accessing the Forge, he arrived before the grand castle. This time, however, he found himself directly inside a specific chamber, the one used for crafting. The tools looked the same, but the shelves that had once been filled with renewable materials were now mostly bare, holding only lesser crafting items. It took him a moment to recognize that these materials were the ones stored in his inventory.
+
+"So there were some limitations.”
+
+As he looked around, it became clear that this was not the full Soul Forge. It was a reduced version, a condensed space meant only for crafting. Alexander was nowhere to be seen, and neither was Aburdon. He was completely alone in a sealed chamber with no visible exits. He had hoped he would also get access to the library or the summoning chamber for additional rewards, but that was not the case. To make things worse, a giant hourglass appeared on the front wall, its sands already falling.
+
+"I see. So it's a timed ability with restricted access to Forge tools."
+
+Although the limitations were obvious, there were benefits as well. The most significant was that he could use the upgraded smelter and enchanting tools. Depending on the cooldown period, this limited soul forge could eliminate the need to construct a magical smelter in the real world. If all the materials here were from his storage, it was likely he could take back anything he crafted within this space, though he would need to test that theory.
+
+"I should probably do that first before time runs out."
+
+He had no idea how long the timer would last, but one thing was certain. He lacked mana-infused twilight steel in his storage. This might be his only chance to create it, so he had to act quickly. Luckily, even though his resources were limited, he had regular twilight steel and mana crystals to work with.
+
+“I only have enough of these for one try…”
+
+Just like in the original Soul Forge, he needed two main materials: twilight steel ingots and mana crystals. Fortunately, he had managed to procure some, mostly because Gleam liked eating them. Still, he had only enough to produce a single ingot. That was all he needed, and in any case, there likely would not be enough time to make more than one.
+
+He got to work immediately, using the same techniques he had employed before. With the help of Lesser Heat Perception, which had leveled up since his last attempt, it was much easier to judge the exact temperatures needed for each of the channels. Before long, the steel and melted mana crystals fused, forming a proper ingot. After analyzing it, he perked up with glee.
+
+Classification:
+
+Mana Infused Twilight Steel [ Standard ]
+
+Type:
+
+Metal
+
+Description:
+
+Twilight Steel infused with a small amount of mana.
+
+The first time he had attempted to create this kind of ingot, it had resulted in the ‘Crude’ classification. Now, he had produced a higher-ranked version. From what he could tell, the ranking progressed from Crude to Standard and then to Refined. Refined corresponded to his D-rank, and it was something he believed he could achieve with his current abilities. Still, time had run out. He had managed to accomplish what he came here to do and it was time to return.
+
+The sands in the hourglass had nearly run out. As the final grains slipped through, Rusty felt a pull from beyond the chamber. In the past, he had always left the Forge by transferring into a new body, so this sensation felt unfamiliar. A pulse of light surrounded him, and in the next moment, he was back in his lair, standing exactly where he had been before.
+
+“That might have been dangerous… but did it work?”
+
+Only now did he realize how vulnerable he had been. Even if he had been gone for just a few seconds, it could have ended in disaster if an enemy had entered through the closed workshop door. Fortunately, he had survived, and now he looked through the storage system. His visor scanned the contents, and just as he had hoped, the mana-infused ingot was there. This confirmed that he could now produce more without needing an expensive magical smelter. All he needed were twilight steel ingots and mana crystals, both of which he could obtain.
+
+"Great... Oh, I should probably summon those two before I forget again."
+
+His guides weren’t present, and they likely would have warned him against pressing the prompt without hiding himself. He began the process of summoning them, but as he worked, he heard the shuffling of insect legs. The sound came from the door, and he immediately knew who it was.
+
+He wasn’t sure how much time had passed in the outside world, but for him, it had already been several months. Before calling Alexander and Aburdon, he decided to unlock the door from his side. As soon as he did, a cheerful white ant leapt onto him and clung tightly to his head.
+
+"(˶ᵔ ᵕ ᵔ˶)"
+
+"Gleam! I missed you too!"
+
+Smiling, he gently grabbed his friend with both hands and lifted her into the air. After a few joyful spins, he set her down carefully on the workbench. Gleam chirped a few times and wiggled around while fluttering her newly gained wings.
+
+"How long was I gone? And were there any problems?"
+
+"ദ്ദി(˵ •̀ ᴗ - ˵ )"
+
+Now reunited with his friend, Rusty began asking questions. Gleam quickly explained that he had been gone for about the same amount of time as before, with an extra hour added. All the children were fine, and nothing had happened during his absence.
+
+"That's great news, Gleam. Oh, and here, I've got something for you."
+
+Rusty placed the upgraded version of her ant armor on the workbench and explained how the enchantments worked. Gleam wiggled excitedly around the armor and seemed quite fond of it.
+
+"(˶˃ ᵕ ˂˶)"
+
+"You like it and want to put it on? Hmm, how about we wait until we get into the dungeon? Some of those humanoids might notice it's enchanted. We need to be careful from now on."
+
+"( • ᴖ • )"
+
+Rusty understood the risks that came with upgrading their gear. He had managed to avoid attention while wearing basic iron or steel, but mana-infused equipment was another matter. Some people could identify enchantments and rare materials from a distance. For that reason, it was safer to keep most of their gear stored in his system and to keep himself concealed beneath a dark robe.
+
+“Finally, you took your time!”
+
+After a brief chat with Gleam, Rusty finally decided to summon both of his guides. As expected, Aburdon began complaining immediately, which made Rusty chuckle. Moments later, both guides settled into his eye sockets, and it was time to begin the next stage of his journey. He was now a D-rank creature, a being no longer easy to ignore. While he couldn’t yet call himself truly powerful, he was at least above average.
+
+"Are you going to open up the workshop now, Rusty? We’ll need a lot of capital if you're planning to create enchanted items. We should see what the other craftsmen in this settlement are selling."
+
+Alexander asked and advised as Rusty moved toward the workshop exit. Aburdon quickly added his own thoughts.
+
+"Why don’t we go to the dungeon first? Don’t assume being D-rank makes you strong. Know your limits."
+
+Both suggestions had merit. Rusty had never fully explored the potential of his blacksmith persona, but now he could. With the ability to control armor sets through his Puppet Armor skill, the difficulty of managing his dual identity had greatly decreased. There was still much to do, and it would all require a large amount of coins. However, with his current abilities and strategies, he knew he could achieve everything. His time had come. The era of enchanted armor had begun.

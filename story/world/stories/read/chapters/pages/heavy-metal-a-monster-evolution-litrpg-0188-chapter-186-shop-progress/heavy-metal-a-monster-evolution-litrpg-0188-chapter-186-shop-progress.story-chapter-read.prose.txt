@@ -1,0 +1,253 @@
+‘Hm… I’ve not been making that much progress lately.’
+
+Name:
+
+Rusty
+
+Classification:
+
+Enchanted Twilight Steel Armor [ D - ] L8
+
+Type:
+
+Magical/Inorganic
+
+Hit Points [ HP ]
+
+670/670
+
+Magic Points [MP]
+
+513/513
+
+Special Points [SP]
+
+90/90
+
+Strength
+
+47 [ D - ] { + 55 }
+
+Agility
+
+24 [ D - ] { + 12 }
+
+Dexterity
+
+26 [ D - ] { + 5 }
+
+Constitution
+
+53 [ D - ] { + 67 }
+
+Intelligence
+
+37 [ D - ] { + 20 }
+
+Wisdom
+
+42 [ D - ] { + 21 }
+
+Willpower
+
+36 [ D - ] { + 19 }
+
+Durability
+
+D +
+
+Some time had passed since the establishment of the Living Metal Forge. The tunnel that allowed him to return to the dungeon or reach the orc-infested forest had already been completed. During the night, he hunted monsters outside for money, and during the day he worked on expanding his forge.
+
+Most of the work was finished now. His lair had been fully repaired, and the shelves were stocked with steel and enchanted steel wares. Everything had taken much more time than he expected, but at last he was beginning to turn a profit. Using resources from the dungeon directly and transforming them into weaponry brought in far more money than selling them one by one to the guild or to merchants. Even though the prices were lower compared to crafted pieces sold by others, his earnings were strong enough to let him experiment with higher difficulty enchantments.
+
+While his shop was thriving and he could easily reproduce many items for sale, not everything met his expectations. His leveling progress had slowed drastically, and the monsters he encountered were no longer challenging. The more he mined in the sunken caverns, the harder it became to find both enemies and resource pockets.
+
+‘If only those troublesome humanoids would let me into the other tunnels. I am sure the most precious resources are hidden there. Why must humanoids always be so greedy?’
+
+He had been forced to change his plans many times because the adventurers’ guild refused to grant him access to better sections of the dungeon. For a brief moment, he considered venturing into the orc-infested forest, but since C-rank monsters roamed there, he decided to postpone that risk.
+
+There was some good news regarding his progress. Several of his skills had advanced further. His old skill, Basic Mana Body, had evolved into Metal Mana Body, which not only increased his mana regeneration but also granted an additional beneficial effect.
+
+Metal Mana Body ( Living Armor )
+
+Passive Skill
+
+Allows the user to absorb mana from the surroundings, increasing passive mana regeneration by fifty percent.
+
+Any enchantments under this skill have their effects enhanced by five percent.
+
+This was a considerable improvement, although it came with one drawback. Since his body was composed of twilight metal and he had made little progress in the field of twilight enchantments, he could not place valuable magical circles on his armor. The skill did not affect the weapons he enchanted, but at least the lightning mana resistance enchantment on his helmet benefited from it.
+
+Armor Body Full Control ( Living Armor )
+
+Active Skills
+
+A skill that allows the user to control the entire body at once. All living armor parts can be controlled independently.
+
+His previous skill, Limb Control, had advanced, allowing him to manipulate not only his limbs but his entire metallic body at the same time. He still needed to test the limits, but the possibilities were much broader, and the mana cost had decreased significantly. To make things even better, he received an original skill upon reaching level seven.
+
+Overload Enchantment [ Living Armor ]
+
+Active Skill
+
+When activated, the power of an enchantment is boosted exponentially. After one minute, however, the enchantment is destroyed.
+
+This skill was somewhat disappointing because it closely resembled Fortify Enchantment. To make matters worse, it corroded the affected enchantments, destroying them entirely, which made it difficult to use effectively. It could be combined with the other skill to generate more power, but it was best reserved as a last resort. In addition, several of his starting skills had already advanced to a higher level, which was the domain of D-rank monsters.
+
+Advanced Polearm Proficiency
+
+Passive Skills
+
+An advanced version of the Polearm Proficiency skill. It improves the ability to wield polearms and is necessary to unlock more powerful polearm techniques.
+
+Because of his frequent use of weapons such as halberds and poleaxes, this was his highest-rated passive skill related to weaponry.
+
+Advanced Power Thrust
+
+Active Skill
+
+Perform an advanced, powerful thrust attack.
+
+Advanced Power Slash
+
+Active Skill
+
+Perform an advanced, powerful slash attack.
+
+His other techniques, such as Power Slash and Power Thrust, had also advanced, while some still lagged behind. One regret was the difficulty of acquiring absorbed skills. The monsters he hunted lacked a proper head that he could place his helmet over. Even when he tried to restrain them, it was impossible to gain anything. Orcs were a better target, but he was still uncertain if he was prepared to enter that forest.
+
+‘Should I capture some D-rank adventurers and try?’
+
+He thought to himself as he looked at the puppet that was the blacksmith Oswald. This was the man known as the new master blacksmith in the city. He had managed to produce several refined weapons, which caused the interest of the other adventurers to skyrocket. Fortunately, this fame also led to continuous advancement in his possession skill.
+
+Advanced Possession L3
+
+[ Living Armor ]
+
+Active Skill
+
+Once someone wears the living armor or one of its parts, it enables complete control over the wearer’s body. Advanced Possession can be used at range and on multiple targets.
+
+“Master Oswald.”
+
+“What is it, boy?”
+
+“We have a weapon for repairs.”
+
+“Just leave it there and tell them to come back tomorrow.”
+
+“Yes!”
+
+From the side, Rolo approached with a piece of equipment in his hand. It was a sword with an enchantment on it, one that had come from this shop a month ago. It belonged to one of the first batches that had been sold, and now a customer had returned to have it restored.
+
+“Ah, good day, Mr. Edmund!”
+
+Rusty stood to the side, controlling Oswald’s body, and nodded at Rolo, who left. Thanks to his now improved possession skill, he could even speak through the second head at a distance. If someone from the city tried to confirm anything, it would appear that he and the blacksmith were two separate beings. Even the children in the area assumed as much. The only problem was that they had begun to find it strange that the smith did nothing but work and always ate alone. Then, when nighttime came, he just vanished somewhere.
+
+“It’s one of the early models. Should I just alter it or leave it as the old one?”
+
+Classification:
+
+Mana Infused Steel Longsword
+
+[ Standard ] [ Lesser Durability 0% ]
+
+Type:
+
+Sword [ Enchanted ]
+
+Description:
+
+A standard longsword infused with the Lesser Durability enchantment.
+
+Rusty looked at the blade, a simple steel longsword with a durability enchantment. It had been his first ordinary enchanted creation, but now he was capable of producing refined weaponry. These refined weapons were sharper and carried stronger attack multipliers than standard ones. Their performance was superior, and because of the way he handled enchantment infusion, the material requirements remained the same. But as Rusty considered this, Aburdon gave a good rebuttal.
+
+“Why would you? Let them buy the better blade for more. Otherwise, those lesser beings will begin purchasing inferior products and expect them to be improved later.”
+
+“I suppose that does make sense…”
+
+With Rolo gone from the smithing chamber, he was free to stop using the Puppet Armor skill. Oswald stopped moving and stood still like a statue. Any trace of his persona disappeared, and Rusty could finally focus on regaining his mana and tending to the blade.
+
+The sword vanished from his hand and appeared inside his storage system. It was then broken apart into its base resources, which were mana-enriched steel. All he needed now was to add some mana crystals or mana quartz in order to create a perfect copy of the blade, one with the enchantment fully charged at one hundred percent.
+
+“This saves so much time, and I don’t need to spend extra money on the solution.”
+
+Although he did not earn much from restoring enchantments, it was still a small sum of additional profit. The time required was negligible, and the materials for restoration were quite cheap. With this method, he was quickly building up a pile of coins stored safely within him. He was not yet sure how best to use the money, but buying more materials from the merchants would likely be the first investment.
+
+“Should I go to the market and see if they have any exotic metals?”
+
+“That’s not a bad idea, you seem to have mastered mana-infused steel crafting.”
+
+Replied Alexander, who was still watching over his progress. Over the course of several weeks of work, he had managed to enchant multiple weapons and even forge armor sets in various sizes. At this point, he was able to turn his focus to metallurgy and begin smelting alloys. With the right recipe, a metal’s resistance could be increased, and thanks to the Soul Forge and his previous evolution, he already knew a few combinations worth trying.
+
+A new world of crafting had opened before him. The smithy around him was not ideal for everything, yet with the aid of his system and the Soul Forge, he had the means to create new and exotic alloys. Steel was only the beginning, for there were countless other combinations he could explore.
+
+“I wonder if I can change my whole body now, even before I advance into a new evolution?”
+
+Rusty asked, and Alexander quickly replied.
+
+“That is a possibility. Your body is quite unique.”
+
+The future held extraordinary prospects, and he wished he could accomplish more already. However, his access to the Soul Forge was limited, and the city remained unsafe. Few merchant caravans passed through, and he was still forced to hide from humans. He did not know if this city could hold him forever, but for his current D rank, it was enough.
+
+‘I wonder what I should do once I reach C rank…’
+
+The settlement he was in was suitable for now, but it offered little beyond the D rank. The strongest beings he had encountered so far were only at the beginning of C rank, and he was uncertain what he would do once he reached that threshold. But, before he could think any further, his reflection was cut short by a knock on the door. He immediately activated the possession skill on his Oswald armor puppet and sent it to answer.
+
+“Who is it? I told you brats not to disturb me while I am working!”
+
+The interruption was unusual. The children normally obeyed his orders, and disturbing the smith without a proper reason was one of the strict rules he had established.
+
+“I am sorry, Master Oswald, but there are some people here to meet you.”
+
+“I see. Tell them I will be there in a moment.”
+
+“Sure!”
+
+Rolo replied from behind the door before hurrying back upstairs. If Rusty had a face, he would have been frowning. Until now, he had managed to stay unnoticed, but the fact that Rolo reported this meeting meant the visitors were not to be taken lightly.
+
+“I hope this goes well.”
+
+Oswald stepped forward, controlled by Rusty’s skill. It was very likely that people from the city had finally decided to investigate the new smithy. His second persona, the blacksmith Oswald, had to pass this inspection if the humanoids were not to grow suspicious. Before moving up, he placed the enchanted blade into a barrel marked for future returns, and then both of his bodies climbed the stairs.
+
+The workshop door creaked open, and Oswald’s puppet frame strode into the front of the shop, hammer still in hand as if he’d been pulled straight from the forge. Three figures stood there waiting.
+
+The first was a stout, round-bellied man dressed in colorful silks that strained at the seams. He carried himself as if he were someone important, yet he lacked the extravagant accessories that would declare his wealth too boldly. Instead of gemstone-studded rings, he wore only a few plain silver ones. He looked like a merchant, although one who had not risen beyond middle management.
+
+At his sides stood two towering guards, their arms as thick as tree trunks and scarred from years of battle. Leather harnesses stretched across their bulging muscles, and heavy axes rested on their backs. Their expressions were like stone masks, but their stance left no doubt about their purpose.
+
+‘They look strong and experienced but…’
+
+The merchant’s grin widened as Oswald approached, although Rusty paid more attention to the guards. They were as large and muscular as orcs, yet their levels were only in the lower E-rank range. There was nothing for him to fear, but one question lingered. Why were these people here? They did not seem like officials from city hall sent to check up on him. This was something entirely different.
+
+“Ah! Master Oswald, I presume. What an impressive establishment you’ve built here. I’ve heard whispers all over the guild halls and markets of your fine wares. Naturally, I had to see for myself.”
+
+“That’s a lot of words… what do you want?”
+
+Rusty wasn’t sure what it was, but there was something off about this man. He used the Oswald puppet to communicate with him while he stood there watching.
+
+“If you’ve come to buy, just buy. I don’t have time for this.”
+
+He decided to play his blacksmith as someone who became annoyed easily. Oswald frowned, placed his large visor over his face to hide his expression, and turned away. The merchant seemed displeased by this treatment and glanced toward one of his guards, who immediately understood the signal.
+
+“Hey, do not turn your back. Mr. Gorivini was still speaking.”
+
+The large man stepped forward as he spoke. The children gathered near the shop, along with several customers, all took a step back at the sight of the confrontation. Rolo, who stood behind the shop counter with the Oswald puppet, moved his hand toward his hidden dagger, but Rusty made sure he would not need it.
+
+“No, I don’t think so.”
+
+Rusty stepped out from behind Oswald’s shadow and grasped the large man’s wrist as it reached toward the counter.
+
+“What?”
+
+The musclebound man grunted as he tried to pull his arm free, but he could not. Rusty was far stronger and, with the help of the gripping skill he had gained from a zombie, his hold was as unyielding as iron.
+
+“L… let go… Argh…”
+
+The second guard was stunned by the sight of his companion collapsing to his knees. The merchant’s face grew pale. Clearly, they had not expected anyone to resist them.
+
+“P… please, there is no need for this. I only came to invite you to the quarterly shop association meeting. Please come to this address when you have time, Master Oswald.”
+
+The merchant, sweating profusely, placed a piece of paper on the counter. The three men quickly left through the door, leaving Rusty scratching his metal head.
+
+“Quarterly shop association meeting?”
