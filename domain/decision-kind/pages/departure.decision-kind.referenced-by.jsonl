@@ -2715,6 +2715,7 @@
 {"propertySlug":"decision-kind","path":"design/interface/color/color.page-type.ts","id":"01a06575-c2a9-766f-8f09-da30cc969637"}
 {"propertySlug":"decision-kind","path":"design/interface/color/properties/light-hex.text-property.ts","id":"01a16f73-defc-78ba-807a-64f3044232e9"}
 {"propertySlug":"decision-kind","path":"design/interface/design-interface.domain.ts","id":"01a08d8d-8ba8-7079-a696-0ed96689e240"}
+{"propertySlug":"decision-kind","path":"design/interface/layout/modules/app-shell-bottom-nav/app-shell-bottom-nav.module.ts","id":"01a05b82-8b97-74bf-9735-1b3ad6f8889d"}
 {"propertySlug":"decision-kind","path":"design/interface/layout/modules/app-shell-sidebar/app-shell-sidebar.module.ts","id":"01a05b82-8b98-7341-a3de-18953237e37f"}
 {"propertySlug":"decision-kind","path":"design/interface/layout/modules/nav-active/nav-active.module.ts","id":"01a05b82-8b9a-745f-97df-0cda03922d9c"}
 {"propertySlug":"decision-kind","path":"design/interface/layout/modules/panel-toggle-provider/panel-toggle-provider.module.ts","id":"01a05b82-8b99-71ea-8418-c319e661ecd8"}

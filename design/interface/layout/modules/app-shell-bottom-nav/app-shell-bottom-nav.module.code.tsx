@@ -34,6 +34,13 @@ function NavIconSlot({ item }: { item: AppNavItem }) {
   )
 }
 
+export function offersMore(
+  groups: readonly MoreDrawerGroup[],
+  footerSlot: React.ReactNode | undefined
+): boolean {
+  return groups.length > 0 || footerSlot != null
+}
+
 const BOTTOM_NAV_SKELETON_SLOTS = ["s1", "s2", "s3", "s4", "s5"] as const
 
 function BottomNavSkeleton() {
@@ -137,7 +144,7 @@ function AppShellBottomNav({ config }: AppShellBottomNavProps) {
             )
           })}
 
-          {(drawerGroups.length > 0 || footerSlot != null) && (
+          {offersMore(drawerGroups, footerSlot) && (
             <button
               type="button"
               onClick={() => setMoreOpen(true)}

@@ -6,6 +6,7 @@
 {"propertySlug":"import","fileName":"nav-types.module.code.ts","path":"alan/web/modules/alan-app-shell/alan-app-shell.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"nav-types.module.code.ts","path":"alan/web/modules/nav-command/nav-command.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"nav-types.module.code.ts","path":"design/interface/layout/modules/app-shell-bottom-nav/app-shell-bottom-nav.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"nav-types.module.code.ts","path":"design/interface/layout/modules/app-shell-bottom-nav/app-shell-bottom-nav.module.test.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"nav-types.module.code.ts","path":"design/interface/layout/modules/app-shell-context/app-shell-context.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"nav-types.module.code.ts","path":"design/interface/layout/modules/app-shell-more-drawer/app-shell-more-drawer.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"nav-types.module.code.ts","path":"design/interface/layout/modules/app-shell-sidebar/app-shell-sidebar.module.code.tsx","typed":true,"deferred":false}
