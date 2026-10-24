@@ -86,6 +86,7 @@
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/cantrip-mage-magic-academy-progression/cantrip-mage-magic-academy-progression.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/caravan-of-blades-a-litrpg-deckbuilder/caravan-of-blades-a-litrpg-deckbuilder.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/cards-of-transcendence-a-deck-building-litrpg/cards-of-transcendence-a-deck-building-litrpg.world.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/casual-heroing/casual-heroing.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/cat-girl-evolution/cat-girl-evolution.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/ceaseless-horizons-a-litrpg-progression-fantasy/ceaseless-horizons-a-litrpg-progression-fantasy.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/celestial-card-cultivation-xianxia-100-chapters/celestial-card-cultivation-xianxia-100-chapters.world.ts","typed":true,"deferred":false}
