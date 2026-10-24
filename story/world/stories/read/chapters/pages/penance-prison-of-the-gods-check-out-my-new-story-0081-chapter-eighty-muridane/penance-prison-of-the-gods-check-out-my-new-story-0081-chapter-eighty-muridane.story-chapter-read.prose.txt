@@ -1,0 +1,137 @@
+Since everything was frozen due to the turn-based system, I didn’t need to worry about the rats getting a sneak attack. I moved directly into the range of one of the rats and cast Winter’s Breath. The mana bubbled up inside me. Unlike the warm mana from the fireball spell, this one felt fantastic yet nauseating.
+
+It slithered like a snake up my body, cold and unnerving. I shivered involuntarily. Instead of turning right, it continued rising and escaped through my mouth. My teeth chilled painfully as wintry fog escaped my mouth like breath on a cold winter’s day. The fog kept coming, billowing out until it merged into a cloud that moved forward and engulfed the rat, freezing it solid. Watching the rat turn into an ice sculpture, I couldn't help but marvel at the power I wielded, even as my body ached from the effort.
+
+The other rat's eyes darted around fearfully in its tiny frame. It knew what was coming, making it all the more satisfying. I held out my left hand and cast Mana Drain. Instead of forming a ball or bubbling like a cauldron, the spell formed a knot around my manafont. The knot loosened, and a rope launched out of my hand like a cannon, coiling around the rat and squeezing until the rat popped like a balloon.
+
+Instead of blood and guts, a crystalline blue orb formed in its place. The rope wrapped around the orb and yanked it back into me. The sudden rush of mana into my body was exhilarating but left me momentarily dizzy.
+
+[You have killed Giant Rat 1. You have killed Giant Rat 2. You received 2 mana, rounded down from 2.5. You have received overkill boons.]
+
+"Gahh, why so little mana?" I grumbled, frustration tinging my voice. "I did like 45 damage."
+
+[The mana amount is determined by the health the target loses, not by how much damage you deal. As we delve deeper into the 3rd floor, you will want to start using that every turn, especially as you learn to properly modulate mana usage and your spells.]
+
+Elizabeth’s explanation made sense, but it didn't make it any less annoying. The next room was the necromancer’s lair. I didn’t hesitate; as soon as time froze, I blasted two fireballs. One at the necromancer, the ball burbling in my chest and arm, leaving little pinpricks like sunburns all along my arm. I used my left arm to launch the second fireball at the skeleton.
+
+I was sure there was more to the fight, given that the whole floor got stronger the last few times I came through, but I wanted to see if the speed run boon reward was worth it or if I should just skip this entire floor on future runs. It was overstaying its welcome to an extreme degree; even the second floor was getting a little boring, and I still needed to finish that one.
+
+The second fireball was nowhere near as annoying as the first, but I still took a single point of damage as it left my hand. The fingertips on both hands were charred black, and I had to fight back the urge to suck on them. After all, I was in the sewers. Who knew what kind of infections lurked down here?
+
+The map crystal showed four more rooms, not including the secret rooms, which I decided to skip on this run. As powerful as I was, I didn’t have a chance against the super boss yet. I sighed, a mix of determination and fatigue settling in. Instead, I just blew through the rooms. The next room was new, and I had to pause to take it all in. What now?
+
+Four rats stood in room 2, significantly larger than the usual giant rats, with human-like limbs reminiscent of Ratigan's. They had claws on their hands and torsos covered in fur, making them look more monstrous. Their faces retained intelligent eyes but still had a rat-like structure.
+
+As they turned to attack, I felt a surge of anticipation, and time froze. These were no ordinary pests. I cast a scan, thankful that this skill didn’t consume one of my actions.
+
+Muridane: Weak against: Fire, Ice, and lightning. Strong against: nothing Upon reaching adulthood, a giant rat gains a slight level of sapience and develops a humanoid body. These Muridane are the initial wave of Ratigan's latest mischief.
+
+If adventurers stopped killing them while they were young, more would reach this adult stage.
+
+Stat:
+
+Level
+
+Health
+
+25/25
+
+Potency
+
+10
+
+Def
+
+5
+
+Mdef
+
+5
+
+Item drops
+
+Amount
+
+Chance to drop
+
+Gold
+
+5
+
+33%
+
+Rat Teeth
+
+1-2
+
+33%
+
+Rat Meat
+
+1
+
+33%
+
+Death Boon
+
+1
+
+1%
+
+25 HP. That’s it? All that build-up, and they barely compare to the weakest mob on the second floor.
+
+I shook my head, disappointment mingling with amusement.
+
+I cast my spells. The mana surged through me, a familiar warmth spreading from my core to my fingertips. With my stat boosts, I had around 35 HP. As long as I kept killing efficiently, I’d clear the floor before needing to heal.
+
+The fireballs disintegrated the corpses instantly, leaving nothing but ash. "Good riddance," I said aloud, appreciating the efficiency.There was no need to waste time looting. I ran forward, vaulting the altar and ignoring the lone container in the room. It was a rare chest, but it was useless to me without a key.
+
+The next room was empty, though I glanced at the spot where the secret door was hidden. It was always tempting, but not today.
+
+Before I knew it, I was in the Goblin room. Four goblins stood resolute around the boss altar, the familiar glowing orb floating above it. Time froze as the goblins sized me up. Why were they standing here instead of trying to ambush me? No time to ponder.
+
+I cast two fireballs in quick succession, feeling the sharp pain as the charring spread to the second knuckle of each finger. My HP dropped to 29. I hissed, ignoring the pain. Speed was crucial; I couldn’t let a little pain phase me.
+
+I knew how quickly things could spiral downward if I played this wrong. Although I didn’t have the timer deathboon, I knew how little time I had left. My options: get in close and hope Winter’s Breath would take out multiple goblins, or use two fireballs and pray neither missed, or I could use Malikap’s spell...
+
+The spell sensed my thoughts before I could finalize my decision and cast itself. I was yanked forward in a rush of red and black. Smoke flooded my nostrils as mana coursed through my entire body, not just the pool in my stomach. It filled me, thick as ice but warm as fire. Black electricity tingled up and down my body like static, and then I exploded.
+
+Laughter echoed around me, but I could no longer see as the room filled with black, oily smoke. Panic surged, but I forced myself to stay calm. What now?
+
+"I knew it," a voice sneered, dripping with smug satisfaction. "I knew my corrupting power would be too much for you. You couldn't resist my spell."
+
+"Who are you? What’s going on?" I demanded, trying to peer through the darkness.
+
+Please leave me alone.
+
+"So, let's discuss your rewards," the voice continued, ignoring my question. "I have consumed the bosses for you, so worry not about them. Your pitiful 'speed run' is paused, too. Now, let's discuss the real rewards. I am now forever a part of you."
+
+The oily smoke dissipated, revealing a twisted shadow of a tree-like man. Multiple tree-branch limbs sprouted from his torso, which ended in a constantly moving tornado of branches. He approached, grabbing my chin with his wooden, branch-like hand. I cringed at the cold, rough texture.
+
+"How did you describe me? Oily smoke?" he mused, his voice a sinister whisper. "Yes, from now on, my oily shadow will follow you. You will be at my mercy and live at my discretion, but I will also bless you. That fireball spell? Let's make it double-cast. And that ice breath? Far too weak."
+
+"What have you done to me?" I asked, my voice trembling with a mix of anger and fear.
+
+He smiled a cruel, twisted grin. "You’ll see. In time, you’ll see."
+
+I tried to speak, to defy the monster before me. But he released more smoke. This time, it flew into my mouth and nose, choking me. I spluttered, falling to my knees, helpless. My lungs burned, and panic gripped my chest.
+
+[You have lost Fireball. You have gained Malikap's Fireball. You have lost Wintry Breath and gained Malikap's Breath. You have lost Mana Drain and gained Mana Battery.]
+
+I couldn't help but notice the power immediately. Malikap’s spells were far superior to the ones I had before. Why would anyone choose Aurentum’s deal?
+
+Malikap sneered, "I am done with you. I will summon you when you are needed next." His voice was cold, final. The smoke vanished, leaving a sour taste in my mouth. I gagged, realizing I had fallen and what had caused the sour taste.
+
+"Every time," I muttered, spitting out the foul liquid. My body trembled as I scrambled and rushed to the ladder. I was so close I could feel it. I climbed one leg after the other, each step a struggle, my muscles aching with every movement.
+
+[Congratulations! You have set a new speed record. You have completed the silver-level speed run and have received 75 death boons.]
+
+I nodded, impressed.
+
+So much for skipping the first floor.
+
+The quests and this speed run were the way to go when I needed to farm death boons. Still, I was shocked to have access to death boons after what just happened.
+
+Was I just supposed to stand there and take the abuse from these so-called gods? The more I got embroiled in their machinations, the less I felt like I learned about who I was. Each god had their dirty, grimy claws in me to the point that I no longer felt like myself. And I didn’t understand why each one was heaping power after power onto me. I felt like a pawn in a game and was too stupid to understand. In fact, I felt like I didn't understand anything about this place even after all of the time I had spent here.
+
+Memory cores, my one method of finding out who I was before Penance, were something I couldn't trust, yet every time they appeared, I was powerless against them. As if summoned by my thoughts, a memory core descended from the sky.

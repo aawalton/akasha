@@ -1,0 +1,257 @@
+I woke with a start, my heart racing, a cold sweat clinging to my skin. The familiar dim light of the Sewers of Aerlyn greeted me, but this time, it felt different, more oppressive. This was the seventh time I had awoken in Penance, but unlike the last six times, I remembered everything from my previous runs.
+
+The memories surged back with a force that nearly knocked the breath out of me—Malikap devouring my minions in a frenzy of blood and teeth, Thomas’s smug grin as he pocketed the Red Death, a weapon he couldn’t even use, and then the sharp, agonizing sensation of betrayal made worse as some device he wielded stripped me of my god-given gifts.
+
+The feeling of power draining from me had been nauseating, leaving me hollow, a mere shadow of the force I once was. I no longer had any bonus from Malikap, and the Aerlyntiums would no longer react to my touch. My lifeline was out of my reach. I was back at square one, on floor one.
+
+My fists clenched involuntarily, knuckles whitening. I should have listened to Elizabeth when she warned me not to get involved in the affairs of the gods. Some new god I didn’t even know the name of was now involved in this entire game and had managed to pull the wool over everyone’s eyes. She had orchestrated this whole betrayal through Thomas. From the beginning, his idiocy had been an act, a façade that had fooled us all. It explains so much—Klericho, the wasted runs—but it also made me feel better, knowing that the blame wasn’t entirely mine. Still, the betrayal stung a deep wound that throbbed with each heartbeat.
+
+I sat up, rubbing my temples as if I could massage away the memories, but they remained vivid and unforgiving. I had to go back and clear floor two again. My only consolation was that the General had been defeated, and hopefully, he wouldn’t return. Crystal had once mentioned that secret bosses take a long time to regain their power after being killed. That was a small relief, a thin silver lining in an otherwise stormy sky.
+
+[Stop moping, Rod.] Crystal’s voice chimed in my head, as sharp and clear as ever, cutting through the haze of my thoughts. [You’re gonna be fine. Don’t you remember that I told you that you unlocked advanced classes? It’s a huge power boost. You’ll be able to speed-run these two floors easily.]
+
+I exhaled slowly, trying to shake off the lingering sense of defeat. [You have 250 Death Boons to spend,] Crystal continued, her tone matter-of-fact, as if the catastrophic events of the last run were mere inconveniences. [And advanced classes cost 100 each.]
+
+“That’s insane,” I muttered, my voice barely above a whisper as I stared at the sewer’s damp stone walls. “Spending all my hard-earned Death Boons just for a class?” I shook my head, trying to grasp the reality of my situation.
+
+[Indeed, you can purchase 1 or 2 classes and then spend the rest on stat-ups or unlock other boons. Here is the full list of Unlocks available to you.
+
+Stat Boons
+
+Boon
+
+Cost
+
+Current Stat
+
+Potency
+
+5
+
+1
+
+Insight
+
+1
+
+0
+
+Alacrity
+
+1
+
+0
+
+Vitality
+
+10
+
+6
+
+Finesse
+
+1
+
+0
+
+Arcanum
+
+1
+
+0
+
+Defense
+
+5
+
+1
+
+Magic Defense
+
+5
+
+1
+
+Precision
+
+5
+
+6
+
+Evasion
+
+5
+
+3
+
+Advanced Player Classes
+
+Boon
+
+Cost
+
+Effect
+
+Warlord
+
+100
+
+Starting Equipment: Warblade, Tower Shield, Steel Plate Armor skill Shield bash, healing potion x 2
+
+Stats: Potency: 6, Vitality: 20, Finesse: 12, Evasion: 4
+
+Priest
+
+100
+
+Starting Equipment: Blessed Mace, Divine Symbol, Mana Potion (x2), Sanctified Vestments. Medium Heal Spell, Golden Sheild, Smite.
+
+Stats: Potency: 4, Vitality: 12, Finesse: 8, Arcanum: 12
+
+Paladin
+
+100
+
+Starting Equipment: Holy Halberd, Blessed Shield, Plate Armor of Light. Smite, Medium Heal Spell
+
+Stats: Potency: 8, Vitality: 20, Finesse: 8, Arcanum: 8, Defense: 4, Precision: 8, Evasion: 8
+
+Summoner
+
+100
+
+Starting Equipment: Runed Staff, Greater Mana Potion (x2), Summoner’s Robes, Greater elemental summons, Void Call.
+
+Stats: Vitality: 4, Finesse: 4, Arcanum: 16, Precision: 4
+
+Penalty: None specified.
+
+Rogue
+
+100
+
+Starting Equipment: Shadow Daggers (x2), Advanced Lockpicking Kit, Invisibility Cloak, Assassin’s Leather Armor
+
+Stats: Potency: 8, Vitality: 4, Finesse: 20, Precision: 20, Evasion: 20
+
+Ranger
+
+100
+
+Starting Equipment: Longbow of the Wild, Quiver (30 Enchanted Arrows), Hunting Trap (x2), Ranger’s Cloak, Tame Animal spell.Potency: 8, Vitality: 8, Finesse: 20, Precision: 20, Evasion: 16
+
+Berserker
+
+100
+
+Potency: 8, Vitality: 20, Finesse: 12, Defense: 4, Precision: 12
+
+Dungeon Boons
+
+Boon
+
+Cost
+
+Toggle Active
+
+Effect
+
+Identify Enemy:
+
+20
+
+N/A
+
+Enemy stats are highlighted and visible above enemies. Requires Scan Skill to use. It can be toggled on and off.
+
+Loot Table
+
+20
+
+N/A
+
+Allows you to scan chests and crates to see their potential contents.
+
+Time Keeper.
+
+2
+
+N/A
+
+A stopwatch shows the time in the upper right corner of your vision. Essential for speed runs. It can be toggled on and off.
+
+Challenge Mode:
+
+200
+
+N/A
+
+Enemies have triple stats and better weapons but drop better loot and more Death Boons. It can be toggled on and off.“Challenge Accepted!” ~ Photonius The Dead.
+
+Quest Shop
+
+Quest name
+
+Cost
+
+Type
+
+Description
+
+Reward
+
+Rat teeth
+
+1
+
+Collection
+
+Collect five rat teeth.
+
+5 Death Boons
+
+Necromancer Eyes
+
+5
+
+Collection
+
+Collect 20 Necromancer Eyes.
+
+25 Death Boons
+
+Goblin Ears
+
+10
+
+Collection
+
+Collect 50 Goblin ears.
+
+50 Death Boons
+
+“Alright, I’d like to buy a class then,” The dice rolled, which scared me for a second because they hadn’t appeared in a while. I made a mental note to ask Elisabeth what happened with that. It felt weird. Like a detail about the world was off. Ultimately, I got the advanced form of the Cleric class—the only one I hadn’t taken last time. My fingers hovered over the selection, a mix of reluctance and hope swirling in my chest. I might have been upset, but Klericho had shown me how useful the Cleric could be, even in the chaos of battle, and it wasn’t like I had another advanced class ready to go. And while I could probably used the 150 on stat boosts, I was genuinely curious about the 200 boon upgrade that made the dungeon more difficult. I wanted that bonus loot.
+
+As the selection locked in, a warm, tingling sensation spread through me, the power of the class seeping into my veins. It felt like an infusion of divine energy, filling the emptiness left by my lost Boons. This was different from before—more potent, more intense. As an advanced version, it even came with attack spells. Smite allowed me to hurl lightning bolts at enemies, which gave me a faint smile. Another spell reflected damage at my attackers, a defensive tool that made me feel less vulnerable in a place designed to tear me apart.
+
+The class came with a level three blessed mace made of steel—apparently, that’s the material of the third floor. Steel. The thought lingered in my mind as the mace materialized in my hand, its weight solid and reassuring. The third floor. I hadn’t even reached that yet, but this weapon, this piece of it, was now in my grasp. I tested it with a few swings, marveling at how natural it felt in my grip. The balance was perfect, the heft comforting. Durability wasn’t an issue because, like the Mage classes, the Priest class had weapon mastery.
+
+“Alright,” I muttered, tightening my grip on the mace. The metal felt cool against my skin, grounding me in the reality of the task ahead. “It’s time to clear some rats.”
+
+I charged forward into the next room, my steps echoing off the damp stone walls. The smell hit me first—a vile, decaying stench that turned my stomach. And then I saw them. The damn humanoid rats again, their gnarled hands and arms even more disturbing in the dim torchlight than I remembered. But something was different. This time, they weren’t scurrying around aimlessly. They were feasting on something. As I drew closer, the sight made my skin crawl—they were feasting on fallen rats.
+
+“Man, ain’t nobody got time for that,” I muttered under my breath, my grip tightening on the mace, the frustration boiling over.
+
+Without a second thought, I charged forward, bringing the mace down with all my strength. The head of the nearest rat exploded in a spray of blood and bone, the creature crumpling to the ground instantly.
+
+[You deal 30 damage.]
+
+The notification was almost a background noise, my focus entirely on the grotesque creatures. The satisfaction of the kill was short-lived, though. The sight of the feasting rats sent a shudder through me. I had fought harder and risked more than ever before, yet here I was, stuck with these monstrosities on this stupid floor again. This was no place to linger. I decided it was not worth exploring the first floor again anytime soon. I had to move forward to something, anything, better than this.
+
+I quickly returned to the vault, the eerie quiet of the dungeon pressing in on me. I rummaged through the vault, finding the goblin amulet and summoning the boss chambers.
+
+As the Necromancer chamber’s massive doors creaked open, a part of me knew it would probably be smart to take some time to clear the bosses repeatedly, get the loot they dropped, and prepare myself. But my heart wasn’t in it. The thought of grinding through the same battles, the same monsters, was too much right now. I needed to confirm if I had lost access to the Aerlyntiums. If I had truly been set back to square one…
+
+A cold wave of panic washed over me when I bared into the Necromancer’s chamber. The chamber was different. Once a towering presence at the far end of the room, the dragon skeleton was in a different position, its massive bones scattered in a way that suggested a struggle. And the necromancer, the twisted figure that had haunted my nightmares, was nowhere to be seen. But the skeletons—yes, plural—were raring to go, their empty eye sockets glowing with evil light.
+
+I didn’t even hesitate. Fear and instinct are combined into one single action. I cast Smite. The spell was literal electricity in my hand, a crackling, vibrating force that felt like wielding a sword of pure energy. The lightning surged down my arm, and I hurled it at the nearest skeleton with a roar. The room lit up with a blinding flash as the bolt struck, the skeleton shattering into a shower of bone and dust. The power thrummed in my veins.

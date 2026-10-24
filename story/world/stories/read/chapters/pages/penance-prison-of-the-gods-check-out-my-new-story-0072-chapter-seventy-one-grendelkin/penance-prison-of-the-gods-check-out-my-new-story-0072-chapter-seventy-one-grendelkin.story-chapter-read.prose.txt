@@ -1,0 +1,125 @@
+Bones 1 was on fire—or at least it looked like fire, but it was tinged with blacks and grays instead of yellows and reds. Standing in the heart of the ancient dungeon, shadows danced ominously around him. Since he had attacked multiple times with his sword without being hit, the sword now dealt triple damage, affecting his outward appearance. He attacked.
+
+[Bones 1 has dealt a third consecutive hit without taking damage. The Red Death has recovered 2 points of durability damage. Potency increase +2 total: +3. Group B has dealt 87 damage.]
+
+There was still one target left near us, ready to attack Bones 1, but again, Klericho cast his golden shield, and Bones was fine. As my turn rolled around, I looked past the remaining Grendelblin with horror as the rest were devouring each other. Fewer enemies would have been great, but as they killed each other, the winning Grendelblin would stretch, morph, and become bigger. Much bigger.
+
+I wanted to run forward and attack, get in the middle of the fray, and stop them from getting worse, but I had no idea if that would work or not. Besides, I still had the smaller one in front of me. I wasn't a fighter class, but I was charged. I had a feeling our only real chance was letting Bones get his dice rolls absurdly high, so I let myself get in the way of potential damage. I swung my club, which I had obtained from Sludge during our last perilous quest. The club, imbued with toxic sludge, bonked the Grendelblin on the head, dealing 10 damage. The creature shuddered as the poison seeped into its veins, taking an additional 4 points of poison damage.22
+
+And then groups A and B were upon him.
+
+[Group A has dealt 21 damage.] A pause, and then a new parchment. [Bones 1 has dealt a fourth consecutive hit without taking damage. The Red Death has recovered 1 point of durability damage. Potency increase +3 total: +6. Group A has dealt 237 damage. Otto has absorbed the opponent. You have dealt a double overkill. You have received 5 Death Boons.]
+
+Then Otto did something gross again. He rolled a 100, an insane stroke of luck. Apparently, there was a hidden feature of the Brain Leech skill triggered by critical success. As he absorbed the Grendelblin, Otto sprouted a full head of coarse, green hair. The sight of a miniature octopus sporting human-like hair was both hilarious and oddly terrifying.
+
+I couldn't help but chuckle despite the ongoing battle. But there was no time for fun. The battle was far from over, and the remaining Grendelblins were still a threat.
+
+"Keep it up, everyone! Focus on the next target!" I shouted, rallying my team.
+
+As we regrouped, I noticed the remaining Grendelblins still engaged in their gruesome feast, growing larger and larger. One had spikes larger than my head now. We needed to act fast. I steeled myself for the next wave, ready to unleash everything we had.
+
+"Group B, get ready for the big ones. We need to take them down before they get any stronger," I commanded, my mind racing with strategies.
+
+Bones 1, now glowing with an eerie dark fire covering not just the sword but his entire frame, took his place at the front. This was our chance to turn the tide.
+
+I swung my staff, feeling a surge of energy as the bolt left before it connected with the nearest Grendelblin. The poison took hold, dealing additional damage. The creature staggered, but it wasn’t enough to bring it down.
+
+"Now, Group A!" I yelled.
+
+The combined force of our attacks descended upon the Grendelblin, and I watched as its health dwindled. We were making progress, but the real test was yet to come.
+
+My mind sparkled at the possibilities. I recalled a Death Boon that promised a rigged roll per floor. I could rig the roll to summon Otto as soon as I got to the first floor and then get Otto to absorb every monster on the floor. His stats would get jacked up so fast that he'd be invincible. I cackled, getting strange looks from everyone but the Ottos, who happily jumped back on top of me.
+
+With the first four Grendelblins out of the way, we turned to face the other 16. Except they were gone. Standing in the middle was an even more grotesque version of them. All jagged, sharp angles and spiky protrusions. It looked more like a dragon than either a goblin or whatever a grendel was. It was twice again as big and a little wider than the other grendelblins, its spikes sharper and deadlier. I cast Scan. My face paled as Crystal spoke.
+
+Enemy Entry 0023: GrendelKin, Enhanced: Weak against: Shadow, fire: Strong against: nothing
+
+Grendelkin, the evolved form of the pokem- I mean, this is an almost perfected form of the Grendelblins. The winner has devoured his siblings and has grown considerably more powerful for it.
+
+Stat:
+
+Level
+
+Health
+
+600/600
+
+Potency
+
+10
+
+Def
+
+2
+
+Mdef
+
+1
+
+Item drops
+
+Amount
+
+Chance to drop
+
+Gold
+
+5
+
+75%
+
+Prison rags
+
+1
+
+25%
+
+“What is that thing?”
+
+"It's a Grendelkin. While we were busy fighting these," I paused, gesturing at the corpses, “it was busy eating its siblings. It has 600 health and 10 potency."
+
+Thomas audibly gulped. "The stats are insane. Even with my armor and the cleric's shield, we're screwed. A lucky hit could take half of my HP."
+
+A million scenarios went through my mind faster than I could usually process, and then one solidified.
+
+"I've got a plan, but most likely, everyone but me, Bones 1, and Otto are going to die. Are you all okay with that?"
+
+Thomas looked determined. "As long as we win, you have my sword."
+
+“You have my shield.”
+
+“You have my squawk!”
+
+I could swear I heard Crystal laughing, but I didn't have time to react as the battle started, so I put my plan into action.
+
+I rushed forward and cast a poison bolt. I knew it wouldn't inflict poison, but I needed to do something. Bones 1 moved into the flank while my other pets cast their missiles at the giant target. The monster had 800 health and would take an avalanche of critical hits to ensure we killed it quickly unless we took advantage of my pet weapon.
+
+Thomas jumped forward and swung his axe overhead at the monster. It immediately retaliated with a backhand swing, and Thomas went flying. Bones 1 used the moment to attack and then froze.
+
+[Bones 1 has dealt a fifth consecutive hit without taking damage. The Red Death has recovered 4 points of durability damage. Potency increase +4 total: +10. Groups A and B have dealt 91 damage.]
+
+Unfortunately, Crystal never updated me on what Thomas or Klericho contributed. I had forgotten for a second that the turn-based constraints did not bind Thomas and Klericho, so I was surprised to see a gold light shimmer as Thomas ran forward while Klericho healed him.
+
+Thomas got in front of Bones and deflected a strike with his axe just as the Grendelkin was about to strike Bones. The strike still clipped Thomas, and he grunted in pain. Then, the Grendelkin froze as round two started.
+
+[Bones 1 has dealt a sixth consecutive hit without taking damage. The Red Death has recovered 4 points of durability damage. Potency increase +5 total: +15. Groups A and B have dealt 79 damage.]
+
+The attacks all happened in an instant—a flurry of magical spells and arrows. The light blinded me for a moment, and then we all froze as the Grendelkin retaliated. The Grendelkin bore down on Thomas, and he glowed gold one final time. I thought for a second the blow had taken him down, but he grinned and brought his axe down on the Grendelkin's head.
+
+It froze, and another round started up. Before anything else, I cast Scan to check how much HP it had left.
+
+[Grendelkin, HP 430] As if she had read my mind, Crystal only displayed the HP amount.
+
+In just a couple of rounds, we had whittled down a couple hundred damage. I was excited about that, but I was still wary. Thomas was on his last legs. We had some backup plans but needed to deal more damage faster. We had to get it down to 150 HP before the Ottos could triple-team their finisher move, and that was if we were lucky enough that they were still alive when he was in range.
+
+[Bones 1 has dealt a seventh consecutive hit without taking damage. The Red Death has recovered 6 points of durability damage. Potency increase +6 total: +21. Groups A and B have dealt 90 damage.]
+
+The flames covering Bones 1 were now unbelievably large and hot. I could feel the hairs on my arm starting to burn from the heat.
+
+We were nearing halfway down on the Grendelkin's health when Thomas finally kicked the bucket. The claw swiped at his face, and he was gone. My heart sank, but there was no time to mourn. This next part was going to be tricky, but I spoke my directions out loud and hoped for the best.
+
+"Squawks, Guardian formation around Bones 1, 2, and 3. Flank Bones 1. Ottos, protect any hole in the defense. Remember, the goal is to keep Bones from taking damage. Klericho, if you can, get in front. I think you could successfully block two rounds of attacks. It's probably not enough, but if we can get at least four more rounds in, I think the Ottos can clear this."
+
+I cast the poison bolt again and sighed in frustration as the bolt failed to poison the boss.
+
+Such a useless weapon, I thought. Then Grendelkin grunted in pain before launching right for me, and I knew my run was at its end.

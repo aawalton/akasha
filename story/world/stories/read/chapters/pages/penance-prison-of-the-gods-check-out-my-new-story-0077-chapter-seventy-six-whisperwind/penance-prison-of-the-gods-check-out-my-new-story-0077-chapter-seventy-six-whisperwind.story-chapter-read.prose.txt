@@ -1,0 +1,147 @@
+[Willow trees? They don’t belong on this planet. How did they get here? Watch out!]
+
+Time seemed to freeze, but I couldn't duck in time. A wad of green mana, almost like vomit but not as sickly, flew towards me. It smacked into my chest, a jarring force that drove all the air from my lungs in a painful rush. I gasped, a sharp cry escaping my lips as I collapsed backwards, my heavy frame hitting the dirt with a dull thud.
+
+Swinging from the willow branches, almost like monkeys, were diminutive goblins. Poor Thumbs, sacrificed in an earlier encounter with Malikap, could have lifted one in each hand. I cast a quick scan, my vision blurring at the edges as exhaustion weighed down my limbs. I tried to take stock of myself, but the truth was I was spent.
+
+Enemy Entry 0026: Whisperwind Goblins Weak against: fire Strong against: nothing
+
+These small goblins spend their lives flying through the thick branches of forests. Ready at a moment's notice to take their anger out on the world.
+
+Stat:
+
+Level
+
+Health
+
+25/25
+
+Potency
+
+2
+
+Insight
+
+4
+
+Def
+
+2
+
+Item drops
+
+Amount
+
+Chance to drop
+
+Gold
+
+5-25
+
+75%
+
+Monkey’s paw
+
+1-2
+
+25%
+
+It might sound like I’m complaining or lazy, but back-to-back runs with barely a little bit of sleep? My eyelids drooped like leaden weights, each blink a Herculean effort. My legs wobbled under me, as heavy and uncooperative as sacks of flour, while my arms dangled at my sides, imprisoned by the unyielding stiffness of my sweat-soaked clothes.
+
+Despite my exhaustion, a stubborn resolve pushed me to focus. Crystal's voice cut through my fatigue like a lifeline, anchoring me in the chaotic present.
+
+[You have been affected by stamina rot. Stamina was lowered to 50%, and stamina recovery was also halved. Yeah, don't let anything throw their snot at you. Gross, didn't you just escape a sewer? Do you have a fetish for this stuff?]
+
+Crystal's sarcastic remark made me shake my head with a faint smile. As her words lingered, I couldn't help but remember the smell of the sewer and shuddered.
+
+I shook my head at her antics and refocused on the swinging goblins ahead. Several of them were frozen in midair, suspended by the turn-based system. I wondered if I could remove the branches they were hanging from instead of killing them outright.
+
+My hesitation was brief; I needed to act quickly, so I turned to my pets and began formulating a plan. If only I still had the skill aim. I had a bow, but I remembered all too well how poorly aiming had gone without that essential skill.
+
+Determined to shake off the fatigue, I refocused on the swinging goblins ahead. With my plan hastily shared with my pets, I leaned back against the rough vine-covered wall, praying it would work. The cold stone bit into my back, a stark reminder of the reality I was in. My flame dog sprang into action, spitting four fireballs in random directions, transforming my strategy into reality.
+
+The room erupted into a chaotic symphony of smoke, lights, and sound. As chaos erupted around me, a pang of guilt twisted in my gut. The screaming willow trees and the helpless, burning goblins stirred an uncomfortable remorse within me.
+
+The branches from which the whisper goblins hung quickly succumbed to the fire, but the goblins themselves remained suspended in the air as if time had yet to decide their fate. Their small forms dangled high above the ground, and I anticipated some magical occurrence once the system unfroze them.
+
+When time resumed, four goblins dropped simultaneously, splattering onto the ground with a satisfying crunch. As the blood and guts exploded outward, I scanned the room to assess the damage.If I found the room on my next run-through, I would have to try to solve it without using a shortcut. Cheating my way out of rooms wasn't the path to victory, and I already knew there were consequences, but it was almost like the room had wanted me to take the easy way out. That I had been compelled to kill the goblins this way
+
+It took another half hour for the trees to finish burning out, leaving us with a pile of ashes and burnt, unlootable corpses. As I stood amidst the ashes, a heavy guilt washed over me, seeping into my bones like a winter’s chill.
+
+"I'm sorry," I murmured, addressing no one in particular but everyone all the same. "I got mad at both of you when I just cleared a room in the same cheap way that you both did. I kept letting my anger get the best of me earlier, and I’ll do my best not to do it again."
+
+The ensuing silence felt like a weight pressing down on me, a stark reminder of the loneliness that often shadowed these battles.
+
+"It's too late."
+
+"What?"
+
+"It's too late for apologies," Klericho repeated. "You are beyond the realm of redemption now. I wouldn't be surprised if your next gate after this one descends instead of ascends. You broke the seal of wrath, and got blessed by Malikap the worst of them all.” He spat at me.
+
+“Rellum will surely end his parlance with you as soon as we finish this floor. Until then, we are allies by necessity, but that is it." Klericho turned his face and sneered.
+
+"Alright then. I'm still sorry for what I did, even if you won't accept it," I said, trying to keep the bitterness from my voice. "Let's just move on. We probably have a handful more rooms to go through, and then I'll reset against the King."
+
+We trudged through the ash-ridden room, waving away the lingering smoke with our hands.
+
+~Run 6, The Blacksmith’s Foundry, Floor 2, Sewers of Aerlyn~
+
+The moment I stepped into the next room, a wave of heat hit me, making the heart of one of coal’s fireball spells seem like a mere flicker. The relentless, overbearing heat was like the midday sun of summer—consistent, painful, consuming. I almost stepped back into the previous room, but Klericho and Thomas pushed past me with their bulks, and I stumbled forward.
+
+The room was lined with lit forge after lit forge, smoke and heat billowing into the air before slowly settling back to earth. A goblin was hammering away at a red-hot sword, molding it into the perfect shape. Every forge had a similar setup: some with armor, others with halberds, and some even with piles of coins.
+
+But the telltale signs of the black plague had settled over most of the materials in the room. The goblins' skin, once a vibrant green, had turned an almost black viridian hue that pulsed ominously, in sync with the infected coins, armor, and weapons.
+
+I did a head count of my pets. Otto and the one coal were still there, but I was hoping for a good pull to summon either my ice cats or thunderbirds. I was about to suggest that we sneak up on the nearest goblin when Thomas tripped for the sixth time this floor, clattering to the ground in a heap.
+
+Time froze.
+
+As soon as the battle started, I overcast my summoning spell and readied myself for the possibility of taking damage. There were eight of the Goblin Forgemasters, as I had taken to calling them. Truth be told, I had yet to scan them, so I had no real idea if that was even their proper title.
+
+Regardless, I wasn't going to take a shortcut in this room. I hadn't gotten a single death boon from the last fight, and even if it would be a drop in the ocean compared to the 130 I had banked, a death boon was still a death boon. It wasn't about being greedy; in fact, it was the opposite. I was doing this to ensure I could make it through the next round for the benefit of others, even if they hated my guts.
+
+My Flameys and Ottos launched their missiles at the first group of approaching goblins.
+
+[Your pets have dealt 15 damage.]
+
+The first forgemaster nearly went down, but before I could breathe a sigh of relief, he hurled a flaming hammer through the air. The weapon flew and flew, eventually crushing an Otto against the wall, killing the tiny octopus instantly.
+
+[Goblin Forgemaster 1 has dealt 10 physical damage to Otto. Otto has been defeated.]
+
+I gulped. Sure, Ottos were weak, but that one had died in a single hit.
+
+My cast continued as the forgemasters took their turn, the magic bubbling up and out of the pit of my stomach, forming a robust and impenetrable ball of mana. It burst forth, and I blinked as a new summon appeared. Only one. I stared hard at the creature.
+
+"Why aren't there three of you?" I muttered. The creature, a boxy, ox-like beast with curled horns and a wisp of icy mist flowing from its hooves, reared its head as if to say, "Are you serious?" Then, it charged forward in a bull rush, knocking over the entire group of goblins and freezing them in place. It was the coolest thing I had seen in the dungeon.
+
+[You have frozen the Goblin Forgemasters.]
+
+I grinned before running forward and swinging a spell at the face of the first goblin. With my new bonus to insight, my spell either had a lot of force behind it, or the mobs were frozen solid because the goblin shattered into thousands of tiny ice cubes.
+
+[You have dealt 25 ice damage. Goblin Forgemaster 1 has been defeated.]
+
+My companions fared just as well. Thomas, wielding the super sword, swung again and again, hacking away at another goblin.
+
+[Thomas has dealt 25 physical damage. Goblin Forgemaster 2 has been defeated.]
+
+Klericho didn’t even bother casting a heal or shield; instead, he brought his mace down repeatedly, shattering a third goblin.
+
+[Klericho has dealt 25 physical damage. Goblin Forgemaster 3 has been defeated.]
+
+My pets ganged up on two other goblins, sending spell after spell into their torsos. Magic wasn't as practical for shattering the goblins, so for the second round of attacks, Otto used the mind skill, netting an overkill boon.
+
+[Otto has dealt 50 mind damage. Goblin Forgemaster 4 has been defeated. You have gained an Overkill Boon.]
+
+The rest of my companions charged forward and switched to physical attacks. Icyox, as I decided to call my new pet, wasn't idle either. With the last two moves of his expanded turn, he gored a goblin in the head, ripped it off, and threw it like a cannonball into the next prone goblin.
+
+[Icyox has dealt 25 physical damage. Goblin Forgemaster 5 has been defeated.]
+
+The head shattered, but the other goblin seemed relatively unharmed.
+
+[Icyox has dealt 10 physical damage. Goblin Forgemaster 6 has 15 health remaining.]
+
+Then, my new pet dissolved into a wisp of icy smoke, disappearing.
+
+I was simultaneously happy and angry. Although my new pet only lasted two turns, it was clearly an insane boost over my previous level of summons.
+
+It escaped my mind until then that I hadn’t even tried casting scan.

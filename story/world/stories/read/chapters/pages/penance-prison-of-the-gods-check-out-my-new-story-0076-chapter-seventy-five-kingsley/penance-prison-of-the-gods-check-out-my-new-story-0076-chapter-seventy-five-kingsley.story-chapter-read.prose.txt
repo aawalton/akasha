@@ -1,0 +1,167 @@
+I blinked as we entered the next room. The stark contrast to the previous room left me momentarily disoriented, and the sudden silence was jarring. A faint antiseptic smell lingered in the air, and the white walls gleamed almost blindingly under the harsh overhead sunlight.
+
+In the center, on a prayer rug, sat a stout, overweight Grendelkin with a name floating on a parchment above his crowned head. Hob. He was the son of Grendel, who was mentioned in the description of the Grendelkins in the prison room. As Kingsley spoke, snippets of the prison room's descriptions flashed through my mind—‘Son of Grendel, a survivor of his grandmother’s wrath.’ It all clicked into place just as Elizabeth’s bestiary entry popped up.
+
+Enemy Entry 0024: Hob "Kingsley" GrendelKing: Weak against: Shadow, fire, ice: Strong against: lightning, holy, earth, poison
+
+King of the goblins, son of Grendel. This monstrosity shouldn't even be alive. And yet it outlived its grandmother's wrath and now controls the goblins of the third tribe. The outcast scallywags are not smart enough to know their kind is set free beneath their feet in the sewers. Hates humans with an extreme prejudice. And now he knows you are here. You really should have gone back to regen mana after that last fight. At least you had the presence of mind to put up the overcharge rings and the mana regen amulet.
+
+Stat:
+
+Level
+
+Health
+
+1000/100
+
+Potency
+
+25
+
+Def
+
+7
+
+Mdef
+
+3
+
+Item drops
+
+Amount
+
+Chance to drop
+
+Gold
+
+500
+
+40%
+
+Ring of Grendel’s Strength
+
+1
+
+20%
+
+Cloak of Shifting Shadows:
+
+1
+
+20%
+
+Amulet of Abyssal Wisdom
+
+`1
+
+10%
+
+GrendelKing’s Battle Axe
+
+1
+
+10%
+
+"Ah, hello. I have been expecting you." His gravelly voice sounded like he was talking through shattered glass but with a deep, velvet bass in the background. A scar ran from his face to his stomach as if someone had tried and failed to gut him. Kingsley’s hand absently traced the scar down his chest. "This?" he asked, catching my eye. "A reminder of the price I paid for my father’s sins." His furry, clawed hands were held up in a defensive position as he stared at me. I somehow took on the role of leader yet again.
+
+“I know what you are. Why should I give you even a moment's hesitation?”
+
+"Look around you. Does this look like a kingdom? It's my fault; I know it. That Djinn ruined everything and then trapped me here. I should never have made the wish. It gave me room to expand my kingdom, but what kingdom? My followers are enslaved or mindless. My brothers and sisters are in jail, driven insane. And here I sit in the blandest prison of them all. A room I can never leave.”He paused, gesturing at the walls.
+
+“And with no food, water, or sleep, I slowly go insane. Day in, day out. The same, the same, the same!" He screamed this last word and pounded his feet with thunderous power. I couldn't understand what he was trying to convey, but Klericho was quicker on the uptake.
+
+"If you are honest in your words, then unlock the door and step away. We want as much as you do for this stupid Djinn to be behind us. The sooner we kill it, the sooner we leave this floor behind."
+
+"I can't do that. You are too weak. You only have one of the relics necessary to defeat the king of magicks." I grimaced. "Without those relics, the Djinn cannot be resealed.” He paused again, looking at Klericho and Thomas with an undisguised fury.
+
+“I am here to ask you to end your run; it is the least you can do after your companions destroyed the Djinn’s lamp. To let me win a victory against you. Rellum wishes to have you all die here and use this place to launch your assault against the Djinn in your next run. I can even make all my minions docile against you for your next run only. It won't help you on the previous floor but will make things easier as you return. I can even stop floor guardians from assaulting you. But you have to die. All of you. To reset the floor completely."
+
+As Kingsley pleaded, I felt a tug-of-war within me. I looked at my companions, trying to gauge how they were feeling.
+
+Can we really trust him? Every instinct screamed caution, yet was it right to condemn him without hearing him out? Everything in me demanded quick decisions, but my conscience urged me to consider his plight. I couldn’t shake the feeling that we were all pawns in a larger game.
+
+I sighed, frustration bubbling beneath my calm exterior. This wasn't how I envisioned the end of this run. The thought of abandoning our progress gnawed at me, but the logic in Kingsley's plea was undeniable. I turned to my companions.
+
+"I know it's what I wanted earlier, but I can't help but feel a little cheated now that I actually wanted to go through with clearing the rest of the floor."
+
+“I still think we should do it. Time doesn’t matter here, so long as we stay away from the Djinn’s room.”
+
+"If Rellum wants us to stop now, we should."
+
+“How about we ask our crystals for further input?"
+
+[Clearing more of the dungeon is the wisest course of action.]
+
+[If we do not clear the floor, we will have a more challenging time on the next run. We need every advantage to clear out the Djinn promptly and safely.]
+
+"Your Majesty," I said, trying to keep my impatience in check, "how about we move past, clear the rest of the floor, and you stay here? Your plan is solid, but we need to explore more for loot if possible. Every little bit will help in the final battle."
+
+The king nodded, his expression stern. "If that is your wish, so be it. I will neither hinder nor aid you in this. However, if you confront the Djinn with the spigot, the Djinn will win. He must not know you hold the key to his defeat. Now begone. I wish to nap before my magic is required."
+
+As we left the room, a sense of unease washed over me. It felt like we’d stumbled into a secret boss fight that hadn’t quite materialized. The goblin king and the Djinn seemed out of place, like puzzle pieces that didn’t fit.
+
+I let out a sigh, shaking off the lingering oddness. We needed something more thrilling. These endless conversations were wearing thin, and I longed for the exhilaration of battle. I pushed open the door to the next room.
+
+~Run 6, The Jeweler’s Jumble, Floor 2, Sewers of Aerlyn~
+
+The sight that greeted me was overwhelming. The room was a riot of color and sparkle, with towering piles of rubies, sapphires, and emeralds reflecting the flickering torchlight. Gold coins cascaded like waterfalls over ornate goblets and chalices, forming glittering mounds. It was like stepping into a dragon’s hoard.
+
+But there was no time to marvel. The gemstone piles shifted, revealing goblin treasuremancers within. I felt a thrill of excitement. This was more like it. Gripping my staff, I prepared for the fight, the earlier boredom forgotten.
+
+[You have dealt 22 necrotic damage.]
+
+I couldn’t help but laugh. It didn’t kill him, but the damage was impressive. "Scan!" I shouted at Crystal.
+
+Enemy Entry 0025: Treasuremancer: Weak against: Lightning, ice: Strong against: fire, shadow, earth, poison
+
+: The ultimate sin of greed lies not in amassing wealth but in denying others the chance to do the same. When you become so evil that you deny basic needs to others, it truly becomes the worst sin. These treasuremancers are like if Mark Zuckerberg and the dragon from The Hobbit had a baby. Kill them and burn their tainted gold.]
+
+Stat:
+
+Level
+
+Health
+
+1000/100
+
+Potency
+
+25
+
+Def
+
+7
+
+Mdef
+
+3
+
+Item drops
+
+Amount
+
+Chance to drop
+
+Tainted gold
+
+50
+
+100%
+
+"The Hobbit? Mark Zuckerberg?" I shook my head at Crystal's antics and launched another necrotic bolt. The +10 insight boost was insane. Despite being a mage build, I was dealing damage like a seasoned warrior. Maybe I’d go Berserker in my next run.
+
+Several treasuremancers advanced, their greed-fueled eyes glinting with malice. I fired another necrotic bolt, watching it sear through a goblin's chest. Thomas, the barbarian, let out a war cry and charged, his massive two-handed sword cleaving through two goblins with a single swing. Goblin parts flew, painting the floor with dark blood.
+
+Klericho, our cleric, raised his hands and summoned a localized golden shield. Arrows and daggers bounced harmlessly off its radiant surface, protecting us from harm. Suddenly, two more goblins appeared from behind the gemstone piles and rushed towards me. Before I could react, they slashed at me, reducing my health to a dangerously low level.
+
+Staggering back, clutching my wounds, I summoned my pets for support. My mage skeleton cast a dark spell, hitting one of the goblins with necrotic energy. The archer skeleton fired a precise arrow, wounding another goblin. The Ottos used their brain blast spell and leech attack to overwhelm the goblins. Coal, my flame dog, charged forward, biting and burning a goblin.
+
+Klericho, seeing me in peril, raised his hands and summoned a golden shield to protect me. He followed up with a healing spell, enveloping me in a warm, golden glow that healed my wounds. Rejuvenated, I targeted a treasuremancer and fired three rapid necrotic bolts. Total damage: 49. The treasuremancer was left with just one point of health. One of the Ottos leaped and used a brain blast spell to finish off the weakened treasuremancer.
+
+The remaining pets swarmed Thomas’s target, pinning it down. Thomas, unfrozen from a previous pause, attacked twice with his sword, finishing off his target. One goblin mob decided to flee, but I sprinted forward, closing the distance quickly. Using my full turn, I unleashed a barrage of necrotic bolts at the fleeing goblin. On the final hit, my staff hummed with energy, and the goblin disintegrated into black ash.
+
+We stared in horror as all the gold, treasure, and items turned to decrepit black ash. Kicking a boot through the pile, I realized everything was wasted. We left the room and moved on, the thrill of victory marred by the hollow feeling of loss.
+
+~Run 6, Willow Whispers, Floor 2, Sewers of Aerlyn~
+
+Like the Necromancer room on the previous floor, I was transported to a realm that defied logic. The walls were now clawing bark and wood, with branches and leaves reaching down to the floor. The vision was surreal and oddly calming, but I stayed alert, ready for anything.
