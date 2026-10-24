@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"seat-notice-choosing.module.code.ts","path":"agent/seat/modules/notice-choosing/seat-notice-choosing.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-notice-choosing.module.code.ts","path":"agent/seat/modules/reply-notifying/seat-reply-notifying.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-notice-choosing.module.code.ts","path":"agent/seat/supervisor/seat-reply-notifying/modules/reply-notify-poll/reply-notify-poll.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-notice-choosing.module.code.ts","path":"agent/seat/supervisor/seat-reply-notifying/modules/reply-notify-poll/reply-notify-poll.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat-notice-choosing.module.code.ts","path":"alan/web/routes/alan-web-api-seat-notice/alan-web-api-seat-notice.route.code.ts","typed":false,"deferred":false}

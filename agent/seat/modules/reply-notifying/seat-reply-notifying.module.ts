@@ -16,7 +16,19 @@ export const seatReplyNotifying = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The browser is asked to notify only when the person reading presses to be notified.",
+        "The person reading chooses the phone, the desktop, both or neither for that seat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The page notifies only a person whose notice for the seat names the desktop.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The browser is asked to notify only on the press choosing the desktop.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A desktop the browser will not notify on is said plainly under the choice.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -60,11 +72,7 @@ export const seatReplyNotifying = {
       decisionKind: "decision-kind/departure",
       statement: "Clicking a notification brings the seat's page forward.",
     },
-    {
-      decisionKind: "decision-kind/absence",
-      statement: "A browser that has no notifications shows no way to turn them on.",
-    },
   ],
   createdAt: "2026-10-24T20:05:08.835Z",
-  updatedAt: "2026-10-24T21:10:08.338Z",
+  updatedAt: "2026-10-24T22:20:07.188Z",
 } as const satisfies Module

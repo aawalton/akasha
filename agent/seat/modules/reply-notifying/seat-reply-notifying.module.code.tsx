@@ -1,5 +1,11 @@
 "use client"
 
+import {
+  byDesktop,
+  isNotice,
+  type Notice,
+  noticeFor,
+} from "akasha/agent/seat/modules/notice-choosing/seat-notice-choosing.module.code.ts"
 import { working } from "akasha/agent/seat/turn-state/pages/working/working.seat-turn-state.ts"
 import { seatTurnState } from "akasha/agent/seat/turn-state/seat-turn-state.page-type.ts"
 import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
@@ -23,9 +29,23 @@ type Permission = "unsupported" | NotificationPermission
 
 export type Notifying = {
   readonly offered: boolean
+  readonly notice: Notice
+  readonly saved: "saved" | "saving" | "unsaved"
   readonly permission: Permission
+  readonly choose: (notice: Notice) => undefined
   readonly ask: () => undefined
 }
+
+type Choice = { readonly notice: Notice; readonly label: string }
+
+const NOTICE_AT = "/api/seat/notice"
+
+const CHOICES: readonly Choice[] = [
+  { notice: "phone", label: "Phone" },
+  { notice: "desktop", label: "Desktop" },
+  { notice: "both", label: "Both" },
+  { notice: "none", label: "None" },
+]
 
 const EXCERPT_LENGTH = 140
 
@@ -116,6 +136,58 @@ function shown(seat: string, title: string, reply: Ended): undefined {
   return undefined
 }
 
+async function noticeAsked(seat: string): Promise<Notice | null> {
+  try {
+    const answered = await fetch(`${NOTICE_AT}?seat=${encodeURIComponent(seat)}`, {
+      headers: { accept: "application/json" },
+    })
+    if (!answered.ok) return null
+    const said = (await answered.json()) as { readonly notice?: unknown }
+    return isNotice(said.notice) ? said.notice : null
+  } catch {
+    return null
+  }
+}
+
+async function noticeSent(seat: string, notice: Notice): Promise<boolean> {
+  try {
+    const answered = await fetch(NOTICE_AT, {
+      method: "POST",
+      headers: { "content-type": "application/json", accept: "application/json" },
+      body: JSON.stringify({ seat, notice }),
+    })
+    return answered.ok
+  } catch {
+    return false
+  }
+}
+
+function useNoticeChoosing(seat: string, several: boolean, asked: () => undefined) {
+  const [notice, setNotice] = useState<Notice>(() => noticeFor(undefined, seat))
+  const [saved, setSaved] = useState<"saved" | "saving" | "unsaved">("saved")
+  useEffect(() => {
+    if (!several) return undefined
+    let dropped = false
+    void noticeAsked(seat).then((held) => {
+      if (!dropped && held !== null) setNotice(held)
+    })
+    return () => {
+      dropped = true
+    }
+  }, [seat, several])
+  const choose = useCallback(
+    (next: Notice): undefined => {
+      if (byDesktop(next)) asked()
+      setNotice(next)
+      setSaved("saving")
+      void noticeSent(seat, next).then((sent) => setSaved(sent ? "saved" : "unsaved"))
+      return undefined
+    },
+    [seat, asked]
+  )
+  return { notice, saved, choose }
+}
+
 export function useReplyNotifying(
   seat: string,
   title: string,
@@ -124,6 +196,11 @@ export function useReplyNotifying(
 ): Notifying {
   const several = persons > 1
   const [permission, setPermission] = useState<Permission>("unsupported")
+  const ask = useCallback((): undefined => {
+    if (permissionNow() !== "default") return
+    void Notification.requestPermission().then(setPermission)
+  }, [])
+  const { notice, saved, choose } = useNoticeChoosing(seat, several, ask)
   useEffect(() => {
     setPermission(permissionNow())
   }, [])
@@ -141,40 +218,69 @@ export function useReplyNotifying(
     const opened = openedAt.get(seat) ?? Date.now()
     const now = noticed(settledFor.get(seat) ?? null, opened, lastReply(heard))
     settledFor.set(seat, now.settled)
-    if (now.reply === null || !several || permission !== "granted" || !away()) return
+    if (now.reply === null || !several || !byDesktop(notice)) return
+    if (permission !== "granted" || !away()) return
     shown(seat, title, now.reply)
-  }, [heard, several, permission, seat, title])
-  const ask = useCallback((): undefined => {
-    if (permissionNow() === "unsupported") return
-    void Notification.requestPermission().then(setPermission)
-  }, [])
-  return { offered: several && permission !== "unsupported", permission, ask }
+  }, [heard, several, notice, permission, seat, title])
+  return { offered: several, notice, saved, permission, choose, ask }
+}
+
+function desktopSaid(permission: Permission): string | null {
+  if (permission === "denied") return "This browser blocks notifications from this site."
+  if (permission === "unsupported") return "This browser shows no notifications."
+  return null
+}
+
+function ChoiceDrawn({ notifying, one }: { notifying: Notifying; one: Choice }) {
+  const chosen = notifying.notice === one.notice
+  return (
+    <button
+      type="button"
+      aria-pressed={chosen}
+      onClick={() => notifying.choose(one.notice)}
+      className={cn(
+        "rounded px-2 py-0.5",
+        chosen ? "bg-primary/10 text-primary" : "text-secondary hover:text-primary"
+      )}
+    >
+      {one.label}
+    </button>
+  )
+}
+
+function NoticeStatus({ notifying }: { notifying: Notifying }) {
+  if (notifying.saved === "unsaved") return <p className={SUBDUED}>Not saved. Choose again.</p>
+  if (!byDesktop(notifying.notice)) return null
+  const said = desktopSaid(notifying.permission)
+  if (said !== null)
+    return (
+      <p className={cn(SUBDUED, "flex items-center gap-1.5")}>
+        <BellOff className="size-3.5" />
+        {said}
+      </p>
+    )
+  if (notifying.permission === "granted") return null
+  return (
+    <button type="button" onClick={notifying.ask} className={cn(SUBDUED, "self-start underline")}>
+      Allow this browser to show notifications
+    </button>
+  )
 }
 
 export function ReplyNotifyingControl({ notifying }: { notifying: Notifying }) {
   if (!notifying.offered) return null
-  if (notifying.permission === "default")
-    return (
-      <button
-        type="button"
-        onClick={notifying.ask}
-        className={cn(SUBDUED, "flex items-center gap-1.5 self-start underline")}
-      >
-        <Bell className="size-3.5" />
-        Notify me when a reply ends while I am away
-      </button>
-    )
-  if (notifying.permission === "granted")
-    return (
-      <p className={cn(SUBDUED, "flex items-center gap-1.5")}>
-        <Bell className="size-3.5" />
-        Notifying you when a reply ends while you are away
-      </p>
-    )
   return (
-    <p className={cn(SUBDUED, "flex items-center gap-1.5")}>
-      <BellOff className="size-3.5" />
-      This browser blocks notifications from this site
-    </p>
+    <div className="flex flex-col gap-1">
+      <div className={cn(SUBDUED, "flex flex-wrap items-center gap-1.5")}>
+        <Bell className="size-3.5" />
+        <span>Tell me a reply is done by</span>
+        <fieldset className="flex gap-0.5" aria-label="Tell me a reply is done by">
+          {CHOICES.map((one) => (
+            <ChoiceDrawn key={one.notice} notifying={notifying} one={one} />
+          ))}
+        </fieldset>
+      </div>
+      <NoticeStatus notifying={notifying} />
+    </div>
   )
 }
