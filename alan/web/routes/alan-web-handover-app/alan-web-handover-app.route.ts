@@ -29,7 +29,11 @@ export const alanWebHandoverApp = {
       decisionKind: "decision-kind/departure",
       statement: "The code names the app's bundle id and no origin.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reader whose session only looks is refused a code.",
+    },
   ],
   createdAt: "2026-09-20T01:46:30.316Z",
-  updatedAt: "2026-09-20T01:48:09.000Z",
+  updatedAt: "2026-10-24T21:47:25.567Z",
 } as const satisfies Route

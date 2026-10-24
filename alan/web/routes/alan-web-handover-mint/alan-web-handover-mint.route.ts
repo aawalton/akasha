@@ -24,7 +24,11 @@ export const alanWebHandoverMint = {
       decisionKind: "decision-kind/departure",
       statement: "The return path is carried as a path and read as the peripheral's own.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reader whose session only looks is refused a code.",
+    },
   ],
   createdAt: "2026-09-19T20:04:50.932Z",
-  updatedAt: "2026-09-19T20:40:08.000Z",
+  updatedAt: "2026-10-24T21:47:25.567Z",
 } as const satisfies Route
