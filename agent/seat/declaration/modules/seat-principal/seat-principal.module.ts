@@ -9,11 +9,11 @@ export const seatPrincipal = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A seat with a person named on its page answers to that person.",
+      statement: "A seat with persons named on its page answers to those persons together.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A seat with no person but a principal seat name answers to the fleet.",
+      statement: "A seat with no persons but a principal seat name answers to the fleet.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -25,5 +25,5 @@ export const seatPrincipal = {
     },
   ],
   createdAt: "2026-09-03T22:00:32.641Z",
-  updatedAt: "2026-09-25T18:02:47.000Z",
+  updatedAt: "2026-10-24T18:05:35.764Z",
 } as const satisfies Module

@@ -8,6 +8,7 @@ import {
 } from "akasha/agent/modules/attributes/agent-attributes.module.code.ts"
 import {
   type Principal,
+  principalNamed,
   principals,
 } from "akasha/agent/seat/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
 import { fail } from "akasha/command/modules/failing/command-failing.module.code.ts"
@@ -42,9 +43,9 @@ export function modeRefusal(named: string): string | null {
 }
 
 export function principalRefusal(named: string): string | null {
-  const allowed = principals(rootFor(resolveRoots(), AKASHA))
-  if (allowed.includes(named)) return null
-  return `\`${named}\` is no principal — one of: ${allowed.join(", ")}`
+  const root = rootFor(resolveRoots(), AKASHA)
+  if (principalNamed(root, named)) return null
+  return `\`${named}\` is no principal — one of: ${principals(root).join(", ")}, or several persons joined by commas`
 }
 
 export function parseArgs(argv: readonly string[]): Args {

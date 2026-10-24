@@ -9,9 +9,18 @@ import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 
 const AMONG: Answerable = {
   personIsPrincipal: (principal) => principal === "alan",
+  personsArePrincipal: (principal) => principal === "alan,jenny",
   personaAnswersForSomebody: (persona) => persona !== "claude",
-  persons: () => ["alan"],
+  persons: () => ["alan", "jenny"],
 }
+
+test("a seat of several persons under the default persona stands", () => {
+  expect(refusedAnswering({ persona: "claude", principal: "alan,jenny" }, AMONG)).toEqual([])
+})
+
+test("a seat of several persons answering as somebody stands", () => {
+  expect(refusedAnswering({ persona: "aine", principal: "alan,jenny" }, AMONG)).toEqual([])
+})
 
 test("a persona answering for somebody, answering to a person, stands", () => {
   expect(refusedAnswering({ persona: "aine", principal: "alan" }, AMONG)).toEqual([])

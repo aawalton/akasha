@@ -5,9 +5,10 @@ export const principal = {
   type: "page-type/argument",
   slug: "principal",
   said: "--principal",
-  takes: "who this seat's output is for — a person, or `agent` for the fleet",
+  takes:
+    "who this seat's output is for — a person, persons joined by commas, or `agent` for the fleet",
   value: "text",
   placeholder: "slug",
   createdAt: "2026-09-12T09:16:40.656Z",
-  updatedAt: "2026-09-15T15:49:36.000Z",
+  updatedAt: "2026-10-24T18:05:35.764Z",
 } as const satisfies Argument

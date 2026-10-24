@@ -11,6 +11,7 @@ import {
 import {
   handlerDerives,
   personaIsHers,
+  principalIsPerson,
   refuseAnswering,
 } from "akasha/agent/seat/declaration/modules/seat-answering/seat-answering.module.code.ts"
 import {
@@ -34,10 +35,7 @@ import { statedNow } from "akasha/agent/seat/declaration/modules/seat-stated/sea
 import { statedFromHistory } from "akasha/agent/seat/modules/page-history/seat-page-history.module.code.ts"
 import { writeSeatPage } from "akasha/agent/seat/modules/page-writing/seat-page-writing.module.code.ts"
 import { seatPathForName } from "akasha/agent/seat/modules/reading/seat-reading.module.code.ts"
-import {
-  composeSeatName,
-  personPrincipals,
-} from "akasha/agent/seat/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
+import { composeSeatName } from "akasha/agent/seat/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
 import {
   launchOf,
   launchStating,
@@ -204,7 +202,7 @@ export async function run(args: Args): Promise<SeatStated> {
   }
 
   const heldPrincipal = principal ?? principalOf(agent)?.value ?? null
-  const openedByPerson = heldPrincipal !== null && personPrincipals(pages).includes(heldPrincipal)
+  const openedByPerson = principalIsPerson(pages, heldPrincipal)
   const heldDomain = set["domain"] ?? stands["domain"]?.slug ?? null
   const inGame = heldDomain !== null && gameAt(pages, heldDomain) !== null
   const refusals = [
@@ -269,7 +267,7 @@ export async function run(args: Args): Promise<SeatStated> {
     if (page.kind === "unstated") {
       return stop([
         `${seatPathForName(seatName)} was not written: a seat page needs a persona, a domain, a role, ` +
-          "a principal, a start mode and a registration, and a seat whose principal is not a person " +
+          "a principal, a start mode and a registration, and a seat whose principal is not persons " +
           "also needs the seat above it",
       ])
     }

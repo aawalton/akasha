@@ -54,6 +54,10 @@ export const seatDeclaration = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A seat's principal is the fleet, one person, or several persons together.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A principal nobody stated is absent rather than a default.",
     },
     {
@@ -157,5 +161,5 @@ export const seatDeclaration = {
     },
   ],
   createdAt: "2026-09-03T04:36:26.031Z",
-  updatedAt: "2026-10-24T17:50:28.120Z",
+  updatedAt: "2026-10-24T18:05:35.764Z",
 } as const satisfies Domain

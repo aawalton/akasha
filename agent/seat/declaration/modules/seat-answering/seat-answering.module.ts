@@ -10,11 +10,15 @@ export const seatAnswering = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A seat answers as somebody only where the one that seat answers to is a person.",
+      statement: "A seat answers as somebody only where that seat answers to persons.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every seat of a person answers as somebody.",
+      statement: "Every seat of one person answers as somebody.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A seat of several persons answers as somebody or as nobody.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -39,5 +43,5 @@ export const seatAnswering = {
     },
   ],
   createdAt: "2026-09-03T17:53:28.521Z",
-  updatedAt: "2026-09-25T17:58:57.000Z",
+  updatedAt: "2026-10-24T18:05:35.764Z",
 } as const satisfies Module

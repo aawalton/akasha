@@ -33,6 +33,7 @@ import {
   FLEET,
   FLEX,
   personaDefaultsOf,
+  principalNamed,
   principals,
 } from "akasha/agent/seat/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
 import { refuseHeldName } from "akasha/agent/seat/name/modules/held-refusal/seat-name-held-refusal.module.code.ts"
@@ -120,9 +121,9 @@ export async function startSeat(
   if (stated.persona === undefined && derived.persona !== null) stated.persona = derived.persona
 
   const askedPrincipal = input.principal?.trim()
-  if (askedPrincipal !== undefined && !principals(root).includes(askedPrincipal)) {
+  if (askedPrincipal !== undefined && !principalNamed(root, askedPrincipal)) {
     throw inputError(
-      `invalid --principal '${askedPrincipal}': a seat's output is produced for one of ${principals(root).join(", ")}`
+      `invalid --principal '${askedPrincipal}': a seat's output is produced for one of ${principals(root).join(", ")}, or for several persons joined by commas`
     )
   }
   const principal = askedPrincipal ?? derived.principal ?? (headless ? FLEET : undefined)

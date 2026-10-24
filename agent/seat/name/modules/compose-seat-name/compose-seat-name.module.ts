@@ -26,7 +26,10 @@ export const composeSeatName = {
       decisionKind: "decision-kind/departure",
       statement: "A seat of several persons is named for its domain, its role and any flex it has.",
     },
-
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A principal is the fleet, one person, or several persons each named once.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement: "An empty attribute is left out of the name the same way a missing attribute is.",
@@ -59,5 +62,5 @@ export const composeSeatName = {
     },
   ],
   createdAt: "2026-09-03T22:00:32.641Z",
-  updatedAt: "2026-10-24T17:50:28.120Z",
+  updatedAt: "2026-10-24T18:05:35.764Z",
 } as const satisfies Module

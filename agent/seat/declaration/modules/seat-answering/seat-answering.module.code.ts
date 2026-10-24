@@ -1,3 +1,4 @@
+import { personsOf } from "akasha/agent/seat/declaration/modules/seat-persons/seat-persons.module.code.ts"
 import { personaIsDefault } from "akasha/agent/seat/declaration/modules/seat-resolve/seat-resolve.module.code.ts"
 import {
   HANDLER,
@@ -12,12 +13,15 @@ type Answering = {
 
 export type Answerable = {
   readonly personIsPrincipal: (principal: string) => boolean
+  readonly personsArePrincipal: (principal: string) => boolean
   readonly personaAnswersForSomebody: (persona: string) => boolean
   readonly persons: () => readonly string[]
 }
 
 export function principalIsPerson(root: string, principal: string | null): boolean {
-  return principal !== null && personPrincipals(root).includes(principal)
+  if (principal === null) return false
+  const known = personPrincipals(root)
+  return personsOf(principal).every((one) => known.includes(one))
 }
 
 export function personaIsHers(root: string, persona: string | null): boolean {
@@ -41,6 +45,7 @@ export function handlerDerives(
 }
 
 export function refusedAnswering(seat: Answering, among: Answerable): readonly string[] {
+  if (seat.principal !== null && among.personsArePrincipal(seat.principal)) return []
   const hers =
     seat.persona !== null && seat.persona !== "" && among.personaAnswersForSomebody(seat.persona)
   const person = seat.principal !== null && among.personIsPrincipal(seat.principal)
@@ -65,7 +70,10 @@ export function refusedAnswering(seat: Answering, among: Answerable): readonly s
 
 export function refuseAnswering(root: string, seat: Answering): readonly string[] {
   return refusedAnswering(seat, {
-    personIsPrincipal: (principal) => principalIsPerson(root, principal),
+    personIsPrincipal: (principal) =>
+      personsOf(principal).length === 1 && principalIsPerson(root, principal),
+    personsArePrincipal: (principal) =>
+      personsOf(principal).length > 1 && principalIsPerson(root, principal),
     personaAnswersForSomebody: (persona) => personaIsHers(root, persona),
     persons: () => personPrincipals(root),
   })

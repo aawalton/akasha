@@ -7,6 +7,7 @@ import {
   composeSeatName,
   type NameableSeat,
   personaDefaultsOf,
+  principalNamed,
 } from "akasha/agent/seat/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { awenEngineImprovements } from "akasha/domain/initiative/pages/awen-engine-improvements.initiative.ts"
@@ -64,6 +65,15 @@ test("a seat of several persons is named for its domain and its role", () => {
       ROOT
     )
   ).toBe("couples-therapy-couples-therapist")
+})
+
+test("a principal is the fleet, a person, or several persons each named once", () => {
+  expect(principalNamed(ROOT, "agent")).toBe(true)
+  expect(principalNamed(ROOT, alan.slug)).toBe(true)
+  expect(principalNamed(ROOT, principalOfPersons([alan.slug, "jenny"]))).toBe(true)
+  expect(principalNamed(ROOT, principalOfPersons([alan.slug, alan.slug]))).toBe(false)
+  expect(principalNamed(ROOT, principalOfPersons([alan.slug, iris.slug]))).toBe(false)
+  expect(principalNamed(ROOT, principalOfPersons([alan.slug, "agent"]))).toBe(false)
 })
 
 test("a seat working for the fleet on a game is named for the game and its role", () => {

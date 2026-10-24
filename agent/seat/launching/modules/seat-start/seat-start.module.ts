@@ -28,6 +28,10 @@ export const seatStart = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A start may name several persons as the principal, joined by commas.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The parent a caller states is the parent the seat is given.",
     },
     {
@@ -68,5 +72,5 @@ export const seatStart = {
     },
   ],
   createdAt: "2026-09-04T00:21:47.520Z",
-  updatedAt: "2026-09-30T06:38:04.000Z",
+  updatedAt: "2026-10-24T18:05:35.764Z",
 } as const satisfies Module

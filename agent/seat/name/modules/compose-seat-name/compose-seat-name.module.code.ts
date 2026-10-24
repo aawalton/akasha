@@ -1,3 +1,4 @@
+import { personsOf } from "akasha/agent/seat/declaration/modules/seat-persons/seat-persons.module.code.ts"
 import {
   gameAt,
   personaIsDefault,
@@ -37,6 +38,13 @@ function principalsFrom(persons: readonly string[]): readonly string[] {
 
 export function principals(root: string): readonly string[] {
   return principalsFrom(personPrincipals(root))
+}
+
+export function principalNamed(root: string, named: string): boolean {
+  if (named === FLEET) return true
+  const persons = personsOf(named)
+  const known = personPrincipals(root)
+  return new Set(persons).size === persons.length && persons.every((one) => known.includes(one))
 }
 
 export type Principal = string
