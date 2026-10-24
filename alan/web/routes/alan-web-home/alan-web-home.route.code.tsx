@@ -1,5 +1,6 @@
 import { signedInAs } from "akasha/alan/harness/better-auth-rr/modules/google-auth-guard/google-auth-guard.module.code.ts"
 import { readHomeNavItem } from "akasha/alan/web/.server/home-dni-param/home-dni-param.module.code.ts"
+import { navReachOf } from "akasha/alan/web/.server/nav-reach/nav-reach.module.code.ts"
 import {
   PageLayout,
   PageTitle,
@@ -25,11 +26,14 @@ export function meta({ data: loaderData }: { data: HomeLoaderData | undefined })
 }
 
 export async function loader({ request }: { request: Request }) {
-  if ((await signedInAs(request)) === null) throw redirect("/sign-in")
+  const signed = await signedInAs(request)
+  if (signed === null) throw redirect("/sign-in")
+  const reach = await navReachOf({ contributor: signed.contributor })
   const [navItem, document] = await Promise.all([
-    readHomeNavItem(),
+    readHomeNavItem(reach),
     siteDocumentAt(WEB_APP, "home"),
   ])
+  if (navItem?.href != null) throw redirect(navItem.href)
   return data({
     navItemIdParam: navItem?.param ?? null,
     title: navItem?.title ?? document.title,

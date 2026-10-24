@@ -1,3 +1,7 @@
+import {
+  type NavReach,
+  reachedNavItems,
+} from "akasha/alan/web/.server/nav-reach/nav-reach.module.code.ts"
 import { ALANWALTON_APP } from "akasha/alan/web/modules/alan-app-id/alan-app-id.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import type {
@@ -16,7 +20,7 @@ const NAV = toPageTypeSlug("nav")
 const EVERY_NAV_ITEM: Query = {
   pageTypeSlug: NAV,
   where: { app: { is: ALANWALTON_APP } },
-  keys: ["slug", "id", "title", "navPlace", "navParent", "mobilePinOrder"],
+  keys: ["slug", "id", "title", "navPlace", "navParent", "mobilePinOrder", "navHref"],
 }
 
 function placeOf(row: Row): number {
@@ -58,20 +62,33 @@ function paramOf(row: Row | undefined): string | null {
   })
 }
 
-type HomeNavItem = { readonly param: string; readonly title: string | null }
+type HomeNavItem = {
+  readonly param: string
+  readonly title: string | null
+  readonly href: string | null
+}
 
-function homeNavItemIn(asked: Asked): HomeNavItem | null {
+function hrefOf(row: Row | undefined): string | null {
+  const led = row?.["navHref"]
+  return typeof led === "string" && led.startsWith("/") && !led.startsWith("//") ? led : null
+}
+
+function homeNavItemIn(asked: Asked, reach: NavReach): HomeNavItem | null {
   if ("refused" in asked) {
     throw new Error(`${HOME_NAV_ITEM} went unread: ${asked.refused}`)
   }
-  const ordered = inNavOrder(asked.rows)
+  const ordered = inNavOrder(reachedNavItems(reach, asked.rows))
   const row = ordered.find(pinned) ?? ordered[0]
   const param = paramOf(row)
   if (param === null) return null
   const title = row?.["title"]
-  return { param, title: typeof title === "string" && title !== "" ? title : null }
+  return {
+    param,
+    title: typeof title === "string" && title !== "" ? title : null,
+    href: hrefOf(row),
+  }
 }
 
-export async function readHomeNavItem(): Promise<HomeNavItem | null> {
-  return homeNavItemIn(await askingFor(EVERY_NAV_ITEM))
+export async function readHomeNavItem(reach: NavReach): Promise<HomeNavItem | null> {
+  return homeNavItemIn(await askingFor(EVERY_NAV_ITEM), reach)
 }

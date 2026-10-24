@@ -36,7 +36,15 @@ export const homeDniParam = {
       decisionKind: "decision-kind/departure",
       statement: "The nav item's title is answered beside its param.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The home nav item is picked from the items the reader's access reaches.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A nav item leading to a path on this site is answered with that path.",
+    },
   ],
   createdAt: "2026-09-03T03:45:08.505Z",
-  updatedAt: "2026-09-27T11:39:42.000Z",
+  updatedAt: "2026-10-24T21:49:39.947Z",
 } as const satisfies Module

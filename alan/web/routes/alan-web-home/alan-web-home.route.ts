@@ -20,7 +20,15 @@ export const alanWebHome = {
       decisionKind: "decision-kind/departure",
       statement: "The opening nav item is picked again as soon as a nav item changes.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The opening nav item is picked from the items the reader's access reaches.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An opening nav item leading to a route of this site sends the reader there.",
+    },
   ],
   createdAt: "2026-09-09T22:01:14.418Z",
-  updatedAt: "2026-09-25T12:34:54.000Z",
+  updatedAt: "2026-10-24T21:49:39.947Z",
 } as const satisfies Route
