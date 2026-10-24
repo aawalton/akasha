@@ -1,0 +1,465 @@
+Available Skill Trees
+
+Small Bladed Weapons
+
+Large Bladed Weapons
+
+Light Blunt Weapons
+
+Heavy Blunt Weapons
+
+...
+
+Daggers
+
+...
+
+Throwing Weapons
+
+Torment
+
+Survival
+
+Poisoner
+
+Stealth
+
+Pyromancy
+
+Metallic Insight
+
+Metallumancy
+
+General Combat Magics
+
+...
+
+The list of skill trees he had apparently access to now was long. Long, interesting, and unfortunately lacking any nature attuned trees. The closest was Survival, and while the name was initially interesting, it quickly turned out to be lackluster at best, at least when it came to nature attuned skills.
+
+Regardless of what was offered, he had options and wouldn’t allow the lack of nature skills sour his mood any longer. He had a chance at life, to succeed at it, no struggle like he had for the last few days, and he would take it.
+
+He scanned through the general combat skill trees. And only found a few remotely interesting. None were outright bad, but they weren’t very interesting either. But even the lack of seemingly good skills wasn’t the crucial factor in why he ignored them. He simply didn’t want to become some sort of melee fighter or archer. If he couldn’t become a nature mage, he would at least like to be a mage.
+
+It would also have the added benefit of being a bit removed from battle which he wasn’t a large fan of just yet.
+
+He notices a few interesting tid-bids though. Daggers and Small Bladed Weapons had mainly identical skills, with the only exception that the former catered a bit more to Daggers specifically.
+
+Daggers (Foundational)
+
+Improves close combat with Daggers.
+
+Mosquito (0/10)
+
+Teaches dagger-combat forms
+
+Harden Dagger (0/10)
+
+Increases Hardness by 10% (rank, Endurance) of dagger
+
+Duration: 2(rank) min
+
+Cost: 10 mana
+
+Slippery Blade (0/10)
+
+Reduces friction of blade by 5% (rank, Agility)
+
+Duration: 0.5(rank) min
+
+Cost: 10 stamina
+
+Penetrate (0/10)
+
+2.5 (rank, Strength-low) % of the next attack’s damage dealt to armor is applied to the wearer, as long as hardness is overcome.
+
+Cost: 3 (rank/4) Stamina
+
+Death by a ten thousand punctures (0/1)
+
+A single cut burns for a week, ten cuts leave scars for a lifetime, one hundred immobilise limbs, a thousand maim for a lifetime, ten thousand kill.
+
+Cooldown: 1 week (static)
+
+Unlocked by: Tormentor
+
+Small Bladed Weapons (Foundational)
+
+Improves melee combat with small, bladed weapons.
+
+Short Ranged Combat Style (0/10)
+
+Teaches general small, bladed combat-forms
+
+Hardens Weapon (0/10)
+
+Increases Hardness by 5% (rank, Endurance) of small bladed weapons
+
+Duration: 2(rank) min
+
+Cost: 10 mana
+
+Enhanced Grip (0/10)
+
+Grip Strength is increased by 5% (rank, Strength)
+
+Strong Blow (0/10)
+
+The weight behind a blow is as though the weight were increased by 5% (rank, Strength)
+
+Cost: 10 stamina
+
+There was an obvious difference in quality. Not in the least due to the last skill in the Dagger tree. If it truly did what it promised, it had the potential to be utterly insane. A guaranteed kill skill was of insane value. Then, on the other side, ten thousand cuts were a lot. At best it could help with a dungeon boss skill… He did think about it a bit, but would never chose it as his first skill.
+
+Hmm, 1 cut second… That would still be almost three hours. Thought I guess agility would eventually reduce that by a bit. Would he be considering mundane combat trees there might have appeal, but as it was, it was interesting at best.
+
+He moved on the next more… Intimidating looking skill tree.
+
+Torment (Foundational)
+
+A scared minion is more useful than dead flesh.
+
+Pain Strike (0/10)
+
+Strike without inflicting damage only sustained pain 110%(rank, magic)
+
+Duration: 110%(rank, magic) natural healing
+
+Cost: 5 mana
+
+Forget Happiness (0/10)
+
+The target loses access to 2.5%(rank) of their happy memories for the skill duration
+
+Duration: 5(rank) min
+
+Cost: 20 mana
+
+Positive association (0/10)
+
+Determine a anchor. When victim focuses on anchor pain inflicting skills are halted.
+
+Duration: 30(rank) min
+
+Cost: 50 mana
+
+Supercede Hope (0/10)
+
+Hope gets replaced with a grim outlook on the future when victim considers acting against caster
+
+Duration: 10(rank) min
+
+Cost: 30 mana
+
+Screw intimidating. This is straight up disgusting, morbid, and also worrying. Yeah, no thanks. Forgetting what he had read wasn’t quite possible but reading the next skill tree helped replace the previous read words.
+
+He was sure to stay away from a tree of that caliber unless he had no other choice.
+
+Survival (Foundational)
+
+Flourish in isolation, apart from civilization. Become the flower that blossoms in the wild.
+
+Foraging (0/10)
+
+Gauge the nutritional value of foraged goods
+
+Crude Tools (0/10)
+
+Crafted items can have a single quality enhanced, and can gain a quality.
+
+Requires Materials of sufficient quality
+
+Cost: 10 + Variable Mana or 20 + Variable Stamina
+
+Notes: acts as a crafting skill
+
+Temporary Shelter (0/10)
+
+Manipulate natural matter around you to construct a shelter.
+
+Hardness: Natural Matter * 110% (rank, toughness)
+
+Durability: Weakest Link * 110% (rank, vitality, endurance)
+
+Duration: 12 (rank) hours
+
+Cost: 10 mana/s
+
+Prepare Monster (0/10)
+
+Monster is prepared to be digestible. Applies debuff. Repeated monster consumption within a week will have negative side effects.
+
+Debuff Duration: 7 (rank, endurance) Days
+
+Cost: 20 mana
+
+Unlocked by: Butcher
+
+Fortress Solitude (0/10)
+
+Social Isolation has decreased effects on your psyche.
+
+All of those skills were interesting, but not a single one was an immediate fetch. Nothing there would boost survivability by a large enough margin to sacrifice one of the few skill slots one gained. And it was even less worth it to give up a specialization or spend it on Survival. His four skill points until level ten would have to be spend effectively.
+
+Poisoneer (Foundational)
+
+Increase combat prowess through strength in variety and reducing your opponent’s capability. Requires skills in at least one weapon tree.
+
+Adhering substance (0/10)
+
+substances applied to your weapon is distributed more efficiently and less likely to fall off.
+
+Adhesion Strength: 110% (rank, agility-low, willpower)
+
+Duration: 5 (rank) min
+
+Cost: 5 mana
+
+Decay Résistance (0/10)
+
+Substances applied to your weapon are longer lived and influenced less by external conditions
+
+Reduction: 95% (rank)
+
+Duration: 110% (rank, magic, willpower)
+
+Cost: 5 mana
+
+Swift Apply (0/10)
+
+Apply substance to weapon without directly interfacing with either.
+
+Efficiency: 10% (rank, agility)
+
+Cost: 50 (rank) Mana
+
+Extrude Poison (0/10)
+
+Removes 5% (rank, toughness-low, endurance-low) of detrimental substances from body upon activation.
+
+Cost: 5 Health or 10 Mana
+
+Infuse Sustained Effect (0/10)
+
+Allows you to infuse the previously sustained effect into a liquid. Cost based on liquid and effect
+
+Potency: 10% (rank, magic-low)
+
+Cost: 5 + Variable Mana
+
+Unlocked by: Afflictioneer
+
+Kent scratched his chin. Especially the last skill unlocked by the Afflictioneer title was interesting. The turrl’s effect of sleep induction was quite strong and would no doubt be very valuable, just not when fighting turrls. So, for now the tree was benched as well. He would remember it though.
+
+Screw this. May I should take it. If I get a specialization in there, I could get double strength of previously ingested poisons. But I’d also need more toughness and vitality to survive those effects. Oh my, I wish I had less options.
+
+Stealth (Foundational)
+
+Blend into your environment or disrupt observation.
+
+Conceal Sound (0/10)
+
+Movements don't cause sound at low (rank, agility-low) speeds.
+
+Cost: 10(agility-low) stamina per minute
+
+Weightless Steps (0/10)
+
+The effect of footfall on ground is reduced by 10% (rank, agility).
+
+Duration: 2 (rank, agility-low) minutes
+
+Cost: 10 stamina or 5 mana
+
+Odorless Travels (0/10)
+
+The user’s odors become suppressed by 10%(rank)
+
+Duration: 1 (rank) minute
+
+Cost: 10 stamina or 5 mana
+
+Label of Innocuousness (0/10)
+
+Low-Tier identifies return a label that seems innocuous to them
+
+Level Difference: 10 (rank)
+
+Unlocked by: Deceiver
+
+This… hmmm. I don’t know if I need Label of Innocuousness. Ten levels of difference won’t even be enough to fool… oh wait. I can level and the skill can. But still… How do I level the skill, by being appraised? If yes than it won’t do me any good.
+
+The first three skills looked very interesting as well and would offer great benefits when trotting through forests and circumventing people. The issue being that Kent just didn’t really want to do that. It was even more interesting than what was offered by Survival but not what he wanted out of life. Being part of a community was all he knew and kind of wanted.
+
+Kent considered not even looking at the next skill tree in line. The anathema to his aspirations, Pyromancy was not uninteresting. But it spoke of a certain character. The disregard for people, structures, and plants was not something Kent wanted to be associated with.
+
+He lurked regardless. The title had been strong, so the chances were good that the related tree was powerful as well.
+
+Pyromancy (Foundational)
+
+Burn the world to clear your path
+
+Fire Dart (0/10)
+
+shoots a fire projectile at a target that deals damage when engulfing the target in flames.
+
+Damage: 8 (rank, magic) to health upon ignition
+
+Range: 15(rank) m
+
+Cost: 4 mana
+
+Fire Construct (0/10)
+
+Create a construct from fire. Carries intent (magic).
+
+Hardness, Durability, Stability, and Heat increase with rank and familiarity
+
+Cost: 5 + Variable
+
+Effect: Physicality (0/10)
+
+Elemental Fire skills gain physicality. Force damage depending on heat damage is applied even if target is not ignited.
+
+Effect: 10% (rank)
+
+Cost: +25%
+
+Blazing Strike (0/10)
+
+The next strike has a chance of igniting the target
+
+Damage: 4 (rank, magic) to Health upon ignition
+
+Cost: 3
+
+The tree is intriguing. Fire Construct has some pretty good potential. Fire Dart seems to do good damage at a decent cost when it activated. Physicality seems to be a requirement to make the tree work. A two-skill point investment might be too much, and as of yet my mana is too low, even though that might change.
+
+Metallic Insight (Foundational)
+
+Metal gives strength to any wielder, but seldomly it is understood well.
+
+Analyze Metal (0/10)
+
+Gain a mental image(rank) of the inspected metal’s qualities.
+
+Cost: 100 Mana
+
+Metallic Affinity (0/10)
+
+Skills and spells that interact with Metal are boosted by 10% (rank)
+
+Metallic Presence (0/10)
+
+Gain occasional impressions of all dense (rank, senses-low, magic-low) pockets metal in your surroundings. For a constant cost get constant information.
+
+Frequency: 1(rank) per hour
+
+Range: 10 (rank) m
+
+Cost: 10 mana per second
+
+Kent gaped at what he saw. When Pyromancy had been intriguing, this was on a whole different tier. A boost to everything associated with metal was strong. Especially since it came at no cost, unlike the Pyromancy’s Physicality.
+
+Had he any other metal related skills he would have probably used his skill slot right here. To be prudent he checked the other skills of the same tree. Analyze Metal is a bit of an enigma. It sounds more like a skill for a smith or an enchanter. Wait a moment. He checked his titles again and confirmed his thought. I shouldn’t have access to crafting stuff so what is the purpose of this. Hmm didn’t… Yes, Survival has a crafting skill.
+
+Metallic Presence was interesting, yet again it seemed to be a skill useful for a prospector, or maybe a miner. Not for combat. It seemed to be a more useful ability than Analyze Metal in any case. Should he strife for the Metallic Insight specialization it would be his other skill.
+
+Stumped, not only by the lack of information but also the high mana cost of two skills in the tree he moved on.
+
+Metallumancy (Foundational)
+
+Supersedes physical weapon wielding under the aegis of magic.
+
+Accelerate Metal (0/10)
+
+Accelerate a previously attuned piece of Metal towards or away from you. Gravity does not affect the metal for the duration of acceleration.
+
+Acceleration: 5.75 m/s^2
+
+Cost: 1 (acc) mana per second
+
+Harden Metal (0/10)
+
+Harden an attuned piece of Metal by 20% (rank)
+
+Duration: 10 (rank) min
+
+Cost: 10 mana
+
+Rotate Metal (0/10)
+
+Rotate a piece of metal however you want symmetrical to the center of mass. Maximum Rotational Acceleration is applied so that the piece furthest to the center of mass experiences Rotational Acceleration.
+
+Rotational Acceleration = 5.75 m/s^2
+
+Cost: 0.5 (rot. Acc.) mana per second
+
+Metallic Extension (0/10)
+
+Attuned Metal is an extension of your body. You can use skills fitting to the attuned piece of metal through it at reduced 90% (rank) efficiency.
+
+Unlocked by: Luminary of Metal
+
+“I think we have a winner,” Kent grinned. Metallic Extension combined with Metallic Affinity and the Dagger skill tree had a definitive and honestly quite staggering synergy. And even more importantly, it would allow him to not have to stab monsters. Maybe, at some point in the future, he would have another look at the other skill trees, but for now he had plenty of skills he could throw his skill slots at.
+
+It now came down to planning. He, well basically everyone, knew how to gain one additional skill point before the wall. Killing a monster across from it was the only achievement that was documented, and it rewarded you with an additional skill point. Still, that wouldn’t be enough. To get the third specialization and an increased rank cap he would need one more skill point.
+
+He glanced over the panel once more, to see if there was another path, something he hadn’t noticed yet.
+
+There were of course still other trees that might be useful in the future. The Movement tree might be interesting in the future, but it offered no immediate benefits and seemed to be weaker than the special trees unlocked by his titles.
+
+He facepalmed. He hadn’t gone through all of his unlocked skill trees yet. There was one remaining.
+
+General Combat Magics (Foundational)
+
+Power through magic finds its purest form here.
+
+Mana Bolt (0/10)
+
+shoots a bolt of destructive mana into a direction
+
+Range: 15 (rank) m
+
+Damage. 5 (rank) damage
+
+Cost: 2 mana
+
+Universal Ward (0/10)
+
+Absorbs damage of all types
+
+Range: Touch
+
+Duration: 10 (rank) seconds
+
+Durability: 10 (rank) damage
+
+Cost: 10 mana
+
+Directional Shield (0/10)
+
+Absorbs magical attacks in one direction. Manifestation depends on caster.
+
+Range: 3m
+
+Duration: 5 (rank) seconds
+
+Durability: 10 (rank) damage
+
+Cost: 5 mana
+
+Locate Closest Monster (0/10)
+
+Gives a vague sense of direction towards the closest monster within range
+
+Resolution: 5/rank m
+
+Range: 10 (rank) mCost: 1 mana per seconds
+
+“Shiiiiiit, I need this too, don’t I?” he asked into the empty chamber he was in. The locate skill alone is bound to be valuable and might even help with monster encounters. A ward would be nice as well. Heck it would reduce his reliance on potions and artificially increase his health pool for a low cost, especially with time.
+
+Kent would have preferred to become a farmer. Life was simple. You only had to worry about the weather – and that only when you were weak –, getting home on time for dinner, and enjoying the winter with your friends.
+
+This, this wasn’t the lot he wanted. But it was his lot, he had tried to change it to no avail, and he would do the best darn job he could to fill it.
+
+He hovered just a moment longer on the decision, then chose.

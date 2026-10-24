@@ -1,0 +1,221 @@
+Arguably the most important aspect of town design is the proper harmonization of traited and respective elemental alignments across the city. Internal traited can of course be ignored for the distribution and should be used as buffer communities if it is not possible to separate other elemental alignments properly.
+
+By conventional wisdom there are three pairings that are especially volatile. Fire and Nature aligned traited can cause disturbances over the smallest of elemental use cases. To prevent that and take proper advantage of the respective alignments abilities it is ideal to encourage nature aligned people to move into farming dominant regions. This also enables the smaller fire attuned communities to help with town waste disposal more efficiently and on a larger scale.
+
+The negative side-effect of such a concept is that it may cause emotional instability in the rare metal-and more common water-trait holders caused by giving fire-aligned individuals more freedom. The plus side is that relocating nature alignments may also prevent minor conflicts that might be a result of the complicated relationship between nature and metal aligned individuals1 by allowing for specialized metal enclaves within the earth dominatant communities, which would otherwise be the ideal pairing for the nature alignments.
+
+Overall, it should be mentioned that most trait types synergize well with certain others and those should be considered when designing a town, but the main priority always has to be separating conflicting elements2.
+
+1 for more information on the specifics of Metal alignment refer to the Royal Institute’s texts on Rare Alignments
+
+2 for a complete list of traits and their interactions refer to the Royal Institute’s texts on traits-harmonization and trait-interference
+
+Excerpt from “Establishing Districts” in “Royal Institute of Infrastructure: Town Design of the New Age” by Earl Anna-Lena Burgous
+
+***
+
+The night had been harsh and exhausting, though not as tiresome as he had feared. This close to the zone the monster density seemed to be diminished by a larger degree, allowing him to conserve his resources better than he could have in the previous sleeping spot. Turrls were still fairly common, but he started to see the influence of the turrl dungeon diminish, the ratio of turrls to other monsters changing from a ten to one ratio to around five to one.
+
+Once the night had passed Kent had decided to sleep for a few hours to recuperate and try to alleviate some of the stamina strain that was slowly building up from seldomly completely regenerating the pool.
+
+His stamina had almost dipped to zero and the constant exertion on his body over the last few days had been tiring more than what stamina could compensate for. Now, after his early morning nap, things were looking better again.
+
+His status showed that he had made decent gains during the night. Endurance increasing was a nice, the reduce in stamina consumption for mundane activities was helpful. But the experience penalty from evolving was also obvious.
+
+But it was only a small part of what stood out to Kent.
+
+His daily rest regeneration for mana had doubled since the last time he had checked. All through gaining a couple of points in Willpower, two in Regeneration, and by increasing the rank of Wellspring by one. It was kind of insane.
+
+There had also been a jump in the other regenerations, but it hadn’t been as large as this one.
+
+It affirmed Kent’s decision to choose regeneration as his primary attribute.
+
+Thanks to fighting primarily monster of a higher level his growth had still been fairly decent. He had almost reached level twelve and the gains alone from reaching level eleven had been pretty insane.
+
+Kent Larsson [Level 11] [72%]
+
+Pools:
+
+Health: 122/127
+
+Health Reg: 28 - 90 /d
+
+Stamina: 36/194
+
+Stamina Reg: 61 - 197 /d
+
+Mana: 154/158
+
+Mana Reg: 190 - 615 /d
+
+Stats:
+
+Vitality: 28
+
+Toughness: 15
+
+Endurance: 36
+
+Strength: 28
+
+Agility: 25
+
+Senses: 17
+
+Mind: 21
+
+Magic: 79
+
+Willpower: 127
+
+Regeneration: 56
+
+Skills:
+
+Accelerate Metal (6/20) (130/300 Exp.)
+
+Penetrate (5/20) (215/250 Exp.)
+
+Metallic Affinity (6/20) (129/300 Exp.)
+
+Metallic Extension (2/20) (99/100 Exp.)
+
+Mosquito (2/20) (28/100 Exp.)
+
+Metallic Presence (4/20) (136/200 Exp.)
+
+Magical Wellspring (5/20) (63/250 Exp.)
+
+***
+
+Kent spent most of the day walking further along the road to Farburg, occasional boredom made him choose to act rather freely once again with mana, but mana wasn’t a concern at this point. Stamina was.
+
+Now more than half of the day had past, with Kent not doing much. He had walked for several hours but that might have been a mistake because there was no settlement in sight, and he was still exhausted.
+
+He used his mana extensively on Accelerate Metal before deciding to take a nap next to a small stream which had been kept free of foliage.
+
+***
+
+The next morning Kent’s mood was in all over the place. He had almost died, but thanks to a health potion he had been able to cling on to life. It had been the last potion of its kind in Kents possession, and his opponent a level 24 drop-pig had required his all.
+
+Something Kent had not been aware of, was how drop-pigs actually worked. He just knew that they were somehow able to ambush people by dropping from trees.
+
+He had just gotten down from his to inspect one of the slain scramblers on the ground – it had been level twenty-one so he had been curious whether it could have had any spell cores.
+
+It hadn’t been worth it.
+
+The moment he had gotten back to the tree he had chosen as a resting-spot a tusker of a multiple of his own weight had dropped on him. Had he not seen the shadow of it, he would have likely been dead.
+
+With a tremendous amount of luck, he had been able to mostly dodge the monster, only breaking his left foot in the impact.
+
+The next few minutes had been hectic, Accelerate Metal had barely helped at all in the close combat situation mostly causing disorientation and disarming Kent.
+
+Penetrate had in the end saved the day. The skill barely struggling to pierce the monsters skull.
+
+In hindsight, Kent had once again forgotten about his potentially biggest advantage. His cloak would have allowed him to easily deal with the opponent and even completely dodge the attack. It was just that it’s properties were still a little scary and so he didn’t use it much, and thus lacked the instincts that would make him consider it as an option. He resolved to do better in the future. He told himself that once he would be safe again, he would practice every time his mana was low. It would offer a safeguard should Kent not be able to leave the cloaks effects on his own, and thus prevent the downsides of long exposure.
+
+The rewards had been good though. Now he couldn’t wait to get into Farburg, sadly, looking at his status he knew that he would not be able to get there without another break.
+
+Kent Larsson [Level 13] [9%]
+
+Pools:
+
+Health: 133/159
+
+Health Reg: 36 - 142 /d
+
+Stamina: 6/214
+
+Stamina Reg: 66 - 261 /d
+
+Mana: 91/228
+
+Mana Reg: 244 - 966 /d
+
+Stats:
+
+Vitality: 36
+
+Toughness: 15
+
+Endurance: 41
+
+Strength: 28
+
+Agility: 25
+
+Senses: 17
+
+Mind: 29
+
+Magic: 114
+
+Willpower: 163
+
+Regeneration: 74
+
+Skills:
+
+Accelerate Metal (7/20) (69/350 Exp.)
+
+Penetrate (6/20) (17/300 Exp.)
+
+Metallic Affinity (7/20) (68/350 Exp.)
+
+Metallic Extension (3/20) (12/150 Exp.)
+
+Mosquito (2/20) (28/100 Exp.)
+
+Metallic Presence (4/20) (190/200 Exp.)
+
+Magical Wellspring (5/20) (179/250 Exp.)
+
+In fact, the rewards had been ridiculous. Whatever worry he had of not being able to keep up with traited were averted now.
+
+The last thoughts he had as he fell asleep on the tree were that he would have loved to know details about his siblings stat.
+
+***
+
+It was afternoon when Kent woke up again. He was a bit annoyed with himself that he hadn’t managed to use more of his mana before falling asleep but at least he had found out, that his avowal didn’t prevent him from falling asleep.
+
+It was just as well, if he could ignore such a human need easily, he could see himself taking greater harm from risking to much at a later point.
+
+Glossing over his status he was kind of shook. He knew that he must have been outperforming his siblings by a long shot. He couldn’t imagine them keeping up with him at the rate he was growing, though they would still have the advantage of having a trait, which he lacked. Last time he had talked to them, Arryn had been level twenty-four, Sarah had been seventeen but quickly catching up to the four years of age difference between the two of them.
+
+His musings were interrupted by more and more frequent encounters with other people. A sign that he was getting closer to another town. He had come across a lot more people since passing the second village, but he felt like the rate of encounters was still increasing. Most passing him from behind, some carrying knapsacks, pouches, others crates with fruits, stones, or leaves.
+
+Whether those came from Reinsteel or had just left Farburg for the day to return now was uncertain, and for the most part he kept to himself. Worried about being identified as an ‘exile’. He had spun up a story he hoped he could sell to the guard, without tripping up any truth spells and he was as confident in its success as he could be, but he would rather not test it.
+
+Furthermore, he now had an angle of approach that had a solid chance of working thanks to the input of the stranger. With a bit of luck, politeness, and a non-confrontal attitude he would have success.
+
+Spurred by his hopes of getting to stay within the city limits, or at least in the zone he hurried along. He felt it when he entered the zone. The irate and foreign energies dwindling, replaced by the low-energy environment of the zones of civilization. Stress and tension that had been building since he had crossed the villages on his way disappeared, for the most part.
+
+Kent was aware that he was too confident, and that he should keep his guard up, it was hard though.
+
+The few people he met on the way weren’t potential hostiles anymore, rather fellow citizens. He began indulging in his need for socializing again, greeting people and exchanging minor plesantries. His desire for companionship was finally quenched when he came across a group of woodcutters, their levels not unimpressive for their age.
+
+Ranging from high teens for the youngest about his own age to low fifties in a middle-aged man. They had seen combat, each of them. Otherwise, their level would have been lower by a bit.
+
+The conversation flowed easily after he had introduced himself. One of the men, the only one not involved in the conversation, had clearly been the victim of a turrl attack. The common threat and annoyance of the tree huggers as they called them became the main topic of conversation and Kent’s first real encounter with city folk.
+
+“The other day, one of the tree huggers I encountered dropped a spell core. Have you heard of that?” Kent asked as the conversation dwindled down. It was a risk, but he judged the people to be fair and kind, not of the backstabbing sort.
+
+The highest in level if you ignored the man passed out on the cart, Marcus, responded after a good bit of cuckling.
+
+“Have you been dismembering turrls to get those? What a waste. I’m not aware of anyone ever getting spell cores from them. Good on you for getting one though.”
+
+“What really? I thought every monster above level ten had the chance of having one in their body?”
+
+“Sure, technically you are correct, but below level twenty the chances are very low. When we encounter monsters while cutting trees, we only bring back those above thirty, and as you can see,” he made a sweeping gesture to the logs on the wagon, “this close to the city we don’t see them often.”
+
+They talked a bit longer about this and that, and eventually split apart when they arrived at the gate, since Kent was pretty sure not registering with the city guard would lead to eventual issues and his current problems being amplified fewfold.
+
+He turned to one of the six people in uniform and approached the one with the lowest level, just in case rank was decided on level, he didn’t want to annoy anyone of importance.
+
+“Sir, good evening. I’ve been informed that my status has changed since fleeing Blueleaf. I’ve been told to contact the guard about such an issue.”
+
+But he knew that his approach was doomed. As soon as he had mentioned Blueleaf two of the other guards had raised their weapons and approached. In addition all of the guards had now eyes on him.
+
+“You are under arrest, please do not resist or we will have to make use of lethal force,” said one of the approaching guards.
+
+At least he had managed to retract his cloak into his soul before interacting with the wood workers. That would have only made him more suspicious. Kent resolved to keep it tucked away for the immediate future.
