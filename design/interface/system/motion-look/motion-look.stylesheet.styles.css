@@ -10,7 +10,7 @@
 @keyframes scroll-target-highlight {
   0%,
   20% {
-    outline-color: oklch(0.63 0.13 73 / 0.5);
+    outline-color: oklch(from var(--yellow) l c h / 0.5);
   }
   100% {
     outline-color: transparent;
@@ -18,7 +18,7 @@
 }
 
 .scroll-target {
-  outline: 2px solid oklch(0.63 0.13 73 / 0.5);
+  outline: 2px solid oklch(from var(--yellow) l c h / 0.5);
   outline-offset: -1px;
   border-radius: var(--radius-lg);
   animation: scroll-target-highlight 1.5s ease-out forwards;
@@ -26,7 +26,7 @@
 
 @keyframes tab-flash-highlight {
   0% {
-    background-color: oklch(0.63 0.13 73 / 0.25);
+    background-color: oklch(from var(--yellow) l c h / 0.25);
   }
   100% {
     background-color: transparent;
