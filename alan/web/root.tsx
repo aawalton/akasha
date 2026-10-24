@@ -3,6 +3,7 @@ import literataWoff2 from "@fontsource-variable/literata/files/literata-latin-wg
 import { ErrorCaptureInstaller } from "akasha/alan/harness/errors-client/modules/error-capture-installer/error-capture-installer.module.code.tsx"
 import { reportError } from "akasha/alan/harness/errors-client/modules/error-reporting/error-reporting.module.code.ts"
 import { useReportRenderError } from "akasha/alan/harness/errors-client/modules/use-report-render-error/use-report-render-error.module.code.ts"
+import { parseBuildSha } from "akasha/alan/harness/web-build-version/modules/build-sha/build-sha.module.code.ts"
 import {
   guardedRoot,
   type RouteAccessConfig,
@@ -37,6 +38,8 @@ import "akasha/code/router-app/vite-client/vite-client.type-declaration.d.ts"
 import { alanwaltonWeb } from "akasha/infrastructure/service/akasha-service/web-app/pages/alanwalton-web.web-app.ts"
 
 const WEB_APP = namedAs("web-app", alanwaltonWeb.slug, null)
+
+const BUILT = parseBuildSha(import.meta.env.VITE_BUILD_SHA) ?? ""
 
 const HOME_PATH = "home"
 
@@ -131,8 +134,8 @@ export function Layout({ children }: { children: React.ReactNode }) {
         <TabIcon />
         <Meta />
         {}
-        <script src="/sidebar-boot.js" nonce={nonce} suppressHydrationWarning />
-        <script src="/scheme-boot.js" nonce={nonce} suppressHydrationWarning />
+        <script src={`/sidebar-boot.js?v=${BUILT}`} nonce={nonce} suppressHydrationWarning />
+        <script src={`/scheme-boot.js?v=${BUILT}`} nonce={nonce} suppressHydrationWarning />
       </head>
       <body className="font-sans antialiased">
         <SurfaceProvider level={0} background={false}>
