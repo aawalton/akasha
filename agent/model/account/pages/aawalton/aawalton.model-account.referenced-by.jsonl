@@ -3,4 +3,3 @@
 {"propertySlug":"import","fileName":"aawalton.model-account.ts","path":"agent/seat/modules/akasha-read/seat-akasha-read.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"aawalton.model-account.ts","path":"agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-agent/supervisor-agent.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"registration-account","path":"agent/seat/pages/elin/elin.seat.ts","id":"01a14fa2-9498-7000-90fe-bdb948beb9a8"}
-{"propertySlug":"registration-account","path":"agent/seat/pages/nimue/nimue.seat.ts","id":"01a15513-cad9-7000-89f4-a97e9c07d220"}
