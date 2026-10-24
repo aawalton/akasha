@@ -2,9 +2,12 @@ export interface PluginListenerHandle {
   remove: () => Promise<void>
 }
 
+export type StatusBarStyle = "DARK" | "LIGHT"
+
 export interface StatusBarPlugin {
   hide: () => Promise<void>
   show: () => Promise<void>
+  setStyle?: (options: { style: StatusBarStyle }) => Promise<void>
 }
 
 export interface PushPermissionStatus {

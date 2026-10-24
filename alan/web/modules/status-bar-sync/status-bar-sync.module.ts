@@ -6,6 +6,12 @@ export const statusBarSync = {
   slug: "status-bar-sync",
   definition: "the native status bar kept matching what is on screen",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The status bar's text is dark over the light scheme and light over the dark one.",
+    },
+  ],
   createdAt: "2026-09-03T03:44:04.793Z",
-  updatedAt: "2026-09-15T18:21:01.000Z",
+  updatedAt: "2026-10-24T19:59:42.071Z",
 } as const satisfies Module

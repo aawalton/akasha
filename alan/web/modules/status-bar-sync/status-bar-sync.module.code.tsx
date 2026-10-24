@@ -1,6 +1,7 @@
 import {
   getStatusBar,
   isNativeShell,
+  type StatusBarStyle,
 } from "akasha/alan/web/modules/capacitor-bridge/capacitor-bridge.module.code.ts"
 import {
   classifyStatusBarBridge,
@@ -8,7 +9,28 @@ import {
 } from "akasha/alan/web/modules/status-bar-chrome/status-bar-chrome.module.code.ts"
 import { useEffect } from "react"
 
+function styleOfScheme(): StatusBarStyle {
+  return document.documentElement.dataset.scheme === "light" ? "LIGHT" : "DARK"
+}
+
 export function StatusBarSync() {
+  useEffect(() => {
+    const statusBar = getStatusBar()
+    if (!isNativeShell() || statusBar?.setStyle === undefined) return
+    const sync = () => {
+      statusBar.setStyle?.({ style: styleOfScheme() }).catch((error: unknown) => {
+        console.error("[status-bar-sync] setStyle -> rejected", error)
+      })
+    }
+    sync()
+    const observer = new MutationObserver(sync)
+    observer.observe(document.documentElement, {
+      attributes: true,
+      attributeFilter: ["data-scheme"],
+    })
+    return () => observer.disconnect()
+  }, [])
+
   useEffect(() => {
     const statusBar = getStatusBar()
     const state = classifyStatusBarBridge(isNativeShell(), statusBar != null)
