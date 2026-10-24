@@ -42,6 +42,7 @@ export const person = {
     "phone-number-property/phone",
     "relation-property/answered-by",
     "relation-property/person-contributor",
+    "select-property/scheme",
     "page-type/access-deed",
     "person/anonymous",
     "module/page-type-access",
@@ -53,6 +54,7 @@ export const person = {
     { pageProperty: "email-address-property/email-address", required: false, many: false },
     { pageProperty: "number-property/bodyweight", required: false, many: false },
     { pageProperty: "relation-property/person-contributor", required: false, many: false },
+    { pageProperty: "select-property/scheme", required: false, many: false },
   ],
   decisions: [
     {
@@ -67,5 +69,5 @@ export const person = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-30T18:13:32.023Z",
-  updatedAt: "2026-09-25T12:40:02.000Z",
+  updatedAt: "2026-10-24T21:25:34.247Z",
 } as const satisfies PageType
