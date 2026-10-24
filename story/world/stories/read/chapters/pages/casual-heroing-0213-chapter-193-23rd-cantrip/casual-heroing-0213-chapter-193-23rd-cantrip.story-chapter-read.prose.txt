@@ -1,0 +1,125 @@
+"Hello, book," I say to the Omnium Compendium, "I think it's time we resume our training. Would you mind telling me how many days I've got left?"
+
+‘Requirement: learn to perform all 529 cantrips in the next nine months. Ask the book to teach you the cantrips.’
+
+‘Days remaining: 296’
+
+‘Cantrips Completed: 22'
+
+"Heh, not making great time for this, I suppose. So, book, would you mind showing me the 23rd Cantrip again?"
+
+‘For the Twenty-Third Cantrip, Magister Mulligan wants you to cast a [Light Shield] that can withstand an arrow shot from a short bow without skills.’
+
+I start fishing in my bag of holding, remembering I had already written down some of the math for this. After a few minutes, I find a crumpled piece of paper.
+
+'Assuming a typical arrow weighs around 75 grams and travels at the speed of around 61 meters per second from a short bow, the pressure exerted by the arrow on impact would be around 68.95 to 82.74 MPa if the arrowhead had a surface area of around 0.64516 square centimeters.'
+
+I can already feel my head starting to hurt at the sight of the problem. Solving it for this would be easy. But I don't need a shield to just save me from the Omnium Compendium; I need a shield because I might actually get shot at by someone.
+
+"Old man, can you estimate how much faster an arrow could go, and maybe how much more it would weigh, in the case of, say, an [Archer] at level 30 or 40? Oh, say a [Sniper Archer] or something like that tries to one-shot me with a combination of skills. How many times stronger than this would it be?"
+
+"I suppose this knowledge would prompt you to become a better [Mage]," Magister Mulligan says, reappearing behind me and looking over the piece of paper.
+
+"A level 40 Vanedeni [Sniper], who should be roughly similar to a low level 50, with a decent Enchanted bow and skills..." the old man’s voice trails off for a second. "I would estimate that their one best shot that would exhaust most of their skills would be able to pile up to..."
+
+The man looks at the ceiling and then back at the piece of paper.
+
+"Anywhere between two-hundred and four-hundred times a normal shot from a short bow. If they are using a Relic, it could go up to five or six times that upper bound. But they would only be able to shoot once or twice a day. [Snipers] are meant to take out high-level individuals, young Luciani."
+
+I look down at the paper and then at the man.
+
+"WHAT?!"
+
+...
+
+"You shouldn't worry about it. [Snipers] are the first targets in any engagement. And once you become an [Archmage], you can simply open a one-way reactive dimensional portal to kill them with their own shot. It is very satisfying, young Luciani."
+
+I look at the calculations in front of me, not even willing to read them aloud again.
+
+"Old man, I don't want to discredit what you say, but... how does an arrow not turn into plasma at that speed? Are you sure those numbers are right?"
+
+"I would not have needed so much Mana against—young Luciani," the man clears his voice, "yes, the calculations are correct. There is always a margin of error, but [Snipers] have skills that are meant for one or two shots only. The most dangerous [Snipers] can only activate their skills once a month or worse. The longer the cooldown of their skills, the more a [Sniper] is feared. We are talking about a class that only levels through killing much higher-level people than themselves. Some snipers bury themselves alive with Enchantments for air and wait for weeks several yards underground for their enemy to walk by so they can kill them instantly."
+
+"Ok, yeah, I can't make a shield that good," I mutter. "No way in hell."
+
+"If you focused your entire [Mage] training on shields, perhaps you could. But isn't it much more convenient to simply use portals and have the enemy kill themselves?"
+
+"One question before I actually get to work," I say to the old man, "How would you be able to react in time?"
+
+"Self-triggering spells," Magister Mulligan snorts. "How do you think [Archmages] even fight each other? You think they cast on the spot?"
+
+"They don't?" I cringe.
+
+"Unless they are [Necromancers] or Enhancers, they most certainly do not."
+
+"Alright, I'll have nightmares about dirty men in the ground wanting to shoot me with plasma arrows now," I sigh, "back to work, I suppose."
+
+...
+
+[Advanced Mana Sense]
+
+[Deep Focus]
+
+I cast a simple, solitary [Light] in front of me, moving it back on forth as I think about the perfect solution to this problem. I could simply fill up a shield full of Mana, and that would be enough to pass the Cantrip, but I need something a bit better if I'm going back into that forsaken Dungeon.
+
+Any big, one-piece, solid shield is a bad idea. It would simply fragment on impact due to having to withstand too much at once. The best idea would be a modular shield of sorts, with each unit connected to the other and, hopefully, able to slow down the projectile in a ripple-like effect. Decelerating the blow would most definitely make this much easier on my Mana reserves. Magister Mulligan mentioned at some point that you need to connect a shield to your own Mana if you want it not to turn off at the worst possible moment.
+
+I dispel the [Light] and generate a new spell matrix. This time, I start flattening it and shaping it into a hexagon. It takes several tries before I can get a working prototype. I look at the weirdly jumbled spell matrix that generated this hexagon-shaped [Light] and try to memorize its shape. After doing that, I start shrinking it down and cast it.
+
+A very small hexagon, only half an inch in diameter, rests in front of me. It's roughly as wide as it's long. Not too bad, if you ask me.
+
+Now comes the hard part.
+
+How do you cast hundreds, if not thousands, of these little things simultaneously? I’m not even considering the fact that they must be glued together...
+
+Recursion.
+
+I think back on how I created the professional kneader... I used an anti-matrix that would get triggered with each spin and regenerate the swatting motion that powers the engine. If I can establish boundaries for the shield, can I create a spell matrix that automatically expands, instantly generating the thousands of little hexagons I would need for a massive shield?
+
+I try and envision the spell matrix as a closed loop. Once the Mana, or the 'current,' is channeled through it, the circuit completes, and the spell is cast. But how does one matrix generate another? And how can they work in tandem?
+
+I sketch a primary spell matrix on my parchment, intending for it to be the starting point, the center from which all the others would spring forth.
+
+But how? How would this even work?
+
+What do I know about a spell matrix? I envision it and then fill it out to cast the spell. Is there a way for the spell matrix itself to 'envision' one matrix on each of its sides and anchor it there as strongly as possible while still allowing for flexibility?
+
+"Old man, are you reading my thoughts? If so, is there a way to do this?"
+
+"Simply cast a spell matrix that generates a spell matrix, young Luciani," the old man seems confused at my confusion. "Why are you finding this so difficult?"
+
+"What?" I ask, confused.
+
+"Picture a spell matrix for your spell matrix. It's called a Template. It was very common knowledge during my time. Have these Elves also lost this bit of knowledge among all the others?"
+
+...
+
+"Yes, that should work," Magister Mulligan says curiously. "Anti-matrices as limiters, recursive triggers, and checkpoints. Fascinating work."
+
+It turns out that generating spells that generate other spells wasn't a secret nor innovative. It's simply considered stupidly expensive because generating the spell matrix, for some God-forsaken reason, is as Mana-intensive as generating the spell itself. Now, thankfully, there's a big, positive catch.
+
+"If this wasn't Light Magic, I would be calling you a fool," Magister Mulligan stroked his beard. "I've chained [Meteors] before but never thought one could do something like this. Spray-like and area attacks were the only things I thought this would make sense for. Please, do cast the spell, young Luciani. My curiosity is taking over me."
+
+I look at my extremely complicated designs on the table. It's one hexagon at the center and six at its sides. There's a feedback mechanism that shoots back and forth toward the center. A much broader anti-matrix works as the actual switch for the spell. Then, there's a bunch of recursive commands that I will probably need to simplify down the road. However, this should be enough to see if it works.
+
+"Cast in front of you for the book to acknowledge your attempt," the [Archmage] adds. "And do note, this is a Tier 2-like design. It’s still a very simple one, but it is also the most complicated spell you have cast so far."
+
+And so, I cast.
+
+Taking a deep breath, I channel Mana into my primary matrix. The first hexagon materializes before my eyes. And as the Mana courses through the anti-matrices, it's shepherded towards a secondary matrix, then another, and another. It's like watching dominos fall, each hexagon forming in sequence until they join, building a massive, unified shield.
+
+A grin spreads across my face as I whisper, "It actually worked."
+
+Each hexagon, thanks to the synergy between matrices and anti-matrices, seamlessly integrates with its neighbor, creating a sturdy, cohesive shield.
+
+From the corner of my eye, I catch Magister Mulligan nodding in approval. "An inspired solution, young Luciani."
+
+"Well, book," I say, turning to the Omnium Compendium. "What’s next?"
+
+But before I can get a reply, a very long arrow slams into the shield.
+
+To my relief, the hexagonal shield remains intact. Instead of shattering, it yields, warping inward in a convex shape, effectively halting the arrow's momentum until it falls harmlessly to the ground moments later.
+
+"Damn, that thing is flexible," I whistle.
+
+"Care to put it under a greater test?" Magister Mulligan smiles dangerously.
