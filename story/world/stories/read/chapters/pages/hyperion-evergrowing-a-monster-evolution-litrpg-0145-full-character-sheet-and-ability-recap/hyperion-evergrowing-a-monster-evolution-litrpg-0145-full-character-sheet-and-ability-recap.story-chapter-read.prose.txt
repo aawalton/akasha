@@ -1,0 +1,385 @@
+This chapter has no content other than a full character sheet overview. I recommend bookmarking it so you can reference Leif’s skills easily.
+
+===
+
+Name: Leif Vin
+
+Race: Scion of Aeons
+
+Age: 12
+
+Awaiting manifestation: Emblem
+
+Attributes:
+
+Free: 0
+
+Might: 70 (+20%)
+
+Alacrity: 65 (+20%)
+
+Intelligence: 69 (+20%)
+
+Willpower: 78 (+20%)
+
+Spirit: 83 (+20%)
+
+Charisma: 161 (+130%)
+
+Total Level: 54
+
+Core Skills: 0/1
+
+Monster Classes: 1/1
+
+Scion of Aeons: 22/40
+
+Skills: Gold Iron Physique / Sympathy from Experience / Consuming Aeons / Font of Life III / Tree of Respite / The Amber Path / Amber Aegis / Wood Manipulation / Meditations on Eternity
+
+Classes: 2/4
+
+Inspiring Brawler: 11/20
+
+Skills: Inspiring Tenacity and Prowess III / Fists of Awe
+
+Adept of Self-Restoration: 11/20
+
+Skills: Surge of Life and Growth / Aura of Benevolence IV
+
+Auxiliary Classes: 1
+
+Noble: 10/10
+
+Skills: Grand Action / Legacy
+
+Attuned Items: 2
+
+Large Spatial Ring
+
+Adaptive Suppression Bracelets
+
+===
+
+[Scion of Aeons]
+
+The past calls to the scion of aeons, the unearthing of history the highest calling. Secrets long lost to time may reveal themselves, lesions long forgotten coming to your aid.
+
+At the height of their power, the amber relished the opportunity to delve into the past, ancient history as much sustenance as water and light. The amber are gone, but the secrets they uncovered, and the power that was stolen still remain.
+
+Only those true of character and noble of purpose were worthy to walk this path, but now the door lies open and ready, none remain who would disagree to your appointment, while at the same time none remain to endorse your ascension.
+
+Even if you are not purely a member of the amber, your deeds, past, and blood qualify you for this honour.
+
+Tier: 3 (Monster)
+
+Level: 22/40
+
+Class Perk:
+
+You naturally recover from wounds at an accelerated pace and damage you deal takes longer to heal.
+
+You can perfectly track the passage of time.
+
++150% To the effect of enhancement (Body) skills
+
++150% To the effect of blood aspected skills
+
++150% to the effect of time aspected skills
+
+Growths:
+
+Free Points: +5
+
+Might: C+
+
+Alacrity: C
+
+Intelligence: B
+
+Willpower: B
+
+Spirit: C+
+
+Charisma: B
+
+Base Stats: Might: +20, Alacrity +20, Intelligence +40, Willpower +40, Spirit: +20, Charisma +40
+
+Gold Iron Physique:
+
+Aspects: Technique, Enhancement (Body)*
+
+Your resilience to physical and thaumatic damage is increased as your body is tempered to be akin to iron. You are naturally more dense and can control your physique to become heavier or lighter at will.
+
+Attacks you make with your body deal increased damage and have greater force behind them.
+
+You may conjure golden ethereal limbs which count as your own body for any beneficial effects granted by skills and class perks while they remain physically attached to your form.
+
+You may manipulate the shape of these limbs at will.
+
+Sympathy From Experience:
+
+Aspects: Perception (Time)*, Enhancement (Body)*, Social*, Analysis
+
+You passively gain knowledge of events and changes that have occurred within your surroundings, the more significant these events the more clear they are to your sight. You may invoke the passage of time, seeing an echo of the past which you may project to those nearby.
+
+You have greater awareness of both your material and spiritual surroundings, and have the ability to sense emotions and intent of those within range of your perception.
+
+Finally you may analyse a target to determine their age and combat experience relative to your own.
+
+Consuming Aeons:
+
+Aspects: Enhancement (Body)*, Technique (Blood)* (Life)* (Time)*
+
+When you strike or make continuous contact with your body you may drain vitality from the target. Additionally whenever you drain a target of life-force you inflict a damaging resonance that accelerates the body's natural decay, this effect can stack.
+
+Vitality you absorb is naturally converted into the amber blood that runs through your veins, and you may control the speed at which this conversion occurs.
+
+After you have drained a being of vitality you gain up to +60% to all attributes depending on the amount drained. This bonus to your attributes lasts for one hour and is incrementally lost over that duration. You may pause the benefit gained from these bonus attributes for up to a day, preventing the incremental loss of this effect.
+
+You may bestow life-force with a touch, and your blood naturally adapts to any target you heal, increasing efficiency. Whenever you heal a target you bestow a supportive resonance that accelerates the body's natural recovery, this effect can stack.
+
+Font of Life III:
+
+Aspects: Cultivation (Blood)* (Life)*, Spell (Blood)* (Life)*, Empowerment (Body)*
+
+The limitless potential of your vitality resonates with your authority over life.
+
+A portion of vitality you absorb is permanently added to a pool of energy that resides within you, you may develop and strengthen this pool by utilising the differing aspects of this skill.
+
+You may command the will of the world, increasing the potency of skills or altering their usage.
+
+The closer to death you are, the more potent this skill becomes.
+
+Mastery of all aspects of this skill is required for further upgrades.
+
+Tree of Respite:
+
+Aspects: Transformation, Enhancement (Body)*, Domain (Life)* (Time)*, Technique (Nature)
+
+As a Spriggan, you may fuse yourself with any living, non-evolved tree to use as a place of rest and recovery.
+
+Additionally you may put down roots, returning yourself to the form of your origin. This tree projects a domain of life and respite, while also carrying a fraction of your own aura. The longer the tree lives, the stronger the domain's effect on the very world around it. You may detach yourself from this special tree, and it will persist and grow even without your presence.
+
+You have a maximum number of these trees equal to one, but for every century lived you may create another, increasing the maximum by one.
+
+The Amber Path:
+
+Aspects: Technique (Teleportation) (Movement) (Time)*
+
+As you travel, you leave behind imprints in time that last for up to an hour. You may teleport to an imprint within range by stepping forward.
+
+You may place a permanent imprint in a location, this imprint lasts indefinitely or until the location chosen sustains significant damage or change. You may have a maximum number of permanent imprints equal to one, but for every century lived you may create another, increasing the maximum by one.
+
+Teleporting to an imprint outside of your aura will put this skill on cool-down for up to a year, determined by distance travelled.
+
+Amber Aegis:
+
+Aspects: Technique (Shield), Empowerment (Life)* (Nature), Social*
+
+Conjure a protective veil around yourself or a nearby target to reduce elemental damage taken and bestow a minor lingering healing effect. You may remove the healing effect of this skill to instead manifest a temporary shield around the target.
+
+Those within close proximity of this aegis may find both your actions and its presence calming. If this skill is used for the purpose of protecting another, this skill benefits from 50% of your charisma attribute.
+
+Wood Manipulation:
+
+Aspects: Technique (Wood)
+
+You can use your will to shape and manipulate wood.
+
+Notes: Very exciting
+
+Meditations on Eternity:
+
+Aspects: Social (Time)*, Enhancement (Mind) (Body)* (Life)*
+
+Your words and actions carry with them the weight of the past. You have an improved memory, with significant events and experiences personally witnessed carrying a greater significance.
+
+You may create a one way telepathic link with those nearby. You may bestow your understanding through lessons learnt and experience gained from the past via metaphor and image.
+
+While meditating you recover both physically and mentally at a faster rate, and your ability to concentrate is improved while you are well rested. You may bestow this effect onto those resting nearby, though at a reduced efficacy.
+
+The longer you live, the more potent this skill's effects.
+
+===
+
+[Inspiring Brawler]
+
+Your prowess for unarmed combat is only matched by your passion for battle. You put your all into battle, your fists resonating with your force of personality, the strength of your being amplifying your every blow.
+
+Those who witness your triumphs are inspired to commit further acts of greatness, and your foes tremble at the very thought of seeing you in action.
+
+You do not fight to entertain, but your martial ability inspires awe nonetheless.
+
+Tier: 2 (Advanced)
+
+Level: 11/20
+
+Class Perk:
+
++100% To the damage of unarmed strikes
+
++100% To physical resilience while unarmoured
+
++100% To body enhancement skills while unarmoured
+
++100% to body empowerment skills while unarmoured
+
+Increases your physical strength by 10% of your charisma attribute
+
+Growths:
+
+Free Points: +1
+
+Might: C+
+
+Alacrity: C
+
+Intelligence: E
+
+Willpower: D
+
+Spirit: C
+
+Charisma: B
+
+Base Stats: Might: +5, Alacrity: +4, Intelligence +1, Willpower +2 Spirit: +4, Charisma +6
+
+Skills:
+
+Inspiring Tenacity and Prowess III:
+
+Aspects: Comprehension, Enhancement (Body)*, Social*
+
+Grants instinctual understanding of combat stances and their uses whilst granting a greater understanding of your bodies limits and how your presence emotionally affects those around you.
+
+You gain a bonus to balance, footwork, stability and physical resilience while fighting in a combat style in which you have proficiency.
+
+This skill benefits from a portion of the user's charisma attribute, the efficacy of which is determined by this skill's rank.
+
+The more injured you become, the greater this skill's effects.
+
+Fists of Awe:
+
+Aspects: Social*, Enhancement (Body)*
+
+Dealing unarmed damage intimidates nearby foes, and inspires nearby allies.
+
+Those intimidated by this skill find their attention drawn to you and away from all else. Your words and actions are more threatening to those who are intimidated by this skill. You take less harm from, and your unarmed strikes deal more damage to those who are intimidated by this skill.
+
+Those inspired by this skill are less affected by negative emotions, and have increased resilience against mental attacks.
+
+===
+
+[Adept of Self-Restoration]
+
+Through the repeated usage of self-healing abilities, you take the step to reinforcing that aspect of your power, imbuing your body with more potent regeneration at the cost of a weakened ability to heal others.
+
+No stranger to battle, an adept lives and dies by their ability to channel vital energy to where it is needed most.
+
+Tier: 2 (Union)
+
+Level: 11/20
+
+Class Perk:
+
+The effects from your life aspected skills are increased by 100% when they affect you, but are reduced by 50% when they affect others
+
++100% To the effect of enhancement (Body) skills
+
+Your healing skills are 100% less strenuous on your body
+
+You naturally recover from wounds at an accelerated pace
+
+Growths:
+
+Free Points: +1
+
+Might: D+
+
+Alacrity: E
+
+Intelligence: C
+
+Willpower: C+
+
+Spirit: B
+
+Charisma: D+
+
+Base Stats: Might: +3, Alacrity: +1 Intelligence: +4 Willpower: +5, Spirit: +6, Charisma +3
+
+Skills:
+
+Surge of Life and Growth:
+
+Aspects: Technique (Life)*, Nature, Empowerment (Body)*
+
+You may channel healing energy into a limb to empower it temporarily, allowing for far more force being every attack. You may transfer the energy into a target you are touching with the empowered limb to rapidly heal them and promote regenerative growth.
+
+You may supercharge the life-force within yourself or a target you are touching, dramatically increasing the rate of recovery and growth. This effect is more potent when used on flora, both mundane and magical. This effect lingers for a duration determined by how much life-force was stimulated.
+
+Repeated use of this skill on the same limb or target reduces its efficacy.
+
+Aura of Benevolence IV:
+
+Aspects: Aura (Life)*, Social*
+
+Your auric presence carries the weight of your authority, generosity and genuine intent. Those within your aura have their physical and emotional pain soothed, and receive a greater benefit from all sources of healing.
+
+You can control your aura in ways that are impossible without an aura skill.
+
+Notes:
+
+All this time, and the Kossia family is still causing me trouble. Not entirely sure what kind of trouble they were making before, but if it's anything like Hera now then I fully understand my previous self and his well-founded fear.
+
+RUN AWAY! Or something.
+
+===
+
+[Noble]
+
+Bestowed upon you by a member of high society due to you possessing an exemplary aptitude and being of a true bloodline.
+
+Tier: Auxiliary (Inheritance)
+
+Level: 10/10
+
+Class Perk:
+
++100% To the effect of social skills
+
++50% to the effects of the charisma attribute
+
+Growths:
+
+Free Points: +2
+
+Might: D
+
+Alacrity: D
+
+Intelligence: C
+
+Willpower: C
+
+Spirit: C
+
+Charisma: C+
+
+Base Stats: Might: +1 Alacrity: +1, Intelligence: +2, Willpower: +2, Spirit: +2, Charisma +2
+
+Skills:
+
+Grand Action:
+
+Aspects: Enhancement
+
+You gain a bonus to an attribute of your choice equal to 20% of your charisma attribute.
+
+Legacy:
+
+Aspects: Enhancement (Body)*, Analysis, Social*
+
+Your legacy endures. Those you sire are stronger, healthier and have an innate resistance to diseases.
+
+You can instinctively identify any descendants and may analyse them if they're of equal or lower level to you, gaining a general overview of their classes, levels and attributes.

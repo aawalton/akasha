@@ -1,0 +1,175 @@
+Leif found himself sitting in the empty world unable to choose what his new class should be. Both [Adept of Self-Restoration] and [Healer of the Forest] appealed greatly to him, in an ideal world he would probably have wanted to have gone with both.
+
+The way he intended to stack his defensive abilities was to compound self healing abilities to the point that any attack that didn’t kill him in a single, devastating hit wouldn’t be fatal. He was already well along this path, having several skills that all worked towards this effect or increased his survivability in synergistic ways.
+
+[Font of Life] allowed him to access a pool of cultivated vitality, one that became more potent the closer to death he was. [Consuming Aeons] gave his attacks the ability to steal vitality from any opponent struck. As a plant monster with a blood aspect he could naturally drain life-force from other living things, his [Scion of Aeons] class granted him a small amount of passive healing at all times. Those four abilities combined to be a core part of the mechanism that kept him alive.
+
+But there were other abilities as well: If he fought within the domain created by [Tree of Respite] his healing would receive a boost, [Embolden Vegetation] would grant him a massive burst of healing, at the cost of super-charging his cultivated vitality to the point it would actively harm him if he didn’t keep it below a certain threshold. Even [Amber Aegis] had a small healing aspect that was lost when the skill triggered its defensive shield.
+
+Then there were the skills that granted a boost to his overall durability. [Gold Iron Physique] was a big one, it increased his weight and hardened his body against attacks. [Tenacious Fighter] increased physical resilience the more injured he became, with [Fists of Conflict] having a small damage reduction component against enemies he had already struck.
+
+Self healing was a massively important part of his overall survivability, and if he chose the [Adept of Self-Restoration] that would only become more powerful. Another reason to pick that class as his choice was that it was all but guaranteed to keep the class perk that increased the effects of body enhancement skills. Judging by patterns he had observed with his monster class. Tier one classes granted a fifty percent bonus with their perks, tier two classes granting one hundred and tier three one hundred and fifty.
+
+If [Healer of the Forest] didn’t have a class perk related to body enhancement, he wouldn’t just lose out in the fifty percent increase from [Adept of Recovery], but the initially plus fifty percent to begin with. Leif’s [Scion of Aeons] class already granted a plus one hundred and fifty increase to those types of skills, and as far as Leif could tell there were diminishing returns with stacking class perks, though it was hard to tell exactly how much.
+
+All of these were good reasons to pick the upgrade to his adept class when promoting. However [Healer of the Forest] had a major advantage when it came to be his next class. While the more combat focused adept promotion would increase his self healing, wouldn’t [Healer of the Forest] do the exact same thing?
+
+If [Healer of the Forest] increased the effect of healing skills on plants, that was basically the exact same thing as a boost to self healing. He was, after all, a plant monster. The class would likely give him access to skills that conditionally applied only to plants, and that would likely result in some very powerful synergy. Maybe he could even gain access to skills that would increase the power of [Wood Manipulation].
+
+Having his monster class and [Healer of the Forest] both working towards increasing his power in the same direction was a really hard opportunity to give up. But it was an opportunity he could afford to give up, at least temporarily.
+
+As far as Leif knew, you could never double up on a class you already had. If he promoted away from [Adept], he could never regain the foundation class. But he could always gain another class related to plant magic. Something like [Attuned: Wood] or [Druid] were not only potential options, but they were classes he would likely have a fairly easy time obtaining if he tried to unlock them.
+
+Leif sighed and slumped in his sitting position, flopping down to lay on his back, staring up into the empty void above. [Healer of the Forest] was the better class, he was almost completely sure of it. But taking it would ultimately reduce his long term plan of becoming unkillable.
+
+It’s the right choice, I’m not making a mistake. He thought, rereading the offered classes once again. He paused, his attention being pulled by [Attuned: Vitality]. No, even if it's a really interesting class it just isn’t what I’m looking for. Spell casting is a completely valid avenue of power, but it's more adjacent to my current path than I’m comfortable with at the moment.
+
+There was an argument to make that with his focus on [Charisma], getting a class that seemed to be specifically designed to increase his spellcraft was likely optimal. But Leif wasn’t sure if that reasoning was sound.
+
+“This isn’t a mistake is it?” He asked nobody in particular. “The logic behind my choice is based on how class selections actually work? I’m ninety nine percent certain I can’t fill my basic class slots with different versions of promoted [Adept] classes.”
+
+There was no response, but Leif let himself stew in his contemplations for a few more minutes.
+
+“I should have promoted [Brawler] instead, it would have been far more simple.” He grumbled. Then selected [Adept of Self-Restoration].
+
+Congratulations! You have promoted your [Adept] and [Attuned: Life] classes into the tier 2 [Adept of Self-Restoration] class!
+
+Please review your new classes characteristics:
+
+===
+
+[Adept of Self-Restoration]
+
+Through the repeated usage of self-healing abilities, you take the step to reinforcing that aspect of your power, imbuing your body with more potent regeneration at the cost of a weakened ability to heal others.
+
+No stranger to battle, an adept lives and dies by their ability to channel vital energy to where it is needed most.
+
+Tier: 2 (Union)
+
+Level: 10/20
+
+Class Perk:
+
+The effects from your life aspected skills are increased by 100% when they affect you, but are reduced by 50% when they affect others
+
++100% To the effect of enhancement (Body) skills
+
+Your healing skills are 100% less strenuous on your body
+
+You naturally recover from wounds at an accelerated pace
+
+Growths:
+
+Free Points: +1
+
+Might: D+
+
+Alacrity: E
+
+Intelligence: C
+
+Willpower: C+
+
+Spirit: B
+
+Charisma: D+
+
+Base Stats: Might: +3, Alacrity: +1 Intelligence: +4 Willpower: +5, Spirit: +6, Charisma +3
+
+===
+
+[Healing Palm] → [Life-Fused Fist]
+
+Life-Fused Fist:
+
+Aspects: Technique (Life)*, Empowerment
+
+Channel healing energy down your arms and into your hands, allowing you to transfer the energy into a target.
+
+While this healing energy is concentrated within your hands, your unarmed strikes with your fists deal increased damage.
+
+===
+
+[Restful Recovery] → [Meditative Respite]
+
+Meditative Respite:
+
+Aspects: Enhancement (Body)* (Mind), Technique (Life)*
+
+While resting your body receives a bonus to its recovery speed, and any wound becomes less fatal.
+
+Whenever you rest you recover from mental exhaustion more quickly, and you gain an increase to your ability to concentrate while well rested.
+
+You may bestow this effect onto someone else who is resting with a touch, though at a reduced efficacy.
+
+===
+
+The first thing Leif did when he opened his eyes back in the real world was pump his fist at the sight of the one hundred percent increase to body enhancement skills. Then he read over the rest of his newest class.
+
+The base stats had increased by quite a lot, tier one classes only providing plus ones and plus twos at the very best. But the overall increase was less than it appeared due to the fact he had just lost the base attributes from [Attuned: Life].
+
+Still only plus one free attribute. Leif realised, frowning internally at the fact the number hadn’t gone up. Is it because tier one classes could be merged at any point, potentially resulting in a loss of free points if someone doesn’t promote as soon as their classes have a combined level of ten? Or am I giving the system credit for something that doesn’t change no matter what? He shook his head. There’s no way normal classes only give plus one free attribute per level at higher tiers, not when my monster class gives plus five.
+
+He read over the upgraded skills next. [Life-Fused Fists] was really fantastic, and as he activated the skill and let healing energy flow into his hand he could feel the power building up, faint wisps of white light being emitted as the skill empowered his unarmed strikes. Then he conjured a single amber limb, and sure enough when he activated [Life-Fused Fists] the same damage bonus flowed into the conjured arm.
+
+I could empower every single conjured arm at once with this, but it would almost immediately push the skill to its breaking point. He noted, more than a little pleased at the unexpected increase to his offensive prowess.
+
+[Meditive Respite] was basically a straight upgrade, except for the line about the effects being less when the skill was bestowed upon others. He hadn’t realised his skills would gain conditional downsides along with the minus fifty percent efficacy from his class perk, but this one wasn’t overly detrimental.
+
+[Aura of Recovery] didn’t change, whether that was due to the skill currently undergoing the fusion process he didn’t know, but he was suddenly relieved that promoting his class hadn’t somehow cancelled the progress of the fusion.
+
+Fusion of skills [Aura of Recovery] and [Aura of Nobility] 41/100%
+
+Leif looked around the dark and quiet interior of the turbulence shelter, with his ability to accurately track the passage of time from [Scion of Aeons] instinctually knew there were two and a half hours until dawn. He opened his full status sheet, then flinched when he realised he had seven free attributes that were unspent. He spent them all on [Charisma], then took in the changes.
+
+Name: Leif Vin
+
+Race: Scion of Aeons
+
+Age: 12
+
+Awaiting manifestation: Emblem
+
+Attributes:
+
+Free: 0
+
+Might: 64 (+10%)
+
+Alacrity: 61 (+10%)
+
+Intelligence: 68 (+10%)
+
+Willpower: 75 (+10%)
+
+Spirit: 78 (+10%)
+
+Charisma: 142 (+90%)
+
+Total Level: 50
+
+Monster Classes: 1/1
+
+Scion of Aeons: 20/40
+
+Skills: Gold Iron Physique / Sympathy from Experience / Consuming Aeons / Font of Life III / Tree of Respite / The Amber Path / Embolden Vegetation / Amber Aegis / Wood Manipulation / Wisdom of the Ages
+
+Classes: 2/3
+
+Brawler: 10/10
+
+Skills: Tenacious Fighter III / Fists of Conflict
+
+Adept of Self-Restoration: 10/20
+
+Skills: Life-Fused Fist / Meditative Respite / Aura of Recovery III
+
+Auxiliary Classes: 1
+
+Noble: 10/10
+
+Skills: Aura of Nobility III / Grand Action / Legacy
+
+Attuned Items: 1
+
+Spatial Ring
