@@ -117,6 +117,10 @@ test("a fiction slug opening with a digit is named with royal-road before it", (
   ])
 })
 
+test("a fiction slug holding dashes in a row is named with one dash there", () => {
+  expect(pageSlugFor("skill-hunter--kill-monsters")).toBe("skill-hunter-kill-monsters")
+})
+
 test("a story made off the read later list alone states read later and not following", () => {
   const values = storyValues(FOLLOWED, META, BOOKSTORE, { following: false, readLater: true })
   expect([values["following"], values["readLater"]]).toEqual([false, true])

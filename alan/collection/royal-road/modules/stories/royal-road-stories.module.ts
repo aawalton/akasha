@@ -59,6 +59,10 @@ export const royalRoadStories = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Dashes in a row in a slug royal road gives are named as one dash.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A story is read from royal road at the link its record of royal road states.",
     },
     {
@@ -87,5 +91,5 @@ export const royalRoadStories = {
     },
   ],
   createdAt: "2026-09-28T19:46:59.746Z",
-  updatedAt: "2026-10-23T09:52:53.107Z",
+  updatedAt: "2026-10-24T09:54:19.776Z",
 } as const satisfies Module

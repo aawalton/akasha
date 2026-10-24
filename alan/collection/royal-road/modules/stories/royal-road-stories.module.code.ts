@@ -39,6 +39,7 @@ const WORDS = `${unit.slug}/${words.slug}` as const
 const PROSE = "prose"
 const TXT = "txt"
 const LEADING_DIGIT = /^[0-9]/
+const DASHES = /-{2,}/g
 
 type Restated = Extract<Asking, { at: typeof RESTATE }>
 
@@ -182,7 +183,8 @@ interface Created {
 }
 
 export function pageSlugFor(fictionSlug: string): string {
-  return LEADING_DIGIT.test(fictionSlug) ? `${SOURCE}-${fictionSlug}` : fictionSlug
+  const named = fictionSlug.replace(DASHES, "-")
+  return LEADING_DIGIT.test(named) ? `${SOURCE}-${named}` : named
 }
 
 export async function storyCreated(root: string, listed: Listed, lists: OnLists): Promise<Created> {
