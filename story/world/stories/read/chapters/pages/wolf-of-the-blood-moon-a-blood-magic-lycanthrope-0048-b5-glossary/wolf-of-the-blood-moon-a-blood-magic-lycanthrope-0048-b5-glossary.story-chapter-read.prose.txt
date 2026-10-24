@@ -1,0 +1,623 @@
+World:
+
+There is only one nation. The Terran Republic.
+
+The Terran Republic: Splits the people between three classes, in three Tiers of city.
+
+Tier 1 cities are full of wonderous buildings, many of which are skyscrapers seemingly touching the skies. The public transportation is through magi-tech trains that travel almost as fast as the speed of sound. The cities are guarded by the best of the best in terms of Guardians, most of whom are bloodline Guardians whose family is made up of Guardians as well, and each and every building has at least half as many Assault Bunkers as they have floors.
+
+Tier 2 cities are comfortable enough, with some high reaching buildings located at the city’s centers, and the majority of the other buildings reaching up to a few stories in height. The transportation still uses magi-tech, but it’s always outdated and can only travel a little bit faster than regular trains and cars. Of the Guardians stationed in the city, most of them are amongst the poorer Guardians who awakened either in Tier 2 or Tier 3 cities, without very good magic or battle instincts or inclinations.
+
+Tier 3 cities are without almost any magi-tech, surviving solely on old world technology. They don’t have very many Guardians, and the cities are not very large. Of the Guardians they do have, which tend to number only a dozen or so with each city at most, they are almost all made up of the cowardly Guardians who don’t wish to fight in Demon Assaults. The cities also have massive slums meant solely for the orphans where the other people avoid like the plague.
+
+The more people there are, and the more magic there is, the stronger and more frequent the Demon Assaults will be in that particular area. Meaning that Tier 1 cities have the most and strongest Demon Assaults by far, making it the best place for a Guardian to live if they wish to grow stronger. Meanwhile Tier 3 cities don’t have very many Demon Assaults on average. But they also don’t have much in defense against each Assault that takes place, leaving thousands to die every time one does infrequently occur.
+
+Economy:
+
+Currency: Credits and Skill Points.
+
+10 credits are enough for 1 meal in a Tier 3 city.
+
+4 credits are enough for 1 loaf of bread in a Tier 3 city.
+
+30 credits are enough for a stay at a crappy hotel in a Tier 3 city.
+
+70 credits are enough for a stay at a decent hotel in a Tier 3 city.
+
+100 credits are enough to stay at a fancy hotel in a Tier 3 city.
+
+60 credits are enough for a stay at a crappy hotel in a Tier 2 city.
+
+100 credits are enough for a stay at a decent hotel in a Tier 2 city.
+
+200 credits are enough to stay at a fancy hotel in a Tier 2 city.
+
+300 credits are enough for a stay at a crappy hotel in a Tier 1 city.
+
+500 credits are enough for a stay at a decent hotel in a Tier 1 city.
+
+1000 credits are enough to stay at a fancy hotel in a Tier 1 city.
+
+Basic magic weapon is worth 25000 credits or 250 SP.
+
+Intermediate magic weapon is worth 50000 credits or 500 SP.
+
+Advanced magic weapon is worth 100000 credits or 1000 SP.
+
+Custom magic weapons are worth at least a million credits or 10000 SP.
+
+Tartarus:
+
+Blood Lycans live in the Bloody Duchy.
+
+Oni live in the Oni Citadel.
+
+Mindeaters live in the Mindeater’s Lair.
+
+Ghouls live in the Caverns of Death.
+
+Arachnae live in the Spider Burrows.
+
+Kitsune live in the Ashen Mountains.
+
+Succubi live in the Mesa of Illusions.
+
+The ranks of Nobility include:
+
+Baron/Baroness {1001-1200}
+
+Viscount/Viscountess {1201-1400}
+
+Count/Countess {1401-1600}
+
+Marquess/Marchioness {1601-1700}
+
+Duke/Duchess {>1700}
+
+Prince/Princess{Sons or Daughters of the Demon king} and Demon Lord{Four highest level demons}
+
+Demon King
+
+Social Contact Outside of Cities:
+
+Demons are perfectly fine with killing any other demon they see outside of cities. However, they will generally avoid killing other demons who have crests showing clearly on their body, designating them as members of a Noble’s family. Unless the demon in question is also a child of a Noble or a Noble themselves.
+
+The demons place absolute trust in the Royal Family thanks to the entire Demon world of Tartarus being controlled under his absolute power, and their entire society having been formed by him alone. Additionally, he solves all of their problems, and is by far the oldest demon living to this day. One of the very few demons who survived long enough to know the truth of the world.
+
+One gold coin -> Ten silver
+
+One silver -> One hundred bronze
+
+System:
+
+There are two types of skills. Inherent skills and purchased skills. The inherent skills are almost always more powerful for skills purchasable at the level the skill is attained. But they also cannot be leveled up through SP. To level up an inherent skill, a Guardian must gather the EXP needed to level it through use.
+
+Purchasable skills can only be leveled up through SP, and they have varying level and Achievement requirements to purchase at varying costs depending on the skill’s rarity.
+
+However, there are also skills known as Achievement-Locked skills, which have to be purchased through skill points before they then turn into inherent skills which level up just like any other inherent skill. These skills cannot use Skill Points to level up. Achievement-Locked skills are always the higher rarity versions of an etched skill the user has from an ancestor.
+
+The stats a Guardian gains per level is decided on by two factors. Their species, and their magic.
+
+Not all ‘magics’ actually use magic. It’s more of a term towards the direction that a user’s skills and capabilities take. Especially in their inherent skills.
+
+At the same time, statistics alters reality itself to change the way your body reacts to it. Which is why even a skinny guardian may be vastly stronger than one that looks like a bodybuilder.
+
+Class I multiplier: Tier E has a multiplier of 0.1, D a multiplier of 0.2, C 0.4, B 0.6, and A has a multiplier of 0.9.
+
+Class II multiplier: Tier E has a multiplier of 0.2, D a multiplier of 0.4, C 0.7, B 1.0, and A has a multiplier of 1.4.
+
+Class III multiplier: Tier E has a multiplier of 0.3, D a multiplier of 0.6, C 1.0, B 1.4, and A has a multiplier of 1.9.
+
+Class IV multiplier: Tier E has a multiplier of 0.4, D a multiplier of 0.8, C 1.3, B 1.8, and A has a multiplier of 2.4.
+
+Class V – Tier E has a multiplier of 1, D a multiplier of 2, C 3, B 4, and A has a multiplier of 5.
+
+Total Mana: Average multiplier between your multiplier for the power capability of your Mental stat and the capacity capability of your Magical stat. Then multiply that with your mental and magical stats and you’ll get your mana stat.
+
+Total Mana Regen: Average between the multipliers of your vitality capability of your physical stat and your power capability of your magical stat, multiplied by your magical stat.Note: Scarlet’s mana regen does not follow this due to Blood Regeneration!!!
+
+Strength in arc: Add together the multipliers for the individual's Strength and Agility capabilities. Then multiply that by their total stat points in Physical times 25 arc. And that is the estimated amount of arc someone should be able to deal in a single punch.
+
+The average human who does not have any magic has 10 stat points in Physical and a D for both Agility and Strength, adding up to a multiplier of 0.4. Meaning about 100 arc on average raw punching power, not including any skill or techniques used to increase it. Meaning no martial arts.
+
+(Scarlet’s multipliers combined is 1.2x)
+
+The stats everyone starts out with is 10 but their starting stats vary after contracting depending on both their reality warp, their magic, and their physical fitness at the time of contracting.
+
+Class I Demons – 1-100
+
+Demon Spawn
+
+Description: The weakest type of demon. They have no sense and will kill any human they see. There are many variations of Spawn, each having a different physical appearance.
+
+Weakness: Easily tricked as they simply rush in and attack with no capacity to think.
+
+Average Levels at the Opening of the Fracture: 1-8
+
+Demon Hound
+
+Description: Demon hounds hunt in packs ranging from three to five hounds in size. They use a pack mentality when hunting.
+
+Weakness: They will run away when at two or less members in a pack, and they are sensitive to high pitch noises.
+
+Average Levels at the Opening of the Fracture: 3-15
+
+Demon Huntsman
+
+Description: A semi intelligent demon that will stalk from the shadows, hunting the strongest prey it can find with its crossbows.
+
+Weakness: They are not very powerful in an upfront show of force, specializing in fighting from the shadows and ordering other demons around.
+
+Average Levels at the Opening of the Fracture: 15-20
+
+Demon Knight
+
+Description: A powerful form of unintelligent demon. These creatures often serve as bodyguards for other demons, however they may also be found as guards for certain locations that are of interest for the demons. These creatures have durable scales that look almost like the armor of a knight from medieval times.
+
+Weakness: They don’t tend to leave their charge unless immensely provoked – whether that charge be another demon or a location.
+
+Average Levels at the Opening of the Fracture: 25-100
+
+Demon Breeder
+
+Description: A demon that spans several meters in length and is constantly breeding Demon Spawn. It generally stays in one place with four Demon Knights guarding it.
+
+Weakness: They have terrible mobility and even worse attacking power as they rely solely on their Demon Knights for defense.
+
+Average Levels at the Opening of the Fracture: 30-50
+
+Demon Captain
+
+Description: An intelligent demon and the strongest of all of the Class I demons. They are the sole commanders of the Class I Fractures, and once they are killed, any organization the demons in that Fracture had will fall apart. These creatures have incredibly durable scales that look almost like the armor of a knight from medieval times, but with armor much stronger than that of metal or that of the demon knights.
+
+Weakness: They are especially weak in their heart, as their armor does not cover a small ring at the center of their chest, directly in front of one of their three hearts. If this heart is pierced, they will be weakened by at least fifty percent of their stats.
+
+Average Levels at the Opening of the Fracture: Always level 100
+
+Known Captain Species so far: Salamanders and Trihearts.
+
+Class II Demons – Levels 101-250
+
+Demon Fomorians
+
+Description: The basic demon grunt of a Class II Fracture. These creatures are subordinate to most other Class II or above demons, and they often are seen acting as cannon fodder. They have two hearts.
+
+Weakness: Fomorians have a strong sense of sight and can be stunned by basically any bright lights.
+
+Average Levels at the Opening of the Fracture: 100-150
+
+Demon Acolytes
+
+Description: The weakest magic using demon. These creatures often tend to lead small groups of demon fomorians through the Class II Fractures.
+
+Weakness: Acolytes are not very physically strong despite their magic and need fomorians to defend them.
+
+Average Levels at the Opening of the Fracture: 125-155
+
+Demon Wraiths
+
+Description: These demons have the ability to cloak themselves in shadow in order to hunt their prey. They will ignore anything and everything except for those they have marked as their prey.
+
+Weakness: Easily distracted by the sight of their prey. Used to sneak attacks and not upfront combat.
+
+Average Levels at the Opening of the Fracture: 150-160
+
+Demon Berserkers
+
+Description: These demons go on a rampage, attacking anything and everything that moves. This includes other demons.
+
+Weakness: They will attack and are attacked by other demons as well. They are not capable of intellectual thought or planning.
+
+Average Levels at the Opening of the Fracture: 160-200
+
+Demon Defenders
+
+Description: The Class II version of Demon Knights. They will defend their charge no matter what, even to the point of sacrificing their lives. They have powerful armor made up of scales protecting them.
+
+Weakness: They will never leave their charge, so are easy to escape as long as the charge isn’t chasing. They have a chink in their armor located underneath their armpits.
+
+Average Levels at the Opening of the Fracture: 175-200
+
+Demon Summoners
+
+Description: These demons summon other demons forth from their home planet of Tartarus, and are capable of using limited magic in an offensive manner. They often have nearly ten Demon Defenders guarding them.
+
+Weakness: They are poorly equipped for combat and are incredibly weak in terms of physical strength.
+
+Average Levels at the Opening of the Fracture: 190-210
+
+Demon Commander
+
+Description: These demons are as intelligent as a human being and are in charge of the Class II Fractures. All of the demons beneath them follow their commands, with the sole exception being the berserkers, who still listen to simple commands like go and stop and refuse to attack the commander.
+
+Weakness: Demon Commanders have five hearts and each one must be destroyed for it to die. But with every heart destroyed, the commander loses a significant portion of their fighting prowess. They are located in the following spots on its body: Center of its chest, the two sides of its torso right beneath its chest, and in two opposite spots above its naval.
+
+Average Levels at the Opening of the Fracture: Always level 250
+
+Class III Demons – Levels 251-500
+
+Vanguard
+
+Description: These demons are almost as intelligent as humans and are capable of basic speech. They are the lower echelon demons who have climbed their way up to Class III from the less generally powerful species of demons.
+
+Subspecies Shown So Far:
+
+Taracht: Massive spider with black hair streaked with red.
+
+Changelings
+
+Description: These demons are as intelligent as a human being and are able to shapeshift into young versions of whatever they eat. They are the reason behind human society’s discrimination of orphans growing into what it was today due to distrust that the orphans may possibly be changelings after an event occurred soon after the loss of old world Japan where changelings hid themselves amongst human orphans, posing as orphans themselves and spreading throughout parts of old world China.
+
+Demon Generals
+
+Description: These demons are as intelligent as a human being and are in charge of the Class III Fractures. All of the demons beneath them follow their commands, with the sole exception being the berserkers, who still listen to simple commands like go and stop and refuse to attack the commander.
+
+Weakness: Their weakness is dependent on which subspecies of demon they are.
+
+Average Levels at the Opening of the Fracture: Always level 500
+
+Class IV Demons – Levels 501-1000
+
+Class V Demons – Noble Demons – Above level 1000
+
+There are only seven demon species that have a cemented place amongst the Noble Demons. All other Noble Demons are simply other demons who have managed to reach Class V.
+
+The following seven demon species are the Seven Noble Demon Clans.
+
+Blood Lycans
+
+Description: Blood lycans are known by many to be the most powerful species of demon in existence. They can partially and fully transform into a powerful beast form, have the strongest regeneration in existence, and are born predators in every way, whether it comes to their physical prowess, magical, or senses. They are also known to fight in a more berserk manner, often sacrificing hits on themselves to return just as much pain to their enemy as they regenerate their own wounds.
+
+Blood lycans are known to be very proud and protective of their family and care far more for their family than anything else. However, this care is mostly limited to direct family as indirect family, while it is known that they still protect them viciously from any outsiders not of their species, they may not be treated very well depending on their circumstances by other blood lycans. Or they may just treat indirect family as they would others albeit with a bit more respect.
+
+It is a breach of their pride for any other species to ever kill a blood lycan.
+
+They have the most humanlike appearances out of all demons when they are in their lycan forms, with glowing red eyes and wolf ears on their head, along with red and black hair and a tail that can be absorbed into their body at will. However, their beast forms tend to vary depending on the blood lycan in question. But most of the blood lycans have the form of a black furred werewolf with streaks of blood red running through the fur.
+
+Weakness: Blood lycans have a minor weakness to Mental Magic and another weakness to sound magic. However, their weakness to sound magic can be solved through lowering their senses or protecting them with magic, making that weakness go away.
+
+Magic: Blood magic, with a unique power to metallicized blood.
+
+Sin: Pride
+
+Oni
+
+Description: Oni are commonly known as the demon with the most brute force magical power out all demons in existence. While they cannot truly match a blood lycan in fighting prowess, they have them beat in pure magical attacks. These demons are also the complete opposite of the blood lycans in terms of family as their wrath is too great for them to be bound by family, as most of those who try end up tearing themselves apart in the end in a bloody fight before splitting up.
+
+They have a humanoid appearance with a crown of horns on their head, each glowing red with heat. They have crimson skin, with equally crimson eyes, and red claws on their hands and feet with no heart, instead having a flame inside of their chest.
+
+Weakness: An oni’s weakness is ‘holy’ magic.
+
+Magic: Hellfire magic, with a unique power to cause direct damage to someone’s reality(their soul) with their hellfire.
+
+Sin: Wrath
+
+Mindeater
+
+Description: Mindeaters are perhaps the most reclusive of the demons amongst the seven demon clans, with only one other clan coming anywhere near close to them in that regard. Most Mindeaters simply spend their days sleeping or watching over their territory with their reality detached from their body. However, should a Mindeater ever be truly angered, they will devour a person’s reality whole, turning it into life energy instead and feeding the life force in them to the System entirely.
+
+They have the appearance of a large insect with very little carapace shielding them from physical harm and ten legs, with three segments to their body and two incisors at the front of their mouths.
+
+Weakness: A Mindeater’s weakness is their physical strength.
+
+Magic: Mind-eater magic, with a unique power to disconnect their reality(their soul) from their body when asleep.
+
+Sin: Sloth
+
+Ghoul
+
+Description: Ghouls are the only undead demons in the ranks of the seven clans, and they are known to be even more unkillable than a blood lycan because of their ability to substitute mana for life energy. They often specialize purely in magic and their body, making them powerful foes who have the mana to long since outlast most foes they will fight.
+
+However, fire magic will make regenerating damage done to the physical body of a ghoul more difficult, and so ghouls hate fire magic users more than anything. Including the oni clan.
+
+Ghouls are also ravenous creatures whose appetites know no bounds, leading to them eating both living and nonliving things almost every chance they get.
+
+They have humanoid bodies with pitch black eyes, pale skin with veins of black and purple energy running underneath, and black claws.
+
+Weakness: A ghoul’s weakness is fire magic.
+
+Magic: Death magic, with the unique power to substitute mana for life energy, allowing them to continue living as long as they have mana regardless of the state of their body.
+
+Sin: Gluttony
+
+Arachnae
+
+Description: Arachnae prefer to live in the dark and are known to be the strongest assassins in all of Tartarus. They are often hired by other demons to assassinate noble demons that are too powerful at a large price. However, they only work during the night as their eyes are sensitive to the light.
+
+Arachnae live in nests with at least a dozen arachnae in each nest, and their kingdoms are all underground.
+
+These Nobles are some of the most aggressive demons towards other species out of pure envy. If there is something the other species has that the arachnae wishes to have, their envy will lead them do disliking the species.
+
+Thanks to this, most arachnae tend to live outside of the public eye, not interacting with the other demon species of Tartarus if they do not have to.
+
+Weakness: An arachnae’s weakness is light magic.
+
+Magic: Corruption with the unique ability to absorb, recreate, mix, and experiment with any type of corruption using their own body that is immune to any corruption(poison, acid, viruses, etc).
+
+Sin: Envy
+
+Succubi
+
+Description: Succubi are known as one of the few demon species who can and will impregnate any other species. However, these creatures are also distant at the same time, as are all seers. They never create permanent ties with other creatures outside of their own species, always leaving them to wander. They never create kingdoms of their own or rule in any manner.
+
+If a succubi is seen in a city, most demons inhabiting that city know that the succubi will most likely only leave after sleeping with over a dozen different demons in the city. However, they also know not to ever anger the succubi. Because entire city’s populations have been known to go missing after such an event.
+
+It is simply in their nature to feel lust over anything they deem beautiful.
+
+Weakness: A succubi’s weakness is pain and fighting someone who’s mind is protected from charm magic.
+
+Magic: Charm with a unique ability to divine anyone whose exact name they know and enter their dreams, thereby finding their location and being able to manipulate them in their dreams.(can be warded against if someone is powerful enough)
+
+Sin: Lust
+
+Kitsune
+
+Description: Kitsune are known across Tartarus as the rulers of the most powerful association of thieves in all of Tartarus known as the Thieves of Tartarus. They are greedy creatures who are not able to keep their hands to themselves should they ever see something they like. Regardless of the consequences.
+
+However, despite their thieving nature, kitsune specialize simply in support and combat magic, with no stealth or illusion related skills known to date.
+
+How they managed to create the Thieves of Tartarus to this day has alluded even the Demon King himself.(mostly because he doesn’t care enough to simply order them to answer)
+
+Weakness: A kitsune’s weakness is water magic.
+
+Magic: Foxfire, which is a combination of fire and lightning and is solely unique to kitsune’s, with the ability to enhance any skill that uses foxfire depending on how many tails the kitsune has.
+
+Sin: Greed
+
+The levels of demon Classes also correspond to Classes for Guardians.
+
+Note: Noble demons only include Blood Lycans, Oni, Arachnae, Succubae, Ghouls, Mindeaters, Kitsune, and any demon above level one thousand.
+
+Meaning that there are no noble demons outside of those seven species who are not Class V already.
+
+No exceptions.
+
+Characters:
+
+Scarlet Art Asger de Archeron:
+
+Scarlet is 19 years old as of the start of the story, 22 years old now, is 5 foot 8 inches tall, favorite colors are red and black, has black hair before awakening, and is almost always seen wearing a black and red jacket and black pants when not in her armor. She dislikes skirts and dresses and is very pragmatic and feels very in line with the idea of an eye for an eye, a tooth for a tooth. However, she also knows when not to push too far and is sometimes a little judgmental. She is reckless, has a strong sense of pride that is enhanced by her being half blood lycan, and does not like people touching her ears.
+
+The Scarlet Wolf is the title given to her by the public when she started out.
+
+She has the Title Apex Predator and is known as the Princess of both the Humans and the Demons due to being the granddaughter of the Demon King and the daughter of the White Knight of Humanity. She is also known as the Warden of the Red Plague.
+
+Allen Silvester:
+
+Former orphanage director of the Silvester Orphanage, current CEO of Silver Works – a world renowned tech company famous for inventing magi-tech. He is a supporter of Scarlet and cares about her and the other orphans like a father would. However, there were many times that he almost lost his position as CEO because of his work for the orphanage, his brother having constantly tried to take the position out from under him. In the end, the board of shareholders for Silver Works forced him to give away the orphanage right when Scarlet was graduating from High School.
+
+He was contracted by White to create the orphanage in the first place and raise Scarlet as an orphan.
+
+Allen is also a Guardian under the title ‘Cipher’. His magic is Technomancy, and his current magic skills involve him taking control of technology near him and breaking through their firewalls, along with other aspects such as the control of special nanomachines.
+
+Cynthia Sylvester:
+
+Allen’s wife, Arabellia’s mother, and Scarlet’s mother figure. She is incredibly cold and can be seen by many as simply uncaring towards anyone outside of her family while being protective of her family itself. But in reality, she’s just afraid of losing someone else, like how she lost Belle’s sister.
+
+Cynthia is also a Guardian under the title Frost, and one of the current Class IV Guardians most voted by the populous to likely reach Class V. She wears pale blue and white armor, with black hair streaked with pale blue, and has eyes that let off a faint pale blue glow.
+
+Arthur Barnes:
+
+A childhood friend of Scarlet’s and Belle’s, and is Belle’s boyfriend. He is the same age as the two and was also an orphan of the Silvester Orphanage. But unlike her, he accepted a lesser scholarship to the Tier 2 university known as Rhettford University in the city of Rhettford.
+
+Arthur loves Belle with all of his heart and treats Scarlet like a younger sister. He is always beating Scarlet at video games that require a fast reaction speed, and was often the one who worked with Scarlet when she was doing something reckless back at the Tier 3 city if for no other reason than to make sure she didn't get into trouble. Or into too much trouble.
+
+But he ended up taking a lot of the heat half the time when she would make a last minute escape right when Allen would return to the orphanage to yell at them.
+
+Arabellia Silvester:
+
+Allen Silvester’s biological daughter and another childhood friend of Scarlet’s. She currently attends one of the famous universities in the Tier 1 capital city, Terra, called Terra University. She is Arthur’s girlfriend and treats Scarlet like a little sister since Arabellia is quite tall for her age, standing at nearly six feet tall despite being the same age as Scarlet.
+
+She likes to drag Scarlet around shopping if she ever gets the chance, and also wishes she could dress Scarlet up more often, since she almost never lets her. The two have been close since they can remember and often text each other to keep in contact.
+
+Unlike Arthur, Belle has no interest in video games and instead watched a lot of movies with Scarlet when they were younger.
+
+Title: Mystic Guardian
+
+Michael Winters:
+
+A Guardian who contracted three weeks before the start of the story and is a new student at Lion’s Heart Guardians University. He is just one year older than Scarlet at twenty years old and has Nature magic. He is a stoic and by the book individual who keeps Denise in line as he has been a close friend to her for years.
+
+Nature Magic: Gives primarily healing skills with some summoning/creation skills to summon or create familiars and summoned beings to help him fight.
+
+Title: Druid
+
+Denise Harley:
+
+A Guardian who contracted two weeks before the start of the story and is a new student at the Guardian University. She is two years older than Scarlet at twenty one years old and has Inferno magic. She is an overly caring and passionate individual who has few filters or borders but is able to learn from her mistakes.
+
+Inferno Magic: Gives skills related to fire and ice magic. Including both body enhancement skills and magical attacks.
+
+Title: Inferno
+
+Emily Winters:
+
+A Guardian who contracted three weeks before the start of the story and is a new student at the Guardian University. She is a year younger than Scarlet at eighteen years old and has Corruption magic. She is shy and often hides behind her older brother as they both contracted at the same time and are very close.
+
+Corruption Magic: Gives skills related to the corroding of a biological body. Includes poisons, viruses, and other types of things like that.
+
+Title: Little Reaper.
+
+Leonidas Val Art de Archeron:
+
+Demon Lord of Tartarus, Scarlet’s father, and the son of the current Demon King. He is a pureblood Blood Lycan who had a child with White, the current most powerful human being, and his father was not happy about it. He cares about Scarlet a lot and can get protective of her in strange ways. However, if she is on a hunt, he will not disturb her as is the way with blood lycans.
+
+Leonidas is known to be both honorable and kind towards all blood lycans regardless of their position in the pack, and ruthless towards any who would dare harm any member of the pack in any way.
+
+The man is also known to spend the majority of his time working on and improving his enchanting, both in terms of his Blood Runes level, and his actual skill in using the skill itself to enchant. He is an avid craftsman just as much as he is a powerful warrior and a beast in his own right, just like his father.
+
+Amelia Asger:
+
+White, the most powerful amongst the Knights of Humanity, and Scarlet’s mother. She is also the brother to Blue and aunt to Aria. Amelia loves both her daughter and Leonidas and went with the prophecy due to her fear of losing the two of them. Fear that was implanted into her by past prophecies that had gone horribly wrong after she didn’t follow them.
+
+She has a complicated relationships with the other Knights, and an even more complicated relationship with Leonidas, her mate.
+
+Very little is known about her by the public thanks to her wiping her information except set bits that she knew needed to remain known in order for her to continue on as her role as the White Knight of Humanity.
+
+However, from the few remaining traces, the humans know her to be a kind and powerful woman who is extremely socially awkward and dislikes being near other people. And while there are a very small number of people who distrust her solely for her erasing her information from the world, the majority trust in her simply due to her continuing the fight against the demons. Even leading it in some ways.
+
+But just like a lot of speculation about people in the world, not all of it is true. Amelia Asger is indeed an extremely socially awkward person who dislikes being near others, and she has more power than any other human.
+
+But she is nowhere near as stable, understanding, and calm as most would choose to believe.
+
+Arkaz Luna Val de Archeron:
+
+Demon King of Tartarus, Scarlet’s grandfather, and the father of one of the current Demon Lords. He is a pureblood Blood Lycan and does not approve of his son having had a child with a human. However, he doesn’t hold this against the child and cares about Scarlet very much. Even if he has only met her once when she was a baby. He also didn’t approve of Leonidas’s plan to bring Scarlet to Earth but had no way to go against it since his command as Demon King doesn’t work on a Demon Lord and his son conducted his plan without telling him first. The man has constantly been searching for Scarlet and anything that may lead him to her so that he can bring her home and protect her as his only granddaughter.
+
+After Scarlet was brought to Tartarus, he prioritizes her over most things, including his own work as the King sometimes. He also has a habit of patting her on the head, to her displeasure.
+
+Arkaz lost both his wife and his unborn daughter due to the emperor of the old Empire that he and his people had helped conquer for them after they had turned them into demons. He has an immense distaste towards any humans, but the man himself refuses to give into his hatred unless there is a plausible reason for him to kill.
+
+And Scarlet took that reason away from him, leading him to favor his love for her over his hatred, blotting it out in the process.
+
+Arkaz is known to travel the world when he is not dealing with the runnings of the Demon World of Tartarus, even if he has already seen every last inch of the world itself. He is generally a carefree spirit on the outside, always acting laidback and more than a little arrogant. Something that every demon believes to be natural given his overwhelming power.
+
+But be warned, when it manages to leak out of his laidback and carefree nature, his anger has been known to take millions of lives in a single swipe of his claws.
+
+Aria Knight:
+
+Aria is Scarlet’s cousin and the daughter of Blue. She is one of the youngest Guardians in recorded history, a famous child actress, and is emotionally stunted in her development just like Scarlet. However, she is fine with physical contact as long as it’s with Scarlet, who she quickly grew to like after meeting her and begins to think of as an older sister.
+
+Aria has long black hair with unnatural blue eyes and two wings that she can summon whenever she pleases. The wings look like those of an angel’s.
+
+Aquatic Divine: Aria’s magic that lets her use both water and ‘holy’ magic in tandem.
+
+Aria also has a few etched skills from Alexander but doesn’t know what all of them are or how to use most of them except for a single one. One that allows her to shapeshift a part of her body into a tentacle tipped with a claw. And this one she only knows about due to accidentally using it.
+
+Alexander Knight:
+
+One of the five Knights of Humanity, Blue. He is an insane psychopath with water related magic that can also transform him into a kraken, and is tied with Red as the second most powerful human being. He is Scarlet’s uncle and White’ – Scarlet’s mother – brother. He is Aria’s father despite practically abandoning her to the government immediately after having her through the first willing gene donor he could find just to get the government off his back.
+
+Lucius Tor de Blackheart:
+
+One of the four Demon Lords of Tartarus and a Ghoul. He has the titles Lord of Death and The Reaper. He uses death magic and is close to the Demon King. He is the oldest of the four Demon Lords even if he isn’t the strongest and has family issues.
+
+He dislikes the way blood lycans treat their family sometimes and had a troubled childhood where he was almost eaten by his own father. But it didn’t end there as he himself almost ate his own father, instead opting to eat a random demon outside of the room to barely save his father from that fate.
+
+Lucius pities Scarlet and sympathizes with her, so he helps her for those reasons to break free from her Grandfather and Father’s control. But his real thoughts on Scarlet are unknown to everyone beyond his trust in the Demon King.
+
+Lucius is widely known as a fervent reader of books and searcher of novels of all kinds, both educational and otherwise. Many people suspect this to be his way of smothering his hunger under fantasy outside of reality. Something many other ghouls are known to do, each in their own ways whether that be pleasure, sleep, or even illusions.
+
+Vorgrim Blackthorn of the Black Flame:
+
+One of the four Demon Lords of Tartarus and an oni. He is a complete battle maniac who cares only about honor and combat prowess. If someone has none of those qualities, he believes them to be worthless and will kill them if he doesn’t believe they deserve their status. And if he does believe they deserve his status, then he ignores their existence entirely.
+
+Whereas the other Demon Lords aside from Leonidas mostly respect her because of who she is, Vorgrim respects Scarlet on a fundamental level beyond her status as the First Princess of Tartarus and the Demons. He respects her power. Her strength. Her magic. And her willpower to move forwards and grasp deadly achievements for herself.
+
+Vorgrim is widely known to accept any and all challenges from any demons and takes in demons to train amongst those challengers who he believes show promise as a warrior.
+
+Xyvandra Vyxela Yxethra:
+
+One of the four Demon Lords of Tartarus, the Lady of Devouring, and a mindeater. She is disinterested in the war between the humans and the demons but assists in the war purely out of her respect and loyalty towards the Demon King.
+
+Xyvandra thinks of Scarlet as a young girl and the granddaughter of the most trusted person in the world to her. However, her respect and care for Scarlet is still not enough to arouse her from her slumber lest the Demon King ask for her assistance, or Scarlet or Leonidas is in severe danger and need help.
+
+However, Xyvandra doesn’t show herself in public enough for demonkind to know of her nature as a demon, because just like all other mindeaters, she sleeps the day away detached from her body whenever she isn’t needed by the Demon King.
+
+Will Wright:
+
+One of the five Knights of Humanity, Black. He has a split personality with one of his personalities being a playful prankster, and the other a pseudo psychopath. The man both wishes to take Scarlet in and adopt her but also doesn’t at the same time. One side of him wishes to do it out of actual worry and care, while the other just wants to spite Amelia, Scarlet’s biological mother.
+
+Black uses a shadow related magic that makes him the most powerful human assassin in the world.
+
+Noah Walker:
+
+Noah is the Red Knight of Humanity and tied for the second most powerful human being, being evenly matched with Blue. He has a son named Blake Walker, who he raised on the front lines like a soldier.
+
+Blake Walker:
+
+Blake is the son of Red and is a Class II Guardian. He also admits that Scarlet is his type but adamantly refuses to let that develop into any form of romantic interest.
+
+Sylver:
+
+A Guardian at the bottom of Class II working for the Silver Association. He is the same age as Scarlet and attends Lion’s Heart Guardians University. He has silver lightning that doesn’t need to be conducted to move and can take control of simple electronics.
+
+Sage:
+
+She is the head of intelligence for Cipher and the Silver Association. The woman barely displays any of her emotions, and many people believe that she may have lost them entirely upon being turned into a Guardian with Seer magic.
+
+Seer Magic: Gives prophetic visions and foresight and prediction related skills.
+
+Alfred Raynsford:
+
+The vice-headmaster of Lion’s Heart Guardians University and the one who observed Scarlet’s entrance exam. He holds a grudge against Cipher for something he did back when he was a student at the university. Alfred has 2 tails.
+
+He is one of the few people who remembers what White looks like and still meets with her regularly.
+
+Jacob R. Ashton:
+
+He is the government official in charge of registering new Guardians, and is the former headmaster of Lion’s Heart and the current general of the Military and leader of the Golden Retreat, an all-male Association made to combat Ava’s all-female Association. He goes by the title of Golden Rider.
+
+Julian:
+
+Son of the CEO of Magic Arc – the company in charge of every magi-tech tram in the capital city. He was the new Guardian Scarlet saved in a Fracture. He has silver hair to match the tail that pokes a hole through his pants along with two silver eyes, the same glossy shade of silver as his tail.
+
+Anthony Wilson:
+
+Contracted partner of Artoria – Tar’s sister – and a user of death magic. Part void spawn due to human experimentation. Can use a powerful legendary skill that drastically increases all of his stats for the price of taking an explosive amount of damage if hurt while using the skill.
+
+Lucas Walsh:
+
+Lucas was the second place finisher in the Class I Solo Primary Tournament that Scarlet won. He is a student at Aquatic Pride Guardians University, and has a strong magical sense of smell, leading to him noticing Scarlet’s scent and pointing it out in a creepy manner.
+
+Lucas is not able to understand the nuances behind things spoken to him or by him, making him miss the small details that are meant to be left unsaid and leaving him to say things that can be taken as creepy or strange.
+
+His Instructor is Purple.
+
+Title: Shifter
+
+Abigail Kim:
+
+Abigail was defeated in the quarterfinal round of the Class I Solo Primary Tournament by Scarlet. She is a student at Yggdrasil Guardians University, goes by the nickname Abi, and is the only mental magic user that Scarlet has fought against.
+
+Abigail and Sam are dating.
+
+Her Instructor is Purple.
+
+Title: Lost
+
+Samuel Lewis:
+
+Sam was defeated in the Class I Solo Primary Tournament by Scarlet. He is a student at Hunter’s Peak Guardians University, goes by the nickname Sam, and is the only blood magic user that Scarlet has fought against.
+
+Sam and Abigail are dating.
+
+His Instructor is Purple.
+
+Title: Crim
+
+Ethan Davis:
+
+Ethan was defeated by Scarlet in the Tower Siege secondary tournament and is a student at Scorched Halls Guardians University. He uses a magic that locks him in place while he absorbs the damage dealt to him before he eventually releases is all at the target in an uncontrollable wave of lava.
+
+His Instructor is Purple.
+
+Title: Molten Angel
+
+Caroline Winters:
+
+Carol is a Class III Guardian and the number one ranked student currently at Lion’s Heart Guardians University. She is also the older sister of both Emily and Michael, two of Scarlet’s former teammates.
+
+Carol uses spatial magic that lets her cut apart space itself.
+
+Title: Rift
+
+Anthony Wilson:
+
+A death magic user and a Class I Guardian who is the second strongest in Scarlet’s class.
+
+Title: Necro
+
+Raiden Akuma:
+
+The daughter of the Clan Leader for the Kitsune Clan and the head maid of the Demon King. She is also currently tasked with helping Scarlet navigate the kitsune clan.
+
+Akuma is, just like all the other kitsune, very playful and likes to toy with people and things. But unlike other kitsune, she holds herself back most of the time. And the rest of the kitsune are terrified of her because she is often the one dealing out punishment for members of the clan who lose themselves to their Sin of Greed.
+
+Raiden Amaterasu:
+
+The Clan Leader for the Kitsune Clan and Akuma’s mother. She is also stronger than White.
+
+Amaterasu is, just like all the other kitsune, very playful and likes to toy with people and things. But unlike her daughter, she does not hold herself back unless she has to. Because she has the power to back her actions.
+
+The only time she ever holds herself back is from going too far with Scarlet as she does fear and respect the Demon King too much to go any further than mere playing.

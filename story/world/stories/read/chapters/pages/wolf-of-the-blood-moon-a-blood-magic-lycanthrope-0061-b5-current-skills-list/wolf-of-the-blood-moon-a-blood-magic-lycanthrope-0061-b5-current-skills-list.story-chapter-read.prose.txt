@@ -1,0 +1,423 @@
+Skills List:
+
+Bloodborne Apocalypse
+
+Active
+
+Inherent
+
+Rarity: Mythic
+
+Current Level: 9
+
+Description: The user sends a bloodborne apocalypse throughout their surroundings targeting any the user deems as enemies. The apocalypse includes the boiling of the target’s blood, spreading of every plague capable of being spread by the Apex Predator, the draining of the target’s life energy, and upon the popping of any bubbles of blood, the further spread of the apocalypse through projectiles made of their blood hardened into blood metal.
+
+Pain Diffusion
+
+Active
+
+Achievement-Locked
+
+Rarity: Legendary
+
+Current Level: 30
+
+Description: This skill allows the user to temporarily nullify up to 100% of the pain felt by the user. However, half the pain nullified must be felt at some point within the next month, and the user may diffuse that pain over a set length of time or feel it all at once at a later time.
+
+Null Magic Field
+
+Active
+
+Achievement-Locked
+
+Rarity: Legendary
+
+Current Level: 30
+
+Description: This skill allows the user to set up a temporary null magic field that will require any magical skill requiring mana to use twice as much mana as the skill originally intended to be successfully used. The user is only partially affected by their own null magic fields, requiring them to spend 1.1 times as much mana for any magical skills while inside of them.
+
+Blood of Ruin
+
+Active
+
+Achievement-Locked
+
+Rarity: Legendary
+
+Current Level: 30
+
+Description: This skill unleashes the power of blood to bring ruin to the designated location.
+
+Metallicized Blood
+
+Active
+
+Inherent
+
+Rarity: Legendary
+
+Current Level: 29
+
+Description: Allows the user to have a limited amount of control over their own blood once it leaves their body and allows the user to metallicize their blood, turning it into blood metal. Allows the user to coat their hands and feet with claws of blood. The blood used in the skill is either created through the user’s mana, drained from the body of whatever the user has their claws in, supplied by another skill of the user, supplied by blood in the open, or drawn from the user’s body if they are out of mana. The user may also metallicize the blood claws into blood metal.
+
+Power Drain
+
+Active
+
+Evolved Inherent
+
+Rarity: Legendary
+
+Current Level: 28
+
+Description: Allows the user to absorb the life energy, blood magic attacks below epic rarity, and a small amount of mana from targets, lets them put the life energy and mana into their own skills to increase the skills’ efficiency and power, and lets them passively decrease the stats of those they designate as enemies by a very small amount
+
+Blood Nullification
+
+Active
+
+Achievement-Locked
+
+Rarity: Legendary
+
+Current Level: 27
+
+Description: Allows the user to nullify any blood in a set radius around them for a significant price of mana dependent on the distance between the user and the blood, the obstructions between the user and the blood, and any reality that the blood may be attached to.
+
+Rain of Blood
+
+Active
+
+Achievement-Locked
+
+Rarity: Legendary
+
+Current Level: 26
+
+Description: This skill brings with it clouds of blood, raining down fifteen different plagues on those deemed targets by the user.
+
+Blood Transformation
+
+Active
+
+Glitched/Inherent
+
+Rarity: Legendary
+
+Current Level: 21
+
+Description: Allows the user to directly cut the bonds between their DNA, separating themselves into nothing but blood while transforming their flesh and bones into pure blood.
+
+Healing Reversal
+
+Active
+
+Purchased
+
+Rarity: Legendary
+
+Current Level: 16
+
+Description: This skill allows the user to reverse any healing the target has undergone within a certain span of time depending on how much mana is spent.
+
+Blood Control
+
+Active
+
+Purchased
+
+Rarity: Legendary
+
+Current Level: 15
+
+Description: This skill allows the user to directly control the bodies of other users whose level is at least two hundred beneath their own. However, they may not alter the target’s mind in any way.
+
+Beast Transformation
+
+Active
+
+Inherent
+
+Rarity: Legendary
+
+Static
+
+Description: Allows the user to transform into a humanoid wolflike beast or a quadrupedal wolflike beast for the price of five percent of their mana on use.
+
+Partial Shift
+
+Active
+
+Inherent
+
+Rarity: Legendary
+
+Static
+
+Description: Allows the user to transform partially into a beast for a medium and one time price of mana each use.
+
+Blood Swarm
+
+Active
+
+Inherent
+
+Rarity: Epic
+
+Current Level: 30
+
+Description: Allows the user to summon blood homunculi that obey every order the user gives.
+
+Bane of Corruption
+
+Active
+
+Upgraded Title-Bearing
+
+Rarity: Mythic
+
+Current Level: 15
+
+Description: This skill allows the user to nullify any sort of corruption in their body instantly. They may also nullify any sort of corruption outside of their body given they have the mana and time to nullify it.
+
+Ritual scale corruption requires ritual scale usage of this skill to nullify and a massive amount of mana belonging to the user of the skill.
+
+Blood Plague
+
+Active
+
+Purchased
+
+Rarity: Legendary
+
+Current Level: 35
+
+Description: This skill allows the user to infect every being in sight that they choose to infect with one of twelve different plagues, each of which will spread through physical contact, virally, or through contact with bodily fluids to anyone the user wishes it to spread to.
+
+Crimson Overdrive
+
+Active
+
+Purchased
+
+Rarity: Legendary
+
+Current Level: 35
+
+Description: This skill allows the user to push their body into overdrive using their blood as fuel, forcing their blood to pump faster, their muscles to grow stronger, pushing their bioelectricity into overdrive, and overall increasing their physical strength, speed, regeneration, and senses by the amount of blood used as fuel.
+
+Vampiric Ascendancy
+
+Active
+
+Purchased
+
+Rarity: Legendary
+
+Current Level: 30
+
+Description: This skill temporarily transforms the user into a vampiric creature who gains power from the blood of others. While under the effects of the transformation, the user will have an intense blood lust, making them struggle to hold back from drinking any blood around them. In return, the user gets power from all of the blood they drink along with an immunity to poisons and the ability to eat anything while transformed. All blood drunk increases the regeneration, physical strength and speed, magical power, and maximum mana capacity for the duration of the transformation.
+
+Scarlet Aegis
+
+Active
+
+Purchased
+
+Rarity: Legendary
+
+Current Level: 20
+
+Description: This skill allows the user to create a barrier made of blood that protects the user. The barrier can be set to completely surround the user’s body right outside of their skin or be created in the air as a shield.
+
+Eldritch Blood
+
+Active
+
+Purchased
+
+Rarity: Legendary
+
+Current Level: 20
+
+Description: This skill allows the user to transform any of their blood spilled outside of their body into eldritch monsters made of corrupted blood plagues.
+
+Blood Bond
+
+Active
+
+Purchased
+
+Rarity: Legendary
+
+Current Level: 5
+
+Description: Allows the user to establish a blood bond between individuals by exchanging blood, granting them shared strength, senses, and even the ability to share pain or injuries.
+
+Blood Shadow
+
+Active
+
+Purchased
+
+Rarity: Epic
+
+Current Level: 30
+
+Description: This skill can be used to create a clone made out of shadows and blood. It uses the user’s own blood and their shadow in the process of the skill’s use, and when the clone is destroyed, the user loses the blood and takes mental damage as backlash. 35% of the blood used can be substituted through skills or mana. The clone summoned can use basic, level 10 versions of each of the user’s skills at the cost of the user’s mana.
+
+Blood Retribution
+
+Active
+
+Purchased
+
+Rarity: Epic
+
+Current Level: 20
+
+Description: Any damage dealt to the user while this skill is active is returned to the one who dealt the damage in the form of blood burning. Activation of this skill costs 6% of the user’s total mana. Each activation lasts for thirty seconds.
+
+Lycan’s Regeneration
+
+Passive
+
+Achievement-Locked
+
+Rarity: Mythic
+
+Current Level: 11
+
+Description: The most powerful regeneration skill of the species known by many as the Alphas of Pride. All users with this skill are capable of regenerating from any wound as long as they still have mana. The skill also significantly increases their mana regeneration.
+
+Warden of the Red Plague
+
+Passive
+
+Upgraded Title-Bearing Mutation
+
+Rarity: Mythic
+
+Static
+
+Description: This skill directly alters the user’s body, turning them into both prison and warden for the most powerful blood plague in existence.
+
+The Red Plague.
+
+Any being who touches the user and is designated a target by the user either subconsciously or consciously will be infected with the Red Plague.
+
+The user may also release the Red Plague within their body to the surroundings through any means, whether through blood, the air, physical contact, or any other possible method.
+
+The user may recall the red Plague back into their body whenever they so desire.
+
+The user’s body becomes permanently immune to all types of corruption due to the overwhelming strength of the Red Plague devouring all other types of corruption.
+
+Blood Manipulation
+
+Passive
+
+Glitched/Inherent
+
+Rarity: Legendary
+
+Current Level: 30
+
+Description: Allows the user to directly control blood around them within limits.
+
+Lesser Blood Runes
+
+Passive
+
+Achievement-Locked
+
+Rarity: Legendary
+
+Current Level: 1
+
+Description: Allows the user to form and learn the lesser Blood Runes from the Runic Alphabet.
+
+Nullification Resistance
+
+Passive
+
+Achievement-Locked
+
+Rarity: Legendary
+
+Current Level: 1
+
+Description: The user becomes resistant to the effects of magic-nullifying or dispelling powers, ensuring their own magical powers remain intact even within null magic zones
+
+Blood Life
+
+Passive
+
+Achievement-Locked
+
+Rarity: Legendary
+
+Static
+
+Description: The user gains a pseudo immortality, making it so that as long as they have blood within a five hundred kilometer radius around them, they will always be able to reform their body.
+
+Princess’s Decree
+
+Passive
+
+Achievement-Locked
+
+Rarity: Legendary
+
+Static
+
+Description: This skill allows the Princess of the Demons to issue commands to any demon. These commands must be obeyed if the demon begin commanded is one hundred or more levels beneath the user.
+
+Apex Predator
+
+Passive
+
+Upgraded Title-Bearing
+
+Rarity: Mythic
+
+Static
+
+Description: It grants the user a 100% boost in stats when fighting a creature at a higher level than themselves by at least one hundred levels. It grants the user a 50% boost in stats when fighting a creature at a higher level than themselves by at least ten levels. It grants the user a permanent 30% boost in stats no matter who they are fighting. These three bonuses do not stack together. However, they may stack with other skills.
+
+All hail the Apex Predator.
+
+Bloodwell Keep
+
+Passive
+
+Purchased
+
+Rarity: Legendary
+
+Static
+
+Description: This skill allows the user to make a special storage within their own blood that they can store anything non-living in.
+
+Blood Thirst
+
+Passive
+
+Purchased
+
+Rarity: Legendary
+
+Current Level: 30
+
+Description: On account of the user’s absolute blood thirst and utter lack of a self-preservation instinct, you have learned to grow stronger through each kill. This skill passively increases all of the user’s statistics by a flat 1% bonus for each enemy slain for a period of three minutes after their death. This effect is stackable. The timer resets with every new stack.
+
+Bloody Thorns
+
+Passive
+
+Purchased
+
+Rarity: Legendary
+
+Current Level: 30
+
+Description: This skill deals a set amount of damage to any individual who causes damage to the holder of the skill no matter who it is regardless of their defense in the form of blood nullification.

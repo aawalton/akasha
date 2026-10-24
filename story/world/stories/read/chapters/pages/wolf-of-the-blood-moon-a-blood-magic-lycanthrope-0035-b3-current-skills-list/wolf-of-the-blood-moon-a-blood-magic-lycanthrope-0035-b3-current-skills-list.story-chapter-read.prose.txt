@@ -1,0 +1,329 @@
+Note: Remember that inherent and achievement-locked skills CANNOT be leveled through Skill Points. Meanwhile purchased skills CANNOT be leveled simply through using the skills and must be leveled through spending Skill Points. And Inherent skills are skills a user gets either as achievement-locked skills they purchase, or just naturally through leveling up that are based on their magic, species, and achievements.
+
+Skills List:
+
+Pain Diffusion
+
+Active
+
+Achievement-Locked
+
+Rarity: Legendary
+
+Current Level: 15
+
+Description: This skill allows the user to temporarily nullify up to 60% of the pain felt by the user. However, half of the pain nullified must be felt at some point within the next week, and the user may diffuse that pain over a set length of time or feel it all at once at a later time.
+
+Null Magic Field
+
+Active
+
+Achievement-Locked
+
+Rarity: Legendary
+
+Current Level: 15
+
+Description: This skill allows the user to set up a temporary null magic field that will require any magical skill requiring mana to use twice as much mana as the skill originally intended to be successfully used. The user is only partially affected by their own null magic fields, requiring them to spend 1.25 times as much mana for any magical skills while inside of them.
+
+Blood of Ruin
+
+Active
+
+Achievement-Locked
+
+Rarity: Legendary
+
+Current Level: 8
+
+Description: This skill unleashes the power of blood to bring ruin to the designated location.
+
+Metallicized Blood
+
+Active
+
+Inherent
+
+Rarity: Epic
+
+Current Level: 4
+
+Description: Allows the user to have a limited amount of control over their own blood once it leaves their body and allows the user to metallicize their blood, turning it into blood metal.
+
+Beast Form
+
+Active
+
+Inherent
+
+Rarity: Rare
+
+Static
+
+Description: Allows the user to transform into a humanoid wolflike beast for the price of ten percent of their mana on use.
+
+Metallicized Blood Claws
+
+Active
+
+Inherent
+
+Rarity: Rare
+
+Current Level: 15
+
+Description: Allows the user to coat their hands and feet with claws of blood. The blood used in the skill is either created through the user’s mana, drained from the body of whatever the user has their claws in, or drawn from the user’s body if they are out of mana. The user may also metallicize the blood claws into blood metal.
+
+Life Drain
+
+Active
+
+Inherent
+
+Rarity: Rare
+
+Current Level: 15
+
+Description: Allows the user to drain the life energy of nearby creatures into themselves and others, healing them in the process. Costs mana to use. Life energy drained can be directed to a particular area of the user’s body to speed up healing there.
+
+Partial Shift
+
+Active
+
+Inherent
+
+Rarity: Rare
+
+Static
+
+Description: Allows the user to transform two extremities into that of a beast for a large and one time price of mana each use.
+
+Blood Pull
+
+Active
+
+Inherent
+
+Rarity: Uncommon
+
+Current Level: 17
+
+Description: Allows the user to drain the blood of nearby creatures and to pull unattached blood from the air and the ground and use it for various purposes, including transfusing the user’s or others blood or using the blood for the user’s skills to substitute 55% of the required blood the user would have to personally use.
+
+Blood Chains
+
+Active
+
+Inherent
+
+Rarity: Uncommon
+
+Current Level: 10
+
+Description: Allows the user to conjure chains made of blood, whether hardened, metallicized, or liquid blood, which bind and constrict enemies, restricting their movement, draining their blood, and draining their life energy along with it.
+
+Blood Diffusion
+
+Active
+
+Inherent
+
+Rarity: Common
+
+Current Level: 12
+
+Description: Allows the user to set up a faint magical barrier around their own body. This barrier will cause any attack below a certain level to burn the blood of the user instead of causing direct damage to them. The amount of blood burned is dependent on the level of the user and the power behind the attack dealt. The barrier does not work very well against affliction-based attacks.
+
+Gradual Corruption Nullification
+
+Active
+
+Purchased
+
+Rarity: Legendary
+
+Current Level: 10
+
+Description: This skill allows the user to slowly nullify any sort of corruption in their body over the course of seven minutes. The seven minutes does not have to go uninterrupted, however, the user may not use any other skills during this time. Usage of this skill requires a steady stream of mana.
+
+Blood Plague
+
+Active
+
+Purchased
+
+Rarity: Legendary
+
+Current Level: 6
+
+Description: This skill allows the user to infect every being in sight that they choose to infect with one of five different viruses, each of which will spread through physical contact or contact with bodily fluids to anyone the user wishes it to spread to.
+
+Crimson Overdrive
+
+Active
+
+Purchased
+
+Rarity: Legendary
+
+Current Level: 1
+
+Description: This skill allows the user to push their body into overdrive, forcing their blood to pump faster, their muscles to grow stronger, using the blood as fuel, pushing their bioelectricity into overdrive, and overall increasing their physical strength, speed, regeneration, and senses by the amount of blood used as fuel.
+
+Blood Shadow
+
+Active
+
+Purchased
+
+Rarity: Epic
+
+Current Level: 10
+
+Description: This skill can be used to create a clone made out of shadows and blood. It uses the user’s own blood and their shadow in the process of the skill’s use, and when the clone is destroyed, the user loses the blood and takes mental damage as backlash. 10% of the blood used can be substituted through skills or mana. The clone summoned can use basic, level 1 versions of each of the user’s skills at the cost of the user’s mana.
+
+Blood Retribution
+
+Active
+
+Purchased
+
+Rarity: Epic
+
+Current Level: 10
+
+Description: Any damage dealt to the user while this skill is active is returned to the one who dealt the damage in the form of blood burning. Activation of this skill costs 10% of the user’s total mana. Each activation lasts for thirty seconds.
+
+Blood Armor
+
+Active
+
+Purchased
+
+Rarity: Rare
+
+Current Level: 10
+
+Description: Allows the user to create an armor purely out of congealed and hardened blood with mana. This skill may only create ten plates of armor at one time. Each plate of armor created removes a small portion of the user’s mana pool until the skill is dispelled or the armor plating is shattered.
+
+Blood Manifestation
+
+Active
+
+Purchased
+
+Rarity: Rare
+
+Current Level: 10
+
+Description: The user may summon up to twenty-five weapons of blood that they may control through their will. These weapons will stay summoned for one minute and will cost ten mana per weapon.
+
+Blood Sacrifice
+
+Active
+
+Purchased
+
+Rarity: Rare
+
+Current Level: 10
+
+Description: A sacrificial skill that allows the user to burn their own blood in order to get a temporary boost in their physical capabilities. This boost will last for fifteen seconds after the blood was burned. The more blood burned, the stronger the boost will be.
+
+Blood Boil
+
+Active
+
+Purchased
+
+Rarity: Rare
+
+Current Level: 10
+
+Description: An attack skill that slowly makes the blood of the target begin to boil, causing gradual internal damage that builds up while slowing down the reaction speed of the target.
+
+Blood Bank
+
+Active
+
+Purchased
+
+Rarity: Rare
+
+Current Level: 10
+
+Description: A storage skill that allows the user to store the blood of either themselves or other creatures in the void for use at a later time.
+
+Blood Regeneration
+
+Passive
+
+Achievement-Locked
+
+Rarity: Legendary
+
+Current Level: 15
+
+Description: The second most powerful regeneration skill of the species known by many as the Alphas of Pride. This skill immensely increases the natural regeneration of the user, both in terms of life energy and mana. It also allows the user to regenerate lost limbs over a long period of time.
+
+Sanguine Effect
+
+Passive
+
+Inherent
+
+Rarity: Rare
+
+Static
+
+Description: This skill grants all attacks of the user dealt through blood magic a life draining aspect, absorbing a small sliver of the target’s life energy into the user of the skills. The life energy drained cannot be controlled and it cannot be put into other targets.
+
+Life Sense
+
+Passive
+
+Inherent
+
+Rarity: Rare
+
+Current Level: 4
+
+Description: Grants the user the ability to sense life force in their surroundings.
+
+Blood Thirst
+
+Passive
+
+Purchased
+
+Rarity: Legendary
+
+Current Level: 10
+
+Description: On account of the user’s absolute blood thirst and utter lack of a self-preservation instinct, you have learned to grow stronger through each kill. This skill passively increases all of the user’s statistics by a flat 0.8% bonus for each enemy slain for a period of one minute and twenty-five seconds after their death. This effect is stackable. The timer resets with every new stack.
+
+Bloody Thorns
+
+Passive
+
+Purchased
+
+Rarity: Legendary
+
+Current Level: 10
+
+Description: This skill deals a set amount of damage to any individual who causes damage to the holder of the skill no matter who it is regardless of their defense in the form of blood nullification.
+
+Predator V
+
+Passive
+
+Purchased
+
+Rarity: Legendary
+
+Static
+
+Description: It grants the user a 30% boost in stats when fighting a creature at a higher level than themselves.
+
+Note: If you are reading this on a website that is not Royal Road or on my Patreon, you are reading a pirated version and that website does not have the permission of the author to host the story. Please instead read the story on Royal Road, here, as it is completely free to read on Royal Road.
