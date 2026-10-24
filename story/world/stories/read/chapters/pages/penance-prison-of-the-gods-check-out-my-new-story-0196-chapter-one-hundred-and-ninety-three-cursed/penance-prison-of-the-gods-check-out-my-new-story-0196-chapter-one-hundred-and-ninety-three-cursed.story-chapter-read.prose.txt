@@ -1,0 +1,83 @@
+I had pocketed the item I had bought from the merchant, trusting that Aurentum would tell me when to take out the cursed drug. Why he had wanted me to purchase it, I still did not know—but whatever scheme he had devised, failure had not been an option. The weight of that strange packet rested heavily against my hip, its presence a burden I didn't want, but knew I had to deal with.
+
+A flicker of movement drew my attention. A hulking figure in bronze armor carved its way through the bustling crowd below, a jagged scar peeking out from beneath his helmet. He moved with a lethal grace, and his scimitar caught the sun’s dying rays, glinting like a serpent’s fang poised to strike. My eyes narrowed. The bronze armor looked sleeker than what I had remembered from before, and the insignia etched into his chestplate appeared more refined. These guards were not like the ones I had faced the first time through this floor. They were better equipped, better trained. A chill of anticipation wound itself around my spine, tightening my focus. I realized these were no ordinary soldiers—they meant business, and the margin for error had shrunk considerably.
+
+Their deliberate steps and searching gazes left no doubt in my mind. They were hunting me.
+
+I shifted my grip on the composite longbow resting in my hands. In that moment, my heart steadied, each beat deliberate. I resolved to see what I was truly up against.
+
+I activated Advanced Scan, and my vision sharpened until every movement below seemed to slow. A glowing red outline encased the lead guard, and streams of information scrolled beside him:
+
+Name: Guard 1Health: 650/650Armor: 50Weak Points:
+
+My gaze lingered on the guard’s helmet, which left the eyes exposed. Even a well-protected foe had vulnerabilities—there was always something to exploit. A faint smile tugged at my lips as I reminded myself that I did not need to overpower them; I merely needed to outthink and outmaneuver them.
+
+I scanned the area further, highlighting four more guards scattered across the square as advanced scan took effect. One lingered near the western edge, another climbed a set of stone steps, and two more threaded their way toward the central fountain. Their movements formed a tightening circle, corralling the crowd as if to herd me into a trap.
+
+A jolt of urgency shot through me. They were boxing me in.
+
+I tested the weight of the tiles beneath my boots, planning my next move. Below, the throng of people continued on in their daily hustle, oblivious to the deadly hunt unfolding on the rooftops above. Merchants bickered over prices, and the mingled smells of spiced meats and sunbaked clay drifted upward. I exhaled slowly, my mind sharpening with the realization that the guards did not know my exact location. I still held the element of surprise, and that was a precious advantage.
+
+Moving swiftly, I leaped across the narrow alley to an adjacent rooftop. The clay tiles warmed my palms as I landed in a crouch, my movements silent and precise. Ahead, a precarious stack of ceramic pots perched near the roof’s edge, their bright paint dulled by dust and time. An idea sparked in my mind as I carefully loosened the topmost pots. They wobbled slightly, teetering on the brink of tumbling with the slightest push.
+
+I glanced back at the guards below, tracking their approach as they converged near the fountain. My fingers brushed the edge of the stack, muscles coiling with anticipation. I reminded myself to trust Aurentum. He would tell me when to use the cursed drug, and until then, I needed to survive.
+
+The sun dipped lower, its golden light morphing into rich amber as lanterns began to flicker to life across the square. Their glow mingled with a haze of dust, casting an otherworldly sheen over the city. I adjusted my position, ensuring I remained hidden in the shadows, and tightened my grip on the bow. The guards’ eyes continued to sweep the rooftops, their steps slow but determined.
+
+My muscles tensed as Guard 1 stepped beneath the precarious stack of pots. The new insignia on his chestplate gleamed—a sharp reminder that these were elite guards. They had stepped up their game since my last passage through this place, and I was certain they had prepared for someone like me.
+
+I nudged the stack with my boot, sending the pots crashing down.
+
+Direct Hit!Guard 1: -120 HP [530/650]This tale has been unlawfully lifted from Royal Road; report any instances of this story if found elsewhere.Status Effect: Staggered (-10% movement speed)
+
+The guard staggered, raising his shield too late as ceramic shards clattered against his helmet. Shouts erupted from the other guards, their formation momentarily disrupted. I capitalized on this sudden chaos, notching an arrow and aiming for the exposed eyes of Guard 1. If I could take him down quickly, it might send the others into disarray.
+
+The bowstring thrummed as I loosed the arrow. At the last second, the guard twisted away, and the arrow struck his shoulder instead.
+
+Glancing Hit!Guard 1: -60 HP [470/650]
+
+I clenched my jaw. A headshot had been a risk, but hitting the eyes would have hastened his defeat. I inhaled sharply, adjusted my angle, and let another arrow fly, this time targeting the gap in his right side.
+
+Piercing Strike!Guard 1: -150 HP [320/650]Status Effect: Bleeding  (-5 HP per second for 5 seconds)
+
+He roared in pain, crimson blooming across his bronze armor. The remaining guards snapped their attention to my position, weapons at the ready.Multiple scrolls flashed as Advanced Scan highlighted new threats:
+
+Guard 2: Health: 600/600 | Armor: 60Guard 3: Health: 550/550 | Armor: 45
+
+A thrill of anticipation coursed through me. These opponents were formidable, and I would need both cunning and skill to prevail. I sprang to an adjacent rooftop, landing silently. There, another stack of ceramic pots leaned against a weak wooden beam. Another idea surfaced. I drew an arrow, aimed for the beam, and exhaled slowly as I released.
+
+The beam splintered, and the pots crashed down in a cloud of dust and shards.
+
+Terracotta exploded across the ground, scattering at the guards’ feet. They raised their shields, absorbing minor damage but losing precious seconds as they reacted to this improvised ambush.
+
+Ambush Triggered!Guards 1, 2, and 3: -20 HP each (minor impact).Status Effect: Disoriented (2 seconds).
+
+I did not hesitate. Drawing another arrow, I activated Deadeye Aim, focusing on the exposed gap beneath Guard 1’s right arm. Time seemed to slow again. I tensed every muscle, exhaled, and released the shot.
+
+Critical Hit!Guard 1: -150 HP [125/650]Status Effect: Bleeding (-5 HP per second for 5 seconds)
+
+Guard 1 staggered, clutching his side as dark red stained his armor. He let out a guttural roar. Below, the scene descended into pandemonium—merchants screamed, knocking over their stalls as terrified patrons surged for safety. One of the guards finally spotted me, shouting, “There he is!”
+
+I bolted, sprinting across the tiled roof. Loose tiles slid beneath my boots, and I nearly lost my footing, but instinct kept me balanced. I leaped to the next rooftop just as Guards 2 and 3 pushed through the frenzied crowd, racing toward the stone stairs leading upward.
+
+I glanced back and notched another arrow. The glow of Piercing Strike danced along the arrowhead as I aimed down at the guards storming the steps. I released, and the arrow hissed through the air, slicing through Guard 2’s shoulder plate before embedding itself in Guard 3’s thigh.
+
+Piercing Strike!Guard 2: -100 HP [50/650]Guard 3: -90 HP [560/650]
+
+Guard 2 cursed, faltering as he gripped his injured shoulder. Guard 3 grunted in pain but persisted, determination etched onto his face. I felt a grin tug at my lips. If they wanted me, they would have to earn every inch.
+
+Without delay, I vaulted across another narrow alley, landing gracefully on a neighboring rooftop. Advanced Scan tagged their health bars as they closed in. Guard 1 lagged behind, slowed by his injuries, while Guards 2 and 3 pressed forward with unwavering resolve.
+
+My heart pounded as I sprinted toward the far edge of the rooftop, mind whirling with calculations. I realized I could not let them close the distance. I needed to keep my advantage—height, mobility, and surprise. The sun dipped lower, painting the ancient city’s worn spires and faded mosaics in dusky gold. Behind me, Guards 2 and 3 shouted commands, their voices cutting through the marketplace’s fearful clamor. The twang of bowstrings echoed, and arrows whistled perilously close.
+
+One shot zipped past my shoulder, so close I felt its wind against my neck. I dove behind a crumbling chimney, scraping my palms on rough bricks. A sharp sting seared my arm—an arrow’s graze. another scroll flared with an alert:
+
+Health: -10 HP [190/200]Status Effect: Minor Bleeding (-1 HP per 5 seconds)
+
+I clenched my jaw, forcing myself to ignore the pain. It was just a flesh wound. I needed to keep moving, keep planning. Peeking around the chimney, I spotted Guards 2 and 3 drawing their short bows again. Guard 2’s helmet bore a dented crest, while Guard 3’s eyes shone with ruthless intent. Their heavier armor slowed them on the uneven tiles, but not enough to halt their pursuit.
+
+The sting in my arm throbbed with each heartbeat, a reminder that time was not on my side. I could not allow them to pin me down. I kicked a loose tile, sending it skittering off the rooftop and into the street below. It was a trivial distraction, but even a slight break in their concentration could give me the moment I needed.
+
+The city around us seemed caught between twilight and chaos. Flickering lanterns threw uneven shadows across the rooftops and walls. Cries of alarm rose from the crowd below, and I imagined Aurentum somewhere in the distance, waiting patiently for the right moment to signal me about the cursed drug I carried. Until then, I had only my bow, my wits, and the rooftops beneath my boots.
+
+I steadied my breathing and prepared for the next move. The guards were closing in, and soon I would have to choose: stand my ground and fight them head-on, or keep luring them deeper into a chase they could not win. Either way, I reminded myself that this was all part of the plan. Aurentum wanted something done, and I would find a way to deliver—no matter how many elite guards tried to corner me atop these ancient roofs.

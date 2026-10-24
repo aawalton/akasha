@@ -1,0 +1,115 @@
+The healer dropped, the arrow sinking into his temple with a dull thud. His shield shattered like brittle glass, leaving the warrior and mage
+
+The air trembled, the familiar pressure of turn-based mode locking everything into that weightless stillness. The second wave shimmered into place, the air rippling like a mirage. Another warrior, another mage, another healer—and a fourth figure, cloaked in ragged robes and clutching a crooked staff.
+
+The air trembled—turn-based mode locked in.
+
+{Enemy Turn}
+
+The second wave shimmered into place, air rippling like a mirage. Another warrior, another mage, another healer—and a fourth figure, cloaked in ragged robes, clutching a crooked staff.
+
+A Goblin Summoner.
+
+A grin tugged at the corner of my mouth.
+
+“Oh, now this is just too generous.”
+
+Aurentum’s cold voice cut through the stillness like a shard of ice. {You sound almost pleased. Don’t mistake charity for opportunity.}
+
+I ignored him, eyes narrowing on the summoner’s staff. That thing would keep spewing out young goblins until his mana well ran dry. If I played this right, this wave just became a gold mine of materials for the Aerlyntiums.
+
+I ducked behind a fractured column, the stone cool against my back. The summoner raised his staff, guttural syllables bubbling up from his throat. Sickly green light coiled around him like snakes ready to strike.
+
+A gout of mist erupted from the ground. A young goblin clawed its way out, wiry limbs and feral eyes glinting with hostility. It snarled, but it was barely more than a warm-up target.
+
+Perfect.
+
+Player Turn
+
+I drew my bow, the string humming with tension. The young goblin barely had time to snarl before the arrow buried itself between its eyes. It collapsed into mist, vanishing as quickly as it came.
+
+The summoner’s staff flared again, green light twisting as another young goblin materialized. It stumbled forward, confusion in its eyes as if it knew it was being served up as fodder.
+
+I loosed another arrow, the whisper of the shot cutting through the air. The goblin crumpled.
+
+Behind me, Aurentum pulsed with faint amusement. {Efficient, if uninspired. You reduce combat to a tedious harvest.}
+
+“Crystal called it farming,” I muttered, a pang of guilt went through me at the thought, but I brushed it aside. “I’m getting my worth out of this mess.”
+
+The summoner’s brow furrowed, sweat beading on his forehead. His staff trembled in his grip, the magic lines flaring erratically. He was running low. Good.
+
+Another goblin burst into existence. Another arrow dropped it.
+
+The summoner’s chants grew ragged, desperation threading through his voice. The warrior and mage stayed back, their movements locked in defensive patterns. They wouldn’t move until the summoner was out of the picture—or out of mana.
+
+I let the rhythm take over: draw, aim, loose. Each goblin fell like a puppet with cut strings. The summoner’s magic crackled, flickered, but he kept going, pushing his reserves to the brink.
+
+One more burst of mist. One more goblin. The summoner staggered, his staff dimming, the last threads of his power unraveling.
+
+He blinked at me, panic finally dawning in his eyes.
+
+I met his gaze, bowstring taut.
+
+“Out of juice?"
+
+His mouth opened in a silent plea just as my arrow silenced him for good. He collapsed, the staff rolling from his lifeless fingers.
+
+Aurentum’s crystal form hovered closer, his voice like frost on my skin. {You’ve drained the well dry. Let’s see if you can handle what’s left.}
+
+I rolled my shoulders, the ache in my muscles a reminder of what was still to come. The real threats waited, shadows coiling in the distance.
+
+I let out a slow breath. “Bring it on.”
+
+Before the next round could begin, I sprinted forward, boots pounding against stone as I snatched up every arrow I could find. My fingers worked fast, plucking shafts from the misted remains of goblins, my breath coming in quick bursts. By the time the last arrow slipped into my quiver, the weight was reassuring—but I knew it wouldn’t last.
+
+I turned and bolted back to the entrance, my heart hammering in my ears. The air around me thickened, a familiar pressure tightening its grip. I dove behind the nearest pillar just as turn-based mode locked in. My body froze, every muscle held taut, as if invisible strings had cinched tight around my limbs.
+
+The next wave shimmered into place: another warrior, another mage, another summoner—and this time, an archer, crouched with a wicked grin and an arrow already nocked.
+
+Great, I thought. Someone with range.
+
+My eyes narrowed, instinct taking over. The archer would be a thorn in my side if left unchecked. I exhaled, drawing my bowstring until it sang with tension. The instant turn-based mode resumed, I let the arrow fly.
+
+It streaked across the room, a silver blur cutting through the stagnant air. The archer barely registered what hit him before he crumpled, his bow clattering to the ground.
+
+One problem solved.
+
+The summoner raised his staff, dark magic coiling in anticipation. I grinned. This again? Fine by me. He could summon goblins all day—as long as I had arrows, I had targets.
+
+I ducked behind cover, loosing arrows with practiced ease. Each burst of green mist heralded another goblin’s brief, miserable existence. The thrill of the hunt settled into my veins, my movements a rhythm of draw, aim, fire.
+
+Aurentum’s cold voice whispered above me. {You revel in repetition like a moth circling a flame. Let’s hope you don’t burn out before the end.}
+
+“Not likely,” I muttered, loosing another arrow. The summoner staggered, sweat dripping down his sallow face. His staff flickered, his mana ebbing away like water through cracked stone.
+
+Another burst of mist. Another arrow.
+
+The air thickened, dread hanging like a storm cloud. The summoner vanished leaving a new nightmare in its wake—a hulking goblin, short but impossibly wide, his muscles coiled like steel cables under mottled green skin. His eyes burned with feral rage, and his jagged teeth twisted into a predatory grin.
+
+A guttural roar exploded from his throat, the vibration rattling my bones and splintering the stone beneath my feet.
+
+Aurentum’s cold voice whispered, {You might want to move.}"Scan!"
+
+Enemy Entry 0035: Rage GoblinLevel: 6Weakness: Piercing attacks to the eyes, magic-based crowd controlStrength: Extreme physical durability, high-speed aggression
+
+My body acted before my mind did. I dove left just as the Rage Goblin’s fist slammed down, sending shards of rock spraying through the air. Rolling to my feet, I snatched an arrow from my quiver, drew, and fired at his exposed side. The arrow struck—and snapped in half, useless against his ironclad hide. I glanced at the health and weakness before waving aside the scroll.
+
+“Great. He’s built like a brick wall.”
+
+His snarl deepened, eyes locking onto me with laser focus. Before I could blink, he lunged forward, a green cannonball of muscle and fury. I sprinted behind a crumbling pillar, and a heartbeat later, his body smashed into it, stone fragments cascading like rain. Dust choked the air, clouding my vision.
+
+I coughed, trying to clear my head. A shadow loomed in the haze. His fist swung wide, a blur of motion and menace. I ducked, the air hissing as his knuckles passed an inch above my scalp. Desperation flared in my gut. My foot shot out, kicking a chunk of rubble toward his face.
+
+The stone hit home, and he bellowed, momentarily blinded. I scrambled backward, heart hammering, my mind screaming for a plan.
+
+Think, Rod, think!-
+
+Enemy Entry 0035: Rage GoblinLevel: 6Weakness: Piercing attacks to the eyes, magic-based crowd controlStrength: Extreme physical durability, high-speed aggression
+
+Rage Goblins are a rare mutation of standard goblin warriors, their bodies grotesquely overgrown with dense muscle and reinforced bone. Unlike their more cunning kin, Rage Goblins lack strategy—they exist only to smash, crush, and pulverize anything in their path. Their roars create shockwaves strong enough to fracture stone, and their raw strength allows them to break through most physical defenses with sheer brute force.
+
+Standard weapons are nearly useless against their iron-like hide, as arrows and blades tend to snap on impact. However, their feral rage blinds them to precise attacks—targeting the eyes or manipulating their aggression with magic can create openings for a decisive strike.
+
+Despite their monstrous strength, Rage Goblins burn through stamina quickly. If one does not kill you in the first few minutes, it will eventually tire—though you must survive long enough for that to matter.
+
+Stat:
