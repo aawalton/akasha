@@ -21,9 +21,22 @@ export const supervisorAgentAction = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A regret finds its cut before signalling the child, and a refused cut signals none.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A regret leaves its request in place until the transcript is cut.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A second regret while a first is in flight is dropped.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A kill the supervisor issued is remembered so the exit is not read as a crash.",
     },
   ],
   createdAt: "2026-09-03T17:08:24.638Z",
-  updatedAt: "2026-09-22T20:22:39.000Z",
+  updatedAt: "2026-10-24T22:00:07.098Z",
 } as const satisfies Module

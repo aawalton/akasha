@@ -51,7 +51,19 @@ export const supervisorIterationOutcomeHandlers = {
       decisionKind: "decision-kind/departure",
       statement: "A clear that never lands still resumes the session.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A regret cuts the transcript before the requested action is cleared.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A regret resumes the same session with no prompt and no notice.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A regret that fails to cut still resumes the session.",
+    },
   ],
   createdAt: "2026-09-03T18:04:03.733Z",
-  updatedAt: "2026-09-24T17:03:50.000Z",
+  updatedAt: "2026-10-24T22:00:07.098Z",
 } as const satisfies Module

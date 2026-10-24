@@ -1,2 +1,5 @@
+{"propertySlug":"import","fileName":"regret-cut.module.code.ts","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-iteration-outcome-handlers/supervisor-iteration-outcome-handlers.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"regret-cut.module.code.ts","path":"agent/seat/supervisor/supervisor-action/modules/regret-cut/regret-cut.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"regret-cut.module.code.ts","path":"agent/seat/supervisor/supervisor-action/modules/regret-taking/regret-taking.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"regret-cut.module.code.ts","path":"agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action/supervisor-agent-action.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/seat/supervisor/supervisor-action/supervisor-action.page-type.ts","id":"01a05ecf-9a12-7710-b385-fd3a09307d1d"}

@@ -1,4 +1,7 @@
-import { handleRestartNow } from "akasha/agent/seat/supervisor/seat-agent-run/modules/supervisor-iteration-outcome-handlers/supervisor-iteration-outcome-handlers.module.code.ts"
+import {
+  handleRegret,
+  handleRestartNow,
+} from "akasha/agent/seat/supervisor/seat-agent-run/modules/supervisor-iteration-outcome-handlers/supervisor-iteration-outcome-handlers.module.code.ts"
 import type { LoopState } from "akasha/agent/seat/supervisor/seat-agent-run/modules/supervisor-loop-state/supervisor-loop-state.module.code.ts"
 import type { PendingAgentAction } from "akasha/agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action-types/supervisor-agent-action-types.module.code.ts"
 
@@ -13,5 +16,6 @@ export async function dispatchPostExitOutcome(
   if (event.action === "restart-now") {
     return handleRestartNow(event, pending.maintenance, state)
   }
+  if (event.action === "regret") return handleRegret(event, state)
   return "break"
 }

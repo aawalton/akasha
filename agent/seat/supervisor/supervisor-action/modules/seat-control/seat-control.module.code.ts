@@ -6,6 +6,7 @@ const CLEARED = {
   requestedAction: null,
   interruptMessage: null,
   restartArmedAt: null,
+  regrettedMessage: null,
 } as const
 
 export function controlOf(agentId: string): Record<string, unknown> | null {

@@ -12,6 +12,8 @@ import type { Filed } from "akasha/page/computed-property/computed-property.page
 
 const LINE_END = 10
 
+const INTERRUPTED = "[Request interrupted by user"
+
 export type RegretRefusal = "absent" | "mid-turn" | "overtaken" | "finished"
 
 export type RegretCut = { readonly cut: number } | { readonly refused: RegretRefusal }
@@ -33,6 +35,7 @@ function carries(line: string, messageId: string): boolean {
 }
 
 function saidByAnother(line: string, messageId: string): boolean {
+  if (line.includes(INTERRUPTED)) return false
   const shaped = shapedLine(line, everyone)
   if ("compacted" in shaped) return false
   return shaped.entries.some((one) => one.kind === "person" && one.message !== messageId)

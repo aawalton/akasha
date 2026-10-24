@@ -13,7 +13,7 @@ export const supervisorIterationOutcome = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "restart-now is the only action handled.",
+      statement: "restart-now and regret are the only actions handled.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -37,5 +37,5 @@ export const supervisorIterationOutcome = {
     },
   ],
   createdAt: "2026-09-03T18:04:03.733Z",
-  updatedAt: "2026-09-24T17:03:50.000Z",
+  updatedAt: "2026-10-24T22:00:07.098Z",
 } as const satisfies Module

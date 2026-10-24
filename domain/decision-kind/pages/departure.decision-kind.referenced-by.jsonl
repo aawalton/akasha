@@ -430,12 +430,14 @@
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-work-restart/modules/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.ts","id":"01a06838-5a84-7006-be45-2e23ffbbeeca"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-work-restart/modules/supervisor-wait-resume-decide/supervisor-wait-resume-decide.module.ts","id":"01a0686d-9d5e-7004-9169-e4d983fea9db"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-action/modules/regret-cut/regret-cut.module.ts","id":"01a16fe1-4cd9-7640-8946-6f919c2c593c"}
+{"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-action/modules/regret-taking/regret-taking.module.ts","id":"01a16fed-a2bb-7220-bd2a-f0ff91e78289"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-action/modules/seat-action/seat-action.module.ts","id":"01a069bd-bdc4-7370-ba29-d4c25882427e"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action-arm/supervisor-agent-action-arm.module.ts","id":"01a0683e-3dbe-7005-8bd3-faecca604871"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action-clear/supervisor-agent-action-clear.module.ts","id":"01a0683e-3dbe-7006-8802-c5cdbe0a8d6d"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action-types/supervisor-agent-action-types.module.ts","id":"01a0683e-3dbe-7007-9a41-f9ef0fcef896"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action/supervisor-agent-action.module.ts","id":"01a0683e-3dbe-7004-8bbe-59a26d9fc3ec"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-action/modules/supervisor-poll-agent-action/supervisor-poll-agent-action.module.ts","id":"01a0687b-aa81-7000-ada8-b1a18075e043"}
+{"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-action/pages/regret.supervisor-action.ts","id":"01a16fed-a2bb-7494-a344-1767989fdf1d"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-action/pages/restart-now.supervisor-action.ts","id":"01a05edb-0c02-70e7-95e4-6172d7896a80"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-action/pages/restart.supervisor-action.ts","id":"01a05edb-0c01-7f85-8584-5aee4a6704cb"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-action/pages/swap-gateway.supervisor-action.ts","id":"01a05ede-80cc-7266-b628-6fc355977249"}

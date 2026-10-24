@@ -80,6 +80,7 @@ export const seat = {
     "service-workstation/sweep-supervisor-logs",
     "text-property/claude-code-session-uuid",
     "text-property/interrupt-message",
+    "text-property/regretted-message",
     "relation-property/mode",
     "text-property/open-shells",
     "text-property/gateway-version",
@@ -413,5 +414,5 @@ export const seat = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-30T01:07:35.561Z",
-  updatedAt: "2026-10-24T21:41:17.179Z",
+  updatedAt: "2026-10-24T22:00:07.098Z",
 } as const satisfies PageType

@@ -15,8 +15,10 @@ export const supervisorAction = {
     "module/supervisor-agent-action-types",
     "module/supervisor-poll-agent-action",
     "module/regret-cut",
+    "module/regret-taking",
     "supervisor-action/restart",
     "supervisor-action/restart-now",
+    "supervisor-action/regret",
     "supervisor-action/swap-gateway",
   ],
   extends: ["page-type/domain"],
@@ -38,5 +40,5 @@ export const supervisorAction = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-01T21:10:58.834Z",
-  updatedAt: "2026-10-24T21:46:38.681Z",
+  updatedAt: "2026-10-24T22:00:07.098Z",
 } as const satisfies PageType

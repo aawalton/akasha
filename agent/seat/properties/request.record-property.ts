@@ -10,6 +10,7 @@ export const request = {
     { pageProperty: "relation-property/requested-action", required: true, many: false },
     { pageProperty: "text-property/interrupt-message", required: false, many: false },
     { pageProperty: "instant-property/restart-armed-at", required: false, many: false },
+    { pageProperty: "text-property/regretted-message", required: false, many: false },
   ],
   decisions: [
     {
@@ -23,5 +24,5 @@ export const request = {
   ],
   types: "ts",
   createdAt: "2026-08-30T19:36:58.507Z",
-  updatedAt: "2026-09-25T18:07:24.000Z",
+  updatedAt: "2026-10-24T22:00:07.098Z",
 } as const satisfies RecordProperty

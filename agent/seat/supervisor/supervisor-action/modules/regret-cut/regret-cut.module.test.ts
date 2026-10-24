@@ -85,6 +85,16 @@ test("a message a typed prompt came after is refused", () => {
   expect(regretCutIn(bytesOf(lines), MINE)).toEqual({ refused: "overtaken" })
 })
 
+test("an interruption ending the reply is the reply finishing rather than someone speaking", () => {
+  const stopped = JSON.stringify({
+    type: "user",
+    message: { content: [{ type: "text", text: "[Request interrupted by user]" }] },
+  })
+  expect(regretCutIn(bytesOf([ENDED, said(MINE), WORKING, stopped]), MINE)).toEqual({
+    refused: "finished",
+  })
+})
+
 test("a message the transcript holds nowhere is refused", () => {
   expect(regretCutIn(bytesOf([ENDED, said(OTHER), WORKING]), MINE)).toEqual({
     refused: "absent",

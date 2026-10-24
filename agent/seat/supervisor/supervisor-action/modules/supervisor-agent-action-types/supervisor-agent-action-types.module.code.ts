@@ -6,6 +6,7 @@ export type AgentActionEvent =
       restartArmedAt: number | null
     }
   | { action: "swap-gateway" }
+  | { action: "regret"; messageId: string; cut: number | null }
 
 export type PendingAgentAction = {
   event: AgentActionEvent

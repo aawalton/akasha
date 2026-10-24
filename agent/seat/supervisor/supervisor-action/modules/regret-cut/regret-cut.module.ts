@@ -35,6 +35,10 @@ export const regretCut = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An interruption ends the reply rather than saying anything after the message.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A message the transcript holds nowhere since its last compaction is refused.",
     },
     {
@@ -43,5 +47,5 @@ export const regretCut = {
     },
   ],
   createdAt: "2026-10-24T21:46:38.681Z",
-  updatedAt: "2026-10-24T21:46:38.681Z",
+  updatedAt: "2026-10-24T22:00:07.098Z",
 } as const satisfies Module

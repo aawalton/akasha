@@ -20,6 +20,7 @@ type Sent = {
 function pollOver(opts: {
   seat?: typeof COUPLE | null
   idle?: () => boolean
+  held?: () => boolean
   replies: (string | null)[]
   sent: Sent[]
   agent?: () => string | null
@@ -31,6 +32,7 @@ function pollOver(opts: {
     log: () => undefined,
     readSeat: () => (opts.seat === undefined ? COUPLE : opts.seat),
     readIdle: opts.idle ?? (() => true),
+    readHeld: opts.held ?? (() => false),
     readReply: () => {
       const id = opts.replies[Math.min(at, opts.replies.length - 1)] ?? null
       at += 1
@@ -108,6 +110,14 @@ test("a reply is not pushed while the turn is still going", async () => {
   idle = true
   await poll.run()
   expect(sent.map((one) => one.person)).toEqual(["alan", "jenny"])
+})
+
+test("a reply is not pushed while a message is being taken back", async () => {
+  const sent: Sent[] = []
+  const poll = pollOver({ held: () => true, replies: ["old", "partial"], sent })
+  await poll.run()
+  await poll.run()
+  expect(sent).toEqual([])
 })
 
 test("a supervisor with no agent pushes nothing", async () => {

@@ -9,7 +9,11 @@ export const supervisorAgentActionTypes = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "An action is restart or restart-now or swap-gateway.",
+      statement: "An action is restart or restart-now or swap-gateway or regret.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A regret names the message it takes back and, once found, where the cut falls.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -17,5 +21,5 @@ export const supervisorAgentActionTypes = {
     },
   ],
   createdAt: "2026-09-03T17:08:24.638Z",
-  updatedAt: "2026-09-22T20:22:39.000Z",
+  updatedAt: "2026-10-24T22:00:07.098Z",
 } as const satisfies Module

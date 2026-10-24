@@ -12,6 +12,7 @@
 {"propertySlug":"import","fileName":"seat-akasha-read.module.code.ts","path":"agent/seat/observation/seat-turn/seat-pending/modules/pending-maintaining/pending-maintaining.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-akasha-read.module.code.ts","path":"agent/seat/reviving/modules/seat-coming-back/seat-coming-back.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-akasha-read.module.code.ts","path":"agent/seat/session/modules/seat-transcript-rotation/seat-transcript-rotation.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-akasha-read.module.code.ts","path":"agent/seat/supervisor/supervisor-action/modules/regret-taking/regret-taking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-akasha-read.module.code.ts","path":"agent/seat/supervisor/supervisor-action/modules/seat-control/seat-control.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-akasha-read.module.code.ts","path":"command/pages/seat/transcript-follow/seat-transcript-follow.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-akasha-read.module.code.ts","path":"command/pages/seat/transcript-list/seat-transcript-list.command.code.ts","typed":false,"deferred":false}

@@ -8,6 +8,7 @@ import { personaIsDefault } from "akasha/agent/seat/declaration/modules/seat-res
 import { seatNameForAgent } from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
 import { workingOf } from "akasha/agent/seat/observation/seat-turn/modules/turn-working/turn-working.module.code.ts"
 import { AGENT_MODE_INTERACTIVE } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-seat-defaults/supervisor-seat-defaults.module.code.ts"
+import { repliesHeld } from "akasha/agent/seat/supervisor/supervisor-action/modules/regret-taking/regret-taking.module.code.ts"
 import type { HeartbeatPoll } from "akasha/agent/seat/supervisor/supervisor-timer/modules/supervisor-heartbeat/supervisor-heartbeat.module.code.ts"
 import { notify } from "akasha/alan/harness/notification-feed/modules/notifying/notifying.module.code.ts"
 import type { NotifyInput } from "akasha/alan/harness/notification-feed/modules/rows/notification-feed-rows.module.code.ts"
@@ -115,11 +116,13 @@ export function replyNotifyPoll(args: {
   readIdle?: (agentId: string) => boolean
   readReply?: (agentId: string) => Reply | null
   send?: (person: string, input: NotifyInput) => Promise<void>
+  readHeld?: () => boolean
 }): HeartbeatPoll {
   const readSeat = args.readSeat ?? seatOf
   const readIdle = args.readIdle ?? idleOf
   const readReply = args.readReply ?? replyOf
   const send = args.send ?? notify
+  const readHeld = args.readHeld ?? repliesHeld
   let seen: string | null | undefined
   let beatInFlight = false
 
@@ -150,7 +153,7 @@ export function replyNotifyPoll(args: {
         seen = readReply(agentId)?.id ?? null
         return
       }
-      if (!readIdle(agentId)) return
+      if (readHeld() || !readIdle(agentId)) return
       const reply = readReply(agentId)
       if (reply === null || reply.id === seen) return
       seen = reply.id

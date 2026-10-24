@@ -39,6 +39,7 @@ export const CARRIED: Readonly<Record<string, Carried>> = {
   requestedAction: { at: ["request", "action"], kind: "text" },
   interruptMessage: { at: ["request", "message"], kind: "text" },
   restartArmedAt: { at: ["request", "armedAt"], kind: "instant" },
+  regrettedMessage: { at: ["request", "regretted"], kind: "text" },
   "reexec-asked": { at: ["reExecAsk"], kind: "text", reaches: "re-exec-ask-state" },
   "needs-attention": { at: ["needsAttention"], kind: "boolean" },
 }
