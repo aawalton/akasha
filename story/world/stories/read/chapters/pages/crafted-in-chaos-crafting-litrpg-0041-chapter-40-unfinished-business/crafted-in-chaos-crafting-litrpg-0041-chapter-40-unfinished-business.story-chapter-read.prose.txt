@@ -1,0 +1,225 @@
+[Copper-banded Roundshield] = 4 Copper (Bar, 0.2-0.25m) + 4 Copper (Bar, 0.32-0.4m) + Copper (Bar, 0.1-0.15m) + 30 Copper (Rivet, 0.02-0.025m) + 3 Wood (Hard, 0.4-0.5m) + 2 Wood (0.3-0.4m) + 2 Leather (level 11+, 0.1-0.15m) + [Knife] (Copper) + [Hammer] (Copper) + [Workbench] (Any)
+
+Another completed recipe.
+
+Jay wiped the sweat away from his brow and gazed upon his latest creation.
+
+Torchlight danced against the small copper dome and cross of banded bars before ending on a circular frame. The mahogany foundation remained hard and coarse, ready to deflect any who would do him harm. Jaguar leather had been bolted in the back as a handle.
+
+Jay gripped his newest roundshield tight, appreciating its weight. After two days spent researching, gathering, and grinding, he had finally hit this latest milestone. Along with the most recent skill that would come with it, now that he’d reached level 6.
+
+He flipped open the Guide and frowned. Not quite as fun as the armor level.
+
+[Bash, Basic] – Strike your enemy with your shield, inflicting damage.
+
+[Break, Basic] – Strike your enemy with your shield, breaking their guard to leave them vulnerable to a follow-up attack.
+
+[Reflect] – React to an incoming ranged attack by deflecting the projectile back out. Does not mitigate damage inflicted.
+
+There were two other associated skills grayed out a few tiers down on the Skill tree, and a third that was missing completely along the same level. Thin lines ran from [Bash] and [Break] to these points, combined with his [Brace].
+
+Picking up “Investigate Skills” also hadn’t done a great job, and only revealed the skills beyond the first tier. [Parry] sat as the advancement beyond [Break] and focused on reactions to enemy attacks, and [Charge] let him select a target and knock them with his shield, similar to [Bash].
+
+Unlike armor skills, advanced weapon and shield skills combined that which could be gained early. Had Jay split apart instead of selecting [Track], he would have been able to choose something from this unknown tier. But that would have taken further research, which he did not want to invest in right now.
+
+Jay stroked his chin, considering this unknown. Assuming that the combined skills took elements from both, he had to consider which should be best to mix and match for the level that would come after, now that he was sticking with shields for longer still.
+
+Both [Bash] and [Break] functioned as an offensive ability, differing in how they affected the opponent. One inflicted raw damage, while the other made them more vulnerable. How would those be combined for with his [Brace]?
+
+Then there was [Reflect] to reconsider. This was a defensive power on its face, but by redirecting the attack to somewhere else, he’d be able to inflict damage back into his opponents. His ranged enemies had been minimal until now, but he’d only face more in the future.
+
+He pondered the thought further before making his decision, selecting [Break]. Relying on damage output from his shield or enemies would always be a bad idea compared to trusting in the tools he had on hand, and [Break] would give him the best opening to combine attacks.
+
+Armor. Shield. Sword next. Jay had gotten everything as strong as possible, short of capping out the final level of his hardwood sword. He studied his old weapon where it sat on a shelf. He’d never raised his infusion level behind +3 with it, and after days of scouting around his new base, he’d run out of monsters to slay. Between the E-Rank Expats and his friend, Kevin, everything challenging seemed to have been killed nearby. That meant he could either move further inland, or go to the one place he’d never finished looting.
+
+He stared out his home, where the trail of black smoke still rose onto the horizon. That cairn had contained a Wyrm that sent him into the pit of madness, and no one else had bothered to clear it yet.
+
+Jay clenched his fists.
+
+It was time to go back and finish what he’d started.
+
+* * *
+
+The corrupted cairn was identical to that which he’d seen before, with its magical energy leaking into the sky above, and nearby ground dried and cracked where the plants hadn’t rotted away. The rusted, metallic beams of the fire watch tower were just as gnarled as the first time, and the steel door remained fused with the terrain, now propped open for easy access.
+
+Just as I’d left it.
+
+Jay lowered his Bag ‘a Mats, willed out the mats needed for a workbench, and got prepared for the run. Prior to gaining his magical Bag, he’d been using the default leather backpack to handle all his needs. It was ideal for collecting cores and holding extra tools, but terrible for just about everything else. The total weight it could support was minimal, so unless the monster parts he’d looted were light and could be easily condensed, he’d been forced to leave most of what he’d killed behind for these longer runs.
+
+But the Bag ‘a Mats changed his dynamic in more ways than one. He’d dumped almost 1,000 kilograms of raw supplies into it yet hadn’t come anywhere close to its 10,000-kilogram transdimensional space.
+
+However, it couldn’t hold a single crafted item. That made his toolbelt that much more valuable, and he’d been forced to pick and choose what had to sit there, and what could be crafted on the fly.
+
+In this case, Jay once again strung some wood with coal and lit them on fire, using flint against dried leaves to get the ball rolling. When his torch was made, he thrust it into the cairn. It burned hot where it struck the ground, just at the edge of the stairs. He took a few steps inside and tossed another, this time down the corner.
+
+He repeated the trick, one after the next, advancing deeper into the rounded stairwell of this cairn under the cover of light. There was no way of knowing if more Wyrms were lying in wait in these dark halls, but Jay could mitigate the risk through added visibility, and with his workbench ready and an arsenal of torches on hand, he wouldn’t need to run through this cairn like a blind jackass. He could just keep pulling coal and wood from his Bag ‘a Mats, mass-producing torches, and light the way forth.
+
+It worked too. In less than ten minutes, Jay had given himself enough coverage to go from the entrance to the first level, where he’d fought the gargoyle before getting trapped in the Wyrm’s nightmare.
+
+He expended the last of his torches with a shiver down that hall, expanding his bubble of vision that much further. No way he’d go down there again.
+
+Jay returned to the surface and went back to torch manufacturing. Thank goodness I spent so much time on prep. At the rate he was moving, he’d reach the bottom of the stairs before the hour was up.
+
+“What’s going on here?” Desmond’s voice echoed out.
+
+The blood froze in his veins, once again reminded of how he’d gotten into that last mess. It couldn’t have happened again… Could it?
+
+Jay turned around.
+
+Desmond stood behind, his shaggy orange beard poking out from his painted face and giant axe in hand. But where he’d usually gone around bare-chested, now he wore fur armor with leather straps holding them together, with boots and gloves, and a giant belt running along the middle. His tattoos could still be seen where his arms and legs were exposed, but this might have been the most armor Jay had ever seen him wear.
+
+“Hello!?” Desmond called out. “Annwyn to Jay! You still with us, fam?”
+
+“That really you?”
+
+He scoffed. “Of course it’s me. What? Did you think another Wyrm got you already?”
+
+Jay squinted. “How would you know that?”
+
+“Because Naomi told me all about what happened, you cunt. Welcome to the club of the cursed, by the way.”
+
+Had he given Naomi the full story? He tried to think back to when he’d first wok–
+
+“Ah!” Jay winced as Desmond backhanded him. The knock sent him to the ground.
+
+Desmond grinned. “There. Real enough for you?”
+
+He rubbed his cheek. “I guess so.”
+
+“Good. Now tell me, what are you up to here? Wanting to have another go with the Wyrms?”
+
+“No. Just looking for better cores, and this was the closest place to search. What about you?”
+
+He shrugged. “Where there’s one Wyrm, there could be more, and you never know who might be wandering in here. Figured I might do everyone the favor and get them taken care of. Besides, Hurricane Levi has reared his head again, and now me friends are stuck across the channel until he moves on.”
+
+That D-Rank leviathan really wasn’t leaving them alone. It had been there the entire time Jay had, and made the process of traveling difficult for those E-Rank Expats above him. How much longer until someone dealt with it?
+
+“At least let me get another T-4,” Jay said. “I really want to upgrade my sword.”
+
+“Just follow along then and take the first one you see.”
+
+“Won’t that break Rule 5?”
+
+Desmond rolled his eyes. “Everyone with those fucking Rules. Why not just live a little, yeah?” He peered into the cairn and grit his teeth. “Tell you what, Jay. I’m going Wyrm-hunting, and if you want to walk behind, that’s on you.”
+
+He lowered his own backpack and started fiddling through. Another small iron hatchet came out. He pulled out a set of dyes from glass vials and ran his fingers inside, then began to paint more runes along the hatchet’s hilt, with matching ones delicately drawn on his gloves. With a soft murmur, the runes glowed bright.
+
+He pulled a flashlight next. It flickered to life, casting a wide beam into the cairn, despite the magical darkness.
+
+“Join or don’t,” Desmond said with a yawn. “Makes no difference to me.” He marched into the cairn.
+
+Jay gulped, tightened the straps on his Bag ‘a Mats, and tiptoed behind. Loot or not, it was worth sticking around to see how this would play out.
+
+“Really playing this one safe, eh?” Desmond asked as he walked down the stairs. “Not bad thinking.”
+
+“Thanks. Where’d you get that flashlight from, anyway?”
+
+“Same place you got those flares. These cairns are good like that. Even if you’re in a higher Rank, you never know what can be found in the cache. Water, MREs, medicine, cigarettes. If you’re really, really lucky, sometimes you get something truly brilliant like a revolver. Never seen one meself, but a guy managed to cause a whole lot of trouble by happening upon one, and he ended up losing it in a scrap with another Expat. But that’s modern tech for you. Nothing more deadly at our Rank, eh?”
+
+“What are the other islands like?” Jay deflected, the hairs rising on the back of his neck. He still hadn’t told anyone about the 9mm semi-automatic pistol he kept tucked in the small of his back, and he sure as hell wasn’t about to start after hearing that.
+
+Desmond descended another flight. “Tends to vary. Some have forests, others got deserts, a few with snowy mountains. That’s before the Rank too. Toughest I saw was a C at a distance, and boy, did that place look like a right ‘ole cunt to deal with.”
+
+Their Guides buzzed with the information shared, but neither paid it much mind. Now that Jay understood how Rule 5 violations varied in severity, he’d learned to only take stock when he was already drowning at night.
+
+Desmond suddenly perked his ears. “Bloody hell. How far you get in here again?”
+
+“Just the first level,” Jay said. “The Wyrm around the corner.”
+
+“Well, the whole place is still swarming with monsters.”
+
+“How can you tell?” It looked so dark and quiet.
+
+He tapped his ear, where a tattoo had been painted on. “I’d reckon there’s a few dozen left.”
+
+Jay gawked. “Those let you hear better too!?”
+
+Desmond chuckled. “You ain’t seen nothing yet, fam.”
+
+They descended another floor, with Jay holding his sword and shield tight, and his guide lighting the way with his flashlight. When they reached the next split, they heard the sound of ghouls moaning.
+
+Just like before… Had that nightmare been completely fake? He looked over his shoulder, but the path to the surface was as bright as ever.
+
+Desmond marched into the dark tunnel, and the flashlight graced the pair of ghouls hobbling forth, right where they’d been the first time. With another murmur and kiss to his hatchet, the metal burst into flame. He swiped down the ghouls with ease.
+
+But Jay glared over his shoulder, expecting more ghouls to come. The light dwindled as Desmond marched down the passage. More ghouls groaned, but he executed them without breaking a sweat. With the enemies downed, he hacked them apart for their monster cores.
+
+So it’s not entirely the same. Now that Jay had a better look, the walls were the same uniform design as the top floor, and this path didn’t end up back at the start. Jay closed the distance to his ally while he inspected another gap in the wall, with a darkness that could not be pierced, even by his flashlight.
+
+“Looks like this Seam closed off on its own,” Desmond said.
+
+“A what?” Jay asked.
+
+“The gap between here and the Nightrealm that lets Wyrms slip through. My guess is this cairn was formed around a cluster of ‘em. Gotta be careful with Seams too. The more monster and Expat cores pass through, the bigger they get. Next thing you know…” He blew into his fist and whooshed, letting cold mist blow out into the darkness.
+
+Jay cringed at the sight, letting Desmond stay between.
+
+“But don’t need to worry about that happening on its own,” his friend continued. “One would have to be a true nutter to let things get like that, and I’m saying that as a bit of a nutter…” He glanced over his shoulder. “Come on. Still got plenty more levels to go.”
+
+On and on, the two moved through the cairn, with Desmond using the power of his runes to slaughter everything in their path.
+
+He had so many tricks, too. One chant let him light the hatchet on fire, another gave him cold damage, and another fired shockwaves to knock his enemies back. The most mind-boggling one came from his gloves. He threw his hatchet straight into a spider as it scurried forth, only to flick his wrist a moment later, the hatchet teleporting back into his hand where he’d thrown it.
+
+This was his Cursed power in action. As Desmond explained, higher-Ranked Alchemy research created a cross-path to weapon and armor development that involved using specialized runes to infuse different magic-based skills. Normally, this would be impossible to reach for someone only in E-Rank, but he’d made a deal with a Wyrm to get access early.
+
+And like the rest of them, that deal had its cost. Jay’s [Forbidden Knowledge] would drive him insane unless it got completed, Naomi fought nightmares and vitality loss for using her magical smoke bombs, and Desmond was forever limited in his maximum sanity. Even if his Stat climbed up to max, he would only experience the world through the lens of a mind much lower.
+
+That, more than anything, seemed to drive him into these maddening depths…
+
+“Oy!” Desmond called out once they reached the bottom of the stairwell. “Seems we’ve come to our destination.”
+
+Jay studied the prize in front, sitting in an adjacent chamber. Just as he’d suspected, the cache sat at the bottom of this dungeon, highlighted by more of the alien symbols glowing around, despite the otherwise cold dark. He licked his lips, wondering what might be inside.
+
+“How much you taking?” Jay asked.
+
+“Nothing. This one’s yours.”
+
+He gaped. “Really?”
+
+“Yeah, fam.” He grinned, the darkness in his eyes. “Just have to defeat him first!”
+
+Desmond thrust Jay forth. Before he could wonder why, a cutlass slapped right in front of his face.
+
+He snapped his shield with a [Brace]. A snake-like maw opened in front, hissing in outrage. Jay rolled out of the way and peered from behind his roundshield.
+
+A reptile in the shape of a human stood in front, with thick green scales running along its arms and legs, and a spiked tail that curled back and forth. Razor-sharp talons dug into the cairn’s cement floor, its yellow beating eyes peered into his own, and a forked tongue salivated for the human prey before it. It gripped a worn cutlass in one hand, and a shield fashioned from a turtle’s shell in the other.
+
+“You got this Guardian, Jay,” Desmond said with a chuckle. “Piece of piss, mate!”
+
+“Wh–” But the lizardfolk monster unleashed a flurry of swings. Jay danced back a few paces, and Desmond laughed harder.
+
+“Come on. You wanted that better core, didn’t you? Well, there’s one right here.”
+
+So that was his plan. With Desmond clearing the rest of the cairn, Jay was facing the final boss at full strength, and because he was fighting alone, he’d get to keep the rewards without suffering the cost.
+
+Jay lunged forth with a grin. He [Slashed] his copper sword.
+
+…Only to have the attack easily deflected. As he watched his blade get knocked to the side, the lizardfolk launched a downward thrust of his own. It tore through his copperplated armor with ease. He screamed, blood welling from the fresh wound.
+
+“Did I mention this one’s level 23?” Desmond asked, his legs crossed as he flipped through the Guide.
+
+Seriously!? Jay tried again to [Slash] forth, only to fail miserably. Another counter chewed through his armor again, this time tearing into his thigh. The tail smacked him in the face a second later. His ears rang.
+
+Jay scrambled back a bit. He heaved in fresh air.
+
+This boss wasn’t going down easy…
+
+Name: Jay Reis (Copper Age)
+
+Vitality – ??/43Hunger – 69/72Thirst – 21/24Fatigue – 44/48Sanity – 93/100
+
+Main Crafts: Alchemy 1, Armor Crafting 2, Base Building 2, Cooking 1, Medicine 1, Tailoring 1, Tool Crafting 2, Weapon Crafting 2.Weapon Crafts: Axes 3, Bows 4, Clubs 3, Daggers 3, Spears 5, Swords 5.Armor Crafts: Heavy Armor 5, Light Armor 2, Medium Armor 6, Shields 6.
+
+Character Skills:[Forbidden Knowledge]
+
+Armor Skills: Heavy Armor: [Push], [Stampede]Medium Armor: [Recover], [Leap], [Waterform]Light Armor: [Dash]Shield: [Brace], [Track], [Break]
+
+Weapon Skills: Axes: [Chop]Bows: [Sharpshooter], [Longshot]Clubs: [Bash]Daggers: [Slice]Spears: [Thrust], [Sweep]Swords: [Power Attack], [Slash]
+
+Cursed Items:[Bag ‘a Mats]
+
+Armor:[Copperplate Hat][Copperplate Coat][Copperplate Leggings][Copperplate Shoes][Copperplate Gloves][Copper-banded Roundshield]
+
+Weapons:[Copper Sword] (Sharpened+2), (Hardened), (Reinforced+1), (Stable)[Wooden Bow+3] (Reinforced+2)[Basic Leather Quiver]: Contains 20 [Flinthead Arrows][9mm Semi-Automatic Pistol] (Accurate+2), (Quick): Contains 4 [9mm Cartridge] (JHP)
+
+Tools:[Copper Knife][Copper Axe][Copper Hammer][Copper Pickaxe]

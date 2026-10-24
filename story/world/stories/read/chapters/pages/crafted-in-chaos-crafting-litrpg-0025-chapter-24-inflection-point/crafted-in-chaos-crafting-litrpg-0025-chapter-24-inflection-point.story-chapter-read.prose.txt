@@ -1,0 +1,205 @@
+[Hardwood Spike] = Wood (Hard, 0.75-2.3m) + [Knife] (Flint)
+
+Long rays spread across the island as the sun made its descent.
+
+Jay continued to prepare, hacking away at the hardwood he’d collected. Mahogany trees were harder to come by, but this smaller elm happened to grow in a copse near base, and would provide everything Jay needed.
+
+He brought the blocks of wood to the workbench, with the rest of the materials nearby. Flint, hemp, and hardwood. His hands moved methodically as he wove the pieces into place. The recipe was almost identical to crafting spears and only varied in size and shape.
+
+The crude javelins were ready. An easy, cheap alternative to spears, but quicker and easier to throw.
+
+Now, to decide what to do with the cores.
+
+Jay ran through the calculation of what to do next. By the logic presented to him, he gained a fresh skill every other level, and only gained a level when he crafted a weapon of a higher tier, or by infusing a core. That meant that wherever his +3 core went next would earn him at least one skill, possibly more if he played his cards right.
+
+But where? He consulted his complete list.
+
+Weapon Crafts: Axes 0, Bows 3, Clubs 0, Daggers 0, Spears 5, Swords 0.
+
+Armor Crafts: Heavy Armor 3, Light Armor 2, Shields 2, Medium Armor 0.
+
+After spending days figuring out the options, he’d finally unlocked the available weapon Crafting trees by crafting their most basic weapons and armor. Axes, Clubs, Daggers, Spears, and Swords were the five choices for melee weapons, and Bows stood as the sole ranged alternative.
+
+There was more to it, no doubt. Naomi had explained that each weapon held a Sub-Craft with their own associated levels and skills, but Jay assumed this wouldn’t happen until much later.
+
+Right now, he need only win the night.
+
+That left only a few realistic options: Bows, Heavy Armor, or Shields. He lacked the materials and time to craft an entire set of light armor, which meant this fight would have to take heavy. That also meant he could either buff his armor tremendously, give his bow another skill, or work on shields again.
+
+Jay considered the possibilities before making his selection, quickly dismantling part of the gear before infusing the core within, his hammer clattering.
+
+Level Up! Shields 2 → 4
+
+Crafted shields have reduced weight.
+
+New skill unlocked.
+
+New recipes unlocked.
+
+Recipes, too? That would have to wait. He went for the skills instead.
+
+[Bash, Basic] – Strike your enemy with your shield, inflicting damage.
+
+[Track, Stance] – Enter a state of defensive awareness, tracking all incoming enemy attacks, and blocking them with increased reflexes.
+
+[Break, Basic] – Strike your enemy with your shield, breaking their guard to leave them vulnerable to a follow-up attack.
+
+[Reflect] – React to an incoming ranged attack by deflecting the projectile back out. Does not mitigate damage inflicted.
+
+For a moment, Jay was disappointed with the next step beyond [Brace], but then he considered the extra synergy. Especially with his heavy armor, he would have to rely on tanking for the immediate future, and if he ever changed to a different type, then his defensive abilities would always be built around shields. Once again, Natura was the main enemy to consider, and none of its monsters had used tactics that necessitated these other skills, including the [Reflect] he’d gained as a standalone option.
+
+He selected [Track].
+
+What else? Jay had another moment of inspiration and went back to crafting. He moved quickly to make a second scaled roundshield, this time infusing it with a +2 core. No more being screwed mid-fight because the first one broke.
+
+The other 2s and 1s worked their way into his armor and tools. With access to javelins, the bone darts became redundant, and by stacking his armor so heavily, he’d be able to [Push] like nobody’s business. Even if he couldn’t outrun his enemies, they wouldn’t be able to trap him either.
+
+The 1s all ended up either in his tools or a set of backup spears, should he wish to use something against weaker enemies without losing durability on his main killer.
+
+Spears, javelins, shields, a bow, and a full set of heavy armor. This weight would have been too much had he still been on Earth, but the vitality bonus from the komodo meat still held firm. Now, he could move almost at normal speed, despite so much encumbrance.
+
+Only his trump card remained. Jay tucked the pistol he’d looted into leggings. Should his +4 spear reach its limit, he would have something available to destroy even the top of the food chain.
+
+Jay would not lose this battle.
+
+* * *
+
+Twilight hung in the sky above, interposed by twinkling, incandescent stars. Darkness gathered in the jungle beneath. A red planet rose to watch the blood harvest down.
+
+And Jay huddled on the ridge overlooking his base, with torches burning nearby. Unlike the last major battle, he did not waste much time on them, instead placing them every hundred yards in the trees to act as an advanced warning system. With the aid of the stars above and a cleared line of brush, he’d be able to see whatever would come his way.
+
+This was it. There was no way out of standing his ground. Though most of his Stats were maxed, he had a meager three points of fatigue left separating him from sudden death.
+
+The rules were clear. If any of them reached zero, he would be no more.
+
+Bone-chilling cries came soon after. Those hoarse calls combined to form a choir of malevolence as the monsters rose in the shadows of the jungle. Pale green eyes soon whisked into existence, fell magic propelling them forth. There were so many more coming together… More than he’d ever seen before!
+
+He raised his waterskin filled with lifeberry tea and paused, remembering Desmond’s words.
+
+You know what? Let them come. Jay would destroy whatever came his way, and the best defense was a good offense. Now wasn’t the time to have a cool head. Not when he was so damned tired of letting these assholes bully him around!
+
+He holstered the waterskin and grinned, his own lust for revenge rising.
+
+Natura’s monsters began to march forth, their darkened silhouettes highlighted against the forward torch’s radiance. Jay could make out the familiar shapes of vined coyotes, mudchimps, clay gorillas… He looked from side-to-side, hoping to find the leading bear.
+
+But then his enemies made their own move. With a bark, a coyote dove into one of the torches. The light vanished. Another fell seconds later, and another after that. Jay watched powerlessly as the extra vision he had meticulously placed all disappeared.
+
+Leaving nothing but a wall of black dotted by hundreds of pale green candles, slowly growing in size as they drew near.
+
+Jay grit his teeth. He could not focus on them all at once, nor could he identify which were the major threats, and which were mere distractions. His eyes traced the growing crowd to no avail.
+
+The mob closed in, and Jay raised his roundshield. There’d never be a better time to test this skill than now.
+
+He entered [Trace] as the first monsters broke through the brush. His shield rocked against a flurry of fangs and claws, bounding from one to the next with lightning speed. Rocks entered the edge of his vision as invisible enemies launched a volley, but the shield deflected them all with ease. His arm burned from so many sudden attacks at once, but the damage was minimal against his +3 roundshield with the extra hardwood reinforcement.
+
+Jay grinned, then countered with a [Push]. A crowd of vined coyotes and mudchimps became exposed by the second skill, and he quickly [Swept]. Ichor rained from above, showering his armor in the blood of his enemies.
+
+Another rock roared through the air. Jay winced as it struck his shoulder. A second followed seconds later, and he blocked a beat too slow.
+
+So, it seemed that [Trace] only gave him a small window of time with enhanced reflexes. He would not be able to use it flippantly.
+
+Jay rushed to the side instead, shield raised. More of the weaker monsters moved under the light of the stars, and he cut them down with ease.
+
+To think how hard it had been to kill these bastards just a few days back. Now, he could destroy many in a single blow!
+
+But the pressure of the mob was more than he could handle. Clay gorillas and verdant wolves rushed behind their weaker brethren, and Jay could not target them all at once, even with his [Sweep]. Many waited for gaps between his attacks to make their move, forcing him to use [Push] to keep from getting trapped. Despite his extra strength, their numbers were too great to win head-on.
+
+Time for plan B. Jay suddenly turned on his heels, holstered his shield, and ran the other way.
+
+There was a momentary pause as the monsters blinked in confusion, but they were quick to pounce. Jay [Pushed] his way to the edge of the cliff without incident.
+
+There, a rope of woven hemp stretched from the top of the ridge to the valley beneath, where he had slain the komodo dragon. He gripped his spear with two hands and threw the shaft over the rope, then leapt up. Gravity worked in his favor as his improvised zip-line carried him to safety. His body rocked the ground on impact, and he quickly cut the rope.
+
+An army of green-eyed shadows watched from the top of the cliff, dumbfounded by the change in tactics. But then the granite bear rose to its hind legs and roared, and the other monsters howled with it, ready for the chase that would follow. Natura adapted to every move, after all, so its manifestations were more than prepared to hunt him down for the rest of the night.
+
+If only those poor bastards knew. Jay had adapted to them as well.
+
+With the immediate brawl over, the monsters would be forced to split apart to track him down. They seemed to always have a general idea of his current location, but so long as Jay didn’t stay stationary for more than a few minutes, the monsters had no choice but to seek him out by vision. Just like the first night, this was the game of cat and mouse, where Jay ran while the monsters chased.
+
+Also like the first night, he would not do so again tonight. In the valley he’d spent days growing accustomed to, Natura’s scouting parties quickly learned an unfortunate truth.
+
+Jay wasn’t trapped there with them. They were trapped with him.
+
+Waves of mudchimps, vined coyotes, and wooden owls were sliced down before they saw him coming. Others fell victim to random hardwood spike traps he had laid. And even the more difficult clay gorillas and verdant wolves could not hold their own when he chose the moment to engage. He expended javelins like nobody’s business, but they were cheap enough to reproduce. He’d even hidden a couple workbenches to give him much-needed repairs.
+
+Time wore on and Jay fell to his last two points in fatigue, but he guzzled down his cocoa tea to give him that final boost. Two hours was more than enough time to see this through.
+
+Perhaps it was the decrease in warning calls or the sheer veracity that the bodies built, but Natura changed tactics and consolidated all its forces into one last vanguard, with the granite bear in the middle, ready for a final brawl.
+
+Jay strolled into the open, his best gear at hand. There was no reason to drag this out anymore, not when he was winning so handily.
+
+The bear rose on its hind legs, a terror to behold. Jay could feel the raw strength exuded from its aura, and his body quivered without control. Had it gotten more powerful since the last time he fought? It certainly felt that way. The stone cheeks of his mortal enemy curled into a grin, ready to smite the pitiful creature in front.
+
+And Jay reached into his leggings, drew out his 9mm semi-automatic pistol, and aimed for its head.
+
+Night turned to day the second he pulled the trigger, as if a miniature sun appeared at the tip of the barrel. The supernova coalesced into a line before darting forth at an incomprehensible speed. Heat waves resonated out where the ball of death pierced through the air and into the granite bear. Like a world-ending meteor striking a tectonic plate, the bear’s skull vanished under an explosion of incalculable proportions, spreading fissures into the rest of its torso. Lines of molten stone clung to the rim of its shoulder, but no evidence of its head still remained, the bullet disappearing into the night sky beyond.
+
+The dead bear dropped, and its friends trembled in shock.
+
+“That’s right!” Jay roared, his zeal rising and body still shuddering. “This is my boomstick! Anyone else want a piece of me!?”
+
+The wall of weaker monsters clattered their teeth. None of them were ready for the boss fight to go like this. Jay laughed like a maniac, convinced that the battle was finished.
+
+It wasn’t.
+
+Snap.
+
+He didn’t see the new enemy hit him. It darted from the shadows at his flank faster than he’d expected. Jay only felt the sudden impact send him flying, and the lingering dread that followed. By the time he could recover his senses, he’d already struck the ground, well over fifty feet away. He coughed for air, only to vomit out a mouthful of blood.
+
+And in front, the source of his angst stood tall. Though this monster was shaped like a moose, it stood more than twice the size, with a tangle of thorn-laced horns jutting from its head. Magical green fissures ran along its wooden body, all the way down to hooves made of polished onyx. Wisps of fire flared out from its moss-like eyes, and smoke erupted from its mouth.
+
+Once again, Jay was forced to acknowledge an unfortunate truth.
+
+Natura can only grow with time. It does not recede.
+
+All that power-leveling he performed over the course of the day had its cost, and that was the monstrosity in front. By looting that cairn and infusing all those cores into his gear, Natura had responded by creating an even more powerful beast, kept in reserve while Jay focused on the weaker bear beside. His body continued to quake against its overwhelming aura. Everything else was a pittance against this new enemy.
+
+Jay reached for his pistol, only to realize it was not there. Did he seriously drop it when he got hit!? He looked around the battlefield for a clue, to no avail.
+
+The moose stamped its hoof into the dust, preparing to dash forth. Jay raised his shield and grit his teeth. He didn’t need the gun to win this fight. He’d beat this asshole with his own two hands.
+
+The moose charged forth, and Jay did the same.
+
+It was another brutal fight. Between the moose and its surviving friends, his life was brought back to a razor’s edge. He lost his main shield before the end, expended all his javelins, lost half his armor… Even his spear cracked and wheezed against the indomitable strength of the moose’s hardwood body.
+
+But he managed to keep up, every step of the way. Dodging the attacks, leveraging his skills, forcing enemies into traps. He squeezed every inch of life out of the tools he’d meticulously cultivated over the course of the week, refusing to surrender even a fraction of an inch against this enemy.
+
+Because that’s what it meant to win. Not through strength alone, or an overpowered weapon, or by a rare stroke of luck. It could only be through knowledge. Through skill. Through grit.
+
+And in the end, Jay found himself standing atop this battlefield alone. As the moose monster breathed its last, he did not fall to his knees, nor pass out from pain. He limped to the dead corpse of his enemy and plopped his foot atop. Another stepping stool as he carved a foothold for himself in this new world.
+
+Jay clenched a fist, ignoring the wheeze from his bruised chest.
+
+He’d won! The god of this world had sent its absolute best, but it hadn’t been enough. Why? Because regardless of the hand dealt to him, he’d always find the way to make it work. It didn’t matter what Natura sent for him, or how long he’d be stuck on Annwyn.
+
+He’d craft his own path, no matter the cost.
+
+He guffawed, loud and hard. His adrenaline was pumping buckets, knowing he’d made it through, and he almost regretted that he’d have to soon sleep the night away. If anything, he wanted to prowl the jungle some more just because he knew he could. Was this what it felt like to be the biggest fish in the ocean?
+
+The sky suddenly roared above. Jay shook in place, eyes fixed as an anomaly took form.
+
+A series of bright runic shapes sprouted from nothing, cast into a repeating circle, perpendicular to the ground. Though the size was impossible to make out from his vantage, it seemed to hover above the mountain’s tallest peak, perhaps hundreds of yards in diameter.
+
+The runic light grew in luminosity. Stars and auroras blurred along its rim, as though reality itself bent to the floating light’s magic. The very earth seemed to quake as a deafening boom erupted through the newly forged hole in the sky. It burst deep and low, like a trumpet announcing the end of the world.
+
+Thrum. Thrum. Thrum.
+
+And Jay gasped as a new party entered the arena. He was so pitifully small in comparison.
+
+He blinked to prove this vision was real. “What!?”
+
+Name: Jay Reis (Primal Age)
+
+Vitality – 5/39 (Wounded+6)Hunger – 60/72 Thirst – 12/24 Fatigue – 2/8 (Poorly Rested+4, Stimmed)Sanity – 65/100
+
+Main Crafts: Armor Crafting 1, Base Building 1, Cooking 0, Medicine 0, Tailoring 1, Tool Crafting 1, Weapon Crafting 2.Weapon Crafts: Axes 0, Bows 3, Clubs 0, Daggers 0, Spears 5, Swords 0.Armor Crafts: Heavy Armor 3, Light Armor 2, Medium Armor 0, Shields 4.
+
+Armor Skills: Heavy Armor: [Push]Light Armor: [Dash]Shield: [Brace], [Track]
+
+Weapon Skills: Bows: [Sharpshooter]Spears: [Thrust], [Sweep]
+
+Armor:[Lizardscale Leggings+2] (Hardened+1)[Lizardscale Gauntlets+1] (Hardened+1)[Scaled Roundshield+2] (Hardened+1)
+
+Weapons:[Flint Spear+4] (Reinforced), (Hardened)[Flint Spear+2][Wooden Bow+2][Crude Quiver]: Contains 7 [Flinthead Arrows][Crude Javelin Bag]: Empty[9mm Semi-Automatic Pistol] (Accurate+2), (Quick): Contains 9 [9mm Cartridge] (JHP)
+
+Tools:[Flint Knife+1][Stone Axe+1][Stone Hammer+1]

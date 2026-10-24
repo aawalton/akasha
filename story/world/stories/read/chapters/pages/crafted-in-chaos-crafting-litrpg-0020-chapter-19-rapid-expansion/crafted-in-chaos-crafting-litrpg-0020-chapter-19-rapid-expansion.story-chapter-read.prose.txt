@@ -1,0 +1,165 @@
+[Crude Sunhat] = 30 Sticks (Any, 0.15-0.16m) + 4 Sticks (Any, 0.17-0.2m) + 50 Twine (Any, 0.08-0.12m) + Leaves (Any, 0.3-0.5kg) + [Workbench] (Any)
+
+Jay breathed easy, the air once again cool to the touch.
+
+Finally. He’d been putting off this craft for days because of the effort involved in collecting so much twine to tie it all together, but the result of wearing this sunhat was immediate. For the first time in more than a week, he could walk directly beneath the sun without feeling the oppressive sting of the “Sweltering” Condition it inflicted. That let him travel further without draining his waterskin, and he could work for longer stretches under the sun without burning out.
+
+Unfortunately, this used up a helmet slot that could have otherwise been more fur armor, but Jay would take the wins he could get. Especially after the day he’d had.
+
+He studied the dead body that still covered the majority of the entrance. That level 18 komodo dragon might have died from a single hit from his landslide trap, but that was only through the overwhelming strength of rocks aided by gravity. His weapons could hardly make a dent against its toughened shell, and his tools were almost useless altogether. In the end, Jay had to use [Thrust] on a reinforced flint spear+2, then replace the monster core whenever it broke. No shortage of time was spent inside its body.
+
+But he got it. Jay stared at the level 18 monster core and grinned. He hadn’t noticed with the first few levels, but the inner surface of the monster core grew in intensity with each level up. The lowest levels were practically opaque, with only the tiniest hint of energy swirling around, but this one looked like a cloud of lilac essence bounding inside its iridescent shell.
+
+He went to work, going through the familiar motions. First, cutting the wooden shaft in place, then sharpening the flint head for maximum effect, and finally, placing the +4 monster core beneath a line of hemp and hammering it in place. Magical essence swirled through the air as he whacked it into the core.
+
+Buzz.
+
+Level Up! Spears 3 → 5
+
+New Skill available.
+
+Crafted spears now have increased durability.
+
+New recipes available.
+
+Level Up! Weapon Crafting 1 → 2
+
+Weapon crafting speed increased.
+
+Research unlocked.
+
+New recipe available.
+
+Congratulations! You have unlocked your first [Research Table], Expatriate. Use this Crafting Station to unlock future recipes.
+
+So much new information. Jay quickly skimmed to the research table and found another mix of wood, bone, and hemp, each set with fairly precise dimensions. His eyes crossed each other as he tried to visualize the final product, and he rubbed his head in pain. Today’s fatigue was too much.
+
+Strangely, it seemed he’d gained level-ups for both his Spear crafting as well as his main Weapon Crafting. Was that from leveling up so many times at once, or for hitting some benchmark? He’d have to experiment later.
+
+In the meantime, he skipped back to the skills to see what had been unlocked.
+
+[Piercing Storm] – Thrust your spear many times in rapid succession to inflict multiple attacks at reduced accuracy.
+
+[Sweep, Basic] – Swing your spearhead into a wide arc, inflicting area damage to any within range.
+
+[Throw, Basic] – Launch your weapon, maximizing its damage output in a single ranged hit.
+
+[Feint] – Fake an attack to bait an enemy’s counter, leaving them vulnerable to a follow-up.
+
+Interesting. Though Jay had a second chance to get [Sweep] or [Throw], he’d also unlocked a phase beyond [Thrust] that launched multiple attacks, aptly labeled [Piercing Storm], and another ability to [Feint]. However, that seemed pointless against the majority of enemies he faced who focused on offense over defense. Much like the Crafting tree, the skill tree worked based on prior unlocks to ascend to the next level.
+
+He considered how this upgraded skill might play out. Would it function as a massive power attack at the cost of movement speed? Or would he be able to target many different sources at once? The language wasn’t exactly straightforward.
+
+His finger hovered over [Piercing Storm], but he held paused in place. Up until this moment, Jay’s biggest disadvantage during fights was his ability to hit more enemies than one. Though he’d come across monsters that were stronger than him, just infusing a better core and using a well-placed [Thrust] had been more than enough to equalize those fights.
+
+Why should he double down on that when his normal attacks worked fine as is? If he planned to kill off Natura’s army, it would require him to hit several enemies at once. [Piercing Storm] also lacked the basic tag. Did that mean it could not be upgraded later?
+
+He tapped [Sweep] skill instead, and the rest of the tree greyed out. His latest spear felt smooth to the touch as he gripped its edge. Was the shaft always this intense?
+
+Jay held the flint spear tight and [Swept]. The air itself thrummed as the tip sliced through. He went again, this time aiming lower. The spear’s edge cleaved through a cluster of reeds. A hundred blades of grass twirled with the wind, even as their stems remained stationary.
+
+So, like [Thrust], I can [Sweep] with precision, Jay considered. Not only could he judge the relative distance to perfection with this skill, but the motion proved just as flawless. There was a clear limit to how deep he could cut into an enemy, but his +4 modifier would make short work of anything weaker, even if they came after him all at once.
+
+He pointed at another tree next and [Thrust]. Thunder crackled as it struck the trunk, and a mix of bark and sawdust burst out like shrapnel. The edge of his spear smoked where it had cut into the tree, but the hilt vibrated from the shock, and cracked in several spots.
+
+It wasn’t alone. His muscles twitched from the extra strain, as if the tree had punched back when he struck it.
+
+Jay considered the effect and went to his workbench. He placed the spear onto the bench and watched the ink flare up.
+
+Durability – Medium
+
+Repairs needed: 3 Twine (Any, 0.3-0.35m) + 2 Wood (Any, 0.1-0.15m) + [Knife] (Any)
+
+From a single hit? He quickly gathered materials and repaired the spear to full. The cracked wood had to be trimmed out and replaced with fresh strips, followed by once again being tied together with twine. This would not have been anywhere near as strong back on Earth, but Annwyn’s rules only seemed to care about matching the recipe’s demands. He’d made similar repairs before, only for the materials to merge together and the weapon to return to full strength.
+
+Time to experiment again. Though Jay could [Thrust] through mounds of dirt and bushes without incident, once he applied his skill against another thick tree, he winced as the same counter-force reverberated back. The workbench only confirmed what he’d already guessed. The same loss of durability had been inflicted from that heavier strike.
+
+That confirmed it. Jay had used his weapons against trees and rocks before as target practice, and suffered the extra durability loss as a result. This was different, however. It was like his spear couldn’t handle its own strength.
+
+Jay stroked his chin and wondered how this obstacle could be surpassed. Would he be able to apply higher tiers of twine to raise his reinforced level? Perhaps new materials were needed altogether?
+
+Or maybe spears just weren’t meant to hack through trees like chainsaws, and he was merely seeing the counter-effect. This would certainly make his stone axe obsolete were he to ever invest any time with it…
+
+A wave of fatigue washed through Jay’s body. He stumbled to his knees, his legs shuddering to support the weight of itself. No one needed to check his Stats to see that his time was up for the day. His cocoa tea’s boost had just run out, and his fatigue was inches away from zero.
+
+Jay curled up next to his workbench, his eyes heavy. Oh, how he wished he had more time to experiment, but until he defeated Natura’s nighttime army, there were only so many hours in the day to play with.
+
+Maybe tonight, he told himself. Maybe the strength of this spear will be enough…
+
+* * *
+
+It wasn’t.
+
+That much Jay realized as he bolted away from the horde, the granite bear leading the charge with a roar. Though green-tinted ichor flowed from the bear’s cheek where the [Thrust] struck it, it had recoiled at the last moment, minimizing damage. The counter-force had been more than enough to shatter his weapons after only a few hits, however, and Jay was only fortunate enough to snatch the level 18 monster core before it could be lost forever.
+
+Now, he was once again sprinting through the woods as his enemies closed in, and he couldn’t even do that quickly enough. After recognizing the strength of the komodo’s flesh, he hacked it up and turned it into “Lizardscale Armor,” but because this was classified as heavy armor, he lost his passive speed boost, and only gained a single level that buffed durability. Well, that and a “Hardened+1” boost applied to each piece of armor that further reduced damage. But when he couldn’t run away quickly enough, the attacks coming in were constant.
+
+Oh, how Jay regretted so many of the decisions he had made.
+
+A pair of vined coyotes cut him off. Their teeth quivered as they growled, intent on stopping him once and for all.
+
+[Sweep].
+
+A pair of severed heads tumbled into the mud where his backup spear sliced through. Jay jumped between their falling bodies and raced forth.
+
+At least some of his preparations paid off. As luck would have it, Jay had happened upon another level 9 monster on his way to his fighting ground for the evening, and managed to infuse a second backup spear with +2 strength. He hadn’t had enough time to reinforce it with hemp, but after losing his +4 spear, this made for a suitable enough replacement.
+
+Enough to escape with his life, anyway.
+
+He glanced over his shoulder and watched the bear bounding forth, its magical green eyes burning with fury. No, his dinky backup spear would not be enough to beat that.
+
+A clay gorilla moved to intercept next. Jay tried to move past, but his tired legs were misdirected. He bounded straight into the beast, only to tumble to the ground seconds later. Others closed in as he writhed on the ground. Only with another [Sweep] did he buy himself time. Ichor splattered about where the spear crunched through.
+
+And Jay cartwheeled into another sprint, ignoring the growing angst in his knees. By his count, he’d just about expended his skill energy without taking a break, and could not afford to be trapped again. He bounded through the trees, hoping beyond hope that he could escape again.
+
+How much more could Jay keep playing this game? With each passing night, his odds of survival became ever tighter. Jay had hoped that by resting in a bed alone, he would be able to remove the “Poorly Rested” Affliction, but the truth was that it only kept growing with time. Daytime sleep never cleared the Affliction, after all.
+
+He also still had to spend so much time hunting, collecting, and crafting, lest his other Stats fall too low. But by ignoring his fatigue for this long in the hopes that he could brute force daylight, he was up to Poorly Rested+3, and had only sixteen hours of max fatigue left in the pool. Another two days, and it was over.
+
+That said nothing for his other fumbling points. Though the komodo dragon meat had boosted his vitality into the high thirties and he could move with a speed and strength that bordered inhuman now, that meat was already rotting away back at his base because he lacked the drying rack space to handle it all. Most of it would have to be tossed by the end of the next day. Unless he could hunt more monsters of similar strength consistently, this benefit would only drop down with time.
+
+But doing so also would make his life harder. Jay was just about near the cap for his crude tourniquets, lifeberry tea, and cocoa tea. Once he surpassed the forty vitality mark, he’d have to make upgraded versions that used more mats for the same benefit.
+
+Couldn’t he get a win already?
+
+Jay turned a corner, and his heart sank further. A giant stone cliff rose in front, its form overgrown with vines. When had that gotten there?
+
+The manifestations shrieked behind him, and Jay pushed through his growing weakness. With all the strength he could muster, he began to scale the vines. The hoarse barks of vined coyotes and verdant wolves echoed behind.
+
+Jay pressed on, knowing how little time he’d have. The rest of the cliff face quaked as a group of mudchimps scaled in pursuit, choosing their own vines to climb. Desperately, Jay pulled his stone axe from his cargo shorts and swung to each side. The mudchimps shrilled as they tumbled below.
+
+But one closed this distance. Jay winced as the bastard chomped against his shoulder. He tried to counter, but hitting an enemy on his back was hard enough in the light of day. Doing so while hanging with one hand was another matter entirely. Within moments of engaging, his lizardscale gloves were cracked and his stone axe tumbled below.
+
+Jay slipped another inch, almost falling altogether. Only through the strength of his armor did he not lose his grip completely. His eyes rolled low however, where the rest of the horde waited, mouths salivating for the prize they would soon claim. The mudchimp continued its assault.
+
+Lost, tired, and impassioned, Jay refused to let himself fall. He couldn’t! Not here. Not against this weak enemy. Not after making it this far…
+
+He bellowed through the pain and shoved back. The mudchimp slipped from the sudden counter and fell, only to catch itself before reaching the ground. It quickly squirmed back up, intent on regaining its advantage.
+
+But Jay would not let it. He once again pushed with all his might, floundering over the edge of the rim. By the time the mudchimp reached the top, he had his spear ready.
+
+[Thrust]. Pale green eyes dimmed, and his enemy fell.
+
+Jay scrambled to his feet and ran away again. He might have escaped immediate death, but there would be plenty more that he would not be able to defeat, and plenty of hours remained until sunrise.
+
+Jay groaned, recognizing the futility of it all. This was not sustainable. Even if he escaped tonight, it was only a matter of time before he’d be caught again. He could only engage in this fight under these terms for so long.
+
+There was no way out of it. Jay wouldn’t be able to bumble to the solution on his own. He needed more information.
+
+He needed to get help of his own.
+
+Name: Jay Reis (Primal Age)
+
+Vitality – 14/34 (Wounded+3)Hunger – 69/72 Thirst – 14/24Fatigue – 13/16 (Poorly Rested+3)Sanity – 72/100
+
+Main Crafts: Armor Crafting 1, Base Building 1, Cooking 0, Medicine 0, Tailoring 1, Tool Crafting 1, Weapon Crafting 2.Weapon Crafts: Axes 0, Bows 3, Spears 5.Armor Crafts: Heavy Armor 2, Light Armor 2, Medium Armor 0, Shields 2.
+
+Armor Skills: Heavy Armor: [Push]Light Armor: [Dash]Shield: [Brace]
+
+Weapon Skills: Bows: [Sharpshooter]Spears: [Thrust], [Sweep]
+
+Armor:[Lizardscale Helmet] (Hardened+1)[Lizardscale Chestpiece] (Hardened+1)[Lizardscale Leggings] (Hardened+1)[Lizardscale Boots] (Hardened+1)[Lizardscale Gauntlets] (Hardened+1)
+
+Weapons:[Flint Spear+2][Bone Dart Pouch+1]: Contains 15 [Bone Darts] (Poisoned)[Wooden Bow+2][Crude Quiver]: Contains 20 [Flinthead Arrows]
+
+Tools:[Flint Knife][Stone Axe][Stone Hammer]

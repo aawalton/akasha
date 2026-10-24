@@ -1,0 +1,227 @@
+[Hide Roundshield] = Hide (Any, 0.75-0.9m) + Wood (Any, 0.75-0.9m) + 10 Bone (Any, 0.1-0.15kg) + 4 Twine (Hemp, 0.15-0.2m) + [Hammer] (Any) + [Workbench] (Any)
+
+The sun began its final descent, and Jay braced for impact.
+
+He hadn’t had enough time to build a complex defense for this new base. Throwing up so many walls had taken hours the day before, and he had other uses for all the felled logs. Even with his enhanced crafting speed and strength, that building time was better spent improving his weapons and armor, or throwing up more traps.
+
+Jay gripped his flint spear. The core’s +1 modifier let it pack a stronger punch than everything else, but he’d since learned that his [Thrust] skill could be used on any spear and not just the one with the core inside. Now, he kept a couple extras on hand in case his enhanced spear broke.
+
+With the aid of his workbench, he quickly crafted a hide roundshield, taking the dried Tasmanian devil and wrapping it around a block of wood, followed by hammering pieces of bones in the shape of nails to anchor the hide in place. The twine worked as a handle, and the monster core was infused in the center.
+
+The Guide buzzed upon completion.
+
+Level Up! Shields 0 → 2
+
+Crafted shield hardness increased.
+
+New Skill available.
+
+New recipe available.
+
+Another strange twist. Jay could level multiple times by putting the core straight in. Apparently, this was how all “Primal Age” gear worked. A straight power-up to whatever he applied his cores to.
+
+He checked his new skills.
+
+[Bash, Basic] – Strike your enemy with your shield, inflicting damage.
+
+[Brace, Basic] – React to an incoming hit by tightening the strength of your shield, reducing the amount of damage upon the next impact.
+
+[Break, Basic] – Strike your enemy with your shield, breaking their guard to leave them vulnerable to a follow-up attack.
+
+The choice here was obvious. Since his spear worked offensively already, Jay defaulted to the defensive skill option, selecting [Brace]. Stacking hardness couldn’t hurt.
+
+He covered his body in armor from head to toe soon after, using an upgraded version of his palm bark armor reinforced with the bones of the monsters he’d killed for his helmet and body slot and lighter fur armor made from the Tasmanian devil and prairie dog. The cores went into his bone-plated helmet and chest armor.
+
+Level Up! Heavy Armor 0 → 2
+
+Passive unlocked: Heavy armor sets grant increased hardness.
+
+New Skill available.
+
+Level Up! Light Armor 0 → 1
+
+Passive unlocked: Light armor sets grant increased movement speed.
+
+Jay stroked his chin. So it seemed that armor functioned differently than weapons. Rather than giving a direct benefit, sets were required. Though this begged an immediate question. Did he need the full set?
+
+He tossed on fur gloves as a test and paced around. The change was subtle, but he definitely felt quicker than normal. He threw on the fur leggings and boots, and his speed became even more apparent. Not too bad.
+
+But then he put on his helmet, and his body slackened at once. He grimaced. No mixing and matching for him. Not that he could fix it either, especially after burning through so many materials.
+
+He checked his new skill next.
+
+[Brace, Basic] – React to an incoming hit by tightening the strength of your armor, reducing the amount of damage upon the next impact.
+
+[Bulwark, Basic] – React to an incoming hit by anchoring yourself in place, reducing the amount of knockback inflicted upon the next impact.
+
+[Push, Basic] – Shove nearby enemies, sending them back.
+
+[Brace] again? Apparently, some skills were redundant across pieces of gear.
+
+He read through the other options and grinned, his find identifying a new synergy. Without thinking further, he selected [Push]. The other options grayed out.
+
+He paled. Whoops. So, it seemed that armor was more nuanced than he first thought. Skills were applied per set, not by each piece of gear. Both his helmet and chestpiece had cores, and they were stuck with using [Push].
+
+Oh well. This was still the best choice.
+
+Jay tested further from there, using [Push] with different armor pieces equipped and realized that the well of energy increased based on the number of cores in his current heavy armor set. By having two cores used, he could [Push] double the normal amount before tiring out. And even without armor, he could still use the skill, though it killed his body’s stamina.
+
+His last upgrade came from the bone-dart pouch made from hide, currently filled to the brim with poison-coated darts. He’d since learned that the basic poison grease dried out within an hour of crafting it, but this could be saved if he greased the inside of his pouch. His spear tip was also quickly coated before sundown.
+
+The last light of day sparkled against his new base. Unlike Fort Knox, Jay had chosen this spot because of its utility. A river ran along one side of this plateau before disappearing into an underwater cave, while a ridge curled out from the other. It couldn’t have gone more than twenty feet above the rest of the area, but that little height was enough to keep everything else at bay, especially when fortified by a ring of wooden spikes. Like an island against the storm, he could mount the best defense on this midland peninsula, no walls needed.
+
+The sun dipped below the horizon, and the shadows quickly built.
+
+Before visibility could be lost completely, Jay collected the torch from his burning campfire and made the rounds along his perimeter. He’d placed a series along the outer rim of the ridge to ensure that nothing could catch him unawares, with a second layer closer to his crafting stations. Firelight flared out.
+
+The world beyond quickly choked in shadow. Jay ignored the growing starlight and radiance of the floating red planet and focused on the trees below, hoping beyond hope to see where Natura spawned these enemies from.
+
+Nothing. The jungle seemed to have been shrouded with a magical darkness as the creatures came to life.
+
+Then the barking began.
+
+The hairs rose on Jay’s neck again as he recognized the sound. More vined coyotes were coming. More than he could track. He strained his ears, but there were too many overlapping to get a proper count in.
+
+The spear grew heavy in hand.
+
+A grunt soon followed, with another echoing behind. Jay remembered this one as well. The “clay gorilla,” as the Lexicon called it. A slightly larger manifestation that had been responsible for breaching Fort Knox after climbing its walls. He’d barely survived the last encounter against this brute, and now there was more than one?
+
+His enemies marched into the light of the torches, lined up for an attack. Jay counted six total. Four vined coyotes and two clay gorillas, each with bodies made of a mix of natural elements fused together, but all watching him with those burning green eyes overflowing with hatred.
+
+Not bad. I can do this. Jay breathed deep, holding his shield high.
+
+Then a different howl eclipsed them all. This one was low and guttural, just like the shadows it lurked within. Though he could hear the base of a wolf, the tone became perverted under a more primal dread.
+
+The wolf monster stepped into view, its paws barely imprinted into the jungle’s mud with each step, slow and elegant. Spanish moss flowed from its mane. The flesh appeared to be made of lichen-covered wood where exposed, though this did little to slow it down. The wolf eclipsed its coyote allies in size by half, and sauntered forth with a quiet serenity.
+
+Jay chuckled at this sight. Seven enemies sent for little old him? What had he done to deserve being the cutest gal at the party?
+
+He smacked his head. Snap out of it! Before the sanity loss could take hold, he scooped up the snakescale waterskin filled with lifeberry tea and guzzled it in one swallow.
+
+His mind grew to ease, and his resolve hardened.
+
+Jay stood in wait. No taunt this time. No subtle jab. This was no longer a maddening experience in a dreamlike world. This was survival, and he would see it through.
+
+The monsters charged.
+
+Jay held his ground, his eyes fixed as his enemies closed in. First, the monsters passed through the outer ring of torches, then they funneled into the middle of the field where the wooden stake traps were the least dense. They held a tight formation, with the coyotes in front and gorillas following behind, rocks in hand.
+
+They reached the base of the cliff, eyes burning with a jade fury. All at once, as a single unit, they rushed forth, salivating at the prospect of bringing this lone human down.
+
+Jay stepped to the side and snapped his spear down. The spearhead cut through the tangle of twine supporting a pile of logs. Gravity forced them into his enemies.
+
+The monsters’ glowing eyes exploded in shock as a wall of felled trees rushed straight for them. The gorillas tripped over the coyotes, their combined attack now working against them as they sought to flee an inevitable demise.
+
+Too late. The trees crashed into the monsters, cracking apart their earthen bodies and bursting ichor upon collision.
+
+Exactly as planned.
+
+Jay stepped forth, dropping his spear and reaching for his dart bag. As the coyotes whimpered against his ambush, he laid a volley of poisoned bone darts. His projectiles pierced through their bark flesh. Two of the four coyotes dropped at once.
+
+A gorilla countered, hurling a rock with all its might. Jay raised his roundshield and [Braced]. His shield held firm, as though a mere pebble struck. He quickly tossed another bone dart, puncturing the gorilla’s shoulder. It roared.
+
+The other scrambled to the side. Before Jay could get a clear hit, it leapt over a set of wooden stakes, tanked another pair, and bounded up the ridge before looping back down. Such speed!
+
+Jay grit his teeth and went for his spear. The gorilla barreled his way, arms swinging wildly as it prepped for a devastating two-handed strike.
+
+Jay quickly [Braced] his shield, negating the damage, then followed it with an immediate [Push] from his armor. The gorilla recoiled a couple feet. He [Thrust]. Shards of clay burst from the monster’s chest where the spearhead soared through.
+
+The gorilla clutched its side, dumbfounded by the sudden strike. Jay pressed his advantage with a couple more jabs. Ichor-coated mud exploded out from his enemy where the blows went through.
+
+The gorilla lurched back, just out of weapon range. With another hideous scream, it jumped into the air. The red planet above Annwyn was briefly eclipsed by a shadow in the shape of a gorilla. The monster glided through the air, both its muscular arms now aided by gravity as it aimed to maul the pitiful human in front.
+
+[Brace]. [Push]. [Thrust].
+
+This time, Jay’s flint spear tore through the staggered gorilla’s skull. The demonic light in its eyes dimmed, and it dropped without a sound.
+
+Jay gleamed. This was the totality of today’s work in action. Three basic but unique skills, all with an overpowered synergy when combined. [Brace] killed any damage against him, [Push] sent his attacker back to a healthy range, and a [Thrust] from his spear unleashed its full damage potential. If he had chosen a single skill differently, this combo would not have been possible.
+
+He breathed heavily, limbs exhausted from the routine. He needed to be careful using these abilities.
+
+The surviving coyotes found their footing against the felled logs and scrambled through the opening. Jay once again ditched the spear and went for his darts. A few landed before the coyotes closed in.
+
+Pain roiled his legs as his enemies chomped down. Jay winced and reached for the spear. As he glanced back up, a pair of wooden fangs were inches from his face.
+
+[Push].
+
+The coyote squeaked against the skill, and the fangs snapped wide. Jay blinked as the coyote tried to force its dislocated bones back into place. He winced.
+
+That was a cheap shot.
+
+But the advantage had been regained. Jay quickly grabbed his spear and finished it off.
+
+The gorilla closed in last, but without friends, it did not last long. A single [Push] sent it off-kilter, and Jay followed up with a few paced jabs. The gorilla fell with a gasp, its ambush stopped in its tracks.
+
+Jay grinned. Was that all they had?
+
+Only the faintest swirl of wind grew from behind.
+
+Snap.
+
+The world split in two as his bone-plated helmet disintegrated. His ears heard nothing but ringing. Before Jay could even react, a second burst of force sent him down the hill. He struck a rock and coughed up dust.
+
+The moss-covered wolf stood atop the hill, its mythic form highlighted by the ring of torches beside. It looked down on him, verdant eyes only thinly veiled from a deeper vitriol.
+
+Jay shook his head and jumped back up. This was it. His final enemy. He raised his roundshield and took aim with his spear.
+
+The wolf monster sauntered up. Slowly. Methodically. Its eyes locked with his as it studied his every move.
+
+Jay huffed for air. You can do this. He still had enough gas in the tank. Enough to win this fight, anyway.
+
+Jay readied his combo. The wolf launched forth.
+
+[Brace]. [Push]. [Thr–
+
+“Ahhh!” Jay screamed as teeth like polished jade tore through his leg. No more than a few seconds passed before the wolf attempted to do the same thing.
+
+[Brace.] [P–
+
+The sudden torment poured through his legs, and it took everything just to fall back a few feet in retreat. The wolf watched on, its placidity unbroken. Starlight twinkled against its mossy mane where Jay’s blood trickled down.
+
+The wolf had outsmarted him. By feinting an attack to draw out his skills, Jay was left exposed for the follow-up hit. The wolf had learned to dodge his [Push] to avoid the [Thrust], and then skipped past his [Brace] altogether for the second hit.
+
+As Jay watched this ferocious creature close in again, another truth became apparent. Natura’s monsters weren’t mindlessly attacking him…
+
+They were adapting to his every move.
+
+The wolf swung its claws. Jay grunted as his shield took the full damage, no longer having the energy to [Brace]. Another hit. His arm vibrated where the roundshield cracked. Even its +1 modifier wouldn’t save it for long.
+
+He’s trying to bait me, Jay realized. Or break his shield. It didn’t matter now that he was too weak for skills.
+
+Again, an overpowering paw smacked down. Again, Jay’s body buckled against the pillar of force.
+
+The wolf growled, his blood leaking through black, mud-like gums. This wasn’t working. His enemy was too dexterous, and he needed to get faster to keep up. Now, before it was too late. If only I could get that light armor speed boost…
+
+Jay clenched his teeth, a new idea took form. The wolf lunged, but he went straight into it, accepting the damage in a precise spot.
+
+Snap.
+
+Jay coughed up blood as his bone-plated chestpiece shattered from the direct hit, crumbling to dust.
+
+…Leaving him with only light armor equipped.
+
+Jay dashed to the side, no longer feeling encumbered. The wolf swiped again and hit nothing but air. The teeth snapped forth, but he dodged with ease.
+
+He beamed. This was the power of a light armor set in action.
+
+His spear thrust forth. The poisoned tip grazed the wolf’s cheek, sprouting forth a trickle of monster ichor.
+
+It raised its brow in confusion, its advantage lost.
+
+Jay pushed forth without mercy, now two-handing the spear. These monsters might have thought him too weak and stupid to figure out their world, but if he had anything going for him in his past life, it was understanding video game tactics. Give him a bunch of hard-coded rules, and he’d find the most efficient path. That he’d been losing until now only happened because he hadn’t gotten a chance to learn, not by a lack of talent.
+
+The wolf monster growled, its once majestic mane now mangled with a mix of red and green-tinted blood. Its moves went from a saunter to a stumble as the poison coating took effect.
+
+And now, the finale. Jay drove forth with a [Thrust], piercing straight for the heart. The +1 spearhead burst through the protective moss, through the bark-like skin, through whatever it had for bones, and into the softer organs beneath. The monster vomited out a mouthful of ichor, eyes widened, even as the light started to dim.
+
+Jay collapsed, his body overwhelmed by sudden fatigue.
+
+As the wolf’s life whisked out, it made eye contact with him one last time. It spoke so much in that quick, soul-piercing moment. As if Jay was looking into the eyes of Natura itself. The wolf was neither angry nor malicious, but confident and proud.
+
+This fight wasn’t the end. Just another step in ridding Annwyn of his presence. The wolf would rise again. And again. And again. Always there to kill this pesky human at the start of each night. Why concede defeat against an enemy that was so much weaker? Sure, Jay could win a thousand fights against this wolf, but it need only win once.
+
+Jay stared into those eyes. Into this alien creature that wanted his death. Into a deity that he could barely comprehend, much less survive in a fight.
+
+And his lips curled into a smile as he accepted the challenge from this unbeatable god.
+
+“Bring it.”

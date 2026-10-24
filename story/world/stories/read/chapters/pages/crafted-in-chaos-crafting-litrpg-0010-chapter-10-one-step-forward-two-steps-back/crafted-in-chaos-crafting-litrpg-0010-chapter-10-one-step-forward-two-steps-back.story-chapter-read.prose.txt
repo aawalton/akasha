@@ -1,0 +1,149 @@
+[Flinthead Arrow] = Stick (Any, 0.75-0.9m) + Flint (0.25-0.4kg) + 3 Fletching (Any, 0.1-0.25m) + Twine (Any, 0.2-0.3m) + [Knife] (Any)
+
+Rain poured down from above.
+
+It fell in buckets. Hard, heavy drops the size of grapes bombarded the mud beneath. The wind swirled in waves, sending these missiles through the treetop, the branches, and the natural ebbs and flows of terrain. With the sheer amount of water falling through the air, the rain came from above, sideways, and upwards in places where it bounced off the jungle floor, like shrapnel from grenades.
+
+And this rain chilled everything it touched on contact. The kind of cold that numbed the surface of the skin on contact before seeping into the muscles beneath and the bones below that. A crippling, wintry mix that frosted over one’s very soul.
+
+Jay shivered against this frozen hell. Great. Now, he had to deal with this on top of everything else.
+
+Though last night’s victory had been his best by far, his Stats had fallen precipitously anyway. Losing blood drained his thirst, healing back vitality burned through his hunger, his “Poorly Rested” Affliction had escalated to another tier in this rain, lowering his max fatigue another eight points. He’d even gained “Chilled” from this heavy rain, further reducing his max vitality and hunger while also applying a drain against his sanity, similar to the parasite.
+
+He tried to wipe away the rain with futility. One step forward, two steps back. Winning fights wasn’t enough by itself. Not in this world. He had to always be prepared for what came next.
+
+But Jay could do it. Now that he could see how Annwyn worked better, he would find the best way through.
+
+That was all that mattered right now. Jay might not have known what would happen when he wished for a second chance at life, nor could he understand the strange creatures that had given him this gift, but with him being trapped here, there was no way out.
+
+He would find a way to survive this game-like world, no matter the cost.
+
+Another ball of water smashed against his scalp. He grimaced.
+
+Looks like it’s base-building time. Jay marched down the muddy hill, his stone axe in hand. His enemies’ bodies lay where he’d left them, their monstrous faces as resentful in death as they’d been in life.
+
+If only Jay could gain anything useful from them. After winning the battle, he’d spent some time cutting a few of the monsters apart in the hopes of repairing his weapons and armor. The Natura manifestations were made entirely from earthen materials, from clay and wood for skin to weeds and moss as fur. They even had internal organs and bones made from the natural elements.
+
+But where everything else could be crafted with ease, the materials he gained from these demons were hopelessly weak. He’d noticed that they all possessed a “Natura” tag in the Guide, which reduced the damage, durability, and strength of anything created from them. Sure, Jay could rebuild his bone-plated bark armor, but it would only be a fraction as useful if he used these monster materials as a base.
+
+At least I get to keep the cores. Even though the rest of his armor shattered during the engagement, the monster cores remained intact. Or, at least one had. Between the darkness and the mayhem, the other one disappeared altogether and once this morning’s storm hit, he’d given up hope of finding it at all.
+
+Jay held the monster core close. Though it had started as an opaque black sphere with purple energy within, it had since transformed into a more solid crimson.
+
+Based on information in the Guide, this effect had come from “tuning” the monster core to be specific to heavy armor and could no longer be used for anything else. He supposed that this made sense, in a way. If he could break down gear and move monster cores around, he’d be able to power-level skills for whatever the hell he wanted.
+
+But this investment also made the cores much more valuable. They were the one item that didn’t break down with his gear, unlocked new buffs and abilities, and could be recycled into his replacement armor set. Just like the souls they contained, they were levels in a bottle.
+
+He could not lose more.
+
+Well, nowhere to go but back up. Jay gripped his stone axe tight as he studied the nearest tree.
+
+Whack. Whack. Whack.
+
+Between the rain, the wind, and the chilling effect on his limbs, it was slow going. The stone axe head bounced off against the slick wood, and the hilt slipped free from his fur gloves whenever the wind stormed up. Time passed slowly as he struggled to find footing.
+
+But, there was hope. The tree was downed before long, and the smaller logs were chopped up soon after. Jay dragged the more manageable sizes back up the hill, plopping them down to work as a starting frame.
+
+Unlike most games Jay played on Earth, Annwyn still respected many of the rules of physics. He couldn’t just make a floating block of wood above his head to keep the rain out. First, the foundation had to be placed, with the logs buried in the mud to keep them from swaying. Stone worked to provide extra stability as needed. Other logs could then be placed above at a sideways angle, so long as they were the appropriate length and were bounded with twine. The final step required placing more logs along the frame length, once again tied together with vines or reeds. He had to rebuild the starting construction twice after realizing that an angled roof was the only way to keep the rain out while better distributing weight. Too much concentrated on one limb risked its collapse altogether.
+
+In the end, Jay had a five-by-five meter space over his workbench and campfire with a roof above. The walls would have to come later when he had more time.
+
+His fingers were numb as they gripped the pieces of flint. He once again went through the process of starting a fire. With the wind still swirling and all his leaves drenched, it took ages before he could get the fire going. The sparks burned out faster than before, and even when they hit the leaves, they did not ignite or spread. Only after dozens of extra attempts could he get anything to grow at all.
+
+But then the campfire burst anew, consuming his sticks in one quick blaze. His “Chilled” Condition vanished at once, and his body grew to ease.
+
+Jay exhaled. “Finally.”
+
+Steam hissed as he fed more logs into the fire.
+
+With the immediate area clear, Jay went through the jungle to collect more materials. Reeds and hemp for his armor, flint to make better tools, sticks to build a crude loom… That much appeared to be his next form of progression. Without his shirt to protect him from the elements, he’d have to start crafting replacement clothing.
+
+He quickly gathered the materials, the crude loom poking out slightly from his workshop roof.
+
+Buzz.
+
+Tailoring Unlocked!
+
+New recipes available.
+
+He breathed easy. There was no telling how long it’d be until this storm let up. Like the one he’d witnessed on the first day, it only appeared to fall directly overhead. The sun shone down on the ocean far away, even as water guzzled from above like it was the end of days.
+
+Hopefully, better clothing would offset this terrible creation. The newest “basic” clothes were fashioned from reeds, vines, and leaves, and seemed to be woven together. Jay again went through the jungle to collect these materials, using his new bone knife to accelerate the process before coming back and weaving them together. With the power of the loom, he was able to tie hundreds of knots in less than an hour.
+
+He checked the Guide once finished.
+
+Level Up! Tailoring 0 → 1
+
+Clothing repairs now available.
+
+New recipes available.
+
+He stepped back out into the elements, an entire shirt, leggings, and hat made of leaves weaved together with reeds, the rain still tore through with ease. They could sit beneath his armor, at least.
+
+Not quite enough. Jay grimaced. These bits of clothing also itched like crazy against his skin.
+
+He rechecked the Guide. New options had appeared under the Crafting tree, these ones made from hemp. But the cost was far greater than he could afford right now. Not without scouring the jungle farther than he’d gone before or sacrificing the strength of his weapons and armor by swapping out the binding.
+
+No, that would not do. Both were paramount to his survival, while Jay could tank the chilled weather for a while more. Only his sanity was at risk, and he could offset that with more lifeberry tea.
+
+Maybe more fur armor will help, he considered. The fur boots and gloves were all that remained after last night’s battle, and he’d burned through all the materials given to him by yesterday’s hunt in their creation. The wind picked up, and he once again shivered despite his fire.
+
+Up until now, Jay had only been fighting monsters, but there were plenty of other animals floating around. Birds, deer, squirrels, rabbits, monkeys. Most were too quick for him to catch, but with the slight boost from his fur glove and boots, he might just be able to catch one now.
+
+Jay drew his bone knife and studied his dwindling pile of materials stashed in his chests and shelves. There was no way out of it.
+
+He would have to get more.
+
+* * *
+
+The storm continued with an endless fury. The rain fell in sheets, the wind ripped leaves from branches, and the clouds were dark and glum, with no hint of letting up.
+
+Except not where Jay was standing.
+
+Above his head, the sun cast a warming radiance, and the sky ran with an even cobalt blue. No forceful winds troubled him here, instead replaced by a pleasant breeze. Even as the opposite held true less than a stone’s throw away.
+
+So, the weather really is localized. Just as he had seen on the first day, the boundary between harsh and calm weather could be cut with a knife. Jay could make a single pace and go from a pleasant sunny day to torrential rain and then turn around and be back in a step. The sudden change in stimulation was jarring enough, but the added effect it applied through Conditions made the whole experience truly surreal. Just like that, he went from “Chilled” to “Sweltering” and back again. It was madness.
+
+Should I make a second base? He considered the prospect. As lovely as it’d be to avoid this rain, that location still had plenty of defenses, along with an endless supply of fresh water. He had also cleared the immediate area of threats when collecting his monster cores, other than the jaguar that still remained south of his base. There was no telling how many other places would be that good.
+
+He shook his head. Daylight still burned and he’d wasted too much time getting his feet together to go back. He drew his reinforced wooden bow along with his newly crafted flinthead arrows, with fletching made of bark.
+
+It was time to learn to hunt. For real.
+
+This process required more nuance than everything else he’d done. Though hostile monsters attacked on sight, the passive animals bolted the second he drew near. Jay learned that he had to move slowly and carefully to remain undetected, avoiding piles of leaves or broken twigs lest his prey hear him first.
+
+One step after another, he crept through the jungle. The sounds of animals grew closer with time, only to vanish the second he made a mistake and snapped a branch. Minutes turned into hours as the exercise wore on.
+
+But still, Jay did not give up. Sure, this wasn’t as fast-paced and intense as fighting a giant wolf, but it was as necessary as everything else, if not more so. If he could only find some easy prey, his next night would be far less imposing.
+
+He brushed a branch aside. The air caught in his throat.
+
+A rabbit sat at the edge of the clearing, oblivious to Jay’s presence. Brown fur flecked with white rose and fell as its tiny lungs rose and fell. Its ears twitched to distant threats. When it did turn his way, its brown beating eyes peered everywhere but where Jay stood. The muscles in its jaws scrunched up and down as it chewed on more reeds.
+
+He checked the Guide, now close.
+
+Rabbit (level 1) – A passive creature found on most F-Rank islands. This animal will slowly feast on plants over time.
+
+Research still available.
+
+Jay raised his wooden bow and breathed deep. With one outstretched hand, he put a flinthead arrow in place and drew. He stared down the length of his arrow, the palm bark fletching as a visual guide.
+
+The rabbit continued to nibble in peace, oblivious to the death that would soon come.
+
+Jay paused. Up until this moment, he had only been fighting anything that tried to do him harm on sight. From the Natura monsters to the black boar, everything he killed had tried to kill him first. That trivialized justice to a game of black and white. He had to kill monsters before they killed him, and use what was gained to become stronger still.
+
+But this was different. This rabbit had done nothing to hurt Jay. It wasn’t aggressive, or evil, or manufactured by Natura to whisk his life away. It didn’t even contain a monster core of its own.
+
+It was just an adorable little rabbit, snacking on some plants in peace. Could Jay really murder an animal without cause like this?
+
+His stomach grumbled, and he knew the answer. Whether he wanted any part of this Grand Bargain or not, he could no longer leave. The rules of Annwyn would persist regardless of his acquiescence, and he would either adapt to them or die.
+
+As he stared at the brown-furred rabbit enjoying its day, he no longer saw just a rabbit. This was a hearty meal that would easily boost his hunger by another twenty points. The bones could be used to craft more darts, and the pelt could be turned into a hat.
+
+An easy win. No, a free win. All Jay needed to do was let go of this arrow. The materials were right there, ready to be taken.
+
+If only he was willing to use cold logic. Gamer logic. The kind that used to have him mocked and ridiculed by coworkers and classmates back on Earth, but the same that had pulled him from the brink of death more than once here. If this was to be his new reality, he would do whatever it took to see it through. His survival was tied to these victories, and that mattered above all else.
+
+The arrow sailed through the air. The rabbit squeaked once before stopping. Jay exhaled in relief.
+
+No matter what came next, he would find a way through.

@@ -1,0 +1,225 @@
+[Basic Antitoxin Potion] = Lifeshroom (0.4-0.6kg) + Fungus (Any, 0.1-0.2kg) + Water (Fresh, 0.5-0.75L) + Bonemeal (level 11+, 0.35-0.5kg) + [Cauldron] (Any, 370-380°K)
+
+Just another day in Jay’s new life.
+
+He rolled out of the pile of cave moss he’d taken as a bed, his shoulders aching and fatigued, and blood caked around his arms. The howls of cave monsters echoed throughout the shadows, and his campfire was back down to the embers, but the wooden barricade still held firm. Hardly the same as his log cabin, but it got him through a long rest well enough.
+
+At least the night went better this time. After spending hours upon hours haggling with Roota, Jay had managed to get everything he needed to level out his Stats and prepare to fight Natura in this new realm.
+
+True to form, Natura had adapted to his technique, supplementing its stony insect army with giant beetles and worms that could not be brought down in a single hit. The battle had thus become more fierce before its end, and Jay had lost his boots and leggings from their onslaught. And after spending another hour setting up a replacement workshop before going to bed, a deeply unfortunate truth dawned on him…
+
+Jay was going to be stuck down here for a while.
+
+As Roota later explained, the surface of Annwyn was only a small portion of its true size and scope, with most of it existing underground in a vast web of caverns, shafts, holes, and aquifers. There were entire oceans beneath the ocean, and plains that would mimic the surface above.
+
+However, because this network was so enormous, many paths led back to the overworld, not just the one. As long as Jay kept working his way up, he’d eventually crack through.
+
+With that knowledge out of the way, Jay had stopped exploring and spent some time building a replacement workbench, more furnaces, a small stone shack on the open cave floor, and the necessary casts to see his gear replaced. The last step was the hardest without access to clay, but stone costs were viable if he spent enough time carving them. Coupled with the monster leather he’d been collecting down here, the hemp he’d purchased from Roota, and an endless supply of upscaled ores at the ready, Jay could reconstruct everything lost.
+
+That was the easy part.
+
+The trickier bit was accomplishing his mission of reaching the surface. Jay made a habit of following any water he came across under the logic that it had to come from somewhere, but all his routes ended in dead ends. Either the streams disappeared into smaller caves, or waterfalls fell from heights too difficult to scale without climbing gear. Mental note: research pitons next. It never occurred to him that rope alone wouldn’t be enough. Not when he had to climb up without support.
+
+Thus, Jay found himself back to where he was when he started by wandering through these endlessly expanding caves.
+
+His torch burned hot, only to disappear into the vacuous space of this latest chamber. A deep mist slowly built up, with no end in sight. I swear, these rooms just get bigger and bigger…
+
+Strange shapes soon entered his field of vision. Out from the darkened mist, onyx-colored trees rose up from the soggy rocks beneath. Their trunks were weathered by time, and mushrooms sprouted where leaves should have been, but no one could deny the architecture. Fissures erupted with mist nearby, seemingly feeding these peculiarities.
+
+Jay went up to the nearest one to confirm, his axe ready.
+
+Whack. Whack. Whack…
+
+It did not take long. Like the palm trees above, only the bark was particularly hard. The inside was much softer and easier to cleave through. Within a few dozen whacks, the onyx-colored tree had fallen.
+
+What’s the Guide got to say about this one?
+
+Inktree – A subterranean elm that grows in places with high humidity. Though the bark is made from hardwood, the inner part of the inktree is composed of softwood.
+
+Softwood? Jay’s eyes widened upon further investigation. As it turned out, softwood was the counter to hardwood, and could boost the elemental effects of gear in much the way that hardwood raised their durability. By building structures made of softwood, he could be able to better stave off everything from fires to cold winds.
+
+There was only one thing to do with this discovery…
+
+Whack. Whack. Whack.
+
+Jay spent another hour collecting as much softwood as he could without impacting his overall ore yield too significantly. He even stashed some of the mushroom-like leaves, but those seemed to only work as a source for fungi, and not a source of nutrition.
+
+With his new loot gained, Jay continued on his path. The mist thickened with more fissures, but now that he could arm himself with softwood torches, the inktree forest became far easier to navigate. The elemental boost from softwood allowed his new torches to burn brighter, albeit for a shorter time due to a loss in durability.
+
+A cluster of scarlet took shape in the forest of black, and Jay closed in. His jaw dropped.
+
+“That shyster…!” he screamed aloud.
+
+A mound of mushrooms clustered atop a bed of clay, right next to another stream. Their scarlet forms glistened in the softwood light, and gills flecked the base.
+
+At least twenty kilograms’ worth of lifeshrooms lay in this patch alone, with more further down the river.
+
+Oh, how Jay wanted to double back, find Roota’s shop again, and demand he get compensated for this robbery. Of course lifeshrooms were this numerous down here.
+
+Thank goodness the Bag ‘a Mats works by weight and not volume. Jay collected what he could, shoving one lifeshroom after the next into his pack. The interdimensional space swallowed all with glee.
+
+The damp air suddenly shifted, and a putrid smell came with it. A loud croak reverberated out. Jay twisted on his heels as this new enemy took shape in the shadows of this underground forest.
+
+Two emerald eyes narrowed onto him from the top of an otherwise bulbous head that melded with a protruding gut beneath. Cracked cysts formed along its body that leaked a green smoke as it drew near. The legs were tiny and twisted, with webbed toes attached. It croaked again, its throat pulsing like a giant frog.
+
+Jay readied his cutlass. The frog monster ribbitted and charged.
+
+But it did not attack directly. Rather than close the entire distance, the monster simply opened its maw and vomited forth a wall of green-colored smoke.
+
+The effect was immediate. Jay’s lungs clogged, trying to breathe this noxious fume, and his eyes stung as though he’d been hit by pepper spray. He tried to retreat a few paces, only to see the frog monster advance and do the same thing.
+
+Need to go offense. But the second he dove forth, his enemy hopped far above, disappearing into the mist before reappearing behind.
+
+It spewed out more poison. Jay gasped.
+
+He [Leaped] to safety himself, savoring the stagnant air of the cave over whatever toxin that creature emitted. The smoke continued to build behind as he looked for an opening.
+
+The frog monster advanced, its throat ballooning as it prepared another charge. Jay [Leaped] and [Slashed], but that was all he could afford. Slime erupted from the wound against the frog’s back, and more poison leaked free. Jay once again struggled to find his footing as his opponent hobbled away. More gas flowed over before long.
+
+And Jay could not keep up. His next [Leap] took him the wrong way, landing in a spot still overflowing with poison. He stumbled blindly further away, unable to see more than blurs with the pain in his vision. His next coughing fit led to blood on the ground.
+
+The frog continued onward, its emerald eyes watching without mercy as it vomited another wave of death. Jay swatted against the smoke futilely with his sword, as if that would make the slightest bit of difference. His vision grew ever more narrow.
+
+Only one way to end this one… Jay turned on his heels, holstered his cutlass, and sprinted the other way. The ribbits grew quieter before long.
+
+It wasn’t an easy run, but it worked to increase the distance, and as the air got easier to breathe and his enemy’s croaks dwindled, Jay knew that he’d gotten away with this one.
+
+Not every fight needed to be climactic.
+
+But even after escaping the frog monster, the pain continued to grow. He coughed harder. Blood mixed with bile splattered against the ground.
+
+What the hell had he faced? He consulted the Guide.
+
+Poison Rockfrog (level 27) – A subterranean frog that prowls through damp spaces. This creature uses poison gas to weaken its enemies before swallowing them with its giant maw.
+
+Contains a monster core.
+
+Research is available.
+
+Not even that much tougher than me. Jay winced, realizing how hard it would be to collect these higher-level cores. Everything else he’d fought had paled in comparison to this beast.
+
+But the more dire information came from his Stats.
+
+Name: Jay Reis (Copper Age)
+
+Vitality – 18/30 (Poisoned+3)
+
+Hunger – 25/42 (Poisoned+3)
+
+Thirst – 20/24
+
+Fatigue – 37/40 (Poorly Rested)
+
+Sanity – 86/100
+
+He vomited again, and his vitality and hunger dropped another point.
+
+This was the effect of Afflictions once stacked too high. Not only did Jay see his total vitality and hunger vastly lowered, but too much poison at once also created a continuous drop. Unless the poison cleared fast enough, he’d die on its own.
+
+Jay knew what he had to do.
+
+He started by throwing up a set of tiki torches around his base of operation, using softwood to give him a clear field of vision. That rockfrog wouldn’t get the jump on him a second time.
+
+The campfire came next, there just to burn down wood into ash. He’d need to build another cauldron to see this recipe through, but clay was harder to come by than stone down here, and the glaze for his ceramic would need to be prepped first. He assembled the furnace and campsite before moving on. The clay took longer to collect and mold, and he applied the glaze soon after.
+
+His eyes struggled to stay open as the cauldron burned. Need to move quicker. His vitality had already fallen below ten just setting this up, with no sign of the poison abating on its own.
+
+The cauldron finished, and Jay quickly tossed it over the campfire. The remaining materials were diced into small pieces while he waited for more water to boil. Lifeshrooms, inktree mushroom leaves, and bonemeal. Thanks to the power of his Bag ‘a Mats, he had no shortage of these random ingredients.
+
+Water boiled, and Jay threw his ingredients together. Unlike the bowl used for cooking, the cauldron seemed to take an almost magical property as it leached and mixed the alchemic properties within, blurring them all together until they formed a single pink substance.
+
+The world grew darker and his muscles began to atrophy, but Jay guzzled the finished antitoxin potion before his body grew too weak. He breathed deep, savoring clean air again.
+
+Still not to full strength. His poison had only descended two phases, and though his total cap was raised almost to normal, the lost vitality did not recover on its own.
+
+Health potion next. Fortunately, an underground variant existed for that as well, so all Jay needed to do was throw it together…
+
+The air shifted again, with that same odorous tang. The ribbit followed. But as Jay turned his head, he did not see his enemy approaching.
+
+Until he looked up.
+
+Out from the shadows above, the poison rockfrog swooped into his base, its scrawny legs spread wide and webbed toes working like a glider for its bulbous form. As it zipped into view, the monster spread its mouth wide, large enough to swallow a man whole in its cavern of a throat.
+
+Jay dodged just in time. The rockfrog careened into his campfire, shattering it and the cauldron at once.
+
+He gaped. “You’ve got to be kidding me.”
+
+The rockfrog’s emerald eyes glared into his own. It licked its lips, the blood still slick from the wound Jay had delivered earlier.
+
+Nope. He was too weak for this fight.
+
+Before his enemy could spew more poison, he holstered his cutlass, snatched a torch, and sprinted the other way. He wasn’t about to go into this fight half-cocked.
+
+But the aggressive croaks did not dwindle for long. As Jay ran with all his might, he had that same prickly sense as before. He glanced over his shoulder before long.
+
+Silent as a mouse, the rockfrog swooped down from the cover of darkness, ready to finish him in a single swallow. Jay lunged out of the way before it could land. He wheezed through the poisonous cloud left behind.
+
+With a roar, more toxic gas rolled out, but Jay [Leaped] to safety before getting enveloped. The rockfrog did the same, its globular shape landing where he planned to flee. Its tongue lashed out like a whip, striking his knee. He winced.
+
+He knows I’m weak, Jay realized. That was this predator’s tactic, after all. Poison its prey so they couldn’t hold their own in a fight, and then overwhelm them before they could recover. Jay hadn’t escaped like he first assumed.
+
+The rockfrog had planned this from the beginning.
+
+Four rounds left… Only need one. But as Jay fingered the 9mm pistol he kept for these emergencies, he paused. This monster wasn’t unbeatable. Far from it. Now that he’d gone against it twice and understood its attack patterns, he could find a way to win without relying on this handicap.
+
+Yes, that had to be the way for Jay to survive long-term. He’d already burned through most of these rounds just to reach this point. But winning by overwhelming strength would never be enough. Not in this game-like world. If he wanted to not just survive, but thrive, it would have to come from his own power and knowledge.
+
+He’d have to craft his own strength.
+
+More of the toxic mess rolled out, but Jay was back on the retreat, running as fast as his legs could carry. His opponent vanished once again, preparing a devastating attack from above. Jay [Leaped] before it could land.
+
+The dance continued. Jay used his skills to stay ahead, but his body was still weak from the poison. His enemy closed the distance without mercy, slowly wearing him down.
+
+Finally, Jay collapsed to his knees, back at the tiki torch campsite he’d established, and huffed up air. The rockfrog licked its lips and stumbled forth. Its maw extended wide, tongue salivating for the fragile prey in front.
+
+Right where Jay wanted it.
+
+He thrust his softwood torch right into this monster’s mouth. It closed its mouth reflexively, emerald eyes twisting to shock as the flames scorched its throat.
+
+It croaked in pain as the enhanced fire damage torched its mouth, but only regular smoke gushed out. Jay yanked for his toolbelt and thrust forth his replacement bag of ball bearings. The rockfrog’s webbed toes tangled against this trap. Its leap proved a failure as it flopped in place.
+
+And Jay capitalized on this moment. His body rocketed forth with a [Leap], and his cutlass dipped as he prepared for the final combo.
+
+The first [Rend] sliced through the rockfrog’s throat to keep it from activating its poison glands again. The second [Rend] slashed its scrawny knees so it could no longer move. But the last took everything out of Jay as he raised his cutlass with both hands for the finishing [Power Attack].
+
+The rockfrog watched him, bulged eyes somehow widening ever further. It knew how this defeat had come. Just as it had triumphed over so many weaker creatures in this underground forest before, so too had one come to beat it at its own game. The kind that brute force could never compensate for. The rockfrog snapped its eyelids shut as it embraced this truth.
+
+Victory came to the smartest. Not the strongest.
+
+Jay exhaled, savoring the opportunity to rest. Yet again, he would live to see another day. And his opponent remained dead, with all the skin and bones and glands intact. And most important of all…
+
+He ripped the monster core from its heart. The pulsating purple energy glowed more intense than he’d ever seen before, its infusion tier higher than even the lizardfolk Guardian.
+
+Jay marched away triumphantly. As soon as he had the chance to go back home, he’d earn another skill.
+
+That would have to wait. More howls flowed down the forest, and Jay quickly ran the other way, a new softwood torch in hand. He wasn’t out of the woods yet. Literally, as well as figuratively.
+
+But then the mist parted, and Jay’s heart skipped a beat. Sunlight reflected back against the cave wall where a narrow tunnel winded around the bend. The air had a fresher scent, and a steady breeze flowed out.
+
+After so much time trapped in this blind hell, Jay raced forth. Into the tunnel, around the bend, and through the opening.
+
+He gaped as soon as he reached the corner, his retinas struggling to process what lay in front.
+
+That wasn’t sunlight…
+
+Name: Jay Reis (Copper Age)
+
+Vitality – 18/36 (Poisoned+1)Hunger – 25/52 (Poisoned+1)Thirst – 20/24Fatigue – 36/40 (Poorly Rested)Sanity – 83/100
+
+Main Crafts: Alchemy 1, Armor Crafting 2, Base Building 2, Cooking 1, Medicine 1, Tailoring 1, Tool Crafting 3, Weapon Crafting 2.Weapon Crafts: Axes 3, Bows 4, Clubs 3, Daggers 3, Spears 5, Swords 7.Armor Crafts: Heavy Armor 5, Light Armor 2, Medium Armor 6, Shields 6.
+
+Character Skills:[Forbidden Knowledge]
+
+Armor Skills: Heavy Armor: [Push], [Stampede]Medium Armor: [Recover], [Leap], [Waterform]Light Armor: [Dash]Shield: [Brace], [Track], [Break]
+
+Weapon Skills: Axes: [Chop]Bows: [Sharpshooter], [Longshot]Clubs: [Bash]Daggers: [Slice]Spears: [Thrust], [Sweep]Swords: [Power Attack], [Slash], [Rend]
+
+Cursed Items:[Bag ‘a Mats]
+
+Armor:[Copperplate Hat] (Buttressed+2), (Reinforced)[Copperplate Coat] (Buttressed+2), (Reinforced)[Copperplate Leggings] (Buttressed+2), (Reinforced)[Copperplate Shoes] (Buttressed+2), (Reinforced)[Copperplate Gloves] (Buttressed+2), (Reinforced)
+
+Weapons:[Pig Iron Cutlass+1] (Sharpened), (Affinity+1)[9mm Semi-Automatic Pistol] (Accurate+2), (Quick): Contains 4 [9mm Cartridge] (JHP)
+
+Tools:[Copper Knife+3][Copper Axe+3][Copper Pickaxe+3]
+
+Boons:[Minor (Speed)]

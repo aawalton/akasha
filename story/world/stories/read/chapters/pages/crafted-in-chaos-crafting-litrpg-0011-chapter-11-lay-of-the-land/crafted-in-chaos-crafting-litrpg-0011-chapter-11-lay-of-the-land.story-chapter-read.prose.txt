@@ -1,0 +1,159 @@
+[Basic Leather Backpack] = 4 Stick (Any, 0.7-0.85m) + 8 Stick (Any, 0.35-0.45m) + 2 Leather (Any, 0.8-1m) + Leather (Any, 1.1-1.4m) + 2 Leather (0.6-0.75m) + 12 Twine (Any, 0.2-0.3m) + [Knife] (Any) + [Workbench] (Any)
+
+Easiest fight yet.
+
+Jay looked over the bodies of his defeated enemies. Natura had sent a similar force as the night before, but rather than vined coyotes as the vanguard, a series of wooden owls swooped in from above. It was his first encounter with flying enemies, no doubt spawned to circumvent his spike defenses. But with the aid of all-light armor and a healthy stock of flintheaded arrows and bone darts, Jay made short work of these monsters before focusing on the others.
+
+Once again, the wolf – or “verdant wolf,” as the Guide informed him – had proven his greatest adversary, this time using its speed to aim for cheap shots. The gorillas threw rocks from a distance, acting as another strategic impetus to keep him busy.
+
+But Jay had acquired another monster core before the end of the day and fused it into his fur boots after determining that they were the least likely to get broken.
+
+There were three skills to choose from: [Dash], [Stealth], and [Evade]. Of these, [Dashing] made for the best option as he could clear a healthy distance while getting enemies in range of his spear. No longer did he need to rely on [Push] or [Brace] to set up the [Thrust]. The extra agility from a full set of light armor coupled with higher quality meat in his diet also made him fly across the battlefield with a speed he’d never possessed. With a vitality cap up to 26, he could punch harder and run faster than had ever been possible before, even without any gear equipped.
+
+Suffice to say, the win came quicker than before, all thanks to dedicating an extra day to building a foundation for his Stats instead of focusing on mindless, exponential growth.
+
+This fight had also informed him better about how Natura operated. The enemies weren’t that much stronger than the night before, but they weren’t weaker either. If Jay could identify the power curve of his enemies, it was as if Natura had a certain amount of monster strength it could allocate from a list of options, and changed them around to better suit the fight. The swarm of owls would have been much more difficult had he relied on his log trap a second time in a row.
+
+And Jay spent the day on lateral progression rather than trying to get overtly stronger, and the speed boosts made short work of this new enemy.
+
+Could the two have been related?
+
+Still too early to say. Thankfully, it didn’t matter how this easy fight came about. The extra time let him craft a bed made of sticks, and that removed the “Poorly Rested” Affliction before it could advance another step.
+
+Now that he’d gained a morning without pain, Jay finally had earned the chance to slow down and figure out his next move.
+
+He looked around camp. His workbench and campfire now had a drying rack on the side. Once yesterday’s storm ended, he built one to dry out meat to let it last longer. He’d also propped up a replacement tannery where the last bit of hide had cured into crude leather.
+
+Time for another upgrade. He collected the leather and returned to the workbench, where the rest of his materials waited.
+
+His brain fell into craft mode, and his hands moved of their own accord.
+
+The first step was to trim the leather to size, using his bone knife to cut them into even chucks. An antelope had gifted him much to work with. He took two of the larger chunks and wrapped them around a chassis made of sticks, then followed it by pulling the largest piece of leather over the middle. With the main sack in place, he trimmed holes along its length and ran twine through the newly formed joints, connecting the leather to the skeleton beneath. Last, he slipped the remaining leather straps along the sack’s length, with additional twine securing everything in place.
+
+He beamed at his new leather backpack once complete. Though it was far from the sturdiest creation out there, that he’d built it by hand in such a short time filled his heart with a certain sense of satisfaction. He’d never been able to make anything like this back home. But here? It was all becoming so very easy.
+
+If only everything could be.
+
+Jay looked up the length of the mountain and groaned. He had been stuck near the coastline since arriving on Annwyn. The beach made for a valuable starting point, and he hadn’t moved more than a mile since. His current plateau gave him solid visibility of the nearest areas, with rivers and lifeberries and natural defenses to boot, but it was limited in scope. Coupled with his understanding of the world’s compass based on the sun’s direction, Jay had figured out his surrounding zone.
+
+The beach was to his west, a steep mountain rose to his east, and jungles rolled north and south. He’d found the level 19 jaguar to the south of the beach, and had since avoided that area like the plague. Any time he drew near, he either found another mutilated corpse, or scratch against a boulder that could cut his head in two.
+
+No way he’d jump into that.
+
+But after traveling far to the north to collect the resources he needed, Jay was already feeling like he didn’t have many places left to go. The lifeberry plants hadn’t regrown as he had hoped, and hunting animals was still very hit-and-miss. That left only one option left.
+
+Jay looked up the length of the mountain, stretching miles above, with clouds shrouding its peak. He gulped.
+
+Collecting and crafting had gotten him this far, but he’d forever be trapped if he never left his comfort zone. He didn’t need more pieces of flint or hemp to get through the day.
+
+He had to see the full scope of the world he’d been thrown into.
+
+* * *
+
+Monkeys cackled behind impassible terrain. Rays of sunlight tore through emerald-colored leaves. Moss and vines choked the mountain floor, falling down granite cliffs by hundreds of feet. The occasional waterfall roared through cracks in the terrain, flowing like liquid crystals capped in white foam. The higher he went, the more vibrant the colors became. Even the sun seemed to have formed a solid shape when it passed through dust in the air.
+
+Jay marched onward, his battle gear at the ready and a new leather backpack over his shoulder. He’d been walking for hours, and the climate shifted dramatically the farther he moved. The air cooled down at this altitude, and his full fur armor set no longer left him sweltering. With the extra insulation from his basic clothing, he could handle the weather with ease.
+
+It was slow going though. The mountain rose in waves of cliffs and plateaus, with very little pause between the two. Jay made next to no progress as he weaved back and forth, looking for an opening that could climbed on foot. The farther up he rose, the smaller these gaps became. It got to the point where it was easier to climb the wall of vines falling from some cliffs, and only after he realized how stable they were.
+
+Still, his low-key fear of heights didn’t exactly make the experience pleasant.
+
+But there were significant gains as well. With the dramatic shift in environment, more plants and animals were present than Jay had seen before, and he made sure to make contact with each to maximize new entries for the Guide. Though the animals were quieter and more dexterous than him, he needed only to get close to fill a starter entry out. His Lexicon had already exploded in size, now spilling into several other pages to account for all the new information.
+
+Rabbits, deer, antelopes, monkeys, caribou, birds, snakes. All of varying levels.
+
+Annwyn was a bizarre place. Though the biome was aesthetically a tropical jungle or beach, plenty of animals walked through its trees that one would think didn’t belong. The most jarring example came from a penguin waddling amongst the reeds before disappearing into a stream. But like the world they inhabited, these creatures all walked around like mountainous jungles were built for them. The red planet hung in the sky, even in the day, and he finally had the vantage to see that it did not disappear for good. It only faded.
+
+A truly alien place.
+
+Jay continued his trek, spear and shield in hand. The one nice part of this mountain is that nothing had rushed out to attack h–
+
+Bushes rustled nearby. A growl erupted moments later.
+
+And Jay buried his palm in his face as he braced for impact. That’s what you fucking get…
+
+A silverback gorilla wandered into view, the dried mud cracking beneath its feet. Thick, wiry hair sprouted from muscular arms and legs as the gorilla waddled forth, and its brow slanted over dark, beading eyes. It bared its fangs with a hiss, yellow and ancient like the stage it inhabited.
+
+Jay raised his hide roundshield, once again ready for combat. He didn’t need to read the Guide to know that this guy would have a monster core, and he was still short a few anyway.
+
+The gorilla limbered forth. Dirt quaked with each step.
+
+Beads of sweat began to roll down Jay’s forehead. Why did he have this sudden feeling that he should run away?
+
+The gorilla raised its hand to attack. Jay snapped his shield in place before it could land.
+
+[Brace].
+
+His teeth shuddered against this force, and his feet buckled under the extra weight. A second hit came before he could respond, and then a third after that. The +1 roundshield cracked against the onslaught.
+
+Then both fists slammed down in one heavy blow, but Jay [Dashed] back to safety before it could land. The muddy ground fissured, and he heaved in fresh air, muscles already starting to tighten. His enemy continued to limber forth, not the least bit deterred.
+
+Jay grimaced, recognizing the truth. Now that his shield was breaking and he’d exhausted much of his skill energy pool, this wasn’t a fight worth taking.
+
+So he did what he should’ve done from the start.
+
+He turned around and sprinted the other way.
+
+…Only for the gorilla to slam into the ground in front. Such speed! Jay [Dashed] a different way, but the gorilla vaulted into another branch. With the extra momentum on its side, his enemy cut him off a second time.
+
+This wasn’t good. Unlike the predators of the lower jungle, this monster was using its environment to full effect. Jay couldn’t outrun it, and he couldn’t overpower it either.
+
+I have to at least try. He [Dashed] another way, feigning an escape. As his enemy moved to cut him off again, Jay backtracked and [Thrust] into its unprotected shoulder. Blood ruptured out where the spear broke through. The gorilla’s eyes widened against the unexpected counter.
+
+But then it lunged forth as well. Jay once again [Dashed], only to find a fist waiting for him on arrival.
+
+Jay choked on the pain that rocked through his chest. Though his fur armor took the brunt of the blow, he could feel the sheer force cutting to his bones beneath. He vomited out a mouthful of blood, knowing he couldn’t take another direct hit. What power level was this guy?
+
+Too fast and too strong. One of these had to give. And soon. Jay couldn’t take much more of this.
+
+Another fist came down as Jay tried to retreat. He [Braced].
+
+Snap.
+
+Jay watched without words as his shield disintegrated from all the damage. The gorilla marched on, only the tiniest trickle of blood flowing down its chest.
+
+A claw swiped forth. Jay stepped back, feeling the raw power flow right before his eyes, dwarfing the minuscule strength of his +1 spear. If only the silverback could be reduced to his level, he might still stand a chance.
+
+A thought snapped into place. Jay ditched the spear and [Dashed] to safety. Before the gorilla could close the gap, he reached into his bone dart pouch and threw for its open wound. Then another. And another. The darts bounced powerlessly against its hardened muscles, but one slipped through the cracks, puncturing its exposed flesh.
+
+And leaking the poison grease inside.
+
+The gorilla barreled forth, but Jay still had some juice left. He [Dashed] again, scooping up his +1 flint spear on the retreat. Though his skills were at their limit and his enemy remained mostly unscathed, Jay still smiled between gasping breaths. He didn’t need to win outright.
+
+He just had to let his enemy tire itself out.
+
+And tire, the gorilla soon did. With the poison in its veins, the attacks came in slower and with less power. Jay danced to safety, biding his time for the poison to take full effect. When the gorilla’s eyes finally glazed over and it staggered, he knew his time had come.
+
+[Thrust]. The spearhead burst through the gorilla’s leg before it could defend itself. A riposte followed, but Jay leapt back, muscles too weakened for another [Dash]. His enemy bumbled forth, halfway between a stumble and fall.
+
+With a final huff of air, Jay closed into the gorilla’s blindspot for the finale. He [Thrust], now aiming for the exposed neck. The +1 spearhead split through the windpipe, crushing the bones beneath. As the monster choked on its collapsed throat, Jay went on the retreat, letting time finish what he had only started.
+
+The gorilla fell to the ground, now dead.
+
+Jay breathed easy, almost passing out himself. He’d survived. This time, anyway. What the hell was that? Perhaps the Guide would know…
+
+Silverback Gorilla (level 8) – A predator found on F-Rank jungle islands. This creature is known for being extremely territorial and uses branches to quickly traverse its home.
+
+Contains a monster core.
+
+Research still available.
+
+So that’s the power of a higher-tier monster. Jay had experienced a prickling sense in the back of his mind the moment they made contact, but it wasn’t until seeing the entry that he could understand the total difference of scale. If this was the strength of a level 8 monster, then what would that mean for everything stronger? He shuddered against the possibilities, especially that level 19 jaguar near the coast. Thank goodness I’ve been avoiding there.
+
+But he’d also gained from this fight. With the silverback gorilla defeated, he had his first monster core of a higher infusion tier.
+
+And could set a piece of gear to its next level.
+
+Jay looked back up and also realized how far he’d come. Though the mountain still rose perhaps half a mile further, he had reached another plateau that jutted out from the rest of the terrain, and his vision now stretched as far as eyes could see.
+
+Fort Knox had become a dot next to the ocean, and his secondary base was even less pronounced. Only through the cleared trees and nearby river could he recognize it at all.
+
+And elsewhere, a bountiful, vast expanse sprawled out every which way, well into the horizon. Other mountains towered over mist-veiled valleys, their jade caps dominated by a mix of tropical and jungle forests blended together. Though purplish, macabre clouds poured torrents in some locations, the sun shone as an incandescent beacon above all else.
+
+Was this an island, or an entire continent?
+
+Then Jay noticed another set of anomalies scattered throughout this unreal land. Thin wisps of black energy swirled out from the forests. At first, he thought it came from smoke, but the more he squinted, the more apparent it became. These pillars moved with an unnatural uniformity around themselves, climbing far up before fading out completely. He counted over a dozen places where this effect could be seen before landing on the closest one.
+
+This pillar arose from a spot near his base. He hadn’t caught sight of it at first because the mountain blocked the view, but from this vantage, he could see this magical force as clear as day. He rubbed his eyes and leaned over the cliff’s edge to get a better look. The swirling black magic dipped into a crevice in the lower plains, the tropical trees that clung to its sides, and onto what appeared to be a metal… His eyes widened.
+
+Is that a radio tower?

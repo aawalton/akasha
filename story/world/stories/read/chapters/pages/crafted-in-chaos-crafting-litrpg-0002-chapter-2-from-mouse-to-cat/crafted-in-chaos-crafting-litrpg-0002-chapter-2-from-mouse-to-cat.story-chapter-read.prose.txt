@@ -1,0 +1,241 @@
+[Crude Axe] = Stick (Any, 0.3-0.4m) + Stone (Any, 1.5-2.5kg) + Twine (Any, 0.2-0.3m)
+
+Do or die, Jay. Do or die.
+
+Police sirens blared through distant streets, skyscrapers rose around, and swarms of pedestrians flooded the sidewalk, pushing this way and that throughout this chaotic mess of a city.
+
+But Jay Reis ignored it all, marching for the electronics store as techno blared through his headset. He had a mission to fulfill, after all, and would not be deterred. Even as the crowd shoved by, he merely shifted through.
+
+It didn’t matter what anyone else thought about his plan for the day or why he still bothered with this dream of his. They might have thought he should look for another job, but he knew the truth.
+
+Jay just had to wait a little longer. It would all work out, so long as he put in his time.
+
+And he had a long life ahead of him…
+
+* * *
+
+The vined coyote hobbled through the clearing, growling softly.
+
+Wooden feet sunk into the pale sand, and puffs of mist flowed out from its slathering jaw, blood dripping free as it huffed in fresh air. It twisted its snout and snorted, its nostrils wrinkled as it sought its prey.
+
+Jay threw a rock from the safety of the bush he’d hid behind.
+
+It clattered against a nearby tree, and the coyote jerked into action, sprinting into the distance, opposite of where Jay lay.
+
+He breathed deep. Before the moment could be lost, he turned around and made his own escape, hobbling as fast as his body could carry.
+
+Too close this time. The past hour or so had been a game of cat and mouse as Jay tried to buy himself time. He’d deduced from the Guide that this “vined coyote” was a spawn of Natura, which was the entity that wanted him dead in this scenario. Only if he crafted a weapon could Jay stand a chance to win, but he could not hide long enough to make this happen. The coyote honed in on him like a missile every few minutes, and the wounds he’d sustained were slowing things down.
+
+He once again checked his Stats.
+
+Name: Jay Reis (Primal Age)
+
+Vitality – 7/20 (Wounded+1)
+
+Hunger – 70/72
+
+Thirst – 23/24
+
+Fatigue – 47/48
+
+Sanity – 73/100
+
+Only three vitality back, huh? This wasn’t good. As the previous entry indicated, his ability to regenerate would be stymied until he got these wounds under control, and that required a different recipe to fulfill, which thankfully got unlocked the moment he received his first wound.
+
+[Crude Tourniquet] = Twine (Any, 0.3-0.6m) + Stick (Any, 0.1m)
+
+Easier than the axe, but he still had the same problem, and one that raced through his mind as he continued running away.
+
+How did he actually craft these things?
+
+What if this was a stream? Jay pondered the thought. Even if he lacked information on hard game mechanics, he was usually good at figuring out how the combat flowed.
+
+In this case, there was an enemy that could run faster than him and knew his general location but couldn’t climb. The obvious answer was to get somewhere it couldn’t reach, but he wouldn’t be able to take time to figure out which materials were the correct size.
+
+The recipe book made specifications, but it was in metric. The mere sight made him want to puke. He’d always hated that measurement system back in school. How was he supposed to know which rock weighed 4-8 kilograms?
+
+He paused, suddenly feeling stupid. Of course… No need to overthink it.
+
+The howl echoed again, his enemy back on the hunt. Jay huffed in fresh air and pushed onward, an idea forming. The beach was littered with rocks, pieces of driftwood, and reeds. Somehow, he sensed that these would each fulfill the recipe requirements.
+
+One after the next, Jay scooped up rocks and sticks, almost at random. Even if he didn’t know the exact size, he was practically guaranteed to get the right amount if he picked enough up. His arms filled with stones and sticks, and he finished by ripping up a chunk of reeds.
+
+The growls drew ever closer as he reached a large tree, back next to the same beach where he’d started.
+
+Hmm, didn’t plan this part out. With his arms now full, Jay could not climb to safety. But he couldn’t drop them either. Not without defeating the purpose of this craft.
+
+Branches snapped nearby. No time to think. Jay shoved as much of the materials into his cargo shorts as they fit. He kept only a large one on hand, using it for extra traction against the rough palm bark. The motion was awkward as he tried to climb up.
+
+The monster darted forth, but Jay escaped just in time. It lunged straight for the bark, already chewing through.
+
+Jay breathed deep, then frowned as he realized he’d dropped some of the reeds during his scramble. Now, he wouldn’t have enough to craft both the tourniquet and the axe at once.
+
+Weapons or medicine? Which would be better? He had to choose, and choose soon at that. He’d only have a couple minutes max before this tree went down.
+
+He blinked through blurring vision, his arm still throbbing. Healing the injuries was the obvious choice. If the Guide was to be believed, his body would shoot up in passive healing, perhaps enough to stabilize him completely. Already, the scrapes and scratches he’d gotten right after awakening had closed up, so he had plenty of leeway.
+
+But that also assumed he could survive this chase long enough. What if it caught him before he could heal? What if regeneration required resting?
+
+Just make the weapon and win, he told himself. As soon as he got the crude axe crafted, he’d be able to defend himself properly. There wasn’t enough time for alternatives.
+
+He pulled the materials from his pockets and laid them onto the palm’s bent trunk. The vined coyote continued tearing into the tree, undeterred. By his count, he had a little more than two minutes to figure this out.
+
+How, though? All he had to go off of were a few measurements in a book, and he didn’t have a frame of reference for how to put them together.
+
+But then, as Jay studied his potential ingredients anew, a weird hunch grew in the back of his mind, and he cast aside all but a handful of ingredients.
+
+This wasn’t some normal thought. No, this was something primal, like an instinct without words.
+
+Even as the tree rocked beneath him, his hands moved on their own, pressing the stone against the tip of a driftwood stick. The wood split down the middle, leaving enough room to wedge the rock between. He grabbed some reeds next and wrapped them around the stone head without thinking, forming a little X before tying it together.
+
+And just like that, he’d crafted an axe, though one that was janky as shit.
+
+Buzz.
+
+The Guide had vibrated again, sending a tremor over his thigh. Jay opened the page and gaped at the flood of information.
+
+Congratulations! You have created a [Crude Axe]. Now build yourself some shelter, tools, and weapons, Expatriate!
+
+Tool Crafting unlocked.
+
+Weapon Crafting unlocked.
+
+Armor Crafting unlocked.
+
+Base Building unlocked.
+
+Medicine unlocked.
+
+New recipes available.
+
+More bark cracked away, but Jay was fixated on the Guide and doubled back to see what else had magically appeared. He returned to the Crafting page, and his eyes nearly fell from their sockets.
+
+It wasn’t just words… Entire pages had materialized from nothing.
+
+[Crude Wall Panel] = 25 Sticks (Any, 0.1-3m) + 25 Sticks (Any, 0.1-3m) + 2 Twine (Any, 0.4-4.8m) + 2 Twine (Any, 0.4-4.8m) + 10 Stone (Any, 3-5kg)
+
+[Crude Fencing] = 2 Sticks (Any, 1m) + 3 Sticks (Any, 0.25-2m) + 6 Twine…
+
+[Crude Door] = 50 Sticks…
+
+[Crude…]
+
+[…]
+
+Dozens of new entries were now there. Stakes, fencing, walls, roofs, floors – each broken down by various sizes and weights. There were also sub-subsections now, differentiating between base building, storage, tools, and weapons. The last option stood out most in this desperate moment.
+
+[Crude Spear] = Stick (Any, 1-1.2m) + Stone (Any, 1-1.25kg) + Twine (Any, 0.3-0.35m)
+
+[Crude Bow] = 3 Sticks (Any, 0.3-0.5m) + 3 Twine (Any, 0.3-0.35m) + Twine (Any, 0.8m)
+
+[Crude Arrow] = Stick (Any, 0.5m) + Stone (Any, 0.5-0.75kg) + [Knife] (Any).
+
+[Crude Club] = 5 Sticks (Any, 0.3-0.5m) + Stone (Any, 3-4kg) + Twine (Any, 0.8-1m)
+
+But even more than that, he felt a compulsion to check the Inventory page. Where it had once been blank, a scribble in the shape of his axe now filled one of his arm slots, with attached details on the side.
+
+[Crude Axe] – A basic tool used to chop down trees and break rocks. Can be used as a weapon in emergencies.
+
+Good enough. Even if it didn’t count as a real weapon, this was exactly the type of emergency it called for.
+
+The bark cracked further, and the palm tree shuddered. Jay tumbled off before he could get a good grip. His body hit the sand with a thud.
+
+The vined coyote growled, its pale green eyes focusing on his own. Watching. Probing. Into his very soul beneath.
+
+And a wire short-circuited inside Jay’s head.
+
+He grabbed his crude axe with a sudden smirk, facing his enemy directly. Maybe it was being stuck in this imaginary game for so long. Maybe it was seeing a nightmarish monster in the flesh. Maybe he was just sick and tired of the pain in his arm. Who cared? This plant dog was about to get whomped!
+
+Jay raised his axe and charged. “Let’s do this!”
+
+The coyote barked and rushed forth.
+
+The first round proved a miss for them both. Jay dodged and swung, only to see that he miscalculated on timing. The coyote also overcharged. Too much momentum on its side.
+
+The second round went to Jay. He’d once been pretty good with a baseball bat, so when his enemy jumped forth at half-speed, landing the hit with his axe was child’s play. The coyote yelped as it took the blow to the chest.
+
+Jay pressed his advantage from there. His crude axe hit nothing but air while the coyote went on the retreat, only to bumble into rocks. Monster ichor burst free whenever he landed a hit. It yelped.
+
+And Jay couldn’t help but laugh with exhilaration, now seeing that he’d gone from the running mouse to the cat stalking its prey. What a fucking rush! His heart beat like a jackhammer, and the world slowed as he chased this monster into a corner. He could see every nuance on its inhuman body, from the bark-like flesh to the oozing green-tinted blood with each hit. The coyote continued to bob and weave but could not evade fast enough. Just a little more now, and he’d have this bastard beaten!
+
+“Fuck!” Jay cried out, his legs suddenly caught between a log on the ground. How had he missed that!?
+
+The vined coyote leapt in counter. Now off-balance and stationary, Jay couldn’t raise his axe fast enough. The monster clamped its teeth into his leg.
+
+Jay screamed. A splatter of blood spilled as he shoved his enemy back.
+
+But there was no respite. The coyote somersaulted onto its paws and went back on offense, jaw spread wide for another devastating blow.
+
+The veins burst from Jay’s biceps as he swung into his enemy with all his might.
+
+The coyote bowed its scalp in the last second, aiming for the hilt instead of the axe’s top. A headbutt.
+
+Snap.
+
+Jay watched powerlessly as the crude axe shattered against the coyote’s skull with a crack, splintering into a cloud of dust.
+
+He gawked. “No way…”
+
+The monster continued its onslaught without pity, swiping its talons down. Jay wailed as more of his flesh got ripped free.
+
+He tried to rise back up and run, but the new wound in his knee gushed blood, and he could not support his weight anymore.
+
+Tears blocked his vision, and the world grew darker still. His enemy barked behind, its hideous crackle almost taunting against the pitiful creature that it would soon finish off.
+
+This didn’t feel like a game anymore.
+
+Desperately, Jay yanked a rock and threw. The coyote dodged. He tried a second rock. A hit. Thorns ripped from the monster’s lips where it struck. He reached for a third, but pulled too late.
+
+The coyote jumped, fangs spread wide as they aimed for his jugular. Jay raised his elbow first, taking the bite against his wounded forearm instead of his neck. Fresh agony exploded where the jaw snapped down. He cried out in pain.
+
+His fingers twitched against the added force, but his other hand still held the rock. Adrenaline numbed the pain a beat, and the world fell into clarity again as he bashed his opponent in the skull.
+
+Again and again.
+
+Bark crunched into an eyelid against his blows, splattering Jay’s face with a slime that tasted like rotted mold. He continued to counter with this improvised weapon. The strength of the teeth against him weakened.
+
+But still, the coyote did not relent. Even down an eye and with a body as bad as his own, it continued to chomp down with what little power it had left, trying to snuff out his life before its own failed. The one surviving pupil stared into the depths of his soul, radiating a vitriolic light that could only be quelled through his death or its own.
+
+There was something else beneath it too. Behind the magical pale green essence that controlled this monstrosity, he could see a different creature. Ancient. Powerful. A deity that wanted nothing more than his death. The divine puppeteer pulling the strings.
+
+It was Natura itself. Somehow, he knew his enemy.
+
+The rock slipped from Jay’s hand, his fingers too slick with blood to maintain a grip. Blurs formed at the edge of his vision. It became hard to breathe.
+
+I’m going to lose, he realized. The walls were closing in, and he lacked the strength to resist.
+
+If only he’d kept his tools on hand. He needed another weapon. Something. Anything.
+
+The Guide lay open to his side where he’d dropped out. The red light of the planet highlighted its surface, where all the recipes could be seen under the Crafting tree. He could see materials too, well within arm’s reach. A stick that was at least a meter, a rock roughly the same size as before, and a bushel of reeds. If only he could buy himself enough time to make a weapon, now that he knew how it worked…
+
+His leg twitched against the coyote’s weight, sending another wave of pain through.
+
+Jay grit his teeth.
+
+He could do this.
+
+With all the strength he could muster, he kicked both his legs out. The coyote launched back into a cluster of rocks with a yelp.
+
+And Jay turned and grabbed his materials. The stick, the rock, th–
+
+No! The reeds were further than he thought, well out of arm’s reach. He tried to push his body, but the pain was too much. He winced, fighting against paralysis.
+
+But the vined coyote was not much better. It coughed out ichor and limbered up, only to fall a second later. Just like Jay, it was on its last legs. Unlike him, however, it seemed more dedicated to finishing what it had started. With another wheeze, the monster hoisted itself and limped an inch forth.
+
+Couldn’t get the reed… Needed a substitute… Something that could be used to tie this piece of gear together…
+
+He caught sight of his shirt, stained in blood where it hadn’t been torn. Yes, that could work. He ripped a chunk of his cotton shirt away, in the rough size and shape of the reeds before.
+
+His mind snapped into that strange hunch again, and his hands moved on their own. Splitting the wood, shoving the rock between, and at last, tying it with the cotton from his shirt…
+
+The coyote stood back up, its nails digging into the pale sand. It snorted in rage, ready to deliver one final lunge.
+
+It leaped.
+
+Jay pointed the tip of his crude spear forth. The monster landed right on top, his weapon piercing through its chest.
+
+The light in the coyote’s eye faded, and its body went limp.
+
+Jay shoved the corpse and crude spear aside, but that was all he had the energy to do. He couldn’t move. He couldn’t think. Not with all this torment slowly numbing his body…
+
+His eyelids closed, and the world went black again.

@@ -1,0 +1,189 @@
+[Copperplate Coat] = 100 Copper (Bar, 0.1-0.12m) + 400 Copper (Rivet, 0.02-0.025m) + 4 Leather (level 15+, 1-1.2m) + 20 Twine (Hemp+1, 0.15-0.2m) + [Knife] (Copper) + [Hammer] (Copper) + [Workbench] (Any)
+
+The furnaces roared to life as Jay threw the last bits of ore in.
+
+This was looking to be another good day. Though the night had gone poorly and Jay lost his last set of lizardscale armor, a long night’s rest had given him a fresh start to a new day.
+
+He studied the pair of chitinous gloves from a spider’s husk he’d crafted a few days back as a vessel for the extra research.
+
+But it was the level 18 jaguar core besides, which he’d netted in the late afternoon, that would give him the most significant boost. He placed the gloves onto his workbench and began hammering away. The magical energy of the monster core flared as it got infused inside.
+
+Buzz.
+
+Level Up! Medium Armor 1 → 5
+
+New Skill available.
+
+Passive unlocked: crafted medium armor sets have increased movement speed.
+
+New Skill available.
+
+Passive unlocked: crafted medium armor sets have increased hardness.
+
+What would he be able to do next? The final recipe still remained for his latest innovation, but Jay couldn’t help himself but to see which skills were ready now.
+
+[Recover, Basic] – Take a moment to pause, recovering spent energy across all skills.
+
+[Brace, Basic] – React to an incoming hit by tightening the strength of your armor, reducing the amount of damage upon the next impact.
+
+[Quickstep, Basic] – React to an incoming attack by stepping to the side for a dodge.
+
+Jay didn’t need to think this through. After spending time researching “Investigate Skills,” he could see one step beyond his current available tier, and knew which decisions to make before choosing.
+
+He selected [Recover]. With the amount of different weapons and tools he relied upon, the skills gained were his greatest asset, and he could not afford to miss any chance to boost their power.
+
+The next decision was a bit harder, now that he’d unlocked the tier after as well.
+
+[Leap] – Flex the muscles in your knees, jumping a distance greater than normal.
+
+Unlike [Stampede], this skill would give him extra mobility by jumping over obstacles, rather than charging right through.
+
+But the others weren’t bad either. Longer term, Jay would not be able to rely on leveling a shield because of the sheer resource cost, so it would be better to limit his specializations. Adding [Brace] to the mix would make him tankier, which would help for these tighter cairn fights.
+
+[Quickstep] wouldn’t be terrible either though. The language implied that it worked like [Dash], but where his light armor skill was more like a series of lunges to clear a large distance on foot, this seemed to be no more than a basic evasion. That would still be great, even in tight quarters, and could perhaps be upgraded later.
+
+Jay sighed and selected [Leap]. As much as he liked the other options, the synergies were the most important aspect of his build. A well-placed [Leap] would bring him somewhere safer, and [Recover] allowed him to regain any spent skill energy, letting him survive through a fight indefinitely, so long as he chose the battlefield well. As Natura grew in force with each night, he needed to remember that this war was a marathon, and not a sprint.
+
+Besides, you’re not done yet. Jay marched back to his mine with a grin, his copper tools in hand.
+
+When he reached his furnaces, the copper had melted down, trickling out the glowing, molten liquid through his granite channels before splitting into a series of clay casts, all shaped with twenty-five rivets each. He cracked open one and studied the contents within. Firelight reflected on their surfaces.
+
+The sprues still needed to be snipped free, but Jay had his copper knife ready, and would not be deterred. The remaining waste metals could either be thrown into the research table for another advancement, or perhaps melted back down and upscaled into better gear. Either way, his nearby chests would hold these smaller pieces until future use.
+
+He brought the snipped rivets back to his workbench where the rest of his mats remained. This had been another success after finishing his spelunking mission the day before. With the metals he gained and a lucky roll for research, this recipe had been grinded out in less than a day.
+
+Jay cracked his knuckles and dove into this craft.
+
+The leather first had to be rolled out, four individual pieces that ran from his shoulder to his knees, made from thick jaguar hide that would have the best durability. His knife trimmed holes along its length, and upscaled hemp was used to tie them together into one coat. More holes were then poked through an associated copper bar, nice and thin, to minimize weight. Finally, four copper rivets bolted the copper onto the leather.
+
+It was by no means difficult, but it was tedious, especially since Jay needed to repeat the last step a hundred different times. Even with the power of the workbench, it took several hours before every single bar was whacked into place, with repairs for his knife and hammer needed along the way to keep them from breaking.
+
+But the result came in the end, and after all the toil, he’d created perhaps his best armor yet: a copperplate coat. The first piece of the highest-level medium armor set that he could now produce.
+
+Buzz.
+
+Level Up! Medium Armor 5 → 6
+
+New Skill available.
+
+Woah. When he went back a page, he’d gained an additional three choices for his next skill, all stances, but with a special notation that only a single stance could be chosen at this time.
+
+He read these options carefully. His “Investigate Skills” research did not extend this far for the first round.
+
+[Charge, Stance] – Lighten your armor’s weight, greatly increasing movement speed for a short time.
+
+[Ironchest, Stance] – Become one with your armor, fusing it to your body like it is a second layer of skin. Gain bonus hardness for a short time.
+
+[Waterform, Stance] – Immobilize yourself and draw upon the strength of your armor, raising your reaction speed. Dodge incoming attacks for a short time.
+
+Now, this gave Jay more options. A set of three distinct stances, along with the other two skills he’d ignored.
+
+The first was an obvious synergy. By increasing his movement speed further, Jay was indirectly taking his stronger medium armor and adjusting it to behave more like light. This compensated for the mobility loss and then some.
+
+[Ironchest] also created a different utility. There were plenty of circumstances where speed alone proved insufficient, particularly in those tighter caves or cairns. Anything Jay could do to buff his armor’s overall hardness would reduce breaks, let him stand his ground longer, and become tankier in general. Could he afford to let that boost go? It essentially functioned like a continuous [Brace].
+
+But then [Waterform] accomplished a similar thing. The best defense was never getting hit, and the language here was clear. By immobilizing himself, Jay would be able to circumvent the need to flee altogether. However, there was a clear drawback as well. Larger monsters like the troll or minotaur had enough reach to mitigate any benefit that could be had. What would those fights be like?
+
+Stop thinking linearly, Jay reminded himself. More than anything, he couldn’t just prepare for the fights he knew, but also the ones that would be on the horizon. Just the other day, he had trapped himself in a cave against an armed Expat, and though Kevin was his friend, that might not have been the case. How best might Jay have prepared for that type of enemy?
+
+He looked again at his list of skills and knew what to do.
+
+* * *
+
+No brilliant tapestry met him in the night sky tonight. A Voidstorm had disrupted the normal flare of twinkling stars. An endless, gray void remained in its place, obscured by a changing sea of blackened clouds. The red planet still tore through like the sun during the light of day, but that was all that remained. A darker twilight had come tonight, pelting the land beneath in a ferocious deluge of water and hail.
+
+And the land responded with a more obstinate shade. Once vibrant palms blended together, shrouding their roots in a darkness that could not get pierced, even by the crackles of lightning, whenever it flared out. No radiance could pierce this unnatural darkness.
+
+It was within this realm where Natura birthed its creations. The shrill, ear-splitting shrieks of its manifestations echoed louder than the Voidstorm’s thunder, plants and soil fusing together to shape monsters that had never seen the light of day, nor ever would.
+
+For they were creatures of the dark. Born from hatred, driven by hatred, and dying filled with hatred. All against an enemy that had never been given a choice.
+
+Jay Reis stood as a bulwark against these foes, his sword and shield in hand and body clad from copperplated gear from head to toe. After choosing his skills, he’d made the point to finish putting the set together, working well into the afternoon to see it done. Rain pelted against their hardened surface, and his body remained weathered by the unnatural “Chilled” Condition which he had not prepared for, but his spirit as strong as ever.
+
+Especially with his new stance.
+
+The monsters closed in, their glowing green eyes flickering to life between each flash of lightning. Another raid. Jay had survived so many of these encounters that he could identify the majority of monsters on sight, and knew the strategy Natura would attempt to bring him down. Raids prioritized faster-moving enemies to lock him in place while the stronger ones moved more slowly.
+
+Jay grinned, seeing a trio of mossmooses on the horizon. With the steady rise of Natura, it could now create many instead of just the one, and had since replaced the vanguard of granite bears as the main phalanx.
+
+And it was here where Jay marched first, his sword and shield in hand. His enemies began to coalesce around this spot.
+
+A volley of stones was launched first from a group of clay gorillas, but Jay [Braced] against the hits with ease. A pair of verdant wolves darted for his flank. Their thorn-like fangs bounced off his newly crafted copperplate armor.
+
+Jay gripped his sword tight and [Slashed].
+
+Another day of hunting had failed to yield a T-4 infusion core to give it the necessary boost, but after all his research, he could compensate by modifying his blade into “Sharpened+2” by spending hours to upscale a hefty supply of copper into the final result. This would supposedly increase his damage output further, but without testing on live enemies, it was difficult to say to what extent. Jay had not had the chance until now.
+
+The verdant wolves both floundered into the mud beneath, their eyes dimmed out as their severed heads rolled away in a single clean swing.
+
+Jay watched the steam rising from his enhanced copper blade where it had cleaved through, despite being unable to apply firesap oil in this rain. And I haven’t even infused my first monster core yet.
+
+More enemies rushed forth, only to meet the same instant fate. Jay didn’t even need to burn his skill energy to bring them down. His overpowered sword was doing all that work for him.
+
+The Voidstorm grew in force, wind howling as he continued to push for his main enemies.
+
+The trio of mossmooses towered above as Jay drew near. Their wooden bodies remained indomitable against the chilled rain, hail shattering on contact. Brambles sprouted from their massive scalps, gnarled and sharp as they twisted into a mess of thorns. Natura’s energy pulsated through the fissures along their length, and the leading monster puffed out smoke from its snout. Its teeth flashed to life when more lightning clattered.
+
+Everything else had become manageable until now, but these bastards had become the toughest of all. A single mistake was enough to be brought within an inch of his life, for their attacks were the most devastating that Natura had been able to unleash. When more than one came together, he was always forced onto the retreat.
+
+Jay stared into this group of recurring foes. Into this milestone that he had not been able to crack.
+
+And he grinned.
+
+His body rocketed forth with a [Leap], landing in the center of all three. They gasped at the bold move and redirected to face their attacker as one. Teeth clattered, saliva mixing with rain as it flowed down their moss-covered chins.
+
+Jay closed his eyes and opened his mind. Now was his moment of truth. He would either have chosen wisely and live to fight on, or he would have chosen poorly and die on the spot.
+
+A flurry of overwhelming teeth chomped down.
+
+[Waterform].
+
+The monsters bit into nothing but air as Jay weaved out of each attack with ease. His arm flicked back at once with another [Slash], cleaving into the nearest mossmoose’s cheek. Ichor gushed free. It recoiled with a yelp.
+
+A wall of thorn-laced antlers swooped by next, but Jay bent unnaturally out of the way, his armor-clad body ducking like a limbo dancer on crack. His sword lashed out for another counter. The barrage of fluid strengthened as blood fell with rain.
+
+Onyx hooves climbed into the sky next, the Voidstorm lightning highlighting their devastating form as they dropped down, directly where Jay stood. His brow furrowed, knowing he could not move with [Waterform] active. He only had time to snap his rounshield up and [Brace].
+
+But it did not matter. The hooves were trapped against the antlers of its neighbor as it attempted to make an attack at the same time. Both watched dumbfounded, their tight formation now working against them.
+
+Jay gleamed. This was his advantage here. Mossmooses used devastating charges as their primary attack, and could shatter his strongest heavy armor with a single hit if he wasn’t careful. But once confronted close up, their swings were more clumsy and uncoordinated. And with too many together and his stance active, they were more likely to hit each other than him.
+
+Jay held his weapon tight and launched a [Power Attack] before the moment could be lost. The strengthened copper blade cleaved into the closest one’s skull. The moosemoss recoiled, dragging its neighbor into the mud with it. Jay pressed his advantage with another duo of [Power Attacks]. The wooden chassis shattered on the third strike. Gore exploded out where the brain was eviscerated, and Natura’s fire burned no more.
+
+Jay suddenly gasped for air, his muscles tightening in a flash. The final mossmoose knocked him away with another antler swing. He splattered into jungle mud, ears ringing where his helmet had been struck.
+
+Get up. Jay lurched back to his feet and spit. He’d prepared for this phase as well. As the surviving mossmooses dug into the mud in preparation for a charge and the weaker manifestations closed in again, Jay sprinted forth and [Leaped] again. He landed behind the mossmooses this time, claiming a boulder as his sanctuary, with the boundary framed by spike traps fortified by copper tips.
+
+As his enemies floundered in the slick mud to reposition, Jay knelt down and [Recovered]. The cramps and fatigue lessened as he channeled his armor’s skill again. By the time the monsters unleashed their charge attacks again, Jay [Leaped] out of the way, his body once again back to full strength.
+
+A cacophony of howls filled the battlefield now that Natura’s manifestations could see that their raid would no longer go as planned. Jay didn’t need to flee nor defeat them in a single bout, even with the poor weather to slow him down. He could drag the fight out as long as needed.
+
+This game was a marathon, after all. Not a sprint.
+
+The battle raged on from there, with Jay aggressively using the powers of his skills to thin these monsters out, only to [Recover] it back before they could counter, using his new [Leap] to buy himself time.
+
+Somewhere along the way, the voidstorm cleared, and the stars lit up again. A tapestry of auroras flowed in its place, the cosmos reflected in a different light. A mosaic of brilliant colors now mingled where there had once only been a wall of black. Even the red planet melded with this vibrant web.
+
+Jay planted his copperplated boot atop the severed head of the final mossmoose, his breath even. His armor lay cracked and bent, but not a single piece had shattered.
+
+And he raised his copper sword in the air, victorious yet again.
+
+Name: Jay Reis (Copper Age)
+
+Vitality – 32/43 (Wounded+1)Hunger – 62/72Thirst – 22/24Fatigue – 31/48Sanity – 77/100 (Chilled)
+
+Main Crafts: Alchemy 1, Armor Crafting 2, Base Building 2, Cooking 1, Medicine 1, Tailoring 1, Tool Crafting 2, Weapon Crafting 2.Weapon Crafts: Axes 3, Bows 4, Clubs 3, Daggers 3, Spears 5, Swords 5.Armor Crafts: Heavy Armor 5, Light Armor 2, Medium Armor 6, Shields 5.
+
+Character Skills:[Forbidden Knowledge]
+
+Armor Skills: Heavy Armor: [Push], [Stampede]Medium Armor: [Recover], [Leap], [Waterform]Light Armor: [Dash]Shield: [Brace], [Track]
+
+Weapon Skills: Axes: [Chop]Bows: [Sharpshooter], [Longshot]Clubs: [Bash]Daggers: [Slice]Spears: [Thrust], [Sweep]Swords: [Power Attack], [Slash]
+
+Cursed Items:[Bag ‘a Mats]
+
+Armor:[Copperplate Hat][Copperplate Coat][Copperplate Leggings][Copperplate Shoes][Copperplate Gloves][Scaled Roundshield+4] (Hardened+1), (Reinforced+2)
+
+Weapons:[Copper Sword] (Sharpened+2), (Hardened), (Reinforced+1), (Stable)[Wooden Bow+3] (Reinforced+2)[Basic Leather Quiver]: Contains 20 [Flinthead Arrows][9mm Semi-Automatic Pistol] (Accurate+2), (Quick): Contains 4 [9mm Cartridge] (JHP)
+
+Tools:[Bag ‘a Mats] (Cursed)[Copper Knife][Copper Axe][Copper Hammer][Copper Pickaxe]

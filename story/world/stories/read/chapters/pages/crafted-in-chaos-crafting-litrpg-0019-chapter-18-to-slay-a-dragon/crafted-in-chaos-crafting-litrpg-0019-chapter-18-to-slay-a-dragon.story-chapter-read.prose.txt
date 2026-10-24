@@ -1,0 +1,167 @@
+[Wooden Bow] = Wood (Any, 1-1.3m) + Stick (Any, 0.1-0.2m) + Twine (Hemp, 0.9-1.1m) + Twine (Any, 0.15-0.2m) + [Knife] (Any) + [Workbench] (Any)
+
+Level Up! Bows 1 → 3
+
+New Skill available.
+
+Crafted arrows have increased piercing strength.
+
+New recipes available.
+
+Jay grinned, feeling the rush of these level unlocks. It had been a while since he’d seen progress play out, and that core boost from the giant centipede was exactly what he needed right now.
+
+He checked the new skills available.
+
+[Quickdraw, Basic] – Draw and fire an arrow, faster than normal.
+
+[Sharpshooter, Basic] – Spend extra time focusing on your target to deliver a precise shot.
+
+[Double Shot, Basic] – Fire two arrows at once, packing twice the punch.
+
+Jay had a feeling his options would look something like this. Though he had today’s plan, seeing the choices available made him waver. As far as he could tell, skills weren’t allocated with every crafting level gained, and he had no evidence they could be reassigned. If he chose poorly, he may not get a second chance.
+
+Until this moment, he’d been decided. Anything like [Sharpshooter] was the obvious pick for the same reason that he enjoyed [Thrust]. A single precise hit that could be performed from the safety of distance. Once the battle started, he never had enough time to draw and fire arrows. But [Quickdraw] would change the game if he could integrate it into his fights against Natura. [Double Shot] proved just as promising, albeit for a different reason. Rather than clearing the weaker monsters, he could cripple one of the larger ones in a single shot if he timed it well.
+
+Don’t forget what this is for. Jay breathed deep and selected [Sharpshooter].
+
+He hadn’t used bows more than necessary for a reason. Not only was the speed and range difficult to manage, but just utilizing arrows burned resources that he already struggled to replace. As much as it would be good to experiment, he lacked the luxury of time to spend all day crafting arrows.
+
+No way out of it. Stronger theorycrafting could wait until his neck was back above water. Until then, his best play was to make a synergy so overpowered that he wouldn’t need to win any fight directly.
+
+He raised his wooden bow and drew a flinthead arrow, his sight on a tree more than a hundred feet away. He closed an eye and concentrated, feeling the power of [Sharpshooter] take effect. The world grew blurry, even as the tree fell into focus with a sharpness that he’d never experienced before. Like looking through binoculars, Jay could make out every fine contour and detail on the tree. The crevices, the lichen, the dried sap, all the way down to a small spider trudging along the bark…
+
+He fired a shot. The flinthead arrow launched the distance and struck his target. Jay made the slow hike over, wondering just how well this had paid off.
+
+He gaped at the result. At first, Jay had only planned to hit the tree, but after spotting the spider under [Sharpshooter] vision, instinct took over. Now, he could see the exact position where the arrow had landed, cleaving the spider in two.
+
+“Whoa.” Once again, the power of a skill exceeded his expectations. This level of accuracy was the missing element in today’s plan.
+
+Jay was far from finished powering up.
+
+He spent the rest of the hour preparing the appropriate teas. Cocoa had become his lifeblood at this point, and he had no idea what he’d do once the nearest bushes were emptied. More sugar water would help him make use of his energy well, though he wasn’t sure how much that’d pay off until he got stronger armor. He munched on the last of his black boar meat to keep his vitality at his peak. He’d only need to keep himself stable for this one last fight…
+
+Then it was off to the jungle, marching inland where he’d find stronger prey.
+
+Whatever fatigue he’d had disappeared once he crossed this threshold. Unlike the calmer beach where he’d first started or the raised plateau above that, this part of the island held a denser, wilder environment. The palm trees clustered between towering cliffs, with elms that went hundreds of feet high, and vines as thick as his arm. The sun was blocked where the canopy roped together tightest, shrouding some parts of the underbrush in shadows that only a torch could pierce.
+
+Jay had only skirted this place a few times after uncovering more animal dung that pointed to a minimum of level 10 animals and monsters hiding in this location. He still hadn’t recovered since his raid in the cairn, and had barely managed to win against the giant centipede earlier in the day.
+
+But now that he was in the thick of it, traveling went by slowly and carefully. Between the lack of clear vision and the constant background of animals grunting and hissing over one another, Jay had never felt more vulnerable than now. His head was on a swivel as he moved through the brush, one eye always fixed on a way back.
+
+For what could have been hours, he went through the undergrowth, seeking his target out.
+
+And then he found it.
+
+At first, Jay thought it was no more than a long, dark green boulder that stretched the length of a bus, its rough surface blending into the mud beneath. He would have walked right into his target had this boulder not suddenly expanded, revealing the seams between its scales the size of his fist. The rest of the crag shifted. The feet could have crushed his entire body in a step, with talons like sickles meant to plow a field of corn. Light bounded off an eyeball as it stared lazily forth, smooth and black as polished onyx. Even the tail exuded raw strength, curling over a ridge where it hadn’t sunk into the brush. Rock cracked against its weight.
+
+So this is a high-level monster in the wild? He opened the Guide to confirm his target.
+
+Komodo Dragon (level 18) – A predatory lizard that stalks F-Rank jungles. Known for its massive size and strength, this creature will snatch prey with an elongated, poisoned tongue.
+
+Contains a monster core.
+
+Research still available.
+
+Jay swallowed the bile in his throat. He’d seen this monster once from further away, and it hadn’t seemed like that big of a deal. Not the type of creature to take in a fight, but enough that he could wear it down from a distance.
+
+And yet, this monster lived up to its name. It was a dragon in every sense of the word. Could his puny arrows even pierce its flesh? Would it even notice?
+
+It had to. Jay had spent the better part of the day planning this out, and now that he had the +2 core infused into his bow, there was no choice. Either Jay would kick above his weight and climb to the top, or he would die within the next few days. He could only keep his fatigue from dropping for so long.
+
+He raised his bow and drew an arrow.
+
+A silverback gorilla limbered into view before he could take the shot. Jay recognized his archnemesis on sight, with the wiry hair bulging from muscled arms and the weathered gaunt cheeks that knew no fear.
+
+The gorilla froze in place the moment it saw the komodo dragon though. The two locked eyes, with the komodo as a blank slate, while the silverback’s brow slanted into an upside-down V, sweat starting to build. It opened its mouth and moaned. A membrane sloshed across the komodo’s eye as it blinked.
+
+It all happened so quickly. The silverback turned and jumped for the trees, and the dragon’s mouth cracked open a beat, a forked tongue like a firehose shooting out. Before the gorilla had reached the nearest branch, the tongue slithered around its monstrous form and yanked it back. The gorilla bleated powerlessly as it got sucked into the komodo’s now-extended jaw. A hundred teeth slapped shut, and the silverback gorilla was no more.
+
+And Jay stood and gaped, bow still in hand.
+
+He’d have to abort his plan. After holding his own briefly against the minotaur, Jay had grown too cocky thinking he could fight a monster of this level. But the difference in power was more than he could bear. Even if he went in at full strength, that demon could swallow him in a single bite!
+
+Yes, Jay would have to turn around, go back home, and devise another plan.
+
+But then his arrow slipped. Time slowed into a trickle as Jay watched it whiz out of his hiding spot, across the open clearing, and into the gargantuan behemoth that could level a city block.
+
+Its scales flinched where the arrow struck the spot, but it otherwise remained immobile. He watched without words, the air caught in his throat.
+
+The monster’s eyeball flicked his way, a giant pupil seeking out its next threat before narrowing onto him. The jaw opened another crack as it turned its head in full. Blood flowed like a river between its rows of serrated teeth, but compared to the size, it was a mere trickle. A sharp hiss pervaded the jungle. The leaves themselves seemed to shudder in awe.
+
+One of the dragon’s feet stomped through the mud, vibrating the very earth beneath. The other followed.
+
+Jay turned and sprinted with all his might, instinct kicking into overdrive. Whatever could be said about his ill-devised plan, it was too late to go back. He ducked and dodged against the branches, desperately trying to get as far and as fast away as possible.
+
+Stomp. Stomp. Stomp.
+
+No matter how fast he vaulted through the brush, his enemy was never far behind. If anything, the sound seemed to close in with each stride, even with them being seconds apart. Jay dared not look back lest he see that monster’s hideous tongue launching straight for his face. But between the ever-present weight of its feet and the sound of entire trees snapping against its shifting mass, one epiphany came together.
+
+This was a terrible idea. Jay had picked this fight thinking he’d have more time on his hands, but the bow range only went so far, especially when placed in the overgrown part of the jungle. He should have stalked it for longer, found a ridge it couldn’t climb, and initiated from a safer place.
+
+But he’d been too greedy… Too tired… And he truly wanted to believe that he could win.
+
+Now, Jay had engaged in a race that he could not win. The underbrush was too thick for him to go through at full speed, while his enemy was so powerful that it could just flatten every obstacle in its way. The entire jungle was bending to this behemoth’s overwhelming strength.
+
+Jay could see the edge of thickets not far away. From there, it’d just be a quick hop to his base in the ridge. Only there did he stand a chance.
+
+But after running past a boulder and hearing it shatter seconds later, he knew he did not have time. The air behind hissed with the sound of a whip crackling. He bent low and [Dashed].
+
+Just in time. The dragon’s tongue lashed out into the empty air above before recoiling back. Jay [Dashed] a second time to break out of the thickets. He sprinted across the open field, his legs now in full force as it created distance again.
+
+The respite was pitifully short. The komodo dragon’s thunderous steps merely increased in frequency as it sped up.
+
+Almost there. Just keep going. His muscles screamed for rest and his lungs craved oxygen, but still, Jay did not stop sprinting. Not until he’d made it back home. The narrow ridge opened in front, with his wall of spike traps and palisades ready to save him. Jay bounded through with the last of his strength. His body crashed against the rough stone surface as he gasped for air.
+
+But still, it was not over. The komodo dragon continued to march across the open space, not the least bit deterred by the ramshackle barricade between. When it walked into the outer spike traps, his defenses merely shattered against its armored shell.
+
+It reached the narrow entrance and grinned, rows of teeth stained in reflective scarlet. Both eyes narrowed on Jay, knowing he had nowhere else to run.
+
+Jay closed his eyes. This was it. His moment of truth. Everything had been leading for this moment. All that remained was seeing it through.
+
+He raised his wooden bow, pulled a flinthead arrow from his backpack, and pulled it between the string. But as the dragon watched him without fear, Jay aimed straight up and activated [Sharpshooter].
+
+His eyes pierced beyond the pillars of his fledgling base, past the rocks of the ridge, through the network of wooden fences and loosened stones cobbled together, and into the rope that ran across the gap between. His sight narrowed onto this firm piece of hemp as he took aim.
+
+Right into the trigger for his landslide trap.
+
+He launched the arrow. It cut through the rope with ease, releasing the boulder it kept tied in place. Though Jay could not see from his angle, he could hear the other pieces moving. First, the boulder collided with the nearest pile of stones, which shattered the ring of fences holding them in place. This caused the stones to roll into the next ring of rocks bounded by wood, which snapped their barriers. The pile grew in mass as it broke through ring to ring, turning into a living landslide as it thundered for the open ridge. Within seconds of being triggered, half the mountain was tumbling below.
+
+Just as planned.
+
+The dragon tried to retreat, but its monstrous body worked against it here. Most of the smaller rocks shattered upon impact, but the artificial landslide had gained so much that entire chunks of the cliff had been ripped off. Boulders the sizes of trucks fell into the komodo at full speed, and not even its unyielding scales could deflect so many blows at once.
+
+It writhed against the sudden shock, blood spilling from its jaw again, and not just from the gorilla guts that mixed with its saliva. With a dying hiss, the tongue sprawled out into the open ravine. Another second, it stopped moving altogether.
+
+Jay waited a few seconds before breathing deeply. He’d managed to win an impossible fight. Though too close for comfort this time. The original plan had involved giving himself more distance to spring this trap, but after launching that arrow by mistake, everything became reflexive.
+
+But he’d made it through, in the end.
+
+He studied the shattered cliff-side and winced. This was another irreplaceable trump card. No way would he be able to use this against Natura or anything else. The base he’d spent days cultivating was now vulnerable again, and there was little he could do.
+
+But, he’d gained perhaps his strongest find since. Once Jay cut into the komodo and recovered its core, he’d be able to level up a piece of gear to +4. Who knew what benefit that would bring?
+
+Jay approached his dead target with glee. He pressed his flint knife against the dragon’s scales and started hacking away.
+
+Snap.
+
+Jay watched as his flint blade snapped free against the monster’s stone-like scales, with no noticeable progress made.
+
+Hmm.
+
+…This was going to take a while.
+
+Name: Jay Reis (Primal Age)
+
+Vitality – 30/30Hunger – 17/72 Thirst – 14/24 (Sweltering)Fatigue – 3/16 (Poorly Rested+3, Stimmed)Sanity – 80/100
+
+Main Crafts: Armor Crafting 1, Base Building 1, Cooking 0, Medicine 0, Tailoring 1, Tool Crafting 1, Weapon Crafting 1.Weapon Crafts: Axes 0, Bows 3, Spears 3.Armor Crafts: Heavy Armor 2, Light Armor 2, Medium Armor 0, Shields 2.
+
+Armor Skills: Heavy Armor: [Push]Light Armor: [Dash]Shield: [Brace]
+
+Weapon Skills: Bows: [Sharpshooter]Spears: [Thrust]
+
+Armor:[Fur Helmet+1] (Reinforced)[Fur Chestpiece+1][Fur Leggings][Fur Boots][Fur Gloves]
+
+Weapons:[Flint Spear+2] (Reinforced)[Bone Dart Pouch+1]: Contains 11 [Bone Darts] (Poisoned)[Wooden Bow+2][Crude Quiver]: Contains 18 [Flinthead Arrows]
+
+Tools:[Stone Axe][Stone Hammer]

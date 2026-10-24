@@ -1,0 +1,239 @@
+[Basic Research Table] = 4 Wood (Any, 1.3m) + 5 Wood (Any, 0.9m) + 4 Wood (Any, 0.7m) + 2 Wood (Any, 0.8m) + 8 Wood (Any, 1.1m) + 2 Twine (Hemp, 1.8m) + 4 Twine (Any, 1m) + 36 Bone (Level 6+, 0.03kg) + [Hammer] (Stone) + [Knife] (Flint)
+
+It was time to get back on track.
+
+Jay awoke from his moss bed with a yawn. The sun shone down from high above, but between the natural shelter of his ridge and the crude rooftop he’d tossed over his bed, no light could bother him.
+
+Jay could sleep as much as he damned well pleased.
+
+But that was enough for now. As Jay cracked his neck and stretched his legs, he was happy for nothing other than the momentary relaxation in his limbs. He opened the Guide to check his Stats.
+
+Name: Jay Reis (Primal Age)
+
+Vitality – 37/37
+
+Hunger – 55/72
+
+Thirst – 12/24
+
+Fatigue – 24/24 (Poorly Rested+2)
+
+Sanity – 89/100
+
+He smiled, seeing his “Poorly Rested” Affliction tick down. Though he still wasn’t at full strength, just knowing he had a full twenty-four hours before needing to rest again sent a warmth to his heart. The drop in thirst and hunger was to be expected, especially after resting for twelve hours straight. His loss of vitality was a bit more troubling, but that level 18 komodo meat could only carry him so far before dipping.
+
+The valley outside his base was a different story, however. That heroic battle between the B-Rank zeppelin and its comparable Natura manifestations had reduced much of this part of the island into rubble. If the stray bullets hadn’t blown most trees up outright, then lingering wildfires finished them off. Other steep cliffs had transformed into piles of rocks strewn about, while some passes were buried under landslides altogether.
+
+Jay had been around this area for less than a week, and in little more than ten minutes of fighting, the entire landscape was transformed beyond recognition. Only the drake’s head that landed near him had since disappeared, though not before Jay broke his tools trying to harvest anything worthwhile from it.
+
+He shuddered. If not even that destructive power was enough to defeat Natura, then what would it take?
+
+As much as it needs, Jay thought to himself. Though he should have been scared about such an insurmountable gap in power, he wasn’t. If anything, Jay was thrilled with the prospect of where his abilities might one day go. He just had to keep winning the fight, step by step, until he reached the end.
+
+But first, his shorter-term goals still needed to be resolved.
+
+Jay once again went through the Guide. With his life saved and his survival back under control, he could figure out how to ensure the next few nights went off easily. His 9mm pistol would no doubt continue to serve as a trump card, but he only had nine bullets left in the magazine. He wouldn’t be able to rely on that forever.
+
+Instead, he returned to the next recipe he’d been ignoring, following Naomi’s advice. He spent perhaps twenty minutes gathering the materials, made quicker now that he’d infused monster cores into his stone axe and flint knife. Thankfully, not everything nearby had been destroyed in last night’s battle, and he’d saved enough bones from previous fights to need to start another.
+
+Jay sprawled out the mats in front and went to work. The first step came from using his flint knife to trim the blocks of wood down to size, shaved precisely to account for the size of the table. Four planks were propped vertically to stand as the legs, and a mix of others connected them between the middle and top, with an extra running along the length for added stability.
+
+This was where a stone hammer came in handy. His knife drilled small holes at each connecting joint, and his hammer whacked pieces of bone into place like makeshift nails. Thicker blocks of wood were placed atop this foundation, lassoed together with jungle vines and reinforced with more bone.
+
+With the top of the table complete, a second set of planks bolted and tied formed a board that sat affixed to the back of the table. However, that was not enough to keep it in place, so Jay tied the longest pieces of hemp to the front of the table and on top of the board. Gravity worked to his advantage as it tilted back, making the rope taut.
+
+And just like that, Jay had crafted his most complex recipe to date. He beamed at the basic research table, and the Guide buzzed in anticipation.
+
+Congratulations! You have crafted a [Basic Research Table], Expatriate. Place this Expatriate Guide on the table’s top, select an entry in the Lexicon, and follow the board’s instructions to unlock hidden knowledge!
+
+Level Up! Base Building 1 → 2
+
+Base crafting speed increased.
+
+New recipes unlocked.
+
+Jay went for the Lexicon and grinned at the new recipes for his base, now given an option for bones in hardwood planks for his main infrastructure.
+
+Immediately as he reached the page, however, the backboard became overloaded with matching scribbles and text, as though it was a computer screen, not blocks of wood. Jay flipped through the Lexicon, and the backboard adjusted with it.
+
+Where to begin? There were so many details inside the Guide that stated “research available,” from the monsters he’d encountered to the plants he walked by on a daily basis. Hell, just about everything in the Lexicon part of the Guide could be researched.
+
+He picked an entry at random, and the backboard blew up in text.
+
+Flora – Aloe Vera
+
+Research Requirements: Examine minimum of 1kg material for required length of time and/or expend desired material into table’s board to reduce maximum time.
+
+Pending Research:
+
+Expanded Lexicon (Basic): 10-60 minutes, or 5-10kg
+
+Upscale (+1): 1-6 hours, or 15-30kg
+
+Gardening (Basic): 1.3-7 hours, or 35-50kg
+
+So much new information! Jay gleaned through the possibilities. It seemed that the table required either a mix of time or resources spent in order to progress, just as Naomi had explained.
+
+But when his eyes fell to the material quantities required, his heart sank. Weights were strange in Annwyn in a way that he couldn’t appreciate until handling so many different things. Just about everything small felt heavier than it should have been, with armfuls of flowers suddenly translating to multiple kilograms. Meanwhile, trees that should have weighed multiple tons instead were a fraction the size, and could be dragged by hand more often than not. And most interestingly of all, the moment these ingredients were crafted together, the weight changed further, almost always becoming lighter.
+
+The get quantities at these levels were therefore not the hardest grind, but it usually required many trips around since his basic leather backpack could hold less than twenty-five kilograms at any given time. In the instance of the Expanded Lexicon, Jay would need to gather anywhere from twenty to forty patches of Aloe Vera by his estimation, each weighing a quarter of a kilogram each.
+
+Thankfully, as chance would have it, Jay had already collected a healthy supply of Aloe Vera nearby, having made the habit of picking it up and everything else on sight, should his health ever drop too low. He dumped them all out onto the table, and then selected the simplest option on the backboard.
+
+The text changed at once.
+
+Research Selected…
+
+Time Requirement rolled (Core Modifier: None).
+
+Resource Expense rolled (Core Modifier: None).
+
+Research Now Available.
+
+He blinked as the board changed again, displaying the final result.
+
+Flora – Aloe Vera
+
+Current Research: Expanded Lexicon (Basic)
+
+Time Remaining: 52 minutes
+
+Resources Expended: 0.0/6.8kg
+
+Interesting. Not only did the table roll a dice to determine the research time it needed, but it did the same for any materials required on the side. Was this how it all worked?
+
+Jay grimaced, seeing that there was no “Core Modifier” for him. That must have been where Naomi’s explanation came into play. Other Expats would be able to see some difference occur here, but not him. Not since he missed out on the tutorial, where he would have gained his own class.
+
+Oh well. Jay couldn’t change this fate. He could only proceed forward with what was currently available.
+
+Much like with the crafting recipe, his movements became automatic. Jay hunched over the research table and sifted through the Aloe Vera he had collected until he reached roughly the 6.8kg he required to expend resources. He then removed his Guide, took a step back, and lowered the backboard until it lay flat on the table’s top, like scanning a photocopy.
+
+The entire table sparkled with magical energy for a moment, and steam spewed out of the gaps between. Jay gaped, seeing the table’s power in action. When he raised the backboard again, the Aloe Vera had vanished.
+
+But the board had changed as well.
+
+Flora – Aloe Vera
+
+Current Research: Expanded Lexicon (Basic)
+
+Time Remaining: 13 minutes
+
+Resources Expended: 6.95/6.8kg
+
+Jay grimaced, realizing that he’d overestimated slightly and burned extra resources by mistake, but the result could not be denied. He had cut down three-quarters of the initial research time by using up a chunk of his Aloe Vera stash. He quickly placed the minimum 1kg back onto the table top and went to work.
+
+He knelt low and examined the Aloe Vera, and though he’d seen these plants hundreds of times before, they were now cast in a new light. As he shifted them back and forth, it was as though he could stare through them.
+
+Like everything else, the power of the research table gifted Jay with an ineffable sense. Into the leaves. Into the stem. Into the petals. Through the cells and the cellulose fibers and all that lay between, Jay could pierce through this all and understand this plant at a deeper level.
+
+Somewhere along the way, he glanced back up.
+
+Flora – Aloe Vera
+
+Current Research: Expanded Lexicon (Basic)
+
+Time Remaining: 4 minutes, 38 seconds
+
+Resources Expended: 6.95/6.8kg
+
+Had it been that long already? Jay had gotten lost in the noise of uncovering the Aloe Vera’s secrets, and his mind grew to ease absorbing it all. He returned to work, continuing his research until the time he researched zero.
+
+Buzz.
+
+Congratulations! You completed your first Research Project, Expatriate! Check the Lexicon to see what you have learned.
+
+He flipped back a couple pages, and his eyes widened as he spotted the entry. Where the “Aloe Vera” spot had once only contained a single short sentence, there were now several paragraphs detailing the type of climate it grew under, how many kilograms could be found per patch, and how long it would take to regrow. Approximately three weeks for each patch, as it turned out.
+
+He took everything in with a gleam. It would be so much easier to collect more now with this information!
+
+And the backboard of the research table had changed yet again.
+
+Pending Research:
+
+Identify Crafting Nodes (Basic): 1-6 hours, or 30-45kg
+
+Upscale (+1): 1-6 hours, or 15-30kg
+
+Gardening (Basic): 1.3-7 hours, or 35-50kg
+
+Expanded Lexicon (Advanced): 1.5-8 hours, or 40-60kg
+
+Not only did research gift him with advanced knowledge to make his day more efficient, but it could be used to further enhance the process of material creation, unlocking more research to better make use of this otherwise common material. He could even identify other crafting nodes now without having to first to discover all the materials. And this brought an even more significant revelation.
+
+If the table gave him this much after only a few minutes and some plants burned, then what else could he gain?
+
+Jay doubled back to the Crafting section of his Guide and selected the most obvious wall he’d hit.
+
+Crafting – Spears
+
+Research Requirements: Examine crafted [Flint Spear] for required length of time and/or expend desired material into table’s board to reduce maximum time.
+
+Pending Research:
+
+Identify Modifiers: 5-20 hours, or Wood (Any, 200-300kg) + Twine (Any, 50-75kg) + Flint (125-200kg)
+
+Unlock Javelins Sub-Craft: 5-20 hours, or Wood (Any, 250-400kg) + Twine (Any, 80-100kg) + Flint (140-225kg)
+
+Unlock Copper Spear: 30-90 hours, or Wood (Any, 4000-6000kg) + Twine (Any, 500-750kg) + Copper (2500-3750kg)
+
+So this is the true path forward. Jay had been in the newbie zone. Only now could he see that. Up until this moment, his survival had been clear… Collect materials, kill monsters, get better cores, build better gear, kill stronger monsters. That much made sense, and it gave him a constant goal.
+
+But the pieces had never quite fit into place. Why did he always have to discover new materials to find the next node? Why was leveling all over the place? If he was supposed to be thrust into this world as some kind of warrior, then why was everything so aimless?
+
+This changed the game. In the simplest terms, Jay now had to contend with spending time and resources in addition to everything else. It was no longer just about killing monsters for their materials and cores, but choosing where and when to invest them. No longer could Jay flippantly change builds on the fly because he’d gained a bunch of new cores. He’d have to make his decisions carefully.
+
+Especially without a class of his own.
+
+That much became more evident than all else. If all other Expats had a “core” of their own that let them adjust the research dice rolls for their specific class, then Jay would never be able to keep up. He’d always be chasing his tail to specialize in a particular build.
+
+His chest grew tighter the more he thought it through. Ever since Naomi had explained this fact, he’d known that it existed, but it wasn’t until this moment that the weight of his handicap became so clear.
+
+In a world where grinding equated to survival, Jay could never out-grind anyone else.
+
+His eyes watered. Why did the odds have to always be stacked against him? It wasn’t his fault that he never got the tutorial. It was the creepy monster voices that had sent him here. Somehow, they fucked up enough so he couldn’t go through the proper channels.
+
+Did they really just expect him to fight their war with a disability this severe?
+
+Maybe. Maybe not. You might not be able to level as fast, Naomi had deduced, but you’d always have access to the entire Expat arsenal while most of us end up stuck in our lanes.
+
+Jay considered that truth as he studied the requirements for the copper spear next. Though the range was wide and would take days at a minimum, it wasn’t that bad. Others might have far more difficulty getting into spears if their core’s modifier was negative. He just had nothing working for him or against either. Was that the worst of all circumstances?
+
+Jay flipped through the Guide some more, examining the different research options available. Pretty much everything in the Lexicon could be researched, from the crafting speed of certain recipes, to the spawning locations of monsters he’d encountered. The Crafting tree all had specific categories for the tech he’d have to uncover, but everything else fell under “General” research where core modifiers only applied if it could feed into the main class. That meant hunting research could not be modified by anyone, while material upscaling might be upgradeable if it benefited a specific class, like that Aloe Vera for Medicine.
+
+But of all the options available, not a single one was insurmountable. Some just required more effort than others. Nothing was really off the table.
+
+And the deeper he delved, the more he recognized the patterns. Like Naomi said, investing cores alone could circumvent most of the Primal Age research.
+
+Jay grinned. This wasn’t a handicap. Far from it. For a gamer like him, he’d just have to find the synergies and make them work. This wasn’t like a standard RPG. He didn’t need to be level 10 to defeat a level 10 enemy. He could find two pieces of level 5 gear that became busted when combined. That was how Jay had defeated many of his enemies until now, using the world’s physics against him. This was just another element to that equation, not a hard limit.
+
+But where would he go with this next? He went through the Crafting tree, now focusing on weapons and armor. This was no longer a question of figuring out what came next. He’d have to plan for a future that accounted for research. His mind flared as a hundred gaming calculations ran through.
+
+Speed? No. Tanking? Not a chance. Any pure build was out of the question. Only a hybrid or balanced build would work. Just enough to tick the boxes and keep him moving while he supplemented other tools into the kit.
+
+He gripped his spear and frowned. No, this wouldn’t do long-term either. By relying on setting up for his precious [Thrusts], Jay would always be limited in what he could do.
+
+He needed a different weapon. A more versatile kind. He needed the type of weapon that could be used in every single circumstance, both defensively and offensively, including against foes who could swing back. The minotaur and satyr wouldn’t be the only intelligent monsters out there. Some Expats might become problems later. That was why he chose to be out here by himself, after all.
+
+But what could he do? What weapon would let him cover all these bases at once? He probed through the Guide, desperate for an answer.
+
+Jay smacked himself when he reached his conclusion. Of course. There was one staple weapon in every fantasy setting designed to cover all bases, and it had been available as one of the main Weapon Crafts since the start. He looked at the spot under his character sheet, where it had remained untouched.
+
+He knew where he would have to go next.
+
+Weapon Crafts: Swords 0.
+
+Name: Jay Reis (Primal Age)
+
+Vitality – 37/37Hunger – 53/72 Thirst – 20/24 Fatigue – 20/24 (Poorly Rested+2)Sanity – 90/100
+
+Main Crafts: Armor Crafting 1, Base Building 2, Cooking 0, Medicine 0, Tailoring 1, Tool Crafting 1, Weapon Crafting 2.Weapon Crafts: Axes 0, Bows 3, Clubs 0, Daggers 0, Spears 5, Swords 0.Armor Crafts: Heavy Armor 3, Light Armor 2, Medium Armor 0, Shields 4.
+
+Armor Skills: Heavy Armor: [Push]Light Armor: [Dash]Shield: [Brace], [Track]
+
+Weapon Skills: Bows: [Sharpshooter]Spears: [Thrust], [Sweep]
+
+Armor:[Lizardscale Helmet+2] (Hardened+1)[Lizardscale Chestpiece+2] (Hardened+1)[Lizardscale Leggings+2] (Hardened+1)[Lizardscale Boots+1] (Hardened+1)[Lizardscale Gauntlets+1] (Hardened+1)[Scaled Roundshield+3] (Hardened+1)
+
+Weapons:[Flint Spear+4] (Reinforced), (Hardened)[Flint Spear+2] (Reinforced)[Wooden Bow+2][Crude Quiver]: Contains 20 [Flinthead Arrows][Crude Javelin Bag]: Contains 5 [Crude Javelins][9mm Semi-Automatic Pistol] (Accurate+2), (Quick): Contains 9 [9mm Cartridge] (JHP)
+
+Tools:[Flint Knife+1][Stone Axe+1][Stone Hammer+1]

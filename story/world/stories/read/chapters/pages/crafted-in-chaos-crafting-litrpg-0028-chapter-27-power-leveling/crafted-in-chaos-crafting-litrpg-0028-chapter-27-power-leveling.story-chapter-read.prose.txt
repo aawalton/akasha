@@ -1,0 +1,223 @@
+[Hardwood Sword] = 1 Wood (Hard, 0.45-0.8m) + 1 Wood, (Hard, 0.15-0.2m) + Hide (Level 6+, 0.15-0.2m) + 2 Bone (Level 6+, 0.2-0.3kg) + Twine (Any, 0.2-0.25m) + [Knife] (Flint) + [Workbench] (Any)
+
+The infamous level 19 jaguar hissed, blood rolling down its cheek.
+
+[Thrust].
+
+Jay cleaved through the bastard’s throat with his flint spear. Its eyes curled back, and it fell with a thump into the jungle mud beneath.
+
+Not too shabby. Even though the sun was only halfway risen, this was the third middling monster he’d killed today.
+
+He drew his +1 flint knife and went to work. Peeling away the hide, hacking off the meat, and, of course, collecting the monster core for future use.
+
+The past two days had been a breeze. After learning how research mechanics worked, Jay dedicated himself to shoring up necessary bases, using the power of the table to enhance his knowledge of Annwyn’s world more than anything. The nights were still a struggle, but not insurmountably so, and Jay had only expended a single bullet from his 9mm pistol to see it through. That left eight left in the magazine to be used as his ultimate trump card while he figured everything else out.
+
+His Stats had also leveled out. His Poorly Rested status was now gone completely, his sunhat kept the Sweltering heat at bay, and his campfire burned any Parasites before they could form. With a healthy supply of fresh meat on his drying racks to replace the komodo meat that had rotted out, Jay wasn’t about to die from hunger or thirst any time soon.
+
+The greatest benefit came from the collected cores, though. As it turned out, most monster research could be fast-tracked down to a ninety percent time reduction if the associated cores were infused in, and this research applied across many monster types at once, at least at the most basic level. Jay didn’t just learn the locations and patterns level 1-5 boars when he infused the core, for instance. He learned about all those snakes and Tasmanian devils and everything else in the same T-1 category. That let him track more monsters down faster, which in turn let him perform more research in a fraction of the time. Just as Naomi said, the cores were the smoothest path forward. This critical piece of advice was paying dividends, and he almost forgave her for robbing him.
+
+Almost, anyway.
+
+He studied his newest level 19 monster core. The magical energy pulsated within the darkened sphere, and iridescent light flickered across its surface. He put it in his pocket with everything else.
+
+It was time for more upgrades.
+
+Jay made the trip back home to his base in the ridge. He grimaced as he entered the area. Though the walls of his camp held firm and had withstood multiple Natura attacks, the same could not be said for the world beyond. The toll of the zeppelin’s attack had not yet recovered, and from what Jay had been gathering from his research, it could take weeks for the trees to even start to grow back, if not months.
+
+The entire area had been crushed through those stray magical bullets, more so than he’d come to realize.
+
+Only his defenses held firm. The moment Jay had the time to build them up, he went all out, reinforcing his palisade wall with added wooden spikes and crafting more in random tetrahedral shapes to keep the horde from bunching too far in the field beyond, each capped with bone or flint for extra damage. It worked well in forcing the army back the first night, but Natura adapted by sending stronger enemies instead of more numerous ones, and the barriers were quickly wearing down faster than he could do repairs. He’d have to think of how this got handled next…
+
+Jay shrugged. One step at a time.
+
+He returned to his workbench. With so many extra cores available, it was time for him to shore up his gear to be more rounded out. He started by infusing the level 19 core into his scaled chestplate.
+
+Buzz.
+
+Level Up! Armor Crafting 1 → 2
+
+Armor crafting durability increased.
+
+Level Up! Heavy Armor 3 → 5
+
+New Skill available.
+
+Passive unlocked: crafted heavy armor has increased poise.
+
+New skill, huh? Jay went back to check them out again.
+
+[Brace, Basic] – React to an incoming hit by tightening the strength of your armor, reducing the amount of damage upon the next impact.
+
+[Bulwark, Basic] – React to an incoming hit by anchoring yourself in place, reducing the amount of knockback inflicted upon the next impact.
+
+[Stampede] – Select an area and charge, inflicting area damage against those between.
+
+Jay paused, considering the options. The last time he’d chosen a skill for heavy armor had been on night three, and he’d picked it by mistake. Now that he was no longer pressured to win the immediate fight, he had to consider which skills would aid his longer-term survival.
+
+[Brace] seemed the most efficient choice. He could ditch upgrades in shields and tank any damage coming in by relegating what had belonged to his shield to his armor set instead.
+
+[Bulwark] wasn’t a bad choice either, however. He’d lost track of the amount of times something sent him flying away. If he could mitigate that risk by buffing his poise further, he would have much better control of the battlefield in heavy armor, especially when combined with [Push].
+
+But the upgrade to [Push], aptly named [Stampede], also had value to not be underrated. With this skill in his arsenal, he’d be able to provide his armor set with offensive capabilities and mobility, all while controlling his spot in the fight.
+
+Then again, did the choice even matter? Jay was increasingly of the mind that he’d have to abandon heavy armor altogether. The greater defense was a benefit, but the mobility loss did not make up for it. In a world where power scaled to such an extraordinary speed, relying on raw strength was doomed to fail, especially since he lacked an Expat core that would let him keep pace.
+
+Jay knew what he had to do. He selected [Stampede] with a sigh. Synergies mattered more than anything else, and if he couldn’t rely on heavy armor as a form of progression, he could at least use it to escape from unwinnable fights.
+
+A T-3 core came next, and he knew where this would go as well.
+
+Buzz.
+
+Level Up! Bows 3 → 4
+
+New Skill available.
+
+New recipe available.
+
+New recipe, too? Sure enough, hardwood shortbows had been added to the equation, in addition to the longbow he had unlocked before, though both were adjacent to his current tier and would not give a new level unlock.
+
+He’d consider making one after the skill selection.
+
+[Quickdraw, Basic] – Draw and fire an arrow, faster than normal.
+
+[Longshot] – Increase the range of your next shot by more than double the distance.
+
+[Double Shot, Basic] – Fire two arrows at once, packing twice the punch.
+
+[Richochet, Basic] – Deflect an arrow against an otherwise hard target, hitting enemies behind cover.
+
+Another deduction could be made here. Weapon skill selections seemed to add a fourth option at level 4, while armor was limited to only three. Would this trend continue as Jay climbed further up?
+
+The bow options weren’t bad, either. Jay had chosen to level up his bow because having range would always be helpful, even if for no reason other than to bait a larger target to come to him.
+
+[Richochet] added another twist to the equation, however. Being able to hit targets around bends and corners added to its abilities, and should he level up enough to add [Quickdraw] to the mix and combine it with [Dash], he could compensate for what was otherwise the disadvantages of ranged weapons. No wonder Naomi is able to perform so well. Skills created so many options.
+
+But then Jay remembered his own deficiencies and selected [Longshot]. His goal wasn’t to become an all-powerful guru with any single weapon class, but to diversify as much as possible so that the odds could always be stacked in his favor. If that sometimes led to boring fights where he fired a poisoned-laced arrow and watched as an unbeatable monster died from a mile away, then that was how he’d win.
+
+Rushing blindly into impossible odds would gain him nothing.
+
+Jay still had one T-3 monster core left to infuse.
+
+Here was where choices diverged. As he'd soon discovered, there were six main Weapon Crafts to choose from: Axes, Bows, Clubs, Daggers, Spears, and Swords. Shields also had their own Armor category. He'd been using spears and bows since the start, but as he planned for the future, things became more nuanced. Each of these Weapon Crafts had their own Sub-Craft specializations to research into, and each of these specializations could evolve as his levels rose, tech developed, and he entered new Ages. It was difficult to infer where these choices might lead to, but he'd seen enough to guess that Bows could one day turn into Guns through Naomi, and Sayid's rapier must have come from the Piercing Swords Sub-Craft available under research. The sky truly was the limit for weapons, and they evolved with him.
+
+He'd even come up with a list of what was currently available for his Primal Age tech.
+
+Axes: Battle Axe, Dual Hand Axes.
+
+Bows: Shortbow, Longbow.
+
+Clubs: Quarterstaffs, Greatclubs.
+
+Daggers: Dual Daggers, Throwing Dagger, Parrying Dagger.
+
+Shields: Roundshield, Buckler.
+
+Spears: Javelins, Pikes.
+
+Swords: Curved Sword, Heavy Sword, Piercing Sword, Straight Sword.
+
+He'd also come to learn that this choice could only rarely be made, and it might be some time before he could make them so long as he lacked an Expat Core. But, he could still see the strengths and weaknesses behind each of these main Weapon Crafts, and knew where to invest time in first.
+
+He looked at his workbench and shrugged. Might as well get started.
+
+As new crafts went, this one was quite simple. He placed a single block of mahogany hardwood down and sharpened the edge. A second block went below, this one trimmed until round before being wrapped by a piece of jaguar hide. Two chunks of komodo bone were affixed between, these ones double-wrapped with hemp. The monster core was whacked placed inside.
+
+Buzz.
+
+Level Up! Swords 0 → 4
+
+Crafted sword damage increased.
+
+New Skill available.
+
+Crafted sword attack speed increased.
+
+New Skill available.
+
+New recipes available.
+
+He beamed, seeing so much progress performed at once. Thank goodness that leveling with cores wasn’t research-limited during Primal Age. Jay would be screwed right about now were that the case.
+
+He checked the skills.
+
+[Slash, Basic] – Swing your blade in a wide arc, inflicting area damage to any within range.
+
+[Stab, Basic] – Stab your blade forth, delivering precise damage.
+
+[Power Attack, Basic] – Take a second to concentrate your strength into a single attack, maximizing its damage output and increasing armor penetration.
+
+[Parry, Basic] – Deflect an incoming attack.
+
+Jay found himself wrestling more than normal here. If swords were going to be his preferred weapon, he would have to be as strategic as humanly possible when selecting its skills. Not only did he have to choose from the first option, but he had to account for the second skill that would logically come next, if he did not plan to divest into multiple starting abilities. Only [Parry] would remain alone since it had unlocked at level 4.
+
+No longer was Jay merely surviving.
+
+Should’ve researched “Investigate Skills” first, he considered. Though that burned resources and time he didn’t have…
+
+He looked over the options. [Slash] as area damage, [Stab] as his new [Thrust], a [Power Attack] for armor penetration at the cost of speed, and the ability to [Parry] instead of relying on shields.
+
+Which to do? His mind flared as hundreds of gamer calculations ran through at once. To choose poorly now would be setting his build on a path to ruin, and this was the first time since he arrived at Annwyn that he had the chance to decide stress-free. Minutes went by as he considered every possible route, along with what might come next.
+
+Before landing on his first choice: [Power Attack].
+
+Immediately, another option became available past there.
+
+[Lunge] – Combine an attack with a powerful lunge, extending weapon range beyond normal.
+
+Jay grinned. As he suspected, the next level skill was built upon the one before. Just like with [Longshot] after [Sharpshooter] and [Piercing Storm] beyond [Thrust], skills evolved like crafting recipes, giving better variations with each step.
+
+Selecting [Power Attack] would always have to happen at some point, anyway. The power of a skill could be compensated with enough practice, but gaining extra armor penetration was a desperate boon for a weapon class that tended to fail against heavy armor. [Parry] would have been a bad idea for the time being too. His weapons broke too easily to rely on for defense.
+
+This also let him see the [Lunge] option early, which gave him more to chew on mentally. Jay again thought through the options before making his next choice.
+
+The skills greyed out as he tapped [Slash]. As much fun as it would be to combine a [Power Attack] with a [Lunge], his armor’s mobility would have to compensate. Gaining the [Slash] let him target multiple enemies at once or just inflict a well-placed slashing attack, and the [Power Attack] would resolve any single enemy. Not to mention that whatever skill lay beyond [Slash] would only increase his ability to perform area damage. Not being able to [Stab] to precision was a minus, but Jay would just have to compensate.
+
+He had to plan further ahead than what the night would bring.
+
+Jay gripped his new weapon tight, feeling its power. The Inventory page of the Guide gave a more structured breakdown.
+
+[Hardwood Sword+3] (Reinforced+1), (Stable+1) – A sword made out of hardwood. This [Hardwood Sword] has been modified for added durability and a more stable grip.
+
+Another win. Using the komodo dragon bones as part of the hilt was correct. That compounded with the extra hemp to give it even more durability than normal. The lack of “Hardened” from the hilt was sadly expected, given that the recipe required hardwood as a minimum. But the extra stability on the hilt was a nice touch though, thanks to the dried jaguar hide. It almost felt sticky against his fingers.
+
+Jay went to a felled log he’d been saving for practice, well over a foot thick.
+
+He [Slashed]. Sawdust exploded out where the blade cut through, about halfway in before stopping. He sighed and yanked the sword out. Not even the +3 modifier was enough to instantly cut through these weaker trees, but it did pack quite a punch. The cracks were also immediate, however, forcing him to repair. That durability loss happened when using weapons against trees and boulders that were otherwise intended to be broken by tools and only worsened when he used his skills.
+
+After initiating the repairs, he adjusted the angle and tried his second skill.
+
+His body froze, and his muscles tightened. The blade flew down with a [Power Attack]. As though a bomb had gone off, the tree shattered in two, with wood splintering out like shrapnel. He gaped at the open space, his hardwood sword smoking.
+
+Well, that’s a new one. Jay stroked his chin. The durability loss didn’t seem to be that great either. Was that because of the extra armor penetration? That would make sense, given the context.
+
+Just like that, Jay had another weapon to his arsenal. While it still lacked the full power of his +4 flint spear, he was only one core away from changing that. Then, he’d have two weapons of equal strength to alternate between whenever possible.
+
+But what would he do afterward? Jay studied the ruined landscape outside his protected ridge with a frown.
+
+This was where his next challenge lay. Jay first set up in this location because he had easy access to a nearby jungle containing all the wood, hemp, stone, and flint he needed to develop his weapons and base.
+
+But then a fucking zeppelin breezed through the area in a fight against dragons. The entire jungle became a sheet of ash-covered clay during their battle, and there was nothing he could do but find resources that hadn’t been destroyed.
+
+The short-term solution required him to use gravity to his advantage. He’d hack down trees above the ridge and throw them over the edge. That cut out travel time from dragging the logs around as he broke the pieces into smaller blocks and threw them into the research table, but he quickly reached his limit there. Only so many resources existed near the top of the ridge, and he couldn’t afford to spend so many hours running back and forth.
+
+There was no way out of it. If Jay was going to keep surviving in this world, then he’d have to abandon this pocket of protection. He couldn’t afford to stay here, not after the landscape had been destroyed.
+
+He sighed, knowing the truth.
+
+It was time to move on.
+
+Name: Jay Reis (Primal Age)
+
+Vitality – 37/37Hunger – 64/72 Thirst – 19/24 Fatigue – 17/24Sanity – 87/100
+
+Main Crafts: Armor Crafting 2, Base Building 2, Cooking 0, Medicine 0, Tailoring 1, Tool Crafting 1, Weapon Crafting 2.Weapon Crafts: Axes 0, Bows 4, Clubs 0, Daggers 0, Spears 5, Swords 4.Armor Crafts: Heavy Armor 5, Light Armor 2, Medium Armor 0, Shields 4.
+
+Armor Skills: Heavy Armor: [Push], [Stampede]Light Armor: [Dash]Shield: [Brace], [Track]
+
+Weapon Skills: Bows: [Sharpshooter], [Longshot]Spears: [Thrust], [Sweep]Swords: [Power Attack], [Slash]
+
+Armor:[Lizardscale Helmet+2] (Hardened+1)[Lizardscale Chestpiece+4] (Hardened+1)[Lizardscale Leggings+2] (Hardened+1)[Lizardscale Boots+1] (Hardened+1)[Lizardscale Gauntlets+1] (Hardened+1)[Scaled Roundshield+3] (Hardened+1)
+
+Weapons:[Hardwood Sword+3] (Reinforced+1), (Stable+1)[Flint Spear+4] (Reinforced), (Hardened)[Wooden Bow+3][Crude Quiver]: Contains 20 [Flinthead Arrows][Crude Javelin Bag]: Contains 5 [Crude Javelins][9mm Semi-Automatic Pistol] (Accurate+2), (Quick): Contains 8 [9mm Cartridge] (JHP)
+
+Tools:[Flint Knife+1][Stone Axe+1][Stone Hammer+1]

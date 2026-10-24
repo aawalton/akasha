@@ -1,0 +1,227 @@
+[Copper Bar] = Copper (Ore, 0.1-10kg) + [Furnace] (Any, 1250-1350°K) + [Cast] (Any, Bar)
+
+Name: Jay Reis (Copper Age)
+
+Vitality – 43/43
+
+Hunger – 72/72
+
+Thirst – 24/24
+
+Fatigue – 48/48
+
+Sanity – 100/100
+
+A new era began.
+
+Sunlight shimmered across Jay’s arsenal of copper equipment: his sword, a hammer, a pickaxe, a hatchet, and a knife, all glowing in morning splendor.
+
+What a week and a half this had been. After tapping into copper research for the first time and gaining his sword, time flowed like a breeze.
+
+The loop was straightforward enough. Some time had to be spent each day doing the same tasks. Morning involved gathering or hunting, midday required processing, and the afternoon involved research and preparing for the night. With the disadvantage of not having an Expat core, every step felt more sluggish than it could have been, but by adjusting his technique to maximize efficiency, Jay could still progress at a healthy pace.
+
+And progress, he had. When his first copper pickaxe was made, his tool crafting level raised another step, providing passive tool strength. This greatly accelerated his gathering speed, which in turn allowed him to unlock better tools with ease. Within days of reaching that first milestone, he’d crafted a full set.
+
+He’d rounded out the starting weapon tree from there, crafting upgraded Primal Age weapons for Axes, Daggers, and Clubs before infusing T-2 monster cores for each. That let him pick introductory skills to better understand how those weapons worked.
+
+Daggers worked like Swords, but with greater attack speed built into their skills to compensate for distance. Clubs were predictably premised around brute force, and Axes worked between, the weight of the head enough to penetrate armor, while the blade could cleave through flesh beneath.
+
+He picked appropriate starter skills before moving on.
+
+Upscaling became his next boost from there. As it turned out, upscaling could occur at any associated crafting table and created a higher level material tier at a flat 4x multiplier, meaning that for every 10kg of base material processed, only 2.5kg of the +1 variant came out. He could keep going from there, but the costs became even more expensive, adding an additional 1x the total needed. By +3 alone, that starting 10kg of material turned into 0.08kg.
+
+Another hurdle that he’d have to overcome without a crafting class of his own.
+
+The nights were still difficult, at times. True to form, Natura adapted to every technique that Jay performed, and he seldom was able to perform the same trick more than once. Coupled with an ever-increasing pool of monsters that it could draw upon, the exercise became dicey. Natura only rose, after all. It did not recede.
+
+But Jay had found his way through, and in the end, he hadn’t expended a single round from his 9mm semi-automatic pistol. That left him with five left in the magazine to save the day.
+
+Only five more overpowered waves of destruction stood as his safety net…
+
+Jay marched through the lower jungle, the taste of salt on his tongue as he heaved in harbor winds. The wooden bridge creaked beneath his feet as he crossed a ravine.
+
+This was perhaps the most significant benefit of setting up his base near his neighbors. Because they were a full Rank higher, their ability to craft infrastructure was unparalleled, and so Naomi and the others would toss up all sorts of ladders, bridges, and stairs to help them traverse this end of the world.
+
+Anyone else could use these same paths, and since they were built for personal use, no Rule 5 violation occurred.
+
+Jay had not found their stash yet, but he’d learned enough from them that it did not matter. Every day at noon like clockwork, he would tune the radio to their midday calls, eavesdropping in the hopes of collecting some scrap of information or other.
+
+And it worked too.
+
+Annwyn existed as an archipelago, with each island varying in biome type and Rank. That much Jay had guessed long before.
+
+What he had not known until recently was that the islands themselves moved sometimes. Naomi’s group only chose this current F-Rank jungle island because the E-Rank deciduous one sat on the horizon nearby. Two islands of similar Rank appearing this close together was a rarity, so they would milk this location for all its worth before one of the two islands moved. Despite the risk with the D-Rank leviathan patrolling the waters between, this spot could not have been better for them until they were forced to move on.
+
+That would be a problem. Jay might not have any intention of working with anyone else, but just being nearby had brought so many indirect benefits. He did not want the handicap long-term, but he also would face problems if they left completely.
+
+Especially with the others on this island.
+
+He hadn’t seen any other Expats at his level. He only knew about them because of the radio. There were plenty to the north and east, but they hadn’t crossed his path yet.
+
+But he didn’t want to, either. From the sound of things, it seemed like everyone else had been a killer back on Earth, and he had no interest in dealing with people like that. Unlike them, Jay had never so much hurt a fly back on Earth, instead exercising any violence through video games where it didn’t matter.
+
+Yet, he did get the “Grand Bargain” all the same, which did not seem to be an accident. Sometimes, it made him wonder…
+
+Was there some darker part in his soul that Jay did not see?
+
+He brushed the thought aside as he reached his new destination.
+
+The pillar of onyx-colored smoke spewed out from the corrupted node beneath. Light bent around this umbral swath of land. Grass became grayed in an artificial darkness, the mud was dried and cracked, and the vines twisted around concrete and metal beams.
+
+This cairn had been styled as if it was a fire watch tower, with the metallic beams rising out from the natural terrain beneath, and a worn wooden frame atop. The stairs had long since degraded and collapsed onto themselves, and the rusted wire frames were split where they weren’t mangled with time. Even the room atop this foundation did not appear to be functional. The floor was warped with water damage, and the windows had all shattered. With the aid of [Sharpshooter] as a test, nothing appeared to be inside. Only below could he enter, where another steel door fused with the terrain.
+
+Strangely, this dungeon had not been here the day before. Jay simply woke up and saw it on the horizon, then went down to investigate before anyone else had the chance.
+
+His lizardscale armor clattered as he hobbled down the stairs, his roundshield in hand. As luck would have it, he’d found another komodo dragon to slay about a week back, giving him a plethora of food and mats to help keep him stable. He’d planned to finish progression into medium armor within the next day or two, but the opportunity to access a cairn now proved too good to ignore, and heavy armor worked best for close quarters. The extra +4 core also helped, which he’d since infused into his scaled roundshield. That gave him bonus passive reflex with all crafted shields. Another boon for these dungeon dives.
+
+His Swords crafting was still underleveled since he’d found no other level 16+ monsters, but with the strength of copper, it did not matter.
+
+He’d gain the skill another time.
+
+Jay stared at the cairn door, his leather backpack and tools at hand. Preparations still needed to be made.
+
+Torches came first. Jay had gone through the routine enough to know that he couldn’t enter without a source of light. He strapped his remaining flares from the first couple to his leggings, should he need them.
+
+Oils came next. With the extra time to explore and a better understanding of the Crafting tree, Jay had acquired a number of plants and herbs that could be combined into oils that boosted the damage of his weapons, unlocking “Alchemy” as another Crafting type to level. Basic poison grease was his go-to for lesser monsters, and with upscaling in the mix, he could buff its potency with concentrated poisonberries. Firesap oil worked great as an incendiary though, and could be made with most tree resins. Then there was sleepgrease, which applied the sedative properties of a mix of plants to reduce their speed and strength. Unlike poison grease, this inflicted no damage, instead making their capabilities overall weaker.
+
+It was these last two that Jay utilized. His bone darts were coated in sleepgrease should he need to weaken any stronger enemies, while firesap coated the blade of his sword. With a torch at hand, he could light it on fire for over a minute before it would whisk out, and the metal itself would remain undamaged.
+
+Foods and teas came last. Jay had only invested a little more time into Cooking, and unlocked a few recipes that provided temporary Stats buffs but required several different mats and herbs inputted. He’d since created a meat stew that gave his maximum vitality a small buff, and sugarcane water which increased his movement speed, more than normal.
+
+The lifeberry tea was also a given to offset the sanity loss, but he’d now concentrated it into a +1 version after breaking through the 40 vitality cap for the original.
+
+Another hurdle he’d have to face. Upscaling burned resources like nobody’s business, so between the tea and the regular tourniquets that beat the crude version, merely keeping himself stable after a fight was no longer easy business.
+
+It would only get more complicated from here.
+
+Jay consumed all with a sigh.
+
+Magical darkness swirled around the entrance, a set of stone stairs once again leading into unknown depths, these ones swirling around an open center. Jay tossed his torch down this hole and watched it disappear below, falling well over a hundred yards before striking against the bottom.
+
+He sighed and lit another torch. With the thin pocket of light it created, he ascended into the dungeon, his copper sword in hand and roundshield strapped over his back.
+
+His footsteps echoed quietly against the stone floor as he rounded the stairwell, one after the next. The concrete wall quickly devolved into something older and darker, with cracks and vines snaking about, and a fell aura leaking through its seams. Jay popped more lifeberry tea as needed, not wanting to give the dungeon a chance to crush his sanity.
+
+He made it perhaps two stories down before seeing the first split. Though the stairs continued to descend, another path forked to the side, disappearing around a corner. A low rumble rolled out from this path, as if two pieces of stone were rubbing against itself.
+
+Logically, the cache would be located at the base of this dungeon, so Jay would clear it most efficiently by going straight there. But he also needed more monster cores, and this would help him gauge the strength of the cairn.
+
+He lit a fresh torch, leaving the other as a marker. Magical darkness shuddered against the added glow.
+
+His enemy approached before long. Out from the shadowed void, it crept into the open.
+
+Stone talons scraped against a weathered floor, leaving scrapes in their wake. The limbs were as chiseled as they were grotesque, contorting onto themselves at unnatural angles as they shambled forth. Cracks and moss adorned the monster’s stony skin, a testament to centuries of wear. One wing was outstretched to the side, while the other was broken before it could form. Only the eyes bore any color, a demonic crimson leaking from a face marred by sharpened fangs and twisted horns.
+
+Jay gulped. Is that a gargoyle?
+
+The monster lunged forth. Jay’s armor rocked against the hit, sending him back a few feet before he could react. His teeth clattered and tasted blood. So much strength!
+
+Jay instinctively [Pushed] back, but the gargoyle merely shuddered without motion before launching a second hit. He withdrew before it could land, now seeing its attack in advance. The gargoyle hit nothing but air on its second strike.
+
+Torchlight flickered as he tossed it to the ground, swapping his offhand for the roundshield that would give him a better chance. The gargoyle attacked again, this time bouncing against his [Brace]. That gave Jay the room to make his [Power Attack].
+
+But this monster did not shatter at once. It merely recoiled from the hit, more cracks forming against its hardened flesh.
+
+Crap. This guy was tougher than he first thought. Jay retreated another few steps, shield raised in case another attack came again.
+
+The gargoyle crawled forth, its talons slamming against the cairn floor. Jay maintained his distance, timing his attacks to slowly wear it down. Sparks rained out as his copper sword clattered into the gargoyle’s skin, and it grew more ferocious with each attempt to bring it down.
+
+The creature pressed onward while Jay gradually lost his ground, his vision slowly decreasing as the magical darkness gained sway.
+
+He grit his teeth and unleashed a [Stampede], using the strength of his armor to shove past this indomitable enemy. It cried out as his lizardscale chassis shoved by with a skill-infused power of its own. More fissures formed where the damage was inflicted.
+
+The dance continued. Jay’s shield resonated with each blow, but between his [Brace] and follow-up [Power Attack], the gargoyle could not keep up. With each attempt to bring him down, it suffered more in counter, slowly crumbling into a lesser form. By the time Jay delivered the finishing move, it could hardly stand on its own.
+
+He drove his copper sword down, and the gargoyle monster was no more.
+
+What was that? Jay consulted the Guide for an answer.
+
+Twisted Gargoyle (level 12) – An elegant monster shaped from stone that can be found in some F-Rank cairns. Its superior armor and devastating attacking attacks make it a menace to confront.
+
+Contains a monster core.
+
+Research still available.
+
+That was what he’d fought for his first enemy? Just how high level were the enemies in this cairn?
+
+At least he’d gained a T-3 core from this. That had been the strength of the satyr boss he’d taken before. He could always use more.
+
+He gripped his copper sword with a sigh, already showing some signs of damage. Even after he’d upscaled the internal materials to make it more reinforced and hardened than normal, nothing could be done yet to increase its core strength. Copper gear could not accept cores before level 21, meaning they were hard-capped at a T-5 core minimum or higher. In order to make them stronger, he’d have to travel further inland.
+
+…Or just deeper into this cairn, so long as enemies continued to scale up.
+
+With another shrug, Jay composed himself and moved further down the tunnel, once again swapping his shield for another torch.
+
+The passage winded around another corner, and then another, with the walls getting precipitously more worn down and tighter, inch by inch. Firelight licked the dungeon boundary, with more alien symbols running along its length.
+
+Jay kept his eyes fixed forth, knowing that his presence here was deleterious to his sanity.
+
+The hallway winded further and narrower before reaching its natural end. Unlike every other passage he’d passed before now, this one seemed to continue with its slower and tighter descent, disappearing into a thicker wave of darkness that his torchlight could not pierce. He lit another torch and tossed his first inward as a test, but it merely whisked out without sound before even striking the ground. He squinted and stared deep, as if to will this sudden boundary to yield.
+
+It was no use. Between the narrowness of the hallway and a level of shadow that light could not penetrate, going further was no longer viable. Jay grunted as he shoved against the wall and turned around.
+
+Out from the everlasting shadows, the quietest skittering echoed, heralded only by a whisper of a hiss. The feeling of movement wriggling against his armored leg came seconds after.
+
+Jay flinched against the sudden motion and instinctively batted low but hit nothing but air. The creature quickly wriggled beneath his armor, pushing for his head.
+
+Jay yelped and pushed further back, seeking to give himself more mobility. Whatever had attacked him continued to snake along his flesh without mercy.
+
+His arms gained sway, and Jay immediately swatted for the offending area. Another hiss rang out before disappearing, now behind his back.
+
+Jay did not relent. His arms pounded about as he tried to dislodge whatever the fuck had just attacked him.
+
+The feeling went away, and the sound disappeared, but Jay was not satisfied until a minute of peace had come and gone.
+
+What the hell was that? Jay furled around, doing his best to catch sight of the creature that had come for him, but saw nothing in the end.
+
+He consulted the Guide next. His heart sank further as he flipped through the pages. Though the Lexicon accounted for everything he had faced until now, no new entries were formed just now.
+
+Had he only imagined this?
+
+Maybe. Yeah, that seemed right. He’d only gotten a little scared from wandering in the dark. Nothing else. Jay could keep moving. Keep clearing the dungeon. Yep.
+
+He turned and went back, now feeling better.
+
+Although, maybe it would be a good idea to head back to the surface… This first enemy had already been difficult enough on its own, and there was no telling what else lay deeper.
+
+Jay nodded to himself, his resolve buoyed. His torch flared as he returned, navigating the winding path until he reached the stairwell again.
+
+Hmm, that’s strange. Jay looked up and saw the doorway much further than before, even though he had only descended a few floors. The chasm below remained undisturbed.
+
+With a now-shaking torch, Jay ascended the path he had come. One foot after the next, he returned to the surface.
+
+But the surface did not come. The stairs simply looped around, floor by floor, Jay trekked further up, hoping that he would breach daylight, but seeing nothing but more steps in the end. The door continued to rain sunlight down, unmoved from where it started. As he rounded the corner for what was definitely twice the distance he’d started, he encountered a familiar sight. A hallway snaked around the corner, and a low rumble shifted out, like stone scraped against itself.
+
+Identical to the gargoyle before.
+
+Jay kept climbing. He knew he hadn’t passed a different passage coming down, but now that he’d crossed one, he had second thoughts. With all the speed his legs could muster, he pushed back upward, onto the surface above.
+
+The door to the surface remained unmoved.
+
+Strangely, he reached another passage instead, splitting off in a manner identical to the last, with the same sound of a gargoyle moving about.
+
+The hair rose on Jay’s neck as he lit another torch. He had to confirm this theory. With a toss down the center of the winding stairwell, he watched as it fell deeper. And deeper. And deeper.
+
+And deeper.
+
+It did not hit the ground. It just disappeared into an infinite pit that had not been there before.
+
+Jay rubbed his brow, now trapped in this latest twist.
+
+These cairns sure were bullshit.
+
+Name: Jay Reis (Copper Age)
+
+Vitality – 42/46 Hunger – 70/72Thirst – 22/24Fatigue – 44/48Sanity – ??/100
+
+Main Crafts: Alchemy 0, Armor Crafting 2, Base Building 2, Cooking 1, Medicine 1, Tailoring 1, Tool Crafting 2, Weapon Crafting 2.Weapon Crafts: Axes 3, Bows 4, Clubs 3, Daggers 3, Spears 5, Swords 5.Armor Crafts: Heavy Armor 5, Light Armor 2, Medium Armor 0, Shields 5.
+
+Armor Skills: Heavy Armor: [Push], [Stampede]Light Armor: [Dash]Shield: [Brace], [Track]
+
+Weapon Skills: Axes: [Chop]Bows: [Sharpshooter], [Longshot]Clubs: [Bash]Daggers: [Slice]Spears: [Thrust], [Sweep]Swords: [Power Attack], [Slash]
+
+Armor:[Lizardscale Helmet+2] (Hardened+1), (Reinforced+2)[Lizardscale Chestpiece+4] (Hardened+1), (Reinforced+2)[Lizardscale Leggings+2] (Hardened+1), (Reinforced+2)[Lizardscale Boots+2] (Hardened+1), (Reinforced+2)[Lizardscale Gauntlets+2] (Hardened+1), (Reinforced+2)[Scaled Roundshield+4] (Hardened+1), (Reinforced+2)
+
+Weapons:[Copper Sword] (Hardened), (Reinforced+1), (Stable)[Wooden Bow+3] (Reinforced+2)[Basic Leather Quiver]: Contains 20 [Flinthead Arrows][9mm Semi-Automatic Pistol] (Accurate+2), (Quick): Contains 5 [9mm Cartridge] (JHP)
+
+Tools:[Copper Knife][Copper Axe][Copper Hammer][Copper Pickaxe]

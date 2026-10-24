@@ -1,0 +1,311 @@
+[Basic Jewelry Table] = 6 Stone (Any, 1-1.1m) + 2 Stone (Any, 1.2-1.4m) + 10 Copper (Nail, 0.01-0.015kg) + [Knife] (Copper) + [Hammer] (Copper)
+
+Time to reap his rewards.
+
+Jay rubbed his eyes, embracing this new day.
+
+The night had been rougher than he’d expected. Not much daylight remained after returning home, so Jay did what he could to prepare for the fight, replacing the gear using the upscaled metals he’d grinded out while down there. But between the natural rise of Natura’s strength and the higher-level loot he never got the chance to use, the army was far larger than he expected, and only by the skin of his teeth did he manage to get away. Now, his “Poorly Rested” condition had escalated to another level, and he would not survive another night if he chose to run away, unless he slept through the day.
+
+Not that he would do either.
+
+Jay made for his research table, his Bag ‘a Mats on hand. Just shy of 9,000 kilograms of upscaled ores, leather, bones, wood, plants, mushrooms, meat, and gemstones had been crammed into its transdimensional space.
+
+Where would he even begin? The discovery bonuses from this spelunking run had given him so many more angles to investigate in the Crafting tree, and with the extra monster cores, the lowest level research could be tapped with a moment’s notice.
+
+Jay stroked his chin and opened the Guide for reference. Start small. Work up. He had all the time in the world, and not everything needed to be brute-forced.
+
+[Crude Ruby Ring] = Ruby (Crude, 0.02-0.05kg) + Wood (Hard, 0.05-0.07m) + [Knife] (Copper) + [Workbench] (Any)
+
+Seemed simple enough. He pulled the smallest crude ruby and some mahogany from his Bag ‘a Mats, sliced the rough edges into a smoother design, and pressed it into the ring.
+
+Buzz.
+
+Congratulations! You have crafted your first piece of jewelry, Expatriate! Only two rings and a single amulet can be equipped at any time, so you’d better choose carefully!
+
+Level Up! Jewelry 0 → 1
+
+Crafted jewelry elemental resistances boosted.
+
+New recipe available.
+
+More than that, as Jay placed the Guide into the research table, an entirely new branch appeared for investigation, aptly labeled “Jewelry.” The most obvious option stood out, standing as a bulwark that gated everything beyond Primal Age tech.
+
+Crafting – Jewelry
+
+Research Requirements: Examine minimum of 1kg [Gemstone] for required length of time and/or expend desired material into table’s board to reduce maximum time.
+
+Pending Research:
+
+Unlock Basic Jewelry Table: 10-60 minutes, or 1-2kg [Crude Gemstone]
+
+He grinned, ready to embark on this unlock yet again.
+
+Research Selected…
+
+Time Requirement rolled (Core Modifier: None).
+
+Resource Expense rolled (Core Modifier: None).
+
+Research Now Available.
+
+Crafting – Jewelry
+
+Current Research: Unlock Basic Jewelry Table
+
+Time Remaining: 48 minutes
+
+Resources Expended: 0.0/1.76kg
+
+Not great on either time or resources expended, but this was where his early advice from Naomi had come to pay off. He placed a couple low-level monster cores onto the table, courtesy of the upper caves where the threats had been easiest. They disappeared beneath the table’s top in a haze of brilliant light.
+
+Crafting – Jewelry
+
+Current Research: Unlock Basic Jewelry Table
+
+Time Remaining: 11 minutes
+
+Resources Expended: 0.0/0.76kg
+
+Monster Core (Level 8), Monster Core (Level 4), Monster Core (Level 3)
+
+Much better. The crude gemstones were easy enough to expend from there, leaving Jay only a few minutes of actual research time.
+
+He breezed through the phase and crafted the resulting table.
+
+It took a bit of mining and refining to get the needed stone, but copper had been gained in abundance through his mining run, and anchoring nails to the resulting slabs became straightforward enough. Two trapezoids were bolted to their associated pegs before being nailed together at the corner, forming an L-shape that was different from the workbench before.
+
+Buzz.
+
+Level Up! Jewelry 1 → 2
+
+Weapon socketing unlocked.
+
+Jay placed his cutlass onto the table to experiment, but a warning popped up. Only crafted weapons could get socketed, it seemed. That also ruled out the pig iron daggers he’d looted from that minotaur scout.
+
+But that let him attempt an even better upgrade based on an item he’d been neglecting for a while now.
+
+He quickly crafted another bow, this one made from the softwood he’d collected from the inktree forest.
+
+Letters flashed onto the jewelry table.
+
+Weapon – Wooden Bow
+
+Socket Capacity: 1
+
+Base Modifiers: Elemental Affinity
+
+He shifted through the Bag ‘a Mats and the pile of gemstones he’d collected. Rubies, emeralds, opals, jades, beryls, amethysts, spinels… The vast majority were “crude” versions, but he’d gained a couple “chipped” versions and even one that was “flawed.” Each had an associated elemental type that was supposed to come out with whatever it was socketed with.
+
+He picked one at random, starting with a chipped opal. The table was adjusted with a second display of information.
+
+Gemstone – Chipped Opal
+
+Socket Size – 2
+
+Weapon Effect: Magical Damage
+
+He tried a spinel next.
+
+Gemstone – Crude Spinel
+
+Socket Size – 1
+
+Weapon Effect: Life Leech
+
+On and on, Jay went through the options. Each gemstone added an effect to the weapon they became socketed with depending on the nature of the elemental type they were associated with. Rubies created fire damage, opals enhanced magic, jades inflicted knockback… The tier of the gemstone determined how many sockets it required to fit into a weapon, and the capacity of the associated weapon depended on its current tier. Jay burned a level 16 core to test, which in turn bumped his softwood bow to +3, and raised its socket capacity by 1. A fairly minor boost, but he wasn’t surprised at this level.
+
+More than that, they had secondary applications when placed in armor, with those same rubies creating fire resistance instead of damage, or jades enhancing strength. The one major detriment was that each of these effects siphoned off physical strength from whatever they’d been infused into, meaning that Jay would lose physical defense in exchange for elemental benefits.
+
+But rings and amulets seemed to compensate for these as free buffs, with rings working toward weapons, and amulets applying to armor.
+
+There was no telling how much more these could be modified later.
+
+When all was said and done, he’d cultivated a full list of gemstones and their elemental effects based on his spelunking run:
+
+Amethyst – Void (Vacuus): Bonus damage against Nightrealm threats for weapons, or resistance against madness in armor.
+
+Apatite – Air (Aer): Reduced weapon and armor weight.
+
+Aquamarine – Water (Aqua): Bonus damage against burning targets for weapons, or increased breathing underwater if in armor.
+
+Beryl – Ice (Frigis): Ice damage for weapons, or cold resistance for armor.
+
+Corundum – Blood (Sanguis): Bonus Wound chance for weapon damage, and reduced Wound chance on armor.
+
+Diamond – Light (Lux): Bonus against Evershadow enemies for weapons, or resistance against “Seraphic” attacks, whatever those were.
+
+Emerald – Radiation (Radia): Radiation damage in weapons, radiation resistance in armor.
+
+Jade – Earth (Terra): Bonus knockback for weapons, or bonus strength when infused into armor.
+
+Opal – Magic (Magus): Magical damage in weapons, or magical resistance in armor.
+
+Peridot – Poison (Venenum): Poison damage in weapons, or poison resistance in armor.
+
+Ruby – Fire (Ignis): Fire damage in weapons, or heat resistance in armor.
+
+Spinel – Life (Vitus): Life leach in weapons, or bonus vitality recovery in armor.
+
+Topaz – Electric (Fulmen): Electric damage in weapons, or electric resistance in armor.
+
+Tourmaline – Time (Tempus): Bonus attack speed in weapons, or bonus movement speed in armor.
+
+Zircon – Gravity (Gravitas): Stun effect chance on hit with weapons, or bonus knockback resistance in armor.
+
+Jay stroked his chin, considering the many, many possibilities before landing on one. A chipped beryl.
+
+He went to work, fastening it in place. Like a monster core, the gemstone could be socketed into basically anything. Unlike the core, however, he needed a knife instead of a hammer to trim the hole in which it would fit, and only once fastened did it take effect, with magical red light flickering upon its newly crafted surface before disappearing.
+
+Congratulations! You have socketed your first weapon, Expatriate. Weapons socketed with [Gemstones] will lose some physical power in exchange for gaining elemental damage, so you’d better be careful with how they’re used!
+
+His Inventory adjusted accordingly.
+
+[Wooden Bow+3] (Elemental), (Reinforced+2) – A bow fashioned from wood and twine. This [Wooden Bow] has been modified with enhanced durability and elemental damage. This [Wooden Bow] contains a [Chipped Beryl], giving its arrows ice damage.
+
+He took his newfound weapon outside for a test. A palm tree lay nearby, ready to be his subject. He narrowed his gaze and took aim.
+
+Sparks erupted from the palm tree’s bark where the flinthead arrow collided. The spot sizzled for a few seconds after, frost suddenly collecting.
+
+Jay inspected the result. Not terrible, but not great either. He’d used bows enough to know their general principles, and by the depth to which the flinthead arrow pierced from his wooden bow+3, he suspected that the loss in power wasn’t being fully recovered by the increase in damage.
+
+Everything has its costs, he considered. He’d have to go back to investigating this talent further when he had more time to experiment and tinker.
+
+Before then, Jay still had pallets worth of mats in his Bag and an entire Crafting tree to explore.
+
+With the basics of socketing out of the way, Jay shifted his attention to other easy research projects. Potions, tools, cooking recipes, medicine. The sky was the limit with all these cores and mats at the ready.
+
+The Guide buzzed in exhilaration with each unlock as he rounded out so many options as possible, burning through his collected monster cores like nobody’s business.
+
+Level Up! Cooking 1 → 2
+
+Meal effects time increased.
+
+Level Up! Medicine 1 → 2
+
+Medicine recovery time decreased.
+
+Level Up! Alchemy 1 → 2
+
+Potion potency increased.
+
+Alchemic identification research unlocked.
+
+Level Up! Tailoring 1 → 2
+
+Crafted clothing insulation increased.
+
+Level Up! Base Building 2 → 3
+
+Crafted trap damage increased.
+
+Jay wiped the sweat from his face after finishing this last project, the sun high in the air. An upgraded loom had been added to the mix, giving him the option to weave together upscaled hemp into more robust clothing. Already, the T-shirt and leggings he’d knitted felt stronger than ever.
+
+There was more, too. By choosing only specific research Jay knew would represent milestones, he gained a level across all his main crafts. Researching and crafting glass vials had given him the level up in alchemy and a better means to research the essence base for every material. Crafting basic antiseptic bandages beyond his current vitality cap raised his Medicine a tier further, which in turn increased the potency of the applied effects. And making a copper cooking pot over the hardwood one he’d relied upon increased the effectiveness of his meals.
+
+It had cost him just about all his low-level monster cores, but days of fighting creatures at the base of the earth had finally paid off. With these main crafts rounded out, he’d be able to expand into new research territory to in turn give himself more gadgets to employ.
+
+That let Jay spread out laterally for the next few hours, crafting whatever would work best to better survive against the night ahead. Some were gated behind research, but with a plethora of supplies and some cores still available, he breezed through them without breaking a sweat.
+
+He studied his last two cores once finished.
+
+Poison Rockfrog Monster Core (level 27)
+
+Minotaur Scout Monster Core (level 33)
+
+Because of how core infusions worked beyond Primal Age gear, he couldn’t toss these into random pieces of gear for an instant power spike. That kept his choices limited to only one option.
+
+He stared at his pig iron cutlass and grimaced. This weapon hadn’t been crafted like the others, but it contained the monster core for the lizardfolk Guardian that had once held it. Jay had managed to cheese this upgrade in place by first tuning the core in a copper sword, which let him infuse it for an upgrade. That was a necessary choice at the time, allowing him to use the power of the pig iron to synergize with his skills for even more powerful attacks, and it might have been the only reason he’d escaped the Evershadow at all. Had his [Rend] not have been charged more powerfully than normal, he would not have escaped the minotaur labyrinth.
+
+But now? In order to level swords further, Jay would have to infuse these cores on top of each other, and the only way to get the one spent back was to dismantle his precious cutlass. A single step backward to give him two steps forward.
+
+Maybe Jay could find an alternative. Yeah, he could go further inland and find another monster in the early twenties, and then use that as a stepping stone for his armor or shield.
+
+He shook his head. That wouldn’t do. Swords were becoming his go-to, and the best defense now was a stronger offense. His medium armor only worked to make the fight more sustainable. It would never be what saved him from more challenging enemies.
+
+With his resolve buoyed and heart heavy, he took apart the cutlass and recovered the level 23 core, then infused it into a replacement copper sword. Only the chunks of pig iron and hemp remained, a tombstone for the friend he sacrificed in the name of progress.
+
+Then, he went back to work.
+
+Level up! Swords 7 → 8
+
+New Skill available.
+
+Level up! Swords 8 → 9
+
+Crafted sword damage increased.
+
+He once again consulted the skill tree, hoping for the results to have at least paid off.
+
+[Whirlwind] – Extend your blade and spin your whole body, inflicting area damage wherever you pass.
+
+[Stab, Basic] – Stab your blade forth, delivering precise damage.
+
+[Lunge] – Combine an attack with a powerful lunge, extending weapon range beyond normal.
+
+[Parry, Basic] – Deflect an incoming attack.
+
+Nothing new? Jay doubled back to make sure, but it appeared that this tier hadn’t unlocked a single new skill. What’s the deal with this one?
+
+But then, on second thought… Though there weren’t any new options here, Jay still had four of the older choices that he’d neglected until now. Just being able to expend the point was worth it in and of itself, especially with all the possible synergies that could be made.
+
+Jay considered which would serve his interests best now. Something like [Whirlwind] would have made the underground fight trivial, and combining an ability like [Lunge] with [Leap] would no doubt give him an even greater jump distance than the combination he’d created with [Rend]. Selecting [Stab] would unlock not just the enhanced power in the phase after, but also any combination that worked in tandem with it.
+
+Then he looked to [Parry]. A defensive skill on an offensive weapon felt like a waste of time, but after losing his shield and spending days underground fighting with nothing more than his sword, he could start to see where his future would go. Sure, his shield was objectively better and had saved his life countless times, but how much longer would he be able to rely on its strength? Between the added toll of research and the material cost to keep upgrading them, it was only a matter of time before he’d lose it either way.
+
+With a deep sigh, Jay selected [Parry]. Another sacrifice for the greater good of his long-term survival.
+
+A couple hours still remained until night. Jay spent this time in preparation, doubling back to his furnaces to process more upscaled copper ore into their associated bars before upscaling them further from there. The process was slow trying to melt it down in his crude furnaces, so he used the spare time to cook the highest level minotaur meat into a meat stew with a side of those higher-tiered underground mushrooms. His muscles hardened and vision focused as he swallowed the meal, his vitality now growing more than ever before.
+
+How much did I gain this time? He checked his Stats.
+
+Name: Jay Reis (Copper Age)
+
+Vitality – 61/61
+
+Hunger – 72/72
+
+Thirst – 24/24
+
+Fatigue – 6/32 (Poorly Rested+1)
+
+Sanity – 89/100
+
+Holy shit. Up until now, Jay had been struggling to keep his vitality stable in the low 40s, but consuming the meat of a monster in the thirties had shot him almost fifty percent. He clenched his fist, feeling a superhuman strength that had never been there before. Was this what all those E-Class Expats felt like all the time?
+
+It was in striking distance for the next cap too. Once Jay broke 70, he’d need even more upgraded medicine and lifeberry tea from there.
+
+But that could wait for a time.
+
+The furnaces finished, pouring metal into his latest craft. Jay collected the cooled copper blade, ready to complete his upgrades for the day.
+
+The sun was on its final descent as he hammered the copper sword into place, with the upscaled hemp for reinforcement, and stronger copper to enhance its damage. With a grin, he infused the minotaur’s monster core, now tuned to accept this superior blade. Its iridescent surface melded with the sword itself.
+
+He examined his newest weapon once complete. The light glimmered on its copper surface, almost of its own accord. He twisted it in hand and examined a blade sharp enough to slice the hair off a spider’s leg.
+
+[Copper Sword+3] (Sharpened+5), (Hardened+2), (Reinforced+2), (Stable+2) – A sword made out of copper. This [Copper Sword] has been modified for added damage, durability, and flexibility.
+
+The rays of sunshine spread wide as Jay stared into the oncoming night.
+
+He knew how this fight would go.
+
+Name: Jay Reis (Copper Age)
+
+Vitality – 61/61Hunger – 72/72Thirst – 24/24Fatigue – 6/32 (Poorly Rested+1)Sanity – 89/100
+
+Main Crafts: Alchemy 2, Armor Crafting 2, Base Building 3, Cooking 2, Jewelry 2, Medicine 2, Tailoring 2, Tool Crafting 3, Weapon Crafting 2.Weapon Crafts: Axes 3, Bows 4, Clubs 3, Daggers 3, Spears 5, Swords 9.Armor Crafts: Heavy Armor 5, Light Armor 2, Medium Armor 6, Shields 6.
+
+Character Skills:[Forbidden Knowledge]
+
+Armor Skills: Heavy Armor: [Push], [Stampede]Medium Armor: [Recover], [Leap], [Waterform]Light Armor: [Dash]Shield: [Brace], [Track], [Break]
+
+Weapon Skills: Axes: [Chop]Bows: [Sharpshooter], [Longshot]Clubs: [Bash]Daggers: [Slice]Spears: [Thrust], [Sweep]Swords: [Power Attack], [Slash], [Rend], [Parry]
+
+Cursed Items:[Bag ‘a Mats]
+
+Armor:[Copperplate Hat] (Buttressed+2), (Reinforced)[Copperplate Coat] (Buttressed+2), (Reinforced)[Copperplate Leggings] (Buttressed+2), (Reinforced)[Copperplate Shoes] (Buttressed+2), (Reinforced)[Copperplate Gloves] (Buttressed+2), (Reinforced)
+
+Weapons:[Copper Sword+3] (Sharpened+5), (Hardened+2), (Reinforced+2), (Stable+2)[Wooden Bow+3] (Elemental), (Reinforced+2): Socketed with [Chipped Beryl] (Frigis)[Basic Leather Quiver]: Contains 20 [Flinthead Arrows][9mm Semi-Automatic Pistol] (Accurate+2), (Quick): Contains 4 [9mm Cartridge] (JHP)
+
+Tools:[Copper Knife+3][Copper Axe+3][Copper Hammer+3][Copper Pickaxe+3][Copper Shovel+3]
+
+Boons:[Minor (Speed)]
