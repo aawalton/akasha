@@ -1,0 +1,133 @@
+Though Fabulosa showed little interest in the settlement’s progression, I found Charitybelle’s zeal infectious. Our population hadn’t yet surpassed 50 citizens, so we remained a level 1 settlement, but having a town hall opened up another menu of possibilities.
+
+I opened the settlement interface, explored the tier 2 blueprints, and pored over their details.
+
+Available Blueprints
+
+Tier 1
+
+Altar, Barn, Hunter’s Lodge, Longhouse, Lumber Mill, Mess, Motte & Bailey, Town Hall, Smithy,Watchtower, Well
+
+Tier 2
+
+Barracks, Bakery, Dock, Guard Tower, Manor, Mill, Potter, Public House, Shrine, Slaughterhouse, Soap House, Storehouse, Wall
+
+Custom
+
+Open-air Smithy, Otter Slide, Pile-driven Town Hall, Roundhouse, Temporary Well, Wind-powered Sawmill
+
+Free
+
+Battle College
+
+Currently Building
+
+Roundhouse
+
+Of all the tier 2 buildings, the barracks intrigued me the most, but its expensive material costs made it among the hardest to construct. As sexy as it appeared, it wasn’t our highest priority. It unlocked things like glory points and command slots, but its extensive masonry seemed so unattainable that I couldn’t get excited.
+
+Outside our settlement’s boundaries, I couldn’t interact with the interface. How the game resolved free buildings remained unclear, but reaching home might answer questions about how we’d receive a battle college from our Aggression mandate. An instantaneous building could count as a reason to celebrate.
+
+Charitybelle shook her fists with excitement. “Oh, cool! Look at the blueprints! The bakery and the pottery share the same layout. The only difference involves specifications for an oven or a kiln.”
+
+“Does Forren’s free fireplace bonus apply to either of those?”
+
+Charitybelle gave me a crooked frown. “I don’t think so. There’s no mention of it in the design. It’s a shame that the bricks are the recipe’s most expensive ingredient.”
+
+Docks offered secure mooring for ships during inclement weather, and Hawkhurst’s high winds made this vital for large boats. We only had canoes and could pull them ashore to avoid problems. But we needed ferries strong enough to carry caravans. Unfortunately, docks wouldn’t allow us to create or launch ships of this caliber. Lloyd said shipyards counted as tier 3 buildings, so we needed to upgrade our town hall into a manor to access shipyard blueprints. I just hoped we could build a shipyard in time for incoming caravans. It did us no good to strike cross-continent deals if it took us too long to construct a ferry. Luckily, the town’s governor understood engineering enough to appreciate the dilemma.
+
+Upgrades converted one building into another. An ingredient for a guard tower included an existing watchtower. Upgrading it involved adding stone reinforcements and installing a ballista. With our motte and bailey in place, defense wasn’t a top priority, so this wouldn’t happen soon.
+
+Mills helped us grind grains to meet baking and brewing needs. The importance of fueling our workforce with energy made mills a top priority. Like the sawmill, the default blueprint called for moving water, but our wind-power option would likely tempt Charitybelle and Greenie to design a wind-powered version.
+
+The lack of a brewery on the list of tier 2 blueprints wouldn’t go over well with our camp. Storing it created another headache. We wouldn’t have hauled the brewery equipment so soon if we had known.
+
+Our barn already doubled as a storage room, crowding the torodons and sheep at night. The last thing we needed was more equipment to keep dry. The fifteen horses we brought already created an immediate demand for more animal shelters, making for another top priority.
+
+Since the town hall served as a dining area, we didn’t need a mess hall. It had a kitchen and could serve up to 100 occupants, which meant the roundhouse would become quieter and less crowded in the evening.
+
+Mess halls upgraded to public houses, but without a means for making beverages, it would be a long wait before Hawkhurst hosted a pub.
+
+A shrine for our altar allowed us to bestow followers with the Glowing Coals blessing. After we addressed our utilitarian needs, I'd prioritize building a shrine to prepare for the varg threat on the horizon.
+
+A slaughterhouse wasn’t necessary either since we didn't breed livestock, but a soap house fell into the high-demand category. The stench of rendering animal fat wasn’t doing our health rating favors, so containing it in a structure warranted immediate consideration.
+
+Charitybelle’s validation for an otter slide made me laugh. At night, she and Greenie spitballed wild ideas—things to do with the town once it gained its footing. They pulled off the design by modifying a fountain Greenie designed when he lived in Malibar. The goblin reproduced it from memory, customizing it to accommodate her squeaky little friends. Besides a curved water slide, the blueprint featured cascading pools of varying depths and offered burbling water spouts for the animals to play with. It added a 5 percent bump to culture and brought fresh water into town—so it possessed practical value. But the blueprint called for ceramic pipes, carved stone, and complicated copper fixtures. This pie-in-the-sky proposal represented what Hawkhurst might become in many years, but we had no resources to make any of its exotic components.
+
+It was a sorry state of affairs that our next two structures amounted to another barn and storehouse—especially after combing through such a wide range of architecture. If we could clear our barn of the junk from the goblin mine, we’d have enough room to shelter our new mounts. Storehouses also preserved food in the same magical way inventories prevented spoilage. Such a transfer would clear my almost full void bag and untether my inventory from the camp’s food supply, letting me avoid logistics meetings with Greenie whenever I wanted to leave.
+
+The last tier 2 blueprint detailed how to build a city wall. These stone defensive structures required quarrying ingredients so high I couldn’t bear to calculate how long they would take to erect.
+
+The only problem worse than our quarry revolved around the camp’s only flagging statistic—culture. Our 56 percent rating almost cut morale in half, and the only way to improve it required building a shrine or manor—buildings that required extensive stonework.
+
+Ally had kicked off constructing a second roundhouse.
+
+Building Status
+
+Roundhouse
+
+Remaining Build TimeEfficiencyWorkers
+
+6.5 days77 percent24
+
+Ally presided over fewer workers than she’d assigned to the town hall, so I opened up the economy interface to see everyone’s tasks. Since I wasn’t in the town radius, I couldn’t make changes, but checking out the camp gave me something to think about during our journey home.
+
+Hugo, Olive, and Fortune returned to tailoring, and Bernard and Blane patrolled. We had dwarves on patrol? The brothers helped fend off the vargs, but seeing them on guard duty surprised me. With Lloyd in the watchtower and Jahid, Rachel, Sami, and Val from Fort Krek, I would have thought the protection would be sufficient, even if the work crew harvested lumber. I hoped nothing bad had happened.
+
+When the caravan drew close to home, Charitybelle used Chloe’s keen eyesight to scan for danger, and she reassured me that nothing seemed awry.
+
+Trailblazing, clearing obstacles, and towing carts added time to our journey. We entered Hawkhurst Meadow on the fifth day from Basilborough.
+
+Bernard and Blane, our new dwarven guards, welcomed us first. They wore goblin armor.
+
+I waved to them as they approached. “Hey, guys! How are you?”
+
+Bernard gave a quick salute. “Hi, L.T.! I see ya brought fresh guardies with ye! How is the Guv?”
+
+I turned to the caravan. “Charitybelle is good. Right now, she’s with Fab, bringing up the rear. They’re wearing fancy threads, so compliment them if you have the chance.”
+
+Blane nodded in approval. “I will at that. If ye ask me, pure swank is the look of a right chief.”
+
+I pointed to his kit. “Speaking of swanky threads, what’s with the armor?”
+
+Blane patted his leather armor. “Braw batters, eh? Rory refitted the gobs’ armor into solid protection, hardier than before.”
+
+The dwarves raised their arms and spun like debutantes showing off their prom dresses. Their zeal touched me so much that I didn’t have the heart to point out that doing guard duty reduced our construction output by 10 percent. Perhaps including the dwarves in the militia made sense, especially if they wanted to serve.
+
+By then, Fabulosa and Charitybelle had caught up with us. Charitybelle gave the dwarves two thumbs up. “Looking good, boys!”
+
+Both pairs applauded each other’s outfits.
+
+We led our mounts on foot as we talked to the dwarves. It felt good to walk again, although my aching thigh muscles made me waddle.
+
+Blane pointed toward his older brother. “Yula has Bernard and me fighting together. As I’m the stouter, I bear the board while this one slaisters about with his wee hammer.”
+
+Bernard gave him a sharp look. “’Tis enough to brain you, ye wallie runt!”
+
+Blane laced his fingers together. “Ya see? With us cheek-by-cheek, we’re pure tong and hammer.”
+
+I chuckled. “I can see that already. Where is Yula?”
+
+Blane grimaced. “The Fort Krek soldiers aren’t keen to take pointers from an orc—if ye know what I mean. I wouldn’t exactly put ‘em on amiable terms.”
+
+This wasn’t surprising. The long-term strife between orcs and humans ran deepest at Fort Krek, the outpost closest to orc territory. It would be nice if they worked out their problems, but I wasn’t holding my breath. Eastern humans detested orcs as much as Westerners loathed goblins.
+
+Bernard pointed north to the woods. “Yula’s afield now, anyhoo. Tracking vargs.”
+
+Her absence explained why Ally put extra guards on duty. “Do you know when she’ll be back?”
+
+They shrugged and shook their heads.
+
+Yula’s chilly relationship with the Easterners probably led to her decision to hunt the vargs.
+
+Charitybelle looked determined to rectify the predicament. She chewed her lip, thinking over the problem. “We appreciate the heads up, guys.”
+
+I hope my girlfriend won’t get her hopes up. I imagined tensions between enemies ran deep in a soldier’s DNA, and an army brat like her ought to know. It would take more than official proclamations to smooth over prejudices.
+
+Bernard regarded the wagons. “Your outing was successful, then? By the looks of your buggies, I’d wager you sacked Grayton for all she’s worth.”
+
+Charitybelle glanced at the brothers to register their reaction. “Everything went very well. We brought brewery equipment, but I’m afraid it’s a tier 3 building. We’ll need to wait before we can make our own ale.”
+
+Bernard hung his head. “Aye, Ally already broke the news.” His use of the phrase “broke the news” aptly described the situation. The dwarves put hope into a brewery because they needed carbs. Luckily, our haul replenished Hawkhurst’s strategic alcohol reserves, so there would be more to go around.
+
+Fabulosa fist-bumped the dwarf. “Fear not. We come bearing beer. Aside from that, we’ve got gobs of good news.”

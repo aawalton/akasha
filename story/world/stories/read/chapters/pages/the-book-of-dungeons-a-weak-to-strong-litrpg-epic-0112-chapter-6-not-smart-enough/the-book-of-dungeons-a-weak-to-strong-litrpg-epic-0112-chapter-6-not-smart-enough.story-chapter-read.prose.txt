@@ -1,0 +1,169 @@
+Runes required two powers. Inscribe Rune bestowed casters with the knowledge and ability to create them. Imbue Weapon empowered players to imbue mana through a weapon or molten metal as an ink.
+
+I knew of two ways to write a rune. The hardest way involved memory instead of sketches. By scripting magic invisibly across a surface, Winterbyte and the gnoll warlock made their traps and summoning circles.
+
+I tried this method first. The same magical glow from Imbue Weapon materialized, but articulating an imbued dagger across the ground felt as clumsy as fingerpainting. Perhaps Winterbyte became a gnoll for this reason—her claws counted as a weapon, and she could use them with Imbue Weapon.
+
+If I knew runes by heart and had tons of space to write, I could replicate her runes, but working from memory wasn’t easy. Instead, I took the easier route, capitalizing on my high skill in manuscript creation.
+
+After retrieving the metal pen Mr. Fergus gifted me, I sketched the rune in blackberry ink on a sheet of vellum. I blocked out the rune’s basic functions, delivery channels, and containment barriers. I couldn’t overlap magical writing or circuitry, so placement and spacing became paramount. The magically inert sketches didn’t hurt the vellum, and I wouldn’t bother with superheated metal until I perfected the design.
+
+I plagiarized the destruction function from Winterbyte’s tunnel trap and scripted a sequence targeting a rusted goblin knife. Even though rust burned off in the smelting process, Rory didn’t want to work with corroded metal because it introduced imperfections. And since the knife counted as an object, I knew its true name and could use it as a test subject.
+
+As I practiced, I appreciated the value of the pen. It allowed me to create smaller runes that made editing easy. Winterbyte’s runes contained oversized glyphs, likely drawn by her claw.
+
+When I corrected the syntax, my interface verified the rune’s functionality, similar to how Charitybelle and Greenie customized blueprints.
+
+I delineated the final design onto parchment with ordinary ink. To empower the rune, I needed to trace over it with liquified metals, inking the magically nonconductive containment lines in lead and the glyphs and delivery channels in more potent metals—copper or silver.
+
+I only needed a forge.
+
+While Beaker rousted everyone out of their bunks, I cleaned up my workspace and followed the breakfast traffic to the town hall, bringing my sketch.
+
+When I approached the forge, Rory appeared to be on a break, munching on strips of worm meat. “Can you melt down lead and copper for me? I want to make a rune today.”
+
+Rory snorted after seeing my outstretched sketch. “Izzat lead and copper in yer picture?”
+
+“I only need a little of each.”
+
+“Aye. Easy enough. I can do copper while warming up the forge. And ye can melt lead on Rocky’s stove. Izzat a rune for destroying something?”
+
+“Yep. It’s a test. I’m going to see if it can destroy a goblin knife.”
+
+Rory shrugged. “If ye can do it away from me forge, I’d be grateful. I don’t need ashes in me beard if something goes wrongly.”
+
+“That’s a deal. I’ll see you after breakfast.”
+
+Rory and Fin melted copper and lead as the forge heated. Their crucibles were too big and hot to get near with my stylus, so Fin used smelting ladles to handle the metal ink.
+
+I dipped the metal stylus into the liquid lead and cast Imbue Weapon. It worked, but it ignited when I applied it to a test scrap of parchment.
+
+Rory snorted over my shoulder.
+
+“This is a test. Let me try this now.” I tore off another piece of parchment. I imbued ten mana into the stylus, and the scrap didn’t catch fire.
+
+“Ahah! Ye got the knack, now, lad.”
+
+We conducted more tests and discovered that I needed at least 8 mana imbued into the stylus, or the hot lead would ignite the parchment. I filled the quill, inked the areas of my design marked for lead, and colored in the lines. “This is so cool.”
+
+“Aye.” Fin almost whispered, not wishing to disturb me.
+
+Rory watched from a distance as he worked on his things, showing interest in the procedure.
+
+When I applied the lead to a line around the section defining the rune’s target, the rusty knife, the parchment caught fire.
+
+“No!” Fin cried as we helplessly watched it burn.
+
+I, too, groaned and buried my face in my hands. “Nothing is easy.”
+
+Fin slapped his thigh. “If it were easy, everyone would be at it.”
+
+I nodded in agreement. It became another puzzle to figure out.
+
+After dinner, I sketched eight copies of my rune. I counted over a dozen separate components in what I considered a simple test rune. My parchment caught fire if I didn’t invest enough mana. Luckily, I’d purchased a great deal of it in Grayton, where prices were much cheaper than in Belden.
+
+Making a proper rune took days of tests. Subsequent results showed most glyphs and lines didn’t need more than a dozen mana. Even the glyph defining destruction required a modest amount. The only mana-intensive component involved the rusty knife’s true name. Undoing material objects needed more energy.
+
+I imbued 125 mana into the rusty knife rune to keep it from burning my parchment.
+
+It took me five days of burning through parchment in Rory’s blacksmith to make a valid rune. Rory, Fin, and I produced a working rune of rusty knife destruction.
+
+Fin held the knife, and I spoke the trigger phrase. “Bye-bye, blade.”
+
+Nothing happened.
+
+I checked my rune for breaks in the ink. It should have worked, especially since the game’s interface pronounced the rune valid.
+
+I repeated the phrase in different octaves, cadences, and pronunciations. Fin held the rusty knife differently and spoke the magic words, but nothing worked. He placed the blade on the ground after growing tired of holding it aloft.
+
+The next time I spoke the trigger phrase, it disappeared. We flinched at a sharp firecracker sound. Beaker hurried away from the noise, looking around for the source of the irritant. He honked loudly and telepathically messaged me. “Danger. Come home! Danger!”
+
+I mentally consoled him. “I’m sorry, Beaker. That was me. You’re okay.” I unsummoned him to avoid causing any more stress and leaned forward to see what happened to the knife.
+
+The process hadn’t left a scorch mark.
+
+“It’s gone.” Fin gasped and looked around the floor in case it had somehow fallen.
+
+“I just hacked my first rune! Although it seems I can’t destroy something in someone else’s possession.”
+
+Fin gave me a dubious look. “Why not?”
+
+“I dunno. Maybe it affects its true name.” I could only destroy unclaimed items. Discovering conditions for item destruction while experimenting felt crucial. These weren’t lessons I could learn in the field when combat always counted as a factor.
+
+In terms of game balance, limiting item destruction to unequipped objects made sense. Otherwise, players could vanish an enemy’s equipment—erasing all value to magic items and arms. This factor became a critical sticking point—if Winterbyte ever placed her paws on the relic, all would be lost.
+
+Fin looked up at me. “Does it mean you can dust away other things? Like a rock or tree?”
+
+I shook my head. “Yeah, but only if I know their true name. I need item descriptions.”
+
+Triggering the rune was a lot of fun, but it consumed time to script and required a ton of parchment. These investments counted as R-and-D costs. If I could make a generic rune with a wide application, I could mass-produce it.
+
+Fin stroked his beard. “Does this mean ye can destroy the relic?”
+
+“I won’t be sure until I perform more tests.”
+
+The next round involved a modified rune. This time, I focused on destroying a pardasaurus tooth. The parchment caught fire when I invested 125 mana into the rune. Unlike the rusty goblin knife, white, not gray, represented its rarity.
+
+I tried it again, using 150 mana. It, too, burned.
+
+I invested 175 of my 220 mana pool, and the parchment didn’t burn. I slumped to the ground and groaned.
+
+“Wazzat, then? Didn’t it work?” Fin asked.
+
+“Yeah, but I’m not happy about why it worked. Destroying powerful items requires more mana.” The realization had ugly implications for our relic. To make sure I had a working rune, I destroyed the pardasaurus tooth. The air crackled with a loud clap, making me glad that I put Beaker away. It worked—the tooth winked out of existence.
+
+Next, I tried a green item, one of Falconeer’s masterwork daggers. I didn’t have to destroy it—I just wanted to use its true name. I invested all 220 points of my mana pool into my next iteration. The rune caught fire before I could finish imbuing it with magic.
+
+None of my items increased intelligence, so I did something I had avoided until now. I looked through Charitybelle’s old gear. The only item with intelligence came from the charm we found on the dead gnoll by the sarcophagus.
+
+Item
+
+Charm of Rescue
+
+Rarity
+
+Rare (yellow)
+
+Description
+
+Level 16 charm slot item+2 intelligence+2 willpowerItem use—Once per day, the wearer may cast a heal spell as an instant.
+
+Healing items benefited us both, so taking it without asking Fabulosa seemed fine. Charitybelle’s kit included Tardee’s old armor and the Siege Hammer she got from choosing Aggression as our town’s first mandate. If Fabulosa didn’t want any of it, we could maximize the town’s defense by offering it to the guards or, better yet, Bernard and Blane.
+
+Equipping the charm increased my mana pool to 240.
+
+I tested putting 225 into the rune, targeting Falconeer’s green blade for destruction. It didn’t burn. From what I could gather, destroying gray items took 125 mana. White items needed 175 mana, and green required 225. Every level of rarity required another 50 points of mana to destroy.
+
+I ripped up the rune since I didn’t want to destroy a green-level weapon. Yellow, or rare items, rated one step higher. I used the true name for the Charm of Rescue for my next rune. Again, I would not destroy it, but I wanted to see if drinking a 50-point mana potion would interrupt the rune’s creation. It didn’t. I could continually pour mana into something, so I drank the mana potion and spent 275 mana into the glyph. The test met with success—the parchment didn’t burn.
+
+The colors ordering item rarity somewhat followed the color wheel—gray, white, yellow, orange, red, purple, and finally blue for divine items. I would need a mana pool of 425 to destroy the relic. In the long run, that didn’t seem impossible. I needed at least 185 more mana from intelligence gear and a hefty mana potion. My best recipe for mana potions gave only 100 mana, of which I didn’t have the ingredients. I needed an herb called bumbleroot.
+
+I went to the battle college and gave Fabulosa the news.
+
+“So you’re saying, if we can get a hold of bumbleroot, we’ll only need to find items with +9 intelligence? That sounds like a lot.”
+
+I grunted. “Well, we can forget the bumbleroot if we get a hold of a major mana potion. Then we’d only need +4 int.”
+
+“That sounds more doable. But where’s the catch? There’s always a catch.”
+
+I threw up my hands. “Who can say if there are such things as major mana potions?”
+
+“I have nothing that increases intelligence, do you?”
+
+“I found Charity’s old Charm of Rescue. It turns a heal into an instant once per day. It’s a yellow item that gives +2 intelligence. Items that give intelligence and strength are rare.”
+
+“I have a couple of strength items. Most of mine came from leveling.”
+
+“That reminds me. I meant to ask if you wanted to look at Charitybelle’s things. She’d want us to use her old equipment.”
+
+“Okay, sure. I’ll take a look.”
+
+I shrugged. “If there is such a thing as a 150 mana point potion, we’ll likely find it on an Arlington shopping trip.”
+
+Fabulosa placed her hands on her hips. “I hope we don’t do all this and find out relics are indestructible. But if we do, I reckon we ought to get a move on. Yula thinks the wolves are coming back after their pups are born. That gives us about a one-month window to find gear with intelligence bonuses.”
+
+Bernard and Blane had finished their exercises and listened with rapt attention.
+
+Fabulosa turned her attention to the dwarves. “Would y’all be interested in an adventure to Arlington? We could maybe use a few more swords-n-boards this time around.”
+
+The brothers grinned madly at each other.

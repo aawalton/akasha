@@ -1,0 +1,181 @@
+The hill’s incline wasn’t steep, perhaps a 10 percent gradient, but the four-legged dino-monstrosity looked in danger of toppling forward as it charged me.
+
+Before I could call Charitybelle for help, a game prompt appeared in the periphery of my vision. Time stopped, so I gave the intrusion a read.
+
+Chat Invite
+
+Winterbyte’s Battleground
+
+Location
+
+65.1, -22.5
+
+Beneath the window rested a simple yes/no button. I didn’t know The Book of Dungeons offered a chat interface. Other immersive games had them, and they worked with mental commands. Players merely directed their thoughts to the interface to make words appear.
+
+I accepted the invitation by focusing on the affirmative option. A chat window, like the combat log, appeared, and interacting with it froze time.
+
+Winterbyte opens battleground channel.Winterbyte joins channel.Apache joins the channel.Charitybelle joins channel.Fabulosa joins channel.Winterbyte Hey guys! Thanks for giving me a chance to use this thing. Winterbyte Please don’t hold it against me that I called dibs on the relic long before you stepped into the picture. I’ve been dealing with kobolds and double-crossing gnolls for weeks now, and there’s no way I’m letting someone else take it. Winterbyte I hope you’re not sore about my tunnel trap. It’s a shame it didn’t work. By the way, is there any chance you guys want to fight me one at a time? It seems only fair.Winterbyte What’s wrong, guys? Does the chimera have your tongue?
+
+Tardee had tried to distract me with a conversation, but even though my interface froze time, I didn’t want to fall for a similar ploy. Instead, I focused on the chimera, the oncoming danger.
+
+Now that I realized that the parenthetical 9 after its name meant her ninth creation, I had to regard it with more respect than an average Familiar. While creating a chimera might involve a spell, she’d only made nine of them, leaving me to believe that exotic ingredients limited their number.
+
+Nothing clarified my focus like a set of triceratops horns leveled in my direction. This clumsy monster stood at a lower level, but I faced it alone. Its tail sported a waving bulb of bone and threatened to follow goring and trampling attacks with a concussive blow that probably Stunned me. Nobody brought an ankylosaur into battle for its bite.
+
+The ground underfoot erupted in vines, and Tangling Roots and Grappled icons appeared in my interface. I needed to avoid the chimera’s attacks or break free. At level 19, I had three unspent power points.
+
+None of my available melee abilities could break the roots, so I looked at damage mitigation. I probably needed to purchase Block before unlocking more escape mechanics. Instead, I spent a point on a spell fitting my philosophy for versatility—Mana Shield.
+
+Power (spell)
+
+Mana Shield (tier 1)
+
+Prerequisites
+
+Arcane magic rank 16
+
+Cost
+
+1 mana per point of damage
+
+Cooldown
+
+None
+
+Cast time
+
+Channel
+
+Description
+
+For every point of mana invested mitigates 1 point of physical damage (up to caster’s rank in arcane magic).
+
+Mana Shield counted as the only spell without a cooldown and the only channel requiring no concentration to maintain. It let me convert mana into health by reducing physical damage. It wouldn’t always be helpful because I usually needed mana, but the charging chimera’s heavy footfalls convinced me that even with 350 health, I needed an edge. Players made deadlier opponents than monsters, and standing in the sights of one convinced me not to be stingy. My chief concern revolved around holding out until Fabulosa and Charitybelle entered the fray.
+
+Purchasing Mana Shield unlocked a new ability, Refresh Mana, which might be crucial under certain circumstances. Refilling my mana pool might seem overpowered, but it required a one-second channel for every point of mana. Because anything could interrupt my concentration, Refresh Mana fell to a situational utility when allies could protect me or preoccupy enemies. This wasn’t that moment. Aside from our fight against the demons, we never had free time during combat. Refresh Mana seemed unusable.
+
+I spent a second power point on another spell I’d been looking at for too long.
+
+Power (spell)
+
+Counterspell (tier 2)
+
+Prerequisites
+
+Read Magic, Arcane magic rank 13
+
+Cost
+
+20 mana
+
+Cooldown
+
+Ten times the countered spell
+
+Cast time
+
+Instant
+
+Description
+
+Nullifies target non-instant spell. Targeted caster must wait until cooldown transpires before casting spell again.
+
+Counterspell applied to every non-instant spell. Its times ten cooldown might be punishing against 24-hour spells and abilities, but I could always use my robe on a quiet day to reset it.
+
+To use Counterspell effectively, I needed to know what an enemy cast, and I couldn’t do this while frozen. Leaving one unspent power point, I closed my interface.
+
+I might buy another melee ability if this fight wasn’t going the way I wanted. It was too early to tell which way this fight might swing. Mana Shield could drain my mana pool, but an opponent who summoned monsters might be vulnerable to melee.
+
+Thanks to my Pearl of Power, my spellcasting rank in arcane reached 32. I closed my interface and set my Mana Shield to reset at 32 points. Besides, I also had my Prismatic Shield armor bonus. By the time the monster reached me, I had thoroughly imbued my spear. Though rooted in place, I clashed toe to toe with the beast.
+
+/Your mana shield gains 32./You cast Rejuvenate./Triceratops gores you for 18 damage (37 resisted)./Your mana shield gains 32./Triceratops tramples you for 7 damage (41 resisted)./Your mana shield gains 32./Ankylosaurus hits you for 0 damage (24 resisted)./You are free from tangling roots./You hit Winterbyte Chimera for 47 damage (10 resisted).
+
+I’d never spent so much mana at once. I pumped mana into my Mana Shield between each incoming hit, and a transparent blue half-shell flickered around me whenever it recharged. Also, my Imbued Weapon hit it for 47 points of damage, which wasn’t even a critical hit. I traded blows with a higher-level monster as if I hadn’t a care in the world. I let a Rejuvenate clean up the rest of my damage before investing more into my Mana Shield. For now, I performed my role well, and I only needed to hold long enough for my allies to return.
+
+By pretending to be unbothered, I hoped to deter Winterbyte from engaging. I couldn’t simultaneously fight off the chimera and a player.
+
+Winterbyte I’ll admit, this chimera isn’t as cool as the last, but I needed the hellhound’s howl to let me know you made it inside. Ruk said he’d given you the wrong coordinates, but I guessed you’d pop in sooner or later.Winterbyte If you want to parley, I’m open to ideas. Maybe you give me the relic, and I’ll let you alone. What do you think? Winterbyte Why don’t you guys say anything? I dropped the battleground standard so we could talk. I hope you’re not upset. Remember, it’s just a game. Tap-tap-tap. Hello? Is this thing on?
+
+I didn’t want to give him the comfort of my company. This player wasn’t my pal. He tried to knock Charitybelle to her death less than a minute ago, and that’s all he needed to do to make my kill-on-sight list.
+
+I also wouldn’t partner with anyone looking to take the relic. The only thing stupider than mind-melding with a demon lord was partnering with someone mind-melded to a demon lord. I planned on making no friends today—this required a gladiatorial mindset.
+
+The next time the creature charged, an arrow hit my shield and exploded, knocking me off balance and into the waiting teeth of the raptor. The combat log showed I’d been pushed by something called a concussive arrow. It also delivered a -12 agility debuff for 15 seconds. I drank a mana potion to replace the lost health with heals.
+
+I searched for the archer. Standing 20 yards away, behind a small boulder, stood the hulking gnoll silhouette, but above its head floated a player’s nameplate. How had he figured out how to change his race? All players had started the game as humans, dwarves, gnomes, or elves.
+
+Perhaps a glamor changed his appearance.
+
+I activated Prismatic Shield’s True Sight ability, but I could see no gnoll standing atop the boulder. The real enemy hid on a rocky promontory above its decoy. The shield visualized my enemy as an outlined silhouette of a beautiful young woman with a player’s nameplate.
+
+Name
+
+Winterbyte
+
+Level
+
+23
+
+Difficulty
+
+Challenging (yellow)
+
+Health
+
+440/440
+
+Winterbyte had Polymorphed herself into a gnoll! Her human-in-wolf’s-clothing wasn’t an illusion or even magical, so I could see how she might have gained other gnolls’ confidence.
+
+The Polymorphed icon on her nameplate gave away her nature, but NPCs didn’t see player nameplates, letting players weasel their way into NPC circles. It wasn’t a bad strategy. I’d stumbled into a lieutenant governor position, so why wouldn’t other constants become ringleaders among the game world’s native population?
+
+If Winterbyte had hired the gnoll warlock and set everything in motion, many things clicked into place.
+
+After the kobolds discovered the warlock, they’d been too smart for their own good. Instead of paying orcs to clear the demons from the temple, the clever little varmints sold its location. They tricked the orcs into paying them to solve their biggest problem—keeping gnolls from acquiring the relic. It made more sense to corrupt a faraway enemy than one nearby.
+
+It only took one wayward hydra to wreck everyone’s plans.
+
+And now we fought on center stage—greedy players caught up in a struggle over the overpowered relic, like a greased watermelon at a pool party. We couldn’t let it fall into the hands of another contestant.
+
+To avoid facing my back to the gnoll, I sidestepped to keep both the pet and master in my field of vision. I needed to watch for explosive arrows and whatever nasty things awaited in Winterbyte’s quiver.
+
+The chimera repositioned itself between me and the hole, setting off several of the trapped runes, which exploded harmlessly under its feet. It attempted another flanking maneuver, and I countered by retreating into a small space with my back to a rock wall. It cut off my means of escape, but it bought me time for the agility debuff to expire.
+
+Charitybelle and Fabulosa should appear at the top of the rope soon.
+
+I couldn’t understand why the gnoll hadn’t attacked with more. The concussive arrow messed up my defense, but the whole point of summoning a creature had to involve more than lobbing arrows from afar. Winterbyte knew spells, so why wouldn’t she use them?
+
+Then I realized she couldn’t attack us without revealing her position and spoiling her illusionary double. Of course, she wanted me to waste cooldowns on her doppelgänger.
+
+Winterbyte had all day to prepare. But her gambit relied on my willingness to take the bait. I stood no chance of killing her meat shield while under her fire. Any smart gamer would have eschewed the monster and rushed her. Instead, I played dumb and focused on the beast, letting her fire without exposing herself. The longer she believed I might still fall for her trick, the more time it gave my allies to enter combat.
+
+Charitybelle climbed out of the oculus, casting Detect Magic to avoid runes. Her reappearance convinced me we could bring this fight under control.
+
+I had lost little of my health and knew my opponent’s plan. When Charitybelle came within earshot, I warned her. “Watch out! The gnoll behind the bush is an illusion. The real one is on a ledge above it—and it’s a player.”
+
+Charitybelle circled the chimera and healed me. The two of us traded damage with the monster until Fabulosa emerged.
+
+Fabulosa groaned at seeing another chimera but maneuvered into a flanking position. “I gotta tell you, Patch, I prefer my monsters symmetrical.”
+
+Charitybelle dodged around a boulder and chatted while she fought. “And it’s a given this one won’t have loot.”
+
+Fabulosa grunted. “Stupid Familiars.”
+
+“Hey, watch it! Bruno might hear you.”
+
+The badger, which recently appeared on the scene, showed no interest in the discussion. It contented itself with fighting something big.
+
+“Ladies, can we please focus?”
+
+“I’m only saying chimeras aren’t Familiars. Familiars are cute.”
+
+The monster’s clubbed tail whacked her twice—neither inflicted critical damage. Like the hydra, the chimera grew multiple heads, two of which faced its sides, and wasn’t vulnerable to backstab bonuses.
+
+When we brought the chimera to half its life, an arrow exploded behind Fabulosa. It knocked her to her knees, and she took a punishing blow from the clubbed tail as a chaser.
+
+Another arrow landed on Charitybelle. It interrupted her cast of Rally and knocked her off her feet. She regained her footing and got off her heal spell before the next concussive arrow struck.
+
+I smiled, knowing Winterbyte had abandoned her subterfuge.
+
+Her rain of arrows showed her frustration. We survived her traps, stalled enough to regroup, and wasted no resources attacking her illusion. We’d waltzed into her dungeon after she’d failed to secure the relic. Her belief that we carried it topped off what had to be a lousy day for her.
+
+If Winterbyte weren’t on tilt, she would have fled. As a ten-foot-tall gnoll, she could freely travel in kobold territory. We couldn’t, especially with dusk approaching.

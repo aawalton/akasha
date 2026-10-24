@@ -1,0 +1,209 @@
+Debbie, the shopkeeper, called my attention to her alchemical case and showed me an array of potions and poisons. Small bottles of colored liquids filled the case, and it unsettled me that only half had labels.
+
+The Hummingbird Darts and my vendetta with Winterbyte softened me to using poisons. Debbie’s wares included damage-dealing solutions and oils, but the poison that caught my attention didn’t do damage.
+
+Item
+
+Glacial Water
+
+Rarity
+
+Rare (yellow)
+
+Description
+
+Level 31 poisonItem use—Reduces target living creature’s agility by 90% for the duration of 100 seconds divided by target’s level. Targets affected by Glacial Water have a 100% chance of incurring critical hits.
+
+As poisons go, this wasn’t so bad. The four vials cost eighty gold each. Glacial Water acted as a force multiplier in that we could gang up on the same creature, increasing everyone’s chance to critically hit a target for a short while. Against something like the troglodyte, this would only last a few seconds, but slowing incoming attacks also bought time for heals.
+
+Debbie called my attention to something called Perfume of Night. The scent made a person appear undead to other undead. “This is popular with adventurers. If they haven’t detected you yet, they will leave you alone for ten minutes unless you attack, although you’re still prone to supernatural effects like fear. But if you do anything undead wouldn’t normally do—like eating a salad—it will ruin the perfume’s effect. But if dark magic is your bag, you’ll want this.”
+
+Item
+
+Pixie Dust
+
+Rarity
+
+Rare (yellow)
+
+Description
+
+Level 40 Magic ItemItem use—Bag of fae dust mind-controls target, forcing them to perform commands contrary to their nature. Affected creatures are aware of actions but helpless to disobey. Effect nullifies after one minute or by washing eyes.
+
+Dark magic encouraged exploitive behavior more than the other schools of magic. Mind-controlling opponents seemed an unethical way to win. I wanted to win this The Great RPG Contest, but I wasn’t so sure about dishonorable kills.
+
+“How much is it?”
+
+Debbie returned the bag to its place on the shelf. “It’s 990 gold. I get many young adventurers like yourself drooling over it, so I keep the price steep. It’ll go one day.”
+
+“I’ll take the perfume. That might come in handy.” I passed on all the temporary stat buffs and healing potions. I could make the latter myself if I ever bought alchemy supplies.
+
+Debbie didn’t carry many miscellaneous magic items, but one item intrigued me.
+
+Item
+
+Orb of Hazardous Passage
+
+Rarity
+
+Masterwork (green)
+
+Description
+
+Level 15 Magic ItemOrb will roll toward immediate dangers within 100 feet. Orb cannot roll over obstacles or inclines steeper than 1-degree grades.
+
+“Oh! This might have applications in a dungeon.” The 45 gold piece price seemed modest.
+
+“Owners usually put them on tables or desks. They’re a home alarm system for city dwellers. One hundred feet isn’t enough time to react anywhere else. For dungeons?” Debbie groaned and thought about it. “It’s more buyer-beware—the gradient limit is probably too low for most rooms unless you have a flat table.”
+
+Regarding jewelry, Debbie had only one low-level ring that gave +1 intelligence, costing 250 gold pieces. She shrugged when I asked her why it cost so much. “This is Arlington, hun. Everyone wants intelligence on their rings. No matter what price I put on them, eventually, a guild grabs them for its members.”
+
+She showed me two other rings that struck me as useful.
+
+Item
+
+Lunar Band (Phaos)
+
+Rarity
+
+Rare (yellow)
+
+Description
+
+Level 40 RingItem use—Once per day outdoors when Phaos is in the sky, wearer may illuminate 100 levels of visible targets with moonlight for 10 minutes. Chance of critically hitting illuminated targets is double.
+
+It only worked outdoors while Phaos hung in the sky, so this ring felt so conditional I doubted I’d remember to use it. But a ten-minute debuff tempted me. It applied to vargs, trogs, dinosaurs, and anyone attacking our homestead. The price tag on the ring asked for 300 gold, which seemed far too much.
+
+When I finished inspecting it, Debbie called my attention to a similar item.
+
+Item
+
+Lunar Band (Tarnen)
+
+Rarity
+
+Rare (yellow)
+
+Description
+
+Level 40 RingItem use—Once per day, wearer becomes dimly lit for 10 minutes or until struck in combat. If Tarnen is in the sky, wearer is also 50 percent transparent.
+
+The ring’s enticing feature allowed indoor use. It had sneaking applications, and I bet it enhanced The Book of Dungeon’s hide-in-shadows mechanic. A defensive purchase might make sense to keep it out of other players’ hands.
+
+I combed through a row of protection rings that only gave armor bonuses. They were cheap, and we could give them to people for town defenders if we acquired more rings than we could wear.
+
+We tallied the cost of everything I wanted. Rainbow’s End mesmerized swarms of critters, and I wanted the two Hummingbird Darts and Glacial Water to poison them. The lunar rings cost too much for a speculative purchase. I bought the Wind Wall and four +10 armor rings, which cost only eight gold apiece. They’d be good for backup troops.
+
+The excuse for shopping revolved around finding gear that increased intelligence. Magic items filled Debbie’s wall, but only two supplied bonuses to the elusive stat—the +1 intelligence ring and the Divine Bow. If I bought bumbleroot and made 100-point mana potions, I’d still be 65 mana short of creating a rune capable of destroying the relic.
+
+“Do other shops in Arlington have intelligence gear?”
+
+Debbie shrugged. “I’m usually the place to come for weapons. There’s a shop for cores in the meatpacking district. One for household and charms, although its inventory borders on quackery. Most magic sells through the guild, and if you’re not an astromancer or know someone, you can forget it. They have a monopoly on runes, too. Selling them is illegal in Arlington, so I steer clear of ‘em. Sometimes things appear at Brightbury’s Auction house, but you better be ready to pay museum prices.”
+
+“What about scrolls? Do you have any?”
+
+“I do. I have two Charges, a Restore, a Scorch, and an open bid on Anticipate.”
+
+Fabulosa and I already had these. Rowan warned me about the scarcity of scrolls, so I wasn’t surprised that Debbie only had low-level spells. I thanked her and asked for the total.
+
+She tabulated the prices. “I’m gonna ding ya for 36 gold for both Hummingbird Darts. That brings your total to 1,054 gold. Did you want to order a major mana potion, too?”
+
+“It’s a two-week wait?”
+
+She nodded.
+
+“Nah, I will have to make do with the 100-point versions.”
+
+I decided not to sell my shield. We didn’t need money, and it served me better by gifting it to one of our citizens. Switching from the Flying Wall to the Wall of Wind amounted to a 4-point loss of stamina, so I had to mind my health. Charitybelle’s charm, which turned a Restore into an instant, more than made up for it. Besides, if the pushing effect meant I wouldn’t take damage from an attack, then a health drop wasn’t significant.
+
+I looked at my character sheet for the first time in a while.
+
+Name
+
+Apache, Governor of Hawkhurst and elder of Forren
+
+Level
+
+19 (2,240/2,435 experience to next level)
+
+Armor
+
+61
+
+Stamina
+
+29 (290 health)
+
+Intelligence
+
+26 (260 mana)
+
+Strength
+
+15 (+15 damage to physical attacks)
+
+Agility
+
+22 (+22% to hit/dodge physical attacks and movement)
+
+Willpower
+
+29 (+29% to spell effects/resistances, health/mana recovery, and influence)
+
+Skills and ranks
+
+Alchemy 14, Arcane Magic 21, Blacksmithing 6, Bludgeoning Weapons 22, Carpentry 12, Dark Magic 2, Defense 20, Dodge 24, Equestrian 5, Governing 7, Leatherworking 12, Light Magic 20, Manuscript Creation 14, Nature Magic 18, Piercing Weapons 21, Primal Magic 19, Ranged Weapons 18, Research 31, Slashing Weapons 22, Stealth 7, Survival 18, Tailoring 13
+
+Powers
+
+Cantrips Animal Empathy, Detect Magic, Heavenly Favor, Minor Hex, Shocking Reach Tier 1 Aggression, Animal Communion, Anticipate, Applied Knowledge, Charge, Compression Sphere, Detect Stealth, Hot Air, Imbue Weapon, Mana Shield, Mineral Empathy, Read Magic, Rest and Mend, ScorchTier 2 Counterspell, Familiar, Inscribe Rune, Mineral Communion, Rejuvenate, SlipstreamTier 3 Magnetize, Restore
+
+Note—Stats include buff and gear bonuses
+
+I found Fletcher munching on fried meat and studying a tidal chart. “We gotta swing by the apothecary for some bumbleroot.”
+
+He nodded while he chewed and pointed in the store’s direction.
+
+I shopped quickly once inside. The herbal aroma overwhelmed me, making it difficult to breathe. A paltry five gold bought me enough to make dozens of 100-point mana potions, although I still needed the equipment to make the stuff, so I purchased an alchemy set, which cost a few more gold.
+
+“Are you ready to see the Underworks?” Fletcher greeted me as I inhaled fresh air outside the apothecary.
+
+I nodded.
+
+“This way, my friend. I know a route from here. You’ll like it.”
+
+Fletcher and I walked on a southeastern tack, away from the entrance Lloyd and the others took. The buildings stood so high that they blocked vistas of the cityscape, and the curvy streets and canals erased all sense of direction outside the interface map. The storefronts looked quaint at street level, yet the buildings encasing them stood as majestic as anything I’d seen in Miros.
+
+A series of whistles filled the air. It wasn’t quite music, and it only lasted a couple of seconds.
+
+Fletcher watched me search for the source of the sound. “Those are Arlington’s public chimes. They measure out the day to keep everyone on schedule. Time is money, and the city uses water pressure to power them.”
+
+I kept falling into the painful thought about how much Charitybelle would have enjoyed this trip. The tenor of a trip would have been romantic and not pressed for time because of Winterbyte’s obsession with the relic.
+
+I wished I’d never met Shelly. Then, I could at least hate Winterbyte without reservation, without conflicting reminders that another friendly gamer served as my adversary. But killing the gnoll would happen, and I regretted planting doubts in Fabulosa’s mind. I would not parley, plead my case, or become Winterbyte’s pen pal. Revenge stood as goal number one on my list.
+
+A deep roar of falling water rumbled ahead of us, signaling the approach of something grand. As we rounded a corner, the wall of buildings revealed a cataract of Niagra proportions.
+
+We walked to an observation deck. Arlington’s harbor fell ten stories below the city. A natural seawall protected it from tidal swells in a C-shaped embrace. The ocean lay visible only on the horizon, and massive merchant ships moored behind a series of artificial breakers below us. The waterfall’s white mist obscured the marina below.
+
+A structure in the water caught my eye. Two great pistons held what looked like giant bathtubs filled with flatboats. One aligned to sea level while its twin rose to a canal.
+
+Fletcher gestured to the water-filled basins holding the merchant ships and shouted in my ear over the noise. “I see you’ve noticed the lift locks.”
+
+I nodded.
+
+“The pistons share a hydraulic connection. When the canal’s sluice gate opens on the upper level, water fills the top basin. As it goes down, it pushes the lower tub upward. They carry the boats inside to different levels of the city.”
+
+I nodded in admiration. “If both basins have water and boats, wouldn’t they equal out?”
+
+“No. The engineers put more water in the top basin, so they’re imbalanced. They use water weight to drive the hydraulics. Magic isn’t necessary.”
+
+I enjoyed the view, but the moist air chilled me. “Is it colder down south?”
+
+Fletcher nodded and shrugged. “It is a bit. There are settlements further south—little frontier towns peppering the southern coast. The highland villages near the coast get snow.”
+
+“This is a beautiful city. It seems like a shame to go underground today. If this is any indication of what to expect in the Underworks, I can’t wait to see it.”
+
+“It is.” Fletcher smiled. “And I don’t believe for a second that the others will wait for us, so we better make for Dark Harbors soon.”
+
+I agreed. Fabulosa and the dwarves had already begun killing monsters, and I didn’t want to miss the action.

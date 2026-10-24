@@ -1,0 +1,163 @@
+Even though it would leave me with only 12 mana, I splurged on Detect Magic and scanned the room’s contents. Only a large glass jar filled with liquid glowed. So much dust had accumulated I couldn’t see inside without blowing it off. After I did, I stepped back, and Charitybelle raised her weapon in alarm. The jar’s dark liquid contained what looked like a pair of sea cucumbers with twisted, malformed faces on their ends. The creatures glowed with magic.
+
+Name
+
+Archeron Larva
+
+Level
+
+3
+
+Difficulty
+
+Easy (green)
+
+Health
+
+30/30
+
+“Eww.” I looked at the larva. “What are these?”
+
+Fabulosa scrutinized the creatures and grunted. “They’re not pears in heavy syrup, that’s for sure. Nor do they look like a way to stop demons from resummoning.”
+
+Charitybelle repeated the naga’s words. “Leave no door unopened. What could be a door? Maybe it’s talking about a doorway to death? Or maybe because the summoning circles had pentacles, they’re doorways to other dimensions—but those doors are already open.”
+
+I gestured to the office door. “How can we open all doors if the only door in the dungeon is already open?”
+
+Fabulosa looked vacant, lost in thought. She approached the office door and pulled it towards her. As it swung closed, it revealed a narrow passage next to the doorway. The opened door had covered another route out of the room. She looked back at me, cocked her head, and shook it with annoyance.
+
+Charitybelle looked disappointed to have not solved the puzzle. “It was that simple?”
+
+As we peered down the passage, the door flew open, and a praven jaculus jumped into the room, catching Fabulosa off guard. It bit into her shoulder, delivering an Infernal Pain debuff, which chipped away at our health.
+
+Charitybelle and I might have helped ward off its follow-ups, but that’s also when the duration of Presence ended. It didn’t entirely plunge us into darkness because glow stones remained attached to our armor. Our eyes adjusted, but seeing became difficult.
+
+We ended the fight against the jaculus in rough shape. Our health pools fell to the low double-digits, and our mana pools shrank to similar numbers. We had two more demons to deal with soon. The second snake demon had likely resummoned in the pillared temple and headed toward us.
+
+Fabulosa took a deep breath and charged into the newly discovered passage. We followed her until she halted inside a doorway. Over her shoulder, I saw a small square room with architecture similar to the pillared chamber—although not as decorative. A corpse of a gnoll dominated the floor space. The creature wore robes, and white, wiry fur covered its humanoid forelimbs. Surrounding the corpse glowed another pentacle, much larger than the summoning circles we’d seen in the pillared chamber.
+
+Fabulosa turned to me. “Can we enter the circle? Aren’t these demonic pentagrams supposed to be evil?”
+
+Charitybelle corrected her. “Not pentagram, pentacle. But what if the pentacle killed it?”
+
+I shrugged and peered down the passage. The second demon should have respawned.
+
+Charitybelle looked uncertain. “That circle looks like a trap or dark magic.”
+
+Fabulosa pushed her saber, the Phantom Blade, over the pentacle, but nothing happened. “It’s not a Wall of Force, but the white hair on the gnoll makes it look old. Maybe it died of natural causes?” She contorted her face to exaggerate the dubious supposition.
+
+I turned on Mineral Communion and looked for clues about the mysterious corpse. Scenes projected by the stones showed the emaciated hyena walking in the area without adverse reactions.
+
+“Possibly. The gnoll had been old before it came here.”
+
+Fabulosa pointed at the creature from across the room. “Look at its robes. Perhaps it’s a sorcerer or wizard. Or a warlock—which explains why demons are running around.”
+
+A familiar hiss from behind startled us, coming from the workshop. In seconds, it would be upon us.
+
+I scanned for glimpses of the past through Mineral Communion. “It looks like it came here to die.” I spotted slithering marks and small cloven footprints on the circle’s edge. This didn’t look like a trap—it appeared to be a circle of protection. Still, with potentially fatal effects, I wanted to be sure.
+
+Being so close to death convinced me to cash in another chip. I opened up my interface to purchase another power.
+
+Power (ability)
+
+Inscribe Rune (tier 2)
+
+Prerequisites
+
+Imbue Weapon, Research rank 10
+
+Description
+
+You understand the structure of magic.
+
+Like Read Magic, Inscribe Rune didn’t act as a spell but as an ability requiring no mana. It spilled information into my brain like a roaring waterfall, making me aware of how runes worked.
+
+Before I learned Read Magic, spells amounted to nonsense words that players recited by rote. Read Magic taught the vocabulary of magic but not its rules or grammar. Inscribe Rune gave a sense of order and purpose to the composition of incantations and runes.
+
+The game organized magic spells like legalese contracts. Runes and scrolls both contained scriptlike functionality encased by circles and lines. Metallic inks held the assembly together. Inert lines, written in liquid lead, served as insulators. Conductive metals, like silver, served as electrical circuits, facilitating interactions between a rune’s various parts.
+
+I closed my interface and read the protection circle on the floor. Each section made sense, although I still didn’t understand some glyphs. Perhaps they involved dark magic. The outer arc of runes acted as a reversed containment function. Another section described targeting and how the rune delivered its effects—whether it radiated from a specific location, affected a creature, or targeted an area. Other scripts detailed triggering conditions, and another defined the magical effects. At its heart lay the essence of my search—a description of the rune’s purpose.
+
+Seeing no deliveries for damage or spell effects led me to believe it served as a glyph for protection. I stepped inside and saw no debuffs in my peripheral vision. “It’s safe! Jump inside!”
+
+We crowded into the circle’s center seconds before the praven naga and jaculus entered the room. The demons stopped at the circle’s edge, as I expected.
+
+I held my hand in a halting gesture. “As long as we stay inside the circle, it’s safe to kill them. And if I’m reading this correctly—it compels them to leave us alone—even if we attack them. Go ahead and strike them. It should be safe.”
+
+Charitybelle, accustomed to me being protective, gave me a skeptical look.
+
+Fabulosa, of course, turned and slashed at the naga without hesitation. It spittled and hissed, reacting to each impact, but dodge or reach for her.
+
+Charitybelle and I took up arms, and we beat up the demons until they disappeared. The naga, again, hadn’t tried casting its Possession spell.
+
+I shrugged. “Demons aren’t so bad as long as Fab doesn’t switch sides on us.”
+
+Fabulosa laughed. “Somebody’s gotta teach you guys some respect.”
+
+Charitybelle rested her hands on her hips, looking unamused. “I don’t understand. Where does this get us? Can we leave now?”
+
+I shook my head. “Not yet. I think everything will change when the quasit comes back.”
+
+Fabulosa riffled through the gnoll’s belongings. “We might as well see what this guy has.”
+
+Up close, the size of the gnoll impressed me even more. It might have been close to eight feet tall if it stood straight.
+
+I studied the rune as Fabulosa and Charitybelle examined the gnoll’s belongings. Pulling out a piece of vellum, I took notes of the pentacle and runes.
+
+The circle considered its “deliverable” or magical effect to be “protection.” The aura’s protection applied artificial power from the arcane school of magic. Its parameters didn’t encompass all demons, just the naga and jaculi, but it still might be useful.
+
+“Only a white core.” Fabulosa’s voice carried a note of disappointment. She pulled her hand from the gnoll’s mouth and popped the core into her inventory.
+
+Charitybelle opened the gnoll’s purse. “I’ve got 344 silver pieces, some copper pieces, and an unholy symbol—but it’s silver.” She held it aloft as if to ask if we should take it.
+
+Fabulosa pawed through the treasure. “Rory can melt it. I see two rings here—one is for +2 willpower and another +4 willpower.”
+
+“You guys take them—they’re good for magic defense. I’ve got willpower from my cloak.” The goodies didn’t intrigue me as much as the papers and notes. Perhaps they explained why the gnoll came here.
+
+The gnoll wore a robe that gave +2 intelligence and a decent amount of armor for cloth. I wore the only cloth armor, but it would have been a downgrade to my Cassock of Rewind.
+
+I double-checked my rune notes while my friends searched for more magic items. “Any weapons?”
+
+Fabulosa shook her head. “Junk daggers.”
+
+Charitybelle closed a loosely bound book with a clap. “There’s a folio of papers here, but it’s not magical. And I’m not sure it’s written in Common.”
+
+When she handed it to me, I paged through it. “Hmm. I can’t read this either.”
+
+Charitybelle whistled. “Wow. I’d never thought I’d hear that from you.”
+
+I smiled. The unfamiliar script stumped me. It wasn’t magic, and since the warlock wrote them, it might be in demonic or the gnoll’s language. Regardless, it might contain valuable information. It organized many of its pages into a matrix of entries, like a ledger.
+
+I looked for patterns in the text. The indecipherable characters reminded me of how Allied code breakers cracked the Nazi messages. They deciphered them after identifying the last words of every communication—Heil Hitler. Knowing this phrase gave them two common vowels and four consonants. Decrypting one little piece might decode the whole thing.
+
+I passed Charitybelle the small bound folio. “It looks like these glyphs in the margins are numbers. Maybe they’re dates or prices. You see how only one glyph changes after each entry. It’s probably a journal or maybe an inventory.”
+
+Charitybelle huffed in disappointment. “There’s no big treasure here, certainly not worth the diamonds the orcs gave to the kobolds.”
+
+I stood and scratched my chin. “The lizards who built this place admired the aquatic critters who built the ward worm’s room. The only kobold contribution included the heavy grilled gate you bashed down. And if the only magic amounted to those ugly larvae, what are we missing? Why did the gnoll come down here? They only venture into the earth to subjugate kobolds—and that certainly wasn’t the case here. Something riled them up to a standoff. So where is the dungeon’s treasure?”
+
+Charitybelle tapped the parchment with her index finger. “That leaves information. Something in these papers means something to the gnoll—or the kobolds.”
+
+A shrill shriek interrupted us. The quasit’s eyes widened, and its lips pulled back to bare needlelike teeth. It hopped up and down in place, but its rage focused on the gnoll, not us.
+
+Fabulosa raised her hand. “Don’t touch the papers, C-Belle. It’s freaking out the munchkin.”
+
+“No, that’s not it. Watch this.” I pushed the gnoll’s body toward the quasit. The offering excited the creature. “It wants its old master.”
+
+Charitybelle frowned. “As long as it doesn’t shoot lightning at us.”
+
+I pushed the corpse outside the summoning circle.
+
+The quasit grabbed the gnoll’s limb, and they both faded away. The circle of protection went with it.
+
+I tapped my notes. “I suspected the circle would disappear with the warlock—that’s why I recorded the rune beforehand.”
+
+Charitybelle hugged me. “You’re such a clever boy.”
+
+I returned her affections with a smooch.
+
+Fabulosa sat down cross-legged on the floor. “You guys ought to Rest and Mend before you take that further.”
+
+We each received messages for receiving around 80 experience, less than expected for killing the same monsters three times over, but our interface cleared our combat state.
+
+I shrugged. “I had a hunch the demons needed their old master’s body to return to their home plane. Good news for us, not so much for the gnoll. If you’re gonna dance with demons, you gotta pay the piper.”

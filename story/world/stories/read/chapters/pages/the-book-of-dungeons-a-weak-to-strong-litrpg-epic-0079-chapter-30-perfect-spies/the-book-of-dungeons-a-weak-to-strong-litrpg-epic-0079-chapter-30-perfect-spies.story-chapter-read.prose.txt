@@ -1,0 +1,151 @@
+When we finished circling, we determined that the area matched a baseball or football field. It spanned enough space to disorient visitors, but it wasn’t as big as we feared. We wouldn’t lose ourselves forever if we got lost, and our interface map kept the cardinal points of the compass oriented. But labyrinths had minotaurs, so we refreshed our Heavenly Favor buffs.
+
+Iris and Fletcher surprised me by casting Presence. Between the three of us, we had plenty of light.
+
+We spiraled through the web toward the center. Some curtains stretched wider than others, and their curves grew more pronounced the further we moved into the maze. We methodically Scorched the wandering zombies. When we reached about a third of the way into the complex, Iris held up her hand and froze.
+
+We followed her gaze.
+
+Name
+
+Spy Weaver
+
+Level
+
+4
+
+Difficulty
+
+Easy (green)
+
+Health
+
+51/51
+
+A fist-sized albino spider perched itself beneath a branch of pine needles. Its stubby legs and spherical body made it surprisingly cute. Was this the baby spider that Ally had told us about? It seemed improbable.
+
+I joked to Charitybelle. “You see? This isn’t so bad. We’ll be out of here in no time.”
+
+Unamused, Charitybelle slapped my arm.
+
+When Iris reached our position and spotted the spy weaver, she pulled her bow out, nocked an arrow, and drew the string.
+
+Fletcher smirked with pride. “Iris’s rank in ranged weapons is 21.”
+
+Iris released her string with a swoosh. The arrow sailed into and out of a blue plume of smoke.
+
+/Iris misses Spy Weaver.
+
+The spider disappeared from shaking branches. The arrow seemed dead-on accurate and shouldn’t have missed. After bracing ourselves for a counterattack that never came, we approached and searched the branches until we grew confident it no longer remained.
+
+I cast Detect Magic and Detect Stealth, but nothing glowed. Activating my shield to enable its True Sight ability might reveal something, but I dismissed the thought. I might need it for the center of the web. Using its once-per-day ability seemed wasteful for non-emergencies.
+
+We continued along a decaying orbital path toward the maze’s center. When passing through two curtains of webbing, the arrow showing North on my interface slid to the two o’clock position. My map orientation spun counterclockwise, then clockwise—something it had never done. Everyone else had confused looks on their faces, so I assumed my interface wasn’t the only one with irregularities.
+
+Fabulosa sighed. “Oh, come on.”
+
+“Our interface compass is magnetic? That’s kinda cool!” Charitybelle looked around to see if anyone else appreciated the game’s workings.
+
+Fabulosa looked less impressed. “So much for not getting lost.”
+
+I moved further into the curved corridor of webbing, and my compass needle spun to the five o’clock position. My map details spun in the opposite direction. I briefly wondered if the newly unlocked Magnetize spell might be of some good, especially around these metal webs. It might require too much concentration, so I gave up on the thought and kept moving.
+
+When I stopped, Charitybelle bumped into me from behind. She stayed close by—which I didn’t mind.
+
+I pointed out two more spy weavers. One clung to the side of a tree trunk, partially hidden from our view. The other tucked itself on the underside of a branch. “Their camouflage doesn’t work very well. And they don’t exactly live up to their name, do they?”
+
+I approached them, targeted the spider clinging to the tree trunk, and cast Scorch. When the spell fizzled, I growled in frustration. “What is going on with my primal spells?”
+
+Iris furrowed her brow. “Put your shield away. It has too much metal. Your offensive spells won’t work when it’s equipped.” Iris’s voice conveyed amusement as if someone my level ought to know better.
+
+I couldn’t believe how foolish I’d been. Casters in games couldn’t walk around in heavy armor. Every time my spells had failed, I had held a shield.
+
+Putting away my Prismatic Shield, I targeted the spy weaver once more. “It’s simple enough to test on you, my pale little friend.”
+
+/You hit Spy Weaver with Scorch for 9 damage (29 resisted).
+
+This tale has been unlawfully lifted without the author's consent. Report any appearances on Amazon.With another wisp of blue smoke, the spy weaver disappeared.
+
+It incensed me that the little sucker had avoided 29 damage. I cast another Scorch at the weaver in the trees. I didn’t care if the whole decrepit forest caught on fire.
+
+/You miss Spy Weaver with Scorch.
+
+Instead of catching on fire, the blazing branches erupted in blue puffs of smoke. The spy weavers winked in and out of existence around the flames. Either the teleport mechanic created vacuums, or the blue vapors smothered the fire. The burning needles flickered with spiders until nothing remained but smoldering smoke. These little white arachnids weren’t just spies—they were firefighters.
+
+Fabulosa groaned. “I’d hoped to light up the trees with Fireball and call it a day.”
+
+I resolved an internal debate about my shield. If spy weavers made offensive spells worthless, I might as well become the party’s tank.
+
+The option of switching from caster to tank gave me versatility.
+
+Role-playing games weren’t always so flexible. The first rigidly enforced roles. Healers healed, tanks tanked, damage dealers dealt damage, and their jobs rarely crossed over. It made for a straightforward narrative but became too repetitive and hard to balance. Hybrid classes allowed for more flexibility and created interesting class combinations. The Book of Dungeons had no classes. Instead, it offered a buffet of game mechanics.
+
+Equipped with my Prismatic Shield, I moved forward, staying close to Charitybelle.
+
+We progressed to where webs and wires surrounded us. The metal ranged from singular strands as thick as a finger to crisscrossed netlike sections. Thin veins of colored metal, probably copper, ran down many of the lengths.
+
+Corpses tangled in metal knots hung from the trees. The netting holding them wasn’t as thick as cocoons, but the macabre bindings served the same purpose. The zombies rasped and struggled with their bonds. We Scorched the low-hanging undead, but most hung outside of spell range.
+
+The concentric curtains progressively impeded our vision as we moved toward the center. Everyone expected the zombies in the treetops to drop on top of us, but so far, they remained aloft.
+
+We pointed out spy weavers whenever we saw them. They winked away from Shocking Reaches and Lightning Bolts. Arrows flew too slowly, and the critters somehow avoided the spontaneous combustion of Scorch. We eventually stopped attacking them and accepted their ubiquity. Each made the perfect spy and watched us with impunity.
+
+Webbed curtains surrounded us by the time we traveled two-thirds into the circular maze, but even though we could see through them, it made conditions claustrophobic. With a ceiling of evergreen branches overhead, it felt like an open indoor space, perhaps as roomy as a grocery store—instead of shopping aisles restricting our movement, swathes of metal nets impeded us.
+
+A loud clacking above us caught our attention when we reached a small clearing. The source came from 50 yards away, in the labyrinth’s center. It sounded like a giant woodpecker hammering its beak against sheet metal.
+
+Bundles of metal hit the ground with muffled crunches. The noises came from outside our visual range. Something had cut free the suspended cocoons of undead. We retraced our steps from the clearing.
+
+Everyone bunching up between the webs bothered me. “Wait, a second. Maybe this isn’t the best place to fight. I don’t trust these webs, and there’s not a lot of room here. We can use ranged weapons without hitting one another in the clearing ahead.”
+
+No one objected, so I led the way into the open area. I ventured to the far side to dispatch a zombie tangled up in a bundle of wire. Overhead, more undead surrounded us. While counting trussed-up zombies in the trees, my foot slipped into a hole, and I fell over hard.
+
+When I hit the pine needles, I didn’t feel the impact of the ground. Weightlessness overtook me before I landed violently on sharp metal spikes. Jagged rods of metal punctured my legs and back. I banged my forehead on something. My headache nearly drowned out the distant electrical clicking sounds.
+
+My Prismatic Shield’s +10 stamina raised my health to 330, but the fall and spikes inflicted 80 damage—below the 30 percent threshold for an automatic trigger of Anticipate. Pine needles covered me, preventing me from opening my eyes until I blinked them away. I smelled earth, and the potency of a foul stench made me cough. What caused that smell?
+
+I cast Hot Air to liberate myself from the metal skewers. I’d landed in a pit trap. My companions’ heals landed on me as I lifted off the spikes.
+
+In the distance, people shouted to one another—or perhaps they yelled at me.
+
+Somehow, a pile of branches landed on top of me, and their rustling pine needles obscured the words of my friends.
+
+Hands grabbed my feet and my robe’s belt, stalling my ascent after barely clearing the spikes. They pulled me to the pit’s side, where no spikes threatened to injure me.
+
+Dirt, branches, and tree roots interfered with my vision. Spitting, I thanked whoever helped me to my feet.
+
+A guttural moan prompted me to crane my neck. I wasn’t being helped off the ground by one of my friends—a giant rotting monster had taken hold of me and sunk its teeth into my right shoulder.
+
+I screamed. The echoes reminded me I wasn’t in the sound-dampened pine forest anymore. I’d fallen into an earthen hole, and whatever held me wasn’t an ally.
+
+Casting Slipstream didn’t whisk me out of the pit, and I cursed myself for trying. It didn’t work while Grappled, and I couldn’t cast it again for five minutes.
+
+I remained suspended in the air, but this zombie thing prevented Hot Air from levitating me to freedom. With only seconds left on the blessing, I twisted into a position that would land me on my feet while avoiding the metal skewers. Impossibly, I held onto my cudgel.
+
+I swung my weapon upward to break the Grapple and failed. The teeth found another purchase in my neck region. I flailed again and finally landed a blow, breaking the grasp of whatever had me.
+
+Name
+
+Wrought Iron Bugbear
+
+Level
+
+11
+
+Difficulty
+
+Easy (green)
+
+Health
+
+221/240
+
+Even after sizing up this monstrosity, I still didn’t know what a living bugbear looked like. Its decay erased all features except size. Black straps of metal crosshatched the rotting giant. While clasps and cords held it together, swivel joints permitted movement. Loose skin and tissue obscured some fittings, giving the impression that the abomination would fall apart if I removed the harness. However, it wasn’t buckles, cantilevers, hooks, or ties holding the undead together—something had welded their metalwork.
+
+I popped a Rejuvenate on myself and got my bearings. Had I fallen into an empty grave? The pit’s dimensions spanned 15 feet across and measured just as deep. Jagged metal spikes covered the uneven ground, and wet earth sloped inward from every side.
+
+Dark tangles of roots bristled from the walls, presenting significant combat hazards. I couldn’t swing a weapon, even a mace, without risking it getting snagged or tangled. I had to remain in the pit’s center, surrounded by spikes. I saw no other corpses, animated or otherwise, aside from the 8-foot horror lunging at me.
+
+Stepping into the pit’s center, I shuffled my feet before shifting my weight to avoid the spikes. This metalwork zombie looked clumsy, and the uneven spikes worked against the creature’s advance. As my heals brought me back to nearly full health, I jabbed at the creature’s attacks, making me grateful for hanging onto my mace, which defended well against something as big as a bugbear.
+
+Muffled shouts and distant sounds of combat made me realize my friends had come under attack. “Are you guys all right up there?” The pit’s soft earth echoed my voice, but I doubt it projected far beyond its opening. I couldn’t be sure if they heard me, but the lack of replies answered in its own right.

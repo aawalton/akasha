@@ -1,0 +1,187 @@
+After replenishing our health and mana, we grabbed the folio of parchments. We took the drafting instruments that Charitybelle could put to use. We even pulled the chairs into the Dark Room. Hawkhurst sorely lacked furniture suited to citizens with long legs. Roundhouse benches felt like they belonged in preschool classrooms. Chairs and cabinets wouldn’t improve our poor comfort score, but they certainly wouldn’t hurt.
+
+The larvae disappeared with the rest of the demons. Looting the gnoll’s workshop produced only commonplace items like quills, candles, tools, and parchment. We explored the dungeon, finding no hidden caches of treasure.
+
+I used the remaining minutes of Mineral Communion to search for secret doors and observe the gnoll going about its business. After watching, I pieced together a story.
+
+The lizard temple stood empty for the longest time until a gnoll warlock broke into it. The warlock studied the place methodically, like an archeologist, until the kobolds appeared. The rats attacked until the gnoll summoned demons to fend them off. Unable to breach the demonic defenses, the kobolds settled for a stalemate, building the barred gate that Charitybelle destroyed.
+
+But the demons became a double-edged blade, lingering about while the gnoll studied the dungeon. Unable to breach the gate, the warlock moved slowly and lost weight. It made entries into a ledger and drew the protection rune before starving to death.
+
+I rummaged through the parchments and showed the entries to my companions. “This writing is probably in the language of gnolls.”
+
+Charitybelle crossed her arms. “We’ll never know unless we go into gnoll territory.”
+
+Fabulosa hummed to herself in thought. “Not necessarily. I’ve seen a couple of gnolls in Grayton. The magic merchant who sold me my saber bragged he had gnolls for guards. He tried to impress me with them.”
+
+Charitybelle turned to her with a mad grin. “Did he?”
+
+Fabulosa arched an eyebrow and smiled. “Maybe.”
+
+At Fabulosa’s mention of gnolls in human cities, I felt a pang to visit Grayton and chase down the lead. Escorting Glenn and Oscar back to the capital wasn’t the worst idea.
+
+By the time we emerged from the hole in the ground, the wind had picked up. The pink sun had burned away enough moisture to reveal Hawkhurst’s buildings. The stretch of meadow a few miles across didn’t seem significant from this distance, and Hawkhurst Rock looked like a gray stretch of beach. Kobolds presented no danger during daylight hours, so we descended into the tree line and walked home.
+
+Our haul amounted to less than we expected. The willpower rings weren’t bad. Demons didn’t drop cores, so the worthless white crystal from the gnoll remained our only prize. Since we couldn’t place a value on intel, the warlock’s notes fell into the wait-and-see category. At least we hadn’t stirred up trouble with our neighbors, the kobolds. Our expedition might even have done them a favor.
+
+I needed to figure out why my spells weren’t working. As we made our way home, I cast Shocking Reach on flying insects, and the spell worked perfectly. I spammed my attacks without a problem. I didn’t know why they fizzled inside the dungeon.
+
+We received an unexpected game alert a few hours into our return trip.
+
+Congratulations!48 Players Remaining
+
+You have reached a milestone in The Great RPG Contest!Contestants participating in Crimson Software’s The Book of Dungeons Closed Beta 0.71b will receive a bounty bonus of $10,000 for delivering the killing blow to an opponent from this point forward. Previous kills will not count toward this bonus. Good luck!
+
+I closed the window. Part of me suspected this wasn’t part of the original contest. Perhaps a bounty system broke up large alliances.
+
+Charitybelle frowned. “We’re gladiators now, I suppose.”
+
+Fabulosa put her arm around Charitybelle. “I’m sorry, did you say something, C-Belle? I was too busy counting the $20,000 bonus money I’m about to make.”
+
+Charitybelle rolled her eyes. “Yeah, right, you wish.”
+
+“Y’all look like two big money sacks walking around on legs.”
+
+Nervous laughter broke out between us.
+
+We joked about what we would buy after knocking one another out of the game. It amused us how Crimson hadn’t predicted how contestants might stick together. Our attitude toward one another hadn’t changed, even with the bounty money. We valued one another’s company more than money or our position in the contest. If anything, it brightened our spirits for the hike home.
+
+Our mood soured in the early evening when Charitybelle suddenly stopped walking. “Ugh, you guys?”
+
+Fabulosa and I stopped and studied her expression to see what bothered her.
+
+“Check your contest interface.”
+
+Seeing what Charitybelle talked about gave me chills. The contest interface showed 44 people left in the game, and four knockouts occurred in less than a few hours. The drop in contestants meant some gamers had moved on one another, and the time frame suggested that the victims and assailants had been close.
+
+The sudden changes surprised me. It wasn’t as if we fought over a parachute on a crashing plane—the bounty money only awarded a few thousand dollars. On a strategic level, killing long-term allies over a modest bounty seemed foolish. Were players that greedy? What stories lay behind the knock-outs, I couldn’t fathom.
+
+While we took a break from hiking and drank from our waterskins, I regarded our collective aversion to attacking one another when opportunities arose. It felt like we had a solid alliance—a significant advantage.
+
+Fabulosa broke the silence. “At least we know what kind of players we’re up against. I’m with you guys until the final three.”
+
+We leaned in for a communal embrace. I’ve never participated in group hugs before, and they have always looked phony and corny. However, this one felt genuine and reinforced our commitment to one another.
+
+Charitybelle took out her canteen and held it aloft. “To the final three!”
+
+Fabulosa and I did the same, bumping our waterskins together in a mock toast.
+
+As we walked home, I worked toward maxing out my nature and arcane ranks by spamming Detect Magic and Animal Empathy. When I reached rank 15 in arcane and nature magic, my cantrips would stop contributing to rank improvement. I looked forward to crossing that milestone. Animal Empathy’s requirement for an animal target made spamming a hassle.
+
+My efforts unlocked a power.
+
+Power (spell)
+
+Magnetize (tier 3)
+
+Prerequisites
+
+Mineral Communion, Arcane magic rank 14
+
+Cost
+
+25 mana
+
+Cooldown
+
+none
+
+Cast time
+
+Channel
+
+Description
+
+Caster instills target metal with magnetic attraction for a duration of one second per rank in arcane magic. Proximity to target and natural magnetism factor into the force. Concentration must be maintained to sustain the effect.
+
+This spell would have combat implications if damage didn’t cause it to fizzle. Could I stick an opponent’s sword to their shield? Or would it be too easy to pry off?
+
+The prerequisite of arcane magic led me to think fewer casters had access to it. The worth of Magnetize might be situational, and I couldn’t test its strength until I bought it. I might pick it up as a new spam candidate when my nature rank hits 15.
+
+Our downhill return trip was quick, and the canoe remained unmolested where we’d left it. Sitting and paddling home felt good, and we arrived at the far edge of Hawkhurst Rock after nightfall.
+
+A few late-nighters saw us on the map radar and formed a small welcoming committee bearing glow stones that reflected on the lake’s inky surface. Before we went to bed, citizens reported the camp’s goings-on in the past couple of days, and we recounted our success in the dungeon.
+
+We’d missed nothing remarkable.
+
+Hawkhurst workers finished the motte and bailey and assembled a wooden altar shortly before we arrived. The crew hadn’t technically begun quarrying rock for the town hall’s chimney, so if I wanted to change the build queue tomorrow, I could. But the dungeon run hadn’t changed our plans, so they’d begin building the town hall tomorrow.
+
+After days of traveling, I slept like a stone.
+
+The three of us enjoyed a late breakfast with Rocky and Mrs. Berling the following day. They fed us while preparing dinner for the work crew. Mrs. Berling hinted that Ally and Maggie had a surprise for us after our meal. Charitybelle guessed Maggie had finished her idol, but no one confirmed her speculation. After our meal, we sought them out in the quarry.
+
+Morale
+
+47 percent (worried)
+
+Factor Events
+
+116 percent
+
+Factor Security
+
+88 percent
+
+Factor Culture
+
+55 percent
+
+Factor Health
+
+77 percent
+
+The motte and bailey raised our security rating to 88 percent, which meant we didn’t need to inflate morale with events like parties. The improved diet filled out the dwarves to their natural weights, and baths facilitated a higher health rating.
+
+Unfortunately, morale still hovered in the worried bandwidth of the spectrum. We had no infrastructure devoted to our cultural rating, and uncertainty over the fate of the Sternways and the viability of a trade route presented long-term concerns.
+
+The new security improvements bolstered morale, thereby enabling the work crew’s efficiency rating.
+
+Efficiency
+
+95 percent
+
+Factor Core Bonus
+
+140 percent
+
+Factor Construction Skill
+
+144 percent
+
+Factor Morale
+
+47 percent (worried)
+
+Our stats looked promising. Even if we stopped improving our camp, our construction efficiency would never fall below 90 percent. Unless something awful happened, Hawkhurst had a bright future. A town hall would enhance security and culture by two and five percent, respectively, and unlock blueprints for more cultural buildings.
+
+I wondered if the battle college would give us a cultural or security bonus and how we would receive a free building. Would it fall from the sky or materialize on top of us?
+
+The robust settlement numbers made it difficult not to admire our current construction project. I periodically opened it to make sure nothing rocked our community’s outlook.
+
+Building Status
+
+Town Hall
+
+Remaining Build Time Efficiency Workers
+
+25.1 days95 percent24
+
+When I reported my optimistic efficiency projections to Charitybelle, she responded with a tight hug and a squeal. It affirmed every decision I’d made in the game. Her relief at surpassing foreseeable morale problems produced a red flush in her cheeks.
+
+I tried to make her blush even more by telling her about it. “You’re turning red.”
+
+“I don’t care. I’m just happy we weathered the storm.” She exhaled and hummed as we embraced. “I have to confess—the vargs worried me.”
+
+“Just seeing the fort should dissuade them from attacking. And with the town hall comes the free battle college. We can increase our combat skills—more advantages over enemy contestants.”
+
+Better melee skills weren’t its only boon. The secretive nature of the game’s power tree benefitted players with lofty ranks. Grinding up skills unlocked more potent abilities and spells.
+
+Preoccupation with our settlement had distracted us from the contest. After the bounty announcement, the player numbers ticked down after its initial drop. The contest interface showed eight more gamers dropping out the following morning. We’d survived a night of double-crosses and assassinations. Since we returned to Hawkhurst, the number of active players stabilized at 36.
+
+This battle royale wasn’t a beauty pageant or popularity contest. While closer to winning, the interface filled me with disquiet. Every number ticking down made me feel worse. I couldn’t see myself betraying an ally, even if it meant being homeless—at least I could live with myself.
+
+Against all odds, I had bonded into a three-player team, founded a settlement, and gained access to a private battle college that would strengthen me and my allies.
+
+It wasn’t clear whether we lagged behind other contestants or counted among the forerunners. I harbored no doubts our opponents also had secret spells and weapons.
+
+Thoughts of keeping up with the other gamers made me reconsider using the Black River Cudgel and short sword. Though decent, my weapons needed an upgrade. Going to Grayton seemed worthwhile since Fabulosa saw gnoll guards in a magic shop. While they translated this folio of mysterious parchments, I could plunk down some money for a killer weapon.

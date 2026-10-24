@@ -1,0 +1,185 @@
+Our holiday began after a late breakfast, allowing everyone to sleep in for a change. Without schedules or assignments, people gathered slowly and into pockets of soft conversation as if to save energy for the festivities.
+
+We gathered at the flagpole, and Charitybelle welcomed each citizen before making bonded promises to Hawkhurst’s welfare. Chloe presided over the ceremony at the flagpole’s top, perched on her wooden ring.
+
+After the Sternway mercenaries declared allegiance, Charitybelle and I received their guild members. We counted thirteen from Grayton and four from Fort Krek. One by one, we greeted new citizens with applause.
+
+They grew our population to 57.
+
+Congratulations!Hawkhurst is level 2.
+
+Hawkhurst has gained a level. It has received 1 settlement point. Its population is 57/500 toward level 3.
+
+For a settlement to reach level 1, it needs only five citizens. To reach level 2, it needed 50. Level 3 required a population of 500, so it might be a while before we receive another settlement point. I planned to look at options for mandates after the ceremonies. As powerful as the settlement powers were, I didn’t want to distract myself from Charitybelle’s welcome speech.
+
+Charitybelle reaffirmed Yula’s recent promotion to the camp security chief and appointed her the contact person for such concerns.
+
+Yula briefly recounted her investigation into the varg threat and explained the wolves wouldn’t return until after birthing their pups in the early summer.
+
+After we inducted everyone, we moved inside our fortification and surrounded Forren’s altar in its center. Our new citizens pledged loyalty to Forren, The Beloved Hearth Mother, and our daily favor rate increased to 56. By this point, we’d already accrued 833 favor. In a few more days, we would have earned enough favor to bestow a second levitation blessing of Hot Air.
+
+Charitybelle invited people to speak to her after the party if they had problems with bunk arrangements. Judging by expressions, many people had issues. Others seemed mollified by the accommodations, so we moved to the town hall.
+
+The five-day-old structure had lost its novelty, so Charitybelle christened it without pomp. She informed everyone about the tier 2 buildings it unlocked and, predictably, drew polite but tepid applause. Her reception would have been louder if the blueprint list included a brewery, but it still gave improvements.
+
+Charitybelle ended the ceremony with a bang. “And now, for the moment that the Lieutenant Governor has been waiting for—it’s time to erect our battle college! Take it away, Apache.”
+
+Selecting the battle college in the building queue produced a circular foundation-sized targeting reticule. The sudden appearance of the transparent ring made everyone gasp. I slid it across the terrain, testing positions and rotations. Whenever I slid over someone or something, the reticule turned red to indicate an invalid location. It turned green when I settled it next to the motte and bailey.
+
+Create Building
+
+Battle College (tier 2)
+
+Description
+
+Military StructureTrains students to rank 30 in combat skills.
+
+Details
+
+Structural Points 1000Location -0.5, -12.8
+
+Materials
+
+None
+
+Build Estimate
+
+Instant
+
+Core Bonus—Rare (yellow)
+
+Boss Monster Bonus Clever
+
+The settlement flag taught me the value of investing cores into building recipes, and this unique building deserved a little boost. I planned to make the most of the battle college. A training ground would bolster our position in The Great RPG Contest.
+
+Iris mentioned she knew of similar training facilities in the capital cities of Grayton, Arlington, and Malibar. But these sites attracted other contestants, and none of us wanted to deal with campers seeking an easy ambush. Since Hawkhurst’s battle college would serve as a private facility, we use it however we please and call it The Final Three Battle College.
+
+With our need for utility buildings so great, it never seemed appropriate to train citizens in weaponry when we could fare better behind a motte and bailey. Training folks didn’t seem justified, no matter how much I wanted to mold these dwarves into fighting shape.
+
+Having a battle college tipped the scales, and I harkened back to my days in Belden when I assisted military academy instructors in training cadets. I could do the same in Hakwhurst. Instead of being the governor’s boyfriend, I’d enjoy a modicum of authority as the regional drill instructor.
+
+Despite its headaches, Hawkhurst offered a strategic windfall in the contest. We could safely achieve ranks in combat skills in the proximity of the wilderness, where loot and experience awaited. It gave us religious and settlement powers like Hot Air and Aggression, and who could guess what unique powers they unlocked?
+
+Everyone moved en masse to the battle college site. Since they looked bored and eager to return to the town hall feast, I briskly moved things along.
+
+I cleared my voice and spoke up. “Um, I’m not good at making promises or anything, but all citizens will have access to—”
+
+Yula held up a finger. “Must train at—”
+
+I corrected myself. “All citizens must train at our new facilities.” I looked to our new commander for approval.
+
+Yula gave a nod.
+
+I gestured to the vacant lot where I’d placed the targeting reticule for the “Create Building” interface.
+
+After Charitybelle and I accepted the window parameters, invisible trumpets above our heads played a celebratory fanfare, and sparkles and ribbons swooshed over the empty lot. A mass of blocks, timber, and bricks fell from the heavens. My feet and legs tickled from tremors as the construction material poured into the footprint. Within seconds, the event ended. A cloud of dust dissipated, revealing an arena gleaming with green canvas and heavy timbers of dark lacquered wood.
+
+A feat in architecture stood before us—a spiraling sculpture of a building. Awnings of green canvas provided shade, and buttressing supported its walls. Bleachers for hundreds ringed the enclosure. A corona of archery ranges, target dummies, matted side rooms, and exercise equipment ringed the central arena beneath the stands.
+
+When the bloom of dust settled, everyone hurried into the structure to investigate its interior like children stampeding into an opening amusement park.
+
+I flowed with the crowd to the arena floor.
+
+A man wearing tight black spandex and a billowing shirt welcomed us. When he bowed, his unbuttoned shirt revealed a carpet of chest hair. He sported a debonair mustache, manicured for a lead romantic role in a silent movie. He looked dashing and affable and squinted when he smiled.
+
+Fabulosa whispered to herself in a husky voice. “Well, hello there.”
+
+Name
+
+Dino, Master Trainer
+
+Level
+
+30
+
+Difficulty
+
+Unkillable (white)
+
+Health
+
+none
+
+Dino’s unadorned nameplate looked unlike anything I’d seen before, showing no worldly concern for trivialities like health.
+
+“Salutations, one and all! Welcome to Dino Marcello de Piane’s Battle College. I am he, Maestro Dino, after whom the università della battaglia is named.”
+
+I placed my hands on my hips. Nobody named the battle college after him, and I checked my map interface to be sure. Decoding his syntax puzzled me, so perhaps I’d misheard him. I offered my hand. “Hi, Dino. My name is Apache, and I’m the lieutenant governor. Welcome to our town.” I stressed the end of the sentence to emphasize who ran the show around here.
+
+Dino gazed at my outstretched hand as if I offered him dead fish. He lightly grasped two of my fingers, shook them, and withdrew his hand. “A lieutenant governor, eh? I’m quite pleased to have your support and intend to work wonders with the soldiers serving you. But I cannot offer boxed seats for distinguished officials wishing to observe.”
+
+“Oh, I’m no bureaucrat. I’m pretty handy with weapons myself. I plan to be very hands-on with the training.”
+
+Dino laughed with a closed mouth. “But of course you are.” He turned without excusing himself and answered a question about dwarven weapons.
+
+My mouth dropped open. Was this guy serious? No one likes politicians, but it had been a long time since someone rejected me to my face. I backed away and looked at Fabulosa to see if she, too, found his behavior insulting.
+
+Fabulosa only stared at him.
+
+I tried to get her attention. “Can you believe this guy? And why is he wearing tights?”
+
+Fabulosa snorted under her breath. “If I had a tushy like that, I’d wear tights.”
+
+Charitybelle said nothing but watched him with rapt attention.
+
+Dino raised his voice over the hum of bystanders. “Please, Mesdames et Messieurs, peruse my amenities and equipage. I will humbly answer any question concerning my curriculum.” He extended his sinuous arms, pirouetted, and bowed once more.
+
+Fabulosa turned to Charitybelle with an arched eyebrow. “I call dibs!” She pushed forward from the crowd to grab his ear.
+
+The battle college came from the red core’s boon I installed during the settlement’s creation. It came from my core. I turned to Charitybelle. “What does he mean by his facilities? And is he supposed to be French or Italian?”
+
+Charitybelle chased after Fabulosa. “Oh, I don’t know. He’s continental.”
+
+“And what do you know about being continental?”
+
+Charitybelle ignored me. This guy already irritated me. Where had he come from? Was he some NPC bot that came with the building?
+
+Dino postured for onlookers, holding a shield and waving his free arm in an exaggerated display of balance.
+
+Yula stood straight with arms crossed. She remained one of the few who hadn’t rushed forward to greet the trainer.
+
+I went to her. “Can you believe this guy?”
+
+Yula tongued her canines. “Not bad for human, but ees too fancy. Talks like flowers.” The orc left the arena unimpressed, and I could have kissed her for it. At least our stoic huntress hadn’t melted under his spell.
+
+Games weren’t supposed to be like this. Players played the star roles—not NPCs. After all the obstacles we’d overcome to hold this town together, how had this guy become a celebrity?
+
+I tuned out the adulation and admired the equipment hanging on the walls. The walls offered wooden versions of every kind of blade I’ve seen. I lifted the giant wooden machete over my head, and its hefty weight surprised me. I’d heard about falchions in Belden. Some claimed they cut through wood easier than an ax.
+
+“Tsk-tsk-tsk-tsk!” A tutting sound from across the room came from Dino, and he waved a finger at me. “Pursuit of the complex is better left to the complex, no? I think a simpler instrument suits you.” Dino gestured to a club hanging from a hook by a leather cord. Bark still clung to the log, though he air-caressed his fingertips over it like a fine work of art.
+
+“A club?”
+
+“Oh! No-no-no-no-no! The bambino mistakes the perfectly weighted baton for a stick.”
+
+I knew that Bambino meant baby, and Dino had just called me one. Was he picking a fight? I wasn’t sure it would be wise to challenge him on his turf. No, we planned for a celebration. This wasn’t the time to prove anything.
+
+Besides, what did I need to prove to him? My accomplishments were many. In addition to being a respectable scholar, the regional world boss fell because of me. I restored the name of the pontifex and killed a sap golem. I’ve seen plenty of action. I had nothing to prove to him or anyone here.
+
+Unperturbed, Dino addressed the crowd ringing around us. “This baton is reminiscent of the Torzda randellos. Note how the white birch mingles with the stouty cherrywood grip. It matches the perfection of the double-weighted, thrice-folded bludgeoners of the late century.” While he delivered his drivel, Dino’s waxed eyebrows stretched and contracted like worms crossing the sidewalk after a hard rain—at least, that’s how I imagined them before I mentally crushed them underfoot.
+
+His snobby, patronizing expressions triggered my working-class roots. “It’s just a club, you pedantic jackass!”
+
+Some in the surrounding crowd gasped, and everyone froze.
+
+Dino’s expression formed a mask of amused understanding as sharing a private joke with his new entourage.
+
+I scanned the audience for any allies and found none. That’s when I saw Charitybelle, arms crossed, pursing her lips in disapproval.
+
+I’d ruined the party.
+
+Dino pointed upward as if to signal a profound statement. “As you can see, Maestro Dino Marcello de Piane’s Battle College caters to pupils of every skill level. And my patience knows no end. I can nurture even the seedling to a tree.”
+
+Onlookers nodded in appreciation.
+
+It became clear I wouldn’t win points with this intruder or his fawning retinue. I put the falchion back and stalked out of the arena. I needed a drink and returned to the town hall by myself.
+
+While downing my third pint, I grounded myself by talking to Rocky as he arranged the plates, bowls, and utensils.
+
+Rocky preoccupied himself with preparing the food, but I didn’t mind. I wanted the company of someone who wasn’t obsessed over our new trainer.
+
+As people milled into the town hall, I kept an eye open for Charitybelle and Fabulosa, but neither joined the hungry and thirsty villagers.
+
+It wasn’t Dino de la so-and-so’s battle college—neither the building nor the interface map bore his name. He just showed up uninvited. If anything, the game offered irrefutable evidence against his claims of ownership, and I prepared arguments to make this case.
+
+And to think I’d given up a castle golem for this.

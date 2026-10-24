@@ -1,0 +1,139 @@
+I started combat by Slipstreaming to its flank so Iris and I could engage the sap golem. The maneuver required taking a risk since I’d have to wait five minutes to use the spell again. We couldn’t fight a creature with over 2,000 health without crit bonuses for flanking attacks.
+
+Fighting in a single file meant someone in the back might hit it with a spear or halberd over Iris’ shoulder, but the monster wasn’t tall enough. The creature’s squat profile made the encounter challenging.
+
+Several things happened at once after combat began, and my combat log helped me parse the events into digestible bits of information.
+
+/Fabulosa hits Sap Golem for 0 damage (24 resisted)./Sap Golem is immune to piercing damage. /Fletcher misses Sap Golem. /Charitybelle hits Sap Golem with Scorch for 8 damage (14 resisted)./You hit Sap Golem with Charge for 44 damage (2 resisted). /You are sticky./Iris hits Sap Golem with Charge for 22 damage (36 resisted)./Iris is sticky./Sap Golem is immune to slashing damage. /Sap Golem regenerates 10 health. /Sap Golem hits you for 28 damage (6 resisted). /Sap Golem hits Iris for 31 damage (4 resisted).
+
+Since we magically imbued our attacks, we caused some damage, but inflicting less than 5 percent of the creature’s health counted for a terrible opener. Fabulosa’s arrow harmlessly impaled it. Bludgeoning proved to be the only effective weapon type, but wet sap particles splattered me whenever I struck. Not only did I receive a 1-point agility debuff for being Sticky, but pulling the mace from its gooey skin slowed my attacks.
+
+The creature’s health fell when the pine needles sticking to it burned, but it stopped taking fire damage after the kindling burned away. Messages about Charitybelle’s Scorch doing minimal damage spelled our doom, and reports of regeneration added the cherry on top. It all but eliminated the possibility of winning a sustained battle.
+
+Even though Iris switched to a mace, our subsequent output grew worse. Our Charge maneuvers fell on cooldown, so Iris and I only caused 42 total, and Scorches from Fabulosa and Fletcher did nothing as we’d already burned off the pine needles. We collectively gave as much damage as we took, but the monster’s 10-point regeneration spelled out we’d lose any damage-output race.
+
+To compound matters, the gummy bear had no face. Iris and I weren’t getting critical hit bonuses for rear attacks. The arc weaver’s champion meted out damage in both directions with equal aplomb.
+
+The golem extended its body, attempting to grapple Iris with a maneuver called Smothering Hug. I didn’t know what Smothering Hugs entailed, but I assumed it prevented escape mechanics.
+
+Iris wisely avoided it by triggering Anticipate. The ability positioned her a few steps away from the creature, letting her quickly resume melee.
+
+Half a minute later, the golem tried another Smothering Hug by extending its body.
+
+Iris recognized the tell and backed away, foiling the creature’s attempt.
+
+Half a minute later, it tried the same ploy on me, but I’d grown wise to its ways. The clock in my user interface made this exceptionally easy to avoid. Every 30 seconds, I yelled a warning, and we both backed off.
+
+Our limited options complicated the battle. Charitybelle switched to using a sling, a weapon she’d only practiced in Belden’s military academy. Her ranged bludgeoning attacks inflicted as much as Fabulosa’s Ice Bolts, which proved to be the most effective spell. The gelatinous creature showed vulnerability to cold, but one spell wouldn’t sway the fight in our favor. Who would have thought we needed cold spells to clear a nest of undead?
+
+Fabulosa’s continuous casting had almost emptied her mana, so she’d consumed a minor mana potion.
+
+After a few minutes of fighting, Iris and I climbed to full health while the sap golem had lost a quarter of its life. The only problem involved our depleting mana reserves. We’d empty our reserves long before the monster expired.
+
+Conditions got worse in the melee frontline. The accumulated Sticky debuffs from the splatters of sap weighed down our weapons and armor. Sap build-up caused my arms to stick to my sides, and I needed to keep my legs far apart to prevent my knees from sticking together. The aggregate weight of the sap caused me to lurch backward when I swung, and I couldn’t connect with full force when I struck. Even though Slipstream had refreshed, falling from this height removed me from combat, and I couldn’t quickly rejoin bogged down with so much sap.
+
+With our slowed melee attacks, the golem’s health pool crept back to 80 percent. Iris had the same Sticky problem with the accumulated splatter. Ribbons of Rejuvenates kept us at full health, but doing so depleted everyone’s mana.
+
+This wasn’t working.
+
+Keeping my balance forced me to be more cautious with my attacks. I tried a careful but forceful wide swing to see if I could increase my damage. When I raised my mace, it pulled off a few dead pine needles from an overhanging branch, making the weapon look like a lollypop pulled from a shaggy carpet.
+
+My mace, fuzzy with pine needles, gave me an idea. I shouted over the exertions of combat. “Fab, can you cast Fireball?”
+
+Fabulosa furrowed her brow as if I’d asked her something absurd. She squinted and shook her head. “Not without hitting you and Iris. You’re in melee!”
+
+“But do you have enough mana for a Fireball?”
+
+She shook her head. “Almost. I have 28 mana. But fire doesn’t damage it anymore. Why?”
+
+“Stop casting Ice Bolts. Save mana for Fireball. I’m going to try something. When I give you a thumbs up, I want you to climb down as fast as possible, okay?”
+
+“You want me to climb all the way down?”
+
+I pointed to the tree trunk behind her. “No. Just climb down close enough to see the ground.”
+
+After twenty seconds, Fabulosa made an announcement. “Okay. I’ve got enough mana now.” She scanned the limbs of the evergreen canopy below and gave a thumbs-up gesture after finding a viable climbing route.
+
+A person could always count on Fabulosa to be a game-day player. She didn’t hesitate or waste time with questions and debates. If someone had a plan, she jumped on the bandwagon first.
+
+After putting away my Black River Cudgel, I backed away from the battle. I rubbed myself against the overhanging branches, covering myself with so many pine needles I resembled an evergreen wolfman from head to toe.
+
+Iris kept the monster occupied while I donned my new costume.
+
+I told her to back off as I returned to melee range unarmed. The next time the sap golem extended itself, I gave myself over to its embrace.
+
+/Sap Golem hits you with Smothering Hug./You are asphyxiated./You are blinded./You are grappled./You are silenced.
+
+The creature’s droopy feet let go of their hold of the tree limb as it wrapped itself around me. I felt the warmth from its body on my skin. Its head wrapped around my face, obscuring my vision of the environment, leaving only interface elements like buffs and debuffs visible. An Asphyxiation progress bar showed me how much life I had left.
+
+Activating my Slipstream interface allowed me to observe events. I pointed to Fabulosa, then downward, to show that she should start climbing as fast as possible. The Smothering Hug prevented me from breathing, so I hoped she realized the clock was ticking. I couldn’t carry this thing for long.
+
+And wouldn’t you know it? That madwoman leaped from our perch into the canopy below.
+
+I tried to yell, but the hot gum covering my mouth muted the sound.
+
+Fabulosa landed without Featherfall or safety net mechanics, bouncing up and down on an evergreen branch below. She scrambled again and dropped to the canopy layer beneath her, beyond my line of sight.
+
+I hadn’t expected her to beat me down there. My fingers offered the only means of communication. After straightening my back to lift my burden, I touched my forefingers to my thumbs to form a circle. The universal signal assured my allies that I was okay.
+
+Carrying the golem, I turned sideways and released my burden. My suit of pine needles allowed me to break free of the creature’s grasp and rid myself of Smothering Hug’s debuffs.
+
+Unfortunately, my center of gravity shifted enough to throw me off balance. Arms flailing, I pitched backward and plummeted. I triggered my Slipstream interface and chose a safe tree limb in the lowermost canopy beside Fabulosa. The branch looked sturdy, but she’d landed hard, losing 60 percent of her health.
+
+Slipstream wouldn’t work while Grappled, but that wasn’t a problem. My wolfman costume peeled off quicker than a wet Band-Aid. I swooshed safely next to Fabulosa, landing without a hint of inertia. I didn’t even shake the branch.
+
+The same couldn’t be said for the sap golem—which landed on the ground like a garbage bag full of orange marmalade. It splashed across the carpet of pine needles.
+
+I startled Fabulosa when I Slipstreamed beside her, and her hands tightened and relaxed.
+
+Fabulosa elbowed me. “Nice kill, slick.”
+
+“Thanks, but…”
+
+“Wait, a sec. I should have leveled. I didn’t get experience, did you?”
+
+“Not yet. Look. It’s still alive.” I pointed at the ground.
+
+Though the blob splattered across the ground, it recovered like a reverse slow-motion movie of a water balloon. It contracted and pulled itself together with a remarkable poise. The golem had lost only half of its health—the fall had barely caused as much damage as our entire combat.
+
+It pulled itself together, growing to more than double its size in pine needles, looking like a walking haystack.
+
+“You’re on, kiddo.”
+
+“Let’s see you regenerate from this.” Fabulosa cast Fireball onto the sap golem, and it exploded in a column of fire so great it reached the canopy above us.
+
+Covered in sap, I couldn’t feel the heat, but it distorted the air and blew Fabulosa’s hair around. Spy weavers winked in and out of existence around us, and puffs of blue vapors extinguished the flames in the trees. They ignored the plight of the golem below. Saving sap golems from immolation fell outside their mission.
+
+Congratulations!You are level 18
+
+You have gained a level. You have increased your stamina by 1, strength by 1, and agility by 1. You have received 1 power point. You have 2,072/2,200 experience points toward level 19.
+
+Fabulosa and I looked at each other. “Ding!”
+
+The blue smoke from the spy weavers cleared.
+
+“When the spy weavers didn’t help the golem after C-Belle Scorched it, I figured it was worth a try.”
+
+Fabulosa nodded. “By the way, I’m in pain.”
+
+“Oh, sorry.” I cast Restore and Rejuvenate on Fabulosa to heal most of her damage. “And thanks for taking the express train down. I didn’t think the Asphyxiation effect would happen so quickly.”
+
+“And we didn’t waste points on Featherfall.” While we performed a Rest and Mend, Fabulosa gave me a fist bump, reminiscent of our hunting days in Belden.
+
+As we climbed back up, I accumulated a layer of bark. I felt like a sticky mess, but when we rejoined the others, their whoops and cheers made it tolerable.
+
+Charitybelle’s eyes widened to ping-pong balls. “We could see the fire from up here. Very impressive! The number of contestants hadn’t changed, so I knew you guys were okay.”
+
+Fletcher whistled. “You should have seen our eight-legged friend. It spat and hissed up a tempest. I’ve never seen a monster so angry.”
+
+Charitybelle didn’t appear afraid of spiders anymore. She shook her hammer. “Well, that’s too bad. Because we’re going to squash it.”
+
+Iris, who had leveled to 15 after the sap golem’s death, had already found access to the spider’s perch. Her tree limb reached the spire 20 yards away. A short climb up the metal tube would put us in melee with the arc weaver.
+
+The spider watched us from its perch. Any time it wanted to, it could scurry down the shaft leading to its underground lair, but it held its ground.
+
+The only way we could reach it involved leaving the branch’s safety and climbing the metal shaft—an approach that appealed to no one.
+
+Tree sap covered Iris’s legs and weapons, although the tar-and-feather treatment I’d received eclipsed her condition. I tested the weight of my arms and raised them. “I don’t know if I can fight anymore.”
+
+Fabulosa reached to pat my shoulder, thought better of it, recoiling. “That’s okay. We’ll sideline you for the next part. I hope you haven’t ruined your ugly robe.”

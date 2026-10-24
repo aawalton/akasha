@@ -1,0 +1,295 @@
+When Fabulosa, Charitybelle, and I arrived at the quarry, Ally waved us over. Seagulls looked for food droppings while the quarry workers toiled. We caught Ally up on our adventures in the lizardfolk dungeon while the quarry workers labored and seagulls stood sentry.
+
+After we finished our tale, Ally relaxed, unsurprised by any of it. “It sounds like ye stumbled into a lizard ruin. Lizzes inhabited Miros in ancient times—earlier than dwarvenkind. Their ilk is long gone, but we pick through their ruins now and again—but we know scant about ’em. When humans settled on the northern shores, they blundered into a bunch of their ruins. Some say they’re kin to the lizards in the swamps beyond Otter Lake. Others say they’re related to the dinos.”
+
+She couldn’t explain why or how the lizards came to revere the aquatic species who built the ward worm’s lair. When I described the murals, Ally only shrugged. Stumbling across two references to this unheard-of culture seemed to be a regional coincidence. If we could translate the gnoll’s writing, it might lead to other dungeons nearby.
+
+Behind her, raised voices caused a commotion. From a distance, it seemed to be a dispute about quarrying stone. Two quarry workers gesticulated at a block they’d been cutting with a long wire.
+
+Maggie called to them in a chiding tone. “Quit yer flapping, or I’ll put Murdina in your stead. Ye can count sheep all day!”
+
+When the confrontation ended, Ally waved Maggie over.
+
+Maggie thumbed toward the workers. “A typical morn. The blue granite will be our yoke o’ death. Any sightings of fresh stone?”
+
+I shook my head. “Nothing closer than a day’s journey.”
+
+Maggie and Ally nodded in resignation.
+
+I changed the subject. “What about gnolls? Fab says we might find gnolls in Grayton to translate a journal we found in the dungeon.”
+
+Ally shook her head. “I dunno about gnolls beyond avoiding them. Sleekit bastarts will bully ya down to the marrow if ye let them. I hope ye find another way to translate yer book.”
+
+It became my turn to look discouraged.
+
+Maggie waved away my question. “Bah. ‘Tis best not to bother the flea-bitten canines. I’ve got something ye might like.” She beckoned us to follow her to the motte and bailey.
+
+We left the quarry and followed the dwarves to the center of the fort.
+
+As we walked, Fabulosa scanned the tree line, likely looking for excuses to ditch the camp and join Yula on patrol.
+
+Perched atop the mound’s center stood an altar and idol waiting for activation—Forren.
+
+Maggie carved the idol in smooth geometric shapes. It resembled a symbolic feminine more than anything realistic. The austere form featured no ornamentation, looking more like an abstract sculpture than dwarven artistry. Its rough surface felt in keeping with Hawkhurst Rock’s stubborn nature.
+
+Building
+
+Altar (tier 1)
+
+Description
+
+Cultural Structure+2 percent cultureActivates idol and generates 1 favor point per follower per day.
+
+Details
+
+Structural Points 50Location -0.8, -12.9
+
+Core Bonus
+
+None
+
+We still hadn’t any details about the deity. The only building information about the altar mentioned a 2 percent boost to culture and that it generated something called favor points.
+
+Ally placed her hand on the altar. “Maggie finished her idol.”
+
+Charitybelle clapped her hands. “Yay! Now, what happens?”
+
+“We can see Forren’s blessings. Idols need altars to attract a deity’s favor. Settlements begin with one deity slot, though some deities allow for another—but the Hearth Mother isn’t one of ‘em.”
+
+Maggie’s gaze darted between us, eager to see what her idol could do. “Even for a master mason, I had a pure tough time on her. She’s solid, that Hawkhurst Rock.”
+
+Charitybelle rubbed her hands together. “Everyone except Yula said they would become followers, so let’s see what Forren can do.”
+
+We all placed our hands on the altar. My settlement interface had a new tab for religion.
+
+I focused on the interface element that read, “Favor—zero.” The interface described favor as a currency religious elders could spend to rush construction projects, generate common resources, or bless followers. Each expenditure had different costs and conditions.
+
+The idol produced a game prompt.
+
+Deity
+
+Forren, Beloved Hearth Mother
+
+Description
+
+Forren is the fertility deity of the Rosestone Clan.
+
+Domains
+
+Fertility, Hearths
+
+Idol Blessing
+
+Increases settlement fertility. Free fireplace in settlement buildings.
+
+Altar Blessing
+
+Unlocks blessing Hot Air
+
+Shrine Blessing
+
+Unlocks blessing Glowing Coals
+
+Temple Blessing
+
+Unlocks blessing Holy Smoke
+
+Sanctuary Blessing
+
+Unlocks blessing Ashes-Ashes
+
+A free fireplace would shave our town hall’s building time by a few days. It made building a second roundhouse easier and avoided quarry delays. Charitybelle hadn’t accepted the installation of the idol, so we could still reject it if it wasn’t right.
+
+Charitybelle turned to Ally. “If Forren can help with fertility, does that apply to crops and livestock?”
+
+“Aye, lass. It does.”
+
+“I hope it applies to flowers, too. We should buy some flowers the next time someone goes to town. Our camp could use a little cheer, don’t you think?”
+
+I hugged her. “That’s a good idea. A little color might improve the camp’s morale.” I turned to Ally. “Does the fertility rate apply to people too? Does that mean more pregnancies, and do children grow up fast?”
+
+“Fertility is voluntary, but Forren will give a fleet pregnancy and safer births for mums and wee-uns alike.”
+
+Charitybelle’s eyes sparkled at the mention of dwarf children running around. Her nurturing side made for excellent leadership. Being connected to and involved with everyone in our little community wasn’t in my DNA.
+
+As far as I could tell, it wasn’t in Fabulosa’s character either. She seemed to be a different type of leader—the kind who’d led troops into battle.
+
+The free fireplace seemed like a decent perk, but my socks were still on. However, I reserved my judgment until I understood how the rest of the favor system worked.
+
+I focused on the altar’s blessings.
+
+Power (blessing)
+
+Hot Air (tier 1)
+
+Prerequisites
+
+Altar, follower of Forren, receive blessing from elder.Elder must spend 1,000 favor for every other blessed follower of Forren.
+
+Cooldown
+
+Once per day
+
+Cast time
+
+1 second
+
+Description
+
+Blessed follower may vertically raise or lower themselves for 10 seconds for every blessed follower of Forren.
+
+The blessing’s complexities required a bit of parsing. While anyone could become a follower, one of Forren’s elders needed to anoint someone with a blessing to become a blessed follower. The cost of giving a blessing increased every time we gave this power to another follower. And yet, for every blessed follower, the Hot Air’s duration lasted longer.
+
+Without blessed followers and a multiplicative cost, we needed no favor to give the first Hot Air. Since it counted as a blessing and not a spell, it didn’t require mana to invoke.
+
+To give this blessing to a second follower, we need 1000 favor points, which Hawkhurst could generate within a month, assuming everyone in the camp joined the Forren faith. A third blessed follower required twice as much.
+
+This favor system gave incentives to grow the congregation.
+
+Unlike other powers, the game revealed all tiers of religious bonuses, probably because of its limited options. Each tier had only one blessing, and if pilgrims didn’t like them, they needed to follow another deity. The interface allowed us to unfollow Forren at any time, and the only penalty for apostasy involved losing her blessings. It made religions low-risk investments.
+
+I concentrated on the second blessing.
+
+Power (blessing)
+
+Glowing Coals (tier 2)
+
+Prerequisites
+
+Altar, follower of Forren, receive blessing from elder.Elder must spend 1,000 favor for every other blessed follower of Forren.
+
+Cooldown
+
+Once per day
+
+Cast time
+
+5 seconds
+
+Description
+
+Within 30 yards, blessed follower creates a 5-foot radius of hot coals lasting for 1 hour. Must be within settlement boundaries to invoke.
+
+A damage-dealing blessing? I liked Forren already. This hearth momma has some sass.
+
+If enemies rolled into our neighborhood with a battering ram, they’d better be ready for a little hotfoot. My frugal side noticed we’d want to give Glowing Coals to the same follower with Hot Air to keep the favor cost multiplier down. The description limited its effect to our settlement, so Glowing Coals acted purely as a defensive measure.
+
+I looked at the next blessing.
+
+Power (blessing)
+
+Holy Smoke (tier 3)
+
+Prerequisites
+
+Altar, follower of Forren, receive blessing from elder.Elder must spend 1,000 favor for every other blessed follower of Forren.
+
+Cooldown
+
+Once per day
+
+Cast time
+
+5 seconds
+
+Description
+
+Blessed follower may assume the form of smoke at will, materializing on altar 1 minute later. Must be within settlement boundaries to invoke.
+
+Holy Smoke felt like a game-changer. We could become gaseous at will, like a town full of vampires. Would vaporizing release me from combat so I could perform a quick Rest and Mend? Perhaps I would materialize with my health and mana intact. I wished the description had given more information.
+
+I almost didn’t want to read the last blessing because of its expensive building requirements. A sanctuary seemed like a high-level cathedral that would take years to construct, and I didn’t want it to be worth the trouble of growing Hawkhurst into a big city.
+
+I inspected Forren’s last blessing, Ashes-Ashes.
+
+Power (blessing)
+
+Ashes-Ashes (tier 4)
+
+Prerequisites
+
+Altar, follower of Forren, receive blessing from elder.Elder must spend 1,000 favor for every other blessed follower of Forren.
+
+Cooldown
+
+Once
+
+Cast time
+
+10 minutes
+
+Description
+
+Blessed follower turns every item and creature within settlement boundaries into ash. Must be within settlement boundaries to invoke.
+
+I read this twice and still didn’t like it. Nuking a city doesn’t belong in a fantasy game.
+
+Forren had more sass than I expected. I couldn’t reconcile this with a Beloved Hearth Mother. Wiping the slate clean might be nature’s way of starting over, but I didn’t much care for it.
+
+I couldn’t think of anything about Ashes-Ashes that I liked. Even its name referred to the creepy, medieval children’s rhyme, “Ashes-ashes, we all fall down,” a phrase commemorating the Black Death. Crimson developers played a sick joke by slipping the tribute into our universe. Seeing their fingerprints in the Miros universe broke the spell of immersion, and I wished they would stop inserting them.
+
+Ashes-Ashes wouldn’t destroy idols, altars, or buildings—we could thank the Hearth Mother for that much, but I hesitated to follow a deity like this. But would it be an issue? Sanctuaries seemed too expensive to build, and if we never allocated this power, we wouldn’t need to worry about it.
+
+Charitybelle looked as sour as I felt.
+
+I closed my interface. “What do you think?”
+
+Charitybelle crossed her arms. “I don’t like the last blessing. Did you read that? Even the person invoking the blessing turns to ash. That’s really grim.”
+
+I put my arms around Charitybelle. “I can’t think of any reason someone would do that, C-Belle. We won’t give that power to anyone. And I’m sure we won’t turn Hawkhurst to ashes ourselves. I mean, why would we?”
+
+Aside from Ashes-Ashes, everything about Forren harmonized with the settlement’s prosperity. Since my girlfriend was unable to procreate, nurturing a settlement served her desire to grow something beautiful. If doing so gave her a sense of purpose, I wanted to support her. It made me feel good.
+
+And it seemed natural that her patron deity fostered fertility. I liked Forren.
+
+Ally mentioned that the tier-five settlement had 50,000 citizens. If our adventure in Miros lasted a lifetime, I envisioned a gray-haired Charitybelle guiding Hawkhurst to a prosperous size, rivaling even the continent’s capital cities. And if foreign powers had a problem with it, I wouldn’t mind fighting side by side to defend it. Its citizens certainly welcomed me more than any had on Earth.
+
+Fabulosa didn’t look convinced or impressed by the blessings. She crossed her arms throughout the conversation and offered no opinions.
+
+Charitybelle turned to Ally. “I’m not sure about that last blessing.”
+
+Ally wrung her hands. “Oh dear, let me explain. Most blessings are defensive and tend to avoid vexing other deities. Otherwise, any manky minger could spark a holy war. Ashes-Ashes is a deity protecting herself.”
+
+I turned to Ally. “I imagine blessings go away if someone takes the idol.”
+
+Ally nodded her head. “And it curses the town.”
+
+Following Forren benefited us in the short and long run.
+
+Charitybelle looked up at me.
+
+I nodded. “Let’s do it.”
+
+Charitybelle let Ally and Maggie Hornbuster do the honors of activating the idol.
+
+Charitybelle fingered her chin while considering something. “My religion interface says I’m an elder of Forren, which lets me assign blessings.”
+
+The religion interface also promoted me to the same status. “Would you look at that? I’m an elder, too. It must have turned all the settlement’s founders into elders.”
+
+Charitybelle searched Fabulosa’s expression, trying to include her in the proceedings. “Given that it’s a fertility idol, it’ll be girls before boys. Fab, you wanna be the first to have Hot Air?”
+
+Fabulosa put up her hands. “No, thank you. I don’t want to be a floating target. I’d rather stay off Forren’s mailing list if you don’t mind.”
+
+Charitybelle wrinkled her nose. “My UI says you’re not flagged as a follower.”
+
+“Sweetie, I’m a southern girl. I’m with Yula on this. There’s no way I’m worshiping idols, not even in a game. That’s just too weird.”
+
+“I think you have it all wrong, Fab. There are no ceremonies, oaths, or rules.” Charitybelle looked to Ally for confirmation, who nodded her head.
+
+I sighed. “It’s just a little tribalism, like rooting for the local football mascot.”
+
+“You reckon me for the cheerleader type?”
+
+Fabulosa’s disapproval cracked me up. I mimed someone shaking pom-poms. “I could totally see you as a cheerleader.” Teasing her wasn’t helping our argument, but it was too fun to pass up.
+
+She arched an eyebrow. “I bet you could. And I can picture you dressed up like Snow White.”
+
+Fabulosa hadn’t forgotten that nickname. I stopped my pom-pom act—I knew when to tap out.
+
+Fabulosa placed her hand on my girlfriend’s shoulder. “C-Belle, I love your little village, but this ain’t my thing. Okay?”
+
+Charitybelle sighed and looked at me. “Hmm. Yula doesn’t want it. Fab doesn’t want it. I guess it’s boys before girls, after all, Patch. You’re our next best warrior.”
+
+I laughed. “Hey! What do you mean the next best warrior?”
+
+Fabulosa looked upward, pretending to think. “I reckon he’s in the top ten.”

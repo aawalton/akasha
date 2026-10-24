@@ -1,0 +1,189 @@
+I recognized the structure of the glowing lines from my ability, Inscribe Rune. Three glowing ellipses surrounded by two circles bore similarities to the protection and summoning circles in the lizardfolk dungeon. I traced the shapes and studied them. “These ellipses insulate magical effects from activation energy directed by these lines. They contain something, but I don’t know what.”
+
+Charitybelle listened as I pointed out the functionality of the arcs and circles. “What effect is it delivering?”
+
+“I don’t know. It doesn’t have any magic symbols. It’s like punctuation without words. I don’t know what’s supposed to be inside, but at least we know there’s an invisible sentence here. And these two circles probably define spaces or locations. But without coordinates or parameters, it could be anywhere.”
+
+Fabulosa, impressed by my erudition, narrowed her eyes. “Okay, skills-monkey. That’s pretty cool, but what does it all mean? How do we get through a Wall of Force?” She tapped on the transparent pane for emphasis.
+
+“I have no idea.”
+
+Charitybelle kneeled next to the window and ran her finger along the curves. “I don’t see anything with Detect Magic. Can you write whatever we need inside these circles? Maybe it’s a fill-in-the-blanks situation.”
+
+I snorted. “I couldn’t begin to guess what to write. It’s like code or C-Belle’s blueprints—if I write one incorrect glyph, it won’t imbue the rune with magic. Besides, I don’t see any blank spaces. It doesn’t seem to be asking for an input.”
+
+Charitybelle nodded.
+
+I talked to no one in particular as I worked through the problem. “Mineral Communion didn’t reveal anything. Detect Magic doesn’t make words appear—nor does Magnetize. Nor does Detect Stealth.”
+
+We pondered the problem. Fabulosa removed the spear from its socket and reinserted it from the other end, but the result of her fiddling toggled the glowing lines on and off.
+
+The golem stood motionless.
+
+Lines weren’t enough information to reveal a rune’s functionality.
+
+“What about the shield?” Charitybelle turned to me.
+
+“I already looked it over. I hoped to see some writing on its flat, dull surface, but it’s inert. It’s not even valuable. It’s an alloy that barely has a magnetic field.”
+
+Charitybelle thumbed the points of its spikes. “It’s a given that we’re missing something here. And we can’t explain these spikes. Maybe they socket into something like the spear.” She pressed its tips against the window, searching for holes or scratches that lined up with the spikes.
+
+I studied its magnetic field with the Magnetize interface enabled—but saw nothing unusual.
+
+Fabulosa huffed. “That golem was strong but downright terrible in combat. It didn’t even use the spear correctly. And those spikes make no sense. Why bother with them? And why give a shield to a creature made of stone?”
+
+Both of them touched on something that made little sense. The useless shield might have utility, something the lizardfolk used to deactivate the Wall of Force. Why did the shield have spikes on its edges?
+
+Charitybelle walked around the room with the shield, looking to align the spikes with bricks, holes, and hieroglyphs. They didn’t match up with anything.
+
+We slumped against the wall, lost in thought. Charitybelle leaned against my arm after giving up trying to match the shield into the wall. She squinted and looked off into space, lost in thought.
+
+I retraced the events leading to this place. The kobold map led us to the warlock’s journal with coordinates to this place. The ward worm lair shared a connection to this room. Perhaps stealing its cylinders had somehow put things into motion, but I couldn’t fathom what. None of it added up. I pulled out the cylinders and held them up to the window—but nothing happened.
+
+Minutes passed.
+
+I slumped against the window. Maybe I needed to rest my brain, and the solution would come after a nap.
+
+Fabulosa yawned, stretched, and closed her eyes.
+
+Hours passed.
+
+We spent the better part of the day inside that room. Making false starts and abandoned solutions. We ate meals and set up the Dark Room, planning to use it as a place to reset our cooldowns. Lethargy settled in until Charitybelle stirred and sat up. “Wait a second—we’re forgetting one of the givens. It’s a weapon.”
+
+“What?”
+
+“It’s a weapon. That’s what the spikes are for—they make the shield an offensive item.”
+
+Fabulosa grunted. “It’s not a very good one. The spikes aren’t in the center—so you can’t get your weight behind them if you want to jab your opponent.”
+
+Charitybelle ignored her and pointed to the shield. “And it’s flat, right?”
+
+Fabulosa nodded.
+
+Charitybelle held the shield up. “It doesn’t have to be effective, as long as it’s a weapon. All Patch needs to do is cast Imbue Weapon on it to make it shiny. It becomes a mirror.”
+
+Charitybelle wasn’t wrong in that it involved a simple solution. Imbue Weapon turned arrows into glowing, silvery rods.
+
+Fabulosa and I stood up, and Charitybelle passed the oversized shield to me.
+
+I cast the spell, and the shield’s surface became a glowing mirror.
+
+Charitybelle snapped her fingers. “And that’s why the spikes aren’t in the center! They’d mess up the reflection!” She re-buffed herself with Heavenly Favor.
+
+I did the same as we ventured down the short hallway to the window. I held the Imbued shield to the window and saw a rune in its reflection.
+
+Charitybelle jumped and clapped. “I see squiggles in the reflection! Do you see them?”
+
+By looking into the shield, I could read invisible runic marks—its magic instructions. “Yeah, this is it. Nice one, babe.”
+
+Charitybelle and Fabulosa traded fist bumps while I studied the glyphs.
+
+It looked like an active, low-level rune, so I didn’t need to imbue it with magic. It deactivated something when someone touched its pane in two specific places, above and below the rune.
+
+I pulled out a piece of vellum and my stylus and copied the words. Unlike scrolls that burned away, runic writing remained after their activation. Their secrecy and rarity likely stemmed from copycats like me stealing and possibly hacking their code. The golem’s weapons worked like encryption, stopping others from wiping or reprogramming it.
+
+Fabulosa held the shield as I copied the glyphs. I took care to avoid accidentally transposing a sequence or glyph when copying its reflection. This writing alone might be worth the trip if we got no other loot from this dungeon. I wouldn’t know for sure until I experimented.
+
+“Okay. I have a copy—but I’m just double-checking to make sure I didn’t reverse any of the marks. Now let’s activate it and see what happens.”
+
+The rune’s writing contained no warnings or comments. Beyond its functional parameters, nothing indicated what to expect inside the crypt.
+
+After touching the two points, the window disappeared with a dull buzzing sound. The lines and words remained, hanging in the air. I returned my fingers to the same position, and the barrier reappeared.
+
+I looked toward my companions. “At least we know we can close Pandora’s Box if we have to.”
+
+Charitybelle furrowed her brow. “That analogy doesn’t inspire me.”
+
+I pointed to the long protrusion. “Then you’ll be happy to know that my first guess is that thing is a giant coffin.”
+
+Charitybelle nodded. “Yeah, I figured that too. A party-sized jacuzzi seemed too much to hope for.”
+
+With the window gone, the adjacent room became easier to see. Its alien architecture resembled the ward worm’s lair—swirly curves of pearly resin.
+
+I turned my attention to the corpse beside the coffin. We’d seen the gnoll’s body before, peering down through the grate. Upon closer inspection, this gnoll’s withdrawn gums bore long, brown teeth, looking far older than Ruk or the warlock.
+
+Using Detect Magic, I pointed to the edge of the aura. “Be careful of that sarcophagus, Fab. There’s an aura around it. This gnoll used to have thick, dark hair. Now it’s thin and white. The aura rapidly ages things to death.”
+
+“Was that what happened to the gnoll in the previous dungeon?”
+
+“No. The warlock in the protection circle already looked old. It probably died of thirst.”
+
+In addition to the oversized coffin, a podium-shaped protrusion jutted from the floor beside the magic aura. Perhaps it seated a tall creature, like a bench in a cemetery.
+
+While Charitybelle marveled at the room’s composition, I cast Detect Magic to avoid the aura and pulled the corpse away from its edge using Creeper. I showed Fabulosa the extent of the danger zone while she frisked the body.
+
+“This is a little more like it!” Fabulosa held up a leather sheath with a slot for only one arrow.
+
+Item
+
+Returning Arrow
+
+Rarity
+
+Masterwork (green)
+
+Description
+
+Level 24 projectile If Returning Arrow hits target, owner may recall projectile by uttering the phrase “To me.”
+
+Besides the magic arrow, the gnoll carried a masterwork +5 damage bow, which required 24 strength. My strength only reached 14.
+
+Fabulosa tested the bow. “I can’t even draw the string.” She pulled a pair of masterwork leather bracers off the gnoll’s arms. “I can now.”
+
+The bracers gave +5 strength, and Charitybelle and I quickly agreed that Fabulosa should take all three—the bow, the arrow, and the bracers. She reached rank 17 in ranged weapons, higher than mine, which stagnated since we left Belden.
+
+Fabulosa gave her new bow exaggerated hugs like a child holding a favorite new toy. She goofed around until she noticed something on the ground and kneeled to pick it up. “I’m counting two more shrink potions with green mouse stoppers.” She handed vials of liquid to Charitybelle and me.
+
+Item
+
+Potion of Mouse Mass
+
+Rarity
+
+Masterwork (green)
+
+Description
+
+Item use—The imbiber shrinks by a factor of 10 for 10 minutes or until they wish to cancel the effect.
+
+Both vials still had liquid, and their lids bore the same green mouse design as we’d seen before. Why hadn’t the other gnolls taken these unused shrink potions?
+
+Fabulosa placed a purse of silver coins on the ground. “This gnoll is loaded with money. Hey, C-Belle, it has a charm you might find interesting.”
+
+Charitybelle giggled. “This is like Christmas! Is there a present for Patchy?”
+
+Item
+
+Charm of Rescue
+
+Rarity
+
+Rare (yellow)
+
+Description
+
+Level 30 trinket slot item +2 intelligence+2 willpowerItem use—Once per day, the wearer may cast a heal spell as an instant.
+
+I ignored my companions while puzzling over the abandoned magic items.
+
+I’d seen visions of three gnolls, but we only found two bodies. If the remaining gnoll hadn’t recovered these belongings, perhaps it left. Judging by how often I used Mineral Communion throughout the dungeon, I felt certain we missed no hidden doors.
+
+I looked up at the grate. The dead gnoll took a potion to slip through the grate, but it hadn’t given potions to its companions. Perhaps it amounted to a no-honor-among-thieves situation. And if the magic aura killed the one who’d gotten inside, the remaining pair must have looked for another entrance.
+
+Charitybelle turned her attention to the irregular floor, wrinkling her nose at a small hollow. “Why would anyone build a room with a wavy, bumpy floor?”
+
+“According to my stone visions, the worm lair lived underwater long ago. When I used Mineral Communion on the cylinders, they showed a weird lobster swimming through it. They’re the ones who installed the cylinders.”
+
+“It’s a shame you can’t use Mineral Communion now.”
+
+“I don’t think it would do any good. This white stuff isn’t mineral. It’s organic, like a pearl. The only visions I received in the ward worm lair came from the gold and silver cylinders.”
+
+Fabulosa finished my thought. “…which this room doesn’t have.”
+
+When I heard something stir inside the coffin, I jumped.
+
+Charitybelle stopped counting coins, grabbed her hammer, and stumbled on the uneven floor while scrambling back.
+
+Our sudden movement alarmed Fabulosa, who raised her new bow. “What? What’s up?”
+
+I pointed to the sarcophagus. “Something inside moved.”

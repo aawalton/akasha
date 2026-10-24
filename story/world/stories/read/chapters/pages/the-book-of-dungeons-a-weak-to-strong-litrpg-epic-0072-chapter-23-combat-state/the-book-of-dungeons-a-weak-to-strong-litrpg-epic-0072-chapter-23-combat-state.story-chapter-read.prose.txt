@@ -1,0 +1,147 @@
+What had the naga been talking about when it told us to leave no doors unopened? In search of clues, I studied the room and kicked at the red dust. Nothing explained its last words.
+
+Flecks of paint curled like bark across the ceiling. The murals and frescos suggested the lizards built this temple as a tribute to the ward worm lair. Visions of Mineral Communion suggested the temple served social and ceremonial functions. Nothing in the architecture hinted at demons, gnolls, or kobolds.
+
+As we checked out the area, my health and mana barely improved. We remained in combat, as far as the interface showed. Had we tripped a bug in the game?
+
+As if to answer, another praven jaculus faded into existence in one corner. Lines, shapes, and glyphs glowed on the surrounding floor as the creature materialized. They formed the distinct shape of a pentacle, an encircled five-pointed star. Occult lore from Earth had crept into The Book of Dungeons, probably from devs who enjoyed heavy metal. The summoning circle hadn’t been there before, and since I don’t think we activated it, it probably obeyed a timer.
+
+As the demon materialized, the summoning circle winked out of existence, preventing us from erasing its magic.
+
+For the most part, this game embraced traditional fantasy tropes. Unsurprisingly, demonic summoning circles had pentacles, and demons resisted elemental damage. Crimson’s keynote speaker promised monsters didn’t respawn, although we hadn’t technically killed the demons. Bringing their health to zero only knocked them back to their home plane. Something pulled them back into Miros.
+
+The jaculus slithering from the summoning circle looked familiar—it had attacked Charitybelle, and Bruno and I killed it. Its cohorts wouldn’t be far behind if its respawn cycle fell on a timer.
+
+I shouted while everyone got into positions. “Conserve mana, guys. Bring it down with weapons.”
+
+Fabulosa nocked an arrow into her bow and fired across the room, burying the missile deep in the monster’s skin.
+
+I Charged with my mace while Charitybelle did so with her hammer. Charge didn’t cost mana, so it made for an efficient tactic. Until we figured out how to stop respawning monsters, we needed to conserve everything for healing.
+
+/Fabulosa hits Praven Jaculus for 26 damage (3 resisted)./You charge Praven Jaculus for 38 damage (4 resisted)./Praven Jaculus misses you./Charitybelle missed Praven Jaculus./Praven Jaculus hits you for 17 damage (5 resisted)/Infernal Pain deals you 6 damage./Infernal Pain deals Charitybelle 6 damage./Infernal Pain deals Fabulosa 6 damage.
+
+Even without critical hits, we’d removed a third of its life. I wasn’t happy that our old friend, Infernal Pain, returned, but at least the naga and the other jaculus hadn’t respawned yet. This demon respawning by itself meant we wouldn’t have to deal with all three simultaneously, which gamers called breaking the camp.
+
+As we delivered the coup de grace to the first, the second demon phased into existence from another glowing summoning circle.
+
+“Don’t kill this one too quickly. We don’t want to fight both at once the next time.”
+
+We killed the second demon with little trouble. When it dispelled and faded away, we readied ourselves for the naga. If it spawned with the same delay, it would appear soon. The second jaculus had cleverly bitten all three of us, maximizing the effect of Infernal Pain, so we topped ourselves off with Rejuvenates. Charitybelle couldn’t summon Bruno back without spending mana, but that worked for the best. A fourth ally meant a fourth debuff, increasing our need for healing.
+
+A pentacle a couple of yards away from the jaculi circles glowed as the outline of the naga appeared. As it summoned, our first swings passed through its immaterial body.
+
+When the naga finally conjured into existence, it didn’t cast Possession on any of us as we battered it to zero. Like the jaculus before it, it got an Infernal Pain bite on all three of us—causing a collective 90 points of damage. Every respawn promised at least a 30-point health drop to each of us.
+
+The naga fought, showing no interest in escaping. The three of us paced our attacks so that its respawn wouldn’t overlap with the jaculus.
+
+Splitting up wasn’t the answer. We had roughly half our health, and my Prismatic Shield’s +10 stamina left me in better shape. Fabulosa had healed us through the second round of battles, leaving her and Charitybelle nearly out of mana.
+
+I considered looking at my list of potential spells, but they wouldn’t do any good without mana. We needed to figure out how to stop the summoning circles, but the glyphs had disappeared without a trace, and I didn’t have time to stare at the tiles using Mineral Communion for clues. Detect Magic cost more mana, and casting it wouldn’t confirm anything I didn’t already know. I suspected the summoning circle counted as a rune, but taking the tier 2 ability, Inscribe Rune, gave no guarantee I could decommission it.
+
+Fleeing the dungeon might be the worst thing we could do. Beyond losing experience and treasure, the danger came from demons. Would they pursue us like the furies, never letting our combat state reset so we could heal and replenish our mana? No one could outlast infernals. Even escaping through the Dark Room seemed a dubious option. The null space came from another dimension, and demons, by definition, traveled dimensions. I couldn’t be sure we could hide inside. Even if we could rest long enough for our mana and health to regenerate, we’d have to fight all three at once again—and the naga wouldn’t make the same mistake of Possessing Fabulosa.
+
+Fabulosa moved to the gaping crack in the wall. “Let’s not fritter anymore and explore the rest of this dungeon.”
+
+Charitybelle nodded. “Agreed. The only way out is forward. I hope we don’t run into more monsters. With those demons back-spawning, there’s a danger of bleeding one encounter into another.”
+
+We scrambled through the broken wall opening on the far side of the pillared room. It opened into a short hallway with masonry identical to the rooms behind us. One end of the hallway ended in a dirt cave-in, and at the other end, an opened door stood.
+
+It opened into a small, makeshift workshop filled with charts, papers, and a stack of books. Disturbances in its thin layer of dust convinced me of its recent use. Shelves of glass containers, boxes, and cases crowded the room, many filled with small jars of dirt. Boxes filled with dirt, rocks, maps, and drawing instruments covered two desks and a table.
+
+“It’s like Mr. Fergus’s office. Well, how about that? There are archeology instruments in here.”
+
+Fabulosa eyed the equipment over my shoulder. “What we need is to find something that dispels demons.”
+
+I quickly flashed Mineral Communion before entering. It wouldn’t do to trigger a trap. Nothing on the floor showed functionality, and no hidden panels existed.
+
+/Quasit loses invisibility. /Quasit hits Apache with Black Lightning for 24 damage (8 resisted)./You are disarmed./Quasit hits Fabulosa with Black Lightning for 16 damage (7 resisted)./Quasit hits Charitybelle with Black Lightning for 12 damage (3 resisted).
+
+A green, foot-tall demon shot a single bolt of energy through my chest and into my companions. I dropped my shield and short sword. The creature trumpeted a shrill croon of triumph and hopped from a shelf onto a desk.
+
+“Ow! What was that?” Charitybelle hadn’t seen what attacked us. She spoke as if I’d done something wrong.
+
+“Why, you little….” I answered back with a blast of Shocking Reach before it could find cover—a knee-jerk reaction. The spell triggered without a hiccup, but the demon resisted all 24 points of damage.
+
+Three things surprised me. First, the spell worked. Second, it scored more damage than normal. I opened my character sheet and saw my primal magic rank had advanced to 19—and it refreshed me to get good news for a change. Thirdly, the demon had resisted all the damage.
+
+“What is happening to my spells?”
+
+“Hello? Quasits are immune to electricity.” Fabulosa rolled her eyes as if it were common knowledge.
+
+“Oh. I didn’t know that. Well, something else is going on. They weren’t working right in the temple.”
+
+Name
+
+Pandemonium Quasit
+
+Level
+
+8
+
+Difficulty
+
+Easy (green)
+
+Health
+
+145/145
+
+The nameplate bore the same Commanded debuff, and it resembled the demon’s nameplates. Why had the warlock summoned these creatures? And where had it been hiding? Mineral Communion revealed no secret doors, and I didn’t have time to scan through rock memories during combat. I moved to the side to let Charitybelle and Fabulosa into the room.
+
+The room contained plenty of objects for it to hide behind, and I lost track of the little gremlin.
+
+Charitybelle moved into the chamber. “Where did it go?”
+
+Instead of a short sword, I equipped my cudgel and shield. “I don’t know—it disappeared somewhere.”
+
+Padding feet on floor tiles echoed behind the desk.
+
+We moved to either side to trap whatever had made the noise. Weapons raised, we peeked around a piece of furniture. My body shook as another lance of Black Lightning passed through us.
+
+The quasit materialized at our side, appearing nowhere near the source of the sound.
+
+“Ouch!” Charitybelle furrowed her brow. “That really hurts!”
+
+This time, I held onto my cudgel and shield.
+
+Fabulosa’s hair had poofed out with an electrical charge. She had dropped her saber because of its ungainly size in this crowded office. She issued an order that we should have done sooner. “Spread out. We can’t keep lining up in a row like that.”
+
+I swiped my short sword at the empty air. “It’s gone again. Does anyone see it?”
+
+Fabulosa shook her head. “I don’t know, but we don’t have time for this.”
+
+Time became an issue in several ways. Scorch, my next fastest spell, had a six-second cast, which wasn’t quick enough for this quasit. With my spell failures, I didn’t want to chance wasting mana.
+
+It winked in and out of invisibility, zapping Charitybelle.
+
+Fabulosa hit it with an arrow before it disappeared. The missile caused a surprising amount of damage, and the quasit made little hurt sounds as the projectile landed. “That’s right. Taste a lick of your own medicine.” She lowered her voice when the monster turned invisible. “Magical weapons only. I have three more arrows that give +10 damage left.”
+
+When the quasit dematerialized, it stood behind us in the entryway to the office. It shot Fabulosa with another bolt.
+
+I lunged at it clumsily with my Black River Cudgel and missed.
+
+The quasit hooted with laughter, then slipped into invisibility.
+
+I wondered if Detect Stealth would work. Its 40 mana proved too expensive since I only had 22 left, but I didn’t think it would work anyway—Invisibility differed from Stealth. Waiting to regenerate 18 mana while the summoning circle clock ticked down didn’t seem worth it.
+
+Then I remembered the Prismatic Shield’s triggered ability. Once per day, I could see the true form of invisible, glamored, illusory, and hidden creatures for 10 minutes.
+
+Activating the shield’s daily ability outlined the quasit using an effect only visible to me.
+
+The demon sneaked between me and Charitybelle, raising its arms in an exaggerated tip-toed gait. The little fiend did not know I could see it. I tightened my grip on Tardee’s old mace, the Black River Cudgel, and performed the same trick I’d used against its former owner.
+
+“Follow my lead.” Raising the mace in a different direction, I pretended to focus on a shelf as the quasit climbed onto the desk next to me. I whirled around, and the cudgel swung down on my target with a satisfying crunch. “I love this Prismatic Shield!”
+
+/You crit quasit with Charge for 60 damage (0 resisted)./Quasit loses invisibility. /Charitybelle hits quasit for 22 damage (3 resisted). /Fabulosa hits quasit with +10 arrow for 34 damage (3 resisted).
+
+It used invisibility to disappear again, but I foiled its cloak with a second strike. Once Fabulosa and Charitybelle could see it, they followed with killing blows. Like the other demons, it faded away without giving us experience or treasure.
+
+I turned to my companions. “This gets much harder if the quasit respawns. This shield’s effect lasts nine more minutes, and I can activate it only once a day.”
+
+Fabulosa turned to us. “Speaking of which, it’s been ten minutes since we’d taken potions. Y’all drink up.”
+
+Instead of taking health potions, we drank 50-point mana potions. We used some to heal and banked the rest. I did most of the healing because of my high rank in light magic, leaving me much lower than my companions.
+
+Charitybelle talked to herself and tried to reason through the problem. “Hmm. It’s a given those demons are coming back….” She trailed off, and we looked at one another.
+
+No one had any idea how to resolve this predicament.

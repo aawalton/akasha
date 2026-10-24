@@ -1,0 +1,175 @@
+I’d grown accustomed to depressing beach town winters. At the year’s end, a sadness hung about Atlantic City’s off-season siege of vacant hotels, empty boardwalks, dried-up job market, and closed restaurants. Summering tourists never weathered the biting windchill of February. Local grown-ups enjoyed the peace, but I didn’t. For me, winters felt as punitive as school detention.
+
+Hawkhurst barely noticed the changing of seasons. Thriving year-round felt strange. I kept waiting for snowfalls and frosts that never happened. Packing for our trip to Grayton didn’t include heavy clothes.
+
+With Oscar and Glenn as noncombatants, Iris and Fletcher joined us for the journey to Grayton. The pair agreed to help us kill the weaver and left their four recruits to help guard Hawkhurst.
+
+On the morning we left for Grayton, we shuffled workers around. Lloyd alternated between the crow’s nest and work crew while the mercenaries rotated watchtower shifts and patrols. I left Yula a free-roaming agent to protect the camp as she saw fit.
+
+Building Status
+
+Town Hall
+
+Remaining Build Time Efficiency Workers
+
+12.9 days184 percent24
+
+The party’s influence on morale influenced us 50 less than the previous celebration, and coupled with the Sternways’ arrival, our total morale jumped from 46 to 91 percent, doubling the work crew’s efficiency for a short while. The 12.9-day estimate for completing the town hall represented the best-case scenario. As memories of the party faded, my calculations predicted closer to 17 days.
+
+Fabulosa had made the same trip faster, but we needed to trailblaze a traversable route to Basilborough, and I wasn’t sure how long that might take.
+
+Ally promised not to construct the free battle college or make big decisions until we returned. I instructed her to build another roundhouse if we didn’t arrive by the town hall’s completion. With Forren’s bonus of a free fireplace, constructing another wouldn’t take long.
+
+Morale
+
+91 percent (merry)
+
+Factor Events
+
+250 percent
+
+Factor Security
+
+88 percent
+
+Factor Culture
+
+57 percent
+
+Factor Health
+
+77 percent
+
+I was surprised to see a 2 percent drop in our culture rating. With the altar and the comforts Fabulosa brought from the West, our culture rating should be 59 percent. While everyone readied for Grayton, I approached Greenie, our camp’s resident expert in economic systems.
+
+I pantomimed my best posh accent. “Greenie, old sock! How goes the morning?”
+
+The goblin bowed. “Very well, sir.”
+
+I dropped the charade, knowing my audience didn’t recognize the schtick. “What happened to our culture rating? It dropped a couple of points. Have you noticed?”
+
+“How astute you are to inquire. The fault lies with our new economic status. I’m afraid it’s an unavoidable problem. Hawkhurst’s improvement in security has shifted us from a subsistence economy to a command economy.”
+
+“How did that happen?”
+
+“The colliers produced a sizable surplus of charcoal in supporting the blacksmith. Their passion for work is sometimes overzealous.”
+
+Considering Rory’s prima donna propensity, I should have seen this coming.
+
+“But I didn’t touch the settlement interface.”
+
+Greenie continued. “It’s automatic, or rather, the surplus redefines our government. Recent security improvements pushed Hawkhurst across a social threshold. Simply put, we no longer focus on survival. Its citizens look down the road for the first time, and doing so dissatisfies them with the status quo.”
+
+Gamers typically controlled god games with command economies, where their dictates set parameters for trade, policies, and goals. Its simple appeal allowed players to direct the AI to build or execute orders. But The Book of Dungeon’s NPCs weren’t obedient robots.
+
+We’d studied command economies in school. Communal labor worked in static, homogenous populations, but immigration destabilized social contracts. If people worked hard to build something, they resented newcomers enjoying the fruits of their labor. In the long run, command economies became inefficient.
+
+“So, what’s the answer? How can we make things better?”
+
+“An open economy alleviates these concerns but complicates settlement operation.”
+
+“I don’t follow.”
+
+“Our settlement interface shows a closed economy. If we condone profit from trade, it toggles us to an open economy, penalizing civic workforces. We’ll remain prone to this until we switch to a mixed or free-market economy.”
+
+As a psychological study of mass behavior, economics intrigued me, but economic conditions didn’t scratch my gaming itch. Some board gamers enjoyed worker-placement mechanics, but tweaking mathematical increments captured my imagination as much as melting ice. Hollywood didn’t make economic thrillers for a reason.
+
+I felt myself falling into a leadership trap and didn’t care about these details. “Is there something we need to do to avoid this?”
+
+Greenie continued. “I believe we are on the best course for our given situation. We can minimize morale loss by moving our command economy into a planned economy which unlocks tax—”
+
+I waved my hands to get out of this conversation. “Good! Then let’s do that. I’d love to discuss this at length, but I’m off to Grayton now. I’m glad to see that you have everything under control.”
+
+Greenie took the hint, and we bade each other farewell.
+
+I joined the group of travelers preparing to leave.
+
+Despite my nerves about leaving Hawkhurst, the happy departure kicked off with a pleasant change in the weather. The seven of us departed with the morning sun on our backs. Waving dwarves shouted well wishes. The sun glistened off the dew wetting our boots, and the atmosphere twinkled with flying insects. Crossing the meadow exerted us enough to welcome the forest’s shade. Shafts of light penetrated the canopy, creating pink god rays.
+
+With Oscar and Glenn in our company, I hiked with a newfound apprehension that something dangerous might pass our way. It contrasted with our usual demeanor in the woods. During hunts, we often hoped for a good fight, at least in the mornings when our legs felt fresh. But ushering guild representatives made me antsy.
+
+I acted like a real estate agent around prospective buyers, giving positive answers, dispelling fears, and hoping the neighbors wouldn’t crank loud music or get into a fight.
+
+I wanted them to consider overland routes viable, and perhaps I, too, wanted to believe this.
+
+Glenn asked to take a break from hiking at least once an hour. He wasn’t old, encumbered, or out of shape. He had excellent footwear, yet he didn’t mind holding up the convoy for ten-minute rests. Whenever we passed a log or something suitable for sitting, I braced myself for another request. Still, time wasn’t a factor, so we accommodated him with gritted teeth.
+
+A safe route between the Bluepeaks and Highwall Mountain ranges would become a self-fulfilling enterprise. The more merchants traveled the valley corridor—the safer it would grow. But the inverse corollary ran by the same logic—untraveled routes nurtured doubt and danger.
+
+That’s why we wanted things to go smoothly in the beginning. Every dinosaur attack and kobold ambush threatened to scare away commercial interest. We had to show these merchants who owned the forest.
+
+We scheduled the first leg of our journey to include a nightmarish spider encounter. The spook story Ally told us about metal-weaving monsters cocooning zombies had calmed no one’s nerves. We saw dinosaur tracks, but the wide footprints broadcasted plant-eaters, not a carnosaur’s taloned, birdlike prints. Still, we kept our ears up—ecosystems have always had predators.
+
+Fletcher and Iris blazed a path of least resistance, cutting off nearby tree limbs and leaving them parallel to the trail. Charitybelle and I helped when we got the gist of their methods.
+
+Fletcher chopped through one such tree limb when I heard a distant snapping of thick, breaking branches behind us. The sound dispelled notions of a safe passage.
+
+Before I turned, Iris threw up her hand. “Everybody stop. Don’t run. Whatever you do, don’t move.”
+
+Name
+
+Arboreal Pardasaurus
+
+Level
+
+24
+
+Difficulty
+
+Challenging (yellow)
+
+Health
+
+1155/1155
+
+The monster stalking us looked like a saber-toothed tiger covered with lizard skin. Its reptilian head shortened into a snubbed nose. Thick, sharp teeth protruded from what looked like short, powerful jaws. Its massive limbs bore long claws, and its powerful hindquarters gave me the impression that it leaped onto herbivores, weighing them down like lions dragging down their prey. The creature approached us with a sense of ease, not crouched in a ready-to-pounce posture. We posed no threat in size, and our group’s hesitant, uncoordinated movements reeked of weakness.
+
+“What do we do?” Oscar watched the reptilian predator with fixed eyes. It walked around us as if deciding whether we deserved its attention. The scaley beast growled in deep octaves, sounding like a giant feline purring.
+
+Iris held her hand in the air. “Just stay there.”
+
+The beast stopped circling us, crouched, and snarled.
+
+Charitybelle took Imbue Weapon when she reached level 10 and began imbuing an arrow with magical energy. She rarely used ranged weapons, and I recognized the bow as one Yula fashioned from a local tree weeks ago.
+
+I followed Charitybelle’s lead and imbued my spear. Against a creature of this size, I needed both hands for my spear, so I put away my level 32 Prismatic Shield. It was a shame to lose 100 health, but I wouldn’t need defense for my next maneuver, which I hoped would confuse and frighten the beast. I wanted to show Glenn and Oscar how formidable the sovereigns of Hawkhurst could be.
+
+I cast Hot Air and lifted myself ten yards above the ground for the entire duration of the buff. “Everyone, shoot after I attack.”
+
+My companions pulled out their bows, sparing me only a quick, questioning glance as the pardasaurus shrieked in outrage at my aggressive height. It might have been comfortable launching itself onto taller creatures, but I presented no cushion to land on, and my ascension challenged the beast’s notion of dominance.
+
+I theatrically raised my arms.
+
+Though it growled in defiance, its shoulders betrayed a slight shift in posture, one I had hoped to see—caution.
+
+I wanted this predator to doubt itself.
+
+At the end of my rise, I called back to my companions. “Shoot it, now!”
+
+Arrows whistled through the air.
+
+I Slipstreamed onto its back, driving in my spear and scoring a critical hit.
+
+The pardasaurus roared and sprang sideways, causing me to lose my footing. I expected this might happen, even with my agility. Creatures so heavily muscled could move fast, so I used my cassock’s ability to reset my cooldown for Slipstream. By repeating the spell, I escaped its jaws and claws.
+
+Streaking through the underbrush, I returned to my original position and began my next spell amidst my comrades. Only Fabulosa’s arrow missed the beast, who had lost track of my whereabouts.
+
+The monster overreacted to the landing missiles, which inflicted only pinpricks against its sizable health pool. The cat-lizard looked about for me, unable to tell if I remained within its melee combat range.
+
+After my attack, the creature had only lost 20 percent of its health. After a few seconds, it realized I had returned to my friends. As it bared its teeth, I finished my next spell, Compression Sphere. A thunderclap of fog exploded behind it.
+
+The pardasaurus turned to the sound, searching the plume of leaves and the debris, not comprehending what had caused the disturbance. As another volley of arrows landed, the confused creature blindly swiped through the puff of white vapor, backing away.
+
+I hoped a display of aggression might scare it off, but we had no such luck. We intruded on its territory, and our magic left less of an impression than I thought.
+
+The monster regained composure and doubled down on the confrontation. It snarled at us, a challenge to fellow competitors. It crept forward warily—at least we’d earned its respect.
+
+Everyone in my party sensed the impending attack. I couldn’t say whether fear had petrified Oscar and Glenn or if they showed bravery, but they only bolted after Iris told them to get behind a tree. Whichever the case may be, I admired their discipline. These merchants possessed the wherewithal to hold their ground or flee on command—all in the face of danger.
+
+Fletcher and I pulled out our shields and pressed to the front to form a semblance of a defense as the pardasaurus charged. It still had two-thirds of its life when it clashed with our group. Since Fletcher was level 12, I tried my best to keep the beast focused on myself, a tactic I performed with limited success.
+
+The spectacle of combat in The Book of Dungeons often looked beautiful. We draped ourselves with golden ribbons of Rejuvenate and averaged a collective output of 60 damage per second. The dinosaur’s claw-claw-bite rotation offered a formidable assault. It employed a Maul ability on Fletcher, but our healing kept him from dipping below 30 percent health.
+
+Fabulosa and I attacked the creature from opposite sides. When it pounced on either of us, the other delivered critical hits for double damage. Chimes from melee abilities rang as the five of us wore the monster down to zero health.
+
+The fight ended in less than a minute.

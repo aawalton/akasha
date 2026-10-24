@@ -1,0 +1,135 @@
+Multiple people taking damage from the same breath weapon had to stop. We needed to spread out.
+
+Second, the chimera’s shell helped it resist damage from piercing and slashing weapons. Charitybelle’s hammer counted as our highest-level weapon, but it delivered bludgeoning damage. The combat log showed that Fabulosa and I needed an equipment switch.
+
+I wasn’t the only one who noticed our modest opening attacks. Fabulosa switched to a low-level mace we’d retrieved from the goblins months ago.
+
+I regained my footing and pulled out my trusty Black River Cudgel.
+
+Healing counted a lot, and we popped Rejuvenates while figuring out a game plan. I shouted instructions to spread out to avoid the hellhound’s breath. At first, I hoped to make headway by applying a strategy similar to how Yula and I defeated the hydra—keeping ourselves on opposite sides of the creature to play its heads against one another.
+
+But the brute planned to handle things differently. It focused all of its attacks on one person, spelling trouble for its target. All three heads faced Fabulosa.
+
+As Fabulosa moved, the chimera pivoted and pawed at the ground toward her. The bullish torodon lowered its horns, preparing for a charge.
+
+The hellhound blasted a cone of fire in Fabulosa’s direction, and Charitybelle narrowly avoided the flames.
+
+/You hit Winterbyte Chimera for 36 damage (8 resisted)./Fabulosa hits Winterbyte Chimera for 33 damage (7 resisted)./Charitybelle hits Winterbyte Chimera for 42 damage (5 resisted). /Torodon butts Fabulosa for 26 damage (9 resisted). /Winterbyte Chimera tramples Fabulosa for 23 damage (8 resisted). /Dragon Turtle hits Fabulosa for 25 damage (9 resisted)./Hellhound hits Fabulosa with Breath for 32 damage (6 resisted).
+
+Switching to blunt weapons yielded a better damage ratio, but it wasn’t something we could safely sustain, especially after Fabulosa took 106 additional damage. She’d lost more than half her health, while the chimera had 87 percent of its own.
+
+Charitybelle prepared a Restore spell while I tried to get the chimera’s attention. I wanted the monster to attack me because Slipstream gave me a free pass on taking damage. The torodon, which seemed to direct its targeting, resisted my taunts. Its disregard troubled me. If it used random targeting, it could attack the same person multiple times in a row—and with only three of us, the risk of repeat attacks stood high.
+
+The torodon turned to face Charitybelle and began pawing the ground. This charging behavior worked like other games. Though we easily spotted the tell, we hadn’t figured out how to dodge the damage. The chimera methodically gored, trampled, bit, and breathed on Charitybelle, who had just finished healing Fabulosa.
+
+Fabulosa and I struck the creature as it passed, dropping its health to 83 percent. Unfortunately, both the trample and the turtle dragon’s bite critically hit her, so Charitybelle lost 170 health, reducing her to only 5 percent.
+
+“If you have a rank 14 dodging skill, you gotta buy Anticipate!”
+
+Charitybelle downed a 50-point health potion. “I know. I’m almost there.”
+
+I tried taunting the beast to attack me again, but it aimed at Fabulosa, who looked in better shape after Charitybelle’s heal.
+
+Fabulosa readied her mace as it charged. This time, she and Charitybelle hit our opponent while I poured a Restore spell into Charitybelle. Since Restore healed for quadruple the caster’s rank, my heal brought my girlfriend to near full health.
+
+Fabulosa critted, and the hellhound’s bite missed. When she drank a health potion, she almost reached full again.
+
+As our primary healer, Charitybelle called out heal rotations. “Fab first, then me, then Patch. Spot heals with Rejuv as needed.”
+
+Fabulosa and I confirmed her instructions with a nod as the chimera targeted Fabulosa again. That made for bad luck because targeting me would have given our healing cooldowns time to catch up. While Fabulosa could survive another series of attacks, even if some critically hit. But only her Restore spell wasn’t on cooldown. She’d have to heal herself, and we wouldn’t have enough healing to keep her alive if it targeted her again.
+
+We all attacked while Fabulosa triggered Anticipate, avoiding the hellhound’s breath weapon. When the ability lurched her out of the way, she dodged the dragon turtle’s bite and the torodon’s trample and headbutt. Her free pass gave our healing cooldowns a reprieve.
+
+When the monster attacked me next, I bought time by employing Slipstream to escape. All three of us attacked, and we’d taken zero damage a second time in a row while the chimera fell to 68 percent of its original health.
+
+As the fight stabilized, I spared a few moments to regard Bruno. The ornery badger spent much of its time chasing after the chimera, who wholly ignored the snarling Familiar.
+
+“Is Bruno doing any damage? I don’t see him in my combat log!”
+
+Charitybelle nodded. “It shows up in mine. He does about a dozen points for his claw-claw-bites.”
+
+While it might not seem like much, her pet’s efforts added up in the long run. If the tenacious creature shortened battles, he could be a lifesaver in boss fights.
+
+With our healing rotations established, we took turns bearing the barrage of chimera assaults. Anyone not subject to the monster’s targeting executed Charge maneuvers. Fabulosa used her electrical Discharge ability, and I even worked Imbue Weapon attacks into the rotation once I knew who it attacked and which of us healed.
+
+We methodically brought the mixed-up monster to zero health, and much like the hydra, we’d finished the fight nearly spent in mana but with most of our health intact.
+
+The last surprise in store for us happened when the chimera died. Its body disappeared in a cloud of green vapor, like Chloe whenever Charitybelle unsummoned her pet. We checked our combat log to confirm that the beast had died, but it omitted mentions of a corpse, cores, loot, or experience.
+
+Fabulosa’s shoulders slumped. “What the…?”
+
+“Oh, come on!” Charitybelle dropped her Flying Wall shield to the ground with a clatter. We searched the sky through the oculus as if waiting for the game to correct its mistake and airdrop rewards to us. Nothing happened. We looked at each other in disbelief.
+
+Fabulosa complained to no one in particular. “That is so not cool. Why didn’t we get anything? Not even a core?” She looked at me as if I had answers.
+
+I sat down in a huff, crossed my legs, and performed a Rest and Mend.
+
+My companions grudgingly resigned themselves to follow as if they’d given up hope for loot by doing so. Something felt wrong. I cast Detect Magic and Detect Stealth but could see nothing unusual. I recast Presence for good measure.
+
+Charitybelle thought for a moment. “What if its disappearance has something to do with the 8 at the end of its name? Maybe we killed a monster that wasn’t supposed to die, and it caused a glitch.”
+
+Fabulosa chewed her lower lip. “I hope we don’t have to fight seven more. That’ll be rough without Anticipate. That was a tough fight, but not that bad. Did you think that felt like an orange encounter?”
+
+Charitybelle frowned at the dilemma. “It would have been worse if we hadn’t set up heal rotations. I don’t know. Its targeting seemed random, right? So maybe we got lucky. If it had kept charging the same person, they could have died. It could have been an orange.”
+
+I spoke out loud, hoping someone might correct me. “It wasn’t an animal, so it couldn’t have been a Familiar. And if it’s a summoned creature, where is the summoner? It seemed unlikely that a brutish gnoll has access to magic powerful enough to summon something so powerful—and Mineral Communion doesn’t show anyone else in the dungeon.”
+
+Charitybelle shrugged. “Gnolls summoned demons.”
+
+“Yeah, but at a cost. And demons aren’t nearly as powerful or unique as that chimera.”
+
+Fabulosa shook her head. “I don’t know. It seems too fake to be a regular monster. Why would a chimera hang out in this dungeon? It can’t fly. I reckon it’s too big to fit through the crawlspace or squeeze through a doorway.”
+
+I leaned back and thought out loud. “Wizards construct chimera with magic.”
+
+“So are owlbears, but they leave behind corpses and cracked cores. A biggin like this ought to have three cores and a body. And these floors are clean. Doesn’t it eat? And what about that hellhound’s howl? It didn’t affect us, and my logs say nothing about it.”
+
+While resting, I analyzed the battle. The monster’s name, Winterbyte Chimera (8), caught my attention. “Do you think the 8 represents a bug in the code?”
+
+Charitybelle wrinkled her nose. “There’s 8 bits in a byte. And computers use binary orders of magnitude. Maybe that has something to do with something.”
+
+“Yeah, I saw that too. I thought B-Y-T-E might refer to an Old English spelling.”
+
+No one offered plausible explanations.
+
+While I loved a good mystery, we had to move forward. Mineral Communion burned away, and I wanted to use the spell to its full effect. Since we survived the danger, I looked into the stones’ memories and witnessed scenes of the room’s utility.
+
+The pyramidal chamber served as an observatory. Lizardfolk placed gem-filled metal grills over the oculus, refracting sunlight and moonlight into colored spotlights on the floor. The paint on the floor had long since faded and chipped away. It depicted an astrological chart with elliptical paths, symbols, and zodiac-like notations of creatures.
+
+I explained to my companions what I saw and indulged another peek. Beams of light refracted through the gems. The lizardfolk arranged pews and movable racks around the rooms. The metal racks matched divots on the floor. By aligning them, the light filtering through the gems projected colored dots on the floor. Moving them created different shapes, many aligning with the floor designs. The colorful rays of moonlight looked related to our magic system. But the zodiac looked defunct and forgotten—like the gold cylinders from the worm room.
+
+Charitybelle inspected the kobold lanterns and tools strewn across the floor. Bruno stood by her side and sniffed everything she reached for—as if he wanted to determine that the objects wouldn’t spring to life and bite her fingers before she picked them up.
+
+While I lost myself in stone-visions, Fabulosa poked through the scorpions’ remains, searching for cores, coins, or loot. “These scorpions died a while ago. Look at all the little punctures and slashes. Kobolds probably killed them—and they don’t have any cores.” She ventured north into the wide hallway. “I’m going to see if there’s treasure. Cerberus guarded the underworld. Maybe this one watched over something.”
+
+Charitybelle wrinkled her nose. “I don’t know, Fab. That’s Greek mythology. I’m not sure it belongs in Miros.”
+
+“How do you explain the pentagrams for demons then? That can’t be a coincidence.”
+
+Fabulosa walked past shiny metal columns. One only came halfway down to the floor, like a sewer pipe. The other beside it continued to the floor.
+
+I brushed my fingers along the metal tubes. “Are these silver? I know steel would rust.”
+
+Charitybelle looked up into the hollow pillar. “Silver tarnishes quickly. These are probably titanium. Pure titanium doesn’t rust. And it goes deep. We could climb it and see where it goes.”
+
+The whimsical side of me liked the idea, and it painted a funny mental image of Santa going up and down a chimney. But we just entered this dungeon, and it offered safer avenues to explore.
+
+The vertical tubes looked wide enough to crawl into but not wide enough to use weapons. I stood directly beneath the half-column, letting Presence shine up into it. The tube continued 50 feet upward before disappearing into the darkness—possibly into another level of the dungeon. They looked like heavy-duty heating ducts.
+
+I gave up guessing. “What are these, C-Belle?”
+
+Charitybelle tapped on the full column. The metal tube sounded sturdy but hollow. Without openings or cracks, I couldn’t Slipstream inside. “I don’t know—maybe ventilation shafts.”
+
+Presence improved the hallway’s lighting as I trailed behind Fabulosa. The corridor’s high ceiling looked majestic enough to be an important passage. Fifty feet away, it opened into a room smaller than the star chamber.
+
+I caught up to Fabulosa to give her better illumination. I watched the ceiling, wary of monsters dropping onto us. The lessons of the naga and snake demons remained fresh.
+
+The room we entered matched roughly the size of a classroom. Painted designs echoed those we’d seen in the lizardfolk dungeon, and once again, it contained murals that imitated the dots and curves of the worm room. Whoever built these temples thought highly of the lobster-fish.
+
+A grate in the floor opened into a black void. The grill prevented us from falling in, but we could easily peer through it.
+
+The three of us dropped against the floor to better view the room below. The thick bars on the crosshatched grill gave Presence a faint grid pattern, but the spell’s limited range made it difficult to see what awaited beneath us.
+
+I motioned to drop a glow stone through the grate to see if my companions objected.
+
+Neither did, so I let it fall.

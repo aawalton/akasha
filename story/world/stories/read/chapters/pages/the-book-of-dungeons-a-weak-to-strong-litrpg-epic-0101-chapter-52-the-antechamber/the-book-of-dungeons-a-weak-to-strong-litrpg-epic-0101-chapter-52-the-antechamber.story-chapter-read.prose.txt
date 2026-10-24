@@ -1,0 +1,155 @@
+Charitybelle admired the heavy black figure of a bipedal lizard. “Why would anyone make a statue of something like that?”
+
+“It’s not a monster—that’s an oversized statue of the lizardfolk who built this dungeon. Remember those little pictures covering the corridor leading to the central chamber—the hieroglyphics? The creatures who painted them look like this guy.”
+
+I gave them a tour of what I’d seen with Mineral Communion, not mentioning the giant coffin because I wasn’t sure how it fit in. Besides, the crystal window between us and the crypt looked strong, making it unclear how to continue.
+
+“So they turned the dial, and the statue gave them its weapons?” Fabulosa shook her head. “That’s weird. Why make something that does nothing but surrender?”
+
+Charitybelle studied the dial. “Maybe different settings on the dial make the statue attack.”
+
+Fabulosa looked unimpressed. “Would your hammer work against the window? Why bother with puzzles when we can brute force it?”
+
+Charitybelle shrugged and tried hitting the crystal with her Metamorphic Siege Hammer. It recoiled harmlessly, no matter how hard she swung. “I’m not getting a progress bar for structural damage.”
+
+I gestured to the window. “It glowed with Detect Magic, so I figured it to be something like a permanent Wall of Force.”
+
+Fabulosa’s shoulders sagged. “It seems you figured right.”
+
+I shrugged. “Yeah, I watched many scenes of the statue giving the lizardfolk priests its arms and returning to the platform. Not much else happened here.”
+
+Charitybelle wrinkled her nose. “Maybe it commemorates a famous surrender in their history.”
+
+I climbed onto the platform and touched the statue. It felt warm. Oddly enough, its weapons weren’t magical, and the game rated them as gray-quality items with no descriptions. They possessed no stat bonuses, combat perks, or abilities. The only thing special about them involved the spear’s slightly heightened magnetic properties.
+
+Jumping down from the platform, I wished I’d paid more attention to the weapons in the visions. Instead, I focused on the statue and the dial and didn’t see what the lizardfolk did after the statue surrendered its arms.
+
+“Oh! Here!” Charitybelle called to us at the end of the short hallway by the window. “There’s a hole here in the floor! And it’s right in front of the window. I bet you put the spear in the hole, and the window disappears. That’s how we access the seashell room.”
+
+Fabulosa snapped her fingers. “Ah! So the spear is a key!”
+
+I cast a glance at the spear and then the hole. It looked like it fit. “Okay, this should work. We know what to do. Turn the dial, take the spear, and slip it into the keyhole.” To be extra careful, I adopted the same deferential pose the lizardfolk struck before receiving the weapons.
+
+Fabulosa rearranged her equipment. “Maybe so, but I’m switching to blunt weapons, just in case.”
+
+I Imbued my cudgel with silvery, glowing magical damage while Charitybelle readied her siege hammer. If things went poorly, she would likely do the most damage. When everyone nodded, I bent over and grabbed the giant dial. “Place your bets, ladies.”
+
+The lack of friction tempted me to spin it to see how fast it could go. Instead, I soberly turned it to the position the lizardfolk used in the stone visions. It spun without resistance. I felt the floor shake as the statue straightened and spun to face me.
+
+It stepped off its platform and attacked.
+
+Name
+
+Onyx Golem
+
+Level
+
+44
+
+Difficulty
+
+Deadly (red)
+
+Health
+
+4,900/4,900
+
+I caught the swing of its spear against my Prismatic Shield. Even though the game rated it a red opponent, its attack didn’t surprise me and caused 52 points of damage.
+
+Who swings a spear? Such a misuse of the weapon insulted me a little. It would be worse to die from such an attack because 52 still amounted to a lot of damage. I traded its blow for a strike with my imbued cudgel for only a 25-point attack. I might as well have wielded an ice cream cone.
+
+Charitybelle fared better with her hammer, doing 41. But these numbers would not kill it.
+
+Fabulosa didn’t bother to attack—she yelled at me as if I held answers. “Why is it attacking?”
+
+Instead of hitting the golem for a second time, Charitybelle desperately aimed at the crystal. No health bar appeared—the Wall of Force still ignored structural damage. Escaping into the crypt room wasn’t an option.
+
+/You hit Onyx Golem with Charge for 12 damage (32 resisted)./Onyx Golem crits you for 98 damage (14 resisted).
+
+I backed away as it swung again. My shield missed the blow, and the creature critically hit me for almost one hundred damage. We needed another tactic.
+
+By throwing up my interface, I cheated time to determine what we missed. Fabulosa wasn’t the only person confused by the golem’s attack. I placed my feet in the same position as the lizardfolk who’d spun the ring—mirroring their posture. Everything looked the same, except I wasn’t wearing their ceremonial costume, which amounted to little more than an assortment of hanging sticks, beads, and trinkets. Mineral Communion wouldn’t show if their outfits bore magic. We stood no chance of stopping this monster if we needed intact robes.
+
+We had no available abilities to defeat a red opponent.
+
+I used the Magnetize interface to search for a weakness. When the statue transformed into its combat state, I hoped to spot an otherwise invisible vulnerability. I saw no soft spots. The only strange magnetic field emanated from the spear’s tip.
+
+Judging by the strength of its blows, I couldn’t disarm it, and there wasn’t enough space to avoid its attacks. Fabulosa could reposition the ring, but the number of symbols made it unlikely we’d survive long enough to discover its off switch—if such a thing existed.
+
+The tube offered our only retreat, but Charitybelle and Fabulosa moved slowly without Slipstream. They needed to lead the charge. I closed my interface, and events returned to their regular Apache-pounding pace.
+
+“Go back up the tube!” I didn’t need to say it twice. My companions ran to the copper shaft. The onyx golem hit me for 48 damage, and I popped a 50-point health potion. Ribbons of Rejuvenate flew around me like fireflies attracted to blunt-force trauma.
+
+I spared a look in their direction. Instead of going up the tube, Charitybelle spoke to Fabulosa.
+
+“What are you doing? Get up there!”
+
+Bam! Another crit from the golem landed, followed by a Restore from Fabulosa that only gave me 53 health. I wished she could rank up her light magic more and give better heals.
+
+At last, Charitybelle climbed up the rope, but to my horror, she pulled it inside behind her.
+
+Fabulosa hadn’t reacted, nor did she appear to be trying to escape. Instead, she placed the garbage can cap on the end of the tube, trapping us inside.
+
+“Are you insane!? Get up the tube! We’re going to die down here!”
+
+Bam! The golem’s spear hit me again for another 53 points of damage. My health pool dropped below 60, and the monster backed me into the narrow hallway, which ended at the window. The cramped space prevented the golem from swinging its spear to hit me—instead, it switched to thrust attacks, which looked to inflict more damage.
+
+I backed against the crystal window as the golem readied its spear for a jab and Slipstreamed away as it thrust its oversized weapon. The crystal didn’t crack after the monster struck it.
+
+I landed 30 feet behind the creature and fled toward the tube. The golem spun and lumbered after me, giving me enough time to Restore some of my health.
+
+I turned to Fabulosa. If I could pull the cap off the tube, we still might have time to escape. “What are you doing?”
+
+Fabulosa crouched with her ear pressed over the endpiece’s holes. If Charitybelle yelled anything to her, I couldn’t hear.
+
+Fabulosa pointed to the tube. “Charitybelle went up there with her shield. Cast your air explosion inside the tube!”
+
+“What? Why? What is she doing up there?”
+
+Bam! The golem sideswiped me from behind with its extended spear. My health pool fell back to single digits. The next blow would end me.
+
+“Just do it already!” Fabulosa ran to engage the golem.
+
+I didn’t understand her plan, and we’d be in serious trouble if it didn’t work.
+
+Fabulosa distracted the brute, giving me time to cast Compression Sphere. She shouted to me while fighting off the golem. “Just cast it into the tube against C-Belle’s shield.”
+
+I crouched, peered through the holes in the end cap up the tube, and spotted Charitybelle’s Flying Wall buckler. She held it while hanging from the line.
+
+The golem’s spear connected against Fabulosa with a critical hit, dropping her health precipitously.
+
+Fabulosa yelled at me. “Do it now!”
+
+I cast Compression Sphere.
+
+A whistle screamed through the pipe as a torrent of air blasted through the holes of the cap piece. A Deafened icon appeared in the periphery of my interface—just in case I hadn’t noticed. I fell backward, dropped my cudgel and shield, and covered my ears.
+
+The sound might have been pleasant further away, especially compared to the caradon shrieks in the goblin mine. Piercing notes harmonized into a chord I’d never heard before. The tone ended almost as quickly as it began.
+
+The golem kneeled and offered its weapons to Fabulosa, and my event log showed us leaving a state of combat.
+
+Everything stilled except for a settling cloud of dust from the tube.
+
+Hearing nothing except a ringing, I jumped in alarm when the cap popped off without warning. Charitybelle’s shield violently smashed into it, dropping from a great height. The wiggling and swaying rope told me my girlfriend survived and climbed down.
+
+I peered upward into the dusty tube to see if Charitybelle looked okay. At first, I didn’t see her because she hung 40 feet higher up the pipe, almost near the top.
+
+After Fabulosa took the weapons, the thing stood up, returned to its platform, and rebooted to factory settings. With Deafened still active, I sensed the golem’s footsteps only through the shaking ground.
+
+From my vantage on the floor, the oversized shield and spear made Fabulosa look triumphant, like a Valkyrie.
+
+When the Deafened debuff ended, the ringing in my ear stopped.
+
+Charitybelle raised her arms in triumph. “It worked! I got the idea from the climb down. My shield felt so tight in the tube that I figured your air blast would depressurize through the end cap.”
+
+She spoke louder than necessary, making me think her hearing wasn’t working correctly. “Are your ears okay?”
+
+“My ears popped a little, but they’re not ringing anymore. I think my shield absorbed most of the shockwave. Your spell shot me up 50 feet, like a bullet in a gun. It was a lot of fun!” Her voice lowered by the end of her explanation—at least the stunt hadn’t deafened her.
+
+Mineral Communion burned out during the fight. Before we did anything further, we recuperated with Rest and Mend. Not only had the combat log shown no experience for the golem’s surrender, but the game offered us, once again, no loot.
+
+After we readied ourselves, Fabulosa performed the honor of slipping the spear into the floor slot.
+
+Inserting the spear into the hold didn’t make the window disappear as I’d expected. Instead, glowing ellipses, lines, and curves appeared on its surface.
+
+I turned to my companions. “This looks like it’s part of a rune.”

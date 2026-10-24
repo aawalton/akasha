@@ -1,0 +1,139 @@
+Some tier 2 buildings made little sense to build now, but I studied my options. A dock seemed pointless on a deserted lake, and with a storehouse full of meat and no livestock, a slaughterhouse held no purpose. We could upgrade our watchtower into a guard tower or build some walls, but gaining security bonuses from a barracks made it a more attractive choice.
+
+I checked out the default blueprints, a building that used so much stonework that I hadn’t had the heart to ponder its description.
+
+Create Building
+
+Barracks (tier 2)
+
+Description
+
+Defensive Structure+3 percent securityAccommodates 30 militia. Unlocks command interface, command slots, and militia slots in city interface. Citizens in command slots earn command skills. Citizens in militia slots earn combat skills twice as fast for up to 5 ranks per settlement level. Religious Bonus free fireplace (from Forren) Settlement Bonus free prison (from Bonding)
+
+Details
+
+Structural Points 250Location -0.6, -13
+
+Materials
+
+Timber 100 battensStone 400 blocksBrick 500Iron 50 ingotsFireplaces 2
+
+Build Estimate
+
+16.8 days with 27 workers at 74 percent efficiency
+
+Core Bonus
+
+None
+
+The barrack’s functionality impressed me. It worked like Applied Knowledge regarding combat skills, although it became unclear if it multiplied my rate or not. Even if it didn’t, it would already be great for Fabulosa, Bernard, and Blane. Rotating our citizens through a basic training program made sense. I wanted everyone’s combat skills at least to rank 10, which wasn’t unreasonable because the first few ranks come fast. Besides, with our improved building efficiency, we could dedicate a few workers to train with Dino.
+
+The core I retrieved from the ward worm’s stinking guts possessed bonuses related to the creature. Since I used it to start the settlement, we’d seen various effects. Our hardened stone resembled the worm’s tough skin. And the seismic radar blips mirrored how the monster must have sensed people while underground. The mysterious bonus, bonding, made no sense. Getting a free prison didn’t explain what the bonding meant. The world boss’s name, ward worm, vaguely related to prisons in that wardens run them, but this connection seemed dubious.
+
+How did the ward worm relate to prisons? Had the world boss been a prisoner, or did it guard something? Nor did the bonus’s description clarify if the prison stood as a stand-alone building or if it connected to the barracks. I wasn’t sure how I felt about a big, ugly prison crowding up our beautiful town.
+
+The barracks unlocked something called glory points and command slots. I guessed command slots helped marshal citizens during times of crisis. But the mention of a command interface charged my imagination, and the lack of information drove me crazy. Experience points yielded stats, spells, and abilities. Favor points gave blessings and performed miracles by rushing a building’s construction. Settlement points produced mandates that gave city-wide upgrades. Glory points probably bought powers for commanders or city leaders for mass combat.
+
+The barracks took 50 percent more time to build than the town hall and required iron. Fifty ingots of iron amounted to over half of what we’d hauled from the goblin mine, and I wasn’t sure if we’d want to save the metal for weapons and armor. I could pick up iron in Arlington. With the food cleared out of my void bag and piled into the storehouse, I could fill it with raw materials on a shopping trip.
+
+The shrine and the barracks would occupy the construction crew for three weeks. If our trip to Arlington took longer, everyone could train until we returned. With only a little drilling, our citizens stood a much better chance of receiving vulpine intruders.
+
+News of our imminent trip to Arlington gave the town something to discuss, as we prepared for our journey.
+
+Hugo surprised me by fitting a cockpit for Beaker onto my saddle so I wouldn’t have to dismiss my griffon while on horseback. He apprenticed as a tailor during his indentured servitude in Grayton. He’d been helping Tara with the town’s clothing needs since Mrs. Berling took a position on the kitchen staff.
+
+As my Familiar, I could unsummon him in times of trouble or inconvenience. My pet served no role in combat that I could fathom. He wasn’t aware of winking in and out of existence and often made no greetings when I summoned him. Despite the commotion he caused, I enjoyed having him around, and he grew fast under Forren’s fertility buff.
+
+My horse, Jasper, stood large enough to accommodate us both. At first, Hugo tried attaching a basket behind me, like a rumble seat on a Model T Ford, but the griffon kept climbing on my back so he could see our heading.
+
+“No, Beaker. A branch will knock you off, and you’re getting too big to sit on my shoulder.” This topped my list of understatements. While the griffon felt reasonably light for his size, he couldn’t fit on just one of my shoulders and clung to my neck. He dug his talons into my armor and robe to maintain his balance. He ultimately adopted my head for a perch, conveying the effect of a lady’s feathered hat, fashionable enough for a royal derby.
+
+Of course, Fabulosa and the dwarves loved it whenever Beaker did this. They brayed in laughter, pointing at him. He screeched at the uproar and flapped his undersized wings whenever I turned my head or shifted my weight. I couldn’t help but smile at the ridiculous situation before ending everyone’s fun. “Okay, big guy. My neck is getting sore. You need to get down.”
+
+On my shoulders, he’d say things like, “I’m bigger now!” and, “I can see you down there!” But he got heavy after half an hour, and when I leaned to the side, he took the hint and allowed me to lower him to the ground.
+
+I couldn’t do this on Jasper’s back, so Hugo attached Beaker’s basket to my saddle horn. His head didn’t block my vision, and he seemed happier in the front. More importantly, the basket kept the griffon’s talons from Jasper’s neck.
+
+The dwarven brothers going with us created another hiccup in our journey’s preparation.
+
+Bernard took Charitybelle’s old horse, but the dwarf looked miserable in the saddle. “I’ll spill over and break my neck. Dwarves aren’t supposed to be this high.”
+
+Blane watched his brother with fearful eyes. “Hold on, brother! Ye spook the beast, and he’ll toss ye fer sure!” The animal stood as still as a statue, although its ears pointed toward the dwarves to ascertain the source of the excitement.
+
+Short legs weren’t practical for riding, but the dwarves made the best of it. Bernard reached the saddle on his first attempt with a spritely leap. He grew easier after practicing dismounting the steed—a maneuver he eagerly performed. When it became apparent that he could jump off the animal without harming himself, Bernard grew more confident on horseback.
+
+“Now it’s your turn.” I turned to Blane. His eyes widened with fear despite his brother’s growing proficiency. “Let’s see if we can borrow a mount from the mercenaries unless you want to try taking one of the draft horses.”
+
+Blane’s face drained of color. “I need no grand steed, Guv. A wee horse is better. I can walk if it’s all the same.”
+
+Fabulosa tried to calm him down. “Don’t worry, Blane. Lloyd and Fletcher are going, too. They won’t mind you taking an extra horse. They’ll even help you learn how to ride. Come on, let’s go.”
+
+We turned north to the guard guild and hoped Blane would follow us.
+
+Blane’s forehead furrowed at the prospect of riding the same horses who pulled carts from Grayton, but he grudgingly tagged along. The trip to the mercenary guild house amounted to only a fifteen-minute walk through the northern meadow, but he dragged his feet with every step. He carried himself as if going to the gallows.
+
+The Sternways sat outside their headquarters at a table in the sun.
+
+Lloyd spotted us first. “The south blows fair tidings! Hail, Cap’n. Miss Fabulosa. Blane! Ye setting course westward, now?”
+
+Iris focused on writing something and nodded briefly at our arrival.
+
+Fabulosa waved. “Hi, Lloyd. Hey, y’all. Yeah, we’re gearing up to go. How are you guys?”
+
+Fletcher gestured to the parchments on the table. “Father and I are squared away for Arlington. I’m rifling through Iris’s correspondence.”
+
+Fabulosa cocked her head. “Oh really? What for?”
+
+Fletcher waved his hand dismissively. “Business. Both old and new, but don’t ask what for—comms were never my forte, so Iris runs the show. I’ll pop her letters into the post when we reach Arlington.”
+
+Fabulosa turned to Iris. “Are you not going?”
+
+“I’m afraid not. There are too many things going on. My boys will take good care of you.”
+
+Lloyd patted his son’s shoulder. “Keeping soldiers on an even keel is a hands-on job. Ye won’t need more than me to show you around the Underworks, and I won’t need more than Fletcher to carry me out of the pubs.”
+
+I ignored the dwarves’ gaze at the mention of pubs and admired the guild house.
+
+Iris had indeed kept the mercenaries busy. They built their guild house and already had a barn for their horses. I peered into the open doorway and saw they already had furniture inside, albeit cruder than what the dwarves made. Fresh wood shavings filled the air, and they smelled pleasant.
+
+I turned my attention back to Lloyd. “Has there been any excitement in the woods? It seems like the monsters have been quiet. I have seen no dinosaurs.”
+
+Lloyd waved his hand. “The only thing stirring in the woods is mating season.” He glanced sideways at Iris and Fletcher and bounced his bushy eyebrows. “And I’m thinking it’s contagious.” When Iris and Fletcher looked away in embarrassment, he laughed.
+
+“All right, father. That’s enough.” Fletcher turned to us. “I trust we’re proceeding with our journey tomorrow?”
+
+Fabulosa nodded. “Gonna hit the trail at dawn. The one hitch is we’re down a horse. We wondered if we could let Blane use one of yours. I reckon your smaller mounts would suit him.”
+
+The dwarf wrung his hands. Riding a larger horse or sharing one with Bernard wasn’t something he wanted to do.
+
+Fletcher turned to Iris, who only shrugged and nodded.
+
+Blane exhaled with relief.
+
+Iris looked up from her writing. “Has anything changed on your plan to open a new trade route? I’ll need to know now before I finish my letters. How goes the town?” With her quill poised over the parchment, I felt obligated to give her good news, and luckily, I had some.
+
+I nodded. “Yesterday’s discovery of the siege hammer sealed the deal. Blane realized we could use it to quarry stone.”
+
+The dwarf still looked nervous about the horse but smiled when I mentioned his discovery.
+
+“In three weeks, we’ll have a shrine and barracks, and then it’s on to a manor. And that means tier 3 buildings, including the shipyard.”
+
+Bernard pointed at me. “Don’t forget. Ye can build a brewery after the manor is up!”
+
+Iris ignored the dwarf. “And how long will it take to build a shipyard?”
+
+I shrugged. “I can’t see the blueprints until we build the manor. My biggest concern involves building a ship. I do not know how long it’ll take or what we’ll need. Maybe we should hire a shipwright or two while we’re in Arlington?”
+
+Lloyd slapped his knee and cackled. “We’ll be needing no shipwrights for this puddle. Arlington shipwrights are the best in the world. They’d not waste their days on flatboats, I can promise you. You’ll see nary a knockdown in these still waters.”
+
+I didn’t quite follow him and wanted to be sure. “Are you saying that you can build a flatboat?”
+
+He rolled his eyes. “Even me own son, who manages to burn the bacon every morn, could build a flatboat.”
+
+Fletcher deadpanned to Iris. “As you can see, my dear. I have Father’s utmost confidence.”
+
+Iris rolled her eyes, and Lloyd snorted in laughter. It seems we’d walked into the middle of an old family routine.
+
+“The point is, in about a month, we’ll have a manor. Then we’ll be able to construct a shipyard.”
+
+Bernard balled his fists. “And a brewery!”

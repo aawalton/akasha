@@ -1,0 +1,157 @@
+The three of us peered through the crude grillwork and pondered how to enter the dungeon.
+
+Charitybelle raised her Metamorphic Siege Hammer. “That’s where this baby comes in handy. Clear the way—the Hawkhurst wrecking crew is on the job!”
+
+We gave Charitybelle space, and she smashed at the bars. With every impact, the hammer loosened fittings, bent ironwork, and splintered wood. A small window appeared over the grate like a nameplate, showing she’d reduced its structural integrity by about 5 percent with each swing.
+
+After several strikes, Charitybelle cracked an iron bar and tore through its neighbors—meshing out a hole with her blows. She struck the anchors, which popped out of the tunnel walls with relative ease. The entire latticework lay in pieces in only a minute—structural damage at work.
+
+“Now, let’s hope we won’t need that grill.” Charitybelle took the lead. Bruno stayed by her side, watching for cues that permitted him to attack anything ahead of her.
+
+The tunnel opened into a chamber big enough for us to stand side by side. Someone had hewn stone to make the space, and its refined architecture belied any hint that the kobolds had made it. The coffered ceiling formed a stonework grid, wholly different from the burrowed tunnel.
+
+The gnoll had uncovered another civilization’s handiwork, but kobolds had somehow paid the price for its disturbance. Dozens of desiccated kobold corpses lay at the room’s far end, and their stench testified they’d entered the wrong dungeon. Beyond the bodies opened another room—a temple supported by pillars.
+
+Charitybelle grimaced at the scene. “I see lots of dead rats but no doggie. Where’s the gnoll?”
+
+Detect Magic and Detect Stealth showed nothing glowing in the room or on the bodies. Mineral Communion revealed no traps.
+
+When Fabulosa audibly gasped, I dismissed the spell’s effect and prepared for battle, but she only beckoned me to look at a wall. I followed her gesture to squiggly curves framed by a stone border.
+
+“Doesn’t that fresco remind you of something?”
+
+Wavy patterns between the buttresses didn’t look familiar, so I approached the fresco for a better look.
+
+Someone had smeared plaster or clay in undulating shapes, creating an abstract, organic design. I finally recognized what Fabulosa had seen. The crumbling paste's organic style mimicked the opalescent swirls of the ward worm’s lair.
+
+Walking through the worm room felt like standing inside a seashell. This mural copied its curves, but it looked more primitive and derivative. The room's architecture differed, featuring orthogonal pillars, ceilings, walls, and floors. This masonry came from a culture very different from the aquatic species that made the gold cylinders.
+
+Since the spell already burned, I reactivated Mineral Communion. The stone architecture projected images of humanoid lizards carving its surfaces. They looked unfamiliar but weren’t as strange as tentacled lobsters. Water had never flooded this chamber. The spiny lizards interacted with one another and sometimes organized in formal groups—scenes that I interpreted as ceremonies. I could see reptilian folk creating and organizing clay tablets. As I moved through the room, I described what I saw.
+
+Charitybelle grabbed my arm, preventing me from stepping onto one of the kobold corpses.
+
+I had to be careful using Mineral Communion. Watching its vignettes tunnel-visioned me, making me forget I moved through the present, not the past. The floor showed no signs of traps, so I dismissed the phantasmal images. Mineral Communion’s duration had 70 minutes left, and I could recall the effect whenever I wished.
+
+Connected to the frescoed antechamber stood a hall the size of a small church. Tall copper pillars stretched to the ceiling, but instead of pews, a layer of red dust covered the open floor. Tracks crisscrossed everywhere.
+
+The radiance from Presence wasn’t the only light source providing illumination. My companions held glow stones, and someone had left a few lanterns behind. They still emitted a flickering yellow-green light.
+
+Around us lay scores of dead kobold bodies, each bearing battle wounds. Their state suggested weeks of decay, but so many had fallen that they made our footing uneven. We entered slowly and carefully, nudging bodies aside with our feet to avoid stepping on or falling over them. It looked like the kobolds gave up their assault and sealed the place with a heavy barricade. Over such precarious footing, I dared not flip into Mineral Communion until I reached the open floorspace in the temple’s center.
+
+I spied an opening at the far side of the room, a crack big enough to climb through. It looked like something had broken through the masonry, although I couldn’t know if something had broken in or out.
+
+Before we entered the pillared chamber, I cast Detect Magic. Two things glowed—the lanterns and an altar at one end of the temple in a shadowy alcove.
+
+Bruno already wandered about in the larger room. He walked across the open floor covered with red dust. His little nose worked in overdrive as he ambled about in search of something to fight.
+
+Charitybelle groaned and watched her pet, unhappy that he’d wandered ahead of us again. “Oh, Bruno, please be a good boy. Don’t go too far. He says he smells something weird.”
+
+Fabulosa pushed aside another corpse. “I’ll bet he does.”
+
+The badger snarled, sniffed, and waddled toward us from across the room.
+
+Fabulosa and I flanked Charitybelle and moved into the larger room. As we walked between the pillars, a body toppled onto me from the ceiling, and a searing pain tore into my shoulder.
+
+/Praven Jaculus critically bites you for 42 damage (0 resisted)./You are envenomed with Infernal Pain. /Praven Jaculus critically bites Charitybelle for 18 damage (4 resisted)./Charitybelle is envenomed with Infernal Pain./Infernal Pain (x2) deals you 12 damage./Infernal Pain (x2) deals Charitybelle 12 damage./Infernal Pain (x2) deals Bruno 12 damage./Bruno hits Praven Jaculus for 11 damage (1 resisted)/Infernal Pain deals Fabulosa 12 damage./Praven Naga casts Possession./Fabulosa is possessed by Praven Naga.
+
+When a heap of meat and metal collapsed on top of me, I threw up my interface on reflex, silencing the angry badger growls. Knowing that this praven jaculus—whatever that was—would soon receive the snarly end of Charitybelle’s pet counted as the only comforting thought in this harried situation.
+
+Tossing up my interface gave me time to think.
+
+Considering the degree to which we’d fallen into an ambush, hadn’t we taken every precaution to avoid it? The Book of Dungeon’s monsters showed adept and proactive behavior.
+
+In my peripheral vision, the nameplate of whatever had fallen onto Charitybelle caught my attention, presumably the same type of creature that had landed on me.
+
+Name
+
+Praven Jaculus
+
+Level
+
+10
+
+Difficulty
+
+Easy (green)
+
+Health
+
+200/200
+
+The winding coils looked like an anaconda with scaley arms wielding a brass scimitar and shield. Its unhinged mouth produced a distended, forked tongue, and two oversized fangs delivered its nasty bite.
+
+The monster’s nameplate frame wasn’t a creature-type border I’d seen before. I’d seen nameplates for NPCs, monsters, Familiars, and a world boss, but this nameplate introduced a new type of being—a demon. That explained the origin of the two identical icons in my peripheral vision—Infernal Pain.
+
+I focused on the debuffs’ description.
+
+Debuff
+
+Infernal Pain
+
+-5 AgilityDelivers 6 damage every 6 seconds to nondemonic creatures within 30 yards.
+
+Duration
+
+29 seconds
+
+These debuffs acted as an anti-swarm game mechanic designed to spread damage to multiple enemies. One could easily see how these infernal twins could kill kobolds en masse. So far, only two of us shared the effect, but each radiated stacked damage to all four of us—including Bruno. A loss of 6 health wasn’t enough to pose a threat, so only two bites totaled 48 damage every six seconds. If the snake demons bit Bruno and Fabulosa, it posed a dangerous volume of automatic damage.
+
+We weren’t the only ones sporting debuffs in this diabolic temple. The nameplates of all three creatures bore the same icon, explaining their predicament.
+
+Debuff
+
+Commanded
+
+Is compelled to obey summoner’s orders.
+
+Duration
+
+Until master loses control.
+
+The debuff explained their behavior, though the vague reference to a master losing control made me cringe. If this demon performed someone’s bidding, we probably needed to face a warlock deeper in the dungeon. It counted as a concern for another time. Right now, I had my hands full of demonic snakes and a rabid Fabulosa.
+
+The worrisome part of the combat log involved the notification that a naga had Possessed Fabulosa. How did Commanded and Possessed creatures behave differently? If a warlock controlled the demons, and the demons controlled Fabulosa, didn’t the Transitive Property of Enchantment imply our friend now fought for a warlock? No—that oversimplified things—otherwise, the game wouldn’t differentiate the two effects.
+
+The school of dark magic produced some nasty stuff, especially mind control. While befitting to demons, I didn’t know how to counter Fabulosa’s mind control. Did I need to inflict a certain amount of damage to break it? Would Fabulosa’s willpower determine the duration?
+
+Fabulosa ranked near the top of my list of things I didn’t want to fight, especially against a saber that projected false attacks. I didn’t relish the prospect of ignoring phantom attacks while outmaneuvering her swordplay.
+
+The combat log gave the critical information. Somewhere in this temple, a praven naga controlled our third party member. Finding it topped all priorities. Closing my interface returned me to the world of motion and sound.
+
+Ignoring the slobbering ravings of Bruno and the pain in my back, I wrenched myself out from under the jaculus and scrambled from its heavy coils of muscle.
+
+Breaking the Possession involved finding and attacking the naga hiding behind one of these copper columns. But I couldn’t see it—which made no sense because tall pillars shouldn’t hide long nagas—which typically appeared in snake form.
+
+Perhaps it coiled itself around the top of the room’s supports, like the jaculi. It made sense to attack from above—anyone stepping over the bodies would direct their attention to the ground. And anything at the top of the pillar had a clear line of sight to rain down spells upon us.
+
+Looking up, I spotted the creature.
+
+Name
+
+Praven Naga
+
+Level
+
+14
+
+Difficulty
+
+Challenging (yellow)
+
+Health
+
+375/375
+
+The naga wrapped itself around a pillar near the ceiling, directly over the entrance. Its body looked like a snake as thick as an alligator. Its cobra head ended in a human face painted with geometric designs, wearing an Egyptian-style headcloth. As it controlled Fabulosa, its unseeing eyes rolled into its head, giving it a slack-jawed expression. Drool dripped from its fangs and forked tongue.
+
+I aimed a Compression Sphere between the naga and the column, hoping to drop it to the floor or release Fabulosa from its control. But the explosion didn’t budge the creature. When I targeted it with Shocking Reach, the spell fizzled—as if something had interrupted my cast. This made no sense. What level 14 monster had a magic-dampening defense?
+
+I checked my combat log. The creature hadn’t resisted the spell—because the spell hadn’t even triggered. I tried Scorching the demon to see if it resisted fire, but it also fizzled.
+
+My befuddlement had earned another scimitar strike from the jaculus—another critical hit. This level 10 creature had nearly wiped a third of my health away. Without knowing Charitybelle’s situation, I cast Rejuvenate on her and raised my shield to ward off another attack.
+
+“Fab, no!”
+
+I heard the distress in Charitybelle’s voice from behind a pillar. By regaining my footing and warding off the snake demon, I’d lost sight of Fabulosa. The combat log cited Charitybelle casting Rejuvenate on herself and drinking a potion, exhausting her options for quick healing.
+
+After spell failures with direct damage, I imbued my short sword with arcane magic and attacked with analog means.

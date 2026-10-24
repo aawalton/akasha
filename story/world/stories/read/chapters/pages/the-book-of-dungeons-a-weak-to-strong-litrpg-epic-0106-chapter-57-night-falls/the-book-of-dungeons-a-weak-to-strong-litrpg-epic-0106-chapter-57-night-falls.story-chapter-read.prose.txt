@@ -1,0 +1,173 @@
+This chimera’s attacks weren’t as bad as its predecessor, and nearby boulders prevented the behemoth from performing trampling maneuvers. But Winterbyte’s explosive arrows threw us off our game. I had to admit, she orchestrated an effective combination, but our three-way healing outpaced their damage.
+
+The battlefield chat exploded in the blink of an eye. Chatting dilated time, so the chat log text seemed instantaneous. The only way to keep up with the conversation was to open the chat interface, which risked me forgetting where I stood in battle. I indulged in the ensuing discussion only after a lull in the action.
+
+Winterbyte You guys are weeds. I can’t believe you guys didn’t fall for my body double. Fabulosa What is this? Who are you? Why are you attacking us?Winterbyte It’s a battleground standard. Pretty cool, eh? I’m happy you’re enjoying it. Fabulosa Dude, why are you attacking us?Winterbyte First, I’m not a dude. Second, you already know. I’m here for the relic. You killed my warlock and took his notes, right? I hired him, so those notes are rightfully mine. Fabulosa What’s not nailed down…Winterbyte The gnolls thought I would bring the map to the chief, but I had other plans. #FakesTheThrow LOL Seriously though, you have what’s mine, and I want it.Fabulosa Am I missing something that makes you think you will live to sunset?Winterbyte I’m pretty sure you are. I’ll tell you what—If you give me the relic, I’ll let you go. Fabulosa We didn’t kill your warlock or take the relic. Winterbyte Honey, you ain’t fooling this nose. Its smell is all over you.Fabulosa We left it behind! It was cursed! Winterbyte Gimme a break. #LiesLikeAMimicFabulosa I swear we didn’t take it. Winterbyte Haha, right. How do you explain Maak’s strength bow strapped across your back? I gave him that weapon! Can you believe the ingrate tried to take the relic for himself? Never trust an NPC. I don’t know how you made it in and out of the crypt, but you obviously took it. Fabulosa We didn’t take it! Stop attacking. Can’t you detect if we’re lying or something? Winterbyte Whatever. You can live or do things your way—It’s your call, sweetie.
+
+No amount of denial convinced Winterbyte that we didn’t have her precious relic.
+
+I focused on the battle and ignored Winterbyte’s complaints.
+
+Fabulosa fought with Phantom Blade using Ignite Weapon, a perfect solution for a sustained battle. The stacking fire damage wore down the chimera. Occasionally, Fabulosa made awkward hesitations as the sword’s double image confused her rhythm, but using the chat didn’t seem to bother her.
+
+I refused to let Winterbyte draw me into the conversation. I wondered if an allies-only version of the feature would let us discuss tactics without opponents reading our messages.
+
+A cloud of locusts descended, interrupting my thoughts. Thousands of flying, buzzing, biting insects filled the area. While they inflicted minimal damage, the interference slowed our casting, and more of our attacks went awry.
+
+Bruno disengaged from the battle and focused on the swarm, gnashing and snapping at the air. His growls echoed my irritation. I didn’t like seeing him disengaged. We needed his attacks focused on the chimera.
+
+“I can’t cast Restore!” Charitybelle waved the insects away from her face.
+
+A lack of healing destabilized our situation.
+
+Things worsened after Winterbyte healed her minion with a pet-heal spell for a whopping 300 health, turning the tide of battle away from us. We all stood at half health, more or less, including the chimera.
+
+I called to my companions. “We can’t just let her cast spells like this. Are you guys okay with the chimera? Someone needs to engage her in melee to stop those pet-heals.” I also needed to be closer to cast Counterspell.
+
+“Go, go. We’re good here.” Charitybelle waved her hand. I felt confident they could take out the beast if I could stem Winterbyte’s influence.
+
+When I disengaged, I received dual Rejuvenates as going-away presents. When I reached the gnoll, I added a third to the mix, restoring me to 90 percent of my health. After I ran clear of the insects, I cast a Compression Sphere, which dispersed them. As I made my way to the gnoll, casting one last Restore on Fabulosa. If Winterbyte healed from afar, so should I.
+
+After I started my cast, a scraping sound in my mind halted my progress. A debuff appeared in my peripheral vision.
+
+Debuff
+
+Silenced
+
+You cannot cast spells from the light magic school.
+
+Duration
+
+53 seconds
+
+If I couldn’t heal, I might as well do what I originally planned—engage our enemy in melee. I evaluated the best possible approach.
+
+Without locusts in my way, I got a clearer view of Winterbyte’s perch. My shield’s True Sight effect ended, so she looked like a hulking gnoll once more, gigantic atop the 20-foot high cliff above me. I could reach her perch through a ramp.
+
+The ramp looked steep, and rock walls on either side made the route to her position predictable. More traps likely lay in wait. I didn’t even bother with a Detect Magic. I cast Imbue Weapon on Creeper and invested a little protection into Mana Shield.
+
+Winterbyte knew nothing about Slipstream since its prerequisite involved one of Forren’s blessings. When I got close enough to reach her, I swooped behind her and landed a critical attack with Creeper. I Charged during my second attack, lucked out again, and scored another critical hit. Welcome to the party, Winter!
+
+/You crit Winterbyte for 112 damage (0 resisted)./Winterbyte misses you./You crit Winterbyte with Charge for 68 damage (0 resisted)./Winterbyte bites you for 17 damage (17 resisted).
+
+Facing Winterbyte on the ledge painted quite a picturesque scene. Looming to the west stood the peaks of the Highwall Mountain Range. Our profiles silhouetted against crimson clouds and a setting sun that cast long shadows down the mountainside. Gathering clouds hung to the east, whose altitude we surpassed. Ashen ruins of the kobold camp and netted griffon rested below. Atop this precipice, the wind howled and whipped my robe in violent flourishes.
+
+My foe, twice my size, bared her teeth and flattened her ears in unmistakable acrimony. The fur contoured around her muscles, ruffling in every gust of wind. She appeared unlike the cheery gamer in the chat log, hoping to strike a bargain for the relic.
+
+Her fearsome stature made me question my decision to corner her on this ledge, but I reminded myself that we outnumbered her, and I wasn’t a slouch in melee combat. My opening attacks landed well. My first critical hit frontloaded the imbued magic, and the second brought Winterbyte to 60 percent health. Better yet, I’d interrupted her spell, and she fumbled her first counterattack.
+
+Unsurprisingly, golden ribbons of Rejuvenate whirled around her, and a transparent blue hemisphere wrapped around her from the effects of a Mana Shield.
+
+After a minute, the Silence debuff ended, and I could cast light spells again—which meant I could heal. Thus, we began our dance of attrition.
+
+Between Mana Shields and ticks of Rejuvenate, our health bars stabilized as we exchanged blows.
+
+Winterbyte’s fingers ended in sharp claws, and leather wraps fortified her thick fur. Our mana bars dropped as we fought. When hers leaped by 50 points, it felt like we entered the endgame. She had just consumed her mana potion.
+
+Minutes passed as we fought.
+
+My health dropped to double digits, but I only needed to last until Fabulosa and Charitybelle could tip the scales and kill the chimera. Winterbyte achieved a higher level, but her weak melee skills could not reliably deliver damage. My training in Belden paid off. When our mana bars dipped below 20 percent, we stopped feeding our Mana Shields and accepted the damage.
+
+Winterbyte cast a spell I recognized as Tangling Roots, an escape mechanic. She must have realized she couldn’t kill me before my friends arrived, and now she showed more interest in survival.
+
+I Counterspelled it. This player-gnoll should have left us long before summoning her pet.
+
+Winterbyte switched to casting another big heal on her pet as its health dropped to zero.
+
+I used my Cassock of Rewind’s ability to reset Counterspell and prevented her pet-heal. I imagined a second Counterspell served as quite a surprise.
+
+Soon after, the chimera disappeared. The dissipating green smoke provided an excellent visual metaphor for her traps falling apart.
+
+“What? That’s impossible.” Winterbyte’s canine voice didn’t become her, making a gruff, masculine sound. Her jowls shook, and the wind carried away drool. Her protest marked the first time she said anything outside battlefield chat.
+
+Winterbyte Come on, guys. Just give me the relic. If you don’t want it, then I’ll take it, and we can part ways. Winterbyte If you give it to me, I won’t tell anyone about your settlement. I don’t think I’m unreasonable here.
+
+An arrow slammed into Winterbyte’s lower leg. From my peripheral vision, I could see Charitybelle and Fabulosa beneath us.
+
+Fabulosa reached her open hand in the air and made a pulling gesture. “To me!” Fabulosa had struck her with the Returning Arrow.
+
+The missile pulled out of Winterbyte’s leg, almost jerking Winterbyte off the ledge, and flew into Fabulosa’s fingers.
+
+Winterbyte yelped as the missile retraced its flight path into Fabulosa’s grasp.
+
+Fabulosa, who looked feral herself, snarled as she nocked it into her bow and drew the string back for a second shot.
+
+I downed a health potion to make sure I’d avoid any surprises and held my ground.
+
+Charitybelle finished casting a Restore on me, leaving me with much more health than Winterbyte for the first time in battle. I felt safe with the tide turning in our favor. When my companions emptied their mana, I checked my reserves. I had the same amount as Winterbyte—31 mana.
+
+Winterbyte I see you found my bow and arrow. Winterbyte They’ve seen a few battles. Thank you for returning them. Could you send the arrow my way once more? Pretty please!
+
+The chatty gnoll backed away along a narrow ledge, but I couldn’t understand how Winterbyte kept her cool. The precarious ledge endangered her more because of her size, and she had trapped herself between me and the ramp—where my oncoming companions would soon reach her. Her low health meant any fall would knock her out of the game. When Winterbyte pulled out a vial of liquid capped with a green mouse, her jowls pulled into a canine grin.
+
+Fabulosa launched her arrow as Winterbyte sucked down the potion—instantly shrinking to the size of a small doll. Fabulosa’s shot missed and lodged into the hillside. When she made the pulling gesture, the missile remained unmoved. Its recall ability depended on scoring a hit.
+
+Fabulosa put away her bow and charged toward the ramp, and Charitybelle followed.
+
+I saw an opportunity to end this quickly and used the battleground chat. It worked faster than speech and risked no chance that the howling winds drowned out my instructions.
+
+Apache I have an idea. You guys wait down there. Winterbyte closes battleground channel.
+
+The battle channel might have been useful in negotiations, but it served Winterbyte no further purpose. It was only a matter of time before we used it to coordinate against its owner. My allies remained below us, waiting for my next move.
+
+I cast Compression Sphere. The two-second spell consumed the last of my mana and would launch the shrunk version of Winterbyte into the air and down to my waiting companions. They’d finish her off if the falling damage didn’t.
+
+By the time I finished my cast, Winterbyte had ballooned to her original size. Of course, she’d recognized Compression Sphere and knew a larger mass countered its effect. The explosion achieved nothing but ruffling her coat of hair.
+
+I cursed at my empty mana pool. Fighting against contestants maddened me, for players possessed so many counters it became impossible to maintain any game plan.
+
+Fabulosa jumped into action. “C’mon, C-Belle. Let’s go save your boyfriend.”
+
+Charitybelle ran after her up the ramp. Once Fabulosa reached melee range, she’d open with a Shield Bash—assuming it affected creatures as big as a gnoll. We’d soon see how our opponent liked having enemies at her hairy tail.
+
+After Winterbyte resized to full height, she grabbed the Returning Arrow with a smirk. She yanked it out of the dirt, reclaiming the weapon.
+
+Her confidence made no sense. What could an arrow do without a bow? And with only a sliver of health, I trapped her between me and my companions on the ramp.
+
+But the thought of Winterbyte having nowhere to run set off warning bells.
+
+The combat log reported a rune that triggered a Compression Sphere. It exploded beneath timber scavenged from the kobold camp. Winterbyte had camouflaged the debris against a boulder teetering at the top of the ramp. The shockwave dislodged the wood supporting the boulder, which tumbled down the incline, forming a giant deadfall trap.
+
+My companions on the ramp had nowhere to dodge.
+
+I received a notification that a follower of Forren had recently received the blessing of Hot Air. As of today, our settlement earned 1001 favor points. Charitybelle spent it in the nick of time. Fabulosa rose into the air as the boulder rolled beneath her.
+
+A notification in my interface announced my promotion to the governor of Hawkhurst.
+
+A familiar hawk sprang into the air and flew away, and a badger scurried down the ramp past the boulder that had settled in the underbrush.
+
+Charitybelle hadn’t evaded the trap.
+
+I dismissed other notifications. Though tears blurred my vision, I lunged toward the retreating gnoll. The boulder’s empty perch revealed a precipitous escape route around the other side of the mountain, down which Winterbyte ran headlong on all fours. Her speed and the slope’s steep decline thwarted thoughts of pursuit.
+
+I looked for ways someone on two legs could climb down and saw none.
+
+By the time Fabulosa floated back to the ramp, Winterbyte had fled from our view. My interface showed no enemy within our range, and combat ended.
+
+Fabulosa and I avoided eye contact. I felt along the ledge to peer down the ramp, hoping to see Charitybelle curled up against the side, perhaps nursing a wound. I expected to see her smiling and giving me a thumbs-up gesture. Her hammer, shield, and banded armor leaned against a dusty pile of equipment.
+
+Fabulosa collapsed to her knees and buried her face in her hands. “Why did she do that? She could have saved herself, but she saved me instead.”
+
+Going down the ramp and comforting her would have meant facing the rest of this game without my girlfriend. I needed a quiet place to absorb the loss.
+
+Weapons dropped from my fingers, and I climbed the slow rise to the mountaintop.
+
+Fabulosa stared at the ground, saying nothing.
+
+My climb wasn’t long, steep, or strenuous, but the numbness of shock gave the ascent a dreamlike feel. As I plodded my way to the summit, the sky’s hues deepened to the purple hues of Tarnen. Its narrow crescent hung as the only celestial object in the approaching night.
+
+I came upon a tangled thatch of branches and tree limbs. The giant nest held motionless bodies of griffon chicks. Their mother lay somewhere below, beneath a kobold’s net.
+
+Killing adult griffons meant starving their young. This game missed no opportunities to be cruel. The Book of Dungeons wasn’t a fantasy vacation filled with escapism. The reality that Miros offered seemed as bleak and ruthless as life on Earth had ever been.
+
+As I settled inside the nest, it embraced me like a vacant womb—a crib where I could hide from the ravages of life. One hatchling stirred at my feet, fighting to stay alive.
+
+Charitybelle loved animals.
+
+I poured water into my cupped hand and lowered it to the griffon’s tiny beak. As it drank, I watched its chest rise and fall. I spent my only power point on Familiar and invited the tiny thing to become my pet.
+
+The chick accepted and drank its fill.
+
+When it finished, I cradled it in my hands. The time to mourn had come. Grief, the price we paid for love, claimed its due. I hung my head and wept. I wept at our failure, for my lost girlfriend, and over all the plans we made.
+
+The story continues in The Book of Dungeons 3—Dark Reflections
