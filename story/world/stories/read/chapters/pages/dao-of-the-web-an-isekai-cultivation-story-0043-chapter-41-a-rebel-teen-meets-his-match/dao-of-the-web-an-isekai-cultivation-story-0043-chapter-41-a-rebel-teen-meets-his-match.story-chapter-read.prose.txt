@@ -1,0 +1,163 @@
+After the small break to wash away his stress, and the rush of relaxation from the ‘cultivation’ session, Yung started organizing the notes from what he’d gathered. He then created a basic flowchart for what his newly devised token would do.
+
+In the jade slip's, in other words, the jade scroll token's mechanism, there were functions that could read the user's qi, translate it into words, sounds, and images, and then store it. In the light transmission token's working, one could send stored 'light' to another token. Which the recipient could view like a floating window in front of their eyes. And again back to jade slips, people could modify already stored knowledge with their qi, adding or removing content. The Youjin clan used the same technique to edit the sound capture. A spiritual non-linear media editor.
+
+Combining all this, the token would send 'symbols' within a particular 'light construct', a graphical spiritual user interface, to the receiver side, who could then interact with this 'light construct' to send 'symbols' back.
+
+The algorithm Yung could assemble right now was limited by the runes and arrays he was proficient in. But he could create a user authentication algorithm like OAuth 2.0 with the spiritual imprint mechanism. He could also make a very basic XMPP or WebSocket with the isolated arrays, or ‘functions’, he’d noted down.
+
+He had no idea how to encrypt the messages as of yet, but that could be left for the future. He had plans to spelunk through the complete Youjin repository and, if push came to shove, pillow talk Nyanya. He was her gigolo after all.
+
+Message delivery was straightforward. Yung could modify basic components of the ‘transmission’ mechanism to act like any of the basic transfer protocols.
+
+He modified the flowchart. With the resources on hand and his limited knowledge of formations, it seemed doable at least. He didn’t want to share algorithmic knowledge with this world just yet. As with his past life memories, he wasn’t ready. Neither was the world.
+
+Hours passed.
+
+With a deep inhale, Yung wrote down the words,
+
+“Chat token.”
+
+And circled it. Yung thought briefly, then stroke through the ‘Chat’ part.
+
+“Messenger token.”
+
+People here didn’t know what ‘chat’ meant. It was better to use ubiquitous language.
+
+It still doesn’t feel right, though, this name….
+
+"Kii!"
+
+Ah, no, ChattyFox sounds strange…
+
+"Kyun!"
+
+It’s something a vixen would do? Who taught you that?!
+
+"In our infinite grace," Su Nanya's demure tone broke Yung out of his intense debate with Silky, "we believe we understand what you wish to do, oh rebellious servant so dear to us." She said. She lazed on a fluffy mattress as Yung had gone to work, being fanned by her bored maid. "This… Messenger token… It is not for the fiend hunt nor for harvesting Heart qi. You wish to propagate it to the illiterate commoners, to disrupt our traditions and rules."
+
+Yung stopped writing, freezing in his tracks. Su Nanya watched him with an impassive look on her face, all her flirtiness gone.
+
+“Why?” She asked. Her tails moved gently, but her eyes were sharp.
+
+She expected an honest reply. And Yung would give one.
+
+He sighed, "I thought you were a bumbling bimbo with how insecure you were recently. I'm shocked. No, really, stop scowling! I am praising you here."
+
+“Unsavoury scum of cancerous morals!”
+
+“Unsavoury? That’s not what you said when we kissed—Okay, no need to scratch! Ouch!” Yung pushed the feral fox away to the best of his scrawny abilities before shouting out like an internet pirate, “Freedom! It’s for freedom of speech!”
+
+“Explain. Maid, dare you smirk behind your fan? You shall leave.”
+
+“Tsk.”
+
+"How utterly unladylike. Begone, sower of discord, we bid you to depart from our presence!"
+
+“I’m telling the matriarch.”
+
+Yung sat straight, his arms clutched in Su Nanya's firm grip. He watched Su Yafeng vanish again with an azure gust, and grimaced.
+
+“Have you gone to the slums?” He asked the vixen.
+
+Su Nanya shook her head with disdain, “Why would we subject ourselves to such ungodly stenches? But we do suppose it is a slum no longer.”
+
+"The Youjin clan and the Free Sparrow gang certainly did change the situation drastically. The material side at least."
+
+“Are you not satisfied, you oh so covetous lupine?”
+
+“All I am saying is, perhaps if people could have a space where they can speak their minds without the threat of getting killed, then that would be amazing. To rid the non-material, existentially spiritual ‘stenches’ that plague… yaoren.”
+
+"What good could possibly come in letting the unlettered, gossipy commoners freely share their lopsided beliefs?"
+
+“Look, Nyanya—”
+
+“We shall not look. Do you wish to rebel against our fox clan?” Su Nanya cupped Yung’s cheeks, then stretched them, kneading one side up and one side down as she growled—menacingly—with her adorable fangs.
+
+Yung took a double turn, “Rebel? Where’d that come from?”
+
+"These…. Messenger tokens, as you call them. We have seen them before implemented as secret communication channels for the ill-tutored peasantry. They gossip their complaints towards the monarchs like the cowardly vermins they are. Then organize into plagued nests before striking at our soft underbelly with their unrighteous evil!"
+
+Yung gulped, “Your underbelly really is quite soft.”
+
+"We thank you." Su Nanya preened at the touch, then said, "Though indeed, we find it peculiar. If this covert communication is designed for the insurgent commonfolk, why, then, is it necessitated to employ written words? The majority of these future rebels, particularly the vast numbers, are devoid of education."
+
+“Because it isn’t meant for rebels!” Yung said with a tired groan.
+
+Su Nanya's words made sense though. Since this token technology was nothing new, people might have used contraband versions of it to share their discontent with the ruling class in the past. As a member of the ultimate authoritarian regime, Su Nanya would undoubtedly have nothing to praise about such 'freedoms.'
+
+Then maybe in case of anonymity, if everyone could—
+
+Yung had an epiphany, and crossed out the ‘Messenger’ word and wrote down the new name. Su Nanya looked over his shoulder, the sweet fragrance tickling Yung’s nostrils.
+
+“Message board token?” Said the vixen. “How is such a name bifurcated from the previous?”
+
+"For there to be true freedom of speech, people need the option to hide their identity. But for such a case, I plan to make what people share, and have shared in the past—their ‘post’ history— viewable for all. A 'freedom of information', if you will."
+
+“Truly? Rebels wouldn’t like that. Then what if these probable insurgents, mayhap they choose to not remain under the shadows. Would secrecy be permitted for such gossipers?”
+
+"Again, this isn't for rebels! But normal folks. And I don't know… I haven't thought that far yet. But all I know is that if I can actually do this, then maybe the most common thing they'll talk about using the message board token is how cool my Nyanya is, and how sexy her butt is."
+
+"Verily, we hold your words as utmost appreciative. But are you perchance jesting, we wonder?"
+
+Yung pretended to be surprised, “How did you find out?”
+
+Su Nanya pouted and pinched his cheeks again, "Do not insult our wise mind. Dare you do it once more and suffer our super fierce fury, simpleton of unbound rudeness. We shall punish you."
+
+Yung smiled and spoke through his stretched cheeks, "Okay, I give. No, why did you stop? I don't think I was punished enough."
+
+“…”
+
+"A-Ahem. Actually, I do plan to implement one-on-one correspondence. That's what 'chatting' is. But that won't be the main feature. People will share their thoughts in the virtual 'safe space' I am trying to create with this thingy, which everyone holding a message board token can see, comment, debate, and critique on. Again to the previous point. I guess I can make two options? One for the user to share their thoughts with their true identity—need a way to validate and verify that though—and one where it is absolutely anonymous.”
+
+“Aha! Rebel!”
+
+"If everyone can see how rebels organize, then I guess they'll have a tough time doing what they do best," Yung said, poking Su Nanya's pudding-like thigh. "Poking soft underbellies."
+
+"And you plan to implement this from the very beginning?" The vixen flushed; her thighs were more sensitive to strokes than pokes.
+
+Yung thought some more, and crossed out the name again. “Let’s just call it a communicator token. Or just ‘Communicator.’"
+
+“But you stated you would enact a…a… private…. Correspondence too— ahn! Mmph! Stop it; your lust disgusts us!" Su Nanya clawed Yung's hand, which had been reaching down her skirt, and whooshed away. "N-Not there! You are no longer permitted."
+
+“Nanya….” For once, Yung was shocked. The reaction had been fast and violent. He looked at his bleeding hand with a pale face. “I thought—”
+
+"Not there!" Su Nanya screamed, "We… are not ready. We…" She tiptoed to him, grasping his slashed hand with a guilty look. "We didn't mean for this to happen." She opened wide, her long, pink tongue slithering out and licking Yung's wounded skin.
+
+It glided delicately across Yung's wounds, and he could only observe in a trance as it coiled like a serpent, lapping over his injured skin before retracting. The sensation, cool and feathery, caused a peculiar tingling throughout his body, barely registering in his shocked mind before the wounds healed instantly. Su Nanya's lips stained a deep cherry red with blood, and she closed her golden eyes, facing down in guilt.
+
+The spectacle was more erotic than horrifying, Yung admitted to himself with a strange kinky shame. Akin to a lover, after lovemaking, savouring the taste of her own sweet-sour saliva, perhaps too, with every lick of a lollipop by the bedside. The act, which seemed perpetual in its bloody consequences, was paradoxically intimate and playful even as the vixen made herself as small as possible.
+
+“I’m sorry,” Yung said, “I thought...”
+
+Su Nanya took Yung's hand and put it on her head, "We are not ready…."
+
+You aren’t. Yung thought. He felt guilty assuming he could do whatever he wanted with her now that they were in this unclear ‘relationship.’ She dressed invitingly and flirted for fun. But she was a person, not a thing. They would have to talk more, and set better boundaries, and express their own needs without lies. “We’ll take it slow.”
+
+Su Nanya nodded, “We express regret… we—”
+
+“We’ll take it as slow as you need. But Nyanya, violence isn’t good.”
+
+“We didn’t!… mean…to.”
+
+“I know. I overstepped too. But this is this, and that is that.”
+
+The two talked in quiet whispers, bodies glued together as each confessed their sins. As each forgave and vowed. Long into the day and deep into the night, the communicator thrown to the back of their minds.
+
+***
+
+After a few days of back and forth with the Free Sparrow gang, Dark Star mercenaries, and the Youjin clan, a satisfactory agreement about the improved transmission tokens was reached.
+
+Today, Yung was back to tinkering with the communicator token, trying to get it to work like a bare-bones version of Reddit, without the abusive powermods and a dollar-hungry CEO of course.
+
+They were in Yung’s personal jade slip workshop.
+
+He had skipped lunch as the work flowed, and Su Nanya was stretching her dainty limbs with an assortment of artefacts in front of her.
+
+Fashioned in the likeness of a cauldron was a round silver bucket, dull yet detailed with intricate motifs around its rim. It radiated a soft, welcoming luminescence, akin to an enchanted hearth when a flame pirouetted within. Nearby, a petite iron pot basked in the playful flickers of its own orange light like a firefly. Lining the area on top of the counter the vixen had appropriated for her own use were glass jars filled with a rainbow assortment of herbs, sauces, and powders exuding an alluring aura, their vibrant spectrum contributing to the undercurrent of mystique in the romantically lit space.
+
+As the lids of the jars were opened, the strong aroma of spice whiffed out; some were numbing, some hot and chilly, adding to the passionate ambience of the room. The fragrance was multiplied infinitely by the intense and delicious qi that radiated from each magical condiment.
+
+Why all this?
+
+“We shall cook!” So the vixen had said, making her maid cook.
