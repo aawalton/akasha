@@ -37,6 +37,8 @@ function readingKey(): Promise<HandoverKey> {
 
 export const CHALLENGE_CLAIM = "challenge"
 
+export const LOOK_CLAIM = "look"
+
 const BYTES = new TextEncoder()
 
 export async function challengeFor(verifier: string): Promise<string> {
@@ -47,6 +49,7 @@ type CodeAsked = {
   readonly audience: string
   readonly contributor: string
   readonly challenge: string | null
+  readonly look?: boolean
 }
 
 type CodeShown = {
@@ -57,7 +60,10 @@ type CodeShown = {
 
 export async function handoverCodeFor(asked: CodeAsked): Promise<string> {
   const now = secondsNow()
-  const bound: JWTPayload = asked.challenge === null ? {} : { [CHALLENGE_CLAIM]: asked.challenge }
+  const bound: JWTPayload = {
+    ...(asked.challenge === null ? {} : { [CHALLENGE_CLAIM]: asked.challenge }),
+    ...(asked.look === true ? { [LOOK_CLAIM]: true } : {}),
+  }
   return await new SignJWT(bound)
     .setProtectedHeader({ alg: HANDOVER_ALG, typ: "JWT" })
     .setIssuer(HANDOVER_ISSUER)
@@ -77,7 +83,22 @@ async function bindingHolds(claimed: unknown, verifier: string | null): Promise<
   return (await challengeFor(verifier)) === challenge
 }
 
+type Handed = {
+  readonly contributor: string
+  readonly look: boolean
+}
+
 export async function contributorInCode(shown: CodeShown): Promise<string | null> {
+  const handed = await handedInCode(shown)
+  if (handed === null) return null
+  if (handed.look) {
+    console.error("a code signing a browser in only to look signs nobody in here")
+    return null
+  }
+  return handed.contributor
+}
+
+export async function handedInCode(shown: CodeShown): Promise<Handed | null> {
   try {
     const read = await jwtVerify(shown.code, await readingKey(), {
       algorithms: [HANDOVER_ALG],
@@ -95,7 +116,9 @@ export async function contributorInCode(shown: CodeShown): Promise<string | null
     if (expiresAt - issuedAt > CODE_SECONDS_CEILING) return null
     if (expiresAt - secondsNow() > CODE_SECONDS_CEILING) return null
     if (!(await bindingHolds(claims[CHALLENGE_CLAIM], shown.verifier))) return null
-    return textIn(claims.sub)
+    const contributor = textIn(claims.sub)
+    if (contributor === null) return null
+    return { contributor, look: claims[LOOK_CLAIM] === true }
   } catch (thrown) {
     const why = thrown instanceof Error ? thrown.message : String(thrown)
     console.error(`a handover code would not read: ${why}`)

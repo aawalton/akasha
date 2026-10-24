@@ -44,7 +44,15 @@ export const handoverCode = {
       decisionKind: "decision-kind/departure",
       statement: "One reader answers every code, and the hash is weighed where the signature is.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A code may say the browser it signs in only looks.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A code saying so names nobody to a reader taking the contributor alone.",
+    },
   ],
   createdAt: "2026-09-19T20:03:30.924Z",
-  updatedAt: "2026-09-20T01:54:09.000Z",
+  updatedAt: "2026-10-24T21:41:24.795Z",
 } as const satisfies Module

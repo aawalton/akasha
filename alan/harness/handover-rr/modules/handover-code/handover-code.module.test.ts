@@ -6,7 +6,9 @@ import {
   challengeFor,
   contributorInCode,
   HANDOVER_ISSUER,
+  handedInCode,
   handoverCodeFor,
+  LOOK_CLAIM,
 } from "akasha/alan/harness/handover-rr/modules/handover-code/handover-code.module.code.ts"
 import { decodeJwt, exportPKCS8, exportSPKI, generateKeyPair } from "jose"
 
@@ -97,4 +99,39 @@ test("a code for the app reads as nobody at another audience", async () => {
   expect(await contributorInCode({ code, audience: ANOTHER_AUDIENCE, verifier: A_VERIFIER })).toBe(
     null
   )
+})
+
+test("a code to look only carries the look claim and reads as looking", async () => {
+  const challenge = await challengeFor(A_VERIFIER)
+  const code = await handoverCodeFor({
+    audience: AUDIENCE,
+    contributor: CONTRIBUTOR,
+    challenge,
+    look: true,
+  })
+  expect(decodeJwt(code)[LOOK_CLAIM]).toBe(true)
+  expect(await handedInCode({ code, audience: AUDIENCE, verifier: A_VERIFIER })).toEqual({
+    contributor: CONTRIBUTOR,
+    look: true,
+  })
+})
+
+test("a code not said to look only reads as more than looking", async () => {
+  const challenge = await challengeFor(A_VERIFIER)
+  const code = await handoverCodeFor({ audience: AUDIENCE, contributor: CONTRIBUTOR, challenge })
+  expect(decodeJwt(code)[LOOK_CLAIM]).toBeUndefined()
+  expect(await handedInCode({ code, audience: AUDIENCE, verifier: A_VERIFIER })).toEqual({
+    contributor: CONTRIBUTOR,
+    look: false,
+  })
+})
+
+test("a code to look only names nobody to a reader of the contributor alone", async () => {
+  const code = await handoverCodeFor({
+    audience: ANOTHER_AUDIENCE,
+    contributor: CONTRIBUTOR,
+    challenge: null,
+    look: true,
+  })
+  expect(await contributorInCode({ code, audience: ANOTHER_AUDIENCE, verifier: null })).toBe(null)
 })
