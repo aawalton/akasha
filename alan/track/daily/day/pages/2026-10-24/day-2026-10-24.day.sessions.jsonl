@@ -1,5 +1,4 @@
 {"id":"01a16b86-3647-7966-bafb-947e76f6b339","title":"Sleep","startedAt":"2026-10-24T01:28:00.000Z","dailyTracking":"01a16d5a-612e-7000-86b8-ee02653a1f27","endedAt":"2026-10-24T10:30:00.000Z","safetyLevel":"1","difficultyLevel":"0"}
 {"id":"01a16d77-a9b2-7f1b-8ae4-859e07bbe6ed","title":"Read","startedAt":"2026-10-24T10:30:00.000Z","dailyTracking":"01a16d5a-612e-7000-86b8-ee02653a1f27","endedAt":"2026-10-24T10:55:00.000Z","safetyLevel":"0","difficultyLevel":"1"}
 {"id":"01a16d8d-a956-7f66-9865-5f3616c83e66","title":"Read","startedAt":"2026-10-24T10:55:00.000Z","dailyTracking":"01a16d5a-612e-7000-86b8-ee02653a1f27","endedAt":"2026-10-24T11:33:00.000Z","safetyLevel":"1","difficultyLevel":"1"}
-{"id":"01a16db0-276f-782d-9898-aa17fccb6783","title":"Rest","startedAt":"2026-10-24T11:33:00.000Z","dailyTracking":"01a16d5a-612e-7000-86b8-ee02653a1f27","safetyLevel":"1","difficultyLevel":"2","endedAt":"2026-10-24T11:43:00.000Z"}
-{"id":"01a16db9-56f8-72e8-89fc-09efa99fd6ca","title":"Read","startedAt":"2026-10-24T11:43:00.000Z","dailyTracking":"01a16d5a-612e-7000-86b8-ee02653a1f27","safetyLevel":"1","difficultyLevel":"1"}
+{"id":"01a16db0-276f-782d-9898-aa17fccb6783","title":"Rest","startedAt":"2026-10-24T11:33:00.000Z","dailyTracking":"01a16d5a-612e-7000-86b8-ee02653a1f27","safetyLevel":"1","difficultyLevel":"2"}
