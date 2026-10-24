@@ -11,9 +11,9 @@ import {
   heldNow,
   heldWhile,
   holdAt,
-  type Onward,
   saidOfCarried,
   saidOfNoHold,
+  type Waits,
 } from "akasha/command/pages/deploy/modules/holding/deploy-holding.module.code.ts"
 import { taken } from "akasha/git/modules/holding/holding.module.code.ts"
 
@@ -29,7 +29,7 @@ const WENT_UP: Answer = { report: ["up\tone"], refusals: [], code: OK }
 
 const REFUSED: Answer = { report: [], refusals: ["kubectl apply exited 1"], code: OPERATIONAL }
 
-const nothing: Onward = () => undefined
+const UNWATCHED: Waits = { behind: () => undefined, onward: () => undefined }
 
 function swept(slug: string): string {
   const at = holdAt(ROOT, slug) as string
@@ -55,7 +55,7 @@ function heldAt(
   made: string[],
   answer: Answer,
   until: Promise<undefined> = Promise.resolve(undefined),
-  onward: Onward = nothing
+  waits: Waits = UNWATCHED
 ): Promise<Held> {
   return heldWhile(
     ROOT,
@@ -67,7 +67,7 @@ function heldAt(
       await until
       return answer
     },
-    onward,
+    waits,
     FAST
   )
 }
@@ -178,21 +178,28 @@ test("a refusal of the deploy a call arrived during is not that call's answer", 
   swept(slug)
 })
 
-test("a waiting deploy counts its ceiling afresh as the hold passes on", async () => {
+test("a waiting deploy is told who it waits behind, then counts afresh as it takes the hold", async () => {
   const slug = "deploy-holding-test-seven"
   swept(slug)
   const running = gate()
-  let counted = 0
-  const onward: Onward = () => {
-    counted += 1
-    return undefined
+  const told: string[] = []
+  const waits: Waits = {
+    behind: (holder) => {
+      told.push(`behind ${holder}`)
+      return undefined
+    },
+    onward: () => {
+      told.push("onward")
+      return undefined
+    },
   }
   const first = heldAt(slug, "c1", [], WENT_UP, running.passed)
-  const second = heldAt(slug, "c2", [], WENT_UP, Promise.resolve(undefined), onward)
+  const second = heldAt(slug, "c2", [], WENT_UP, Promise.resolve(undefined), waits)
   await Bun.sleep(FAST * 4)
+  expect(told).toEqual([`behind ${process.pid}`])
   running.open()
   await Promise.all([first, second])
-  expect(counted).toBe(2)
+  expect(told).toEqual([`behind ${process.pid}`, "onward"])
   swept(slug)
 })
 

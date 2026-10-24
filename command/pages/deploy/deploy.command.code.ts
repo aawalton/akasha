@@ -20,8 +20,8 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
 import {
-  allowedAgain,
   allowedThrough,
+  setAside,
 } from "akasha/command/modules/stopping/command-stopping.module.code.ts"
 import { deploy as page } from "akasha/command/pages/deploy/deploy.command.ts"
 import {
@@ -57,7 +57,10 @@ import {
   touchedIn,
   unionOf,
 } from "akasha/command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"
-import { heldWhile } from "akasha/command/pages/deploy/modules/holding/deploy-holding.module.code.ts"
+import {
+  heldWhile,
+  type Waits,
+} from "akasha/command/pages/deploy/modules/holding/deploy-holding.module.code.ts"
 import { iosAppInstalled } from "akasha/command/pages/deploy/modules/ios-installing/deploy-ios-installing.module.code.ts"
 import {
   putUpFrom,
@@ -187,6 +190,21 @@ async function deployInCluster(
   return tagged.refusals.length > 0 ? answeredWith(said, tagged.refusals, OPERATIONAL) : told(said)
 }
 
+function waitsFor(calledAs: string): Waits {
+  let counted: (() => undefined) | null = null
+  return {
+    behind: () => {
+      counted ??= setAside(page.maxWallSeconds, calledAs)
+      return undefined
+    },
+    onward: () => {
+      counted?.()
+      counted = null
+      return undefined
+    },
+  }
+}
+
 export async function deploy(
   argv: readonly string[],
   given: Given,
@@ -219,7 +237,7 @@ export async function deploy(
     return await iosAppInstalled(slug, given, arrived, wanted.device)
   }
   const follows = wanted.ref === null
-  const onward = () => allowedAgain(page.maxWallSeconds, given.calledAs)
+  const waits = waitsFor(given.calledAs)
   if (sentToCluster(read.kind, slug)) {
     const away = await heldWhile(
       given.root,
@@ -227,7 +245,7 @@ export async function deploy(
       arrived,
       follows,
       (commit) => deployInCluster(slug, commit, given, dispatching),
-      onward
+      waits
     )
     return "refused" in away ? refused(away.refused, OPERATIONAL) : away.value
   }
@@ -238,7 +256,7 @@ export async function deploy(
     arrived,
     follows,
     (commit) => deployHeld(read, slug, commit, wanted, given, putting, recording),
-    onward
+    waits
   )
   return "refused" in alone ? refused(alone.refused, OPERATIONAL) : alone.value
 }

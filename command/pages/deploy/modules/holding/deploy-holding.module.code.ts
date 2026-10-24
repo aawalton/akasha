@@ -50,9 +50,12 @@ type Finished = {
 
 export type Held = { readonly value: Answer } | { readonly refused: string }
 
-export type Onward = () => undefined
+export type Waits = {
+  readonly behind: (holder: number) => undefined
+  readonly onward: () => undefined
+}
 
-const nothing: Onward = () => undefined
+const UNWATCHED: Waits = { behind: () => undefined, onward: () => undefined }
 
 export function holdAt(root: string, slug: string): string | null {
   const dir = gitDirIn(root)
@@ -152,7 +155,7 @@ export async function heldWhile(
   arrived: string,
   follows: boolean,
   act: (commit: string) => Promise<Answer>,
-  onward: Onward = nothing,
+  waits: Waits = UNWATCHED,
   waited: number = WAITED
 ): Promise<Held> {
   const at = holdAt(root, slug)
@@ -179,7 +182,7 @@ export async function heldWhile(
       try {
         const late = waiting ? sharedWith(arrival) : null
         if (late !== null) return { value: late }
-        if (waiting) onward()
+        if (waiting) waits.onward()
         const took = Date.now()
         const commit = follows ? (commitAt(root, null) ?? arrived) : arrived
         const answer = await act(commit)
@@ -196,9 +199,10 @@ export async function heldWhile(
     waiting = true
     const mark = markIn(at)
     if (!abandoned(at)) {
-      if (mark !== seen && holderOf(mark) !== null) {
+      const holder = mark === seen ? null : holderOf(mark)
+      if (holder !== null) {
         seen = mark
-        onward()
+        waits.behind(holder.pid)
       }
       await Bun.sleep(waited)
     } else if (!cleared(at, mark)) {

@@ -88,8 +88,16 @@ export const deployHolding = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A waiting deploy counts no ceiling while a live process keeps the hold.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A waiting deploy counts its ceiling afresh when it takes the hold.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
-        "A waiting deploy counts its ceiling afresh when the hold changes hands and when it takes the hold.",
+        "A waiting deploy is told the process it waits behind each time the hold changes hands.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -113,5 +121,5 @@ export const deployHolding = {
     },
   ],
   createdAt: "2026-09-12T12:17:43.974Z",
-  updatedAt: "2026-09-25T13:22:59.000Z",
+  updatedAt: "2026-10-24T21:55:57.951Z",
 } as const satisfies Module
