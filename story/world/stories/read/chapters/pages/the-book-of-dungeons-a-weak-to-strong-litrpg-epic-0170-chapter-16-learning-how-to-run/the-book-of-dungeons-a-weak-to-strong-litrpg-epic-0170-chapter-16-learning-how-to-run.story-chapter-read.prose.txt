@@ -1,0 +1,147 @@
+After Hawkhurst completed its fourth roundhouse, Ally and I made weapons training mandatory for its citizens. Workers rotated twice a week into introductory courses, similar to what we studied in Belden. Despite the drop in productivity, seeing townspeople devote themselves to something besides work felt like we’d crossed the threshold of civilization. While no time spent beneath Dino’s supervision counted as leisure time, a specialization in something other than subsistence felt like forward progress. Plus, using the battle college validated my decision to invest the arc weaver’s core into it.
+
+We began training after our morale increased from the thirties to the mid-forties. For each roundhouse, the town’s comfort rating jumped by 5 percent. The Arlington folk’s health improved, as we expected. Once our rustic little town stabilized, economic and military strength would become our goals.
+
+More flowerbeds ringed the new roundhouses. Charitybelle’s efforts to raise spirits became infectious, and anything not decorated seemed out of place. Workers incorporated carving and staining wood, landscaping, and gardening to accent buildings in off-hours, and Forren’s fertility buff quickly made the flowers blossom and bloom. While flora gave us a civilized appearance, they didn’t budge our cultural index. People planted them everywhere except Hawkhurst Rock, which bore no topsoil.
+
+While our morale improved, our efficiency rating dipped because it considered the average worker’s skill levels. The dwarves worked at a rating of 120 percent, but the influx of humans had dropped it to 77. It rose only 1 percent every few days as the humans grew more skilled. While skills acquisition continuously increased, so would the rate of improvement slow down. No one expected the halcyon days of 120 percent efficiency ever to return.
+
+After projecting several weeks of our town’s morale and worker improvement, I discovered our efficiency would level off at 55 percent. The number fell half that from our plateau during the days when we inflated our morale with parties, but that was alright, as we’d taken on many more citizens.
+
+Ally and Greenie polled the new workers, learning that humans preferred to work in agriculture, which left many free for construction. Murdina remained the only dwarf in an agricultural slot. She spent her days singing and talking to the sheep and torodons, treating them like pets rather than livestock—which worked fine for the town since our meat came from hunting.
+
+Create Building
+
+Manor (tier 2)
+
+Description
+
+Governmental Structure and Officer Residence +2 percent cultureProvides offices, a meeting room, and three private residences for the governor, lieutenant governor, and one other officer. Unlocks tier 3 structures and upgrades to a great hall. Religious Bonus free fireplace (from Forren)Settlement Bonus free Orrery (from Amphibious)
+
+Details
+
+Structural Points 100Location 0.3, -15.2
+
+Materials
+
+Lumber 600 boardsTimber 200 battensTrees 24 logsStone 60 blocksPlaster 600 poundsBricks 6000Fireplaces 4
+
+Build Estimate
+
+12.1 days with 35 workers at 39 percent efficiency
+
+Core Bonus
+
+None
+
+Assigning twenty people to farm and thirty to train left only 35 for a construction crew. According to my projections, the manor’s construction estimate amounted to twelve days, which seemed reasonable. It became our first structure to use plaster, and the dwarves promised they could make it from clay deposits I unearthed after a few casts of Dig.
+
+A free orrery counted among the manor’s many bounties, courtesy of our settlement’s tier-2 mandate, Amphibious. I didn’t know what to make of an orrery since I’d never seen one outside a fantasy film. Arlington used theirs to schedule oceangoing charters and gambling, neither of which applied to our settlement. Its free cost counterbalanced its near-uselessness, aside from helping our cultural rating.
+
+The manor’s construction became typical in every way except location. After seeing Greenie’s blueprints, I decided it should be the first structure placed on Hawkhurst Rock. I picked a site on the southwest corner, overlooking the river and Otter Lake, giving the governor’s residence an indulgent view. Since Hawkhurst Rock already rose three stories above the water’s edge, defensive walls wouldn’t obstruct the manor’s southern or eastern exposure.
+
+The influx of citizens enrolling in the battle college ended my day-long private lessons, but I practiced during the general classes. I’d mastered switching my points and moved to leaping exercises Dino called sautes.
+
+Dino considered jumping to be an emergency maneuver. “There are moments when practiced footwork fails. When losing one’s balance, the practiced soldier lands—not falls—at their opponent’s feet.”
+
+Before I could ask for clarification between falling and landing, Dino demonstrated a drop and roll maneuver. He spun across the ground, ending in an extended arm low enough to hobble nearby attackers.
+
+“An ankle strike can pivot the dialog to your favor, you see?” Dino performed several drops and swipes. Anyone flatfooted enough would become hobbled. I’d learned enough about footwork to know that ankle injuries counted for critical hits.
+
+Dino tapped my foot for emphasis. “Ankle shots prelude the moment of conclusion, you know.” I inwardly smirked at Dino’s euphemism. The moment of conclusion amounted to a fatal blow or when someone couldn’t continue fighting.
+
+After mastering jumping, rolls, and landing maneuvers, I learned to spot positional tells. Dino’s teaching focused on taking advantage of opponents who broadcasted their intentions. I became engrossed in tells because this felt more like combat and less like dancing. Recognizing postures told me how long I had to dodge and from what angle an attack came.
+
+Identifying tells also helped me to mask my intentions. This last bit took many weeks of practice, but it made a big difference—even in sparring.
+
+I pulled away from Fabulosa in practice duels for the first time. Like RIP, Fabulosa had always been a natural fighter. Fighting forms became my way of keeping competitive with their raw footwork, opening opportunities for attacks and blocks. Stances optimized weapons, but they boxed me into predictable, artificial, conditional patterns. Moving in and out of them with fluidity surpassed natural talent.
+
+We always sparred with boffers. Fabulosa faced someone who always fought with optimized advantages, and I bested her nine times out of ten.
+
+Fabulosa and I used sparring weapons because Dino thought magical items fostered dependencies and bad habits. While I agreed with the sentiment, I wasn’t sure if it applied to Fabulosa’s Phantom Sword. She practiced with it after hours, but I’d never faced the weapon in the arena.
+
+I couldn’t memorize her attack patterns without sparring against her, keeping me ignorant of the weapon’s illusionary attacks. The suspicious side of me wondered if Dino’s refusal to spar with genuine weapons came at the behest of his lover.
+
+Occasionally, I noticed her practicing with it against training dummies in the late evenings. Watching her made me anxious, and I wanted to join her, except doing so felt intrusive. Nor did I want to break our unspoken agreement that the battle college served as her refuge after hours. As the person who received everyone’s complaints, I sympathized with her desire for privacy. I had the Dark Room, and soon, the town would build its officers a lakefront residence, the manor.
+
+I’d unlocked a new spell from my training, a shield against normal missiles called Avoid Ammo.
+
+Power (spell)
+
+Avoid Ammo (tier 2)
+
+Prerequisites
+
+Mana Shield, Dodging rank 22
+
+Cost
+
+1 mana per second
+
+Cooldown
+
+None
+
+Cast time
+
+Channel
+
+Description
+
+Caster radiates a 5-foot aura that redirects non-magical missile fire. Concentration must be maintained to sustain the effect.
+
+Avoid Ammo wasn’t particularly mind-blowing. Most RPGs mothballed regular missile fire with magical shield spells. This spell effectively prevented us from shooting the karst caradon from the room above it. Still, I recalled the trapdoor also repelled magical fire, so perhaps Avoid Ammo unlocked a power beyond it.
+
+The spell description didn’t cover whether allies or enemies enjoyed the same bonus inside the aura. It wouldn’t do me any good to redirect an arrow if it hit one of my friends fighting beside me.
+
+Avoid Ammo worked a bit like Mana Shield. The channel required concentration to sustain, but if spells or melee attacks hit me, I could immediately recast it. But I feared magic, not regular weapons. Protection from normal missiles wasn’t crucial to survival, so taking it made no sense.
+
+Dino trained Hawkhurst citizens with memorized forms, similar to what we practiced in Belden’s academy. He started everyone with the basics of bludgeoning weapons. They made for a safe introduction to combat. He gauged everyone’s aptitude in low-risk conditions. After a few weeks, he graduated his students to edge weapons.
+
+I wasn’t sure if the number of dwarves had anything to do with the curriculum, but Dino’s subsequent lessons covered battleaxes. I’d never learned axes in Belden, so I took the same classes, starting with wooden practice weapons.
+
+Dino’s axes had much smaller heads than I’d seen in fantasy games, looking spindly in comparison. Long-handle axes excelled at hooking onto an opponent’s shield or weapon. For this reason, axes augmented dual-wielding. By catching onto opponents, axes exposed enemies to hits from a secondary attack. Ensnaring the enemy’s shield required quick responses because opponents could grab your axe and turn the tables. Tugs of war over your axe created losing propositions because the axe heads offered better pulling grips than their handles. Again, a secondary weapon addressed this situation.
+
+Avoiding catching the blade into and onto things became the theme with axes. The danger of this increased in grouped combat if the weapon ever wedged into an opponent’s shield. Getting hung up on one enemy exposed a wielder to counterattacks.
+
+Dino made wide swings with his practice axe, showing us how not to use axes. “You are not a windmill! The common mistakes novices make are big swings. Your opponent isn’t a cedar log lying in the forest, complacently waiting for you to fashion firewood. A wise warrior waits for telegraphed attacks, and nothing calls attention like a windmill.”
+
+Dino shuffled forward and back and made little jabs with the ax. “This is how one hefts an ax. Hold weapons to the fore—quick jabs and pokes will defeat your enemy. Minor injuries turn the tide of battle. They are more likely to hit than a massive blow. If your weapon is always up, it limits your opponent’s options. The long-lived warrior is patient and conserves strength. Motion is weakness.”
+
+Dino continued his demonstration. He used the axe almost like a spear, always keeping it aloft and in his imaginary enemy’s face. “You see, yes? Force your opponent to go around your weapon. Let them waste energy closing distance.” Dino’s only attacks consisted of quick little thrusts. “Even if we do not injure, we might put them off balance and give us time for a more theatrical blow, yes?”
+
+I chuckled at the logic behind his strategy. Dino’s demonstration completely upended my idea of using axes. I wondered how many gamers jumped into The Book of Dungeons and met their end trying to emulate the cinematic choreography they’d seen in movies. How many Exhaustion debuffs appeared from sustained axe swings? It became clear that grand slam swings ended in the wielder’s death.
+
+Dino armed himself with a shield, then placed a hatchet in his shield hand. “One may hold a second weapon behind your barrier—in the event of an emergency. This holds true with daggers, yes? If one becomes disarmed or catches their primo weapon onto something, one may quickly replace it.”
+
+Dino illustrated this by dropping his wooden main-hand axe onto the ground. “Woe is me! I have only a shield. One may attack poor Dino Marcello de Piane with impunity. And voila!” He quickly pulled a hatchet from behind his shield and lunged forward at his invisible opponent. The trick created a neat little surprise.
+
+After Dino showed us how to use many axes, I raised my hand to get his attention. “What about a double-edged ax? What are those good for?”
+
+Dino rolled his eyes, exhaled, and tsked the notion. “Nothing! Double-edge axes have no value in combat. The extra metal renders it too heavy to wield and offers no extra aggression. They are ceremonial—vulgarities to decorate palace walls. If a sentry carries such an imposing weapon, you know they are untrained. No self-respecting soldier would be caught dead with such a thing.”
+
+I grunted and nodded at his opinion. Fantasy illustrators might learn a thing or two from The Book of Dungeons. Still, the point of fantasy art wasn’t accuracy—it fostered posturing and impractical weapons to an audience ignorant about melee combat.
+
+Between training and waiting for the manor’s completion, the town’s favorite topic of conversation became Beaker’s maiden flight. When would our new mascot go airborne? Many people asked me—as if I had insight into griffon development.
+
+I could only shrug for an answer. Beaker stayed by my side everywhere except the battle college. At first, I practiced off to the side, where I could monitor him, but the commotion made by the students proved too exciting for a young griffon. He wandered toward them, squawking protests at their erratic behavior.
+
+Whenever people practiced, our mental conversations spun in circles.
+
+“Attack. Attack!”
+
+“Beaker, we’re just practicing. Everything is okay.”
+
+“Attack! Attack!”
+
+None of my reassurances soothed my pet. Since I couldn’t concentrate while he yelled at me all day, I put him away whenever I trained in the battle college.
+
+When Yula stayed around, we paired him with Mugsy, but once the griffon outgrew the dog, the pairing resulted in nonstop barking. The sound irritated everyone except Beaker, who seemed unperturbed by the racket. Occasionally, he fluffed up his feathers, inciting Mugsy further. Fabulosa was no help. She complimented the griffon about being a big boy whenever he puffed himself up.
+
+When I went about my day outside the battle college, I walked slowly so my pet could keep up. Since Beaker became too big to ride on my shoulders, my griffon constantly worried about being left behind. He waddled with his wings extended and screeched in alarm. If I didn’t take my time, his constant “Wait for me!” echoed in my mind. The whole situation made me guilty because he had no bigger griffons to teach him.
+
+Occasionally, I’d run a short jog, turn, and encourage him to fly to me. He didn’t mind this because he had my attention and learned to pump his wings and make waist-high hops. We did this several times daily because it seemed a safe way to strengthen his wings. Aside from a bit of exercise and keeping him fed, what did I know about being a momma griffon?
+
+If I had to guess, town life overstimulated my Familiar. At his age, Beaker should be nest-ridden, growing until he could take to the sky. Ambling about town, surrounded by everyone’s activities, seemed too much for him.
+
+I gave Beaker quiet time when possible. Instead of socializing after dinner, I studied Winterbyte’s rune notebook alone. Unfortunately, the effort led to no big discoveries. Aside from Compression Spheres, she used unfamiliar spells, so replicating her work produced nothing. Being well-read and educated didn’t translate to acquiring free magic.

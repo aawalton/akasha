@@ -1,0 +1,153 @@
+Distant hooves thundered off the flagstones ahead. Seeing the minotaur through visions looked like watching a silent movie. But The Book of Dungeons featured no mute button. Clopping echoes resonated in my chest and shook the ground.
+
+I followed Fabulosa down the hallway to a four-way intersection lit by a skylight high above. She turned right and ran through another four-way junction. Without hesitating, she turned right again, and I kept pace behind.
+
+At least she knew beating a labyrinth could be achieved by making the same turn. As we rounded the corner, the stench of manure grew more pungent, and Fabulosa almost lost her footing as she slipped in what looked like a knee-high pile of mud—but it wasn’t mud.
+
+We maintained our heading and leaped over wedding cake-sized dung piles. The incredible odor compelled me to retch, but focusing on the landmines kept me from doing so. I ran into my partner when she slammed into another crystal door. Dented metal encased a window bearing the etching of a boar.
+
+I carried a trident that inflicted structural damage, but not even the siege hammer destroyed barriers quickly. The echoing footfalls growing louder put us very much on the clock. We didn’t have time to destroy doors.
+
+Fabulosa turned back the way we came and turned back to me. “The door won’t budge.”
+
+Moving quickly, I retraced my steps to avoid the manure. Fighting a monster here would be unsavory, to put it mildly.
+
+The thumping footfalls grew louder. Once we passed the manure, we picked up our speed. I pumped my fists and legs as fast as possible to keep up, and I vaguely wondered if Fabulosa had a higher agility score.
+
+Returning to the second intersection, I turned right again, following Fabulosa’s lead. The clopping hooves rang sharper and louder, coming from the first intersection.
+
+We came to a third crossroads, turned right again, and ran down a long hallway that ended in a crystal door with a dog icon on its window.
+
+Fabulosa clawed at the door, which offered no handle. “It’s another dead end!”
+
+As we retraced our steps, I had a lead on my companion. When I returned to the third intersection, the footfalls punishing the flagstones rang in my ears. After turning right, I realized a creature had come from behind, and I positioned myself to face it.
+
+Presence blazed like a beacon in the gloom, but I saw a misshapen bull running on hind legs through my spear’s infravision.
+
+Name
+
+Bluehorn Minotaur
+
+Level
+
+38
+
+Difficulty
+
+Dangerous (orange)
+
+Health
+
+3300/3300
+
+The bull’s muscled limbs bent and moved like giant humanoid joints, ending in hooves as wide as serving bowls. At least the creature couldn’t hold weapons, although its forehooves looked like they could clobber someone for a lot of damage. The monster’s indigo-blue horns spanned the hallway’s width, and someone fitted metal tips on their ends that showered sparks whenever they scraped the walls.
+
+The eight-foot-tall beast looked so heavy it seemed a wonder the stonework floor didn’t crack and splinter beneath it. Its shaggy curtain of black hair almost made the monster look pudgy.
+
+I performed a Charge maneuver and opened my interface to give myself time to parse the combat log.
+
+/You Charge Bluehorn Minotaur and miss. /Bluehorn Minotaur gores you for 43 points of damage (4 resisted). /You hit Bluehorn Minotaur for 20 points of damage (12 resisted). /Bluehorn Minotaur gores you for 41 points of damage (5 resisted). /You cast Rejuvenate.
+
+The creature didn’t have fancy attacks, but this wouldn’t be a typical tank-and-spank. Weighing our health against our opponent, I opened up the interface to freeze time. Mathing out the opening attacks projected bleak outcomes. Even if we devoted our mana to healing, we could recover about 2,000 total health. At that current rate, the minotaur would still have almost half its life left when Fabulosa and I emptied our health and mana pools.
+
+With the creature’s aggro, I backed away, drawing it toward me. By the time Fabulosa reached the intersection, she ran behind it, increasing her chance to critically hit. That helped with the math, but only a little. I still needed to withstand its attacks.
+
+Since I could outrun the beast’s stride in short sprints and make significant gains around corners, I closed my interface and ran further into the maze. The minotaur followed, and Fabulosa played the role of the caboose. The train of pain had left the station, whoo-whoo!
+
+I loosed a shot from my Light Crossbow behind me. It gave me a free 30-point Arcane Missile every 30 seconds and counted for the only attack that wouldn’t slow me down. At least the minotaur didn’t resist magic damage.
+
+Meanwhile, my partner laid into the monster with all of her might.
+
+/Fabulosa hits Bluehorn Minotaur for 15 points of damage (10 resisted). /Fabulosa crits Bluehorn Minotaur for 54 points of damage (0 resisted). /Fabulosa hits Bluehorn Minotaur for 17 points of damage (9 resisted).
+
+Orange slices of flame silhouetted the creature as Fabulosa attacked from behind, using her saber and Ignite Weapon.
+
+Seeing mana going to a nonhealing spell concerned me, but the damage-over-time effects of the flaming blade got a lot of bang for the buck, so casting it seemed to be a smart call.
+
+I ran into another four-way junction and turned right again.
+
+The layout didn’t twist or turn, and the only corners came from intersections. What kind of maze was this?
+
+Kiting the creature seemed promising until I dead-ended at another crystal door. My panicked fingers sought purchase to pull it inward, but the door wouldn’t jiggle. Like the other doors in the maze, beyond it stood another hallway. Its window displayed the etched image of a mouse. “Just let me pass, you stupid mouse!”
+
+Dents and stress marks marred the metal frame as if the minotaur or other adventurers had tried to force their way past it. Were these doors utterly impregnable? If I had Charitybelle’s siege hammer, I might knock it down. But the image of me chipping away at a structural damage progress bar while our beefy friend gored me to death seemed a dubious plan. At least the dwarves put it to good use in the quarry.
+
+Turning to face the oncoming cattle train, I tested the door’s strength by backing into it and casting Slipstream to avoid the pair of oncoming horns. The doors behind me clattered at the minotaur’s impact, but the windows didn’t receive so much as a crack.
+
+Once more, Fabulosa ran beside me through the maze.
+
+We returned to the fourth intersection, and Fabulosa turned to me. “Right turn again?”
+
+I nodded in agreement as we rounded the corner together.
+
+This hallway smelled musty, and knee-high mushrooms grew along its wall. I hoped the mushrooms meant we reached a different section of the labyrinth, but a looming crystal door at the end of the hallway promised otherwise. Its window featured the etched profile of an eagle.
+
+The puzzle’s iconography presented fresh problems. The bird could have been an eagle, or it could have represented a falcon or a hawk. Playing word jumbles wouldn’t work if we couldn’t tell between a frog and a toad. Hitting another dead end gave us no time for a pity party, and my Slipstream cooldown had over four minutes left.
+
+The minotaur finally cornered us.
+
+As we ran toward the eagle door, my spirits dampened when I saw the only handle resting on the other side, outside our reach. Strewn rocks and debris filled the hallway behind it.
+
+Fabulosa put her saber away as we ran and equipped a bow and the Returning Arrow. They better suited a situation for kiting monsters than a saber—assuming we could figure out how to kite the monster.
+
+Fabulosa cast Wall of Thorns, but it might as well have been Wall of Tissue Paper. The minotaur pushed through it.
+
+I turned to Fabulosa. “Don’t waste your Slipstream. I’m going to use Transpose.”
+
+The two of us turned to face the charging monster. I launched an Arcane Missile from my light crossbow while Fabulosa launched the Returning Arrow. I triggered Transpose when the monster got close, and the spell switched our positions. Once again, it crashed into the crystal door with so much force I doubted Charitybelle’s siege hammer would have damaged the portal.
+
+While the creature recovered from its collision, Fabulosa made a retrieval gesture, and the minotaur bellowed in pain. The Returning Arrow flew into her hand, completely covered in blood.
+
+“That’s called a through-and-through.”
+
+Since Transpose pointed the minotaur away from us, the Returning Arrow pushed through the creature’s entire body before flying into Fabulosa’s outstretched hand. The combat log showed she’d gotten nearly seventy bonus damage points. The move impressed me. “Nice!”
+
+“I can do that whenever you cast Transpose. How often can you do that?”
+
+“Once an hour.”
+
+“Wonderful—so we’re back to the Dungeon Fun Run.”
+
+We ran back to the fifth intersection and turned right. I inwardly cheered at the sight of an archway.  Words carved into the arc—Right of Passage. I immediately noticed the misspelling—wasn’t it supposed to be R-I-T-E instead of R-I-G-H-T? Or maybe the Right of Passage referred to one’s merit or entitlement? Or maybe it meant to turn right at every intersection, but we’d been doing that to no avail.
+
+It seemed no great leap to assume we ran through another puzzle. The animals meant something, but the dungeon offered no painting or message to decode. I cast Detect Magic while running, but only the doors glowed.
+
+“Have you seen any runes?”
+
+I shook my head. “No, I’ve been checking for everything. I’m even flashing Mineral Communion to look for secret doors—no dice.”
+
+Either way, the Right of Passage arch decided our fate. With the minotaur only ten yards behind, we ran under the arch. To my dismay, another crystal door awaited. Its window depicted the silhouette of a snake. Beyond lay a hallway sprinkled with broken weapons and armor.
+
+In our moment of despair, I spotted salvation—a handle hung on our side of the crystal door. “Quick—the minotaur doesn’t have hands!”
+
+Fabulosa ran ahead of me and pulled the door open. In her haste, her grip slipped, and the door shut before she could go through.
+
+The instant the door closed, the window etching changed from a snake to an ox, and the hallway beyond it changed. Instead of being strewn with weapons and armor, it became a corridor with a shallow alcove. Water dribbled down the alcove’s wall, filling a trough-like basin and puddling on the floor.
+
+Sparing no time to ponder the change of scenery, Fabulosa grabbed the handle again and opened the door. I followed her through the threshold, and the moment the door closed behind us, the minotaur’s horns crashed into it. The crystal pane shuddered, but the portal held. At least the minotaur couldn’t break them.
+
+Fabulosa leaned against the wall and panted.
+
+I leaned on my knees. “What happened? Did you see that? The hallway changed again.”
+
+“That happened when we first entered the maze, too. Do you remember when the foggy room disappeared?”
+
+On the other side of the door, the minotaur retreated through the arch. It ran with a purpose.
+
+Fabulosa frowned. “That can’t be good.”
+
+“Come on, let’s go.” I ran down the hallway with the water basin. I cast Detect Magic and searched for runes around the dribbling alcove, seeing nothing of note. As we splashed through the puddles, I could hear the distant footfalls of the minotaur.
+
+Unfortunately, the sounds of clopping hooves came from ahead. Fabulosa heard the same thing, and we exchanged puzzled looks while running.
+
+We ran until we came upon another four-way intersection. The hallway in front of us smelled of manure, and the sound of the minotaur echoed from the left.
+
+I almost took another right-hand turn when Fabulosa ran straight through the intersection and pointed to a dung pile. “Wait a minute. That’s my footprint in the cow pie! This is the smelly hallway. We’ve been here before!”
+
+I beckoned her back. “That means it’s another dead end. It leads to the door with the boar etching.”
+
+“Or a pig.”
+
+The minotaur sounded less than a minute away. My Slipstream cooldown reached only its halfway point, and this labyrinth had far more dead ends than I expected.
+
+As I caught my breath, I tried to think. Had we stumbled into a maze with no cheese at the end?

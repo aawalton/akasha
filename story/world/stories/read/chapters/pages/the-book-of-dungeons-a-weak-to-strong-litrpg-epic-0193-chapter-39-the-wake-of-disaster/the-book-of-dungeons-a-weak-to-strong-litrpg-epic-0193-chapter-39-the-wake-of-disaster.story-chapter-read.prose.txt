@@ -1,0 +1,119 @@
+The flora Thaxter’s group hacked through stood so dense we could have followed their path with our eyes closed. Vegetation walled our course on either side with brambles, thorns, and leaves. It felt like walking down a vast, green hallway. Chittering, crawling, buzzing, biting, and stinging insects surrounded us. Legions of reptiles and birds hunted them—all chirping and clucking to songs indicative of their species.
+
+With machetes or similar blades, our predecessor’s handiwork made pursuit easy. Tunneling through the greenery must have taken so much effort catching them seemed inevitable.
+
+Fabulosa shouted back to me over the noise of the wilderness. “Have you ever been through a corn maze when you were young? This reminds me of one—except there are no intersections.”
+
+“Nah. We don’t get many cornfields. It reminds me of old railroad cars in the abandoned yards near Philly. As long as there aren’t any minotaurs, I’m happy.”
+
+“Lightning Bolts will come in handy if it stays straight like this.”
+
+As we walked, I practiced switching objects with my new magic gloves. When I grabbed my Wall of Wind’s inner strap, I could shift hands with Creeper with a single command—Switch. But fighting with a non-dominant hand felt awkward, so switching arms during battle offered little utility.
+
+Leaving the shadow of the Doublespine Mountains, we traveled southwest along a narrow stream. The terrain wasn’t marshy, but the valleys felt claustrophobic. Our destination coordinates lay a day’s journey south from the midpoint between Hawkhurst and Fort Krek. It would take a few days to reach them.
+
+It wasn’t an easy hike, even on a blazed trail at low altitudes. Enabled by infravision, nightfall did little to hamper our pace, but we didn’t incur Exhaustion debuffs.
+
+The racket of insects and birds persisted throughout the journey. The porous tree canopy allowed more undergrowth and places for critters to announce their presence.
+
+Considering his exit, it surprised me that Thaxter hadn’t hidden his trail or confused pursuers with course changes, even at stream crossings.
+
+Beaker enjoyed himself, showing no sign of tiring. We envied him as he flew from perch to perch, occasionally honking at us to pick up the pace. He discovered new things on every tree limb, craning his neck on every landing, looking for bugs and berries to gobble. Once, he landed by a python that proved too big to eat. Beaker screeched objections over sharing the tree limb and pumped his wings when it wouldn’t retreat.
+
+“Leave the snake alone, you turkey. It’ll eat you if you get too close!”
+
+Beaker was having none of it and grew so loud that I worried that he might attract wandering monsters. He cried at the motionless creature until I told him to keep up with us.
+
+I tossed up my Dark Room rope, and we built a campfire beneath it for a night. Beaker eyed the rope hanging suspiciously in midair. He cocked his head and dilated his pupils when Fabulosa disappeared into thin air, only to reemerge moments later with a set of blankets.
+
+Fabulosa spread the blankets and beckoned the griffon to sit on her lap. “Come here, Chickers! Keep me warm for dinner!” She tempted him down with morsels of dried meat.
+
+We rested by the fire and cooked bits of food for ourselves. At nighttime, I dismissed Beaker, and we retired to the Dark Room, satisfied with our day’s progress. Unfortunately, the null space didn’t silence the bugs, and we listened to them until sleep overtook us.
+
+Thaxter’s group hadn’t set a campfire. Their southerly route veered west after passing the Jarva River headwaters. Their progress betrayed an unnatural zeal, and by the sunset of the second day, the trampled foliage still looked wet from their footfalls. This chase took longer than expected, but we kept to their heels.
+
+On the third day of our pursuit, I dismissed my griffon until we caught up with the soldiers. I couldn’t predict Beaker’s behavior, and I wouldn’t risk losing surprise if it mattered.
+
+Our breathing became labored, but I could not say whether it came from our journey or the change in humidity.
+
+We passed through a cloud of white moths or butterflies. Fabulosa waved her hand to scatter them away from her face. “It’s a shame Beaker couldn’t be around for this bloom. He’d go right bonkers over it.”
+
+“That’s precisely why I don’t want him here. He’d give away our position with all of his carrying on.”
+
+“Thaxter doesn’t know we have a griffon.”
+
+“Either way, all the racket would tip our hand. There’s nothing else out here making as much noise.”
+
+“Poor Beaker. He likes new things.”
+
+“Yeah, and there’s plenty of that here. He can check it out on our way back. Have you ever seen anything like this in all your hunts around Belden?” I gestured to the flora surrounding us.
+
+Fabulosa shook her head.
+
+Flowered vines hung from nearby trees like cargo nets. Thaxter’s path trailed beneath a long row of giant trees. Their roots stuck so far out of the ground that we didn’t have to duck to go under them. The row of giant roots twisted into knots the size of small cars, looking somewhere between a fence and a playground attraction.
+
+A hog-sized rhinoceros nibbled at leafy bushes underneath the tree roots. The level 9 creature gave us an unconcerned glance and flicked its ears, but a nearby noise startled it. Its eyes widened, searching the vegetation for signs of movement.
+
+When vibrations in the ground sounded a predator’s approach, the miniature rhino ducked beneath the shelter of the exposed root system.
+
+“Fab, come on.” Feeling like a tropical fish in a coral reef, we followed the animal’s example and cowered under the roots.
+
+Name
+
+Ophidian Giant
+
+Level
+
+30
+
+Difficulty
+
+Challenging (yellow)
+
+Health
+
+1850/1850
+
+A huge snake creature gave me flashbacks of the ward worm. Though smaller, it couldn’t fit through the spaces in the roots. Its mouth opened like a lamprey more than a snake. Instead of unhinging, it flayed out in a clumsy attempt to swallow us.
+
+The elevated tree roots offered ample protection until the snake found a wider gap. When the ophidian’s head plunged into it, Fabulosa and I dodged by taking a few steps to the side. The creature found another opening and wove out and back into the roots. It eventually trapped the rhino.
+
+The predator struck the rhino’s side, spread its mouth around it, and pulled the helpless creature into its gullet, making wet sucking sounds.
+
+Fabulosa and I kept sidestepping away until we ran out of roots. Muffled cracking sounds distracted me from the ophidian, whose stomach crushed the rhino.
+
+Fabulosa shook her head. “That’s downright disgusting.”
+
+It turned its head toward us as if to tell us it hadn’t finished hunting.
+
+I pulled out a short sword. “Get ready. We can’t outrun it, and it’s not done hunting.”
+
+Maneuvering to its broadside without leaving the roots, I plunged my short sword into the monster. Wedging the blade against a root, I held on, and the snake’s movement did the rest. As the creature pulled through, my weapon tore a wound along its length. It emitted a growling hiss and stopped pushing itself forward. Instead, it battered its head at the roots that sheltered me.
+
+I checked my combat log.
+
+/You hit Ophidian Giant for 25 damage (7 resisted). /Ophidian Giant takes 89 damage (0 resisted). /Ophidian Giant misses you.
+
+The long laceration caused nondescript damage to appear in the combat log. It wasn’t a critical strike, but I couldn’t complain. The wound took out over 5 percent of its life. Unfortunately, the snake freed its head and struck at my position, chasing me away and preventing me from repeating the move.
+
+The snake’s head swung over to the opposite side of the roots and battered at me again. I nestled deeper inside. Without my blade to stop it, the snake resumed disentangling itself from the roots. Whenever I moved, its head swung to a different vantage to strike. I watched for gaps at all sides of the rootwork to avoid openings where it could attack.
+
+Scorches and Lightning Bolts landed on the creature as Fabulosa dumped her mana from afar. She couldn’t get close to the beast without getting in my way, so direct damage spells seemed her best option.
+
+I managed only a couple of stabs before it pushed me to the edge of the roots. The monster had lost only four hundred health by the time it laced itself into our shelter.
+
+Fabulosa pointed to the snake’s tail, where we might hide. “Get away from its head!”
+
+The creature freed its neck from the root system and struck from range.
+
+We both Slipstreamed toward the creature’s tail.
+
+The creature’s stripes wove hypnotically through the foliage as it wove through the roots, its scales grinding against the wood. Its head targeted us almost immediately after we performed Slipstream, but the slack tightened, preventing it from reaching us. While it pushed its bulk through the roots, I armed my Lance of Commitment.
+
+I hadn’t used it since I fought the wererat. In retrospect, I should have used it against the minotaur, whose predictable attack almost guaranteed a strike for maximum damage, but I had been too frenzied at the time to think. Unfortunately, my proximity to the monster wouldn’t let me take advantage of its bonuses, but my enormous target seemed well-suited for this weapon.
+
+I pushed the lance into the creature whose winding body lodged it against a tree root.
+
+The ophidian giant showed me the breadth of its power. More than a snake, it gave me a front-row seat of what thousands of pounds of constricting muscle could achieve. The creature snapped roots thicker than my torso like styrofoam.
+
+While I ran, its maw wrapped around my lance like a prehensile sock puppet and freed itself from the offending instrument.

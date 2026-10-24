@@ -1,0 +1,141 @@
+I couldn’t activate Slipstream, but I used its targeting reticule to slow time and pan over the nearly motionless zombies. Moving it out the door gave me a vantage to witness my partner for one last time.
+
+Fabulosa dove headfirst in a slow-motion fall. Her arms and legs thrashed at the zombies still grappling her. Her nameplate read—Fabulosa, Lieutenant Governor of Hawkhurst, and showed she had plenty of mana but only 42 health. She’d gained a level, and one crucial debuff still plagued her status bar—Grappled.
+
+Although her hair covered half her face, I could see her holding her breath as she fell through the clouds of gray spores. She had cocked her legs in an upward kick at the undead still clinging to her. The creature had caught on fire, and the flames in its wounds slowly rippled as the pair drifted downward.
+
+Fabulosa drove her heel into the bony digits around her in super slow motion. A few feet off the ground, she kicked free of the monster’s grasp and Slipstreamed behind a dryowight at the doorway.
+
+She twisted in the slow-motion Slipstream blur. Her body pulled like taffy across the chamber, reconstituting in a defensive position, facing me but behind the first undead. Her extended arm brandished a fiery Phantom blade, slashing it down a dryowight’s back, lopping off the flowers and tendrils connecting the plant to the corpse.
+
+Fabulosa mouthed words of another spell, one I didn’t recognize. A golden radiance pulsed from her, and my combat log scrolled with messages. The four zombies on the floor broke their advances as sparkles assaulted them. She’d cast Rally.
+
+/Fabulosa crits Dryowight for 64 damage (0 resisted)./Dryowight dies./Fabulosa heals for 55./Fabulosa heals you for 55./Rally hits Arboreal Animation for 110 damage (0 resisted)./Arboreal Animation dies. /Rally hits Arboreal Animation for 110 damage (0 resisted)./Rally hits Dryowight for 110 damage (0 resisted)./Rally hits Arboreal Animation for 110 damage (0 resisted)./Arboreal Animation dies.
+
+Of the five remaining attackers, Fabulosa had killed three and positioned herself in the doorway. She used it to impede the remaining zombies. She downed a 100-point potion of healing seconds after an arboreal animation swiped at her for 32 damage.
+
+A second creature tried to reach her, but the monster in front of it spoiled its attack.
+
+Unable to speak, I turned to my battlefield chat interface.
+
+Apache Wow, Fab. That was worth the price of admission. Fabulosa I have my moments. Apache Yeah, but that was crazy-risky. You weren’t exactly playing it safe, either.Fabulosa Aw, bless your heart! I wasn’t about to let them convert you into a zombie. That would just add to my workload, and you’d hardly be worth the experience points. Apache Still, though. Thanks. Fabulosa We aren’t out of the woods yet. The four at the top are jumping down.Apache Watching them free-dive in slow-motion was cool, but you beat them in style points. Just focus on staying alive—I’ll be back online in 9 seconds after this debuff wears off. Fabulosa Good deal. I’ll need a heal by then. Apache My Rejuv will be up. I’ll Restore you with 84 health afterward.
+
+Fabulosa and the dead mob traded attacks while my debuff wore off. Holding the doorway for ten seconds turned the tide of battle. I rolled a Rejuvenate and a Restore on her, and since only one or two undead could attack at once, the fight became manageable.
+
+One of the four undead plummeting from the top had killed itself when landing. These monsters made hapless divers.
+
+To my relief, the battle stabilized by the time I could speak again. We didn’t bother with the battlefield chat interface and chatted as if performing a routine task.
+
+“I like your new spell, Moonburn. It’s good to know you haven’t completely forsaken direct damage.”
+
+“Speaking of which, since when did you pick up Rally?”
+
+“If you were going to be tankier with your new shield, I should pick up more heals. I leveled to 29 during the fight and had the power point.”
+
+“I noticed your level gain. Grats.”
+
+We poured our remaining mana into bringing my health to a respectable level, and by that time, Slipstream became available. I zoomed past the last zombie’s flank and critically hit it with my +1 dagger. It fell to my backstab, ending the arboreal onslaught.
+
+Congratulations!You are level 27
+
+You have gained a level. You have increased your agility by 1, intelligence by 1, and strength by 1. You have received 1 power point. You have 4,629/5,000 experience points toward level 28.
+
+Each animated corpse had levels in the low twenties, so I got less than a dozen experience points apiece, but since we’d fought 23, my experience gain of 221 counted for six times that of the ant swarm.
+
+We dropped to the ground in the cul de sac and performed a Rest and Mend.
+
+Fabulosa panted for breath. “There might still be a few in the forest.”
+
+“You don’t think they’ll attack us from behind? They climb like monkeys.”
+
+“We’re both out of combat state. I reckon they’re dead or lit off somewhere.”
+
+“How long until your Rally is off its cooldown?”
+
+Fabulosa wrinkled her nose. “Just a mite less than an hour.”
+
+“I don’t mind waiting. I’ve got that long for Transpose to work again. This place is creepy enough to warrant caution.”
+
+Fabulosa looked up at the top of the temple. “It’s enough time for any stragglers to show up if they have a mind to return.”
+
+No errant zombies dropped in on us while we waited. Any that had fallen outside had become stuck in vegetation, wandered off, or chased other prey. After our cooldowns for Transpose and Rally reset, we moved onward.
+
+After recuperating, we inspected the bodies. Cracked cores aside, few held anything besides rusted armor or rotting garments. I retrieved the battlefield standard and used Detect Magic to locate Creeper and my trident among the stone blocks littering the chamber.
+
+While we rested, Fabulosa gave me a pregame description of what to expect. “There’s more weirdness ahead. The zombies came from the ground near spooky tree-people.”
+
+“Yeah, I saw one ambling about in my visions.”
+
+“No, I think they were different from what you described. These grew from the ground, with tree trunks instead of legs, and didn’t react when the zombies unearthed themselves.”
+
+“Do you think I should turn off Presence?”
+
+“Nah, go ahead. They know we’re here, and I already pulled everything that could move.”
+
+We retraced our steps through the last unexplored passage. Fabulosa led me past the candelabra and a couple of empty rooms. Detect Magic and Mineral Communion showed no surprises, giving us nothing new to investigate. Mixing up with the undead accustomed me to their stench, but my olfactory senses confirmed we moved toward a foul aroma.
+
+The corridor ended at a split stairway overlooking a communal eating area, lit by branchlike candelabras along the walls. Aside from how the flames gave the room a warm glow, the gray earth made the room look like a movie set for a moon landing. The ashen and sickly soil smelled like putrified meat.
+
+I’d seen pictures of white beaches but never gray soil. Instead of being powdery, like ground chalk, it looked musty and cracked like dried mud. Its color and odor looked toxic. Fabulosa pulled her scarf over her nose, but it couldn’t have covered the scent of decay.
+
+On the far side of the room stood an archway to another passage. Its low ceiling showed that someone had filled the room with dirt. Judging by the distance to the hallway’s ceiling, the gray soil was at least four feet deep. Shallow, grave-sized holes pocked the surface, all recently disturbed.
+
+I held Creeper but relied on my own eyes. Presence and sticklike candles lit the room from small alcoves along the wall. Each branch sprouted a candle-like tip whose phantasmal flames gave no heat.
+
+Crossing the fetid ground worried me less than the six planted figures planted in it. No nameplates hovered over their heads, but the slumped forms appeared to be exsanguinated people from the waist up. The skin below their beltline turned to a bark-like texture. Instead of supporting themselves on legs, tree roots penetrated the lifeless earth. They stood motionless as statues. I inspected the ground, looking for signs of recent uprooting or movement, but the packed soil showed them firmly embedded.
+
+Fabulosa pointed toward rows of body-sized craters in the surrounding dirt. “This is where the undead came from.”
+
+Two bundles of flowers grew next to the cavities.
+
+“Those are probably dryowights—but their flowers aren’t blossoming. Maybe they’re not ripe yet.”
+
+“They’re ripe enough for me. You want to light them up?”
+
+I nodded. “Definitely, but let’s go over to the wall first. I don’t like the look of these stump people.”
+
+We avoided anything sticking out of the ground, targeted the clumps of flowers, and burned them into ash with Scorches. The macabre stump people didn’t move, so we directed our fire magic to the closest one until nothing remained but burning roots. The arson produced no reaction, so we burned the five remaining tree trunks. Settings like this justified paranoia.
+
+I had little doubt that putting these unnatural things to flame ended their suffering. The features on the trees weren’t generic or idealized. Their bodies and faces had flaws and personalities. They had once been individuals.
+
+When we recharged our mana, I used the remaining minutes of Mineral Communion on the masonry. The masonry looked dry and had no veneer of grime covering it. Glimpses of its original use showed lizardfolk carving tablets in rows like a workshop or teaching facility. Murals covered the walls. Instead of gray earth, benches cluttered the floor.
+
+I saw scenes of the stump people in the presence of an ambulatory tree creature. The planted figures tended to the vegetation and mushrooms within their reach while the walking tree made spellcasting gestures.
+
+Giving the charred stumps a wide berth, we walked the room’s perimeter to the arch and slid down the gray earth into the far hallway. The corridor contained more chalky dirt, covering its length to another room. Dragging ruts marked the passage of what must have been the tree creature’s path.
+
+We followed the drag marks to the end of the hall, subconsciously casting Heavenly Favor along the way.
+
+Gray soil filled the next chamber, but its walls and ceiling mirrored those of the worm room and the crypt where we’d found the relic. We saw no lizardfolk statue, metal tubes, or crystal window—instead, a thick iron grill divided the space.
+
+A tree-like spore punctured the grill, radiating in an octopoid shape. Each tendril pushed away from its center, stretching the metal to make an opening. Stress in the grillwork testified to the root’s superior strength, showing a breach whose diameter measured six feet.
+
+The walls and ceiling beyond the ruined grill featured the same curvy, opalescent resin as the ward worm’s lair. Its organic contours glowed orange from candelabra branches sticking from the soil. Another sarcophagus and pedestal dominated the room’s center. The unopened coffin counted as the scene’s most crucial detail.
+
+A quick Detect Magic revealed another aura around the tomb. Like Winterbyte’s minions, humanoid skeletons surrounded the aura.
+
+I spotted gardening rakes, buckets, bushels, and sacks of all sizes. Something had knocked over one bag, and tiny animal bones spilled across the soil like yellow seeds. Clumps of flowers and mushrooms pockmarked the ground, and I suspected bodies beneath every arrangement.
+
+A row of orc and human heads protruded from the dirt. The heads lay in various stages of decomposition—some far gone as skulls. All faced upright as if a row of cabbages. Were they decapitated or partially buried in this decrepit earth? Neither possibility appealed to me.
+
+An elven tree-thing crouched over gardening tools beyond the grill dividing the rooms.
+
+Name
+
+Deadfall Druid
+
+Level
+
+25
+
+Difficulty
+
+Challenging (yellow)
+
+Health
+
+1160/1160
+
+Its thin body and pointed ears gave it an elven appearance. Parts of its skin retained the color of a living being, yet strips and knots of bark adhered to its chest, arms, and shoulders like armor. Its elongated cranium split into vertical branches, giving the overall impression of a crown and accounting for a quarter of its height. More vertical spikes topped its shoulders, striping the ground with shadows.
+
+Both of us almost died in the last yellow-difficulty encounter. If The Book of Dungeons rated this creature a yellow threat, then the druid had some allies and surprises in store. Aside from summoned monsters or environmental factors, a single level 25 creature couldn’t challenge level 27 and 29 players.

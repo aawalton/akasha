@@ -1,0 +1,119 @@
+The deadfall druid stuck its elongated fingers into the soil and whispered a spell. I harbored no doubt this creature sowed its garden with the heads of those who allowed it to finish its incantation. I Counterspelled whatever the monster tried to achieve.
+
+My interruption drew an immediate reaction. The druid furrowed its barky eyebrows and bared thorny fangs, making me both relieved and sorry that I’d foiled its magic.
+
+Fabulosa sidestepped away from me and began casting Fireball.
+
+I wouldn’t normally stand where something might reach up and grab me, but falling back to the previous room wouldn’t improve my footing. Hidden surprises aside, this place looked like our best fighting surface.
+
+Fabulosa’s Fireball streaked across the room. While I applauded her attempt to burn the wooden creature ahead of us, it better suited multiple targets. The druid shrugged off the damage, but the explosion of flame illuminated shapes behind it.
+
+The movement behind the druid wasn’t just dancing shadows. Nine brown skeletons revealed themselves, stomping through the gray soil to the druid’s side.
+
+Name
+
+Deadfall Skeleton
+
+Level
+
+15
+
+Difficulty
+
+Challenging (yellow)
+
+Health
+
+420/420
+
+While the Fireball burned down, I cast a Compression Sphere at them, but the shockwave passed through their bones to little effect. The blast kicked dirt into the air on the far side of the room, so the dust cloud didn’t affect us.
+
+At first, these seemed tougher versions of the standard pushover skeletons. Each carried a crude short sword, dagger, or axe. But their bones hadn’t browned with age. Knobs, spurs, and irregular thickness deformed them, betraying their wooden composition. Instead of ossified bones, warped wood approximated a humanoid anatomy. The aura surrounding the coffin had petrified them.
+
+The druid issued a command, and the nine figures began their bony charge to our position.
+
+The deadfall skeletons creaked and clattered when they moved, running through the hole in the grill to our side of the room. They awkwardly lumbered as if their misshapen anatomy affected their gait.
+
+Fabulosa’s 34-point Fireball had hit ten creatures, giving me more admiration for her opening move. Aside from my Counterspell, my first attack fell short of spectacular. Our enemies weren’t close enough for Moonburn, and my Compression Sphere proved ineffective, so I shot a skeleton with my arcane crossbow, reducing the monster to three-quarters of its health pool.
+
+After fighting 16 monsters with 900 health, facing fewer undead with half as much health felt manageable.
+
+I planned to time their arrival with Moonburn, but I never started the 5-second channel. While I readied for the charging skeletons, the druid stirred its arms and whispered another spell. The air sparkled in bioluminescence as a galaxy of gnat-sized fireflies winked into existence. The fireflies dove at us—their glowing tails streaked like miniature comets.
+
+Fabulosa cried out, swiping at the insects and brushing them away from her skin. I canceled my cast to do the same, waving my arms ineffectually at the swarm. It wasn’t clear if they stung, bit, or if they lived up to their name and burned us. Either way, it amounted to pinpricks of pain.
+
+I tried casting Scorch on the bugs. They made a valid target, but my flare burned away a few. At least the fireflies weren’t invulnerable to fire damage. Alas, even a 2-second cast incurred several interruptions. I swatted at my face and spat at fireflies singeing my lips.
+
+Only tossing up my game interface freed me from the torment.
+
+I studied the new debuff icon in my interface.
+
+Debuff
+
+Greater Fireflies
+
+Casters bit by bugs cannot channel, and non-instant cast times quadruple.
+
+Duration
+
+1 second.
+
+Greater Fireflies produced a treacherous effect. The debuff duration lasted only one second, but hundreds harried us, effectively smothering our spells.
+
+The insects overwhelmed me, and I couldn’t avoid them. Like tracers in a firefight, the flickering pinpoints marked the area of effect, covering our half of the room.
+
+Scrolling through the combat log, I studied the events following Fabulosa’s Fireball.
+
+/Your Arcane Missile hits Deadfall Skeleton for 64 damage (0 resisted). /Deadfall Druid casts Summon Greater Fireflies. /Fireflies sting you 13 times for 1 damage (0 resisted)./Fireflies sting you 182 times for 0 damage (1 resisted)./Fireflies sting Fabulosa 19 times for 1 damage (0 resisted)./Fireflies sting Fabulosa 166 times for 0 damage (1 resisted).
+
+The game combined the insects’ attacks into two lines. Thankfully, my willpower resisted most of the stings, and Fabulosa fared almost as well by the looks of her health bar.
+
+Though inflicting negligible damage, the insects obscured my vision. As with the mushroom debuff, I could not cast my spells.
+
+The Slipstream interface gave fine snapshots of the battle, but using it froze time. With my eyes closed, I still could see through Creeper, but my parnter wasn’t so lucky.
+
+Fabulosa’s necklace gave her infravision, but she still needed her eyes. She blindly fought until she pulled her scarf across her entire face. By doing so, she could cast spells without fireflies stinging her lips and flying in her mouth—and the thin material allowed her to see through it.
+
+Even though I doubted it would stay on, I regretted not collecting my scarf from the previous battle.
+
+Slipstreaming away wouldn’t help us if the druid could redirect the bugs to our position, so before I pulled the trigger on the crucial spell, I opened up my character sheet and read through my powers. I could cast instants, which mostly reacted to things, so nothing looked helpful. Unfortunately, my area of effect spells and mechanics for clearing away the fireflies all required cast times. I couldn’t rely on things like Compression Sphere. Fabulosa had used her best AOE spell, and Wall of Thorns had no effect against the fireflies. It seemed she possessed no mechanics to improve our situation.
+
+And yet, she proved me wrong. While considering my options, Fabulosa shot her Returning Arrow at an oncoming skeleton. It nicked one of its ribs for only 12 points of damage, and I inwardly groaned that she should know better than to try piercing weapons against skeletons. But what did I know? My dependence on infravision forced me to stick with Creeper instead of switching to a better weapon for skeletons, the Hammer of Might.
+
+But shooting an arrow counted for only part of her plan. She put away her bow and pulled out her Phantom Blade. She Slipstreamed through the grill and behind the druid. For the second time today, she treated me to the spectacle of watching her Slipstream in super slow motion. Her elastic form squeezed past skeletons and through the heavy metal grillwork to the bug-free side of the chamber. With the scarf covering her face, she landed in a pose reminiscent of a proverbial blind sword master.
+
+In slow motion, Fabulosa poised her blade to backstab the druid while mouthing the words, “To Me!” The Returning Arrow punched through the skeleton’s rib. For an instant, slow-motion splinters filled its hollow body cavity before puncturing through its shoulder blades and spinal cord, killing it with 412 damage. The arrow continued to her hand, punching through the druid as well.
+
+Even though her attack hadn’t interrupted the druid’s control of the swarm, she, at least, freed herself from the biting insects. The heads in the ground bore witness to her foiling the druid’s strategy.
+
+Though I applauded the move, splitting the party presented dangers. I slammed Winterbyte’s old battlefield standard into the soil to coordinate our movements.
+
+Apache opens battleground channel.Apache joins channel.Fabulosa joins channel.Apache That was a nice move.Fabulosa Sorry to leave you behind. I hate skeeters. Apache Could you use your Rainbow’s End axe to confuse the insects?Fabulosa No, I can only use it once a day. Stupid weapon.Apache How so?Fabulosa It’s just stupid. A slashing weapon with an anti-swarm mechanic makes no sense. Apache After you backstab the druid, can you fireball me to burn away the bugs?Fabulosa I’ll nuke ya as soon as the cooldown ends.  Apache Thank you, my dear. Fabulosa It’ll be my pleasure.
+
+Closing my interface, I watched Fabulosa through my spearhead. She cast Ignite Weapon on her Phantom Blade and slashed it across the druid’s flank for 90 damage—critting on a backstab. Good for her.
+
+Unfortunately, our opponent possessed counters for our tactics. The druid turned and breathed an air blast strong enough to peel Fabulosa’s scarf from her face. Then, it directed one of its outstretched hands toward her. Moving unnaturally fast, half of the insects flew to her position as the druid moved its arm, surrounding both of us with separate galaxies of buzzing, biting pests.
+
+Without her scarf, Fabulosa brushed her face with her forearms and flailed. Her flaming weapon did little to stave off the swarm.
+
+As the insects divided, so split the skeletons. Four stopped their charge toward me and reversed their position to aid their master. They weren’t as fast as the insects, and we’d faced worse monsters, but the cloud of bugs neutered most of our spells.
+
+Fabulosa Ugh! I’m back in the skeeters! I tried to reverb that breath weapon back to the druid, but it’s another AoE—I can’t reflect effects that don’t require targets. It might not have even been a spell. Apache You can’t cast Fireball? Fabulosa No can do. Sorry, partner!
+
+My situation wasn’t any better. My new Hammer of Might would be perfect against the skeletons, but I couldn’t drop Creeper without blinding myself. I could use the Slipstream interface to see, but not in real-time. Slipstreaming through the grill would force the skeletons to chase after me, but buying extra time to avoid skeletons wasn’t much of an accomplishment. Since the druid could redirect the bugs with a flick of the wrist, I’d be back in the same situation.
+
+Even if I Slipstreamed away, no instant spells or power points purchases acted fast enough to clear the insects. My inventory held no items that could trigger an area of effect to stun or clear them.
+
+/Fireflies sting you 161 times for 0 damage (57 resisted)./Fireflies sting you 285 times for 0 damage (132 resisted).
+
+Something in my combat log gave me pause. It dedicated two lines to the combined insect attacks, separating the swarm’s attacks into successful hits and misses. I could see my new Wall of Might mitigating the damage to zero, but it did nothing to ease the pain or prevent them from interrupting my spells. After considering the combat elements, I realized how stupid I’d been. I already had a spell in my arsenal that could stop them.
+
+The insects weren’t just a debuff—they also delivered attacks. Preventing their burning bites would allow me to cast whatever I wanted. After doing some math, I invested 10 points into a Mana Shield. The faint blue bubble surrounding me held the stinging, glowing critters at bay. The Greater Fireflies debuff disappeared after a second, and I channeled Moonburn.
+
+The cone of damage hadn’t completely cleared the insects, but it stunned the skeletons attacking me. They smoldered as if on fire. The stun gave me enough time to cast my second Compression Sphere on Fabulosa’s position. Its concussive thunderclap killed fireflies in her orbit, replacing them with a white vapor cloud.
+
+Fabulosa, now free to cast spells, responded with a Fireball onto my position, killing the remaining bugs and sizzling the four Moonburned skeletons for another 34 points.
+
+Beribboned with Rejuvenate, I didn’t mind sharing the damage of a few skeletons.
+
+I looked forward to progressing this encounter into the wood-burning phase.

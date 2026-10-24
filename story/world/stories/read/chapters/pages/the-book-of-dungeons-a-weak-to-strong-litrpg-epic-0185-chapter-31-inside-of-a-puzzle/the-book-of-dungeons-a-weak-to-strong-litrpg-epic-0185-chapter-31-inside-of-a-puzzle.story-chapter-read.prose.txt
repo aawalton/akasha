@@ -1,0 +1,141 @@
+Fabulosa gasped at the picture. “Whoa, are you seeing this?” Even without Detect Magic, she could see the animals. She pointed to them and voiced their identifying features. “We got boar, fox, rabbit….” She mouthed the names silently to herself and turned to me. “I don’t see any pictures here that weren’t on the doors. Although, I don’t see a dinosaur.”
+
+“The bull is missing too.” We passed a door with a bull between the second and third-story stairways.
+
+Fabulosa ran up the stairs. “Let’s go see what’s going on with Mr. Bull.”
+
+I followed her, weapons ready. We jerked open the bull door, but we only saw a closet. Neither Detect Magic nor Mineral Communion revealed anything special about it.
+
+“Wait a minute, stay here for a second, and don’t touch anything.” Fabulosa ran back downstairs and shouted up to me from the foyer. “Bull is there, now! This painting shows which doors are open!”
+
+I closed the door.
+
+“Bull disappeared!” Fabulosa triumphantly called from the first floor.
+
+I rejoined her by the picture of the candle, and the bull had disappeared again. I reached for the only other magical object we’d found in the building, the candle, and pulled it from my inventory. After restoring it to the sconce, the icons in the painting disappeared.
+
+“What did you do?”
+
+I held up the candle. “It’s another magic item. Before you showed me the glass closet door, I saw it glowing and put it in my inventory.” I moved out of the room, and the animals reappeared. “Moving the candle in front of the painting hides the icons.”
+
+“Hmm. That’s weird.” Fabulosa walked to the closet door. The only door in the house without animals is this see-through door.”
+
+“Magnetize didn’t show anything special about the doors or the doorknobs. But it’s metal and strong.”
+
+Fabulosa clapped her hands. “Oh! Maybe it’s a combination lock. What if the right combination of open and closed doors does something to the see-through door?”
+
+I laughed. “Good call. Let’s try that out.”
+
+We counted and listed the animals between the four floors. Two such doors existed on the top floor, four on the third, six on the second, and four on the ground floor. I did the simple arithmetic. “I count sixteen doors.”
+
+Fabulosa shook her head. “That’s a sixteen-bit binary code of combinations. We can’t brute-force it.”
+
+“You mean destroy the door?”
+
+“No. My math teacher once said you could sometimes beat combination locks by trying different numbers. He called it ‘plug it and chug it.’ He says hackers can get past passwords by trying every permutation, hence, brute force. We need to figure out the sequence. But there might be something in common with the animals to give us a clue.”
+
+I sighed. There could be many similarities between them. We could group them geographically or whether the animals ate meat or plants. It could be the number of legs, color, or if they had fur. The animals might represent something impossible to figure out, like heraldic symbols or the toy animals Lord Rammons played with as a child. As we searched the house, I looked for other depictions of bulls, snakes, and oxen connecting the door to the room’s contents. I abandoned this theory when the dog door led to an empty room devoid of decorations.
+
+I created a cheat code with an hour and a half left to burn on Mineral Communion. While Fabulosa tried combinations, I went to each door, skimmed through the images, and recorded how often the gray-haired gentleman used it. This tactic only gave me five minutes per door, so I wasted no time scanning through memories.
+
+After writing each animal’s name on a scrap of vellum, I made hash marks every time the old man left the knob open or closed. Doing every doorway created a heatmap that showed hash marks in front of seven animals. Mirroring what I’d seen in Mineral Communion, I closed every door except rat, alligator, monkey, mule, ox, newt, and snake.
+
+A soft rustle around the stairway vibrated the crystal door as if the air pressure had suddenly changed.
+
+Fabulosa sighed. “Oh, that’s so unoriginal. That should have been our first guess. The first letters in the animal names spell ‘Rammons.’ Rat, alligator, monkey, mule, ox, newt, and snake. Get it?”
+
+I grunted. “I don’t mind cheesy puzzles as long as we can figure them out.”
+
+Leaving the foyer, we approached the crystal door to see if anything had changed. The closet no longer lay beyond it. Instead, a stone hallway disappearing around a corner awaited on the other side of the window.
+
+Fabulosa propped the door open with a heavy bolt of cloth we’d purchased earlier that day.
+
+The air beyond the crystal door felt cool and damp, unlike anywhere else in the building. The chill smelled like underground. I exhaled, but my breath wasn’t quite visible. Prominent flagstone blocks formed a corridor floor, walls, and ceiling.
+
+With the door propped open, we ventured toward the corner. Above us rose a fifty-foot shaft to daylight, even though my internal interface clock showed midnight. The rough stonework differed from the house, and the air smelled damp.
+
+Fabulosa confirmed my suspicions. “Check your map. We’re not in Malibar anymore, Toto. Goodbye to double damage.”
+
+Aggression’s buff disappeared in this space. We must be underground, for the interface map didn’t show our surroundings, but the location name read—Maze Entrance.
+
+Around the corner stood another crystal door. I used the waning seconds of Mineral Communion on the surrounding rock to see who entered this space. Scenes of Lord Rammons and his grandfather pushing through it assured me we followed the right trail.
+
+Beyond the second see-through door opened a mist-filled room about 25 yards wide and long. It veered right around another corner.
+
+I moved closer to the second door. As expected, it held fast and felt strong. I peered through the window. Fog or smoke hung motionless in the air. The room beyond it looked unnaturally clean. Even its stonework looked smooth and bare, like polished cement.
+
+A fire pit with a large skillet resting across it glowed a faint blue light. Nothing moved, and the blue glow beneath the skillet didn’t flicker. Was that a gas flame?
+
+“What do you think—does it look safe?”
+
+“It’s too weird to look safe, but there’s only one way forward.”
+
+Following the gentleman’s afterimage, I pushed the see-through door, but it didn’t budge. When Fabulosa saw me having trouble, she joined me, but the metal-framed crystal doors barely rattled.
+
+I strained, but no amount of force couldn’t move the door. “It probably operates like an airlock. I bet this door won’t open unless we remove the bolt of cloth holding open the other door. But if these doors only open from one side, we won’t be able to backtrack.”
+
+Fabulosa shrugged and went to the first door. “In for a penny….”
+
+When she removed the doorstopper and closed the first door, two things happened. The room beyond the windowed door changed. Instead of showing a chamber of fog with an eerie fire pit, it turned into a bone-strewn hallway of rough flagstones. The image of a frog appeared etched in the window.
+
+“Wait! What happened? The foggy room went away. What did you do?”
+
+Fabulosa held up her hands. “Nothing. I just removed the bolt of cloth and closed the first door.”
+
+Mineral Communion had already expired. I wondered what had happened. Had we teleported, or had the foggy room on the other side of the second door been an illusion?
+
+I took in the carnage through the window. The bones stood so high a person could barely step over them, and whatever had killed them hadn’t picked them clean. Dried offal and sinew clung to the remains. I cast Detect Magic, but only the doors glowed.
+
+I couldn’t imagine the wizard or his grandson traipsing through that mess to get to their treasure room. It just didn’t seem right. They’d get their clothes filthy.
+
+Cringing, I used my robe to reset the 24-hour cooldown on Mineral Communion and recast the spell. I looked again through the window and saw no scenes of Lord Rammons or his grandfather. Instead, I saw hapless dwarves, kobolds, orcs, and goblins fighting against a minotaur so broad-shouldered that it nearly touched both sides of the walls. “Bingo!”
+
+“What?”
+
+“I reset my cooldown to cast Mineral Communion again. The visions show a minotaur beyond the door.”
+
+“What level is he?”
+
+“Stones don’t see nameplates, so I don’t know. Judging by the adventurers he’s plowing through, he’s no pushover. And see how the halls are narrow? Only one person can fight him at a time—and there’s no way to get around him.”
+
+Fabulosa leaned against the windowed door, holding it open. “One of us could Slipstream past him, guaranteeing at least double damage for critical backstabs. What doesn’t make sense is the animal on the door. The image etched in the window is a frog, not a bull.”
+
+Using my magic, I viewed the past battles against the minotaur. The people fighting it didn’t always carry weapons, but even those with arms died quickly. The scenes weren’t encouraging.
+
+I shook my head. “I don’t know. The frog might be a part of another puzzle—or maybe it corresponds to a door in the house. I’m more concerned by the minotaur. It looks like it does a lot of damage. I’m not sure either of us could withstand its attacks for long. We might be better off just Slipstreaming past the thing and making a break for it.”
+
+“A minotaur? You know where minotaurs live, right? One wrong turn, and we’re out of luck.”
+
+“Of course, I know about minotaurs. If adventurers could stand and fight them, the maze would have no purpose.”
+
+Fabulosa grunted but made no other comment. She watched for present dangers while I scanned for the past. Mineral Communion showed scenes of humanoids running into the room, followed by a minotaur. They died trying to open the door from the other side. After goring them to death, it dragged their carcasses away.
+
+I shifted my gaze to the glass icon. “I didn’t see frogs in the visions, just one big minotaur.”
+
+Without further consultation, Fabulosa pushed through the door. “Well, this ain’t our first rodeo, either.”
+
+The place smelled like a filthy barn, and I wanted to gag. I followed my partner partway, stopping in the doorway. I held it ajar in case the minotaur proved too tough to handle.
+
+We listened to the echoing silence.
+
+Fabulosa shattered the peace by shouting. “Toro, toro! Olé!”
+
+Her voice stirred nothing. “Maybe it’s dead.”
+
+“Good one. Come on, let’s get a move on.”
+
+Fabulosa caught the door before it closed behind me, feeling for a way to open it. “There’s no handle on this side. Do you think we can prop it?”
+
+“We could. There are plenty of bones for doorstoppers. But what if doing so jams up an exit elsewhere? Remember when the doors shuddered? It might work like an airlock.” I traced my fingertips against the frog etched in the crystal.
+
+“I’m good with shutting it if you are.”
+
+While mulling over the situation, I ignited Presence, and we re-buffed Heavenly Favor.
+
+Fabulosa released the door.
+
+When it closed with a click, a bellow erupted from far away, followed by the sound of clopping hooves. Whatever ran sounded large and bipedal.
+
+I tried to open the door again, but it wouldn’t budge.
+
+Fabulosa winked and ran forward. “Come on, cowboy. I can’t be the only one hankering for ribeye.”

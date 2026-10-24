@@ -1,0 +1,185 @@
+Recapping my theories about the relic would have dragged the conversation too far into the weeds. “Our chamberlain, Greenie, is the brother of Rezan, the goblin king. Rezan may find a relic to give him an edge against us. I’m heading north to stop him, but if I fail, the town needs to ready itself for hostilities.”
+
+The soldiers exchanged grins and cocky glances.
+
+Lazaar leaned back. “Why didn’t you say so, governor? If you’re expecting action, sign me up!”
+
+I almost explained that I’d not realized the danger until early morning before realizing the point wasn’t important. “Are you willing to follow an orc? Unless it comes from Fabulosa or me, Yula’s orders prevail in the day-to-day security.”
+
+Thaxter’s eyes grew distant when he spoke. “She could hardly do worse than me. I’ll be available should you need counsel. Perhaps farming can wait a while. Do you have a quartermaster?”
+
+Not knowing what a quartermaster was, I replied without missing a beat. “No. Do you want the job?”
+
+Thaxter mumbled to himself. “I’ll need to survey the arms and town’s battle readiness.” After realizing he had talked out loud, he jumped to the next thing on his mind. “Where is Commander Yula now? May I speak with her?”
+
+I shrugged. “If Yula wasn’t in the barracks last night, she’s probably on an extended patrol. Reviewing the town is a good idea. I need to take stock of the place, too. Commander Yula should be at dinner and can introduce you during our citizenship ceremony—it’s a thing we do for new blood.”
+
+I left them talking about goblins and the battle college. The sound of their enthusiasm left me expecting a dozen more citizens by the end of the day.
+
+Ally and Fletcher flanked me when I emerged from the town hall. I needed to talk to Ally, but I asked Fletcher what he wanted.
+
+“Hail, conqueror of the East! Iris regaled me of your travels. I’m sorry the Weekend Follies were closed during the fort’s crisis. It seems the only culture you picked up related to fashion, although one could do worse, I suppose.”
+
+Aside from Fabulosa’s hobby or the white sashes we wore throughout Fort Krek, I did not know what fashion pickups he meant.
+
+Ally exhaled loudly through her nose and crossed her arms.
+
+I took the hint. “Fletch, it’s great to see you again, but I must ask if there’s something you need right now. I’m swamped.”
+
+“Right, then. Iris assigned guards to the caravan. So, I’m supposed to tell you that the merchants want to leave. She wants to know if Hawkhurst has requisitions or packages that need delivery. The caravan drivers offered to facilitate the town’s missing needs—for a reasonable fee, of course.”
+
+I’d never considered that caravans could serve as a worldwide gofer service. Instead of schlepping to cities, we could put in orders as wagon trains passed through town. What a boon! As attractive as this prospect seemed, the daunting image of my desk’s unread, unopened, and unaddressed parchments darkened my imagination. “Can they wait until tomorrow to leave, or do they need to leave now?”
+
+Fletcher’s uncomfortable expression answered my question.
+
+I saved Fletcher the trouble and changed my reply. “Fine. Let them go. Hawkhurst doesn’t want to slow down traffic. But I’m curious. Why did they make such a strange offer?”
+
+“Let’s just say our guests stayed at the inn and found its amenities lacking—shall we say?”
+
+I nodded. “Tell the merchants to pick up whatever fell short. We’ll foot the tab. Oh! And tell them to tell the other merchants about the trade route.”
+
+Fletcher shook his head. “I’m afraid they’ll do no such thing. Merchants are competitive. They’ll want to keep this trade route a secret as long as possible. They’ll probably lie to everyone and complain about the salt tariffs in Arlington. But don’t worry—our guards will spread the word.”
+
+After thanking Fletcher for his help, I turned to Ally. “How are you and the work crew holding up?” Before Ally answered, I opened my settlement interface to check Hawkhurst’s numbers.
+
+Name
+
+Hawkhurst
+
+Level
+
+2 (151/500 population to next level)
+
+Location
+
+-0.8, -13.9
+
+Government EconomyExchequer
+
+DictatorshipCommand1,184 gold
+
+Patron DeityFavor
+
+Forren7,231
+
+Officers
+
+5 (Apache, Fabulosa, Ally Ironweave, Esol, Yula)
+
+Morale
+
+122 percent (carefree)
+
+Powers
+
+Aggression, Amphibious
+
+The settlement’s details showed no red flags or surprises. Its population figure confirmed Hawkhurst had suffered no deaths or defections since Fabulosa and I had toured the Eastern cities.
+
+The amount of favor in the town’s cache looked deceptively large. We only need 4,000 for Fabulosa and me to receive the blessing called Holy Smoke, which gave us the power to materialize at Forren’s altar once a day within Hawkhurst’s borders. Holy Smoke offered the closest thing to having an extra life in The Book of Dungeons, so unlocking it seemed a sensible precaution for the battle royale.
+
+Power (blessing)
+
+Holy Smoke (tier 3)
+
+Prerequisites
+
+Temple, Recipient must be a blessed follower of Forren, 1,000 favor must be spent for every other blessed follower of Forren
+
+Cooldown
+
+Once per day
+
+Cast time
+
+5 seconds
+
+Description
+
+Caster assumes the form of smoke, materializing by altar 1 minute later. Must be within settlement boundaries to cast.
+
+Blessings weren’t the only reason to save favor points. I could spend accumulated favor to rush a structure, but rushing construction without leftover favor for blessings defeated the purpose. Erecting a temple would be a significant project, so prioritizing another structure made more sense.
+
+Seeing mentions of the exchequer in the settlement interface reminded me to talk to Greenie about the town’s finances. I’d been too lax in separating my money from Hawkhurst’s. Whenever I gave gold to Charitybelle of Fabulosa to buy supplies or resources, the leftover funds sometimes went into the city. Sometimes, the change came back to me or went toward other purchases.
+
+My attitude toward money changed after the worm’s gold cylinders. Money held little value in the wilderness, and since players cleaned out the magic shops, we saw little reason to be frugal. As someone who grew up poor, it felt strange that tracking money became more of a nuisance than a worldly concern. I doubted this attitude would persist after I finished the game.
+
+I expected an earful about our economy from our goblin chamberlain after the completion of the market. It amused me that the interface window referred to Greenie’s given name, Esol, and not his nickname. If my trip to the Bluepeaks resulted in his brother’s death, perhaps the little guy could claim his brother’s throne. It would certainly ensure the town’s security.
+
+Or better yet, force Rezan to build a throne for Esol—according to goblin humiliation rituals. Either way, losing the throne to Greenie would serve the power-hungry brother just desserts for imprisoning him.
+
+Helping Greenie settle his sibling score required some tiptoeing. He and Rezan shared a bonded promise not to harm one another. If I dethroned Rezan with force, I needed to be careful not to tell Greenie of my plans. If our chamberlain knowingly allowed harm to his brother, it would be his undoing. What this exactly meant in The Book of Dungeons, I couldn’t fathom, but it didn’t sound good.
+
+Morale
+
+122 percent (carefree)
+
+Factor Events
+
+210 percent
+
+Factor Security
+
+70 percent
+
+Factor Culture
+
+74 percent
+
+Factor Health
+
+89 percent
+
+The morale tab brought a mix of good and bad news. Its events showed boosts from the caravan’s arrival and an influx of guards but a slight setback from a reported troglodyte attack. The assault’s details weren’t in the interface, but it couldn’t have been too serious since our population hadn’t declined.
+
+The trog affected our security rating, dropping it from 90 percent to 70, but it improved by 1 percent after every passing day.
+
+While this looked like a self-healing issue, Fabulosa wouldn’t let it alone. She had a vendetta against them. We attained a higher level than the creature that attacked us many months ago, so it seemed hardly a critical concern. I just wanted to ensure she wouldn’t draw a pack of them to our doorstep.
+
+I closed my interface with a refreshed perspective on Hawkhurst’s sunny state of affairs.
+
+Ally uncrossed her arms and placed them on her hips. “Pleasantries and welcomes aside, I’m pounding problems only a guv can quench.”
+
+“It’s good to see you, Ally. What’s the problem?”
+
+“I’m sorry to pile on, Guv. There a tangled mess of them.”
+
+“How about this? What’s the worst problem—the one you can’t put off until later?” The question stopped Ally in her tracks. She hemmed and hawed until I gave in. “Okay, what are the top issues?”
+
+“First, thar’s the market. ‘I’m foggy about how many crew I’ll lose when we open the gates to private ventures. If’en we lose the whole workforce, you’ll see scant progress building-wise.”
+
+“I’ll bring it up at the town hall tonight. Maybe someone will have an idea. What else?”
+
+“We’re sore for storehouses and utility-type structures. Thar’s complains about the bakery stinking up the thoroughfare ‘tween the roundhouses.”
+
+“Stinking up the place? How can a bakery smell bad?”
+
+“That’s what I thought, but the yeast for the brewery wafts clear through the living quarters. One snoot makes people ill. The bakers have nowhere else to sprout the stuff.”
+
+“Okay, that is bad. I’ll take a whiff on my way back to the manor.”
+
+Before I could exit, Ally brought up a blacksmithing issue. “And then there’s the wee pile-up at the smithy. Rory is in a dour state. Everyone’s asking for tools, and he cannae work in his open-air smithy without people pestering him—”
+
+I rested my hands on my hips and sighed. “I get the picture. You might as well give me the list. I’ll prioritize the blacksmithing queue. What else?”
+
+“Rory and Fin need help, but there’s nay more place in the smithy. They require a storehouse to keep the raindrops off the scrap, but farmers need storage, too. They’re nigh close to losing crops. Ol’ Forren’s bounty makes a wee bit more than we can eat. And we’re in dire need of a woodshop….”
+
+I took a few steps back to show I wanted to get away. “It sounds like you have a lot on your plate. Let’s meet this afternoon at the manor. Greenie and I will be there. If you see Fabulosa, grab her too. If I have to suffer, so does she.”
+
+Ally laughed. “I cannae promise to deliver the L.T. She, Rachel, and Yula poked into the forest in chase of the trogs.”
+
+“Of course she did. This means Yula will be out for town meetings. I don’t know. Maybe three officers will be enough to solve problems. They better not complain about our decisions when they return to town. I have an earful of Ida waiting back at the manor. Are you free for a pre-dinner chat?”
+
+Ally looked unhappy about waiting for answers, but that was too bad. I had life-or-death issues to discuss with Greenie.
+
+I walked to the manor as fast as I could. Most of the people who saw me nodded and smiled. Some welcomed me back or waved, and it fortified my enthusiasm to see people in high spirits.
+
+When I walked into the manor, Ida handed me a ball of the fuzzy metal webbing we’d found in the forest, spun by the arc weaver.
+
+“What’s this?”
+
+“The lieutenant said this would remind you to prioritize a steel wool cape she wanted to make in the smithy. She’s on patrol and wanted you to clear a space for her in the blacksmith’s schedule when she returns tomorrow.”
+
+What was I, Fabulosa’s personal assistant? The tuft of spun metal felt rough, unlike the bolts of fabric we took from the wizard’s vault in Malibar.
+
+Instead of growling, I thanked Ida and tossed the spongy metal on the paperwork. It looked like the garnishing of an unappetizing meal.

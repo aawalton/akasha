@@ -1,0 +1,131 @@
+Opening my Slipstream interface, I positioned the reticule near Thaxter’s body. Doing so gave me a closer view of his surroundings. The kudzu-like vine surrounding him had thick stems, and its glistening leaves stuck to him like a spiderweb. He hadn’t the state of mind to cut himself free.
+
+After describing what I saw, Captain Jourdain shook her head. “Witchvine.”
+
+The corporals exchanged worried expressions.
+
+“Witchvine is a carrion-eating vegetable. It’s deadly, but I’ve never heard of it growing this far north.”
+
+Fabulosa shook her head. “It looks like the bird led him here to die.”
+
+Corporal Turan twirled a lock of her hair into a knot and turned to Captain Jourdain. “Sir, this and the bloom are harrow signs. There might be a witch out here.”
+
+Jourdain raised his voice. “There’s no such thing as witches, corporal.”
+
+“Yessir.” Corporal Arikan nodded, but she didn’t look convinced.
+
+Fabulosa turned to Jourdain. “Um—what makes you say that, captain?” She beat me to the question. In a world full of magic and monsters, the existence of witches didn’t seem so far-fetched.
+
+Captain Jourdain arched his eyebrow as if Fabulosa had asked a stupid question. “The last witch died hundreds of years ago. Everyone knows that.”
+
+I shook my head. “I’m sorry, captain, but we’re unfamiliar with witches. What makes them so bad?”
+
+Jourdain assessed me with the same critical eye and spoke in a tight, controlled voice. “Witches wither a kingdom and blight the land for hundreds of miles.” He directed a dissatisfied look toward Corporal Arikan. “And we’ve seen bloom plenty of times before.”
+
+Thaxter’s weak moan interrupted the squabble.
+
+The five of us approached the edge of the witchvine. His nameplate showed a weakened status of Exhaustion debuffs, 70 health, and almost no mana.
+
+“Here, take this water, sir.” Jourdain tossed his canteen to the delirious commander. Aside from a flinch, Thaxter barely acknowledged it. “Drink it, sir! You’re dehydrated.”
+
+Thaxter pulled away from the plants sticking to him. After failing to extricate himself, he slackened and gave up. Instead, he rambled. “We’re born in prison, Jourdain. Can’t you see it? It is here, all around us. The old ones spat it out of the earth. We are masters only in exile—in this wasteland.”
+
+Captain Jourdain held up a hand. “Sir, we’ll get you out of there. Just hold on.”
+
+Turan murmured to Arikan. “He’s talking about the prison again.”
+
+Jourdain shook his head, but it wasn’t clear if he did so out of pity or disapproval of Corporal Turan’s comment.
+
+Thaxter raved with unfocused eyes. “The land and air imprison us. And we are the rats, Goodner, but even among the rats, there is a king. Prison rats have their king, don’t you see?”
+
+I asked Fabulosa. “Do you think he is talking about the kobolds?”
+
+Fabulosa shook her head.
+
+I lowered my voice. “Maybe he’s become aware of the game—like he knows he’s an NPC.”
+
+Fabulosa grunted and waved her hand. “He’s crazy, and all this sounds like a load of hooey.”
+
+We chopped away the sticky vegetation while the skies darkened with rain clouds. Fabulosa made more progress by Scorching the foliage, and we soon followed her lead, clearing away the plants with fire.
+
+Fabulosa rubbed her hands to clean off the goo from her fingers. “I have a better idea.” She cast a Restore on Thaxter, then Fireballed him. The commander survived the blast, but the vegetation holding him charred into harmless ash and floated away. The blast also revealed a wall of masonry.
+
+Fabulosa and I exchanged a glance of recognition. The brickwork reminded us of the temple above the relic room in the kobold territory. We popped off more Scorches while she waited until her Fireball cooldown ended before blasting away another section of vines. The embankment sloped to a precipitous 60-degree incline.
+
+I checked my map, and the coordinates affirmed we stood at 65.1, -22.8. Thaxter had nearly reached his goal.
+
+“What is that? Is that a building in there?” Jourdain spoke after we cleared away enough witchvine from the temple.
+
+“It’s Thaxter’s destination. Fab and I will take a closer look after we revive the commander.”
+
+Fabulosa grimaced. “I am not sure that reviving him is a good idea. He’s fit to be tied as is.”
+
+As if to punctuate her observation, the commander kicked at the corporals binding his legs together. The more we pulled Thaxter out of the witchvine, the more he thrashed to return.
+
+Turan cried in frustration. “He’s trying to get back in! Get out of there, sir!”
+
+I turned to Fabulosa. “He might get better in the Dark Room.”
+
+Fabulosa pulled a sticky stem of witchvine from his armor. “Do you really want him in there? He’s going to make an awful mess.”
+
+“The enchantment may break if magic doesn’t work in the Dark Room. But we need to get him inside first. What do you think?”
+
+Fabulosa grimaced at the prospect but shrugged. “If we can haul him up there, it might be worth the shot.”
+
+Jourdain turned to face me. “Governor. You’ve been more than generous. My men and I will take him back ourselves. We won’t hydrate him until he’s secure in the Dark Room. It’ll be easier to hoist him inside if he’s weak.”
+
+The corporals wound a rope around him, securing him to a long pike. They intended to carry him through the brush like a prized hunting trophy.
+
+“Captain, can you give me your word that you won’t hang Thaxter after we leave?”
+
+Jourdain gave me a disapproving look and smoothed his mustache. “We’ll do no such thing. He’ll stand for the tribunal over Captain Goodner and for losing half of our party. We’ll answer for what we’ve done too. We still follow the code.”
+
+I studied Jourdain’s corporals. The pair lashed Thaxter to the stake, but I knew they listened. None of them looked surprised by the captain’s words, nor did they show signs of disputing his decision.
+
+Fabulosa checked the binding. “He’s good and wrangled. Between the eight of them, they’ll manage him.” She turned to Captain Jourdain. “Can you carry him to the Dark Room?”
+
+Jourdain nodded. “We’ll take him from here. He’s our responsibility.”
+
+I turned to face the vegetation-choked ruin. “And that temple is ours. If we don’t return in 24 hours, take your people back to Fort Krek.”
+
+“Thank you again, governor. I assure you we’ll square away Thaxter before you return.”
+
+After they left, Fabulosa cleared away more of the temple with Fireballs. I sized up the daunting 60-degree incline of the overgrown tower. Its pinnacle rose five stories and tapered on all sides like a steeple. If its design mirrored the other dungeon, a crypt awaited in its depths.
+
+I playfully nudged Fabulosa. “Are you ready to get a celestial core?”
+
+Fabulosa tried not to smile but failed. “Let’s not count our chickens.”
+
+We started climbing the ruins, but Fireballing plants had dirtied the bricks with ash and soot. Rainfall began when we reached halfway up the structure. Rainwater dribbled down the sides of the pyramid, making the bricks slippery. As refreshing as it felt to wash the grime from my face, the water weighed down my robe. The 60-degree incline felt like a sheer vertical climb, but we slowly conquered the obstacle.
+
+Reaching my arm over the top, I felt for a surface but felt nothing but air.
+
+The summit wasn’t steepled like a pyramid but opened like a wide well. I hoisted myself over its lip and looked down. It wasn’t an oculus—we stood atop an opening into another star chamber. No hieroglyphics covered the walls. Instead, erosion and moss smoothed their blocks like river stones.
+
+Even in the daytime, the rain clouds darkened the interior enough to obscure the chamber’s contents. I didn’t want Creeper’s infravision to disorient me at this height, so I ignited Presence. The spell’s radiance made the raindrops around me glow, and I had to peer past them to scan the space beneath me.
+
+A tree grew from the pit’s center. Fallen masonry surrounded its base.
+
+I turned to Fabulosa. “This looks like a wrecked version of the other dungeon. Remember the star chamber?”
+
+Fabulosa tossed a few glow stones into the pit to improve our visibility. “This isn’t as tall as the other star chamber, but the opening is bigger.”
+
+I smacked the nearest block on the jagged lip. “Well, yeah, that’s because this one is half-collapsed. Look at how irregular the top is. The lip of the oculus is scattered across the floor.”
+
+“Yeah, maybe. I think you’re right. The blocks by the tree trunk don’t match the floor.”
+
+I turned on Mineral Communion and scanned through the temple’s past. Too much grime covered the eroded stonework, so the exposed rock saw little of its history. I saw birds, insects, and lizards crawling about, but there were no scenes of robed lizardfolk shifting around racks of gems. If we removed the tree, mud, and debris, we might find constellations painted on the floor, but the undertaking would require weeks of labor.
+
+Fabulosa cast Heavenly Favor and made a short jump to the treetop. She lashed a rope around it and rappeled into the chamber below.
+
+I followed her lead, climbing down the line after she reached the bottom. Presence revealed no signs of monsters, so I put Creeper away and pulled out my trident, which caused extra damage when wet. The weapon felt stupid, but I couldn’t deny its combat bonus.
+
+As I followed Fabulosa down the line, I took in the environment. The musty atmosphere made a bouquet of rotting wood, leaves, mold, and clay. My breath felt labored, but its chilly temperature refreshed me, especially after the precarious climb. Plants, weathering, and erosion slicked the walls with slime. Little of the original floor remained visible beneath the ossified mud, fallen blocks, and prominent tree trunk. Many roots penetrated the chamber, making it hard to judge if they held the wall together or compromised its integrity.
+
+A few black ants crawled down the tree that dominated the room. The level 1 bugs grew to be as large as a shoe, but they didn’t seem to mind a few visitors dropping in unannounced.
+
+While the star chamber had identical dimensions to the other, the layout beyond looked different. In the room where we’d fought Winterbyte’s chimera, each of its four walls had an opening—a door, stairwell, or passage. But here, one wall had partially collapsed, so we couldn’t know what connected to it, but each of its remaining three sides had two doorways.
+
+When I reached the chamber’s floor, I slapped the soles of my mud-caked boots against the stonework, shaking it off. Losing the excess weight readied me for combat, and the solid floor beneath my feet felt good.
+
+My stomping footfalls echoed off the sides of the pyramidal chamber, and Fabulosa gave an exasperated face for making so much noise. But only oversized ants stirred the stillness. They scurried about their business, carrying morsels of meat in plier-sized mandibles.

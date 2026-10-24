@@ -1,0 +1,143 @@
+Were I a ranged attacker, returning fire while dodging boulders may outlast this brute, but my short-ranged spells compelled me to engage. Before the centaur picked up another boulder, I refreshed Heavenly Favor, equipped the Hammer and Shield of Might, and closed to melee distance. Normally, I’d use Creeper for a monster this size, but bludgeoning weapons made more sense for stone-related opponents.
+
+I considered using my Lance of Commitment, but the valley’s rocky bottom thwarted the use of mounts or linear charges. Missing would force me to drop it forever. Nor could I judge my target’s agility. I wouldn’t risk losing my lance over a creature six levels beneath me.
+
+The centaur’s feral face looked unintelligent, and its helmet of horns darkened its savage features. As I flew toward the beast, it gulped a mouthful of air and emitted a discordant blare of notes, like bleating French horns and squealing clarinets. Resonance chambers connecting to the beast’s nasal cavity turned its horns into horns. Duckbilled dinosaurs made the same sound during my southern canoe trip with Yula, but their deep tones relaxed me. This creature’s noise made me cringe, prompting a debuff to appear in my interface.
+
+Debuff
+
+Erosion of Action
+
+Increases chance to miss by 33 percent
+
+Duration
+
+30 seconds
+
+Erosion of Action accounted for the creature’s high danger rating. Usually, creatures six levels beneath me would easily rate as a green—or easy—threat level.
+
+I usually landed five out of six attacks, so this debuff reduced my damage output significantly. With Erosion of Action hanging over me, it wasn’t wise to Slipstream behind the monster because missing a backstab only wasted Slipstream.
+
+Despite the debuff, my opening Charge landed a lucky critical hit.
+
+/You crit Talax Centaur for 84 damage (0 resisted)./Talax Centaur kicks you for 42 damage (14 resisted)./You miss Talax Centaur./Talax Centaur kicks you for 36 damage (16 resisted)./You miss Talax Centaur./Talax Centaur hits you for 35 damage (18 resisted)./You cast Rejuvenate.
+
+My luck ended. Attacking a two-story tall creature meant I fought its legs, but its two long arms and metallic hooves meant attacks came from all around. A level 21 monster shouldn’t endanger me, but I wasn’t too proud to use my entire toolkit. I zapped it with Shocking Reach for 24 damage. Scorch would have inflicted around 40, but a 6-second cast wouldn’t work against this many punches and kicks.
+
+Changing tactics, I backed away to give myself time to cast a spell. The centaur inhaled and pursed its lips, inflating its cheeks like a trumpet player. Its halo of thorns bleated a glottal, sputtering sound.
+
+Another debuff appeared in my peripheral vision.
+
+Debuff
+
+Mindrust
+
+-9 willpowerUnreliable short-term memory
+
+Duration
+
+30 seconds
+
+Forgetfulness seemed like a rather broad description. I didn’t feel any different. Was this the spell equivalent of the chance to miss debuff? I wasn’t in melee range, although I couldn’t remember why. We’d traded blows already, and our health bars showed, but I’d forgotten the beginning of combat. What had happened?
+
+The centaur picked up a heavy stone and chucked it at me, but I dodged it using Slipstream and swooped behind the beast. I cursed the gods of luck when I missed. Backstabbing increased my chance of critically hitting. The unfairness of it annoyed me.
+
+Debuff
+
+Erosion of Action
+
+Increases chance to miss by 33 percent
+
+Duration
+
+14 seconds
+
+I realized my problem when I checked out my interface. Another debuff called Erosion of Action explained why I’d missed my backstab. The centaur gave me a closer look at its metallic hooves when it mule-kicked me from its flank—delivering a two-second stun.
+
+Beaker dove in the giant’s direction as it picked up another stone. While my Familiar got nowhere close enough to use his talons, the griffon’s lazy banks in the air distracted it. The more I watched, the less convinced I felt Beaker understood the dangers of combat. He seemed cheerful, as if at play.
+
+The talax centaur heaved its stone at my pet, but the projectile missed by a wide margin. Picking myself off the ground, I retrieved my weapons. With the centaur following Beaker, I channeled a 100-point Moonburn on the beast, ending with a 60-point zap from the Light Crossbow.
+
+The centaur picked up another boulder, turned, and dropped it on me. I tried to Slipstream away, but its cooldown prevented me, and the stone critically hit me for 156 points and a 2-second stun. When had I used Slipstream?
+
+The creature engaged me as I picked myself off the ground. Metal hooves and fists flew at me, and my counterattacks kept missing their mark. Away from the wet river stones, sparks flared beneath the monster as it danced across the rocks.
+
+Soloing without a tank proved difficult. Too many of my spells involved channels and long casts. When Beaker caught the monster’s attention, I stuck behind it for another backstab. This maneuver felt natural against tall monsters—but I missed. Luckily, whiffs drew no aggro, giving me a chance for another. When my second attempt failed, I checked my interface. The roots of the problem drew from two debuffs, one for forgetfulness and another increased my chance to miss—but the debuff’s expiration time neared.
+
+Beaker danced in the space above the centaur, who stupidly launched its stone straight into the air. The missile missed the griffon by many yards but fell onto the creature, inflicting over a hundred points of damage.
+
+I praised my pet with telepathic messages. “Good boy, Beaker! Keep him occupied.”
+
+After repositioning behind the centaur, I stuck a critical hit, bringing the monster to half-health. When it whirled about, I pressed the attack, swinging the Hammer of Might against its lower body and legs. The monster backed away and blew a chord of screeches and bellows—refreshing my debuff for missing attacks.
+
+Popping a quick Arcane Missile and Scorch brought the monster down to a third of its health pool. When it Charged, so did I. While I missed over half the time, my hits took 40-point chunks out of its remaining health pool. I finished the centaur with one last blast from my Light Crossbow.
+
+The battle hadn’t gone as smoothly as I expected. I tempered my future combat expectations. I wasn’t as effective in combat without another player taking half of the aggro and healing me when I needed it.
+
+Beaker exalted in the air while I performed a Rest and Mend. Shaking my head at his antics, it amused me to see him having fun. For my life, I couldn’t remember why a level 21 creature had given me so much trouble.
+
+The fight yielded meager experience, barely 50 points, but the beast held excellent rewards. It carried gems of unknown value, a ring that gave +5 stamina and +5 strength, and an orange core.
+
+Item
+
+Orange Core
+
+Rarity
+
+Rare (orange)
+
+Description
+
+Level 21 coreBoss Bonus 1 MagneticBoss Bonus 2 Metallic
+
+Cores had something to do with Crimson’s algorithmic programming. If every entity possessed one, perhaps cores represented the topmost hierarchy level. If a mountain had a core, its mineral composition, erosion, and volcanic activity might be its parameters. Maybe this structure simplified the game engine, making processing more efficient for the servers governing The Book of Dungeons.
+
+I removed the Ring of Fireball Diversion to make space for the +5 stamina and strength ring—a huge upgrade. I placed the unused ring in my inventory beside the Circle of Temperance, the ring that regulated body temperature.
+
+Despite the centaur’s bounty, I considered yielding more from it. By using the Mummy Wraps, I could turn it into a badly needed tank. But undead monsters diminished to half the strength of their living versions, so a level 21 corpse generated a low-level meat shield—and one that I couldn’t dismiss when I entered goblin country. Having such a sizable companion tempted me, but it seemed wrong for the mission.
+
+Magnetize revealed the centaur’s corpse had many metals inside, but it wasn’t clear why. Nor did it reveal why the creature’s core bonus included Magnetic properties.
+
+Was there something special about this place? The mountain’s face had fewer trees than its neighbors, and its reddish hue indicated iron in its chemical makeup, but no artifacts or strange formations protruded from its barren face.
+
+My search of the area uncovered nothing noteworthy, but with the day ending, I decided to begin my ascent up Iremont fresh tomorrow. I withdrew into the Dark Room. It felt strange sleeping alone in it, and I entertained myself by replaying conversations with Fabulosa about dividing loot.
+
+I regretted surrendering Odum’s Spectrometer without a fight. When it had dropped, the grind had numbed me enough not to care. Grinding monsters in other games didn’t compare with experiences as immersive as The Book of Dungeons.
+
+Fabulosa had also found the Phantom Blade and her cape, but I counted my blessings. I owned the Robe of Rewind, Creeper, and the trident that let me fight underwater. Plus, I had a purple core. Perhaps raiding the goblin vaults would yield a metal worthy of it.
+
+The third morning’s progress up the slope presented a climb more precarious than the Jackstraw Forest. Because I’d never climbed a mountain before, I never realized how much its face blocked visibility. As much as heights bothered me, the lack of a horizon played tricks on my brain. Climbing routes looked too steep because I had no orientation without the backdrop of a sky. I had to turn my neck to judge angles and study the topography, but it wasn’t the same.
+
+Unlike foothills, I had to read the terrain before planning my path. Without looking ahead, I might dead-end into pockets too steep to climb. I planned my climb, and I climbed my plan.
+
+The surreal anxiety of the valley beneath me made my heart race and my palms sweat, but I forced myself to get used to it. I’d performed skateboard tricks before, but my thrill-seeking paled compared to Iremont. Boys from beach towns had no business climbing mountains.
+
+I took my time and mentally repeated that the 40-degree incline wasn’t vertical and falling wasn’t likely. Focusing on the statement’s logic helped me ignore the yawning valley below. I reminded myself that I had Slipstream and other mechanics to save me from falling, but I never resorted to using them. The longer I climbed, the more comfortable I grew with the altitude. If anything, I worried more about the trip down.
+
+Beaker behaved like a headcase all day, rolling through the air with effortless aplomb. Enthralled at my skyward advance, he sent telepathic messages. “You are high. We should live here! We can see everything now!”
+
+At first, my ascent rate averaged 500 feet per hour, but this slowed as wind speeds increased at higher elevations. The ground below dizzied me so much that I couldn’t tell how far I’d climbed. The mountain’s face blocked my view, so visibility remained poor. I took many rest breaks, including two meals inside the Dark Room. I hated to eat in there because red mud and dust covered me. After 14 hours of effort, I reached Iremont’s plateau. I hoped the air’s chill came not from the elevation but from the waning sunlight. Miros’s temperate mornings had spoiled me, and I didn’t want to wake up to a cold morning.
+
+I considered slipping on my Circle of Temperance to stave off shivers, but Sune Njal might not respect an artificial means of warmth. The more rugged I appeared, the more likely he’d respect my climb.
+
+My fear of heights wasn’t as pronounced as during the climb. I’d acclimated to the view and felt no panic or anxiety. Aside from the constant moan of the wind in my ears, it seemed peaceful.
+
+When I turned to admire the distance, it didn’t seem possible that I’d started the day at the mountain’s base. As heart-pounding as the climb had been, seeing the dim shapes on Hawkhurst’s meadow reassured me short-sighted goblins couldn’t see us. But human eyes could see it. If the Pentarch holed up here, he’d see our magic candelabras at night, lighting the thoroughfares in faint greens and yellows.
+
+A scratchy voice called out behind me. “That took you long enough.”
+
+I wheeled around and popped Presence, blinding myself. I brandished my hammer and shield.
+
+The man addressing me wasn’t a wizened octogenarian with manicured facial hair and silken robes. A scruffy chin strap of hair framed his face—a neckbeard leaning toward the sasquatch end of the personal care spectrum. The man wore clothes so shabby his pot belly poked from under his shirt.
+
+The man shielded his eyes with his arm. “Douse that light, pilgrim, or I’ll heave you from the mesa.”
+
+I canceled my spell and let my eyes adjust to the darkness. “Sorry. I came here to….”
+
+The figure waved his arm. “Save it. I’ve heard it all before. Maybe you’ll find mystical secrets on your way down tomorrow. You got any bread? I’d kill to sink my teeth into a biscuit.”
+
+I dumbly nodded.
+
+“Then welcome to Iremont.”
+
+The man turned, scratched his behind, and shuffled away. His nameplate confirmed his identity. “Sune Njal, The Pentarch.” He was only level 18.

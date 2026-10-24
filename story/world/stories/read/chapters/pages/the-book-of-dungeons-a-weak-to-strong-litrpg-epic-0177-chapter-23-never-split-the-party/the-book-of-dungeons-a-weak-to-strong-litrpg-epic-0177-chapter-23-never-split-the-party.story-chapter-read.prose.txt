@@ -1,0 +1,113 @@
+After accepting Iris’s campaign invitation, a trio of new buffs appeared at my vision’s periphery. Their icons read March, Drill Speed, and Formation. The first reduced Exhaustion penalties, and the second increased my speed by 20 percent.
+
+As Fabulosa, Val, and Jahid left us, Fabulosa spoke to herself. “Oh, wow. These buffs are going to be so cool.”
+
+The third buff visualized our party’s position in my minimap and revealed enemy positions. Formation peppered my radar with little green blips as if I stood within the settlement boundaries. The dots didn’t give seismic information about their bipedal or quadrupedal nature, but zooming out my map might give me an overall view of the battle. Strangely, I saw no red dots.
+
+I turned to Iris. “Where are the enemy blips?”
+
+“Enemies won’t appear unless they’re in our area of interest—they need to be closer.”
+
+I pulled out my battle standard and planted it.
+
+Apache opens battleground channel.Apache joins channel.Fabulosa joins channel.Apache Hey, Iris. Are you there?Fabulosa I don’t think she can see this. Fabulosa Rats. It’s for players only. It still might be helpful for us. We can relay messages between groups. Apache It’s range isn’t big enough for these hills. I’ll plant it again when we’re closer to the enemy.Fabulosa Right on, partner. Apache closes battleground channel.Fabulosa, Val, and Jahid wove through the underbrush. Without heavy tree cover, we could watch them sneak to the far side of the camp. After they disappeared, I opened my interface and watched three green blips move.
+
+“Sami, take point until we’re danger close. On contact, collapse to a triangle with the Guv as an anchor. Whoever is free heals.”
+
+Iris’s instructions made sense—still, I couldn’t resist asking a question. “Should I not Slipstream when a backstab presents itself?”
+
+“I forgot you and the L.T. could do that. Yes, but only if it’s a kill shot against a close target. Regroup as soon as possible. We don’t want our flank open to backstabs.”
+
+The three of us hurried closer to the encampment.
+
+Iris peered through her spyglass. “Hmm. There should be more orcs. This site is too big for just half a dozen.”
+
+Sami turned to Iris. “Maybe they peeled some off already?”
+
+Iris put her spyglass down. “There’s nothing on the radar, so they must have sent a force out looking for us. I can see a camp boss. One subboss is missing, too. That force could come back at any time. We shouldn’t be surprised that the base is half-empty. Let’s see how they react to Val’s pull.”
+
+A rhythmic ringing of clanging shields sounded in the distance.
+
+Iris stood up. “They pulled all six. They’ve got the boss. Pincer maneuver—on me.”
+
+Surprisingly, Iris and Sami ran at a full tilt toward the camp. I stood and followed, moving faster than usual, causing the wind to howl in my ears. The Drill Speed buff did its magic, and it exhilarated me to move so fast. Branches stung my face and hands as I ran, so I focused on things immediately ahead to avoid getting poked in the eye.
+
+Iris spoke over her shoulder to me. “Hold together. Target the shaman first. Boss last.”
+
+The six orcs watched Fabulosa’s group until one spotted us, spoiling our surprise. As we ran, Iris and Sami whipped slings at them, and little blurs of shots answered from the other group. We’d caught the enemy in crossfire.
+
+/Iris crits Orc Warrior for 38 damage (0 resisted)./Sami hits Orc Warrior for 14 damage (4 resisted)./Orc Shaman casts Rejuvenate on Orc Warrior./Jahid crits Orc Warrior for 30 damage (0 resisted)./Orc Shaman casts Rejuvenate on Orc Warrior./Val crits Orc Warrior for 26 damage (0 resisted).
+
+The slingshots didn’t give away our position, forcing the orcs to face one side or the other as they scanned for our location. After rounds of taking shot, the big orc barked a guttural command, and all six fanned out through the bushes in our general direction.
+
+The orcs bore little resemblance to Yula. Their skin matched her yellow hue, but they wore metal armor, contrasting with the surroundings instead of blending in like her frontier camouflage. They confined individualism to hairstyles, yet none wove vines in their braids. Instead, they used wooden pins, jewelry, and hard leather tied into elaborate knots. One used broken arrows as a hairpin, while others shaved parts of their mane.
+
+I spotted Fabulosa’s arrows. She fished for crits, but the orcs’ distance and erratic weaving foiled her aim.
+
+We weren’t in Scorch range, so I did nothing but watch the slings do their work. When an arrow sailed through the air and struck Sami, I cast a Rejuvenate on him, giving away his position. I loosed a glowing Arcane Missile, so he wasn’t the only visible target.
+
+Arrows, golden ribbons of healing, and shots filled the air before melee ensued.
+
+/Orc Warrior hits Sami for 36 (4 resisted)./Orc Warrior’s grenade hits Iris, Apache, and Sami for 14 damage./Orc Warrior’s grenade hits Iris, Apache, and Sami for 15 damage./Orc Warrior’s grenade hits Iris, Apache, and Sami for 16 damage./You cast Restore./Iris hits Orc Warrior for 16 damage (6 resisted)./Sami hits Orc Warrior for 12 damage (5 resisted)./Jahid misses Orc Warrior./Fabulosa scorches Orc Shaman for 24 (6 resisted)./Val crits Orc Warrior for 52 damage (0 resisted)./Orc Warrior misses Sami./You hit Orc Warrior with Arcane Missile for 54 damage (6 resisted).
+
+I wasn’t happy to see two healers in their ranks, but other conditions worked in our favor. Iris’s command to split the party reduced the incoming damage from the orc grenades. The orc nameplates displayed yellow threat levels, though it surprised me that we fought all females.
+
+Aside from the grenades, these orcs delivered more damage than other creatures in the low twenties. They didn’t have meaty health pools, but their attacks caused almost double what they should be. That must have been the game’s trade-off for their low health, and their combat stats matched player numbers.
+
+The logic behind Iris’s caution made sense. Even with players like myself and Fabulosa on their side, the mercenaries in their teens couldn’t withstand this amount of punishment for long.
+
+The biggest orc pulled out two shields and rang them together in a quick rhythm while blocking shots from Fabulosa’s group. Out of habit, I studied the nameplate of the boss orc.
+
+Name
+
+Luda, Crackedleather Overseer
+
+Level
+
+23
+
+Difficulty
+
+Challenging (yellow)
+
+Health
+
+345/345
+
+Between rotations of heals, my Scorches and Shocking Reaches made significant damage contributions. We focused our fire and brought down one of the shamans with a killing blow from my Light Crossbow. Half a minute into the battle, Iris and Sami had downed healing potions because their health fell fast. Fabulosa Slipstreamed behind one of the warriors attacking Sami from behind, and I followed suit with another fatal strike.
+
+Thrust played a significant role against the orcs—and it invigorated me to use my combat skills against creatures using weapons instead of always fangs and fur. Unfortunately, the orcs mirrored Dino’s combat tactics. While Creeper’s reach proved effective, getting snagged on the bushes cramped my style.
+
+Using my Charm of Rescue to heal Sami instantly with a Restore, I switched to a short sword and my Wall of Wind. The bushes made fighting with the combo more effective.
+
+The nearest orc resisted my Wall of Wind’s pushback and expertly hooked its hand axe onto it, pulling it askew to expose me. Using my Cassock of Rewind’s cooldown ability, I Slipstreamed behind the boss, Luda. She’d abandoned her double shields for double axes and Charged Iris. After landing a healthy backstab for double damage, I pulled Luda’s aggro onto me. I almost tossed up my Mana Shield when all the orcs’ threat levels suddenly changed from yellow to orange.
+
+I opened my interface and parsed the combat log as another orc shaman fell to Fabulosa’s electrical melee attack, Discharge. Dropping another combatant should have dropped the threat level to green, not up to orange. That’s when I checked my interface map. Eleven red blips swamped Val and Jahid from behind.
+
+The orc raiding party had returned.
+
+I cursed myself for having squandered my Cassock of Rewind ability too early. I closed my interface and planted my battleground banner, something I should have done earlier, but it hadn’t seemed necessary against only half a dozen orcs.
+
+Apache opens battleground channel.Apache joins channel.Fabulosa joins channel.Apache Fab, behind us we have company.Fabulosa I gotcha. I see them on my radar. Can y’all get over there? Apache I blew my slipstream and robe’s reset already. I’m going to have to hoof it. Can you hit them with a Fireball?Fabulosa Yeppers, after I restore Val. You got Jahid?Apache Sounds good.
+
+Activating a 1-point Mana Shield made no tactical sense, but the spell’s visibility in tall grass drew arrows away from Iris and Sami. Iris and her mercenaries could handle the boss orc’s group, if I could keep the adds off them.
+
+The raid speed buff helped us twofold. Val and Jahid withdrew from danger while I propelled myself forward at an exhilarating speed.
+
+Ten orc grenades flew in the opposite direction, converging on my 1-point mana shield—which stood out like a beacon between the dust and shrubbery. I triggered Anticipate against the first explosion, forcing it to whisk me out of harm’s way like a poor man’s Slipstream. The hail of grenades missed, but the orcs wasted no time retargeting me with arrows and melee weapons.
+
+A globe of flames streaked over my head into the oncoming enemy. Fabulosa welcomed the newcomers with a Fireball.
+
+Fabulosa’s Fireball enveloped them, dropping their entire force’s health by 10 percent. She followed up with a Lightning Bolt, which struck four more for 52 damage each, reducing their health pools by a quarter. My Scorch singed the closest for another 40. The more seriously wounded orcs consumed health potions. Because we saw no golden ribbons, it meant the shamans stood by their boss and out of healing range.
+
+If the orcs had fought closer together, I would have purchased and used Moonburn. Doing a cone of 100 would have dropped a few, but after Fabulosa’s attacks, they spread out around me and launched another barrage of missiles.
+
+Since I stood within a few yards of one, I cast Transpose. Some orcs moved quickly enough to cancel their attacks, but enough missiles took flight when I switched positions. The arrows landed on a very surprised warrior, although she survived the hail of attacks. I tried to finish her with a Scorch, but she resisted the spell.
+
+As they closed in on my position, I backed away, dumping my remaining 200 points of mana into my Mana Shield to withstand the oncoming assault. From this point onward, only math determined my fate. If I ran out of mana, I could use Odum’s Lesser Headband of Conversion and turn remaining health back into mana, but speculation like that got ahead of things. First, I needed to survive eleven attacks.
+
+Arrows and blades missed and found their mark on my person as the air whistled with wood. A Wall of Thorns, courtesy of Fabulosa, caught several charging orcs. Ironically, the spell worked less effectively outdoors because enemies could run around it, but slowing their attack helped enough.
+
+Some orcs reached me with axes—others kept to bows and arrows. Eight of the eleven attacks found their mark, and two critted for 421 total damage. Since I only had 320 health, the Mana Shield splurge saved my life.
+
+The onslaught left me with 99 health and no mana.

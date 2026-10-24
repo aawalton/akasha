@@ -1,0 +1,155 @@
+The promise of free-flowing ale hastened the erection of the town brewery, and the work crew assembled the complicated structure in less than a week. The brewery increased our culture rating to 78 percent and our comfort rating to 89.
+
+I would have partaken in the nightly revelry if working on a mailbox hadn’t burned me out. Its creation required more concentration and took longer than I expected. The blueprint involved a scroll of such complexity that I spent the first few days studying its anatomy, starting and failing casts. Unlike the relic-destroying rune, it wasn’t mana intensive. It required a thorough understanding of the magical components of Miros’ mail system. Anyone with someone’s true name could send a message to any settlement with a working mailbox. People couldn’t send attachments, so money and packages needed physical delivery.
+
+A mail node allowed us to contact merchants and governments without relying on the Sternways’ mercenaries to represent us. Parchment wasn’t exactly cheap, but the mail system offered too many conveniences not to take advantage of it.
+
+The mailbox wasn’t a blueprint. Its physical workings required its builder to have Inscribe Rune, though none of the magic made sense—I followed the diagram. I repeatedly read its incantation like a homework assignment. Reciting the gobbledygook felt like a lengthy tongue-twister. Pronouncing everything proved challenging. While Greenie and I devoted ourselves to it, the town’s work crew trained, filling Dino’s classrooms with nearly a hundred students.
+
+A week later, I cast the mailbox scroll with no mistakes, and Hawkhurst joined human civilization in establishing a postal node. It didn’t have many features. A person standing next to it used its interface to see if they had a letter. Senders needed to validate their name and location to send a message.
+
+During the week of rehearsing the scroll, my arcane skill rank crossed from 23 to 24. I also noticed that my light magic reached a new rank when I healed myself with Femmeny. The changes unlocked two spells. The first offered a spying utility.
+
+Power (spell)
+
+Eye (tier 1)
+
+Prerequisites
+
+Arcane magic rank 5, Light magic rank 21
+
+Cost
+
+100 mana
+
+Cooldown
+
+1 hour
+
+Cast time
+
+10 seconds
+
+Description
+
+Place an eye in a fixed position. Caster may concentrate on it to see through it. The eye has 1 health point.
+
+This spell offered the same utility as Creeper, except without infravision or the ability to listen. Its high mana cost wasn’t off-putting, and I noticed its permanency. I could place eyes all over the forest, lasting as long as a bird or squirrel didn’t make a meal of it. There might be a time and place for Eye, but it didn’t seem important enough to take without enemies actively scheming against us.
+
+Another spell came from raising my arcane magic.
+
+Power (spell)
+
+Polymorph Self (tier 4)
+
+Prerequisites
+
+Familiar, Arcane magic rank 20
+
+Cost
+
+40 mana
+
+Cooldown
+
+1 minute
+
+Cast time
+
+Instant
+
+Description
+
+Caster changes into level 1 cow, crab, or iguana until caster deems otherwise—maximum duration 5 minutes.
+
+I didn’t know what to do with Polymorph Self. The listed animals possessed no remarkable features like flight or venomous stings. I couldn’t imagine a situation when I wanted to be one of these critters. I could shrink myself with one of Winterbyte’s shrink potions, but Slipstream made for a better escape mechanic. The animals seemed to be random, too. Were other players choosing from better animals? Aside from bridging my way to Polymorph Other or buying myself an escape mechanic, I saw no reason to take this spell.
+
+By the time I’d finished the mailbox, I had expected our construction efficiency to reach the sixties. Instead, it dropped. Looking at factors contributing to morale and efficiency, I noticed the rest rating had fallen from 100 percent to 60. Alcohol had become the town’s inflection point—it filled everyone’s need for calories but instilled a desire to relax on weekends.
+
+Losing so much production felt like the game had modernized. Before the brewery, the workers seemed happy to work nonstop, but alcohol gave them a reason to take time off. And who could blame them? We weren’t in survival mode anymore. Even though we rotated citizens into fighting courses, it became apparent that Hawkhurst could afford to give its citizens leisure time. If the rest of the continent enjoyed a five-day workweek, we should, too. Giving the town a two-day weekend made sense because it raised our rest rating.
+
+After the brewery, workers started building our first set of docks. We needed three—one on each side of the river and another to convert into a shipyard. Freshwater docks on placid waters needn’t be as robust as the default blueprints, which stood stout enough for the coastal tidal swells.
+
+With forty workers, each dock would take only three days to construct.
+
+We used our mailbox to send letters to Glenn in Grayton about the news of our imminent shipyard. He wrote back immediately, asking for estimates of when the ferry would be operational. Lloyd guessed it would only take a week or two, but we couldn’t be sure until the game validated his and Greenie’s ship schematics.
+
+Having faced homelessness for so long, moving into the manor felt surreal. I had to remind myself that my status in the fantasy world had no bearing on my situation in Atlantic City. The dwarves put together furniture as lovely as anything I’d seen. They carved avian filigree into the design. Emblems of Chloe and Beaker became decorative themes on the beds, chairs, cupboards, and tables.
+
+I Dug cofferdams for the docks in the morning, but I devoted the rest of my time to picking apart Winterbyte’s runes. The manor grew quiet at night, and Ida wasn’t around to bother me with minutiae. Despite the comfortable furniture and tranquility, I enjoyed researching Belden’s library more. Charitybelle made a better study partner than a restless griffon.
+
+Ultimately, my runic experimentation bore little fruit.
+
+I’d figured out how to destroy the relic because I already had the names and functions. In essence, I only programmed the relic to unexist. The only other discovery I stumbled upon involved modifying Winterbyte’s Compression Sphere traps. Using her trap’s proximity trigger, I learned how to hook up Detect Stealth to trigger a Compression Sphere. I rigged together runes around town as an early warning system against stealthers. In theory, the runes would wake us if stealthers crept in at night. Unfortunately, no one in Hawkhurst could Stealth, so we couldn’t test it—and they felt redundant because our vibration-sensing map radar did the same.
+
+Winterbyte’s runes couldn’t trigger spells requiring controls. I hoped to rig up Dig to a rune, but runes couldn’t control the spell’s targeting reticule. Aside from detection functions, the only area-of-effect spells that might work included Faerie Flames, Grease, Light, and Rally, but I knew none of them.
+
+Fiddling with runes wasn’t satisfying work. I much preferred reading or other scholarly endeavors. Runes worked like math. I could work on them for hours and learn nothing. Their abstractions turned me off, and mistakes riddled my work, slowing progress. I would have given up if it hadn’t also raised my ranks in magic.
+
+Increasing my magic skills unlocked a new spell.
+
+Power (spell)
+
+Moonburn (tier 3)
+
+Prerequisites
+
+Nature magic rank 23, Survival rank 10
+
+Cost
+
+40 mana
+
+Cooldown
+
+10 minutes
+
+Cast time
+
+Channel
+
+Description
+
+Caster directs a 45-degree 10-foot-long cone stunning enemies and inflicting 20 points of damage per second. Caster may channel 1 second for every fourth rank in nature magic. Enemies affected by Moonburn remained stunned for 2 seconds. Concentration must be maintained to sustain the effect.
+
+At my nature magic rank of 23, this spell delivered 100 points of damage and a 7-second stun. While the damage amounted to more than other spells, its area-of-effect spell scaled against many opponents. Unfortunately, this AOE couldn’t be easily scripted with a rune, as it required someone to channel and direct it. The 5-second channel led me to believe it wouldn’t be a melee utility against opponents unless I could catch them all in a cone of influence. Channeling stopped me from doing anything else, so I couldn’t maneuver if someone attacked from the side. Taking hits interrupted the effect. It could be useful in a corner.
+
+I liked that the spell’s description included the words “on enemies,” meaning I wouldn’t have to worry about accidentally harming and stunning allies. I could direct this toward a grappled partner, giving them a 7-second window to escape. Depending on their grapple conditions, that seemed like ample time to flee. Moonburn’s drawbacks included short-range, long cooldown, and channel requirements.
+
+Spells like Moonburn justified saving power points. This nature-based direct damage spell offered more efficiency and damage than earlier primal spells, like Scorch or Shocking Reach. That it directed damage into the shape of a cone, like dragonbreath, made it more comparable to an area of effect spell, like Ice Bolts or Fireball. As much as I expected to take this, I would purchase it only when necessary. Unfortunately, the system of powers offered no clues if a better spell waited around the corner.
+
+My bedroom and office soon became a dumpsite for partially filled rune parchments. Parchment cost too much to discard, and because my inventory distinguished one piece from another, they didn’t stack, forcing me to pile them up somewhere. When Beaker flapped his wings, he scattered stacks from tabletops, shelves, and desk surfaces, mixing them with unimportant scraps. I modernized my office with paperweights to avoid turning it into a snow globe.
+
+Hay became another source of disarray in my bedroom. I had piled it in a corner, hoping Beaker would use it for a nest, but the griffon insisted on sleeping on my bed. I attempted to shape it into a nest-like bowl, but he paid no mind to it. He understood my command to stay but jumped over and nestled between my legs whenever he saw me going to my bed. I couldn’t fault him for wanting to cuddle.
+
+My griffon had grown too big for indoor spaces, and only he didn’t know it. We got along just fine in my apartment, but Beaker wreaked havoc in the offices. I frequently apologized to Ida and Greenie for my pet’s spontaneous screeches and wing beatings. Forren’s fertility buff worked, but I didn’t know how long my Familiar would need to reach adulthood and serve as something beyond comic relief. Would I one day be able to ride him? Judging from the size of his mother, it didn’t seem likely. But who knew if male griffons grew bigger than females?
+
+One morning, Greenie set aside his designs for a spread of letters covering the meeting table. The centerpiece of his workspace featured a list of unrecognizable names, some of which he crossed out.
+
+“What’s all this?”
+
+“With a mailbox at our disposal, I’m sending missives to introduce ourselves to merchants abroad.” Greenie pointed to another list. “I’m contacting merchants in Fort Krek, Hirum, Jarva, Malibar, Torzda, and as far south as Susa.”
+
+I knew only enough about Miros’s geography to understand that he named Eastern cities.
+
+“To legitimize Hawkhurst, it’s imperative we prevent political and commercial organizations from regulating the interior trade route, and the more we engage in the conversation, the more control we’ll have. Our independence is paramount, and I’m attempting to establish diplomatic ties with the East. Letters are the next best thing to meeting officials in person.”
+
+“Susa? How could they have any influence? You think it’s important to legitimize ourselves with Susa?” The city numbered among the few coastal cities between Arlington and the capitals of Malibar and Torzda. It seemed too remote to affect an interior trade route.
+
+Greenie gestured to the different letters. “Malibar, without question, is the most important city in the East. They control river traffic from Fort Krek to the coast. The harbormasters guild won’t take kindly to our trade route, but they’re so far away they can only undermine us with propaganda. Instilling confidence in the Inner Passage is paramount.”
+
+I nodded and shrugged to show that I couldn’t help. I didn’t know Miros’s politics.
+
+He gestured to another letter. “Even though Susa doesn’t directly connect to the interior trade route, luring traffic from Malibar’s port helps Susa.”
+
+“It’s beyond me.”
+
+“We’re performing a balancing act. And I’m having difficulty explaining myself without sounding like a litany of empty promises.”
+
+“Hmm. And you can’t use your own name for fear of tipping off your brother that you’re here?”
+
+“Thanks to your rescue, I’m alive and well and living within the shadow of the Bluepeaks.”
+
+I saw Greenie’s dilemma. Northwest of Hawkhurst stood the Bluepeaks, home of the goblins. The foothills to their territory barely spanned a couple of days’ march. I had no advice for him. Unless we wanted to build a throne to show his awful brother that we posed no threat, I had to trust his sense of diplomacy. But Greenie seemed to be the right goblin for public relations.
+
+“I wish I could help you. Fake it ‘til you make it, Greenie, my friend. Fake it ‘til you make it.”

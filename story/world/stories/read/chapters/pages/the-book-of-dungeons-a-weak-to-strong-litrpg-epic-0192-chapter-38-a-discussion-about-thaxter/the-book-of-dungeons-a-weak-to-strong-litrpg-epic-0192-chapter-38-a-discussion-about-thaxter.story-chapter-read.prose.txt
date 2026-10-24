@@ -1,0 +1,131 @@
+Hours after arriving at Fort Krek, we spotted Iris leaving the gatehouse dressed in officer regalia. We stood to greet her as she quickly approached our table. Not knowing if we should salute her made me nervous, but standing seemed respectful.
+
+“Sorry about taking so long. I’ve been in meetings. My, but it’s strange to see you at these tables.” Iris caressed the old wooden tabletops before joining us. “This is where Fletch and I first met. Before I made captain, we used to hang out with our crew after we joined the guard. I’d had never guessed I would be here again, talking about fort business with outsiders.”
+
+Fabulosa and I exchanged smiles.
+
+Iris usually went straight into business. Sharing memories boded well for the news of the fort. “You missed all the excitement. Sami told me he gave you an update.”
+
+Fabulosa shrugged. “He gave us the headlines but not many details.”
+
+Iris looked downcast before speaking. “After the no-confidence vote, Major Fischer took command of the fort. Thaxter took his supporters south, which is a good thing. After the vote, I caught a glimpse of the old commander, but I didn’t recognize him. His appearance didn’t instill me with confidence in his mission—whatever it was. I couldn’t have been the only one. The soldiers who left with him also looked concerned. I pity them. They’re following orders, and I respect that, but I doubt many understood his state when they broke with the fort.” Iris gestured to the imposing gatehouse. “At least we have enough to secure the region. I supposed that’s good news for Hawkhurst.” Iris didn’t seem to be happy about it.
+
+Fabulosa leaned her chin on her fist. “Will things stabilize in Krek?”
+
+Iris thought for a long while before answering. “We’re low on personnel, but the orcs are busy fighting the elves—and probably the deep elves. We’re far from the main theater up north. The orcs skirmishing down here are disorganized opportunists. Now that Krek has reorganized, they’ll be easy to mop up.”
+
+Fabulosa pressed Iris further. “Do you think the commander and his people will cause any more problems?”
+
+“They’re only a danger to themselves. Aside from staining our legacy, their absence is best for the fort. I’m just sorry we lost so many soldiers.”
+
+I pulled out the tome. “Would this have helped? Fab and I found this. The Archon is an old book about older things. It has the same symbol you gave me.” I pulled out the scrap of parchment she copied from Thaxter’s scribblings and showed her the corresponding glyph in the tome.
+
+Fabulosa and I told her how we found it. I hoped that telling her how hard we worked to solve Fort Krek’s dilemma would impress her.
+
+Iris studied the page but pointed to another glyph, one that I translated to banishment. She pointed to it. “I’ve seen this one too. Much of this writing surrounded a crude map the commander sketched on the floor beneath his bed.” She regarded the rest of the Archon with little interest.
+
+I leaned forward. “Can we see what Thaxter scribbled down? Or is the fort still on lockdown? I have got a research skill of 32—perhaps I can make sense of things.”
+
+Iris’s eyebrows raised at the mention of my research skill level. She tilted her head in thought. “Thirty-two, huh? Impressive. We’re on alert, but I’ll be able to get you in. At least, I don’t think Fischer will object to a rank 32 helping us. If you can make any sense of this mess, it might take the sting out of the mutiny.”
+
+We went to the gatehouse together. Iris instructed a soldier to fit us with white ribbons tied around our belts. She led us through courtyards shadowed by high walls, and I couldn’t resist craning my neck to see all the scaffolds, anti-siege machines, and defensive devices before we disappeared into the keep. The contraptions filled me with questions, but now wasn’t the time for sightseeing.
+
+Guards snapped to attention whenever they saw Iris but eyed our white ribbons suspiciously. The sight of strangers traipsing through their corridors put them on edge. I kept my eyes down, hoping to ease their apprehension.
+
+After looping through several narrow hallways, Iris unlocked a door to reveal the commander’s quarters. Scribblings covered the floors and walls. I spotted familiar things like Thaxter’s symbols and pentagrams. I hoped this guy wasn’t into demonology. Demons didn’t carry treasure.
+
+His other scribblings showed clumsy maps of surrounding lands. Images of the sweeping lines and dots like we’d seen in the ward worm’s room raised my alarm bells.
+
+Fabulosa gasped when she saw the dots and lines.
+
+I sincerely hoped whatever we learned from this room wouldn’t lead us there again. Yula’s scouts had reported the worm tunnels had collapsed weeks ago in the winter rains. It seemed unlikely I’d be able to find that room again, even with the wonders of Dig at my disposal.
+
+Fabulosa pointed toward a crude sketch of the lobster creature I’d seen in Mineral Communion visions. We killed a mummified anomalocaris, but seeing it in this scene stunned me. The floor beneath the bed showed a large pentagram across a map. Had he been summoning another world boss or demons? Was this an abandoned summoning circle? Luckily, none of it glowed with Detect Magic.
+
+I took out my parchment and started sketching.
+
+Fabulosa watched me replicate his sketches. “The commander has been busy in here.”
+
+Iris shook her head and looked at the writing. “They confined him here for quite a while. This is bad business. I don’t expect they’ll leave this floor unwashed for long.”
+
+As I copied the information, I noted that the scribblings repeated a theme. I found a few abandoned math problems and geometric equations, but for what purpose, I couldn’t fathom. It seemed as if Thaxter had tried and failed at making a summoning circle.
+
+Glyphs repeated throughout the room. The man had been copying the same string of symbols, and I recognized a pattern. It only took two pieces of parchment to copy all the unique things he had been writing—the rest echoed obsessively.
+
+Thaxter’s map showed rivers and mountains, but it wasn’t detailed enough to be of use. Aside from a pentagram, no other clues gave meaning to its significance.
+
+I turned to Iris after finishing copying his notes. “Where did Thaxter want to go? Coordinates covered the triangles. I’m curious if they lead to anything.”
+
+“Negative. They point to the middle of nowhere.” Iris picked up a piece of parchment that had been balled up and flattened onto the commander’s desk.
+
+The parchment issued a troop order months ago. I skimmed through the military jargon until I saw the coordinates that Thaxter had written. It was 65.1, -22.8.
+
+I recognized the number, threw open my inventory, and searched for the notes I’d made about the journal we found in the demon dungeon. The gnoll warlock had made the journal for Winterbyte’s search for the relic.
+
+I found the coordinates of the relic in the warlock’s notes. I opened my interface map and checked it to ensure I wasn’t making mistakes. They showed unmistakable similarity to those scrawled and circled on the commander’s stone tile floor. The relic’s coordinates were -65.1, -22.8. Thaxter’s fell on 65.1, -22.8.
+
+“Fab, something here is very wrong. I think Thaxter is going after another relic.”
+
+“Another relic?” Fabulosa gave Iris a worried look. “Why do you say that?”
+
+“Aside from one value being negative, these coordinates are identical to the relic’s location.” I showed her and watched her process the information. “This can’t be a coincidence.”
+
+I turned to Iris. “Did Thaxter behave oddly before?”
+
+Iris scoffed at the idea. “There’s a reason people like Thaxter get appointed to command of a fortress. He’s predictable, pragmatic, and methodical. He’s the least impulsive person I’ve ever known. This craziness started months ago, and it’s boiled over into desertion. I still can’t wrap my head around it.”
+
+Fabulosa crossed her arms. “I’m sorry, Iris, but we need to stop him. If Patchy is right about this, it’s another cursed relic. If Thaxter finds it, he will become a danger to everyone.”
+
+“Why would he pose a danger to Krek?”
+
+Fabulosa looked downward. “Demonic possession. If it’s as powerful as the other relic, he’ll become a demon’s puppet—at least, that explains all the pentagrams. Can we borrow horses?”
+
+Iris shook her head. “You won’t want mounts going southwest. Those coordinates are in hard country.”
+
+Fabulosa arched an eyebrow. “Do you wanna come with?”
+
+Iris shook her head and made a pained expression. “After yesterday, my unexplained absence would only antagonize the staff. If they knew I headed south after the commander—it’s just not feasible. Besides, raising my sword against him, it’s…”
+
+Fabulosa held up her hand. “It’s okay. You’re right. We should handle this. We’ll try to convince Thaxter to—”
+
+Iris stared ahead and spoke in a hollow voice. “Talk if you can, but it likely won’t work. You might need to eliminate him—and probably his followers. They chose their path. But, no, I shouldn’t go. I still need to command my people at Hawkhurst, and I couldn’t do that after slaying a former superior.”
+
+Fabulosa nodded. “We’ll do what we must.”
+
+I exhaled and fished for details. “What can we expect? What levels are Thaxter and his people?”
+
+Iris looked sick over strategizing against her former boss. Her answers were barely audible. “He’s level 25 and has four command ranks. He took Leader, Logistics, Feign, and Informer.”
+
+“What does Feign do?”
+
+“He can influence enemies into thinking his forces are 50 percent stronger or weaker. It can affect the enemy’s morale. His closest ally is the chief medic, Captain Goodner. Goodner cannot be trusted, and he’s a rank 21 in light magic, so he’s their best healer. Captain Jourdain is their best warrior. He’s young for his position and only level 16, but don’t let that fool you. He’s excellent with a sword. He always has four corporals at hand—He’s high maintenance.” Iris offered a weak smile.
+
+I recapped the numbers. “We’ve got the commander, two captains, and four corporals. Your best guess is about twenty in total—the rest are privates and low-level guards?”
+
+Iris glumly nodded.
+
+Fabulosa folded her arms. “So, no sergeants?”
+
+Iris smirked. “That had been somewhat of a victory for the fort—not a single sergeant left. Sergeants tend to have a strong moral compass.”
+
+I nodded. Overall, their lower levels boded well for our success, but none of that mattered if we couldn’t catch them. “Can we even reach them?”
+
+“Almost assuredly. They’ll be Exhausted chopping through the vegetation, and you’ll likely have the advantage of surprise.”
+
+Having the jump on them wouldn’t be our only advantage. NPCs wouldn’t see our nameplates, so we wouldn’t have to worry about them knowing us to be governors and allied to Iris. Anonymity opened the option for bluffing, but Thaxter’s Informer promotion made me wonder about diplomacy. If Informer only applied to active campaigns, Fabulosa and I wouldn’t be large enough to count as an opposing force.
+
+Fabulosa secured her waterskin to her belt, a sign that she was ready to move. After exchanging parting words of thanks and well wishes with Iris, we did so.
+
+Upon exiting the fort, I yelled to the rooftop. “Come on, Beaker! We’re moving now.”
+
+“Rabbits!”
+
+“Big rabbits.”
+
+Fabulosa and I wasted no time. Once again, we chased a larger force dedicated to taking a cursed relic. If Iris accurately described the southern bush, Exhaustion debuffs would plague the enemy this time.
+
+Stabilizing Hawkhurst’s trade route counted for nothing compared to the urgency of stopping a relic from falling into anyone’s hands. If Hawkhurst’s trade route failed, we’d still have our happy little town. If Thaxter accessed a relic, it wouldn’t just pose a danger to Fort Krek, the trade route, and Hawkhurst’s existence—he might knock us out of The Great RPG Contest.
+
+If a demonically possessed NPC diverted his ambitions to civilization, the relic would almost certainly fall into the hands of another contestant. While the game’s artificial intelligence ran deep, it paled compared to the deviousness of players.
+
+Nothing compared to gamers in their single-minded pursuit of power.

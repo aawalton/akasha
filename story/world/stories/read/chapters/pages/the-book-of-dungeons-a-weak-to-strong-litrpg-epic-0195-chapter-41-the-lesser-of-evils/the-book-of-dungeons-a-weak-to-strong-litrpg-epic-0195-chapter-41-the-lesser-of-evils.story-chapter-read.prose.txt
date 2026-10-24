@@ -1,0 +1,177 @@
+As governor, I learned that people in charge couldn’t wear their hearts on their sleeves. Reading the body language of experienced leaders wasn’t easy. The person who did the talking typically maintained a poker face or projected whatever front they wished to convey.
+
+But Greenie taught us negotiation tricks before sitting down with the Grayton wainwrights. Instead of trying to read a chief’s face, watching their subordinates’ reactions gave away information. Those not engaged in the discussion appeared more open and expressive.
+
+When Fabulosa stood up to Captain Jourdain’s authority, the soldiers’ expressions became dead giveaways.
+
+Their unhappy reaction spoiled the Captain’s bluff, and I knew they weren’t loyal to Thaxter anymore. Their nervous motions had inadvertently boxed their captain into a less maneuverable position, and we knew they wouldn’t fight us to stop their former commander.
+
+Captain Jourdain gave his people a reproachful glare.
+
+Offering an olive branch, I held up my hands. “We’re not your enemy. But we must stop Commander Thaxter—or anyone—from reaching those coordinates. It’s dangerous for everyone in Krek.”
+
+Jourdain’s hostility faltered. I’d given him information he hadn’t expected. After everything he’d been through, from the mutiny to his trek through the wilderness, he remained protective of his former post. “What do you mean dangerous to Krek?”
+
+Fabulosa stepped forward. “We’re worried Thaxter might uncover a cursed relic.”
+
+Jourdain crossed his arms. “You haven’t answered my question. Who are you?” His voice still had an edge but wasn’t as defiant as when he first asked.
+
+Fabulosa gestured to me. “Apache here is the governor of Hawkhurst, a nearby settlement with a vested interest in the stability of this area. I’m Fabulosa, his lieutenant governor.”
+
+“We’re friends of Captain Sternway, a guild leader in Hawkhurst. She and her guards are responsible for securing a trade route across the continent.”
+
+Jourdain spoke without inflection. “Governor Apache and L.T. Fabulosa. I’ve had more than an earful of Iris’s counsel about the trade route the past week. She never mentioned an artifact.”
+
+I corrected him. “It’s a relic, technically.”
+
+Fabulosa rolled her eyes. “He has a research rank of 32.”
+
+Ignoring her, I continued. “We deciphered some of Commander Thaxter’s scribblings. They reveal clues to what he is after. Iris didn’t know about it until we returned from Malibar.”
+
+Captain Jourdain’s expression darkened. “Captain Sternway’s loyalty runs shorter than a rear guard’s triage log.”
+
+As the conversation headed into the weeds, I wondered if telling him about the other relic might illustrate the danger it represented to Fort Krek. “We spotted orcs paddling past our position, and—”
+
+Fabulosa raised her hand. “Give ‘em the short version, Patch, or we’ll be here all day.”
+
+She had a point, so I started again. “We found a cursed relic possessed by a demon at coordinates -65.1, -22.8. We realized a connection when we saw Thaxter’s destination was 65.1, -22.8.”
+
+Jourdain considered the implication while his squad exchanged looks with one another. “That explains the commander’s behavior.”
+
+Corporal Lazaar broke their silence. “Sir, you can’t—”
+
+“Belay that, corporal! We all saw what happened to Goodner.”
+
+Jourdain jutted his chin, daring the corporal to say anything more.
+
+Lazaar bowed her head in resignation.
+
+The captain turned to us. “Captain Goodner served as the commander’s top advisor and was a good friend. We rested while Goodner and the commander took a short walk. The commander’s pace broke us. Krek regularly drills us with field marches, but it escapes me how a man of his age could push so hard.
+
+Captain Jourdain’s face stiffened, and he spat out the words as if poison infected them. “Thaxter returned a half-hour later covered in blood, offering us no explanation. That’s when we turned back. There are limits to loyalty. Even in the guard.”
+
+One soldier shook his head. “And after everything we went through together, Thaxter disappeared into the forest without a word.”
+
+Jourdain and the corporals made no rebuke to the soldier speaking out of turn. They looked so tired.
+
+Fabulosa rested her hands on her hips. “When was this?”
+
+“A few hours ago.”
+
+I counted their number. They missed eight people. “Did anyone go with the commander?”
+
+A few of them shook their hung heads, but Jourdain answered. “No. We’re done.”
+
+It would be poor form to inquire about their missing comrades. By Iris’s count, they fell short a corporal, half a dozen foot soldiers, and Captain Goodner. Perhaps they also encountered the snake. It wasn’t necessary to badger them with questions.
+
+Fabulosa took a few steps forward. “We aim to stop Thaxter. He can’t take the relic.” She wasn’t asking for help or permission. She stated it as a fact.
+
+Captain Jourdain stepped forward to meet her. “Would you object to company? I’m responsible for much of what’s happened and will have much to answer when we return to Krek. I’ll stand tall when the time comes, but I feel raw after what happened to Goodner. I’d like to see this through.”
+
+I shrugged, and Fabulosa nodded. “As long as you know, we’re here to secure the relic. This isn’t a vendetta or an intervention. If Thaxter gets in our way, we’re putting him down.”
+
+The corporals named Turan and Arikan stepped forward, silently volunteering to help.
+
+Jourdain and the pair shared a stare. At last, the captain nodded. “Okay, then. You two are with me. Lazaar, I want you to take everyone back to base. Remand yourself to their custody unconditionally. We’ll be back when the governors accomplish their mission. Is that understood?”
+
+Lazaar, the corporal Jourdain rebuked minutes earlier for insubordination, snapped to attention and saluted. “Yessah!”
+
+I thumbed behind me. “Hold on a second. It might be safer to camp here and return together.” I unwound the Dark Room rope from my waist and tossed it into the air. “Your people are welcome to rest until we return. It’ll be secure, and maybe they can lose their Exhaustion debuffs while we’re gone.”
+
+Lazaar grew suspicious of my generosity and looked to Jourdain for permission to speak. After receiving a subtle nod from the Captain, she did so. “How do you know we won’t just steal this? Dark Rooms are quite valuable.”
+
+I nocked an arrow in my Divine Bow. “Hold up one of your arms.”
+
+After a questioning look to the captain, Corporal Lazaar held out her arm.
+
+I shot a glancing scratch across her skin. “I’ll be able to track you. We’ve only got eight bunks, so that’s one for each of you, but you’ll have to answer for it if they’re dirtier than when we left them.”
+
+Captain Jourdain smiled and gave a curt nod. “You won’t have to worry about that, governor. They’ll take good care of it. Water is one of the few provisions we have in excess. Use it to clean yourselves before hitting the rack.”
+
+While Lazaar and the seven soldiers climbed into the Dark Room, I considered our new posse. The captain reached level 15, and the corporals shared a status of level 9. Their stack of Exhaustion debuffs made them particularly vulnerable.
+
+“Fab and I will take point. Just hang back and provide support if it gets hot. Do any of you have heals?”
+
+Jourdain gestured to her crew. “We have the standard soldier kit. Rejuv, Roots, and melee powers. I have some direct damage, but we’re going to be low on mana.”
+
+Fabulosa nodded. “Your ranged attacks will be good enough. Come on, let’s roll.”
+
+Trailing behind Fabulosa’s lead, I followed their hacked-out pathway into the forest.
+
+After a few hours, Jourdain pointed out a clearing where they’d parted ways with the commander. He pointed out the trail Thaxter blazed by himself. It looked narrower, but our survival skills rated high enough to follow it without difficulty—besides, we knew his destination.
+
+Jourdain wiped her brow. “He’s got almost half a day on us.”
+
+I consulted my map. “It’s not that far. Thaxter must have cut you loose at the last minute, captain. The coordinates are very close.”
+
+Corporal Turan muttered under her breath, but not loud enough for anyone to hear. She seemed bitter at Thaxter’s betrayal but not bold enough to voice her feelings.
+
+Fabulosa checked to see if everyone was ready to continue, then ducked into the underbrush. The rest of us followed.
+
+The surrounding vegetation wasn’t hot or wet enough to call it tropical, but it certainly counted as a jungle. We followed Fabulosa in single file for almost an hour before she stopped. “Patch, I got something yonder. Do you see what I’m seeing?”
+
+I crept to her side and followed her gaze. Tiny glowing particles hung in the air like dandelion fluff. The afternoon sunlight made the haze shimmer like Rejuvenate spell effects.
+
+Corporal Arikan peered over our shoulders and covered her mouth with a fabric mask. “That’s bloom up ahead. You don’t want to breathe the stuff. It’ll snuff you quicker than a catapult.”
+
+I looked to where she pointed. “Is it dangerous to touch?”
+
+Arikan pulled a wrapping over her mouth, then waved her hand at one of the glowing fuzzballs. “Nah. Just don’t inhale them.”
+
+Fabulosa tore apart stretches of linen, wrapping them around her mouth. She spoke in a muffled voice. “Is that good enough?”
+
+Arikan inspected her mask and shrugged. “We typically march around it, but you’re good as far as I know.”
+
+I fashioned a linen mask, tightening it enough to remain in place if we ever entered combat. The five of us looked like robbers.
+
+We moved forward, waving away particles coming close to our faces. It didn’t seem safe to let the stuff get in our eyes. After a few minutes of walking, the bloom thinned into nothing. We unwrapped the linen and shook out the fluffies. We left them around our necks like scarves in case we encountered more airborne blooms.
+
+The rays of sunlight faded as cloud cover passed overhead. The southwest skies darkened as a sign of precipitation. Even if it rained, Thaxter’s trail would be easy to follow in the heavy vegetation, and we did so until a strange bird call stopped us in our tracks.
+
+I craned my neck to listen and locate the sound. “That sounds like a small dinosaur.”
+
+Arikan corrected me. “Do you know what that is, governor? That’s a fruitguide. They’ll lead you to a gourd-bearing tree. The nectar is sweet, and you drink it like water. They’re all over Eastern forests, but you don’t get them in the West, do you?”
+
+Fabulosa and I looked at one another. She might have heard of fruitguides during her hunting trips with Yula, but she only shrugged.
+
+Arikan waved toward the forest. “Fruitguides will lead humans to the tree, and you’re supposed to crack open one of the fruit for the bird. When the fruit is ripe, they’ll make a racket whenever they see a humanoid.”
+
+Fabulosa turned to Arikan. “And all that hollering is from a bird?”
+
+Arikan nodded and grinned.
+
+Thaxter’s trail turned to the west toward the noise.
+
+Fabulosa pulled out her blade. “Let’s go check it out.”
+
+We followed Fabulosa until she paused, holding a hand up to tell everyone to be quiet. “I got Thaxter here. He’s on the ground.”
+
+I peered in the direction of her pointing finger and saw a leg sticking from a knee-high mass of vegetation at the base of a small hill. I wouldn’t have known it to be Thaxter were it not for the hovering nameplate over his head, bearing his particulars—a level 25 commander with Exhaustion, Grappled, and Dehydrated debuffs.
+
+Above the prone figure roosted a vulture-looking creature of green plumage. The leaves around its perch camouflaged it.
+
+Name
+
+False Fruitguide
+
+Level
+
+2
+
+Difficulty
+
+Trivial (gray)
+
+Health
+
+20/20
+
+The creature saw us, launched into the air, and disappeared into the canopy.
+
+“What’s a false fruitguide?” Fabulosa asked the soldiers.
+
+The captain rubbed his mustache, eyes on Thaxter’s body. “Is that what that was? I didn’t get a look. I’ve never heard of them.”
+
+Jourdain and his subordinates exchanged puzzled glances before returning their attention to the body. Each gripped their weapons and secured their shields.
+
+Fabulosa held out a hand to stay their advance. “Let’s stay put. Patch, check out the bushes with your Slipstream reticule. I don’t like the look of those shiny leaves.”

@@ -1,0 +1,145 @@
+Aside from the zombie dying from falling damage, we hadn’t killed a single attacker since we entered combat state. Over a dozen monsters climbed to our position atop the temple—three climbed within ten feet. Neither of our Slipstream cooldowns had ended, and we blew our daily Hot Air blessings on the ants.
+
+“Did you use Wall of Thorns yet?”
+
+Fabulosa nodded. “Back in the room—when they first attacked.”
+
+Fabulosa shot an undead near the bottom of the room, sidestepped to a new position, and cried out. “To Me!” The returning arrow flew directly to her hand, knocking off two more zombies along its path.
+
+The first zombie landed on its feet, shattering its legs, but it pulled itself to the wall and climbed, dangling from the walls like an orangutan.
+
+The second landed flat on its back and remained motionless. The combat log confirmed the creature was no more. It seemed dumb luck played a role in falling damage. We wouldn’t need to burn through 900 health if the undead landed on their back.
+
+“Nice one!”
+
+“Thanks.”
+
+I picked off the closest fungal animation, burning its flanks with a Scorch. It fell, landed on its head, stood up, and scrambled to the nearest wall.
+
+Two undead orcs with white flowers growing from their shoulders climbed to the top of the temple’s exterior. I fell backward into the center of the shaft, casting Transpose with one of the undead. The spell switched our positions, dropping my target 30 feet onto its back—killing it. I landed next to the remaining zombie and cast Shocking Reach on its flowers.
+
+While the undead sported immunity to electricity, their plants did not. It lost its handhold and fatally tumbled down the temple’s side to the forest floor.
+
+I had no time to celebrate my success, for a half-dozen undead nearly reached my ankles. One wrapped its rotting claw around my dangling scarf. The loose material pulled free from my neck, and the monster and my scarf tumbled to the ground below. It landed on its back, instantly killing it.
+
+“On the smoker!” Fabulosa and I sent Scorches to a mushroom-backed target before it reached the top. Its contrail of spores didn’t look healthy, and neither of us wanted to learn what debuffs would incur from breathing the fog. The fungal animation released its grip and face-planted into the floor. Damaged but not defeated, it immediately began another climb.
+
+Fabulosa switched to her Phantom Blade and shield. I considered my new mace and shield, but I wanted more reach. With piercing weapons, Thrust could knock them off the wall without them landing a finger on me.
+
+Fighting on top of the temple made for a precarious balancing act, and distancing myself from attackers stood my only chance. I equipped Creeper and used it to pry off the closest arboreal animation.
+
+It tumbled forward down the slope, smashing face-first onto the forest floor. It hadn’t died but had taken over 300 damage. I made a mental note to expect its imminent return.
+
+More and more undead arrived at the temple’s crest. Those zombies we dislodged bought their companions enough time to reach the summit.
+
+Fabulosa shouted to me over the clamor. “My Slipstream has 30 seconds before it’s up.”
+
+We fought back to back for all the good that it did. We each had undead at our feet. Reaching for our legs and ankles, we kicked to keep them at bay. A dryowight, a human corpse with brown flowers sprouting from its lower back, grabbed my spear and pulled me off balance.
+
+I let go of Creeper and flailed my arms to regain my balance. As I pitched forward into the temple, I possessed enough awareness to push off and leap toward the hanging rope.
+
+I caught the line halfway down. When my fist closed on a knot, my arm felt like something had pulled it out of its socket, and my hand burned from the rope. But the momentum swung me against a wall, dropping me by nearly 40 health. I kicked a zombie off the wall while I recovered. I almost chalked up as my fourth victim in the fight, but the creature landed hard on its side, picked itself up, and made for the nearest wall.
+
+As I clung to my lifeline, I cast Rejuvenate on myself.
+
+I instantly regretted it. We could target undead with the heal-over-time spell, effectively removing them from the fight for ten seconds. In a battle of numbers, fewer attackers reduced the danger of being overcome.
+
+“Fab! Zap ‘em with a Rejuv!”
+
+A second later, a zombie twisting in a ribbon of glowing sparkles crashed to the floor.
+
+The shaking rope fooled me into thinking Fabulosa decided to climb down, but an animated corpse hung from it instead. It dropped, landing on top of me, and we crashed onto the floor 20 feet below.
+
+The situation on the floor looked as bad as on top. The undead that fell moved differently on broken bones but showed no less enthusiasm for charging into battle. Unless they landed on their backs, they weren’t much worse off than before.
+
+I fell prone, looking at half a dozen animated corpses climbing the walls.
+
+/Dryowight takes 45 falling damage./You take 63 falling damage. /Dryowight crits you for 54 damage (0 resisted)./Arboreal Animation crits you for 44 damage (0 resisted)./Arboreal Animation crits you for 46 damage (0 resisted)./Fungal Animation crits you for 42 damage (0 resisted)./Dryowight crits you for 58 damage (0 resisted)./Arboreal Animation crits you for 50 damage (0 resisted).
+
+Lying on the ground was no way to fight a battle, so I regained my footing. Prone targets received critical hits.
+
+Fabulosa fought off four undead—a backdrop of the gray sky and green canopy silhouetted her struggle. A puff of white clouds appeared at the temple’s zenith, accompanied by the thunderclap. A Compression Sphere launched two more undead into the forest. I silently thanked her for not sending them to me, as I already juggled plenty of enemies.
+
+In my peripheral vision, another half dozen corpses ambled across the fallen blocks, puddles, and mud. They surrounded me, though the damage they’d sustained in their falls introduced various handicaps—some crawled, others limped.
+
+Even with Rejuvenate, I’d taken over 300 damage from the fall and subsequent attacks. Triggering my Charm of Rescue to turn any heal into an instant, I landed a much-needed 84-point Restore on myself, closely followed by a 100-point health potion. After investing 100 points into a Mana Shield, I sustained another round of critical hits before casting Compression Sphere beneath me. It created an improvised Slipstream and my fastest escape mechanic until the real thing became available. The shockwave launched me into the air, dispersing the encroaching corpses.
+
+Thanks to the last tick of Rejuvenate, I survived my human water balloon impression with 21 health to spare. Three cheers for my new +5 ring of stamina.
+
+Unfortunately, my Compression Sphere launched me sideways, far from where I wanted to be. In a chamber with six open passageways, I landed in a corner. With 10 seconds of cooldown left on Slipstream, it looked like I would have to waste it on reaching a doorway. It left me with two choices. I could go down the hallway with the wooden candelabra or to the narrow hall ending in a cave-in.
+
+The prospect of backing into an unfamiliar dungeon appealed less than a dead end. At least I could use the dead end’s doorway to bottleneck my enemies. When my mana dropped below 100, I turned off my Mana Shield.
+
+Unfortunately, my Hammer of Might’s reach wasn’t long. With Creeper gone, my trident offered the next best reach. After equipping it, I slapped it into a puddle for its wetness bonus.
+
+I considered buying two spells. Rally, the area-heal also damaged undead. Unfortunately, the temple’s summit would have been the time and place to use it. Irradiating the undead with a dose of light magic would have dislodged them en masse, and I hadn’t considered it because we weren’t injured. Another problem with Rally was its area of effect wasn’t as wide as other heals. AOEs typically had shorter ranges because they affected multiple targets.
+
+That left me with another area-of-effect spell called Moonburn. I studied its description again.
+
+Power (spell)
+
+Moonburn (tier 3)
+
+Prerequisites
+
+Nature magic rank 23, Survival rank 10
+
+Cost
+
+40 mana
+
+Cooldown
+
+10 minutes
+
+Cast time
+
+Channel
+
+Description
+
+Caster directs a 45-degree 10-foot-long cone stunning enemies and inflicting 20 points of damage per second. Caster may channel 1 second for every fourth rank in nature magic. Enemies affected by Moonburn remained stunned for 2 seconds. Concentration must be maintained to sustain the effect.
+
+I bought the spell with one of my two power points. Its five-second channel wasn’t an issue because it took time for the undead to recover from my Compression Sphere.
+
+When I began channeling it, a wide arc of multicolored lights flared from my chest, catching a half-dozen undead in its radius. As their skin sizzled and smoked, my combat log scrolled with messages that I’d inflicted 100 points of damage to five zombies, and Moonburn’s stun bought me enough time to back away.
+
+I positioned myself at the flank of one of my attackers. Using Slipstream for something as prosaic as moving to another side of the room seemed a waste, so I scanned the room for opportunities for a critical hit on their vulnerable spots—the growth on their backs. At least, I should try to take one out. I swooshed behind a fungal animation and planted the end of my trident into the growth on its back. My hit scored 124 damage, stripping the growth off its back and ending its undead days.
+
+Effectively executing Slipstream gave me little time to assess the situation. Opening and closing my interface too many times during combat introduced the danger of tripping myself up. I could safely do so when flat-footed and between actions. Unfortunately, in the pell-mell of combat, I didn’t have time to catch every single detail.
+
+As my weapon bit into its back, I belatedly realized I had targeted a monster with soft puffballs covering its back. A cloud of gray spores erupted around me. A debuff appeared in my peripheral vision, making me wish I hadn’t let a zombie rip off my scarf.
+
+Debuff
+
+Toadstool Disease
+
+Vocal paralysis and a cumulative -1 to stats per second of debuff’s duration. You are silenced and cannot eat or drink.
+
+Duration
+
+30 seconds
+
+Toadstool Disease made for an insidious debuff. It stopped me from casting spells and drinking potions. It also became lethal for players with less than 30 stamina. Since my stamina reached 39, zombie attacks presented a more immediate danger. Any hit would wipe out my remaining 21 health. Toadstool Disease also increased the likelihood of being hit, as my agility and strength fell under 30. Soon, I wouldn’t be able to move or fight.
+
+I slammed my battle standard into the ground while still having a positive agility.
+
+Apache opens battleground channel.Apache joins channel.Fabulosa joins channel.Apache Fab, I’m in a bad way down here.Fabulosa Ugh. It’s no walk in the park up here, either. What’s up? Apache I breathed in a mushroom cloud. It’s lowing all my stats, including agility. It’ll paralyze me in about fifteen seconds. Fabulosa Yikes. I’m fighting off half a dozen zombies up here. I’d give anything for a Glock right now. Apache Can you slipstream down here? Fabulosa One’s got me wrangled good. Give me a second, and let me try to shake him. Apache Okay, just the clock is ticking for me. I’ll back into the dead-end tunnel and see how long I can hold out. I’m losing strength and agility, and any hit will kill me. I’d buy rally, but now I can’t cast spells. Fabulosa Hang tight, partner. I’ll see what I can do. Apache Would that I could, sister. Good luck.
+
+We left the chat interface and returned to the flow of time. I abandoned the battle standard where I planted it because the monsters wouldn’t pay it any mind.
+
+Ten seconds into my debuff, a Fireball from the sky fell upon my attackers like an artillery round, engulfing them in flames, but only doing minor damage. A battlefield chat message followed.
+
+Fabulosa Patch, I don’t know what to do. I would pop a rally, but you’re out of range. I can see you through the slipstream UI, but I can’t get there. Two have a grab on me, and I can’t shake them.Apache That’s okay, babe. I know you’re trying. I just hope you’re able to get away.
+
+The Fireball bought me another second, and I fell backward through the doorway. If I hadn’t used my robe’s ability in the snake fight, I could have Hot Aired out of the action. As a blessing, Hot Air didn’t need mana or magic words. It would have bought me half a minute.
+
+The basilisk egg only endangered us, and I wish I’d used the mummy wraps on the ophidian giant. None of my other items could save me.
+
+I used my trident to keep the zombies at bay while I backed into the doorway. Twenty seconds into my debuff, I slumped against the hallway wall as my knees buckled. It didn’t even matter that this hallway ended behind me. I couldn’t stand with a strength of -1, and my agility fell to 7 and my knees buckled under the weight of my armor and equipment.
+
+Two arboreal animations darkened the hallway door.
+
+If I died, at least Fabulosa could loot my purple core and win the contest.
+
+The heavy end of my trident caught against the doorway, giving a zombie enough time to wrench it from my weakened grasp. The weapon clattered as it dropped to the floor. It served me right to die for wielding such a silly weapon.

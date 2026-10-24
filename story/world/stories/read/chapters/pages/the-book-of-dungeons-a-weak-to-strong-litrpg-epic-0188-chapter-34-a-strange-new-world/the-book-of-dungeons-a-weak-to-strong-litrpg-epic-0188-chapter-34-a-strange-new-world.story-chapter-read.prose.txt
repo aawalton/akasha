@@ -1,0 +1,181 @@
+I stretched and stood after my post-combat Rest and Mend. “I don’t think it’s worth sleeping eight hours to get rid of just two Exhaustions, do you?”
+
+Fabulosa shook her head. “I’d be surprised if time even worked the same down here. My interface says midnight, yet there’s sun in the skylights. I’ll be happy to get out of here. This Archon book better be worth the trouble.”
+
+We processed the minotaur’s carcass, cutting it into void bag-sized chunks. Besides red meat, the monster yielded 158 experience points and a yellow core.
+
+Item
+
+Yellow Core
+
+Rarity
+
+Rare (yellow)
+
+Description
+
+Level 20 coreBoss Monster Bonus Steadfast
+
+It disappointed me that an orange monster didn’t yield an orange core, but monster rewards weren’t always proportional to their difficulty rating. A steadfast core would be a good one for Rory’s smithy. I mentally earmarked it for the building and slipped it into my inventory.
+
+A few magic items occupied its gullet. We found two low-level swords, axes, good plate armor pieces, and a magic shield.
+
+Item
+
+Reinforced Tortoise Shell
+
+Rarity
+
+Masterwork (green)
+
+Description
+
+Level 26 shield+25 Armor, +3 Stamina
+
+Its hardened leather and wooden frame made this an intriguing item. Magnetize confirmed it contained no metal. It would be a perfect shield for Fabulosa because it wouldn’t water down her primal spells.
+
+“Wow! Thanks, Patch.” She picked it up and made swashbuckling swings at the air that would have made Dino tap his foot in irritation.
+
+I spotted a pair of magic gloves with Detect Magic in one hallway.
+
+Item
+
+Switching Gloves
+
+Rarity
+
+Masterwork (green)
+
+Description
+
+Level 35 hand slot Item use—Wearer may switch objects held in hands by saying the command word—Switch.
+
+I slipped on the gloves and equipped myself with my Wall of Wind and Creeper. When I uttered the magic word, the two items switched to different hands. Holding the spear in my non-dominant hand felt awkward as the shield moved to the other side. I repeated the words, “Switch!” The gloves and held objects returned to their original hands.
+
+Switching while performing my points exercise felt off balance. Since I wasn’t ambidextrous, attacking with my other hand would have taken practice.
+
+Fabulosa watched as I performed my points. “How is it?”
+
+“It feels weird. I don’t think I’ll be able to use it during combat—at least not yet.”
+
+“It’s like my Phantom Blade. It looks good on paper, but…”
+
+“Maybe I can convince someone I’m a southpaw until combat begins. It might catch someone off guard.”
+
+“If they fight like Uproar, you won’t need an advantage. Part of me thinks we’re overprepared for the other contestants.”
+
+“Yeah, but—”
+
+Fabulosa rolled her eyes. “I know, I know. You’d rather be overprepared than under.”
+
+I grinned. My partner knew me well.
+
+We walked around the dungeon and picked up coins and bits of junk on the ground. Fabulosa collected a stack of mushrooms, hoping they might be rare or useful for a recipe. We also found a stoneware pot filled with a pasty substance like wet clay.
+
+Item
+
+Invisibility Goo
+
+Rarity
+
+Rare (yellow)
+
+Description
+
+Level 25 ointment Item use—Creatures or objects covered in goo are invisible and will remain so until goo washes or wears off.
+
+It looked like the ointment contained enough goo for one application for anyone not wearing a robe. I gave it to Fabulosa since I couldn’t use it without losing my precious Cossack of Rewind.
+
+As we swept the halls for treasure, Mineral Communion revealed scenes of the minotaur killing and eating its victims. The scenes were so gruesome that I stopped after seeing no sign of the gray-haired gentleman. He never traversed these corridors.
+
+Scouring the area turned up no more goodies. At last, we approached the Right of Passage exit for what we hoped would be the last time. After cycling through sixteen animal symbols, we reached a blank crystal window—something Lord Rammons must have done to bypass his maze. Beyond the window awaited a foggy room with a glowing blue firepit. Opening and closing the door to find the room that matched made for an annoying process, but less so than fighting a minotaur.
+
+We re-buffed with Heavenly Favor and Presence and walked into the foggy room. When we passed through, our buffs disappeared.
+
+Fabulosa put her hands on her hips. “Ugh-oh. My infravision is gone.”
+
+I tried using Creeper. Not only did its infravision not work, but I couldn’t get an item description. It acted as if the magic item didn’t work. After seconds of frenzied testing, we discovered none of our magic items worked. They seemed inert.
+
+Fabulosa sighed. “It looks like we crossed into another dimension. Am I crazy, or does this feel like the Dark Room?”
+
+I inspected my gear. Nothing with magic worked except the glow stones. For whatever reason, they still radiated light. “I wonder if glow stones are even magic.”
+
+“What do you mean?”
+
+“I never bothered to cast Detect Magic on them. I just assumed they were. Maybe it’s just a natural property. None of my other magic items work.”
+
+“Ugh. My combat abilities work, at least. Does yours?”
+
+I grunted. “Yeah, but I burned Anticipate on the minotaur.”
+
+“Me too.”
+
+“Without spells, we can’t heal.”
+
+“No Slipstream either.”
+
+I grunted again. Slipstream was our bread and butter, and fighting without it held little appeal.
+
+Like the Dark Room, the interface map didn’t work. The compass rose didn’t appear, so we didn’t even know the cardinal directions.
+
+We affixed glow stones to our shields before entering the foggy room. While Fabulosa tightened one to the crown of her helmet, I studied the strange atmosphere. The fog provided a dim luminosity, yet at a distance, it obscured vision. All the dungeon’s surfaces felt unnaturally flat, too perfect to be natural stone. The fog’s ambient light weirdly affected dimensions. Without shadows, nothing seemed grounded, and everything looked fake.
+
+Fabulosa’s comparison to the Dark Room felt spot-on.
+
+As otherworldly as the surrounding space seemed, the absence of magic preoccupied my thoughts. Mineral Communion didn’t work. I couldn’t cast Presence, Detect Magic, or summon Beaker. At least I used my robe’s cooldown already, as magical cooldowns served no purpose here.
+
+The room extended 40 feet, and the ceiling reached almost as tall as its depth. Unbuffed and without our magic items or spells, we explored the space.
+
+At first, I mistook the metal grill topping the stonework ring as a campfire. The blue glow beneath the skillet completed that mental image.
+
+Another blue glow emanated from a ten-foot-wide corridor. It illuminated a hinged grate in the floor that I hadn’t noticed.
+
+Nothing stirred the silence, so I inspected the fire pit. “That’s a strange-looking skillet.”
+
+“Technically, it’s a griddle, not a skillet. See? There are no sides to it. We could cook a lot of pancakes on a biggin like this. I’m going to bring this back for Rocky.”
+
+Fabulosa grabbed the handle to test its weight. It looked heavy, but she lifted it with ease. Instead of revealing the ring of blue flames, a blue beam of light shot up to the ceiling. The blue shaft lit up the foggy atmosphere like a laser.
+
+Fabulosa jumped back to avoid anything jumping out at her. She dropped the skillet in her haste, which clattered noisily across the smooth stone floor.
+
+I drew my weapons in case the noise alerted nearby monsters. I’d learned to fight with nonmagical weapons in the battle college and readied myself. “Are you okay?”
+
+Fabulosa gave me a thumbs-up gesture and drew her arms.
+
+With the skillet removed, the blue beam shot onto the 40-foot ceiling, lighting up the fog and bathing the room in blue like a neon sign. The beam’s source came from a hole inside the stonework ring, and no mechanics appeared to control it. No knobs or buttons appeared to change its color or direction. There wasn’t an off button.
+
+Fabulosa waved her sword over the light, but the beam passed through it. She touched her blade. “It’s not warm.” She pulled out a shield, and it appeared she could smother the light if she placed it over the firepit ring as an ersatz skillet. She picked up the skillet, felt its surface for signs of purpose, and stashed it into her inventory. “What do you think this blue beam does?”
+
+I extended my finger into the light. When it produced no ill effects, I passed my hand over it. I couldn’t feel anything—not even heat. “It’s hard to believe it doesn’t do anything. I’m not used to finding harmless things.”
+
+Fabulosa shook her head and laughed. “Don’t go and jinx it, now.”
+
+“Sorry. I take it back.”
+
+A hallway, ten-foot-wide and tall, opened on the other side of the room. It stretched fifty feet into another large space, but the fog obscured distant details. Fabulosa and I needed to be careful to avoid stumbling into monsters.
+
+Catching my attention wasn’t the prospect of an ambush but a horizontal blue beam emanating from a hole in the hallway’s wall. The beam of blue light ended on the opposite wall.
+
+The other strange thing about the room concerned the barred grate in the floor. It covered a 50-foot pit opening into a furnished room. Why wouldn’t there be a ladder?
+
+Crouching over the bars, I gave them a good shake, testing their strength. They felt so solid that Fabulosa didn’t bother trying them herself.
+
+Peering into the pit, I studied the room’s contents. A shelf and chair lay on the floor as if someone had tipped them over. I could see smaller objects, but the foggy gloom made it difficult to discern details.
+
+Had someone ransacked it before us? I couldn’t imagine other thieves finding their way past the minotaur.
+
+Everything about the room drew me toward it. The comfy furnishings looked familiar, civilized, and inviting, contrasting with the smooth stonework and ambient blue light of this eerie dungeon.
+
+I spotted hinges and locks on the grate. The lock had a keyhole, but we had no key. I shook the bars again, barely producing a rattle. This treasure room awaited beneath these heavy bars, but this alien dimension prevented us from bypassing them with magic.
+
+“I never learned how to pick locks. I never thought I needed to because I always had Magnetize and Move Object.”
+
+Fabulosa pulled at the lock but gave up when it resisted. “I don’t see any shortcuts.” She pulled out the heavy skillet and bashed it against the grate. Aside from making noise, her efforts accomplished nothing—not a dent or scratch.
+
+“It’s a shame we gave the work crew C-Belle’s siege hammer. Otherwise, we’d be able to put it to good use.”
+
+“I don’t think so, partner. Structural damage is a magic property.”
+
+“Oh. That’s right, I forgot.”
+
+Fabulosa stood and approached the hallway leading out of the room. “Let’s get a move on. There has got to be another way into that room.”

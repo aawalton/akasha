@@ -1,0 +1,165 @@
+Ally returned the conversation to the building queue. “Regardless of what the Guv tells the town about the relic, we need to square the build queue by tomorrow.”
+
+Eager to be off the subject of public speaking, I followed her lead. “Right! I hoped to begin an outpost halfway to Basilborough. But we’re short on warehouse space. Is that correct?”
+
+All three tried talking at once, but Ally led the charge. “We need more than a few barns. We’re sorely pressed for a toolshed. Tools lay scattered about the town, and without a place to return them, my workers hoard them—so everyone asks Rory to make more.”
+
+After scrutinizing the settlement’s economy window, I confirmed the slight drop in efficiency that has been trending these past few weeks. I had taken workforce efficiency for granted. The last time I checked, it had climbed to the mid-seventies, but now it dropped to 72 percent.
+
+Ally continued. “Tool requests swamp Rory and Fin, which brings us to the next point. Rory hankers for another smithy.”
+
+I’d readied myself to reject unnecessary building requests, but this one seemed ridiculous. “Another forge? What brought this on?”
+
+“Last night. The L.T. showed us her catch of anthracite, steel wool, and coldiron.”
+
+“When had Fab found anthracite? And what is anthracite?”
+
+Ally waved her hand. “’Tis pure hard coal. Shiny, brittle stuff, good for ragin’ hot fires. Rory says he needs a new smithy for coldiron. He and Fin need coldiron blades to cut the L.T.’s new steel wool. She and the lads have set themselves to fashioning a new cape with the fancy purple core.”
+
+Ally’s description of anthracite matched the shiny black stuff we’d found in the wizard’s vault in Malibar. “We can’t smelt coldiron in our forge?”
+
+Ally shook her head. “The new smithy is for the L.T.’s new cape, and a second one lets Fin have a forge. They’re short of workspace, what with all the town’s needings. L.T. claimed ye’d stamp yer approval on the project.”
+
+I grumbled. “She did, did she? Hmm.”
+
+Who could blame Fabulosa for fast-tracking such a powerful item? Her time in the smithy meant she’d have Rory and Fin on her side, explaining their outlandish request for a new smithy.
+
+If Hawkhurst only existed for our benefit in The Great RPG Contest, I could justifiably okay the project, but I also wanted the place to survive. I, too, wanted to see how a purple core enhanced the steel wool, but preparing for goblin attacks had to be a priority. Perhaps moving a smithy to the front of the queue served both purposes. Fabulosa’s new cape might help in the town’s defense. “What else do we need to build?”
+
+Greenie spoke up this time. “A woodshop is crucial.”
+
+“How so? We’ve done fine without one.”
+
+Greenie gestured to his desk. “Woodshops standardize wood processing instead of everyone customizing pieces to fit. We will need it to mass produce arrows, crossbows, armor, and siege engines.”
+
+“Siege machines—that’s something you studied in Malibar before your brother captured you, correct?”
+
+The goblin nodded. “I reverse-engineered several orc designs but possessed no resources to construct them. A ballista would bolster our town’s defense.”
+
+Hearing about all the town’s needs dampened my enthusiasm for an outpost. Outposts require relocating the work crew miles away, and the logistics of defending, housing, and feeding them all felt too extravagant.
+
+I held up a finger. “We can talk about siege machines afterward. So we need more storage spaces, a woodshop, and a smithy. What else?”
+
+Ally folded her hands as if delivering bad news. “We need stout fortifications. The motte and bailey served us proper against a rabble of gnolls, but repelling a full-scale goblin attack is another matter. Human cities in the West can attest.”
+
+“They’ve sacked cities?”
+
+Ally nodded. Her first settlement succumbed to such an invasion, so her opinion carried weight. She turned to Greenie for confirmation, who glanced at the castle designs on his desk.
+
+“Sadly, I concur. If the threat comes from Rezan, then prioritizing sturdy walls is prudent. His resources are considerable.”
+
+“Guys—we don’t have time for extravagant projects. It’ll be a few months before I leave and maybe a month longer before I return. We can’t possibly build a castle before then—even with Charitybelle’s siege hammer.” I turned to Greenie for support.
+
+“We don’t need a castle, governor. I already have valid plans for a barbican.”
+
+“You mentioned that to me before. Isn’t that just a gatehouse?”
+
+“It’s an external gatehouse designed for semi-independent defense outside a castle’s walls. I see no reason it couldn’t act as an autonomous tower. On Hawkhurst Rock, sap and mining techniques couldn’t undermine it, and Hawkhurst’s structural resistance renders it impregnable to forces without siege engines.”
+
+“What are the chances the orcs will sell goblins siege equipment?”
+
+The three smiled as if the possibility were preposterous.
+
+Greenie allayed my fears. “I pursued the subject in my studies in Malibar because the orcs would never do such a thing. I’m possibly the only goblin alive with access to siege engine theory.”
+
+I breathed a little easier. It felt good to know we could catch a break like this once in a while. “Let me see the barbican blueprint again.”
+
+Greenie pulled a blueprint from a stack of scrolled parchments from his desk and unrolled it across the table. It looked more extensive than the town hall.
+
+Create Building
+
+Barbican (tier 3)
+
+Description
+
+Defense Structure+5 percent security, +1 percent cultureDoubles gatehouse effects and provides 2 slots for siege engines and crooked castle entrance. Includes garrison, arrow slits, murder holes, and two portcullises.
+
+Details
+
+Structural Points 2,000Location not specified
+
+Materials
+
+Timber 600 battensLumber 5000 boardsStone 4000 blocksBrick 1000 Iron 200 lbs.
+
+Build Estimate
+
+80.2 days with 27 workers at 118 percent efficiency
+
+Core Bonus
+
+None
+
+The building’s description wasn’t as descriptive as I’d hoped. “I thought only orcs built siege engines. What does this mean, ‘crooked castle entrance?’” I pointed to notations on the design.
+
+Greenie straightened. “I customized these blueprints from the gatehouse. Siege engine designs are infamously difficult to verify, but I plan to make short-range ballista for town defense. The crooked entrance is another idea. Instead of an outward-facing door, wagons must turn a corner to enter. Such a turn is a minor inconvenience to visitors but a significant deterrent to battering rams.”
+
+Ally slapped the table when he finished. “That’s what did us in. A grand line of goblins carried a tree trunk, drapping our door into splinters. My people would throw their backs into a gimmick like this. Well done, Greenie.”
+
+The goblin bowed to her enthusiasm, which struck me as charismatic. He’d make a good governor in my absence. And the thought of giving rowdy dwarves an excuse to shout his name during town meetings made me smile.
+
+Ally continued. “But this begs the point. How many of my crew will remain before we address this design? If they flit off to personal pursuits after flipping the economy, ye’ll get nary a building afterward.”
+
+Ally had entered midway through the discussion of Ida’s work-hours program. It cheered me to have an answer to someone’s concern for a change. “Ida’s going to implement a system of owed work hours for anyone wishing to convert public works to private ownership. She came up with the idea.”
+
+Ida explained how it worked for Ally’s benefit. “If Freya and Gunny want to run the inn, they’ll owe the hours it took to build. By my estimates, we’ll have them for another 378 days of half-time labor. I assume they’re sleeping in the inn, and if they feed themselves, it’s a few months shorter.”
+
+Ida’s figures seemed generous, considering my aunt and uncle still owed the bank from their 30-year home loan. “How long does it take to work off a farmhouse?”
+
+Ida looked up from her vellum. “One owner or two?”
+
+“Let’s say two.”
+
+Ida sighed. “The land is free, so we’re looking at about 120 days if they feed themselves.”
+
+“That seems like a good deal. At least Hawkhurst won’t have any more housing issues.”
+
+Ally nodded at the figures, satisfied. “We still need to build everything. What is yer queue policy for private structures?”
+
+I held up my hands. “Priority goes to Hawkhurst civic works. Right?”
+
+Ida gave a curt nod.
+
+“People can build in their spare time, but we must prepare for goblin reprisals. If I wanted to put an all-hands-on-deck for the barbican, how big is our workforce?”
+
+“Ye mean, with no one to tend to the farms?”
+
+I shook my head. “We’re out of storage space for food anyway, right?”
+
+Ally took a turn to contemplate and counted out loud. “Rocky, Mrs. Berling, and Hugo will need full-time kitchen duty. Murdina has the animals. Rory and Fin have their work already cut out for them. Excluding the officers, we’ll need a few on patrols with Iris’s mercs guarding caravans. I’d put us to about 100. Although our average worker rank will take a hit from unskilled additions.”
+
+“We’re swearing in a dozen guards tonight for patrols—and soldiers know how to dig.”
+
+Ally crossed her arms, unimpressed. “Humans with shovels? If ye say so.”
+
+Ignoring her dwarven pride, I did some napkin math and figured 100 workers could build the barbican in a month. Without Charitybelle’s siege hammer, it would have taken us considerably longer as it effortlessly cut stone. Building so close to the quarry trivialized resource gathering.
+
+Learning the goblin language gave us plenty of time to build more storehouses, a workshop, and another forge before starting the barbican.
+
+With sunlight waning and my stomach growling, it seemed a good time to end the meeting. “We can talk about patrols and forge priorities tomorrow. Let’s give Ida enough time to count funds for past labor. It would be nice to pay people after dinner.”
+
+Ida tapped her list of names. “Minting silver coins will be another job for the forge. I’m paying 17 silver and 20 copper to the settlement’s first members—minus food and shelter. That’s about eight silver and 60 copper apiece.”
+
+Greenie shrugged. “We still have thousands of copper from the mine.”
+
+“And I already know which cylinder deactivates the aura around the relics. We have about 20,000 coins worth of silver.”
+
+Ally waved her hand. “Bah! Silver melts like late-morning butter. Rory and Fin can bang coins while they work. Maggie and the girls will put some clay tablets together. Do ye fancy the flag for a design?” Ally thumbed toward the settlement’s flagpole. Charitybelle stitched together a silhouette of Chloe over a tower for an emblem.
+
+“Yes. That’s a perfect design.” I pushed myself from the table to reconvene in the town hall, but Ida ignored my hint.
+
+“One last thing. A common complaint is the mud. People take turns sweeping the roundhouse, but the storehouse is a mess, and Rocky is furious about the town hall. The puddles are only getting bigger.”
+
+I checked the settlement interface and spotted a slight drop in the town’s comfort rating. Once the number reached the high eighties, I took it for granted. Comfort used to be 89 percent, but the mud dropped it two points and would fall by another point by the end of the week. We could survive the drop, but sidewalks involved extensive labor.
+
+The muddy paths highlighted the most used thoroughfares. We didn’t need to guess the most popular routes. This problem also seemed like an accomplishment in civilization. Taming Hawkhurst enough to reach the dubious mud milestone seemed a hallmark of legitimacy—an issue only squeaky-clean Arlington had solved.
+
+I’d once read how sidewalks changed architecture in New York City. Without mud everywhere, people didn’t need foyers to clean themselves. Brownstone stoops elevated the ground floor above the street to avoid the unsightly mess of unpaved roads. Spats weren’t just a fashion accessory—they protected shoelaces and stopped mud from working its way into the shoe. Hundreds of wrought-iron boot scrapers still exist on city sidewalks today. Mud had been an omnipresent hazard for hundreds of years, and now it bedeviled Hawkhurst.
+
+One might think rats and garbage might subsequently plague us, but I wasn’t so sure. The lack of garbage in a fantasy world surprised me. Unlike modern folks, Hawkhurst wasted nothing. Even bones turned into needles, buttons, clasps, fishhooks, combs, and tools. The dwarves carved larger bones into ornate handles, figurines, and worn ornaments.
+
+Ida waved her hand in front of my face. “Governor, hello?”
+
+“Oh, sorry. Yeah, we’ll figure out something for later. Sidewalks and roads are beyond our capability. Maybe we can put wooden stumps outside buildings as boot cleaners.” My stomach rumbled again, and everyone’s posture showed I wasn’t the only person ready to eat. I reassured Ida about the unread notes and lists still on my desk. “We’ll go over the rest of the town’s needs tomorrow, okay?”
+
+Ida tapped her bookkeeping folio. “That works with my schedule. My estimates put you at 512 days of duty before you work off the manor.”

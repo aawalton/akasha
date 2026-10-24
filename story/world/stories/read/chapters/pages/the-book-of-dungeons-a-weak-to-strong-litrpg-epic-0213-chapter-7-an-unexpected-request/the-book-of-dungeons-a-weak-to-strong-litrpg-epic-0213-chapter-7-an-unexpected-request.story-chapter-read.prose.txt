@@ -1,0 +1,139 @@
+Aside from new warehouses, barns, and sheds in the following weeks, little around Hawkhurst developed. Ally’s crew devoted itself to building warehouses for food and supplies.
+
+The second warehouse featured custom storage for timber and scrap metal. Its extra space improved work efficiency. Workers didn’t need to rearrange goods to reach everything, reducing search times to almost nothing.
+
+I couldn’t immediately assign 102 laborers to the job without morale penalties, as people needed to finish their old tasks and prepare for the building spree to come. Ally and Ida pulled me into decisions, which wasn’t so bad because Greenie sometimes became too busy customizing blueprints to teach me Goblin.
+
+The next structure, a stable, counted as another castle building. On the prime real estate of Hawkhurst Rock, the stable joined the orrery and manor in waiting for protective walls. Greenie’s design incorporated stables into the castle complex. They took longer to build than previous barns, as their space for feed storage called for quarrying.
+
+News of a new forge and anthracite coal ushered in a new list of demands from Rory. He harried our architect with changes, including an underground design. Greenie also placed the second smithy inside the castle grounds, so we had a place to work on weapons during sieges. Building it underground meant carving the entire thing out of stone. The Metamorphic Siege Hammer made stonecutting quick work, but Maggie’s crew still needed to haul sleds of gravel out of the ground. They dumped the aggregate in front of the roundhouses, where the worst of the mud pooled.
+
+I couldn’t tell if all of Rory’s requests were unreasonable. It seemed like it created an awful lot of work to build the smithy underground. Space on Hawkhurst Rock stood at a premium, but it wasn’t that scarce. I asked him about the topic.
+
+Rory tipped his head back and rolled his eyes at my lack of understanding. “Coal doesn’t need as much air as charcoal, so the castle forge doesn’t need to be big. Besides, a wee underground forge keeps hot longer, conserving our fuel reserves.”
+
+I nodded in comprehension.
+
+Rory stroked his beard as he spoke. “Smelting will gobble up much of the anthracite, but banging metal doesn’t need melting temperatures.”
+
+“And you can work in coldiron?”
+
+The dwarf nodded. “I can smelt and hammer everything at the new forge.”
+
+Greenie, watching our conversation, seemed to have no objections or arguments.
+
+“Oh. Well, good. Carry on, then.” I extricated myself from the process and let the experts do their thing.
+
+After the barn, we erected two sheds, one for the baker to make their yeast and another for tools. Our workforce numbered nearly 100, and we built all three structures within a week.
+
+We placed the tool shed near our lumber mill and our following structure, the woodshop. The woodshop vastly improved production to almost an industrial level. Not quite a production line, it standardized Hawkhurst’s wood processing and reduced construction schedules. The woodshop took ten days to finish because of its unique workstations, tables, and guides. The dwarves obsessively checked their work, ensuring everything stood plumb, flush, square, and level. Imperfection in the woodshop introduced problems to its products, and the workers wanted firsthand assurance no one had made mistakes.
+
+Maggie spoke of a tier 5 structure, a mason’s guild, which served as the stone equivalent of the woodshop. I admired her optimism, but we could only handle one tier at a time. I eyed the next governmental structure—the great hall.
+
+Create Building
+
+Great Hall (tier 3)
+
+Description
+
+Government Structure+2 percent security, +5 percent cultureProvides tabled seating for 100 citizens in an acoustically optimal environment. Includes multiple hearths for cooking and warmth. Unlocks tier 4 structures.
+
+Details
+
+Structural Points 500Location not specified
+
+Materials
+
+Timber 250 battensLumber 500 boardsStone 4500 blocksBrick 7000
+
+Build Estimate
+
+28.2 days with 101 workers at 78 percent efficiency
+
+Core Bonus
+
+None
+
+Almost identical to the town hall, its high roof optimized acoustics for speakers at the head of the table, an appealing feature. Multiple chimneys allowed for a higher roof, and I made a mental note to ask for a special roost so diners don’t worry about falling griffon feathers. Greenie already had a site picked out, bearing a second-story connection to the manor, allowing officers to walk between the manor and great hall without going outside.
+
+I noticed a drop in efficiency. After the first caravan, the settlement’s events rating returned to 100 percent, leveling our efficiency to 80 percent while we built storehouses. The only metric that dipped was our comfort rating due to the worsening mud.
+
+While we had stumps at every doorway to kick off tracked-in dirt, walking outside grew increasingly unpleasant. We bridged growing puddles with planks of lumber, but they became insufficient. The mud would grow unbearable when the winter rains arrived.
+
+While castles were cool, constructing a barbican seemed like a drag on our development. With the market completed, the great hall counted as the key to unlocking tier 4 structures. We could build it now to unlock more blueprints if it weren’t for the blasted relics.
+
+Greenie placed the underground smithy beneath a glorified storehouse called the armory. He blocked out a placeholder space because we couldn’t unlock the blueprint until we reached a tier 4 government. He customized the underground smithy blueprint to suit his design, but the extra stonework bloated the construction times to five days—a lot for 100 workers. But we’d make it extra special with a yellow core, one that came from the minotaur.
+
+While Maggie’s quarry crew carved out Rory’s new workspace under his watchful eye, Fin created an anvil worthy of his master’s approval. Doing so delayed blacksmith production—a small price for doubling their future production.
+
+Before leaving for the Bluepeaks, I spent copious amounts of time with Greenie learning how to speak Goblin. So many exceptions complicated each dialect, and memorizing them felt like learning several languages.
+
+Greenie started me on the Bonepit language, his native tongue. His family called it the King’s Tongue to lord their status over other tribes. The more they did this, the less other tribes adopted it, ensuring discord between the communities. Goblins became known for their disagreeable nature, constantly at odds with rival tribes, families, and individuals.
+
+I’d likely encounter three more tribes in the region—the Shoughmeats, Undertoes, and Dusters. As the weeks wore on, we abandoned covering multiple dialects. The differences confused me so much that we settled on The King’s Tongue, the Bonepit tribe’s language. Greenie knew it best, and it reduced my workload.
+
+The most absurd exercise in The Book of Dungeons has been reciting goblin sentences. They never involved practical or expected utterances such as, “I am coming to your house.” Instead, Greenie walked me through traditional phrases he’d learned as a child. Notable lines included, “I want your teeth for my collection,” “Toes do not grow back,” and “Fresh as a newly dug latrine.”
+
+Once I understood the basics of sentence structure, I memorized words. Mornings greeted me with vellums filled with new terms. In two months, I had a working vocabulary of about 800 words. Many of these focused on military and combat-related orders, but I also memorized how to say “I come in peace” and “Surrender, and I won’t hurt you” in many dialects.
+
+Greenie taught me universal hand gestures a person might teach to a dog. Body gestures, like shrugging, nodding, and head-shaking, also translated. My chamberlain regaled me with stories of goblin culture and customs, many of which enforced dominating weaker individuals. I learned how goblins used pictograms for signs and symbols for territory markers.
+
+Gray dots on the camp’s radar frequently interrupted my language lessons. Weeks after the first caravan, groups of explorers from the east and west appeared. Our patrols met them and, not knowing what else to do, escorted them to the manor.
+
+I usually memorized words while Greenie slept or drafted on castle blueprints. We sat in the same room so he could teach me while working.
+
+Micromanaging the trade route took time from my studies, but putting our best foot forward might pay long-term dividends.
+
+Explorers arrived, working under contracts from merchants who’d heard about Hawkhurst from a town crier or had seen a parchment advertising ourselves. Merchants and guilds wanted independent reports of monster activity before risking inventories. Three weeks passed since visitors from the west arrived, and a second caravan appeared—a train of torodons pulling carts of grain from Grayton with the company of Sternway mercenaries.
+
+I greeted each party and gave them the sales pitch for Hawkhurst’s intentions for the future, focusing on economic matters like our market and inns straddling each side of the river. Everyone wanted to see the ferry, and I explained how Lloyd intended to redesign a new one.
+
+A young couple, Otto and Gretchen, asked to run the inn by the western dock. It was noisier than the Otter Loch Inn across the river, but they enjoyed Lloyd’s company, who spent much time at the shipyard redesigning the ferry. Ida fixed them with a multi-year contract to transfer it to them. Gretchen announced she became pregnant soon after, much to the town’s approval.
+
+Greenie and I gave them a crash course in welcoming people to Hawkhurst, so Lloyd’s cantankerous opinions weren’t the town’s first impressions. The pair greeted eastern visitors and summoned guards with smoke signals to bring the canoe or ferry. After the second caravan, more appeared, but they only arrived maybe once a week. We couldn’t justify a larger welcoming committee.
+
+First impressions mattered. The Silverview brothers and soldiers from Fort Krek formed the town’s militia, and we dedicated them to the task. Greenie and I gave talking points about our settlement’s policies and goals. We asked them to downplay the battle college—which stood off-limits to non-citizens, but the giant green arena wasn’t exactly unobtrusive.
+
+I’d ranked my sailing skill to 5, but Lloyd remained the only citizen capable of handling the ferry without trouble. Still, we couldn’t depend on his availability, so he picked four older kids from Arlington who showed an interest in working on the docks, teaching them sailing and drayage procedures. While they waited for travelers, he put them to work on a second ferry. The design called for a larger crew, and it would be a while before they finished the vessel to the sailor’s specifications.
+
+Everything worked unless Lloyd was off duty or relaxed in the watchtower. Blustery winds made docking a hit-or-miss situation. He blamed the irregular air currents on the unpredictable weather made by surrounding mountain ranges.
+
+Spending extra minutes trying to straighten out the ferry created only a minor inconvenience—but it embarrassed everyone involved. The waters got rougher in high winds, and the rocking made cargo handling treacherous.
+
+Ally hand-picked the least-skilled workers to serve as hosts for the settlement, bringing the work crew to 90 by the time we had worked out the kinks in the trade route.
+
+Since I’d decreed an all-hands-on-deck policy regarding the work crew, the regular townspeople paused their drills, letting Fabulosa monopolize Dino’s time. Even Bernard and Blane Silverview returned to patrols.
+
+As a homebody, I contented myself puttering around the manor, studying with Greenie, managing settlement problems, or fiddling with runes—even if the latter bore little success. The only rune I’d been able to create from scratch involved undoing items, which counted for little more than a simplistic hack. Reading and learning gratified me more than runes that never worked, no matter how many ways I tried to fit them together.
+
+It was one reason I missed Charitybelle. She enjoyed my company even if we weren’t doing anything mission-critical.
+
+A month after arriving from Fort Krek, Fabulosa came to dinner, grinning like a madwoman. Dinner seemed to be the only time we saw one another. The longer we stayed in Hawkhurst, the less we hung out. She spent time in the battle college while I played the role of governor and Greenie’s star pupil.
+
+I didn’t need training as much as I needed to learn Goblin. My combat skills ranked in the high twenties, though Fabulosa worked to close the gap. She might even have a higher skill rank if she and Dino focused on only one discipline, like slashing weapons. I avoided training anything to rank 30, in fear that canceling Applied Knowledge ended my sped-up gains toward high ranks in magic.
+
+Fabulosa’s dinnertime grin made me wary. Since we saw little of each other during the day, I couldn’t guess what caused her cheerful mood.
+
+I guessed at her mood. “What’s so funny? Are you and Dino enjoying your time alone in the arena?”
+
+Fabulosa played coy, scratching Beaker’s chest feathers when she arrived. Scratches were the toll she paid for winning my pet’s affection. “Dino and I are cooling off, I think.”
+
+“Really? Are you two not getting along?”
+
+She shrugged. “We are. But we’re keeping things professional between us for a while.”
+
+“Professional? Why so?”
+
+Again, she shrugged off the question. “My training is progressing faster by having Dino all to myself.”
+
+“Okay. But it doesn’t sound like you’re cooling off.”
+
+“Come on, you know what I mean.”
+
+“No, I don’t. I have no idea what you’re talking about.”
+
+Fabulosa failed to suppress a smile, and her cagey attitude made me curious. “I want you to do something for me.”
+
+“Sure, what?”
+
+“I want you to fight me.”

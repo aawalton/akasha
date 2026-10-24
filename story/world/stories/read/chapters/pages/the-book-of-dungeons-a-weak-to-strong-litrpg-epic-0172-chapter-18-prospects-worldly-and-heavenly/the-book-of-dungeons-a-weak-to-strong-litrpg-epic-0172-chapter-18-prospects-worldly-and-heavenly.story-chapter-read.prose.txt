@@ -1,0 +1,167 @@
+After the manor finished, the town cheered, and the workers joined the celebration. The new government building unlocked the third tier of blueprints.
+
+I greedily opened the menu to read our options.
+
+Available Blueprints
+
+Tier 1
+
+Altar, Barn, Hunter’s Lodge, Longhouse, Lumbermill, Mess, Motte & Bailey, Smithy, Town Hall, Watchtower, Well
+
+Tier 2
+
+Barracks, Bakery, Dock, Guard tower, Manor, Mill, Pottery, Public House, Shrine, Slaughterhouse, Soap House, Storehouse, Wall
+
+Tier 3
+
+Bathhouse, Brewery, Gatehouse, Great Hall, Inn, Mailbox, Market, Outpost, Park, Tower, Shipyard, Stables, Temple, Woodshop
+
+Custom
+
+Pile-driven Town Hall, Open-air Smithy, Otter Slide, Roundhouse, Temporary Well, Wind-powered Sawmill
+
+Free
+
+Battle College, Orrery
+
+Currently Building
+
+Brewery
+
+I queued the next building to be a brewery before anyone could bother me about it. It wouldn’t be a custom blueprint and little about the structure remained a mystery, so I bypassed its details.
+
+The most unusual item in tier 3 involved the mailbox. When the manor finished building, its blueprint appeared in my inventory, along with all the others. I went to Greenie and Ally’s shared office and dumped the blueprints on their desks. The mailbox was, by far, the simplest.
+
+I’d gotten a taste of the postal system in Arlington and Darton. Mail worked more like an interface system than a building. Even though its blueprint described its mechanisms, I didn’t understand it despite my research rank. The mailbox wasn’t a rune but a complex magical device.
+
+We would have to wait until we finished the all-important brewery before attempting to build one. I didn’t want to jinx our town by running two projects simultaneously. Because of Greenie’s expertise in blueprints and siege engines, its assembly fell under his jurisdiction.
+
+I studied the other tier-3 buildings.
+
+The soap house upgraded to a bathhouse, which was more rustic than one might imagine, but its efficient use of water and privacy made it an attractive option nonetheless.
+
+The gatehouse included a portcullis, a drawbridge, and swinging doors surrounded by walls. Unlocking gatehouses meant Greenie could validate his barbican design.
+
+The great hall felt like a small cathedral with a table running its length. Like the town hall, a dining area dominated the space, surrounded by fireplaces and chimneys. It looked like the place to hold a medieval wedding party. Side rooms included a kitchen, a guardroom, a storeroom, and double doors served as a grand entrance. Greenie wanted to connect it to the manor with an entrance to the officer’s private apartments.
+
+The inn also required the construction of a preceding structure—a public house. We didn’t build the tier 2 pub because it made no sense without a nearby brewery, and we had few visitors to host. Our town hall accommodated quadruple that of the inn, so it didn’t seem necessary.
+
+Besides, I wanted someone else to run the inn. Being in charge of an establishment that sold alcohol to strangers held no appeal. Citizens could take up the responsibility themselves. Part of me suspected feudal lords invented merchants only to clear headaches off their plates. After the guard guild, an inn would become Hawkhurst’s next commercial venture.
+
+The next blueprint, the market, opened our economy to free enterprise. Like the inn, it fostered independent businesses for entrepreneurs with enough capital, time, and energy. We had little use for markets without caravan traffic, but offering citizens a place to barter goods might raise morale. It would make for an excellent back-burner project.
+
+We had the materials to construct the park from the seeds we bought in Grayton, but it only improved our culture rating by 2 percent. Perhaps it would have a more significant effect if Hawkhurst weren’t so pastoral. Forren’s fertility buff might boost us, but we had more pressing needs.
+
+The stables counted as a compact version of a barn, perfect as a castle structure.
+
+The last new building, the woodshop, seemed unnecessary right now. I’d seen our furniture—it looked beautiful and sturdy, but manufacturing it at scale might improve our comfort rating.
+
+The shipyard would become a lynchpin of the trade route. With it, we could ferry travelers across the Orga River. After the brewery and mailbox, I thought this should be the next project.
+
+Aside from unlocking blueprints, the manor didn’t give our citizens immediate features like the town hall’s seating and cooking facilities, so I ended this celebration with a bang. After dinner in the town hall, I led the town to Hawkhurst Rock, opened the Create Building interface, and placed the orrery targeting reticule onto the ground.
+
+Create Building
+
+Orrery (tier 3)
+
+Description
+
+Cultural Structure+4 percent culturePredicts solar and lunar positioning.
+
+Details
+
+Structural Points 800Location 0.2, -15.2
+
+Materials
+
+None
+
+Build Estimate
+
+Instant
+
+Core BonusRare (yellow)
+
+Boss Monster Bonus Farsighted
+
+The reticule gave a transparent preview of the orrery, whose bulbous profile towered three stories. Its organic shape reminded me of a water tower. It looked strange in a meadow filled with prosaic buildings, like barns and roundhouses. A rare and prestigious structure created a value of its own. Building a castle around it would protect it and add to the town’s mystique. Would Hawkhurst Rock’s stiff winds blow the thing over? No, the town’s bonus for sturdy structures would fortify it against the weather.
+
+A rare building like the orrery deserved a core bonus, and I already held the perfect one. The yellow core we pulled from the talax ram possessed a bonus for farsightedness. Perhaps our model of the heavens would reveal something new about the magical moons.
+
+I slid the giant reticule around Hawkhurst Rock. I didn’t want the orrery to interfere with the more functional elements of Greenie’s castle design—the barbican, gate, or towers. Instead, I aligned it with the water’s edge, where it wouldn’t be in the way of defensive structures.
+
+After focusing on the Create Building confirmation, I stood back and enjoyed a spectacle. Soon, marble blocks, ivory beams, brass mechanisms, and other exotic materials rained from the sky. The building components landed where I’d placed the reticule. Dust billowed and swept away with the lakeshore breeze.
+
+The crowd of onlookers gasped and pointed as if watching a fireworks display, but the show ended as quickly as it began. After the components finished raining onto the site, an unpainted building marbled with green and brown stonework stood. Handsome yellowing buttresses supported its top-heavy profile. A seagull landed on its rooftop as if we’d built it to be a perch.
+
+Hawkhurst’s citizens followed me into the building’s lower archway. Without a door, the facility worked like a local library—an institution accessible to everyone. My eyes drifted up to a suspended giant blue globe filling the ceiling.
+
+Beneath the looming sphere stood a large round table framing a three-dimensional map of Hawkhurst. I reached out to it, and the map’s details panned in the direction I’d touched—like an interactive map. Reaching with both hands, I magnified the details, zooming into our town enough to see buildings. Little green blips representing our citizens migrated between the buildings. I zoomed out the map and scanned the edges of Otter Lake. The geographic features sharpened until I saw individual trees as dots.
+
+The 3D table map offered a reference for city planning, locating dungeons, or planning attacks. As citizens milled into the orrery and played with it, I directed my attention to the orrery above.
+
+Perhaps this table came from the farsighted bonus. It possessed the same functionality as our interface maps, except we didn’t need to go anywhere to explore the continent.
+
+The Miros globe reminded me of our days in Belden when Charitybelle and I searched for an atlas. Back then, Miros felt like a big mystery. Now that we settled the continent’s interior, knowing its geography seemed like a luxury more than a necessity. Perhaps we could use this to plan our vacations from town.
+
+And yet, something seemed odd about this space-aged map. The itch bugging me since Winterbyte’s demise returned—as if I missed something essential. It had something to do with the area around Hawkhurst, but I couldn’t quite place my finger on it.
+
+I shook the thought out of my head and ascended the staircase spiraling around the hanging globe. The top floor of the orrery featured a ringed balcony overlooking the blue-green sphere representing the world. Only a few continents covered the surface, but the smallest, Miros, lay far away from the other lands. A faint green circle appeared on the surface of our continent, and it shrunk and widened as people resized the table map below.
+
+Instead of balls representing nearby celestial bodies, thin brass rings slid over the giant sphere’s surface. While the rest of the orrery seemed mechanical, Detect Magic showed the rings to be magic. The largest ring circumvented half the globe—it stood for Phaos, the sun. Four smaller rings demarcated the lunar positioning of Laros, Nassi, Owd, and Tarnen. The drifting circles showed gravitational zones where it became too rough to sail.
+
+The observation platform featured a control box with knobs and switches. I could spin the planet and toggle the predictive paths of the rings. The orbital predictor wasn’t infallible. The further I set the device into the future, the circles representing celestial objects vibrated and dematerialized—like helicopter blades in motion. Hawkhurst’s orrery was pretty, but I hadn’t the foggiest idea what purpose this one could serve aside from scheduling maritime travel.
+
+I watched people play with the table map from the platform. Whoever controlled it zoomed into Hawkhurst Meadow. A sliver of blue represented Hawkhurst Rock. I recognized the lake and river valley, but the details weren’t as crisp as the round table map below. It wasn’t a true atlas. It showed natural features in the terrain and buildings, but no labels appeared on cities, structures, roads, or political boundaries.
+
+For all its bells and whistles, the orrery did not show whether Miros worked in a heliocentric system like Earth or if it played a central role in a contrived, geocentric model. As far as I knew, we occupied a moon, and the satellites whirling around could be planets. A game world using fake gravity and physics made anything possible.
+
+At least the orrery gave a 4 percent bump in our culture rating. I checked our settlement’s morale factors.
+
+Morale
+
+60 percent (content)
+
+Factor Events
+
+155 percent
+
+Factor Security
+
+90 percent
+
+Factor Culture
+
+68 percent
+
+Factor Health
+
+65 percent
+
+The fleeting effect of our celebration inflated the factor of our recent events by 55 points. Though half of our residents hadn’t settled, the town looked stable. Aside from the culture bump and its undoubted coolness, the orrery possessed no strategic value like the battle college. It wasn’t a game-changer, but it added status to our rustic backwater.
+
+In the following days, we directed the smithy task list toward military items—a need punctuated weeks ago by the gnolls’ visit. Spears and pikes typically served as the standard weapon of choice for mass warfare. They were cheap and effective. Hawkhurst’s citizens would become more proficient than the typical fighter thanks to the battle college, and we needed to equip everyone.
+
+Ally permitted Rory and Fin to make weapons, and the enthusiastic pair went to Dino for recommendations. The blacksmiths got a lot more than they expected.
+
+Dino held his hands as if cradling an invisible shaft. “One must begin with the haft of the ax. I suggest following the Glenngarde school of thought—fine axes for a soldier’s traditional needs. The haft should blend new and neutral oaks grown in ultra-fine soil bearing at least three generations of loganberry, damson, and raspberry bushes. Use nothing but Southern Highwall wood—but of course, this is only for the shorter hafts. You’ll need something flexible and sturdy for longer varieties like the horseman’s ax. Don’t reinforce the longer models with langets—I’ve yet to see a balanced blade with them.”
+
+Rory and Fin listened slack-jawed while they searched the room for signs of rescue. When their gaze landed on me, I smiled and nodded to confirm Dino’s ridiculous specifications.
+
+At last, Rory responded. “Ugh. Aye, we’ll see to it.”
+
+“For a grip, you’ll want Eastern goats-leather. Infuse the creature’s diet with black cherry and currant fruits. Once the beast matures, feed them a steady palette of perennial ryegrass, stewed plums, and hoisin. I’m an advocate of the Blue Valley estate’s tannery. Their wet-slate autumnal tanning process is supreme. And I wouldn’t use anything but a roasted black coffee finish.”
+
+I stood, cross-armed and grinning at the spectacle. I’d never seen the dwarves so speechless.
+
+Rory’s eyes searched the room for help. “Umm, okay.”
+
+Dino described the pommel, the axe’s shoulder, the head, the belly, and finally, the blade’s edge, which included a rather academic dissertation on the toe and heel hooks of the blade. When he finished twenty minutes later, he raised his index finger. “After axes, Hawkhurst students will cover longswords.”
+
+“Ugh, ah, thank you, Master Dino, sir. I think we have enough to work on with axes.”
+
+Dino crossed his arms. “Are you sure? The Bellfont Foundry Team did some exciting things with the Ricasso last season that I’d like to try—”
+
+Rory and Fin bowed profusely. “Oh! Ugh, no, sir, Master Dino. We’ve gobs to hammer out already. We’re grateful for all your help.”
+
+Having learned their lesson, the blacksmiths nodded to everyone and hurried away from the arena, never to return.
