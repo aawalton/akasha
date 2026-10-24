@@ -382,6 +382,7 @@ export function pickOne(
     const bySlug = matched.filter((page) => page.slug === slug)
     const only = bySlug[0]
     if (bySlug.length === 1 && only !== undefined) return only
+    if (bySlug.length === 0) return null
     throw new Error(
       `getFilePageByIdSuffix: ambiguous suffix for ${where} with slug '${slug}': ${bySlug.length} of ${matched.length} candidates match (candidate ids: ${ids})`
     )

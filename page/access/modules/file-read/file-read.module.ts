@@ -49,6 +49,11 @@ export const fileRead = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A suffix several pages share, with a slug none of them has, reaches no page rather than raising.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The keys asked for carry a page's id, slug and title however the select reads.",
     },
     {
@@ -82,5 +87,5 @@ export const fileRead = {
     },
   ],
   createdAt: "2026-09-01T07:19:56.976Z",
-  updatedAt: "2026-09-21T18:49:25.000Z",
+  updatedAt: "2026-10-24T20:27:51.306Z",
 } as const satisfies Module
