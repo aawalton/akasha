@@ -4,6 +4,7 @@ import {
   personsOf,
   principalStatedIn,
 } from "akasha/agent/seat/declaration/modules/seat-persons/seat-persons.module.code.ts"
+import { personaIsDefault } from "akasha/agent/seat/declaration/modules/seat-resolve/seat-resolve.module.code.ts"
 import { seatNameForAgent } from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
 import { workingOf } from "akasha/agent/seat/observation/seat-turn/modules/turn-working/turn-working.module.code.ts"
 import { AGENT_MODE_INTERACTIVE } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-seat-defaults/supervisor-seat-defaults.module.code.ts"
@@ -16,12 +17,15 @@ import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.mo
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { buildPageHref } from "akasha/page/url/modules/page-href/page-href.module.code.ts"
 import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
+import { displayNameOf } from "akasha/persona/modules/display-name/persona-display-name.module.code.ts"
 
 const POLL_NAME = "reply-notify"
 
 const SEAT = "seat"
 
 const ROLE = "role"
+
+const PERSONA = "persona"
 
 const PERSONS = "persons"
 
@@ -39,14 +43,22 @@ interface ReplySeat {
   readonly id: string
   readonly slug: string
   readonly role: string | null
+  readonly persona: string | null
   readonly interactive: boolean
   readonly persons: readonly string[]
+}
+
+function ownPersonaOf(root: string, stated: string | null): string | null {
+  if (stated === null) return null
+  const persona = slugOf(stated)
+  return personaIsDefault(root, persona) ? null : persona
 }
 
 function seatOf(agentId: string): ReplySeat | null {
   const slug = seatNameForAgent(agentId)
   if (slug === null) return null
-  const value = valuedAt(akashaRoot(), SEAT, slug).value
+  const root = akashaRoot()
+  const value = valuedAt(root, SEAT, slug).value
   const role = textAt(value, ROLE)
   const startMode = textAt(value, START_MODE)
   const principal = principalStatedIn(value[PERSONS])
@@ -54,6 +66,7 @@ function seatOf(agentId: string): ReplySeat | null {
     id: agentId,
     slug,
     role: role === null ? null : slugOf(role),
+    persona: ownPersonaOf(root, textAt(value, PERSONA)),
     interactive: startMode !== null && slugOf(startMode) === AGENT_MODE_INTERACTIVE,
     persons: principal === null ? [] : personsOf(principal),
   }
@@ -69,6 +82,7 @@ function replyOf(agentId: string): Reply | null {
 }
 
 function titleOf(seat: ReplySeat): string {
+  if (seat.persona !== null) return displayNameOf(seat.persona)
   const words = (seat.role ?? seat.slug).replaceAll("-", " ")
   return `${words.charAt(0).toUpperCase()}${words.slice(1)}`
 }

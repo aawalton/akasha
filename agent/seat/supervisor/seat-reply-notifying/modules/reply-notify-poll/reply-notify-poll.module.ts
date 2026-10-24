@@ -22,7 +22,16 @@ export const replyNotifyPoll = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A push is titled with the seat's role and carries the reply's opening words.",
+      statement:
+        "A push is titled with the seat's persona, or its role where the persona is the default.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A push carries the reply's opening words.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A push's link and title are read from the seat's page on the beat that sends it.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -38,5 +47,5 @@ export const replyNotifyPoll = {
     },
   ],
   createdAt: "2026-10-24T20:00:51.010Z",
-  updatedAt: "2026-10-24T20:00:51.010Z",
+  updatedAt: "2026-10-24T20:45:30.377Z",
 } as const satisfies Module

@@ -8,4 +8,5 @@
 {"propertySlug":"import","fileName":"seat-resolve.module.code.ts","path":"agent/seat/launching/modules/seat-start/seat-start.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-resolve.module.code.ts","path":"agent/seat/name/modules/compose-seat-name/compose-seat-name.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-resolve.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-seat-defaults/supervisor-seat-defaults.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-resolve.module.code.ts","path":"agent/seat/supervisor/seat-reply-notifying/modules/reply-notify-poll/reply-notify-poll.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/seat/declaration/seat-declaration.domain.ts","id":"01a0658d-c92f-7bc5-aac8-847d02086752"}

@@ -3,8 +3,9 @@ import { replyNotifyPoll } from "akasha/agent/seat/supervisor/seat-reply-notifyi
 
 const COUPLE = {
   id: "01a16f1c-8e48-7000-b6a3-9aae18284763",
-  slug: "couples-therapy-couples-therapist",
+  slug: "claudius",
   role: "couples-therapist",
+  persona: "claudius" as string | null,
   interactive: true,
   persons: ["alan", "jenny"],
 }
@@ -43,7 +44,7 @@ function pollOver(opts: {
   })
 }
 
-const LINK = "/seat/couples-therapy-couples-therapist-18284763"
+const LINK = "/seat/claudius-18284763"
 
 test("a reply finished before the first beat is not pushed", async () => {
   const sent: Sent[] = []
@@ -60,9 +61,17 @@ test("a new reply reaches every person the seat answers to, once", async () => {
   await poll.run()
   await poll.run()
   expect(sent).toEqual([
-    { person: "alan", title: "Couples therapist", body: "the words of new", link: LINK },
-    { person: "jenny", title: "Couples therapist", body: "the words of new", link: LINK },
+    { person: "alan", title: "Claudius", body: "the words of new", link: LINK },
+    { person: "jenny", title: "Claudius", body: "the words of new", link: LINK },
   ])
+})
+
+test("a seat with the default persona is titled with its role", async () => {
+  const sent: Sent[] = []
+  const poll = pollOver({ seat: { ...COUPLE, persona: null }, replies: ["old", "new"], sent })
+  await poll.run()
+  await poll.run()
+  expect(sent.map((one) => one.title)).toEqual(["Couples therapist", "Couples therapist"])
 })
 
 test("a reply the first beat found nothing before is still pushed", async () => {
