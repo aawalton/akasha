@@ -1,0 +1,89 @@
+PART 1/2
+
+The Gloommother charged at me, and I prepared to intercept its attack. It was at least twice my height, and probably weighed at least twenty times what I did. With every stop, another cloud of toxic fumes poured from its trunk into the ground, killing everything nearby.
+
+The moment it got into range, I hit it with Crippling Chill.
+
+You have cursed Level 16 Gloommother with Crippling Chill. For the next 15 seconds, it loses 7.76 Health and 6.21 Stamina each second, and its Dexterity score is lowered by 15.5.
+
+56.2 Mana Cost. Your Mana is 1259.
+
+With the curse active, the monster slowed even more, stumbling through its already-clumsy movements. It probably had absolute shit Dexterity, if a single Crippling Chill did that much. Gravity Well came next, once it was in range, and while I was at it, I hit it with a Ray of Frost, too, for another 50 damage. With those combined effects—especially Gravity Well, since the thing was so massive—I watched it stumble and fall to the ground, its front two legs buckling from underneath it.
+
+I limped forward, Expedite not quite doing enough to allow me to move perfectly on my own, and laid a hand on it, hitting the beast with Noxious Grasp and Sanguine Bond both at once. The moment I did this, it lurched in pain and breathed out a massive cloud of gas, forcing me away or risk taking damage.
+
+At this point, Cumulative Catastrophe was up to around 20%, meaning my drains were much more effective, but it didn’t seem like they were quite enough to paralyze the creature just yet, as it slowly fought its way back to its feet.
+
+I took a couple more steps back, taking care to stay within Sanguine Bond’s limit, and held up a hand to shoot off a few more Rays of Frost. 73 damage, then 75, then 80, the damage only grew with each hit because of the continually-stacking buffs of Catastrophe.
+
+It roared once it was finally back up, bellowing out yet another breath of poison that covered the entire surrounding area. And since I was trying to stay close for Sanguine Bond, it also poked me for a bit.
+
+You have been poisoned. 11 damage.
+
+Your Health is 407.
+
+I took 11 damage, though my Health was actually higher than it’d been at the start of the fight, since Sanguine Bond had healed me by 13 Health already.
+
+A few more hits with Ray of Frost, bringing the Catastrophe buff up past 40%, and then Crippling Chill wore off, and I recast it to refresh the curse. This time, it was dealing 11 damage per second and draining close to 9 Stamina, and its Dexterity Drain was well over 20. With Ray of Frost’s own buffed effect, plus Gravity Well’s absolutely staggering effect that was now doubling the beast’s weight, it fell over once again, this time not getting back to its feet.
+
+I took a step forward and laid my hand on it to finish it off. I tried to use as many Sanguine Bonds as possible while doing this, rather than Noxious Grasp, since that way I could restore Health in the process.
+
+You have been poisoned. 8 damage.
+
+Your Health is 408.
+
+Though, of course, the constant damage from the poison fumes leaking from the thing’s trunk caused that healing to have a severely diminished effect. It was still a net positive, though, so whatever.
+
+It took a while, but eventually the thing died. By the time that happened, all the grass in the entire field I was in had gone completely gray—the grass lying under the monster’s trunk had actually gone further, fully turning to dust and disintegrating from the constant spew of the purple mist. But I was happy, and a good bit richer in XP from the encounter.
+
+You have slain Level 16 Gloommother.
+
+You have earned 113 XP. Your XP is 547.
+
+Well, not that much richer. Really, compared to the next Level’s requirement of 3000, 100 was a pittance. But it seemed like these things just weren’t all that bountiful when it came to XP rewards. Though, considering the fact that I came away from the fight higher in Health than when I started, I supposed I couldn’t complain much.
+
+I took a step back from the monster’s massive corpse, looking down to realize that there were two spots of grass by the monster that were still alive. It was the place I was standing when I killed the thing, where my feet were planted. I chuckled. Seemed like those blades were protected because of my covering them up while the monster breathed those final breaths of toxins. Certainly looked funny, the two foot-shaped spots of green in the field of gray surrounding the dead animal.
+
+With that done, I turned around and walked back to the spot Erani was sitting.
+
+“What happened while you were out?” she asked.
+
+“Talked to the neighbors. What about with you?”
+
+“Failed to make a decision.”
+
+I chuckled. “You want me to help?”
+
+“Yeah, I was hoping maybe Index could give some insight on this.”
+
+“What, you don’t value my all-important feedback?” I joked. “I’m hurt.”
+
+“Well, I imagine Index’s literal omniscient perspective would be slightly more valuable,” she said. “But I’m willing to take suggestions from both sides.”
+
+“I don’t know,” I said, “Index definitely has some misses. Probably shouldn’t take everything it says at face value. Some of its recommendations are…suboptimal, in my opinion.”
+
+“Well I’d take any recommendation at all, honestly. Even the suboptimal ones. You mind telling me what it thinks?”
+
+“Sure,” I said. “Hey, Index, you wanna listen to her options and give some insight on—”
+
+“Oh, Erani definitely needs to take option three,” it said.
+
+I blinked. “W-what?”
+
+“I know what she’s worried about. Tell her to take option three. Strike.”
+
+“Okay? Hey, uh, Index says to pick option three. Something called Strike?”
+
+“Wait, what? For the Spells? I wasn’t even going to ask about that.”
+
+“Yep,” Index said.
+
+“Yeah.”
+
+“Oh,” Erani frowned. “Okay. I get what you meant by suboptimal recommendations.”
+
+“No, no,” Index said, “I’m definitely correct on this one. Tell her to hear me out.”
+
+“Uh, Index is pretty confident in its recommendation. I guess we can listen to its reasoning?”
+
+Erani sighed. “Sure. But after that, you two seriously need to help with picking this gods-damned Talent.”

@@ -1,0 +1,287 @@
+Minute Mage Basic Progression Path
+
+-Every 1 Level: +1 Endurance, +2 Conjuration, +3 Stat Points, Time Loop Rank Up
+
+-Every 3 Levels: Spell Choice
+
+-Every 5 Levels: Talent Choice
+
+-Every 10 Levels: Time Loop Usage Increase, Time Loop Upgrade
+
+Name:
+
+Arlan Nota
+
+Age:
+
+20
+
+Strength:
+
+31 (21 + 10)
+
+Class:
+
+Minute Mage
+
+Level:
+
+20
+
+Endurance:
+
+52 (42 + 10)
+
+Class Type:
+
+Magic
+
+XP:
+
+388/3.0k
+
+Dexterity:
+
+33 (23 + 10)
+
+Health:
+
+193/520
+
+Health/Minute:
+
+0.193
+
+Conjuration:
+
+118
+
+Stamina:
+
+236/252
+
+Stamina/Minute:
+
+1.63
+
+Intelligence:
+
+27
+
+Mana:
+
+1.26k/1.32k
+
+Mana/Minute:
+
+81.8
+
+Spells:
+
+Talents:
+
+Titles:
+
+Sanguine Bond 9 - XP 355/355
+
+Cumulative Catastrophe
+
+Devastator
+
+Expedite 9 - XP 355/355
+
+Exponential Reclamation
+
+Trailblazer
+
+Ethereal Armor 9 - XP 355/355
+
+Regenerate
+
+Gravity Well 9 - XP 355/355
+
+Recursive Growth
+
+Ray of Frost 9 - XP 355/355
+
+Time Loop 20+Extended Loop+Recycled Loop
+
+Crippling Chill 9 - XP 355/355
+
+Noxious Grasp 15 - XP 32/1.92kLove this story? Find the genuine version on the author's preferred platform and support their work!+Venomous Grasp
+
+You have a Bond with Level 32 Draconiad.
+
+For as long as you are within 1000 paces of Level 32 Draconiad, you gain the following effects:
+
+-Your Strength, Endurance, and Dexterity are each increased by 10.
+
+-Whenever Draconiad gains XP, you also gain 5% of that XP.
+
+-You gain 26.6% Resistance to all heat-based damage.
+
+Spells:
+
+Talents:
+
+Titles:
+
+Sanguine Bond Rank 9
+
+School: Arcane, Curse
+
+Type: Activated
+
+Cost: 238
+
+Choose a being you are physically touching. You begin siphoning energy from it for the next 10 seconds. For as long as you are siphoning energy from it, it loses 6.21 Health, 7.76 Stamina, and 9.31 Mana (if it has Mana) each second, and you gain 1.55 Health, 3.11 Stamina, and 4.65 Mana each second.
+
+This effect automatically ends if the being is ever further than 10 paces from you.
+
+Cumulative Catastrophe
+
+Type: Passive
+
+—
+
+Each string of attacks you make will be recurred through time, stacking fractions of power with every strike. Whenever you damage another being, increase all future damage and other numerical effects dealt to that being by 1% additively. If 6 seconds pass without you damaging that being, reset this boost for that being.
+
+Devastator
+
+You have taken a risk and killed enough enemies that, in a single minute, you have gained three or more Levels. For many, gambles like that cost them their lives. For you, it paid off. Greed is good.
+
+All enemies you contribute to killing provide 25% more XP.
+
+Expedite Rank 9
+
+School: Alteration
+
+Type: Activated
+
+Cost: 68.7
+
+—
+
+Increases the Dexterity of up to one being that you are touching by 31.1 for 46.5 seconds.
+
+Exponential Reclamation
+
+Type: Passive
+
+—
+
+Time is warped around your Mana receptors, greatly increasing Mana/Minute the more Conjuration you have. For every point you have in Conjuration, your Mana/Minute is increased by 1%. This effect multiplies with itself. (Currently multiplies Mana/Minute by 3.33)
+
+Trailblazer
+
+You are the only person in the world with your Class, and as such, cannot rely on the findings of others to make your decisions. Instead, you must forge your own path.
+
+If you do not already have it, you gain access to the Intelligence Stat. It will improve the information given to you by the System regarding your Class and what might become of it in the future.
+
+Whenever you Level up, gain 1 Intelligence
+
+Ethereal Armor Rank 9
+
+School: Arcane, Summoning
+
+Type: Activated
+
+Cost: 187 Mana
+
+—
+
+You summon one of two sets of magical armor – Dark Plate or Light Plate. You may dismiss it at any time. It will be automatically dismissed after 60 minutes.
+
+While wearing Dark Plate, you cannot take more than 50% of your maximum Health in damage in a single hit (260 damage). Preventing damage this way breaks the Plate, making it unusable for 37.9 seconds until it reconstructs itself.
+
+While wearing Light Plate, your other spells cost 43.4% less, though still gain Spell XP as though they weren’t discounted.
+
+Regenerate
+
+Type: Activated
+
+Cost: 20 Stamina, plus twenty minutes worth of Stamina regeneration. (Currently 52.64 Stamina)
+
+—
+
+Greatly increase your body’s recovery speed, at the cost of your Stamina. When activated, your Health/Minute is multiplied by 1,000 for 10 seconds, then returns to normal.
+
+Gravity Well Rank 9
+
+School: Arcane
+
+Type: Toggle
+
+Cost: 12.7 Mana/Second per Being Affected
+
+—
+
+While active, increase gravitational pull by 61% for any number of beings within 30 paces of you.
+
+Recursive Growth
+
+Type: Passive
+
+—
+
+Whenever your Level increases, you gain 6 additional Stat increases, chosen at random.
+
+This Talent improves every tenth Level you reach, incrementing the number of random Stat increases you gain each Level by 2.
+
+Ray of Frost Rank 9
+
+School: Cold, Curse
+
+Type: Activated
+
+Cost: 25 Mana
+
+—
+
+Shoots a beam of icy energy from your hands, traveling up to 25 paces and dealing up to 62.1 damage, depending on where it hits, on a direct collision with a being. Upon being hit, targets are cursed with Frostbite for 5 seconds. While they are frostbitten, their Dexterity score is lowered by 7.76.
+
+Time Loop – Rank 20
+
++Extended Loop
+
++Recycled Loop
+
+Type: Activated
+
+Go up to 6 hours back in time, resetting your Health, Stamina, Mana, and other Talent cooldowns – as well as the rest of the world – but preserving your memories and the rest of your Status.
+
+This Talent activates at will, or automatically when you would die.
+
+This Talent may only be activated three times per day.
+
+At midnight, when your uses of Time Loop refresh, for each use of Time Loop you have leftover from the previous day, discard it and increase a random Stat by 1.
+
+You may only gain a maximum number of Stats from this Upgrade equal to your Time Loop Rank divided by 2, rounded down (10 Stats), before you must Level up to reset the maximum.
+
+Crippling Chill Rank 9
+
+School: Cold, Curse
+
+Type: Activated
+
+Cost: 56.2 Mana
+
+—
+
+Choose a being within 40 paces of you. It becomes coated in frost for the next 15 seconds. For as long as it is coated in frost, it loses 7.76 Health and 6.21 Stamina each second, and its Dexterity score is lowered by 15.5.
+
+Noxious Grasp Rank 15
+
++Venomous Grasp
+
+School: Curse, Poison
+
+Type: Toggle
+
+Cost: 5.32 Mana/Second
+
+—
+
+While active, any being you are physically touching loses 20.8 Health and 10.4 Stamina per second.
+
+Noxious Grasp Festers beings it damages. While they are Festered, beings lose double Stamina from all sources. The Fester remains for 5 seconds after you stop contact with the being.

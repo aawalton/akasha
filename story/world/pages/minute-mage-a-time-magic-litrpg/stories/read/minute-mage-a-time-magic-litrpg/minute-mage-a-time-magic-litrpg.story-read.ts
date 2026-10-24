@@ -1,0 +1,40 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const minuteMageATimeMagicLitrpg = {
+  id: "01a16dee-b406-7ec0-bea9-182c42ac3a41",
+  type: "page-type/story-read",
+  slug: "minute-mage-a-time-magic-litrpg",
+  author: "Reg Rome",
+  following: false,
+  unit: "unit/words",
+  title: "Minute Mage: A Time Magic LitRPG",
+  world: "world/minute-mage-a-time-magic-litrpg",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "61762",
+      externalLink: "https://www.royalroad.com/fiction/61762/minute-mage-a-time-magic-litrpg",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Time Loop",
+    "Progression",
+    "Anti-Hero Lead",
+    "Strategy",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "High Fantasy",
+    "Magic",
+    "Male Lead",
+    "Multiple Lead Characters",
+    "Romance Subplot",
+    "Strong Lead",
+    "Time Travel",
+  ],
+  readLater: true,
+  createdAt: "2026-10-24T12:42:02.630Z",
+  updatedAt: "2026-10-24T12:42:02.630Z",
+} as const satisfies StoryRead

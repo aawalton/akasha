@@ -1,0 +1,107 @@
+PART 1/2
+
+Once the three guards quieted down, I got back into my meditative state and tried to focus. It wasn’t exactly easy to do so, with the anticipation of finally Upgrading my Spells so close on the horizon, but I needed to focus on my current choices before I went to give myself even more.
+
+Choose one Talent to obtain:
+
+Cumulative Catastrophe
+
+Type: Passive
+
+—
+
+Each string of attacks you make will be recurred through time, stacking fractions of power with every strike. Whenever you damage another being, increase all future damage and other numerical effects dealt to that being by 1% additively. If 6 seconds pass without you damaging that being, reset this boost for that being.
+
+Spatial Flux
+
+Type: Activated
+
+—
+
+Instantly teleports you to the exact position you were at one hour ago.
+
+This Talent can only be activated once per day.
+
+Future Sight
+
+Type: Passive
+
+—
+
+You are always aware of what will happen to you one second from now. This manifests as a constant vision in your mind. It predicts the exact future, and can be changed only through actions taken due to the knowledge gained by this Talent.
+
+Choose one Upgrade for Time Loop:
+
+Persistent Loop
+
+—
+
+When you activate Time Loop, you may choose any Status Effects from among the ones you have to retain at their current time remaining, discarding all others. For all Status Effects you retain with this Upgrade, if this is the first time you have retained them with Persistent Loop, multiply their durations by Time Loop’s Rank divided by 4 (multiplier of 5).
+
+Recycled Loop
+
+—
+
+At midnight, when your uses of Time Loop refresh, for each use of Time Loop you have leftover from the previous day, discard it and increase a random Stat by 1.
+
+You may only gain a maximum number of Stats from this Upgrade equal to your Time Loop Rank divided by 2, rounded down (10 Stats), before you must Level up to reset the maximum.
+
+Inclusive Loop
+
+—
+
+While activating Time Loop, you may now choose a number of additional beings equal to your Time Loop Rank divided by 10, rounded down (2 beings), that you are touching to keep their memories alongside you in the new timeline, however their Statuses are reset as normal.
+
+One Talent and one Time Loop Upgrade. From what I’d heard Poppins and Jannin talking about, it seemed like Persistent Loop was out for the Upgrade. Even if they weren’t impossible to get, trying to pick up enough Enchanted items to make it work just didn’t seem feasible. And my future Spell Choices seemed to disagree with the idea, anyway, according to Index. Even if I could use it now on what I had, using the bonuses to stack up on Expedite and Regenerate stacks, jumping through all those hoops to increase my Health and Dexterity with those abilities seemed a little bit silly, when I could just take Recycled Loop if I wanted to make those numbers bigger.
+
+So that left me with two options for the Upgrade. Recycled Loop and Inclusive Loop. Out of the two, I was having trouble choosing just one. I completely understood the numerical supremacy of Recycled Loop—that many extra Stats would get out of hand extremely quickly.
+
+One of the main limiting factors on these types of effects—giving additional Stats per Level—was the linear nature of power gained from Stats. For example, for a person at Level 0, still with a 10 in Endurance, increasing their Endurance by a further 10 would make it 20, doubling their Health and the boost they got to their physical toughness. So for them, an additional 10 Endurance was absolutely massive.
+
+However, if someone had a 100 in Endurance, increasing it by 10 more would only bring it to 110, so a ten percent increase. That was nice, sure, but not nearly as impactful as it would be for the Level 0. So these abilities like Recursive Growth and Recycled Loop were predicated on the fact that, as one got stronger and attained more Stats, getting those additional boosts wouldn’t be nearly as impactful as before. Even the rate at which they grew in the number of Stats they gave you would eventually be outpaced by the nature of linear progression.
+
+But that was where my Talent, Exponential Reclamation, came in. That turned the power scaling from linear to its namesake—exponential. With just that single change, the entire rule of power scaling getting less and less impactful was thrown out the window. No matter how much Conjuration I had, be it 10 or 100 or 1000, it would always increase my Mana/Minute by at least one percent. So it effectively completely broke the intended impact of something like Recycled Loop.
+
+That was one of the big things that drew me to it. It wasn’t just that the Upgrade had a lot of raw power to it—which it did—but it was also that I had the perfect synergy to exploit those extra Stats. Of course I’d want to take the Upgrade.
+
+But then there was the Inclusive Loop. On a raw power level, I honestly didn’t think it shaped up. It was great, yeah, but Recycled Loop held much more long-term power. However, there was more to this decision than just raw power.
+
+First off, the Upgrade could be used in some really clever ways. It required me to be touching a person when I activated Time Loop, but they didn’t have to be anywhere near me at the time I returned to. If I could find the correct people, I could enact massive, country-spanning plans without needing to take the time to personally catch anyone up to speed. And as Time Loop went back further and further, the area these people could span upon returning got wider and wider since it allowed for longer travel times.
+
+It also helped in smaller situations, allowing Erani and Ainash to keep informed on everything that happened in the future, meaning we wouldn’t need me to be an intermediary in informing them. That was all generally convenient and would certainly help in plenty of situations.
+
+But again, it wasn’t really why I wanted the Upgrade. The power was cool, and it could probably even help save our lives once or twice. But…
+
+Okay, I just felt lonely. Sometimes it felt like the weight of everyone’s lives was on my shoulders. Because sometimes, I was literally the only person alive with the information necessary to save people. And that weight was crushing. If I’d been able to give other people the ability to keep their memories in situations like the initial invasion of Carth, maybe I could’ve convinced people to evacuate the city before the Supreme Hellion attacked. When it was just me, I could barely even save myself. But if I could give, say, a few guards the knowledge necessary to realize they needed to get everyone out of there, then so many lives would’ve been saved.
+
+How could I pass something like that up? It felt like I basically didn’t have a choice to begin with.
+
+“Well…” Index said, “it might be worse than you realize.”
+
+If you’re just going to tell me something like “it doesn’t keep you, specifically, alive, so therefore it isn’t worth anything,” I want you to know it won’t do anything to convince me. Don’t you remember what I said about Spatial Flux?
+
+“No, no, I’m not going to say that. Well, I mean, I believe it, but I mean the goals you’re talking about here. It’s not quite as good at saving people as you seem to think.”
+
+How?
+
+“Well, that ‘touching you’ condition is pretty restrictive. In your hypothetical with the Carth invasion, your death was a surprise. Nobody was touching you when it happened. So you would fully not be able to use the Upgrade in that situation. Or, really, any other where you’re surprised. How many times has a person been touching you when you died?”
+
+Okay, sure. So it won’t work specifically in that circumstance. But if I feel like there’s danger coming, what’s to stop me from grabbing someone’s arm just to make sure? And I get multiple loops now, anyway, so I would only be surprised the first time. In my second and third loops, I’d know I need to get people to remember.
+
+“Yeah, that brings me to my second point. They aren’t going to be told in bright flashing letters anywhere, ‘those visions you just had are from the future, they are real premonitions, they will actually happen if you do nothing to prevent them.’ Yes, it would work with someone who already knows—and believes—you can go back in time. So Erani and Ainash, pretty much. But there’s a solid chance that anyone else will just brush that off as a random hallucination. Or worse, they’ll think they’re being attacked by some sort of illusion magic, and will actively run off or fight if you try to talk to them.”
+
+...Hm. I guess you do make a good point there. It’d only really guaranteed work on someone who’s already in the loop about my Class. Some random guard probably wouldn’t believe that they had a genuine vision of the future, especially when they don’t have anything in their Status to say it was. But, okay, listen. It isn’t really about that. I just want to be able to bring people back with me. For someone other than myself to keep their memories.
+
+“And who’s to say you can’t do that without this Upgrade?”
+
+I blinked. What?
+
+“Did you already forget? Ainash kept her memories when the Bond Ranked up.”
+
+I sighed. Okay, yeah, I guess that’s true, but it’s not consistent. We’ve already proven that you basically can’t control Bond Ranks. It happens automatically, and trying to force it will only decrease the likelihood of it happening.
+
+“Hm…what can I say…” Index hummed for a moment, seemingly trying to figure out how to word what it wanted to tell me and get around whatever limitations it had. “You’re not thinking big enough. You’ve got this mental link between you and Ainash, right? That mental link could originally transmit one thing: emotions. That was when she was a Nymph. When she became a Dryad, she became able to transmit emotions as well as thoughts. Now you two can talk with each other through it. And then, she became a Draconiad, and became able to transmit not only thoughts and emotions, but also complex sentiment measurement. A collection of your current opinions and feelings about each other, as well memories of each other. Now, you cannot currently see those memories. Only the intermediary of the Bond can. But hypothetically, you might be able to imagine a world where…”
+
+She’ll be able to transmit entire memories through the Bond? I thought for a moment, shocked. So I guess I could come back in time and instantly give her all of my memories from the future. And then she could give those to Erani, meaning all three of us are instantly caught up, every time.
+
+“Yes. In a hypothetical scenario where that pattern continues. Hypothetically.” I could tell Index was really working hard to avoid whatever censors disallowed it to tell me things like this. But the revelation changed everything.

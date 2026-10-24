@@ -1,0 +1,71 @@
+PART 1
+
+As I sat and meditated in the early morning twilight, I considered what might be waiting for me in these Spell Upgrades. Sanguine Bond was the first, but it wouldn’t be the last. And neither would the rest of the three Arcane Spells that I could use this Crystal on. Over the next few days, I’d of course work to Rank them up, but then after that, I still had Crippling Chill, Ray of Frost, and Expedite waiting on me. Those would have to come next, and hopefully it wouldn’t take long to find out where I could get their Crystals.
+
+The ten minutes I had to meditate seemed to pass rather quickly as I imagined all the incredible things I might be able to do in the future, and I hurriedly opened up the Spell Upgrade Choice in my Status.
+
+Choose one Upgrade for Sanguine Bond:
+
+Soul Bond
+
+School: +Alteration
+
+—
+
+If you are touching a being for at least 60 uninterrupted seconds before you cast Sanguine Bond on it, you may form a permanent bond with that being. For as long as the permanent bond is active, that being’s Health/Minute, Stamina/Minute, and Mana/Minute (if they have it) are reduced by 50%, and your Health/Minute, Stamina/Minute, and Mana/Minute are increased by the respective lost values. The permanent bond lasts an indefinite amount of time, but will break if the being is ever further than 1000 paces from you. You may have no more permanent bonds active at any given time than your numerical Rank in Sanguine Bond.
+
+Unbreakable Bond
+
+—
+
+Sanguine Bond’s duration becomes 20 seconds rather than 10, and its range before prematurely ending becomes 40 paces rather than 10.
+
+Hypnotic Bond
+
+School: +Mental
+
+—
+
+If you are touching a being for at least 10 uninterrupted seconds before you cast Sanguine Bond on it, Sanguine Bond gains the additional effect of causing the being to become Hypnotized. While Hypnotized, a being enters a dazed state and cannot move, think, or otherwise respond to external stimuli, however it still perceives and remembers everything that happens to it. A being stops being Hypnotized if it takes damage from a source other than any already-active Status Afflictions or when Sanguine Bond’s effect ends.
+
+After Hypnotic Bond’s effect on a being ends, Hypnotic Bond cannot be activated on that being for 10 seconds.
+
+What in the…My eyes widened as I read over them. …Definitely some interesting choices here.
+
+The safest option, it seemed, would be Unbreakable Bond. It was pretty much just a strict numerical upgrade to Sanguine Bond, making it much harder to prematurely end and giving me much more value for my Mana spent. That time increase from 10 to 20 seconds was what really stood out to me; giving me some more range was nice, but I could always prevent that from happening by just using the Spell in a skillful manner. The extra time meant the Spell was, effectively, half the cost.
+
+Of course, while it had double the Mana efficiency, it wouldn’t actually do anything more quickly, so that was still something to keep in mind—it wasn’t the same as, say, doubling all of its effects, since that would drain twice the amount of Health in the same amount of time. This, rather, would take half the amount of Mana, but still require the same time investment.
+
+Still, it was a very nice Upgrade. The Mana regeneration, which was now up to 4.88 per second, would have double the returns on a successful cast, meaning that, in ideal situations with Light Plate on and everything, the Spell would end up net costing me…I did the math in my head. Like, 70 Mana or something? Some really solid value, considering everything it did.
+
+Those other two Upgrades, though, went in some crazily different directions. They both had that same basic condition of requiring me to touch the target for an additional amount of time in order to get a bonus effect. But those lines of text in the Upgrade boxes described quite the effects, each enamoring in their own ways.
+
+First, though, I thought, Index, can you give me some insight on that requirement? When it says I need to be touching a being for some number of uninterrupted seconds…
+
+“Yeah, yeah, so first of all, casting the Spell comes after touching the being, not before. So if you’re already grabbing onto something for a while, and after the required time has passed, then you decide you want to cast Sanguine Bond, you can do so immediately.”
+
+Great. That seemed to work well with Noxious Grasp. If I was already holding onto someone to drain them with that, and then ten seconds happened to pass, I could go straight into Sanguine Bond without needing to do something like cast the Spell beforehand and then try to complete that touching requirement. And I assume they don’t get any notification when I begin touching them about Sanguine Bond, only after I’ve already cast the Spell?
+
+“Exactly.”
+
+Okay, sounds good. The requirement was pretty steep—especially with Soul Bond, with its absolutely staggering sixty-second prerequisite before I could actually use its effects—but at least I could do things like use it in secret. Especially with Hypnotic Bond, I could imagine doing something like nonchalantly holding onto someone outside of a hostile situation, waiting the ten seconds, and then activating the Spell and putting them out of commission for good amount of time. Great, if I ever needed to sneak into somewhere, get the drop on someone before a fight started, anything like that.
+
+And as for Soul Bond, its use-case was more…opaque. It was obvious what the Upgrade encouraged me to do. Somehow, it wanted me to gather a bunch of super powerful beings and establish permanent bonds with them so I could steal their regenerations. But the two limiting factors were massive when it came to doing that. First, they all needed to be within 1000 paces of me at all times, and second, I couldn’t have any more bonds active than my Rank in the Spell—currently 10. Though, technically, my Soft Cap was at 11, so I could presume it would be at least at that point.
+
+Still, those two limitations got rid of quite a few ways it could be used. The 1000 paces condition meant I’d need to keep these bonded beings at least somewhat near me at all times, and of course they’d lose half of all of their regenerations, meaning they wouldn’t be very friendly to me if I established that bond. So presumably, I’d need them to be weaker than me so I could cart them around in captivity wherever I went. I could imagine some cage of rabid monsters I dragged around through the forests with me, all of them boosting my own Status.
+
+But then, that second constraint kind of restricted me there, as well. Since I couldn’t have more than around a dozen of these bonds active at any given time, and the regeneration I got from the bonds depended on their own levels of regeneration, I’d obviously want to ensure I had as powerful monsters bonded with me as possible. So I’d want powerful monsters, but not so powerful that I couldn’t keep them in captivity and with me at all times. Quite the predicament.
+
+I could think of some monsters that’d be decent to work with; Stripeks had high Stamina/Minute compared to their Levels, so if I could take half of that for myself, it could work pretty well, and there were plenty of monsters with a solid Health/Minute, but really, increasing my passive Health and Stamina regeneration wouldn’t really do much for me in a fight. It felt like this Upgrade was trying to push me into a certain build, but it was kind of difficult to identify what exactly it wanted me to do to maximize those gains.
+
+Index, am I missing something?
+
+“Well, you are missing the main use case for this Upgrade. To start with, that idea of keeping some cage of monsters with you at all times is missing out on one main point that might reveal the best strategy here. None of those monsters have a Mana/Minute.”
+
+Well, yeah, only a few monsters have Mana at all. So I suppose it’s more about the Health and Stamina then, right?
+
+“Not necessarily. You said the answer there yourself, right? Most monsters don’t have Mana, but Humans do.”
+
+Oh. …Oh. The Spell’s supposed to be used with—
+
+“A bunch of slaves, yes."

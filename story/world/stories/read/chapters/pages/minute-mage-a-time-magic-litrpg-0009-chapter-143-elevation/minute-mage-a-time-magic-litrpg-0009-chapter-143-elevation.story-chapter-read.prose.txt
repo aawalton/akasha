@@ -1,0 +1,83 @@
+So my main choice for Talent was between Cumulative Catastrophe and Future Sight. But I still had one more thing to look at before making my choices. Not wanting to wait any longer, I opened up the waiting Time Loop Upgrade.
+
+Choose one Upgrade for Time Loop:
+
+Persistent Loop
+
+—
+
+When you activate Time Loop, you may choose any Status Effects from among the ones you have to retain at their current time remaining, discarding all others. For all Status Effects you retain with this Upgrade, if this is the first time you have retained them with Persistent Loop, multiply their durations by Time Loop’s Rank divided by 4 (multiplier of 5).
+
+Recycled Loop
+
+—
+
+At midnight, when your uses of Time Loop refresh, for each use of Time Loop you have leftover from the previous day, discard it and increase a random Stat by 1.
+
+You may only gain a maximum number of Stats from this Upgrade equal to your Time Loop Rank divided by 2, rounded down (10 Stats), before you must Level up to reset the maximum.
+
+Inclusive Loop
+
+—
+
+While activating Time Loop, you may now choose a number of additional beings equal to your Time Loop Rank divided by 10, rounded down (2 beings), that you are touching to keep their memories alongside you in the new timeline, however their Statuses are reset as normal.
+
+Alright, definitely some less straightforward options than the ones I’d been shown for the first Upgrade. And they all seemed to follow this weird theme of being modified based on my current Time Loop Rank. But there was still some obvious power.
+
+My eye was immediately drawn to the third option, Inclusive Loop. Being able to bring other people along with me when I used Time Loop had the most clear advantages. Erani and Ainash, of course, would certainly benefit from me not having to catch them up every time I used it. And being able to slowly bring more and more people along with me could be interesting, too. As-is, I’d be able to use Time Loop on two people, plus myself. So pretty much just Erani and Ainash. Later on, though, I’d be able to bring more and more along with me. That could lead to some very interesting strategies, though it was a bit unfortunate they wouldn’t also be able to keep the XP they got.
+
+The other two…Well, they were stranger in the ways I could use them. Persistent Loop seemed extremely situational. For me, as I was, I could effectively just keep stacks of Expedite across loops. Certainly a neat application—I could empty out my entire Mana pool on as many stacks as I could manage before going back, which would be a good boost for that moment I arrived in the new timeline—but not really worth a whole Upgrade.
+
+But it seemed like the Upgrade wasn’t meant to be worth it now. It was meant to be built around. If, for example, I picked as many Spells as I could in the future that gave me temporary effects, then perhaps by the time I got to Level 30, I’d be able to come back after a loop with several beneficial effects and completely demolish a fight that I’d had a ton of trouble with before. After all, an entire Mana pool’s worth of effects, tailored to perfectly fit a fight I already knew about, and all with their lengths multiplied by five—or even more as I Leveled—would mean an absolutely massive power-up. If I was able to make that build work.
+
+And then there was Recycled Loop. That was strange in that it effectively encouraged me to not use Time Loop. At the end of each day, if I hadn’t used up all of my Time Loop uses, I’d get random Stat increases equal to the number of leftover uses I had. So, if I took that, once today ended and Time Loop refreshed, I wouldn’t get any Stats, since I’d already used Time Loop the maximum number of times I could. But then, after today ended and a new day began, if I didn’t use Time Loop at all that day, I’d get two random Stat increases—or, three, since I just got another Time Loop Usage Increase. If I used Time Loop once but saved the other two uses, then I’d get two Stats, and so on.
+
+Of course, this Upgrade also had another limiting factor. It could only give me ten stats per Level. Once I’d “recycled” ten uses of Time Loop, I’d have to get to Level 21 before I was able to recycle any more. So I couldn’t just sit back and do nothing for infinite growth. Though that limit, of course, increased as I Leveled. So I’d get my ten Stats at my current Level of 20, and then I’d move to 21, and once I got my ten random Stats for Level 21, at Level 22 I’d be able to get eleven random Stats before having to Level up again. And it’d continue to increase at every even Level—12 at 24, 13 at 26, and so on.
+
+So, essentially, at its best, this Upgrade would be leagues better than the already-insane Talent Recursive Growth. Recursive Growth currently only gave me 6 Stats per Level, whereas this would give me 10. And on top of that, Recursive Growth would start giving me 2 more Stats, up to 8, once I reached Level 30. Recycled Loop? That would give me 2 more Stats per Level once I got to 24. By Level 30, it’d be giving me 15 Stats per Level. So not only did it start better than Recursive Growth, it would grow even faster, too.
+
+However, that was only at the Upgrade’s best. At its worst…well, it would do nothing. If I was never able to spare a single usage of Time Loop in a day, then it wouldn’t give me a single Stat, ever. Well, I supposed that eventually I could use up all of those ‘recycling slots’ that I saved up. It’d just take forever.
+
+“Actually, you can’t,” Index interrupted my thoughts.
+
+Hm?
+
+“Take another look at the exact wording. If you took it now, you could get up to ten Stats for Level 20. But if you move on without getting all ten, then once you’re at Level 21, you’ll still only have another ten Stats you can get. It's a use-it-or-lose-it scenario.”
+
+Ooh. Well, that certainly changed things. So I’d probably have to take a slightly different approach to Leveling if I took this Upgrade. Instead of trying to get through my Levels as quickly as possible, I’d want to squeeze as much juice out of them as I could, waiting until I’d gotten all of my Recycled Stats before moving onto the next one. Slowing myself down certainly didn’t sound appealing, but I supposed that was the price one had to pay for something that was so much better than Recursive Growth.
+
+Hey, Index, while I have you, what’s up with this weird “equal to your Time Loop Ranks divided by something” theme going on with the Upgrade Choice?
+
+“Oh, well basically it’s just going off of your previous Upgrade. Out of the three options last time, Extended Loop’s effect of increasing your Time Loop length by 30 minutes every time it Ranked up was the only one that cared about Time Loop’s Rank. So the System effectively set this up as a way of continuing that ‘gets better as Time Loop Ranks up’ theme.”
+
+Huh, interesting. I’ve heard of it doing things like shaping your choices around different ‘builds’ based on your previous choices, but still, this seems a lot more obvious. Never really thought of the System as having any real conscious design behind it. More as just something… kind of random.
+
+“Pretty much every Choice you get, whether it’s Spell, Talent, or Upgrade, follows that basic idea. It’s just that this one was pretty explicit, and didn’t have any exceptions.”
+
+Good to know. Moving onto actually picking one of these Upgrades to take, what do you think of Persistent Loop? It obviously needs me to build around it to make it good, but do I even have any options in my future that’ll work with it?”
+
+“For Spells? Hm…let me see…You went Noxious into Crippling into Ray into Well into Armor into Expedite into Bond…so from there you’ll get…and that’ll branch into…and from there…Hm. So, thing is, not really. Talents don’t look too favorable, either. I mean, you’ll get some beneficial Status Effects, but they won’t be breaking this Upgrade wide open, or anything. Right now, you’ve just got Expedite and Regenerate, which definitely aren’t worth nothing with quintupled lengths—especially Regenerate—but they’re both still not really worth enough that they beat out your other options. With Expedite, especially, you’d effectively have to go back to directly before the fight began in order to get any use out of it, even with a length multiplied by five. What you want is something that lasts hours, that way the multiplier really starts to mean something.”
+
+And I get nothing like that?
+
+“Like I said, not nothing, but it isn’t anything super great.”
+
+So the Upgrade is just worthless then?
+
+“Well, not worthless. You may not get anything in your Class’s future that works well with the Upgrade, but you can still use Enchanted stuff.”
+
+Oh, shit, right, I’d completely forgotten about Enchantments! While most of the time, Enchanters made smaller, simpler things like Spell Crystals, basic weight decreasing Enchantments, or Magic-Usable Enchanted weapons, there were still more complex Enchantments that could be placed on items. Things like Ripley’s axe that she’d used against me, or large logic systems to make things happen automatically. And within that realm of complex Enchantments were items that could temporarily apply beneficial effects to the user. Typically with a limitation of how often you could use them, and a limited length of the effect. But those would work perfectly with Persistent Loop!
+
+Of course, those more complex Enchantments would also require much higher-Leveled Enchanters, much more Mana, and much rarer materials. So, in short, they’d cost a fuck-ton of money. But if I could get them, they’d work with Persistent Loop perfectly. The only issue was the money, and the availability. Not just any shop in any town would hold such expensive Enchanted goods, so we’d have to find them, and then of course we’d have to raise the money to buy them, too. As mid-Level Classers, we’d certainly be able to make a lot more money than before, but it still wouldn’t be easy.
+
+Index, can you tell me anything about the availability of Enchanted goods in this country? And maybe which ones I could find in—
+
+“Dude,” Index interrupted, “I don’t know everything. I can tell you about the System, but I know just as much as you do about this Barinruth Empire place.”
+
+Oh. Right. I’d gotten a bit carried away in my excitement. It seemed like I’d be making this decision blind as to whether or not it would work.
+
+Oh, wait, no I wasn’t! I was sitting in a room with citizens of the empire! They’d totally know about this. The realization also made me feel a bit uneasy—I’d been sitting in a room with my eyes closed, surrounded by a bunch of unknowns. What if they were about to kill me? What if they knew who I was, and right now they were plotting to betray me and turn me in to the Demons?
+
+I hurriedly opened my eyes. Oh, good. Jannin was still sitting next to me, picking at his fingernails with the tip of a knife, and Bon was sitting in the kitchen area eating a snack. The third was presumably in the bathroom, considering that door was closed.
+
+Okay, it was time to see what these guys know. If I got a good answer, it could be possible to make quite the insane build. And maybe I could learn something from them that could help me get a mental measure on the power of these other two choices. And also the three Talent options. Plus, I also needed to ask about Spell Crystals. Gods, I had a lot to consider here. But if I played my cards right, I could very well be moving into a whole new realm of power.

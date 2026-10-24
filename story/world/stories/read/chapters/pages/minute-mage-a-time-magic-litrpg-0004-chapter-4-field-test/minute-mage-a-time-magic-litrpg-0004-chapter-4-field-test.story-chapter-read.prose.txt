@@ -1,0 +1,281 @@
+I wandered through the forest, trying to find a decent place to rest. It was dark out, and I was worried a nighttime predator would see me as easy pickings. Unfortunately, I saw nothing that immediately jumped out to me as safe. There were hills and rocks and trees and sticks and grass, but none of that was really a shelter. And as the night sky got darker and darker, my vision only worsened – and with it my chances of finding somewhere suitable to sleep.
+
+The ideal situation would be for me to just stumble across a city or village, but that wasn’t exactly likely. This was a frontier forest; society had only recently been established here, so roads were scarce and people scarcer.
+
+Name:
+
+Arlan Nota
+
+Age:
+
+20
+
+Strength:
+
+10
+
+Class:
+
+Minute Mage
+
+Level:
+
+0
+
+Endurance:
+
+11
+
+Class Type:
+
+Magic
+
+XP:
+
+6/50
+
+Dexterity:
+
+10
+
+Health:
+
+110/110
+
+Health/Minute:
+
+0.045
+
+Conjuration:
+
+5
+
+Stamina:
+
+43/63
+
+Stamina/Minute:
+
+0.384
+
+Mana:
+
+50/50
+
+Mana/Minute:
+
+0.9
+
+Spells:
+
+Talents:
+
+Titles:
+
+Noxious Grasp - XP 9/10
+
+Time Loop 0
+
+Trailblazer
+
+I was glad my Mana had finally topped out at 50, feeling comforted at the sight. I glanced down at my Spells list, and… hm? Noxious Grasp had its own XP gauge, different from my own. I vaguely remembered reading something about Spell XP, but I’d never really paid attention to all of that. The equivalent of Spells that Melee-Type Classes got were Martial Arts, and their progression was different than Spells; you’d get to choose to make one of your Martial Arts a Signature Art once every few Levels, which would make it stronger.
+
+Evidently, that wasn’t how Spells worked. I thought back. I’d spent… 9 Mana? If I recalled correctly? I thought I remembered going from 11 Mana to 2 when I cast Noxious Grasp to kill the Wood Spirit, so I guessed that meant that I’d get one Spell XP per Mana spent. Oh, but I killed the Wood Spirit twice, which meant I’d spent 9 Mana twice. So I must have gotten 1 Spell XP per 2 Mana spent?
+
+This called for further testing. I was still very clumsy with my Mana control and the way I activated and deactivated Spells, but I was pretty confident I could turn on Noxious Grasp and then turn it back off a third of a second later – it consumed 3 Mana per second, so having it active for one third of a second would consume exactly one Mana. I could just do that as many times as necessary to get Noxious Grasp’s XP to 10, and then I’d know how much Mana was needed for one XP.
+
+I did so. It still took quite a bit of time and mental effort to activate Noxious Grasp – and it was even more of a struggle to keep it active – but I worked my way through it. I knew many aspiring Magic-Classers would train for years before ever getting their Classes, studying Magic theory and practicing their control of Mana flows using specialized items made by Enchanters. Casting a Spell was just as taxing as swinging a sword, except the effort was all mental. Hopefully I’d get better with practice.
+
+You have used Noxious Grasp for 0.3 seconds.
+
+1 Mana Cost. Your Mana is 49.
+
+I checked my Status. Noxious Grasp’s XP was still at 9, so…
+
+You have used Noxious Grasp for 0.3 seconds.
+
+1 Mana Cost. Your Mana is 48.
+
+Threshold reached. Noxious Grasp XP has reached 10.
+
+Noxious Grasp Rank has increased to 1.
+
+Due to Noxious Grasp Rank reaching 1, it has undergone the following changes:
+
+Mana Cost: From 3 to 3.08
+
+Health Drain: From 10 to 10.5
+
+Stamina Drain: From 5 to 5.25
+
+Due to Noxious Grasp Rank increasing to Rank 1, Noxious Grasp has reached a Soft Cap.
+
+Spell XP gain for Noxious Grasp is 50 times slower until your Level increases past the Soft Cap.
+
+Increase your Level to 2 to increase your Soft Cap.
+
+Hm. Well, I figured out that it was 2 Mana per 1 Spell XP. And I also figured out what happened when it increased in Rank. The Health Drain and Stamina Drain increased, but so did the Mana Cost. However… I did the math in my head. The Mana Cost increased by two and a half percent, whereas the Health and Stamina Drain increased by five. So it was definitely worth it to increase the Rank of the Spell.
+
+However, it seemed like Ranking Noxious Grasp up would be a lot harder from now on. That ‘Soft Cap’ didn’t seem very soft. If it was 50 times slower, then instead of 2 Mana per Spell XP, it’d be 100 Mana. That was double my entire capacity, all for a single point of XP! How much XP would I need for the next Rank?
+
+I opened my Status and looked at my Spells.
+
+Spells:
+
+Talents:
+
+Titles:
+
+Noxious Grasp 1 - XP 0/11
+
+Time Loop Rank 0
+
+Trailblazer
+
+Noxious Grasp 1
+
+School: Poison
+
+Type: Toggle
+
+Cost: 3.08 Mana/Second
+
+—
+
+While active, any being you are physically touching loses 10.5 Health and 5.25 Stamina per second.
+
+Well, at least the second Rank only needed 11 Spell XP, so it wasn’t much more expensive than the first. But it would still need 1100 Mana to Rank up. That was… a lot of casting. It was very tempting to just wait until I Leveled up a bit more so that I could train the Spell without the Soft Cap blocking me, but…
+
+I sighed.
+
+This was a survival situation, and I needed every advantage I could get. If I could push Noxious Grasp even one Rank further than I’d normally be able to, then it’d be worth it. It’d take getting myself to Level 2 before I could Rank Noxious Grasp up again without worrying about the Soft Cap, and I was still Level 0. And to get it to Rank 3, I’d presumably need to get two more Levels – up to Level 4 – which I didn’t anticipate happening any time soon; Leveling up took quite a bit of time and effort, and right now I was just trying to not die. I’d need as much power as I could muster to survive out here, so I’d just have to push through the Soft Cap.
+
+No easy way out for me.
+
+Besides, I needed to get more comfortable with casting Spells, anyway. The amount of time and effort it took to activate Noxious Grasp would be completely unacceptable in real combat. I wanted to get to the point where I could turn it on in a split second with a simple thought.
+
+So, as I walked, I started occasionally casting Noxious Grasp. I’d only keep it active for about a second, and then I’d wait for my Mana to fully regenerate before casting it for a second more. It took about three and a half minutes to regenerate 3 Mana, so I was doing this pretty frequently. It took a lot more effort to keep turning it on and then back off again, as opposed to just letting it run for all fifty Mana and then waiting an hour for it to all come back, but I wanted to always have as much Mana pooled up as possible, just in case I was ever attacked.
+
+So I walked, continuing my search for shelter.
+
+After about an hour and a half, I started feeling a headache coming from the mental effort I was putting into the Spell. I’d run out of water, too, so the early-onset dehydration didn’t help. But the pain I felt was just a sign I was training well – if you didn’t get tired while exercising, you weren’t exercising right. I also saw a bunch of other small animals like the Wood Spirit that I tried to kill for XP. I only actually got a few of them, but some was better than none at all.
+
+You have slain Level 1 Boarlet.
+
+You have earned 4 XP. Your XP is 10.
+
+You have slain Level 0 Dire Rabbit.
+
+You have earned 2 XP. Your XP is 12.
+
+You have slain Level 0 Fawn.
+
+You have earned 3 XP. Your XP is 15.
+
+You have slain Level 1 Seeker Owl.
+
+You have earned 5 XP. Your XP is 20.
+
+You have slain Level 1 Rabbit.
+
+You have earned 3 XP. Your XP is 23.
+
+I was really feeling the pain of having a Spell with quite literally zero range as I tried hunting these animals. Of course, if I’d taken Firebolt, I wouldn’t have been able to attack so many of them so frequently, but it definitely would’ve been easier to just point and fire than to worry about sneaking up on them, tackling them, keeping them restrained while I maintained contact, and not letting them slip away at any point during the process.
+
+It was dark, though, and I had basically no visibility. And not just from the lack of light; my headache was getting bad enough that I could feel my vision getting spottier and spottier as time went on. It was at the point where I pretty much went blind whenever I activated Noxious Grasp, not to mention the headache got bad enough that I couldn’t focus on what I was seeing anyway. I was really looking forward to taking a rest. I couldn’t cast while sleeping, so it’d give me an actual break from the constant mental struggle of maintaining the Spell.
+
+That said, I still couldn’t find a good place for shelter, so I decided to settle for the next best thing. Once I found a decent-sized tree, I gathered a few of the larger sticks littering the forest floor, leaned them up against the tree’s trunk, then covered the whole structure with dead leaves to create a bit of insulation and hopefully hide me from anything looking for a snack. Once it was done, I sighed and took a step back, admiring my handiwork.
+
+Yep. It looked like shit.
+
+It was barely big enough to contain me even if I balled myself up as tightly as I could, it was already in the process of falling apart, and I was sure I’d be covered in dirt and leaves by the time half the night had passed. However, it was all I could do. I was tired, my head hurt, and it was too dark to see anymore. So I maneuvered my way in as best I could, curled up into the fetal position so I could actually fit, and closed my eyes, my mental and physical exhaustion pulling to sleep surprisingly quickly.
+
+I awoke with a start to the sound of snarling and gnashing, and quickly realized that one of my legs was poking out of the shelter.
+
+Shit.
+
+I yanked it back in, but I could see something moving around outside through the gaps in the leaves, sniffing at the pile of sticks I was hiding beneath and curiously pawing at the branches making up my walls. I knew for a fact that once it realized I was in here, it’d attack. I took a breath. There was no way I was getting out of here without a fight. I shifted slightly to get a better look at what I was going to be dealing with.
+
+Baring its teeth outside of my shelter was a large, green, semi-translucent wolf-like creature. I could see the drool leaking from its mouth as it pawed at my shelter once again, cautiously attempting to knock the sticks aside. It glanced over the shelter, and for a split-second, its eyes met mine. In that moment, I felt myself fighting to keep the contents of my stomach inside my body, gagging as an intense feeling of nausea washed over me. It passed just as quickly as it came, though, leaving me shaking and sweating.
+
+You have been inflicted with sickness. 12 damage. 6 Stamina drain.
+
+Your Health is 98. Your Stamina is 57.
+
+I had my suspicions, but after that, I knew exactly what this monster was. It was a Wood Wraith, one of the evolved forms of the Wood Spirit. They were larger, meaner, more carnivorous, and – most importantly – had a magical gaze attack that would overturn any victim’s stomach – I’d just gotten a taste of it. All of that said, though, it was still not an incredibly high-Level monster. Wood Spirits evolved into Wood Wraiths at Level 5, but Wood Wraiths evolved into a new form once they reached Level 10, so I knew this monster could only be in the high-single-digits.
+
+Now that I knew my enemy, I tensed, readying myself for a fight. This would be tough, but I could still beat it. Monsters Leveled differently from Humans, so it wasn’t like a Level 5 Wood Wraith would be similar in power to a Level 5 Classer. Even in my state, I could probably take this on. Hopefully.
+
+The second it looked away, I sprung out, crashing through my brittle walls. I slammed into the beast and gripped my hands into its fur.
+
+You have struck Level 6 Wood Wraith for 4 damage using your Body.
+
+I hurriedly shut my eyes – both to keep myself from accidentally glancing into the Wood Wraith’s own eyes, and to help me focus on activating my magic. I could feel it thrashing around, trying to free itself from my grasp, but my arms were strong from years of training and physical labor. I kept trying to activate Noxious Grasp, but the thrashing of the monster and battle fever raging in my head distracted me from my Mana control.
+
+Still, it’d take more than that to get my hands off of– OW, SHIT!
+
+You have been bitten by fangs. 24 damage.
+
+Your Health is 74.
+
+My arms instinctively withdrew from the monster, pain shooting up my bicep and shoulder. My eyes still closed, I could feel blood leaking from a bite mark on my arm. It seemed the beast had wriggled its way into being able to bite me. I heard it scurry away, stopping not too far from me, as I got to my feet. I couldn’t see, but I was afraid to open my eyes. I heard a growl from nearby and a pawing at the dirt. It didn’t seem like it wanted to leave the area – it’d probably realized I was easy prey, and was considering a counterattack.
+
+Shit, I thought. If I couldn’t see it coming, I was as good as dead.
+
+Ugh, fuck it.
+
+I opened my eyes to look around for it, and immediately doubled over in nausea.
+
+You have been inflicted with sickness. 12 damage. 6 Stamina drain.
+
+Your Health is 62. Your Stamina is 50.
+
+Found it.
+
+The Wood Wraith was standing a few paces away, having retreated from my ambush, but was now looking at me with a hunger in its venomous glare. I stood and readied myself, arms up in a position that would let me defend myself while also keeping my hands between my eyes and its, that way I could avoid its gaze. It wasn’t a very clean solution, but at least now I was only partially blind instead of fully.
+
+I also kept working to try and activate Noxious Grasp while we stood facing off against each other. It seemed the monster was cautious to attack, which was fine by me – it was incredibly difficult to cast a Spell while fully rested and in serene silence, much less sleep deprived and actively fighting something. I was running through my mind, trying my hardest to push the Mana where it needed to go–
+
+Shit!
+
+The Wood Wraith rushed at me, and – finally! I got my Noxious Grasp activated just in time. Out from my pores began leaking the familiar purple-gray mist. I leapt out of the way as the beast approached, but my self-imposed sight-blockers worked against me, and I dodged too late. Its teeth sunk into my arm once again, and a pained grunt escaped my throat.
+
+You have been bitten by fangs. 29 damage.
+
+Your Health is 33.
+
+It grabbed me tightly with its strong jaws, to the point where I didn’t think I could yank my arm free. However, I had a self-defense mechanism. The poisonous fumes leaking from my skin started sinking into the Wood Wraith’s body the moment it touched me, and I could immediately sense the Spell doing its work. Not only could I mentally feel its Health ticking downward, but I could also literally see the effects of the Spell, the flesh under its skin sinking inward as it was eaten away in real time.
+
+The Wood Wraith yelped – I was sure it felt the effects of the Spell too – and immediately let go of my arm, leaping away from me once again.
+
+You have struck Level 6 Wood Wraith for 8 damage and drained 4 Stamina over the course of 0.8 seconds using Noxious Grasp.
+
+2.4 Mana Cost. Your Mana is 48.
+
+But I was ready for that, and I lunged forward, grabbing onto the beast yet again and averting my gaze as I wrapped my arm around its head. It growled and thrashed its body around, trying to get away from me as the energy drained out from its skin.
+
+It snapped its jaws and flung its paws, but I had gotten a solid hold on it this time, and its already-weakened body had no chance of getting away. The monster’s Stamina and Health quickly leaked from its body, and its efforts to free itself got weaker and weaker. Eventually, it stopped moving entirely.
+
+You have struck Level 6 Wood Wraith for 139 damage and drained 69 Stamina over the course of 13.2 seconds using Noxious Grasp.
+
+40.7 Mana Cost. Your Mana is 7.
+
+You have slain Level 6 Wood Wraith.
+
+You have earned 37 XP. Your XP is 60.
+
+Threshold reached. 50 XP.
+
+Your Level has increased to 1.
+
+Due to achieving Level 1 in the Minute Mage Class, you have been granted the following benefits:
+
+-You have gained 1 Endurance.
+
+-You have gained 2 Conjuration.
+
+-You have gained 1 Intelligence.
+
+-You have gained 3 Stat Points.
+
+-Time Loop Talent Rank has increased to 1.

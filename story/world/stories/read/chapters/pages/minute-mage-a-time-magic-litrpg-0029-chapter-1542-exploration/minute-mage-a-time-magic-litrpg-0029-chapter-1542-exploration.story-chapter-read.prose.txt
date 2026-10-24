@@ -1,0 +1,67 @@
+PART 2/2
+
+Erani went through the three options in her mind over and over again. Mind Over Matter, Elemental Embrace, Expanded Capacity II. She felt like she could at least rule out Mind Over Matter, since its effect was so comparatively small against her Bond with Ainash. It just felt silly to spend an entire Talent on a few extra Stats when she already had plenty.
+
+…But then, she could remember at least a couple of the Talents that came after that, and some of them did seem helpful. Somewhere in the path after Mind Over Matter was a Talent that let her spend Health and Stamina in exchange for Mana, which was sort of a replacement for Expanded Capacity II, if she thought about it in a certain way, and there was also one that let her deal additional damage when using long-range Spells in close-range environments, which would allow her to utilize those extra Stats much more effectively…
+
+No, no, it simply didn’t make sense to totally pivot her build into that direction just for a couple Talents that still weren’t worth the wasted one here. If she needed more Mana, she could just take Capacity II and be done with it, and if she needed more damage, there was Elemental Embrace. To jump through so many hoops just for the sake of something she could have right now for free was silly.
+
+So then, between those two, what was best? It was important to remember what Elemental Embrace would do for her specifically, at least for now. It had different effects based on the School of the Spells used with it, and since Firebolt was the only Elemental Spell she had, the Talent would only do one main thing. For Fire Spells, it would simply ignite the being struck with magical fire for a number of seconds depending on the amount of damage dealt with the Spell. And, with 300 Stamina and the Talent costing around 95 to activate, she’d effectively be able to do this three times—though, really, she’d probably want to limit it to twice to avoid passing out in the middle of battle.
+
+Erani focused and did the combat math. In total, with 1890 Mana to her and Firebolt costing 58.7 Mana, she could cast…around thirty-two of the Spell in a single fight. Assuming optimal conditions, if she could get maximum damage with each and cast them all within a one-minute timeframe in order to get maximum damage with Signature Magic, then in total, the multiplier for the last two copies of Firebolt would be…6.15 and and 6.2. So then, again, assuming ideal conditions,  Elemental Embrace multiplying the damage of those last two copies of the Spell by 4 would make those multipliers into 30.75 and 31. So, adding the two differences together, using Elemental Embrace in optimal conditions would effectively give an additional amount of damage equal to 49.4 Firebolts.
+
+So she needed to compare that to Expanded Capacity II, which would give her an additional…630 Mana, which could be spent to cast…around ten Firebolts. This seemed much worse than Elemental Embrace’s fifty extra at first glance, but those Firebolts would still need to go through the other Talent damage bonuses before she could see how many actual Firebolts worth of damage they’d end up doing. Assuming thirty-two Firebolts in a single minute was the maximum Erani could do for the sake of Signature Magic, the additional Firebolts would all have a multiplier of 6.2 times damage, meaning she’d actually end up getting a total of 62 Firebolts of damage from Expanded Capacity II. According to this math, Extended Capacity II was the clear winner in terms of how much additional damage she’d be able to output in a fight.
+
+However, that was, of course, making a lot of assumptions. First and foremost, all of these assumptions were only taking into account situations with ideal conditions. In situations where, say, she couldn’t cast thirty-two Firebolts in a single minute, or where she missed some of them, or where she had to spend some of her Mana on Angelic Shield, all of that math would be different.
+
+Another thing that damage calculation didn’t take into account was that Embrace would deal the damage sooner than Capacity would. Since Embrace’s damage was tacked onto the last two Firebolts she cast out of the thirty-two, whereas Capacity’s damage came in the form of ten more Firebolts cast later on, assuming it took two seconds to cast each Firebolt, that meant she’d have to take an additional twenty seconds in order to deal her maximum damage. Certainly a large downside in many situations.
+
+And, of course, there was the fact that Embrace also added on the extra effect of lighting the target on fire, which would obviously increase damage dealt, and the fact that Embrace could be used whenever she wanted, and not just as the last two Spells she cast, meaning that quick additional damage could be utilized at the perfect time to maximize punishment for her opponents, whereas Capacity was still stuck with its damage coming much later. And Erani could also get more uses out of Embrace as she got more Stats and more Stamina, too.
+
+Effectively, Capacity was numerically the best in ideal circumstances. But Embrace could be made into the better Talent in some circumstances through clever fighting. But Capacity also worked well with Angelic Shield for additional protection. But Embrace could synergize with further Elemental Spells taken in order to broaden the number of unique negative effects it could apply. But Capacity wouldn’t need Erani to spend her Health and Stamina in fights, which could keep her out of danger. But Embrace would utilize the resources she’d been given by the Bond, and would be able to continue to use any she got as it continued to Rank. But Capacity—
+
+As the shimmering red monster walked up to me, it brayed and moaned in a strange manner, like it was calling out to me. Maybe it really did think I was another of its species. With the hilly terrain surrounding us, it was surprisingly hard to see in some directions, so perhaps there was a whole pack of these things just around the corner, and it thought I was some lost member.
+
+As I watched its approach, I slowly realized it wasn’t the only thing coming toward me. While it was breathing out that smoke on its own, I realized much of the purple gas that covered the ground wasn’t coming from it at all. Instead, massive clouds of the smoke were rolling out from behind one of the hills. And slowly, lumbering out from behind that hill, I just barely began to see another monster.
+
+This one looked similar to the first—same red shaggy fur, same slow meandering walk—it was just much, much larger. At least two, maybe three times the thing’s height, and instead of a normal snout that breathed out the smoke, it had a long trunk that reached down to the ground, billowing out clouds of the stuff. It was an absolute titan of a beast, and everywhere it walked—everywhere it breathed—the grass wilted, the dirt turned gray, and I could even spot the full-grown trees grow a little less lifelike.
+
+It was much further away, however, simply walking out from behind the hill and stopping to watch over the smaller beast continue to walk toward me. I continued to stand and observe, still not totally sure what to do in this situation. I’d asked Index, and while it couldn’t tell me much about the unfamiliar monsters, it wasn’t urging me to run away or anything, so I assumed it would be fine for me to stick around for now.
+
+The smaller monster walked up to me, now just a pace away. It bent over and sniffed at the fumes sinking to the ground from Noxious Grasp. The gasses coming from my Spell and the gasses coming from the monster were clearly different—while mine were effectively just aesthetic, not doing anything on their own since a being had to be physically touching me in order to be dealt damage, it seemed like this monster’s toxic smoke was what dealt the damage, itself. From what I’d seen, especially from the larger one that blew out massive amounts of the stuff, it wasn’t the monster’s touch that killed the grass, it was the gas. But obviously the monster didn’t seem to care about the slight differences between us.
+
+As it sniffed at Noxious Grasp’s fumes, it let out a small puff of its own, just a bit of which seemed to get close enough to trigger its effects on me.
+
+You have been poisoned. 1 damage.
+
+Your Health is 405.
+
+Huh, so it did deal damage on contact. Obviously not much, though, which I’d guessed from the fact that the grass had only just barely begun to wilt when touched by the gas. Though, obviously, getting hit by a full-on breath of the stuff would probably be a lot worse than the tiny prick from the ambient air.
+
+I wondered if these things were friendly with everyone. Maybe it was only kind to me because it saw the smoke from Noxious Grasp? I mean, depending on the intelligence of these monsters, it might have literally thought I was one of its species just because of the single similarity between us. Who knew?
+
+Maybe I could adopt one as a pet, or something, I found myself wondering. …Though, that would probably be a poor idea, considering they constantly exhaled damaging fumes. Yeah, I’d probably leave them be, actually.
+
+But at least this one was friendly. And as long as it didn’t make any active attempt to blow a bunch of gas into my face or anything, it didn’t seem like the tiny amount of smoke getting near me would deal any more damage. So I supposed I’d just leave it be, for now. It wasn’t aggressive, and I wasn’t totally sure I wanted to get on the bad side of that larger one standing off in the distance. Even if this one wasn’t dangerous, that other might be more of an issue.
+
+Besides, I wouldn’t want to kill some protected species or something; I’d heard of some towns having specific hunting seasons where you weren’t allowed to kill certain types of monsters during certain types of the year, that way they’d have time to repopulate and wouldn’t get totally killed off. Especially for towns without a big wild monster population nearby, killing off every local monster would effectively cripple all Classers, so the hunting seasons were a way to compromise. And they were often strictly enforced. So yeah, didn’t want to get on the wrong side of that law.
+
+I heard a footstep behind me. Was it another of these things? Maybe another from the pack. I looked behind myself to see.
+
+“Yeeeaargh!” With a scream, someone leapt past me and sunk their sword into the monster, and it screeched in pain.
+
+Surprised, I took a step back and looked at the person. It was…Bon?
+
+“Get out of the way, don’t steal our kill!” he barked at me, then turned back to the monster, which seemed to be preparing for a charge.
+
+Those dark purple fumes spewed from its nostrils with each breath, coating the ground near it.  I took a step back, not totally sure what was going on. And in the distance, that massive monster groaned out a deep sound that vibrated the bottom of my chest. Yeah, I went ahead and took another step back.
+
+“What the Hell, Bon?” another voice said in an exasperated tone. I looked over to see Jannin and Poppins standing behind him, both looking much more apathetic about all of this.
+
+“Yeah,” Poppins said, “I’m not sure if attacking is the best move here. There’s a mother only a hundred paces off, can’t you see?”
+
+Bon grunted. “We’ve gotten stronger over the weeks, a mother shouldn’t be an issue anymore.”
+
+“Abso-flamin’-lutely not,” Jannin said. “That shit’s way too high-Level for us. We need to retreat.”
+
+“That’s coward talk! And I’m no weakling!” Bon lifted his sword again and prepared to strike the smaller monster just as it charged straight at him.

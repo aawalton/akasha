@@ -1,0 +1,73 @@
+PART 1/2
+
+Erani sat, meditating and trying to figure out which Talent to choose. Between Elemental Embrace and Expanded Capacity II…ugh, she didn’t know. But she was leaning toward Embrace. She just needed to give it some time and come back to the problem with a fresh set of eyes.
+
+For now, she still needed to look at her Spell Choice, anyway. Maybe that would give her some additional perspective when deciding.
+
+Choose one Spell to learn:
+
+Force Spike
+
+School: Alteration, Arcane
+
+Type: Activated
+
+Cost: 55 Mana
+
+—
+
+Shoots a wave of force that travels 10 paces, dealing up to 50 damage, depending on where it hits, on a direct collision with a being. When Force Spike damages a being, 20% of the damage dealt is returned as a force shield that protects you from that much damage from a future hit, wearing off after use or 15 seconds after application.
+
+Torpor Orb
+
+School: Summoning
+
+Type: Activated
+
+Cost: 400 Mana
+
+—
+
+Summons a small orb. While a being is within 50 paces of the orb, that being loses 0.5% of their current Stamina every second.
+
+The orb will only affect the 5 nearest beings at any given time.
+
+After 5 minutes, the orb crumbles to dust.
+
+Distortion Strike
+
+School: Alteration, Illusion
+
+Type: Toggle
+
+Cost: 0.5 Mana/Second
+
+—
+
+While active, you are Shaded, making you slightly harder to notice in the dark. When you damage a being with your body or a physical weapon while Shaded, you may deactivate Distortion Strike and spend 30 Mana to appear in a bright flash of light and deal an additional 2 damage for each second you were Shaded, with a maximum of 200 additional damage.
+
+Okay, she thought, let's try to be more decisive about this one.
+
+She hadn’t done as much research about the path following Angelic Shield as she had about the paths following the other options on her second Spell Choice, but she was still familiar with these effects. Force Spike was the generally-taken Spell here, to continue with the more defensive direction taken with Angelic Shield. Though she had also seen a couple builds that took the more controversial path of Torpor Orb with a build that went with a more lone-wolf style, taking advantage of Angelic Shield’s allowing one to not have to worry as much about having others watch their back. And Distortion Strike wasn’t a very common Spell, seeming to encourage people to move down a melee build taking advantage of Angelic Shield’s nature of making the user somewhat tanky.
+
+Out of the three, she was more immediately leaning toward Force Spike. Torpor Orb, while it seemed like it could actually do quite well when used in conjunction with Arlan’s Stamina-draining strategy, had an element that was a massive drawback—it drained everyone nearby. Enemies, friendlies, even the caster of the Spell. Erani could still remember the math she’d read about behind the Spell. Over the course of the full five minutes it was in effect, assuming a being began with their entire complement of Stamina, they’d end up with around twenty percent of their original value. For Erani, she’d end up with 60, and Arlan would probably be no better. Obviously, their enemies would be low, too, but if everyone ran out of Stamina, it would essentially achieve nothing.
+
+Since the orb drained so much of a person’s Stamina, the strategy was often for the caster to be prepared to end up completely sedentary near the end of a fight, doing everything they could to avoid moving. Angelic Shield could help quite a bit with that, since it allowed them to just take hits full-on instead of worrying about dodging. Users of the Spell would even sometimes take someone with an extremely high Stamina regeneration along so that they could have that person literally carry them through the battlefield instead of walking.
+
+Erani still remembered the ‘face’ of that strategy using Torpor Orb. It was a man called Riir Stax, who lived a couple hundred years back. He’d apparently saved up every single Spell Strengthening he got as he Leveled as a Sorcerer, refusing to put even a single free Rank into his Spells that came before, until he finally got access to Torpor Orb and put every one of them into it, powering the thing up to insane levels. His entire fighting style was based around the single Spell, summoning the orb and then just stalling until his opponents passed out barely before he collapsed, himself.
+
+There was even a story about him getting into a fight against some massively famous Melee-Type, where they fought and fought until they both collapsed, paralyzed at the exact same time. Stax couldn’t kill him in that position, but he also knew that if he let up Torpor Orb, his opponent, with their higher physical Stats, would get up first and be able to kill him. So he kept casting Torpor Orb over and over, repeatedly resummoning the thing for hours on end, then days on end. Eventually, his opponent literally died of thirst, having been forced to lay there, paralyzed, until they perished. The only reason Stax survived, the story went, was because he was able to lick a single droplet of water off the back of a frog during the days of paralysis.
+
+Now, were those stories exaggerated? Absolutely. But they also inspired an entire style of fighting based off of that basic “I’ll hurt both of us until you die just before I do” strategy. It wasn’t extremely successful—not many recommended it, and it got more people killed than it helped succeed—but it was certainly memorable. Hells, even Arlan’s fighting strategy, focusing on resource denial and waiting an opponent out, had a similar style. Though he obviously preferred to force his opponents to lose resources while he gained them, rather than hurting both him and his opponent simultaneously. Definitely a more reliable way to do things.
+
+And that was pretty much the problem with the strategy. It really didn’t work well unless you were prepared to bypass that drawback. Sure, if enough time passed, Arlan might be able to drain someone of their Stamina, but he, Erani, and Ainash would all be low by then as well, making them especially vulnerable against any additional forces that showed up afterward.
+
+Plus, there were the two limitations of the Spell in its range and maximum number of affected targets. If someone really felt like the Spell was that detrimental, they could just keep away from Erani until it crumbled away on its own, and at that point, she and her allies would be so drained from her own Spell that they’d all be easy pickings for the still-strong enemy.
+
+The Spell was extremely powerful in the right hands—it could essentially completely control the course of a battle the moment it was cast—but Erani simply didn’t have confidence in her ability to take advantage of its effects without having constructed her entire build around it.
+
+Distortion Strike was similar. It felt good, but like it needed a very specific build; it was the least popular pick of this Choice for a reason, after all. The Sorcerer Class just wasn’t built to be able to easily take advantage of a Spell that wanted the user to get within melee range of a target, due not in small part to the fact that Explosive Firebolt was such a pervasive baseline for the Class. If she wanted to get within melee range of an opponent, why would she want her only other damaging Spell to literally blow her up if she ever used it that close? It simply didn’t synergize with the most powerful Upgrade for Firebolt—and the one Erani had taken—so it was pretty much thrown out immediately by most users.
+
+By contrast, Force Spike was a solid option to continue to increase one’s survivability. It didn’t have quite the pure Mana-to-prevented-damage efficiency of Angelic Shield, but it did when you counted the damage it dealt to the opponent, as well—especially when used with the Talents Erani had. Increasing the damage Force Spike dealt would also increase the size of the shield it gave her, after all, so it simply made sense to take the option that so well synergized with her build so far. At least she wasn’t going too far off the beaten path.
+
+Though, she still needed to figure out her Talent. Maybe Arlan could offer some help picking. He had that Index thing, right? It could probably give her some information to help her choose.

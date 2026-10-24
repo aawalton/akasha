@@ -1,0 +1,197 @@
+PART 1/2
+
+You have been blessed by the mercy of god. 10 Health restored.
+
+Your Health is 170.
+
+“'Kay, that’s me below half Mana,” the Paladin Jannin said. He stood up from his previously-sitting position beside me. “Let’s take a break, and then I’ll get back to you once I’m back at full.”
+
+“Sure,” I nodded. “Thanks for the help.”
+
+“It’s no problem. Anything to beat the flamin’ boredom out here.”
+
+“Boredom? Is it that bad? I’d assume living out near Kingdom’s—er, Empire’s—Edge would be pretty exhilarating. With the monsters and everything."
+
+“Well it’s definitely stressful boredom, but at the end of the day, most weeks pass without anything happening out here. Dragons generally take care of the larger threats, and they don’t bother us unless we bother them. So it’s basically just sitting around, and if something ever does happen, we’re dead.”
+
+“Sounds like a shitty job.”
+
+“Well, it’s not like we wanted to take it,” Bon said. “‘Course it’s bad.”
+
+“You didn't want to come out here? Why, then?”
+
+“Punishment. Or, it’s more like it’s a way to get rid of people. We weren’t wanted, so we’re sent out here to do absolutely nothing. Out here, we either die to a monster, or we live, and still can’t do anything to hurt the emperor. May as well be a silent execution.”
+
+“Sounds like you pissed someone off,” I sighed. Wasn’t like I didn’t understand the frustration of being punished just for upsetting the wrong person. “Also, uh, sorry if I’m just being totally ignorant, but I thought Barinruth had an empress, not an emperor.”
+
+“We did,” Bon said. “But now we don’t.”
+
+“What happened?”
+
+“A flamin’ assassination is what happened,” Jannin burst out with a scowl. “Our empress was—”
+
+“Shut it!” Bon shouted over him. Jannin stopped, then Bon turned back to me. “What do you think we said that got us in trouble?”
+
+“Ah,” I nodded. “So I guess you had the wrong theory?”
+
+“You could say that. The ‘accident’ happened a couple years ago, and my squad and I were supposed to keep the peace during the riots that followed. We didn’t want to. Now we’re here. Makes sense you Koinkarians haven’t heard of it—new Emperor likes to keep things quiet.”
+
+“Hm.”
+
+The conversation died out after that. Seemed like there was a bit of baggage that came with guarding the mountain range. Looking out the window, I could see in the distance a few more outposts similar to this one, lining the border between mountains and fields. Were they all out here for the same reasons?
+
+“Anyway,” Bon continued after a moment, “we’re pretty much just here to warn people if there’s a monster attack. That’s what the Message Paper is for. If we ever see a Dragon that looks particularly aggressive, or really see any sort of anomaly, we write it in the Paper so the higher-ups know what’s going on. That’s why we need to know what you’re doing here. Humans coming through the pass, that’s certainly an anomaly. And you said you had some sorta Demon attack, too?”
+
+“Yeah,” I said. “But, um, can you give me a moment before we go through all of that? I actually have a Level-up I need to manage.”
+
+Bon laughed. “Sure, sure. Take a few minutes to do your thing. I’m in no hurry to cramp up my writing hand.”
+
+“Great,” I sighed. Erani also had Levels to manage, according to Ainash, so we all needed the break to meditate. And, in case our strategy for dealing with the Truth Stone didn’t work, I definitely wanted to be at my most powerful when dealing with them.
+
+So I opened up my Status.
+
+Name:
+
+Arlan Nota
+
+Age:
+
+20
+
+Strength:
+
+31 (21 + 10)
+
+Class:
+
+Minute Mage
+
+Level:
+
+20
+
+Endurance:
+
+52 (42 + 10)
+
+Class Type:
+
+Magic
+
+XP:
+
+388/3.0k
+
+Dexterity:
+
+33 (23 + 10)
+
+Health:
+
+170/520
+
+Health/Minute:
+
+0.193
+
+Conjuration:
+
+112
+
+Stamina:
+
+41/252
+
+Stamina/Minute:
+
+1.63
+
+Intelligence:
+
+27
+
+Mana:
+
+1.26k/1.26k
+
+Mana/Minute:
+
+73.8
+
+Stat Points:
+
+6
+
+Spells:
+
+Talents:
+
+Titles:
+
+Sanguine Bond 9 - XP 355/355
+
+[Talent Choice Available]
+
+Devastator
+
+Expedite 9 - XP 355/355
+
+Exponential Reclamation
+
+Trailblazer
+
+Ethereal Armor 9 - XP 355/355
+
+Regenerate
+
+Gravity Well 9 - XP 355/355
+
+Recursive Growth
+
+Ray of Frost 9 - XP 355/355
+
+Time Loop 20+Extended Loop+[Time Loop Upgrade Available]
+
+Crippling Chill 9 - XP 355/355
+
+Noxious Grasp 15 - XP 32/1.92k+Venomous Grasp
+
+In total, from my two recent Level-ups, I’d gotten 3 Strength, 4 Endurance, 3 Dexterity, 5 Conjuration, 3 Intelligence, 6 Stat Points, Recursive Growth had started giving me 6 Stats per Level, I’d gotten two Ranks for Time Loop, a Soft Cap Rank, a Talent, a Time Loop Usage Increase moving me up to 3 per day, and a Time Loop Upgrade. It was…certainly a lot to go over.
+
+And Exponential Reclamation made those points in Conjuration so much more valuable, too. With just five points, my Mana/Minute moved from 66 to almost 74. And that was before I assigned my 6 more Stat Points.
+
+But the Stats were the least of my gains. At the front of my mind were the two main things I needed to look at: the Talent and the Time Loop Upgrade. Considering how defining my Talents had been to my build so far, each and every one I got would make massive ripples through my future. And Time Loop’s previous Upgrade, massively expanding the amount of time I could go back, made me practically salivate at the opportunity to see another one.
+
+So first, going in order of importance, I opened up my Talent.
+
+Choose one Talent to obtain:
+
+Cumulative Catastrophe
+
+Type: Passive
+
+—
+
+Each string of attacks you make will be recurred through time, stacking fractions of power with every strike. Whenever you damage another being, increase all future damage and other numerical effects dealt to that being by 1% additively. If 6 seconds pass without you damaging that being, reset this boost for that being.
+
+Spatial Flux
+
+Type: Activated
+
+—
+
+Instantly teleports you to the exact position you were at one hour ago.
+
+This Talent can only be activated once per day.
+
+Future Sight
+
+Type: Passive
+
+—
+
+You are always aware of what will happen to you one second from now. This manifests as a constant vision in your mind. It predicts the exact future, and can be changed only through actions taken due to the knowledge gained by this Talent.
+
+Woah. Well, those were some weird options. Cumulative Catastrophe, if I was reading it right, would effectively make all of my hits one percent stronger for every time I’d previously hit the same enemy, Spatial Flux was a…strange teleportation ability, but I’d presumably want to primarily use it to get out of difficult situations, and Future Sight was a sort of strange all-round ability that seemed like it would help out in plenty of situations, but be difficult to really plan around or control.
+
+As for choosing one? I wasn’t totally sure.

@@ -1,0 +1,189 @@
+PART 2/2
+
+Erani sat with her eyes closed, having been keeping in her meditative state for what felt like forever, as she heard Arlan take a seat next to her.
+
+“So, you mind telling me what your options are?” he asked.
+
+“Oh, right, I forgot you didn’t know yet. I guess your Index thing already knows everything about the Sorcerer Class?”
+
+“Supposedly. Knows everything about everything when it comes to the System.”
+
+“Okay,” Erani said, pulling up the choices, “so here they are.”
+
+Choose one Talent to obtain:
+
+Mind Over Matter
+
+Type: Passive
+
+—
+
+Harness the power of your mind to bolster your physical abilities. For every 10 Conjuration you have, your Strength and Dexterity are each increased by 1.
+
+Elemental Embrace
+
+Type: Activated
+
+Cost: Health, Stamina, and Mana equal to 5% of your maximum Mana (94.5 Health, Stamina, and Mana)
+
+—
+
+Your body and spirit become in tune with the elements, enhancing your offensive Spells. Whenever you cast an Elemental-School Spell that deals damage (Cold, Fire, Aqueous, etc.), you may activate this Talent to trigger an Elemental Surge. The Surge increases the Spell's damage by 400% and infuses it with a secondary effect related to the Spell’s Elemental School and scaling in power with damage dealt, such as burning, freezing, or stunning the target.
+
+Expanded Capacity II
+
+Type: Passive
+
+—
+
+Your Mana reserves become more plentiful. Maximum Mana is increased by 100%. Taking this Talent replaces Expanded Capacity.
+
+Choose one Spell to learn:
+
+Force Spike
+
+School: Alteration, Arcane
+
+Type: Activated
+
+Cost: 55 Mana
+
+—
+
+Shoots a wave of force that travels 10 paces, dealing up to 50 damage, depending on where it hits, on a direct collision with a being. When Force Spike damages a being, 20% of the damage dealt is returned as a force shield that protects you from that much damage from a future hit, wearing off after use or 15 seconds after application.
+
+Torpor Orb
+
+School: Summoning
+
+Type: Activated
+
+Cost: 400 Mana
+
+—
+
+Summons a small orb. While a being is within 50 paces of the orb, that being loses 1% of their current Stamina every second.
+
+The orb will only affect the five nearest beings at any given time.
+
+After 3 minutes, the orb crumbles to dust.
+
+Distortion Strike
+
+School: Alteration, Illusion
+
+Type: Toggle
+
+Cost: 0.5 Mana/Second
+
+—
+
+While active, you are Shaded, making you slightly harder to notice in the dark. When you damage a being with your body or a physical weapon while Shaded, you may deactivate Distortion Strike and spend 30 Mana to appear in a bright flash of light and deal an additional 2 damage for each second you were Shaded, with a maximum of 200 additional damage.
+
+“Huh,” Arlan said after she was done reading them all out, “and Index, you say that, for the Spells, the pick is definitely Distortion Strike?”
+
+He paused for a moment. This was how most of his conversations with this “Index” thing went, with him asking a question, and then sitting in awkward silence while he listened for an answer.
+
+“Uh huh,” Arlan muttered, “but I don’t see how that…”
+
+So apparently he was being filled in by the thing. Honestly, Erani felt kind of left out, not being able to hear this apparently perspective-changing information. Sure, he could just relay it to her, but like, what did Index sound like? Was it a guy or a girl? Did it even sound like anything? It was strange, having someone in the room with her that she couldn’t see, hear, or in any way perceive.
+
+“Right, right, so if she uses it then…” he continued on to himself. Then Erani heard him speak again, now directed at her, “Hey, what’s your Mana/Minute?”
+
+“...22.7. Why?”
+
+“Yeah, yeah, that’s perfect,” he went back to his muttering. “Well, I guess not perfect, but close to it. With just…how many more Levels? …Yep. Yeah, I’d say it’s worth it anyway. And she could keep it up for how long? …Mhm. Certainly long enough, in my opinion.”
+
+“So, you wanna tell me what you’ve figured out?” Erani finally asked.
+
+“Oh, yeah, forgot you couldn’t hear,” Arlan said with a chuckle. She'd be upset at his absent-mindedness if his laugh wasn't so cute. “Basically, so you know how we need to…oh, wait. Index, can you check around the surrounding area for me really quick? Make sure those guards aren’t in earshot. …Thanks.”
+
+“We’re good?”
+
+“Yeah, yeah, we’re good. So you know how we need to hide our identities, right? I mean, I have to keep Dark Plate on basically at all times, and everything. So the question is, how do we hide your identity? I mean, it hasn’t really been a problem so far, since we’ve pretty much only seen three people, but what about when we’re in a populated area? Or what if the kingdom decides to send over detailed portraits to all of the towns near Kingdom’s Edge, since they know we’ll be near that area? My face is concealed, and Ainash went through an evolution recently, so she’s gonna look different from what people know her as, too. You’re pretty much the last person who we need to hide.”
+
+“Yeah, yeah, that makes sense.”
+
+“So the question is, how do we do it? I mean, as-is, our only real solution is to just keep you away from any populated towns, which will obviously cause problems if you’re consistently split away from me and Ainash. But, according to Index, Distortion Strike could be a solution.”
+
+“Oh. Oh, are you talking about the ‘slightly harder to spot in the dark’ clause? Some people mistake that for, like, full invisibility while you’re standing in shade, but that’s not how it works. It’s a pretty minor thing, and only really helps if you’re already trying to stay hidden, from what I’ve read about it. More of an assist to an attempt at stealth, rather than something that can just totally hide you.”
+
+“No, no, that’s not the point. You’d stay in complete sight the whole time. So, okay, the way Index talks about it, it seems like the ‘slightly harder to spot in the dark’ thing isn’t conditional, right? It isn’t ‘you’re slightly harder to spot while you are in the dark.’”
+
+“What?”
+
+“Like, you’re always being changed. No matter what, there’s this change going on to your appearance, it’s just that the change is going to make it harder for people to see you while it’s dark out. But even if it isn’t dark out, you still look different. It’s not like the Spell does nothing if it isn’t dark out, and only comes into effect when it is. It’s always doing something, that something just won’t be useful until you’re standing in the shade. At least, it wouldn’t normally be useful.”
+
+“Oh,” Erani nodded. “Yeah, I guess I didn’t think about it like that. None of the books I read even mentioned the fact that it’d constantly keep your appearance changed.”
+
+“Probably just didn’t find it important to mention. But for us, it’s crucial. The cost of the Spell is cheap, right?”
+
+“Yeah, half a Mana per second. The real cost comes when I hit someone while it’s active.”
+
+“Great. So, Index went ahead and did the math, and with your current Mana/Minute, if you start out with a full pool of Mana, you can keep the Spell active for close to four and a half hours. And the moment your Mana/Minute passes 30, you’ll be able to keep it on perpetually, as long as you never damage anything to trigger the costly part.”
+
+“Okay, so, what, we’d be using the Spell for the sole purpose of altering my appearance, then? How does it even make me look different? Is it enough to make it so people can’t recognize me?”
+
+“Index says so. Can’t say much about specific changes—I apparently can’t really be told anything considered to be ‘concealed information’ by the System when it comes to other peoples’ Classes and choices, since they have nothing to do with me, and the actual ways it changes your appearance falls under that, I guess. But it can tell me about the specific wording and stuff, so that was fair game. Bit of a loophole, I guess. Index seems to find a lot of those.”
+
+“Well, that’s certainly useful,” Erani took a breath, trying to process the information she’d just gotten. That changed…everything. Distortion Strike may have encouraged a fighting style that was suboptimal, but if it allowed her to hide her identity, that kind of came before everything else, right?
+
+Really, if she didn’t take the Spell, even if she was able to safely avoid going into populated areas, that would only be pushing the problem further down the line. Someone would come across her in the wilderness, or maybe the empire would send out hunting patrols for her if the Demons pressured them, or whatever. Running and hiding just would not be a viable strategy for the rest of her life. If something could actually let her integrate normally…there was no way she could just not take that, right?
+
+“So anyway, now that that’s settled, Talents?” Arlan said, breaking her out of her thoughts.
+
+“Yes, yes, Talents. I’ve just about narrowed them down to being between Elemental Embrace and Expanded Capacity II.”
+
+“Hm. Index? You got anything for me? …Mhm. …Okay. …Alright, so do you have any idea what your future Spell Choices will be, if you pick Distortion Strike?”
+
+“Oh, are you talking to me?”
+
+“Yeah, yeah, Index can’t tell me what you’ll be getting in the future. Do you know?”
+
+“Uh…” Really, at this point, Erani’s research began to face its limits. Even with just considering the number of paths from four total Spells, she’d still be looking at a total of eighty-one different Spells to memorize. And when it was a path as uncommon as moving into Strike at choice three, her memory wasn’t perfect. However… “I think I remember the basics. At least, I remember that there is a Cold-School Spell that’ll come after Strike. Or was it Aqueous? Not sure, but I know it’s one of the Elemental Schools, so it should work with Embrace.”
+
+“Alright. Index, do you…uh huh? …Okay. Yeah, alright, so I guess Index thinks Elemental Embrace is the better choice here. Its reasoning is less about the unique information it has, and more about general combat strategy, though. And I do agree with what it’s saying.”
+
+“What’s it have to say?”
+
+“So, basically, with my combat style, I effectively get stronger the longer a fight goes on. And, when we work together, I’m sure you’ve noticed that I obviously rely on you a lot to keep me safe during those first moments of a fight when I’m weakest. But once the fight’s gone on for a bit and you’re running out of Mana, suddenly I’m much stronger, and I can make up for your deficiencies. Effectively, if you take Expanded Capacity II, you’ll just be making yourself a bit less weak in those later moments of a fight. But we don’t have any issues with later on in a fight, because my abilities can cover that just fine. Instead, something like Elemental Embrace works to make you even better in the area you specialize in: fast damage early on. Which is something I’m personally pretty horrible at doing. So if we both push our builds to specialize in our respective areas, we can make it basically impossible for an enemy to really take advantage of any of our weaknesses.”
+
+“Hm. Well…yeah, I guess I can’t really argue with that logic,” Erani said. It made sense, when put like that. She’d been so focused on trying to figure out how the differences in her own build changed what choices she’d have to make, and kind of disregarded the fact that there were other people around too, who also influenced what the optimal build would be. Really…the Talent choice wasn’t too difficult at all, was it? It was literally just ‘keep going in the direction you’re specializing in.’
+
+So she took a breath, instinctively wincing from a pang of anxiety that always came from making decisions like these, and pushed through the changes before she could change her mind.
+
+You have obtained the Talent Elemental Embrace.
+
+You have learned the Spell Distortion Strike.
+
+I sat and rested with Erani once she was done making her choices. It was relieving to know we wouldn’t have to completely hide her from sight, or anything—though we weren’t totally off the hook when it came to hiding our identities. While a few hours was a lot of time, it’d be an issue if she was forced to stay out in the open with no rest for an extended period of time.
+
+One basic issue with the Spell was the fact that, like all others, it Ranked up automatically with use. Which meant that, especially with the fact that her Soft Cap was above 10, it’d pretty quickly get more expensive. By the time it got to Rank 9—where it’d stop since it needed a Spell Crystal to move further—it’d only go from needing 0.5 Mana per second to needing 0.625 per second, but still kind of an annoyance. Still, that issue could easily be solved by just not using a Spell Crystal once it got there, so she’d still eventually pass the Spell’s cost with her Mana/Minute.
+
+We just sat and rested for a while after she finished meditating, waiting for Ainash to get some sleep. And then, once she was up, we’d head out to town. To civilization.
+
+“Hey,” I said to Erani, “you want to test out Distortion Strike while we wait? May as well see how it looks.”
+
+“Oh, sure. I’m pretty curious, too, really.”
+
+She scooted over so we were facing each other.
+
+“I can’t wait to see this,” I heard Index suddenly say.
+
+What? Why? Don’t you already know?
+
+“Well, I do have all of the information on how it works, but I still haven’t technically seen it used on a person. I was only born when you created me, you know. So I haven't seen much at all. But from what I know, it’s going to be a…dramatic change. Seems interesting.”
+
+“Okay, you ready?” Erani asked.
+
+“Sure. Index is excited, too.”
+
+“Why?”
+
+“Guess we’ll see.”
+
+She shrugged. “Alright. Three, two, one, and…”
+
+She toggled it on.
+
+My eyes widened, looking at her. “...Woah.”

@@ -1,0 +1,141 @@
+PART 2/2
+
+Choose one Talent to obtain:
+
+Cumulative Catastrophe
+
+Type: Passive
+
+—
+
+Each string of attacks you make will be recurred through time, stacking fractions of power with every strike. Whenever you damage a being, increase all future damage and other numerical effects dealt to that being by 1% additively. If 6 seconds pass without you damaging that being, reset this damage boost for that being.
+
+Spatial Flux
+
+Type: Activated
+
+—
+
+Instantly teleports you to the exact position you were at one hour ago.
+
+This Talent can only be activated once per day.
+
+Future Sight
+
+Type: Passive
+
+—
+
+You are always aware of what will happen to you one second from now. This manifests as a constant vision in your mind. It predicts the exact future, and can be changed only through actions taken due to the knowledge gained by this Talent.
+
+I was a bit put off by Spatial Flux’s limitation of once per day—a day could end up being very, very long if I didn’t plan things right with Time Loop—but the ability itself was still extremely helpful. An instant teleport always was. Time Loop was nice, but there were still sometimes occasions where no matter how much preparation I had, I wouldn’t be able to avoid a threat—our run-in with Xhag’duul was evidence enough of that. So being able to just move away from them without any hint as to where I’d gone could be a perfect tool to escape enemies that Time Loop wouldn’t help against. Hells, it could even just buy me time until midnight came and Time Loop refreshed, if I was ever in a situation where I was waiting on it.
+
+In contrast to Spatial Flux helping me escape enemies, Cumulative Catastrophe would just help me kill them. Its specific workings were interesting. It increased damage—that was straightforward—but “other numerical effects” was less clear.
+
+Index? Wanna help me out? I thought, deciding not to speak to it out loud considering how I’d just sound like an insane person to the guards.
+
+“Yeah, sure,” Index said into my ear. “A ‘numerical effect’ in this case would be things like Stamina and Mana drain as well as Stat debuffs. At least, that’s what would matter to you.”
+
+Right. And how would this function alongside things like Noxious Grasp or Crippling Chill? The “whenever you damage a being” part doesn’t really make that clear.
+
+“You’re wondering how many instances of damage they’ll cause? Well, pretty much, it’s one instance per second. Even though effects like Noxious Grasp can technically calculate damage down to the fraction, it only really counts for one single trigger each second. So, if you had Noxious Grasp active alongside Crippling Chill for, say, ten seconds, that’d be ten triggers for each, making twenty. If, during that time, you also hit the enemy with three Rays of Frost, it’d become twenty-three.”
+
+And that boost from Cumulative Catastrophe will apply to the effects each second, too?
+
+“That depends on the specific Spell. Really, it depends on if it’s a Status Affliction. To use Noxious Grasp as an example, for second one, it’d deal its usual damage and Stamina drain of 20.8 and 10.4, respectively, and you’d get a trigger from Catastrophe. From that trigger, the next second of Grasp would be powered-up, boosting it to 21 and 10.5. The third second would deal 21.2 and 10.6, and so on. But for something like Crippling Chill, that applies an Affliction, meaning it’ll stay static until you reapply it. You cast it at its base of 7.76 damage, 6.21 Stamina drain, and 15.5 Dex debuff, and it’ll rack up Catastrophe triggers every second to boost further Spells cast, but it won’t strengthen itself. However, if you wait, say, ten seconds and then cast it again to reapply the effect, those will all jump up to 8.54, 6.83, and 17.1, since you replace the current effect.”
+
+I nodded, trying to take in all of the numbers Index had just thrown at me. I got the gist, though; it worked pretty well with my current build. The way I saw it, the boost in effect wouldn’t be too great for the first part of a battle. Sure, five, ten, fifteen percent was good—it was effectively a few free Spell Ranks for everything I cast—but it definitely wasn’t worth a whole Talent slot.
+
+However, if I could keep Catastrophe going, it would quickly get more and more powerful. Especially with effects like Crippling Chill, which dealt unavoidable damage, I’d pretty much be constantly racking up triggers of the Talent. And if a battle went on for a minute or two of me constantly having Crippling Chill and Sanguine Bond active, alongside occasional hits with Noxious Grasp and Ray of Frost, I could easily get it up to a one hundred percent boost—even two hundred wasn’t out of the realm of possibility. And tripling all damage dealt, Stamina drained, hells, even the Dexterity debuffs I applied? That would make an insane difference.
+
+But the Talent did still have downsides. There was technically the clause that the damage boost would wear off after six seconds without dealing damage, but I honestly wasn’t worried about that. With Crippling Chill, as long as I had Mana, I could pretty much guarantee I’d always be dealing damage, so it’d rarely be the case that the effect would wear off unless someone could get far enough away to be out of the Spell’s range, and then stay that far away until the Spell wore off, and then stay that far away for another six seconds. I didn’t anticipate that being too frequent of an issue.
+
+My main worry was rather that it didn’t do much to help in the beginning of a fight. The moment a fight started, it’d do literally nothing. And, if I was up against someone who could kill me quickly, this wouldn’t do much to stop them. But then, if I did manage to survive, the Talent would help me close out that same impossible fight by increasing my debuffs and drains until it was something they could no longer handle.
+
+So, lots to consider with that one. Finally, there was Future Sight. Which was even weirder. I could always see one second in the future? That somehow seemed completely busted and completely useless at the same time. A single second was a very short period of time, but, well, being able to always see it was kind of insane. How did that even manifest? The Talent explained it a bit, but I still had what felt like hundreds of questions.
+
+Index?
+
+“Right, right. So, uh…this one’s a bit hard to explain without you experiencing it. You’ll effectively have two windows of consciousness going at the same time—like you’re living two lives simultaneously. One of them will be your normal perception, while the other will be your future perception. It’ll be up to you to figure out how you want to split your attention between the two, but all of the information will be there.”
+
+That sounds…disorienting.
+
+“Oh yeah, it will be.”
+
+And I can’t turn it off?
+
+“No, not really. I mean, you can do your best to ignore the future, but then you’re basically losing all of the benefits of the Talent.”
+
+You don’t seem like you’re doing a good job of selling this Talent to me.
+
+“I’m not here to sell you anything. Just inform you. You’re the one who keeps asking about the downsides. If you want the good parts too, here: if you can get used to it and can leverage the information you gain without it impairing your ability to operate in the world, this will effectively never let you get surprised. Any ambush that comes, you’ll see coming. Granted, you’ll only see it a single second ahead of time, but one second is definitely better than zero.”
+
+Right. So if it’s an ambush where getting a second’s warning makes a difference, I might be able to react quick enough to avoid it. I can also see it working while talking to people, like I can see if I’m about to say something that would ruin a negotiation, or something. But then, I guess it’d only work if they responded really quickly, so I could see what would end up happening within a single second before I actually said what I wanted to say. Still, using it in a fight would be great.
+
+“Yep. As long as you can get used to it.”
+
+Yeah. That sounded like it would be difficult. It’d only be worth it if the benefits I gained from being able to see the future helped more than what I lost from effectively never being able to fully focus on the here-and-now. And, of course, I still had to weigh those benefits against the other two choices I had and choose which had the best ones.
+
+What do you think, Index? Got any recommendations?
+
+“Of course. When it comes to survival, I’d say you should go with Spatial Flux. Teleportation is a phenomenal fail-safe to have, even if you can’t really control where you’ll go.”
+
+Really? I frowned. But it just feels so situational compared to the others.
+
+“Even if you only ever use it once, if it saves your life that one time, I’d say it’s worth it. At the end of the day, your best bet with these Demons is to just run and hope they never find you. Cut straight through as many Human territories as you can, and eventually they’ll probably just decide it’s not worth catching up to you if it means fighting through all of those militaries. This is effectively a problem of resource management; all you have to do is make it more expensive to kill you than it is to just let you keep the Class you stole.”
+
+I chewed on my tongue while I thought. When I’d first taken the Index benefit, I’d been pleased to learn that it was completely unbiased—that is, all it wanted was for me to survive and succeed. But I was learning now that maybe Index was more biased than I’d thought. It wanted me to succeed, but…
+
+What about Erani and Ainash? If I escape a situation with my life intact, they’ll still be in trouble.
+
+“Well then they can fend for themselves, can’t they? You survive, and that’s what matters.”
+
+Yeah, exactly. It didn’t seem to take into account the lives of others. Or even my own personal desires. I didn’t want to just keep running forever and ever. I wanted to eventually beat the Demons, not just have them decide it was technically too expensive to kill me and fuck off without having paid anything for the destruction they’d caused. And Index seemed to just not care at all about that, making its advice here kind of useless.
+
+“Y’know, I can still read your thoughts, Arlan. You’re thinking about me in a pretty rude way.”
+
+Oh, right. Sorry.
+
+“No, no, I understand. I mean, of course I understand, I’m reading your thoughts. But really, it’s not like I want you to just technically live as long as possible, no matter how miserable you are. I’m using a very advanced equation to decide what’s best for you that does actually take happiness into account.”
+
+Then why are you advising I take the option that could lead to others dying? Even if you’re looking at things selfishly, that’d obviously make me pretty unhappy.”
+
+“Right, and I have plugged that possibility into the equation. If we say there’s a sixty percent chance of Erani and Ainash dying at some point—”
+
+You aren’t starting off well with that number.
+
+“And say that them dying will reduce your quality of life by ninety percent for the next ten years, level of grief reducing at a linear rate, until you get over it—”
+
+And you aren’t doing anything to recover from the terrible start.
+
+“If you live for another, say, eighty years from Endurance extending your lifetime, that only comes out to an average of a one point zero four percent reduction of life quality. However, if we say that not taking the Talent leads to them guaranteed surviving, but now there’s a five percent chance you die each year—”
+
+And where are you getting these numbers?
+
+“I’m making them up to simplify things! But I’m not far off the real percentages with this. Anyway, if we say that death means a one hundred percent reduction in quality of life for the remainder of the number of years you would have lived had you not died, then you’re looking at a fourteen point three three percent reduction in expected quality of life! The numbers don’t lie, and they spell disaster for you.”
+
+Okay, listen. Maybe your math makes sense. I honestly didn’t follow well enough for me to argue there. But what if you took into account the “expected quality of life reduction” for Erani and Ainash, as well?
+
+“But it doesn’t make sense to take into account several people when trying to calculate for a single person. I mean, I guess if the perceived lowering of another’s QOL lowered your own, you could take that into account,” it continued to mutter to itself, “but then we have to start accounting for human perception, so I’d have to measure your propensity for things like confirmation bias, availability heuristic, susceptibility to the appeal to emotion fallacy—though, I guess we’re literally trying to calculate how that exact fallacy will affect you, so that would be self-referencing—but there’s still—”
+
+Woah, woah, I stopped it. Just pretend we aren’t calculating for a single person. Say…say you needed to calculate the average quality of life for a group of people. You’d just calculate each person separately, and then average the whole thing out, right?
+
+“I mean, I suppose.”
+
+So do that. Pretend Erani, Ainash and I are a single unit.
+
+Index sighed. “Fine. I guess if I did that…then sure, Spatial Flux wouldn’t do much to help. And even if I were to only care about your own life quality, then your knowledge that using Spatial Flux would still likely leave others dead would almost certainly reduce any stress-relieving properties the feeling of safety would usually have, so I suppose I’d have to take that into account, as well. …And maybe it would take you more than ten years to get over their deaths.”
+
+Thank you. So then, accounting for…all of that, what do you recommend?
+
+“Oh, I have no idea.”
+
+My shoulders slumped and I let out a sigh. Really? All of that for nothing?
+
+“You were the one who rejected my original suggestion. After taking into account sufficient emotional distress if your companions are endangered, it becomes virtually impossible to make any sort of accurate prediction. Especially when I don’t know what’s going to happen in your future. I mean, a single encounter—one person you meet saying something offhand that inspires you to do something different about the Demons, anything—could completely throw off my predictions. So you either accept the simple answer or accept no answer from me at all. I can still give you information so you can choose for yourself, though.”
+
+Okay, sure. Well for now I’m split between Cumulative Catastrophe and Future Sight. They both seem solid. But I’ll leave it at that for now. Even if I was absolutely sure I’d pick one or the other, I still have something else to look at before I make any permanent changes.
+
+“Ah, you’ve been saving this one for last, huh?”
+
+Yeah, I smiled. It’s time to see my second ever Time Loop Upgrade.

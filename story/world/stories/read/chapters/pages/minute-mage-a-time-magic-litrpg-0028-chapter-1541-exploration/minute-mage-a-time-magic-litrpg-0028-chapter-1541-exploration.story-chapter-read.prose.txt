@@ -1,0 +1,79 @@
+PART 1/2
+
+Erani closed her eyes as we both sat next to each other, leaning against the same wide trunk. “Okay, I’m going to try and make my choice.”
+
+“Cool,” I responded. “Let me know if you need any help deciding.”
+
+It was currently around five in the morning, so I contented myself resting next to a beautiful woman and watching the sunrise. My left leg and right arm still groaned in pain whenever I moved, but it was at least much better than it’d been before. My Health had recently passed 400 with the help of another activation of Regenerate, so the rate at which my injuries healed was greatly accelerated.
+
+Really, I probably should have reached my maximum Health of 520 by now if I’d been more attentive and had been activating Regenerate whenever I topped out on Stamina, but unfortunately it seemed like drunk Arlan was much worse at remembering to do that than sober Arlan was.
+
+But hey, at least activating Noxious Grasp was pretty much completely automatic for me. After the night that’d passed, with my insane Mana/Minute, it was already up to 961 Spell XP, though the requirement was an equally-staggering 1918. Still, not too difficult to get to when in just a couple Levels, my Mana/Minute would increase up to 100, meaning I’d be earning an entire point of Spell XP every single minute. Maybe even sooner, if Recycled Loop’s random Stat gains worked out well for me.
+
+I’d obviously already used one of my three allowed Time Loops today, but I didn’t plan on using the other two, so as long as we didn’t run into anything massive going wrong, I’d be able to move over to the next day with them both unused, and get two free Stat increases out of the ten I was allowed. If I could keep up that rate, I’d be up to my maximum within five days, and then I’d be good to go out and Level up so I could start the process over again. If I could keep that up for long enough, the gains would be…massive, to say the least.
+
+And it didn’t even take any work on my part, which was the best aspect of it all. It felt nice to have a reason to not go out and spend every waking moment trying to gather every spare point of XP available, for a change. Something that just told me to take a damn break.
+
+Speaking of taking a break, I’d been asleep all night in that bush, and my limbs felt really cramped up from it, so I decided to stand up and walk around a bit. Call it patrolling the perimeter, or scouting for threats, or whatever. I just needed to get on my feet and stretch. Plus, we’d probably be walking all day in our journey to town, and I didn’t want to be dead weight that Ainash had to carry like I’d been in the past since I hurt my leg. It was feeling a lot better now, so I felt like I may have been able to figure out how to safely walk on my own two feet as long as I gave myself a boost with Expedite.
+
+So I got up, and just started wandering the nearby area, staying in earshot of Erani in case she needed anything.
+
+Erani sat with her eyes closed, doing the breathing exercises she always went through in order to enter her meditative state. Minutes passed, and she slowly sunk into her own mind, until she was finally able to access and modify her Status. She had a Talent Choice and a Spell Choice to go through, so first, she began with the Talent, looking over the options.
+
+Choose one Talent to obtain:
+
+Mind Over Matter
+
+Type: Passive
+
+—
+
+Harness the power of your mind to bolster your physical abilities. For every 10 Conjuration you have, your Strength and Dexterity are each increased by 1.
+
+Elemental Embrace
+
+Type: Activated
+
+Cost: Health, Stamina, and Mana equal to 5% of your maximum Mana (94.5 Health, Stamina, and Mana)
+
+—
+
+Your body and spirit become in tune with the elements, enhancing your offensive Spells. Whenever you cast an Elemental-School Spell that deals damage (Cold, Fire, Aqueous, etc.), you may activate this Talent to trigger an Elemental Surge. The Surge increases the Spell's damage by 400% and infuses it with a secondary effect related to the Spell’s Elemental School and scaling in power with damage dealt, such as burning, freezing, or stunning the target.
+
+Expanded Capacity II
+
+Type: Passive
+
+—
+
+Your Mana reserves become more plentiful. Maximum Mana is increased by 100%. Taking this Talent replaces Expanded Capacity.
+
+This was a decision point that she saw herself having quite a bit of trouble on. The most common route was to simply continue down the “cast an overwhelming number of Firebolts and deal an overwhelming amount of damage” route by taking Expanded Capacity II. Doing so would replace the original Expanded Capacity Talent that increased her maximum Mana by 50% with the new one, which increased by 100%. In total, this would raise her maximum Mana from 1890 to 2520—over 600 additional Mana in her pool. However, that was the most common choice for a normal Sorcerer in normal circumstances.
+
+Some of the guides she’d read detailed paths that went with these other two options—Mind Over Matter and Elemental Embrace. These Talents definitely required a decent bit of setup and a solid change in fighting style. Mind Over Matter was one that was clearly intended for someone with high Conjuration. Erani currently had 126, meaning she’d get an extra 12 Strength and Dexterity. Certainly tempting—the baseline precedent set for Talents that increased a Stats was that they’d normally give between ten and fifteen. So this Talent giving 24 was significantly above-rate. A good pull for her to go in that direction.
+
+Only, it would be if she didn’t already have 50 of each of Strength and Dexterity. If she was still in a position where she just had 10 in all of her physical Stats, then raising two of them to more than double their original values would be great. But now…it didn’t really appeal to her. Sure, she could get a bit extra, but would the difference even matter? Even if it continued to rise as she Leveled, she didn’t really feel like the difference would do much.
+
+Elemental Embrace was also a Talent that had her evaluation of it completely shifted due to her Bond with Ainash. Normally, a person would have to know they’d be going for Embrace from day one of getting their Class, and would need to consistently spend a few of their Stat Points each Level increasing their physical Stats so they could pay the high cost of its activation. But, again, she suddenly had the Health and Stamina to spare in order to do so. Without the Bond, her Health would still be 100, and she wouldn’t even consider a Talent like this, which would cost her almost all of it and would only get more expensive with time.
+
+So, obviously Elemental Embrace was made better by the Bond. However, she also had made some suboptimal choices in the past which made it worse. Normally, a strategy going for Embrace would take Ray of Frost as the Level 10 Spell, since it was Elemental-School and would get the bonus from the Talent. But Erani had taken Angelic Shield, which had no synergy with it whatsoever. And the Talent wasn’t a very popular one to begin with, either.
+
+The typical strategy with it would be to use Signature Magic over the course of a fight, constantly increasing the damage of your Spells with every cast of them, until you saw an opening and used a single, super-powered cast with Elemental Embrace to have all of the damage-boosting effects multiply together and win the fight in a single shot. But most people considered the cost of assigning Stat Points to the physicals to be much too great for that strategy to be viable. But Erani didn’t have that downside, which completely shifted that evaluation. But also people didn’t like it because it would lock you out of continuing to upgrade Expanded Capacity not only to Expanded Capacity II but also to Expanded Capacity III in the later Levels.
+
+So what was best? Common knowledge? Or trying to move away from the beaten path and utilize the specific strengths she’d been given?
+
+Using Expedite, I was able to walk somewhat comfortably on my still-injured leg. While, when I wasn’t used to the Dexterity boost, the Spell made fine motor movements basically impossible, once I was used to it, it actually made that precision much easier to achieve. So, by using high Levels of Dexterity from multiple casts of Expedite, I was effectively able to memorize specific ways I could walk and make tiny micro-movements to avoid irritating the wound while walking. Not a perfect solution, since it required me to spend so much Mana keeping myself buffed with Expedite, but it was an interesting find nonetheless.
+
+So for a few minutes, I paced around the nearby area practicing my method of assisted walking with Expedite. Not too far away, I could still see the outpost with Bon and the rest of the soldiers, something that made me feel constantly anxious. I knew they weren’t technically my enemy, but…I just needed to get away from them soon. The eyes on me. I didn’t like it.
+
+As I wandered around the area, gazing at the flat landscape, I turned around to suddenly see something approaching me. It didn’t really seem like it was coming at me directly, but rather wandering like I was, happening to be heading in my direction. And it was…a Bull? Or a Wolf? Perhaps a mix of the two. It was clearly a monster I hadn’t ever seen before.
+
+It stood at a slightly lower stature than a bull would, but still seemed to carry that weight and power behind its legs, and it also had the same two horns sticking out of his head. Its skin, however, was covered in a thick coat of messy fur, shaking up and down as it meandered across the grass. The red coloring of its coat shone in the morning sun, a dark, royal hue that gave off an air of elegance the messiness of the fur did its best to undo. And shining through that dark red was a light purple, seeming to come from the unseen veins beneath the beast’s skin.
+
+It obviously saw me—I was doing nothing to hide myself—but seemed to be attracted toward me regardless as it made its way across the tall grass in my direction.
+
+I turned and faced the thing, eyeing it curiously; to tell the truth, I wasn’t too worried about an attack. Not only was it clearly showing no real hostility, but it also probably wasn’t very high-Level, considering I’d never heard of it before. Bon and the rest of the guards had said nothing about them either, even when they were speaking about the different types of dangerous monsters they faced while guarding the mountain pass. So I simply stood and watched it approach.
+
+As it came closer and closer, I noticed some other fine details of the monster. Its dull eyes were complemented by wide nostrils which, with every exhale, breathed out a puff of purple fumes that spread out into the grass beneath it. And, as the smoke seeped into the green blades and brown dirt, they seemed to visually desaturate, the dirt going gray and the grass slowly wilting.
+
+It continued approaching, now looking straight at me. Or, no, I realized. Whenever I let out a subconscious puff of Noxious Grasp myself, activating the Spell every few seconds, I saw its eyes flick down to my fingers as the Spell’s own fumes fell from Dark Plate’s gauntlets. We seemed to have a shared ability with our respective smoke creation, and the monster seemed to recognize that. I wondered what it must’ve thought I was.

@@ -1,0 +1,141 @@
+PART 2/2
+
+I watched as Bon brandished his bloodied sword against the now-hostile monster.
+
+“Get out of the way, don’t steal our kill!” he yelled at me.
+
+I frowned and instinctively backed away from him. “Uh, what’s going on? Were you guys hunting this thing?”
+
+“Yeah,” Jannin said. His warhammer was still strapped to his back. “Bon’s decided we’re going on a ‘training expedition,’ which is something we literally never do.”
+
+“Uh-huh,” I said, still surprised by their sudden appearance. We weren’t too far off, but I hadn’t thought they’d be coming down the road toward us. “Well, I guess I’ll get out of your way, then.”
+
+“That would most likely be for the best,” Poppins said, a hint of caution in his own voice.
+
+Before I could do anything, though, the monster Bon had attacked charged at him, lowering its horns in an attempt to gore straight through his gut. He readied his blade and attempted to deflect the attack, but just got thrown aside regardless.
+
+“Um,” I called out to him, “you might wanna dodge rather than parry. That thing seems like it carries a lot of weight behind it, so it’d probably be a lot safer to—”
+
+“Don’t tell me how to fight!” he scowled back at me. “Didn’t I tell you to make yourself scarce? You think you’re better than me, just because you beat me once? When I was drunk?”
+
+He turned back to his opponent with a grunt, readying himself for another strike as the beast bellowed out a lungful of fumes that covered the ground nearby. I took another step back.
+
+Jannin looked back at me again. “He’s pissed that he lost. What Level are you, anyway? Seems like it was enough for you to beat his ass even when you were smashed.”
+
+“Oh, y’know,” I shrugged, “high enough, I guess.”
+
+“I’d bet it’s flamin’ high, if you got through Empire’s Edge,” he chuckled. “Clearly enough to make Bon feel insecure about—”
+
+Poppins grabbed him and pulled him away from me, whispering in a harsh tone that I could still hear, “Stop fraternizing with the man! We don’t know much about him, he could be dangerous.”
+
+Bon took two steps forward and swung his broadsword in a wide arc, attempting to cleave across the beast’s face, but it took a step back to avoid it. It seemed like Bon—consciously or not—was avoiding getting too close to the thing. His strikes were all from just slightly too far away—a mistake I remembered seeing plenty of my sparring partners make from before I’d gotten Classed.
+
+It happened with newbies a lot; their nerves would get the better of them and they’d instinctively stay far back, leaving their attacks weak and allowing a patient opponent to simply wait for an opening. It was the simple truth of a fight that you had to get a little reckless sometimes and put pressure on your opponent to act quickly. Staying defensive would allow them to only attack when they were absolutely sure they could get a good hit on you, while you never hit them at all. A fine technique if your only goal was to drag the fight out, but horrible if you intended to eventually win. Even if they only hit you once every twenty seconds, if you weren’t hitting them at all, you’d still end up dead.
+
+“Bon,” Poppins called out to him, “do you want us to help you? I know you said you wanted the Contribution, but—”
+
+“Just get that jackass out of here!” Bon yelled back.
+
+“Hey man,” I raised my hands, “I really am sorry about all that. I was drunk, and obviously a bit too used to solving my problems with violence. But I promise I won’t pull shit like that in the future, if you can forgive me.”
+
+Poppins opened his mouth to answer, but before he could, I heard a shout from behind me.
+
+“Hey,” Erani called, “you mind helping me pick something?”
+
+“Oh,” I called back, “I, uh…”
+
+“Yeah, why don’t you go talk to your lady friend, if you got so big a crush on her,” I heard Bon interrupt me with a shout as I looked back at Erani. “Just get out of here and let me do my job! I’m trying to protect the people from this—”
+
+I turned around to see Bon getting run over by the monster, which roared in anger and blew out a cloud of poison smoke right into the man’s face.
+
+“Oh, shit!” I ran forward to his help, alongside Jannin and Poppins, who both drew their weapons when they saw Bon take the hit.
+
+“What’s going on?” Erani asked. Her eyes were still closed, so I was sure she’d only just now been made aware of the fact that other people were here.
+
+“No danger, sorry!” I yelled back as I ran forward and helped Poppins drag Bon back, away from the monster, as he coughed profusely and Jannin took his place, warhammer in hands.
+
+“...Do I need to stop meditating? It sounds like there’s danger.”
+
+“No, seriously, I’ll tell you if it’s serious,” I said. “It’s just those guards, they’re—”
+
+“You’re saying this isn’t serious?!” Poppins demanded. “He’s hurt!”
+
+I sighed. “No, as in, she isn’t in any—look, I’m trying to help, man.”
+
+“If you want to help, get your hands off of my friend. You’re so good at fighting, go kill that thing.”
+
+“Fine,” I rolled my eyes and got up. It was probably a good idea to get rid of the rampaging monster so I could go talk with Erani, anyway.
+
+“Just pointing this out,” I heard Index in my ear, “it would technically be optimal to do nothing here. Do what Bon said and just leave them alone, or better yet, pretend to help but intentionally get ‘knocked out’ by the monster. Bon’s still low from your attack last night, so one more hit will take him out, and getting rid of someone who doesn’t like you will—”
+
+No, I thought, that’s definitely too far. I’ll help out.
+
+“Hey Annor,” Jannin said as I walked up beside him.
+
+“Oh, uh, hey,” I said, for a moment forgetting the fake name I’d given them.
+
+“You a frontline or backline fighter?”
+
+“Frontline, I guess,” I said, absentmindedly casting Crippling Chill on the monster, which was pawing the ground in preparation for another charge.
+
+You have cursed Level 8 Gloomspur with Crippling Chill. For the next 15 seconds, it loses 7.76 Health and 6.21 Stamina each second, and its Dexterity score is lowered by 15.5.
+
+56.2 Mana Cost. Your Mana is 1259.
+
+Gloomspur, huh? Interesting name. And only Level 8? Yeah, this wouldn’t be a problem.
+
+“Actually,” I said, “just let me take it for a moment. Step in if it seems like I’m in over my head.”
+
+Jannin shrugged. “Sure. Less work for me.”
+
+I stepped forward, toward the Gloomspur which was now visually wilting under the effects of Crippling Chill. As the seconds ticked by, I felt a ticker in my mind continually update.
+
+Cumulative Catastrophe is increasing all damage and other numerical effects dealt to Level 8 Gloomspur by 3%.
+
+If 6 seconds pass without you damaging Level 8 Gloomspur, reset this boost for Level 8 Gloomspur.
+
+But despite the damage and debuffs, it charged right at me, though clearly more labored in its movements. Just as it got within reach, I activated Gravity Well to surprise it, grabbed onto its fur, cast Sanguine Bond, activated Noxious Grasp, shot it point-blank with a Ray of Frost using the hand grabbing it, and…
+
+It collapsed. Under the cocktail of debuffs and drains and continuous damage sources, it went limp under my hand and fell to the ground. So I just bent down and placed a hand on it to finish it off with Grasp.
+
+“Woah.” Jannin said. “Uh…what did you do?”
+
+Bon sat up, rubbing his head. “What the…What happened?! What did I say about stealing my kill?!”
+
+You have offered major contribution toward the slaying of Level 8 Gloomspur.
+
+You have earned 46 XP. Your XP is 434.
+
+“Whoops,” I said, pulling my hand back. “Got kinda carried away. I was just focusing on disabling it so it wouldn’t hurt you, and…”
+
+Bon scoffed. “Yeah, carried away. You sure do that often, huh?”
+
+“Uh, hey,” Erani called once again, “everything alright over there?”
+
+“Oh, right, yeah, it’s all going fine,” I called back. “I’ll be over in a minute.”
+
+Just as I said that, though, I heard an ear-splitting roar from far-off. Looking over, I saw the larger Gloomspur that had, until now, been standing around watching us. It was slowly stomping forward, gradually growing faster and faster.
+
+Uh, Index, I thought, this thing isn’t, like, dangerous, right?
+
+“No, not really. You can take it on without Erani’s help, at least. Well, it’s certainly extremely dangerous to those other three guys. Couple of them will probably die from collateral damage from this fight. But I see that as a win, so it’s okay.”
+
+I sighed. Well I should probably take care of this.
+
+“Hey,” Jannin said, grabbing my shoulder. “I know you’re new around here, but that thing’s bad news. Gloommothers are super dangerous. May be slow-moving, but they’ll kill you quick if you get too close. You should probably get out of here.”
+
+“Nah,” I said, “no sense in that. If it’ll give you guys trouble, you should head out, though. Bon’s low on Health, right?”
+
+“Yeah,” Bon said, getting to his feet and brushing himself off. “Thanks to you. C’mon men, let’s get going. Don’t wanna spend another second around here.”
+
+“Yeah,” Poppins said, helping him walk off. “I think it’d be best for you to go lie down and try to heal back up.”
+
+“I don’t need rest! I just wanna get away from this man trying to kill himself. Don’t wanna get blood on my gear.”
+
+Jannin just sighed and shook his head. He looked back at me. “I really think you should get out of here, too. You got about fifteen seconds.”
+
+Then the three of them started walking off. Looking back at the massive charging monster—a Gloommother, it was apparently called—it seemed like the thing didn’t even notice their departure. It was completely locked onto me, the killer of the smaller Gloomspur. It continued in its warpath, knocking over trees and crushing bushes beneath its hooves while slowly moving from a walking speed to more of a trot. About fifty paces away now.
+
+Well, I supposed it was time I tested out my new power on something that could actually fight back, anyway.
+
+“Hey,” I called back to Erani, “I’ll be a minute. Just gotta take care of something.”
