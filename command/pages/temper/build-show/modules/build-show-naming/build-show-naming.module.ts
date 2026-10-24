@@ -29,7 +29,11 @@ export const buildShowNaming = {
       statement:
         "A reading's id is named by its start, and a start fitting two readings is refused.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Only the reading lines holding that start are read as readings.",
+    },
   ],
   createdAt: "2026-10-20T14:29:46.979Z",
-  updatedAt: "2026-10-20T14:29:46.979Z",
+  updatedAt: "2026-10-24T20:00:36.318Z",
 } as const satisfies Module

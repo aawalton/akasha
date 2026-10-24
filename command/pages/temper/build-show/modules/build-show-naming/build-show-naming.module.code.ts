@@ -47,16 +47,27 @@ function buildPageNamed(root: string, said: string): Naming | null {
   return null
 }
 
-function linesOf(root: string, path: string): readonly ReadingLine[] {
+function bodyOf(root: string, path: string): string | null {
   const at = besideAt(path, readings.propertySlug, "jsonl")
-  if (at === null) return []
-  let body: string
+  if (at === null) return null
   try {
-    body = readFileSync(join(root, at), "utf8")
+    return readFileSync(join(root, at), "utf8")
   } catch {
-    return []
+    return null
   }
-  return readingLinesIn(body).lines
+}
+
+function linesOf(root: string, path: string): readonly ReadingLine[] {
+  const body = bodyOf(root, path)
+  return body === null ? [] : readingLinesIn(body).lines
+}
+
+function startingIn(root: string, path: string, said: string): readonly ReadingLine[] {
+  const body = bodyOf(root, path)
+  if (body === null) return []
+  const key = `"id":"${said}`
+  const kept = body.split("\n").filter((one) => one.includes(key))
+  return readingLinesIn(kept.join("\n")).lines.filter((line) => line.id.startsWith(said))
 }
 
 function fromReading(said: string, line: ReadingLine, how: string): Named {
@@ -90,7 +101,7 @@ function characterNamed(root: string, said: string): Naming | null {
 function readingNamed(root: string, said: string): Naming | null {
   if (!READING_ID.test(said)) return null
   const found = everyOfType(root, temperAccountCharacter.slug).flatMap((one) =>
-    linesOf(root, one.path).filter((line) => line.id.startsWith(said))
+    startingIn(root, one.path, said)
   )
   const only = found[0]
   if (only === undefined) return null
