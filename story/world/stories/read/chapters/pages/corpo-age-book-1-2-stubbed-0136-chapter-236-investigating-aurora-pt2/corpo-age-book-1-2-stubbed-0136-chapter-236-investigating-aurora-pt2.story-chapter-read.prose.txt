@@ -1,0 +1,133 @@
+With the elevator doors opening, Thorne and I were forced to leave. Otherwise, people would get suspicious of us for wandering to other floors where we had no business.
+
+I nodded amiably to the intern who had pressed the button for us before the doors closed behind us. As we got out, we were ready to go invisible, but we first had to ensure no one was within sight.
+
+Unfortunately, the hallway where the elevators were was sandwiched between two large office rooms that had fully transparent glass walls. We were exposed with nothing to hide behind. The only other place was the washrooms off to the side, located just outside of the two offices.
+
+Dozens of workers could be seen on the other side of the glass, which meant the reverse was also true. They could see us.
+
+I quickly established an internal call with Thorne. The jammer they had in place only affected signals leaving the building. Within this bubble, we could still stay connected.
+
+“Don’t press the button right away! It’ll trigger an alert for employee misconduct!”
+
+“How about the staircase, then?"
+
+“Same thing. If their security notices us backtracking, it’ll flag us for suspicious behavior. If only we weren’t forced to get off here. Their monitoring system likely wouldn’t be alerted if we wandered around a bit as long as it wasn’t anywhere restricted.”
+
+“Then what, Rollo? We have to move quickly before anyone notices anything.”
+
+“Hmm, maybe we head into the office on the opposite side of our originals and make up an excuse to bring a document somewhere? No, that’s still too risky. We’re going to have to work our Shades a little earlier than expected. Follow me.”
+
+I briskly walk over to the washrooms.
+
+“Wait, don’t follow me. You’re going to the ladies’ room, remember?”
+
+“Yeah, yeah,” Thorne mumbled. “Look what you almost made me do.”
+
+A sigh could be heard through our call before we briefly parted ways. We then turned on our active camouflage in the stalls and rushed out toward the stairwell.
+
+“We have to get to somewhere connected to their security room. I have to at least take care of the cameras quickly before we roam. Otherwise, our Shades will overheat sooner than later.”
+
+“We should split up, then!” Thorne exclaimed. “We’ll cover more ground that way.”
+
+“Not right now. Maybe after we get the cameras. Otherwise, we won’t be able to keep our call going if we’re too far apart. That’ll be too dangerous with no comms.”
+
+The entire building was over fifty floors. Being stranded on the fourteenth, I naturally climbed up the stairs, searching for a place that was connected to their monitoring systems. If all else failed, I could always use the cameras scattered all over the place, but that only allowed me to send in tampered data and nothing else. To really manipulate and monitor the security system, I needed a connection.
+
+Time wasn’t on my side as our cybernetic version of the Shade overheated much quicker than the power armor version that had ample heat sinks. Thankfully, I felt no fatigue whatsoever from rapidly climbing up flight after flight of stairs.
+
+I only stopped when I saw the halfway point, floor twenty-five.
+
+We wasted no time and stressed my Shade even further by making them generate a holographic image to cover the door. This allowed us to open it without being noticed. Just like on the fourteenth floor, the twenty-fifth floor had the same layout.
+
+The elevators were in the middle, with two large offices with large glass dividers.
+
+I guided Thorne into one of these offices despite the crowd of corporate office workers going about their day. We strode around the place, spying on the terminals they were on. I needed one that had direct access to their security room.
+
+As I stalked behind the employees to confirm whether their terminal was the right one, Thorne suddenly called out to me.
+
+“Look over there at the guy with the mug. That guy should be the manager. You think his terminal will have what you need?”
+
+“Hmm, maybe. I’d prefer finding a security booth, but it may work.”
+
+I moved over to the man in question and hovered behind him. Then I took a trick from my old playbook and proceeded to accidentally knock his cup over, spilling the contents all over his suit.
+
+“Fuck! How the—” He paused mid-speech upon noticing the gazes he was receiving from his subordinates and just angrily stood up and walked away.
+
+I grinned at how effective the trick was as I turned to my partner.
+
+“Thorne, go relieve our manager for the rest of the day.”
+
+“Roger that.”
+
+I then hopped onto his terminal once the coast was clear.
+
+Very quickly, I was able to find that his terminal did indeed have access to the security room. He was able to send messages to them, though he couldn’t do much else. It wasn’t exactly what I was looking for, but it was enough.
+
+I took the time to scour through the terminal, particularly looking for the employee manual. Reading over it, I then compiled a short message following the prescribed format. The content of my message basically reported that my terminal had suffered liquid damage and that the other party started the relevant security protocols to prevent the damage from spreading. I made sure to end it off with a typical complaint about how flimsy the equipment was and asked them to fix the issue immediately.
+
+Of course, the message included the programs I wanted to reach their servers. Only a minute after sending it, I received a notification that my program was successfully installed on the system on the other side.
+
+However, I only had access if I remained at this terminal. Long-range wireless communications weren’t possible with the jammer active, and even if it did, it would definitely alert Aurora to my location. There wasn’t anything to be worried about though, as I had prepared for such a situation. My sabotage program could automatically loop camera feeds, so we likely had a few hours before anyone noticed.
+
+With that done, I quickly went to find Thorne. As expected, he was in the men’s bathroom, dealing with our manager inside a stall.
+
+“Are you done over there, Thorne?”
+
+“Yep. Just making sure no one would disturb our friend’s little nap.”
+
+“Well, we can split up now. You sure you’ll be fine?”
+
+“I know what to look for. Don’t worry.”
+
+“Remember, two hours max and we have to retreat. Don’t want to be calling it close.”
+
+“Roger that. See you in two hours!”
+
+With that, the two of us split off. Thorne decided to head to the floors above while I went to the ones below.
+
+While we didn’t have access to our powerful power armor, we had ample experience to make up for it. Back in the old days, we had hunted down harvesters and the like with just our Shade. It just meant we had to be smart about it, finding places where we could rest our cybernetics.
+
+I methodically searched the place floor by floor. When I could, I would listen in on the surrounding conversations to see if there was anything useful.
+
+Unfortunately, all I got, in turn, were complaints about their hours, wages, or workplace relationships that involved plotting behind their coworkers’ backs.
+
+It became boring searching through all the identical-looking offices. That changed when I arrived at the tenth floor. Instead of office space, it was a gymnasium for their security personnel to train.
+
+There was a shooting range off to the side, but the main attraction was how a quarter of the floor was dedicated to an arena where people sparred.
+
+At first glance, it appeared to be purely recreational, as the exercise didn’t seem to have a significant battlefield application. They were simply fighting each other with fake blades and their augmented strength, so I quickly moved on.
+
+My mind changed when I visited the next section, where half a dozen men were practicing with various gadgets.
+
+A C-Class company like Aurora Corporation wasn’t just for show. From the live demonstration before me, I could see that they possessed powerful assets that could easily catch people off guard.
+
+I recognized several commercial cybernetics and weapons in this testing area, being subjected to a barrage of EMP weaponry that included grenades and drones. Unlike the typical product available on the market, it was apparent their EMP arsenal was significantly more potent, designed to work against EMP-resistant electronics.
+
+Then there was the energy shield they had. The normal model was a small device that could envelop its user, but theirs came in a large variety. They had riot shields or even a full suit that displayed a powerful defensive ability. I watched as numerous railgun rounds tried but failed to penetrate any of their equipment.
+
+Seeing all this, it wasn’t hard to conclude that they excelled in disabling the ranged weaponry of their opponents before closing the gap with their defensive advantages. I hadn’t exactly seen what they could do mobility-wise, but there was likely a surprise in that department, too.
+
+If they’re alerted to our presence, it won’t end well for us if they throw hundreds of EMPs at us.
+
+Sensing the danger they posed, I didn’t hesitate to pocket a few of their devices when I could. It couldn’t compare to actual schematics and research data, but it would be enough to evaluate how we pair up against their gear.
+
+After that, I watched them spar for a little longer before running off to continue my investigation.
+
+Before I knew it, two hours quickly passed, and I still had four floors to go. I would have to forgo them for now and rendezvous with Thorne.
+
+The trip out was much simpler. I just had to make sure my Shade was sufficiently cooled down and then make for the exit in one go.
+
+I didn’t disable my active camouflage until I was a healthy distance away from Aurora’s headquarters. On my way out, I tried calling Thorne to no avail. It meant he wasn’t out yet.
+
+I called for a car and waited.
+
+To kill time, I had the vehicle circle the block around Aurora Corporation. Just like in Soluna, there was plenty of air traffic with aeromobiles. Just as I was zooming in on the building, a large cloud of orange fire burst out from one of the windows.
+
+Tiny shards of glass rained down onto the streets, with numerous flying vehicles swerving away for safety.
+
+Shit.
+
+As I gathered my resolve to enter the fray to rescue my friend, I suddenly received a call from the man in question.
+
+“Can you come pick me up? I got some extra baggage with me.”

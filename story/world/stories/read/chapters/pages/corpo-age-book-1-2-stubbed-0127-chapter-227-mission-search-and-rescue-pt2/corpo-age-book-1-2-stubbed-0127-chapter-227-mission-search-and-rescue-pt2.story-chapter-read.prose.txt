@@ -1,0 +1,127 @@
+I watched the target ship grow bigger as we closed the distance, and the moment for us to make contact drew near. It was time to board the pirate ship to carry out our mission.
+
+“Mil, make sure Upty keeps your ship far away until we give the signal,” I reminded.
+
+“She knows. We aren’t stupid enough to alert them.”
+
+“Yeah,” Ella supplemented. “You should be worried about the mission instead.”
+
+I nodded and didn’t bother with them anymore as I focused on the ship’s controls. While Lanus did the bulk of the work, we were at a crucial point in time, where we had to monitor the readings. The enemy ship didn’t appear to be equipped with any large armaments, but they were still a group that had access to energy shields. It wouldn’t be surprising if they had something else hidden under their sleeve.
+
+Ship-grade energy shields were one of the most advanced types of defensive technologies known. It not only blocked both projectile and energy weapons, but it was also crucial to enable ships to maneuver in areas with a lot of debris at high speeds.
+
+When space vessels reached high speeds, bumping into anything could cause serious damage. Energy shields remedied that, so it was almost mandatory for long-distance space travel. Of course, it came at various strengths, depending on the technological prowess of the owners.
+
+The type currently before us was of the more advanced variety in terms of function. It allowed the shield generator to stay active over a long period of time, albeit in a low power setting. Only when it was faced with a threat did the shields power up. The question was how much it could endure when it did. The added function meant it was weaker than the simpler models.
+
+Everything had tradeoffs. With its fancy functions, it shouldn’t be as durable either. Hopefully, I would never find out exactly how powerful it was. I would rather slip by undetected.
+
+Our ship soon entered detection range. If we didn’t equip it with the stealth coating and sensor deceivers, they would instantly find us. I could see Ella, the black-haired girl accompanying Mil, tightly grabbing onto his arms as they waited for a reaction. A few seconds passed, and I found her staring over at me.
+
+“They really can’t detect us yet?”
+
+“Yes. Echo, we’ve confirmed their sensors don’t work against us. Set us at full throttle!”
+
+Before Echo, who was Thorne in disguise, could respond, Ella chimed in.
+
+“Are you serious? You want to test our luck now? It’s already impressive we have gotten so close without detecting. Increasing thrust will just ruin everything.”
+
+“It’ll be fine,” I assured. “We built this thing with these infiltration missions in mind.”
+
+“Built? More like jury-rigged a few failing parts together. Let me tell you, things always go wrong. Don’t trust your tests so much.”
+
+“Now, now,” Mil interjected. “We’ve already agreed to follow their plan. It’s too late to be questioning it now.”
+
+I ignored their bickering as we started to speed up. I never doubted our ship’s capabilities of avoiding sensors. The real challenge was getting through the energy shield undetected.
+
+While energy shields didn’t block slow-moving, high-mass objects, it didn’t mean it couldn’t detect them. It could easily detect whatever comes into contact with it. The disruptions in how the energy was dispersed were an easy tell. Their shield systems would instantly alert them.
+
+This function wasn’t something in infantry-level shields. There would be too many things in an urban environment that could disrupt the shield to set an alert for, and useless in a combat situation. After all, it would be too late to alert the user that a melee weapon had drawn near. The power armor versions barely extended more than several inches away from the body. There would only be a split second between the time a melee weapon would be detected and making contact with its victim.
+
+That was why I had to explore how to bypass ship-grade shields from scratch. Its persistent use in both ships and hangars meant the function of detecting vessels was mature technology. The disruption in the flow of energy was too obvious to mask.
+
+The way I believed would work was by analyzing the shield from a distance and having emitters project the same frequency of energy to substitute the hole we would be making as we passed through. It would fool their system into thinking their shield was still stable.
+
+The amount of calculations required to make this succeed was staggering, so everything was up to the copy of Lanus that operated this ship.
+
+Time passed by quickly and very soon, my theory was put to the test.
+
+Everyone on the ship watched on with tense expressions as we inched closer toward the blue energy shield. It felt like the world went still when we made contact with it.
+
+“Ready the railguns to be fired at any moment, Echo,” I said.
+
+“Way ahead of you on that one. They’re already locked on to our target.”
+
+I could see from my company software that Thorne had the fire button hovered on his SAID. He was prepared.
+
+The next ten seconds painfully passed by before we slowly began to recognize we hadn’t been discovered. Either that or the enemy decided to play it off for the moment.
+
+“We—we did?!” Ella muttered. “They’re not launching anything at us or reacting at all. We could throw a nuke over at them or send saboteurs to place explosives across their hull at this range. They seriously can’t detect us?”
+
+“It seems like you’ll need to prepare yourself for some boarding action,” Mil gleefully commented.
+
+His words rang true as we prepared our mission. We got into the boarding pods and were quickly fired toward the hull of the pirate ship.
+
+I made sure to disable the setting to breach through the hull, as we wanted to make use of our advantage of being the unknown. The later they found out about our presence, the better.
+
+This made our pod slow down and hover in parallel to the enemy ship, and we disembarked. We were virtually next to their ship, so we only had to make a small leap to cross over.
+
+“Hey, you two. What are you doing?” I inquired. “Hook the cable onto the ship, so we don’t lose you if you mess up.”
+
+It was their there turn to forgo replying, as they made the jump unassisted. I took in a deep breath as they easily crossed the gap. If any mistakes were made, it could easily result in them floating around in space with no way to stop. It was a nightmare scenario, and one I was glad it didn’t happen.
+
+Soon, Echo and I did the same jump. The four of us then spread out to search for any possible entry points. It was more like the three of them, as I admit I was busy inspecting the various ship instruments on the exterior of the vessel.
+
+There were a lot of devices to learn from without even considering the military significance of the small turrets they had installed. I studied them until I received a message about possible infiltration points.
+
+It wasn’t a small air vent or anything, but actual entryways equipped with airlocks. It was the safest and easiest, among other options. With my hacking prowess and carefully prepared software tools, the door opened within a few minutes.
+
+We were soon greeted by the cold metal walls of the facility with no one else in sight. It was here where we needed to begin splitting up and exploring. The exact blueprint of this pirate ship wasn’t public knowledge, so we had to map it out ourselves.
+
+“You two wait here. We’ll call you once we map the place out,” I said to my two partners.
+
+They casually nodded, and Thorne and I immediately left.
+
+We explored the ship without alerting anyone. We would let any personnel we came across go by, as we weren’t prepared to give ourselves away yet. That would come after we learned where everything was.
+
+For the next hour, we strolled around the ship. It was huge, as expected, of a vessel that could handle hundreds of occupants. There were so many rooms to explore that it was starting to feel tedious. Thankfully, it didn’t take us long to find a wall terminal to jack into, gaining us access to the internal systems.
+
+“It seems like people only frequent one half of the ship. Look, there are our prisoners here.”
+
+“There sure are quite a number of pirates, but this shouldn’t go too different from the usual,” Thorne confidently replied.
+
+“Let’s get to work, then. It’ll take us some time to transfer three dozen prisoners.”
+
+We quickly sent out the new information to our allies while we made our way to the prisoners first. The mission was to focus on capturing two enemies, and the prisoners were secondary, but it was up to us for the final decision.
+
+These prisoners could possess talent that my company could use. Even if not, they would be the ones to assist me in spreading some propaganda across Soluna.
+
+Taking out some restrainers, Thorne and I got to work. We would silently walk up to the guards while invisible, and slap the wristbands onto their limbs in one swift motion. Our speeds were so fast after our latest round of upgrades that we no longer even needed a weapon against these rabbles.
+
+The pirates were well-armed in the civilian sense, but to well-funded corporations, they were still a far way off.
+
+With laughable ease, we secured the brig area where three dozen captured corpos lay.
+
+“How do you want to do this, umm-Shake? Even with our allies, it’s not going to be easy herding three dozen people with just the four of us.”
+
+“Yes, we’ll have to explain to them the situation first, so they listen to us. Let’s round them up. I’ll go to where the terminal is and open the cells in order. You brief them as they walk out.”
+
+We came up with a plan and put it into action. I sat down at the entrance of this brig, breaching into their systems. With every hostile in the room restrained, I had uninterrupted access to their systems.
+
+I began typing away, unlocking the cell doors.
+
+I watched as Thorne addressed the occupants of the first cell. Having to wait for him to finish before unlocking the other doors, I took the time to explore the files found on this terminal. Many parts of it were heavily encrypted, so I discreetly sent the files over to our ship, where Lanus could crack them for me.
+
+It sounded roundabout, but it was all done within a few seconds.
+
+Very soon, I discovered all the files were on the prisoners here. It had their history, how much they owed, their medical information, and the preliminary results of the tests they were forced to do. It was all pretty boring stuff, so I began eavesdropping on Thorne instead, to see how he handled the prisoners.
+
+“Don’t worry, everyone. I know what it’s like to have some strange men suddenly come to say they’re here to save you. However, I assure you that your fate wouldn’t end well if you allow these deranged people to take you away to do with you as they see fit.”
+
+It was then I was reminded that Thorne had been in a similar position to them once. In fact, it was even worse because his mom was captured along with him, and neither of them had done anything wrong. The people today at least had their debts to blame, but in Thorne’s case, it was plain bad luck.
+
+Having remembered this part, I frowned when I glanced back toward the files I had been reading. The documents had the name of a corporation plastered at the top of the page. It wasn’t a name I immediately recognized, but it felt familiar. I quickly tapped into my saved database on my SAID to dig up the name.
+
+When I found a match, I couldn’t help but bring my hand up to cover my mouth.
+
+“Shit,” I murmured.

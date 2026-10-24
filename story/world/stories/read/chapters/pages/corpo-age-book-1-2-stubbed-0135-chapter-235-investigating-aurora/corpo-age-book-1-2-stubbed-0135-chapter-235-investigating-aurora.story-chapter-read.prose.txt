@@ -1,0 +1,147 @@
+After our little outing on Phobos Station, Thorne and I headed straight for Mars next. Contrary to the planet I knew, it was prospering with dozens of cities, and several space elevators connecting them to outer space.
+
+With less than forty percent of Earth’s gravity, it was much easier to build a space elevator there. After years of terraforming, Mars could be said to be even more prosperous than Earth. The only area where Earth had it beat was in population.
+
+Mars was catered toward wealthy corpos, with a majority of the workforce being robots and automated systems. To those who could afford it, it was a paradise, free from the typical violence and suffering.
+
+It was in such a place that we would attempt to infiltrate into Aurora’s headquarters. If we were discovered, we would literally be breaking the peace and possibly offending countless inhabitants of the planet.
+
+With that in mind, we landed in Redspire, the city where Aurora’s headquarters was located.
+
+As soon as we checked into our hotel room, we went into the washroom shower. I knelt down and my cybernetic arm transformed into that of a screwdriver. Using it, I opened the drain cover and sent a Nye down. After a few moments, it spotted a tightly wrapped package the size of a paperclip.
+
+It was what one of our agents in our intel department had left behind. It was made from a material that was able to hide from most scanning attempts.
+
+Unwrapping it, I found a small data chip, and we began to peruse through it.
+
+Long gone were the days when we had to hire QGs for information before a big operation. It took us some time as we didn’t have an established base here, but we still got the job done in the end.
+
+“This place is massive,” I commented. “There’s even a chance our objective won’t be in the main base. This is starting to get a little annoying.”
+
+“Yeah, and our intel team failed to find anything more than a vague layout of the place. It’ll take us all night searching in there, and we would still probably won’t find anything,” Thorne affirmed.
+
+“Well, it’s not like our operatives were authorized to infiltrate their base to get the details. We can’t risk them being exposed. We’ll have to do that ourselves.”
+
+“You seriously want to go through with this infiltration mission like this? We won’t be able to use our power armor or any other high-tech gadgets if you want to stay in character. I say screw it and use everything we have. As long as they don’t find us, it doesn’t matter.”
+
+I closed my eyes as I contemplated his words. He was right that going all out with everything we had was likely the better option, but that would give us no room to maneuver out of it if we were discovered. Conflict would arise between our corporations once they inevitably trace us down.
+
+If we went as mercenaries instead, they were more likely to forget about the incident.
+
+“No, we’re too far from any support,” I said. “If anything goes wrong and our identity gets revealed, we’d be wide open to all our enemies. Not just Aurora.”
+
+Thankfully, we’re dealing with a C-Class corporation this time. If this was Ferrumus, I wouldn’t dare suggest we go in without all of our gear.
+
+“That is why you should’ve authorized our operatives to go in. They’re—expendable. We can take on a C-Class corporation or two, no problem. Hell, I doubt they would ever discover us.”
+
+“We’re not looking to start fights. They could be innocent. Our stealth capabilities are high, sure, but we can’t get complacent. All it takes is one mistake or one hidden weight sensor or something and we’d be exposed. I wanted to do it this way, so even if we’re discovered, it won’t hurt the company.”
+
+“Being too safe can sometimes backfire too, you know. Well, whatever, you’re the boss.”
+
+With the matter settled, we began our preliminary reconnaissance of the place. Aurora Corporation’s headquarters was nominally a space station orbiting the planet, but their de facto base was actually on the planet. It was because they couldn’t afford a large enough station for all their faculty and equipment. At the same time, their leaders preferred the luxurious life in the big cities.
+
+We spent the day monitoring their building and everyone who went in and out of it. It was a fifty-story building, but against the backdrop of all the megabuildings, it appeared insignificant.
+
+The next day we tried finding a few grassroots employees for more details of their compound, but we couldn’t find any easy marks. The few people who regularly entered and left their base all had a sizable security detail tagging along.
+
+It made it both frustrating and satisfying.
+
+Frustrating in that we couldn’t gain more intel before our mission, while satisfying knowing these measures were effective. My own company employed similar measures that limited our employees’ movement. Sometimes I thought it was too strict, but these instances reminded me how it was necessary.
+
+“Should we try our luck today?” Thorne asked.
+
+“We’ll take things step by step. Let me see if I can gain access to a part of their systems first.”
+
+“On you.”
+
+I took out a small wire from the cockpit of our ship and jacked it into my wrist. By establishing a wired connection with Lanus, I was able to make use of its processing capabilities without fear of discovery.
+
+Otherwise, I wasn’t confident I could remotely hack into a corporate server in a reasonable time span and without triggering any alarms.
+
+The automated program began discreetly searching for weaknesses under the direction of my AI. It was only a matter of time before I managed to reach the server in the lobby of Aurora’s building.
+
+As expected, corporations never exposed their internal servers to the web. The lobby was the only outside-facing server they had, so it didn’t have anything sensitive on it. However, it was still enough to access the small database of employees. It was used to whitelist the people allowed to approach the building.
+
+From that, we parsed through the list to find an identity we could assume.
+
+Without access to our usual power armor, the main detriment was the shortened operation time we had with our active camouflage. We had to plan out our steps more carefully as we didn’t have time to waste.
+
+Once we confirmed the profiles of several employees, we got on our way toward the office building. We walked briskly through the front door, heading straight toward the standard turnstile entrance.
+
+Since our access to their system only gave us a brief profile of some workers, I had to fake an incident to buy some time for my hacking program to work. Lanus was no longer in range, so there wasn’t a faster alternative.
+
+Placing down my briefcase, I brought out my security card and went through the same motions as everyone else, pressing it against the reader before staring into the camera. Then, I put on a troubled look as the screen showed I didn’t have permission to enter.
+
+Very quickly, a security guard emerged from one of the nearby rooms.
+
+“Sir, is something wrong?”
+
+“Umm, the terminal here seems to be malfunctioning. Let me try it on the other one.”
+
+I sighed and went to pick up my briefcase, only to accidentally knock it over, spilling its contents. I glanced around apologetically and got down on all fours to collect my scattered belongings.
+
+From the corner of my eye, I could see the guard shaking his head at my clumsiness, but he didn’t say anything.
+
+When I moved to stand up, I even faked having a cramp, further buying me a few precious seconds.
+
+“Hey buddy, you should really consider getting some cybernetic replacements if your joints are wearing out on you. Just because you’re on a desk job doesn’t mean you can’t use an upgrade.”
+
+I took in an exaggerated deep breath and got up. Then I approached the chatty guard to continue our conversation.
+
+“I’ve been saving up too many years to give up on bio mods.”
+
+“Ha, those things cost a fortune and the end product is still squishy flesh. Unless you’re part of management and need to keep up appearances, I advise you select more practical cybernetics instead.”
+
+“Hey, let me dream. I set a goal years ago. I’m the type to see it to the end.”
+
+The guard grinned at me while shaking his head.
+
+“You do you. Anyway, have a good day.”
+
+He gestured me to the adjacent turnstile while he remained in place. He was determined to see me through my issues, which wasn’t exactly what I wanted. I knew he would start getting suspicious if the card continuously failed, so I had at most one or two more tries left.
+
+Under the guard’s gaze, I tapped my card once again, only to receive the same error message.
+
+“Hey, you! It’s still not working?”
+
+“Hmm, yeah. Perhaps it’s because I stepped on it earlier? Hmm, let me see here.”
+
+I held the card up to eye level, carefully scrutinizing it.
+
+“Maybe it’s just dirty,” I commented.
+
+I opened up my briefcase to fetch a handkerchief to wipe the card with. The guard was now staring at me like a hawk, but I remained composed. The Shade unit inside me enveloped me with a projection, so I didn’t really need to control my expression, but I still deemed it necessary. Otherwise, if I let my emotions take free rein, I would only come to regret it if I accidentally let out a yelp or something when I was surprised.
+
+I rubbed the card unrelentingly, waiting for the sweet notification that the program had done its job.
+
+“Hey man, do you need to come into the office to reissue a new card or something?”
+
+“Oh no, no, let me try one more time.”
+
+Pressured into making another attempt, my mind raced for yet another excuse. The card tapped the reader, and I prepared my line. Just as I opened my mouth, another alert rang out. However, it wasn’t the one denying my access, but one that confirmed my authorization instead.
+
+“There we go. Stupid mistakes. I’ve got to run now. Have a good day!” I waved back as I speed-walked toward the elevators.
+
+Once I took a few steps, I noticed my connection abruptly cut off, notifying me I had entered within range of their jammer. I quickly took a step back to regain a connection so I could give Thorne the go-ahead to follow after me before continuing forward.
+
+We opted to go in one at a time because it would’ve been suspicious if two people had technical issues at the same time. That was why I cleared the way first, breaching their system before Thorne followed.
+
+I didn’t have to wait long before I spotted the middle-aged woman I selected for Thorne’s disguise. We nodded at each other and proceeded further into the building.
+
+By the elevator, we scanned the faces of everyone around. We had to ensure we wouldn’t be following anyone going to the fourteenth floor because that’s where the original owners of our identities were. I only tricked the system to allow us to enter, but the originals were still working in their office.
+
+Once we entered the elevator, I could tell we both let out an internal sigh of relief at completing the vital first step. We were in, and it was time to find any dirt this company could have. Personally, I hope we had the right target, so we wouldn’t need to antagonize Ferrumus Corporation.
+
+However, none of that was within my control. I could only hope.
+
+Just as we were starting to relax, one of the young boys in the elevator suddenly reached his hand for the fourteenth floor. He then turned to the two of us with a smile.
+
+“That was close. You two are in the marketing department, right? You forgot to press the button for your floor.”
+
+I quickly scanned through the files I had on hand to identify the young man who had suddenly made our infiltration perilous. I soon learned he was an intern who had recently joined the company. That explained how cheerful he still was, and how he had the spare energy to befriend everyone in the company.
+
+Unfortunately for us, this meant he wasn’t one to mind his own business. Having greeted the owners of our fake identities before, his friendliness now jeopardized our infiltration. The elevator was now bringing us to these originals. There was a possibility of us being exposed on the spot.
+
+I could only hope no one was around the elevators on the fourteenth floor, so we could just take the next elevator elsewhere.
+
+Before giving me much time to mentally prepare myself, the doors opened.

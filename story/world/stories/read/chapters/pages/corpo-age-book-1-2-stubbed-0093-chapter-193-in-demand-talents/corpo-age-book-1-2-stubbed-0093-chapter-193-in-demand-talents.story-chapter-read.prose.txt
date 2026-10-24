@@ -1,0 +1,137 @@
+Ralph - ???
+
+It only took an hour for the two agents to update each other on their investigation. Upon finishing their report, they both sat in the call in silence, as they took in the situation before them.
+
+“How can this be possible?” Ralph muttered. “In all my years, I’ve never heard of a company with no bad apples among their employees. There have to be a few who would talk given the right incentives. We need to work harder to find them.”
+
+Both agents tried tempting various members of the Halls Corporation in an effort to gain intel. They were well aware of the various means corporations employed to monitor and prevent such leakages, which meant they knew how to counteract them as well. They typically just needed to make use of their superior tech or communicate in roundabout manners.
+
+They didn’t even need to establish sophisticated codes because they knew few companies had the capabilities to parse through every single interaction of every single worker.
+
+“Trust me, I tried,” Kriss sighed. “The folks over here are just the same. Though, I couldn’t get ahold of that many of them. They mostly stay inside their compound. They seem to have gotten some impressive amenities for just an E-Class company.”
+
+“Did you check the cyber-docs around the area and red-light districts?”
+
+“Yep. Turned up as dry as your search.”
+
+“Then that’s just what we’ll have to work with. Don’t push too hard. We’re only supposed to be passively surveilling. If you start anything, headquarters will throw you to the wolves without a second thought.”
+
+“Well, we still have to do the bare minimum somehow. I’d rather not have my pay docked.”
+
+Losing out on pay wasn’t as simple as it appeared. Kriss had heard of the stories ever since she joined the intel department. Underperforming agents weren’t summoned back to be disciplined, but they received fewer resources. Once they cross a certain threshold, the company may even deem them a security risk and neutralize them. That was why she knew how important it was for her to at least satisfy the bare minimum requirements of a mission.
+
+This caused the two agents’ motivation to be reignited. For the next week, they would work tirelessly; staking out around the Halls Corporation compounds.
+
+Their hard work soon paid off as they each made some important discoveries.
+
+“I’ve found that they’ve been trying to obscure various large shipments from Elevate City to NLA,” Ralph declared with a smile. “From there, rumor has it that it’s bound for the wasteland. That’s exactly where their owner is supposed to be. Can you follow up on that?”
+
+“Understood. I’ll see what I can find,” Kriss muttered back with a listless voice.
+
+“Hmm? What’s wrong?”
+
+“I…found something too. I should be able to make contact with more of their employees soon. You should check this out.”
+
+Upon going over the report his partner had sent, Ralph’s eyes opened wide. Throughout his investigation, there was always something that had puzzled him, nagging him in the back of his mind. Now it was clear.
+
+It explained the reason for the abnormal loyalty the workers had to the Halls Corporation and why all their attempts had failed. The company they were dealing with was something that had only come across Ralph’s mind back when he was a child. The idea of an ideal workplace. One where you only needed to strive for excellence instead of having to deal with all the backroom politicking and backstabbing that reality had forced upon him.
+
+Even to this day, he remembered his elementary school teacher giving that lesson that had changed his worldview. His dreams of working the way up the corporate ladder of an ‘unicorn’ corporation. It was a term given to those companies that prioritized their workers instead of pure profits. It was also a derogatory term for the naive, and their teacher had made sure to instill in their mind that it was pure fantasy.
+
+They were taught that companies that appeared to treat their workers well always had ulterior motives. Otherwise, it would birth weakness within a company, where it will then be swiftly crushed by the competitors. The corporate world was cruel. Every action they took could either make them a fortune or spell their doom.
+
+“We’re dealing with a unicorn company…One that has survived for over a year and is still prospering.”
+
+While he tried to convince himself of the new findings, he couldn’t help but reread the report. It was plainly stated in the text and supported by images that the Halls Corporation even allotted their employees paid vacations. Not just once every few years, either.
+
+It was a week each year.
+
+That’s practically impossible. They’re bound to be destroyed sooner or later. But…why am I feeling a tad excited?
+
+Creating a game, or any software for that matter, was a lot of work. It may be possible for me to create the game on my own, but not the upkeep. The servers, updates, optimization, balancing changes and customer support were huge burdens.
+
+That was why I couldn’t allocate all my time to coding. Instead, I actively participated in the training of our latest hires. Throughout all this time, we were gearing up for expansion by recruiting people to our capacity. We more than doubled our numbers, going from several hundred employees to over a thousand.
+
+A vast majority of them were in training, which now meant hypnopedia training. In order to future-proof the investment in our personnel, we had the company-provided SAID module customized to include such a feature. We kept costs down by making the SAID module just a port that would link up to a larger pod, much like how VRs worked. It meant they had to be in one of these pods to access the feature, but the price difference convinced me.
+
+Creating the cassettes for their training wasn’t hard but tedious. I had to compile the relevant software knowledge into a cassette, but with Lanus’ help, I only had to recite everything once. While nothing was perfect, and I didn’t believe those who used my cassette could attain one hundred percent of the knowledge I had on that topic, just being able to build that solid foundation was already a great head start.
+
+After our recruits had gone through the initial sleep-learning sessions, those destined for the R&D department would then have some virtual classes with me. The terminal specialists were no exception.
+
+These newly hired software and hardware engineers weren’t part of the four main R&D divisions, but were part of a separate one dedicated to our gaming venture. That was because their main focus wouldn’t be research as much as it was to maintain our game. They would be handling all the tedious upkeep matters with the server and patches.
+
+For now, they helped me develop the game itself.
+
+After examining the existing market, I found payment models commonly used weren’t that different from my old world. Micro-transactions, subscriptions, one-time payments, they had it all.
+
+However, what did differ was the game selection. They mainly offered shooters and management games filled with strategic decisions laced with deception. It became more and more apparent that the culture of the world was underdeveloped. It was likely owing to the apocalyptic events that happened five hundred years ago, resetting the world.
+
+At the same time, that meant there was an opportunity for me. I wanted to bring magic fantasy-themed games into the world.
+
+From the occasional gaming sessions I had with Claire and Thorne, I learned that massively multiplayer online games were popular, along with mobile games for convenience. The lightweight package of mobile games definitely made it the larger market, but in the end, I chose both.
+
+Twelve points in software engineering weren’t just for show. It was possible for me to develop a cross-platform game by shifting most of the load to our servers. The main area I needed help in was the arts and animations department.
+
+It wasn’t something that could be easily quantified or written down on a resume. Portfolios helped, but it was still hard to gauge other factors, such as their speed and efficiency. Most prospective corpos didn’t excel in artistic endeavors and the regular people who did, hid behind the anonymity of the web and shared their work. It would be a challenge to find them, and then convince them to work for a corporation.
+
+That was why I personally returned to our official headquarters to speak to our executives about it.
+
+“What do you think? Can you guys fill the positions on my list with top-class talents?”
+
+“Sir, this list…” Lucy mumbled. “They’re over a dozen different positions that other companies highly value. It’d be almost impossible to recruit them through normal means. In terms of difficulty of recruiting, they’re comparable to some of the middling R&D experts.”
+
+“That’s why I came to you guys. To find them from the general public.”
+
+I turned to Leo and Lana, expecting the two to be well-versed in that community. Despite having corporate upbringings, the two did spend a considerable amount of time in that community during their tenure as mercenaries.
+
+“Look,” Lana sighed, ”reaching out to them isn’t the hard part. It’s convincing them to work for corporations that will be tricky. They’re just like mercenaries, in that they’re highly anti-corpos.”
+
+“We’re different from other companies. You can’t group us all the same.”
+
+“We know, but they don’t.”
+
+“I’m asking you to explain to them, then. Make them understand. Having been among them, I’m sure you two have a way, right?”
+
+I alternated glances between Leo and Lana. They crossed their arms and fell into thought for a few moments before Leo shrugged.
+
+“We can try. No promises, though.”
+
+With that settled, I returned to the top floor where my office was and visited my two trusty assistants. I merely had to wave at them as I walked across the open office space and they both stopped what they were doing and followed me into my room.
+
+“I know you’re both working hard, but we’ll only be getting busier once we fill out the art department for our game. I want to get as much work out of the way before then.”
+
+“Yeah, we know. We do get looped into everything, whether we like it or not,” Claire quipped. “There isn’t much I need from you. Just a few scheduled meetings with Joey and Luford you’ll need to attend.”
+
+“I see, thanks…”
+
+“What is it?” Claire immediately noticed my hesitation.
+
+“Hmm, I’ve been thinking. Since you’re already managing most of our day-to-day operations, maybe you should become our CEO. I can take one from Titus’ books and just become the majority shareholder in the background.”
+
+“You…want to foist even more responsibilities on me? I don’t know if you know this or not, but our company isn’t stable like Titus’. We’re experiencing rapid growth, and you’ll have to take the reins if you want it to be steered in the right direction. I can’t do that. I can only maintain it as it is.”
+
+“Maybe you’re right. It was just food for thought. We don’t have to do anything for now.”
+
+“Ahem,” Thorne cleared his throat. “As for me, you may want to dedicate a little more time to the training of our troops.”
+
+“What do you mean? Didn’t you say it was going along fine?”
+
+“It is, but it’ll be better to have you around more often if you don’t want to be forgotten. On a practical note, you’ll want to observe them so you may design equipment that fits our needs. I know you plan to dedicate more time to the power armor and cybernetic project later, but those aren’t the only things we need.”
+
+“Well, the Nyes and Nixie drones are pretty dated by now. I can see the need for new equipment to deal with adversaries on the same level as what we last faced. However, we’ll need the game project to succeed first. Otherwise, we just don’t have the funding to keep up.”
+
+“I understand. We just want you to familiarize yourself with our combat doctrine so you can gain insight into inventions that could enhance it.”
+
+And another item added to my to-do list. Thankfully, I got a bunch of new helpers now.
+
+“Okay, I get it. I’ll clear up my schedule.”
+
+“On that note, you should prioritize clearing up next week, then,” Thorne immediately advised.
+
+“Hmm, why?”
+
+“Half our new recruits are based in NLA with Vin. They’re the ones who were pushing for you to spend more time with the security department. They don’t want to finish their training without having even seen their boss before. They’re planning field exercises next week, so you may want to start there.”
+
+Well, I am floating around the idea of spending upgrade points on something that will enhance our overall strength. Let’s see if my ideas are worth pursuing and find the best way to implement them.
+
+With that thought, I couldn’t help but play around with the grip of the weapons holstered to my hip.

@@ -1,0 +1,135 @@
+Once I confirmed my men outside were in position, we started focusing on gaining entry into Astro Forge Aegis branch headquarters. I did a quick scan with the Argus and got a layout of their security systems in the lobby.
+
+“They have some serious sensors around. If we try to use our boosters to jump over anything, they’d detect it in a heartbeat,” I said over our encrypted communication line.
+
+“As if cloaking tech is anything new at this level,” Thorne quipped. “Neither Nova Tech, Ferrusmus, or the people your guardian angel employed made use of any stealth tech. They should have counters in place, so they don’t bother with it.”
+
+“That’s different. Two companies on the same level with neither specializing in stealth tech would obviously go into a stalemate, but that isn’t the case here.”
+
+“Yeah, that’s why we’re still undetected, but gaining access quietly won’t be so easy here. It’s their regional headquarters, so of course they will have implemented plenty of security.”
+
+We took some time simply standing there, observing the lobby, watching how everything worked. The employees went through turnstiles where they had to insert cards, look into a camera, and then scan their biometrics. It was only after completing these verification methods that they were allowed to pass through to the other side, which was separated by a wall of glass.
+
+“If it proves to be too tedious to get through, we can always scale the outer walls,” Thorne suggested.
+
+“No, it’s fine. Our presence here doesn’t need to be completely undetected. I don’t mind leaving some digital traces or going loud if we need to.”
+
+“You heard the man,” Thorne blurted out to our team members, Andrew and Peng. “Weapons hot only if we’re in danger or to ensure the target’s safety.”
+
+“Understood!”
+
+A brief moment of silence passed before Andrew nudged his companion, who quickly saluted in response.
+
+“Peng understands!”
+
+I paid them no heed as I cautiously approached the turnstile. The guards in the lobby paid more attention to the wide-open entrance to their building than the interior. Combined with the stable cloaking technology my power armor provided, I easily plugged into their systems.
+
+“Their security is tough,” I commented.
+
+“We talking half an hour or an hour, or what?”
+
+“Just a minute. I prepared a program to do the heavy lifting for me.”
+
+“...Okay then,” Thorne replied, while the outline of his head shook left and right.
+
+“Hey, it’s not perfect. It’s pretty much a disguised brute-force attack. They’ll know someone infiltrated them sooner or later, so it’s not suited for every situation.”
+
+“No need to explain the technicals to me. If it works, it works, but from what you’re telling me, we should hurry up.”
+
+As soon as my program got me into their network, the first thing I did was access the database of personnel the turnstiles were connected to. It contained everything an employee needed to pass their security check, and what we could use to do the same.
+
+As expected of an established C-Class corporation, their networks were properly air-gapped, so I couldn’t gain access to any more than what the turnstiles needed to do their job.
+
+Once I was done browsing through their database, we selected several targets who were already in the building and had the system believe they exited the building. Then, we could disguise ourselves as them to enter.
+
+Everything went smoothly, and the four of us soon got past the lobby while we kept up our holographic projection to alter our appearance.
+
+“This place is thirty floors up and five down. Where do you want to start?” Thorne asked.
+
+“One second, I’ll go find out.”
+
+I glanced around for cameras, then had a Nye sneak up to it so I could trace it back to their monitoring room.
+
+The results I received didn’t differ too much from expectations. Their security room was on the tenth floor. We still decided to take the stairs, as our power armor weighed too much to go unnoticed in an elevator.
+
+Everything was uneventful as we swiftly found the control room we were looking for. The building had many floors, but each floor wasn’t that big. We had enough Nyes to cover the entirety of a single floor with ease. The simple layout helped, too, and the guards they posted outside didn’t do them any favors.
+
+“Knock them out, no need for lethal,” I commanded.
+
+This mission was a statement to Astro Forge. Killing their employees indiscriminately would only make it harder for us to reach the negotiating tables.
+
+We split up into two groups to handle each of the two guards. Andrew followed my lead as we snuck up beside him.
+
+On the count of three, we sprang into action. Andrew secured the unsuspecting guard’s cybernetic hands while I wrapped my own around his mouth and injected a needle into him with my other hand. He struggled violently, but with our new Talos series cyberarm, we were able to keep him in check.
+
+We had practiced these movements many times, both in our facility and in virtual reality. That was how we were able to subdue them within a split second. Everyone flowed in one big movement, including breaking open into the security room and shoving their drugged bodies inside.
+
+Our actions understandably drew the attention of every person inside, but from their perspective, they simply saw their fellow guards stumbling in. They all thought they were drunk or feeling unwell for the first few seconds. Those few seconds were all we needed.
+
+We moved with lightning-fast speed. The world around me felt like it slowed down to a halt while our people alone moved with impunity. We slapped restraints and drugged everyone in a rush, blowing through them like a hurricane.
+
+The people working inside were even more poorly equipped in the cybernetics department compared to the two guards. It was normal, as they worked in cybersecurity where they didn’t need brute strength. However, it allowed us to subdue a dozen of them before they realized what happened.
+
+Unfortunately, things didn’t turn out exactly as planned. When we had taken control of the room, I swiftly moved to go through the cameras, searching for Perry. It didn’t take long for me to find him on one of the floors above, and I didn’t hesitate to release him from the chair he was strapped into. However, that caused a building-wide alarm to go off.
+
+Despite my rush to free him, I had properly looked over the system for any traps, but there weren’t any. I could only conclude that it was a physical tripwire attached to his restraining chair or something. No matter the case, I had to deal with the aftermath, and it came quickly.
+
+I spotted a red outline off to the side. It was where Peng was, in the deepest part of the control room.
+
+The walls beside him slid open as a thick metallic hand pushed it aside. I double-checked and found my bio-processor was still operating in full force.
+
+I should be seeing this guy moving in slow motion, but he’s moving at normal speed for me.
+
+His casual movements threw me off as my brain didn’t find anything wrong with the sight, but I knew this wasn’t going to go down peacefully. Their casual movements meant the other party was moving much faster than normal, and their hostility was confirmed when I saw them bring up their firearm at Peng.
+
+Of course, my employee was faster, firing a blue stream of particle beams their way.
+
+Similarly colored blue light glowed softly in response, stating its presence as it dispersed the oncoming beam. It’s dimmed slightly after tanking the shots, but it was a fact that it had safeguarded its user. That soon changed when several new bursts of light landed on the same target.
+
+The energy shield flickered upon being hit by our attacks, with the power armor beginning to smoke. It appeared it would come down any second, but our people weren’t trained to take chances.
+
+Peng had charged forward after taking the shot. He wielded his rifle like a club, slamming down at his adversary. It didn’t do much, despite passing through the energy shield. The thick armor neutralized the bludgeoning attack, causing someone from beside me to yell out.
+
+“Use the sword, you big oaf!”
+
+Peng acted as if he was a robot who had received its command. He instantly dropped the rifle and pulled out a small round cylinder, like a collapsed umbrella, and it expanded into a sword right away. Then, it powered up, with a burning hot white beam filling the hollowed space of the sword.
+
+He got the sword ready in time to receive the enemy swinging down with their wrist blade. The two melee weapons collided, and sparks went flying.
+
+Normally, one would expect them to have locked blades, turning the confrontation into a contest of strength. That didn’t happen. As the white particle beam made contact with the metallic blade, it actively melted the wrist blade. I could see the enemy’s concern grow as our new weapon got closer and closer to his body.
+
+While that happened, the hidden compartment our enemy came out from proved to be able to hold more than one power armor. Two more had already managed to rush out while I could spot more behind them.
+
+Thorne, Andrew, and I quickly signalled our men outside for support. Our cover was blown, so there was no need to stay quiet anymore. We just had to protect our target and make our getaway now.
+
+Thankfully, this happened after I had taken control of their camera systems. This meant I had eyes throughout the building, and I could forward this information back to my team outside.
+
+As if they were impatiently waiting for our signal all along, the moment we gave the green light, a watermelon-sized hole manifested in the walls. A bright white light had punched through the concrete as if it wasn’t there and then decimated the enemy before us. Several sharp popping sounds followed after it, but our ears were safe inside our suits.
+
+My men outside could see our figures through the walls and managed to snipe the enemy with precision. A giant hole was burned through one of their power armor, bringing it to its knees. In fact, it didn’t stop at that. The walls behind it were melted too, and I could see the outside if I poked my head to trace the trajectory.
+
+It was all thanks to the new sniper rifle I developed, the Light Judgement. It fired a high-energy particle beam at the level of a miniature ship cannon thanks to the protection of our power armor. It couldn’t be shot without it, as it needed access to the nuclear reactor, and the resulting shockwaves could maim its shooter.
+
+My cybernetic engineering knowledge came in handy when developing it, as I was used to minimizing the harmful emissions these powerful pieces of technology produced. It was the only reason I could enable its high power settings, despite it being an infantry-level weapon.
+
+Before the enemy party could understand what had happened, a second beam appeared. I could see that our sniper made use of his lookout’s weapon, as it wasn’t able to fire again that fast at max power setting.
+
+My team and I knew the next shots should take a minute as they relocated to a new vantage point, so we charged into melee range while they were disoriented. We made our move in time for Peng’s struggle to finish.
+
+His blade had completely melted through his opponent’s weapon, proceeding to cut straight through the enemy power armor as the sniper shot had done.
+
+As much testing as I did to know that would be the result, I still can’t help but be relieved seeing it work in action.
+
+The three of us drew our own blades as we joined the battle. It couldn’t even really be called a proper battle, as the speed and reflex advantage we had was too great. They could only move at the speed of walking while we could sprint to our heart’s content. It was the result of setting our sights on A-Class corporations. We easily dismantled our opposition.
+
+“No time to investigate or retrieve anything fancy. Rush to the eighteenth floor!” I yelled out.
+
+Counting half a dozen enemy power armors disabled, our team of four didn’t bother to stick around as we rushed to Perry’s side.
+
+I watched on the camera feed I pulled up, as several figures darted into his room at the sound of the alarm.
+
+In the past, we would have to bet on the enemy to continue holding him hostage instead of executing him on the spot. We no longer had to make that same bet.
+
+As two figures darted into Perry’s room, I saw another bright light flash through the screen. Another particle beam shot had penetrated through the exterior walls and snipped its targets. This time, its targets weren’t afforded the protection of power armors. The sound and shockwave from the blast sent the people behind the first two men tumbling onto the ground.
+
+Perry wasn’t spared, but no permanent damage should have been done. For the moment, he was safe. But we still had to hurry in case that changed.
