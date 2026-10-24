@@ -1,0 +1,195 @@
+“Hurry up and speak, corpo. We don’t have all night for you.” A lanky man said in an aggressive tone to me, standing at the forefront of his little group of four.
+
+“Marcio, was it? Do you mind if we spoke in a more private setting?”
+
+“Ha, always the same with your kind. Hurry up and lead the way.”
+
+I exchanged looks with Thorne and nodded before we made our way away from the general area of the bar toward one of the private rooms.
+
+I settled on one side of the sofa within the room while Thorne ordered for us on the terminal. The mercenaries swiftly planted themselves opposite to me and immediately resumed the conversation.
+
+“Go on and ask your questions, but don’t get your hopes up. We won’t be answering anything we shouldn’t.” Their lanky leader declared, and his teammates all nodded in unison with him.
+
+“That’s quite a prompt response. Do you even know what I was going to ask?”
+
+“We know you’re acquainted with Trisha and her crew. Of course, you want to ask about the deets regarding our gig. We know, they know, the QGs know, everyone knows.”
+
+“If you’re so sure, then why did you come?”
+
+“I’m not sure why our QG and Trisha’s crew even bothered to ask us to, but we aren’t turning down an easy favor from the likes of them.”
+
+“Well, know that I didn’t come here to ask you about your employer or for you to recount your experiences of the gig. You’d think I would ask your QG for, right?”
+
+“Then what are you here for? Can’t be for Rainbow here, that’s for sure.” He pointed a thumb at one of his team members, a girl with a long ponytail that shared the same colors as a rainbow.
+
+“Just to talk about the mercenary life. Relax, let us enjoy a drink first.”
+
+The lanky man, Marcio, snickered as he sank into his seat. I glanced over at Thorne in time to find him opening the door for the server to bring our drinks in. We all stayed silent as the server placed down several large mugs until he exited the room.
+
+“So tell me, Marcio. What are the rates to hire a typical outfit nowadays in Lion City?”
+
+“Why are you asking us? That’s a question for the QGs.”
+
+“No, I want to know your price. To hire you directly.”
+
+“...That depends on the details. We don’t do any combat gigs or other risky stuff without a QG involved, though.”
+
+I noticed he was quick to soften his tone when we talked business, so I pressed on.
+
+“What about for smaller tasks? Maybe some consultation work?”
+
+“Bullshit, we’re mercenaries. We don’t do your corpo busywork type of dog shit.”
+
+“I may have worded it inappropriately. What I mean is to consult your tech person and cy-sec person. After all, not every outfit has outstanding talents like yours.”
+
+“So you are here for Rainbow…” He glared at the woman in question as she let out a giggle. “That stuff is their solo gig. I don’t get involved, so you ask them yourself.”
+
+I looked over at the girl in question, who sported colorful hair.
+
+“Rainbow is it? Are you the tech person or cy-sec specialist?”
+
+She giggled at my question.
+
+“The latter. Gunther is our tech guy with the delicate touch.” She chuckled to herself as the man she was teasing shook his head.
+
+“Right. Do you two mind if I talked to you, then?”
+
+To my surprise, they nodded without hesitation. Rainbow was the first to respond, followed by Gunther.
+
+“My rates start from 10k.”
+
+“Eight thousand.”
+
+I nodded. “Perfect, then I’ll speak to you one at a time, then.”
+
+“You’re not going off somewhere with my team members where I can’t keep an eye on you.” Their leader quickly interjected.
+
+“It’s fine. I got another room just across from us. I’ll keep the windows transparent.”
+
+“...Make it quick.”
+
+I first walked over to the other room with Rainbow. We both looked back at our companions across the hallway, as our transparent walls did not obstruct anything.
+
+I spotted Rainbow flashing a smirk to her teammates as she slithered onto the couch and then turned her back toward them. Just as I was about to take a seat across from her, she quickly called out to me.
+
+“Come sit here with me or I won’t talk.”
+
+I did as instructed because it didn’t really matter to me, but I could feel Marcio, their leader’s intense gaze, piercing me from behind. The moment I took a seat, Rainbow scooted over to me and leaned in.
+
+“Is this really a good time to be teasing your friends?” I couldn’t help but ask.
+
+“Oh, is that what I’m doing now? Well, whatever. The answer to your question is yes. There’s no time better than now when it comes to teasing your friends.”
+
+“...We’ll move on from that conversation. I wanted to consult with you about your knowledge of sabotaging systems. Cybernetics specifically.”
+
+I watched her expression closely, so I didn’t miss it when she froze for a split second.
+
+“Can’t say I’m an expert at that. Got anything more specific?”
+
+“Yeah, I wanted to consult you on how I would go about discreetly sabotaging systems such as this one here.”
+
+I placed the terminal before her with the software of the public version of the Argus on it. She glanced over it and occasionally asked me questions as she worked through it. She exhibited no particular emotion and was hyper-focused on her work.
+
+Our talks soon ended, and she returned to the main room while the next person came in. A tall, stocky man sat down and nodded amiably towards me.
+
+“Gunther, glad you agreed to talk with me.”
+
+He wordlessly nodded, and I waited a second for him to speak, but seeing that he remained silent, I continued.
+
+“I wanted to consult you on how to sabotage cybernetics. Specifically, the model in this file here.”
+
+I quickly pinged him the file on the public version of the Argus and he calmly examined them.
+
+“Can do it, yes. Considerations?”
+
+“Discreet as possible. With that in mind, what are some ways you would go about it?”
+
+“Secretly damage internal parts, replace with fake parts, fudge up the connections, tamper with the circuits, or thermite to vaporize all evidence.”
+
+“Hmm, which one would make it hardest to find traces of the sabotage in the aftermath?”
+
+“...Depends.”
+
+“Then how about physically aging a part to induce a point of failure? I heard you have experience in doing that?”
+
+The large man stayed silent for several seconds before nodding, but he once again didn’t speak. I continued to pressure him with other methods of sabotage I came up with earlier to check his reaction, but he became more guarded and wore a poker face. Still, I think I gained some insight into my little product defect problem that had cropped up.
+
+Going into this, I knew they wouldn’t be straightforward with me.
+
+Who knew the best kind of NDA was the honor among mercenaries? Though it was not realistic to believe that would be enough to stop someone from letting out any hints. Maybe that’s why all the corpo hit teams have a stigma of either killing or imprisoning anyone they work with…
+
+“Thank you for your time.”
+
+Finishing up the meeting and paying the mercs, I decided to retreat for now and went back to my hotel. Seeing how there wasn’t anything that needed my immediate attention here anymore, I went ahead and took the next flight back to Elevate City the next evening.
+
+When I went back, I immediately scheduled a meeting to share my latest findings.
+
+“I have reason to believe our latest product defects are due to sabotage,” I declared.
+
+“What? Why? And who could be responsible?” One of our officers yelled.
+
+“There’s a long list of candidates. We expected this level of aggression when expanding into the cybernetic market…just we thought they would be more direct about it.”
+
+“See, I told you to be more wary of the traditional schemes and tricks rather than brute force. These are corpos we’re up against, after all.” Leo chimed in, with the others following right after him.
+
+“Intelligence director! How come we haven’t caught wind of this any earlier?”
+
+“Whatever, it’s more important to stop the bleeding and retain the trust of our customers! Everything else is secondary.”
+
+The meeting room quickly descended into chaos as various parties voiced their opinions and solutions. I let them vent it all for a few moments before clearing my throat to signal for them to quiet down.
+
+“I don’t know who the perpetrators are, but someone has been tampering with our products at various clinics. I found a mercenary team doing so in Lion City.”
+
+“Then we must respond at once!”
+
+“There isn’t much we can do except warn the clinics. We can’t cover so much ground…” Claire muttered.
+
+“We can do that, but what we need to focus on is protecting our brand. We likely won’t be able to prevent all incidents of sabotage, so we need to focus on dealing with disgruntled clients and protect our reputation while we work on finding the mastermind,” I said to the room.
+
+“Got it! I’ll work with the finance department to revise our compensation plan right away,” Claire responded.
+
+“Good. And any word for Fitel on the intel-gathering job you gave him?”
+
+“...Not yet, but I’ll check in with him later.”
+
+“It’s fine. I’ll go call him right after this. You take care of the other stuff.”
+
+I can’t wait to hear what he has to say. Looking back at it now, it seems like he knew something about this plot against us. He could’ve at least warned us more directly, though…
+
+Drew - Halls Corporation
+
+“All of you stay tuned for all the changes to our compensation plan for our clients who have been confirmed to have legitimately bought our products. That is all.”
+
+The conference call ended and Drew immediately glanced over at his coworker, Oakley. They had been discussing their recent findings with each other when the emergency virtual conference was called into session.
+
+“You think all these pending cases are due to the sabotage against us? They’re quite a few of them…” Drew said.
+
+“Most likely…Sucks that Derek got a little too eager, and accepted several of them this morning.”
+
+“We’ll all have to pitch in and get done as much as we can.”
+
+Shaking his head, Drew went on to accept a few more cases and began arranging meetings with the clients. He then pulled up the database in the corner of his optics to view the compensation packages that were constantly being updated.
+
+He made his way to a cafe where his first meeting took place. Sitting in the corner of the second floor, a skinny woman was already there waiting for him.
+
+“Hi, I’m Drew from the Halls Corporation. We spoke just now.”
+
+“Yes. I don’t have much time to waste. You’ll find your company’s product right here.” She pointed to the bag on the table before them.
+
+“Yes, thank you. Allow me a moment to verify it.”
+
+Without needing to consciously direct his actions, Drew went over the motions of verifying the cybernetic to be a product of his company. He then went over the receipts and when everything checked out fine, he put on his best apologetic smile. He has had a lot of practice recently, so he was quite confident about it.
+
+“Thank you for your patience. I am so sorry to hear how our product failed you in your time of need. Full disclosure, we believe our products are being actively sabotaged right now, and we will resolve it soon, so please do consider our products in the future as well. For now, we are more than willing to compensate you for your troubles. Here are the options we have.” Drew bowed as he sent over the file that had several options for the customers to choose from.
+
+There were flat monetary compensations, product replacements, coupon credits toward future purchases, or a mix of the selections. It was a given that monetary compensation had the least value among the options, given that the company tried to encourage the customer to do business with them again.
+
+The monetary compensation alone has become double the purchase price…The company really wants to keep its reputation with the customers.
+
+Drew’s first meeting ended smoothly, and the customer left satisfied, so he was glad he didn’t have to handle a difficult client first thing in the morning.
+
+Just as he was getting back to his car, a blaring alarm rang out in his head. The source was his company’s software.
+
+“Alert, a fellow employee has been detected in your vicinity engaging in suspicious activity. Please move to capture or eliminate them if they prove to be a threat.”
+
+“...Huh?”

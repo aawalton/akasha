@@ -1,0 +1,181 @@
+“Hey, wake up!” I yelled out to the people Thorne, and I had restrained within the ruins of the wasteland.
+
+They weakly made incoherent noises without responding, so I examined them more closely. Their bodies were weak, showing signs of starvation and dehydration. If I had to guess, I’d say they had run out of supplies for around three or four days now.
+
+“Rollo, I don’t think they’re in any condition to talk.”
+
+“I know… For now, help me feed them.”
+
+If there was one thing the synthetic food from this world was good for, it would be how easy it was for the body to absorb the nutrients from it. Well, that and how it had a decent shelf life too.
+
+I held up a nutrient pack to one of the enfeebled mercenaries and gently squeezed the contents of the packet into their mouth.
+
+By the time the pack was empty, my patient struggled to keep their eyelids open.
+
+I glanced over to see how Thorne was doing before moving on to the next person. They were all too tired to hold a conversation, so there was no choice but to evacuate them for now.
+
+“Thorne, you carry them while I take point.”
+
+He nodded and nonchalantly proceeded to perform the superhuman feat of carrying all four of them over his shoulders.
+
+I took one final glance around the room for any valuables before beginning our way out of this old subway.
+
+We hadn’t even left the room yet and my Argus notified me of several dozens of mutants closing in on us. I briefly considered switching to explosive rounds, but the ancient tunnels around me discouraged me from going through with that idea. I’d rather not test what little structural integrity this place had remaining.
+
+I readied my SMG loaded with smart rounds and gently stuck my gun out from the door. Kiri, my SAID, did all the targeting, and I simply held the trigger down.
+
++5 EXP
+
++5 EXP
+
++5 EXP
+
++5 EXP
+
++5 EXP
+
+…
+
+The only other job I had to do was to quickly swap between magazines. From my system’s experience notifications, I could accurately assess how many I had taken out, but my Argus kept indicating more targets in our area.
+
+“Thorne, we’re going to have to fight our way through. These little buggers keep coming.”
+
+While these centipede mutants were a great source of experience points, I had to keep the supplies I had left in mind. I didn’t bring unlimited ammunition, and getting swarmed was never fun.
+
+“Okay, I’ll be right behind you.”
+
+After unloading another clip of smart bullets onto the swarm of mutants, we swiftly stepped out of the room when we created a foothold and cleared our way toward the stairs. I kept shooting as we sprinted, and it would have been hard to keep track of everything if I didn’t have my optics draw arrows to guide me.
+
+Just as we finished climbing a set of stairs, I caught a glimpse of a shadow from above. I looked up just in time to see one of the mutant centipedes falling down toward us. While I could dive out of the way, Thorne wouldn’t be able to while carrying four people.
+
+Making a split-second decision, I quickly sent out a command via my SAID to activate the function on the cloud vest I was wearing.
+
+These cloud vests were designed to deal with assassination attempts against VIPs. They mainly had snipers, large-caliber weapons, and even vehicle crashes in mind, but it should work in this situation as well.
+
+Within an instant of my command, the vest I wore immediately released a torrent of foam-like substances. It shot upward at the delicate control of my SAID, so it wasn’t impeding our path.
+
+The mutant continued to fall down toward me, only to be intercepted by the cloud-like substance that I almost mistaken to be cotton candy. The monster landed squarely on the foam, only to be bounced back upward. By the time it began to fall again, we had already made an adequate distance up the stairs.
+
+Once the enemies in front of us thinned out, I didn’t hesitate to point my weapon behind us and pulled the trigger once I had an angle.
+
++5 EXP
+
+We continued shooting our way out, and the mutants didn’t have time to form a large enough group to threaten us.
+
+With four liabilities with us, we didn’t dawdle and made our way out of the wasteland, so these mercenaries could get proper medical treatment back in Lion City.
+
+Two hours later, the four mercenaries we rescued appeared to be much better, having almost made a full recovery. They recovered so fast I almost couldn’t believe it and had to remind myself the medical attainments of this world were entirely different.
+
+Seeing how we still had a few hours until our flight, I took the opportunity to speak with them to kill some time.
+
+“Hey, I’m Rollo. I was wondering if you could answer a few questions?”
+
+The four shared looks before they collectively directed their gaze toward one young man, who seemed to be their leader.
+
+“You’re one of the people who rescued us, right? We don’t mind as long as we can answer it.”
+
+“Great! Are you guys mercenaries?”
+
+“Not exactly…We don’t answer to any QGs and take gigs. We’re simply scavengers, hunting for anything we could sell from the ruins.”
+
+“Does that mean you think there was something valuable in that old subway where I found you guys, then?”
+
+“Oh no. We don’t only sell items. We deal in information, as well. We were mapping out the area to sell to interested parties.”
+
+“So, how’d you guys end up being trapped in a room surrounded by mutant centipedes?”
+
+They all grimaced and stayed silent for a moment.
+
+“We failed to accurately detect their numbers and wandered too far in. Before we knew it, we were swarmed and our ammunition ran out. We could only take shelter in that room to survive, but we didn’t exactly have a lot of supplies with us.”
+
+“It wasn’t that I failed, but the damn faulty scanner I got!” One of the other men interjected. “I knew I shouldn’t have bought that damn cyberware from some new company! It almost cost me my life for it!”
+
+“Calm down, Xavier. It’s in the past now, so save your complaints for later when there’s no one else around.”
+
+I held my breath at the mention of a faulty cybernetic.
+
+“Do you mind telling me which cybernetic you’re talking about?”
+
+The man named Xavier glanced over at his leader, seeking permission. After a moment, the leader sighed and nodded.
+
+“You may not know about it, so feel free to look it up on the web. It’s some new detection cyberware from some new company called the Halls Corporation. Here, I’ll send you the link to the piece I got.”
+
+I struggled to maintain my poker face as I opened up the link that led to our company website, the section that went over our Argus.
+
+Well, this is awkward. Do I even tell them at this point?
+
+“So…How did this scanner malfunction?”
+
+“It wasn’t apparent, which was why we almost died! The damn thing only detected the mutants in the peripheral when we were first going down into that tunnel. It caught us entirely off guard when more than double the numbers detected began to swarm us.”
+
+“I happen to be pretty good with cybernetics. Do you mind sending me the logs from your SAID of what happened?”
+
+“...Sure. Give me one second…And there, sent.”
+
+Reviewing the logs, I quickly went over any potentially problematic sections. I found no obvious errors had popped up, which only left two possible scenarios. Either it had been tampered with or several parts in the Argus had deteriorated to the point it completely malfunctioned. Either way, I could learn more from disassembling the cybernetic in question in both scenarios.
+
+The most important takeaway from this information was that the current incident matched the other product malfunction incidents that were reported to our company.
+
+“Thank you. I can’t say I learned anything definitive, but I am confident the company who made this would be very interested in getting their hands on this sample. You would probably make back all your credits plus more if you turned it into them.”
+
+“Well, if they’re willing to take responsibility and compensate me, then I’d let them. Still, I’m done with buying any more of their products in the future.”
+
+“...From what I could tell, it wasn’t the company’s fault.”
+
+“I don’t care. The bottom line is their product has defects. I don’t care for the reason. I’d rather buy from a credible corporation where this shit doesn’t happen.”
+
+“Xavier, watch your language.”
+
+I couldn’t bear to argue with the young man. He was right in a way that the consumers didn’t care about our situation. I, myself, may prefer to deal with larger corporations too in their shoes. They would be less likely to succumb to corporate sabotage and were likely that their products would be subject to a much more intensive quality assurance process.
+
+Instead of arguing with one of my customers, there was another thing on my mind.
+
+“Do you remember which clinic you got your Argus from?”
+
+“Hmm? Old Jack’s clinic. It definitely wouldn’t be their fault. I trust them to do a good job!”
+
+“Relax, I wasn’t saying it was the clinic’s fault. I was just curious.”
+
+I redirected my questioning back to their leader and asked about more details of their activity in the wasteland while I discreetly sent a message to Andrew, telling him to investigate Old Jack’s clinic.
+
+I left special instructions to thoroughly inspect their stock of cybernetics, specifically our products. My instructions included setting up a spy cam there to observe the handling of our product up until its installation.
+
+Thorne also received a message from me to reschedule our flight. We were on the trail of the latest clues we had about our product. Hopefully, this investigation would reveal if someone was actively sabotaging us or we could clear up if there really was a natural defect in our products when under certain conditions.
+
+My employees worked fast, and thirty minutes after my chat with the scavengers finished, they already reported back about the success of the mission I had just entrusted them with.
+
+“Boss, we found no suspicious tampering with our products and have set up the cameras as you instructed.” Andrew saluted and reported.
+
+“Good work. Please proceed to do the same for every clinic you come across. We’re spreading a wider net.”
+
+“Boss…there’s likely almost a thousand cybernetic clinics in this city.”
+
+“We don’t need every single one of them. Just do what you can.”
+
+“...Understood.”
+
+Next, I transmitted a message to Eli, one of Erza’s mercenary teammates, and the one currently in the inner city.
+
+I asked her for any information about the mercenaries she had accidentally encountered at the clinic she had previously visited. All this thinking about sabotaging cybernetics had made me start wondering if this was all connected somehow.
+
+I remember she mentioned she had recognized them as regulars from somewhere and they were the people I wanted to have a conversation with next.
+
+Communication with the inner city was a pain in the ass, especially for someone from the outside trying to connect to someone within. However, the reverse was not true. Fifteen minutes after my message, I received a call under the name of Robert Victis Lee, the inner city resident whom Erza and Eli were staying with.
+
+When I answered the call, a female voice immediately followed.
+
+“Why do you want to know about those mercs? I thought the problem was dealt with?”
+
+“I just wanted to talk with them.”
+
+“...There’s a code of honor among us mercs. You better not be trying to threaten them for info about their employer, or trying to get retaliation.”
+
+“No, no. While I am very interested in their employer, I simply wanted to ask some questions.”
+
+A tired sigh could be heard from the other side.
+
+“Whatever. Most of them are probably dead anyway. But do know that no merc, even the ones who work the rear, would be stupid enough to leak any information about their gigs to a corpo.”
+
+That was fine…A clear-cut answer was the best, but one could infer a lot of information based on people’s reactions alone. I just needed to devise the right conditions to evoke such reactions.
+
+Now then, if I wanted to discreetly sabotage the Argus, how would I do it…?

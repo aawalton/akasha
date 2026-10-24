@@ -1,0 +1,139 @@
+“Fitel, it hasn’t been that long, but it sure feels like it has been. Did you have any updates on that intel job?”
+
+“I believe that job is between me and Claire. I’m afraid I can’t reveal anything to you.”
+
+“Come on. Be flexible. You know it was from me, anyway. We’re a little too busy right now for these games.”
+
+“I would not say following proper procedure is a game. If rules aren’t followed, we will only get chaos.”
+
+“Are we really doing this?”
+
+“With that said, if we only strictly followed the rules to a tee, we would simply be thoughtless robots. I will go ahead and send you the latest info I currently have. However, the investigation is still ongoing, so do not expect me to find the root of your problem so easily.”
+
+“Well, I don’t mind increasing the pay. Just find me the mastermind behind all of this, so I can be done dealing with this bullshit.”
+
+“Money isn’t the issue here. Time is needed, and it can’t be rushed.”
+
+“...Fine, just keep me updated.”
+
+“I will, goodbye.”
+
+With those parting words, Fitel hung up the call, and I was left to nurse my head as I reviewed the info he sent.
+
+It was mainly a list of mercenaries and clinics, the perpetrators, and the crime scene where the tampering of my product had taken place. Some of the places listed hadn’t been part of any reported incidents, so hopefully, the compromised cybernetic hadn’t been sold yet.
+
+I quickly sent over the list to the intelligence department to have them deal with it as I went over the remaining part of the report. Fitel had been working to find the root cause, namely the corporation behind this. There were several companies he suspected, but he was still investigating them.
+
+Through his connections, he was able to uncover some of the requesters for the sabotage jobs, but the trail ended there. The masterminds cleverly used people whose files couldn’t be found anywhere. We had their faces, but no results turned up in any database, as if they had suddenly materialized from thin air. It didn’t help that numerous QGs were involved, each with a different contact.
+
+I finished reading the report and returned to my workshop. I had a schedule to follow, as consistency was the key to progressing all my projects.
+
+As much as I wanted to jump into the field to prevent all these sabotages myself or raid the enemy’s base, it currently wasn’t possible to do either. Our enemy was still in the dark, which forced us into a defensive stance until we figured out who we were even up against.
+
+Being on the offensive side is so much better. You get to control when, where, and how. It sucks being on the side where you have to sit there, waiting to see what happens next.
+
+I quickly went up to the milkshake dispenser by my desk and took a big sip of my favorite drink to calm myself down. I needed to focus on the task before me, and losing myself to the programming was an adequate distraction.
+
+However, before I could really zone into my work, my SAID alerted me and Kiri’s voice rang out in my head.
+
+‘Suspicious activity discovered. Attention required.’
+
+Pulling up the page on my optics, I quickly discovered the alert had come from the monitoring implant I had discreetly installed into my employees.
+
+I had personally installed a few of them in the beginning, but then I had it added to the other cybernetics my employees often used. It was a measure I had to employ because we were expanding so rapidly, with a good chunk of personnel located outside of Elevate City.
+
+The nanomachines took care of the installation once the host implant had been installed. It may take some time for the nanomachines to complete the work, but it beats having to install the implant by hand or risk exposing the information about the spy implant to anyone else.
+
+Now that an alert had unfortunately come up, it must mean someone within the company was up to no good while my stealthy spy implant watched on.
+
+It wasn’t long before I had access to the visual and audio feed from the suspected traitor. He was in his car out in the city. He wasn’t on a call or anything, but I was quickly informed about his suspicious activity.
+
+He had received a text message not long ago, which wasn’t strange, but the part that was‌ his reaction to it. The spy implant had access to his SAID, the root of all his cybernetics. It had detected his optics going over the text message in a pattern consistent with reading a coded message. He also stared at the message for over half an hour, rereading it as he sighed to himself.
+
+I didn’t know what he was up to, but I instantly sent a command for a security team to go greet him. However, they were a ways off from him, but when I scanned the area he was in, I found another of our employees was nearby.
+
+After entering instructions for that employee to intercept the potential traitor, I made my way down to the cyber security department while closely monitoring the situation. I caught Leo just as he was exiting the room.
+
+“Sorry to interrupt, Leo, but I need you back on your terminal to decode this message.”
+
+“Can you give me a second? I was just going to—”
+
+“It’s urgent.” I interrupted him.
+
+“...”
+
+He wordlessly nodded, and we raced back to his seat and I sent him the text message our little Judas had been reading.
+
+“You have software to decode messages, right?”
+
+“Yes, but it’s not a miracle worker. It may take a few seconds, hours, or days.”
+
+“I have a clue. The coded message is read in this order.” I relayed how the traitor had read the message by taking the logs of the suspect’s optics.
+
+“In that case…it shouldn’t take longer than a few minutes… And there, done. Rollo, you should see this.”
+
+I glanced over at his terminal with the deciphered message there before looking back at the suspect in question from the live feed I had pulled up in the corner of my vision and sighed. He had just gotten out of his car and was entering a bar.
+
+“We need to stop him…”
+
+I took an unmarked car and raced after the suspected traitor. Of course, Thorne was following along with a contingent of our security team.
+
+The only thing I was worried about was getting there on time. Both Thorne and I were equipped in our power armor, so it was unlikely for us to encounter any real danger.
+
+However, I really should get around to creating my own variant of power armor instead of this cobbled-together mess, but it was more than sufficient for us for now.
+
+My favorite feature on it was how long our active camouflage lasted with the help of the power armor’s nuclear power source and its ample heat management system. The extra space gave me more room to work too, allowing me to fit in more powerful signal blockers and generators that blocked most active scans and gave out fake readings to trick any adversary into thinking we weren’t there.
+
+It also worked on physical phenomena, making it so that even if we entered through a window where someone was standing by it, they wouldn’t sense anything off as we wouldn’t block the airflow.
+
+All these advantages allowed us to stay in stealth for a longer period of time, which was just what we needed in this.
+
+We followed our employee into the city, wading through the traffic.
+
+“Have you tried restraining him by frying his cyberware through our company software? We are taking on unnecessary risk for every second you let this traitor go free.”
+
+“Whoever is behind him should be smart enough to know how to disable these remote commands. I’d rather not try it and alert him that we’re on the way.”
+
+“We should have the man we have on the scene to just shoot him.”
+
+“Now, now. Let’s not cause a scene. I don’t want any bad rumors about us to go around. I want to see as much of this farce as possible to see their plan through and find clues about the masterminds. Besides, it’s a bad precedent to just shoot our employees whenever we get suspicious about them. He could be framed for all we know. Let’s not take action before the crime is even committed.”
+
+“That’s just dumb. We should just put a bullet in his head and be done with it.”
+
+“And then what? We kill one agent, but there wouldn’t be any other benefit to it. Now that we know who this agent is, he’s already stopped being a threat.”
+
+Our argument ceased as our alleged traitor began to make contact with one of our clients.
+
+We watched our employee, who had been nearby, enter the establishment right behind the suspected traitor, Derek, as he navigated toward the corner of the bar.
+
+There weren’t a lot of people around as it was still early, but a gruff man was already seated, obviously waiting for our employee to show up.
+
+“I heard you guys learned to take responsibility and will be compensating me for your defective products. Is that correct?” The man aggressively pressed my employee.
+
+“Yes, of course, sir. Please allow me to examine the product you bought first and then we can start going over the different ways we can compensate you.”
+
+The man scoffed, breathing through his nose, and threw out a small bag he had hidden behind him.
+
+Derek wore his business smile and took out the contents of the bag, an Argus unit, and began to examine it. I had full access to his systems, so I could observe him doing a fine job of verifying our product and assessing its damages. Consistent with all the units our clients have been reporting about, the unit he held had the same worn-out parts to them that resulted in defective performance.
+
+Once he was done with his assessment, the usual next step would be to apologize to the client and begin going over the new compensation plan we had recently updated. However, my employee instead remained silent and wore an expression that didn’t hide he was facing a dilemma.
+
+I saw him open up the text with the coded message to once again read his latest orders. I didn’t know which force was behind him, but they were definitely on my list of enemies we had no doubts about. They had started a war with us, not a literal one, but an economic one filled with cloaks and daggers.
+
+He began shaking his head, to the puzzlement of the client before him.
+
+“What are you shaking your head about? The chrome I gave you should check out!”
+
+He continued to shake his head for a brief moment before responding.
+
+“No…no it does not. The product you have given me is not of our company’s. We do not take kindly to scams, but I give you the benefit of the doubt, and believe that you have been tricked by the clinic you bought this from.”
+
+“That’s impossible! I’ve used that clinic for years, and had no issue when I installed even more expensive augments! You’re lying to avoid compensating me for your defective junk. You damn corpos!”
+
+“Sir, there’s no doubt that this isn’t one of our company’s products. Please leave before something bad happens to you.”
+
+“What did you say? Are you threatening me? I never back down from you disgusting pigs!”
+
+The man was getting agitated and was standing up to his full height, prompting our employee to spring into action. He swiftly leaped backward and drew his sidearm, pointing it straight at the large man. The action was so fast that the mercenary man only had enough time to bring his hands up to block the potential path of any bullets.
+
+Our employee pulled the trigger without hesitation.
