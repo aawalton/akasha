@@ -12,6 +12,7 @@ import { simplePageSkeleton } from "akasha/design/interface/layout/modules/skele
 import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { pageName } from "akasha/page/core/modules/page-name/page-name.module.code.ts"
+import { titledAs } from "akasha/page/core/modules/titled-as/titled-as.module.code.ts"
 import { uuidVersion7 } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
 import { askComposed } from "akasha/page/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
 import type { PageDrawingProps } from "akasha/page/ui/component/modules/page-detail-content/page-detail-content.module.code.tsx"
@@ -210,10 +211,13 @@ function imagesSaid(images: number): string {
   return images === 1 ? "1 image" : `${images} images`
 }
 
-function PersonSaid({ entry }: { entry: Entry }) {
+function PersonSaid({ entry, named }: { entry: Entry; named: boolean }) {
   const images = entry.images ?? 0
   return (
     <div className={cn("flex flex-col gap-1 rounded-lg px-3 py-2", surfaceClass(2))}>
+      {named && entry.sender !== undefined && (
+        <span className={SUBDUED}>{titledAs(entry.sender)}</span>
+      )}
       {images > 0 && <span className={SUBDUED}>[{imagesSaid(images)}]</span>}
       {entry.text !== undefined && entry.text !== "" && (
         <p className="whitespace-pre-wrap break-words text-primary text-sm">{entry.text}</p>
@@ -255,8 +259,8 @@ function MessageSent({ entry }: { entry: Entry }) {
   )
 }
 
-function EntryDrawn({ entry }: { entry: Entry }) {
-  if (entry.kind === "person") return <PersonSaid entry={entry} />
+function EntryDrawn({ entry, named }: { entry: Entry; named: boolean }) {
+  if (entry.kind === "person") return <PersonSaid entry={entry} named={named} />
   if (entry.kind === "agent") return <AgentSaid entry={entry} />
   if (entry.kind === "tool") return <ToolCalled entry={entry} />
   if (entry.kind === "message") return <MessageSent entry={entry} />
@@ -281,7 +285,10 @@ function PendingDrawn({
 }) {
   return (
     <div className="flex flex-col gap-1 opacity-60">
-      <PersonSaid entry={{ kind: "person", text: one.text, images: one.files.length }} />
+      <PersonSaid
+        entry={{ kind: "person", text: one.text, images: one.files.length }}
+        named={false}
+      />
       <span className={cn("flex gap-2", SUBDUED)}>
         {pendingSaid(one)}
         {one.state === "unanswered" && (
@@ -299,16 +306,25 @@ function PendingDrawn({
   )
 }
 
+function peopleIn(entries: readonly Entry[]): number {
+  const senders = new Set<string>()
+  for (const one of entries) {
+    if (one.kind === "person" && one.sender !== undefined) senders.add(one.sender)
+  }
+  return senders.size
+}
+
 function Conversation({ heard }: { heard: Heard }) {
   if (heard.state === "asking") return <p className={SUBDUED}>Reading the conversation…</p>
   if (heard.state === "refused") return <p className={SUBDUED}>{heard.why}</p>
   if (heard.entries.length === 0)
     return <p className={SUBDUED}>Nothing said since the last compaction.</p>
+  const named = peopleIn(heard.entries) > 1
   return (
     <ol className="flex flex-col gap-3">
       {heard.entries.map((entry, at) => (
         <li key={`${at}-${entry.kind}`}>
-          <EntryDrawn entry={entry} />
+          <EntryDrawn entry={entry} named={named} />
         </li>
       ))}
     </ol>
