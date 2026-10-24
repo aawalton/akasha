@@ -7,6 +7,8 @@ export const overloadSigns = {
   title: "Overload Signs",
   definition: "the signs that Alan or Jenny is overloaded",
   parents: ["alan-and-jenny-topic/the-marriage"],
+  settled:
+    "Jenny's account: she slips into reading Alan uncharitably, which the therapist calls sentiment override, when she is overwhelmed, stressed or exhausted, or when she feels unloved or emotionally unsafe.",
   createdAt: "2026-10-24T19:01:28.104Z",
-  updatedAt: "2026-10-24T19:01:28.104Z",
+  updatedAt: "2026-10-24T21:56:11.208Z",
 } as const satisfies AlanAndJennyTopic
