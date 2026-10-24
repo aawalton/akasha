@@ -8,7 +8,7 @@ export const whatWorks = {
   definition: "the practices that work for Alan and Jenny",
   parents: ["alan-and-jenny-topic/the-marriage"],
   settled:
-    "Jenny's account: she can usually get back to a charitable reading of Alan. She names that the bias is happening, then actively watches for evidence of Alan's love and affection, now and in the past, and lets herself receive it. The therapist calls this a top-down correction, and a method that works for her.",
+    "Jenny's account: she can usually get back to a charitable reading of Alan. She names that the bias is happening, then actively watches for evidence of Alan's love and affection, now and in the past, and lets herself receive it. Lived experience moves her too, and more satisfyingly; memory and imagination give her this second way back, which Alan does not have.",
   createdAt: "2026-10-24T19:01:28.104Z",
-  updatedAt: "2026-10-24T21:56:23.892Z",
+  updatedAt: "2026-10-24T22:53:12.773Z",
 } as const satisfies AlanAndJennyTopic
