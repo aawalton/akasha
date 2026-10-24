@@ -9,6 +9,7 @@ import {
   seatSlugOf,
   senderOf,
 } from "akasha/alan/web/modules/seat-message-asking/seat-message-asking.module.code.ts"
+import { withdrawnBy } from "akasha/alan/web/modules/seat-message-withdrawing/seat-message-withdrawing.module.code.ts"
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import {
@@ -121,8 +122,17 @@ export async function action({ request }: { request: Request }): Promise<Respons
   if (typeof from !== "string") return refused(from.refused, 403)
   const slug = await seatSlugOf(from, seat)
   if (typeof slug !== "string") return refused(slug.refused, slug.status)
+  const withdrawal = await withdrawnBy(from, slug, message)
+  if (withdrawal.kind === "withdrawn") return Response.json({ ok: true, withdrawn: true })
+  if (withdrawal.kind === "refused") return refused(withdrawal.why, withdrawal.status)
   const held = await heldOf(seat)
   if ("refused" in held) return refused(held.refused, 503)
+  if (!holds(held.said, message)) {
+    return Response.json(
+      { ok: false, taken: true, error: "the seat has taken that message already" },
+      { status: 409 }
+    )
+  }
   const refusal = regrettable(held, from, message)
   if (refusal !== null) return refusal
   const path = await seatPathOf(slug)

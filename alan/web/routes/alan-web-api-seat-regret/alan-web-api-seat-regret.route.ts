@@ -18,6 +18,15 @@ export const alanWebApiSeatRegret = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A message the seat has not taken yet is withdrawn before anything else is tried.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A message the seat took and its conversation does not hold yet is refused as taken.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A message is taken back only while it is the latest a person said and the seat works.",
     },
@@ -39,5 +48,5 @@ export const alanWebApiSeatRegret = {
     },
   ],
   createdAt: "2026-10-24T22:11:07.505Z",
-  updatedAt: "2026-10-24T22:11:07.505Z",
+  updatedAt: "2026-10-24T23:22:18.683Z",
 } as const satisfies Route

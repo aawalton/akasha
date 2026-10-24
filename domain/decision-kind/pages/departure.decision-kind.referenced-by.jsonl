@@ -1326,6 +1326,7 @@
 {"propertySlug":"decision-kind","path":"alan/web/modules/nav-command/nav-command.module.ts","id":"01a0655d-dab8-766a-bd17-37923d93e5a3"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/push-registration-sync/push-registration-sync.module.ts","id":"01a0655d-dab9-7b64-a9ef-667c2948bf1d"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/seat-message-asking/seat-message-asking.module.ts","id":"01a16ff5-a19c-7277-93d9-bd9ed96ff636"}
+{"propertySlug":"decision-kind","path":"alan/web/modules/seat-message-withdrawing/seat-message-withdrawing.module.ts","id":"01a17038-e2bb-75e8-98af-64de0f417a2f"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/signed-in-redirect/signed-in-redirect.module.ts","id":"01a08e1d-f4fb-72e1-9f35-8bab309aa758"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/status-bar-sync/status-bar-sync.module.ts","id":"01a0655d-dab9-7c10-973d-b09200be70b8"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/tab-icon/tab-icon.module.ts","id":"01a0e3a2-6e73-7710-88e2-713cf6eb205f"}
