@@ -11,6 +11,7 @@ import {
   changingIn,
   committedAt,
   readAs,
+  upAlreadyAt,
   wantsIn,
 } from "akasha/infrastructure/service/akasha-service/modules/deploy-wanting/deploy-wanting.module.code.ts"
 import { pagesAt } from "akasha/page/index/modules/commit-surface/commit-surface.module.code.ts"
@@ -71,6 +72,16 @@ test("what a service is built from is seeded from the pages its commit's reading
   expect(readingAt(ROOT, "HEAD").pages).not.toBe(undefined)
   expect(wantsIn(ROOT, one, "HEAD", { ...bare, pages: pinned }, changed)).toBe(true)
   expect(wantsIn(ROOT, one, "HEAD", { ...bare, pages: readingNone() }, changed)).toBe(false)
+})
+
+test("one service nothing has put up is up at no commit", () => {
+  const one = readAs(subject("web-app", "temper-web"))
+  expect(upAlreadyAt(ROOT, "temper-web", one, null, "HEAD")).toBe(null)
+})
+
+test("one service put up at the commit asked about is up already at its kept commit", () => {
+  const one = readAs(subject("web-app", "temper-web"))
+  expect(upAlreadyAt(ROOT, "temper-web", one, "HEAD", "HEAD")).toBe("HEAD")
 })
 
 test("one commit's diff is asked of git once however many services were put up at it", () => {

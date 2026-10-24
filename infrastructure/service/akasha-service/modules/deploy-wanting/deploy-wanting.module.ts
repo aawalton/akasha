@@ -41,6 +41,11 @@ export const deployWanting = {
         "A commit git names no moment for leaves the service as far behind as one never put up.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "One service is answered alone with the commit it is up at where it wants no deploy.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here chooses which service is deployed next.",
     },
@@ -76,5 +81,5 @@ export const deployWanting = {
     },
   ],
   createdAt: "2026-09-12T12:06:36.967Z",
-  updatedAt: "2026-09-25T18:18:03.000Z",
+  updatedAt: "2026-10-24T23:19:26.747Z",
 } as const satisfies Module

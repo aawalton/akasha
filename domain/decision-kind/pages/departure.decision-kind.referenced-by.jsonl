@@ -2317,6 +2317,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/simulator-installing/deploy-simulator-installing.module.ts","id":"01a08e07-611c-798a-bc99-55b321247e50"}
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.ts","id":"01a09240-5cd6-7be1-bda8-9fe3ca8d2fe3"}
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/tree-sweeping/deploy-tree-sweeping.module.ts","id":"01a0c9aa-e537-77da-a7a4-9d0d8d08e341"}
+{"propertySlug":"decision-kind","path":"command/pages/deploy/modules/unchanged/deploy-unchanged.module.ts","id":"01a17036-431c-75d5-8809-24d18e72bf09"}
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/web-putting-up/deploy-web-putting-up.module.ts","id":"01a05f90-94a7-7038-a602-193e6370fbac"}
 {"propertySlug":"decision-kind","path":"command/pages/domain/dag/domain-dag.command.ts","id":"01a07c03-8a7b-7661-a70a-f3c561dbfe12"}
 {"propertySlug":"decision-kind","path":"command/pages/domain/declaration-list/domain-declaration-list.command.ts","id":"01a07c03-ab2b-79aa-bfa7-3e62543a4164"}

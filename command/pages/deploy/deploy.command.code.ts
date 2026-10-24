@@ -83,6 +83,7 @@ import {
   PINNED,
   takingFrom,
 } from "akasha/command/pages/deploy/modules/tree-sweeping/deploy-tree-sweeping.module.code.ts"
+import { unchangedSince } from "akasha/command/pages/deploy/modules/unchanged/deploy-unchanged.module.code.ts"
 
 import type { Ended } from "akasha/infrastructure/job/modules/cluster-running/cluster-running.module.code.ts"
 import { judgedApart } from "akasha/infrastructure/job/modules/deploy-job/deploy-job.module.code.ts"
@@ -217,6 +218,9 @@ export async function deploy(
   const taken = takenFor(argv, given.calledAs, page, TAKES)
   if ("refused" in taken) return refusedBy(taken.refused, INPUT)
   const held = taken.taken
+  const named = held.ref !== undefined || held.noUpload || held.simulator || held.device
+  const unchanged = await unchangedSince(held.deploySubject, named, given, recording)
+  if (unchanged !== null) return told(unchanged)
   if (apartFrom(given)) return await detachedDeploy(argv, held.deploySubject, given)
   const wanted: Wanted = {
     noUpload: held.noUpload,

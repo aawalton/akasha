@@ -5,6 +5,7 @@
 {"propertySlug":"import","fileName":"run-in-cluster.module.code.ts","path":"command/pages/deploy/deploy.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"run-in-cluster.module.code.ts","path":"command/pages/deploy/modules/detaching/deploy-detaching.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"run-in-cluster.module.code.ts","path":"command/pages/deploy/modules/kind-putting/deploy-kind-putting.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"run-in-cluster.module.code.ts","path":"command/pages/deploy/modules/unchanged/deploy-unchanged.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"run-in-cluster.module.code.ts","path":"infrastructure/job/modules/cluster-running/cluster-running.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"run-in-cluster.module.code.ts","path":"infrastructure/job/modules/cluster-running/cluster-running.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"run-in-cluster.module.code.ts","path":"infrastructure/job/modules/deploy-job/deploy-job.module.code.ts","typed":false,"deferred":false}

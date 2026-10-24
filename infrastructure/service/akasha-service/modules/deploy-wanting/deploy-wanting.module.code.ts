@@ -9,6 +9,7 @@ import {
   refusedAtIn,
 } from "akasha/command/pages/deploy/modules/commit-recording/deploy-commit-recording.module.code.ts"
 import {
+  closureFor,
   closureIn,
   type Reading,
   readingAt,
@@ -68,6 +69,20 @@ export function wantsIn(
   if (changed.length === 0) return false
   const built = closureIn(reading, root, subject.slug, readAs(subject))
   return changed.some((one) => built.has(one))
+}
+
+export function upAlreadyAt(
+  root: string,
+  slug: string,
+  read: Named,
+  was: string | null,
+  commit: string
+): string | null {
+  if (was === null) return null
+  const changed = changedBetween(root, was, commit)
+  if (changed.length === 0) return was
+  const built = closureFor(root, slug, read, commit)
+  return changed.some((one) => built.has(one)) ? null : was
 }
 
 type Wanted = {

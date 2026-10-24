@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"deploy.command.code.ts","path":"command/pages/deploy/deploy.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"deploy.command.code.ts","path":"command/pages/deploy/deploy.command.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"deploy.command.test-fixtures.ts","path":"command/pages/deploy/deploy.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"deploy.command.test-fixtures.ts","path":"command/pages/deploy/modules/unchanged/deploy-unchanged.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"deploy.command.test-fixtures.ts","path":"command/pages/deploy/modules/web-putting-up/deploy-web-putting-up.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"deploy.command.ts","path":"command/pages/deploy/deploy.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"deploy.command.ts","path":"infrastructure/job/modules/deploy-job-running/deploy-job-running.module.code.ts","typed":false,"deferred":false}
