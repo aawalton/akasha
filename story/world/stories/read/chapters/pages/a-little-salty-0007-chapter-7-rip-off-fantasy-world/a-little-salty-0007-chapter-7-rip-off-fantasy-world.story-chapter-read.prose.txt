@@ -1,0 +1,189 @@
+“Alright, Echo,” I say. “It’s time to spill your guts.”
+
+[Command not recognized.]
+
+I snort, scrubbing at the table. Seeing as I was well enough to raid his kitchen, Gugora decided I was well enough to clean the tavern, too. He’d given me the night to sleep, the morning to eat, and then immediately set me to work. I can’t believe I got lucky enough to get reincarnated into another world, and then immediately unlucky enough to get stuck doing chores. I should be off adventuring. Getting stronger! Learning magic!
+
+At least that last one I might be able to do something about while wiping down tables.
+
+“You know what I mean,” I growl.
+
+A human eating a large breakfast at the table I’m cleaning looks up at me in surprise. “Sorry?”
+
+“Er, I said, I found a bean.” I swipe the rag over an imaginary bean and rapidly scrub down the table in the other direction. The stats, I think at Echo, before too many patrons can label me insane. Levels. Classes. Tell me everything!
+
+And when I ask for everything, boy does she deliver.
+
+I fumble the rag as hundreds of lines of text fill my vision, listing all the stats I have available. It’s ridiculous—and not just the sheer number of them. There’s your standard gaming stats like Health, Strength, Intelligence, Dexterity, and whatnot, but then there’s also a bunch of more obscure stuff like Bravery, Appetite, Humor, Empathy, and Allure. Allure? Really? Why, though?
+
+Finishing the tables, I retrieve a broom from Iski and start sweeping the floors. At least toward midday there are less people around, so less chances of getting caught staring off into space while I talk to Echo. Okay, let’s take this piecemeal. Tell me about Levels first, I think.
+
+[A level is a quantifiable representation of qualifiable growth. It is increased by gaining experience,] Echo adds, stating the absolute obvious. [Experience is gained through various activities, such as taking damage, dealing damage, and consuming mana through spell use.]
+
+What about doing skills? I ask. Does using a skill also help me gain experience? I’ve already gained the thrilling skill “Housework” just from cleaning the tavern, so I might as well put this mundanity to use.
+
+[Negative,] Echo says, and I frown. [Exception: Skills used to fulfill the user’s Role may count toward level experience.]
+
+Hm. I’m not sure what to make of that. Chopping up vegetables with my Knifework skill might help level me up, but it also sounds boring as hell. Grinding still sounds like my best bet, be it with magic spells or finding a mob of low-level monsters to hack up.
+
+But that’s alright. What about magic? I excitedly ask. What spells do I know?
+
+[The user currently knows no spells,] Echo says.
+
+Really? Not even something basic? Disappointing, but I guess I am starting from square one. How can I learn some, then?
+
+[The user is currently incapable of learning spells.]
+
+My jaw drops. No way! What kind of rip off fantasy world is this? Come on, I plead. There has to be a way I can learn!
+
+[The user currently has no affinity for any field of magic,] Echo says. [An affinity must be achieved in order to obtain access to that school of magic.]
+
+I try to calm down. Okay, not all hope is lost. How does one gain an affinity?
+
+[Most commonly, affinities are genetically inherited at birth,] Echo says, producing another scowl from me. [However, an affinity may also be obtained through intense practice or traumatic exposure. For instance, someone repeatedly burned by a flame may develop an affinity for Fire type magic, although the method is unguaranteed.]
+
+I must have frozen, and my face must have been betraying my horror, because Iski snaps her fingers at me. “Hey. You okay over there?”
+
+I quickly go back to sweeping. “Yep! Just dandy.”
+
+She snorts. “Here.” She beckons me over, holding out her hand for the broom. “That’s enough indoor work for one morning. You’re still healing up and could use the sunlight. Why don’t you head outside and help Gugora with the garden?”
+
+I gratefully pass over the broom. “Thanks!” Getting out of here is just fine by me; I hate being cooped up inside, anyway.
+
+But this affinity thing still poses a problem. I’d really, seriously, love not to suffer through repeated 3rd degree burns just for the chance to get access to fire magic. Then again, I wouldn’t necessarily say that’s off the table. It’s magic after all. How far wouldn’t I go to get my hands on some?
+
+Besides fire, what other kinds of magic are there? I ask Echo as I open the back door to the inn. Sunlight spills over me, and I stand there blinking for a moment, basking in the warmth.
+
+[There are countless specialized fields of magic that one could study or gain an Affinity in, depending on the granularity of the arcana school. Generally speaking, magic is often sorted into the following categories: Storm, Earth, Life, Ocular, and Null. These groups can be further decomposed into more specific fields of magic. For example, Storm magic encompasses water, air, and lightning based magic. Anyone with an affinity in one group is more easily able to train themself to access other arcana fields within that same group. Someone with Air magic, for instance, may learn Lightning magic more easily than necrotic magic, which falls under the Life school.]
+
+I drink up the information like I’m dehydrated: it’s not nearly enough. Can those fields also be broken down? I ask. Like, are there subsets of Water magic?
+
+[Affirmative,] Echo says. [Specialties in Water magic might include ice or steam, while specialties in Stone magic might include sand or glass. If an affinity is formed with an umbrella arcana, like Water, then all types of these specialties can easily be learned. However, if an affinity is formed at a lower level, such as ice, then it will be more difficult to move back up the hierarchy, such as to learn Water or other Storm arcana.]
+
+Better to form a broad affinity than a narrow one, then. Of course, I’d be happy with any affinity at all. I ask Echo to provide me with an overview of all the fields she just mentioned, and a tree structure pops up in my vision, which I start to sift through.
+
+Storm (Arcana source dimension: The Gyre)
+
+Water
+
+Air
+
+Lightning
+
+Earth (Arcana source dimension: The Pith)
+
+Fire
+
+Metal
+
+Stone
+
+Life (Arcana source dimension: The Lull)
+
+Nature
+
+Healing
+
+Necromancy
+
+Ocular (Arcana source dimension: The Abyss)
+
+Illusion
+
+Light
+
+Shadow
+
+Null (Arcana source dimension: The Between)
+
+Void
+
+Mind
+
+Summoning
+
+There also seems to be a strange sort of progression through the tree, with elements in one arcana field related or almost bleeding into the next. I start mentally tapping on each field of magic, eagerly digging down into the specialties, when I’m startled out of my research as someone clears their throat.
+
+“Sal,” Gugora greets, and I realize I’ve been standing silently in the doorway, staring off into space, for at least a couple minutes now. He’s kneeling in a patch of earth, between two, wide, orc-sized troughs of plants. “You alright?”
+
+“Yeah,” I say. “Sorry. Iski thought I could use the fresh air.”
+
+He smiles wryly. “Wonder why.”
+
+I’m going to need to get better at multitasking with Echo in my head. “How can I help?” I ask.
+
+He gestures to a basket beside him. “Come help with these. I’ll show you what’s ripe.”
+
+Happy it seems mundane enough to not involve much talk, I join Gugora in the vegetable garden and mentally turn back to Echo. As I pick through some green bean-like stalks (except they’re yellow and orange and a bit fuzzy like a caterpillar) Echo shows me a bunch more specialties of magic to consider. None of them strike me as something that would be easy to force an affinity for, though. Traumatic exposure examples include asphyxiation, getting struck by lightning, and getting lost in a cave and driven to the brink of madness by the dark. Not particularly ideal.
+
+Disappointed, I switch topics. I don’t have a class either, I note. Is that at least something I can change?
+
+[Upon leveling up, the option to pick a class will become available.]
+
+I brighten at that. I’ll just need to force a level up somehow. But with magic currently off the table, that leaves… I grimace. Taking damage, dealing damage, and chopping vegetables.
+
+Obviously, playing into my Role Requirement and leveling up cooking-related skills is the easiest path. But based on the tiny fraction of my EXP bar that has barely started to fill in the corner of my vision, that approach will take forever on its own. Taking damage should probably be avoided if I can help it—at least until I finish recovering. (And happily, that seems to be going pretty quickly on its own. I’m up to 47/90 now!) So that leaves dealing damage, which might be tough without a weapon. Not to mention, what even is there to fight?
+
+“Are there any monsters around here?” I ask Gugora as I pick some more caterpillar green beans to add to the basket.
+
+He stops to look at me, suspicious. “Why do you ask?”
+
+“Uh, no reason,” I say.
+
+“You’re not looking for trouble, are you?”
+
+Wow, he reads me like a book. “I just wasn’t sure if it was safe for me to go wandering around the area.”
+
+He grunts, but doesn’t appear convinced. “Safe enough.”
+
+Damn.
+
+“But don’t go too far,” he says. “There’s wild animals in any forest. We’re a short walk from the city, so it’s not so bad here, but we’re the last inn for miles around. The farther south you go, the more our territory becomes theirs.” He eyes me critically. “Which is not an invitation to start exploring the woods south of here.”
+
+“I wasn’t!” I object.
+
+I was.
+
+Gugora stares at me for a moment longer, then lets out a sigh. He stands up, and his joints crack in low tones like stones knocking against each other in a rockslide. “Come on.”
+
+I hop up—then wince a little as my back twinges at the sudden movement—and follow him as he begins to head away from the inn.
+
+“The vegetables?” I ask, glancing back at the abandoned basket.
+
+“We’ll just be a minute,” he says, waving me off. “Won’t go anywhere.”
+
+There’s a faint footpath on the ground that Gugora is following; nothing paved or official, but packed earth from countless trips. It’s also heading south, if I’m not all turned around.
+
+“I thought you said we shouldn’t go this way,” I say.
+
+“Our butcher hut is a little ways from the property,” he says. “The smell can attract predators—want to keep them away from any customers. We aren’t going too far, though. Besides, there’s nothing to worry about right now.” He glances down at me with a small smile. “You’ve got me.”
+
+Despite a lack of any apparent weapon, I don’t doubt his confidence for a second.
+
+“Why are we going to a butcher hut then?” I ask.
+
+“You sure ask a lot of questions,” he observes.
+
+“Yeah, well, I don’t know much of anything about the world,” I shoot back. “Can’t blame me for wanting to learn, huh?”
+
+He chuckles. “Suppose not.”
+
+The hut comes into view, although it looks more like a cabin to me. Echo identifies some skins and drying meat hanging outside on some tanning equipment, but Gugora passes them by to unlock and then duck inside the cabin’s door.
+
+I pause in the doorway, my eyes immediately going to all the apparent torture equipment hanging from the ceiling and walls. Terrifying hooks and chains, more types of knives than I can count. Gugora ignores all this as if it’s normal—which, for a hunter, I suppose it is—and stops at the closest wall, which happily places me near the exit.
+
+Look, it’s not that I think he’s a serial killer or anything, but my first impression of this world hasn’t exactly filled me with an abundance of trust.
+
+“Here,” he says, pulling a knife from the wall. It’s only about as long as my hand, and sheathed in leather. “Keep this on you. If you’re going to do anything rash, at least have a way to defend yourself.”
+
+“Cool!” My stomach flutters as I take the weapon. It’s a fraction of the size of the butcher knife I’d used in the inn’s kitchen, but it’s better than nothing. My eyes trail over the other tools on the wall. “Hey, can I borrow the bow and arrows, too?”
+
+“No.” He grabs my shoulders, spins me around, and pushes me out the door before I can even make my case. The keys jingle as he locks the cabin back up.
+
+“Aw, come on!” I beg.
+
+He nods to my knife. “Tell you what. You keep from cutting yourself on that thing for two weeks, I’ll teach you how to use a bow. But, as soon as you hurt yourself, the counter resets.”
+
+“Sweet!” I say. “Two weeks? No problem.” I could just keep it in the sheath for that long and guarantee I make it.
+
+He smiles wryly. “I give you two days.”
