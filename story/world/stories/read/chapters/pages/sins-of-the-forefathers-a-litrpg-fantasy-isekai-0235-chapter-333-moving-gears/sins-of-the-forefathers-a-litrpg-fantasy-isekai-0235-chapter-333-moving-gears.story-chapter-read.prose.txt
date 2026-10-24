@@ -1,0 +1,117 @@
+Several hours later, Grey stood up from his bent position over our project and cracked his back loudly, twisting at the waist. I copied him, stretching my arms over my head and feeling my muscles unwind. With my arms up, I glanced to the side at my false Primordium arm, familiarly clad in its leather glove. Clasped around the wrist was one of the small side projects I’d worked on over the last few weeks, something I’d been thinking about working on for some time.
+
+A wristwatch.
+
+That had been an interesting project to work on. Clockwork Engineering was the previous incarnation of Mechanical Engineering, the Profession I had inadvertently initiated a shift in shortly after my arrival here on Vereden. Clockwork had been a relatively new Profession, freshly shifted itself, with only about fifty years of accumulated knowledge and expertise in the population. Pocket watches were still the common type that could be found in the populace, and typically, they only belonged to the very upper class. My little experiment here was the first of its kind, and in the weeks since I’d finished it, I’d received more than one admiring question about it. My excuse was that I worked with a highly experimental-minded Engineer who wished to remain secret.
+
+Which was technically true. After all, a highly secretive Smith and Engineer from Kawamara, going by the name Kuroshō, had recently set up shop in the city. Rumor had it that he never accepted a commission face-to-face, worked exclusively with the metal Oninite, and always delivered his finished work via courier. It was hard to even find out about the man, apparently. Knowledge of his existence was only circulated from one customer to another, and you could only get a commission through referral. The mystery of the man was the talk of the upper class and had them all a’twitter.
+
+Heh. Mystery bred interest.
+
+All that to say, my little wristwatch was telling me it was time to head out. Tarus had to be descending beyond the horizon by now to mournfully watch the rise of his former love. Grey probably knew that, because when he was done stretching, he turned to me and started a by-now familiar ritual.
+
+The post-experimentation breakdown.
+
+“As I’ve said before, I feel confident we’ve managed to construct the ‘plug’, as you refer to it, accurately,” Grey mused, stroking his chin and nodding to the incredibly complicated cord and plug assembly we’d slaved over.
+
+Frankly, I think it was a monumental achievement that we had gotten as far as we had. Like he did for most things, Grey had suggested the use of Mithril for the base metal of the plug. It was strong, lightweight, and extremely conductive to the flow of Aether, so it suited our purposes just fine. Mithril offered near-zero resistance to Aether, so there was our conducive material, used both for the prongs and the wiring itself. When it came to the replacement for plastics, however, we’d been stumped for a while. Petroleum oil was known to Vereden, but I had exactly zero ideas on how the refinement into usable plastic went, and Grey was frankly baffled by the idea. So, we had to come up with something different for our insulating material. That had been a long few weeks of experimenting with various magical materials before we settled.
+
+Funnily enough, it was the crystal of my little wristwatch that eventually gave me the idea. See, something I had discovered during my Abjuration lessons was that the blue crystal of Ward Stones was something entirely artificial. In our second week of classes, craggy old Professor Stahlbrandt had walked us through the process of mixing up the raw, crystalline slurry of a Ward Stone, and then pouring it into a cast to be fired. What I had found interesting, though, was that the firing process was merely so the slurry could harden into a stone capable of being carved upon. The mix itself was capable of holding a different form. You could mold it like clay into any shape you wanted, and then when you applied the slightest amount of refined Aether to the sculpture, the surface would harden, and yet the structure would not. The result was something with a hard, defined outer shell that nonetheless still flexed and wiggled like it was gelatin. It was, frankly, odd, and the Magi and Cultivators of the Academy had never found a use for it, having decried the raw material as useless for construction.
+
+That was, until now. It was perfect as an insulating plastic replacement. When we experimented sheathing our crafted cables with the crystal slurry, sparking the hard outer shell with a tiny amount of Mana, it was a resounding success. The surface of the new wire was hard to the touch, and yet it was completely flexible with a thin insulating layer beneath. The process worked to our purposes in protecting and insulating our Mithril cabling from outside Aetherial interference, as well as containing the charge carried by the cords.
+
+And here I was, having gotten the idea after using it for the lens of my little wristwatch.
+
+Since the Academy had never found a usage for the raw material itself, Grey had granted the right to name it, even if the results of our experimentation were still being kept in the strictest secrecy.
+
+I’d chosen Crystalflex.
+
+As for the charge itself…
+
+Well, that was what Monster Cores were for. Once the cable and plug were done, all we’d needed to do was provide it with a source. With that desire, Grey and I got to work on a sort of modified containment device for a core, designed to extract Aether from it to be converted and fed into a device. The base idea for our power source had come from Grey, because such a contraption had already existed. In higher-level, more Aether-intensive Enchanting work, it was sometimes necessary for regular Enchanters to siphon Aether from a Core gradually over time to power their work, directly into a specially prepared Enchantment Disc. These extraction devices suited our purposes just fine, and with a little work, we had converted one to feed that Aether through a series of conversion relays and down into the Mithril cabling. The result was a sort of sphere-shaped container, its surface thick with carefully scribed runes, and the inside of it holding a baseball-sized Core held up by numerous prongs. The entire contraption stood on four legs, with our carefully ‘machined’ cabling plugged into one end.
+
+But not into the repository itself.
+
+And so, we came to what ended up being the real bottleneck of the entire process.
+
+What the damn GLEE actually took as power.
+
+“But again, I do not believe we’ve identified the correct energetic form,” Grey said with a sigh. “At this point, I’m afraid we’ll have to rule out your ‘electricity’ as the likely source of power that the Netherim used. It feels too...volatile to match with the device.”
+
+I frowned and drummed my false, leather-clad fingers on the workbench. “Which is odd, because I’ve told you my suspicions about the Netherim,” I said to my mentor, and at this point, partner. “They all but admitted they were connected to Terra, and the basis of Terran technology was powered by electricity. We’ve been able to produce something similar, and even channel it through the cable,” I nodded to the said contraption. “But no matter how we vary the frequency, the GLEE doesn’t respond. Not to that, not to pure Aether, or even to Mana or Ki.”
+
+“Hmm,” Grey hummed in thought. “You’ve told me before that the Lich Travers referred to their power source as an ‘Aetheric Fusion Collider’. And, when inspected visually, it appeared said Collider was doing…something with Mana and Ki, yes?”
+
+“Yeah,” I nodded at him. “And presumably, it was ‘Colliding’ Mana and Ki in some way, to create some kind of byproduct. I…think I remember seeing something going on, at the point where both energies meet.”
+
+“How frustrating it is,” Grey said darkly. “That this Lich took it upon himself to destroy this Core.” He shook his head again. “How do you even ‘collide’ the cornerstones of Mysticality in the first place?”
+
+I furrowed my brow, struck by a thought. “Is there something like that in the Hollow Hill bunker?” I wondered aloud. “Maybe with a working example, we can figure out what they used for power.”
+
+Grey shook his head. “No, unfortunately. I had some time to inspect that installation before you joined me, Nathan. I found nothing of the sort inside. In fact, I believe your manipulation of that ‘computer’ last year was the veritable last gasp, as it were. It’s gone completely dark, and nothing I did was able to rouse it again. It is, as I’ve heard you say, out of ‘juice’.”
+
+“And if we could figure out how to reproduce the Netherim power source, we could probably light it back up again,” I sighed.
+
+In response, Grey made a helpless gesture with his hands. “As you say. For now, we’ve done all we can today. We’ll simply need to continue experimenting. Have a good day, Nathan. You go on ahead, I’ll close up the lab after you.” He suddenly smirked at me, almost smugly. “I believe you have plans.”
+
+I rolled my eyes at Grey, but nodded anyway. “I’ll see you later, Grey.”
+
+With that said, I packed up my bag and slung it over my shoulder again, making for the vault door to Grey’s lab. It swung open at my approach, and once I was through, I heard Grey call out one last thing across the lab floor, before the door close on me once more.
+
+“Give my love to Sylvia!” He called out playfully, before he vanished from my sight.
+
+I just rolled my eyes at the door and turned away.
+
+Yeah, yeah.
+
+I would.
+
+………………………………….
+
+The sky was painted in the colors of sunset as I finally exited the Academy for the day, and yet the temperature hadn’t dropped at all. We were at the tail end of summer, in this clime of Vereden, and those tended to be very wet and muggy here in Blutstein. It probably came from being right on the coast, but that didn’t help me from feeling like I was going to drown in my own sweat. I shucked off my short grey cloak and tucked it over one arm as I strolled through the quad.
+
+People were already making their way towards the different entertainment venues they had here on campus, strolling together all around me in groups. Conversation and laughter were thick in the air as I navigated my way through them, because I had a different destination in mind.
+
+Months and months previous, Sylvia and I had made some wistful plans together about what we would do once the war was over. She’d told me about her favorite little bistro out in the city, where they served food for those with a preference for hotter fare, as she did. We…never had the chance to act on those plans before everything came crashing down near the end of the Construct War.
+
+But, well.
+
+As time went on, more and more of her memories were returning to my former partner, and…
+
+Some of those were about me. Apparently, one had involved our promise to meet up there, and Sylvia had…invited me. Purely as friends, of course, I’d been told hastily by the embarrassed Sculpted woman.
+
+It was enough for me, though. We weren't together again, as they say.
+
+But the possibility certainly seemed to exist.
+
+I had to say, I was in a pretty good mood these days. Things were looking up. I had my projects, my friends, my family, and I had my ongoing education. The horrors of the Construct War were starting to feel like a distant memory, and I hardly ever had nightmares about Nerexxa returning to tear out my throat anymore.
+
+Which was why I was so displeased when I picked up on the fact that I was being tailed, not long after I exited the gates of the Academy out into the city proper. Whoever they were, they were a rank amateur in stealth tactics. Even though my blood sense had picked up on them easily enough, I hadn’t even really needed it. Just my training alone from my days as a Nocturne was enough for me to tell that I was being followed. A few idle examinations of a glass storefront along the lane were enough for me to spot them.
+
+Male, middle-aged Human. Scruffy, unkept-looking clothing, and a bit malnourished. Visible bulge in his out-of-season coat, an indication of weaponry.
+
+For a moment, I nearly took him for one of homeless veterans of the city. Someone who had scraped up enough coin to pay the fee to the upper level, in the hopes of a more lucrative mark. He wasn’t the first I had seen do that.
+
+But a closer inspection of the man….
+
+Well, he was too steady. There was a tenseness, an eagerness and anticipation to the set of his shoulders that was held in tight check. He might be scruffy looking, but I could just tell that this wasn’t your average groundpounder who hadn’t received a large enough discharge payment to forge a life for himself. Plus…
+
+Well, he was focusing on me a bit too intently. I wasn’t an accidental mark this man had chanced upon.
+
+This guy was specifically looking for me.
+
+Hmm.
+
+Well, alright then. Let’s see what you’re made of, eh?
+
+I turned away from the window where I had been pretending to fuss with my hair, as if I were your regular Academy student, anxious about a date. I ambled my way down the main avenue for a distance more, feeling the man following close behind me all the way. After a while, I turned abruptly down a much narrower side street and picked up the pace. When the man turned to follow me down it, I felt his heart rate pick up when he saw I was gone. His pace quickened as well, and when he passed in front of the alleyway I’d ducked into…
+
+My hand lashed out and dragged the pursuer in with me, slamming him up against the brick wall. I felt him tense, only to freeze in place when he felt the razor-sharp point of my dagger prick the clothed surface of his belly in between us.
+
+I met the man’s alarmed eyes calmly. “Who are you, and what do you want?”
+
+He remained frozen for a moment before I reminded him of the blade poised to gut him very…lightly. He startled and opened his mouth. “I-I-I bear a message f-from the Unshackled for N-Nathaniel Hart?”
+
+I blinked.
+
+What?
