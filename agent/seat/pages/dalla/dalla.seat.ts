@@ -1,0 +1,16 @@
+import type { Seat } from "akasha/agent/seat/seat.page-type.types.ts"
+
+export const dalla = {
+  id: "01a16fe0-759e-7000-b8cc-787a2037ab1d",
+  type: "page-type/seat",
+  slug: "dalla",
+  persona: "persona/dalla",
+  assignmentSlug: "module/change",
+  role: "role/definer",
+  persons: ["person/alan"],
+  startMode: "seat-mode/interactive",
+  onCall: true,
+  registrationAccount: "model-account/aawalton",
+  createdAt: "2026-10-24T21:45:43.987Z",
+  updatedAt: "2026-10-24T21:45:43.987Z",
+} as const satisfies Seat
