@@ -1,0 +1,43 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const ruinousReturnStub = {
+  id: "01a16bd1-59f9-7a56-bd23-c52d19b3cd9a",
+  type: "page-type/story-read",
+  slug: "ruinous-return-stub",
+  author: "SerasStreams",
+  following: false,
+  unit: "unit/words",
+  title: "Ruinous Return [STUB]",
+  world: "world/ruinous-return-stub",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "89228",
+      externalLink: "https://www.royalroad.com/fiction/89228/ruinous-return-stub",
+    },
+  ],
+  externalTags: [
+    "Portal Fantasy / Isekai",
+    "Time Travel",
+    "Progression",
+    "Anti-Hero Lead",
+    "Strategy",
+    "Action",
+    "Drama",
+    "Fantasy",
+    "Psychological",
+    "Attractive Lead",
+    "Female Lead",
+    "Grimdark",
+    "High Fantasy",
+    "Magic",
+    "Multiple Lead Characters",
+    "Reincarnation",
+    "Secret Identity",
+    "Strong Lead",
+  ],
+  readLater: true,
+  createdAt: "2026-10-24T02:50:44.601Z",
+  updatedAt: "2026-10-24T02:50:44.601Z",
+} as const satisfies StoryRead

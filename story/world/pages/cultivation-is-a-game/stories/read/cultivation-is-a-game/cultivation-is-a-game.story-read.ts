@@ -1,0 +1,40 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const cultivationIsAGame = {
+  id: "01a16bd1-59f9-7902-b8d7-288a10498aa6",
+  type: "page-type/story-read",
+  slug: "cultivation-is-a-game",
+  author: "Kalzara",
+  following: false,
+  unit: "unit/words",
+  title: "Cultivation is a Game",
+  world: "world/cultivation-is-a-game",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "89859",
+      externalLink: "https://www.royalroad.com/fiction/89859/cultivation-is-a-game",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Portal Fantasy / Isekai",
+    "Time Travel",
+    "Progression",
+    "Strategy",
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Attractive Lead",
+    "Cultivation",
+    "GameLit",
+    "Male Lead",
+    "Slice of Life",
+    "Strong Lead",
+  ],
+  readLater: true,
+  createdAt: "2026-10-24T02:50:44.601Z",
+  updatedAt: "2026-10-24T02:50:44.601Z",
+} as const satisfies StoryRead
