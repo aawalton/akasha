@@ -130,7 +130,11 @@ export const seatComposer = {
       decisionKind: "decision-kind/departure",
       statement: "Words returned go before what the box holds, with a blank line between.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Typing in the box tells the seat's page the person signed in is typing.",
+    },
   ],
   createdAt: "2026-09-24T18:02:40.725Z",
-  updatedAt: "2026-10-24T22:27:09.050Z",
+  updatedAt: "2026-10-24T22:38:18.085Z",
 } as const satisfies Module

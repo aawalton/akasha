@@ -1,5 +1,6 @@
 "use client"
 
+import { useTypingBeat } from "akasha/agent/seat/modules/typing/seat-typing.module.code.tsx"
 import type { Voice } from "akasha/agent/seat/voice/modules/live/seat-voice-live.module.code.ts"
 import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
 import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
@@ -288,8 +289,10 @@ export function SeatComposer({
   const { attached, add, remove, clear } = useAttached()
   const picker = useRef<HTMLInputElement | null>(null)
   const empty = draft.trim() === "" && attached.length === 0
+  const beat = useTypingBeat(seat)
   const send = () => {
     if (empty) return
+    beat.stopped()
     const text = draft.trim()
     void onSend(
       text,
@@ -329,7 +332,9 @@ export function SeatComposer({
           onChange={(event) => {
             setDraft(event.target.value)
             keepDraft(shelfHere(), key, event.target.value)
+            beat.typed(event.target.value)
           }}
+          onBlur={beat.stopped}
           onKeyDown={(event) => {
             if (!enterSends(event, touch)) return
             event.preventDefault()
