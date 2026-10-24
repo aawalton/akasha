@@ -1,0 +1,183 @@
+The pillared hallway opened into three areas, two of which I’d already explored. I’d seen the junk-filled audience chamber and the sunken stairwell, but the third, an archway from which the skeletons attacked, stood silent. No more monsters visited despite the battle’s clamor. It seemed safe to investigate the magic ring around the ogre’s finger.
+
+I needed to be careful. Somewhere in this dungeon stalked a relic bearer. While I knew the anomalocaris could swim, it could also be amphibious. I kept my mental trigger finger for Counterspell on high alert in case a mummy wanted to blast me with a six-hundred-point Scorch. It wouldn’t buy me much time, but seconds mattered during combat.
+
+The skeletal giants bore no cores, meat, or loot except the ring, and since they shattered into separate bones after their health reached zero, the ring slid easily off the ogre’s knucklebone.
+
+Item
+
+Band of Versatility
+
+Rarity
+
+Epic (orange)
+
+Description
+
+Level 36 ring+3 to stats
+
+It had only been a day since I found another orange-rated ring, and its brief description didn’t disappoint. Since The Book of Dungeons rewarded every level gain with three points of stats, the ring equated me to level 34 in every way except power points.
+
+There seemed to be no way of knowing the game’s level cap until I reached it, but I felt powerful. The ring had little flavor, but its stats gave me a considerable advantage. I’d mastered as many combat skills as possible and unlocked what seemed like ultimate spells in the power-point system. I also carried a longsword that had to be one of the most potent weapons in Miros. Not even Fabulosa knew about it.
+
+The ring made things look good on my character sheet.
+
+Name
+
+Apache, Lieutenant Governor of Hawkhurst and elder of Forren
+
+Level
+
+29 (5,855/6,135 experience to next level)
+
+Armor
+
+50
+
+Stamina
+
+41 (410 health)
+
+Intelligence
+
+48 (480 mana)
+
+Strength
+
+29 (+29 damage to physical attacks)
+
+Agility
+
+32 (+32% to hit/dodge physical attacks and movement)
+
+Willpower
+
+55 (+55% to spell effects/resistances, health/mana recovery, and influence)
+
+Skills and ranks
+
+Alchemy 14, Arcane Magic 26, Blacksmithing 6, Bludgeoning Weapons 27, Carpentry 12, Command 2, Dark Magic 2, Defense 26, Dodge 27, Equestrian 13, Goblin 10, Governing 15, Leatherworking 12, Light Magic 23, Manuscript Creation 14, Nature Magic 26, Piercing Weapons 29, Primal Magic 24, Ranged Weapons 25, Research 31, Sailing 7, Slashing Weapons 27, Stealth 7, Survival 23, Tailoring 13
+
+Powers
+
+Cantrips Animal Empathy, Detect Magic, Heavenly Favor, Minor Hex, Shocking Reach Tier 1 Aggression, Animal Communion, Anticipate, Applied Knowledge, Charge, Compression Sphere, Detect Stealth, Hot Air, Imbue Weapon, Mana Shield, Mineral Empathy, Moonburn, Protector, Read Magic, Rest and Mend, Scorch, Thrust, WhirlTier 2 Amphibious, Avoid Ammo, Counterspell, Familiar, Inscribe Rune, Mineral Communion, Refresh Mana, Rejuvenate, Slipstream, TransposeTier 3 Dig, Magnetize, Restore Tier 4 Mineral Mutation, Move Object
+
+Note—Stats include buff and gear bonuses
+
+My physical stats, like agility and stamina, were average, and strength counted as my weakest attribute. But I liked where my intelligence and willpower stood.
+
+Willpower mitigated harmful spells and debuffs, but the lack of details in the combat log made willpower less tactile. My other impressive stat, intelligence, blessed me with a huge mana pool. Combined with Refresh Mana and my robe, I had access to over 1,400 mana—470 of which could channel into a Mana Shield in a pinch.
+
+If I had enough time, I could channel all of it into an Imbue Weapon, supercharging Gladius with for almost 1500 damage, almost certainly one-shotting any player out of the game—assuming I could get past defenses like Anticipate.
+
+And I still haven’t used my sword’s channeling bonus on solid ground. When fighting the goblins, I channeled Dig beneath them, gaining a footing advantage, but their jumping ability somewhat tempered the effect.
+
+But the skills and bonuses meant nothing to a relic bearer. If, by some miracle, the waterborne anomalocaris had the relic for primal damage, that would suit me just fine. Water prevented primal spellcasting.
+
+But all the undead at its doorstep implied dark magic.
+
+Regardless, I’d already blown through my daily cooldowns. Why take more chances? After a long morning of paddling on an awkward lizardfolk outrigger and an afternoon of dungeon crawling, I felt ready to call it a day.
+
+I pulled out the rope to the Dark Room, climbed inside, and pulled the line in after me—effectively tapping out of Miros for a while. Sleeping in a bed midway through a dungeon crawl was a luxury, and I wasn’t about to forgo indulging in it. My supper included ale from Hawkhurst’s brewery and dinosaur jerky. I ate greens from Rocky’s kitchen mixed with nuts and berries, climbed into a bunk, and enjoyed a full night’s sleep.
+
+After a hearty breakfast the following morning, I buffed up and combed through the trapped room and its debris, finding nothing of value and no hidden rooms. I copied the rune’s mechanics, even though I couldn’t replicate its physical components.
+
+The time of day meant nothing down here, so there seemed no harm in taking my time.
+
+I explored every doorway of the dungeon. I found a room filled with drinking or bathing facilities that time had long since destroyed.
+
+Doorways sometimes impeded my progress. Using Mineral Mutation, I carved chunks from them until I bore a hole through them. Only empty apartments awaited.
+
+One room featured a secret door that time had discolored enough that I didn’t need detection spells to locate it. Magnetism revealed how it opened, and pushing it revealed another room filled with organlike machinery, similar to the device Charitybelle and I examined before.
+
+A metal tube protruded from the floor. Its shiny surface contrasted with the brackish water flooding it eight feet down, and it looked like a brand-new well or sewer. How had the water not corroded it like the organ? The light from Presence shimmered off the water’s placid surface. Since the tube barely spanned the width of my shoulders, I could probably climb out without spells, but I had Amphibious and Hot Air handy in case I needed to make a faster exit.
+
+The bellows and outer case fared worse in the damp atmosphere than the device in the previous temple. This machine had collapsed under its weight and rusted into flakes. The first organ served ceremonial purposes and stopped a stone golem from going berserk. My preview of the crypt showed no antechambers or golems, so perhaps this organ controlled the temple’s liturgical routine, like bells in a monastery.
+
+Detect Magic revealed nothing of value, so I re-buffed and mentally primed myself for an underwater battle against an antediluvian mummy. I checked The Great RPG Contest interface for changes, but so far, nothing has happened. The contest listed 22 active players.
+
+Earning a quarter million dollars for college still seemed like a distant goal, with over a third of the players remaining, and each player grew stronger every day.
+
+Fabulosa traveled the northern lands, probably chasing Skullcaps across haunted mountain ranges. If I got knocked out trying to settle the havoc we’d unleashed in the game, she’d represent the last of the Belden gang.
+
+Not knowing what awaited at the bottom of the well made me question my sanity, but I hoped the gods of fortune favored the bold.
+
+Since Presence ruined any chance of sneaking up on creatures, I doused the light and navigated using Magnetism. Moving quietly, I tied off the anchor line, climbed into the tube, and slipped into the inky water. Though I couldn’t see below the reflective surface, Magnetize assured me the tube would be a monster-free environment.
+
+I pulled the trident from my inventory and used it to descend—careful not to bang it against the side. Water augmented every sound. I cringed when my scabbard lightly grazed the side of the tube, for I could hear even the lightest touches. I regretted not going in headfirst or pointing my weapon downward before entering. Its length prevented me from jabbing anything beneath me. Being too late to change anything, I prepared to equip Gladius.
+
+The anomalocaris was a long creature, and its tentacles sprouted from its front. It would be a tight fit, but the mummified sea creature could probably flatten its lateral row of fins enough to follow me inside this vertical shaft.
+
+Though the sarcophagus wasn’t near the opening, I needed to avoid getting close to it. It made no difference that the lid fell off and the anomalocaris had gotten out—drifting into the aging aura would end my game.
+
+I entered the room feet first, clutching my trident like a lifeline. Using Magnetize to detect the crypt’s dimensions, I determined the tube opened six feet above the seashelled floor. Being inside the tube interfered with my magnetic read of the room, but I probed my senses further as I entered the crypt.
+
+As I emerged, I nearly came face to face with an aquatic relic bearer.
+
+Interface arrows showed magnetic values, outlining the contours of the anomalocaris wrapping itself around the tube. I didn’t need Magnetize to see the mummy.
+
+Giant eyes radiating purple light loomed only a few feet above me.
+
+Name
+
+Ascended Mummified Anomalocaris
+
+Level
+
+45
+
+Difficulty
+
+Deadly (red)
+
+Health
+
+4,900/4,900
+
+I ignited Presence, hoping a blast of light would blind or stall the undead’s opening attack. The creature’s glowing purple eyes told me the relic school of magic. Perhaps glowing wasn’t the correct word. Though Presence blazed, the mummy’s softball-sized eyes consumed the light around them. Purple represented void magic governing darkness, illusion, death, and mind control.
+
+If eyes were indeed windows to the soul, I fathomed a malevolence so deep that this mummified crustacean possessed no memory of its previous life.
+
+Item
+
+Cursed Band of Dark Ascendence
+
+Rarity
+
+Purple (celestial)
+
+Description
+
+Level 120 head item+24 intelligence+8 stamina+16 willpowerThis relic contains the Necrolith, an opal binding its owner into a permanent mind-pact with Archdemon Gorgus the Extinguisher. Item use—Grants levitation. The wearer may alter values in their dark spells by a factor of 10.
+
+Casting Minor Hex in Belden’s courtyards never taught me about the corruption of dark magic, but seeing its hideous gaze convinced me of the wisdom of rejecting it. Dark magic offered more power than I imagined, a school that ruled over destruction itself, not only through the death of living creatures but of ideas—through the falsehood of illusion. It championed mind control, the destruction of self and agency. It was a discipline of evil—a purpose crystallized in the vacuum of this creature’s mad stare.
+
+Had my troubled past in Atlantic City prepared me for this game more than I realized? How many contestants had resisted dark magic’s temptation?
+
+But no players from the Belden starting zone had fallen into that trap. Perhaps our collective trust in one another gave us the fortitude to resist its allure. Or maybe we just got lucky.
+
+These were thoughts for another day—a day on solid land beneath a warm, pink sun, where I stood safe, dry, and surrounded by friends.
+
+Dino’s lessons echoed in my head. Victory required concentration on the fight at hand—to weigh my opponent’s strengths and weaknesses and utilize my resources.
+
+The anomalocaris responded to my light spell with one of its own. Its book-shaped gills fluttered, creating sharp swishing sounds in the water. My combat log recorded the casting of a spell called Blacken whose debuff, Blinded, needed no description. The room darkened into blackness as the magic extinguished Presence. An icon for Blinded appeared in my interface, a debuff I’d not seen since I’d faceplanted into a sap golem.
+
+The creature cast a second spell while I activated Magnetize’s interface arrows to reorientate my vision.
+
+Debuff
+
+Frozen Blood
+
+-86 Agility
+
+Duration
+
+30 minutes
+
+The familiar debuff appeared in my interface as I slowed to immobilization. My willpower had likely reduced this, and to counter it further, I activated my charm of protection against dark magic. The +20 willpower reduced the agility debuff from -86 to -35. Since I had 32 agility, it left me with a minor deficit. I could move, but only slowly.
+
+Willpower seemed to work on a spell-by-spell basis since every spell delivered different effects. High willpower could partially or wholly negate magic, and seeing only a -35 Frozen Blood made me feel like mine had crossed a critical threshold. It led me to believe I’d partially resist dark magic for the next ten minutes.
+
+Frozen Blood hadn’t Stunned me, so I still held my trident, but I couldn’t move.
+
+Why couldn’t this relic be the one for primal magic?

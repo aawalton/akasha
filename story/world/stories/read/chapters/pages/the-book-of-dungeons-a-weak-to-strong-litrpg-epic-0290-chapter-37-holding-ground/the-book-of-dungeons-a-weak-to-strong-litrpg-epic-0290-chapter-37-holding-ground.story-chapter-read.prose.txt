@@ -1,0 +1,143 @@
+The earthworks stretched over two miles between the Orga River and the northern shores of Otter Lake. The six-foot-high berm of soil presided over a ditch six feet in depth, making for an obstacle well over the height of our enemies. I used Dig to stack the dirt at a 60-degree angle—the steepest packed dirt could hold until Yula carpeted it with magically grown grass.
+
+The 60-degree climb looked vertical close up, a challenge to even mountaineering orcs. They couldn’t easily overcome the obstacle without ladders, and it would take concentration to ascend, something we intended to deprive, for our citizens held pikes to make the feat more dangerous.
+
+If a defender couldn’t repel an invader, we’d need to kill the orc quickly, or more would follow.
+
+About a hundred yards behind us stood our wooden fortifications, and far behind it towered Hawkhurst Castle, our last refuge.
+
+When the orcs moved forward, they equipped themselves with shields slung over their backs—light wooden boards, not sturdy enough to withstand melee combat but enough to repel arrows and slings.
+
+The air whistled with our stones and bullets when they reached within fifty yards. Everyone let fly as the attackers reached range. No officers issued orders to shoot. If someone had a shot, they took it. Concentrated volleys accomplished nothing. It looked dramatic, but we’d preferred an enemy who couldn’t predict when missiles might strike. The invaders barely returned fire, for we stood safely behind the earthworks. Instead, they held up their shields and walked toward us.
+
+A dozen soldiers from every century hung back, including drummers, officers, and servants. Some wore decorative armor, while others appeared as noncombatants—messengers, dignitaries, and clerical types.
+
+The imperial camp watched us from the meadow’s edge, but I saw no signs of Uproar.
+
+The orcs’ chant unnerved me more than anything else. It sounded like a synchronized shout, more than a song, and it only wavered when they jumped into the ditch and began scrambling up the dirt wall.
+
+The average orc leveled up to the teens and had around 200 health. Our missile fire dropped very few. Orcs bled from shattered shins, knees, and headshots, and a few collapsed until Stunned debuffs cleared. Ribbons of golden healing laced through their ranks. Their healing wasn’t powerful, but gaps in their line reformed. A few drank health potions. Those nearing death withdrew to fight another day. None attacked with disregard for their life.
+
+Perhaps they needed an example of reckless behavior.
+
+After seeing nothing with Detect Stealth, I lept from the earthworks into the ditch with Gladius Cognitus drawn. The thin trail of light from its tip drew their attention, and orcs along my fifty-yard section of the wall pointed and converged on my position.
+
+I nailed attackers with 48-point Scorches every four seconds when they reached my range. When I dropped the first orc, shouts preceded a rush toward my position. Dozens of soldiers Charged with pikes, creating a visible break in their line. Since the orcs spread out, I repelled their pikes individually and closed into melee range. Pikes worked fine at a distance and in coordination with others, but they made terrible melee weapons.
+
+The orcs I engaged quickly dropped their pikes and equipped maces, axes, and scimitars.
+
+I fought as dispassionately and methodically as I’d worked in the library, ruling out grids on parchment. Ignoring all else, I focused on the task ahead. Using what Dino had taught me, I undermined my enemy’s footwork with Dig, creating opportunities to parry, Thrust, and Charge. I economized my movements to maximum efficiency. I positioned myself to use off-balanced or incapacitated enemies as meat shields. My Helm of Peripheral Vision allowed me to observe all attackers around me.
+
+My enemies fought with unique resources. Blue bubbles of light winked in and out, momentarily circling them. It seemed similar to Merciful Touch, a command promotion that shielded allies from damage. The blue effect faded after a few seconds, so timing became important. They employed combat maneuvers like Charge, Lunge, Discharge, and Shield Bash.
+
+Fabulosa mentioned she had uncles in the military and that modern soldiers trained for hand-to-hand fighting, but most troops avoided it at all costs.
+
+Low-tech armies enjoyed no such luxury.
+
+Military strategists use the metaphor tides of war to describe various circumstances, but only a witness to mass combat could appreciate its original meaning. When large groups attacked, combatants didn’t make suicidal plunges into enemy ranks. Warriors engaged in skirmishes, creating a back-and-forth motion like waves breaking and receding along a beachfront. Soldiers extended themselves only so far as their compatriots followed. When it looked like the enemy would stop yielding ground, attackers faltered and returned to the safety of numbers.
+
+The orcs and I fought with our feet constantly in motion, constantly attacking and yielding ground. They rushed in waves until Dig and counterattacks broke their formation. I stabbed Gladius Cognitus with precision, dealing 80-point hits and 160-point crits. His lingering light trail hung in the air as if to warn them they faced no simple warrior. Orcs behind the front line sang loudly, reminding colleagues they weren’t alone, encouraging comrades to press forward.
+
+The commotion drew the attention of the enemy officers. Over a century of orcs hurried to my position. I welcomed the spotlight. The more I distracted them from the earthworks, the better Hawkhurst’s militia would fare.
+
+I’d fought orcs before, but not with Gladius Cognitus. By directing my weapon to cast Compression Sphere runes into organized groups, I disrupted their ranks as I had against the goblins. Dig thwarted their footing and coordination. I exploited gaps wherever they appeared. When wounded orcs retreated, I finished them with Scorch. Whirl made them particularly skittish, and nine fell in a single attack. I even used Earthquake beneath onlookers, not engaged in combat.
+
+When an orc champion dressed in purple worked through the crowd, followers wearing the same color trickled to the front with him. At the sight of the purple team, the rank-and-file troops broke their assault, hung back, and prepared themselves for a show.
+
+Without ceremony, I invoked Glowing Coals beneath the newcomers, fracturing their cohesion and, frankly, their dignity. My blade met orcs fleeing the searing ground.
+
+While occupying the enemy, I managed my resources. Refresh Mana replenished my 470-point mana pool. Rejuvenate stayed in constant rotation, and I Restored myself three times—once after casting Moonburn to Stun a wide arc of enemies and twice after Slipstreaming to a location safe enough to cast the six-second heal. For my only potion, I quenched a major health potion for a 150-point reprieve. Unfortunately, I wasted my robe’s rewind ability to reset Rejuvenate.
+
+To give my cooldowns a chance to catch up, I invoked Hot Air and rose from the ground with a bubble of Avoid Ammo around me. The spectacle caught lots of attention, possibly more than I wanted. For thirty-five seconds, I lifted upwards, and for another thirty-five, I dropped to the ground. All the while, I dropped spells on them. I took incoming Scorches, but their ranks in primal damage made the magic ineffectual. By the time I touched down, the enemy had grown so frustrated they rushed me from all sides.
+
+I triggered my Hardwood Girdle, activating an ability that turned me into a small tree. Casting it during combat confused the enemy, for everyone could plainly see what had happened. The transformation confused and stalled their rhythm and stopped their singing. It seemed unnatural to attack a tree, so the orcs stayed their weapons and looked to one another for clues about how to proceed.
+
+The closest orc approached, almost afraid to touch me. When another finally did, he pushed me hard enough to shake my branches. He shouted something in Orcish, and someone brought him a battleax. I canceled the transformation when he turned to take it and cut him down with a combination of backstab and Shocking Reach. The ruse bought me a minute reprieve for all my cooldown timers. After the lull, the battle resumed.
+
+The orcs fought with more ferocity. My tree-gimmick left them feeling foolish and incensed them to retaliate.
+
+Insulting them had been a mistake, and soon, I fought like a cornered animal. Losing track of their cadence blue bubble-shields, I wasted several attacks. As much damage as I could mete out, my offense couldn’t stave off the inevitable collapse of my health pool. When I fell below 30 health, I invoked Holy Smoke and reappeared supine on the temple’s altar.
+
+While I had full health and mana, all my cooldowns for my powers and equipment appeared triggered, as if I used everything at once. Fortunately, I’d already spent most of my powers.
+
+My potions had the same effect—I had to wait ten minutes before drinking one. Holy Smoke could save me from death, but reconstituting left me in a weakened state.
+
+I ran from the temple to the closest tower and climbed its winding staircase.
+
+My interface map depicted the battlefield’s state. It showed two lines of red and green dots. A thick ring of red dots stood where I’d fought, dispersing slower than I expected. My silly ploy to turn into a tree had made them paranoid. The orcs didn’t want to turn their backs on me to focus on the earthworks until they could verify I hadn’t turned invisible and planned an attack from behind.
+
+The green blips held their ground while the reds dispersed back to the tree line. Thaxter’s company along the riverside section had thinned out the most, but nothing had penetrated the line. Was it possible we’d won the day?
+
+Atop the castle walls, I took in the scene. The vantage let me see our lines holding all along the earthworks. We’d kicked up so much dust that the interface better illustrated the battle’s status.
+
+When Slipstream refreshed, I dropped to the ground, summoned Jasper, and rode hard toward the motte and bailey where townspeople still fought.
+
+When I looked at the settlement interface, the population remained a healthy 302. We’d lost no citizens. Faint cheers accompanied the sound of Jasper’s hooves.
+
+When I arrived at the motte and bailey, I returned Iris’s salute on my way out to Yula’s company on the western side of the earthworks.
+
+The event log listed the amount of experience I earned over the fight—93. It seemed paltry, but I fought as part of a militia, and the more allies I had, the more they leeched experience—a consequence of commanding 240 troops.
+
+Among the combat messages recorded in the event log, I noticed hundreds of uses of Merciful Touch. I’d nearly forgotten how important the promotion had been to everyone’s survivability. It made me grateful I took Defender for my command power.
+
+Jasper and I passed burn marks from Glowing Coals along the earthworks. I spotted Captain Jourdain conferring with Corporal Turan. I called to him. “Hey, Captain! Congrats on the battle! Do we have a body count yet?”
+
+“My battle damage assessment puts the enemy down by 152, Governor. Quite a few of those were yours.”
+
+I couldn’t help but grin at the compliment. “It felt like I had a hundred around me. I’m sorry I missed the rest of the battle.”
+
+Captain Jourdain rested his arms on his hips and laughed. “A hundred? Sir, you nearly killed a hundred. You had nearly three, maybe four, centuries around you. I can’t say you missed much. You barely left any action for the rest of us.”
+
+I pointed to the Heady Headband wrapping around the captain’s brow. “How did the new equipment turn out?”
+
+Jourdain’s eyes looked upward. “The headband bought us a lot of time. Orcs breaking past our ranks faltered when they realized they stood outnumbered. The hesitation broke their momentum, and a few fell back with their fellows.”
+
+Corporal Turan grinned madly. She had mud and blood all over her green uniform. “The Alliance Pikes were the best, sir. Delta Company pushed the orcs back. All that agility made them too swift to target with normal ranged fire. The pikers almost rolled up the entire enemy line.”
+
+I scanned the side of the battlefield where Thaxter’s pike wielders pushed forward. “Did they not kill anyone? Or do the orcs carry away their dead?”
+
+The corporal shook her head and grinned. “That’s not it. Lloyd used his new blade, Fertilizer, to disappear the fallen enemy.”
+
+“I thought he agreed to hole up in the manor.”
+
+Corporal Turan shrugged. “He did, but I guess it didn’t take.”
+
+Captain Jourdain explained. “The lack of bodies will make the orcs nervous. They’re probably worried we’re turning them into zombies or some unseemly purpose.”
+
+Yula’s voice called from behind me. “For next battle, make greeffon scream.”
+
+The orc’s stern expression and strange question sobered me up. “What?”
+
+“Ze greeffon—Beaker. Sound alarm to retreat eef emperor attacks again?”
+
+“Ugh. Yeah, I think so. Why?”
+
+“He is loud. Can sound retreat. When orcs come again, zey will be prepared. Earthwork ees not good anymore. Must sound fall back to fort.” She gestured to the palisade. “Must depend on Beaker.”
+
+I weighed her words. Could I train my pet to scream on command? Maybe. He loved making noise, but Beaker became excitable and easily distracted. As much as I loved him, depending on him to save lives wasn’t wise. Aside from the many ways a griffon alarm wouldn’t work, if the orcs tempted him near, they could shoot and dispel him.
+
+“How much time do we have until their next attack?”
+
+Yula regarded the woods and considered the question. “Not today. Zees ees probing attack. Tomorrow ees not so easy.”
+
+My elation subsided at her dismissal of our victory. “One of the few runes I’ve figured out is triggering Compression Spheres, but I learned a new delaying function. Let me see if I can daisy-chain them. If it goes off, everyone will know to run.”
+
+Yula gave one curt nod. “I will tell troops. You make rune, yes?”
+
+“Yeah. I’ll see what I can do.”
+
+Yula’s assessment of the day’s efforts dampened my mood. Nor did I look forward to rigging up new runes. I never figured out how to activate multiple Compression Spheres simultaneously. Perhaps I could hack through the cooldown requirement if independent events triggered them, but I wasn’t sure how to differentiate them.
+
+I wasn’t the only person with chores. Corporals assigned subordinates to repair the earthworks where needed. Even though I’d built the thing, no one asked the governor to repair it.
+
+Only Iris and Corporal Turan, who’d stayed out of combat while guarding the old motte and bailey, had seen me fight. My spectacle went unnoticed by defenders who’d busied themselves with their own struggles.
+
+Citizens laughed and swapped stories, shaking off the tension and sharing the thrill of victory. Watching militia members congratulating one another for their performance left me with a familiar pang of envy. Whatever eye contact I made only lasted long enough to be respectful. Instead of jokes and slaps on the back, I received brief nods and smiles.
+
+Everyone else had fought with their dinner companions. I’d fought alone.
+
+Perhaps my rank stopped militia members from fraternizing with their chief. Distracting so many orcs made a significant contribution to the battle, but in a fashion, I’d missed the main event. Zigging when everyone zagged left me feeling on the outs.
+
+Despite having an entire town around me, I felt empty, and it wasn’t just because the orcs planned something bigger tomorrow. This wasn’t the proverbial loneliness at the top feeling. No, this was something else—like a player versus NPC thing.
+
+Because I had a job to perform, I didn’t dwell on it. Somehow, I had to go off and figure out how to connect these confounded runes.

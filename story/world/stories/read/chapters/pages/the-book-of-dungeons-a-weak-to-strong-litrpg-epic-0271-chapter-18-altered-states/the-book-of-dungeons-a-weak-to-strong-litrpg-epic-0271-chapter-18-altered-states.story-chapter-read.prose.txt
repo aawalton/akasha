@@ -1,0 +1,181 @@
+Being underwater negates primal spells. I had a 50 percent chance of finding the relic for primal magic, and losing the coin flip forced me to focus on the fight ahead.
+
+Blinded by the Blacken spell, I followed the creature’s movements through the Magnetize.
+
+The anomalocaris sensed me tracking it, so it must have believed I could still see. It wasted time casting multiple illusions, something I only knew to be true from the actions reported in my combat log.
+
+The interface arrows outlined my physical surroundings—magnetic fields ignored whatever phantasmal horrors the creature conjured with illusion.
+
+Since Frozen Blood prevented me from jabbing the anomalocaris with my trident, I used Amphibious to block the line of sight between the mummy and me with the metal tube. Magnetism revealed the metal tube’s strange lack of magnetism, almost as weak as the creature, whose form faintly registered in the water.
+
+The monster didn’t let me use the tube as a sight-blocker to avoid its spells for long. Rows of fins along its length undulated, propelling the anomalocaris from behind the tube to a plain line of sight. Its gills buzzed again, and another debuff appeared in my interface.
+
+Debuff
+
+Fugue
+
+Wants for nothing except to kill living things. Remembers nothing except there are living things to kill.
+
+Duration
+
+299 seconds
+
+The feeling of being born again invigorated me with a new hatred for life. I yearned for the scent of a freshly killed creature. I had a clear purpose and a new ally. The anomalocaris made a worthy companion.
+
+My first obstacle was that I was still alive. How was I alive underwater? After scanning my various buffs and debuffs, I realized holding this trident allowed me to breathe underwater—and that wouldn’t do.
+
+After I died, the anomalocaris could reanimate me into an undead zombie—a more befitting state for someone with Fugue.
+
+I dropped my trident, the quickest way to end my life. Killing myself seemed the surest way to prove myself to my new partner. With my help, we’d spring the anomalocaris from this tomb and wage a proper war against the living together.
+
+Debuff
+
+Asphyxiated
+
+-1 stamina
+
+Duration
+
+Until you can breathe
+
+A number 2 appeared in my debuff icon a second later, denoting another stack on the Asphyxiation. A third appeared a second later, as my health pool dropped to 290, leaving me with 29 seconds before drowning. I nodded to the anomalocaris, hoping the wait wouldn’t be too long for my master.
+
+Flexing my stiff fingers felt strange. Why was I disarmed? Drifting in the water without weapons made me self-conscious. What would my companion think of his new servant? Being unarmed made me feel weak and ineffectual, so I searched my inventory for a proper weapon and spotted a magnificent purple longsword. When I drew it, the blade’s tip left behind a glowing trail of arcane light that confused and disoriented me.
+
+The second I gripped the blade, I snapped out of a haze and regarded my surroundings. Where was I? A stack of blinking debuffs in my interface indicated I would drown in ten seconds.
+
+Why was I drowning, and where was my trident?
+
+And I couldn’t see. Had something blinded me during my blackout? The curved arrows of Magnetism outlined the trident lying beneath my feet. What was it doing down there? To sort things out, I froze time and opened my event log.
+
+/Ascended Anomalocaris casts Dim./You are blind./Ascended Anomalocaris casts Frozen Blood./You have entered combat./You have activated Charm of Protection from Dark Magic./Ascended Anomalocaris casts Imaginary Terrors./Ascended Anomalocaris casts Mirror Image (times 30). /Ascended Anomalocaris casts Fugue. /You have left combat./You dropped Undersea Trident/You are drowning./You equipped Gladius Cognitus/You have resisted Fugue. /You are in a state of combat.
+
+A blinking icon in my buffs disappeared. It must have been the one for Fugue, a debuff or buff I didn’t recognize. I remembered coming to the underwater temple and fighting a relic bearer. Why had I dropped my trident? Had I been charmed with Fugue?
+
+Wielding Gladius Cognitus raised my willpower to a point that resisted Fugue’s hold on me. I remembered using the charm of protection, which further raised my willpower against dark magic to an incredible 70 for the next ten minutes.
+
+I could use a combination of Magnetize and Amphibious to retrieve my trident, but what then? Between the charm of protection and my sword, I could resist only Fugue for ten minutes, which put me on the clock.
+
+It surprised me I resisted the spell—especially one cast by a relic bearer. Shouldn’t it just overpower me? No. Relics didn’t work that way. They affected numbers in the spell description by a magnitude of ten. But dark magic didn’t behave like light or primal. Its spells affected the mind.
+
+An illusion multiplied by ten wasn’t a more powerful illusion. None of the undead casters I fought cast dark magic spells that inflicted damage. Perhaps this relic wasn’t as powerful as Rezan’s after all.
+
+But that still left me with no plan of attack. This oversized lobster possessed no weakness I could exploit, certainly not at the bottom of the lake. Wielding Gladius reduced Frozen Blood’s effects from -52 to -29, leaving me with 3 agility to move. It wouldn’t affect my Amphibious swimming speed, but it wasn’t enough to fight.
+
+The undead anomalocaris languidly floated above me. Its twin tentacles hung lazily, content with how the opening attacks unfolded. As long as I made no rash moves, it might not notice that I’d resisted its control magic.
+
+I studied my spells, but nothing applied to my situation.
+
+Earthquake offered no hope, mainly because this temple rested beneath the lake. Ages had worn away many of the stone blocks. Toppling it might kill the anomalocaris, but it might not. It was undead and agile underwater. If it survived, the mummy might have an easier time escaping than me.
+
+I couldn’t perform Whirl, for the ability required me to strike the enemy. Besides, I doubted a simple disorientation in spinning water would prevent it from casting spells, and Whirl wouldn’t compromise a creature so large.
+
+After reading my powers, equipment, and weapons, I needed a new plan. I’d only forced the creature to leave its perch on the tube.
+
+If I could retrieve the trident and slip up the tube, the monster might follow me inside. I was the mummy’s only hope of freedom, so it would have to follow me. With my weapons both pointing down, I could jam them into the monster’s face. I’d undoubtedly make critical hits on a creature that needed to squeeze inside, perhaps giving the monster a Grappled condition.
+
+If things went south, I could use Amphibious to swim up and leap out of the water to the relative safety of the dry dungeon above.
+
+Before worrying about conclusion tactics, I addressed my immediate problem. A stack of twenty-one Asphyxiated debuffs left me with only a handful of seconds before drowning. When I closed my interface, I drifted closer to the trident lying beneath the tube. I made an indirect approach while making no conspicuous moves. Dark magic wasn’t the school of detection. I gave it no reason to suspect funny business.
+
+When I neared the tube, the anomalocaris turned toward me.
+
+I cast Rejuvenate on it.
+
+The thing thrashed, but not as much as I’d hoped. Its gills vibrated another spell.
+
+I retrieved the trident back into my grasp while Counterspelling my opponent’s next cast. Wielding both weapons, I retreated into the tube as fast as Amphibious would carry me. Counterspelling a relic bearer meant next to nothing, but it bought me enough time to escape its line of sight. My enemy couldn’t target what it couldn’t see.
+
+I withdrew into the tube.
+
+The anomalocaris wasted no time pursuing, deftly squeezing inside behind me.
+
+I ascended. When I reached the surface, I’d use Amphibious to jump out of the water and Hot Air my way to safety. Before the monster reached melee range, a deep cracking sound deafened me, and Magnetize’s arrows stretched and stopped moving.
+
+I stopped moving. The anomalocaris stopped moving. The water between us stopped swirling.
+
+Everything froze.
+
+I couldn’t move my limbs or fingers—even my feet stopped swaying.
+
+A Grappled debuff appeared, stopping Amphibious from propelling me upward. The anomalocaris floated over a dozen feet away. Interface arrows showed my opponent had turned into a statue with its tentacles extended.
+
+The combat log announced an area-of-effect spell.
+
+/Ascended Anomalocaris casts Dead Ice.
+
+An icon for Dead Ice didn’t appear in my interface, so it wasn’t a targeted effect. Because I wore the Circle of Temperance, the ice wasn’t cold against my skin, so I hadn’t taken damage. Since the spell came from a relic bearer, I could reasonably assume the ice’s volume to be ten times the regular amount. Deep, muffled cracks replaced the swishy, bubbly noises of being underwater. Without knowing the size of the ice encasing me, I couldn’t tell how long it would take to melt.
+
+I waited, and seconds passed.
+
+I’d made it halfway up the tube before the anomalocaris slipped inside. Several yards of solid ice separated us.
+
+I waited, and minutes passed.
+
+Fugue ended before my charm of protection. While I couldn’t have done anything to harm myself, it relieved me to avoid its mind-alter effects and forgetfulness. After half an hour, Frozen Blood ended, yet Dead Ice prevented me from moving my limbs.
+
+I waited, and hours passed.
+
+My undead opponent had all the time in the world, and yet I could foil its strategy. The monster planned to starve, suffocate, and freeze me to death, involving itself to pick up the pieces. If it took hours, years, or centuries, what did time mean to a mummy?
+
+But I wasn’t a normal human in the world of Miros. I was a player—a demon from another world where people played RPGs for fun. If an undead anomalocarus thought it could outwait me, it had better think again—and I intended to give it plenty of time to think.
+
+My body temperature would eventually melt the ice. I wouldn’t have enough room to stretch at first, but as slivers of ice between my fingers disappeared, I could use my hands again.
+
+When Blacken ended, I cast Presence. I couldn’t tell if Dead Ice appeared different than normal ice, because it pressed against my face and eyes. I saw nothing but a bright blur. When Presence ended, everything became a dark blur.
+
+But a dark blur wouldn’t kill me.
+
+I had one power point, and Earthquake seemed the viable way to damage the ice. But I couldn’t cast it without bringing down the temple upon me. Rally seemed an option, but the distance between us was too great. Rally was an AOE, a short-ranged spell. A stretch of ice many yards thick separated us. It blocked either of us from targeting the other.
+
+No, my chief attack would be body heat. Life itself would be my salvation from Dead Ice. And since I fought against an undead opponent, body heat would be an asset that I alone enjoyed. Eventually, I would become free, whereas this dead thing would not.
+
+If it wanted to waste time, I’d let it.
+
+I waited, and days passed.
+
+At first, I thought I’d die without the Necklace of Sustenance, but I didn’t even need it. As the game allowed players to drink potions directly from their inventory, so, too, could we eat. I’d stored stacks of snacks in my void bag. Leftovers from Rocky’s creations broke the monotony of the necklace’s artificial nourishment.
+
+I watched the interface clock as the days ticked by. I scrolled through my event log, revisiting the past to stimulate my brain. When I grew bored, I slept.
+
+My inability to dream likely saved me from losing my mind. Perhaps immobility made it easy to sleep long or had something to do with the dream interface. Sleep came easy.
+
+The body cast of ice melted to coffin dimensions, giving me enough room to poke the ice with the trident. Inflicting structural damage didn’t apply to Dead Ice.
+
+Water didn’t damage vellum, so I wrote to Captain Jourdain, who wore the other Switching Glove. I scratched a crude message using a piece of charcoal, telling him I was okay and still fighting a relic bearer, albeit in a most unusual way.
+
+A blanket appeared in my hand when I sent him the note.
+
+I cringed at the thought of disturbing the captain and silently apologized. I’d forgotten the time to be the late evening. He was likely in bed or nestled in a comfortable chair. I cringed again after stupidly returning the blanket, realizing too late that in the brief seconds I’d held it, it had soaked up freezing water.
+
+Sorry about that, Captain.
+
+It was probably best to keep communications to a minimum. I went back to sleep, and weeks passed.
+
+The next time I awoke, the cocoon of ice had melted into the size of a large bathtub. I could see the side of the tube and studied how tiny the interface arrows appeared when I cast Magnetism. What metals had low conductivity? It looked too shiny and hard to be lead, so it was probably titanium, which explained why it hadn’t rusted.
+
+If the anomalocaris wanted to give me time, I’d use time against it. I considered my options. Nonconductive metals were inert. This meant I could use Mineral Mutation on the tube.
+
+Using the spell, I bore a tiny hole, turning it into cotton, which I promptly pulled apart to create a peephole. A solid wall of ice on the other side of the metal prevented me from seeing anything. Dead Ice was an area-of-effect spell. The ice encasing the tube ensured I wouldn’t be going anywhere soon.
+
+That was okay. I was a creature of willpower in more ways than one. Icebergs melted slowly, but eventually, they melted.
+
+I could sleep away this ice, and it would only feel like a blink of an eye.
+
+I slept, and months passed.
+
+An interface chime interrupted my slumber.
+
+Congratulations!16 Players Remaining
+
+You have reached a milestone in The Great RPG Contest!
+
+Contestants participating in Crimson Software’s The Book of Dungeons Closed Beta 0.71b will no longer receive a bounty bonus of $10,000 for delivering the killing blow to opponents from this point forward. You have unlocked a new feature, The Great RPG Contest Chat Channel.
+
+Good luck!
+
+I stared at the alert. When I’d entered the crypt, 22 contestants still played. Six had gone.
+
+Eventually, the reality of the contest came back to me. I was alive and still playing.
+
+Shaking off the languor made me realize the new feature allowed me to communicate with other players—it offered a new lifeline to stimulus.

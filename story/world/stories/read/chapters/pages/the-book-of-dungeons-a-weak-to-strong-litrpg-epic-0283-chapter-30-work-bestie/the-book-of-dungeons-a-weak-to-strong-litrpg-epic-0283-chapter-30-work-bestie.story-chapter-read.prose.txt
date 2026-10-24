@@ -1,0 +1,171 @@
+Castles did wonders for the ego. A simple walk home instilled an air of importance. The route to the manor went through the barbican, across a drawbridge, over a moat, and through a solid metal gatehouse. Sure, I could Slipstream straight into a tower arrow slit and save a little time, but then I’d miss a chance to admire iron-reinforced double doors and portcullises.
+
+The Helm of Peripheral Vision augmented the experience, displaying the world in 360 degrees. I could also see directly upward and downward. Its lack of distortion made it incomparable to any experience or reference. I saw the positions of celestial bodies while watching my footing. It would undoubtedly help in combat situations, especially on uneven ground.
+
+The castle inflated my confidence, but not in the same way as the great hall. Something about sitting at the head of the table felt strange, but I couldn’t quite put my finger on it.
+
+At first, taking the best seat in the house felt self-aggrandizing, but that wasn’t the problem. In some ways, it made for the worst seat in the house because everyone knew where to find me if someone had complaints, questions, or wanted to assassinate me. It also had something to do with the feeling of being on display, which made me feel self-conscious, especially while I was eating.
+
+Even though having an assigned seat solved my problem of not having a dinner companion, the big chair made me uncomfortable. I hadn’t lost myself in conversation over a meal since Fabulosa had left. I missed being with other players. Focusing on settlement and security issues wasn’t a relaxing way to get through a meal. What I said mattered, so I couldn’t let my hair down and goof around. In high school, I ate lunch with other nerds. We weren’t close, but we shared the same interests. We talked about good games, bad movies, and school gossip. When my girlfriend dumped me, their company cheered me up.
+
+I felt like a celebrity, propped by the front of a restaurant to draw in more customers. Sure, celebrities enjoyed complimentary appetizers and desserts, but being on display kept a person’s guard up.
+
+The adage rang true—it was lonely at the top. I never thought I’d learn this lesson in an RPG, but something about it wasn’t quite applicable in my case. Ida never seemed lonely. She meshed with the other NPCs. While she sat beside me at meals, I could tell she preferred Ally and Maggie’s company. And after spending months with her clerks, she’d made other relationships.
+
+I’d adopted Hawkhurst as my ersatz family, but what did I know of family ties? I enjoyed playful conversations with our NPCs, but they tended to be short and focused on problem-solving. It didn’t feel like a genuine friendship I’d made with the other players.
+
+Perhaps this explained why Fabulosa had cooled off on Dino. She accused me of going native and getting too close to the NPCs, but had I? Sometimes, it didn’t feel like it. My vacation from Hawkhurst, if one could call months in ice a vacation, gave me a new perspective. My gut said I didn’t belong here, but something in me wanted to see this through.
+
+Finishing the castle amounted to more than a settlement milestone—it completed my desire to realize Charitybelle’s vision. What would I do after destroying the last relic?
+
+My train of thought had taken me into amusing territory—worrying about what to do after slaying the orc emperor—as if I had bagged the primal relic already. I had plenty on my plate running a scam with Uproar, a mission to destroy a relic, and a settlement to defend. If a brief stint of loneliness were the price for reaping the rewards of a settlement, I’d stick it out.
+
+When I entered the manor, Ida, Ally, and Maggie already sat at the conference table chatting amicably. I stomped several times in the doorway to show Ida that no mud clung to my boots. I could always count on her to keep me grounded.
+
+“Good afternoon, ladies. Am I late?”
+
+Ally shook her head. “Nay, Guv. We just finished afternoon tea.”
+
+“My hats off to you over the castle. It’s gorgeous. Ida gave me the tour. And the temple turned out well, too.”
+
+Maggie nodded. “For a wee town to build a temple is no trivial matter. We done Forren proud, we have.”
+
+Ally crossed her arms in satisfaction. “Aye. I trust ye’ve seen the braw bump in morale?”
+
+I checked the settlement’s work interface.
+
+Building Status
+
+Wall
+
+Remaining Build TimeEfficiencyWorkers
+
+3.65 days86 percent135
+
+When I investigated why morale improved, the settlement’s list of events included my safe return—raising its event factor to 130 percent. It flattered me, but I knew the increase to be only temporary.
+
+Maggie winked at me. “Your return with fair tidings has buoyed spirits a mite.”
+
+“It’s good to see things are going well. Where shall we begin?” After a four-month absence, I turned to Ida, the settlement’s nerve center.
+
+Ida turned to Maggie. “First, I’d like to thank Mags for being the L.T. while you were away. She was a fine lieutenant governor. But let’s talk about our next project. That way, we won’t keep Ally and Mags from their duties.”
+
+Maggie flapped her hand. “Ah, go on. My girls have a rhythm down. They could cleave blocks in their sleep. Ally’s group works hand-in-hand with ‘em. Truth be told, I’m sorry to see the castle nearly done.”
+
+I shared her sentiment and grinned. “From what I can see, boardwalks are sorely needed. But I heard something about getting a tannery and a clayworks.”
+
+Ida sighed. “A boardwalk fixes our morale issues, but those haughty leatherworkers threaten to leave if we don’t start a tannery. They’ve been here a while, so I can see their point.”
+
+“Do you think the leatherworkers will leave?”
+
+All eyes looked at Ida while she mulled over the question.
+
+“I doubt it. I knew the castle would take a while to erect, so I explained our work-to-own policy and signed them onto the armor team. They’ll need to work off a tannery regardless, so it’s not costing them time. Besides, they get squat if they walk away.”
+
+I chuckled. “Clever.”
+
+Ida smiled at the compliment. “We need a clayworks to make a tannery. By now, the tanners know about our mud situation, so they’ll be sympathetic if we bump a boardwalk to the front of the queue.”
+
+“I’m not inclined to make that promise until we settle the matter with the relic. If that sends ‘em packing, then so be it. Security comes first. Tell them we’d like to build clayworks next, but there are no guarantees.”
+
+Ally tugged at her collar. “Aye. We need a clayworks before a laundry—which boosts our comfort rating a wee bit.”
+
+Maggie turned to me. “I’ve heard gab about hoardings for the walls. If security comes first, oughtn’t ye start on them?”
+
+Ally turned to her friend. “Hoardings come from the woodshop. Ye don’t need blues or skilled labor to slap them together.”
+
+Ida’s brows furrowed. “What in the four moons are hoardings?”
+
+I shared her confusion.
+
+Ally answered. “Hoardings are braw wooden shells atop the battlements. They repel light missile fire while supporting archers along the parapets. They’re quick to build and keep the rain off yer head. The woodshop makes millwork easy—although the crew needs to assemble a crane first.”
+
+This time, I asked. “A crane? How long does that take?”
+
+“The treadmill crane is like the lift at Sea Gate, except it’s temporary and easy to construct. The woodshop has the plans.”
+
+“And that doesn’t impede building a boardwalk?”
+
+Ally shrugged. “Ye need wood, but the gang is chopping for the boardwalk and palisade anyway. Between the lumber mill and the woodshop, wood for hoardings and a treadmill crane are modest undertakings. Remember, we have over a hundred workers now.”
+
+Hawkhurst would soon host multiple construction projects. I would be the town’s earth-moving force. The work crew would cut trees and build boardwalks while skilled woodworkers would top off our walls with hoardings.
+
+Ida’s finger pointed to a page of notes. “We only need to know what to say to Lloyd. He’s not wrong to say unloading freight on the docks is dangerous and time-consuming. He’s got his new ferry, but without a ferry slip, unloading carts requires cranes and half a dozen people—and during winds, it’s only a matter of time before we lose cargo over the issue.”
+
+“How long does it take to build a slip?”
+
+“Over a week, but we need a ferry slip for the far side of the lake. We’ll need workers on East Shore.”
+
+“How often are caravans arriving now?”
+
+Ida paused before answering. “It’s erratic. We had four caravans in three days before you arrived. Yesterday, we didn’t receive any, and tomorrow, we’re scheduled for one. It might be possible to coordinate with Iris, staggering when they’ll leave, but I’ve doubts about the coming of a second guard guild. Competition is a wild card.”
+
+It seemed like Hawkhurst would never be without bottlenecks in its build queue. “It will be worse when both guilds want to use the same ferry at once. We have two ferries, but one is hard to sail.”
+
+“And I’ve slated the shipyard for fishing boats.”
+
+I grunted. “Those are issues for another day. Let’s revisit them after we build a boardwalk. When morale improves, building a ferry slip won’t take so long.”
+
+Ida nodded at the decision. “That about sews up build queue questions. You two can go if you want. I’ve a list of topics I’d like to catch the Governor up on.” She pulled out a vellum of scribblings.
+
+Ally stood first. “Come on, Mags, let’s sneak up on ‘em and see who having a right old blether instead of pulling their weight.”
+
+After exchanging goodbyes, the pair made off for the western wall.
+
+“How are you?”
+
+Ida seemed taken aback by the question, and I’d blurted it out without thinking. I’d never asked her a personal question before. Perhaps this explained why I felt so alone. Friendships were a two-way street, and I’d swept into Hawkhurst from out of the blue. That she’d performed her duty didn’t surprise me, but I’d been treating her like an extension of the game—an NPC.
+
+Ida regarded the clerks quietly working at their desks before answering my question. She straightened in almost a guarded posture before choosing her words. “I’m good. The manor is comfortable, and I enjoy my work.”
+
+“Thanks for putting up with me and also for getting along without me. I’ve learned a little about leadership this past year.”
+
+Ida’s posture remained stiff, but she bore a thin smile. “I’d say you have, too.”
+
+“I’m glad you’re patient.”
+
+Ida grunted noncommittally and arched an eyebrow. “No one has ever accused me of that before.”
+
+I extended my arms and looked out the window overlooking Otter Lake. “Maybe it’s the environment. With ease comes civility.”
+
+“Arlington is a tough town. All the money makes people crazy, and perhaps my time in the gambling houses makes me biased. But Hawkhurst has its moments—I hated cramming into the barbican, but overall, it’s nicer here.”
+
+“That’s good to hear.” I gestured to her list of topics. “Let’s make sure it stays that way.”
+
+Ida nodded before reaching for her vellum. “I want to bump up our in-town patrols. Merchants in the free market are bringing their own guards, which I want to discourage. Criminals organize only in places where security softens. If we police vendors, they won’t need muscle.”
+
+“You think there’s a chance we’ll get organized crime?”
+
+Ida grinned. “I keep forgetting you’re not from a big city. The only thing that legitimizes a government is its ability to exert its will—usually through force.”
+
+“I want Hawkhurst to be different.”
+
+“I think we’re a bit late for that. Like any other settlement, you founded Hawkhurst on violence. I’ve heard the story about the worm and your raid on the goblin mine.”
+
+I raised my palms. “Hold on, now. They enslaved the dwarves.”
+
+“And you freed them with violence. And they stayed with you because of your ability to keep them safe—through force. We offer freedoms and land ownership—admirable policies—but the only way we can enforce the law, no matter how liberal, is through force. That barracks and guards aren’t for show.”
+
+“Well, what else are we supposed to do? Just hope people don’t betray us?”
+
+“Don’t get me wrong. Your philosophy is the reason I stayed. You freed me from the debtor’s prison like you freed the dwarves. I’m just saying that there’s no difference between justifying your government and that of a gang.”
+
+“Arlington has made you cynical. So you’re saying there’s no way to stop organized crime?”
+
+Ida chuckled and grabbed my arm for emphasis. “No. I’m saying the opposite. Organized crime only fills power vacuums. If you don’t police the free market, others will. And they’ll do it by leaning on the vendors. And they’ll bring in brutes to do the collections. I’ve seen it before. Tough guys are easy to find.”
+
+“That’s going to take a lot of guards. Yula won’t have as many resources to patrol the forest.”
+
+“You’ll need more for the rest of the city. As merchants settle, they’ll protect their wares. Hawkhurst will witness either guards or ruffians do it—but policing will happen.”
+
+“Let me guess—we’ll pay for it by collecting taxes. Doesn’t that make us like the goons extorting the merchants?”
+
+“As I said, crime outfits and governments have the same reason to exist. There’s nothing nefarious about taxes—as long as we spend them for the common weal. We’re the merchants’ partner, and we need operating funds. Security is a cost of doing business.”
+
+I missed having Charitybelle and Greenie’s counsel about such things.
+
+Ida pointed to the next item on her vellum. “Speaking of costs. Captain Jourdain sent us a requisition list of supplies we’ll need for the castle.”
+
+I groaned, but only as a joke. “I feel a headache coming on.”
+
+“Now, now, don’t spoil it. You mentioned learning about leadership only a few minutes ago…”

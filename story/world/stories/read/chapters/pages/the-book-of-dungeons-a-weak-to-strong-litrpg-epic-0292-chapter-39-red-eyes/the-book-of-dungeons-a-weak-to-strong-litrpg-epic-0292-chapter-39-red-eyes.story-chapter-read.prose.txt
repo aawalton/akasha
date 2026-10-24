@@ -1,0 +1,113 @@
+Brandishing Gladius left a bright, squiggly line behind me. An effect that the enemy remembered from our clash days before. The emperor may have watched me from a distance because I read wariness in his countenance and posture. He wasn’t the battlefield amateur that Rezan had been.
+
+Beaker circled overhead, outside bow range. He didn’t seem agitated. Orcs were too big for him to pick up and drop, so there didn’t seem to be any point in involving him. Dedicated members of Veegor’s entourage held bows and watched the griffon. Otherwise, I might have told him to snatch the shiny metal band from his head.
+
+I mumbled under my breath. “Gladdy, get ready to destroy the relic if I knock it off his head. Consider this my command—don’t wait for another.”
+
+I could feel the familiar vibration in my hand when he responded. “If the relic falls, I’ll activate the rune. Just maintain your grip on my handle.”
+
+Unlike goblins, orcs weren’t prone to Compression Sphere effects, but I had to try. Gladius and I could cast two in rapid succession.
+
+Veegor’s glowing red eyes narrowed at my approach. Wearing an oversized uniform with minimal accouterments. He equipped a shield to accompany his axe, which blazed with Ignite Weapon. He hovered inches over the ground, making me write off Earthquake, Glowing Coals, and Dig as possible means for spoiling his footwork. And none of Dino’s lessons had covered hovering opponents.
+
+When the bugbears approached, Veegor waved his shield. “We and we will face the human alone. Will ween weapon with honor.”
+
+I smirked at the familiar use of pronouns. You and you aren’t fooling anyone, emperor. You’re no more observant of orc customs than I am. Behind those glowing red eyes, someone else drove Veegor’s steering wheel.
+
+Greenie taught me to watch subordinates for tells and clues. Members of the imperial entourage exchanged glances. Veegor wasn’t the absolute ruler Rezan had been. The weight of their looks told me the emperor needed to impress those around him. Rituals and ideals still meant something to his people.
+
+The bugbears made no motion to back away, nor did the emperor meet me halfway. He remained stationary, hovering inches off the ground. To fight him, I’d need to be surrounded by his guards, giving me an inkling that his sense of honor required others to put themselves at a disadvantage.
+
+I needn’t worry about flanking attacks with my helm, and Holy Smoke remained my all-encompassing escape card. Blessings weren’t magic, so no one could Counterspell it, and I could cast it without speaking or under a Grappled condition.
+
+I moved forward. Stepping between them felt like entering a four-pillared Stonehenge. The bugbears loomed over me and sniffed the air as I approached. I didn’t like the idea of them having my scent, but there wasn’t anything I could do about it.
+
+A curtain of orcs closed behind me to observe the proceedings. A hundred of the emperor’s retinue witnessed us. The procession moved with ceremonial respect—as if observing a formal rite. Again, it reminded me of the exhibition match in Belden’s academy. Hawkhurst Meadow offered high grass and flat footing, so there seemed to be no environmental factors. Veegor likely possessed many ability cooldowns, so this would be no easy combat.
+
+Drawing from Dino’s tutelage, I relaxed my grip on Gladius and shifted my footing.
+
+The emperor wasted no time addressing me, giving speeches, or making taunts.
+
+/Emperor Veegor Whacks you for 82 damage (0 resisted)./You have Bleed. /You are Ignited with Fire./You cast Rejuvenate./You Bleed for 7 damage./You Burn for 10 damage.The emperor’s attack wasn’t sexy, but it raised concerns. The ticks of damage from Bleed and Fire hampered my efforts to cast Restore. Damage over time effects didn’t stop me from channeling anymore, but they still interfered with regular spellcasting. Anything but instants took longer. Luckily, the relic didn’t augment Whack, but I still suffered 10 points of damage for every rank the emperor held in slashing weapons, adding up to around 300 hundred over the next 30 seconds—and I knew of no way of ridding myself of DOTS.
+
+Casting a Compression Sphere under these circumstances would have taken too long for combat. Instead, I triggered Gladius’s rune-casting ability, my cheat code for getting an instant Compression Spheres.
+
+The blast of air startled onlookers and partially obscured Veegor in a white cloud of vapor. The shock wave hadn’t knocked him over or dislodged the relic as I’d hoped. He staggered and straightened the relic with his shield hand. Even though his eyes glowed red, his facial expression betrayed the realization that I might have dislodged his headpiece.
+
+After adjusting his crown, Veegor readied himself for another melee attack.
+
+After consuming a health potion I Transposed our position and whipped around to backstab him. Anticipate triggered, and my opponent landed a Shield Bash that Stunned me for an incredible seven seconds. He’d be able to hit me twice with impunity, likely landing critical hits, and the last thing I needed was another DOT of Fire on me. I triggered my own Anticipate, slid away from his blade, and used my robe’s ability to reset Anticipate’s cooldown.
+
+Unfortunately, the emperor followed up with Thrust. The attack didn’t automatically trigger Anticipate again, so the 33-point wound accompanied another Bleed that inflicted another 9 points per second.
+
+When my Stun wore off, I channeled Moonburn—which Gladius made impervious to interruptions from DOTS. It caused 170 damage, scoring my first success in the battle, and when six weak Restores landed on the emperor, I realized the folly in facing him.
+
+While the trappings of honor and tradition prevented his subjects from hurting me, it didn’t stop them from erasing gains against their sovereign. While each heal was small, the sheer number called attention to the fact that they hadn’t established healing rotations. A mob of healers wasn’t effective if they all shared the same cooldown.
+
+But things weren’t going well on my status. The emperor’s DOTS brought me down to half health. Rejuvenate worked against them, but it barely kept me over 200 health.
+
+I landed one critical hit after Moonburn, a 174-point hit that elicited more Restores and Rejuvenates from the gallery of supposed onlookers.
+
+My second Anticipate triggered after Veegor recovered and executed a Discharge maneuver. With over 200 health, Discharge shouldn’t have been dangerous enough to trigger Anticipate—but it drew from the relic’s effect in primal magic.
+
+I Slipstreamed behind Veegor, fishing for another critical hit. The heals nearly brought him up to full, but my backstab returned him to half.
+
+The sudden burst of damage prompted murmurs from the crowd. I presented a genuine danger, as most of their healing waited on cooldown timers.
+
+A pair of elves in studded leather armor appeared behind me. The male bore a gleaming dagger called the Palladium Blade—his player’s nameplate and modelesque features told everything I needed to know. It was Uproar.
+
+His comely companion wore similar assassin gear with a hooded frock beneath her armor, similar to how I wore the Hardwood Girdle over my Cassock of Rewind. She wore an elven cloak—although her alabaster complexion looked much paler than Uproar’s. Was she a deep elf?
+
+When Uproar and Lady Havoc unstealthed behind me, attempting backstabs, I threw 200 mana into my Mana Shield.
+
+Lady Havoc landed a critical hit for 54, and Uproar’s Palladium Blade inflicted another 35. A string of stat debuffs spread across my nameplate as poisons, Stuns, and DOTS riddled my defenses. Though they hadn’t worked through my Mana Shield, the oncoming Charge from the emperor forced me to take emergency measures.
+
+While I waited for the Stuns to wear off, voices from the crowd protested the intrusion of elven combatants. Uproar waved the red and black protective banner, reminding the orcs of their guest status.
+
+The more we fought, the more information I gave Uproar about my powers. If I ever reached the point where I could deliver a killing blow to Veegor, the bugbears probably would have interfered.
+
+Engaging the emperor had bought us enough time to withdraw to the castle.
+
+Veegor and the assassins fell upon me again. Their hits ate away the rest of the Mana Shield, and Refresh Mana wouldn’t sustain the barrier long enough to stave off the DOTS and future attacks. At 58 health, I called it quits and invoked Holy Smoke before they finished me.
+
+After the chaotic altercation, Forren’s altar felt quiet, cool, and restful. Inside the temple’s stone walls, no drums pounded, no metal clanged, and no magical words triggered unpredictable effects. Reconstituting refreshed me with full health and mana, and I bore no injuries, aches, or debuffs. My cooldowns zeroed out, but no evidence that I’d been in battle persisted.
+
+After a long sigh, I rolled onto my feet and jogged to the front gate just as the first of Hawkhurst’s militia reached it from the front lines. I stood by the barbican’s portcullis while everyone filed past me, over the drawbridge, and through the gatehouse. As governor, it seemed fitting that I be the last inside, and when Yula’s company brought in the rear, I avoided her grim expression. She seemed sour over surrendering the palisade, but she knew we had no alternatives.
+
+With the officers and retinue focused on the duel, the army made no move to follow us inside.
+
+Beaker watched the strange procession from the town hall’s roof with passive curiosity. He’d never seen such peculiar behavior from the townspeople before.
+
+I checked the map to ensure no green blips lagged, but everyone followed the lockdown procedure. I crossed the drawbridge before the militia raised it to a locked and barred position.
+
+At least from this point, we could use the ballistas—which were operational and supplied with hundreds of sharpened stakes. If they caused enough damage to one-shot an orc, maybe we could focus on targeting the emperor and end this quickly for everyone involved.
+
+After we secured the barbican, portcullises dropped behind me as I crossed a second drawbridge into the gatehouse. Voices inside called to one another, and thick ropes raised its door into a locked position. While heavy thumps locked the gatehouse, I ascended the nearest tower to overlook our forsaken town.
+
+Strangely, the orcs hadn’t followed us to the castle or into town, for that matter. Instead, they stopped at the palisade, milling about in groups as if bypassing the town’s outer walls were the main objective. I watched them for hours, but they came no further, and soon, even I lost interest.
+
+Our militia members crewed towers, the barbican, the gatehouse, and other stations along the castle parapets. Yula and Captain Jourdain were busy with castle operations. They monitored teams taking positions, double-checked ammunition and supplies, reviewed personnel schedules, and confirmed that the portcullises and drawbridges worked as expected.
+
+Voices on the walls picked up, and I looked in the direction people pointed. My shoulders sank when I saw why the orcs loitered by the motte and bailey.
+
+Since none of our veterans had experienced a formal siege, one could understand our collective strategic blunder.
+
+The enemy disassembled the palisade on either side of the motte and bailey. They methodically untied the lashings, worked the logs out of the ground, and neatly stacked them in piles every 100 yards by order of thickness. Orcs took down every wall section—we suspected they’d overcome the defenses, but we didn’t think they’d repurpose the timber.
+
+All the time we’d invested in fortifications fueled the invaders with materials for siege engines. They didn’t need to chop down a single tree. Salvaging the barrier saved them at least a week’s worth of labor.
+
+Rows of orcs carried supplies into the area. Others hoisted tents, set up tables, and cooking spits. The setup looked far more elaborate than they built before their first attack. It looked like an encampment that intended to stay awhile.
+
+The emperor passively watched his troops dismantle the palisade. At a distance, he amounted to little more than glowing red eyes and a flaming axe. He reignited it as if promising to defend any efforts on my part to attack his engineers. With so many red blips scattered around the town, I couldn’t determine Uproar’s location.
+
+Occasionally, Uproar triggered one of my old Stealth Detection runes approaching buildings. Blasts of Compressions Spheres announced his proximity, but he easily disappeared into the field of red dots.
+
+In the castle, I could do nothing but watch. The runes didn’t put Uproar in combat, so he remained in Stealth.
+
+The activity inside and outside of the castle died down around sunset. Torches appeared where the orcs set up construction sites.
+
+The enemy eschewed setting up their first camp and fashioned ladders quicker than we anticipated. This castle served as our last line of defense. We couldn’t afford to let them catch us off guard again.
+
+Rachel approached. “Governor? Commander Yula and the captain have requested your presence at the response meeting. They want to talk about anti-siege strategies.”
+
+I bowed my head. “Yeah. I think that is a prudent idea.” I followed Rachel down a tower stairwell and into the manor where the officers awaited.

@@ -1,0 +1,201 @@
+At some point of our apprehension, I blacked out and regained consciousness in a state of Grappled and Blinded.
+
+The only good thing about being a captured player in Miros was I could unequip my gear and stash it into my personal inventory. No amount of magic, or anti-magic, prevented the game’s interface from working. Of course, this meant my void bag didn’t work, so I kept my personal inventory slots clear of everything except a few tools, food, and water.
+
+Of course, this meant that Bircht and Duchess had all their equipment and loot, but I’d pit my purple sword against whatever loot they carried any day. At least, I hoped that was the case.
+
+Deep elves slipped my hands into a bag behind my back. I couldn’t see its description, but it held them fast and introduced debuffs that reduced my stamina, agility, and willpower to 5 while leaving my intelligence untouched. The critical Grappled icon stayed in place throughout the entire hogtieing process.
+
+Flagboi mentioned Commander Nalia. Apparently, she wanted our mental faculties intact for questioning.
+
+The bag placed over my head caused my compass to spin. While it didn’t make me dizzy, I couldn’t tell in which direction we marched. The bag muffled the sounds of the world, but no Silenced icon appeared, so I called out Fabulosa’s name. I heard no answer.
+
+We walked while I listened to deep elves speaking in their native tongue.
+
+When we stopped, hands prodded me, issuing urgent words. I moved forward, but hands pulled me back and prodded me forward again. It made no sense. Without my blade, I couldn’t understand their speech, but I heard a woman’s voice nearby, one I didn’t recognize.
+
+“Apache?”
+
+I answered the blackness. “Duchess?”
+
+“They got you too, eh?”
+
+“I let my guard down.”
+
+“They’re telling you to lie down. They’re going to drag you into their city.”
+
+Groaning, I lowered myself to the ground. It was better than bumping my head on low doorways. “Good. Fab will kill me if I got her into another low-ceiling dungeon.”
+
+A man’s voice echoed in the darkness. It was obviously Bircht. “Really? Aren’t you two allied?”
+
+“It was just a joke.”
+
+Fabulosa answered from somewhere. “Oh, I’m definitely going to kill him. But just not now.”
+
+Duchess answered. “How long have you been here? You’ve been eavesdropping.”
+
+“Long enough to know you two aren’t going to fight your way out of this. Were you serious when you said your archery skill was only 18? That’s terrible.”
+
+Duchess shot back. “There are other ways to fight, sweetheart. If these nets weren’t on us, I’d make you cut your own throat.”
+
+Bircht interjected before Fabulosa could retort. “Ladies, this might be one of those strange bedfellows things. We might have to work together to get out of this.”
+
+Duchess’s voice lowered to a whisper. “I’d rather be put into—”
+
+A deep elf’s voice interrupted her with a rebuke, a muffled thump, followed by a grunt. Duchess sounded like she spoke through gritted teeth. “They want us to be quiet.”
+
+While I did so, I felt hands slide something beneath me. Oddly, the deep elves weren’t dragging us through their city but dragged something beneath us—leaving us free from abrasions. Aside from being jostled, our ride wasn’t uncomfortable.
+
+The care they spent on our well-being raised my hopes. Perhaps Nalia wouldn’t treat us poorly.
+
+Duchess Hey, guys, listen up. They don’t want us to talk. Don’t use this channel unless you absolutely have to and don’t say anything Flagboi can use to tattle on us. He’s got the commander’s ear and is no doubt working to worsen our situation.Flagboi Guys? Plural? Do you mean they got Apache or Fabulosa, too? Or both? Never mind, I’ll hear soon enough. Fabulosa Great going, Duch. Do you have any other helpful advice? Duchess At least I’m trying to help. You have a lot of lip for someone who doesn’t speak Deep Elf. Maybe I’ll arrange a deal where they let Bircht and me go and roast you two on a spit. Bircht Guys, let’s handle this offline—okay?
+
+No one squabbled until they removed the bags and nets from our persons. The guards that freed us from our bonds acted unconcerned that we might zap them with spells or attack them with weapons retrieved from our inventories.
+
+Greenie mentioned deep elves designed his cell beneath the goblin mine, and its conditions conjured the lowest expectations. But our room resembled a parlor more than a prison, although rows of glowing crystal bars separated us into spacious compartments. Beds, lounges, chairs, desks, and tables resembling classical French furniture filled our space. Porcelain facilities with privacy screens occupied each of the far corners.
+
+Luxurious artifacts filled the space between the cells, including shelves of silverware, decorated serving dishes, extra blankets, and pillows. Any combination of these could serve as weapons, and privacy screens might help us spring a trap on our captors.
+
+When my eyes adjusted to the light provided by magical fixtures, I could tell that I’d been the last to be released. The others busied themselves by examining the furnishing and trying out the cushions. Duchess had thrown herself on her cell’s bed. “They have mattresses here. I haven’t had a real mattress since Heaven’s Falls.”
+
+After equipping myself in my regular gear, I tested my spells. The Slipstream interface worked—which meant my other spells worked, but the reticule stopped at the bars.
+
+“Duchess, can you see this?” Bircht held his hands in the air as if controlling something.
+
+Duchess’s head shook slowly beneath her black shroud.
+
+Bircht’s expression darkened.
+
+A Wall of Force erupted in Fabulosa’s space, stopping short of the bars. “I think our goose is cooked. None of my spells reach behind bars.” She flipped up her hood to test out her cape. The zero-g bounce of her hair and cape radiated power and gave her an ethereal aura look, but she couldn’t drift out of her cell, even after casting a Compression Sphere.
+
+Bircht watched Fabulosa with hungry eyes and a dropped jaw. Given her beauty, a casual observer might interpret his leer as raw lust, but I knew what he coveted wasn’t her body but her cloak.
+
+Duchess, beneath her shroud, wasn’t so easy to read.
+
+Fabulosa, seemingly oblivious to being watched, grunted, flipped her hood down, and held her hand over the oil lamps lighting the area. “The fire isn’t hot. I doubt there’s a way to burn ourselves out. It’s beyond me why they treat their prisoners so well.”
+
+Bircht pointed to the small spheres drifting between our cells.
+
+Name
+
+Amadar’s Wandering Eye (186)
+
+Level
+
+1
+
+Difficulty
+
+Trivial (gray)
+
+Health
+
+1/1
+
+Aside from the nameplates, the floating spheres seemed identical to Improved Eyes. “Careful—we’re under observation. They can probably hear, too.”
+
+Duchess rolled off her bed and flopped onto a couch. “They don’t fear us, that’s for sure. And they can speak Common, so watch what you say.”
+
+Bircht stroked his chin and talked to himself out loud as if working a puzzle. “We can’t use the chat channel without Flagboi tattling, and our captors can hear us. Hmm.”
+
+Detect Magic worked, but nothing beyond the bars glowed—which I knew to be wrong.
+
+Fabulosa studied Bircht and Duchess’s equipment. “I see the Goth look is back in style.”
+
+Duchess snorted and looked in my direction. “At least he looks like an adventurer and not a fop.”
+
+Fabulosa wiggled her fingers at the shroud covering Duchess. “Look who’s talking. I don’t even know what to make of whatever you’re wearing.”
+
+Bircht groaned. “It’s getting near the point to where prize money isn’t worth listening to you two. Can we please pause this until we figure a way out of here?” The shrunken head hanging from his belt shook as he waved his hands.
+
+Item
+
+Serik’s Head (cursed)
+
+Rarity
+
+Epic (orange)
+
+Description
+
+Level 35 handheld item -5 staminaThis relic binds its owner to carry the remains of Serik the False until their dying day. Once per day, you will tell a lie without intending or knowing it. Item use—Creates a fixed 10-foot cone of vacuum once per day lasting as long as concentration is maintained.
+
+This disgusting head matched the game mechanic that Flagboi talked about, the vacuum Bircht used to suffocate other players. Seeing another relic gave me chills.
+
+I sat on the edge of my bed. It seemed I’d have some time to strategize, both with and against my cellmates. Medacium might fool them into a compromising position, but putting it to full use didn’t feel right. It seemed like a one-time use with so many players still talking to one another. I kept the pendant as a +2 willpower pendant, something they wouldn’t remember. If I gave it any character, they’d know if it turned into a +1,000 strength Brooch of Contest Winning. I hated to admit it, but the person I felt I needed to save it for was my partner.
+
+As if she had read my mind, Fabulosa crept close to the bars and leaned over so we could whisper. “I can tell you’re chewing over something.”
+
+I lied. “I’ve been thinking about my open slot for a Familiar.”
+
+“I saw a cockroach in the corner of your cell.”
+
+I smiled weakly and held up the Brass Dragon Bone. “I was hoping for a dragon. This mace is only evidence I’ve seen that Miros has dragons.”
+
+“Nice. But it’s not as nice as that purple one riding around on your hip. A +50 damage weapon is pretty keen.”
+
+I caressed the hilt. “Gladius is wonderful. I nearly fought off half a legion of orcs. Do you still love your cape?”
+
+“She spoils me. I hate traveling against headwinds, but if I catch even the slightest current, I can pretty much blow away from danger. She’s not much for indoors, though.” Fabulosa’s eyes circled the stately interior of the room.
+
+Bircht cast Scorch, killing a cockroach crawling across his floor.
+
+After seeing him, Duchess scanned her floor for bugs.
+
+Fabulosa lowered her voice so only I could hear. “I’m keeping the battle standard under wraps until we see how this shakes out.”
+
+I nodded in agreement.
+
+Fabulosa wiped her boot on one of the crystal bars, noticed some mud on them, and turned her attention to wiping them clean. I kicked off my boots and leaned back in my bed. Duchess had been right about the beds. The mattress felt wonderful.
+
+No one spoke for the longest time, and soon, all of my bunkmates dozed.
+
+My legs were sore, but I couldn’t fall asleep. I studied the room and its contents, but nothing caught my interest.
+
+I watched a pair of cockroaches fight, imagining I was one and the larger one was Bircht. The big cockroach flipped the Apache cockroach on its back, prompting me to intercede. I shooed the larger one away and righted my champion. It didn’t run from my hands. Atta boy, stand your ground, little guy.
+
+After a while, Fabulosa yawned, sat up, and waved her hands to the Roving Eye. “Hey! I’m done playing games with y’all. We’re ready to talk to your captain now, ya hear?”
+
+Her raised voice woke up the other contestants. Duchess rolled over and sat up. “I was afraid this would happen. Waiting is our only play. And every hour that goes by, Flagboi makes more progress working against us. It’s a guess to what he’s already told them.”
+
+I leaned against the bars. “Have either of you seen Darkstep? I’m trying to figure out why he singled me out in the group chat.”
+
+Bircht rolled out of his bunk and approached my cell. “Yeah, that was odd. But you say you don’t know anything about him.”
+
+I shrugged and shook my head. “His Improved Eyes followed us from Malibar about eight months ago. Other than that, I know nothing about him.”
+
+Bircht arched an eyebrow suspiciously. “It didn’t sound like that. He seems to know you.”
+
+I crossed my arms uncomfortably and silently thanked Bircht for not mentioning Charitybelle or Darkstep’s announcement that I was in love.
+
+Duchess turned her head beneath the black shroud. Even up close in ample lighting, it concealed her facial features, making me wonder if it concealed more. “He thinks you know how to kill Toadkiller. Do you?”
+
+Bircht and Fabulosa looked at me sharply, watching my response.
+
+Again, I raised my hands in protest and turned to my opponents. “I honestly don’t. I know less about him than Darkstep. Fab and I fought demons a while back, and I copied down a protection circle—which is a rune. But it doesn’t protect me from banishment—if that’s what his demon does to people.”
+
+Bircht stared at the ceiling, lost in thought. “There wouldn’t be any point in killing his demon. Demons resummon automatically. You say you copied the protection circle. Did you make a copy of the summoning circle? As far as I know, it’s the only way to stop them.”
+
+I shook my head. No. I didn’t have Inscribe Rune at the beginning of the fight, and it became visible only when it activated.”
+
+Bircht pulled up a lounge chair to the front of his bars. “We might as well use this time to familiarize ourselves with the other contestants. Enemies of our enemies—and all that. What do you know about Flagboi? He’s our mutual adversary—at least, for the moment.”
+
+Fabulosa turned to him. “You’re not worried about the deep elves overhearing us and reporting to Flagboi?”
+
+Bircht shook his head. “They’ll listen for escape plans, which I assume neither of us has.” He looked around, and the three of us shrugged in resignation. “They won’t know or care about contest politics.”
+
+Fabulosa grunted. “Huh. I never thought about that. We’ve got our own private chat room here. We might as well swap intel.”
+
+Duchess approached the bars of her cell. “Flag started off as a necromancer before turning his attention to living things. Audigger mailed me about him. He’s like a Doctor Frankenstein and hides somewhere in Heaven’s Falls. He likes the food there. Anyway, if the gnomes are protecting him, we’re going to have to wipe them out first.”
+
+Fabulosa put her hands on her hips. “Gnomes are cute. I met some in Blyeheath, and none of them were mean. Y’all aren’t killing any on my watch.”
+
+Duchess laughed, causing the lace over her face to puff up for a moment. “I guess we’ll have to end your watch then, won’t we?”
+
+Bircht raised his hands before Fabulosa could reply. “Please, ladies. Let’s foster an environment where people feel comfortable expressing themselves, even if they disagree with what someone says. Information is too valuable a commodity to pass up, and these cells give us a unique opportunity to exchange it. Let’s just focus on the other half of the contestants. Our gain is their loss. Even if we kill one another, the survivors will have a leg up against the competition. Let’s not squander this over name-calling.”
+
+After a beat, Fabulosa offered a compliment. “Duchess is right about Flagboi—or at least, Audigger was. I’ve seen his lab. He’s a downright sicko.” Before the three of us could ask how she’d seen it, she held up a hand. “I’ve got a friend, let’s say, a companion who has vision into his laboratory. I knew he holed up in Heaven’s Falls before the contest revealed everyone’s locations.”
+
+Bircht leaned forward in his chair. “You said that you saw his workshop. Did you use Augury, Scry, or one of those floating eye thingies?”
+
+Fabulosa shook her head and weighed my reaction when she answered. “It seems I’ve picked up my own Familiar. He’s not as cute as the one Apache had, but he has uses. I made friends with an artisan zombie.”

@@ -1,0 +1,257 @@
+The early morning hour made the phantoms and binding ribbons easy to see. The glowing line lassoing my chest gave a Grappled debuff, and its icon appeared in my peripheral vision.
+
+In my experiments with runes, I learned that some metals were more conductive than others. The alchemy set I purchased held vials of mercury, which I never used, and it surprised me that Magnetize showed the liquid metal less conductive than lead, which I used as a resistor in my runes. But mercury was valuable, so if this witch used it to separate runes on the ground, it probably served me to toss a wrench in the works.
+
+Detect Magic displayed her runes, inviting savvy magicians to foil her mechanics. She hadn’t designed this room for combat. The souls she’d trapped didn’t know how to Inscribe Runes, or they’d been bound and brought to her.
+
+I pulled out a handful of silver pieces dug from my inventory and tossed them into the grooves holding the mercury. They surrounded a triangular rune that anchored the spectral strand attached to my person.
+
+When the coins landed, they shorted the pulling function. The tether remained, but it drew me no closer to the ominous rune. Luckily, silver conducted magic better than any metal I’d tested.
+
+I tossed more coins under the crimson ghost, breaking the ribbon of light that bound it. The freed phantasm disappeared.
+
+The crone cast a Wall of Force horizontally across the floor, preventing further interference with her runes. My subsequent volley of coins skittered across the translucent plane and came to rest on its surface.
+
+I swung Gladius Cognitus at the crone but missed.
+
+The crone twirled her finger at the sky, and the mobile turned. Four orc skulls dangling from the hanging construction emitted beams of soft lavender light. The twine attached to the skulls hung from long bones that slowly spun in clockwise and counterclockwise directions. Four purple spotlights panned across the floor in unpredictable patterns. Even with the ghostly lasso holding me, I dodged them, but I couldn’t avoid her swinging staff.
+
+Item
+
+Brass Dragon Bone
+
+Rarity
+
+Rare (yellow)
+
+Description
+
+Level 25 bludgeoning weapon+10 agility+25 damageItem use—Delivers knockdown to opponents once every 10 hits.
+
+The thin, hollow bone swung as quickly as a plastic wiffle ball bat, making a dull whistle. But it landed blows far heavier than it should have, clocking me hard enough to pitch me off my feet—something that hadn’t happened since Dino taught me proper footwork.
+
+I activated my Charm of Protection against dark magic, but it didn’t weaken the spectral bindings.
+
+Even though the Hardwood Girdle absorbed 10 damage, my health dropped by 48 points from the impact. Even without Dazed or Stunned icons debuffs, I recovered too slowly to avoid a purple spotlight from a dangling skull. When the pale light struck me, my vision blackened, but my interface remained, displaying a Blinded icon next to one showing my Grappled status.
+
+Casting Magnetize produced a recreation of the scene, drawing the world with arrows. The interface showed the contours of the mobile, and I rolled outside of the skull’s range, returning my vision.
+
+The crone nailed me with another blow for 50 damage.
+
+I cast Rejuvenate and dismissed Magnetize. I cast Presence, hoping a stronger light source might weaken the mobile’s powers. Nothing happened. An icon appeared as another spotlight moved past me—Silenced. Luckily, the magic had only a 10-second cooldown.
+
+The crone hit me for another 50 points of damage before I regained my feet and sought ground free from the sweeping spotlights.
+
+My opponent cast Subjugate, and for a second, the idea of tossing down my weapon and devoting myself to her glory occurred to me. I shook off the effect, noticing in the combat log that I’d resisted the spell.
+
+The time it took for my willpower to overcome the effect stalled me long enough to get caught in another spotlight. Before I could react, my vision blurred, and I dropped my guard out of an inexplicable feeling of terror. A Fear debuff appeared briefly at the edge of my interface. The feelings went away with the icons, but long enough for her to land two more hits, bringing me nearly to half of my health.
+
+After reeling away from her, I dodged the spotlights and recovered. I made mental notes—the four skull lights radiated fear, blindness, silence, and an effect I hadn’t yet experienced.
+
+My opponent moved through the lights without concern. The glowing line tethering me to the floor maintained the Grappled debuff, foiling my escape mechanics. While dodging spotlights, I moved to trip the crone on the line tethered to me, but it passed through her as if immaterial.
+
+After the crone Counterspelled my Restore, she swung the bone club. Blocking her with Gladius shook the weapon, but my loose grasp avoided hurting my hand.
+
+Every time I focused on my melee skills, my opponent withdrew into the mobile’s spotlights.
+
+When the leather cords holding the mobile’s arms wound to a certain tightness, the mobile reversed its direction, making patterns impossible to predict.
+
+If I could reach the macabre decoration, I could cut its leather cords, but it was too high, and Hot Air didn’t work with the Grappled effect. I considered trying to damage the giant mobile with a Compression Sphere, but if it survived the spell, the skulls would spin so fast that all four lights would hit me.
+
+Her next spell, Curse, dropped my agility by 15 and the mobility loss forced me to give the spotlights a wider birth. I drank a greater agility potion to mitigate Curse’s effect. The +20 wasn’t something I normally needed in combat, but hitting the beams would cost me more health than I could regain from a potion.
+
+I jabbed her with a Thrust, but once she learned its range, she stayed outside my reach.
+
+I cast Scorch, but the spell only caused a quarter of its normal 48 damage. It seemed I wasn’t the only combatant with a high willpower.
+
+The crone followed the beams of light as cover, and I withdrew to avoid their effects. Our dance in this grisly discotheque wouldn’t end well for me if I couldn’t figure out how to cut it short.
+
+The witch timed her attacks and maneuvered through the beams whenever she struck. I blocked many of her swings, but her coordination in the lights prevented parries.
+
+Besides the beams, I avoided getting close to specters. It wasn’t clear whether they were minions, victims, decorations, or part of her strategy.
+
+Even though we both moved across a Wall of Force, I channeled Dig beneath her feet, hoping to dislodge the runes, but the magic did nothing against the hardened clay.
+
+In an open-air dungeon, Earthquake could be the cure-all for predicaments. I cast it, focusing the effect in the room’s center, but the supports bearing the mobile stood along the walls, outside the area of effect. Since we danced across a Wall of Force, neither of us lost our footing from the tremors, but they destroyed the runes, including the ones imprisoning the ghosts and tethering me to the floor.
+
+She howled with rage at the affront and Charged me. We exchanged critical hits, though I was much worse off than she. I had only 90 health remaining, while the crone had over half of her original 2100 health pool.
+
+Earthquake freed me from my bind. When the Grappled debuff disappeared, I Slipstreamed on top of the mobile. In the distance, the Grenspur roc dropped into a dive, but a few seconds of exposure wouldn’t give the beast enough time to strike.
+
+Hacking at the leather straps holding the mobile together produced no appreciable result. I needed to inflict structural damage. I needed another ten minutes before I could cast Earthquake again, which was far too long for this fight. I used my robe’s ability to reset the spell and Earthquaked the wooden supports on one side of the room.
+
+The magic loosened the walls, and dirt collapsed into the room. Instead of destroying the supports, the magic collapsed more dirt around them—making them more stable, not less. The loose soil spilling across the wall of force slowed my footing.
+
+Worse still, the Earthquake shook the mobile, and the lights emanating from two skulls struck me with purple light. One beam blinded me again, while another produced a debuff called Withered.
+
+Debuff
+
+Withered
+
+-30 strength, -20 agility
+
+Duration
+
+Until effect leaves
+
+The icon solved the mystery of the fourth beam. The effect nearly loosened my grip on Gladius, but I recovered soon enough.
+
+When my sight returned, the dirt spilling into the room from the Earthquake gave me an idea. Dig didn’t affect clay, but it could remove the topsoil holding down the arches. I abandoned my attack and channeled Dig while avoiding taking any more damage from the crone or her bony chandelier.
+
+The witch didn’t pay any notice to my channel while I deflected her attacks.
+
+When the first buttress dislodged from the loss of topsoil, she faltered, letting me land a Thrust. The strike drew her attention, allowing me to upend the support next to it. Their weight pulled the mobile enough to shake it, and beams struck me—but the disturbance preoccupied my enemy enough that she never took advantage.
+
+I cast a second Rejuvenate, edging my health past the 50-point mark.
+
+With a 2100 health pool, she didn’t waste time with measly effects like Restore or Rejuvenate. Instead, she focused on figuring out the cause of her structure’s collapse.
+
+It bought me enough time to loosen the third and final support. When it tipped inward, the combined weight brought the roof and mobile crashing onto us. It fell slowly, so neither of us got caught beneath the wood, but the skulls stopped spraying light when the timber hit the floor. We crawled out to finish our fight.
+
+The crone had few tricks left without her contraption. She’d grown lazy beneath her toys and offered only poor resistance to superior melee skills.
+
+I brought her down within a minute.
+
+Slaying the crone gave only 43 experience points, barely double that for killing a regular bugbear. I’d grown accustomed to paltry experience. It seemed like that was life at the top of the level curve. I needed a lot to level, and most monsters didn’t give very many. The orcs Yula and I slew at the Orga River with Boulder Bullets gave only a few points each. I needed around 200 more to reach level 31.
+
+I didn’t hear bugbears pursuing me, so I admired the devastation.
+
+The crone carried a small white orb. It felt plastic.
+
+Item
+
+Opal Apple
+
+Rarity
+
+Rare (yellow)
+
+Description
+
+Level 40 trinket slot Separates potion cooldowns by category.
+
+At first, the item’s description made little sense. Did this mean I could drink multiple potions? Was it possible this trinket was so powerful? This item warranted immediate experimentation, and I carried many potions.
+
+I scrolled through my void bag interface to my potion section. Their colorful stacks stood out from the other inventory slots. I’d had an alchemy set since my Grayton visit and carried stacks of minor boosts that gave +5 to my stats. When my alchemy reached rank 15, I made batches of +10 stat boosts, but I rarely used them in combat in favor of the all-important health and mana potions. I’d made them to rank up my alchemy skill, so they remained in my inventory, unused.
+
+I drank a minor willpower potion, a potion that I never thought I’d consume. The minor and regular willpower potions showed the normal 10-minute cooldown, but the others appeared as if I had drunk nothing.
+
+Assuming I could keep up my alchemy supplies, I could instantly increase all my stats by ten—and still be able to drink both a health and a mana potion. A strength potion delivered +10 extra damage with every hit. A +10 stamina potion bumped up my health to 500. Coupled with a willpower potion and my charm of protection against dark magic, I could inflate my willpower against dark spells to 101. It pleased me to utilize the stockpiles of stat potions that I thought to be otherwise worthless.
+
+If the crone wore this trinket, it made sense for the other bugbears to let her alone.
+
+Strolling merrily through Bugbear City had ultimately paid off.
+
+A sack dangling from the bones bore an item description.
+
+Item
+
+Portable Target Dummy
+
+Rarity
+
+Common (green)
+
+Description
+
+Level 30 itemMay be used to practice bludgeoning attacks.
+
+Dangling from the mobile, the crone must have used the thing like a piñata. Unlike the targeting dummies in Belden’s academy, no rank limit prevented spamming. Unfortunately, I didn’t particularly care about blunt weapons, although acquiring the dragon bone staff changed my mind.
+
+I tossed the dummy into the air and smacked it a few times to see if the dragon bone broke it, but the bag of stuffing held together. It probably could take a lot of damage before bursting.
+
+Ranking up my bludgeoning attacks could be a project for another time. I stowed the target dummy in my inventory.
+
+The Grenspur roc cruised above me, just below a cloud bank. With so many obstructions protecting me, the creature couldn’t perform a proper dive.
+
+After dropping to the ground, I performed a Rest and Mend while turning her weapon over in my hand. The dragon bone felt light, but when I tapped it against the ground, it shook with resonance as if it possessed more mass. It pleased me to know that Miros had dragons.
+
+Before retrieving the crone’s core, I stopped. What worth would her core have? I suppose I could sell it, but I still had leftover gold that I hadn’t surrendered to Hawkhurst’s economy, and gold seemed not to have relevance to the contestants. We’d already bought everything in magic shops, so what more would a measly core bring?
+
+Judging by her distance from the inhabited trenches, the other bugbears respected or feared her. If they’d gone through the trouble of erecting the pinnacle of wooden beams, they obviously obeyed her. It might do to have her on my side—even if she was a little dead.
+
+I treated her corpse with the mummy wraps.
+
+With Bircht and Duchess on my tail, I needed to move until I lost daylight, but parading through the meadow wasn’t looking to be the shortcut I’d hoped for, nor could I continue without risking my neck—a foolish gamble at this late stage in the game. Hiding in the Dark Room the rest of the day and all night to reset my cooldowns wasn’t an option.
+
+Having an escort out gave me the best of both worlds.
+
+I topped myself off with health and mana in case the crone turned on me. She already looked so withered and ghastly that she didn’t look any different, but I doubted she could fool their nose, at least not for long. Perhaps an undead version of her would scare them more.
+
+When I finished wrapping her, a nameplate appeared over her head.
+
+Name
+
+Undead Bugbear
+
+Level
+
+17
+
+Difficulty
+
+Easy (green)
+
+Health
+
+1050/1050
+
+The crone sat with slumped arms hanging listlessly at her side. Her lack of life struck me as a bit sad. This was dark magic, and controlling even a dead thing gave me the creeps.
+
+“Can you talk?” After waiting for a response, I issued instructions. “Stand up.”
+
+The corpse regained its footing, although it stood with her same slumped posture.
+
+“Lead me out of here. Let’s go north.”
+
+Without a nod of acknowledgment, she turned and left her home at a very slow pace.
+
+My request to move faster barely made a difference to her hunched-over gait.
+
+“If we encounter bugbears, wave them away and lead me forward like you own the place.”
+
+My instructions were unnecessary. As we wound through the trenches, groups of bugbears backed away at the crone’s appearance. We cleared room after room, sending the shaggy giants scurrying like rabbits. Their inability to see her nameplate paid off, and her undead status had changed little from her former ghastly self.
+
+If it weren’t for their immediate reaction to her appearance, her sluggish movement would have made the trip painful, but I could tell from my minimap we headed north, and within an hour we’d passed most of the occupied spaces. Whether the bugbears sent advanced word to clear out spaces in our path or they were naturally barren, we encountered fewer inhabitants.
+
+The sky brightened as we traveled. The intersections grew less frequent, and no more canopied dwelling areas barred our passage.
+
+When the trench straightened, the temperature rose from the rising sun. My spirits lifted after catching another sight of the forest on the horizon a mile away.
+
+A trio of bugbears awaited us near the trench’s exit. Because of the roc, they couldn’t flee from the trench. And we’d already spotted one another, making it too late for either side to backtrack.
+
+The crone and I hadn’t passed an intersection in a while anyway, so I acted like it was only natural to follow the crone. I carried my sword just in case they didn’t buy it.
+
+But as we approached, they cowered against the side of the trench, deferential to the undead thing leading me out of the labyrinth.
+
+They may have guarded trenches against intruders, but how many humans left the meadow? Among the fishy things about us, chief among them was our direction. Why would they permit a human to leave town?
+
+They barked and growled amongst themselves. “They smell like death and dead flowers.”
+
+“Don’t let her hear you.”
+
+“This is not a deep elf. It is human.”
+
+“Do we let them pass?”
+
+“I’m not stopping them.”
+
+It amused me they described the spices I used to distract pursuers as dead flowers.
+
+The guards made no hostile moves as we passed.
+
+Slipstreaming past monsters wasn’t as satisfying as watching them yield the right of way.
+
+I walked past without giving them the satisfaction of a backward glance. I didn’t need to—I wore a Helm of Peripheral Vision.
+
+Greenery appeared on the skyline until the trench grew shallow, depositing us on the surface a quarter mile from the northern treeline. After breathing earthy smells for so long, the sweet, thin mountain air made for a refreshing change, though my companion hardly noticed.
+
+The mighty Grenspur roc lowered its altitude over the meadow.
+
+Judging by the distance to the forest, it was too far to reach. I had one use of Slipstream, but the roc could make at least two passes before I reached safety.
+
+I needed to gauge the monster’s aggression, but its low altitude spoke volumes in terms of its hunger. “Stay in the trench. I’m going to see if the early bird is looking for a worm.”
+
+Like a baseball player leading off of first base, I edged my way into the meadow—eyes focused on the threat from above. When I reached about twenty paces, the roc rolled sideways to begin a dive.
+
+I sprinted back to the trench before the creature built up momentum. It bent into the wind, beat its wings, and returned to its circling pattern.

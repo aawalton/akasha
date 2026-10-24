@@ -1,0 +1,111 @@
+Arguments could be made about which of our attacks caused more upheaval. My missile missed by a wide margin, but hers hit dead center.
+
+Yula’s venom-laced arrow struck the emperor, though in what body part I couldn’t be sure at such a distance. The periphery of my vision turned red, denoting a combat state, and my event log recorded the hit.
+
+/Yula hits Emperor Veegor for 36 damage (16 resisted)./Emperor Veegor is poisoned with Bluefrog Blight./Orc Shaman casts Neutralize Poison
+
+My missile fell short of its mark, but its high, parabolic arc grew the projectile into a sphere of lead the size of a one-car garage. It cratered at the base of the hill and rolled toward the dock.
+
+One of the emperor’s bugbears got caught in its path. Perhaps Yula’s arrow distracted them, or it hadn’t reacted to the awestruck army. But it and a dozen orcs in the imperial court appeared among the death messages scrolling off the combat log. They included two generals, called legates, an engineer, three tribunes, and an orc bearing the title of First Spear.
+
+The bullet rolled past the emperor onto the pier. Its wood shrieked before collapsing with a giant splash. Stacks of supplies, two torodon carts, and upended canoes went with the timber.
+
+Baskets, logs, and splinters bobbed in the aftermath. The river’s current carried the flotsam downstream.
+
+I wondered if someone in Hawkhurst would catch sight of the wreckage.
+
+Yula thumped me hard on the shoulder. “You keell First Spear! Ees good shot!” She pumped her fist as if cheering at a sporting event, and her spirit caught me. I couldn’t say which astonished me more, the carnage on the riverbank or her reaction.
+
+I’d never seen her so excited.
+
+Drums relayed messages across the river.
+
+My companion’s celebration ended when she returned to the business of shooting arrows. Despite the havoc of our volley, the tactic produced irrelevant losses. Even though we assaulted the head of the snake, hundreds of orcs camped only two hundred yards away, and more crossed the river every hour.
+
+Surprisingly, they didn’t break ranks until others barked orders to attack. It gave me enough time to launch three more of the normal-sized Boulder Bullets, but they grew to only a few feet across when they landed. The orcs, aware of our presence, avoided them. The metal spheres tumbled into the water, inflicting not nearly as many casualties as the first.
+
+Ten bright lights appeared at the emperor’s position. The lights grew and reddened into full-sized Fireballs. Our failed assassination attempt induced the reaction I hoped to see. At such a distance, the projectiles seemingly drifted in slow motion.
+
+When the beach ball-sized spheres of fire reached us, I activated my Ring of Fireball Diversion, sending half of them back to the emperor and half into the areas around him.
+
+As the spells reversed direction, I focused on the combat log to parse the impending death messages. If the emperor’s name appeared among the dead, I needed to destroy the relic and retrieve the precious core before another orc snatched it.
+
+I drew my sword. “Gladdy, can you see the emperor? Do you have line-of-sight to cast the rune?”
+
+My weapon hummed with affirmation. “At present, I have, although the Fireballs might rearrange conditions on the shoreline.”
+
+Even from two hundred yards, chimes of Anticipate reached my ears as the Fireballs landed.
+
+A chill ran down my spine when I realized we faced an army augmented with combat abilities. How could we defeat such a force? Whenever a soldier of theirs faced mortal danger, all they needed to do was wait for Anticipate to whisk them to safety.
+
+The combat log devoted almost a hundred lines to orcs who’d triggered Anticipate, their benefactors all carried out of harm’s reach. And yet, the orcs who’d avoided half of the Fireballs found themselves in the paths of others. Damage and death messages scrolled the combat log. At last, I located the emperor’s name.
+
+/Emperor Veegor hits Emperor Veegor for 208 damage with Fireball (12 resisted)./Emperor Veegor hits Emperor Veegor for 206 damage with Fireball (13 resisted).
+
+Anticipate saved Veegor from the five Fireballs I sent to his position, but it sent him into two directed toward his army. When I scrolled further, it showed Rejuvenates and Restores, returning him to full health.
+
+Our second assassination attempt had failed. I exhaled loudly and made a mental prayer to the game engine to avoid turning this into another Rezan situation.
+
+Though I could see Veegor’s status in the combat log, I’d lost sight of his glowing eyes in the smoke and wreckage. He’d either fled into the mass of surrounding officers or found a hiding place in the reeds along the riverbank. Bugbears, servants, and the imperial court scrambled about the scene, dealing with the mayhem.
+
+Chanting drew my attention from the imperial command staff. A long file of orcs dispersed toward our position. The deep-throated chorus echoed their aggression like a Samoan war party or British football hooligans singing at a match.
+
+Yula reacted to the sounds with anger. She pantomimed pulling out a tooth and casting it at the few orcs who charged up the hill.
+
+“Yula, I think we need to go now.” I didn’t wait for an answer before scrambling up Iremont’s base. Bushes and trees provided handholds for my ascent. After getting a good head start, Yula followed, and when I turned to look, the orcs had gained a remarkable amount of ground.
+
+Though they wore heavy boots and thick wraps suitable for high altitudes, they ran faster. At first, I thought we might hide inside the dungeon, but at such a pace, they’d overtake us long before we reached Iremont’s plateau.
+
+I’d forgotten about promotions like Drill Speed. Against an organized force, they had commanders with speed buffs. A mountaineering force might also have powers augmenting high-altitude combat. Iremont’s red soil made precisely the wrong ground to fight them.
+
+We edged toward the southern slope before reaching the tree line, barely above the mountain’s base. When the orcs reached the canopy, we’d lost sight of them in the foliage. The only visible silhouette was that of a bugbear. One pursued us while the others remained by the emperor’s side.
+
+Yula summoned Viper Weeds, Walls of Thorns, and Hornet Bombs to preoccupy the posse with obstacles. The latter spell camouflaged a nest of angry insects who attacked anyone disturbing their home. She cast Vegetable Mutation to cover our tracks and create hiding spots they’d need to investigate.
+
+The singing and garish armor made sense for bullrush tactics. They weren’t trying to hide or snipe at enemies. Camouflage worked against forces that needed to see one another to coordinate movements. Red uniforms made it easy for commanders to marshal their troops, but it made them vulnerable in foliage, and I could see how elves could make quick work of them in Arweald.
+
+With minimal coordination, the orcs corralled us along the tree line. Forcing us into the open neutralized Yula’s woodland powers. Against such a strategy, they could assail us with missile fire before we reached the summit. Boulders and rocks promised cover, but if the orcs surrounded us, they would ultimately serve as grave markers.
+
+“Come on, let’s head toward those rocks. I have an idea.”
+
+Yula followed me beyond the tree line as we scrambled up the mountain.
+
+When we exposed ourselves, the chanting changed pitch, and the army pursued us up the incline. The bugbear led the charge, sniffing the air as it climbed.
+
+When arrows flew, Yula crouched behind the boulders, but I passed her up. “No, come up with me.” I activated Avoid Ammo and beckoned her.
+
+The arrows ceased to fly when footfalls from behind grew close enough to hear.
+
+“Sorry about this.” I spent a power point on a spell I didn’t think would come to any use—Earthquake.
+
+A shockwave beneath our feet produced the desired effects when I cast it. Without buildings or a cave, the effect underwhelmed me, but I wasn’t going for shock and awe. Tremors shook in a 30-yard radius around us, loosening rocks and boulders. When I spotted red dust clouds beneath me, I knew my power point hadn’t been spent in vain.
+
+Boulders rolled, shaking the ground well beyond the spell’s duration. Investing one of my two remaining power points in another escape mechanic wasn’t ideal, but gaining another tier 4 spell made me believe I could use Earthquake for other things.
+
+The deeper players ventured into the tier-tree, the more obscure and potent a power might be, and the more likely it could surprise enemy players. Earthquake could bring down a dungeon, and coupled with Slipstream, the combo could send even the most overpowered players to the Game Over screen—if such a screen existed.
+
+Orcs and the bugbear fled the crashing wave of rock. Ironically, those closest to the landslide fared better, so the bugbear survived. The further they ran, the more stones joined the stampede. Iremont’s thin trees provided poor shelter from the debris. The smaller rocks slowed to a stop at the mountain’s base, but a few dozen boulders possessed the downward momentum to join their water-smoothed siblings in the Orga River. Rocks big enough to make the full journey wreaked as much destruction as my first bullet, crushing carts, tents, and orcs.
+
+The red dust hanging in the air below stopped me from seeing the results. I froze time by opening the event log and counted the deaths. After only recently recovering from ten Fireballs, the army stood ill-prepared for the landslide. From my vantage, I could only guess at the circumstances along the riverbank, and perhaps not every orc possessed Anticipate.
+
+The combat log showed 121 Fireball deaths. The landslide caused another 65, bringing today’s butcher’s bill to 186 orcs, a bugbear, and untold tons of supplies and equipment. It inflicted a sizeable accomplishment, but tricking the emperor to launch Fireballs at me wouldn’t happen again.
+
+Veegor could quickly improve his ranks in primal magic if he dedicated himself, but I didn’t think he’d try to do so. Unlike Rezan, time wasn’t on his side. Every day that passed, his army consumed food.
+
+Our gambit proved one point. Veegor feared Reverb. I didn’t expect to see him cast Scorch or Shocking Reach anytime soon.
+
+We’d also significantly damaged their logistics chain. Destroying the pier might buy us a day or two, and as an army traveled on its stomach, it helped our cause. Regardless, they’d be irritable and beat up when they reached Hawkhurst.
+
+The combat log showed a paltry 65 experience points for all the slain orcs. If I’d been alone, I would have gotten more, but attacking together meant splitting everything with Yula. At first, I thought it had something to do with mass combat or campaigns, but then I remembered that most of the orcs were servants and soldiers in their teens. They were too low for combat credit. And the landslide caused the vast majority of deaths—for which the game gave no credit. At level 30, I felt lucky to get any experience at all.
+
+Unfortunately, Iremont’s topography didn’t favor us. The landslide’s red cloud of dust streamed down the mountainside to the army’s front instead of its rear, the emperor’s location.
+
+Yula brushed off dust from her arms.
+
+I shrugged. “Sorry for the mess.”
+
+“Ees no big zing—Yula has tough bark. Dust settles fast. We must go.”
+
+I agreed, and we descended around the mountain’s southern face. Yula covered our tracks with Vegetable Mutation once we reached the greenery. I scanned the angry mountain before entering the canopy. I saw no movement on its hillside.
+
+For the second time, I left Iremont billowing like an active volcano.

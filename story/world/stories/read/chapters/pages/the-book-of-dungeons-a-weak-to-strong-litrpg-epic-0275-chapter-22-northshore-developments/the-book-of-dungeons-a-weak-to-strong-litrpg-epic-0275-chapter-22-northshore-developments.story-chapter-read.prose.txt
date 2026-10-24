@@ -1,0 +1,167 @@
+Uproar’s solicitation received no further inquiries or answers. It didn’t sound like he’d convinced anyone, but reading between the lines in the player chat required too much guesswork to be certain.
+
+Beaker kept me company on my journey north. Misgivings over losing the catamaran overnight and worrying that opponents had gone to Hawkhurst in my absence made me want to return as soon as possible. I paddled throughout the night. The wind died after sundown, but the trip was easier without the headwind and the rain. The extra effort earned me several Exhausted debuffs, but it hastened my arrival.
+
+Besides monitoring the chat log, I studied my character sheet. My months-long battle against the anomalocaris increased my arcane rank to 27, unlocking a new spell.
+
+Power (spell)
+
+Resize (tier 2)
+
+Prerequisites
+
+Charge, Arcane magic rank 27
+
+Cost
+
+30 mana
+
+Cooldown
+
+1 hour
+
+Cast time
+
+10 seconds
+
+Description
+
+For 60 seconds, caster may increase or reduce their size by 5 percent and may do so again for every rank in arcane magic. Every size increase loses 1 agility and gains 1 strength and stamina. Every size decrease gains 1 agility and loses 1 strength and stamina.
+
+It seemed counterintuitive that arcane magic produced such physical results, but altering the caster squarely fit the school’s spirit. It took calculations to determine the extent of its effect, but I had plenty of time to compute the numbers. Shrinking to a maximum range reduced my stamina to 0, but I could reach about 14 inches. If I also drank the Great Potion of Agility, a doll-sized version of me could zip along with 85 agility, but I saw no guarantee that this might help me escape dire situations.
+
+I could say the same for a four-story Apache. He could mete out three digits’ worth of damage in a single blow, but growing to such a height incurred significant drawbacks. I couldn’t rely on hitting with such poor agility and couldn’t use it indoors.
+
+Resize offered crazy possibilities, but after combatting the anomalocaris, it was par for the course in The Book of Dungeons. It might make for an impressive scene, but stomping around the orc homeland at this size also turned me into a target, which wouldn’t be wise if the relic for primal magic fell in the hands of orcs.
+
+I hugged the western shoreline until I saw Flatrock Island and veered straight toward Hawkhurst. Hawkhurst Rock appeared taller than usual, and I couldn’t see the town behind it. Only when I spotted crenelations did I realize it to be the top of Hawkurst Castle—or the walls surrounding it. I counted three new towers and a fourth on the lakeside edge of Hawkhurst Rock, encased by scaffolding. Two-story curtains of slate-blue stonework stretched between each tower.
+
+Excited, I paddled faster, steering toward the western dock.
+
+Updates appeared in the settlement interface when I crossed Hawkhurst’s one-mile radius. I first used the map interface to verify the absence of red dots on the town’s radar. The only signs of visitors amounted to a dozen gray blips milling about town. It struck me as strange to see so many noncitizens in Hawkhurst. Everyone looked safe, and hopefully, it meant no enemy players.
+
+When I flipped to the settlement interface, the population figure updated to 258. When I left four months ago, our population stood at 145. I recognized a few of the names in the work crew assignments, but most were new.
+
+The game prompts also announced new constructions, including a great hall, which meant we had unlocked tier-4 buildings.
+
+Available Blueprints
+
+Tier 1
+
+Altar, Barn, Hunter’s Lodge, Longhouse, Lumbermill, Mess, Motte & Bailey, Smithy, Town Hall, Watchtower, Well
+
+Tier 2
+
+Barracks, Bakery, Dock, Guard tower, Manor, Mill, Pottery, Public House, Shrine, Slaughterhouse, Soap House, Storehouse, Wall
+
+Tier 3
+
+Bathhouse, Brewery, Gatehouse, Great Hall, Inn, Mailbox, Market, Outpost, Park, Tower, Shipyard, Stables, Temple, Woodshop
+
+Tier 4
+
+Armory, Boardwalk, Candleworks, Clayworks, Throne Room, Ferry Slip, Fountain, Garrison, Glassworks, Laundry, Monastery, Public Bathhouse, Sanctuary, Tannery
+
+Custom
+
+Barbican, Residential Great Hall, Open-air Smithy, Otter Slide, Pile-driven Town Hall, Roundhouse, Sea Gate, Temporary Well, Underground Smithy, Wind-powered Sawmill
+
+Free
+
+Battle College, Orrery
+
+Currently Building
+
+Wall
+
+We’d already made space for the first tier-4 blueprint, the armory. Greenie situated it above the underground smithy. It looked like a cross between a prison and a warehouse with a second entrance designed to open from an adjoining garrison—the castle version of a barracks. Aside from its fortified walls and the heavy use of ironwork in its doors, the building’s simplicity allowed for relatively straightforward construction.
+
+The next blueprint wasn’t for a building but brought much relief. The boardwalk promised to solve our omnipresent mud that stretched like a network across the settlement. Boardwalks seemed a temporary relief. In the next blueprint tier, the game undoubtedly upgraded them to gravel or flagstone roads.
+
+Like the boardwalk, the candleworks promised to beautify and uplift the town’s standard of living, albeit from a distance. Like the soap house, its odors required separation from the general population. The tallow candles used fat rendered from animals. While candles produced minimal odor, the manufacturing process wasn’t pleasant.
+
+At first, I imagined clayworks to be a production-line upgrade to a potter. Aside from a kiln, they bore little resemblance to potters. They didn’t even make pots. Instead, they manufactured roof tiles, floor tiles, ceramic bricks, and pipes, enabling fountains and aqueducts.
+
+I chuckled at Charitybelle’s old dream of making a water slide for her otter friends. The town stood a long way from indulging in cultural projects like parks, but seeing blueprint elements becoming available made me think it a fitting tribute.
+
+By upgrading the great hall, we could produce a throne room. It unlocked tier-5 blueprints and served as the next seat of government. I wasn’t fond of installing a throne room, but we couldn’t modify blueprints without Greenie, Charitybelle, or an engineer of similar rank. The notion of royalty grated against my upbringing, but many countries have proven that thrones could just be ceremonial.
+
+Building a ferry slip made sense from a practical standpoint. Unloading carts at the dock involved dangerous and time-consuming work. Hawkhurst didn’t have the personnel to devote to obscure tasks like drayage. If we ever got around to assigning builders to Lloyd’s new ferry design, one that others could control, we might as well build a ferry slip.
+
+Like the ridiculous otter water slide, fountains used gravity to pressurize water. Our location by a mountain river shortened the feeder trough to only a few miles, giving us a never-ending supply of fresh water.
+
+The design’s upstream aqueduct ran at a high elevation, spilling into a distribution well at the town’s edge. An upstream sluice gate regulated the pressure, avoiding droughts or floods. A distribution well fed into clay pipes connecting to every fountain, whose runoff water drained into basins, which drained into the lake.
+
+The design’s flexibility impressed me. While most blueprints were immutable without an engineer validating changes to the game, fountains allowed construction crews to add them on the fly. We could also maintain pressure by adjusting the sluice gates.
+
+Its blueprint fell short of the aesthetics of an Italian fountain. Still, the true beauty rested in minimizing the chore of drawing water—anyone hauling buckets from a well would appreciate the incredible time and energy they saved. A fountain also edged up our cultural rating by 2 percent, as well as comfort, diet, fitness, and rest metrics. Any settlement with access to pressurized water would build fountains. Maggy and the quarry crew could adorn the cap with decorative sculptures if they felt inclined, or we could leave it bare.
+
+The garrison closely resembled a barracks with a minimized footprint. It had no drill yard or practice range. Instead of a mess and cooking facilities, it crammed together emergency bunks for forty personnel. I suppose with a great hall nearby, a separate mess in such prime real estate made no sense.
+
+A glassworks produced things like drinking vessels and stained glass windows—luxury items, even by capital city standards. The only places I’d ever seen glassware included the Cross Keys in Grayton. Drinking from a glass felt more sanitary than wooden cups.
+
+Cut glass windows offered such poor visibility it wasn’t hard to understand why people turned to decorative patterns. As far as stained glass windows, the great hall or temple seemed the only appropriate places, but we’d already built them. Perhaps stained glass windows upgraded future buildings. At what tier would we unlock a cathedral?
+
+Like the fountain, the laundry enhanced the quality of life in ways a modern person couldn’t appreciate. I didn’t miss gadgets, games, computers, or cars nearly as much as wearing clean clothes—an irony because I grew up filthy. Stains and old garments never bothered my mom, so grownups’ reactions to my attire always seemed strange to me. I never understood the fuss until I got older and impressing girls became a thing.
+
+The laundry’s design harnessed wind or water power to churn clothes in heated water. The custom vats minimized the soap needed to clean the wash. Clotheslines surrounded the structure, and the interior included cubby holes to store washed bundles. Despite the 20 percent boost in comfort the laundry provided, the blueprint’s complexity relegated the structure to the waitlist.
+
+Seeing a monastery among the structures surprised me the most. Like the outpost and watchtower, the Hawkhurst work crew could build outside the town’s perimeter.
+
+Create Building
+
+Monastery (tier 4)
+
+Description
+
+Religious StructureWhen fully occupied, unlocks another blessing. Monasteries cannot be built within 50 miles of an altar of any faith. Accommodates worship space for 10 followers and 10 elders.
+
+Details
+
+Structural Points 300Location not specified
+
+Materials
+
+Altar 1Timber 870 battensStone 200 blocksBrick 700
+
+Build Estimate
+
+1.9 days with 27 workers at 104 percent efficiency
+
+Core Bonus
+
+None
+
+The most compelling part of monasteries was their lack of limits. Governors with enough resources could build multiple monasteries and unlock numerous blessings. In the player chat, Bircht had been right to say religion was a tactical wildcard. But who could afford such expenditures for a shot-in-the-dark blessing? Rolling the dice on a monastery awarded long-term advantages.
+
+The prospect of unlocking another blessing intrigued me, but its prohibitively expensive requirements aroused little expectation. Temples converted followers to elders up to the number of a faith’s blessed followers. Finding ten elders and ten followers who wanted to live monastic lives seemed excessive. Hawkhurst accrued almost 29,000 favor while I was away. At most, I could bless up to seven citizens. Unless we evangelized Forren’s faith, we’d need months to appoint ten elders.
+
+Building structures that far away from Hawkhurst seemed impossible. Even if we found enough people willing to move, was there enough space in Miros for monasteries?
+
+Needing to be 50 miles from another altar daunted me. I knew nothing of the kobold deities, but the lizardfolk had an idol. What direction would I go to find such a location? Basilborough lay 80-90 miles to the northwest—so we couldn’t fit one on the trade route, and Fort Krek stood closer. Governors with Expansion mandates might unlock powers to search for these sweet spots.
+
+This limitation also dangled incentives to destroy enemy altars. Despite whatever divine wrath it incurred, waging a religious war made me uncomfortable.
+
+Even with the remote possibility of unlocking a new blessing, I saw no clear path to taking advantage of monasteries.
+
+The most complex tier-4 structure upgraded a bathhouse into a public bathhouse. Despite the similar names, the two bore little resemblance. The first involved only a private tub and buckets.
+
+The upgraded version needed clayworks to provide pipes for hot and cold water. Like the fountain, it drew water from the aqueduct system and cycled chilled water from underground basins. A separate pool drew water from heated tanks. If I knew how to make runes to produce heat, I could bypass the lavish amounts of charcoal it consumed to keep bathwater hot. It didn’t improve the comfort rating as much as a laundry, so this would be among the last structures we’d build.
+
+The sanctuary worked like the temple, except it unlocked a deity’s final blessing—Forren’s ultimate power, the odious Ashes-Ashes. The power committed an atrocity, turning every living thing in Hawkhurst to ash. Charitybelle and I promised one another we’d never unlock it. Hawkhurst didn’t need a sanctuary.
+
+The tannery vastly industrialized the process of skin preservation. After washing hides brought from the hunting lodge, tanners soaked them in alkaline solutions made from wood ash. Liquids made from fermented barley softened the pelts. Wind or water-powered wheels helped pull off fatty tissue and grease. Tumblers dried them, and more wheels polished the skins, producing higher-quality leatherwork. All this functionality required an expensive building, so the tannery would remain a pie-in-the-sky goal after I dealt with the final relic.
+
+The only custom blueprint I hadn’t seen before involved the sea gate, an ingenious backdoor that Hawkhurst could use to resupply itself from anywhere on Otter Lake. The sea gate’s harbor looked like a vertical notch sliced into Hawkhurst Rock. Cut into living stone, its components comprised special machinery milled in the woodshop called a treadmill elevator. The elevator’s wide platform connected to a line powered by a giant hamster wheel operated by castle personnel three stories above. Travelers docking at the sea gate had no other means of reaching Hawkhurst without interior help. The platform rested at the top, locked in place by a counterweight. Mechanisms rested at the town’s level, offering invaders only a sheer wall of rock.
+
+The platform lifted moderate weight loads, and ships could unload supplies without fear of siege machine fire, as enemies would have no line-of-sight to docked vessels.
+
+Having a sea gate made Hawkhurst Castle impregnable. Enemies couldn’t sap our walls, nor could they starve us. If invaders couldn’t starve us out, it forced them to bust the barbican and the gatehouse—a dubious ambition at best.
+
+When my lizardfolk canoe entered Hawkhurst territory, Beaker launched into the air and made a break for the town hall. I didn’t mind him announcing my arrival and paddled toward the lakeshore tower, the sea gate. Its dock could certainly accommodate my ungainly watercraft, but the platform stood three stories above the waterline.
+
+While tying off the vessel by looping the anchor line around the dock’s stonework cleats, I received a notification that Ida had switched our governor and lieutenant governor titles. My letter to Captain Jourdain must have alerted them to my southern approach, or maybe they kept an eye open for ferries filled with merchants. Either way, no one lowered the platform elevator, so it might not be operational.
+
+I could invoke Hot Air and Slipstream myself to ground level, but it made for such a prosaic entrance for a returning governor. I’d used this combo before, and it fell in the been-there, done-that category.
+
+As a founding elder of Forren, I could assign new blessings. After opening the religion interface, I bestowed myself Forren’s third blessing—Holy Smoke.

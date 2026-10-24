@@ -1,0 +1,109 @@
+I dismissed Jasper and withdrew into the temple to concentrate on my work. I usually would have found privacy in the manor, but since we’d turned it into a daycare, I needed another place for silence. Runes required enough concentration without having a 24-hour deadline. The temple’s strange silence allowed me to focus on the rune’s logic. I pulled out my titanium stylus, used Inscribe Rune to heat a piece of copper into a liquid state, drew out a piece of parchment, and began experimenting.
+
+Six hours later, I emerged in defeat. It was simple enough to trigger a Compression Sphere on command. I’d done this with Gladius a dozen times before. But The Book of Dungeons cooldown system prevented the chaining of spells. It balanced the game and prevented players from copying and pasting overlapping Scorches. Killing targets instantly with prep work wouldn’t make for a fun game.
+
+Instead of fancy runes, we went with the analog approach for warnings. We handed out cowbell-like noisemakers to officers along the earthworks and instructed everyone to run if someone rang the retreat signal. Fin originally made the cowbells for Murdina’s sheep, solving a predicament while I was away. The bells alerted citizens that the sheep had ventured into flowerbeds or crops, and everyone learned to come running and shoo them away when they heard the telltale clanging.
+
+While I worked on the rune, the town’s officers held a post-battle assessment later that night in the barracks. They reconfigured their companies based on the strengths and weaknesses of individuals and weapons.
+
+Yula recapped the notes, but most involved only marginal improvements.
+
+I used the opportunity to ask sensitive questions. “Do you really think we have no chance against a second attack? Emperor Veegor lost over 300 soldiers between the mountain and the earthworks.” I hoped mentioning her nemesis might stoke her passion, but she dismissed it all with a headshake.
+
+“Orc doesn’t rush like green devils. Zey engineer irresistible force. Today was bad for Redbone Clan. Veegor tries queeck win—to return to Arweald. Shamed een front of clan and generals, now he must show victory to council. He will not prepare—he will over-prepare.”
+
+I grunted at her analysis. The orc leadership worked under a feudalistic structure. Instead of weakening one another with humiliation rituals, the clans kept one another strong. Perhaps that’s why ascending to an emperor was a tenuous title.
+
+After thanking Yula for the meeting’s minutes, she retired to the barracks.
+
+Was subterfuge a better way to undermine Veegor? It seems Uproar had already done so. Anyone with a crafty tongue might manipulate leaders in such a delicate situation—even if that ruler wore a relic. What was Uproar’s role? He didn’t seem very diplomatic in the group chat. How had he ingratiated himself with the emperor?
+
+It occurred to me that Uproar being an elf struck me as particularly odd. Weren’t orcs fighting elves in Arweald? What had Uproar done to gain the emperor’s trust? He said the elves weren’t happy with him. Had he betrayed his people somehow? The more I mulled over the factors, the more it made sense. Uproar must have done something underhanded and catastrophic to the elves to garner Veegor’s favor.
+
+The implication meant that I had toyed with an unscrupulous player.
+
+I checked the map interface for stray red dots. Would stealthed players make vibrations on the town’s radar? We’d never tested it, and Uproar hadn’t attacked today.
+
+I summoned Beaker for some companionship. After popping into existence with a puff of green smoke, he usually looked at me to read my mood. This time, he focused on something above the barracks.
+
+After launching upward, he beat his wings toward whatever piqued his interest. After furtive moments in the air, he circled onto the arched gate leading into the barracks drill yard and squawked at me.
+
+“What was that all about?” My Familiar seemed unbothered and groomed some feathers beneath his wing.
+
+When I noticed the event log, I realized what had happened. As I’d trained him to do months ago, Beaker spotted and burst one of Darkstep’s Improved Eyes.
+
+The presence of other players in Hawkhurst was driving me crazy.
+
+Apache Does anyone know how Improved Eyes works? Duchess Hah. You got ‘em, too, eh? They’re all over the place. Audigger It’s Darkstep’s way of keeping tabs on us.  Bircht Roadmachine said they allow Darkstep to cast light spells without being present. Have you unlocked it?Apache No. I’m just wondering what to expect.Bircht It lets squishy players heal from the back of the party, but Dark uses them to cast more eyes.Duchess Is that why they never go away? Bircht I haven’t seen any, but I’m not looking. Others say they’ve seen them all over Miros. Apache I see. Thanks for the info. Bircht You can thank us by killing Darkstep. Duchess I think that’s Toad’s job.As Yula predicted, the orcs confined their activity to preparation over the following few days. Our river scouts reported only unarmed orcs drawing many leather bags of water and carrying them back into the forest. They also repaired the docks and hauled their canoes inland.
+
+We spotted campfire smoke, but none of the orcs molested the Sternway guild house or tried to raze buildings. They took yesterday’s defeat surprisingly well. The only retaliation involved Lloyd’s watchtower deep in the forest. But I didn’t know if its disappearance from the map interface meant they occupied or destroyed it.
+
+Few orcs ventured beyond the tree line into the meadow, and the few tents they pitched stood beyond our town’s radar.
+
+Outside the safety net of Holy Smoke, I didn’t feel confident in making incursions. Scouting the perimeter alone wouldn’t accomplish anything, and Yula saw no sense in it. My performance in the attack had gone well, but only because the blessing let me stick my neck out.
+
+I spent time on the earthworks chatting with guards, gauging people’s spirits, and addressing concerns about our chances. Since this was my first large-scale battle, I wasn’t sure how much weight my reassurances carried, but the vets from Fort Krek concurred with my optimism. They liked how we fought, and their opinions instilled confidence in everyone.
+
+Corporal Lazaar and I shared a watch in the motte and bailey. Without assigned guard duty, I spent most of my time there. If anything happened, I wanted to be at the forefront. Lazaar kept her hair like the other corporals, bobbed and unbraided. She wore a commemorative ribbon for her service against the goblins—only Yula and the dwarves wore ribbons for battling vargs and gnolls. Beneath Lazaar’s distinctive green armor, she wore a colored undergarment denoting her rank.
+
+Lazaar and I leaned against the wooden logs on the parapet. Guard duty grew boring after days of no enemy activity, but my thoughts rarely drifted from the orcs or Uproar. He hadn’t mentioned my sword in the group chat, so I assumed he intended to win it for himself, possibly take it from the emperor’s hands after killing me.
+
+“What do you suppose they’re building out there?”
+
+Lazaar seemed surprised by the question and studied the tree line. “The only tents they’ll carry will be for the emperor or maybe the tribunes. The rest will sleep in lean-tos, huts, or foxholes.”
+
+“I meant war machines.”
+
+“It’s hard to say. But it’ll take time to construct anything significant. It takes time to harvest and process raw wood. Right now—they’re making ladders and a battering ram for the bailey. Sieges are tough. Right now, they’ll focus on survival and recon. Their territory is the mountains. We’re lucky we’re not fighting them in the Bluepeaks. Out there, they have a nasty buff that gives them extra agility. That’s what all the business over appeasing their deity was about. Now, they’re just scrounging off the land.”
+
+“You don’t think they’ll build a catapult or something from the start? They’re so many of them out there that I figured they’d start engineering from the jump.”
+
+Lazaar shrugged. “I wish I knew, sir. I haven’t seen a siege, but that’s a good thing—if you know what I mean. Krek hasn’t had one in generations. If you don’t mind my asking—why are they here? Orcs don’t bother with lands west of the river. This isn’t over the trade route, is it?”
+
+I patted Gladius’s hilt. “I baited them to attack over this sword. It’s linked to the emperor’s crown. Taming this land involved killing a giant worm, a world boss that protected five relics—the last of which the emperor wears. As long as a relic bearer is out there, I don’t think Hawkhurst or anyone in Miros is safe.”
+
+Lazaar crossed her arms and thought for a while before continuing. “If I were the orcs, I’d build a defensive barrier. Your sword is formidable, and now that they’ve seen it in action, they’ll want to protect themselves from sorties or whatever chaos we could cause. Morale is their chief vulnerability. Especially since they left the Arweald campaign for this.”
+
+I grunted and fantasized about taking the Dark Room out and spying on them. But the reason I hadn’t gone into the Doublespines also justified why I wouldn’t spy on them now—orcs weren’t pushovers, and building their camp beyond the settlement’s borders meant Holy Smoke couldn’t give me a second chance. They’d taken it on the chin only because they underestimated us. Yula assured me they wouldn’t make that same mistake again.
+
+Still, I wasn’t without my resources. I could Slipstream up a tree and scramble into the Dark Room anytime I felt threatened. The longer I waited, the more likely Uproar might trick the emperor into doing something that might yield him the relic.
+
+The bells on Hawkhurst’s towers interrupted my thoughts. Every corner of the settlement could hear their clarion ring.
+
+Lazaar shouted to nearby soldiers to take position at the motte and bailey gate. She made an exaggerated shrug. “Or maybe they won’t build anything—which shows how much I know.” She shielded her eyes from the sun and scanned the tree line. “They’re earlier than I expected.”
+
+We had bells—the orcs had gongs and drums.
+
+Rattles echoed across the meadow, followed by teams of orcs carrying fifteen-foot poles. The enemy wound thick ropes around poles, and the loops turned them into ladders. Against hundreds of ladders, the earthworks and palisade offered poor protection. No chokepoints meant we couldn’t turn their greater numbers against them. They’d swamp us in less than a minute.
+
+The orcs carried hundreds of them, again at an unremarkable pace, lining up and maneuvering around one another. The drums erupted in bursts, communicating signals to orchestrate the operation.
+
+They stopped just short of our bow range.
+
+The emperor appeared from the tree line, flanked by several hundred orcs. As they approached my wall section, Veegor strode forward, followed by the three bugbears. He carried a curved axe that was nonmagical until he cast Ignite Weapon.
+
+Aside from Fireballs, I considered the emperor too worried about Reverb to use primal spells against us. Ignite Weapon stacked primal damage over time with every hit. Fabulosa first used Ignite Weapon against the giant bat in Greenie’s cell. The easily accessible tier-2 power inflicted 5 points of damage plus 1 per second for every rank in primal magic. Including the damage-over-time effect, Veegor could inflict over a hundred points of damage per hit—more than what I inflict with Gladius.
+
+It reminded me of the exhibition match we held in Belden’s military academy. Veegor could kill me in three hits. Ignite Weapon wasn’t something the emperor would be afraid to use, as Reverb didn’t affect it. Worse yet, he could one-shot half the town.
+
+My confidence in swordplay made me comfortable facing him, mano a mano, but this wasn’t a venue for solo combat. The aging warlord didn’t look light on his feet, but accompanied by bugbears, he presented a mortal danger to anyone without Holy Smoke. No Compression Sphere runes had triggered, so at least Uproar and Lady Havoc weren’t lurking in Stealth.
+
+I already played a gambit in drawing the emperor here. Under the pretense of having Reverb in my repertoire, I had to face him as if baiting him to use direct damage spells. Running wasn’t an option for me, but engaging in the emperor once more could buy my compatriots time to withdraw to safety.
+
+I turned to the defenders lining up along the earthworks. All faces searched mine for signs of retreat. I sensed panic, and they were right to feel that way—this wasn’t an assault where we’d walk away without casualties.
+
+I reached toward Corporal Lazaar’s belt, where she carried a cowbell. When she handed it to me, I held it aloft and rang it. The immediate answers of other cowbells told me the rest of the alarm-bearers already held theirs.
+
+A great rustling and creaking of boards filled the air as we relinquished our positions on the earthworks. No one spoke.
+
+More cowbells answered, and officers relayed my instructions. Instead of setting positions along the palisade, everyone filed through town toward the barbican, whose lowered drawbridge provided a quick exfiltration.
+
+Watching them file past the buildings tugged at my heartstrings. Yielding them without contest felt wrong, but losing citizens to an indefensible position would have been worse.
+
+I alone stood on the earthworks.
+
+The orcs didn’t give chase to the retreating militia out of chivalry. They came to win my sword. If they could accomplish this task, their business in Hawkhurst would end.
+
+But they hadn’t yet pried Gladius Cognitus from my cold, dead fingers. First, they need to beat me.
+
+I jumped down the earthworks and approached the emperor, his guards, and his entourage.

@@ -1,0 +1,131 @@
+With the roc giving up, I devoted my attention to the trench. No walkways spanned over it, and their absence made sense. The meadow’s surface supported no traffic, for its residents stayed below ground, safe from airborne danger.
+
+Thick timber spikes buttressed the trench’s wall. The sharpened logs crisscrossed overhead, silhouetting the afternoon sky at irregular angles. The ditch’s meandering turns limited visibility like a World War I trench, increasing the risk of running into whatever creatures had built it. I used Slipstream’s interface to orient my position in the meadow, periscoping above the ground to orient myself in the meadow.
+
+I tested Dig on the sides of the trench to see if I could create holes to hide, but the topsoil’s roots filled the cavity. Climbing inside only snagged me onto their tangles. I dismissed the idea of burrowing alternative routes. Besides, I wouldn’t get far without the canopy of protective spikes. My inability to use Dig confined me to the trenches. I gave up and tumbled back into the main trench. If I wanted to leave, I would have to climb to the surface and brave the roc.
+
+Dig made no headway into the hardened clay of the lower strata.
+
+As I expected, the passage terminated at the treeline—or rather, the rootline. Roots made trench work impossible, but the forest’s natural canopy made carving into the trees pointless.
+
+Since I stood near the forest’s edge, I explored that direction first.
+
+The ditch grew shallower, and I emerged on the surface along the forest’s edge. The roc remained aloft, effortlessly gliding in a lazy holding pattern. Since the hillside’s curve blocked the far edge of the meadow, my Eagle Eyes were useless. I scanned the tree line and mentally tabulated the distance. Circumnavigating the meadow would add considerable time to my journey.
+
+A dot on the contest map appeared slightly closer, perhaps a day’s journey away. I’d hoped to make up time by crossing this area on horseback. Instead, I was losing it. The blip had two names on it—Bircht and Duchess.
+
+I closed the interface. Fabulosa’s dot was still too far away to help. Her cloak let her drift with the wind, but the air currents conspired against us. It seems she faced a headwind her entire journey.
+
+I summoned and mounted Jasper, but no amount of Animal Communion or Animal Empathy could coax him into the claustrophobic trench. Patting the animal, I dismounted him. “Don’t worry about it, pal. I won’t force you if you don’t want to go.”
+
+I summoned Beaker and sent him a telepathic message. “Do you see the roc above you? I’m going to need an early warning if it attacks. Do you think you can do that?”
+
+When he craned his neck and saw the giant flyer, he rocketed into the forest.
+
+“Beaker?”
+
+His telepathic reply echoed in my head. “Hide in trees.”
+
+“I can’t. Beaker, we need to cross the meadow for a shortcut. Can you come back out here?”
+
+“Hide in trees!”
+
+I snorted and marched into the trench. “Well, a fat load of good you are. I gotta go north.”
+
+I returned to the trench and followed its course. The interface compass gave me directional navigation as I twisted and turned unpredictably. I followed the zigzag until it led me to an intersection. Taking a northern branch wouldn’t guarantee progress in that direction, but it seemed my best option. It took me further east than I wanted until I met another crossroads. I turned left and met the same result. Again and again, I took whichever route pointed north, working my way miles across the meadow.
+
+I happened across a side branch that dead-ended next to a pile of branches and dried leaves. This wasn’t just a road system—it looked like a dwelling. The haphazard branches followed no alignment, like a nest, and its size unnerved me. Whoever slept here looked to be as wide as a trench.
+
+Fabulosa  Patch, you need to be careful up there, sir. That’s bugbear country. They’re tough customers. Avoid the clearing—it’s hairy in more ways than one.Apache Gotcha. Thanks for the tip.Fabulosa No problem!
+
+Grousing about belated advice wouldn’t do any good, and Fabulosa’s counsel only helped my pursuers. If she had said nothing, Bircht and Duchess would have likely found themselves in the same situation. Still, if I could push through the meadow, I’d pull ahead of them.
+
+I suspected bugbears had created the network. The crude handiwork matched their feral nature, and Yula had mentioned this region was their homeland.
+
+Throughout my delve, the roc circled like a geosynchronous satellite, reminding me to stay inside the trench. Escaping the ditch for brief excursions across the grass might be possible—for I could quickly dive back into the trench whenever the roc dive-bombed. But if bugbears populated these trenches, the entire network could watch the roc and might converge to investigate whatever it chased. If I didn’t want to alert the community of my whereabouts, I needed to keep overgrown pterodactyls out of the equation.
+
+The next branch dead-ended in an occupied bed of branches. A single bugbear slept in it, and it stirred, sniffing the air when I rounded the bend.
+
+Name
+
+Bugbear Sow
+
+Level
+
+32
+
+Difficulty
+
+Challenging (yellow)
+
+Health
+
+2,250/2,250
+
+I ducked back around the corner, tip-toeing away as quietly as possible. I heard branches snap and dried leaves crinkle as I withdrew. Whoever I disturbed had gotten up, so I hurried to the nearest intersection. I’d been traveling for miles and hadn’t yet reached the meadow’s center.
+
+The memory of bugbears searching for Yula and me on Iremont haunted my thoughts. I remembered them sniffing the air. It seemed just my type of luck to stumble into the home city of giant bloodhounds with no magic to mask my scent.
+
+The branches leading to sleeping areas weren’t close together, so perhaps bugbears were territorial and less social than other creatures. If so, I could fight them one at a time and leave this place with my skin and dignity intact. I’d also rack up a healthy amount of experience points.
+
+But the pressure of Bircht and Duchess catching up with me weighed on my imagination. Between fights, I would need to Rest and Mend, which took up time. Farming bugbears for experience points involved a high-stakes gamble, and every Rest and Mend brought Bircht and Duchess ten minutes closer.
+
+My speculation ended when I rounded a corner and almost walked into a level 33 bugbear.
+
+Name
+
+Bugbear Boar
+
+Level
+
+33
+
+Difficulty
+
+Challenging (yellow)
+
+Health
+
+2,400/2,400
+
+I wasted precious seconds unsheathing Gladius, earning me two 40-something hits before I could return an attack. After popping a quick Rejuvenate, I scored my first hit, critting for 170 damage. The bugbear’s slow speed worked in my favor. When I lost over a hundred health, I backed away to give myself enough time to cast Restore.
+
+At over eight feet in height, the monster was so big that I didn’t bother casting Compression Sphere. It made too much noise and wouldn’t disrupt the monster’s attacks for long. Between my healing and tempered attacks, I could bring this creature down in about fifteen hits, which took a few minutes of combat.
+
+Hopes for a simple tank-and-spank changed when a sow Charged me from behind. Aiming to score a critical strike, she moved quietly for a creature her size.
+
+I only saw her coming because I wore the Helm of Peripheral Vision. After Slipstreaming behind the boar, I delivered another critical hit for 154 points.
+
+Unfortunately, the trench was broad enough for two bugbears to attack side-by-side, doubling my health loss. Back stepping wasn’t sufficient to cast Restore, for the bugbears fought aggressively. I plunged headlong into the maze to cast the six-second healing spell. And while I could buy myself enough time to do so, every blind step gambled that I wouldn’t run into another foe.
+
+I focused on the boar, and bringing it down stabilized the battle enough that I didn’t need to drink a health potion or Refresh Mana to survive the sow. Felling the pair rewarded me 43 experience points.
+
+Skinning and wrapping their fur around me would cost time and wouldn’t likely mask my odor for long. It had only worked in the kobold city because of its passive citizens. These bugbears weren’t swift, but they moved with the purpose of a predator. Monsters who hunted by scent would still detect a human beneath a bugbear hide, and the smell of fresh blood would likely give me away.
+
+Their cores were green, and I took them but doubted I would ever use them for anything. After a Rest and Mend, I rebuffed my Heavenly Favor and reoriented myself. I sheathed Gladius to erase his glowing trail and renewed my search for the meadow’s edge.
+
+Part of the problem with this dungeon was the lack of stone. Mineral Communion didn’t work on dirt or clay, or at least, it only revealed recent footprints. Clay memories produced a mush of static, with no sensible scenes from which to deduce what branches to take to avoid traffic.
+
+The maze never tunneled underground. Every corner opened into only open-air trenches. Bugbears didn’t seem to have the patience, ability, or inclination to create anything except ditches. Their hovels yielded no treasure, nor did they possess personal items or weapons.
+
+Seeing them in their natural habitat made me appreciate the adaptations the emperor’s guards had made to acclimate to life with the orc army.
+
+I met another as I meandered through the trenches. We fought until a second and third joined from side passages. They were too big to use Transpose, but Slipstream helped me keep my back free from attacks. When I killed the first, a fourth rushed me from behind. With Slipstream on cooldown and my robe’s reset ability spent, the only way to keep my flank protected involved Moonburn. Its Stun froze them long enough to run through them, allowing me to fight the trio head-on.
+
+After a Refresh Mana and a health potion, I finished the battle by dropping unceremoniously into a Rest and Mend in the middle of the passage. I liked the 66 experience points, but it had cost me most of my daily cooldowns.
+
+Furthermore, the dimming sky made the trenches dark, and traveling at night held no appeal. Bugbears were the only goblinoid species that didn’t mind daylight, but they probably preferred darkness. Presence emanated so much light it would draw enemies, and fighting while holding a glow stone wasn’t an option.
+
+Cutting through the meadow had been a gamble to save time. Climbing into the Dark Room would cost me eight hours, and I couldn’t afford to dally with Bircht and Duchess on their way. The contest’s map didn’t zoom in enough to show movement, so I couldn’t tell if they were resting at night, but they’d be at the edge of the meadow the following day if they pressed hard.
+
+If I didn’t stop running around like a headless chicken, they could catch up by taking the long route along the treeline.
+
+After grudgingly equipping a glow stone, I pressed forward. The stone’s dim light softly lit the sharpened logs looming over the trench as I moved. Impossibly, the roc maintained its persistent flight. Its black wings hung over the meadow like a celestial chandelier. I saw no signs of Beaker throughout the evening. One of us had the brains to stay in the forest.
+
+Not every aspect of this savage territory worked against me. The feral bugbears had no system of communication. They used no bells, whistles, gongs, or drums to warn one another of my intrusion.
+
+The next bugbear turned tail and ran when it saw me. At level 34, it presented more of a challenge than those I fought, but it preferred to flee. Perhaps the smell of its brethren on my person spooked it away.
+
+Like a dog chasing anything that ran away, I started after it—if nothing but to stop it from sending smoke signals, lighting pyres, or whatever alarms bugbears used. Though it moved slowly, my pursuit stopped short in a canopy-covered commons where dozens of bugbears congregated. All of their eyes turned to me when I rounded the corner.
+
+Bugbears were more social than I’d thought.
