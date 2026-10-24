@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import type { Notice } from "akasha/agent/seat/modules/notice-choosing/seat-notice-choosing.module.code.ts"
 import { replyNotifyPoll } from "akasha/agent/seat/supervisor/seat-reply-notifying/modules/reply-notify-poll/reply-notify-poll.module.code.ts"
 
 const COUPLE = {
@@ -25,6 +26,7 @@ function pollOver(opts: {
   sent: Sent[]
   agent?: () => string | null
   text?: (id: string) => string
+  notice?: (person: string) => Notice
 }): ReturnType<typeof replyNotifyPoll> {
   let at = 0
   return replyNotifyPoll({
@@ -33,6 +35,7 @@ function pollOver(opts: {
     readSeat: () => (opts.seat === undefined ? COUPLE : opts.seat),
     readIdle: opts.idle ?? (() => true),
     readHeld: opts.held ?? (() => false),
+    readNotice: (person) => opts.notice?.(person) ?? "both",
     readReply: () => {
       const id = opts.replies[Math.min(at, opts.replies.length - 1)] ?? null
       at += 1
@@ -66,6 +69,27 @@ test("a new reply reaches every person the seat answers to, once", async () => {
     { person: "alan", title: "Claudius", body: "the words of new", link: LINK },
     { person: "jenny", title: "Claudius", body: "the words of new", link: LINK },
   ])
+})
+
+test("a reply is pushed only to the persons whose notice names the phone", async () => {
+  const sent: Sent[] = []
+  const notices: Readonly<Record<string, Notice>> = { alan: "desktop", jenny: "phone" }
+  const poll = pollOver({
+    replies: ["old", "new"],
+    sent,
+    notice: (person) => notices[person] ?? "both",
+  })
+  await poll.run()
+  await poll.run()
+  expect(sent.map((one) => one.person)).toEqual(["jenny"])
+})
+
+test("a reply every person turned the phone off for is pushed to no one", async () => {
+  const sent: Sent[] = []
+  const poll = pollOver({ replies: ["old", "new"], sent, notice: () => "none" })
+  await poll.run()
+  await poll.run()
+  expect(sent).toEqual([])
 })
 
 test("a seat with the default persona is titled with its role", async () => {

@@ -5,6 +5,11 @@ import {
   principalStatedIn,
 } from "akasha/agent/seat/declaration/modules/seat-persons/seat-persons.module.code.ts"
 import { personaIsDefault } from "akasha/agent/seat/declaration/modules/seat-resolve/seat-resolve.module.code.ts"
+import {
+  byPhone,
+  type Notice,
+  noticeFor,
+} from "akasha/agent/seat/modules/notice-choosing/seat-notice-choosing.module.code.ts"
 import { seatNameForAgent } from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
 import { workingOf } from "akasha/agent/seat/observation/seat-turn/modules/turn-working/turn-working.module.code.ts"
 import { AGENT_MODE_INTERACTIVE } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-seat-defaults/supervisor-seat-defaults.module.code.ts"
@@ -31,6 +36,10 @@ const PERSONA = "persona"
 const PERSONS = "persons"
 
 const START_MODE = "startMode"
+
+const PERSON = "person"
+
+const SEAT_NOTICES = "seatNotices"
 
 const KIND = "seat-reply"
 
@@ -71,6 +80,10 @@ function seatOf(agentId: string): ReplySeat | null {
     interactive: startMode !== null && slugOf(startMode) === AGENT_MODE_INTERACTIVE,
     persons: principal === null ? [] : personsOf(principal),
   }
+}
+
+function noticeOf(person: string, seat: string): Notice {
+  return noticeFor(valuedAt(akashaRoot(), PERSON, person).value[SEAT_NOTICES], seat)
 }
 
 function idleOf(agentId: string): boolean {
@@ -117,7 +130,9 @@ export function replyNotifyPoll(args: {
   readReply?: (agentId: string) => Reply | null
   send?: (person: string, input: NotifyInput) => Promise<void>
   readHeld?: () => boolean
+  readNotice?: (person: string, seat: string) => Notice
 }): HeartbeatPoll {
+  const readNotice = args.readNotice ?? noticeOf
   const readSeat = args.readSeat ?? seatOf
   const readIdle = args.readIdle ?? idleOf
   const readReply = args.readReply ?? replyOf
@@ -128,14 +143,17 @@ export function replyNotifyPoll(args: {
 
   const sent = async (seat: ReplySeat, reply: Reply): Promise<void> => {
     const input = notificationOf(seat, reply)
-    for (const person of seat.persons) {
+    const told = seat.persons.filter((person) => byPhone(readNotice(person, seat.id)))
+    for (const person of told) {
       try {
         await send(person, input)
       } catch (err) {
         args.log(`${POLL_NAME}: ${seat.slug}'s reply did not reach ${person}: ${String(err)}`)
       }
     }
-    args.log(`${POLL_NAME}: ${seat.slug}'s reply ${reply.id} sent to ${seat.persons.join(", ")}`)
+    args.log(
+      `${POLL_NAME}: ${seat.slug}'s reply ${reply.id} sent to ${told.join(", ") || "no one"}`
+    )
   }
 
   const beat = async (): Promise<void> => {
