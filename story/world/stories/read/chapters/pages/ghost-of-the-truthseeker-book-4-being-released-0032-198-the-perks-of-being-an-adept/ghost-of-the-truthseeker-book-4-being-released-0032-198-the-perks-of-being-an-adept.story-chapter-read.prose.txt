@@ -1,0 +1,215 @@
+When Alistair woke up, he was flooded with notifications.
+
+Congratulations on forming your Domain and breaking through to Adept! Even breaching the second realm is a step that the vast majority of cultivators never achieve. You are a now a true cultivator, on your path to securing eternity. Your body, mind, and soul have been purified of contaminants. With level 100, you must now select a new Class:
+
+Martial Artist (Uncommon/Adept) - Primary Attributes(s): Strength and Agility. Your body is a weapon forged through relentless discipline. Blending power with precision, you defeat opponents through perfect technique rather than crude weaponry.
+
+Barefist Assassin (Uncommon/Adept) - Primary Attribute(s): Agility. Death walks on silent feet with hands that kill without weapons. Your lethal touch leaves no trace but the broken bodies of your targets.
+
+Monk (Uncommon variant/Adept) - Primary Attributes(s): Wisdom and Charisma. Namo Amitābhāya. Achieve enlightenment and break the wheel of Samsara.
+
+Ghostfist Monk (Rare/Adept) - Primary Attributes(s): Agility and Intelligence. Your hands shimmer between worlds as you strike, channeling ethereal energies. Your fallen foes become your own strength as you meditate upon the ghosts of the fallen.
+
+Martial Wanderer (Rare/Adept) - Primary Attributes(s): Strength, Agility, and Wisdom. The road is your monastery. You collect techniques from every land you cross, fighting with the unpredictability of the wilderness that taught you.
+
+Karmic Enforcer (Rare/Adept) - Primary Attributes(s): Agility, Intelligence, and Charisma. Each of your strikes delivers cosmic justice, punishing not just the body but the very soul for its transgressions. The wicked fear your judgment.
+
+Tribulation Justicar (Legendary/Adept) - Primary Attribute(s): Strength, Wisdom, and Charisma. Chosen by divine mandate, you wield the weight of celestial law. Kings and demons alike must answer to your righteous judgment.
+
+Dragon’s Pugilist (Legendary/Adept) - Primary Attributes(s): Strength, Constitution, and Endurance. Draconic power flows through your veins. Your fists carry the primal might of nature’s perfect predators.
+
+Alistair ignored the gallons of stinky black ooze on his clothes and by his feet, and thought long and hard about his decision.
+
+First, he obviated any Uncommon choice. A Class like Barefist Assassin granted 100 Agility, +15/25/35 Agility and +15/25/35 free Attribute points per level.
+
+That was nice, but Ghostfist Monk offered 100 Agility, 50 Intelligence, and +12/22/32 Agility, +12/22/32 Intelligence, and +12/22/32 free Attribute points per level. That was a big gap, especially since he would no longer be getting Attributes from the “Deliverance of Justice” Badge.
+
+The next question was should he just automatically go for one of the Legendary Classes. Dragon’s Pugilist, for instance, granted 60 Agility, 60 Constitution, and 60 Endurance, with +7/14/21 Strength, +12/24/36 Constitution, +12/24/36 Endurance, and +9/18/27 free Attribute points per level.
+
+The stats were so tempting, but Alistair decided against the Legendary Classes and Karmic Enforcer for similar reasons—they deviated too far from this Dao Path.
+
+Having a dragon’s blood was part of his… well, bloodline, but not his cultivation. There were certain conceptual elements that Alistair foresaw being a part of his cultivation, but they weren’t there yet, and he didn’t think they’d ever be essential to his being.
+
+Tribulation Justicar didn’t make sense, since he didn’t feel chosen by the divine. According to his bloodline progenitor, the Sage of Eternal Mercy claimed the titles of Accursed of Heaven and the Bane of All Evil. That implied, at least to him, that there was something sinister going on above, which was verified by how shitty the world was.
+
+That left two choices, both Rare Classes. Ghostfist Monk and Martial Wanderer.
+
+Martial Wanderer was more of a deviation from his path than Ghostfist Monk, though it was still within reasonable bounds. The Class was clearly referring to the concept of a wandering cultivator, collecting techniques from a variety of sources. Alistair had obtained an eclectic mix of abilities with no singular origin.
+
+Finally, was Ghostfist Monk. This was the Class he had been expecting. The logical continuation of how he had implemented Magical Pugilist. It was the perfect choice for his build.
+
+Yet he hesitated to select it. Something just didn’t feel right.
+
+His fingers absentmindedly played around with the chain and golden ring around his neck. Thrice-Blessed Fate-Diviner, the gift he had received from the Clear Water Sect long ago. It was supposed to help him with decisions like this. To help him even further, he burned positive Karma.
+
+After a minute of silent deliberation, Alistair selected his choice.
+
+No regrets.
+
+Class:
+
+Martial Wanderer (Rare/Adept)
+
+The road is your monastery. You collect techniques from every land you cross, fighting with the unpredictability of the wilderness that taught you.
+
+Primary Attribute(s): Strength, Agility, and Wisdom.
+
+Bonus Stats: +60 Strength, +50 Agility, +40 Wisdom, +10 Strength per level, +9 Agility per level, +8 Wisdom per level, 9 free Attribute points per level, +50 Upgrade Points per level
+
+----- Grants [Adaptive Kinesthesia]
+
+----- Upgrades [Thousand-Armed Bodhisattva Judgment] to [Thousand-Armed Dragon Buddha Renewal]
+
+----- Choose 1 Skill to be upgraded to a higher rarity
+
+----- Preserves Elemental Fighter, Monk of Order, and Chaos Assassin Talent Trees
+
+----- Opens Wayfarer’s Path, Technique Collector, and Enlightened Combat Talent Trees with first-level leaf unlocked
+
+----- The Heavenly tribulation’s removal of impurities and innate strength given by possessing a Domain grants 25% multiplicative bonus to current percentage based bonuses, including Health, Mana, and Stamina
+
+[Adaptive Kinesthesia] (Tier 3 Expert Passive Skill): Your body intuitively understands and adapts to movement patterns 50% faster. You can copy most physical maneuvers after seeing them one time. Scales with Agility and Wisdom. Upgradeable (0/400).
+
+[Thousand-Armed Dragon Buddha Renewal] (Tier 1 Master Skill): Forged from a pure heart, multitudinous hands of almighty renewal rain down from the avatar of a Thousand-Armed Dragon Buddha. Formed of force, blood, and lightning affinity Mana, each scaled arm and hand manifests draconic might. The majestic Dragon Buddha avatar radiates both power and compassion in equal measure; the perfect representation of draconic arrogance spun toward good. Wrapped in an exterior of Karmic energy that transforms Fate, through the power of blood comes renewal, a symphonic harmony that enhances the natural cadence of combat—rejoice those of willing and unwilling hearts, for in this dance of spiritual regeneration, the path to rebirth is illuminated. Mana Cost: 2,000. Cooldown: 24 hours. Upgradeable (0/2500).
+
+{Gregarious Traveler} Those in cultivation realms below user will share their tongue freely. Operates via a nigh-undetectable combination of Fate, psycho-biological mechanisms, nue, and the Dao. Free.
+
+{Increased Arsenal} Grants an extra Badge slot (Upgrade Point requirement for next Badge unchanged) and two extra Skills before reaching soft cap. Free.
+
+{Unnecessary Bloodshed} Once per week, grants the ability to infect any individual with an extreme desire to kill user. Can be resisted through sufficient willpower or other mechanisms protecting one’s mind or Dao Heart. Free.
+
+The sudden burst of information was overwhelming, though he had a wicked grin the entire time. He was so much more powerful.
+
+It was obvious in the way his blood pumped through his veins. It was obvious in the expansion of his diaphragm as he breathed. It was obvious from the closing of his eyelids as he blinked.
+
+Adept, no pun intended, was a whole new realm of power.
+
+Alistair had chosen Martial Wanderer for balance. Now that Dev’rox was actually a part of his Domain, he didn’t really need any of his ghost Skills like [Spectral Summoning] and [Ghost Whispers]. He would be able to detect ghosts with their connection to the Dao of the Ghost.
+
+So if Ghostfist Monk was going to emphasize the ghost portion, it wasn’t going to be increasing his power as effectively as Alistair wanted. Incorporating a separate entity entity like Dev’rox into his Domain was an enormous leap of faith and indelibly changed his cultivation forever. He would one day harmonize his Class in a tripartite fashion between Justice, Fist, and Ghost, but today was not that day.
+
+Martial Wanderer fit his image of a wayfaring cultivator who fought in the name of justice.
+
+The openness to new techniques and diversity of Alistair’s current arsenal had become an essential part of his self-image as a cultivator. It was undeniable that his current abilities were far more encompassing than even his elite peers of the Imperial Heartlands, who tended to focus on one area more than another.
+
+In addition, [Monk Motionlessness] and [Frozen Claw], lest he forget, scaled with Wisdom, so the Wisdom of his Class was a huge boon for two of his most important Skills.
+
+His notification deluge was not even close to over.
+
+Subclass:
+
+Mediator of Justice (Mythical/Adept)
+
+You have continued heeding the call of justice. While your experience may have been initiated by the Sage of Eternal Mercy, true justice did not begin with its most superior exemplar of the aeon. Enlighten your heart with wisdom and compassion and guide both the righteous and wicked toward paradise, as you forge your own meaning of justice. WARNING: Taking actions against the path of justice will result in harsh penalties.
+
+Primary Attribute(s): Charisma
+
+Bonus Stats: +100 Charisma, +10 Charisma per level, +75 Max Karma, +20 Upgrade Points per level
+
+----- Upgrades [Eyes of Truth] into [Dharmic Gaze]
+
+----- Preserves Lawful Magistrate, Merciful Abbot, and Courtwalker Wanderer Talent Trees
+
+----- Opens Salvation’s Mediatrix Talent Tree with first-level leaf unlocked.
+
+[Dharmic Gaze] (Tier 4 Expert Skill): Fate and Time align through Karma to see sacca over maya. Active: An inscrutable gaze that no man or beast may discern, 5x the effectiveness of Skill during active. Karma Cost: Variable. Upgradeable (0/800).
+
+{Samsaric Guide} Increases max Karma by 5% whenever a soul is helped into the Cycle of Samsara. Free.
+
+Species Evolution: Spectral Superhuman I (Partially Evolved) -> Spectral Superhuman I (Qi Condensation Vessel), Max Attributes 10,000->15,000, Dao energy 10% more efficient.
+
+Achievement Earned: Adept Grade 1B Domain Complexity (Domain I) - The Domain complexity scale ranges from Grade-8D to Grade-0. Your Domain is Grade-1B, within the top 3 grades. Reward: All Attributes +29%.
+
+Skill Upgraded: [Mindshift] (Tier 1 Master Skill): Since time immemorial, the greatest fighters of the multiverse have sought to bridge the gap between themselves and their opponents. The great siege masters of the Dao and magus have their tricks and evasions, but so do we. Through harnessing the power of the mind, a psychic shadow follows all the user’s moves during and for 3.0 seconds after the Dash, fully controlled by the user. User is almost undetectable and intangible during the course of the Skill and can be used through air or ground in any direction as long as the initial position was on solid ground. Maximum duration: 1.0 seconds, at twice normal top speed. Mana Cost: 40. Nue cost. Upgradeable (0/2,500).
+
+Alistair wiped a bead of sweat off his brow. Finally, the notifications had ended. There were so many perks to being Adept, he thought to himself. He went through the improvements line-by-line.
+
+First was the passive Skill [Adaptive Kinesthesia]. His first reaction was that this new passive was synergistic with Tune of the Fight. Movement pattern could mean the enemy’s style of fighting or the pattern of a deadly maze’s laser beams. Either way, his natural genius was bolstered even more.
+
+The second line was more straightforward, and perhaps almost as powerful. He would have to test the limits of that. It definitely didn’t mean that he could just pick up a sword and copy a swordmaster’s strikes, but if it meant a more perfect copy of stuff like Fara’s joint dislocation, that was amazing.
+
+Next, to his surprise, [Thousand-Armed Bodhisattva Judgment] had become [Thousand-Armed Dragon Buddha Renewal]. In order to add blood and ice to his finishing Skill, the system needed to incorporate a draconic element.
+
+The juxtaposition of the humbleness of a bodhisattva and the arrogance of a dragon felt right to him. It reflected his own egoistic desire to be the strongest and his love for fighting, combined with his true and unadulterated desire for justice.
+
+Indeed, by changing the focus to renewal rather than judgment, it made adding the concept of draconic might more palatable. Alistair was getting good at the balancing act of cultivation, wherein his own path, he practiced the middle way. There was nothing inherently wrong with judgment plus draconic might, it just veered a little too much toward self-righteousness than renewal plus draconic might.
+
+Next came Alistair’s most interesting choice—which Skill to bump up an entire rarity? There was something to be said about going all in on his finishing Skill. A Grandmaster rarity Skill was not something to be scoffed about. Or what about improving [Reality Sense] or [Monk Motionlessness]?
+
+His choice left no room for doubt. Without movement, there was nothing. Freedom of movement and the speed of said movement was essential in any fight. With the upgrade to Master quality, [Mindshift] operated effectively as a teleport, the only difference being that the direct line of sight path couldn’t be impeded and he had to start on solid ground. The 3.0 seconds of nue clone sounded like chaos incarnate on the battlefield. His opponents wouldn’t know what to do.
+
+[Dharmic Gaze] was an upgrade of [Eyes of Truth], and to say it was worth it was an understatement. It was automatically incorporated into [Reality Sense], and the baseline vision without even spending a single point of his new 225 Karma pool was far better than before.
+
+He would even go so far as to say it was around a third to forty percent of the way between the base [Eyes of Truth] and his active [Eyes of Truth]. The active being a 5x multiplier of the base meant that while active, it was almost two times more impactful.
+
+The new Talent Trees and leaves were a flood of information. The Badge slots and extra Skill space were perfect, and having some non-combat abilities like {Gregarious Traveler} were good. Alistair didn’t know what to make of {Unnecessary Bloodshed} or when he would use such an ability. He didn’t like to fight those that didn’t want to be fought, and if they were an evildoer, he would be glad to be the aggressor.
+
+Well, it’s another mental attack, and no one would just let it hit them, so it creates a distraction, Alistair thought.
+
+{Samsaric Guide} felt like a new version of “Deliverance of Justice” with different parameters. He already knew how broken something like that could become—if only ghosts were more common.
+
+His species evolution was well-needed, as his new total stats were already at 9,989. The strange mention of Qi Condensation Vessel reminded him of the Pure Essence Form Human he had seen for Kadeus. Perhaps Qi Condensation Vessel was what non-Pathfinder AI civilizations called their species evolutions?
+
+Alistair opened up his full status screen to look at everything in totality.
+
+1.00000012 Orichalcum Drachma
+
+0 Land Store Credits
+
++150% to All Attributes, +10% to Strength, +20% to Agility, +17% to Constitution, +52% to Endurance, +27% to Wisdom, +15% to Charisma, +10% Health, +80% Mana, +50% Mana Regeneration
+
+25% multiplier for Adept breakthrough
+
+The multiplicative bonus granted by being an Adept was an enormous increase in stats. That along with the raw stats granted by Classes and his Domain I achievement, gigantic increase in both Dao energy itself and the efficiency of Dao energy, were the contributing factors to Alistair’s feeling of newfound power.
+
+What’s that, like a tripling of Dao energy and then maybe a 75% increase in the efficiency, from the cleansing of impurities plus my species evolution overall? So over a five-fold increase in overall Dao energy effectiveness.
+
+Seeing the species evolution brought back memories of the Lazarene Minister’s education on the matter of species evolutions and the Akashic Records. The old man had warned him about having a bloodline or ancestry that was too powerful for his body.
+
+His body needed its own sufficient qualifications. That was where Alistair’s absorption of life force in the form of blood essence came in handy. Blood essence was probably the most common method in the multiverse for improving the body outside of elixirs and baths.
+
+All the improvements to his body effected an enormous difference in the body’s image of itself. Now that it had finally been updated with his species evolution, it explained the large increase in Dao efficiency.
+
+For Adept, Alistair wanted to shoot ahead of the curve. There wasn’t a reason to specifically delay species evolution until the actual tribulation—that just was what happened this time. As long as he kept up his blood essence absorption, which was impeded grinding on a zombie world instead of a nice life-attuned world, he would be fine.
+
+It really sucked that I couldn’t absorb anything for six months. I fell so far behind my previous bloodline schedule. Oh well, can’t be too greedy.
+
+In an ideal world, he would have been able to upgrade his bloodline to [Peasant] and his species. A break through updated your body’s representation of itself on the Akashic Records anyway, so there wasn’t a reason for waiting if it was your proper time. You only got more efficient increases in Mana and Dao energy in the remaining levels of your realm.
+
+Of everything, Alistair had to say he was most disappointed with only getting a Grade-1B for complexity. That was being so greedy, he knew, but his Domain being two-in-one based on perception, plus incorporating the Domain of a ghost wasn’t complex enough for them?
+
+It had taken all his study of physicalized Dao with Spiritual Fighter’s Echo to bring him so far. What kind of Domains were his fellow Adepts making that were Grade-1A and Grade-0?
+
+Alistair dismissed his status screen, standing up. The rotten smell of his impurities was everywhere. He clapped his hands with his newfound 1,066 Strength, dispersing the black gunk. Mana coursing through his meridians and over his skin removed the stench off his skin and clothes.
+
+One more thing I have to try, Alistair thought. Dev’rox had told him that Adepts now had good enough control over the Mana to try freehand shaping. Dragon’s Blood Mastery improved his freehand manipulation of blood affinity even more, so that’s what he tried.
+
+“Ain’t that beautiful?” Dev’rox asked.
+
+Crimson blood flowed out of Alistair’s skin, floating in the air without the use of a Skill. He moved it around with his will, sending it spiraling around his body. The further away he took the blood, the less he could control it.
+
+Suddenly, he shot the Mana at Dev’rox, who dodged easily. The mass of blood formed into a pointy spear.
+
+“Hey!”
+
+“Sorry, just testing,” Alistair said. “It’s completely unviable in combat for now.”
+
+“That’s to be expected,” Dev’rox replied. “Skills are always going to be more efficient and powerful than freehand, even at Exalted. But you still have to practice. The reason why Visionaries can manipulate reality so well is a combination of their freehand Mana and Dao.”
+
+Alistair remembered the way the Perfect was in complete control over the physical reality of the cottage back during their meeting. “I see.”
+
+Evangeline butted in as she doubled back after seeing the lightning was gone. “Holy shit, your tribulation was way longer than Jindor’s.” She looked at him apprehensively. “Flex your aura for me.”
+
+Alistair obliged. He breathed in and out with intention, cycling his Mana as fast as possible. All his 361 meridians felt so wide and free, his Mana circulating with newfound velocity. He allowed his Mana to pick up the dressings of his Domain, letting it express outward without any cloaking.
+
+A variegated cloak formed around his body—golden, coral, crimson, and light blue. The pressure coming off of him was unimaginable to the old Alistair.
+
+“I’m an Adept,” Alistair said aloud without realizing. I’m an Adept.
+
+The ground then began to crack and his sister turned away, forced back from the full expression of his aura.
+
+“My bad,” Alistair said, reigning himself in.
+
+“No,” Evangeline choked out. “It’s fine. You’ve given me all the inspiration I’ll ever need. I can’t let my six years younger brother outdo me by that much.”
+
+“We have a little over a month for 4.5 levels,” Alistair said. “You got this. I have an idea.”

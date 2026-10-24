@@ -1,0 +1,123 @@
+Morning, Tenth of One, Harvest, 236 CR
+
+Four days of rest and recovery wasn’t enough to be fully recovered, and we were determined to respect that.
+
+We remained under Rafa’s and Mera’s orders to avoid any magical, mystical, or otherwise supra-mundane activities. Spark was by necessity exempted from that restriction, since its entire existence was in the realm of the metaphysical, but it couldn’t communicate with us except by fully inhabiting our own Skills to make material changes in the world without our involvement.
+
+This, apparently, was quite difficult—and besides which, Spark was mostly resting in some state of not-exactly-torpor.
+
+We’d originally been planning to tackle the jump-start aspect of the mana-ink project last. It just hadn’t been that critical of an issue; the lack of it didn’t leave me meaningfully dependent on outside assistance. I could easily afford for someone to swing by and start the system off when I wanted to spend a fortnight making the ink, after all, as long as I didn’t have to have them swing by every day.
+
+The overdraw, and its consequent restrictions, reshuffled our priorities quite handily.
+
+“I still don’t get why we can’t just start the cycling with a rune drawn in piping,” I complained. “We got it to laminar flow with just the single stable cycle, and sure it wasn’t metastable, but is that necessary?”
+
+“Sophie, do we have a cycle, one single smooth cycle like you just pointed out, that includes or produces the essence of elemental ink?”
+
+I blinked a couple of times. “Oh. No, we don’t.”
+
+“Yes, oh, no we don’t!” She glared at me half-heartedly. “This is the third time I answered that question!”
+
+“I’m sorry, I just…” I sighed, leaning against a table. “I keep thinking about the pen nib design,” I confessed. “It’s totally not what we’re working on right now, but I’m having trouble focusing on the thing we are working on, the thing we need to work on. I just keep thinking about, like, valves.”
+
+“Well, phooey to that, ma’am, because we have work to do before we get there.”
+
+I choked on my laugh, coughing on the giggle. Kelly scowled at me performatively until I recovered, and I picked up a pen on the way to joining her at the table we were drafting designs on. “Okay, so. We’ve got all-purpose batteries, we’ve got infusable ink, finally.”
+
+“We do! And I can’t believe that you were right about how to get a liquid that’s that greedy!”
+
+“Hey, honey is—”
+
+“Forget the honey, milk powder?”
+
+“Milk powder is used as an intermediate step in two different in-use-right-now syntheses for making tanning reagents, it’s not that big a deal. And it just made sense? The desiccant is greedy, it’s not just a physical thing with water activity level, it’s metaphysically greedy, but it is in part a water activity thing. Anyway! Where was I?”
+
+“We have the batteries and the ink.” Her voice was grandiloquent, deliberately mocking in its mimicry of mine. “If only there were a way to get the ink to draw from the batteries!”
+
+“I… Kelly. Why do I get the feeling you already know the answer here?”
+
+“Probably because we have a mystical bond of truth,” she said breezily, “and I’m very good at looking things up. Anyway, it’s just the thing you already did, but backwards! I’m gonna get us some food while you figure it out.”
+
+“The thing I already did,” I muttered, grabbing a pencil and my notebook, “but backwards.” I started sketching, working through the problem I’d solved forwards so that I could work it in reverse, trying to see what I was missing.
+
+In order to create the thick, mana-hungry liquid we were calling greedy ink, I’d ground into powder a bunch of different things that reflected three different kinds of natural greed, and then processed them in the solution one at a time. Milk powder, honey, and dried fruits for water activity, representing a literal hunger for water; vacuum, cryogenic cold, and a polyprotic base for the underlying forces; and three different biological structures that were for the hunger of the living, with vascular structures that sucked nutrients out of the very soil.
+
+Then I’d boiled them and annihilated them—annihilation via mixing in something that would chemically unmake them on a molecular level, or otherwise alter them away from their stable state—and what had been left was the distilled essence of their hungers in a vaguely balanced arrangement.
+
+I hadn’t invented it, but it was a little bit new. I’d found several different methods for achieving the result in a cursory search, but it hadn’t come free; this wasn’t part of the Basic Set, so I was paying for reagents. That meant finding one whose costs were locally low, or more accurately, syncretizing a recipe out of a few different ones in order to use the cheapest stuff Hitz had on hand… and to fit in with my aesthetic sense, or maybe my aesthetic sense was just well-attuned to making the cycle work.
+
+Kelly had bet it would take me five formulations. I’d done it in three, and she’d gone off in a fit of delight to talk with James about whether it was worth patenting. The answer turned out to be no, since it would be useful to exactly nobody outside of my ultra-specific economic and reagent-availability parameters, which I’d expected.
+
+She published a note anyway, which amounted to an informal notice that we had done something she thought was neat. This, we all agreed, was perfectly reasonable.
+
+Having done all that, and having reviewed the work I’d done, I still struggled to figure out what Kelly had read somewhere. If I were doing it backwards, I’d be starting with a liquid that had some sort of metaphysical attribute and condensing solids out of it that had physical natures which were attuned or related to that attribute, but that… didn’t seem to be relevant at all.
+
+“I’m not seeing it,” I grumbled at her when she returned. “Gimme a hint?”
+
+I heard Kelly tapping her fingernail on her chin thoughtfully. “You got metaphysical results with physical processes, going forwards,” she said eventually. “I bet that’s all the hint you’ll need!”
+
+“So going backwards, I should be using metaphysical processes to get physical results? No, that doesn’t make any sense, because we can’t use any of that right now. I should be—”
+
+“—eating food?”
+
+I glanced over to see that she’d popped open a large box of steaming rolls of some sort, flaky and glistening with butter. My stomach growled an agreement, and I laughed, setting the work aside and walking over. “Even if I didn’t agree,” I observed, “I’d be outvoted two-to-one. Thank you.”
+
+Any immediate followup to that was smothered in the local equivalent of puff pastry, flaky dough in layers and layers around a core of creamy cheese, smoked fish, something herbal, and a last thing I couldn’t place. It was unbelievably good—definitely the best of the boxed meals I’d had in my fortnight-or-so in Kibosh, and better than many of the meals I’d eaten in the refectory.
+
+Kelly snickered at the look on my face, for all that her expression had been dreamy and reverent in a way that I committed to memory and also set delicately aside. “I didn’t want to spoil the surprise! There’s a couple of Forest herbs that go into these, and a ground up root from the dungeon. They help with recovery, a little, if you only have some once in a while.”
+
+“Mmm. Izzat why it’s so delicious?”
+
+“Nope! That’s Ketka and her imports. The fish—samkeh, that’s the name for the fish—swim west, up the rivers from the Yarovi coast to the Spine. The ones that make it through the channels they call the Spawning Gates lay like ten thousand eggs or something on the way back down. With their eggs gone, they’re not, like, toxic anymore—”
+
+“—what.”
+
+“—so the Yarovi fish ‘em out of the rivers in the lowlands and we get some of them here!”
+
+“Huh.” I ate another roll. “So, what’s the Shemmai name for the fish? Samkeh sounds like it’s Yaroba.”
+
+“Um! It’s, uh, corpsefish. Because it kills you.”
+
+Kelly had the grace to look embarrassed, and I just shook my head at her, snickering.
+
+Corpsefish, huh. It was incredible, whatever the name and history of it, and too soon I was licking the pastry flakes and butter off my fingers before going to go wash up… and then it was back to the drafting table.
+
+“Going backwards,” I murmured to myself once I’d sat down at my desk. “Physical processes, metaphysical results. I can do that, sure.”
+
+I had nearly no idea what I was doing, and winging things was categorically not what I’d spent a decade and a half doing professionally. But old habits die hard, and I’d grown up having a… rhetorical fluidity that amounted to being able to bullshit so hard it was on track to creating a new canon.
+
+That would just have to do.
+
+“Hermes Trismegistus,” I murmured softly, and then I stopped and took a moment. A thread of disbelief—was I really doing this here, doing this now—was dismissed, because of course every moment was the best moment to interrogate my religious practices. That done, I took a deep breath and started over, drawing back to a memory thirty years in my past.
+
+“May it be your will,” I murmured in the Old Tongue, the ancient Shemmai that the Divine Flame had granted me even as it took what I’d once had. There were still names whose sounds seemed to stick with me, but the resonating concepts behind that phrase—may this desire be before you—were gone.
+
+I wasn’t sure how I felt about that, other than negatively.
+
+“May it be your will, Lord who is my God and was God of my ancestors, that all paths which lead to understanding and growth, to peace and prosperity, to love and joy, be Your paths, no matter whose hand aids us in that journey.”
+
+Imperfect, I thought. But it was adequate for the moment, and it would serve as a framing mechanism; I would grapple with it, every time the words passed my lips, and it would grow ever-nearer to that untouchable Truth.
+
+“Hermes Trismegistus,” I incanted, “you who are the spark and the flame, be my guide and companion in this act of creation.”
+
+I deliberately didn’t send it outwards, didn’t encapsulate the prayer and let it flow away to where the Gods dwelt. It wasn’t necessary. I’d always believed that the act itself was the point, not the notional listener—and a sense of calmness filled me as I started to work.
+
+The problem that I needed to solve was simple, and it wasn’t the problem that I’d had in my head to solve. I didn’t need, necessarily, a substance that would create a stable draw out of a mana battery. If my understanding was right, I just needed to non-destructively break the storage equilibrium somehow, and the ink would naturally pull in a close-enough-to-perfect mix of the essence it needed. Sure, proportional to the density and purity of its metaphysical greed, but I’d done a good enough job with the ink that at a minimum I could kickstart a different process.
+
+The first step was validating my understanding. That was all math, in the form of a tortuous piece of matrix multiplication and some calculus. It gave me an answer that wasn’t so much what I had expected as wildly beyond my expectations, so I went on to step two: brainstorm possible solutions, with an emphasis on having absolutely no critical filter and just getting every possible idea on paper.
+
+Everything flowed away from me as I worked. I recognized, abstractly, that I was tired and that I would start flagging soon; I was aware that Kelly was around. I just wasn’t paying attention to any of that, or to the other pieces of the overall project.
+
+Ultimately, everything boiled down to basic physics and chemistry. I needed some form of mundane state-disruption, and that wasn’t all that long a list. Temperature, magnetism, acidity and redox reactions in all of their manifold forms, radioactive decay, pressure in its various applications, vibration, and the various other bond-modifiers were pretty much it—and I could rule out a few of those offhand.
+
+The crystals were radically non-magnetic. Getting a source for alpha, beta, or gamma decay even with magic would be an absurd project in its own right. Acid would cause the crystal itself to fail when the surface of it was degraded enough, and so would redox, heat, or torsion; and anything that mucked around with the bonds of the crystal’s structure would destabilize it in a more emphatic manner than that.
+
+Cold temperatures, I wrote. Even pressure. Vibration. Between the three of those, I strongly suspected I could make it work. In fact, I had some ideas for how to test each of them and what that might imply about the fundamental frameworks beyond what I’d seen in the books. I itched to start sketching those out beyond just jotting down a few words as a future reminder, but my hand was shaking.
+
+“Lunch?” I directed the question at Kelly, glancing over at her desk to where she was going through a thick tome of some sort with a frown on her face. “Lunch and then a nap, and strike the question mark,” I corrected myself as she looked up.
+
+“Lunch is waiting for us upstairs.”
+
+“I feel bad about that,” I said, starting to get up. My knees buckled out from under me, but my left hand was already on the desk to catch myself as I waved Kelly off with my right. “But maybe not that bad.”
+
+“Good.” She slipped under my arm, slinging it around her shoulder to support me. And with that, we followed the smell of food upstairs.

@@ -1,0 +1,3 @@
+Time and Space cannot be combined in secondary affinities, only tertiary.
+
+Known tertiary affinities:

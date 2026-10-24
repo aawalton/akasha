@@ -1,0 +1,125 @@
+Morning, Eleventh of One, Harvest, 236 CR
+
+Kelly and I had pretty much slept the entire afternoon through on Tenth, waking only to eat and relieve ourselves. We’d made it to the refectory for dinner expecting a lecture from Rafa, and had been surprised to have her give us a vaguely-grumbling handwave instead—apparently pushing ourselves a little in the morning and then recovering for the rest of the day was considered good, if we didn’t overdo it.
+
+The gossip had been focused on the twin topics of a Policy Audit—very much with the capital letters—and the temporary departure of Nameless and its handler, gone into the dungeon to assess something. Nobody had seemed to know exactly what they were looking for or checking up on, only that they’d be back the next afternoon and would leave for good that evening. They were a dead end, conversationally speaking, so everyone was mostly abuzz about the incoming auditors.
+
+I’d asked James for more information, but that just got me a shake of his head and a smile. That would be improper, he’d said, and I knew full well that was all I was getting out of him.
+
+Other folks had been a little bit more forthcoming. Apparently the quiet-but-not-illegal relationships up and down the border had a certain amount of scrutiny when Immortals were involved, and significant imbalances in the exchanged value meant that an audit team was called in. And of course, this being Shem, an audit team was unbelievably serious business, which was the least surprising part of the whole thing.
+
+The most surprising part was that it was apparently triggered by Farmer.
+
+Details were not particularly forthcoming. Zqar had flatly refused to comment, saying that as the Tower Pillar he had an active duty to respect Farmer’s privacy on the matter when it came to those who had no compelling interest in the matter, as he put it. Matron Zeva, the spiteful crone who’d gotten snide at me on my very first evening in Kibosh, had responded by loudly speculating about the new vegetables she was looking forward to growing in her gardens, which was… revealing, and more than anyone else was sharing.
+
+And given that Zqar had seethed furiously about it, I could be pretty confident that yes, whatever Farmer had offered or paid, what they’d gotten—or part of what they’d gotten—was cuttings and samples of Forest fare that could be grown in the village.
+
+None of that would be particularly important or relevant, were it not for the fact that it represented one very convenient opportunity. If I wanted to cement myself as the right kind of strange, a Traveler with the right degree of oddness, this was a perfect time to do it.
+
+The mana-infused ink was nifty. Kartom made intrigued noises about it, there was enough novelty that a patent might get approved, and at least one bit of theory behind it was something that hadn’t really been investigated. It was not, however, useful, as inventions went—the line of study had been orphaned centuries ago, with nobody particularly interested in digging into it.
+
+I hadn’t realized how unusual I was in being unable to use magic at all, in being unable to manipulate mana in any way. It made Kartom’s initial attitude of sympathy-verging-on-pity more comprehensible, though more aggravating in hindsight, and explained why he’d been so surprised by how well I’d taken it; but it was hard to think of something as a disability when I’d only known about its existence for a fortnight.
+
+“The Traveler,” I murmured, mostly to myself, “comes with her own disability, one which Shem might be shamed by its inability to remedy. She creates her own mitigation for it.”
+
+“How clever of her!”
+
+Kelly hugged me around the waist, and I glanced over at her, broken out of my reverie. “Clever? Not, like, dangerously brilliant and worldshaking?”
+
+“Not yet. Like I said, this is calibrated right. And getting your patent application evaluated tomorrow will give exactly the first impression we want. Good for inertia!”
+
+“Yeah, but if we’re going to do that, we need to actually finish this.” I waved the experiment drafts at her, all six of them in one loose sheaf. “Thoughts?”
+
+“The triple,” she said without taking them from my hand.
+
+“Right, you watched me draft them. Okay.” I slid the five excess sheets over to the side and pulled out a larger sheet of parchment, rapidly sketching a more thorough representation of the experiment. “Cold temperatures is easy, and so is pressure. Kelly, tell me why!”
+
+“Because when water tries to freeze, it tries to expand! And if the thing it’s in is rigid, it’ll pressurize. So all we have to do is fill stoneglass with ink all the way to the top, drop in a coldstone or two, and stopper it!”
+
+“Safety needs so far?”
+
+“Hood,” she recited obediently, “and the personal gear. Nothing we’re doing risks fumes, so we don’t need the gas exchanger, which is good because we can’t turn it on. Um. Calculate what the buffer is on the stoneglass if the ink gets all the way to the coldstone’s output temperature? I can’t think of anything else.”
+
+“Yeah, neither can I,” I admitted. “Also, I can’t think of what we should do for vibration. If we were back in my old lab, we had tools for that…”
+
+“Um. Sophie?”
+
+“Yes, Kelly?”
+
+“How are we testing this?” She grimaced at my raised eyebrow. “I mean, you said that if you, um, the cold and pressure, it’ll freeze, right? So we can’t use it. So how do we know it worked? Normally I would just look at it, but—”
+
+“—but no mana sight.” I smiled absently, puzzling over the parchment. “All we have to do is pull the crystal, and then we just toss it into the bucket.”
+
+“The bucket?” She looked at me, blinking owlishly, and then ran a hand through her hair in a very Kelly gesture of embarrassment. “Right. The waste bucket. Which has self-activating enchantments if you put anything magical in there.”
+
+“Which still leaves the question of vibration. If you think it’s necessary?”
+
+She bit her lip fetchingly—but I repeat myself, I snarked inwardly on autopilot—and sat down to give that particular consideration. She reached for a book, which was my cue to go work on something else, and I drifted off to pull together the stuff we already knew we’d be using. Flask, set up the safety hood, where are the coldstones…
+
+“—Sophie three, Sophie four—”
+
+“Kelly three,” I replied before the rest of my brain caught up to what she’d said, “Kelly four.”
+
+“Um.” She hesitated a moment, then plunged ahead. “I need you to check my math. The answers I got don’t make any more sense this time than they did earlier.”
+
+“That’s new.” I raised an eyebrow at her, accepting the papers from her hand. “What’s—right, check first, ask after, avoid baking in erroneous assumptions.”
+
+I worked my way through her—correct—arithmetic quickly enough, then backtracked to the actual question she was trying to answer and frowned at it. Writing left-to-right opposite her work, I scrawled a very different formula and worked it out to the end, ending up with a very different answer.
+
+“Calculus,” I said as I handed it over. “If Ketka can’t teach you, I’ll have to, I guess.”
+
+“Sophie, what is this?”
+
+“Calculus.” I grinned at her. “Here’s the answer you were trying to get towards. It’s not that hard to learn, but it’s a different way of thinking about the area under the curve, if nothing else. So! If I understand what you were trying to solve, it looks like we don’t need the vibration? Which is a shame, because I thought of a way to do it with an insulated vessel in a larger vessel filled with boiling water.”
+
+“Well! That’s um.” She looked at me in silence for a long moment, then back down to the paper, taking it in. “I think my pride can survive you teaching me math, as long as you’re nice about it.”
+
+I snickered, getting up and walking over just to bump shoulders with her. “So I was able to figure that much out, and to check the math itself. But most of this is unitless, so…”
+
+“If we fill it up to the top,” she began, and then stopped for a moment. “If you can’t figure out the rest, I got it wrong.”
+
+I looked back down at the equations. “If we fill it up to the top… ah. If that’s the case, this is the pressure, which means that is the bulk modulus. So this is the phase change? The thermodynamics are—oh, that’s interesting, the liquid-to-solid is exothermic once it happens, but it takes a bunch of energy to happen. Okay, so that’s a fair bit below freezing for water, but we have a pair of stones within a couple of degrees, right?”
+
+“Bwuh.”
+
+“Kelly?” I glanced up to see her staring at me with a sort of glazed look on her face. “What?”
+
+Kelly’s mouth snapped closed with an audible sound, and she sat down a little unsteadily. “I… sorry, Sophie. I just sometimes forget how much better you are at this than I am.”
+
+I couldn’t help myself—my face broke into a wildly self-satisfied grin. “You are having a wildly inappropriate reaction to your boss and charge having been able to sprint along the path you laid down. And a bit further, I’ll admit.”
+
+She buried her face in her hands, but not in time to stop me from seeing how crimson she was blushing. It was a futile effort, anyway—the blush went all the way to the tips of her ears and covered the back of her neck.
+
+Sometimes, I thought to myself smugly, teasing this girl is just the greatest thing. Still, as good as it felt…
+
+“Kelly. Look at me, please.” I kept my voice gentle, and was rewarded by her visibly settling down and lifting her head up a little. “We both know it’s not going to go anywhere for probably a couple of seasons, and in the meantime I find your attraction to me extremely validating—all the more because I consider you both an intellectual peer and stunningly pretty. But I don’t actually know what the mores around this are here, so I’m going to back off a bit, and we can go back to chemistry.”
+
+“That’s—I don’t—please don’t,” she stammered out. “It’s good, it’s all good, you don’t have to stop.”
+
+“Your face is still in your hands,” I pointed out. “Embarrassment is one thing, but your body language suggests discomfort, and that’s not okay.”
+
+Something about that sank into her, and her shoulders relaxed down and then firmed into determination. Spine straightening, she met my eyes with her own as her hands came down to rest on her thighs. “I,” she said with uneven firmness, “have not had the pleasure of mutual attraction with, as you said, an intellectual peer. Ever. I’m enjoying this, I am not uncomfortable, I’m nervous in like four different ways and you have this way of going from obtuse to seeing me and seeing right through me.” She paused, biting the inside of her lip. “And I like it,” she added after a moment, “and am not okay with you stopping.”
+
+I ruthlessly suppressed the fit of giggles that threatened to overtake me. Her posture was aggressively proper and formal, but at the same time her blush was threatening to ascend to a higher plane and her fingers were curled, digging into her thighs. Together with a few other signs, signs which I did my best not to make a point of looking at, it was like a moment out of my own mid-twenties—I recognized the fire in her belly and her mind, and it made her seem so strangely young for a moment.
+
+There were a dozen things I could have said to escalate the moment. Flustered as she had been when Mera had pushed her buttons, I couldn’t help but wonder what kind of face—and sound—Kelly would make if I stroked her hair, or how she’d react if I praised her for using her words.
+
+Alas, I thought to myself wryly, whatever boundaries Kelly might not have, I’ve got at least a few, and calling her a good girl would definitely be over the line.
+
+“You’re cute,” I said instead, “and I’m glad we had this conversation. Wanna set up the experiment, then learn the actual theory behind the numbers you copied out of a reference book while we wait for it to run?”
+
+“Thousands in their splendor, yes.”
+
+“Great! Grab the coldstones. So, let’s see. This here, you used it right but you’d have had an easier path to the answer if you actually understood what the bulk modulus means. It’s basically the elasticity, or the inverse; how resistant it is to compression. That’s critical, can you tell me why?”
+
+“Because, um. Um! The answer to how much pressure it’ll apply in a rigid container!”
+
+“That’s not actually a sentence, but it’s the right answer anyway!”
+
+“Sophie!”
+
+I grinned as she stuck her tongue out at me. “Now, chilled water under pressure is in this sort of mixed water-and-ice state, and I don’t remember the exact math, but the references definitely are going to have what I need to re-derive it, at a minimum. So once the experiment is running, but in the meantime…”
+
+I kept talking, going through the thermodynamics implied by what she’d written down in the sheaf of papers she’d handed me and how I’d gotten there. And soon enough, she was sitting next to me, hip pressed against my hip and side pressed against my side, as we pored over reference texts together in search of understanding.
+
+Life, I took the opportunity to acknowledge, is damn good. Bless you, God and Gods, for having brought me to this place and this time.
