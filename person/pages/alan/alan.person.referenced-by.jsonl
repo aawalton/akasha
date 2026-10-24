@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"alan.person.ts","path":"agent/hook/agent-hook/inference-hook/keep-alan-directives/keep-alan-directives.inference-hook.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"alan.person.ts","path":"agent/seat/declaration/modules/seat-persons/seat-persons.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"alan.person.ts","path":"agent/seat/modules/akasha-read/seat-akasha-read.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"alan.person.ts","path":"agent/seat/modules/typing/seat-typing.module.test.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"alan.person.ts","path":"agent/seat/name/modules/compose-seat-name/compose-seat-name.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"alan.person.ts","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive-iteration/supervisor-interactive-iteration.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"alan.person.ts","path":"agent/seat/supervisor/seat-work-restart/modules/supervisor-limit-resume/supervisor-limit-resume.module.code.ts","typed":false,"deferred":false}

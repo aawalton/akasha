@@ -1,5 +1,7 @@
 {"propertySlug":"import","fileName":"seat-turn-state.page-type.ts","path":"agent/seat/modules/reply-notifying/seat-reply-notifying.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-turn-state.page-type.ts","path":"agent/seat/modules/reply-notifying/seat-reply-notifying.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-turn-state.page-type.ts","path":"agent/seat/modules/typing/seat-typing.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-turn-state.page-type.ts","path":"agent/seat/modules/typing/seat-typing.module.test.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-turn-state.page-type.ts","path":"alan/web/routes/alan-web-api-seat-regret/alan-web-api-seat-regret.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-turn-state.page-type.ts","path":"story/properties/story-color.computed-property.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-turn-state.page-type.types.ts","path":"agent/seat/turn-state/pages/idle/idle.seat-turn-state.ts","typed":true,"deferred":false}

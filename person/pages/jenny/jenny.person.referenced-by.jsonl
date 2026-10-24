@@ -8,6 +8,7 @@
 {"propertySlug":"email-rule-code-forward-to","path":"alan/harness/inbox/email-rule/code/pages/vanguard-transaction-confirm.email-rule-code.ts","id":"01a06860-54a2-7564-ae67-fb1830491d30"}
 {"propertySlug":"import","fileName":"jenny.person.ts","path":"agent/seat/declaration/modules/seat-persons/seat-persons.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"jenny.person.ts","path":"agent/seat/modules/akasha-read/seat-akasha-read.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"jenny.person.ts","path":"agent/seat/modules/typing/seat-typing.module.test.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"jenny.person.ts","path":"agent/seat/properties/conversation.computed-property.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"jenny.person.ts","path":"person/modules/push-apps/push-apps.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"jenny.person.ts","path":"product/smilingjenny/web/.server/jenny-session/jenny-session.module.code.ts","typed":false,"deferred":false}

@@ -287,6 +287,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/modules/record/seat-record.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/modules/reply-notifying/seat-reply-notifying.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/modules/tmux-session/tmux-session.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/modules/typing/seat-typing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/modules/window-duration/window-duration.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/name/modules/agent-name-bind/agent-name-bind.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/name/modules/bind/seat-name-bind.module.ts","typed":true,"deferred":false}
