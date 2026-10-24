@@ -65,6 +65,7 @@ export const alanWeb = {
     "module/device-secret-sync",
     "module/edge-swipe-nav",
     "module/home-dni-param",
+    "module/nav-reach",
 
     "module/nav-command",
     "module/next-unread",
@@ -99,5 +100,5 @@ export const alanWeb = {
   ],
   toolReached: ["react-dom"],
   createdAt: "2026-09-01T06:38:44.740Z",
-  updatedAt: "2026-10-24T19:57:33.386Z",
+  updatedAt: "2026-10-24T21:45:07.983Z",
 } as const satisfies RouterApp
