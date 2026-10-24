@@ -27,7 +27,7 @@ export const handleInbound = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A message no seat accepts becomes a refusal notice to Alan.",
+      statement: "A message no seat accepts becomes a refusal notice to Alan carrying its words.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -39,5 +39,5 @@ export const handleInbound = {
     },
   ],
   createdAt: "2026-09-01T05:27:15.613Z",
-  updatedAt: "2026-09-22T00:47:01.000Z",
+  updatedAt: "2026-10-24T21:54:38.184Z",
 } as const satisfies Module

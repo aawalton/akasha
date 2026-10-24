@@ -161,11 +161,22 @@ describe("handleInboundSms", () => {
     expect(calls[1]?.target).toBe("alan")
   })
 
-  test("keeps the message out of the refusal notice", async () => {
-    const args = await signedArgs(sampleBody("my bank pin is 4321"), [ENROLLED])
+  test("keeps the words of a text no seat took in the refusal notice", async () => {
+    const args = await signedArgs(sampleBody("call me at four"), [ENROLLED])
     const { deliver, calls } = recordingDeliver(["amy"])
     await handleInboundSms(args, deliver, neverDiscard)
-    expect(calls[1]?.content).not.toContain("4321")
+    expect(calls[1]?.kind).toBe("refusal-notice")
+    expect(calls[1]?.content).toContain("call me at four")
+    expect(calls[1]?.content).toContain(SAMPLE_SENDER)
+  })
+
+  test("keeps the words of a text whose sender names no seat", async () => {
+    const args = await signedArgs(sampleBody("call me at four"), [
+      { ...ENROLLED, handlerTarget: null },
+    ])
+    const { deliver, calls } = recordingDeliver()
+    await handleInboundSms(args, deliver, neverDiscard)
+    expect(calls[0]?.content).toContain("call me at four")
   })
 
   test("names a refusal notice that itself failed to land", async () => {

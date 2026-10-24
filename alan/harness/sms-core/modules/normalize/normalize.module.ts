@@ -9,8 +9,8 @@ export const normalize = {
   test: "ts",
   decisions: [
     {
-      decisionKind: "decision-kind/absence",
-      statement: "A refusal notice has no part of the message the notice refused.",
+      decisionKind: "decision-kind/departure",
+      statement: "A refusal notice carries the words of the text no seat took.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -31,5 +31,5 @@ export const normalize = {
     },
   ],
   createdAt: "2026-09-01T05:27:15.613Z",
-  updatedAt: "2026-09-24T20:36:40.000Z",
+  updatedAt: "2026-10-24T21:54:38.184Z",
 } as const satisfies Module

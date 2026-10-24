@@ -42,14 +42,15 @@ describe("inboundToCommsInput", () => {
 })
 
 describe("formatRefusalNotice", () => {
-  test("carries no part of the message it refused", () => {
+  test("carries the words of the message it refused", () => {
     const notice = formatRefusalNotice({
       sender: "+18015551234",
       accountUserId: "acct-1",
       attemptedTarget: "amy",
       reason: "no agent row is named 'amy'",
+      words: "pick up milk",
     })
-    expect(notice).not.toContain("secret payload")
+    expect(notice).toContain("pick up milk")
     expect(notice).toContain("+18015551234")
     expect(notice).toContain("amy")
   })
@@ -60,6 +61,7 @@ describe("formatRefusalNotice", () => {
       accountUserId: null,
       attemptedTarget: null,
       reason: "whatever",
+      words: "hi",
     })
     expect(notice).toContain("matched no enrolled identity")
     expect(notice).toContain("no handler is recorded")

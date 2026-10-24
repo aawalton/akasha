@@ -16,26 +16,35 @@ export interface RefusedInbound {
   readonly accountUserId: string | null
   readonly attemptedTarget: string | null
   readonly reason: string
+  readonly words: string
 }
 
 export function formatRefusalNotice(refusal: RefusedInbound): string {
   const account = refusal.accountUserId ?? "(none — matched no enrolled identity)"
   const destination = refusal.attemptedTarget ?? "(none — no handler is recorded for this sender)"
   return [
-    "🚫 SMS refused — nothing was delivered",
+    "🚫 SMS refused — no seat took it, so its words are kept here",
     "",
     `sender ${refusal.sender}`,
     `account ${account}`,
     `destination ${destination}`,
     `reason ${refusal.reason}`,
     "",
-    "— inbound SMS channel · the sender's message is deliberately not carried here",
+    refusal.words,
+    "",
+    "— inbound SMS channel",
   ].join("\n")
 }
 
 export interface DiscardedInbound {
   readonly sender: string
   readonly reason: string
+}
+
+export function wordsOf(sms: TelnyxInboundSms): string {
+  const said = sms.text.trim().length > 0 ? [sms.text] : []
+  const media = sms.media.map((one) => `🖼 ${one.contentType ?? "media"} ${one.url}`)
+  return said.length + media.length > 0 ? [...said, ...media].join("\n") : "(no text body)"
 }
 
 export function formatSmsSurface(sms: TelnyxInboundSms, decision: SmsRouteDecision): string {
@@ -47,9 +56,7 @@ export function formatSmsSurface(sms: TelnyxInboundSms, decision: SmsRouteDecisi
     decision.kind === "helper" && decision.accountUserId !== null
       ? `\nacting for account ${decision.accountUserId}`
       : ""
-  const said = sms.text.trim().length > 0 ? [sms.text] : []
-  const media = sms.media.map((one) => `🖼 ${one.contentType ?? "media"} ${one.url}`)
-  const body = said.length + media.length > 0 ? [...said, ...media].join("\n") : "(no text body)"
+  const body = wordsOf(sms)
   const sender =
     decision.kind === "helper" && decision.person !== null
       ? `${decision.person} (${sms.fromNumber})`

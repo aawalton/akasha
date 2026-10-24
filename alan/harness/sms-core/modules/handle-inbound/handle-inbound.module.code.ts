@@ -4,6 +4,7 @@ import {
   formatSmsSurface,
   inboundToCommsInput,
   type RefusedInbound,
+  wordsOf,
 } from "akasha/alan/harness/sms-core/modules/normalize/normalize.module.code.ts"
 import {
   decideSmsRoute,
@@ -106,6 +107,7 @@ export async function handleInboundSms(
       accountUserId: decision.accountUserId,
       attemptedTarget: null,
       reason: decision.reason,
+      words: wordsOf(sms),
     })
   }
 
@@ -122,6 +124,7 @@ export async function handleInboundSms(
       accountUserId: decision.accountUserId,
       attemptedTarget: target,
       reason: landing.reason,
+      words: wordsOf(sms),
     })
   }
   return { kind: "routed", target, reason: decision.reason }
