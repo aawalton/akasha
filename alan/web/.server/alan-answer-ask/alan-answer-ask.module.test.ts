@@ -123,25 +123,25 @@ test("Jenny's conversation question is held to the one seat she may read", async
       at: "/ask",
       body: {
         ...CONVERSATION,
-        where: { id: { is: SEAT_ID }, slug: { is: "couples-therapist" } },
+        where: { id: { is: SEAT_ID }, slug: { is: "couples-therapy-couples-therapist" } },
       },
     },
   ])
 })
 
-test("Jenny asking for every seat is answered only the couples-therapist seat", async () => {
+test("Jenny asking for every seat is answered only the couples-therapy-couples-therapist seat", async () => {
   const { deps, sent } = asking(JENNY)
   await askHeld(asked({ pageTypeSlug: "seat", keys: ["slug"] }), deps)
   expect(sent[0]?.body).toEqual({
     pageTypeSlug: "seat",
     keys: ["slug"],
-    where: { slug: { is: "couples-therapist" } },
+    where: { slug: { is: "couples-therapy-couples-therapist" } },
   })
 })
 
 test("Jenny asking for another seat by slug is refused and nothing is carried", async () => {
   const { deps, sent } = asking(JENNY)
-  for (const slug of [{ is: "amy" }, { in: ["couples-therapist", "amy"] }]) {
+  for (const slug of [{ is: "amy" }, { in: ["couples-therapy-couples-therapist", "amy"] }]) {
     const answered = await askHeld(asked({ pageTypeSlug: "seat", where: { slug } }), deps)
     expect(answered.status).toBe(403)
   }

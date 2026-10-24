@@ -40,7 +40,7 @@ test("Jenny's seat page is looked for only among the seat she may read", async (
     readerIs("jenny"),
     reads
   )
-  expect(held).toEqual({ ...BY_SUFFIX, slug: { is: "couples-therapist" } })
+  expect(held).toEqual({ ...BY_SUFFIX, slug: { is: "couples-therapy-couples-therapist" } })
 })
 
 test("a page of a type its reader may not read is answered as no such page", async () => {

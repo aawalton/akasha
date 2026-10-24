@@ -146,7 +146,7 @@ test("Jenny's seat access reads the one seat it narrows to and writes none", asy
   )
   expect(reachOf(grants, "seat", DEEDS.READ, "jenny")).toEqual({
     permitted: true,
-    narrows: [{ key: "slug", is: "couples-therapist" }],
+    narrows: [{ key: "slug", is: "couples-therapy-couples-therapist" }],
   })
   expect(reachOf(grants, "seat", DEEDS.WRITE, "jenny").permitted).toBe(false)
   expect(reachOf(grants, "persona", DEEDS.READ, "jenny").permitted).toBe(false)
