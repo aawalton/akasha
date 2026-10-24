@@ -19,7 +19,10 @@ export function FrameStickyFooter({ children }: { children: ReactNode }) {
   return (
     <div
       data-slot="frame-sticky-footer"
-      className={cn("sticky bottom-0 z-20 pb-(--safe-area-bottom)", surfaceClass(0))}
+      className={cn(
+        "sticky bottom-0 z-20 pb-[calc(var(--safe-area-bottom)+2rem)]",
+        surfaceClass(0)
+      )}
     >
       {children}
     </div>
