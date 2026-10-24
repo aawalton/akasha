@@ -4,6 +4,7 @@ import type { Bodyweight } from "akasha/person/properties/bodyweight.number-prop
 import type { PersonContributor } from "akasha/person/properties/person-contributor.relation-property.types.ts"
 import type { Phone } from "akasha/person/properties/phone.phone-number-property.types.ts"
 import type { Scheme } from "akasha/person/properties/scheme.select-property.types.ts"
+import type { SeatNotices } from "akasha/person/properties/seat-notices.record-property.types.ts"
 import type { EmailAddress } from "akasha/persona/properties/email-address.email-address-property.types.ts"
 
 export type Person = Domain & {
@@ -13,4 +14,5 @@ export type Person = Domain & {
   bodyweight?: Bodyweight
   contributor?: PersonContributor
   scheme?: Scheme
+  seatNotices?: SeatNotices
 }

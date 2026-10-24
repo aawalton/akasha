@@ -1,0 +1,1 @@
+export type NoticeSeat = string

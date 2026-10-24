@@ -118,6 +118,7 @@
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"page/view/properties/layout.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"page/view/properties/narrow-comparison.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"person/properties/scheme.select-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"person/properties/seat-notice.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"product/game/clear-the-world/ctw-achievement/properties/ctw-scope.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"product/kofi/feature-request/properties/feature-request-standing.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"properties/only-on.select-property.ts","typed":true,"deferred":false}

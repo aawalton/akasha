@@ -47,6 +47,9 @@ export const person = {
     "person/anonymous",
     "module/page-type-access",
     "person/innworld-visitor",
+    "record-property/seat-notices",
+    "select-property/seat-notice",
+    "text-property/notice-seat",
   ],
   properties: [
     { pageProperty: "relation-property/answered-by", required: true, many: false },
@@ -55,6 +58,7 @@ export const person = {
     { pageProperty: "number-property/bodyweight", required: false, many: false },
     { pageProperty: "relation-property/person-contributor", required: false, many: false },
     { pageProperty: "select-property/scheme", required: false, many: false },
+    { pageProperty: "record-property/seat-notices", required: false, many: true, maxCount: null },
   ],
   decisions: [
     {
@@ -69,5 +73,5 @@ export const person = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-08-30T18:13:32.023Z",
-  updatedAt: "2026-10-24T21:25:34.247Z",
+  updatedAt: "2026-10-24T21:45:07.022Z",
 } as const satisfies PageType

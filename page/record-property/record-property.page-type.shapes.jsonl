@@ -51,6 +51,7 @@
 {"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"rescued-credential","propertySlug":"rescued-credential","fileName":null,"folderName":null}
 {"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"runtime-env-secret","propertySlug":"from-secret","fileName":null,"folderName":null}
 {"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"seat-gateway","propertySlug":"seat-gateway","fileName":null,"folderName":null}
+{"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"seat-notices","propertySlug":"seat-notices","fileName":null,"folderName":null}
 {"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"secret-build-env","propertySlug":"secret-build-env","fileName":null,"folderName":null}
 {"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"secret-runtime-env","propertySlug":"secret-runtime-env","fileName":null,"folderName":null}
 {"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"select-option-colors","propertySlug":"option-colors","fileName":null,"folderName":null}

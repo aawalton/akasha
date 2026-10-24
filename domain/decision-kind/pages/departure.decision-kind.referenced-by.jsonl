@@ -3832,8 +3832,11 @@
 {"propertySlug":"decision-kind","path":"person/pages/ki/show/ki-show.page-type.ts","id":"01a06825-d0ec-71a0-a7ee-80d30e5385ef"}
 {"propertySlug":"decision-kind","path":"person/person.page-type.ts","id":"01a053e0-6cf7-7062-90af-db1def200572"}
 {"propertySlug":"decision-kind","path":"person/properties/bodyweight.number-property.ts","id":"01a06860-a0ef-76b6-bebf-a5ed8fc42f7b"}
+{"propertySlug":"decision-kind","path":"person/properties/notice-seat.text-property.ts","id":"01a16fdf-e6d0-7add-a5d1-ecaf6605ed32"}
 {"propertySlug":"decision-kind","path":"person/properties/person-contributor.relation-property.ts","id":"01a0bb36-56fc-7f8a-9518-9365e9db5dac"}
 {"propertySlug":"decision-kind","path":"person/properties/scheme.select-property.ts","id":"01a16fce-01a9-77c2-be47-524e47ddf6b2"}
+{"propertySlug":"decision-kind","path":"person/properties/seat-notice.select-property.ts","id":"01a16fdf-e6d0-7c8b-9da3-5dd86297ad3d"}
+{"propertySlug":"decision-kind","path":"person/properties/seat-notices.record-property.ts","id":"01a16fdf-e6d0-7bd8-8a04-08d4c1d3b2ce"}
 {"propertySlug":"decision-kind","path":"person/sms-consent/sms-consent.page-type.ts","id":"019f830f-5026-7e88-9c08-a7cb23b14ef1"}
 {"propertySlug":"decision-kind","path":"person/sms-consent/wording/sms-consent-wording.page-type.ts","id":"01a0e2c7-84b5-7ccd-9573-77448bf87556"}
 {"propertySlug":"decision-kind","path":"persona/closeness-level/closeness-level.page-type.ts","id":"01a0540e-5111-7164-acb3-f776b18d8b45"}
