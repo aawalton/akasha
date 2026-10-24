@@ -40,7 +40,7 @@ test("Jenny's seat page is looked for only among the seat she may read", async (
     readerIs("jenny"),
     reads
   )
-  expect(held).toEqual({ ...BY_SUFFIX, slug: { is: "couples-therapy-couples-therapist" } })
+  expect(held).toEqual({ ...BY_SUFFIX, slug: { is: "claudius" } })
 })
 
 test("Jenny's book page is looked for only among the alan-and-jenny book", async () => {

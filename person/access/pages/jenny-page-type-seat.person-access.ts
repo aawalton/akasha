@@ -8,7 +8,7 @@ export const jennyPageTypeSeat = {
   accessKind: "access-kind/page-type",
   target: "seat",
   deed: ["access-deed/read-some"],
-  narrow: { key: "slug", is: "couples-therapy-couples-therapist" },
+  narrow: { key: "slug", is: "claudius" },
   createdAt: "2026-10-24T17:07:48.304Z",
-  updatedAt: "2026-10-24T18:17:30.164Z",
+  updatedAt: "2026-10-24T20:29:35.416Z",
 } as const satisfies PersonAccess
