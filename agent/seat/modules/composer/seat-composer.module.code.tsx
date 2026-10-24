@@ -101,6 +101,7 @@ async function jpegOf(file: File): Promise<Blob> {
 }
 
 async function keptImage(
+  seat: string,
   file: File
 ): Promise<{ readonly image: string } | { readonly refused: string }> {
   let bytes: Blob
@@ -109,7 +110,7 @@ async function keptImage(
   } catch (cause) {
     return { refused: `${file.name} would not open as an image (${String(cause)})` }
   }
-  const held = await posted(KEEP_AT, JPEG, bytes)
+  const held = await posted(`${KEEP_AT}?seat=${encodeURIComponent(seat)}`, JPEG, bytes)
   if ("refused" in held) return held
   const image = imageIn(held.said)
   return image === null ? { refused: `${KEEP_AT} named no image kept` } : { image }
@@ -123,7 +124,7 @@ export async function sentToSeat(
 ): Promise<Unsent | null> {
   const images: string[] = []
   for (const file of files) {
-    const kept = await keptImage(file)
+    const kept = await keptImage(seat, file)
     if ("refused" in kept) return { why: kept.refused, unanswered: false }
     images.push(kept.image)
   }

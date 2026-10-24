@@ -57,6 +57,10 @@ export const seatComposer = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An image is kept for the seat it is sent to, named by that seat's id.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A message carries at most eight images.",
     },
     {
@@ -65,5 +69,5 @@ export const seatComposer = {
     },
   ],
   createdAt: "2026-09-24T18:02:40.725Z",
-  updatedAt: "2026-10-09T23:21:10.288Z",
+  updatedAt: "2026-10-24T17:06:19.324Z",
 } as const satisfies Module
