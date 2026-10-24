@@ -19,6 +19,12 @@ export const REFUSED_COMMIT = "refusedCommit"
 
 export const DEPLOY_REFUSAL = "deployRefusal"
 
+const RECORDED = "recorded"
+
+export function recordedLine(slug: string, commit: string): string {
+  return `${RECORDED}\t${slug}\t${commit}`
+}
+
 const MOST_REFUSAL = 4000
 
 const DEPLOY_ENDED_AT = "deployEndedAt"

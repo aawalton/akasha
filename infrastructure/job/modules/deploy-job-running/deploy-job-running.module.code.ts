@@ -1,9 +1,13 @@
 import { setAside } from "akasha/command/modules/stopping/command-stopping.module.code.ts"
 import { deploy } from "akasha/command/pages/deploy/deploy.command.ts"
-import { commitRecordedIn } from "akasha/command/pages/deploy/modules/commit-recording/deploy-commit-recording.module.code.ts"
+import {
+  commitRecordedIn,
+  recordedLine,
+} from "akasha/command/pages/deploy/modules/commit-recording/deploy-commit-recording.module.code.ts"
 import { kindNamed } from "akasha/command/pages/deploy/modules/kind-reading/deploy-kind-reading.module.code.ts"
 import {
   type Ended,
+  type Finished,
   type Hearing,
   jobRan,
 } from "akasha/infrastructure/job/modules/cluster-running/cluster-running.module.code.ts"
@@ -35,16 +39,22 @@ export function hearingFor(calledAs: string): Hearing {
   }
 }
 
+export function finishedAt(subject: string, commit: string): Finished {
+  const kept = recordedLine(subject, commit)
+  return (said) => said.includes(kept)
+}
+
 export type Putting = (
   root: string,
   commit: string,
   name: string,
   yaml: string,
   beside: RegExp,
-  hearing: Hearing | null
+  hearing: Hearing | null,
+  finished: Finished
 ) => Promise<Ended>
 
-const putBy: Putting = async (root, commit, name, yaml, beside, hearing) =>
+const putBy: Putting = async (root, commit, name, yaml, beside, hearing, finished) =>
   await jobRan(
     root,
     commit,
@@ -55,7 +65,8 @@ const putBy: Putting = async (root, commit, name, yaml, beside, hearing) =>
     undefined,
     undefined,
     beside,
-    hearing
+    hearing,
+    finished
   )
 
 export async function ranInCluster(
@@ -70,5 +81,6 @@ export async function ranInCluster(
   const name = jobNameFor(subject, commit)
   const yaml = jobYamlFor(given, subject, commit, await recalling(root, subject))
   hearing?.started()
-  return await putting(root, commit, name, yaml, jobsOf(subject), hearing)
+  const finished = finishedAt(subject, commit)
+  return await putting(root, commit, name, yaml, jobsOf(subject), hearing, finished)
 }

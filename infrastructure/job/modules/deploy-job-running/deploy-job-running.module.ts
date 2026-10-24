@@ -33,6 +33,14 @@ export const deployJobRunning = {
       statement: "Nothing here waits on a job or reads that job's lines.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A deploy's work finished where its job says it kept the commit for that subject.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A job the cluster ended after that line answers as a deploy that put up.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here composes the job.",
     },
@@ -45,6 +53,6 @@ export const deployJobRunning = {
       statement: "The commit the subject was last deployed at is read before the job is composed.",
     },
   ],
-  updatedAt: "2026-10-08T16:01:46.396Z",
+  updatedAt: "2026-10-24T23:25:30.130Z",
   createdAt: "2026-09-14T17:41:48.445Z",
 } as const satisfies Module

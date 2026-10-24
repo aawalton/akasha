@@ -8,6 +8,7 @@ import {
   jobsOf,
 } from "akasha/infrastructure/job/modules/deploy-job/deploy-job.module.code.ts"
 import {
+  finishedAt,
   hearingFor,
   type Putting,
   type Recalling,
@@ -71,6 +72,23 @@ test("a deploy's ceiling is set aside once its job starts and counted again once
 
   expect(Date.now() - at).toBeGreaterThan(1000)
   expect(hearing.said).toBe(JUDGED)
+})
+
+test("a deploy's work finished where its job says it kept that subject's commit", () => {
+  const finished = finishedAt(SUBJECT, COMMIT)
+  expect(finished(["up\tone", `recorded\t${SUBJECT}\t${COMMIT}`])).toBe(true)
+  expect(finished([`recorded\t${SUBJECT}\t${WAS}`])).toBe(false)
+  expect(finished([`recorded\talanwalton-web\t${COMMIT}`])).toBe(false)
+  expect(finished(["up\tone"])).toBe(false)
+})
+
+test("the job is answered by the line its subject and commit say its work finished", async () => {
+  const handed: boolean[] = []
+  await ranInCluster(ROOT, ROOT, SUBJECT, COMMIT, neverDeployed, async (...given) => {
+    handed.push(given[6]([`recorded\t${SUBJECT}\t${COMMIT}`]))
+    return { said: [] }
+  })
+  expect(handed).toEqual([true])
 })
 
 test("the commit the subject was last deployed at reaches the job", async () => {

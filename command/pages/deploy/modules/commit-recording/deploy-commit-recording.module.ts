@@ -45,6 +45,10 @@ export const deployCommitRecording = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The line a deploy says once it kept the commit is spelled here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The commit is kept uncommitted, so keeping it lands no change.",
     },
     {
@@ -112,5 +116,5 @@ export const deployCommitRecording = {
     },
   ],
   createdAt: "2026-09-11T17:40:13.760Z",
-  updatedAt: "2026-09-23T05:00:34.000Z",
+  updatedAt: "2026-10-24T23:25:30.130Z",
 } as const satisfies Module
