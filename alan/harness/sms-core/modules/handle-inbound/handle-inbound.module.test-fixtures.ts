@@ -58,6 +58,7 @@ interface DeliveryCall {
   readonly target: string
   readonly content: string
   readonly kind: DeliveryKind
+  readonly person: string | null
 }
 
 export function recordingDeliver(seatless: readonly string[] = []): {
@@ -67,8 +68,8 @@ export function recordingDeliver(seatless: readonly string[] = []): {
   const calls: DeliveryCall[] = []
   return {
     calls,
-    deliver: async (target, content, kind) => {
-      calls.push({ target, content, kind })
+    deliver: async (target, content, kind, person) => {
+      calls.push({ target, content, kind, person })
       if (seatless.includes(target)) {
         return { kind: "no-such-seat", reason: `no agent row is named '${target}'` }
       }
@@ -99,6 +100,6 @@ export const neverDiscard: RecordDiscardEffect = async (discard) => {
 
 export function messagesOnly(
   calls: readonly DeliveryCall[]
-): readonly { target: string; content: string }[] {
+): readonly { target: string; content: string; person: string | null }[] {
   return calls.filter((c) => c.kind === "inbound-message")
 }

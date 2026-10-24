@@ -93,7 +93,7 @@ function identitiesIn(rows: readonly Row[]): readonly SmsExternalIdentity[] {
   )
 }
 
-async function messageTo(to: string, body: string): Promise<string | null> {
+async function messageTo(to: string, body: string, from = SAID_FROM): Promise<string | null> {
   const id = uuidVersion7()
   const named = messageNamed(id)
   const wrote = await writingFor({
@@ -107,7 +107,7 @@ async function messageTo(to: string, body: string): Promise<string | null> {
           id,
           slug: named,
           to: namedAs(SEAT_PAGE_TYPE_SLUG, to, null),
-          from: SAID_FROM,
+          from,
           warrant: "announce",
           body: body.slice(0, BODY_HOLDS),
         },
@@ -168,11 +168,11 @@ export async function action({ request }: { request: Request }): Promise<Respons
   const identities = identitiesIn(asked.rows)
   const held: { unlanded: string | null } = { unlanded: null }
 
-  const deliver: DeliverEffect = async (targetAgent, content) => {
+  const deliver: DeliverEffect = async (targetAgent, content, _kind, person) => {
     if (!seated.has(targetAgent)) {
       return { kind: "no-such-seat", reason: `no seat holds the name \`${targetAgent}\`` }
     }
-    const refused = await messageTo(targetAgent, content)
+    const refused = await messageTo(targetAgent, content, person ?? SAID_FROM)
     if (refused === null) return { kind: "landed" }
     held.unlanded = refused
     return { kind: "no-such-seat", reason: refused }

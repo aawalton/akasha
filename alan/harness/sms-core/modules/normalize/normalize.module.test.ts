@@ -26,6 +26,7 @@ const HELPER: SmsRouteDecision = {
   kind: "helper",
   target: "amy",
   accountUserId: "acct-1",
+  person: "jenny",
   reason: "allowlisted sms identity → amy",
 }
 
@@ -100,5 +101,14 @@ describe("formatSmsSurface", () => {
 
   test("names the sender", () => {
     expect(formatSmsSurface(sms("hi"), HELPER)).toContain("+18015551234")
+  })
+
+  test("names the person a text is from beside the number", () => {
+    expect(formatSmsSurface(sms("hi"), HELPER)).toContain("📱 SMS from jenny (+18015551234)")
+  })
+
+  test("names the number alone where no person is known", () => {
+    const surface = formatSmsSurface(sms("hi"), { ...HELPER, person: null })
+    expect(surface).toContain("📱 SMS from +18015551234\n")
   })
 })

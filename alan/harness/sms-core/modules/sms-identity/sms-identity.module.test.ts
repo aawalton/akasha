@@ -11,6 +11,7 @@ const ENROLLED: SmsExternalIdentity = {
   accountUserId: "acct-1",
   smsAllowed: true,
   handlerTarget: "amy",
+  person: "jenny",
 }
 
 describe("normalizePhone", () => {
@@ -64,6 +65,7 @@ describe("projectSmsIdentities", () => {
       { phone: "+18015551234", accountUserId: "acct-1", smsHandlerTarget: "jenny", smsSeat: "amy" },
     ])
     expect(only?.handlerTarget).toBe("amy")
+    expect(only?.person).toBe("jenny")
   })
 
   test("reads a blank seat as no seat named", () => {
@@ -91,6 +93,7 @@ describe("decideSmsRoute", () => {
     if (decision.kind !== "helper") return
     expect(decision.target).toBe("amy")
     expect(decision.accountUserId).toBe("acct-1")
+    expect(decision.person).toBe("jenny")
   })
 
   test("drops an enrolled sender without permission", () => {

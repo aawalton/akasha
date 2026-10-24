@@ -10,6 +10,7 @@ export interface SmsExternalIdentity {
   readonly accountUserId: string
   readonly smsAllowed: boolean
   readonly handlerTarget: string | null
+  readonly person: string | null
 }
 
 export type SmsRouteDecision =
@@ -17,6 +18,7 @@ export type SmsRouteDecision =
       readonly kind: "helper"
       readonly target: string
       readonly accountUserId: string | null
+      readonly person: string | null
       readonly reason: string
     }
   | { readonly kind: "discard"; readonly sender: string; readonly reason: string }
@@ -47,12 +49,14 @@ export function projectSmsIdentities(
     const phoneDigits = normalizePhone(row.phone ?? "")
     if (phoneDigits.length === 0) continue
     const seat = row.smsSeat?.trim() ?? ""
-    const target = seat.length > 0 ? seat : (row.smsHandlerTarget?.trim() ?? "")
+    const person = row.smsHandlerTarget?.trim() ?? ""
+    const target = seat.length > 0 ? seat : person
     out.push({
       phoneDigits,
       accountUserId: row.accountUserId,
       smsAllowed: row.smsAllowed === true,
       handlerTarget: target.length > 0 ? target : null,
+      person: person.length > 0 ? person : null,
     })
   }
   return out
@@ -78,6 +82,7 @@ export function decideSmsRoute(
           kind: "helper",
           target: match.handlerTarget,
           accountUserId: match.accountUserId,
+          person: match.person,
           reason: `allowlisted sms identity → ${match.handlerTarget}`,
         }
       }

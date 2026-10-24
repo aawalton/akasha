@@ -21,6 +21,7 @@ const ENROLLED: SmsExternalIdentity = {
   accountUserId: "acct-1",
   smsAllowed: true,
   handlerTarget: "amy",
+  person: "jenny",
 }
 
 async function signedArgs(
@@ -101,6 +102,14 @@ describe("handleInboundSms", () => {
     expect(messagesOnly(calls).length).toBe(1)
     expect(messagesOnly(calls)[0]?.content).toContain("hello amy")
     expect(messagesOnly(calls)[0]?.content).toContain(SAMPLE_SENDER)
+  })
+
+  test("sends a text under the person it is from", async () => {
+    const args = await signedArgs(sampleBody("hello amy"), [ENROLLED])
+    const { deliver, calls } = recordingDeliver()
+    await handleInboundSms(args, deliver, neverDiscard)
+    expect(messagesOnly(calls)[0]?.person).toBe("jenny")
+    expect(messagesOnly(calls)[0]?.content).toContain(`jenny (${SAMPLE_SENDER})`)
   })
 
   test("discards a sender matching nobody enrolled", async () => {

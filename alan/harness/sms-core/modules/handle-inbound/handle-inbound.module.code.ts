@@ -26,7 +26,8 @@ type DeliverResult =
 export type DeliverEffect = (
   targetAgent: string,
   content: string,
-  kind: DeliveryKind
+  kind: DeliveryKind,
+  person: string | null
 ) => Promise<DeliverResult>
 
 type RecordResult =
@@ -109,7 +110,12 @@ export async function handleInboundSms(
   }
 
   const target = decision.target
-  const landing = await deliver(target, formatSmsSurface(sms, decision), "inbound-message")
+  const landing = await deliver(
+    target,
+    formatSmsSurface(sms, decision),
+    "inbound-message",
+    decision.person
+  )
   if (landing.kind === "no-such-seat") {
     return await refuse(deliver, {
       sender: sms.fromNumber,
@@ -122,7 +128,12 @@ export async function handleInboundSms(
 }
 
 async function refuse(deliver: DeliverEffect, refusal: RefusedInbound): Promise<InboundOutcome> {
-  const notice = await deliver(ALAN_HANDLER_SEAT, formatRefusalNotice(refusal), "refusal-notice")
+  const notice = await deliver(
+    ALAN_HANDLER_SEAT,
+    formatRefusalNotice(refusal),
+    "refusal-notice",
+    null
+  )
   const unreported =
     notice.kind === "landed"
       ? ""

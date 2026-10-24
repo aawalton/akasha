@@ -28,6 +28,14 @@ export const alanWebApiSmsWebhook = {
         "An inbound text becomes a message to the seat the sender's relationship routes it to.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A text is sent under the slug of the person its sender's relationship names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A message no person sends is sent under the name of the channel.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement: "The page type a message is written under is called `agent-message`.",
     },
@@ -61,5 +69,5 @@ export const alanWebApiSmsWebhook = {
     },
   ],
   createdAt: "2026-09-09T22:00:46.561Z",
-  updatedAt: "2026-10-24T21:50:37.773Z",
+  updatedAt: "2026-10-24T21:53:30.148Z",
 } as const satisfies Route
