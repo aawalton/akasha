@@ -137,7 +137,7 @@ function AppShellBottomNav({ config }: AppShellBottomNavProps) {
             )
           })}
 
-          {drawerGroups.length > 0 && (
+          {(drawerGroups.length > 0 || footerSlot != null) && (
             <button
               type="button"
               onClick={() => setMoreOpen(true)}
