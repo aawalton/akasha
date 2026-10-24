@@ -16,6 +16,10 @@ import {
   TESTS_RUN,
   type Test,
 } from "akasha/page/service/modules/where-testing/where-testing.module.code.ts"
+import {
+  type Claim,
+  claimsIn,
+} from "akasha/page/service/modules/write-claiming/write-claiming.module.code.ts"
 
 const ORDERING_TESTS = ["at-or-after", "after", "before", "at-or-before"]
 
@@ -247,7 +251,13 @@ export function writeIn(given: unknown): Written {
     removes?: readonly string[]
     kept?: readonly Kept[]
     read?: string
+    claims?: readonly Claim[]
   } = { writer, message }
+  if (held.claims !== undefined) {
+    const claims = claimsIn(held.claims)
+    if (typeof claims === "string") return { refused: claims }
+    asked.claims = claims
+  }
   if (held.puts !== undefined) {
     if (!Array.isArray(held.puts)) return { refused: "`puts` is a list" }
     const puts: Put[] = []

@@ -22,6 +22,12 @@ import type {
   Fault,
   Faulted,
 } from "akasha/page/service/modules/refusal-fault/refusal-fault.module.code.ts"
+import {
+  type Claim,
+  claimedAll,
+  claimsGone,
+  releasedAll,
+} from "akasha/page/service/modules/write-claiming/write-claiming.module.code.ts"
 
 export type Put = {
   readonly path: string
@@ -49,6 +55,7 @@ export type Asked = {
   readonly keptRemoves?: readonly string[]
   readonly read?: string
   readonly fresh?: readonly Fresh[]
+  readonly claims?: readonly Claim[]
 }
 
 export type Wrote =
@@ -96,6 +103,7 @@ export function pathsIn(asked: Asked): readonly string[] {
     ...(asked.kept ?? []).map((one) => one.path),
     ...(asked.keptPuts ?? []).map((one) => one.path),
     ...(asked.keptRemoves ?? []),
+    ...(asked.claims ?? []).map((one) => one.path),
   ]
 }
 
@@ -121,6 +129,9 @@ export function refusalIn(asked: Asked): string | null {
   if (asked.message.trim() === "") return "a write says what it is for"
   const paths = pathsIn(asked)
   if (paths.length === 0) return "a write carries at least one path"
+  if ((asked.claims ?? []).length > 0 && asked.read === undefined) {
+    return "a write claiming a page states the commit it read as `read`, so it lands alone"
+  }
   for (const one of paths) {
     if (one === "" || one.startsWith(PARTED_BY)) {
       return `\`${one}\` is no path inside the repository, and this writes what the repository holds`
@@ -213,6 +224,22 @@ export function wroteBy(
 }
 
 export async function landedIn(root: string, batch: readonly Asked[]): Promise<Faulted<Wrote>> {
+  const claims = batch.flatMap((one) => one.claims ?? [])
+  if (claims.length === 0) return await landedUnclaimed(root, batch)
+  let refused: string | null
+  try {
+    refused = claimedAll(root, claims, new Date().toISOString())
+  } catch (thrown) {
+    return { refused: thrownWhy(batch, thrown), fault: "service" }
+  }
+  if (refused !== null) return { refused, fault: "race" }
+  const landed = await landedUnclaimed(root, batch)
+  if ("refused" in landed) releasedAll(root, claims)
+  else claimsGone(root, claims, landed.took)
+  return landed
+}
+
+async function landedUnclaimed(root: string, batch: readonly Asked[]): Promise<Faulted<Wrote>> {
   const first = batch[0]
   if (first === undefined)
     return { refused: "a batch carries at least one write", fault: "service" }

@@ -64,7 +64,12 @@ export const cli = {
       decisionKind: "decision-kind/absence",
       statement: "No function here is the guard a command's body runs inside.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A run moves to the checkout root once the calling folder is noted, so a folder going ends no spawn.",
+    },
   ],
   createdAt: "2026-08-29T04:53:12.685Z",
-  updatedAt: "2026-10-19T20:14:51.597Z",
+  updatedAt: "2026-10-24T23:14:37.680Z",
 } as const satisfies Module

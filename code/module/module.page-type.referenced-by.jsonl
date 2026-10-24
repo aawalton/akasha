@@ -2344,6 +2344,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/service/modules/select-refusing/select-refusing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/service/modules/trouble-keeping/trouble-keeping.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/service/modules/where-testing/where-testing.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/service/modules/write-claiming/write-claiming.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/type/modules/declared-properties/declared-properties.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/type/modules/descent/page-type-descent.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/type/modules/gathering/page-type-gathering.module.ts","typed":true,"deferred":false}

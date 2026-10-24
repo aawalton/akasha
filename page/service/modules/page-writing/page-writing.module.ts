@@ -219,7 +219,16 @@ export const pageWriting = {
       statement:
         "A writer may be handed a wait that every batch it lands and every act runs inside.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A write may claim a value beside a page, and a write claiming states the commit it read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A write whose claim is refused lands nothing and is refused as a race.",
+    },
   ],
   createdAt: "2026-09-01T02:13:15.909Z",
-  updatedAt: "2026-09-27T13:36:04.000Z",
+  updatedAt: "2026-10-24T23:14:37.680Z",
 } as const satisfies Module

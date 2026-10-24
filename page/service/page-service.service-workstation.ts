@@ -190,7 +190,8 @@ export const pageService = {
     "module/page-threading",
     "module/page-landing",
     "module/trouble-keeping",
+    "module/write-claiming",
   ],
   createdAt: "2026-08-31T23:59:18.778Z",
-  updatedAt: "2026-10-22T15:14:02.904Z",
+  updatedAt: "2026-10-24T23:14:37.680Z",
 } as const satisfies ServiceWorkstation

@@ -27,6 +27,7 @@ import type {
   Wrote,
 } from "akasha/page/service/modules/page-writing/page-writing.module.code.ts"
 import { STATUS_FOR } from "akasha/page/service/modules/refusal-fault/refusal-fault.module.code.ts"
+import type { Claim } from "akasha/page/service/modules/write-claiming/write-claiming.module.code.ts"
 
 export const ASK_AT = "/ask"
 
@@ -91,6 +92,7 @@ export type Writing = {
   readonly kept?: readonly Kept[]
   readonly pages?: readonly Naming[]
   readonly read?: string
+  readonly claims?: readonly Claim[]
 }
 
 function saidIn(name: string): string | null {

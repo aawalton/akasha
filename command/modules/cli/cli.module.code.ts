@@ -80,6 +80,8 @@ const PRINTED: Sinks = {
 }
 
 if (import.meta.main) {
+  const from = process.cwd()
+  process.chdir(rootIn(process.env, import.meta.path))
   const argv = process.argv.slice(2)
   const above = scrubbedAbove(process.env, process.ppid)
   const joined = above ? null : refusalOf(callNow(argv, process.env, import.meta.path))
@@ -90,7 +92,7 @@ if (import.meta.main) {
   if (scrubbed !== null) process.exit(scrubbed)
   const said =
     joined === null
-      ? await unclassifying(argv, process.env, import.meta.path, process.cwd())
+      ? await unclassifying(argv, process.env, import.meta.path, from)
       : saidOf(refusedBy(joined))
   spilled(1, said.out)
   spilled(2, said.err)
