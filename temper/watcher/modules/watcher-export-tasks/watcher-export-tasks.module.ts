@@ -85,7 +85,11 @@ export const watcherExportTasks = {
       decisionKind: "decision-kind/departure",
       statement: "The game is handed the card's own name rather than the address of its page.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A task not filler says nothing of being filler.",
+    },
   ],
   createdAt: "2026-09-02T19:03:27.439Z",
-  updatedAt: "2026-10-19T19:41:44.001Z",
+  updatedAt: "2026-10-24T19:46:11.040Z",
 } as const satisfies Module

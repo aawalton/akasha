@@ -57,6 +57,7 @@ interface TaskData {
   readonly priority: string | null
   readonly completionCardId: string | null
   readonly completionItemPath: readonly (string | number)[] | null
+  readonly filler?: true
 }
 
 interface ExportTasksResult {
@@ -131,6 +132,7 @@ export function taskDataFrom(row: Page, esoCharacterId: string | null): TaskData
     priority: stringAt(row, "priority"),
     completionCardId: cardIdOf(stringAt(row, "completionCard")),
     completionItemPath: itemPathAt(row, "completionItemPath"),
+    ...(row.filler === true ? { filler: true } : {}),
   }
 }
 

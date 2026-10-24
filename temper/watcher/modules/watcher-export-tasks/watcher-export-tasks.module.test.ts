@@ -401,6 +401,11 @@ test("a task row holding nothing falls back to an empty title and the account sc
   })
 })
 
+test("a filler task carries that it is filler, and a task not filler says nothing of it", () => {
+  expect(taskDataFrom(asPage({ id: "row", filler: true }), null).filler).toBe(true)
+  expect("filler" in taskDataFrom(asPage({ id: "row", filler: false }), null)).toBe(false)
+})
+
 test("an item path holding anything but text and numbers reads as nothing", () => {
   expect(itemPathAt({ path: ["alchemy", 2] }, "path")).toEqual(["alchemy", 2])
   expect(itemPathAt({ path: [] }, "path")).toEqual([])
