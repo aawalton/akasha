@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { listPersonHandlers } from "akasha/agent/message/recipient-resolving/modules/person-handlers/person-handlers.module.code.ts"
 import {
   assembleRecipientResolverSpecs,
   gameSeatSpecs,
@@ -120,10 +121,50 @@ test("a game master named by no persona and game is started by nothing when it n
 })
 
 test("the text handlers' specs sit beside the game seats", async () => {
-  const names = (await assembleRecipientResolverSpecs(async () => [])).map((one) => one.name)
+  const specs = await assembleRecipientResolverSpecs(
+    async () => [],
+    async () => new Map(),
+    listPersonHandlers
+  )
+  const names = specs.map((one) => one.name)
   expect(names).toContain(MASTER)
   expect(names).toContain(handlerSeatName("ki", ROOT))
   expect(names).toContain(handlerSeatName("jenny", ROOT))
+})
+
+test("a person's handler seat is named for the person, never for the persona answering", () => {
+  expect(handlerSeatName("jenny", ROOT)).toBe("jenny")
+  expect(handlerSeatName("ki", ROOT)).toBe("ki")
+})
+
+test("a person handler's spec is read off the person's page and keeps its own options", async () => {
+  const specs = await assembleRecipientResolverSpecs(
+    async () => [],
+    async () => new Map(),
+    async () => [{ persona: "claudius", slug: "jenny" }]
+  )
+  const jenny = specs.find((one) => one.name === "jenny")
+  expect(jenny?.owner).toBe("atlas")
+  expect(jenny?.stateAuthority[0]?.detail).toContain("Jenny's owned Atlas content pages")
+  expect(jenny?.bootPrompt).toBe("/handler jenny")
+})
+
+test("a person no persona answers arms no handler spec", async () => {
+  const specs = await assembleRecipientResolverSpecs(async () => [])
+  expect(specs.map((one) => one.name)).not.toContain("jenny")
+})
+
+test("a persona answering a person keeps her own seat's spec beside the person's handler", async () => {
+  const specs = await assembleRecipientResolverSpecs(
+    async () => ["claudius"],
+    async () => new Map(),
+    async () => [{ persona: "claudius", slug: "jenny" }]
+  )
+  const named = (name: string) => specs.filter((one) => one.name === name)
+  expect(named("claudius")).toHaveLength(1)
+  expect(named("jenny")).toHaveLength(1)
+  expect(named("claudius")[0]?.firstStart).toBeUndefined()
+  expect(named("claudius")[0]?.bootPrompt).toBeUndefined()
 })
 
 test("a roleplay seat that never ran starts headless as its persona, narrating its story", () => {

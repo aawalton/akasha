@@ -89,7 +89,11 @@ export const recipientResolverRegistry = {
       decisionKind: "decision-kind/departure",
       statement: "A person no persona answers for arms no spec.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A person handler's spec is read off the person's page alone.",
+    },
   ],
   createdAt: "2026-09-03T04:18:48.798Z",
-  updatedAt: "2026-10-17T19:50:00.029Z",
+  updatedAt: "2026-10-24T20:39:57.157Z",
 } as const satisfies Module

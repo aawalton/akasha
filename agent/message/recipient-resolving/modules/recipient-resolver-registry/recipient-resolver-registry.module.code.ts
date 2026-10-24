@@ -15,6 +15,7 @@ import {
 import {
   AGENT_SENDER_PREFIX,
   type PersonHandlerIdentity,
+  type PersonHandlerSpecOptions,
   personHandlerSpec,
   standingPersonaSpec,
 } from "akasha/agent/seat/observation/seat-turn/modules/wake-armed-specs/wake-armed-specs.module.code.ts"
@@ -211,22 +212,27 @@ export function gameSeatSpecs(seats: readonly GameSeats[]): readonly OnDemandAge
   })
 }
 
-const KI_HANDLER_SPEC: OnDemandAgentSpec = personHandlerSpec("amy", "ki", ROOT, {
-  owner: "amy",
-  stateAuthorityDetail:
-    "Ki's owned content pages (books/anime/reviews), RLS-owned by her accountUserId",
-})
-
-const JENNY_HANDLER_SPEC: OnDemandAgentSpec = personHandlerSpec("claude", "jenny", ROOT, {
-  owner: "atlas",
-  stateAuthorityDetail:
-    "Jenny's owned Atlas content pages (location/location-collection/collection), RLS-owned by her accountUserId",
-})
-
-const SMS_ENTRY_POINT_SPECS: readonly OnDemandAgentSpec[] = [KI_HANDLER_SPEC, JENNY_HANDLER_SPEC]
+const PERSON_HANDLER_OPTIONS: ReadonlyMap<string, PersonHandlerSpecOptions> = new Map([
+  [
+    "ki",
+    {
+      owner: "amy",
+      stateAuthorityDetail:
+        "Ki's owned content pages (books/anime/reviews), RLS-owned by her accountUserId",
+    },
+  ],
+  [
+    "jenny",
+    {
+      owner: "atlas",
+      stateAuthorityDetail:
+        "Jenny's owned Atlas content pages (location/location-collection/collection), RLS-owned by her accountUserId",
+    },
+  ],
+])
 
 function declaredSpecs(): readonly OnDemandAgentSpec[] {
-  return [...gameSeatSpecs(gameSeatsIn(ROOT)), ...SMS_ENTRY_POINT_SPECS]
+  return gameSeatSpecs(gameSeatsIn(ROOT))
 }
 
 const SEATED_HANDLER_PERSONS: readonly string[] = ["alan"]
@@ -259,7 +265,8 @@ function assembleArmedSpecs(
     }
   }
   for (const person of personHandlers) {
-    const spec = personHandlerSpec(person.persona, person.slug, ROOT)
+    const options = PERSON_HANDLER_OPTIONS.get(person.slug)
+    const spec = personHandlerSpec(person.persona, person.slug, ROOT, options)
     if (!byName.has(spec.name)) byName.set(spec.name, spec)
   }
   return [...byName.values()]
