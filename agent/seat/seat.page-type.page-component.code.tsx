@@ -314,12 +314,16 @@ function peopleIn(entries: readonly Entry[]): number {
   return senders.size
 }
 
-function Conversation({ heard }: { heard: Heard }) {
+function personsStated(held: unknown): number {
+  return Array.isArray(held) ? held.length : 0
+}
+
+function Conversation({ heard, persons }: { heard: Heard; persons: number }) {
   if (heard.state === "asking") return <p className={SUBDUED}>Reading the conversation…</p>
   if (heard.state === "refused") return <p className={SUBDUED}>{heard.why}</p>
   if (heard.entries.length === 0)
     return <p className={SUBDUED}>Nothing said since the last compaction.</p>
-  const named = peopleIn(heard.entries) > 1
+  const named = persons > 1 || peopleIn(heard.entries) > 1
   return (
     <ol className="flex flex-col gap-3">
       {heard.entries.map((entry, at) => (
@@ -357,7 +361,7 @@ export function Drawing({ pageTypeSlug, id }: PageDrawingProps) {
         <PageLayout.Content className="max-w-[710px]! pt-3 min-[584px]:pt-6">
           <div className="flex flex-col gap-4 pb-6">
             <h1 className={titleClasses}>{pageName(data)}</h1>
-            <Conversation heard={heard} />
+            <Conversation heard={heard} persons={personsStated(data.persons)} />
             {pending.map((one) => (
               <PendingDrawn key={one.key} one={one} resend={resend} dismiss={dismiss} />
             ))}
