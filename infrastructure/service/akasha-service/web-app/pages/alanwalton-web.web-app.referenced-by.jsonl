@@ -28,6 +28,7 @@
 {"propertySlug":"nav-app","path":"page/nav/pages/tech.nav.ts","id":"01a0d8fd-ef83-7337-b0b4-eaa0b32f57db"}
 {"propertySlug":"nav-app","path":"page/nav/pages/temper-tasks.nav.ts","id":"01a06577-2613-701c-9a56-98ee3786d7a2"}
 {"propertySlug":"nav-app","path":"page/nav/pages/temper.nav.ts","id":"01a0d8fd-ef83-77fe-9089-703ae16cc844"}
+{"propertySlug":"nav-app","path":"page/nav/pages/therapy.nav.ts","id":"01a16fe6-f5c2-7550-a302-a63cce5ed9bc"}
 {"propertySlug":"parts","path":"infrastructure/service/akasha-service/web-app/web-app.page-type.ts","id":"01a05b26-f8b6-7d74-a301-0488daed8bbc"}
 {"propertySlug":"site-document-web-app","path":"infrastructure/service/akasha-service/web-app/site-document/pages/alanwalton-web-about.site-document.ts","id":"01a0d5b4-244d-7472-b127-0bab532e4503"}
 {"propertySlug":"site-document-web-app","path":"infrastructure/service/akasha-service/web-app/site-document/pages/alanwalton-web-contact.site-document.ts","id":"01a0d5b4-244e-7a0f-a866-cd877430b68b"}
