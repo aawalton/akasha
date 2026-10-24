@@ -23,11 +23,11 @@ export const paulCardall = {
       source: "spotify",
       externalId: "7FQRbf8gbKw8KZQZAJWxH2",
       externalLink: "https://open.spotify.com/artist/7FQRbf8gbKw8KZQZAJWxH2",
-      lastSyncedAt: "2026-09-18",
+      lastSyncedAt: "2026-10-24",
     },
   ],
   title: "Paul Cardall",
   genre: [],
   createdAt: "2026-09-03T16:04:08.684Z",
-  updatedAt: "2026-09-21T19:44:25.000Z",
+  updatedAt: "2026-10-24T13:49:17.691Z",
 } as const satisfies Artist
