@@ -1,0 +1,257 @@
+[Pemmican] = Meat (Any, 0.1-1kg) + Fruit (Any, 0.1-1kg) + Fat (Any, 0.05-0.5mL) + [Bowl] (Any) + [Campfire] (Any, 330-340°K)
+
+Here we go again.
+
+Lightning clattered into the jungle every so often, like missiles getting dropped. Thunder roared. The hail battered the ground with an endless fury. Only the crimson planet radiated through the Voidstorm’s barrage, a nighttime beacon more powerful than the sun.
+
+Natura once again spawned its manifestations beneath. Through the darkness and the sludge and the crevices where light could not pierce, it manufactured its fell army to rid this world of any human that had ever graced this realm. Vines fused with wood, mud congealed into stone, and entire faux circulatory systems were formed to power these creatures.
+
+A small battalion had formed tonight. A raid. With faster enemies designed to bear down on him, both in the air as well as ground forces. Yet, it seemed so tiny compared to what he’d grown used to. Almost mockingly small.
+
+But it never was that simple, for despite the manageable size of this raid, the manifestations’ pale green eyes burst with a more intense luminosity than he’d seen before, a reminder of how much more powerful they would be than their predecessors.
+
+For Natura always rose. It did not recede.
+
+Jay gripped his pig iron sword close, knowing it was his sole form of protection left. Without the 9mm pistol, he no longer had the ultimate defense against stronger enemies.
+
+No, all that could save him was his own strength.
+
+The manifestations raced ahead, into the gritty landscape that had once been the serene lake Jay had claimed as his home. He watched these trespassers come forth with a sigh.
+
+A vanguard of mutated coyotes approached first – or “vined alphas” – as he’d since learned after they began to appear. Though they were still in the same size and shape as their weaker cousins, their wooden flesh was harder than boulders, and they could sprout barbed vines like living whips. Any ordinary human would die from a single hit.
+
+Thankfully, Jay was far stronger than a normal human.
+
+He [Leaped] the moment they got in range, the affinity boost of his pig iron energizing his high vitality body, rocketing him forth well over fifty feet. As his shoes crashed into the mud behind, he [Slashed] a couple times, the +3 strength of its core magnifying the +5 sharpness of its upscaled pig iron blade.
+
+Not even the vined alphas could survive against this onslaught.
+
+More came, but Jay was quick to [Leap] out before their attacks could land. He bent low and [Recovered], using precious seconds before the timber eagles swooped in.
+
+They pushed forth, but [Rend] decapitated a pair before they could strike. Jay grinned, no longer feeling helpless.
+
+He continued the sortie, murdering everything that came near, his overleveled body still able to compensate at the heightened vitality he’d forced it into. Despite the ever-growing strength of his godly opponent and a chaotic world that wanted him dead, Jay had optimized his body to function with his current gear. A meta approach to his escalating threat.
+
+The last of the monsters fell, and Jay breathed deep. His limbs ached from his latest injuries, and the Voidstorm’s hail continued to fall without end, but nothing hurt more than the phantom pain in his chest.
+
+More of these nights would come after all, more dangers would rear their head, but so long as Jay refused to bow down and submit for good, he would not lose.
+
+* * *
+
+The following day brought a calmer pause. The Voidstorm ended, and the bright morning sun again covered the island in a veil of serenity, masking the dangers beneath.
+
+The dull throbs had also disappeared from a long night’s rest, coupled with his passive regeneration, and with his personal survival sorted, Jay had a lot he planned to get done today.
+
+Breakfast came first. After defeating the D-Rank leviathan boss and consuming its flesh, his speed and strength had been stronger than ever before. It had been a problem at first when he couldn’t craft medicine and teas at a level that his stomach could absorb and still see a benefit, but after learning the mechanic and how best to balance it, he could keep his vitality directly below the 100 mark with little to no effort. That was where he hit the next tier, and based on the mats involved in research, he suspected that this was where E-Rank survivalism really began.
+
+Jay simmered some more of the level 6 elk meat he’d slain a few days back, not even bothering to process it into anything better. He’d come to like the taste of elk, and preferred not to waste too much time in preparation.
+
+As he munched on this low-level food, however, his body slowly degraded. His breath grew heavier with each bite, and his armor weighed him down more than before. By the time he reached the meal’s end, he wanted nothing more than to lay back down.
+
+And now for the actual meal. Jay took a single bite of the brick-like, meaty substance he kept to the side, and his muscles responded within moments.
+
+He clenched his fist, once again at peak strength.
+
+And the Guide lay open beside\, right on his Inventory page.
+
+[Pemmican+25] – A dense, non-perishable food made from a mix of meat, fruit, and rendered fat. This [Pemmican] has been enhanced with higher quality meat.
+
+The trick came from this random recipe that most others ignored on the lower end of the cooking part of the Crafting tree. Vitality was driven by the quality of food eaten, and most Expats took that to mean they should hunt higher-level monsters or craft higher-quality meals. The rest had ignored the dead D-Rank leviathan for this reason. Any boost gained would be ephemeral and disappear the moment its body despawned.
+
+Not Jay though. He’d seen the goldmine right away, and stored as much of that squishy, octopus meat as he could get his hands on. It would not have been possible to cut through its flesh with his tools alone, but the intraspacial explosion had exposed its gory innards, which were much more malleable.
+
+The secret was to splice the meat with low-quality lifeberries into these non-perishable blocks of pemmican. This gave Jay a superfood he could use to “balance” his diet whenever he saw the need. The +25 modifier from a creature of that power level was so overwhelming that when the rest of his stomach was filled with lifeberries, only a few bites were ever needed to bring his vitality back to the nineties. And because of its non-perishable nature, Jay had chests filled to the brim to always be able to control his health.
+
+It took the better part of the last two weeks to find this balance, but now, Jay no longer had to struggle to maintain his body’s strength.
+
+And because of this trick, Viktor’s hunger games wouldn’t affect him either.
+
+No, he’d only have to deal with everything else…
+
+Alchemy was the big project for the morning. Unlike the other Main Crafts, this branch required some degree of experimentation to progress, rather a simple one-off. Breaking down different mats updated the Guide with whatever associated “essences” they were composed with.
+
+He’d already uncovered his share of different essences by deconstructing them in his fired clay cauldron. Jay once took a class in college, and from what he could tell, they were all based on Latin names: Vitus, Mort, Terra, Venemum, Fulmen, Aqua, Ignis, Frigus, Gravitas, Radia, Lux, Tenebrae, Magus, Sanguis, Aes, Aer, Tempus, Vacuus, Anima, Natura.
+
+The last jumped out more than the others when he first discovered it. “Natura” was nature’s essence, and was one of the most common outputs for any plant he deconstructed. It was also interestingly distinct from Natura itself because even when he deconstructed Natura’s manifestations, only a tiny amount of Natura essence trickled out, perhaps even less than usual.
+
+Another mystery to resolve. Jay first considered what this could mean, but it was difficult to understand the relationship, if there was any at all, or if there were rogue gods for light and air that he’d have to deal with eventually too…
+
+No, Jay was better off surviving the current crisis, and that meant optimizing the utility that his body gave him through new potions. Until he gained access to the deeper iron vein that he and Kevin had been building into, his weapons could only go so far.
+
+He spent the start of the day collecting the needed essences.
+
+Research came after. Jay looked at his most recent project and grimaced.
+
+Crafting – Alchemy
+
+Current Research: Unlock Night Owl
+
+Time Remaining: 15 hours, 25 minutes
+
+Resources Expended: 0/12.8L Lux, 0/248.7L Water (Fresh).
+
+The rolls had been terrible this round, providing near-max values for both the time involved and materials inserted. “Lux” was light essence too, a rarity he’d only found in sunflowers and diamond gemstones, and to acquire that much would take days, if not weeks. The freshwater wouldn’t be much better. Even with the lake so close, dribbling it onto the table a few liters at a time would take hours and burn through his hunger capacity like nobody’s business.
+
+All of this effort for a potion that – as far as Jay could tell – would only let him see better in dark places.
+
+Once again, he could feel the limits imposed on him by lacking an Expat Core. Someone like Sayid could no doubt do this same research in a fraction of the time and energy. Jay nearly abandoned the project altogether because of this.
+
+Thankfully, there was more than one way to skin a cat in this world, provided that one knew where to look.
+
+Jay stared at the strange decoction in front, a mix of Lux and Vitus with a dash of sugar water. The pale red substance had a dull opacity that radiated slightly, like bloody milk fused with nuclear power.
+
+Slowly, carefully, Jay raised the vial before swallowing it in a single gulp.
+
+…And regretted the decision at once. The substance clung to the back of his mouth like ground spiders, sending a noxious taste down his throat. His stomach rebelled immediately, and Jay vomited forth the disgusting mess. But the damage was already done, and were it not for the antitoxin he kept prepared nearby, he’d be forced to suffer through it.
+
+Jay wiped the tears from his eyes after swallowing the antitoxin and groaned. This had better be worth it.
+
+It was, and the research table already showed the result.
+
+Crafting – Alchemy
+
+Current Research: Unlock Night Owl
+
+Time Remaining: 13 hours, 15 minutes
+
+Resources Expended: 0/11.6L Lux, 0/225.5L Water (Fresh).
+
+Attempted Recipes: 1
+
+Looks like one part Lux, one part Vitus, and two parts sugar is out. He almost laughed seeing how much a single attempt had reduced the total amounts, but that turned into a sob as he remembered how many more he’d need before it would be viable to sit and finish manually.
+
+This was the alternative to Alchemy research: experimentation. He’d managed to happen upon this trick by spotting Sayid keeled over a week or so back, along with a pile of empty vials.
+
+He’d deduced the rest from there. Much like spending monster cores in Primal Age tech, Jay could fast track this process. Once he knew the general formula, he could mix and match different options and try them on himself. It was near-impossible to get the exact formula just by randomly selecting choices, but each attempt reduced the total quantity, and the closer he was to that correct choice, the greater the reduction in time spent.
+
+This only worked in the context of his current research project, however. Jay had discovered the day before that unless the project was active, any work he put in would go to waste.
+
+Jay looked to the next option he’d prepared, a small shot made from three parts Lux, one part Fulmen, and a dash of nightshade. The yellowish liquor did not look any more promising than the first, unless the “promise” was a deeply unpleasant experience, of course. To his other side, the small pile of antitoxin jars was ready. He’d made enough to supply an army.
+
+He held the jar up. His stomach grumbled prematurely.
+
+The taste was exactly as he’d thought it would be, with the strange substance leaving a vile tang on his tongue only to roar through the rest of his chest like a bolt of lightning. Vomiting proved just as useless, and even after swallowing a jar filled with antitoxin, it wasn’t until he downed a second that he felt any better.
+
+Jay once again wiped tears from his eyes and checked his progress.
+
+Crafting – Alchemy
+
+Current Research: Unlock Night Owl
+
+Time Remaining: 13 hours, 9 minutes
+
+Resources Expended: 0/11.4L Lux, 0/222.1L Water (Fresh).
+
+Attempted Recipes: 2
+
+He clutched his chest.
+
+This was going to be a long morning…
+
+One after the next, Jay experimented with different options, pulling from the collected essences he’d accrued and pairing it with different ratios of Lux.
+
+Everything was an obvious failure, but he could at least mitigate the damage by refining ratios based on how much their reductions helped.
+
+It wasn’t the perfect system. If Jay attempted only the most minor tweak to his closest recipe in order to “game” the research, the reduction plummeted. Only when he got closer to the true formula ratios did he see those gains again.
+
+The time factor seemed to decrease more than the material insertions as well, especially as attempts stacked up. Jay suspected this occurred because his research path was an alternative and did not work in tandem by dumping raw mats and hoping for the best.
+
+The pain made for the most significant struggle though. Worse than anything else, Jay couldn’t just swallow the failed potion and immediately chase it with an antitoxin to avoid the consequences. His body had to suffer for some time to know that the recipe failed, and only then would the board update. More than once, Jay had to repeat a formula to get credit, a mistake that his brain and stomach both hated in equal parts. Antitoxin soon had to be mixed with health potions as the damage grew.
+
+But the agonizing steps paid off in the end, and after only a few hours of experimentation, Jay got himself near enough to the result to make the suffering worthwhile.
+
+Crafting – Alchemy
+
+Current Research: Unlock Night Owl
+
+Time Remaining: 4 hours, 28 minutes
+
+Resources Expended: 0/9.4L Lux, 0/222.1L Water (Fresh).
+
+Attempted Recipes: 32
+
+Burning more mats seemed frivolous at this point, especially since the last thing he wanted in this world was to swallow another mouthful of mystery juice. He instead brought the token jars for water and Lux to examine, followed by conducting the final research stretch by hand.
+
+He stared into their intricate design and let the world fade…
+
+Jay blinked, and the research table cleared, returning to its main Alchemy options.
+
+This better have been worth it. He turned to the Crafting section.
+
+[Night Owl] = Essence (Lux, 100-200mL) + Essence (Tenebrae, 40-80mL) + Blood (Monster, level 21+, 10-20mL) + Water (Fresh, 200-400mL) + [Cauldron] (Any, 2L, 350-375°K)
+
+Of course it took darkness essence! Why had Jay never thought of that!?
+
+Jay beamed, satisfied with this result. For all the disadvantages imposed by lacking an Expat Core, there were clear benefits as well. Others who did not specialize in Alchemy would suffer a reduction for this type of research, and there was no telling just how much extra time and attempts would have to go into this research to get anywhere close.
+
+For Jay at least, this whole run had occurred nice and early
+
+Time to test this out. Jay quickly went to his storage room, yanked the appropriate mats from the shelves, and returned to his cauldron. The crusted remnants remained after dozens of failed attempts, but he didn’t care, pouring the mats in and beginning the recipe. Within the next ten minutes, the potion was ready.
+
+Jay looked at the final product. A clear radiance glowed on an otherwise light liquid, wisps of light dancing beneath the surface, and only the tiniest hint of red from the distilled blood.
+
+He marched to the cave with glee. If there was any place to test this new potion before nightfall, it would be there.
+
+He closed his eyes and swallowed a mouthful of his newest potion. A pleasant, light flavor graced his tongue, spreading warm tendrils into his throat.
+
+He opened his eyes with a grin. Though the cave was as dark as always, he could see the sharp intricacies of the stalagmites contrasted against the smoother cavern wall, now cast in an aura of gray, even as it stretched into the distance, around a corner.
+
+He turned behind and smiled wider. Despite the night vision granted, he experienced no extra photo sensitivity to the sun. The only disadvantage came from seeing the world in black and white.
+
+Not too shabb–
+
+His stomach exploded in sudden pain. Jay keeled over and retched, feeling like he’d just swallowed another failed recipe. With all the strength he could muster, he stumbled back to his lodge, checking the Guide along the way.
+
+Name: Jay Reis (Copper Age)
+
+Vitality – 97/99 (Poisoned)
+
+Hunger – 69/72 (Poisoned)
+
+Thirst – 24/24
+
+Fatigue – 41/48
+
+Sanity – 74/100 (Confused)
+
+“What? How!?” He gasped and flipped through more pages.
+
+The Inventory showed the truth.
+
+246mL [Night Owl] (Tainted) – A potion that enhances sight in dark places.
+
+This [Night Owl] potion has been tainted by impure ingredients.
+
+He paled, and not just from the awful sense in his body or dropped sanity. By not cleaning the cauldron between uses, he’d unknowingly corrupted the next recipe. The thought had never occurred to him because he’d always cleaned it out by reflex, but today had brought the mistake by trying to accomplish so many crafts in such a short time.
+
+He hunched over and vomited more, regretting many of his life decisions to reach this point.
+
+This is still fine, Jay told himself as he drank more antitoxin and waited for the effects to kick in.
+
+So long as he learned from his mistakes, he’d only gain more experience with time, and if he had discovered anything in this strange world, it was that even the tiniest knowledge could yield more power later. Sure, poisoning himself by being lazy might seem pointless now, but he’d just learned another mechanic. That could help him down the road.
+
+…Right?
+
+The poison’s effects cleared, and Jay rubbed the pain from his scalp. He’d wasted enough time screwing around.
+
+It was time for a real hunt.
+
+Name: Jay Reis (Copper Age)
+
+Vitality – 86/99 (Wounded (Treated))Hunger – 59/72Thirst – 19/24 Fatigue – 39/48Sanity – 87/100
+
+Main Crafts: Alchemy 2, Armor Crafting 2, Base Building 3, Cooking 2, Jewelry 2, Medicine 2, Tailoring 2, Tool Crafting 3, Weapon Crafting 2.Weapon Crafts: Axes 5, Bows 5, Clubs 5, Daggers 5, Spears 5, Swords 9.Armor Crafts: Heavy Armor 5, Light Armor 5, Medium Armor 6, Shields 6.
+
+Character Skills:[Forbidden Knowledge]
+
+Armor Skills: Heavy Armor: [Push], [Stampede]Medium Armor: [Recover], [Leap], [Waterform]Light Armor: [Dash], [Feather Fall]Shield: [Brace], [Track], [Break]
+
+Weapon Skills: Axes: [Chop], [Whirlwind]Bows: [Sharpshooter], [Longshot]Clubs: [Bash], [Paralyze]Daggers: [Slice], [Flourish]Spears: [Thrust], [Sweep]Swords: [Power Attack], [Slash], [Rend], [Parry]
+
+Armor:[Pig Ironplated Hat] (Affinity+2), (Hardened+4), (Reinforced+1)[Pig Ironplated Coat] (Affinity+2), (Hardened+4), (Reinforced+1)[Pig Ironplated Leggings] (Affinity+2), (Hardened+4), (Reinforced+1)[Pig Ironplated Shoes] (Affinity+2), (Hardened+4), (Reinforced+1)[Pig Ironplated Gloves] (Affinity+2), (Hardened+4), (Reinforced+1)[Silver Amulet]: Socketed with [Chipped Tourmaline] (Tempus)[Silver Ring]: Socketed with [Chipped Ruby] (Ignis)[Silver Ring]: Socketed with [Chipped Ruby] (Ignis)
+
+Weapons:[Pig Iron Sword+3] (Affinity+5), (Hardened+2), (Reinforced+2), (Stable+4)[Wooden Bow+3] (Elemental), (Reinforced+2): Socketed with [Chipped Ruby] (Ignis)[Basic Leather Quiver]: Contains 20 [Silver-tipped Arrows] (Elemental+2), (Stability+4)
+
+Tools:[Copper Knife+3][Copper Axe+3][Copper Hammer+3][Copper Pickaxe+3][Copper Shovel+3]
+
+Boons:[Minor (Speed)] (x3)

@@ -1,0 +1,251 @@
+[Basic Wooden Cart] = 2 Wood (Hard, 1.8-2.2m) + 4 Wood (Any, 1.1-1.6m) + 4 Wood (Any, 1.1-1.6m) + 4 Wood (Any, 1.1-1.6m) + 4 Wood (Any, 0.5-0.8m) + 2 Wood (Wheel, Hard+1, 0.7-1m) + 16 Wood (Hard+1, 0.33-0.48m) + 2 Wood (Hard+2, 1-1.3m) + 4 Wood (Mount, Hard+2, 0.1-0.15m) + 8 Wood (Wheel, Hard+2, 0.2-0.23m) + 96 Copper (Nails, 0.02-0.025m) + [Knife] (Copper+1) + [Hammer] (Copper+1)
+
+Another day, another craft.
+
+Jay studied the pile of wood and copper and grimaced. It took well over a day to complete the necessary research and prepare everything for the actual crafting. Even though it fell under general research with no prerequisites, this was still Copper Age technology and required all the bells and whistles that went with it.
+
+But, he had no choice. Having lost his Bag ‘a Mats greatly limited his options.
+
+No, if Jay was going to survive long-term, he’d once again need to innovate.
+
+He started with the frame. Two sets of palmwood planks were bolted together with a cluster of copper nails, four per panel. He affixed an additional four on the rim, with stakes holding them in place. Only the front remained free, where two long mahogany handles ran inside.
+
+The base came next. Jay had prepped these components in advance, using his copper knife to trim the hardwood into exact dimensions on his workbench while bolting the necessary support nails in place.
+
+With all components ready, he anchored the mounts to the frame and ran the axles through. Each had to be mounted individually, with wooden washer wheels attached to keep them from sliding out.
+
+Jay flipped over the result and gazed upon his latest creation: a wooden cart, much like what Kevin had been using before he ever showed up.
+
+The Guide buzzed at the sight.
+
+Congratulations! You have crafted your first [Vehicle], Expatriate. [Vehicles] serve as mobile platforms for everything from [Crafting Tables] to weapons.
+
+Vehicles unlocked.
+
+Level Up! Vehicles 0 → 1
+
+Crafted vehicles have increased durability.
+
+Jay gave the cart a tug and groaned. If only he could have gotten the durability boost before he finished making this.
+
+But then again…
+
+Jay doubled back to his line of crude furnaces, shoveled some coal to get one going, grabbed some waste copper from a nearby storage chest, and tossed them within. The metal grew hot within moments.
+
+He then doubled back and unraveled some of the cart’s design, dislodging the nails, ripping apart the basket, and keeping his eyes on the Guide. It was not long before the cart no longer qualified as such.
+
+Unlike everything else, vehicles did not seem to disintegrate when broken, but instead defaulted to their original components. With replacement nails ready, it was not hard for Jay to simply bolt them back together.
+
+He gave the repaired cart another pull. It did not wiggle half as much.
+
+Jay grinned, once again satisfied.
+
+But then he looked at the pillar of smoke on the horizon and knew what would come next. The path was long and treacherous, several kilometers inland where the threats ramped up. Yet, the greatest danger lay at the destination.
+
+His eyes fell on the balloon that floated nearby. Worn leather stood as a blemish against the bright blue sky, and the blood-red “V” was easily visible, even from this far away, as Viktor’s pet slowly marched back home.
+
+It hurt Jay pride more than anything to know what he must do. To bend the knee and suck up to that war criminal went against the ethics his parents gave him, but after failing to convince the E-Ranks to do anything, he’d have to play this as logically as possible.
+
+Confronting someone of that strength directly was suicidal, the days were still slowly ticking down, and if Misha’s latest tally had been any indication when he came by, the island would not be able to sate Viktor’s demands.
+
+No, Jay would not be the one to fall to that lunatic first. He could bow his head like a bitch if it got him through the day, so long as he never dropped the rock behind his back.
+
+His enemy’s day would come.
+
+* * *
+
+Roaring waterfalls fell between emerald hills, forming mist at their base that snaked into the valleys and plateaus beyond. The island thus became a living entity, with a brilliant mosaic across its surface undergoing ebbs and flows beneath rivers of fog. The same picturesque glen could devolve into a veiled bog within moments of change.
+
+Viktor’s “base” sat above this shifting sea, with a giant pillar of smoke standing as a dark contradiction to the world beyond. Like a dozen cairns thrown together, the very sight perverted the land around.
+
+Jay rolled up a game path slowly, his cart brimming with supplies at hand. He’d made sure to pack it as tightly as possible.
+
+This wasn’t a trip he wanted to make often.
+
+Hmm, strange look. Viktor’s “base” was a far cry from what Jay would expect from an Expat of his Rank. Where everyone else had vast networks of defenses to keep anyone out, Viktor had no more than a couple pits with spikes within. The clearing was otherwise open, and piles of boxes were scattered about. A mountain of wood burned in the center, spouting plumes of black smoke into the sky above. Only a small shack had been erected here, with the rough shape and quality Jay could craft himself.
+
+Where are all the crafting stations? The shack was too tiny to hold anything of substance, no more than a campfire and a bed by the looks of it.
+
+Then he saw Viktor, sitting proudly in the middle as he read through his Guide, an iron pot steaming beside.
+
+His deep blue eyes narrowed onto Jay the second he strolled through. He gleamed. “Oh, Jay. I did not expect to see you again so soon. To what do I owe such an irresistible treat?”
+
+Jay grimaced. “I have 68.6 kilograms of dried level 48 owlbear meat, 125.7 kilograms of level 28 cooked dire boar meat, 86.5 kilograms of level 25 cooked anaconda meat, and another 64.2 kilograms of level 19 cooked baboon meat.”
+
+“This sound like everything that remain from those creatures you killed,” Viktor noted, raising his eyebrow.
+
+It was. After earning each of those kills, Jay had processed the remains and went back home, splitting the owlbear with Kevin while hoping the rest would work as free hunger recovery while he delved back into grinding and research. With this sacrifice to Viktor, he’d be throwing all of that hard work down the drain by choice.
+
+Jay furrowed his brow. “Add it to the tally.” He still had the overpowered pemmican. So long as his supply held firm, he could sacrifice any amount of food.
+
+“You are free to do so yourself,” Viktor said.
+
+The growl came from behind, the temperature suddenly dropping twenty degrees with it.
+
+Jay turned to see a wall of ice melded with flesh, and steel-plated armor on top. Misha studied the pitiful human in front, cobalt eyes radiating a thinly contained hatred.
+
+Jay gulped. How the hell did Viktor manage to tame this thing?
+
+Viktor scoffed. “Play nice, Misha. We have company.”
+
+The high-level bear grumbled and bowed its head, then turned its body to reveal the spreadsheet of mats.
+
+Jay’s heart sank at the sight. Despite the threat, so few people had filled anything out, perhaps less than one-fourth of his total island demand. Though everyone contributed, they all were mere peanuts compared to what was required…
+
+“Yes,” Vitkor agreed, seeing his face. “It would seem that someone will die in next three days.” He leaned back. “Do not be surprised. The first week always leads to death.”
+
+Of course he’d done this before. This was his strategy, and if Sayid’s theory held true, then he could repeat it against any lower-Rank island, dividing the inhabitants so they couldn’t rally against him. A perfect shield made of outward chaos.
+
+Another cart suddenly creaked into the open, its owner clad in a silver-plated coat, glittering bright under the midday sun. Black hair flowed free, and muscles bulged beneath the rest of his armor set, despite the looser hemp clothing.
+
+“There might be more luck for you yet,” Viktor said. “We have a second visitor today.”
+
+Hyuk watched them without words, a cart filled with slain monsters to his flank. Jay recognized the body of a rapid-fire porcupine amidst his pile of bodies, but he had removed the quills before arriving here.
+
+“What have you brought for us today?” Viktor asked.
+
+“More meat,” Hyuk answered simply.
+
+“You know what to do then.”
+
+But when he caught sight of the table and its lack of entries, his brow hardened into a firm slant, that same lack of hope that Jay knew he had as well.
+
+Jay grabbed the quill and ink himself, but his fingers remained still. Hyuk watched on, neither angry nor malicious, but just as unsure.
+
+An exchange went between these two strangers. One without words.
+
+What was the point of this donation, anyway? If the deadline couldn’t be reached, then inserting what had been gained would only be a waste. They couldn’t rely on the charity of others, and there were dozens of Expats who had an equal chance to die. Why not turn around and go back home? At least they’d get to keep what they’d earned.
+
+Hyuk shifted in place, stroking his chin to the thought.
+
+But then it occurred to Jay that the only reason they were in this crisis was because everyone else had made the same decision as them. Hyuk was proving as much.
+
+They’d let their neighbors go first to increase their odds of survival, and only would bother to commit if the investment paid off. Sure, if the full group failed, another person would die, but their chances to live against Natura increased. Why worry about the threat of tomorrow when today was just as real?
+
+Jay grit his teeth, hating that he’d been forced to think this way. He hated that others engaged in this self-destructive game. And he hated the man who’d forced them into this position above all else.
+
+So much unnecessary waste.
+
+Jay’s cheeks reddened. Here he was, overthinking the scenario like a jackass when the answer was right in front of them. He didn’t even need to worry about the meat.
+
+Jay signed the sheet without saying a word, then began to offload his food onto Viktor’s stockpile, one armful after the next.
+
+Hyuk seemed ready to leave, but then he quickly strolled forth, grabbed the quill himself, and scribbled down his entry without hesitation. It was not long before he joined Jay in unloading his own hunts for the day.
+
+“You both chose to commit despite knowing cost of failure,” Viktor pointed out, amused. He wagged a finger. “Do not think this will give either of you special favors.”
+
+Jay smirked. “Doesn’t matter. I see why this works so well now. By dividing everyone up, we’re all inclined to wait for someone else to go first, lest we burn resources and don’t even increase our chance of survival. That is the logical choice. But if only a few of us behave irrationally, the pool gets smaller, and it is only a matter of time before the smarter choice is to not hoard.” He stared deep. “This entire game is an illusion meant to get us to distrust each other.”
+
+Jay and Hyuk exchanged smiles, knowing that they had won.
+
+Viktor frowned. “You once again impress me, Jay Reis. But, you seem to misunderstand what is happening here. I merely have created new Rules. It is your own choice that drives it so.” He scrunched his chin. “I will add another just for this moment so you both can better understand.” His blue eyes twinkled. “If one of you kills the other, I will let you leave this island.”
+
+Jay blinked. “What?”
+
+“It is simple, is it not? I will even help construct raft myself.” He raised a finger. “All it takes is one murder, and you are free forever.”
+
+An uncomfortable moment came and went as the two locked eyes again.
+
+Jay swallowed the lump in his throat. Hyuk revealed nothing, his hand subtly going for the scimitar to his waist. Is he seriously considering this?
+
+His mind slipped back into attack mode, sensing the trap. It didn’t matter what he was planning on doing, only what Hyuk thought he’d do. Just as Naomi explained the day before, it was safer to operate under the assumption th–
+
+The swing came in less than a second. Only through his inhuman reflexes did Jay lean back in time. A ray of silver light passed where his neck had once been.
+
+Hyuk bowed forth, his arm arched wide, curved blade now behind his back. His eyes watched on, dark and determined.
+
+“Wa–” Jay started, but Hyuk launched a second strike. His shoulder rocked where it had stabbed right through. He retreated a step with a wheeze.
+
+Dammit. No time to introspect.
+
+Jay whipped out his pig iron sword and braced for impact.
+
+Hyuk launched forth again and thrust his blade. Reflex took control this time. Jay [Parried].
+
+But before he could follow up, Hyuk performed a near-instant step and delivered another strike, aiming lower. Jay winced as the silver rocked against his armor.
+
+Need space. He [Leaped], launching to the other end of the camp.
+
+Hyuk slowly closed in. As he almost came in range, he took another pair of inhuman steps and [Slashed]. The air shuddered under a flash of silver.
+
+There was something different about that [Slash]… As if it had moved even quicker than normal.
+
+Jay sidestepped, now seeing it coming. His riposte came as a counter-[Slash], and Hyuk evaded too slowly. The Affinity+5 pig iron edge cleaved through his silver-plated coat with ease. Blood burst from his chest and shoulder.
+
+Jay grinned. That’s right. Two can play at this game.
+
+But Hyuk did not smile. His determined gaze never lessened as he closed the distance again and repeated his instant-step technique. Another [Slash] followed.
+
+Jay evaded the blow just barely. His counter took Hyuk in the legs this time. His opponent winced, more blood sprouting free.
+
+The sortie continued, with Jay slowly wearing Hyuk down. Since their gearset was near-identical, Jay deduced that Hyuk’s mobility must have come from the [Quickstep] skill he ignored, and his perfectly-timed thrusts were actually [Stabs]. The longer the two went at it, the more he could see the cadence of his attack style, along with exploiting the errors.
+
+Then Hyuk did something unexpected.
+
+As Jay delivered another [Slash], his enemy ducked low. Fresh pain erupted a second later as Hyuk’s blade sailed through, his own [Slash] quicker than should have been possible.
+
+Jay [Leaped] to safety and watched without words as his opponent’s injuries began to close up.
+
+The follow-up came quick, with another supercharged [Slash] cutting through his defenses. More of Hyuk’s flesh tightened, even as blood continued spilling from Jay’s own wounds.
+
+Desperately, Jay slipped into [Waterform] and unleashed a set of unskilled swings to buy himself time, but Hyuk [Quickstepped] to his flank.
+
+Jay only needed to see the fire in his opponent’s eyes to know this was part of the plan. That Hyuk had never lost control in this fight.
+
+A tsunami of sudden slashes and stabs came in rapid succession, moving at such a monumental speed that not even [Waterform] could keep up. Jay cried out from the shock of so many Wounds opening at once. Only when it ended did he [Leap] out of range again.
+
+And Hyuk’s injuries sealed completely, caked blood formed around his frayed armor.
+
+He marched forth, an unharmed harbinger of death. There was a certain determination as well. Not to see Jay dead or to bow to Viktor’s knees, but to see the combat through, with him at the top, and his opponent down below.
+
+Nothing else mattered to this man.
+
+Jay’s heart began to race, his own body beginning to slack. How the hell was Hyuk healing off his attacks!?
+
+The [Slash] took him in the knee, somehow even faster than before. Jay scrambled away.
+
+Then it hit him. Hyuk made his blade with silver, boosting his elemental affinity. Any gemstone socketed would thus become supercharged compared to normal, and elemental effects had their own synergies.
+
+One popped back into his head now.
+
+Gemstone – Spinel
+
+Weapon Effect: Life Leech
+
+That was Hyuk’s power. He’d only grow stronger the more this dragged out. Each hit siphoned off Jay’s vitality to recover his own, and because of the power of his silver, the effect would be compounded. Jay wasn’t just fighting another guy with a sword.
+
+He was going against a different build altogether.
+
+His cheeks reddened. He couldn’t allow this to go on. He couldn’t be beaten at his own game. Jay just needed to find an opening…
+
+He slipped to [Rend], but Hyuk [Quickstepped] into a [Slash] before it could go off. Jay skipped back, seeing the dead-end.
+
+Skills alone wouldn’t do it. He needed another path. Another boost. Something to make his advantage unquestionable here. Hyuk was clearly a formidable foe, but he wasn’t unbeatable.
+
+There! Both Hyuk and Viktor blinked in surprise as Jay suddenly turned on his heels and sprinted the other way. His [Leap] carried behind the shack, where no one else could see him.
+
+“Where are you going, Jay!?” Viktor called out. “Don’t ruin the fun and run right when the fight becomes interesting!”
+
+Oh, I won’t. They had no idea who they were dealing with. Whether Hyuk knew it or not, this fight was already over.
+
+He need only power up to an unstoppable state.
+
+Name: Jay Reis (Copper Age)
+
+Vitality – ??/99Hunger – ??/72Thirst – ??/24 Fatigue – ??/48Sanity – ??/100
+
+Main Crafts: Alchemy 2, Armor Crafting 2, Base Building 3, Cooking 2, Jewelry 2, Medicine 2, Tailoring 2, Tool Crafting 3, Vehicles 1, Weapon Crafting 2.Weapon Crafts: Axes 5, Bows 5, Clubs 5, Daggers 5, Spears 5, Swords 9.Armor Crafts: Heavy Armor 5, Light Armor 5, Medium Armor 6, Shields 6.
+
+Character Skills:[Forbidden Knowledge]
+
+Armor Skills: Heavy Armor: [Push], [Stampede]Medium Armor: [Recover], [Leap], [Waterform]Light Armor: [Dash], [Feather Fall]Shield: [Brace], [Track], [Break]
+
+Weapon Skills: Axes: [Chop], [Whirlwind]Bows: [Sharpshooter], [Longshot]Clubs: [Bash], [Paralyze]Daggers: [Slice], [Flourish]Spears: [Thrust], [Sweep]Swords: [Power Attack], [Slash], [Rend], [Parry]
+
+Armor:[Pig Ironplated Hat] (Affinity+2), (Hardened+4), (Reinforced+1)[Pig Ironplated Coat] (Affinity+2), (Hardened+4), (Reinforced+1)[Pig Ironplated Leggings] (Affinity+2), (Hardened+4), (Reinforced+1)[Pig Ironplated Shoes] (Affinity+2), (Hardened+4), (Reinforced+1)[Pig Ironplated Gloves] (Affinity+2), (Hardened+4), (Reinforced+1)[Silver Amulet]: Socketed with [Chipped Tourmaline] (Tempus)[Silver Ring]: Socketed with [Chipped Beryl] (Frigus)[Silver Ring]: Socketed with [Chipped Beryl] (Frigus)
+
+Weapons:[Pig Iron Sword+3] (Affinity+5), (Hardened+2), (Reinforced+2), (Stable+4)[Wooden Bow+3] (Elemental), (Reinforced+2): Socketed with  [Chipped Beryl] (Frigus)[Basic Leather Quiver]: Contains 20 [Silver-tipped Arrows] (Elemental+2), (Stability+4)
+
+Tools:[Copper Knife+3][Copper Axe+3][Copper Hammer+3][Copper Pickaxe+3][Copper Shovel+3]
+
+Boons:[Minor (Speed)] (x3)

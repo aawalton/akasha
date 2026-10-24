@@ -1,0 +1,303 @@
+[Tinkering Table (Basic)] = 4 Wood (Hard, 0.8-1m) + 4 Wood (Hard, 1.2-1.6m) + Wood (Hard, 1.1-1.6m) + Wood (Hard, 0.7-0.9m) + Wood (Soft, 0.3-0.35m) + 24 Copper (Nail, 0.01-0.015kg) + 20 Copper (Rivet, 0.01-0.015kg) + [Bowl] (Any) + Feather (Any) + [Knife] (Stone+2) + [Hammer] (Stone+2)
+
+Time for a new direction.
+
+After becoming temporarily enlightened from absorbing a Boon that permanently raised his Sanity, Jay had come up with all sorts of new plans. Though most lost cohesion as his intelligence fell to normal levels, one stood out, and he’d spent the better part of his time getting the research finished.
+
+He wiped the sweat from his brow, his latest craft complete.
+
+Four legs rose from the ground, with four support struts holding them in place, and a giant slab of wood on top. Like a hybrid between a workbench and a research table, there was a plethora of space to work on the main area while a backboard sprouted behind. Unlike the research table, however, this hunk of wood lay fixed, with rivets ready to store whatever tools he’d need, along with a gap between that would no doubt work as the display.
+
+The bowl was a curious addition. Jay had used one made from granite, and it and the feather were permanent fixtures on the table.
+
+Buzz.
+
+Congratulations! You have created a [Tinkering Table], Expatriate. This [Crafting Table] will allow you to draft [Schematics] that modify your weapons and armor, as well as unique tools to aid in your quest!
+
+Tinkering Unlocked.
+
+New recipes available.
+
+Jay studied this latest machination. Ben leveraged Tinkering as a Craft to create everything from turrets to mechanical constructs to the goggles he used that gave him extra information about his surrounding environment. These would all make great weapons for Jay’s arsenal, but he only needed a handful to give him an edge in the fight to come.
+
+It was just a matter of figuring out which were best…
+
+He placed his sword onto the table, his Guide finding a spot elsewhere. The backboard adjusted to match, displaying a set of fresh information.
+
+Modification – Swords
+
+Project Requirements: Examine crafted [Copper Scimitar] for required length of time and/or construct valid [Schematic].
+
+Hilt – Auto-Lighter (Basic): 20-30 hours.
+
+Hilt – Grease Dispenser: 20-30 hours.
+
+Blade – Spring-Loaded Launcher: 40-60 hours.
+
+Interesting concepts. Just as the Guide implied, the tinkering table behaved like an adjacent path to research, allowing him to access recipes that otherwise wouldn’t be found under any other branch. Rather than simply designing his next sword, he provided himself access to a modification that could be used on any sword.
+
+And even with such limited choices, they were all quite good. The grease dispenser would automatically coat a single charge of grease onto his sword, the auto-lighter could drop sparks that could set something like firesap ablaze, and the spring-loaded launcher fired the entire blade as if it were a missile. Only a limited number of modifications could be applied at any given time for the obvious reason that each one took up space. Still, in principle, nothing seemed to get in the way of tinkering with an alternate build of mods for his sword.
+
+Can’t waste time on these, Jay realized.
+
+He wasn’t quite there yet.
+
+Instead, Jay withdrew his sword and started going through the Crafting tree. Like the research table, other recipes that hadn’t been there before suddenly appeared.
+
+General – Tools
+
+Project Requirements: Examine prerequisite materials for required length of time and/or construct valid [Schematic].
+
+Wire Cutter (Copper): 25-40 hours.
+
+Wrench (Copper): 25-40 hours.
+
+Pliers (Copper): 25-40 hours.
+
+Lock (Pig Iron): 30-50…
+
+Calipers (Pig Iron)…
+
+…
+
+So many possibilities! Just having a wire cutter or pliers alone would be a massive benefit for Jay when trimming all the sprues his metallurgy casts constantly produced. It took ages to file them down with his copper knife. But that’s what happened when he used the wrong tool.
+
+Eye on the prize, Jay. He kept moving through the different lists, searching for that one tool he’d need for his next phase.
+
+But damn, did he underestimate how much access this new branch gave him. Like a mechanical version of Alchemy, Tinkering provided benefits that could be used with almost everything else.
+
+He’d even uncovered its own Sub-Crafts down the line, with whole branches dedicated to Automation, Traps, and Constructs. Should he invest any time into these, he could become like Ben, with an entire arsenal of tools and weapons to make his base expand of its own accord. The sky would be the limit if he could crack that nut.
+
+Jay shook his head, again remembering his place. Without an Expat Core, the research requirements were astronomical, and he simply lacked the time to make them work.
+
+He kept searching.
+
+There we are. Jay grinned, his next project clearly identified. Neither too extraneous nor simple, with enough utility to get him through just about any situation, should he play it smart.
+
+Project Selected…
+
+Time Requirement rolled (Core Modifier: None)
+
+Project Now Available.
+
+He blinked, the tinkering board changing.
+
+Weapons – Utility
+
+Current Project: Grapple Gun (Pig Iron)
+
+Time Remaining: 43 hours, 29 minutes.
+
+Not too shabby, Jay considered. The roll had ended on the lower end of its forty-to-sixty-hour range. More than he was used to seeing.
+
+Of course, he still wasn’t entirely sure how this was supposed to work. He could either take a mix of different metals and hemp and examine them for a million hours, or he could attempt to build schematics and see what happened.
+
+But how?
+
+He stared at the empty bowl, dead-bolted onto the table, along with a slab of softwood designed to be a drawing board. Right…
+
+In order to draw schematics, he first needed ink.
+
+This proved to be a straightforward step at his level of development, also unlocked with the discovery of Tinkering. Merely by mixing charcoal with water, adding a dash of tree resin, and boiling the contents, Jay could make an ink that was dark enough to appear on paper, and viscous enough to not leak wide.
+
+He filled the bowl to the brim.
+
+The backboard adjusted, suddenly displaying a list of shapes, dimension specifications, materials, and quantities for each. Meanwhile, the softwood board adopted a maze of interconnected dots, linked like a flow chart from start to finish. As Jay gazed upon this mess, he started to consider how to get from one side to the next.
+
+He scribbled a notation onto the softwood board, denoting “pig iron” as an element. The “pig iron” element went down a phase on the backboard. He then drew the “0.1-0.2m” note in an adjacent node, and watched as the backboard compensated. A third note was made for a separate node for “hook.” The final step involved connecting the lines together to form a chain.
+
+Just like that, part of the recipe became composed.
+
+But the moment that happened, nearby lines suddenly grayed out, limiting the number of new paths that could be connected to the chain he had just created. As he went through the flow chart and attempted another chain, more paths became blocked, even as the backboard list became smaller.
+
+One by one, he continued to produce different chains, a mix of the material required, the type of shape, and the dimensions they’d end in. The options for created paths became more limited until he reached the end.
+
+And it looked nothing like a grappling gun.
+
+But the backboard still changed.
+
+Schematic Failure! Resetting board…
+
+Then, it returned to the list it had started. The project details were adjusted to match.
+
+Weapons – Utility
+
+Current Project: Grapple Gun (Pig Iron)
+
+Time Remaining: 42 hours, 57 minutes.
+
+Schematic Attempts: 1
+
+Status: Failure
+
+The softwood board also had to be reset. Jay used fresh water to wipe the ink away. A completely different set of nodes and lines appeared below, all snaking around in a fresh, new pattern.
+
+Jay scratched his chin. Yes, this was indeed an enigma to crack. Like trying to finish a maze that was slowly fading out, in order to reach the end of the schematic correctly, Jay not only had to pair the right elements into the correct chains, but he also had to connect them with each other by solving this complex puzzle, all while it collapsed on itself. Because there was no way of knowing which lines would disappear, it seemed nigh impossible to do what the project required.
+
+He grimaced as he reached the end of the second round, this one even worse than the first.
+
+Schematic Failure! Resetting board…
+
+Weapons – Utility
+
+Current Project: Grapple Gun (Pig Iron)
+
+Time Remaining: 42 hours, 36 minutes.
+
+Schematic Attempts: 2
+
+Status: Failure
+
+At least this is faster than manually researching it. But then Jay looked at the ink bowl and realized it was already one third empty, and would have to be refilled soon enough. He’d also have to spend the time needed to produce more ink…
+
+He stared at a web of lines and nodes and was reminded of TV static, then went through the motions again.
+
+This time went a little better. Because Jay felt confident with a few of the pairs, he selected places on the softwood board that felt the most logical and was surprised to see that some lines persisted in areas he liked.
+
+But then he inevitably reached the parts where he was less sure if they were right, and when it came time to draw those chains to the other board elements, they ended up as elongated squiggly lines that marred the rest of the design.
+
+And the table responded without mercy.
+
+Schematic Failure! Resetting board…
+
+…
+
+This was going to take a while.
+
+Little by little, Jay went through the motions of painting different steps. Designing the springs, adjusting servos, arranging the chassis, and of course, developing the grapple itself. The softwood board reset with each failure, but after so many concurrent attempts, he could start to see patterns form with each fresh maze. Soon, Jay could reliably produce the same strings and have them connected, drafting consistent shapes that looked more and more like a grappling hook.
+
+Schematic Failure! Resetting board…
+
+The maze became more predictable too. As time passed and the failed attempts ticked up, no longer would paths close up without cause. Many persisted, almost like bold outlines in his mind’s eye as he made sure they’d always be connected first. Like eating his meat while ignoring vegetables, Jay always found a way to get those early chains formed. But also like those meals, the vegetables eventually had to be consumed, and he hadn’t quite been able to nail them down.
+
+Schematic Failure! Resetting board…
+
+It wasn’t long before he had to replace his drained ink well. The failures absorbed everything he spent when the board got reset, acting as a consistent material drain to maintain this type of research.
+
+What a strange design this is. Like a conceptual version of Alchemy, Jay could advance these Tinkering projects by attempting different schematics. Yet, unlike with Alchemy, the only pain came from his ever-growing migraine after trying to solve this unsolvable puzzle. At least when it came to downing a failed potion, he knew the result instantly instead of having to wait all the way until the end.
+
+Schematic Failure! Resetting board…
+
+But still, Jay persisted. There was no time for an alternative.
+
+And so Jay drew until his fingers were calloused and his eyes saw nothing but circles and lines wherever he looked.
+
+Schematic Failure! Resetting board…
+
+Schematic Failure! Resetting board…
+
+Schematic Failure! Resetting board…
+
+Finally, he somehow reached the end. Every chain had lined up correctly, and every one had been linked in the order he’d uncovered. As he gazed upon his creation, he saw a list of recipe components all tied together in an object that looked exactly like a grappling gun.
+
+Schematic Success! Project time reduced…
+
+And the rest of the backboard changed to the final result.
+
+Weapons – Utility
+
+Current Project: Grapple Gun (Pig Iron)
+
+Time Remaining: 10 hours, 54 minutes.
+
+Schematic Attempts: 26
+
+Status: Success!
+
+Jay wanted to puke. They’re still making me spend the research time!? After all that work he’d just put into it? He stared out the window of his lodge, into the light of day. It was difficult to determine how much time had been spent, but if he dumped the rest of his day into this project, it would be a nail-biter to build this tool before night hit.
+
+He clenched his fists, knowing there was no choice to be had.
+
+With all the hope he could muster, he took the mix of pig iron bars, copper, and twine, and began to imagine how he might pair them all together into the schematic he’d created…
+
+Buzz.
+
+Jay blinked, his mind back in action. He looked down to the Guide, its Update ready.
+
+Level Up! Tinkering 0 → 1
+
+Tool durability increased.
+
+I made it? He looked outside and grimaced. No, not yet. The sun was quickly on the descent, long shadowy tendrils spreading across the land.
+
+He leapt out of his seat and ran straight for the furnaces, the Guide in hand. Even if he’d uncovered the recipe, the physical craft still had to be finished, and there wasn’t much time left.
+
+No, this couldn’t be delayed until tomorrow.
+
+Not when tonight might be his last.
+
+* * *
+
+Jay kicked open the door to his cabin, shoulders burning and body on the cusp of collapse.
+
+Even better than I’d thought, he told himself, still gripping his latest tool.
+
+Tonight’s sortie had been his easiest in ages. Natura had charged him with another seemingly unstoppable army, but Jay had picked the field of engagement to stack the odds as far in his favor as humanly possible, fighting the battle where the canopies were thickest and crags perverted the landscape.
+
+The grappling hook had a range of thirty meters, drawing enough tonnage to yank him to his destination so long as he didn’t weigh himself down too much. Rather than go out into the fight with a complex array of potions and tools, Jay brought no more than his bow, sword, and backpack filled with arrows.
+
+Many of Natura’s units were designed to chase him on the ground level, so they did not expect when he simply zipped to safety, using the cover of the trees to land potshots endlessly. Those who could give chase became his first targets, and he brought them all down with ease.
+
+The ground soldiers simply could not keep up. Before any of his platforms could get knocked down, he’d merely zip to the next tree for safety and repeat the process, laying more arrows into the monsters below. His rings had been set to rubies again for the bonus fire damage, and by coating everything with firesap oil, just about everything could be set ablaze from the comfort of the sky above.
+
+Dealing with the army was thus a war of attrition. Either Jay would run out of arrows, or Natura would run out of soldiers.
+
+And Jay had brought many, many arrows for this reason.
+
+He tumbled into his bed with exhaustion, but his fingers never left the grappling hook in one hand, nor the overpowered weapon in the other.
+
+No, that wasn’t the real fight this evening.
+
+It was no more than the warm-up.
+
+Jay lay in bed, his eyes locked on the door, praying for the best, yet fearing the worst.
+
+Seven days had come and gone since Viktor had set his latest demands. Despite many people dying during that time, he never reduced his request, demanding ludicrous amounts that no level of grinding would be able to match. It thus became a round that the island was incapable of winning, and before long, everyone had given up, again hoarding their supplies in the hopes that Viktor would target someone else.
+
+Including Jay.
+
+When he saw the writing on the wall and knew they would not be able to stave off the inevitable, he shifted gears into what came next. That meant getting something powerful enough to destroy this asshole, once and for all.
+
+Jay clutched the stick grenade tight, his thumb on the cord and eyes locked on the door. His other held the trigger of his grappling gun, knowing where it would go.
+
+He’d come up with this plan during his Enlightened state. Should Viktor have chosen to murder him this evening, he would spring this trap. The second he came through the door, Jay would fire his grapple to the nearest tree and launch to safety. That inertia would yank the cord off the grenade. Even if Viktor went straight for the back, this was a competition where seconds made the difference. Unless he discovered the grenade immediately, it would be too late to stop what was to come.
+
+His entire home and everything he’d collected would be destroyed along with the island’s biggest enemy.
+
+That was all that mattered.
+
+But the more time passed, the more nothing happened. Distant crickets chirped. Wind rustled through trees. The continuous lull of the waterfall rolled into the river below before sliding into his lake. A frog chirped.
+
+And still, Viktor did not come.
+
+Jay’s eyes grew heavy after some time, even as his heart continued to race. Despite his desire to see this through, his natural exhaustion started to kick in, and he had no way to stave it off for long. One minute turned into an hour, and then another came after that.
+
+Nothing.
+
+Questions began to swirl before long. Had Jay chosen poorly? Was tonight not the night? Did they manage to clear the hurdles set after all?
+
+No, as Jay began to slip from his heightened awareness to an uncomfortable sleep, he knew what happened.
+
+Someone else had died tonight.
+
+Name: Jay Reis (Copper Age)
+
+Vitality – 99/99Hunger – 59/72Thirst – 20/24 Fatigue – 30/48Sanity – 96/110
+
+Main Crafts: Alchemy 2, Armor Crafting 2, Base Building 3, Cooking 2, Jewelry 2, Medicine 2, Tailoring 2, Tool Crafting 3, Tinkering 1, Vehicles 1, Weapon Crafting 2.Weapon Crafts: Axes 5, Bows 9, Clubs 5, Daggers 5, Spears 5, Swords 11.Armor Crafts: Heavy Armor 5, Light Armor 5, Medium Armor 8, Shields 6.
+
+Sub-Crafts: Curved Swords 5.
+
+Character Skills:[Forbidden Knowledge]
+
+Armor Skills: Heavy Armor: [Push], [Stampede]Medium Armor: [Recover], [Leap], [Waterform], [Quickstep]Light Armor: [Dash], [Feather Fall]Shield: [Brace], [Track], [Break]
+
+Weapon Skills: Axes: [Chop], [Whirlwind]Bows: [Sharpshooter], [Longshot], [Scattershot Arrow]Clubs: [Bash], [Paralyze]Daggers: [Slice], [Flourish]Spears: [Thrust], [Sweep]Swords: [Power Attack], [Slash], [Rend], [Shirk], [Violent Storm]
+
+Armor:[Copperplated Hat+3] (Nightmarish+5), (Buttressed+2), (Hardened+2), (Reinforced+1)[Copperplated Coat+4] (Nightmarish+6), (Buttressed+2), (Hardened+2), (Reinforced+1)[Copperplated Leggings+3] (Nightmarish+6), (Buttressed+2), (Hardened+2), (Reinforced+1)[Copperplated Shoes+2] (Nightmarish+3), (Buttressed+2), (Hardened+1), (Reinforced)[Copperplated Gloves+1] (Nightmarish+2), (Buttressed+2), (Hardened+1), (Reinforced)[Silver Amulet]: Socketed with [Chipped Tourmaline] (Tempus)[Silver Ring]: Socketed with [Chipped Spinel] (Vitus)[Silver Ring]: Socketed with [Chipped Spinel] (Vitus)
+
+Weapons:[Copper Scimitar+6] (Nightmarish+8), (Sharpened+4), (Hardened+4), (Reinforced+2), (Stable+2)[Treated Bow+1] (Hardened+1): Socketed with [Chipped Ruby] (Ignis)[Basic Leather Quiver]: Contains 17 [Silver-tipped Arrows] (Elemental+2), (Stability+3) and 3 [Scattershot Arrows] (Elemental+2), (Stability+4)[Stick Grenade]: (Thermal+1)
+
+Tools:[Copper Knife+3][Copper Axe+3][Copper Hammer+3][Copper Pickaxe+3][Copper Shovel+3][Basic Grappling Hook]
+
+Boons:[Minor (Speed)] (x3), [Minor (Sanity)]

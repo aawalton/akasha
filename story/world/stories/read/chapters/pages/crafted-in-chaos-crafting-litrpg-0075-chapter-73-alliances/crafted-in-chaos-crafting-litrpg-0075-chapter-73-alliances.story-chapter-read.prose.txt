@@ -1,0 +1,215 @@
+[Grapple Gun (Pig Iron)] = Pig Iron (Tube, 0.2-0.25m) + Wood (Crank, Hard+1, 0.15-0.2m) + Wood (Hard+1, 0.1-0.11m) + 3 Pig Iron (Hook, 0.15-0.18m) + Pig Iron (Bar, 0.2-0.25m) + Pig Iron (Bar, 0.1-0.12m) + [Hemp Rope] (25-30m) + Twine (Hemp+2, 0.05-0.07m) + Copper (Spring+1, 0.08m) + Gemstone (Amethyst, Chipped) + Gemstone (Zircon, Chipped) + [Hammer] (Copper) + [Knife] (Copper) + [Tinkering Table] (Any)
+
+Jay zipped through the jungle, going from tree to tree.
+
+I can get used to this one. His grapple gun was an interesting artifice, mixing Annwyn’s elemental system with rudimentary physics. Shaped like a pistol with a giant wooden wheel on top, he could point at any destination capable of supporting his pig iron harpoon and use that as a launch pad. That let him go from branch to branch, his only limit the speed to which it could be reloaded by twisting the crank until the internal copper spring was ready to go again.
+
+The secret he’d uncovered the day before came from the two gemstones within. Zircon was infused with heavy “Gravitas” essence, while the amethyst contained “Vacuus.” Whenever they were pressed together, the latent gravity from the zircon pressed against the vacuum energy of the amethyst like opposing magnets to generate centripetal force within, coiling the internal rope back up, along with anything attached. But the moment he pulled the trigger, the two gemstones were disconnected, replaced by the force of the copper spring to launch the grapple forth.
+
+Thus, Jay held the trigger to fire and let go to get yanked to his destination. So long as the hook was anchored somewhere to support his weight, he could move just about anywhere within range. And best of all, learning how to craft it gave him enough proficiency to use this tool without fumbling.
+
+For once, Jay no longer had to waltz through the jungle slowly and carefully to reach his destination. The grapple gun let him move through the canopies like a super hero as he went down his plateau, into the harbor, and most importantly, above all the traps that Naomi’s group left along the way.
+
+Not that it mattered. He grimaced as he reached the shoreline, recognizing the truth.
+
+The stone half-tower that had once belonged to Ben had become a ruinous pile of waste. The mortared stone was chipped and broken, and the pillars had eroded into a collapse as if a hundred years had come and gone since it had been built.
+
+Desmond’s manor had also gone the same way. Nature claimed his walkway and hedges, vines choked the walls, and the tiled roof was long since caved in.
+
+This was another of Annwyn’s laws. Expatriates seemed to only have access to a single “home” at any given time, based on where they last slept. As soon as they slept somewhere else, the first base began to degrade, aging at an accelerated rate until it became absorbed by the environment completely.
+
+Another detail he’d once taken for granted. This part of the island used to be much easier to traverse when a group of Expatriates could maintain it, but the moment they moved on, all those roads, bridges, and ladders quickly fell apart.
+
+Even Naomi had left, it seemed. Her shack had grown gnarled and dusty, with the shelves completely empty, and her workbench removed. The once vibrant bloomery was now a cracked pile of rocks flecked with sand, slowly unraveling into another dune on the beach. Rusted metal glinted in the morning sun where it poked out from the sand, a reminder of the landmines she had once placed.
+
+Or so Jay hoped she’d just left. It wasn’t lost on him that Viktor’s deadline had passed, with no way for the island to have sated his lust for mats.
+
+Only Sayid remained. Where the rest of the harbor slowly digested the other Expatriates’ homes, his treehouse still held firm. It towered above the world beyond, a network of wooden planks and ziplines forming a bubble of protection against all else.
+
+Hopefully, that would be enough to get the ball rolling.
+
+Jay took aim with his grapple gun and fired, aiming for the nearest spot. The copper spring launched the pig iron anchor into a branch wider than him. The moment he let go of the trigger, his body lurched forth, the two internal gemstones spinning rapidly as it coiled the rope back up.
+
+And to think I used to [Leap] everywhere. He walked across a wooden bridge, subconsciously cranking the grapple gun’s spring back into action.
+
+He knocked on the door.
+
+No response.
+
+“You there, Sayid?” Jay called out.
+
+Still nothing.
+
+Maybe he’s out? Knock.
+
+Nothing.
+
+Just when Jay was about to leave, the wood creaked behind. He paused, but no more came from that vague rustling.
+
+His spider senses triggered, and he drew his sword. With his fingers wrapped tight around his weapon, he inched the door open.
+
+A putrid scent of blood and death rolled out. Jay withdrew a step, coughing against this miasma.
+
+Sayid moaned. “Go away, Jay.”
+
+Blinking through the odor and the dark, Jay took in the surroundings. Empty vials lay scattered about the treehouse floor, multicolored stains leaked into the planks beside. The shutters had been closed off, casting Sayid’s home in deep shade.
+
+And he lay at the center. The bags beneath his eyes had grown heavier than before, and the wrinkles were tightened as if carved from glass. His once trimmed beard had grown unkempt, and his otherwise tanned skin was now twisted pale against the sun. He shielded himself from the light and turned over.
+
+“What the hell are you doing, Sayid? It’s hours after dawn.”
+
+He groaned. “I do not care.”
+
+Jay chewed his lips. “You can’t be serious right now.”
+
+“What do you want with me?”
+
+“What do you think? I’m here to talk.”
+
+Sayid exhaled. “Then talk quickly.”
+
+He stepped through the door and shut it behind, kicking aside some empty vials before tripping over them. The room fell into a comfortable dark, and he ignored the vile smells.
+
+“There,” Jay said. “Now turn around and talk to me like a man.”
+
+Only then did Sayid show the slightest bit of life, cracking the shoulders in his back as he sat up.
+
+And Jay understood a bit more why the stench was so potent in here. Sayid’s gambeson was stained and torn, but where his flesh was exposed, bandages ran along the length. All bloodstained and puss-ridden, like he’d just arisen from a morgue.
+
+“You doing alright?” Jay asked.
+
+“That is a word for it,” Sayid mused.
+
+“The night’s getting that bad for you, huh?”
+
+“There are no mutagens of this Rank for me to use, so I am at the mercy of whatever I can scrounge from the creatures nearby. Some days are good.” He gripped his shoulder and winced. “Others, not so.”
+
+“Should be easier now that Naomi moved inland. Speaking of… Why did she leave? I was expecting her to stay around and farm the Evershadow like she’s been doing. The competition’s got to be tough at the center of the island.”
+
+“Naomi has come to realize the same as me. There is no escape from what awaits. No hope.”
+
+“Huh?”
+
+Sayid nudged out the window. “Have you not been watching this latest development?”
+
+Jay glanced over his shoulder, off into the horizon. At first he didn’t catch Sayid’s meaning, but then his eyes fell on the E-Rank deciduous island due south. Except where it had once been an ordinary island, a ball of light had whisked into existence around it, slowly pulsating with transparent energy. Jay gawked as the magic grew brighter.
+
+“What’s going on?”
+
+A thin smirk ran along Sayid’s cracked lips. “You have come just in time.”
+
+Before Jay could pry further, the light changed colors, slowly twisting into a verdant green, flashing ever faster and more intense. A shell of pure force coalesced along the rim, shrouding the island in an opaque sphere of radiance.
+
+And then, it vanished.
+
+Just like that, the E-Rank island, along with everything it contained, had disappeared in the blink of an eye. Jay would almost believe it hadn’t been there at all, but foam exploded out from the ocean where it had once been, the sea swallowing the gap left behind.
+
+Sayid chuckled. “See? No hope.”
+
+“Did the island seriously just… Move?” Jay asked.
+
+“What do you think?”
+
+He’d heard about it before plenty of times. Annwyn’s islands never stayed in permanent places forever, only a couple months, max. Then, they supposedly teleported to somewhere else in the archipelago, completely invalidating the ability to create maps, establish networks, or even develop a basic frame of reference with how the world was structured.
+
+But he wasn’t entirely sure what to expect until seeing something like this happen in real life. Like the entire island had turned into a Voidstorm or cairn, it momentarily became some kind of unstuck entity, only to vanish completely.
+
+Another alien vision from this alien world.
+
+No wonder Naomi gave up too. Jay grimaced, the true implication sinking in. That island was beyond his power level, but it was also the only other one in sight. Without having somewhere else to go, there was nowhere to be but here.
+
+In Viktor’s domain.
+
+And something about that brought an extra dimension of finality to the equation. Viktor had already stalked the shores enough to catch anyone who attempted to flee. So far, two more people had tried by Jay’s count, and neither made it far. The first got gunned down before they were a few hundred yards away, but Jay had caught the second trying to paddle to that island on a dinky little raft, only for Viktor to chase him down in the skiff he’d managed to keep hidden. Without even the chance to reach that island, what the hell could they do?
+
+Jay clenched his fist, knowing the answer.
+
+“This doesn’t change anything, Sayid. We can still end this.”
+
+“Oh? Is that why you came down here? To persuade me to join in some vain cause against our unbeatable foe?”
+
+“Yes. Are you at least going to hear me out, or whine that there’s no tomorrow?”
+
+“You can speak. I will drink.” He took a swig from a vial and tossed it aside.
+
+Jay scoffed. “I don’t understand what’s gotten into you lately. When you first came to me, you said that if ever this island’s peace became threatened, you’d become the man you once were. From the way I hear it, you’re exactly the sort of man who would be able to take on Viktor.”
+
+“What do you know about who I once was?” Sayid snapped.
+
+He crossed his arms. “All I need to know is that you were the type of person to pit yourself against the entire world, all for something you believed in. No, I won’t judge you or pretend I understand why you took the path you did back home. If I’ve learned anything here, it’s that we all get our second chance.
+
+“But that is all it is, Sayid. A second chance. If we don’t take it and try to make the most of it, we’ll lose it for good. Maybe to Natura. Maybe to monsters. Maybe to someone like Viktor. This world is chaotic and crazy, but it’s the card we’ve been given, and we’ll only make it work if we give it our all.”
+
+Jay took a step forth. “Our past no longer matters except as a tool to leverage. It doesn’t matter that I went nowhere with my life, only that I understand enough about video games to make it work in this one. Likewise, what Viktor did to your people doesn’t matter either, only that you have the means to stop him now. Like, damn, Sayid. From the way Naomi tells it, you were smart enough to stay ahead of drone strikes. Are you really going to let some jackass push you around like you’re nothing?”
+
+Sayid grit his teeth the more Jay went on, the blood rising to his cheeks. He finally sat up and narrowed his gaze. “What is it that you suggest, Jay? You clearly have your own plans.”
+
+Jay smiled. “We use what used to be sent against you and lure an enemy that is more powerful than all of us combined, including him.”
+
+He raised an eyebrow. “Do you wish to lure another leviathan?Because that is a risky proposition on even the best of days.”
+
+“No, even more powerful than that.” He stroked his chin. “What is the enemy of our enemy? The deadliest entity in this world, that no one has ever defeated before?”
+
+It took him to catch the implication, but Sayid’s eyes widened when it came together. “You wish to use Natura against him?”
+
+He nodded. “The night is the only time he’d ever be vulnerable to this tactic. Just as that zeppelin destroyed half this island and who knows how many people beneath it, so too could we use Natura’s own forces against this one man. If enough people lure their total night’s force onto him, then not even he would be able to survive, especially if he’s already struggling against his own force. It would take all of us – and I mean all of us – to make sure it goes off without a hitch. We can’t give him an opening to flee, and we have to ensure that no one else gets trapped when they intersect. But it can be done, so long as we do it all, together. And the best part? A coordination of this level only makes things worse for Viktor when the time comes.
+
+“That is why I need your help, Sayid. The timing has to be perfect on this one, and if you’re half the mastermind that Naomi’s made you out to be, then you’ll know how to make all the pieces fit. You help me by convincing the others that this will work, and I will do everything in my power to make it happen.”
+
+This was it. Jay’s plan. When he’d popped that Sanity Boon and entered an Enlightened state, it had all become so very clear. Not just the nuances of the plan, but how his own stubbornness had gotten in the way by not bringing others into the mix. He’d then done everything in his power to record the nuances of this idea before they could be lost, but could only go so far. Viktor might have been the strongest person around, but he was still a speck of dust compared to the god they were tasked with destroying.
+
+4) Natura can only rise. It does not recede.
+
+Jay would make sure he’d feel the full weight of that unbeatable force he’d been using against them. He’d have him be locked into that same inescapable trap and see how he feels before the end.
+
+And Sayid could see it too. His pupils flickered to life as he contemplated the possibility of performing a trick so devastating. Yes, if there ever was a way to destroy someone of Viktor’s power level, it would be through this.
+
+But then the exhaustion grew again, and a faux smile spread across his cheeks. “I see you have thought this through.”
+
+Jay grimaced. “It will work. Don’t you think?”
+
+He patted Jay on the head. “It is a good plan, but you are still quite young. Not everything is driven by cold logic, and people are not chess pieces to be moved on a board. They must be driven by faith in one another. No, I am not sure it will be as easy as you believe.”
+
+“You’re not even going to try?”
+
+“I will talk to the others,” Sayid said. “If they are in agreement, then we will see. If not, perhaps we can think of something else.”
+
+He sauntered off into the day without another word, all while Jay stood and watched, unsure what else to say. He’d felt so confident with this one.
+
+His start here had been prefaced in playing the lone wolf, but it was only through working with others that he could defeat an enemy so powerful it would have destroyed their entire island. That might have cost his Cursed item, but it gave him the monster meat that brought his body to the next level. A small sacrifice for some greater good. Only through Viktor’s intervention had that been taken away, but he’d managed to keep himself afloat anyway, defying the very God he’d taken as a patron saint.
+
+What better way to win this fight now, than by repeating the same tactic? If Viktor won by division and lording over the chaos, how else would he be beaten other than by showing him that no one could claim such mastery?
+
+Jay shook his head. Sayid just needed more convincing. That’s all. A second opinion would set help set this plan in motion.
+
+With his resolve buoyed, he fired his grapple gun into the woods and launched to his next target. Branch by branch, cliff to cliff, he zipped through the jungle, considering where to go next. There was less than a week until the next deadline hit, and Jay still wasn’t sure who’d be targeted should they fail another of Viktor’s rounds. Hell, he still had no idea who had been killed the night before.
+
+But then he reached his destination, and his jaw dropped, his own question answered.
+
+No… Of all the people… It couldn’t be…
+
+The body dangled from a tree, right in front of their home.
+
+Dead.
+
+Name: Jay Reis (Copper Age)
+
+Vitality – 99/99Hunger – 66/72Thirst – 22/24 Fatigue – 42/48Sanity – 104/110
+
+Main Crafts: Alchemy 2, Armor Crafting 2, Base Building 3, Cooking 2, Jewelry 2, Medicine 2, Tailoring 2, Tool Crafting 3, Tinkering 1, Vehicles 1, Weapon Crafting 2.Weapon Crafts: Axes 5, Bows 9, Clubs 5, Daggers 5, Spears 5, Swords 11.Armor Crafts: Heavy Armor 5, Light Armor 5, Medium Armor 8, Shields 6.
+
+Sub-Crafts: Curved Swords 5.
+
+Character Skills:[Forbidden Knowledge]
+
+Armor Skills: Heavy Armor: [Push], [Stampede]Medium Armor: [Recover], [Leap], [Waterform], [Quickstep]Light Armor: [Dash], [Feather Fall]Shield: [Brace], [Track], [Break]
+
+Weapon Skills: Axes: [Chop], [Whirlwind]Bows: [Sharpshooter], [Longshot], [Scattershot Arrow]Clubs: [Bash], [Paralyze]Daggers: [Slice], [Flourish]Spears: [Thrust], [Sweep]Swords: [Power Attack], [Slash], [Rend], [Shirk], [Violent Storm]
+
+Armor:[Copperplated Hat+3] (Nightmarish+5), (Buttressed+2), (Hardened+2), (Reinforced+1)[Copperplated Coat+4] (Nightmarish+6), (Buttressed+2), (Hardened+2), (Reinforced+1)[Copperplated Leggings+3] (Nightmarish+6), (Buttressed+2), (Hardened+2), (Reinforced+1)[Copperplated Shoes+2] (Nightmarish+3), (Buttressed+2), (Hardened+1), (Reinforced)[Copperplated Gloves+1] (Nightmarish+2), (Buttressed+2), (Hardened+1), (Reinforced)[Silver Amulet]: Socketed with [Chipped Tourmaline] (Tempus)[Silver Ring]: Socketed with [Chipped Spinel] (Vitus)[Silver Ring]: Socketed with [Chipped Spinel] (Vitus)
+
+Weapons:[Copper Scimitar+6] (Nightmarish+8), (Sharpened+4), (Hardened+4), (Reinforced+2), (Stable+2)[Treated Bow+1] (Hardened+1): Socketed with [Chipped Ruby] (Ignis)[Basic Leather Quiver]: Contains 17 [Silver-tipped Arrows] (Elemental+2), (Stability+3) and 3 [Scattershot Arrows] (Elemental+2), (Stability+4)[Stick Grenade]: (Thermal+1)
+
+Tools:[Copper Knife+3][Copper Axe+3][Copper Hammer+3][Copper Pickaxe+3][Copper Shovel+3][Basic Grappling Hook]
+
+Boons:[Minor (Speed)] (x3), [Minor (Sanity)]

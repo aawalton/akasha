@@ -1,0 +1,297 @@
+[Pig Iron Scimitar] = Pig Iron (Bar, 0.40-0.7m) + Wood, (Hard, 0.15-0.2m) + Leather (level 11+, 0.15-0.2m) + 2 Pig Iron (Bar, 1.5-2.5kg) + Twine (Hemp+1, 0.15-0.2m) + [Knife] (Copper) + [Hammer] (Copper) + [Workbench] (Any)
+
+Just need to get through the next few days.
+
+That was it. Once the craziness of this first week past, everyone would get their heads together and approach things more rationally. Then tensions would simmer, and they could figure out how to make this work long-term. Whether Jay liked it or not, time was still counting down, and though he’d done his part when Misha came, there was plenty of high-level food that needed to be sorted.
+
+In the meantime, Jay couldn’t pass the chance to recover what he’d lost.
+
+After his tense encounter with Kevin, Jay had resolved to spend the rest of the afternoon getting his bases together. He’d netted three monster cores above twenty, and finally had the chance to put them to use.
+
+He started with his armor set. His pig iron had done justice to synergize with his propensity for skills, and using medium armor let him balance between mobility with toughness. He’d gotten through more than his fair share of fights through that alone.
+
+With his copper hammer at the ready, he dismantled his iron-plated coat and began to knock his first core in place. Magical essence glittered along its surface, and the Guide buzzed to match.
+
+Level Up! Medium Armor 6 → 7
+
+Passive unlocked: crafted medium armor sets have increased durability.
+
+About what he’d expected. The more important level came from the core right after. He quickly went through the process again, using his highest-level core for the next infusion stage.
+
+Level Up! Medium Armor 7 → 8
+
+New Skill available.
+
+He checked the appropriate page.
+
+[Brace, Basic] – React to an incoming hit by tightening the strength of your armor, reducing the amount of damage upon the next impact.
+
+[Quickstep, Basic] – React to an incoming attack by stepping to the side for a dodge.
+
+Normally, this would be the part where Jay would run through mental calculations, but he’d had the foresight to spend time doing “Investigate Skills” research, and knew which would come next. [Bulwark] came after [Brace], and negated knockback by greatly increasing poise before a hit. Meanwhile, [Quickstep] evolved into [Redirect], which worked like an armor-based form of [Parry].
+
+Jay selected [Quickstep] without another thought. As much as he could gain from [Brace], his best defense still remained his speed, and he’d seen enough from Hyuk to understand how much value it gave.
+
+He checked his remaining monster cores. Most would fit well in his armor set for extra strength and skill energy, but one would be needed to infuse into his other craft.
+
+Jay studied his latest bow. Unlike the wooden one, this “Treated Bow” had been cured with resin, which had been a bitch to come by since it apparently only came from pine trees, a rarity in this biome, and the only source of surface-side softwood.
+
+But it was worth it, and once his research had been completed and his craft finished, the reward came through.
+
+Level Up! Bows 5 → 6
+
+Special Ammo available.
+
+Well, this is a new one…
+
+[Lightning Arrow] – A projectile type that travels faster than normal, requiring upscaled [Fletching] to be produced.
+
+[Hardshot Arrow] – A projectile type that pierces more effectively than normal, requiring upscaled [Arrowheads] to be produced.
+
+[Scattershot Arrow] – A projectile type explodes on impact, inflicting area damage, and requiring upscaled [Shafts] to be produced.
+
+[Magnet Arrow] – A projectile type that hones in on targets, requiring [Gravitas Essence] to be produced.
+
+Jay had performed a basic “Investigate Skills” research to identify the second tier, but he hadn’t realized that the level 6 slot would provide a different option for bows. It seemed that melee weapons so far gave combination attack skills, armor provided the stance options, and ranged weapons gave skill-based ammunition. Like the stance, he could only pick one option here, but unlike the combination attacks, it didn’t depend on the skill selection before.
+
+There was one caveat. According to elsewhere in the Guide, his special ammo quantity was limited by half his current Craft level, meaning he could only carry three at a time right now.
+
+This still created an interesting set of options. The special ammo types scaled by available arrows already, so the silver-tipped ones he’d invested in could be modified, or he could pick up a different metal altogether. That opened the option for pig iron to stack with the benefit of using a skill-based arrow. Alternatively, he could just prioritize copper and maximize damage output…
+
+Jay rubbed his eyes and selected [Scattershot Arrow]. Especially right now, the last thing he needed was to divide his time, and his bow had been built around using elemental damage. What better way to upgrade that than by turning a bow into a shotgun?
+
+As he combed through the Crafting tree, a special notation appeared below each arrow craft, denoting the extra shaft upscale requirement for his new [Scattershot Arrow] recipe.
+
+I’ll test this later.
+
+Jay still had other plans for today.
+
+He went back to the research table, now with his level-ups resolved. Gently, he placed his Guide and flipped through the Crafting tree until landing on his current options.
+
+Crafting – Swords
+
+Research Requirements: Examine crafted [Pig Iron Sword] for required length of time and/or expend desired material into table’s board to reduce maximum time.
+
+Update Modifiers: 4-16 hours, or Wood (Hard, 200-300kg) + Twine (Any, 50-75kg) + Bone (50-75kg)
+
+Unlock Heavy Sword Sub-Craft: 4-16 hours, or Wood (Hard, 250-375kg) + Twine (Any, 50-75kg) + Bone (75-90kg)
+
+Unlock Curved Sword Sub-Craft: 4-16 hours, or Wood (Hard, 250-375kg) + Twine (Any, 50-75kg) + Bone (75-90kg)
+
+Unlock Straight Sword Sub-Craft: 4-16 hours, or Wood (Hard, 250-375kg) + Twine (Any, 50-75kg) + Bone (75-90kg)
+
+Unlock Piercing Sword Sub-Craft: 4-16 hours, or Wood (Hard, 250-375kg) + Twine (Any, 50-75kg) + Bone (75-90kg)
+
+Investigate Skills+2: 15-35 hours, or Pig Iron (Bar, 1500-2000kg) + Twine (Hemp, 200-300kg) + Wood (Hard, 1500-2000kg)
+
+Unlock Silver Sword: 30-90 hours, or Wood (Hard, 4000-6000kg) + Twine (Any, 500-750kg) + Silver (Bar, 2500-3750kg)
+
+This was where Jay really needed to go next. He’d been analyzing his fight against Hyuk since it first happened, playing over the individual moves in the back of his mind, again and again. His curved silver sword reminded him of the cutlass he’d once looted, but some of his attack types varied compared to what Jay could do himself. At first, he’d assumed that this was the result of the weapon itself, but the more he thought it through, the more it seemed to have changed the skills as well. That [Slash] was beyond ordinary, even after accounting for vitality differences.
+
+This left the most logical option: Sub-Crafting. The idea behind this part of the Crafting tree was that someone could specialize in categories beyond the main Weapon Crafts, just as Naomi used muskets over bows, and Sayid used a rapier in place of a sword. The research buy-in was admittedly quite low, though Jay suspected that this only unlocked the option for Sub-Craft research, rather than providing explicit recipes.
+
+Here was where Jay had to be careful though. From what he’d gathered elsewhere in the Guide, only one Sub-Craft could be selected for every ten Crafting levels.
+
+No, he could not begin specializing flippantly.
+
+If skills are affected, then what works best with my current kit? The answer to this question was clear. Both [Slash] and [Rend] would function best with a curved blade like Hyuk used, and would therefore see this benefit most.
+
+But what about the steps after? Jay had only chosen these skills out of immediate necessity, not for long-term goals.
+
+Heavy swords could perhaps work as his greatest buff, assuming that they stacked with [Power Attack] well. That was where most of his damage came from anyway, and where he’d been able to net the most kills, even with his medium build.
+
+Piercing swords wouldn’t be bad either. Though Sayid had failed against Viktor, Jay had seen how well he’d been able to land critical hits against that D-Rank troll. Coupled with the movement buffs he’d been giving himself, then he could eventually become a force in that front.
+
+Then there were straight swords, the most balanced choice of all. This no doubt aligned best with the sword type he had been using until now, though perhaps with added modifications that could aid in their situational usages.
+
+Jay stroked his chin, weighing the options. What would work best with his build? What could he synergize most effectively with his medium armor and speed boosts, along with the skill affinity he’d relied upon until now?
+
+He knew the choice.
+
+Research Selected…
+
+Time Requirement rolled (Core Modifier: None).
+
+Resource Expense rolled (Core Modifier: None).
+
+Research Now Available.
+
+Jay leaned forth and braced for impact.
+
+Crafting – Swords
+
+Current Research: Unlock Curved Sword Sub-Craft
+
+Time Remaining: 6 hours, 11 minutes
+
+Resources Expended: 0/278.5kg Wood (Hard), 0/51.2kg Twine (Any), 0/86.9kg Bone (Any).
+
+He grinned. This was amongst his best rolls, for both time as well as mats expended, and could be resolved in a fraction of the total time needed.
+
+He also felt buttressed by the choice. Curved blades worked with his current skill choices, and he’d see too much speed and mobility from Hyuk to throw the opportunity away. Because there was one simple truth: If someone of lower vitality had held their own against him, then what would happen with his current optimized value?
+
+His hunting spree also left him with a plethora of bones, hardwood could be found aplenty at his end of the world, and the twine could be pulled straight from the mountain in the form of vines, so it could be collected within the hour.
+
+In the end, Jay was done in twenty minutes.
+
+Crafting – Swords
+
+Current Research: Unlock Curved Sword Sub-Craft
+
+Time Remaining: 3 hours, 6 minutes, 30 seconds
+
+Resources Expended: 278.6/278.5kg Wood (Hard), 51.2/51.2kg Twine (Any), 86.9/86.9kg Bone (Any).
+
+Damn… He’d gone over ever-so-slightly with the hardwood, but everything else checked out.
+
+Jay stared at the sun, still burning bright in a sea of navy blue. Then, he examined his pig iron sword with all the modifications. He could see the fine intricacies, the metalwork he’d invested in, the way the hilt worked with the guard. He imagined alternatives.
+
+There were so many different possibilities waiting to be uncovered…
+
+He blinked. The sun had moved again.
+
+But the deed was done.
+
+Research Complete: Unlock Curved Sword Sub-Craft
+
+But when the board changed, something unexpected happened…
+
+Crafting – Swords
+
+Research Requirements: Examine crafted [Pig Iron Sword] for required length of time and/or expend desired material into table’s board to reduce maximum time.
+
+Unlock Curved Copper Sword: 3-12 hours, or Wood (Hard, 150-250kg) + Twine (Any, 40-50kg) + Copper (Bar, 250-375kg)
+
+Unlock Curved Pig Iron Sword: 3-12 hours, or Wood (Hard, 150-250kg) + Twine (Any, 40-50kg) + Pig Iron (Bar, 250-375kg)
+
+Update Modifiers: 4-16 hours, or Wood (Hard, 200-300kg) + Twine (Any, 50-75kg) + Bone (50-75kg)
+
+Investigate Skills+2: 15-35 hours, or Pig Iron (Bar, 1500-2000kg) + Twine (Hemp, 200-300kg) + Wood (Hard, 1500-2000kg)
+
+Unlock Silver Sword: 30-90 hours, or Wood (Hard, 4000-6000kg) + Twine (Any, 500-750kg) + Silver (Bar, 2500-3750kg)
+
+Unlock Curved Silver Sword: 40-100 hours, or Wood (Hard, 4500-7000kg) + Twine (Any, 550-800kg) + Silver (Bar, 3000-4500kg)
+
+This is turning into a good day. Even though he’d lost the ability to specialize into different Sub-Crafts, the cost to advance appeared to have been refunded by the extra amount of research he’d put into getting copper and pig iron swords. Meanwhile, to get into silver swords required much more time and mats, though he could still reduce that by selecting regular silver swords first and hoping for the best.
+
+Jay looked back to the sun, at his bench, and the stockpile of supplies that slowly dwindled by the day.
+
+He could afford to put in a little more work…
+
+It only took another few hours from there. The mats investment ended on the higher end, but the time roll went well. Jay did what he could to get the recipe in order.
+
+Buzz.
+
+Congratulations! You have created your first Sub-Craft weapon, Expatriate. These specialized Crafts not only allow for different recipes for their Main Craft, but leveling Sub-Crafts will provide special Skill Mutations. These mutations come half as often as normal Skills, and each Skill can only be mutated once, so you’d better choose carefully!
+
+Level Up! Curved Swords 0 → 1
+
+Crafted curved blades can now be dismantled without a material loss.
+
+He studied the final result.
+
+It reminded him of a scimitar, with the pig iron of the blade curled at an unnatural bent, but with more mass at the base. Like the cutlass he’d gained before, except now produced of his own design.
+
+...And he still had one monster core left.
+
+Level Up! Curved Swords 1 → 2
+
+Crafted curved blades have increased damage.
+
+Skill Mutation available
+
+Jay consulted the Skill page.
+
+Unlike normal skill selections, the only options displayed were those he’d chosen before for Swords. [Slash], [Rend], [Power Attack], and [Parry] were all able to receive this mutation, and based on the details that followed, all would receive an increase in reflex speed, but only when using curved blades.
+
+It made sense. Even though Jay entered the fight against Hyuk with superior strength and speed, the way his opponent could launch his [Slashes] bridged that gap and then some. Had it not been for the pemmican diet boost, he would not have won that fight.
+
+Jay once again contemplated the results.
+
+He knew which would work best.
+
+* * *
+
+The mid-afternoon sun fell across the jagged peaks of the island center, casting long shadows throughout the ravines and canopies below. A wall of fog drifted across the central peak, where Jay had not quite reached yet.
+
+No, he was still only about halfway there, marching through a location he’d been once before. A river flowed beside, pouring into the lower plains where he’d escaped from this last encounter.
+
+The reeds quaked ahead. Jay gripped his sword tight.
+
+The monster sauntered into the open. Its small body mass was nothing to roll over in fear, but an endless line of razor-sharp quills exploded across its back. As its frenzied, chestnut eyes narrowed into his own, the quills pointed his way, like missiles ready to launch.
+
+The level 34 quickfire quill pig screeched. A volley of quills raced forth.
+
+Jay [Leaped] sideways, dodging this first bout. More quills grew to replace those lost, peppering the underbrush and trees behind. Jay dodged all with ease.
+
+This wasn’t like the first round. His gear was better, vitality higher, and experience greater. He did not force this engagement without knowing how it would go from the start.
+
+He pivoted into the charge. The quill pig’s eyes widened, watching the sudden, bold change in tactics. More quills grew, ready to bring him down.
+
+But Jay wasn’t concerned by what this monster could bring. It was no longer a threat.
+
+Just a test dummy.
+
+The quills launched forth, only to be knocked aside as he nudged their trajectory out of the way with lightning-fast reflexes. The quill pig squealed and fired more, but to no effect. Jay’s arms moved of their own accord, the tip of his curved blade hitting the quills with exactly enough force to send them off-course, protecting his body from all damage.
+
+No, this was no longer him using [Parry]. This was [Shirk], the evolved, mutated version of his starting skill. By merely adopting the power of a Sub-Craft, his defensive capabilities with his sword had skyrocketed, almost to the power of his old roundshield with [Track]. So long as his gear had the energy needed to maintain this skill, nothing could stop him.
+
+The quickfire quill pig squealed as Jay closed in, seeing that its time had come. Desperately, it tried to fall back itself, but there was nowhere to go. Jay still remembered exactly what its Fauna entry revealed about it.
+
+Quickfire Quill Pig (level 33-35) – A giant porcupine capable of shooting its quills at a rapid pace. This monster is weaker at close range.
+
+Jay entered its threat radius and demolished the monster with a few quick [Slashes].
+
+He exhaled, drinking in the victory. To think how little time ago it had been since this monster had almost taken his life. But now? He rolled through without ever being at risk.
+
+Jay was still growing stronger, despite the shade cast on this island.
+
+Even if alone.
+
+Shouts resonated nearby. Jay perked his ears. With the perception-boosting tea he’d popped at the start of this fight, he could hone in on its exact location.
+
+…Along with identifying the voices of his friends.
+
+“I fucking told you,” Naomi echoed as he closed in. “This was my kill!”
+
+Ben growled. “You don’t get to just declare a kill is yours because you saw it from a mile away.”
+
+“I didn’t just see it, you dipshit. I got the first hit.”
+
+“You mean this little thing? Give me a break, you dinged it, and barely, at that.”
+
+Jay entered the clearing. Naomi stood on one end, her iron musket in hand and hunter’s cloak pulled in tight. Ben grimaced on the other side, a fresh pair of goggles to replace the one he’d lost, and construct standing behind.
+
+Unlike the others Jay had seen, this monstrosity towered well over eight feet tall, with reinforced plating covering every inch from head-to-toe, and blue alchemical eyes burning like two miniature suns. Four arms spread wide to either side, two gripped into fists, while the others spun with their own mechanical drills.
+
+And in the center between his two friends, a dead elephant lay, its tusks bent and broken, and hardened flesh shattered from a flurry of wounds.
+
+“What’s going on here?” Jay asked.
+
+“Stay out of this!” Ben snapped before turning back to Naomi. “Face it. You don’t have a leg to stand on with this one. I killed this elephant, so I get everything from it.”
+
+She gripped his musket tight. “You sure about that, Ben?”
+
+“Whoa, hold up guys!” Jay shouted. “What are you doing? You’re both friends!”
+
+“I’m not going to let this selfish prick take what’s mine.”
+
+He scoffed. “And I’m not dying because you feel you’re entitled to anything. The rules have changed, Naomi. Adapt or die.”
+
+“Oh, I’ll show you how to adapt…” She started to raise her rifle.
+
+The drills on the construct spun faster as Ben stared on.
+
+But Jay jumped between. “Seriously, stop with this shit! You’re both fighting each other when you should be fighting Viktor.” He turned around. “Come on, Naomi. It’s like you said. This is what you’re trying to avoid.”
+
+She stood in place with clenched teeth, considering his words. For a moment, he wasn’t sure what would come next, but then Naomi turned on her heels and marched away without another word.
+
+Jay breathed easy, and though it was tough to see with his goggles, the subtle gulp in his throat suggested that Ben was just as relieved.
+
+But still, this was no victory.
+
+It would only happen again the more this went on. And again. And again. And again.
+
+Until there was no one left standing.
+
+Other than Viktor.

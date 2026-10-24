@@ -1,0 +1,233 @@
+[Basic Bandages] = Twine (Hemp+2, 0.3-0.6m) + Aloe Vera (0.05-0.1kg) + Chamomile (0.02-0.04kg) + Water (Fresh, 0.1-0.2L) + [Campfire] (Any)
+
+Another brutal night.
+
+Jay gasped in pain, the blood spilling from his Wounds, twisted black under the light of the crimson planet. He hobbled across his plateau, the bodies of his enemies scattered throughout.
+
+His sword was heavy in his arms, his limbs ached in a dozen places, and the putrid odor of burnt manifestations hung like an anchor in the air. If it hadn’t been for that Hail Mary trap of exploding his firesap reserves, he wouldn’t have been able to pull this off.
+
+But it worked. He’d survived the night.
+
+Again.
+
+Can’t keep this up. It had been a few days since Viktor arrived with his blackmail scheme, and Jay had barely recovered from that first encounter. The Wound he received was bad enough, but it was the resource tax he’d been forced to drop whenever Misha came by that proved the most disastrous. With the added rise in Natura to hunt for meat he had to surrender a day later and no chance to gain levels, surviving the night had never been harder.
+
+At least I’m not alone.
+
+Jay stared across the plateau he had conquered for himself and into the harbor beyond. He studied the ruined shells of the E-Rank boats, along with the quiet lull that their harbor had fallen under.
+
+Thunderous booms echoed from the beach, right where Naomi’s shack lay. Even from a distance and without [Sharpshooter], he could make out movement with the perception-boosting tea in his veins.
+
+A raid had come for her, its composition a motley of manifestations he’d never seen before, the verdant green light puppetting them forth. As the monsters closed in, Naomi fired round after round of her musket. Ichor exploded out, and the manifestations slowed.
+
+But there were too many of them, and Jay watched his friend scramble about in the same desperate fight as him. Claws cleaved through her cloak, vines whipped her raw flesh, and teeth chomped on what remained. Her disciplined shots grew more feverish as she wore her enemies down.
+
+Jay wished he still had his radio. It had once been the tool he used to keep in contact with his neighbors, but the moment Viktor reared his head, they had all disappeared, and he hadn’t seen any sign of them since.
+
+Only Naomi.
+
+She fought in the exact same spot each night, the same as him. And despite the impossible odds, she always found her way through. As her Natura sent its forces in one final charge, Jay watched her do the same again tonight.
+
+A pincer strike closed in, with larger and quicker monsters moving for her flank, all while she skipped across the open sand.
+
+Jay grinned, knowing what would come next.
+
+Night turned to day as one of the manifestations hit a landmine, the explosion resonating out. Another went off seconds later, and another after that.
+
+The monsters up front were engulfed at once, but those in the back had only spared themselves a few short seconds. Naomi had buried her landmines deep enough to not be triggered by pressure plates alone, so the moment the first went off, it created a chain reaction that destroyed everything else like dominoes falling into each other. Jay had first seen her use this technique a couple weeks back, and Natura had never been able to catch up to it since.
+
+Naomi collapsed into a dune, exhausted. She raised her fist and pumped hard, knowing that another victory had been gained.
+
+And Jay stood and watched, also on the cusp of collapse himself. Even with this gap between them, he still at least felt good knowing that others were going through this together.
+
+That was not enough, however. Viktor had only shown up for a few short days, and already, he’d frozen everyone in their tracks. Without the ability to progress through the Crafting tree, Natura would continue to rise until no one could keep pace.
+
+There was no choice. Jay couldn’t just sit here and be helpless against this shifting tide.
+
+He had to make a plan to see this through.
+
+* * *
+
+The march into the harbor had to be slow, careful, and done in the light of day. Though he’d made the trek more than once, that was usually under the guidance of others. The northwest side was where the defenses were weakest, but he’d seen enough dead monsters and manifestations to know that he couldn’t tread lightly.
+
+Not every trap could be seen by the naked eye. Some could be right before his face, and he wouldn’t know it.
+
+Regardless, Jay reached the shoreline without incident, hooking along the ridge where the land was most stable.
+
+He reached the very spot where Viktor had addressed everyone, now no more than windswept sand getting hit by the steady, metronomic waves.
+
+Jay shook his head and kept moving.
+
+Naomi’s shack lay on the eastern side of the harbor, with a giant bloomery standing proudly behind and her territory bordering the mines beneath Ben’s base. The remnants of the intraspace explosion still appeared nearby, leaving a massive crater against the shore. The ocean had since reclaimed the hole where the wandering tyrant fell, but the scars remained, a testament to the moment Jay finally found the courage to work with others.
+
+That much gave him hope.
+
+He knocked on the door. Though Naomi’s shack was made of palm and dried thatch, iron bars had been fused to the windows, with shutters sealed behind. No one could see in, though he suspected she could look out.
+
+The door opened an inch. Jay’s eyes narrowed on a musket barrel pointed right at his face.
+
+“What do you want?” she asked.
+
+“We have to get together and figure this out,” Jay said. He glanced around the harbor. “Where’s everyone else?”
+
+Naomi scoffed. “Where do you think? Ben and Desmond hightailed it inland.”
+
+“What? Why?”
+
+“Back to playing the lone wolf, huh?” She lowered her musket and ushered him in. “Come on, you might as well sit down.”
+
+Jay inched through the door.
+
+He wasn’t sure what to expect. For a woman of her Rank, one might think they’d have lavish chambers, with all the amenities that could be gained through the power of the Guide. options increased the further one progressed, so why wouldn’t they go all out?
+
+Not Naomi though. A crude bed made of sticks and woven reeds sat in one corner, some similar shelves ran along the length of the walls where her reinforced windows hadn’t been placed, and the only lighting came from a tiny furnace where she seemed to cast some metals, a far cry from the bloomery outside. Even her workbench was unimposing, though it had been reinforced with iron bars over the base one that he used.
+
+Jay found a place to sit on a chest in a corner while Naomi returned to her bed. He hadn’t noticed outside, but her body was once again clothed beneath a layer of bandages, dried blood caked where her skin wasn’t exposed.
+
+Naomi leaned back. “Should’ve left after the leviathan. That other island is where we belong. Now though? Without our boats, we’re fucked, and they take days to replace. More than enough time for that asshole to catch anyone if he keeps his guard up.”
+
+Jay nodded. Another demonstration had occurred a day before, where he caught sight of someone zipping out of the island on a raft, only to get blown up before it ever cleared the reefs, Viktor keeping watch from the hills nearby, his strange rifle smoking.
+
+Jay couldn’t see much from his plateau, but he could make out the red-tinted seawater and charred severed limbs floating nearby.
+
+Naomi shook her head. “Can’t do anything without those boats either. The only alternative is to brave the Evershadow, and the chances of successfully navigating my way to a different island makes that the most suicidal plan of all.”
+
+“What happened here?” Jay asked.
+
+Her dark eyes pierced deep. “Viktor happened. After that stunt of his, he came back for a second round, just to show that there weren’t any “misunderstandings.” We thought we could beat him if we prepared better. We were wrong.” She grit her teeth. “He’s stronger than all of us combined, especially with that bear he’s managed to tame. Another power he must have earned for being so high Rank.”
+
+“I thought Ben said he was only E-Rank.”
+
+Naomi shook her head. “No way with his speed and strength. He’d have to be D to move like that, easy. Not enough Boons in the world could compensate, and I didn’t see any signs of alchemic or mechanical augmentation.”
+
+“But that would mean he’d need a D-Rank diet to maintain his vitality, right?” Jay asked.
+
+“And that makes even less sense. We’ve only survived here for so long because we hunted on the other island.” She gestured out into the sea, where the deciduous E-Rank island remained, now free from the threat of the wandering tyrant.
+
+“That’s how these Ranks play out in the real world,” she continued. “The better your diet, the stronger you become. But Natura can only rise. It does not recede. Once you’re strong enough for E-Rank threats, you can’t go back. Only at the dead center of this island could we stand a chance to upscale enough food, and it’s still a nightmare with the reduction penalty from our Expat Cores. Those MREs found in cairns only go so far.
+
+“Hell, I’ve only managed to survive by supplementing my stockpile with whatever I can scrape from the top of the Evershadow. Without the other island to hunt, we would’ve been forced out long ago. These islands aren’t designed to be permanent residencies.” She stared into the horizon, onto the other island. “I’ve got to get out of here. Can’t stay trapped like this.”
+
+“Maybe there’s a chance to build something in secret?”
+
+“And maybe I’ll die before I’m halfway through. I think I’ll stay here until I see an opening. Otherwise…” She buried her face in her palm. “I can’t believe this is happening again.”
+
+“What do you mean?”
+
+“When I was first Expatriated, I found myself on another island, just like this one, same as you. Just trapped with a group of strangers in a world where monsters attack at night and we build whatever we need to survive by hand, all while following the guidance of a book given by Eldritch gods.
+
+“The problem is that it didn’t end there. Not where I started. The Grand Bargain wasn’t given to anyone, remember? Rapists. Murderers. Thieves. Terrorists. That island was about one-fourth the size of this one too, so you don’t have to be a genius to guess where that goes.”
+
+“People started robbing each other?” Jay asked, thinking back to what Naomi did during their first encounter.
+
+She shuddered. “Worse. Far, far worse. You can survive theft… Hell, you know that as well as anyone… But think of the bigger picture. In a world where burning mats leads to strength, everyone around you is a killer, and there are no laws, then what do you think will happen the longer time goes on?
+
+“Even if you choose to be moral, do you trust your neighbor to be like you? Better yet, do they trust you?
+
+“It was pandemonium within the month. Pure, brutal chaos. If the night didn’t get you, then someone during the day would take the chance. There was no better way to ensure your survival than to eliminate the competition before they could do the same to you.
+
+“That’s when I met Ben, Desmond, and Sayid. We realized what was happening would only kill us all. Even though we knew nothing about each other, we somehow made it work.
+
+“Of the sixty people on that island, only the four of us survived. Everyone else either died fighting us or by one of Annwyn’s threats. When we left that shithole in search of better land, we knew that we could never sit by and watch that happen again.”
+
+“That’s why your group pushed so hard to keep the peace,” Jay considered. “It’s as much within your interest as anyone else’s to keep competition non-violent.”
+
+“Correct. More than that, none of us could stomach facing so much violence again.” Naomi sighed. “Viktor brought this dynamic back here though. His worldview pits people against each other, adding an extra element that none of us can hope to overcome.” She shook her head. “How the fuck did he get that strong?”
+
+“Maybe he’s upscaling all the food he’s collecting?” Jay suggested.
+
+“No, that’s not possible. There are at least fifteen phases between F-Rank and D, if not more. With the Core penalty for whatever Craft he picked, it would be like crushing an entire desert into a single grain of sand.”
+
+“Why does he want us to collect all that food then?” Jay asked.
+
+“He’s starving us.”
+
+The answer came from behind.
+
+Jay turned to see Sayid leaning against the doorway. Where his friend had once stood tall and proud, the bags were now heavy beneath bloodshot eyes, and his oiled hair had grown unkempt.
+
+“Thought you left me too,” Naomi said. “Where have you been hiding?”
+
+Sayid chuckled. “I have been enjoying a little relaxation.” He coughed, and even from the distance, Jay could taste something foul on his breath.
+
+“What the hell is that?” Naomi asked, wrinkling her nose.
+
+“It is called ‘Strangler’s Poison’. The longer it is in your system, the more it leaks blood into your lungs, until you can no longer breathe, regardless of your current vitality.”
+
+“Why would you drink that?” Jay asked.
+
+“Because in the early stages, it dulls the senses. Almost euphoric.” He sighed. “And there is nothing else in this hell-hole.”
+
+Naomi scoffed. “So you’re drunk then. Got it.”
+
+A thin smile etched his otherwise chapped lips. “That is one way to consider it, yes. But it makes no difference. Viktor Kuznetsov will do the same to us all. Just as this poison will slowly wear me down, so too will we wither and die under his thumb.”
+
+“Why you saying that?”
+
+“Is it not obvious? He burns the food we collect.”
+
+Jay considered the prospect. Yes, that made sense. By destroying the food, he’d be artificially keeping everyone else down. It would be impossible to grow a vitality high enough to hold their own against him.
+
+If ever someone wanted to ensure their supremacy, that’s how they’d do it.
+
+Jay wouldn’t struggle against this tactic anytime soon, fortunately. After the D-Rank leviathan fell, he’d come up with his own trick to balance his vitality. As long as he kept it secret, he’d be in the clear…
+
+And yet, something was still missing here. Something he couldn’t quite place.
+
+“You sound like you’ve heard of Viktor before,” Jay said. “Did you meet him on another island, Sayid?”
+
+“No, Jay. My time with this demon came from far before then.”
+
+The two of them watched their companion. A cloud passed overhead, casting a shadow onto his hardened cheeks.
+
+“There once was a village in my home country of Syria. Al Bamman. It was nothing to brag about. No more than eighty people living a quiet life. The world would have never heard of it were it not for one man. One whom you Westerners would call a ‘terrorist leader.’
+
+“When the war began and the Islamic State formed its caliphate, everywhere became touched. Ideology is a fire that burns all in its path, so when the Sunnis fought the Shia in the government, no one was safe from the conflict. Not even this small village.”
+
+He sighed. “But this is not so unique for my country’s history. No, this war would not have been so long were it not for the foreigners and their interests. Americans, Turks, Iranians, Russians… It was the last who proved the downfall of Al Bamman.
+
+“The Russians were after that one man, you see. They believed that by capturing one of the caliphate’s top leaders, they would withdraw from the region. Their best Spetsnaz soldiers were sent to this end, with no orders other than to capture their target at all costs.
+
+“They did not care that the man they sought was long gone, nor that the people of Al Bamman supported no one in the war. They only knew that their terrorist leader grew up in this village and wished to extract any information they could to track him down.”
+
+Sayid closed his eyes and breathed deep. “Women, children. Old, young. It did not matter. The Russians interrogated them all using the means they saw fit. When no answer proved satisfactory, those who had survived their torture were lined up at the village center and executed, one after the next.”
+
+He opened his eyes, now hardened despite the fatigue. “Viktor Kuznetsov was the officer in charge of that mission. ‘The Butcher of Al Bamman,’ we later learned to call him. A monster in human form.”
+
+A hush fell over the room as Jay and Naomi took this in. His stomach churned at the thought of all that casual brutality.
+
+“This is the man we are dealing with now,” Sayid continued, eyes still locked on them, “and that is why it is fruitless to think we can defeat him. Some men are born with evil in their hearts. If you wish to know why he is here, it is for no reason other than to see his violence inflicted.”
+
+Jay groaned. “First the leviathan, now a war criminal.” This just gets better and better… He tried to think about how best to leverage this information, but came up short. If Viktor was willing to do shit like that when there were laws, then what would he be capable of in a place like Annwyn?
+
+“If we know where he came from,” Jay considered, “then I’m sure there’s something we can do.”
+
+That seemed to amuse Sayid. “You can do whatever you wish, Jay. I will go back to enjoying my poison.”
+
+He turned and walked away.
+
+“Wait!” Jay called out, a thought coming to mind. “You said he’s ruthless, but was he successful? Was he able to capture that terrorist leader in the end?”
+
+Sayid paused in the doorway and tilted his head an inch. Even cast in the light of the sun, the wrinkles in his brow shrouded his weathered face.
+
+“No,” Sayid said. “They did not find me until far later.”
+
+Name: Jay Reis (Copper Age)
+
+Vitality – 99/99Hunger – 69/72Thirst – 24/24 Fatigue – 41/48Sanity – 74/100 (Confused)
+
+Main Crafts: Alchemy 2, Armor Crafting 2, Base Building 3, Cooking 2, Jewelry 2, Medicine 2, Tailoring 2, Tool Crafting 3, Weapon Crafting 2.Weapon Crafts: Axes 5, Bows 5, Clubs 5, Daggers 5, Spears 5, Swords 9.Armor Crafts: Heavy Armor 5, Light Armor 5, Medium Armor 6, Shields 6.
+
+Character Skills:[Forbidden Knowledge]
+
+Armor Skills: Heavy Armor: [Push], [Stampede]Medium Armor: [Recover], [Leap], [Waterform]Light Armor: [Dash], [Feather Fall]Shield: [Brace], [Track], [Break]
+
+Weapon Skills: Axes: [Chop], [Whirlwind]Bows: [Sharpshooter], [Longshot]Clubs: [Bash], [Paralyze]Daggers: [Slice], [Flourish]Spears: [Thrust], [Sweep]Swords: [Power Attack], [Slash], [Rend], [Parry]
+
+Armor:[Pig Ironplated Hat] (Affinity+2), (Hardened+2), (Reinforced+1)[Pig Ironplated Coat] (Affinity+2), (Hardened+2), (Reinforced+1)[Pig Ironplated Leggings] (Affinity+2), (Hardened+2), (Reinforced+1)[Pig Ironplated Shoes] (Affinity+2), (Hardened+2), (Reinforced+1)[Pig Ironplated Gloves] (Affinity+2), (Hardened+2), (Reinforced+1)[Silver Amulet]: Socketed with [Chipped Tourmaline] (Tempus)[Silver Ring]: Socketed with [Chipped Ruby] (Ignis)[Silver Ring]: Socketed with [Chipped Ruby] (Ignis)
+
+Weapons:[Pig Iron Sword+3] (Affinity+5), (Hardened+2), (Reinforced+2), (Stable+1)[Wooden Bow+3] (Elemental), (Reinforced+2): Socketed with [Chipped Ruby] (Ignis)[Basic Leather Quiver]: Contains 20 [Silver-tipped Arrows] (Elemental+1), (Stability+1)
+
+Tools:[Copper Knife+3][Copper Axe+3][Copper Hammer+3][Copper Pickaxe+3][Copper Shovel+3]
+
+Boons:[Minor (Speed)] (x3)

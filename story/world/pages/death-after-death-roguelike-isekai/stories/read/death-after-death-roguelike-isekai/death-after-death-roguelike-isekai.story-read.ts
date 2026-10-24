@@ -1,0 +1,40 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const deathAfterDeathRoguelikeIsekai = {
+  id: "01a16c3f-7f84-7178-a019-ad561f5f7128",
+  type: "page-type/story-read",
+  slug: "death-after-death-roguelike-isekai",
+  author: "DWinchester",
+  following: false,
+  unit: "unit/words",
+  title: "Death After Death (Roguelike Isekai)",
+  world: "world/death-after-death-roguelike-isekai",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "58180",
+      externalLink: "https://www.royalroad.com/fiction/58180/death-after-death-roguelike-isekai",
+    },
+  ],
+  externalTags: [
+    "GameLit",
+    "Portal Fantasy / Isekai",
+    "Time Loop",
+    "Progression",
+    "Psychological",
+    "Action",
+    "Fantasy",
+    "Mystery",
+    "Dungeon Crawler",
+    "Low Fantasy",
+    "Magic",
+    "Male Lead",
+    "Reincarnation",
+    "Supernatural",
+  ],
+  publicationStatus: "ongoing",
+  readLater: true,
+  createdAt: "2026-10-24T04:51:03.172Z",
+  updatedAt: "2026-10-24T04:51:03.172Z",
+} as const satisfies StoryRead

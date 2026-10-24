@@ -1,0 +1,305 @@
+[Minor Healing Potion] = Lifeberry (+2, 0.2-0.5kg) + Essence (Vitus, 0.3-0.65L) + Essence (Sanguis, 0.1-0.25L) + Water (Fresh, 0.2-0.5L) + Bonemeal (Level 21+, 0.25-0.4kg) + [Cauldron] (Any, 370-380°K)
+
+An arrow flew straight for Jay’s face.
+
+Only through the power of [Shirk] did he knock it aside in time.
+
+But that did nothing to stop the other two. One struck his leg while the other bounced off a metal plate in his coat.
+
+Kevin proved more lucky. Before the second volley came, he dove behind his pile of ore for cover. The arrows landed harmlessly beside them.
+
+Whatever doubts Jay could have about where they stood went away the moment the two made eye contact.
+
+They were both victims here.
+
+Jay [Leaped] for Kevin’s hiding spot, but the motion was awkward with the Wound to his leg. He landed at half the distance and slid through the mud the rest of the way. Rain continued to pelt the ground from the Voidstorm, now supplemented by arrows from above.
+
+“Did you see them?” Jay asked.
+
+Kevin rubbed his beard. “No. What about you?”
+
+He stared into the jungle, but with night owl still in his veins, there was nothing but a miasma of grays mingling against a backdrop of black, blurring slightly. He shook his head to no avail. Too much was happening.
+
+More arrows fell, but the pair ducked before they could land.
+
+“Where the hell are your weapons, anyway?” Jay asked.
+
+“Inside.” He scoffed. “Thought I could take a day to relax… Ah!” Another arrow collided with his cabin, just inches from his head. “Cover me. We’ll stand a better chance there.”
+
+Jay nodded. Even though they’d been arguing moments before, his hot rage gave way to the cold reality they were under now.
+
+There was a time and a place to be melodramatic, and this moment was neither.
+
+Right now, they had to get through this together.
+
+Jay pressed for the shack’s door, with Kevin right behind. More arrows flew, but now that he saw them coming, he could [Shirk] them aside with ease.
+
+Most of them, anyway. His arm moved slower than normal, his curved sword heavier than it should’ve been. A few stray hits came through, though his armor’s plating managed to mitigate the damage. For the most part.
+
+They both crashed through the door, heaving for air.
+
+Kevin sealed the windows at once. His spear and shield were at the ready moments later, though he still moved with a stagger.
+
+He wiped the sweat from his brow. “Still didn’t see anything… What about you?”
+
+“Nothing.” He peered through a crack in the wall, but between the rain and the colorless vision, he could make nothing out.
+
+Then he saw them.
+
+Just at the edge of sight, shadows shuffled from one bush to the next. They moved too quickly for Jay to get a clear look and were gone within moments of appearing.
+
+But they were definitely out there. Like wolves in the dark, their enemies were closing in.
+
+“Got some,” Jay said.
+
+“Me too,” Kevin replied. “How many?”
+
+“Can’t tell. You?”
+
+“N– Wait, shit.”
+
+“Huh?”
+
+Kevin grit his teeth. “That fucking piece of shit…”
+
+Jay closed in and peered through the same gap as him. His heart skipped a beat as he took in the same sight.
+
+Right in the middle of the clearing, their enemy stood. Though his teeth were a bright alabaster in a sea of jet-black skin, his mad smile was crooked with the scar across one cheek. His dull brown eyes watched on with a frenzied greed, and the veins of his muscles bulged as he twirled his pig iron mace around, as if it were a toy.
+
+“Come now!” Amadi hailed, still spinning his mace. “Do you both expect me to stand here all day?”
+
+“What do you want, asshole?” Kevin shouted back.
+
+“Time is running out, and we must all do our part. You don’t want someone to get killed, do you?”
+
+“Why don’t you do your part then? Last I heard, you guys have plenty of food, but haven’t given up any.”
+
+His smile widened further. “Someone has to stay strong to keep the peace.”
+
+The truth clicked together, and Jay clenched his fist. No wonder they weren’t getting through.
+
+“You guys are playing right into Viktor’s hands!” Jay yelled. “He doesn’t want henchmen. He just wants supremacy by pitting everyone against each other.”
+
+Amadi yawned. “Jay, my friend, you talk a big game, but we all heard how brutally you attacked Hyuk. Could it be that you are the one holding out against everyone else, hm?”
+
+“What’s he talking about?” Kevin asked, the sweat continuing to build.
+
+“It’s a long story,” Jay said, his own head hurting. Since when did it get so hot in here?
+
+“Very well,” Amadi said. “We’ll give you twenty minutes to make the smart decision, and then… Well, things will not be pleasant if you insist on staying stubborn.”
+
+There was something about the way he stood there. A certain blasé confidence. As if he didn’t expect them to make it half that long.
+
+Jay blinked, and for half a second, there were two Amadis outside, swinging their maces. The walls began to shift, and his legs got heavier.
+
+Kevin did not look much better. Bags grew below his eyes, and a glassy malaise formed over his pupils. Even though he held his gear close, he leaned against the wall for support.
+
+Jay’s eyes widened as he realized what was happening to them. He yanked the arrow from the metal plate in his coat. The purplish grease still stung to its tip.
+
+Sleepgrease.
+
+Frantically, he ripped open the Guide for the full damage report.
+
+Name: Jay Reis (Copper Age)
+
+Vitality – 89/99
+
+Hunger – 62/72
+
+Thirst – 18/24
+
+Fatigue – 4/12 (Sedated+3)
+
+Sanity – 76/100
+
+There wasn’t much time to act.
+
+He ripped the jar of antitoxin from his backpack and downed it, but the sedation effect only dropped two phases.
+
+“Dammit!” Jay shouted.
+
+Kevin yawned. “What is it?”
+
+He tossed his reserve antitoxin over. “Drink this.”
+
+“What about Rule f–”
+
+“Just drink it!”
+
+Buzz.
+
+Kevin guzzled the antitoxin at once. His pupils dilated.
+
+Jay had been sedated before by a few poisonous monster types. Like poison, this Condition would wreak havoc on his fatigue if untreated, reducing the total cap while plummeting the time left. Also like poison, the more phases applied, the stronger the antitoxin needed to clear it. Even if he drank a gallon of medicine, it wouldn’t be strong enough without first upscaling it, and that was before his own vitality reductions.
+
+No, they weren’t out of this. They’d only bought themselves more time.
+
+“We’re going to have to beat them before the sedation wears us down,” Jay whispered.
+
+Kevin set aside his own Guide with a grimace. “I know. You ready for that?”
+
+He wasn’t. If this took place at home, he’d have an entire arsenal of tools and potions at hand. But he hadn’t expected to run into a fight by going to meet up with Kevin. Today was supposed to be about mending wounds.
+
+Now, though? Jay had a mostly empty backpack, a handful of potions, and his regular mining tools. Had this been a week back, Jay would have been able to use his semi-automatic pistol he kept in the small of his back for protection, but Viktor had stolen that. He’d since replaced that gun with the smoke grenade he’d looted from a cairn a while back, but that was hardly a worthwhile replacement.
+
+But maybe…
+
+“How good has your gear gotten?”
+
+“+3 with my armor cores, but only +6 for the reinforcements.” He frowned. “My spear and shield aren’t much better.”
+
+Jay gaped. “Did you say ‘only +6’?”
+
+“Yeah, been too busy to keep up. Why?”
+
+There were many ways to strengthen gear in this strange world, from empowering their full potential by inserting monster cores to upscaling the individual mats to create artificial buffs on top. By putting in the time and grinding out, one could keep upgrading their weapons and armor to survive against all threats, and the Wyrms had even given their human soldiers a Core of their own to facilitate this process.
+
+Jay had been denied this last tool upon his own reincarnation, and only now did it hit him how much fate had screwed him over.
+
+Kevin was a decent guy with a quick temper, but when it came to efficiently handling Annwyn’s threats, Jay had always come out on top. Hell, most of their Rule 5 violations had come from him exposing a new trick.
+
+And yet… Despite how much better Jay was at manipulating this game-like world, his friend had somehow gotten ahead by so much?
+
+Was Jay really so far behind?
+
+“Just do me a favor, and stay in front when we get out there,” Jay said, shaking off the thought.
+
+Fixating on the injustices of the world would gain them nothing.
+
+Kevin laughed. “Easy for you to say.”
+
+“All my Craft levels are in the single digits,” Jay explained, “and without an Expat Core, I haven’t been able to bump my armor to be anywhere close to yours. Whether you want it or not, you’re still the toughest of the two of us.”
+
+“Really?”
+
+“My vitality is much higher than yours and everyone else’s though. Combined with my Boon and amulet, my speed is on a completely different level. We can use that against them.”
+
+“Wait, how the hell did you get yourself up so high with everything going on?”
+
+Jay stroked his chin, considering the truth more closely. Yes, he had no choice but to reveal this much as well. Both their lives depended on it.
+
+“What’s your current vitality at?” Jay asked.
+
+“Forty-five,” Kevin said. “Why?”
+
+“What about your hunger?”
+
+He stared at him suspiciously. “Down to the thirties. Why do you ask?”
+
+Jay did a mental calculation, then grabbed his extra pemmican and held it forth. “Here, have this. It’ll get you good enough for this fight.”
+
+“That’s just pemmican,” Kevin pointed out. “Isn’t it?”
+
+“No, it’s not.”
+
+Their Guides buzzed with the massive Rule violation, and Kevin studied the entry as soon as he held it.
+
+He gasped. “You’ve had this the whole time!?”
+
+“Just eat it. You can call me an asshole again later, but we still need to deal with Amadi and his goons first.”
+
+Kevin wavered in place, his face a medley of shock and anger, but with another low heave, he stuffed the pemmican in his mouth.
+
+The result came moments later. Once anyone ate food, their vitality adjusted to their new diet balance, and with the strength of pemmican+25 in their system, that threw everything else out. Jay didn’t need to see his Stats to know that his ally was well into the eighties, if not higher.
+
+Jay explained the plan more thoroughly from there, being as quick as possible. They’d only bought themselves another thirty minutes, max, before needing to sleep. Even without the sleepgrease wearing them down, they’d still have to deal with an ever more difficult night. Things would only become far worse after Kevin handed him his backup roundshield.
+
+Buzz.
+
+Did it ever end?
+
+Finally, the two hobbled into the open, their weapons close at hand. Amadi remained in place, still smiling like a madman.
+
+“Was that so difficult?” he asked.
+
+“Fuck you,” Jay said.
+
+“Lay your weapons down.”
+
+“Absolutely not.”
+
+Amadi casually raised a finger and snapped. Another half-dozen arrows whizzed through the air, missing the two of them by mere inches.
+
+“Lay your weapons down,” Amadi repeated.
+
+They both looked to each other before tossing them.
+
+“Good, now your backpacks.”
+
+There was no choice but to comply.
+
+Amadi nodded. A pair of men came out from the shadows of the woods and rushed for the house, their own backpacks in hand. Crashes came moments later as they started raiding Kevin for everything he was worth.
+
+“Why are you doing this?” Kevin asked. “I thought we were chill, bro.”
+
+“We are,” Amadi said, still grinning. “This is just business.”
+
+“This isn’t going to end the way you think,” Jay said.
+
+“And what do you think it is that I think?”
+
+“You’ve seen the writing on the wall,” Jay explained. “Naomi’s group wanted to keep everything non-violent, but Viktor only cares about being the strongest one around. However, even in this scenario, there’s plenty of room between the ceiling and the floor of the food chain.
+
+“That is why nobody’s contributing. Your group has been taking it all. By forcing undue pressure onto everyone else and hoarding the island’s supply of food, you’ve deduced that we’ll fall faster and you’ll rise up, effectively exploiting the crisis for personal gain. So long as the food gets delivered before the time’s up, who cares?” He stared deep. “Is that it?”
+
+Amadi watched him like a serpent about to devour its prey. “Very clever, Jay. I see why you hid down here for so long. You understand the higher truth that we live under. The kind that only this world could expose.”
+
+Jay scoffed. “There’s no truth to any of this. You’re just a delusional asshole who gets off by terrorizing others.”
+
+“Used to know guys like you back where I grew up,” Kevin agreed. “Always hustling, never working. I can’t believe I ever thought you had a shred of decency.”
+
+He smacked his lips. “You Americans love to preach about your virtues, but they are all meaningless constructs. Without your military supremacy, you would adopt the truth to save your own skins. Spare me the hypocrisy.”
+
+“Don’t hide behind some warped philosophy as justification to be a bully,” Jay said. “This is all your choice.”
+
+Amadi raised a finger. “Not so. There is a story I once heard as a boy, from an American mercenary, no less.
+
+“Two men are walking through the woods when they come across a tiger. One man takes off his hiking boots and replaces them with running shoes. The other man asks what he is doing. ‘You do not think you can outrun a tiger, do you?’ The first man only smiles. ‘I do not need to outrun a tiger. I only need to outrun you.’
+
+“That is not just the nature of this world, but of all life. I learned this far too well, growing up in a small village in the Congo. You see much when you are where we were, trapped between two armies fighting over a cause that no one understands. You experience much in this environment. You lose much. And at the end, you discover that the world is filled with tigers. More than you can ever count. You either become one yourself, or you run as fast as you can so it can devour someone else.”
+
+Jay blinked through the blurring vision, the sedation still catching up. “And that’s what you’re doing then? Running so Viktor kills someone else?”
+
+He pointed to his scar. “A very, very long time ago, I made the mistake of thinking I could fight a tiger. It cost me the life of my brother and sister, and nearly took my own. I learned to run for many years, always a step ahead of those that are weaker.”
+
+He smiled. “But then one day, I had a son to protect. No longer could I just run. I had to become something else. Something stronger. I soon turned into that very tiger prowling through my country, devouring those who could not run from me fast enough.”
+
+The men came back outside, bags filled with food on hand. Jay and Kevin winced, knowing there was still nothing they could do.
+
+Amadi sighed. “Now, you both can see the truth too. This man – Viktor Kuznetsov – he will catch the slowest and the weakest before he moves on, and only the strong will survive.” He clenched his fist, his dull eyes exploding in rage. “And I will not get caught by this trap again! My son is still young. He needs his father’s protection. No matter what it takes, I will see him again!”
+
+Jay looked to Kevin, who stared back. No words were needed. They were both on the same page.
+
+Yes, it was about time. While Amadi had gone through his rant, the two of them had been keeping their eyes on the trees, and with night owl now flushed from Jay’s system and the perception-boosting tea in their veins, they knew where all their enemies stood. There was still time left.
+
+Enough to give them a chance, anyway.
+
+Jay took a step forth, resolved to see this through. “You might think you’ve cracked some universal code by preying on the weak, Amadi, but you’ve forgotten a more important truth.”
+
+Amadi chuckled. “And what ‘truth’ is that, Jay?”
+
+He pulled the smoke grenade from the small of his back. The other men’s eyes widened as he flipped the pin.
+
+Jay gleamed. “Tigers can die too.”
+
+Name: Jay Reis (Copper Age)
+
+Vitality – 89/99Hunger – 62/72Thirst – 18/24 Fatigue – 28/36 (Sedated+1)Sanity – 76/100
+
+Main Crafts: Alchemy 2, Armor Crafting 2, Base Building 3, Cooking 2, Jewelry 2, Medicine 2, Tailoring 2, Tool Crafting 3, Vehicles 1, Weapon Crafting 2.Weapon Crafts: Axes 5, Bows 6, Clubs 5, Daggers 5, Spears 5, Swords 9.Armor Crafts: Heavy Armor 5, Light Armor 5, Medium Armor 8, Shields 6.
+
+Sub-Crafts: Curved Swords 3.
+
+Character Skills:[Forbidden Knowledge]
+
+Armor Skills: Heavy Armor: [Push], [Stampede]Medium Armor: [Recover], [Leap], [Waterform], [Quickstep]Light Armor: [Dash], [Feather Fall]Shield: [Brace], [Track], [Break]
+
+Weapon Skills: Axes: [Chop], [Whirlwind]Bows: [Sharpshooter], [Longshot], [Scattershot Arrow]Clubs: [Bash], [Paralyze]Daggers: [Slice], [Flourish]Spears: [Thrust], [Sweep]Swords: [Power Attack], [Slash], [Rend], [Shirk]
+
+Armor:[Pig Ironplated Hat] (Affinity+2), (Hardened+4), (Reinforced+1)[Pig Ironplated Coat] (Affinity+2), (Hardened+4), (Reinforced+1)[Pig Ironplated Leggings] (Affinity+2), (Hardened+4), (Reinforced+1)[Pig Ironplated Shoes] (Affinity+2), (Hardened+4), (Reinforced+1)[Pig Ironplated Gloves] (Affinity+2), (Hardened+4), (Reinforced+1)[Silver Amulet]: Socketed with [Chipped Tourmaline] (Tempus)[Silver Ring]: Socketed with [Chipped Ruby] (Ignis)[Silver Ring]: Socketed with [Chipped Ruby] (Ignis)
+
+Weapons:[Pig Iron Scimitar+3] (Affinity+5), (Hardened+2), (Reinforced+2), (Stable+4)[Copper Roundshield+2] (Hardened+6), (Reinforced+5)[Treated Bow]: Socketed with [Chipped Ruby] (Ignis)[Basic Leather Quiver]: Contains 17 [Silver-tipped Arrows] (Elemental+2), (Stability+4) and 3 [Scattershot Arrows] (Elemental+2), (Stability+4)
+
+Tools:[Copper Knife+3][Copper Axe+3][Copper Hammer+3][Copper Pickaxe+3][Copper Shovel+3]
+
+Boons:[Minor (Speed)] (x3)
