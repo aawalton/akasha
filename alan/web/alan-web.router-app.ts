@@ -35,6 +35,7 @@ export const alanWeb = {
   viteConfig: "ts",
   server: "ts",
   sidebarBoot: "js",
+  schemeBoot: "js",
   siteIcon: "svg",
   gitIgnore: "gitignore",
   testPreload: "toml",
@@ -96,5 +97,5 @@ export const alanWeb = {
   ],
   toolReached: ["react-dom"],
   createdAt: "2026-09-01T06:38:44.740Z",
-  updatedAt: "2026-10-18T13:18:27.586Z",
+  updatedAt: "2026-10-24T19:53:05.822Z",
 } as const satisfies RouterApp

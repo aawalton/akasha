@@ -19,6 +19,7 @@
 {"pageTypeSlug":"code-file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"route-test","propertySlug":"test","fileName":null,"folderName":null}
 {"pageTypeSlug":"code-file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"router-config","propertySlug":"router-config","fileName":"react-router.config.ts","folderName":null}
 {"pageTypeSlug":"code-file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"rust","propertySlug":"rust","fileName":null,"folderName":null}
+{"pageTypeSlug":"code-file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"scheme-boot","propertySlug":"scheme-boot","fileName":"public/scheme-boot.js","folderName":null}
 {"pageTypeSlug":"code-file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"server","propertySlug":"server","fileName":"server.ts","folderName":null}
 {"pageTypeSlug":"code-file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"server-entry","propertySlug":"server-entry","fileName":"entry.server.tsx","folderName":null}
 {"pageTypeSlug":"code-file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"shell","propertySlug":"shell","fileName":null,"folderName":null,"writtenBy":"scripting"}

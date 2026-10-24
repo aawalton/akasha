@@ -20,6 +20,7 @@
 {"propertySlug":"import","fileName":"code-file-property.page-type.types.ts","path":"code/router-app/properties/root-route.code-file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"code-file-property.page-type.types.ts","path":"code/router-app/properties/route-table.code-file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"code-file-property.page-type.types.ts","path":"code/router-app/properties/router-config.code-file-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"code-file-property.page-type.types.ts","path":"code/router-app/properties/scheme-boot.code-file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"code-file-property.page-type.types.ts","path":"code/router-app/properties/server-entry.code-file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"code-file-property.page-type.types.ts","path":"code/router-app/properties/server.code-file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"code-file-property.page-type.types.ts","path":"code/router-app/properties/sidebar-boot.code-file-property.ts","typed":true,"deferred":false}

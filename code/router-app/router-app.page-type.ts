@@ -15,6 +15,7 @@ export const routerApp = {
     "code-file-property/server",
     "code-file-property/server-entry",
     "code-file-property/sidebar-boot",
+    "code-file-property/scheme-boot",
     "code-file-property/vite-config",
     "file-property/compile-config",
     "file-property/placeholder-image",
@@ -42,6 +43,7 @@ export const routerApp = {
     { pageProperty: "code-file-property/server", required: false, many: false },
 
     { pageProperty: "code-file-property/sidebar-boot", required: false, many: false },
+    { pageProperty: "code-file-property/scheme-boot", required: false, many: false },
     { pageProperty: "file-property/placeholder-image", required: false, many: false },
     { pageProperty: "file-property/site-icon", required: false, many: false },
     {
@@ -98,5 +100,5 @@ export const routerApp = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-02T21:08:34.603Z",
-  updatedAt: "2026-09-27T04:43:24.000Z",
+  updatedAt: "2026-10-24T19:53:05.822Z",
 } as const satisfies PageType

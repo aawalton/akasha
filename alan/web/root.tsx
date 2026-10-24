@@ -128,6 +128,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
         <Meta />
         {}
         <script src="/sidebar-boot.js" nonce={nonce} suppressHydrationWarning />
+        <script src="/scheme-boot.js" nonce={nonce} suppressHydrationWarning />
       </head>
       <body className="font-sans antialiased">
         <SurfaceProvider level={0} background={false}>

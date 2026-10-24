@@ -7,6 +7,7 @@ import type { RouteTable } from "akasha/code/router-app/properties/route-table.c
 import type { RouteTypesDirectory } from "akasha/code/router-app/properties/route-types-directory.build-folder-property.types.ts"
 import type { RouterAppGitIgnore } from "akasha/code/router-app/properties/router-app-git-ignore.file-property.types.ts"
 import type { RouterConfig } from "akasha/code/router-app/properties/router-config.code-file-property.types.ts"
+import type { SchemeBoot } from "akasha/code/router-app/properties/scheme-boot.code-file-property.types.ts"
 import type { Server } from "akasha/code/router-app/properties/server.code-file-property.types.ts"
 import type { ServerEntry } from "akasha/code/router-app/properties/server-entry.code-file-property.types.ts"
 import type { SidebarBoot } from "akasha/code/router-app/properties/sidebar-boot.code-file-property.types.ts"
@@ -25,6 +26,7 @@ export type RouterApp = Domain & {
   viteConfig?: ViteConfig
   server?: Server
   sidebarBoot?: SidebarBoot
+  schemeBoot?: SchemeBoot
   placeholderImage?: PlaceholderImage
   siteIcon?: SiteIcon
   gitIgnore?: RouterAppGitIgnore

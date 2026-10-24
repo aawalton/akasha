@@ -2079,6 +2079,7 @@
 {"propertySlug":"decision-kind","path":"code/router-app/modules/rendering/router-app-rendering.module.ts","id":"01a08e0c-9954-75c1-9e79-f74a78e53f01"}
 {"propertySlug":"decision-kind","path":"code/router-app/modules/router-context-adapters/router-context-adapters.module.ts","id":"01a08e35-2512-7620-ba36-cc10442965af"}
 {"propertySlug":"decision-kind","path":"code/router-app/properties/root-route.code-file-property.ts","id":"01a063f3-c2ad-7357-b6ab-267960198089"}
+{"propertySlug":"decision-kind","path":"code/router-app/properties/scheme-boot.code-file-property.ts","id":"01a16f79-581f-7591-a124-7a4c95f84aeb"}
 {"propertySlug":"decision-kind","path":"code/router-app/router-app.page-type.ts","id":"01a063f3-c2ab-765b-9c87-954f96167da7"}
 {"propertySlug":"decision-kind","path":"code/router-app/vite-client/vite-client.type-declaration.ts","id":"01a0691f-7e97-7738-b113-fb70b4cf4446"}
 {"propertySlug":"decision-kind","path":"code/running/modules/code-format/code-format.module.ts","id":"01a04edc-5281-769c-8ba8-522d8f569095"}
