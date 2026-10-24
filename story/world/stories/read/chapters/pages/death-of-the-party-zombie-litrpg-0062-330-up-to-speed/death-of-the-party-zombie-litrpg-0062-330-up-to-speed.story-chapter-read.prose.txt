@@ -1,0 +1,159 @@
+[Sally Danger - Human, Zombie][Class: Necromancer][Awakening: Avatar of Life][Affinities: Stamina+, Power, Vitality][Group: Outsiders]
+
+The STAR+ kept things simple. Affinities were based on your personality and life experiences, with most adventurers having two bonuses. These Stats determined what sort of abilities you could learn, which in turn gave you your class. There was still plenty of vague psudeo-magic to it, but it felt like a natural extension to what was there previously.
+
+Sally closed down her Stat window and stretched out, her feet on top of Wolf’s fuzzy stomach as he slept in the arena stands. Dent was a genius for bringing them here for training. While the dusty gladatorial pit had seen little use since the sword tournament, the System imposed a very important rule in this small area.
+
+If you died in the pit, you would be resurrected outside.
+
+Naturally, this made it the prime location for the Outsiders, Guardians, and Sanctuary’s Bastion to go all out and train against each other. The downside was that it had to be a structured and limited fight. They had to take turns.
+
+Other than the large bear, who lay upside down wedged between rows of seats with his tongue lolling out, the rest of the Outsiders sat with her in this area of the otherwise empty stands. Max idly cut through a pack of cards one-handed. Ren had an eagle-eyed glare focused on the pit occupants. Archie was busy writing in his own arcane tome, barely paying attention to the proceedings.
+
+In the oval ring, a dozen feet down from the raised sands, Theo faced off against Humphrey. The rest of the Guardians—aside from Wolf—were currently having a pep talk with Dent in one of the staging areas. Dotted around the rest of the seats were several members of Bastion, but they were mostly keeping to themselves or in small groups.
+
+Theo stood casually, one hand in his pocket while the other held his sledgehammer on his shoulder. The sunlight reflected off his glasses, making them appear pure white. By contrast, the Death Knight stood with his massive greastword at the ready, crimson flame lapping at the back of his helmet. Empty eye sockets regarded the vampire with thinning patience.
+
+“If you’re hoping things will go the same as in the tournament, I’m afraid things have changed.” Theo grinned.
+
+“Better yet, I am looking forward to humbling you in a real fight.”
+
+Theo narrowed his eyes and used Confirm Identity.
+
+[Humphrey Danger - Former Observer][Class: Death Knight][Awakening: Champion of Sanctuary][Affinities: Vitality+, Stamina][Group: Sanctuary’s Bastion]
+
+“Aha, you managed to acquire your own Awakening.” Theo grinned again. “I knew something was off when you suddenly turned down the Guardian offer.”
+
+Humphrey grunted. “I should have expected you to have some way of spying on my details. Such an insidious ability suits you, bloodsucker. Are we to battle, or does this new information give you pause?”
+
+“The only pause I’d enact is to yawn. How about this - round one, no abilities?”
+
+Humphrey's skeletal face grinned. “A display of pure martial prowess? Yes, let's proceed.”
+
+[New Duel Starting][Theo Danger v Humphrey Danger]
+
+The Death Knight adjusted his form, sword tense. Theo hadn't budged from his overconfident posture. With a flash of metal, Humphrey darted forward and swung his first attack in.
+
+Despite his size, the plated knight executed his precise strikes with ease. Theo hopped away from the initial swing, but had to use the shaft of his hammer to block the second and third follow-ups. The pair became entangled in a dance of flickering weaponry and practised maneuvering.
+
+“This should be interesting.” Max stopped shuffling his cards. “Theo has been rather coy about showing off his power in front of us so far.”
+
+Ren gave the barest shake of her head. “He is being solely defensive here. If he is on the back foot, it is only because he chooses to be.”
+
+“Still,” the magician continued, “I've never seen such quick movement from a knight-type Class.”
+
+The former Outsiders hadn't been sitting idle while the rest were out on other worlds. It was impressive that Humphrey had earned an Awakened Class in such a short time, but in a way, he was built for it. Ever since he was just a floating Observer he had tried to protect Sally, and now he put all that care into keeping Sanctuary safe.
+
+Theo slid back as the Death Knight struck him with the pommel of the greatsword. “Oof. You're not going easy on me, are you, old man?”
+
+Humphrey grunted and changed stance. “It's not often my training dummies talk back to me. Will you start putting in some effort too, or are you hoping I'll tire early?”
+
+“I don't want to use up all of my energy before the more worthy opponents have a go.” He shrugged, driving the nail in further. “I'll give you time to buff up to make it worth my while.”
+
+The flames at the back of the Death Knight’s head grew wilder. “Your arrogance will be your undoing.”
+
+A wash of yellow light covered Humphrey before a second green one followed.
+
+“Iron Defense and Greater Fortitude,” Theo noted. “Next you'll do Weapon of Judgement and Compel Duel me.”
+
+The greatsword burst into golden flame as the knight pointed it out toward the vampire. “No,” Humphrey intoned, his voice deep and emotionless.
+
+Theo's sledgehammer bounced softly on the sandy ground. “Oh, that's new.”
+
+[Marked for Penance][Target is rendered unarmed for 6 seconds]
+
+Humphrey wasted no time. Taking one large step forward, he whipped down the blazing sword for a heavy downward strike.
+
+With a calm expression on his face, the vampire raised his left hand and caught the falling blade. He cocked his head, eyes near black behind his glasses. The golden flames along the sword flickered before snuffing out. After a brief hiss, both colorful buffs lighting the Death Knight fizzled away.
+
+“Not a very flashy Ultimate, I'll admit. Futility gets the job done, though.”
+
+Humphrey wrenched the blade away from Theo's grip and pushed through into shoulder-charging the smaller man. In return, the vampire just raised his fists and lashed out, weaving into the attack instead of avoiding it. The repeated clang of force did little to disrupt the heavily armored knight, but the two spun around in a fresh melee all the same.
+
+“This seems more like a show than a fight,” Max said. “An exhibition.”
+
+Archie didn’t look up from his writing, but twirled a free finger. “Rather than toying around, he is most likely probing to see if he can get anything tangible from the duel. My bet is no.”
+
+Ren pulled a face. “Seems a little unfair then, no? Even if they both technically have Awakened Classes.”
+
+With a smile on her face, Sally continued watching the pair fight. “People often assume I'm the strongest around as they see me on the posters flexing my pitiful biceps. I'm just the one with her hands on the steering wheel.”
+
+“Still... we're all Aspects, are we not?” Max removed his purple top hat and adjusted his messy hair. “We should be in a similar ballpark.”
+
+The zombie opened up her STAR+ for a moment before closing it again. “Permission to take charge, Archie?”
+
+After a brief pause, the wizard gave her a dismissive wave. “Granted.”
+
+“Neat.”
+
+[Duel Canceled]
+
+As the pair in the ring stopped and deliberated between each other, those in the stands looked over at Sally with confusion and suspicion.
+
+“Those two would stalemate for hours purely for ego’s sake.” She rolled her eyes. “We're here to progress and learn a little something along the way. You two are going to fight Theo.”
+
+“Us?” Max raised an eyebrow. “Are you sure that is fair?”
+
+Sally kicked her foot gently. “You listening, Wolf? Wanna help your pals in a fight?”
+
+The bear smacked his lips as he rolled upright awkwardly between the rows of seats. “Sure.” He yawned. “As long as I get to eat afterwards.”
+
+Before anyone could protest further, the call to arms went out.
+
+[New Duel Starting][Theo Danger v Max Russet, Ren Russet, Wolf]
+
+The trio vanished from the stands, and the Death Knight blinked away to one of the staging areas. Sally relaxed back in her chair and sighed. “What do you think, Arch? A bit too far?”
+
+“While I am the official head of the Outsiders, you are still the beating heart of the group. Delegation is natural and preferred, especially when it comes to matters involving the fighting competencies of our members. You know best.”
+
+“Ah.” She deflated slightly. “You coulda just said yes or no. I figure either Theo beats them into shape, or they push him further.”
+
+Archie paused his scribe duties to glance her way. “We both know the intended outcome of this ploy; let's not kid ourselves.”
+
+Theo picked up his sledgehammer and dusted the head off. He peeked at the new opponents over the top of his glasses. “I see you both have Passives that block me from checking your Stat sheets. Although Wolf is an open book.”
+
+“I am a bear.”
+
+Max adjusted his hat. “This seems a little ill-conceived. Not to doubt your abilities, Theo, but two Aspects and a Guardian is... Well, it won't be a long show, I imagine.”
+
+“It's not the crowd I hope to entertain.” The vampire rested his hammer on his shoulder once more. “Do you know how difficult it is for me to find a decent fight? You’ve got most of your memories, so maybe you’ll know what I mean if I say lately I’m giving Saitama.”
+
+The only response was a blank one.
+
+Ren had her rifle gripped tightly, but hadn't raised it yet. “He is the Aspect of Death, trickster. I'd say that puts him within his right to be able to pull off these odds.”
+
+The magician was on the fence. It was certainly plausible. Theo had seemed competent and powerful when helping on his world, and here in Sanctuary he was much stronger. Either way, the fight would come down to a couple of quick, decisive actions. Especially if he was looking for something specific, as Sally had suggested.
+
+“I’ll give you a minute to strategize.” Theo tilted his head. “Then we’ll get this over with so that others can use the arena.”
+
+Ren begrudgingly followed Wolf as Max gestured them over, a slight distance away so that the vampire couldn’t listen in.
+
+“He isn’t going to hold back,” the magician began in a hushed tone. “We’ll use numbers to our advantage and try to kill him within our first few moves. Wolf up front, Ren at a distance, and I’ll stick to the middle. Make it so that he can only attack one of us at a time.”
+
+A simple plan, as was often the best when stakes were high. After agreeing, they prepared themselves and gave Theo a nod.
+
+The duel began as soon as Wolf’s attitude changed. With a surge of power, he burst toward the vampire in a blazing charge, snarl across his face and fur standing on end.
+
+Ren vanished, switching places with her dove on the other side of the pit. She immediately turned, crouching on one knee and bringing her rifle to bear as Piercing Shot swirled down the barrel.
+
+Only to be met with a dense cloud of black smoke covering that half of the arena. Her eyes narrowed. “Magical darkness,” she murmured. Above her, the sky turned black as a crimson moon rose over the far wall of the pit, pitching the entire area in a dark hue of red.
+
+She could sense Max in there, and see the occasional dim flash of purple. Wolf’s roaring was unmistakable as well. Firing blind wasn’t ideal, but the chances of hitting were never zero. As she calmed her breathing, she sent her dove off into the darkness so that Theo couldn’t appear and take her out easily.
+
+The ground shook. Above the sounds of battle rose a terrible, guttural sound. Ren scowled as the dire horn vibrated the air, aching at her elven ears. Even after what she’d endured in the past, there was something about this that chilled her. Max should have dispelled the darkness by now, but maybe they were making a retreat to recover first.
+
+A shape emerged from the edge of the magical fog. Despite knowing it could be an ally, Explosive Shot+ loaded into the rifle.
+
+The deafening knell resounded once more, as something pulled itself into view. A dragon, although its snout was short, with large leathery ears sitting atop its head. It had no skin, and the giant wings were nothing but tattered scraps of decaying flesh over pointed bone. The creature looked more like a golem than a true skeleton, with blood seeping through the cracks of hundreds of mismatched bones. Two bright crimson eyes glared down at the elf.
+
+“Avatar of Death,” she whispered. “Theo really wasn’t messing around.”
+
+That probably meant the other two were dead. All previous strategies out of the window. Judging by how quickly the vampire had taken them out, he wasn’t about to go through the usual motions of testing strength and working on improvement. He had determined nothing was to gain from their duel. Hitting him with any of her abilities would only end up with her in the staging room in a matter of seconds.
+
+Things had happened too fast. Unexpected. She needed control of the battlefield. To be back on normal footing. What she needed was…
+
+The flow of realization felt like a clean river flowing through her head. Even as the macabre Avatar loomed closer, Ren’s body language relaxed and her focus narrowed once more.
+
+With a dry grin on her face, she stood and placed the butt of her sniper rifle into the ground.
+
+“Avatar of Order,” she commanded.
