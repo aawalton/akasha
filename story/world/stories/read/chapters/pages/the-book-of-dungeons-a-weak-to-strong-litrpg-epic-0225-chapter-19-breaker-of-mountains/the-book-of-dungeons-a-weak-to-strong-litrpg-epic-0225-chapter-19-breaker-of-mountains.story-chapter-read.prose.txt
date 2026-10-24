@@ -1,0 +1,145 @@
+Transposing with the rubber elemental dumped it onto the heat sink while placing myself onto the platform. But something huge hit me. An overwhelming, toxic, burning odor shook me out of my stupor. The cool metal against my back made me realize I lay against something hard. Had I fallen backward on the platform?
+
+If something attacked me, I’d be dead. I’d only 22 health—any hit ought to have killed me. And if I lay on the platform, why had it cooled? The air roasted against my skin, so it stood to reason the platform would be hot. I tried to get off the floor but couldn’t.
+
+Red ringed my peripheral vision, so combat hadn’t ended. With Heavenly Favor and Presence still active, I couldn’t have been out long, but somehow a Grappled icon appeared.
+
+It wasn’t easy to see because gray and black smoke obscured my eyes, which teared with irritation. Instead of lying on the platform, I hung from the side of the column. I couldn’t even wiggle my fingers, yet somehow I could move my thumbs. Magnetism showed a field around me so powerful that the interface’s arrows showing polarity obscured my vision. I dismissed the spell.
+
+I tested which parts of my body could move. My chest, waist, and fingers stuck to the column while my legs dangled free. If I stretched, my tiptoes could touch the platform. The rubber elemental’s fumes billowed from the platform below and assaulted my lungs. I needed to free myself.
+
+The game counted health and Asphyxiation as separate survival systems—I could have full health and die from smoke inhalation. Wracking coughs shook me, and a new debuff appeared.
+
+Debuff
+
+Asphyxiated
+
+-1 stamina
+
+Duration
+
+Until you can breathe
+
+The icons hadn’t stacked as fast as they had during my near-drowning in Arlington, but I knew not to dally when a progress bar appeared and slowly counted down my death. Water-breathing tridents would provide no source of aid—nor did it seem like I could wield it with my fingers plastered to the column.
+
+I wriggled my left hand back and forth, pulling my fingers free of the rings around my fingers—goodbye, brass knuckles. By the time I’d worked it free, the Asphyxiated count grew to -3 stamina. Coughing slowed the stacking effect, but it wasn’t a pleasant experience.
+
+My free hand tugged a weight on my chest—the charm I’d used to turn heals into instants. As I twisted out from underneath it, the charm tore from my robe, slamming into the column with a clang. My healing had deteriorated as a solo player, but losing the charm removed a safety net.
+
+Similarly, the belt buckle I’d made in Belden for my Dark Room rope anchored me to the metal. By loosening it, I partially freed myself. After more struggling, my right-hand fingers slipped free from their rings, and I fell to the platform.
+
+The mithril chest plate showed no attraction to the column, which wasn’t a surprise, as I’d seen Magnetize’s arrows breeze through it as if it were invisible. If it had, I’d never escape from the deadly pull.
+
+I lurched away from the pillar of smoke, gasping for air. My lungs filled with fresh air, clearing me of the Asphyxiated debuff and erasing the progress bar displaying my imminent demise.
+
+I gulped hot air and went back into the smoke. I tested my strength against one of my rings—and felt no wiggle. Creeper, too, lay stuck to the column. It had a wooden shaft, but its metal tip felt and looked welded to the surface. Even with a shaft’s leverage, pulling the weapon bent the wood to a breaking point. The spearhead’s point of contact melted. The magnetism welded these objects to the column in just a few moments—in an hour, they would be little more than metallic puddles.
+
+I wrapped my hands around my gear and tried to will them into my inventory, but since I had no control over them, the objects wouldn’t teleport into the game’s interface. Now that I understood how the column worked, I could see the metal splotches wrapping around its surface were other people’s weapons and armor.
+
+I walked around the column, hoping to see a button or lever that would deactivate the device, but spotted no controls. My Wall of Might warped around the column next to my beloved spear—so much for set bonuses. Covering my face with my hands from the heat, I peered over the edge for clues to turn off the magnetism. The column’s base connected to the heat sink assembly, but no controls existed. Perhaps the original engineers could turn off the column or heat sink in the control room, but I’d lost any chance to experiment.
+
+The elemental still melted within the heat sink's prongs, billowing smoke as its arms waved beneath the black eruption of fumes.
+
+I backed away from the overhang, covered in sweat, and looked up. Black clouds gathered at the ceiling like a gathering thunderhead. How could I get through that?
+
+I returned to the desperate chore of freeing my equipment. No amount of strain could budge my items. Gulping lungs of air, I dove into the fumes, finding no success in liberating my lost belongings. I resigned to losing my favorite items only when item descriptions disappeared as they fused into the column.
+
+Not only had the dungeon eaten half my gear, but I couldn’t loot its monsters. Looking for the satyrs would cost valuable time, a commodity too precious to waste on level 16 corpses.
+
+Without a clasp to hold it, I stuck the Dark Room rope into my inventory and ran across the platform. Before the room filled with smoke, I went to the only thing of value in this forsaken place—the darksteel node.
+
+I equipped the only two rings I’d left in my inventory—the Ring of Fireball Diversion and Circle of Temperance. Regulating my body temperature might be a comfort in this heat, although it gave me no strategic advantage.
+
+Magnetize’s interface visualized magnetic fields with arrows. In a cave or stone architecture, the shapes of surrounding objects weren’t easy to see, but in a place of powerful magnets and neutral stone wheels, the surrounding forms became discernible. The little arrows showed I stood beyond the column’s danger zone, so I equipped the Metamorphic Siege Hammer and went to work on the darksteel node.
+
+I swung at the ore and missed. Coughing, I tried again and got the same result. The smoke wasn’t so bad that I couldn’t see something right in front of my face, so there seemed no reason I couldn’t mine the ore.
+
+The Jinxed debuff in my peripheral vision explained my problem.
+
+I growled in frustration and whiffed for a third time.
+
+The indignity of being unable to hit an inanimate object wasn’t helping my bruised ego. Jinx counted for one last kick in the pants on my way out of the dungeon. It took two more swings before I finally connected and began mining the metal.
+
+The canopy of accumulated smoke hadn’t dropped to me by the time I finished pounding the metal. In a space so large it would take time to fill, the heat churned great swaths of smoke, causing Asphyxiated debuffs to flicker in my interface. The real danger came from exiting the dungeon. Above me, the fumes were much thicker, and I couldn’t lose much stamina to debuffs after forfeiting a quarter of my health to the column.
+
+Occasionally, I heard the scream of water vaporizing on the heat sink. The cadence of sizzling water hadn’t changed since I entered. The water clock mechanism rationed its load as if this mountain hadn’t a concern in the world.
+
+After the mining node’s progress bar inched to 100 percent, a watermelon-sized metal chunk fell into my void bag. The nameplate for the darksteel node disappeared, leaving behind a cavity. I put on the Switching Glove, spoke the magic word, and teleported the hammer back to Hawkhurst. The quarry crew might wonder why it’s warm, but they’ll be glad to have it back.
+
+I peered down at the heat sink, but the smoke grew so thick I couldn’t see.
+
+Casting Transpose cost me 40 mana, leaving me with only 15 left. Luckily, I didn’t need to cast Magnetize to see its UI arrows. The interface arrows showed the heat sink and the elemental stuck to it. Its mass had barely burned away, and by the looks of it, the monster would smolder for many days.
+
+I downed a mana potion and invoked Hot Air to raise myself to the ceiling. When the blessing ended, I used Magnetize for navigation and locomotion, zipping through the chamber’s gearbox section. When I first purchased the spell to open temple doors, I never imagined it would become so crucial. While the smoke blinded me, the spell’s interface arrows revealed the room’s contours and surfaces.
+
+The Asphyxiated debuffs stacked faster near the ceiling, where the smoke thickened, and coughing did little good. When I found a horizontal beam, I tossed the Dark Room rope and climbed inside to escape the stacking debuffs. The debuffs cleared, but the smoke penetrated the room’s trapdoor, so I exited soon after.
+
+Eventually, I reached the Slipstream range of the catwalk. Smoke wafted through the grills, choking the place. Feeling along the wall, my hands brushed against the closed doors to the security room. I wouldn’t have enough time to cast Scorch enough to open its doors. I ran toward the catwalk’s other end.
+
+Debuff
+
+Asphyxiated
+
+-21 stamina
+
+Duration
+
+Until you can breathe
+
+Asphyxiated debuffs reappeared in my interface—the only things I could see with my natural eyes. I tried to create air pockets using the Wall of Wind and Compression Sphere, but neither improved the atmosphere.
+
+Using Magnetism as my guide, I crawled up into the water clock room. Pulling out my trident, I plunged my head into a cistern full of rainwater. Breathing the liquid cleared the debuffs.
+
+The shafts on the surface billowed like chimneys. I climbed the rope I used to enter as fast as my arms and legs could scramble. Targeting Compression Sphere at my feet shot me ten feet up the shaft. I barely had enough power to reach the surface.
+
+On the plateau, I crawled from the black vapor exhaust issuing from the earth to fresh air, eradicating 19 Asphyxiated debuffs. Mountain air had never tasted so sweet.
+
+As I lay on my back, coughing, the red periphery of my vision disappeared.
+
+I left combat state.
+
+Congratulations!You are level 28
+
+You have gained a level. You have increased your stamina by 1, willpower by 1, and intelligence by 1. You have received 1 power point. You have 5,167/5,530 experience points toward level 29.
+
+The elemental finally succumbed to the heat sink. What meager bumps from stats I’d received from leveling paled in comparison to my losses. The Pentarch had warned me not to go down there, but I hadn’t listened.
+
+I tallied the cost of my lost items. I’d lost all my rings, including my prize from the centaur fight, the +5 stamina/+5 strength ring. Another +5 stamina ring from the ant swarm was gone. I’d lost a ring that gave a minor bump in my armor and a +1 intelligence ring from Grayton. Losing the Ring of Endurance that I’d taken from Winterbyte also took away its free ring slot. The Wall of Might set bonuses weren’t game changers, but breaking up the set felt terrible—and nothing could replace Creeper. Twisting out of the Light Crossbow’s straps freed my arm from the column, but I don’t remember uncrowning myself from the headband that converted health to mana. By this time, all items had lost their descriptions and lay welded to the column in metallic puddles.
+
+I’d lost my top two pendants, posing a major blow to my survivability. That +2 stamina amulet I’d retrieved from the gargoyle was gone, along with Charitybelle’s old Charm of Rescue, which gave me instant 88-point Restores. I kept my charm against dark magic because I wasn’t wearing it during the fight.
+
+Computer games often cleaned out a character’s inventory whenever power-creep made them too powerful. Was this The Book of Dungeon’s way of keeping the game interesting?
+
+The catastrophe of the dungeon crawl hadn’t hit me until I rolled onto my back and saw an umbrella of smoke. Sixteen holes in Iremont’s plateau issued smoke like an industrial plant.
+
+Crunching gravel caught my attention, and I turned to see what had made the noise.
+
+“I blame myself, boy. I deserve this. People always end up sabotaging me. What were you doing—showing off your cooking skills? Look at this!” Sune Njal gestured to the sky. Tendrils of smoke collected into a plume, like a giant black jellyfish.
+
+“Will this bring the goblins?” A small part of me hoped the daytime excursion wouldn’t attract the attention of nocturnal monsters.
+
+Sune Njal echoed my words sarcastically. “Will it bring the goblins? I’m worried about the orcs. If I don’t bug out, I’ll be guts-deep in orc arrows—maybe some hobs or bugbears. Even if the sky clears by then—which it won’t—they’ll smell it from across the river.”
+
+I could think of no words befitting a reply. How could I apologize for ruining his retirement home? Iremont had been Sune Njal’s haven until I arrived.
+
+“I’m getting my kit and rucking west. Do me one courtesy and don’t follow. Go back the way you came—for all the good it’ll do you. What suffering fool builds a settlement in the middle of the continent?”
+
+“Will the orcs be able to see Hawkhurst from here?” I gestured to the village below.
+
+“Maybe not tomorrow, but they’ll investigate eventually.”
+
+I grunted at the news. “I’m heading northwest anyway.”
+
+My mumbled reply stopped the Pentarch in his tracks. “Straight into goblin territory? Of course, you are. You’ve sent smoke signals into orc territory, so why not agitate the goblins? That makes perfect sense.”
+
+“My mission is to get the relic.”
+
+Sune Njal made a mocking expression. “Mission! No one gives themselves a mission.” He made one last throwing-away gesture and stalked off to his shack.
+
+So went the Pentarch—champion of the goblin wars. Finishing Sune Njal’s lost wisdom quest seemed unimportant now. All his advice the night before had gone through one ear and out the other. The gamer in me heard only one thing—dungeon. Maybe I wasn’t so good at strategy or tactics. Perhaps I should stick to games with penalties like “Lose a Turn” or “Go Back Three Spaces.”
+
+Without a dungeon partner, I would make mistakes. Fabulosa and I talked things through, and the process helped us avoid pitfalls. I had to be more careful. The Book of Dungeons had no saving points where I could replay events for a better outcome.
+
+After performing a Rest and Mend, I summoned Beaker for company. Although his interests varied between shiny objects and high altitudes, I needed company.
+
+The stench of burning rubber hadn’t fazed my griffon. Beaker’s feathers rustled in the winds as he watched the smoke with casual disinterest. The same breeze carried the sixteen black ribbons of smoke. The airborne particulate drifted northeast across the Doublespine Mountains, the orc homelands.

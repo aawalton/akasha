@@ -1,0 +1,131 @@
+Beaker’s flyby blew the goblin king’s stole from around his neck. The fabric sailed into the mob surrounding its former wearer—who took no notice as all eyes drifted skyward. Rezan and General Sturm gestured to the griffon before disappearing into the trees. Their widened eyes betrayed the realization that a fall from such a height presented a danger to his royal majesty. The relic’s levitation power wouldn’t prevent falling damage.
+
+“Good boy, Beaker. When you come back, pick up the goblin with glowing yellow eyes. Get him next!” After I sent telepathic messages to my Familiar, I focused on killing goblins, who now actively avoided engaging me. After a dozen one-shots, they’d learned.
+
+By the time I’d buffed Blood Drinker up to +152, the general mustered the Deathless into a crescent formation around me, giving the army time to disperse behind the honor guard. The king, the general, and two hobgoblin bodyguards stood in the middle.
+
+Most of the goblins rated around level 16 and beyond my one-shot range.
+
+Name
+
+Hardugs, Deathless Honor Guard
+
+Level
+
+16
+
+Difficulty
+
+Easy (green)
+
+Health
+
+230/230
+
+Wasting no time, General Sturm barked the order to attack, and 20 level 16 goblins rushed me. Unlike the army, they showed no hesitation or concern for personal safety. When they reached me, they performed a jumping ability accompanied by a soft chime, signifying a cooldown ability. The jump propelled them faster than a normal leap, catching me off guard, and multiple bogeys found their mark, delivering six hits of around 20 damage.
+
+They vaulted over the circular trench of exposed roots, flying toward me at supernatural velocities. After taking a few more hits, predicting their flight path became easier, allowing me to dodge many subsequent attacks.
+
+Passivity wasn’t part of my game plan, and I delivered as many strikes as I took.
+
+/You hit Hardugs for 172 damage (3 resisted)./Ascended Rezan casts Restore on Hardugs for 172. /You hit Krill for 169 damage (2 resisted)./Ascended Rezan casts Restore on Krill for 169./You crit Neebert for 238 damage (0 resisted)./Neebert dies.
+
+Out of the half dozen attacks that landed, one critically hit a heavy-set goblin bearing a thorny spear, revoking Neebert’s of his Deathless status. But the king quickly negated damage to the other five with Restores, casting heals as fast as I delivered hits.
+
+My internal monologue would involve a countdown to the 19 Deathless had it not been for my wounds. My health pool fell to 134/280, and the leaping goblins gave me no time to cast a Restore, whose six-second cast seemed like a lifetime.
+
+I focused on dodging goblins while praying that Beaker would make his next attack soon. If it had not been for Presence, the Deathless jumps would have been more accurate. While it didn’t blind them, their squinting expressions meant my light interfered with their vision.
+
+Slipstream’s cooldown had almost three minutes left. So much had happened since my Whirl attacks, and I couldn’t believe only two minutes had passed.
+
+More goblins attacked, but they also waited for cooldowns before leaping again.
+
+Rejuvenate became available, and I cast it, bringing me a sorely needed health reprieve. I dodged over half of the attacks, but with almost twenty attackers, the weapons that landed on me cost another 150 damage. After the 88 Rejuvenate, my health dropped to 72/280. I drank a 100-point health potion.
+
+My parries at flying goblins landed three critical hits. Two crits triggered an ability called Downgrade that reduced the double damage to a regular hit—which Rezan promptly healed.
+
+While the Deathless pressed their assault, the horde of lesser goblins held their ground behind the melee. They looked content to let the big boys kill the strange, powerful, glowing human.
+
+The battle bought my pet enough time for another dive, but the goblins readied themselves this time—launching arrows before their officers issued orders to do so. High-pitched twangs filled the air, turning the diving blur of feathers into wisps of green vapor.
+
+/Beaker dies.
+
+Only a little damage dispelled my Familiar. I knew Beaker’s demise to be temporary, but the message crushed my spirits. Blood Drinker’s bonus stood at +154, and it still couldn’t make headway against Rezan’s Deathless.
+
+When Beaker disappeared, a loud cheer from the goblins dampened my sprits. My Slipstream cooldown had over a minute left. Rezan’s Waking Eyes foiled backstabs, and critting him still wouldn’t match his 380 health. I didn’t even know if critical hits could work. He’d gained two levels since we’d last fought and might have picked up the Downgrade power.
+
+Rezan lifted his hands, and some goblins broke off attacks to celebrate. “You defeat the human once again. Soon, you raze his village and enslave his people!”
+
+My best stun, Moonburn, required a six-second channel for full effect—impossible to perform without one of his subjects interrupting my concentration.
+
+I Charged one of the Deathless encircling me. My hit landed a critical success which was Downgraded into a regular hit. Rezan promptly erased the 175-point health reduction.
+
+Instead of fishing for more critical hits, I ran to a clearing and cast Avoid Ammo and Hot Air. The spell wasn’t fast, but the goblins couldn’t reach me before I escaped their reach. Their missile fire only irritated the king and general, who shouted down the feckless attacks.
+
+Before Hot Air expired, I loosened my Dark Room rope from its new clasp and tossed it into the air. I climbed into the null space and pulled the line up after me, disappearing from the goblins’ view.
+
+Through the trapdoor opening, I watched them search the skies and squabble over what to do.
+
+The goblins deliberated longer than I expected. They surprised me by not immediately heading for Hawkhurst.
+
+Loud shouts from their officers quieted the mob while Rezan spoke to himself. “His weapon becomes more powerful with every kill, master. It poses risks to my body—we must flee and conquer larger human cities. No, my pet. Fort Tilbury offers no plunder of value. Then how will we defeat this one?”
+
+From my vantage, I overheard the strange monologue in the Bonepit dialect. I looked to see if General Sturm or a level ten goblin inquisitor named Crooga took part in the conversation. Neither did. Both bowed and waited for Rezan to finish talking to himself.
+
+“Our greatest concern is no more. Esol’s greatest warrior, the woman with the cape, flees north, leaving Hawkhurst defenseless.”
+
+The king referred to Greenie by his goblin name, Esol. How had Rezan known about Fabulosa’s cape? Was someone in our town communicating with him? Hawkhurst’s mail system seemed to be the only viable way to send messages, but Fletcher said only human settlements used it.
+
+Rezan spoke to the general, but I couldn’t hear his words.
+
+Sturm nodded and bowed before addressing the infantry in an unknown dialect.
+
+The army dug a tunnel directly beneath me. Of all the tactics at their disposal, digging burrows was the last thing I expected to see them do with Hawkhurst awaiting. As the hours passed, their work focused on just a few holes, and the amount of earth they expelled meant they'd dug deep.
+
+It seemed like they weren’t allowing me to pick them off one at a time, and the holes stood so close that they probably connected underground, making it impossible for me to destabilize the entrance and bury them alive.
+
+The general’s next orders confused me further. After addressing them, the ranks didn’t disappear underground into the holes as I expected—they briskly departed north.
+
+Only the Deathless remained.
+
+I groaned in disbelief as I realized why the army had retreated. The goblins hadn’t given up. Sending troops home denied me fodder buffing up Blood Drinker. In 24 hours, the weapon would return to +0. They planned to starve my sword of bonuses.
+
+The Deathless remained while the army departed, presumably guarding their retreat. A ring of Improved Eyes circled the ground. I could only use Hot Air once daily, but without the king’s army to comb the terrain, I could easily escape into the forest. It gave me the opening to make another attack, but to what end?
+
+Hit-and-run tactics wouldn’t work against a self-healing force like Rezan and his guards. The only one I’d killed involved a critical hit—the rest used Downgrade. I had a sinking feeling they all spent power points on Downgrade after my lucky kill.
+
+On the bright side, they couldn’t catch me if I ran. As if to taunt me, a new icon popped into my list of buffs, the familiar icon for Exhaustion. My internal clock showed the time to be well after midnight. I’d been pushing hard for the entire day and needed rest—yet doing so would burn precious hours on Blood Drinker’s damage bonus.
+
+The Deathless weren’t going to Hawkhurst tonight. Even though no sun hung in the sky, the goblins hunkered into a defensive position, possibly resetting cooldowns or eating food. I possessed no means to stop them.
+
+The smart thing to do involved getting eight hours of sleep and waking refreshed before the Deathless marched to Hawkhurst. Perhaps I could harry them. The thought of resting overnight in the Dark Room repulsed me. Doing nothing while the citizens of Hawkhurst waited for word from their governor seemed irresponsible and cowardly—but what options had I?
+
+Despite my lack of cooldowns, I dropped out of the Dark Room, flicked the line to unhook its magic rope, and Slipstreamed to the forest floor. If they tried to attack me, I could run. Humans ran faster on the surface, and their jumping ability used a significant cooldown.
+
+I abandoned the idea of Exhausting the goblins by interrupting their sleep after I approached their hole. Rezan himself stood guard. His glowing yellow eyes showed him to be wide awake, which made sense, as goblins were nocturnal. Making no move to attack, he emerged, unbothered by the light of my spell. His implicit offer to fight one-on-one seemed casual as if he didn’t fear me.
+
+Perhaps I could use his confidence to my advantage.
+
+It seemed a perfect opportunity to channel Moonburn without his guards interfering. I channeled it after I came within range. My six-second Moonburn kept him stunned, draining his health to 250. I struck the stunned target, triggering a reactive ability I’d seen before, Downgrade, which ruined my critical hit. Still, my strike brought his health to 89—which he healed after my Stun ended.
+
+The goblin stood, making no attempts to return hostilities. Multiple ribbons of Rejuvenate wrapped around the floating figure.
+
+In frustration, I hacked away at him. Again and again, my 175-point hits and 350-point crits made no headways into his heals.
+
+Rezan stood passively and cast a new spell, almost out of boredom. It appeared instantly, preventing me from Counterspelling it. A yellow bubble encircled him, the visual effects of a buff I hadn’t seen before.
+
+Buff
+
+Halo
+
+Absorbs 500 damage.
+
+Duration
+
+9 minutes, 55 seconds
+
+I lowered Blood Drinker to my side. Between Halo, the Overheal bonus he got from Restore, and the ability to roll ten Rejuvenates on himself, I never stood a chance of bringing him to zero health, even with a ramped-up Blood Drinker.
+
+Based on the description, Halo normally gave 50 extra health to its caster for a minute. It wasn’t an overpowered spell, so I guessed its cooldown probably wasn’t a once-a-day, but once every 5 or 10 minutes, allowing a relic-bearer to cast it every 60 or 30 seconds.
+
+The thing behind the glowing yellow eyes spoke. “You present no danger to me. We and we wish to leave a proposition. Give us Esol and governorship of your settlement, and you may freely leave. We and we offer you this as a bonded promise.”

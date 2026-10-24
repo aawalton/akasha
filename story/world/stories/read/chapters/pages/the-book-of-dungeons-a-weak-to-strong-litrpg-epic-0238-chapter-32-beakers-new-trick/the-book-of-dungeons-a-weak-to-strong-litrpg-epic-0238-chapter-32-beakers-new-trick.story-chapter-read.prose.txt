@@ -1,0 +1,155 @@
+Even though my hike north neared its end, I kept my power points squirreled away, unspent. If I encountered a situation needing Earthquake or Stunning Blow, I’d regret presumptuous purchases. I walked slower, not entirely trusting Beaker’s keen eyes, for I knew goblins slept in burrows during the day. For all his natural hunting skills, my Familiar possessed a poor sense of smell.
+
+The underbrush beneath the canopy alternated between patches of soil and lush tangles of bushes, vines, and roots. All stood still and quiet, but it was never eerie or unpleasant. Beams of sunlight caressed the muggy atmosphere like thin drapes of gossamer. Their canted angles betrayed the sun’s afternoon position.
+
+I weaved around the foliage while Beaker explored the treetops.
+
+The first sign of goblins wasn’t a pile of dirt, a banner, or a snoozing lookout. It came from my loyal pet, sounding the alarm. While Beaker’s call shattered the tranquility, he telepathically echoed his excitement. “I see goblins! Goblins are here! It’s time to hunt goblins!”
+
+I appreciated his enthusiasm but sent panicked mental commands. “Shush, Beaker! Don’t wake them!”
+
+The griffon entertained none of my advice, beating his wings while clinging to tree limbs—as if I’d asked for a baseline to his trumpet solo.
+
+Strangely, the racket hadn’t summoned a goblin horde. Not one green face popped up to investigate. Perhaps a griffon’s cry caused no concern to a subterranean folk, or their slumber ran too deep.
+
+The goblins slept in separate holes. This disorganized army didn’t dig one giant underground barracks. Instead, members fended for themselves, creating hundreds of little hollows throughout the forest. I could use this to my advantage.
+
+When I rounded a tree trunk to see the hole that had caught his attention, no spears or bows poked out of the ground. I saw four holes, almost too small to crawl into, but without direct sunlight or infravision, peering into the darkness proved fruitless.
+
+I cast Heavenly Favor and Presence. Readying Blood Drinker, I looked forward to seeing how the Wall of Wind fared against small opponents. As I rounded a hole, Presence illuminated its contents. Three sets of squinting eyes and bared teeth welcomed me. But they’d dug shallow burrows, not connected tunnels.
+
+The occupants stayed put, but their limbs moved, presumably gathering their gear. Should I rush into the tiny spaces to fight unarmed opponents or face them on even ground in the light of day?
+
+Providence answered me with two arrows in the back.
+
+/Goblin scout crits you for 36 damage (0 resisted)./Goblin archer crits you for 42 damage (0 resisted).
+
+Popping Rejuvenate felt like muscle memory, and I did so before facing my attackers. Their missiles eliminated over a quarter of my health pool, undoubtedly emboldening their comrades. Though close-quarter combat presented dangers, it seemed the surest way to press my advantage of surprise.
+
+Diving into the closest hole shielded me from arrow fire, though it reduced my attacks to awkward slashes with a sword too big for the job. Blood Drinker’s first attack caused only 26 points of damage. For short engagements, the blade possessed no bonuses and delivered below-par damage.
+
+My weapon and elbows bumped against the burrow’s side, feeling like playing billiards in a room too small for a table.
+
+The burrow’s foul stench forced me to cough until my senses adjusted. Presence partially blinded them up close while exposing me to their unsightly features of warts, dripping noses, baggy skin, and scabs—all of which I could deal with if not for the body odor.
+
+Name
+
+Goblin Trapper
+
+Level
+
+6
+
+Difficulty
+
+Easy (green)
+
+Health
+
+52/70
+
+And yet, clumsy slashes claimed the entire hole, and I made quick work of the goblin trio unlucky enough to dig their shelter here. None of Dino’s teaching prepared me for the barbarous stabbing race that I initiated.
+
+The cornered goblins fought ferociously, and their surprising resistance put me off to my Apache-versus-army plan. Their attacks inflicted nearly as much damage as I’d caused. Quaffing a 100-point health potion avoided an embarrassing death against monsters below the game’s experience threshold. The only benefit to my maneuver yielded a +3 damage bonus to Blood Drinker.
+
+It was a start.
+
+At several feet deep, the hole provided only enough space to crouch—barely room for a few sleeping goblins. While it protected my flank, it also reduced my mobility.
+
+And yet, I wasn’t the only one weighing the pros and cons of leaving my hole—for a goblin counterattack never came.
+
+A combat state followed me, preventing me from regenerating through Rest and Mend, so I bided my time, topping myself off with healing spells and one of my many mana potions. I’d set up an alchemy lab to mass-produce 100-point health and mana potions in the manor. Never running out of potions created one factor in my favor.
+
+And yet, it took another ten minutes to reset into peak fighting shape. If each hole cost me a half hour, it would be dark before I made significant progress.
+
+Beaker screamed his head off at my disappearance, so I poked my head out and sent calming telepathic messages. “It’s okay, buddy. I’m fine. Please don’t make so much noise.” Even though his cries might be why the goblins stayed put, I didn’t need to alert the entire army until I’d figured out a rhythm for fighting goblins en masse.
+
+I climbed out of my hole, rousing Beaker, who’d grown bored while I waited for my potion cooldowns to refresh. High in the treetops, he stretched his wings, ready to swoop into action if anything untoward happened.
+
+Bows and crossbows poked out of the goblin holes, yet their wielders made no move to leave until I pushed the issue. I purchased and cast Avoid Ammo. Unlike Mana Shield, which almost invited attacks, Avoid Ammo painted no halo or glow around me. Enemies wouldn’t know if the effect was on or off.
+
+Arrows and bolts assailed me from all angles, but the missile fire careened off my aura at random angles.
+
+Beaker’s head cocked and jerked at every movement. From his treetop perch, he cried and beat his wings in agitation, uncertain of what unfolded below. I tried to reassure him, but he screeched in protest.
+
+My plan avoided killing goblins with magic—mana-intensive spells wouldn’t buff up Blood Drinker. I purposely backed toward one hole, tempting its occupants with ripe opportunities, hoping to prove their ranged attacks could do no harm.
+
+Not flinching at every blur of motion took getting used to, but soon I possessed the wherewithal to lure them. When a goblin finally mustered the mettle to attack me from behind, I pantomimed an exaggerated spasm of pain and fell to my knees. The theatrics would have made Fletcher roll his eyes, but my ruse worked wonders on my audience.
+
+Goblins abandoned their shelters and charged from every angle.
+
+Triggering the Wall of Wind knocked half of the crowd back ten feet, allowing me to stand and face the other half with Blood Drinker.
+
+Thrust became my bread and butter. Every six seconds, I delivered Bleeds, which inflicted a total of 87 damage over ten seconds. The maneuver worked exceptionally well since it looked like only a survivable 40-something attack, encouraging the goblins to press on. Blood Drinker’s accumulated damage didn’t affect the Bleeds, so the goblins only saw its +13 damage from my regular attacks. Thrust appeared ineffective to anyone not adding up the damage in the combat log.
+
+And goblins didn’t do math.
+
+As soon as I dropped 100 mana, I drank a mana potion. This encounter would stretch into a sustained fight, and I wanted my potion cooldowns available as soon as possible.
+
+Everything I learned at the battle college kicked in, and I fought with precision and unpredictability. The goblins did nearly everything wrong. They broadcasted their attacks and showed no coordination, so I rarely needed to react against multiple opponents. Whenever they crowded me, I cast Compression Sphere and gave myself breathing room.
+
+A moving blur in the distance caught my attention. Beaker swooped down at a goblin. After wrapping his talons around his prey, he pumped his wings and ascended until they reached the canopy. The goblin’s arms and legs flailed. It barely knew what had him before the griffon released its burden. Falling damage did the rest.
+
+“Good boy, Beaker!” Seeing my pet engage in battle excited me, even if it meant lowering Blood Drinker’s count. Adding another dimension to my attack made his assault a worthy addition.
+
+Regaining my composure, I performed a Charge maneuver on a goblin watching the aerial assault, one-shotting it in a critical hit. Blood Drinker’s bonus climbed to +21.
+
+Combat kept me so focused I couldn’t see if goblins infiltrated from a distance. A few hung back and pelted me with arrows, but Avoid Ammo foiled their efforts. After half a minute, they ceased fire, and I dismissed the channel to conserve mana.
+
+The throng of enemies thinned out. Goblins with Bleed crawled away from the battle, doing me the favor of keeping my footing clear. Nevertheless, a ring of corpses surrounded me by the time they withdrew.
+
+Beaker performed his scoop-and-drop maneuver several times until the goblins disappeared. He landed beside me while I telepathically praised him. “What a good griffon you are! Beaker is such a good boy!” He extended his wings, opened his beak, cocked his head, and dilated his eyes at the flattery.
+
+Beaker didn’t like goblins and didn’t touch their corpses, to my relief. While dropping them hadn’t contributed to Blood Drinker’s bonus, threats of being snatched from above preoccupied many goblins, and the bright sky blinded them. It also gave me another idea of how to beat Rezan. Light magic had no mechanics for avoiding grapples, and Rezan’s levitation ability depended on the proximity of the earth beneath him. Perhaps he could activate it a second before he hit the ground, but I doubted it.
+
+I grunted at how much work it would require to teach Beaker to target a specific goblin and perform a grab-and-go maneuver, but his instincts took care of much of the tactic. Using him wasn’t any less ridiculous than other assassination scenarios I’d imagined.
+
+After performing a Rest and Mend and re-buffing, I found another group of goblin burrows. I drew them after me similarly, Thrusting at those within my reach and repelling their ranged attacks with Avoid Ammo. Even against fewer goblins than the first group, every fatal blow brought Blood Drinker closer to one-shotting Rezan. Perhaps they’d attack me with more gusto when the night fell, and I could really buff up my weapon.
+
+While Beaker took wing, I pointed Blood Drinker at a random goblin. “Get this one, Beaker!”
+
+My griffon banked out of his dive, circled, and approached the target from another vector. Even before he struck, I considered our teamwork successful. He understood my command and obeyed.
+
+The goblin dropped his weapons at the impact of the griffon’s claws, and his legs dangled like a rag doll.
+
+“Beaker, take him higher! Much higher. Above the trees!”
+
+Beaker pumped his wings and bore him upwards until the pair disappeared beyond the foliage. A body slammed into the ground almost a minute later at a terminal velocity.
+
+Watching them exposed me to several attacks I should have dodged, but the experiment proved worthwhile. I activated Mana Shield and cast a Restore to recuperate the lost health. I concentrated on using my melee skills and evened out the odds. By the time Blood Drinker’s critical hits cut goblins in half, the skirmish broke apart. The goblins realized the folly of their efforts, beating their ranged and melee attacks.
+
+After the goblins fled, combat ended, leaving Blood Drinker’s bonus at +45. With my regular attacks approaching 80ish damage, I felt ready to take on an army. Soon, every attack could one-shot a goblin. I felt prepared for another assassination attempt before Rezan reached Hawkhurst.
+
+I turned to head north. “Come on, turkey. We hunt royalty now.”
+
+None of the goblins bore nameplates with the moniker Deathless in them, but there was always a chance one of them might have a magic item. I cast Detect Magic to survey the battlefield.
+
+Name
+
+Ascended Rezan Improved Eye (56)
+
+Level
+
+1
+
+Difficulty
+
+Trivial (gray)
+
+Health
+
+1/1
+
+An eye 30 feet from the ground watched me from behind a tree. It seems the king had unlocked another spying spell.
+
+“I pointed Blood Drinker at the eyeball. “Beaker, do you see that? If you see eyeballs, attack them!”
+
+The griffon cocked his head before leaping off his perch, cautiously gliding around the eyeball, squawking at it.
+
+I clapped. “Good boy, Beak. Take it out!”
+
+He circled in a holding pattern to examine the floating orb before zeroing in. It disappeared in a puff when he made contact—confusing my Familiar. He landed on a branch, ignored my praise, and looked for more eyes.
+
+“You popped it. What a good boy! Pop any eyes you see, okay?”
+
+He didn’t understand, so I let the matter drop. Learning two tricks today satisfied me.

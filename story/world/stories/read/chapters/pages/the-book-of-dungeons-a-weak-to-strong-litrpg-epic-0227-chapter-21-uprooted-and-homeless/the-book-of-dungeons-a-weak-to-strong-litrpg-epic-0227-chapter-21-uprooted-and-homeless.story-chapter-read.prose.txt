@@ -1,0 +1,149 @@
+Bald spots in the vegetation bristled with stumps, giving the valley an unkempt quality. Goblins had chopped down half of the trees. Stretches of underbrush mottled the clearings, but the irregularity made planning a route difficult. I wasn’t sure I could cross the region undetected. How could I reach the relic?
+
+If I plowed through them with brute speed, perhaps I could escape through the Dark Room if things got too hot, but it seemed such an inelegant approach. The plan involved too many contingents. I’d never used the Dark Room in combat. What if they understood how Dark Rooms worked and waited me out? It looked like they had been here for a while and planned to stay. What if they grabbed its rope before I could pull it inside?
+
+Checking my bearings revealed the general location of its coordinates. I saw no excavations, drilling platforms, or goblin army camps around. It seemed possible they hadn’t started looking for it yet.
+
+Methodically scanning the valley hadn’t revealed a route empty enough to sneak through. Though nocturnal, some goblins milled about in undisguised activity. A few campfires smoldered nearby, and a small group of goblins sheltered in the shade, conversing with aggressive gesticulations. I spotted several sneaking about. One pilfered another’s belongings and made off with their ill-gotten gains.
+
+A commotion broke out close enough for me to observe a contingent of goblins harrying a bear-sized dinosaur. The longer I watched, the more I realized I’d confused the hunters with the hunted. The beast bore armor with an elongated head, like a warthog. Its natural defenses and size hinted that it wasn’t an alpha predator—but showed alpha enough to outmatch the goblins.
+
+Name
+
+Armosaur
+
+Level
+
+27
+
+Difficulty
+
+Challenging (yellow)
+
+Health
+
+1367/1500
+
+The armosaur casually pawed at the dirt with three long, slothlike claws.
+
+But fleeing goblins didn’t duck in the holes topped by the protective tank traps. Instead, they sought refuge in burrows shallow enough for the armosaur to reach them.
+
+Why wouldn’t they jump underground? Other goblins popped out of their hiding spots like meerkats, venturing only far enough to launch a javelin or arrow.
+
+The digging monster ignored their futile attacks. My Hammer of Might would be perfect against a creature like this, and it matched my level.
+
+Sune Njal’s words echoed in my mind. Gratitude for saving a few goblins seemed a foolhardy expectation. Besides, dreams of the relic had likely driven Rezan insane by now. If his people tied him down like the kobolds and soldiers had secured their leaders, I needed to worry about their second-in-command. I possessed no means of knowing who stood in charge of this displaced population.
+
+On such unsure footing, fighting dinosaurs enforced a wait-and-see policy. I’d had enough problems soloing a centaur beneath my level. Experimenting in an uncontrolled environment such as this wasn’t a bright idea.
+
+After the dinosaur dug out a goblin, it left the area unhurriedly, carrying the limp figure in its maw.
+
+Refocusing my attention, I scanned the outskirts of the shanties, looking for a clear route to my coordinates.
+
+I considered that a sprawling goblin dungeon lay beneath me. I counted dozens of heavy wooden tripods—each broadcasting an entrance.
+
+If the goblins weren’t using their underground tunnels, perhaps I would. Triple-pronged timber spikes dotted the landscape, marking entrances to the goblin city like subway stops. If their tunnels were as porous as Sune Njal described, it wouldn’t matter which one I entered. But taking a subterranean route disabled my map interface. Maintaining a north-by-northwest heading wouldn’t be possible if the tunnels twisted as much as the kobolds’. At least they built enough subway locations for me to pop out now and then to check my bearing.
+
+If I were Rezan, the king of the goblins and half-mad about digging up a relic, I wouldn’t do so from the surface. I would tunnel from underneath. Taking the underground path seemed right, aside from dealing with whatever the goblins tried to avoid by staying above ground. Whatever spooked them must be deadly enough to force the population to the surface. The passage’s dimensions suggested whatever evicted them wasn’t super-sized. I hoped it wasn’t environmental like a gas leak—for the Dark Room hadn’t stopped smoke from coming inside.
+
+Putting away my Eagle Eyes, I climbed down the ridge. I entered the closest hole marked by a tank trap without rousing goblins in nearby caves and shanties. Instead of ladders, goblins used rope rungs embedded into the earth like staples, anchored deep enough to support my weight.
+
+The descent only dropped 15 feet before it bottomed out into a tunnel. Unfortunately, it stood only five feet high and just as wide. At least I didn’t need to listen to Fabulosa’s grousing about it.
+
+I cast Magnetize to test the likelihood of dark navigation. Minuscule arrows showed only weak magnetic fields and didn’t outline the tunnel surfaces. Without Creeper, I’d advertise myself with the aptly named light spell Presence, but without goblins underground, I took the chance. After turning it on, I cast Heavenly Favor and proceeded in the northernmost direction.
+
+After minutes of stooping over, I gave up and crawled on my hands and knees. These tunnels measured slightly shorter than the mines, and the few inches made a difference. I drew my handy short sword.
+
+Wet spots counted as another drawback to crawling. As my hands and knees sank into puddles and mud, I tried not to think of what liquids had created them.
+
+Goblins used beams and supports to economize their digging. They constructed broad passages without making them taller, which worked well for them but not so much for me. Straight and angled avenues bridged the frequent intersections. Upright posts and lintels supported the ceiling.
+
+The corridors weren’t curvy like the kobold dungeon or round. The lack of roundness in these tunnels made me appreciate primitive kobold digging techniques. The only way kobolds could make their corridors wide enough for traffic required enlarging the entire tunnel—giving me plenty of headspace.
+
+Unlike the kobolds, goblins didn’t dig side rooms. Passages connected, but as far as I could tell, they served no purpose besides travel—the underground equivalent of country roads. The absence of an icon for Aggression confirmed this suspicion. I wasn’t in a settlement that doubled my damage.
+
+Wooden stakes bore strings of dyed and painted bones. I couldn’t read these navigation markers, but they gave me a sense of which passages served the most traffic. I followed the primary thoroughfares.
+
+When I passed another light well, I climbed the staples until my interface map renewed operation. I had hoped a line of sight to the sky enabled the map features, but my head needed to be above the ground. While topside, I scanned the surroundings and spotted a sleeping goblin in a lean-to. So far, my intrusion had gone undetected. The first leg of my journey, a northeast vector, showed positive progress. Like a submarine, I dove back underground, seeking the next northerly subway station.
+
+The next few goblin holes brought me closer to the coordinates, albeit on an erratic path. A group of goblins saw me poking my head out of a hole, like a gopher—midway through my journey. To avoid pursuit, I returned underground after getting my bearings. Nearly a mile from the relic, I discovered the reason behind the goblins’ subterranean eviction.
+
+At an intersection, I spotted a long lizard tail, similar to a Komodo dragon but larger than a crocodile. Its tail flicked, and the creature backed up through the intersection, revealing an elongated body and head.
+
+Name
+
+Drax Hatchling
+
+Level
+
+24
+
+Difficulty
+
+Challenging (yellow)
+
+Health
+
+1155/1155
+
+What hatchling rated a level 24 monster? I wasn’t fond of the implication that its mother might be somewhere in these tunnels. This lizard’s name bore a disturbing resemblance to dragons, so I readied myself for a Slipstream to avoid a breath weapon.
+
+The creature’s low profile suited it for the environment, whereas I fought at a disadvantage on my knees.
+
+Aside from its wide mouth and powerful jaws, the drax looked like a giant monitor lizard. When they opened and delivered a Lightning Bolt, I understood why the goblins had given up their home.
+
+/Drax Hatchling hits you with Lightning Bolt for 42 damage (7 resisted)./You are stunned.
+
+The Stun debuff lasted 10 seconds, long enough for nasty things to happen. Nor did the creature waste time in its follow-up. It scrambled forward while I dropped my short sword and face-planted.
+
+When it unhinged its jaw, I decided I didn’t want to stick around and Slipstreamed to its flank, hoping a creature so long couldn’t turn around in these tunnels. While its flexible vertebrae bent enough for it to turn, it did so slowly and with difficulty. It bought me enough time for the Stun debuff to elapse.
+
+Reaching down for my short sword reminded me I’d left it behind on the other side of the drax. I backed away, casting Scorch and Shocking Reach while the monster completed an about-face maneuver. I could only hope its Lightning Bolt cooldown needed lots of time.
+
+Long, straight corridors made The Lance of Commitment an ideal weapon. It delivered a +10 damage bonus for every step I took, but the description said nothing about charging on my knees.
+
+I Charged the drax from as far back as I could. It lurched forward, meeting the weapon’s business end for 189 damage. I released the weapon when the monster withdrew and flailed about, trying to dislodge the instrument.
+
+Its thrashing gave me more time to find another weapon. I pulled out a brass shield and scimitar we’d taken from the snake demons. The drax possessed over 80 percent of its health.
+
+I took out another 150 health before the reptile freed itself from my lance. It zapped me with a Lightning Bolt, causing me to drop my newly equipped arms.
+
+The drax attempted to swallow me while I stood Stunned. I reset Slipstream with my Cassock of Rewind and performed the same escape maneuver, depositing myself next to my short sword. After picking it up, I inflicted a series of backstabs. When the creature tried to turn, I Thrust its tip into its hide for a damage-over-time Bleed. In 27 seconds, the Bleed would cause 81 damage and hopefully prevent it from shooting another Lightning Bolt.
+
+As the monster bent toward me, I inflicted as much damage as possible, delivering a critical hit for 46 damage. The short sword inflicted less damage than Creeper but served its purpose.
+
+Alas, the game considered its electrical attack a natural ability, which Bleeds didn’t interrupt. When the drax faced me again, we engaged in a damage-per-second race with my opponent’s 700 health over double mine. I popped it with my instant-cast Arcane Missile and Rejuvenated myself to even the odds.
+
+The monster’s Lightning Bolt cooldown ended. With it too big to Transpose and Slipstream on cooldown, I triggered Anticipate when its jaw opened for another zap.
+
+Anticipate’s familiar chime sounded, and my body zoomed sideways, avoiding the blast of electricity.
+
+I renewed my melee attack, hacking away another 150 before the creature opened its maw again for another zap.
+
+A combination of math and timing saved me. Having thrice-dodged the Lightning Bolt, I determined the ability’s cooldown to be 45 seconds. Thirty-eight seconds after its last electrical attack, I cast Compression Sphere, placing my target in front of its face. The spell wasn’t powerful enough to knock the monster back, but the blast skewed its head upward, discharging the energy into the tunnel’s ceiling. I would need to wait five minutes to repeat the trick.
+
+I Charged, earning another critical hit for 50 damage, and performed a Thrust, knowing I couldn’t cast another Compression Sphere. Since Rejuvenate kept me topped off at my maximum 280 health, the monster had slightly more when its Lightning Bolt cooldown elapsed. Stun forced victims to drop carried objects. But if I wasn’t holding a blade, I couldn’t drop it when Stunned.
+
+I stashed my weapon in my inventory before it activated its electrical attack and planned to retrieve it after the Stun wore off.
+
+But fighting it so closely incurred risks. While crouched on my knees in this low-ceiling passage, the drax unhinged its jaw and swallowed me whole.
+
+It performed the entire maneuver before the Stun ended.
+
+When I regained use of my limbs, I’d fallen into its mouth, unarmed and taking critical hits from crunching teeth.
+
+Another debuff appeared in my peripheral vision.
+
+Debuff
+
+Swallowed
+
+Grappled. Receives and delivers critical hits.
+
+Duration
+
+Until freed
+
+Without immunity to damage, I couldn’t cast Scorch. I tried channeling Moonburn but fumbled trying to channel it. The only usable spells involved instants, and my Arcane Missile rested on its 3-minute cooldown. Presence allowed me to see, though it did me little good.
+
+The monster contracted its throat, pushing me headfirst into its gullet. I braced myself against the back of its throat. It didn’t trigger a gag reflex but stopped me from going further inside.

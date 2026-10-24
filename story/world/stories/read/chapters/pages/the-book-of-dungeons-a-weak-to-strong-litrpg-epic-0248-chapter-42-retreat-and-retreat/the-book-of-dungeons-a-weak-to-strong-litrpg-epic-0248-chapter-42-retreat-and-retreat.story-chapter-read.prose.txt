@@ -1,0 +1,107 @@
+We fought goblins on every side, and the math worked against a sustained battle. While we had an unoccupied inn and storehouse waiting across the river, yielding the barbican wouldn’t bode well for the settlement’s survival.
+
+To improve our chances, we had to reduce the enemy’s ability to inflict damage—we needed a choke point. Fortunately, we’d already designated the stairs as a fallback option. An early retreat wouldn’t please our veterans, but popularity wasn’t the criteria for battlefield decisions. History celebrated survival, not vainglory. If we couldn’t beat them and didn’t want to join them, perhaps a stalemate served as an alternative.
+
+“Yula, withdraw everyone to the stairs. We’ll make our stand there. Maybe we can hold them until daylight.”
+
+After clenching her jaws, the orc sounded the retreat. Fighting indoors pleased her the least. “Gunny, Blane, Bernard. Fall back to stairs! Rachel, go, now!” Orchestrating melee fighters during combat involved no easy feat, but she shepherded everyone into a collapsing ring. Satisfied with the formation, she instructed defenders to go below.
+
+After repeated heals, I grew close to zero mana and triggered Refresh Mana, which put me back to full health and mana.
+
+Yula and I retreated last, bearing the worst of the goblins’ assault. The press of enemies around us gave me an idea. “Get ready to attack the weakest goblins. They’re bunched up now. While the goblins couldn’t interrupt my concentration during Imbue Weapon, their repeated attacks discharged the mana I put into Gladius. “Guard me while I Imbue my sword.”
+
+The huntress did her best, but we incurred a hellish assault. Our position on the stairs sheltered us from flanking attacks. To occupy the goblins, I triggered a Whirl. With my blade’s +50 damage bonus and +25 bonus from strength, my minimum attack surpassed 100 points of damage. If I critted, I might one-shot an entire section with Whirl. If not, I could reset my cooldown and repeat the maneuver.
+
+I Slipstreamed behind a goblin in the center, Charged it from behind, and triggered Whirl.
+
+Attacking with a longsword felt ungainly in close quarters, but I trusted the maneuver to do the rest. As my blade slashed across my target’s back, it critically hit for 224 damage and reduced ten goblins around me to only a sliver of health. My surroundings blurred as I spun. A second Whirl would kill over a quarter of the Deathless.
+
+I sensed something wrong when both our health pools filled to the maximum. The combat log confirmed the source.
+
+/Rezan heals you for 320./Rezan heals Yula for 320./Rezan heals Dizzy for 320./Rezan heals Pommer for 320./Rezan heals Krill for 320.
+
+On and on, the messages spammed the combat log. Following the heal messages came reports of my second Whirl’s damage—a non-critical hit of 106 damage to the ten targets around me. Rezan wiped out all the damage from my first attack with another Rally. The group-heal applied to friend and foe alike.
+
+Having spent several of my powers, I fought my way back to Yula on the stairs. The failure of my attack disappointed me, but it had been a worthy attempt.
+
+After surviving my dreaded double-Whirl combo, the goblins threw themselves at us, bolder than ever. Their disregard for damage made them dangerous. Warriors typically devoted half of their concentration to avoiding injury. Under the goblin king’s support, the Deathless fought with fearless aggression, enhancing their potency.
+
+Repeated Merciful Touches staved off the health loss from multiple attacks. My mind raced for ways to survive. While my overall strategy involved hoarding power points for endgame spells, I took many utility powers that swung battles. I’ve often lamented Fabulosa’s expenditures on damage-dealing powers, but her spells couldn’t tip the balance.
+
+Yula pulled out her shield, and I followed suit. We formed a mini-turtle defense backing down the narrow stairway.
+
+While Avoid Ammo repelled missiles, my Wall of Wind warded off melee blows. I realized I hadn’t used it yet. It perfectly countered small-sized opponents. I couldn’t kill them, but I could reduce their damage output by knocking them off the barbican.
+
+Withdrawing to the stairs had cleared the roof of defenders. I could safely cast Compression Spheres without knocking townspeople over the side.
+
+Triggering the Wall of Wind launched four goblins into the air and over the barbican’s western side. Sailing them off the battlefield made for a huge win by reducing Rezan’s forces by 20 percent.
+
+The Conflicting Pulls buff disappeared from my interface, as did the nameplates of those surrounding me. It returned gravity to normal as the goblins dropped. They survived the fall but couldn’t contribute to the assault.
+
+My cooldown for Compression Sphere had only 30 seconds left, which meant I could cast it twice, once as a spell and once as a rune, with my sword. “Gladdy, let me know when you can cast a Compression Sphere again, okay?”
+
+My weapon vibrated its reply. “It will be my pleasure, Wielder Apache.”
+
+Since no other defenders fought on the roof, I tried casting Glowing Coals, but the blessing wouldn’t work on top of the structure. The interface’s message about an invalid target area hadn’t surprised me.
+
+I turned to Yula, who stood halfway down the stairs. “Hold up here. I’m going to try something.” Before she responded, I fought my way up and off the stairs onto the rooftop.
+
+Because I didn’t move toward Rezan, the goblins allowed me a wide berth, letting me corner myself on the roof. They followed a fundamental concept of not interrupting an opponent while they’re making a mistake.
+
+I climbed onto the parapets, inviting them to use their jumping maneuver to push me off. They weren’t foolish enough to fall for it and surrounded me, renewing their melee attacks from neighboring crenelations.
+
+Longswords, like Gladius Cognitus, needed more room than other blades. My perch on a block of stone above the goblins gave me the perfect space to fight, a Goldilocks zone of reaching and avoiding enemies.
+
+Goblins jumped from the roof to the crenelations beside me. When I faced one group, the others attacked. I didn’t need to concentrate on channel spells with my new sword, so I created a Magnetized pull on the only goblin wearing iron armor. It had gotten close enough to the edge for the spell to push it over. It landed in the river with a splash.
+
+From the arrow slits on the barbican’s middle floor, dwarves cheered. “Into the drink with ye!”
+
+Using Mineral Mutation, I turned the crenelations beneath their feet into cotton, angling the surface to tip them off the roof. Two goblins lost their footing and pitched into the barbican’s moat—about 40 feet below. The plummeting goblins incurred 186 points of falling damage. Both survived the fall and received heals soon after.
+
+The lack of fatalities deflated me. If Deathless survived drops from the barbican to the moat, I saw no way of killing them with falling damage aside from Beaker.
+
+I noticed my interface showed my Familiar’s status to be unsummoned. The goblins must have killed my pet again.
+
+Tripping the pair into the quarry reduced the enemy’s number to 19. I jumped off the edge of the barbican and Transposed myself with the remaining hobgoblin. The switch caught my enemies off-guard. Before they reacted, I shoved another over the edge, using only my size and brute strength.
+
+“Wielder! I can activate another Compression Sphere!”
+
+“Thanks for the heads-up!” I pointed my sword at a few goblins. “Fire in the hole!”
+
+Gladius scrawled a rune of blue light in the air, triggering a shockwave of sound and white vapor. Goblins shot in different directions, and three more flew off the roof.
+
+I cast a Compression Sphere, launching off four more invaders from the barbican, reducing Rezan’s forces to nine goblins.
+
+The invaders looked at their leader for signals to retreat. Goblins accustomed themselves to outnumbering opponents. The king’s healing conditioned them to fight shorthanded, but everyone on the roof knew they’d lost too many. Whatever hold Rezan had on morale had slipped.
+
+I took the opportunity to cast Familiar, summoning Beaker once more. “Quick, take to the skies! Fly above them.”
+
+Beaker squawked, drawing their attention, but none had ranged weapons ready. I grunted in irritation at his piercing cries. Why did he insist on being so noisy?
+
+Using Avoid Ammo as a shield, I jumped from the crenelation between the griffon and goblins, making shooing gestures. “Go on, you big turkey. Get out of here before they shoot you!”
+
+After another eardrum-shattering screech, my pet banked between two crenelations, dropping into a dive over the quarry below. He pulled up and gained altitude before any goblins released missiles.
+
+“Good boy! Just stay up there, keep them worried.”
+
+Shouts from the arrow slits cheered on the griffon’s return to battle.
+
+General Sturm turned to the king. “What are orders?” The question betrayed a lack of confidence in fighting with reduced numbers. Most of the dislodged troops had survived but were useless on the ground.
+
+Yula and the Fort Krek soldiers emerged from the stairs. Against fewer enemies and no hobgoblins in their midst, our chances of seeing daylight again improved.
+
+But Rezan knew he didn’t have until dawn approached. In five minutes, I’d have two more Compression Spheres ready. We’d built this tower and felt the right to keep it.
+
+Greenie emerged from the warriors crowding the stair top.
+
+Rezan turned to him with fisted hands. “We and we are unsurprised by your role in this pathetic charade. Building on the surface has always been your calling. When I take this place, I will bury you in a cell so deep that magma will call you neighbor.” The king turned to me. “Last chance to leave, Governor Apache. You are unwise to stay. You must know better than to meddle in family affairs.”
+
+I looked at Hawkhurst’s band of outcasts—an orc, a goblin, dwarves, and humans fighting together. “I could say the same to you.”
+
+The king glided between two crenelations in the parapets with arms outstretched. His filthy robes dragged along the tile stonework of the barbican. Rezan beckoned his soldiers to follow and fell backward into the quarry with a passive expression until he landed hard. After healing, he turned back to the forest as if he had infinite cards to play.
+
+The remaining goblins jumped down after him, breaking ribs and shattering limbs on their landing, only to reconstitute from their sovereign’s heals soon after. Suffering no losses in their retreat, they assembled in a group and passed through our town at an unhurried pace.
+
+Of the 26 invaders, 24 red dots drifted across my map interface unhurriedly to the north. Before they neared the edge of our town’s radar, dozens more red dots greeted them from the forest.
+
+My Eagle Eyes weren’t strong enough to penetrate the tree line. They disappeared the way they came. Neither I nor the squinting moons of Miros knew where they went.

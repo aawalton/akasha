@@ -1,0 +1,149 @@
+Rezan’s offer to abandon Hawkhurst hit me like a bucket of cold water, taking me back to my mindset before the contest, when I’d do anything to win. The prize money would let me catch up in life. I could compensate for my troubled past by applying myself to academics and entering a specialized field where I could excel.
+
+I could have the life I still wanted to lead.
+
+With my high combat skills, I undoubtedly had an advantage over other players, and hunting them down for their equipment would leave me in a stronger position to fight Rezan and, ultimately, Fabulosa. It made strategic sense to go, and it reminded me of Fabulosa’s invitation to explore Miros. Clearing an undead castle in the Ragged Hills sounded more fun than my recent string of setbacks, but leaving work undone wasn’t a move I planned to make. I rejected Fabulosa’s invitation, and now, Rezan’s, hardening my commitment to save the settlement.
+
+It wasn’t just a demon doing the talking. This malicious despot had already imprisoned his brother over his pursuit of power. It didn’t surprise me he sold his soul for the relic.
+
+I hated what this creature stood for—aggrandizement, subjugation, and corruption. In only this sense, Rezan’s clothes suited him. He embodied the reason everyone in Belden rejected dark magic so long ago. Death magic and mind control seemed like a cowardly way to play. Demons and goblins embraced enslavement. Humanity had practiced slavery for thousands of years in every corner of the globe, but this kid from the Jersey Shore would not leave the NPCs who trusted him to that fate. Saving my skin at the expense of others wasn’t me.
+
+The demon king’s grimace softened as he read my expression. Though I’d said nothing, he could tell I wouldn’t skip out on my friends. NPCs or not, we were a family—the only one that had ever wanted me. Charitybelle’s description of dancing embraced the idea of becoming part of a greater whole. I’d become part of Hawkhurst.
+
+Rezan surprised me with a non sequitur. “It is strange that we and we cannot sense you sleeping.”
+
+The phrase held no meaning until I remembered how the nature relic called Thaxter and the arcane relic affected the kobold queen. When the mummified anomalocaris wore the relic, it reached out to the closest settlement’s leader through dreams.
+
+Here stood another relic-bearer, wondering why the governor of Hawkhurst resisted his outreach. Players couldn’t dream, making me impervious to its draw.
+
+I spoke in Bonepit. “You’re not the only demon in this world. There are twenty-two of my kind, and they will tear you apart if I cannot.”
+
+The goblin showed no reaction to my boast.
+
+My foremost concern was Rezan learning about Greenie after I promoted him to governor. A smoking Iremont and an assassination attempt confirmed our whereabouts and hostile intent. As long as Hawkhurst stood free, it threatened Rezan’s rule.
+
+If Rezan’s newfound light magic gave him Scry, he might have seen the Artilith. I showed Greenie the unique core once, asking him what it could do, but the goblin had never heard of such a thing. But Greenie hadn’t seen me give it to Rory for my sword, so the king wasn’t omniscient.
+
+Rezan cast a spell called Divine Mind.
+
+I had to be careful about what I said to this creature. Halo seemed like a high-tier light spell, a school of divine magic. But divine didn’t mean holiness or devotion—it meant revelation and truth—its magic specialized in seeing things. Rezan’s Detect Lie buff on his nameplate confirmed my suspicion of Divine Mind. I couldn’t bluff him unless I tiptoed around my words.
+
+“I killed over a hundred of your warriors by myself. You’ll find stout defenses in my settlement.”
+
+Ascended Rezan’s eyes narrowed in a demonic leer, but I couldn’t tell if my statement had confused, dissuaded, or angered him. Planting a doubt in his head counted as a victory in my book.
+
+It made a strange impasse. The king posed no danger but proved himself unkillable.
+
+It occurred to me he stood by himself, and I summoned Beaker.
+
+At the sight of my Familiar, the goblin king backed away, retreating to the hole’s opening, safe from my griffon’s reach. His move confirmed another weapon in my arsenal. Not only could I hide things from him, but he was vulnerable to falling damage. A fall from hundreds of feet surpassed his health pool and Halo effect.
+
+Beaker screamed at the goblin when he noticed the burrow. I telepathically assured him I was fully aware of the creepy goblin in fancy robes. It did little to soothe my agitated pet.
+
+Two glowing eyes watched me from the darkness, and an extended hand beckoned me inside. “Ours is an exercise for tomorrow night. For now, my Deathless rest. You are welcome to join us, but we and we cannot vouch for your safety.”
+
+Beaker and I turned south.
+
+Giving Hawkhurst an update seemed like the logical next step. Maybe someone in town would come up with a plan for defeating them. And with a hundred decisions to preside over, I wanted to sneak in eight hours in the comfort of my bed before sunset.
+
+I rode Jasper back to town once I cleared the forest. While leaving, I parsed my combat logs for weaknesses in Rezan’s game. Beaker’s grab-and-drop attack had killed his target, and it only took 40 damage to dispel my pet into a puff of green smoke.
+
+Rezan’s mana consumption stayed low enough that his access to 50-point mana potions could extend his healing powers indefinitely. Their sustained combat style rendered the 10-minute potion cooldown a trivial factor.
+
+I found nothing else useful in the combat logs, but several updates from my command interface caught my attention.
+
+Campaign completed
+
+Goblin Incursion
+
+Reward received
+
+24 glory points
+
+The command system thought little of my diplomatic solution with the kobolds, awarding me a paltry 4 glory points for my non-aggression treaty. Scattering the approaching army force fared better, earning me 24 glory points out of 40.
+
+Repelling the horde of goblins reduced the king’s guard to 18 Deathless and a support staff of a dozen peons. The Book of Dungeons didn’t consider the force large enough to raze Hawkhurst, satisfying the campaign conditions.
+
+Applied Knowledge multiplied glory points, giving me 72 instead of 24 for my completed campaign.
+
+Congratulations!You are rank 2 in command
+
+You have gained a rank in command. You have received 1 command power point. You have 108/500 glory points toward rank 3.
+
+Gaining another command point enabled me to buy a tier 2 promotion under the Protector menu—Aid Ally, Battle Regeneration, or Tough Armor.
+
+Without hesitation, I purchased Aid Ally, giving my subordinates a lay-on-hands heal called Merciful Touch that restored 20 percent of their target’s health.
+
+Promotions worked only during active campaigns, but I didn’t let the situational restriction of Merciful Touch bother me. Once I arrived in Hawkhurst, assigning everyone under my command gave the whole town a 50 percent health increase and Merciful Touch. If Rezan wallowed in overpowered healing, we’d follow suit with Merciful Touch.
+
+Perhaps I’d learned something from the combat logs after all. Despite Rezan’s healing prowess, Rejuvenates still cost 1 mana and his Restores still cost him 4. Even though the relic gave +24 intelligence, he didn’t have over 300 mana. If everyone in Hawkhurst fought against the goblins, we might exhaust Rezan’s resources. We more than matched their damage output between the Sternways and the town’s guards. Anyone without armor and weapons could stand behind them, using slings and giving heals to the melee combatants.
+
+But at what cost? We hadn’t coordinated healing one another, and such a victory would cost many casualties—assuming we could win. Heals for 20 percent made little difference to low-level warriors. Involving hundreds of participants unaccustomed to combat wasn’t wise. What would happen if the goblins triggered their jumping ability and leaped over our front ranks?
+
+Perhaps, if the whole town stood behind me, rotating heals, I could trade body blows with the goblin king enough to drain his mana reserves. Imagining how this scenario might play out cast doubts about the plan. Rezan wouldn’t be so foolish to let this happen.
+
+After doing a little math, I became less excited by our prospects. By tomorrow night, Blood Drinker’s bonus would return to zero. Rezan knew how the sword worked—he wouldn’t attack until at least 24 hours had passed.
+
+I tempered my enthusiasm for Merciful Touch.
+
+Aid Ally unlocked new promotions for tier 3. Even though the rank required 500 glory points, a number so high I doubted I’d reach it, I still wanted to see what goodies it awarded.
+
+Power (promotion)
+
+Aid Ally (tier 2)
+
+Prerequisites
+
+Command rank 2
+
+Description
+
+Awards Merciful Touch to subordinates in active campaigns.
+
+Tier 3 promotions
+
+Commend, Communicate, Commute
+
+Information about Aid Ally included descriptions of tier 3 promotions. Each promotion embraced a different way in which one might aid an ally. Commend buffed subordinates by increasing their morale and damage output by 20 percent. Morale’s effect on combat remained a mystery, but a 20 percent damage bonus seemed solid enough to consider it. The details didn’t mention Commend not stacking with Aggression’s 100 percent bonus, so the two might be a potent mixture in the right situation.
+
+Communicate offered a telepathic connection between subordinates, and the power extended to the commander. It gave the same chat group functionality as the battle standard, except it correlated to visual range. It included NPCs and excluded enemies, so everyone on the same side could coordinate without eavesdroppers.
+
+Commute offered a once-a-day ability for allies on the same campaign to exchange places, similar to Transpose but at a visual range. Healers, spell casters, and squishier participants could switch places with tanky allies if enemies somehow reached them. Commute shored up formation weaknesses, immunizing armies from flanking attacks.
+
+Commend and Commute attracted my interest, but even with my Applied Knowledge buff, I didn’t foresee unlocking them soon.
+
+I closed the alerts about reaching command rank 2 and opened a new update.
+
+The game encapsulated the goblin threat into a second campaign.
+
+New campaign
+
+In or Out (Part 2 of Goblin Incursion)
+
+Description
+
+Commander Rezan leads 18 Deathless to conquer Hawkhurst’s population.
+
+Morale
+
+44% (worried)
+
+Objectives
+
+Make bonded promise to resist the goblins. Lead settlement to victory.
+
+Reward
+
+0 to 40 glory points
+
+This campaign already coincided with my heart. After I silently pledged a bonded promise to prevent a demonic takeover, a chime sounded in my interface, and the campaign’s status changed to show that I’d satisfied the first condition.
+
+Throughout this game, I tried to fill my girlfriend’s shoes. But trying to fit someone else’s mold only produced a poor reflection of her example. It made me weak and equivocating, eroding my resolve and that of my followers. Leaders made proactive decisions, not reactive ones.
+
+Rejecting Rezan’s proposition cemented my fate. Risking everything made no sense in the grand scheme of the contest.
+
+I hadn’t truly invested in the leadership role when my girlfriend made me her lieutenant governor. I hadn’t earned the title, so I never embraced the responsibility. But committing myself bonded me in the settlement. I wasn’t returning only to clean up my mess by releasing the relics. The rustic town had become the only home I’d ever loved, with the only people who ever wanted me.
+
+I would not abandon them. For the first time since Charitybelle’s death, the settlement would get the leader it deserved.
+
+I double-timed it back to Hawkhurst, hoping to get there soon enough to rest up for the next nighttime incursion. Rezan might devote time to leveling up his Deathless, which would make it easier for him to keep them alive and give us time to prepare.

@@ -1,0 +1,113 @@
+Each undead lizard mindlessly toiling to free the relic had once been a settlement leader. They pried at a grate using nothing more than rotten logs, but so far, their efforts caused no structural weakening. I assumed the grate overlooked a crypt but couldn’t be sure until I got close enough to peer through its heavy bars.
+
+As I pondered my options, they simultaneously stopped, turned to face me, and released their waterlogged levers. The wood showed almost neutral buoyancy and drifted lazily upwards, joining the air bubbles along the ceiling.
+
+I cast Rejuvenate on Urazmith. The 70 points of healing would wear it down to 191 health.
+
+The undead fish released whatever pallid meat they’d hooked onto and fluttered toward me. Surprisingly, the zombie lizardfolk moved much faster. Powerful thrashes of their tails torpedoed them in my direction. The sudden rush sent the fish spinning and churned the mud resting on the corridor’s floor. They reached my position in just a few seconds, moving far faster than Amphibious ever did.
+
+Since they all moved at once, I stopped them with a six-second Moonburn, Stunning them and inflicting a hundred damage on every reanimated lizard. I considered resetting the spell again and immediately Moonburning them again, but it wouldn’t kill them, and I needed to distance myself.
+
+After finishing the channel, I swam from the corridor to the star chamber while the undead shook off the Stun.
+
+Armed with my trident, I jabbed at one, scoring 37 points of damage, almost ten percent of the lizard’s remaining health pool, but unsnagging my weapon’s barbed prongs took effort and precious seconds. Doing so caused another 21 points of damage but consumed my focus.
+
+The fifteen remaining lizardfolk, agile and fast, propelled themselves above, below, and around me. They swiped at me with extended claws, and none missed their attacks, scoring a trio of critical hits. Their blows only caused around 15 damage, but the net loss totaled 263 points, leaving me with only 67 health.
+
+I triggered my trump card—Whirl. As a maneuver, the underwater conditions augmented instead of hampering the effect. In the open air, Whirl whipped me around hard enough to manifest a visible blur. Submerged, it blinded me with bubbles and instantly spun up a whirlpool. The liquid pressing on my ears filled my head with swirling, scraping, and cracking noises.
+
+The star chamber’s rounded corners served the effect perfectly. The current flung the reanimated lizardfolk against the walls, where encrustations of mollusks and barnacles tore at them. Not only did I strike them all for 31 points of damage, but the whirlpool’s power pulled them out of arm’s reach.
+
+Messages for sixteen reanimated lizardfolk grating against the walls filled my combat log.
+
+/Urazmith takes 16 damage (3 resisted)./Urazmith takes 8 damage (1 resisted)./Urazmith takes 11 damage (2 resisted).
+
+Amphibious ignored the water’s push, allowing me to drift without getting caught up in the current. I jabbed Thrusts at nearly half the floundering undead before the current waned. The resistance from the encrustations eventually slowed the water flow and freed the lizardfolk from the centrifugal force. Unfortunately, only my weakest opponent, Urazmith, fell motionless.
+
+When the undead recovered, they propelled themselves toward me, but these were still water creatures. The residual motion of the whirlpool carried them off their mark. Most came close enough to receive a jab from my trident.
+
+I had enough time to Restore 100 health points before any reached me. The ensuing melee quickly overwhelmed me with attacks from all angles, and my health dropped precipitously into the low double digits.
+
+I reset Whirl’s cooldown with my Cossack of Rewind and performed the maneuver again. Besides attacking them all with 29 damage, the whirlpool caused over 60 points of damage, killing off half a dozen more enemies. I positioned myself to Thrust the remaining undead as the current carouselled them around me.
+
+Before any recovered for another assault, the Bleeds knocked out two more.
+
+With only seven remaining, I drifted upward to the oculus, fighting downward. I used the opening to prevent the lizardfolk from overwhelming me again. I defended the position until nearly every zombie drifted in harmless, lazy circles.
+
+I hated to use my robe’s cooldown already, but the environment and my abilities ideally suited the circumstances.
+
+As the floating corpses slowed to a stop, a flicker of movement reminded me of the fish. As slower swimmers, most of them missed the Moonburn and Whirl attacks. And they hadn’t taken scraping damage from barnacles and clamshells filling the walls. As the water slowed, more undead fish swam in my direction. While my trident could undoubtedly one-shot them, like the lizardfolk, I fought too many to deflect every attack.
+
+The fish swam at odd angles, which creeped me out enough to cast Mana Shield. If eating reanimated corpses had killed them, perhaps their bites possessed a zombie disease. I didn’t want to find out. Mana had been the one resource I hadn’t used against the lizardfolk, so I possessed a full tank. My Mana Shield absorbed 1-3 damage per bite, and it held long enough for me to wipe them out one at a time.
+
+Fighting small things underwater made me jumpy because enemies could attack from any angle, and it wasn’t easy to hear nearby swimmers with constant clicking and swirling background noises. Though I fell out of combat, I warily scanned the room and the corridor for movement to see if anything survived.
+
+Nothing moved of its own accord.
+
+Floating in the center of the star chamber, I performed a Rest and Mend and recast Heavenly Favor and Presence. Even though I had time on my buffs, refreshing them felt good, like topping off a vehicle’s gas tank. With so many strange factors to consider, I wanted the fear of expiring buffs out of my mind.
+
+The combat log confirmed what I suspected. Despite the number of zombie lizardfolk, their low levels yielded meager experience. I garnered 44 for the lot and nothing for the fish. Still, every gain put me within a 200-point striking distance from level 30, so I couldn’t complain.
+
+I took my time and let the mud and debris settle in the corridor. After visibility improved, I drifted to the hallway’s end to investigate the grate and the room beyond.
+
+As I approached, the light from Presence beamed between the grate. The pearly surface in the chamber below told me another crypt awaited. The room’s layout differed from previous temples. Its high ceiling reached the grate, giving me a better view of the crypt.
+
+A shiny metal tube protruded into the space. It matched the dimensions of the cylinder we’d crawled into before. Despite eons underwater, it hadn’t rusted or deteriorated. Instead of emptying into a side room, it extended 30 feet from the ceiling directly into the crypt. The tube’s other end awaited somewhere else in the dungeon, and I just needed to find it to enter the chamber.
+
+Though the room’s features changed, the same elements remained. One hollow tube projected into the ceiling. A sarcophagus rested in the center next to a podium-sized protrusion controlling the aging aura.
+
+I drifted away from the grate after seeing that the sarcophagus lay open, with its lid beside it. Nothing rested inside.
+
+The sign of a loose relic bearer wasn’t encouraging, but it made sense. I didn’t think the vault would be watertight, and since the anomalocari were marine creatures, the mummy had somehow shoved the lid off.
+
+Anyone floating around down there would be helpless against an aquatic monster. The anomalocaris we found in the first temple was level 44. The next was level 41. We killed them only because they lay helpless and bound. They tried to cast spells through exposed gills that fluttered helplessly in the open air, but their magic might be potent underwater.
+
+And yet, I saw no such mummy, but Presence couldn’t illuminate the far corners of the room. The idea of it watching me filled me with shivers despite a ring that prevented the chilly temperatures.
+
+I considered drinking that shrinking potion to gain access, but I couldn’t be sure I could get in and out in ten minutes and didn’t like the idea of trapping myself. Mineral Mutation could destroy the iron grate, and my trident inflicted structural damage. But letting an ancient relic bearer out of its prison wasn’t wise. It seemed best to leave the bars intact until I learned more about the situation.
+
+Everything depended on finding the other end of the tube.
+
+I retreated down the corridor into the central star chamber, where the ambient light from the oculus calmed my nerves.
+
+Perhaps a lizard took the relic up the tube. If the relic wanted a new host, would the old bearer willingly transfer a cursed object? I doubted it. Cursed items in RPGs revolved around one’s inability to give them up. Hence, the curse.
+
+Nor did it seem likely something that had already killed the anomalocaris. Perhaps a sudden flood of water pushed off the lid, and the mummy deteriorated. The possibility seemed too good to be true. Our experiment with Ida taught us that the relic had no power without a cognizant host. It wasn’t resting unattended in one corner of the chamber. If it affected Rither and the lizardfolk chiefs before him, it needed a bearer.
+
+Whatever the answer, I wouldn’t learn anything in a corridor. I drifted across the star chamber. One of the three remaining passages had to connect to the other end of the tube. Having explored one branch, I turned clockwise to the next.
+
+A heavy door blocked the opening. Its hinge had rusted and fallen to the floor long ago. A stone doorway and counterweight obstructed me.
+
+I cast Mineral Mutation to change swaths of the stone door into cotton and pulled the thing apart with my hands. After an hour of cutting, I hollowed out a hole big enough to swim through and poked inside.
+
+The space emptied into a storeroom. Objects had long since disintegrated beyond recognition. After fruitlessly pinging the room with Detect Magic, I withdrew and tried the last two connections to the star chamber.
+
+The third opening dropped into a set of stairs. I held my hand over my head to keep it from bumping against the carpet of clams and barnacles covering the ceiling as I drifted down them. Not walking through a dungeon felt strange—I just wished I had infravision instead of alerting everything to my entrance, like a police car flashing its lights.
+
+Down here, the clicking noises of the current quieted, but a liquid swirly sound filled my ears whenever I moved. I heard grit grind whenever I touched something. Guppies, water bugs, and squiggly things darted from crevices. I grew accustomed to their companionship and stopped jumping at every little movement.
+
+I passed through an intersection. Oversized doors blocked one direction, but gaps above the blocks opened into an empty room nearly inundated with mud. I found the same on the other sides of the intersection. The layout looked like apartments similar to the first dungeon.
+
+An open doorway ended in a familiar large room. Mineral Communion revealed it to be an old meeting room. Robed processions of lizardfolk received informal groups for liturgical, governmental, or educational functions. After scanning the area and finding nothing, I backtracked to the central chamber.
+
+No fallen doors blocked the last passage, which spiraled upward into a staircase. Its dilapidated remains looked more like black rags than the wooden structure it once had been. I ascended between the rotting supports, approaching a mirrored surface that rippled like mercury. The top of the stairs led to an air pocket.
+
+Poking my head above the surface, I gazed upward. Pieces of the rotting stairs continued above me, though it felt like I swam at the bottom of a well more than a stairway. Using Amphibious, I leaped from the water and cast Hot Air. Wood and support work protruded from divots in the wall, but the decay advanced to where no part could have held my weight. I rose high enough to Slipstream to a doorway opening at the top level.
+
+I landed in a large hallway supported by pillars. The stale air was breathable but smelled like a dank basement.
+
+I had access to all my spells in the open air, but moving forward without my robe’s cooldown tempered my courage. I put my boots on, now my only dry clothing, and readied myself for a proper dungeon crawl, where an explorer could move about on their own two feet.
+
+The ceiling looked intact. Only the star chamber protruded from the lakebed, so the rest of the temple’s architecture fell underground, explaining the trapped air.
+
+This hall’s high ceilings and pillars reminded me of the demon dungeon, so I scanned it for nagas. Mineral Communion revealed no traps, but it did give me visions of ancient lizardfolk ceremonies.
+
+Scenes showed the place as it used to be, but others depicted a ten-foot female humanoid with tusks protruding from her mouth. She waddled at a pace slowed by obesity. Beside her towered a pet tyrannosaur, which behaved like an ally or Familiar. The scene showed the pair moving from the north end of the hall to the south.
+
+The hallway opened into rooms at either end whose ceilings stood just as tall. I approached the north opening and scanned the room beyond. Broken artifacts and furnishing filled the square space. Some trash piles stood so high it looked like a junkyard.
+
+Long wooden tables lay smashed against the walls, heavy copper pans and dented serving bowls rusted on the floor. They hadn’t rusted into piles of dust—time had been kinder to these objects. Only a fine veneer of corrosion covered the patina. Yellow rotted cloth and strewn bits of furniture covered the area.
+
+I turned on Detect Magic to look for goodies, but it revealed a series of dangerous places to step. It seemed someone trapped the room with magically charged metal plates.
+
+I smirked. No other player in Miros could deal with traps as well as I.

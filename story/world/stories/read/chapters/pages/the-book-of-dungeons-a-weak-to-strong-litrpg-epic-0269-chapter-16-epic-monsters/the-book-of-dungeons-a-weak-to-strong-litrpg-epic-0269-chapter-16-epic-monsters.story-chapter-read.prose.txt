@@ -1,0 +1,135 @@
+After flipping on Mineral Communion, I studied the discolorations beneath the debris and piles of junk on the floor. Patches of acidic colors highlighted metal coils running beneath wide copper plates, all connected to pressure-triggered runes.
+
+The room’s original function looked to be an audience chamber. Twin doors on the far side of the room seemed too big to open anywhere but the outdoors. The lizardfolk would have needed another entrance, for the oculus wasn’t accessible during its original use. Magnetize revealed a cave-in of mud on the far side, so it made no sense to open them.
+
+Casting Read Magic, I studied the traps’ magical glows. Thin copper coils somehow embedded in the flagstone delivered an electrical zap charged by primal magic. Magnetize’s interface showed arrows winding around the coils to match the length of something silver. Unfortunately, I needed engineering skills and pressure plate mechanics to replicate the rune.
+
+Delay functions in the rune paused for half a second, giving the victim time to step to the center of the copper coils. I couldn’t replicate the rune, but knowing how to Inscribe Runes with delays might come in handy one day. I couldn’t imagine how they might become useful combined with Compression Sphere—the only spell I knew how to connect to a rune, but it never hurt to take notes.
+
+Since I dripped with water, I proceeded with caution. I just wanted to search the debris safely and deactivate the traps. No creatures camouflaged themselves in the piles of rotting wood, rags, metal bowls, and stacks of garbage. Mineral Communion helped me avoid stepping on magical and nonmagical triggers. Using the Magnetize interface, I scanned for metalwork beneath the floor’s masonry, hoping to locate the magical equivalent of a switch box to deactivate the system.
+
+With all the overlapping spell visuals, I lost track of the physical world’s obstacles and tripped over a rag. It pulled over the stack of metal bowls, causing them to crash, scatter, and roll across the floor, making as much noise as cymbals.
+
+So much for avoiding traps—I cringed as I listened for a response.
+
+From the hall, a faint clatter pounded like someone rhythmically slapping long bamboo sticks against a stone surface. The slapping sounds grew louder.
+
+I tossed a few glow stones to light the room, doused Presence, and sheathed Gladius Cognitus. For whatever reason, I felt the impulse to hide and crouched behind a pile of trash stacked against the wall.
+
+As the glow stones rattled across the floor, what entered the room dropped my jaw.
+
+Name
+
+Reanimated Elder Gargasaur
+
+Level
+
+28
+
+Difficulty
+
+Challenging (yellow)
+
+Health
+
+1610/1610
+
+The skeleton of a two-story tall elder gargasaur charged into the room. Its level 28 status seemed too high for an undead, almost matching the living version of the dinosaur that attacked Yula and me a year ago. By my estimates, it should have been level 14.
+
+A giant, skeletal humanoid rode on its back.
+
+Name
+
+Reanimated Swamp Ogre
+
+Level
+
+30
+
+Difficulty
+
+Challenging (yellow)
+
+Health
+
+1880/1880
+
+Anything riding a dinosaur counted as an epic creature in my book. It seemed cliché or iconic, like mounting laser beams on sharks, but I loved it. Not that I aspired to die, but if something as awesome as this knocked me out of the game, Crimson would include it in the reality show’s highlights.
+
+The top-heavy gargasaur slowed upon entering the room, directing its heavy head toward the three glow stones still wobbling on the floor. Unimpressed by the glowing rocks, it nudged aside a pile of refuse, searching for the source of the earlier disturbance.
+
+The ogre skeleton held onto its mount’s back ribs with both hands. It didn’t climb down to help with the investigation. It carried no weapons. Giant creatures only needed a fist or handy piece of furniture to inflict damage.
+
+How could I exploit this top-heavy duo? Despite the boatload of health between them, I had to admit fighting on solid ground felt so much better, but I couldn’t count on the ogre staying mounted if I turned the battle against them. I also didn’t want to fight in this room. If the plates discharged electrical damage, neither undead brute would take damage. The traps gummed up my fighting potential, for I couldn’t concentrate on Mineral Communion and avoid them during the heat of combat.
+
+The clumsy dinosaur triggered traps as it stomped through the garbage. Lightning bolts lanced the surrounding space in short blossoms of electricity, lighting the room like fireworks. The traps toasted the trash but caused no health loss to the skeletons.
+
+The pair searched the far side of the room by the glow stones while traps exploded in electricity around them. It stood only a matter of time before they directed their attention to my side. When the creature turned, its great tail cleared swathes of debris, setting off more lightning traps.
+
+Wrinkling my nose at the sharp smell of ozone, I flashed Magnetize to detect changes in electrical fields. The spells interface showed shorter arrows on the floor, indicating that the traps hadn’t immediately reset themselves.
+
+My inventory held nothing effective against undead. Fabulosa had taken all our anti-undead items, but I spotted something I recently acquired, an item that might help me fight these skeletons.
+
+I took my chance and leaped from my hiding space toward the area of the floor cleared by the dinosaur’s bony tail. I drew and swung Gladius in a wide arc, twisting the weapon to hit it with the blunt side of the blade. The attack dealt 89 damage and earned me a 40-damage tail swipe that knocked me back to my hiding place.
+
+I landed hard against the wall, popping a Rejuvenate on myself before getting back on my feet. While the spell proved effective against the undead, in this case, I needed it more for myself.
+
+When the dinosaur turned to face me, the ogre lurched to one side, struggling to maintain its balance. Aside from heavy footfalls and bones clacking together, neither monster made a sound. No spectral roars or haunting laughs filled these empty halls.
+
+The spinning monster opened its bony maw and bit me. My sword missed its next strike, and the creature answered with a bite, crunch, and shake. By the time I pried myself loose, the combat logged recorded four successive attacks totaling 240 damage—far more than I thought a level 28 creature should be able to deliver. Rejuvenate wouldn’t save me from another attack like that.
+
+Extricating myself from its maw required desperate struggling, and I couldn’t afford to be picky about where I landed. The gruesome twosome cornered me in a room riddled with traps—hazards that only affected me. The situation seemed critical enough to warrant taking a few chances.
+
+I pointed Gladius Cognitus at my feet and issued the command to release a Compression Sphere. Jumping over the monsters might save me from using Slipstream. I could always use the spell to whisk me to safety if I missed.
+
+Like the end of my first dungeon crawl, golden ribbons marked my parabolic trajectory, but the air blast wasn’t powerful enough to clear me of the pair. I flew from the white puff of vapor onto the ogre. With Gladius in one hand, my free hand grabbed the creature’s clavicle, swinging me onto its back.
+
+The maneuver made me feel like the coolest kid in the game—a player riding a monster riding a monster. The short-lived moment ended when the bucking gargasaurus decided it carried one passenger too many. I scored only one critical hit before the spinning dinosaur shook me and the ogre off its back.
+
+I landed in the room’s doorway, stood, and fled into the pillared hall.
+
+A pile of trash softened the ogre’s fall. It regained its footing and joined the dinosaur in a chase to catch me.
+
+Sheathing Gladius, I ran into the pillared hallway and unwound the anchor line I’d made in the lizardfolk colony. The anchor wasn’t necessary because I tied off my lizardfolk catamaran to the flotilla of similar vessels.
+
+The cabbage-sized rock I used for an anchor suited the occasion, and I’d already double-checked the knot to ensure it held tight. Lloyd taught us only two knots for sailing—and one of them included the bowline. The bowline created a loop that I used to secure the anchor.
+
+I didn’t need to press my ears against the ground to hear the skeletons’ pursuit. Their clacking feet echoed throughout the space. The pair appeared in the pillared hall.
+
+Swinging the anchor, I launched the weight toward the dinosaur, but it only clunked off its skull, landing harmlessly at its feet. I’d missed and now held the other end of the line.
+
+I’d aimed to slip the line through the creature’s ribs. After missing, I hastily reeled in the anchor. Maybe the anchor wasn’t perfect after all—perhaps I’d made it too big for what I needed.
+
+My clumsy attack attracted their attention. If the dinosaur could roar, it would have done so before charging straight toward me. I stood in front of a pillar and reeled in the anchor. Anticipate triggered, as I knew it would, and the charging skeleton cratered against the stone support, causing itself another 63 damage—a pittance considering its health pool.
+
+My desperation peaked when the ogre’s footfalls reached the hall. I couldn’t fight both at once.
+
+Instead of healing myself, I popped the ogre with a Rejuvenate to buy myself ten seconds. It twisted and thrashed while I dealt with the dinosaur.
+
+Instead of trying to throw the anchor through the monster’s ribs, I threaded the needle myself. I triggered Slipstream before the ogre could reach me and whistled through the dinosaur’s ribs. I held on to the end of the line opposite the anchor and wasted no time when I landed, pulling it taut through the beast’s bones. Still holding the line, I ducked around the pillar.
+
+The creature’s tail swung wide and smacked against the wall as it turned to face me.
+
+When the anchor caught between the dinosaur’s ribs, I circled the pillar, tightening the loop. The line tangled into the monster’s jaws. The teeth weren’t sharp enough to sever the rope, so it nestled against its jawbone. While the monster tried disentangling its jaw, I took another lap around the pillar.
+
+After two more wraps, I tucked the line beneath itself, hitching the skeleton to the stone support, using the only other nautical knot I knew—the clove hitch, a quick, self-tightening knot.
+
+As I backed from the wrangled dinosaur, the ogre recovered. Bringing down its great fists, it delivered two 50-point blows. It would have been able to hit me more, but I ran past it. It wasted time chasing me around the pillar and the entangled dinosaur.
+
+The gargasaurus showed no comprehension of its predicament and fecklessly thrashed against the tangles while I faced off against its former rider.
+
+Backing away, I played hide-and-seek behind the pillars enough to give myself a badly needed Restore and another Rejuvenate, recovering much of the health I’d lost.
+
+I equipped Gladius and got to work.
+
+I treated the ogre as an opponent armed with two bludgeoning weapons, jabbing and dancing as Dino had taught me in the battle college. With my sword, the 10-foot opponent had no reach advantage. Withdrawing maneuvers bought me time to cast more Rejuvenates, and I used the pillars to negate the ogre’s attempts to Charge.
+
+I blew through my 420-point mana pool using Mana Shield to stave off unavoidable attacks. Being able to Refresh Mana during combat kept me alive.
+
+Gladius drained 6 percent of the monster’s health pool with every hit. I whittled my bony opponent down to zero health in minutes. When it died, it fell to the floor in a scatter of bones. When I finished, I Charged the helpless gargasaurus, still trussed to the pillar by the anchor line. Since every blow delivered critical damage, I ended its existence in less than a minute.
+
+I collapsed on the floor, performing a Rest and Mend before anything else could rush me. While I recuperated, I re-buffed and checked out the experience gained from the monsters. I earned 103 for both.
+
+Scanning the bodies with Detect Magic revealed a magical item I hadn’t noticed.
+
+The ogre wore a ring of orange rarity—it meant something valuable.

@@ -1,0 +1,165 @@
+I didn’t mind that none of the goblins I’d faced hailed from Rezan’s honor guard, the so-called Deathless. Even with a buffed-up Blood Drinker, I couldn’t compete with Rezan’s healing. Any hits that weren’t one-shots may as well be misses. The more I could build up my blade before facing him, the better off I’d be.
+
+I searched north of my position but found vacant burrows. The word seemed to have spread about the brash young human from the south.
+
+By night, I grew tired and doubted my original plan of hunting the king before he reached Hawkhurst. After a quick search of the area, the goblin tracks split into two parallel paths heading south.
+
+Detect Magic revealed more eyeballs, and I called them out to Beaker, who performed flybys, extinguishing them with his beak and talons. Rezan had inadvertently shown me which footprints to follow—his eyeballs served as breadcrumbs.
+
+We found them regularly, giving me a sense of their function beyond spying. It seemed Improved Eyes could cast more Improved Eyes, for they always appeared within line-of-sight of one another, allowing casters to observe without travel.
+
+This theory explained how Darkstep had cast eyeballs around Hawkhurst without triggering the settlement’s radar. It also explained why he’d cast thousands of Improved Eyes across the continent. Was he monitoring everyone in Miros? If he could only monitor one eye at a time—maybe killing them created strategic mistakes—doing so alerted him.
+
+Shaking off PvP worries, I focused on the job at hand—destroying a relic kept me busy enough. I followed Rezan’s group through the forest as night settled. Unfortunately, Presence broadcasted my position, eliminating the element of surprise.
+
+Goblins had no talent for hiding their tracks. Their individualistic, disagreeable nature compelled them to walk side-by-side, utterly betraying their numbers. But following Rezan’s army felt like playing an unseen opponent, like an online strategy game in which players guessed each other’s moves. Whenever he split his forces, I followed the one behind the Improved Eyes, hoping he wasn’t laying down a false trail. Since Beaker and I poked them while walking, Rezan knew my location the entire time.
+
+When the tracks converged into one group, a mass of hundreds, I knew the king had given up trying to shake me. I caught up with him in the wilderness above Hawkhurst Meadow. Like the kobolds, the illumination of Presence caused the goblin’s eyes to shine in the dark, but none glowed as brightly as the king, who ensconced himself among the rear ranks of his infantry.
+
+My strategy involved getting close enough to the king to command Beaker to perform his catch-and-release trick while buffing up Blood Drinker. I spent a point on Whirl, leaving me with no power points—a situation that made me feel immediately vulnerable. I wasn’t within reach of making level 29, especially against enemies too low to provide experience points.
+
+If Hawkhurst had finished the temple, I would have fought within the settlement’s boundaries to receive a home-field advantage, using Holy Smoke for a reset cushion.
+
+I wished I hadn’t spent a power point on Mineral Mutation to kill that stupid rubber elemental. Channeling wasn’t possible in most combat situations, and spending points on situational powers continued to cost me. Though Fabulosa would approve my recent expenditures, Avoid Ammo and Whirl, but I wasn’t as strong as a level 28 ought to be—and that’s not just because I’d lost my gear.
+
+If I’d taken Arcane Sight, I could blink Presence on and off, blinding my opponents with a strobe while leaving my visibility intact. I could also use the tactic against other players.
+
+Before I cycled through my list of unused powers, I stopped myself. Pining about running out of power points did me no good. Fabulosa was right—I second-guessed myself too much, and it made me a wishy-washy leader.
+
+I dismissed Beaker before the goblins got too close. He seemed agitated that I wasn’t attacking or running away and made such a racket in the trees that I didn’t want him to scare off the quarry. I would summon him again when I got closer to Rezan.
+
+While the goblins approached, I channeled Dig to carve a 10-foot ditch, ringing my position. I pulled earth into my spell’s inventory, leaving exposed roots from nearby trees, which made the ground uneven and treacherous. The knee-high roots reached the goblins’ waistline, acting like barbed wire, snagging and tangling blades and bits of armor. Most low-level goblins acted selfishly, stupidly, and without coordination. Their bodies would press together to avoid the roots and ditch, maximizing the effect of Whirl.
+
+I repeated the operation of Digging a circle ten yards away, the maximum extent of Slipstream.
+
+My plan involved quite a gambit. Without power points, I had no safety net.
+
+Goblins understood the importance of digging and earthworks—especially for combat, but the enemy saw little danger in my preparations, giving me plenty of time to use Dig to full effect. They had an inkling that I intended the root-filled ditches to impede advance, but they didn’t understand their true purpose of hindering retreat.
+
+Undeterred, the multitude advanced beyond the first circular trench to the edge of the second, encircling me with a twenty-yard berth.
+
+A thick mass of guards surrounded their king, who broadcasted his position with glowing amber eyes.
+
+I could hear grumblings and rustling of equipment. I didn’t need Greenie’s language lessons to understand the order to advance. The ring tightened but not uniformly, but they corrected the formation after much shouting back and forth.
+
+When they came close enough, nameplates appeared, and their predictable formation made me grin. They’d pushed the weaker ranks to the front as cannon fodder—perfect conditions for anyone wielding Blood Drinker. I studied the nameplates surrounding Rezan. Some of his honor guards had gained a level since I’d last seen him in the Shoughmeat dungeon. Many attained two.
+
+Two prominent figures towered over the goblins.
+
+Name
+
+Dol, Hobgoblin Bodyguard
+
+Level
+
+21
+
+Difficulty
+
+Dangerous (orange)
+
+Health
+
+450/450
+
+Dol stood behind the king beside another hobgoblin named Pommer, who stood two levels beneath him but possessed 30 more health. Like the other Deathless, the hobgoblin pair wore yellow skulls for helmets, giving them a somewhat comical effect, as they looked like undersized hats.
+
+Between them floated the king. Only because of his levitation could Rezan see over the shoulders of the larger goblins around him.
+
+Another nearby figure, Crooga, caught my attention. Aside from the king’s ridiculous vestments, only she wore a cloth garment.
+
+Name
+
+Crooga, Goblin Inquisitor
+
+Level
+
+10
+
+Difficulty
+
+Dangerous (orange)
+
+Health
+
+200/200
+
+When General Sturm gave orders to launch arrows, I channeled Avoid Ammo, rebounding missiles into the crowd. The friendly fire caused a commotion in the front ranks, who stopped shooting and shouted insults at goblins behind them. Eventually, retaliations began, and goblins shot at one another. I used the opportunity to channel Refresh Mana during the absurd exercise. Hundreds of goblins shooting for two minutes caused the goblins significant self-inflicted damage.
+
+Since the king’s healing range reached 300 yards, streams of golden ribbons writhed amongst his subordinates, punctuated with full heals of Restore. Even at an expenditure of a tenth of normal mana costs, Rezan’s overpowered healing couldn’t keep up with his army’s inclination to harm itself and had emptied half his 300-point mana pool—and because he participated in combat, he could only drink 50-point mana potions to replenish himself.
+
+Greenie’s insight into goblin culture paid off. Knowing their temperament had given me an idea of how to take advantage. As Rezan shouted to his general, I egged them on to attack. Using insults they could understand, I taunted their ineffectiveness. It drained even more of the king’s mana.
+
+The angrier I made them, the harder they pulled on their drawstrings, launching missiles that rebounded further and harder into their ranks.
+
+By the time they obeyed the general’s orders to cease fire, most of his ranks gnashed their teeth in frustration. Rezan’s healing kept them alive and intact, but they fumed with discord. What force held them at bay, I couldn’t guess, but the unruly lot held their ground.
+
+I only dismissed my channels when the last arrows and crossbows ceased firing. Thanks to Refresh Mana, I stood at full health and mana.
+
+After a brief consultation with the king, the general finally ordered to charge. The surge forward wasn’t a mindless wave of automatons selflessly throwing themselves at me—even goblins intended to survive combat.
+
+As I predicted, none of Rezan’s Deathless joined the maneuver.
+
+I picked out a target.
+
+Name
+
+Velix, Goblin Trooper
+
+Level
+
+5
+
+Difficulty
+
+Dangerous (orange)
+
+Health
+
+70/70
+
+The first wave comprised goblins from levels 4 through 6, with health pools so low I wouldn’t need a critical hit to one-shot them. The game made their threat rating orange yet didn’t award experience points. They rated so high because they came from an army-sized encounter, but their low health simplified matters.
+
+Many tripped over the exposed roots from my shallow trenches, but when they entered the ten-yard radius of Blood Drinker, they moved with varying degrees of caution. The few bold enough to attack did so clumsily, and I did my best to block their attacks while crying out in pain as if I’d taken critical hits. Feigning weakness, I stumbled, and goblins charged with lust for a quick kill. Each showed eagerness to assault the wounded, solitary hero, showing peers and betters their bravado.
+
+And yet, I staved them off from swarming me. The longer I held my ground, the more the back ranks climbed across the trenches, pushing their comrades forward. I countered and dodged attacks, using all my battle college tactics to predict and avoid strikes. When their blades, spears, and clubs landed on me, I cast Rejuvenate to mitigate my losses.
+
+All the while I struggled to stay alive, Rezan’s Deathless crossed into the first ring I’d dug, thinking the trench and roots offered a defensive position. Coming close worked for my plans—I could summon Beaker and issue seize-and-drop orders.
+
+When my health dropped, I cast Transpose on a goblin next to me, placing myself at their back to maximize my chance for a critical hit. The incoming damage ceased momentarily as the confused goblins lost track of me until I performed Whirl.
+
+When I planted Blood Drinker between my target’s shoulders, my arm involuntarily stretched as the sword swung in a wide arc of hot plasma. I held onto the blade, along for the ride, as Whirl spun me several times for a few seconds. Everything inside the radius blurred with white wisps of vapor. The miniature tornado dissipated at the maneuver’s end.
+
+/You crit Velix for 148 damage (0 resisted)./Velix dies./Whirl strikes Blister for 148 damage (0 resisted)./Blister dies./Whirl strikes Reezit for 148 damage (0 resisted)./Reezit dies./Whirl strikes Mecklin for 148 damage (0 resisted)./Mecklin dies.
+
+Ignoring the combat log scrolling with death messages, I cast a much-needed Restore on myself at the maneuver’s end and followed with a quick 100-point health potion. Wasting no time, I opened the Slipstreamed interface to slow time and assess the situation.
+
+Blood Drinker operated at a +94 after taking out almost fifty goblins. I placed my targeting reticule at the center of the neighboring circle and swooshed behind the king’s attachment of honor guards before they processed Whirl’s effects. After resetting the ability’s cooldown with my robe, I reactivated Whirl again and Charged to maximize my chance of a critical hit.
+
+Blood Drinker produced another crit on the second Whirl, killing almost as many goblins as the first Whirl while raising my weapon’s bonus to +132.
+
+As the crimson pinwheel of magical damage dissipated, I summoned Beaker before assessing how many goblins died.
+
+“Beaker! Get the goblin in the fancy robes! Take him high into the air.”
+
+My griffon’s beak and eyes widened at the host of green monsters surrounding us. Ignoring where I pointed, he launched into the air, screaming an alarm.
+
+“No, Beaker. Get back here—get the one with the gown! Pluck that one up and lift him in the air!”
+
+My Familiar’s beating wings struck sheer terror into the goblins. Any thoughts of charging me had fled in their eyes. They reverted to their primal urge for survival and backed away, tangling themselves in roots and blocking one another’s escape.
+
+I waved for Beaker’s attention, who took in the chaotic scene playing out beneath him. Incredibly, I caught his attention and pointed at Rezan. “Carry him up to the sky, buddy. Be a good griffon and get him!”
+
+Beaker pumped his wings higher and flew upward.
+
+“No! That’s the wrong way. Get back here!”
+
+Abandoned by my pet, I ran to the nearest goblin and performed a Thrust. I hacked at the one next to him. With the griffon gone, they’d reformed ranks, and I needed to harvest as many bonus points as possible. Despite my target’s state of panic, I missed but took him out with a follow-up attack. Abandoning all techniques and nuance, I slashed like a madman toward Rezan. My hits caused over 150 damage, taking out lower-level goblins in a single hit.
+
+General Sturm regained composure after a dozen goblins fell to Blood Drinker. He shouted to Rezan and his Deathless, marshaling resources to regain battle control.
+
+A pale blur swooped to the center of the Deathless honor guard, moving at the equivalent of a griffon’s attacking dive. Beaker snatched his prey with such violence his talons landed with an audible thump, bearing the struggling target high above the canopy.
+
+A flailing figure soon after fell to their death.
+
+It wasn’t Rezan.

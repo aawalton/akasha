@@ -1,0 +1,135 @@
+I jumped and sidestepped from timber to timber. The uneven footing throughout the tunnel complicated mobility, but the logs remained stable throughout the fight. The locked-together wood groaned under the dam’s weight but showed no sign of stress from my shifting weight. Mud and clay between them diminished the chance of accidentally wedging my foot. Dripping water nourished the vines, which wove through the logs along the walls and ceilings.
+
+While vegetation blocked the entrance, the dungeon layout facilitated my kiting strategy, giving me plenty of room to jab and slash at the chasing manitou. The figure 8 afforded endless retreat opportunities. Moving backward, I avoided standing beneath the giant white flowers until I reached a loop in the dungeon that narrowed—unless I changed something, I would have to walk directly beneath the hanging bulb. I Scorched it before I reached it.
+
+The primal spell blackened the bulb’s petals to ash while the nearby flowers shriveled, exuding a bloom of pollen, spores, or pixie dust pervading throughout the dungeon. As the dust settled, it healed the manitou by 10 percent and inflicted me with a debuff.
+
+Debuff
+
+Choking Spores
+
+Prevents eating or drinking. Breathing choking spores delivers 1 point of damage per second and interferes with spellcasting. This is a stacking effect.
+
+Duration
+
+60 seconds
+
+This Bleed-like effect prevented access to potions and took a significant portion of my total health pool of 290. While Gladius prevented anything from interfering with channels, Choking Spores lengthened the cast of non-instant spells like Scorch and Restore.
+
+Knowing that the bulbs healed the manitou provided the missing piece of the puzzle. As long as I didn’t destroy any more flowers, I could use Imbued Weapon, Scorch, Thrust, and careful swordplay to bring the creature nearly to zero. I experimented with Slipstream, but my backstab yielded no critical hits. I’d got unlucky, or this plant creature had no flanking vulnerabilities.
+
+After expending over eighty percent of my mana, I hacked, stabbed, and burned through 90 percent of the monster’s health. Wielding Gladius Cognitus, I could Refresh Mana while fighting, though it looked like I’d have a little in the tank before the fight’s end. I didn’t want to blow cooldowns if I didn’t have to—I still had a relic to destroy.
+
+When the manitou dropped to 300 health, I caught movement over the monster’s shoulder. The nearest bulb squeezed in on itself, yellowed, and all the surrounding flowers lost their color. As the only pretty things in this dank environment, I noticed their withering, even during battle.
+
+Thick trails of particles drifted from the flowers to the manitou, and the monster’s health bar quickly slid from 10 percent to 100.
+
+For the first time, I felt in danger. Now, the vine-choked entrance amounted to no trivial detail. I backed away to the tunnel intersection to see if the entrance remained blocked. It was. Lizardfolk hadn’t taken up torches and pitchforks and stormed it from the outside. The impassible vines showed no sign of parting until the manitou deemed it so.
+
+The manitou’s renewed vigor forced me to rethink my strategy. I counted half a dozen bulbs throughout the tunnels, and the layout made it impossible to corner the creature to prevent it from tapping into another heal. Fighting the manitou almost wiped out my mana reserves. I could Refresh Mana twice if I used my robe, but that would do little good if the monster could recharge up to 6 times over.
+
+I stopped wasting mana on Imbue Weapon and Scorch. Unfortunately, I stood in a position where I needed to devote all my reserves to healing. At least Thrust didn’t cost mana. After 12 seconds of casting, I gave myself a badly needed Restore before channeling Refresh Mana.
+
+Even though the spores delivered stacking Bleeds that dropped me to double digits, the only way to stop the creature from healing was to preemptively remove its healing resources. I broke my engagement with the manitou and sought the nearest hanging bulb. Swinging at it like a piñata, I destroyed it, causing the nearby flowers to release a bloom of Choking Spores.
+
+I cast Rejuvenate before seeking the next bulb.
+
+The manitou picked up its pace when it realized my plan to deactivate its life support system. It chased me while the stacking debuff eroded my health pool.
+
+Great pale leaves filled the air as I battered bulbs until they burst open. Each time I destroyed another one, a Chocking Spores icon appeared. With four icons in my peripheral vision, casting Restore took me 22 seconds, so long the creature reached me to deliver a 48-damage blow. I fled with only 22 health and losing 4 health for every second that passed. I cast Rejuvenate when its cooldown permitted, keeping my health barely in the positive range. If the monster had a ranged attack, I’d be in big trouble. I kited the creature until the debuffs expired.
+
+The layout expedited my mission to destroy bulbs. The mini-game in the first phase involved healing enough to survive the stacking debuffs from every destroyed bulb. I survived the operation by using my robe to reset Refresh Mana. After smashing all the bulbs and shaking the last Choking Spore, I settled into the fight’s second phase—facing the monster with my entire mana pool but only a third of my health.
+
+I optimized my fighting efficiency by rotating Thrust, Restore, and Rejuvenate.
+
+Letting my sword do the lion’s share of the damage allowed me to focus on healing and conserving my mana in case the monster had any other surprises.
+
+It didn’t.
+
+When the manitou collapsed to zero health, I earned 72 experience points. The thing’s mouth yielded a broken core—which wasn’t surprising after Gladius explained the creature’s origin. Technically, the nature spirit counted as a construct, like some undead or golems. Detect Magic revealed only one magic glow in the shape of a potion.
+
+The potion turned out to be a Greater Potion of Agility whose +20 boost increased speed and combat effectiveness for 10 minutes. Stat boost potions provided the least desirable effect. They’d be more useful if they worked independently of health and mana potions. Without the ability to respawn, saving the 10-minute potion cooldown for health and mana potions seemed too crucial to sacrifice for a combat boost.
+
+After removing its core, the manitou’s body fell apart, resembling a rotting mulch of grass clippings and pulled weeds. As I kicked the pile around, removing all semblance of a creature, the bulbs, flowers, and connecting vegetation wilted. The vines blocking the entrance broke apart like dried husks, and I easily cleared them with my sword.
+
+I emerged from the dam’s tunnel, holding the wooden idol stolen by the evil nature spirit. My audience made high-pitched hisses, an alarming sound if it wasn’t clear that they made it in celebration. Lizardfolk surrounded me, extended their arms, and touched me in appreciation.
+
+Rither greeted me. “You are true to your word, human. My people thank you.”
+
+Beaker plopped onto a nearby log after seeing me receive so much attention. He fluffed his wings to augment his size as if to assert that I belonged to him, and lizardfolk looking to stake their claim on me had better back off.
+
+I stroked his chest feathers to set my jealous griffon at ease. “Hey, buddy. I missed you.”
+
+The griffon screamed and tilted his head. His eyes dilated as if unsure about the lizards surrounding us.
+
+I spoke to Rither as I petted my Familiar’s chest feathers. “You’ll divert the water back to the swamp, yes? If a witch’s pet wants you to do one thing, it’s best to do the other.”
+
+Rither bowed. “I couldn’t agree more. She’s best left asleep. We’ll do so at once.” He slapped his webbed claws together, and a group of the lizardfolk made off to the far side of the dam.
+
+“We have a readied watercraft.” He gestured to a strange dugout canoe in the bushes beside the dam.
+
+It looked like two impossibly curved logs held together by wooden bars. Both logs tapered on the front while the backs ended as if someone had sawed them off. The dual-hull design looked like an outrigger or a catamaran, but I didn’t know how to sit on it.
+
+“Where’s the seat?”
+
+One of the younger lizard gestured to the back crossbar holding the curved logs together. “Hang here and push with your tail.”
+
+We realized the issue and shared a grin.
+
+The old lizard turned to me. “We can fashion a paddling stick for you. I’ve seen orcs use them up north.”
+
+I bowed. “That would be great. Thank you.”
+
+Yula used steam to bend wood for her canoe, but sweating wood took time. Curving logs in a 45-degree arc must have taken the lizardfolk many weeks. Rither hadn’t corrected my assumption that the lizardfolk had no canoes left. He’d been holding out on me, hoping I’d deal with the manitou first. His crafty negotiating skills made me grin.
+
+“After I destroy the relic, you should visit Hawkhurst. We’re on the north side of the lake. If the swamps offer anything of value to humans or dwarves, you’ll have eager trading partners.”
+
+Rither bowed, flicked his tongue, and seemed hesitant to reply.
+
+“What’s wrong?”
+
+“I don’t mean to sound ungrateful. You have freed us from the manitou, but I hear a faint whisper.”
+
+I grunted. “I’m afraid that’s not the manitou. You’ve been doubly vexed by a demon named Gorgus. He’s been calling your leaders to the lake.”
+
+Rither’s eyes sharpened at the name’s mention. “Gorgus! That’s the word the chief and the council members spoke of before giving themselves to the water.”
+
+“I’m afraid Gorgus Hunting Season starts tomorrow. The manitou proved a tougher customer than expected, and I blew through two daily powers. I’ll need a night’s sleep before my cooldowns reset.”
+
+Rither’s agitation grew to fear. “Does that mean I will hear him all night?”
+
+I held up my hands in a steadying gesture. “Don’t worry. I have a short-term solution for that.”
+
+I tossed up the Dark Room rope and pointed. “You can join me in this small room if you climb this rope. There, you won’t hear his voice at all. Magic doesn’t work in there.”
+
+I stayed on the ground so I could understand him and urged him up the rope. After much coaxing, Rither climbed and poked his head inside. He flicked his tongue and quickly scrambled down the line.
+
+“Did the voice go away?”
+
+Rither flicked his tongue. “It did. But the air is different in there. It smells wrong.”
+
+“Yeah. It’s a bit stale inside.”
+
+“It smells like nothing.”
+
+“Is it too much for a night?”
+
+The lizard looked at the dam and at the line dangling in midair. “It is a strange place.”
+
+“You’re telling me.”
+
+Rither’s apprehension returned, and I could tell he wasn’t sure if spending a night in the Dark Room was worse than enduring the relic’s call.
+
+“If you prefer not to go, I’ll take no offense. The relic doesn’t drive people crazy after just one night. How long did it take for your leaders to…” There didn’t seem to be a gentle way to describe drowning themselves.
+
+Rither finished my sentence. “…seek the relic? It varied. It took as long as a week. Others less so.”
+
+“But no one overnight?”
+
+The lizard shook his head, compulsively flicking his tongue.
+
+“It’s better if you disband the settlement. I’ll come back and let you know once I destroy the relic. You can return to your people if you like. I’ll be sleeping in here if you change your mind.”
+
+Rither bowed and climbed back down the rope.
+
+After a day of marching through the forest and fighting the manitou, I turned in for the evening after cooking a hunk of crabmeat and changing into a dry set of clothes. I hung my robe to dry. For whatever reason, moisture in the Dark Room evaporated quickly, and it never had a musty smell—or any odor, for that matter. I would be in the water tomorrow and wanted a full breakfast and rest before making an uncomfortable canoe ride.

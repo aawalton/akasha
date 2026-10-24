@@ -1,0 +1,93 @@
+A few dozen funnels stood before me. Each depression looked identical, giving me nothing to debate over which to take inside. Settling for one in the center, I poked Creeper into the circular well and looked through its spearhead.
+
+A mineral buildup roughed out the sides of the shaft, but its symmetry betrayed an artificial origin. Someone had hollowed them out long ago, but it looked like they’d used machinery or a giant drill. To prepare for a smooth decent, I put away the short sword and scabbard I’d recently tied to my waist to keep them from snagging on the sides. I secured a rope to a long spike, which I pounded into the ground with my Hammer of Might. After tossing the line into the hole, I dropped inside.
+
+The shaft dropped for twenty feet before skewing at a slight angle. I slid against the sides of the walls until I ran out of rope. While hanging on its end and bracing myself against the sides of the pipe, I hitched it to another line and ensured that the lashing held. I rappelled another thirty feet down until I reached a round room filled with odd mechanisms. The heavy pipes and basins reminded me of a simplified version of the Underworks, one with no valves or controls.
+
+Eight vertical shafts drained into tubs that floated a few feet above the floor. The sturdy rock tubs, collecting rainwater, hovered over the floor, looking like modern sculptures. I approached one almost filled to its high watermark and nudged it. It tipped over easily, spilling its water into a drainage system that disappeared into the room’s floor. I couldn’t guess where the water went.
+
+Magnetism’s interface explained the invisible force governing the floating tubs. A repulsion stronger than anything I’d seen held them aloft. Someone designed the tub to tip when water filled it, and it righted itself after emptying.
+
+A central disk with a grooved channel between the tubs diverted the rainwater into separate holes. The device floated in midair and had no complex workings.
+
+It wasn’t a giant water clock. It possessed no face, and its workings seemed too simple. I imagined a stable of monsters below, each depending on a measure of rainwater to survive. I couldn’t conceive what other purpose one might have for dousing measured quantities of water into the earth.
+
+While Detect Magic showed nothing aglow, the Magnetize interface revealed magnetic fields so potent that I could barely read the direction of its attraction. A powerful repulsion from metalwork kept them aloft, exerting a repulsion stronger than anything else I’d encountered. Extending a silver coin near a tub caused it to fly out of my hand and get lost somewhere in the floor’s mechanisms.
+
+I Magnetized the nearest tub. The floating cistern didn’t move, but I nearly brained myself after rocketing across the floor. I tried to avoid a collision with Slipstream, but magnetic pulls counted as grapples, and I slammed into the basin.
+
+Never had Magnetize affected my position. I reread the spell’s description.
+
+Power (spell)
+
+Magnetize (tier 3)
+
+Prerequisites
+
+Mineral Communion, Arcane magic rank 14
+
+Cost
+
+25 mana
+
+Cooldown
+
+none
+
+Cast time
+
+Channel
+
+Description
+
+Caster instills target metal within 5 yards with magnetic attraction for a duration of one second per rank in arcane magic. Concentration must be maintained to sustain the effect. Proximity to caster and natural magnetism will increase the spell’s effect.
+
+With magnets so strong, it seemed safer to leave the tubs alone.
+
+An opening between rain collectors led to a catwalk suspended over a dark chasm. Giant disks and oversized machinery filled the void beneath the catwalk’s grillwork. Assemblies and axles spanned the space, supporting great wheels whose proximity reminded me of a gear shaft, but none of the cogs bore teeth.
+
+The catwalk hanging above the strange gears had waist-high railings, reminding me of fire escapes clinging to the sides of old buildings. It marked the first feature in the dungeon that suited a humanoid-sized explorer. Amidst the gigantic wheels, the catwalk’s familiar proportions somewhat comforted me. The light of Presence showed through the walkway’s grill, projecting a grid of shadows onto the machinery below.
+
+The shapes beneath me weren’t just structural. Creeper revealed disks the size of merry-go-rounds and Ferris wheels touching one another like great gears—yet none possessed teeth.
+
+I felt stupid worrying that the grill might not support me. The metal walkway didn’t shake or hum with vibrations when I jumped down onto it. Slipstream gave me plenty of opportunities to reach a safe perch on the giant beams and wheels if anything knocked me off. Crossbeams and supports directly beneath the catwalk offered a jungle gym of beams and supports to climb down. I wouldn’t need magic to explore downward. Previous explorers might have gone down there.
+
+The void yawning beneath me extended further than my 60-foot infravision range. I would save exploring the main space for later. First, I wanted to see where this walkway led.
+
+I walked across the grill, following the corridor to a closed hatch that belonged in a science fiction movie. A 10-inch thick encasement framed the hatch. Two slabs of metal formed the doors, which barred any passage. Beside it stood a waist-high frame encasing two metal rods whose tips almost touched. Detect Magic made them glow. I tried to jiggle them, but the encasement held them in fixed positions.
+
+Magnetize’s interface showed magnetic charges in the rods and how they connected to levers controlling the doors. Bridging the gap with a silver piece accomplished nothing, so they didn’t work on a circuit. The metal’s natural magnetism wasn’t strong enough for my spell to move them. I tried to force the rods together with a pickaxe, but they wouldn’t budge.
+
+No amount of grunting, cursing, and brute force made the rods wiggle. I scanned the door’s components using Magnetize’s UI arrows to understand its physical form, but doing so revealed no hidden functionality.
+
+Everything seemed unnecessarily hefty—as if the cost of metal wasn’t a factor. Even the grate beneath my feet felt solid. For a second, I doubted the wisdom of pushing further. Was this way too high for me? Would a level 50 caster bypass these doors without a problem?
+
+Instead of trying to figure anything out, I cheated with Mineral Communion and reviewed the memories of the surrounding stones. Most scenes stood empty, so combing through the memories took a half hour, but I saw two periods of activity. The first series comprised human adventurers squeezing through the floor grating.
+
+The second group involved dwarves with pale skin, whom I suspect built the place. They bore beard braids I’d not seen among Hawkhurst’s citizens. Most looked like sorcerers, casting spells and milling around without tools or weapons.
+
+The dwarves used spells to open the hatch, heating the rods with unfamiliar magic. Was this a time for Mineral Mutation? It seemed like turning the rods into flesh or vegetable matter would hurt my situation. No, this wasn’t the answer.
+
+Wasn’t metal supposed to do something when it got hot? Did it expand or contract?
+
+Before spending points or damaging anything, I tried my available spells. I targeted the rods and cast Scorch. After the flames flickered out of existence, nothing happened. Ten seconds later, I recast the spell. The metal rods felt warm.
+
+After 20 Scorches, the metal glowed red, and they looked closer together, almost touching. With a 4-second cooldown and a 6-second cast, I spammed Scorch until I depleted my mana. A 100-point mana potion gave me enough for ten more casts.
+
+I only needed six. With barely over 40 mana remaining, the pieces of metal tinked together, and the door slammed open at magnetic speeds. I didn’t trust the rods enough to enter the aperture. If it cooled down while I went inside, would I trap myself? Would it close as violently as it opened?
+
+I used Slipstream’s interface to explore the room without going inside.
+
+A raised throne dominated the small octagonal room. I spotted another rods-lock mechanism on the other side of the door, so at least I could exit.
+
+I zapped the outer rods four more times, but the doors slammed shut halfway through a Rest and Mend. They opened after a dozen Scorches, so I emptied the rest of my mana into overheating them, hoping they’d give me a little time. They glowed orange after I performed another Rest and Mend, so I figured I had a few minutes to explore. I went inside.
+
+The rods quickly cooled, causing the doors to close a minute later. Since keeping the doors open grew tiresome, I gave up. I’d reheat the exit rods after I finished investigating.
+
+Burning through a half hour of Mineral Communion didn’t reveal who sat on the throne. As far as I could tell, no one had. I caught a few scenes of dwarves building the place and installing heavy metal slabs, and I studied the strange results of their labor. The throne’s raised platform used the only masonry in the dungeon—all other structures, walls, ceilings, and floors came from natural rock, carved with a spell similar to Dig. Hawkhurst’s blacksmiths mentioned deep elves using magic to mine mountains. Perhaps the dwarves in these visions used the same magic to build. Perhaps these visions showed Mineral Mutation in action.
+
+The cardinal points of the octagonal walls held four metal frames containing live holograms of the valleys around Iremont. The images looked real, and poking my fingers through the two-dimensional plane caused the image to shimmer. Hawkhurst appeared in the southern view. Magnetize’s interface showed magnetic fields surrounding the frames. I’d stumbled into a security room.
+
+Four banks of metal rods filled the space between the screens. I counted many sets of rods in the room, each connected to metal wires embedded in the wall and burrowed further into the dungeon.
+
+If this was a control room, perhaps heating one of these many rods changed the screens, letting me preview the monsters below.

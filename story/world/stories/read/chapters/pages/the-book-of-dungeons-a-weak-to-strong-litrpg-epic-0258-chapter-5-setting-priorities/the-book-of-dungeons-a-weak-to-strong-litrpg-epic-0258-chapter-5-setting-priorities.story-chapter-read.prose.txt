@@ -1,0 +1,193 @@
+Once Gretchen relaxed, we enjoyed one another’s company. We talked about Lloyd teaching them to operate the ferry and how he and Iris held up. When Otto arrived, I complimented him on their progress with the inn. The pair worked toward ownership and invested themselves in its success.
+
+After unburdening himself of supplies, Otto waved a letter. “Grand tidings! A foursome of caravans comes in a fortnight, and one intends to settle—farmers, most likely, if they hail from Westlake. The others carry common grains.”
+
+I raised my eyebrows. “New citizens, that is good news.”
+
+Otto’s face fell and stammered. “Ugh, why—yes, it’s bonny that town grows, to be sure, but…” He looked at Gretchen nervously. “Do you not catch my meaning? They’re pulling grains—rice, barley, and corn.”
+
+I didn’t see the significance and shrugged.
+
+“These aren’t costermongers.”
+
+I arched my eyebrows. “Costermongers?”
+
+“Costermongers sell dried fruits at a fair price. But grains aren’t prized commodities, sir. Even though they’re grown in Westlake, a bushel barely fetches silver in Malibar or Torzda. Merchants bearing bulk cargo like grain means the trade route isn’t just a niche enterprise. The masses see value in it. We’re on the map.”
+
+“That is great news. Does Ida know?”
+
+“Indeed. I went straight to the manor.”
+
+“Thanks for the heads up. It looks like you’re going to get some customers after all.” I waved my hand at the vacant inn.
+
+Otto’s shoulders relaxed. “I certainly hope so, but we’re still setting up. Our accommodations lack furniture pieces, but the workshop will help me whittle a sturdy set of chairs.”
+
+After thanking them for their hospitality, I summoned Jasper and lugged my drying gear to the manor. It wasn’t close to dinner yet, but we had many things to discuss regarding the build order, and I wanted to project estimates of the town’s morale and efficiency rating. I dismissed Jasper by summoning Beaker, who unceremoniously took the skies. Whether he fished, played, or explored, I couldn’t say. He had his plans, and I had mine.
+
+Instead of Ida at the desk by the door, a bored boy poked about what seemed to be simple grammar exercises. I recognized him from Arlington—Robin. I grinned, but he returned the gesture half-heartedly. He wasn’t happy doing homework.
+
+Ida sat at Greenie’s drafting table. “Meet our new clerk, Master Robin of Arlington. He’s quick with figures but still learning the fine art of composition.”
+
+Robin’s eyes made a pleading expression, but I only shrugged apologetically at being unable to save him. Leaving the boy to his studies, I turned to Ida. “Have you settled into your apartment?”
+
+“I have. Until we find another engineer, I see no reason to let Greenie’s desk remain fallow. I could use the space.” Ida fanned her hands over the drafting table.
+
+She’d stacked the goblin’s old drawings onto the conference table to prepare for our meeting with Ally.
+
+“I also invited Maggie, Rory, and Angus. They’ll need to know what’s going on, too.”
+
+“Angus?”
+
+“I slotted him into the workshop. He’s the new foreperson.”
+
+I pushed aside the unsorted stack of parchments on my desk, pulled out a clean sheet, and recorded the town’s statistics. With the town’s emergencies settled, it wasn’t difficult to predict the work crew’s efficiency rating, but doing so gave me an idea of how long it would take to build a castle. Fighting off a few goblins wasn’t easy, but antagonizing the orc empire over a relic in their territory involved another order of complexity and danger. Thaxter intoned the orcs had stretched themselves thin in a war with the elves. Between internal conflicts, fighting in a forest called Arweald, and skirmishing with humans in Krek, the emperor couldn’t afford to send significant numbers across the river—at least, we hoped they couldn’t. Still, we needed to be ready for the worst case. All bets were off when relics came into play.
+
+Morale
+
+84 percent (cheerful)
+
+Factor Events
+
+135 percent
+
+Factor Security
+
+95 percent
+
+Factor Culture
+
+69 percent
+
+Factor Health
+
+95 percent
+
+Morale shined, considering we’d recently lost prominent townspeople. Killing the goblins and the increased trade route traffic lifted our security to 95 percent, and every castle wall and tower we erected increased this factor. Finishing the temple gave us another 5 percent bump in culture rating.
+
+But I didn’t understand the sudden improvement in our health. What had changed? I looked at the factors.
+
+Health
+
+95 percent (vigorous)
+
+Factor Diet
+
+100 percent
+
+Factor  Fitness
+
+100 percent
+
+Factor Rest
+
+100 percent
+
+Factor Comfort
+
+95 percent
+
+The improvement came from a higher comfort factor. I’d already forgotten how long we’d crowded into the barbican during sleepless nights.
+
+I mathed out the settlement’s future and wasn’t displeased.
+
+With robust rest and comfort ratings, the town’s health index would bolster morale for the months ahead, leveling off at 72 percent and our workforce efficiency to 100 percent for the unforeseen future.
+
+I perused the temple’s description.
+
+Create Building
+
+Temple (tier 3)
+
+Description
+
+Religious Structure+5 percent cultureCreates religious elder slots in the economic interface equal to the number of blessed followers. Elders may bestow blessings.Unlocks blessing Holy Smoke
+
+Details
+
+Structural Points 500Location 1.0, -15.0
+
+Materials
+
+Altar 1Timber 450 battensStone 800 blocksBrick 900
+
+Build Estimate
+
+1.1 days with 75 workers at 100 percent efficiency
+
+Core Bonus
+
+None
+
+The temple provided a new home for our altar and idol. Luckily, the goblins designed the metal torodon carts for heavy loads, so moving the altar would only take a few hours.
+
+I counted Fabulosa and myself as the settlement’s only blessed followers. When we adopted Forren, the settlement’s officers became its initial elders, but only Ally and I remained. The high mortality rate meant Forren needed more elders.
+
+I worked on projections until the construction officers arrived. I greeted Ally at the door. “When the workers finish the temple, I’ll bless myself with Holy Smoke. We can assign Glowing Coals if emergencies arise. You, Bernard, and Blane are the chief candidates to defend the town. If I’m gone, Ida will give it to whoever makes sense.”
+
+Ida interjected, speaking to Ally. “Captain Jourdain ought to make the list. He’s already in a leadership position. It’s a shame Yula doesn’t follow Forren.”
+
+I shrugged. “She still adheres to orc traditions.”
+
+Angus’s voice surprised me when he, Ally, and Rory entered the manor. “What’s all this about blessing humans and orcs before me? I’ve been here longer than any of them.”
+
+Ally smacked Angus on the back of his head before sitting down at the conference table. “Yer off your head if ye think we’re blessing you with Forren’s bounty. You’ll likely sleep through the next attack for all the good you did against the gobs.”
+
+“I gave more than I took. Ye can’t blame me if the gobbers are fleet runners. And those jumps!” Angus waved dismissively.
+
+Ida and I joined the dwarves at the table.
+
+Rory rolled his eyes at the squabbling pair. “Let’s not draw this out with rhymeless banter. Angus is already panging me head.”
+
+I agreed before the dwarves could trade more insults. “Rory is right. Gretchen fed me at the inn, but I’m still hungry after the lake sapped my strength. Let’s move this along so we’re not late for dinner.”
+
+Ida leaned forward. “That makes our meeting’s first agreeance. My first order of business involves informing all of you that I don’t hear voices. As far as I can tell, the relic is quiet.”
+
+“And I couldn’t find it in the lake. I’ll be gone for a while, so Ida will have to run the show, but the town looks to be in good shape. Has everyone heard the news about the Westlake caravans? We’re attracting grain farmers. Our dust-up with the goblins hasn’t deterred commerce.”
+
+Everyone nodded.
+
+Ida shrugged off the concern. “Travelers aren’t sissies. Merchants hardy enough to brave the ocean would think nothing of a few goblin attacks. The more we develop our town, the safer they’ll feel sending wagons. Our population fell to 145, but it’ll soon grow. So far, only a few farmers are interested in emigrating, but tradespeople will appear as numbers increase. Ally, how many workers do we have for construction?”
+
+“We could go to 90, and Yula offered a few from a town militia. Lloyd brought letters from Iris to the mailbox this morning. Iris is recruiting mercs from abroad. They’ll need help, and she’ll be busy with a babe on the way.”
+
+The tangle of ropes and stakes that Greenie set to mark the great hall reminded me of my next question. “After the temple, does anyone see a reason not to erect a great hall next?”
+
+Angus fanned his hands. “It’ll need brill woodwork. We can go to full capacity with Greenie’s throne out of the woodshop.”
+
+Rory stretched in his seat. “Aside from a few hinges, you’ll need nay metalwork. ‘Tis a good time for weaponsmithing. Your blade whetted me appetite for core-bound weapons. I look forward to pumping the billows for proper metalwork. Fin is eager, too.”
+
+Ida directed her attention to Maggie. “With the smiths on weapons, your women bear the brunt of the castle work ahead. As far as I can tell, the blueprints demand much quarrying. Is your crew big enough?”
+
+Maggie rolled her eyes, undaunted by the workload. “If Ally’s crew hauls blocks as fast as we cleave ‘em, we’ll be in grand shape.”
+
+Ally paged through the blueprints Greenie left behind, ordering them in sequence. “We’re nigh 100 percent workforce efficiency for the foreseeable future. A jundie pace, if I don’t say myself.” Ally turned to Angus. “Toting blocks for walls involves more than kinching a rope. We’ll need pulleys and cranes.”
+
+Angus nodded and waved his hand. “That’s why we made a woodshop.”
+
+I grinned at the enthusiasm. “Thanks to C-Belle’s hammer, each wall will take a week or so, and towers will take twice the time.”
+
+Ally fanned the blueprints across the table while the six of us followed her instructions. “We only need one custom blueprint, and the sly goblin already verified it. Greenie turned the great hall into a residential great hall, connecting to the manor on one side and the gatehouse on the other. Ye see? Its balcony overlooks the Orga River—quite a luxury in the castle. Normally, defensive structures offer dour views. Butting a lake and river reduces our need for walls and towers.”
+
+Ally pointed to the castle master plan between the blueprints. “Three wall sections will fit between three towers and a gatehouse. The gatehouse connects to the barbican via a drawbridge, making the castle snug and secure.
+
+With the blueprints finished, there seemed no reason to bother building a great hall. “Why not just go straight to building a castle?”
+
+Ally shook her head. “Meeting places are important. I see nay point in castling if ye can’t hold your folks together. Poor morale, not wobbly walls, topples a settlement during sieges.”
+
+“I don’t know. It still seems like an awful lot of stone.”
+
+Ally flapped her hand. “Bah. Our hammer hews blocks faster than we can place ‘em. With a woodshop and two smithies making fixtures and fittings, it’ll be done in no time.”
+
+“While I’m gone, you’ll finish the temple and start the great hall?”
+
+Ally winked. “We start on the morrow.”
+
+Ida turned to me. “How long will you be away?”
+
+I shrugged. “Hopefully, a week at most. It’ll take a couple of days to get there and two more to return. But if anyone can do it, it’ll be someone with Amphibious.”
+
+I stood up, signifying an end to the meeting. The gesture projected more confidence than I felt, but I kept the doubt out of my expression. I missed having a partner, and my recent excursion in Otter Lake wasn’t encouraging. An underwater relic might be a tough nut to crack.
+
+Ida, Ally, Angus, and Maggy pushed themselves from the table and chatted about upcoming caravans as they walked to the town hall.
+
+Rory stayed sitting and crooked an eyebrow. “We’ve got a wee matter of cores to discuss. What magical weapons do ye fancy?”

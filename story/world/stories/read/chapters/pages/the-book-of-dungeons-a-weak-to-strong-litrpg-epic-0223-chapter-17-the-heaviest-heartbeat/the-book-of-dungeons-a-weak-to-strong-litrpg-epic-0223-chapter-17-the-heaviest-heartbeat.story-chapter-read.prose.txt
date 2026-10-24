@@ -1,0 +1,133 @@
+Detect Magic showed nothing unusual about the throne, so I made myself at home. The broad chair fit dwarven proportions, but its high back felt comfortable. Scanning through the remaining minutes of Mineral Communion showed no vignettes of anyone operating the rods.
+
+Only educated guesswork hinted at which rods I should heat next. A pair of rods rested isolated from the others, and they might enable a master switch. Fifty Scorches and a Rest and Mend later, the rods expanded and touched, but nothing happened.
+
+Even after dumping my mana, I couldn’t heat more than one set of rods at a time, and experimenting wasn’t worth Refreshing Mana. After clearing the dungeon, I could goof around in the security room. Iremont wasn’t so far away from Hawkhurst that I couldn’t recruit people to help me Scorch rods. Perhaps the dwarves knew of a better way.
+
+Looking up, I noticed a mechanical arm that reminded me of the equipment surrounding a dentist’s chair. Attached to the arm hung a device resembling a salon hairdryer. I sat in the chair, reached up, and pulled it over my head. Two lenses embedded in the devices inside offered a focused look at something.
+
+The viewfinder showed a closeup of Iremont’s base. The eyepiece updated my interface map as if I stood outside. It let me target things outside the dungeon with ranged spells.
+
+I could do more than monitor things in here. The controls let me zap critters off the mountain like an old arcade game and could do so in complete protection. I looked for centaurs but saw none. I zapped bugs up and down the mountainside. When the gimmick lost its novelty, I pushed it away and considered its application. It turned a caster into a gunner, giving the place the protection of a defensive bunker.
+
+After a Rest and Mend and dozens of Scorches, I opened the hatch and left the control room behind. Perhaps I might find an owner’s manual or a device capable of heating the controls somewhere in the dungeon. It was time to learn what made this place tick.
+
+After refreshing my buffs in the grated corridor, I slipped through the grillwork, following the footsteps where previous heroes ventured. Climbing down exercised me. The place had lost its underground chill, or perhaps I’d grown accustomed to the temperature.
+
+I found ropes left by previous adventurers and climbed hundreds of feet. The space beneath me was comparable to the size of an airplane hanger or sports arena, but beams, pillars, rafters, and trusswork blocked my view.
+
+Giant wheels and axles filled the space—and while they rested tangent to one another, they weren’t cogs filled with teeth. Instead, the wheels held magnets within their tread—the largest looked as big as a refrigerator. The smooth magnet teeth pushed those embedded in the neighboring wheels, turning them with minimal friction.
+
+I took in the scene like an ant inside a grandfather clock. Horizontal and vertical axles crisscrossed the space, and grease dripped wherever metal met metal. Pendulums and counterweights gently moved up and down and back and forth, and gargantuan wheels slowly turned everywhere.
+
+Considering the size of the machinery, the lack of noise surprised me. The resonance of periodic thumps gently vibrated. Grease dripped between the pendulums, some as big as freight trains. Despite my climb down, I still couldn’t see the floor through its mechanizations. The distant forms beneath me glowed orange and red, suggesting lava below, though no sulfuric stench filled the atmosphere.
+
+The heat intensified the lower I climbed.
+
+Sune Njal might have been right to caution me about this dungeon. This place seemed too epic for a solo adventurer, and I felt like a pipsqueak the further I descended. Still, no one inside objected to the radiance of Presence lighting up the space.
+
+A juncture in the lattice stopped me from going further. Either I had to backtrack and find another way down or take my chances with Slipstream-jumps. My eyes followed various approaches around me, but none showed promise.
+
+The wheels’ only handholds came from carved designs and unfamiliar writing decorating their surface. None of them glowed magic, nor could I understand their messages. The angular designs used an alphabet created by chisels, not ink. But using runes as handholds looked precarious, as some slowly spun.
+
+After remembering that the gears used supercharged magnets instead of teeth, I activated Magnetize’s interface and saw extraordinary magnetic fields. The user interface showed arrows longer than I’d seen before, and seeing pulls so strong gave me an idea.
+
+I targeted a magnet embedded in a wheel above my head and gingerly drew it toward me. Instead of dislodging the carousel-sized disk, my body lifted—and after slightly increasing Magnetism’s effect, I lifted myself, releasing the magical pull only when I gained a handhold on the wheel’s hub.
+
+The effect worked within the spirit of the spell’s description. Magnetize usually pulled or repelled bits of metal to and from my body. The size and power of the magnets down here made me move instead.
+
+I could use Magnetize to fly—at least in this place. Testing the attractions gave me a sense of which gears could carry me. Most wheels sat still, or if they turned, did so slowly that adjusting my grip involved trivial effort. Gravity made horizontal jumps trickier because parabolic dips complicated the trajectory. The longer I practiced, the hotter I got. In no time, I zipped around like Spiderman, but sweat had become a factor in maintaining my grip.
+
+I resisted the temptation of summoning Beaker to see how he’d react to my Spiderman impression. I didn’t need him alerting monsters of my whereabouts.
+
+Magnetize had no cooldown. Since I had to channel it, I couldn’t concentrate on anything else while moving. Taking a hit while airborne required me to recast it, trigger Slipstream, or invoke Hot Air.
+
+I descended into the gearbox when I grew confident but stopped short when I saw a figure walking sideways on a wheel. At first, it reminded me of Fabulosa in the Malibar dungeon, walking on the walls because her gravity had changed.
+
+The creature possessed the same metallic eyes and shaggy fur as the centaur.
+
+Name
+
+Talax Satyr
+
+Level
+
+16
+
+Difficulty
+
+Dangerous (orange)
+
+Health
+
+540/540
+
+After fighting the centaur, I wasn’t so confident about facing an orange level 16 monster. The satyr stood about eight feet tall—or rather sideways since the creature stood perpendicular to the gear. It walked up a gear’s side, and its gait seemed off somehow, more so than one would expect from a biped with legs like a goat. Gravity seemed to affect its upper torso, and the longer I watched, the more I realized it hung from magnetic hooves.
+
+I put on the Eagle Eyes we’d found in the Malibar vault. The clumsy headset gave me ten times better vision, but it didn’t provide infravision or darkvision. From a distance, I watched the satyr.
+
+The satyr wore horseshoes that sparked on the wheels when it walked. As I hung from a wheel and observed, I rubbed my thumb along my handhold and realized the hubs were flint. Flint was a brittle rock—something to consider when combat starts. Using Magnetize, I saw an incredible magnetic pull from the horseshoes. What magnet pulled so strongly that it attracted flint?
+
+I’d hung from the gear so long I’d lost my grip. Channeling Magnetize to avoid falling, I recovered, but the Eagle Eyes blurred my immediate surroundings, and I misjudged my position. While I regained my grip, my equipment rattled against the flint wheel, making a conspicuous amount of noise.
+
+Who needed Beaker when I could give away my position by myself? And yet, the periphery of my vision didn’t turn red. The Book of Dungeons hadn’t put me in a state of combat.
+
+The satyr only gave me a passing glance before returning to his focus of attention. He polished a bit of grease that had dripped from the levers and counterweights above the gears.
+
+He didn’t attack. This dungeon wasn’t so bad after all. I tapped Creeper against a wheel to attract the satyr’s attention—and he looked at me so sharply I stopped the noise. Yet he made no aggressive moves. He carried a bow and quiver of magic metal arrows, so reaching me wouldn’t be difficult. After a pause, he bent back to his work, cleaning grease.
+
+Movement caught the corner of my eye, and I spotted another satyr further below. He, too, cleaned.
+
+This place’s size explained why I hadn’t encountered remains from previous adventurers. Perhaps these satyrs had cleaned up after the would-be heroes.
+
+Grease dripped from parts operating under physical contact but not from the magnetic wheels. Parts of this magnificent engine used frictionless mechanisms. They made no noise and wouldn’t wear out. How long has this dungeon been here?
+
+The horned sentinel moved to another wheel, jumping gracefully and landing in a skid that produced sparks.
+
+I, too, moved with ease, and reaching a new vantage hadn’t drawn the satyr’s ire. When I relocated, I caught a better view of the satyr rounding a gear the size of a merry-go-round. Using the Eagle Eyes, I watched it clean up another grease splatter. When I jumped closer, the monster didn’t react—though I couldn’t tell what those pupilless metallic eyes focused on. Near the second satyr, I spotted a platform against a wall, perhaps a dozen stories beneath the catwalk to the control room. After Magnetizing to a nearby gear, I dropped onto it to examine something that had caught my attention.
+
+Name
+
+Rubber Elemental
+
+Level
+
+28
+
+Difficulty
+
+Dangerous (orange)
+
+Health
+
+1620/1620
+
+The white blob stood on the platform, as still as a plastic bride on a wedding cake. Rubber was white naturally, so its cottage cheese texture fit with the nameplate description. Bracelets, bracers, belts, and a collar of thick stone rings circled its limbs, torso, and neck. Its milky skin looked dull and cracked with dryness, but its thick rings glowed with magic. They looked like runes. After I explored this dungeon, I planned to copy them. Perhaps my friends in Hawkhurst might translate their meaning and help me make elementals.
+
+This idea felt plausible because the pale figure stood beside stacks of stone rings identical to the elemental’s accessories. Someone had been generous enough to leave me spare parts.
+
+The elemental made no movement when I landed behind it. I’d never seen so many monsters who didn’t want to fight. The centaur had been territorial, but these guys didn’t mind visitors. With Magnetize and Slipstream at my disposal, I felt highly mobile and probably needed to be against an orange-rated foe. If the elemental’s combat behavior paired with the satyrs, I’d fight them all at once—which explained the orange danger rating.
+
+Still, I needed to proceed with caution. Touching the metal rings might not be wise.
+
+I jumped at a hissing explosion beneath the platform, and a cloud of steam wafted from the depths. The sizzling sound came from a forest of prongs, each a few feet thick yet spindly compared to the surrounding machinery. Heat waves rippled the surrounding air. The prongs acted like heat sinks, and the water clock system kept them cool.
+
+The platform wasn’t a proper balcony with handrails but a horizontal beam spanning the breadth of the chamber. It felt like a support or part of a framework. I walked to the side with the motionless white taffy man. The temperature felt cooler next to the colossal rock wall.
+
+I’d seen iron deposits in the goblin mine, but they weren’t as shiny as the exposed mineral vein nearby. The nameplate above the metallic discoloration bore the words Darksteel Node. Our blacksmiths mentioned darksteel to be an exotic metal they weren’t sure existed. The vein looked thick enough to provide ore for a sword. Combining it with my purple core might create a very potent weapon.
+
+I took up mining as my next skill.
+
+I worked on the node using my Hammer of Might, checking to see if the satyrs or gingerbread man objected. Their tangled horns and steely eyes shone with malevolence but offered no hostilities. Instead, they concerned themselves with their never-ending cleanup job. After minutes of pounding, my mining rank raised, but I barely removed any rock.
+
+I could cause structural damage with my Undersea Trident. But time seemed to be on my side, and I preferred to use the right tool for the job. I produced a piece of parchment and wrote to Greenie, asking for the Metamorphic Siege Hammer. I slipped on one of the Switching Gloves and uttered its trigger word—switch.
+
+At Hawkhurst, Greenie wore the counterpart, and my note would appear in his hand. In the morning, he’d be likely in the manor, at work or napping, only a short distance from the quarry.
+
+I waited.
+
+Charitybelle’s old weapon appeared in my Switching Glove in less than ten minutes. After pounding out this darksteel, I could return the hammer with a thank you note wrapped around its handle.
+
+When the bludgeoning weapon struck the vein, the wall around it spat out rock. A progress bar appeared on the darksteel node nameplate, showing a 1 percent progress toward freeing the darksteel.
+
+My peripheral vision turned red, and a combat log noted two satyrs, a rubber elemental, and Apache had entered a state of combat.

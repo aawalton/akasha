@@ -1,0 +1,113 @@
+It felt good to wield Gladdy again, and I used him to process the corpse.
+
+My sword sounded jealous that I’d used another weapon to dispatch the monster. “You know I’m not a pocketknife, don’t you? My primary capacity concerns the combative arts, not entertaining otters, and vivisecting shellfish. Besides, tortal decapods yield a poor dressing percentage. Their meat is tasty but hardly worth the effort.”
+
+“I assume that means they don’t make a lot of meat?”
+
+“You assume correctly.”
+
+“But you said the meat was tasty. Besides, a lot of that weight must be the shell. And I see magic items inside, and if I can separate its shell, it might provide another boat.”
+
+Using Gladius to pry off the shell took hours of work, but upending the carapace and dragging it to the lake revealed something wrong. No matter how deep the water, it dragged against the bottom. Although I hadn’t seen any cracks, it became evident that I’d spoiled its integrity with the Hammer of Might.
+
+The waterlogged shell sunk my spirits. Perhaps I could find a gum tree and seal the cracks, but I didn’t see how to start a fire on terrain inundated with water. Even if I fixed the shell, would I be able to control it? I would have difficulty reaching the water from the edge, and paddling would more likely spin than move it. Of course, not having a paddle rendered the dilemma pointless.
+
+I abandoned the shell in waist-deep water and returned to the carcass. The turtle-crab yielded ten green cores and 24 slots of white meat, each roll as big as a sleeping bag. Unfortunately, I couldn’t cook it now, but I anticipated a crab feast upon my return to Hawkhurst.
+
+Beaker watched me work for a while before losing interest and flying off. I didn’t mind his penchant for exploration. Although he’d never warned me of monsters or led me to something of value, losing track of him didn’t seem to hurt anything.
+
+After much hacking, I reached its internal loot pouch and produced an oversized knife encased in a globule of hardened fat, which prevented the blade from cutting the creature’s innards.
+
+Item
+
+Fen Savager
+
+Rarity
+
+Rare (yellow)
+
+Description
+
+Level 25 slashing weapon+20 damage
+
+The knife’s length offered an immediate upgrade for a close-quarters weapon. Chucking it into my inventory, I mentally thanked the short sword for its brief term of service. The new blade featured no fancy abilities, but I couldn’t complain about a +20 damage.
+
+The organ sack contained an item with much broader applications.
+
+Item
+
+Boulder Bullet
+
+Rarity
+
+Rare (yellow)
+
+Description
+
+Level 28 ammoA bullet shot at target enemies increases its mass at 100 times per second airborne.
+
+The sack contained ten lead pellets whose description conjured images of instant lethality. I gave them careful consideration.
+
+I reread the confusing description. Mass and size weren’t the same, and the bullets required complicated calculations. Doubling a sphere’s mass wasn’t as much as doubling its radius, but I couldn’t figure out the difference standing in the middle of a flooded forest.
+
+After spending my morning harvesting meat and dragging the useless shell into the lake, I took a break. I climbed back into the Dark Room and enjoyed another small meal of leftovers. While I chewed, I scribbled down the basic dimensions of a sphere and worked the math.
+
+Working numbers without Charitybelle or Greenie around put me in a poor mood. After much consideration and mental gymnastics, I developed a simple formula predicting how the bullets grew in flight and plugged in values.
+
+The job required more straightforward calculations than delineating the relic locations, but simple multiplication errors confounded my efforts. After checking the math several times, I got a better appreciation for their behavior. After one second of flight, a bullet grew to almost two and a half inches wide. Unfortunately, that amount of lead pushed what a slingshot could handle, nearing the maximum range for an aimed shot.
+
+I recalled Galileo’s famous experiment on the Leaning Tower of Pisa. He demonstrated that mass didn’t affect an object’s velocity. Aside from negligible air resistance, a growing bullet wouldn’t change its trajectory. But I couldn’t be sure. Miros had funky physics regarding its moons, and these bullets obeyed magical laws beyond my understanding.
+
+Fort Krek soldiers claimed that lead bullets broke bones and damaged organs. Golf ball-sized projectiles would undoubtedly cause more damage.
+
+What if the targeted opponent picked up the projectile and loaded it into a catapult? Would it grow again when they sent it back to me? A beach ball-sized hunk of lead could do crazy structural damage, even against Hawkhurst’s walls, so I needed to be careful with these. Again, rereading the descriptive text called attention to its limitations. The bullet wouldn’t work from being thrown—I needed to shoot them from something—but giants and ogres might carry slings, and orcs employed siege engines.
+
+After two seconds of flight, a bullet grew to almost 11 inches in diameter. After three, it surpassed four feet—well beyond the danger of my enemy returning fire. After four seconds of flight, my enemy should expect a meteorite approximately 19 feet across.
+
+By launching the bullet upward, I could increase its hang time. A shot lasting 5 seconds in the air would grow to 90 feet in diameter.
+
+Again, the description scaled down its use. The bullets did nothing unless a target existed, and a warrior couldn’t aim a sling using high, parabolic arcs. Since we’d lost our only siege engineer, I tempered notions of hurling mountain-sized metal boulders onto unexpecting armies.
+
+Warriors in Miros launched bullets with slings, but after visiting Arlington, I couldn’t dismiss the possibility of muzzleloading firearms. Goblins had dynamite. If gunpowder or an alchemical equivalent existed in Miros, I could launch one into the air, but being unable to practice with them made accuracy an issue.
+
+Before knowing how to exploit them, I needed to understand if I could reuse them. One might think a flooded bayou to be a terrible place to experiment, but I’ve long since learned how to exploit interface features. Though lead had weak magnetic pulls, spells like Magnetize made little bullets easy to find.
+
+My skill with ranged weapons ranked at 25, high enough to be considered an expert, but I’ve never used slings in battle.
+
+Aiming at trees at my maximum range, I stood a couple hundred feet from my target. Before shooting, I verified that Magnetize could help me locate bullets with no problem. It took about a second of airtime, and the bullet grew to about a plum. The retrieved shot displayed the same item description.
+
+Placing the heavy hunk of lead in my sling pleasantly surprised me. The game’s interface identified it as a valid missile. If I relaunched it, it would grow almost a foot in diameter. I dropped the bullet into the bag with its nine smaller siblings. I would mull over how to exploit it later.
+
+For now, I needed to figure out how to reach the relic. With the tortoiseshell broken, another piece of wood seemed to be the only logical replacement for my canoe. I couldn’t create a watercraft as sturdy as Yula could, and standing in ankle-deep water a dozen miles from the coordinates reduced my options.
+
+Humidity presented another challenge. Wet logs didn’t float, and the fallen branches around me looked rotten and waterlogged.
+
+Yula taught me how to bundle reeds together to make a pontoon, and I only needed a vessel for a day’s worth of paddling. The wind wasn’t as strong as the north shore’s. Unless I wanted to swim for hours, reeds seemed my only alternative.
+
+Trees around me stopped significant undergrowth. Scanning the coast gave me a better idea of the surrounding landscape than my interface map. Lowlands surrounded me, but the distant southern shore showed more reeds than the few patches in my vicinity.
+
+Splashing around in knee-deep water made a lot of noise and complicated my footing, like walking in loose sand. Traveling in shallower water appealed to me, so I went inland. If I found dry land, I might be lucky enough to find a buoyant log and eschew collecting reeds.
+
+Dry land lay toward the wall of the Highwall Mountains, but that wasn’t the direction I needed to go. After walking southwest, the water level thinned to ankle-deep, and no seaworthy logs caught my eye. After wasting time with the shell, the last thing I wanted to do was drag a log into the lake only to watch it sink.
+
+I veered south toward the channel connecting Otter Lake to the vast wetlands beyond.
+
+The scent of vegetation permeated the air, but it made a crisp, healthy aroma. This wasn’t a haunted bog full of rotting undead—nothing like the eastern temple below Fort Krek. This area teemed with life. Bugs, snakes, lizards, and birds reigned, but most disappeared when Beaker or I appeared. Frogs croaked in strange rhythms, and their deep pitches made me wonder at their size. They couldn’t have been too big because I never spotted one.
+
+I passed spots of bubbling water. Gladius said it might be from rotting vegetation or submerged critters. When I poked the ground, my sword assured me it was normal, but I suspected he just wanted me to stop using him to prod the muck. I relented. It didn’t behoove the purple weapon to use it for a lowly task.
+
+I happened upon strange cypress trees whose droopy bark appeared to melt. Instead of sensibly tight skins, curtains of bark draped around the trunk. I poked Gladius at the folds, half expecting to lance an air pocket, but the rolling bark felt solid and didn’t give. If the need arose, the wrinkled bark provided excellent rungs and footholds for climbing. Moss and decayed vegetation filled its folds and hollows.
+
+After spending the second half of the day splashing through the forest, the canopy opened up enough that I could see swathes of sky. And, of course, as soon as I reached ground that rose above the water level, it started raining. The drops came down in sheets, and I took pity on Beaker and unsummoned him before marching east toward the water channel. Between the storm and the day’s end, I lost light and used it as an excuse to retire to the Dark Room. I’d had enough of the downpour.
+
+The following day, sporadic thunderstorms gave way to bouts of sunlight punctuated by a rainbow. Despite the humidity, the chilly air reminded me of another coming winter. The rains were brief, so I summoned my griffon again for companionship. Keeping an eye on him kept me alert.
+
+I continued toward the distant water channel that I’d seen on my interface map. Instead of an endless swamp of ankle-deep water, the topography alternated between water pools and humps of spongy land.
+
+When I reached the channel, I planned to collect reeds, bind them together, and sail northeast to the relic coordinates. My mood improved, and walking without splashes allowed me to move without alerting everything in the area.
+
+My plans changed after I found a tree stump encircled by a waist-high wall of clay bricks. The bricks looked soft and wet—unfired by a kiln. The tree stump had been gnawed, not chopped down, looking like someone had felled the tree with beavers.
+
+A hut materialized in the gloom ahead. The structure rested atop a mound rising above the nearest pool. Sharpened logs formed a ring of spikes, crowning the hill’s profile—for I could only see their silhouettes in the drizzle. Water ringed the hills, and the barrier reminded me of our motte and bailey, except the opening used an unsophisticated gate—a pile of logs barred the entrance. Hewn trunks also supported the primitive structure.
+
+Nothing stirred at my approach, and in the distance, I spotted more spike-laden hillocks topped with huts. After igniting Presence and Heavenly Favor, my eyes adjusted, and I spotted a dozen more huts in the rain. It looked like the edge of a village, but no movement, sound, or scent of smoke carried through the atmosphere.

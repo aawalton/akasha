@@ -1,0 +1,259 @@
+I awoke early the next day, setting out before dawn to maximize the daylight hours. Beaker remained stubborn until I telepathically informed him we hunted goblins. His reaction surprised me. After untangling himself from my bedding blankets, he scrambled to the window and launched himself over the water. The drop to the lake gave him enough momentum to lift without beating his wings, and he seemed to enjoy the rush.
+
+I hurried to don my gear, hoping to catch up with the eager griffon. Hopefully, my pet’s extra energy came from the thought of hunting goblins.
+
+The mailbox contained no letters from Fabulosa, and its interface showed my last communication remained unopened. She traveled between towns while hunting Skullcaps and undead at Ul Itor. Her vendetta reminded me to pull up the contest interface, but the player count remained as it had been since Fabulosa’s last message.
+
+I passed the barracks to tell Captain Jourdain my plans. He and the corporals looked at one another in astonishment at my bravado. They’d acted eager to fight goblins—but not that eager.
+
+“Governor, I’ll not question your prowess in battle, but are you sure you can face hundreds by yourself?”
+
+“I’ll use the Dark Room if things get too hot. Harrying them might buy everyone an extra day to finish the temple and my sword—especially if I burn through their nighttime hours.”
+
+Although I had not convinced the officers, they respected or, at least, obeyed my decision. Despite my civilian status, the captain gave me a full salute, which I returned. “You can count on us to square everyone away, sir.”
+
+Telepathic messages from my Familiar prompted me to end the exchange and leave. “We’re hunting goblins! We’re hunting goblins!”
+
+“Yes, my friend, we are hunting goblins.”
+
+This wasn’t an envoy mission or a brokerage for a peace treaty like the kobolds. Contrary to his opinion, the Pentarch’s wisdom hadn’t fallen on entirely deaf ears. Negotiating with a goblin army wasn’t my game plan, and I certainly didn’t expect to parley with a demon-ridden tyrant. I simplified my quest to the basest of terms of killing goblins.
+
+My griffon and I traveled through the morning hours, heading to the last known coordinates of the goblin horde, courtesy of Corporal Lazaar’s reconnaissance. Beneath the canopy of trees, I wasn’t sure how much daylight favored me, as little direct sun reached the forest floor.
+
+Beaker zigzagged ahead, echoing telepathic enthusiasm for our mission. His scouting made me less apprehensive about approaching an enemy encampment. Occasionally, he veered off my northern course but happily returned to whatever direction I favored.
+
+While I hiked, I considered spending one of the two power points I had banked. The weeks I spent in the battle college ranking up my melee skills paid dividends. I forgot how long it took to grind. My concentration on longswords pushed only piercing to rank 29. Bludgeoning and slashing weapons reached 27 before the need to leave Hawkhurst arose. My most improved skill came from ranged weapons, which increased to 25.
+
+My efforts unlocked six new powers—two spells and four abilities.
+
+Power (spell)
+
+Endless Ammo (tier 1)
+
+Prerequisites
+
+Arcane magic rank 25, Ranged weapons rank 25
+
+Cost
+
+1 mana per second
+
+Cooldown
+
+10 minutes
+
+Cast time
+
+Channel
+
+Description
+
+Caster may duplicate non-magical ammunition on weapons of their choice within a 30-yard range. Concentration must be maintained to sustain the effect.
+
+Ranking up my ranged weapons to 25 unlocked Endless Ammo, a spell with implications for our ballistas, especially if it auto-loaded weapons. Greenie worked in the last stages of perfecting his crank mechanisms. They produced a powerful draw that released the high-tension string with a light trigger pull. His efforts seemed unnecessary, but I wouldn’t tell the esteemed engineer his business. I didn’t know my way around the woodshop, nor could I discern the purpose of the gears, screws, cams, coils, springs, frames, and other mechanical components.
+
+We needed ammunition—from the spearlike poles for ballistas to arrows. Endless Ammo solved this problem, and it applied to mass combat. But it gave only situational advantages, especially as a channel. I passed on it.
+
+My new skills unlocked a spell for combat and utility uses.
+
+Power (spell)
+
+Earthquake (tier 4)
+
+Prerequisites
+
+Mineral Communion, Bludgeoning weapons rank 27
+
+Cost
+
+100 mana
+
+Cooldown
+
+10 minutes
+
+Cast time
+
+2 seconds
+
+Description
+
+Caster radiates 100 structural damage to structures in a 30-yard radius, creating tremors, sinkholes, cave-ins, and fractures.
+
+Earthquake seemed like the first spell fitting in the ult category, but I wasn’t entirely sure I needed to cause structural harm to anything—especially since I could do things the slow way with the Metamorphic Siege Hammer or my triton. Would Aggression double structural damage in a foreign settlement? Creatures took damage from the hammer, but did that mean they took damage from Earthquake? Did it double as an area of effect spell?
+
+If anything, the existence of Earthquake worked against my sedentary play style in the Great RPG Contest. Hawkhurst’s protection buff raised the structural points of its buildings, but this spell trivialized them. Our barracks had 250 structural points. Earthquake knocked out 40 percent of the building’s health in a single hit and undermined its foundation. Did sinkholes cause further damage? Earthquake seemed very much an anti-Hawkhurst spell. Fortunately, high skill-rank requirements and off-the-beaten-path spells like Mineral Empathy guaranteed its rarity.
+
+Another offputting aspect of this ultimate involved its mana cost. A hundred cost a lot. Fully buffed, my mana pool stood at 320. I imagined scenarios in which Slipstream might complement Earthquake nicely, but committing a third of my mana into something that a single Counterspell prevented wasn’t prudent.
+
+Neither of these spells countered Rezan’s ridiculous healing powers. But grinding out melee skills had unlocked abilities, too, and I considered buying two of them now.
+
+Available Abilities
+
+Tier 1
+
+Aim, Block, Disarm, Double Blades, Edge Strike, Knockback, Multi-shot, Quick Shield, Stunning Blow, Surprising Strike, Whack, Whirl
+
+Tier 2
+
+Divine Favor, Concussive Strike, Mounted Charge
+
+Power Points
+
+2
+
+My new skills offered several sexy abilities. Whack, Whirl, Concussive Strike, and Mounted Charge recently appeared on my menu.
+
+The first ability offered an impressive combat maneuver.
+
+Power (ability)
+
+Whack (tier 1)
+
+Prerequisites
+
+Slashing weapons rank 27
+
+Cooldown
+
+10 minutes
+
+Description
+
+If next slashing attack is successful, Whack inflicts a bleed causing 10 points of damage per rank in slashing weapons. Total damage is dealt over a 30-second period, inflicting damage every second. Armor does not mitigate bleed.
+
+Was Whack another ultimate? For sheer damage, its Bleed caused an incredible damage-over-time effect. At rank 27, I could deliver 270 points in a single strike in Bleed damage plus whatever damage I caused from the slashing attack. Coupled with my robe, I could inflict over 600 points in two attacks, which had to be enough to knock out most players.
+
+But extending the Bleed over half a minute presented plenty of problems to enemy casters. I couldn’t see any reason not to take this, as it hastened the exhaustion of health and mana pools. Bleeds also prevented channels.
+
+The only caveat to this ability involved the prerequisite of hitting. If the attack missed, I needed to wait 10 minutes to try it again, somewhat dampening my enthusiasm. Still, I could increase my chances if I struck from behind or Charged.
+
+After reading the text carefully, I decided the Whack’s Bleed damage wouldn’t double on a critical hit. Bleeds weren’t part of a weapon’s damage, so it made sense I wouldn’t get lucky and cause 540 damage from a crit.
+
+If I could scale up Blood Drinker’s damage bonus to one-hit kills, I wouldn’t need Whack.
+
+The last tier 1 ability required three prerequisites—a mastery of melee weapons that I suspected I alone possessed. Considering the recent drop in players, it wasn’t a leap to assume high-traffic areas like cities to be dangerous. And yet, things like the military academy and battle college needed settlements. My foray into learning martial arts from Sune Njal proved less fruitful than I’d hoped. Perhaps Miros wasn’t a land where isolated dojos existed.
+
+Power (ability)
+
+Whirl (tier 1)
+
+Prerequisites
+
+Bludgeoning weapons rank 27, Piercing weapons rank 27, Slashing weapons rank 27
+
+Cooldown
+
+Once per day
+
+Description
+
+If next melee attack is successful, a whirl converts weapon damage into primal damage to enemies in a 10-foot radius.
+
+Rank 27 acted as a magic milestone for unlocking ultimate abilities. Whirl was an ultimate-level power when combined with Blood Drinker. It made for an anti-swarm, anti-army area-of-effect attack with incredible scaling potential. If I performed this in a crowd of goblins, I could instantly kill dozens at once—or maybe more. Rezan couldn’t heal dead guards—or, at least, I hoped he couldn’t.
+
+I debated the likelihood the school of light magic included a reincarnation ultimate, but I remembered Crimson’s keynote speaker promised finality with deaths. Besides, a raise-dead mechanic belonged in the school of dark magic.
+
+In comparison, Fireball delivered 10 damage plus another for every rank in primal magic. Delivering under 40 damage to monsters of my level made only sense against swarms, but Whirl spread melee damage to enemies in a twenty-foot diameter. Friendlies in the area ignored the effect.
+
+I also pondered the psychological effect of performing it amid an army. After I did it once, would another group try to overwhelm me? That might be a good thing.
+
+That Whirl magically applied damage to enemies opened backdoor possibilities for targets immune to weapon damage. Striking a nearby ally gave me a workaround.
+
+Whirl didn’t synergize with Bleeds or Imbue Weapon because its description described the conversion of weapon damage, not ability damage or magic effects. But it scaled with critical hits and synergized with abilities like Charge and backstabs. If I could critically hit—that would undoubtedly be worthwhile. It worked on every weapon type, so buying Whirl made sense.
+
+Things like Whirl made me yearn for my Lance of Commitment, but Blood Drinker gave a force multiplier in its own right—it just took a little time to get going. Whirl with Blood Drinker could turn the tables. I reread the weapon’s description to ensure I wasn’t missing anything.
+
+Item
+
+Blood Drinker
+
+Rarity
+
+Masterwork (green)
+
+Description
+
+Level 32 main hand slashing weapon-12 willpower, +6 stamina Wielder deals +1 damage for every sentient creature slain by Blood Drinker within 24 hours.
+
+Lower willpower meant a slower healing rate, more susceptibility to Exhaustion, and less resistance to harmful magic. But my Cassock of Rewind gave +10 willpower, mostly mitigating Blood Drinker’s malignant effects.
+
+I spotted a combo between Blood Drinker and a spell I’d accessed a while ago.
+
+Power (spell)
+
+Avoid Ammo (tier 2)
+
+Prerequisites
+
+Mana Shield, Dodging rank 22
+
+Cost
+
+1 mana per second
+
+Cooldown
+
+1 minute
+
+Cast time
+
+Channel
+
+Description
+
+Caster radiates a 5-foot aura that redirects missile fire, reducing the likelihood of hits from non-magical attacks by 99 percent.
+
+Its carefully worded spell description convinced me of its effectiveness against non-magical sources. At first, I thought this exclusion meant magic arrows, like all the specialty arrows Fabulosa bought from Grayton. While Avoid Ammo didn’t repel magic effects like Arcane Missile, shooting a magic arrow counted as still a normal attack that carried a magic delivery. Hence, the spell prevented specialty arrows from reaching their mark.
+
+Fabulosa still carried concussive arrows, and I’m sure other players used poisons with their range weapons. This spell foiled them all. If Fabulosa and I ever made it to the final two, resistance to all those magic arrows might work to my advantage. A single magic arrow appeared as a regular miss to anyone who couldn’t cast Detect Magic—since she never learned arcane magic. She might not notice the repelling aura and waste time trying to hit me.
+
+If I purchased Avoid Ammo, I could effectively wade into the army swinging Blood Drinker without fear of ranged attacks. Once Blood Drinker reached one-shot levels, Rezan’s heals would do him little good.
+
+The next ability also possessed potential.
+
+Power (ability)
+
+Concussive Strike (tier 2)
+
+Prerequisites
+
+Compression Sphere, Bludgeoning weapons rank 27
+
+Cooldown
+
+1 hour
+
+Description
+
+If next bludgeoning attack is successful, attacker delivers a stun lasting for 1 second for every third rank in Nature magic.
+
+Stuns made for nasty effects because they interrupted spells and hits against a Stunned target auto-critted. Having a rank 25 in nature magic made this an insane eight-second Stun. Coupled with Moonburn and my Cassock of Rewind, I could stun-lock opponents for quite a while.
+
+The thought of Stun-killing Rezan hadn’t occurred to me until I’d seen Moonburn’s success against him. The quickest way to Stun an opponent involved Shield Bash, a 2-second Stun I could instantly deliver to interrupt his heals. Fabulosa had Shield Bash, but I hadn’t picked up its prerequisite yet, Quick Shield. In this respect, Concussive Strike worked as well as Counterspell for stopping spells.
+
+It might come down to Stunning Rezan to finish him, but Stuns affected players, too. Concussive Strike wasn’t fancy, but it had teeth. I immediately penciled it onto my ultimate list.
+
+The last tier 2 ability, Mounted Charge, surprised me with a new power. I wasn’t consciously grinding my equestrian skill, and my time in the saddle relaxed me and kept Jasper happy and exercised. I rode whenever I scouted or wanted to be left alone, but I didn’t consider Mounted Charge a practical combat skill.
+
+Power (ability)
+
+Mounted Charge (tier 2)
+
+Prerequisites
+
+Charge, Equestrian rank 10
+
+Cooldown
+
+30 seconds
+
+Description
+
+If next melee attack is successful, mounted attacker delivers a 3-second stun and a damage bonus of 1 for every rank in weapon type.
+
+Stuns attracted me, but this was a no-go. Specializing in mounted combat had never been my thing, as I only attained rank 12 in my equestrian skill, making it too situational. I passed on Mounted Charge.
+
+Investing my only two power points on Whirl and Avoid Ammo seemed a more viable strategy than getting close to the king and delivering a series of Stuns. When I attained another level, spending my next power point on Earthquake or Whack’s might cause havoc against enemy players, preventing channels and interfering spells with long casts.
+
+While traveling into the forest, I mentally combined powers and items, planning how to slay Rezan.

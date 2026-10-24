@@ -1,0 +1,117 @@
+Crouching on all fours on the thrashing shell’s center helped me maintain balance. I kept my useless short sword handy in case I needed to ward off a secondary attacker. In predawn conditions, the dark vines and moss hanging from the mangroves might hide all sorts of dangers.
+
+The sloshing sounds grew as we neared the tree line, and the monster emerged. I used the Slipstream reticule to stop time and study my ride from a different angle.
+
+Name
+
+Tortal Decapod
+
+Level
+
+26
+
+Difficulty
+
+Easy (green)
+
+Health
+
+1550/1550
+
+After spinning the reticule around the creature in a full circle, I understood what kind of creature I’d taken for a mount. The turtle had ten legs and ten small heads, alternately sprouting between legs radiating from the center. Only their wicked beaks resembled turtles. Stalked eyes protruded from the protective carapace, independently slipping in and out. As the creature reached the shallow water, its legs resembled a crab. Despite its size and hefty health pool, the game rated it a green monster to a level 29 warrior.
+
+As we entered the canopy, I checked the trees above me, casting Heavenly Favor and Presence. The second spell revealed thick pockets of spiderwebs hefty enough to catch birds, snakes, and small animals. Feline creatures clung to branches with sharp claws. I caught glimpses of birds too small for Beaker to hunt. Nothing roosting in the low-hanging limbs looked welcoming, but nothing actively moved to attack.
+
+I could deal with the turtle-crab and avoid the tree creatures, but losing my canoe fifty miles south of Hawkhurst stranded me down here. Slogging through thick vegetation all the way home wasn’t a wise exfiltration plan.
+
+And yet, water covered the ground, ranging in depth from inches to a few feet. No seaweed grew under the canopy. Instead, mud corrugated with fanning mangrove roots stretched in all directions.
+
+But Presence penetrated only the shallows where this strange turtle hadn’t disturbed the surface. Beneath us, clouded water churned. I needed to be careful fighting in these conditions. Sinking into the ground and tripping on roots compromised mobility.
+
+Beaker flew overhead while I rode the beast. I lost sight of him in the trees, which was just as well. He had no business fighting such a burly monster.
+
+I slid down the shell’s edge, aiming for a spot beside the turtle. An incorrect landing might cost me my balance if I misjudged the water’s depth. By minimizing my drop, my feet might not sink into the mud.
+
+With my knees bent, I landed in the water. Stubbing a toe on a root, I cursed my decision not to sleep with my boots on. Still, my footing served enough to deliver a Thrust, scoring a 21-damage hit that inflicted another 87 points of Bleed over the next half minute. While the game gave the creature a green rating, I wouldn’t be getting backstab opportunities.
+
+My footing wasn’t as bad as I expected. The roots acted like rebar in wet cement, reinforcing my weight and stopping me from getting sucked down. If things got bad, I could toss up the Dark Room rope and properly prepare myself, but that risked the creature’s escape. Experience from fighting goblins and kobolds had been thin, and I wanted to earn more power points.
+
+Though Gladius and much of my equipment and weapons lay useless on the Dark Room floor, I carried a few items in the 32 slots of my inventory. I retrieved my Wall of Wind.
+
+I maneuvered, confident that I’d figured everything out.
+
+/Tortal Decapod Tongue Lashes you for 38 damage (8 resisted)./Tortal Decapod misses you./Tortal Decapod hits you for 14 damage (3 resisted)./Tortal Decapod hits you for 11 damage (5 resisted).
+
+Beaked mouths shot out on distended appendages between the monster’s legs. Its snapping jaws caught and reeled me toward it. The violence of the jerk nearly disarmed my shield, which I used to block its kicking legs. Two more of the monster’s armored claws clobbered me with bludgeoning damage.
+
+After regaining my composure, I popped a Rejuvenate and slashed at the flailing legs, eyes, and beaks. Many of my attacks missed their mark. Whenever I aimed at an extremity, it slipped beneath the protective shell. As quickly as they withdrew, legs and beaks shot out for more attacks.
+
+The creature’s ten legs kept it mobile and well above the surface. With every movement, muddy water splashed.
+
+I lunged toward the limbs repeatedly, but they deftly dodged beneath the shell. My blade slid off its hard surface, causing no damage. Only Scorches and Shocking Reaches scored reliable damage.
+
+I maneuvered around the creature’s side to attack one of the eight limbs supporting its weight. If I could dismember one, its neighbors wouldn’t be able to withdraw so easily. Whenever I aimed, eyestalks, beaks, and legs disappeared, emerging only in time to deliver counters.
+
+Backing away didn’t improve my situation. When I escaped its kicking range to cast a Restore on myself, a lashing beak zapped me, snagged onto my robe, and yanked me toward it. The action interrupted my spell. The jaws released me before I could slash or jab at them.
+
+I needed to change tactics.
+
+Escaping its snapping jaws would let me Restore myself to full health. I Slipstreamed as far as I could to a branch high above the action. My health pool had diminished by a third, so I wasn’t winning this battle. At least in the tree, I could scramble into the Dark Room and retrieve my gear. With Gladius, I had a 480-mana pool. Using Refresh Mana and my robe’s reset ability would allow me to nuke it with spells from afar and win the battle. I wasn’t too proud to use them on a green-rated enemy.
+
+The turtle-thing had other plans. As I balanced on the branch, its tendril shot out from an impossible distance, pulling me off the mangrove and into the water beside it. I took 30 points of falling damage besides the lashing bite. After downing a 100-point health potion, I returned to barely two-thirds health. None of my most recent powers could counter this creature’s abilities, and wasting a power point on it seemed a lazy way to win.
+
+I tossed up my interface and scrutinized my personal inventory. I saw a week’s worth of food, potions to cure poisons and diseases, and a vial of Volatile Acid. It worked in the water, but I couldn’t be sure it would work through the shell in time. I carried generic things like torches and rope.
+
+The void bag carried more options, but it lay on the floor of the Dark Room. It held a goblin net that wasn’t big enough to do anything. My alternate weapons didn’t seem workable. I wasn’t sure Gladius Cognitus could do the job for longswords specialized in piercing damage.
+
+It seemed an opportune time to test my Hammer of Might’s 30 points of armor penetration, and I could attack with impunity on top of the shell. I tossed up the Dark Room, reset Slipstream with my Cassock of Rewind, and zipped to the top of the rope. Inside, I quickly dressed and grabbed my equipment.
+
+The decapod’s defenses couldn’t prevent me from dropping onto its shell as it passed beneath me.
+
+Bringing down the hammer delivered over 40 points of damage, setting me back to business. It would take thirty-some hits to down the creature, but after a dozen, the monster wised up and lumbered toward a low-hanging branch, which would scrape me off with ease.
+
+I got in a few more strikes and did my best to stay on, but a creature with ten legs spun, reversed its direction, and unpredictably bucked. It wasn’t particularly fast, but the branches made it impossible to hold my position.
+
+I splashed into the muddy water.
+
+The creature’s legs struck for damage. My hammer moved too slowly to block its attacks. The trident wouldn’t help either, for structural damage did nothing special to living creatures. While I possessed a wide array of impressive weapons, I remembered my short sword. Sune Njal insisted I carry one, saying it suited indoor fighting and close-quarter combat. His advice answered my precarious situation. The solution wasn’t the weapon but how I needed to use it. Fighting with spears and longswords had conditioned me to maintain mobility, which meant nothing against a creature who could attack at range.
+
+I swung my short sword at the decapod. While the blade did no damage, I forced the monster to do what I expected it to do—withdraw its head and two legs. Before the legs shot out again, I rolled beneath the beast’s undercarriage and Charged my short sword into its belly, scoring a critical hit for 76 damage.
+
+I threw half of my remaining mana into a Mana Shield and braced myself for a volley of attacks, but its heads and legs couldn’t point inward to protect its soft underbelly.
+
+Several heads clicked and buzzed, perhaps a giant crab’s equivalent of rage. I forced my blade into the beast, landing another critical strike. I stabbed upwards, each attack critically hitting for over seventy damage. Like an auto mechanic draining transmission fluid, I worked on my back.
+
+When the decapod propelled itself in one direction, I hung on and scrambled with it. Presence blazed, but splashing mud and water almost blinded me. Though my waterlogged robe slowed me, the monster’s girth made keeping up with it possible. Every mangrove forced it to change direction, allowing me to regain lost ground.
+
+Whenever I could, I stabbed upward into the gore, which dribbled onto me. The scent of raw shellfish almost made me gag.
+
+In the distance, Beaker screamed. He projected telepathic complaints about hiding beneath the monster. He didn’t like the idea of me leaving him behind. “Come back out! Come back out!”
+
+I telepathically shouted back to him. “Shut up, you turkey. Can’t you see I’m fighting down here?”
+
+Throughout the battle, I eyed the combat log and watched the meat roof for signs of collapsing. When its health reached zero, I needed to scramble to safety. Luckily, the panicked turtle never tried to smother me against the watery ground.
+
+When Thrust’s cooldown ended, I used it to deliver a second Bleed—the 30-second effect lasted longer than the monster. When its health dropped to the low double digits, I stopped trying to keep up with it and let it pass over me. Rolling over in the water, I turned and finished it with a Scorch.
+
+Breathing hard, I searched for other threats and found none. I had half my health and a quarter of my mana, but I wasn’t looking for another fight.
+
+This rude awakening left me wet, hungry, and in no condition to enter a dungeon. I wanted nothing more than to towel off, eat, and climb back into bed.
+
+Beaker perched on a branch above me, squawking his disapproval that I would fight in such a reckless manner. Going underneath monsters looked scary to a griffon, and perhaps he was right.
+
+The game awarded me 58 experience points, a tenth of what I needed to reach level 30. “A green-rated monster, indeed.”
+
+Beaker, not understanding my comment, cocked his head.
+
+“Go get some breakfast. We’re traveling soon.”
+
+I didn’t need to tell him twice. Beaker took wing toward the lake, which made me glad. I preferred watching him eat a fish than devour another mangy caiman, which had more guts than muscle.
+
+Sitting in the shallow pool that extended in every direction, I splashed water onto my face, trying to wash away the mud and gore.
+
+I tossed up the Dark Room rope and climbed inside. The extra weight of my robe made the climb difficult, but I pulled myself inside. After wringing out my gear and drying off, I gobbled a biscuit and jerky strips I had saved for adventuring.
+
+After returning outside, I harvested the monster’s corpse. Using Detect Magic, I divined magical glows within the creature.
+
+Its innards carried two magic items.

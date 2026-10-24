@@ -1,0 +1,87 @@
+The irony hadn't escaped me that I had learned nothing. After endangering Miros by stealing gold from the ward worm’s lair, I was at it again—pounding away at an epic dungeon beyond my understanding. My hand-wringing and regret over the relics amounted to little more than pretense. Regarding precious metals, I behaved like a creature of unchecked greed.
+
+The rubber elemental made no move to attack—or rather, it moved slowly to attack. Stiff limbs bent and twisted with effort as it turned to face me. At this pace, the creature would still be in its third step by the time I’d liberated the darksteel, whose progress bar displayed 5 percent. Redoubling my efforts, I exerted myself until a heat wave caught my attention.
+
+A metal column with vertical grooves and discolored metal splotches rose through a hole in the platform. The metal splotches looked like other pieces of metal melted by the heat sink. The column’s purpose wasn’t clear, but it looked like nothing but trouble.
+
+Beneath the column, a forest of heat sink spikes extended upward from beneath the rubber elemental—whose dull skin now glistened. The air above the heat sink shimmered from the high temperature, all but giving away the heat sink’s function—to limber up the rubber elemental for battle.
+
+Swinging the Metamorphic Siege hammer with all my strength, I brought the darksteel vein to 24 percent.
+
+When a flint arrowhead critically hit me for 48 damage, I reluctantly turned away from my task of freeing the precious ore. Air blew out the tips of each of the satyr’s horns, trumpeting a discordant and sputtering harmony of sounds, and a debuff appeared.
+
+Debuff
+
+Jinxed
+
+Chance to miss attacks is 100 percent. Every miss reduces the effect by 10 percent.
+
+Duration
+
+Until an attack hits
+
+This debuff felt just plain unsporting. Despite the difficulty in reaching the satyrs, I needed to waste attacks before getting rid of this debuff. It didn’t seem fair. Losing reliable melee or missile options left me with spells, but I needed mana reserves for Magnetize, which cost 25 mana for every jump.
+
+While assessing the situation, I put away the hammer and Wall of Might and tossed a Rejuvenate on myself. The rubber elemental stood midway between its first step. Its slothlike pace had sped up to turtle. Before it reached cheetah, I needed to deal with the satyrs.
+
+I zipped away after another arrow struck for 21 damage. It wouldn’t do to lose my concentration on Magnetize mid-flight. I landed behind a stationary wheel, shielding myself from arrows and buying time to think. The satyrs stood on sheer vertical surfaces—how could I reach them? I spied an overhanging row of horizontal bars sandwiched together. Heavy globs of grease hung between them—the perfect target for a Compression Sphere.
+
+I waited until the satyr got close before targeting the bars with an air blast. The result didn’t disappoint. The spray spattered the satyr and peppered the wheels in goo. If they defeated me, the satyrs would have quite a clean-up ahead. Dropping, I Magnetized onto a gear within range of the soaked satyr and Scorched it into a bonfire.
+
+Its shaggy hair blazed while I counted the health drop. 540 health amounted to a lot for ranged damage, but the fire made quick work of it. The monster ignored the flames despite its impending doom until its bowstring snapped. It dropped the weapon and awkwardly galloped across the wheels in a futile effort to reach me. Its horseshoed hooves sparked wherever it went, lighting a trail of grease fires.
+
+I shot it with my Light Crossbow to hasten its demise, pleased to see the Arcane Missile land without error. The Jinxed debuff hadn’t affected it because it launched spells, not missiles.
+
+When the flaming satyr died, it tumbled across several wheels, lighting grease fires along the way.
+
+I wiped my brow. With the heat sinks extended, the place felt like a sauna. I spared a glance at the rubber elemental. Though its speed had increased, it still shambled like a zombie, giving time to deal with the second satyr.
+
+Upon seeing the fires, the satyr’s face twisted in rage. This one had been watching my tactics and positioned itself away from the grease. Its metallic eyes held me in its sight while drawing its bow. I took another hit from the flint-tipped arrow and launched myself at the hairy custodian. Unfortunately, it had been watching me too closely.
+
+The satyr nocked another arrow. It seemed to know to shoot while I channeled Magnetize.
+
+When the arrow struck, I fumbled the spell and recovered from my fall onto a nearby beam using Slipstream. My enemy drew another arrow. Instead of firing, it waited for me to Magnetize again. Having cast so many spells, I became low on mana and withdrew behind an obstruction. It made sense to shield myself while performing a Refresh Mana.
+
+After zapping it with Scorch to empty my reserves, I channeled for more mana for a couple of minutes, and the satyr repositioned itself to get a clear shot. I’d only halfway refilled myself when its missile found me.
+
+Melee seemed my only option. The glistening rubber elemental below moved as briskly as a dancer. After reaching the platform’s edge, it performed a stretch routine that doubled its reach. Extending limbs provided it with excellent locomotion in this crazy gearbox. I’d wasted too much time regaining mana.
+
+Instead of risking another 25 mana on Magnetize, I leaped onto the horizontal satyr’s back when my Slipstream cooldown finished. Grappling the creature with my legs like a rodeo cowboy, I jammed Creeper at its back—missing. I let fly a series of backstabs—five of which missed before landing a critical strike, thus ending the Jinx.
+
+The satyr wasn’t without melee attacks. Its jaws and claws savaged me, and we coiled around one another. The magnetic pull of its hooves held strong enough to support our weight, but I made its progress difficult. The satyr walked from one wheel to the next, seeking the platform where the boss monster awaited. While the creature struggled, I gouged my spear into its back. A 100-point heal potion, Rejuvenate, and two Restores kept me alive. I used the Restores in tandem with the Charm of Rescue—which allowed me to turn a heal into an instant once a day. I reset the charm’s cooldown with my robe.
+
+The satyr played one last trick before I ended its existence. It blew its debuff horns—moments before I killed it with my Light Crossbow.
+
+When it expired, its hooves lost their magnetic attraction, plummeting me into a freefall. I pulled out of my descent using Magnetism, touching down to the platform. I faced the boss monster with only 241 health, 125 mana, and a debuff guaranteeing at least half a dozen misses.
+
+The remaining foe’s extremities lengthened into ropes. No longer a stumpy, dumpy gingerbread man, it moved with the grace and speed of a robot. Its limbs and torso elongated like gum. The stone bracelets shrank as the taffy creature stretched its form. It lurched after me without hesitation.
+
+“Let’s see what you can do, rubber boy.” I Magnetized as high as I could to a hanging wheel. The heat of the platform stifled me, so I took extra care to get a good grip as I clung. Perhaps luring him into a cooler place returned him to a slower state. Behind me, the elemental moved like a spider bridging gaps between wheels on long legs.
+
+The elemental corrected its course as I reached another wheel, homing like a guided missile. Its fluidity bore no resemblance to its stiff, stocky beginnings.
+
+I Magnetized to a wheel spinning as fast as a carousel and waited for the boss monster to catch up. I moved to the wheels’ tangent point, where the magnets of one surface pushed those of another.
+
+Seeing the elemental heated to such a malleable state gave me an idea. When the elemental approached, I grabbed one of its rings and pulled it toward me. The creature wanted to Grapple anyway, so it offered little resistance—its flexible appendage yielded to my grip.
+
+/Rubber Elemental hits you for 55 damage (14 resisted)./Rubber Elemental crits you for 114 damage (0 resisted)./Rubber Elemental hits you for 52 damage (16 resisted).
+
+Grappling a boss monster wasn’t without its risks. I dropped to 22 points of health when I pulled the stone ring between the wheels. While the wheels weren’t touching, they spun close enough to catch the creature and crush the stone bracelets to dust. The monster fought the massive cylinders without comprehending their irresistible pull.
+
+Hanging from the spinning disks, I fed as many stone rings as possible into the grinder. The creature’s 1620 health dropped by 100 points for every pulverized ring. After losing 900 health, the monster emerged on the other side of the wheels wearing only eight rings and 720 health.
+
+The monster’s elasticity waned as the rings broke between the wheels, making it squat and human-sized again.
+
+Trying to cause that much damage without being hit promised a swift death, so I spent a power point on Mineral Mutation to even the odds. As expected, the spell came with a time-stopping interface, for casters must target the affected stone. The remaining bracelets exceeded my maximum area of effect—2 cubic feet. I exploited the spell’s precision by turning thin slices into cotton, splitting rings into pieces that fell apart, leaving just a few stone rings before the spell’s duration expired. Mineral Mutation had done its job.
+
+The elemental wasn’t the only combatant showing signs of wear. With only 22 health and fewer than 55 mana, I still had Anticipate up my sleeve, but it would give me only one reprieve. I needed to inflict 220 points of damage before it hit me. And then I saw the debuff icon sitting next to Presence—Jinxed, the satyr’s parting gift. I couldn’t survive missing several times in a row.
+
+I considered options for a Plan B when the elemental dropped.
+
+At first, I thought it had fallen into the heat sink, but it landed on the platform next to the mysterious metal column, which I knew would become a source of trouble. The rubber elemental reached for a ring and held it next to the column, presumably charging it with energy. When it slipped the ring on, its health rose by 100.
+
+“Oh, no, you don’t.” I climbed above the deadly heat sink and dropped. As I plummeted past the platform, I cast Transpose, switching places with the elemental.
+
+The spell dropped the creature onto the heat sink, barbequing it with a satisfying sizzle and a thick plume of black smoke. The same magic teleported me safely back to the platform where the monster once stood.
+
+From behind, an unseen and terrible blow hit my head and body, and I lost all consciousness.
