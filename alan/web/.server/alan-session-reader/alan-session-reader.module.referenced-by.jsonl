@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"alan-session-reader.module.code.ts","path":"alan/web/.server/alan-answer-page-write/alan-answer-page-write.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"alan-session-reader.module.code.ts","path":"alan/web/.server/alan-answer-pages/alan-answer-pages.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"alan-session-reader.module.code.ts","path":"alan/web/.server/app-layout-loading/app-layout-loading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"alan-session-reader.module.code.ts","path":"alan/web/.server/page-detail-loading/page-detail-loading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"alan-session-reader.module.code.ts","path":"alan/web/routes/alan-web-api-device-secret-mint/alan-web-api-device-secret-mint.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"alan-session-reader.module.code.ts","path":"alan/web/routes/alan-web-api-device-secret-revoke/alan-web-api-device-secret-revoke.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"alan-session-reader.module.code.ts","path":"alan/web/routes/alan-web-api-image/alan-web-api-image.route.code.ts","typed":false,"deferred":false}

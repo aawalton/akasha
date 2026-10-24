@@ -7,6 +7,7 @@ export const alanAnswerAsk = {
   definition: "a question asked in Alan's browser carried to the page store and answered back",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -47,5 +48,5 @@ export const alanAnswerAsk = {
     },
   ],
   createdAt: "2026-09-22T01:25:04.311Z",
-  updatedAt: "2026-10-24T17:28:16.229Z",
+  updatedAt: "2026-10-24T17:31:22.362Z",
 } as const satisfies Module

@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"reading-in-flight.module.code.ts","path":"alan/harness/modules/reading-in-flight/reading-in-flight.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"reading-in-flight.module.code.ts","path":"alan/harness/modules/router-app-serving/router-app-serving.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"reading-in-flight.module.code.ts","path":"alan/web/.server/page-detail-loading/page-detail-loading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"reading-in-flight.module.code.ts","path":"alan/web/routes/pages-ready/pages-ready.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"reading-in-flight.module.code.ts","path":"product/wandering-inn-wiki/web/modules/innworld-reader/innworld-reader.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"reading-in-flight.module.code.ts","path":"temper/watcher/modules/watcher-token-check/watcher-token-check.module.code.ts","typed":false,"deferred":false}

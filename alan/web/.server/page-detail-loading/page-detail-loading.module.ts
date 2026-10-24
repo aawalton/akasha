@@ -6,7 +6,16 @@ export const pageDetailLoading = {
   slug: "page-detail-loading",
   definition: "what a page's detail route loads before it is drawn",
   code: "ts",
+  test: "ts",
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every read the loader makes is held to what its reader may read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page its reader may not read is answered as no such page.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement: "A page carries the icon its page type gives it beside the icon it is drawn with.",
@@ -44,5 +53,5 @@ export const pageDetailLoading = {
     },
   ],
   createdAt: "2026-09-03T03:45:08.507Z",
-  updatedAt: "2026-09-28T23:07:11.000Z",
+  updatedAt: "2026-10-24T17:31:22.362Z",
 } as const satisfies Module

@@ -4,30 +4,7 @@ import {
   askHeld,
   narrowOver,
 } from "akasha/alan/web/.server/alan-answer-ask/alan-answer-ask.module.code.ts"
-import { alanPageTypeAll } from "akasha/person/access/pages/alan-page-type-all.person-access.ts"
-import { jennyPageTypePageType } from "akasha/person/access/pages/jenny-page-type-page-type.person-access.ts"
-import { jennyPageTypePerson } from "akasha/person/access/pages/jenny-page-type-person.person-access.ts"
-import { jennyPageTypeSeat } from "akasha/person/access/pages/jenny-page-type-seat.person-access.ts"
-import {
-  DEEDS,
-  type Grant,
-  reachOf,
-} from "akasha/person/modules/page-type-access/page-type-access.module.code.ts"
-
-type Access = {
-  readonly target: string
-  readonly deed: readonly string[]
-  readonly narrow?: { readonly key: string; readonly is: string }
-}
-
-function grantOf(access: Access): Grant {
-  return { target: access.target, deeds: [...access.deed], narrow: access.narrow ?? null }
-}
-
-const GRANTS: Readonly<Record<string, readonly Grant[]>> = {
-  alan: [grantOf(alanPageTypeAll)],
-  jenny: [jennyPageTypeSeat, jennyPageTypePerson, jennyPageTypePageType].map(grantOf),
-}
+import { readsAsTheirPages } from "akasha/alan/web/.server/alan-answer-ask/alan-answer-ask.module.test-fixtures.ts"
 
 const ALAN = { person: "alan" }
 
@@ -44,10 +21,7 @@ function asking(
   const sent: Sent[] = []
   const deps: AskDeps = {
     readerOf: async () => reader,
-    mayRead: async (user, pageTypeSlug) => {
-      const person = (user as { person?: string } | null)?.person ?? "anonymous"
-      return reachOf(GRANTS[person] ?? [], pageTypeSlug, DEEDS.READ, person)
-    },
+    mayRead: readsAsTheirPages,
     kindsBelow: async (pageTypeSlug) => below[pageTypeSlug] ?? [],
     post: async (at, _what, body) => {
       sent.push({ at, body })

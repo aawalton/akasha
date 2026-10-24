@@ -1,5 +1,12 @@
+import {
+  type MayRead,
+  readingFor,
+  type WhoIsReading,
+} from "akasha/alan/harness/modules/reading-in-flight/reading-in-flight.module.code.ts"
+import { mayRead } from "akasha/alan/harness/web-page-answer/modules/reader-access/reader-access.module.code.ts"
 import { answerPageTypes } from "akasha/alan/web/.server/alan-answer-page-types/alan-answer-page-types.module.code.ts"
 import { answerPages } from "akasha/alan/web/.server/alan-answer-pages/alan-answer-pages.module.code.ts"
+import { readAlanUser } from "akasha/alan/web/.server/alan-session-reader/alan-session-reader.module.code.ts"
 import { pageIcon } from "akasha/alan/web/.server/page-icon/page-icon.module.code.ts"
 import { resolveReaderNeighbors } from "akasha/alan/web/modules/alan-reader-neighbors/alan-reader-neighbors.module.code.ts"
 import { resolveNextUnreadHref } from "akasha/alan/web/modules/next-unread/next-unread.module.code.ts"
@@ -14,6 +21,7 @@ import {
 } from "akasha/page/access/modules/get/get.module.code.ts"
 import { getDescendantPageTypeSlugs } from "akasha/page/access/modules/page-type/page-type.module.code.ts"
 import { getSequenceConfig } from "akasha/page/access/modules/page-type-config/page-type-config.module.code.ts"
+import { Withheld } from "akasha/page/access/modules/read-gate/read-gate.module.code.ts"
 import { flattenRow } from "akasha/page/access/modules/routing-core/routing-core.module.code.ts"
 import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import { addressIn, namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
@@ -167,7 +175,27 @@ function nameOf(row: Readonly<Record<string, unknown>> | null | undefined): stri
   return typeof row?.slug === "string" ? row.slug : null
 }
 
-export async function loader({ params, request }: LoaderFunctionArgs) {
+const readerOf: WhoIsReading = async (request) => ({ user: (await readAlanUser(request)).user })
+
+export async function heldToReader<Answer>(
+  request: Request,
+  work: () => Promise<Answer>,
+  who: WhoIsReading = readerOf,
+  reads: MayRead = mayRead
+): Promise<Answer> {
+  try {
+    return await readingFor(who, request, work, reads)
+  } catch (thrown) {
+    if (thrown instanceof Withheld) throw new Response("Not Found", { status: 404 })
+    throw thrown
+  }
+}
+
+export function loader(args: LoaderFunctionArgs) {
+  return heldToReader(args.request, () => loaded(args))
+}
+
+async function loaded({ params, request }: LoaderFunctionArgs) {
   const { pageTypeSlug, pageHrefParam } = params
   if (pageTypeSlug === undefined || pageHrefParam === undefined) {
     throw new Response("Not Found", { status: 404 })

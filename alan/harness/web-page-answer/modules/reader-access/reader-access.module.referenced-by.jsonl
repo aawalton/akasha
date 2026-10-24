@@ -5,6 +5,7 @@
 {"propertySlug":"import","fileName":"reader-access.module.code.ts","path":"alan/harness/web-page-answer/.server/answer-pages/answer-pages.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"reader-access.module.code.ts","path":"alan/harness/web-page-answer/modules/reader-access/reader-access.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"reader-access.module.code.ts","path":"alan/web/.server/alan-answer-ask/alan-answer-ask.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"reader-access.module.code.ts","path":"alan/web/.server/page-detail-loading/page-detail-loading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"reader-access.module.code.ts","path":"alan/web/routes/alan-web-api-page-file/alan-web-api-page-file.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"reader-access.module.code.ts","path":"alan/web/routes/alan-web-api-seat-image/alan-web-api-seat-image.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"reader-access.module.code.ts","path":"alan/web/routes/alan-web-api-seat-message/alan-web-api-seat-message.route.code.ts","typed":false,"deferred":false}
