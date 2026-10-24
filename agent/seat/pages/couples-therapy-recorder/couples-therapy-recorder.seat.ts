@@ -11,6 +11,7 @@ export const couplesTherapyRecorder = {
   startMode: "seat-mode/headless",
   onCall: false,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "05471544-2e12-4c57-9c84-8f45c2965ccf",
   createdAt: "2026-10-24T19:05:36.988Z",
-  updatedAt: "2026-10-24T19:05:36.988Z",
+  updatedAt: "2026-10-24T19:05:40.785Z",
 } as const satisfies Seat
