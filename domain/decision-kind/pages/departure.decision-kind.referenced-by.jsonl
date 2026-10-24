@@ -429,6 +429,7 @@
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-work-restart/modules/supervisor-limit-resume-decide/supervisor-limit-resume-decide.module.ts","id":"01a0686d-9d5e-7003-85f7-c26e7d26b125"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-work-restart/modules/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.ts","id":"01a06838-5a84-7006-be45-2e23ffbbeeca"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-work-restart/modules/supervisor-wait-resume-decide/supervisor-wait-resume-decide.module.ts","id":"01a0686d-9d5e-7004-9169-e4d983fea9db"}
+{"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-action/modules/regret-cut/regret-cut.module.ts","id":"01a16fe1-4cd9-7640-8946-6f919c2c593c"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-action/modules/seat-action/seat-action.module.ts","id":"01a069bd-bdc4-7370-ba29-d4c25882427e"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action-arm/supervisor-agent-action-arm.module.ts","id":"01a0683e-3dbe-7005-8bd3-faecca604871"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action-clear/supervisor-agent-action-clear.module.ts","id":"01a0683e-3dbe-7006-8802-c5cdbe0a8d6d"}

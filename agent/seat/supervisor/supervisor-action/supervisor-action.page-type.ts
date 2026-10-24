@@ -14,6 +14,7 @@ export const supervisorAction = {
     "module/supervisor-agent-action-clear",
     "module/supervisor-agent-action-types",
     "module/supervisor-poll-agent-action",
+    "module/regret-cut",
     "supervisor-action/restart",
     "supervisor-action/restart-now",
     "supervisor-action/swap-gateway",
@@ -37,5 +38,5 @@ export const supervisorAction = {
   types: "ts",
   schema: "jsonl",
   createdAt: "2026-09-01T21:10:58.834Z",
-  updatedAt: "2026-09-25T14:00:06.000Z",
+  updatedAt: "2026-10-24T21:46:38.681Z",
 } as const satisfies PageType
