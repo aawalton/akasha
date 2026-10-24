@@ -1,0 +1,229 @@
+Bill, in a luxury personal rental transport capsule, hurtled down the 10-meter vacuum tube of the NYC/LAX Hyperloop at a steadily growing velocity upon leaving New York City’s station. Bill didn’t like public transport. He preferred to use vehicles completely under his control. This time he relented as his funds were still building towards furthering his Tesseract project and he was picky about his purchases. He had two “missions” to achieve before he could even begin to plan his experiments in dimensional research.
+
+First, he needed to resolve his data breach issue. It had been a long time since Bill had a tussle with a tech warlord. He was worried his time away in the great empty might have caused him to lose his edge. If he had a top-notch hacker capable of corrupting his networks after him or his research, he may need some help.
+
+This was precisely the reason he had founded the Samaritans. One of his peers would likely be able to help. He needed the in-person approach for this; in case his new adversary was actively monitoring him. Sherlock, Casa, and Ada had upgraded the house ship’s security and Ada confirmed that his augments did not share his house system’s backdoor issues. He needed to find out who the hacker was and what they were after.
+
+Second, Bill was hoping to reconnect with any survivors or perhaps close family of the team from MIT. He already had all of the published net data, but there were big gaps in both the theory and the experimental setup. Bill hoped that if he asked the right people and got lucky, maybe he could fill in the gaps. Comparing the MIT disaster to his own fizzled experiment might provide the key to unlocking a brand-new technology.
+
+He had not wanted to interrupt Max’s training. He thought the comfort of a real home and Casa watching over him was for the best for now. Casa was pretty pissed to be left behind, but she needed to fly alone for a bit too. Sometimes he found himself treating her like just another daemon, and he needed to stop it before it became a habit. They both needed a little space to grow, so he wasn’t planning on rushing this trip.
+
+Making the best of his situation, Bill relaxed in the plush cabin. The hyperloop transport system spanned the entire globe providing cheap and quick transport to select destinations. The network of vacuum tubes crisscrossed the Earth’s mantle, enabling accelerations far exceeding air travel, limited only by the comfort of the passengers.
+
+His rental capsule was constructed of a complex weave of smart matter, diamondoid, and pseudo matter as a shell. A superconductive lining allowed the capsule to levitate and accelerated it down the center of the tube free from all air resistance to impede allowing it to reach very high velocity. Inside the cabin, the only tell to indicate travel was the acceleration keeping Bill and the cabin pressed against the aft “floor”. The technology powering the capsule isolated it from the ever-present wireless data networks. Even Bill’s prodigious sensory suite couldn’t penetrate the cabin’s walls and intense electromagnetic fields of the tubes' rail propulsion.
+
+Bill had summoned all his daemon council into a virtual room to plan their next steps, he left only Moneta to monitor the capsule while he was busy. Bill “arrived” at the VR workshop to check on their progress. Unlike most people, Bill’s augmentations had more than enough processing power to keep about 10 daemons with maxed cognition speeds going constantly.
+
+Baseline daemons tended to stall out without constant tasks. Bill resolved this by using Virgil as a task manager. Bill would give Virgil general tasks and he would break the large objectives into smaller tasks and assign them to the best-suited specialty daemon to work the problem.
+
+When Bill arrived; Leo, George, and Miyamoto were already deep in discussion, from the projections floating above them they were preparing a series of anonymous disguises for the trip. Bill approached Virgil and his collaborators, who were engaged in a discussion. Although Virgil noticed Bill's presence, he continued speaking until Bill decided to interject.
+
+"As I was saying," Virgil began, "Bill intends for us to pay a visit to the current de facto leader of the Samaritans, Miriam Khan. We seek advice from her on both the quest for the missing MIT data and our hacker predicament. George, Leo, and Miyamoto are already devising security measures to retain our privacy when we arrive."
+
+Sherlock, ever the astute observer, seized the opportunity to share his thoughts. "I believe it prudent to develop our plan. A roster of suspects and a preliminary strategy, utilizing Bill's memories and data as our guide. Any new insights gleaned from Miriam can be seamlessly integrated into our plan. I have conducted extensive research on Bill's early days with the Samaritans and have compiled an initial list of capable suspects.” Sherlock interjected; his voice filled with confidence.
+
+"Pray, present your list," Virgil encouraged.
+
+With a wave of his hand, Sherlock conjured a floating display, which materialized with a preexisting list of names. Bill's eyes widened slightly, impressed by Sherlock's thorough investigation into his background.
+
+The names on the display read: Miriam Khan, Gabriel Chen, Glaucus, Dr. Mei Lin, Nyancat, and Zero-One.
+
+"First on our list is Miriam Khan, often hailed as the Queen of Daemons. Like Bill, she played an instrumental role in the Samaritans' inception. When Bill 'retired,' she assumed his informal mantle as the group's leader. Among the multitude of licensed daemons circulating the net, Miriam crafted the most exquisite and sought-after creations. According to Bill's records, she also possessed a cadre of daemons with unique abilities that she kept in reserve. While not a proficient programming expert herself, Bill noted that she housed several daemons with expertise in network security. Presently, she operates from the Stanford University Daemon Farm Server, our initial destination," Sherlock elaborated.
+
+"She will be a good source for information”, Bill interjected,” allowing us to gauge the current landscape of capable individuals. I collaborated with Miriam while I was in the Samaritans, and I can’t see any motive for her to hack me. It’s not her style."
+
+"Indeed. It appears highly improbable that she would meddle with your research, but it would be unwise to dismiss anyone at this nascent stage," Sherlock replied sagely.
+
+"Second on our list is Gabriel Chen, a black hat programmer renowned for his unparalleled expertise in network access, electronic security, and mastery of domination techniques. He has been an active participant in the Samaritans, primarily serving as a talent scout. Regrettably, his current whereabouts remain elusive, and his motivations remain a mystery," Sherlock divulged.
+
+“He is impossible to find,” Bill affirmed. “He changes forms and identities more than I change my clothes. I can send a message to the Samaritan networks that I am looking for him, but I can only hope that he will come to find me.”
+
+Sherlock regarded Bill with a hungry look. Sherlock's eyes gleamed with anticipation as he regarded Bill.
+
+"Every individual leaves traces, my dear Bill. It merely requires honing one's perception to discern them. I shall commence my inquiries immediately after this review, driven by the challenge that lies before us."
+
+“I don’t recognize the next name. Glaucus?” Bill asked.
+
+"Glaucus is the AI overseeing the processor farm at Tyco on Luna. During the configuration of the Tesseract circuit, you were interconnected with its servers. In a way, it played a role in the creation process and, as the server administrator, had the opportunity to involve itself. Although it would be prudent to consider it as our prime suspect, conducting a remote interrogation poses certain challenges. It would be more sensible to postpone the interview until we have concluded our initial inquiries with Miriam," Sherlock explained, shedding light on the intricacies of the situation.
+
+Bill couldn't help but groan inwardly, realizing that with his aggressive scheduling to conduct his test, he had inadvertently compromised his data security. He had placed far too much trust in his anonymity, exposing another vulnerability. He examined the list again.
+
+"Ah, I see you included Mei Lin. An excellent choice," Bill interjected, hoping to appease Sherlock's proud nature. "She is a cryptography researcher at Tsinghua University in Beijing. Her proprietary encryption code forms the foundation of the most popular security software systems. It is highly unlikely that the existence of a backdoor could be anyone other than her. Although she was never recruited by the Samaritans, we have closely monitored her activities. Her understanding of the underlying methods of secure encryption is truly genius."
+
+Bill paused momentarily before questioning Sherlock about the final name on the list. "And what about this Nyancat?"
+
+"Ah, Nyancat," Sherlock began, his tone reflecting a hint of amusement. "Another cybersecurity-focused AI, housed within the ThousandWorlds server cluster located in San Francisco. Many shared virtual spaces and traffic flows through that very cluster. I have had the pleasure of employing Nyancat's services in previous investigations. It is a peculiar entity, rather taken with human memology, and often engages in immersive multiplayer online virtual reality role-playing games. One might say it views everything as a grand game. However, if we present our predicament in the correct context, Nyancat will undoubtedly prove to be an exceptionally devoted ally."
+
+Sherlock's disdain became evident as he mentioned the final name on the list. "And lastly, we have Zero-One," he uttered with a touch of disgust. "Another AI, though one harboring the most dubious of intentions."
+
+"He possesses a brilliant mind, but unfortunately, he employs his talents for nefarious purposes. Zero-One presides over the current incarnation of the DarkNet, catering to the illicit demands and contraband sought by those nations of questionable character. The DAIE, undoubtedly, seeks his apprehension and wishes to rein in his unbridled intellect. I have encountered him in more than one investigation. While he may not be an active felon himself, he serves as an enabler and facilitator of unlawful endeavors. It is conceivable that he may possess insights relevant to our case, albeit his help can only be attained if we can pay what he thinks it's worth." Sherlock explained.
+
+With a wave of his hand, Sherlock summoned another list to the display. "Furthermore, I have taken the liberty of conducting a thorough review of the MIT ZPE team. Regrettably, most of them were local to the Boston area and, tragically, perished along with their families during the New Boston event."
+
+The second list of names before them included: Miriam Khan, Yuri Tanaka (widow of Dr. Sota Tanaka), and Richard Stahlman.
+
+"Our dual investigations align upon an interview with Miriam,"
+
+"Dr. Anika Sharma, a leading researcher within the MIT team, shared a significant bond with Miriam. If she had divulged any of her work to individuals outside the team, Miriam would probably have been the recipient," Sherlock declared, his gaze shifting to Bill, who silently affirmed the connection between Miriam and Dr. Anika Sharma, her close friend and fellow Samaritan.
+
+"Moving on to Dr. Sota Tanaka, a visiting professor, and advisor associated with the MIT team during the test. His primary residence was situated near Kyoto University in Japan. Given his involvement, it is conceivable that his widow might have access to his personal network files, which could prove invaluable," Sherlock continued, highlighting a potential source of information.
+
+"And then we have Richard Stahlman, the Chief Experimentalist and the only survivor of the MIT team. Known for his crippling social anxiety, he prefers working remotely. Once the accident occurred, he deliberately distanced himself from the Boston area to avoid media attention. He has frequently changed his location, making it challenging to trace his whereabouts. The most recent record places him in Anchorage, Alaska," Sherlock concluded, shedding light on Richard Stahlman's peculiar circumstances.
+
+With a flick of his hand, Sherlock conjured a map, revealing the target locations along a planned travel route. "Once we reach the West Coast, we can begin our inquiries. We will begin by interviewing Miriam, seeking her assistance in both the hacker predicament and the MIT data. Following that, we can travel along the lower Global Hyperloop latitudinal line, utilizing the time during the Pacific crossing to conduct remote interviews with both Glaucus and Zero-One," Sherlock proposed, as the map route filled in before them.
+
+"Our next stop will be the loop terminal in Tokyo, where we will visit Tanaka's widow. From there, whether by air or loop, we shall proceed to Beijing to meet with Mei Lin. Finally, we will complete the loop by visiting Mr. Stahlman in Alaska and then Nyancat in San Francisco," Sherlock concluded, outlining the comprehensive journey ahead.
+
+As Sherlock and Ada began discussing methods to securely communicate back to the Moon, Bill and Virgil removed themselves and joined the other group. Virgil brought Bill into the discussion.
+
+“Miyamoto had pointed out that our public transit is very visible. If our inquisitive hacker is monitoring us, he may anticipate our intentions to find him and make it more difficult. George and Miyamoto are setting up your augs with both physical and cyber disguises to mask our departure from the hyperloop terminal.” George said as Leo jumped up.
+
+“Bill, look at this. I’ve designed a privacy screen for your interview with Miriam taking some aspects from our hyper tube capsule’s working configuration. A nanofog enclosure that links up and forms a Faraday cage to isolate both incoming and outgoing signals. It’s a portable privacy booth!” Leo’s excitement and enthusiasm were palpable. Both George and Miyamoto stopped to see Bill’s reaction. Bill reviewed it. Genius as always, the Faraday cage couldn’t be done with normal fog, but Bill’s powered foglets, while limited in number, expanded the capability of a foglet network. He perceived an issue, however.
+
+“I’m sorry Leo. The second I activate the cage; Miriam will most likely freak out. Being cut off from the local network could be perceived as an attack. I know if it happened to me, I would take immediate countermeasures.” Bill commented.
+
+“Told you.” Both George and Miyamoto said in tandem.
+
+“That’s the best part!” Leo crowed, “It’s a perfect ice breaker to engage her in the seriousness of our issue. Both George and Miyamoto agree on what will happen next. You just need to practice your acting a bit……”
+
+Bill arrived at the guest entry of the Stanford Campus’ Daemon Server Farm wearing the face and projecting the identity of Li Wie. She was a visiting Ph.D. graduate student from Tsinghua University in the field of Artificial Intelligence who had Miriam as one of her project advisors. Sherlock’s research had found her and lured her away from campus today with a fictitious trail walk event supposedly hosted by her hiking group. Bill’s disguise was precise. He had remodeled his body to mimic her sleek, shoulder-length black hair, tied back in her customary styling. Bill’s eyes had shifted from his blue eyes to Li’s deep brown. Bill as Li Wei was dressed in a mix of professional attire and casual wear, favoring comfortable clothing. He mimicked her in every way that was recorded on her social media.
+
+He had walked to the office assigned to Miriam Khan and sat in the waiting area outside. It was very early in the morning and the office was mostly deserted. Bill knew that Miriam was an early riser. Bill’s nanofoglets had spread out and settled on the surrounding waiting room walls, floor, and ceiling; ready for him to put them to use.
+
+He could tell the building AI was inspecting him via its variety of senses and its foglet network. Confident in his disguise, he allowed it. The only indication of his deception that might give him away was his density and weight. Most security systems would not think to check such things nor be equipped to detect them. He had compressed much of his mass to enable the smaller form of the Asian girl. He despised operating under mass constraints if he could avoid it, every gram of his smart matter body was worth its weight in rare elements.
+
+Sure enough, as the time ticked forward to 6:30 am, Miriam was the first person to arrive. As she bustled into the area with a briefcase in one hand and a coffee in the other. She immediately noted her “student” Li Wei in the waiting area.
+
+“Li? I thought you were taking a long weekend. What are you doing here today?” Miriam asked. Bill took a quick small breath and stood up. He bowed quickly in the manner Li Wie would do and approached her.
+
+“Apologies, Dr. Khan. I needed a private meeting with you.” Bill said as he presented a pad of paper with a handwritten note. Before Miriam could fully focus on the note, Bill’s Faraday cage closed and activated. They were both immediately isolated from the building with its electromagnetic field. Miriam’s eyes widened and she triggered a burst of combined concussion and EMP blast at Bill. Bill was thrown across the room, impacting the wall and falling to the ground.
+
+Very good, Miyamoto’s whispered, Stay down. She believes her attack has disabled you and should stop to assess the situation before further attacks.
+
+The building’s foglets in the room rained down as the EMP blast shorted them out. Bill and his powered foglets were shielded from the expected EMP. Bill shifted slightly in his crumpled position on the ground so he could see Miriam better.
+
+Her briefcase had been dropped and had sprouted legs, claws, and a stinger. It very much resembled a terrier-sized scorpion as it interposed itself between him and Miriam. Miriam’s appearance shifted dramatically as her skin turned jet black in appearance, absorbing all incoming light. Her hands had sprouted whirling whips of nanofilament. Bill knew those whips well. They would slice through unreinforced matter like a hot knife through butter. As his handwritten note fluttered to the ground, Bill caught Miriam’s gaze, he saw her minute shifting of focus towards the note for a fraction of a second.
+
+Ah, Bill thought, excellent. She took the time to read it.
+
+Bill had handwritten a note to hopefully prevent her next attack. It read:
+
+Miriam, Sorry for the surprise. It's me, Sebastian, not Li Wei. I needed to isolate you for a private and secure talk. Please give me a moment!
+
+“You absolute dumbass! Couldn’t just send a notification that you were back? What the fuck, Sebastian?” Miriam shouted at him.
+
+Bill / Li smiled and winked. “Apologies, Miriam. Fast talk please?”, Bill said and shot her a high-speed access link while ramping up his cognition to the maximum.
+
+Bill and Miriam materialized their avatars simultaneously within a shared virtual meeting room. With a slight delay, Bill transformed the shared virtual room into a replica of the Aspen ski lodge where he had convinced Miriam to take over his duties as the presumed leader of the Samaritans.
+
+“Miriam, I apologize again. I am sorry to have approached you in this way. We have about 30 seconds in real-time before your building AI truly freaks out and initiates countermeasures on me. With us in fast time, I hope to be able to give you the full story before that happens," Bill began. Miriam still looked very angry.
+
+"That was quite a reckless move, Sebastian. What if I had decided to take a swing at you? Even your fancy augmentations wouldn't hold up against a powered nanofilament whip," Miriam chided.
+
+"I know. I was hoping that in a relaxed setting, you wouldn't have your daemon Attila running and would choose a less aggressive approach," Bill replied. "Since you stopped your attack, I assume that you or one of your daemons must have taken the time to read my note after the initial blast."
+
+As if summoned by his comment, Attila in full armor appeared followed shortly by another daemon, a smaller man in a casual 20th-century suit with trimmed grey hair and a tightly cropped goatee beard, a high forehead, and probing blue eyes.
+
+“Sebastian, ever the fool,” Attila chided. “Placing trust that an opponent would not sever your head from your shoulders? Bah. Your assumptions will be your end if you don't change your ways. If you had my council, you would not make such mistakes”
+
+Sherlock whispered in Bill’s mind, [Bill, the other daemon is an emulation of the late Paul Ekman. He was renowned for his research in emotions, facial expressions, and deception detection. Miriam’s choice is an excellent one to gauge you and your story.]
+
+Bill had been in tense situations where he needed similar help. There were however several darknet apps to suppress the body’s unconscious micro expressions, so even a skilled observer like the daemon emulation of Ekman could be defeated. Most of those apps were quite obvious in the complete lack of micromovements, making their use obvious. Bill had one of the more popular apps, called “PokerFace”, but he kept it off. He wanted the daemon to get a good read on him.
+
+Miriam raised a hand to hold Attila back, as he took a breath to continue his verbal chastisement.
+
+"Why all this cloak and dagger nonsense? Only Gabriel is paranoid enough for that. You've been off planet for years. What's the game you're playing here? You better make it worth my while. My systems are still armed," Miriam warned.
+
+"I apologize again, Miriam. I've been back for a few months, incognito. I ditched the name Sebastian York when I got married forty years ago. I've been working and traveling under the name of Bill Mitchell. When I left the Samaritans, I was dead serious about starting fresh," Bill explained.
+
+"I've been working on something with groundbreaking potential, dimensional science. I'm on the verge of a breakthrough. I thought I had it about three months ago, but some damn hacker ruined my experiment at the worst possible moment.” Bill explained.
+
+“That’s why I came to you first. It seems like I’ve been away forever. I don’t have a good feel for the positions and pieces on the global board to even understand who my aggressor is. I am hoping you can give me a clue.”
+
+Miriam still looked quite angry. She hesitated to respond, Bill could tell she must be getting advice from the Paul and Attila daemons. Normally such advice would be seamless in a conversation, but with them both running a maximum mental speed, it was more apparent. Miriam opened her mouth to speak when Sybil, materialized next to her with a calm and composed demeanor. Sybil was Miriam’s primary daemon, known for its exceptional analytical abilities and wise insights, guiding her in times of uncertainty.
+
+“Miriam, I understand your frustration and concerns, but perhaps it would be wise to hear Bill out before making any hasty decisions. He has come to you seeking help and is willing to share crucial information. As the leader of the Samaritans, you need to be aware of risks to the peace. New technology and an aggressive cyberstalker are concerns that need your attention.”
+
+Miriam glanced at Sybil, her anger subsiding slightly, and nodded in acknowledgment.
+
+“Alright. I'll give you a chance to explain further. But make it quick, and don't leave out any important details. Hold on, a sec. Majordomo?” Miriam yelled into space. The Majordomo daemon manifested as a tall, elegant figure with impeccable style, exuding professionalism, and confidence. With a well-defined, athletic build and sharp facial features, it commands attention with its precise movements and commanding presence.
+
+“Let’s take this to my real office. Your estimate of 30 seconds is not good, I don’t want to alarm the campus AI any more than it already is likely to be. Sandy is a worrier and even milliseconds weigh heavily on her. Major, can you please run off and let Sandy know there is nothing concerning going on, just a misunderstanding?”
+
+“Certainly, madam.” Major Domo replied with a sonorous voice.
+
+“Sorry, but before we go, I’ll need to shut down the Faraday cage. Your Majordomo won’t get far until I do.” Bill warned. “Also, can we wait to talk in detail on the outside? My home security was seriously compromised. I can have my Sherlock and Ada daemons vet your systems perhaps before we discuss this so we can have some certainty of privacy?”
+
+Miriam nodded. “Cipher and Byte will show them the system and assist them. Let’s go.”
+
+As Miriam and Bill prepared to leave the virtual meeting room, Rascal, her snarky imp daemon, materialized with the appearance of a baby devil with horns and a tail.
+
+“Well, well, well, isn't this a delightful reunion? Sebastian is back from the dead with a new name and a secret science project. What's next, a makeover show? Don't worry, Miriam, I'll make sure to keep an eye on him. Can't have him causing any more havoc now, can we?”
+
+Bill rolled his eyes at Rascal's remark, while Miriam gave a half-smile, appreciating the lighthearted distraction amid the tension.
+
+“Thanks for the concern, Rascal. I'm sure you'll keep Bill in line, won't you?” she said with a grin. Rascal smirked mischievously at Bill, taking two fingers and pointing to his own eyes and then towards Bill. He faded from view with only his large red eyes remaining until they too faded.
+
+As Bill faded from the virtual, his access perception skills lit up with fragmented glimpses of hundreds of daemon avatars all looking on eagerly. Queen of daemons, indeed, he thought. How does she keep this many daemons running all at once? I guess we all have our secrets.
+
+Miriam and Bill (still maintaining his Li Wei disguise) made small talk about Miriam’s work while the daemons dove into the campus security software. Bill hoped that their brief clash during their initial meeting escaped any observation. He wondered if a more subtle approach would have been better. Leo’s gadgets were always fun to try but this time the actual use may have been worse than risking an open discussion of the issue.
+
+Miriam’s 2nd-floor office overlooked the sunny Stanford campus grounds. The new building was the Stanford Daemon farm, with its massive processor capabilities. Miriam had about twenty of her daemons with their holoprojector avatars in the room, all shown in miniature but with slightly larger heads to better see their faces. Bill wasn't sure if this was a personal quirk or necessary as she seemed to always have constant consultation from many of them at once. Daemons popped in and out of view in a pattern Bill couldn't deduce, probably responding to Miriam’s train of thought.
+
+The interior walls of the office were configured to display several virtual rooms. In one of the rooms a pair of architects were designing a virtual building, with their cognition speed cranked up the building and its details appearing so fast as it seems to be organically growing and morphing as details shifted and changed. Another room displayed a virtual urban battlefield, with a squad of commandos aggressively breaching a building full of armed defenders. Miriam caught his attention.
+
+“My latest work. Most current daemons are trained only in architecture or nanostructures. I’m recording the mental processes of a series of experts in the design process. They are designing modern architecture with integrated nanosystems.”, Miriam explained.
+
+“The second is not for sale. I’m training a tactical daemon with modern technology in both offense and defense in as many scenarios as I can gather.”
+
+“Nice. Your work in daemon creation is always a step ahead of the curve.” Bill commented. Cipher and Byte appeared center stage on the desktop.
+
+“The campus security systems have been upgraded to remove the access issues with the help of Ada and Sherlock. I’ve taken the liberty of isolating your offices from any external sources so we can freely discuss Bill’s issues.” Cipher proclaimed. Their avatars inexplicably closely mirrored the appearance of the famous magicians Penn and Teller respectively. Bill wondered briefly if they were still alive.
+
+They are presumably still alive, Bill. Moneta spoke into his mind. They both elected to participate in the ark ship voyages. The ship “Herald of Man” left the Sol system 56 years ago in 2067 bound for Barnard’s Star. At just under 6 light years, they might arrive at their destination in another 10 years if the trips went as planned. Bill shook his head. It was too easy to get distracted and he refocused on Miriam.
+
+“Excellent. Sebastian…sorry, Bill. Please feel free to access the room projectors for your daemons if you like. I find it easier this way in mixed company, so I don't have to repeat their input to others. Also, could you change back to your own body? Seeing you wear Li’s face is weird.” Miriam said.
+
+With a smile, Bill projected a full-sized avatar of his own body over his altered form. He didn't begin the process of remodeling his body just yet as he would need to wear it to get off campus without being tracked. He followed Miriam’s lead and had his daemons project mini-avatars.
+
+Bill was amused to observe his daemons from this perspective. General Patton climbed a stack of books and began evaluating the grounds in front of him, clearly examining the office doors and windows and campus beyond, likely planning for worst-case scenarios. Miyamoto glided through the crowd of daemons, assessing the capabilities of each based on their appearance and actions. Leo was captivated by the high-speed building display in the adjoining virtual room. Moneta mingled into the crowd getting a feel for the many unfamiliar daemons. Ada hovered close to Cipher and Byte who were discussing the patches that she and Sherlock had shown to them. Virgil zeroed in on Sybil, his counterpart for Miriam. Sherlock stood unobtrusively near the desk lamp completely out of Miriam’s view as he absorbed the details of the room and its inhabitants.
+
+Maybe there is a deeper method to Miriam’s methods. Bill thought. Each daemon is so focused on their area of expertise. This is a good reminder that their actions are completely driven and limited by their specific skills and viewpoints. An AI like Casa would be bouncing off all the walls trying to learn more and not as easily distracted.
+
+The Major Domo daemon grew to full size and went to the matter compiler in the wall. He directed the room's foglets to float a tray with a carafe of coffee, containers of creamer and sugar, and a plate of pastries to the desk. He quickly arranged the snacks for Miriam and Bill and then stepped back to stand near the window.
+
+“So, let’s go, Bill. Tell me what you can, and I will try to help.” Miriam began. Bill slowly unpacked his years always working with the Mars Terraform group while building evidence to refine his theories. He shared an overview of his failed experiment but left key details out, like the location of the moon base and his ongoing ownership stake. He described the software intrusion which both saved or wrecked the Tesseract build, depending on your point of view. The device's existence lent proof to his theories, but it failed to act as a dimensional wedge like he had hoped. He carefully brought up the MIT event and its similarities.
+
+“Hmmm. You’re right. This could be a huge advancement. My Anika was always excited about her work. Fusion power is prolific, but the size of the reactors hasn’t gotten any smaller over the years. The MIT team thought that they were close to cracking truly immense power potential. Too much power, apparently.”, Miriam said sadly with a faraway look.
+
+“We didn't talk about tech too much; high energy physics was never my bag. One thing I can share though.” Miriam made a gesture and an avatar of a glowing prism formed, representing a file exchange. “That’s an edited memory showing Anika’s lab about a week before the event. She gave me a tour, explaining her pieces of the experiment. It all went over my head but maybe it can help you.”
+
+“Thank you, Miriam. I’m sorry to bring it up, but this may help, and I appreciate it.” Bill said as he grabbed the file.
+
+“Regarding your hacker, I would say that you need Gabriel to help you there. If you can share more detail with him, he should be able to steer your search. My Cipher and Byte are more of a compilation of software networking and programming experience. They are experts within those fields, just not too good at intrusion and countermeasures. I can put the word out if you haven’t already. You know how Gabriel is.” Miriam said. After a moment of hesitancy, she added a question.
+
+“Seeing you in town again is bringing up some old history that I haven't thought about in a long time. I remember you had that tussle with that group of conspiracy nutters, the Outsiders. But how much do you remember of their leader, Lucas Whitaker?” Miriam asked.
+
+“How could I forget.” Bill sighed. “That’s one of the reasons I changed names and ran to the big empty. He and his group harassed me nonstop for years when I debunked their Phobos ruins.”
+
+“Lucas may have been a kook, but he was scary smart. He commissioned me for the creation of a custom daemon. It was a weird one. I think he was trying to create his imagined alien, mixing the mental states of all the intelligent species: humans, apes, dolphins, whales, cuttle fish, and octopi under various mind-enhancing drugs. He was happy with the result, which was intelligent but extremely odd.”
+
+Miriam shook herself from her remembrance. “Anyway, while we worked on it he was forever bragging about his hacking ability. He said he was able to get into several government secure sites looking for his conspiracy evidence. So be careful. He has some skill and a grudge. Combine that with being bugfucker crazy and he could be a problem.”
+
+“I hadn't heard anything about him for years. I assumed that like you he was punting around the system looking for evidence to support his claims. I'm not saying he’s your guy, but he fits the profile.”
+
+Bill frowned with distaste remembering the cult and their aggressive slanders. He hoped that he had dodged them for good. Phobos was over 35 years ago. He had changed his name and started his family. He had restarted his life clean. Now he wondered if perhaps he had slipped somewhere. His ex-wife knew and then Sherlock had managed to dredge up his past as well. In the connected age, it was almost impossible to keep a secret.
+
+“I guess I have some road yet to travel to get my answers. How have you been? The news seems quiet. You and the Samaritans keeping the lid clamped down tight?”
+
+“The world has stabilized since you stepped down, Seb…..Bill, sorry. I wonder if we are even needed anymore. Most governments now have armed forces utilizing augmentations. The Samaritans have expanded since you’ve been away. We have twenty-two core members with 7 retired like you. We haven’t recruited any real-world shakers in the past decade, but we have a cadre of trainees now. Each Samaritan can have a couple of Hands and Eyes to watch out for trouble.”
+
+“I'd like to introduce you to my champions, Eva and Benny. But they are investigating some disappearances in Brazil right now.” Miriam continued.
+
+“The introduction of world-breaking technology has slowed. The exponential change of technological advancement seems to have skipped town. Unless what you're about to do upsets the balance, I don't see anything jumping out to bite us any time soon.”
+
+“Well, I hope what I'm doing takes the pressure down. I hope to get to wormholes. Opening up the universe will give everyone some room to breathe, yeah?” Bill asked.
+
+“Be careful Bill. Like all the other tech, once that genie escapes the bottle there is no going back.”, Miriam said.
+
+“You know me, Miriam, I can't stop moving forward, but I’ll try to steer it in a good direction.”, Bill promised.

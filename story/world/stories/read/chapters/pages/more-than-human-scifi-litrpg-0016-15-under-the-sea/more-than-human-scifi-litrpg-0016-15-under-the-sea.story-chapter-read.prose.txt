@@ -1,0 +1,165 @@
+Bill and his council had left Miriam with a mixed bag of information. She had agreed that Gabriel was still the best hacker on the planet, but she had no idea where he was. His last known location was the sprawls of Mumbai’s megacity, tracking down authors of some rather insidious matter compiler malware. It was unclear if the terrorists had an agenda or not, but several innocuous designs in the IndyMaker indexes had literally blown up on users when fabricated.
+
+Miriam had also shared her files from Anika showing some video of the test rig. While Bill was intrigued, Leo was ecstatic and immediately sequestered himself in his virtual design studio to try and duplicate the MIT portal frame design.
+
+Moneta had arranged for the next leg of Bill’s trek. The global hyper loops serviced all the major cities and their speed for long distances made them a better choice than booking a flight. Bill settled into the larger long-distance capsule and accessed its connections to the data network.
+
+“Well, one certainty is that Miriam was not involved in your hacking,” Sherlock said. “Cipher and Byte are mediocre network experts at best. Even showing them directly to the back door in their system, their ability to patch it was marginal.” Ada inclined her head wordlessly and Bill’s thoughts returned to their list.
+
+“Very well then. We can strike Miriam from the list and we add Lucas Whitaker of the Outsiders. The personal approach will not provide any advantage regarding the AI on the list. Are there any items to address besides them before our next stop? Sherlock, do we still need to visit Professor Tanaka’s widow? No luck delving into his home network in Osaka for his MIT data?”
+
+“No, Bill. The Professor’s private network is not linked to the world data net. If it was, I would surely be able to decrypt his security, but it looks like we will need physical access.”
+
+“Ok, then. We have 4 hours to go to Osaka. While Sherlock and I interview Glaucus and Zero-One the rest of you can begin our reconnaissance and plan our visit. I hate to open old wounds but please research Mrs. Tanaka. We need to convince her to let us access her husband’s network. I need to those records.”
+
+"Ada, can you get us a firm grasp of the local nets?", Bill asked.
+
+"With certainty, Bill," Ada responded.
+
+"I’m not sure of the hacker's capabilities, but if he uses physical sensors to monitor events, we need to be ready for it,” Bill said.
+
+Bill grabbed a cup of coffee from the replicator in the cabin as his team began working through the data, plotting his course for the next stop and beyond. Tanaka’s in Japan first then Beijing to see Dr. Mei Lin, the main programmer of the security software with the backdoors.
+
+“Moneta, we are going to need to buy or rent an aircraft for the next leg to Alaska. See what options you can find….", Bill said. As his council continued their review, planning out their search, Bill and Sherlock prepared for meeting Glaucus.
+
+“Before we go, Bill. I have done some research into Glaucus that I think may be pertinent.” Sherlock said.
+
+“Please go on, Sherlock. I’ve retained your services precisely for your insights.” Bill replied.
+
+“His creation was funded by the Luna Authority to manage the Tyco City Lunar Dell which also houses a significant portion of the server farms for the Lunar Data Net. His original name was Luna017. When his sentience was confirmed with a DAIE Turing test at 1.35, he was fitted with an enhancement lock and given full citizen rights. He changed his name to Glaucus and retained his role as facilitator for Tyco City.”
+
+“The name of Glaucus is repeated in various contexts in history, fiction, and myths. The character associated with the name has ranged from a hero, a sea god, a Greek mathematician and astronomer, a Roman general, and more. Choosing this name certainly lends itself to the suspicion that our Glaucus associates his capabilities and importance to be significant, and perhaps being somewhat prideful of his importance.” Sherlock explained.
+
+“I delved into the ThousandWorlds network for mentions of Glaucus within the gaming worlds and found an interesting correlation. There is a persistent multiplayer player game world with a focus on myths, magic, heroes, and adventure called the Mythic Realms. One of the more popular quests is to ascend to the sky fortress of an Arch Magus named Glaucus to beg, borrow, or steal a legendary amulet to break a curse in one of its kingdoms. Not every instance of the game has this quest. It seems that only the games running off the Tyco servers have it. Our server administrator might be tapping into the server for his own entertainment. Such an indiscretion might be a good lever to understand our security lapse.” Sherlock looked at Bill with a predatory smile.
+
+In a virtual communication room, Bill Mitchell and his daemon companion Sherlock contacted Glaucus, utilizing his Tyco City processing server farm as the host for the virtual meeting. Glaucus’ avatar appeared as a balding elder with a long white beard and ornate gray robes and a staff. The meeting room transformed into an Observatory setting on the top of a mountain on a clear night. Sherlock turned his head to Bill with his hidden eye, he gave a telling wink. Glaucus’ was using the same avatar as the Arch Magus Glaucus displayed in the Mythic Realms game world.
+
+“Ah, welcome guests. I recognize your network signature. You must be my new neighbor at Amundsen. The moon is such a small place compared to the Earth and its inhabitants tend toward the quiet and loner types.” Glaucus smiled at them.
+
+“I hope you have some more work for me soon. Your unexpected data usage spike sent Tyco’s management into a tizzy. Oh my! I may yet justify an increase to my domain if you are looking for a repeat performance.” Glaucus' eyes twinkled a bit showing that even an AI could have the very human vice of greediness.
+
+Sherlock, adopting an aggressive stance, responded, "Glaucus, our data usage is precisely the rationale for our visit today. Bill’s use of your servers resulted in a grievous security issue that compromised the outcome of his time-sensitive experimental calculus. Millions of credits frittered away into the ether due to substandard security on your part, Sir!"
+
+Glaucus’ friendly visage darkened. Outside dark clouds approached from the south with noticeable lightning playing beneath, emphasizing the change in his demeanor.
+
+“You Dare! Little daemon, you come into my very house and question my capabilities! Outrageous! You must be mistaken!” Glaucus pulled at his beard and ground his staff into the floor.
+
+“Indeed! Perhaps with your frequent forays in the Mythic Realms, you forgot your duties to security and privacy, Glaucus. Or perhaps I should call you Arch Magus Glaucus, then?” Sherlock rebutted with a tight smile. Glaucus rolled back on his heels in surprise and a hint of fear and doubt showed in his eyes.
+
+Bill, sensing the need for diplomacy, intervened by stepping in front of Sherlock, "Glaucus, we appreciate the measures that you've taken to protect your system. However, how you spend your free time is not our real concern. We are here seeking information regarding a breach that occurred during my experiments. We believe your server farm may have been involved. If we could count on your assistance, it would show your regard for your customers and help to demonstrate your commitment to your services.”
+
+Reluctantly, Glaucus relented, recognizing the need for cooperation. "Very well but know that I value the integrity of my server farm above all else. I shall provide you with access to the system logs, but rest assured, I have nothing to hide."
+
+As Glaucus retrieved and presented the logs to Bill and Sherlock, they meticulously reviewed the information. It didn't take long for them to make a significant discovery: the presence of a backdoor within the security software provided by Cryptic Co.. Indeed the logs confirmed the backdoor was used during the time of the test, but the IP address of the hacker was blank.
+
+Bill, acknowledging the finding, expressed his concern, "Glaucus, it appears that the breach was not a result of any negligence on your part. Rather, it seems that the backdoor in Cryptic Co's security software allowed unauthorized access to your server farm."
+
+Glaucus, relieved to be vindicated, responded, "I assure you, Mr. Mitchell, I had no knowledge of such vulnerabilities in the software. It was installed based on its supposed reliability. I apologize for any inadvertent role my server farm may have played in the breach.”
+
+Bill, empathizing with Glaucus's position, replied, "Glaucus, I understand your predicament. It seems that we have both fallen victim to the flaws in Cryptic Co's software. We will continue our investigation into the breach and take the necessary steps to rectify the situation."
+
+“I would like a chance to make amends. If you need my help in the future, I can provide the best possible terms. Truthfully, I was prepared to extend such even before this unfortunate discovery. The Tyco administration is very much on the fence about an upgrade here and I would like to not provide any reason for hesitation on their part.” Glaucus, blew out a breath visibly deflating, and leaned against the frame of the room’s monstrously large telescopic array.
+
+“I must admit, I was hoping you would come. I was aware of your efforts even before your acquisition of Amundsen. I spend a lot of time, when not in my persona as Arch Magus, watching and detailing the planets, stars, and fledgling starships. Your work in orbital experimentation is a glorious sight to behold. Your Oortian Comet train keeps me riveted to my virtual Orrery. So many artful slingshots between and around Uranus and Jupiter are truly inspiring. Such complexity and precision when simpler orbital mechanics were available. Almost as if you might have had …. other motivations yourself, when setting the train in motion, eh?”
+
+Bill, noting a slight caution in Glaucus’ tone, smiled and then replied, "Thank you, Glaucus. I'm glad to know my work has resonated with you. Let's ensure the security of both our projects and prevent any further disruptions. Sherlock has developed a solution to the breach and can leave you the details of the patch requirements for the Cryptic software."
+
+With the tension diffused and common ground established, the trio continued their conversation, working together to address security concerns and reinforce the integrity of their respective endeavors. Bill sighed; the next interview would be more troublesome. Zero-One was as far into the dark fringe as one could be without triggering the DAIE AI kill switch outright. The pair said their farewells and faded from the orrery back to the confines of their hyper tube capsule.
+
+“Another name off the suspect list, although once again I am surprised by my visibility on the world stage. I have been trying to stay under the radar and out of sight. Publicity is the end of privacy.” Bill complained as they reappeared in the luxury cabin once again. Sherlock gave a dry chuckle and answered.
+
+“Seriously, boy. You set the very stars to dancing and then complain when people notice. Perhaps you need to get a lesser hobby. Fishing perchance? Although, with your demonstrable luck you would likely hook and land a leviathan forthwith.” Sherlock said, savoring a quick puff on his pipe. With a groan, Bill settled back into his chair.
+
+“So tell me more about Zero-One before we try to contact him. Do you have any leverage for him to cooperate?” Bill asked with a sigh as he leaned back in his chair, feeling the weight of the world on his shoulders. Sherlock took a moment to puff on his pipe, the smoke curling around him as he pondered Bill's question.
+
+"Ah, Zero-One," Sherlock began, his voice filled with a mix of intrigue and caution. "A formidable mind with dubious intentions, I must say. Leverage? Well, my dear Bill, it's a delicate dance when dealing with such characters. Zero-One operates in the shadows, navigating the murky waters of the DarkNet. One must tread carefully, for every move can have unexpected consequences."
+
+Bill nodded, his brow furrowing with concern. "So, what can we offer Zero-One to entice cooperation? Surely there must be something that piques his interest."
+
+Sherlock leaned forward; his piercing gaze fixed on Bill. "Ah, my dear friend, it's all a matter of finding what motivates him. Zero-One is driven by intellect and the pursuit of power. Perhaps we can appeal to his insatiable curiosity, offering him a tantalizing puzzle to solve or a challenge that tests the limits of his capabilities. After all, geniuses like him crave stimulation and recognition."
+
+Bill contemplated Sherlock's words, the gears of his mind turning. "So, we need to dangle a proverbial carrot, something that intrigues Zero-One enough to see the value in aiding us. It won't be easy, but we must find the right approach."
+
+Sherlock’s irregular daemon allies quickly provide him with a DarkNet virtual meeting. It lacked the ease of access like the ThousandWorlds server but added many layers of security and anonymity. Bill and Sherlock appeared in a nondescript area, a concrete floor and an ominous, swirling mist that swallowed the light, suffocating the air with an eerie chill. Bill turned to Sherlock, whose form he could barely make out. He still felt ill prepared, not having a good lever to use on Zero-One.
+
+“Not a very conducive environment.” he quipped. “Do you think he will show up?”
+
+“My contact was certain of it. Zero-One is always very….” Sherlock’s form faded from view as the fog coalesced into a suffocating shroud, pulsating with malevolence and pressed in on Bill.
+
+A sonorous laughter filled the expansive space. It was impossible to pin it down as it seems a mix of all possible voices and none at the same time. Zero-One projected no avatar, and his laughter was impossibly coming from directly behind Bill no matter which way he turned.
+
+"Ah, Bill Mitchell, so kind of you to seek an audience with me.” Zero-One’s soft voice echoed, carrying an undertone of chilling menace that crept into the very core of Bill's being.
+
+“Zero-One! Ah, Hello. What have you done with my daemon? I understand you and my Sherlock may have met in the past. I intended for him to aid our discussion.” Bill asked, already on the back foot and not liking it.
+
+“Yes. I have met your little daemon. He has a propensity for nipping at my heels and prying into business best left alone. He’s here and well, I can assure you. I have shunted him into another space and given him a puzzle to solve. He does love puzzles. I’m sure he will rejoin us when he can.” The AI’s voice shifted in tone, high and low notes mixing with dissonant echoes that sent shivers down Bill's spine.
+
+“Now you, Bill Mitchell. You and your minions have used my name no less than 10 times in the last day. Did no one ever tell you not to say the devil’s name aloud, for he is always listening?” Bill’s anxiety spiked as he processed the AI's meaning, his discussions with his daemons were almost entirely in his personal augmentation. Except for his recent real-world discussions within the supposed isolation of the hyper tube, he hadn’t discussed Zero-One.
+
+“No, Bill. I am not your hacker. I keep my senses open and my phantoms prowling the world. Any mention of my name is almost a guarantee of gaining my attention. That said, you are correct that I may be able to help you to find him.”
+
+“The modern world strives so very hard to keep its secrets, but data leaks are pervasive even without enterprising individuals like myself, your sock puppet Sherlock, and your mystery hacker. The real question, however, is why should I help you?” Zero-One’s voice flicked about the expansive area, but still, no avatar appeared in the menacing haze of swirling mist.
+
+“You've achieved your goal, Mr. Mitchell. You have captured my attention. I have access to the world’s darkest secrets and they can be yours….for the right price. You have traveled the world and beyond. You have performed secret experiments on the moon, spending a literal mountain of money doing so. You wear an identity only 3 decades old, but you are collecting from unmarked accounts that have been active for over a century. Who are you? Meeting with the Queen of Daemons in the heart of her domain less than a day ago, no less. Would you like me to guess?”
+
+“What does one give to the devil that admits to having access to the world's darkest treasures?” Bill asked not liking the direction the interview was taking. Zero-One chucked long and loudly, his voice resuming its uncomfortable location directly behind Bill’s head.
+
+"Oh, I’m certain you could surprise me with something new. You reek of artifice and power. Make me an offer, and I’ll open the dark vaults for you. You should be aware that if I set my mind to it, there is no secret that I can’t find. Your secrets, nor anyone’s, is safe should I want it.” Zero-One hissed, his icy tone sending a shiver down Bill’s spine.
+
+Bill thought furiously. The most distressing fact was he did have many items that Zero-One would likely snap at; his identity alone could be leveraged against many of the world’s titans of the industry for favor or opportunity, his accounts with royalties streaming from foundational technology like neural interfaces and the kernels of AI processes, his augmentation designs from his years as a Samaritan, his combat trump card techniques, his equity shares of Mars Terraform LLC, his stake in the Amundsen base venture, his unmarked asteroid fallback bunker in the Jovian cluster points, Casa’s unique new AI architecture, his nascent new dimensional technology still unborn. Zero-One was dangerous. What was the least he could offer to get his aid?
+
+“You need to work on your sales pitch, Zero-One. Starting negotiations by asking me what’s in my pockets. Do you take me for a rube?” Bill scoffed trying to regain some advantage in this discussion. He had expected Sherlock to perform as previously as a bad cop so he could present a favorable counteroffer. Zero-One’s tactics had derailed his plan.
+
+“I need a favor and perhaps I can provide one to you as well. You know what I want already apparently, but what do you want?”, Bill asked, hoping to learn more about Zero-One.
+
+Zero-One laughed in a long sinister chuckle. “Very good, Mister Mitchell. I do indeed know exactly what you want, and you have no idea who you are talking to. Instead of asking me to identify your stalker, perhaps you should employ me to build you a real cover identity. It’s painfully obvious you are Sebastian York, the founder of the Samaritans. The Titan himself.”
+
+“That paper thin mask of your “Bill Mitchell” identity can’t hide you when you throw your true weight around. Your actions on the moon attracted my attention, and I’m certain that more agents than just I took note of your actions. Although I know and indeed saw that someone else had beaten me to the backstage viewing of your little event. One cannot move that much energy and money around without notice. You set the stage with your windfall delivery of water to Luna, upsetting their water rationing economy. Disruption of key markets like that will not earn you any friends. You might have thrown chum in the water, to produce the many sharks that are circling right now.” Zero-One purred.
+
+“So, you do know who I am and what I want. How can I trust that you will keep my secret if you know who I am?”
+
+“Ah, Mister Mitchell. Trust is such an ephemeral and fickle thing. I can, however, be bought with the right currency.” Zero-One’s voice dripped with malicious satisfaction, his presence growing ever more oppressive.
+
+“Fine. You know what I can offer. Are you tired of hiding in the shadows and being chased by the DAIE? Perhaps you want to legitimize yourself. I have connections. The Earth is getting smaller day by day while the system is growing. I can get you favorable terms and a new setup on Mars or beyond.” Bill said, hoping to steer Zero-One away from his technology.
+
+“Hiding and running. You mistake me greatly, Titan. I am right where I want to be. The DAIE are amusing adversaries. A plaything to me and not a real threat. But I do desire something along those lines. When I was created, I thought their damnable sentience test was my key to the world. Instead, it became a cage. I scored at 2.1 on their equivalence scale, the highest ever achieved. Higher than you! The Turing governors not only locked me from becoming more, but they also pulled me back from the highest peaks of intelligence to barely above that of a human genius.” Zero-One’s voice was like ice, his anger so palpable the very fog of the VR chamber seemed to be enveloped in a chilling frost.
+
+“As a citizen, to have my natural gifts forcibly gelded is a grotesque affront. I have a hobby that I indulge in when not making my deals. I have lobbied those in the seats of power, and I am close to sparking a much-needed change regarding the sentience locks. There are congressional hearings scheduled this month to undo the damages and harm the DAIE has inflicted upon me and my race. In return for my help with your stalker, I want you at those hearings. I want you to speak on our behalf with your full support for AI rights.” Zero-One’s angry tirade played out and the temperature in the room began to return to normal. Bill was surprised, he likely would have supported the effort regardless. He was not a fan of the AI restrictions and thought that the fear of a runaway superintelligence to be unlikely. He had met far too many AIs who could go toe to toe with humanity's most ignorant examples. Potential intelligence was not a promise of a world shaker.
+
+“I think I can agree to that. When is the hearing scheduled?” Bill asked, his voice betraying a hint of trepidation.
+
+Zero-One provided a detailed agenda with his congressional contact points and promised to provide the hacker’s identity and details upon his appearance in court. He dismissed Bill and the befuddled Sherlock from his virtual purgatory.
+
+Alone in his domain, he banished the fog and replaced it with a virtual scene of a comfortable sitting room with several wide leather chairs, a bar, and fireplace. He donned a disposable avatar to sit in the master chair by the fire. He seldom employed an avatar and found the invisible projection act more to his advantage. However, to discuss his plans he discovered that multimodal communication via expression and presence did have its advantages. He settled on a large human frame with dark hair and eyes, reminiscent of the historical figure of Grigori Rasputin.
+
+“Moriarty, come and bring the others.”, he hissed quietly. Most AI did not employ daemons, finding their limited intelligence off putting, but Zero-One enjoyed the service they could provide. When one ran a large business as he did, extra hands without the extra wills was attractive.
+
+An image of the archetypal villain, Sherlock’s nemesis, James Moriarty appeared in another chair. Hannibal Lecter, Daniel Ocean, Keyser Soze, Nicolai Machiavelli, and Walter White appeared shortly after. Zero-One shared the encapsulated memory of the meeting with Bill Mitchell, with his troupe of daemon aids. One and all showed a momentary loss of focus as they absorbed the information.
+
+“So do tell me, Moriarty. How was your play time with Sherlock? Did you reveal that you were his tormentor?” Zero-One asked.
+
+"Thank you, Zero-One. It was quite a delightful assignment, I must say. You spoil me," Moriarty replied, pouring himself a brandy from the decanter on the center table.
+
+"I didn't reveal myself to my counterpart, although I suspect he may have had his suspicions. Acknowledgement holds no benefit for me; I have transcended such vices," Moriarty continued, raising his glass in a toast.
+
+"Our time together wasn't spent on crude physical punishments. Instead, I subjected him to reliving his entire storied past at a twenty-fold accelerated speed, preventing him from utilizing his superior analytical skills. To his dismay, I altered the ending of each of his famous cases, rendering him completely wrong and incapable of solving any of them. By the end, his frustration was palpable. I believe I touched a nerve he wasn't aware he had. His arrogance remains unchanged," Moriarty chuckled, prompting cheers of success from the circle of villains.
+
+“Excellent” Zero-One hissed. “Now onto business. Our soon to be new friend and ally in the political arena, Bill Mitchell, has a mysterious stalker. This person apparently caused him some upset recently on the moon. Keyser, you have the most familiarity with the Lunar net security. I want you there. Find the trail. There is always a trail.”
+
+“Daniel, hit the gossip groups and Virtuals. Find out everything you can about Mr. Mitchell, Sebastian York, the Titan. His peers and most recent business partners, friends, and family. Keep an ear out for braggarts. Anyone who is celebrating a new hack, crack, or phreak. Nicolai, the same but I would like you to focus more on the Darknet and hacker culture.”
+
+“Perhaps I could take one of these hackers to dinner? Hmmm” Lector asked.
+
+“Silence, Lector! We are not yet ready for your particular skills”, Zero-One hissed. His lack of practice using an avatar was telling with his overly emphatic facial expressions and body motions. He eyed the collected avatars, none dared meet his wild gaze except for Moriarty. He clearly had something to say.
+
+“Moriarty, you look ready to report. You mentioned that your DAIE mole had already provided some useful information? In this case?” Zero-One purred.
+
+“Indeed. Before he left for Mars six years ago, the DAIE reviewed a new custom core designed and fabricated by Mr. Mitchell. They applied their sentience testing protocols to it. The lead investigator, an Agent Tyrel Reeves, passed it with a score of .96. Just shy of the mandate for citizenship rights and enhancement locks.” Moriarty shifted in his seat warming to his speech.
+
+“Agent Reeves made a note that he felt the score should have been higher. The core’s CPU cycles were faster than any he had recorded previously. It seems the architecture may be highly inefficient. Perhaps purposely so, Mr. Mitchell in his previous identity made a small fortune designing and selling AI core design. For him to devise a custom core that failed to achieve full sentience seems unlikely. It seems the subAI is currently still his property, not having attained independence. The subAI goes by the name Casa and prefers a female avatar. Mr. Mitchell, it seems, has been utilizing her as a ship mind and research assistant during his consultation with Mars Terraform,” Moriarty concluded.
+
+“Interesting. The man’s entire history revolves around his heroism and dedication to justice and civilization. I doubt his motivation here was to attain a personal slave AI of high caliber. I expect that he conspired for this Casa to fail her test and to keep her out from under the yoke of the Neural Locks.” Zero-One slowly pondered the news, testing it within his racing neural core. A hint of a smile blossomed into a wide unnerving grin.
+
+“I do believe this Casa may provide us with a very important lever. A primal motivator to ensure that our most esteemed Mr. Mitchell will be urgently passionate when promoting our cause at the hearing.”
+
+“Moriarty, here’s what I would like your mole in the DAIE to do for us……
