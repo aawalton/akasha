@@ -1,0 +1,185 @@
+Maru draws back her spear.
+
+I have just enough time to gasp in a breath, then I smash the hilt of my blade into the smoke bomb on my bandolier. The glass shatters, and the potion explodes into the room.
+
+Literally. The blast is so intense it knocks me off my feet. I don’t even realize I’m flying through the air until my back strikes a wall and the air is knocked from my lungs. I fall to my hands and knees, gasping involuntarily.
+
+[Status Effect sustained: Poisoned.]
+
+[Status Effect sustained: Mana drain.]
+
+[Mana extinguished: 0/10]
+
+I fumble with my scarf, pulling it up around my mouth and nose from where it had fallen back to my neck. With one hand it’s hard to tighten it back up, so I hold it there, breathing through the fabric.
+
+I knew the Augment would strengthen the effects of my potion, but even I hadn’t expected it to strengthen the explosive force of the smoke. I’d also been planning on not breathing any of it in, but I guess it’s too late for that now. I take another breath through my scarf, the water potion transmuting the smoke into breathable air as I’d planned. I eye my health points, rapidly ticking away from my own poison. I’ll have to hope my Poison Resistance will prevent the one breath I did take in from being a lethal dose, before I have a chance to drink an antidote.
+
+And if it is lethal, I’ll just have to work fast.
+
+Maru is coughing somewhere nearby.
+
+I’ve been waiting for this moment ever since I hit her with that first smoke bomb a month ago. As soon as she’d started coughing, I’d known she had a weakness. Her skin might be as tough as metal, but even she needs air to breathe. Her insides are more vulnerable than the rest of her. And vulnerabilities can be exploited.
+
+I infused the smoke bomb both with orchid poison and my mana drain potion, and the Augment magnified their effects a thousand-fold. Given Maru’s only five times my level, that has to be enough.
+
+I hope it’s enough.
+
+Echo, Check, I think, eyes stinging as I blink against the smoke in Maru’s direction. Carefully keeping my scarf pressed to my mouth, I silently climb to my feet.
+
+There’s a pause, and for one gut-wrenching moment I fear the interface is still locked away from me. Then, Echo responds.
+
+[Name: Maru]
+
+[Debuff: Mana loss at a rate of 9/second]
+
+[Debuff: Health loss at a rate of 5/second]
+
+[Debuff: -8 Speed/second]
+
+[Debuff: -10 Dexterity/second]
+
+[Debuff: -6 Strength/second]
+
+[HP: 476/500]
+
+Even as I watch, her HP continues to quickly tick away. At this rate, it will take another two minutes to hit zero.
+
+It’s not enough.
+
+Sure, it will get there eventually if I wait, if she stays in the cloud and keeps breathing it in, but it’ll only take seconds for her to clear the smoke away, and less time than that to snap my neck. I only have one option left: move fast, and get more poison in her system.
+
+Using my Soft Step, I silently run in her direction, holding up my scarf with my injured hand as I raise my knife with the other. Blood squelches beneath my fingers as I squeeze it tighter. I can’t lose my grip on it now.
+
+I live or die by this moment.
+
+I jump for Maru, and my silence is broken as my foot splashes in a puddle of blood. A flash of metal cuts through the smoke. I stab my knife forward.
+
+Contact.
+
+Maru screams. My knife sticks in place as something strikes me in my side. I crash backward, skipping across the floor like a stone on water.
+
+[12 points of Piercing damage dealt.]
+
+[Debuff inflicted: Greater Poisoning effect]
+
+[18 points of bludgeoning damage sustained.]
+
+My ribs burn, which turns into a stab of pain when I gasp in a breath.
+
+A breath I shouldn’t have taken in. I watch my HP tick away as my vision blurs and my chest burns and my limbs become leaden with the poison.
+
+[HP: 8/90]
+
+[HP: 7/90]
+
+[HP: 6/90]
+
+I failed.
+
+I gave it everything I had, and it wasn’t enough. What should I have done differently?
+
+Gugora and Iski. I never should have left their inn. Never should have sought revenge. I should have just become a chef, like my Role wanted me to. Lived a quiet, simple life.
+
+[HP: 5/90]
+
+[HP: 4/90]
+
+Something thuds against the floor. Numb static crawls through my limbs. I feel… regret.
+
+[HP: 3/90]
+
+Warmth floods across my body. The pain vanishes beneath a blanket of bliss, like I’ve been wrapped in sunshine.
+
+[EXP threshold met,] Echo says. [Level Up! EXP threshold met. Level cap implemented. Select class evolution!]
+
+[Name: Sal]
+
+[Class: Rogue (pending evolution)]
+
+[Level: 20]
+
+[Attack: 41]
+
+[Agility: 27]
+
+[HP: 90/90]
+
+[Affinities: Poison]
+
+[Role: Chef]
+
+My debuff is gone. I’m healed—alive. But how?
+
+“Enough!”
+
+A gust of wind blows through the room, and the smoke vanishes. Widengra scowls about the scene, his gaze landing on me, crumpled against a wall, before shifting over to Maru. She’s lying on the ground, motionless. My dagger lodged in her eye.
+
+I Check her, unable to believe it.
+
+One word appears over her head: [Deceased.]
+
+The tattoos on Widengra’s skin peel away from him, becoming living lines of red, floating in the air like streamers. One of the lines jabs toward Maru, wrapping around the hilt of my knife in her eye. It yanks the weapon from her corpse, then levitates the knife back over to the god. He runs a finger along the blade.
+
+“Poison,” he spits, and the blood tattoos writhe with the word. “No, this isn’t right. Blades are made to draw blood. To paint the fields red. Where is the gore? The violence?” He’s almost mumbling to himself, the bloody tattoos twitching with each suggestion. “This poisoned dagger and your toxic smoke were enough to take my champion down? Pathetic.”
+
+The living blood tosses the blade to the ground in disgust, which spins across the wood and out of reach. Crossing the room in two quick strides, he crouches down before me. The lines of blood grab my jaw like skeletal hands, wrenching my head up to look at him. I try to jerk away, but my face might as well be in a vice.
+
+“You were one of the candidates she chose? She was foolish then. Poison is weak. Underhanded. To be killed by you, when you were supposed to be killed by her—disgusting. She deserves her fate.”
+
+The grip of his blood tightens, and pressure squeezes through my head. I whimper, unable to speak or fight back.
+
+“Do you realize what you’ve done, Aberration?” the god hisses. “How you threaten the peace?”
+
+He curls his lip in revulsion, then releases me, shoving me back. Something cracks as my head strikes the wall, and I’m not sure if it’s my skull or the wood.
+
+[17 points of Bludgeoning damage sustained.]
+
+He growls, pacing over to the edge of the spectator box, and looks down over the field. “At least there are a handful of candidates, still.”
+
+I struggle to pull myself upright, pain lancing up my arm as I put weight on my injured hand—the fingers of which didn’t grow back with the level up. Maybe I can still crawl away. Maybe I have time to take that class evolution. Maybe it will save me.
+
+But at least Maru’s dead. At least I killed her. At least I avenged Terimus and Rena and Layf.
+
+I try to embrace that knowledge, that victory, but it feels like trying to wring warmth from a shadow. My victory sits hollow and empty in my chest.
+
+Widengra lets out an angry, hissing sigh. “I suppose I should finish your extermination first.”
+
+A glass bottle drops from the ceiling, shattering against the floor to Widengra’s side. He spins toward the noise, and I look too. What—
+
+Something grabs the back of my shirt and pulls me down. I fall backward, but instead of striking the floor, I continue to fall. Like the ground has vanished. Darkness closes over my vision and vertigo spins through me. I flail against nothingness, against a horrific impression of falling through a void—
+
+And then crash back into sensation. My back slams into the ground, stirring a layer of dust, as every one of my senses briefly fritzes out from my abrupt change in surroundings. The smell of blood is gone, replaced with a familiar scent of dust and dried sweat. The roar of the crowd still rings in my ears, only now it’s distant, somewhere muted and above me. Overhead are the beams of a ceiling. One I think I’ve seen before, even if I don’t immediately recognize it.
+
+Laughter peels through the room. Young. Feminine.
+
+“I can’t believe it,” Lisari manages to say between gasps and cackles. “You did it. You actually did it!”
+
+I roll onto my side, and my surroundings slowly slide into clarity, like a kaleidoscope slotting into focus. I’m in the storage room beneath the stadium, the one Talia and Lisari had been working in.
+
+Talia. An image of her body flashes through my mind, her eyes staring up at me, unseeing. My heart squeezes. But I don’t have time to dwell on her.
+
+“Lisari?” I ask, wincing as I push myself up. “What’s happening? How did we get here?”
+
+The girl is bent over laughing, and the sound sends chills up my spine. “I have to say, I was beginning to think I was wasting my time. I’ve never seen someone so set on trying to get themself killed. But what’s the harm, I figured. Perhaps it’ll pay off. And my, has it!”
+
+She removes her glasses to wipe a tear from her eye, and I freeze. I’m not sure what I’d thought her eyes would look like, but I hadn’t been expecting two pits of darkness. They’re not hollow, as if her eyes are merely missing. These are truly voids: an infinite, lightless abyss.
+
+She pauses as she notices my look. “I did say they tend to bother people.” With a shrug, she casually tosses the glasses away, and they shatter as they strike the floor. “But I’d expected you to be a bit more open minded. We’re friends, aren’t we, Sal?”
+
+There’s an odd distortion in her tone, like two voices are speaking at once.
+
+I Check Lisari.
+
+[—]
+
+There’s a moment where I can nearly feel Echo’s reply before she stops, as if the signal is cut off.
+
+I take a nervous step back. “Who are you?” I run my hand over my bandolier, but every slot is left empty or shattered. “What are you?”
+
+Lisari snaps a finger and points at me. “See, you catch on quick. That’s what I’ve come to like about you.” The distortion in her voice is growing worse, but it’s not the only thing that’s changing. There’s a black mist that’s leaking from her eyes and wisping about her form. Her clothes are slowly shifting into something ornate. She’s taller. Only her hair remains unchanged, long and black. And her eyes: Those unnatural voids continue to bore through me.
+
+“Maybe you’ve just made it this far on luck,” Lisari says, now with a deep rich voice. “Maybe it’s something to do with your Aberrant nature.”
+
+She—he?—has taken on the form of a man. His skin appears to faintly glow in the dim light of the study. It’s a form I now recognize. One of the gods in the history books Lisari had shown me.
+
+“Maybe this endeavor is doomed to end in tragedy.” Shirasil smiles. “But I do love a good gamble.”

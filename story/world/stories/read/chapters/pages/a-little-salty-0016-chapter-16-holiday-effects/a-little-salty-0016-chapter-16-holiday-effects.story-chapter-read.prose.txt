@@ -1,0 +1,173 @@
+Gugora crushes me in a hug before I’ve even finished setting foot back in the Starlight Inn.
+
+“You’re alright?” he asks. “You’re not hurt?”
+
+“Well, I think my ribs are about to crack,” I gasp.
+
+He lets go, and I rub my arm; pretty sure there will be bruises there later.
+
+“I shouldn’t have let those thugs take you,” he says, worry in his eyes.
+
+Behind him, in the inn, I can make out Iski serving lunch to a handful of customers. She squints toward the open door, then her eyebrows shoot up in surprise. “Sal!”
+
+I wave around Gugora’s side. “It’s fine,” I assure them. “They didn’t hurt me, and I didn’t even have to spend the night in one of their cells.”
+
+He frowns. “Where did you sleep, then?”
+
+“Can I at least come inside first?” I tease. “I’ve been walking all morning.”
+
+Gugora abashedly ushers me in, and soon I’ve got a bowl of steaming stew and a hunk of crusty bread. Over a familiar, warm lunch, I recap everything I went through.
+
+Well, not everything. I don’t tell them about Cyros. Or the book I stole. Or the Gods’ Tournament. Just, you know, the pertinent details.
+
+“So you’ll have to go back?” Iski asks.
+
+“Probably,” I say. “I promised Talia I would help, even though I told her everything I know already. And it’s likely those guard bullies will be back here to ask you guys more questions, too.”
+
+“We can handle them,” Gugora says with a rumble that almost sounds like a growl.
+
+Iski nods in agreement. “Next time they show, just make yourself scarce. They might have decided you’re innocent for now, but there’s no sense in reminding them of you if we can help it.”
+
+“Sounds great to me,” I say. Besides, I need to be focusing on my poison magic anyway. “Well, I guess that’s the end of that. Need help in the kitchen?”
+
+Gugora looks at me, surprised. “You hate working in the kitchen.”
+
+Iski narrows her eyes. “You sure you aren’t sick?”
+
+“I’d just rather be busy after all this,” I say, fully aware of how flimsy my lie is. “And after walking most of yesterday and today, it sure would be great to do something that doesn’t involve standing.”
+
+That seems to be convincing enough. Iski shrugs. “If that’s what you want, she’s all yours, then. The stew needs tending. There’s some greens out on the counter that need to be prepped for tonight.”
+
+I hop up. “Got it. Well, I’ll see you guys later, then!”
+
+Gugora and Iski exchange a perplexed look, but I truly am excited to get back into the kitchen for once. The whole walk back from Fairwood I spent reading through Talia’s book on herbs, memorizing as much as I could. I’m pretty sure I recognized a bunch of names from the storeroom. Now it’s time to make a complete catalog.
+
+Okay, Echo, I say. Remember all those potion recipes I read through before? Help me identify any relevant plants in here. Ready?
+
+[Affirmative,] Echo says.
+
+I rub my hands together. “Alright. Let’s go.”
+
+I spend the next hour going through every jar, every shelf, every crate I can get my hands on. I only pause to go stir the stew, which I could smell I’d very nearly burned in my negligence. The vegetables are also still sitting there, waiting to be chopped, but they can wait another hour longer. It’s hard to remember to cook when there’s potions to make. (Well, it’s hard when Echo’s not hammering my Role Requirements home.)
+
+By the time I’m done, I have a list of 43 ingredients to various potions, out of a list of, apparently, 235 unique ingredients mentioned throughout the book. Not a great start, but not bad either. I bet I can find another couple dozen in the forest if I go foraging for them. And maybe, back in Fairwood, I could find some more to buy or trade for.
+
+But I’m too impatient to wait on ingredients I don’t have yet.
+
+Echo, given the ingredients in here, are there any potions I could make?
+
+[Affirmative,] Echo says. [Two potions have all required components to produce: General Poultice, and Smoking Cauldron.]
+
+I have Echo display both sets of instructions over my vision, then quickly scan the recipes.
+
+The General Poultice sounds only vaguely useful. Seems like it makes a sludgy mixture that you can slap on an injury to help heal wounds, infections, and various toxins. However, it’s less potent than my passive healing. I look at the Smoking Cauldron recipe next.
+
+This one’s more promising. It seems to rapidly produce a huge quantity of smoke—for “holiday effects” according to the instructions. But it sounds like the perfect recipe for a smoke bomb to me.
+
+I decide to give that one a shot first and flip open the book to go through the full set of instructions. Echo compiles a list of “Spell Requirements” I’ll need to fulfill as I do so.
+
+[Ingredients:
+
+1 small cauldron of boiling water
+
+2 strands of wormroot
+
+3 rasptoad warts
+
+5 pinches of sage
+
+Life arcana]
+
+[Instructions: Add wormroot and sage to the cauldron, mixing until dissolved. Add warts once color is a faint yellow. Infuse with magic to activate ingredients.]
+
+Pretty sparse instructions. Which should make it easy, except I don’t know how to do the final step.
+
+Infuse with magic? I ask Echo. How do I do that?
+
+[Mana cost: 30] Echo says.
+
+Not exactly what I asked, but that presents another problem. How much mana do I have?
+
+[Mana: 10/10]
+
+Crap, that’s what I thought. Well, I guess I’ll just have to reduce the rest of the ingredients accordingly. Fill up the cauldron a third the way, only use one rasptoad wart, and, uh… one or two pinches of sage? One and a half should be fine. And I guess one strand of wormroot? That should probably be close enough. It’s not like ‘a small cauldron’ is very exact anyway.
+
+I add a second pot to the fireplace, shifting the stew over a bit to make room, then fill the pot and grab the other ingredients as I wait for it to start boiling.
+
+I still don’t know how to add my magic, I tell Echo. I’d go ask Iski or Gugora, but they’d surely be suspicious. And anyway, it can’t be that hard, right? The book just says “infuse with magic” like anyone can do it. I rub my fingers together, squinting at them like just staring long enough would make them light up purple or blue.
+
+[As the magic is an ingredient rather than a spell cost, the user will need to summon the appropriate amount of Life arcana to physically add to the potion. Given the user’s affinity for Poison magic, a volume of elemental Poison magic can be summoned at the user’s will.]
+
+You mean I could have just been summoning magic all this time? I ask.
+
+[Affirmative,] Echo says. [However, without Attuning the substance—or immediately infusing it into a spell or potion—the raw magic would rapidly disperse.]
+
+So magic is kind of like… electricity? I say, thinking through this. You have to plug a computer or something into the outlet, or it’ll just be useless sparks?
+
+[Comparison unrecognized,] Echo says.
+
+It’d make sense if you were from Earth.
+
+Echo is probably too confused to respond.
+
+Can I try it now? I wonder, cupping my hands in front of me. Wait. How long would it take to recover the 10 mana if I used it all up?
+
+[The user recovers mana at a rate of 1 per 10 minutes.]
+
+“Ugh, that’s so looooong,” I groan. I guess I’ll just have to wait until I’m going to finish the potion.
+
+Speaking of which. The water’s finally come to a boil, so I add the first two ingredients as directed and start stirring. Eventually, the water begins to yellow. Once the discoloration hits the right shade, I excitedly add the last ingredients.
+
+“Okay,” I whisper to myself, almost shaking from excitement. “All that’s left is the magic.”
+
+I’m really about to do this. My first bit of magic. Like a real witch or something!
+
+Cupping my hands over the pot—well, a couple feet over the pot to avoid the steam—I start focusing hard on my magic. Poison, I think, willing it into existence. Picturing it pooling into my hands. Magic. Come on, work. Please work.
+
+And it does.
+
+Green light spills from my fingertips, flooding my hands with liquid light. I don’t feel anything—there’s no weight, no real liquid, yet the glowing emerald light ripples in my palms like I’d caught a handful of sunshine.
+
+I marvel at the sight. That’s my magic. I did that. I’m magical!
+
+[Mana extinguished,] Echo abruptly says. [0/10]
+
+Afraid it will disperse like Echo warned, I part my hands, spilling the arcana into the potion. The pot immediately lights up like I’d dropped a flashlight into it. Now what? Do I need to stir it? The instructions just said the magic needed to be “infused.”
+
+Echo? I ask. What do I…
+
+I don’t need to finish that thought, though, because smoke starts wisping across the top of the cauldron the next instant.
+
+“Yes!” I say, leaning in. It worked! I can feel my heart swelling with pride. I found a potion, followed the instructions (mostly), did what it said, and it worked!
+
+Green smoke swirls across the top of the pot, quickly obscuring the water underneath. Green is a little weird for a smoke color. I thought it would be black. I guess I had no reason to assume that, but I’d been hoping for a smoke bomb sort of use for this, and black seems like more of a ninja-y color. I can work with green, though. It’s a start.
+
+The pot fills with smoke until it reaches the brim, then whisps begin to pour over, drifting silently into the fire.
+
+“Um.” Hmmm. I probably need it to stop now.
+
+Echo? How do I turn it off?
+
+[If the magic is removed from the spell, the potion will become inactive,] Echo says. [Otherwise, the reaction will last until the added mana is extinguished.]
+
+And how can I remove the magic? I ask.
+
+[As the magic was not Attuned, it cannot readily be unmixed from the solution,] Echo says.
+
+Uh-huh, uh-huh. And how long will the reaction last before the magic is all used up?
+
+[15 minutes.]
+
+I chew my lip, watching as the smoke continues to drift out of the pot and onto the floor in front of the fireplace. Not great. I mean, maybe I can stick some rags under the door to the tavern and keep it from drifting out into where all the customers are. I can probably just open a window and let it all air out, right? Fifteen minutes isn’t that long.
+
+The green smoke starts spreading across the floor. Dang, this stuff is persistent! Good for my ninja smoke bomb idea, but maybe I didn’t completely think this whole thing through. Does it leave a residue? Will it ruin the food? I don’t think I can afford to wait the fifteen minutes for it to run out.
+
+I jog over to the window and throw open the shutter, glancing around. This side of the tavern is only trees. Good. No one to witness my embarrassment. I should be able to dump the potion outside and Gugora and Iski will be none the wiser.
+
+But wasting my first ever batch of smoke juice pains me, so first I snatch up a couple of glass bottles and corks from Iski’s stores. Carefully, I ladle a few spoons of my potion into the bottles, wincing as the boiling liquid quickly heats the glass and starts to burn my fingers. I lurch over to the counter, setting the potions down and stopping them up. There! Some saved for posterity’s sake. Wiping my hands on my shirt, I hurry back to the fireplace.
+
+Using two leather pot holders to seize my beautiful, perfect potion, I quickly lift it from the hearth. Unfortunately, in my haste, my right hand slips.
+
+The pot’s weight falls entirely on my left, then gravity tears it from my grasp. The bubbling, smoking pot of water crashes to the ground.
+
+I don’t even have time to finish thinking, “Iski’s going to kill me,” before the room explodes in an impenetrable cloud of green.

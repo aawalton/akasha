@@ -1,0 +1,171 @@
+I hold in a groan as I chop up a board of carrots, wondering if there’s anything more mind-numbingly boring in the whole world than food prep. If it weren’t for the fact that I still need to do this every day in order to meet the Role Requirement, I’d have already shirked the chore through malicious compliance and used mushroom-hunting as an excuse to sneak off to practice my knife-throwing skills and find more ingredients for my potions.
+
+But instead, here I am. Chopping vegetables when I could be training to be a ninja.
+
+[Daily Role Requirement met.]
+
+I stand back and stretch my arms above my head. There’s tomatoes, mushrooms, and a pile of blue root-like vegetables called nereid fingers left to dice, but I think I’m due a break. I flip the knife around in my grip, then add it into my inventory.
+
+[Kitchen Knife added to inventory.]
+
+I take it back out again, mentally rotating the position so it appears back in my grasp in the reverse orientation: and it works.
+
+[Kitchen Knife removed from inventory.]
+
+These inventory rules are so strange. And so far, no matter how much I’ve used it, it hasn’t leveled up or gained any more slots. Why just one?! So unfair.
+
+It was interesting, though. When Cyros had confronted me, I’d tried to pull just my knife out of my inventory, but the sheath had come, too. For that matter, when I’d tried to only put the sheath in my inventory to hide it from Enrold, both the sheath and the knife had vanished together. Like they’re a package deal. Setting the kitchen knife aside, I grab my hunting knife next, adding it, sheath-and-all, to my inventory.
+
+[Sheathed Knife added to inventory.]
+
+Testing my previous theory, I try to remove just the knife, leaving the sheath in my inventory, but both reappear.
+
+[Sheathed Knife removed from inventory.]
+
+So it is all or nothing. But does this rule just apply to my knife, or is the same true for other things? I grab a jar of seasoning, full of thousands of dried, ground up flecks of herbs.
+
+[Jar of Winter Spice added to inventory.]
+
+Hah! It worked. I take it back out.
+
+[Jar of Winter Spice removed from inventory.]
+
+“That play by play is getting really annoying,” I mutter to Echo. But if tons of things can count as one thing by Inventory rules, then what’s the limit? I uncap the jar and stick my finger in the herbs. Echo, add these spices to my inventory, I think.
+
+[1 grain of Winter Spice added to inventory.]
+
+One?! But I just put a thousand grains of spice in there just a moment ago. What’s different? Does it have to be contained for it to count? Well, that’s certainly interesting.
+
+I grab a potato sack next, and put a bunch of jars into the bag. Then I try to add the entire sack of potions to my inventory.
+
+[Sack added to inventory,] Echo reports.
+
+And only the sack. A dozen jars drop to the floor the moment the sack vanishes, several of them popping open and spilling their contents out onto the floor.
+
+“Oh, crap!” I scramble to pick everything up. “What the hell, Echo?!”
+
+She doesn’t acknowledge my exclamation with a reply.
+
+How come a jar of herbs worked, but a sack of jars didn’t? Was it because the jar was sealed, while the sack was just held shut? Or is it something else? Size? How secure the contents are? I’ll need to do more experiments to—
+
+“Sal, what in the heavens happened to my herbs?” Iski demands.
+
+I jump, midway through trying to sweep a handful of spices back into a jar. “Um. Scientific curiosity?”
+
+The goblin snorts, then lets the back door swing shut behind her as she drags a basket of herbs and vegetables into the room. “Why am I not surprised.”
+
+I quickly set the salvageable jars of spices back on the counter, and sweep the rest into a hopeless pile to deal with later. Hurrying over to Iski, I grab the basket she’s struggling with and hoist it off the ground to waddle over to the crates where other dried food is magically preserved.
+
+“Thanks,” Iski grunts. “So have you spent all your time wasting my spices, or are we actually going to have dinner to feed to the patrons tonight?”
+
+I nod to the cutting board. “Finished the carrots. Was about to start on the others before I, er, got distracted.”
+
+Iski hops on a box to check the veggies. She purses her lips, looks back to me, and gives a curt nod. “Good start. Maybe we’ll make a cook out of you, yet.”
+
+“Ugh,” I groan. “Cooks.”
+
+Iski hops down from the crate to check the fire. After testing the temperature of the cauldron, she snaps her fingers and a small, orange will-o’-the-wisp appears in a flash of light. She points to the fireplace, and the creature zips down to the flames like an obedient dog, nestling into the coals. The fire flares a little higher.
+
+“You know, you don’t have to work the kitchen,” Iski says. “We’ve got plenty to do around the Inn that doesn’t involve meal prep.”
+
+“No!” I object. Doing the laundry and scrubbing the grimy floor boards on a nightly basis would be even worse than stirring the stew pot. Besides, I still need this job for my daily Role Requirement. “No, I want to keep working here.”
+
+Iski shakes her head as I return to the cutting board, starting in on the tomatoes next. “You’re the only person I know who desperately begs to do a job they spend all day complaining about.”
+
+“Cooking and I have a complicated relationship,” I say.
+
+Iski chuckles. “Clearly.” She climbs up to the counter between me and the cauldron and begins to sort through the seasonings, adding a few here and there to the brewing stew. After a minute, she pauses. “Here. Your hand’s too far back on the handle. Move your thumb over here, on the side of the blade.” She repositions my hand. “Try cutting like that. It’s safer; you have more control.”
+
+“Feels awkward,” I say as I try a couple more slices. “I thought the point of the handle was so you don’t have to touch the blade."
+
+Iski shrugs. “Give it a try and see if it helps.”
+
+I shrug and continue to cut up the veggies. After a few minutes of quiet work, Echo abruptly chimes in.
+
+[Knifework skill level up! Level 5: cut with more precision. +10% to speed when using a knife to cut or dice food products.]
+
+“Oh hey!” I say. “That worked pretty well, actually. What other tips have you got for me?”
+
+Iski raises a surprised eyebrow. “You want my advice?”
+
+I shrug, embarrassedly glancing away. “I mean, you don’t have to.”
+
+She chuckles, her perpetual frown softening the smallest amount. “I don’t mind. What do you want to know about?”
+
+I pause, considering. I’ve unlocked a couple level 1 cooking-related skills that I’ve found double-dip with my potion-making. Stuff like Boiling Intuition, proficiency with a Mortar and Pestle, and gaining a Discerning Palette (when the draught I’m making isn’t deadly to take a sip of). Working on those skills will help me get better with potions and will also help me level up overall.
+
+“How about tending to the fire?” I suggest. “How do you know when it’s too hot or too cold?” They don’t seem to have thermometers here.
+
+“Oh, well that’s easy,” Iski says, gesturing me over to the fireplace. “I’ve got an enchantment on this cauldron. See the runes here around the lip? How far around the rim they’re lit indicates how hot or cold the contents are.”
+
+“Oh,” I say. “I’d always figured those were for keeping the food fresh or something.”
+
+“There’s enchantments for that, too,” Iski says, “but those are too rich for my blood. If you don’t have a temperature enchantment, though, there’s other ways you can tell…”
+
+She starts doling out more tips and tricks than I was prepared for. Check the size of the bubbles. Look to the edge of the pot first. The color and sheen of the cauldron will change subtly, depending on the material. Keeping track of timing and the size of the fire can point you in the right direction, too.
+
+“Speaking of fire,” I say, “how can I get one of those will-o’-the-wisps of my own?”
+
+“Can you do summoning magic?” Iski asks.
+
+“Um, I’m not sure,” I admit. “No?”
+
+“Well ask me again when you can,” she says.
+
+The kitchen warms pleasantly and begins to fill with a mouth-watering aroma as I continue to prep the stew and Iski starts in on a massive bowl of bread dough. Her arms plunge shoulder-deep into the dough as she kneads it, and I’m a little scared she’ll fall in, never to be seen again.
+
+Gugora arrives when Iski’s showing me how to place the buns on the hearth and when to rotate them to keep them from burning.
+
+“Nice to see you two getting along,” he rumbles, ducking through the doorframe.
+
+“We get along,” I object.
+
+“Yeah,” Iski agrees. “I mean, sometimes she’s fairly tolerable.”
+
+I turn to her, offended.
+
+Gugora chuckles. “Coming from her, that’s a compliment.” He slings a couple of dead jackelopes from over his shoulder onto the counter.
+
+“Shouldn’t those go in the butcher shed?” I ask. I’ve never seen him take dead animals directly into the inn before. He usually retrieves meat from the butcher shed as needed.
+
+“Checked the traps on the way back from hunting,” Gugora says. “Figured some fresh meat in the stew tonight wouldn’t hurt. You want to help clean them?”
+
+My stomach does a nervous tap dance. “By clean, you don’t mean scrub them with soap and water, do you?”
+
+“If you’re working in the kitchen, you’ll have to learn how to prep meat at some point.”
+
+He’s right, even though it’s sending nervous tingles all through my fingers and toes. I’ve never cut up raw meat before, let alone skinned the animal and yanked out all its organs, first. The idea fills me with disgust.
+
+But if I’m going to kill a demigod, I’m going to have to get used to the idea of death sooner or later. Swallowing down my jitters, I follow Gugora over to the tabletop where he’s laying out the animals.
+
+“I’ll work on this one,” he says, gesturing to the jackalope before him, “while you repeat what I do on that one. Let me know if you don’t follow anything. Alright?”
+
+I grimace, but take up my place beside him. “Alright.”
+
+“Good.” He selects two curved blades from the knife block, and hands one to me. “First thing you do is make a cut from here to here. Shallow, so you don’t damage the intestines…”
+
+My face is scrunched up in disgust as I repeat every step, following each of Gugora’s slow and measured instructions. Once the skin is off, though, it becomes a lot easier. It doesn’t look so much like an animal anymore. And when it comes to taking the meat from the bone, that isn’t so bad at all. By the end, I no longer feel sick and nervous—in fact, I think I could do it again!
+
+[Skill obtained,] Echo says. [Butchery, Level 1.]
+
+“Well that wasn’t so bad,” I say, allowing my taut shoulders to relax. Not to mention, I got a new skill out of it! A cooking skill, but there’s no surprise there.
+
+“You did well,” Gugora says. “Especially for your first time. You might be a natural.”
+
+I beam as his praise fills me with a comforting warmth. “What should we do with the meat now? Throw it in the pot?”
+
+“No!” Iski cries. “Don’t be boorish! Come here, I’ll show you how to braise it with some of the leftover bacon fat from breakfast.”
+
+I didn’t think it was possible for the room to smell even better, but as soon as the jackalope meat hits the grease, the room becomes dense with the rich, salty smell of popping fat. Gugora leans over and watches as Iski shows me how to brown the meat before adding it to the stew. I follow her instructions, flinching at each spark of fat that flies off and burns my skin, but the specks are so small and inconsequential, they heal almost instantly. And weirdly, I’m kind of having fun.
+
+This isn’t ninja training. This isn’t time spent funneling mana into potions, or learning new recipes. But spending time with Gugora and Iski brings me a kind of relaxed peace I haven’t felt since… Well, I guess I can’t think of the last time I felt this way. Even before I came to this world, it had been years and years since I was able to help my mom and dad with anything so simple.
+
+The reminder sends a sting of pain through my heart. I’ve been trying not to think about them too much. I probably will never see them again, anyway. But it sure would be nice to let them know I’m alright, at least. To give them peace, like the kind I have now living with Iski and Gugora.
+
+I shake my head. No. This is just the illusion of peace. A reprieve from my true mission. As much as this simple life fills me with comfort and happiness, it’s still a distraction from what I really need to do.
+
+Layf. Rena. Terimus. I won’t let their deaths be in vain. I’ll avenge them. I’ll get them the justice they deserve.
+
+I tighten my grip on the pan as I tip it to the side and scrape all the sizzling rabbit meat into the boiling broth.
+
+Maybe one day I can return to this life. But first, Maru must pay.

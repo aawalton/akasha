@@ -1,0 +1,131 @@
+[18 Days until the Gods’ Tournament]
+
+[11 Days until Blackcloak membership is due]
+
+[Frost Seed: A condensed pellet of mana infused with freezing properties. Once activated, the tablet has various effects: if swallowed, it will inflict a slowing de-buff onto the consumer. If cast upon a surface, it will create a creeping spread of ice that grows at a rate of ten inches per second until the seed mana expires. Affinity Requirements: any subfields of Life or Water arcana.]
+
+There’s more that goes into the spell: various ingredients, an alchemic circle, and of course magic. I doubt my 10 mana will go very far, but it will at least be a good practice spell to start with. I mean, not just because it happens to be the only alchemy spell I have all the ingredients for, but I’m sure I can find some use for it. Probably.
+
+First, I bring the water to a boil, adding in redwood bark, brownskull mushroom caps, and rootwarts. As that steeps, I head back to the middle of the room, where I’d begun to sketch out a spell circle. I have the alchemy book opened next to it, which I use to double check the lines and runes I currently have sketched out. I have absolutely no idea what any of the runes mean—the book does have a whole section dedicated to the meaning and use of each one, but I don’t have time to screw around with learning a whole new alphabet. I’m not about to design my own spell circle here—I just need to learn what I can use as fast as I can.
+
+Satisfied the circles are correct, I go over it with some charcoal, which Gugora assured me would work in place of chalk until I next have time to go into the city, then set a copper bowl (okay, a copper measuring cup) at its center. I use Echo to keep track of the time for me, and after ten minutes are up, I go back over to the cauldron and ladle out some of the brew. Belatedly realizing I should have made the circle way closer to the fireplace, I slowly waddle my way across the room, carefully not to spill any of the potion, and then spoon the liquid into the bowl at the center of the circle. I repeat the process three times until it’s full.
+
+“Okay,” I say, sitting down at the side of the circle. “Let’s do this.”
+
+Carefully, I set my hands inside two circles specifically designed for such purposes, then focus on activating the spell circle.
+
+[Circle recognized,] Echo pipes up. [Mana Requirement: variable.]
+
+“We’re using all of it,” I say. All whopping ten points of it. “Let’s go. Activate.”
+
+My hands bloom with green light, and a moment later the lines in the spell circle similarly illuminate. Like water on a track, the lights flow from the outside in, converging at the bowl at its center. The magic bleeds from the circle into the bowl, causing the water to glow. Instead of growing more dim, however, the light only grows brighter. At the same time, the water level decreases. Like a hole has been drilled in the bottom, the water spirals down, growing brighter and brighter, until eventually there’s only a white-hot seed sitting at the bottom of the cup. I lean my head over, watching.
+
+“Is it done?” I ask. “Did I do it?”
+
+The glow slowly fades from the pebble at the bottom of the cup until all that’s left is a little white stone. Only when all traces of the magic are gone does Echo speak up.
+
+[Spell complete.]
+
+“Hah!” I snatch up the cup from the center of the circle. “I made this! I made this. I’m a freaking alchemist.” I roll the stone around a few times, considering it.
+
+“Echo, is it okay to touch it? It won’t activate if I do, right?”
+
+[Negative,] Echo says. [The tablet’s spell will activate when the user reawakens the dormant mana with a triggering imbuement.]
+
+“A triggering what now?” I ask.
+
+[When the user introduces a new external quantity of mana to the frost seed, the magic will act as a catalyst that will result in activation of the spell.]
+
+I frown. “So it’ll take more magic to make this thing start working?”
+
+[Affirmative.]
+
+Well that’s extremely annoying. That means I’ll need to wait another hour before I can use it. On the other hand, at least it means these things are stable and can be carried around with me. I roll the seed out into my hand, still plenty happy with my invention. I could create a whole pouch of these guys to keep on hand.
+
+Too bad each one will take 10 hours to make.
+
+Ugh, I really need to figure out a way to up my Mana stat.
+
+But there’s no rest for the wicked. I can’t just sit around, twiddling my thumbs, as I wait for my mana to recover. I’ve got more spell circles to prepare, more ingredients to go scavenging for, more alchemic spells to read.
+
+“Alright,” I say, dropping the frost seed in a pouch and setting it back on my ingredients table. I turn back to the alchemy book, flipping to another spell Lisari had earmarked for me. “What next?”
+
+[17 Days until the Gods’ Tournament]
+
+[10 Days until Blackcloak membership is due]
+
+Health potions are actually pretty simple. As long as you have access to Life arcana—which, luckily, Poison is a subcategory of—anyone can make them. The big drawback is the shelf-life, which gradually decays from the moment of creation, and the fact that the potency is limited by the amount of mana used to create it. It’s an annoying trend I’m starting to notice in potion making.
+
+“Ingredient List,” I tell Echo. Now that I’ve made it a few times and officially “learned” the potion, I don’t need to consult the herb book and can get Echo to pull up the instructions for me.
+
+[Ingredients,] Echo recites. [A simmering liquid of choice. Life arcana.]
+
+And that’s it.
+
+“What happens if other magical ingredients are added to this liquid of choice?” I ask Echo, checking the temperature of the cauldron. Almost there.
+
+[Unknown,] Echo says. [The effects would vary depending on the ingredients added. It is possible the user would inadvertently create a different potion.]
+
+“So what you’re saying is, I can learn new potions by experimenting.” I grin wickedly.
+
+Echo neither confirms nor denies this.
+
+I go over my store of ingredients, all spread across the table. Rasptoad warts? Those show up in my smoke bomb potions. Brownskull mushroom? Those are fairly poisonous and the resulting potions can be volatile. How about swampweed? No, too stinky…
+
+Eventually I settle on wormroot, which is frequently used in debuff potions but otherwise pretty harmless. Heading over to the fire next, I spoon a bowl of water from the cauldron, which I’ve been trying to keep at a simmer for the last couple of days. If this works, I might be a genius.
+
+I add the wormroot into the steaming bowl of water, mixing until it’s fully dissolved. Then I set it down and cup my hands over the bowl, summoning a little bit of magic to drip into the potion.
+
+I watch my mana as the points tick down: it was only up to 5/10 when I started this most recent experiment, as I’m too impatient to wait the full ten hours to completely refill my tanks. But I don’t need to use up all my mana on one of these experiments, anyway.
+
+[Mana: 5/10]
+
+[Mana: 4/10]
+
+[Mana: 3/10]
+
+“That should do it,” I mumble, mentally cutting off the flow of magic as the liquid light pools in my palm. I tip my hand and spill the magic into the potion. The water swirls, the steam evaporating away as the color changes from green, to blue, to purple. The light dims, but doesn’t completely go out. Well that’s new.
+
+“Is it done?” I ask Echo. “Is the potion complete?”
+
+[As the user was not intending to create a specific potion as followed by a known recipe, this unit cannot identify the theoretical stage of completion.]
+
+Well, guess I’ll just have to test it out then.
+
+Since a healing potion is intended to spread over a wound to make it better, and this potion was a healing potion infused with ingredients used in debuff potions, that means it should theoretically be able to reduce the rate at which a person heals instead. Maybe I could use this to weaken Maru.
+
+“Only one way to find out,” I mutter.
+
+Setting an actual healing potion nearby—look, I can be taught—I pull out my knife and nick my pointer finger on my left hand. I wince at the cut, but it’ll be healed up in a minute or two anyway with that healing potion sitting nearby. Instead, however, I pick up the new purple potion.
+
+“We’ll call you Potion X,” I say. “Please don’t let me down.”
+
+I stick my finger into Potion X. The blood on my finger clouds out into the surrounding liquid, which suddenly turns a dark garnet red. My finger begins to sting—then it burns.
+
+[Status Effect sustained: Debuff,] Echo says.
+
+Yes! Just as planned. I’ve made an opposite healing potion. Now, my rate of healing should be reduced.
+
+[Lose mana at a rate of 1 mana per second for the duration of the potion’s effect,] Echo says.
+
+“Hey, wait!” I say. “That’s not what I wanted!”
+
+[Mana: 2/10]
+
+“Crap!” I whip my hand from Potion X and stab it into the real healing potion.
+
+[Mana: 1/10]
+
+[HP: 90/90. You are fully recovered.]
+
+[Mana: 0/10. Mana extinguished.]
+
+“Dammit,” I grumble. Well that’s annoying. Now I’ll have to wait hours again before I can try another potion or alchemy spell.
+
+[New potion learned,] Echo says. [Mana Drain.]
+
+“Yeah, I figured that,” I grumble. Not exactly what I was intending. But at least I’ll be able to make it again now, if I ever have the need.
+
+And if nothing else, it did prove one thing: I can discover potion recipes on my own through experimentation. The only drawback is that I won’t know what they do until I try them out.
+
+What could possibly go wrong?
