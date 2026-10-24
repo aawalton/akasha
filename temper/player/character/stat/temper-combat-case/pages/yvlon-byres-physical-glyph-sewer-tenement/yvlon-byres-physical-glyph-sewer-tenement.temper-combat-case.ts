@@ -6,6 +6,7 @@ export const yvlonByresPhysicalGlyphSewerTenement = {
   slug: "yvlon-byres-physical-glyph-sewer-tenement",
   title: "yvlon-byres, physical glyph hits in the Sewer Tenement",
   verifiedHits: "json",
+  pinnedReading: "json",
   createdAt: "2026-10-21T17:07:56.945Z",
-  updatedAt: "2026-10-21T17:07:56.945Z",
+  updatedAt: "2026-10-24T21:37:40.723Z",
 } as const satisfies TemperCombatCase

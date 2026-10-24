@@ -6,6 +6,7 @@ export const nirayicelShockGlyphWrothgar = {
   slug: "nirayicel-shock-glyph-wrothgar",
   title: "nirayicel, shock glyph hits in Wrothgar",
   verifiedHits: "json",
+  pinnedReading: "json",
   createdAt: "2026-10-21T17:06:17.684Z",
-  updatedAt: "2026-10-21T17:06:17.684Z",
+  updatedAt: "2026-10-24T21:37:40.723Z",
 } as const satisfies TemperCombatCase

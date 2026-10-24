@@ -6,13 +6,15 @@ import { holdSetCatalogFromCheckout } from "akasha/temper/player/character/chara
 import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
 import {
   buildReadingsIn,
-  buildReadingsOf,
   combatCaseShape,
   combatCaseText,
   glyphTooltipOf,
   targetDamageTakenOf,
 } from "akasha/temper/player/character/stat/modules/combat-case/combat-case.module.code.ts"
-import { judgeCombatCase } from "akasha/temper/player/character/stat/modules/combat-case/combat-case.module.test-fixtures.ts"
+import {
+  judgeCombatCase,
+  pinnedReadingOf,
+} from "akasha/temper/player/character/stat/modules/combat-case/combat-case.module.test-fixtures.ts"
 import { glyphHitOf } from "akasha/temper/player/character/stat/modules/glyph-hit/glyph-hit.module.code.ts"
 import { holdMetricCatalogFromCheckout } from "akasha/temper/player/character/stat/modules/metrics/metrics.module.test-fixtures.ts"
 import { Glob } from "bun"
@@ -87,11 +89,10 @@ for (const path of CASES) {
     expect(judged.closed).toEqual([])
   })
 
-  test(`the ${caseSlug(path)} case's every reading of its build agrees on its glyph`, () => {
-    const read = buildReadingsOf(akashaRoot(), combatCase)
+  test(`the ${caseSlug(path)} case's pinned reading is of its build and names its glyph`, () => {
+    const read = pinnedReadingOf(akashaRoot(), caseSlug(path), combatCase)
+    expect(read.ids).toEqual([combatCase.reading])
     expect(read.enchants).toEqual([combatCase.enchant])
-    expect(read.ids.length).toBe(combatCase.readingsAgreeing)
-    expect(read.ids).toContain(combatCase.reading)
   })
 
   test(`the ${caseSlug(path)} case is written as a case is written`, () => {

@@ -6553,6 +6553,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/weapon-attacks/weapon-attacks.module.ts","id":"01a1557c-462c-7d40-af65-f5dd2f7cd3fc"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/worn-item-levels/worn-item-levels.module.ts","id":"01a15a76-74bd-7eb4-bedd-5978bf822f01"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/temper-character-stat.domain.ts","id":"01a0612f-aae6-7c1d-a590-b3004241a082"}
+{"propertySlug":"decision-kind","path":"temper/player/character/stat/temper-combat-case/properties/pinned-reading.file-property.ts","id":"01a16fd9-1775-71b8-a4da-badc2e31cfff"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/temper-combat-case/properties/verified-hits.file-property.ts","id":"01a15f6b-eb31-7230-80d8-7692f40f0103"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/temper-combat-case/temper-combat-case.page-type.ts","id":"01a15f6b-eb31-7dc8-a07b-3684b7c044cc"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/temper-metric/modules/metric-formula-keeping/metric-formula-keeping.change-generator.ts","id":"01a0df26-cc0c-714c-8a91-870f8f85191f"}

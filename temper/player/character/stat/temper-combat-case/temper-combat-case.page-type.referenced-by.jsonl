@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"temper-combat-case.page-type.ts","path":"command/pages/temper/combat-compare/temper-combat-compare.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-combat-case.page-type.ts","path":"temper/player/character/stat/modules/combat-case/combat-case.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-combat-case.page-type.types.ts","path":"temper/player/character/stat/temper-combat-case/pages/nirayicel-shock-glyph-knightsgrave/nirayicel-shock-glyph-knightsgrave.temper-combat-case.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-combat-case.page-type.types.ts","path":"temper/player/character/stat/temper-combat-case/pages/nirayicel-shock-glyph-the-precursor/nirayicel-shock-glyph-the-precursor.temper-combat-case.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-combat-case.page-type.types.ts","path":"temper/player/character/stat/temper-combat-case/pages/nirayicel-shock-glyph-wrothgar/nirayicel-shock-glyph-wrothgar.temper-combat-case.ts","typed":true,"deferred":false}

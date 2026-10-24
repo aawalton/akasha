@@ -2329,6 +2329,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-menu/skill-point-finder-menu.module.ts","id":"01a060ec-5840-75bd-916c-91a32fd40413"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-types/skill-point-finder-types.module.ts","id":"01a060ec-584d-78d8-941c-a8b43c987a6c"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-sources/skill-point-sources.module.ts","id":"01a060ec-5851-77ac-a8f1-6163b058a0b4"}
+{"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/combat-case/combat-case.module.ts","id":"01a15f6d-8dd5-7d8a-b7d5-94c75ecffd0b"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/glyph-hit/glyph-hit.module.ts","id":"01a15f6d-8dd5-799a-bec0-169787e6d087"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/rotation-reading/rotation-reading.module.ts","id":"01a155a6-255f-774a-8cbf-800fdcde0042"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/skill-damage/skill-damage.module.ts","id":"01a13fef-5e7e-711d-90eb-ebfc00e306bb"}

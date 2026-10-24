@@ -130,6 +130,7 @@
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"temper/addon/properties/sibling-manifest.file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"temper/catalog/world/temper-catalog-domain/properties/catalog-capture.file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"temper/eso/declaration/eso-opt-in-list/properties/tokens.file-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"temper/player/character/stat/temper-combat-case/properties/pinned-reading.file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"temper/player/character/stat/temper-combat-case/properties/verified-hits.file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"temper/player/character/stat/temper-stat-case/properties/verified-stats.file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"temper/player/character/stat/temper-tooltip-case/properties/verified-tooltips.file-property.ts","typed":true,"deferred":false}

@@ -43,13 +43,17 @@ export const combatCase = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A case fails where any reading of its build names a glyph other than the case's.",
+      statement: "A case fails where its pinned reading names a glyph other than the case's.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A case fails where its build has more or fewer readings than the case says.",
+      statement: "A case fails where its pinned reading is not the reading of its build it names.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "A case is judged against no reading in its character's readings.",
     },
   ],
   createdAt: "2026-10-21T17:06:17.684Z",
-  updatedAt: "2026-10-21T17:11:45.362Z",
+  updatedAt: "2026-10-24T21:37:40.723Z",
 } as const satisfies Module
