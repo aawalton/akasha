@@ -6,6 +6,7 @@ import {
 import { messageNamed } from "akasha/agent/message/modules/naming/agent-message-naming.module.code.ts"
 import { signedInAs } from "akasha/alan/harness/better-auth-rr/modules/google-auth-guard/google-auth-guard.module.code.ts"
 import {
+  refused,
   seatSlugOf,
   senderOf,
 } from "akasha/alan/web/modules/seat-message-asking/seat-message-asking.module.code.ts"
@@ -79,10 +80,6 @@ async function attachedAmong(images: readonly string[]): Promise<readonly Attach
     attached.push(one)
   }
   return attached
-}
-
-function refused(error: string, status: number): Response {
-  return Response.json({ ok: false, error }, { status })
 }
 
 export async function action({ request }: { request: Request }): Promise<Response> {

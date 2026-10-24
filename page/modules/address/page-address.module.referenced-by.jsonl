@@ -59,6 +59,7 @@
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/web/root.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/web/routes/about/about.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/web/routes/alan-web-api-seat-message/alan-web-api-seat-message.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/web/routes/alan-web-api-seat-regret/alan-web-api-seat-regret.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/web/routes/alan-web-api-sms-webhook/alan-web-api-sms-webhook.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/web/routes/alan-web-contact/alan-web-contact.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/web/routes/alan-web-home/alan-web-home.route.code.tsx","typed":false,"deferred":false}

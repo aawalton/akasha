@@ -19,7 +19,11 @@ export const seatMessageAsking = {
       decisionKind: "decision-kind/departure",
       statement: "A seat that person may not read is answered as no seat of that id.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A refusal is answered as JSON naming the error, under the status handed in.",
+    },
   ],
   createdAt: "2026-10-24T22:08:51.099Z",
-  updatedAt: "2026-10-24T22:08:51.099Z",
+  updatedAt: "2026-10-24T22:11:07.505Z",
 } as const satisfies Module

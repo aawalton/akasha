@@ -9,6 +9,10 @@ const PERSON_PAGE_TYPE_SLUG = "person"
 
 export type Refused = { readonly refused: string; readonly status: number }
 
+export function refused(error: string, status: number): Response {
+  return Response.json({ ok: false, error }, { status })
+}
+
 export async function senderOf(
   contributor: string
 ): Promise<string | { readonly refused: string }> {

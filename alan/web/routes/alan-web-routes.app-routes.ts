@@ -28,6 +28,7 @@ export const alanWebRoutes = {
     "route/alan-web-api-sms-verification-status",
     "route/alan-web-api-seat-image",
     "route/alan-web-api-seat-message",
+    "route/alan-web-api-seat-regret",
     "route/alan-web-api-seat-voice",
     "route/alan-web-api-narration",
     "route/alan-web-api-narration-close",
@@ -93,5 +94,5 @@ export const alanWebRoutes = {
     },
   ],
   createdAt: "2026-09-10T15:18:13.817Z",
-  updatedAt: "2026-10-24T21:52:05.693Z",
+  updatedAt: "2026-10-24T22:11:07.505Z",
 } as const satisfies AppRoutes
