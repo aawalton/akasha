@@ -67,6 +67,7 @@
 {"propertySlug":"person-authority-person","path":"person/authority/pages/alan-page-schema-all.person-authority.ts","id":"01a05433-f107-7219-bd13-6b570031b7dc"}
 {"propertySlug":"relationship-sms-handler-target","path":"alan/relationships/relationship/pages/alan-walton/alan-walton.relationship.ts","id":"019db533-f384-7d1e-bdc3-11c0b0ce3d74"}
 {"propertySlug":"seat-persons","path":"agent/seat/pages/aine/aine.seat.ts","id":"01a16ef2-c77c-7000-b35e-d99b62314558"}
+{"propertySlug":"seat-persons","path":"agent/seat/pages/alan/alan.seat.ts","id":"01a0d3f2-4967-7000-827c-676b6015676c"}
 {"propertySlug":"seat-persons","path":"agent/seat/pages/amy/amy.seat.ts","id":"01a14f20-9e11-7000-a53b-1e2e9cc76a9a"}
 {"propertySlug":"seat-persons","path":"agent/seat/pages/couples-therapy-couples-therapist/couples-therapy-couples-therapist.seat.ts","id":"01a16f1c-8e48-7000-b6a3-9aae18284763"}
 {"propertySlug":"session-owner","path":"alan/track/daily/day/pages/2026-08-20/day-2026-08-20.day.ts","id":"01a01e9d-c734-7ea3-8be4-aefb8105a7ed"}
