@@ -1,0 +1,183 @@
+You could not just decide to learn magic. I really wanted to do magic. Shoot fireballs or call lightning upon my enemies. Maybe some healing magic, too?
+
+But I had no clue where to start. Obviously, there had to be some sort of basic skill. Maybe there was something like [Mana Manipulation] or [Mana Sense]. But when I tried to just feel the magic around me like so many protagonists do, I got nothing. No response from any 6th sense let alone a new skill. What I did notice however was that something was missing from my status menu.
+
+Species: Great Eagle Owl (juvenile)
+
+Age: 0
+
+Name: -
+
+Gender: female
+
+Status: sapient, healthy
+
+Level: 1
+
+Class: -
+
+Strength: 6
+
+Constitution: 6
+
+Dexterity: 9
+
+Perception: 10
+
+Intelligence: 12
+
+Wisdom: 8
+
+AP: 0
+
+Skills: [Owl Senses lvl 1], [Preening lvl 2], [Owl Stomach lvl 2], [Solid Grip lvl 1], [Soundless Flight locked], [Maths lvl 3], [Identify lvl 1]
+
+Can you spot it?
+
+Yeah. There was nothing about resources. No mana, no health points nor stamina points. Nothing. I could not understand how I overlooked this before. I had my status for almost a month by now and I never stopped to think why the only thing I could find resembling resources was the Status segment. And that just told me I was sapient and healthy.
+
+Great. Absolutely insane detail. This menu feels kind of useless.
+
+Back to magic. I knew it existed. Or at least some skill had to let my father create that shadowy smoke he used to hide us. But I had no idea where to even start getting my own magic. Maybe I needed a class? Or I would unlock some more Skills as I levelled up? Or maybe even just as I grew older. Growing into a juvenile from a young Great Eagle Owl unlocked my skills tab, so maybe there was something else coming up?
+
+For now, I had no idea where to start. But I also had nothing better to do. My mother still would not let me leave the cave to look at the outside, father would regularly bring us food and my siblings were just sitting there and growing.
+
+So I kept trying. Trying to feel something new in the air around me. In the ground. In my father when he stopped by. In my siblings and mother. Even in my own body. But I got nothing. Over a week I tried almost every waking moment. Nothing.
+
+My siblings also did not help. They got more and more lively and started to try and go past mother to explore the outcropping, just like I had before. But she did not let them pass either and so they jumped and skittered around me, flapping their wings and screeching at each other whenever they got hit by something. That something included walls. Stupid siblings.
+
+Almost two weeks after the wyvern attack my oldest sibling got particularly worked up when one of the younger ones smacked him into the cave wall right next to me. He started screeching and smacking his wings. Since I sat right next to him, he repeatedly smacked my face. I was fed up. I was really fed up. And so I lowered my head… and screeched. Directly into his ear.
+
+He jumped. To the other side of the cave, right in between our younger siblings who he was upset with just a second ago, and used them to hide from me. Even my always-on-guard mother turned her head to look at me.
+
+When my anger had settled I flapped my wings a few times before settling down again, closing my eyes and going back to the useless exercise of feeling some kind of mana. Except I was immediately taken away from my musings by a chiming sound seemingly coming from within myself.
+
+~ding~ You have learned the racial skill [Intimidating Screech lvl 1]. Congratulations. For successfully learning a racial skill without guidance, bonus experience is awarded.
+
+What?
+
+~ding~ You have reached level 2. Attribute point allocated.
+
+Wh.. at?
+
+How? Is this… the Skill mother used on the Feathered Wyvern? I thought that was just a loud screech? A racial skill, huh? So I had more to gain. But I also got experience? Why would gaining a skill give experience? I also got an Attribute point, but it was allocated already? Let’s check.
+
+Species: Great Eagle Owl (juvenile)
+
+Age: 0
+
+Name: -
+
+Gender: female
+
+Status: sapient, healthy
+
+Level: 2
+
+Class: -
+
+Strength: 7
+
+Constitution: 7
+
+Dexterity: 11
+
+Perception: 12
+
+Intelligence: 13
+
+Wisdom: 8
+
+AP: 0
+
+Skills: [Owl Senses lvl 1], [Preening lvl 3], [Owl Stomach lvl 2], [Solid Grip lvl 1], [Soundless Flight locked], [Intimidating Screech lvl 1], [Maths lvl 3], [Identify lvl 1]
+
+I got a few more points in my physical stats over the last two weeks. But my Intelligence increased as well. And this happened very recently. I was pretty confident my Attribute Point from the level up was allocated to it. That was the most likely explanation since I was not able to increase my Intelligence or Wisdom at all in those six weeks since I had my status.
+
+My level also went up. And my new skill was in my skills tab. Right behind [Soundless Flight], which made me think [Maths] and [Identify] really were not racial skills. I know how I got [Maths], I just practised some simple arithmetic. But [Identify]? I only ever used it once on that wyvern. Where did it come from? Did my curiosity just sort of give me the skill?
+
+Focusing on it my status suddenly disappeared only to be replaced by a new message.
+
+[Identify]: Gain information about your surroundings. This ability alerts living beings it is used on. Detail increases with skill level.
+
+What? Did I just identify [Identify]? This was a thing all along? Can I do this with the rest of my status?
+
+And so I did.
+
+Species: Name of the species a living being belongs to.
+
+Great Eagle Owl: This bird of prey is mostly nocturnal and lives in temperate regions of the world. It hunts everything small enough to be carried to its roosting spot or nest, which is usually a hidden tree branch or a small cave. It has excellent senses and is extremely stealthy. Great Eagle Owls are also known for being territorial and aggressive towards invaders, especially when nesting.
+
+That was a lot of information. Most of which I knew from somewhere in the back of my mind, but it was certainly nice to have it spelt out somewhere I could look it up whenever I wanted.
+
+Most of the other parts of my status were not that interesting though. Mostly in line with what I got from identifying my species.
+
+One of the more interesting parts was in my Status. When I identified sapient, I got this:
+
+Sapient: This individual has a sapient mind. They have the ability to gain Classes and use the skill [Identify].
+
+Did this mean my siblings and parents could not get a Class? And did it mean I could get multiple Classes? It certainly seemed like it. It also explained where [Identify] came from in the first place. My theory about Classes was confirmed when I analysed the Class panel of my menu.
+
+Class: The classes and class levels of a living being.
+
+It also told me classes would have a separate level from my actual level, which identified as a “racial level”.
+
+Going through the rest of my status, I looked for more interesting information. My attributes gave me some details I could have guessed, but it was nice to have confirmation:
+
+Strength: The amount of force a being can exert.
+
+Constitution: The amount of force a being can resist.
+
+Dexterity: The speed a being can move their body and limbs.
+
+Perception: The speed a being can analyse their surroundings and react to them.
+
+Intelligence: The strength with which a being’s will can affect the world.
+
+Wisdom: The precision with which a being’s will can affect the world.
+
+They seemed to be paired in twos. One pair for force, one for speed and one for “a being’s will” whatever that meant. Probably magic. Definitely magic.
+
+This did not tell me why my level up gave me a point in Intelligence but I could make a guess off my skill descriptions. Specifically off my new skill [Intimidating Screech]
+
+[Intimidating Screech]: You have one of the strongest wills of your species. Your voice can scare beings with less combined Wisdom and Intelligence than you. Depending on the difference they may freeze in fear or run.
+
+This skill worked off Wisdom and Intelligence. My guess was since I levelled from learning this skill, my AP was allocated to an attribute this skill used. I would have to confirm this later. I did not know how I would confirm it, but I wanted to do it somehow.
+
+I got some more information from my other skills. [Owl Senses] for example described improvement of my senses based on Perception and Dexterity. At least for my vision and hearing. My sense of smell instead was weakened.
+
+[Owl Senses]: An owl has excellent vision and hearing. Their sense of smell is comparatively simple. Greatly improves the effectiveness of Perception and Dexterity on eyes and ears. Slightly reduces effects of Perception and Dexterity on sense of smell.
+
+This told me two things:
+
+First, Skills sometimes improved their effects based on my attributes.
+
+Second, Skills could also weaken certain abilities of me. Maybe a berserker type skill would be able to reduce my ability to reason, or even make me non-sapient temporarily. I would have to be careful with the skills I would take in the future.
+
+There was also the fact that [Solid Grip] did not mention owls at all, even though most of my other racial Skills did.
+
+[Solid Grip]: Improves grip strength based on Strength. Requires opposable digits.
+
+[Preening] and [Intimidating Screech] were the other ones that did not mention owls, although [Intimidating Screech] said “my species”, so it kind of did.
+
+[Preening]: Clean yourself and others. Removes dirt and parasites from feathers, pelt and hair. Slightly improves health status. Requires a beak or claws.
+
+I also took a closer look at [Soundless Flight]:
+
+[Soundless Flight]: Owl feathers are designed to reduce noise during flight. Greatly reduces noise created during flight based on Dexterity. Greatly improves perception of sound during flight.
+
+So far so good, but why was it locked?
+
+Locked: This skill is locked due to not meeting requirements. If requirements are met, it will unlock. Unmet requirements: Reach evolution: Fledgeling.
+
+Oh. I had to [Identify] the locked. Well. I would be a fledgeling in two to three weeks, if I remembered my owl knowledge correctly, so not a problem. The skill would unlock automatically. Nothing for me to do about it.
+
+And then there was [Maths]:
+
+[Maths]: You like thinking. You also like logic. Congratulations, you are now able to think logically! As long as your thoughts have no connection to reality.
+
+Okay. Way to go, system! Insult me for being smart! Huff! Fine. Just ignore it…
+
+Now where was I? Right, magic. No real progress on that front. I knew my Intelligence and Wisdom had something to do with imposing my will upon the world, but I had no idea how to utilize them. Other than through [Intimidating Screech]. Maybe I need to get some more skills? How did I get that again? Right, I was pissed. At my little siblings being annoying little buggers. And then I let out my emotions in one enormous screech. That seems like a very natural response. The fact I got a racial skill from it also makes me think it’s not actual magic magic, but more something innate to my new body. Something even my stupid siblings could learn. That makes it less impressive.
+
+Ah well, I might get emotional again. Maybe I can manifest a lightning bolt next time. Heh, as if… Back to trying to feel something that doesn’t exist…
