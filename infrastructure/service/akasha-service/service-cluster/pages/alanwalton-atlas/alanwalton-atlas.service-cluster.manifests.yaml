@@ -23,7 +23,7 @@ spec:
   template:
     metadata:
       annotations:
-        checksum/secrets: dd302f1abb69e13132ced35e51c1bb4e
+        checksum/secrets: b68d46aae3b152d4af421fc3b60d4774
       labels:
         app.kubernetes.io/component: frontend
         app.kubernetes.io/instance: atlas
