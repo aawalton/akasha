@@ -1,0 +1,203 @@
+Warning: You’ve entered an area with an incompatible mana density.
+
+Mana regeneration reduced by 95%
+
+Bun Bun bounded ahead, the Dragonspawn murder bunny sniffing at the air with glee. His scales had taken on a darker hue with every level up, and he seemed to be enjoying Death Valley the most out of any of them. Aurelia and Noah followed, while Zax covered the rear.
+
+Bun Bun smells something interesting, the familiar reported, his ears perking up. Something dead but also alive. He disappeared around the corner at a run.
+
+“Don’t go too far—” Noah started, then froze when a low rumble echoed through the canyon in steady rhythm.
+
+“What was that?” Aurelia asked quietly, flames dancing at her fingertips.
+
+“A chance to prove yourselves.” Zax stepped aside to wait. “We must go much deeper in to find anything we can train against, but it will be good to know you will survive without us.”
+
+The rumbling continued, steadily growing closer.
+
+Bun Bun sees it, the familiar reported. It is made of bones. Bun Bun does not approve. Bun Bun prefers enemies with meat on them.
+
+Noah perceived it a moment later as it entered the area of his awareness. To call it an oversized skeleton would convey the right general impression, but it was far denser than any ordinary skeleton, and upon closer examination the construct of bones seemed to have been assembled from what had to be hundreds of different creatures. Skulls of wolves woven into its legs, massive ribcages forming its torso, spinal columns twisted into arms that ended in clawed hands made of sharpened femurs, its head a grotesque fusion of beast and humanoid skulls. The contents of a dozen graveyards fused into one.
+
+[Bone Amalgam (Uncommon) - Level 680]
+
+“Monsters of this nature form around a core,” Zax informed them. “That is their weakness.”
+
+Good to know.
+
+Bun Bun was latched onto one knee, gnawing away, his acidic bite doing such minuscule damage that the monster didn’t seem to have even noticed the small creature. Which only made Bun Bun bite more angrily.
+
+The creature’s head swiveled toward them as it emerged around the corner. Thirty eyeless sockets burned with pale colorless flame, fixed on the party with undeniable malice. Dark runes pulsed along its bones and in one hand, it carried the complete spine of some enormous creature, each vertebra sharpened to a lethal point.
+
+A low rumble of eagerness ground from it, then it charged. Spurs of calcified bone burst from the canyon floor in a ring thirty feet wide, razor-edged and knee-high with each heavy step. The ground around the monster grew more and more densely packed as it ran toward them. It trod carelessly on its own thicket of spikes, adding the sinister crackle of snapping bone to the earth-shaking rumble of its footsteps.
+
+“Scatter!” Aurelia shouted, flames erupting from her feet to propel her through the air in the split second between its appearance and closing in on them.
+
+Noah threw himself sideways, felt something rake across his calf, then triggered [Arcane Step], teleporting backward just in time. The Bone Amalgam’s spine-weapon crashed into the ground where he’d been standing, leaving behind a crater six feet deep.
+
+This thing is going to be a pain. Noah thought. But a stronger part of him felt only fierce anticipation. He’d gotten very tired of prolonged but ultimately dangerless engagements. Everything within him yearned to rise to the occasion and win. Defeat something worth defeating.
+
+Before Noah could properly reorient, it’d already drawn its weapon back to slash at the flaming flying berserker.
+
+“Look out!”
+
+Aurelia dove, but not fast enough. The tip of the weapon caught her shoulder and sent her spinning into the canyon wall. She lost control of her flight and fell, her golden protective sphere appearing just before crunching down onto the field of spikes below.
+
+She came up bleeding and furious, her arm torn open from the strike, but otherwise unharmed. Fire flared up around her and she lashed out with white-hot chain blades.
+
+Noah’s mana drained as four copies of himself materialized, each wielding a different weapon from his [Runeforged Armaments]. The first spectre hefted the Chains of Binding as always. The second spun twin daggers dripping with void energy. The third carried a massive war-hammer that vibrated.
+
+“Dibs on the skull,” the fourth spectre announced, twirling the Spear of Crimson End with a flourish.
+
+“Focus,” Noah commanded, though he couldn’t suppress a smile. “Spread out, you know the drill by now.”
+
+The spectres moved without further instruction, each one darting toward a different angle of attack. Noah activated Dragon Shift.
+
+Dragon Fear seemed to have no effect on the adversary. If anything, it only infuriated it.
+
+The Bone Amalgam’s head snapped toward him with terrifying speed. Its eyeless sockets flared brighter, and it released a devastating sound.
+
+You have heard [Spectral Roar]
+
+-20% to all attributes
+
+Noah staggered but held his ground. His spectres weren’t so fortunate, two of them flickered as the attack destabilized their forms, the weight of local ambient mana crushing them out of existence before Noah could reinforce them.
+
+Tony will help!
+
+Power increased by 100%
+
+“Thanks, Tony.” Noah launched himself at the Bone Amalgam, wings beating powerful strokes. The creature abandoned its roar and swung its spine-weapon in a horizontal arc.
+
+Noah folded his wings and dropped, the weapon whistling over his head close enough to ruffle his hair. He came up inside the creature’s guard and activated [Wyrm's Curse].
+
+[Wyrm's Curse] applied to [Bone Amalgam]
+
+Noah’s chain-wielding spectre jumped into the fray. Chains wrapped around the Bone Amalgam’s weapon arm, blue runes flaring as they anchored themselves to the canyon floor.
+
+“It won’t hold long!” the spectre shouted. “Whatever you’re going to do, do it fast!”
+
+“On it.” Aurelia’s flames blazed with renewed intensity as she rushed the construct, her fists wreathed in white-hot fire. Where her strikes connected with bone, there was a satisfying crack, whittling away at the base structure of this thing bit by bit. Her fist carved through the creature’s leg, shattering several of the smaller bones that comprised its structure, but the bones she’d broken didn’t fall. The moment her flames moved elsewhere, they simply reconnected, drawn back together by threads of dark energy.
+
+“It regenerates too fast!” Noah shouted. He focused Abyssal Inferno into a beam attack aimed at the creature’s torso, the black flames burning against its skeletal frame. The bones blackened and cracked under the assault, then healed, drawing ambient death energy from the very air around them. “At this rate I’ll be out of mana before we get anywhere. We have to find the core.”
+
+The dagger-wielding spectre darted in low, slashing at the creature’s ankles. Void Annihilation disintegrated bone, leaving deep gouges that smoked with dark power.
+
+The war-hammer spectre came in high, bringing the weapon down on the Bone Amalgam’s shoulder. The impact sent shockwaves through the construct’s frame, and Noah heard the distinct crack of splintering bone.
+
+The monster leaned down and tore the chains free with an angry rumble, then snatched one of his spectres out of the air and crushed it.
+
+Then the creature’s entire body shuddered. Then, with a sound like a thousand arrows being loosed simultaneously, bone spikes erupted from its frame in every direction.
+
+Noah threw himself into an Arcane Step, vanishing just as a volley of sharpened rib javelins tore through the space where he’d been. He reappeared twenty feet away, wings flaring for balance. “Aurelia!” Noah searched frantically for the berserker.
+
+Her golden protective bubble was visible past a hastily-raised wall of flame, then it exploded outward as it reached its limit. Several bone fragments pierced her arms and legs, but her answering shield nova had also melted a deep gouge into the monster’s leg.
+
+Bun Bun is angry, the familiar reported. Bun Bun does not appreciate being shot at! Combined with Aurelia’s retaliation, his steady gnawing and perpetual acidic bite finally started to show results. The Bone Amalgam’s left leg gave out entirely. The construct crashed to one knee, its skull now only fifteen feet above the ground instead of thirty.
+
+“My turn,” Aurelia growled, flames intensifying.
+
+“Now!” Noah roared. “Tony, Power Form!”
+
+Noah felt Tony’s influence surge through him, his muscles swelling with power. He shot toward the Bone Amalgam’s skull, wings driving him forward. His remaining spectres followed, the spear-wielder diving from above.
+
+While the Bone Amalgam focused on Noah and his spectres, Aurelia launched herself upward, flames exploding from every inch of her body as she rocketed toward the creature’s head. Her entire form became a comet of white-hot fire, piercing through the air fast enough to leave an afterimage.
+
+Aurelia drove her burning fist through the Bone Amalgam’s skull with a scream of fury. Fire erupted from the point of contact and she kept swinging, carving it apart in rapid slashes of her white-hot chain blades that dug chunks out of its skull faster than it could regenerate.
+
+The Bone Amalgam screamed, a sound that seemed to come from every skull that comprised its body.
+
+You have heard [Deathly Roar]
+
+-50% to all attributes
+
+“I found the core,” Aurelia shouted from her position in the creature’s skull. “Noah, I need you!”
+
+Noah dropped, his wings snapping open to catch himself. Power Form was still active; without that the debuff would have been crippling. Using Arcane Step, he materialized inside the breach Aurelia had created. The interior of the Bone Amalgam’s skull was a maze of fused bone and twisted necrotic energy, but the core was exposed as promised, right in front of him.
+
+A crystal sphere of death essence, beautiful in its terrible way, now cracked by Aurelia’s assault but still pulsing with defiant power.
+
+Tony transformed his arm, tendrils weaving together into something resembling a cannon. Dark flames gathered around Noah’s fist as he focused Abyssal Inferno. The infernal blast seared into the sphere, finding the cracks that Aurelia had created and forcing their way deeper.
+
+The core shattered. The monster collapsed. Noah grabbed Aurelia and activated Arcane Step just in time to escape before a ton of bone came crashing down around him.
+
+He landed hard, rolling across the stone floor as debris scattered in all directions. His muscles screamed, his mana reserves were nearly depleted, and he ended up with dozens of lacerations from the field of sharpened bone he’d landed on, but he was alive.
+
+The Power Form backlash hit him a second later with crushing exhaustion.
+
+Power temporarily reduced by 25% for 10 minutes
+
+Worth it.
+
+Aurelia descended from where she’d been clinging to the creature’s skull, her berserker aura fading. She looked exhausted but triumphant. “That was… considerably more difficult than I anticipated.”
+
+“You thought it would be easy?” Noah asked, pushing himself to his feet despite his body’s protests. “It was level 380. We’re B-Ranks. Aren’t you the one who usually mentions how that’s supposed to be suicide?”
+
+Which—it nearly had been. His health bar had dropped to 23% at one point during the fight. Without [Dragon’s Heart] and his insane healing abilities, he would’ve died ten times over.
+
+Tony is very tired, the symbiote reported.
+
+You did great, buddy.
+
+Bun Bun also helped, the murder dragon announced, hopping over to join them. He was covered in bone dust and necrotic residue, looking immensely pleased with himself.  Bun Bun has been very diligent and ate the creature’s entire leg. Bun Bun’s jaw is tired but satisfied. Acidic Bite makes things dissolve very nicely. This is Bun Bun's gift to the world.
+
+“You were incredible,” Noah admitted, reaching down to scratch behind Bun Bun’s ears. The creature made a sound somewhere between a purr and a growl.
+
+Bun Bun accepts this praise. Bun Bun wants equipment too, the familiar complained. Bun Bun feels neglected.
+
+We’ll find you something, Bun Bun, Noah placated and turned his attention to the scattered bones.
+
+Bun Bun would prefer boots with spikes, the familiar added. For kicking.
+
+“I wonder if there’s anything good in there,” Aurelia mused, looking at the massive bone pile that was an undead monster moments before. “If it’s been absorbing dead things for however many years, maybe it absorbed some of their equipment too.”
+
+“Nothing worth sticking around for,” Zax said. He pointed to the sky. “This weather won’t hold long. We need to move while we still can.”
+
+Noah’s mana regeneration was still struggling, the power too strong for his body to metabolize. Only when they reached a sheltered cavern away from the main chasm did the pressure relieve somewhat, as Zax began surrounding the entrance with wards and shields with brisk economy.
+
+“In,” he commanded when he saw Noah lingering to watch. “Now.”
+
+The caves within the middle depths are much larger than those found in the outer depths, Noah realized as he stared at the massive opening, the darkness within seeming to swallow even the ambient purple light of the mana.
+
+They filed inside just as the first winds hit. Noah turned to watch from the cave entrance as the air itself seemed to twist and burn. The ambient mana that had been merely thick became a visible torrent, streams of raw magical energy tearing across the landscape with enough force to strip flesh from bone.
+
+“What is it?”
+
+“Mana Blaze. What would be a mana storm above is considerably more dangerous when constrained into a narrow path. It is far from ideal to be outside during one.”
+
+“What happens if you get caught in that?” Noah asked.
+
+“Your defenses are stripped away layer by layer,” Zax answered. “First your mana. Then your resistances. Then your Attributes themselves begin to drain. Eventually, you become nothing more than a husk, still alive, technically, but emptied of everything that made you Awakened.”
+
+“That sounds awful.”
+
+“It is.”
+
+They retreated deeper into the cave as the blaze’s intensity increased, the sound a windy echo that made Noah feel oddly nostalgic for simpler times. But even protected by the cave walls, he could feel the edges of the storm’s power licking at his consciousness, keeping him alert rather than allowing him to sink into that nostalgia.
+
+“Rest here until it passes. The storm should dissipate within a few hours. Use this time to recover. Neither of you should neglect your training either.”
+
+Noah nodded. More training, in the middle depths… It sounded painful. Noah smirked tiredly. When had he been afraid of pain, though?
+
+“Return here to rest. Nowhere else can we guarantee your security. The wards we have placed will shield it from unfriendly notice for several days. We will return before it dispels.”
+
+Noah nodded, filing mental notes.
+
+“For now, meditate,” Zax ordered. “It is the best way to accustom yourselves to the region.”
+
+It wasn’t a bad idea. Noah found a relatively comfortable spot against the cave wall, settling into a seated position. Noah closed his eyes and let himself sink into the meditative state. He activated Meditation, feeling the familiar calm settle over his mind even as the storm raged outside.
+
+“Why does it sound like you’re planning to leave?” Aurelia asked.
+
+“We are. You’re growing quickly, but we must prepare as well. Reconvene here in a week.” Zax stood at the cave entrance, looking out at the violent wind and mana-laden rain lashing against the barriers he’d erected. “Remember, everything here wants to kill you. Stay together. Be cautious.”
+
+“Inspirational as always,” Aurelia said.
+
+Zax’s lips twitched. “We try.” But he didn’t depart. He looked back at them, hesitating.
+
+“Is something wrong?” Noah asked. “The storm?”
+
+“It will not harm us, and it will conceal our movements. We do not trust this place. Something is wrong and we do not know what it is.”
+
+Zax admitting to not knowing something was oddly terrifying, though perhaps it was only because he was about to leave them to their own devices.
+
+“Do not forget what we said; if something is too much for you to survive, run, or try and summon us. We will come if we can.” Then Zax was gone, leaving them to weather the storm alone.

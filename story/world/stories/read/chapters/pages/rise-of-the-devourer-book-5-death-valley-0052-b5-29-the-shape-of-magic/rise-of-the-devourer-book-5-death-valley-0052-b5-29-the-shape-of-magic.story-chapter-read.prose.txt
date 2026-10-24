@@ -1,0 +1,167 @@
+When they next reconvened after another morning of hunting, Noah finally checked on his levels again and was surprised by just how much his progress had jumped.
+
+Wyrmblood Guardian has reached level 402.
+
+[Wyrm’s Curse] has reached level 45.
+
+[Wyrmblood] has reached level 53.
+
+[Bloodwyrm Swarm] has reached level 35.
+
+[Wyrm’s Feast] has reached level 25.
+
+Wyrm’s Feast has reached rank Advanced!
+
+Runebody Arcanist has reached level 371.
+
+[Arcane Step] has reached level 52.
+
+[Cosmic Vault] has reached level 35.
+
+[Runeforged Armaments] has reached level 31.
+
+[Arcane Spectre] has reached level 38.
+
+Abyssal Predator has reached level 382
+
+[Void Annihilation] has reached level 53.
+
+[Abyssal Awareness] has reached level 50.  Skill point required to rank up.
+
+[Abyssal Fusion] has reached level 54.
+
+[Predator’s Mark] has reached level 25.
+
+Predator’s Mark has reached rank Advanced!
+
+[Abyssal Inferno] has reached level 35.
+
+One of his paths had crossed 400 for the first time, which felt both too fast and not nearly fast enough, considering he’d reached 300 a couple weeks ago and needed to hit 800 as soon as possible.
+
+Two abilities he rarely used had finally hit Advanced rank, so he brought those up to see what had changed.
+
+[Wyrm’s Feast (Legendary, Advanced) - lvl 25]
+
+Your wyrm’s hunger consumes each instance of [Poison], [Bleed], [Toxin], [Rot], [Necrosis], or any other damaging status effect transmuting them into vital energy, gaining a buff to your mana, health, stamina and physical prowess. Additionally, each instance of [Paralysis], [Madness], [Terror], [Dissonance], or any other restrictive status effect will be converted into a powerful psychic attack against any enemies within your aura’s domain.
+
+“Too bad more enemies don’t use status debuffs.” But he couldn’t help grinning as he imagined that Thornback crew trying to trap and paralyze him now. Now Wyrm’s Feast had reached Advanced rank, he’d never be helpless like that again.
+
+[Predator's Mark (Legendary, Advanced) - lvl 25] Current Available Marks: 3
+
+You are a true predator, and your mark defines you as such. Marking prey with your curse decreases their attributes up to 25% based on the difference between your levels if your prey is weaker or up to 10% if their level is higher. Other predators will recognize your mark and know not to interfere in your hunt. Marked targets become significantly more vulnerable to your attacks, and their weaknesses are laid bare to your predatory instincts.
+
+So he’d gained a third mark to use, and now it would actually do something against enemies stronger than him.
+
+“If it had this effect before, I’d have leveled it up a lot sooner.” Noah laughed at the irony. Maybe he should work to increase his other lower level abilities to Advanced just to see what their upgraded forms would look like. Though at this point that was only Soul Rune Harvest, which as an Ancient ability leveled insanely slowly. And he couldn’t think of how to make it level faster in any event.
+
+But that also reminded him of his powers sitting at level 50, awaiting skill points for upgrades. They were leveling quickly, but not so quickly that he couldn’t afford to take the time, and now they had Zax to watch over them again he should probably get those started.
+
+Life Siphon and Abyssal Awareness were already at the cap for Advanced, while Wyrm’s Curse was well on its way. The only other one even remotely close was Arcane Spectre, but at 38 he doubted that one would reach the cap until after this was all over.
+
+Fortunately, he had three skill points from defeating the undead dragon, though judging by how infrequent skill points had been up to this point, he may not have the chance to get more before then.
+
+Abyssal Awareness was plenty useful as it was, but he didn’t think being able to see a little farther or a little more deeply was going to help anything at this point. Between Dragon’s Eyes and Truth Sight, he already outdid Abyssal Awareness in most areas, and its ability to show him everything within his immediate vicinity was effective enough.
+
+He could leave that one as it was, and have skill points set aside for when Arcane Spectre and Wyrm’s Curse were ready to upgrade, since those were two of his more powerful abilities already.
+
+For now…
+
+Do you wish to use a skill point to rank up [Life Siphon]?
+
+Yes/No?
+
+Yes.
+
+Initiating rank up.
+
+[Devourer] has synergized and upgraded [Life Siphon]
+
+Upgrade Time: 120 hoursThe next two days were a lot more traveling rather than fighting, as Zax judged Noah’s level 400 path was sufficient justification to move on from the arachleon hunting grounds to the next region of Death Valley.
+
+It was toward the end of the second day that he found himself pausing, glancing at the side crevice that intersected their path.
+
+Aurelia kept going, while Zax turned back to Noah.
+
+“What’s in there?” Noah took a step toward the dark opening in the side of the cliff. A wall of power flowed from it, mana so dense it physically repelled his approach. Just standing this close was making him feel dizzy and nauseous, but he was equally drawn toward it.
+
+“Mana crystals,” Zax replied. “They form at certain conjunction points throughout the valley, but they are of a peculiar grade that is practically useless. They are too strong to be used safely by those below level 800 or so, but also fully reliant on the atmosphere of this valley to hold their shape. If you take them to anywhere with a lower mana density, they’ll simply crumble and release their power uselessly into the air.”
+
+“I’ve held an A-Grade mana crystal before. I have one with me now. It never made me feel like this.”
+
+“A single piece wouldn’t harm you, even of this variant. Wait here.” Zax strode into the cave.
+
+Noah backed away to a safe distance until he no longer felt like his body was trying to violently invert itself.
+
+When the dragon returned, he held out a large lump of crystal to Noah, who instinctively shied away. “It won’t hurt you. The seal is fragile compared to commercial mana crystals, but it is not so weak that someone like you could break it.”
+
+Noah reluctantly accepted the crystal and held it up to examine, surprised to find that Zax was right. He didn’t feel anything from it, as though it were just another item. It was much larger than he was used to from magic crystals, roughly petal-shaped and big enough to use as a plate, but thick and rippled as if melted.
+
+Mana Crystal (Fragile, A-Rank): Solidified mana suitable for most uses within a zone of appropriate strength. Cannot be sustained at mana densities of B-Rank or below.
+
+“So if this is just a normal, weird-looking crystal, why is that place so… disturbing?”
+
+Zax chuckled. “How much do you know about mana crystal mining?”
+
+“Nothing, I suppose. I think I assumed they grew in caves like stalactites.” He’d always envisioned something like a sunburst of magical quartz growing in clusters, but perhaps that was from playing one too many generic video games over the years.
+
+“Not quite. They do grow, blossom from a single point and consume all in their path, which sometimes means they drive points out into caverns from above or below. But where tamed mana crystal mines are regularly pruned to prevent them growing too dispersed, wild ones can often go for generations without being touched.” He reached out and touched Noah’s shoulder. “Shift into your dragon form and follow. We can protect you from the radiance for a time so long as you stay with us. Do not be lured by its promises.”
+
+Noah shifted, heart suddenly speeding up in excitement. He’d been curious already, but now he couldn’t wait to see what this wild mana crystal formation looked like.
+
+Zax’s presence pressed out in front of them in a wall just as tangible as the crystals’, enough that Noah felt confident if he’d been trapped between the two forces he’d have been crushed and suffocated by aura alone. He was suddenly very grateful Zax was an ally rather than an adversary.
+
+They walked side by side at a casual pace, Noah focused on breathing calmly while Zax seemed unbothered by any of it. The tunnel didn’t look like anything special at its entrance, if anything it was more shadowed than the area outside and even his dragon’s eyes struggled to pierce the gloom.
+
+Then they turned a corner and Noah stopped dead still, a wall of purple light filling his vision.
+
+An insanely complex mass filled the cavern from top to bottom and end to end, tangled white translucent crystal veined with liquid purple, organic power made solid. And this was a sizeable cavern, easily forty or fifty feet in height and twice that in length, yet the raw mana filled a good half of the space. Or perhaps more, since he couldn’t see past the crystal wall to know whether the cavern opened up or stayed the same.
+
+The edges of the mana crystal were curved and scalloped like thick petals or blown glassware, layered around and around each other in twisting spirals. The light constantly shifted and flowed, sending ripples across them and the cavern like the reflections beneath a lavender ocean.
+
+The whole thing was unbelievably complex. Every time he started to wrap his head around one section, the one beside it was different again, but the more he looked he gradually began to understand the flow of it despite how many different shapes it evoked. Coral, roots, petals, mushrooms…any of those descriptions could be applied to some part of it, but the whole escaped categorization.
+
+It was beautiful and it was terrifying, and Noah wanted to know everything about it. He could have stared at it for days, it was like the most elaborate art installation he’d ever seen. “And this all grows naturally?”
+
+Zax nodded.
+
+For a time neither spoke while Noah took it in, letting the purple light play across his face and cast his shadow onto the wall behind him.
+
+Then, “There.” Noah pointed to one wall where a coiled crystal pressed up against the stone and then into it and out of sight, blending smoothly with the rock it grew into, almost like a grapevine burrowing into the stone to expand out in a new direction. “That’s a sprout. Right?”
+
+Zax smiled.
+
+Noah searched the wall with more curiosity, searching for the next stage. “Then it grows out around it in layers.” He pointed to the ceiling. “Like there.”
+
+That section was only about the size of an office chair, almost cabbage-shaped with petals both tight in to protect the core and flared out to spread as far as possible.
+
+“Can I touch it?”
+
+“Carefully.” Zax walked him closer, keeping a hand on Noah’s scaled shoulder and his aura tightly controlled.
+
+Noah reached out to the nearest crystal petal, a curved section big enough to use as a bed. He hesitated briefly, then ran a finger along its edge.
+
+The contact burned and the light within the construction rippled in response, purple separating into reds and blues and the white of the surrounding crystal darkening to grey.
+
+“What was that?” Noah yanked his hand away. His transformation had been dissolved. His human hand looked very small and flimsy at the end of a draconic arm.
+
+[Greater Mana Mastery] has increased to 25! Rank increased to Advanced.
+
+“That was two levels.” Noah stared blankly. “I was two levels away.” He stared at his hand, then back at the crystal. “What?”
+
+“You have been neglecting your mana strengthening.”
+
+“I’ve been a little busy.” And, honestly, he’d long ago lost track of how many abilities and skills he actually had. Teleporting, cloning, healing, and summoning seemed to be plenty of options in most situations, especially when combined with his infernal aura and Void Annihilation.
+
+The whole wall of molten crystal faded back to standard hue as soon as he was no longer touching it, and now he wasn’t distracted by the stinging burn the transformation highlighted the intricate detail within the mass. If he were smaller, he could probably have crawled through the curves and loops and gotten lost within the internal ecosystem of the thing. The more he looked at it, the more it reminded him of some ancient deep-sea sponge creature made of milky glass.
+
+“There are always excuses to do less.” Zax’s voice remained mild, but Noah felt judged anyway.
+
+“I’m not making excuses.” Noah tried to shift his hand back into draconic form, but whatever aura had suppressed his transformation lingered on his fingertips and prevented the change from taking effect. “How do I undo this?”
+
+“Leave the crystal’s range. Its influence will fade.”
+
+Noah hesitated. The ripples and flow of the raw mana crystals were mesmerising. He felt almost enlightened just staring into it, following the strata with his eyes. He wanted to run a hand across it again, but he’d already risked enough. He had to remind himself this was an entity exponentially more powerful than him, even if only a non-sapient manifestation of raw magical power.
+
+Still, even looking without touching, the phenomenon was fascinating.
+
+“Or you can stay as long as you wish,” Zax said, a note of amusement in his voice. “We are in no hurry.”

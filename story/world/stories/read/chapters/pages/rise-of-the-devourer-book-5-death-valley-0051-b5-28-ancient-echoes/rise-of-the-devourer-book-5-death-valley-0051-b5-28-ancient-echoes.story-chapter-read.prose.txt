@@ -1,0 +1,149 @@
+Noah was getting very tired of those shadow-phasing arachleons. They were just big enough and fast enough to require him to pay at least a little attention, without being actually dangerous enough to take the fight seriously. The main thing they had going for them was their numbers and the ability to retain their memory of his tricks between respawns.
+
+Which… yeah, some part of him couldn’t help but giggle at that. He was grinding a dungeon against respawning enemies who gradually adapted to his abilities, what more could he ask for? They were high enough level to give him decent experience while not being so high level that they required Zax to step in. It should be perfect for his purposes, right?
+
+But in practice, they were so annoying. Their ability to phase in and out was quickly becoming a pain in Noah’s tail. The first few days, he’d still been able to catch them with Void Annihilation, but by the fifth time they respawned and came back to try and drive him out of their caverns, they coordinated and evaded no matter how fast he teleported after them or how many spectres he set on them.
+
+They’d learned not to allow him to engage on his terms, and thus engaged in evasive hit and run tactics that turned what should have been a straightforward fight into an all-day protracted affair. More often than not, his eventual victory left Noah more frustrated than satisfied at the end, despite how much of a workout it was for his skills.
+
+So it was a pleasant surprise when he returned to their camp that evening and noticed a stack of slender books beside Aurelia’s bedroll. He immediately forgot any frustration as excitement took over. “You found ability tomes? Where?”
+
+Aurelia looked confused by the assertion. She followed his gaze to the books, then her eyes widened. “I didn’t. I don’t know where they came from.”
+
+Noah glanced at Zax, but the dragon was sitting and pointedly ignoring them as he carved an increasingly intricate pattern into a stone with one fingernail. “I suppose we may never know.”
+
+Zax continued ignoring him.
+
+“Mind if I…?” Noah waved at the stack.
+
+Aurelia shook her head. “Go ahead.”
+
+Noah picked them up and scanned each to identify its properties. The results were shocking enough he very nearly dropped them.
+
+[Tome of Kinesis (Ancient)]: Unlocks a Kinetic-based ability.
+
+[Tome of Echoes (Ancient)]: Unlocks an Echo ability.
+
+[Tome of Spiritlink (Ancient)]: Unlocks the Spiritlink ability upon use.
+
+“Aurelia, these are…” Noah could barely speak. He’d only seen a single Ancient tome in his life. To find three just lying here like that? He glanced at Zax again, no longer in doubt. The dragon had to have something to do with it. But, just as obviously, he didn’t want to admit it. Noah shook his head and handed them to her one at a time, reading off the descriptions to her as he did. “Have you ever heard of anything like these before?”
+
+She slowly shook her head, looking oddly uncertain. She both held the books too tightly and simultaneously looked like she wanted to set them aside and walk away. “You think I should really take these?”
+
+“What else are we going to do with them? You have a whole path open that you need abilities for, well…” Noah nodded at the books in her hands. “It’s pretty much providential.”
+
+Aurelia nodded reluctantly and touched the first tome. It disappeared into sparkles of light that flowed into her chest as she absorbed the ability. Then she frowned in confusion.
+
+“What is it?” Noah asked.
+
+“Stormhold? I don’t understand what that has to do with kinesis.”
+
+“It doesn’t have any more of a description?”
+
+She shook her head. “Just the name. I guess things gave less information when they’re from before the Astral Script.”
+
+“I’m sure you can evolve it to something amazing when you reach A-Rank.”
+
+“If I reach A-Rank,” Aurelia muttered, but before Noah could comment, she held up the second tome. “Number two. This is so much easier than doing the whole ritual, your interface is so convenient.”
+
+“Hopefully this one will be well suited to fighting spider-lion monsters.”
+
+Aurelia swatted him. “These are just the warmup. We’ll need a lot better once we move further in.” The second book disappeared into a wave of ripples in the air before funnelling into Aurelia. “Echosight. I already have Firesight, I wonder what the difference is.”
+
+“Probably something to do with vibration. Having echolocation and heat vision sounds pretty cool,” Noah said a bit wistfully.
+
+“Don’t you have your void hunter’s eyes of ultimate truth already?”
+
+“Yeah, I can perceive everything around me for a long distance, but it’s more like just knowing. I bet yours looks cooler.”
+
+Aurelia shook her head at him and picked up the third tome. “Spiritlink, a specific named ability. Maybe that’ll give me more of a—” her eyes widened and she gasped as the tome dissolved into her hand. “Combat advantage,” she finished in hushed awe.
+
+“What? What is it?”
+
+“I… I think it lets me…” she shook her head. “Can you try using one of your attacks on me?”
+
+Now it was Noah’s turn to look shocked. “Aurelia, these aren’t casual—”
+
+“Just do it!” she interrupted excitedly. “I want to see what happens.”
+
+Noah hesitated.
+
+Aurelia rolled her eyes and a golden dome sprang up around her. “There, properly shielded in case something goes wrong. Satisfied?”
+
+Noah looked through his abilities list for anything he could use safely, and settled on Predator’s Mark. It would decrease Aurelia’s stats, but not do any real damage.
+
+[Predator’s Mark] is being contested.
+
+Noah blinked as the mana draw suddenly increased sharply. If he wanted to follow through on the ability usage, it would be significantly more expensive than usual. “Doesn’t this usually say negated or resisted? Have you ever seen a contested ability before?”
+
+Aurelia smiled innocently. The draw on his mana increased again.
+
+Noah shook his head and released the attempt. “That’s a pretty strange ability, but if you can force enemies to increase their mana—”
+
+You’ve been inflicted with [Predator’s Mark].
+
+[Draconian Aura] negates [Predator’s Mark].
+
+Aurelia was straight up laughing now. “Try again.”
+
+He did so, and found the ability unavailable. It remained in his list, but greyed out. “That’s… Aurelia, this is amazing. If you can lock enemy abilities fully? Wow.”
+
+You’ve been inflicted with [Predator’s Mark].
+
+[Draconian Aura] negates [Predator’s Mark].
+
+Aurelia couldn’t stop giggling as she spammed him with his own ability.
+
+You’ve been inflicted with [Predator’s Mark].
+
+[Draconian Aura] negates [Predator’s Mark].
+
+You’ve been inflicted with [Predator’s Mark].
+
+[Draconian Aura] negates [Predator’s Mark].
+
+“Okay, I get the point.” He tugged on the ability harder, trying to force it to activate or return to him. It took nearly ten times as much mana as activating the ability normally, but he was able to overwhelm her link and return it to his own list.
+
+Aurelia pouted, then perked up. “Try one of the other ones!”
+
+“I’ll do you one better.” Noah split into a half dozen Arcane Spectres. “We’ll try all of them.”
+
+They spent the rest of the evening testing Aurelia’s new abilities extensively, as well as the interactions with all of Noah’s. This resulted in a few interesting combinations. When she stole an ability from a copy, the original Noah didn’t lose access to it, only the spectres collectively. When she took Abyssal Inferno, it added a dark hellfire component to all her flame-based attacks or shields, while also giving her a truly intimidating shadow aura that only served to accentuate the golden-red light of her flames.
+
+In order to steal an ability with Spiritlink, she needed to be within aura reach of the ability’s tangible effect. She couldn’t steal Truth Sight because it was internal to Noah, not something that extended beyond his own body. She also couldn’t steal abilities at Elite level. When she tried to contest Void Annihilation, Noah didn’t even receive a notification. His mana draw increased by a minuscule amount for a split second, then went back to normal.
+
+Spiritlink maintained a passive draw on Aurelia’s mana as long as she had an ability locked with it, and that draw increased when Noah tried to take the abilities back. It turned into a sort of magical tug-of-war between the two of them, and whichever one of them gave in first would lose control of the ability they were fighting over.
+
+Alternatively, Noah could simply grant her an ability without contesting it, in which case the mana draw was significantly lower. It seemed the baseline cost for her to maintain the link was based on the amount of power he put into resisting it in the first place.
+
+It didn’t work on his race abilities. As much as he’d have loved to see how Aurelia looked with dragon wings, those transformations were unreachable.
+
+She could theoretically hold any amount of abilities, but in practice any more than one was a strain and past three she started to lose hold of them even if Noah wasn’t trying to reclaim them. They once got it to six with Bun Bun offering his Elemental Body and Celestial Aegis, Noah’s Abyssal Inferno, Predator’s Mark, Bloodwyrm Swarm, and Runeforged Armaments, but that lasted less than two seconds before she ran through all her mana and passed out.
+
+Once she recovered from that test, they spent another several hours testing Echosight and Stormhold. These were much more straightforward abilities, not as many options to choose from as Spiritlink, but turned out to be more nuanced than she’d originally expected.
+
+Stormhold was basically wrapping someone in a personal miniature lightning storm and immobilizing them there. It could be used as a one-off, wrap someone up and cut off the draw, in which case it would last until they either physically broke out or the mana in the attack was expended.
+
+Noah’s resistances made it almost trivial to escape that one, so figuring out its limits were a bit trickier.
+
+The sustained version was where the ‘kinetic’ element really shone. She could maintain control of the held person as though the lightning cloud was an extra fist, lift them, throw them, drop them, or crush them at will. The further away her cloud went from her, the more mana it required and the harder it was to maintain full strength and focus, but with a bit more practice Noah was confident she’d be able to really disrupt a battlefield with that.
+
+Echosight had nothing to do with echoes or vibration, and it took them considerable testing to figure out anything it did at all.
+
+“Everyone turned blurry,” was Aurelia’s initial report. “Only the people, though, the ground and walls look the same.”
+
+Noah tried moving quietly or loudly, but no amount of sound triggered anything beyond the reported ‘blur’ effect. Attacks didn’t do anything either. Combining it with other abilities changed nothing.
+
+It was only when they gave up for the night and decided to head out for another quick sweep of the place to clear out any more of the respawning enemies before sleeping that she started. “Oh! Noah, you’ve turned blue.”
+
+Noah looked down at himself. He was still in his human form, black clothing, nothing that could be called blue. “Am I?”
+
+Aurelia nodded. “Still blurry, but now you’re a blue blur.”
+
+“Well. That’s… interesting.”
+
+They waited another few minutes, but nothing further happened. Once Noah got tired of Aurelia walking around him muttering, he continued out to the ledges. Four different arachleon families lived around here, though so far the darkstalker and cliffhanger types were the clear majority. He preferred the burrowers, they didn’t have any annoying powers and just dug through stone to get to you. Nice and straightforward, easy to punch in the face and have done with.
+
+Today, he encountered only darkstalkers, though they did set an ambush and forced him into dragon form before he finished them off. Their hit-and-phase tactics made him just as irritated as before, and he had to remind himself the levels were worth it.
+
+Even if it was repetitive at times, they were still leveling at an unprecedented pace.

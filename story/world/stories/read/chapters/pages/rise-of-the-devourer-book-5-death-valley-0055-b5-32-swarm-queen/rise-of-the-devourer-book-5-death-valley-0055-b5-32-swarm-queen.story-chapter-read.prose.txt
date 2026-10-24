@@ -1,0 +1,261 @@
+Running through Death Valley's tunnels while being chased by several hundred insects was, Noah decided, one of his least favorite experiences.
+
+The Corpse Flies' psychic drone washed over him in waves, each pulse making his limbs feel heavier, his thoughts more sluggish.
+
+He had to keep casting Wyrm’s Feast as the stacks grew to dangerous levels. Even with his General Infliction Resistance reducing their strength, there were so many of them and they stacked up very quickly.
+
+Wyrm’s Feast has consumed [Exhaustion IV]
+
+Wyrm’s Feast has consumed [Lethargy IV]
+
+A wave of destructive power pulsed out in response, his newly-upgraded ability felling the nearest cluster of insects in a heartbeat, but it barely seemed to make a difference. A hundred Hive Wasps fell to the ground and were replaced by a hundred more swarming in from their slow-moving Queen. Their stingers gleamed with venom, and Noah had no desire to find out what it felt like firsthand. The monsters in these outer reaches of the Valley may be only common and uncommon, but a level 500 acid would be well beyond what his intermediate resistance could handle.
+
+Bun Bun ran beside him, occasionally turning to breathe fire and lightning at the closest pursuers. That bought them seconds, but the swarm was too large to meaningfully thin.
+
+A cluster of wasps dove at Noah from the left. He cut three from the air with his Runeforged blade, but a fourth slipped past his guard.
+
+Tony intercepts! Tony shifted across Noah's shoulder, hardening into an angled plate that deflected the wasp's stinger. Tony will protect Noah!
+
+The wasp bounced off Tony's armor and into the wall, where Bun Bun pounced on it, then blasted another thirty out of the air with a sparking tornado of ice and lightning that paralyzed the insects and shredded their wings.
+
+Then fire erupted ahead of them.
+
+Aurelia burst from a side tunnel, wreathed in flames. "Found you!" she shouted, pausing for a second when she saw the sheer chaos behind them. "What did you do, kick a hive?"
+
+"No! But there’s nothing wrong with us kicking a hive!" Noah skidded to a halt beside her. “You okay?”
+
+“I’m good. What’ve you brought?”
+
+Noah turned to face the swarm. "Queen's constantly spawning reinforcements. We need to kill her to stop this."
+
+"So we target her first."
+
+“Sounds solid,” Noah replied. He shifted to dragon form as the swarm arrived.
+
+Dragon Fear rolled outward and a portion of the swarm faltered. Locusts veered off course, wasps hesitated in their dives. It wasn't enough to stop them, but it bought a few seconds.
+
+Aurelia exploded forward, flames erupting from her entire body in a corona of destruction. Golden fire turned insects to ash with every swing of her weapon. Aurelia had AoE for days, and boy was she a perfect counter for these monsters.
+
+Your party has killed [Blight Locust] x8
+
+Your party has killed [Bone-Borer Wasp] x14
+
+Your party has killed [Corpse Fly] x3
+
+"I'll hold them!" she shouted, carving another fiery arc through the swarm. "Get to the Queen!"
+
+Noah launched himself forward, his own Abyssal Inferno scorching the few who’d survived Aurelia’s attacks, Bun Bun racing along the ground beneath him.
+
+The Corpse Flies closed ranks to intercept, their psychic drone intensifying.
+
+Wyrm’s Feast has consumed [Exhaustion VII]
+
+Wyrm’s Feast has consumed [Lethargy VII]
+
+Noah’s retaliatory damage burst carved through the Corpse Fly cluster. The dying flies exploded in bursts of necrotic plague, but Wyrm’s Feast eagerly consumed that too, turning their attack into healing and strengthening for Noah instead.
+
+You have killed [Corpse Fly] x12
+
+Then he was too close for anything but movement. He dove straight into the wall of insects, trusting Abyssal Inferno and his allies to get him through, focusing on nothing but forward motion and cleansing debuffs every time the lethargy stacked up to dangerous levels.
+
+Bun Bun is helping! Bun Bun announced proudly and leaped from below, breathing fire and lightning into the swarm. Bun Bun is very good at zapping bugs!
+
+But a few of the wasps were strong enough to survive the twin onslaughts, just long enough to stab the gaps between Noah’s scales, driving into his leg and thigh.
+
+You’ve been inflicted with [Bone-Bane Venom XII]
+
+Greater Elemental Resistance has reduced the effect. Wyrmblood has reduced the effect.
+
+[Bone-Bane Venom XII] → [Bone-Bane Venom X]
+
+Noah’s infernal aura turned the wasps into crunchy crisps a moment later, but the damage was done. He could feel his hip joint loosening, the venom eating away at bone itself. Every movement sent spikes of agony through his right side.
+
+He was running low on mana from how often he was needing to use Wyrm’s Feast, but that didn’t stop him using it again.
+
+Wyrm’s Feast has weakened [Bone-Bane Venom]
+
+[Bone-Bane Venom X] → [Bone-Bane Venom IX]
+
+Health Regeneration increased.
+
+Even if his health could hold up, he needed to be making more progress, and the sheer bulk of monsters in his way was making forward momentum impossible.
+
+"AURELIA! Clear me a path!"
+
+Aurelia's flames intensified, turning into white-hot fury that turned the air itself into a weapon. A burning corridor opened through the swarm, insects vaporizing in Aurelia's wake.
+
+Your party has killed [Blight Locust] x31
+
+Your party has killed [Bone-Borer Wasp] x22
+
+Your party has killed [Corpse Fly] x7
+
+Noah flew through the gap, every wingbeat sending pain through his damaged hip. Bun Bun bounded along beneath him, acid dripping from his jaws as he finished off anything that tried to close the corridor behind them.
+
+The Queen loomed ahead, her eyes tracking Noah's approach. She recognized the threat. Her abdomen pulsed, and she began emergency spawning—fully formed Elite Wasps with concentrated venom, Bomber Flies with self-explanatory names.
+
+Noah ignored the newborns and triggered Arcane Step. He had one target.
+
+He reappeared directly in the Queen's face, close enough to see his draconic reflection in her eyes, close enough to smell the rot and pheromones that surrounded her.
+
+His blade drove forward, slicing deep into her body with the momentum.
+
+[Wyrm’s Curse] applied to [Swarm Queen]
+
+[Spear of Crimson End] has inflicted [Crimson Rot-IV] on [Swarm Queen]
+
+[Spear of Crimson End] has applied [Bleed-IV] to [Swarm Queen]
+
+The Queen screamed.
+
+You have heard the Swarm Queen’s Scream.
+
+The psychic assault slammed into Noah's mind, whiting out his vision. Every insect in the swarm staggered as the connection to their mother was disrupted by her agony.
+
+But she wasn't dead yet. The Queen's mandibles clamped around Noah's torso, lifting him off his feet. Even through his Dragon Scales and Tony's armor, he felt the crushing pressure. Tony's armor cracked. Noah felt ribs give way beneath the squeeze. He couldn't breathe. Couldn't move. The Queen's eyes blazed with dying fury, and she began to squeeze harder.
+
+But Noah didn’t need to see to teleport. He triggered Arcane Step and slipped through her grip, reappearing back behind Aurelia. He flopped to the ground, coughing and gasping for air, white still spotting his vision as the psychic scream went on and on, but he was safely out of her reach.
+
+Bun Bun let out an enraged shriek and launched himself at the Queen's face, breathing fire directly into her eyes.
+
+The monstrous dying insect queen shrieked and shook her head, trying to dislodge the tiny predator clawing at her face. Bun Bun kept attacking, biting and clawing at any part of the Queen he could reach, his Acidic Bite adding to the damage.
+
+Your party has killed [Swarm Queen (Uncommon) - lvl 589]!
+
+Bun Bun has reached level 323!
+
+The Queen's body shuddered a final time and sank to the ground in a lifeless heap. Bun Bun landed beside it triumphantly, scales splattered with ichor and looking rather battered, but undeterred.
+
+Around them, the swarm fell apart. Without their Queen, the insects scattered. The wasps and locusts fled into the tunnels, their synchronized flight patterns dissolving into chaos, and the Corpse Flies began feeding on their own dead.
+
+Aurelia appeared at Noah's side moments later, her flames dying down as she took in his condition. Her face went pale beneath the ash and ichor. "Noah. Noah, can you hear me?"
+
+"Yeah," he croaked, waving off her concern as he struggled to sit up. He winced at the sharp pain through his ribs and weakness in his right leg. He was healing rapidly, but the queen’s sheer physical strength had left him with more than bruises and the venom had been more damaging than he realized at first. "That could have gone better."
+
+Bun Bun also helped, Bun Bun added. Big bugs are harder to squish but Bun Bun is persistent!
+
+"Can you walk?" Aurelia asked.
+
+Noah tried to stand and immediately regretted it. The bone-dissolving venom had done significant damage and it wasn’t done.
+
+Wyrm’s Feast has weakened [Bone-Bane Venom]
+
+[Bone-Bane Venom IX] → [Bone-Bane Venom VIII]
+
+He didn’t have enough mana left to cast it again yet and his resistances weren’t up to the task of stopping it. "Define 'walk.'"
+
+Aurelia sighed and pulled his arm over her shoulders, taking his weight. Noah felt her aura wash over him, gentle and warm, making him much more soothed and relaxed. "Come on," Aurelia said, adjusting her grip. "Let's find somewhere to rest before anything else decides to attack us."
+
+Noah let Aurelia half-carry him toward a defensible side tunnel, Bun Bun bouncing along beside them and occasionally breathing fire at any insect that looked at them funny.
+
+Behind them, the cavern continued its descent into chaos—insects eating insects, the Queen's corpse already beginning to dissolve, Carrion Beetles emerging from cracks in the walls to feast on the bounty of death.
+
+Death Valley was trying to kill them, sure. It would have to try harder than that. Well, then again, on second thought, that definitely sounded like he was jinxing things. At the current rate, he’d be spending the next half hour in a war of attrition with this nasty wasp venom before he could even think about using his mana for anything but recovery.
+
+Noah glanced at Aurelia, ash in her hair and concern in her eyes, and the warmth of her shoulder against his. Something that had nothing to do with combat settled in his chest.
+
+"Thanks," he said quietly. "You really saved us by coming when you did."
+
+She looked at him, something flickering in her expression. "I'll always come for you, Noah. Don't you know that by now?"
+
+He didn't have an answer for that. But the warmth in his chest spread a little further.
+
+Bun Bun made a gagging noise. Bun Bun did not survive the Queen for this. Bun Bun demands they stop being strange and focus on finding Bun Bun some boots.
+
+“He says we need to stop being strange and find him boots,” Noah translated with a smile.
+
+Aurelia laughed, a surprised, bright sound that echoed off the tunnel walls.
+
+Noah let himself be carried toward safety, his ridiculous familiar bouncing along beside them, and the woman he was definitely, absolutely, completely falling for holding him upright.
+
+They found a defensible alcove a few hundred meters from the Queen’s nest, a natural formation with only one entrance and decent sight lines. The stone walls were smooth, worn by water that had stopped flowing centuries ago, and the ceiling was high enough that they wouldn’t feel claustrophobic.
+
+Aurelia set Noah down against the wall as gently as she could manage, which wasn’t very gentle given that she was still running on combat adrenaline. Good thing he couldn’t feel any of it past the pain resistance.
+
+“Let me see,” Aurelia said, crouching beside him to examine the damage.
+
+His hip was bad, worse than he’d thought during the fight. The wasp venom had eaten a hole the size of his fist through the muscle and tissue, exposing bone through the wound. The bone itself was pitted and discolored, partially dissolved by the acid. The only reason he still had a leg at all was due to Dragon’s Heart and his body healing at insane speeds, and even now the lingering acid fought to dissolve more of him even as he healed behind it.
+
+She sat back on her heels, her expression troubled. “I’ve seen a lot of wounds, Noah. This is bad. I’m surprised you aren’t screaming your guts out.” Noah just raised an eyebrow at her words, making her smile wryly.  “True, you screaming would be rather uncharacteristic after all the pain you’ve been through.”
+
+He shrugged, settling back as he let his symbiote labor to repair the damage. Tiny tendrils of flesh wove through the wound, breaking down the remaining venom, laying the foundation for regeneration so that Dragon’s Heart could speed up even further. “It’ll only be a few hours, maybe before I’ll be mobile.”
+
+“Mobile, he says.” Aurelia’s voice carried an edge that Noah rarely heard from her—genuine worry bleeding through her usual composure. “That fight was too close. If I hadn’t shown up when I did—”
+
+“But you did.”
+
+“What if I hadn’t? What if I was fifty meters further away, or fighting something I couldn’t break off from?”
+
+“Then I’d have kept coming toward you until we met up. I couldn’t have won without you, but if I’d been trying to get away they couldn’t stop me.” He gestured at the tunnels around them. “This is only a couple meters down, I could Arcane Step to the surface and they’d have to spend minutes going around through the tunnels before they could catch me, even if they knew where to look.”
+
+She shook her head, flames flickering briefly in her hair before she suppressed them. “We got lucky, Noah.” But some of the tension left her shoulders at his explanation. She pulled a waterskin from her pack and offered it to him.
+
+Noah drank gratefully. His throat was raw and his body was crying out for hydration to fuel the regeneration. “How are you doing?” he asked when he’d had his fill. “You burned a lot fighting through that swarm.”
+
+Aurelia shrugged, but he could see the tiredness in her eyes. “I’ll live. My flames are running low, but they’ll recover. I’ll be fine in a few minutes, unlike some people.”
+
+Noah rolled his eyes and pulled up his status, reviewing the damage and the gains while his body slowly knit itself back together.
+
+Wyrmblood Guardian has reached level 405.
+
+Runebody Arcanist has reached level 376.
+
+Abyssal Predator has reached level 388.
+
+Greater Elemental Resistance has reached level 15.
+
+Noah leaned his head back against the stone, staring at the dark ceiling. “This place is insane. The growth rate is insane. My levels are only now starting to slow down.”
+
+“Welcome to training with a dragon in Death Valley.” Aurelia settled beside him, close enough that he could feel her warmth. Her flames had died down to embers now, banked low to conserve energy, but she still radiated the heat of a small furnace. “Zax did say it would be brutal.”
+
+Noah shook his head. “It doesn’t feel like we’ve reached anything properly dangerous yet.”
+
+Aurelia snorted and raised an eyebrow. “Nothing dangerous? I can practically see the floor through your thigh.”
+
+“They hit hard but die just as fast.” Noah shrugged.
+
+“If there’d been more wasps instead of mainly locusts, what would you have done?”
+
+He hesitated. “Probably gotten myself injured more severely.”
+
+“That’s one word for it.” She was quiet for a moment, staring into the darkness of the tunnel they’d come through. “You know, when I first met you, I thought you were going to get yourself killed within a week. Some idiot newbie who’d stumbled into something way over his head. I still don’t think much differently.”
+
+“Thanks for the vote of confidence.”
+
+“I’m serious.” She turned to look at him, her eyes reflecting the dim light of her ember-aura. “You were reckless even then. Throwing yourself at cultists, making deals with gods know what kinds of creatures, pushing forward no matter what stood in your way. It drove me crazy. Still does, since you’re just as reckless now.”
+
+Noah didn’t have a ready retort. Aurelia did have a point. He’d gotten complacent. The deeper in they went, the less attrition would favor him, even with his insane regeneration rates.
+
+A moment later, Zax appeared, emerging from the shadows as though he’d been there all along. Knowing the dragon, he might have been. His human form showed no signs of exertion, a quiet satisfaction lingering in his eyes. “You found the nest.”
+
+“The nest found me,” Noah corrected.
+
+“Same thing.” Zax settled across from them, his gaze sweeping across the group. “A Swarm Queen is rare in the outer reaches. Most fail to survive long enough to reach that size. You did well to defeat her.”
+
+“Nearly didn’t,” Noah admitted.
+
+“Nearly is the space where growth happens.” Zax’s lips twitched. “You’re both adapting faster than we expected. We anticipated another week in the outer reaches, perhaps two, before you’d be ready to descend to the middle depths… But we believe you’re ready.”
+
+The middle depths. Where the real challenges waited. Noah looked towards his companions. Aurelia, Bun Bun, Tony… None of them seemed intimidated by the prospect of descending into the middle depths, which made Noah grin. “Today, hm? How are the shackles?”
+
+“It’ll progress faster, once we start fighting within the middle depths. We must give you all a word of caution. I’ll be more distracted there since I’ll be fighting too. If you are in danger, run. If you cannot run and are close to dying, make as much of a ruckus as possible. Scream my name, send a burst of fire into the sky, and I’ll be there as quickly as we can.”
+
+Noah chuckled. “Good thing we can use Aurelia as a flare. When shall we start going down?”
+
+“As soon as you’re both healed.”
+
+“So in a few hours,” Aurelia murmured.
+
+It still felt unreal, Noah realized. With how much of a routine they’d fallen into the past few weeks, fighting on and on, he’d come to view it as a more permanent state than it truly had been. But now it was time, after their weeks of preparation.
+
+Middle depths, Noah thought, here we come.
+
+Aurelia was quiet for a moment, not quite looking at Noah, then spoke softly. "Do you ever think about where this ends?"
+
+"How do you mean?"
+
+Aurelia's eyes looked almost golden through the light of her aura as she met his. "You've grown so fast, Noah. Faster than anyone I've ever seen. Back when we met, you'd just Awakened. Now you're B-Rank, with Legendary Paths and abilities that make experienced hunters seem amateur. Sometimes I wonder..." She trailed off, but Noah could guess what she was thinking.
+
+"Whether you can keep following me?" He'd wondered the same thing himself, in the quiet moments between training and near-death experiences.
+
+Aurelia didn't answer immediately. She pulled her knees up to her chest as the flames cast dancing shadows across her face. Then she reached out and put a hand on his shoulder, her warmth seeping through his armor. "I'll follow as far as I can. When I can't anymore... I'll make sure it was all worth it."
