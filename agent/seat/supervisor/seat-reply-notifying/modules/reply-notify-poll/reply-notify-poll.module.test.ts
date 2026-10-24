@@ -5,6 +5,7 @@ const COUPLE = {
   id: "01a16f1c-8e48-7000-b6a3-9aae18284763",
   slug: "couples-therapy-couples-therapist",
   role: "couples-therapist",
+  interactive: true,
   persons: ["alan", "jenny"],
 }
 
@@ -75,6 +76,14 @@ test("a reply the first beat found nothing before is still pushed", async () => 
 test("a seat answering to one person pushes nothing", async () => {
   const sent: Sent[] = []
   const poll = pollOver({ seat: { ...COUPLE, persons: ["alan"] }, replies: ["old", "new"], sent })
+  await poll.run()
+  await poll.run()
+  expect(sent).toEqual([])
+})
+
+test("a headless seat answering to several persons pushes nothing", async () => {
+  const sent: Sent[] = []
+  const poll = pollOver({ seat: { ...COUPLE, interactive: false }, replies: ["old", "new"], sent })
   await poll.run()
   await poll.run()
   expect(sent).toEqual([])

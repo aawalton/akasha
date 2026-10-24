@@ -6,6 +6,7 @@ import {
 } from "akasha/agent/seat/declaration/modules/seat-persons/seat-persons.module.code.ts"
 import { seatNameForAgent } from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
 import { workingOf } from "akasha/agent/seat/observation/seat-turn/modules/turn-working/turn-working.module.code.ts"
+import { AGENT_MODE_INTERACTIVE } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-seat-defaults/supervisor-seat-defaults.module.code.ts"
 import type { HeartbeatPoll } from "akasha/agent/seat/supervisor/supervisor-timer/modules/supervisor-heartbeat/supervisor-heartbeat.module.code.ts"
 import { notify } from "akasha/alan/harness/notification-feed/modules/notifying/notifying.module.code.ts"
 import type { NotifyInput } from "akasha/alan/harness/notification-feed/modules/rows/notification-feed-rows.module.code.ts"
@@ -24,6 +25,8 @@ const ROLE = "role"
 
 const PERSONS = "persons"
 
+const START_MODE = "startMode"
+
 const KIND = "seat-reply"
 
 const EXCERPT_LENGTH = 180
@@ -36,6 +39,7 @@ interface ReplySeat {
   readonly id: string
   readonly slug: string
   readonly role: string | null
+  readonly interactive: boolean
   readonly persons: readonly string[]
 }
 
@@ -44,11 +48,13 @@ function seatOf(agentId: string): ReplySeat | null {
   if (slug === null) return null
   const value = valuedAt(akashaRoot(), SEAT, slug).value
   const role = textAt(value, ROLE)
+  const startMode = textAt(value, START_MODE)
   const principal = principalStatedIn(value[PERSONS])
   return {
     id: agentId,
     slug,
     role: role === null ? null : slugOf(role),
+    interactive: startMode !== null && slugOf(startMode) === AGENT_MODE_INTERACTIVE,
     persons: principal === null ? [] : personsOf(principal),
   }
 }
@@ -125,7 +131,7 @@ export function replyNotifyPoll(args: {
         return
       }
       const seat = readSeat(agentId)
-      if (seat === null || seat.persons.length < SEVERAL) return
+      if (seat === null || !seat.interactive || seat.persons.length < SEVERAL) return
       if (seen === undefined) {
         seen = readReply(agentId)?.id ?? null
         return
