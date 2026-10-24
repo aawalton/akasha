@@ -1,0 +1,47 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const apocalypseRebornAsAMonsterBook2Completed = {
+  id: "01a16c3d-a3e9-75d7-abe5-c11abdeb6dd2",
+  type: "page-type/story-read",
+  slug: "apocalypse-reborn-as-a-monster-book-2-completed",
+  author: "DreamTickler",
+  following: false,
+  unit: "unit/words",
+  title: "Apocalypse: Reborn As A Monster (Book 2 Completed)",
+  world: "world/apocalypse-reborn-as-a-monster-book-2-completed",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "66453",
+      externalLink:
+        "https://www.royalroad.com/fiction/66453/apocalypse-reborn-as-a-monster-book-2-completed",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Reincarnation",
+    "Time Travel",
+    "Progression",
+    "Post Apocalyptic",
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Anti-Hero Lead",
+    "Cultivation",
+    "Dungeon Crawler",
+    "GameLit",
+    "High Fantasy",
+    "Kingdom Building",
+    "Magic",
+    "Male Lead",
+    "Non-Human Lead",
+    "Strategy",
+    "Strong Lead",
+    "War and Military",
+  ],
+  readLater: true,
+  createdAt: "2026-10-24T04:49:01.416Z",
+  updatedAt: "2026-10-24T04:49:01.416Z",
+} as const satisfies StoryRead
