@@ -1,4 +1,6 @@
 import {
+  LOOKING_ONLY,
+  looksOnly,
   SIGN_IN_PATH,
   signedInAs,
 } from "akasha/alan/harness/better-auth-rr/modules/google-auth-guard/google-auth-guard.module.code.ts"
@@ -27,6 +29,7 @@ export async function loader({ request }: { request: Request }) {
     const here = appMintingAt(challenge)
     throw redirect(`${SIGN_IN_PATH}?next=${encodeURIComponent(here)}`)
   }
+  if (await looksOnly(request)) throw new Response(LOOKING_ONLY, { status: 403 })
 
   const code = await handoverCodeFor({
     audience: APP_AUDIENCE,

@@ -1,4 +1,8 @@
-import { signedInAs } from "akasha/alan/harness/better-auth-rr/modules/google-auth-guard/google-auth-guard.module.code.ts"
+import {
+  LOOKING_ONLY,
+  looksOnly,
+  signedInAs,
+} from "akasha/alan/harness/better-auth-rr/modules/google-auth-guard/google-auth-guard.module.code.ts"
 import { handoverCodeFor } from "akasha/alan/harness/handover-rr/modules/handover-code/handover-code.module.code.ts"
 import {
   handoverLandingAt,
@@ -38,6 +42,7 @@ export async function loader({ request }: { request: Request }) {
     const here = mintingAt(name, back)
     throw redirect(`${SIGN_IN_PATH}?next=${encodeURIComponent(here)}`)
   }
+  if (await looksOnly(request)) throw new Response(LOOKING_ONLY, { status: 403 })
 
   const code = await handoverCodeFor({
     audience: peripheral.origin,
