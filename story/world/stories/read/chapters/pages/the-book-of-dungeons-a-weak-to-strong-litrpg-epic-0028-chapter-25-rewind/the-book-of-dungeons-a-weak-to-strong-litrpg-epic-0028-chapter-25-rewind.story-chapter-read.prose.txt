@@ -1,0 +1,199 @@
+Coming to, I lay facedown on the cool stone floor. Luckily, the vinegar that had once coated it miraculously disappeared, and its odor no longer permeated the atmosphere. I never thought I’d appreciate the smell of a dank, musty basement.
+
+I returned to my feet. Falling unconscious reminded me of passing out in the alcove. I searched the workshop floor for hints of where the vinegar went but saw nothing out of place.
+
+All my buffs disappeared, so I recast Heavenly Favor, Detect Stealth, and Detect Magic.
+
+The clock-thing wasn’t glowing magic anymore, but another glow emanated from something draped across a nearby table. I couldn’t understand how I’d missed it before. Had someone placed it here while I lay sleeping?
+
+I inspected it.
+
+Item
+
+Cassock of Rewind
+
+Rarity
+
+Rare (yellow)
+
+Description
+
+Level 24 cloth armor +20 armor +5 agility+10 willpowerItem use—Once per day, the wearer may reset one cooldown.
+
+So much for the cleared dungeon theory. Why would anyone leave this behind?
+
+A +20 bump in armor wasn’t a big deal, but it boosted my stats and bestowed a potentially game-breaking ability to reset one of my cooldowns. Resetting a power or item gave me incredible flexibility. I especially liked the robe because it wasn’t mutually exclusive to the padded armor I salvaged from Jimbo’s gear. I could wear it over or under my armor.
+
+In compliance with the universal principle of Finders Keepers, I changed into the cassock and admired my stat boosts. Agility helped my hit-and-dodge percentage. Willpower affected spell resistance. The ability to reset a cooldown made the robe something I didn’t expect to replace soon, if ever. The more powerful my spells and items became, the more pivotal the robe would become to combat.
+
+After donning the cassock, I cinched my Dark Room rope around it using my new iron clasp.
+
+I was beginning to like this dungeon. The open door beyond the pellet trap awaited—the only room I’d left unsearched. But did I need to investigate it? Without Mineral Communion, bypassing a trap required unnecessary recklessness, and I’d already found terrific loot. Why not quit while ahead?
+
+Then I remembered that this robe allowed me to reset Mineral Communion, making it unnecessary to leave the room unexplored.
+
+While I internally tallied the risk-reward benefits of bypassing a floor trap, a white shape moved in the corner of my vision. As I turned to look, stars filled my head.
+
+Something struck me.
+
+/Carrara Gargoyle hits you for 32 damage (5 resisted). /You are Dazed.
+
+It seemed a miracle that I hadn’t fallen unconscious for a third time. The blow confused me, forcing me to miss my opening attack.
+
+My interface showed a new debuff called Dazed, which immobilized me in a state of confusion for 5 seconds and rendered me susceptible to further hits. As I reeled from a concussion, I inadvertently ducked another incoming claw.
+
+Name
+
+Carrara Gargoyle
+
+Level
+
+8
+
+Difficulty
+
+Challenging (yellow)
+
+Health
+
+204/204
+
+The creature’s unnatural movement resembled that of a poorly animated character whose face had frozen in a state of dispassion. It fought with mechanical efficiency, its wings and limbs cleaving the air in strangely graceful arcs.
+
+Its hypnotic movements attested to its weight material. The membrane of its wings appeared like hard marble but wiggled like flesh. They flapped and folded naturally, yet the creature felt solid as stone when I connected my mace.
+
+/You hit Carrara Gargoyle for 26 damage (11 resisted).
+
+Inertia made the creature somewhat sluggish, making its attacks somewhat predictable.
+
+The gargoyle’s opening hit brought me down to 94/120 health. The extra 40 points from Heavenly Favor helped keep me alive. Even if it didn’t increase my ranks in light magic anymore, keeping the buff active as a habit had paid off.
+
+My new cassock and Black River Cudgel worked well against this opponent. I held back and used retreating maneuvers until my Dazed condition ended. Moments before my debuff wore off, the monster flexed its wings, hopped forward, and clobbered me again.
+
+/Carrara Gargoyle hits you for 29 damage (7 resisted). /You are Dazed.
+
+Before I could change my tactics, the gargoyle had knocked out half of my health.
+
+I backed away to avoid its claws. Drinking a health potion returned me to almost 100 percent health, but when the gargoyle pumped its wings, it lurched forward to deliver another attack.
+
+The suddenness of it rendered me unprepared to defend myself.
+
+/Carrara Gargoyle crits you for 72 damage (0 resisted).
+
+The critical hit dropped me to 43 points of health. Without healing, its next hit would bring me uncomfortably close to death. Getting knocked out by a monster wasn’t how I pictured myself losing The Great RPG Contest.
+
+I needed a different tactic.
+
+This creature’s resistance to physical attacks made me wonder if spells would work better. I cast Shocking Reach, but the spell only inflicted 5 damage. It should have been double-digits, so it seemed to have a high willpower—which seemed doubtful for such a mindless creature. Perhaps it possessed magic resistance. Either way, I wouldn’t last long enough to wear away its 200 health.
+
+However relentless, the gargoyle’s attacks all looked like the same maneuver. When it looked like it would swipe at me, I sidestepped its claws and clipped its wingtips.
+
+/You hit Carrara Gargoyle for 17 damage (2 resisted).
+
+That was a little better! The blow sent cracks through the thin marble wings, causing small pieces to shatter. If I could impair its movement, it wouldn’t be able to fly, hop, or maneuver around me. When it moved, I sidestepped and smacked its wings again with my mace.
+
+Its methodical elegance fell to a rhythm predictable enough that I could repeatedly use my ducking maneuver. The creature didn’t learn from its mistakes.
+
+/You hit Carrara Gargoyle for 18 damage (1 resisted)./Carrara Gargoyle misses you. /You crit Carrara Gargoyle for 40 damage (0 resisted)./Carrara Gargoyle misses you./You hit Carrara Gargoyle for 19 damage (1 resisted).
+
+After repeated blows, I broke off sections of its wings, causing the gargoyle to stagger. Its wild and high attacks swung over my head. The gargoyle needed wings for counterbalance, and every swipe caused the thing to reel backward.
+
+While its claws haphazardly swung at nothing, I encircled it and smashed an arm off.
+
+It staggered to the stairwell and fell prone on its back, kicking its arm and legs like an upended beetle.
+
+I broke the rest of it into bits.
+
+The fight exemplified the value of real-time combat. The attack tempted me to open my interface and give myself time to think, but it would have broken the flow of events. When I first paused the game, I expected the time-freezing feature to turn combat into a series of stops and starts, calculating every move. But controlling one’s body doesn’t work that way.
+
+Having time to think was valuable, but I wouldn’t have noticed the gargoyle’s rhythm or how its wings moved. The answers weren’t always going to wait for me in a frozen stasis. Sometimes, I needed to play out events naturally.
+
+Before I could Rest and Mend or loot the monster, an odd moment of déjà vu hit me. I looked at the white rubble, then the plinth from where the gargoyle had flown. Before I could put these thoughts in order, a mass of vegetation peeled off the side of the giant copper drum above me. I didn’t see it earlier because its mottled texture camouflaged it against the drum’s green verdigris.
+
+I could only complain to an unfair universe as a green shape fell over my head. “Oh, come on!”
+
+Name
+
+Green Slime
+
+Level
+
+6
+
+Difficulty
+
+Easy (green)
+
+Health
+
+143/143
+
+/Green slime hits you for 21 damage (4 resisted).
+
+My skin and hair sizzled as I threw up my interface and slowed time to a crawl. After listing the virtues of facing dangers as they transpired in real time, I couldn’t deny that pausing the game gave me a crucial feature in times like these.
+
+With my health around 15 percent, I needed to pull off a miracle, but I didn’t have an available power point to spend. Spending it on Mineral Empathy had found this dungeon, but it had also put me into a position where I couldn’t pull deus ex machinas out of thin air.
+
+The interface showed me being only 9 experience points away from level 6.
+
+If I had a fire spell, the traditional counter to green slimes, the pain from the acid would interrupt casting it. The sensations on my lips and cheeks hinted that the monster might smother me before it reduced me to jelly. Suffocated and Silenced debuffs prevented me from uttering magic incantations.
+
+My health dropped to 16/140, and no lifesaver appeared on the horizon. I could use my new robe to refresh the cooldown of my health potion, but would the game allow me to drink a potion with a slime covering my face?
+
+Severing myself from these panicked events helped me assess the situation. From where had that gargoyle come? The alcove had been empty when I entered—had something summoned it?
+
+All these thoughts wouldn’t be possible without the interface’s time dilation. Freezing time with the interface gave me time to think and retrace my steps.
+
+Retracing my steps seemed to be another clue to the puzzle. The idea struck me as odd, but I couldn’t figure out why.
+
+Something about this dungeon felt all wrong. And why did looking at the rubble of the gargoyle cause déjà vu?
+
+At last, realization dawned on my addled brain—it had been the same gargoyle.
+
+The dungeon somehow reset itself when I reversed the clock. Flipping the switch must have tripped a time-rewind rune in the mechanism. Perhaps that’s what caused me to pass out.
+
+I’d lost another point of health but knew what to do. I readied my muscles and closed my interface.
+
+When the flow of time returned, my face burned as I swung my cudgel upwards, crashing it into the copper vat suspended from the ceiling. The spigot, weakened by years of corrosion, burst, spilling a torrent of vinegar on top of me. My skin sizzled as the cataract of spoiled wine drenched me. I lost another 10 points of health as the liquid washed away the slime.
+
+I choked and coughed as my lungs burned, and my new robe drank up the fluid like a sponge—weighing me down. My nose stung, and tears blurred my vision, but I survived. The red aura framing my peripheral vision disappeared as a cue that combat had ended.
+
+The slime was no more.
+
+Collapsing on the stairs, I appreciated the risks of doing a dungeon alone, especially at my level. Soloists couldn’t anticipate every danger, with monsters attacking at every angle.
+
+At last, my coughing stopped, and I performed a Rest and Mend action. I studied my combat log while I replenished my health and mana. It dismayed me to learn that this second fight brought me down to 5 points of health. I couldn’t cut it close like that and expect to outlast the other contestants. Dungeoneering was fun but too dangerous to do alone.
+
+After ten minutes, my wounds repaired. My lips healed last. They felt chapped, but the experience primed me to exit this strange place.
+
+I wrung out my robe and wiped the sludge from my gear as well as possible. Smelling like decaying grape goo wasn’t pleasant, but it seemed a small price for survival.
+
+I hadn’t noticed the new game prompt in my event log.
+
+Congratulations!You are level 6
+
+You have gained a level. You have increased your agility by 1 and willpower by 2. You have received 1 power point. You have 402/445 experience points toward level 7.
+
+In one corner of the room, I found the neutralized vegetable mass that had once been a slime. Its corpse carried no treasure except a white core, but the gargoyle’s remains included a white core and two gems that looked like they might be valuable.
+
+An amulet circled the monster’s neck.
+
+Item
+
+Minor Amulet of Defense
+
+Rarity
+
+Masterwork (green)
+
+Description
+
+Level 8 neckpiece+5 armor+2 stamina
+
+Oh! That’s a nifty little item, too. Another 20 points of health suited my goal of self-preservation. After wrapping it around my neck, I climbed the spiral stairway while considering my next moves. The stuffed boar had been the only other monster carcass. If Big Barry acted as a boss, I wouldn’t have to face him until the top of the stairs.
+
+After putting my cudgel away, I equipped myself with my new spear and readied another health potion. I refreshed Heavenly Favor and prepared a Compression Sphere. Boars were swift animals, but the air blast would send the hollow creature sailing.
+
+Stuffed boar attack or no stuffed boar attack, I felt ready to press onward. Though the vinegar shower disgusted me, I felt heady after surviving two monsters back-to-back.
+
+Behold Apache—dungeon-clearer!

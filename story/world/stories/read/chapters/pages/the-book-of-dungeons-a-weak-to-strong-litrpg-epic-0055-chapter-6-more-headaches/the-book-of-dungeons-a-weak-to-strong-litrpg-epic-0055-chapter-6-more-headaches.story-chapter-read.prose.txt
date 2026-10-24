@@ -1,0 +1,185 @@
+I returned home and reported to Charitybelle what I’d seen when she awoke.
+
+She thanked me and told me to rest, but I’d given the Dark Room to Fabulosa for her extended hunting trip. I crawled beneath a roll of canvas to shield my eyes from the sun, but the warmth and smell of dwarven workers kept me from sleeping.
+
+I gave up trying to fall asleep by mid-afternoon. Emerging from the canvas, I expected the dwarves to finish the roundhouse soon and didn’t want to be the last to pick a bunk. Despite the hours I wasted trying to fall asleep, the building showed barely any progress.
+
+What now? Sleeplessness made me grouchy, and I reminded myself not to show it. Conditions weren’t comfortable for anyone out here, so I wasn’t the only one out of sorts.
+
+I found Ally. “What’s slowing down construction? I figured we’d be done by now.”
+
+Ally gave me an annoyed sideways glance as if I’d asked a stupid question. “Have you checked today’s efficiency?”
+
+I hadn’t, so I checked my build interface.
+
+Building Status
+
+Roundhouse
+
+Remaining Build Time Efficiency Workers
+
+0.5 days79 percent25
+
+Our efficiency dropped from 104 to 79 percent in a single day. I checked the numbers. Even though the camp’s fitness improved by 2 percent, our overall health rating dropped from 49 to 46 percent because we lost ground in comfort, rest, and diet. Our security fell 5 percent thanks to the news of a hostile in the vicinity.
+
+Ally also assigned a couple of workers to meals, which reduced the work crew’s output.
+
+The forewoman gestured toward the structure. “The roundhouse will be dead brill for security and comfort, but our builders are a wee bit pokey.”
+
+I couldn’t believe our hearty group of dwarves performed at less than 100 percent efficiency.
+
+“And that doesn’t even cover the quarry ills.”
+
+“The quarry? What’s wrong with Maggie’s crew?”
+
+Ally held up her hands. “Tweren’t nothing wrong with them. The problem is the stone—it’s pure hard. I sent Flint to chisel out a new corner block for the fireplace—I didn’t like how someone sliced it and told him to cut me anither. It should’ve taken him minutes. He walluped rocks for nigh two hours. All for one, peedie brick! As Forren as me witness, the stone is harder than before. I checked it meself, and I’m a dwarf who can read rocks enough to spit with a single strike—and I’m talking about a clean split. No stone surprises come to these old eyes, laddie.”
+
+I turned on Mineral Communion and looked through the stones’ memories. I sifted through their afterimages, but nothing caught my attention.
+
+Ally shook her head at the Hawkhurst flagpole. “It’s that red core from our settlement. One of its bonuses, protection, makes stone too tough. I’d wager tonight’s chow on it. We’re without diamond-tipped picks, saws, and hammers, so expect dead slow quarrying from the go.”
+
+My shoulders slumped at the news.
+
+“But the buildings are solid. This wee roundhouse is packing 1200 structural points! Have you seen the blueprints for the motte and bailey? It’s nigh 3,000! That’s ten times the normal sturdiness, and it waren’t even made of stone.”
+
+“What about the other resources? How long do they take to harvest?”
+
+“Ye can check that yourself. Just focus on the materials.”
+
+I checked the interface elements as she described.
+
+Resource
+
+Harvest time
+
+displaced soil tree hewn timber lumber stone blockstone brick
+
+.25 days per cubic yard.25 days per log.5 days per batten.5 days per board2 days per block.25 days per brick
+
+They didn’t look so bad until I did the math and realized that my 4.2 days prediction for building a town hall would take 34 days. The bricks for the cooking kitchen area and fire pits would add half a week. Our 79 percent efficiency extended what had already grown into a month-long project.
+
+“But a sawmill could raggle down the lumbering times to 18 days. We still cannae do anything about the stone. We could haul it from anither source, but it’s a shame to squander such prime mineral.” She gestured toward the lakeside expanse of Hawkhurst Rock.
+
+I picked up and added two bricks to my inventory. They disappeared from the stack as I tested to see if they stacked. They did. At least hauling them would not be a problem, but protecting quarry workers outside our settlement complicated logistics.
+
+“Ally, thanks for bringing me up to speed on this. It seems I have a ton of math to do. I’m not looking forward to telling Charitybelle and Greenie.”
+
+“Don’t worry about that, laddie, they already know. We talked this morn while you dozed. They’re poring over sawmill sketches.”
+
+I nodded and thanked her again.
+
+It looked like we wouldn’t be able to undertake a motte and bailey for our security anytime soon. While the roundhouse offered some protection, I still needed to watch the radar day and night. I didn’t relish this thought because it tied me to camp while Yula and Fabulosa scouted the forest.
+
+I spotted Charitybelle and Greenie hunched over a blueprint. They spread a canvas over the cart, using rocks like paperweights to hold it down. The dwarves weren’t the only ones in need of shelter.
+
+Charitybelle gave me a sympathetic look when I approached. “Did you sleep at all?”
+
+Shrugging, I lied to avoid sidetracking the conversation. “Yeah, a few hours. I’m sorry about not warning you about the build times—”
+
+“Don’t worry about it. There’s nothing you could have done. It’s not like we lost any time. All this is unfamiliar, so don’t get discouraged.” She reached out to squeeze my hand. “We’re putting together a windmill for our saw. We got the idea from Rory and Fin. They asked us to rig together a windcatcher to replace the forge bellows, and it inspired us to power the mill with our offshore wind. I hope it isn’t seasonal.”
+
+“What happens if the breeze dies down?”
+
+“If the wind isn’t strong, we will shift gears to produce the power needed to turn the saw. It’s more complicated than a water-powered mill, but our efficiency will improve if we can avoid hauling lumber from the river.”
+
+I looked at the plans. The building’s inner mechanics looked harder to build than the original lumber mill blueprints, but Greenie’s experience with siege engines filled me with confidence. We had the right goblin for the job.
+
+“How long will it take to build?”
+
+“We won’t know until we validate the blueprints.”
+
+Charitybelle gestured to the vellum she held down with her palm. “The wind is one reason it takes so long to design things. The light is good, but I’d rather do this inside. Yula says it’s going to rain tomorrow.”
+
+“Yula is back? I didn’t know they returned.”
+
+“Yeah, they showed up a few hours after you went to sleep. They’re probably passed out under another stretch of canvas.”
+
+Greenie pointed to the sky. “These torodon carts aren’t for outdoor use. They take too much canvas to cover, and they’ll rust in the rain. We need to store them in a barn.”
+
+I followed the goblin’s gaze but didn’t see changes in the clouds. “Yula thinks it’s going to rain soon?”
+
+Greenie nodded. “So does Murdina. I overheard her speaking of torodons facing the river while grazing.”
+
+“What does that have to do with rain?”
+
+“Beasts graze against the breeze since predators attack downwind. When the wind shifts, so do the animals. Inclement weather often follows, and it’s best to prepare.”
+
+The carts played a crucial role in moving heavy lumber, enabling us to haul anything too large to put into our inventory. We needed a barn before the motte and bailey.
+
+I left them to their work and meandered to the roundhouse. Despite the setbacks, the structure looked solid and included unfinished tables and benches. The dwarves hummed as they shaped the furniture.
+
+Even though it made me feel like an outsider, I stayed out of everyone’s way. The workers seemed to know what to do with Ally’s minimal instructions. Perhaps staying out of the mix best served the crew. None of the tools looked familiar, and my poor construction skills lowered their overall efficiency.
+
+Efficiency
+
+79 percent
+
+Factor Core Bonus
+
+140 percent
+
+Factor Construction Skill
+
+154 percent
+
+Factor Morale
+
+37 percent (alarmed)
+
+While morale killed our progress, the red core’s bonus made me glad I used it in our settlement’s creation. The reasons Hawkhurst progressed at all came from its bonus, Ally’s management, and the camp’s high construction skills.
+
+I went to Hawkhurst Rock to collect stones for another cairn. If I could attach flags onto sticks, I could turn them into little flagpoles marking our territory’s extent. I didn’t know what strategic value it could provide, but I enjoyed seeing our domain without an interface map blocking my vision.
+
+But activating my map made me forget about gathering stones. Another red dot approached the camp from the north.
+
+I focused on the blip to inspect the seismic information about the intruder, but something about it didn’t add up. The details described not one but nine medium quadrupeds. Why would animals bunch up? Were they intentionally overlapping their radar signals?
+
+I ran straight to Charitybelle. Her expression and grip on the new siege hammer told me she’d already seen the interlopers. She called to me as I ran to her. “Fab and Yula are gathering their stuff. The dwarves went to the roundhouse.”
+
+Fabulosa and Yula joined us, but seeing Bernard and Blane Silverview behind them surprised me. The same brothers asked about the battle college earlier. Instead of fleeing with everyone else, the pair wore goblin armor. The poor quality offered little protection, but it was better than nothing. Ill-equipped, untrained, and malnourished—they intended to help with defense, giving me no time to argue.
+
+Bernard ducked into the roundhouse on the way to the battle, emerging with a chef’s knife in his fist—the camp’s sharpest instrument.
+
+Rockthane chased after him out of the roundhouse. “Unhand me knife, you gawking brute!”
+
+Bernard held the blade away from the agitated cook. “I need a gullie to whittle the vargs into dog-steaks. Ye do the same for dinner—think of it as prep work!”
+
+Rocky pointed to his knife. “That is a fine domestic tool, not a clumsy weapon to wave about at passing beasts.” Several dwarves grabbed Rocky and pulled him back into the roundhouse. As they wrangled him inside, Rocky shook his fists at Bernard. “Damage me blade, and you’ll answer for it!”
+
+Bernard admired the knife’s sharp edge. “It’s for survival, init?”
+
+Rocky shouted from inside the roundhouse. “It’s for my cooking!”
+
+Bernard pointed the knife at the roundhouse before rejoining his brother. “They’re one and the same, by my experience.”
+
+Seeing them wrestle over Rocky’s knife made me wish I’d handed better weapons to the dwarves who wanted to fight. We’d already given away the junky blades we collected from kobolds and goblins earlier but hadn’t assessed which of these noncombatants wished to devote themselves to defense. I made a mental note to address this.
+
+I scanned the gentle slopes of the meadow, but the intruders traveled through a slight depression, keeping out of sight. These weren’t dumb dogs by any standard.
+
+As we walked north, I finally spied the beasts a quarter-mile away. These wolves stood as tall as mules and moved with a powerful grace. One sat on its haunches, lifted its forepaws off the ground, and sniffed the air. The posture looked humanoid until it fell back on four paws and joined its companions in a loping run, but they looked too bestial to be werewolves.
+
+Name
+
+Pinewood Varg
+
+Level
+
+12
+
+Difficulty
+
+Challenging (yellow)
+
+Health
+
+275/275
+
+The wolves traveled together and watched one another for cues, showing orchestrated attack formations.
+
+Our group adopted a less sophisticated coordination—we tightened together as they approached.
+
+When the intruders reached Yula’s bow range, she raised it to shoot, but they backed away before she drew her string.
+
+Fabulosa also carried a new bow, one larger and sturdier than the goblin or kobold bows we’d collected.
+
+Yula locked her eyes on the vargs. “Ees dangerous.”

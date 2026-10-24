@@ -1,0 +1,157 @@
+Charitybelle pointed to more goblins coming from the unexplored tunnel fork. “We have company behind us!”
+
+Backing away had bought me enough time to cast Presence, which foiled another Stealth attack. I took the providence in stride. When fighting enough enemies, dumb luck eventually became a factor.
+
+As the second assassin decloaked, their blades bit nothing but air. A liquid shine on the metal glistened off my spell’s radiance—tipping me off that both assassins used Poison-coated weapons.
+
+I wasn’t so fortunate to have dodged a crossbow bolt, scraping my arm as I spun.
+
+/You cast Presence./Goblin Slasher leaves Stealth./Goblin Slasher misses you./Goblin Arbalist hits you for 12 damage (4 resisted).
+
+Almost ignoring the crossbow bolt, I swung my cudgel at one rogue and connected with a crit, dropping his health by 25 percent. Yula and Fabulosa might be comfortable fighting recklessly against many threats at once, but I wasn’t, and it stopped me from keeping an eye on Charitybelle.
+
+I focused on the Poison blades because anything auto-triggering Anticipate caused concern.
+
+Another crossbow bolt struck me.
+
+I bumped my head on the ceiling every time I dodged. This fight felt manageable, but the space annoyed me.
+
+In the midst of attackers, the goblin slasher finally scored a hit with its Poison dagger. I backed away to monitor the effects on my event log. The damage it did wasn’t so bad, but I had a new debuff.
+
+Debuff
+
+Slasher Contact Poison
+
+- 10 Agility
+
+Duration
+
+1 minute, 58 seconds
+
+This Poison slowed me half as much as the cacowight’s Frozen Blood debuff, but it cramped my combat swagger.
+
+I took a sluggish swing at the goblin slasher and missed. He moved quickly, and I would be lethargic with any weapon, so I kept my cudgel.
+
+Anticipate hadn’t triggered because of the Poison. It had activated from the damage from the Stealth attack, which would have caused double damage if it critted. I indulged in a Rejuvenate since no one else in our party fell below 50 percent health.
+
+A bull terrier ran past me and nipped at a goblin arbalist. The stupid goblin spent time loading its crossbow and wasting shots at the agile little dog.
+
+I swung and missed the goblin stealther again. When one of Yula’s arrows sailed past her target, I suspected the low ceiling interfered with our attacks. Even so, we would likely win this fight with the orc on our side.
+
+I backed away, drawing the two slashers into Yula’s melee range. The Poison hampered my agility, so I fought poorly—enough to be self-conscious. Fighting like this in front of the higher-level huntress embarrassed me, but I needed to draw the assassins off me.
+
+Yula put away her bow and pulled out twin short swords. The stealthers abandoned their pursuit of me and tag-teamed her. She didn’t know about the Poison on their blades and might be in danger if the debuff stacked.
+
+They assumed the Poison rendered me harmless, which had been a mistake. I also cast spells—the glow of Presence ought to have been the giveaway. Wasting no time, I cast Shocking Reach and Scorch, targeting the goblin I’d critted before.
+
+Yula took the hint and finished him before the remaining stealther scored its first hit. At Yula’s level, a -10 reduction in agility didn’t incapacitate her.
+
+I circled the remaining assassin to distract it, hoping to give Yula a chance to backstab it. My move proved unnecessary. The orc activated two melee cooldowns that I didn’t recognize, and soon, the goblin slumped to the ground. Having a level 19 on our side felt like a luxury.
+
+Yula, Mugsy, and I mopped up the flanking goblin contingent, including the arbalist. When we finished, I tossed a Rejuvenate on Charitybelle and helped her and Fabulosa take out the remaining shield-bearing goblin enforcers.
+
+When the fight ended, Charitybelle and I gained a level. The goblins gave about 7 experience points each, but we’d killed over two dozen. I fell only 3 experience points shy of level 11.
+
+Congratulations!You are level 10
+
+You have gained a level. You have increased your stamina by 1, strength by 1, and agility by 1. You have received 1 power point. You have 897/900 experience points toward level 11.
+
+I rubbed my head as we performed Rest and Mend. Sitting down, it felt good to straighten out our necks.
+
+Yula sent Mugsy ahead to spy as she stretched out on the ground. “We could send Squveakers, but doggy ees faster.”
+
+Fabulosa’s shoulders slumped. “I’m not looking forward to breaking down those bars.”
+
+Yula waved her hand. “Search bodies for key. No more pounding ees better.”
+
+Fabulosa nodded. “That suits me. I hope we get lucky.”
+
+Charitybelle finished her Rest and Mend first. She rifled through the goblins’ belongings and discovered a set of keys.
+
+Fabulosa gave a thumbs-up gesture. “That’s the stuff, C-Belle. Let’s find some prisoners to free.”
+
+Following Mugsy, we wove our way through the mine. Some intersections had eight-foot-high ceilings, and we stopped beneath them, straightened our backs, and stretched. Ventilation shafts opened to the sky, far overhead.
+
+When we rounded the corner of the prisoner’s room, two goblin guards turned to us, dropped their weapons, backed away, and raised their hands in surrender.
+
+As I pondered about the ethics of the situation, they backed into the bars of the slave pen. Dwarven arms, scarred and bruised, reached through the bars to garrote them. I lifted not a finger to intercede and pondered no more about ethics.
+
+Charitybelle opened the cage with the keys she found on the goblins. The thirty dwarves emerging from the pen hugged us like long-lost friends. A thick iron ring around their neck pressed into our shoulders at every embrace.
+
+A taller dwarf spoke first. Anyone could see his accent charmed my girlfriend. He bowed. “You don’t know, lassie, how glad we are to see ya. If thar be a dragon ye need slayin’, I am at ye service.”
+
+Charitybelle blushed, covered her smile with her hand, and looked back at us in embarrassment. She replied with over-annunciated courtesies. “Oh, my! You’re so polite. You’re very welcome!”
+
+Fabulosa rolled her eyes, and I chuckled.
+
+Another dwarf spat on a goblin corpse as he left the cage. “It was a life of pure misery, with ‘em, with nary a chance of escaping ourselves.”
+
+Some smothered me in hugs. Some showered compliments, but their dreadful body odor didn’t dampen their spirits.
+
+“You’re a brilliant lad.”
+
+“Well done, me boy.”
+
+The first who greeted us introduced himself to Yula. “Me name’s Brodie Anvilhead. We are truly indebted to ye all.”
+
+Yula nodded in sober appreciation. In contrast to the dwarves’ enthusiasm, her natural reserve came across as standoffish, giving only a slight nod as a reception.
+
+Brodie tactfully smiled through the awkwardness and moved on to me, shaking my hand. Despite his lean condition, he seemed inherently strong.
+
+“Me name’s Brodie. I’m pleased to meet ye, lad.”
+
+I returned the introduction, crouching over the entire time. Despite our desire to leave this dungeon, we accepted their thanks and heard everyone out. Everyone milled outside the cell and talked, making the area noisy. While I could appreciate their happiness, we hadn’t secured the rest of the mine.
+
+Fabulosa bumped her head again and rubbed it with irritation. She turned to me. “Great. Wonderful. We saved the day. Can we get out of here now?”
+
+Unfortunately, the room’s noise dropped to a lull when Fabulosa spoke, and many dwarves overheard her sarcasm. She froze in embarrassment, intending her comment to be a joke for only my ears.
+
+A short dwarf whose nameplate read Angus Hornbuster gestured toward the dead goblins. “Is a dour world, init, when wee eejits like these can force a dwarf as grand as myself into doin’ their boggin’ labor.”
+
+The room rumbled in agreement.
+
+“And if this upstanding lass is flittin’ to a grander place, I’ll not be a rusty anchor holding her back!”
+
+The room roared in approval, and some pounded the back of the speaker.
+
+Fabulosa exhaled in relief.
+
+The four of us squeezed into the front of the crowd as everyone left the holding cell.
+
+I turned to Brodie. “Do you know if there’s another exit to the mine?”
+
+The dwarf shook his head and shrugged. “I cannae answer to it. The gobs kept us in the deep, crackin’ away the whole time.”
+
+“Do you think you could keep everyone back at a safe distance? There’s a gate and a locked door near the entrance we haven’t explored.”
+
+“Yon the gate is naught but a poor excuse for a workshop. The gobs took us there to busk us with collars.” He gave me a hopeful look as he tugged at the iron ring.
+
+“We’ll do what we can to remove them.”
+
+Brodie visibly relaxed. “Lad, it’s a wee matter of pride….” He didn’t finish his thought and cast his eyes downward. I thought it decent of him not to have asked us to remove their collars soon after freeing them. His respect for our security concern made me appreciate his patience.
+
+“What is behind the big locked door opposite the barracks?”
+
+Brodie straightened, balled his fists, and thrust out his chin. “I didnae. Weren’t no dwarf permitted beyond. If it turns into a square go, you can count on us to pitch in!”
+
+“We seem to be using a lot of splash damage today, so I need everyone without armor to stand back. Speaking of which, would your people be willing to loot the bodies of the goblins on the way out? Their armor is close to your size, crude as it is. It’s better than nothing.”
+
+Brodie called behind him as we left. “Grundy and Fin, go back and skin those gringin’ gobs clean. Take their rattle.”
+
+We counted thirty dead goblins, one for every dwarf in our company. We stripped off anything useful from the bodies and took tools lying about the place.
+
+After telling Brodie about our nonexistent camp, he assured me the dwarves would make do with whatever Hawkhurst offered. As we walked, he divulged information about the mine. They’d mined iron exclusively. While it stood as the least valuable commodity on the market, it counted as the most practical. Brodie explained the goblins marched them to this location eight months ago after their army captured their tiny community en masse. Their home lay far north, beyond the Bluepeaks.
+
+Yula dropped trinkets from her inventory as we left, and I assumed it related to an orc tradition. She shot arrows with black and red feathered flights into their corpses. She shot other arrows at the walls, leaving them where they fell. The red and black flights looked special and hard to make, and the exercise struck me as wasteful.
+
+Curiosity got the better of me. “Is that a revenge ritual? It seems like a waste of arrows.”
+
+“I leave arrows from emperor’s clan to confuse green devils.”
+
+“You carry around your enemy’s arrows?”
+
+Yula shook the arrows. “One day, I use one to silence him. But for now, zees ees better. Eef goblins zink orcs lay claim, zey abandon mine and dig close to home. Maybe green devils retaliate on emperor’s clan.”
+
+I chuckled. “Nice. Good thinking.”
+
+Yula stared at the black and red feathered flights, seemingly lost in a thought. “Goblin won’t cross reever—maybe tunnel under, but any attack makes emperor look weak. Eizer way, green devils won’t look for us.”

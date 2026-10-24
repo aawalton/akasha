@@ -1,0 +1,219 @@
+Our campfire discussion drew more onlookers, and soon, everyone eavesdropped on the conversation about the building queue. Whenever the officers got together, the dwarves stopped and listened. Occasionally, they’d interrupt the discussion with questions.
+
+One such came from Bernard Silverview, whose eyes sparkled with interest in the battle college. “If ye can pardon me for asking, but if this battle college is free with the town hall, when will ye schedule a town hall?”
+
+Blane, his brother, nodded to show that he, too, wanted to know.
+
+I had no specific answer for them. “We need several support buildings first, and we’ll have to see how long it takes. It might be a matter of months.”
+
+Their body language and expressions showed they yearned to sign up, but I could only offer them a vague promise. “The first thing we must do is get everyone secure and comfortable.”
+
+A round of grunting agreements echoed my decision.
+
+“After that…” Time froze while I checked my building interface. I would finish the end of that sentence once I knew what to do.
+
+If my assessments of the governmental interface were correct, the roundhouse immediately boosted our comfort rating—which plummeted five percent daily. Another concern included safety. Small dinosaurs wandering around made me nervous because small dinosaurs grew up. Before I could answer questions about the town hall, I needed to know our options.
+
+Available Blueprints
+
+Tier 1
+
+Altar, Barn, Hunter’s Lodge, Longhouse, Lumber Mill, Mess, Motte & Bailey, Smithy, Town Hall, Watchtower, Well
+
+Custom
+
+Open-air Smithy, Roundhouse, Temporary Well
+
+Currently Building
+
+Roundhouse
+
+As the settlement screen mirrored my character sheet, the construction options echoed the interface for available spells. I studied our options.
+
+The altar opened a slot for an idol, which Maggie talked about carving. As the simplest blueprint, altars amounted to little more than a table or oversized pedestal, barely counting as a structure.
+
+We sorely need a barn—almost as much as the roundhouse. The wandering dinosaur made me worry about nighttime predators. Protecting the animals required keeping watch all night, even after the camp finished the roundhouse. And keeping dew off of our equipment prioritized storage. Covering everything with canvas every night required extra work and organization, and misplaced tools and resources plagued the work crew. Canvas only served as a temporary solution.
+
+The smithy’s original design called for a smaller forge and stone foundation, and our custom blueprint drew upon fewer materials, allowing for a quicker build time.
+
+The hunter’s lodge wasn’t a cozy hangout for the camp’s alpha hunters. It served as a cleaning station and included a biltong box, a place to cure meat. Stashing meat into inventories like my void bag preserved food, but curing it in a meat box enhanced its flavor. I wouldn’t be the only one looking forward to seeing how cured worm meat tasted.
+
+Since the roundhouse supplanted our need for a longhouse, I didn’t dwell on the latter’s particulars, but its hefty wood requirements made me feel better about the decision to rely on a dwarven design.
+
+The lumber mill expedited the building process, but with so many life support needs, it wasn’t clear how soon we could build one. Mills ran on energy, and this blueprint called for a waterwheel. Unfortunately, our river’s deep and wide dimensions slowed the current. A straight conversion from waterpower to kinetic motion made for ineffectual sawing. A gear system could speed it up, but it complicated the structure’s design.
+
+The motte and bailey and watchtower also satisfied our immediate need for security. We could live without a well, but making citizens haul water from the lake and river wouldn’t make me a popular lieutenant governor.
+
+The mess seemed the least important building, but I had to be careful about voicing this opinion. Rocky might not agree. Luckily, the town hall included room for dining, so hopefully, he wouldn’t mind waiting for a proper kitchen.
+
+In keeping with other base-building games, Hawkhurst needed everything at once. We unlocked tier 1 blueprints by building a flagpole—and knowing our options allowed for planning, unlike the game’s hidden spell menu. The system’s flexibility enabled us to literally cut corners in our architecture and customize designs to suit our needs. As long as Charitybelle and Greenie provided valid plans and Ally’s crew gathered the materials, the camp would improve.
+
+The granddaddy of the tier 1 buildings, the town hall, upgraded the government and unlocked more blueprints. I looked forward to initiating its construction when we had enough materials. When I focused on a building, the crafting interface appeared.
+
+Create Building
+
+Town Hall (tier 1)
+
+Description
+
+Government Structure+2 percent security, +5 percent cultureProvides tabled seating and cooking area for 100 citizens in an acoustically optimal environment. Includes two offices for clerical/organizational needs. Unlocks tier 2 structures.
+
+Details
+
+Structural Points 500Location not specified
+
+Materials
+
+Timber 50 battensLumber 1000 boardsStone 100 blocksBrick 1000
+
+Build Estimate
+
+4.2 days with 27 workers at 104 percent efficiency
+
+Core Bonus
+
+None
+
+These numbers weren’t too bad. A build estimate of 4.2 days to complete a town hall seemed surprisingly quick.
+
+Unfortunately, it only offered a 2 percent bump in our security rating. Since defense counted as another factor dragging down our morale, I checked out the motte and bailey’s description.
+
+Create Building
+
+Motte and Bailey (tier 1)
+
+Description
+
+Security Structure+12 percent securityOccupants have +100 armor versus melee attacks and +20 armor versus ranged attacks. A palisade of sharpened logs behind a wide ditch provides a basic defense from organized attacks. Supports 500 citizens.
+
+Details
+
+Structural Points 2,000Location not specified
+
+Materials
+
+Displaced Soil 1,200 cubic yardsTrees 750 logsTimber 250 battensLine 20 100-foot coils
+
+Build Estimate
+
+1.9 days with 27 workers at 104 percent efficiency
+
+Core Bonus
+
+None
+
+A 12 percent security increase would have a much greater effect. Accommodating 500 people looked like many people, but my high school had 500 students, and we occupied little space when pressed together during a fire drill. If we ever needed to use the motte and bailey, I hoped we assembled with better choreography than my high school.
+
+When I closed my interface, I stood in front of everyone with my mouth open. I had been in the middle of saying something, but I forgot what. What had I been talking about—something regarding defensive or encroaching dinosaurs? Everyone gave me expectant looks—waiting for me to answer a question.
+
+I took a guess. “…so it’ll take about two days to complete a motte and bailey.” As I spoke, the estimate didn’t sound correct. Only two days to build a fort and a moat? I wrapped up my assessment with an open-ended statement. “Until then, we’ll need to keep a lookout for dinosaurs.” I thanked everyone and sat down.
+
+Charitybelle’s eyebrows furrowed. “Well—ugh, thank you for that, Apache.”
+
+People exchanged puzzled glances as I studied my boots.
+
+When everyone resumed their conversations, Charitybelle sat down beside me.
+
+“Are you okay?”
+
+“I’m fine. I just lost my train of thought.”
+
+She studied me for a second before changing the subject. “Ally wants to craft an idol of Forren for the camp. She says we only need an idol or token to receive the deity’s blessings. She assured me she could do this in her own time, and if we didn’t like the bonuses, we didn’t need to make Forren our settlement’s patron deity. But she explained only an elder of a faith could make an idol, and no one else here is an elder—not even Greenie or Yula.”
+
+“So, there’s no downside to making an idol?”
+
+“If we decide not to follow Forren, it’s no big deal. But if we install it into an altar and lose it, the camp becomes cursed until we get it back. What do you think?”
+
+I shrugged. “Sure. Let’s check it out.”
+
+After discovering the red core bonuses and mandates, I wanted to see what powers a hearth mother deity could give us. “Tonight, I’ll keep watch to make sure nothing creeps into camp while we sleep. I can pass out in the Dark Room in the morning.”
+
+“Aww, thank you, sweetie. After the gang finishes the roundhouse, you won’t need to work late anymore. I’d join you, but I’m pooped from drafting blueprints. Even little things need to be validated. If we make mistakes, no debugging messages explain what’s wrong. We have to figure out what we missed by ourselves.”
+
+Charitybelle leaned into her next question as if it had been on her mind for a while. “Why did you say the motte and bailey and town hall construction times were only a couple of days?”
+
+“My game interface says the town hall will take 4.2 days, and the fortifications will take 1.9 days.”
+
+My girlfriend narrowed her eyes. “That doesn’t sound right.”
+
+I opened my interface and noticed options in the margin to include resource gathering. Activating it increased the estimates significantly. “I see what you mean. Sorry about that.”
+
+“That’s okay. I missed the settlement power point. Settlement management is a new system, and we’re learning as we go.”
+
+We kissed, and she cuddled against me for the night. I gently massaged her scalp with my fingertips.
+
+Charitybelle crooned in pleasure. “That feels so good, but I can never stay awake when you do that.”
+
+“I like it when you sleep on top of me. It warms me—and keeping me cozy is the governor’s number one job.”
+
+She moaned in agreement. “I love my job.”
+
+“Besides, when you drift off, I can pretend I’m guarding you while you sleep. It makes me feel important—like I’m doing my job.”
+
+Charitybelle groaned again. Although I couldn’t see her face, I could tell she wore a smile. In less than a minute, her breathing deepened into the rhythm of slumber.
+
+With my map interface open, I watched for dangers throughout the night. If we had proximity alarms for intruders, I could sleep like everyone else, but nothing in our magical arsenal allowed such a system. We wouldn’t need a night watch once the work crew finished the roundhouse.
+
+I pondered how the developers received feedback. If their players didn’t remember what happened in-game until they watched the playback, how did they report bugs or make gameplay suggestions? Wasn’t that the point of a beta test? Perhaps for this contest, Crimson disabled in-game features that allowed players to record or report observations.
+
+I monitored gray blips representing sheep and torodons all night. The predawn proved to be the most challenging part of my shift to stay awake, so I left my bunk to walk around outside. Before the sun breached the horizon, it tinted the eastern sky and silhouetted the forest. Darkness and visible stars enshrouded the west, and the pink glow meant Rocky would wake for breakfast, and I could get some sleep.
+
+A red dot appeared on my map. It meandered around at the edge of the settlement. The map’s seismic notation showed a medium quadruped—but it wasn’t gray like other animals. Its color indicated danger, like a dinosaur or a monster.
+
+The red radar blip came south, passing the well and charcoal pit without spending time to inspect either. It moved like an animal, and I decided not to wake Charitybelle or raise the alarm.
+
+I jogged north to investigate despite the treacherous footing in the dark. Neither Presence nor glow stones would help me see a creature a mile away, and without visibility, I couldn’t know its level. Light sources would only give away my position.
+
+The red dot stopped moving when I got within a mile.
+
+I crouched to hide in the tall grass.
+
+When it reversed into the forest, I picked up to a sprint, but it quickly pulled away. My deepest worry involved a goblin mounted on a steed, but goblins wouldn’t be topside this close to dawn unless we’d somehow missed a nearby tunnel. I didn’t mind letting a beast escape as long as it bore no rider.
+
+I opened my abilities interface to see if any powers could bridge our widening gap.
+
+Available Spells
+
+Tier 1
+
+Acid Splash, Animal Communion, Bless, Dim, Faerie Flames, Featherfall, Ice Bolt, Imbue Weapon, Just Strike, Light, Lightning Bolt, Mana Shield, Move Object, Purify Water, Summon Swarm, Tangling Roots, Vegetable Empathy
+
+Tier 2
+
+Counterspell, Fireball
+
+Tier 4
+
+Rally
+
+Power Points
+
+6
+
+The list of powers remained the same since the worm encounter. I intended to purchase several, and part of me wanted to do so now to see what they unlocked, but I resisted the impulse.
+
+I checked my potential abilities.
+
+Available Abilities
+
+Tier 1
+
+Aim, Block, Charge, Disarm, Double Blades, Knockback, Multi-shot, Quick Shield, Stunning Blow, Thrust
+
+Tier 2
+
+Refresh Mana
+
+Power Points
+
+6
+
+Still, nothing looked helpful. I slowed down as I approached the 1-mile limit for Hawkhurst’s radar. The red dot had already fled into the forest and outside my vision.
+
+I felt wide awake, so checking out the charcoal pit seemed perfectly normal in the middle of the night. And yet, everything looked normal at the work site. Divots marked the locations of trees. The dwarves didn’t just chop them down—they also removed stumps for “pure fine carving jobs.”
+
+The pile of sod smoldered from the flames set days ago. In a week, the colliers would harvest enough charcoal to forge a plow. Everything appeared as it should.
+
+Mineral Communion wouldn’t work on the mud or dirt covering the charcoal mounds. No fresh footprints or disturbances sullied the ground.
+
+Whatever walked near the mounds purposefully avoided leaving tracks.

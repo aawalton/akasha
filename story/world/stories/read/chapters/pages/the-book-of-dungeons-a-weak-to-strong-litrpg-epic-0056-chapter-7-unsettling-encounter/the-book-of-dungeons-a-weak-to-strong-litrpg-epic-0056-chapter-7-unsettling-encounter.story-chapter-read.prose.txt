@@ -1,0 +1,123 @@
+The vargs encircled us, careful to keep out of Yula’s range. Every time she lifted her bow, they backed away. She applied a substance to the arrowhead and invested mana into it with Imbue Weapon, making it glow in a liquidly silver effect.
+
+I cast Heavenly Favor and reminded everyone to buff up.
+
+Charitybelle raised her voice so everyone could hear her. “Animal Empathy doesn’t recognize them as valid targets. Neither does Animal Communion. They’re not here to make friends.”
+
+I shrugged. “They’re probably more monster than animal.”
+
+Fabulosa turned the opposite direction Yula faced and scanned the horizon. “Y’all should have brung bows.” She made no disparaging tone in her comment—only stating the fact.
+
+The largest varg charged, and the others followed its initiative. Instead of running in a steady gallop, they bounded in side-to-side lunges. I’d never seen animals run in such a silly fashion, almost like a dance. Were they goofing around?
+
+Another chill ran through me when I realized they ran a serpentine pattern, making it harder for archers to lead their shots.
+
+When they got in range, Fabulosa shot and missed, but Yula waited until they got closer and poured mana into her arrow. As the vargs closed the distance, they stopped their bounding pattern and ran directly at Yula. I couldn’t believe the coordination. None headed toward other targets. The dwarves and I both ran forward to intercept.
+
+Yula loosed an arrow that struck deep in the lead varg, tumbling it in a spray of blood, dirt, and grass. After her second arrow missed its mark, Fabulosa cast a Lightning Bolt, which hit its target, while Charitybelle and I Scorched two more vargs.
+
+Unfortunately, none of our spells affected the attackers as much as Yula’s arrow. Before the charging wolves converged, she had time to cast a spell called Tangling Thorns, an upgraded version of Tangling Roots.
+
+As the first three vargs neared their target, Fabulosa and I landed Rejuvenates on Yula to heal her over the next fifteen seconds.
+
+Charitybelle began casting Restore on the orc to offset the imminent damage. The vargs changed their trajectory toward me. Charitybelle canceled her heal moments before it finished. She’d almost made the same mistake I’d made—healing the wrong target.
+
+/You cast Rejuvenate on Yula for 0 health. /Fabulosa casts Rejuvenate on Yula for 0 health./Pinewood Varg bites you for 24 damage (4 resisted)./Pinewood Varg bites you for 26 damage (4 resisted)./Pinewood Varg misses you./Pinewood Varg bites you for 24 damage (3 resisted)./Pinewood Varg bites you for 27 damage (3 resisted)./Pinewood Varg crits you for 52 damage (0 resisted). You are Bleeding. /You hit Varg for 25 damage (3 resisted)./You drink minor health potion for 50 health./Charitybelle casts Rejuvenate on you for 6 health.
+
+One critically hit me, and its Bleed effect caused more damage over time. I burned through Anticipate to avoid damage from another. Charitybelle quickly cast Rejuvenate on me, giving me another 27 health over the next ten seconds, but I didn’t know if I’d last that long. After my health potion, I dropped to 100 health, almost half my total.
+
+Fabulosa intercepted the last varg with a flaming longsword. The dwarves ran to my aid, but neither blocked the bounding canines. Yula fared better with her newly equipped short sword, and her presence deterred two of the wolves from flanking me.
+
+When the wounded leader howled, the fight ended as quickly as it had begun. Every varg broke off its attack and retreated.
+
+Yula drew up her bow, but they left her range after she loosed her arrow. While half sustained degrees of damage, we’d not slain a single enemy.
+
+The confrontation left me dumbfounded. These varg-wolves had controlled the engagement from beginning to end. My chase last night must have been their scout. This attack served only to test our defenses. Everyone except Yula looked worried.
+
+Fabulosa turned to Yula. “Were any of those females? Could you tell?”
+
+“One.”
+
+“Then I reckon the pack is bigger.”
+
+By the time we returned to the roundhouse, everyone had healed up to full. We did our best not to look shaken, but everyone’s slow return to work reflected the camp’s worry.
+
+Ally’s voice rose above the tumult. “The battle is over. Let’s cap the roundhouse and put supper on. We’ve all seen vargs before. We’ll be safe once the shelter is up.”
+
+Blane smacked his palm with a fist. “Aye. Even ill-equipped, we drove ‘em off. Let ‘em come begging to become our winter coats. We’ve got more arrows for their trouble.”
+
+Bernard shook the cooking knife until Rocky wrenched it out of his grasp. “T’would be another story were we caught near the forest. But Guv Charitybelle and Ally rightly built our home in the clear, so we could see ‘em coming!”
+
+A few dwarves affirmed his boast, but I exchanged questioning looks with Fabulosa and Charitybelle. When we first settled, we’d dug a well by the tree line. Relocating south wasn’t a tactical decision—we just wanted to be closer to the lake and quarry. We got lucky that we’d moved, and the vargs still kicked our butts.
+
+Bernard approached me. “The gobs breed vargs with gigglers. That’s why they’re so bogging big.” Gigglers, as I learned yesterday, were cow-sized hyenas.
+
+Fabulosa nodded. “Yula and I fought gigglers. We peeled a couple off the main pack and took ‘em down.”
+
+“Oh yeah? How did your hiking trip go?” I knew the answer but thought it polite to ask. She’d fought something out there. Her level increased to 15—trailing mine by only one.
+
+“Yula taught me how to make a bow and arrows. I might have reached 16 if we’d finished the fight with those wolves. I’m thinking of taking Multi-shot for my next power.”
+
+Yula showed no interest in the conversation. She preoccupied herself by sorting through a bag of thin leather strips.
+
+Fabulosa continued her report. “We cleaned and dressed two gigglers. They were biggins, that’s for sure. Wait ‘til I show y’all their teeth. And we tracked some tuskers but only found a few stray boars.”
+
+Charitybelle frowned. “They also found more of that steel wool.”
+
+Fabulosa pulled out a tuft of the stuff and showed it to me. “Oh, yeah, here it is. Yula said she’s never seen it before.”
+
+Maggie Hornbuster, our quarry master, tilted her head to get a different angle through her spectacles. “Ah, now. Where did ya find that, lass?”
+
+Fabulosa handed the patch of steel wool to Maggie. “On the western trail to Basilborough.”
+
+Maggie shook her head. “Ye got yerself a weaver—spinning a nest, no doubt. Thar be no trail yet. At least not for unguarded merchants until you clear their lot out of the forest.”
+
+Yula stopped rummaging through her belongings and listened.
+
+Charitybelle grimaced. “What’s a weaver?”
+
+“Didn’t your gran not tell you about the master weavers to spook ya when you were a lass?”
+
+Charitybelle shook her head.
+
+Maggie continued. “Many folk believe weavers come from wizardry experiments or spoiled magic. Some folk say they’re undead. They’re ghastly, solitary things. They weave metal from their spidery backsides, though none can rightly say what they look like. It is told the old ones, the master weavers, are where artisan zombies come from.”
+
+Charitybelle and I exchanged questioning looks. In all our reading, we had never heard of artisan zombies.
+
+Maggie shook her head in disapproval of our negligent upbringing. “Ye’ve never heard of artisans either? Why, everyone knows about ‘em. They’re famous! Each boasts unique and elaborate decorations of the finest metalwork—with inlaid glass, baubles, jewels, and filigree. Powerful free agents, they are, and they say it takes decades to fashion one. Some walk the streets of capital cities—though, to what ends, I wouldn’t know.” She picked up the clump of steel wool and gave it to Charitybelle. “This may well be from a younger spider. Not an artisan or master weaver. If you’re lucky, it will be young, but they’re all pure dangerous.”
+
+Charitybelle looked scared and hopeful that Maggie only teased her about monster spiders.
+
+“I’m sorry, lass. ‘Tis true as a touchstone! Ye have yerself an infestation.”
+
+Charitybelle gave me a pleading look after tossing the cottony metal back to Fabulosa like a hot potato. She did not like spiders.
+
+When the evening approached, I helped Rocky prepare dinner by drawing water from the well.
+
+The work crew finished the furniture before dinnertime, and my interface alerted me to the completion of the roundhouse. Cheering and singing broke out, beginning our meal with an upbeat dwarven song.
+
+I checked the settlement interface to see if it validated the smithy’s recent changes. It had, so I queued it to become the construction crew’s next project. Out of curiosity, I checked out Rory’s changes. Besides the earthen floor, the design included a horizontal funnel called a windcatcher to stoke the forge’s flames. He could turn it on or off with a foot pedal or use it in tandem with the bellows.
+
+Seeing the blueprint changes made me wonder if I involved myself as much as I should. High school never taught practicalities like the pros and cons of micromanagement. Did it make for good or bad leadership? Rather than releasing students into the wild to improvise, teachers ought to have covered the subject. Luckily, Charitybelle served as governor and chief designer, so I didn’t worry about the details.
+
+We moved our things into the roundhouse. Rocky finished cooking what presumably would be his last campfire meal while everyone settled onto benches and chairs inside. Someone had gathered bundles of grass for the mattress and pillow fluff. I made a note to add bedding and linen to our shopping wishlist.
+
+The roundhouse tables only had 24 seats, so I gobbled down my dinner alone upstairs on a dwarf-sized bench. The furniture’s short legs felt like I sat on a footstool or in a classroom meant for young children. At least I could stretch my legs. After I finished my meal, I placed my bowl on the floor and relaxed in my bunk. Plenty of daylight remained, but sleeplessness took its toll.
+
+Sound carried inside the structure, and the dwarves enjoyed their meal with volume. As I lay down, their excitement comforted me. The noise reminded me the camp’s low morale wasn’t personal. Our rating resulted from poor health and dangerous conditions.
+
+With the noise, I suspected I would sleep in the Dark Room tonight. Charitybelle and Greenie already occupied the space, working on blueprints. Despite the tumult downstairs, I nodded off, only to be awoken by a goblin soon after.
+
+“Excuse me, Lieutenant Governor?”
+
+I grunted and rolled over to face him, attempting to appear receptive. Getting rest ranked high on my priority list, but people shouldn’t be afraid to approach me.
+
+“The governor asked me to retrieve you. In light of this morning’s events, Charitybelle would like your thoughts on prioritizing a watchtower for our next structure.”
+
+After pushing myself out of bed, I followed him downstairs.
+
+The Dark Room rope dangled in midair next to the doorway. Casual observers might assume it dangled from the wall or ceiling.
+
+As Greenie climbed the rope, I noticed he’d also put on a little weight. He, too, recovered from incarceration inside that wretched dungeon.
+
+When Brodie had dropped the rope into his cell, Greenie could barely hang onto it, let alone climb. That had been only a week ago, but the memory seemed distant. I reminded myself that it served as a sign of progress.

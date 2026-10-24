@@ -1,0 +1,197 @@
+After climbing into the Dark Room, I kicked off a conversation by complimenting Greenie and Charitybelle. “The roundhouse is a big hit with the dwarves. They love it already.”
+
+Charitybelle admired the roundhouse through the opening in the Dark Room’s floor. “I’m glad everyone likes it. Isn’t the little furniture adorable? It might be a while before we make anything comfortable.”
+
+I nodded. “Yep. As far as buildings go, everything coming down the pipe will be more utilitarian. We need things like barns.”
+
+I enjoyed base-building games as much as the next gamer, but when each building took days to erect, the thrill escaped me. At least in Belden, the library wasn’t just my comfort zone—it was comfortable. It also offered lots to do. Guarding workers got old fast.
+
+Charitybelle’s smile cheered me, but I needed more purpose.
+
+Charitybelle crossed her arms. “We need a lot of things. That’s why I want to discuss a watchtower.”
+
+When she looked at Greenie, the goblin took his cue. “Fortunately, we spotted the vargs on our radar.”
+
+I lowered my voice so the rest of the dwarves couldn’t hear me, though the Dark Room made it an unnecessary precaution. While we could hear the dinnertime clamor, sounds didn’t carry outside the transdimensional space. “I agree. We got lucky. Having no early alerts about the vargs could have been bad. I doubt they’ll give us a warning the next time they attack.”
+
+Greenie’s lips tightened. “Unfortunately, we didn’t plant the flag closer to the meadow’s center. Doing so would have prepared us for red blips in the forest. We need more visibility.”
+
+I countered the goblin’s argument. “True, but we didn’t know about our map’s radar until we planted the flag. There was no way we could plan for that.”
+
+Charitybelle waved her hand to dismiss the debate. “We’re learning. We’ll make discoveries and mistakes as we go along. Let’s focus on what’s ahead. It’s a given that we can’t move the flag without losing the bonuses from the red core. While the core makes the stone too difficult to quarry, it also gives us seismic information and a construction boost.”
+
+I shrugged. “We’ll also get warnings for waterborne dangers.” The point rang hollow, but they generously nodded.
+
+Charitybelle turned to me. “Regardless, a watchtower would improve our visibility in the forest. Without one, I don’t see how we can safely harvest trees.”
+
+I opened up my interface to check out the plan for the standard watchtower.
+
+Create Building
+
+Watchtower (tier 1)
+
+Description
+
+Security Structure+2 percent securityOccupants have immunity from melee attacks, +40 armor versus range attacks. Attacks made from watchtower have a doubled range.
+
+Details
+
+Structural Points 150Location not specified
+
+Materials
+
+Trees 50 logsTimber 20 battensRope 50-foot rope
+
+Build Estimate
+
+2 days with 25 workers at 79 percent efficiency
+
+Core Bonus
+
+None
+
+I closed the interface. “It only will take a couple of days to build, plus a day and a half to gather materials.”
+
+Greenie read from a piece of vellum. “That’s four days total. Erecting a stripped-down smithy will only take one day. What do you project our building efficiency to be in four days?”
+
+I sighed in defeat. “That’s what makes projects so tricky. Building efficiency’s three factors came from a core bonus, construction skill, and morale. Morale has four factors that change every day—recent events, security, culture, and health. While events are at 416 percent today—they decay as people forget things. Tomorrow it’ll be 375 percent. And security, culture, and health improve with the roundhouse. Health stays in flux as the dwarves get fitter. Everyone feels more comfortable, but we’re tired of eating the same food.”
+
+Greenie and Charitybelle exchanged looks.
+
+Charitybelle sighed. “But these fluctuations are constants. For instance, fitness is going up two percent a day, and diet is falling by the same amount, so those factors cancel out.”
+
+The goblin tilted his head in thought. “I’ve projected our efficiency to be around 70 percent in five days. That includes a few guesses.”
+
+I nodded, trying not to appear deflated. Math wasn’t my bag—I made lots of mistakes, and working with numbers frustrated me. I tried to lighten the conversation with a joke. “Yeah, that’s what I came up with too.”
+
+Charitybelle frowned.
+
+Greenie turned his attention to his vellum.
+
+I held my hands up in surrender. “You’re right. I’ll check the numbers and figure this stuff out beforehand. I didn’t plan to talk about watchtowers today. Weren’t we building sawmills next? I don’t have any blueprints yet, so it’s hard to know how far to make projections.”
+
+“Sweetheart, we can’t give Ally and the work crew default blueprints. They need too much stone and will take too long to build. You need to project our building efficiency, morale, and all their factors every morning so we can prepare for problems down the road.”
+
+I nodded. “I’ll extend projections by at least a few weeks. If I foresee health issues affecting our building efficiency, you can design an infirmary. If culture kills our morale, you can prepare for a brewery or whatever helps our culture rating.”
+
+Charitybelle nodded.
+
+Greenie clasped his hands together behind his back. He often did this when speaking. It straightened his posture, differentiating him from the hunched-over goblins we fought in the mines. He mentioned he grew up among humans near an Eastern city called Malibar. Perhaps the habit came from assimilating. The goblin rocked on his heels when he spoke. “We benefit, to some extent, from the lessons Ally and Brodie learned from their settlement. Careless governors can dig themselves into quite a hole.”
+
+I nodded. Daily projections sounded like a lot of throwaway work, but precautions often were. If we wanted Hawkhurst to last long enough to have a battle college, a little math seemed a trivial price to pay.
+
+Charitybelle leaned over her sketch. “The watchtower won’t be too costly—at least, we won’t need stone. Lumber will be a pain to make until we get our mill, but there’s nothing we can do about that.”
+
+Greenie raised a finger. “A tower will open a new red slot on our labor interface. One worker needs to occupy the watchtower to activate its visibility.”
+
+“I can do that—or take turns with Fab and Yula. And after we finish the watchtower, we’ll do the lumber mill and then, possibly, the motte and bailey, which is our best defense against momma dinosaurs.”
+
+“Momma dinosaurs?” Charitybelle’s forehead furrowed.
+
+“Don’t ask. I saw a baby earlier on the edge of the meadow. We can avoid critters if we stay away from the woods. They’re probably still nervous about the ward worm eating them. Besides watchtower duties, I’ll perform projections every day. If you need someone to watch for potholes down the road, I’m your man.”
+
+Charitybelle blew me a kiss and tactically added one last bit to stanch my wanderlust. “You can also reconnoiter our perimeter for another quarry. We can’t use masonry until we find another source of stone.”
+
+I nodded. Getting a lay of the land appealed to me and gave me something active to do.
+
+Once Hawkhurst stabilized, I looked forward to training its citizens, and doing so legitimized me as a leader. The only times I felt comfortable with public speaking involved helping cadets in the academy. Learning and teaching felt like noble pursuits, probably explaining my fixation on winning this contest and attending college.
+
+When the meeting broke up, I reluctantly joined Greenie and Charitybelle for our first night in the roundhouse. I wanted to crash in the privacy of the Dark Room, but the game considered the extra-dimensional space outside our settlement’s boundaries. Hence, no little radar blips appeared on my interface map.
+
+Though noisy and cramped, the building’s tidy design and sturdy construction impressed me. The dwarves considered anything above ground or woodwork flimsy, but it fit our needs.
+
+Yula moved into the bunk closest to the stairs to be among the first responders if anything attacked. She and the Silverview brothers, Blane and Bernard, who’d accompanied us to meet the vargs, often practiced knife fighting in the evening. They held wooden spoons as imaginary blades and practiced maneuvering around one another.
+
+As the last person inside, I closed the door we’d repurposed from the mine. Canvas covered the iron gate to keep out the chill of winter nights, and we’d configured it to lock from the inside.
+
+Exhaustion prevented me from attempting another late shift. Tonight, Fabulosa kept watch.
+
+Charitybelle and I shared a double bunk, making me grateful that someone had fashioned a linen curtain to provide a modicum of privacy. Even though someone had washed it, the worn fabric still smelled of goblins.
+
+Since I’d turned off my interface alarm, I awoke to the sounds of Charitybelle laughing and shushing Chloe outside the roundhouse. Charitybelle’s shushing made more noise than the hawk’s soft squawks. The familiar sounds of Chloe catching pieces of food painted a mental picture of them enjoying the early dawn.
+
+After the sun rose, their play stopped, and she devoted time to designing a wind-powered sawmill. The motionless air in the early morning meant my girlfriend could sketch outside without vellums and parchments blowing away. As the sun rose, so did the offshore breeze, and the paperweights came out.
+
+After breakfast, Charitybelle greeted me with upraised fists. “Greenie finished the watchtower plans last night. It will rain today, and we wanted to get as much done as possible before it starts. Isn’t that right, Chloe?”
+
+Chloe ignored us. I noticed a peculiar absence of seagulls. They typically landed around the tables when people sat at them, but the hawk shooed them away. They wouldn’t be so skittish if they knew talax meat filled the raptor’s belly.
+
+“Where is Greenie? I’m surprised he’s not an early riser.”
+
+Charitybelle shrugged. “He’s a goblin. Greenie worked all night in the Dark Room, so he’s sleeping in. He prefers working indoors, anyway.”
+
+I grunted in acknowledgment that goblins were nocturnal.
+
+The latest number in the government interface pleased me. “Have you seen today’s efficiency? It’s at 89 percent.”
+
+My girlfriend hummed in appreciation without looking up from her work.
+
+The roundhouse improved our camp’s security, comfort, and culture ratings by five percent. The dwarves could erect the smithy in less than a day, which meant I could assign the watchtower tomorrow soon after.
+
+While Charitybelle sketched the sawmill’s gear works, I made efficiency projections and didn’t pester her with idle chatter. Before the wind picked up, the peacefulness reminded me of our time in the Belden library.
+
+I finished my mathematics and assigned tasks by the time the work crew rose for the day.
+
+Rocky numbered amongst the earliest risers, and by the time he served breakfast, a rainfall began.
+
+Before the downpour, Charitybelle and I collected blueprints and sheltered them in the roundhouse.
+
+Even in the drizzle, our construction crew continued to work.
+
+I asked Ally if I could help with the smithy, and she confessed it wasn’t a suitable project for a greenhorn. With all the timbers and boards measured, fitted, and labeled, it made for quick work for skilled laborers. She assured me that a watchtower or barn better matched my construction skills. Sensing her awkwardness, I didn’t press the matter. The last thing I wanted to do was to gum up her process.
+
+Feeling a little useless, I joined Yula and Fabulosa on a patrol of the northern perimeter and kept an eye open for a quarry. We stayed close to Hawkhurst. Being outside the settlement made us blind to radar bogeys, but we needed to know our surroundings. Besides, Yula wasn’t without scouting skills.
+
+The huntress picked up a varg trail where she expected it. We followed it only a short while before she stopped. “Dees ees no good.” Yula pointed to the foliage, then gestured all around us. “Vargs spleet into many trails. Go every way to confuse.” She shook her head in resignation.
+
+The map showed us midway between the worm meadow and Hawkhurst. I turned to Yula. “Where do you think they are?”
+
+The orc shook her head. “I zeenk doggies are not here. Eef ground belong to great green worm, zen varg den far away.”
+
+After making several sweeps through the woods, we crossed a set of dinosaur tracks.
+
+“Tracks come from great creature called adomosaurus. Long neck, eats plants, but not beeg as gargasaurus. Dangerous—but we hunt Vargs.”
+
+Yula dispelled assumptions that plant-eating dinosaurs were passive and peaceful. Catching a territorial bull at the wrong time of year will get a person squashed in the wilderness. Lions and leopards had ferocious features, but buffalos killed more hunters than any other animal in Africa.
+
+After an afternoon of fruitless searching, Yula announced her verdict. “We have great time before varg returns.”
+
+Fabulosa turned to her. “How so?”
+
+“Alpha must heal to stay chief of pack. Mating season ees coming, so many moons before vargs are free.”
+
+I gestured to the west at the news. “If that’s the case. Would you guys be against a quick trip to Basilborough and back?”
+
+Both gave me questioning looks, but Fabulosa spoke first. “What for?”
+
+“We have money now. We can recruit craftspeople and hire mercenaries.
+
+Yula scoffed at the idea. “Orcs don’t belong een soft, western cities.”
+
+“Yula is probably a bit too feral for the west. The eastern cities, maybe. We should go to Fort Krek instead. We already know what lies west. Let’s go east to Fort Krek.” Fabulosa looked at Yula for a response.
+
+“Maybe you make friends with city-orc next time.” Though Yula’s remark showed a sense of humor, her face did not.
+
+I waved my hands. “Okay, okay. It’s just an idea.”
+
+Fabulosa shrugged. “Why don’t I go with C-Belle? Y’all could help Yula protect the camp.”
+
+“She won’t go for it. There’s no way she’d abandon camp this early.”
+
+Fabulosa whispered behind her hand like a conspirator spilling a secret. “You leave that to me. We’ll take the Dark Room to sleep in safety, and Chloe can scout for enemies. Besides, Yula can guard the dwarves better than Charitybelle.”
+
+The idea of Charitybelle and me separating in this dangerous world rattled me. They’d have to march through the weaver’s territory.
+
+As I calculated the hazards, Fabulosa rolled her eyes. “You think you can protect her better than me—out in the wilderness?”
+
+I wagged my index finger. “I didn’t say that.”
+
+“Or don’t you think us girls can get along without you?”
+
+I threw my hands up defensively and nervously laughed. Fabulosa could troll if she wanted—I wasn’t taking the bait.
+
+“Just wait until C-Belle hears about this.”
+
+I groaned. I couldn’t believe what I’d started. While Fabulosa goofed around, my point still rang true. Charitybelle wouldn’t leave, even if Fabulosa tried reverse-child psychology. Hawkhurst meant everything to my girlfriend.
+
+Still, shopping for supplies and recruiting people could prove essential for growth and survival. Maybe after we built a motte and bailey, the three of us could go together.

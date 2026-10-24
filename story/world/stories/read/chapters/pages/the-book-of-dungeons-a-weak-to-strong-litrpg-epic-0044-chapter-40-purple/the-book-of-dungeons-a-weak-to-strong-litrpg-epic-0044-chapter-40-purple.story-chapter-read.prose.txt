@@ -1,0 +1,193 @@
+I collapsed into the grass and pointlessly cast a Rejuvenate, my only available instant-cast spell. I’d hoped its healing effects would reinvigorate me, but it did nothing for my depleted stats. I could do nothing but breathe and wait for the troglodyte to finish me off with a blow. But the creature didn’t pursue. Perhaps it dropped the log during the chase. Lying down, I could feel the ground no longer shook. When I gathered enough strength, I again peered over the tall grass like a prairie dog, looking for my predator.
+
+The troglodyte stood at the edge of the tree line as if a Wall of Force separated us. With a great heave, it hurled its log, but Fatigue prevented me from avoiding it, and it smashed against me for a whopping 83 damage. The log rolled until the high grass wore down its momentum. Debuff icons for Fatigue and Dazed lit my interface.
+
+But the giant remained in place, and we stupidly stared at each other until Charitybelle and Fabulosa entered the clearing. The troglodyte only glanced their way before returning its attention to me, still making no move to advance.
+
+I turned toward the caravan, which slowly plodded across the meadow, seemingly without a care in the world.
+
+Gasping for air, my friends made their way down the slope of grass, fearfully watching the monster behind them. I leaned on my elbows, too tired to stand, while they stood protectively over me.
+
+Between breaths, Charitybelle spoke. “Why did it stop?”
+
+Shaking my head, I couldn’t believe she expected an answer from the person who’d led the monster to the caravan. “Maybe we left its territory.”
+
+Charitybelle nervously looked around. “Hmm. I dunno. This game’s monster AI doesn’t use spawn point, wander radius, or leashing behavior. This has got to be something else.”
+
+Fabulosa leaned on her knees while she recovered. “Maybe it’s subterranean. Its eyes might not do well in open daylight.”
+
+We panted and looked at one another, doubting the explanation. The troglodyte had previously drawn us into small clearings.
+
+Why had it called off its attack?
+
+When the troglodyte disappeared into the forest, I collapsed backward and stared at the sky.
+
+We performed a Rest and Mend, and Charitybelle asked Chloe to fly the perimeter of the clearing and toward the center. Perhaps a carcass hiding in the tall grass spooked the beast. I watched the caravan, but the dwarves didn’t seem troubled.
+
+Charitybelle reclined in the grass beside me. She closed her eyes and used Chloe to scout for danger. “This meadow looks like a crater from above, but holes and trenches gouge the surface. These holes are the same as those we saw back at Hawkhurst. They’re a few yards across—some as long as a football field.”
+
+Fabulosa squinted and pondered the news. “Are they curved and erratic?”
+
+Charitybelle shook her head. “No, these are pretty straight.”
+
+Fabulosa shook her head. “Hmm. They’re definitely not landsharks.”
+
+I considered another implausible explanation. “Maybe the trog worried about falling into a trench. If its eyes are on opposite sides of its head, doesn’t that mean poor depth perception? At ground level, these trenches are hard to see.”
+
+Fabulosa gestured at the forest. “A whaler that tall ain’t exactly at ground level.”
+
+Charitybelle shook her head. “Nah. They’re only a few yards across. Even we might cross them with a running jump. The trenches aren’t deep enough to bother the trog.”
+
+I felt in no condition to debate and gave up trying to figure out its motives. I didn’t have the energy to care and joked weakly at our situation. “Well then, I’m sure we’re perfectly safe here.”
+
+After Rest and Mend cleared my debuffs, I stood and watched the caravan crawl toward the meadow’s south edge.
+
+Brodie had broken from the column and approached. Though he stood tallest among the dwarves, his head barely cleared the grass as he walked toward us. He didn’t seem distressed.
+
+Everyone rested after the close call. Charitybelle sat with eyes closed, enjoying a commercial-free broadcast of the hawkeye channel.
+
+Fabulosa studied a tuft of grass.
+
+“We should check up on the dwarves. I’m going to see what Brodie wants. Are you and C-Belle good?”
+
+Fabulosa waved for me to go ahead. I didn’t get a response from Charitybelle, who cooed at whatever sights her bird revealed.
+
+After another backward glance to ensure the troglodyte wasn’t sneaking up behind us, I stood and walked to meet Brodie halfway.
+
+When the dwarf and I reached shouting distance, he called to me. “What do ye make of that? I’d never seen a trog dr—”
+
+An earthquake interrupted him.
+
+Brodie threw out his arms and performed a hula dance for balance.
+
+The spot where he stood erupted into a column of green skin as he disappeared into the maw of a gigantic worm.
+
+Name
+
+Ward Worm
+
+Level
+
+65
+
+Difficulty
+
+Certain Death (purple)
+
+Health
+
+10,500/10,500
+
+A pillar of segmented flesh issued from the ground, looking like a tower of green tires. Its middle rings expanded and contracted around the bulge that had once been Brodie Anvilhead. The mastication left me dumbfounded. It felt more like an event than an attack.
+
+Almost by reflex, I turned to my interface for confirmation of the horror.
+
+/Ward Worm crits Brodie Anvilhead for 614 damage (0 resisted)./Brodie Anvilhead dies.
+
+In a previous life, I’d studied annelids in a biology class, but nothing I learned about their physiology prepared me to fight a monster like this. The ward worm undoubtedly hunted through vibrations. Perhaps standing still kept me safe. As if to answer the thought, double-lidded membranes in the worm’s side opened to reveal eyes the size of softballs looking straight at me.
+
+“Why would a worm need eyes?”
+
+An unfair universe gave no reply.
+
+I stood dumbfounded until the worm’s shadow passed over me.
+
+In the face of certain death, I realized the folly of my initial strategy of outwaiting contestants in this game. Playing out the clock in a log cabin wasn’t any way to win a battle royale. I’d been far too inactive. Tagging along with Charitybelle’s plans wasn’t enough for me anymore. I’d waited too long to become the hero of my story.
+
+I moved.
+
+For the first time since coming to Miros, I felt like I had a purpose—I needed to save my allies.
+
+While patience and caution had their place, the game rewarded initiative. Teaming up with NPCs promised a leg-up against the competition. The caravan carried everything we needed to establish a homestead in the heart of this mysterious continent, and I couldn’t risk losing that advantage.
+
+My chances with the beast might improve in the forest—the troglodyte’s behavior supported this theory. Perhaps the roots slowed or stopped the worm.
+
+Even though the afternoon sun shone, I turned on Presence and charged, hoping the light would repel the subterranean creature.
+
+I achieved the opposite response.
+
+The green worm’s segments undulated, and the lump of Brodie’s mass disappeared. After swallowing, the creature renewed its breach and arched toward the ground, toward the bright thing on two legs, running toward the treeline hundreds of yards away. It moved parallel to me as fast as a speeding cargo truck.
+
+I had no hope of reaching the forest.
+
+Misjudging the creature’s speed left me with no backup plan. To survive the next few seconds, I dodged away from the worm, but its shiny, green rings passed in front of me like an express train thundering through a station. Its front end curved around me, and I reversed my flight.
+
+I’d done enough fleeing already to know changing course wasn’t a good sign. The worm stretched almost a quarter-mile long and curled around me until the front reached its tail like the ouroboros snake.
+
+I ran toward the hole from which it emerged, but it cut off escape by contracting its bulk. The encircling green wall tightened, giving me less room to maneuver. I pulled out a spear and fecklessly tried to puncture its hide, but it repelled my efforts. Its green surface glistened with an iridescence like oil in water or the shimmer on a seashell.
+
+My spear wasn’t flexible, so pole vaulting over it wasn’t an option—nor did I know how to pole vault —so I dismissed the fanciful notion. I dropped the weapon and tried to leap onto the worm, but its slick, shaking surface made it impossible to climb. After trying again, I landed on my rear and rolled away to avoid getting squashed.
+
+The ground shook so much that I had to crawl on all fours.
+
+As the worm tightened its coil, I got a distinct impression it could have crushed me with a simple roll of its mass, but the creature must have wanted me for another meal. The ground stopped shaking when it stopped contracting and lifted its head like a cobra. Its oral orifice flared, previewing my impending doom.
+
+The scene panicked me enough that I stood on shaking legs and staggered to the center of the green rings. After remembering that players could pause the game, I pulled up the interface and mentally recited my favorite mantra—stop, breathe, and think.
+
+I paused the world.
+
+Beyond my interface, green segments moved in the background, and I ignored the deep, muffled noises they made. The world remained in motion, albeit at a crawl, giving me time to consider my position.
+
+The sky above remained calm and sunny, almost like a promise that an escape existed. Nassi, the big green moon, the source of nature-based magic, dominated the heavens. I even spotted Tarnen. The dark moon appeared as a soft lavender crescent in the afternoon. But celestial phases, altitudes, or azimuths offered no answers to the mortals beneath them.
+
+I turned my attention to the interface and read my potential powers one by one. Compression Sphere might launch me past the creature’s bite radius, but the worm would catch me on its second attempt. If I landed on its back, I’d probably slide off—or a simple roll would crush me. It wasn’t an animal, so I couldn’t commune with it. Nothing looked promising in either my spells or abilities.
+
+I fell short of any combat benchmark.
+
+The trees offered shelter, but I couldn’t outrun this leviathan.
+
+How could I survive a ward worm? I’d never heard of a ward worm before. The library contained no reference to anything like this in its fables, bestiaries, and monster manuals.
+
+Could the ward in its name be a clue? Wards were a type of rune in other games, but I didn’t see how knowing its magical nature could help. Even if I cast Detect Magic, what good would it do if the whole thing glowed? My list of potential powers offered no solution, and I didn’t see how spending a point on a new spell or ability could save me.
+
+Available Spells
+
+Tier 1
+
+Acid Splash, Animal Communion, Bless, Dim, Faerie Flames, Featherfall, Ice Bolt, Imbue Weapon, Just Strike, Light, Lightning Bolt, Mana Shield, Move Object, Purify Water, Summon Swarm, Tangling Roots, Vegetable Empathy
+
+Tier 2
+
+Counterspell, Fireball
+
+Tier 4
+
+Rally
+
+Power Points
+
+1
+
+With a modest mana pool, Mana Shield wouldn’t buy me an extra second of life. Featherfall provided no means of escape in a bowl-shaped meadow. I mulled over spell and combat abilities, but nothing in their descriptions seemed practical.
+
+I considered my magic rope. Could I unwrap the cord from my waist and shimmy up it in time to save my skin? I doubted it. Judging by the vector of the worm’s head, it looked to be only seconds away from eating me, and it would take that much time to unwind the rope, leaving no time to climb. Even if I reached safety, where would that leave the caravan, Charitybelle, and Fabulosa? They stood far away, but the worm could overtake them before they reached the forest. And anyone reaching the tree line might fall into the troglodyte’s grasp.
+
+Was this how I would lose The Great RPG Contest? I could have taken every precaution, made every preparation, and calculated every plausible danger, but none of it made a difference against this enemy.
+
+This creature wasn’t just an opponent—it was a deity or force of nature. The green worm rose four stories high and poised itself to strike. The standoff felt like reaching the apex of a roller coaster—a moment of apprehension, terror, and clarity.
+
+Even though I could use my interface to stretch time, I only had seconds before the vermicular mouth engulfed me.
+
+After scrutinizing my inventory, I spotted two items of salvation. After equipping them, I dropped my interface, bringing the world roaring back to action.
+
+The worm struck.
+
+For my first action, I downed the potion of invulnerability that I’d taken from the cacowight, Adrian the Lame.
+
+Sunlight disappeared as the creature swallowed me, but I could still see with Presence active. My skin’s radiance illuminated the surrounding digestive tract, which pushed me further into its gullet.
+
+The potion’s immunity provided ten seconds of life. After instant-casting Rejuvenate on myself, I began my next spell, shouting incantations as the ward worm’s stomach acid sizzled me to no effect. Six seconds later, I finished casting Scorch, igniting the bundle of dynamite I’d taken from the goblin mine.
+
+With four seconds of invulnerability left, an explosion of g-force flung me sideways. Riding a shockwave across the meadow at Mach 3, I streaked over the dwarves, leaving a trail of golden sparkles from Rejuvenate. The base of a tree served as the tarmac for my nonstop flight, and I smashed into it with less than a second left of invulnerability.
+
+/Black powder stick crits Ward Worm for 24,512 damage (0 resisted)./Ward Worm dies. /You received 773 experience points.
+
+Congratulations!You are level 16
+
+You have gained 5 levels. You have increased your stamina by 3, intelligence by 4, strength by 2, agility by 3, and willpower by 3. You have received 5 power points. You have 1,705/1,830 experience points toward level 17.
+
+I soloed what might have been a world boss. While the game supported no global announcements, part of me wanted it to crow about my victory in the event log.
+
+Seeing the pulverized tree made me shudder, and I silently thanked the potion of invulnerability.
+
+The Book of Dungeons had its highs.

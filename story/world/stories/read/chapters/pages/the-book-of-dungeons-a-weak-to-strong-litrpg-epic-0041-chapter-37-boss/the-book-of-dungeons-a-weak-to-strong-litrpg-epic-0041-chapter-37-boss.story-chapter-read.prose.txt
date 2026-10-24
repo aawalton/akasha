@@ -1,0 +1,131 @@
+The voice from the chute broke the silence after the monster’s scream. “Are you all right?”
+
+Fabulosa removed her fingers against her earlobes. “I’ll let you know after I put my skull back together. What in blazes made that racket?”
+
+Not only could this goblin speak in the common tongue, but he sounded educated. “That came from my custodian, who has accompanied me for quite some time. Ostensibly, the creature’s installment prevents me from usurping his throne.”
+
+Fabulosa crouched over the trapdoor. “Aside from the chute, is there another way into your room?”
+
+“I’m afraid not.”
+
+Charitybelle stood on her tiptoes to look into the chute. “How long have you been down here?”
+
+“This has been my home for approximately four years. I grew up in exile outside Malibar, designing and restoring siege engines for the humans fighting against the ogres in the south. After succeeding our father, Rezan dispatched messengers bearing news of his inheritance, bidding me to return home. He reaffirmed his oath that no harm would befall me. Believing his sincerity, I conceded. Rezan kept his word by interring me here, guarded by this vociferous beast.”
+
+While the goblin gave his story, Brodie entered the room to investigate the sound.
+
+Fabulosa sighed and whispered. “I didn’t make him for a goblin—he sounds human. If we leave him here, he can testify that orcs didn’t cause the jailbreak.”
+
+Charitybelle called down the chute. “If we killed that creature, would you return home?”
+
+The disembodied voice answered after a pause. “Returning home would not serve my interest. And I’m afraid eliminating my ward would be a small favor, for I have no survival skills. I should expect to find my death in the wilderness.”
+
+Brodie erupted with a laugh. “Hah! It sounds like ye be in good company!”
+
+I held up my hand to belay his banter. “Do you know how we might defeat your guardian?”
+
+“None have tried to fight it. My curators feed sheep to it from time to time. The fall hobbles them, so the beast dines on mutton with little ado. At least, my cell lies beyond its grasp.”
+
+I bumped my head on the ceiling and got an idea. I grabbed a chunk of raw meat from my inventory and dropped it through the trapdoor.
+
+The head of an enormous bat picked it up. I couldn’t see its whole body, but its head matched the size of a washing machine.
+
+I watched in fascination as it gobbled down the meat, although the odor wafting from below made me gag. A boss monster nameplate hovering over its head detailed its vitals.
+
+Name
+
+Karst Caradon
+
+Level
+
+23
+
+Difficulty
+
+Challenging (yellow)
+
+Health
+
+1065/1065
+
+I aimed a Shocking Reach at the monster, but my spell fizzled. Yula motioned me away and shot an arrow, but an invisible force careened the missile wide off its mark. Her point-blank shot should have hit the creature.
+
+The shaft beneath the trapdoor glowed after I cast Detect Magic, and I informed the group about the aura. “The spell failure must be from an anti-magic field between the rooms. We can’t attack it from here.”
+
+Fabulosa unfurled a rope from her inventory. “Fine. We’ll make it a more intimate engagement.” She tied incremental knots down the line’s length to make climbing easier while everyone refreshed Heavenly Favor.
+
+Brodie tied one rope end to the chute door’s iron handle. The narrow chute couldn’t accommodate us, leaving the trapdoor as the only way down. Its first six feet looked as tight as a chimney, opening into a 20-foot drop to the room below. The bat looked 20 feet tall, so its head could reach the opening, but it couldn’t fit its head into the shaft.
+
+Fabulosa lowered headfirst with her legs locked around the rope. She dropped a few feet, still outside the creature’s reach. She dropped a hunk of meat, which landed with a wet plop. “At least y’all won’t have to stoop anymore. Oh, but it reeks!”
+
+When the caradon bent to pick it up the meat, Fabulosa reached into the room and tossed two more chunks into a far corner. The giant head turned and went after the bait.
+
+An upside-down Fabulosa grabbed the line, released her ankle lock on the rope, swung herself upright, and climbed down the line. She performed the entire maneuver fluidly, in one motion.
+
+We became adept at rope climbing by regularly using the magic rope for the Dark Room. Fabulosa scampered down the line with the deftness of a pole dancer. My descent wasn’t as fancy. Yula glided down with a Featherfall buff appearing on her nameplate, and Charitybelle came last. We threw more meat toward the chamber’s far side to preoccupy the monster while everyone else climbed into position and prepared spells.
+
+The karst caradon’s head and body bore batlike features but sprouted wings with no membranes. Its elongated limbs had twelve stretched digits reaching the floor, supporting the monster’s mass in the air like a giant spider.
+
+Everyone cautioned me against using Compression Sphere, and I agreed. It would be ineffective against creatures this big, anyway. Since Fireball did only a little damage, Fabulosa opened with a Lightning Bolt. Shocking Reach, Scorch, and an Imbued Arrow hit the beast’s shaggy hide at the same time.
+
+I regarded the combat log when I saw Yula’s attack.
+
+/Yula crits Karst Caradon for 92 damage (0 resisted). /Karst Caradon resists Concussion from Imbued Arrow./Karst Caradon slows with Treefrog Poison 2.
+
+Yula had a killer opening. She poisoned an arrow with a minor slow effect, then imbued it with magic, causing the missile to glow and reflect light—as if covered with liquid mercury. The effect came from Imbue Weapon, a spell I unlocked days ago while spamming Detect Magic over our journey to the wilderness. Its horrible mana efficiency made me pass on it, but at least I knew to watch out for weapons glowing with the reflective mirror effect. They could inflict a lot of damage.
+
+Unfortunately, Yula landed the only critical attack. Spells didn’t crit like weapons when attacking from a concealed or flanking position.
+
+/You hit Karst Caradon with Shocking Reach for 12 damage (2 resisted)./Fabulosa hits Karst Caradon with Lightning Bolt for 26 damage (4 resisted)./Charitybelle hits Karst Caradon with Scorch for 18 damage (6 resisted).
+
+With my primal magic rank at 15, I should have done 20 damage, but I suspected the creature’s willpower, level, or natural defenses factored into its resistance. Fabulosa once told me some monsters took extra damage from different types of damage.
+
+I wasn’t the only one experimenting. Considering the mana cost, Fabulosa’s Lightning Bolt produced lackluster damage against this single target. She followed with a quick Scorch that did nearly as much, then threw herself into melee. At least, that had been her intent.
+
+When the spells and Yula’s arrow landed, the bat’s body pivoted in the air with more agility and range than anyone expected. The long limbs extending its body in the air also gave the monster incredible maneuverability.
+
+When it inhaled, we covered our ears. Preparing for the shriek made it bearable, so we avoided the Deafened debuff. The creature launched its body forward, spanning the 50-foot gap in less than a second, and bit Charitybelle. She wore scale mail but was also our lowest-level combatant.
+
+/Karst Caradon hits Charitybelle for 60 damage (13 resisted). /Charitybelle is diseased with Guano Rot.
+
+I didn’t know what the disease did, but it didn’t immediately affect her. The single bite dropping her to 44 percent health worried me. A critical hit could have knocked her out of the game.
+
+Her health jumped by 50 points, showing that she’d used her health potion, but it wasn’t reassuring. I tossed a Rejuvenate to top off the remaining 10 health loss.
+
+Mugsy, the bull terrier, appeared from nowhere and tried to get the beast’s attention, but no amount of barking could draw it. Nevertheless, Mugsy performed his role with gusto, filling the room with echoes.
+
+Fabulosa surprised me with a new spell, Ignite Weapon. Her sword erupted in white flames, but it didn’t appear that she dipped it in oil and set it ablaze—it looked like the metal itself emanated energy.
+
+Yula slung her bow over her shoulder and armed herself with a spear and shield. She tried to get the creature’s aggro and serve as the party’s tank, but the caradon ignored her, biting Charitybelle again for 64 damage.
+
+With my Rejuvenate already working on her, I could do nothing but Scorch the thing for 27 damage. But the caradon still had 85 percent of its original health, making this a precarious encounter.
+
+Esol, our new goblin ally, helped. He poked his head around his cell’s doorway, alternately casting Shocking Reach and Ice Bolts for minimal damage.
+
+Things got better after Mugsy finally pulled the creature’s attention. The dog dodged the caradon’s attack, allowing everyone to pelt the monster with more damage. I equipped my cudgel and smacked the closest spidery appendage—the only part of the beast within reach.
+
+The monster’s body mass hung far above us, weaving and diving with incredible dexterity. And the creature’s great reach meant everyone risked being bit. Someone must have designed the room around the creature’s size, and that’s when I noticed the smooth walls that looked like poured concrete.
+
+I breathed easier when Charitybelle cast Restore on herself.
+
+Only Fabulosa’s flaming longsword and Yula’s spear reached its center mass. When Fabulosa struck, the point of impact erupted in a lingering burn—a clue to how her new spell worked. Ignite Weapon stacked a damage-over-time effect from melee strikes.
+
+I could survive a critical hit from a bite, whereas Charitybelle could not. I considered spending my only power point on Restore, but it wouldn’t do her any good if she received a critical hit. She had a Rejuvenate working on her and would soon return to her maximum health.
+
+Even though I positioned myself between my girlfriend and the monster, the caradon’s head swooped past me and bit Charitybelle again. It wasn’t a critical hit, so she survived.
+
+I hammered at the beast with Scorch and Shocking Reach—my high spell rank made me a significant contributor to our damage output.
+
+When the monster’s attention shifted from Mugsy to Yula, its bite delivered 48 damage. Yula, a strapping level 19 warrior, only dropped 20 percent of her health, so keeping her alive proved easier than Charitybelle. We devoted our next casting of Rejuvenates to our new tank.
+
+The fight stabilized to a typical tank-and-spank once Yula pulled the monster’s attention.
+
+After Charitybelle recovered her health, everyone directed their Rejuvenate to the orc huntress. The orc showed no signs of urgency since the karst caradon stood only four levels higher.
+
+Charitybelle and I canceled our spells and covered our ears whenever the creature screamed. Fabulosa and Yula, in melee, winced through the pain and pressed their attack without abating. The debuff looked painful, but they discovered they could crit the thing during its screech—and took every opportunity to hit it during its vulnerable period.
+
+We wore it down to zero health while suffering no losses. Everyone, including Esol, announced they’d gained a level upon the creature’s demise. Charitybelle hit level 9. Fabulosa made 14, Esol became level 5, and Yula reached 20.
+
+Congratulations!You are level 11
+
+You have gained a level. You have increased your intelligence by 1, agility by 1, and willpower by 1. You have received 1 power point. You have 932/1030 experience points toward level 12.

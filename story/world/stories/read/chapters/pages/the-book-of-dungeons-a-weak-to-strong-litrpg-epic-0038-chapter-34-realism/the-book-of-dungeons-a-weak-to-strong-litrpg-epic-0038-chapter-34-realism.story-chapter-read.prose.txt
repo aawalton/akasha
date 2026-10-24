@@ -1,0 +1,187 @@
+In stepping out of the forest, Presence made the rain around me shimmer like a body-sized halo. The glowing drops obscured my vision, but we’d need it underground, so I followed the group half-blinded. No one objected to the daylight glow, not even Yula, whom we adopted as our protective big sister.
+
+“Ees good to see, and we are too many to sneak.” She assessed a tunnel entrance on our approach. “Zees looks like new colony. Not part of green devil city. Ees daytime, so plenty of time to hunt.”
+
+“What are y’all waiting for? Let’s kick up some dust!” Fabulosa strode to the front of the party, giving me a better sense of the tunnel’s dimensions.
+
+The tunnel’s 5-foot-high ceiling became more apparent as Fabulosa neared its entrance.
+
+Throwing her bravado into reverse, Fabulosa complained aloud to no one in particular. “Oh, come on! What are we supposed to do, fight on our knees?”
+
+Crouching, I entered the opening behind her with a grumble. “I am not liking this game’s realism.”
+
+We slumped beneath the low ceiling, which hampered the power and maneuverability of our swings. Our tallest member, Yula, voiced no grievances.
+
+Charitybelle and I took up the rear as we descended into the hillside. The tunnel had a bitter, metallic aroma but smelled nowhere near as unpleasant as vinegar. Short footprints and depressions made by wheeled vehicles covered the floor. It seemed a small wonder that handheld tools chiseled the ceiling and walls with such uniform smoothness.
+
+Aside from the low ceiling, we encountered no obstacles.
+
+The tunnel’s frequent forks led to many dead ends—evidence of exploratory mining. We met no goblins while probing for the main thoroughfare. Mineral Empathy revealed it to be an iron mine, and I told the group—happy to provide intel for the venture.
+
+Down we spiraled.
+
+At forks, I cast Scorch on the ground to mark dead ends—in case we needed a quick exit. Doing so gave me an excuse to rank up my primal magic skill beyond 15.
+
+After a dozen minutes, we heard the gibberish of a goblin speaking ahead—possibly in response to my light spell. But the creatures sounded more annoyed than alarmed until we rounded the corner.
+
+Five goblin guards retreated behind a barred gate.
+
+Name
+
+Goblin Gatekeeper
+
+Level
+
+7
+
+Difficulty
+
+Easy (green)
+
+Health
+
+92/110
+
+Yula’s reference to green devils served them justice. Their hairless scalps, sharp teeth, and pointed ears gave them a somewhat demonic aspect while bearing a sense of individualism. Each goblin sported assortment of warts, scabs, and disfiguring scars. Some had painfully taut skin, while others bore hanging folds reminiscent of turkey wattles. Many of their noses grew large enough to hinder visibility. Some protruded six inches from their face, while others drooped over their mouths. The wider varieties offered sickening views of oversized nostrils.
+
+Charitybelle frowned in disgust. “Ugh. I am not liking this game’s realism.”
+
+Ugly as the goblins were, their faces held character—human enough to produce recognizable reactions to our intrusion. They registered outrage, disgust, confusion, and panic. When they raised their weapons, we met their challenge.
+
+Yula launched a glowing silvery arrow while I lit up one goblin with a Scorch. After our opening volley, I studied the results in the combat log.
+
+The goblin that took Yula’s arrow still had half its health. It and its four companions hollered an alarm, dashing my hopes that the orc huntress had one-shotted it. Our opponents’ high level somewhat dismayed me, especially after our recent fight with the kobolds. We wouldn’t kill these with one-and-done blows.
+
+The enemy withdrew and closed a crude iron gate between us. Fabulosa and Charitybelle each cast Tangling Roots, holding two of the enemy in check. They bottlenecked together in a 4-way intersection—behind them stood another closed gate, a closed door, and an archway covered by a ragged curtain.
+
+While others cast spells at the gatekeepers, I pulled out my cudgel and pounded the locked gate. Striking it made a terrible racket. I never imagined myself in the role of sounding the alarm, but there I was, ringing away, hoping it would bust open with a lucky hit. I bumped my head on the ceiling on every other swing and grumbled under my breath. “This is a brilliant plan. I’m so glad we caught them asleep.”
+
+Yula took her time to Aim, shooting glowing arrows at running goblins while Charitybelle cast Scorch.
+
+Fabulosa motioned for my cudgel. “Patch—swap with me.”
+
+I relented without hesitation—at her level, her strength stood much higher than mine.
+
+Fabulosa wound up her swing and landed the weapon with a clank so loud it echoed. When it held, she swung again. Instead of snapping the lock, one of the gate’s top hinges popped loose. She hammered a few more times at the other hinge, breathing hard. “This… would be easier… if I could stand… straight!” As she finished her sentence, the barred gate collapsed inward.
+
+We charged with a panting Fabulosa pulling up the rear.
+
+Yula and Charitybelle shifted their firepower to one of the rooted goblins, finishing it off before it could find cover behind its four compatriots. I attacked the other rooted gatekeeper with my spear.
+
+The intersection opened to another barred gate, a closed door, and a curtained arch. Beyond the curtain, a barracks full of goblins made hurried preparations for battle.
+
+Fabulosa bashed the second gate in a rhythmic percussion while the three of us dealt with the four goblin guards. We needed to coordinate better the next time before entering a dungeon.
+
+I don’t know why Fabulosa focused on the second gate when the archway presented an immediate threat of goblins. Perhaps she didn’t know about what lay beyond the curtain—and everyone was so busy no one took time to object.
+
+A bull terrier whose nameplate read Mugsy fought beside Yula. The barking dog preoccupied one goblin. It swung its club at the animal, who sidestepped every attack. The terrier’s tail wagged with palpable joy at the game. Was that funny little mutt Yula’s Familiar?
+
+Over a dozen goblins occupied the room beyond the curtained archway. Our desperate fight against kobolds a few nights ago reminded me of how Compression Sphere worked against smaller opponents. “Hold them for a few seconds, C-Belle!”
+
+The second goblin guard fell.
+
+The next time we assaulted a dungeon full of goblins, I wanted a more coherent strategy than “We Crush Green Devil Now.”
+
+Charitybelle didn’t have time to deal with the dozen in the barracks. The three remaining goblins occupied her and Yula with melee. Yula had already dropped her bow and wielded twin short swords reminiscent of ArtGirl. Her toned, yellow arms ended in flashing steel, finishing the three guards.
+
+After three seconds, I cast Compression Sphere into the open archway near the thickest concentration of goblins. When the spell triggered, the curtain over the barracks doorway flew toward us, and a dust cloud billowed into the intersection.
+
+Oops.
+
+Yula pulled the filthy curtain from her head, and Charitybelle coughed, wiping her eyes. The pair looked miserable, hunched under the low ceiling.
+
+Worse yet, no death messages appeared in the event log, but at least the spell wreaked havoc inside the barracks. Because of Presence, I glowed and radiated god rays while moving about the dust cloud. I squinted to see through the bloom of particulate matter.
+
+“Why do dees?” Yula straightened in irritation, bumping her head on the ceiling.
+
+Charitybelle backed away from the dust.  “Don’t do that again, please! Fab, we’re going to need you now!”
+
+I felt guilty about the mess, but that’s how AOE damage sometimes worked—one step back for two steps forward. I still considered it a win, though—it hurt the enemy more than us.
+
+Fabulosa turned from her task of bashing the gate and assessed the situation. “Get away from the barracks!” Fabulosa began casting.
+
+Charitybelle barely got the words out before Fabulosa finished. “No, wait—!”
+
+A Fireball ember ignited between Fabulosa’s fingers. It rolled through the air, growing to the size of a basketball as it sailed into the barracks archway. The explosion rocked the room, heaving black smoke into the intersection.
+
+Blinking and coughing, we backed away.
+
+Heat, dust, and smoke issued from the barracks. A few goblins charged through the arch.
+
+Fabulosa Shield Bashed the first goblin to emerge, stunning it, while the rest of us brought it down.
+
+Yula retrieved her bow and loosed arrows into the barracks.
+
+Coupled with our melee damage, we eliminated the guards one at a time as they emerged, coughing and disoriented.
+
+Some goblins came out unarmed or with their eyes closed. I thought of the emaciated dwarven corpses outside and cut down every single one.
+
+After the last goblin dropped, I leaned into the room to inspect the wreckage. Smoldering remnants and debris littered the floor. A passage on the far side of the room looked like the primary artery into the mine. The barrack’s placement forced escapees to fight through the guards. Judging by the opening, it seemed likely that at least one goblin had gone deeper into the mine to raise the alarm.
+
+I backed out of the room, coughing.
+
+The blind Fireball was a tried-and-true RPG trope. When adventurers suspected a cadre of minions in an adjoining room, Fireballs softened the encounter. In this case, The Book of Dungeon gave a little blowback, but soon the air cleared.
+
+Charitybelle picked at something that had landed on her eyelash. She didn’t look happy.
+
+Fabulosa picked up my cudgel from my belt loop. After bumping her head on the ceiling, she cursed and crouched over the second barred gate. Brandished my cudgel like a baseball bat, she planted her feet and took full-bodied swings at its locks and hinges, which withstood the impacts. She syncopated each strike with her syllables. “I…already…hate…this…dungeon!”
+
+I tried the large door opposite the barracks, but its heavy lock blocked my efforts. I got Fabulosa’s attention over the noise. “Fab! Fab! I think the main route goes through the barracks.”
+
+Fabulosa shot me a glance, then glared at the barred gate. “Here, take it back!” She shoved the Black River Cudgel into my hands, stooped over, and stomped through the barracks archway.
+
+I followed behind, keeping a safe distance. I’d rather the goblins bear her frustration.
+
+Charitybelle and Yula sat in the intersection as the smoke drifted toward the entrance. They strategized while performing a Rest and Mend.
+
+Yula riffled through pouches and belongings. “No key on green devils.”
+
+Charitybelle didn’t look annoyed anymore. “Let’s find a room or a hallway with a higher ceiling. This crouching is terrible.”
+
+The hall beyond the barracks grew broader but not taller. Exploratory tunnels sprouted along the sides. While combing the place we checked each for hiding enemies. I served as the primary light source, but everyone else carried glow stones on their belts to illuminate the shadowy nooks and corners.
+
+The hall extended 20 yards until it forked into passages wide enough that either could have been the principal corridor. I continued to Scorch the ground to ensure we could retrace our steps.
+
+We picked a fork that twisted downward until it dead ended. Fabulosa huffed audibly, but no one spoke as we turned and headed back.
+
+As I pawed at the loose dirt for buried objects, Charitybelle appeared behind me, whispering. “Douse the light!” After I complied, she covered her glow rock with her palms. “There’s a bunch of them heading toward the barracks. Fab will light them up when we get a chance.”
+
+We caught up with Yula and Fabulosa, who whispered plans of attack. Everyone covered their glow stones and waited for Yula, who closed her eyes in concentration.
+
+Five minutes later, a mouse scurried up to the orc. The name Squeakers appeared on its nameplate.
+
+Yula picked it up and put it into her pouch. It was another pet. With a serious tone, she cupped her hand and whispered. “Zey are on far side of hall.’”
+
+Fabulosa crept forward, followed by the others, while Yula nocked another glowing arrow.
+
+My Compression Sphere’s cooldown status showed its availability. Even though my friends would kill me if I used it, its effect on small opponents could mix things up if things got out of hand. I’d use it only as a last resort. Until then, I planned to rely on Scorch and Shocking Reach before engaging in melee.
+
+As we returned to the fork, Fabulosa finished her Fireball, illuminating the passage with an orange blaze as the sphere splashed the far end of the passage with flames.
+
+Yula’s arrow glowed blue and vibrated, straining her muscles until she released it. The missile dealt the only death message in the combat log. And that seemed a bit off.
+
+After Charitybelle finished her Tangling Roots, I cast a Scorch. My three allies ran forward with their backs lowered and heads canted sideways. One goblin cast a Tangling Roots on Charitybelle, and a trio of bulky goblins stepped forward to receive our charge.
+
+Nameplates revealed their level and health.
+
+Name
+
+Goblin Enforcer
+
+Level
+
+10
+
+Difficulty
+
+Easy (green)
+
+Health
+
+200/200
+
+The trio held wall shields. Yellow sparkles of healing effects haloed from behind—evidence of a healer.
+
+Hunched over, I pulled out my cudgel, but Anticipate triggered, and my body jerked to the side so violently my head bobbed.
+
+A goblin cloaked in black leather extended a dagger into the space I occupied only moments before. It seemed flustered when the business end of its weapon hit nothing. Even without Stealth, it moved to attack me.

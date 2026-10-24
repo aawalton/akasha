@@ -1,0 +1,191 @@
+At the outset of our hike, no one engaged in idle chatter, so I spent my time checking out my upgraded character sheet.
+
+Carrying three magic items, I simplified the math by configuring my interface to include stats from gear and buffs into my attributes.
+
+Name
+
+Apache
+
+Level
+
+8 (546/650 experience to next level)
+
+Armor
+
+37
+
+Stamina
+
+16 (160 health)
+
+Intelligence
+
+15 (150 mana)
+
+Strength
+
+9 (+9 damage to physical attacks)
+
+Agility
+
+14 (+14% to hit/dodge physical attacks and movement)
+
+Willpower
+
+22 (+22% to spell effects/resistances, health/mana recovery, and influence)
+
+Skills and ranks
+
+Alchemy 9, Arcane Magic 14, Blacksmithing 4, Bludgeoning Weapons 16, Carpentry 6, Dark Magic 2, Defense 14, Dodge 19, Light magic 16, Leatherworking 7, Manuscript Creation 14, Nature Magic 9, Piercing Weapons 17, Primal Magic 15, Ranged Weapons 12, Research 30, Slashing Weapons 18, Stealth 3, Survival 4, Tailoring 7
+
+Powers
+
+Cantrips Animal Empathy, Detect Magic, Heavenly Favor, Minor Hex, Shocking Reach Tier 1 Applied Knowledge, Compression Sphere, Detect Stealth, Mineral Empathy, Read Magic, Rest and MendTier 2 Mineral Communion, Rejuvenate
+
+Note—Stats include buff and gear bonuses
+
+Besides my new items, having two unspent power points in reserve for emergencies filled me with a sense of potential—chipper enough to get a conversation going. “A walk sure helps shake off the morning cold.”
+
+Fabulosa said nothing, but Charitybelle smiled at my attempt to draw out Fabulosa. “I know! After reading about it for so long, I can’t wait to see the continent’s interior. I hope we get to see giant monsters.”
+
+“I hope they don’t see us first. Hey, Fab, have you spent your power point yet?”
+
+“Yep. I took Rejuvenate.”
+
+“It’s a safe bet we’ll need lots of healing. I picked up Rejuv in the dungeon.”
+
+“I took Animal Communion and Familiar.”
+
+After almost dying in our PvP battle, I would have thought she’d value her life more. Charitybelle’s earnest grin answered my questions about her sincerity. She wasn’t joking. She hit levels 5 and 6 during our battle in Our Lady of Balance, earning and spending two power points.
+
+The news that she’d already spent them surprised me. After discussing the strategy of hoarding power points, I assumed she’d save them for emergencies. I didn’t expect her to consult me about buying powers, especially since I walked around with silly things like Mineral Empathy in my repertoire, so I let the matter lie. “Have you made any animal friends?”
+
+Charitybelle shook her head. “None yet. I wanna get a big cat like Nigel. His purr is so adorable.” She checked Fabulosa to see if she agreed, and Fabulosa generously flashed a polite smile.
+
+“Redundancy in healing might be wise. I hope you’re considering Rejuvenate for your next power.”
+
+Charitybelle nodded, but the disappearance of her smile made me regret my comment. “I thought you recommended not spending power points.”
+
+“I do. But if we all had healing, we’d be much harder to kill. Besides, I still have two points in the bank.”
+
+“Well, la-de-dah, Mr. Level 8!” Charitybelle waved her hand. “I can’t wait for a Familiar. When fuzzies follow me, you guys will be jealous!”
+
+Fabulosa rolled her eyes. Seeing Fabulosa in a better mood and responding to conversation encouraged me. Her eyes weren’t downcast anymore, but she still responded with one-word answers. She dragged her feet, and with all the dead leaves on the ground, the noise scattered the animals. I hoped to rank my nature magic skill by casting Animal Empathy, but the three of us made too much noise, even with conversation flagging.
+
+“How about I scout ahead?” Part of me hoped Fabulosa would offer to do it herself. Despite my gains in the temple, she still beat me by six levels. Instead, she agreed without comment.
+
+PinkFox used to walk in front of the others, so I did the same. We formed a party through the game’s interface, which meant we could see each other on our maps. The interface made it impossible to get lost, but after picking up my pace and putting distance between us, I realized I had no idea what scouting entailed. With only three of us, was scouting even necessary?
+
+It felt uncomfortable walking without them in eyesight or earshot, so I walked with my map open. Interface elements like the map blocked some of my field of view, so I swept my vision back and forth to minimize the blind spot. The further we penetrated the wilderness, the less certain I felt about my scouting skills. In the forest, visibility extended to 50 feet. The wind on my back broadcasted my presence to everything in my path.
+
+After four hours and eight miles of hiking, the ladies caught up to me and announced it would be a good time to rest. We sat and ate foodstuffs we’d bought in Belden. Luckily, food items stacked in our inventory, so each type occupied only one slot. We carried months of fresh supplies in the void bag.
+
+I tested the waters. “It doesn’t make sense to scout with the wind to our backs.”
+
+Fabulosa cocked her head. “Actually, it does. Vinegar would erase bacterial smells—assuming this world has bacteria.”
+
+Charitybelle smiled and wrinkled her nose. “I can still smell it.”
+
+Fabulosa pressed her point. “Pinky walked through animal droppings. If you find any, roll around in it to mask your scent.”
+
+I opened my mouth to complain when I caught a look from Charitybelle. “Ugh, thanks, Fab. That’s a good idea. I’ll do so the next chance I get.” I had to pick my battles. Besides, it wasn’t as if I smelled good. Either way, I planned not to find any.
+
+When we finished eating and hydrating, I resumed the point position. As I marched through the underbrush, I cast Animal Empathy on everything within the spell’s range. The exercise broke the boredom and ranked up my nature magic.
+
+Ranking up in nature magic wasn’t easy. Compression Sphere caused far too much commotion, and its cantrip, Animal Empathy, required unique targets.
+
+The spell conveyed the animal’s disposition and assured them I presented no danger. My usual targets included rabbits, birds, squirrels, chipmunks, and occasional deer. The moose-sized deer acted less skittish than those on Earth. Their size implied that the predators needed to be larger or more numerous, so they didn’t consider me a threat. Casting Animal Empathy on woodland creatures provided a pleasant change from Belden’s rats, whose thoughts and emotions were as disgusting as anyone could imagine.
+
+Once my nature magic reached 15, spamming the cantrip did little good, and I happily stopped. The novelty of making friends with animals had long since worn off.
+
+After hours of walking, I spotted a hawk and figured this might be an excellent pet for Charitybelle. I waited for the ladies to catch up to my stationary position.
+
+Fabulosa crept from behind a tree, brandished a short sword, and raised her hands in a “What’s wrong?” gesture.
+
+I pointed to the hawk.
+
+Charitybelle gasped. “Oh! He’s a beauty, isn’t he? Let’s see if he wants to be friends.” She crept out from under the branches and cast Animal Empathy. She moved carefully to avoid making noise, though the bird must have seen us long before Charitybelle “revealed” her position.
+
+Charitybelle cast Animal Communion, after which she pumped her legs up and down and clapped her hands. “It’s a she!”
+
+Watching the two together made me glad that I stopped to point out the hawk. Having a pet around might lift our spirits. After Charitybelle cast Familiar, the hawk flew to her outstretched arm. After another moment, she offered the animal a piece of jerky we’d brought from Belden, but the bird declined.
+
+Charitybelle grimaced. “Oh! Her claws are sharp. Fab, cut off a piece of raw meat, something uncooked!”
+
+Fabulosa obliged and tossed it to Charitybelle. The raptor watched it with such keen interest I half expected it to intercept the morsel. But no—decorum reigned in the animal kingdom, and Charitybelle caught the meat and hand-fed her new feathered friend.
+
+Charitybelle turned to us with a grin worthy of an anime character. “She’s getting heavy!”
+
+The hawk sidestepped from her arm onto her shoulder. The bird and Charitybelle appeared to be on telepathic terms.
+
+Fabulosa and I grinned at the odd scene. Being so close to such a big bird made me nervous. Its beak and talons looked formidable up close, and its expression stayed fixed in a vicious glare.
+
+After another silent conferral with Charitybelle, the bird took off, and we watched it fly away.
+
+The bird didn’t return. “Was that it? She doesn’t want to be your pet?”
+
+“She’s looking for something to eat. She says she’s eaten ram before, but I didn’t know hawks also scavenged for food. If she can find one, and if we can kill it, she’ll be my companion.”
+
+Fabulosa snorted. “It looks like ram is on the menu.”
+
+Since meat stayed fresh in inventory slots, it looked like we bagged our first Familiar.
+
+“I named her Chloe!”
+
+I chuckled at that—Chloe, the hawk. It seemed such a soft name for a bird of prey. “Why did you name her that?”
+
+Charitybelle shrugged. “She’s a good bird. I wanted to give her a nice name.
+
+While we waited for the hawk’s return, Charitybelle hugged and kissed me, disengaging the embrace too soon for my liking. “Thank you for finding her. She’s wonderful.”
+
+We gathered our things and continued east.
+
+We walked ten minutes before Chloe returned to Charitybelle’s shoulder. “She says there are rams, but it’ll be quite a hike. The next time she flies, she’ll show me through her eyes. Won’t that be awesome?” She pointed to the southeast. “We need to go this way.”
+
+We spent the next couple of hours hiking uphill. The trees made it difficult to tell if we ascended a foothill or mountain, but the maps assured us the terrain lay between the Bluepeaks and Highwall mountain ranges.
+
+We eventually needed a place to set up our camp. While a place with better visibility and access to water would be ideal, we had not crossed any sizable streams.
+
+The uphill route became more treacherous. I tried casting Animal Empathy on Chloe, and the hawk felt perturbed. I couldn’t tell if she found my spell or our slow progress annoying.
+
+I raised my voice, and the hawk looked at me. “Chloe, are you sure this is the easiest route to the ram?”
+
+Charitybelle laughed and gave me a crooked frown. “She doesn’t understand you, sweetie. She can only communicate telepathically.”
+
+“I guess that makes her your bird!”
+
+Charitybelle beamed at my comment.
+
+After we rose above the tree line, we sat down to rest and took in the valley’s view. Charitybelle used the opportunity to survey the landscape through Chloe’s eyes. She could exchange thoughts with her Familiar only when Chloe came within a hundred yards, but her shared eyesight enjoyed a ten-mile radius.
+
+“Chloe says it’s much easier to see now that the afternoon sun has burned away the clouds.”
+
+When the bird lifted off, Charitybelle closed her eyes and gasped. After crouching, she extended her arms for balance. “Whoa, this is making me dizzy. There’s a big lake about fifty miles to the southeast, and mountains are everywhere.”
+
+I scanned the horizon, but the haze proved too thick for human eyes. “How big is the lake?”
+
+“I don’t know. It’s huge, but not as big as the Great Lakes. Have you been to Lake St. Clair by Detroit? I don’t know—maybe thirty miles across.”
+
+After a while, she continued with gasps and exclamations. “Wow! You guys, this is so beautiful!”
+
+We rested for fifteen minutes while Charitybelle scouted through Chloe.
+
+“I’m bringing her back now. Oh, wow! I can see us! We’re not even at the top of the hill!” She lifted her arm and waved. “This is so weird—it’s like a third-person camera. I can see myself waving—everything is so clear. And now she’s flying to the rams. There are a few of them are—ugh.” She wrinkled her nose.
+
+Fabulosa leaned forward. “What do you see?”
+
+Charitybelle’s lips curled in disgust. “The rams are a little weird. They’re like bison—big, dark, woolly, and have twisted horns all over them.” She frowned, opened her eyes, and blinked. After a few seconds, she closed them again.
+
+“What’s wrong, babe?”
+
+“It’s odd. I can’t reestablish a visual link unless Chloe gets closer.”
+
+We waited until Charitybelle looked behind her, where her pet had settled into a tree. “I must be within 100 yards to ask Chloe to share another visual link.”
+
+Fabulosa stood up—a sign that she wanted to move. “Still, I reckon a bird will be great for recon. Will she guard us while we sleep?”
+
+Charitybelle bit her lip. “No. I don’t think so. I’ve asked her, but she doesn’t seem to understand the concept of guarding. She’s only on the lookout for prey.”
+
+I couldn’t tell if she found the hawk eye experiment restful or if it exerted her. “Are you okay with hiking again?”
+
+“Yeah, let’s go. I don’t want to be on this hill at night with those ram things running around.”

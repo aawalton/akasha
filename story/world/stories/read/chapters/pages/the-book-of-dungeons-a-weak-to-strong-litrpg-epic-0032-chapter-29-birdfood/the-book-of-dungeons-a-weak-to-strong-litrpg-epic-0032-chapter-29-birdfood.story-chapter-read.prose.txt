@@ -1,0 +1,163 @@
+We climbed for another hour before spotting a ram. Its camouflage made judging the creature’s size difficult and conjured images of what predator might roam such inhospitable terrain for prey so large. If the hawk hadn’t directed us, I doubt we would have seen it against the dark brown rocks.
+
+As we neared the beast, it became plain to see Charitybelle’s descriptions weren’t far off. The wooly mass of misshapen horns charged us from a quarter-mile away. We know it spotted us because it bounded in our general direction, zig-zagging around the rocks. It moved with agility for such a large creature, and it looked like we had only a minute before it reached us.
+
+Name
+
+Talax Ram
+
+Level
+
+13
+
+Difficulty
+
+Easy (Green)
+
+Health
+
+490/490
+
+Showing no sign of alarm, Fabulosa scanned the terrain. I didn’t know if she wanted rocks to hide behind or level ground. “We don’t have a tank. Can you dodge it?”
+
+I shrugged. “Uh, I think so?”
+
+The beast’s hooves shattered rocks as it thundered toward us. It approached with such violence I second-guessed my strategy of risking my life over saving power points. Dying over stinginess wasn’t the legacy I wanted to leave behind.
+
+Before the ram’s clacking footfalls grew louder, I opened my interface and reread the description for Anticipate.
+
+Power (action)
+
+Anticipate (tier 1)
+
+Prerequisites
+
+Dodge rank 14
+
+Cooldown
+
+Once per day
+
+Cast time
+
+Instant
+
+Description
+
+Passive Avoid damage from a single attack or effect that would otherwise remove over 30% of remaining health. Active Trigger to avoid effects or damage targeting caster. The caster cannot be immobilized or grappled.
+
+I suspected Falconeer used Anticipate in our PvP battle at the temple. It worked like a Counterspell for combat maneuvers and traps. I couldn’t imagine not wanting such a versatile power, so I spent one of my two available points on it.
+
+I triggered a Compression Sphere when the beast entered the spell’s range, but predicting the bounding monster’s path proved impossible on open terrain. The cloud following the thunderclap puffed harmlessly off-target, quickly drifting away in the wind. Its nimble zigzagging made me misjudge its size. Compression Sphere wouldn’t have affected a creature so large anyway.
+
+Charitybelle opened with a Tangling Roots spell, but it resisted the effect.
+
+I tried a standard dodge and paid the price of a 35-damage headbutt, leaving me Dazed for two minutes.
+
+Fabulosa fared no better. The animal sent her flying back for 25 damage. She switched to casting Scorch because the thing moved too fast for anything else. After it hit her again, she popped a health potion and sent a Rejuvenate to me when I taunted the ram off her.
+
+Up close, the thing’s softball-sized eyes canted at strange angles, giving the ram a crazed aspect. It had a crown of twisted horns, giving the unhealthy impression that something perverted its natural state. More horns sprouted from its shoulders and back. As it circled, its velocity slowed, allowing Fabulosa to intercept it with a Discharge using a longsword I hadn’t seen before.
+
+I sent a Shocking Reach before engaging, quickly putting away my cudgel. The ram made a perfect target for a piercing instrument, so I switched to a spear and shield.
+
+Chloe circled overhead, presumably hungry or waiting for a chance to distract the ram, but she never entered the fray.
+
+The beast gored me a few times before the fight ended, but I never fell below half-health. When it died, I received 23 experience points.
+
+Fabulosa had the highest strength, so she performed the most challenging part of cleaning the carcass—the horns and armored plating made the task difficult. She had experience with field-dressing monsters and showed us how to do it, if only because she didn’t want to be the only person who knew how. After seeing what the creature looked like when alive, none of us wanted to partake in eating its meat, but that meant we’d never have to kill another for our hawk.
+
+While we cleaned the carcass and stored its flesh in our inventory, Chloe swooped overhead in triumph as we cleaned the kill. Charitybelle tossed pieces of mutton into the air, which Chloe caught on the fly without error.
+
+The ram carried a few copper pieces inside it. Surprisingly, its mouth held a yellow core. In all of Fabulosa’s hunts around Belden, none of their conquests yielded a yellow core. Pulling it from the ram’s ugly mouth justified our decision to head into the wild.
+
+Item
+
+Yellow Core
+
+Rarity
+
+Rare (yellow)
+
+Description
+
+Level 23 coreBoss Monster Bonus Farsighted
+
+I stashed the warm crystal into our inventory for crafting. We had enough pet food, but three more rams attacked before we left the area. Charitybelle made level 7, while I fell six points short of level 9.
+
+Fabulosa shielded her eyes with her hand as she surveyed the forest below. “This is already better hunting than Belden. I reckon it helps to have a spotter.”
+
+Charitybelle grinned at the praise of her pet. “I think we’ll see more monsters out here. Belden tamed its surroundings too much. We’re not gonna find a wilder countryside than this.” She gestured toward the view.
+
+Taking her observation as a cue to admire the forested valley, I admired the vista, letting the wind howl in my ears. Our future didn’t unsettle me like the uncertainty of my childhood. Moving from place to place with Mom scared me as a boy, whereas mysteries of the wilderness boded promise.
+
+When we marched around Belden, I looked behind me occasionally to improve my sense of orientation. Hiking in one direction doesn’t forecast how the return trip will appear. Previews of the journey home prevented getting lost. When I tried to impress PinkFox with this observation, she shrugged it off, telling me that the interface map provided enough orientation. I’d nearly forgotten the feature since I rarely left the university grounds.
+
+Today, we should have looked over our shoulders more while climbing the hill, not to avoid disorientation but to admire the view. Instead, we plodded with such determination that we’d forgotten to enjoy the journey.
+
+Our downhill trek wasn’t easier than the climb. Slipping became an issue on steep descents, and the constant strain of maintaining our footing ached our rarely used shin muscles.
+
+When we dipped beneath the tree line, we each received Exhaustion debuffs. We ignored it. When another Exhaustion appeared, it reduced our stats by 2.
+
+We stopped when we lost sunlight. The sky remained bright, but hiking beneath the dark forest canopy risked twisting an ankle or tripping over a root. Too tired to cook, we ate rations and climbed into the Dark Room.
+
+A new weariness hit me while climbing the rope. The exercise required using my legs differently, and they protested whenever I clamped them around the line.
+
+“I think we overdid it today.” Charitybelle winced as she rubbed her muscles.
+
+I stretched my calves and rotated my ankle. “I know we did. We walked a long way, though. At least 15 miles.”
+
+Charitybelle shook her head. “Our detour to the rams made it longer. Elevation, not distance, wiped us.”
+
+I massaged my toes. “This is weird without a fire. It feels like we ought to have a campfire.”
+
+“I want a campfire too.”
+
+Fabulosa showed indifference to the pace, having accustomed herself to it long ago. Tomorrow, I wanted to stop earlier so we would have enough light to find wood, build a fire, and cook food. We climbed into three bottom bunks of the extra-dimensional space and covered the glow stones.
+
+While waiting for sleep, I methodically walked through my checklist for donning equipment.
+
+Playing a highly immersive RPG made us conscious of weapons and armor. The bulk of combat gear meant I couldn’t feel everything on my person.
+
+I stacked my kit in reverse-dressing order by my bedside. Gearing up in sequence facilitated speed, reduced errors, and made warriors better prepared for battle. Not knowing the whereabouts of belongings introduced rookie mistakes. Accidentally looping a belt or strap over my scabbard meant the difference between brandishing a weapon or facing enemies unarmed.
+
+After munching on breakfast, we set out again. Charitybelle spent a few minutes using Chloe’s vision to set a course for the day, and we followed her lead. As requested, the bird flew due east and saw nothing noteworthy in our path. As we marched eastward, the terrain turned gentle, and we made 20 miles on our second day. My survival skill increased 3 ranks since we began.
+
+I also progressed my arcane magic skill rank to 15, unlocking a spell called Imbue Weapon.
+
+Power (spell)
+
+Imbue Weapon (tier 1)
+
+Prerequisites
+
+Arcane magic rank 15
+
+Cost
+
+1 mana per second
+
+Cast time
+
+Channel
+
+Description
+
+Gives piercing weapon +1 damage for every second channeled, up to caster’s rank in arcane magic. Concentration must be maintained to sustain the effect.
+
+At first, I thought Imbue Weapon only applied to opening moves or archers not engaged in melee. But the channel required no cooldown, so a caster might buy a couple of seconds to bump up their damage a little bit, but it didn’t deliver a good return on the mana cost. The spell added damage to a weapon, and crits doubled the effect, making it a more attractive purchase.
+
+I couldn’t see myself concentrating on a channel during melee, limiting its combat role. Maintaining stances, identifying spells, and watching an opponent’s footwork all required concentration, so channeling for a few extra points of damage didn’t seem worth it. If channeling made the weapon glow or hum, it might give away the chance of surprising an opponent, making it even more situational.
+
+Arcane magic’s limited accessibility made me want to focus on spells from this school, but this one didn’t impress me. Despite the mana cost ratio, an extra point of damage for a second of combat seemed ridiculous—Imbue Weapon earned a solid pass.
+
+On the second night, we started a fire on a small hilltop. We enjoyed the juicy strips of archaeodon steaks Fabulosa pulled from her inventory. The campfire centerpiece capped our day’s progress. While the first evening provided a lovely view of the valley, we felt better after eating freshly cooked food the second night. As the sun set, the crackling cheered us.
+
+I suspended the Dark Room above us if we needed a handy lifeline, but no one wanted to return to its unnatural silence.
+
+Charitybelle stepped out of sight to collect more firewood, and we heard her scream moments later.
+
+Fabulosa and I jumped up and darted toward her voice.
+
+She screamed again, more labored this time.
+
+My effort to rescue her resulted in me knocking my head on a low-hanging branch, which caused me to stumble. I went down, hoping Fabulosa would reach her in time. Getting off the ground, I retrieved three glow stones from my inventory and staggered forward, ignoring the pain in my head.

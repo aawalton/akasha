@@ -1,0 +1,185 @@
+I heard Scorch, Tangling Roots, and thin growls from what sounded like munchkin monsters. As I rounded the skirt of an evergreen, I spotted a mass of ratlike monsters swarming over two figures struggling under a net. I cast Shocking Reach on one, pulled out my short sword, and pounced on the writhing horde of creatures.
+
+I focused on one of their nameplates to see what attacked us.
+
+Name
+
+Green Hill Kobold
+
+Level
+
+2
+
+Difficulty
+
+Trivial (Gray)
+
+Health
+
+15/15
+
+Exaggerating my disgust at how these creatures looked, smelled, and sounded from afar felt impossible, leaving me wondering how awful it must be for my companions beneath their net. They looked like oversized possums with crooked teeth and bulging eyes. Dark smears of unknown liquids caked over swaths of their black fur while patches of their coats yielded to bald spots of bumpy, flaky skin.
+
+Their hairless tails whipped around for balance as they clung to a net that covered my companions. They chittered and made high-pitched squeals, organizing their numbers with earsplitting whistles that pierced the tumult. Whenever one blew, others answered.
+
+Fabulosa released a Lightning Bolt that traveled through five kobolds, dropping them at once. It wasn’t mana-efficient for single targets but worked wonders if enemies obliged her to line up in a row.
+
+Without thinking, I threw myself into the fray, slashing my short sword at anything bearing fur. Small, painful arrows pierced my back and sides.
+
+From under the net, scratches and wounds covered Charitybelle. Casting Rejuvenate on her, I couldn’t believe she’d taken so much damage so quickly.
+
+Charitybelle pushed at the net, doing her best to disentangle herself but made no progress. The angry screech of a hawk cried somewhere above us.
+
+Desperate times called for drastic measures. “Sorry, ladies.” I cast a Compression Sphere beneath them.
+
+When the thunderclap erupted, a chorus of screeching little voices filled the air as the air blast sent kobolds flying. Charitybelle and Fabulosa bounced a couple of feet off the ground and landed in the roiling tangle of net and limbs.
+
+I rushed five archers peppering us with arrows and received four direct hits. Each delivered only a few points of damage, but the numbers added up. My health fell to 54/110. My max health wasn’t the usual 150 because we started the battle without Heavenly Favor. It was too late to cast my buffs now.
+
+I sidestepped behind other kobolds to avoid the archers’ fire. But using their brethren as sight blockers did no good. Friend and foe alike sustained damage while I closed the distance. After reaching the archers, I attacked with impunity. Their bows offered no defense in melee.
+
+Shrill whistles pierced the evening air, and I hoped it signaled a general retreat.
+
+None of the kobolds withdrew. How many were we fighting? We must have killed a dozen already. Somewhere along the way, I reached level 9.
+
+I froze time by checking my game alert.
+
+Congratulations!You are level 9
+
+You have gained a level. You have increased your stamina by 1, intelligence by 1, and agility by 1. You have received 1 power point. You have 662/770 experience points toward level 10.
+
+When my Shocking Reach cooldown finished, I cast it at an already wounded shaman I’d caught casting a spell. He dropped after the electricity hit him. It felt good to smite an enemy in a single blow, and it encouraged me to see Charitybelle and Fabulosa wrestle free from the net.
+
+Fabulosa loosed Ice Bolts every few seconds. The spell’s faint blue flashes marked her position, an effect I’d never noticed during the day. Ice Bolts cost very little mana and inflicted only minor damage, but they slowed creatures, making them perfect for multiple enemies.
+
+I tossed a glow stone onto the hill close to our camp to keep myself oriented. I threw two more amongst the thickest knot of kobolds, making them easier to see, but their chittering picked up, making it hard to hear anything said.
+
+I could also see my companions better—Fabulosa looked more injured than Charitybelle and would be dead in less than a minute.
+
+One kobold crept behind Fabulosa and stabbed her in the side.
+
+Fabulosa grabbed the spear and yanked it out of her attacker’s paws.
+
+Their health dropped too close to zero for my comfort. “Potions!”
+
+Both of their health bars increased by 50 points.
+
+While I spread damage into the surrounding swarm, Charitybelle’s Scorch erupted inside a clump of rodents. High-pitched squeals punctuated the blaze’s crackle. Fabulosa’s Scorch lit up another group. The glow stones and fire spells illuminated the ambushers, and the squealing increased with every flash of fire.
+
+I used my robe’s ability to reset the cooldown on my Compression Sphere and cast it at a thick concentration of kobolds. More high-pitched squeals filled the night as the spell launched them into the air. The glow stones brightened the area enough to see a ring of glowing eyes surrounding our position. Judging by the number of beady little eyes, scores remained.
+
+After killing the five archers, I rejoined Charitybelle and Fabulosa. Even in the dim conditions, their expressions showed fear, as reflective eyes encircled us.
+
+Fabulosa caught my attention when I reached her position. “Patch! Where is camp?”
+
+I pointed toward one of the glow stones. She concentrated a hailstorm of Ice Bolts in that direction. She yelled something to Charitybelle over the clamor and pointed to our camp.
+
+We fought together, sharing the unspoken strategy of retreating to the Dark Room. When my Rejuvenate spell cooldown ended, I cast it on Fabulosa, who sustained the worst injuries. She returned the favor moments later as we fought through the ranks of whiskers and tails. I hadn’t drunk a healing potion yet, causing me to cringe when she wasted the crucial spell on me. I needed to communicate more to optimize our chances.
+
+As light magic healed my weariness and damage, tiny teeth and knives broke open new wounds. We tried to climb the hill, but their masses stopped our progress. Too many attackers held the high ground.
+
+The area darkened when a kobold fell on a glow stone, giving the others the idea to douse our remaining light sources. One by one, they plunged us into shadows.
+
+“I’m low on mana!” Fabulosa pulled out a short sword and shield.
+
+Charitybelle equipped herself with similar weapons. “Me too.”
+
+I had 43/120 mana. Time slowed as I opened my interface, turning the tinny chorus of squeaks into soft, indistinct echoes. I took a mental note to calm myself and think. After a pause, I inwardly chuckled at the irony of having taken Anticipate. The versatile power offered no shelter from the death of a thousand cuts. I perused the menu for lifesaving options.
+
+Power (spell)
+
+Scorch (tier 1)
+
+Prerequisites
+
+Primal magic rank 5
+
+Cost
+
+10 mana
+
+Cooldown
+
+4 seconds
+
+Cast time
+
+6 seconds
+
+Description
+
+Ignites fire on target or location within 20 yards. Fire deals 2 damage per skill rank in primal magic.
+
+I had two power points. We needed an area of effect spell that allowed me to blanket an area with light damage, perfect for swarms of low-level opponents. Lightning Bolt could multi-shot opponents only if they stood in a straight line. Scorch led to Fireball, and I needed a second attack spell anyway. Before I picked it up, I looked for something else to buy.
+
+Buying Anticipate revealed a new spell called Presence, which turned the caster into a walking light bulb. Part of me liked it because it countered dark magic, and anything that messed with stealthers might be potent in the contest’s overall strategy.
+
+Power (spell)
+
+Presence (tier 2)
+
+Prerequisites
+
+Light magic rank 10, Anticipate
+
+Cost
+
+10 mana
+
+Cooldown
+
+10 seconds
+
+Cast time
+
+6 seconds
+
+Description
+
+Caster gains resistance to stealth attacks and emits daylight for 10 minutes for every fifth rank in light magic.
+
+Presence also solved a lighting problem plaguing me since the start of the game. The first Light spell placed a stationary glow, forcing players to recast it whenever they moved, making it annoying and undependable. Glow stones were okay, but fastening them to armor took effort, and holding them complicated combat. Presence offered such a vast improvement I bought it and Scorch and closed my interface.
+
+As time sped up, the squeals from our diminutive opponents returned. I drank a minor mana potion to raise my mana pool to 93 and cast Presence. The screeching chorus reached a treble crescendo as I flooded the area with a divine glamor as brilliant as direct sunlight.
+
+My ally’s grins and squinting expressions cheered me as we took advantage of the luminosity. We stabbed, slashed, and gouged our way up the hill. The kobolds weren’t quite blind, but the radiance undermined their coordination and fighting ability.
+
+We Scorched a throng of kobolds outside our melee reach. The spells thinned the furry bodies enough that we could work our way through them. We finally rounded a small grove of pine trees to our campsite.
+
+Kobolds scampered everywhere. Two climbed the Dark Room’s magic rope. I cast Shocking Reach on the highest while Charitybelle dispatched the lower one with her short sword. We used all of our mana and stood more than half dead, but no one wanted to be the first to shimmy up the rope. We fought in a circle beneath our lifeline to the Dark Room, picking off the vile rodents as they rushed at us in uncoordinated waves.
+
+Charitybelle shouted over the din. “How long does that glow last?”
+
+“22 minutes left.”
+
+My companions and I exchanged questioning glances.
+
+Fabulosa yelled into my ear. “Anyone in the mood for a rat quest?” A familiar grin of confidence spread across her face for the first time in a week. Our beloved Fabulosa was back!
+
+We fought conservatively with melee weapons. We slowly regenerated our mana, reserving it for Rejuvenate spot-heals.
+
+With Presence lighting the forest, we counted at least 50 kobolds surrounding us. But now, they kept their distance and regrouped into organized attacks. Piercing whistles sounded in the underbrush, and waves of arrows splashed us.
+
+We almost turned back when Fabulosa hit level 15. “Ding!” Not one to bide her power points, she surprised everyone by unleashing a Fireball toward the missile fire. The event log scrolled with seven death messages.
+
+Charitybelle gaped at the carnage. “I guess we have AOE damage now.”
+
+Whistles tooted from a distance, and the chittering sounds increased momentarily before dying out for good. The enemy retreated.
+
+Fabulosa swung at the nearest retreating kobold but missed. “Ugh! I’d give anything to have Fireball off its cooldown right now.”
+
+We basked in our newfound verve and group-hugged in celebration.
+
+Charitybelle held her hand up to shield her face. “Hey Patch, do you mind shutting off the light? I don’t want to attract more monsters—unless that’s what you’re trying to do.”
+
+“No, you’re right. That’s enough fighting for me.” When the interface showed we had left our combat state, I dismissed Presence and snuffed out what remained of our campfire.
+
+My experience points for the night totaled 94.
+
+We performed a quick Mend and Rest. Charitybelle plopped on the ground with a self-satisfied grin. “I leveled to 7 and took Restore as a second healing power. It’s burst-heal. That and Rejuvenate kept us alive underneath that horrid kobold net. Restore takes longer to cast, but it immediately increases health and unlocks a tier-four group-heal called Rally.”
+
+Fabulosa eyed the surrounding darkness. “Y’all wanna loot the bodies?”
+
+I didn’t want to miss the opportunity for goodies if the kobolds carried anything valuable, and since glow stones weren’t magic, night presented our best chance of finding every one we dropped.
+
+Carrying multiple glow stones, we inspected the battlefield’s remnants—a gory and unnerving task that the dark conditions intensified. We picked through the leavings for a short while before deciding that it wasn’t worth it. If the bodies remained in the morning, we’d investigate then.

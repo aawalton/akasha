@@ -1,0 +1,205 @@
+Though exposed in the open, a primordial self-preservation instinct commanded me to freeze when something big searched for food. But meat-eaters had sharp vision and a keen sense of smell. Luckily, I stayed mindful enough to override my lizard brain when my companion issued orders to flee.
+
+“Go!” Yula launched herself sideways behind the nearest tree.
+
+Yula’s battlefield communications weren’t her strong point. “Go” didn’t point out in which direction she wanted me to hide, flee the scene, or go with her.
+
+I ran in the same direction, hoping it was what she intended. If this monkey-see and monkey-do meant surviving gaping jaws of death, then I’d happily play the role.
+
+Name
+
+Crowned Gargasaurus
+
+Level
+
+24
+
+Difficulty
+
+Challenging (yellow)
+
+Health
+
+1150/1150
+
+A tyrannosaur sporting a snout the size of a 4-door sedan parted the canopy and drew in a long inhale. It moved gingerly, as if in no rush, until it caught sight of Yula. After its massive head veered in our direction, it lurched toward us, and the ground thundered.
+
+Following the huntress gave me a second to clear my head, and I recognized her strategy. She planned to kite it, using the giant tree trunks to slow its pursuit. I fell back and waited for the monster to pass.
+
+The gargasaurus charged headlong toward us, and Yula loosed an arrow and missed.
+
+I felt for the most agile weapon in my arsenal—my short sword. It wasn’t ideal against such a massive creature, but I needed speed more than damage. I tripped on a tree root and face-planted into a carpet of leaves. My head rang as I spat out dry leaves.
+
+The monster pursued Yula, cutting off her escape and forcing her to reverse her route.
+
+She cast Tangling Thorns, but the magic vines snapped beneath the 20-foot-tall dinosaur’s feet.
+
+I hid behind a tree.
+
+The monster paid me no heed, preferring to focus on Yula. As it lumbered past, I got a better look at its profile. It looked like a yellow tyrannosaur with a hooked beak whose edges ended in jagged ridges. The black skin around its oversized eyes gave it a skeletal appearance, and its horizontal pupils had dazzling colored flecks. The beast’s footfalls shook the ground enough that I could feel them in my boots.
+
+I swung my blade at its legs, but the monster’s size caused me to misjudge the distance, and I missed.
+
+Yula sprinted for another tree, and I ran beside the beast, aiming my next attack. While the monster’s long stride should have made it faster in a dead run, it had a wide turning radius. Playing duck-duck-goose around the trees bought Yula enough time to evade the snapping jaws behind her.
+
+It also presented me with opportunities to attack. When the gargasaurus finished its turn and picked up speed, I stuck it for 21 points of damage.
+
+Its tail lashed at me.
+
+/Crowned Gargasaurus hits you for 26 damage (3 resisted)./You cast Rejuvenate.
+
+Yula reached another tree, spun, and launched another arrow. It hit for minimal damage since she neither imbued nor poisoned it. She ducked behind the trunk. The beast slowed, letting me catch up. This thing measured up nearly the size and level of the troglodyte. Chasing something almost ten levels higher than me felt foolish and wrong, but no one had sustained heavy damage so far.
+
+I plunged my short sword into its haunches with all my might. In hindsight, it wasn’t a wise decision. The wound drew its attention enough to make the dinosaur switch targets.
+
+/You hit Crowned Gargasaurus for 19 damage (2 resisted)./You cast Anticipate. /Crowned Gargasaurus misses you. /Yula hits Crowned Gargasaurus for 12 damage (14 resisted).
+
+Anticipate triggered, so its bite would inflict at least 30 percent of my 210 health.
+
+That wasn’t a good sign.
+
+Unfortunately, it didn’t move me very far away, just out of harm’s way of its jaws, and I still had its aggro.
+
+It chased me and landed a bite.
+
+/Crowned Gargasaurus hits you for 95 damage (19 resisted).
+
+If this creature landed a single crit on me, it would knock me out of The Great RPG Contest. This wasn’t a fight we could afford to take lightly. The monster set the parameters for our survival—avoid its teeth.
+
+It would take several heals to bring me back to full—and thankfully, Yula landed a quick Rejuvenate.
+
+The creature’s resistance to piercing damage rendered Yula’s arrows poor counters to its attacks. As the dinosaur repositioned to face me, I heard a familiar barking sound.
+
+Mugsy, Yula’s spunky Familiar, appeared beside her, but the mutt could barely bite anything but its toes.
+
+I could hardly fault the canine for its bravado, being unable to reach anything other than its legs.
+
+Unfortunately, the dinosaur’s targeting didn’t consider the dog a worthy opponent, so I remained its appetizer of choice.
+
+I opened my interface, looked at my measly array of powers, and saw nothing that could help. My respectable combat training involved stances that weren’t particularly effective against giant beasts. Depending on Yula to save my skin shouldn’t be Plan A. I might have to spend a couple of power points improving my durability. Using my robe’s ability, I reset my cooldown for Anticipate and closed my interface.
+
+I dodged around the tree to the familiar chime of Anticipate triggering for a second time. The spell propelled me to safety and caused the monster to lose track of its quarry.
+
+The dinosaur turned its massive head toward Yula and Mugsy and charged. Without thinking, I repeated my last maneuver and sliced at its tail before it regained momentum.
+
+I didn’t miss the opportunity to inflict a free hit. Every point of damage counted.
+
+My attack earned me another tail swipe for 26 damage. Its tail repelled me from the beast’s rear, preventing backstab bonuses.
+
+The gargasaurus still had 86 percent of its health.
+
+Surprisingly, Yula held onto her bow as she reached the next tree. Once more, her arrow hit for minimal damage. She sidestepped around the trunk as the monster pursued, rounding the skirt of roots as the dinosaur chased. The familiar chime of Anticipate triggered—this time, it came from Yula.
+
+Mugsy kept at her heels, yapping at his owner in unbridled excitement. The dog simply had no regard for the monster’s size.
+
+As the gargasaurus rounded the tree, I caught up with it and crouched behind the trunk. I waited until the monster had set its sights to charge forward before attacking. I slashed at its leg the moment it lunged for Yula. The strike caused the creature to hesitate, giving Yula time to flee.
+
+I received a tail swipe for negligible damage, but the distraction of my ambush spoiled the creature’s charge.
+
+From tree to tree, Yula pulled the monster along behind her.
+
+It bit her twice for a total of 173 points of damage.
+
+I tossed Rejuvenates on her for a 50-point heal.
+
+Yula infused her arrows on the run.
+
+When my Restore cooldown ended, I called for Yula to run past me, where I’d undo 80 damage.
+
+We established a successful choreography. The huntress stayed within my range of healing while kiting the dinosaur behind her. When she reached below 100 health, Mugsy or I picked up the monster’s attention, giving her a chance to recover.
+
+Her canine pet lasted until it took a bite and disappeared in a puff of green smoke.
+
+Grinding the monster down took over ten minutes, longer than any battle I’d fought. When the gargasaurus dropped beneath 15 percent health, Yula Charged into the beast. It bit her in return, dropping her health by 65, about a fourth of her total.
+
+I moved in to draw its attention when it bit her. With a nearly full health pool, I could survive a bite or two. To top myself, I downed a health potion. I could make them easily and didn’t want to risk multiple critical hits knocking me out of the game.
+
+We took several more bites before our tactics ultimately dropped the creature. I received 60 experience for the kill. Yula picked up 75.
+
+We performed a Rest and Mend action immediately after the behemoth fell. Panting as I recovered, I pointed to the massive carcass. “That was a worthy opponent.”
+
+Yula showed no hint of triumph. “A good fight. You are deadlier than you appear.”
+
+Being on the receiving end of a Yulaism felt good, and I chuckled good-naturedly at the backhanded compliment. I’d fought better than I had against the goblins, and it eased my performance anxiety with the orc to know that she could count on me in a tight corner.
+
+Unsmiling, Yula nodded slightly and turned her attention to the corpse. After rummaging around its innards, she pulled out a small round buckler.
+
+Item
+
+Flying Wall
+
+Rarity
+
+Masterwork (green)
+
+Description
+
+Level 17 offhand shield+15 Armor+2 Stamina After 30 seconds of combat, the Flying Wall will support itself in midair and protect its wielder as if held.
+
+Yula frowned. “You want? I do not need shield.”
+
+“This would be good for Charitybelle.” I accepted it with gratitude. The level 17 shield would be suitable for either of us. It gave its owner a free hand in the middle of battle. The stamina bonus of 20 more health attracted me even more.
+
+My thoughts of presenting my girlfriend with a present reminded me that Hawkhurst would finish the sawmill today. I inspected the construction interface and happily learned it worked outside the settlement’s boundaries. I couldn’t edit the build queue—officers outside a settlement’s boundaries couldn’t interact with its interface.
+
+We built the sawmill in eight days, but the following structure should be quicker. After much experimentation, I configured my interface to include resource gathering.
+
+Building Status
+
+Barn
+
+Remaining Build Time Efficiency Workers
+
+5.2 days58 percent22
+
+A barn’s more straightforward design made it easier to build than a sawmill. The more our morale dropped, the longer this estimate would stretch.
+
+A barn would shelter the sheep and torodons from vargs, dinosaurs, and things with big teeth. We’d been keeping the animals downwind from the roundhouse, away from the woods, but this only pushed our luck. If we crowded the livestock, we could temporarily upend the torodon carts inside to stop them from rusting.
+
+Cleaning meat off the dinosaur’s bones filled our inventories before finishing. We left plenty of edible flesh behind. Our loss for not having the void bag would feed the wildlife for many days.
+
+Yula resummoned Mugsy.
+
+The canine immediately barked at the pile of entrails.
+
+She enabled the animal with a command. “Mugsy, go get!”
+
+She needn’t repeat herself. Mugsy pounced on the offal with slobbering enthusiasm.
+
+As I watched him pull at the flesh, I felt a pang of longing for a dog of my own. How could I be so stingy with powers and not get a Familiar? I sighed and shook off the thought. If I won The Book of Dungeons playtest, buying a pet would be my first purchase.
+
+I wedged a heavy stick in the creature’s beak to avoid losing an arm in a postmortem reflex. After reaching inside, I retrieved a core from the roof of its mouth.
+
+Item
+
+Yellow Core
+
+Rarity
+
+Rare (yellow)
+
+Description
+
+Level 24 coreMonster Bonus 1 Observant
+
+An observant bonus might be a great boon to a hunter, so I offered it to Yula. The orc shook her head, admitting she hadn’t used the karst caradon’s yellow core on her leather leggings. Because we had filled our inventory with bark and meat, I carried the warm little crystal in my hand all the way home.
+
+By the time we returned, darkness fell.
+
+We passed the finished lumber mill a half-mile west of the roundhouse. The work crew wasn’t as enthusiastic about the sawmill as I’d hoped. No one spoke about anything except Fabulosa’s expected appearance. By the day’s end, the camp developed the social dynamism of a funeral. People spoke softly, if at all.
+
+Fabulosa had been gone for ten days and knew we needed supplies and a wider variety of food. She assured everyone she’d be back in nine or possibly ten days, but by tomorrow, she would be officially late.
+
+All the ale in the world wouldn’t pick up the settlement’s spirits, and calling for a celebration while everyone worried about Fabulosa’s return seemed forced and desperate.
+
+On a positive note, our average skilled worker improved from 128 percent to 129, and our fitness rating reached 65 percent and still climbed, albeit at a slower rate.
+
+The lumber mill provided the most significant production boost. Greenie showed me how its gears powered the blades and how they could downshift during calmer weather. All the moving parts made me appreciate how much time they’d spent on the blueprints.
+
+The inner workings looked like a design masterpiece, making me hungry to know their plans for Charitybelle’s dream castle. They showed me preliminary sketches of a motte and bailey, which looked simple in comparison. Without hills or access to usable stone, we needed to move a lot of earth to maximize a defensible barrier. This daunting fortification would take many months if our morale didn’t improve, and its estimate seemed unrealistic.
+
+Would the dwarves balk or mutiny in the face of such a project? Part of me almost hoped they wouldn’t show these plans to anyone until Fabulosa returned and our Hawkhurst stabilized.
+
+And yet, Rory had already begun forging soft earth picks and shovels suited to this purpose.
+
+For now, the settlement strove to finish a measly barn.
