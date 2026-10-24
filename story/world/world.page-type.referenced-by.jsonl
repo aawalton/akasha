@@ -168,6 +168,7 @@
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/flesh-eater-demon-evolution-litrpg/flesh-eater-demon-evolution-litrpg.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/forge-dragon-a-smithing-dragon-rider-litrpg/forge-dragon-a-smithing-dragon-rider-litrpg.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/forge-of-destiny/forge-of-destiny.world.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/forgotten-lands-a-regression-deckbuilding-story/forgotten-lands-a-regression-deckbuilding-story.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/foxian-reset-weak-to-strong-isekai-to-game-world/foxian-reset-weak-to-strong-isekai-to-game-world.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/foxification/foxification.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/friendly-fyre-a-cozy-queer-kingdom-builder/friendly-fyre-a-cozy-queer-kingdom-builder.world.ts","typed":true,"deferred":false}
@@ -250,6 +251,7 @@
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/mantis-shrimp-in-the-tournament-of-gods-book-1/mantis-shrimp-in-the-tournament-of-gods-book-1.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/mark-of-the-crijik/mark-of-the-crijik.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/mark-of-the-fool/mark-of-the-fool.world.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/mark-of-the-hidden-time-loop-litrpg-system/mark-of-the-hidden-time-loop-litrpg-system.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/martial-arts-vs-magic-the-chronicles-of-the-martial/martial-arts-vs-magic-the-chronicles-of-the-martial.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/mask-of-humanity/mask-of-humanity.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/mass-produced-magic-litrpg-action-crafter-tech/mass-produced-magic-litrpg-action-crafter-tech.world.ts","typed":true,"deferred":false}
