@@ -20,5 +20,7 @@ export const fiveElementOverlordICanUpgradeEverything0170Ch170TheFleeingDemon = 
     },
   ],
   createdAt: "2026-10-23T23:48:05.565Z",
-  updatedAt: "2026-10-23T23:48:05.565Z",
+  updatedAt: "2026-10-24T11:47:13.807Z",
+  ownProgress: 1711,
+  progressedAt: "2026-10-24T11:47:13.807Z",
 } as const satisfies StoryChapterRead

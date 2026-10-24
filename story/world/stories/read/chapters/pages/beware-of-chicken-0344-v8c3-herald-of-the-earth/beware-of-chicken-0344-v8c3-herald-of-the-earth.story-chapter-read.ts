@@ -20,5 +20,7 @@ export const bewareOfChicken0344V8c3HeraldOfTheEarth = {
     },
   ],
   createdAt: "2026-10-24T04:48:12.323Z",
-  updatedAt: "2026-10-24T04:48:12.323Z",
+  updatedAt: "2026-10-24T11:47:13.807Z",
+  ownProgress: 2184,
+  progressedAt: "2026-10-24T11:47:13.807Z",
 } as const satisfies StoryChapterRead

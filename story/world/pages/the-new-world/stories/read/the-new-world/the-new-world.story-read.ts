@@ -15,7 +15,7 @@ export const theNewWorld = {
   ],
   author: "Monsoon117",
   grade: "C",
-  following: true,
+  following: false,
   externalTags: [
     "LitRPG",
     "Strategy",
@@ -29,5 +29,5 @@ export const theNewWorld = {
   unit: "unit/words",
   prose: "txt",
   createdAt: "2026-09-03T04:18:50.405Z",
-  updatedAt: "2026-09-21T19:44:25.000Z",
+  updatedAt: "2026-10-24T11:47:13.807Z",
 } as const satisfies StoryRead

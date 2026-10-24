@@ -1,0 +1,273 @@
+World:
+
+There is only one nation. The Terran Republic.
+
+The Terran Republic: Splits the people between three classes, in three Tiers of city.
+
+Tier 1 cities are full of wonderous buildings, many of which are skyscrapers seemingly touching the skies. The public transportation is through magi-tech trains that travel almost as fast as the speed of sound. The cities are guarded by the best of the best in terms of Guardians, most of whom are bloodline Guardians whose family is made up of Guardians as well, and each and every building has at least half as many Assault Bunkers as they have floors.
+
+Tier 2 cities are comfortable enough, with some high reaching buildings located at the city’s centers, and the majority of the other buildings reaching up to a few stories in height. The transportation still uses magi-tech, but it’s always outdated and can only travel a little bit faster than regular trains and cars. Of the Guardians stationed in the city, most of them are amongst the poorer Guardians who awakened either in Tier 2 or Tier 3 cities, without very good magic or battle instincts or inclinations.
+
+Tier 3 cities are without almost any magi-tech, surviving solely on old world technology. They don’t have very many Guardians, and the cities are not very large. Of the Guardians they do have, which tend to number only a dozen or so with each city at most, they are almost all made up of the cowardly Guardians who don’t wish to fight in Demon Assaults. The cities also have massive slums meant solely for the orphans where the other people avoid like the plague.
+
+The more people there are, and the more magic there is, the stronger and more frequent the Demon Assaults will be in that particular area. Meaning that Tier 1 cities have the most and strongest Demon Assaults by far, making it the best place for a Guardian to live if they wish to grow stronger. Meanwhile Tier 3 cities don’t have very many Demon Assaults on average. But they also don’t have much in defense against each Assault that takes place, leaving thousands to die every time one does infrequently occur.
+
+Economy:
+
+Currency: Credits and Skill Points.
+
+6 credits are enough for 1 meal in a Tier 3 city.
+
+2 credits are enough for 1 loaf of bread in a Tier 3 city.
+
+50 credits are enough for a night's stay at a crappy hotel in a Tier 3 city.
+
+70 credits are enough for a night's stay at a decent hotel in a Tier 3 city.
+
+100 credits are enough to night's stay at a fancy hotel in a Tier 3 city.
+
+60 credits are enough for a night's stay at a crappy hotel in a Tier 2 city.
+
+100 credits are enough for a night's stay at a decent hotel in a Tier 2 city.
+
+200 credits are enough to night's stay at a fancy hotel in a Tier 2 city.
+
+300 credits are enough for a night's stay at a crappy hotel in a Tier 1 city.
+
+500 credits are enough for a night's stay at a decent hotel in a Tier 1 city.
+
+1000 credits are enough to night's stay at a fancy hotel in a Tier 1 city.
+
+Basic magic weapon is worth 25000 credits or 250 SP.
+
+Intermediate magic weapon is worth 50000 credits or 500 SP.
+
+Advanced magic weapon is worth 100000 credits or 1000 SP.
+
+Custom magic weapons are worth at least a million credits or 10000 SP.
+
+System:
+
+There are two types of skills. Inherent skills, and purchased skills. The inherent skills are almost always more powerful for skills purchasable at the level the skill is attained. But they also cannot be leveled up through SP. To level up an inherent skill, a Guardian must gather the EXP needed to level it through use.
+
+Purchasable skills can only be leveled up through SP, and they have varying level and Achievement requirements to purchase at varying costs depending on the skill’s rarity.
+
+Inherent skills do not have a rarity.
+
+The stats a Guardian gains per level is decided on by two factors. Their species, and their magic.
+
+Not all ‘magics’ actually use magic. It’s more of a term towards the direction that a user’s ability or powers take. Especially in their inherent skills.
+
+At the same time, statistics alters reality itself to change the way your body reacts to it. Which is why even a skinny guardian may be vastly stronger than one that looks like a bodybuilder.
+
+Formula for calculating the mana capacity of an individual:
+
+Average multiplier between your multiplier for the power capability of your Mental stat and the capacity capability of your Magical stat. Then multiply that with your mental and magical stats and you’ll get your mana stat.
+
+Formula for calculating the mana regeneration for an individual:
+
+Average between the multipliers of an individual's Vitality capability of their Physical stat and their Power capability of their Magical stat, multiplied by their Magical stat.
+
+This gives the percentage of their total mana that they regenerate every day.
+
+Formula for calculating the average raw punching force of an individual without any skills or techniques meant to boost it such as System skills or martial arts:
+
+Add together the multipliers for the individual's Strength and Agility capabilities. Then multiply that by their total stat points in Physical times 25 psi. And that is the estimated amount of psi someone should be able to deal in a single punch. The average human who does not have any magic has 10 stat points in Physical and a D for both Agility and Strength, adding up to a multiplier of 0.4. Meaning about 100 psi on average raw punching power, not including any skill or techniques used to increase it. Meaning no martial arts.
+
+Demon Spawn
+
+Description: The weakest type of demon. They have no sense and will kill any human they see. There are many variations of Spawn, each having a different physical appearance.
+
+Weakness: Easily tricked as they simply rush in and attack with no capacity to think.
+
+Average Levels at the Opening of the Fracture: 1-8
+
+Demon Hound
+
+Description: Demon hounds hunt in packs ranging from three to five hounds in size. They use a pack mentality when hunting.
+
+Weakness: They will run away when at two or less members in a pack, and they are sensitive to high pitch noises.
+
+Average Levels at the Opening of the Fracture: 3-15
+
+Demon Huntsman
+
+Description: A semi intelligent demon that will stalk from the shadows, hunting the strongest prey it can find with its crossbows.
+
+Weakness: They are not very powerful in an upfront show of force, specializing in fighting from the shadows and ordering other demons around.
+
+Average Levels at the Opening of the Fracture: 15-20
+
+Demon Knight
+
+Description: A powerful form of unintelligent demon. These creatures often serve as bodyguards for other demons, however they may also be found as guards for certain locations that are of interest for the demons. These creatures have durable scales that look almost like the armor of a knight from medieval times.
+
+Weakness: They don’t tend to leave their charge unless immensely provoked – whether that charge be another demon or a location.
+
+Average Levels at the Opening of the Fracture: 25-100
+
+Demon Breeder
+
+Description: A demon that spans several meters in length and is constantly breeding Demon Spawn. It generally stays in one place with four Demon Knights guarding it.
+
+Weakness: They have terrible mobility and even worse attacking power as they rely solely on their Demon Knights for defense.
+
+Average Levels at the Opening of the Fracture: 30-50
+
+Demon Captain
+
+Description: An intelligent demon and the strongest of all of the Class I demons. They are the sole commanders of the Class I Fractures, and once they are killed, any organization the demons in that Fracture had will fall apart. These creatures have incredibly durable scales that look almost like the armor of a knight from medieval times, but with armor much stronger than that of metal or that of the demon knights.
+
+Weakness: They are especially weak in their heart, as their armor does not cover a small ring at the center of their chest, directly in front of one of their three hearts. If this heart is pierced, they will be weakened by at least fifty percent of their stats.
+
+Average Levels at the Opening of the Fracture: Always level 100
+
+Demon Fomorians
+
+Description: The basic demon grunt of a Class II Fracture. These creatures are subordinate to most other Class II or above demons, and they often are seen acting as cannon fodder. They have two hearts.
+
+Weakness: Fomorians have a strong sense of sight and can be stunned by basically any bright lights.
+
+Average Levels at the Opening of the Fracture: 100-150
+
+Demon Acolytes
+
+Description: The weakest magic using demon. These creatures often tend to lead small groups of demon fomorians through the Class II Fractures.
+
+Weakness: Acolytes are not very physically strong despite their magic and need fomorians to defend them.
+
+Average Levels at the Opening of the Fracture: 125-155
+
+Demon Wraiths
+
+Description: These demons have the ability to cloak themselves in shadow in order to hunt their prey. They will ignore anything and everything except for those they have marked as their prey.
+
+Weakness: Easily distracted by the sight of their prey. Used to sneak attacks and not upfront combat.
+
+Average Levels at the Opening of the Fracture: 150-160
+
+Demon Berserkers
+
+Description: These demons go on a rampage, attacking anything and everything that moves. This includes other demons.
+
+Weakness: They will attack and are attacked by other demons as well. They are not capable of intellectual thought or planning.
+
+Average Levels at the Opening of the Fracture: 160-200
+
+Demon Defenders
+
+Description: The Class II version of Demon Knights. They will defend their charge no matter what, even to the point of sacrificing their lives. They have powerful armor made up of scales protecting them.
+
+Weakness: They will never leave their charge, so are easy to escape as long as the charge isn’t chasing. They have a chink in their armor located underneath their armpits.
+
+Average Levels at the Opening of the Fracture: 175-200
+
+Demon Summoners
+
+Description: These demons summon other demons forth from their home planet of Tartarus, and are capable of using limited magic in an offensive manner. They often have nearly ten Demon Defenders guarding them.
+
+Weakness: They are poorly equipped for combat and are incredibly weak in terms of physical strength.
+
+Average Levels at the Opening of the Fracture: 190-210
+
+Demon Commander
+
+Description: These demons are as intelligent as a human being and are in charge of the Class II Fractures. All of the demons beneath them follow their commands, with the sole exception being the berserkers, who still listen to simple commands like go and stop and refuse to attack the commander.
+
+Weakness: Demon Commanders have five hearts and each one must be destroyed for it to die. But with every heart destroyed, the commander loses a significant portion of their fighting prowess. They are located in the following spots on its body: Center of its chest, the two sides of its torso right beneath its chest, and in two opposite spots above its naval.
+
+Average Levels at the Opening of the Fracture: Always level 250
+
+Changelings
+
+Description: These demons are as intelligent as a human being and are able to shapeshift into young versions of whatever they eat. They are the reason behind human society’s discrimination of orphans growing into what it was today due to distrust that the orphans may possibly be changelings after an event occurred soon after the loss of old world Japan where changelings hid themselves amongst human orphans, posing as orphans themselves after eating the children and taking their form then spreading throughout parts of old world China. They have a skill that blocks other humans from identifying them.
+
+Weakness: Unknown.
+
+Average Levels at the Opening of the Fracture: Unknown. They don't appear in Fractures. They enter Earth directly through Gates.
+
+The levels of demon Classes also correspond to Classes for Guardians.
+
+A new glossary will be posted later on with updated demons for the remaining Classes.
+
+Characters
+
+Scarlet Asger:
+
+Scarlet is 19 years old as of the start of the story, is 5 foot 8 inches tall, favorite colors are red and black, has black hair before awakening, and is almost always seen wearing a black and red jacket and black pants. She dislikes skirts and dresses and is very pragmatic and feels very in line with the idea of an eye for an eye, a tooth for a tooth. However, she also knows when not to push too far and is sometimes a little judgmental. She is reckless, has a strong sense of pride that is enhanced by her being half blood lycan, and does not like people touching her ears.
+
+The Scarlet Wolf is the title given to her by the public.
+
+Find more art in the story art chapter.
+
+Allen Silvester:
+
+Former orphanage director of the Silvester Orphanage, current CEO of Silver Works – a world renowned tech company famous for inventing magi-tech. He is a supporter of Scarlet and cares about her and the other orphans like a father would. However, there were many times that he almost lost his position as CEO because of his work for the orphanage, his brother having constantly tried to take the position out from under him. In the end, the board of shareholders for Silver Works forced him to give away the orphanage right when Scarlet was graduating from High School.
+
+Allen is also a Guardian under the title ‘Cipher’. His magic is Technomancy, and his current magic skills involve him taking control of technology near him and breaking through their firewalls, along with other aspects such as the control of special nanomachines.
+
+Cynthia Sylvester:
+
+Allen’s wife, Arabellia’s mother, and Scarlet’s mother figure. She is incredibly cold and can be seen by many as simply uncaring towards anyone outside of her family while being protective of her family itself. But in reality, she’s just afraid of losing someone else, like how she lost Belle’s sister.
+
+Cynthia is also a Guardian under the title Frost, and one of the current Class IV Guardians most voted by the populous to likely reach Class V. She wears pale blue and white armor, with black hair streaked with pale blue, and has eyes that let off a faint pale blue glow.
+
+(This image is from later on in the story but since it doesn't spoil anything I'm posting it here)
+
+Arthur Barnes:
+
+A childhood friend of Scarlet’s and Belle’s, and is Belle’s boyfriend. He is the same age as the two and was also an orphan of the Silvester Orphanage. But unlike her, he accepted a lesser scholarship to the Tier 2 university known as Rhettford University in the city of Rhettford.
+
+Arthur loves Belle with all of his heart and treats Scarlet like a younger sister. He is always beating Scarlet at video games that require a fast reaction speed, and was often the one who worked with Scarlet when she was doing something reckless back at the Tier 3 city if for no other reason than to make sure she didn't get into trouble. Or into too much trouble.
+
+But he ended up taking a lot of the heat half the time when she would make a last minute escape right when Allen would return to the orphanage to yell at them.
+
+(This image is also from later on in the story but does not have any spoilers in it)
+
+Arabellia Silvester:
+
+Allen Silvester’s biological daughter and another childhood friend of Scarlet’s. She currently attends one of the famous universities in the Tier 1 capital city, Terra, called Terra University. She is Arthur’s girlfriend and treats Scarlet like a little sister since Arabellia is quite tall for her age, standing at nearly six feet tall despite being the same age as Scarlet.
+
+She likes to drag Scarlet around shopping if she ever gets the chance, and also wishes she could dress Scarlet up more often, since she almost never lets her. The two have been close since they can remember and often text each other to keep in contact.
+
+Unlike Arthur, Belle has no interest in video games and instead watched a lot of movies with Scarlet when they were younger.
+
+Sylver:
+
+A Guardian at the bottom of Class II working for the Silver Association. He is the same age as Scarlet and attends Lion’s Heart Guardians University. He has silver lightning that doesn’t need to be conducted to move and can take control of simple electronics.
+
+Michael Winters:
+
+A Guardian who contracted three weeks before the start of the story and is a new student at Lion’s Heart Guardians University. He is just one year older than Scarlet and has Nature magic. He is a stoic and by the book individual who keeps Denise in line as he has been a close friend to her for years.
+
+Nature Magic: Gives primarily healing skills with some summoning/creation skills to summon or create familiars and summoned beings to help him fight.
+
+Denise Harley:
+
+A Guardian who contracted two weeks before the start of the story and is a new student at the Guardian University. She is two years older than Scarlet and has Inferno magic. She is an overly caring and passionate individual who has few filters or borders but is able to learn from her mistakes.
+
+Inferno Magic: Gives skills related to fire and ice magic. Including both body enhancement skills and magical attacks.
+
+Emily Winters:
+
+A Guardian who contracted three weeks before the start of the story and is a new student at the Guardian University. She is a year younger than Scarlet and has Corruption magic. She is shy and often hides behind her older brother as they both contracted at the same time and are very close.
+
+Corruption Magic: Gives skills related to the corroding of a biological body. Includes poisons, viruses, and other types of things like that.
+
+Sage:
+
+She is the head of intelligence for Cipher and the Silver Association. The woman barely displays any of her emotions, and many people believe that she may have lost them entirely upon being turned into a Guardian with Seer magic.
+
+Seer Magic: Gives prophetic visions and foresight and prediction related skills.
+
+Alfred Raynsford:
+
+The vice-headmaster of Lion’s Heart Guardians University and the one who observed Scarlet’s entrance exam. He holds a grudge against Cipher for something he did back when he was a student at the university. Alfred has 2 tails.
+
+Jacob R. Ashton:
+
+He is the government official in charge of registering new Guardians, and is the former headmaster of Lion’s Heart. However, not much else is known about him beyond his being familiar with White.
+
+White:
+
+White is an unknown in the story at this moment. Her exact identity will be explained in the future, but at this moment, all that is known about her is that she contracted Allen Sylvester to create an orphanage and left Scarlet to him, telling him to raise her like she was just a regular orphan, that she has ties to the government official Jacob R. Ashton, and one more detail that is not directly stated in the story but many might catch onto.
