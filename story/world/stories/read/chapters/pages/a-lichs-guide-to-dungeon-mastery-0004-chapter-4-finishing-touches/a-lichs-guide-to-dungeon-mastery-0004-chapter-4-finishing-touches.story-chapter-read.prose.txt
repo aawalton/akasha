@@ -1,0 +1,171 @@
+In order, I had designed and decorated the layout of my dungeon, I had populated it with mobs, and I had obtained a way to control those mobs. What next?
+
+Wait, no, this is an obvious one.
+
+Loot.
+
+I didn’t know if humans had a system similar to the one that my Phylactery contained, but I couldn’t bet on there being an experience system even if they did, since I didn’t seem to have one. If, like with me, their leveling cared more about their Skills and Boons than slaughter, the dungeon might only provide a small boost to their learning speed. XP systems had always proven inferior to milestone leveling anyways.
+
+No, to entice adventurers, I would need loot. Now, I couldn’t have monsters drop loot, at least, not unless I wanted to put the loot inside of them and dissolve their bodies after they were killed, but that sounded tedious. No, no, I would need treasure chests.
+
+At the entrance to each room, I placed a small treasure chest, just off to the right a bit. It took a minute to figure out the hinges, but once I had, it wasn’t too hard to replicate the design, as I simply needed to pull a slab of stone from the ground, Mold it into a rough shape, Transmute it, and Mold it a bit more.
+
+I didn’t currently have much to offer in terms of magic items or legitimate loot, but that was fine. Perhaps I’d find a way to get those created en masse later. In the meantime, I had a transmutation skill that could literally turn lead into gold.
+
+Gold was valuable no matter where you went. The Gold Standard was used internationally for 50 years because it was generally considered a good thing to base currency off of. It was rare, tough, and pretty, to the point where rich people in the 1800’s had used it for interior design. Now, that makes it seem very much not rare, but those people were incomparably wealthy and had little to no compunctions of careful spending, so using such a rare material for building was simply an expensive way to flex their industrial power or heritage.
+
+Anyways, I was filling the treasure chests with gold coins. I’d put just a single coin in the first, three in the second, and six in the third. The last room, the one with the Antigo, would have two chests at the end of the room, each holding five gold coins. They were small, but the value of them should be good enough to make up for that.
+
+Yes, I like triangular numbers, get over it.
+
+Hopefully, this system would encourage people to push beyond their means in an attempt to gain greater rewards. I know it sounds cruel to say that I wanted people to die for my gain, but it wasn’t like I, myself, would be killing them. No, in most scenarios I could imagine, the people who came in here would know that they were in a dangerous location, and would be accepting that risk in order to gain wealth and, potentially, power.
+
+Was this the logic of a psychopath? Perhaps, but did it really matter? As long as it worked, it worked.
+
+The gold coins weren’t hard to make, though it did take a bit of time. I had to coalesce and merge stone into the shape I wanted with Mold Terrain–which, by the way, absolutely worked on more than just terrain–and then use Transmute to turn it into gold before fixing up some rough edges with more Mold Terrain. The coins of gold would be the same weight as the stone that they were formed from, which meant that they’d shrink significantly, but I used Delinear Sight to ensure that they were all about 30 grams.
+
+For funsies, I even etched a marking on the top of the coins: a forward-facing rendition of the Antigo’s head, horns and all. Personally, I thought it looked rather impressive, though I was sure that anyone who managed to get their hands on it would be more focused on the gold itself.
+
+Time for the stupid part.
+
+It would have been easy to simply make the gold coins inside the chests with Omnipresence, and I would most likely end up doing that in the long run, but I thought that it would be a fun idea to try Stitching the coins into the space of the chests. I thought that I’d improved in my energy efficiency enough to at least give it another attempt, even if it hadn’t really been all that long since I first messed with my Stitching Boon.
+
+I turned on Delinear Sight and Omnipresence, simultaneously viewing the space around the gold coin that laid before me and the open space. I clamped down on my mind, focusing completely on those two spaces.
+
+I cut out the space surrounding the coin and a bit inside the chest as well. I felt my mental energy take a huge hit from making the cuts, more than just the constant drain that enabled its conversion to Spatium, and I immediately knew that I was doing something wrong, but I pushed away those thoughts. I couldn’t get distracted now.
+
+Luckily, the threads of space didn’t seem to obey any laws of physics once severed from the physical plane, and their transportation was instant, though that caused another flash of energy drain.
+
+I started to feel shivers once again, a sign that my energy reserves were growing low, but I felt a steady influx of Necrosis trying to stabilize me. It seemed that the nature of a Reconstituted body allowed the energy from my influence to flow to me more directly.
+
+I shook the thoughts off again, having wasted even more mental energy due to the distraction.
+
+Luckily, the next part was simple, as the threads of space were already looking for a way to be mended. All it took was a small push, and the gold coin appeared inside the chest. It hadn’t been too difficult, only costing me most of my energies and a huge amount of exertion.
+
+I looked to my Phylactery to see if I’d missed any buzzes while I’d been focused.
+
+Spatium Manipulation 1
+
+Alas, it seemed that it would be a bit longer until I could obtain another Boon in Spatium Manipulation. I hoped that the next choices would provide me something that could make the process less energy intensive, or perhaps streamline it at the least. Too bad.
+
+Well, at least I knew that teleporting stuff around the dungeon was off the table for now.
+
+Now, I had rooms, mobs, and loot. What else was there? Puzzles were off the table, since I didn’t know enough about magic to make them properly. How about tra–wait, no, I need doors first.
+
+I quickly went through a few renditions of hinges and door types but eventually settled on steel double doors. I couldn’t get wood, and I didn’t want the doors to be too heavy or lacking in durability, so I felt that a slim steel door, reinforced by what little Necrosis I could push into it, worked the best.
+
+Now, what was I about to say? Oh, right, traps and environmental hazards. I’d have to decide on a style first, though.
+
+I thought through a few things that I could make traps out of, and eventually settled on stone bookcases. The Caerbalopes would be able to hide inside them, and they were detached from the floor, allowing the Caerbalopes to–with some direction from myself and perhaps a bit of teamwork–knock them onto pesky adventurers’ heads. They were stacked closely enough that a single collision could cause them all to fall over like dominoes, which would obviously be quite dangerous for all the creatures in the room, including the Caerbalopes, but they didn’t particularly fear for their own lives.
+
+Now, bookshelves on their own were boring, so I decided that I needed books. The issue there was that the Transmute Boon had its own limits and rules. The most notable one in this case was that living matter couldn’t be Transmuted, and no matter could be Transmuted into organic materials.
+
+However, I had a Boon from another Skill that was specifically designed to produce dead organic material. Create Undead was an interestingly flexible Boon. Y’see, it didn’t actually create undead creatures, what it really did was spawn corpses that were perfect for creating undead. The distinction was small, but it did exist, and because of that, I could use the Boon to coalesce Necrosis into almost anything I wanted.
+
+For example, books.
+
+Step one was something that I had become quite familiar with at this point. I Called a jackalope. Once the connection was established, rather than wait for the Skill to pull the creature through itself, I reinforced the bond with Spatium and bodily yanked it through space with my fleshless hands. The poor thing let out a terrified squeak, and for a moment I felt bad for it. Then I snapped its neck, ending its suffering.
+
+Shape Necrosis was the next step, and I took the time to carefully pull apart each individual resource in the body, roughly discarding those I wouldn’t need. At the end, I was left with three globs of material, one for hide, one for tendons, and one for cartilage.
+
+There was a certain type of “paper” called vellum, and vellum was made from animal hide that underwent a long, complex process. Tanned hide could also be used to make book covers, and I hoped that I could use cartilage to make hardcover books and tendons to bind pages.
+
+I summoned a few more jackalopes, knowing that I’d need quite a bit more material for this. I’d have used Create Undead, but I suppose my knowledge of the biology of a jackalope was insufficient to do so. Instead, I had to make do with this, which was honestly fine. I didn’t mind working on leveling my Calling Skill, as I felt that it would be one of the main factors holding back my leveling if I couldn’t get my hands on the names of some creatures pretty soon.
+
+Anyways, once I’d completed the gruesome task of separating corpses into material with Shape Necrosis, I split the jackalope furs into two groups, where I’d tan and shape one into a rough book cover, and I’d turn the other into vellum pages. For both piles, I dehaired and tanned them, a process that was much faster with Shape Necrosis than it would have been otherwise. Changing the content of the cells was more difficult, but with a bit of focus, I could convince the cells to replicate the effects of tanning. I further strengthened them with Necrosis, and knew that they wouldn’t rot away.
+
+I kept the hides meant for the cover mostly thicker, but drew some cartilage over, formed it into three flat plates, one thinner than the others, bound them together with tendons, and stretched the hides around it, then compacted the material a bit, keeping it tough while making the book easier to hold. I then turned my attention to the hides meant for vellum, and focused for a minute, eventually convincing the dead cells to spit out their melanin. I then stretched the hides out and sheared them until they were the right size and shape, ending up with some rectangular vellum sheets. It still had Necrosis in it, so I could still control it. I pulled at some of the tendons I’d split from the body, and bound thin strands of musculature to the vellum, then attached them to the rough book cover I’d made.
+
+I looked down at the fleshy book. I couldn’t deny that it looked like a necronomicon. Just for funsies, I sent a pulse through it with Animate Necrosis, then commanded the “book” to move around. It flapped its cover and ruffled its pages, but ultimately was incapable of movement.
+
+At least, it was until I fashioned some loose bones into eight distinct legs. Then it crawled around just fine. It still couldn’t see though, so I moved some stuff around and thickened the cover until I could affix some eyes in it. I went with eight, just to fit the spider theme. Really, it looked more like a crab, but explorers who came in here would probably be too scared to tell the difference.
+
+The creepy little bugger–I decided to call it an Arachnomicon–moved carefully and ponderously, its weight slightly unbalanced. Still, when I instructed it to attack a jackalope that I’d Called to act as a test dummy for it, it picked up speed fast, and the deer-rabbit’s body was soon being carved into with the wicked bone spikes I’d given the beast as legs.
+
+I decided that I’d mostly summon the normal flesh books, but the rooms would also have a few of these Arachnomicons in the mix. Now that I'd made an Arachnomicon, I would be able to use Create Undead to make more, though the efficiency would be lower than it was with my Caerbalopes and the Antigo since it wasn't technically Named.
+
+I spent a few hours constructing the bookshelves to house my new books, but stopped when I realized that it was a bit lame for the books to not contain any information at all. Perhaps I should fill them? But with what? I had a basic education, and could probably explain some novel math or writing theories, but… I didn’t really want to?
+
+Maybe I’d find books to copy later. In the meantime, I’d have to live with blank pages.
+
+The bookshelves were constructed out of pumice. Yes, pumice. Its visual appeal was negligible, but pumice was light and would be easy for my Caerbalopes to knock onto people. The damage would be reduced by the lightweight nature of the rock, but I felt that having the traps be actually harmful was less important than using them to, well, trap people. If they could keep people in one place, then that would provide opportunities for my Caerbalopes and Arachnomicons to gang up on them.
+
+In the boss room, just to keep the design consistent, I threw in a couple more bookshelves, only on one wall, and then smashed them by carving out boulders from the ceiling and dropping them onto it. I also etched some fake claw marks in them, just to make it look like the Antigo was the thing that destroyed it all.
+
+I imagined that this final boss room would be something like an office, and so I made a desk to one side of the room. This was also broken by yours truly, split into two pieces, as if some huge fight had occurred. Moving the boulders out of the way was a bit of a pain, but I finally got a chance to test out the Antigo's strength.
+
+Its muscles easily lifted the large rocks, though there was some issue with its claws getting in the way. Still, it was plenty strong, and the stones were soon reintegrated with the stone and the ceiling was restored.
+
+Once everything was cleaned up, the rooms were decorated and filled with books and "books," and the mobs were in place, I revisited my list and realized it was time. I used Mold Terrain to once more compact the earth and create a tunnel that led out of the mountain.
+
+The dungeon was open for business.
+
+…Actually, give me a minute to work on this entrance.
+
+I spread my influence outside the cave, and created a tiled path that led just a slight bit down the path. I then Transmuted the earth around the entrance into the same limestone I'd used for the interior, making the tiles line up just right.
+
+After that, I decided that I needed some sort of light source to make the dungeon entrance more visible. It was currently night, so the townspeople probably couldn't even see the dungeon right now. I thought about it for a moment, but then used Create Undead to form an Antigo just outside the cave. The thing stood up and roared in a display of might, but then its head, along with one of its arms, fell off as I used Shape Necrosis through my Omnipresence. I allowed the remainder of the corpse to dissolve into Necrosis, marginally increasing the density of energy by the entrance, but forced the arm to grab the head. I planted a bit over half of it in the ground, with the head sitting on top. I thought for a moment, then sundered its tight flesh from its body, making it appear more skeletal in nature.
+
+I condensed the creature's flesh inside its skull, then stuffed it with more and more Necrosis. My hope was that I could get it to form a light source if there was enough energy in there.
+
+I felt something wriggle inside the Antigo's flesh, and dragged some more mental energy into stabilizing the mass of energy and meat. I could feel a sense of hunger growing in the ball of muscle, and could tell that the Necrosis energy was looking for something to eat. The flesh around it, however, was made of Necrosis, so it had no choice but to do something else with itself.
+
+A soft teal glow emerged from the external skull, and I slowly released my vice grip on the energy. It was barely noticeable without my ability to sense the energy of death, but it was glowing. Based on the slow energy leak, I could tell that I'd need to refill it later, but for now, I was feeling a bit drained.
+
+I pulled myself away from the viewpoint of Omnipresence and took a good look at my Phylactery. I'd set my body a bit away from it, but now I moved forward and set a hand on it before looking in.
+
+Seif Ambrose
+
+Spatial Lich 1
+
+Phylactery 1
+
+Necrosis Manipulation 3
+
+Domain of Undeath 3
+
+Spatium Manipulation 1
+
+Calling 1
+
+Enhancements: Willpower
+
+Named Belongings: Caerbalope, Antigo
+
+Currently, my Necrosis Manipulation and Domain of Undeath Skills were doing excellently, but everything else was a bit of a holdup. Calling and Spatium Manipulation were actually both close to leveling, which was great, but they were also probably the two most difficult skills for me to increase the level of.
+
+My Phylactery Skill had also had difficulty increasing in level, probably because I'd only been inside it twice. I had some ideas for that, but I'd prefer to fix the other two holdouts first.
+
+Deciding to start with Calling, as it would likely be the easiest to level, I pictured what I wanted to summon, and muttered, "Dualjack Caerbalope." A tether in my mind that I hadn't noticed before tightened, and a moment later, a fleshy abomination appeared in front of me. No buzz, though.
+
+I explored where the tether had formed, and found many other previously unnoticed tethers of similar shape, each extending from a single point in my soul and reaching outwards. I manually tugged on one of them, and another Dualjack Caerbalope popped into my hands.
+
+I think I'd finally figured out how the Calling spell really worked. It wasn't like Stitching or Banding, as it didn't work by transplanting space. You'd think that would be how it worked, but it seemed that Calling was an entirely different discipline of magic. It didn't work by finding a creature, making a portal, and pulling them in. Instead, it felt out for the links of different things. Taglock didn't just hunt for DNA, it found what had a close link to the provided material. Nomantic worked based on the power that a name held over a creature, how that name described a creature in a single word and was the ultimate and most direct way to draw their attention. It would create a small probe that searched along the links that trembled as that name was called, and it would find the creature that most accurately resembled the provided image.
+
+When I'd originally gained the Boon, I'd asked for a dragon. The issue wasn't that there wasn't a tether, it was simply that the tether wasn't strong enough for the probe to be sent out. The universe knew what a dragon was, sure, but it knew each name individually, and that designation was far more powerful. On Earth, if you walked into a room and started yelling "Human" over and over again, you'd get some weird looks and someone might ask you to stop, but you were unlikely to get anyone to actually approach you, unless you really annoyed them.
+
+On the other hand, if you shouted someone's name? You'd instantly have their full attention. Calling worked based on the same principles. It almost felt closer to a sort of sympathetic magic, but that was only what was done for the targeting. The actual summoning was performed by grabbing those links and shortening them in a mix between Stitching and Banding.
+
+I wonder what Banding would have looked like to my Delinear Sight. Stitching allowed me to see the detailed weaving of the world, but what would Banding have done? Would it have had more to do with specific objects, or something? I guess I'd never know.
+
+I felt a buzz in my head, and knew that I'd leveled Calling not once, but twice. It hadn't been done through repetition, but rather understanding, and the change in levels reflected that.
+
+Calling 2
+
+I'd gained three Boon levels at once. It truly seemed that understanding was the way to go with this magic, which made sense. After all, practice without understanding would prevent you from improving, since you didn't know what you were actually doing, and understanding without practice meant that you would know a lot, but lack the ability to do any of it well.
+
+I almost wanted to give the rest of my Skills and Boons another look to see if there was anything I'd missed, but first I needed to decide what this level would do.
+
+Bondsight was like my Deadsight and Delinear Sight, which was interesting since this Skill was provided by the Spatial Lich specialization, but gave a different sight Boon than Spatium Manipulation. It was starting to feel like this Skill had more than just Spatium driving it. Anyways, Bondsight would let me see the bonds between other things, like between people or objects. That included things like gravitational or magnetic bonds, which was interesting, if only tangentially useful.
+
+Locus Call would let me think of a specific place in my mind, and Call anything that was there. The cost was larger if your image of the location was inaccurate, but if you could directly see the location, then the cost would be even lower than using a different Calling Boon. Overall, it was pretty good, and would be especially useful once my influence was larger, with my Omnipresence allowing me to see whatever was within my Domain.
+
+I knew how Calling worked now, and might be able to replicate the effects of Locus Call with some elbow grease, freeform casting, and Spatium Manipulation, especially with the aid of my Domain of Undeath and this new Bondsight.
+
+The Boon clicked into place, and I was already poking at the bonds I saw. When I imbued some Spatium into myself, I could feel the bonds quiver a bit, but I felt no real reaction. I'd have to find some way to use this, but for now, it would just have to be used to assist Calling.
+
+Next on the chopping block was Sp– wait, what was that?
+
+I sent my Omnipresent viewpoint out to check out the release of energy, and found a group of people cutting down motionless Caerbalopes.
+
+It seemed that my dungeon was being raided for the very first time.

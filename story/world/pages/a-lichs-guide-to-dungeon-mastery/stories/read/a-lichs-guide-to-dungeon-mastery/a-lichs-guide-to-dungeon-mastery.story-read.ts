@@ -1,0 +1,42 @@
+import type { StoryRead } from "akasha/story/world/stories/read/story-read.page-type.types.ts"
+
+export const aLichsGuideToDungeonMastery = {
+  id: "01a16cab-fcf9-799f-9730-69f73a051a3e",
+  type: "page-type/story-read",
+  slug: "a-lichs-guide-to-dungeon-mastery",
+  author: "VagrantCrusader",
+  following: false,
+  unit: "unit/words",
+  title: "A Lich's Guide to Dungeon Mastery",
+  world: "world/a-lichs-guide-to-dungeon-mastery",
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "74848",
+      externalLink: "https://www.royalroad.com/fiction/74848/a-lichs-guide-to-dungeon-mastery",
+    },
+  ],
+  externalTags: [
+    "LitRPG",
+    "Progression",
+    "Anti-Hero Lead",
+    "Strategy",
+    "Comedy",
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Dungeon Core",
+    "GameLit",
+    "Grimdark",
+    "High Fantasy",
+    "Magic",
+    "Male Lead",
+    "Non-Human Lead",
+    "Strong Lead",
+    "Villainous Lead",
+  ],
+  readLater: true,
+  createdAt: "2026-10-24T06:49:33.177Z",
+  updatedAt: "2026-10-24T06:49:33.177Z",
+} as const satisfies StoryRead
