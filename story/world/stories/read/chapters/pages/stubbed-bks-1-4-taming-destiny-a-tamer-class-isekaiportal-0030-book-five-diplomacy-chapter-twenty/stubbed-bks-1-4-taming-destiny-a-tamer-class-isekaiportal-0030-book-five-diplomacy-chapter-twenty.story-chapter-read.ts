@@ -1,0 +1,24 @@
+import type { StoryChapterRead } from "akasha/story/world/stories/read/chapters/story-chapter-read.page-type.types.ts"
+
+export const stubbedBks14TamingDestinyATamerClassIsekaiportal0030BookFiveDiplomacyChapterTwenty = {
+  id: "01a16ce2-d510-7a5d-acca-a66c33e38966",
+  type: "page-type/story-chapter-read",
+  slug: "stubbed-bks-1-4-taming-destiny-a-tamer-class-isekaiportal-0030-book-five-diplomacy-chapter-twenty",
+  position: 30,
+  publishedAt: "2024-10-12",
+  unit: "unit/words",
+  title: "Book Five: Diplomacy - Chapter Twenty-Two: Is It Time?",
+  story: "story-read/stubbed-bks-1-4-taming-destiny-a-tamer-class-isekaiportal",
+  ownLength: 2312,
+  prose: "txt",
+  externalIdentity: [
+    {
+      source: "royal-road",
+      externalId: "1847208",
+      externalLink:
+        "https://www.royalroad.com/fiction/68750/stubbed-bks-1-4-taming-destiny-a-tamer-class-isekaiportal/chapter/1847208/book-five-diplomacy-chapter-twenty-two-is-it-time",
+    },
+  ],
+  createdAt: "2026-10-24T07:49:27.439Z",
+  updatedAt: "2026-10-24T07:49:27.439Z",
+} as const satisfies StoryChapterRead
